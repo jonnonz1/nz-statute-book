@@ -1,0 +1,192 @@
+# Winston Churchill Memorial Trust Act 1965
+_Consolidation as at 2003-07-01_
+
+> An Act to establish the Winston Churchill Memorial Trust Fund, to constitute a Board to administer the Fund, and to make provision with respect to the Fund
+
+### 1 Short Title
+This Act may be cited as the Winston Churchill Memorial Trust Act 1965.
+
+### 2 Interpretation
+In this Act, unless the context otherwise requires—
+  - **Board** means the Winston Churchill Memorial Trust Board established by this Act
+  - **Fund** means the Winston Churchill Memorial Trust Fund established by this Act
+  - **Minister** means the Minister of Internal Affairs.
+
+**The Winston Churchill Memorial Trust Board**
+
+### 3 The Winston Churchill Memorial Trust Board
+(1) There is hereby established a Board to be called the Winston Churchill Memorial Trust Board.
+(2) The Board shall be a body corporate with perpetual succession and a common seal and shall be capable of acquiring, holding, and disposing of real and personal property, of suing and being sued, and of doing and suffering all such other acts and things as bodies corporate may do and suffer.
+
+### 4 Membership of Board
+(1) The Board shall consist of 9 persons appointed by the Governor-General on the recommendation of the Minister:
+  provided that the Minister, after the first members are appointed, shall consult with the Board before recommending the appointment or reappointment of any person as a member.
+(2) No person, by reason only of his being a member of the Board or of any committee appointed by the Board, shall be deemed to be employed in the State services for the purposes of the State Sector Act 1988, or in the Government service for the purposes of the Government Superannuation Fund Act 1956.
+
+### 5 Terms of office of members
+(1) Except as otherwise provided by this Act, the members of the Board shall be appointed for a term of 6 years.
+(2) Four of the first members shall be appointed for a term expiring with 31 March 1969 and the remaining 5 (including the Chairman) shall be appointed for a term expiring with 31 March 1972.
+(3) Any member whose term of office expires with 31 March 1969, and any member appointed under section 6 to fill an extraordinary vacancy for a term of less than 3 years may be reappointed to the Board for a term of 6 years, but otherwise no member of the Board shall be reappointed.
+(4) Notwithstanding anything to the contrary in this Act, every member of the Board, unless he sooner vacates his office under section 6, shall continue in office until his successor comes into office.
+
+### 6 Extraordinary vacancies
+(1) Any member of the Board may at any time be removed from office by the Governor-General for inability to perform the functions of the office, bankruptcy, neglect of duty, or misconduct proved to the satisfaction of the Governor-General, or may at any time resign his office by written notice to the Minister.
+(2) If any member dies or resigns, or is removed from office, his office shall become vacant and the vacancy shall be deemed to be an extraordinary vacancy.
+(3) An extraordinary vacancy shall be filled in the same manner in which the appointment to the vacant office was made.
+(4) Every person appointed to fill an extraordinary vacancy shall be appointed for the residue of the term for which the vacating member was appointed.
+
+### 7 Chairman of the Board
+(1) One member of the Board shall be appointed as Chairman of the Board by the Governor-General on the recommendation of the Minister.
+(2) Unless he sooner resigns his office as Chairman, any member appointed as Chairman shall hold office as such during the period he remains a member of the Board.
+
+### 8 Deputy Chairman of the Board
+(1) At the first meeting of the Board and thereafter at the first meeting of the Board held after 1 April each year, and also at the first meeting of the Board held after the occurrence of a vacancy in the office of the Deputy Chairman, the Board shall elect one of its members to be the Deputy Chairman. Any person so elected shall hold office, while he continues to be a member of the Board, until the appointment of his successor in accordance with this section, and may be reappointed.
+(2) Subject to the provisions of this Act, the Deputy Chairman shall have and may exercise all the powers and duties of the Chairman during the absence or incapacity of the Chairman or while there is a vacancy in the office of Chairman.
+(3) No acts done by the Deputy Chairman acting as Chairman, and no acts done by the Board while the Deputy Chairman is acting as Chairman, shall in any proceedings be questioned on the ground that the occasion for his so acting had not arisen or had ceased.
+
+### 9 Meetings of the Board
+(1) The Chairman shall preside at all meetings of the Board at which he is present.
+(2) The Deputy Chairman shall preside at all meetings of the Board at which the Chairman is not present. In the absence of both the Chairman and the Deputy Chairman from any meeting, the members present shall appoint one of their number to be the chairman of that meeting.
+(3) The first meeting of the Board shall be held on a day to be appointed in that behalf by the Minister.
+(4) Subsequent meetings of the Board shall be held at such times and places as the Board determines.
+(5) A special meeting of the Board may at any time be called by the Chairman, and the Chairman shall call a special meeting whenever he is requested to do so in writing by 2 members of the Board:
+  provided that not less than 7 clear days' notice of every special meeting and of the business to be transacted thereat shall be given to each member for the time being in New Zealand, and no business other than that specified in the notice shall be transacted at any such special meeting.
+(6) At all meetings of the Board the quorum necessary for the transaction of business shall be 5 members.
+(7) Every question before the Board shall be determined by a majority of the valid votes of the members present recorded thereon:
+  provided that a resolution signed or assented to by letter or telegram by a majority of the members of the Board for the time being in New Zealand shall have the same effect as a resolution duly passed at a meeting of the Board.
+(8) The Chairman at any meeting shall have a deliberative vote and, in the case of an equality of votes, a casting vote.
+(9) There shall be not less than 1 meeting of the Board in each financial year.
+(10) Subject to the provisions of this Act and to the rules of the Board, the Board may regulate its own proceedings in such manner as it thinks fit.
+
+### 10 Executive committee, special committees, and delegation of powers
+(1) The Board may from time to time, by resolution, appoint, discharge, alter, continue, or reconstitute—
+  (a) an executive committee of not less than 3 members:
+  (b) special committees for particular purposes.
+(2) Every member of the executive committee shall be a member of the Board, but any person may be appointed to a special committee notwithstanding that he is not a member of the Board.
+(3) The Board may delegate to the executive committee or to any special committee such of its powers as it thinks fit.
+(4) Subject to any general or special directions given or conditions attached by the Board, any powers and functions so delegated may be performed and exercised by the committee with the same effect as if those powers and functions had been directly conferred by this Act and not by delegation.
+(5) Every committee purporting to act under any delegation under this section shall be presumed to be acting in accordance with the terms of the delegation, in the absence of proof to the contrary.
+(6) Every such delegation shall be revocable at will, and no such delegation shall prevent the performance or exercise of any power by the Board.
+(7) Until any such delegation is revoked, it shall continue in force according to its tenor, notwithstanding any change in the membership of the Board or of any committee.
+(8) Subject to the rules of the Board, each committee may regulate its own proceedings in such manner as it thinks fit.
+
+### 11 Rules of Board
+(1) The Board may, by resolution, make rules not inconsistent with this Act for all or any of the following purposes, namely:
+  (a) regulating the proceedings of the Board and of any committee of the Board and the conduct of meetings of the Board or any such committee:
+  (b) providing for the custody of the property of the Board and the custody and use of the common seal of the Board:
+  (c) prescribing the manner in which applications for grants, awards, or fellowships under this Act shall be made:
+  (d) providing for such matters as may be deemed necessary or expedient for duly carrying out the work of the Board.
+(2) Notice of every resolution proposed to be submitted to any meeting for the making, amendment, or revocation of any such rules as aforesaid shall be given to every member of the Board for the time being in New Zealand not less than 7 clear days before the day fixed for the meeting.
+
+### 12 Proceedings of Board not affected by irregularities
+No act or proceedings of the Board, or of any committee thereof, or of any person acting as a member of the Board, shall be invalidated in consequence of there being a vacancy in the membership of the Board at the time of that act or proceeding, or of the subsequent discovery that there was some defect in the appointment of any person so acting, or that he was incapable of being or had ceased to be such a member, or that an insufficient number of meetings of the Board was held in any financial year.
+
+### 13 Functions and powers of Board
+(1) The general functions of the Board shall be—
+  (a) to administer the Winston Churchill Memorial Trust Fund in accordance with this Act:
+  (b) to consider applications for payments from the Fund and to determine those persons to whom grants, awards, or fellowships are to be made under this Act:
+  (c) to exercise such functions as may be lawfully conferred on it by or under this or any other Act or otherwise howsoever.
+(2) The Board shall have all such powers, rights, and authorities as may be necessary or expedient to enable it to carry out its functions.
+
+**Establishment of Fund and financial provisions**
+
+### 14 The Winston Churchill Memorial Trust Fund
+There is hereby established a fund to be known as the Winston Churchill Memorial Trust Fund which shall be administered for the purposes of this Act and which shall comprise all grants, donations, or gifts made to or vested in the Board together with any income of the Board received from any source whatsoever.
+
+### 15 Donations to Board
+Any local authority within the meaning of the Local Government Act 2002 or other public body, any public corporation, any company or other incorporated body, any unincorporated body of persons, or any other person may, unless expressly prohibited by any Act or instrument of trust affecting the donor, make to the Board donations or gifts and the Board may accept any such donations or gifts.
+
+### 16 Capital and income of Fund
+(1) The capital of the Fund shall consist of:
+  (a) all money vested in the Board pursuant to section 31:
+  (b) all money paid to the Board by way of grants, donations, or gifts under section 15 or otherwise except—
+    (i) the income arising from any shares, debentures, or other like securities held on behalf of the Board and being the subject of a gift to the Board:
+    (ii) any money paid to the Board in the form of an annuity or with an express direction by the donor that it is to be applied as income:
+  (c) all property held by or on behalf of the Board under this Act:
+  (d) all money derived from the sale of any property held by or on behalf of the Board under this Act:
+  (e) all income transferred to capital under subsection (3).
+(2) The income of the Fund shall consist of:
+  (a) all income derived from the investment of money by or on behalf of the Board under this Act:
+  (b) all income derived from the administration of property held by or on behalf of the Board:
+  (c) all money derived from the leasing of land or resulting from any agreement entered into by the Board under section 30:
+  (d) all other money not forming part of the capital of the Fund.
+(3) Any income of the Fund not for the time being required for expenditure under section 18 may, at the discretion of the Board, be transferred to the capital of the Fund, whether or not the income has been invested under subsection (2) of section 17.
+
+### 17 Powers of investment
+(1) Any money, being capital of the Fund within the meaning of section 16, held by or on behalf of the Board shall from time to time be invested in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds:
+  provided that, notwithstanding any rule of law or equity to the contrary, the Board shall not be obliged to convert any property which is the subject of a gift to the Board and which is not property in which the Board may properly invest money pursuant to this subsection.
+(2) Any money, being income of the Fund within the meaning of section 16, may, at the discretion of the Board, from time to time be invested in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds.
+
+### 18 Authorised expenditure
+(1) Subject to the provisions of this Act, the Board may apply the income of the fund in such manner beneficial to the community as the Board thinks fit for all or any of the following purposes:
+  (a) the making of grants or awards or the provision of fellowships to qualified persons who will, in the opinion of the Board, contribute to the general advancement of any occupation, calling, trade, business, or profession carried on or intended to be carried on in New Zealand, or to the benefit in general of New Zealand, or to the maintenance or advancement of the Commonwealth as a beneficial influence in world affairs:
+  (b) the payment of the costs of administration of the affairs of the Board, including its committees and agencies and the provision of office accommodation.
+(2) No person shall be qualified to receive any benefit under paragraph (a) of subsection (1) unless he is—
+  (a) a New Zealand citizen; or
+  (ab) a person who is ordinarily resident in New Zealand; or
+  (b) a person resident outside New Zealand who will, in the opinion of the Board, fulfil the purpose for which the benefit is granted by means of a visit or the extension of a visit to New Zealand.
+
+### 19 Conditions of grants, awards, or fellowships
+(1) The conditions of tenure of every grant, award, or fellowship shall be determined by the Board which shall select the recipients thereof.
+(2) Every grant, award, or fellowship shall be of such value as the Board in its discretion determines and the Board may in its discretion renew or extend it with or without modification in value or conditions of tenure.
+
+### 20 Money to be banked
+(1) All money belonging to the Board shall, as soon as practicable after it has come into the hands of the Secretary or other proper officer of the Board, be paid into such bank as the Board from time to time appoints, to an account to be called the Winston Churchill Memorial Trust Fund Account.
+(2) No money shall be withdrawn from the bank except by authority of the Board and by cheque signed by the Secretary or by an officer of the Board appointed by the Board for the purpose.
+(3) The Board may from time to time authorise the opening of an imprest account in the name of an officer of the Board and may direct what payments shall be made from any such imprest account.
+(4) The Board shall from time to time by resolution fix the maximum amount that may be held at any time in the imprest account.
+(5) A statement of all payments made from the imprest account shall be submitted to the Board for approval at its first ordinary meeting thereafter.
+
+### 20A Overdrafts
+(1) Subject to this section, the Board may from time to time, in anticipation of income, borrow money by way of overdraft.
+(2) The aggregate amount of all sums borrowed by way of overdraft by the Board under subsection (1) shall not exceed—
+  (a) 20% of the income of the Board for the preceding financial year; or
+  (b) such greater amount as may be authorised by the Minister.
+(3) All amounts borrowed by way of overdraft by the Board shall be repaid within 30 days of the date of the advance or within such longer period as may be authorised by the Minister.
+(4) Any authorisation given by the Minister under subsection (2)(b) or subsection (3) may be subject to such conditions as the Minister thinks fit.
+
+### 21 Accounts
+(1) The Board must keep full and correct accounts of all money received and expended by it.
+(2) The Board shall, as soon as possible after the end of every financial year ending with 31 March, cause the accounts of the Board for that financial year to be balanced and prepare a statement of the assets and liabilities of the Board as at the end of that financial year, together with an account of income and expenditure showing the financial transactions for that year.
+(3) The Board is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+
+### 22 Exemption from taxation
+The Board shall be exempt from the payment of land tax and income tax.
+
+### 23 Annual report
+(1) The Board shall, not later than 30 June in every year, furnish to the Minister a report of its proceedings and operations for its preceding financial year, together with a copy of its accounts for that year certified by the Auditor-General.
+(2) A copy of the report and of the accounts so certified shall be laid before Parliament if then sitting and, if not, within 28 days after the commencement of the next ensuing session.
+
+### 24 Travelling allowances
+(1) The Board is hereby declared to be a statutory Board within the meaning of the Fees and Travelling Allowances Act 1951.
+(2) There may be paid to the members of the Board and of any committee appointed by the Board out of the funds of the Board, travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951.
+
+### 25 Unauthorised expenditure
+The Board may, in any financial year, expend out of its funds for purposes not authorised by this or any other Act any sum or sums not amounting in the whole to more than 100 pounds.
+
+**Miscellaneous provisions**
+
+### 26 Office of Board
+The Board shall establish and maintain a place or office at which notices and other documents may be served on or delivered to the Board, and may from time to time change any such place or office.
+
+### 27 Appointment of officers
+(1) The Board may from time to time appoint a secretary and such other officers and servants as are considered necessary for the exercise and performance of the functions and powers of the Board.
+(2) The Board may pay to its officers and servants from the Board's income such salaries and allowances as it thinks fit.
+(3) For the purpose of providing superannuation or retiring allowances for its officers, the Board may make payments to or subsidise any superannuation scheme which is registered under the Superannuation Schemes Act 1989.
+
+### 28 Members of Board not personally liable
+No member, officer, or servant of the Board shall be personally liable for any act or default done or made by the Board or by any member thereof in good faith in the course of the operations of the Board.
+
+### 29 Contracts of Board and members
+(1) Amendment(s) incorporated in the Act(s).
+(2)
+
+### 30 Entering into agreements by Board
+The Board may from time to time enter into agreements with any local authority, corporation, society, firm, or person for the management and maintenance of any land, buildings, or thing held by or on behalf of the Board.
+
+### 31 Certain assets and liabilities to become assets and liabilities of the Board
+(1) On the commencement of this Act all real and personal property of every description vested in or held by the Crown or any local authority or any body or person in the name of or on behalf of the Organising Committee of the Winston Churchill Memorial Trust Fund or the Interim Board of Trustees of the Winston Churchill Memorial Trust Fund shall be deemed to be transferred to and vested in the Board established by this Act, without the necessity of any assignment, transfer, conveyance, or other assurance, but subject to all liabilities, charges, obligations, or trusts affecting that property.
+(2) All contracts, debts, liabilities, and obligations of the said Organising Committee or the said Interim Board of Trustees or of the Crown or any person in the name of or on behalf of that Organising Committee or Interim Board shall become contracts, debts, liabilities, and obligations of the Board established by this Act.
+(3) All members of the said Organising Committee or the said Interim Board of Trustees, all former members, and all authorities and persons are hereby declared to be released and discharged from all liability and responsibility whatsoever in respect of any property, contract, debt, liability, or obligation hereby transferred to or imposed on the Board.
+(4) Any person charged with the duty of keeping any register, on written request by the Board, shall make such entries in the register and on any outstanding documents of title and generally do all such things as may be necessary to give effect to this section.
+(5) Notwithstanding the provisions of any enactment or rule of law, all donations and gifts of any description made by any local authority, body, or person before the commencement of this Act and held by or on behalf of the said Organising Committee or the said Interim Board of Trustees are hereby validated and declared to have been lawful.
