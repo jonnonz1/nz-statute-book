@@ -1,0 +1,161 @@
+# New Zealand Nuclear Free Zone, Disarmament, and Arms Control Act 1987
+_Consolidation as at 1998-08-20_
+
+> An Act to establish in New Zealand a Nuclear Free Zone, to promote and encourage an active and effective contribution by New Zealand to the essential process of disarmament and international arms control, and to implement in New Zealand the following treaties:athe South Pacific Nuclear Free Zone Treaty of 6 August 1985 (the text of which is set out in Schedule 1):bthe Treaty Banning Nuclear Weapon Tests in the Atmosphere, in Outer Space and Under Water of 5 August 1963 (the text of which is set out in Schedule 2):cthe Treaty on the Non-Proliferation of Nuclear Weapons of 1 July 1968 (the text of which is set out in Schedule 3):dthe Treaty on the Prohibition of the Emplacement of Nuclear Weapons and Other Weapons of Mass Destruction on the Sea-bed and the Ocean floor and in the Subsoil Thereof of 11 February 1971 (the text of which is set out in Schedule 4):ethe Convention on the Prohibition of the Development, Production and Stockpiling of Bacteriological (Biological) and Toxin Weapons and on their Destruction of 10 April 1972 (the text of which is set out in Schedule 5)
+
+### 1 Short Title
+This Act may be cited as the New Zealand Nuclear Free Zone, Disarmament, and Arms Control Act 1987.
+
+### 2 Interpretation
+In this Act, unless the context otherwise requires,—
+  - **biological weapon** means any agent, toxin, weapon, equipment, or means of delivery referred to in Article 1 of the Convention on the Prohibition of the Development, Production and Stockpiling of Bacteriological (Biological) and Toxin Weapons and on their Destruction of 10 April 1972 (the text of which is set out in Schedule 5)
+  - **foreign military aircraft** means any aircraft, as defined in section 2 of the Defence Act 1971, which is for the time being engaged in the service of or subject to the authority or direction of the military authorities of any State other than New Zealand
+  - **foreign warship** means any ship, as defined in section 2 of the Defence Act 1971, which—
+    (a) belongs to the armed forces of a State other than New Zealand; and
+    (b) bears the external marks that distinguishes ships of that State's nationality; and
+    (c) is under the command of an officer duly commissioned by the Government of that State; and
+    (d) is manned by a crew under regular armed forces discipline
+  - **immunities** , in relation to any ship, aircraft, or crew member, means immunities enjoyed under international law by ships, aircraft, or crew members of a class to which that ship, aircraft, or crew member belongs
+  - **internal waters of New Zealand** means the internal waters of New Zealand as defined by section 4 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
+  - **nuclear explosive device** means any nuclear weapon or other explosive device capable of releasing nuclear energy, irrespective of the purpose for which it could be used, whether assembled, partly assembled, or unassembled; but does not include the means of transport or delivery of such a weapon or device if separable from and not an indivisible part of it
+  - **passage** means continuous and expeditious navigation without stopping or anchoring except in as much as these are incidental to ordinary navigation or are rendered necessary by distress or for the purpose of rendering assistance to persons, ships, or aircraft in distress
+  - **territorial sea of New Zealand** means the territorial sea of New Zealand as defined by section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977.
+
+### 3 Act to bind the Crown
+This Act shall bind the Crown.
+
+### 4 New Zealand Nuclear Free Zone
+There is hereby established the New Zealand Nuclear Free Zone, which shall comprise:
+  (a) all of the land, territory, and inland waters within the territorial limits of New Zealand; and
+  (b) the internal waters of New Zealand; and
+  (c) the territorial sea of New Zealand; and
+  (d) the airspace above the areas specified in paragraphs (a) to (c).
+
+**Prohibitions in relation to nuclear explosive devices and biological weapons**
+
+### 5 Prohibition on acquisition of nuclear explosive devices
+(1) No person, who is a New Zealand citizen or a person ordinarily resident in New Zealand, shall, within the New Zealand Nuclear Free Zone,—
+  (a) manufacture, acquire, or possess, or have control over, any nuclear explosive device; or
+  (b) aid, abet, or procure any person to manufacture, acquire, possess, or have control over any nuclear explosive device.
+(2) No person, who is a New Zealand citizen or a person ordinarily resident in New Zealand, and who is a servant or agent of the Crown, shall, beyond the New Zealand Nuclear Free Zone,—
+  (a) manufacture, acquire, or possess, or have control over, any nuclear explosive device; or
+  (b) aid, abet, or procure any person to manufacture, acquire, possess, or have control over any nuclear explosive device.
+
+### 6 Prohibition on stationing of nuclear explosive devices
+No person shall emplant, emplace, transport on land or inland waters or internal waters, stockpile, store, install, or deploy any nuclear explosive device in the New Zealand Nuclear Free Zone.
+
+### 7 Prohibition on testing of nuclear explosive devices
+No person shall test any nuclear explosive device in the New Zealand Nuclear Free Zone.
+
+### 8 Prohibition of biological weapons
+No person shall manufacture, station, acquire, or possess, or have control over any biological weapon in the New Zealand Nuclear Free Zone.
+
+### 9 Entry into internal waters of New Zealand
+(1) When the Prime Minister is considering whether to grant approval to the entry of foreign warships into the internal waters of New Zealand, the Prime Minister shall have regard to all relevant information and advice that may be available to the Prime Minister including information and advice concerning the strategic and security interests of New Zealand.
+(2) The Prime Minister may only grant approval for the entry into the internal waters of New Zealand by foreign warships if the Prime Minister is satisfied that the warships will not be carrying any nuclear explosive device upon their entry into the internal waters of New Zealand.
+
+### 10 Landing in New Zealand
+(1) When the Prime Minister is considering whether to grant approval to the landing in New Zealand of foreign military aircraft, the Prime Minister shall have regard to all relevant information and advice that may be available to the Prime Minister including information and advice concerning the strategic and security interests of New Zealand.
+(2) The Prime Minister may only grant approval to the landing in New Zealand by any foreign military aircraft if the Prime Minister is satisfied that the foreign military aircraft will not be carrying any nuclear explosive device when it lands in New Zealand.
+(3) Any such approval may relate to a category or class of foreign military aircraft, including foreign military aircraft that are being used to provide logistic support for a research programme in Antarctica, and may be given for such period as is specified in the approval.
+
+### 11 Visits by nuclear powered ships
+Entry into the internal waters of New Zealand by any ship whose propulsion is wholly or partly dependent on nuclear power is prohibited.
+
+**Savings**
+
+### 12 Passage through territorial sea and straits
+Nothing in this Act shall apply to or be interpreted as limiting the freedom of—
+  (a) any ship exercising the right of innocent passage (in accordance with international law) through the territorial sea of New Zealand; or
+  (b) any ship or aircraft exercising the right of transit passage (in accordance with international law) through or over any strait used for international navigation; or
+  (c) any ship or aircraft in distress.
+
+### 13 Immunities
+Nothing in this Act shall be interpreted as limiting the immunities of—
+  (a) any foreign warship or other government ship operated for non-commercial purposes; or
+  (b) any foreign military aircraft; or
+  (c) members of the crew of any ship or aircraft to which paragraph (a) or paragraph (b) applies.
+
+**Offences**
+
+### 14 Offences and penalties
+(1) Every person commits an offence against this Act who contravenes or fails to comply with any provision of sections 5 to 8.
+(2) Every person who commits an offence against this Act is liable on conviction on indictment to imprisonment for a term not exceeding 10 years.
+
+### 15 Consent of Attorney-General to proceedings in relation to offences
+(1) No information shall be laid against any person for—except with the consent of the Attorney-General:
+  (a) an offence against this Act; or
+  (b) the offence of conspiring to commit an offence against this Act; or
+  (c) the offence of attempting to commit an offence against this Act,—
+  provided that a person alleged to have committed any offence mentioned in this subsection may be arrested, or a warrant for any such person's arrest may be issued and executed, and any such person may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General to the laying of an information for the offence has not been obtained, but no further or other proceedings shall be taken until that consent has been obtained.
+(2) The Attorney-General may, before deciding whether or not to give consent under subsection (1), make such inquiries as the Attorney-General thinks fit.
+
+**Public Advisory Committee on Disarmament and Arms Control**
+
+### 16 Establishment of Public Advisory Committee on Disarmament and Arms Control
+There is hereby established a committee to be called the Public Advisory Committee on Disarmament and Arms Control.
+
+### 17 Functions and powers of Committee
+(1) The functions of the Committee shall be—
+  (a) to advise the Minister of Foreign Affairs and Trade on such aspects of disarmament and arms control matters as it thinks fit:
+  (b) to advise the Prime Minister on the implementation of this Act:
+  (c) to publish from time to time public reports in relation to disarmament and arms control matters and on the implementation of this Act:
+  (d) to make such recommendations as it thinks fit for the granting of money from such fund or funds as may be established for the purpose of promoting greater public understanding of disarmament and arms control matters.
+(2) The Committee shall have all such powers as are reasonably necessary or expedient to enable it to carry out its functions.
+
+### 18 Membership of Committee
+(1) The Committee shall consist of 9 members, of whom—
+  (a) one shall be the Minister for Disarmament and Arms Control, who shall be the Chairman; and
+  (b) 8 shall be appointed by the Minister of Foreign Affairs and Trade.
+(2) Each member of the Committee appointed under subsection (1)(b) shall be appointed for such term not exceeding 3 years as may be specified in the instrument of appointment, but may from time to time be reappointed.
+(3) Any such member may be removed from office for incapacity, neglect of duty, or misconduct proved to the satisfaction of the Minister of Foreign Affairs and Trade, or may resign by notice in writing to that Minister.
+(4) The functions and powers of the Committee shall not be affected by any vacancy in its membership.
+
+### 19 Procedure of Committee
+Subject to any directives given by the Minister of Foreign Affairs and Trade, the Committee may regulate its procedure in such manner as it thinks fit.
+
+### 20 Remuneration and travelling expenses
+(1) The Committee is hereby declared to be a statutory Board within the meaning of the Fees and Travelling Allowances Act 1951.
+(2) There shall be paid to the members of the Committee, out of money appropriated by Parliament for the purpose, remuneration by way of fees or allowances, and travelling allowances and expenses, in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly.
+
+### 21 Money to be appropriated by Parliament for purposes of this Act
+All fees, salaries, allowances, and other expenditure payable or incurred under or in the administration of this Act shall be payable out of money to be appropriated by Parliament for the purpose.
+
+**Amendments to Marine Pollution Act 1974**
+
+### 22 Interpretation
+[Repealed]
+
+### 23 Application of Part 2 of Marine Pollution Act 1974
+[Repealed]
+
+### 24 New sections inserted
+[Repealed]
+
+### 25 Permits
+[Repealed]
+
+**Amendments to other Acts**
+
+### 26 Amendment to Diplomatic Privileges and Immunities Act 1968
+Amendment(s) incorporated in the Act(s).
+
+### 27 Amendment to Official Information Act 1982
+Amendment(s) incorporated in the Act(s).
+
+### 28 Amendment to Foreign Affairs Act 1983
+[Repealed]
+
+## Schedule 1 — Text of South Pacific Nuclear Free Zone Treaty of 6 August 1985
+
+## Schedule 2 — Text of Treaty Banning Nuclear Weapon Tests in the Atmosphere, in Outer Space and Under Water of 5 August 1963
+
+| For the Government of the United Kingdom of Great Britain and Northern Ireland | For the Government of the Union of Soviet Socialist Republics | For the Government of the United States of America |
+| --- | --- | --- |
+| HOME | A ΓPOMbIKO | DEAN RUSK |
+
+## Schedule 3 — Text of Treaty on the Non-Proliferation of Nuclear Weapons of 1 July 1968
+
+## Schedule 4 — Text of Treaty on the Prohibition of the Emplacement of Nuclear Weapons and Other Weapons of Mass Destruction on the Sea-Bed and the Ocean Floor and in the Subsoil Thereof of 11 February 1971
+
+## Schedule 5 — Text of Convention on the Prohibition of the Development, Production and Stockpiling of Bacteriological (Biological) and Toxin Weapons and on their Destruction of 10 April 1972
