@@ -1,0 +1,29 @@
+# Hauraki Maori Trust Board Act 1988
+_Consolidation as at 1988-12-22_
+
+> An Act to establish the Hauraki Maori Trust Board
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Hauraki Maori Trust Board Act 1988.
+(2) This Act shall come into force on the 28th day after the date on which it receives the Royal assent.
+
+### 2 Interpretation
+In this Act, the Board means the Hauraki Maori Trust Board constituted by section 4.
+
+### 3 Act to bind Crown
+This Act shall bind the Crown.
+
+### 4 Hauraki Maori Trust Board constituted
+(1) There is hereby constituted a body corporate to be known as the Hauraki Maori Trust Board, which shall be a Maori Trust Board within the meaning and for the purposes of the Maori Trust Boards Act 1955, and, subject to the provisions of this Act, the provisions of that Act shall apply accordingly.
+(2) The beneficiaries of the Board shall be the descendants of Ngati Hako, Ngati Hei, Ngati Maru, Ngati Paoa, Patukirikiri, Ngati Porou ki Harataunga ki Mataora, Ngati Pukenga ki Waiau, Ngati Rahiri-Tumutumu, Ngai Tai, Ngati Tamatera, Ngati Tara Tokanui, and Ngati Whanaunga.
+
+### 5 Membership of Board
+(1) As soon as practicable after the commencement of this Act, the Governor-General shall, on the recommendation of the Minister of Maori Affairs, appoint such number of persons not exceeding 12 as the Minister thinks fit to be the initial members of the Board.
+(2) Each initial member of the Board shall hold office until his or her successor is elected and comes into office under subsection (3).
+(3) The Board shall cause to be prepared a roll containing the names and addresses of all adult beneficiaries of the Board, and, as soon as practicable thereafter and not later than 2 years after the date of the commencement of this Act, the Board and the secretary to the Board shall do everything necessary, in accordance with Part 3 of the Maori Trust Boards Act 1955 to hold an election of members of the Board.
+(4) If, by regulations made under section 56 of the Maori Trust Boards Act 1955, the Governor-General makes provision for the representation of specific sections or divisions of the beneficiaries of the Board, the roll prepared under subsection (3) shall also show the section or division to which each beneficiary belongs.
+
+### 6 Annual hui
+(1) The Board shall in every year hold a hui at which it shall report on its activities and its plans for the future to the beneficiaries.
+(2) Not later than 2 months before the date of the proposed hui in any year, the secretary of the Board shall cause public notice to be given to the beneficiaries of the Board of the date and place of the proposed hui.
+(3) Section 46(2) of the Maori Trust Boards Act 1955 shall apply to every public notice required to be given under subsection (2).
