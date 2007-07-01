@@ -1,0 +1,410 @@
+# Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004
+_Consolidation as at 2007-07-01_
+
+### 1 Title
+This Act is the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004.
+
+### 2 Commencement
+This Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions and different purposes.
+
+**Preliminary provisions**
+
+### 3 Overview of process
+(1) A diagrammatic overview of the process established by this Act is set out in Schedule 1.
+(2) The diagram is intended as a guide only.
+
+### 4 Purpose
+The purpose of this Act is to enhance public confidence in, and to protect the impartiality and integrity of, the judicial system by—
+  (a) providing a robust investigation process to enable informed decisions to be made about the removal of Judges from office:
+  (b) establishing an office for the receipt and assessment of complaints about the conduct of Judges:
+  (c) providing a fair process that recognises and protects the requirements of judicial independence and natural justice.
+
+### 5 Interpretation
+In this Act, unless the context otherwise requires,—
+  - **complaint** or —
+    (a) means a complaint under section 11 about the conduct of a Judge; and
+    (b) includes—
+      (i) a referral made under section 12(2) by the Attorney-General; and
+      (ii) a complaint initiated under section 12(3) by the Commissioner
+  - **coroner** means a person who is not a District Court Judge, but holds office as the chief coroner or acting chief coroner, or as a coroner or relief coroner, under the Coroners Act 2006
+  - **District Court Judge** includes a District Court Judge who—
+    (a) holds office as the chief coroner or acting chief coroner, or as a relief coroner, under the Coroners Act 2006, or is (under section 8(d) of the District Courts Act 1947) a coroner by virtue of holding office as a District Court Judge; and
+    (b) is exercising the judicial authority conferred on a coroner by the Coroners Act 2006
+  - **Head of Bench** means,—
+    (a) in relation to the Supreme Court, the Chief Justice:
+    (b) in relation to the Court of Appeal, the President of the Court of Appeal:
+    (c) in relation to the High Court, the Chief High Court Judge:
+    (d) in relation to the Employment Court, the Chief Judge of the Employment Court:
+    (e) in relation to the Courts Martial Appeal Court, the Chief Justice:
+    (f) in relation to a District Court, the Chief District Court Judge:
+    (g) in relation to the Environment Court, the Principal Environment Judge:
+    (h) in relation to the Maori Land Court, the Chief Judge of the Maori Land Court:
+    (i) in relation to a coroner, the chief coroner
+  - **Judge** —
+    (a) means—
+      (i) a Judge of the Supreme Court; or
+      (ii) a Judge of the Court of Appeal; or
+      (iii) a Judge or an Associate Judge of the High Court; or
+      (iv) a Judge of the Employment Court; or
+      (v) a Judge of the Courts Martial Appeal Court; or
+      (vi) a District Court Judge; or
+      (vii) a Judge of the Environment Court; or
+      (viii) a Judge of the Maori Land Court; or
+      (ix) a coroner; and
+    (b) includes a person who holds office as a temporary Judge, temporary Associate Judge, or acting Judge of any of those courts; but
+    (c) does not include a retired Judge or a former Judge
+  - **Judicial Conduct Commissioner** or means a Judicial Conduct Commissioner appointed under section 7
+  - **Judicial Conduct Panel** or means a Judicial Conduct Panel appointed under section 21(1).
+
+### 6 This Act binds the Crown
+This Act binds the Crown.
+
+**Judicial Conduct Commissioner**
+
+### 7 Judicial Conduct Commissioner
+(1) An office called the Judicial Conduct Commissioner is established.
+(2) The Commissioner is appointed by the Governor-General on the recommendation of the House of Representatives.
+(3) Before a recommendation may be made under subsection (2), the Attorney-General must consult the Chief Justice about the proposed appointment and must advise the House of Representatives that the Chief Justice has been consulted.
+(4) A person is not to be regarded as being employed in the service of the Crown for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 solely because of his or her appointment as the Commissioner.
+
+### 8 Functions and powers
+(1) The functions of the Commissioner are—
+  (a) to receive complaints about Judges and to deal with the complaints in the manner required by this Act:
+  (b) to conduct preliminary examinations of complaints:
+  (c) in appropriate cases, to recommend that a Judicial Conduct Panel be appointed to inquire into any matter or matters concerning the conduct of a Judge.
+(2) It is not a function of the Commissioner to challenge or call into question the legality or correctness of any instruction, direction, order, judgment, or other decision given or made by a Judge in relation to any legal proceedings.
+(3) The Commissioner has all the powers necessary for carrying out his or her functions.
+
+### 9 Duty to act independently
+The Commissioner must act independently in carrying out his or her functions.
+
+### 10 Other provisions relating to Commissioner
+Part 1 of Schedule 2 applies in relation to the Commissioner.
+
+**Complaints about Judges**
+
+### 11 Which complaints must be dealt with
+(1) The Commissioner must receive and deal with every complaint made under this section about the conduct of a Judge regardless of whether the subject matter of the complaint arises in the exercise of the Judge's judicial duties or otherwise.
+(2) The Commissioner must receive and deal with a complaint even though the subject matter of the complaint constitutes or may constitute a criminal offence (whether or not dealt with, or being dealt with, by a court).
+(3) The Commissioner must deal with a complaint by—
+  (a) taking the steps set out in section 14; and
+  (b) conducting a preliminary examination under section 15; and
+  (c) taking any other appropriate steps set out in sections 16 to 19.
+(4) If different persons make separate complaints about the same matter, the Commissioner may deal with those complaints together under sections 14 to 19.
+(5) This section is subject to section 34.
+
+### 12 Who may complain
+(1) Any person may make a complaint under section 11 about the conduct of a Judge.
+(2) The Attorney-General may refer to the Commissioner any matter or matters concerning the conduct of a Judge.
+(3) The Commissioner may, on his or her own initiative, treat as a complaint any matter or matters concerning the conduct of a Judge.
+(4) The power conferred by subsection (3) includes (without limitation) the power to treat as a single complaint under sections 14 to 19 different complaints about, or a series of matters concerning the conduct of, the same Judge even if the Commissioner has previously dealt with any of those complaints or matters.
+
+### 13 How to complain
+(1) A complaint about a Judge must be made to the Commissioner and—
+  (a) be in writing; and
+  (b) identify the Judge who is the subject of the complaint; and
+  (c) identify the complainant; and
+  (d) state the subject matter of the complaint.
+(2) The Commissioner may require a complainant to complete a statutory declaration setting out the matters in subsection (1)(b) to (d).
+(3) The Commissioner must give reasonable assistance to any person who wishes to make a complaint to assist that person to meet the requirements of this section.
+(4) Subsections (1) to (3) do not apply to a complaint initiated by the Commissioner.
+
+### 14 Commissioner must acknowledge complaint and deal with it promptly
+(1) Without delay after receiving a complaint, the Commissioner must—
+  (a) send a written acknowledgement to the complainant (if any); and
+  (b) send to the Judge who is the subject of the complaint a written notification of the complaint.
+(2) The Commissioner may send a copy of the complaint to the Judge.
+(3) The Judge is entitled to request and receive a copy of the complaint.
+(4) The Commissioner must deal with a complaint as soon as practicable after receiving it.
+(5) Subsections (1), (2), and (4) are subject to subsections (6) and (7).
+(6) If the Commissioner is satisfied, following consultation with the relevant Head of Bench, that notifying the Judge of the complaint under subsection (1) could prejudice any court proceedings, the Commissioner may defer that step.
+(7) If the Commissioner is satisfied, following consultation with the relevant Head of Bench, that the matter being or to be dealt with by the Commissioner is being dealt with by a court or that for any other reason the Commissioner should defer dealing with the complaint, the Commissioner may defer dealing with it.
+
+### 15 Commissioner must conduct preliminary examination
+(1) The Commissioner must conduct a preliminary examination of each complaint and form an opinion as to whether—
+  (a) the subject matter of the complaint, if substantiated, could warrant consideration of the removal of the Judge from office; or
+  (b) there are any grounds for dismissing the complaint under section 16(1).
+(2) In the course of the preliminary examination, the Commissioner may seek the Judge's response to the complaint.
+(3) In conducting a preliminary examination, the Commissioner must act in accordance with the principles of natural justice.
+(4) For the purpose of a preliminary examination, the Commissioner may—
+  (a) make any inquiries into the complaint that he or she thinks appropriate:
+  (b) obtain any court documents (including, for example, the transcript of a hearing) that are relevant to an inquiry under paragraph (a):
+  (c) consult the Head of Bench.
+(5) Having completed the preliminary examination and formed the opinion required by subsection (1), the Commissioner must take one of the following steps:
+  (a) dismiss the complaint (section 16); or
+  (b) refer the complaint to the Head of Bench (section 17); or
+  (c) recommend that the Attorney-General appoint a Judicial Conduct Panel to inquire into any matter or matters concerning the conduct of a Judge (section 18).
+
+### 16 Commissioner must dismiss complaints that fail to meet required threshold
+(1) The Commissioner must dismiss the complaint if he or she is of the opinion that—
+  (a) the complaint is not within the Commissioner's jurisdiction; or
+  (b) the complaint has no bearing on judicial functions or judicial duties; or
+  (c) the requirements of sections 12 and 13 have not been met; or
+  (d) the complaint is frivolous, vexatious, or not in good faith; or
+  (e) the subject matter of the complaint is trivial; or
+  (f) the complaint is about a judicial decision, or other judicial function, that is or was subject to a right of appeal or right to apply for judicial review; or
+  (g) the person who is the subject of the complaint is no longer a Judge; or
+  (h) the subject matter of the complaint was considered before the commencement of this section by the Head of Bench or the Judicial Complaints Lay Observer; or
+  (i) he or she has previously considered the subject matter of the complaint, and there are no grounds to justify taking any steps under section 17 or section 18.
+(2) If the Commissioner dismisses a complaint under this section, he or she must give the complainant and the Judge who is the subject of the complaint written notification stating—
+  (a) that the complaint has been dismissed; and
+  (b) the grounds on which that decision was made.
+
+### 17 Commissioner's power to refer complaints to Head of Bench
+(1) The Commissioner must refer a complaint to the Head of Bench unless the Commissioner—
+  (a) dismisses the complaint; or
+  (b) recommends that a Judicial Conduct Panel be appointed.
+(2) If the Commissioner refers a complaint to the Head of Bench, the Commissioner must advise the complainant and the Judge who is the subject of the complaint of that action.
+(3) This section is subject to section 113(2) of the Coroners Act 2006 (which relates to complaints about the chief coroner).
+
+### 18 Commissioner's power to recommend that Attorney-General appoint Judicial Conduct Panel
+(1) The Commissioner may recommend to the Attorney-General that he or she appoint a Judicial Conduct Panel to inquire into any matter or matters concerning the alleged conduct of a Judge if the Commissioner is of the opinion that—
+  (a) an inquiry into the alleged conduct is necessary or justified; and
+  (b) if established, the conduct may warrant consideration of removal of the Judge.
+(2) The Commissioner must give reasons with his or her recommendation under subsection (1).
+(3) The Commissioner must give the complainant and the Judge who is the subject of the complaint written notification of any action taken under subsection (1).
+
+### 19 Commissioner's duty of confidentiality
+(1) The Commissioner and every person employed in the office of the Commissioner—
+  (a) must keep confidential all matters that come to their knowledge in the performance of their functions; and
+  (b) must not communicate any of those matters to any person except for the purpose of carrying out their functions under or giving effect to this Act.
+(2) The Commissioner and every person employed in the office of the Commissioner—
+  (a) are officers of a department for the purposes of sections 78 and 78A of the Crimes Act 1961 and section 20A of the Summary Offences Act 1981:
+  (b) are officials for the purposes of sections 105 and 105A of the Crimes Act 1961.
+(3) Nothing in information privacy principle 6 (which relates to access to personal information and is defined in section 6 of the Privacy Act 1993) applies in respect of any information held by the office of the Commissioner that relates to any investigation conducted by the Commissioner under this Act, other than any document (as defined in section 2(1) of the Privacy Act 1993) that came into existence before the commencement of that investigation.
+
+### 20 Commissioner must make files available to Attorney-General and special counsel
+(1) If the Commissioner recommends that a Judicial Conduct Panel be appointed,—
+  (a) the Attorney-General is entitled to request the relevant files kept by the Commissioner; and
+  (b) the Commissioner must, on the Attorney-General's request, make the files available to the Attorney-General.
+(2) If a Judicial Conduct Panel is appointed,—
+  (a) the special counsel appointed under section 28 and the counsel representing the Judge to whom the Panel's inquiry relates are each entitled to request the relevant files kept by the Commissioner; and
+  (b) the Commissioner must, on the request of either counsel, make the files available to that counsel.
+
+**Judicial Conduct Panel**
+
+### 21 Appointment of Judicial Conduct Panel
+(1) The Attorney-General may, at any time, appoint a Judicial Conduct Panel to inquire into, and report on, any matter or matters concerning the conduct of a Judge that have been the subject of a recommendation by the Commissioner under section 18.
+(2) Before appointing a Panel, the Attorney-General must consult the Chief Justice about the proposed membership of the Panel, but the Attorney-General need not consult the Chief Justice about whether a Panel should be appointed.
+(3) However, if any matter to be inquired into and reported on concerns the conduct of the Chief Justice, subsection (2) applies as if the references in that subsection to the Chief Justice were references to the next most senior available Judge of the Supreme Court.
+
+### 22 Membership of Panel
+(1) A Judicial Conduct Panel consists of the following persons appointed by the Attorney-General:
+  (a) 2 members, being—
+    (i) Judges; or
+    (ii) a Judge and a retired Judge; or
+    (iii) a member who is a Judge or a retired Judge, and a member who is a barrister or solicitor who has held a practising certificate as such for not less than 7 years; and
+  (b) a lay member (not being a Judge, a retired Judge, or a barrister or solicitor).
+(2) The Panel is chaired by—
+  (a) the member who is a retired Judge; or
+  (b) if there is no retired Judge on the Panel, the member who is the senior Judge (if there are 2 Judges on the Panel) or the member who is a Judge (if there is only 1 Judge on the Panel).
+(3) The appointment of a Judge as a member of a Panel or service by a Judge as a member of a Panel does not affect his or her tenure of judicial office, rank, title, status, precedence, salary, annual or other allowances, or other rights or privileges as a Judge (including matters relating to superannuation), and, for all purposes, service by a Judge as a member of the Panel must be taken to be service as a Judge.
+
+### 23 Panel must be dissolved if member unable to continue
+If a member of a Judicial Conduct Panel is for any reason unable to continue as a member,—
+  (a) the chairperson must dissolve the Panel and notify the Attorney-General of the dissolution; and
+  (b) the Attorney-General must, under section 21(1), appoint a new Panel.
+
+### 24 Functions of Panel
+(1) A Judicial Conduct Panel must inquire into, and report on, the matter or matters of judicial conduct referred to it by the Attorney-General on the recommendation of the Commissioner.
+(2) The Panel must conduct a hearing into the matter or matters referred to it by the Attorney-General.
+(3) The Panel may also inquire into, and report on, any other matters concerning the conduct of the Judge that arise in the course of its dealing with the referral from the Attorney-General.
+(4) The Panel must give the Attorney-General a report in accordance with section 32.
+
+### 25 Other provisions relating to administration and meetings of Panels
+Part 2 of Schedule 2 applies in relation to Judicial Conduct Panels.
+
+### 26 Power of Panel to conduct hearings and inquiries
+(1) For the purpose of performing its functions and duties, a Judicial Conduct Panel has and may exercise the same powers as are conferred on Commissions of Inquiry by sections 4 and 4B to 8 of the Commissions of Inquiry Act 1908.
+(2) Sections 4 and 4B to 9 of the Commissions of Inquiry Act 1908 apply to all persons involved in any capacity in any hearing or inquiry under this section as if it were an inquiry conducted by a Commission under that Act.
+(3) The Panel must act in accordance with the principles of natural justice.
+
+### 27 Representation at hearing
+(1) The Judge who is the subject of an inquiry by a Judicial Conduct Panel is entitled to appear and be heard at the hearing and to be represented by counsel.
+(2) The Judge's reasonable costs of representation in respect of the inquiry must be met by the office of the Commissioner.
+(3) The special counsel appointed under section 28 is entitled to appear and be heard at the hearing.
+(4) With the consent of the Panel, any other person may appear at the hearing and may be represented by counsel.
+
+### 28 Special counsel
+(1) The Attorney-General must appoint and instruct a person to act as special counsel in an inquiry by a Judicial Conduct Panel.
+(2) At the hearing, the special counsel must present the allegations about the conduct of the Judge concerned, and may make submissions on questions of procedure or applicable law that are raised during the proceedings.
+(3) The special counsel must perform his or her duties impartially and in accordance with the public interest.
+
+### 29 Hearing to be in public
+(1) Every hearing of a Judicial Conduct Panel must be held in public.
+(2) Despite subsection (1),—
+  (a) if the Panel is of the opinion that it is proper to do so, having regard to the interest of any person (including, without limitation, the privacy of the complainant) and to the public interest, the Panel may order that a hearing or part of a hearing be held in private:
+  (b) the Panel may, in any case, deliberate in private as to its recommendation or as to any question arising in the course of a hearing.
+
+### 30 Restrictions on publication
+(1) If a Judicial Conduct Panel is of the opinion that it is proper to do so, having regard to the interest of any person (including, without limitation, the privacy of the complainant) and to the public interest, the Panel may make any 1 or more of the following orders:
+  (a) an order prohibiting the publication of any report or account of any part of the proceedings before the Panel, whether held in public or in private:
+  (b) an order prohibiting the publication of the whole or any part of any books, papers, or documents produced at any hearing:
+  (c) an order prohibiting the publication of the name or any particulars of the affairs of the Judge concerned or any other person.
+(2) An order made under subsection (1) continues in force—
+  (a) until the time specified in the order; or
+  (b) if no time is specified in the order, until revoked under subsection (3) or section 31.
+(3) Any person may, at any time, apply to a Panel for an order revoking, in whole or in part, an order made by it under subsection (1), and the Panel may grant or refuse the application as the Panel thinks fit.
+(4) If a person is unable to apply to the Panel for an order under subsection (3) because the Panel has ceased to function, the person may apply to the Court of Appeal for an order revoking, in whole or in part, an order made by the Panel under subsection (1).
+(5) A person commits an offence if he or she acts in contravention of any order made under this section by a Panel.
+(6) A person who commits an offence against subsection (5) is liable on summary conviction,—
+  (a) in the case of an individual, to a fine not exceeding $3,000:
+  (b) in the case of a body corporate, to a fine not exceeding $10,000.
+
+### 31 Appeal to Court of Appeal
+(1) Any person may appeal to the Court of Appeal against—
+  (a) any order made under section 29(2)(a) by a Judicial Conduct Panel to hold a hearing or part of a hearing in private:
+  (b) the refusal of a Panel to make any order under section 29(2)(a):
+  (c) any order made under section 30(1) or (3) by a Panel:
+  (d) the refusal of a Panel to make any order under section 30(1) or (3).
+(2) An application made under section 30(4) for the revocation, in whole or in part, of an order made by a Panel under section 30(1) must be—
+  (a) made as if it were an appeal against an order made under section 30(1); and
+  (b) treated as an appeal under subsection (1).
+(3) The appeal must be—
+  (a) by way of rehearing; and
+  (b) made within the time, in the form, and in the manner prescribed by rules of court made under section 51C of the Judicature Act 1908.
+(4) For the purposes of the appeal, the Court of Appeal has all the powers of a Panel and may make any orders it thinks fit.
+(5) However, the court must not make an order revoking, in whole or in part, an order made under section 30(1) if the Panel was functioning at the time the appeal was lodged and the appellant could have applied to the Panel for an order to the same effect under section 30(3).
+
+### 32 Report by Panel
+(1) A Judicial Conduct Panel must provide a report to the Attorney-General at the conclusion of its inquiry.
+(2) The report must set out—
+  (a) the Panel's findings of fact; and
+  (b) the Panel's opinion as to whether consideration of removal of the Judge is justified; and
+  (c) the reasons for the Panel's conclusion.
+
+### 33 Attorney-General has discretion to initiate removal of Judge on receipt of report
+(1) If a Judicial Conduct Panel concludes that consideration of the removal of a Judge is justified, the Attorney-General must determine, at his or her absolute discretion, whether to take steps to initiate the removal of that Judge from office.
+(2) A Judge must not be removed from office unless a Judicial Conduct Panel has reported to the Attorney-General that it is of the opinion that consideration of the removal of the Judge is justified.
+(3) Subsection (2) is subject to section 34.
+
+### 34 Attorney-General's power to take steps independently of this Act if Judge convicted of serious offence
+(1) This section applies if a Judge is convicted of a criminal offence punishable by imprisonment for 2 or more years.
+(2) If this section applies,—
+  (a) the Attorney-General may, but is not required to, refer the matter to the Commissioner under section 12(2):
+  (b) the Attorney-General may take steps independently of this Act to initiate the removal of the Judge from office.
+(3) If this section applies and the Attorney-General takes steps independently of this Act to initiate the removal of the Judge from office, the provisions of sections 7 to 33 cease to apply in relation to the matter.
+(4) The Commissioner and a Judicial Conduct Panel have jurisdiction under this Act in relation to a matter to which this section applies only if the Attorney-General refers the matter to the Commissioner under section 12(2).
+
+### 35 Official Information Act 1982 amended
+Amendment(s) incorporated in the Act(s).
+
+## Schedule 1 — Overview of process for Judicial Conduct Commissioner and Judicial Conduct Panel
+
+## Schedule 2 — Provisions relating to Judicial Conduct Commissioner and members of Judicial Conduct Panel
+
+### Part 1 — Judicial Conduct Commissioner
+
+### 1 Term of office of Commissioner
+(1) A person holds office as the Judicial Conduct Commissioner for a term (which must be not less than 2 years and not more than 5 years) that the Governor-General, on the recommendation of the House of Representatives, specifies in the person's appointment.
+(2) A person may be reappointed as the Commissioner.
+(3) The Commissioner, unless he or she sooner vacates office by death, resignation, removal, or failure to be confirmed in office, continues to hold office, even though the term for which he or she was appointed may have expired, until one of the following occurs:
+  (a) the Commissioner is reappointed; or
+  (b) a successor is appointed.
+(4) The Commissioner may resign the office at any time by written notice given to the Governor-General.
+(5) A notice of resignation under subclause (4) must state the date on which the resignation takes effect.
+
+### 2 Filling of vacancy
+(1) If a vacancy occurs in the office of Commissioner, the vacancy must be filled by the appointment of a successor by the Governor-General on the recommendation of the House of Representatives.
+(2) Subclause (3) applies if—
+  (a) a vacancy occurs while Parliament is not in session, or exists at the close of a session; and
+  (b) the House of Representatives has not recommended an appointment to fill the vacancy.
+(3) When this subclause applies, the vacancy may, at any time before the commencement of the next ensuing session of Parliament, be filled by the appointment of a successor by the Governor-General in Council.
+(4) An appointment made under subclause (3) lapses and the office again becomes vacant unless, before the end of the 24th sitting day of the House of Representatives following the date of the appointment, the House confirms the appointment.
+
+### 3 Removal of Commissioner
+The Governor-General, on an address from the House of Representatives, may remove the Commissioner from office for—
+  (a) incapacity; or
+  (b) misconduct.
+
+### 4 Commissioner protected
+(1) This clause applies to the Commissioner and to every person engaged or employed in connection with the work of the Commissioner.
+(2) No proceedings, civil or criminal, lie against any person to whom this section applies for anything he or she may do or report or say in the course of the exercise or intended exercise of his or her duties under this Act, unless it is shown that he or she acted in bad faith.
+(3) No person to whom this clause applies is required to give evidence in any court, or in any proceedings of a judicial nature, in respect of anything coming to his or her knowledge in the exercise of his or her functions.
+(4) Nothing in subclause (2) or subclause (3) applies in respect of proceedings for—
+  (a) an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961 or against section 20A of the Summary Offences Act 1981; or
+  (b) the offence of attempting or conspiring to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961 or against section 20A of the Summary Offences Act 1981.
+(5) Anything said or any information supplied or any document or thing produced by any person in the course of any inquiry by, or proceedings before, the Commissioner under this Act is privileged in the same manner as if the inquiry or proceedings were proceedings in a court.
+(6) For the purposes of clause 3 of Part 2 of Schedule 1 of the Defamation Act 1992, any report made by the Commissioner under this Act is deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
+
+### 5 Salary and allowances
+(1) The Commissioner must be paid the remuneration and allowances that the Remuneration Authority determines.
+(2) The Commissioner is entitled to receive from the funds of the Commissioner's office the actual and reasonable costs for travelling and other expenses that relate to the performance of his or her duties and responsibilities as the Commissioner.
+
+### 6 Staff and administrative support
+The Commissioner has the staff and administrative support that is provided by the chief executive of the agency, organisation, or department within which the Commissioner is located.
+
+### 7 Delegations
+(1) The Commissioner may by writing, either generally or specifically, delegate any of his or her functions or powers to—
+  (a) a specified person; or
+  (b) a person of a specified class; or
+  (c) the holder for the time being of a specified office or appointment; or
+  (d) the holders for the time being of offices or appointments of a specified class.
+(2) The Commissioner must not delegate—
+  (a) the power of delegation in subclause (1); or
+  (b) the power in section 15 to conduct a preliminary examination; or
+  (c) the power in section 16 to dismiss a complaint; or
+  (d) the power in section 17 to refer a complaint to the Head of Bench; or
+  (e) the power in section 18 to recommend that the Attorney-General appoint a Judicial Conduct Panel.
+(3) A person to whom any functions or powers are delegated under subclause (1) may carry out those functions or exercise those powers in the same manner and with the same effect as if they had been conferred on the person directly by this Act and not by delegation.
+(4) Subclause (3) is subject to any direction given or condition imposed by the Commissioner.
+(5) A person who appears to act under a delegation under subclause (1) is, in the absence of proof to the contrary, presumed to be acting in accordance with the terms of the delegation.
+(6) A delegation under subclause (1)—
+  (a) is revocable at will, but the revocation does not take effect until it is communicated to the delegate; and
+  (b) continues in force according to its terms until it is revoked; and
+  (c) does not prevent the Commissioner from performing the functions or exercising the power; and
+  (d) does not affect the responsibility of the Commissioner for the actions of any delegate acting under delegation.
+(7) A person purporting to act under a delegation under this clause must, when reasonably requested to do so, produce evidence of his or her authority to act.
+
+### 8 Funds of Commissioner
+The funds of the Commissioner's office consist of—
+  (a) money appropriated by Parliament for the purposes of the Commissioner and paid to the administering department for the purposes of the Commissioner's office:
+  (b) other money lawfully received by the Commissioner for the purposes of the Commissioner's office.
+
+### 9 Annual report
+(1) The Commissioner must in each year give the Attorney-General a report on the exercise of the functions under this Act.
+(2) The Attorney-General must lay a copy of the report before the House of Representatives as soon as practicable after it is given to the Attorney-General.
+
+### 10 Contents of annual report
+(1) The annual report of the Commissioner must include, among other things,—
+  (a) the number and types of complaints received during the year; and
+  (b) the outcomes of complaints or other references to the Commissioner (including matters initiated by the Commissioner and matters referred by the Attorney-General); and
+  (c) the number of complaints still outstanding.
+(2) A report by the Commissioner under this section must not identify any person against whom a complaint has been made under this Act, unless the person has been the subject of a public hearing under this Act, has been the subject of a report by the Judicial Conduct Panel to the Attorney-General, or has been convicted of an offence connected with the complaint.
+
+### Part 2 — Judicial Conduct Panel
+
+**Administrative provisions**
+
+### 11 Members protected
+Clause 4, with the necessary modifications, applies in relation to a member of a Judicial Conduct Panel.
+
+### 12 Salary and allowances
+(1) The members of a Judicial Conduct Panel (other than a Judge) must be paid the remuneration and allowances that the Remuneration Authority determines.
+(2) The members of the Panel (other than a Judge) are entitled to receive from the department referred to in clause 13 the actual and reasonable costs for travelling and other expenses that relate to the performance of their duties and responsibilities.
+(3) The Remuneration Authority may (without limitation)—
+  (a) make a general determination under this clause or make a separate determination for each Judicial Conduct Panel that is appointed:
+  (b) determine that any remuneration or allowances are payable on a per diem basis.
+
+### 13 Staff and administrative support
+A Judicial Conduct Panel has the staff and administrative support that is provided by the chief executive of the department within which the Commissioner is located.
+
+**Procedure for meetings of Panel**
+
+### 14 General procedure
+The procedure for the calling of meetings of a Judicial Conduct Panel and for the conduct of business at those meetings is, subject to this Act, determined by the Panel.
+
+### 15 Quorum
+All 3 members of a Judicial Conduct Panel must be present at a meeting of the Panel.
+
+### 16 Chairperson presides
+The Chairperson presides at a meeting of a Judicial Conduct Panel and has a deliberative vote only.
+
+### 17 Decisions
+A decision supported by a majority of the votes cast at a meeting of a Judicial Conduct Panel is the decision of the Panel.
+
+### 18 Minutes
+A Judicial Conduct Panel. must cause full and accurate minutes to be kept of the proceedings of each meeting of the Panel.
+
+### 19 First meeting
+The Chairperson may call the first meeting of a Judicial Conduct Panel held in relation to a matter in any manner that the Chairperson thinks fit.
