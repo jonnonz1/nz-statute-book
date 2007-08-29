@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2004-08-24_
+_Consolidation as at 2007-08-29_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -4134,7 +4134,7 @@ The enactments specified in Schedule 4 are amended in the manner indicated in th
     (iii) the building control provisions of the Act (for example, the provisions relating to building consents, code compliance certificates, and compliance schedules) come into force; and
   (d) between 30 November 2004 and 31 May 2006, persons who held an approval as a building certifier under the former Act may apply to be registered as a building consent authority under section 191; and
   (e) between 30 November 2004 and 31 May 2006, territorial authorities and regional authorities must apply to be registered under section 191; and
-  (f) on and after 30 November 2007, only building consent authorities that are registered under section 191 may perform functions relating to building control; and
+  (f) on and after the date specified in section 450(3)(b)(ii), only building consent authorities that are registered under section 191 may perform functions relating to building control; and
   (g) on 30 November 2009,—
     (i) the requirement that restricted building work must be carried out or supervised by a licensed building practitioner comes into force; and
     (ii) the transitional period ends.
@@ -4353,16 +4353,25 @@ A certificate of accreditation issued under section 59 of the former Act in resp
 ### 449 Territorial authorities and regional authorities must apply to be registered by 31 May 2006
 A territorial authority or a regional authority must, by 31 May 2006, apply to be registered under section 191.
 
-### 450 Territorial authority may act as building consent authority during transition to this Act
+### 450 When territorial authority may and must act as building consent authority during transition to this Act
 (1) A territorial authority may, during the period specified in subsection (3), act as a building consent authority (including in relation to a dam) even though the territorial authority has yet to be registered under section 191.
-(2) If a territorial authority acts as a building consent authority under subsection (1),—
-  (a) the territorial authority must be taken to have all the functions, duties, and powers of a building consent authority under this Act; and
-  (b) this Act applies with all necessary modifications.
+(2)
 (3) The period is the period that—
   (a) begins on the date of commencement of Part 2; and
   (b) ends on the earlier of—
     (i) the date on which an application for registration by the territorial authority under section 191 is granted or refused; or
-    (ii) 30 November 2007.
+    (ii) 30 June 2008
+(3A) A territorial authority that is registered under section 191 must, until the time specified in subsection (3B), act as a building consent authority in relation to a dam within the territorial authority's district.
+(3B) The time is the earlier of the following:
+  (a) the close of the day before the date specified in subsection (3)(b)(ii); and
+  (b) the time at which the regional authority whose region includes the territorial authority's district—
+    (i) is registered under section 191; or
+    (ii) transfers its functions as a building consent authority in relation to dams in that district to another regional authority, under subpart 4 of Part 3 of this Act or subpart 2 of Part 3 of the Local Government Act 2002.
+(3C) If a territorial authority acts as a building consent authority under subsection (1) or (3A),—
+  (a) the territorial authority must be taken to have all the functions, duties, and powers of a building consent authority under this Act; and
+  (b) this Act applies with all necessary modifications.
+(3D) The Governor-General may, by Order in Council, before the date specified in subsection (3)(b)(ii), specify a later date in substitution for that date.
+(3E) An order under subsection (3D) is a regulation for the purposes of the Regulations (Disallowance) Act 1989.
 (4) This section overrides sections 14 and 193.
 
 **Review of building code**
