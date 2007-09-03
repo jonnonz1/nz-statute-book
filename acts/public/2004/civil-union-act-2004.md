@@ -1,0 +1,441 @@
+# Civil Union Act 2004
+_Consolidation as at 2007-09-03_
+
+### 1 Title
+This Act is the Civil Union Act 2004.
+
+### 2 Commencement
+(1) This Act, other than the sections referred to in subsection (2), comes into force on 26 April 2005.
+(2) Sections 35, 36, and 37 come into force on the day after the date on which this Act receives the Royal assent.
+
+## Part 1 — Preliminary provisions
+
+### 3 Interpretation
+In this Act, unless the context otherwise requires,—
+  - **civil union celebrant** means a person who is appointed under section 26 as a civil union celebrant
+  - **exempt body** means a body that is exempt from the requirements of this Act relating to the solemnisation of civil unions by virtue of an exemption granted under Schedule 1
+  - **guardian** has the meaning given in section 15 of the Care of Children Act 2004
+  - **licence** means a civil union licence issued under section 12
+  - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
+  - **New Zealand** includes the Ross Dependency
+  - **prohibited degrees of civil union** means the degrees of relationship set out in Schedule 2
+  - **Registrar** and have the meanings given in section 2 of the Births, Deaths, and Marriages Registration Act 1995.
+
+### 4 Overview of civil union
+(1) Two people, whether they are of different or the same sex, may enter into a civil union under this Act if—
+  (a) they are both aged 16 or over (but people aged 16 or 17 must obtain consent—see section 19):
+  (b) they are not within the prohibited degrees of civil union as set out in Schedule 2 (but in some cases a court may dispense with this prohibition—see section 10):
+  (c) they are not currently married or in a civil union with someone else (but married couples may enter into a civil union with each other—see section 18).
+(2) A civil union may be solemnised by a Registrar or, if a Registrar has issued a licence, by a civil union celebrant or an exempt body.
+(3) After a civil union is solemnised, it is registered as a civil union under Part 7A of the Births, Deaths, and Marriages Registration Act 1995.
+(4) The dissolution of a civil union is governed by the Family Proceedings Act 1980.
+(5) This section is by way of explanation only. If a provision of this or any other Act is inconsistent with this section, the other provision prevails.
+
+### 5 Reference to civil union in any other enactment
+In any other enactment, unless the context otherwise requires, a reference to a civil union refers to—
+  (a) a civil union entered into under and in accordance with this Act; and
+  (b) a relationship that is entered into overseas and—
+    (i) is of a type identified by regulations made under section 35(1)(a) as being a type of relationship that is recognised in New Zealand as a civil union; and
+    (ii) is between 2 people who are at least 18 years old or, if either party is younger than 18, was entered into with the consent of that party's guardians.
+
+### 6 Act binds the Crown
+This Act binds the Crown.
+
+## Part 2 — Civil unions
+
+### Subpart 1 — Entering into civil union
+
+**Capacity**
+
+### 7 Age of eligibility
+A person who has not reached the age of 16 is prohibited from entering into a civil union.
+
+### 8 Partners not to be already married or in civil union
+A person who is in a civil union is prohibited from entering into a civil union with another person; and a person who is married is prohibited from entering into a civil union with either their spouse (except by changing the form of their relationship in accordance with section 18) or any other person.
+
+### 9 Partners not to be within prohibited degrees of civil union
+Two people who are within the prohibited degrees of civil union, as set out in Schedule 2, are prohibited from entering into a civil union with each other, except as provided in section 10.
+
+### 10 Order dispensing with prohibition on civil union within prohibited degrees of affinity
+(1) Two people who are within the prohibited degrees of affinity, but who are not within the prohibited degrees of consanguinity, may apply to the Family Court for an order under this section.
+(2) On an application under subsection (1), the Court may make an order dispensing with the prohibition in section 9.
+(3) The Registrar of any court where an order under this section is made must send a copy of the order to the Registrar-General.
+
+**Formalities**
+
+### 11 Notice of civil union, and statutory declaration
+(1) If 2 people intend to enter into a civil union, one of them must appear personally before the Registrar and give notice in the prescribed form of the intended civil union.
+(2) The person giving notice must also make a statutory declaration in the prescribed form before the Registrar declaring that—
+  (a) the person believes that the parties are not within the prohibited degrees of civil union or, if they are, an order has been made under section 10 dispensing with the prohibition; and
+  (b) there is no other lawful impediment to the intended civil union; and
+  (c) the particulars in the notice are true.
+(3) However, if the 2 parties to an intended civil union are ordinarily resident outside New Zealand, the requirements of this section are satisfied if—
+  (a) one of the parties posts the notice in the prescribed form to the Registrar; and
+  (b) one of the parties, at any time before the licence is issued or (if the Registrar is to solemnise the civil union) the civil union is solemnised, makes a statutory declaration as to the matters in subsection (2)(a) to (c).
+(4) A person giving notice under this section must pay the prescribed notice fee.
+
+### 12 Issue of licence and forms where solemnisation by civil union celebrant or exempt body
+(1) After notice has been given under section 11, if the civil union is to be solemnised by a civil union celebrant or an exempt body, the Registrar must issue a licence and information return forms in accordance with this section, and section 15 or section 16 applies. (If the civil union is to be solemnised by a Registrar, section 14 applies.)
+(2) Despite subsection (1), a Registrar must not issue a licence and information return forms if—
+  (a) he or she has reasonable cause to believe that the civil union is prohibited by this Act, or that any of the requirements of this Act have not been complied with; or
+  (b) a notice of objection to the civil union of either party has been lodged under section 21 and the notice has not been withdrawn or discharged; or
+  (c) the prescribed notice fee has not been paid.
+(3) The Registrar may not issue the licence and information return forms sooner than the third day after the notice was given, unless the Registrar is satisfied that parties to the intended civil union would be inconvenienced by the delay.
+(4) The licence must be in the prescribed form, and must authorise the civil union of the 2 people specified in the licence at the place, or at one of the 2 places, in New Zealand, specified in the licence.
+(5) A Registrar other than the Registrar to whom the notice was given may issue the licence and information return forms, in which case the Registrar to whom the notice was given does not need to do so.
+
+### 13 Licence authorises but does not oblige
+A licence authorises, but does not oblige, a civil union celebrant or an exempt body to solemnise the civil union to which the licence relates.
+
+### 14 Solemnisation by Registrar
+(1) A Registrar may solemnise a civil union if—
+  (a) the Registrar is satisfied that the civil union is not prohibited by this Act; and
+  (b) the Registrar is satisfied that the requirements of this Act have been complied with; and
+  (c) the Registrar is satisfied that—
+    (i) no notice of objection to the civil union has been lodged under section 21; or
+    (ii) if a notice of objection has been lodged, it has been withdrawn or discharged; and
+  (d) the solemnisation does not take place—
+    (i) before the third day after notice of the intended civil union has been given under section 11, unless the Registrar is satisfied that the parties to the intended civil union would be inconvenienced by the delay; or
+    (ii) more than 3 months after the date on which notice of the intended civil union was given (or, where a notice of objection has been lodged, more than 3 months after the date on which the notice of objection was withdrawn or discharged).
+(2) During the solemnisation, in the presence of the Registrar and at least 2 witnesses, each party must make a clear statement to the other that—
+  (a) names both parties; and
+  (b) acknowledges that they are freely joining in a civil union with each other.
+(3) No Registrar is obliged to solemnise a civil union on a day that is not a working day.
+
+### 15 Solemnisation by civil union celebrant
+(1) A civil union celebrant may solemnise a civil union between 2 parties if—
+  (a) the civil union celebrant is in possession of a licence in respect of the 2 parties; and
+  (b) the solemnisation takes place at the place (or at one of the 2 places) named in the licence; and
+  (c) the solemnisation does not take place more than 3 months after the date of issue of the licence.
+(2) During the solemnisation, in the presence of the civil union celebrant and at least 2 witnesses, each party must make a clear statement to the other that—
+  (a) names both parties; and
+  (b) acknowledges that they are freely joining in a civil union with each other.
+(3) The celebrant must, under section 62B of the Births, Deaths, and Marriages Registration Act 1995, take all reasonable steps to ensure that the civil union is registered under that Act.
+
+### 16 Solemnisation by exempt body
+(1) A civil union may be solemnised by an exempt body if it is solemnised in accordance with the rules and procedures of the body as most recently notified to the Registrar-General in accordance with Schedule 1.
+(2) When a civil union is solemnised by an exempt body, the obligations imposed on civil union celebrants by section 62B of the Births, Deaths, and Marriages Registration Act 1995 must be performed by the person or office holder, or in the manner, as set out in the rules and procedures of the exempt body that have been most recently notified to the Registrar-General in accordance with Schedule 1.
+
+**Changing form of relationship**
+
+### 17 Purpose of section 18
+The purpose of section 18 is to allow couples who are married or in a civil union with each other, and who wish to continue in a relationship with each other, to change the form of that relationship by having the new form of relationship solemnised without having to formally dissolve the first relationship (which normally involves living apart for 2 years).
+
+### 18 Changing form of relationship
+(1) A married couple may enter into a civil union with each other; and 2 people in a civil union with each other, and who are otherwise eligible to marry, may marry each other.
+(2) Before changing the form of their relationship under this section, the party who gives the notice required by section 11 of this Act or section 23 of the Marriage Act 1955 must state on the form that the parties are already in a civil union with each other or are married to each other (as the case requires) and that they wish to change the form of their relationship.
+(3) The solemnisation of the marriage of 2 people who are in a civil union with each other changes the relationship from a civil union into a marriage; but in any situation in which the duration of the resulting marriage is in issue, the duration of the earlier civil union is to be treated as part of the duration of the marriage.
+(4) The solemnisation of a civil union between 2 people who are married to each other changes the relationship from a marriage into a civil union; but in any situation in which the duration of the resulting civil union is in issue, the duration of the earlier marriage is to be treated as part of the duration of the civil union.
+
+**Consent for persons aged 16 or 17**
+
+### 19 Consent to civil union of persons aged 16 or 17
+(1) A Registrar may not issue a licence in respect of a civil union, or solemnise a civil union, in which one of the parties is aged 16 or 17 unless the Registrar is satisfied that the consents required by this section have been obtained.
+(2) A person aged 16 or 17 who wishes to enter into a civil union must obtain the consent of each of his or her guardians to the proposed civil union.
+(3) However, the consent of a particular guardian is not required if the guardian cannot be found or is unable to give consent as a result of incapacity.
+(4) If, because of subsection (3), there is no guardian from whom consent can be sought, consent must be obtained either from a relative who has been acting in the place of a guardian or from a Family Court Judge.
+(5) Every consent under this section must—
+  (a) be in writing; and
+  (b) except in the case of a consent issued by a Family Court Judge, be witnessed by some person who must sign the consent and give his or her full name and address; and
+  (c) be delivered to the Registrar to whom notice of the intended civil union is given.
+(6) A consent may be withdrawn, in writing, at any time before the Registrar issues the licence or solemnises the civil union, as the case requires.
+
+### 20 Application to Family Court Judge if consent refused
+(1) If a person whose consent to a civil union is required under section 19 refuses to give that consent, a Family Court Judge may, on application, consent to the civil union, and that consent has the same effect as if it had been given by the person who refused to give consent.
+(2) When an application is made to a Family Court Judge for consent to a civil union, notice of the application must be served on every person whose consent to the civil union is required under section 19.
+(3) Despite subsection (2), a Family Court Judge may, at his or her discretion, dispense with serving notice on a person whose consent to a civil union is required under section 19.
+
+**Notice of objection to civil union**
+
+### 21 Notice of objection to proposed civil union
+(1) A person may lodge with any Registrar a notice of objection to the civil union of any person named in the notice on the grounds that the civil union is one for which a licence should not be issued.
+(2) Every notice of objection must be in writing signed by or on behalf of the person who lodged the notice of objection, and must state the person's full name, residential address, and the particulars of the grounds of objection on which the notice of objection is founded.
+(3) A copy of a notice of objection may be given to any Registrar other than the Registrar with whom it was lodged, in which case the copy must also show the date and place of lodgement of the notice of objection.
+(4) A notice of objection lapses 1 year from the date on which it was lodged unless, within that time, a notice has been given under section 11 of the intended civil union of the person to whom the notice of objection relates.
+(5) A notice of objection lodged under this section is for all purposes to be treated as also being a caveat lodged under section 25 of the Marriage Act 1955; and a caveat lodged under section 25 of the Marriage Act 1955 is for all purposes to be treated as also being a notice of objection lodged under this section.
+
+### 22 Judge to deal with notice of objection
+(1) If a Registrar receives notice under section 11 of an intended civil union and the Registrar is aware that a notice of objection has been lodged with respect to either party to the intended civil union, the Registrar must immediately submit the notice of objection to a Family Court Judge or, if a Family Court Judge is not available, to a District Court Judge.
+(2) The Judge to whom the notice of objection is submitted must immediately inquire into the grounds of objection stated in the notice of objection, and, if the Judge is of the opinion that those grounds should not prevent the solemnisation of the civil union, he or she must discharge the notice of objection.
+(3) If a Judge refuses to discharge a notice of objection under this section, any person may make an application to a Family Court Judge for the discharge of the notice of objection, and the Family Court Judge, if he or she is of the opinion that there is no longer any reason why the intended civil union should not be solemnised, must discharge the notice of objection.
+(4) A person who lodges a notice of objection is liable for damages if the court considers that the grounds on which the notice of objection was lodged were vexatious and unreasonable.
+
+**When civil union is or may be declared void**
+
+### 23 When civil union is or may be declared void
+(1) The grounds on which a civil union is void ab initio are set out in section 31 of the Family Proceedings Act 1980.
+(2) A civil union may also be declared to be void ab initio on the grounds that, at the time the civil union was solemnised,—
+  (a) one of the parties to it was under the age of 16; or
+  (b) one of the parties to it was aged 16 or 17 and the consents required under section 19 had not be given.
+(3) An application for a declaration under subsection (2) may be made under section 29 of the Family Proceedings Act 1980 as if the application were an application for an order declaring that the civil union was void ab initio on any of the grounds referred to in section 31 of that Act.
+
+### 24 Effect of defects in formalities or procedures
+(1) A defect in compliance with the formalities or procedures required under this Act does not, in itself, render a civil union void.
+(2) However, nothing in this section exempts a Registrar or civil union celebrant who, or an exempt body that, does anything contrary to the provisions of this Act from any penalty for an offence under this Act.
+
+**Certificate of no impediment**
+
+### 25 Registrar may issue certificate of no impediment
+(1) A person who wishes to enter into a civil union outside New Zealand in accordance with the law of another country or jurisdiction may apply to the Registrar-General, in a form that complies with any relevant regulations, for a certificate of no impediment.
+(2) Every application must be accompanied by the prescribed fee.
+(3) On receipt of an application, the Registrar-General must make whatever searches and inquiries he or she considers appropriate.
+(4) The Registrar-General may issue a certificate of no impediment to the applicant if he or she is satisfied that no lawful impediment to the civil union has been shown to exist.
+
+### Subpart 2 — Civil union celebrants
+
+### 26 Appointment of civil union celebrants
+(1) Any person may apply to the Registrar-General to be appointed as a civil union celebrant.
+(2) The Registrar-General may appoint a person as a civil union celebrant if the person has paid any prescribed application fee and the Registrar-General is satisfied that—
+  (a) the person is of good character; and
+  (b) the person will conscientiously perform the duties of a civil union celebrant under this Act and under the Births, Deaths, and Marriages Registration Act 1995; and
+  (c) it is in the interests of the public generally, or of a particular community (whether defined by geography, interest, belief, or some other factor) that the person be appointed as a civil union celebrant.
+(3) The Registrar-General must give notice in the Gazette of the name of every person who is appointed or reappointed as a civil union celebrant.
+(4) A person named in a notice given under subsection (3) is entitled to act as a civil union celebrant on and from the date specified in the notice, and ceases to be entitled to act as a civil union celebrant when his or her appointment ceases under section 28(1).
+
+### 27 Expiry of appointment and reappointment
+(1) A person who wishes to continue to act as a civil union celebrant after 31 January in the year after the year of his or her appointment or reappointment must apply to the Registrar-General for reappointment during November of the year in which the person was appointed or reappointed.
+(2) The Registrar-General may reappoint a civil union celebrant only if the civil union celebrant has paid any prescribed reapplication fee and the Registrar-General is satisfied as to the matters set out in section 26(2).
+(3) A reappointment takes effect on 1 February in the year following the application for reappointment.
+(4) A person who is appointed as a civil union celebrant in November or December of any year is deemed to be reappointed on the following 1 February and need not apply for reappointment until November of that following year.
+(5) If a person does not apply for reappointment as required by subsection (1), or if his or her application is refused, then his or her appointment is cancelled on 31 January following his or her appointment or reappointment (except where subsection (4) applies).
+
+### 28 Ceasing to be civil union celebrant
+(1) A person ceases to be a civil union celebrant,—
+  (a) in the case of a person who fails to be reappointed under section 27, on the date specified in subsection (5) of that section; or
+  (b) in the case of a person who resigns in writing, on the date on which the Registrar-General receives the resignation; or
+  (c) in the case of a person whose appointment is cancelled by the Registrar-General under this section, on the date referred to in subsection (5).
+(2) The Registrar-General may cancel a person's appointment as a civil union celebrant if the Registrar-General is not satisfied, with respect to the person, of the matters set out in section 26(2).
+(3) The Registrar-General may not cancel a person's appointment as a civil union celebrant without first—
+  (a) giving the person notice that the Registrar-General is considering cancelling the appointment; and
+  (b) giving the person a reasonable opportunity to make submissions on the proposal; and
+  (c) considering any submissions made by the person within that time.
+(4) The Registrar-General must give notice in writing to the person concerned of a decision to cancel the person's appointment as a civil union celebrant, and also of any decision not to proceed with a proposed cancellation.
+(5) If a person's appointment as a civil union celebrant is cancelled, the notice from the Registrar-General must specify the date on which the cancellation takes effect, which must be a date not sooner than 5 days after the date on which the notice is sent.
+
+### 29 List of civil union celebrants
+(1) The Registrar-General must, at least once every year, publish a list in the Gazette of the names of all current civil union celebrants, and this list may be combined with any notice given under section 26(3).
+(2) The Registrar-General may at any time publish in the Gazette a list of the names of civil union celebrants who have ceased to be civil union celebrants since the latest list under this section was published.
+
+### Subpart 3 — Offences and miscellaneous provisions
+
+**Offences**
+
+### 30 Offence to issue licence or solemnise civil union contrary to Act
+(1) A Registrar who knowingly and wilfully issues a licence contrary to this Act commits an offence.
+(2) A Registrar or civil union celebrant who knowingly and wilfully solemnises a civil union contrary to section 14 or section 15 commits an offence.
+(3) A person is liable, on conviction on indictment for an offence against subsection (1) or subsection (2), to imprisonment for a term not exceeding 5 years, or to a fine not exceeding $10,000, or to both.
+(4) An exempt body that knowingly and wilfully solemnises a civil union otherwise than in accordance with its rules and procedures as most recently notified to the Registrar-General commits an offence and is liable on conviction on indictment to a fine not exceeding $10,000.
+
+### 31 Offence to purport to solemnise civil union
+Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 5 years, if he or she purports to solemnise a civil union as a civil union celebrant knowing that he or she is not a civil union celebrant.
+
+### 32 Offences in connection with false statements relating to civil union
+Every person commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 2 years, or to a fine not exceeding $5,000, or to both, who knowingly and wilfully—
+  (a) makes or causes to be made any false declaration for the purposes of this Act; or
+  (b) makes or causes to be made, for the purpose of being inserted in any register, a false statement of any particular required to be known and registered; or
+  (c) gives a Registrar a document that purports to be a copy of a notice of objection when it is not in fact a copy of a notice of objection.
+
+### 33 Limitation on prosecutions
+A prosecution under this Act may not be commenced more than 3 years from the date on which the offence was committed.
+
+**Miscellaneous**
+
+### 34 Registrar-General
+The Registrar-General is charged with the general administration of this Act.
+
+### 35 Regulations
+(1) The Governor-General may from time to time, by Order in Council, make regulations for one or more of the following purposes:
+  (a) prescribing types of overseas relationships that are recognised in New Zealand as civil unions:
+  (b) prescribing fees for any of the following:
+    (i) giving notice of an intended civil union; and different fees (and different rules for the refund of any part of such fees) may be prescribed for notices given in different circumstances:
+    (ii) the solemnisation of civil unions (which may prescribe different fees for solemnisation at different times or in different circumstances):
+    (iii) the lodging of a notice of objection, or a copy of a notice of objection:
+    (iv) applying for a certificate of no impediment:
+    (v) applying to be a civil union celebrant:
+    (vi) applying for reappointment as a civil union celebrant:
+    (vii) applying to be an exempt body:
+  (c) prescribing forms to be used for the purposes of this Act:
+  (d) prescribing the matters that must be included in forms (other than prescribed forms) used in connection with civil unions:
+  (e) providing for any other matter contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) No regulations under subsection (1)(a) that recognise a type of overseas relationship may be made unless the Minister of Justice is satisfied that that type of overseas relationship is established or recognised under the law of another country or jurisdiction, and that the law of that country or jurisdiction—
+  (a) does not permit or recognise the relationship unless both parties to it are at least 16 years old; and
+  (b) does not permit or recognise the relationship if the parties are related as—
+    (i) parent and child; or
+    (ii) siblings or half-siblings; or
+    (iii) grandparent and grandchild; and
+  (c) requires that the parties explicitly consent to entering into the relationship; and
+  (d) provides that the relationship ends only on the death of a party or by a judicial or other process that would be recognised in the courts of New Zealand as a dissolution; and
+  (e) requires that, during the relationship, the parties may not enter into that sort of relationship with anyone else, and may not marry anyone else.
+
+### 36 Rules of procedure
+(1) Rules may be made under section 16A of the Family Courts Act 1980 that regulate the practice and procedure of Family Courts in proceedings under sections 10, 20, and 22.
+(2) Rules made under the Family Courts Act 1980—
+  (a) are subject to section 20(2) and (3); and
+  (b) do not affect the practice and procedure of District Courts in proceedings under section 22.
+
+### 37 Appointment of civil union celebrants before section 26 comes into force
+(1) The Registrar-General may, before section 26 comes into force, receive applications from persons who wish to be appointed as civil union celebrants, and may appoint suitable persons under section 26(2).
+(2) The Registrar-General may give the Gazette notice required by section 26(3) at any time, but no person who is named in the notice is entitled to act as a civil union celebrant until the date on which section 26 comes into force, or any later date specified in the notice.
+
+### Subpart 4 — Amendments to other enactments
+
+**Amendments to Births, Deaths, and Marriages Registration Act 1995**
+
+### 38 Amendments to section 2 of Births, Deaths, and Marriages Registration Act 1995
+(1) Section 2 of the Births, Deaths, and Marriages Registration Act 1995 is amended by repealing the definition of celebrant, and substituting the following definition:
+  - **celebrant** means, as the case requires,—
+    (a) in relation to a marriage, a person who is a marriage celebrant under the Marriage Act 1955; and, in relation to a marriage solemnised by a celebrant, means the celebrant who solemnised it; and
+    (b) in relation to a civil union, a person who is a civil union celebrant under the Civil Union Act 2004; and, in relation to a civil union solemnised by a celebrant, means the celebrant who solemnised it.
+(2) Section 2 of the Births, Deaths, and Marriages Registration Act 1995 is amended by inserting, in their appropriate alphabetical order, the following definitions:.
+  - **civil union certificate** means—
+    (a) a document that is issued by, and signed or sealed by or stamped with the seal of, a Registrar, and that contains registered civil union information; and
+    (b) in relation to any civil union, means a civil union certificate containing registered civil union information relating to that civil union
+  - **civil union information** means information relating to a civil union; and, in relation to any civil union, means information relating to that civil union
+(3) Section 2 of the Births, Deaths, and Marriages Registration Act 1995 is amended by omitting from paragraph (a) of the definition of Register the words or marriage, and substituting the words marriage, or civil union.
+
+### 39 New Part 7A inserted in Births, Deaths, and Marriages Registration Act 1995
+The Births, Deaths, and Marriages Registration Act 1995 is amended by inserting, after section 62, the following Part:Civil unionsCivil unions under Civil Union Act 2004 to be registeredCivil unions solemnised by celebrantRegistrars to register civil unionsChange to form of relationship to be recordedDissolutions to be recordedConvictions for bigamy to be recordedRecording new names in relation to civil unions
+  (1) Every civil union entered into under the Civil Union Act 2004 must be registered in accordance with this Part.
+  (2) No other type of civil union may be registered under this Act.
+  A celebrant who solemnises a civil union must,—
+    (a) immediately after solemnising the civil union,—
+      (i) enter on both information return forms provided under section 12 of the Civil Union Act 2004 the prescribed information relating to the civil union; and
+      (ii) ensure that both forms are signed by the parties to the civil union, the celebrant, and 2 witnesses to the solemnisation; and
+      (iii) give one form to the parties; and
+    (b) within 10 days of solemnising the civil union, forward the other form to a Registrar.
+  (1) A Registrar who is authorised by the Registrar-General to register civil unions must,—
+    (a) if he or she receives a form under section 62B, register the information, but only to the extent that the information given is information required by the prescribed form; and
+    (b) if he or she solemnises a civil union, register the prescribed information relating to it.
+  (2) A Registrar who is not authorised by the Registrar-General to register civil unions must send to the Registrar-General, or to a Registrar specified by the Registrar-General (as the Registrar-General for the time being directs),—
+    (a) any information contained on a form forwarded to the Registrar under section 62B, but only to the extent that the information is information required by the prescribed form; and
+    (b) if the Registrar solemnises a civil union, the prescribed information relating to that civil union.
+  (3) Subsections (1) and (2) may be overridden by section 82.
+  If the Registrar-General or a Registrar receives information that the parties to a marriage or civil union have, under section 18 of the Civil Union Act 2004, changed the form of their relationship, the Registrar-General or Registrar must—
+    (a) note on any information relating to the earlier marriage or civil union that is registered under this Act that the marriage or civil union has been changed, and note when and where the change was effected; and
+    (b) note on the information relating to the later marriage or civil union that, on the date and at the place in which the solemnisation of the later marriage or civil union took place, the parties changed their earlier marriage or civil union into a marriage or civil union; and
+    (c) ensure that a link is created between the registered information relating to the earlier marriage or civil union and the registered information relating to the later marriage or civil union.
+  (1) The Registrar of a Family Court must immediately send to the Registrar-General a certificate of any of the following orders made in that Court under the Family Proceedings Act 1980:
+    (a) an order dissolving a civil union:
+    (b) an order declaring that a party to a civil union is presumed dead and the civil union is dissolved:
+    (c) an order declaring that a civil union is void ab initio.
+  (2) The Registrar-General must record the information contained in a certificate received under subsection (1) as part of the information recorded under this Act relating to the civil union.
+  (1) When a person who is a party to a civil union is convicted of bigamy, the Registrar of the Court concerned must immediately send to the Registrar-General a certificate of the conviction specifying—
+    (a) the names of the parties to the bigamous marriage or civil union; and
+    (b) the date and place of the bigamous marriage or civil union; and
+    (c) the date of the conviction.
+  (2) If the information relating to a bigamous marriage or civil union is recorded under this Act, the Registrar-General must record the information received under subsection (1) as part of that information.
+  (1) If a person in a civil union changes his or her name and the change is recorded (under section 21(5)) in the person's birth information, the person may request the Registrar-General to include his or her new name in the information relating to his or her civil union.
+  (2) A request under subsection (1) that is made in respect of the recording of new names under section 21 may be made when the statutory declaration is deposited under section 21(3).
+  (3) The Registrar-General must include the new names or change of names as requested, so long as the request was accompanied by the prescribed fee.
+
+**Amendments to other enactments**
+
+### 40 Sections 16 and 23 of Adoption Act 1955 amended
+(1) Section 16(2)(b) of the Adoption Act 1955 is amended by inserting in the proviso, after the words any enactment relating to forbidden marriages, the words or civil unions.
+(2) Section 23 of the Adoption Act 1955 is amended by repealing subsection (2), and substituting the following subsection:
+  (2) Adoption records are open to inspection by—
+    (a) any Registrar (as defined in section 2 of the Births, Deaths, and Marriages Registration Act 1995) or marriage celebrant under the Marriage Act 1955 for the purpose of investigating forbidden degrees of relationship under the Marriage Act 1955; and
+    (b) any Registrar (as so defined) or civil union celebrant under the Civil Union Act 2004 for the purpose of investigating prohibited degrees of civil union under the Civil Union Act 2004.
+
+### 41 Section 205 of Crimes Act 1961 amended
+(1) Section 205(1) of the Crimes Act 1961 is amended by—
+  (a) inserting in paragraph (a), after the words form of marriage, the words or civil union ; and
+  (b) inserting in paragraph (b), after the words knows to be married, the words or in a civil union ; and
+  (c) inserting in paragraph (c), after the words being married, the words or in a civil union ; and
+  (d) omitting from paragraph (d) the words knows to be married., and substituting the words knows to be married or in a civil union; or.
+(2) Section 205(1) of the Crimes Act 1961 is amended by adding the following paragraphs:
+  (e) the act of a person who, being in a civil union, goes through a form of civil union or marriage with a third person; or
+  (f) the act of a person who goes through a form of civil union with a person whom he or she knows to be in a civil union or to be married.
+(3) Section 205(2) of the Crimes Act 1961 is amended by repealing paragraph (b), and substituting the following paragraphs:
+  (b) a form of civil union is any form of civil union recognised under the Civil Union Act 2004 as a valid form of civil union under that Act:
+  (c) no form of marriage or civil union may be held to be an invalid form of marriage or civil union by reason of any act or omission of the person charged with bigamy, if it is otherwise a valid form.
+(4) Section 205(3) of the Crimes Act 1961 is amended by omitting all the words after the word unmarried, and substituting the words or not in a civil union they would have been incompetent to contract marriage or enter into a civil union.
+(5) Section 205(4) of the Crimes Act 1961 is amended by—
+  (a) inserting, after the words form of marriage, the words or entering into a civil union ; and
+  (b) inserting in paragraphs (a) and (b), after the word spouse in each case, the words or civil union partner (as the case may be).
+
+### 42 Section 206 of Crimes Act 1961 amended
+Section 206 of the Crimes Act 1961 is amended by—
+  (a) inserting, after the words form of marriage, the words or with whom the offender entered into a civil union, ; and
+  (b) inserting, after the words that the marriage, the words or civil union.
+
+### 43 New section 207 of Crimes Act 1961 substituted
+The Crimes Act 1961 is amended by repealing section 207, and substituting the following section:Feigned marriage or feigned civil union
+  (1) Everyone is liable to imprisonment for a term not exceeding 7 years who goes through a form of marriage or civil union with any other person, knowing that the marriage or civil union will be void for any reason other than that one of the parties is already married or in a civil union.
+  (2) Provided that if the Judge is satisfied that the other person knew, at the time when the offence was committed, that the marriage or civil union would be void, the offender is liable to imprisonment for a term not exceeding 2 years.
+
+### 44 Amendments to Family Proceedings Act 1980
+(1) The provisions of the Family Proceedings Act 1980 specified in Part 1 of Schedule 3 are amended by inserting, after the word marriage wherever it appears, the words or civil union.
+(2) The provisions of the Family Proceedings Act 1980 specified in Part 2 of Schedule 3 are amended in the manner set out in that Part.
+
+### 45 Amendments to Family Proceedings Act 1980 made by Care of Children Act 2004 amended
+The Care of Children Act 2004 is amended by repealing Schedule 2 (which amends the Family Proceedings Act 1980), and substituting the schedule set out in Schedule 4 of this Act.
+
+### 46 Consequential amendments to other enactments
+The enactments listed in Schedule 5 are consequentially amended in the manner indicated in that schedule.
+
+## Schedule 1 — Exempt bodies
+
+### 1 Application to become exempt body
+(1) A body that wishes to become an exempt body must apply to the Registrar-General for exemption in the prescribed form.
+(2) The application must set out—
+  (a) the name and contact address of the body; and
+  (b) the objects and beliefs of the body; and
+  (c) the approximate number of its members who are of or over the age of 16; and
+  (d) an explanation of why the objects and beliefs of the body are inconsistent with the requirements of this Act for the solemnisation of a civil union; and
+  (e) the rules and procedures that the body proposes to apply when solemnising a civil union.
+(3) The application must be signed by at least 10 members of the body who are of or over the age of 16, each of whom must give their age and address, and the signatures must be accompanied by a statutory declaration, signed by a person who is not a member, to the effect that the signatories are who they claim to be and are members of the body.
+
+### 2 Registrar-General or Minister may grant exemption
+(1) The Registrar-General may agree to grant the exemption applied for if any prescribed application fee is paid and the Registrar-General is satisfied that—
+  (a) the objects and beliefs of the body are inconsistent with the requirements of this Act for the solemnisation of a civil union; and
+  (b) the rules and procedures that the body proposes to apply when solemnising a civil union are generally consistent with this Act and are otherwise satisfactory.
+(2) If the Registrar-General fails or refuses to agree to exempt the body, he or she must refer the matter to the Minister.
+(3) The Minister must agree to grant the exemption sought if he or she is satisfied as to the matters referred to in subclause (1), but, if the Minister is not so satisfied, he or she must refuse the application.
+(4) The Registrar-General must advise the applicant of the result of the application.
+(5) When the Registrar-General or the Minister agrees to exempt a body from the requirements of this Act for the solemnisation of a civil union, the Registrar-General must give notice in the Gazette of that fact, and the body is exempt from the date specified in the notice.
+
+### 3 Exempt body to notify changes
+(1) An exempt body must notify the Registrar-General if—
+  (a) it changes its name; or
+  (b) it changes its objects and beliefs in a way that impacts on why it considers that the requirements of this Act for the solemnisation of a civil union are inconsistent with those objects and beliefs; or
+  (c) it changes its rules and procedures for solemnising civil unions.
+(2) If the body notifies the Registrar-General that it has changed its name, the Registrar-General must give notice of that fact in the Gazette.
+(3) The Registrar-General must ask the Minister to cancel the exemption of an exempt body if the Registrar-General is satisfied that,—
+  (a) as a result of changes referred to in subclause (1)(b) or (c), the body should no longer be an exempt body; or
+  (b) the body has failed to conduct one or more civil unions in accordance with its rules and procedures as most recently notified to the Registrar-General.
+(4) If the Minister decides that the body should no longer be an exempt body, the Registrar-General must give notice in the Gazette that the body is no longer an exempt body, and notify the body accordingly.
+(5) A body ceases to be an exempt body on the date on which the notice referred to in subclause (4) is published in the Gazette.
+
+## Schedule 2 — Prohibited degrees of civil union
+
+### 1
+Person A and person B are within the prohibited degrees of civil union if person A is person B's1grandparent2parent3child4grandchild5sibling6parent's sibling7sibling's child8grandparent's spouse or civil union partner9parent's spouse or civil union partner10spouse's or civil union partner's parent11spouse's or civil union partner's grandparent1212 spouse's or civil union partner's child13child's spouse or civil union partner14grandchild's spouse or civil union partner15spouse's or civil union partner's grandchild
+
+### 2
+The prohibited degrees of civil union apply whether the relationships described are by the whole blood or by the half blood.
+
+### 3
+In this schedule, spouse and civil union partner includes a former spouse or former civil union partner, whether alive or deceased, and whether the marriage or civil union was terminated by death, dissolution, or otherwise.
+
+## Schedule 3 — Amendments to Family Proceedings Act 1980
+
+## Schedule 4 — New Schedule 2 inserted in Care of Children Act 2004
+
+### Schedule 2 — Amendments to Family Proceedings Act 1980 (extending counselling and conciliation provisions to same-sex de facto partners)
+
+## Schedule 5 — Consequential amendments to other enactments
+
+### 70A Civil union certificates
+Every civil union certificate must contain as much information (being information relating to the civil union to which the certificate relates that is recorded under this Act at the time the certificate is issued) as is then prescribed.
+
+| Civil Union Act 2004 | section 29 |
+| --- | --- |
+
+| The Civil Union Act 2004 | 30 Offence to issue licence or solemnise civil union contrary to Act |
+| --- | --- |
+|  | 31 Offence to purport to solemnise civil union |
+|  | 32 Offences in connection with false statements relating to civil union |
+
+| Civil Union Act 2004 | section 29 |
+| --- | --- |
