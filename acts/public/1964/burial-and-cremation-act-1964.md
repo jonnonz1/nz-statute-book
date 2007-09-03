@@ -1,0 +1,482 @@
+# Burial And Cremation Act 1964
+_Consolidation as at 2007-09-03_
+
+> An Act to consolidate and amend the law relating to the burial and cremation of the dead
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Burial and Cremation Act 1964.
+(2) This Act shall come into force on the 1st day of April 1965.
+
+### 2 Interpretation
+(1) In this Act, unless the context otherwise requires,—
+  - **Body** means a dead human body and includes the body of a still-born child
+  - **Burial ground** means a denominational burial ground or a private burial ground; but does not include a Maori burial ground
+  - **Cemetery** means any land held, taken, purchased, acquired, set apart, dedicated, or reserved, under the provisions of any Act or before the commencement of this Act, exclusively for the burial of the dead generally, and, where the context so permits, includes a closed cemetery
+  - **Closed cemetery** means a cemetery which has been closed by a closing order and has a corresponding meaning
+  - **Closing order** means an order made under paragraph (a) of subsection (1) of section 41 of this Act before the first day of January 1969, or a notice published under that paragraph after that date, or an Order in Council made under any corresponding former provision
+  - **corporation** , in relation to a local authority, means that local authority as constituted a body corporate by section 12 of the Local Government Act 2002
+  - **Cremation** means the reduction to ashes of dead bodies by burning
+  - **Crematorium** means appliances and machinery and furnaces for effecting cremation, and includes any building in which any such appliances, machinery, or furnaces are fixed
+  - **Denominational burial ground** means any land, outside the boundaries of a cemetery, held, purchased, acquired, set apart, or dedicated, under the provisions of any Act or before the commencement of this Act, for the burial of the dead belonging to one or more religious denominations
+  - **doctor** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+  - **Guardian** means a person appointed to be a guardian under section 14 of this Act
+  - **local authority** means a territorial authority within the meaning of the Local Government Act 2002
+  - **Manager** means the manager of a denominational burial ground
+  - **Maori burial ground** means any land set apart for the purposes of a burial ground under section 439 of the Maori Affairs Act 1953 or any corresponding former provision
+  - **midwife** means a health practitioner who is, or is deemed to be, registered with the Midwifery Council established by section 114(3) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of midwifery.
+  - **Minister** means the Minister of Health
+  - **Monument** includes any tombstone, headstone, memorial, kerbing, or other erection
+  - **Private burial ground** means a parcel of land declared to be a private burial ground under the provisions of the Cemeteries Amendment Act 1912
+  - **Religious denomination** means the adherents of any religion and includes any church, sect, or other subdivision of such adherents
+  - **Still-born child** has the same meaning as in section 2 of the Births, Deaths, and Marriages Registration Act 1995
+  - **Tablet** includes a plaque
+  - **Trustees** means the trustees of a cemetery or of a private burial ground, as the case may require, and, for all the purposes of this Act in relation to the rights, powers, and duties conferred or imposed on managers by this Act, includes managers.
+(2) Notwithstanding the definitions of cemetery and denominational burial ground in subsection (1) of this section no parcel of land shall be deemed not to be a cemetery or a denominational burial ground only because a crematorium has been erected or is proposed to be erected within its boundaries.
+
+### 3 Act not to apply to Maori burial grounds
+Except as is expressly provided in this Act, this Act shall not apply to Maori burial grounds or to the burial of bodies therein.
+
+## Part 1 — Establishment, maintenance, and regulation of cemeteries
+
+### 4 Local authorities to provide cemeteries
+(1) It shall be the duty of every local authority, where sufficient provision is not otherwise made for the burial of the bodies of persons dying within its district, to establish and maintain a suitable cemetery.
+(2) Every local authority is hereby authorised to undertake any work for the purpose of carrying out the duty imposed on it by subsection (1) of this section and to expend such money as it thinks fit on the acquisition of land for cemeteries and on the establishment, maintenance, and improvement of cemeteries.
+(3) A cemetery is a public work within the meaning of the Public Works Act 1981 and land may be acquired or taken for cemeteries under the provisions of that Act.
+(4)
+
+### 5 Functions of local authorities
+(1) Subject to the provisions of Part 3, a local authority shall have the control and management of every cemetery—
+  (a) Which is on land to which the corporation of the local authority has title; or
+  (b) Which is on land administered by the local authority under the provisions of any Act other than this Act; or
+  (c) Which was under the control and management of that local authority immediately before the commencement of this Act by virtue of an appointment as trustees of that cemetery; or
+  (d) Which is under the control and management of that local authority by virtue of an appointment under section 23 of this Act.
+(2) Any land which is vested in any local authority as trustees under the Cemeteries Act 1908 immediately before the commencement of this Act shall be deemed to be vested in that local authority for cemetery purposes.
+(3) All property, other than land, which is vested in any local authority or other persons as trustees of a cemetery immediately before the local authority assumes control and management of that cemetery under subsection (1) of this section shall vest without assignment in the local authority subject to the provisions of this Act; and all liabilities and engagements of that local authority or of those other persons in their capacity as trustees of the cemetery and all proceedings pending by or against it or them in that capacity, shall respectively be liabilities and engagements of, and proceedings to be carried on by or against, the corporation of the local authority.
+(4) The rights, powers, and duties conferred on a local authority by sections 7 to 21 of this Act may be exercised and shall be performed by the local authority in relation to any cemetery which is under its control and management, whether such cemetery is within or outside the area otherwise controlled by such local authority, but, except for the rights, powers, and duties conferred or imposed by subsections (3) to (5) of section 21 of this Act, shall not be exercised or performed in relation to any other cemetery.
+
+### 6 Cemetery to be open to public
+Subject to the provisions of this Act, every cemetery shall be open for the interment of all deceased persons, to be buried with such religious or other ceremony, or without any ceremony, as the friends of the deceased think proper.
+
+### 7 Name of cemetery
+(1) A cemetery shall have the name by which it was called immediately before the commencement of this Act, or, in the case of a cemetery established after the commencement of this Act, such name as the local authority may decide.
+(2) A local authority may, with the approval of the Minister, from time to time change the name of any cemetery.
+
+### 8 Management of cemetery
+A local authority may from time to time—
+  (a) Enclose the land comprised in a cemetery, or any portion thereof, with proper and sufficient walls, rails, or fences, and erect suitable gates and entrances:
+  (b) Lay out and ornament a cemetery in such manner as is most convenient and suitable for the burial of the dead, and provide it with such walks, avenues, roads, lawns, and shrubberies as it thinks proper:
+  (c) Preserve, maintain, and keep a cemetery and its walls, rails, fences, gates, and entrances and all monuments, enclosures, buildings, erections, walks, avenues, roads, lawns, and shrubberies therein in a safe, clean, and orderly condition:
+  (d) Make all necessary and proper drains in and about a cemetery for draining and keeping it dry; and may from time to time, as occasion requires, cause any such drain to connect with any existing drain with the consent in writing of any other persons having the management of any such existing drain, and with the consent in writing of any other persons having the management of any street or road and of the owners and occupiers of any land through which such drain is made, doing as little damage as possible to the road or such land, and restoring it to the same or as good condition as it was in before being disturbed.
+
+### 9 Powers as to vaults, monuments, etc
+The following provisions shall apply with respect to the digging, making, erection, placing, and maintenance of graves, vaults, monuments, and tablets:
+  (a) The local authority may, upon payment of the prescribed fees, permit any grave or vault to be dug or made, and any monument or tablet to be erected or placed, in a cemetery as it thinks proper:
+  (b) When any person desires to erect a monument in a cemetery he shall submit a plan of the proposed monument to the local authority which may at its discretion grant or refuse permission for such erection:
+  (c) The local authority shall determine and fix the position of any monument proposed to be erected, according to the description, size, and character thereof, having regard to the general plan for ornamenting the cemetery in an appropriate manner, and may require that any such monument be erected with such precautions as it may think necessary for the protection of persons frequenting or working in the cemetery at any time thereafter:
+  (d) Subject to the provisions of this Act, any person who has dug or made a grave or vault or erected a monument or placed a tablet in accordance with any permission granted by the local authority in that behalf, and has paid the prescribed fees, shall be entitled to maintain such grave, vault, monument, or tablet according to the terms of such permission to and for the sole and separate use of such person and his representatives and successors in perpetuity, or for the time limited in such permission:
+  (e) Without prejudice to the powers conferred by paragraphs (a) to (d) of this section the local authority may prohibit generally the erection in a cemetery, or in such part of a cemetery as it may designate for the purpose,—
+    (i) Of any monuments other than monuments of a specified size or type; or
+    (ii) Of any monument and the placing of any tablet otherwise than slightly below the level of the surrounding ground or in such other place or position as the local authority may specify, but so that a reasonable area remains available in a cemetery under the control of the local authority for the erection of monuments, whether of a specified size or type or not as the local authority thinks fit:
+  (f) The local authority may enter into agreements to maintain, either in perpetuity or for specified periods, the graves in a cemetery:
+  (g) If any monument is erected, or any tablet is placed, otherwise than in accordance with the terms and conditions on which permission was granted, or in a place prohibited by the local authority for the purpose, the local authority may take down or remove such monument or tablet:
+  (h) Where any monument or tablet is, or in the opinion of the local authority is, a danger to persons frequenting or working in the cemetery, the local authority shall make the monument or tablet safe or shall take it down or remove it:
+  (i) No body shall be buried under any church, chapel, or crematorium or within 5 metres of the outer wall of any church, chapel, or crematorium.
+
+### 10 Exclusive right of burial, etc.
+(1) A local authority may sell either in perpetuity or for a limited period the exclusive right of burial in any part of a cemetery, and also the right of constructing any vault or place of burial with the exclusive right of burial therein.
+(2) Before any body is permitted to be buried in any vault, brick grave, or place of burial, the exclusive right of burial wherein has been sold, the local authority may require satisfactory evidence that the person for the time being appearing to it to be entitled as owner to such exclusive right has consented or would not object to the burial taking place therein.
+(3) Any sale of an exclusive right under this section may at any time be rescinded by agreement between the local authority and the person for the time being appearing to it to be entitled as owner to such exclusive right and the local authority may pay to such person such price as may be agreed in consideration of such rescission for which the receipt of such person shall be sufficient discharge.
+(4) Notwithstanding the provisions of subsections (1) to (3) of this section, any exclusive right of burial referred to in subsection (1) of this section, whether sold before or after the commencement of this Act, shall lapse if, at any time after the sale, 60 years pass without a burial taking place in that part of the cemetery or in that vault, brick grave, or place of burial which is the subject of such exclusive right.
+
+### 11 Portions for different denominations
+(1) Upon the application of the governing body of any religious denomination, a local authority may set apart permanently a portion of the cemetery to be used only for the burial of the bodies of members of such denomination.
+(2) If the local authority refuses the application the governing body so applying may thereupon appeal against the decision of the local authority to any District Court Judge exercising jurisdiction at or near the place where such cemetery is situated, and the District Court Judge shall consider the appeal and make such order thereupon as seems to meet the justice of the case.
+(3) The setting apart under subsection (1) or subsection (2) of this section of any portion of a cemetery may be at any time determined in respect of the whole or part of that portion by the local authority with the consent of the governing body of the religious denomination.
+(4) For the purposes of this section the recognised senior office bearer of a religious denomination in the diocese or district, or in his absence, or if there is no such person, any 2 persons of such denomination holding therein any of the offices of minister, deacon, churchwarden, church manager, trustee, or other similar office, shall be deemed to be the governing body of that denomination.
+
+### 12 Sections may be marked off and consecrated
+(1) The local authority shall define by suitable marks, not being a dividing fence, any portion of the cemetery set apart under section 11 of this Act, and any such portion may, at the expense of the particular religious denomination, be enclosed with any suitable open fence of a character that will not mar the general appearance of the cemetery.
+(2) The local authority shall permit the portion so set apart to be consecrated according to the rites of the religious denomination, and the portion so consecrated shall be used only for burials according to the rites of that denomination.
+(3) Where the members of any religious denomination desire at their own expense to build in a cemetery a suitable mortuary church or chapel for the performance of the rites and ceremonies in the burial of the dead according to the usages of that denomination, the local authority may permit the same to be built within such portion of the cemetery as is set apart for that denomination.
+
+### 13 Rights of minister of religion, etc
+(1) The minister of any religious denomination for which any portion of a cemetery is set apart under section 11 of this Act shall at all times have free right of access and admission thereto, and may freely exercise his spiritual functions therein, without any hindrance or disturbance by the local authority or any other person.
+(2) Every religious denomination shall have power to regulate, in relation to any portion of a cemetery set apart for its exclusive use,—
+  (a) The performance of any religious ceremony in the burial of the dead according to the usage of the denomination; and
+  (b) The inscriptions on any monuments erected in such portion in accordance with the provisions of section 9 of this Act and any bylaws made under this Act.
+(3) A local authority shall not by any bylaw, or any act, matter, or thing, at any time interfere directly or indirectly with the matters specified in subsection (2) of this section.
+
+### 14 Guardians
+(1) Every religious denomination may from time to time appoint guardians to administer and supervise, subject to the powers conferred on the local authority by this Act, any portion of a cemetery set apart for its exclusive use.
+(2) The local authority may make such arrangements as it thinks fit with any such guardians for the upkeep of the portion administered and supervised by them and the graves, vaults, monuments, and tablets therein.
+
+### 15 Burial of members of Her Majesty's Forces, etc
+(1) Notwithstanding anything in this Act, a local authority may—
+  (a) Set aside permanently a part of any cemetery under its control and management to be used for the burial of the bodies of—
+    (i) Persons who have been on operational service in Her Majesty's Forces; and
+    (ii) the husband, wife, civil union partner, or de facto partner of a person who has been on operational service in Her Majesty's Forces:
+  (b) Without fee,—
+    (i) Permit burials to take place in the part of the cemetery set aside under paragraph (a):
+    (ii) Grant (whether in perpetuity or for a limited period) the exclusive right of burial in that part of the cemetery.
+(2) The Minister of Veterans' Affairs may, after consultation with the Minister of Defence and the New Zealand Returned Services' Association (Incorporated), by notice in the Gazette, specify a war, armed conflict, peacekeeping force, or other operation for the purposes of subsection (1).
+(3) In subsection (1), operational service means service in a war, armed conflict, peacekeeping force, or other operation specified under subsection (2).
+
+### 16 Bylaws
+(1) A local authority may in respect of any cemetery, or, so far as is applicable, any closed cemetery under its control, make bylaws for all or any of the following purposes:
+  (a) Maintaining, preserving, and embellishing the cemetery or closed cemetery:
+  (b) Directing the positions of all graves and vaults in the cemetery, the depths of the graves, and the construction of coffins to be admitted into vaults, and the covering of vaults so as to prevent the escape of any noxious exhalation in the cemetery:
+  (c) Protecting buildings, monuments, lawns, shrubberies, plantations, and enclosures in the cemetery or closed cemetery from destruction or damage:
+  (d) Prohibiting the burial in any grave of more than one body or prescribing conditions subject to which more than one body may be buried in any grave:
+  (e) Controlling or restricting the times at which or between which burials may be carried out:
+  (f) Regulating the burial in the cemetery of the ashes of the dead:
+  (g) Subject to section 51 of this Act, regulating and restricting the disinterment and removal of bodies:
+  (h) Fixing a scale of fees payable in respect of any grave or vault dug or made, and any monument or tablet erected or placed, in the cemetery, and in respect of any agreements to maintain graves:
+  (i) Prescribing fines for the breach of any such bylaw not exceeding $100 in any case, and, where the breach is a continuing one, not exceeding $10 for every day or part of a day during which the breach has continued:
+  (j) Any of the matters referred to in section 9 or in paragraphs (a), (b), (c), or (e) of section 59 of this Act.
+(2) All bylaws made by a local authority under this Act shall be made in the same manner in all respects as if they were bylaws made pursuant to the Local Government Act 2002.
+
+### 17 Copies of bylaws
+(1) A copy of all bylaws proposed to be made under this Act shall be sent to the Minister not less than twenty-one days before the bylaws are confirmed.
+(2) The local authority shall cause printed copies of all its bylaws under this Act to be kept at its office, and to be sold at a reasonable charge to any person who applies for them.
+(3) There shall be available for inspection at all reasonable times at the office of the local authority and at the office or residence of the sexton, if any, and, if there is no sexton, at the cemetery, a table of the fees fixed under this Act in respect of the cemetery.
+
+## Part 2 — Finance and miscellaneous functions
+
+### 18 Receipts and expenditure
+(1) All money received by a local authority pursuant to the provisions of this Act or of any regulations or bylaws made under this Act shall be credited to a separate account and such account shall be kept in like manner as the ordinary accounts of the local authority are kept and shall be subject to the provisions of any enactment governing the keeping and audit of such accounts.
+(2) Subject to the provisions of any other enactment relating to the appropriation of money in a separate account of a local authority all money received by a local authority and credited as required by subsection (1) of this section shall be applied in the management and improvement of the cemetery or cemeteries under its control and for the several purposes and objects authorised by this Act.
+
+### 19 Appointment of officers
+A local authority may from time to time appoint such officers and servants as it thinks necessary to assist in the execution of this Act, and the provisions of any other enactment relating to the terms and conditions of employment of officers or servants of a local authority shall apply in respect of the employment of persons appointed pursuant to this section.
+
+### 20 Clearance of disused cemeteries
+A local authority may expend such money as it thinks fit for the purposes of clearing, cleaning, repairing, and tidying any closed or otherwise disused or derelict cemetery or other place of burial, and, subject to the provisions of this Act, for the purposes of renovating or removing and disposing of monuments and tablets therein, and may enter into any contracts with the owners or occupiers of the land comprising the cemetery or place of burial and any other persons whatsoever for any of the said purposes.
+
+### 21 Restrictions on alienation
+(1) A local authority shall not make use of the land comprised in a cemetery for any purpose except such as is authorised by this Act, or charge or alienate that land or any part thereof by mortgage, sale, or otherwise or dispose of the rents, issues, and profits thereof, except as expressly provided in this Act.
+(2) A local authority may grant leases of any unused portion of the land comprised in a cemetery for any term not exceeding 5 years for such consideration or at such rent and upon such terms and conditions and in such manner as it thinks fit, and may accept surrenders of any such leases.
+(3) Any land comprised in a cemetery, which is not required for cemetery purposes, may, in any case in which section 24 of the Reserves Act 1977 or section 42 or section 52 of the Public Works Act 1981 is otherwise applicable, be dealt with under the section so applicable, with the consequences provided for in those Acts, and any land which has been disposed of or otherwise dealt with in accordance with the provisions of any such section shall thereupon cease to be a cemetery or part of a cemetery as the case may be.
+(4) Any land comprised in a cemetery which is held by a corporation or administered by a local authority under the terms of an instrument of trust, and which is not required for cemetery purposes, may, with the prior approval of the Minister, be disposed of, and the proceeds of such disposition shall be applied in accordance with the terms of the instrument or, if the terms of the instrument do not provide for the disposition of those proceeds, in such manner as the Minister shall direct. Any land which is disposed of pursuant to this subsection shall cease to be a cemetery or part of a cemetery, as the case may be.
+(5) Any land comprised in a cemetery which is held by a corporation, otherwise than subject to the provisions of any enactment (other than this Act or any former Cemeteries Act) or to any instrument of trust, and which is not required for cemetery purposes, may, with the prior approval of the Minister, be disposed of, and the proceeds of such disposition may be applied for the general purposes of the local authority. Any land which is disposed of pursuant to this subsection shall cease to be a cemetery or part of a cemetery, as the case may be.
+(6) Section 45 of the Public Works Act 1981 and section 12 of the Local Government Act 2002 must, in their application to land comprised in a cemetery, be read subject to the provisions of this section.
+(7) Nothing in this section shall prevent a local authority disposing of land comprised in a cemetery to another local authority if that land is to be held for cemetery purposes by the local authority acquiring it.
+
+## Part 3 — Trustees
+
+### 22 Application of this Part
+(1) This Part of this Act shall apply to cemeteries which immediately before the commencement of this Act were under the maintenance and care of trustees other than a local authority and to the trustees of any such cemetery.
+(2) Subject to the provisions of this Act, such trustees shall continue to be the trustees of the cemetery that was under their maintenance and care immediately before the commencement of this Act and all money, goods, chattels, and effects of or belonging to or connected with that cemetery shall continue to be vested in them.
+(3) If, owing to the death or resignation or absence or removal of one or more trustees of a cemetery which is on land to which the corporation of a local authority has title or which is on land administered by a local authority under the provisions of any Act, there is at any time no person holding the office of trustee in respect of that cemetery, this Part of this Act shall forthwith cease to apply to that cemetery.
+(4) This Part of this Act shall also cease to apply to a cemetery when a local authority is appointed to have the control and management of that cemetery pursuant to section 23 of this Act.
+
+### 23 Appointment and removal of trustees
+(1) Subject to the provisions of subsection (3) of section 22 of this Act, if any trustee dies or resigns or is absent from New Zealand for more than 6 consecutive months or is removed by the Governor-General his office shall become vacant and the Governor-General may appoint a new trustee in his place.
+(2) The Governor-General may at his discretion remove one or more of the trustees having the control and management of a cemetery.
+(3) If the trustees of a cemetery to which this Part of this Act applies at any time number less than 3 the Governor-General may, instead of appointing trustees under this section, with the consent of a local authority, appoint that local authority to have the control and management of the cemetery as from a date to be specified, which date may be before or after the date of the making of the appointment.
+(4) Notice of every appointment made or effected under this section shall be published in the Gazette.
+(5) If the boundaries of a cemetery which is under the control and management of trustees are extended by the setting apart, dedication, reservation, or acquisition for the purposes of a cemetery under the provisions of any other Act of land adjacent to the cemetery the trustees of the cemetery immediately before such extension shall be the trustees of the cemetery as so extended without any further appointment.
+
+### 24 Governor-General may delegate powers
+(1) The Governor-General may from time to time, by Order in Council, delegate to a local authority, in respect of any particular cemetery or cemeteries, all or any of the powers conferred on him by subsections (1) and (2) of section 23 of this Act, and may at any time revoke any such delegation.
+(2) Every appointment of trustees by a local authority pursuant to a delegation under subsection (1) of this section shall be publicly notified in the district wherein the cemetery is situated, and it shall not be necessary to notify any such appointment in the Gazette.
+(3) Every appointment or removal of trustees by a local authority pursuant to a delegation under subsection (1) of this section shall take effect as if such appointment or removal had been made or effected by the Governor-General.
+(4) Subsection (3) of section 22 of this Act shall apply in the case of a cemetery of which the trustees have been appointed by a local authority as it does in the case of a cemetery of which the trustees have been appointed by the Governor-General.
+(5) Any persons who, immediately before the commencement of this Act, had the control and management of a cemetery by virtue of the lawful delegation to them of the powers of a local authority in respect of that cemetery, shall be deemed for the purposes of this Act to be trustees of the cemetery appointed pursuant to the provisions of this section.
+
+### 25 Functions of trustees
+(1) Subject to the provisions of this Act, trustees shall have the control and management of any cemetery of which they are trustees.
+(2) Subject to the provisions of this Part of this Act, trustees shall have, in relation to any cemetery under their control and management, all the rights, powers, and duties, with the same restrictions and limitations, as are conferred or imposed on a local authority by this Act, except the rights, powers, and duties conferred or imposed by sections 4 and 20 of this Act, and the provisions of this Act shall, so far as they are applicable and with any necessary modifications, apply accordingly.
+(3) Trustees shall have the power to hold any land comprised in a cemetery and, subject to the provisions of this Act, shall continue to hold any such land which was held by them or their predecessors in office immediately before the commencement of this Act.
+(4) Notwithstanding anything to the contrary in any Act or rule of law, no person shall be incapable of being at the same time a trustee of a cemetery and in the employment of the trustees of that cemetery.
+(5) It shall be the duty of trustees to comply with and enforce any regulations or bylaws made under this Act affecting the cemetery under their control.
+
+### 26 Proceedings of trustees
+(1) All acts, matters, and things which the trustees are authorised or required to do by any of the provisions of this Act shall and may be done by any 3 of such trustees assembled at a meeting whereof due notice has been given or forwarded to all the trustees.
+(2) The majority in number present at any meeting of trustees shall decide and determine all questions, matters, and things discussed or considered at such meeting; and in case of equality of votes the Chairman shall have a second or casting vote.
+(3) Trustees may from time to time make bylaws for convening meetings, the appointment of their Chairman, and such other purposes as may be necessary for their guidance and management.
+
+### 27 Property to vest in trustees
+(1) The property in all money, goods, chattels, and effects of or belonging to or connected with or derived from a cemetery under the control and management of trustees shall vest in the trustees for the time being as joint tenants.
+(2) If a trustee dies or his office otherwise becomes vacant on any of the grounds specified in subsection (1) of section 23 of this Act the property referred to in subsection (1) of this section and any land held by the trustees shall, until a new trustee is appointed, vest in the continuing trustees alone as joint tenants.
+(3) When a new trustee is appointed or when a local authority is appointed to have the control and management of a cemetery pursuant to section 23 of this Act the property referred to in subsection (1) of this section and any land held by the trustee shall vest in the new trustee and the continuing trustees, if any, as joint tenants, or in the corporation for cemetery purposes, as the case may require.
+
+### 28 Finance
+(1) The funds of trustees shall consist of all money received by them under this Act or any enactment repealed by this Act or any regulations or bylaws made under this Act or any enactment so repealed in respect of any cemetery of which they are the trustees.
+(2) Subject to the provisions of this Act, trustees may expend out of their funds such money as they think fit on the management and improvement of the cemetery and for the several purposes and objects authorised by this Act, including the appointment of such officers and servants as they think necessary.
+(3) All money received by trustees shall, as soon as practicable after it has come into the hands of the Treasurer or other proper officer of the trustees, be paid into such bank within the meaning of the Trustee Act 1956 as the trustees from time to time determine to an account to be called The (Name of Cemetery) Trustees' Account, and no money shall be withdrawn from the bank except by authority of the trustees, and any cheque or other withdrawal notice shall be signed by at least 2 of the trustees.
+(4) Trustees may, unless the Minister otherwise directs, invest any of their funds not for the time being required to be expended in any manner in which trustees are for the time being authorised to invest trust funds.
+(5) Trustees may from time to time with the consent of the Minister apply any money received by them under this Act or any regulations or bylaws made under this Act in respect of a cemetery towards the management, administration, or improvement of any other cemetery.
+(6) When land comprised in a cemetery, which is under the control and management of trustees, is disposed of pursuant to subsections (4) or (5) of section 21 of this Act, or where any such cemetery has been closed under section 41 of this Act, the trustees shall apply the proceeds of such disposition or any money received by them in respect of such cemetery and unexpended at the time when the closing order takes effect, respectively, in accordance with such directions as may be given to them by the Minister in that behalf.
+
+### 29 Accounts and audit
+(1) Trustees shall keep full accounts of all money received and expended by them.
+(2) In the month of April in each year trustees shall prepare for audit a statement of accounts, showing full particulars of all money received and paid during the year ending on the 31st day of March then last past, together with a statement of assets and liabilities as at the close of that year.
+(3) Trustees are public entities as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is their auditor.
+
+### 30 Bylaws made by trustees
+(1) No bylaw made by trustees under this Act shall take effect until it has been approved by the Minister and his approval has been publicly notified.
+(2) Every bylaw made by trustees under this Act shall be publicly notified at least 7 days before it comes into operation but it shall not be necessary for trustees to comply with subsection (2) of section 17 of this Act.
+(3) Subsection (1) of section 17 of this Act shall have no application to bylaws made by trustees, but trustees shall send to the Minister a copy of every notice published under subsection (2) of this section.
+
+## Part 4 — Burial grounds
+
+### 31 Dedication of denominational burial grounds
+(1) If not less than 25 of the adult members of a religious denomination desire that any land, which is held in fee simple by any one or more of them or by a corporate body under the control of any one or more of them, should be set apart as a burial ground, to be used only for the burial of the members of that denomination, they may, with the prior written approval of the Minister, by public notice published at least once in the Gazette and at least once in each of 3 consecutive weeks in a newspaper circulating in the district in which the land is situated, declare the land to be dedicated and open as a denominational burial ground to be used as aforesaid, and thereafter, subject to subsection (3) of this section, the said land shall be used for such purpose only:
+  Provided that nothing in this subsection shall prevent the managers of any such burial ground from permitting the burial of any other person therein if they think fit.
+(2) The Minister may at his discretion approve or disapprove any proposal made to him under subsection (1) of this section having taken into consideration the position of the land, its suitability as a burial ground, its suitability for alternative uses, and such other matters as he deems material.
+(3) Subject to the provisions of Part 5 of this Act, a crematorium may be erected within the boundaries of a denominational burial ground for the cremation of human remains of such persons or classes of person as the managers of the burial ground think fit.
+(4) A copy of any notice under subsection (1) of this section may be forwarded to the District Land Registrar who shall thereupon, if he is satisfied that the provisions of that subsection have been complied with, without payment of any fee register it against the appropriate title, and such registration shall, subject to the provisions of this Act, have the effect of a perpetual caveat to restrain any dealing with the land manifestly inconsistent with such notice.
+(5) If any land which is the subject of a notice under subsection (1) of this section is only part of the land comprised in a certificate of title, such notice may, at the discretion of the District Land Registrar, be deemed to be a transfer of the land for the purposes of sections 92 to 94 and section 167 of the Land Transfer Act 1952.
+
+### 32 Managers of denominational burial grounds
+(1) Subject to the provisions of subsection (2) of this section, the person or persons who hold in fee simple the land comprising a denominational burial ground shall be the manager or managers of that burial ground:
+  Provided that such person or persons may appoint some other person or persons to be a manager or managers in addition to or in lieu of himself or themselves and may at any time revoke any such appointment.
+(2) At the request or with the consent of the person or persons who hold in fee simple the land comprising a denominational burial ground the Minister may appoint some other person or persons to be the manager or managers thereof in lieu of or in addition to such person or persons, and may, on the like request, at any time revoke any such appointment.
+(3) All persons appointed by the Governor-General to be managers before the commencement of this Act shall be deemed to have been lawfully appointed.
+
+### 33 Private burial grounds
+(1) Every body corporate consisting of the trustees of a private burial ground and existing at the commencement of this Act shall continue to exist as the same body corporate by the same name and with the same capacity as theretofore.
+(2) In the application of this Act to private burial grounds references to trustees shall, unless inconsistent with the context, be deemed to be references to bodies corporate referred to in subsection (1) of this section.
+
+### 34 Trustees of private burial grounds
+(1) The Minister may appoint as many trustees, being not less than 3 in number holding office at any one time, as he thinks fit, to have the care and maintenance of a private burial ground, and may at his discretion remove any trustee whether such trustee was appointed before or after the commencement of this Act.
+(2) If any trustee dies or resigns or is absent from New Zealand for more than 6 consecutive months or is removed by the Minister his office shall become vacant and the Minister may appoint a new trustee in his place.
+(3) Every appointment made or effected under this section shall be published in the Gazette.
+
+### 35 Trustees may hold endowments for maintenance of burial ground, etc
+(1) Trustees may, in addition to the private burial ground, hold any real or personal property that may be vested in them as an endowment for the purposes of the burial ground; and may sell, lease, or otherwise dispose of the same on such terms and conditions as they think fit.
+(2) The proceeds of the sale of any part of the endowment may be invested in the purchase of land for the purposes of the endowment or in any of the modes of investment authorised by the Trustee Act 1956.
+(3) All rents or other profits derived from the endowment shall be applied by the trustees for the maintenance, control, improvement, and upkeep of the private burial ground in such manner as the trustees in their discretion think fit.
+
+### 36 Application of Act to burial grounds
+(1) The provisions of this Act specified in Part 1 of Schedule 1 to this Act shall so far as they are applicable and with any necessary modifications apply to denominational burial grounds and managers.
+(2) The provisions of this Act specified in Part 2 of Schedule 1 to this Act shall so far as they are applicable and with any necessary modifications apply to private burial grounds and the trustees of such burial grounds.
+(3) It shall not be lawful to bury in a private burial ground any body other than the body of a person defined or belonging to a class defined in the notice which constituted such burial ground.
+
+## Part 5 — Cremation
+
+### 37 Regulations as to cremation
+(1) Without prejudice to the power to make regulations conferred by section 59 of this Act the Governor-General may from time to time, by Order in Council, make regulations controlling or restricting the establishment and closing of crematoria, prescribing the conditions subject to which and the manner in which cremations are to be carried out, and providing for all matters incidental thereto.
+(2) No person shall carry out or procure or take part in any cremation except in accordance with regulations made under this section.
+(3) The provisions of sections 38 to 40 of this Act shall be subject to any regulations made under this section.
+
+### 38 Erection of crematoria
+(1) A local authority may erect a crematorium either within or outside the boundaries of a cemetery and may make provision for cremation therein and elsewhere.
+(2) Where any person (whether a local authority or not) proposes to construct any crematorium, or to reconstruct or adapt any existing premises with the intention that they be used as a crematorium, that person shall, before the work is commenced, submit to the Minister, in a form approved by the Director-General, the plans (including a site plan) and specifications thereof, and its equipment, for the Minister's approval.
+
+### 39 Application of Act in respect of crematoria
+The provisions of this Act relating to the powers and duties of local authorities with respect to cemeteries shall so far as they are applicable and with any necessary modifications apply to crematoria under or proposed to be under the control and management of local authorities and any such crematorium situated within the boundaries of a cemetery which is under the control and management of the same local authority shall for the purposes of this Act be deemed to be part of that cemetery.
+
+### 40 Crematorium bylaws
+(1) In addition to the power to make bylaws conferred by section 16 of this Act, but subject to the provisions of subsection (2) of that section and of section 17 of this Act, every local authority may make bylaws, with respect to any crematorium under its control, for all or any of the following purposes:
+  (a) Maintaining, preserving, and embellishing the crematorium, and any building erected or used for the preservation of the ashes of the dead:
+  (b) Protecting the crematorium and any such building from destruction or damage:
+  (c) Regulating the manner and method in which cremations shall be carried out and the conduct of persons attending at such cremations or using or visiting the crematorium grounds:
+  (d) Controlling or restricting the times at which or between which cremations may be carried out:
+  (e) Regulating the extent to which the public may have access to the crematorium and to any garden and grounds belonging thereto:
+  (f) Fixing a scale of fees payable for cremation, and for the use of any building provided for the preservation of the ashes of the dead.
+(2) The powers conferred on a local authority by subsection (1) of this section may be exercised by any person or body of persons owning or exercising control over a crematorium with respect to that crematorium, subject to the same conditions and requirements as are imposed by section 30 of this Act on the trustees of a cemetery.
+
+## Part 6 — Closing of cemeteries and burial grounds
+
+### 41 Minister may close cemeteries and burial grounds
+(1) Where it appears to the Minister that burials in any cemetery or burial ground should be wholly discontinued, or should be discontinued subject to any exception or qualification, he may, by notice in the Gazette,—
+  (a) Direct that, after a time to be mentioned in such notice, not being less than 6 months from the date of the publication thereof, such cemetery or burial ground shall be closed and burials therein discontinued subject to such exceptions and qualifications as he may specify; and
+  (b) From time to time postpone the time mentioned in any closing order for the discontinuance of burials, or otherwise vary any such order either as to burials generally or as to any particular burial, whether the time appointed for the discontinuance of burials or other operation of such order has or has not arrived.
+(2) In any case where a crematorium is situated within the boundaries of the cemetery or burial ground the Minister may in the closing order closing that cemetery or burial ground or in any subsequent notice in the Gazette specify whether or not the crematorium is to be closed and may otherwise make such provision as he thinks fit for the future control, management, and use of the crematorium.
+(3) Notwithstanding the provisions of subsection (2) of this section, any crematorium situated within the boundaries of the burial ground known as the Purewa Cemetery shall not be closed by a notice published under this section.
+(4) Except as is provided in subsection (2) of section 42 of this Act or by the terms of the closing order it shall not be lawful to bury a body in a closed cemetery or in a closed burial ground.
+
+### 42 Saving of rights
+(1) Subject to any notice in the Gazette that may be published by the Minister under this Part of this Act, nothing in this Act relating to the closing of cemeteries or burial grounds shall be construed to divest, alter, or affect the right, title, or interest of any local authority, trustee, guardian, manager, or other person in or to any part of the closed cemetery or closed burial ground or in or to any vault, monument, church, chapel or any other place, matter, or thing therein, or such free right of ingress or egress as they respectively have in, from, and through the same, or to affect such right of control and management of the site of such burying places as they have, save as to future burials.
+(2) Notwithstanding the existence of a closing order, where any person has been buried in a cemetery, denominational burial ground, or private burial ground before any such order comes into effect, any survivor of such person, being within the degrees of relationship of husband, wife, civil union partner, de facto partner, parent, child, brother, or sister to the deceased, may be buried in the same plot of ground with the said deceased:
+  Provided that nothing contained in this subsection shall enable the burial in a denominational burial ground of the body of a person who was not at the time of his death a practising member of the denomination concerned or the burial in a private burial ground of a body the burial of which in such burial ground is prohibited by subsection (3) of section 36 of this Act.
+(3) Any person who has acquired a plot of ground wherein no burial has been made in any cemetery which is the subject of a closing order shall be entitled, at any time within 2 years after the date when the closing order came into effect, to select free of charge, in another cemetery under the control and management of the same local authority, subject to any bylaws relating thereto, a plot of ground for the burial of the dead equal in size to that of the use whereof he has been deprived by the order.
+
+### 43 Closed cemeteries
+(1) The Minister may by any closing order or by any subsequent notice in the Gazette vest the control and management of a closed cemetery in any individual, body corporate, or local authority, as from a date to be specified in that behalf in such order or subsequent notice, and the closed cemetery shall thenceforth be maintained in good condition by such individual, body corporate, or local authority and shall be open to the public subject to any regulations or bylaws which may be made under this Act.
+(2) A closed cemetery shall not be sold or leased or otherwise disposed of or diverted to any other purpose.
+(3) The Minister may by notice in the Gazette revoke such part of any closing order as purports to vest the control and management of a closed cemetery in any individual, body corporate, or local authority, or any subsequent notice published under subsection (1) of this section or this subsection and may by the same or a subsequent notice in the Gazette vest the said control and management in some other individual, body corporate, or local authority, in lieu of or in addition to the individual, body corporate, or local authority in whom the said control and management have theretofore been vested, and the same consequences shall flow from such vesting as are specified in subsection (1) of this section.
+(4) In this section the term control and management includes the power to make bylaws with respect to a closed cemetery conferred by section 16 of this Act, subject to section 17 of this Act where such control and management is vested in a local authority, and in any other case, subject to the application of the provisions of section 30 of this Act as if the individual or body corporate having such control and management were trustees of a cemetery.
+
+### 44 Closed burial grounds
+(1) The Minister may by any closing order or by any subsequent notice in the Gazette vest the control and management of a closed burial ground in any individual or body corporate as from a date to be specified in that behalf in such order or subsequent notice.
+(2) The Minister may by notice in the Gazette revoke such part of any closing order as purports to vest the control and management of a closed burial ground in any individual or body corporate, or any subsequent notice published under subsection (1) of this section or this subsection, and may by the same or a subsequent notice in the Gazette vest the said control and management in some other individual or body corporate, in lieu of or in addition to the individual or body corporate in whom the said control and management have theretofore been vested.
+(3) The Minister may, if he thinks fit, in any notice published under section 41 of this Act or this section provide for the future maintenance of a closed burial ground and all matters incidental thereto.
+(4) A closed burial ground shall not be sold or leased or otherwise disposed of or diverted to any other purpose:
+  Provided that the Minister may by the closing order or any subsequent notice in the Gazette exempt a closed burial ground or any part of a closed burial ground from the provisions of this subsection either absolutely or subject to such conditions as he may specify.
+(5) In this section the term control and management includes the power to make bylaws with respect to a closed burial ground conferred by sections 16 and 36 of this Act, subject to the application of the provisions of section 30 of this Act as if the individual or body corporate having such control and management were trustees of a cemetery.
+
+### 45 Clearance of closed cemeteries and closed burial grounds
+(1) The Minister may by any closing order or by any subsequent notice in the Gazette, on the application of the individual, body corporate, or local authority who has or will have the control and management of a closed cemetery or closed burial ground, direct that, notwithstanding anything in section 41 or section 42 of this Act, no further burials shall take place in the closed cemetery or closed burial ground, and may in like manner authorise such individual, body corporate, or local authority to remove all or any of the monuments and tablets erected therein.
+(2) Any individual, body corporate, or local authority which proposes to make an application for an order under subsection (1) of this section shall give public notice, in such form and in such manner as the Minister shall direct, of the proposed application. The application shall be made to the Minister and shall be accompanied by particulars of any objections to the application.
+(2A) Every individual, body corporate, or local authority which gives public notice under subsection (2) of this section shall send a copy of that notice to the New Zealand Historic Places Trust.
+(3) Upon the removal of any monuments and tablets pursuant to subsection (1) of this section, the individual, body corporate, or local authority having the control and management of the closed cemetery or closed burial ground shall—
+  (a) Dispose of the monuments and tablets or, if it sees fit, as far as practicable cause them to be re-erected or replaced in some part of the closed cemetery or closed burial ground set aside for the purpose:
+  (b) Cause to be compiled as complete a record as practicable of the names of all persons known to be buried in the closed cemetery or closed burial ground or in the part thereof from which any monuments or tablets are removed and the position therein of the graves of such persons:
+  (c) Cause all such records to be available for inspection at all reasonable times:
+  (d) Cause the closed cemetery or closed burial ground or the part thereof from which any monuments or tablets are removed to be cleared, levelled, sown in grass and planted with trees and shrubs:
+  (e) Cause to be erected in the closed cemetery or burial ground or in the part thereof from which any monuments or tablets are removed a memorial inscribed with the names of the persons known to be buried therein.
+
+### 45A Minister may reopen closed cemeteries and burial grounds
+(1) The Minister may, by notice in the Gazette, reopen a closed cemetery or burial ground if satisfied that—
+  (a) the cemetery or burial ground should be reopened; and
+  (b) the local authority has consulted the appropriate persons or organisations; and
+  (c) the reopening complies with the Resource Management Act 1991.
+(2) The reopening order must specify—
+  (a) the cemetery or burial ground to be reopened; and
+  (b) the date that the cemetery or burial ground may reopen, not being more than 6 months from the date of publication of the order; and
+  (c) any exceptions or qualifications that the Minister has imposed on the reopened cemetery or burial ground; and
+  (d) the individual, body corporate, or local authority who has or will have control and management of the reopened cemetery or burial ground.
+(3) The Minister may, by notice in the Gazette, revoke any notice authorising the removal of monuments and tablets issued under section 45 that applies to the cemetery or burial ground that the Minister reopens under subsection (1).
+
+### 45B Control and management of reopened cemeteries and burial grounds
+The Minister may, by any reopening order or by any later notice in the Gazette,—
+  (a) vest the control and management of a reopened cemetery in any individual, body corporate, or local authority from the date specified in such order or later notice:
+  (b) vest the control and management of a reopened burial ground in any individual or body corporate from the date specified in such order or later notice.
+
+### 45C Vesting of title in reopened cemeteries and burial grounds
+(1) A notice in the Gazette vesting in any individual, body corporate, or local authority the control or management of a reopened cemetery has the effect of vesting the land comprising the reopened cemetery in that individual, body corporate, or local authority unless the notice provides otherwise.
+(2) A notice in the Gazette vesting in any individual or body corporate the control or management of a reopened burial ground has the effect of vesting the land comprising the reopened burial ground in that individual or body corporate unless the notice provides otherwise.
+(3) On the production of a copy of a vesting notice, the District Land Registrar must register the notice under the Land Transfer Act 1952 and, if the case so requires, must issue a certificate of title under that Act in the name of the individual, body corporate, or local authority for the land so vested.
+
+### 45D Crematoria situated within reopened cemeteries or burial grounds
+(1) In any case where a closed crematorium is situated within the boundaries of a cemetery or burial ground that is to be reopened, the Minister, if satisfied that the appropriate consent has been obtained under the Resource Management Act 1991, may specify, in the reopening order or in any later notice in the Gazette, whether or not the closed crematorium is to be reopened.
+(2) The Minister may make such other provision as the Minister thinks fit for the future control, management, and use of the reopened crematorium.
+
+## Part 7 — General provisions
+
+### 46 Unlawful burials
+(1) Subject to the provisions of sections 47 and 48 of this Act and of section 85(1)(g) of the Civil Defence Emergency Management Act 2002, it shall not be lawful to bury any body in any land not being a cemetery or a denominational burial ground or a private burial ground or a Maori burial ground if there is a cemetery or any such burial ground within 32 kilometres of the place where the death has occurred, or of the place whence the body is taken for the purpose of burial:
+  Provided that nothing in this subsection shall compel the burial in a denominational burial ground of the body of a person who was not at the time of his death a practising member of the denomination concerned or the burial in a Maori burial ground of any body which would not otherwise be permitted to be buried therein or permit the burial in a private burial ground of a body the burial of which in such burial ground is prohibited by subsection (3) of section 36 of this Act.
+(2) If there is not a cemetery, or any such burial ground in which the body may properly be buried, within the distance mentioned in subsection (1) of this section, the body may be buried in other land but notice of every such burial specifying the name of the person buried, if known, the supposed cause of death, and the place of burial, shall, within 3 days after the burial, be given by the person burying the body to the nearest District Court Judge.
+
+### 46A Still-born children
+No person shall bury, cremate, or otherwise dispose of any still-born child unless there has been delivered to the person—
+  (a) a written certificate that the child was born dead, signed—
+    (i) by a doctor who was present at the birth or examined the child after birth; or
+    (ii) if no doctor was present at the birth or examined the child after birth, by a midwife; or
+  (b) A statutory declaration, made by the person required by the Births, Deaths, and Marriages Registration Act 1995 to notify the birth, to the effect that the child was born dead, and that—
+    (i) No doctor or midwife was present at the birth; or
+    (ii) It is impossible to obtain a certificate under paragraph (a) of this section from any doctor or midwife present at the birth; or
+  (c) a coroner's authorisation for the release of the child.
+
+### 47 Burial in private burial place
+(1) Notwithstanding anything in this Act, any body may be buried in any private burial place (not being a private burial ground) used for burials before the date of the commencement of this Act; but no such burial shall be made without the previous sanction of a District Court Judge, or, if within a city or part of the district of a territorial authority which was formerly a city or borough or part of a city or borough, without the additional sanction of the mayor or 2 members of the governing body of the territorial authority.
+(2) Every sanction so given shall be in writing, and shall disclose the name of the person to be buried, the supposed cause of death, and the place of proposed burial.
+(3) Such sanction shall not be refused in any case provided for by this section unless the District Court Judge, or the mayor or members of the governing body, as the case may be, are of opinion that such burial would be prejudicial to public health or decency.
+
+### 48 Burial in special place
+Notwithstanding anything in this Act, a body may be buried in any place, even though that place was not used for burials before the date of the commencement of this Act, if the Minister first certifies in writing that he is satisfied that there are exceptional circumstances which make the burial of that body in that place particularly appropriate and if, where the proposed place of burial is within a city or part of the district of a territorial authority which was formerly a city or borough or part of a city or borough, the sanction of the mayor, or 2 members of the governing body of the territorial authority is obtained.
+
+### 49 Burial and cremation of poor persons
+(1) A local authority having the control and management of a cemetery and any person or body of persons (including a local authority) having the control and management of a crematorium may, and upon an order signed by a Justice shall, permit the body of any poor person, and of any person from any hospital, prison, or other public institution, on the request of the person in charge of such institution, to be buried in the cemetery or cremated in the crematorium free of charge:
+  Provided that every Justice, before signing any such order, shall satisfy himself that the deceased person has not left sufficient means to pay the charge, and that his relatives and friends are unable to pay the same.
+(2) If any person is known or believed to have belonged to any particular religious denomination, he shall be buried in the portion of the cemetery (if any) set apart for that denomination.
+
+### 50 Burials to be registered
+(1) All burials within any cemetery shall be registered in a register to be provided and kept for that purpose by the local authority and in such register shall be distinguished in what parts of the cemetery the several bodies are buried, and a proper description of every grave shall be given, so that the situation thereof can be ascertained, and such register shall be indexed, so as to facilitate searches for entries therein.
+(2) Every register shall be open for inspection at all reasonable times, at some convenient place, upon payment of a fee of 50 cents for every such inspection.
+
+### 51 Removal of body
+(1) It shall not be lawful to remove from its burial place any body, or the remains of any body, buried in any cemetery, Maori burial ground, or other burial ground or place of burial, without licence under the hand of the Minister, and except in accordance with such conditions as he may prescribe.
+(2) There shall be payable in respect of every licence issued under subsection (1) of this section, such fee as may be prescribed in that behalf by the Governor-General by Order in Council:
+  Provided that the Minister may, if he thinks fit, in any case waive payment of the whole or part of the fee.
+(3) If any person applying for a licence under this section appears to the Minister to be a relative or friend of the deceased person, who desires to remove the body of such person from a closed cemetery for the purpose of burying it in a cemetery which is not closed, the Minister shall grant a licence in respect of such removal and shall remit or waive payment of the whole of the fee unless he is satisfied that for special reasons the said licence should be refused or the fee paid in whole or in part, as the case may be.
+(4) A licence granted under this section shall not operate to authorise the removal of a body contrary to any regulations or bylaws made under this Act.
+
+### 52 Inspection of cemeteries
+(1) An employee of the Public Service appointed by the Minister for the purpose, or any person designated as a Health Protection Officer under the Health Act 1956, may inspect any cemetery or any portion of a cemetery exclusively set apart for any denomination in order to—
+  (a) ascertain the state and condition of it; and
+  (b) examine the accounts of receipts and expenditure in relation to it; and
+  (c) if regulations or bylaws in relation to it have been made under this Act, ascertain whether the regulations or bylaws are being observed and complied with.
+(2) If any person authorised to inspect a cemetery under subsection (1) of this section finds such cemetery or any part thereof or the fences thereof in a condition of neglect or want of repair, he shall serve a notice in writing on the local authority specifying the particulars of such condition and requiring the same to be remedied, and, if the local authority fails, for the period of one month from the receipt of such notice, to comply with any such requirements, he may cause all necessary repairs to be done forthwith and may recover the costs and expenses thereof from the local authority.
+(3) Without prejudice to the powers conferred by subsection (2) of this section the person so authorised shall report any such case of neglect or want of repair to the Minister who shall thereupon consider whether such cemetery ought to be closed under section 41 of this Act and take such other lawful steps as he thinks necessary to prevent desecration.
+
+### 53 Vesting of title in certain cases
+(1) A notice in the Gazette of the appointment of a local authority to have the control and management of a cemetery, pursuant to subsection (3) of section 23 of this Act, shall have the effect of vesting the land comprising the cemetery in the corporation of that local authority for cemetery purposes, and on the production of a copy of such notice the District Land Registrar shall register the same under the Land Transfer Act 1952 and, if the case so requires, shall issue a certificate of title under that Act in the name of the corporation for the land so vested.
+(2) A notice in the Gazette vesting in any individual, body corporate, or local authority the control and management of a closed cemetery or closed burial ground, pursuant to section 43 or section 44 of this Act, shall, unless it is otherwise provided therein, have the effect of vesting the land comprising the closed cemetery or closed burial ground in that individual or body corporate, or, in the case of a local authority, in the corporation of that local authority, as a closed cemetery or closed burial ground subject to the provisions of this Act, and on the production of a copy of such notice the District Land Registrar shall register the same under the Land Transfer Act 1952 and, if the case so requires, shall issue a certificate of title under that Act in the name of the individual, body corporate, or corporation for the land so vested.
+(3) In this section the word land has the same meaning as in section 2 of the Land Transfer Act 1952.
+(4) For the purposes of giving effect to the provisions of this section the District Land Registrar may require the deposit of such plans as may be necessary.
+
+## Part 8 — Offences and penalties
+
+### 54 Offences concerning burials
+Any person who, contrary to any of the provisions of sections 36, 41, 46, 47, and 48 of this Act:commits an offence and shall be liable to a fine not exceeding $400.
+  (a) Buries a body in any place in which the burial of that body is not permitted; or
+  (b) Fails to give notice of the burial of a body to the nearest District Court Judge or Justice; or
+  (c) Buries a body without obtaining the necessary sanction—
+
+### 55 Unlawful exhumation
+Any person who disinters or removes a body or the remains of a body from a place where it is buried without a licence under section 51 of this Act or in breach of the conditions of any such licence commits an offence and shall be liable to a fine not exceeding $400 or to imprisonment for a term not exceeding 3 months:
+  Provided that no person shall be prosecuted for an offence against this section except upon an information laid by a member of the Police, an officer of the Ministry of Health, an officer of the Ministry of Maori Development, a member or officer of a local authority, or a trustee, manager, or other person having control of the place where the body was buried before its disinterment or removal.
+
+### 56 Offences concerning cremation
+(1) Any person who commits a breach of any regulation made pursuant to section 37 of this Act, or who knowingly carries out or procures or takes part in the burning of any body except in accordance with such regulations, commits an offence and shall be liable to a fine not exceeding $1,000, or to imprisonment for a term not exceeding 12 months.
+(2) Any person who wilfully signs or utters any false certificate with a view to procuring the cremation of any body commits an offence and shall be liable to imprisonment for a term not exceeding 2 years.
+(3) Any person who with intent to conceal the commission of an offence, or to impede the prosecution of any person for an offence, procures or attempts to procure the cremation of any body, or with such intent makes any declaration or gives any certificate prescribed by regulations under section 37 of this Act commits an offence and shall be liable on conviction on indictment to imprisonment for a term not exceeding 5 years.
+(4) Schedule 1 to the Summary Proceedings Act 1957 is hereby amended by inserting in Part 2 in the appropriate columns and in the appropriate alphabetical order the following words:The Burial and Cremation Act 1964s 56(3)Offences as to unlawful cremation.
+
+### 57 Trespass by animals
+(1) Any person who permits any animal to enter any cemetery or burial ground or Maori burial ground contrary to any regulations or bylaws which may be made under this Act or otherwise than in accordance with any such regulations or bylaws, or, if there are no such regulations or bylaws applicable thereto, except with the permission of the local authority or trustees or managers or person or persons having the control and management of the Maori burial ground, as the case may be, commits an offence and shall be liable to a fine not exceeding $40 and to a further fine not exceeding $10 in respect of every animal so entering.
+(2) The owner of any animal, and the person for the time being in charge of any animal, who fails to take reasonable precautions to prevent such animal from entering a cemetery, burial ground, or Maori burial ground contrary to subsection (1) of this section, shall be deemed to have permitted such entry.
+
+### 58 Offences punishable on summary conviction
+Except where this Act otherwise provides, every offence against this Act or against any regulations or bylaws made under this Act shall be punishable on summary conviction.
+
+## Part 9 — Regulations, savings, and repeals
+
+### 59 Regulations
+The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+  (a) Protecting public health and maintaining public decency in relation to cemeteries and burial grounds:
+  (b) Regulating the conduct of persons using or frequenting any cemetery or burial ground:
+  (c) Prohibiting or regulating the admission of animals to any cemetery or burial ground or Maori burial ground:
+  (d) Providing for the removal, after due notice to any known persons entitled to maintain them, of dilapidated or neglected monuments and tablets from cemeteries and burial grounds and from any closed cemetery or closed burial ground in respect of which a notice is not in force under section 45 of this Act:
+  (e) Regulating the management of any closed cemetery or closed burial ground and any of the matters specified in paragraphs (a) to (c) of this section in relation to any closed cemetery or closed burial ground:
+  (f) Prescribing the conditions subject to which and the manner in which the sanction of the Minister may be obtained for the dedication of a denominational burial ground under section 31 of this Act:
+  (g) Prescribing forms for the purposes of this Act:
+  (h) Prescribing the fees to be paid in respect of any rights or privileges conferred by this Act or by any regulations made under this Act, or in respect of any certificates, documents, consents, approvals, or sanctions required thereunder and the person or authorities entitled to claim and receive such fees:
+  (i) Prescribing fines for the breach of any such regulation not exceeding $100 in any case, and, where the breach is a continuing one, not exceeding $10 for every day or part of a day during which the breach has continued:
+  (j) Providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration thereof.
+
+### 60 Savings
+Except so far as may be expressly provided in this Act, nothing in this Act shall be so construed as to limit or affect in any way—
+  (a) The provisions of any other Act; or
+  (b) The powers conferred on a local authority by any other Act.
+
+### 61 Repeals and savings
+(1) The enactments specified in Schedule 2 to this Act are hereby repealed.
+(2) All regulations which originated under section 22 of the Cemeteries Act 1908 or section 4 of the Cemeteries Amendment Act 1922 or under any corresponding provisions of any former enactment and are subsisting or in force on the commencement of this Act shall enure for the purposes of this Act as fully and effectually as if they had originated as bylaws under the corresponding provisions of this Act, and accordingly shall, where necessary, be deemed to be bylaws and to have so originated; and every reference to any such regulation in any Act, regulation, order, or other enactment, or in any instrument or document whatsoever shall, after the commencement of this Act, unless inconsistent with the context, be read as a reference to a bylaw made under the corresponding provisions of this Act.
+(3) Notwithstanding the repeal of any enactment by this section, all money and investments held pursuant to section 30A of the Cemeteries Act 1908 at the date of the commencement of this Act and all money received after the said date pursuant to agreements entered into under the said section 30A before that date and the income derived from any such money or investments shall be held, invested, and applied as if the said section 30A were still in force:
+  Provided that any money held pursuant to this subsection and any money obtained from the realisation of any investments so held and any money derived from any money or investments so held may be expended and applied, if the Minister approves, on the maintenance, improvement, or development of the cemetery or the lawn portion thereof, as the case may be.
+(4) The repeal of any enactment by this Act shall not affect the setting apart of any cemetery as a lawn cemetery before the passing of this Act or the validity of any regulations or bylaws made in respect of any such cemetery whether before or after the passing of this Act.
+
+## Schedule 1
+
+| Number of Section | Subject-matter |
+| --- | --- |
+| 8 | Management. |
+| 9 | Powers as to vaults, monuments, etc. |
+| 10 | Exclusive right of burial. |
+| 16(1) | Bylaws. |
+| 21(2)-(6) | Alienation of land. |
+| 25(3), (4) | Powers and functions. |
+| 26(3) | Internal management. |
+| 30 | Bylaws. |
+| 50 | Burials to be registered. |
+| 52 | Inspection. |
+
+| Number of Section | Subject-matter |
+| --- | --- |
+| 8 | Management. |
+| 9 | Powers as to vaults, monuments, etc. |
+| 10 | Exclusive right of burial. |
+| 16(1) | Bylaws. |
+| 21(1) | Restrictions on alienation. |
+| 25(3), (4) | Powers and functions. |
+| 26 | Proceedings of trustees. |
+| 28(1), (2) | Finance. |
+| 50 | Burials to be registered. |
+| 52 | Inspection. |
+
+## Schedule 2 — Enactments repealed
