@@ -97,7 +97,9 @@ Any provision that is made for the fencing of swimming pools that is in accordan
   (b) building and premises not subject to the Building Act 2004, be treated as a reasonable and adequate provision for the purposes of this Act.
 
 ### 13C Amendment and replacement of Schedule
-The Governor-General may from time to time, by Order in Council made on the advice of the Minister of Internal Affairs, amend the Schedule to this Act or repeal that Schedule and substitute a new Schedule.
+The Governor-General may, by Order in Council,—
+  (a) amend the Schedule; or
+  (b) repeal the Schedule and substitute a new schedule.
 
 ### 14 Amendment to Fencing Act 1978
 The Fencing Act 1978 is hereby amended by inserting, after section 9, the following section:Contributions where fence required by Fencing of Swimming Pools Act 1987
