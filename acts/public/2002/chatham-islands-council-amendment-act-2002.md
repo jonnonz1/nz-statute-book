@@ -3,7 +3,7 @@ _Consolidation as at 2007-09-03_
 
 ### 1 Title
 (1) This Act is the Chatham Islands Council Amendment Act 2002.
-(2) In this Act, the Chatham Islands Council Act 1975 is called the principal Act.
+(2) In this Act, the Chatham Islands Council Act 1995 is called the principal Act.
 
 ### 2 Commencement
 This Act comes into force on the day after the date on which it receives the Royal assent.
