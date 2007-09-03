@@ -1,0 +1,3036 @@
+# Summary Proceedings Act 1957
+_Consolidation as at 2007-09-03_
+
+> An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Summary Proceedings Act 1957.
+(2) This Act shall come into force on the 1st day of April 1958.
+
+### 2 Interpretation
+(1) In this Act, unless the context otherwise requires,—
+  - **Adjudged** includes ordered
+  - **Bank** —
+    (a) Means—
+      (i) A person carrying on in New Zealand the business of banking; and
+      (ii) A credit union within the meaning of the Friendly Societies and Credit Unions Act 1982; and
+      (iii) A building society within the meaning of the Building Societies Act 1965; but
+    (b) Does not include the Reserve Bank of New Zealand established under the Reserve Bank of New Zealand Act 1989 (except in relation to an account maintained by that bank for an employee of the bank):
+  - **Benefit** —
+    (a) Means a benefit within the meaning of Part 1 of the Social Security Act 1964; but
+    (b) Does not include—
+      (i) An orphan's benefit payable under section 28 of the Social Security Act 1964; or
+      (ii) An unsupported child's benefit payable under section 29 of that Act; or
+      (iii) A child disability allowance payable under section 39A of that Act; or
+      (iv) temporary additional support under section 61G of that Act or a special benefit continued under section 23 of the Social Security (Working for Families) Amendment Act 2004; or
+      (v) A disability allowance payable under section 69C of that Act:
+  - **Committal for trial** means committal to the High Court or a District Court under section 168A of this Act
+  - **Constable** includes any member of the Police
+  - **Conviction** includes an order; and has a corresponding meaning
+  - **Court** means a District Court constituted under the District Courts Act 1947
+  - **Court nearest to the committing Court** or any similar expression, includes, in relation to a District Court, any such Court presided over by a trial Judge sitting at the same place as the committing Court
+  - **Crown organisation** has the same meaning as in section 4 of the Crown Organisations (Criminal Liability) Act 2002.
+  - **Defendant** means any person charged with an offence; and includes—
+    (a) Any person against whom an order is sought in proceedings commenced by way of complaint; and
+    (b) Any person on whom a notice of prosecution has been served pursuant to section 20A of this Act; and
+    (c) In relation to an infringement offence for which an infringement notice has been issued, any person served with a reminder notice in respect of the offence, or any person who gives notice requesting a hearing in respect of the offence, pursuant to section 21 of this Act; and
+    (d) a Crown organisation, if proceedings are brought against that organisation for an offence referred to in section 6 of the Crown Organisations (Criminal Liability) Act 2002.
+  - **Indictable offence** means any offence for which the defendant may be proceeded against by indictment
+    Provided that an offence shall not be deemed to be an indictable offence solely because under section 66 of this Act the defendant could elect to be tried by a jury:
+  - **Informant** means the person by whom an information is laid; and includes—
+    (a) In respect of any charge where an information has not been laid, the person responsible for bringing the charge; and
+    (b) A person who files a notice of prosecution pursuant to section 20A(2) of this Act; and
+    (c) In relation to an infringement offence for which an infringement notice has been issued, the Department, local body, or other authority in or by which the officer or employee who issued the notice was employed:
+  - **Infringement fee** , in relation to an infringement offence, means the amount fixed as the infringement fee for the offence by or under the Act under which the offence is created
+  - **Infringement notice** means a notice issued under—
+    (a) Section 42A of the Transport Act 1962; or
+    (b) Section 14 of the Litter Act 1979; or
+    (ba) section 41B of the Financial Reporting Act 1993; or
+    (c) Section 32A of the Weights and Measures Act 1987; or
+    (ca)
+    (d) Section 58 of the Civil Aviation Act 1990; or
+    (da)
+    (e) Section 159 or section 159A of the Biosecurity Act 1993; or
+    (f) section 66 of the Dog Control Act 1996; or
+    (fa)
+    (g) section 139 of the Land Transport Act 1998; or
+    (h) section 260A of the Fisheries Act 1996; or
+    (i) section 162 of the Animal Welfare Act 1999; or
+    (j) section 357 of the Gambling Act 2003; or
+    (k) any provision of any other Act providing for the use of the infringement notice procedure under section 21
+  - **Infringement offence** means any offence under any Act in respect of which a person may be issued with an infringement notice
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
+  - **Minor traffic offence**
+  - **Registrar** means the Registrar of a Court; and includes any Deputy Registrar
+  - **Representative** , in relation to a corporation, means a person duly appointed by the corporation to represent it for the purpose of doing any act or thing which the representative of a corporation is by this Act authorised to do, but a person so appointed shall not, by virtue only of being so appointed, be qualified to act on behalf of the corporation before the Court for any other purpose
+  - **Sentenced to detention** includes sentenced to imprisonment or borstal training or detention in a detention centre; and has a corresponding meaning
+  - **Summary offence** means any offence for which the defendant may not, except pursuant to an election made under section 66 of this Act, be proceeded against by indictment; and, where the enactment creating an offence expressly provides that it may be dealt with either summarily or on indictment, includes such an offence that is dealt with summarily
+  - **Trial Judge** , in relation to a District Court, means a Judge who holds a warrant under section 28B of the District Courts Act 1947 to conduct trials on indictment.
+(2) A representative of a corporation need not be appointed under the seal of the corporation, and a statement in writing purporting to be signed by a managing director of the corporation, or by any person (by whatever name called) having, or being one of the persons having, the management of the affairs of the corporation to the effect that the person named in the statement has been appointed as the representative of the corporation for the purposes of this Act shall be admissible without further proof as prima facie evidence that that person has been so appointed.
+
+### 3 Application of certain provisions of Crimes Act 1961
+(1) The following provisions of the Crimes Act 1961, as far as they are applicable and with the necessary modifications, shall apply to summary proceedings under this Act (whether in respect of summary offences or in respect of indictable offences dealt with summarily), namely:
+  (a) Part 1 (which relates to jurisdiction), except section 8:
+  (b) Section 13 (which preserves the powers of Courts under other Acts):
+  (c) Section 17 (which prohibits a sentence of solitary confinement):
+  (d) Part 3 (which relates to matters of justification or excuse):
+  (e) Part 4 (which relates to parties to the commission of offences), except sections 68 and 69:
+  (f) Section 314 (which prescribes the procedure where prior consent to a prosecution is required):
+  (g) Sections 315 and 316 (which relate to arrests):
+  (h) Section 317 (which relates to entry on premises):
+  (i)
+  (j) Sections 357 to 360 (which relate to the special pleas of previous acquittal, previous conviction, and pardon):
+  (jj) Section 366A (which contains a prohibition on the making of unsworn statements of fact by accused persons):
+  (k)
+  (l) Section 376 (which relates to the presence of an accused person):
+  (m) Section 400 (which relates to the consent of the Attorney-General in certain proceedings):
+  (n) Section 403 (which relates to the power of the Court to order payment of compensation):
+  (o) Section 404 (which relates to restitution of property):
+  (p) Section 405 (which relates to the preservation of civil remedies):
+  (q) Section 406 (which relates to the prerogative of mercy):
+  (r) Section 407 (which defines the effect of a free pardon).
+(2) In addition to the provisions specified in subsection (1) of this section, the following provisions of the Crimes Act 1961, as far as they are applicable and with the necessary modifications, shall apply to the summary trial of indictable offences under this Act, namely:
+  (a) Sections 2 and 4 (interpretation):
+  (b) Section 8 (which relates to jurisdiction in respect of crimes on ships and aircraft beyond New Zealand):
+  (c) Section 69 (which relates to parties to certain crimes outside New Zealand):
+  (d) Such of the provisions of Parts 5 to 8 and Parts 10 and 11 as relate to any of the indictable offences in respect of which a District Court Judge has jurisdiction under section 6 of this Act:
+  (e) Sections 337 and 338 (which relate to the proof of an attempt when a crime is charged and the proof of a crime when an attempt is charged):
+  (f) Section 344 (which relates to accessories after the fact and receivers).
+
+## Part 1 — Criminal jurisdiction of District Court
+
+### 4 Summary criminal jurisdiction of Court
+The summary criminal jurisdiction of a District Court must be exercised in accordance with this Act—
+  (a) By a District Court Judge; or
+  (b) By one or more Justices; or
+  (c) By one or more Community Magistrates.
+
+### 5 Jurisdiction to conduct preliminary hearing of indictable offences
+(1) A Court presided over by a District Court Judge or by 2 or more Justices or by one or more Community Magistrates has jurisdiction to conduct—
+  (a) The preliminary hearing of an indictable offence; and
+  (b) Any proceedings under section 153A.
+(2) Subsection (1) is subject to section 185B.
+
+### 6 Summary jurisdiction in respect of indictable offences
+(1) A Court presided over by a District Court Judge shall have summary jurisdiction in respect of the indictable offences described in the enactments specified in Schedule 1 to this Act, and proceedings in respect of any such offence may accordingly be taken in a summary way in accordance with this Act.
+(2) A Court presided over by a District Court Judge shall have summary jurisdiction in respect of the following indictable offences, and proceedings in respect of any such offence may accordingly be taken in a summary way in accordance with this Act, namely—
+  (a) Conspiring to commit any indictable offence to which subsection (1) of this section applies (being a conspiracy to which section 310 of the Crimes Act 1961 applies):
+  (aa) Conspiring to commit any summary offence (being a conspiracy to which section 310 of the Crimes Act 1961 applies):
+  (b) Attempting to commit any indictable offence to which subsection (1) of this section applies, or inciting, counselling, or attempting to procure any person to commit any such offence which is not committed (being any case to which section 311 of the Crimes Act 1961 applies):
+  (bb) Attempting to commit any summary offence, or inciting, counselling, or attempting to procure the commission of a summary offence which is not committed (being any case to which section 311 of the Crimes Act 1961 applies):
+  (c) Being accessory after the fact to any indictable offence to which subsection (1) of this section applies (being any case to which section 312 of the Crimes Act 1961 applies).
+
+### 7 Maximum penalty on summary conviction for indictable offence
+(1) Subject to subsection (2) of this section, where any person is summarily convicted of an offence mentioned in section 6 of this Act, the Court may sentence that person—
+  (a) To imprisonment for a term not exceeding 5 years; or
+  (b) To a fine not exceeding,—or to both.
+    (i) The maximum amount prescribed by law; or
+    (ii) If no maximum amount is so prescribed, $10,000,—
+(2) No person shall be sentenced pursuant to subsection (1) of this section in respect of an indictable offence—
+  (a) To a term of imprisonment exceeding the maximum term of imprisonment that could have been imposed if the person had been convicted of the same offence on indictment; or
+  (b) To pay a fine exceeding in amount the maximum fine that could have been imposed if the person had been convicted of the same offence on indictment; or
+  (c) To a term of imprisonment if on conviction of the same offence on indictment the person could not have been sentenced to imprisonment.
+
+### 8 Other jurisdictions and powers not affected
+(1) Nothing in this Part of this Act shall limit in any way—
+  (a) The right to proceed against any person under Part 5 of this Act or under subsection (3) of section 345 of the Crimes Act 1961:
+  (b) The jurisdiction and powers of any District Court under Part 5 of the Act where any charge is made against any person under that Part:
+  (c) The jurisdiction and powers of the High Court or a District Court in relation to any indictable offence or in relation to any offence in respect of which the accused elects to be tried by a jury or in relation to an offence that a District Court declines to deal with summarily under Part 2 of this Act:
+  (d) The jurisdiction and powers of any District Court in respect of any indictable offence for which the offender may be tried in a summary way independently of this Part of this Act:
+  (e) The jurisdiction and powers of any Youth Court established under section 433 of the Children, Young Persons, and Their Families Act 1989:
+  Provided that no person shall be liable to be punished twice for the same offence.
+(2) Where any person—the plea of previous acquittal or, as the case may be, previous conviction, shall be available to that person to the same extent and in the same manner as if both prosecutions were under the Crimes Act 1961, and the provisions of sections 357 to 359 of that Act shall, with the necessary modifications, apply accordingly.
+  (a) Is acquitted or convicted on a prosecution under section 6 of this Act, and is subsequently prosecuted under any other enactment in respect of the same matter; or
+  (b) Is acquitted or convicted on a prosecution under any other enactment and is subsequently prosecuted under section 6 of this Act in respect of the same matter,—
+
+### 9 Jurisdiction of District Court Judges in respect of summary offences
+(1) A Court presided over by a District Court Judge has jurisdiction in respect of every summary offence.
+(2) A Court presided over by a District Court Judge has summary jurisdiction in respect of every offence that by any Act is punishable by a fine, penalty, or forfeiture if no other form of procedure is prescribed by that Act for the recovery of the same.
+
+### 9A Jurisdiction of Justices in respect of summary offences
+(1) A Court presided over by 2 or more Justices has jurisdiction in respect of a summary offence in the following cases, and in no other case, namely:
+  (a) In any case where the enactment creating the offence expressly provides that jurisdiction may be exercised by a Court presided over by a Justice or Justices:
+  (b) In any case where by any enactment jurisdiction is expressly given to a Justice or Justices:
+  (c) In any case where the offence is an infringement offence.
+(2) A Court presided over by one Justice has jurisdiction in respect of a summary offence in the following cases, and in no other case, namely:
+  (a) In any case where the enactment creating the offence expressly provides that jurisdiction may be exercised by a Court presided over by one Justice; or
+  (b) In any case where by any enactment jurisdiction is expressly given to one Justice.
+
+### 9B Jurisdiction of Community Magistrates in respect of summary offences
+(1) A Court presided over by one Community Magistrate has jurisdiction in respect of a summary offence in the following cases, and (except as provided in section 9C) in no other case, namely:
+  (a) In any case where, under section 9A(1), a Court presided over by 2 or more Justices has jurisdiction in respect of the summary offence:
+  (b) In any case where, under section 9A(2), a Court presided over by any one Justice has jurisdiction in respect of the summary offence:
+  (c) In any case where the enactment creating the offence expressly provides that jurisdiction may be exercised by a Court presided over by one Community Magistrate or by one or more Community Magistrates:
+  (d) In any case where by any enactment jurisdiction is expressly given to one Community Magistrate or one or more Community Magistrates.
+(2) A Court presided over by 2 or more Community Magistrates has the same jurisdiction in respect of a summary offence as a Court presided over by one Community Magistrate.
+(3) Nothing in subsection (1) or subsection (2) confers on a Court presided over by one Community Magistrate or by 2 or more Community Magistrates jurisdiction in respect of any summary offence that is a continuing offence.
+
+### 9C Jurisdiction of Community Magistrates to impose sentences in respect of certain summary offences
+(1) This section applies to any summary offence (not being a continuing offence) in respect of which—
+  (a) The maximum term of imprisonment (if any) that can be imposed does not exceed 3 months; and
+  (b) The maximum fine that can be imposed does not exceed $7,500.
+(2) If a person who is charged with an offence to which this section applies is found guilty of that offence by a court presided over by a District Court Judge or pleads guilty to that offence, a court presided over by 1 or more Community Magistrates may, in accordance with the Sentencing Act 2002, do 1 or more of the following acts:
+  (a) discharge the offender without conviction under section 106 of that Act and, if the court thinks fit, make an order under subsection (3) of that section:
+  (b) discharge the offender under section 108 of that Act and, if the court thinks fit, make an order under subsection (2) of that section:
+  (c) make, under section 110 of that Act, an order requiring the offender to appear for sentence if called upon to do so within a period, not exceeding 1 year commencing with the date of conviction, that the court may specify in the order:
+  (d) on making an order under section 110(1) of that Act, also make an order under section 110(3) of that Act:
+  (e) impose, under section 32 of that Act, a sentence of reparation on the offender:
+  (f) subject to sections 39(4) and 40(3) of that Act, sentence the offender to pay a fine:
+  (g) make, under section 112 of that Act, a non-association order in respect of the offender:
+  (h) impose, under section 55 of that Act, a sentence of community work on the offender:
+  (i) impose, under section 45 of that Act, a sentence of supervision on the offender:
+  (ia)
+  (ib)
+  (j) make, under section 124 of that Act, an order that disqualifies the offender from holding or obtaining a driver licence:
+  (k) make, under section 128 or section 129 of that Act, a confiscation order in respect of a motor vehicle:
+  (l) make, under section 131(2)(a) of that Act, an order that prohibits the offender from acquiring any interest in any motor vehicle within 12 months after the date of the order:
+  (m) make, under section 131(3)(a) of that Act, an order that sets aside the disposition by the offender of a motor vehicle or of an interest in a motor vehicle.
+(3) No Court presided over by one or more Community Magistrates may impose on any person for any offence a sentence of imprisonment (within the meaning of section 4(1) of the Sentencing Act 2002).
+
+### 9D Power to impose penalties provided for in Land Transport Act 1998
+(1) Where a person who is charged with any summary offence to which section 9C applies is found guilty of that offence by a Court presided over by a District Court Judge or pleads guilty to that offence, a Court presided over by one or more Community Magistrates—
+  (a) May, if that offence is an offence to which section 80 of the Land Transport Act 1998 applies, make, under that section, an order disqualifying the person from holding or obtaining a driver licence for such period as the Court thinks fit, whether or not the Court imposes any other penalty for the offence:
+  (b) Must, if that offence is a first or second offence to which section 32 of the Land Transport Act 1998 applies, make, in addition to any other penalties it may impose but subject to sections 81 and 94 of that Act an order under section 32 of that Act disqualifying the person from holding or obtaining a driver licence for 6 months or more, unless the Court for special reasons relating to the offence thinks fit to order otherwise:
+  (c) Must, if that offence is an offence to which section 35 or section 38 of the Land Transport Act 1998 applies, make, in addition to any other penalties it may impose but subject to sections 81 and 94 of that Act, an order under section 35 or section 38 of that Act disqualifying the person from holding or obtaining a driver licence for 6 months or more, unless the Court for special reasons relating to the offence thinks fit to order otherwise:
+  (d) Must, if that offence is a first or second offence to which section 56 or section 58 or section 60 of the Land Transport Act 1998 applies, make, in addition to any other penalties it may impose but subject to sections 81 and 94 of that Act, an order under section 56 or section 58 or section 60 of that Act disqualifying the person from holding or obtaining a driver licence for 6 months or more, unless the Court for special reasons relating to the offence thinks fit to order otherwise:
+  (e) Must, if that offence is an offence to which section 57 of the Land Transport Act 1998 applies, make, in addition to any other penalties it may impose but subject to sections 81 and 94 of that Act, an order under section 57 of that Act disqualifying the person from holding or obtaining a driver licence for 3 months or more, unless the Court for special reasons relating to the offence thinks fit to order otherwise:
+  (f) May, if that offence is an offence to which section 59 of the Land Transport Act 1998 applies, make an order under that section disqualifying the person from holding or obtaining a driver licence for such period as the Court thinks fit, whether or not the Court imposes any other penalty for the offence:
+  (g) Must, if the offence is one to which section 65 of the Land Transport Act 1998 applies, make, subject to subsection (3) of that section, an order under that section requiring the person to attend an Assessment Centre and disqualifying the person from holding or obtaining a driver licence until the Director makes an order under section 100 of that Act removing that disqualification:
+  (h) Must, if the offence is one to which section 63 of the Land Transport Act 1998 applies, make, in addition to any other penalty the Court may impose, and notwithstanding section 94 of that Act, an order under section 63 of that Act disqualifying the person from driving any vehicle being used in a transport service (other than a rental service) for such period exceeding 1 year but not exceeding 10 years as the Court thinks fit.
+(2) Nothing in this section restricts section 9C or any other duty or power of a Court presided over by one or more Community Magistrates—
+  (a) To disqualify any person from holding or obtaining a driver licence; or
+  (b) To impose any other penalty.
+
+### 9E Ancillary powers under Criminal Justice Act 1985, Sentencing Act 2002, and Land Transport Act 1998
+A Court presided over by one or more Community Magistrates has, in exercising any power conferred on it by section 9C or section 9D,—
+  (a) Power to make, under section 138 of the Criminal Justice Act 1985 (which relates to the power to clear the Court and to forbid reports of proceedings), orders of any kind described in subsection (2) of that section:
+  (b) Power to make orders under section 140 of the Criminal Justice Act 1985 (which relates to the power to prohibit the publication of names and other particulars):
+  (c) All the powers and processes that a court has under the Criminal Justice Act 1985, the Sentencing Act 2002, or the Land Transport Act 1998 for the purpose of perfecting, or giving full effect to, any sentence imposed or order made under any of the provisions of those Acts referred to in section 9C or section 9D.
+
+### 9F Power of Community Magistrates to decline jurisdiction
+(1) A Court presided over by one or more Community Magistrates may decline jurisdiction in respect of a summary offence and may refer the case to a Court presided over by a District Court Judge.
+(2) Where, under subsection (1), a Court declines jurisdiction in respect of a summary offence, that Court must forthwith adjourn the hearing of the charge to a time and place then appointed.
+(2A) A Court to which a matter is referred under subsection (1) may complete or otherwise deal with the matter as if it had been brought before that Court in the first instance.
+(3) Sections 45 to 49, so far as applicable and with the necessary modifications, apply to any adjournment under subsection (2).
+
+### 9G Power to transfer matter to Court presided over by District Court Judge
+(1) A District Court Judge may, in any case in which the District Court Judge considers it appropriate, order that any matter before a Court presided over by one or more Community Magistrates be transferred to a Court presided over by a District Court Judge.
+(2) A Court to which a matter is transferred under subsection (1) may complete or otherwise deal with the matter as if it had been brought before that Court in the first instance.
+
+### 10 Jurisdiction in respect of fugitive offenders
+[Repealed]
+
+## Part 2 — Procedure where defendant proceeded against summarily
+
+### 11 Application of this Part
+This Part of this Act shall apply to all proceedings where the defendant is proceeded against summarily.
+
+### 12 Commencement of proceedings
+(1) Except where the defendant has been arrested without warrant, all proceedings brought under this Part of this Act shall, subject to sections 20A and 21 of this Act, be commenced by the laying of an information or the making of a complaint.
+(2) Where a defendant has been arrested on any charge and no information has been laid, particulars of the charge against him shall be set out in a charge sheet.
+(3) The provisions of this Act shall apply with respect to every entry in a charge sheet as if that entry were an information.
+
+**Information**
+
+### 13 Any person may lay an information
+Except where it is expressly otherwise provided by any Act, any person may lay an information for an offence.
+
+### 14 Time for laying information
+Except where some other period of limitation is provided by the Act creating the offence or by any other Act, every information for an offence (other than an offence which may be dealt with summarily under section 6 of this Act) shall be laid within 6 months from the time when the matter of the information arose.
+
+### 15 Information to be in prescribed form and upon oath
+(1) Every information to which this Part of this Act applies shall be form 1 in Schedule 2 to this Act, and shall be substantiated on oath before a District Court Judge or Justice or before a Registrar (not being a constable).
+(2) Without limiting any other provision of this Act or any other enactment, no information shall be invalid by reason only that it does not contain the date of birth of the defendant or does not correctly describe the defendant's date of birth, and no amendment shall be required to remedy that omission or error before the hearing of the information.
+
+### 16 Information to be for one offence only
+(1) Except where it is otherwise provided by any Act, every information shall be for one offence only:
+  Provided that an information may charge in the alternative several different matters, acts, or omissions if these are stated in the alternative in the enactment under which the charge is brought.
+(2) The defendant may, at any time during the hearing of any information which is framed in the alternative, apply to the Court to amend the information on the grounds that it is so framed as to embarrass him in his defence.
+(3) The Court may, if satisfied that the defendant will be so embarrassed in his defence, direct the informant to elect between the alternatives charged in the information, and the information shall thereupon be amended accordingly, and the hearing shall proceed as if the information had been originally framed in the amended form.
+(4) Where on any such alternative information the defendant is convicted, the Court may, and shall if so requested by the defendant, limit the conviction to one of the alternatives charged.
+
+### 17 Information to contain sufficient particulars
+Every information shall contain such particulars as will fairly inform the defendant of the substance of the offence with which he is charged.
+
+### 17A Certain informations to disclose range of penalties
+(1) If a defendant is charged with an offence to which this section applies, the information must disclose the range of penalties available on conviction for that offence.
+(2) This section applies to offences that carry—
+  (a) A maximum penalty on first conviction of more than 3 months' imprisonment; and
+  (b) A higher maximum penalty on conviction for that offence if the defendant has a specified number of previous convictions for that or any other specified offence.
+(3) An information may not be dismissed solely on the grounds that it does not comply with subsection (1).
+(4) If an information that is required by subsection (1) to disclose the range of penalties available on conviction for that offence does not do so,—
+  (a) The information may be amended before or during the hearing, in accordance with this Act; and
+  (b) If the information is not amended, and the defendant is convicted, then the maximum penalty for which the defendant is liable is the penalty to which he or she would be liable if he or she did not have previous convictions for the same or any other specified offence.
+(5) This section does not limit or affect—
+  (a) The right of the Court, when sentencing the defendant, to take previous convictions into account; or
+  (b) Section 341 of the Crimes Act 1961.
+
+### 18 Information to be filed in nearest Court
+(1) As soon as practicable after an information is laid, it shall be filed by the informant in the office of the Court appointed for the exercise of criminal jurisdiction which is nearest by the most practicable route to the place where the offence was alleged to have been committed or where the informant believes that the defendant may be found:
+  Provided that, if all the parties to the proceedings agree, the information may be filed in the office of another Court:
+  Provided also that failure to comply with the provisions of this section shall not be deemed to invalidate any proceedings.
+(2) Notwithstanding anything in subsection (1) of this section, where 2 or more informations to which this Part of this Act applies are laid against the same defendant, it shall be a sufficient compliance with the provisions of this section if the informations are filed in an office of the Court in which any one of the informations could be filed or has already been filed.
+(3) Nothing in this section shall apply in any case where there is a statutory provision to the contrary.
+
+**Summons and warrant**
+
+### 19 Issue of summons to or warrant to arrest defendant
+(1) When an information has been laid,—
+  (a) Any District Court Judge or Justice or Community Magistrate or any Registrar (not being a constable) may issue a summons to the defendant, in the prescribed form:
+  (b) A warrant, in the prescribed form, to arrest the defendant and bring him before a Court may be issued by any Justice or any Community Magistrate or any Registrar (not being a constable), whether or not a summons has been issued or served, if the defendant is liable on conviction to a sentence of imprisonment, and if—
+    (i) In the opinion of the Justice or Community Magistrate or Registrar a warrant is necessary to compel the attendance of the defendant; or
+    (ii) Having regard to the gravity of the alleged offence and the circumstances of the case, the Justice or Community Magistrate or Registrar is of opinion that a warrant should be issued:
+  (c) In any case, a District Court Judge may, if he thinks fit, and whether or not a summons has been issued or served, issue a warrant, in the prescribed form, to arrest the defendant and bring him before a Court.
+(2) Where service of a summons to a defendant is to be effected in accordance with paragraph (c) of subsection (1) of section 24 of this Act the day on which the defendant is summoned to appear shall not be less than 21 days after the day on which the registered letter is posted.
+
+### 19A Summons following arrest
+(1) Where any person, who has been arrested without warrant and who is charged with a summary offence or an indictable offence that may be dealt with summarily, cannot practicably be brought immediately before a Court, any constable may, if he deems it prudent to do so, release the defendant without bail to appear on summons to answer the charge.
+(2) Every constable who releases a defendant under this section shall, at the time of the release of the defendant, sign and serve on the defendant a summons in a form prescribed for the purposes of this section. Every such summons shall require the defendant to appear on a day not later than 2 months after the date thereof at the Court where the information required by subsection (3) of this section is to be filed.
+(3) An information under this Part of this Act in respect of the offence with which the defendant is charged shall be laid and filed by a constable as soon as practicable after the release of the defendant, and in any event not later than 7 days after the day on which the defendant is released.
+(4) It shall be the duty of every constable who releases a defendant under this section to ensure that the information required by subsection (3) of this section is laid and filed.
+(5) A copy of the summons served under subsection (2) of this section shall be filed with the information. That copy shall bear an endorsement showing the fact, time, and mode of service and that endorsement shall be signed by the constable who released the defendant.
+
+### 19B Summons following evidential breath test
+(1) If a person undergoes an evidential breath test under section 69 of the Land Transport Act 1998 and the test is positive, but the person who underwent the test does not advise an enforcement officer within 10 minutes of being advised of the matters specified in section 77(3)(a) of the Land Transport Act 1998 that the person wishes to undergo a blood test, an enforcement officer may sign and serve on the person a summons in a form prescribed for the purposes of this section.
+(2) Every such summons shall require the person to appear on a day not later than 2 months after the date of the summons at the Court where the information required by subsection (3) of this section is to be filed.
+(3) An information under this Part of this Act in respect of the offence with which the person is charged shall be laid and filed by an enforcement officer as soon as practicable after the evidential breath test was administered, and in any event not later than 7 days after the day the test was administered.
+(4) It is the duty of every enforcement officer who issues a summons under this section to ensure that the information required by subsection (3) of this section is laid and filed.
+(5) A copy of a summons served under this section shall be filed with the information, and the copy shall bear an endorsement, signed by the enforcement officer who issued the summons, showing the fact, time, and mode of service.
+(6) In this section, the term enforcement officer has the same meaning as it has in section 2(1) of the Land Transport Act 1998.
+
+### 20 Issue of summons or warrant for attendance of witness
+(1) Either the informant or the defendant may at any time obtain from any District Court Judge or Justice or Community Magistrate or the Registrar a summons in the prescribed form calling on any person to appear as a witness at the hearing.
+(2) Any summons issued under subsection (1) of this section may require the person summoned to bring with him and produce at the hearing such books, deeds, papers, writings, and photographs as may be mentioned in the summons.
+(3) No person who is required under a summons issued under subsection (1) of this section to travel more than 15 kilometres to attend the hearing shall be bound to attend, unless expenses in accordance with the scale prescribed by regulations made under this Act are tendered to him.
+(4) If any District Court Judge or Registrar is satisfied that any person whose evidence at the hearing is required by either the informant or the defendant will not attend to give evidence without being compelled to do so, then, whether or not a summons has been issued or served, he may, if he thinks fit, issue a warrant in the prescribed form for the attendance of that person at the hearing.
+(4A) Any person who is arrested pursuant to a warrant issued under subsection (4) of this section shall be brought as soon as possible before a District Court Judge, who may—
+  (a) By warrant in the prescribed form order that the person be committed to a prison to be detained until the hearing; or
+  (b) Grant the person bail.
+(4B) Any person committed to prison pursuant to subsection (4A) of this section shall be treated in the same way as a prisoner awaiting trial.
+(4C) Where any person who is arrested pursuant to subsection (4) of this section is committed to prison pursuant to subsection (4A) of this section, that person shall, if he or she so requests, be brought before a District Court Judge for the purpose of making an application for bail, and the Judge may grant or refuse to grant bail on that application.
+(4D) If a person is granted bail under subsection (4A) or subsection (4C), sections 29, 30(3), and sections 31 to 38 of the Bail Act 2000, as far as they are applicable and with any necessary modifications, apply as if—
+  (a) that person were a defendant remanded in custody who had been granted bail; and
+  (b) for the words for the period of the adjournment in section 29 of the Bail Act 2000 there were substituted the words until the date of the hearing; and
+  (c) there were inserted in section 31(1)(b) of the Bail Act 2000, after the words time to time be adjourned, the words unless that person is released by the Court from further attendance; and
+  (d) for the words evading justice in section 35(1)(a) of the Bail Act 2000 there were substituted the words avoiding giving evidence.
+(5) Every person commits an offence who, having been served with a summons under this section calling upon him to appear as a witness at the hearing, refuses or neglects, without sufficient cause, to appear or to produce any books, deeds, papers, writings, or photographs required by the summons to be produced, and is liable on summary conviction to a fine not exceeding $300.
+
+### 20A Summary procedure for minor offences
+(1) Where a charge is brought by any informant of the kind described in subsection (10) of this section against any person for any minor offence (as defined in subsection (12) of this section) a summons to the defendant shall not be issued in the first instance, unless the informant satisfies the Registrar that for special reasons a summons should be issued or a District Court Judge or Community Magistrate so directs.
+(2) Unless a summons is to be so issued, all proceedings brought under this Part of this Act in respect of a minor offence shall be commenced by the informant filing a notice of prosecution in the prescribed form specifying the date and nature of the alleged offence and a summary of the facts on which the informant bases his allegation that an offence has been committed, and any other matters (not being previous convictions) which the informant considers are relevant to the imposition of a penalty. The summary of the facts shall be sufficient to fully and fairly inform the defendant of the allegations against him.
+(3) In addition the notice shall—
+  (a) Specify the maximum penalty for the offence:
+  (b) Specify the minimum penalty for the offence if such a penalty is expressly provided for:
+  (c) Show whether conviction for the offence would or could result—
+    (i) In the defendant being disqualified from holding or obtaining a driver's licence or any other licence or privilege or the forfeiture of any property; or
+    (ii) In demerit points being recorded under the Land Transport Act 1998 in respect of the defendant:
+  (d) inform the defendant of his or her rights under subsections (5) to (8) and of the right that the Court has under section 106 of the Sentencing Act 2002 to discharge a person without conviction:
+  (e) Be accompanied by particulars of any previous conviction of the defendant if the informant wishes the Court to take that conviction into account in the event of the defendant being found guilty:
+  (f) Contain such other information or advice as may be required by or pursuant to this Act:
+  (g) Set out the full name of the informant and, for the purposes of subsection (10) of this section, the capacity in which he is acting in filing the notice:
+  (h) Be signed by the informant who shall certify that he believes that he has just cause for his allegation and that, to the best of his knowledge and belief, his summary of the facts and the other particulars relating to the offence or to the defendant are true and correct.
+(4) The Registrar shall cause a copy of the notice to be served on the defendant.
+(5) If the defendant wishes to deny the charge or to appear before the Court for that or any other purpose he must send written advice to that effect to the Registrar by a date specified in the notice, being a date not earlier than 28 days after the date of the notice. Any such advice shall be sufficient for the purposes of this section if, however expressed, it indicates the defendant's wishes.
+(6) The defendant may plead guilty in accordance with section 41 of this Act and may, in the notice required by that section,—
+  (a) State matters which he wishes the Court to take into consideration:
+  (b) Make submissions with regard to the appropriate penalty:
+  (c) Put forward reasons why he should be discharged without conviction under section 106 of the Sentencing Act 2002.
+(7) If the defendant pleads guilty in accordance with section 41 of this Act or if, in any case, the defendant does not, by the date specified in the notice referred to in subsection (2) of this section, give written advice to the Registrar in accordance with subsection (5) of this section, a District Court Judge or Community Magistrate may, on the basis of the summary of the facts contained in the notice referred to in subsection (2) of this section, deal with the defendant as if he had appeared before a Court and pleaded guilty. Where particulars of any previous conviction of the defendant have accompanied that notice, the District Court Judge or Community Magistrate may take that conviction into account in deciding whether or not to impose a penalty and, if one is imposed, its amount.
+(8) If the defendant indicates in accordance with subsection (5) that the defendant wishes to deny the charge or to appear before the Court for that or any other purpose or if in any case a District Court Judge or Community Magistrate so directs, a summons, in the prescribed form, must be issued to the defendant by a District Court Judge, Justice, Community Magistrate, or Registrar (not being a constable) and subsequent proceedings must be had on that summons as if the notice under subsection (2) were an information.
+(9) Sections 14, 16, 17, 18, 34, 36, 71, 75, 204, 205, and 208 of this Act, Part 4 of this Act, and the Costs in Criminal Cases Act 1967 shall apply, with such modifications as are necessary, to every notice of prosecution filed under subsection (2) of this section as if it were an information.
+(10) A notice under subsection (2) of this section may be filed only by—
+  (a) A member of the Police:
+  (b) An enforcement officer under the Land Transport Act 1998:
+  (c) A person acting in the course of his official duties as an officer or employee of any of the State Services, a local authority, a public body, or a statutory Board:
+  (d) Any other class of person approved for the time being for the purposes of this section by the Minister of Justice by notice in the Gazette. Any such approval may be conditional or may apply only in respect of specified offences or classes of offences.
+(11) Every certificate given by an informant under paragraph (h) of subsection (3) of this section shall be deemed to be a statement for the purposes of section 111 of the Crimes Act 1961 (which relates to false statements) notwithstanding that it is not required to be made before any person.
+(12) For the purposes of this section, the term minor offence means,—
+  (a) In the case of a summary offence under the Transport Act 1962 or the Land Transport Act 1998, any summary offence under either of those Acts for which the defendant is not liable on conviction to a sentence of imprisonment or to a fine exceeding $2,000:
+  (b) In any other case, means any summary offence for which the defendant is not liable on conviction to a sentence of imprisonment or to a fine exceeding $500.
+(13) This section shall not apply where the defendant, or, where 2 or more persons are jointly charged, at least one of the defendants, is under the age of 17 years, unless the charge is for a traffic offence (as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989) which is not punishable by imprisonment.
+(14) Subject to the provisions of any other enactment, where a conviction is entered following proceedings under this section the entry in the Criminal Records kept pursuant to s 71 of this Act relating to that conviction and the summary of the facts contained in the notice filed under subsection (2) of this section shall be open to inspection by the public.
+(15) Any 2 or more Justices may exercise the powers conferred on a District Court Judge by this section in any case where the minor offence with which the defendant is charged is one in respect of which a Court presided over by a Justice or by 2 or more Justices would have jurisdiction if a summons to the defendant were issued in the first instance.
+
+### 21 Summary procedure for infringement offences
+(1) Proceedings in respect of an infringement offence may be commenced—
+  (a) With the leave of a District Court Judge or a Registrar, by laying an information under this Act, or by filing a notice of prosecution under section 20A of this Act; or
+  (b) Where an infringement notice has been issued in respect of the offence, by providing particulars of a reminder notice in accordance with subsections (4) and (4A), or by filing a notice of hearing in a Court, under this section.
+(2) Where—the informant may serve on the person or one of the persons served with the infringement notice, or a copy of the infringement notice, a reminder notice that contains the same or substantially the same particulars as the infringement notice.
+  (a) An infringement notice has been issued in respect of an infringement offence; and
+  (b) On the expiration of 28 days from the date of service of the notice, or a copy of the notice,—
+    (i) The infringement fee for the offence has not been paid to the informant at the address specified in the notice; and
+    (ii) The informant has not received at that address a notice requesting a hearing in respect of the offence,—
+(2AA) The reminder notice referred to in subsection (2) and subsection (3C) must,—
+  (a) if a form has been prescribed in any other Act or in regulations made under any other Act for the relevant infringement offence or the relevant class of infringement offences, be in that form; or
+  (b) if no form has been so prescribed, be in the general form prescribed in regulations made under this Act.
+(2A) For the purposes of this section, a reminder notice that is in a form prescribed under any Act or in any regulations made under that Act is to be treated as containing substantially the same particulars as the relevant infringement notice under that Act or those regulations.
+(3) The informant may provide particulars of the reminder notice in accordance with subsections (4) and (4A) if—
+  (a) a reminder notice has been served under subsection (2); and
+  (b) on the expiration of 28 days from the date of service of that notice,—
+    (i) the infringement fee for the offence has not been paid to the informant at the address specified in the notice; and
+    (ii) the informant has not received at that address a notice requesting a hearing in respect of the offence.
+(3A) If—the informant may, but is not required to, enter into an arrangement allowing the defendant to pay the infringement fee to the informant by instalments.
+  (a) The informant has not provided particulars of a reminder notice under subsection (3), in accordance with subsections (4) and (4A); and
+  (b) The informant has instituted the necessary management and accounting systems to allow the defendant to pay the infringement fee to the informant by instalments—
+(3B) An arrangement under subsection (3A) must—
+  (a) Be entered into before the close of the date that is 6 months from the time when the infringement offence is alleged to have been committed; and
+  (b) Be completed before the close of the date that is 12 months from the time when the infringement offence is alleged to have been committed.
+(3C) If the informant has entered into an arrangement under subsection (3A), and default is made in the payment of any instalment, the informant may,—
+  (a) Despite subsection (3B)(a), enter into another arrangement under subsection (3A) allowing the defendant to pay the infringement fee to the informant by instalments; or
+  (b) Serve on the defendant or 1 of the defendants served with the infringement notice, or a copy of the infringement notice, a reminder notice in the prescribed form containing the same or substantially the same particulars as the infringement notice.
+(3D) The informant may provide particulars of the reminder notice in accordance with subsections (4) and (4A) if—
+  (a) a reminder notice has been served under subsection (3C)(b); and
+  (b) on the expiration of 28 days from the date of service of that notice, the infringement fee for the infringement offence has not been paid to the informant at the address specified in the notice.
+(4) For the purposes of subsections (1), (3), and (3D) and subsections (4A) to (5A), the particulars of a reminder notice are—
+  (a) the contents of the reminder notice, or such parts of the reminder notice that are prescribed as the particulars for the purposes of this subsection; and
+  (b) any particulars relating to the service of the infringement notice and reminder notice that may be prescribed; and
+  (c) any other particulars that may be prescribed.
+(4A) The particulars described in subsection (4)—
+  (a) must be provided by the informant in electronic form in a manner and by means of an electronic system approved by the chief executive of the Ministry of Justice; and
+  (b) once provided, must, for the purposes of any enactment or rule of law, be treated as information held in a Court in relation to its judicial functions.
+(4B) Particulars of a reminder notice provided under subsection (3) or subsection (3D), and in accordance with subsection (4A), must be verified by the Ministry of Justice to ensure they contain the particulars described in subsection (4)(a) and (b), in accordance with a procedure approved by the chief executive of the Ministry of Justice.
+(4C) When particulars of a reminder notice provided under subsection (3) or subsection (3D) are verified under subsection (4B) as containing the particulars described in subsection (4)(a) and (b), the reminder notice is deemed to have been filed in the Court appointed for the exercise of the criminal jurisdiction which is the nearest by the most practicable route to the place where the offence was alleged to have been committed.
+(5) If, following the verification under subsection (4B) of particulars of a reminder notice provided under subsection (3), a reminder notice is deemed to have been filed in a Court within 6 months from the time when the offence is alleged to have been committed, an order is deemed to have been made in that Court (as if on the determination of an information in respect of the offence) that the defendant pay a fine equal to the amount of the infringement fee for the offence together with costs of the prescribed amount.
+(5A) If, following the verification under subsection (4B) of particulars of a reminder notice provided under subsection (3D), a reminder notice is deemed to have been filed in a Court within 12 months from the time when the infringement offence is alleged to have been committed, an order is deemed to have been made in that Court (as if on the determination of an information in respect of the offence) that the defendant pay a fine equal to the amount of the infringement fee then remaining unpaid for the offence together with costs of the prescribed amount.
+(5AB) An order under subsection (5) or subsection (5A) is deemed to have been made on the date that the relevant reminder notice is deemed to have been filed under subsection (4C).
+(5B) If the informant has entered into an arrangement under subsection (3A) or subsection (3C)(a), no defendant may give notice requesting a hearing in respect of the infringement offence to which the arrangement applies.
+(6) A notice requesting a hearing in respect of an infringement offence must—
+  (a) Be in writing signed by the person or one of the persons served with the infringement notice in respect of the offence, or a copy of the infringement notice; and
+  (b) Be delivered to the informant at the address specified in the infringement notice before or within 28 days after service of a reminder notice in respect of the offence, or within such further time as the informant may allow.
+(7) A person giving notice requesting a hearing in respect of an infringement offence may, if the person thinks fit, in that notice—
+  (a) Admit liability in respect of the offence; and
+  (b) Make any submissions as to penalty or otherwise that the defendant would wish to be considered by a Court hearing proceedings in respect of the offence.
+(8) Where a notice requesting a hearing in respect of an infringement offence is given in accordance with this section, the following provisions shall apply:
+  (a) The informant shall, if it is proposed that proceedings be commenced in respect of the offence, file in a Court a notice of hearing in the prescribed form:
+  (b) Where the defendant does not, in the notice requesting a hearing, admit liability in respect of the offence, the informant shall serve on the defendant a copy of the notice of hearing filed pursuant to paragraph (a) of this subsection:
+  (c) Where the defendant does, in the notice requesting a hearing, admit liability in respect of the offence, the informant shall file that notice in the Court in which the notice of hearing is filed:
+  (d) Where a notice of hearing is filed in a Court within 6 months from the time when the offence is alleged to have been committed, the provisions of this Act and the Costs in Criminal Cases Act 1967 shall apply, with such modifications as are necessary,—
+    (i) In relation to the notice of hearing, as if it were an information:
+    (ii) In relation to a copy of the notice served on the defendant pursuant to paragraph (b) of this subsection, as if it were a summons to the defendant:
+    (iii) In relation to a notice of the defendant filed in the Court pursuant to paragraph (c) of this subsection, as if it were a notice of the defendant pleading guilty to the offence pursuant to section 41 of this Act.
+(9) Where a defendant is found guilty of, or pleads guilty to, an infringement offence for which an infringement notice has been issued, the Court shall order the defendant to pay costs of the prescribed amount in addition to the fine (if any) and other costs (if any) ordered by the Court.
+(10) In any proceedings for an infringement offence for which an infringement notice has been issued—
+  (a) It shall be a defence if the defendant proves that the infringement fee for the offence has been paid to the informant at the address specified in the notice before or within 28 days after service on the defendant of a reminder notice in respect of the offence:
+  (b) It shall not be a defence that the infringement fee for the offence has been paid otherwise than as referred to in paragraph (a) of this subsection.
+(11) Where an infringement fee is paid to the informant at the address specified in the infringement notice but not within the time referred to in subsection (10)(a) of this section, the amount paid may be held and applied towards any fine or costs that the defendant may become liable to pay in respect of the offence.
+(12) In any proceedings for an infringement offence for which an infringement notice has been issued it shall be presumed, unless the contrary is proved, that—
+  (a) The infringement notice in respect of the offence has been duly issued, and the notice, or a copy of the notice, has been served on the defendant:
+  (b) Any reminder notice or copy of a notice of hearing required to have been served on the defendant has been duly served:
+  (c) The infringement fee for the offence has not been paid as required under this section.
+(13) If the informant has entered into an arrangement under subsection (3A) or subsection (3C)(a), and default is made in the payment of any instalment, proceedings may be taken as if default had been made in the payment of all instalments then remaining unpaid.
+
+### 21A Evidence of particulars of reminder notice deemed to have been filed in Court by electronic means
+In any proceedings, a computer printout of the particulars of a reminder notice deemed to have been filed in a Court under section 21(4C), sealed with the Seal of the Court and purporting to be signed and certified by the Registrar of that Court as a printout that may be used for the purposes of this section, is, in all courts, in the absence of evidence to the contrary, sufficient evidence of—
+  (a) those particulars having been provided and verified in accordance with section 21:
+  (b) the reminder notice deemed to have been filed in a Court and the order deemed to have been made as a consequence.
+
+### 22 To whom warrant to be directed and power of person executing warrant to enter premises
+(1) Every warrant to arrest a defendant or warrant for the appearance of a person required as a witness shall be directed either to any constable by name or generally to every constable. Any such warrant may be executed by any constable.
+(2) For the purposes of executing any warrant referred to in subsection (1) of this section, the constable executing it may at any time enter on to any premises, by force if necessary, if he has reasonable cause to believe that the person against whom it is issued is on those premises:
+  Provided that, if the constable executing the warrant is not in uniform and any person in actual occupation of the premises requires him to produce evidence of his authority, he shall before entering on the premises produce the warrant or his badge or other evidence that he is a constable.
+
+### 23 Withdrawal of warrant
+(1) Any warrant to arrest a defendant or warrant for the appearance of a person required as a witness may, by leave of a District Court Judge or the Justice or Community Magistrate or Registrar who issued it, be withdrawn at any time before it is executed.
+(2) A Registrar may withdraw a warrant to arrest a defendant or a warrant for the appearance of a person required as a witness, whether or not the warrant was issued by the Registrar, if—
+  (a) The warrant has not been executed; and
+  (b) The defendant or person (as the case may be) has appeared before the Court on the matter for which the warrant was issued.
+
+**Service of documents**
+
+### 24 Mode of service of documents on defendant
+(1) Every summons to a defendant and every other document which is required to be served on a defendant shall be served on him in one of the following ways:
+  (a) By being delivered to him personally or by being brought to his notice if he refuses to accept it; or
+  (b) By being left for him at his place of residence with a member of his family living with him and appearing to be of or over the age of 18 years; or
+  (c) By being sent to him by registered letter addressed to him at his last known or usual place of residence or at his place of business; or
+  (d) In the case of a notice relating to an infringement offence or a minor offence as defined in section 20A(12) of this Act, by being sent by letter by ordinary post addressed to the defendant at the defendant's last known place of residence or business or, in the case of an infringement offence against the Transport Act 1962, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Land Transport Act 1998, or any regulations or bylaws made under those Acts, by being posted to any address given by or on behalf of the defendant under section 7, section 10, section 15, or section 20 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986.
+  Provided that a District Court Judge or Justice or Community Magistrate or the Registrar may if he thinks fit direct that the summons or other document shall be served in accordance with the provisions of paragraph (a) of this subsection.
+(1A) Despite subsection (1), if a summons or other document required to be served on a defendant is to be served on a defendant who is a Crown organisation, it may be served—
+  (a) by delivering it personally to an employee of the organisation at its head office or principal place of business; or
+  (b) by delivering it at the organisation's head office or principal place of business, including by facsimile; or
+  (c) in accordance with a method agreed between the informant and the organisation.
+(2) For the purposes of paragraph (b) of subsection (1) of this section the expression member of his family means the defendant's father, mother, wife, husband, civil union partner, de facto partner, child, brother, sister, half brother, or half sister.
+(3) Where service is effected in accordance with paragraph (c) or paragraph (d) of subsection (1) of this section, then, unless the contrary is shown, service shall be deemed to have been effected on the person to whom the letter is addressed at the time when the letter would have been delivered in the ordinary course of post, and in proving service it shall be sufficient to prove that the letter was properly addressed and posted.
+
+### 25 Who may serve documents on defendant
+(1) Except as provided in subsection (2) of this section, every summons to a defendant and every other document that is required to be served on a defendant may be served by—
+  (a) Any sworn or non-sworn member of the Police:
+  (b) An officer of the Court:
+  (c) Any person or member of a class of persons authorised by a District Court Judge or Registrar either generally or in respect of a particular case or class of case:
+  (d) In the case of a summons to the defendant or other document required to be served on the defendant in proceedings for an offence against any Act, regulation, or bylaw to which section 68B(1) of the Transport Act 1962 or section 113(1) of the Land Transport Act 1998 applies, an enforcement officer under the Land Transport Act 1998:
+  (e) In the case of a reminder notice or copy of a notice of hearing relating to an infringement offence, any person acting in the course of official duties as an officer or employee of the informant.
+(2) Where any such summons or document is to be served by registered or ordinary letter it shall be so served—
+  (a) Except in the case of a reminder notice or copy of a notice of hearing relating to an infringement offence, by an officer of the Court posting the summons or document to the defendant:
+  (b) In the case of a reminder notice or copy of a notice of hearing relating to an infringement offence, by an officer or employee of the informant posting the notice to the defendant.
+
+### 26 Mode of service of documents on person other than defendant
+Every summons calling on any person to appear as a witness, and every other document which is required to be served on any person other than the defendant, shall be served on that person in accordance with the provisions of section 24 of this Act as if references in that section to the defendant were references to the person required to be served.
+
+### 27 Who may serve documents on person other than defendant
+Every summons calling on any person to appear as a witness, and every other document which is required to be served on any person other than the defendant, may be served by a sworn or non-sworn member of the Police or an officer of the Court, by a party or his solicitor, or by any person authorised by a party or his solicitor to serve the summons or other document.
+
+### 28 Mode of service in particular cases
+(1) Notwithstanding anything in section 24 or section 26 of this Act, service of any document may be effected in accordance with the provisions of this section in any case to which those provisions apply.
+(2) Where a solicitor represents that he is authorised to accept service of any document on behalf of any person, it shall be sufficient service to deliver the document to him if he signs a memorandum stating that he accepts service of the document on behalf of that person.
+(3) Where any person on whom any document is required to be served is living or serving on board any vessel (including any vessel belonging to any of Her Majesty's naval forces), it shall be sufficient service to deliver the document to the person on board who at the time of service is apparently in charge of the vessel.
+(4) Where any such person is in any barracks, camp, or station while serving as a member of any of Her Majesty's naval or military or air forces, it shall be sufficient service to deliver the document at the barracks, camp, or station to the Adjutant or to the officer for the time being in command of the unit or detachment to which the person to be served belongs.
+(5) Where any such person is a prisoner of any prison, it shall be sufficient service to deliver the document to the manager or other officer apparently in charge of the prison.
+
+### 29 Proof of service
+(1) The service of any document may be proved by affidavit made by the person who served the document, showing the fact and the time and mode of service, or by that person on oath at the hearing, or by an endorsement on the copy of the document showing the fact and the time and mode of service. Any such endorsement shall be signed by the person who served the document or, if the service was effected by registered letter, by any officer of the Court who knows of the service.
+(1A) If, pursuant to subsection (1) of this section, any person referred to in paragraph (c) or paragraph (e) of section 25(1) of this Act proves service of any document by endorsement on a copy of the document, that person shall, when returning the endorsed copy to the Court, provide proof that he or she is a person referred to in either of those paragraphs.
+(2) Every person who wilfully endorses any false statement of the fact, time, or mode of service on a copy of any document commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 2 years or to a fine not exceeding $2,000 or to both.
+
+### 30 Translation of documents into Maori language
+Where a document is served on any person who is a Maori within the meaning of the Maori Affairs Act 1953, the provisions of the rules for the time being in force under the District Courts Act 1947 relating to translations of documents served on Maoris in civil proceedings shall apply.
+
+**Special provisions for taking evidence**
+
+### 31 Order for taking evidence of defence witness at a distance
+(1) Notwithstanding anything in this Act, any District Court Judge or Registrar on the application of the defendant before the hearing, or the Court on the application of the defendant at the hearing, may make an order for the taking, before any other District Court or before the Registrar thereof (not being a constable), of the evidence of the defendant or of any witness for the defence, if for any reason the District Court Judge or the Registrar or the Court, as the case may be, considers it desirable or expedient that the evidence of the defendant or the witness should be so taken.
+(1A) Notwithstanding anything in this Act, any District Court Judge or Registrar on the application of the informant before the hearing, or the Court on the application of the informant at the hearing, may, with the consent of the defendant, make an order for the taking before any other District Court or before the Registrar thereof (not being a constable), of the evidence of the informant or of any witness for the prosecution, if for any reason the District Court Judge or the Registrar or the Court, as the case may be, considers it desirable or expedient that the evidence of the informant or the witness should be so taken.
+(2) Evidence given in accordance with this section and with any regulations made under this Act may be tendered at the hearing as if it were given in the course thereof; and judicial notice shall be taken of the signature of any examining District Court Judge or Justice or Community Magistrate or Registrar to any deposition made pursuant to an order under this section.
+(3) Where the Court of hearing considers that an application for the taking of the evidence of any defendant or witness under this section has been made for the purpose of delay or for any other improper purpose, or that there is undue delay in the taking of any such evidence, the Court may hear and determine the charge without waiting for the evidence to be so taken.
+(4) Nothing in this section or in any regulations made under this Act shall limit or affect the power of the Court to compel the personal attendance of the defendant or of any witness at the hearing.
+
+### 32 Order for taking evidence of person about to leave country
+(1) Any District Court Judge or Registrar may, on the application of either the informant or the defendant before the hearing, make an order for the taking, before any District Court or the Registrar thereof (not being a constable), of the evidence of any person, if the District Court Judge or the Registrar is satisfied that that person intends to depart from New Zealand before the hearing and that it is desirable or expedient that his evidence should be so taken.
+(2) Evidence given in accordance with this section and with any regulations under this Act may be tendered at the hearing as if it were given in the course thereof; and judicial notice shall be taken of the signature of any examining District Court Judge or Justice or Community Magistrate or Registrar to any deposition made pursuant to an order under this section.
+
+### 33 Admission in summary proceedings of statement of person dangerously ill taken for purposes of trial of indictable offence
+Any statement taken under section 175 of this Act (which relates to statements of persons dangerously ill and not likely to recover) may afterwards without further proof be given in evidence either for or against the defendant at the hearing of any charge under this Part of this Act, if—
+  (a) The offence charged is one to which the statement relates (whether or not the defendant had been charged under Part 5 of this Act with that offence at the time the statement was taken) or the defendant is a person to whom the statement relates; and
+  (b) Pursuant to section 176 of this Act, the statement could have been given in evidence at the preliminary hearing under Part 5 of this Act of any information against the defendant.
+
+**General provisions as to hearing**
+
+### 34 Place of hearing of information
+(1) Unless an order is made under the succeeding provisions of this section or under section 4A of the District Courts Act 1947, or unless there is a statutory provision to the contrary, every charge shall be heard and determined in the Court in the office of which the information is filed.
+(2) Any District Court Judge or Justice or Community Magistrate may order that a charge shall be heard and determined by some other Court.
+(3) The Registrar may, with the consent of each party, order that a charge be heard in some other Court.
+(4) When an order is made under subsection (2) or subsection (3) of this section, the Registrar shall forward the information to the Registrar of the Court to which it is ordered to be transferred.
+
+### 35 Power to clear Court and forbid report of proceedings
+[Repealed]
+
+### 36 Withdrawal of information by informant
+(1) Any information may by leave of the Court be withdrawn by the informant before the defendant has been convicted or the information has been dismissed or, in any case where the defendant has pleaded guilty, before he has been sentenced or otherwise dealt with.
+(1A) A Registrar may exercise the power conferred by subsection (1) of this section to grant leave if the informant is a sworn or non-sworn member of the Police and has notified the Registrar in writing that the defendant has successfully completed a programme of diversion (being a programme conducted by the Police).
+(1B) A Registrar may exercise the power conferred by section 140 of the Criminal Justice Act 1985 (which relates to orders prohibiting the publication of names) to make an order that has permanent effect if—
+  (a) The Registrar grants leave under subsection (1A); and
+  (b) The informant agrees to the making of that order.
+(2)
+(3) The withdrawal of an information shall not operate as a bar to any other proceedings in the same matter.
+
+### 37 Who may conduct proceedings
+(1) At the hearing of any charge, the informant and the defendant may appear personally or by a barrister or a solicitor of the High Court.
+(2) Except as provided in this section or in any other enactment, no person other than the informant may appear at the hearing of any charge and conduct the proceedings against the defendant.
+(3) Where an information has been laid by a constable, any other constable may appear and conduct the proceedings on the informant's behalf.
+(4) Where an information has been laid by an officer or employee of a Department of State or of a local body, any other officer or employee of that Department or of that local body, as the case may be, may appear and conduct the proceedings on the informant's behalf.
+(5) Where proceedings have been commenced by the filing of a notice of hearing pursuant to section 21 of this Act, any officer or employee of the Department, local body, or other authority that is the informant may appear and conduct the proceedings on the informant's behalf.
+
+### 38 Court may issue warrant for appearance of witness
+(1) If at the hearing of any charge any person summoned as a witness under section 20 of this Act fails to appear and no just excuse is offered for his failure, the Court, if satisfied that the summons was duly served on him, may issue a warrant in the prescribed form for the appearance of that person.
+(2) Where any person is arrested pursuant to a warrant issued under subsection (1) of this section, the provisions of subsections (4A) to (4D) of section 20 of this Act shall apply as if he had been arrested pursuant to a warrant issued under subsection (4) of the said section 20.
+
+### 39 Witness refusing to give evidence may be imprisoned
+(1) At the hearing of any charge any person present in Court, whether he has been summoned to give evidence or not, may be required to give evidence.
+(2) If any person without offering any just excuse refuses to give evidence when required, or refuses to be sworn, or having been sworn refuses to answer such questions concerning the charge as are then put to him, the Court may order that, unless he sooner consents to give evidence or to be sworn or to answer the questions put to him, as the case may be, he be detained in custody for any period not exceeding 7 days, and may issue a warrant in the prescribed form for his arrest and detention in accordance with the order.
+(3) If the person so detained, on being brought up at the adjourned hearing, again refuses to give evidence or to be sworn or, having been sworn, to answer the questions put to him, the Court, if it thinks fit, may again direct the witness to be detained in custody for the like period, and so again from time to time until he consents to give evidence or to be sworn or to answer as aforesaid.
+
+### 40 Witnesses at the hearing
+(1) The Court may if it thinks fit, of its own motion or at the request of any party at any time during the hearing, order all or any witnesses other than any witness who has given or is giving his evidence to leave the Courtroom and to remain out of hearing but within call until required to give evidence.
+(2) The Court may at any time during the hearing require the parties to state what witnesses they intend to call, and may, if it thinks fit, refuse to allow any witness whose name was not so stated to give evidence.
+
+### 41 Right to plead guilty by notice to Registrar
+(1) Any person charged with a summary offence in respect of which he is not liable on conviction to a sentence of imprisonment may in writing addressed to the Registrar give notice that he pleads guilty, and the Court shall then have the same power to deal with him as if he had appeared before it and pleaded guilty:
+  Provided that nothing in this section shall operate to prevent the issue of a warrant to arrest the defendant.
+(2) As soon as practicable after receiving any such notice from the defendant, the Registrar shall give notice thereof to the informant.
+
+### 41A Registrar may receive not guilty pleas
+(1) Before a charge under this Part is gone into, a Registrar may receive and record a not guilty plea in respect of any person charged with an offence if—
+  (a) The defendant is represented by a barrister or solicitor, and the barrister or solicitor notifies the Registrar, on the defendant's behalf, that the defendant pleads not guilty to the offence; or
+  (b) The defendant is not represented by a barrister or solicitor, and notifies the Registrar that he or she pleads not guilty to the offence.
+(2) Before a Registrar receives and records a not guilty plea under subsection (1)(b), the Registrar must be satisfied that—
+  (a) The defendant has been informed of the substance of the charge; and
+  (b) The defendant—
+    (i) has been informed of his or her rights to legal representation, including the right to apply for legal aid under the Legal Services Act 2000; and
+    (ii) Has fully understood those rights; and
+    (iii) Has had the opportunity to exercise those rights and has refused or failed to exercise those rights, or has engaged a barrister or solicitor to represent him or her and has subsequently terminated the engagement.
+(3) If a Registrar receives and records a not guilty plea under subsection (1), the Court has the same power to deal with the defendant as if he or she had appeared before it and pleaded not guilty.
+
+### 42 Plea of guilty may be withdrawn by leave of Court
+A plea of guilty may, by leave of the Court, be withdrawn at any time before the defendant has been sentenced or otherwise dealt with.
+
+### 43 Amendment of information where defendant appears
+(1) Subject to the succeeding provisions of this section, where the defendant appears to answer a charge to which this Part of this Act applies, the Court may amend the information in any way at any time during the hearing.
+(2) Without limiting the generality of the powers conferred by subsection (1) of this section, it is hereby declared that those powers shall include power to amend an information by substituting one offence (whether an indictable offence or a summary offence) for another offence (whether an indictable offence or a summary offence), and shall also include power to amend the information to an information to which Part 5 of this Act applies.
+(3) Where under subsection (2) of this section any information is amended by substituting one offence for another, then, subject to the provisions of subsection (4) of this section, the following provisions shall apply:
+  (a) Subject to the provisions of paragraphs (b), (c), and (d) of this subsection, the hearing shall be continued as if the defendant had originally been charged with the substituted offence:
+  (b) If the substituted offence is one to which section 66 of this Act applies, the defendant shall, before the hearing is continued, be entitled to elect to be tried by a jury for that offence, and the provisions of that section, with the necessary modifications, shall accordingly apply as if for the words before the charge is gone into in subsections (1) and (2) of that section there were substituted in each case the words before the hearing is continued:
+  (c) Before the hearing is continued, the substance of the charge as amended shall be stated to the defendant and he shall be asked how he pleads; and, if he pleads guilty, the Court may convict him or deal with him in any other manner authorised by law:
+  (d) Any evidence already given shall be deemed to have been given in and for the purposes of the hearing of the charge as amended, but either party shall have the right to examine or cross-examine or re-examine any witness whose evidence has already been given in respect of the offence originally charged.
+(4) Where under subsection (2) of this section any information is amended to an information to which Part 5 of this Act applies, the case shall be dealt with under that Part in all respects as if the defendant had originally been charged under that Part with the indictable offence stated in the amended information.
+(5) The Court may, at the request of the defendant, if it is of opinion that he would be embarrassed in his defence by reason of an amendment made or proposed to be made under this section, adjourn the hearing of the case.
+
+### 43A Amendment of information to correct particulars of defendant
+(1) Without limiting section 43 of this Act, if at any time during the hearing, and whether or not the defendant appears to answer the charge, the Court is satisfied that the particulars of the defendant as they appear on the information are incorrect, whether—the Court may, subject to subsections (3) to (6) of this section, make such amendments to the information as are necessary to correct the mistake or omission or, as the case may be, to ensure that the information correctly identifies that person.
+  (a) Because of any mistake or omission in those particulars; or
+  (b) Because the name, address, or any other particulars of the defendant as stated on the information do not correctly identify the person by whom the offence stated in the information is alleged to have been committed, whether because the person identified on the information does not exist or is some other person or for any other reason,—
+(2) Without limiting the generality of the powers conferred by subsection (1) of this section, it is hereby declared that those powers include the power to amend the information by substituting, for all or any of the particulars of the defendant (including his or her name) as stated on the information, any other particulars.
+(3) No power conferred by subsection (1) of this section shall be exercised after the expiry of the period of 12 months from the date on which the information is laid.
+(4) The Court may, if it is of opinion that any person would be prejudiced by any amendment made or proposed to be made pursuant to this section, and that it would be contrary to the interests of justice to require that person to suffer that prejudice,—
+  (a) Refuse to make the amendment; or
+  (b) If the amendment has already been made, dismiss the information, but any such dismissal shall not operate as a bar to any other proceedings in the same matter.
+(5) The Court may, at the request of the defendant, if it is of opinion that the defendant would be embarrassed in the defendant's defence by reason of an amendment made or proposed to be made pursuant to this section, adjourn the hearing of the case.
+(6) Where the Court amends an information pursuant to this section,—
+  (a) The Court may direct that a summons or, as the case requires, a further summons be issued to the defendant:
+  (b) Subject to paragraph (a) of this subsection and to subsection (5) of this section, the hearing shall proceed in all respects as if the information had been originally framed as amended.
+
+### 44 Power of Court to decline summary jurisdiction
+(1) Where any summary prosecution of an indictable offence is commenced, the Court may, at any time before the defendant has been sentenced or otherwise dealt with, decline to deal summarily with the offence, and may endorse on the information a certificate to that effect.
+(2) Where a Court declines under this section to deal summarily with an offence, then—
+  (a) If the defendant has been found guilty or has pleaded guilty, the Court shall commit him to the High Court for sentence, and the provisions of sections 169 to 171 of this Act, as far as they are applicable and with the necessary modifications, shall apply. In such a case the District Court Judge shall cause the information, a statement of the facts of the case, and the bail bond (if any) to be sent to the Registrar of the High Court:
+  (b) In any other case, the Court shall deal with the case in all respects as if the offence were an indictable offence not punishable summarily.
+
+### 44A Power of Court to decline summary jurisdiction in case of certain summary offences
+(1) Whenever the Court commits a defendant to the High Court for sentence in respect of any offence, the Court may also commit the defendant to the High Court for sentence in respect of any other offence—
+  (a) That is related to the first-mentioned offence or arises from the same course of conduct as that offence; and
+  (b) In relation to which the High Court would not, but for this subsection, have jurisdiction to sentence the defendant.
+(2) Except as provided in subsection (3) of this section, the sentence that may be imposed by the High Court in any case referred under subsection (1) of this section shall not exceed the sentence that could have been imposed in that case by the District Court.
+(3) Where the High Court is satisfied that the District Court would have declined jurisdiction to sentence the defendant, the High Court may impose any sentence that it could impose in that case if the District Court had declined such jurisdiction.
+
+**Adjournments and bail**
+
+### 45 Power to adjourn
+(1) The hearing of any charge may from time to time be adjourned by the Court to a time and place then appointed.
+(2) If at any time and place appointed for the hearing of any charge, or when a defendant is brought before a Court on arrest, the Court by reason of its constitution has no jurisdiction to hear the charge, any Justice or Community Magistrate may adjourn the hearing to a time and place then appointed.
+(3) If on any adjournment the defendant is remanded in custody under section 46 of this Act, the adjournment shall not be for a longer period than 8 days, unless both parties otherwise consent.
+
+### 45A Power of Registrar to adjourn
+(1) A Registrar may, upon application, adjourn the hearing of any charge to a time and place then appointed if—
+  (a) The defendant is not in custody at the time of the application; and
+  (b) The application is made before the commencement of the hearing.
+(2) Where an adjournment is granted under subsection (1) of this section,—
+  (a) The present conditions of bail (if any) shall, subject to section 34 of the Bail Act 2000, continue to the adjourned date of hearing; and
+  (b) Any order made under section 140 of the Criminal Justice Act 1985 in relation to the defendant or any other person connected with the proceedings and having effect only for a limited period that would expire before the adjourned date of hearing shall continue to have effect until the close of the adjourned date of hearing.
+(3) Whenever the Registrar grants an adjournment under this section, the Registrar shall notify each party in writing.
+(4) For the avoidance of doubt, it is hereby declared that a Registrar may, upon application, grant an adjournment under subsection (1) of this section if—
+  (a) The defendant has been released on bail under section 21 of the Bail Act 2000; and
+  (b) The application is made before the commencement of the hearing.
+
+### 46 Dealing with defendant on adjournment
+(1) Where any hearing is adjourned under section 45, and the defendant is liable on conviction to a sentence of imprisonment or the defendant has been arrested, the Court or Justice or Community Magistrate may—
+  (a) allow the defendant to go at large for the period of the adjournment; or
+  (b) grant the defendant bail under the Bail Act 2000 for the period of the adjournment; or
+  (c) remand the defendant in custody for the period of the adjournment.
+(2) A Registrar may exercise the power conferred by subsection (1)(c) to remand a defendant in custody if—
+  (a) both the defendant and the informant agree to the remand; and
+  (b) the defendant—
+    (i) is legally represented or has indicated that he or she has received legal advice; or
+    (ii) has declined an opportunity to obtain legal advice.
+(3) The following provisions apply to every remand imposed by a Registrar under subsection (2):
+  (a) a single period of remand may not exceed 8 days:
+  (b) not more than 2 consecutive periods of remand may be imposed and neither of those periods may exceed 8 days:
+  (c) the defendant must be brought before a Court or Justice or Community Magistrate—and the Court or Justice or Community Magistrate must determine what action (if any) under subsection (1) should be taken in respect of the defendant.
+    (i) at the earliest opportunity if, at any time during the period of remand, the defendant withdraws his or her agreement under subsection (2)(a); or
+    (ii) at the earliest opportunity after the expiration of 16 days commencing on the date of the imposition of the remand,—
+
+### 46A Registrar may prohibit publication of names
+(1) A Registrar may exercise the power conferred by section 140 of the Criminal Justice Act 1985 (which relates to orders prohibiting the publication of names) to make an order that has effect for a limited period if—
+  (a) The Registrar either—
+    (i) Adjourns the hearing of any charge under section 45A; or
+    (ii) Grants a defendant bail under section 28 of the Bail Act 2000; or
+    (iii) Remands the defendant in custody under section 46(2); and
+  (b) Either,—
+    (i) Where the defendant asks for the making of the order, the informant agrees to that order being made; or
+    (ii) Where the informant asks for the making of the order, the defendant agrees to that order being made.
+(2) If a Registrar makes an order under section 140 of the Criminal Justice Act 1985, the order may have effect for a limited period of up to 28 days from the date on which the order is made.
+(3) No Registrar may exercise the power under subsection (1) more than once in relation to any particular information.
+
+### 46AB Application of section 45 during epidemic
+(1) While an epidemic management notice is in force, section 45 has effect as if the reference in it to a longer period than 8 days were a reference to a longer period than 21 days.
+(2) If the notice applies to only stated parts of New Zealand, subsection (1) applies within those parts only.
+(3) In subsection (1), epidemic management notice means a notice under section 8(1) of the Epidemic Preparedness Act 2006 stating that the application of this Act is modified in order to deal with the practical effects of the outbreak of the disease referred to in the notice.
+
+### 46AC Application of section 46 during epidemic
+(1) While an epidemic management notice (within the meaning of section 46AB(3)) is in force, section 46 has effect as if—
+  (a) the references in paragraphs (a) and (b) of subsection (3) to 8 days have effect as if they are references to 21 days; and
+  (b) the reference in subsection (3)(c)(i) to the earliest opportunity has effect as if it is a reference to the earliest opportunity that is reasonable in all the circumstances; and
+  (c) the reference in subsection (3)(c)(ii) to the earliest opportunity after the expiration of 16 days commencing on the date of the imposition of the remand has effect as if it is a reference to the earliest opportunity after the expiration of 42 days commencing on the date of the imposition of the remand that is reasonable in all the circumstances.
+(2) If the notice applies to only stated parts of New Zealand, subsection (1) applies within those parts only.
+
+### 47 Warrant for detention of defendant remanded in custody
+Where the defendant is remanded in custody under section 46, the Court or Justice or Community Magistrate or Registrar must issue a warrant in the prescribed form for the detention of the defendant in custody for the period of the adjournment.
+
+### 48 Defendant, if bailable as of right, to be brought before Court on request
+[Repealed]
+
+### 49 Conditions of bail
+[Repealed]
+
+### 49A Variation of conditions of bail
+[Repealed]
+
+### 50 Release of defendant granted bail
+[Repealed]
+
+### 50A Variation of conditions of bail
+[Repealed]
+
+### 51 Defendant may be admitted to bail by constable in certain cases
+[Repealed]
+
+### 52 Mode of taking bail bond by constable
+[Repealed]
+
+### 53 Defendant on bail may be arrested without warrant in certain circumstances
+[Repealed]
+
+### 54 Failure to answer bail
+[Repealed]
+
+### 55 Arrest of defendant who does not attend hearing
+[Repealed]
+
+### 56 Effect on bond of attendance or non-attendance of person bailed by constable
+[Repealed]
+
+### 57 Certification of non-performance of condition of bail bond
+[Repealed]
+
+### 58 Estreat of bail bond
+[Repealed]
+
+### 59 Defendant in custody may be brought up before expiry of period of adjournment
+Any defendant who has been remanded in custody on any charge and has not been released on bail may be brought before a Court at any time to be dealt with on that charge, notwithstanding that the period for which he was remanded in custody has not expired.
+
+**Procedure at hearing**
+
+### 60 Evidence to be given on oath
+[Repealed]
+
+### 61 Powers of Court when defendant does not appear
+In any case where a summons has been served on the defendant a reasonable time before the hearing, or the defendant has been released on bail to attend personally at the hearing, and at the hearing only the informant appears, the following provisions shall apply:
+  (a) If the offence charged is one in respect of which the defendant is entitled to elect to be tried by a jury, the Court may either issue a warrant in the prescribed form to arrest the defendant and bring him before a Court, or may adjourn the hearing to such time and on such conditions as the Court thinks fit. If the defendant does not appear at the time to which the hearing is adjourned, the Court or any Registrar may issue a warrant to arrest the defendant and bring him before a Court:
+  (b) If the offence charged is not one in respect of which the defendant is entitled to elect to be tried by a jury, then—
+    (i) If the defendant is liable on conviction to a sentence of imprisonment or if, following his arrest, he has been released on bail to attend personally at the hearing, the Court may proceed with the hearing, or may issue a warrant in the prescribed form to arrest the defendant and bring him before a Court, or may adjourn the hearing to such time and on such conditions as the Court thinks fit:
+    (ii) In any other case the Court may proceed with the hearing or may adjourn the hearing to such time and on such conditions as the Court thinks fit.
+  (c) If the offence charged is not one in respect of which the defendant is liable on conviction to a sentence of imprisonment, evidence of a fact or opinion which would be admissible if given by direct oral evidence, shall also be admissible if given by way of an affidavit.
+
+### 61A Powers of Registrar to adjourn hearing or issue warrant to arrest defendant
+(1) If the Registrar has the power to adjourn the hearing of any charge under section 45A of this Act, the Registrar may either—
+  (a) Adjourn the hearing; or
+  (b) Exercise the power conferred by section 61(a) or section 65 or section 66 of this Act to issue a warrant to arrest the defendant.
+(2) If the Registrar does not have power to adjourn the hearing of any charge under section 45A of this Act, but considers that a warrant to arrest the defendant should be issued under section 61(a) or section 65 or section 66(7) of this Act, the Registrar shall refer the matter to a District Court Judge who may direct the Registrar to issue a warrant to arrest the defendant.
+(3) Subject to subsection (4), a Registrar may exercise any of the powers referred to in subsection (1)(b) if—
+  (a) The Registrar is satisfied that the defendant was informed of the defendant's obligation to attend at the specified time and place; and
+  (b) The defendant failed to so attend.
+(4) A Registrar may not exercise any of the powers referred to in subsection (1)(b) if the Registrar is satisfied that the defendant failed to attend at the specified time or place because of a reasonable excuse.
+
+### 62 Powers of Court when informant does not appear
+Where at the hearing of any charge only the defendant appears, the following provisions shall apply:
+  (a) If the defendant is in custody or has been released on bail and the informant has not had adequate notice of the hearing, the Court shall adjourn the hearing to such time and place and on such conditions as it thinks fit to enable the informant to appear:
+  (b) In any other case the Court may dismiss the information for want of prosecution or adjourn the hearing to such time and place and on such conditions as the Court thinks fit.
+
+### 63 Powers of Court when neither party appears
+Where at the hearing of any charge neither the informant nor the defendant appears, the Court may dismiss the information for want of prosecution or adjourn the hearing to such time and place and on such conditions as the Court thinks fit.
+
+### 64 Dismissal for want of prosecution not to operate as bar to other proceedings
+The dismissal of an information for want of prosecution shall not operate as a bar to any other proceedings in the same matter.
+
+### 65 Court to proceed when both parties appear
+Where at the hearing of any charge both the informant and the defendant appear, the Court shall proceed with the hearing:
+  Provided that, if the defendant is not personally present, the Court may, if it thinks fit, adjourn the hearing to such time and place and on such conditions as it thinks fit to enable him to be present, or, if he is liable on conviction to a sentence of imprisonment, may issue a warrant in the prescribed form to arrest him and bring him before the Court.
+
+### 66 Defendant's right to elect trial by jury where offence punishable by more than 3 months' imprisonment
+(1) Any person charged under this Part of this Act with an offence which is punishable by imprisonment for a term exceeding 3 months shall be entitled, before the charge is gone into but not afterwards, to elect to be tried by a jury. Before the defendant is called upon to make his election under this subsection, the substance of the charge shall be stated to him.
+(1A) If a Registrar receives and records an election under section 66A(1), the substance of the charge need not be stated to the defendant under subsection (1).
+(2) Except in any case in which subsection (7) of this section or section 66A(1) applies, the Court shall, before the charge is gone into in respect of an offence to which this section applies, inform the defendant of the right conferred on him by subsection (1) of this section by causing him to be addressed to the following effect:This case is one where you have a choice of being tried here in this Court or of being tried by a Judge and jury Do you wish to be tried by a jury or by this Court?.
+(3) Where a corporation is charged with an offence in respect of which an individual would be entitled under this section to elect to be tried by a jury, an election to be so tried may be made on behalf of the corporation by its representative; and, where the corporation does not appear by a representative or no such election is made on behalf of the corporation, the Court may, subject to the provisions of this section, deal with the case summarily as if the offence were an offence to which subsection (1) of this section did not apply.
+(4) Where a defendant who is charged under this Part of this Act with an indictable offence elects under this section to be tried by a jury, the proceedings shall continue as if he had been charged on an information in form 2 in Schedule 2 to this Act.
+(5) Where a defendant who is charged with a summary offence elects under this section to be tried by a jury, the proceedings shall continue as if the offence were an indictable offence not punishable summarily, and, if he is committed for trial or for sentence, he may be dealt with accordingly.
+(6) A defendant who has elected under this section to be tried by a jury may, by leave of the Court at any time before he is committed for trial or for sentence, withdraw his election, and thereupon the Court may, notwithstanding anything in section 153A or section 168 of this Act, deal summarily with the case in all respects as if no such election had been made, and the foregoing provisions of this section shall no longer apply:
+  Provided that where the Court is presided over by 2 or more Justices or one or more Community Magistrates and the defendant has pleaded guilty to an offence which the Court does not have jurisdiction to deal with summarily by reason of its constitution, the Court shall record the plea and shall adjourn the proceedings for the defendant to be sentenced or otherwise dealt with by a Court presided over by a District Court Judge.
+(6A) Where a defendant who has elected under this section to be tried by a jury has pleaded guilty pursuant to the provisions of section 168 of this Act and he is not represented by a barrister or solicitor, the Court, unless it considers that leave should not be granted to the defendant to withdraw his election, shall draw to his attention the provisions of subsection (6) of this section.
+(7) Any barrister or solicitor who appears for the defendant may (whether or not the defendant is personally present) inform the Court on his behalf that the defendant does not elect to be tried by a jury, or may (where the defendant is personally present) inform the Court on his behalf that the defendant does elect to be so tried, and thereupon the Court may proceed as if the defendant had personally made the election:
+  Provided that, if it thinks fit, the Court may, if the defendant is not personally present and his counsel or solicitor informs the Court that the defendant does not elect to be tried by a jury, adjourn the hearing to such time and on such conditions as the Court thinks fit to enable the defendant to be present or issue a warrant, in the prescribed form, to arrest him and bring him before the Court.
+
+### 66A Registrar may receive elections
+(1) A Registrar may receive and record an election under section 66 to be tried by a jury if—
+  (a) The defendant is represented by a barrister or solicitor, and the barrister or solicitor notifies the Registrar, on the defendant's behalf, of the election; or
+  (b) The defendant is not represented by a barrister or solicitor, and appears before the Registrar and notifies the Registrar of his or her election.
+(2) Before a Registrar receives and records an election under subsection (1)(b), the Registrar must—
+  (a) Be satisfied that the defendant has been informed of the substance of the charge; and
+  (b) Be satisfied that the defendant—
+    (i) has been informed of his or her rights to legal representation, including the right to apply for legal aid under the Legal Services Act 2000; and
+    (ii) Has fully understood those rights; and
+    (iii) Has had the opportunity to exercise those rights and has refused or failed to exercise those rights, or has engaged a barrister or solicitor to represent him or her and has subsequently terminated the engagement; and
+  (c) Inform the defendant of the right to make an election in the manner set out in section 66(2).
+(3) If a Registrar receives and records an election under subsection (1), the Court has the same power to deal with the defendant as if he or she had appeared before it and made his or her election.
+
+### 67 Conduct of hearing
+(1) Before any charge is gone into, the substance of the charge shall be stated to the defendant if he appears, and he shall be asked how he pleads
+(1A) If a Registrar receives and records a not guilty plea under section 41A(1), the substance of the charge need not be stated to the defendant under subsection (1).
+(2) If he pleads guilty, the Court may convict him or deal with him in any other manner authorised by law.
+(3) If he does not plead guilty, the hearing shall be conducted in accordance with the succeeding provisions of this section.
+(4) The Court shall first hear the informant and such evidence as he may adduce, and shall then hear the defendant and such evidence as he may adduce. It shall then hear such evidence as the informant may adduce in rebuttal of any evidence given by or on behalf of the defendant.
+(5) Where the defendant refrains from giving evidence, or from calling his wife or her husband, as the case may be, as a witness, no comment adverse to the defendant shall be made thereon by the informant.
+(6) The parties may examine, cross-examine, and re-examine witnesses.
+(7) Unless the Court otherwise directs, neither party may sum up his case or address the Court upon the evidence given by either party:
+  Provided that the defendant, whether or not he calls evidence, may address the Court at the end of the informant's case.
+(8) Any exception, exemption, proviso, excuse, or qualification, whether it does or does not accompany the description of the offence in the enactment creating the offence, may be proved by the defendant, but, subject to the provisions of section 17 of this Act, need not be negatived in the information, and, whether or not it is so negatived, no proof in relation to the matter shall be required on the part of the informant.
+
+### 67A Identification evidence
+Where any evidence of identity is given against the defendant and the defendant disputes that evidence, the Court shall bear in mind the need for caution before convicting the defendant in reliance on the correctness of any such identification and, in particular, the possibility that the witness may be mistaken.
+
+### 68 Decision of Court
+(1) The Court, having heard what each party has to say and the evidence adduced by each, shall consider the matter and may convict the defendant or dismiss the information, either on the merits or without prejudice to its again being laid, or deal with the defendant in any other manner authorised by law.
+(2) The Court may, if it thinks fit, reserve its decision, and in that case may give it at any adjourned or subsequent sitting of the Court or, except where a sentence of imprisonment is being imposed, may draw up the decision in writing, sign it, and send it to the Registrar.
+(3) When a written decision is sent to the Registrar as aforesaid, he shall deliver it at a time and place appointed by him.
+(4) Every reserved decision delivered by the Registrar shall be entered in the Criminal Records kept pursuant to section 71 of this Act and signed by the Registrar, and shall have the same force and effect as if given by the Court on that date.
+
+### 69 Procedure where defendant liable to greater penalty because of previous convictions
+(1) This section applies where—
+  (a) A defendant is charged with an offence for which the penalty is greater if the defendant has previously been convicted of that offence or of some other offence; and
+  (b) By reason of that greater penalty, the defendant is entitled, under section 66 of this Act, to elect to be tried by a jury.
+(2) Where this section applies,—
+  (a) The information shall disclose the existence of the previous conviction or convictions which, if proved against the defendant or admitted by him or her, would make the defendant liable to the greater penalty; and
+  (b) Subject to subsection (4) of this section, where the information discloses such conviction or convictions, the provisions of section 66 of this Act shall apply in the ordinary way.
+(3) No information shall be dismissed by reason only that it does not comply with the requirements of subsection (2)(a) of this section, but if any such information is not subsequently amended so as to comply with those requirements, then, notwithstanding any other enactment, the defendant shall be liable to the penalty to which he or she would be liable but for any previous convictions.
+(4) Where, pursuant to section 43 of this Act, an information for an offence is amended to disclose a previous conviction to which subsection (2) of this section applies, then, unless the defendant has already been given the right, under section 66 of this Act, to elect to be tried by a jury for that offence, the defendant shall then be given that right, and the provisions of section 66 of this Act, as far as they are applicable and with the necessary modifications, shall apply.
+(5) Nothing in this section shall affect the right of the Court, when sentencing the defendant, to take any previous convictions into account.
+(6) Nothing in this section limits section 341 of the Crimes Act 1961.
+
+### 69AA Further provisions relating to previous convictions
+(1) For the avoidance of doubt, it is hereby declared that in any case where—it shall not be necessary for the informant to prove any previous conviction to which section 69(2)(a) of this Act applies, where that conviction is not admitted by the defendant, until the issue of penalty for the offence arises.
+  (a) Section 69 of this Act applies; and
+  (b) The defendant elects, under section 66 of this Act, not to be tried by a jury,—
+(2) Nothing in subsection (1) of this section limits or affects any other enactment or rule of law that prohibits or regulates the admission of evidence relating to the previous convictions of the defendant.
+(3) For the purpose of proving any previous conviction to which section 69(2)(a) of this Act applies in any proceedings in which the defendant is dealt with summarily, the production of a certificate containing the substance of the conviction for the offence, purporting to be signed by the Registrar or other officer having the custody of the records of the Court by or before which the offender was convicted, shall—
+  (a) Be sufficient evidence of the conviction without proof of the signature or official character of the person appearing to have signed the certificate; and
+  (b) In the absence of evidence to the contrary, if the name of the offender stated in the certificate is the name of the defendant, constitute prima facie evidence that the offender so stated is the defendant.
+(4) The mode of proving a previous conviction authorised by this section shall be in addition to, and not in exclusion of, any other mode authorised by law.
+
+### 69A Proof of previous convictions
+(1) Where any person is charged with any summary offence or with any indictable offence that may be dealt with summarily, the informant may serve on the defendant a notice in writing specifying any alleged previous conviction proposed to be brought to the notice of the Court in the event of his conviction of the offence charged.
+(2) Any such notice shall specify—
+  (a) The date of the alleged conviction; and
+  (b) The Court in which the conviction was entered; and
+  (c) The nature of the offence; and
+  (d) The sentence of the Court in respect of the conviction (including any order of the Court made on the conviction); and
+  (e) A statement to the effect that the Court may, where the defendant is not present in person before the Court and has not notified the Court in writing that he disputes any such conviction or any material details in connection with the conviction, in the event of the conviction of the defendant take into account any conviction specified in the notice and the particulars concerning it as specified in the notice, as if the defendant had been present in person and admitted it.
+(3) In the event of the conviction of the defendant and upon proof that the notice was served on him not less than 7 clear days previously, the Court may, if the defendant is not present in person before the Court and has not notified the Court in writing that he disputes the conviction or any material details in connection with the conviction, take into account any conviction specified in the notice and the particulars concerning it as specified in the notice, as if the defendant had been present in person and admitted it.
+
+### 70 Order for restitution of stolen property or payment of its value
+[Repealed]
+
+### 71 Criminal Records
+(1) The Registrar of each Court appointed for the exercise of criminal jurisdiction shall keep Criminal Records in the prescribed form, in which shall be entered a minute or memorandum of all proceedings in the Court under its criminal jurisdiction. Every such minute or memorandum shall be signed by the District Court Judge or Justice or Justices or Community Magistrate or Community Magistrates presiding over the Court.
+(1A) A statement of the way in which the requirements of section 30 of the Sentencing Act 2002 have been satisfied shall be entered in the Criminal Records of each Court in respect of all proceedings under its criminal jurisdiction to which that section applies.
+(1B) Subsection (1) does not apply in respect of proceedings commenced in the way described in section 21(3) or (3D).
+(2) If an information is heard at any place other than a Courthouse, a minute or memorandum of the decision shall be endorsed on the information, and the minute or memorandum shall be signed by the District Court Judge or Justice or Justices or Community Magistrate or Community Magistrates presiding over the Court. The information shall be forwarded to the nearest Courthouse there to be kept, and the Registrar shall make and sign an appropriate entry in respect of the case in the Criminal Records kept by him.
+(3) Any entry in the Criminal Records or a copy thereof or extract therefrom, sealed with the Seal of the Court and purporting to be signed and certified by the Registrar as a true copy or correct extract, shall at all times without further proof be admitted in all Courts and places whatsoever as evidence of the entry and proceeding referred to thereby and of the regularity of that proceeding.
+(4) Any such copy of any entry in the Criminal Records or any such extract therefrom may be given to any person who the Registrar is satisfied has a genuine and proper interest in obtaining the copy or extract. In any case of doubt or difficulty the Registrar may refer the matter to a District Court Judge, whose decision shall be final.
+(5) Every reference to a Criminal Record Book in this Act or in any other Act or in any regulation, rule, bylaw, order, or other enactment or in any deed, instrument, notice, or other document whatsoever, shall, unless the context otherwise requires, be read as a reference to the Criminal Records kept pursuant to this section.
+
+**Costs and witnesses' expenses**
+
+### 72 Costs
+[Repealed]
+
+### 73 Witnesses' expenses
+(1) The Court may order any party at whose instance a witness appears at the Court to pay the costs and expenses of that witness, not exceeding the amount provided for in any scale prescribed by regulations under this Act.
+(2) Any such order may be enforced in the same manner as a fine.
+
+**Complaints**
+
+### 74 Provisions of this Part to apply to complaints
+Subject to the provisions of any other Act, the provisions of this Part of this Act, as far as they are applicable and with the necessary modifications, shall apply to proceedings brought by way of complaint as if they were proceedings brought on an information, and as if references in this Part to the informant were references to the complainant, as if references to a charge or to an offence were references to the ground of the complaint, and as if references to a conviction were references to an order.
+
+**Rehearings**
+
+### 75 District Court Judge or Justice or Registrar or Community Magistrate may grant a rehearing
+(1) Where on the hearing of any information or complaint the defendant has been convicted or, as the case may be, an order has been made against him, the District Court Judge or Justice or Justices or Community Magistrate or Community Magistrates who presided over the Court before which the information or complaint was heard may, in his or their discretion, grant a rehearing of the information or complaint, either as to the whole matter or only as to the sentence or order, as the case may be, upon such terms as he or they think fit:
+  Provided that, if any such District Court Judge or Justice or Community Magistrate has since the date of the hearing ceased to hold office as such or died or left New Zealand, or if for any other reason it is impracticable that he should be present to hear the application for rehearing, any District Court Judge may grant a rehearing.
+(1AA) If, on the hearing of any information or complaint, the defendant has been convicted or, as the case may be, an order has been made against the defendant, a Registrar may, if the informant does not object, grant a rehearing of the information or complaint, either as to the whole matter or only as to the sentence or order (as the case may be) and on such terms as the Registrar thinks fit.
+(1A) Where a registered or ordinary letter has been used for the service on a defendant of any summons, copy of a notice of prosecution under section 20A of this Act, and on the hearing of the matter the defendant has been convicted or, as the case may be, an order has been made against him, in his absence, a District Court Judge or the Registrar (not being a constable) shall, if he is satisfied that the defendant did not receive the summons or notice or copy of the notice:
+  (a) Grant a rehearing of the matter and set it down for hearing at a later date; and
+  (b) Issue another summons, or require another copy of the notice to be served on the defendant, as the case may be; and, in any such case, the summons or copy shall not be served by registered letter.
+(2) When a rehearing has been granted, the conviction or, as the case may be, the sentence only or the order made on the hearing shall immediately cease to have effect.
+(3) A rehearing which has been granted may be proceeded with immediately, or the District Court Judge or Justice or Justices or Registrar or Community Magistrate or Community Magistrates may set it down for hearing at a later date.
+(4) If a rehearing is granted in any case where the defendant on conviction sentenced to a term of detention which has not expired, but the rehearing is not proceeded with immediately, the District Court Judge or Justice or Justices shall, subject to the provisions of section 7 and sections 9 to 12 of the Bail Act 2000 and of section 142 of the Criminal Justice Act 1985, remand the defendant in custody until the date appointed for the rehearing.
+(5) On any rehearing the Court shall have the same powers and shall follow the same procedure as if it were the first hearing; and in particular, on the rehearing as to the whole matter of any information for an offence to which section 66 of this Act applies, the defendant shall be entitled to elect to be tried by a jury in accordance with the provisions of that section.
+(6) If the defendant does not appear on the date set down for the rehearing of any information or complaint, the Court may, if it thinks fit, without rehearing the case direct that the original conviction, sentence, or order shall be restored.
+
+**Miscellaneous**
+
+### 76 Proceedings against parties to offences
+Every party to an offence (not being the person who actually committed it) may be proceeded against and convicted for that offence, either together with the person who actually committed it or before or after the conviction of that person.
+
+### 77 Power of the Court to amend defective sentences
+(1) If on the conviction of the defendant the Court imposes a sentence or makes an order that is not within the jurisdiction of the Court to impose or make, or does not impose a sentence or make an order that it is required by law to impose or make, then, at any time thereafter, unless proceedings in relation to the conviction are pending in the High Court, the District Court Judge who presided over the Court, or, if that District Court Judge is not available or if the Court was presided over by one or more Justices or by one or more Community Magistrates, any District Court Judge, may set aside any sentence or order imposed or made and impose a sentence and make an order that is within the jurisdiction of the Court or that the Court is required by law to impose or make, and all necessary alterations shall be made in any warrant or other document and in the Criminal Records kept pursuant to section 71 of this Act to give effect thereto.
+(2) The powers conferred by this section may be exercised from time to time in respect of the same conviction.
+
+### 77A Stay of proceedings
+(1) The Attorney-General may, at any time after an information has been laid against any person under this Part of this Act and before that person has been convicted or otherwise dealt with, direct that an entry be made in the Criminal Records kept pursuant to section 71 of this Act that the proceedings are stayed by his direction, and on that entry being made the proceedings shall be stayed accordingly.
+(2) If an information is laid against the Crown Law Office in respect of an offence referred to in section 6 of the Crown Organisations (Criminal Liability) Act 2002, any decision to issue a direction under subsection (1) in respect of the proceedings to which the information relates must be made by the Attorney-General personally.
+
+### 78 Court may state case for opinion of High Court
+(1) On the hearing by a District Court of any information or complaint, the Court may state a case for the opinion of the High Court on any question of law arising in the proceedings.
+(2) The High Court may order the removal into the Court of Appeal of any case stated under this section; and on the removal the Court of Appeal shall have the same power to adjudicate on the proceedings as the High Court had.
+(3) Either party may, with the leave of the High Court or of the Court of Appeal, appeal to the Court of Appeal against any decision of the High Court on any case stated under the provisions of this section, and the provisions of section 144 of this Act, as far as they are applicable and with the necessary modifications, shall apply with respect to the appeal as if it were an appeal under that section.
+(4) On the removal of any case to the Court of Appeal or on an appeal to the Court of Appeal under this section, the decision of the Court of Appeal shall be final; and the same judgment shall be entered in the High Court, and the same execution and other consequences and proceedings shall follow thereon, as if the decision had been given in the High Court.
+
+### 78A Conviction not to be recorded for infringement offences
+(1) Notwithstanding any other provision of this or any other Act, where in proceedings for an infringement offence (whether being an offence for which an infringement notice has been issued or not) the defendant is found guilty of, or pleads guilty to, the offence and the Court would, but for this subsection, convict the defendant, the Court shall not convict the defendant but may order the defendant to pay such fine and costs and may make such other orders as the Court would be authorised to order or make on convicting the defendant of the offence.
+(2) Every reference in this or any other Act or in any regulation or bylaw to a conviction for an offence shall, in relation to an infringement offence where—be deemed to be a reference to the making of that order.
+  (a) An order has been made as referred to in subsection (1) of this section that the defendant pay a fine and costs; or
+  (b) An order is deemed by virtue of section 21(5) of this Act to have been made that the defendant pay a fine and costs,—
+
+### 78B Power to correct irregularities in proceedings for infringement offences
+(1) This section applies if a defendant is deemed to have been ordered, or is ordered, to pay a fine or costs or both under section 21 and—
+  (a) a District Court Judge or Registrar, on the application of the defendant, is satisfied, whether on the basis of a statutory declaration or evidence given before the Judge, that—
+    (i) the defendant is not a person to whom the infringement notice was issued or on whom the notice is deemed to have been served; or
+    (ii) the defendant did not in fact receive the reminder notice, or a copy of the notice of hearing, required to have been served on the defendant under section 21; or
+    (iii) some other irregularity occurred in the procedures leading up to the order for the fine or costs, or both; or
+    (iv) the defendant believed on reasonable grounds that he or she had requested a hearing under section 21, but this request was not acted on by the informant; or
+    (v) the defendant reasonably believed that he or she had been advised by the informant that action would not be taken under section 21(3); or
+    (vi) the defendant reasonably believed that he or she had been advised by the informant that further time for requesting a hearing would be allowed under section 21(6)(b), but action was taken under section 21(3) before that further time had expired; or
+    (vii) the defendant—
+      (A) had, in writing, requested further relevant information from the informant in relation to the infringement offence; and
+      (B) had made the request within a time that would reasonably enable the informant to respond before the earliest time at which the informant would be entitled to take action under section 21(3); and
+      (C) believed on reasonable grounds that the informant had not refused to provide the requested information and that action would not be taken under section 21(3) before that information had been provided; and
+      (D) was not provided with the information before action was taken under section 21(3); or
+  (b) the informant applies to a District Court Judge or Registrar to withdraw the reminder notice filed or deemed to have been filed under section 21.
+(2) The Judge or, subject to subsections (3) and (4), the Registrar may do one or more of the following:
+  (a) authorise the informant to serve a reminder notice on a person other than the defendant (being a person to whom the infringement notice was issued or on whom it was deemed to have been served):
+  (b) authorise the informant to serve on the defendant another copy of the reminder notice or the notice of hearing and, for that purpose, require the defendant to specify an address at which personal service, service by post, or service by either method may be effected:
+  (c) grant a hearing or rehearing of the matter, and proceed with the hearing or rehearing immediately or set it down for a later date:
+  (d) set aside or modify the order:
+  (e) make any other order as to costs or otherwise that the Judge or Registrar considers appropriate in the circumstances.
+(3) If a Registrar considering an application under subsection (1)(a) is satisfied that any of subparagraphs (i) or (iv) to (vii) of subsection (1)(a) applies, the Registrar must not exercise the power conferred by subsection (2)(a) or (b) except with the consent of the informant.
+(4) A Registrar may not exercise the power conferred by subsection (2)(d).
+(5) If a Judge or Registrar exercises a power under subsection (2)(a), (b), or (c), the order made or deemed to have been made against the defendant ceases to have effect and the Registrar must take appropriate steps to ensure that the order is not acted on.
+(6) If a defendant granted a hearing or rehearing under this section does not appear, the Court may, if it thinks fit, without hearing or rehearing the matter, direct that the original order be restored.
+
+## Part 3 — Enforcement of fines
+
+### 79 Interpretation
+In this Part of this Act, unless the context otherwise requires,—
+  - **Employer** includes, in relation to payments of the kind referred to in this section in the definition of the term salary or wages, the person or body making the payments
+  - **Fine** includes—
+    (a) Any sum of money adjudged or ordered to be paid by a conviction or order, whether described as a fine, or as costs, expenses, fees, or otherwise:
+    (b) Any prescribed costs, expenses, or fees payable in respect of the enforcement of any fine as defined in paragraph (a) of this definition:
+  - **Salary or wages** includes—
+    (a) A retiring allowance or pension or other payment of a similar nature:
+    (b) all payments of weekly compensation made by the Accident Compensation Corporation under the Injury Prevention, Rehabilitation, and Compensation Act 2001:
+    (c) A bonus or an incentive payment:
+    (d) A payment of commission:
+    (e) A payment in consideration of work performed under a contract for services:
+    (f) A benefit.
+
+### 80 Fines generally payable within 28 days
+Except as otherwise provided in this Act, every fine shall be paid within 28 days after the day on which it is imposed.
+
+### 81 Time to pay or payment by instalments
+(1) Where a fine is payable, the Court may make an order doing either or both of the following:
+  (a) Allowing a greater time than 28 days for payment:
+  (b) Allowing payment to be made by instalments.
+(2) Where a fine may be paid by instalments and default is made in the payment of any instalment, proceedings may be taken as if default had been made in the payment of all instalments then remaining unpaid.
+
+### 82 Statement of means
+(1) Where a Court, on the determination of a complaint, proposes to order that the defendant pay a fine, the Court shall, unless satisfied on the basis of information before the Court that the defendant has the financial ability to pay the fine or fines or that any document held in the Court contains a sufficiently accurate statement of the defendant's means, order that the defendant supply a statement of means before imposing the fine.
+(2) The Court may require such statement of means to be given orally or completed in writing.
+(3) For the purpose of having any statement of means given or completed, as the case may require, a Court may direct that a person be detained in the custody of the Court for such time, not exceeding 2 hours, as may be necessary to complete the statement of means.
+(4) The failure of any Court to make an order under subsection (1) of this section shall not affect the validity of any other order of the Court.
+(5) The provisions of this section shall not prevent a Court making an order that the defendant pay a fine where—
+  (a) The defendant is not present in Court; or
+  (b) The fee or fine payable is fixed by law.
+
+### 83 Order for immediate payment of fine
+(1) Where a fine is to be paid and—the Court may order the defendant to pay the fine immediately.
+  (a) The Court is satisfied that the defendant has sufficient means to pay the fine immediately; and
+  (b) Either—
+    (i) The defendant has no fixed place of residence; or
+    (ii) The Court is satisfied that, by reason of the gravity of the offence, the character of the defendant, or other special circumstances, the fine should be paid immediately,—
+(2) Where any order under subsection (1) of this section is not complied with, the Court may—
+  (a) Direct that a warrant to seize property be issued in the prescribed form; or
+  (b) Subject to subsection (3A) of this section, direct that a warrant of commitment be issued in the prescribed form for the imprisonment of the defendant for a period not exceeding the maximum prescribed by section 90 of this Act; or
+  (c) Direct that the Registrar issue a deduction notice requiring a bank to deduct the amount due from a sum payable or to become payable to the defendant.
+(3) Any warrant of commitment directed to be issued under subsection (2)(b) of this section may be issued by any District Court Judge and may be withdrawn at any time by any District Court Judge.
+(3A) A District Court Judge shall not issue a warrant of commitment under this section unless—
+  (a) The defendant has had the same opportunity for legal representation as is available to a defendant who is liable to a sentence of imprisonment under section 30 of the Sentencing Act 2002; and
+  (b) The defendant is before a District Court Judge.
+(4) Where a Court makes an order under subsection (1) of this section, or gives a direction under subsection (2) of this section, a record of the order or direction and the grounds on which it was made or given shall be entered in the Criminal Records required to be kept under section 71 of this Act.
+
+### 84 Notice of fine
+(1) Where, on the determination of an information or complaint, the defendant is ordered to pay or becomes liable to pay a fine and no order is made under section 83(1) of this Act for immediate payment, the Registrar shall, as soon as practicable, deliver to the defendant or send to the defendant by ordinary post addressed to the defendant's last known place of residence or business, a notice of the fine.
+(2) Every notice given under subsection (1) of this section shall set out—
+  (a) The amount of the fine:
+  (b) The date on or before which payment of the fine is to be made:
+  (c) The times and places at which payment of the fine may be made:
+  (d) The defendant's rights of appeal:
+  (e) That a Registrar or bailiff may enter into an arrangement with the defendant for an extension of time to pay, whether by instalments or otherwise:
+  (f) A general description of the action that may be taken if the fine is not paid.
+(3) Failure to comply with this section shall not of itself invalidate any subsequent proceeding.
+(4) Notwithstanding the requirements of this section, it shall be the responsibility of the defendant to take all necessary steps to find out the decision of the Court, the defendant's obligations under that decision, and the defendant's rights in relation to that decision.
+(5) It shall not be necessary to comply with the requirements of this section in any case where a fine is paid in full before the notice is delivered or sent.
+
+### 85 Final notice of fine
+(1) Where—the Registrar shall deliver to the defendant or send to the defendant by ordinary post addressed to the defendant's last known place of residence or business, a final notice of the fine.
+  (a) A defendant is liable to pay a fine; and
+  (b) No order has been made under section 81 or section 83 of this Act; and
+  (c) No arrangement has been entered into under section 86 or section 86A; and
+  (d) The fine remains unpaid on the expiry of a period of 21 days beginning with the day on which it was imposed—
+(2) The notice given under subsection (1) of this section shall—
+  (a) Set out the matters specified in section 84(2) of this Act:
+  (b) Notify the defendant that if the fine is not paid within 28 days after the day on which it was imposed, and no arrangement has been entered into under section 86 or section 86A, enforcement action may then be commenced by—and must set out in general terms the meaning and effects of those orders and that notice:
+    (i) An order to seize property; or
+    (ii) An attachment order; or
+    (iii) A deduction notice,—
+  (c) Notify the defendant that, instead of commencing enforcement action as described in paragraph (b) of this subsection, the Registrar may issue a warrant to arrest the defendant and have the defendant brought before a District Court Judge with a view to having a substitute sentence imposed.
+(3) Failure to comply with this section shall not of itself invalidate any subsequent proceeding.
+
+### 86 Extension of time to pay
+(1) If a fine is payable and is not subject to an order for immediate payment, the Registrar may enter into an arrangement with a defendant providing for either or both of the following:
+  (a) Allowing a greater time for payment:
+  (b) Allowing payment to be made by instalments.
+(2) If the Registrar enters into an arrangement under subsection (1), the period for which the fine remains unpaid must not exceed 5 years after the date on which the arrangement is entered into.
+(3) Before the Registrar enters into an arrangement under subsection (1), the Registrar may consider any information received from any source about the defendant's financial position.
+(4) If a fine may be paid by instalments and default is made in the payment of any instalment, proceedings may be taken as if default had been made in the payment of all instalments then remaining unpaid.
+
+### 86A Bailiff may arrange extension of time to pay
+(1) If a fine is payable and is not subject to an order for immediate payment, a bailiff may enter into an arrangement with a defendant providing for either or both of the following:
+  (a) Allowing a greater time for payment:
+  (b) Allowing payment to be made by instalments.
+(2) If a bailiff enters into an arrangement under subsection (1),—
+  (a) The period for which the fine remains unpaid must not exceed 5 years after the date on which the arrangement is entered into; and
+  (b) The bailiff must, as soon as practicable, notify the Registrar of that arrangement.
+(3) When the Registrar is notified of an arrangement, the Registrar may, after taking into account any information received from any source about the defendant's financial position, cancel the arrangement within 7 days after being notified of that arrangement.
+(4) If a Registrar does not cancel an arrangement,—
+  (a) The arrangement comes into force 8 days after the Registrar was notified of that arrangement; and
+  (b) The defendant may make payments under the arrangement.
+(5) Subsection (4)(b) does not prevent the defendant from making payments in respect of a fine if those payments are not part of the arrangement entered into under subsection (1).
+(6) If a fine may be paid by instalments and default is made in the payment of any instalment, proceedings may be taken as if default had been made in the payment of all instalments then remaining unpaid.
+
+### 86B Registrar may vary, suspend, or cancel arrangement for extension of time to pay fine or attachment order
+(1) A Registrar may vary, suspend, or cancel an arrangement extending the time to pay a fine, or an attachment order, if the Registrar has reason to believe that—
+  (a) the defendant has, for the purpose of entering into the arrangement, or in connection with the making of the attachment order, supplied false or misleading information about the defendant's financial position; or
+  (b) the defendant's financial position has changed significantly since the date on which—
+    (i) the arrangement was entered into; or
+    (ii) the attachment order was made.
+(2) A Registrar may vary, suspend, or cancel an arrangement extending the time to pay a fine if another fine that is not subject to the arrangement is imposed on the defendant and—
+  (a) the defendant agrees in writing to the variation, suspension, or cancellation proposed by the Registrar; or
+  (b) the defendant defaults in the payment of the subsequent fine, and—
+    (i) the Registrar is unable to contact the defendant; or
+    (ii) the Registrar contacts the defendant but is unable to reach any agreement with the defendant as to how the subsequent fine is to be paid.
+(3) A Registrar may vary, suspend, or cancel an attachment order, if another fine that is not subject to the attachment order is imposed on the defendant and the defendant defaults in the payment of the subsequent fine, and—
+  (a) the Registrar is unable to contact the defendant; or
+  (b) the Registrar contacts the defendant, but is unable to reach any agreement with the defendant as to how the subsequent fine is to be paid.
+(4) Before exercising the power in subsection (1) on the ground that subsection (1)(b) applies, the Registrar must consult with the chief executive of any appropriate government department or other government body that the Registrar has reasonable grounds to believe has information that is relevant to the defendant's financial position.
+(5) If subsection (1), (2)(b)(ii), or (3)(b) applies, before varying, suspending, or cancelling an arrangement extending the time to pay or the attachment order, as the case may be, the Registrar must—
+  (a) serve on the defendant a written notice—
+    (i) setting out the action that the Registrar proposes to take and the reasons for the action; and
+    (ii) indicating that the defendant may make a written submission to the Registrar as to why the Registrar should not take the proposed action and that this submission must be received by the Registrar within 10 working days after the date of the notice; and
+  (b) consider any written submissions received from the defendant within the 10-working day period referred to in paragraph (a)(ii).
+(6) A notice under subsection (5) is sufficiently served if—
+  (a) it is delivered to the defendant; or
+  (b) it is sent to the defendant by ordinary post to the defendant's last known place of residence or business.
+(7) The variation, suspension, or cancellation of an arrangement extending the time to pay takes effect,—
+  (a) where subsections (1) or (2)(b)(ii) apply,—
+    (i) if no written submissions are received by the Registrar within the 10-working day period referred to in subsection (5)(b), on the expiry of that period; or
+    (ii) if written submissions are received by the Registrar within the 10-working day period referred to in subsection (5)(b) and the Registrar decides to proceed with the proposed action, on a date specified by the Registrar in a further written notice served on the defendant; or
+  (b) where subsection (2)(a) applies, on the date that the Registrar receives the written agreement of the defendant under that subsection; or
+  (c) where subsection (2)(b)(i) applies, on a date specified by the Registrar.
+(8) If the Registrar suspends or cancels an attachment order in accordance with this section,—
+  (a) the Registrar must serve a notice of the suspension or cancellation on the employer to whom it relates; and the provisions relating to service in subsections (1) and (2) of section 104 apply with any necessary modifications; and
+  (b) the suspension or cancellation takes effect when the notice is served on the employer in accordance with this subsection.
+(9) If the Registrar varies an attachment order under this section, the Registrar must issue a new attachment order under section 87 in place of the existing order.
+(10) In this section and sections 87 and 87AA, arrangement extending the time to pay a fine means an arrangement that—
+  (a) provides for either or both of the following:
+    (i) allowing a defendant a greater time to pay a fine:
+    (ii) allowing a defendant to pay a fine by instalments; and
+  (b) is entered into by—
+    (i) a Registrar under section 86; or
+    (ii) a bailiff under section 86A (in which case the arrangement must have come into force in accordance with that section).
+
+### 87 Action where fine not paid or where arrangement or attachment order cancelled
+(1) If the defendant defaults in the payment of any fine or a Registrar cancels an arrangement extending the time to pay a fine, or an attachment order, in accordance with section 86B, the Registrar may—
+  (a) issue a warrant to seize property; or
+  (b) make an attachment order attaching any salary or wages payable or to become payable to the defendant; or
+  (c) issue a deduction notice requiring a bank to deduct the amount due from a sum payable or to become payable to the defendant.
+(2) Enforcement procedures commenced under this section must cease on payment of the unpaid amount of the fine.
+(3) The powers conferred by this section may not be exercised by a Registrar who is a constable.
+
+### 87AA Power to obtain information in respect of beneficiaries
+(1) If—the Registrar may, by notice in writing, require the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 (the chief executive) to provide the Registrar with the information specified in subsection (2) that is known to the chief executive.
+  (a) The Registrar is—
+    (i) Considering whether to make an attachment order under section 87(1)(b) in respect of salary or wages payable or to become payable to a defendant; or
+    (ia) considering whether to vary, suspend, or cancel an arrangement extending the time to pay a fine or an attachment order under section 86B; or
+    (ii) Assessing the amount of the protected earnings rate referred to in section 105(3); and
+  (b) The salary or wages of the defendant includes a benefit; and
+  (c) The Registrar wishes to verify information supplied by the defendant in respect of that benefit, or obtain information relating to the defendant in respect of that benefit, or obtain and verify that information,—
+(2) The information referred to in subsection (1) is—
+  (a) The amount of any benefit that is paid to the defendant:
+  (b) The amount of any attachment order or deduction notice that applies to the defendant and is made or given or issued under any of the following Acts:
+    (i) The Social Security Act 1964:
+    (ii) The Family Proceedings Act 1980:
+    (iii) The Child Support Act 1991:
+    (iv) The Tax Administration Act 1994:
+  (c) Any amount that is being recovered from the defendant under section 86 of the Social Security Act 1964:
+  (d) The composition of the defendant's family, including the number of family members who are dependent on the defendant.
+  (e) the residential address and residential telephone number of the defendant:
+  (f) the type of any benefit that is paid to the defendant:
+  (g) the unique number assigned to any benefit that is paid to the defendant.
+(3) The chief executive must comply with any request under subsection (1)—
+  (a) Within a reasonable period; and
+  (b) In the manner specified in the notice; and
+  (c) Without imposing a charge.
+(3A) If the defendant has died and the chief executive is aware of that fact, the chief executive must advise the Registrar accordingly on receipt of a notice under subsection (1).
+(4) This section does not apply if the Registrar is directed under section 88(3)(a) to issue a warrant to seize property or to make an attachment order or to issue a deduction notice.
+
+### 87A Publication of name of fines defaulter
+(1) This section applies if—
+  (a) A defendant has been ordered by a Court (other than a Youth Court) to pay any fine; and
+  (b) The defendant has not made any payment in respect of the fine for at least 3 months before the date on which the Registrar proposes to arrange the publication of a notice under subsection (2) of this section relating to the defendant; and
+  (c) The defendant owes not less than $500 in unpaid fines; and
+  (d) Either the fine is not subject to any arrangement under section 81 or section 86 or section 86A of this Act allowing payment of the fine over a specified period or the fine is subject to such an arrangement but the defendant is not for the time being observing the terms of the arrangement; and
+  (e) No name suppression order was made in respect of the defendant in the proceedings in which the fine was imposed; and
+  (f) The Registrar has been unable to locate the defendant after using reasonably available sources of information; and
+  (g) The Registrar has confirmed the identity of the defendant by checking information held in relation to the defendant on any database accessible to the Registrar; and
+  (h) The Registrar has no reason to suspect that the defendant has died.
+(2) If this section applies, the Registrar may cause notice of the fines defaulter to be published in any newspaper and the notice may include one or more of the following details:
+  (a) The name of the defendant:
+  (b) The defendant's current or last known address:
+  (c) The defendant's age (in years).
+(3) A Registrar who causes the publication under subsection (2) of this section of any particulars relating to a defendant shall take all reasonable steps to ensure that the particulars published are accurate and current.
+
+### 87B Deduction of fines
+(1) If—
+  (a) A fine is payable by a defendant and the defendant is, by virtue of an order made under section 81(1) or section 83(1) or an arrangement made under section 86 or section 86A or a direction given under section 88(3)(fb), ordered to pay the fine immediately or allowed a greater time for payment or allowed to make payment by instalments; and
+  (b) The defendant either—the Registrar may issue, in writing, a deduction notice requiring a bank to deduct the amount due from a sum that is payable or becomes payable to the defendant, until the deduction notice is revoked in accordance with section 87C or discharged under section 87H.
+    (i) Fails to comply with the order or arrangement or direction; or
+    (ii) Refuses, without reasonable excuse, to enter into such an arrangement,—
+(2) The Registrar must specify in the deduction notice—
+  (a) Whether the deduction is to be made as a lump sum or by instalments; and
+  (b) the time or times by which the bank must pay the amounts deducted; and
+  (ba) that the amounts deducted must be paid to a person, or into a trust account, in accordance with section 208; and
+  (c) The date on which the deduction notice takes effect, which date is not earlier than the date on which it was issued.
+(2A) The deduction notice issued by the Registrar must specify that if on any occasion the amount of a deduction required to be made is greater than the amount that is payable or becomes payable to the defendant, the amount to be deducted on that occasion is the amount that is payable or becomes payable to the defendant.
+(3) The Registrar must issue a copy of the deduction notice to the defendant at his or her usual or last known place of residence or business.
+(4) Every bank to which a deduction notice is issued must, on request, issue to the defendant a statement in writing of any amount deducted, and of the purpose for which the deduction was made.
+(5) If any question arises in any case as to the priority to be accorded to deduction notices issued under this section, the following have priority over those deduction notices:
+  (a) One or more attachment orders or deduction notices made or given or issued under any of the following Acts:
+    (i) The Social Security Act 1964:
+    (ii) The Family Proceedings Act 1980:
+    (iii) The Child Support Act 1991:
+    (iv) The Tax Administration Act 1994:
+  (b) The recovery of payments under section 86 of the Social Security Act 1964.
+(6) Every deduction notice is subject to section 87I.
+
+### 87C Revocation of deduction notices
+(1) The Registrar may revoke a deduction notice at any time by giving notice in writing to the bank to which the deduction notice was issued, or by issuing a new deduction notice.
+(2) At the request of the defendant, the Registrar must, in the manner specified in subsection (1), revoke the deduction notice if the Registrar is satisfied that the total amount due has been paid.
+(3)
+(4)
+
+### 87D Fine to be treated as being paid
+(1) All amounts deducted in accordance with a deduction notice are to be treated as having been paid by the defendant in satisfaction of the defendant's liability to pay the fine.
+(2) If any amounts are deducted in accordance with a deduction notice, the defendant's liability to pay the fine is not satisfied until the total amount due has been paid.
+
+### 87E Deduction notices issued on banks
+(1) When a deduction notice is issued to a bank, money held by the bank to the credit of the defendant is subject to the provisions of section 87B(1).
+(2) If a bank makes a deduction required by a deduction notice, neither the defendant nor any other person concerned has any claim against that bank, or the Crown, in respect of that deduction.
+
+### 87F Meaning of certain terms relating to banks
+(1) For the purposes of sections 87C and 87E, money held by the bank to the credit of the defendant includes interest on any money that is on deposit or deposited with a bank to the credit of the defendant, whether or not—
+  (a) The deposit or depositing is on current account:
+  (b) The money is to be at interest at a fixed term or without limitation of time:
+  (c) The defendant has made an application to withdraw or uplift the money.
+(2) For the purposes of subsection (1), money on deposit or deposited with a bank to the credit of the defendant includes money—
+  (a) That is held in a joint bank account in the name of the defendant and 1 or more other persons; and
+  (b) That can be withdrawn from the account by or on behalf of the defendant without a signature being required at the time of that withdrawal from, or on behalf of, the other person or persons.
+
+### 87G Offences in relation to deduction notices
+A person commits an offence and is liable on summary conviction to a fine not exceeding $2,000 who, without reasonable excuse,—
+  (a) Fails to make any deduction required by a deduction notice; or
+  (b) Fails, after making a deduction, to pay the amount deducted to the Registrar within the time specified in the notice.
+
+### 87H Variation or discharge of deduction notices
+(1) If a bank to which a deduction notice is issued or a defendant considers that a deduction notice has been issued in error, or contains an error, the bank or defendant may bring the matter to the attention of the Registrar specified in the notice.
+(2) If the matter is not rectified to the satisfaction of that bank or defendant (as the case may be) within 5 working days after the date on which that bank or defendant brings the matter to the attention of that Registrar, the bank or defendant may apply ex parte to the Court for the variation or discharge of the notice.
+(3) If the Court is satisfied that an error has been made and that the notice ought to be varied or discharged, the Court may vary or discharge the notice, and make any other orders that it considers just in the circumstances.
+(4) The variation or discharge takes effect when notice of it is served on the bank or defendant (as the case may be) in accordance with section 87J.
+
+### 87I Penalty for late deductions
+(1) If a bank to which a deduction notice is issued fails, without reasonable excuse, to—the bank is liable to pay to the Registrar a penalty calculated in accordance with subsection (2).
+  (a) Deduct the full amount or part of the amount required by the notice; or
+  (b) Pay the full amount or part of the amount required by the notice to the Registrar by the time specified in the notice,—
+(2) The penalty referred to in subsection (1) must be calculated as follows:
+  (a) On the amount in default, the greater of 10% of that amount or $5:
+  (b) For each additional month or part of a month during which the amount in default or any part of that amount has not been deducted or has not been paid to the Registrar, a further penalty of the greater of 2% of that amount or part of that amount or $1.
+(3) If a penalty is payable by a bank under subsection (1), the Registrar, in his or her discretion, may remit the whole or part of that penalty if he or she is satisfied that—
+  (a) The failure to make the deduction or make the payment was due to circumstances reasonably beyond the bank's control; or
+  (b) In all the circumstances, the imposition of that penalty would be inequitable.
+(4) If the Registrar decides to remit the whole or part of any penalty and any amount of the penalty has been paid under this section, the Registrar may refund any excess.
+(5) Any amount payable to the Registrar under subsection (1) is a debt due to the Crown and may be recovered from the bank by the Crown in any Court of competent jurisdiction.
+
+### 87J Giving of notices
+(1) A notice given to a person under any of sections 87B to 87I must be given by delivering it to that person—
+  (a) Personally; or
+  (b) By leaving it at that person's usual or last known place of residence or business; or
+  (c) By posting it in an envelope addressed to that person at that place of residence or business.
+(2) If the notice is sent to the person by post, then, in the absence of evidence to the contrary,—
+  (a) The notice must be treated as having been received by that person on the fourth day after the date on which it is posted; and
+  (b) In proving the delivery of that notice, it is sufficient to prove the envelope was properly addressed and posted.
+
+### 88 Action where fine remains unpaid
+(1) This section applies if—
+  (a) the Registrar has taken enforcement action under section 87 but the fine remains unpaid; or
+  (b) the Registrar is satisfied that the defendant does not have the means to pay the fine; or
+  (c) the Registrar is satisfied that—
+    (i) reasonable steps have been taken to locate the defendant but the defendant has not been located and therefore enforcement action would be unlikely to be effective; or
+    (ii) for any other reason enforcement action would be unlikely to be effective.
+(1A)
+(1B)
+(2) The Registrar may—
+  (a) order that the defendant be brought before the Registrar; or
+  (b) refer the matter to a District Court Judge or Community Magistrate with a report on the circumstances of the case.
+(2A) If the Registrar refers a matter to a District Court Judge or a Community Magistrate, the Registrar may order that the defendant be brought before the Judge or Community Magistrate.
+(2B) For the purposes of subsection (2)(a) or subsection (2A) the Registrar may, if necessary, issue a warrant for the defendant's arrest.
+(2C) Without limiting any other provision of this Act, a warrant for the defendant's arrest under subsection (2B) may be in the form of a computer printout of information entered by a Registrar into a computer system accessible to the police or a bailiff, and the following provisions apply in relation to every such warrant:
+  (a) information about a defendant that is so entered by the Registrar may be printed out by a sworn member of the police or a bailiff, and for all purposes constitutes a warrant for the arrest of the defendant:
+  (b) the absence of any signature on the printout does not affect its validity as a warrant:
+  (c) the warrant is valid for a period of 7 days beginning on the date of its printing, and the warrant then lapses:
+  (d) at any time and from time to time after a warrant lapses under paragraph (c),—
+    (i) the Registrar may re-enter the particulars into the same computer system or enter the particulars into any other computer system available to the police or a bailiff:
+    (ii) a sworn member of the police or a bailiff may obtain a further printout of the original information entered by the Registrar or obtain a printout of the re-entered information or of the information entered into the other computer system, and every such printout constitutes a fresh warrant for the arrest of the defendant.
+(2D) A warrant issued under this section may be executed by a sworn member of the police or by a bailiff.
+(2E) If a defendant is arrested under a warrant issued for the purpose of subsection (2)(a), the following provisions apply:
+  (a) the defendant must be brought before the Registrar:
+  (b) the defendant is bailable as of right:
+  (c) section 46 of this Act and Part 3 of the Bail Act 2000 apply with any necessary modifications as if the appearance before the Registrar constituted part of the hearing of a charge:
+  (d) for the purpose of any bail application by the defendant, if the defendant cannot practicably be brought immediately before the Registrar, a District Court Judge or a Community Magistrate, any member of the police or a bailiff may take the bail bond of the defendant and Parts 1 to 3 of the Bail Act 2000 apply with necessary modifications as if the bail bond were taken by a member of the police under section 21(1) of the Bail Act 2000.
+(2F) If a defendant is arrested under a warrant issued for the purpose of subsection (2A), the following provisions apply:
+  (a) the defendant must be brought before a District Court Judge or a Community Magistrate or, if neither a District Court Judge nor a Community Magistrate is available, the Registrar:
+  (b) where the defendant is brought before the Registrar, the Registrar must appoint a time and place for the defendant to appear before a District Court Judge or a Community Magistrate:
+  (c) the defendant is bailable as of right:
+  (d) section 46 of this Act and Part 3 of the Bail Act 2000 apply with necessary modifications as if the appearance before the Registrar or a District Court Judge or a Community Magistrate constituted part of the hearing of a charge:
+  (e) if the defendant cannot practicably be brought immediately before a District Court Judge or a Community Magistrate or the Registrar, any member of the police or a bailiff may take the bail bond of the defendant and Parts 1 to 3 of the Bail Act 2000 apply with necessary modifications as if the bail bond were taken by a member of the police under section 21(1) of the Bail Act 2000.
+(2G) If a defendant is brought before a Registrar under subsection (2)(a), the Registrar may examine the defendant as to his or her financial position and may—
+  (a) invoke one or more of the enforcement actions in section 87; or
+  (b) enter into an arrangement with the defendant under section 86; or
+  (c) if the Registrar is satisfied that neither of the actions described in paragraphs (a) or (b) will be effective, refer the defendant to a District Court Judge or a Community Magistrate with a report on the case, in which case subsections (2A) to (2D) and subsection (2F) apply.
+(3) Subject to subsection (3AA) of this section, the District Court Judge or Community Magistrate may, after considering the report of the Registrar, and the financial position of the defendant (whether determined from any financial statement prepared by the defendant or from other sources)—
+  (a) Refer the matter to the Registrar with a direction that one or more of the enforcement procedures referred to in section 87(1) of this Act, as specified in the direction, be invoked; or
+  (b) Subject to section 106E of this Act, direct that a warrant of commitment in the prescribed form be issued; or
+  (ba)
+  (bb)
+  (c) subject to sections 55 to 80 of the Sentencing Act 2002 and section 106E of this Act, sentence the defendant to community work; or
+  (d)
+  (e)
+  (f) Direct that action be taken under paragraph (a) or paragraph (b) of this subsection in respect of a lesser amount than the fine due; or
+  (fa) if the amount that the defendant owes in respect of 1 unpaid fine, or in total in respect of more than 1 unpaid fine, is $5,000 or more, refer the matter to the Registrar with a direction that action be taken under section 96A of the District Courts Act 1947 in relation to 1 or all of the fines making up the total owing by the defendant as if the fine or fines were an order for the payment of money and as if the Registrar had obtained the order; or
+  (fb) Direct that a greater time for payment of the fine be allowed subject to such conditions as may be directed by the Judge or Community Magistrate; or
+  (g) Direct that no further enforcement proceedings be taken in respect of the fine for such period or subject to such conditions as may be directed by the Judge or Community Magistrate; or
+  (h) Remit the fine or a part of the fine.
+(3AAA) No Community Magistrate may direct, under subsection (3)(b), the issue of a warrant of commitment; but, in any case where a Community Magistrate considers the issue of such a warrant to be appropriate, the Community Magistrate must refer the matter to a District Court Judge, in which case sections 45 to 59 of this Act, so far as they are applicable and with the necessary modifications, apply.
+(3AAB)
+(3AA) Notwithstanding anything in subsection (3) of this section, where—a period of imprisonment must not be imposed under subsection (3) of this section on the defendant in respect of the fine.
+  (a) The fine was imposed in respect of a traffic offence (as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989) not punishable by imprisonment; and
+  (b) At the date of the commission of the offence, the defendant was a young person within the meaning of that Act,—
+(3A) Where a District Court Judge or Community Magistrate exercises any power conferred by subsection (3) of this section and considers it appropriate to do so, he or she may also make an order under subsection (9) of this section for the return of the defendant.
+(4)
+(5) A warrant of commitment, or a sentence of community work, may be issued or imposed under this section notwithstanding that the defendant was not liable to be imprisoned on the determination of the information or complaint in respect of which the fine was imposed.
+(6) Any warrant of commitment directed to be issued under this section may be issued by any District Court Judge and may be withdrawn at any time by any District Court Judge.
+(7) Where any direction is given under subsection (3)(f) of this section, the difference between the amount due under the fine and the amount in respect of which action is directed to be taken under that provision shall cease to be payable and no proceedings shall be taken or continued for its recovery.
+(8) Where a District Court Judge or Community Magistrate makes any order (other than a direction for the issue of a warrant of commitment) under this section, the Judge or Community Magistrate may postpone the issue or defer the operation of the order for such period and subject to such conditions as he or she may direct.
+(9) Where a District Court Judge or Community Magistrate makes any order (other than an order that directs the issue of a warrant of commitment) under this section, and considers it appropriate to do so, he or she may also issue an order for the return of the defendant; but the order shall not be executed until such time as the defendant ceases to comply with any of the conditions of the order, including (without limitation) the making of periodic payments due under an attachment order.
+(10) An order for the return of the defendant issued under subsection (9) of this section may be executed by a bailiff.
+(11) Where a fine is being paid by attachment order, no order issued under subsection (9) of this section for the return of a defendant shall be executed until such time as the Registrar has confirmed with the employer that no periodic payments or payments have been made and the reason why no such payment or payments have been made.
+(12) Where a defendant is detained pursuant to an order issued under subsection (9) of this section, the provisions of subsection (2) of this section shall apply.
+
+### 88A Charging orders
+(1) If, under section 88(3)(fa), a District Court Judge refers a matter to the Registrar with a direction that action be taken under section 96A of the District Courts Act 1947, then, in respect of any proceedings commenced by the Registrar under that direction,—
+  (a) Section 66 of the District Courts Act 1947 and rules 586 to 608 of the District Courts Rules 1992 apply so far as practicable to those proceedings; and
+  (b) In so far as it is not practicable for any provision of section 66 or those rules to be applied to those proceedings, the Registrar may apply to a District Court Judge for directions; and
+  (c) The District Court Judge may give such directions as he or she thinks best calculated to promote the ends of justice.
+(2) If the matter is removed into the High Court, the High Court Rules apply so far as practicable to those proceedings.
+
+### 88B Remission of fine
+(1) The Registrar may make an order remitting any fine if—
+  (a) The amount outstanding is $25 or less; and
+  (b) The fine was imposed at least 3 years before the date on which the Registrar makes the order remitting the fine; and
+  (c) In the case of a fine that includes reparation or compensation to another person, the Registrar has—
+    (i) Obtained the consent of the other person to remit the fine; or
+    (ii) Made reasonable efforts to find the other person and obtain his or her consent, and has not been able to find that person and obtain his or her consent.
+(2) The Registrar may make an order remitting any fine imposed by, or resulting from the enforcement of, an order deemed to have been made, or made, under section 21(5), (5A), or (9) if the Registrar is satisfied that the defendant is dead and that the fine cannot be recovered from the defendant's estate.
+
+### 89 Rights of representation and appeal
+(1) Every defendant attending before a District Court Judge or Community Magistrate pursuant to any provision of section 88 is entitled to be represented by a barrister or solicitor.
+(2) Where a defendant is sentenced to community work under section 88(3) or is imprisoned pursuant to a warrant of commitment issued under that provision,—
+  (a) The defendant has, if sentenced by a District Court Judge, the same right to appeal under section 115 as if the defendant had been convicted on an information or complaint; and
+  (b) The defendant has, if sentenced by a Community Magistrate, a right of appeal under section 114A.
+(3) On any such appeal under section 115 by a defendant sentenced by a District Court Judge, the High Court may, in addition to its powers under section 121, remit the matter to a District Court Judge to be dealt with as that Judge thinks fit under section 88(3), except that that Judge must not impose a sentence the same as that appealed against.
+
+### 90 Scale of imprisonment for non-payment of fine
+The period of imprisonment imposed under this Act in respect of the non-payment of any fine or where the sale of any property under any process does not produce sufficient proceeds to pay the fine, shall be such period as in the opinion of the Court or District Court Judge fixing the period will satisfy the justice of the case, not exceeding,—
+  (a) In the case of an offence that was punishable by imprisonment, the maximum term of imprisonment to which the defendant was liable on the conviction, or a period of 1 year, whichever is the lesser:
+  (b) In any other case, a period of 3 months.
+
+### 91 Defendant on substituted sentence to be discharged on payment of fine
+(1) Where a defendant is, on the non-payment of a fine, imprisoned on a warrant of commitment and the manager of the prison in which the defendant is imprisoned receives written notice from a Registrar that the fine in respect of which the warrant was issued has been paid, the manager shall discharge the defendant from the prison unless the defendant is also in custody for some other reason.
+(2)
+(3) If a defendant is, on the non-payment of a fine, subject to a sentence of community work and a probation officer receives written notice from a Registrar that the fine in respect of which the sentence was imposed has been paid, the probation officer must direct that the defendant is no longer subject to that sentence in respect of the fine.
+(4)
+(5) On completion of a term of imprisonment or any sentence referred to in any of subsections (1) to (4) of this section, the fine in respect of which the term of imprisonment or the sentence was imposed shall be deemed to be remitted.
+
+### 92 Effect of warrant of commitment
+A warrant of commitment issued under section 83(2)(b) or section 88(3)(b) of this Act shall require that the defendant be imprisoned in some prison for such time as the District Court Judge considers appropriate (not exceeding the appropriate maximum period specified in section 90 of this Act) unless the fine or any lesser amount directed by the Judge under section 88(3)(f) of this Act is sooner paid.
+
+### 93 Warrant to seize property
+(1) Where any warrant to seize property is issued under section 83(2)(a), section 87(1)(a), or section 88(3)(a) of this Act, the warrant shall apply so as to authorise the seizure of any property apparently property of the defendant.
+(2) Every warrant to seize property shall contain full details of the fine and the amount remaining unpaid in respect of the fine.
+(3) Without limiting any other provision of this Act, a warrant to seize property referred to in subsection (1) may be in the form of a computer printout of information entered by a Registrar into a computer system accessible to the police or a bailiff, and the following provisions apply in relation to every such warrant:
+  (a) information about a defendant that is so entered by the Registrar may be printed out by a sworn member of the police or a bailiff, and for all purposes constitutes a warrant to seize property:
+  (b) the absence of any signature on the printout does not affect its validity as a warrant:
+  (c) the warrant is valid for a period of 28 days beginning on the date of its printing, and the warrant then lapses:
+  (d) at any time and from time to time after a warrant lapses under paragraph (c),—
+    (i) the Registrar may re-enter the particulars into the same computer system or enter the particulars into any other computer system available to the police or a bailiff:
+    (ii) a sworn member of the police or a bailiff may obtain a further printout of the original information entered by the Registrar or obtain a printout of the re-entered information or of the information entered into the other computer system, and every such printout constitutes a fresh warrant to seize property.
+
+### 94 Seizure and delivery of property
+(1) For the purpose of executing any warrant to seize property any bailiff or constable may, after producing the warrant to any person in apparent charge of the premises, enter on any premises occupied by or under the control of the defendant, by force if necessary, if that bailiff or constable has reasonable cause to believe that property in respect of which the warrant is issued is on the premises.
+(2) Where the fine is paid on the production of a warrant to seize property, the payment shall be recorded on the warrant and the warrant shall be of no further effect.
+(3) Without limiting anything in section 94B of this Act, any bailiff or constable seizing a motor vehicle under a warrant to seize property may in the first place immobilise the vehicle by attaching to the vehicle any device designed for that purpose.
+(4) Where property is seized under a warrant to seize property, the bailiff or constable shall forthwith deliver to the defendant, or leave for the defendant in a conspicuous place at the premises from which the property is seized, a notice in the prescribed form—
+  (a) Listing all of the property seized; and
+  (b) Directing the defendant to notify the Registrar, within 7 days after the date of the seizure, whether the property listed is property of the defendant and the name and address of any other person who has an interest in the property as owner or otherwise.
+(5) All property seized under a warrant to seize property shall be delivered by the bailiff or constable to the Registrar or to any person or place specified for the purpose by the Registrar, and the Registrar must ensure that the property is retained until the fine is paid, or the property is sold, or a District Court Judge determines otherwise upon the hearing of a claim in respect of the property.
+
+### 94A Personal property securities register to be checked
+(1) If a motor vehicle is seized under a warrant to seize property, the Registrar must, on the day after the vehicle is seized, check whether a financing statement has been registered in respect of the vehicle on the personal property securities register kept under the Personal Property Securities Act 1999.
+(2) If a financing statement has been registered, the Registrar must forthwith notify the person named as the secured party in the financing statement—
+  (a) that the Registrar may, under section 95, sell the vehicle after the expiration of 7 days from the date of seizure, if the fine remains unpaid and no claim has been made by a person other than the defendant in respect of the property:
+  (b) of that person's rights under sections 96 and 97.
+
+### 94B Immobilisation of motor vehicles
+(1) Any bailiff or constable executing a warrant to seize property may, instead of seizing any motor vehicle, immobilise the vehicle by attaching to the vehicle any device designed for the purpose, pending the payment of the unpaid fine.
+(2) No vehicle shall be immobilised pursuant to subsection (1) of this section unless—
+  (a) At the time of its immobilisation, it is on private property; or
+  (b) At the time of its immobilisation, it is in a public place and the bailiff or constable is satisfied that immobilising the vehicle will not cause undue inconvenience to other persons.
+(3) Where any motor vehicle is immobilised pursuant to subsection (1) of this section, any bailiff or constable—and section 94(5) of this Act shall apply accordingly.
+  (a) May at any time seize the vehicle:
+  (b) Shall, on the direction of a Registrar, seize the vehicle—
+(4) Where, 14 days after the date of the immobilisation of any motor vehicle pursuant to subsection (1) of this section, the fine remains unpaid, the Registrar shall direct a bailiff or constable to seize the vehicle.
+(5) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who, without reasonable excuse, tampers with, removes, or attempts to remove a device attached to a vehicle pursuant to subsection (1) of this section.
+
+### 95 Sale of property seized
+Any property seized under a warrant to seize property may, after the expiration of 7 days from the date of seizure, if the fine remains unpaid and no claim has been made by a person other than the defendant in respect of the property, be sold at public auction or in such other manner as may be directed by a District Court Judge or the Registrar, and the purchaser of any property so sold shall, by virtue of this section, obtain good title to the property notwithstanding the interests of the owner or any other person in the property prior to the sale.
+
+### 96 Claims to property seized
+(1) Where a claim is made by a person other than the defendant in respect of property seized under a warrant to seize property, the claimant may—pending the decision of a District Court Judge upon the claim.
+  (a) Deposit with the Registrar the amount determined by the Registrar as being the value of the property claimed; or
+  (b) Give the Registrar such security as the Registrar may require for the value of the property claimed,—
+(2) Where a claimant fails to comply with paragraph (a) or paragraph (b) of subsection (1) of this section, the property may be sold as if no such claim had been made and the proceeds of the sale shall be held to abide the decision of a District Court Judge upon the claim.
+(3) Where a person other than the defendant has made a claim in respect of property seized under a warrant to seize property, or in respect of the value of the property or the proceeds of its sale, the Registrar shall issue a summons calling the defendant and the claimant before a District Court Judge and, in that event, any action brought in respect of the claim shall be stayed.
+(4) On the hearing of the summons, the District Court Judge shall adjudicate upon the claim and shall make such order in respect of the claim and the costs of the proceedings as the Judge thinks fit.
+
+### 97 Procedure where property seized subject to hire purchase agreement, bill of sale, etc
+(1) Notwithstanding the other provisions of this Act, where any property is seized under a warrant to seize property and, before the sale of the property under section 95 of this Act, any person (other than the defendant) claims an interest in the property,—a District Court Judge may order the sale of all or part of the property in such manner and on such terms as the Judge thinks fit, and may direct the application of the proceeds of the sale in such manner and on such terms as the Judge thinks fit.
+  (a) As owner under a hire purchase agreement; or
+  (b) Under a bill of sale or otherwise as a security for a debt,—
+(2) Where any property is sold under section 95 of this Act and a claim of the kind referred to in subsection (1) of this section is made before the proceeds of the sale are fully applied or distributed, a District Court Judge may direct the application of the proceeds of the sale in such manner and on such terms as the Judge thinks fit where the Judge is satisfied that it would have been appropriate to have made an order under subsection (1) of this section before the sale.
+
+### 98 Application of proceeds of sale
+Except as provided in any order made by a District Court Judge under section 97 of this Act, any surplus from the sale of any property under section 95 of this Act after payment of the fine shall be paid to the defendant.
+
+### 99 Compensation to third party with interest in property sold
+(1) Where—a Court may, on the application of that person, order the defendant to pay to the person compensation in respect of the loss.
+  (a) A person (other than the defendant) suffers loss through the sale under section 95 of this Act of property in which the person had an interest; and
+  (b) The defendant had not before the sale notified the Registrar of the person's interest in the property,—
+(2) Subsection (1) of this section shall not limit or affect any other remedy that a person may have in respect of loss referred to in that subsection.
+
+### 100 Return of property on payment of fine
+Where any property is seized under a warrant to seize property and not sold, it shall, on payment of the fine, be returned to the person from whom it was seized or to the person apparently lawfully entitled to it.
+
+### 101 Offence to interfere with or rescue property seized
+Every person commits an offence who interferes with, or rescues or attempts to rescue, any property knowing it to be seized under a warrant to seize property and is liable on summary conviction to imprisonment for a period not exceeding 3 months or to a fine not exceeding $2,000, and may be arrested without warrant by any bailiff or constable.
+
+### 102 Protection of Registrar, Bailiff, etc
+No Registrar and no bailiff, constable or other officer shall be personally liable for any act done or omitted in good faith in the performance or purported performance of any power or function under this Act relating to the immobilisation of any vehicle or to the seizure of property or its subsequent disposal.
+
+### 102A Resisting or obstructing Bailiffs
+(1) If any person, without reasonable excuse, resists or obstructs a bailiff while the bailiff is executing a warrant under section 88, the bailiff or any constable may take that person into custody, with or without a warrant, and bring that person before a Judge.
+(2) The Judge may order the person to pay a fine not exceeding $300.
+(3) This section does not prevent proceedings being taken against a person under some other Act instead of under this section.
+
+### 102B Proceedings against Bailiffs acting under warrants
+(1) No proceeding may be commenced against a bailiff for anything done under a warrant issued under section 88, unless—
+  (a) A demand for inspection of the warrant and for a copy of the warrant is made or left at the office of the Court by the party intending to bring the proceeding, or by his or her solicitor or agent; and
+  (b) The demand is in writing and is signed by the person making the demand; and
+  (c) The bailiff refuses or neglects to comply with the demand within 6 days after it is made.
+(2) If any proceeding is commenced against a bailiff where a demand referred to in subsection (1) has been made and not complied with, judgment must be given for the bailiff if the warrant is produced or proved at the trial even though there may be a defect of jurisdiction or other irregularity in the warrant.
+(3) The Registrar who issued the warrant may be joined as a defendant in the proceeding and, if the Registrar is joined and judgment is given against the Registrar, the costs to be recovered by the plaintiff against the Registrar must include the costs that the plaintiff is liable to pay to the bailiff.
+
+### 103 Effect of attachment order
+(1) An attachment order under section 87(1)(b) or section 88(3)(a) of this Act shall be in writing in the prescribed form and shall be dealt with and have effect as provided in sections 104 to 106B of this Act.
+(2)
+
+### 104 Attachment order to be served on employer
+(1) Where an attachment order is made, a copy of the order shall be served on the employer to whom it relates, either personally or by leaving it at the employer's place of residence or business, or by sending it by letter addressed to the employer at the employer's place of residence or business.
+(2) Where service of an attachment order is effected by letter, then, in the absence of proof to the contrary, the order shall be deemed to have been served when it would have been delivered in the ordinary course of post, and in proving service it shall be sufficient to prove that the letter was properly addressed and posted.
+(3) Every attachment order shall take effect when a copy of the order is served on the employer in accordance with this section.
+
+### 104A Power to obtain information in respect of employers
+(1) This section applies if—
+  (a) an attachment order is being made in respect of a defendant, or the Registrar is considering whether to vary, suspend, or cancel an attachment order made in respect of a defendant; and
+  (b) the name, address, and telephone number of the employer of the defendant, or any of those details, are unknown or require clarification.
+(1A) If this section applies, a Registrar may, by notice in writing, require the Commissioner of Inland Revenue to provide the Registrar with all or any of the following details:
+  (a) the name of the employer of the defendant:
+  (b) the address of the employer of the defendant:
+  (c) the telephone number of the employer of the defendant.
+(2) The Commissioner of Inland Revenue must comply with any request under subsection (1A)—
+  (a) Within a reasonable period; and
+  (b) In the manner specified in the notice; and
+  (c) Without imposing a charge.
+(3) If the defendant has died and the Commissioner of Inland Revenue is aware of that fact, the Commissioner of Inland Revenue must advise the Registrar accordingly on receipt of a notice under subsection (1A).
+
+### 105 Operation of attachment order
+(1) An attachment order shall direct that the money due and payable under the fine shall, by way of weekly payments of such amount as is specified in the attachment order, be a charge on any salary or wages that from time to time while the attachment order remains in force become due and payable by the employer to the defendant.
+(2) The charge so created—
+  (a) Shall accrue from week to week, and on such day of the week as is specified in the attachment order; and
+  (b) Shall attach to all salary or wages that become due by the employer to the defendant at any time while the attachment order is in force, whether or not the contract of employment in respect of which the salary or wages so become due existed at the date of the attachment order; and
+  (c) Shall prevail over and have priority to any assignment or charge created by the defendant (whether before or after the making of the attachment order against the defendant), and so that the attachment order shall have the same effect as if no such assignment or charge had been made or created.
+(3) Every attachment order shall specify an amount (the protected earnings rate) below which the net earnings paid to the defendant shall not be reduced by reason of compliance with the order.
+(4) Every attachment order applies for a fixed period stated in the order, and must not apply for a period of more than 5 years after the date on which the order is made by the Registrar.
+(5) No attachment order made under this Act may operate so that, together with—the net earnings of the defendant are reduced below the protected earnings rate.
+  (a) Any attachment order or deduction notice made or given or issued under any of the following Acts, namely:
+    (i) The Social Security Act 1964:
+    (ii) The Family Proceedings Act 1980:
+    (iii) The Child Support Act 1991:
+    (iv) The Tax Administration Act 1994; or
+  (b) The recovery of payments under section 86 of the Social Security Act 1964,—
+(6) If the net earnings of the defendant were to be reduced below the protected earnings rate under subsection (5), the specified amount to be deducted in an attachment order under this Act must be reduced or cancelled.
+(7) If any question arises in any case as to the priority to be accorded to attachments made under this Act, the following have priority over those attachments:
+  (a) One or more attachment orders or deduction notices made or given or issued under any of the following Acts:
+    (i) The Social Security Act 1964:
+    (ii) The Family Proceedings Act 1980:
+    (iii) The Child Support Act 1991:
+    (iv) The Tax Administration Act 1994:
+  (b) The recovery of payments under section 86 of the Social Security Act 1964.
+
+### 106 Liability of employer
+(1) As long as an attachment order remains in force, the employer to whom it relates shall from time to time, whenever any money becomes due and payable by the employer to the defendant by way of salary or wages—
+  (a) Deduct from that money such sum as is sufficient to satisfy the charge on the money so far as the same has accrued before the day on which the salary or wages becomes due and payable; and
+  (b) Not later than the 20th day of the month next after the month in which the deduction is made pay the amount so deducted to a person, or into a trust account, in accordance with section 208.
+(2) All sums so deducted are hereby deemed to have been paid by the employer in satisfaction of the salary or wages payable by the employer to the defendant.
+(3) All sums so deducted are hereby deemed to have been paid by the defendant in satisfaction of the defendant's liability to pay the fine.
+(4) Where a defendant in respect of whom an attachment order is in force leaves or is dismissed from the employment of the employer, the employer shall within 7 days notify the Registrar of the Court in which the attachment order was issued.
+(5) Where the employer makes default in the payment of any money in satisfaction of any such charge, that money shall become a debt due by the employer to the Crown, and may be recovered by the Crown by action in any Court of competent jurisdiction.
+(6) Every employer commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who fails without reasonable excuse to comply with paragraph (a) or paragraph (b) of subsection (1) of this section.
+
+### 106A Wrongful treatment of employee
+(1) Every employer commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who dismisses any employee or alters any employee's position in the employer's business or undertaking to the employee's prejudice by reason of—
+  (a) the employee having been ordered to pay 1 or more fines; or
+  (b) an attachment order having been served on the employer; or
+  (c) the employer becoming aware that an attachment order is being or has been made in respect of the employee.
+(2) In the prosecution for an offence against subsection (1) of this section in which it is proved that the employer, within the period referred to in subsection (3), dismissed the employee or altered the employee's position in the employer's business or undertaking to the employee's prejudice, it shall be deemed to be proved that the action was taken by reason of the circumstances referred to in subsection (1)(a) or (b) or (c) unless the employer proves to the contrary.
+(3) The period is 6 months after, as the case may be,—
+  (a) the employer becomes aware that the employee has been ordered to pay 1 or more fines; or
+  (b) the employer is served with an attachment order in respect of the employee; or
+  (c) the employer becomes aware that an attachment order is being made or has been made in respect of the employee.
+(4) Nothing in this section affects the employer's right to take disciplinary action against the employee for breaching a condition of the employee's employment that relates to—
+  (a) the commission of an offence; or
+  (b) the failure to pay any fine in full before enforcement action is due.
+
+### 106B Extent to which attachment orders bind the Crown
+(1) In this section—
+  - **Employing department** means—
+    (a) A department of State in which a person is employed; and
+    (b) In relation to a person to whom any retiring allowance or pension or other payment of a similar nature is payable—
+      (i) Out of the Government Superannuation Fund, the Government Superannuation Fund Authority:
+      (ii) Out of the National Provident Fund, the Board of Trustees of the National Provident Fund:
+  - **Servant of the Crown** means a person in the service of Her Majesty in respect of the Government of New Zealand; and includes a person in temporary or casual service but does not include a person in honorary service; and also includes any person serving in any of the New Zealand Armed Forces; and also includes a person to whom any retiring allowance or pension or other payment of a similar nature is payable out of the Government Superannuation Fund or the National Provident Fund.
+(2) Sections 104 to 106A of this Act shall bind the Crown to the extent of and subject to subsection (3) of this section.
+(3) Where the defendant liable to pay a fine or related costs is a servant of the Crown, an attachment order may be made against the Crown as employer, and—
+  (a) The employing department shall be named in the order as the employer; and
+  (b) Service of the order shall be effected on the permanent head of the employing department, and also on any officer of the Crown (described by the name of the office, the name of the department, and the place where the officer is stationed) specified in the order; and
+  (c) Service of the order shall be effected in accordance with section 104 of this Act, and, where service is effected by post, it shall be sufficient if the letter is addressed to the person to be served by that person's official title or any sufficient description without that person's personal name.
+
+### 106C Statement of salary or wages paid
+For the purpose of determining the means of any defendant for the purposes of this Part of this Act, a statutory declaration given by or on behalf of any person stating that the person paid a stated amount of salary or wages to the defendant or in respect of a stated period as the defendant's employer shall, in the absence of evidence to the contrary, be sufficient evidence of the facts stated in the declaration.
+
+### 106D Transfer of enforcement to another District Court
+If a fine has been ordered to be paid or an order has been made by a Court or the Registrar of that Court under this Part, that fine or order (as the case may be) is enforceable in another District Court.
+
+### 106E Restriction on imprisonment
+(1) A District Court Judge or Community Magistrate shall not sentence a defendant to community work under this Part of this Act for non-payment of a fine unless—
+  (a) A statement of means has been completed by the defendant; and
+  (b) The Judge or Community Magistrate has considered the statement of means; and
+  (c) The Judge or Community Magistrate is satisfied that all other methods of enforcing the fine, other than the issue of a warrant of commitment, have been considered or tried and that they are inappropriate or unsuccessful.
+(1A)
+(1B)
+(2) Subject to section 83 of this Act, a District Court Judge shall not direct the issue of a warrant of commitment for the imprisonment of the defendant under this Part of this Act for non-payment of a fine unless—
+  (a) A statement of means has been completed by the defendant within the immediately preceding 14 days; and
+  (b) The defendant has had the same opportunity for legal representation as is available to a defendant who is liable to a sentence of imprisonment under section 30 of the Sentencing Act 2002; and
+  (c) The defendant is before a District Court Judge; and
+  (d) The defendant's last completed statement of means has been considered by the District Court Judge; and
+  (e) The warrant of commitment can be executed immediately; and
+  (f) The Judge is satisfied that all other methods of enforcing the fine have been considered or tried and that they are inappropriate or unsuccessful; and
+  (g) The Judge is satisfied that the defendant has the means to pay the fine.
+(3) Before a District Court Judge directs that a warrant of commitment be issued under section 88(3) of this Act, he or she may direct that a warrant for the defendant's arrest be issued to have the defendant brought before a District Court Judge to enable the defendant's financial ability to pay the fine to be assessed.
+(4) Where a defendant is arrested pursuant to subsection (3) of this section, the provisions of section 88(2F) of this Act shall apply.
+(5) In assessing the defendant's financial ability to pay the fine, a District Court Judge or Community Magistrate shall take into account—
+  (a) The Court's assessment of the defendant's ability to pay the fine (whether based on the defendant's statement of means or otherwise) when the fine was imposed; and
+  (b) Any change of circumstances since that original assessment was made; and
+  (c) The defendant's current financial position.
+(6) If a District Court Judge directs that a warrant for the defendant's arrest be issued pursuant to subsection (3) of this section, a Registrar may issue the warrant.
+(7) Nothing in subsection (1) or subsection (2) of this section shall apply in the case of a defendant who, at the time of the sentence being imposed, is already undergoing a sentence of detention in a prison.
+
+### 106F Review of Registrar's decision
+(1) Any defendant or other person affected by any order or decision made by a Registrar under this Part of this Act may apply to a District Court Judge for a review of the order or decision.
+(2) On any such review the Judge may confirm, rescind, or vary the Registrar's order or decision and the order or decision shall have effect, or cease to have effect, accordingly.
+
+## Part 4 — Appeals
+
+**Appeals on points of law only by way of case stated**
+
+### 107 Appeal on question of law only by way of case stated
+(1) Where any information or complaint has been determined by a District Court, either party may, if dissatisfied with the determination as being erroneous in point of law, appeal to the High Court by way of case stated for the opinion of that Court on a question of law only.
+(2) An appellant under this section shall, within 14 days after the determination, or, in the case of a determination in the Chatham Islands, within 3 months after the determination, file in the office of the Court whose determination is appealed against a notice in writing of the appeal. The notice shall be in the prescribed form and shall be filed in duplicate, and the Registrar receiving it shall forthwith deliver or post one copy of it to the respondent or his solicitor.
+(3) The appellant shall, within 14 days after the filing of the notice of appeal, or within such further time as the District Court Judge or Justice or Justices who constituted the Court or, if he or they are not available, any District Court Judge may in his or their discretion allow, state in writing a case in the prescribed form setting out the facts and the grounds of the determination and specifying the question of law on which the appeal is made, and file it in the office of the Court in which the notice of appeal was filed, and the Registrar shall as soon as practicable submit it to the District Court Judge or Justice or Justices whose determination is appealed against. The appellant shall forthwith deliver or post a copy of the case to the respondent or his solicitor.
+(4) As soon as may be practicable after receiving the case stated, the District Court Judge or Justice or Justices shall, after hearing the parties if he or they consider it necessary to do so, settle the case, sign it, and transmit it to the Registrar. The settling and signing of the case shall be deemed for the purposes of this Part of this Act to be the statement of the case by the Court.
+(5) Where the District Court Judge or any Justice whose determination is appealed against has since the date of the determination ceased to hold office as such or died or left New Zealand, or is incapable by reason of sickness or otherwise from acting as such, the case stated may be submitted to any District Court Judge and may be settled and signed by him.
+(6) The Registrar shall send to the High Court Registry nearest to the District Court in which the proceedings were heard the case signed by the District Court Judge or Justice or Justices, together with any bail bond entered into by the appellant. The Registrar shall also make a copy of the case available to each party.
+(7) When the Registrar of the High Court receives the case stated, he shall set it down for hearing on the first practicable sitting day in the most convenient place where sittings of the High Court are held, whether or not that place is in the same judicial district, and shall notify the parties to the appeal of the time and place appointed for the hearing.
+(8) If within 14 days after the filing of the notice of appeal, or within such further time as may be allowed, the appellant does not file a case pursuant to subsection (3) of this section, the District Court Judge or Justice or Justices may certify that the appeal has not been prosecuted.
+(9) Where any appeal under this section relates to a conviction, the notice of appeal shall not be filed until after the defendant has been sentenced or otherwise dealt with.
+
+### 108 No appeal on ground of improper admission or rejection of evidence
+No determination shall be appealed against by reason only of the improper admission or rejection of evidence.
+
+### 109 District Court Judge or Justice may refuse a case if he thinks appeal frivolous
+(1) If the District Court Judge or Justice or Justices are of the opinion that the appeal is merely frivolous, but not otherwise, he or they may refuse to state a case, and shall, on the request of the applicant for the case, sign and deliver to him a certificate of that refusal.
+(2) Where the District Court Judge or Justice or Justices refuse to state a case, the applicant for the case may apply to the High Court for an order requiring the District Court Judge or Justice or Justices to state a case. A copy of the application shall be served on the District Court Judge or Justice or Justices and on the other party, and the District Court Judge or any such Justice and that other party shall be entitled to appear and be heard.
+(3) The High Court may, if it thinks fit, make an order requiring the District Court Judge or Justice or Justices to state a case, and the District Court Judge or Justice or Justices on being served with the order shall state a case accordingly. Costs may be allowed on the application in accordance with the practice of the High Court, but shall not be allowed against the District Court Judge or any Justice.
+
+### 110 Certiorari not to be required when appeal upon case stated
+No writ of certiorari or other writ shall be required for the removal of a determination in relation to which a case is stated under the provisions of this Part of this Act for obtaining the opinion of the High Court on the case.
+
+### 111 Case may be sent back for amendment
+The High Court may, if it thinks fit, cause a case stated to be sent back for amendment, and it shall be the duty of the District Court Judge or Justice or Justices to amend the case accordingly and return it to the High Court.
+
+### 112 High Court to determine the questions on the case
+The High Court shall hear and determine the question or questions of law arising on any case transmitted to it as aforesaid, and shall thereupon do any one or more of the following things:
+  (a) Reverse, confirm, or amend the determination in respect of which the case has been stated; or
+  (b) Remit the matter to the District Court with the opinion of the High Court thereon; or
+  (c) Exercise any power conferred by section 201 of this Act; or
+  (d) Make such other order in relation to the matter as it thinks fit.
+
+### 113 Appeal on point of law may be removed into Court of Appeal
+(1) The High Court may order the removal into the Court of Appeal of any case transmitted to the High Court under section 107 of this Act, and on removal the Court of Appeal shall have the same power to adjudicate on the proceedings as the High Court had.
+(2) On the removal of any case to the Court of Appeal under this section the decision of the Court of Appeal shall be final; and the same judgment shall be entered in the High Court, and the same execution and other consequences and proceedings shall follow thereon, as if the decision had been given in the High Court.
+
+### 114 Defendant appealing by way of case stated not allowed to appeal otherwise
+A defendant who appeals by way of case stated against any determination shall not be entitled to appeal to the High Court against the same determination in accordance with any of the other provisions of this Part of this Act, unless the High Court grants leave to the defendant to withdraw his appeal by way of case stated, and extends the time within which a notice of appeal under those other provisions may be filed.
+
+### 114A Appeals from decisions of Community Magistrates
+(1) Either party to any proceedings that are heard by a Court presided over by a Community Magistrate or 2 or more Community Magistrates has, subject to subsection (2), the same rights of appeal under sections 89, 107, 115, 115A, 115B, and 115C as the party would have had if the Court that heard the proceedings had been presided over by a District Court Judge.
+(2) Every appeal brought by a party to proceedings to which subsection (1) applies is to be an appeal to a Court presided over by a District Court Judge.
+(3) For the purposes of an appeal to which subsection (1) applies, this Part applies, subject to the modifications set out in Schedule 2A and to all other necessary modifications.
+
+### 114B Appeal to High Court on question of law
+(1) Either party to any proceedings to which an appeal under section 114A(1) applies may, with the leave of the District Court, appeal to the High Court against any determination of the District Court on a question of law arising in the appeal to which section 114A(1) applies:
+  Provided that, if the District Court refuses to grant leave to appeal to the High Court, the High Court may grant special leave to appeal.
+(2) A party desiring to appeal to the High Court under this section must, within 21 days after the determination of the District Court, or within such further time as that Court may allow, give notice of his or her application for leave to appeal in such manner as may be directed by the rules of that Court, and the District Court may grant leave accordingly if, in the opinion of that Court, the question of law involved in the appeal is one which, by reason of its general or public importance or for any other reason, ought to be submitted to the High Court for decision.
+(3) Where the District Court refuses leave to any party to appeal to the High Court under this section, that party may, within 21 days after the refusal of the District Court or within such further time as the High Court may allow, apply to the High Court, in such manner as may be directed by the rules of that Court, for special leave to appeal to that Court, and the High Court may grant leave accordingly if in the opinion of that Court the question of law involved in the appeal is one which, by reason of its general or public importance or for any other reason, ought to be submitted to the High Court for decision.
+(4) On any appeal to the High Court under this section, the High Court has the same power to adjudicate on the proceedings as the District Court had.
+(5) The decision of the High Court on any appeal under this section is final; and the same judgment must be entered in the District Court, and the same execution and other consequences and proceedings must follow thereon, as if the decision of the High Court had been given in the District Court.
+(6) The decision of the High Court on any application to that Court for leave to appeal is to be final.
+(7) Nothing in section 144 applies in relation to a decision of the High Court made under this section.
+
+**General appeals**
+
+### 115 Defendant's general right of appeal to High Court
+(1) Except as expressly provided by this Act or by any other enactment, where a District Court determines any information or complaint, and—
+  (a) Convicts any defendant; or
+  (b) Makes any order, including—the person convicted or against whom the order is made may appeal to the High Court.
+    (i) An order for the payment for costs; or
+    (ii) An order declining an application for the payment for such costs; or
+    (iii) An order for the estreat of a bond,—
+(2) In the case of a conviction, the appeal may be against the conviction and the sentence passed on the conviction, or against the conviction only, or against the sentence only; and, in the case of an order for the payment of money, the appeal may be against the order and the amount of the sum ordered to be paid, or only against the amount of the sum ordered to be paid.
+(3) No appeal against conviction shall be brought until the person convicted has been sentenced or otherwise dealt with.
+(4) Every appeal under this section, or under any of sections 115A to 115DA, is a general appeal.
+
+### 115A Informant's right of appeal against sentence
+(1) Where on the determination by a District Court of any information the defendant is convicted and sentenced, the informant may appeal to the High Court against the sentence passed on the conviction, unless the sentence is one fixed by law.
+(2) No appeal shall be brought under this section unless the consent of the Solicitor-General has first been obtained and is lodged with the notice of appeal:
+  Provided that any document evidencing the Solicitor-General's consent may be signed on his behalf by a person purporting to be a Crown Counsel.
+(2A) If the defendant is the Crown Law Office,—
+  (a) subsection (2) does not apply:
+  (b) no appeal may be brought under this section unless the consent of the Attorney-General has been obtained and is lodged with the notice of appeal:
+  (c) any decision to give consent under paragraph (b) must be made by the Attorney-General personally.
+(3) Every appeal under this section against a sentence of detention which is not heard before the date on which the defendant is released from detention under that sentence, whether that sentence has expired or not, shall lapse on that date and thereupon the appeal shall be deemed to have been dismissed by the High Court for non-prosecution. The manager of any prison from which the defendant is released shall, if he has knowledge of the appeal under this section, notify the Registrar of the High Court that the defendant has been released.
+(4) For the purposes of an appeal under this section, the term sentence shall include any method of disposing of a case following conviction.
+
+### 115B Right of appeal against sentence for contempt of Court
+Any person against whom an order (other than an order to the effect only that a person be taken into custody and detained until the rising of the Court) has been made under section 206 of this Act may appeal to the High Court against the order; and the provisions of sections 116 to 144 of this Act, as far as they are applicable and with the necessary modifications, shall apply to any such appeal as if that person was a defendant who had been convicted on an information and sentenced.
+
+### 115C Right of appeal against decisions relating to publication of reports of proceedings or identifying particulars
+(1) The applicant for an order under paragraph (a) or paragraph (b) of section 138(2), or under section 140, of the Criminal Justice Act 1985 forbidding publication of any report of the proceedings or of any identifying particulars, or the informant may appeal to the High Court against the District Court's decision in respect of the application.
+(2) Where the decision is to refuse to make the order sought, the District Court shall, on being satisfied that an appeal against that decision is to be brought under this section, make an interim order to the effect sought by the applicant; and that interim order shall continue in force—
+  (a) Until the expiry of the period prescribed by section 116 of this Act for the filing of notice of the appeal; or
+  (b) If notice of the appeal is filed within that prescribed period, until the appeal is finally disposed of, or withdrawn, or abandoned.
+(3) The provisions of sections 116 to 144 of this Act, as far as they are applicable and with the necessary modifications, shall apply to any such appeal as if the decision of the District Court were an order made on sentence.
+
+### 115D Rights of appeal against decisions relating to bail
+[Repealed]
+
+### 115DA Right of appeal against order for costs
+An informant may appeal to the High Court against an order for the payment of costs made by a District Court in favour of the defendant.
+
+### 115E Procedural provisions applying to appeals under section 115D
+[Repealed]
+
+### 116 Notice of appeal
+(1) Subject to subsection (1A) of this section, the appellant under any general appeal shall, within 28 days after the defendant has been sentenced or otherwise dealt with or the order has been made, file in the office of the Court whose determination is appealed against a notice in writing of the appeal and of the grounds thereof. The notice shall be in the prescribed form and shall be filed in duplicate.
+(1A) In the case of an appeal under section 115C of this Act, the notice of appeal required by subsection (1) of this section shall be filed within 3 days after the date of the decision against which the appeal is brought.
+(2) The Registrar receiving the notice shall forthwith deliver or post one copy to the respondent or his solicitor and notify the District Court Judge or Justice or Justices whose determination is appealed against of the appeal and of the grounds thereof.
+(3) In the case of any general appeal in respect of a determination in the Chatham Islands, subsection (1) of this section shall be read as if for the words 28 days there were substituted the words 3 months, and subsection (1A) of this section shall be read as if for the words 3 days there were substituted the words 10 days.
+
+### 117 Transmission of notice of appeal to High Court
+(1) The Registrar of the District Court shall as soon as possible send the notice of appeal to the High Court Registry nearest to that District Court.
+(2) The Registrar shall send to the High Court Registry with the notice of appeal—
+  (a) Any notice of bail, and any surety bond, relating to the defendant;
+  (b) The information, charge sheet, or complaint;
+  (c) A certified copy of any entry in the Criminal Records kept pursuant to section 71 of this Act containing the conviction, sentence, or order;
+  (d) Subject to subsection (3) of this section, a copy of any note made by the District Court Judge or Justice or Justices of the evidence given at the hearing and of any questions of law raised at the hearing and of any submissions made by either party;
+  (e) Where the defendant pleaded guilty, a summary of the facts stated by the informant;
+  (f) A copy of any evidence taken under section 31 of this Act (which relates to taking the evidence of a defence witness at a distance) or under section 32 of this Act (which relates to taking the evidence of a person about to leave the country), and any statement admitted under section 33 of this Act (which relates to the admissibility of a statement made by a person who is seriously ill), and any affidavit filed;
+  (g) Subject to subsection (3) of this section, a copy of any written judgment which the District Court Judge or Justice or Justices may have delivered;
+  (h) Any exhibits remaining in his custody; and
+  (i) Any report made by a Probation Officer.
+(3) Where an informant appeals against sentence only, the Registrar shall not be obliged to send to the High Court Registry—unless otherwise directed by the presiding High Court Judge; but the Registrar shall, in all such cases, send to the High Court Registry the notes on sentencing.
+  (a) The documents referred to in subsection (2)(d) of this section (other than the notes on sentencing); or
+  (b) The documents referred to in subsection (2)(g) of this section,—
+
+### 118 Setting down appeal for hearing
+When the Registrar of the High Court receives the documents referred to in section 117 of this Act, he shall set the appeal down for hearing on the first practicable sitting day in the most convenient place where sittings of the High Court are held and shall notify or cause to be notified the parties to the appeal of the time and place appointed for the hearing.
+
+### 119 Procedure on appeal
+(1) All general appeals shall be by way of rehearing.
+(2) Where any question of fact is involved in any appeal, the evidence taken in the District Court bearing on the question shall, unless the High Court otherwise directs, be brought before the High Court as follows:
+  (a) As to any evidence given orally, by the production of a copy of any note made by the District Court Judge or Justice or Justices or such other materials as the High Court may deem expedient:
+  (b) As to any evidence taken by affidavit and as to any exhibits, by the production of the affidavits and of such of the exhibits as may have been forwarded by the Registrar of the Court appealed from and by the production by the parties to the appeal of such exhibits as are in their custody:
+  (c) As to any evidence taken under section 31 of this Act (which relates to taking the evidence of a defence witness at a distance) or under section 32 of this Act (which relates to taking the evidence of a person about to leave the country), or any statement admitted under section 33 of this Act (which relates to the admissibility of a statement made by a person who is seriously ill), by the production of a copy of that evidence or statement:
+  Provided that the High Court may in its discretion rehear the whole or any part of the evidence, and shall rehear the evidence of any witness if the Court has reason to believe that any note of the evidence of that witness made by the District Court Judge or Justice or Justices is or may be incomplete in any material particular.
+(3) The High Court shall have the same jurisdiction and authority as the District Court, including powers as to amendment, and shall have full discretionary power to hear and receive further evidence, if that further evidence could not in the circumstances have reasonably been adduced at the hearing, and for that purpose shall have the same jurisdiction and authority to make any order under section 31 or section 32 of this Act as the Court from whose decision the appeal is made, or a District Court Judge, had.
+
+### 120 Defects in notice of appeal
+On the hearing of any general appeal no objection to any defect in the notice of appeal shall be allowed, unless the High Court is of opinion that the respondent has been substantially prejudiced thereby:
+  Provided that, whether or not any objection is allowed, the Court may direct or allow the notice to be amended on such terms as to costs or otherwise as it thinks fit.
+
+### 121 High Court to hear and determine appeal
+(1) The High Court shall hear and determine every general appeal and make such order in relation to it as the Court thinks fit, and, without limiting the generality of the power conferred by this subsection, may exercise any of the powers referred to in the succeeding provisions of this section.
+(2) In the case of an appeal against conviction, the High Court may—
+  (a) Confirm the conviction; or
+  (b) Set it aside; or
+  (c) Amend it and, if the Court thinks fit, quash the sentence imposed and either impose any sentence (whether more or less severe) that the convicting Court could have imposed on the conviction as so amended, or deal with the offender in any other way that the convicting Court could have dealt with him on the conviction as so amended.
+(2A) If in the case of an appeal against conviction it appears to the Court that the appellant was insane at the time of the commission of the offence and that the information should have been dismissed on account of the appellant's insanity, the Court may quash the conviction; and thereupon sections 23 to 26, 28, and 33 of the Criminal Procedure (Mentally Impaired Persons) Act 2003 shall apply, as far as they are applicable, as if the information had been so dismissed.
+(3) In the case of an appeal against sentence, the High Court may—
+  (a) Confirm the sentence; or
+  (b) If the sentence (either in whole or in part) is one which the Court imposing it had no jurisdiction to impose, or is one which is clearly excessive or inadequate or inappropriate, or if the High Court is satisfied that substantial facts relating to the offence or to the offender's character or personal history were not before the Court imposing sentence, or that those facts were not substantially as placed before or found by that Court, either—
+    (i) Quash the sentence and either pass such other sentence warranted in law (whether more or less severe) in substitution therefor as the High Court thinks ought to have been passed or deal with the offender in any other way that the Court imposing sentence could have dealt with him on the conviction; or
+    (ii) Quash any invalid part of the sentence that is severable from the residue; or
+    (iii) Vary, within the limits warranted in law, the sentence or any part of it or any condition imposed in it.
+(4) In the case of an appeal against an order, the High Court may—
+  (a) Confirm the order; or
+  (b) Set it aside; or
+  (c) Quash it and make such other order warranted in law (whether more or less severe) in substitution therefor as the Court thinks ought to have been made; or
+  (d) Vary, within the limits warranted in law, the order or any part of it or any condition imposed in it.
+(5) In the case of an appeal against the amount of any sum ordered to be paid, the High Court may confirm the amount or increase or reduce it within the limits warranted in law.
+(6) In any case, the High Court may exercise any power that the Court whose decision is appealed against might have exercised.
+(7) Subject to the provisions of section 144 of this Act, the decision of the High Court on any general appeal shall be final.
+
+### 122 Power to clear Court and forbid report of proceedings
+[Repealed]
+
+**Provisions relating to all appeals**
+
+### 123 Powers of Judge of High Court as to extension of time
+(1) Any Judge of the High Court may, on the application of the appellant or intending appellant, extend any time prescribed or allowed under this Part of this Act for the filing of any notice or the stating of any case or the doing of any other thing in respect of any appeal or proposed appeal to the High Court.
+(2) Any appellant or intending appellant may at any time apply to a Judge of the High Court to review any decision of a District Court Judge or Justice or Justices refusing an extension of time for the stating of a case under this Part of this Act. On any such application a Judge may, in his discretion, confirm the decision, or reverse it and allow such extension of time as he thinks fit.
+
+### 124 Provisions as to issue of warrant pending appeal
+(1) Where under any determination in respect of which either party appeals the defendant has been sentenced to detention, the warrant of commitment in execution of the sentence shall be issued, notwithstanding that notice of appeal has been given.
+(2) Where notice of appeal has been given and the defendant is released on bail before the warrant of commitment is executed, the warrant shall be suspended until the appeal has been determined or, as the case may be, until the District Court Judge or Justice or Justices have certified that it has not been prosecuted or the Registrar of the High Court has certified that it has been dismissed for non-prosecution.
+(3) Where under any determination in respect of which either party appeals the Court has sentenced the defendant to supervision, the term of the sentence specified shall cease to run on the day notice of appeal is filed.
+(3A) Where under any determination in respect of which either party appeals the Court has sentenced the defendant to community work, the sentence ceases to run on the day notice of appeal is filed.
+(3B)
+(3C)
+(3D) Where under any determination in respect of which either party appeals the Court has made a non-association order in respect of the defendant, the period of non-association shall cease to run on the day the notice of appeal is filed.
+(4) Except as provided in subsection (1) of this section or in any other enactment, no warrant or order shall be issued or take effect in execution of any determination in respect of which a notice of appeal has been filed until the appeal has been determined or, as the case may be, until the District Court Judge or Justice or Justices have certified that it has not been prosecuted, or the Registrar of the High Court has certified that it has been dismissed for non-prosecution.
+(5) Where any warrant to seize is issued before a notice of intention to appeal is filed, then—
+  (a) If the warrant has not been executed, it shall be suspended until the appeal has been determined or, as the case may be, until the District Court Judge or Justice or Justices have certified that it has not been prosecuted, or the Registrar of the High Court has certified that it has been dismissed for non-prosecution:
+  (b) If the warrant has been executed, any goods that have been seized but not sold shall be returned to the owner.
+
+### 125 Granting of bail to appellant who is in custody
+[Repealed]
+
+### 126 Arrest of appellant who has absconded or is about to abscond while on bail
+[Repealed]
+
+### 127 Custody of appellant pending appeal
+[Repealed]
+
+### 128 Surrender of appellant released on bail and discharge of surety
+[Repealed]
+
+### 129 Abandonment of appeal
+An appellant may at any time after he has given notice of appeal, or after he has applied for extension of time for such a notice, abandon his appeal by giving the Registrar of the High Court and the respondent notice to that effect in the prescribed form, and upon the giving of the notice the appeal shall, subject to the right of the respondent to apply for an order as to costs, be deemed to have been dismissed by the High Court for non-prosecution.
+
+### 130 Presentation of case by party in custody
+(1) Any party to an appeal who is in custody shall be entitled to present his case and his argument in writing instead of by oral argument if he so desires. Any case or argument so presented shall be considered by the High Court.
+(2) On the hearing of any general appeal by the informant against the sentence passed on the conviction or by the person convicted against a conviction and the sentence passed on the conviction or against the conviction only, the person convicted, if he is in custody, whether or not he is represented by counsel, shall be entitled to be present, and the manager of the prison in which the person convicted is detained shall, without further authority than this section, cause him to be taken to the High Court for the hearing.
+(3) On the hearing of any general appeal against sentence only by the person convicted or of any appeal by way of case stated on a question of law only or of any appeal made under section 115D of this Act, any party to the appeal who is in custody, whether or not he is represented by counsel, shall not be entitled to be present except with the leave of the High Court, which may be given on the application in writing of that party.
+(4) Where the leave of the High Court is given for a party to an appeal who is in custody to be present at the hearing of the appeal, the Registrar of that Court shall notify the manager of the prison in which that party is detained, and the manager shall, without further authority than this subsection, cause him to be taken to the High Court for the hearing.
+(5) Any party to an appeal who is taken to the High Court pursuant to subsection (2) or subsection (4) of this section shall, unless his release is ordered by the High Court, and except while he is in the custody of the Court, remain in the custody of the escorting officer until returned to the prison in which he is to be detained.
+
+### 131 Power of High Court to direct rehearing of information or complaint
+(1) On any appeal the High Court may remit the determination appealed against to the District Court with a direction that the information or complaint to which it relates be reheard.
+(2) Where any determination is remitted to the District Court under subsection (1) of this section, the Registrar of the High Court shall transmit a certificate to that effect to the Registrar of the District Court whose determination was appealed against, together with in the case of a general appeal the documents referred to in subsection (2) of section 117 of this Act, and the case shall be dealt with as if a rehearing as to the whole matter had been granted under section 75 of this Act, and the provisions of that section, as far as they are applicable and with the necessary modifications, shall apply accordingly.
+
+### 132 Amendment of conviction by substituting one offence for another
+(1) If on any appeal against a conviction for any offence (whether or not the appeal is against the sentence also) it appears to the High Court that the evidence is insufficient to support a conviction for that offence, but is sufficient to support a conviction for some other offence of a similar character within the jurisdiction of the convicting Court, and that the defendant has not been prejudiced in his defence, the High Court may, on such terms as to costs and otherwise as it thinks fit,—
+  (a) Amend the conviction by substituting the last-mentioned offence for the offence mentioned in the conviction, and, if it thinks fit, quash the sentence imposed and either impose any sentence that the convicting Court could have imposed (whether more or less severe), or deal with the defendant in any other way that the convicting Court could have dealt with him, on the conviction as amended; or
+  (b) Remit the conviction to the District Court with a direction that it be amended accordingly.
+(2) Where any conviction is remitted to the District Court under paragraph (b) of subsection (1) of this section, the Registrar of the High Court shall transmit a certificate to that effect to the Registrar of the District Court whose determination was appealed against, and the District Court shall amend the conviction and, if it thinks fit, quash the sentence imposed, and impose any sentence which it has jurisdiction to impose (whether more or less severe) or deal with the defendant in any other way that it has power to deal with him, in respect of the conviction as amended.
+
+### 133 Dismissal of appeal for non-prosecution
+(1) If an appellant does not appear at the hearing of the appeal and, if he is in custody, he has not presented any case or argument in writing as provided in section 130 of this Act, or if an appellant, having appeared at the hearing, does not prosecute his appeal, the High Court may, if it thinks fit, dismiss the appeal for non-prosecution.
+(2) Where the High Court dismisses any appeal for non-prosecution, the Registrar of that Court shall transmit a certificate to that effect to the Registrar of the District Court whose determination was appealed against.
+
+### 134 Registrar to certify decision on appeal
+After the decision of the High Court on any appeal has been given, the Registrar of the High Court, at the place where the decision is given, shall transmit a certificate of the decision to the Registrar of the District Court in which the case was heard, and shall send a copy of the certificate to any party to the appeal who is in custody and was not present when the decision was given.
+
+### 135 Execution of decision of High Court
+(1) Where on any appeal the High Court confirms any conviction, sentence, order, or amount of any sum to be paid, or where the appeal is dismissed for non-prosecution, or where a certificate has been given under section 107 of this Act that the appeal has not been prosecuted, the decision of the District Court shall be enforced.
+(2) Where on any appeal the High Court sets aside or reverses any conviction, order, or other determination, or amends any conviction or other determination, or quashes or varies any sentence or order, or increases or reduces the amount of any sum ordered to be paid, the Registrar of the District Court shall make in the entry in the Criminal Records kept pursuant to section 71 of this Act relating to the decision appealed against a note of the decision of the High Court.
+(3) In any case to which subsection (2) of this section applies, the decision of the High Court or the decision of the District Court as amended or varied by the High Court, as the case may be, shall take effect as if it were the decision of the District Court:
+  Provided that, where the High Court imposes a sentence of detention, the warrant to be issued under section 91 of the Sentencing Act 2002 shall be issued out of the High Court and signed by a Judge:
+  Provided also that, where the High Court varies a sentence of detention imposed by the District Court, it shall not be necessary to issue a warrant of commitment in respect of the sentence as so varied:
+(3A)
+(3B)
+(4) Where a party to an appeal has paid a fine in accordance with a sentence of the District Court and on the determination of the appeal—that party shall be entitled, subject to the order of the High Court, to a return of the sum paid or part thereof, as the case may be. For the purposes of this subsection the term fine includes any costs or other money ordered by the Court to be paid on the conviction of that party.
+  (a) His conviction is set aside; or
+  (b) The sentence is quashed and any other sentence imposed is not for the payment of a fine or is for the payment of a smaller fine; or
+  (c) The sentence is varied by a reduction in the amount of the fine imposed,—
+
+### 136 Custody of person after determination of appeal
+(1) Where the decision of the High Court on any appeal has been given, or where an appeal has been dismissed for non-prosecution or a certificate has been given under section 107 of this Act that an appeal has not been prosecuted, any person who is liable under that decision or, as the case may be, under the decision appealed from to serve a sentence of detention or to be detained in custody and who is not in custody may be arrested without warrant by any constable or any officer of a prison.
+(2) Where the High Court in giving any such decision quashes a sentence of detention imposed by the District Court and does not impose another sentence of detention, the Registrar of the High Court at the place where the decision is given shall send to the manager of the prison in which the person sentenced is detained or from which he was released on bail a certificate setting out the result of the appeal, and, if that person is in the custody of the manager and is not in custody for any other matter, he shall be released.
+(3) Where the High Court in giving any such decision varies a sentence of detention imposed by the District Court, or amends the conviction in respect of which a sentence of detention was imposed by the District Court, the Registrar of the High Court at the place where the decision is given shall send to the manager a certificate as aforesaid, and the warrant issued in execution of the sentence of the District Court shall have effect as if it were amended in accordance with the certificate.
+(4) Where under section 107 of this Act a District Court Judge or Justice or Justices have certified that an appeal has not been prosecuted, the Registrar of the District Court shall send that certificate to the manager of the prison at which any party to the appeal is detained. Where an appeal has been dismissed for non-prosecution, the Registrar of the High Court shall send a certificate to that effect to the manager.
+
+### 137 Resumption of sentence or order on determination of appeal
+(1) Where, under any determination in respect of which either party appeals, a District Court has—and when the appeal is determined neither the sentence nor the order, as the case may be, nor the conviction upon which it was imposed is set aside, the term of the sentence or the order as specified by the District Court or as varied by the High Court, as the case may be, shall be resumed—
+  (a) sentenced the defendant to supervision or community work; or
+  (b) Made a non-association order in respect of the defendant—
+  (c) On the date specified by the Court that determines the appeal; or
+  (d) If the Court fails to specify such a date, as from the date the appeal is determined.
+(2) Where, under any determination in respect of which either party appeals, the District Court has—and the appeal is not prosecuted and a District Court Judge or Justice or Justices certify that it has not been prosecuted, the term of the sentence or the order as specified by the District Court shall be resumed—
+  (a) sentenced the defendant to supervision or community work; or
+  (b) Made a non-association order in respect of the defendant—
+  (c) On the date specified by a District Court Judge to whom the certificate is submitted; or
+  (d) If a District Court Judge fails to specify such a date, as from the date of the certificate.
+(3) Where, under any determination in respect of which either party appeals, a District Court has—and the appeal is dismissed for non-prosecution and the Registrar of the High Court certifies that it has been dismissed for non-prosecution, the term of the sentence as specified by the District Court shall be resumed—
+  (a) sentenced the defendant to supervision or community work; or
+  (b) Made a non-association order in respect of the defendant—
+  (c) On the date specified by a District Court Judge to whom the certificate is submitted; or
+  (d) If a District Court Judge fails to specify such a date, as from the date of the certificate.
+(4) Where the defendant has been sentenced to community work and subsection (1) or subsection (2) or subsection (3) of this section applies, the Court that determines the appeal or, as the case may require, the District Court Judge to whom the certificate is submitted shall, in addition to specifying the date on which the sentence resumes, specify the date and time at which the defendant is required to report to the community work centre on the first occasion after the resumption of the sentence.
+(5) In any case to which subsection (1) or subsection (2) or subsection (3) or subsection (4) of this section applies, the Registrar shall notify the controlling officer of the probation area in which the sentence is to be served and the defendant, if he or she is not present in Court at the time the appeal is disposed of in accordance with this section, of—
+  (a) The date on which the sentence or order is to resume; and
+  (b) in the case of a sentence of community work, the date and time at which the defendant is to report to the community work centre.
+
+### 137A Provisions on determination of appeal where defendant sentenced to periodic detention
+[Repealed]
+
+### 137B Provisions on determination of appeal where defendant sentenced to community service
+[Repealed]
+
+### 137C Provisions on determination of appeal where defendant sentenced to community care
+[Repealed]
+
+### 137D Provisions on determination of appeal where non-association order made in respect of defendant
+[Repealed]
+
+### 138 Revesting and restitution of property on conviction
+(1) The operation of any order for the restitution of any property to any person and the operation, in case of any summary conviction under this Act, of the provisions of subsection (1) of section 26 of the Sale of Goods Act 1908 as to the revesting of the property in stolen goods on conviction, shall (unless the Court by which the order was made or by which the defendant was convicted directs to the contrary in any case in which, in its opinion, the title to the property is not in dispute) be suspended—and, in cases where the operation of any such order or the operation of the said provisions is suspended until the determination of the appeal, the order or provisions, as the case may be, shall not take effect as to the property in question if the conviction is quashed on appeal. Provision may be made by regulations under this Act for securing the safe custody of any property, pending the suspension of the operation of any such order or of the said provisions.
+  (a) In any case until the expiration of 14 days after the date of the conviction; and
+  (b) In cases where notice of appeal is given within 14 days after the date of conviction, until the determination of the appeal,—
+(2) The High Court may by order annul or vary any order for the restitution of any property to any person, although the conviction is not quashed; and the last-mentioned order, if annulled, shall not take effect, and, if varied, shall take effect as so varied.
+
+### 139 Estreat of bail bond where determination appealed against
+[Repealed]
+
+### 140 Orders as to costs
+[Repealed]
+
+### 141 Party giving notice of appeal and not prosecuting same may be ordered to pay costs
+[Repealed]
+
+### 142 Enforcement of order as to costs
+[Repealed]
+
+### 143 No Court fees payable on appeal by person sentenced to detention
+Where any party to an appeal has been sentenced to detention under the conviction to which the appeal relates, no Court fees shall be payable in respect of the appeal either in a District Court or in the High Court or in the Court of Appeal.
+
+**Appeal to Court of Appeal**
+
+### 144 Appeal to Court of Appeal
+(1) Either party may, with the leave of the High Court, appeal to the Court of Appeal against any determination of the High Court on any case stated for the opinion of the High Court under section 107 of this Act or against any determination of the High Court on a question of law arising in any general appeal:
+  Provided that, if the High Court refuses to grant leave to appeal to the Court of Appeal, the Court of Appeal may grant special leave to appeal.
+(2) A party desiring to appeal to the Court of Appeal under this section shall, within 21 days after the determination of the High Court, or within such further time as that Court may allow, give notice of his application for leave to appeal in such manner as may be directed by the rules of that Court, and the High Court may grant leave accordingly if in the opinion of that Court the question of law involved in the appeal is one which, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for decision.
+(3) Where the High Court refuses leave to any party to appeal to the Court of Appeal under this section, that party may, within 21 days after the refusal of the High Court or within such further time as the Court of Appeal may allow, apply to the Court of Appeal, in such manner as may be directed by the rules of that Court, for special leave to appeal to that Court, and the Court of Appeal may grant leave accordingly if in the opinion of that Court the question of law involved in the appeal is one which, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for decision.
+(4)
+(5)
+(6)
+
+### 144A Appeal to Supreme Court
+(1) With the leave of the Supreme Court, either party may appeal to the Supreme Court against—
+  (a) a determination of the High Court on a case stated for its opinion under section 107; or
+  (b) a determination of the High Court (other than a determination made on an interlocutory application (within the meaning of the Supreme Court Act 2003) made in a general appeal; or
+  (c) a decision of the Court of Appeal on an appeal under section 144(1).
+(2) Subsection (1) is subject to section 14 of the Supreme Court Act 2003 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
+
+### 144B Powers of Court of Appeal and Supreme Court on appeal
+On an appeal under section 144 or section 144A to the Court of Appeal or the Supreme Court,—
+  (a) the court appealed to has the same power to adjudicate on the proceeding that the High Court had; and
+  (b) the same judgment must be entered in the High Court, and the same execution and other consequences and proceedings follow, as if the decision of the court appealed to had been given in the High Court.
+
+## Part 5 — Preliminary hearing of indictable offences
+
+### 145 Proceedings under this Part
+(1) This Part of this Act shall apply in any case where the defendant is to be proceeded against by indictment.
+(2) Subject to the provisions of sections 44 and 66 of this Act, all proceedings to which this Part of this Act applies shall be commenced by information in form 2 in Schedule 2 to this Act, substantiated on oath before a District Court Judge or Justice or Community Magistrate or before any Registrar (not being a constable).
+(3) Without limiting any other provision of this Act or any other enactment, no information shall be invalid by reason only that it does not contain the date of birth of the defendant or does not correctly describe the defendant's date of birth, and no amendment shall be required to remedy that omission or error before the trial.
+
+**Information, summons, and warrant**
+
+### 146 Application of provisions of Part 2
+The following provisions of Part 2 of this Act, as far as they are applicable and with the necessary modifications, shall apply with respect to proceedings to which this Part of this Act applies, as if references in those provisions to proceedings to which Part 2 applies were references to proceedings to which this Part applies, and as if references in those provisions to the hearing were references to the preliminary hearing, namely:
+  (a) Section 13 (which permits any person to lay an information):
+  (b) Subsection (1) of section 16 (which requires an information to be for one offence only):
+  (c) Section 17 (which requires an information to contain certain particulars):
+  (ca) Section 17A (which requires that certain informations disclose the range of penalties available for the offence):
+  (d) Section 18 (which specifies the Court in which an information must be filed):
+  (e) Section 20 (which relates to the issue of a summons or a warrant for the attendance of a witness):
+  (f) Section 22 (which specifies the person to whom a warrant is to be directed and the power of the person executing a warrant to enter premises):
+  (g) Section 23 (which relates to the withdrawal of a warrant).
+
+### 147 Issue of summons to or of warrant to arrest defendant
+(1) When an information has been laid—
+  (a) Any District Court Judge or Justice or Community Magistrate or the Registrar (not being a constable) may issue a summons to the defendant, in the prescribed form:
+  (b) Any District Court Judge or Justice or Community Magistrate or the Registrar (not being a constable) may issue a warrant, in the prescribed form, to arrest the defendant and bring him before a Court.
+(2) A warrant as aforesaid may be issued notwithstanding that a summons has previously been issued and whether or not any such summons has been served.
+
+### 148 Issue of warrant where defendant who has been summoned does not attend
+If any person who has been served with a summons issued against him in accordance with section 147 of this Act does not attend personally at the time and place mentioned in the summons or at any time and place to which the preliminary hearing is adjourned, the presiding District Court Judge or Justices or Community Magistrate or Community Magistrates may issue a warrant, in the prescribed form, to arrest him and bring him before a Court.
+
+### 149 Defect in form or variance between charge and evidence
+No objection shall be taken or allowed to any information, summons, or warrant to which this Part of this Act applies for any alleged defect in substance or in form, or for any variance between it and the evidence adduced on the part of the prosecution at the preliminary hearing:
+  Provided that, if any such variance appears to the Court to be such that the defendant has been deceived or misled, it may, at his request, adjourn the preliminary hearing under section 152 of this Act.
+
+**Service of documents**
+
+### 150 Service of summons on defendant
+Every summons to a defendant shall be served on him by a constable, and service shall be effected by delivery of the summons to the defendant personally, or by its being brought to his notice if he refuses to accept it.
+
+### 151 Application of provisions of Part 2
+The following provisions of Part 2 of this Act, as far as they are applicable and with the necessary modifications, shall apply with respect to proceedings to which this Part of this Act applies, as if references in those provisions to the hearing were references to the preliminary hearing, namely:
+  (a) Section 26 (which prescribes the mode of service of documents on any person other than the defendant):
+  (b) Section 27 (which specifies who may serve documents on any person other than the defendant):
+  (c) Subject to the provisions of section 150 of this Act, section 28 (which prescribes the mode of service in particular cases):
+  (d) Section 29 (which prescribes the manner in which service may be proved):
+  (e) Section 30 (which relates to the translation of documents into the Maori language).
+
+**Adjournments and bail**
+
+### 152 Power to adjourn
+(1) The preliminary hearing of any information may from time to time be adjourned by the Court to a time and place then appointed, if for any reasonable cause it is necessary or desirable to do so.
+(2) If at any time and place appointed for the preliminary hearing of any information or for proceedings under section 153A of this Act, or when a defendant is brought before a Court on arrest, only one Justice is present, that Justice may adjourn the preliminary hearing or the proceedings to a time and place then appointed.
+(3) Except with the consent of both parties, no adjournment under this section shall be for a longer period than 8 days.
+
+### 152A Power of Registrar to adjourn
+(1) A Registrar may, upon application and with the consent of each party, adjourn the preliminary hearing of any information to a time and place then appointed if—
+  (a) The defendant is not in custody at the time of the application; and
+  (b) The application is made before the commencement of the preliminary hearing; and
+  (c) It is necessary or desirable to do so for any reasonable cause.
+(2) Where an adjournment is granted under subsection (1) of this section,—
+  (a) The present conditions of bail (if any) shall, subject to section 34 of the Bail Act 2000, continue to the adjourned date of hearing; and
+  (b) Any order made under section 140 of the Criminal Justice Act 1985 in relation to the defendant or any other person connected with the proceedings and having effect only for a limited period that would expire before the adjourned date of hearing shall continue to have effect until the close of the adjourned date of hearing.
+(3) Whenever the Registrar grants an adjournment under this section, the Registrar shall notify each party in writing.
+(4) For the avoidance of doubt, it is hereby declared that a Registrar may, upon application and with the consent of each party, grant an adjournment under subsection (1) of this section if—
+  (a) The defendant has been released on bail under section 21 of the Bail Act 2000; and
+  (b) The application is made before the commencement of the preliminary hearing; and
+  (c) It is necessary or desirable to do so for any reasonable cause.
+
+### 153 Application of section 46
+Section 46, with the necessary modifications, applies with respect to proceedings to which this Part applies, as if references in that section to the hearing were references to the preliminary hearing or the proceedings under section 153A, as the case may be.
+
+**Plea of guilty before or during preliminary hearing**
+
+### 153A Defendant may plead guilty before or during preliminary hearing
+(1) If a defendant is represented by a barrister or solicitor, he may, at any time before or during the preliminary hearing of any information, request that he be brought before the Court (or if he is at that time before the Court, that he be permitted) to plead guilty to the offence with which he is charged.
+(2) As soon as practicable after such request (which shall be in writing if made before the commencement of the preliminary hearing), the defendant shall be brought before the Court to be dealt with (or if he is before the Court at the time of such request, shall be dealt with) under this section.
+(3) If the defendant is not before the Court at the time of such request and is not in custody, notice shall be given to him of the time and place for attendance before the Court for the purpose of being dealt with under this section.
+(4) On the defendant's (or, where the defendant is a corporation, the defendant's representative's) attendance before a Court for the purposes of this section, the charge to which he is required to plead shall be read to him and he shall then be called upon to plead either guilty or not guilty.
+(5) If the defendant does not plead guilty, or if he (or where the defendant is a corporation, a representative of the defendant) does not personally attend the proceedings, he shall be treated in all respects as if he had not made any request to plead guilty, and no comment shall be made at the preliminary hearing or any subsequent proceedings on the fact that such a request has been made, nor shall the request be admissible in evidence against him in any proceedings.
+(6) If the defendant pleads guilty, then, subject to section 66(6) of this Act,—
+  (a) Where—the Court shall record the plea and adjourn the proceedings for the sentencing of the defendant in accordance with section 28F of the District Courts Act 1947, and section 47 of this Act and section 50 of the Bail Act 2000 shall apply on every such adjournment; or
+    (i) The offence is an indictable offence referred to in section 6(2) of this Act; or
+    (ii) The offence is an indictable offence described in any of the enactments referred to in Schedule 1 to this Act; or
+    (iii) The defendant elected under section 66 of this Act to be tried by a jury; or
+    (iv) The offence is an indictable offence referred to in Part 1 of Schedule 1A to the District Courts Act 1947; or
+    (v) The offence is an indictable offence referred to in Part 2 of Schedule 1A to the District Courts Act 1947,—
+  (b) In any other case, the Court shall commit the defendant to the High Court for sentence.
+(6A)
+(6B)
+(7) Where the defendant pleads guilty and is committed to the High Court for sentence pursuant to this section, sections 168 (except subsection (1)), 169, 170, and 171 of this Act and sections 53 and 54 of the Bail Act 2000, as far as they are applicable and with the necessary modifications, shall apply as if the defendant had pleaded guilty and been committed to the High Court for sentence at the close of a preliminary hearing.
+(8) Sections 155, 156, and 157 of this Act, as far as they are applicable and with the necessary modifications, shall apply with respect to any proceedings under this section, as if references in those sections to the preliminary hearing were references to proceedings under this section.
+
+**Procedure at preliminary hearing**
+
+### 154 Application of provisions of Part 2
+The following provisions of Part 2 of this Act, as far as they are applicable and with the necessary modifications, shall apply with respect to proceedings to which this Part of this Act applies, as if references in those provisions to the hearing were references to the preliminary hearing and references to the charge were references to the information, namely:
+  (a) Subsections (1), (2), and (3) of section 37 (which relate to the person who may conduct the proceedings):
+  (b) Section 38 (which relates to the issue of a warrant for the appearance of a witness):
+  (c) Section 39 (which relates to the imprisonment of a witness refusing to give evidence):
+  (d) Subsection (1) of section 40 (which relates to the power to order witnesses to remain outside the Court):
+  (e) Section 60 (which requires evidence to be given on oath).
+
+### 155 Place of preliminary hearing
+(1) Unless an order is made under the succeeding provisions of this section or under section 4A of the District Courts Act 1947, or unless there is a statutory provision to the contrary, the preliminary hearing of an information shall take place in the Court in the office of which it is filed.
+(2) Any District Court Judge or Justice or Community Magistrate may order that the preliminary hearing of an information shall take place in some other Court.
+(3) The Registrar may, with the consent of each party, order that the preliminary hearing of an information shall take place in some other Court.
+(4) When an order is made under subsection (2) or subsection (3) of this section, the Registrar shall—
+  (a) Forward the information to the Registrar of the Court to which it is ordered to be transferred; and
+  (b) Notify each party in writing.
+
+### 156 Power to clear Court and forbid report of preliminary hearing
+[Repealed]
+
+### 157 Withdrawal of information by informant
+(1) Any information may by leave of the Court be withdrawn by the informant at any time before the defendant is discharged or is committed for trial or for sentence.
+(1A) Notwithstanding anything in subsection (1) of this section, where, on an application under section 109(1)(d) of the Evidence Act 2006, leave is granted to the defendant to put any question relating to the identity of a witness called by the informant, the informant may forthwith withdraw the information, and leave of the Court shall not be required.
+(2) The withdrawal of an information shall not operate as a bar to any other proceedings in the same matter.
+
+### 158 Preliminary hearing to take place in presence of defendant
+(1) Except as provided in sections 173A, 174, and 175 of this Act, the defendant shall be entitled to be present in Court during the whole of the preliminary hearing, unless he misconducts himself by so interrupting the proceedings as to render their continuance in his presence impracticable.
+(2) The Court may permit the defendant to be out of Court during the whole or any part of the preliminary hearing on such terms as it thinks fit.
+
+### 159 Preliminary hearing may be completed notwithstanding witness's failure to appear or to give evidence
+Nothing in section 38 or section 39 of this Act shall prevent the Court from committing the defendant for trial or for sentence or otherwise disposing of the case if any other evidence received by it is sufficient for that purpose.
+
+### 160 Charge to be read to defendant
+(1) At any preliminary hearing the charge shall be read to the defendant before the informant calls any witness, or any written statement is tendered pursuant to section 173A of this Act, or the Court proceeds pursuant to section 160A of this Act, as the case may be.
+(2) Where at any preliminary hearing the information is amended, the amended charge shall be read to the defendant immediately after all the evidence for the informant has been given.
+
+### 160A Committal without consideration of evidence
+If at any preliminary hearing—the Court may, without considering the evidence, proceed in accordance with section 168 (or, where the defendant is a corporation, section 172) of this Act as if it had considered the evidence and as if the evidence adduced by the informant was, in its opinion, sufficient to put the defendant on his trial for an indictable offence.
+  (a) All parties advise the Court that all evidence consists of written statements, or exhibits, tendered pursuant to section 173A of this Act; and
+  (b) The defendant is represented by a barrister or solicitor; and
+  (c) That barrister or solicitor advises the Court that he agrees that it should proceed in the following manner—
+
+### 161 Depositions of witnesses
+(1) Unless the Court proceeds pursuant to section 160A of this Act and subject to sections 173A and 185C of this Act, at any preliminary hearing, after the charge has been read to the defendant, the informant shall call his witness, and such witnesses shall be examined by the informant and may be cross-examined by the defendant and re-examined by the informant.
+(2) The evidence of each witness shall be put into writing and shall then, in the presence of the defendant, be read over to the witness and shall be signed by the witness and by the presiding District Court Judge or Justices or Community Magistrate or Community Magistrates.
+
+### 161A Application for leave to question undercover police officer's identity to be removed into High Court
+Where the defendant applies for leave under section 109(1)(d) of the Evidence Act 2006, to put any questions relating to the identity of a witness called by the informant, the application shall be removed into the High Court and heard and determined by a Judge of that Court, and no evidence or further evidence shall be taken from that witness pending the determination of that application.
+
+### 162 Amendment of information
+(1) Subject to the provisions of subsections (2) and (3) of this section, the Court may amend any information to which this Part of this Act applies in any way at any time during the preliminary hearing.
+(2) No information in form 2 in Schedule 2 to this Act shall be amended to an information in form 1 in that Schedule.
+(3) The Court may at the request of the defendant, if it is of opinion that he would be embarrassed in his defence by reason of an amendment made or proposed to be made under this section, adjourn the preliminary hearing. Except with the consent of both parties no such adjournment shall be for a longer period than 8 days.
+
+### 163 Statement of defendant who is unrepresented
+(1) The defendant shall not be entitled to make an unsworn statement of fact at the preliminary hearing.
+(2) In every case where the defendant is not represented by counsel or a solicitor, and after all the evidence for the informant has been given and any amended charge has been read to the defendant, the presiding District Court Judge or Justices or Community Magistrate or Community Magistrates shall cause the following caution or words to the like effect to be addressed to the defendant:Having heard the evidence against you, do you wish to give evidence yourself or to call witnesses? If you give evidence yourself, you may be cross-examined. You are not obliged to give or call evidence but, if you do, that evidence will be taken down and may be given against you at your trial. You should take no notice of any promise or threat which any person may have made to persuade you to say anything. If you do not give evidence in this Court, that fact will not be allowed to be the subject of any comment.
+(3) If the defendant gives evidence, he may be cross-examined by the informant and, if he is represented, he may be re-examined. His evidence shall be put into writing and shall then be read over to him and shall be signed by the presiding District Court Judge or Justices or Community Magistrate or Community Magistrates.
+(4) If the defendant is committed for trial, his evidence may be given in evidence against him at his trial without further proof thereof, unless it is proved that the District Court Judge or Justices or Community Magistrate or Community Magistrates purporting to sign it did not in fact sign it.
+
+### 164 Admissions of defendant may be put in evidence
+Nothing in section 163 of this Act shall prevent the admission as evidence of any admission or confession or other statement of the defendant, whenever made, which by law would be admissible as evidence against him.
+
+### 165 Witnesses on behalf of defendant to be examined if defendant wishes
+(1) Unless the Court proceeds pursuant to section 160A of this Act, the Court shall, if required by the defendant to do so, allow him to call witnesses who shall be examined by him and may be cross-examined by the informant and re-examined by the defendant.
+(2) The evidence of each witness shall be put into writing, and shall then in the presence of the defendant be read over to the witness and shall be signed by the witness and by the presiding District Court Judge or Justices or Community Magistrate or Community Magistrates.
+
+### 166 No comment to be made on defendant's refraining from answering the charge
+Where the defendant refrains from giving evidence in answer to the charge, no comment adverse to him shall be made on that fact.
+
+### 167 If evidence insufficient defendant to be discharged
+When all the evidence has been given, if the Court is of opinion that the evidence adduced by the informant is not sufficient to put the defendant on his trial for any indictable offence it shall forthwith discharge the defendant.
+
+### 168 If evidence sufficient defendant may be committed for trial or for sentence
+(1) When all the evidence has been given, if in the opinion of the Court the evidence adduced by the informant is sufficient to put the defendant on his trial for an indictable offence, the following provisions shall apply:
+  (a) The defendant shall be addressed by or on behalf of the Court as follows:This Court proposes to commit you for trial; but you may, if you so desire, plead guilty to the offence charged:
+  (aa) Except where the Court is presided over by a trial Judge who would himself impose sentence, the Court shall also tell the accused which Court he will be committed to for sentence if he pleads guilty:
+  (b) If the defendant pleads guilty, then, subject to subsections (6) and (6A) of section 66 of this Act,—
+    (i) Where the offence is one to which section 153A(6)(a) of this Act applies, the Court shall record the plea and adjourn the proceedings for the sentencing of the defendant in accordance with section 28F of the District Courts Act 1947, and section 47 of this Act and section 51 of the Bail Act 2000 shall apply on every such adjournment; or
+    (ii) In any other case, the Court shall commit the defendant to the High Court for sentence.
+  (c) If the defendant does not then plead guilty then, subject to the provisions of subsection (6) of section 66 of this Act, the Court shall commit him for trial.
+(1A)
+(1B)
+(2) Where the defendant has pleaded guilty and is committed to the High Court for sentence, the following statement shall be endorsed on the information:I plead guilty to the offence charge in the within information.Dated this day of 19.
+(3) The statement shall be signed by the defendant and witnessed by the presiding District Court Judge or Justices Community Magistrate or Community Magistrates, or, where the defendant is for any reason unable to sign his name, he shall affix his mark thereto, and the same shall be witnessed by the presiding District Court Judge or Justices Community Magistrate or Community Magistrates.
+
+### 168A Court to which defendant to be committed
+(1) Subject to subsection (2), the Court to which a defendant must be committed for trial under section 168 or section 172 is as follows:
+  (a) In respect of any offence that a District Court has jurisdiction to try by virtue of any of paragraphs (a) to (d) of section 28A(1) of the District Courts Act 1947, either—
+    (i) The District Court exercising that jurisdiction nearest to the committing Court; or
+    (ii) Such other District Court exercising that jurisdiction as may be specified in regulations made under this Act as being a Court to which the defendant may be committed for trial (even if not nearest to the committing Court):
+  (b) In respect of any other offence, either—
+    (i) The High Court at the place where sittings of the Court are held nearest to the committing Court; or
+    (ii) The High Court at such other place as may be specified in regulations made under this Act as being the place at which sittings of the High Court are conducted, and to which the defendant may be committed for trial (even if not nearest to the committing Court).
+(2) Where the defendant has been charged—the Court to which a defendant must be committed for trial under section 168 or section 172 must be either—
+  (a) With offences arising from the same incident or series of incidents in respect of which he or she must be committed to the High Court on at least 1 charge; or
+  (b) Together with some other person or persons with offences arising from the same incident or series of incidents in respect of which he or she must be committed to the High Court on at least 1 charge,—
+  (c) The High Court at the place where sittings of the Court are held nearest to the committing Court; or
+  (d) The High Court at such other place as may be specified in regulations made under this Act as being a place at which sittings of the High Court are conducted and to which the defendant may be committed for trial (even if not nearest to the committing Court).
+(3) Notwithstanding that a defendant has been committed to the High Court for trial pursuant to subsection (2) of this section, a Judge of the High Court may direct that any indictment that may be tried in a District Court under section 28A of the District Courts Act 1947 be tried in that Court.
+(4) Nothing in this section shall affect the provisions of section 28J of the District Courts Act 1947.
+
+### 168AA High Court Judge to determine Court of trial in certain cases
+(1) This section applies to every case in which a defendant is committed to the High Court for trial for any offence referred to in Part 2 of Schedule 1A to the District Courts Act 1947.
+(2) In each case to which this section applies, a Judge of the High Court shall determine on the papers whether it is more appropriate for the trial to be held in a District Court; and, if the Judge determines that the trial would be more appropriately held in a District Court, the Judge shall, by order, transfer the case to the District Court exercising jurisdiction under Part 2A of the District Courts Act 1947 nearest to the committing Court. No party to the proceedings shall be entitled to be heard by, or to make submissions to, the Judge under this subsection.
+(3) In determining the appropriate Court under subsection (2) of this section in any case, the Judge shall have regard to the following matters:
+  (a) The gravity of the offence charged:
+  (b) The complexity of the issues likely to arise in the proceedings:
+  (c) The desirability of the prompt disposal of trials:
+  (d) The interests of justice generally.
+(4) Nothing in this section shall apply to proceedings transferred to the High Court by order made under section 28J of the District Courts Act 1947.
+(5) Nothing in this section applies to a proceeding involving a witness who is the subject of an anonymity order made under section 112 of the Evidence Act 2006.
+
+### 168AB Notice of transfer of case to District Court
+(1) Where an order transferring a case to a District Court is made under section 168AA of this Act, a Registrar of the High Court shall give or cause to be given—
+  (a) To the defendant's counsel or solicitor, or to the defendant if the defendant is not represented,—
+    (i) A copy of the order; and
+    (ii) A written notice informing the defendant of the date and time at which the defendant must report to the District Court to which the case has been transferred and, where the defendant has been released on bail, making the necessary variations in the conditions of bail; and
+  (b) To each surety of that defendant under any surety bond—
+    (i) A copy of the order; and
+    (ii) A copy of the written notice given to the defendant under paragraph (a)(ii) of this subsection.
+(2) Where subsection (1) of this section is complied with in relation to a defendant and to each surety of that defendant under any such surety bond, the terms of that surety bond shall be deemed to be varied accordingly.
+
+### 168B Defendant to be warned as to law relating to notice of alibi
+If the Court commits the defendant for trial, the Registrar shall give or cause to be given to the defendant's counsel or solicitor, or to the defendant if he is not represented, a written notice, in the prescribed form, of the requirements of section 367A of the Crimes Act 1961 relating to the giving of notice of particulars of alibi. The fact that the written notice was so given to the defendant's counsel or solicitor, or to the defendant, shall be recorded on the form of committal of the defendant for trial.
+
+### 168C Defendant to be advised of his right to apply for trial before a Judge without a jury
+If the Court commits the defendant for trial for any offence other than one referred to in subsection (5) of section 361B of the Crimes Act 1961, the Registrar shall give or cause to be given to the defendant's counsel or solicitor, or to the defendant if he is not represented, a written notice, in the prescribed form, of the defendant's right, under the said section 361B, to apply to a Judge of the High Court or a trial Judge of the District Court, as the case may require, for an order that he be tried before a Judge without a jury. The fact that the written notice was so given to the defendant's counsel or solicitor, or to the defendant, shall be recorded on the form of committal of the defendant for trial.
+
+### 169 Where defendant pleads guilty, no objection to be taken and plea not to be withdrawn without leave
+No objection on any ground whatever shall be taken to any information to which the defendant has pleaded guilty, and the defendant shall not afterwards be allowed to withdraw the plea except with the leave of a Judge of the High Court.
+
+### 170 Defendant committed for sentence to be brought before High Court
+A defendant who is committed for sentence shall as soon as practicable be brought before the High Court for sentence, and any Judge of that Court shall have the same powers of sentencing or otherwise dealing with the defendant, and of finally disposing of the charge and of all incidental matters, as he would have had if the defendant on arraignment at any criminal sittings of the High Court had pleaded guilty to the offence charged on an indictment duly presented.
+
+### 171 Dealing with defendant committed for trial or for sentence
+(1) If a defendant is committed for trial or for sentence then, whether or not the defendant is granted bail under the Bail Act 2000, the District Court must issue a warrant in the prescribed form for the defendant's detention in a prison pending the defendant's trial or the defendant being brought up for sentence, as the case may be.
+(2) Despite subsection (1), the District Court may, instead of issuing a warrant under that subsection, make an order for the defendant's detention in a hospital or secure facility pending the defendant's trial if the District Court is satisfied, on the production of a certificate or certificates by 2 health assessors, that—
+  (a) the defendant is mentally impaired; and
+  (b) the defendant's mental condition requires that, in the defendant's own interest, the defendant should be detained in a hospital or secure facility instead of in a prison.
+(3) In subsection (2),—
+  (a) health assessor has the same meaning as in section 4 of the Criminal Procedure (Mentally Impaired Persons) Act 2003:
+  (b) hospital has the same meaning as in section 2(1) of the Mental Health (Compulsory Assessment and Treatment) Act 1992:
+  (c) secure facility has the same meaning as in section 9(2) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003.
+
+### 172 Procedure on charge of offence against corporation
+Where a corporation is charged with an indictable offence to which this Part of this Act applies, the Court before which the preliminary hearing is conducted shall, if it is of opinion that the evidence adduced by the informant is sufficient to put the defendant corporation upon trial for an indictable offence, make an order empowering the presenting of an indictment in respect of the offence named in the order, and for the purposes of any enactments referring to committal for trial any such order shall be deemed to be a committal for trial:
+  Provided that, if the corporation appears before the Court by a representative, any answers to the question to be put under section 163 of this Act may be made on behalf of the corporation by that representative, but, if the corporation does not so appear, it shall not be necessary to put the question, and the Court may notwithstanding make an order under this section.
+
+### 173 Stay of proceedings
+The Attorney-General may, at any time after an information has been laid against any person under this Part of this Act and before that person has been committed for trial or for sentence, direct that an entry be made in the Criminal Records kept pursuant to section 71 of this Act that the proceedings are stayed by his direction, and on that entry being made the proceedings shall be stayed accordingly.
+
+**Special provisions for taking evidence**
+
+### 173A Written statements
+(1) Subject to subsection (2) of this section, at any preliminary hearing a written statement by any person shall be admissible as evidence to the same extent as oral evidence to the like effect given at that hearing by that person.
+(2) A written statement by any person shall not be admissible as evidence at a preliminary hearing unless—
+  (a) It purports to be signed by that person; and
+  (b) That person states at the end thereof that everything therein is true to the best of his knowledge and belief; and that he made the statement knowing that it might be admitted as evidence at a preliminary hearing and that he could be prosecuted for making a statement that is known by him to be false and intended by him to mislead; and
+  (c) The party proposing to tender it as evidence has given to every other party, or the solicitor for that party, a copy thereof; and each such other party, or solicitor, has filed, in the office of the Court at which the hearing is to take place, a signed memorandum to the effect that that party consents to the statement being admitted as evidence at the hearing; and
+  (d) If it is made by a person aged under 20 years, the age of that person is stated therein; and
+  (e) If it is made by a person who cannot read it, it has been read to him before he signed it and there is attached thereto a signed statement by the reader to the effect that it was so read, and that the person to whom it was read appeared to understand its contents; and
+  (f) If it refers to any other document or object as an exhibit, the copy given to every other party or solicitor pursuant to paragraph (c) of this subsection is accompanied by a copy of the exhibit or such information as is necessary to enable that party or solicitor to inspect the exhibit or a copy thereof:
+  Provided that, if all parties to the hearing consent to its being so admitted, a written statement that does not comply with any of the foregoing provisions of this subsection shall be admissible as evidence at a preliminary hearing.
+(3) Notwithstanding that a written statement made by any person is admissible as evidence at a preliminary hearing pursuant to this section, the Court may, of its own motion or on the application of any party, require that person to attend before the Court and give evidence.
+(4) Where any written statement is admitted as evidence at a preliminary hearing pursuant to this section, the Court may direct that the statement be read aloud at the hearing or that an oral account be given of so much of the statement as is not read aloud.
+(5) Any document or object accompanying a written statement tendered in evidence under this section, and referred to therein as an exhibit, shall be treated as if it had been produced as an exhibit and identified in Court by the maker of the statement.
+(6) Everyone who makes, in a written statement that he knows may be admitted in evidence at a preliminary hearing pursuant to this section and that is so admitted, a statement that would amount to perjury if made on oath in a judicial proceeding commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 years.
+
+### 174 Order for taking evidence of defence witness
+(1) Notwithstanding anything in this Part of this Act, any District Court Judge or Registrar on the application of the defendant before the preliminary hearing, or the Court on the application of the defendant at the preliminary hearing, may make an order for the taking, before any District Court or the Registrar thereof (not being a constable), of the evidence of any witness for the defence, if in the opinion of the District Court Judge or Registrar, or, as the case may be, the Court, it is desirable or expedient, by reason of the distance from the Court of the place where the witness resides or of his illness or of his intention to depart from New Zealand before the preliminary hearing, that the evidence of the witness should be so taken.
+(1A) Notwithstanding anything in this Part of this Act, any District Court Judge or Registrar on the application of the informant before the preliminary hearing, or the Court on the application of the informant at the preliminary hearing, may make an order for the taking before any District Court or the Registrar thereof (not being a constable) of the evidence of any witness for the prosecution, if, in the opinion of the District Court Judge or Registrar, or, as the case may be, of the Court, it is desirable or expedient, by reason of the distance from the Court of the place where the witness resides or of his illness or of his intention to depart from New Zealand before the preliminary hearing, that the evidence of the witness should be so taken:
+  Provided that, except where the order is made on the ground that the witness intends to depart from New Zealand before the preliminary hearing, no such order shall be made unless the defendant consents.
+(2) Evidence given in accordance with this section and with any regulations made under this Act may be tendered at the preliminary hearing as if it were given in the course thereof; and judicial notice shall be taken of the signature of any examining District Court Judge or Registrar to any deposition made pursuant to an order under this section.
+(3) Where the Court of hearing considers that an application for the taking of the evidence of any witness under this section has been made for the purpose of delay or for any other improper purpose, or that there is undue delay in the taking of any such evidence, the Court may proceed with the preliminary hearing without waiting for the evidence to be so taken.
+(4) Nothing in this section or in any regulations made under this Act shall limit or affect the power of the Court to compel the personal attendance of any witness at the preliminary hearing.
+(5) If at the completion of the preliminary hearing the defendant is committed for trial, and if at the time of the trial it is proved by such evidence as the Judge considers sufficient (whether legally admissible or not) that any person whose evidence has been given in accordance with this section is out of New Zealand or dead or so ill as not to be able to travel, the deposition of that witness may at the trial be read as evidence for either party, unless the other party proves that the deposition was not in fact signed by the District Court Judge or Registrar purporting to sign it, or was not in fact taken in accordance with the provisions of this Act.
+
+### 175 Power to take statement of person dangerously ill
+(1) A District Court Judge, Registrar, Justice, or Community Magistrate may take a statement of a person on the oath or affirmation of the person if the District Court Judge, Registrar, Justice, or Community Magistrate is satisfied that,—
+  (a) in the opinion of a medical practitioner, the person is dangerously ill; and
+  (b) the person is able and willing to give material information relating to an indictable offence or relating to a person accused of an indictable offence.
+(2) A statement under this section may be taken in writing or by an electronic recording (for example, an audio recording or a video recording).
+(3) A District Court Judge, Registrar, Justice, or Community Magistrate who takes a statement under this section must prepare, sign, and attach to the statement a certificate as to—
+  (a) whether he or she is satisfied that the statement was taken in accordance with this section; and
+  (b) the day on which the statement was taken; and
+  (c) the place where the statement was taken; and
+  (d) any person (other than the dangerously ill person and the District Court Judge, Registrar, Justice, or Community Magistrate) present at any time while the statement was taken.
+(4) A District Court Judge, Registrar, Justice, or Community Magistrate who takes a statement under this section must,—
+  (a) if it relates to an indictable offence for which an accused person is already committed for trial, send it and the attached certificate to the Registrar of the Court in the place to which the accused person has been committed for trial; or
+  (b) if it does not relate to an indictable offence for which an accused person is already committed for trial, send it and the attached certificate to the Registrar of the District Court nearest to the place where it was taken.
+(5) A Registrar of a District Court to whom a statement under subsection (4)(b) is sent must—
+  (a) keep it and file it of record; and
+  (b) forward it to a District Court in which—
+    (i) a person to whom it relates is charged with an indictable offence; or
+    (ii) a person is charged with an offence to which it relates.
+
+### 176 Evidence of statement made by person dangerously ill
+(1) If each condition set out in subsection (2) is satisfied, a statement taken under section 175 may without further proof be given in evidence either—
+  (a) for or against the defendant at the preliminary hearing of—
+    (i) an information for an offence to which the statement relates (whether or not the defendant had been charged with that offence at the time the statement was taken); or
+    (ii) an information charging any person to whom the statement relates; or
+  (b) for or against the accused person on the trial of—
+    (i) a person for an offence to which the statement relates (whether or not the accused had been charged with that offence at the time the statement was taken); or
+    (ii) a person to whom the statement relates.
+(2) The conditions are—
+  (a) that it is proved by such evidence as the District Court or, as the case may be, the High Court considers sufficient (whether legally admissible or not)—
+    (i) that the person who made the statement is dead; or
+    (ii) that there is no reasonable possibility that the person who made the statement will ever be able to travel or give evidence:
+  (b) that the statement purports to be signed by the District Court Judge, Registrar, Justice, or Community Magistrate before whom the statement purports to be taken:
+  (c) that it is proved to the satisfaction of the District Court or, as the case may be, the High Court—
+    (i) that reasonable notice of the intention to take the statement was served upon the party other than the party on whose behalf the statement is proposed to be given; and
+    (ii) that that other party or that other party's counsel or solicitor had, or might have had if that other party or counsel or solicitor had chosen to be present, full opportunity of cross-examining the person who made the statement.
+
+### 177 Provision for person in custody to be present at taking of statement
+Where a person who is in custody has served or has received a notice of an intention to take a statement as provided in section 175 of this Act, any District Court Judge or Justice or Community Magistrate may by an order in writing direct the manager of the prison in which that person is detained to convey him to the place mentioned in the notice for the purpose of being present at the taking of the statement, and the manager shall convey him accordingly.
+
+### 178 Deposition of witness taken after defendant committed for trial
+(1) Where after a defendant has been committed for trial a District Court Judge, on the application of the informant or the defendant, is satisfied that any person who did not give evidence (whether orally, by written statement under section 173A of this Act, or otherwise) at the preliminary hearing is able to give evidence, and that it is in the interests of justice that the evidence of that person be taken, the District Court Judge may make an order that the evidence of that person shall be taken at a time and place fixed by the District Court Judge.
+(2) The party on whose application an order is made under this section shall give to the other party notice in the prescribed form of the time and place at which the evidence of the witness is to be taken.
+(3) The provisions of this Part of this Act as to the taking of the evidence of witnesses at the preliminary hearing, as far as they are applicable and with the necessary modifications, shall apply with respect to any evidence taken under this section as if that evidence were taken at the preliminary hearing.
+(4) The deposition of any witness taken under this section shall be forwarded to the Registrar of the Court in the place to which the defendant was committed for trial, and shall have effect as if it were a deposition taken at the preliminary hearing.
+
+### 178A Persons who may sign statements by assumed name
+[Repealed]
+
+### 179
+[Repealed]
+
+**Procedure after close of preliminary hearing**
+
+### 180 Depositions and written statements to be filed when defendant not sent for trial
+Where a defendant is discharged any depositions of witnesses and any written statements under section 173A of this Act shall be filed by the Registrar.
+
+### 181 Notice to witnesses to attend at High Court
+(1) Where—the presiding District Court Judge or Justices or Community Magistrate or Community Magistrates or the Registrar may issue to any such person a notice in the prescribed form requiring that person, in the event of the defendant being committed for trial, to attend at the High Court or the District Court, as the case may be, in accordance with the terms of the notice to give evidence.
+  (a) Any person who gives evidence at the preliminary hearing completes his or her evidence; or
+  (b) Any person makes a written statement that is admitted in evidence at the preliminary hearing under section 173A,—
+(2) Every such notice shall have effect as if it were a summons to a witness issued out of the High Court or District Court, as the case may be.
+(3) Every such notice shall be served personally on the person to whom it is addressed, and shall be served by an officer of the District Court or by any constable.
+(4) The service of any such notice may be proved in the High Court or District Court as the case may be, by affidavit made by the person who served the notice showing the fact and the time of service, or by that person on oath at the trial, or by an endorsement on a copy of the notice showing the fact and time of service and signed by the person effecting service.
+(5) Every person who wilfully endorses any false statement of the fact or time of service on a copy of the notice commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 2 years or to a fine not exceeding $2,000 or to both.
+(6) If at the conclusion of the preliminary hearing the defendant is discharged, every notice given to a witness pursuant to subsection (1) of this section shall be deemed to be cancelled, and the Registrar shall cause notice of that cancellation in the prescribed form to be given to the witness. Every such notice shall be given by delivering it to the witness personally or by sending it to him by registered post addressed to him at his last-known place of residence.
+
+### 182 On committal, documents to be sent to High Court
+(1) Where any person is committed for trial or sentence (other than pursuant to section 153A of this Act), the Registrar of the District Court shall immediately send to the Registrar of the Court in the place where the trial is to be held or the person is to be sentenced the information, any depositions, written statements under section 173A of this Act, any videotape of the complainant's evidence shown at the preliminary hearing in accordance with section 185CA of this Act, and other documents relating to the committal, any exhibits in his custody, the notice of bail (if any) and any surety bond, a record of any particulars of alibi given by the defendant to the District Court under section 367A of the Crimes Act 1961, any certificate filed by the Commissioner of Police under section 108(2) of the Evidence Act 2006 in respect of any witness, and a copy of the notice to attend the Court issued to any witness.
+(2) Where any person is committed for sentence pursuant to section 153A of this Act, or pursuant to section 28G of the District Courts Act 1947 following a plea of guilty under the said section 153A, the Registrar of the District Court shall immediately send to the Registrar of the High Court in the place where the person is to be sentenced the information, a summary of the facts and any evidence upon which that person has pleaded, the notice of bail (if any) and any surety bond, and any other documents or exhibits relating to the committal.
+
+### 183 Every party entitled to copy of depositions or summary of facts
+(1) Every party to the preliminary hearing shall be entitled to a copy of any depositions to which section 182(1) of this Act applies, without fee.
+(2) Both the informant and the defendant, and any other party to the proceedings, shall be entitled to a copy of any summary of facts and evidence sent to the Registrar of the High Court in accordance with section 182(2) of this Act, without fee.
+(3) Where the evidence of the complainant is to be given by way of videotape in accordance with section 185CA of this Act, the defendant shall not be entitled to a copy of the videotape, but shall be entitled to view the videotape within the Court precincts in the presence of an officer of the Court.
+
+### 184 When deposition or written statement may be read in evidence
+(1) Where any person is committed for trial, any deposition taken under the provisions of this Part of this Act or any written statement admitted as evidence at the preliminary hearing under section 173A of this Act, may, if it is proved by such evidence as the Judge considers sufficient (whether legally admissible or not) that the person making the deposition, or written statement, is out of New Zealand or dead or so ill as not to be able to travel, or if in any case all parties consent, without further proof be read as evidence for any party at the trial of the person so committed, whether for the offence in respect of which the deposition, or written statement, was taken or for any other offence arising out of the same transaction or set of circumstances as that offence, unless it is proved that the deposition was not in fact signed by the District Court Judge or Justices or Community Magistrate or Community Magistrates purporting to sign it or was not in fact taken in accordance with the provisions of this Part of this Act, or that the written statement was not in fact taken and admitted in evidence in accordance with section 173A of this Act.
+(2) Any deposition taken under the provisions of this Part of this Act, or any written statement admitted as evidence at a preliminary hearing under section 173A of this Act, may, if it is proved by such evidence as the Court considers sufficient (whether legally admissible or not) that the person making the deposition, or written statement, is out of New Zealand or dead or so ill as not to be able to travel, without further proof be read as evidence for any party on the preliminary hearing of any information charging the person who was charged with the offence in respect of which the deposition, or written statement, was taken with any offence arising out of the same transaction or set of circumstances as that offence, unless it is proved that the deposition was not in fact signed by the District Court Judge or Justice or Justices or Community Magistrate or Community Magistrates purporting to sign it or was not in fact taken in accordance with the provisions of this Part of this Act, or that the written statement was not in fact taken and admitted in evidence in accordance with section 173A of this Act.
+
+### 185 Witness about to leave New Zealand may be arrested
+(1) Where any person is committed for trial, any District Court Judge or Justice or Community Magistrate who is satisfied on oath that any person who has been summoned to give evidence at the trial, or on whom a notice has been served under this part of this Act to attend at the High Court or District Court, as the case may be, is about to leave New Zealand may issue a warrant in the prescribed form for the arrest of that person.
+(2) Where any person is arrested under subsection (1) of this section, the provisions of subsections (4A) to (4D) of section 20 of this Act, so far as they are applicable and with any necessary modifications, shall apply.
+
+## Part 5A — Special provisions relating to preliminary hearings in cases of sexual nature
+
+### 185A Application
+Except as provided in section 185B of this Act, this Part of this Act applies to preliminary hearings of any of the following offences:
+  (a) Any offence against any of the provisions of sections 128 to 142A of the Crimes Act 1961:
+  (aa) Any offence against section 144A of the Crimes Act 1961:
+  (b) Any other offence against the person of a sexual nature:
+  (c) Being a party to the commission of any offence referred to in paragraph (a) or paragraph (aa) or paragraph (b) of this section:
+  (d) Conspiring with any person to commit any such offence.
+
+### 185B Certain hearings to be conducted by Judge
+(1) Every Court conducting a preliminary hearing of any of the following offences shall be presided over by a District Court Judge:
+  (a) Sexual violation:
+  (b) Attempted sexual violation:
+  (c) Assault with intent to commit sexual violation:
+  (d) An offence against section 129A of the Crimes Act 1961 (sexual connection with consent induced by certain threats:
+  (e) An offence against section 142A of that Act (compelling indecent act with an animal):
+  (f) Being a party to the commission of any offence referred to in paragraphs (a) to (e) of this section:
+  (g) Conspiring with any person to commit any such offence.
+(2) Nothing in this section applies in respect of any preliminary hearing in any case where,—
+  (a) Before the preliminary hearing, all parties advise the Court or a Registrar (whether orally or in writing) that they agree that the preliminary hearing should proceed in accordance with section 160A of this Act; and
+  (b) At the preliminary hearing, the Court proceeds in accordance with that section.
+
+### 185C Evidence of complainant
+(1) Notwithstanding anything in Part 5 of this Act, at any preliminary hearing to which this Part of this Act applies, the complainant's evidence shall be given in the form of a written statement, and the complainant shall not be examined or cross-examined on that statement unless—
+  (a) The Court is satisfied that the complainant has been advised of the right to give evidence in the form of a written statement but nevertheless wishes to give evidence orally; or
+  (b) The Court orders, either of its own motion or on the application of the defendant, that the complainant's evidence be given orally on the ground—
+    (i) That the written statement of the complainant, together with any other evidence tendered, is not sufficient to justify putting the defendant on trial; or
+    (ii) That it is necessary in the interests of justice that the evidence be given orally.
+(2) Where, in such a case, the complainant gives oral evidence (whether in chief or under cross-examination or on re-examination), no person shall be present in the courtroom except the following:
+  (a) The Judge or Justices:
+  (b) The prosecutor:
+  (c) The defendant and any person who is for the time being acting as custodian of the defendant:
+  (d) Any barrister or solicitor engaged in the proceedings:
+  (e) Any officer of the Court:
+  (f) Any person who is for the time being responsible for recording the proceedings:
+  (g) The member of the Police in charge of the case:
+  (h) Any accredited news media reporter:
+  (i) Any person whose presence is requested by the complainant:
+  (j) Any person expressly permitted by the Judge or Justices to be present.
+(3) Before the complainant commences to give evidence in such a case, the Judge or Justices shall—
+  (a) Ensure that no person other than one referred to in subsection (2) of this section is present in the courtroom; and
+  (b) Advise the complainant of the complainant's right to request the presence of any person under paragraph (i) of that subsection.
+(4) Where the evidence of the complainant is to be given in the form of a written statement, the prosecutor shall cause a copy of the complainant's statement to be given to the defendant or the defendant's solicitor at least 7 days before the date on which the hearing is to commence; and if the Court at the hearing is satisfied that this requirement has not been complied with, the Court may adjourn the hearing to allow further time for the defendant to consider the statement.
+(5) The provisions of section 160(1), 160A, 173A (except subsection (2)(c) and (3)), 180, 181(1), 182(1), and 184 of this Act shall apply, with any necessary modifications, to evidence given in the form of written statements made under this section.
+
+### 185CA Child complainant's evidence may be given by videotape
+(1) Notwithstanding anything in Part 5 or section 185C of this Act, at any preliminary hearing to which this Part of this Act applies, the evidence of the complainant may be given in the form of a videotape if—
+  (a) Either—
+    (i) The complainant is under the age of 17 years; or
+    (ii) It is apparent to the Court from viewing the videotape, or from some other admissible evidence, that the complainant is mentally handicapped; and
+  (b) The Court is satisfied that the videotape has been made, and is identified, in the prescribed manner and form.
+(2) While the videotape is being shown, only those persons specified in section 185C(2) of this Act, and any witness involved in and testifying about the making of the videotape, may be present in the courtroom.
+(3) No report or account of any matters shown in the videotape may be published; and every person who publishes any such report or account commits an offence and is liable on summary conviction to a fine not exceeding $1,000.
+
+### 185D Power of Court to prohibit publication of certain details
+(1) Where in any preliminary hearing to which this Part of this Act applies the Court is of the opinion that the interests of the complainant so require, it may make an order forbidding publication of any report or account giving details of the criminal acts alleged to have been performed on the complainant or of any acts that the complainant is alleged to have been compelled or induced to perform or to consent to or acquiesce in.
+(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who commits a breach of any order made under subsection (1) of this section or evades or attempts to evade any such order.
+
+### 185E Other powers of Court preserved
+Nothing in section 185C(2) or section 185D or section 185CA of this Act shall limit or affect the powers of the Court to exclude any person or forbid any report or account of any evidence under section 138 of the Criminal Justice Act 1985 or section 206 of this Act or any other enactment.
+
+## Part 6 — Conservation of the peace
+
+**Sureties of the peace**
+
+### 186 Application for order for bond to keep the peace
+Any person may apply, by complaint, to a Court presided over by a District Court Judge for an order requiring any other person to enter into a bond, either with or without sureties, for keeping the peace, on any of the following grounds:
+  (a) That the complainant has cause to fear that the defendant—
+    (i) will do the complainant or his or her wife, husband, civil union partner, or de facto partner or his or her child or any member of his or her household bodily harm; or
+    (ii) Will destroy or damage the complainant's house; or
+    (iii) Will procure any other person to do any such injury as aforesaid; or
+  (b) That the defendant has, to or in the presence of the complainant for the purpose of annoyance and provocation, or to the common annoyance of members of the public,—
+    (i) Used provoking or insulting language; or
+    (ii) Exhibited any offensive writing or object; or
+    (iii) Done any offensive act; or
+  (c) That the defendant has threatened to do, or to procure some other person to do, any act which if done would constitute an offence under any of the following provisions of the Crimes Act 1961:
+    (i) Subsection (1) of section 188 (which relates to wounding with intent to do grievous bodily harm):
+    (ii) Subsection (2) of section 189 (which relates to injuring with intent to injure):
+    (iii) Section 196 (which relates to common assault):
+    (iv) section 267 (which relates to arson):
+    (v) section 269 (which relates to intentional damage):
+    (vi) section 270 (which relates to endangering transport):
+    (vii) section 271 (which relates to waste or diversion of electricity, gas, or water).
+    (viii)
+    (ix)
+    (x)
+    (xi)
+
+### 187 Making of order for bond
+(1) If on the hearing of any such complaint the Court considers that there is good ground to do so, it may order the defendant to enter, with or without a surety or sureties, as the Court thinks fit, into a bond in such sum or sums as the Court thinks sufficient, subject to the condition that the defendant keep the peace towards the complainant and refrain from doing the act feared or from repeating the conduct complained of or from doing the act threatened, as the case may be, for such time, not exceeding one year, from the date of the bond as is fixed by the order.
+(2) No order shall be made under this section, unless—
+  (a) In the case of a complaint under paragraph (a) of section 186 of this Act, the Court is satisfied that the complainant has just cause for his fear; or
+  (b) In the case of a complaint under paragraph (b) of that section, the Court is of opinion that the conduct complained of is likely to be repeated and may tend to provoke a breach of the peace; or
+  (c) In the case of a complaint under paragraph (c) of that section, the Court is satisfied that there is just cause for fear that the defendant will, if not prevented, carry the threats into execution.
+(3) A bond under this section shall be in the prescribed form, and may be entered into by any of the parties to it before any District Court Judge or Justice or Registrar, and it shall not be necessary for all the parties to the bond to be present at the same time or at the same place, and more than one form of bond may be signed. The person before whom any bond is entered into shall give to each of the persons entering into it before him a notice in the prescribed form.
+(4) In any case where a surety or sureties are required, the Court may at any time, if it is satisfied that the defendant is unable to obtain the surety or sureties, order that the surety or, as the case may be, any or all of the sureties be dispensed with.
+
+### 188 Making of order for bond where person charged with offence
+Where any person is charged before a Court presided over by a District Court Judge with an offence and the evidence establishes one of the grounds which would justify the making of an order for a bond for keeping the peace, then, whether or not the defendant is convicted of the offence and whether or not any penalty is imposed on him in respect of the offence, the Court may make such an order as if an application therefor had been made under section 186 of this Act.
+
+### 189 Refusal to enter into bond
+If a defendant refuses to enter into a bond for keeping the peace when ordered or fails to obtain surety or sureties as required by the order, the Court may order that he be committed to a prison for any period not exceeding 2 months:
+  Provided that a defendant who has failed to obtain the required surety or sureties shall not be ordered to be committed to a prison if he satisfies the Court that he has taken reasonable steps to obtain them:
+  Provided further that a defendant who has been committed to a prison shall be immediately released if he enters into the bond, or obtains the required surety or sureties, or before the expiry of the period of his detention satisfies a Court presided over by a District Court Judge that he had taken reasonable steps to obtain the surety or sureties.
+
+### 190 Persons imprisoned in default of finding sureties may be released on death of person for whose protection order made
+If the person for whose protection a Court has required the defendant to find a surety or sureties of the peace dies, and the defendant is then in a prison in default of finding the surety or sureties, a Court presided over by a District Court Judge may, if it thinks fit, order that the defendant be released from custody without finding the surety or sureties.
+
+### 191 Estreat of bond
+(1) Any person who has obtained an order requiring any other person to enter into a bond for keeping the peace may apply to a Court presided over by a District Court Judge for an order for estreat of the bond on the ground that that other person has failed to keep the condition of the bond.
+(2) On the filing of the application the Registrar shall fix a time and place for the hearing of the application, and shall, not less than 7 days before the time fixed, cause to be served on every person bound by the bond a notice of the time and place so fixed.
+(3) If on the hearing of any application made under this section it is proved to the satisfaction of the Court that the condition of the bond has not been kept, the Court may make an order in the prescribed form to estreat the bond to such an amount as it thinks fit as to any person bound thereby on whom notice is proved to have been served in accordance with this section. Any penalty payable in accordance with this subsection shall be recoverable as if it were a fine.
+
+**Special constables**
+
+### 192 Appointment and powers of special constables
+(1) If at any time the Commissioner of Police is of opinion that the members of the Police serving in any place are not sufficient in number for the preservation of the public peace and for the protection of the inhabitants and the security of the property in that place, the Commissioner may direct any constable to apply to any District Court Judge or Justice to appoint such number of suitable persons as the Commissioner considers necessary to be special constables for the preservation of the public peace and for the protection of the inhabitants and the security of the property in that place.
+(2) On application being made as aforesaid, the District Court Judge or Justice may appoint such persons as aforesaid, being persons willing to act, and shall administer to every person so appointed an oath in the prescribed form.
+(3) Every special constable shall be under the control and direction of the senior member of the Police for the time being acting in the locality in which is situated the place for which he was so appointed, and subject thereto shall, for the purpose of exercising the functions for which he was appointed, have such powers, authorities, immunities, duties, and responsibilities as he would have if he were a member of the Police appointed under the Police Act 1958.
+(4) The Commissioner of Police, or any commissioned officer of the Police for the time being acting in the locality for which special constables are appointed under this section, may at any time determine the services of or suspend or dismiss all or any of those special constables.
+(5) There may be paid to special constables such remuneration by way of fees, salary, allowances, or expenses as may from time to time be approved by the Minister of Finance.
+(6) The following provisions of the Police Act 1958 shall, with the necessary modifications, apply to special constables as if they were members of the Police, namely—
+  (a) Section 30 (which authorises the Commissioner of Police to issue general instructions for the guidance of members of the Police):
+  (b) Section 50 (which requires members of the Police on ceasing to hold office, to return all Government property in their possession).
+(7) Regulations may be made under section 64 of the Police Act 1958 fixing the conditions of appointment, resignation, and discharge of special constables, for securing that only fit and proper persons shall be appointed as special constables, and for rendering special constables efficient in the discharge of their duties.
+(8) Every person commits an offence and is liable on summary conviction by a Court presided over by a District Court Judge or 2 or more Justices to a fine not exceeding $150 who, being a special constable, refuses or neglects to obey such orders, directions, or instructions as are lawfully given for the performance of his duties.
+(9) Every person commits an offence, and is liable on summary conviction by a Court presided over by a District Court Judge or 2 or more Justices to a fine not exceeding $300 or to imprisonment for a term not exceeding 3 months, who resists or assaults or wilfully obstructs, or incites or encourages any person to resist, assault, or obstruct, any special constable in the execution of his duty or any person acting in aid of a special constable in the execution of his duty.
+
+## Part 7 — Protection of Justices and Community Magistrates
+
+### 193 No action against Justice unless act in excess of jurisdiction or without jurisdiction
+(1) No action shall be brought against any Justice or Community Magistrate for any act done by him, unless he has exceeded his jurisdiction or has acted without jurisdiction.
+(2) Where a conviction or order is entered or made or by one or more Justices or one or more Community Magistrates and a warrant to seize or warrant of commitment is granted thereon bona fide by some other Justice or Community Magistrate, no action shall be brought against the Justice who granted the warrant by reason of any defect in the conviction or order or of any want of jurisdiction in the Justice or Justices or Community Magistrate or Community Magistrates who entered or made it.
+
+### 194 No action against Justice or Community Magistrate to be brought in District Court
+No action against any Justice or Community Magistrate by any person claiming to have been injured by an act done by the Justice or Community Magistrate in excess of jurisdiction or without jurisdiction shall be brought in a District Court.
+
+### 195 Onus of proof
+In any action brought against a Justice or Community Magistrate by a person claiming to have been injured by an act done by the Justice or Community Magistrate in excess of jurisdiction or without jurisdiction, the onus of proving the excess or want of jurisdiction shall lie upon the person alleging it.
+
+### 196 Plaintiff may be ordered to give security for costs
+(1) In any action brought against a Justice or Community Magistrate by a person claiming to have been injured by an act done by the Justice or Community Magistrate in excess of jurisdiction or without jurisdiction, the High Court or any Judge of that Court upon application by the Justice or Community Magistrate at any time before the day fixed for the trial of the action, may, at the discretion of the Court or Judge, order the plaintiff to give security for the costs of the action to the satisfaction of the Registrar of the High Court in a sum not exceeding $500.
+(2) If security is ordered to be given, the Court or Judge may direct that in the meantime all proceedings shall be stayed.
+
+### 196A Indemnity to District Court Judge
+[Repealed]
+
+### 197 Indemnity to Justice or Community Magistrate
+(1) Any Justice or Community Magistrate against whom a judgment has been entered to pay damages or costs to any person injured as a result of any act done by the Justice or Community Magistrate in excess of jurisdiction or without jurisdiction shall, on production by him of a certificate signed by a Judge of the High Court stating that in his opinion the Justice or Community Magistrate acted in good faith under the belief that he had in fact jurisdiction, and further that in the opinion of the Judge in all the circumstances he ought fairly and reasonably to be excused, be indemnified by the Crown to the full amount of the judgment.
+(2) Where a claim against a Justice or Community Magistrate is settled by the payment by him of, or an agreement by him to pay, an agreed amount for damages or costs before action is commenced against him or before or during trial of the action, he shall be indemnified by the Crown to the full amount paid or agreed to be paid by him, on production of a certificate as aforesaid stating that in the opinion of the Judge the amount paid or agreed to be paid was fair and reasonable:
+  Provided that, if he is not so satisfied, the Judge may issue the certificate in respect of such less sum as in his opinion would have been or would be adequate to settle the plaintiff's claim, and in that case the Justice or Community Magistrate shall be indemnified by the Crown to the amount specified in the certificate.
+(3) Application for such a certificate may be made by the Justice or Community Magistrate at any time to a Judge in Chambers, and the Judge shall have power to grant the certificate after considering such evidence as may be given before him either orally or in the form of affidavits.
+(4) A copy of the application shall be served by the Justice or Community Magistrate on the Attorney-General, who shall be entitled to appear and oppose it.
+
+## Part 8 — General provisions
+
+**Search**
+
+### 198 Search warrants
+(1) Any District Court Judge or Justice or Community Magistrate, or any Registrar (not being a constable), who, on an application in writing made on oath, is satisfied that there is reasonable ground for believing that there is in any building, aircraft, ship, carriage, vehicle, box, receptacle, premises, or place—may issue a search warrant in the prescribed form.
+  (a) Any thing upon or in respect of which any offence punishable by imprisonment has been or is suspected of having been committed; or
+  (b) Any thing which there is reasonable ground to believe will be evidence as to the commission of any such offence; or
+  (c) Any thing which there is reasonable ground to believe is intended to be used for the purpose of committing any such offence—
+(1A) Despite subsection (1), no search warrant may be issued under this section in respect of an offence against a provision of the Films, Videos, and Publications Classification Act 1993.
+(2) Every search warrant shall be directed either to any constable by name or generally to every constable. Any search warrant may be executed by any constable.
+(3) Every search warrant to search any building, aircraft, ship, carriage, vehicle, premises, or place shall authorise any constable at any time or times within one month from the date thereof to enter and search the building, aircraft, ship, carriage, vehicle, premises, or place with such assistants as may be necessary, and, if necessary, to use force for making entry, whether by breaking open doors or otherwise; and shall authorise any constable to break open any box or receptacle therein or thereon, by force if necessary.
+(4) Every search warrant to search any box or receptacle shall authorise any constable to break open the box or receptacle, by force if necessary.
+(5) Every search warrant shall authorise any constable to seize any thing referred to in subsection (1) of this section.
+(6) In any case where it seems proper to him to do so, the District Court Judge, Justice, Community Magistrate, or Registrar may issue a search warrant on an application made on oath orally, but in that event he shall make a note in writing of the grounds of the application.
+(7) Every search warrant may be executed at any time by day or by night.
+(8) It is the duty of every one executing any search warrant to have it with him and to produce it if required to do so.
+
+### 198A Procedure where certain documents seized from solicitors' offices
+(1) This section applies to books of account and accounting records kept by a solicitor in relation to—
+  (a) Any trust account money, being money that is subject to section 89 of the Law Practitioners Act 1982; or
+  (b) Any solicitors' nominee company operated by a solicitor with the consent of the relevant District Law Society as a nominee in respect of securities and documents of title held for clients.
+(2) Where, on the execution of any warrant issued under section 198 of this Act, any document to which this section applies is seized, the following provisions shall apply:
+  (a) The member of the Police who is executing the warrant shall, before leaving the premises on which the warrant is executed, prepare an inventory of all such documents so seized:
+  (b) If any solicitor having possession of the documents is present at the time of the execution of the warrant, the member of the Police shall show the inventory of documents to the solicitor, and invite him to check the accuracy of the inventory:
+  (c) If, in any case to which paragraph (b) of this subsection applies, the solicitor wishes to dispute the seizure of any document listed on the inventory on the ground that the seizure of that document is outside the authority of the search warrant,—
+    (i) The solicitor shall mark the inventory in such a manner as to indicate his objection to the seizure of that document; and
+    (ii) The member of the Police shall, in the presence of the solicitor, place each document to which such objection is made in an envelope or package, seal the envelope or package, and deliver it as soon as practicable to a District Court Judge, together with a brief statement of the facts of the case:
+  (d) Notwithstanding anything in paragraph (c) of this subsection, before removing any document from the premises, the member of the Police shall, on request by the solicitor, give the solicitor a reasonable opportunity to make a copy of the document:
+  (e) If no solicitor having possession of the documents is present at the time of the execution of the warrant, the member of the Police shall leave the inventory or a copy of it at the place at which the documents are seized, together with the address of the Police station to which any objection to the seizure of the documents should be sent under paragraph (f) of this subsection:
+  (f) If, in any case to which paragraph (e) of this subsection applies, the solicitor wishes to dispute the seizure of any document listed on the inventory on the ground that the seizure of that document is outside the authority of the search warrant,—
+    (i) The solicitor shall, within 7 days after the date of the seizure of that document or within such further time as a District Court Judge may allow, notify the officer in charge of the Police station specified under paragraph (e) of this subsection, in writing, of his objection; and
+    (ii) That officer in charge shall cause each document to which such objection is made to be delivered as soon as practicable to a District Court Judge, together with a brief statement of the facts of the case:
+  (g) Where any document is placed before a District Court Judge under paragraph (c)(ii) or paragraph (f)(ii) of this subsection, the Judge shall, after giving the parties a reasonable opportunity to be heard, determine whether or not the seizure of the document was within the authority of the search warrant:
+  (h) If the Judge determines that the seizure of the document was within the authority of the search warrant, he shall direct that the document be returned to the Police; and if he determines that the seizure of the document was outside the authority of the search warrant, he shall direct that the document be returned to the solicitor, and any copy of the document or record of its contents made by the Police be surrendered to the solicitor or destroyed forthwith:
+  (i) If the Judge determines that the seizure of the document was within the authority of the search warrant but that it contains any information to which the Police should not have access, he may make such order as he considers appropriate, whether for the excision or concealment of that information, or the extraction or copying of the information to which the Police are entitled to have access, or otherwise:
+  (j) Notwithstanding any other enactment or rule of law to the contrary, no copy of any document or record of the contents of any document that is ordered to be surrendered or destroyed under paragraph (h) of this subsection, and no evidence of any information to which the Police have been denied access by order of a District Court Judge made under paragraph (i) of this subsection, shall be admissible in any proceedings:
+  (k) Notwithstanding anything in paragraphs (e) to (h) of this subsection, while any document to which this section applies remains in the possession of the Police, any solicitor who, at the time of the seizure of the document, had possession of the document shall, on request at any reasonable time, be given a reasonable opportunity to make a copy of the document.
+(3) Except as provided in paragraph (j) of subsection (2) of this section, nothing in that subsection shall limit or affect the admissibility of any evidence, or the discretion of any Court to admit or refuse to admit any evidence, in any proceedings.
+
+### 198B Person with knowledge of computer or computer network to assist access
+(1) A constable executing a search warrant may require a specified person to provide information or assistance that is reasonable and necessary to allow the constable to access data held in, or accessible from, a computer that is on premises named in the warrant.
+(2) A specified person is a person who—
+  (a) is the owner or lessee of the computer, or is in possession or control of the computer, or is an employee of any of the above; and
+  (b) has relevant knowledge of—
+    (i) the computer or a computer network of which the computer forms a part; or
+    (ii) measures applied to protect data held in, or accessible from, the computer.
+(3) A person may not be required under subsection (1) to give any information tending to incriminate the person.
+(4) Subsection (3) does not prevent a constable from requiring a person to provide information that—
+  (a) is reasonable and necessary to allow the constable to access data held in, or accessible from, a computer that—
+    (i) is on premises named in the warrant concerned; and
+    (ii) contains or may contain information tending to incriminate the person; but
+  (b) does not itself tend to incriminate the person.
+(5) Subsection (3) does not prevent a constable from requiring a person to provide assistance that is reasonable and necessary to allow the constable to access data held in, or accessible from, a computer that—
+  (a) is on premises named in the warrant concerned; and
+  (b) contains or may contain information tending to incriminate the person.
+(6) Every person commits an offence and is liable on summary conviction to a term of imprisonment not exceeding 3 months or a fine not exceeding $2,000 who fails to assist a constable when requested to do so under subsection (1).
+
+### 199 Disposal of things seized
+(1) Where any constable seizes any thing under section 198 of this Act, it shall be retained under the custody of a constable, except while it is being used in evidence or is in the custody of any Court, until it is disposed of under this section.
+(2) If the thing seized is—an application shall be made by a constable, or by the prosecutor or informant, to the Court by which any charge relating to that thing is determined, or to a District Court Judge, for an order that it be forfeited, defaced, or destroyed; and on any such application the Court or the District Court Judge may make an order accordingly.
+  (a) Any forged bank note, or any special paper, revenue paper, frame, mould, instrument, plate, wood, stone, material or other thing, of which the possession without lawful excuse is an offence; or
+  (b) Any counterfeit coin, or any instrument, machine, tool, or other thing used or intended to be used for the purpose of coining, of which the possession with knowledge of its nature and without lawful excuse is an offence—
+(3) If the thing seized is a thing to which subsection (2) of this section does not apply, the following provisions shall apply:
+  (a) In any proceedings for an offence relating to the thing, the Court may order, either at the trial or hearing or on a subsequent application, that the thing be delivered to the person appearing to the Court to be entitled to it, or that it be otherwise disposed of in such manner as the Court thinks fit:
+  (b) Any constable may at any time, unless an order has been made under paragraph (a) of this subsection, return the thing to the person from whom it was seized, or apply to a District Court Judge for an order as to its disposal; and on any such application the District Court Judge may make any order that a Court may make under paragraph (a) of this subsection:
+  (c) If proceedings for an offence relating to the thing are not brought within a period of 3 months after the date of the seizure, any person claiming to be entitled to the thing may, after the expiration of that period, apply to a District Court Judge for an order that it be delivered to him; and on any such application the District Court Judge may adjourn the application, on such terms as he thinks fit, for proceedings to be brought, or may make any order that a Court may make under paragraph (a) of this subsection.
+(4) Where any person is convicted in any proceedings for an offence relating to any thing to which this section applies, and any order is made under this section, the operation of the order shall be suspended—
+  (a) In any case until the expiration of the time prescribed by this Act or, as the case may require, the time prescribed by the Crimes Act 1961 for the filing of notice of appeal or of an application for leave to appeal; and
+  (b) Where notice of appeal is filed within the time so prescribed, until the determination of the appeal; and
+  (c) Where application for leave to appeal is filed within the time so prescribed, until the application is determined and, where leave to appeal is granted, until the determination of the appeal.
+(5) Where the operation of any such order is suspended until the determination of the appeal, the Court determining the appeal may by order annul or vary the order made under this section; and that order, if annulled, shall not take effect, and, if varied, shall take effect as so varied.
+(6) In this section the term Court includes the High Court.
+
+### 200 Other enactments as to search warrants not affected
+Nothing in sections 198 and 199 of this Act shall derogate from any special provisions made by any other enactment in respect of searches or search warrants.
+
+**Tracking devices**
+
+### 200A Interpretation
+For the purposes of this section and sections 200B to 200P,—
+  - **authorised officer** means a person who is—
+    (a) a member of the police; or
+    (b) a Customs officer within the meaning of the Customs and Excise Act 1996
+  - **parent agency** ,—
+    (a) in relation to an authorised officer who is a member of the police, means the New Zealand Police; and
+    (b) in relation to an authorised officer who is a Customs officer within the meaning of the Customs and Excise Act 1996, means the New Zealand Customs Service
+  - **tracking device** means a device that, when installed in or on a thing, may be used to help ascertain, by electronic or other means, either or both of the following
+    (a) the location of a thing or person:
+    (b) whether a thing has been opened, tampered with, or in some other way dealt with
+  - **tracking device warrant** means a warrant under section 200C(1).
+
+### 200B Application for tracking device warrant
+(1) An authorised officer may apply to a High Court Judge or a District Court Judge for a tracking device warrant.
+(2) The application may not be made unless the officer believes—
+  (a) that there are reasonable grounds to suspect that an offence has been, is being, or will be committed; and
+  (b) that information that is relevant to the commission of the offence (whether or not including the whereabouts of any person) can be obtained through the use of a tracking device; and
+  (c) that it is in the public interest to issue a warrant, taking into account the seriousness of the offence, the degree to which privacy or property rights are likely to be intruded upon, the usefulness of the information likely to be obtained, and whether it is reasonably practicable for the information to be obtained in another way.
+(3) The application must be made in writing and on oath and must set out the following particulars:
+  (a) the facts relied on to show that the requirements in subsection (2) are met; and
+  (b) any information that is necessary so that the Judge may assess the degree to which privacy or property rights are likely to be intruded on; and
+  (c) the period for which a warrant is requested; and
+  (d) the name of the parent agency.
+
+### 200C Issue of tracking device warrant
+(1) On an application under section 200B, a High Court Judge or a District Court Judge may issue a warrant under this section if he or she is satisfied that the matters specified in section 200B(2)(a) to (c) are met and may impose any terms and conditions that the Judge sees fit.
+(2) The warrant must be directed to an authorised officer by name or generally to every authorised officer of the parent agency concerned, and must—
+  (a) state the offence or offences in respect of which it is issued; and
+  (b) state a period (not exceeding 60 days) for which it is valid; and
+  (c) state the terms and conditions (if any) subject to which it is issued; and
+  (d) describe or specify the thing in or on which a tracking device may be installed.
+(3) Further tracking device warrants may be issued in respect of the same thing, or in respect of information relevant to the commission of the same offence.
+
+### 200D Effect of tracking device warrant
+(1) A tracking device warrant authorises the authorised officer or officers to whom it is directed—
+  (a) to install, maintain, or remove a tracking device in or on the thing specified; and
+  (b) to monitor the device or have it monitored.
+(2) If it is necessary to do so to install, maintain, remove, or monitor a tracking device, a tracking device warrant authorises one or more authorised officers to do any of the following things at any time, using any necessary force:
+  (a) enter on to any premises specified in the warrant:
+  (b) break open or interfere with any thing:
+  (c) temporarily remove anything from anyplace where it is found and to return the thing to that place.
+
+### 200E Expiry of warrant
+(1) Unless renewed under section 200F, a tracking device warrant expires at the end of the period stated in it.
+(2) If a tracking device remains in place after the expiry of the warrant authorising its installation, the authorised officer concerned must apply to a District Court Judge or a High Court Judge for a warrant under section 200I to remove the device; and the Judge may issue a warrant to remove the device subject to any terms and conditions the Judge sees fit.
+(3) A tracking device that remains in place after the expiry of the warrant authorising its installation must not be monitored; but its remaining in place does not constitute a trespass.
+
+### 200F Renewal of warrant
+(1) Any authorised officer may apply for the renewal of a tracking device warrant that has not expired.
+(2) The application must be made—
+  (a) to a District Court Judge, if the warrant was issued by a District Court Judge; and
+  (b) to a High Court Judge, if the warrant was issued by a High Court Judge.
+(3) The application must be made in writing and on oath.
+(4) A Judge may grant the application and renew the warrant if he or she is satisfied, at the time the application is made, of the matters specified in section 200B(2)(a) to (c).
+(5) The warrant may be renewed under this section for a period of not more than 60 days.
+(6) The period for which the warrant is renewed must be written on the warrant, and (unless renewed again) the warrant expires at the end of that period.
+(7) The warrant may be renewed more than once.
+(8) If (whether initially or on renewal or further renewal) the warrant was directed to an authorised officer by name, the Judge may amend it so that is directed, by name, to some other authorised officer of the parent agency.
+
+### 200G Use of tracking device without warrant
+(1) An authorised officer may install, monitor, and maintain a tracking device in or on any thing if—
+  (a) it is not in all the circumstances reasonably practicable to obtain a tracking device warrant; and
+  (b) the officer believes on reasonable grounds that a Judge would issue a tracking device warrant if time permitted.
+(2) The officer may remove the tracking device within 72 hours of its installation.
+(3) If it is necessary to do so to install, monitor, maintain, or remove the device, the officer concerned may at any time do any of the following things, using any necessary force:
+  (a) enter any premises:
+  (b) break open or interfere with any thing:
+  (c) temporarily remove anything from anyplace where it is found and return the thing to that place.
+(4) A tracking device installed under subsection (1) that remains in place more than 72 hours after being installed must not be monitored; but its remaining in place does not constitute a trespass.
+(5) Subsection (4) does not prevent the monitoring (or the maintenance or removal) of a tracking device if a tracking device warrant for it is in force.
+(6) Unless the device has already been removed, the officer must within 72 hours of installing it—
+  (a) apply for a tracking device warrant for it; or
+  (b) apply to a Judge for a warrant under section 200I to remove it; or
+  (c) if the officer wants to leave it in place without monitoring it, apply to a Judge for directions.
+(7) Within 72 hours of being refused a tracking device warrant, the officer must either—
+  (a) apply to a Judge for a warrant under section 200I to remove the device; or
+  (b) if the officer wants to leave the device in place without monitoring it, apply to a Judge for directions.
+(8) An authorised officer who acts in the exercise or intended exercise of a power conferred by this section is not under any civil or criminal liability in respect of the officer's actions (whether on the ground of lack of jurisdiction or mistake of law or fact, or on any other ground) unless the officer acts in bad faith or without reasonable care.
+
+### 200H Reports
+(1) There must be lodged with every application under paragraph (b) or paragraph (c) of section 200G(6) or under section 200G(7) a written report on the installation of the tracking device concerned, and the circumstances in which it came to be installed.
+(2) If a tracking device installed under section 200G is removed within 72 hours of being installed, an authorised officer of the parent agency concerned must lodge in a District Court or the High Court a written report on its installation, and the circumstances in which it came to be installed.
+(3) The Registrar of a court in which a report under subsection (1) or subsection (2) is lodged must promptly bring it to the notice of a Judge of the court.
+(4) If the Judge considers that the circumstances warrant it, the Judge may refer a copy of the report to the chief executive of the parent agency of the authorised officer who installed the device, with any recommendations the Judge thinks fit.
+(5) The Judge may also refer a copy of the report to the Minister for the time being responsible for the agency.
+
+### 200I Warrant for removal of tracking device
+(1) A District Court Judge or High Court Judge may issue a warrant for the removal of a tracking device, subject to any terms and conditions the Judge sees fit.
+(2) A warrant under this section must be directed to an authorised officer by name or generally to every authorised officer of the parent agency concerned.
+(3) A warrant under this section authorises the authorised officer or officers to whom it is directed to remove the tracking device concerned and, in so doing, to do any of the following at any time if necessary, using any necessary force:
+  (a) enter any premises specified in the warrant:
+  (b) break open or interfere with any thing:
+  (c) temporarily remove any thing from any place where it is found and to return the thing to that place.
+(4) A warrant under this section expires on the earlier of the following:
+  (a) the date 30 days after the day on which it is issued:
+  (b) a date specified when it is issued by the Judge who issues it.
+
+### 200J Agencies to give information to Parliament
+The Commissioner of Police and the chief executive of the New Zealand Customs Service must include in every annual report relating to that agency that is required by statute to be prepared by that chief executive the following information in respect of the period under review:
+  (a) the number of warrants issued under section 200C; and
+  (b) the number of renewals of warrants granted under section 200C; and
+  (c) the average duration of warrants (including renewals); and
+  (d) the number of times a tracking device was used without a warrant under section 200G; and
+  (e) the number of warrants under section 200I issued; and
+  (f) the number of times a Judge gave authority for a tracking device to remain in place.
+
+### 200K Security of applications for tracking device warrants
+(1) As soon as a Judge has determined an application for a tracking device warrant, the Registrar of the court concerned must—
+  (a) place all documents relating to the application (except any warrant issued) in a packet; and
+  (b) seal the packet; and
+  (c) keep the packet in safe custody.
+(2) Subsection (1)(c) is subject to sections 200L to 200P.
+
+### 200L Restriction on production of documents relating to application
+(1) No party to any proceedings is entitled to demand the production of any documents held in safe custody under section 200K.
+(2) Subsection (1)—
+  (a) is subject to sections 200M to 200P; but
+  (b) otherwise overrides any enactment or rule of law or any rules of court entitling a party to any proceedings to demand the production of any documents.
+
+### 200M Application for production of documents
+(1) A party to proceedings who requires the production of a document held in safe custody under section 200K(1) may apply in writing to the Registrar who holds the document for its production.
+(2) Promptly after receiving the application, the Registrar must give written notice of it to—
+  (a) the senior police officer in the district, if the document is or relates to an application for a tracking device warrant sought by a member of the police; or
+  (b) the senior Customs officer in the district, if the document is or relates to an application for a tracking device warrant sought by a Customs officer.
+(3) If within 3 days after the notice was given the officer gives the Registrar written notice that he or she opposes the production of the document, the Registrar must refer the application to a Judge of the court concerned.
+(4) The Registrar must produce the document to the applicant if—
+  (a) the officer does not within 3 days after the notice was given give the Registrar written notice that he or she opposes the production of the document; and
+  (b) but for section 200K(1), the applicant would be entitled to demand the production of the document.
+
+### 200N Request for production made in course of proceedings
+(1) A District Court Judge or a Judge of the High Court must adjudicate on an opposed request, made in the course of proceedings presided over by the Judge, for the production of a document held in safe custody under section 200K(1) as if it were an application referred under section 200M(3); and section 200O applies accordingly with any necessary modifications.
+(2) If, in the course of any other proceedings, an opposed request for the production of a document held in safe custody under section 200K(1) is made, the presiding judicial officer must promptly refer the matter to a Judge for adjudication under section 200O.
+(3) The Judge to whom the matter must be referred is—
+  (a) a District Court Judge if the document relates to a tracking device warrant issued by a District Court Judge; or
+  (b) a Judge of the High Court if the document relates to a tracking device warrant issued by a Judge of the High Court.
+
+### 200O Application referred to Judge
+(1) An application for the production of a document held in safe custody under section 200K that is referred to a Judge under section 200M(3) or section 200N(2) must be dealt with in accordance with this section.
+(2) The applicant and the officer opposing production must be given an opportunity to be heard.
+(3) The Judge may order that all or a specified part of the document must not be produced if (and only if) the Judge—
+  (a) is satisfied that information in the document identifies, or is likely to lead to the identification of,—
+    (i) a person who gave information to the police, or to the New Zealand Customs Service; or
+    (ii) a member of the police, or any Customs officer, whose identity was concealed for the purpose of any relevant investigation and has not later been revealed; and
+  (b) the Judge believes it in the public interest to do so.
+(4) Subject to any order under subsection (3), the Judge must order the production of the document to the applicant if, but for section 200K(1), the applicant would be entitled to demand the production of the document.
+
+### 200P Judges entitled to inspect relevant documents
+A Judge presiding over proceedings in which the issue of a tracking device warrant is in issue may inspect any relevant document held under section 200K(1).
+
+**Miscellaneous**
+
+### 201 Amendment of conviction, order, or warrant
+(1) Where in any proceedings any conviction, sentence, order, or warrant of a District Court is brought before the High Court, whether on a motion to quash or otherwise, the High Court may, on such terms as to costs and otherwise as it thinks fit, amend the conviction, order, or warrant in any way or may, on such terms as to costs and otherwise as it thinks fit, instead of amending the conviction or order or warrant, remit it for amendment to the District Court by which it was entered, made, or issued, and may thereafter, if it is duly amended, adjudicate upon it as amended.
+(2) Where in any case referred to in subsection (1) of this section the High Court finds that the conviction was valid but that the sentence (either in whole or in part) was one which the Court imposing it had no jurisdiction to impose, the High Court may quash any invalid part of the sentence that is severable from the residue, or may quash the whole sentence and remit the case to the District Court to enable the defendant to be sentenced or otherwise dealt with according to law.
+
+### 202 Who may take affidavit
+An affidavit required for the purposes of this Act may be sworn or affirmed before any District Court Judge or Justice or Community Magistrate or Registrar or before any solicitor of the High Court not engaged in the proceedings.
+
+### 203 Acts not generally to be done on Sunday
+(1) Except as provided in subsection (2) of this section, no warrant shall be issued or executed, no summons or other document shall be issued or served, and no other act shall be done or proceedings taken, in respect of any matter to which this Act applies, on a Sunday.
+(2) The following acts may be done and proceedings taken as effectually on a Sunday as on any other day, namely:
+  (a) A warrant to arrest any person charged with any offence may be issued and may be executed:
+  (b) A warrant to arrest, or for the appearance of, any person required to give evidence may be issued and may be executed:
+  (c) A search warrant may be issued and may be executed:
+  (d) Any information may be laid or any step taken if it is necessary to enable the issue of any warrant referred to in paragraph (a) or paragraph (b) or paragraph (c) of this subsection:
+  (e) A warrant of commitment (except for non-payment of a sum of money) may be executed:
+  (f) Any arrest authorised to be made without warrant may be made, and any person authorised to be taken into custody without warrant may be taken into custody:
+  (g) Any person may be granted bail or released on bail:
+  (h) Any statement may be taken under the provisions of section 175 of this Act:
+  (i) The evidence of any person may be given and his deposition taken in accordance with the provisions of this Act, if that person is dangerously ill and in the opinion of some medical practitioner not likely to recover from that illness:
+  (j) Any person may be served with a summons and released under section 19A of this Act:
+  (k) Any person may be served with a summons under section 19B of this Act.
+  (l) a Registrar or bailiff or constable may exercise any power, duty, or function conferred on him or her under Part 3, or under any regulations made under this Act as far as they relate to Part 3:
+  (m) any fine or any other money payable on any conviction or order made by a Court may be paid, or may be accepted by any person authorised to accept that payment:
+  (n) any act necessary to give effect to a direction under section 88(3)(fa):
+  (na) an informant may provide particulars of a reminder notice under section 21:
+  (o) any other act specified in regulations made under this Act as an act that can be done on Sunday.
+(3) No act done on a Sunday in breach of the provisions of subsection (1) is invalidated solely on the ground that it was done on a Sunday.
+
+### 204 Proceedings not to be questioned for want of form
+No information, complaint, summons, conviction, sentence, order, bond, warrant, or other document, and no process or proceeding shall be quashed, set aside, or held invalid by any District Court or by any other Court by reason only of any defect, irregularity, omission, or want of form unless the Court is satisfied that there has been a miscarriage of justice.
+
+### 205 Proceedings not invalid because defendant should have been dealt with in Youth Court
+(1) No conviction or order or other process or proceeding shall be held invalid by reason only that at the time the defendant was convicted the defendant should by reason of his or her age have been dealt with in a Youth Court.
+(2) Where subsection (1) of this section applies, on the application of either party a rehearing of the information may be granted under section 75 of this Act, and, if at the time appointed for the rehearing the defendant is still a child or young person within the meaning of the Children, Young Persons, and Their Families Act 1989, the Court shall remit the proceedings to a Youth Court to be reheard in that Court.
+
+### 206 Contempt of Court
+If any person—any constable or officer of the Court, with or without the assistance of any other person, may, by order of the District Court Judge or Justice or Community Magistrate, take the offender into custody and detain him until the rising of the Court, and the District Court Judge or Justice or Community Magistrate may, if he thinks fit, by warrant under his hand, order that the offender be committed to prison for any period not exceeding 3 months, or order the offender to pay a fine not exceeding $1,000 for each offence.
+  (a) Wilfully insults a District Court Judge or Justice or Community Magistrate or any witness or any officer of the Court during his sitting or attendance in Court, or in going to or returning from the Court; or
+  (b) Wilfully interrupts the proceedings of a Court or otherwise misbehaves in Court; or
+  (c) Wilfully and without lawful excuse disobeys any order or direction of the Court in the course of the hearing of any proceedings,—
+
+### 207 Payment and recovery of fees
+(1) All fees, except such as may be payable in respect of keeping possession of or for storing or removing or selling goods seized under a warrant, shall be paid in the first instance by the party on whose behalf any proceedings are taken.
+(2) Subject to the provisions of subsection (3) of this section, no District Court Judge or Justice or Community Magistrate or officer of the Court shall do any act for which a fee is payable unless the fee is first paid, but no such act if done shall be invalid by reason only of the non-payment of the fee.
+(3) Except as provided in regulations made under this Act, no fee shall be received or demanded from any constable or from any duly appointed officer or employee of the Crown or of any local authority or other statutory public body or Board in respect of proceedings instituted by him in the execution of his duty.
+(4) In default of the payment of any fees by the person by whom they are payable in the first instance, the amount shall be recoverable as a debt due to the Crown.
+(5) A table of all fees payable shall be kept in the office of every Court, and shall be made available for inspection by any person on request.
+
+### 208 Payment of money to department
+(1) This section applies to—
+  (a) all Court fees, fines, reparation, costs, and other money payable on an information or complaint or on any conviction or order made by a Court; and
+  (b) any sum levied by or paid to any member of the police or a bailiff under any warrant.
+(2) A sum referred to in subsection (1) must be paid in the first instance in any of the following ways:
+  (a) to any Registrar; or
+  (b) to any person nominated by the chief executive of the department for the time being responsible for the administration of this Act as a person who may receive payments under this section; or
+  (c) into any trust account administered for the purpose by the department for the time being responsible for the administration of this Act.
+(3) Any sum received under this section by any Registrar or person nominated under subsection (2)(b) must be paid by him or her into a trust account administered by the department for the time being responsible for the administration of this Act, where it may be held until it is paid—
+  (a) to any person who is entitled to it under any enactment or by any order of the Court made under an enactment; or
+  (b) into another Departmental Bank Account or a Crown Bank Account, in accordance with the Public Finance Act 1989.
+
+### 209 Act not to apply to Youth Court unless provided
+Except as expressly provided in the Children, Young Persons, and Their Families Act 1989, nothing in this Act shall apply to proceedings in any Youth Court.
+
+### 210 Saving of provisions of Customs Act 1913
+[Repealed]
+
+### 211 Rules for proceedings on appeal
+(1) Rules regulating the practice and procedure in appeals to the High Court under this Act may be made in the manner in which rules of Court are made under the Judicature Act 1908.
+(2) Until such rules are made, and so far as they do not extend, the existing practice and procedure in New Zealand shall remain and be in force so far as they are not altered by or inconsistent with the provisions of this Act.
+
+### 212 Rules and regulations
+(1) The Governor-General may from time to time, by Order in Council, make all such rules or regulations as may in his opinion be necessary or expedient for giving full effect to the provisions of this Act and for the due administration thereof (not being rules regulating the practice and procedure in appeals to the High Court).
+(2) Without limiting the general power to make rules and regulations conferred by this section, rules or regulations may be made under this section—
+  (a) Prescribing the forms to be used in respect of any proceedings to which this Act applies:
+  (b) Prescribing the Court fees to be paid in respect of any proceedings or any processes to which this Act applies:
+  (c) Prescribing the fees, travelling allowances, and expenses payable to interpreters and to persons giving evidence in proceedings to which this Act applies:
+  (d) Prescribing the solicitors' fees payable by parties in proceedings to which this Act applies:
+  (da) prescribing requirements or other matters in relation to the provision of particulars of reminder notices in electronic form under section 21, and any matters in relation to the verification or processing of those particulars:
+  (db) regulating the searching of records of 1 or more of the following:
+    (i) particulars of reminder notices provided under section 21:
+    (ii) the results of any verification processes undertaken under section 21:
+    (iii) reminder notices deemed to have been filed and orders deemed to have been made under section 21:
+    (iv) notices of hearings filed under section 21:
+    (v) applications filed under section 78B:
+    (vi) any related matter:
+  (e) Prescribing the procedure for the taking of the evidence of witnesses under sections 31, 32, and 174 of this Act, including provisions for requiring the attendance of witnesses, the answering of questions, and the production of documents:
+  (ea) Prescribing the factors to be taken into account in deciding, for the purposes of Part 3 of this Act, whether or not a defendant has or has had sufficient means to pay a sum adjudged to be paid by a conviction:
+  (eb) Providing for information about proceedings under this Act to be transferred between courts, where that information is relevant to proceedings under the Domestic Violence Act 1995 or the Harassment Act 1997, including (without limitation) provision for such information to be transferred between different courts, or between different divisions of the same court, or between courts exercising civil jurisdiction and courts exercising criminal jurisdiction, or between courts exercising original jurisdiction and courts exercising appellate jurisdiction:
+  (f) Providing for any other matters in respect of which regulations are contemplated under this Act.
+(3)
+
+### 213 Consequential amendments
+The enactments specified in Schedule 3 to this Act are hereby amended in the manner indicated in that Schedule.
+
+### 214 Repeals and savings
+(1) The enactments specified in Schedule 4 to this Act are hereby repealed.
+(2) Without limiting the provisions of the Acts Interpretation Act 1924, it is hereby declared that the repeal of any provision by this Act shall not affect any document made or any thing whatsoever done under the provision so repealed or under any corresponding former provision, and every such document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, shall continue and have effect as if it had been made or done under the corresponding provision of this Act and as if that provision had been in force when the document was made or the thing was done.
+(3) Notwithstanding the repeal of any enactment by this Act, where any notice of appeal has been filed in any office of a Court pursuant to any such enactment before the date of the commencement of this Act, and the appeal is not finally determined before that date, the provisions of that enactment shall continue to apply to that appeal in all respects as if this Act had not been passed.
+
+## Schedule 1 — Indictable offences triable summarily by District Court Judges
+
+| Section of Act | Offence |
+| --- | --- |
+| Part 5—Crimes Against Public Order |  |
+| 78A | Wrongful communication, retention, or copying of official information |
+| 86 | Unlawful assembly |
+| 87 | Riot |
+| 91 | Forcible entry and detainer |
+| Part 6—Crimes Affecting the Administration of Law and Justice |  |
+| 107 | Contravention of statute |
+| 110, 111 | Making false oath or statement or declaration |
+| 114 | Use of purported affidavit or declaration |
+| 118 | Assisting escape of prisoners of war or internees |
+| 119 | Breaking prison |
+| 120 | Escape from lawful custody |
+| 121 | Assisting escape from lawful custody |
+| 122 | Assisting escape of mentally disordered person under detention for offence |
+| Part 7—Crimes Against Religion, Morality, and Public Welfare |  |
+| 124 | Distribution or exhibition of indecent matter |
+| 125, 126 | Indecent acts |
+| 130(2) | Incest |
+| 131(1) | Sexual connection with dependent family member |
+| 131(2) | Attempted sexual connection with dependent family member |
+| 131(3) | Indecent act with dependent family member |
+| 131B(1) | Meeting young person under 16 following sexual grooming, etc |
+| 132(2) | Attempted sexual connection with child under 12 |
+| 132(3) | Indecent act on child under 12 |
+| 134(1) | Sexual connection with young person under 16 |
+| 134(2) | Attempted sexual connection with young person under 16 |
+| 134(3) | Indecent act on young person under 16 |
+| 135(1) | Indecent assault |
+| 138(1) | Exploitative sexual connection with person with significant impairment |
+| 138(2) | Attempted exploitative sexual connection with person with significant impairment |
+| 138(4) | Exploitative indecent act with person with significant impairment |
+| 144 | Indecency with animal |
+| 145 | Criminal nuisance |
+| 146 | Keeping place of resort for homosexual acts |
+| 147 | Repealed |
+| 148 | Repealed |
+| 149 | Repealed |
+| 149A | Repealed |
+| 150 | Misconduct in respect of human remains |
+| Part 8—Crimes Against the Person |  |
+| 151, 152, 153 | Neglect to provide necessaries of life |
+| 154 | Abandoning child under 6 |
+| 181 | Concealing dead body of child |
+| 185 | Procuring own miscarriage |
+| 186 | Supplying means of procuring abortion |
+| 189 | Injuring with intent |
+| 190 | Injuring by unlawful act |
+| 192 | Aggravated assault |
+| 193 | Assault with intent to injure |
+| 194 | Assault on a child, or by a male on a female |
+| 195 | Cruelty to a child |
+| 196 | Common assault |
+| 198A(2) | Using any firearm to resist arrest |
+| 198B | Commission of Crime with firearm |
+| 200(2) | Poisoning with intent to cause inconvenience or annoyance |
+| 202 | Setting traps, etc |
+| 202A | Possession of offensive weapons or disabling substances |
+| 202C | Assault with weapon. |
+| 203(2) | Endangering transport without intent to inure |
+| 204A | Female genital mutilation |
+| 204B | Further offences relating to female genital mutilation |
+| 206 | Bigamy |
+| 207 | Feigned marriage |
+| 210 | Abduction |
+| Part 9A—Crimes Against Personal Privacy |  |
+| 216B | Prohibition on use of listening devices |
+| 216C | Prohibition on disclosure of private communications unlawfully intercepted |
+| 216D | Prohibition on dealing with listening device |
+| 216H | Prohibition on making intimate visual recording |
+| 216I | Prohibition on possessing intimate visual recording in certain circumstances |
+| 216J | Prohibition on publishing, importing, exporting, or selling intimate visual recording |
+| Part 10—Crimes against rights of property |  |
+| 219 | Theft or stealing |
+| 226 | Conversion of vehicle or other conveyance |
+| 227 | Being in possession of instrument for conversion |
+| 228 | Dishonestly taking or using document |
+| 229 | Criminal breach of trust |
+| 230 | Taking, obtaining, or copying trade secrets |
+| 231 | Burglary |
+| 233 | Being disguised or in possession of instrument for burglary |
+| 234 | Robbery |
+| 236 | Assault with intent to rob |
+| 239 | Demanding with intent to steal, etc |
+| 240 | Obtaining by deception |
+| 242 | False statement by promoter, etc |
+| 243 | Money laundering |
+| 246 | Receiving |
+| 249 | Accessing computer system for dishonest purpose |
+| 250 | Damaging or interfering with computer system |
+| 256 | Forgery |
+| 257 | Using forged documents |
+| 258 | Altering, concealing, destroying, or reproducing document with intent to deceive |
+| 259 | Using altered or reproduced document with intent to deceive |
+| 260 | False accounting |
+| 261 | Counterfeiting public seals |
+| 262 | Counterfeiting corporate seals |
+| 263 | Possessing forged bank notes |
+| 264 | Paper or implements for forgery |
+| 265 | Imitating authorised or customary marks |
+| 266 | Offences involving coinage |
+| 267(2) and (3) | Arson |
+| 268 | Attempted arson |
+| 269 | Intentional damage |
+| 270 | Endangering transport |
+| 271 | Waste or diversion of electricity, gas, or water |
+| 272 | Providing explosive to commit crime |
+| Part 11—Threatening, Conspiring, and Attempting to Commit Offences |  |
+| 306 | Threatening to kill or do grievous bodily harm |
+| 307 | Threatening to destroy property |
+| 308 | Threatening acts |
+| 309 | Conspiring to prevent collection of rates or taxes |
+
+| Title of Act | Section of Act | Offence |
+| --- | --- | --- |
+| The Accident Compensation Act 1972 |  |  |
+| Accident Rehabilitation and Compensation Insurance Act 1992 |  |  |
+| The Animal Welfare Act 1999 | 28 | Wilful ill-treatment of animals |
+| The Animals Act 1967 |  |  |
+| The Antarctica (Environmental Protection) Act 1994 | Part 2 | Mineral resource activities in Antarctica |
+| The Area Health Board Act 1983 |  |  |
+| The Arms Act 1983 | 44(1) | Selling or supplying pistol or restricted weapon to person who does not hold permit to import or to procure |
+|  | 45(1) | Carrying or possession of firearms, airguns, pistols, restricted weapons, or explosives, except for lawful, proper, and sufficient purpose: |
+|  | 46(1) | Carrying of imitation firearm, except for lawful, proper, and sufficient purpose. |
+|  | 50(1) | Unlawful possession of pistol or restricted weapon |
+|  | 51(1) | Unlawful carriage or possession in public place of firearm, airgun, pistol, ammunition, explosive, or restricted weapon |
+|  | 53(1) | Causing bodily injury or death by careless use of a firearm, airgun, pistol, or restricted weapon |
+|  | 53(2) | Leaving loaded firearm, airgun, pistol, or restricted weapon in any place in such circumstances as to endanger life |
+|  | 53(3) | Without reasonable cause, discharging or otherwise dealing with firearm, airgun, pistol, or restricted weapon in a manner likely to injure or endanger the safety of any person or with reckless disregard for the safety of others |
+|  | 54 | Use or attempted use of firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive to resist or prevent an arrest or commit offence |
+|  | 55 | Carrying firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive with criminal intent. |
+| The Auctioneers Act 1928 | 38 | Misappropriation, or falsifying accounts |
+| The Bankruptcy Act 1908 |  |  |
+| Biosecurity Act 1993 | 154(f), (g), (h), (i), (j), (k), (l), (m) | Offences relating to dealings with goods in contravention of the Biosecurity Act 1993 and failure to comply with specified provisions of that Act |
+| The Births and Deaths Registration Act 1951 | 48 | Making false statement |
+| The Building Societies Act 1965 | 29 | Contravention of provisions as to minimum subscription by founding members |
+|  | 132 | Offences in relation to property of building societies |
+|  | 133 | False statements in documents |
+| The Burial and Cremation Act 1964 | 56(3) | Offences as to unlawful cremation |
+| The Casino Control Act 1990 |  |  |
+| The Chateau Companies Act 1977 | 19 | Destroying or altering records |
+| The Citizenship Act 1977 | 27(1), (2) | Offences as to citizenship matters and documents |
+| The Civil Union Act 2004 | 30 | Offence to issue licence or solemnise civil union contrary to Act |
+|  | 31 | Offence to purport to solemnise civil union |
+|  | 32 | Offences in connection with false statements relating to civil union |
+| The Commerce Act 1975 | 81F | Offences in relation to monopolies, mergers, and takeovers |
+|  | 81H(4) | Contravention of order restraining proposed transaction or sale of assets |
+| The Companies Act 1955 | 188A | Certain persons prohibited from managing companies |
+|  | 189A | Certain persons may be prohibited from managing companies by Registrar |
+|  | 199K(4) | Certain persons prohibited from managing companies |
+|  | 199L(7) | Power to restrain certain persons from managing companies |
+|  | 199N(9) | Registrar may prohibit persons from managing companies |
+|  | 278 | Claims by unsecured creditors |
+|  | 279 | Rights and duties of secured creditors |
+|  | 461 | Making false statements |
+|  | 461A | Fraudulent application or destruction of property |
+|  | 461C | Falsification of records |
+|  | 461D | Fraudulently carrying on business, obtaining credit, or transferring property. |
+| The Companies Act 1993 | 304(6) | Claims by unsecured creditors |
+|  | 305(11) | Rights and duties of secured creditors |
+|  | 377 | False statements |
+|  | 378 | Fraudulent use or destruction of property |
+|  | 379 | Falsification of records |
+|  | 380 | Carrying on business fraudulently |
+|  | 382(4) | Persons prohibited from managing companies |
+|  | 383(6) | Court may disqualify directors |
+|  | 385(9) | Registrar may prohibit persons from managing companies. |
+| The Companies Special Investigations Act 1958 | 28 | Destroying or altering records |
+| The Compulsory Retirement Savings Scheme Referendum Act 1997 | 54 | Voting papers |
+| Copyright Act 1964 |  |  |
+| Copyright Act 1994 | 131 | Offences relating to making or dealing with infringing objects |
+| The Cornish Companies Management Act 1974 |  |  |
+| Credit Contracts and Consumer Finance Act 2003 | 103(2) | Dealing with land without leave of the High Court |
+| Criminal Investigations (Bodily Samples) Act 1995 | 77(2) | Offences in respect of DNA profile databank |
+| Customs and Excise Act 1996 | 182 | Unauthorised access to or improper use of Customs computerised entry processing system |
+|  | 183 | Interference with Customs computerised entry processing system |
+|  | 205(5) | Offences in relation to records |
+|  | 209(1A) | Offences relating to importation or exportation of objectionable publications. |
+| The Dangerous Drugs Act 1927 |  |  |
+| The Designs Act 1953 | 42 | Offences in respect of designs required to be kept secret |
+|  | 43 | Falsification of register of designs, etc |
+| The Distillation Act 1971 | 86 | Stealing spirits from distillery, etc |
+| The District Courts Act 1947 | 116A | False statement of service of documents |
+| The Domestic Violence Act 1995 | 49(3) | Contravening protection order. |
+| The Electoral Act 1993 | 215 | Personation |
+|  | 216 | Bribery |
+|  | 217 | Treating |
+|  | 218 | Undue influence |
+|  | 219 | Payments for exhibition of election notices |
+|  | 220 | Providing money for illegal purposes |
+|  | 221 | Advertisements for candidates and political parties |
+|  | 221A | Electoral advertisements |
+|  | 222 | Procurement of voting by unqualified voters |
+| The Estate and Gift Duties Act 1968 |  |  |
+| The Films, Videos, and Publications Classification Act 1993 | 124(1) | Offences involving knowledge in relation to objectionable publications |
+|  | 127(4) | Offence of exhibiting or displaying objectionable publication to person under age of 18 years knowing or having reasonable cause to believe that publication is objectionable |
+|  | 131A(1) | Offences relating to possession of objectionable publications and involving knowledge. |
+| The Finance Act 1915 | 65 | Bribing officer of Customs, Officer accepting bribe or conniving at offence |
+| The Financial Reporting Act 1993 | 41 | False statements. |
+| The Fire Services Act 1949 |  |  |
+| The Fisheries Act 1996 | 231(1) and (2) | Knowingly making a false or misleading statement or using a false document to obtain a benefit |
+|  | 233(1) | Knowingly receiving or possessing fish for sale or engaging in a commercial activity, otherwise than in accordance with the Act |
+|  | 296B(5) | Approved service delivery organisation knowingly falsifying information |
+|  | 296ZC(3)(b) or (c) | Approved service delivery organisation knowingly supplying false or misleading information, or knowingly omitting material particular in information supplied to Minister |
+| The Food Act 1981 | 11AA | Contravention of Act, etc, knowing that will create risk to human health |
+| The Friendly Societies Act 1909 | 75 | Wrongful supply of rules of society or branch |
+| The Gambling Act 2003 | 351 | Cheating |
+|  | 353 | Offences involving counterfeit chips |
+| The Harbours Act 1950 |  |  |
+| Human Assisted Reproductive Technology Act 2004 | 8(1) | Taking an action described in Schedule 1 |
+|  | 8(2) | Importing or exporting an in vitro gamete, any kind of in vitro embryo or in vitro foetus, or in vitro being formed by an action described in Schedule 1 |
+|  | 8(3) | Possessing a gamete, any kind of embryo or foetus, or being formed by an action described in Schedule 1 |
+| The Hauraki Plains Act 1926 |  |  |
+| The Hospitals Act 1957 |  |  |
+| The Immigration Act 1987 | 39A(1) | Exploitation of people not legally entitled to work |
+|  | 142(1)(c) | Using false or misleading document or information |
+|  | 142(1)(d) | Using travel document that relates to another person, or is forged or fraudulently obtained |
+|  | 142(1)(e) | Disposing of travel document |
+|  | 142(1)(ea) | Assisting person to remain in New Zealand unlawfully, or breach permit conditions |
+|  | 142(1)(eb) | Assisting person to enter New Zealand unlawfully |
+|  | 142(1)(ec) | Assisting completion of arrival card in false or misleading manner |
+|  | 142(2) | Modifying form after completion and signing |
+| The Insolvency Act 1967 | 126, 127(2) | Crimes by bankrupt |
+| The Inspector-General of Intelligence and Security Act 1996 | 28 | Unauthorised making or disclosure of records. |
+| The Intelligence and Security Committee Act 1996 | 20 | Unauthorised making or disclosure of records |
+| The Land Agents Act 1953 |  |  |
+| The Land Drainage Act 1908 | 82 | Wilful damage to works |
+| The Land Transfer Act 1952 | 225 | Fraudulently procuring certificate of title, etc |
+|  | 226 | Forging seal of Registrar, etc |
+| The Land Transport Act 1998 | 32(4) | Driving while disqualified or contrary to limited licence or while licence suspended or revoked |
+|  | 36(1) | Reckless or dangerous driving causing injury or death, or failing to stop and render assistance after person injured or killed |
+|  | 36A(1) (a) and (2) | Operating a motor vehicle in a race or unnecessary exhibition of speed or acceleration in contravention of section 22A(1), and by that act or omission causing an injury to or the death of another person |
+|  | 36A(1)(c) and (2) | Without reasonable excuse, operating a motor vehicle in a manner that causes it to undergo sustained loss of traction in contravention of section 22A(3), and by that act or omission causing an injury to or the death of another person |
+|  | 39(1) | Causing injury or death while carelessly using vehicle |
+|  | 56(4) | Contravening specified breath or blood-alcohol limit |
+|  | 58(3) | Driving while under influence of drink or drug to such an extent as to be incapable of proper control of vehicle |
+|  | 60(3) | Failing or refusing to allow blood specimen to be taken |
+|  | 61(1), (2) | Causing injury or death while in charge of vehicle and having breath or blood alcohol level over specified limit, or to such an extent as to be incapable of proper control of vehicle |
+|  | 62(1) | Causing injury or death while carelessly driving vehicle and under influence of drink or drug (other than an offence against section 61) |
+| The Licensing Act 1908 |  |  |
+| The Local Elections and Polls Act 1976 |  |  |
+| The Local Electoral Act 2001 | 123 and 124 | Offences in respect of official documents and voting offences |
+| The Local Government Act 1974 |  |  |
+| The Local Government Act 2002 | 232(2) | Wilful or malicious destruction, damage, stopping, obstruction, or interference with works or property vested in, or under the control of, a local authority |
+| The Marriage Act 1955 | 58 | Unlawful solemnisation of marriage |
+|  | 59 | Falsely pretending to be marriage celebrant |
+|  | 60 | False statements, etc |
+| The Medical Practitioners Act 1950 |  |  |
+| The Mental Health (Compulsory Assessment and Treatment) Act 1992 | 114 | Neglect or ill-treatment of proposed patients and patients |
+| The Merchandise Marks Act 1954 | 18 | Contravention of Act |
+| The Misuse of Drugs Act 1975 | 6 | Dealing with controlled drugs, but only where the charge relates to a Class C controlled drug |
+|  | 9 | Cultivation of prohibited plants |
+|  | 10 | Aiding offences against corresponding law of another country, but only in a case to which subsection (2)(b) applies |
+|  | 11 | Theft, etc, of controlled drugs |
+|  | 12 | Use of premises or vehicle |
+|  | 12A | Equipment, material, and substances used in production or cultivation of controlled drugs. |
+|  | 12AB | Offence to knowingly import or export precursor substances for unlawful use |
+|  | 12B | Laundering proceeds of drug offences. |
+| The Moneylenders Act 1908 |  |  |
+| The Motor-Vehicle Dealers Act 1958 |  |  |
+| The Municipal Corporations Act 1954 |  |  |
+| The Narcotics Act 1965 |  |  |
+| The Naval and Victualling Stores Act 1908 | 4 | Destroying marks with intent to steal stores |
+|  | 5(1) | Knowingly receiving or selling marked stores |
+| The New Zealand Security Intelligence Service Act 1969 | 12A | Unauthorised disclosure of Information |
+| The Passports Act 1992 | 29A | Forged and false New Zealand travel documents |
+|  | 30 | Offences relating to passport information and material |
+|  | 30A | Improper issue of New Zealand travel document |
+|  | 31(1) | Other offences |
+|  | 31(2) | Defacing or destroying document |
+|  | 32 | False representations |
+| The Patents Act 1953 | 25(6) | Breach of secrecy as to certain inventions |
+|  | 26(8) | Unlawful publication of information as to inventions relating to atomic energy |
+|  | 105 | Falsification of register of patents |
+| The Plant Varieties Act 1973 |  |  |
+| The Police Offences Act 1927 |  |  |
+| The Post Office Act 1959 |  |  |
+| The Proceeds of Crime Act 1991 | 58 | Contravention of restraining orders |
+|  | 84 | Dealings with forfeited property. |
+| The Prostitution Reform Act 2003 | 23 | Offence to breach prohibitions on use in prostitution of persons under 18 years |
+| The Public Service Investment Society Management Act (No 2) 1979 | 22 | Destroying or altering records |
+| The Real Estate Agents Act 1976 | 59 | Rendering false account |
+| The Referenda (Postal Voting) Act 2000 | 68(2) | Voting papers |
+| The Reserve Bank of New Zealand Act 1989 |  |  |
+| Residential Tenancies Act 1986 | 106 | Giving false evidence |
+| The Sales Tax Act 1974 |  |  |
+| Securities Act 1978 | 60C | offence of contravening management banning order |
+|  | 60E | persons automatically banned from management |
+|  | 60K | offence of contravening order to preserve assets |
+| The Serious Fraud Office Act 1990 | 45 | Offences as to obstructing investigation, etc |
+|  | 46 | Offence to destroy, alter, or conceal records, etc |
+| The Shipping and Seamen Act 1952 |  |  |
+| The Soil Conservation and Rivers Control Act 1941 | 154 | Wilful damage to watercourse or works |
+| The Stock Act 1908 |  |  |
+| The Stock Amendment Act 1956 |  |  |
+| The Summary Proceedings Act 1957 | 29(2) | False statement of service |
+|  | 181(5) | False statement of service |
+| The Syndicates Act 1973 |  |  |
+| Takeovers Act 1993 | 44C | criminal liability for false or misleading statement or information |
+|  | 44H | offence of contravening management banning order |
+|  | 44J | persons automatically banned from management |
+|  | 44P | offence of contravening order to preserve assets |
+| The Tax Administration Act 1994 | 143A(1)(d) | Knowledge Offences |
+|  | 143B(1) and (2) | Evasion or similar offence. |
+| The Trade in Endangered Species Act 1989 | 44(1)(a) | Trading in specimen of endangered species without appropriate permit or certificate |
+|  | 44(1)(b) | Trading in specimen of threatened species without appropriate permit or certificate |
+|  | 45(1) | Unlawful possession of specimen of endangered or threatened species |
+| The Trade Marks Act 1953 |  |  |
+| Trade Marks Act 2002 | 120 to 124 | Offences relating to counterfeiting or falsely using registered trade marks |
+| The Transport Act 1962 |  |  |
+| The Trustee Companies Management Act 1975 | 20 | Destroying or altering records |
+| The Veterinary Surgeons Act 1956 | 22 | Offences as to registration |
+| The Wanganui Computer Centre Act 1976 |  |  |
+| The Water Supply Act |  |  |
+
+## Schedule 2 — Forms of information
+
+| I, [Full Name], of [Address, occupation], say on oath that (*I have just cause to suspect, and do suspect, that) (*within the previous (6) months, namely) on the day of 19, at, [Full Name], of [Address, occupation], *who was born on the day of 19, [Here set out the substance of the offence or matter of complaint] (*being an offence punishable summarily). [Here add section and statute applicable.] |  |
+| --- | --- |
+|  | [Signature of Informant or Complainant] |
+| Sworn before me at this day of 19 |  |
+|  | District Court Judge, Justice of the Peace, Community Magistrate, Registrar (not being a constable). |
+| Delete if inapplicable. |  |
+
+| I, [Full Name], of [Address, occupation], say on oath that (*I have just cause to suspect, and do suspect, that at on [Full Name], of [Address, occupation], *who was born on the day of 19, [Here set out the nature of the offence], being an indictable. [Here add section and statute applicable.] |  |
+| --- | --- |
+|  | [Signature of Informant] |
+| Sworn before me at this day of 19 |  |
+|  | District Court Judge, Justice of the Peace, Community Magistrate, Registrar (not being a constable). |
+| * Delete if inapplicable. |  |
+
+## Schedule 2A — Modifications of Part 4 where appeal is from District Court presided over by Community Magistrate or Community Magistrates to District Court presided over by District Court Judge
+
+### 109 Frivolous appeals
+(1) If the Community Magistrate or Community Magistrates are of the opinion that the appeal is merely frivolous, but not otherwise, the Community Magistrate or Community Magistrates may refuse to state a case, and shall, on the request of the applicant for the case, sign and deliver to the applicant a certificate of that refusal.
+(2) Where the Community Magistrate or Community Magistrates refuse to state a case, the applicant for the case may apply to a Court presided over by a District Court Judge for an order requiring the Community Magistrate or Community Magistrates to state a case. A copy of the application shall be served on the Community Magistrate or Community Magistrates and on the other party, and any such Community Magistrate and that other party may appear and be heard.
+(3) The District Court to which an application under subsection (2) is made may, if it thinks fit, make an order requiring the Community Magistrate or Community Magistrates to state a case, and the Community Magistrate or Community Magistrates on being served with the order shall state a case accordingly. Costs may be allowed on the application, but shall not be allowed against any Community Magistrate.
+
+### 111 Case may be sent back for amendment
+A District Court presided over by a District Court Judge may, if it thinks fit, cause a case stated to be sent back for amendment, and it shall be the duty of the Community Magistrate or Community Magistrates to amend the case accordingly and return it to the District Court.
+
+### 113 Appeal on point of law may be removed into High Court
+A District Court presided over by a District Court Judge may order the removal into the High Court of any case transmitted to that District Court under section 107, and on the removal the High Court shall have the same power to adjudicate on the proceedings as that District Court had.
+
+### 115C Rights of appeal against decisions relating to publication of reports of proceedings or identifying particulars
+(1) Where a District Court presided over by one or more Community Magistrates makes a decision on an application for an order under paragraph (a) or paragraph (b) of section 138(2), or under section 140, of the Criminal Justice Act 1985 forbidding publication of any report of the proceedings or of any identifying particulars, the applicant for the order or the informant may appeal to a District Court presided over by a District Court Judge against the decision.
+(2) Where the decision of the District Court presided over by one or more Community Magistrates is to refuse to make the order sought, that District Court must, on being satisfied that an appeal against that decision is to be brought under this section, make an interim order to the effect sought by the applicant; and that interim order continues in force—
+  (a) Until the expiry of the period prescribed by section 116 of this Act for the filing of notice of the appeal; or
+  (b) If notice of the appeal is filed within that prescribed period, until the appeal is finally disposed of, or withdrawn, or abandoned.
+(3) The provisions of sections 116 to 144 of this Act, as far as they are applicable and with the necessary modifications, apply to any such appeal as if the decision of the District Court presided over by one or more Community Magistrates were an order made on sentence.
+
+### 118 Setting down appeal for hearing
+The Registrar who receives the notice of appeal—
+  (a) Must set the appeal down for hearing before a District Court Judge on the first practicable sitting day; and
+  (b) Must notify, or cause to be notified, the parties to the appeal of the time and place appointed for the hearing.
+
+### 119 Procedure on appeal
+(1) All general appeals must be by way of rehearing.
+(2) Where any question of fact is involved in any appeal, the evidence which was taken in the District Court presided over by one or more Community Magistrates and which bears on the question must, unless the District Court hearing the appeal otherwise directs, be brought before the District Court hearing the appeal as follows:
+  (a) As to any evidence given orally, by the production of any note made by the Community Magistrate or Community Magistrates or such other materials as the District Court hearing the appeal considers expedient:
+  (b) As to any evidence taken by affidavit and as to any exhibits, by the production of the affidavits and of such of the exhibits as may have been forwarded by the Registrar of the Court appealed from and by the production by the parties to the appeal of such exhibits as are in their custody:
+  (c) As to any evidence taken under section 31 (which relates to taking the evidence of a defence witness at a distance) or under section 32 (which relates to taking the evidence of a person about to leave the country), or to any statement admitted under section 33 (which relates to the admissibility of a statement made by a person who is seriously ill), by the production of a copy of that evidence or statement:
+  Provided that the District Court hearing the appeal may in its discretion rehear the whole or any part of the evidence, and must rehear the evidence of any witness if the Court has reason to believe that any note of the evidence of that witness made by the Community Magistrates or Community Magistrates is or may be incomplete in any material particular.
+(3) The District Court hearing the appeal has full discretionary power to hear and receive further evidence, if that further evidence could not in the circumstances have reasonably been adduced at the hearing, and for that purpose has the same jurisdiction and authority to make any order under section 31 or section 32 as the Court from whose decision the appeal is made.
+
+### 123 Powers of District Court Judge as to extension of time
+(1) Any District Court Judge may, on the application of the appellant or intending appellant, extend any time prescribed or allowed under this Part for the filing of any notice or the stating of any case or the doing of any other thing in respect of any appeal or proposed appeal to a District Court presided over by a District Court Judge.
+(2) Any appellant or intending appellant may at any time apply to a District Court Judge to review any decision of a Community Magistrate or Community Magistrates refusing an extension of time for the stating of a case under this Part. On any such application a District Court Judge may, in his or her discretion, confirm the decision, or reverse it and allow such extension of time as he or she thinks fit.
+
+### 135 Execution of decision on appeal
+(1) Where on any appeal a District Court presided over by a District Court Judge confirms any conviction, sentence, order, or amount of any sum to be paid, or where the appeal is dismissed for non-prosecution, or where a certificate has been given under section 107 that the appeal has been not been prosecuted, the decision appealed against shall be enforced.
+(2) Where on any appeal a District Court presided over by a District Court Judge sets aside or reverses any conviction or other determination, or amends any conviction or other determination, or quashes or varies any sentence or order, or increases or reduces the amount of any sum ordered to be paid, the Registrar of the District Court shall make in the entry in the Criminal Record Book kept pursuant to section 71 of this Act relating to the decision appealed against a note of the decision on the appeal.
+(3) In any case to which subsection (2) applies, the decision on the appeal or the decision appealed against as amended or varied by the decision on the appeal, as the case may be, takes effect as a decision of the District Court:
+  Provided that where a District Court presided over by a District Court Judge imposes a sentence of detention, the warrant to be issued under section 91 of the Sentencing Act 2002 must be signed by a District Court Judge:
+(3A)
+(4) Where a party to an appeal has paid a fine in accordance with a sentence of a District Court presided over by a Community Magistrate or Community Magistrates and on the determination of the appeal—that party shall be entitled, subject to the order of the District Court that heard the appeal, to a return of the sum paid or part thereof, as the case may be. For the purposes of this subsection the term fine includes any costs or other money ordered by the Court to be paid on the conviction of that party.
+  (a) That party's conviction is set aside; or
+  (b) The sentence is quashed and any other sentence imposed is not for the payment of a fine or is for the payment of a smaller fine; or
+  (c) The sentence is varied by a reduction in the amount of the fine imposed,—
+
+## Schedule 3 — Enactments amended
+
+## Schedule 4 — Enactments repealed
