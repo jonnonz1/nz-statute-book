@@ -1,0 +1,599 @@
+# State-Owned Enterprises Act 1986
+_Consolidation as at 2007-09-03_
+
+> An Act to promote improved performance in respect of Government trading activities and, to this end, to—aSpecify principles governing the operation of State enterprises; andbAuthorise the formation of companies to carry on certain Government activities and control the ownership thereof; andcEstablish requirements about the accountability of State enterprises, and the responsibility of Ministers
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the State-Owned Enterprises Act 1986.
+(2) Sections 32(1) and 33 of, and Schedules 3, 5, and 6 to, this Act shall come into force on the 1st day of April 1987.
+(3) Subject to subsection (2) of this section, this Act shall come into force on the day after the date on which it receives the Governor-General's assent.
+
+### 2 Interpretation
+In this Act, unless the context otherwise requires,—
+  - **Board** means—
+    (a) In relation to a State enterprise that is a company, the board of directors of the State enterprise:
+    (b) In relation to a State enterprise that is not a company, the persons occupying the positions in or in relation to the State enterprise that are comparable with those of the board of directors of a company:
+  - **Company** means—as the case may be
+    (a) A company formed and registered under the Companies Act 1955 or an existing company within the meaning of that Act; or
+    (b) A company formed and registered under the Companies Act 1993,—
+  - **Crown** means Her Majesty the Queen in right of New Zealand
+  - **Equity bond** means a State enterprise equity bond issued pursuant to section 12 of this Act
+  - **Minister** means a Minister of the Crown
+  - **Organisation** includes a company, a body corporate, a partnership, and a joint venture
+  - **Responsible Minister** , in relation to a State enterprise, means the Minister for the time being responsible for that State enterprise
+  - **Rules** means—
+    (a) In relation to a State enterprise that is a company, the memorandum of association and articles of association or the constitution, as the case may be, of the State enterprise:
+    (b) In relation to a State enterprise that is not a company, the documents relating to the State enterprise that are comparable to the memorandum of association and articles of association or the constitution, as the case may be, of a company:
+  - **Share** means—and has a corresponding meaning
+    (a) In relation to a company that has issued shares, a share of any class (but, except in sections 14 and 22 of this Act, does not include an equity bond):
+    (b) In relation to an organisation (other than a company) that has a capital, an interest in or right to the whole or any part of that capital, other than an interest or right as a creditor:
+    (c) In relation to a company or other organisation that does not have a capital,—
+      (i) An interest in or right to any part of the assets of the company or organisation, other than an interest or right as a creditor; or
+      (ii) Where there are no assets, a direct or contingent obligation to contribute money to or bear losses of the company or organisation;—
+  - **Shareholding Ministers** means the Minister of Finance and the responsible Minister
+  - **State enterprise** means an organisation that is named in Schedule 1 to this Act
+  - **Statement of corporate intent** , in relation to a State enterprise, means the current statement of corporate intent for the State enterprise prepared pursuant to section 14 of this Act
+  - **Subsidiary** has the same meaning as in sections 158 and 158A of the Companies Act 1955 or sections 5 and 6 of the Companies Act 1993, as the case may be.
+
+### 3 Act to bind the Crown
+This Act shall bind the Crown.
+
+## Part 1 — Principles
+
+### 4 Principal objective to be successful business
+(1) The principal objective of every State enterprise shall be to operate as a successful business and, to this end, to be—
+  (a) As profitable and efficient as comparable businesses that are not owned by the Crown; and
+  (b) A good employer; and
+  (c) An organisation that exhibits a sense of social responsibility by having regard to the interests of the community in which it operates and by endeavouring to accommodate or encourage these when able to do so.
+(2) For the purposes of this section, a good employer is an employer who operates a personnel policy containing provisions generally accepted as necessary for the fair and proper treatment of employees in all aspects of their employment, including provisions requiring—
+  (a) Good and safe working conditions; and
+  (b) An equal opportunities employment programme; and
+  (c) The impartial selection of suitably qualified persons for appointment; and
+  (d) Opportunities for the enhancement of the abilities of individual employees.
+
+### 5 Directors and their role
+(1) The directors of a State enterprise shall be persons who, in the opinion of those appointing them, will assist the State enterprise to achieve its principal objective.
+(2) All decisions relating to the operation of a State enterprise shall be made by or pursuant to the authority of the board of the State enterprise in accordance with its statement of corporate intent.
+(3) The board of a State enterprise shall be accountable to the shareholding Ministers in the manner set out in Part 3 of this Act and in the rules of the State enterprise.
+
+### 6 Responsibility of Ministers
+The shareholding Ministers of a State enterprise shall be responsible to the House of Representatives for the performance of the functions given to them by this Act or the rules of the State enterprise.
+
+### 7 Non-commercial activities
+Where the Crown wishes a State enterprise to provide goods or services to any persons, the Crown and the State enterprise shall enter into an agreement under which the State enterprise will provide the goods or services in return for the payment by the Crown of the whole or part of the price thereof.
+
+### 8 Application of Employment Relations Act 2000
+(1) Except as otherwise provided in this Act, the Employment Relations Act 2000 applies in relation to every State enterprise.
+(2) Before entering into any collective agreement under the Employment Relations Act 2000, every State enterprise to which this subsection applies must consult with the State Services Commissioner over the conditions of employment to be included in the collective agreement.
+(3) The Governor-General may, by Order in Council, apply subsection (2) to any State enterprise named in Schedule 2.
+(4) On the commencement of that order, that subsection applies accordingly.
+
+### 9 Treaty of Waitangi
+Nothing in this Act shall permit the Crown to act in a manner that is inconsistent with the principles of the Treaty of Waitangi.
+
+## Part 2 — Formation and ownership of new State enterprises
+
+### 10 Ministers may hold shares and equity bonds in new State enterprises
+(1) The Minister of Finance and the responsible Minister may from time to time, on behalf of the Crown, subscribe for or otherwise acquire shares or equity bonds, or both, in the companies named, or to be formed with the names specified, in Schedule 2 to this Act.
+(2) The number of shares, and the number of equity bonds, held by a shareholding Minister in a company named in Schedule 2 to this Act shall be the same as the number of shares or equity bonds, as the case may be, in that company held by the other shareholding Minister thereof.
+(3) Any money required to be paid by a shareholding Minister on subscribing for or otherwise acquiring shares or equity bonds pursuant to subsection (1) of this section shall be paid out of money appropriated by Parliament for the purpose.
+
+### 10A Power to add to Schedules 1 and 2 by Order in Council
+(1) The Governor-General may, from time to time, by Order in Council, add the name of a company or other body corporate or the name of a company to be formed to Schedules 1 and 2 to this Act.
+(2) Every Order in Council made under subsection (1) of this section shall, and is hereby empowered to,—
+  (a) Amend Part 2 of Schedule 1 to the Ombudsmen Act 1975 by including the name of the company or body corporate in that Schedule:
+  (b) Amend Schedule 1 to the Official Information Act 1982 by including the name of the company or body corporate in that Schedule:
+  (c) Amend Schedule 18 to the Income Tax Act 2004 by including the name of the company or body corporate in that Schedule.
+(3) Any Order in Council made under this section may be expressed to come into force on a date specified in the order and different dates may be specified for the coming into force of different provisions.
+(4) Nothing in section 32 of the Ombudsmen Act 1975 or section 49 of the Official Information Act 1982 limits or affects this section.
+
+### 11 Ministers to hold all shares in new State enterprises
+(1) No Minister who is a shareholder in a company named in Schedule 2 to this Act shall—
+  (a) Sell or otherwise dispose of any shares in the company held in the Minister's name; or
+  (b) Permit shares in the company to be allotted or issued to any person other than a shareholding Minister.
+(2) Nothing in subsection (1) of this section shall apply to redeemable preference shares that—
+  (a) Are not convertible into shares of any other class; and
+  (b) Do not confer any rights to vote at any general meeting of the company.
+
+### 12 State enterprise equity bonds
+(1) Notwithstanding any other enactment or rule of law, a company named in Schedule 2 to this Act may issue State enterprise equity bonds to any person or persons in accordance with subsection (2) of this section, if authorised to do so at any time or times by resolution of the House of Representatives.
+(2) The terms of issue of State enterprise equity bonds shall be as follows:
+  (a) The bonds shall not confer any rights to vote at meetings of shareholders:
+  (b) The bonds shall be transferable in the manner provided by the rules:
+  (c) For the purposes of the Companies Act 1955, the Companies Act 1993, and the Securities Act 1978 the bonds shall be deemed to be ordinary shares, and the holder of any bonds shall be deemed to be a shareholder:
+  (d) For the purposes of the Income Tax Act 2004—
+    (i) The bonds shall be deemed to be ordinary shares and the holder of any bonds shall be deemed to be a shareholder:
+    (ii) Every sum distributed by a company named in Schedule 2 to this Act in any manner and under any name to a holder of bonds shall be deemed to be a dividend for the purposes of subpart CD of the Income Tax Act 2004:
+    (iii) No deduction shall be allowed to such a company for any such distribution:
+  (e) Such other terms as are specified in the authorising resolution or as are determined by the shareholding Ministers for the company issuing the bonds.
+
+### 13 Powers of shareholding Ministers in respect of new State enterprises
+(1) Notwithstanding any other provision of this Act or the rules of any company,—and any board to whom such a notice is given shall comply with the notice.
+  (a) The shareholding Ministers may from time to time, by written notice to the board, direct the board of a company named in Schedule 2 to this Act to include in, or omit from, a statement of corporate intent for that company any provision or provisions of a kind referred to in paragraphs (a) to (h) of section 14(2) of this Act; and
+  (b) The shareholding Ministers may, by written notice to the board, determine the amount of dividend payable by any company named in Schedule 2 to this Act in respect of any financial year or years,—
+(2) Before giving any notice under this section, the shareholding Ministers shall—
+  (a) Have regard to Part 1 of this Act; and
+  (b) Consult the board concerned as to the matters to be referred to in the notice.
+(3) Within 12 sitting days after a notice is given to a board pursuant to this section, the responsible Minister for the company concerned shall lay a copy of the notice before the House of Representatives.
+
+## Part 3 — Accountability
+
+### 14 Statement of corporate intent
+(1) The board of every State enterprise shall deliver to the shareholding Ministers a draft statement of corporate intent not later than 1 month before the commencement of each financial year of the State enterprise.
+(2) Each statement of corporate intent shall specify for the group comprising the State enterprise and its subsidiaries (if any), in respect of that financial year and each of the immediately following 2 financial years, the following information:
+  (a) The objectives of the group:
+  (b) The nature and scope of the activities to be undertaken:
+  (c) The ratio of consolidated shareholders' funds to total assets, and definitions of those terms:
+  (d) The accounting policies:
+  (e) The performance targets and other measures by which the performance of the group may be judged in relation to its objectives:
+  (f) A statement of the principles adopted in determining the annual dividend together with an estimate of the amount or proportion of annual tax paid earnings (from both capital and revenue sources) that is intended to be distributed to the Crown:
+  (g) The kind of information to be provided to the shareholding Ministers by the State enterprise during the course of those financial years, including the information to be included in each half-yearly report:
+  (h) The procedures to be followed before any member of the group subscribes for, purchases, or otherwise acquires shares in any company or other organisation:
+  (i) Any activities for which the board seeks compensation from the Crown (whether or not the Crown has agreed to provide such compensation):
+  (j) Such other matters as are agreed by the shareholding Ministers and the board.
+(3) Each statement of corporate intent shall also include the board's estimate of the current commercial value of the Crown's investment in the group and a statement of the manner in which that value was assessed.
+(4) The board shall consider any comments on the draft statement of corporate intent that are made to it not later than 14 days before the commencement of the financial year by the shareholding Ministers, and shall deliver the completed statement of corporate intent to the shareholding Ministers on or before the commencement of the financial year or such later date as the shareholding Ministers may determine.
+(5) A statement of corporate intent for a State enterprise may be modified at any time by written notice from the board to the shareholding Ministers, so long as the board has first given written notice to the shareholding Ministers of the proposed modification and considered any comments made thereon by the shareholding Ministers within 1 month of the date on which that notice was given.
+
+### 15 Annual report, accounts, and dividend
+(1) Within 3 months after the end of each financial year of a State enterprise, the board of the State enterprise shall deliver to the shareholding Ministers—
+  (a) A report of the operations of the State enterprise and those of its subsidiaries during that financial year; and
+  (b) Audited consolidated financial statements for that financial year consisting of statements of financial position, profit and loss, changes in financial position, and such other statements as may be necessary to show the financial position of the State enterprise and its subsidiaries and the financial results of their operations during that financial year; and
+  (c) The auditor's report on those financial statements.
+(2) Every report under subsection (1)(a) of this section shall—
+  (a) Contain such information as is necessary to enable an informed assessment of the operations of the State enterprise and its subsidiaries, including a comparison of the performance of the State enterprise and subsidiaries with the relevant statement of corporate intent; and
+  (b) State the dividend payable to the Crown by the State enterprise for the financial year to which the report relates.
+
+### 16 Half-yearly reports
+(1) Within 2 months after the end of the first half of each financial year of a State enterprise, the board of the State enterprise shall deliver to the shareholding Ministers a report of its operations during that half-year.
+(2) Each report required by this section shall include the information required by the statement of corporate intent to be included therein.
+
+### 17 Information to be laid before House of Representatives
+(1) The responsible Minister for a State enterprise shall lay before the House of Representatives the rules of the State enterprise, and any change to those rules, within 12 sitting days after the date of those rules or that change or the date on which the State enterprise became such, whichever is the later.
+(2) Within 12 sitting days of receiving all the following documents in respect of a financial year of a State enterprise, the responsible Minister for the State enterprise shall lay the documents before the House of Representatives:
+  (a) The statement of corporate intent of the State enterprise for that year and the succeeding 2 years; and
+  (b) The annual report and audited financial statements of the State enterprise for the preceding financial year; and
+  (c) The auditor's report on those financial statements.
+(2A) Where any documents (being documents prepared in respect of a financial year of a State enterprise) that are required by subsection (2) of this section to be laid before the House of Representatives have not been so laid within 5 weeks of the responsible Minister's receiving all of them, the Minister shall—
+  (a) Cause those of them referred to in paragraphs (b) and (c) of that subsection to be published not later than 5 weeks after that day; and
+  (b) Arrange for the publication in the Gazette of a notice indicating that they have been published.
+(3) Where a statement of corporate intent for a State enterprise has been modified pursuant to section 14(5) of this Act, the responsible Minister shall lay before the House of Representatives a copy of the notice making the modification within 12 sitting days after the date on which the Minister receives the notice.
+(4) Within 12 sitting days after a half-yearly report is given to a responsible Minister pursuant to section 16 of this Act, the responsible Minister shall lay a copy of the report before the House of Representatives.
+
+### 18 Other information
+(1) Subject to subsection (3) of this section, the board of a State enterprise shall supply to the shareholding Ministers or to such other person or class or classes of persons as either of those Ministers specifies such information relating to the affairs of the State enterprise, or any of its subsidiaries, as either of those Ministers requests after consultation with the board (whether or not the information is of a kind referred to in the statement of corporate intent).
+(2) A shareholding Minister may request information to be supplied whether or not the supply of the information is required for the purposes of, or is contemplated by, this Act.
+(3) The board of a State enterprise shall not be obliged by subsection (1) of this section to supply to any Minister any information relating to an individual employee or customer of the State enterprise, or of any subsidiary of it, or any other person, if the information supplied would enable the identification of the person concerned.
+(4) Notwithstanding the Securities Markets Act 1988 or any other Act or rule of law, the board of a State enterprise may direct an officer or employee of the State enterprise to comply with a request under subsection (1) of this section and the officer or employee shall comply with the request on being directed to do so.
+(5) No member of a board of a State enterprise and no officer or employee of a State enterprise who acts in accordance with a request or direction under this section is liable to any person under the Securities Markets Act 1988 or any other Act or rule of law by reason of acting in accordance with that request or direction.
+
+### 19 Auditor-General to be auditor of state enterprises and subsidiaries
+(1) Despite sections 196 to 203 of the Companies Act 1993, every state enterprise and every subsidiary of every state enterprise is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+(2) Without limiting subsection (1), the board of a State enterprise may, after consultation with the Auditor-General and if its responsible Minister so approves, appoint a person or firm that is qualified for appointment as an auditor of a company to be an additional auditor of the State enterprise or any subsidiary of a State enterprise.
+
+### 20 Protection from disclosure of sensitive information
+Nothing in this Act shall be construed as requiring the inclusion in any statement of corporate intent, annual report, financial statements, or half-yearly report referred to in sections 14 to 16 of this Act of any information that could be properly withheld if a request for that information were made under the Official Information Act 1982.
+
+## Part 4 — Miscellaneous provisions
+
+### 21 Saving of certain transactions
+A failure by a State enterprise to comply with any provision contained in Part 1 of this Act or in any statement of corporate intent shall not affect the validity or enforceability of any deed, agreement, right, or obligation entered into, obtained, or incurred by a State enterprise or any subsidiary of a State enterprise.
+
+### 22 Provisions relating to Ministers' shareholding
+(1) Shares in a State enterprise held in the name of a person described as the Minister of Finance or the responsible Minister shall be held by the person for the time being holding the office of Minister of Finance or responsible Minister, as the case may be.
+(2) Notwithstanding any other enactment or rule of law, it shall not be necessary to complete or register a transfer of shares of the kind referred to in subsection (1) of this section consequent upon a change in the person holding the office of Minister of Finance or responsible Minister, as the case may be.
+(3) Each shareholding Minister may exercise all the rights and powers attaching to the shares in a State enterprise held by that Minister.
+(4) A shareholding Minister may at any time or times, by written notice to the secretary of a State enterprise, authorise (on such terms and conditions as are specified in the notice) such person as the Minister thinks fit to act as the Minister's representative at any or all of the meetings of shareholders of the State enterprise or of any class of such shareholders, and any person so authorised shall be entitled to exercise the same powers on behalf of the Minister as the Minister could exercise if present in person at the meeting or meetings.
+
+### 23 Transfer of Crown assets and liabilities to State enterprises
+(1) Notwithstanding any Act, rule of law, or agreement, the shareholding Ministers for a State enterprise named in Schedule 2 to this Act may, on behalf of the Crown, do any one or more of the following:for such consideration, and on such terms and conditions, as the shareholding Ministers may agree with the State enterprise.
+  (a) Transfer to the State enterprise assets and liabilities of the Crown (being assets and liabilities relating to the activities to be carried on by the State enterprise):
+  (b) Authorise the State enterprise to act on behalf of the Crown in providing goods or services, or in managing assets or liabilities of the Crown:
+  (ba) Vest in the State enterprise any rights conferred by designations under operative district schemes applying to land transferred to the State enterprise:
+  (c) Grant to the State enterprise leases, licences, easements, permits, or rights of any kind in respect of any assets or liabilities of the Crown—
+(2) The responsible Minister shall lay before the House of Representatives any contract or other document entered into pursuant to subsection (1) of this section within 12 sitting days after the date thereof.
+(3) Assets that are fixed to, or are under or over, any land may be transferred to a State enterprise pursuant to this Act whether or not any interest in the land is also transferred. Where any such asset is so transferred, the asset and the land shall be regarded as separate assets each capable of separate ownership.
+(4) Any asset or liability of the Crown may be transferred to a State enterprise pursuant to this Act whether or not any Act or agreement relating to the asset or liability permits such transfer or requires any consent to such a transfer.
+(5) Where a transfer of the kind described in subsection (4) of this section takes place—
+  (a) The transfer shall not entitle any person to terminate, alter, or in any way affect the rights or liabilities of the Crown, or the State enterprise under any Act or agreement:
+  (b) Where the transfer is registrable, the person responsible for keeping the register shall register the transfer forthwith after written notice of the transfer is received by him or her from any person authorised for this purpose by the responsible Minister:
+  (c) The laying before the House of Representatives of any contract or other document relating to the transfer shall be deemed to be notice of the transfer, and any third party shall after the date of such contract or document deal with the State enterprise in place of the Crown:
+  (d) The Crown shall remain liable to any third party as if the asset or liability had not been transferred but shall be indemnified by the State enterprise in respect of any liability to that third party:
+  (e) Any satisfaction or performance by the State enterprise in respect of the asset or liability shall be deemed to be also satisfaction or performance by the Crown:
+  (f) Any satisfaction or performance in respect of the asset or liability by any third party to the benefit of the State enterprise shall be deemed to be also to the benefit of the Crown.
+(6) No provision in any agreement limiting the Crown's right to sell any assets to third parties, or for determining the consideration for the sale of any assets to third parties, or obliging the Crown to account to any person for the whole or part of the proceeds of sale by the Crown of any assets to third parties, or obliging the Crown to pay a greater price than otherwise by reason of or as a consequence of the sale of any assets to third parties, shall have any application or effect in respect of any agreement or transfer entered into or effected pursuant to or under this Act or pursuant to such an agreement or transfer.
+(6A) In any case where—the provision referred to in paragraph (b) of this subsection shall, notwithstanding the transfer of the assets to the State enterprise, continue in force in favour of the Crown as if the State enterprise was part of the Crown, the Crown continued to carry on the activity, and any loss suffered by the State enterprise was a loss suffered by the Crown and not, by reason only of having been suffered by the State enterprise, an indirect or a consequential loss or a loss suffered by a third party.
+  (a) The Crown transfers or agrees to transfer to a State enterprise assets which the Crown acquires or is entitled to acquire from another person for the purpose of carrying on any activity; and
+  (b) The assets are acquired by the Crown, or the Crown's rights to acquire the assets arise, under an agreement with that person that contains a provision specifying or limiting the Crown's rights to recover compensation or damages; and
+  (c) The State enterprise carries on that activity or part of that activity whether or not it also carries on any other activity,—
+(6B) In any case where—the provision referred to in paragraph (b) of this subsection shall, notwithstanding the transfer of the assets to the State enterprise, continue in force in favour of the Crown as if the State enterprise was part of the Crown, the Crown continued to carry on the activity, and as if the occurrence of any such event referred to in the provision in relation to the State enterprise was the occurrence of the event in relation to the Crown.
+  (a) The Crown transfers or agrees to transfer to a State enterprise assets which the Crown acquires or is entitled to acquire from another person for the purpose of carrying on any activity; and
+  (b) The assets are acquired by the Crown, or the Crown's rights to acquire the assets arise, under an agreement with that person that contains a provision relieving the Crown from performing any obligation imposed upon it, or relieving the Crown from any claim or cause of action based on the failure by the Crown to perform any such obligation, as a result of any particular event; and
+  (c) The State enterprise carries on that activity or part of that activity whether or not it also carries on any other activity,—
+(7) Where—the goods or services shall, to the extent that those terms and conditions are not already contained in contracts between the Crown and third parties, from the date of transfer be deemed to be provided pursuant to contracts between the State enterprise and the third parties (whether or not the Act is repealed). Each such contract shall be deemed to include such of the terms and conditions contained in that Act (with all necessary modifications), and such of the following provisions as are specified in the Order in Council:
+  (a) Rights or obligations to provide goods or services to third parties are transferred to a State enterprise pursuant to this Act; and
+  (b) Those goods or services have previously been provided by the Crown on terms and conditions wholly or partly prescribed by any Act; and
+  (c) The Governor-General has by Order in Council declared that this subsection shall apply in respect of those goods or services—
+  (d) A condition permitting termination at any time by the third party on giving 14 days' notice to the State enterprise; and
+  (e) A condition permitting variation or termination at any time by the State enterprise on giving to the third party 1 month's notice in such manner (including newspaper advertising) as the State enterprise thinks fit.
+(8) Where any land that is subject to any lease, licence, permit, or right, created on terms and conditions wholly or partly set out in any Act has been or is to be transferred to a State enterprise pursuant to this Act, the Governor-General may, by Order in Council, declare that such of the provisions of that Act as are specified in the order shall continue to apply in relation to the land and such licence, lease, permit or right.
+(8A) Where an Order in Council is made under subsection (8) of this section, the provisions of the Act referred to in the order shall, with all necessary modifications, continue to apply in relation to the land and the terms or conditions of the lease, licence, permit or right subject to any agreement to—made between the owner for the time being of the land and the holder for the time being of the lease, licence, permit or right.
+  (a) Amend or revoke any such term or condition; or
+  (b) Revoke any such term or condition and substitute another term or condition for it—
+(9)
+(10) Notwithstanding any other provision of this Act, where prior to the date on which this Act comes into force any Maori land was leased to the Crown under a lease administered by the Minister of Forests, the shareholding Ministers shall not, except with the consent of the lessor or where the lease so permits, transfer that leasehold interest to a State enterprise, but the shareholding Ministers may enter into an agreement with a State enterprise pursuant to subsection (1)(b) of this section to manage, on behalf of the Crown, its rights under that lease.
+
+### 24 Provisions relating to transfer of land
+(1) Notwithstanding any other provision of this Act, Crown land within the meaning of the Land Act 1948 and any lands of the Crown other than lands registered under the Land Transfer Act 1952 that are to be transferred to a State enterprise pursuant to this Act shall—
+  (a) Be identified by an adequate legal description, or on plans lodged in the office of the Chief Surveyor for the land district in which the land is situated (being plans certified as correct for the purposes of this section by that Chief Surveyor); and
+  (b) Vest in the State enterprise—
+    (i) Pursuant to and on a date specified in an Order in Council made for the purposes of this section; or
+    (ii) Pursuant to and on a date specified in a notice in the Gazette given for the purposes of this section by the shareholding Ministers or by a person authorised in writing by those Ministers.
+(1A) Every notice given under subsection (1)(b)(ii) of this section may be given on such terms and conditions as the shareholding Ministers or a person authorised in writing by those Ministers, as the case may be, thinks fit, and shall have effect according to its tenor.
+(2) Notwithstanding any other provision of this Act, no land which is subject to—shall be transferred to a State enterprise pursuant to section 23(1)(a) of this Act.
+  (a) A lease or licence pursuant to section 66 or section 66AA of the Land Act 1948; or
+  (b) Reservation from sale or disposition under Part 4A of the Conservation Act 1987—
+(3) All land that is subject to the Land Act 1948 or the Forests Act 1949 and that is transferred to a State enterprise pursuant to this Act shall cease to be subject to the Land Act 1948 or the Forests Act 1949, as the case may be, from the date of that transfer, unless otherwise expressly provided by this Act or any other Act.
+(4) Nothing in sections 40 to 42 of the Public Works Act 1981 shall apply to the transfer of land to a State enterprise pursuant to this Act, but sections 40 and 41 of that Act shall after that transfer apply to that land as if the State enterprise were the Crown and the land had not been transferred pursuant to this Act.
+(5) Nothing in this Act or in any transfer of land to a State enterprise pursuant to this Act shall derogate from the provisions of section 10 or section 11 of the Crown Minerals Act 1991.
+
+### 25 Title to land
+(1) A District Land Registrar shall, on written application by any person authorised by a Minister and on payment of the prescribed fee,—
+  (a) Register a State enterprise as the proprietor, in substitution for the Crown, of the estate or the interest of the Crown in any land that is incorporated in the register or otherwise registered in the land registry office of the land registration district concerned and that is transferred to the State enterprise pursuant to this Act; and
+  (b) Make such entries in the register and on any outstanding documents of title and generally do all such things as may be necessary to give effect to this section.
+(1A) The powers conferred by subsection (1) of this section may be exercised in respect of an estate or interest that is incorporated in the register by virtue of a lease or licence that has expired or has been determined.
+(2) A District Land Registrar shall, on written application by any person authorised by a Minister and on payment of the prescribed fee, issue a certificate of title for land vested in a State enterprise pursuant to section 24(1) of this Act in form No 1 in Schedule 1 to the Land Transfer Act 1952, amended as appropriate.
+(3) As soon as registration is accomplished in accordance with subsection (1) of this section or a certificate of title is issued in accordance with subsection (2) of this section, the State enterprise shall, except where the interest acquired is either an easement in gross or an estate as lessee or mortgagee, be deemed to be seised of an estate in fee simple in possession in respect of that land.
+(4) Applications in accordance with subsections (1) and (2) of this section shall specify the name of the State enterprise and the date of the agreement, together with a description of the land sufficient to identify it and, in the case of applications under subsection (2) of this section, a certificate by the Chief Surveyor for the district concerned as to the correctness of such description.
+
+### 26 Land certification
+(1) Before a District Land Registrar issues a certificate of title in respect of any land vested in a State enterprise pursuant to section 24(1) of this Act, the District Land Registrar shall either receive under the hand of or request from the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor a certificate in the form set out in Schedule 2 to the Land Act 1948 as to the legal description of the land, any trusts, reservations, or restrictions affecting the land, and any other matters that the District Land Registrar considers appropriate.
+(2) Where any land that has been vested in a State enterprise pursuant to section 24(1) of this Act and for which no certificate of title has been issued in the name of that enterprise, is to be transferred to any other person, the District Land Registrar shall, before issuing a certificate of title, either receive under the hand of or request from the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor a certificate in the form set out in Schedule 2 to the Land Act 1948 as to the legal description of the land, any trusts, reservations, or restrictions affecting the land and any other matters that the District Land Registrar considers appropriate.
+(3) A certificate in accordance with subsection (1) or subsection (2) of this section shall be filed by the District Land Registrar in the Land Registry Office and shall be conclusive evidence to the District Land Registrar of the matters required to be stated therein.
+
+### 26A Certification of easements
+(1) Where land is vested in a State enterprise pursuant to section 24(1) of this Act subject to the reservation of or together with any easement, not being an easement previously registered under the Land Transfer Act 1952, the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor shall include in the certificate given under subsection (1) or subsection (2) of section 26 of this Act, as the case may be, a sufficient description of the easement and particulars as to the rights and powers, terms, covenants, conditions, or restrictions attaching thereto.
+(2) The District Land Registrar shall enter a memorial of the easement upon the relevant certificate of title by reference to the certificate in which it is described as if that certificate were the instrument creating the easement.
+(3) Where a memorial of an easement is entered upon the relevant certificate of title under subsection (2) of this section, the easement shall be treated for all purposes including all subsequent dealings as if it had been created under the Land Transfer Act 1952.
+
+### 27 Maori land claims
+The submission in respect of any land or interest in land of a claim under section 6 of the Treaty of Waitangi Act 1975 does not prevent the transfer of that land or of any interest in that land or of that interest in land—
+  (a) By the Crown to a State enterprise; or
+  (b) By a State enterprise to any other person.
+
+### 27A District Land Registrar to register necessary memorial
+(1) Where any land or interest in land is transferred to a State enterprise under section 23 of this Act or vested in a State enterprise by a notice in the Gazette under section 24 of this Act or by an Order in Council made under section 28 of this Act, the District Land Registrar shall, without fee, note on the certificate of title the words Subject to section 27B of the State-Owned Enterprises Act 1986 (which provides for the resumption of land on the recommendation of the Waitangi Tribunal and which does not provide for third parties, such as the owner of the land, to be heard in relation to the making of any such recommendation).
+(2) Subsection (1) of this section shall not apply in relation to any piece of land or interest in land that is excluded from section 27B of this Act by subsection (2) or subsection (3) of that section.
+
+### 27B Resumption of land on recommendation of Waitangi Tribunal
+(1) Where the Waitangi Tribunal has, under section 8A(2)(a) of the Treaty of Waitangi Act 1975, recommended the return to Maori ownership of any land or interest in land transferred to a State enterprise under section 23 of this Act or vested in a State enterprise by a notice in the Gazette under section 24 of this Act or by an Order in Council made under section 28 of this Act, that land or interest in land shall, if the recommendation has been confirmed with or without modifications under section 8B of that Act, be resumed by the Crown in accordance with section 27C of this Act and returned to Maori ownership.
+(2) This section shall not apply in relation to any piece of land that, at the date of its transfer to a State enterprise under section 23 of this Act or the date of its vesting in a State enterprise by a notice in the Gazette under section 24 of this Act or by an Order in Council made under section 28 of this Act, was subject to—
+  (a) A deferred payment licence issued under the Land Act 1948; or
+  (b) A lease under which the lessee had the right of acquiring the fee simple.
+(3) This section shall not apply in relation to any piece of land or interest in land in respect of which a certificate issued under section 8E(1) of the Treaty of Waitangi Act 1975 has been registered.
+
+### 27C Resumption of land to be effected under Public Works Act 1981
+(1) Where section 27B of this Act requires any land or interest in land to be resumed by the Crown, the Minister of Lands shall acquire that land or interest in land under Part 2 of the Public Works Act 1981 as if it were land or an interest in land required for both Government work and a public work and Parts 2, 4, 5, 6, and 7 of that Act and Schedules 1, 3, 4, and 5 to that Act shall, subject to the modifications set out in Schedule 2A to this Act and to all other necessary modifications, apply accordingly.
+(2) The existence on the certificate of title to any land or interest in land acquired pursuant to subsection (1) of this section of a memorial under section 27A of this Act shall not be taken into account in any assessment of compensation made under the Public Works Act 1981 in relation to the acquisition of that land or interest in land.
+(3) The power conferred by this section does not include the power to acquire or take and to hold under section 28 of the Public Works Act 1981 any interest in land described in section 8A(6) of the Treaty of Waitangi Act 1975.
+
+### 27D Resumption of Wahi Tapu
+(1) Where the Governor-General is satisfied that any land or interest in land held by a State enterprise, being land or an interest in land transferred to that State enterprise under section 23 of this Act or vested in that State enterprise by a notice in the Gazette under section 24 of this Act or by an Order in Council made under section 28 of this Act, is Wahi Tapu, being land of special spiritual, cultural, or historical tribal significance, the Governor-General may, by Order in Council published in the Gazette, declare—
+  (a) That that land or interest in land shall be resumed by the Crown on a date specified in the Order in Council; and
+  (b) That, on the date of its resumption pursuant to the Order in Council, that land or interest in land shall be no longer liable to resumption under section 27B of this Act.
+(2) Where any land or interest in land is to be resumed pursuant to subsection (1)(a) of this section,—
+  (a) The State enterprise shall transfer the land or interest in land to the Crown on the date specified in the Order in Council; and
+  (b) The Crown shall pay to the State enterprise in respect of the land or interest in land the compensation that would have been payable to the State enterprise if, on the date specified in the Order in Council made under subsection (1) of this section, the land or interest in land had, pursuant to section 27C of this Act, been acquired by the Minister of Lands under Part 2 of the Public Works Act 1981.
+(3) Every memorandum of transfer executed pursuant to an Order in Council made under subsection (1) of this section—
+  (a) Shall recite that it is so executed; and
+  (b) Shall give both the date of the Order in Council and the date of its publication in the Gazette.
+(4) Upon its resumption pursuant to subsection (1)(a) of this section, the land or interest in land shall be dealt with in accordance with an agreement made between the Crown and the relevant tribe or, if they fail to agree, in accordance with any recommendation of the Waitangi Tribunal pursuant to an application made under section 6 of the Treaty of Waitangi Act 1975.
+(5) A resumption of land or of an interest in land pursuant to subsection (1)(a) of this section is not a subdivision within the meaning of the Resource Management Act 1991.
+
+### 28 Orders in Council relating to transfer of assets and liabilities
+(1) For the purpose of facilitating the transfer of assets and liabilities to a State enterprise pursuant to this Act, the Governor-General may from time to time, by Order in Council, do any one or more of the following:
+  (a) Vest in or impose on a State enterprise any asset or liability (other than land to which section 24(1) of this Act applies), or any class of any such asset or liability, that the State enterprise has agreed to have transferred to it:
+  (b) Vest land in a State enterprise for the purposes of section 24(1) of this Act:
+  (c) Declare that a reference to the Crown or a Minister, officer, employee, department, or instrument of the Crown in any or all regulations, orders, notices, or documents shall be deemed to be or to include a reference to a State enterprise specified in the order:
+  (d) Declare that a State enterprise shall assume or continue to have the rights and obligations of the Crown or a Minister, officer, employee, department, or instrument of the Crown in respect of applications for rights, objections, or proceedings before any court, authority, or other person, being rights and obligations that the State enterprise has agreed to assume:
+  (e)
+  (f) Declare, in respect of any assets or liabilities transferred to a State enterprise pursuant to this Act, that the State enterprise shall be deemed to have specified rights or obligations in respect of those assets or liabilities, being rights or obligations that are required in respect of those assets or liabilities as a result of the change of ownership or responsibility from the Crown to the State enterprise:
+  (g) Declare that any Order in Council made under this section shall be deemed to be notice to all persons, and that specific notice need not be given to any authority or other person:
+  (h) Direct any authority or other person to register or record any such vesting or declaration.
+(2) Every Order in Council made under this section may be made on such terms and conditions as the Governor-General thinks fit, and shall have effect according to its tenor.
+
+### 29 Interpretation relating to transfer of assets and liabilities
+(1) In this section and in sections 23 to 28 and 29A of this Act, unless the context otherwise requires,—
+  - **Agreement** includes a deed, a contract, an agreement, an arrangement, and an understanding, whether oral or written, express or implied, and whether or not enforceable at law
+  - **Assets** means any real or personal property of any kind, whether or not subject to rights, and without limiting the generality of the foregoing includes—
+    (a) Any estate or interest in any land, including all rights of occupation of land or buildings:
+    (b) All buildings, vehicles, plant, equipment, and machinery, and any rights therein:
+    (c) All livestock, products from livestock, and crops:
+    (d) All securities within the meaning of the Securities Act 1978:
+    (e) All rights of any kind, including rights under Acts, deeds, agreements, or licences, and any kind of consent granted under the Resource Management Act 1991, and all applications for and objections against applications for such rights:
+    (f) All patents, trade marks, designs, copyright, and other intellectual property rights whether enforceable by Act or rule of law:
+    (g) Goodwill, and any business undertaking:
+    (h) All natural gas, petroleum, and other hydrocarbons:
+  - **Liabilities** includes—
+    (a) Liabilities and obligations under any Act or agreement; and
+    (b) Deposits and other debt securities within the meaning of the Securities Act 1978; and
+    (c) Contingent liabilities:
+  - **Rights** includes powers, privileges, interests, licences, approvals, consents, benefits, and equities of any kind, whether actual, contingent, or prospective
+  - **State enterprise** includes a subsidiary of a State enterprise
+  - **Transfer** includes—
+    (a) Assign and convey; and
+    (b) Vest by Order in Council or notice in the Gazette; and
+    (c) Confer estates in fee simple of land held by the Crown, whether in allodium or otherwise; and
+    (d) Grant leases, rights, and interests in any real or personal property; and
+    (e) In the case of liabilities, the assumption thereof by a State enterprise.
+(2) In this section and in sections 23 to 28 of this Act, a reference to transfer, authorise, or grant includes entering into an agreement to transfer, authorise, or grant, as the case may be.
+(3) This section and sections 23 to 28 of this Act shall have effect, and assets and liabilities may be transferred pursuant to this Act, notwithstanding any restriction, prohibition, or other provision contained in any Act, rule of law, or agreement that would otherwise apply.
+(4) Nothing in this Act shall limit any powers or rights that the Crown or a Minister has other than pursuant to this Act.
+
+### 29A Further provision relating to transfer of Crown assets and liabilities
+(1) Nothing in this Act prevents the exercise in relation to a State enterprise named in Schedule 2 to this Act of a power conferred by section 23 or section 24 or section 28 of this Act even though—
+  (a) At the time the power is exercised, the shareholding Ministers for the State enterprise intend or may intend to transfer or dispose of all or any of the shares in that State enterprise held by those Ministers; or
+  (b) A purpose of exercising the power is the obtaining of the benefits of sections 23 to 29 of this Act in relation to the transfer of Crown assets or liabilities to that State enterprise.
+(2) Nothing in this Act prevents the exercise in relation to a State enterprise named in Schedule 2 to this Act of a power conferred by section 23 or section 24 or section 28 of this Act at or about the same time as the shareholding Ministers for the State enterprise transfer or dispose of shares in the State enterprise held by those Ministers.
+
+### 30 Application of Companies Acts to new State enterprises
+(1) Notwithstanding anything in the Companies Act 1993, the Reserve Bank of New Zealand Act 1989, or any other enactment or rule of law, a company in which all the shares are applied for by Ministers may be registered under the Companies Act 1993 with a name specified in Schedule 2 to this Act (not being a name specified in that Schedule before the commencement of the Companies Act 1993); and sections 20, 21, 22, 23(1) and (2), and 24 of that Act shall not apply to any such company.
+(2) In the application of the Companies Act 1955 to a company named in Schedule 2 to this Act, the following provisions of that Act shall be construed as if references therein to 7 members were references to 2 members:
+  (a) Section 41, as to carrying on business when the number of members is reduced below the legal minimum:
+  (b) Section 211(4)(c), as to the appointment of a liquidator in the case of a company that is not a private company.
+(3) Nothing in sections 31, 32, 32A(1), and 32B of the Companies Act 1955 shall apply to a State enterprise.
+
+### 30A Changes of name
+(1) Subject to subsection (2) of this section, the Governor-General may from time to time, by Order in Council made on the recommendation of the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act, amend any enactment by omitting from it the name of any State enterprise and substituting some other name.
+(2) The Minister shall not recommend the making of an order under subsection (1) of this section in respect of a State enterprise unless satisfied that—
+  (a) There has been issued to it under section 23(3)(b) of the Companies Act 1993 or section 32A(2)(b) of the Companies Act 1955 a certificate of incorporation recording a change of its name to the name proposed to be substituted by the order; or
+  (b) There has been published in the Gazette under section 32(5) of the Companies Act 1955 a notice of the change of its name to the name proposed to be substituted by the order.
+(3) A State enterprise does not cease to be—by reason only of changing its name.
+  (a) A State enterprise; or
+  (b) A company named in a schedule to this Act; or
+  (c) A company with a name specified in a schedule to this Act,—
+
+### 31 Review of Ombudsmen Act 1975 and Official Information Act 1982 in relation to State enterprises
+The effect of the Ombudsmen Act 1975 and the Official Information Act 1982 on the operation of State enterprises shall be reviewed after the 1st day of April 1989 by a select committee appointed by the House of Representatives for this purpose. The committee shall report to the House of Representatives before the 1st day of April 1990, and shall state in its report—
+  (a) Whether, in its view, either or both of those Acts should continue to apply to State enterprises; and
+  (b) If it considers that either or both Acts should so continue, the changes (if any) that should be made to either or both of those Acts so far as they apply to State enterprises.
+
+### 32 Amendments and transitional provisions relating to new State enterprises
+(1) The enactments specified in Schedules 3 and 5 to this Act are hereby amended in the manner indicated in those Schedules.
+(2) During the period beginning on the 1st day of April 1987 and ending with the close of the 31st day of December 1987,—
+  (a) The enactments specified in Schedule 4 to this Act shall have effect as stated in that Schedule; and
+  (b) The Town and Country Planning Act 1977 and the Public Works Act 1981 shall have effect as if every State enterprise named in Schedule 2 to this Act were the Crown and every work and every use of land which such a State enterprise constructs, undertakes, establishes, manages, operates, or maintains by virtue of any Act were a public work within the meaning of the Public Works Act 1981.
+  Provided that where any negotiations or action had been commenced before the close of the 31st day of December 1987 in respect of the taking or acquisition of any land that is to be transferred by the Crown to a State enterprise pursuant to section 23 of this Act, the taking or acquisition may be continued and concluded as if the land were required for a public work.
+(3) Where, by virtue of subsection (2) of this section, a State enterprise has any power, right, or authority that it would not otherwise have, the responsible Minister may at any time or times, by notice in the Gazette,—either generally or in any particular case or cases.
+  (a) Direct the State enterprise not to exercise that power, right, or authority; or
+  (b) Impose conditions on the exercise of that power, right, or authority,—
+(4) Every State enterprise shall comply with a notice given under subsection (3) of this section; and every such notice shall be deemed to be a regulation for the purposes of the Regulations Act 1936.
+(5)
+(6) Notwithstanding anything in this or any other Act, or any rule of law, any proceedings commenced (whether before or after the commencement of this Act) in any Court or Tribunal, in respect of the exercise or intended exercise of any power to which this section applies, may be continued and determined in respect of land (whether or not the land is transferred to a State enterprise) as if the land were still owned by the Crown.
+(7) Notwithstanding subsections (2) and (5) of this section, Part 3 of Schedule 4 to this Act shall continue to have effect after the 31st day of December 1988 until the close of the 30th day of June 1990.
+
+### 33 Repeals
+The enactments specified in Schedule 6 to this Act are hereby repealed.
+
+## Schedule 1 — State enterprises
+
+## Schedule 2 — New State enterprises
+
+## Schedule 2A — Modifications of provisions of Public Works Act 1981 applicable to acquisition of land pursuant to recommendation of Waitangi Tribunal
+
+### 1
+For the purposes of section 27C of this Act, the following provisions of Part 2 of the Public Works Act 1981 and of Schedule 3 to that Act shall not apply, namely:
+  (a) Section 23(1)(b)(iv):
+  (b) Section 23(3):
+  (c) Sections 24 and 25:
+  (d) Form B in Schedule 3.
+
+### 2
+For the purposes of section 27C of this Act, section 23(1)(b) of the Public Works Act 1981 shall have effect as if, for subparagraphs (ii) and (iii), there were substituted the following subparagraph:.
+  (ii) A statement that the land is to be resumed under section 27C of the State-Owned Enterprises Act 1986 pursuant to a recommendation of the Waitangi Tribunal; and
+
+### 3
+For the purposes of section 27C of this Act, section 26 of the Public Works Act 1981 shall have effect as if, for subsection (1), there were substituted the following subsection:
+  (1) After the expiration of the period of 20 working days specified in the notice served under section 23(1)(c) of this Act, the land intended to be taken shall be taken in the following manner:
+    (a) Subject to the provisions of section 32 of this Act—
+      (i) A survey plan shall be prepared, in duplicate, showing accurately the position and extent of the land proposed to be taken; and
+      (ii) Such plan shall be signed by the Chief Surveyor as evidence of its accuracy; and
+      (iii) A duplicate print of the title plan shall be prepared; and
+    (b) The Minister shall recommend the Governor-General to issue a Proclamation taking the land.
+
+### 4
+For the purposes of section 27C of this Act, Schedule 1 to the Public Works Act 1981 shall have effect as if, for the form set out in that Schedule, there were substituted the following form: NOTE OF INTENTION TO TAKE LAND IN [Insert name of City or District] FOR THE PURPOSE OF GIVING EFFECT TO A RECOMMENDATION OF THE WAITANGI TRIBUNAL To [Full Name] of [Address] 1. Take notice that the Minister of Lands proposes to take under the Public Works Act 1981 your interest in the land described in the Schedule to this notice. 2. The land is to be resumed under section 27C of the State-Owned Enterprises Act 1986 pursuant to a recommendation of the Waitangi Tribunal. That Tribunal recommended on [Date] that the land be returned to Maori ownership. 3. A copy of the recommendation of the Waitangi Tribunal is attached. 4. A plan of the land intended to be taken is attached. [May be deleted if all the land is in a surveyed lot.] OBLIGATION TO ACQUIRE LAND 5. Under section 27C of the State-Owned Enterprises Act 1986, the Minister of Lands is obliged to acquire your interest in the land. 6. Your interest in the land will not be acquired until at least 20 working days after the service of this notice on you. YOUR RIGHT TO COMPENSATION 7. This notice relates to the taking of your interest in the land and not to your right to compensation. Under the Public Works Act 1981 you are entitled to full compensation for your interest in the land. If this compensation cannot be agreed between you and the Minister of Lands, it can be determined in separate proceedings before the Land Valuation Tribunal. [WARNING] THIS NOTICE CONCERNS YOUR RIGHTS OVER THE LAND REFERRED TO. IF YOU ARE IN ANY DOUBT ABOUT ITS EFFECT, YOU SHOULD OBTAIN LEGAL ADVICE IMMEDIATELY. Do not delay. [Insert name] Land District Give general description of the land required to be taken, including the postal address or some other readily identifiable description of the place where the land is situated. [Add legal description of land] Dated at .............................. this .......... day of ..................... 19 ..... [Signature] for Minister of Lands
+
+### 6
+For the purposes of section 27C of this Act, Form A in Schedule 3 to the Public Works Act 1981 shall have effect as if—
+  (a) For the words or [Name of local authority] for the purpose of [Insert name of public work mentioned in Proclamation or declaration], there were substituted the words so that it can be returned to Maori ownership pursuant to a recommendation of the Waitangi Tribunal:
+  (b) For the words said work, there were substituted the words taking of the land mentioned in Table A below:
+  (c) For the words said land and the construction of the said public work, there were substituted the words land mentioned in Table A below.
+
+## Schedule 3 — Enactments amended
+
+| Title of Act | Amendment |
+| --- | --- |
+| 1947, No 6-The District Courts Act 1947 (RS Vol 5, p 1) | By omitting from section 96(4) the words the Post Office Savings Bank and substituting the words Post Office Bank Limited. |
+| 1948, No 64-The Land Act 1948 (Reprinted, 1972, Vol 2, p 1557) | By repealing sections 4 to 11 and 12 to 16. By omitting from section 116 the words Commissioner and the Chief Surveyor wherever they appear, and substituting in each case the words Director-General of Survey and Land Information. By omitting from section 116(2) the words Commissioner of Crown Lands and the Chief Surveyor, and substituting the words Director-General of Survey and Land Information. By omitting from section 116(3) the word Commissioner, and substituting the words Director-General of Survey and Land Information. By inserting in section 172(1), after the words public purpose, the words or as against any State enterprise referred to in the Second Schedule to the State-Owned Enterprises Act 1986,. By inserting in section 172(2), after the words public body, the words State enterprise referred to in the Second Schedule to the State-Owned Enterprises Act 1986,. By omitting from Schedule 2 the word We, and substituting the word I. By omitting from Schedule 2 the words Chief Surveyor and Commissioner of Crown Lands, and substituting the words Director-General of Survey and Land Information. |
+| 1949, No 19-The Forests Act 1949 (RS Vol 18, p 133) | By repealing the definitions of the terms cattle, conservancy, Conservator, Director-General, firearm, forest officer, hunt or kill, indigenous State forest land, management plan, Minister, service, Forest Service, and State forest land in section 2. By inserting in section 2, in their appropriate alphabetical order, the following definitions:Minister means the Minister of ForestrySecretary means the Secretary of Forestry. By adding to section 2, as subsection (2), the following subsection:2Unless in any case the context otherwise requires, every reference in this Act or any other Act or in any regulation, rule, order, agreement, deed, instrument, application, notice, licence, or other document whatsoever in force at the date on which this subsection comes into force-aTo the Minister of Forests, shall hereafter be read as a reference to the Minister of Forestry:bTo the New Zealand Forest Service, shall hereafter be read as a reference to the Ministry of Forestry:cTo the Director-General of Forests or to a Conservator, shall hereafter be read as a reference to the Secretary of Forestry: By repealing the following enactments:aSections 4(1A), 5 to 8, 10(2), 11, 12, and 14:bSection 15, except paragraphs (a), (b), (e), (g), (i), and (j) of subsection (2):cSections 15A, 17, 18, and 18A:dSections 19 to 41, 41A, 42 to 45, 55, 56, 57, and 58:eSection 60, except paragraph (j):fSections 63A to 63E, 63G, and 63H:gSubsection (3) and paragraph (a) of subsection (6) of section 64:hSection 69(4)(a):iSection 72(1), except paragraphs (g), (s), (t), (u), (va), (w), and (x):jSection 72(1A). By omitting from section 13 the words honorary ranger, and ranger,. By inserting in section 64, after the words Minister of Forests in subsections (1) and (2) and after the word Minister in subsection (5), the words or New Zealand Forestry Corporation Limited. By omitting from section 72(1)(va) the words , subject to section 30(5) of the New Zealand Forestry Council Act 1983,. |
+| 1959, No 90-The Maori Purposes Act 1959 (RS Vol 8, p 547) | By adding to section 4(7) the following paragraph:1An officer, employee, or agent of the Electricity Corporation of New Zealand Limited. |
+| 1962, No 135-The Transport Act 1962 (RS Vol 16, p 659) | By omitting from section 90N(1) (as inserted by section 7 of the Transport Amendment Act 1973) the words Post Office Account, and substituting the words Public Account for the credit of the Consolidated Account. By omitting from section 197(6) the words or of the New Zealand Post Office (as inserted by section 19 of the Transport Amendment Act 1972). |
+| 1962, No 132-The State Services Act 1962 (RS Vol 14, p 601) | By adding to the definition of the term State services in section 2 the words, or any corporation listed in the First Schedule to the State-Owned Enterprises Act 1986. By repealing paragraph (c) of section 12(1), and substituting the following paragraph:cPrescribing minimum standards of working conditions for all employees in the Public Service and ensuring that such standards are being maintained:. By omitting from Schedule 2 the words New Zealand Forest Service, and substituting the words Ministry of Forestry. By omitting so much of Schedule 3 as relates to the Forest Service, and substituting the following item:Forestry Secretary Assistant Secretary. |
+| 1964, No 68-The Civil Aviation Act 1964 (RS Vol 16, p 41) | By inserting words in the proviso to section 26, after the word aircraft, the words or airways services. By inserting in section 29(2)(b)-aAfter the word aircraft, the words or the provision of airways services,:bAfter the words prescribed Authority, the words , Minister of the Crown,:cAfter the words such Authority, the word , Minister,. |
+| 1969, No 52-The Administration Act 1969 | By omitting from section 65(1) the words the Post Office Savings Bank established under the Post Office Act 1959, and substituting the words Post Office Bank Limited registered under the Companies Act 1955 pursuant to the State-Owned Enterprises Act 1986. By omitting from section 67(2) the words Post Office Savings Bank, and substituting the words Post Office Bank Limited. |
+| 1973, No 28-The Shipping Corporation of New Zealand Act 1973 | By repealing sections 8 and 9. |
+| 1974, No 59-The Tourist Hotel Corporation Act 1974 | By repealing section 19. |
+| 1975, No 9-The Ombudsmen Act 1975 | By omitting from Part 1 of Schedule 1 the words The New Zealand Forest Service. By inserting in Part 1 of Schedule 1, after the words The Ministry of Foreign Affairs, the words The Ministry of Forestry. By inserting in Part 2 of Schedule 1, in their appropriate alphabetical order, the following names:Airways Corporation of New Zealand LimitedCoal Corporation of New Zealand LimitedElectricity Corporation of New Zealand LimitedGovernment Property Services LimitedLand Corporation LimitedNew Zealand Forestry Corporation LimitedNew Zealand Post LimitedPost Office Bank LimitedTelecom Corporation of New Zealand Limited. |
+| 1976, No 9-The Real Estate Agents Act 1976 | By adding to section 3(2) the following paragraph:dBeing the Land Corporation Limited or an employee thereof, he, she or it sells or otherwise deals with any lands of the Crown or any land of a State enterprise within the meaning of the State-Owned Enterprises Act 1986. |
+| 1977, No 52-The Forest and Rural Fires Act 1977 | By omitting from section 20(1) the words or Director-General. By omitting from section 24(1)(a), the words With the approval of the Conservator of Forests. By omitting from section 25(2) the words or by the Conservator of Forests or Chief Surveyor for the relevant Conservancy. By repealing section 25(2)(b). By repealing subsection (1) of section 33, and substituting the following subsection:1The Principal Rural Fire Officer of any district may, from time to time, by notice in writing, require that any person who is felling trees for any commercial or industrial purpose or who is producing timber in a sawmill in that district shall provide and maintain in effective working order such apparatus and observe such other requirements as may be specified by the Principal Rural Fire Officer for the purpose of fire control among the standing trees or the debris of the tree felling operations or the refuse from the sawmilling operations. By omitting from subsections (2) and (4) of section 33 the words Director-General wherever they occur, and substituting in each case the words Principal Rural Fire Officer. By omitting from section 40(1) the words in any case to which section 39 of this Act applies, the Director-General or Conservator of Forests or a person acting pursuant to specific directions given by the Director-General or Conservator, or, in any other case, the Principal Fire Officer, or a person acting. By omitting from section 40(2) the words the Director-General or Conservator of Forests or and Director-General, Conservator, or. By omitting from section 55 the words the Director-General or any Conservator of Forests or Fire Officer, or by. By omitting from section 61(1)(c) the words Director-General, or any Conservator of Forests, and substituting the words Secretary, or any. By repealing section 61(7). |
+| 1983, No 46-The Civil Defence Act 1983 | By repealing paragraph (f) of section 19(2). |
+| 1985, No 120-The Criminal Justice Act 1985 | By omitting from subsections (1) and (2) of section 86 the words Registrar of Motor Vehicles in both places where they occur, and substituting in each case the words Secretary for Transport. By omitting from section 86(1) the words appointed under section 8 of the Transport Act 1962. By omitting from section 86(2)(c) the word Registrar in each place where it occurs, and substituting in each case the words Secretary for Transport. |
+| 1986, No 6-The Transport (Vehicle and Driver Registration and Licensing) Act 1986 | By repealing section 4. By omitting from section 27(2) the words Post Office Account, and substituting the words Consolidated Account. By omitting the second sentence from section 27(2). |
+
+## Schedule 4 — Transitional provisions
+
+### 1
+The Civil Aviation Act 1964 shall have effect as if, after section 32, there were inserted the following section:Application of Act to Airways Corporation of New Zealand Limited
+  Every reference in sections 11 and 27 of this Act to the Minister shall be deemed to include a reference to the Airways Corporation of New Zealand Limited.
+
+### 2
+[Repealed]
+
+### 3
+[Repealed]
+
+### 4
+[Repealed]
+
+### 5
+[Repealed]
+
+### 6
+[Repealed]
+
+### 7
+[Repealed]
+
+### 8
+[Repealed]
+
+### 9
+[Repealed]
+
+### 10
+The Manapouri-Te Anau Development Act 1963 shall have effect as if—
+  (a) For the word Minister wherever it occurs in section 4, there were substituted in each case the words Electricity Corporation of New Zealand Limited:
+  (b) After the words Guardians of Lakes Manapouri and Te Anau in section 4A(1), there were inserted the words and the Electricity Corporation of New Zealand Limited:
+  (c) For the words the Minister in section 5, there were substituted the words the Electricity Corporation of New Zealand Limited.
+
+### 11
+The following enactments shall have effect as if, for every reference therein to a Minister of the Crown, there were substituted a reference to the Electricity Corporation of New Zealand Limited:
+  (a) Section 9 of the Southland Electric Power Supply Act 1936:
+  (b) The Clutha Development (Clyde Dam) Empowering Act 1982:
+  (c) Subsections (1) to (4) of section 11 of the Geothermal Energy Act 1953.
+
+### 12
+[Repealed]
+
+### 13
+[Repealed]
+
+### 14
+[Repealed]
+
+### 15
+[Repealed]
+
+### 16
+[Repealed]
+
+### 17
+The Land Act 1948 shall have effect in respect of any land transferred to the Land Corporation Limited pursuant to the State-Owned Enterprises Act 1986 where at the date of transfer there is a lease, licence, permit, or tenancy in respect of that land to which any or all of the following provisions of the Land Act 1948 (or any corresponding provisions of any former Land Act, as the case may be) apply, and those provisions shall continue to apply to that lease, licence, permit, or tenancy (and any renewal thereof pursuant to a right expressly conferred thereby or by any Act) as if the land were still Crown land subject to this Act and every reference in those provisions to a Commissioner of Crown Lands, the Land Settlement Board, the Board, or the Department included a reference to the Land Corporation Limited:
+  (a) Sections 18, 50, 50A to 50F, 56, 60, 60A, 60B, and 65:
+  (b) Subsections (1), (2), and (4) of section 67:
+  (c) Sections 68, 68A, 69, and 81 to 85:
+  (d) Sections 86, 87, 87A, 88 to 91, 91A, and 92 to 105:
+  (e) Sections 111 to 115, and 121:
+  (f) Sections 122 to 124, 124A, 125, 126, 127, 131, 132, 132A, and 133 to 151:
+  (g) Sections 153 to 158, 160, 164A, 164B, 170, 170A, 170B, 171, 174, and 183.
+
+### 18
+The Post Office Act 1959 shall have effect as if this Act had effected the repeal of sections 9, 16, 71(2), 76(2), 80, 107, 114, 115, 117, and the proviso to section 27 of that Act.
+
+### 19
+The definition of the term officer in section 3 of the Post Office Act 1959 shall have effect as if, after the words Post Office wherever they occur, there were inserted in each case the words New Zealand Post Limited, Telecom Corporation of New Zealand Limited, and Post Office Bank Limited, as the case may be.
+
+### 20
+The Post Office Act 1959 shall have effect as if, after section 7, there were inserted the following section:Conflict of interest
+  Where the person for the time being holding the office of Director-General also holds another office, and where any power, function, or duty exercisable by the Director-General may conflict with the responsibilities of that other office, the Director-General shall not exercise any power, function, or duty under this Act in respect of which the Director-General has notified the Postmaster-General of the Director-General's inability to act.
+
+### 21
+Section 8 of the Post Office Act 1959 shall have effect as if subsection (1) had been repealed, and the following subsection substituted:
+  (1) The Deputy Director-General shall perform all powers, functions, and duties in respect of which the Director-General has pursuant to section 7A of this Act notified the Postmaster-General of the Director-General's inability to act, and shall, under the control of the Director-General, have the control and general administration of the Post Office.
+
+### 22
+Section 11(2) of the Post Office Act 1959 shall have effect as if, after the words under his control, there were inserted the words or who is an officer or employee of the Public Service, and, for the purposes of Parts 10 and 11 of the Post Office Act 1959 and any regulations made thereunder, any reference to an officer of the Department or to an officer of the Post Office shall be deemed to include an officer or employee of the Public Service.
+
+### 23
+Sections 12 to 15, 20, 40, 42, 46, 70, 74(1), 74(3), 75, 76, and 77(2) of the Post Office Act 1959 shall have effect as if every reference therein to the Post Office, Postmaster-General, or Director-General were a reference to New Zealand Post Limited.
+
+### 24
+Section 12(1) of the Post Office Act 1959 shall have effect as if the definition of postal authority were repealed, and the following definition substituted:
+  - **Postal authority** , in respect of New Zealand, means New Zealand Post Limited and, in respect of any other country, means the person or organisation having responsibilities most closely approximate to those of New Zealand Post Limited.
+
+### 25
+Sections 22, 28, 29, and 30 of the Post Office Act 1959 shall have effect as if every reference therein to a postmaster were a reference to an employee of New Zealand Post Limited.
+
+### 26
+Sections 19, 35, and 45 of the Post Office Act 1959 shall have effect as if there were inserted, after the words or the Postmaster-General wherever they appear, the words or New Zealand Post Limited.
+
+### 27
+Section 40 of the Post Office Act 1959 shall have effect as if, for the words every postal article, there were substituted the words all mail.
+
+### 28
+Section 41(1) of the Post Office Act 1959 shall have effect as if, for the words postal article, there were substituted the word mail.
+
+### 29
+Section 74(3) of the Post Office Act 1959 shall have effect—
+  (a) As if for the words Post Office, there were substituted the words New Zealand Post Limited; and
+  (b) As if the words out of the Post Office Account were omitted.
+
+### 30
+Sections 79, 81, 82, 85, 86(a), 94, 106, 108, 110, 111, 142 to 151, 152(1) to (4), 153(1), 154, 157, 160(1), 239A, and 247 of the Post Office Act 1959 shall have effect as if every reference therein to the Post Office, Postmaster-General, or Director-General were a reference to Telecom Corporation of New Zealand Limited.
+
+### 31
+Section 106(3) of the Post Office Act 1959 shall have effect as if, before the words use by, there were inserted the words sale to or.
+
+### 32
+[Repealed]
+
+### 33
+[Repealed]
+
+### 34
+Sections 85 and 111 of the Post Office Act 1959 shall have effect as if, after the words or the Postmaster-General, there were inserted the words or Telecom Corporation of New Zealand Limited.
+
+### 35
+[Repealed]
+
+### 36
+Section 147 of the Post Office Act 1959 shall have effect as if there were added the words as if Telecom Corporation of New Zealand Limited were the Crown.
+
+### 37
+Sections 152(5) and 153(2) of the Post Office Act 1959 shall have effect as if the words by the Postmaster General were omitted in each case.
+
+### 38
+Sections 156 and 158 of the Post Office Act 1959 shall have effect as if every reference therein to the Post Office or Postmaster- General included a reference to Telecom Corporation of New Zealand Limited.
+
+### 39
+Section 159 of the Post Office Act 1959 shall have effect as if—
+  (a) There were added to subsection (3) the following paragraph::
+    (c) Is of a kind specified by the Governor-General by Order in Council.
+  (b) There were added the following subsection:
+    (8) Nothing in this section shall apply to Telecom Corporation of New Zealand Limited.
+
+### 40
+The Post Office Act 1959 shall have effect as if, after section 163, there were inserted the following section:Part XI to bind the Crown
+  This Part of this Act shall bind the Crown.
+
+### 41
+Section 182 of the Post Office Act 1959 shall have effect—
+  (a) As if, after the words Post Office in subsections (1) and (3), there were inserted in each case the words or New Zealand Post Limited, Telecom Corporation of New Zealand Limited, or Post Office Bank Limited:
+  (b) As if, for the words shall from time to time, without further appropriation than this section, pay out of the Post Office Account in subsection (2), there were substituted the words , New Zealand Post Limited, Telecom Corporation of New Zealand Limited, and Post Office Bank Limited shall pay:
+  (c) As if the words in accordance with regulations under this Act in subsection (3)(b) were omitted.
+
+### 42
+Section 245A of the Post Office Act 1959 (as inserted by section 11 of the Post Office Amendment Act 1978) shall have effect as if—
+  (a) After the words nor the Postmaster-General, there were inserted the words nor Telecom Corporation of New Zealand Limited; and
+  (b) After the words Post Office in both places where they occur, there were inserted in each case the words or Telecom Corporation of New Zealand Limited.
+
+### 43
+[Repealed]
+
+### 44
+[Repealed]
+
+## Schedule 5 — Amendments to Coal Mines Act 1979
+
+## Schedule 6 — Enactments repealed
