@@ -1,0 +1,27 @@
+# Kapiti Island Public Reserve Act 1897
+_Consolidation as at 2007-09-03_
+
+> An Act to restrict certain Dealings in the Island of Kapiti pending the Acquisition thereof by Her Majesty as a Public Reserve.
+
+## Preamble
+WHEREAS the Island of Kapiti, situated in the Land District of Wellington, containing four thousand nine hundred and ninety acres, more or less, is owned principally by Maori who are not in beneficial use or occupation of the same: And whereas, for the purposes of conserving the natural scenery of the said island, and providing a preserve for the fauna and flora of New Zealand, it is desirable that the said island should be acquired by Her Majesty as a public reserve, and that pending such acquisition all dealings therewith by private persons should be prohibited and determined:
+
+### 1 Short Title
+The Short Title of this Act is The Kapiti Island Public Reserve Act 1897.
+
+### 2 Dealings with any interests in the Island of Kapiti prohibited
+From and after the date of the passing of this Act it shall not be lawful for any person other than a person acting for or on behalf of the Crown, and under the written authority of the Minister of Conservation, to acquire any estate or interest in any lands forming part of the Island of Kapiti, as described in the Schedule hereto, whether such dealing be in the nature of an original transaction, or in completion of any transaction or dealing initiated or commenced prior to the passing of this Act.
+
+### 3 Certain estates and interests in said island to vest in Her Majesty, subject to provisions of this Act
+All estates and interests, whether freehold or lesser estate, in any lands forming part of the said island, held or acquired by any person or persons other than the original Maori owners, or their heirs or successors according to Maori custom, shall upon the passing of this Act vest in Her Majesty upon and subject to such terms as to compensation and otherwise as by this Act are provided.
+
+### 4 Provision for payment of compensation to owners or lessees
+Failing any agreement being made as to compensation to be paid, every person deprived of any freehold or any lesser valid estate or interest by the operation of this Act shall be entitled to compensation therefor, to be ascertained and determined under the provisions of the Public Works Act 1981,as in the case of Maori lands or other lands, as the case may be, taken for a public work.
+
+### 5 Deeds or instruments of title to be registered or deposited
+All persons claiming to have heretofore acquired any valid estate or interest in the said lands or any part thereof as evidenced by any deed or instrument shall register such deed or instrument at the office of the District Land Registrar, Wellington, within three calendar months from the date of the passing of this Act, or, if such registration is not permissible or feasible, then the deed or instrument together with a certified copy thereof shall be deposited with such Registrar within the said period of three months.
+
+### 6 Proof thereof to be given
+No claim for compensation shall be entertained until proof of such registration or deposit be given.
+
+## Schedule Schedule — Kapiti Island.
