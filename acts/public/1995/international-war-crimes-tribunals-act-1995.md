@@ -1,0 +1,909 @@
+# International War Crimes Tribunals Act 1995
+_Consolidation as at 2007-09-03_
+
+> An Act to provide for New Zealand to assist—aThe International Tribunal for the Prosecution of Persons Responsible for Serious Violations of International Humanitarian Law Committed in the Territory of the Former Yugoslavia since 1991; andbThe International Criminal Tribunal for the Prosecution of Persons Responsible for Genocide and other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan citizens responsible for genocide and other such violations committed in the territory of neighbouring States, between 1 January 1994 and 31 December 1994; andcOther ad hoc tribunals that may be established by the Security Council of the United Nations under chapter VII of the Charter of the United Nations for the prosecution of violations of international humanitarian law—in the performance of their functions
+
+### 1 Short Title
+This Act may be cited as the International War Crimes Tribunals Act 1995.
+
+### 2 Interpretation
+In this Act, unless the context otherwise requires,—
+  - **Forfeiture order** means
+    (a) An order made by a Tribunal, under the Statute of the Tribunal or under rules adopted under the Statute of the Tribunal, for forfeiture of tainted property; or
+    (b) A declaration made by a Tribunal, under the Statute of the Tribunal or under the rules adopted under the Statute of the Tribunal, evidencing forfeiture of tainted property under that Statute or those rules:
+  - **High Court** means the High Court of New Zealand
+  - **Judge** means a High Court Judge
+  - **Offence** , in relation to the law of New Zealand, includes an offence against a law relating to taxation, customs duty, or other revenue matters, or relating to foreign exchange control
+  - **Penal institution**
+  - **prison** has the same meaning as in section 3(1) of the Corrections Act 2004.
+  - **Prisoner** means a person who is for the time being in the legal custody under the Corrections Act 2004
+  - **Property** means real or personal property of every description, whether situated in New Zealand or elsewhere and whether tangible or intangible, and includes an interest in any such real or personal property
+  - **Statute of the Tribunal** , in relation to any particular tribunal, means the statute of that tribunal, a copy of the English text of which is set out in the Schedule to this Act
+  - **Surrender warrant** means a warrant issued under section 14 of this Act
+  - **Tainted property** means property used in the commission of, or the proceeds of, a Tribunal offence
+  - **Tribunal** means—
+    (a) The International Tribunal for the Prosecution of Persons Responsible for Serious Violations of International Humanitarian Law Committed in the Territory of the Former Yugoslavia since 1991, established by Resolution 827 (1993) of the Security Council of the United Nations; or
+    (b) The International Criminal Tribunal for the Prosecution of Persons Responsible for Genocide and other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan citizens responsible for genocide and other such violations committed in the territory of neighbouring States, between 1 January 1994 and 31 December 1994, established by Resolution 955 (1994) of the Security Council of the United Nations; or
+    (c) Any other tribunal that the Governor-General by Order in Council declares under section 61 of this Act to be a tribunal for the purposes of this Act; and
+    (d) Any of the organs of a particular tribunal referred to in the statute of that tribunal:
+  - **Tribunal offence** means, in relation to a particular tribunal, an offence for which the Tribunal has the power to prosecute persons under the Statute of the Tribunal.
+
+### 3 Act to bind the Crown
+This Act binds the Crown.
+
+## Part 1 — Request by a Tribunal for assistance
+
+### 4 Tribunal may request assistance
+(1) Where a Tribunal needs the assistance of New Zealand in order to—the Tribunal may make a request for assistance.
+  (a) Perform its functions in respect of an investigation or prosecution it is conducting or proposing to conduct; or
+  (b) Give effect to an order issued by the Tribunal,—
+(2) Any request under subsection (1) of this section shall be made to the Attorney-General or a person authorised by the Attorney-General.
+(3) Without limiting the generality of subsection (1) of this section, a Tribunal may make a request for assistance of any one or more of the following types:
+  (a) Arresting and surrendering to the Tribunal a person in relation to whom the Tribunal has issued an arrest warrant:
+  (b) Executing a request for search and seizure:
+  (c) Obtaining evidence or a document or other article:
+  (d) Providing a document or other record:
+  (e) Locating and identifying a witness or suspect:
+  (f) Arranging for a person to give evidence or assist an investigation:
+  (g) Causing the forfeiture of tainted property:
+  (h) Serving documents:
+  (i) Arranging for the Tribunal to sit in New Zealand.
+
+### 5 Form of requests
+(1) A request from a Tribunal under section 4 of this Act that is in writing and specifies—shall be received and dealt with in accordance with this Act.
+  (a) The nature of the investigation or prosecution in respect of which the request is made; and
+  (b) In a certificate from the Tribunal, that the request is in respect of an investigation or prosecution relating to a Tribunal offence; and
+  (c) The legal basis on which the Tribunal relies for conducting the investigation or prosecution; and
+  (d) The nature of the assistance sought by the Tribunal; and
+  (e) The facts and law relevant to the investigation or prosecution (in addition to the statement required by paragraph (c) of this subclause); and
+  (f) The procedure (if any) that the Tribunal wishes the Attorney-General to follow in complying with the request, including the form in which material shall be given to the Tribunal; and
+  (g) The period within which the Tribunal wishes the request to be complied with; and
+  (h) Any confidentiality requirements that the Tribunal considers should be observed; and
+  (i) Any other matters that the Tribunal considers may assist the Attorney-General in complying with the request; and
+  (j) Any other matters that the Attorney-General has previously notified the Tribunal will assist the Attorney-General in complying with the request,—
+(2) A request for assistance shall not be invalid by reason only of the fact that it does not comply with the requirements of subsection (1) of this section.
+
+## Part 2 — Arrest and surrender of person to a Tribunal
+
+**Arrest of persons**
+
+### 6 Notice by Attorney-General
+(1) Where—the Attorney-General shall, by notice in writing, directed to any Judge, state that the request has been received.
+  (a) The Attorney-General receives from a Tribunal a request for the surrender of a person; and
+  (b) The request is accompanied by an arrest warrant in relation to the person that was issued by the Tribunal, or by a copy of that warrant authenticated by the Tribunal,—
+(2) Where any notice is sent to a Judge under subsection (1) of this section, a copy of—shall also be sent to the Judge.
+  (a) The arrest warrant referred to in subsection (1)(b) of this section; and
+  (b) The request made under section 4 of this Act—
+
+### 7 Issue of warrants
+(1) The Judge to whom a notice is sent under section 6 of this Act shall, without undue delay, issue a warrant in the prescribed form for the arrest of the person named in the notice if the Judge is of the opinion, having regard to the documents forwarded under section 6 of this Act and to any other evidence that is available to the Judge, that the person named in the warrant is or may be in or travelling to New Zealand.
+(2) When the Judge has considered whether or not to issue a warrant in accordance with this section, the Judge shall send to the Attorney-General written notice of his or her decision.
+
+### 8 Cancellation of warrant
+(1) Where the Attorney-General is satisfied that there are special circumstances that make it unjust or otherwise inappropriate for a warrant issued under section 7 of this Act to continue in force, the Attorney-General shall, by notice in writing, order the cancellation of the warrant.
+(2) Where the Attorney-General orders the cancellation of a warrant under subsection (1) of this section the warrant shall cease to have effect and any person arrested under the warrant shall be released, unless the person is otherwise liable to be detained in custody.
+
+### 9 Remand
+(1) A person who is arrested under a warrant issued under section 7 of this Act shall, unless the warrant ceases to have effect under section 8 of this Act, be brought before a Judge as soon as is practicable.
+(2) Subject to subsection (3) of this section, the Judge shall remand the person in custody or on bail for such period or periods as may be necessary to enable the Attorney-General to make a surrender determination under section 12 of this Act.
+(3) Where any person is remanded in custody or on bail under this section, the provisions of sections 45, 45A, 46, and 47 of the Summary Proceedings Act 1957, and sections 28 to 38 of the Bail Act 2000 shall apply as if the person had been arrested for an offence punishable by imprisonment and with any other necessary modifications.
+
+### 10 Release from remand at direction of Attorney-General
+(1) Where a person has been remanded under section 9 of this Act and the Attorney-General is satisfied that there are special circumstances that make it unjust or otherwise inappropriate for the remand to continue, the Attorney-General shall, by notice in writing, order the release from custody of the person or the discharge of the conditions on which bail was granted to the person, as the case may be.
+(2) Where the Attorney-General makes an order under subsection (1) of this section in relation to a person who has been remanded in custody, a copy of the notice shall be sent to the prison manager of the prison in which the person is detained, and upon receipt of the notice the person in custody shall be released unless the person is otherwise liable to be detained in custody.
+(3) Where the Attorney-General makes an order under subsection (1) of this section in relation to a person who has been remanded on bail, a copy of the notice shall be sent to the Registrar of the court at which the person was released on bail.
+
+### 11 Application for search warrant
+Where—the officer may apply to a Judge for the issue of a search warrant in accordance with section 48 of this Act.
+  (a) A person is arrested under a warrant issued under section 7 of this Act; and
+  (b) A commissioned officer of Police has reasonable grounds for believing that there is in or on any place or thing any thing that is relevant to the Tribunal offence in respect of which the warrant was issued,—
+
+**Surrender of persons**
+
+### 12 Surrender determination by Attorney-General
+(1) Subject to subsection (2) of this section, the Attorney-General shall determine whether a person remanded under sections 6 to 11 of this Act is to be surrendered to the Tribunal.
+(2) Unless the Attorney-General is satisfied that there are special circumstances that would make it unjust or otherwise inappropriate to surrender the person, the Attorney-General shall determine that the person is to be surrendered to the Tribunal.
+(3) The determination shall be made as soon as is reasonably practicable, having regard to the circumstances, after the person is first remanded under section 9 of this Act.
+(4) Notwithstanding subsection (3) of this section, every determination required to be made under this section shall be made within 6 months of the date on which the person was first remanded under section 9 of this Act.
+
+### 13 Release from remand on refusal to surrender person
+(1) Where the Attorney-General has determined not to surrender the person to the Tribunal, the Attorney-General shall, by notice in writing, order, as the case may require,—
+  (a) The release of the person from custody; or
+  (b) The discharge of the recognisances on which bail was granted to the person.
+(2) Where the Attorney-General makes an order under subsection (1) of this section in relation to a person who has been remanded in custody, a copy of the notice shall be sent to the prison manager of the prison in which the person is detained, and upon receipt of the notice the person in custody shall be released unless the person is otherwise liable to be detained in custody.
+(3) Where the Attorney-General makes an order under subsection (1) of this section in relation to a person who has been remanded on bail, a copy of the notice shall be sent to the Registrar of the court at which the person was released on bail.
+
+### 14 Surrender warrant
+(1) Subject to section 15 of this Act, where the Attorney-General determines that the person is to be surrendered to the Tribunal, the Attorney-General shall issue a warrant for the surrender of the person to the Tribunal.
+(2) The surrender warrant shall be in writing in the prescribed form.
+
+### 15 Persons imprisoned under New Zealand law
+(1) The Attorney-General shall not issue a surrender warrant if—
+  (a) The person is serving a sentence of imprisonment in respect of an offence against the law of New Zealand; and
+  (b) The Tribunal has been required to give adequate undertakings to the Attorney-General relating to—
+    (i) The person's return to New Zealand to serve the remainder of the sentence once the person is no longer required to be detained by, or on the order of, the Tribunal; and
+    (ii) The person's custody while travelling, and while in other countries, for the Tribunal's purposes; and
+  (c) The Attorney-General is not satisfied that the Tribunal has given adequate undertakings relating to those matters.
+(2) For the purposes of this section, the person is not taken to be serving a sentence of imprisonment if he or she has been released on parole or licence, or has been otherwise conditionally released, for the remainder of the sentence.
+
+### 16 Detention following surrender warrant
+(1) Where the Attorney-General issues a surrender warrant under section 14 of this Act, the person shall, if he or she is in custody, be brought as soon as is practicable before a Judge.
+(2) Where the Attorney-General issues a surrender warrant under section 14 of this Act and the person has been remanded on bail, any member of the Police may arrest that person without warrant, and the person shall be brought as soon as is practicable before a Judge.
+(3) The Judge shall order the committal of the person to a prison to remain there until he or she is surrendered or released according to law.
+
+### 17 Content of surrender warrant
+(1) A surrender warrant in relation to a person (in this section referred to as the eligible person) shall—
+  (a) Require the person in whose custody the eligible person is being held to release the eligible person into the custody of a member of the Police; and
+  (b) Authorise the member of the Police to transport the eligible person in custody, and, if necessary or convenient, to detain the eligible person in custody, for the purpose of enabling the eligible person—
+    (i) To be placed in the custody of a specified person who is an officer of the Tribunal or other person authorised by the Tribunal; and
+    (ii) To be transported to a place specified by the Tribunal; and
+  (c) Authorise the specified person to transport the eligible person in custody to a place specified by the Tribunal for the purpose of surrendering the eligible person to a person appointed by the Tribunal to receive the person.
+(2) A place referred to in subsection (1)(b) or (c) of this section may be a place in or outside New Zealand.
+
+### 18 Release from remand
+(1) This section applies to a person—
+  (a) In relation to whom a surrender warrant has been issued; and
+  (b) Who is in custody in New Zealand under the warrant, or otherwise under this Act, more than 2 months after the day on which the warrant was first liable to be executed.
+(2) Subject to subsection (3) of this section, the High Court shall order that a person to whom this section applies be released from that custody if—
+  (a) The person has made an application to the High Court to be released; and
+  (b) Reasonable notice of the intention to apply to the High Court was given by the person to the Attorney-General.
+(3) The High Court shall not order that the person be released from custody if it is satisfied that the surrender warrant has not been executed within the period of 2 months, or since the person last made an application under subsection (2) of this section, as the case may be,—
+  (a) Because to do so would have been dangerous to the person's life or prejudicial to the person's health; or
+  (b) For any other reasonable cause.
+
+### 19 Effect of surrender on prisoner's sentence
+(1) Subject to subsection (2) of this section, where a person who is serving a sentence in respect of an offence against the law of New Zealand is surrendered to a Tribunal under this Part of this Act, the person shall, while he or she is in the custody of, or on the order of, the Tribunal (including custody outside New Zealand), be deemed to be continuing to serve that sentence.
+(2) If the person is convicted of a Tribunal offence, time spent by the person in custody serving a sentence of imprisonment imposed by the Tribunal for the Tribunal offence is not to be counted as time towards the sentence referred to in subsection (1) of this section.
+
+### 20 Expiry of New Zealand sentences while under Tribunal detention
+If—the Attorney-General must without delay inform the Tribunal of the expiry, and, if the Tribunal was required to give undertakings in accordance with section 15(1)(b) of this Act, that the undertakings are no longer required to be complied with.
+  (a) At the time a person was surrendered to a Tribunal under this Part of this Act, the person was serving a sentence of imprisonment in respect of an offence against the law of New Zealand; and
+  (b) The sentence of imprisonment that the person was serving at that time expires while the person is being detained by, or on the order of, the Tribunal,—
+
+## Part 3 — Other forms of assistance to a Tribunal
+
+**Taking evidence, etc**
+
+### 21 Attorney-General may authorise taking of evidence
+(1) This section applies where a Tribunal makes a request to the Attorney-General—for the purposes of a proceeding before, or an investigation conducted by, the Tribunal.
+  (a) For evidence to be taken in New Zealand; or
+  (b) For documents or other articles in New Zealand to be produced—
+(2) Subject to section 57 of this Act, where the Attorney-General is satisfied—the Attorney-General may authorise, in writing, assistance in accordance with section 22 and section 23 of this Act.
+  (a) That the request relates to a Tribunal offence; and
+  (b) That there are reasonable grounds for believing that the evidence can be taken or, as the case may be, the documents or other articles can be produced in New Zealand,—
+
+### 22 Taking of evidence
+(1) Where the Attorney-General authorises the taking of evidence under section 21 of this Act, the evidence shall be taken on oath from each witness by a Judge.
+(2) The Judge who takes evidence in accordance with subsection (1) of this section, shall—
+  (a) Cause the evidence to be put in writing; and
+  (b) Certify that the evidence was taken by the Judge; and
+  (c) Cause the writing so certified to be sent to the Attorney-General.
+
+### 23 Producing documents or other articles
+(1) Where the Attorney-General authorises the production of documents or other articles, that production shall be required by the order of a Judge.
+(2) Subject to subsection (3) of this section, if the documents or other articles are produced, the Judge shall send them to the Attorney-General together with a written statement certifying that they were produced to the Judge.
+(3) In the case of documents, the Judge may send to the Attorney-General copies of the documents certified by the Judge to be true copies.
+
+### 24 Legal representation
+The Judge conducting a proceeding under section 22 or section 23 of this Act, or both, may permit—to have legal representation at the proceeding before the Judge.
+  (a) The person to whom the proceeding before, or investigation conducted by, the Tribunal relates; and
+  (b) Any other person giving evidence or producing documents or other articles at the proceeding before the Judge; and
+  (c) The Tribunal—
+
+### 25 Form of certificate
+A certificate by a Judge under section 22(2) or section 23(2) of this Act shall state whether, when the evidence was taken or the documents or other articles were produced, any of the following persons were present:
+  (a) The person to whom the proceeding before, or the investigation conducted by, the Tribunal relates, or that person's legal representative (if any):
+  (b) Any other person giving evidence or producing documents or other articles, or that person's legal representative (if any).
+
+### 26 Compellability of persons to attend
+(1) Subject to subsections (2) and (3) of this section, the law of New Zealand with respect to compelling persons—on the hearing of a charge against a person for an offence against the law of New Zealand shall apply, with necessary modifications, with respect to compelling persons for the purposes of sections 22 and 23 of this Act.
+  (a) To attend before a Judge; and
+  (b) To give evidence, answer questions, and produce documents or other articles—
+(2) For the purposes of sections 22 and 23 of this Act, the person to whom the proceeding before, or the investigation conducted by, the Tribunal relates, is competent but not compellable to give evidence.
+(3) No person who is required, pursuant to section 22 or section 23 of this Act, to give evidence, or to produce documents or other articles for the purposes of a proceeding before, or investigation conducted by, a Tribunal shall be required to give any evidence, or to produce any document or article, that the person could not be compelled to give or produce in the proceedings before, or investigation conducted by, the Tribunal.
+(4) A person who is required, pursuant to section 22 or section 23 of this Act, to give evidence or produce documents or other articles for the purposes of a proceeding before, or investigation conducted by, the Tribunal shall have the same privileges in relation to the answering of questions and the production of documents or articles as if the proceedings were pending in a New Zealand court or the investigation were being conducted in New Zealand, as the case may be.
+
+### 27 Tribunal immunity certificates
+(1) In this section, Tribunal immunity certificate means a certificate or declaration that—
+  (a) Is given or made by a Tribunal under the Statute of the Tribunal or under the rules adopted under the Statute of the Tribunal; and
+  (b) Specifies or declares that, under the Statute of the Tribunal or under the rules adopted under the Statute of the Tribunal, persons generally or a specified person could or could not—be required to answer a specified question or to produce a specified document.
+    (i) Either generally or in specified proceedings; and
+    (ii) Either generally or in specified circumstances—
+(2) A Tribunal immunity certificate, duly authenticated in accordance with subsection (3) of this section, is admissible in proceedings for the purposes of the application of section 26(3) of this Act as prima facie evidence of the matters stated in the certificate.
+(3) A certificate is duly authenticated for the purposes of subsection (2) of this section if it purports to be signed or certified by a Judge, Registrar, or officer of the Tribunal.
+
+### 28 Powers of Judge may be exercised by Registrar
+(1) Any Judge may authorise a Registrar of the High Court to exercise the powers of a Judge under section 22 or section 23 of this Act in respect of any particular case.
+(2) Any authorisation given under subsection (1) of this section may be revoked at any time by any Judge.
+(3) Where any matter in respect of which a Registrar has jurisdiction under any authorisation given under subsection (1) of this section appears to the Registrar to be one of special difficulty, he or she may refer the matter to a Judge, who may dispose of the matter or may refer it back to the Registrar with such directions as the Judge thinks fit.
+(4) Nothing in this section shall prevent the exercise, by any Judge, of any jurisdiction or powers conferred on any Registrar under this section.
+
+**Search and seizure**
+
+### 29 Attorney-General may authorise application for search warrant
+Subject to section 57 of this Act, where—the Attorney-General may, in writing, authorise a member of the Police to apply to a Judge for the issue of a search warrant in accordance with section 48 of this Act, and that officer may apply for the warrant accordingly.
+  (a) A Tribunal makes a request to the Attorney-General to assist in obtaining by search and seizure any thing that is relevant to a Tribunal offence; and
+  (b) The Attorney-General is satisfied that there are reasonable grounds for believing that the thing is located in New Zealand,—
+
+**Giving evidence at hearings, or assisting in investigations, in foreign countries**
+
+### 30 Person other than offender giving evidence or assisting
+(1) This section applies where—
+  (a) A Tribunal makes a request to the Attorney-General for the attendance of a person—
+    (i) At a hearing in a foreign country in connection with a proceeding before the Tribunal; or
+    (ii) In a foreign country to assist an investigation being conducted by the Tribunal; and
+  (b) The person is in New Zealand and is not a person described in section 31(1)(b) of this Act.
+(2) Where, on receipt of a request to which this section applies, the Attorney-General is satisfied—the Attorney-General may, subject to section 57 of this Act, authorise, in writing, assistance to the Tribunal in accordance with this section and may assist in the making of arrangements to facilitate that attendance.
+  (a) That the proceeding or investigation relates to a Tribunal offence; and
+  (b) That there are reasonable grounds to believe that the person can give evidence relevant to the proceeding or assist the investigation; and
+  (c) That the person has freely consented to giving evidence or assisting in the foreign country; and
+  (d) That the Tribunal has given, to the extent, if any, required by the Attorney-General, an adequate undertaking in respect of the matters specified in section 33 of this Act,—
+
+### 31 Offender giving evidence or assisting
+(1) This section applies where—
+  (a) A Tribunal has made a request to the Attorney-General for the attendance of a person—
+    (i) At a hearing in a foreign country in connection with a proceeding before the Tribunal; or
+    (ii) In a foreign country to assist an investigation being conducted by the Tribunal; and
+  (b) The person is in New Zealand and is—
+    (i) A prisoner; or
+    (ii) on parole, home detention, or compassionate release, or is subject to release conditions, under Part 1 of the Parole Act 2002; or
+    (iia)
+    (iii)
+    (iv) At large pursuant to section 62 of the Corrections Act 2004; or
+    (v) Subject to a community-based sentence (within the meaning of section 4(1) of the Sentencing Act 2002).
+(2) Where, on receipt of a request to which subsection (1) of this section applies, the Attorney-General is satisfied—the Attorney-General may, subject to section 57 of this Act, authorise the travel of the person to a foreign country in accordance with this section.
+  (a) That the proceeding or investigation relates to a Tribunal offence; and
+  (b) That there are reasonable grounds to believe that the person can give evidence relevant to the proceeding or assist the investigation; and
+  (c) That the person has freely consented to giving evidence or assisting in the foreign country; and
+  (d) That the Tribunal has given, to the extent, if any, required by the Attorney-General, adequate undertakings in respect of the matters referred to in section 33 of this Act,—
+(3) Where travel by a person to a foreign country is authorised in accordance with subsection (2) of this section, the Attorney-General may,—
+  (a) In the case of a person who is a prisoner, direct that the prisoner be released from the prison in which that person is detained for the purpose of travelling to the foreign country to give evidence at the hearing, and may make arrangements for the prisoner to travel to the foreign country in the custody of a member of the Police or a prison officer:
+  (b) In the case of any other person to which this section applies, approve and arrange the travel of the person to the foreign country to give evidence at the hearing, and may obtain such approvals, authorities, and permissions as are required for the purpose, including the variation, discharge, or suspension of the conditions of the person's release, or the variation, cancellation, or suspension of the person's sentence, or of the conditions of the person's sentence.
+(4) A direction given, pursuant to subsection (3)(a) of this section, by the Attorney-General in respect of a prisoner shall be sufficient authority for the release of the prisoner from the prison in which he or she is detained for the purposes of the direction.
+(5) Every person released under a direction given pursuant to subsection (3)(a) of this section shall, while that person is in New Zealand during the period of that release, be deemed, for the purposes of section 120 of the Crimes Act 1961 (which relates to escaping from lawful custody) and for that purpose only, to continue to be in legal custody for the time being under the Corrections Act 2004.
+
+### 32 Effect of removal to foreign country on prisoner's sentence
+Where a prisoner who is serving a sentence for an offence against the law of New Zealand is released from a New Zealand prison pursuant to a request by a Tribunal under section 31 of this Act, the prisoner shall, while in custody in connection with the request (including custody outside New Zealand), be deemed to be continuing to serve that sentence.
+
+### 33 Undertakings relating to persons giving evidence or assisting
+(1) Where a Tribunal makes a request to the Attorney-General for the attendance of a person to whom section 31 of this Act applies or a person to whom section 30 of this Act applies to give evidence or assist, the Attorney-General shall seek from the Tribunal an undertaking—
+  (a) That the person will only be required to give evidence or assistance in relation to the Tribunal offence specified in the request; and
+  (b) That any evidence given by the person will not be used in any proceeding other than the proceeding to which the Tribunal offence relates; and
+  (c) That the person will be returned to New Zealand as soon as practicable in accordance with arrangements agreed to by the Attorney-General.
+(2) In a case where the request relates to a person who is a prisoner, and the Attorney-General requests the Tribunal to make arrangements for the keeping of the prisoner in custody while the prisoner is in the foreign country, the Tribunal shall also give, to the extent, if any, required by the Attorney-General, the following undertakings:
+  (a) That appropriate arrangements will be made for that purpose:
+  (b) That the prisoner will not be released from custody in the foreign country without the prior approval of the Attorney-General:
+  (c) That if the prisoner is released in accordance with paragraph (b) of this subsection, the prisoner's accommodation and expenses will be paid for by the Tribunal until the Tribunal decides that the person is no longer required to give evidence in the proceeding, or to assist the investigation, to which the request relates.
+
+**Custody of persons in transit**
+
+### 34 Transit
+(1) Where a person is to be transported in custody from a foreign country through New Zealand to another foreign country for the purpose of—that person may be transported through New Zealand in the custody of another person.
+  (a) Giving evidence in a proceeding before a Tribunal; or
+  (b) Giving assistance in relation to an investigation being conducted by a Tribunal; or
+  (c) Being surrendered to a Tribunal,—
+(2) Where an aircraft or ship by which the person is being transported lands or calls at a place in New Zealand, the person must be kept in such custody as the Attorney-General may direct in writing until the person's transportation is continued.
+(3) Where—the Attorney-General may direct that the person be transported in custody to the foreign country from which the person was first transported, and such a direction shall be sufficient authority for that person's removal from New Zealand by such means as the Attorney-General directs.
+  (a) A person is being held in custody pursuant to a direction under subsection (2) of this section; and
+  (b) The person's transportation is not, in the Attorney-General's opinion, continued within a reasonable time,—
+(4) For the purposes of enabling the grant of a temporary permit under the Immigration Act 1987 to any person whom it is proposed to transport through New Zealand pursuant to this section, the Attorney-General may issue a certificate, in writing, that the person is to be transported through New Zealand pursuant to this section.
+(5) The Attorney-General may, at any time by notice in writing, cancel any certificate issued under subsection (4) of this section in respect of any person who is in New Zealand for the purposes of being transported through New Zealand pursuant to this section if the Attorney-General is satisfied that that person's presence in New Zealand is no longer necessary for that purpose.
+
+**Assistance in serving documents**
+
+### 35 Service of process
+(1) Subject to section 57 of this Act, where—the Attorney-General may authorise service of the process.
+  (a) A Tribunal requests the Attorney-General to arrange for service in New Zealand of a process relating to a proceeding before, or an investigation conducted by, the Tribunal in respect of a Tribunal offence; and
+  (b) The Attorney-General is satisfied—
+    (i) That the request relates to a Tribunal offence; and
+    (ii) That there are reasonable grounds for believing that the person to be served is located in New Zealand,—
+(2) Where service is authorised under subsection (1) of this section, the Attorney-General shall direct the appropriate authority to arrange service, and in such a case the authority shall—
+  (a) Use its best endeavours to have the process served—
+    (i) In accordance with procedures proposed in the request; or
+    (ii) If those procedures would be unlawful or inappropriate in New Zealand, or if no procedures are so proposed, in accordance with the law of New Zealand; and
+  (b) If the document—
+    (i) Is served, transmit to the Attorney-General for transmission to the Tribunal a certificate as to service; or
+    (ii) Is not served, transmit to the Attorney-General for transmission to the Tribunal a statement of the reasons that prevented the service.
+
+## Part 4 — Sittings of a Tribunal in New Zealand
+
+### 36 Tribunal sittings in New Zealand
+(1) A Tribunal may sit in New Zealand for the purpose of performing its functions.
+(2) Without limiting the generality of subsection (1) of this section, a Tribunal may sit in New Zealand for the purpose of—
+  (a) Taking evidence; or
+  (b) Conducting or continuing a proceeding before the Tribunal; or
+  (c) Giving judgment in a proceeding before the Tribunal.
+
+### 37 Tribunal's powers while sitting in New Zealand
+While a Tribunal is sitting in New Zealand, it may exercise such powers that the Tribunal may exercise under the Statute of the Tribunal, and under any rules of procedure and evidence adopted pursuant to the Statute of the Tribunal and for the time being in force.
+
+### 38 Tribunal may administer oaths in New Zealand
+(1) A Tribunal may at any sitting of the Tribunal in New Zealand administer an oath or affirmation in accordance with the practice and procedure of the Tribunal.
+(2) Evidence given by a person on oath or affirmation administered by the Tribunal under subsection (1) of this section shall, for the purposes of section 108 of the Crimes Act 1961 (which relates to perjury), be deemed to have been given as evidence in a judicial proceeding on oath.
+
+### 39 Orders made by Tribunal not subject to review
+No application for review under Part 1 of the Judicature Amendment Act 1972 and no application for an order of mandamus or prohibition or certiorari or for a declaration or injunction may be brought in respect of any judgment or order or determination of a Tribunal made or given at a sitting of the Tribunal in New Zealand.
+
+### 40 Contempt of Tribunal
+(1) Every person commits an offence who, at any sitting of a Tribunal in New Zealand,—
+  (a) Assaults, threatens, intimidates, or wilfully insults—
+    (i) A Judge of the Tribunal; or
+    (ii) The Prosecutor of the Tribunal; or
+    (iii) The Registrar or any other officer of the Tribunal; or
+    (iv) A person appearing as a barrister or solicitor, or both, before the Tribunal; or
+    (v) A witness in proceedings before the Tribunal; or
+  (b) Wilfully interrupts or obstructs the proceedings.
+(2) Every person commits an offence who, wilfully and without lawful excuse, disobeys any order or direction of a Tribunal made or given in the course of its proceedings.
+(3) Every person who commits an offence against this section is liable on conviction on indictment to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000.
+
+## Part 5 — Forfeiture of proceeds of Tribunal offences
+
+### 41 Requests for enforcement of forfeiture orders
+(1) Subject to section 57 of this Act, where—the Attorney-General may, in writing, authorise the Solicitor-General to apply for the registration of the order in a specified court.
+  (a) A Tribunal requests the Attorney-General to make arrangements for the enforcement of a forfeiture order made in relation to property that is believed to be in New Zealand; and
+  (b) The Attorney-General is satisfied that a person has been convicted by the Tribunal of the Tribunal offence to which the order relates; and
+  (c) The Attorney-General is satisfied that the conviction and the order are not subject to further appeal in the Tribunal,—
+(2) The court specified shall be the office of the High Court that is closest to the place in which the property is believed to be located, or, where the location of the property is not known, any office of the High Court.
+
+### 42 Registration of order
+(1) Where the Solicitor-General applies to the High Court for the registration of an order in accordance with section 41 of this Act, the Court shall, if it is satisfied that the order is in force, register the order.
+(2) An order, or an amendment of an order, shall be registered in the High Court by the registration, in accordance with the prescribed procedure, of—
+  (a) A copy of the appropriate order or amendment sealed by the Court or other authority making that order or amendment; or
+  (b) A copy of that order or amendment duly authenticated in accordance with subsection (3) of this section.
+(3) A document is duly authenticated for the purposes of subsection (2) of this section if it purports to be signed or certified by a Judge, Registrar, or officer of the Tribunal that made the order or amendment.
+(4) Where the High Court registers an order in accordance with this section, the Court shall direct the Solicitor-General—
+  (a) To give notice of the registration, in the manner and within the time the Court considers appropriate, to specified persons (other than a person convicted of an offence in respect of which the order was made) that the Court has reason to believe may have an interest in the property; or
+  (b) To publish notice of the registration in the manner and within the time the Court considers appropriate.
+
+### 43 Effect of registration of order
+Subject to sections 44 to 47 of this Act, a forfeiture order registered in accordance with section 42 of this Act has effect and may be enforced as if it were a forfeiture order made by the High Court under the Proceeds of Crime Act 1991 and entered on the date of registration.
+
+### 44 Registered forfeiture orders
+Where a forfeiture order against property is registered in accordance with section 42 of this Act,—
+  (a) Part 2 of the Proceeds of Crime Act 1991 (other than sections 15(3), 16(4) to (6), and 17 to 23), so far as applicable and with all necessary modifications, shall apply in relation to the order; and
+  (b) The property may be disposed of, or otherwise dealt with, in accordance with any direction of the Attorney-General or of a person authorised in writing by the Attorney-General for the purposes of this paragraph; and
+  (c) If for any reason the Attorney-General decides not to direct that the property be transferred to a person or persons in accordance with the request from the Tribunal that made the order, the Attorney-General shall arrange for the property to be transferred to the person in whom it was vested immediately before the forfeiture order was made.
+
+### 45 Third parties may apply for relief
+(1) Where a forfeiture order against property is registered in accordance with section 42 of this Act, any person (other than a person convicted of an offence in respect of which the order was made) who claims an interest in any of the property to which the order relates may apply to the Court for an order under section 46 of this Act.
+(2) A person on whom notice of the hearing of the Tribunal held in connection with the making of the forfeiture order was served, or who appeared at the hearing, may not apply under subsection (1) of this section except with the leave of the Court.
+(3) The Court shall not grant leave under subsection (2) of this section unless there are special reasons for doing so.
+(4) Without limiting the generality of subsection (3) of this section, the Court may grant leave under subsection (2) of this section if it is satisfied—
+  (a) That the applicant had good reason for failing to attend the hearing held by the Tribunal in connection with the making of the forfeiture order; or
+  (b) That evidence proposed to be adduced by the applicant in connection with the application under subsection (1) of this section was not reasonably available to the applicant at the time of that hearing.
+(5) Subject to subsection (6) of this section, an application under subsection (1) of this section shall be made before the expiry of the period of 2 months beginning on the date on which the forfeiture order is registered in the Court.
+(6) The Court may grant a person leave to apply under subsection (1) of this section outside the period referred to in subsection (5) of this section if the Court is satisfied that the person's failure to apply within that period was not due to any neglect on the person's part.
+(7) A person who makes an application under subsection (1) of this section shall serve notice of the application on the Solicitor-General, who shall be a party to any proceedings on the application.
+
+### 46 Court may grant relief to third party
+(1) Where—the Court shall, subject to subsection (2) of this section, make an order—
+  (a) A person applies to the Court under section 45 of this Act in respect of an interest in property; and
+  (b) The Court is satisfied that the applicant's claim to that interest is valid,—
+  (c) Declaring the nature, extent, and value of the applicant's interest in the property; and
+  (d) Either—
+    (i) Directing the Crown to transfer the interest to the applicant; or
+    (ii) Declaring that there is payable by the Crown to the applicant an amount equal to the value of the interest declared by the Court.
+(2) The Court may refuse to make an order under subsection (1) of this section if it is satisfied that—but nothing in this subsection shall be taken to require such a refusal.
+  (a) The applicant was, in any respect, involved in the commission of the offence in respect of which the forfeiture order was made; or
+  (b) If the applicant acquired the interest at the time of or after the commission of the offence, the applicant did not acquire the interest in the property in good faith and for value, without knowing or having reason to believe that the property was, at the time of the acquisition, tainted property,—
+
+### 47 Cancellation of registration of forfeiture order
+(1) Where a forfeiture order has been registered in accordance with section 42 of this Act, the Attorney-General may direct the Solicitor-General to apply to the High Court for cancellation of the registration of the order.
+(2) Without limiting the generality of subsection (1) of this section, the Attorney-General may give a direction under that subsection in relation to an order if the Attorney-General is satisfied—
+  (a) That the order has, since its registration in New Zealand, ceased to have effect; or
+  (b) That the order was registered in contravention of section 42 of this Act.
+(3) Where, in accordance with a direction given under subsection (1) of this section, the Solicitor-General applies to the High Court for cancellation of the registration of an order, the Court shall cancel the registration accordingly.
+(4) Where, pursuant to the Proceeds of Crime Act 1991, a forfeiture order registered in accordance with section 42 of this Act is discharged (in whole or in part) or is revoked, that discharge or revocation may be a ground for an application for cancellation of the order under this section.
+
+## Part 6 — Search, seizure, and powers of arrest
+
+**Search warrants**
+
+### 48 Issue of search warrants
+(1) Any Judge who, on an application in writing made on oath by a commissioned officer of Police under section 11 of this Act, is satisfied that there are reasonable grounds for believing that there is in or on any place or thing—may issue a search warrant in respect of that thing.
+  (a) Any thing upon or in respect of which a relevant Tribunal offence has been, or is suspected of having been, committed; or
+  (b) Any thing which there are reasonable grounds for believing will be evidence as to the commission of any such offence—
+(2) Any Judge who, on application in writing made on oath under section 29 of this Act by a member of the Police authorised under that section, is satisfied that there are reasonable grounds for believing that there is in or on any place or thing—may issue a search warrant in respect of that thing.
+  (a) Any thing upon or in respect of which any Tribunal offence has been, or is suspected of having been committed; or
+  (b) Any thing which there are reasonable grounds for believing will be evidence as to the commission of such an offence—
+(3) A Judge shall not issue a warrant under this section unless the application contains, or the applicant otherwise supplies to the Judge, such information as the Judge requires concerning the grounds on which the warrant is sought.
+(4) In subsection (1) of this section, relevant Tribunal offence means a Tribunal offence in respect of which a person has been arrested under a warrant issued under section 7 of this Act.
+
+### 49 Form and content of search warrant
+(1) Every warrant issued under section 48 of this Act shall be in the prescribed form.
+(2) Every warrant issued under section 48 of this Act shall be directed to any member of the Police by name, or to any class of members of the Police specified in the warrant, or generally to every member of the Police.
+(3) Every warrant issued under section 48 of this Act shall be subject to such special conditions (if any) as the Judge may specify in the warrant.
+(4) Every warrant issued under section 48 of this Act shall contain the following particulars:
+  (a) The purpose for which it is issued, including the Tribunal offence to which the Tribunal's proceeding or investigation relates; and
+  (b) The place or thing that may be searched pursuant to the warrant; and
+  (c) A description of the things that are authorised to be seized; and
+  (d) The period for which the warrant remains in force, being a period not exceeding 7 days from the date of issue; and
+  (e) Whether the warrant may be executed at any time or only during particular hours.
+
+### 50 Powers conferred by warrant
+(1) Subject to any special conditions specified in the warrant pursuant to section 49(3) of this Act, every warrant issued under section 48 of this Act shall authorise the member of the Police executing the warrant—
+  (a) To enter and search the place or thing specified in the warrant at any time by day or night during the currency of the warrant; and
+  (b) To use such assistants as may be reasonable in the circumstances for the purpose of the entry and search; and
+  (c) To use such force as is reasonable in the circumstances for the purposes of effecting entry, and for breaking open anything in or on the place searched; and
+  (d) To search for and seize any thing referred to in section 48 of this Act.
+(2) Every person called upon to assist any member of the Police executing a warrant issued under section 48 of this Act shall have the powers prescribed in paragraphs (c) and (d) of subsection (1) of this section.
+
+### 50A Power to stop vehicles
+If it is necessary for a member of the Police to stop a vehicle for the purpose of exercising a search power conferred by section 50(1), sections 314B to 314D of the Crimes Act 1961 apply with any necessary modifications as if references in those sections to a statutory search power are references to section 50(1).
+
+**Execution of search warrants**
+
+### 51 Person executing warrant to produce evidence of authority
+Every member of the Police executing any warrant issued under section 48 of this Act—
+  (a) Shall have that warrant with him or her; and
+  (b) Shall produce it on initial entry and, if requested, at any subsequent time; and
+  (c) Shall, if requested at the time of the execution of the warrant or at any subsequent time, provide a copy of the warrant within 7 days after the request is made.
+
+### 52 Notice to owner or occupier of execution of warrant
+Every member of the Police who executes a warrant issued under section 48 of this Act shall, not later than 7 days after the seizure of any thing pursuant to that warrant, give to the owner or occupier of the place searched, and to every other person whom the member of the Police has reason to believe may have an interest in the thing seized, a written notice specifying—
+  (a) The date and time of the execution of the warrant; and
+  (b) The identity of the person who executed the warrant; and
+  (c) The thing or things seized under the warrant.
+
+### 53 Certificate to Tribunal of execution of warrant
+Where—the Attorney-General shall, where the Tribunal concerned requests, give to the Tribunal a certificate specifying the matters set out in paragraphs (a) to (c) of section 52 of this Act.
+  (a) A warrant issued under section 48 of this Act is executed; and
+  (b) Any thing is seized pursuant to the warrant,—
+
+**Arrest**
+
+### 54 Power to enter premises to arrest person
+(1) Subject to subsection (2) of this section, where—the member of the Police may enter the premises, using such force as is necessary and reasonable in the circumstances, at any time of the day or night for the purpose of arresting the person.
+  (a) A member of the Police has, pursuant to a warrant issued under this Act or pursuant to section 16(2) of this Act, power to arrest a person; and
+  (b) The member of the Police believes on reasonable grounds that the person is on any premises,—
+(2) If, in any case to which this section applies, the member of the Police is not in uniform and any person in actual occupation of the premises requires the member of the Police to produce evidence of his or her authority, the member of the Police shall before entering on the premises produce his or her badge or other evidence that he or she is a member of the Police.
+
+**General**
+
+### 55 Retention of things seized
+(1) Where a member of the Police seizes a thing pursuant to a warrant issued under this Act, that member of the Police shall deliver it into the custody and control of the Commissioner of Police or a commissioned officer of Police designated by the Commissioner of Police to receive things seized under this Act.
+(2) Subject to subsection (5) of this section, the Commissioner of Police or designated officer shall—
+  (a) Inform the Attorney-General that the thing has been so delivered; and
+  (b) Retain the thing for a period not exceeding 1 month from the day on which the thing was seized pending the Attorney-General's direction under subsection (3) of this section about how to deal with the thing; and
+  (c) Comply with any direction that the Attorney-General gives.
+(3) The Attorney-General may, by written notice, give the Commissioner of Police or designated officer a direction as to how to deal with the thing seized.
+(4) Without limiting the directions that may be given under subsection (3) of this section, the Attorney-General may require the Commissioner of Police or designated officer to send the thing seized to the Tribunal concerned.
+(5) The Attorney-General shall direct the Commissioner of Police or designated officer to return the thing seized if—unless the thing seized is the subject of a dispute as to who is entitled to it.
+  (a) The reason for its seizure no longer exists; or
+  (b) It is decided that the thing is not to be used in evidence by the Tribunal concerned—
+(6) If no direction is given by the Attorney-General before the expiry of the period referred to in subsection (2)(b) of this section, the Commissioner of Police or designated officer shall arrange for the thing to be returned to the person from whose possession it was seized as soon as practicable after that period has expired unless the thing seized is the subject of a dispute as to who is entitled to it.
+
+## Part 7 — Miscellaneous
+
+### 56 Act not to limit other provision of assistance
+Nothing in this Act shall prevent the provision of assistance to a Tribunal otherwise than under this Act.
+
+### 57 Attorney-General may decline to comply with request in certain cases
+The Attorney-General may decline to comply with a request to which section 21, 29, 30, 31, 35, or 41 of this Act applies where, in the Attorney-General's opinion,—
+  (a) To comply with the request would prejudice the sovereignty, security, or national interests of New Zealand; or
+  (b) The request relates to the prosecution of a person for an offence in a case where the person has been tried by a national court or authority, whether in New Zealand or elsewhere, in respect of that offence or for another offence constituted by the same act or omission except where the Tribunal is exercising jurisdiction because—
+    (i) The act or omission for which the person has been tried was characterised as an ordinary offence under the law of the country where the trial took place; or
+    (ii) The proceedings in the national court or authority were—
+      (A) Not impartial or independent; or
+      (B) Designed to shield the person from international criminal responsibility; or
+      (C) Not diligently prosecuted; or
+  (c) The request is for assistance of a kind that would require steps to be taken for its implementation that could not be lawfully taken; or
+  (d) There are some other exceptional circumstances that justify non-compliance with the request.
+
+### 58 Certificates given by Attorney-General
+(1) Where the Attorney-General receives a request made by a Tribunal, the Attorney-General may give a certificate certifying all or any of the following facts:
+  (a) That a request for assistance under this Act has been made by the Tribunal:
+  (b) That the request meets the requirements of this Act:
+  (c) That the acceptance of the request has been duly made under and in accordance with this Act.
+(2) In any proceeding under this Act a certificate purporting to have been given under subsection (1) of this section shall, in the absence of proof to the contrary, be sufficient evidence of the matters certified by the certificate.
+
+### 59 Notification of response to Tribunal request
+(1) Where a request for assistance under this Act is received from a Tribunal, the Attorney-General shall ensure that the Tribunal is provided with a response to that request.
+(2) If the Attorney-General declines, in accordance with this Act, to comply with a request, the Attorney-General shall give reasons to the Tribunal for the Attorney-General's decision.
+
+### 60 Regulations
+The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+  (a) Prescribing the procedure to be followed in dealing with requests made by a Tribunal, and providing for notification of the results of action taken pursuant to any such request:
+  (b) Prescribing the procedures for obtaining evidence or producing documents or other articles pursuant to a request made by a Tribunal:
+  (c) Providing for the payment of fees, travelling allowances, and expenses to any person in New Zealand who gives or provides evidence or assistance pursuant to a request made by a Tribunal:
+  (d) Prescribing conditions for the protection of any property sent to a Tribunal pursuant to a request made under this Act; and making provision for the return of property in New Zealand pursuant to a request:
+  (e) Prescribing the forms of applications, notices, certificates, warrants, and other documents for the purposes of this Act, and requiring the use of such forms:
+  (f) Providing for such other matters as are contemplated by or are necessary for giving full effect to this Act and for its due administration.
+
+### 61 Additional tribunals to be added by Order in Council
+(1) The Governor-General may from time to time, by Order in Council, declare a tribunal that has been established by the Security Council of the United Nations under chapter VII of the Charter of the United Nations to be a tribunal for the purposes of this Act, and, for that purpose, may also, by the same Order in Council, add a new Part to the Schedule to this Act setting out the statute of that tribunal.
+(2) The Governor-General may from time to time, by Order in Council, declare that a tribunal has ceased to be a tribunal for the purposes of this Act and, for that purpose, may also, by the same Order in Council, omit the Part of the Schedule to this Act that sets out the statute of that tribunal.
+(3) An Order in Council made under this section is deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989.
+
+### 62 Amendment to Diplomatic Privileges and Immunities Act 1968
+The Diplomatic Privileges and Immunities Act 1968 is hereby amended by inserting, after section 10A (as inserted by section 26 of the New Zealand Nuclear Free Zone, Disarmament, and Arms Control Act 1987), the following section:Privileges and immunities of Judges, Prosecutor, and staff of International War Crimes Tribunal
+  (1) For the purposes of this section, a Tribunal means—
+    (a) The International Tribunal for the Prosecution of Persons Responsible for Serious Violations of International Humanitarian Law Committed in the Territory of the Former Yugoslavia since 1991, established by the Security Council of the United Nations acting under Chapter VII of the Charter of the United Nations; and
+    (b) The International Criminal Tribunal for the Prosecution of Persons Responsible for Genocide and other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan citizens responsible for genocide and other such violations committed in the territory of neighbouring States, between 1 January 1994 and 31 December 1994 established by the Security Council of the United Nations acting under chapter VII of the Charter of the United Nations; and
+    (c) Any other tribunal that the Governor-General, by Order in Council, declares to be a tribunal for the purposes of the International War Crimes Tribunals Act 1995.
+  (2) The Governor-General may from time to time by Order in Council confer on the Judges, Prosecutor, and staff of a Tribunal such privileges and immunities as may be required by the Statute of the Tribunal as defined in section 2 of the International War Crimes Tribunals Act 1995.
+
+## Schedule Schedule
+
+### Article 1 Competence of the International Tribunal
+The International Tribunal shall have the power to prosecute persons responsible for serious violations of international humanitarian law committed in the territory of the former Yugoslavia since 1991 in accordance with the provisions of the present Statute.
+
+### Article 2 Grave breaches of the Geneva Conventions of 1949
+The International Tribunal shall have the power to prosecute persons committing or ordering to be committed grave breaches of the Geneva Conventions of 12 August 1949, namely the following acts against persons or property protected under the provisions of the relevant Geneva Convention:
+  (a) wilful killing;
+  (b) torture or inhuman treatment, including biological experiments;
+  (c) wilfully causing great suffering or serious injury to body or health;
+  (d) extensive destruction and appropriation of property, not justified by military necessity and carried out unlawfully and wantonly;
+  (e) compelling a prisoner of war or a civilian to serve in the forces of a hostile power;
+  (f) wilfully depriving a prisoner of war or a civilian of the rights of a fair and regular trial;
+  (g) unlawful deportation or transfer or unlawful confinement of a civilian;
+  (h) taking civilians as hostages.
+
+### Article 3 Violations of the laws or customs of war
+The International Tribunal shall have the power to prosecute persons violating the laws or customs of war. Such violations shall include, but not be limited to:
+  (a) employment of poisonous weapons or other weapons calculated to cause unnecessary suffering;
+  (b) wanton destruction of cities, towns or villages, or devastation not justified by military necessity;
+  (c) attack, or bombardment, by whatever means, of undefended towns, villages, dwellings, or buildings;
+  (d) seizure of, destruction or wilful damage done to institutions dedicated to religion, charity and education, the arts and sciences, historic monuments and works of art and science;
+  (e) plunder of public or private property.
+
+### Article 4 Genocide
+(1.) The International Tribunal shall have the power to prosecute persons committing genocide as defined in paragraph 2 of this article or of committing any of the other acts enumerated in paragraph 3 of this article.
+(2.) Genocide means any of the following acts committed with intent to destroy, in whole or in part, a national, ethnical, racial or religious group, as such:
+  (a) killing members of the group;
+  (b) causing serious bodily or mental harm to members of the group;
+  (c) deliberately inflicting on the group conditions of life calculated to bring about its physical destruction in whole or in part;
+  (d) imposing measures intended to prevent births within the group;
+  (e) forcibly transferring children of the group to another group.
+(3.) The following acts shall be punishable:
+  (a) genocide;
+  (b) conspiracy to commit genocide;
+  (c) direct and public incitement to commit genocide;
+  (d) attempt to commit genocide;
+  (e) complicity in genocide.
+
+### Article 5 Crimes against humanity
+The International Tribunal shall have the power to prosecute persons responsible for the following crimes when committed in armed conflict, whether international or internal in character, and directed against any civilian population:
+  (a) murder;
+  (b) extermination;
+  (c) enslavement;
+  (d) deportation;
+  (e) imprisonment;
+  (f) torture;
+  (g) rape;
+  (h) persecutions on political, racial and religious grounds;
+  (i) other inhumane acts.
+
+### Article 6 Personal jurisdiction
+The International Tribunal shall have jurisdiction over natural persons pursuant to the provisions of the present Statute.
+
+### Article 7 Individual criminal responsibility
+(1.) A person who planned, instigated, ordered, committed or otherwise aided and abetted in the planning, preparation or execution of a crime referred to in articles 2 to 5 of the present Statute, shall be individually responsible for the crime.
+(2.) The official position of any accused person, whether as Head of State or Government or as a responsible Government official, shall not relieve such person of criminal responsibility nor mitigate punishment.
+(3.) The fact that any of the acts referred to in articles 2 to 5 of the present Statute was committed by a subordinate does not relieve his superior of criminal responsibility if he knew or had reason to know that the subordinate was about to commit such acts or had done so and the superior failed to take the necessary and reasonable measures to prevent such acts or to punish the perpetrators thereof.
+(4.) The fact that an accused person acted pursuant to an order of a Government or of a superior shall not relieve him of criminal responsibility, but may be considered in mitigation of punishment if the International Tribunal determines that justice so requires.
+
+### Article 8 Territorial and temporal jurisdiction
+The territorial jurisdiction of the International Tribunal shall extend to the territory of the former Socialist Federal Republic of Yugoslavia, including its land surface, airspace and territorial waters. The temporal jurisdiction of the International Tribunal shall extend to a period beginning on 1 January 1991.
+
+### Article 9 Concurrent jurisdiction
+(1.) The International Tribunal and national courts shall have concurrent jurisdiction to prosecute persons for serious violations of international humanitarian law committed in the territory of the former Yugoslavia since 1 January 1991.
+(2.) The International Tribunal shall have primacy over national courts. At any stage of the procedure, the International Tribunal may formally request national courts to defer to the competence of the International Tribunal in accordance with the present Statute and the Rules of Procedure and Evidence of the International Tribunal.
+
+### Article 10 Non-bis-in-idem
+(1.) No person shall be tried before a national court for acts constituting serious violations of international humanitarian law under the present Statute, for which he or she has already been tried by the International Tribunal.
+(2.) A person who has been tried by a national court for acts constituting serious violations of international humanitarian law may be subsequently tried by the International Tribunal only if:
+  (a) the act for which he or she was tried was characterized as an ordinary crime; or
+  (b) the national court proceedings were not impartial or independent, were designed to shield the accused from international criminal responsibility, or the case was not diligently prosecuted.
+(3.) In considering the penalty to be imposed on a person convicted of a crime under the present Statute, the International Tribunal shall take into account the extent to which any penalty imposed by a national court on the same person for the same act has already been served.
+
+### Article 11 Organization of the International Tribunal
+The International Tribunal shall consist of the following organs:
+  (a) The Chambers, comprising two Trial Chambers and an Appeals Chamber;
+  (b) The Prosecutor, and
+  (c) A Registry, servicing both the Chambers and the Prosecutor.
+
+### Article 12 Composition of the Chambers
+The Chambers shall be composed of eleven independent judges, no two of whom may be nationals of the same State, who shall serve as follows:
+  (a) Three judges shall serve in each of the Trial Chambers;
+  (b) Five judges shall serve in the Appeals Chamber.
+
+### Article 13 Qualifications and election of judges
+(1.) The judges shall be persons of high moral character, impartiality and integrity who possess the qualifications required in their respective countries for appointment to the highest judicial offices. In the overall composition of the Chambers due account shall be taken of the experience of the judges in criminal law, international law, including international humanitarian law and human rights law.
+(2.) The judges of the International Tribunal shall be elected by the General Assembly from a list submitted by the Security Council, in the following manner:
+  (a) The Secretary-General shall invite nominations for judges of the International Tribunal from States Members of the United Nations and non-member States maintaining permanent observer missions at United Nations Headquarters;
+  (b) Within sixty days of the date of the invitation of the Secretary-General, each State may nominate up to two candidates meeting the qualifications set out in paragraph 1 above, no two of whom shall be of the same nationality;
+  (c) The Secretary-General shall forward the nominations received to the Security Council. From the nominations received the Security Council shall establish a list of not less than twenty-two and not more than thirty-three candidates, taking due account of the adequate representation of the principal legal systems of the world;
+  (d) The President of the Security Council shall transmit the list of candidates to the President of the General Assembly. From that list the General Assembly shall elect the eleven judges of the International Tribunal. The candidates who received an absolute majority of the votes of the States Members of the United Nations and of the non-Member States maintaining permanent observer missions at United Nations Headquarters, shall be declared elected. Should two candidates of the same nationality obtain the required majority vote, the one who received the higher number of votes shall be considered elected.
+(3.) In the event of a vacancy in the Chambers, after consultation with the Presidents of the Security Council and of the General Assembly, the Secretary-General shall appoint a person meeting the qualifications of paragraph 1 above, for the remainder of the term of office concerned.
+(4.) The judges shall be elected for a term of four years. The terms and conditions of service shall be those of the judges of the International Court of Justice. They shall be eligible for re-election.
+
+### Article 14 Officers and members of the Chambers
+(1.) The judges of the International Tribunal shall elect a President.
+(2.) The President of the International Tribunal shall be a member of the Appeals Chamber and shall preside over its proceedings.
+(3.) After consultation with the judges of the International Tribunal, the President shall assign the judges to the Appeals Chamber and to the Trial Chambers. A judge shall serve only in the Chamber to which he or she was assigned.
+(4.) The judges of each Trial Chamber shall elect a Presiding Judge, who shall conduct all of the proceedings of the Trial Chamber as a whole.
+
+### Article 15 Rules of procedure and evidence
+The judges of the International Tribunal shall adopt rules of procedure and evidence for the conduct of the pre-trial phase of the proceedings, trials and appeals, the admission of evidence, the protection of victims and witnesses and other appropriate matters.
+
+### Article 16 The Prosecutor
+(1.) The Prosecutor shall be responsible for the investigation and prosecution of persons responsible for serious violations of international humanitarian law committed in the territory of the former Yugoslavia since 1 January 1991.
+(2.) The Prosecutor shall act independently as a separate organ of the International Tribunal. He or she shall not seek or receive instructions from any government or from any other source.
+(3.) The Office of the Prosecutor shall be composed of a Prosecutor and such other qualified staff as may be required.
+(4.) The Prosecutor shall be appointed by the Security Council on nomination by the Secretary-General. He or she shall be of high moral character and possess the highest level of competence and experience in the conduct of investigations and prosecutions of criminal cases. The Prosecutor shall serve for a four-year term and be eligible for reappointment. The terms and conditions of service of the Prosecutor shall be those of an Under-Secretary-General of the United Nations.
+(5.) The staff of the Office of the Prosecutor shall be appointed by the Secretary-General on the recommendation of the Prosecutor.
+
+### Article 17 The Registry
+(1.) The Registry shall be responsible for the administration and servicing of the International Tribunal.
+(2.) The Registry shall consist of a Registrar and such other staff as may be required.
+(3.) The Registrar shall be appointed by the Secretary-General after consultation with the President of the International Tribunal. He or she shall serve for a four-year term and be eligible for reappointment. The terms and conditions of service of the Registrar shall be those of an Assistant Secretary-General of the United Nations.
+(4.) The staff of the Registry shall be appointed by the Secretary-General on the recommendation of the Registrar.
+
+### Article 18 Investigation and preparation of indictment
+(1.) The Prosecutor shall initiate investigations ex-officio or on the basis of information obtained from any source, particularly from Governments, United Nations organs, intergovernmental and non-governmental organizations. The Prosecutor shall assess the information received or obtained and decide whether there is sufficient basis to proceed.
+(2.) The Prosecutor shall have the power to question suspects, victims and witnesses, to collect evidence and to conduct on-site investigations. In carrying out these tasks, the Prosecutor may, as appropriate, seek the assistance of the State authorities concerned.
+(3.) If questioned, the suspect shall be entitled to be assisted by counsel of his own choice, including the right to have legal assistance assigned to him without payment by him in any such case if he does not have sufficient means to pay for it, as well as to necessary translation into and from a language he speaks and understands.
+(4.) Upon a determination that a prima facie case exists, the Prosecutor shall prepare an indictment containing a concise statement of the facts and the crime or crimes with which the accused is charged under the Statute. The indictment shall be transmitted to a judge of the Trial Chamber.
+
+### Article 19 Review of the indictment
+(1.) The judge of the Trial Chamber to whom the indictment has been transmitted shall review it. If satisfied that a prima facie case has been established by the Prosecutor, he shall confirm the indictment. If not so satisfied, the indictment shall be dismissed.
+(2.) Upon confirmation of an indictment, the judge may, at the request of the Prosecutor, issue such orders and warrants for the arrest, detention, surrender or transfer of persons, and any other orders as may be required for the conduct of the trial.
+
+### Article 20 Commencement and conduct of trial proceedings
+(1.) The Trial Chambers shall ensure that a trial is fair and expeditious and that proceedings are conducted in accordance with the rules of procedure and evidence, with full respect for the rights of the accused and due regard for the protection of victims and witnesses.
+(2.) A person against whom an indictment has been confirmed shall, pursuant to an order or an arrest warrant of the International Tribunal, be taken into custody, immediately informed of the charges against him and transferred to the International Tribunal.
+(3.) The Trial Chamber shall read the indictment, satisfy itself that the rights of the accused are respected, confirm that the accused understands the indictment, and instruct the accused to enter a plea. The Trial Chamber shall then set the date for trial.
+(4.) The hearings shall be public unless the Trial Chamber decides to close the proceedings in accordance with its rules of procedure and evidence.
+
+### Article 21 Rights of the accused
+(1.) All persons shall be equal before the International Tribunal.
+(2.) In the determination of charges against him, the accused shall be entitled to a fair and public hearing, subject to article 22 of the Statute.
+(3.) The accused shall be presumed innocent until proved guilty according to the provisions of the present Statute.
+(4.) In the determination of any charge against the accused pursuant to the present Statute, the accused shall be entitled to the following minimum guarantees, in full equality:
+  (a) to be informed promptly and in detail in a language which he understands of the nature and cause of the charge against him;
+  (b) to have adequate time and facilities for the preparation of his defence and to communicate with counsel of his own choosing;
+  (c) to be tried without undue delay;
+  (d) to be tried in his presence, and to defend himself in person or through legal assistance of his own choosing; to be informed, if he does not have legal assistance, of this right; and to have legal assistance assigned to him, in any case where the interests of justice so require, and without payment by him in any such case if he does not have sufficient means to pay for it;
+  (e) to examine, or have examined, the witnesses against him and to obtain the attendance and examination of witnesses on his behalf under the same conditions as witnesses against him;
+  (f) to have the free assistance of an interpreter if he cannot understand or speak the language used in the International Tribunal;
+  (g) not to be compelled to testify against himself or to confess guilt.
+
+### Article 22 Protection of victims and witnesses
+The International Tribunal shall provide in its rules of procedure and evidence for the protection of victims and witnesses. Such protection measures shall include, but shall not be limited to, the conduct of in camera proceedings and the protection of the victim's identity.
+
+### Article 23 Judgement
+(1.) The Trial Chambers shall pronounce judgements and impose sentences and penalties on persons convicted of serious violations of international humanitarian law.
+(2.) The judgement shall be rendered by a majority of the judges of the Trial Chamber, and shall be delivered by the Trial Chamber in public. It shall be accompanied by a reasoned opinion in writing, to which separate or dissenting opinions may be appended.
+
+### Article 24 Penalties
+(1.) The penalty imposed by the Trial Chamber shall be limited to imprisonment. In determining the terms of imprisonment, the Trial Chambers shall have recourse to the general practice regarding prison sentences in the courts of the former Yugoslavia.
+(2.) In imposing the sentences, the Trial Chambers should take into account such factors as the gravity of the offence and the individual circumstances of the convicted person.
+(3.) In addition to imprisonment, the Trial Chambers may order the return of any property and proceeds acquired by criminal conduct, including by means of duress, to their rightful owners.
+
+### Article 25 Appellate proceedings
+(1.) The Appeals Chamber shall hear appeals from persons convicted by the Trial Chambers or from the Prosecutor on the following grounds:
+  (a) an error on a question of law invalidating the decision; or
+  (b) an error of fact which has occasioned a miscarriage of justice.
+(2.) The Appeals Chamber may affirm, reverse or revise the decisions taken by the Trial Chambers.
+
+### Article 26 Review proceedings
+Where a new fact has been discovered which was not known at the time of the proceedings before the Trial Chambers or the Appeals Chamber and which could have been a decisive factor in reaching the decision, the convicted person or the Prosecutor may submit to the International Tribunal an application for review of the judgement.
+
+### Article 27 Enforcement of sentences
+Imprisonment shall be served in a State designated by the International Tribunal from a list of States which have indicated to the Security Council their willingness to accept convicted persons. Such imprisonment shall be in accordance with the applicable law of the State concerned, subject to the supervision of the International Tribunal.
+
+### Article 28 Pardon or commutation of sentences
+If, pursuant to the applicable law of the State in which the convicted person is imprisoned, he or she is eligible for pardon or commutation of sentence, the State concerned shall notify the International Tribunal accordingly. The President of the International Tribunal, in consultation with the judges, shall decide the matter on the basis of the interests of justice and the general principles of law.
+
+### Article 29 Cooperation and judicial assistance
+(1.) States shall cooperate with the International Tribunal in the investigation and prosecution of persons accused of committing serious violations of international humanitarian law.
+(2.) States shall comply without undue delay with any request for assistance or an order issued by a Trial Chamber, including, but not limited to:
+  (a) the identification and location of persons;
+  (b) the taking of testimony and the production of evidence;
+  (c) the service of documents;
+  (d) the arrest or detention of persons;
+  (e) the surrender or the transfer of the accused to the International Tribunal.
+
+### Article 30 The status, privileges and immunities of the International Tribunal
+(1.) The Convention on the Privileges and Immunities of the United Nations of 13 February 1946 shall apply to the International Tribunal, the judges, the Prosecutor and his staff, and the Registrar and his staff.
+(2.) The judges, the Prosecutor and the Registrar shall enjoy the privileges and immunities, exemptions and facilities accorded to diplomatic envoys, in accordance with international law.
+(3.) The staff of the Prosecutor and of the Registrar shall enjoy the privileges and immunities accorded to officials of the United Nations under articles V and VII of the Convention referred to in paragraph 1 of this article.
+(4.) Other persons, including the accused, required at the seat of the International Tribunal shall be accorded such treatment as is necessary for the proper functioning of the International Tribunal.
+
+### Article 31 Seat of the International Tribunal
+The International Tribunal shall have its seat at The Hague.
+
+### Article 32 Expenses of the International Tribunal
+The expenses of the International Tribunal shall be borne by the regular budget of the United Nations in accordance with Article 17 of the Charter of the United Nations.
+
+### Article 33 Working languages
+The working languages of the International Tribunal shall be English and French.
+
+### Article 34 Annual report
+The President of the International Tribunal shall submit an annual report of the International Tribunal to the Security Council and to the General Assembly.
+
+### Article 1 Competence of the International Tribunal for Rwanda
+The International Tribunal for Rwanda shall have the power to prosecute persons responsible for serious violations of international humanitarian law committed in the territory of Rwanda and Rwandan citizens responsible for such violations committed in the territory of neighbouring States, between 1 January 1994 and 31 December 1994, in accordance with the provisions of the present Statute.
+
+### Article 2 Genocide
+(1.) The International Tribunal for Rwanda shall have the power to prosecute persons committing genocide as defined in paragraph 2 of this article or of committing any of the other acts enumerated in paragraph 3 of this article.
+(2.) Genocide means any of the following acts committed with intent to destroy, in whole or in part, a national, ethnical, racial or religious group, as such:
+  (a) Killing members of the group;
+  (b) Causing serious bodily or mental harm to members of the group;
+  (c) Deliberately inflicting on the group conditions of life calculated to bring about its physical destruction in whole or in part;
+  (d) Imposing measures intended to prevent births within the group;
+  (e) Forcibly transferring children of the group to another group.
+(3.) The following acts shall be punishable:
+  (a) Genocide;
+  (b) Conspiracy to commit genocide;
+  (c) Direct and public incitement to commit genocide;
+  (d) Attempt to commit genocide;
+  (e) Complicity in genocide.
+
+### Article 3 Crimes against humanity
+The International Tribunal for Rwanda shall have the power to prosecute persons responsible for the following crimes when committed as part of a widespread or systematic attack against any civilian population on national, political, ethic, racial or religious grounds:
+  (a) Murder;
+  (b) Extermination;
+  (c) Enslavement;
+  (d) Deportation;
+  (e) Imprisonment;
+  (f) Torture;
+  (g) Rape;
+  (h) Persecutions on political, racial and religious grounds;
+  (i) Other inhumane acts.
+
+### Article 4 Violations of Article 3 common to the Geneva Conventions and of Additional Protocol II
+The International Tribunal for Rwanda shall have the power to prosecute persons committing or ordering to be committed serious violations of Article 3 common to the Geneva Conventions of 12 August 1949 for the Protection of War Victims, and of Additional Protocol II thereto of 8 June 1977. These violations shall include, but shall not be limited to:
+  (a) Violence to life, health and physical or mental well-being of persons, in particular murder as well as cruel treatment such as torture, mutilation or any form of corporal punishment;
+  (b) Collective punishments;
+  (c) Taking of hostages;
+  (d) Acts of terrorism;
+  (e) Outrages upon personal dignity, in particular humiliating and degrading treatment, rape, enforced prostitution and any form of indecent assault;
+  (f) Pillage;
+  (g) The passing of sentences and the carrying out of executions without previous judgement pronounced by a regularly constituted court, affording all the judicial guarantees which are recognized as indispensable by civilized peoples;
+  (h) Threats to commit any of the foregoing acts.
+
+### Article 5 Personal jurisdiction
+The International Tribunal for Rwanda shall have jurisdiction over natural persons pursuant to the provisions of the present Statute.
+
+### Article 6 Individual criminal responsibility
+(1.) A person who planned, instigated, ordered, committed or otherwise aided and abetted in the planning, preparation or execution of a crime referred to in articles 2 to 4 of the present Statute, shall be individually responsible for the crime.
+(2.) The official position of any accused person, whether as Head of State or Government or as a responsible Government official, shall not relieve such person of criminal responsibility nor mitigate punishment.
+(3.) The fact that any of the acts referred to in articles 2 to 4 of the present Statute was committed by a subordinate does not relieve his or her superior of criminal responsibility if he or she knew or had reason to know that the subordinate was about to commit such acts or had done so and the superior failed to take the necessary and reasonable measures to prevent such acts or to punish the perpetrators thereof.
+(4.) The fact that an accused person acted pursuant to an order of a Government or of a superior shall not relieve him or her of criminal responsibility, but may be considered in mitigation of punishment if the International Tribunal for Rwanda determines that justice so requires.
+
+### Article 7 Territorial and temporal jurisdiction
+The territorial jurisdiction of the International Tribunal for Rwanda shall extend to the territory of Rwanda including its land surface and airspace as well as to the territory of neighbouring States in respect of serious violations of international humanitarian law committed by Rwandan citizens. The temporal jurisdiction of the International Tribunal for Rwanda shall extend to a period beginning on 1 January 1994 and ending on 31 December 1994.
+
+### Article 8 Concurrent jurisdiction
+(1.) The International Tribunal for Rwanda and national courts shall have concurrent jurisdiction to prosecute persons for serious violations of international humanitarian law committed in the territory of Rwanda and Rwandan citizens for such violations committed in the territory of neighbouring States, between 1 January 1994 and 31 December 1994.
+(2.) The International Tribunal for Rwanda shall have primacy over the national courts of all States. At any stage of the procedure, the International Tribunal for Rwanda may formally request national courts to defer to its competence in accordance with the present Statute and the Rules of Procedure and Evidence of the International Tribunal for Rwanda.
+
+### Article 9 Non bis in idem
+(1.) No person shall be tried before a national court for acts constituting serious violations of international humanitarian law under the present Statute, for which he or she has already been tried by the International Tribunal for Rwanda.
+(2.) A person who has been tried by a national court for acts constituting serious violations of international humanitarian law may be subsequently tried by the International Tribunal for Rwanda only if:
+  (a) The act for which he or she was tried was characterized as an ordinary crime; or
+  (b) The national court proceedings were not impartial or independent, were designed to shield the accused from international criminal responsibility, or the case was not diligently prosecuted.
+(3.) In considering the penalty to be imposed on a person convicted of a crime under the present Statute, the International Tribunal for Rwanda shall take into account the extent to which any penalty imposed by a national court on the same person for the same act has already been served.
+
+### Article 10 Organization of the International Tribunal for Rwanda
+The International Tribunal for Rwanda shall consist of the following organs:
+  (a) The Chambers, comprising two Trial Chambers and an Appeals Chamber;
+  (b) The Prosecutor; and
+  (c) A Registry.
+
+### Article 11 Composition of the Chambers
+The Chambers shall be composed of eleven independent judges, no two of whom may be nationals of the same State, who shall serve as follows:
+  (a) Three judges shall serve in each of the Trial Chambers;
+  (b) Five judges shall serve in the Appeals Chamber.
+
+### Article 12 Qualification and election of judges
+(1.) The judges shall be persons of high moral character, impartiality and integrity who possess the qualifications required in their respective countries for appointment to the highest judicial offices. In the overall composition of the Chambers due account shall be taken of the experience of the judges in criminal law, international law, including international humanitarian law and human rights law.
+(2.) The members of the Appeals Chamber of the International Tribunal for the Prosecution of Persons Responsible for Serious Violations of International Law Committed in the Territory of the Former Yugoslavia since 1991 (hereinafter referred to as the International Tribunal for the Former Yugoslavia) shall also serve as the members of the Appeals Chamber of the International Tribunal for Rwanda.
+(3.) The judges of the Trial Chambers of the International Tribunal for Rwanda shall be elected by the General Assembly from a list submitted by the Security Council, in the following manner:
+  (a) The Secretary-General shall invite nominations for judges of the Trial Chambers from States Members of the United Nations and non-Member States maintaining permanent observer missions at United Nations Headquarters;
+  (b) Within thirty days of the date of the invitation of the Secretary-General, each State may nominate up to two candidates meeting the qualifications set out in paragraph 1 above, no two of whom shall be of the same nationality and neither of whom shall be of the same nationality as any judge on the Appeals Chamber;
+  (c) The Secretary-General shall forward the nominations received to the Security Council. From the nominations received the Security Council shall establish a list of not less than twelve and not more than eighteen candidates, taking due account of adequate representation on the International Tribunal for Rwanda of the principal legal systems of the world;
+  (d) The President of the Security Council shall transmit the list of candidates to the President of the General Assembly. From that list the General Assembly shall elect the six judges of the Trial Chambers. The candidates who receive an absolute majority of the votes of the States Members of the United Nations and of the non-Member States maintaining permanent observer missions at United Nations Headquarters, shall be declared elected. Should two candidates of the same nationality obtain the required majority vote, the one who received the higher number of votes shall be considered elected.
+(4.) In the event of a vacancy in the Trial Chambers, after consultation with the Presidents of the Security Council and of the General Assembly, the Secretary-General shall appoint a person meeting the qualifications of paragraph 1 above, for the remainder of the term of office concerned.
+(5.) The judges of the Trial Chambers shall be elected for a term of four years. The terms and conditions of service shall be those of the judges of the International Tribunal for the Former Yugoslavia. They shall be eligible for re-election.
+
+### Article 13 Officers and members of the Chambers
+(1.) The judges of the International Tribunal for Rwanda shall elect a President.
+(2.) After consultation with the judges of the International Tribunal for Rwanda, the President shall assign the judges to the Trial Chambers. A judge shall serve only in the Chamber to which he or she was assigned.
+(3.) The judges of each Trial Chamber shall elect a Presiding Judge, who shall conduct all of the proceedings of that Trial Chamber as a whole.
+
+### Article 14 Rules of procedure and evidence
+The judges of the International Tribunal for Rwanda shall adopt, for the purpose of proceedings before the International Tribunal for Rwanda, the rules of procedure and evidence for the conduct of the pre-trial phase of the proceedings, trials and appeals, the admission of evidence, the protection of victims and witnesses and other appropriate matters of the International Tribunal for the Former Yugoslavia with such changes as they deem necessary.
+
+### Article 15 The Prosecutor
+(1.) The Prosecutor shall be responsible for the investigation and prosecution of persons responsible for serious violations of international humanitarian law committed in the territory of Rwanda and Rwandan citizens responsible for such violations committed in the territory of neighbouring States, between 1 January 1994 and 31 December 1994.
+(2.) The Prosecutor shall act independently as a separate organ of the International Tribunal for Rwanda. He or she shall not seek or receive instructions from any Government or from any other source.
+(3.) The Prosecutor of the International Tribunal for the Former Yugoslavia shall also serve as the Prosecutor of the International Tribunal for Rwanda. He or she shall have additional staff, including an additional Deputy Prosecutor, to assist with prosecutions before the International Tribunal for Rwanda. Such staff shall be appointed by the Secretary-General on the recommendation of the Prosecutor.
+
+### Article 16 The Registry
+(1.) The Registry shall be responsible for the administration and servicing of the International Tribunal for Rwanda.
+(2.) The Registry shall consist of a Registrar and such other staff as may be required.
+(3.) The Registrar shall be appointed by the Secretary-General after consultation with the President of the International Tribunal for Rwanda. He or she shall serve for a four-year term and be eligible for reappointment. The terms and conditions of service of the Registrar shall be those of an Assistant Secretary-General of the United Nations.
+(4.) The staff of the Registry shall be appointed by the Secretary-General on the recommendation of the Registrar.
+
+### Article 17 Investigation and preparation of indictment
+(1.) The Prosecutor shall initiate investigations ex-officio or on the basis of information obtained from any source, particularly from Governments, United Nations organs, intergovernmental and non-governmental organizations. The Prosecutor shall assess the information received or obtained and decide whether there is sufficient basis to proceed.
+(2.) The Prosecutor shall have the power to question suspects, victims and witnesses, to collect evidence and to conduct on-site investigations. In carrying out these tasks, the Prosecutor may, as appropriate, seek the assistance of the State authorities concerned.
+(3.) If questioned, the suspect shall be entitled to be assisted by counsel of his or her own choice, including the right to have legal assistance assigned to the suspect without payment by him or her in any such case if he or she does not have sufficient means to pay for it, as well as to necessary translation into and from a language he or she speaks and understands.
+(4.) Upon a determination that a prima facie case exists, the Prosecutor shall prepare an indictment containing a concise statement of the facts and the crime or crimes with which the accused is charged under the Statute. The indictment shall be transmitted to a judge of the Trial Chamber.
+
+### Article 18 Review of the indictment
+(1.) The judge of the Trial Chamber to whom the indictment has been transmitted shall review it. If satisfied that a prima facie case has been established by the Prosecutor, he or she shall confirm the indictment. If not so satisfied, the indictment shall be dismissed.
+(2.) Upon confirmation of an indictment, the judge may, at the request of the Prosecutor, issue such orders and warrants for the arrest, detention, surrender or transfer of persons, and any other orders as may be required for the conduct of the trial.
+
+### Article 19 Commencement and conduct of trial proceedings
+(1.) The Trial Chambers shall ensure that a trial is fair and expeditious and that proceedings are conducted in accordance with the rules of procedure and evidence, with full respect for the rights of the accused and due regard for the protection of victims and witnesses.
+(2.) A person against whom an indictment has been confirmed shall, pursuant to an order or an arrest warrant of the International Tribunal for Rwanda, be taken into custody, immediately informed of the charges against him or her and transferred to the International Tribunal for Rwanda.
+(3.) The Trial Chamber shall read the indictment, satisfy itself that the rights of the accused are respected, confirm that the accused understands the indictment, and instruct the accused to enter a plea. The Trial Chamber shall then set the date for trial.
+(4.) The hearings shall be public unless the Trial Chamber decides to close the proceedings in accordance with its rules of procedure and evidence.
+
+### Article 20 Rights of the accused
+(1.) All persons shall be equal before the International Tribunal for Rwanda.
+(2.) In the determination of charges against him or her, the accused shall be entitled to a fair and public hearing, subject to article 21 of the Statute.
+(3.) The accused shall be presumed innocent until proved guilty according to the provisions of the present Statute.
+(4.) In the determination of any charge against the accused pursuant to the present Statute, the accused shall be entitled to the following minimum guarantees, in full equality:
+  (a) To be informed promptly and in detail in a language which he or she understands of the nature and cause of the charge against him or her;
+  (b) To have adequate time and facilities for the preparation of his or her defence and to communicate with counsel of his or her own choosing;
+  (c) To be tried without undue delay;
+  (d) To be tried in his or her presence, and to defend himself or herself in person or through legal assistance of his or her own choosing; to be informed, if he or she does not have legal assistance, of this right; and to have legal assistance assigned to him or her, in any case where the interests of justice so require, and without payment by him or her in any such case if he or she does not have sufficient means to pay for it;
+  (e) To examine, or have examined, the witnesses against him or her and to obtain the attendance and examination of witnesses on his or her behalf under the same conditions as witnesses against him or her;
+  (f) To have the free assistance of an interpreter if he or she cannot understand or speak the language used in the International Tribunal for Rwanda;
+  (g) Not to be compelled to testify against himself or herself or to confess guilt.
+
+### Article 21 Protection of victims and witnesses
+The International Tribunal for Rwanda shall provide in its rules of procedure and evidence for the protection of victims and witnesses. Such protection measures shall include, but shall not be limited to, the conduct of in camera proceedings and the protection of the victim's identity.
+
+### Article 22 Judgement
+(1.) The Trial Chambers shall pronounce judgements and impose sentences and penalties on persons convicted of serious violations of international humanitarian law.
+(2.) The judgement shall be rendered by a majority of the judges of the Trial Chamber, and shall be delivered by the Trial Chamber in public. It shall be accompanied by a reasoned opinion in writing, to which separate or dissenting opinions may be appended.
+
+### Article 23 Penalties
+(1.) The penalty imposed by the Trial Chamber shall be limited to imprisonment. In determining the terms of imprisonment, the Trial Chambers shall have recourse to the general practice regarding prison sentences in the courts of Rwanda.
+(2.) In imposing the sentences, the Trial Chambers should take into account such factors as the gravity of the offence and the individual circumstances of the convicted person.
+(3.) In addition to imprisonment, the Trial Chambers may order the return of any property and proceeds acquired by criminal conduct, including by means of duress, to their rightful owners.
+
+### Article 24 Appellate proceedings
+(1.) The Appeals Chamber shall hear appeals from persons convicted by the Trial Chambers or from the Prosecutor on the following grounds:
+  (a) An error on a question of law invalidating the decision; or
+  (b) An error of fact which has occasioned a miscarriage of justice.
+(2.) The Appeals Chamber may affirm, reverse or revise the decisions taken by the Trial Chambers.
+
+### Article 25 Review proceedings
+Where a new fact has been discovered which was not known at the time of the proceedings before the Trial Chambers or the Appeals Chamber and which could have been a decisive factor in reaching the decision, the convicted person or the Prosecutor may submit to the International Tribunal for Rwanda an application for review of the judgement.
+
+### Article 26 Enforcement of sentences
+Imprisonment shall be served in Rwanda or any of the States on a list of States which have indicated to the Security Council their willingness to accept convicted persons, as designated by the International Tribunal for Rwanda. Such imprisonment shall be in accordance with the applicable law of the State concerned, subject to the supervision of the International Tribunal for Rwanda.
+
+### Article 27 Pardon or commutation of sentences
+If, pursuant to the applicable law of the State in which the convicted person is imprisoned, he or she is eligible for pardon or commutation of sentence, the State concerned shall notify the International Tribunal for Rwanda accordingly. There shall only be pardon or commutation of sentence if the President of the International Tribunal for Rwanda, in consultation with the judges, so decides on the basis of the interests of justice and the general principles of law.
+
+### Article 28 Cooperation and judicial assistance
+(1.) States shall cooperate with the International Tribunal for Rwanda in the investigation and prosecution of persons accused of committing serious violations of international humanitarian law.
+(2.) States shall comply without undue delay with any request for assistance or an order issued by a Trial Chamber, including, but not limited to:
+  (a) The identification and location of persons;
+  (b) The taking of testimony and the production of evidence;
+  (c) The service of documents;
+  (d) The arrest or detention of persons;
+  (e) The surrender or the transfer of the accused to the International Tribunal for Rwanda.
+
+### Article 29 The status, privileges and immunities of the International Tribunal for Rwanda
+(1.) The Convention on the Privileges and Immunities of the United Nations of 13 February 1946 shall apply to the International Tribunal for Rwanda, the judges, the Prosecutor and his or her staff, and the Registrar and his or her staff.
+(2.) The judges, the Prosecutor and the Registrar shall enjoy the privileges and immunities, exemptions and facilities accorded to diplomatic envoys, in accordance with international law.
+(3.) The staff of the Prosecutor and of the Registrar shall enjoy the privileges and immunities accorded to officials of the United Nations under articles V and VII of the Convention referred to in paragraph 1 of this article.
+(4.) Other persons, including the accused, required at the seat or meeting place of the International Tribunal for Rwanda shall be accorded such treatment as is necessary for the proper functioning of the International Tribunal for Rwanda.
+
+### Article 30 Expenses of the International Tribunal for Rwanda
+The expenses of the International Tribunal for Rwanda shall be expenses of the Organization in accordance with Article 17 of the Charter of the United Nations.
+
+### Article 31 Working languages
+The working languages of the International Tribunal shall be English and French.
+
+### Article 32 Annual report
+The President of the International Tribunal for Rwanda shall submit an annual report of the International Tribunal for Rwanda to the Security Council and to the General Assembly.
