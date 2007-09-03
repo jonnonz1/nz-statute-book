@@ -1,0 +1,425 @@
+# Harassment Act 1997
+_Consolidation as at 2007-09-03_
+
+> An Act to provide criminal and civil remedies in respect of harassment
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Harassment Act 1997.
+(2) This Act (other than Part 3) comes into force on 1 January 1998.
+(3) Part 3 comes into force on 1 May 1998.
+
+## Part 1 — Preliminary provisions
+
+**Interpretation**
+
+### 2 Interpretation
+(1) In this Act, unless the context otherwise requires,—
+  - **Applicant** means—
+    (a) A person who applies for an order under this Act on his or her own behalf:
+    (b) The person on whose behalf an application for an order is made under section 11 or section 13:
+  - **Associated respondent** means a person against whom a restraining order applies by virtue of a direction made under section 18
+  - **Child**
+  - **Court** means a District Court; and includes a District Court Judge
+  - **Encourage** includes to incite, counsel, or procure
+  - **Family member** , in relation to a person, means,—
+    (a) Any other person who is or has been related to the person by blood, marriage, civil union, de facto relationship, or adoption:
+    (b) Any other person who is a member of the person's whanau or other culturally recognised family group:
+    (c)
+  - **Harassment** has the meaning set out in section 3; and has a corresponding meaning
+  - **Partner**
+  - **Property** , in relation to a person, means property (whether real or personal) that—
+    (a) The person owns; or
+    (b) The person does not own but—
+      (i) Uses or enjoys; or
+      (ii) Is available for the person's use or enjoyment; or
+      (iii) Is in the person's care or custody; or
+      (iv) Is at the person's dwellinghouse:
+  - **Registrar** means the Registrar of a Court; and includes a Deputy Registrar of a Court
+  - **Representative** ,—
+    (a) In relation to a minor aged 16 or under, means a guardian ad litem or next friend appointed, under rules of court, to take proceedings under this Act on behalf of that minor aged 16 or under:
+    (b) In relation to a person to whom section 13 applies, means a guardian ad litem appointed, under that section, to take proceedings under this Act on behalf of that person:
+  - **Respondent** means the person against whom an application for a restraining order has been made under this Act; and includes a person (other than an associated respondent) against whom a restraining order is made under this Act
+  - **Restraining order** means an order made under section 16
+  - **Safety** , in relation to any person, includes that person's mental well-being
+  - **Special condition** , in relation to a restraining order, means any condition of the order imposed under section 20
+  - **Specified act** means one of the types of activity specified or described in section 4(1).
+(2) For the purposes of this Act, a person is in a family relationship with another person if the person—
+  (a) Is a current or former spouse, civil union partner, or de facto partner of the other person; or
+  (b) Is a family member of the other person.
+
+### 3 Meaning of harassment
+(1) For the purposes of this Act, a person harasses another person if he or she engages in a pattern of behaviour that is directed against that other person, being a pattern of behaviour that includes doing any specified act to the other person on at least 2 separate occasions within a period of 12 months.
+(2) To avoid any doubt,—
+  (a) The specified acts required for the purposes of subsection (1) may be the same type of specified act on each separate occasion, or different types of specified acts:
+  (b) The specified acts need not be done to the same person on each separate occasion, as long as the pattern of behaviour is directed against the same person.
+
+### 4 Meaning of specified act
+(1) For the purposes of this Act, a specified act, in relation to a person, means any of the following acts:
+  (a) Watching, loitering near, or preventing or hindering access to or from, that person's place of residence, business, employment, or any other place that the person frequents for any purpose:
+  (b) Following, stopping, or accosting that person:
+  (c) Entering, or interfering with, property in that person's possession:
+  (d) Making contact with that person (whether by telephone, correspondence, or in any other way):
+  (e) Giving offensive material to that person, or leaving it where it will be found by, given to, or brought to the attention of, that person:
+  (f) Acting in any other way—
+    (i) That causes that person (person A) to fear for his or her safety; and
+    (ii) That would cause a reasonable person in person A's particular circumstances to fear for his or her safety.
+(2) To avoid any doubt, subsection (1)(f) includes the situation where—
+  (a) A person acts in a particular way; and
+  (b) The act is done in relation to a person (person B) in circumstances in which the act is to be regarded, in accordance with section 5(b), as done to another person (person A); and
+  (c) Acting in that way—whether or not acting in that way causes or is likely to cause person B to fear for person B's safety.
+    (i) Causes person A to fear for his or her safety; and
+    (ii) Would cause a reasonable person in person A's particular circumstances to fear for his or her safety,—
+(3) Subsection (2) does not limit the generality of subsection (1)(f).
+
+### 5 Meaning of act done to person
+An act is done to a person (person A), for the purposes of this Act, if that act is done—
+  (a) In relation to person A; or
+  (b) In relation to any other person (person B) with whom person A is in a family relationship, and the doing of the act is due, wholly or partly, to person A's family relationship with person B.
+
+**Object**
+
+### 6 Object
+(1) The object of this Act is to provide greater protection to victims of harassment by—
+  (a) Recognising that behaviour that may appear innocent or trivial when viewed in isolation may amount to harassment when viewed in context; and
+  (b) Ensuring that there is adequate legal protection for all victims of harassment.
+(2) This Act aims to achieve its object by—
+  (a) Making the most serious types of harassment criminal offences:
+  (b) Empowering the Court to make orders to protect victims of harassment who are not covered by domestic violence legislation:
+  (c) Providing effective sanctions for breaches of the criminal and civil law relating to harassment.
+(3) Any court which, or any person who, exercises any power conferred by or under this Act must be guided in the exercise of that power by the object specified in subsection (1).
+
+**Crown bound**
+
+### 7 Act to bind the Crown
+This Act binds the Crown.
+
+## Part 2 — Criminal harassment
+
+### 8 Criminal harassment
+(1) Every person commits an offence who harasses another person in any case where—
+  (a) The first-mentioned person intends that harassment to cause that other person to fear for—
+    (i) That other person's safety; or
+    (ii) The safety of any person with whom that other person is in a family relationship; or
+  (b) The first-mentioned person knows that the harassment is likely to cause the other person, given his or her particular circumstances, to reasonably fear for—
+    (i) That other person's safety; or
+    (ii) The safety of any person with whom that other person is in a family relationship.
+(2) Every person who commits an offence against this section is liable, on summary conviction, to imprisonment for a term not exceeding 2 years.
+
+## Part 3 — Civil harassment
+
+**Applications**
+
+### 9 Application for restraining order
+(1) Subject to subsection (4), any person who is being or has been harassed by another person may apply to the Court for a restraining order in respect of that other person.
+(2) If the person who is eligible to apply for a restraining order is a minor under 16 years of age, the application must be made by a representative in accordance with section 11(2).
+(3) If the person who is eligible to apply for a restraining order is unable or unwilling, in the circumstances specified in section 13(1)(b), to make the application personally, a representative appointed in accordance with section 13 may make an application on that person's behalf.
+(4) A person who is or has been in a domestic relationship with another person may not apply under this Act for a restraining order in respect of that other person.
+(5) For the purposes of subsection (4), domestic relationship has the same meaning as it has in the Domestic Violence Act 1995.
+
+### 10 Contents of application
+Any application for a restraining order may seek a direction under section 18 that the order apply against a particular person, being a person whom the respondent has encouraged or is encouraging to do any specified act to the applicant.
+
+### 11 Application by minors
+(1) Subject to subsections (2), (2A), and (4), a minor may make an application for a restraining order under this Act.
+(2) A minor under 16 years of age must make the application for a restraining order by a representative in accordance with rules of court.
+(2A) A minor aged 16 years may apply for a restraining order either on his or her own behalf under subsection (4), or by a representative in accordance with rules of Court.
+(3) Nothing in subsection (2) prevents a minor under the age of 17 on whose behalf an application for a restraining order is made by a representative from being heard in the proceedings; and where the minor under the age of 17 expresses views on the need for and outcome of the proceedings, the Court must take account of those views to the extent that it thinks fit, having regard to the age and maturity of the minor under the age of 17.
+(4) Subject to section 13,—
+  (a) A minor aged 17 or over, must make the application for a restraining order on his or her own behalf, without a next friend or guardian ad litem, as if the minor were of full age; and
+  (b) Orders may be made on the application, and enforced, as if the minor were of full age.
+
+### 12 Application against minors
+(1) No application for a restraining order may be made against a minor under the age of 17 years, unless the minor is or has been married or in a civil union or de facto relationship.
+(2) The Court must not make a direction under section 18 that a restraining order apply against a minor under the age of 17 years, unless the minor is or has been married or in a civil union or de facto relationship.
+(3) To avoid any doubt,—
+  (a) An application for a restraining order may be made against a minor who is or has been married, or in a civil union or de facto relationship, or who is aged 17 or over, and orders may be made on the application and enforced, as if the minor were of full age:
+  (b) The Court may make a direction under section 18 that a restraining order apply against such a minor, as if the minor were of full age.
+
+### 13 Applications on behalf of certain persons
+(1) This section applies where—
+  (a) A person aged 16 years or over is eligible to apply for a restraining order; and
+  (b) That person is unable or unwilling, whether because of physical incapacity or fear of harm or other sufficient cause, to make the application personally.
+(2) Where this section applies, the Court or a Registrar may, on an application without notice made by any person, appoint any person to be a representative of another person for the purpose of making and prosecuting, on behalf of that other person, an application for a restraining order.
+(3) A person may not be appointed under this section to be a representative unless that person is—
+  (a) An adult person who is not under disability; or
+  (b) A body of persons, whether corporate or unincorporated.
+(4) If an application for the appointment of a representative is made under subsection (2), the Court or Registrar must make the appointment sought if the Court or, as the case requires, the Registrar is satisfied,—
+  (a) That reasonable steps have been taken to ascertain the wishes of the person to whom the application relates in relation to the matter; and
+  (b) Where the wishes of that person have been able to be ascertained,—
+    (i) That the person does not object to the appointment; or
+    (ii) That the person's objection is not freely made; and
+  (c) Either,—
+    (i) Where the person to whom the application relates is unable to make the application for a restraining order personally, that it is in the best interests of that person to make the appointment; or
+    (ii) Where that person is unwilling to make the application for a restraining order personally, that it is appropriate to make the appointment; and
+  (d) That the proposed appointee,—
+    (i) Consents in writing to the appointment; and
+    (ii) If a natural person, is an adult who is not under disability; and
+  (e) That there is unlikely to be any conflict between the interests of the proposed appointee and the interests of the person in respect of whom the application is made.
+
+### 14 Applicant's involvement in proceedings where representative appointed
+(1) The fact that an application for a restraining order is made, on a person's behalf, by a representative appointed under section 13 does not prevent the person on whose behalf the application is made from being heard in the proceedings.
+(2) If,—then, unless the Court is satisfied that the objection is not freely made, no further steps may be taken in the proceedings.
+  (a) A representative appointed under section 13 applies, on another person's behalf, for a restraining order; and
+  (b) At any time before the application is determined, the other person objects to the continuation of the proceedings,—
+
+### 15 Applications for restraining order to be on notice
+Every application for a restraining order must be made on notice to—in accordance with rules of court.
+  (a) The respondent; and
+  (b) Every person in respect of whom a direction under section 18 is sought—
+
+### 16 Power to make restraining order
+(1) Subject to section 17, the Court may make a restraining order if it is satisfied that—
+  (a) The respondent has harassed, or is harassing, the applicant; and
+  (b) The following requirements are met:
+    (i) The behaviour in respect of which the application is made causes the applicant distress, or threatens to cause the applicant distress; and
+    (ii) That behaviour would cause distress, or would threaten to cause distress, to a reasonable person in the applicant's particular circumstances; and
+    (iii) In all the circumstances, the degree of distress caused or threatened by that behaviour justifies the making of an order; and
+  (c) The making of an order is necessary to protect the applicant from further harassment.
+(2) For the purposes of subsection (1)(a), a respondent who encourages another person to do a specified act to the applicant is regarded as having done that specified act personally.
+(3) To avoid any doubt, an order may be made under subsection (1) where the need for protection arises from the risk of the respondent doing, or encouraging another person to do, a specified act of a different type from the specified act found to have occurred for the purposes of paragraph (a) of that subsection.
+
+### 17 Defence to prove that specified acts done for lawful purpose
+A specified act cannot be relied on to establish harassment for the purposes of section 16(1)(a) if the respondent proves that the specified act was done for a lawful purpose.
+
+### 18 Protection from respondent's associates
+(1) Subject to subsection (2), if the Court makes a restraining order against the respondent, the Court may direct that the order also apply against another person if the respondent is encouraging, or has encouraged, that other person to do any specified act to the applicant.
+(2) No direction may be made under subsection (1) in respect of a person unless the Court is satisfied that—
+  (a) The person is doing, or has done, a specified act to the applicant; and
+  (b) The following requirements are met:
+    (i) The person's behaviour causes the applicant distress, or threatens to cause the applicant distress; and
+    (ii) That behaviour would cause distress, or would threaten to cause distress, to a reasonable person in the applicant's particular circumstances; and
+    (iii) In all the circumstances, the degree of distress caused or threatened by that behaviour justifies the making of a direction under this section; and
+  (c) The making of a direction under this section is necessary to protect the applicant from further harassment.
+(3) A direction may be made under subsection (1) whether the person in respect of whom the direction is sought did the specified act to the applicant before or after a restraining order was made.
+(4) Sections 16(2), 16(3), and 17 apply, with the necessary modifications, in respect of an application for a direction under subsection (1).
+
+**Conditions of restraining orders**
+
+### 19 Standard conditions of restraining orders
+(1) It is a condition of every restraining order that, except as permitted under any special condition of the restraining order, the respondent must not—
+  (a) Do, or threaten to do, any specified act to the person for whose protection the order is made; or
+  (b) Encourage any person to do any specified act to the person for whose protection the order is made, where the specified act, if done by the respondent, would be prohibited by the order.
+(2) Where, under a direction made under section 18, a restraining order applies against an associated respondent, the provisions of this section apply, with all necessary modifications, in respect of the associated respondent.
+
+### 20 Court may impose special conditions
+(1) Where the Court makes a restraining order, it may impose any conditions that are reasonably necessary, in the opinion of the Court, to protect the person for whose protection the order is made from further harassment by the respondent, or the associated respondent, or both.
+(2) Where the Court imposes a condition under this section, it may specify the period during which the condition is to have effect.
+(3) In the absence of a direction under subsection (2), a special condition has effect for the duration of the restraining order, unless sooner varied or discharged.
+
+**Duration, variation, and discharge of restraining orders**
+
+### 21 Duration of restraining order
+(1) A restraining order may be made for such period (whether longer or shorter than 1 year) as the Court considers necessary to protect the applicant from further harassment.
+(2) A restraining order continues in force until,—
+  (a) It is discharged under section 23; or
+  (b) Where the Court directs that the order is to be in force for a specified period, the expiry of that period; or
+  (c) In the absence of such a direction, the expiry of 1 year from the date on which the order is made.
+
+### 22 Power to vary restraining order
+(1) The Court may, if it thinks fit, on the application of the applicant or the respondent, vary a restraining order,—
+  (a) By varying or discharging any special condition:
+  (b) By imposing any special condition:
+  (c) Subject to subsection (4), by varying the duration of the order, whether by making a direction under section 21 or by varying any such direction.
+(2) Where a restraining order applies against an associated respondent, the Court may, if it thinks fit, on the application of the applicant or the associated respondent, vary the restraining order, in so far as it relates to the associated respondent,—
+  (a) By varying or discharging any special condition:
+  (b) By imposing any special condition:
+  (c) Subject to subsection (4), by varying the duration of the order, whether by making a direction under section 21 or by varying any such direction.
+(3) The Court may, if it thinks fit, on the application of the applicant, vary a restraining order by directing, under section 18, that the restraining order apply against a particular person.
+(4) The Court must not extend the duration of a restraining order under this section unless the Court is satisfied that the extension is necessary to protect the applicant from further harassment.
+
+### 23 Power to discharge restraining order
+(1) The Court may, if it thinks fit, on the application of the applicant or the respondent, discharge a restraining order.
+(2) On an application under subsection (1), the Court may discharge a restraining order even though the order applies against an associated respondent under a direction made under section 18.
+(3) Where a restraining order to which subsection (2) relates is discharged, the order ceases to have effect against the associated respondent as if that person had applied for and been granted a discharge of the order under subsection (4).
+(4) Where a restraining order applies against an associated respondent under a direction made under section 18, the associated respondent may apply for the order to be discharged in so far as it relates to him or her.
+(5) On an application under subsection (4), the Court may, if it thinks fit, discharge a restraining order in so far as it relates to the associated respondent.
+
+### 24 Variation or discharge on behalf of minors, etc
+Sections 11 and 13, so far as applicable and with the necessary modifications, apply in relation to—as they apply in relation to the making of an application for a restraining order.
+  (a) An application for the variation or discharge of a restraining order; and
+  (b) The defending of an application for the variation or discharge of a restraining order—
+
+**Enforcement of restraining orders**
+
+### 25 Offence to contravene restraining order
+(1) Every person commits an offence who, without reasonable excuse,—
+  (a) Does any act in contravention of a restraining order; or
+  (b) Fails to comply with any condition of a restraining order.
+(2) Subject to subsection (3), every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $5,000.
+(3) Every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 2 years where—
+  (a) That person has previously been convicted on at least 2 different occasions of a qualifying offence; and
+  (b) At least 2 of those qualifying offences were committed not earlier than 3 years before the commission of the offence being dealt with by the Court.
+(4) For the purposes of subsection (3), a qualifying offence, in relation to the offence being dealt with by the Court, is an offence against subsection (1), where the 2 offences are committed in respect of—
+  (a) The same restraining order; or
+  (b) Restraining orders made for the benefit of the same person.
+
+**Power to require person to supply name and address**
+
+### 26 Power to require person to supply name and address
+(1) This section applies where—
+  (a) A complaint is made to a member of the Police alleging that a particular person (in this section referred to as the alleged harasser) is harassing, or has harassed, another person; and
+  (b) The person making the complaint does not know the name, or the address, or both, of the alleged harasser.
+(2) It is not necessary, for the purposes of this section, that the harassment to which the complaint relates constitutes an offence against section 8.
+(3) Where this section applies, and a member of the Police has reasonable ground to suppose that the alleged harasser is harassing, or has harassed, the complainant,—
+  (a) Any member of the Police may require the alleged harasser to give particulars of his or her name and address to that member of the Police; and
+  (b) That member of the Police must tell the alleged harasser, at the time of requiring the particulars, that the particulars are being required under this section.
+(4) If the member of the Police has reasonable ground to suppose that any such particulars are false, that member of the Police may require the alleged harasser to supply satisfactory evidence of those particulars.
+(5) If any person, without reasonable excuse, refuses or fails to supply any particulars or evidence when required to do so by any member of the Police under this section, and persists in that refusal or failure after being warned by the member of the Police, that person may be arrested, without warrant, by any member of the Police.
+(6) For the purposes of this section, an alleged harasser includes a person who is being, or has been, encouraged, by another person, to do any specified act to a person.
+(7) Nothing in this section limits or affects any other power conferred on a member of the Police to require a person to supply any particulars.
+
+### 27 Offence
+Every person commits an offence and is liable on summary conviction to a fine not exceeding $500 who, having been required by any member of the Police to supply any particulars or evidence under section 26, without reasonable excuse,—
+  (a) Refuses or fails to supply the particulars or evidence; or
+  (b) Supplies any particulars or evidence knowing that the particulars or evidence are false in a material respect.
+
+### 28 Police may release information to enable application for restraining order to be made
+(1) Where a member of the Police has the name or address, or both, of a person who is alleged to be harassing, or to have harassed, another person, any member of the Police may, at the request of the other person (or, if a representative of the other person has been appointed, at the representative's request), disclose that information to a Registrar of a Court at a specified place.
+(2) Subsection (1) applies whether the information about the alleged harasser was obtained under section 26 or in some other way.
+(3) If information is disclosed to a Registrar under subsection (1), court staff must treat that information as confidential, and must not disclose the information other than under subsection (4).
+(4) A Registrar may, on request, disclose the information to the other person or, where applicable, to the other person's representative if, and only if, the Registrar is satisfied that the other person or his or her representative is to apply for—
+  (a) A restraining order against the alleged harasser; or
+  (b) A direction under section 18 in respect of the alleged harasser.
+(5) For the purposes of this section, an alleged harasser includes a person who is being, or has been, encouraged, by another person, to do a specified act to a person.
+
+## Part 4 — General provisions
+
+**General provisions**
+
+### 29 Standard of proof
+Every question of fact arising in any proceedings under this Act (other than criminal proceedings) must be decided on the balance of probabilities.
+
+### 30 Admission of evidence
+In any proceedings under this Act (other than criminal proceedings), and whether by way of hearing in the first instance or by way of appeal, or otherwise, the Court may receive any evidence that would not otherwise be admissible in a court of law, if the Court is satisfied that the admission of the evidence is required in the interests of justice.
+
+### 31 Applications may be heard together
+(1) A Court may hear and determine an application for a restraining order in conjunction with 1 or more other applications for a restraining order in any case where all the applications are made against the same person (whether or not any or all of those applications also relate to any other person).
+(2) Subsection (1) does not limit any other provision under which applications may be dealt with together.
+
+### 32 Vexatious proceedings
+(1) A Court may dismiss any proceedings before it under this Act if it is satisfied that they are frivolous or vexatious or an abuse of the procedure of the Court.
+(2) If a Court is satisfied that a person has persistently instituted vexatious proceedings under this Act (whether against the same person or against different persons), the Court may make an order prohibiting that person from commencing any proceedings under this Act, or proceedings of any specified kind or against any specified person, without the leave of the Court.
+(3) A Court must not make an order under subsection (2) prohibiting a person from commencing proceedings without giving that person an opportunity to be heard.
+(4) Nothing in this section applies in respect of criminal proceedings.
+(5) Nothing in this section limits any other power of the Court to dismiss proceedings.
+
+### 33 Copies of orders to be sent to Police
+(1) This section applies to the following orders made under this Act:
+  (a) A restraining order:
+  (b) Any order varying or discharging a restraining order.
+(2) On the making of an order to which this section applies, the Registrar of the Court in which the order is made must ensure that a copy of the order is made available, without delay, to the officer in charge of the Police station nearest to where the person for whose protection the order was made resides.
+(3) For the purposes of this section, a copy of an order may be made available in any of the following ways:
+  (a) By sending the copy by means of electronic transmission (whether by way of facsimile transmission, electronic mail, or other similar means of communication):
+  (b) By entering the copy on a database maintained in electronic form, where that database may be accessed by the person or persons to whom the copy is required to be made available:
+  (c) By sending the copy by ordinary post:
+  (d) By making the copy available in such manner as is prescribed by rules or regulations made under this Act:
+  (e) By making the copy available in such other manner as is appropriate in the circumstances.
+
+**Appeals**
+
+### 34 Appeals to High Court
+(1AA) This subsection applies to a decision of a Family Court or District Court, in proceedings under this Act (including, without limitation, proceedings under section 40), to—
+  (a) make or refuse to make an order; or
+  (b) dismiss the proceedings; or
+  (c) otherwise finally determine the proceedings.
+(1) A party to proceedings in which there is made a decision to which subsection (1AA) applies may appeal to the High Court against the decision.
+(2) The High Court Rules and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
+(3) On the ex parte application of the appellant, the Family Court or District Court (as the case requires) may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
+(3A) Subsection (3) overrides subsection (2).
+(4)
+
+### 35 Application of provisions relating to minors, etc
+Sections 11 and 13, so far as applicable and with the necessary modifications, apply in relation to—as they apply in relation to the making of an application for a restraining order.
+  (a) The making and prosecution of an appeal under section 34 or section 36; and
+  (b) The defending of any such appeal—
+
+### 36 Appeals to Court of Appeal
+(1) A party to any appeal under section 34 may, with leave of the Court of Appeal, appeal to the Court of Appeal against any determination of the High Court in that appeal.
+(2) On an appeal to the Court of Appeal under this section, the Court of Appeal has the same power to adjudicate on the proceedings as the High Court had.
+(3)
+
+### 37 Appeals to be heard as soon as practicable
+Every appeal under section 34 or section 36 must be heard as soon as practicable after the appeal is lodged.
+
+### 38 Effect of appeal
+Except where the Court making the order appealed from otherwise directs,—
+  (a) The operation of an order made under this Act is not suspended by an appeal under section 34 or section 36; and
+  (b) Every order made under this Act may be enforced in the same manner in all respects as if no such appeal were pending.
+
+**Power to clear court and restrict publication of proceedings**
+
+### 39 Power to clear court and restrict publication of proceedings
+(1) Where, in any proceedings under this Act, the Court is of the opinion that it is desirable to do so, after having regard to the interests of any person (including, without limitation, the privacy of the applicant) and to the public interest, the Court may make any 1 or more of the following orders:
+  (a) An order forbidding publication of any report or account of the whole or any part of—
+    (i) The evidence adduced:
+    (ii) The submissions made:
+  (b) An order forbidding the publication of—
+    (i) The name of any person, or any name or particulars likely to lead to the identification of that person:
+    (ii) The affairs of any person:
+  (c) An order excluding all or any persons other than the parties to the proceedings, any lawyer engaged in the proceedings, and any officer of the court, from the whole or any part of the proceedings.
+(2) The Court may make an order under this section on its own motion or on the application of any party to the proceedings.
+(3) Every application to the Court for an order under this section may be heard in open court or in chambers.
+(4) An order made under subsection (1)(a) or subsection (1)(b),—
+  (a) May be made for a limited period or permanently; and
+  (b) If it is made for a limited period, may be renewed for a further period or periods by the Court under section 40; and
+  (c) If it is made permanently, may be reviewed by the Court at any time under section 40.
+(5) Nothing in this section limits or restricts any other power of the Court—
+  (a) To prohibit or restrict the publication of reports or particulars relating to proceedings; or
+  (b) To hear proceedings in private or to exclude any person from the Court.
+
+### 40 Application for renewal or review of order made under section 39
+(1) If the Court makes an order under section 39(1)(a) or section 39(1)(b), any person may at any time apply to the Court—
+  (a) For a renewal of the order, if the order was made for a limited time:
+  (b) For a review of the order, if the order was made permanently.
+(2) An application may be made under subsection (1) by any person who was a party to the proceedings in which the order was made or by any other person.
+(3) After considering an application under this section, the Court may renew, revoke, vary, or continue the order as it thinks fit.
+
+### 41 Contravention of orders made under section 39
+(1) Every person commits an offence who breaches any order made under section 39(1)(a) or section 39(1)(b) or evades or attempts to evade any such order.
+(2) Every person who commits an offence against subsection (1) is liable on summary conviction,—
+  (a) In the case of an individual, to a fine not exceeding $1,000:
+  (b) In the case of a body corporate, to a fine not exceeding $5,000.
+(3) The breach of any order made under section 39(1)(c), or any evasion or attempted evasion of it, may be dealt with as contempt of court.
+
+**Rules and regulations**
+
+### 42 Rules of court
+(1) In addition to all other powers conferred by the District Courts Act 1947, the Governor-General may from time to time, by Order in Council, make rules—
+  (a) Regulating the practice and procedure of District Courts in proceedings under this Act:
+  (b) Providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(2) Without limiting subsection (1), rules made under that subsection may—
+  (a) Prescribe the procedure for the service of notices and other documents for the purposes of this Act, and provide for substituted service, and for service to be dispensed with, in such circumstances as are specified in the rules:
+  (b) Prescribe such forms as are necessary for the purposes of this Act, or authorise any specified person or persons to prescribe or approve forms, and require the use of such forms:
+  (c) Prescribe circumstances in which applications under this Act may be made without notice, and circumstances in which applications under this Act must be made on notice:
+  (d) Make such provision as is necessary or desirable in relation to representatives, including (without limitation),—
+    (i) Providing for the appointment, retirement, and removal of representatives:
+    (ii) Prescribing the circumstances in which a representative is or is not responsible for costs, and providing for the recovery, by a representative, of costs paid or incurred by the representative while acting as such:
+    (iii) Providing for the conduct of proceedings brought, on a person's behalf, by a representative:
+  (e) Provide that proceedings may be stayed or dismissed, or that a party may not take certain steps or further steps in the proceedings (whether not at all or only on such terms as the Court considers appropriate),—
+    (i) If certain specified requirements of the rules are not complied with; or
+    (ii) Unless or until certain specified requirements of the rules are complied with; or
+    (iii) If any order made under the rules is not complied with; or
+    (iv) Unless or until any order made under the rules is complied with:
+  (f) Provide that Registrars may exercise specified powers of the Court or a Judge:
+  (g) Provide for information about proceedings under this Act to be transferred between courts (whether District Courts, Family Courts, the High Court, the Court of Appeal, or the Supreme Court), including (without limitation) between different courts, or between different divisions of the same court, or between courts exercising civil jurisdiction and courts exercising criminal jurisdiction, or between courts exercising appellate jurisdiction and courts exercising original jurisdiction:
+  (h) Apply, with or without modification, provisions of the District Courts Rules 1992.
+(3) In the absence of any rules under this section or in any situation not covered by any such rules, the District Courts Rules 1992 apply, with all necessary modifications, to proceedings under this Act.
+
+### 43 Regulations
+The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+  (a) Prescribing, for the purposes of section 33(3)(d), the manner in which copies of orders may be made available:
+  (b) Providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+
+**Amendments to other enactments**
+
+### 44 Amendment to Summary Proceedings Act 1957
+Section 212(2) of the Summary Proceedings Act 1957 is amended by inserting in paragraph (eb) (as inserted by section 5 of the Summary Proceedings Amendment Act (No 2) 1995), after the expression Domestic Violence Act 1995, the expression or the Harassment Act 1997.
+
+### 45 Amendment to Electoral Act 1993
+Section 115(2) of the Electoral Act 1993 is amended by inserting, after paragraph (a) (as substituted by section 132 of the Domestic Violence Act 1995), the following paragraph:
+  (aa) A restraining order that is in force under the Harassment Act 1997 in respect of any person; or.
+
+**Saving**
+
+### 46 Other remedies for harassment not limited or affected
+Nothing in this Act limits or affects any right or remedy that exists or is available, apart from this Act, in respect of harassment.
