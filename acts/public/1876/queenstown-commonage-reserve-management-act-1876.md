@@ -1,0 +1,24 @@
+# Queenstown Commonage Reserve Management Act 1876
+_Consolidation as at 2007-09-03_
+
+> An Act to provide for the Management of certain Reserves in the Province of Otago and adjacent to the Incorporated Town of Queenstown.
+
+## Preamble
+WHEREAS by grants from the Crown the lands described in the Schedule to this Act are vested in the Superintendent of the Province of Otago in trust as a reserve for the purpose of a common for the use of the inhabitants of the Town of Queenstown: And whereas it is expedient and desirable that due provision should be made for the management of the said lands:
+
+### 1 Short Title
+The Short Title of this Act shall be The Queenstown Commonage Reserve Management Act 1876.
+
+### 2 Lands vested in Corporation of Queenstown
+The said lands described in the said Schedule shall be and they are hereby transferred to and vested in the Corporation of the Incorporated Town of Queenstown, incorporated under and by virtue of The Otago Municipal Corporations Ordinance 1865 (hereinafter called the said Corporation).
+
+### 3 Licenses may be issued, and lands managed
+It shall be lawful for the said Corporation to manage the said lands in such a manner as the said Corporation thinks the purposes for which the said lands were granted can best be carried out, and to issue yearly licenses authorizing inhabitants of the said town to depasture cattle thereon, and the fees for such licenses to fix and determine.
+
+### 4 Application of moneys
+All moneys received by the said Corporation for the rents issues license fees or profits of the said lands shall be used and employed for improving the said lands, and for beautifying and improving any recreation reserves vested in the said Corporation.
+
+### 5 Accounts to be kept
+The said Corporation shall keep a separate account of all the moneys received from the said rents issues license fees and profits of the said lands, and such account shall be audited by the Auditors of the Corporation once in every year, and a copy of such account shall be published in the New Zealand Gazette, and in one newspaper circulating in the district.
+
+## Schedule Schedule
