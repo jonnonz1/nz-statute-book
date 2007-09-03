@@ -288,6 +288,9 @@ The Governor-General may from time to time, by Order in Council, make regulation
 
 ## Schedule 1 — The Tariff
 
+| “The Working Tariff Document of New Zealand” is not available on this website. For the latest version of “The Working Tariff Document of New Zealand” see www.customs.govt.nz. |
+| --- |
+
 ## Schedule 2 — Enactments amended
 
 ## Schedule 3 — Enactments repealed
