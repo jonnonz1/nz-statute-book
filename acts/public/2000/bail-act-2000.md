@@ -1,0 +1,738 @@
+# Bail Act 2000
+_Consolidation as at 2007-09-03_
+
+### 1 Title
+This Act is the Bail Act 2000.
+
+### 2 Commencement
+This Act comes into force on 1 January 2001.
+
+### 3 Interpretation
+In this Act, unless the context otherwise requires,—
+  - **committal for trial** means committal to the High Court or a District Court under section 168A of the Summary Proceedings Act 1957
+  - **conviction** includes an order; and has a corresponding meaning
+  - **District Court** includes a Justice or Justices, or a Community Magistrate or Community Magistrates presiding over a District Court; but does not include a Registrar
+  - **drug dealing offence** means—in relation to a Class A controlled drug, as defined by Schedule 1 of that Act, or in relation to a Class B controlled drug, as defined by Schedule 2 of that Act
+    (a) any offence against section 12C(1)(a) of the Misuse Of Drugs Act 1975:
+    (b) any offence against section 6 of the Misuse of Drugs Act 1975—
+  - **offence** means any act or omission for which anyone can be punished under the Crimes Act 1961 or under any other enactment, whether on conviction on indictment or on summary conviction
+  - **Registrar** means any Registrar of the High Court or of a District Court, as the case may require; and includes a Deputy Registrar.
+
+### 4 Act binds the Crown
+This Act binds the Crown.
+
+### 5 Purpose
+The purpose of this Act is to reform and restate the law relating to bail.
+
+## Part 1 — General provisions regarding bail
+
+### 6 Application of this Part
+Unless expressly stated otherwise in this or in any other enactment, any decision regarding the granting of bail under this Act is subject to the provisions of this Part.
+
+### 7 Rules as to granting bail
+(1) A defendant is bailable as of right who is charged with an offence that is not punishable by imprisonment.
+(2) A defendant is bailable as of right who is charged with an offence for which the maximum punishment is less than 3 years' imprisonment, unless the offence is one against section 194 of the Crimes Act 1961 (which relates to assault on a child, or by a male on a female) or against section 49(1)(a) or section 49(1)(b) of the Domestic Violence Act 1995 (which relate to contravention of a protection order).
+(3) A defendant is bailable as of right who is charged with an offence against any of the following provisions of the Crimes Act 1961, namely:
+  (a) section 111 (false statements or declarations):
+  (b) section 151 (duty to provide the necessaries of life):
+  (c) section 152 (duty of parent or guardian to provide necessaries):
+  (d) section 153 (duty of employers to provide necessaries):
+  (e) section 154 (abandoning child under 6):
+  (f) section 190 (injuring by unlawful act):
+  (g) section 202 (setting traps, etc):
+  (h) section 249 (acknowledging instrument in false name):
+  (i) section 262 (taking reward for recovery of stolen goods):
+  (j) section 280 (imitating authorised marks):
+  (k) section 281 (imitating customary marks).
+(4) Despite anything in this section, a defendant who is charged with an offence punishable by imprisonment is not bailable as of right if the defendant has been previously convicted of an offence punishable by death or imprisonment.
+(5) Subject to sections 9 to 17, a defendant who is charged with an offence and is not bailable as of right must be released by a court on reasonable terms and conditions unless the court is satisfied that there is just cause for continued detention.
+
+### 8 Consideration of just cause for continued detention
+(1) In considering whether there is just cause for continued detention, the court must take into account the following considerations:
+  (a) whether there is a risk that the defendant may fail to appear in court on the date to which the defendant has been remanded:
+  (b) whether there is a risk that the defendant may interfere with witnesses or other evidence:
+  (c) whether there is a risk that the defendant may offend while on bail.
+(2) In addition to the considerations in subsection (1), when considering whether there is just cause for continued detention, the court may take into account—
+  (a) the nature of the offence with which the defendant is charged, and whether it is a grave or less serious one of its kind:
+  (b) the strength of the evidence and the probability of conviction or otherwise:
+  (c) the seriousness of the punishment to which the defendant is liable, and the severity of the punishment that is likely to be imposed:
+  (d) the character and past conduct or behaviour, in particular proven criminal behaviour, of the defendant:
+  (e) whether the defendant has a history of offending while on bail, or breaching court orders, including orders imposing bail conditions:
+  (f) the likely length of time before the matter comes to hearing or trial:
+  (g) the possibility of prejudice to the defence in the preparation of the defence if the defendant is remanded in custody:
+  (h) any other special matter that is relevant in the particular circumstances.
+(3) When considering an application for bail, any views of a victim of an offence of a kind referred to in section 29 of the Victims' Rights Act 2002, or of a parent or legal guardian of a victim of that kind, conveyed in accordance with section 30 of that Act, must be taken into account.
+(4) In deciding, in relation to a defendant charged with an offence against section 49(1)(a) or section 49(1)(b) of the Domestic Violence Act 1995, whether or not to grant bail to the defendant or allow the defendant to go at large, the need to protect the victim of the alleged offence is the paramount consideration.
+
+### 9 Restriction on bail if defendant charged with treason or espionage
+No defendant who is charged with a crime against section 73 or section 76 of the Crimes Act 1961 (which relate to treason) or against section 78 of the Crimes Act 1961 (which relates to espionage) may be granted bail except by order of the Governor-General or a High Court Judge.
+
+### 10 Restriction on bail if defendant with previous conviction for specified offence charged with further specified offence
+(1) This section applies to a defendant of or over the age of 17 years who is charged with a specified offence (as defined in subsection (2)), and who has 1 or more previous convictions for a specified offence (whether those convictions were for the same specified offence or for different specified offences).
+(2) In this section, specified offence means any offence against any of the following provisions of the Crimes Act 1961:
+  (a) section 128B (sexual violation):
+  (b) section 167 (murder):
+  (c) section 168 (murder):
+  (d) section 171 (manslaughter):
+  (e) section 173 (attempt to murder):
+  (f) section 188 (wounding with intent):
+  (g) section 189 (injuring with intent):
+  (h) section 191 (aggravated wounding or injury):
+  (i) section 198A (using any firearm against law enforcement officer, etc):
+  (j) section 198B (commission of crime with firearm):
+  (k) section 234 (robbery):
+  (l) section 235 (aggravated robbery).
+(3) No defendant to whom this section applies may be granted bail or allowed to go at large except by order of a High Court Judge or a District Court Judge.
+(4) No defendant to whom this section applies may be granted bail or allowed to go at large unless the defendant satisfies the Judge that bail or remand at large should be granted.
+(5) In particular (but without limiting any other matters in respect of which the defendant must satisfy the Judge under subsection (4)), the defendant must satisfy the Judge on the balance of probabilities that the defendant will not, while on bail or at large, commit any offence involving violence against, or danger to the safety of, any other person.
+(6) In deciding whether or not to grant bail to a defendant to whom this section applies or allow the defendant to go at large, the need to protect the safety of the public and, where appropriate, the need to protect the safety of the victim or victims of the alleged offending, are primary considerations.
+
+### 11 Restriction on bail if defendant with previous conviction for specified offence found guilty or pleads guilty to further specified offence
+No defendant of or over the age of 17 years who is found guilty of, or pleads guilty to, a specified offence (as defined in section 10(2)) and who has 1 or more previous convictions for a specified offence (whether those convictions were for the same specified offence or for different specified offences) may, while waiting to be sentenced or otherwise dealt with for the first-mentioned specified offence, be granted bail or allowed to go at large.
+
+### 12 Further restriction on bail in certain cases
+(1) This section applies to a defendant if—
+  (a) the defendant is of or over the age of 17 years and—
+    (i) is charged with an offence under the Crimes Act 1961 that carries a maximum sentence of 3 or more years' imprisonment; and
+    (ii) at the time of the alleged commission of the offence was remanded at large or on bail awaiting trial for another offence under the Crimes Act 1961 that carries a maximum sentence of 3 or more years' imprisonment; and
+    (iii) has at any time previously received a sentence of imprisonment (within the meaning of that term in section 4(1) of the Sentencing Act 2002); or
+  (b) the defendant is of or over the age of 17 years and—
+    (i) is charged with an offence that carries a maximum sentence of 3 or more years' imprisonment; and
+    (ii) has previously received 14 or more sentences of imprisonment (within the meaning of that term in section 4(1) of the Sentencing Act 2002); and
+    (iii) has previously been convicted of an offence that was committed while the defendant was remanded at large or on bail and that carries a maximum sentence of 3 or more years' imprisonment (whether or not the conviction resulted in any of the sentences of imprisonment referred to in subparagraph (ii)).
+(2) For the purposes of subsection (1), a sentence of imprisonment is counted whether or not it was served concurrently with any other 1 or more sentences.
+(3) No defendant to whom this section applies may be granted bail or allowed to go at large except by order of a High Court Judge or a District Court Judge.
+(4) No defendant to whom this section applies may be granted bail or allowed to go at large unless the defendant satisfies the Judge that bail or remand at large should be granted.
+(5) In particular (but without limiting any other matters in respect of which the defendant must satisfy the Judge under subsection (4)), the defendant must satisfy the Judge on the balance of probabilities that the defendant will not, while on bail or at large, commit—
+  (a) any offence involving violence against, or danger to the safety of, any other person; or
+  (b) burglary or any other serious property offence.
+(6) For the purposes of subsection (5), serious property offence means an offence against Part 10 of the Crimes Act 1961 punishable by imprisonment for a term of more than 7 years.
+(7) In deciding whether or not to grant bail to a defendant to whom this section applies or allow the defendant to go at large, the need to protect the safety of the public and, where appropriate, the need to protect the safety of the victim or victims of the alleged offending, are primary considerations.
+(8) For the purposes of this section, a reference in this section to a sentence of imprisonment includes a sentence of corrective training imposed under the Criminal Justice Act 1985 or any former Act.
+
+### 13 Exercise of discretion when considering bail pending sentencing
+(1) If a defendant is found guilty or if a defendant pleads guilty, the court must not grant bail unless it is satisfied on the balance of probabilities that it would be in the interests of justice in the particular case to do so.
+(2) The onus is on the defendant to show cause why bail should be granted.
+(3) When considering the interests of justice under subsection (1), the court may, instead of the considerations in section 8, take into account the following considerations:
+  (a) whether the defendant is likely to receive a sentence of imprisonment:
+  (b) the likely length of time that will pass before the defendant is sentenced:
+  (c) the personal circumstances of the defendant and the defendant's immediate family:
+  (d) any other consideration that the court considers relevant.
+(4) If the defendant is unlikely to receive a sentence of imprisonment, this must count against the defendant being remanded in custody.
+(5) This section is subject to section 11.
+
+### 14 Exercise of discretion when considering bail pending appeal
+(1) If a person is in custody under a conviction and is appealing the conviction or sentence, or both, the court must not grant bail unless it is satisfied on the balance of probabilities that it would be in the interests of justice in the particular case to do so.
+(2) The onus is on the appellant to show cause why bail should be granted.
+(3) When considering the interests of justice under subsection (1) the court may, instead of the considerations in section 8, take into account the following considerations:
+  (a) the apparent strength of the grounds of appeal:
+  (b) the length of the sentence that has been imposed on the appellant:
+  (c) the likely length of time that will pass before the appeal is heard:
+  (d) the personal circumstances of the appellant and the appellant's immediate family:
+  (e) any other consideration that the court considers relevant.
+
+**Special provision as to bail of young persons remanded or committed for trial or sentence**
+
+### 15 Granting of bail to defendant under 20 years of age
+(1) If a court remands or commits for trial or for sentence a defendant who appears to the court to be of or over the age of 17 years but under the age of 20 years, it must release the defendant on bail or otherwise subject to such conditions as it thinks fit.
+(2) Subsection (1) is subject to—but no other enactment.
+  (a) sections 7 (except subsection (5)), 9 to 12, and 16 and 17 of this Act; and
+  (b) subsections (4A) and (4B) of section 142 of the Criminal Justice Act 1985,—
+(3) Subject to subsections (1) and (2) of section 142 of the Criminal Justice Act 1985 and to the Children, Young Persons, and Their Families Act 1989, this section applies in respect of a defendant who is under the age of 17 years and who is charged with or convicted of any offence in a District Court or the High Court.
+
+**Special provisions in respect of bail for drug dealing offences**
+
+### 16 Bail allowable for drug dealing offence only by order of Judge
+(1) A defendant who is charged with or convicted of a drug dealing offence may be granted bail,—
+  (a) in any case, by order of a High Court Judge; or
+  (b) if the defendant does not have any previous conviction for a drug dealing offence, by order of a District Court Judge.
+(2) A defendant who is charged with or convicted of a drug dealing offence may be granted bail only under subsection (1).
+
+### 17 Bail for drug dealing offence may be continued or renewed by District Court
+A District Court may, despite the limitations imposed on District Court Judges by section 16(1)(b) but without limiting the powers of the High Court, continue or renew bail granted under that section (whether granted by a High Court Judge or a District Court Judge)—
+  (a) on the same or substantially the same conditions as were imposed under that section; or
+  (b) with the consent of the defendant and the prosecution, on any conditions.
+
+**General provisions relating to bail hearings**
+
+### 18 Bail hearing may be in private
+A court may, having regard to the interests of the defendant or any other person and to the public interest, order that the whole or any part of an application for bail or an appeal against a bail decision be heard in private.
+
+### 19 Court may prohibit publication of matters relating to hearing
+A court may make an order prohibiting the publication of any report or description of the hearing or any part of the hearing including, without limitation, all or any of the following:
+  (a) the identity of the defendant applying for bail:
+  (b) the decision of the court on the application:
+  (c) the conditions of bail, if bail is granted.
+
+### 20 Evidence in bail hearing
+(1) In hearing an application for bail a court may receive as evidence any statement, document, information, or matter that it considers relevant, whether or not it would be otherwise admissible in a court of law.
+(2) Despite subsection (1), when considering the matter described in section 8(2)(b),—
+  (a) the court may only consider a statement, document, information, or matter that would be admissible in a court of law if made by the appropriate person or given or produced in proper form; but
+  (b) for the purpose of the bail hearing, it does not matter whether the evidence—
+    (i) is given or produced by the appropriate person or given or produced in sworn or unsworn form; or
+    (ii) is otherwise given or produced in a form in which it would be admissible in a court of law.
+
+## Part 2 — Police bail
+
+### 21 Defendant admitted to bail by member of police
+(1) Any member of the police may, if he or she considers it prudent to do so, take the bail bond of a person who—
+  (a) is charged with an offence for which that person may be proceeded against summarily; and
+  (b) has been arrested without warrant; and
+  (c) cannot practicably be brought immediately before a court.
+(2) In determining whether it is prudent to grant bail under subsection (1) to any person charged with an offence against section 49(1)(a) or section 49(1)(b) of the Domestic Violence Act 1995, the need to protect the victim of the alleged offence is the paramount consideration.
+(2A) Despite section 7, no defendant is entitled to be granted bail under this section as of right.
+(3) Any bail bond taken under this section—
+  (a) may be either with or without sureties as the member of the police thinks fit; and
+  (b) must be in such sum or sums as the member of the police thinks sufficient; and
+  (c) is subject to the condition that, at a time and place to be specified in the bond, being a time not later than 7 days from the date of the bond, the person bailed attend personally before a court.
+(4) If a person is granted bail under this section, the member of the police who takes the bail bond of the person may, in addition to the conditions that may be imposed under subsection (3), also impose any condition that might be imposed by a District Court or Registrar under subsection (2) or subsection (3) of section 31.
+(5) A bail bond taken under this section has the same effect as if it had been taken before a Justice.
+
+### 22 Mode of taking bail bond by member of police
+(1) The member of the police taking a bail bond under section 21 must enter in it—
+  (a) the names, residence, and occupation of the defendant; and
+  (b) the names, residence, and occupation of the defendant's surety or sureties (if any) entering into the bond; and
+  (c) the condition or conditions of the bond; and
+  (d) the sums respectively acknowledged.
+(2) The bond must be signed by the defendant and the defendant's surety or sureties (if any).
+(3) If the member of the police taking the bail bond thinks fit, the defendant may be required to deposit a sum of money equal to the sum acknowledged by the defendant.
+(4) If at the time and place specified in the bond the defendant does not attend personally, and after hearing the charge in the defendant's absence the court convicts the defendant, the sum deposited may be applied in payment or part payment of any amount payable under the conviction.
+(5) In a case referred to in subsection (4), if the sum deposited is applied in payment or part payment of any amount payable under the conviction,—
+  (a) section 25(2) does not apply; and
+  (b) if the defendant is entitled to a refund of the sum deposited or any part of it and does not claim it, the member of the police must pay the amount into court.
+
+### 23 Bail and breach of protection order
+(1) If a person is arrested under section 50 of the Domestic Violence Act 1995 and charged with an offence against section 49 of that Act, the person must not be released on bail by a member of the police under section 21 during the 24 hours immediately following the arrest.
+(2) Nothing in subsection (1) limits or affects the obligation of the police to bring a person who is charged with an offence before a court as soon as possible.
+(3) If a person to whom subsection (1) applies is not brought before a court during the 24 hours immediately following the arrest, the person may, at the expiry of that period, be released on bail by a member of the police under section 21.
+(4) If a person to whom subsection (1) applies has also been charged with 1 or more other offences arising out of the same incident, the person must not be released on bail by a member of the police under section 21 in respect of any of those offences during the 24 hours immediately following the arrest for an offence against subsection (1)(a) or subsection (1)(b) of section 49 of the Domestic Violence Act 1995.
+
+### 24 Failure to answer police bail
+A defendant commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who, having been released on bail by a member of the police, fails without reasonable excuse to attend personally at the time and the court specified in the bail bond.
+
+### 25 Effect on bond of attendance or non-attendance of person bailed by member of police
+(1) A bail bond taken by a member of the police is void if the defendant attends personally to answer the charge brought against him or her at the time and place—
+  (a) specified in the bail bond; or
+  (b) to which the hearing has been adjourned under section 45A of the Summary Proceedings Act 1957.
+(2) The District Court or Registrar may certify on the back of the bond or of a copy of the bond drawn up and certified by a member of the police the non-performance of the condition of the bond if—
+  (a) the hearing has not been adjourned under section 45A of the Summary Proceedings Act 1957 and the defendant does not attend personally at the time and place specified in the bond; or
+  (b) the hearing has been so adjourned, but the defendant does not attend personally at the time and place to which the hearing has been adjourned.
+
+### 26 Breach of condition of police bail
+If section 25(2) applies to a defendant who has been released on bail by a member of the police, sections 38 and 43 also apply, with any necessary modifications.
+
+## Part 3 — Bail in summary proceedings
+
+**Application of this Part**
+
+### 27 Application of this Part
+This Part applies to any proceeding where a defendant is proceeded against summarily.
+
+**Granting of bail**
+
+### 28 Bail on adjournment
+(1) In any case referred to in section 46(1) of the Summary Proceedings Act 1957 (which relates to dealing with a defendant on adjournment), the District Court may grant the defendant bail under this section for the period of the adjournment.
+(2) A Registrar may exercise the power conferred by subsection (1) to grant bail if—
+  (a) the informant does not oppose bail; and
+  (b) the offence with which the defendant has been charged—
+    (i) is not punishable by imprisonment; or
+    (ii) is punishable by a term of imprisonment of not more than 10 years.
+
+### 29 Warrant for detention of defendant remanded on bail
+If the defendant is granted bail under section 28, a District Court or Registrar may, and must if the defendant is not released within the period specified in section 32(3)(a),—
+  (a) issue a warrant in the form prescribed under the Summary Proceedings Act 1957 for the detention of the defendant in custody for the period of the adjournment; and
+  (b) certify on the back of the warrant the fact that the District Court or Registrar has granted the defendant bail, and the condition or conditions imposed.
+
+### 30 Defendant, if bailable as of right, to be brought before court on request
+(1) A defendant who is bailable as of right must, if the defendant so requests, be brought before a court for the purpose of making an application for bail if—
+  (a) the defendant has been remanded in custody under section 46 of the Summary Proceedings Act 1957; and
+  (b) the defendant did not make application for bail under this Act at the time of the remand.
+(2) The application may be granted as if it were an application made at the time at which the defendant was remanded.
+(3) If bail is granted under this section, the particulars required to be certified by the District Court or Registrar under section 29(b) must be certified in writing by the court granting bail, and forwarded to the prison manager of the prison in which the defendant is detained under the remand warrant.
+
+### 31 Conditions of bail
+(1) Subject to section 32 and to sections 39A and 65A, if a defendant is granted bail, the defendant must be released on condition that the defendant attend personally—
+  (a) at the time and place at which the hearing is adjourned; or
+  (b) at every time and place to which, during the course of the proceedings, the hearing may from time to time be adjourned.
+(2) The District Court or Registrar may impose, as a further condition of the defendant's release, a condition that the defendant report to the police at the time or times and at the place or places that the Court or Registrar orders.
+(3) Whether or not the District Court or Registrar imposes a condition under subsection (2), the Court or Registrar may impose any other condition that the Court or Registrar considers reasonably necessary to ensure that the defendant—
+  (a) appears in court on the date to which the defendant has been remanded; and
+  (b) does not interfere with any witness or any evidence against the defendant; and
+  (c) does not commit any offence while on bail.
+(4) Despite subsection (3), the Court or Registrar must not require as a further condition of the defendant's release the deposit of any sum or the entering into of any obligation in the nature of a bond, guarantee, or surety, whether by the defendant or any other person.
+
+**Procedures after grant of bail**
+
+### 32 Release of defendant granted bail
+(1) If a defendant is granted bail, the Registrar must prepare a notice of bail setting out the conditions of bail imposed by or under section 31.
+(2) The Registrar or (as the case may require) the District Court or prison manager of the prison in which the defendant is detained must—
+  (a) give the notice of bail to the defendant; and
+  (b) be satisfied that the defendant understands the conditions of bail; and
+  (c) require the defendant to sign the notice of bail.
+(3) If a defendant is granted bail, the District Court or Registrar may direct that the defendant be detained in the custody of the Court—
+  (a) for such time, not exceeding 2 hours, as may be necessary to enable the notice of bail to be prepared and signed; and
+  (b) if, within the period of 2 hours, the defendant is not released (whether by reason of having refused to sign the notice of bail or for any other reason), for such time as may be necessary to enable a warrant to be issued under section 29.
+(4) If bail is granted to a defendant who has been remanded in custody and is in custody only under the warrant issued in respect of the remand, the defendant must be released from custody as soon as is reasonably practicable after the defendant has signed the notice of bail.
+(5) A copy of the notice of bail must be given to the defendant on his or her release or as soon as practicable after that.
+
+### 33 Warrant of deliverance
+(1) Subject to subsection (3), in any case where a warrant has been issued under section 29, a warrant of deliverance in the prescribed form must be issued and sent to the prison manager of the prison in which the defendant is detained.
+(2) The warrant of deliverance may be issued by any District Court Judge or Registrar on being satisfied that the defendant is entitled to be released and that the requirements of section 32 have been met.
+(3) No warrant of deliverance need be issued if the Registrar before whom the defendant signs the notice of bail endorses on the remand a certificate that the defendant has signed the notice of bail, and that the defendant is accordingly entitled to be released.
+
+### 34 Variation of conditions of bail
+(1) If the defendant has been granted bail, a District Court may, on the application of the defendant or the informant, make an order varying or revoking any condition of bail or substituting or imposing any other condition of bail.
+(2) A Registrar may exercise the power conferred by subsection (1) to make an order if—
+  (a) the informant does not object; and
+  (b) the offence with which the defendant has been charged—
+    (i) is not punishable by imprisonment; or
+    (ii) is punishable by a term of imprisonment of not more than 10 years.
+(3) If a District Court or Registrar has, in granting bail to any defendant, imposed the condition that the defendant report to the police at such time or times and at such place or places as the Court or Registrar orders, any Registrar may, on the application of the defendant, make an order varying the time or times or the place or places at which the defendant is required to so report.
+(4) If a District Court or Registrar varies or revokes any condition of bail or substitutes or imposes any other condition of bail under subsection (1), the following provisions apply:
+  (a) if the defendant is present at the Court, the Registrar must—
+    (i) as soon as is reasonably practicable prepare a new notice of bail setting out the conditions of bail as amended (if any); and
+    (ii) be satisfied that the defendant understands the conditions of bail; and
+    (iii) require the defendant to sign the notice of bail:
+  (b) if the defendant is not present at the Court, the Registrar must send written notice to the defendant requiring the defendant to attend at a specified time and place for the execution of a fresh notice of bail containing the conditions as amended (if any).
+(5) If, in any case to which subsection (4) applies, the defendant fails without reasonable excuse to attend at the time and place required, or fails to sign a fresh notice of bail, the Registrar or a District Court Judge may issue a warrant for the arrest of the defendant.
+
+### 35 Defendant on bail may be arrested without warrant in certain circumstances
+(1) Any member of the police may arrest without warrant a defendant who has been released on bail by a District Court or Registrar or member of the police if the member of the police believes on reasonable grounds that—
+  (a) the defendant has absconded or is about to abscond for the purpose of evading justice; or
+  (b) the defendant has contravened or failed to comply with any condition of bail.
+(2) A defendant who is arrested under subsection (1) must be brought before a District Court as soon as possible.
+(3) In any such case, the District Court, on being satisfied that the defendant had absconded or was about to abscond or has contravened or failed to comply with any condition of bail, must reconsider the question of bail.
+(4) After a defendant has been arrested under subsection (1), the defendant cannot be bailed as of right and is bailable only under section 7(5).
+(5) Nothing in this section prevents a member of the police from seeking a warrant to arrest a defendant under section 36.
+
+### 36 Issue of warrant to arrest defendant absconding or breaching bail condition or who fails to answer bail
+(1) A District Court or Registrar may issue a warrant in the prescribed form for the arrest of a defendant if—
+  (a) the District Court or Registrar is satisfied by evidence on oath that—
+    (i) the defendant has absconded or is about to abscond for the purpose of evading justice; or
+    (ii) the defendant has contravened or failed to comply with any condition of bail; or
+  (b) the defendant—
+    (i) does not attend personally at the time and place specified in the notice of bail or, as the case may be, the bail bond; or
+    (ii) does not attend personally at any time and place to which during the course of the proceedings the hearing has been adjourned.
+(2) A warrant to arrest a defendant under this section must be directed to a member of the police by name or generally to every member of the police. The warrant may be executed by any member of the police.
+(3) For the purpose of executing a warrant issued under this section, the member of the police executing it may at any time enter on to any premises, by force if necessary, if the member of the police has reasonable grounds to believe that the defendant against whom it is issued is on those premises.
+(4) The member of the police executing the warrant—
+  (a) must have the warrant with him or her; and
+  (b) must produce it on initial entry and, if requested, at any subsequent time; and
+  (c) if he or she is not in uniform, produce evidence that he or she is a member of the police.
+(5) If a defendant is arrested under a warrant issued under this section, subsections (2) to (4) of section 35 apply as if the defendant had been arrested under section 35(1).
+
+### 37 Failure to answer bail
+A defendant commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $2,000 who, having been released on bail by a District Court or Registrar,—
+  (a) fails without reasonable excuse to attend personally at the time and the court specified in the notice of bail; or
+  (b) fails without reasonable excuse to attend personally at any time and place to which during the course of the proceedings the hearing has been adjourned; or
+  (c) fails without reasonable excuse to comply with. any condition imposed under section 39A(3).
+
+### 38 Non-performance of condition of bail may be certified and recorded
+(1) If a defendant who has been released on bail at any time fails to comply with any condition of bail, a District Court may certify on the back of the notice of bail or, as the case may require, the bail bond the non-performance of that condition.
+(2) A certificate given by a District Court under subsection (1) is, in the absence of proof to the contrary, sufficient evidence for the purposes of section 24 and section 37 that the defendant has failed to comply with the condition of the notice of bail or bail bond specified in the certificate.
+(3) In addition to the certification described in subsection (1), if a defendant who has been released on bail at any time fails to comply with any condition of bail, without reasonable excuse, a District Court must direct the Registrar that the nature of the condition and the non-performance of the condition be entered in the Criminal Records kept under section 71 of the Summary Proceedings Act 1957.
+(4) Despite subsection (3), the District Court may decide not to direct that the failure to comply be entered in the Criminal Records if in the Court's opinion the failure to comply is of such a minor nature that it does not warrant being taken into account when considering an application for bail from the defendant on a subsequent occasion.
+(5) Access to any entry of a non-performance of a bail condition in the Criminal Records, and the evidential status of the entry is governed by subsections (3) and (4) of section 71 of the Summary Proceedings Act 1957.
+(6) A failure to comply with any condition of bail that is entered in the Criminal Records under subsection (3) may be considered in any subsequent application for bail made by that defendant over his or her lifetime.
+
+**Bail pending sentencing**
+
+### 39 Bail pending sentencing
+(1) If the District Court finds the defendant guilty, or if the defendant pleads guilty, and if the defendant is not sentenced or dealt with in any other manner, then the Court may in its discretion—
+  (a) remand the defendant in custody, or
+  (b) grant the defendant bail to appear for sentence at some future sitting of the Court when called upon.
+(2) In any such case, any Judge may, at a subsequent sitting, sentence the defendant or deal with the defendant in any other manner authorised by law.
+
+**Bail on deferment of sentence**
+
+### 39A Bail on deferment of sentence
+(1) This section applies if the start date of a sentence imposed on an offender following summary conviction is deferred under section 100 of the Sentencing Act 2002 and the offender is not liable to be detained under any other sentence or order.
+(2) If this section applies, the court that defers the start date of the offender's sentence must grant the offender bail.
+(3) An offender who is granted bail under this section must be released on condition that the offender must,—
+  (a) if he or she has been given leave to apply for home detention,—
+    (i) apply, within 2 weeks of the bail being granted, for home detention in accordance with section 33(1) of the Parole Act 2002; and
+    (ii) appear at any hearing by the New Zealand Parole Board of that application; and
+  (b) surrender himself or herself to the prison manager of the prison concerned at the expiry of the period of the deferral, being the period specified by the court or the period ending with the date on which the New Zealand Parole Board determines the application for home detention, whichever is sooner.
+(4) The provisions of sections 31 to 38, and 41 to 44, as far as they are applicable and with all necessary modifications, apply as if the offender were a defendant who had been granted bail.
+(5) If any decision is made under section 34(1) (as applied by subsection (4)) in respect of an offender, the provisions of section 41(3) to (6) and section 42, as far as they are applicable and with all necessary modifications, apply as if the offender were a defendant granted bail.
+
+**Appeals on question of bail**
+
+### 40 Appeals from decisions of Community Magistrates
+(1) Either party to any proceedings that are heard by a District Court presided over by a Community Magistrate or 2 or more Community Magistrates has, subject to subsection (2), the same rights of appeal under section 41 as the party would have had if the Court that heard the proceedings had been presided over by a District Court Judge.
+(2) An appeal brought by a party to proceedings to which subsection (1) applies is to be an appeal to a District Court presided over by a District Court Judge.
+(3) For the purposes of an appeal to which subsection (1) applies, sections 41 to 47 apply, subject to the modifications set out in Schedule 1 and to all other necessary modifications.
+
+### 41 Appeal from decision of District Court relating to bail
+(1) If a District Court Judge or Justice or Justices refuse to grant bail to a defendant (whether before or after conviction), the defendant may appeal to the High Court against that refusal.
+(2) If a District Court Judge or Justice or Justices grant bail to a defendant (whether before or after conviction), the informant may appeal to the High Court against that decision.
+(3) If, in respect of any grant of bail to a defendant (whether before or after conviction),—the defendant or the informant may appeal to the High Court against the imposition of that condition of bail or, as the case may be, against that refusal or against the decision in respect of that application.
+  (a) a District Court Judge or Justice or Justices have imposed any condition of bail, or have refused to impose any condition of bail, or any particular condition of bail; or
+  (b) a District Court Judge or Justice or Justices have, on an application made under section 34(1), made an order varying or revoking any condition of bail or substituting or imposing any other condition of bail, or refused to make such an order,—
+(4) For the purposes of an appeal under this section, the failure of a District Court Judge or Justice or Justices to impose any condition of bail, or any particular condition of bail, on any occasion on which the condition could lawfully have been imposed is deemed to be a refusal to impose the condition.
+(5)
+(6) An appeal under this section is by way of rehearing.
+
+### 42 Procedural provisions relating to appeal under section 41
+(1) Subject to subsections (2) and (4), sections 116 to 143 of the Summary Proceedings Act 1957, as far as they are applicable and with all necessary modifications, apply to an appeal under section 41 as if the decision of the District Court appealed against were an order.
+(2) Despite anything in section 119(2) of the Summary Proceedings Act 1957, and despite any other enactment or rule of law, on the hearing of an appeal under section 41 it is not necessary to produce—
+  (a) any note or transcript of the evidence adduced to the District Court appealed from; or
+  (b) any note of the reasons for the decision appealed against; or
+  (c) any copy of any note or transcript referred to in paragraph (a) or paragraph (b).
+(3) Nothing in section 144 of the Summary Proceedings Act 1957 applies in respect of an appeal under section 41.
+(4) No decision of a District Court Judge or Justice or Justices appealed against under section 41 is suspended merely because notice of that appeal has been given.
+(5) An appeal under section 41 that is not heard before the date on which the decision appealed against ceases to have any effect lapses on that date and is deemed to have been dismissed by the High Court for non-prosecution.
+(6) If, in the case of an appeal under section 41(2), the defendant does not appear at the hearing of the appeal, the High Court may, if it thinks fit, issue a warrant for the arrest of the defendant.
+
+### 43 Appeal against entry of non-performance of condition of bail in Criminal Records
+(1) If a District Court Judge or Justice or Justices direct that the non-performance of a bail condition be entered in the Criminal Records under section 38, the defendant may, within 28 days of the direction being made, appeal the direction to the High Court.
+(2) After considering an appeal under subsection (1), the High Court may order that—
+  (a) the direction stand; or
+  (b) the direction be amended; or
+  (c) the direction be revoked.
+(3) There is no further right of appeal against a direction to enter the non-performance of a condition of bail in the Criminal Records than that given by this section.
+(4) No direction appealed against under this section is suspended merely because notice of that appeal has been given.
+
+### 44 Execution of decision of High Court on appeal relating to bail
+(1) If, on an appeal under section 41, the High Court determines that bail should not be granted or, as the case may be, should not be continued, a warrant for the detention of the defendant in custody must be issued out of the High Court and signed by a Judge.
+(2) The person who executes the warrant must ensure that a copy of the notice of the result of the appeal is given to the defendant when the warrant is executed or as soon as practicable after the warrant is executed.
+(3) If, on an appeal in respect of any condition of bail, the High Court varies or revokes any condition of bail or substitutes or imposes any other condition of bail, the following provisions apply:
+  (a) if the defendant is present at the High Court, the Registrar of the High Court must—
+    (i) as soon as is reasonably practicable prepare a new notice of bail setting out the conditions of bail as amended (if any); and
+    (ii) satisfy himself or herself that the defendant understands the conditions of bail; and
+    (iii) require the defendant to sign the notice of bail:
+  (b) if the defendant is not present at the High Court, the Registrar of the District Court appealed from must send written notice to the defendant requiring him or her to attend at a specified time and place for the execution of a fresh notice of bail containing the conditions (if any) required to give effect to the High Court's decision.
+(4) If, in any case to which subsection (3) applies, the defendant fails without reasonable excuse to attend at the time and place required, or fails to enter into a fresh notice of bail, the Registrar of the District Court appealed from must refer the matter to a District Court Judge who may issue a warrant for the arrest of the defendant.
+
+**Bail pending appeal against conviction or sentence**
+
+### 45 Granting of bail to appellant who is in custody
+(1) This section applies if a person is in custody under a conviction and is appealing the conviction or sentence, or both.
+(2) If the appellant is in custody only under the conviction to which the appeal relates, the appellant is bailable at any time before the hearing of the appeal—
+  (a) at the discretion of the District Court Judge or Justice or Justices who presided over the District Court whose determination is appealed against; or
+  (b) if that District Court Judge or Justice or Justices are not available, at the discretion of some other District Court Judge or Justice.
+(3) Subject to the provisions of section 32 (as applied by subsection (4)), if an appellant is granted bail, the appellant must be released on condition that the appellant attend personally at the High Court on the day on which the appeal is to be heard and on any day to which the hearing may from time to time be adjourned.
+(4) If an appellant is granted bail under this section, the provisions of sections 31 to 38, and 43, as far as they are applicable and with any necessary modifications, apply as if the appellant were a defendant remanded in custody who had been granted bail.
+(5) If an appellant is granted or refused bail under this section, or any decision is made under section 34(1) (as applied by subsection (4)) in respect of any appellant, the provisions of sections 41 and 42, as far as they are applicable and with all necessary modifications, apply as if the appellant were a defendant who had been granted or, as the case may be, refused bail.
+(6) For the purposes of this section, an appellant is not deemed to be in custody only under the conviction to which the appeal relates if a direction has been given under section 83 of the Sentencing Act 2002 that another sentence or term of imprisonment is to follow the sentence imposed on that conviction, and the appellant has not appealed against the conviction in respect of which that other sentence or term was imposed.
+
+### 46 Time on bail pending appeal not to be taken as time served
+Section 95 of the Parole Act 2002 applies if an appellant is released on bail pending an appeal.
+
+### 47 Surrender of appellant released on bail
+An appellant who has been released from custody on bail pending the hearing of the appeal may surrender himself or herself and apply to a District Court Judge or Justice for the discharge of bail, and the District Court Judge or Justice may then issue a warrant in the prescribed form for the arrest of the appellant and for his or her committal to a prison for the unexpired term of the sentence originally imposed.
+
+## Part 4 — Bail when proceedings taken by way of indictment
+
+**Application of this Part**
+
+### 48 Application of this Part
+This Part applies to any proceeding where a defendant is proceeded against by way of indictment.
+
+**Bail and preliminary hearing of indictable offences**
+
+### 49 Application of provisions of Part 3
+(1) The following provisions of Part 3, with the necessary modifications, apply with respect to proceedings to which Part 5 of the Summary Proceedings Act 1957 (which relates to preliminary hearings of indictable offences) applies, as if references in those provisions to the hearing were references to the preliminary hearing or the proceedings under section 153A of the Summary Proceedings Act 1957, as the case may be, namely:
+  (a) section 28 (bail on adjournment):
+  (b) section 29 (warrant for detention of defendant remanded on bail):
+  (c) section 30 (bringing before the court of a defendant bailable as of right who requests bail):
+  (d) section 31 (conditions of bail):
+  (e) section 32 (release of defendant granted bail):
+  (f) section 34 (variation of conditions of bail):
+  (g) section 35 (defendant on bail may be arrested without warrant in certain circumstances):
+  (h) section 36 (issue of warrant to arrest defendant absconding or breaching bail condition or who fails to answer bail):
+  (i) section 37 (failure to answer bail):
+  (j) section 38 (certification and recording of non-performance of condition of bail):
+  (k) section 43 (appeal against entry of non-performance of condition of bail in Criminal Records).
+(2) If, by virtue of any of the provisions applied by subsection (1) with respect to proceedings to which this Part applies, a defendant is granted or refused bail, or any District Court varies or revokes or substitutes or imposes any condition of bail, or refuses to vary or revoke or impose any condition of bail, the provisions of sections 41 and 42, as far as they are applicable and with all necessary modifications, apply accordingly.
+
+### 50 Additional bail provisions if proceedings brought under section 153A of Summary Proceedings Act 1957
+(1) If a defendant pleads guilty before or during the preliminary hearing, and proceedings are adjourned under section 153A(6)(a) of the Summary Proceedings Act 1957, then the District Court may, in its discretion, grant bail to the defendant.
+(2) If the defendant is granted bail, the provisions of Part 3 apply.
+
+### 51 Bail if evidence adduced at preliminary hearing sufficient for defendant to be committed for trial or for sentence, and defendant then pleads guilty
+(1) If proceedings are adjourned under section 168(1)(b)(i) of the Summary Proceedings Act 1957 (which relates to adjournment for sentencing after a guilty plea), then, subject to any High Court bail determination that is for the time being in force in respect of the defendant, the District Court may, in its discretion, grant bail to the defendant.
+(2) If the defendant is granted bail, the provisions of Part 3 apply.
+
+**Bail after committal**
+
+### 52 Release on bail of defendant committed for trial
+(1) If a defendant committed for trial is granted bail, sections 29, 30(3), 31 to 38, and 43, as far as they are applicable and with any necessary modifications, apply as if—
+  (a) that person were a defendant remanded in custody who had been granted bail; and
+  (b) for section 31(1) there were substituted subsection (2) of this section.
+(2) Subject to section 32, if a defendant is granted bail, the defendant must be released on condition that—
+  (a) the defendant attend personally and report to the Registrar of the court specified in the notice of bail, at the place specified, on the date during the sittings of that court then current for the trial of criminal cases at that place as may be notified by the Registrar in writing to the defendant or to his or her counsel and also to the sureties under any surety bond; or
+  (b) the defendant report on the first day of the next sitting of the court specified in the notice of bail, at the place specified, and that the defendant attend personally after the first day of those next sittings, on such other day or days (being a day or days that occur during the then current sittings of the court or during the next or any subsequent such sittings) as may be notified by the Registrar, in writing, to the defendant or his or her counsel.
+(3) If the defendant has been committed for trial and is granted bail, any variation of the conditions of bail under section 34 (as applied by this section) may be made at any time before the first date on which the defendant is required in accordance with this section to report to the Registrar of the High Court or District Court, as the case may be.
+
+### 53 Release on bail of defendant committed for sentence
+(1) If a defendant is committed for sentence, then the committing court may, in its discretion, grant bail to the defendant.
+(2) If the defendant is granted bail, sections 28, 31 to 38, and 43, as far as they are applicable and with any necessary modifications, apply as if—
+  (a) that person were a defendant remanded in custody who had been granted bail; and
+  (b) for all the words in paragraphs (a) and (b) of section 31(1) there were substituted the words at the High Court at the place and on the date specified in the notice of bail.
+
+### 54 Further provisions applying to defendant committed for trial or sentence
+(1) If a defendant committed for trial or sentence is granted bail, the District Court must certify on the back of the warrant issued under section 171(1) of the Summary Proceedings Act 1957 its consent to the defendant being bailed, and the condition or conditions imposed.
+(2) No warrant issued under section 171(1) of the Summary Proceedings Act 1957 ceases to have effect by reason only that the defendant is released on bail, but the warrant is deemed to be suspended during any period that the defendant is on bail.
+(3) If, by virtue of any of the provisions of this section or of Part 3 (as applied by sections 52 and 53), a defendant who has been committed for trial or for sentence is granted or refused bail, or any District Court varies, revokes, substitutes, or imposes any condition of bail, or refuses to vary, revoke, substitute, or impose any condition of bail, sections 41 and 42, as far as they are applicable and with all necessary modifications, apply accordingly.
+
+### 55 Application of additional provisions if committal is to District Court
+If committal is to a District Court under Part 2A of the District Courts Act 1947, certain sections of Part 3 apply, as provided by section 28E of the District Courts Act 1947.
+
+**General provisions relating to bail in indictable proceedings**
+
+### 56 Detention while bail bond prepared and signed
+If a defendant is granted bail by the High Court, a High Court Judge may direct that the defendant be detained in the custody of the High Court—
+  (a) for such time, not exceeding 2 hours, as may be necessary to enable the bail bond to be prepared and signed; and
+  (b) if, within that period of 2 hours, the defendant is not released (whether by reason of having refused to sign the bail bond or for any other reason), for such time as may be necessary to enable the issue of a warrant for the detention of the defendant in custody.
+
+### 57 Variation of conditions of bail
+(1) Subject to subsection (3), if a defendant is granted bail by the High Court, a High Court Judge may, on the application of the prosecutor or the defendant, make an order varying or revoking any condition of bail or substituting or imposing any other condition of bail.
+(2) Subject to subsection (3), if the High Court has, in granting bail to a defendant, imposed the condition that the defendant report to the police at such time or times and at such place or places as the court orders, any Registrar of the High Court or of a District Court may, on the application of the defendant, make an order varying the time or times or the place or places at which the defendant is required to report.
+(3) No application may be made under subsection (1) or subsection (2) in respect of a bail bond that has been entered into in any case where sureties are required, unless the sureties to the bail bond have consented to the making of the application.
+(4) If a High Court varies or revokes any condition of bail or substitutes or imposes any other condition of bail under subsection (1), the following provisions apply:
+  (a) if the defendant is present at the High Court, the Registrar must—
+    (i) as soon as is reasonably practicable prepare a new bail bond setting out the conditions of bail as amended (if any); and
+    (ii) satisfy himself or herself that the defendant granted bail understands the conditions of bail; and
+    (iii) require the defendant to sign the bail bond:
+  (b) if the defendant is not present at the High Court, the Registrar of the Court that varied or revoked or substituted or imposed the condition must send written notice to the defendant and to every surety (if any) requiring them to attend at a specified time and place for the execution of a fresh bail bond containing the conditions as amended (if any).
+(5) If, in any case to which subsection (4) applies, the defendant fails without reasonable excuse to attend at the time and place required, or fails to enter into a fresh bail bond, the Registrar must refer the matter to a Judge, who may issue a warrant for the arrest of the defendant.
+
+### 58 Defendant on bail may be arrested without warrant in certain circumstances
+(1) If, in respect of a defendant who has been released on bail by the Supreme Court or the Court of Appeal or the High Court or a District Court, any member of the police believes on reasonable grounds that—the member of the police may arrest the defendant without warrant.
+  (a) the defendant has absconded or is about to abscond for the purpose of evading justice; or
+  (b) the defendant has contravened or failed to comply with any condition of bail,—
+(2) A defendant who is arrested under subsection (1) must be brought before a High Court Judge or a District Court Judge as soon as possible.
+(3) In any such case the Judge, on being satisfied that the defendant had absconded or was about to abscond or has contravened or failed to comply with any condition of bail, must reconsider the question of bail.
+(4) A defendant arrested under this section is after that bailable only at the discretion of the Judge.
+(5) This section does not apply if section 59 applies.
+(6) Nothing in this section prevents a member of the police from seeking a warrant to arrest a defendant under section 60.
+
+### 59 Arrest of defendant charged with drug dealing offence
+(1) If a defendant has been released on bail under section 16, any member of the police may arrest the defendant without warrant if—
+  (a) the member of the police believes on reasonable grounds that the defendant has absconded or is about to abscond for the purpose of evading justice; or
+  (b) the police have been notified in writing by any surety for the defendant that the surety believes that the defendant has absconded or is about to abscond for the purpose of evading justice, and the member of the police is satisfied that there are reasonable grounds for that belief; or
+  (c) the member of the police believes, on reasonable grounds, that the defendant has broken, is breaking, or is about to break, any condition of bail (whether imposed under section 31, or otherwise); or
+  (d) the police have been notified in writing by any surety for the defendant that the surety believes that the defendant has broken, is breaking, or is about to break, any such condition of bail, and the member of the police is satisfied that there are reasonable grounds for that belief.
+(2) A defendant who has been arrested under subsection (1) must be brought before a High Court Judge as soon as possible, and in any event not later than 72 hours after the arrest.
+(3) If a defendant is brought before a High Court Judge under subsection (2), the Judge must, if satisfied on the balance of probabilities that the defendant has absconded or was about to abscond, remand the defendant in custody.
+(4) If a defendant is brought before a High Court Judge under subsection (2), the Judge may,—
+  (a) if satisfied on the balance of probabilities that the defendant has broken, was breaking, or was about to break any condition of bail, remand the defendant in custody; or
+  (b) release the defendant.
+(5) If a defendant is released under subsection (4)(b), the defendant's bail bond continues in force in all respects as if the defendant had not been arrested under subsection (1).
+(6) Despite subsections (4)(b) and (5), if a defendant was arrested under subsection (1)(d), the Judge may release the defendant under subsection (4)(b) only if—
+  (a) the surety consents in writing to the release; or
+  (b) a fresh bail bond is issued.
+(7) Nothing in this section prevents a member of the police from seeking a warrant to arrest a defendant under section 60.
+
+### 60 Issue of warrant to arrest defendant absconding or breaching bail condition
+(1) The High Court or a District Court or a Registrar of the High Court or a District Court may issue a warrant in the prescribed form for the arrest of a defendant if the High Court or District Court or Registrar is satisfied by evidence on oath that—
+  (a) the defendant has absconded or is about to abscond for the purpose of evading justice; or
+  (b) the defendant has contravened or failed to comply with any condition of bail.
+(2) A warrant to arrest a defendant under this section must be directed to a member of the police by name or generally to every member of the police. The warrant may be executed by any member of the police.
+(3) For the purposes of executing a warrant issued under this section, the member of the police executing it may at any time enter on to any premises, by force if necessary, if the member of the police has reasonable grounds to believe that the defendant against whom it is issued is on those premises.
+(4) The member of the police executing the warrant—
+  (a) must have the warrant with him or her; and
+  (b) must produce it on initial entry and, if requested, at any subsequent time; and
+  (c) if he or she is not in uniform, produce evidence that he or she is a member of the police.
+(5) If a defendant is arrested under a warrant issued under this section,—
+  (a) subsections (2) to (4) of section 58 apply as if the defendant had been arrested under section 58(1); or
+  (b) in the case of a person who is charged with or convicted of a drug dealing offence and who has been released on bail in relation to that offence, subsections (2) to (6) of section 59 apply as if the defendant had been arrested under section 59(1).
+
+### 61 Bench warrant
+(1) If a defendant against whom an indictment has been filed, or who has been committed for sentence, does not attend to plead to the indictment or, as the case may require, to be sentenced, the court before which the defendant would have been tried or by which the defendant would have been sentenced may issue a warrant for the defendant's arrest, whether or not the defendant is under bond to attend.
+(2) If the court that issued the warrant is not sitting for the trial of criminal cases when the defendant is arrested, the defendant must be brought before a Justice or Community Magistrate, who may remand the defendant in custody to attend before the court at its next sittings or may grant the defendant bail.
+(3) If the defendant has failed without reasonable excuse to attend according to his or her bond, the defendant is not bailable as of right.
+(4) If a defendant who has been committed for sentence is arrested pursuant to a warrant issued under subsection (1), the defendant must be brought before a High Court Judge at the most convenient place.
+
+### 62 Failure to answer bail
+A defendant commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $2,000 who, having been released on bail by the Court of Appeal or the High Court or a District Court,—
+  (a) fails without reasonable excuse to attend personally at the time and the court specified in the bail bond or, as the case may require, the notice of bail; or
+  (b) fails without reasonable excuse to attend personally at any time and place to which during the course of the proceedings the hearing has been adjourned; or
+  (c) fails without reasonable excuse to comply with any condition imposed under section 65A(3).
+
+### 63 Non-performance of condition of bail may be certified and recorded
+(1) If a defendant who has been released on bail at any time fails to comply with any condition of bail, a High Court Judge or a District Court Judge may certify on the back of the bail bond or, as the case may require, the notice of bail the non-performance of that condition.
+(2) A certificate given by a High Court Judge or a District Court Judge under subsection (1) is, in the absence of proof to the contrary, sufficient evidence for the purposes of section 62 that the defendant has failed to comply with the condition of the bail bond or notice of bail specified in the certificate.
+(3) In addition to the certification described in subsection (1), if a defendant who has been released on bail at any time fails, without reasonable excuse, to comply with any condition of bail, a High Court Judge or a District Court Judge must direct the Registrar of the court to enter the nature of the condition and the non-performance of the condition in the Crown Book kept under section 353 of the Crimes Act 1961 or any other Register that the Registrar chooses to keep for the purpose.
+(4) Despite subsection (3), the Judge may decide not to direct that the failure to comply be entered into the Crown Book or other Register referred to in that subsection if in the Judge's opinion the failure to comply is of such a minor nature that it does not warrant being taken into account when considering an application for bail from the defendant on a subsequent occasion.
+(5) Access to any entry of a non-performance of a bail condition in the Crown Book or other Register referred to in subsection (3), and the evidential status of the entry, is governed by subsections (3) and (4) of section 71 of the Summary Proceedings Act 1957 with all necessary modifications as if the entry were an entry in the Criminal Records.
+(6) A failure to comply with any condition of bail that is entered into the Crown Book or other Register referred to in subsection (3) may be considered in any subsequent application for bail made by that person over his or her lifetime.
+
+### 64 Powers of court of committal as to custody or bail of defendant when order made for trial at substituted court
+If an order is made for the trial of a defendant at a substituted court under section 322 of the Crimes Act 1961, the Judge of the court of committal may grant the defendant bail or commit the defendant to a prison pending the defendant's trial.
+
+**Bail pending sentencing**
+
+### 65 Bail pending sentencing
+If the jury finds the defendant guilty, or if the defendant pleads guilty, and if no motion in arrest of judgment is made, or if the High Court finds against the defendant on any such motion, and if the defendant is not sentenced or dealt with under section 371(5) of the Crimes Act 1961, then the Court may, in its discretion,—
+  (a) remand the defendant in custody; or
+  (b) discharge the defendant from custody on the defendant entering into a bail bond, with or without sureties as it thinks fit, to appear for sentence at some future sitting of the Court or when called upon.
+
+**Bail on deferment of sentence**
+
+### 65A Bail on deferment of sentence
+(1) This section applies if the start date of a sentence imposed on an offender following conviction on indictment is deferred under section 100 of the Sentencing Act 2002 and the offender is not liable to be detained under any other sentence or order.
+(2) If this section applies, the court that defers the start date of the offender's sentence must grant the offender bail.
+(3) An offender who is granted bail under this section must be released on condition that the offender must,—
+  (a) if he or she has been given leave to apply for home detention,—
+    (i) apply, within 2 weeks of the bail being granted, for home detention in accordance with section 33(1) of the Parole Act 2002; and
+    (ii) appear at any hearing by the New Zealand Parole Board of that application; and
+  (b) surrender himself or herself to the prison manager of the prison concerned at the expiry of the period of the deferral, being the period specified by the court or the period ending with the date on which the New Zealand Parole Board determines the application for home detention, whichever is sooner.
+(4) The following provisions, as far as they are applicable and with all necessary modifications, apply as if the offender were a defendant who had been granted bail:—
+  (a) in the case of an offender granted bail by a District Court, sections 31 to 38, and 41 to 44:
+  (b) in the case of an offender granted bail by the High Court or the Court of Appeal, sections 56 to 63 and sections 66 to 69.
+(5) If any decision is made under section 34(1) (as applied by subsection (4)(a)) in respect of an offender, the provisions of section 41(3) to (6) and section 42, as. far as they are applicable and with all necessary modifications, apply as if the offender were a defendant granted bail.
+(6) If any decision is made under section 57(1) (as applied by subsection (4)(b)), in respect of an offender, the provisions of sections 66 and 67, as far as they are applicable and with all necessary modifications, apply as if the offender were a defendant granted bail.
+
+**Appeals on question of bail**
+
+### 66 Appeal from decision of High Court relating to bail
+(1) Subject to subsection (4), this section applies to any decision made (whether under any enactment or rule of law or otherwise) by a High Court Judge to—
+  (a) grant or refuse bail to a defendant; or
+  (b) impose or substitute or revoke or vary any condition of bail; or
+  (c) refuse to impose any condition of bail or any particular condition of bail; or
+  (d) refuse to vary or revoke any condition of bail.
+(2) Either the prosecutor or the defendant may appeal to the Court of Appeal against any decision to which this section applies.
+(3) For the purposes of an appeal under this section, the failure of a High Court Judge to impose any condition of bail, or any particular condition of bail, on any occasion on which the condition could lawfully have been imposed is deemed to be a refusal to impose the condition.
+(4) Nothing in this section applies in respect of any decision made by a High Court Judge if that decision was made on appeal from any decision of a District Court.
+
+### 67 Procedural provisions relating to appeal under section 66
+(1) A defendant wishing to appeal under section 66 must file notice of the defendant's intention to appeal with the Registrar of the Court of Appeal within 10 days after the date of the decision to be appealed against.
+(2) An appeal under section 66 that is not heard before the date on which the decision appealed against ceases to have any effect lapses on that date, and is deemed to have been dismissed by the Court of Appeal for non-prosecution.
+(3) No decision of a High Court Judge appealed against under section 66 is suspended merely because notice of that appeal has been given.
+(3A) No decision of a High Court Judge appealed against under section 66 is suspended merely because the defendant has applied for or been given leave to appeal to the Supreme Court against a decision of the Court of Appeal on the appeal under section 66.
+(4) On an appeal under section 66 the Court of Appeal may confirm the decision appealed against, or vary it, or set it aside and make such other order as the Court of Appeal thinks ought to have been made in the first place.
+
+### 68 Appeal against entry of non-performance of condition of bail into Crown Book or other Register
+(1) If a High Court Judge or a District Court Judge directs that the non-performance of a bail condition be entered into the Crown Book or other Register referred to in section 63(3), the defendant may, within 28 days of the direction being made, appeal the direction to the High Court or the Court of Appeal, as the case may require.
+(2) After considering an appeal under subsection (1), the High Court or Court of Appeal may order that—
+  (a) the direction stand; or
+  (b) the direction be amended; or
+  (c) the direction be revoked.
+(3) There is no further right of appeal against a direction to enter the non-performance of a condition of bail into the Crown Book or other Register referred to in section 63(3) than that given by this section.
+(4) No direction appealed against under this section is suspended merely because notice of that appeal has been given.
+
+### 69 Execution of decision of Court of Appeal on appeal relating to bail
+(1) If, on an appeal under section 66 against a refusal to grant bail to a defendant, the Court of Appeal determines that bail should be granted, the Court of Appeal must order that the defendant be released on bail, subject to such conditions as the Court of Appeal thinks fit.
+(2) If, on an appeal under section 66 in respect of any condition of bail, the Court of Appeal cancels or amends a condition of bail or substitutes or imposes any other condition, the Registrar of the Court whose decision was appealed against must send written notice to the defendant and to every surety (if any) requiring them to attend at a specified time and place for the execution of a fresh bail bond containing the conditions (if any) required to give effect to the Court of Appeal's decision.
+(3) If, in any case to which subsection (2) applies, the defendant fails without reasonable excuse to attend at the time and place required, or fails to enter into a fresh bail bond, the Registrar must refer the matter to a High Court Judge who may issue a warrant for the arrest of the defendant.
+(4) If, on an appeal under section 66 against a grant of bail, the Court of Appeal determines that bail not be granted or, as the case may be, not be continued, a warrant for the detention in custody of the defendant must be issued out of the Court of Appeal and signed by a Judge of the Court.
+(5) The person who executes the warrant under subsection (4) must ensure that a copy of the notice of the result of the appeal is given to the defendant when the warrant is executed or as soon as practicable after the warrant is executed.
+(6) A defendant to whom subsection (4) applies and who is not in custody may be arrested without warrant by any member of the police or any officer of a prison.
+
+### 69A Execution of decision of Supreme Court on appeal relating to bail
+(1) If, on an appeal to the Supreme Court against a decision of the Court of Appeal on an appeal under section 66 against a refusal to grant bail to a defendant, the Supreme Court determines that bail should be granted, the Supreme Court must order that the defendant be released on bail, subject to any conditions the Supreme Court thinks fit.
+(2) If, on an appeal to the Supreme Court against a decision of the Court of Appeal on an appeal under section 66 in respect of any condition of bail, the Supreme Court cancels or amends a condition of bail or substitutes or imposes any other condition, the Registrar of the Court whose decision was appealed against must send written notice to the defendant and to every surety (if any) requiring them to attend at a specified time and place for the execution of a fresh bail bond containing the conditions (if any) required to give effect to the Supreme Court's decision.
+(3) If, in any case to which subsection (2) applies, the defendant fails without reasonable excuse to attend at the time and place required, or fails to enter into a fresh bail bond, the Registrar must refer the matter to a High Court Judge who may issue a warrant for the arrest of the defendant.
+(4) If, on an appeal to the Supreme Court against a decision of the Court of Appeal on an appeal under section 66 against a refusal to grant bail to a defendant, the Supreme Court determines that bail not be granted or, as the case may be, not be continued, a warrant for the detention in custody of the defendant must be issued out of the Supreme Court and signed by a Judge of the Court.
+(5) The person who executes the warrant under subsection (4) must ensure that a copy of the notice of the result of the appeal is given to the defendant when the warrant is executed or as soon as practicable after the warrant is executed.
+(6) A defendant to whom subsection (4) applies who is not in custody may be arrested without warrant by any member of the police or any officer of a penal institution.
+
+**Bail pending appeal against conviction or sentence**
+
+### 70 Granting of bail to appellant and custody pending appeal
+(1) This section applies if a person is in custody under a conviction and is appealing the conviction or sentence, or both, to the Court of Appeal or the Supreme Court.
+(2) The Court of Appeal or the Supreme Court (as the case may be) or the Judge who presided at the trial in the court below may, if it or the Judge thinks fit, on the application of an appellant and on such terms and subject to such conditions as the court or Judge thinks fit, grant bail to the appellant pending the determination of the appeal, if the appellant is in custody only under the conviction to which the appeal relates.
+(3) Section 95 of the Parole Act 2002 (which provides that time on bail pending an appeal is not to be taken as time served) applies if an appellant is released on bail pending an appeal.
+(4) If a case is stated under Part 13 of the Crimes Act 1961, this section applies to any person in relation to whose conviction the case is stated as it applies to an appellant.
+(5) For the purposes of this section, an appellant is not deemed to be in custody only under the conviction to which the appeal relates if a direction has been given under section 83 of the Sentencing Act 2002 that another sentence or term of imprisonment is to follow the sentence imposed on that conviction, and the appellant has not appealed against the conviction in respect of which that other sentence or term was imposed.
+
+### 71 Reserved question of law
+If under section 380(5) of the Crimes Act 1961 the High Court has decided to respite the execution of the sentence or postpone the sentence of a person who has been convicted in the High Court, the Court may in its discretion either—
+  (a) commit the person to prison; or
+  (b) grant the person bail on any terms, and subject to any conditions, the Court thinks fit.
+
+### 72 Intermediate effects of appeal
+(1) In every case where the Court of Appeal or the Supreme Court directs a new trial, that Court must issue a warrant for the detention of the defendant pending the trial.
+(2) The Court may in its discretion, either at the same or at any subsequent time, grant bail to the defendant on such terms and subject to such conditions as it thinks fit.
+(3) If no application for bail has been made to the Court of Appeal or the Supreme Court, the defendant may at any time apply to a High Court Judge or a District Court Judge (as the case may require), who may in the Judge's discretion grant bail on such terms and subject to such conditions as the Judge thinks fit.
+(4) While a defendant is released on bail under subsection (2), the warrant for his or her detention is suspended.
+
+## Part 5 — Miscellaneous provisions
+
+### 73 Rules
+(1) The Governor-General may, by Order in Council, make rules regulating the practice and procedure of any court in proceedings under this Act.
+(2) Until rules are made under this section, or if they are made so far as they do not extend, the existing practice and procedure in New Zealand in relation to bail is not affected as far as it is not altered by or inconsistent with the provisions of this Act.
+
+### 74 Repeal and enactments amended
+(1) The Crimes Amendment Act (No 2) 1991 is repealed.
+(2) The enactments specified in Schedule 2 are amended in the manner indicated in that schedule.
+
+### 75 Savings
+Despite the repeal of any enactment by this Act, where any notice of appeal has been filed in any office of a court under any such enactment before the date of the commencement of this Act, and the appeal is not finally determined before that date, the provisions of that enactment continue to apply to that appeal in all respects as if this Act had not been passed.
+
+## Schedule 1 — Modifications of Part 3 where appeal is from District Court presided over by Community Magistrate or Community Magistrates to District Court presided over by District Court Judge
+
+### 41 Rights of appeal against decisions relating to bail
+(1) If a Community Magistrate or Community Magistrates refuse to grant bail to a defendant (whether before or after conviction), the defendant may appeal to a District Court presided over by a District Court Judge against that refusal.
+(2) If a Community Magistrate or Community Magistrates grant bail to a defendant (whether before or after conviction), the informant may appeal to a District Court presided over by a District Court Judge against that decision.
+(3) If, in respect of any grant of bail to a defendant (whether before or after conviction),—the defendant or the informant may appeal to a District Court presided over by a District Court Judge against the imposition of that condition of bail or, as the case may be, against that refusal or against the decision in respect of that application.
+  (a) a Community Magistrate or Community Magistrates have imposed any condition of bail, or have refused to impose any condition of bail, or any particular condition of bail; or
+  (b) a Community Magistrate or Community Magistrates have, on an application made under section 34(1), made an order varying or revoking any condition of bail or substituting or imposing any other condition of bail, or refused to make such an order,—
+(4) For the purposes of an appeal under this section, the failure of a Community Magistrate or Community Magistrates to impose any condition of bail, or any particular condition of bail, on any occasion on which the condition could lawfully have been imposed is deemed to be a refusal to impose the condition.
+(5) No person—may seek bail in the High Court under that Court's inherent jurisdiction.
+  (a) who has been refused bail by a Community Magistrate or Community Magistrates; or
+  (b) in respect of whom a Community Magistrate or Community Magistrates have imposed any condition of bail or refused to impose any condition of bail, or any particular condition of bail—
+(6) An appeal under this section is by way of rehearing.
+
+### 43 Appeal against entry of non-performance of condition of bail in Criminal Records
+(1) If a Community Magistrate or Community Magistrates directs that the non-performance of a bail condition be entered in the Criminal Records under section 38, the defendant may, within 28 days of the direction being made, appeal the direction to a District Court presided over by a District Court Judge.
+(2) After considering an appeal under subsection (1), the District Court Judge may order that—
+  (a) the direction stand; or
+  (b) the direction be amended; or
+  (c) the direction be revoked.
+(3) There is no further right of appeal against a direction to enter the non-performance of a condition of bail in the Criminal Records than that given by this section.
+(4) No direction appealed against under this section is suspended merely because notice of that appeal has been given.
+
+### 44 Execution of decision of District Court on appeal relating to bail
+(1) If, on an appeal under section 41, a District Court presided over by a District Court Judge determines that bail should not be granted or, as the case may be, should not be continued, a warrant for the detention of the defendant in custody must be issued out of the District Court and signed by a District Court Judge.
+(2) The person who executes the warrant must ensure that a copy of the notice of the result of the appeal is given to the defendant when the warrant is executed or as soon as practicable after the warrant is executed.
+(3) If, on an appeal in respect of any condition of bail, a District Court presided over by a District Court Judge varies or revokes any condition of bail or substitutes or imposes any other condition of bail, the following provisions apply:
+  (a) if the defendant is present at the District Court to which the appeal was made, the Registrar of that Court must,—
+    (i) as soon as is reasonably practicable, prepare a new notice of bail setting out the conditions of bail as amended (if any); and
+    (ii) satisfy himself or herself that the defendant understands the conditions of bail; and
+    (iii) require the defendant to sign the notice of bail:
+  (b) if the defendant is not present at the District Court to which the appeal was made, the Registrar of the District Court appealed from must send written notice to the defendant requiring him or her to attend at a specified time and place for the execution of a fresh notice of bail containing the conditions (if any) required to give effect to the decision on the appeal.
+(4) If, in any case to which subsection (3) applies, the defendant fails without reasonable excuse to attend at the time and place required, or fails to enter into a fresh notice of bail, the Registrar of the District Court appealed from must refer the matter to a District Court Judge, who may issue a warrant for the arrest of the defendant.
+
+## Schedule 2 — Amendments to other enactments
+
+### 3
+Part 3 of the Bail Act 2000 except that
+  (a) neither a Justice nor a Community Magistrate may exercise any of the powers conferred by section 34:
+  (b) the provisions of section 31 apply as if there were inserted in that section, as subsections (1A) and (1B), the following subsections:
+    (1A) Despite anything in subsection (1), if the hearing is adjourned for the purpose of enabling a family group conference to be held under the provisions of the Children, Young Persons, and Their Families Act 1989, the defendant must be excused from attending at the time and place to which the hearing is adjourned if, before that time, the Youth Justice Co-ordinator convening that conference notifies the Court, in writing, that the proceedings of that family group conference will not be completed by that time.
+    (1B) If, under subsection (1A), the defendant is excused from attending any hearing, and the Court adjourns that hearing, the Registrar must notify the defendant of the time and place to which the hearing is adjourned.
+
+| Non-performance of bail conditions | Records relating to failure to comply with bail conditions entered under section 38(3) or section 63(3) of the Bail Act 2000. | Police |
+| --- | --- | --- |
+
+### 46 Dealing with defendant on adjournment
+(1) Where any hearing is adjourned under section 45, and the defendant is liable on conviction to a sentence of imprisonment or the defendant has been arrested, the Court or Justice or Community Magistrate may—
+  (a) allow the defendant to go at large for the period of the adjournment; or
+  (b) grant the defendant bail under the Bail Act 2000 for the period of the adjournment; or
+  (c) remand the defendant in custody for the period of the adjournment.
+(2) A Registrar may exercise the power conferred by subsection (1)(c) to remand a defendant in custody if—
+  (a) both the defendant and the informant agree to the remand; and
+  (b) the defendant—
+    (i) is legally represented or has indicated that he or she has received legal advice; or
+    (ii) has declined an opportunity to obtain legal advice.
+(3) The following provisions apply to every remand imposed by a Registrar under subsection (2):
+  (a) a single period of remand may not exceed 8 days:
+  (b) not more than 2 consecutive periods of remand may be imposed and neither of those periods may exceed 8 days:
+  (c) the defendant must be brought before a Court or Justice or Community Magistrate—and the Court or Justice or Community Magistrate must determine what action (if any) under subsection (1) should be taken in respect of the defendant.
+    (i) at the earliest opportunity if, at any time during the period of remand, the defendant withdraws his or her agreement under subsection (2)(a); or
+    (ii) at the earliest opportunity after the expiration of 16 days commencing on the date of the imposition of the remand,—
+
+### 47 Warrant for detention of defendant remanded in custody
+Where the defendant is remanded in custody under section 46, the Court or Justice or Community Magistrate or Registrar must issue a warrant in the prescribed form for the detention of the defendant in custody for the period of the adjournment.
+
+### 153 Application of section 46
+Section 46, with the necessary modifications, applies with respect to proceedings to which this Part applies, as if references in that section to the hearing were references to the preliminary hearing or the proceedings under section 153A, as the case may be.
+
+### 171 Dealing with defendant committed for trial or for sentence
+(1) If a defendant is committed for trial or for sentence then, whether or not the defendant is granted bail under the Bail Act 2000, the District Court must issue a warrant in the prescribed form for the defendant's detention in a prison pending the defendant's trial or the defendant being brought up for sentence, as the case may be.
+(2) Despite subsection (1), the District Court may, instead of issuing a warrant under that subsection, make an order for the defendant's detention in a psychiatric hospital pending the defendant's trial if the District Court is satisfied, on the production of a certificate or certificates by 2 medical practitioners, that—
+  (a) the defendant is mentally disordered within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992; and
+  (b) the defendant's mental condition requires that in the defendant's own interest the defendant should be detained in a hospital within the meaning of that Act instead of in a prison.
