@@ -1,5 +1,5 @@
 # New Zealand Symphony Orchestra Act 2004
-_Consolidation as at 2005-01-25_
+_Consolidation as at 2007-09-03_
 
 ### 1 Title
 This Act is the New Zealand Symphony Orchestra Act 2004.
@@ -11,7 +11,7 @@ This Act comes into force on the day after the date on which it receives the Roy
 
 ### 3 Purpose of Act
 The purpose of the Act is to—
-  (a) establish the Orchestra as a Crown entity for the purposes of section 7 of the Crown Entities Act 2004:
+  (a) establish the Orchestra as a Crown entity for the purposes of section 7 of the Crown Entities Act 2004:.
   (b) set out the principal objectives of the Orchestra and its functions and powers:
   (c)
   (d)
@@ -23,9 +23,12 @@ In this Act, unless the context otherwise requires,—
   - **board** means the board of the Orchestra
   - **board member** and mean a member of the board of the Orchestra
   - **commencement day** means the day on which this Act comes into force
+  - **fees framework**
   - **Minister** means the Minister who, under the authority of any warrant, or with the authority of the Prime Minister, is responsible for the administration of this Act
-  - **New Zealand Symphony Orchestra Limited** and mean the company that, immediately before the commencement of this Act, was re-registered under that name under the Companies Act 1993
+  - **New Zealand Symphony Orchestra Limited** and mean the company that, immediately before the commencement of this Act, was reregistered under that name under the Companies Act 1993
   - **Orchestra** means the New Zealand Symphony Orchestra established by section 6
+  - **statement of intent**
+  - **subsidiary**
 
 ### 5 Act binds the Crown
 This Act binds the Crown.
@@ -226,24 +229,14 @@ The Acts listed in Schedule 2 are amended in the manner indicated in that schedu
 
 ## Schedule 1 — Administrative provisions applying to board and further transitional provisions
 
-### Part 1 — Further provisions about membership of board
-
-**Appointments**
-
 ### 1 Criteria for appointment of board members
 [Repealed]
-
-**Term of appointment**
 
 ### 2 Term of appointment
 [Repealed]
 
-**Restrictions on appointment**
-
 ### 3 Disqualification
 [Repealed]
-
-**Resignation and removal of members**
 
 ### 4 Resignation
 [Repealed]
@@ -254,15 +247,11 @@ The Acts listed in Schedule 2 are amended in the manner indicated in that schedu
 ### 6 No entitlement to compensation
 [Repealed]
 
-**Vacancies in board membership**
-
 ### 7 Vacancy on board
 [Repealed]
 
 ### 8 Effect of vacancy
 [Repealed]
-
-**Chairperson of board**
 
 ### 9 Appointment of chairperson of board
 [Repealed]
@@ -273,19 +262,11 @@ The Acts listed in Schedule 2 are amended in the manner indicated in that schedu
 ### 11 Chairperson's functions, duties, and powers during vacancy
 [Repealed]
 
-**Acts not to be called into question**
-
 ### 12 Validity of members' acts
 [Repealed]
 
-**Remuneration**
-
 ### 13 Remuneration and allowances
 [Repealed]
-
-### Part 2 — Provisions relating to operation of board and its members
-
-**Conflict of interest provisions**
 
 ### 14 Interest of board members
 [Repealed]
@@ -302,25 +283,17 @@ The Acts listed in Schedule 2 are amended in the manner indicated in that schedu
 ### 18 Effect of non-compliance with disclosure obligation
 [Repealed]
 
-**Use of information**
-
 ### 19 Restrictions on use or disclosure of information
 [Repealed]
 
 ### 20 When members may rely on information and advice
 [Repealed]
 
-**Contracting**
-
 ### 21 Method of contracting
 [Repealed]
 
-**Validity of transactions**
-
 ### 22 Validity of transactions
 [Repealed]
-
-**Liability of board members and employees**
 
 ### 23 Interpretation
 [Repealed]
@@ -336,8 +309,6 @@ The Acts listed in Schedule 2 are amended in the manner indicated in that schedu
 
 ### 27 Insurance for board members and employees
 [Repealed]
-
-### Part 3 — Procedures of board
 
 ### 28 Procedure generally
 [Repealed]
@@ -363,8 +334,6 @@ The Acts listed in Schedule 2 are amended in the manner indicated in that schedu
 ### 35 Unanimous written resolutions
 [Repealed]
 
-**Delegations**
-
 ### 36 Delegation by board of its functions, duties, or powers
 [Repealed]
 
@@ -382,17 +351,11 @@ The Acts listed in Schedule 2 are amended in the manner indicated in that schedu
 ### 38 Effect of delegation
 [Repealed]
 
-### Part 4 — Employment provisions
-
-**Chief executive of Orchestra**
-
 ### 39 Appointment of chief executive
 [Repealed]
 
 ### 40 Employment of chief executive
 [Repealed]
-
-**Employees of Orchestra**
 
 ### 41 Employment of staff
 [Repealed]
@@ -409,10 +372,6 @@ The Acts listed in Schedule 2 are amended in the manner indicated in that schedu
 ### 45 Superannuation and retiring allowances
 [Repealed]
 
-### Part 5 — Further transitional provisions
-
-**Transfer of employees**
-
 ### 46 Transfer of employees to Orchestra
 (1) On the commencement day, every person employed by the New Zealand Symphony Orchestra Limited immediately before the commencement of this Act ceases to be an employee of the New Zealand Symphony Orchestra Limited and becomes an employee of the Orchestra.
 (2) The terms and conditions of employment of each employee to whom subsection (1) refers remain the same as the terms and conditions of his or her employment with the New Zealand Symphony Orchestra Limited immediately before the commencement day, and may be varied in the same manner.
@@ -426,8 +385,6 @@ The Acts listed in Schedule 2 are amended in the manner indicated in that schedu
 (2) Subclause (1)—
   (a) continues to apply to the terms and conditions of employment of a transferred employee until they are varied by agreement between the transferred employee and the Orchestra; but
   (b) does not apply to a transferred employee who, after the transfer, receives any subsequent employment within the Orchestra.
-
-**Superannuation**
 
 ### 49 Existing members of Government Superannuation Fund
 (1) Despite clause 43, a person who, immediately before becoming an employee of the Orchestra, was a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 is, for the purpose of that Act, to be treated as if he or she were employed in the Government service so long as that person continues to be an employee of the Orchestra.
