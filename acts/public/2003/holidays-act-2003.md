@@ -1,5 +1,5 @@
 # Holidays Act 2003
-_Consolidation as at 2007-05-17_
+_Consolidation as at 2007-09-03_
 
 ### 1 Title
 This Act is the Holidays Act 2003.
@@ -97,8 +97,7 @@ This Act—
     (i) productivity or incentive-based payments that are not a regular part of the employee's pay:
     (ii) payments for overtime that are not a regular part of the employee's pay:
     (iii) any one-off or exceptional payments:
-    (iv) any discretionary payments that the employer is not bound, under the terms of the employee's employment agreement, to pay the employee:
-    (v) any payment of any employer contribution to a superannuation scheme for the benefit of the employee.
+    (iv) any discretionary payments that the employer is not bound, under the terms of the employee's employment agreement, to pay the employee.
 (2) If it is not possible to determine an employee's ordinary weekly pay under subsection (1), the pay must be calculated in accordance with the following formula:where—
   (a) is the employee's gross earnings for—
     (i) the 4 calendar weeks before the end of the pay period immediately before the calculation is made; or
@@ -113,8 +112,7 @@ This Act—
   (b) includes—
     (i) productivity or incentive-based payments (including commission) if those payments would have otherwise been received on the day concerned:
     (ii) payments for overtime if those payments would have otherwise been received on the day concerned:
-    (iii) the cash value of any board or lodgings provided by the employer to the employee; but
-  (c) excludes any payment of any employer contribution to a superannuation scheme for the benefit of the employee.
+    (iii) the cash value of any board or lodgings provided by the employer to the employee.
 (2) To avoid doubt, if subsection (1)(a) is to be applied in the case of a public holiday, the amount of pay does not include any amount that would be added by virtue of section 50(1)(a) (which relates to the requirement to pay time and a half).
 (3) If it is not possible to determine an employee's relevant daily pay under subsection (1), the pay must be calculated in accordance with the following formula:where—
   (a) is the employee's gross earnings for—
@@ -174,7 +172,6 @@ In this Act, unless the context otherwise requires, gross earnings, in relation 
   (c) also excludes—
     (i) any payment to reimburse the employee for any actual costs incurred by the employee related to his or her employment:
     (ii) any payment of a reasonably assessed amount to reimburse the employee for any costs incurred by the employee related to his or her employment:
-    (iii) any payment of any employer contribution to a superannuation scheme for the benefit of the employee.
 
 ## Part 2 — Holiday and leave entitlements
 
