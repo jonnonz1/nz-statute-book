@@ -1,0 +1,1109 @@
+# Referenda (Postal Voting) Act 2000
+_Consolidation as at 2007-09-03_
+
+### 1 Title
+This Act is the Referenda (Postal Voting) Act 2000.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 1 — Preliminary provisions
+
+### 3 Interpretation
+(1) In this Act, unless the context otherwise requires,—
+  - **applicant** , in Part 6, means a group that makes an application
+  - **application** means an application under section 52
+  - **Chief Registrar** —
+    (a) means the Chief Registrar of Electors referred to in section 10(1); and
+    (b) includes the Chief Registrar's deputy; and
+    (c) includes any person acting under a delegation under section 11(2)
+  - **citizens initiated referendum** means an indicative referendum—
+    (a) that a person promotes under the Citizens Initiated Referenda Act 1993; and
+    (b) that is specified in an Order in Council made under section 5(b) as an indicative referendum that must be conducted by postal voting
+  - **Clerk of the House** means the Clerk of the House of Representatives
+  - **Court** , in Part 6, means the High Court
+  - **district** means a General electoral district or a Maori electoral district constituted under the Electoral Act 1993
+  - **elector** means a person whose name lawfully appears on the referendum roll or the supplementary referendum roll
+  - **electoral roll** , in relation to any district, and subject to sections 101 and 103 of the Electoral Act 1993,—
+    (a) means the forms that the Registrar keeps of applications for registration of persons registered under the Electoral Act 1993 as electors of that district; and
+    (b) includes the forms deemed by 83A and 83D of the Electoral Act 1993 to be applications for registration as an elector
+  - **electorate code** means a number indicating the district for which any elector is qualified to be enrolled
+  - **give public notice** means to do both of the following
+    (a) publish a notice in the Gazette; and
+    (b) issue a press statement
+  - **government initiated referendum** means an indicative referendum—
+    (a) that the New Zealand Government initiates; and
+    (b) that is specified in an Order in Council made under section 5(a) as an indicative referendum that must be conducted by postal voting
+  - **hearing** means the hearing of an application
+  - **Minister** means the Minister of Justice
+  - **New Zealand Post Limited** —
+    (a) means the company incorporated under the Companies Act 1993 pursuant to the State-Owned Enterprises Act 1986; and
+    (b) includes any subsidiary of that company
+  - **official publicity campaign** means the publicity campaign conducted by the panel
+  - **panel** means any panel appointed by the Minister to conduct, on behalf of the New Zealand Government, a publicity campaign about a government initiated referendum
+  - **person complained of** means a person, named in an application as a person connected with the referendum, into whose conduct the application asks for an inquiry
+  - **postal voting** means the system provided by this Act for holding a referendum
+  - **preliminary referendum roll** means the list of electors described in section 14(1)
+  - **processed** means processed under section 42
+  - **proposal** means a proposal specified by an Order in Council made under section 6(1)
+  - **question** means a precise question determined by the Clerk of the House under section 11 of the Citizens Initiated Referenda Act 1993
+  - **referendum** means a government initiated referendum or a citizens initiated referendum
+  - **referendum material** means material that is prepared by the panel and presented to electors for the purpose of informing them about each proposal that is the subject of the referendum
+  - **referendum roll** means the list of electors described in section 21(1)
+  - **Registrar** , in relation to any district,—
+    (a) means the Registrar of Electors appointed for that district under section 22 of the Electoral Act 1993; and
+    (b) includes the Registrar of Elector's deputy
+  - **Registrar of Births and Deaths** means a registrar within the meaning of the Births, Deaths, and Marriages Registration Act 1995
+  - **Registrar of the Court** means the Registrar of the High Court in Wellington
+  - **respondent** means a respondent to an application
+  - **response** means a response to a proposal or an answer to a question
+  - **returned** , in relation to a voting paper, means returned to the office of the Returning Officer
+  - **Returning Officer** —
+    (a) means the Returning Officer referred to in section 8(1); and
+    (b) includes the Returning Officer's deputy; and
+    (c) includes any person acting under a delegation under section 11(1)
+  - **returning officer's copy of the roll** means the copy of the referendum roll and the supplementary referendum roll supplied under section 24
+  - **roll identifier number** means the randomly generated number assigned to each elector by the Chief Registrar
+  - **supplementary referendum roll** means the list of electors described in section 22(1)
+  - **voting paper** ,—
+    (a) when used in the definition of returned, and in sections 7(3)(b) and 39 to 50, means the detachable part of a voting paper in the prescribed form:
+    (b) when used in sections 66, 68, 74, 77, and 80(1)(c), means—
+      (i) the detachable part of a voting paper in the prescribed form; or
+      (ii) a voting paper in the prescribed form:
+    (c) when used elsewhere in this Act, means a voting paper in the prescribed form
+  - **voting period** means the voting period for a referendum described in section 30
+  - **working day** means any day of the week other than—
+    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
+(2) A reference to a numbered form is a reference to the form so numbered in Schedule 1.
+
+### 4 Purposes
+The purposes of this Act are to—
+  (a) provide for the use of postal voting for government initiated referenda; and
+  (b) provide for the use of postal voting for citizens initiated referenda.
+
+### 5 Act applies to specified indicative referenda
+This Act applies if the Governor-General makes an Order in Council—
+  (a) providing that a specified government initiated referendum must be conducted by postal voting; or
+  (b) providing that a specified citizens initiated referendum must be conducted by postal voting.
+
+## Part 2 — Voting paper for postal voting
+
+### 6 Wording of proposals, responses, and questions
+(1) The wording of each proposal to be put to electors in a government initiated referendum is specified by the Governor-General by Order in Council. The Order in Council must also specify the wording of each response for which electors may vote.
+(2) The wording of the question to be put to electors in a citizens initiated referendum is the wording of which notice is given under section 13 of the Citizens Initiated Referenda Act 1993.
+
+### 7 Form of voting paper
+(1) The voting paper used in a government initiated referendum—
+  (a) must have a heading that—
+    (i) begins with the words REFERENDUM ON; and
+    (ii) states the subject of the referendum; and
+  (b) must have an explanatory note that—
+    (i) has the heading Explanation; and
+    (ii) explains—
+      (A) the purpose of the voting paper; and
+      (B) the effect of the referendum; and
+    (iii) specifies—
+      (A) the referendum material, if any, accompanying the voting paper that summarises the subject of the referendum; and
+      (B) the title and date of government publications, if any, intended to provide electors with a full description of the subject of the referendum; and
+  (c) must also—
+    (i) set out the proposal and responses worded as specified in an Order in Council made under section 6(1); and
+    (ii) set out instructions on how to vote and how to return the voting paper; and
+    (iii) provide a space for electors to indicate the response for which they wish to vote; and
+    (iv) set out the following numbers:
+    (A) the elector's roll identifier number, which must be unique to that elector:
+    (B) the elector's electorate code:
+    (C) the voting paper's number, which must be a number in a consecutive sequence that starts at 1; and
+    (v) be in the prescribed form.
+(2) The voting paper used in a citizens initiated referendum must be in the form prescribed in section 28 of the Citizens Initiated Referenda Act 1993.
+
+## Part 3 — Officials
+
+### 8 Returning Officer
+(1) The Chief Electoral Officer referred to in section 18 of the Electoral Act 1993 is the Returning Officer for a referendum.
+(2) The Returning Officer is, under the direction of the Secretary for Justice, charged with the duty of implementing this Act, except Part 4.
+(3) The Returning Officer must, as his or her first duty, make a declaration in form 1 before a Justice of the Peace or a solicitor.
+
+### 9 Returning Officer may employ or engage persons
+(1) The Returning Officer may employ or engage such persons as the Returning Officer considers are required for the purposes of a referendum.
+(2) A person engaged under subsection (1) may employ or engage such persons as the person considers are required for the purposes of the referendum.
+(3) Every person employed or engaged under subsection (1) or subsection (2)—
+  (a) is under the direction of the Returning Officer; and
+  (b) must, as the person's first duty, make a declaration in form 1 before the Returning Officer, a Justice of the Peace, or a solicitor.
+
+### 10 Chief Registrar of Electors
+(1) The Chief Registrar of Electors referred to in section 21 of the Electoral Act 1993 is, under the direction of the Minister, charged with the duty of implementing Part 4.
+(2) For the purposes of implementing Part 4, the Chief Registrar may, both in that capacity and in the capacity of the Chief Executive of New Zealand Post Limited, provide such computer and other services, and such facilities, as the Chief Registrar thinks necessary.
+
+### 11 Delegation by Returning Officer or Chief Registrar
+(1) The Returning Officer may, either generally or particularly, delegate any of the Returning Officer's functions, powers, rights, and duties, except this power of delegation, to—
+  (a) any specified person employed or engaged under section 9; or
+  (b) persons of a specified class employed or engaged under section 9.
+(2) The Chief Registrar may, either generally or particularly, delegate any of the Chief Registrar's functions, powers, rights, and duties, except this power of delegation, to—
+  (a) a specified employee of New Zealand Post Limited; or
+  (b) employees of New Zealand Post Limited of a specified class.
+(3) A delegation under this section must be made in writing, and the document must be signed by the maker of the delegation.
+
+### 12 Provisions applying to delegations
+(1) The provisions of this section apply to a delegation under section 11.
+(2) Subject to any general or particular directions given or conditions imposed from time to time by the maker of the delegation, the delegate may exercise the functions, powers, rights, or duties in the same manner and with the same effect as if they had been conferred on that person directly by this Act and not by delegation.
+(3) Every person purporting to act under a delegation is, in the absence of proof to the contrary, presumed to be acting in accordance with the terms of the delegation.
+(4) A delegation does not affect or prevent the performance or exercise of any function, power, right, or duty by its maker.
+(5) A delegation continues in force according to its tenor until it is revoked.
+(6) If the maker ceases to hold office, the delegation continues to have effect as if made by the successor in office of the maker.
+(7) The maker, or a successor, may revoke the delegation at any time by written notice to the delegate.
+
+## Part 4 — Rolls of electors
+
+**Purpose of rolls**
+
+### 13 Purposes of rolls
+(1) Every preliminary referendum roll printed under section 14(3) has the following purposes:
+  (a) it is, for the purposes of the Electoral Act 1993, the main roll for the district for the year in which it is printed; and
+  (b) it facilitates the holding of a referendum.
+(2) The purpose of every unprinted preliminary referendum roll, the referendum roll, and the supplementary referendum roll is to facilitate the holding of a referendum.
+
+**Preliminary referendum rolls**
+
+### 14 Preliminary referendum rolls
+(1) The preliminary referendum roll for each district is a list of all persons whose names are lawfully on the electoral roll for the district on a date to be appointed for the closing of the preliminary referendum rolls.
+(2) The Chief Registrar must appoint the date for the closing of the preliminary referendum rolls and give notice of it in the Gazette.
+(3) The Registrar of each district must print the preliminary referendum roll for the district as soon as practicable after that date.
+(4) No printed preliminary referendum roll is to list any person whose details are not published or available under the Electoral Act 1993 as a result of a direction by the Chief Registrar under section 115 of that Act.
+
+### 15 Form of printed preliminary referendum rolls
+(1) Although every printed preliminary referendum roll is the main roll for the district, section 106 of the Electoral Act 1993, relating to the form of the main roll and supplementary rolls, does not apply to any printed referendum roll and this section applies instead.
+(2) Every printed preliminary referendum roll must show, in alphabetical order of surnames, the following details for each person listed:
+  (a) name:
+  (b) postal address:
+  (c) occupation, if any.
+(3) The names on each page of every printed preliminary referendum roll must be numbered consecutively, beginning with the number 1 for the first name on each page.
+(4) The pages of every printed preliminary referendum roll must be numbered consecutively, beginning with the number 1 for the first page.
+
+### 16 Section 110 of the Electoral Act 1993 not to apply to printed preliminary referendum rolls
+Although every printed preliminary referendum roll is the main roll for the district, section 110 of the Electoral Act 1993 does not apply to any printed preliminary referendum roll and sections 17 and 18 apply instead.
+
+### 17 Public inspection of printed preliminary referendum rolls
+(1) Copies of the printed preliminary referendum roll must be kept at the office of the Registrar for the district.
+(2) Any person may inspect the printed preliminary referendum roll—
+  (a) at the Registrar's office; and
+  (b) without payment; and
+  (c) at any time between 9 am and 4 pm on any day on which the office is open for the transaction of business, until 4 pm on the day before the first day of the voting period.
+(3) Copies of the printed preliminary referendum roll must also be kept at such other places within the district as the Minister or the Chief Registrar directs.
+(4) Any person may inspect the printed preliminary referendum roll, without payment, at a place at which it is kept as a result of a direction under subsection (3).
+(5) Every person holding a copy of a printed preliminary referendum roll as a result of a direction under subsection (3) must return it to the office of the Registrar for the district before 4 pm on the day before the first day of the voting period.
+(6) The right of inspection conferred by subsections (2) and (4) does not include the rights to copy or purchase the whole or any part of the printed preliminary referendum roll.
+
+### 18 Public use of printed preliminary referendum rolls
+(1) Any person may use a copy of a printed preliminary referendum roll for the purposes of—
+  (a) checking that persons qualified to be on it are on it:
+  (b) checking that persons not qualified to be on it are not on it:
+  (c) encouraging persons qualified to be on it, whether or not they are, to apply for registration as electors under the Electoral Act 1993.
+(2) A person who wants to use a printed preliminary referendum roll for these purposes must—
+  (a) complete a form, provided by the Chief Registrar, applying for a copy; and
+  (b) state in the form that—
+    (i) the roll is required for the purposes set out in subsection (1); and
+    (ii) the roll will not be used for any other purpose.
+(3) If a person applies for a copy of a roll and completes the form, the Chief Registrar must supply that copy to that person without charge.
+(4) Every person holding a copy of a printed preliminary referendum roll as a result of an application under subsection (2) must return it to the office of the Chief Registrar before 4 pm on the day before the first day of the voting period.
+(5) The right to use a printed preliminary referendum roll conferred by subsection (1) does not include the right to copy the whole or any part of it.
+
+### 19 Supply of electoral information under Electoral Act 1993
+Nothing in this Act prevents the making of a request for electoral information under the following sections of the Electoral Act 1993:
+  (a) section 111 (inspection of rolls at hui):
+  (b) section 112 (supply of information on age and Maori descent):
+  (c) section 114 (supply of electronic information to candidates, political parties, and members of Parliament).
+
+### 20 Objections to registration
+(1) A person registered as an elector under the Electoral Act 1993, or qualified to be registered, may object to the name of any person being on the preliminary referendum roll for any district on the ground that that person is not qualified to be registered under the Electoral Act 1993 as an elector of that district.
+(2) An objection must be made before the date appointed for the closing of the referendum roll under section 21(2).
+(3) Sections 95(2), 95A to 95D, and 97 of the Electoral Act 1993 apply, as far as they are applicable and with any necessary modifications, to an objection.
+
+**Referendum roll and supplementary referendum roll**
+
+### 21 Referendum roll
+(1) The referendum roll is a list of all persons whose names are lawfully on any electoral roll for any district on a date to be appointed for the closing of the referendum roll.
+(2) The Governor-General must appoint, by Order in Council, the date for the closing of the referendum roll.
+(3) The Chief Registrar must compile the referendum roll as soon as practicable after that date.
+
+### 22 Supplementary referendum roll
+(1) The supplementary referendum roll is a list of all persons who meet the following criteria:
+  (a) the person's name does not appear on the referendum roll; and
+  (b) the person makes an application, that is received before the commencement of the voting period, under the Electoral Act 1993 for registration as an elector of a district; and
+  (c) the person is qualified, at the time of making the application, to be registered as an elector of a district under the Electoral Act 1993.
+(2) For the purposes of subsection (1)(b), an application is received before the commencement of the voting period if—
+  (a) the application, or the envelope in which it is contained, bears a postmark or date stamp impressed at any New Zealand Post Limited outlet or agency before the commencement of the voting period; or
+  (b) the applicant produces a receipt that relates to the application and that was issued by any New Zealand Post Limited outlet or agency before the commencement of the voting period.
+(3) The Chief Registrar must compile the supplementary referendum roll as soon as practicable after the commencement of the voting period.
+
+### 23 Form of referendum roll and supplementary referendum roll
+The referendum roll and the supplementary referendum roll must—
+  (a) be in electronic form; and
+  (b) contain the following details for each person listed:
+    (i) full name:
+    (ii) postal address:
+    (iii) occupation, if any:
+    (iv) preferred honorific:
+    (v) date of birth:
+    (vi) electorate code:
+    (vii) roll identifier number.
+
+### 24 Supply of copy of rolls to Returning Officer
+At the request of the Returning Officer, the Chief Registrar must supply the Returning Officer with a copy of the referendum roll and the supplementary referendum roll.
+
+### 25 Persons who qualify to register as electors after close of roll
+(1) This section applies to every person who—
+  (a) will become qualified, after the close of the roll and before the end of the voting period, to be registered as an elector of a district under the Electoral Act 1993; and
+  (b) makes an application, that is received before the commencement of the voting period, under the Electoral Act 1993 for registration as an elector of a district.
+(2) Such a person is entitled—
+  (a) to be listed in the referendum roll or the supplementary referendum roll as an elector of the district; and
+  (b) to be registered as an elector of the district on the day on which the person becomes qualified to be registered, without making any further application.
+(3) For the purposes of subsection (1)(b), an application is received before the commencement of the voting period if—
+  (a) the application, or the envelope in which it is contained, bears a postmark or date stamp impressed at any New Zealand Post Limited outlet or agency before the commencement of the voting period; or
+  (b) the applicant produces a receipt that relates to the application and that was issued by any New Zealand Post Limited outlet or agency before the commencement of the voting period.
+
+### 26 Persons who, at commencement of voting period, are dead or disqualified or removed from roll
+(1) The Chief Registrar must supply the Returning Officer with the roll identifier number of every elector who is on the referendum roll or the supplementary referendum roll but who, at the commencement of the voting period, falls into a category described in subsections (2) to (4).
+(2) The first category is every elector—
+  (a) who is dead; and
+  (b) whose death has been notified to a Registrar—
+    (i) by any Registrar of Births and Deaths; or
+    (ii) by the father, mother, spouse, civil union partner, or de facto partner of the elector or by a sister or brother of the elector; and
+  (c) of whose identity the Registrar is satisfied.
+(3) The second category is every elector who is disqualified from registration as an elector under section 80 of the Electoral Act 1993.
+(4) The third category is every elector whose name has been removed from a roll under—
+  (a) section 95B or section 96 or section 97 of the Electoral Act 1993; or
+  (b) section 20(3).
+(5) The Chief Registrar must supply the roll identifier number—
+  (a) in electronic form; and
+  (b) as soon as practicable after the Chief Registrar ascertains it, and before the end of the voting period.
+(6) The Returning Officer must make a mark on the Returning Officer's copy of the roll, by the elector's name, to indicate that the elector is dead, disqualified, or removed from a roll.
+
+### 27 Protection of referendum roll and supplementary referendum roll
+(1) The referendum roll and the supplementary referendum roll must not be printed or made available for purchase or public inspection in any form.
+(2) Every person who has a copy of the referendum roll or the supplementary referendum roll must, as soon as practicable after the declaration of the result of the referendum under section 49,—
+  (a) erase from any electronic storage medium held by that person, and delete from any electronic system used by that person, any copy of the whole or any part of the referendum roll and the supplementary referendum roll and any mark made under any of sections 26(6), 34(3)(b), 35(5), or 42(2)(b); and
+  (b) make a declaration to the Chief Registrar in the prescribed form that he or she has complied with paragraph (a).
+(3) Subsection (2) does not apply to the Returning Officer acting under section 50(1)(b) or to the Clerk of the House acting under section 50(2).
+
+### 28 Supply and protection of information used for any official publicity campaign
+(1) At the request in writing of the panel, the Chief Registrar must supply to the panel in electronic form the information described in subsection (2).
+(2) The information is a list of every person whose name appears on the referendum roll or supplementary referendum roll, except any person whose details are not published or available under the Electoral Act 1993 as a result of a direction by the Chief Registrar under section 115 of that Act, that shows the following details for each person listed:
+  (a) full name:
+  (b) postal address:
+  (c) preferred honorific, if any.
+(3) The panel may supply to any person, for the purposes of a task required for the official publicity campaign, any or all of the information supplied under subsection (1) or the original or a copy of any electronic storage medium on which the information was supplied.
+(4) As soon as practicable after the conclusion of the official publicity campaign, the panel must—
+  (a) erase from any electronic storage medium held by the panel, and delete from any electronic system used by the panel, any information supplied under subsection (1); and
+  (b) make a declaration to the Chief Registrar in the prescribed form that it has complied with paragraph (a).
+(5) As soon as practicable after completing every task for which information was supplied under subsection (3), the person must—
+  (a) erase from any electronic storage medium held by that person, and delete from any electronic system used by that person, any information supplied under subsection (3); and
+  (b) make a declaration to the Chief Registrar in the prescribed form that the person has complied with paragraph (a).
+
+## Part 5 — Conduct of referendum
+
+### 29 Who may vote
+Every elector is qualified to vote at the referendum.
+
+### 30 Voting period
+(1) The voting period commences at the start of the 21st day before the day appointed under this section for the close of the voting period.
+(2) The voting period closes at 7 pm on a Friday to be appointed by the Governor-General by Order in Council.
+(3) The Governor-General may, from time to time, before the commencement of the voting period, by Order in Council,—
+  (a) revoke an Order in Council made under subsection (2) and appoint a later Friday:
+  (b) revoke any Order in Council made under section 21(2) and appoint a later date for the closing of the referendum roll.
+(4) The Governor-General may not make an Order in Council under subsection (3) if, in relation to a citizens initiated referendum,—
+  (a) the House of Representatives has passed a resolution of a kind described in section 22AB(4) or (6) of the Citizens Initiated Referenda Act 1993; or
+  (b) the Governor-General has exercised the power in section 22AB(8) of that Act.
+(5) This section is affected by section 22AB of the Citizens Initiated Referenda Act 1993.
+
+**Dispatching voting papers**
+
+### 31 Meaning of dispatched
+A voting paper is dispatched by the Returning Officer to an elector when,—
+  (a) if the voting paper is posted under section 33 or section 34, the Returning Officer places it in the custody of New Zealand Post Limited:
+  (b) if the voting paper is faxed under section 35(4)(a), the Returning Officer's fax machine generates a record of the transmission of the voting paper to the elector's fax number:
+  (c) if the relevant parts of the voting paper are dictated under section 35(4)(b), the Returning Officer is satisfied that the elector has heard every word dictated.
+
+### 32 Period for dispatching voting papers
+The Returning Officer may dispatch voting papers at any time after the start of the voting period but not later than midnight on the day before the voting period ends.
+
+### 33 Dispatching voting papers by post
+(1) As soon as practicable after the commencement of the voting period, the Returning Officer must post each elector 1 voting paper addressed to the elector at the address shown against the elector's name on the Returning Officer's copy of the roll.
+(2) In order to carry out his or her duty under subsection (1), the Returning Officer may place voting papers in the custody of New Zealand Post Limited on the day before the first day of the voting period.
+
+### 34 Dispatching replacement voting papers by post
+(1) An elector may apply to the Returning Officer for a replacement voting paper, on the grounds that he or she has—
+  (a) spoilt, destroyed, or lost his or her voting paper; or
+  (b) not received his or her voting paper.
+(2) An application must—
+  (a) be made before noon on the fourth to last day of the voting period; and
+  (b) be made in the prescribed manner; and
+  (c) contain the elector's current postal address.
+(3) If the Returning Officer is satisfied that the person is an elector, the Returning Officer must—
+  (a) post the elector 1 voting paper addressed to the elector at his or her current postal address; and
+  (b) make a mark on the Returning Officer's copy of the roll, by the elector's name, to indicate that the Returning Officer posted a replacement voting paper to the elector; and
+  (c) provide the Chief Registrar with the name, date of birth, and current postal address of the elector, if the current postal address is different from the postal address shown on the Returning Officer's copy of the roll.
+
+### 35 Dispatching voting papers by fax or dictation
+(1) A person may apply to the Returning Officer to have the voting paper faxed to him or her, on the grounds that he or she—
+  (a) is an elector; and
+  (b) will be, or is, during the voting period,—
+    (i) on Tokelau, Campbell Island, or Raoul Island; or
+    (ii) in the Ross Dependency; or
+    (iii) on a fishing vessel; or
+    (iv) in some remote location overseas; and
+  (c) will not receive, or has not received, a voting paper posted to him or her at the address shown against his or her name on the Returning Officer's copy of the roll; and
+  (d) cannot reasonably be expected, in all the circumstances, to make, or to have made, his or her own arrangements for the voting paper to be forwarded to him or her; and
+  (e) has access to a fax machine; and
+  (f) consents to the Returning Officer faxing the voting paper to him or her.
+(2) A person may apply to the Returning Officer to have the relevant parts of the voting paper dictated to him or her, on the grounds that he or she—
+  (a) is an elector; and
+  (b) will be, or is, during the voting period,—
+    (i) on Tokelau, Campbell Island, or Raoul Island; or
+    (ii) in the Ross Dependency; or
+    (iii) on a fishing vessel; and
+  (c) will not receive, or has not received, a voting paper posted to him or her at the address shown against his or her name on the Returning Officer's copy of the roll; and
+  (d) cannot reasonably be expected, in all the circumstances, to make, or to have made, his or her own arrangements for the voting paper to be forwarded to him or her; and
+  (e) does not have access to a fax machine; and
+  (f) consents to the Returning Officer dictating the relevant parts of the voting paper to him or her.
+(3) An application under this section must—
+  (a) be made before noon on the third to last day of the voting period; and
+  (b) be made in the prescribed manner.
+(4) If the Returning Officer is satisfied that subsection (1) or subsection (2) applies to an elector, the Returning Officer may, in accordance with regulations made under this Act, if any,—
+  (a) fax the voting paper to the elector; or
+  (b) dictate the relevant parts of the voting paper to the elector.
+(5) The Returning Officer must make a mark on the Returning Officer's copy of the roll, by the elector's name, to indicate that the voting paper has been faxed, or its relevant parts dictated, to the elector under subsection (4).
+
+### 36 Envelopes and information accompanying voting papers
+(1) When the Returning Officer posts a voting paper under section 33 or section 34, the Returning Officer must post with it an envelope of 1 of the following kinds:
+  (a) a postage-paid envelope addressed to the Returning Officer, if the address shown against the elector's name on the Returning Officer's copy of the roll is an address in New Zealand; or
+  (b) an envelope addressed to the Returning Officer, if the address shown against the elector's name on the Returning Officer's copy of the roll is an address outside New Zealand.
+(2) When the Returning Officer posts under section 33 or section 34 or faxes under section 35(4)(a) a voting paper, the Returning Officer—
+  (a) must post or fax with it a copy of the referendum material, if any; and
+  (b) may post or fax with it information, in any language or languages, on how to vote and how to return the voting paper.
+
+### 37 Extension of voting period
+(1) The Returning Officer may extend the voting period if he or she is of the opinion that industrial action, natural disaster, adverse weather conditions, or any other thing has had, or will have, the effect of—
+  (a) delaying the dispatch of voting papers so much that electors have not had, or will not have, a reasonable opportunity to vote and return their voting papers before the close of the voting period; or
+  (b) delaying the return of voting papers so much that voting papers that would otherwise have been returned before the close of the voting period will not be returned by that time.
+(2) An extension may apply to—
+  (a) the whole of New Zealand; or
+  (b) an area or areas of New Zealand; or
+  (c) any or all of Tokelau, Campbell Island, Raoul Island, or the Ross Dependency.
+(3) The Returning Officer may extend the voting period as many times as he or she thinks necessary. Each extension is to be for the period the Returning Officer thinks necessary, up to a maximum of 14 days.
+(4) As soon as practicable, the Returning Officer must give—
+  (a) public notice of every extension of the voting period; and
+  (b) such other notice of the extension as he or she thinks fit.
+(5) Subsection (6) applies even though the Returning Officer extends the voting period in relation to—
+  (a) an area or areas of New Zealand; or
+  (b) any or all of Tokelau, Campbell Island, Raoul Island, or the Ross Dependency.
+(6) The Returning Officer may, after the voting period has closed in the rest of New Zealand, from time to time give public notice of the results of voting in the whole or part of the rest of New Zealand.
+
+**Marking and returning voting papers**
+
+### 38 Method of voting
+(1) The elector votes by marking the voting paper with a tick within the space provided for the response for which the elector wishes to vote.
+(2) The voting paper may be marked in the manner described in subsection (3) if an elector—
+  (a) is visually impaired; or
+  (b) is unable to read or write for any reason; or
+  (c) is not sufficiently familiar with any language or languages used on the voting paper to vote without assistance.
+(3) The manner is—
+  (a) by the elector, with the assistance of a person authorised by the elector; or
+  (b) by a person authorised by the elector, in accordance with the elector's instructions.
+(4) An elector to whom the Returning Officer has dictated the relevant parts of the voting paper under section 35(4)(b) may, in accordance with regulations made under this Act, if any, dictate his or her vote to the Returning Officer. The Returning Officer must mark the voting paper in accordance with the elector's instructions.
+
+### 39 Return of voting papers to Returning Officer
+(1) An elector to whom a voting paper was faxed under section 35(4)(a) must, if returning the voting paper, return it by fax to the office of the Returning Officer.
+(2) Any other elector may return the voting paper by—
+  (a) delivering it by hand to the office of the Returning Officer; or
+  (b) posting it to the office of the Returning Officer.
+(3) The voting paper may be, but does not have to be, enclosed in an envelope addressed to the Returning Officer.
+(4) An elector to whom section 38(2) applies may ask the authorised person to either—
+  (a) assist the elector to comply with subsection (1); or
+  (b) comply with that subsection on behalf of the elector.
+(5) When an elector votes in accordance with section 38(4), the voting paper is returned when the Returning Officer marks the voting paper.
+
+### 40 Times for return of voting papers
+(1) A voting paper returned by post, or by hand, or by fax must be returned before 7 pm on the last day of the voting period.
+(2) However, a voting paper may be returned by post after the last day of the voting period as long as—
+  (a) it is returned before noon on the fourth day after the last day of the voting period; and
+  (b) it bears a postmark or date stamp, either on its envelope (if any) or on the voting paper itself, that was impressed—
+    (i) on a day during the voting period, by a postal operator registered under section 27 of the Postal Services Act 1998; or
+    (ii) before or on the second to last day of the voting period, in any country outside of New Zealand.
+(3) A voting paper returned under section 39(4) must be returned before 7 pm on the last day of the voting period.
+
+### 41 Voting papers returned late
+If any voting papers or envelopes containing voting papers are returned, but not in accordance with section 40, the Returning Officer must—
+  (a) enclose them in 1 or more parcels; and
+  (b) seal each parcel and mark it Disallowed, received late.
+
+**Progressive processing of voting papers**
+
+### 42 Processing of voting papers
+(1) As soon as practicable after any voting paper is returned in accordance with section 40, the Returning Officer must deal with it under subsection (2) of this section.
+(2) The Returning Officer must, in a manner that preserves the secrecy of the vote,—
+  (a) if the voting paper is in an envelope, extract the voting paper; and
+  (b) make a mark on the Returning Officer's copy of the roll, by the elector's name, to indicate that the voting paper dispatched to that elector has been returned; and
+  (c) if the voting paper is valid, record the elector's vote as marked or as informal; and
+  (d) if the voting paper is invalid, record the voting paper as invalid and the reasons for its invalidity; and
+  (e) place the voting paper in secure storage under the control of the Returning Officer.
+(3) The Returning Officer may carry out the duties in subsection (2) by any method and procedure he or she thinks fit, including the use of computer technology.
+
+### 43 Informal voting papers
+A voting paper is informal if the Returning Officer is satisfied that the voting paper does not clearly indicate the response for which the elector wished to vote.
+
+### 44 Invalid voting papers
+A voting paper is invalid if the Returning Officer is satisfied that the voting paper—
+  (a) is a forgery or a copy; or
+  (b) was dispatched by the Returning Officer to a person whose roll identifier number was supplied to the Returning Officer under section 26; or
+  (c) was posted to an elector under section 33, if—
+    (i) a voting paper was also posted under section 34 or faxed under section 35(4)(a) to the elector; or
+    (ii) the relevant parts of the voting paper were also dictated to the elector under section 35(4)(b); or
+  (d) was marked by a person other than—
+    (i) the elector intended to receive the voting paper; or
+    (ii) if section 38(2) applies, a person authorised by the elector to mark the voting paper; or
+    (iii) if section 38(4) applies, the Returning Officer; or
+  (e) was marked in breach of section 74(2) or section 75(1); or
+  (f) was not returned in accordance with section 40; or
+  (g) if returned by fax, is not a true copy of the original voting paper marked by the elector; or
+  (h) is damaged in such a way as to prevent it being processed.
+
+### 45 Protection of secrecy during processing
+(1) The Returning Officer must ensure that—
+  (a) the processing of voting papers is conducted at the office of the Returning Officer or in premises authorised by the Returning Officer; and
+  (b) when the office of the Returning Officer or any other premises are being used for the processing of voting papers, a sign is placed outside the office or premises stating that this is the case and that entry is prohibited without the express authorisation of the Returning Officer; and
+  (c) No person, without the express authorisation of the Returning Officer, enters the office of the Returning Officer or any other premises when the sign is in place.
+(2) The Returning Officer must take all reasonable steps to ensure the safe custody of all returned voting papers until they have been sent to the Clerk of the House under section 50.
+(3) Despite section 46(1), the Returning Officer may from time to time during the voting period assess the feasibility of any method chosen to calculate the result of the referendum if the assessment does not compromise the secrecy of voting or the result of the referendum.
+
+### 46 Publicity during processing
+(1) The Returning Officer must ensure that the result of voting is not calculated, whether partially or finally, before 7 pm on the last day of the voting period.
+(2) Despite subsection (1), the Returning Officer may from time to time during the voting period issue a press statement giving the total number of votes received at a date specified in the statement, but not the number of votes received for each response.
+
+### 47 Supervision of processing
+(1) In this section,—
+  - **duty** means the duty to observe the processing of voting papers
+  - **Judge** means a person appointed under subsection (2)
+  - **Justice** means a person appointed under subsection (3)
+  - **place** means the place at which voting papers are processed.
+(2) After consultation with the Chief District Court Judge, the Minister must appoint as many District Court Judges or retired District Court Judges to observe the processing of voting papers as the Minister considers necessary.
+(3) The Minister may also appoint as many Justices of the Peace to observe the processing of voting papers as the Minister considers necessary.
+(4) A Justice—
+  (a) is subject, in the exercise of his or her duty, to the direction of any Judge who is present at the place; but
+  (b) may exercise his or her duty whether or not any Judge is present at the place.
+(5) A Judge must finally determine whether or not any voting paper is valid or informal, if asked to do so by the Returning Officer.
+(6) A Justice must not finally determine whether or not any voting paper is valid or informal.
+
+**Announcing results**
+
+### 48 Procedure after close of voting period
+As soon as practicable after 7 pm on the last day of the voting period, the Returning Officer must—
+  (a) calculate the number of votes received for each response from the voting papers processed as at 7 pm on the last day of the voting period; and
+  (b) issue a press statement giving the numbers; and
+  (c) complete the processing of voting papers returned in accordance with section 40.
+
+### 49 Declaration of result of referendum
+When all the voting papers returned in accordance with section 40 have been processed, the Returning Officer must—
+  (a) calculate the total number of votes received for each response; and
+  (b) declare the result of the referendum by giving public notice of it in form 2; and
+  (c) give public notice of the following for each district:
+    (i) the votes received for each response; and
+    (ii) the number of informal votes.
+
+### 50 Disposal of voting papers and rolls
+(1) As soon as practicable after declaring the result of the referendum, the Returning Officer must—
+  (a) enclose and securely seal in 1 or more separate parcels—
+    (i) all returned voting papers, used or unused; and
+    (ii) the record of informal and invalid voting papers; and
+    (iii) the Returning Officer's copy of the roll; and
+  (b) send the parcels to the Clerk of the House.
+(2) The Clerk of the House must,—
+  (a) as soon as practicable, sign a receipt for the parcels and send it to the Returning Officer; and
+  (b) keep the parcels safely for 6 months unopened, unless a court of competent jurisdiction or the House of Representatives orders them, or any of them, to be opened; and
+  (c) ensure that at the end of 6 months the parcels are destroyed unopened in the presence of the Clerk of the House.
+(3) Section 190 of the Electoral Act 1993 applies, as far as is applicable and with any necessary modifications, to everything kept by the Clerk of the House under subsection (2).
+
+**Advertising**
+
+### 51 Advertisers to be identified
+(1) This section does not apply to an advertisement—
+  (a) relating to any aspect of a referendum; and
+  (b) published or broadcast by—
+    (i) the panel; or
+    (ii) the Returning Officer; or
+    (iii) the Chief Registrar; and
+  (c) containing a statement or symbol indicating that the advertisement has been authorised by 1 of those persons.
+(2) This section does not apply to the publication or broadcast of any news or comments relating to any aspect of a referendum.
+(3) A person who publishes or broadcasts an advertisement relating to any aspect of a referendum must include in the advertisement a statement setting out the true name of the person who commissioned it and that person's postal address.
+
+## Part 6 — Application for inquiry into conduct of referendum
+
+**Applicants**
+
+### 52 Who may be applicants
+(1) Any group of electors dissatisfied with the result of a referendum may apply to the High Court for an inquiry into the conduct of the referendum or of any person connected with it.
+(2) A group may make an application only if it has at least 200 members.
+
+**Respondents**
+
+### 53 Who may be respondents
+(1) Any group of electors may file notice of its intention to oppose an application, if there is only 1, or to oppose specified applications, if there are more than 1.
+(2) A group may file such a notice only if it has at least 24 members.
+(3) The notice must be in the prescribed form.
+(4) Such a notice must be filed at least 3 working days before the day fixed for the start of the hearing.
+(5) A group filing such a notice within that time becomes a respondent to the application or applications.
+
+### 54 Who may be respondents
+The person complained of is a respondent to the application if the person is—
+  (a) the Returning Officer; or
+  (b) a person employed or engaged under section 9; or
+  (c) the Chief Registrar; or
+  (d) an employee of New Zealand Post Limited; or
+  (e) a person acting under a delegation under section 11.
+
+**Making of application**
+
+### 55 Application form
+(1) The application must be in form 3, or in a similar form.
+(2) The application must state the specific grounds on which the applicant is dissatisfied with the result of the referendum.
+
+### 56 Application to be filed in Wellington High Court
+An applicant makes its application by filing the application in the High Court in Wellington.
+
+### 57 Time for making application
+An applicant must make its application within 20 working days after the Returning Officer has declared the result of the referendum under section 49(b).
+
+### 58 Application to be sent to Returning Officer
+The Registrar of the Court must send a copy of the application to the Returning Officer as soon as practicable after it is filed.
+
+### 59 Application to be served on respondents
+(1) An application must be served on a group that becomes a respondent under section 53 as soon as practicable after the group files its notice.
+(2) An application that asks for an inquiry into the conduct of a person connected with the referendum must be served on the person complained of as soon as practicable after it is made.
+(3) An application must be served in a manner as close as possible to that in which a statement of claim is served.
+
+**Hearing of application**
+
+### 60 Matters to be inquired into at hearing
+(1) At the hearing, the Court has jurisdiction to inquire into and adjudicate on any matter relating to the application in any manner that the Court thinks fit.
+(2) The Court may give leave for grounds other than those stated in the application to be inquired into. The leave may be given on any terms and conditions that the Court considers just.
+(3) Evidence may be given to prove that the total number of valid votes recorded for each of the 2 answers to the precise question was other than that declared, without any applicant having to state that as a ground of dissatisfaction or the Court having to give leave for that ground to be inquired into.
+(4) The sections of the Electoral Act 1993 described in subsection (5) of this section, as far as they are applicable and with the necessary modifications, apply to a hearing of an application for an inquiry under this Part of this Act or an incidental matter.
+(5) The sections of the Electoral Act 1993 referred to in subsection (4) of this section are sections 232 to 234, 235, 236(1), (2), (4) to (7), 240, 241, 242, 247 to 255, 256(1)(a) and (b), and 257.
+
+**Court's decision**
+
+### 61 Decision of Court as to result of referendum
+At the end of a hearing, the Court must do one of the following:
+  (a) it must determine the total number of valid votes recorded for each response; or
+  (b) it must determine whether the referendum is void because of some irregularity that in the Court's opinion materially affected the result of the referendum.
+
+### 62 Fresh referendum
+(1) If the Court declares a referendum void under section 61, a fresh referendum must be held in the manner specified by this Act.
+(2) The Registrar of the Court must notify the Returning Officer that the referendum has been declared void.
+(3) Despite section 30, the voting period for the fresh referendum must commence at the start of the 21st day before the day appointed for the close of the voting period under subsection (4) and no later than 30 working days after the date on which the Returning Officer is notified under subsection (2).
+(4) The voting period for a fresh referendum closes at 7 pm on a Friday to be appointed by the Returning Officer by notice in the Gazette.
+(5) At the fresh referendum the same roll of electors must be used as was used at the voided referendum.
+
+## Part 7 — Offences
+
+### 63 Officials
+(1) This section applies to the following persons:
+  (a) the Returning Officer:
+  (b) any person employed or engaged under section 9:
+  (c) the Chief Registrar:
+  (d) any employee of New Zealand Post Limited:
+  (e) any person acting under a delegation under section 11.
+(2) Every such person commits an offence if the person uses or discloses information acquired in connection with the referendum by that person in the capacity described in subsection (1), knowing that the use or disclosure is not required or permitted for the performance of that person's official duty.
+(3) Every person who commits an offence against this section is guilty of a corrupt practice for the purposes of the Electoral Act 1993.
+
+### 64 Rolls
+(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $2,000—
+  (a) who removes a copy of a printed preliminary referendum roll from any place where it is kept under section 17(1) or (3), except for the purpose of returning it to the Registrar for the district; or
+  (b) who fails, without reasonable excuse, to comply with section 17(5); or
+  (c) who fails, without reasonable excuse, to comply with section 18(4).
+(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $50,000—
+  (a) who knowingly copies the whole or any part of a copy of a printed preliminary referendum roll; or
+  (b) who knowingly supplies or receives the whole or any part of a copy of a printed preliminary referendum roll, except for the purposes of section 17(3) or section 18(3); or
+  (c) who knowingly uses the whole or any part of a copy of a printed preliminary referendum roll, except for the purposes of—
+    (i) checking that persons qualified to be on it are on it:
+    (ii) checking that persons not qualified to be on it are not on it:
+    (iii) encouraging persons qualified to be on it, whether or not they are, to apply for registration as electors under the Electoral Act 1993; or
+  (d) who fails, without reasonable excuse, to comply with section 27(2).
+(3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $100,000 who, except for the purposes of the referendum, knowingly copies, supplies, receives, or uses—
+  (a) the whole or any part of an unprinted preliminary referendum roll, the referendum roll, or the supplementary referendum roll, including any mark made under any of sections 26(6), 34(3)(b), 35(5), or 42(2)(b); or
+  (b) the whole or any part of any copy of an unprinted preliminary referendum roll, the referendum roll, or the supplementary referendum roll, including any mark made under any of sections 26(6), 34(3)(b), 35(5), or 42(2)(b).
+
+### 65 Official publicity campaign
+(1) Every person who knowingly copies, supplies, receives, or uses any information supplied under section 28(1) or (3), except for the purposes of the official publicity campaign, commits an offence and is liable on summary conviction to a fine not exceeding $100,000.
+(2) Every person who fails, without reasonable excuse, to comply with section 28(4) or (5) commits an offence and is liable on summary conviction to a fine not exceeding $50,000.
+
+### 66 Influencing electors generally
+(1) This section applies to any person who, at any time during the 3 days immediately before the commencement of the voting period or during the voting period, prints or distributes or delivers to any person anything—
+  (a) that is or purports to be an imitation of the voting paper, together with any direction or indication as to the response for which any person should or should not vote; or
+  (b) that is or purports to be an imitation of the voting paper and that has on it any matter likely to influence any vote.
+(2) Every such person commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(3) Nothing in this section applies to anything said or done—
+  (a) for the purposes of the official publicity campaign; or
+  (b) for the purposes of the referendum, by—
+    (i) the Returning Officer; or
+    (ii) a person employed or engaged under section 9; or
+    (iii) a person acting under a delegation under section 11.
+
+### 67 Advertisers
+Every person to whom section 51 applies commits an offence and is liable on summary conviction to a fine not exceeding $20,000 who fails, without reasonable excuse, to comply with that section.
+
+### 68 Voting papers
+(1) Every person commits an offence who—
+  (a) forges, or counterfeits, or fraudulently defaces, or fraudulently destroys a voting paper or an envelope containing a voting paper; or
+  (b) supplies a voting paper to any person knowing that the person is not the person intended to receive the voting paper; or
+  (c) dictates the relevant parts of the voting paper to a person, knowing that the person is not the person to whom the parts were intended to be dictated; or
+  (d) without due authority, destroys, takes, or interferes with a voting paper or an envelope containing a voting paper—
+    (i) in use for the purposes of the referendum; or
+    (ii) kept after the declaration of the result as a record of the referendum.
+(2) Every person who commits an offence against this section is liable on conviction on indictment,—
+  (a) if the Returning Officer, or any person employed or engaged under section 9, or any person acting under a delegation under section 11, to imprisonment for a term not exceeding 2 years:
+  (b) if any other person, to imprisonment for a term not exceeding 6 months.
+(3) Every person who commits an offence against this section is guilty of a corrupt practice for the purposes of the Electoral Act 1993.
+
+### 69 Bribery by any person at any time
+(1) In this section,—
+  (a) references to an elector include a person who claims to have a right to vote at a referendum:
+  (b) references to giving money include the following actions in relation to any money or valuable consideration:
+    (i) giving it; or
+    (ii) lending it; or
+    (iii) agreeing to give or lend it; or
+    (iv) offering it; or
+    (v) promising it; or
+    (vi) promising to get, or to try to get, it:
+  (c) references to getting any office include the following actions in relation to any office, place, or employment:
+    (i) giving it; or
+    (ii) getting it; or
+    (iii) agreeing to give or get it; or
+    (iv) offering it; or
+    (v) promising it; or
+    (vi) promising to get, or to try to get, it.
+(2) This section does not apply to money paid, or agreed to be paid, for or on account of any legal expenses incurred in good faith at or concerning a referendum.
+(3) Every person commits the offence of bribery who—
+  (a) gives any money to, or gets any office for, an elector in order to induce the elector to vote or refrain from voting at the referendum; or
+  (b) gives any money to, or gets any office for, a person, on behalf of an elector, in order to induce the elector to vote or refrain from voting at the referendum; or
+  (c) gives any money to, or gets any office for, a person in order to induce an elector to vote or refrain from voting at the referendum; or
+  (d) corruptly does an act described in any of paragraphs (a) to (c) on account of an elector having voted or refrained from voting at the referendum; or
+  (e) makes a gift to, or gets an office for, a person in order to induce that person to get, or try to get, the vote of any elector at the referendum.
+(4) A person commits the offence described in subsection (3) whether he or she does the act described there—
+  (a) directly or indirectly:
+  (b) on his or her own or through another person.
+(5) Every person commits the offence of bribery who—
+  (a) offers or pays or causes to be paid any money to, or for the use of, any other person intending that the money or part of it will be expended in bribery at a referendum; or
+  (b) knowingly pays or causes to be paid any money to any person in discharge or repayment of any money wholly or partly expended in bribery at a referendum.
+(6) Every person who commits the offence of bribery is guilty of a corrupt practice for the purposes of the Electoral Act 1993.
+
+### 70 Bribery by any person after voting period
+(1) Every person commits the offence of bribery if, after the voting period, he or she receives any money or valuable consideration on account of—
+  (a) any person having voted or refrained from voting at the referendum; or
+  (b) any person having induced any other person to vote or refrain from voting at the referendum.
+(2) A person commits the offence described in subsection (1) whether he or she does the act described there—
+  (a) directly or indirectly:
+  (b) on his or her own or through another person.
+(3) Every person who commits the offence of bribery is guilty of a corrupt practice for the purposes of the Electoral Act 1993.
+
+### 71 Bribery by elector before or during voting period
+(1) In this section, elector includes a person who claims to have a right to vote at a referendum.
+(2) An elector commits the offence of bribery if he or she receives, or agrees to receive, or contracts for, any money, gift, loan, valuable consideration, office, place, or employment for himself or herself, or for any other person, for—
+  (a) voting or agreeing to vote at the referendum; or
+  (b) refraining or agreeing to refrain from voting at the referendum.
+(3) An elector commits the offence described in subsection (2) whether he or she does the act described there—
+  (a) before or during the voting period:
+  (b) directly or indirectly:
+  (c) on his or her own or through another person.
+(4) Every elector who commits the offence of bribery is guilty of a corrupt practice for the purposes of the Electoral Act 1993.
+
+### 72 Treating
+(1) Every person commits the offence of treating who corruptly gives or provides, or pays wholly or partly the cost of giving or providing, any food, drink, entertainment, or provision to or for any person—
+  (a) for the purpose of corruptly influencing that person or any other person to vote or refrain from voting at a referendum; or
+  (b) on account of that person or any other person having voted or refrained from voting, or being about to vote or refrain from voting, at a referendum.
+(2) A person commits the offence described in subsection (1) whether he or she does the act described there—
+  (a) before, during, or after the voting period:
+  (b) directly or indirectly:
+  (c) on his or her own or through another person.
+(3) Every person who is the holder of a licence for the retail sale of liquor (within the meaning of the Sale of Liquor Act 1989) commits the offence of treating who, before or during the voting period, knowingly supplies any food, drink, entertainment, or provision—
+  (a) to any person when the supply is demanded for the purpose of treating; or
+  (b) to any persons, whether electors or not, for the purpose of getting votes for any response, and without receiving payment for it at the time when it is supplied.
+(4) Every elector who corruptly accepts or takes any such food, drink, entertainment, or provision also commits the offence of treating.
+(5) Every person who commits the offence of treating is guilty of a corrupt practice for the purposes of the Electoral Act 1993.
+
+### 73 Undue influence
+(1) Every person commits the offence of undue influence who makes use of, or threatens to make use of, any force, violence, or restraint upon or against any person—
+  (a) in order to induce or compel that person to vote for any response; or
+  (b) on account of that person having voted for any response; or
+  (c) on account of that person having voted or refrained from voting at a referendum.
+(2) A person commits the offence described in subsection (1) whether he or she does an act described there—
+  (a) directly or indirectly:
+  (b) on his or her own or through another person.
+(3) Every person commits the offence of undue influence who, by abduction, duress, or any fraudulent device or means,—
+  (a) impedes or prevents the free exercise of the vote of any elector at a referendum; or
+  (b) compels, induces, or prevails upon any elector either to vote or to refrain from voting at a referendum.
+(4) Every person who commits the offence of undue influence is guilty of a corrupt practice for the purposes of the Electoral Act 1993.
+
+### 74 Voting
+(1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who—
+  (a) is present in accordance with section 38(3) when a voter votes; and
+  (b) communicates at any time to any person any information obtained as to the response for which the voter is about to vote or has voted.
+(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $5,000—
+  (a) who—
+    (i) is authorised by a voter to mark the voting paper under section 38(3)(b); or
+    (ii) is the Returning Officer or a person acting under a delegation under section 11(1) and marks a voting paper under section 38(4); and
+  (b) who does not mark the voting paper in accordance with the voter's instructions.
+(3) Every person who, except for a lawful purpose, interferes with or attempts to interfere with a voter marking his or her voting paper at the referendum commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+
+### 75 Personation
+(1) Every person commits the offence of personation who—
+  (a) marks any voting paper knowing that he or she is not the person intended to receive the voting paper; or
+  (b) dictates a vote knowing that he or she is not the person to whom the relevant parts of the voting paper were intended to be dictated; or
+  (c) having returned a voting paper, returns another voting paper with the intention of returning an additional valid voting paper, whether or not any voting paper he or she returns is valid.
+(2) If the Returning Officer believes that any person has committed an offence against this section, the Returning Officer must report the facts on which that belief is based to the police.
+(3) Every person who commits, or aids, abets, counsels, or procures the commission of, the offence of personation is guilty of a corrupt practice for the purposes of the Electoral Act 1993.
+
+### 76 Processing
+(1) Every person who, without the express authorisation of the Returning Officer, enters the office of the Returning Officer or any other premises when the sign referred to in section 45(1)(b) is in place commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
+(2) If the Returning Officer, or a person acting under a delegation under section 11(1), fails to take all reasonable steps as required by section 45(2), with the result that any returned voting paper is removed from his or her custody, he or she commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
+(3) Every person commits an offence who is present at the processing of voting papers and—
+  (a) fails to maintain and aid in maintaining the secrecy of the voting; or
+  (b) communicates any information obtained at the processing of voting papers as to the response for which any vote is given in any particular voting paper.
+(4) Every person who commits an offence against subsection (3) is guilty of a corrupt practice for the purposes of the Electoral Act 1993.
+
+**Miscellaneous**
+
+### 77 Property may be stated as being in Returning Officer
+In any prosecution for an offence in relation to any voting paper or any envelope containing any voting paper, the property in the voting paper or envelope may be stated as being in the Returning Officer.
+
+## Part 8 — Miscellaneous provisions
+
+### 78 Validation of irregularities
+(1) In the circumstances described in subsection (2), the Governor-General may, by Order in Council, do any of the things described in subsection (3).
+(2) The circumstances are—
+  (a) if anything is omitted to be done at the time required by or under this Act; or
+  (b) if anything cannot be done at the time required by or under this Act; or
+  (c) if anything is done before or after the time required by or under this Act; or
+  (d) if anything is otherwise irregularly done in matter of form; or
+  (e) if sufficient provision for something that needs to be done is not made by or under this Act.
+(3) The things are—
+  (a) at any time before or after the time within which the thing is required to be done, to extend that time; or
+  (b) to validate anything done before or after the time required; or
+  (c) to validate anything irregularly done in matter of form; or
+  (d) to make such other provision for the case as the Governor-General thinks fit.
+
+### 79 Two or more referenda
+Two or more referenda may be held during the same voting period or during overlapping voting periods.
+
+### 80 Regulations and rules
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+  (a) prescribing forms for the purposes of this Act:
+  (b) prescribing the manner in which an application for a replacement voting paper must be made:
+  (c) providing for the faxing of voting papers under section 35(4)(a):
+  (d) providing for the dictation of the relevant parts of voting papers under section 35(4)(b) and the dictation of votes under section 38(4):
+  (e) applying, with or without modifications, for the purposes of this Act, the provisions of the Electoral Act 1993 and any regulations made under that Act:
+  (f) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(2) Rules of court may be made in the manner prescribed by the Judicature Act 1908 for the purposes of this Part.
+
+### 81 Enactments amended
+The enactments specified in Schedule 2 are amended in the manner indicated in that schedule.
+
+## Part 9 — Amendments to Citizens Initiated Referenda Act 1993
+
+### 82 Part to be part of the Citizens Initiated Referenda Act 1993
+This Part is part of the Citizens Initiated Referenda Act 1993 (in this Part referred to as the principal Act).
+
+### 83 Interpretation
+Section 2 of the principal Act is amended by inserting, in their appropriate alphabetical order, the following definitions:
+  - **applicant** means a group that makes an application
+  - **application** means an application under section 47
+  - **Court** , in Part 4, means the High Court
+  - **hearing** means the hearing of an application
+  - **person complained of** means a person named in an application as a person connected with the referendum, into whose conduct the application asks for an inquiry
+  - **postal voting** has the same meaning as it has in the Referenda (Postal Voting) Act 2000
+  - **Registrar of the Court** means the Registrar of the High Court where an application is filed
+  - **respondent** means a respondent to an application
+  - **voting period** has the same meaning as it has in the Referenda (Postal Voting) Act 2000.
+
+### 84 Part heading substituted
+The principal Act is amended by repealing the heading above section 3, and substituting the following Part heading:Indicative referendum petition.
+
+### 85 Prohibitions
+Section 4 of the principal Act is amended by omitting the words a petition under section 48 of, and substituting the words an application under.
+
+### 86 New sections 22 to 22AB substituted
+The principal Act is amended by repealing section 22, and substituting the following sections:Date of, or voting period for, indicative referendumDate of indicative referendum not conducted by postal votingDate of indicative referendum conducted by postal voting
+  (1) This section applies when a petition that has been certified correct under section 18(1)(a) is presented to the House of Representatives under section 21.
+  (2) Within 1 month after the date on which the indicative referendum petition is presented to the House of Representatives, the Governor-General must either—
+    (a) make an Order in Council appointing, in accordance with section 22AA, the date on which the indicative referendum is to be held under this Act; or
+    (b) make an Order in Council under section 5(b) of the Referenda (Postal Voting) Act 2000 specifying the indicative referendum as a referendum that must be conducted by postal voting.
+  (1) The date appointed under section 22(2)(a) for holding the indicative referendum under this Act must be a date within 12 months after the date on which the indicative referendum petition is presented to the House of Representatives.
+  (2) However, subsection (1) does not apply in the circumstances described in subsection (3) or subsection (5).
+  (3) The circumstances referred to in subsection (2) are that—
+    (a) the House of Representatives passes a resolution deferring the holding of the indicative referendum; and
+    (b) the resolution is passed within 3 months after the date on which the petition is presented to the House of Representatives; and
+    (c) the resolution is passed by a majority of 75% of all the members; and
+    (d) the House of Representatives fixes a date for the holding of the indicative referendum, and the date is not earlier than 12 months, and not later than 24 months, after the date on which the indicative referendum petition is presented to the House of Representatives.
+  (4) In the circumstances described in subsection (3), the date on which the indicative referendum is held is the date fixed by the House of Representatives.
+  (5) The circumstances referred to in subsection (2) are that—
+    (a) a general election must be held on a date that is within 12 months after the date on which the indicative referendum petition is presented to the House of Representatives (because of section 17 of the Constitution Act 1986); and
+    (b) the House of Representatives passes a resolution requiring the indicative referendum to be held on the polling day for the general election.
+  (6) In the circumstances described in subsection (5), the indicative referendum is held on polling day.
+  (7) If a writ for a general election is issued under section 126 of the Electoral Act 1993 after an Order in Council has been made under section 22(2)(a), the Governor-General may, by Order in Council, revoke the former Order in Council and appoint the polling day for the general election as the day on which the indicative referendum is to be held.
+  (1) This section applies when the Governor-General makes an Order in Council in accordance with section 22(2)(b) specifying that the indicative referendum be conducted by postal voting.
+  (2) The Friday appointed by the Governor-General under section 30(2) of the Referenda (Postal Voting) Act 2000 must be within 12 months after the date on which the indicative referendum petition is presented to the House of Representatives.
+  (3) However, subsection (2) does not apply in the circumstances described in subsection (4) or subsection (6).
+  (4) The circumstances are that—
+    (a) the House of Representatives passes a resolution deferring the holding of the indicative referendum; and
+    (b) the resolution is passed within 3 months after the date on which the petition is presented to the House of Representatives; and
+    (c) the resolution is passed by a majority of 75% of all the members; and
+    (d) the House of Representatives fixes a date for the closing of the voting period, and the date is not earlier than 12 months, and not later than 24 months, after the date on which the indicative referendum petition is presented to the House of Representatives.
+  (5) In the circumstances described in subsection (4),—
+    (a) the Governor-General does not appoint a Friday under section 30(2) of the Referenda (Postal Voting) Act 2000; and
+    (b) the date on which the voting period closes is the date fixed by the House of Representatives.
+  (6) The circumstances referred to in subsection (3) are that—
+    (a) a general election must be held on a date that is within 12 months after the date on which the indicative referendum petition is presented to the House of Representatives (because of section 17 of the Constitution Act 1986); and
+    (b) the House of Representatives passes a resolution requiring the voting period to close on the polling day for the general election.
+  (7) In the circumstances described in subsection (6), the date on which the voting period closes is polling day.
+  (8) If a writ for a general election is issued under section 126 of the Electoral Act 1993 after an Order in Council has been made in accordance with section 22(2)(b), the Governor-General may, by Order in Council, revoke the former Order in Council and appoint the polling day for the general election as the day on which the voting period closes.
+
+### 87 Part heading substituted
+The principal Act is amended by repealing the heading above section 24, and substituting the following Part heading:Indicative referendum
+
+### 88 New sections 24 to 26C substituted
+The principal Act is amended by repealing sections 24 to 26A, and substituting the following sections:Application of Electoral Act 1993 to indicative referendum not conducted by postal votingApplication of Electoral Act 1993 to indicative referendum conducted by postal votingApplication of this Act to indicative referendum conducted by postal votingGovernor-General's warrant for issue of writ: indicative referendum not conducted by postal votingGovernor-General's warrant for issue of writ: indicative referendum conducted by postal votingWrit for indicative referendum not conducted by postal votingWrit for indicative referendum conducted by postal votingNotice of issue of writ for indicative referendum not conducted by postal votingNotice of issue of writ for indicative referendum conducted by postal voting
+  (1) This section applies when the Governor-General makes an Order in Council under section 22(2)(a) appointing the date on which the indicative referendum is to be held under this Act.
+  (2) This section is subject to the provisions of this Act and of any regulations made under this Act.
+  (3) The indicative referendum is taken in the manner prescribed by the Electoral Act 1993 for the taking of an electoral poll.
+  (4) The provisions of the Electoral Act 1993 and of any regulations made under that Act, as far as they are applicable and with the necessary modifications, apply to the indicative referendum as if it were an electoral poll.
+  (5) However, the sections of the Electoral Act 1993 that do not apply to an indicative referendum are sections 4 to 15, 28 to 38, 41 to 45(8), 46 to 59, 62 to 71, 113, 125 to 140, 143 to 146, 148 to 154, 157(3), 160(1), (2), and (6), 165(1)(b), 168(1) to (3), 170(6), 174(1)(e), 178(8), 179(4), 180(1) to (5), 180(7)(e), 181, 183, 185, 186, 191 to 193, 196(g), 197 to 199, 203, 204, 206 to 214A, 221, 221A, 229 to 231, 236(3), 236(8), 237 to 239, 243 to 246, 256(1)(c), 256(2), 256(3), 258 to 262, 264, 267, 268, and 269 to 284.
+  (1) This section applies when the Governor-General makes an Order in Council in accordance with section 22(2)(b) specifying that the indicative referendum be conducted by postal voting.
+  (2) The provisions of the Electoral Act 1993 and of any regulations made under that Act apply to the indicative referendum to the extent provided by the Referenda (Postal Voting) Act 2000. The provisions invoked by the Referenda (Postal Voting) Act 2000 apply to the indicative referendum as far as they are applicable and with the necessary modifications.
+  (3) However, the sections of the Electoral Act 1993 that do not apply to an indicative referendum conducted by postal voting are sections 4 to 15, 28 to 38, 41 to 45(8), 46 to 59, 61 to 71, 113, 125 to 177, 178(8), 179(4), 180(1) to (5), 180(7)(e), 181 to 199, 203, 204, 206 to 214A, 215 to 219, 221, 221A, 229 to 231, 236(3), 236(8), 237 to 239, 243 to 246, 256(1)(c), 256(2), 256(3), 258 to 262, 264, and 266 to 284.
+  (1) This section applies when the Governor-General makes an Order in Council in accordance with section 22(2)(b) specifying that the indicative referendum be conducted by postal voting.
+  (2) Sections 27, 29 to 38, 40A, 40B, 48 to 51G, 52, 53, 54, and 58 do not apply to the indicative referendum.
+  (1) This section applies when the Governor-General makes an Order in Council under section 22(2)(a) appointing the date on which the indicative referendum is to be held under this Act.
+  (2) At least 28 days before the date appointed for the holding of the indicative referendum, the Governor-General must direct the Clerk of the Writs to proceed immediately to issue writs for the holding of the indicative referendum.
+  (3) The Governor-General must give the direction by signing and issuing a warrant in form 1 in the Schedule.
+  (1) This section applies when the Governor-General makes an Order in Council in accordance with section 22(2)(b) specifying that the indicative referendum be conducted by postal voting.
+  (2) At least 28 days before the commencement of the voting period, the Governor-General must direct the Clerk of the Writs to proceed immediately to issue a writ to the Returning Officer for the holding of the indicative referendum.
+  (3) The Governor-General must give the direction by signing and issuing a warrant that is as set out in form 1 in the Schedule except for the substitution of the words a writ for the word writs.
+  (4) In this section, Returning Officer has the same meaning as in the Referenda (Postal Voting) Act 2000.
+  (1) This section applies if section 25 applies.
+  (2) The Clerk of the Writs must, within 3 days after receiving the Governor-General's warrant, issue a writ in form 2 in the Schedule to the Returning Officer for each electoral district.
+  (3) The latest day for the return of the writ must be stated in the writ.
+  (4) The latest day must be the 50th day after the issue of the writ.
+  (1) This section applies if section 25A applies.
+  (2) The Clerk of the Writs must, within 3 days after receiving the Governor-General's warrant, issue a writ in form 2A in the Schedule to the Returning Officer.
+  (3) The latest day for the return of the writ must be stated in the writ.
+  (4) The latest day must be the 50th day after the issue of the writ.
+  (5) In this section, Returning Officer has the same meaning as in the Referenda (Postal Voting) Act 2000.
+  (1) This section applies if section 26 applies.
+  (2) The Clerk of the Writs must, immediately after signing a writ for an indicative referendum to be held in any district, cause a notice of the issue of the writ to be sent to—
+    (a) the Registrar of Electors for the district; and
+    (b) the Clerk of the House of Representatives; and
+    (c) the promoter of the indicative referendum petition seeking the holding of the indicative referendum.
+  (1) This section applies if section 26A applies.
+  (2) The Clerk of the Writs must, immediately after signing a writ for an indicative referendum to be conducted by postal voting, cause a notice of the issue of the writ to be sent to—
+    (a) the Returning Officer; and
+    (b) the Clerk of the House of Representatives; and
+    (c) the promoter of the indicative referendum petition seeking the holding of the indicative referendum.
+  (3) In this section, Returning Officer has the same meaning as in the Referenda (Postal Voting) Act 2000.
+
+### 89 Endorsement and return of the writ
+Section 39 of the principal Act is amended by adding the following subsection:
+  (5) In the case of an indicative referendum conducted by postal voting, Returning Officer, in subsection (1), has the same meaning as in the Referenda (Postal Voting) Act 2000.
+
+### 90 New sections 40 and 40AA substituted
+The principal Act is amended by repealing section 40, and substituting the following sections:Declaration of result of indicative referendum not conducted by postal votingDeclaration of result of indicative referendum conducted by postal voting
+  (1) This section applies when the Governor-General makes an Order in Council under section 22(2)(a) appointing the date on which the indicative referendum is to be held under this Act.
+  (2) As soon as practicable after the return of the writs, the Clerk of the Writs must ascertain the total number of valid votes recorded for each of the 2 answers to the precise question.
+  (3) The Clerk of the Writs—
+    (a) must notify in the Gazette—
+      (i) the total number of valid votes recorded for each of the 2 answers to the precise question; and
+      (ii) in respect of each electoral district, the total number of valid votes recorded for each of the 2 answers to the precise question; and
+    (b) must give to the Minister of Justice written notice of the numbers notified in the Gazette under paragraph (a).
+  (4) The Minister of Justice must, as soon as practicable, present to the House of Representatives a copy of the notice given to the Minister of Justice under subsection (3)(b).
+  (5) The Clerk of the Writs must forward to the Clerk of the House of Representatives the writs that have been returned.
+  (1) This section applies when the Governor-General makes an Order in Council in accordance with section 22(2)(b) specifying that the indicative referendum be conducted by postal voting.
+  (2) The result of an indicative referendum conducted by postal voting must be declared under section 49 of the Referenda (Postal Voting) Act 2000.
+
+### 91 New Part heading substituted
+The principal Act is amended by repealing the heading above section 41, and substituting the following Part heading:Publicity.
+
+### 92 Publicity for indicative referendum
+Section 41(1) of the principal Act is amended by inserting, after the words at any time in the indicative referendum period, the words or, in the case of a indicative referendum conducted by postal voting, at any time during the voting period,.
+
+### 93 Returns in relation to advertisements
+(1) Section 43 of the principal Act is amended by repealing subsections (1) and (2), and substituting the following subsections:
+  (1) In this section,—
+    - **advertisement** means an advertisement in relation to an indicative referendum petition or an advertisement promoting one of the answers to the precise question to be put to voters in an indicative referendum
+    - **advertiser** means a person for whom, or at whose direction, an advertisement is published or broadcast
+    - **appropriate official** means,—
+      (a) in the case of an indicative referendum conducted by postal voting, the Returning Officer within the meaning of the Referenda (Postal Voting) Act 2000:
+      (b) in the case of any other indicative referendum, the Chief Electoral Officer:
+    - **return** means a document that—
+      (a) lists where every advertisement was published or broadcast; and
+      (b) states the cost of every advertisement.
+  (1A) Every advertiser must make a return to the appropriate official as follows:
+    (a) if the petition finally lapses under this Act, within 1 month after the date on which the petition finally lapses; or
+    (b) if the result of the indicative referendum is notified in the Gazette under section 40(3)(a), within 1 month after the date on which the result is notified; or
+    (c) if the result is declared under section 49 of the Referenda (Postal Voting) Act 2000, within 1 month after the date on which the result is declared.
+(2) Section 43(3) of the principal Act is amended by omitting the expression subsection (1) of this section, and substituting the expression subsection (1A).
+(3) Section 43(4) of the principal Act is amended by omitting the expression subsection (1) of this section, and substituting the expression subsection (1A).
+
+### 94 Duty of Chief Electoral Officer
+[Repealed]
+
+### 95 Return to be open for public inspection
+[Repealed]
+
+### 96 Part heading substituted
+The principal Act is amended by repealing the heading above section 47, and substituting the following Part heading:Application for inquiry into conduct of indicative referendum
+
+### 97 New headings and sections 48 to 51G substituted
+The principal Act is amended by repealing sections 48 to 51, and substituting the following headings and sections:ApplicantsWho may be applicants1993 No 101 s 48(1)RespondentsWho may be respondents1993 No 101 s 49Who may be respondents1993 No 101 s 48(2)Making of applicationApplication form1993 No 101 s 48(3), (4)Application to be filed in High Court1993 No 101 s 48(4)Time for making application1993 No 101 s 48(1)Application to be sent to Returning Officer1993 No 101 s 48(4)Application to be served on respondents1993 No 101 s 48(5)Matters to be inquired into at hearing1993 No 101 s 48(3)Court's decisionDecision of Court as to result of indicative referendum1993 No 101 s 50Fresh indicative referendum1993 No 101 s 51.
+  If a group of at least 50 electors in an electoral district is dissatisfied with the result of the indicative referendum in that district, the group may apply to the High Court for an inquiry into the conduct of the referendum or of any person connected with it.
+  (1) Any group of at least 6 electors in the electoral district to which an application relates may file notice of its intention to oppose the application or, if there is more than 1, to oppose specified applications.
+  (2) The notice must be in the prescribed form.
+  (3) Such a notice must be filed at least 3 working days before the day fixed for the start of the hearing.
+  (4) A group filing such a notice within that time becomes a respondent to the application or applications.
+  The person complained of is a respondent to the application if the person is—
+    (a) the Returning Officer; or
+    (b) the Registrar of Electors.
+  (1) The application must be in form 6 in the Schedule, or in a similar form.
+  (2) The application must state the specific grounds on which the applicant is dissatisfied with the result of the referendum.
+  An applicant makes its application by filing the application in the High Court nearest to the place where the spokesperson for the applicant lives.
+  An applicant must make its application within 20 working days after the Returning Officer has declared the result of the indicative referendum under section 179(1) of the Electoral Act 1993 (as applied by this Act).
+  The Registrar of the Court must send a copy of the application to the Returning Officer as soon as practicable after it is filed.
+  (1) An application must be served on a group that becomes a respondent under section 49 as soon as practicable after the group files its notice.
+  (2) An application that asks for an inquiry into the conduct of a person connected with the indicative referendum must be served on the person complained of as soon as practicable after it is made.
+  (3) An application must be served in a manner as close as possible to that in which a statement of claim is served.
+  (1) At the hearing, the Court has jurisdiction to inquire into and adjudicate on any matter relating to the application in any manner that the Court thinks fit.
+  (2) The Court may give leave for grounds other than those stated in the application to be inquired into. The leave may be given on any terms and conditions that the Court considers just.
+  (3) Evidence may be given to prove that the total number of valid votes recorded for each of the 2 answers to the precise question was other than that declared, without any applicant having to state that as a ground of dissatisfaction or the Court having to give leave for that ground to be inquired into.
+  At the end of a hearing, the Court must do 1 of the following:
+    (a) it must determine the total number of valid votes recorded for each of the 2 answers to the precise question; or
+    (b) it must determine whether the indicative referendum is void because of some irregularity that in the Court's opinion materially affected the result of the indicative referendum.
+  (1) When the Court declares a indicative referendum void, a fresh indicative referendum must be held in the manner specified by this Act.
+  (2) The Registrar of the Court must notify the Returning Officer that the indicative referendum has been declared void.
+  (3) The Returning Officer must, by notice in the Gazette, fix a day for the holding of the fresh indicative referendum, which must be no later than 30 working days after the date on which the Returning Officer is notified under subsection (2).
+  (4) At the fresh indicative referendum the same roll of electors must be used as was used at the voided indicative referendum.
+
+### 98 New Part heading substituted
+The principal Act is amended by repealing the heading above section 52, and substituting the following Part heading:Offences
+
+### 99 Part heading substituted
+The principal Act is amended by repealing the heading above section 55, and substituting the following Part heading:Miscellaneous provisions
+
+### 100 New section 55 substituted
+The principal Act is amended by repealing section 55, and substituting the following section:Two or more referenda
+  (1) Two or more indicative referenda may be held on the same day.
+  (2) One or more indicative referenda may be held during the voting period for 1 or more referenda (within the meaning of the Referenda (Postal Voting) Act 2000).
+
+### 101 New section 58A inserted
+The principal Act is amended by inserting after section 58, the following section:Rules of court
+  Rules of court may be made in the manner prescribed in the Judicature Act 1908 for the purposes of Part 6.
+
+### 102 Schedule amended
+(1)
+(2) The Schedule of the principal Act is amended by repealing form 6, and substituting the form 6 in Schedule 4.
+
+### 103 Consequential repeals
+(1) Sections 5, 6, and 12 of the Citizens Initiated Referenda Amendment Act 1994 are consequentially repealed.
+(2) Sections 8 and 9 of the Citizens Initiated Referenda Amendment Act 1995 are consequentially repealed.
+
+## Schedule 1 — Forms
+
+| I, A.B., [Insert residence and occupation], solemnly and sincerely declare— |  |
+| --- | --- |
+| *(a) | that I will well and truly serve in the office of the Returning Officer, and will not do anything prohibited by sections 63, 64, 68, 74, and 76(2) to (3) of the Referenda (Postal Voting) Act 2000†: |
+| *(b) | that I will well and truly serve in the position for which I am employed under section 9 of the Referenda (Postal Voting) Act 2000, and will not do anything prohibited by sections 63, 64, 68, 74, and 76(2) to (3) of that Act: |
+| *(c) | that I will well and truly serve in the position for which I am engaged under section 9 of the Referenda (Postal Voting) Act 2000, and will not do anything prohibited by sections 63, 64, 68, 74, and 76(2) to (3) of that Act. |
+| Declared at [Place] on [Day] [Month][Year] |  |
+| before me: |  |
+| CD |  |
+| *Justice of the Peace |  |
+| *Solicitor |  |
+| *‡Returning Officer |  |
+| NOTE: |  |
+| *Delete if inapplicable. |  |
+| † sections 63, 64, 68, 74, and 76(2) to (3) of the Referenda (Postal Voting) Act 2000 are printed on the back of this form and must be read by or to the declarants to whom they apply. |  |
+| ‡ A declaration by the Returning Officer must be made before a Justice of the Peace or a solicitor. |  |
+
+| I declare the result of the referendum taken over the period commencing on [Date] and ending on [Date] on the *proposal *precise question— |  |
+| --- | --- |
+| [Specify proposal or precise question] |  |
+| to be as follows: |  |
+| †Votes received for the response [Identify response]: [Number] |  |
+| Dated at [Place] on [Day] [Month][Year] |  |
+|  | A.B. |
+|  | Returning Officer |
+| NOTE: |  |
+| *Delete if inapplicable. |  |
+| †Repeat for each response. |  |
+
+| In the High Court of New Zealand |  | No |
+| --- | --- | --- |
+| Wellington Registry |  |  |
+| In the matter of a referendum held on [Date] on [Describe proposal or question]. |  |  |
+| Applicant |  |  |
+| 1. The applicant is a group of [Number in group] electors who are dissatisfied with the result of the referendum. |  |  |
+| 2. The names, addresses, electoral districts, and signatures of each member of the group are set out in the appendix to this application. |  |  |
+| 3. The spokesperson for the group is [Name of spokesperson] of [Address of spokesperson]. |  |  |
+| 4. The applicant acts— |  |  |
+| (a) through a solicitor, who is [Name of solicitor], of [Address of solicitor]; or |  |  |
+| (b) through its spokesperson. |  |  |
+| [Delete one] |  |  |
+| Application |  |  |
+| 5. The applicant asks for an inquiry into— |  |  |
+|  | (a) the conduct of the referendum: |  |
+|  | (b) the conduct of [Name of person complained of], [Office described in section 54, if relevant], of [Address of person complained of], who was connected with the referendum. |  |
+| [Delete those which are inapplicable] |  |  |
+| 6. The specific grounds on which the applicant is dissatisfied with the result of the referendum are as follows: [State specific grounds]. |  |  |
+| 7. The applicant asks the court to— |  |  |
+|  | (a) determine the total number of valid votes recorded for each response; or |  |
+|  | (b) declare the referendum void. |  |
+| [Delete one] |  |  |
+| Address for service |  |  |
+| 8. The applicant's address for service is [Address]. |  |  |
+|  | Signature |  |
+| 9. | Spokesperson for applicant; or |  |
+|  | Person on behalf of spokesperson for applicant |  |
+| [Delete one] |  |  |
+
+| Name | Address | Electoral District | Signature |
+| --- | --- | --- | --- |
+
+## Schedule 2 — Enactments amended
+
+| The Electoral Act 1993 | 215 | Personation |
+| --- | --- | --- |
+|  | 216 | Bribery |
+|  | 217 | Treating |
+|  | 218 | Undue influence |
+|  | 219 | Payments for exhibition of election notices |
+|  | 220 | Providing money for illegal purposes |
+|  | 221 | Advertisements for candidates and political parties |
+|  | 221A | Electoral advertisements |
+|  | 222 | Procurement of voting by unqualified voters |
+
+| The Referenda (Postal Voting) Act 2000 | 68(2) | Voting papers |
+| --- | --- | --- |
+
+## Schedule 3 — New form inserted
+
+## Schedule 4 — New form substituted
+
+| In the High Court of New Zealand | No |
+| --- | --- |
+| Registry |  |
+
+| Spokesperson for applicant; or |
+| --- |
+| Person on behalf of spokesperson for applicant |
+
+| APPENDIX |  |  |  |
+| --- | --- | --- | --- |
+| Members of applicant group |  |  |  |
+| Name | Address | Electoral District | Signature |
