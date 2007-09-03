@@ -1,0 +1,2017 @@
+# Sentencing Act 2002
+_Consolidation as at 2007-09-03_
+
+### 1 Title
+This Act is the Sentencing Act 2002.
+
+### 2 Commencement
+This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+
+## Part 1 — Sentencing purposes and principles, and provisions of general application
+
+**Preliminary provisions**
+
+### 3 Purposes
+The purposes of this Act are—
+  (a) to set out the purposes for which offenders may be sentenced or otherwise dealt with; and
+  (b) to promote those purposes, and aid in the public's understanding of sentencing practices, by providing principles and guidelines to be applied by courts in sentencing or otherwise dealing with offenders; and
+  (c) to provide a sufficient range of sentences and other means of dealing with offenders; and
+  (d) to provide for the interests of victims of crime.
+
+### 4 Interpretation
+(1) In this Act, unless the context otherwise requires,—
+  - **commencement date** means the date specified in section 2
+  - **community-based sentence** has the meaning given to it in section 44
+  - **community work centre** means a community work centre established under section 126 of the Criminal Justice Act 1985
+  - **counsel** , in relation to any person, means a person enrolled as a barrister and solicitor of the High Court of New Zealand who is representing that person in any proceedings
+  - **court** means any court exercising jurisdiction in criminal cases
+  - **Crown organisation** has the same meaning as in section 4 of the Crown Organisations (Criminal Liability) Act 2002.
+  - **curfew address**
+  - **curfew period**
+  - **detention conditions**
+  - **detention end date**
+  - **determinate sentence of imprisonment** means a sentence of imprisonment for a fixed term
+  - **District Court** includes a Youth Court
+  - **epidemic management notice** means a notice under section 8(1) of the Epidemic Preparedness Act 2006 stating that the application of this Act is modified in order to deal with the practical effects of the outbreak of the disease referred to in the notice
+  - **health assessor** means a health practitioner who—
+    (a) is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine, and who is a practising psychiatrist; or
+    (b) is, or is deemed to be, registered with the Psychologists Board continued by section 114(1)(a) of the Health Practitioners Act 2003 as a practitioner of the profession of psychology; or
+    (c) a specialist assessor under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003
+  - **home detention** means detention under a sentence of imprisonment, in a residence (including a marae), of an offender who is on home detention under a direction made under section 35 of the Parole Act 2002
+  - **home detention residence**
+  - **hospital** means a hospital within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992
+  - **immediate family** , in relation to a victim,—
+    (a) means a member of the victim's family, whanau, or other culturally recognised family group, who is in a close relationship with the victim at the time of the offence; and
+    (b) to avoid doubt, includes a person who is—
+      (i) the victim's spouse, civil union partner, or de facto partner; or
+      (ii) the victim's child or stepchild; or
+      (iii) the victim's brother or sister or step-brother or step-sister; or
+      (iv) a parent or step-parent of the victim; or
+      (v) a grandparent of the victim.
+  - **incapable** , in relation to a person,—
+    (a) means that the person—
+      (i) lacks, wholly or partly, the capacity to understand the nature, and to foresee the consequences, of decisions in respect of matters relating to his or her personal care and welfare; or
+      (ii) has the capacity to understand the nature, and to foresee the consequences, of decisions in respect of matters relating to his or her personal care and welfare, but wholly lacks the capacity to communicate decisions in respect of matters of that kind; and
+    (b) includes the person being in a state of continuing unconsciousness
+  - **indeterminate sentence of imprisonment** means a sentence of imprisonment for life or a sentence of preventive detention
+  - **minimum period of imprisonment** means the period of imprisonment that the court has, under section 86 or section 89 or section 103, ordered that an offender must serve before he or she can be released under subpart 2 of Part 1 of the Parole Act 2002
+  - **non-release day**
+  - **offender** includes a person who is dealt with or is liable to be dealt with for non-payment of a sum of money, disobedience of a court order, or contempt of court
+  - **penal institution**
+  - **post-detention conditions**
+  - **prison** means a prison established or deemed to be established under the Corrections Act 2004.
+  - **probation area** means an area designated by the chief executive of the Department of Corrections for the administration of release conditions, community-based sentences, or orders
+  - **probation officer** means a person appointed to be, or designated as, a probation officer under section 124 of the Criminal Justice Act 1985; and includes a person exercising only some of the functions or powers of a probation officer under that Act
+  - **sentence of imprisonment** —
+    (a) includes a determinate sentence of imprisonment and an indeterminate sentence of imprisonment; but
+    (b) does not include a term of imprisonment imposed, whether by committal, sentence, or order, for—
+      (i) non-payment of a sum of money; or
+      (ii) disobedience of a court order; or
+      (iii) contempt of court
+  - **sentence term**
+  - **sentencing guidelines**
+  - **short-term sentence**
+  - **staff member of a penal institution**
+  - **staff member of a prison** means a staff member within the meaning of section 3(1) of the Corrections Act 2004.
+  - **Trial Judge** , in relation to a District Court, means a Judge who holds a warrant under section 28B of the District Courts Act 1947 to conduct trials on indictment
+  - **victim** —
+    (a) means—
+      (i) a person against whom an offence is committed by another person; and
+      (ii) a person who, through, or by means of, an offence committed by another person, suffers physical injury, or loss of, or damage to, property; and
+      (iii) a parent or legal guardian of a child, or of a young person, who falls within subparagraph (i) or subparagraph (ii), unless that parent or guardian is charged with the commission of, or convicted or found guilty of, or pleads guilty to, the offence concerned; and
+      (iv) a member of the immediate family of a person who, as a result of an offence committed by another person, dies or is incapable, unless that member is charged with the commission of, or convicted or found guilty of, or pleads guilty to, the offence concerned; and
+    (b) despite paragraph (a), if an offence is committed by a person, does not include another person charged (whether as a principal or party or accessory after the fact or otherwise) with the commission of, or convicted or found guilty of, or who pleads guilty to,—
+      (i) that offence; or
+      (ii) an offence relating to the same incident or series of incidents as that offence.
+(2) For the purposes of this Act,—
+  (a) an offender is subject to a sentence of imprisonment until the sentence expires (in accordance with sections 82 and 83 of the Parole Act 2002):
+  (ab)
+  (b) except as provided in paragraph (c), an offender is subject to a sentence of community work from the date that the sentence commences in accordance with section 75 or section 76 until the date that it expires in accordance with section 75:
+  (ba)
+  (c) an offender is not subject to a community-based sentence during any period that the community-based sentence is suspended under section 78(2)(a) or section 78(7).
+(3) For the purposes of this Act, otherwise dealing with an offender or other means of dealing with an offender—
+  (a) means dealing with the offender in relation to an offence following a finding of guilt or a plea of guilty, instead of imposing a sentence; and
+  (b) to avoid doubt, does not include dealing with a person for non-payment of a sum of money, disobedience of a court order, or contempt of court.
+(4) For the purposes of this Act, the offender, in the case of a Crown organisation that is charged with, or convicted of, an offence against the Building Act 2004 or the Health and Safety in Employment Act 1992, is that Crown organisation and not the Crown.
+
+### 5 Application of this Act
+(1) Except as provided in subsection (2), this Act binds the Crown.
+(2) This Act does not apply to proceedings under the Armed Forces Discipline Act 1971, or to proceedings on appeal from any decision under that Act, except as expressly provided in that Act.
+(3) Subject to section 6 and sections 148 to 160, this Act applies to offences committed before or after the commencement date.
+
+### 6 Penal enactments not to have retrospective effect to disadvantage of offender
+(1) An offender has the right, if convicted of an offence in respect of which the penalty has been varied between the commission of the offence and sentencing, to the benefit of the lesser penalty.
+(2) Subsection (1) applies despite any other enactment or rule of law.
+
+### 6A Application of sentencing guidelines
+[Repealed]
+
+**Purposes and principles of sentencing**
+
+### 7 Purposes of sentencing or otherwise dealing with offenders
+(1) The purposes for which a court may sentence or otherwise deal with an offender are—
+  (a) to hold the offender accountable for harm done to the victim and the community by the offending; or
+  (b) to promote in the offender a sense of responsibility for, and an acknowledgment of, that harm; or
+  (c) to provide for the interests of the victim of the offence; or
+  (d) to provide reparation for harm done by the offending; or
+  (e) to denounce the conduct in which the offender was involved; or
+  (f) to deter the offender or other persons from committing the same or a similar offence; or
+  (g) to protect the community from the offender; or
+  (h) to assist in the offender's rehabilitation and reintegration; or
+  (i) a combination of 2 or more of the purposes in paragraphs (a) to (h).
+(2) To avoid doubt, nothing about the order in which the purposes appear in this section implies that any purpose referred to must be given greater weight than any other purpose referred to.
+
+### 8 Principles of sentencing or otherwise dealing with offenders
+In sentencing or otherwise dealing with an offender the court—
+  (a) must take into account the gravity of the offending in the particular case, including the degree of culpability of the offender; and
+  (b) must take into account the seriousness of the type of offence in comparison with other types of offences, as indicated by the maximum penalties prescribed for the offences; and
+  (c) must impose the maximum penalty prescribed for the offence if the offending is within the most serious of cases for which that penalty is prescribed, unless circumstances relating to the offender make that inappropriate; and
+  (d) must impose a penalty near to the maximum prescribed for the offence if the offending is near to the most serious of cases for which that penalty is prescribed, unless circumstances relating to the offender make that inappropriate; and
+  (e) must take into account the general desirability of consistency with appropriate sentencing levels and other means of dealing with offenders in respect of similar offenders committing similar offences in similar circumstances; and
+  (f) must take into account any information provided to the court concerning the effect of the offending on the victim; and
+  (g) must impose the least restrictive outcome that is appropriate in the circumstances; and
+  (h) must take into account any particular circumstances of the offender that mean that a sentence or other means of dealing with the offender that would otherwise be appropriate would, in the particular instance, be disproportionately severe; and
+  (i) must take into account the offender's personal, family, whanau, community, and cultural background in imposing a sentence or other means of dealing with the offender with a partly or wholly rehabilitative purpose; and
+  (j) must take into account any outcomes of restorative justice processes that have occurred, or that the court is satisfied are likely to occur, in relation to the particular case (including, without limitation, anything referred to in section 10).
+
+### 9 Aggravating and mitigating factors
+(1) In sentencing or otherwise dealing with an offender the court must take into account the following aggravating factors to the extent that they are applicable in the case:
+  (a) that the offence involved actual or threatened violence or the actual or threatened use of a weapon:
+  (b) that the offence involved unlawful entry into, or unlawful presence in, a dwelling place:
+  (c) that the offence was committed while the offender was on bail or still subject to a sentence:
+  (d) the extent of any loss, damage, or harm resulting from the offence:
+  (e) particular cruelty in the commission of the offence:
+  (f) that the offender was abusing a position of trust or authority in relation to the victim:
+  (g) that the victim was particularly vulnerable because of his or her age or health or because of any other factor known to the offender:
+  (h) that the offender committed the offence partly or wholly because of hostility towards a group of persons who have an enduring common characteristic such as race, colour, nationality, religion, gender identity, sexual orientation, age, or disability; and
+    (i) the hostility is because of the common characteristic; and
+    (ii) the offender believed that the victim has that characteristic:
+  (ha) that the offence was committed as part of, or involves, a terrorist act (as defined in section 5(1) of the Terrorism Suppression Act 2002):
+  (i) premeditation on the part of the offender and, if so, the level of premeditation involved:
+  (j) the number, seriousness, date, relevance, and nature of any previous convictions of the offender and of any convictions for which the offender is being sentenced or otherwise dealt with at the same time.
+(2) In sentencing or otherwise dealing with an offender the court must take into account the following mitigating factors to the extent that they are applicable in the case:
+  (a) the age of the offender:
+  (b) whether and when the offender pleaded guilty:
+  (c) the conduct of the victim:
+  (d) that there was a limited involvement in the offence on the offender's part:
+  (e) that the offender has, or had at the time the offence was committed, diminished intellectual capacity or understanding:
+  (f) any remorse shown by the offender, or anything as described in section 10:
+  (g) any evidence of the offender's previous good character.
+(3) Despite subsection (2)(e), the court must not take into account by way of mitigation the fact that the offender was, at the time of committing the offence, affected by the voluntary consumption or use of alcohol or any drug or other substance (other than a drug or other substance used for bona fide medical purposes).
+(4) Nothing in subsection (1) or subsection (2)—
+  (a) prevents the court from taking into account any other aggravating or mitigating factor that the court thinks fit; or
+  (b) implies that a factor referred to in those subsections must be given greater weight than any other factor that the court might take into account.
+
+**Taking into account offer or agreement to make amends**
+
+### 10 Court must take into account offer, agreement, response, or measure to make amends
+(1) In sentencing or otherwise dealing with an offender the court must take into account—
+  (a) any offer of amends, whether financial or by means of the performance of any work or service, made by or on behalf of the offender to the victim:
+  (b) any agreement between the offender and the victim as to how the offender may remedy the wrong, loss, or damage caused by the offender or ensure that the offending will not continue or recur:
+  (c) the response of the offender or the offender's family, whanau, or family group to the offending:
+  (d) any measures taken or proposed to be taken by the offender or the family, whanau, or family group of the offender to—
+    (i) make compensation to any victim of the offending or family, whanau, or family group of the victim; or
+    (ii) apologise to any victim of the offending or family, whanau, or family group of the victim; or
+    (iii) otherwise make good the harm that has occurred:
+  (e) any remedial action taken or proposed to be taken by the offender in relation to the circumstances of the offending.
+(2) In deciding whether and to what extent any matter referred to in subsection (1) should be taken into account, the court must take into account—
+  (a) whether or not it was genuine and capable of fulfilment; and
+  (b) whether or not it has been accepted by the victim as expiating or mitigating the wrong.
+(3) If a court determines that, despite an offer, agreement, response, measure, or action referred to in subsection (1), it is appropriate to impose a sentence, it must take that offer, agreement, response, measure, or action into account when determining the appropriate sentence for the offender.
+(4) Without limiting any other powers of a court to adjourn, in any case contemplated by this section a court may adjourn the proceedings until—
+  (a) compensation has been paid; or
+  (b) the performance of any work or service has been completed; or
+  (c) any agreement between the victim and the offender has been fulfilled; or
+  (d) any measure proposed under subsection (1)(d) has been completed; or
+  (e) any remedial action referred to in subsection (1)(e) has been completed.
+
+**Hierarchy of sentences and orders**
+
+### 10A Hierarchy of sentences and orders
+[Repealed]
+
+**General provisions about discharge without conviction, etc, and imposition of reparation, fines, community-based sentences, and imprisonment**
+
+### 11 Discharge or order to come up for sentence if called on
+(1) If a person who is charged with an offence is found guilty, or pleads guilty, before entering a conviction and imposing a sentence the court must consider whether the offender would be more appropriately dealt with by—
+  (a) discharging the offender without conviction under section 106; or
+  (b) convicting and discharging the offender under section 108; or
+  (c) convicting the offender and ordering the offender, under section 110, to come up for sentence if called on.
+(2) If any provision applicable to the particular offence in this or any other enactment provides a presumption in favour of imposing, on conviction, a sentence of imprisonment, a community-based sentence, or a fine, then—
+  (a) despite subsection (1), a court is not obliged to consider whether the offender would be more appropriately dealt with in the manner described in any of paragraphs (a), (b), or (c) of that subsection; but
+  (b) the court is not precluded from dealing with the offender in that manner if the court thinks that it is appropriate in the circumstances.
+
+### 12 Reparation
+(1) If a court is lawfully entitled under Part 2 to impose a sentence of reparation, it must impose it unless it is satisfied that the sentence would result in undue hardship for the offender or the dependants of the offender, or that any other special circumstances would make it inappropriate.
+(2) A sentence of reparation may be imposed, in relation to any particular offence, on its own or in addition to any other sentence.
+(3) If a court does not impose a sentence of reparation in a case where it is lawfully entitled to do so, it must give reasons for not doing so.
+
+### 13 Sentence of fine
+(1) If a court is lawfully entitled under this or any other enactment to impose a fine in addition to, or instead of, any other sentence, the court must regard a fine as the appropriate sentence for the particular offence unless—
+  (a) the court is satisfied that the purpose or purposes for which sentence is being imposed cannot be achieved by imposing a fine; or
+  (b) the court is satisfied that the application of any of the principles in section 8 to the particular case make a fine inappropriate; or
+  (c) any provision applicable to the particular offence in this or any other enactment provides a presumption in favour of imposing any other sentence or requires the court to impose any other sentence; or
+  (d) the court is satisfied that a fine, on its own or in addition to a sentence of reparation, would otherwise be clearly inadequate in the circumstances.
+
+### 14 Reparation, fines, and financial capacity of offender
+(1) Even if it would be appropriate in accordance with section 13 to impose a fine, a court may nevertheless decide not to impose a fine if it is satisfied that the offender does not or will not have the means to pay it.
+(2) If a court considers that it would otherwise be appropriate to impose a sentence of reparation and a sentence of a fine, but it appears to the court that the offender has or will have the means to pay a fine or make reparation, but not both, the court must sentence the offender to make reparation.
+
+### 15 Community-based sentence
+(1) If a court is lawfully entitled under this or any other enactment to impose a community-based sentence or a fine, or both, it may impose a community-based sentence only if—
+  (a) the court, in accordance with section 13, does not regard a fine as the appropriate sentence; or
+  (b) the court is not going to impose a fine because of either of the circumstances referred to in section 14.
+(2) This section is subject to any provision in this or any other enactment that—
+  (a) provides a presumption in favour of or against imposing a particular sentence in relation to a particular offence; or
+  (b) requires a court to impose a particular sentence in relation to a particular offence.
+
+### 15A Sentence of home detention
+[Repealed]
+
+### 15B Limitation on sentence of home detention for person under 17 years
+[Repealed]
+
+### 16 Sentence of imprisonment
+(1) When considering the imposition of a sentence of imprisonment for any particular offence, the court must have regard to the desirability of keeping offenders in the community as far as that is practicable and consonant with the safety of the community.
+(2) The court must not impose a sentence of imprisonment unless it is satisfied that,—
+  (a) a sentence is being imposed for all or any of the purposes in section 7(1)(a) to (c), (e), (f), or (g); and
+  (b) those purposes cannot be achieved by a sentence other than imprisonment; and
+  (c) No other sentence would be consistent with the application of the principles in section 8 to the particular case.
+(3) This section is subject to any provision in this or any other enactment that—
+  (a) provides a presumption in favour of or against imposing a sentence of imprisonment in relation to a particular offence; or
+  (b) requires a court to impose a sentence of imprisonment in relation to a particular offence.
+
+### 17 Imprisonment may be imposed if offender unlikely to comply with other sentences
+Nothing in this Part limits the discretion of a court to impose a sentence of imprisonment on an offender if the court is satisfied on reasonable grounds that the offender is unlikely to comply with any other sentence that it could lawfully impose and that would otherwise be appropriate.
+
+### 18 Limitation on imprisonment of person under 17 years
+(1) No court may impose a sentence of imprisonment on an offender in respect of a particular offence, other than a purely indictable offence, if, at the time of the commission of the offence, the offender was under the age of 17 years.
+(2) In subsection (1), purely indictable offence means any indictable offence within the meaning of section 2(1) of the Summary Proceedings Act 1957, other than an offence for which, under section 6 of that Act, proceedings may be taken in a summary way in accordance with that Act.
+
+**Permitted combinations of sentences**
+
+### 19 Limitations on use of certain combinations of sentences
+(1) Unless the particular enactment expressly provides otherwise, no court may, in respect of any particular offence, impose on an offender both a fine and a sentence of imprisonment.
+(2) No court may, in respect of any particular offence, or in respect of 2 or more offences, impose on an offender both a community-based sentence and a sentence of imprisonment.
+(3) If an offender who is before a court for sentence is already detained under a sentence of imprisonment imposed on an earlier occasion, the court must not impose on the offender any kind of community-based sentence.
+
+### 20 Use of combination sentences including community-based sentences
+(1) This section applies to the imposition on an offender of a combination of sentences that includes a community-based sentence or sentences in respect of a particular offence.
+(2) No court may impose both a fine and a sentence of community work but, subject to this section, may impose—
+  (a) a sentence of supervision and a sentence of community work; or
+  (b) a sentence of supervision and a fine.
+(3) A court may only impose both a sentence of supervision and a fine if the court is satisfied that either of those sentences, if imposed individually, would not be in accordance with—
+  (a) the purpose or purposes for which sentence is imposed; or
+  (b) the application of the principles in section 8 to the particular case.
+(4) A court may only impose both a sentence of supervision and a sentence of community work if the court is satisfied that—
+  (a) either of those sentences, if imposed individually, would not be in accordance with—
+    (i) the purpose or purposes for which sentence is imposed; or
+    (ii) the application of the principles in section 8 to the particular case; and
+  (b) imposing a sentence of supervision and a fine would not be in accordance with—
+    (i) the purpose or purposes for which sentence is imposed; or
+    (ii) the application of the principles in section 8 to the particular case; and
+  (c) a sentence of community work is appropriate, but the offender requires the imposition of standard conditions or any of the special conditions available under a sentence of supervision to address the causes of his or her offending.
+
+### 21 Effect of provisions concerning multiple sentences on powers of court
+Nothing in sections 19 and 20—
+  (a) empowers a court to impose any sentence that it would not otherwise be empowered to impose; or
+  (b) limits the power of a court to make any order that it is empowered to make on the conviction of any person, whether under this or any other enactment.
+
+**Sentencing guidelines**
+
+### 21A Court must adhere to sentencing guidelines
+[Repealed]
+
+**Provisions of general application restricting cumulative sentences**
+
+### 22 No sentence may be cumulative on non-association order
+No sentence of any kind may be imposed cumulatively on a non-association order.
+
+### 23 No sentence may be cumulative on indeterminate sentence of imprisonment
+No sentence of any kind may be imposed cumulatively on an indeterminate sentence of imprisonment.
+
+**Proof of facts**
+
+### 24 Proof of facts
+(1) In determining a sentence or other disposition of the case, a court—
+  (a) may accept as proved any fact that was disclosed by evidence at the hearing or trial and any facts agreed on by the prosecutor and the offender; and
+  (b) must accept as proved all facts, express or implied, that are essential to a plea of guilty or a finding of guilt.
+(2) If a fact that is relevant to the determination of a sentence or other disposition of the case is asserted by one party and disputed by the other,—
+  (a) the court must indicate to the parties the weight that it would be likely to attach to the disputed fact if it were found to exist, and its significance to the sentence or other disposition of the case:
+  (b) if a party wishes the court to rely on that fact, the parties may adduce evidence as to its existence unless the court is satisfied that sufficient evidence was adduced at the hearing or trial:
+  (c) the prosecutor must prove beyond a reasonable doubt the existence of any disputed aggravating fact, and must negate beyond a reasonable doubt any disputed mitigating fact raised by the defence (other than a mitigating fact referred to in paragraph (d)) that is not wholly implausible or manifestly false:
+  (d) the offender must prove on the balance of probabilities the existence of any disputed mitigating fact that is not related to the nature of the offence or to the offender's part in the offence:
+  (e) either party may cross-examine any witness called by the other party.
+(3) For the purposes of this section,—
+  - **aggravating fact** means any fact that—
+    (a) the prosecutor asserts as a fact that justifies a greater penalty or other outcome than might otherwise be appropriate for the offence; and
+    (b) the court accepts is a fact that may, if established, have that effect on the sentence or other disposition of the case
+  - **mitigating fact** means any fact that—
+    (a) the offender asserts as a fact that justifies a lesser penalty or other outcome than might otherwise be appropriate for the offence; and
+    (b) the court accepts is a fact that may, if established, have that effect on the sentence or other disposition of the case.
+
+**Sentencing procedure**
+
+### 25 Power of adjournment for inquiries as to suitable punishment
+(1) A court may adjourn the proceedings in respect of any offence after the offender has been found guilty or has pleaded guilty and before the offender has been sentenced or otherwise dealt with for any 1 or more of the following purposes:
+  (a) to enable inquiries to be made or to determine the most suitable method of dealing with the case:
+  (b) to enable a restorative justice process to occur:
+  (c) to enable a restorative justice agreement to be fulfilled:
+  (d) to enable a rehabilitation programme or course of action to be undertaken:
+  (e) to enable the court to take account of the offender's response to any process, agreement, programme, or course of action referred to in paragraph (b), (c), or (d).
+(2) If proceedings are adjourned under this section or under section 10(4), a Judge or Justice or Community Magistrate having jurisdiction to deal with offences of the same kind (whether or not the same Judge or Justice or Community Magistrate before whom the case was heard) may, after inquiry into the circumstances of the case, sentence or otherwise deal with the offender for the offence to which the adjournment relates.
+
+### 26 Pre-sentence reports
+(1) If an offender who is charged with an offence punishable by imprisonment is found guilty or pleads guilty, the court may direct a probation officer to provide a report to the court under subsection (2).
+(2) A pre-sentence report may include—
+  (a) information regarding the personal, family, whanau, community, and cultural background, and social circumstances of the offender:
+  (b) information regarding the factors contributing to the offence, and the rehabilitative needs of the offender:
+  (c) information regarding any offer, agreement, response, or measure of a kind referred to in section 10(1) or the outcome of any other restorative justice processes that have occurred in relation to the case:
+  (d) recommendations on the appropriate sentence or other disposition of the case, taking into account the risk of further offending by the offender:
+  (e) in the case of a proposed sentence of supervision, recommendations on the appropriate conditions of a sentence of supervision:
+  (f) in the case of a proposed sentence of supervision involving 1 or more programmes,—
+    (i) a report on the programme or programmes, including a general description of the conditions that the offender will have to abide by; and
+    (ii) confirmation that the report has been made available to the offender:
+  (g) in the case of a proposed sentence of supervision involving a special condition requiring the offender to take prescription medication, confirmation that the offender—
+    (i) has been fully advised by a person who is qualified to prescribe that medication about the nature and likely or intended effect of the medication and any known risks; and
+    (ii) consents to taking the prescription medication:
+  (h) in the case of a proposed sentence of community work, information regarding the availability of community work of a kind referred to in section 63 in the area in which the offender will reside.
+(3) The court must not direct the preparation of a report under subsection (1) on any aspects of the personal characteristics or personal history of an offender if a report covering those aspects is readily available to the court and there is no reason to believe that there has been any change of significance to the court since the report was prepared.
+(4) On directing the preparation of a report under subsection (1), the court may indicate to the probation officer the type of sentence or other mode of disposition that the court is considering, and may also give any other guidance to the probation officer that will assist the officer to prepare the report.
+(5) If a court has directed the preparation of a report under subsection (1), the probation officer charged with the preparation of the report may seek the further directions of the court on—
+  (a) any particular item of information sought by the court; or
+  (b) any alternative sentence or other mode of disposition that may be considered by the court if it appears that the sentence or other mode of disposition under consideration is inappropriate.
+
+### 26A Additional requirements when considering sentence of community detention or home detention
+[Repealed]
+
+### 27 Offender may request court to hear person on personal, family, whanau, community, and cultural background of offender
+(1) If an offender appears before a court for sentencing, the offender may request the court to hear any person or persons called by the offender to speak on—
+  (a) the personal, family, whanau, community, and cultural background of the offender:
+  (b) the way in which that background may have related to the commission of the offence:
+  (c) any processes that have been tried to resolve, or that are available to resolve, issues relating to the offence, involving the offender and his or her family, whanau, or community and the victim or victims of the offence:
+  (d) how support from the family, whanau, or community may be available to help prevent further offending by the offender:
+  (e) how the offender's background, or family, whanau, or community support may be relevant in respect of possible sentences.
+(2) The court must hear a person or persons called by the offender under this section on any of the matters specified in subsection (1) unless the court is satisfied that there is some special reason that makes this unnecessary or inappropriate.
+(3) If the court declines to hear a person called by the offender under this section, the court must give reasons for doing so.
+(4) Without limiting any other powers of a court to adjourn, the court may adjourn the proceedings to enable arrangements to be made to hear a person or persons under this section.
+(5) If an offender does not make a request under this section, the court may suggest to the offender that it may be of assistance to the court to hear a person or persons called by the offender on any of the matters specified in subsection (1).
+
+### 28 Disclosure of reports
+(1) If a written report is submitted to a court, whether under section 26 or section 33 or otherwise, a copy of the report must be given,—
+  (a) except as provided in subsection (2), to the offender; and
+  (b) if the offender is represented, to the offender's counsel, whether or not an order is made under subsection (2).
+(2) The court may order that any part of the report not be disclosed to the offender if it is of the opinion that the disclosure would be likely to prejudice the offender's physical or mental health or endanger the safety of any person.
+(3) The offender or his or her counsel may tender evidence on any matter referred to in any report, whether written or oral, that is submitted to a court under section 26 or section 33.
+(4) Failure to give a copy of any report in accordance with this section does not affect the validity of the proceedings in a court or of any order made or sentence imposed by a court.
+
+### 29 Access to reports
+(1) The following persons may have access to any report submitted to a court under section 26 or section 33, and held by the court:
+  (a) the manager or other person in charge of a prison to which the offender is sent, whether during any proceedings or in accordance with any sentence imposed:
+  (b) a Director of Area Mental Health Services, or a staff member of a hospital, who requires access to the report for the purposes of his or her official duties:
+  (ba) a compulsory care co-ordinator, or a staff member of a facility under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, who requires access to the report for the purposes of his or her official duties:
+  (c) an officer or employee of the Department of Corrections or the Department for Courts, or a staff member of a prison, who requires access to the report for the purposes of his or her official duties:
+  (d) a member of the New Zealand Parole Board:
+  (e) the prosecutor appearing on sentence or on appeal against sentence.
+(2) Despite anything in the Official Information Act 1982 or the Privacy Act 1993, no person may have access under either of those Acts to a report or any part of a report that a court has ordered under section 28 or section 34 not to be disclosed to that person.
+
+### 30 No sentence of imprisonment to be imposed without opportunity for legal representation
+(1) No court may impose a sentence of imprisonment on an offender who has not been legally represented at the stage of the proceedings at which the offender was at risk of conviction, except as provided in subsection (2).
+(2) Subsection (1) does not apply if the court is satisfied that the offender—
+  (a) was informed of his or her rights relating to legal representation, including, where appropriate, the right to apply for legal aid under the Legal Services Act 2000; and
+  (b) fully understood those rights; and
+  (c) had the opportunity to exercise those rights; and
+  (d) refused or failed to exercise those rights, or engaged counsel but subsequently dismissed him or her.
+(3) If, on any appeal against sentence, a court finds that a sentence was imposed in contravention of subsection (1), the court must either—
+  (a) quash the sentence imposed and impose in substitution for it any other lawful sentence that the court thinks ought to have been imposed; or
+  (b) quash the conviction and direct a new hearing or trial, or make any other order that justice requires.
+(4) For the purposes of this section, an offender refuses or fails to exercise his or her rights relating to legal representation if the offender—
+  (a) refuses or fails to apply for legal aid under the Legal Services Act 2000 or applies for it unsuccessfully; and
+  (b) refuses or fails to engage counsel by other means.
+
+### 31 General requirement to give reasons
+(1) A court must give reasons in open court—
+  (a) for the imposition of a sentence or for any other means of dealing with the offender; and
+  (b) for the making of an order under Part 2.
+(1A)
+(2) The reasons may be given under this section with whatever level of particularity is appropriate to the particular case.
+(3) Nothing in this section limits any other provision of this or any other enactment that requires a court to give reasons.
+(4) The fact that a court, in giving reasons in a particular case, does not mention a particular principle in section 8 or a particular factor in section 9 or a consideration under section 10 or section 11 is not in itself grounds for an appeal against a sentence imposed or an order made in that case.
+
+## Part 2 — Sentences, orders, and related matters
+
+### Subpart 1 — Monetary penalties
+
+**Reparation**
+
+### 32 Sentence of reparation
+(1) A court may impose a sentence of reparation if an offender has, through or by means of an offence of which the offender is convicted, caused a person to suffer—
+  (a) loss of or damage to property; or
+  (b) emotional harm; or
+  (c) loss or damage consequential on any emotional or physical harm or loss of, or damage to, property.
+(2) Despite subsection (1), a court must not impose a sentence of reparation in respect of emotional harm, or loss or damage consequential on emotional harm, unless the person who suffered the emotional harm is a person described in paragraph (a) of the definition of victim in section 4.
+(3) In determining whether a sentence of reparation is appropriate or the amount of reparation to be made for any consequential loss or damage described in subsection (1)(c), the court must take into account whether there is or may be, under the provisions of any enactment or rule of law, a right available to the person who suffered the loss or damage to bring proceedings or to make any application in relation to that loss or damage.
+(4) Subsection (3) applies whether or not the right to bring proceedings or make the application has been exercised in the particular case, and whether or not any time prescribed for the exercise of that right has expired.
+(5) Despite subsections (1) and (3), the court must not order the making of reparation in respect of any consequential loss or damage described in subsection (1)(c) for which the court believes that a person has entitlements under the Injury Prevention, Rehabilitation, and Compensation Act 2001.
+(6) When determining the amount of reparation to be made, the court must take into account any offer, agreement, response, measure, or action as described in section 10.
+(7) The court must not impose as part of a sentence of reparation an obligation on the offender to perform any form of work or service for the person who suffered the harm, loss, or damage.
+(8) Nothing in section 320 of the Injury Prevention, Rehabilitation, and Compensation Act 2001 applies to sentencing proceedings.
+
+### 33 Court may order reparation report
+(1) If the court considers that a sentence of reparation may be appropriate, the court may order a probation officer, or any other person designated by the court for the purpose, to prepare a reparation report for the court in accordance with section 34 on all or any of the following matters:
+  (a) in the case of loss of or damage to property, the value of that loss or damage and any consequential loss or damage:
+  (b) in the case of emotional harm, the nature of that harm and the value of any consequential loss or damage:
+  (c) in the case of any loss or damage consequential on physical harm,—
+    (i) the nature and value of the loss or damage; and
+    (ii) the extent to which the person who suffered the loss or damage is likely to be covered by entitlements under the Injury Prevention, Rehabilitation, and Compensation Act 2001:
+  (d) the financial capacity of the offender:
+  (e) the maximum amount that the offender is likely to be able to pay under a sentence of reparation:
+  (f) the frequency and magnitude of any payments that should be required under a sentence of reparation, if provision for payment by instalments is thought desirable.
+(2) The court may decline to seek a report under subsection (1) and impose a sentence of reparation without further inquiry if—
+  (a) the court is satisfied as to the amount of reparation that the offender should pay; or
+  (b) the type of information referred to in a reparation report is available through other means (including, without limitation, a declaration made following a direction under section 41); or
+  (c) in all the circumstances the court considers that a report is unnecessary.
+(3) For the purposes of the preparation of a reparation report, a court may direct the offender to make a declaration as to his or her financial capacity in accordance with section 42.
+
+### 34 Reparation reports
+(1) A probation officer or other person who is required by a court to prepare a report under section 33 must attempt to gain agreement between the offender and the person who suffered the harm, loss, or damage on the amount that the offender should be required to pay by way of reparation.
+(2) If agreement is reached, the probation officer or other person must report the terms of the agreement to the court (in addition to any other matters on which the court has required a report).
+(3) If no agreement is reached, the probation officer or other person must,—
+  (a) in respect of emotional harm, state in the report the respective positions of the offender and the person who suffered the harm, and that the matter is unresolved; and
+  (b) in respect of loss of, or damage to, property, either—
+    (i) determine the value of the loss or damage and the consequential loss or damage on the evidence available, and include that value in the report; or
+    (ii) state in the report that the matter is unresolved; and
+  (c) in respect of loss or damage consequential on emotional or physical harm, either—
+    (i) determine the value of the loss or damage on the evidence available, and include that value in the report; or
+    (ii) state in the report the respective positions of the offender and the person who suffered the loss or damage, and that the matter is unresolved.
+(4) Despite subsections (1) to (3), the person who suffered the harm, loss, or damage is not obliged to meet with the offender or otherwise participate in the preparation of the report.
+(5) The person who prepared a report under this section must give a copy to the person who suffered the harm, loss, or damage unless the court orders otherwise.
+(6) Failure to give a copy of any report in accordance with subsection (5) does not affect the validity of the proceedings in a court or of any order made or sentence imposed by a court.
+
+### 35 Taking into account financial capacity of offender
+(1) If the offender has insufficient means to pay the total value of the loss, damage, or harm, the court may sentence the offender to make—
+  (a) reparation for any amount that is less than the value of the loss, damage, or harm; or
+  (b) payment by instalments in respect of the loss, damage, or harm; or
+  (c) both (a) and (b).
+(2) If the court imposes on an offender a sentence of reparation and a sentence of a fine, any payments received from the offender must be applied first in satisfaction of the amount due under the sentence of reparation.
+
+### 36 Conditions of sentence of reparation
+(1) If a court sentences an offender to make reparation, the court must determine the conditions of the sentence in respect of the following matters:
+  (a) the total amount of reparation to be paid by the offender:
+  (b) whether the amount is to be paid in 1 lump sum or in instalments:
+  (c) if the amount is to be paid in 1 lump sum, whether it is to be paid immediately or at some specified future date:
+  (d) if the amount is to be paid in instalments, the frequency and amounts of the instalments.
+(2) The court may not impose a condition that an amount to be paid in 1 lump sum must be paid immediately unless the court is satisfied that the offender has sufficient means to pay it immediately.
+(3) If the court imposes a condition on a sentence of reparation that it must be paid immediately in 1 lump sum, section 83(2) of the Summary Proceedings Act 1957 applies as if the condition were an order under section 83(1) of that Act.
+
+### 37 Copy of conditions of reparation to be given to person who suffered harm, loss, or damage
+(1) A copy of the conditions of a sentence of reparation must be given to the person who suffered the harm, loss, or damage.
+(2) Failure to give a copy of the conditions of the sentence in accordance with this section does not affect the validity of the proceedings in the court or of the sentence imposed by the court.
+
+### 38 Payment of sums to person who suffered harm, loss, or damage
+(1) Every sum payable under a sentence of reparation must be paid to the person who suffered the harm, loss, or damage, or, with that person's consent, to that person's insurer.
+(2) A sentence of reparation does not affect any right that the person who suffered the harm, loss, or damage has to recover by civil proceedings any damages in excess of the amount recovered under the sentence.
+
+**Fines**
+
+### 39 Power to impose fine instead of imprisonment or community-based sentence
+(1) If an enactment provides that a court may sentence an offender to imprisonment but does not prescribe a fine, the court may sentence the offender to pay a fine instead of sentencing the offender to imprisonment.
+(2) If an enactment provides that a court may sentence an offender to a community-based sentence but does not prescribe a fine, the court may sentence the offender to pay a fine instead of imposing a community-based sentence.
+(2A)
+(3) Subsections (1) and (2) are subject to any express provision to the contrary in the relevant enactment.
+(4) No person may, except as provided by section 28F of the District Courts Act 1947, be sentenced by a District Court in accordance with this section to pay a fine exceeding—
+  (a) $10,000, if the Court is presided over by a Judge; or
+  (b) $400, if the Court is presided over by a Justice or 1 or more Community Magistrates.
+
+### 40 Determining amount of fine
+(1) In determining the amount of a fine, the court must take into account, in addition to the provisions of sections 7 to 10, the financial capacity of the offender.
+(2) Subsection (1) applies whether taking into account the financial capacity of the offender has the effect of increasing or reducing the amount of the fine.
+(3) If under an enactment an offender is liable to a fine of a specified amount, the offender may be sentenced to pay a fine of any less amount, unless a minimum fine is expressly provided for by that enactment.
+(4) If a court imposes a fine in addition to a sentence of reparation, it must, in fixing the amount of the fine, take into account the amount payable under the sentence of reparation.
+
+### 41 Financial capacity of offender
+(1) If the court considers that a fine of less than $100 may be an appropriate sentence, it may assume that the offender has the means to pay the fine unless evidence is presented to the contrary.
+(2) If the court considers that a fine of $100 or more may be an appropriate sentence, but it is uncertain about the offender's ability to pay the fine, the court may direct the offender to make a declaration as to his or her financial capacity in accordance with section 42.
+(3) The court may decline to give a direction under subsection (2) and impose a fine without further inquiry if—
+  (a) the type of information referred to in a declaration is available through other means (including, without limitation, a reparation report under section 33); or
+  (b) in all the circumstances the court considers that a declaration is unnecessary.
+
+**Declaration as to financial capacity**
+
+### 42 Declaration as to financial capacity
+A declaration as to financial capacity must contain information on all sources of income, assets, liabilities, and outgoings, including, without limitation,—
+  (a) salary and wages:
+  (b) benefits and pensions:
+  (c) commissions:
+  (d) interest and dividends:
+  (e) income from rental property:
+  (f) ownership of real estate:
+  (g) vehicle ownership:
+  (h) ownership of other property:
+  (i) income and realisable assets that the offender does not currently have but which it is anticipated that the offender will receive during the 12 months following the date of giving the declaration:
+  (j) debts:
+  (k) essential outgoings of the offender and his or her dependants.
+
+### 43 Offence of providing false or misleading information
+Every person is liable on summary conviction to imprisonment for a period not exceeding 3 months or to a fine not exceeding $1,000 who provides false or misleading information in a declaration of financial capacity provided in accordance with section 42.
+
+### Subpart 2 — Community-based sentences
+
+### 44 Community-based sentences
+In this Act, community-based sentence means—
+  (a) a sentence of supervision:
+  (b) a sentence of community work.
+
+**Supervision**
+
+### 45 Sentence of supervision
+(1) A court may sentence an offender to supervision if—
+  (a) the offender is convicted of an offence punishable by imprisonment; or
+  (ab)
+  (b) the offender is convicted of an offence and the enactment prescribing the offence expressly provides that a community-based sentence may be imposed on conviction.
+(2) The sentence may be for a period, being not less than 6 months and not more than 2 years, that the court thinks fit.
+(3) This section is subject to sections 46 and 47.
+
+### 46 Guidance on use of sentence of supervision
+A court may impose a sentence of supervision only if the court is satisfied that a sentence of supervision would reduce the likelihood of further offending by the offender through the rehabilitation and reintegration of the offender.
+
+### 47 Sentences of supervision in respect of 2 or more offences must be served concurrently
+If a court imposes a sentence of supervision in respect of each of 2 or more offences (whether on the same occasion or on different occasions), the sentences must be served concurrently.
+
+### 48 Conditions of sentence of supervision
+An offender who is sentenced to supervision is subject to—
+  (a) the standard conditions in section 49; and
+  (b) any special conditions imposed by the court under section 50 or section 52 or both.
+
+### 49 Standard conditions of supervision
+(1) If an offender is sentenced to supervision, the following standard conditions apply:
+  (a) the offender must report in person to a probation officer in the probation area in which the offender resides as soon as practicable, and not later than 72 hours, after the sentence is imposed:
+  (b) the offender must report to a probation officer as and when required to do so by a probation officer, and must notify the officer of his or her residential address and the nature and place of his or her employment when asked to do so:
+  (c) the offender must not move to a new residential address in another probation area without the prior written consent of a probation officer:
+  (d) if consent is given under paragraph (c), the offender must report in person to a probation officer in the new probation area in which the offender is to reside as soon as practicable, and not later than 72 hours, after the offender's arrival in the new area:
+  (e) if an offender intends to change his or her residential address within a probation area, the offender must give a probation officer reasonable notice before moving from his or her residential address (unless notification is impossible in the circumstances) and must advise the probation officer of the new address:
+  (f) the offender must not reside at any address at which a probation officer has directed the offender not to reside:
+  (g) the offender must not engage, or continue to engage, in any employment or occupation in which a probation officer has directed the offender not to engage or continue to engage:
+  (h) the offender must not associate with any specified person, or with persons of any specified class, with whom a probation officer has, in writing, directed the offender not to associate:
+  (i) the offender must take part in a rehabilitative and reintegrative needs assessment if and when directed to do so by a probation officer.
+(2) The conditions in subsection (1)(c) to (f) do not apply if, and to the extent that, they are inconsistent with any special condition imposed by the court.
+
+### 50 Special conditions related to programme
+A court may impose any special condition or conditions related to a programme if the court is satisfied that—
+  (a) there is a significant risk of further offending by the offender; and
+  (b) standard conditions alone would not adequately reduce that risk; and
+  (c) the offender requires a programme to reduce the likelihood of further offending by the offender through the rehabilitation and reintegration of the offender.
+
+### 51 Programmes
+For the purposes of section 50, programme means any of the following:
+  (a) any psychiatric or other counselling or assessment:
+  (b) attendance at any medical, psychological, social, therapeutic, cultural, educational, employment-related, rehabilitative, or reintegrative programme:
+  (c) placement in the care of any appropriate person, persons, or agency, approved by the chief executive of the Department of Corrections, such as, without limitation,—
+    (i) an iwi, hapu, or whanau:
+    (ii) a marae:
+    (iii) an ethnic or cultural group:
+    (iv) a religious group, such as a church or religious order:
+    (v) members or particular members of any of the above.
+
+### 52 Other special conditions
+(1) A court may impose any of the special conditions described in subsection (2) if the court is satisfied that—
+  (a) there is a significant risk of further offending by the offender; and
+  (b) standard conditions alone would not adequately reduce that risk; and
+  (c) the imposition of special conditions would reduce the likelihood of further offending by the offender through the rehabilitation and reintegration of the offender.
+(2) The conditions referred to in subsection (1) are—
+  (a) any conditions that the court thinks fit relating to the offender's place of residence (which may include a condition that the offender not move residence), finances, or earnings:
+  (b) conditions requiring the offender to take prescription medication:
+  (ba)
+  (c) any other conditions that the court thinks fit to reduce the likelihood of further offending by the offender.
+(3) No court may impose a condition under this section that the offender pay any fine, reparation, or other sum ordered to be paid on conviction, or that the offender perform any service that he or she could have been required to perform if he or she had been sentenced to community work.
+(3A)
+(4) No offender may be made subject to a special condition that requires the offender to take prescription medication unless the offender—
+  (a) has been fully advised, by a person who is qualified to prescribe that medication, about the nature and likely or intended effect of the medication and any known risks; and
+  (b) consents to taking the prescription medication.
+(5) An offender does not breach his or her conditions for the purposes of section 70 if he or she withdraws consent to taking prescription medication.
+
+### 53 Offender to be under supervision of probation officer
+An offender who is subject to a sentence of supervision must be under the supervision of a probation officer in the probation area in which the offender resides for the time being, or of any other probation officer that the chief executive of the Department of Corrections may direct.
+
+### 54 Variation or cancellation of sentence of supervision
+(1) An offender who is subject to a sentence of supervision, or a probation officer, may apply in accordance with section 72 for an order under subsection (3) of this section on the grounds that—
+  (a) the offender is unable to comply, or has failed to comply, with any of the conditions of the sentence:
+  (b) any programme to which the offender is subject is no longer available or suitable for the offender:
+  (c) having regard to any change in circumstances since the sentence was imposed and to the manner in which the offender has responded to the sentence,—
+    (i) the rehabilitation and reintegration of the offender would be advanced by the remission, suspension, or variation of conditions, or the imposition of additional conditions; or
+    (ii) the continuation of the sentence is no longer necessary in the interests of the community or the offender.
+(2) A probation officer may apply in accordance with section 72 for an order under subsection (3) of this section if an offender who is subject to a sentence of supervision is convicted of an offence punishable by imprisonment.
+(3) On an application under subsection (1) or subsection (2), the court may, if it is satisfied that the grounds on which the application is based have been established,—
+  (a) remit, suspend, or vary conditions imposed by the court, or impose additional conditions:
+  (b) cancel the sentence:
+  (c) cancel the sentence and substitute any other sentence (including another sentence of supervision) that could have been imposed on the offender at the time when the offender was convicted of the offence for which the sentence was imposed.
+(4) The court must not vary any existing condition or impose any new condition of a kind referred to in section 52(2)(b) without the consent of the offender.
+(5) When determining a substitute sentence under subsection (3)(c), the court must take into account the portion of the original sentence that remains unserved at the time of the order.
+(6) If the court cancels a sentence under this section, the sentence expires on the date that the order is made, or on any other date that the court may specify.
+(7) If an application is made under this section for the remission, suspension, or variation of any condition imposed by the court, a probation officer may suspend the condition until the application has been heard and disposed of.
+
+### 54A Application of section 54 during epidemic
+(1) While an epidemic management notice is in force,—
+  (a) a probation officer who has applied in accordance with section 72 for an order under section 54(3) varying the conditions subject to which a sentence of supervision was imposed by the court on an offender may himself or herself vary those conditions; and
+  (b) any probation officer may himself or herself vary the conditions subject to which a sentence of supervision was imposed by the court on an offender if the offender has applied in accordance with section 72 for an order under section 54(3) varying those conditions.
+  (c)
+(2) A variation under subsection (1) has effect until the application concerned has been heard and disposed of.
+(3)
+
+**Intensive supervision**
+
+### 54B Sentence of intensive supervision
+[Repealed]
+
+### 54C Guidance on use of sentence of intensive supervision
+[Repealed]
+
+### 54D Sentences of intensive supervision in respect of 2 or more offences must be served concurrently
+[Repealed]
+
+### 54E Conditions of sentence of intensive supervision
+[Repealed]
+
+### 54F Standard conditions of intensive supervision
+[Repealed]
+
+### 54G Special conditions related to programmes
+[Repealed]
+
+### 54H Programmes
+[Repealed]
+
+### 54I Other special conditions
+[Repealed]
+
+### 54J Offender to be under supervision of probation officer
+[Repealed]
+
+### 54K Variation or cancellation of sentence of intensive supervision
+[Repealed]
+
+### 54L Application of section 54K during epidemic
+[Repealed]
+
+**Community work**
+
+### 55 Sentence of community work
+(1) A court may sentence an offender to community work—
+  (a) if the offender is convicted of an offence punishable by imprisonment; or
+  (ab)
+  (b) if the offender is convicted of an offence and the enactment prescribing the offence expressly provides that a community-based sentence may be imposed on conviction.
+(2) The sentence may be for the number of hours, being not less than 40 or more than 400, that the court thinks fit.
+(3) This section is subject to sections 56 and 57.
+
+### 56 Guidance on use of sentence of community work
+(1) In considering whether to impose a sentence of community work, the court must give particular consideration to—
+  (a) whether the nature and circumstances of the offending make it appropriate for the offender to make compensation to the community in the form of work, in addition to, or instead of, making reparation to any person in respect of the offending; and
+  (b) whether the sentence is appropriate having regard to the offender's character and personal history, and to any other relevant circumstances.
+(2) A sentence of community work is inappropriate if the court is satisfied that—
+  (a) the offender has alcohol, drug, psychiatric, or intellectual problems that indicate that it is unlikely that he or she would complete a sentence of community work; or
+  (b) for any other reason it is unlikely that the offender would complete a sentence of community work.
+(3) The court may assume that suitable work is available for the offender to perform under the sentence unless the court is advised otherwise by a probation officer.
+
+### 57 Concurrent and cumulative sentences of community work
+(1) If a court imposes a sentence of community work on an offender who is already subject to a sentence of community work, the sentences must be served concurrently unless the court directs that they are to be served cumulatively.
+(2) If a court imposes a sentence of community work in respect of each of 2 or more offences, the sentences must be served concurrently unless the court directs that they are to be served cumulatively.
+(2A)
+(3) If a court imposes a sentence of community work and a sentence of supervision, or imposes one of them on an offender who is already subject to the other, the sentences must be served concurrently.
+
+### 57A Court may defer commencement date of sentence of community work
+[Repealed]
+
+### 58 Length of sentence of community work
+(1) If the court imposes a sentence of community work of 200 hours or less, that sentence must be served within 12 months of the date that it commences under section 75.
+(2) If the court imposes a sentence of community work of more than 200 hours, that sentence must be served within 24 months of the date that it commences under section 75.
+(3) Any work done by an offender under a sentence of community work must be treated as having been done under that sentence and under any and each other concurrent sentence of community work that the offender was subject to at the time that the work was done.
+
+### 59 Offender must report to probation officer
+An offender who is subject to a sentence of community work must report in person to a probation officer in the probation area in which the offender resides—
+  (a) as soon as practicable, and not later than 72 hours, after the sentence is imposed; and
+  (b) as directed at any other time during the sentence for the purpose of monitoring the sentence.
+
+### 60 Offender must notify probation officer if offender changes residential address
+If an offender who is subject to a sentence of community work moves to a new residential address, the offender must, within 72 hours, notify a probation officer of the offender's new residential address.
+
+### 61 Probation officer must determine placement of offender for community work
+As soon as practicable after a sentence of community work is imposed, and at any other time during the sentence if the probation officer thinks fit, a probation officer must determine in accordance with sections 62 and 63 whether the community work will be done—
+  (a) on placement at a community work centre; or
+  (b) on placement with another agency; or
+  (c) on placement at a community work centre for a certain number of the hours of work and on placement with another agency for a certain number of the hours of work, as specified by the probation officer.
+
+### 62 Guidance to probation officer in determining placement of offender for community work
+For the purposes of section 61, the probation officer must take into account—
+  (a) the circumstances of the offending; and
+  (b) how the offender could benefit from learning work habits or skills through the sentence; and
+  (c) the offender's character and personal history; and
+  (d) the offender's physical and mental capabilities; and
+  (e) the outcome of any restorative justice processes that have occurred in the case; and
+  (f) whether there is a community work centre within a reasonable distance of the offender's place of residence; and
+  (g) whether there is any agency within a reasonable distance of the offender's place of residence that has sufficient suitable work available for the offender; and
+  (h) any other relevant circumstances.
+
+### 63 Authorised work for person sentenced to community work
+(1) The type of work that an offender may be required to perform for the purposes of a sentence of community work is work—
+  (a) at or for any hospital or church or at or for any charitable, educational, cultural, or recreational institution or organisation (including a marae); or
+  (b) at or for any other institution or organisation for old, infirm, or disabled persons, or at the home of any old, infirm, or disabled person; or
+  (c) on any land of which the Crown or any public body is the owner or lessee or occupier, or any land that is administered by the Crown or any public body.
+  (d)
+(2) No offender may be directed for the purposes of a sentence of community work to do any work if, in doing so, the offender would take the place of any person who would otherwise be employed in doing that work in the ordinary course of that person's paid employment.
+
+### 64 When community work must be done
+(1) If community work is to be done on placement with an agency other than a community work centre, the days on which and the times at which the offender does the work must be fixed by agreement between a probation officer and the agency and notified in writing to the offender.
+(2) If the community work is to be done on placement at a community work centre, the days on which and the times at which the offender performs the work must be determined by a probation officer and notified in writing to the offender.
+(3) It is not necessary for all the periods of work to be of the same duration, but no period may be longer than 10 hours and no offender may be required to do more than 40 hours of community work per week.
+(4) The times at which the offender is required to report, and the periods during which he or she is required to do community work, must be such as to avoid interference, so far as practicable, with the offender's attendance at any place of education or employment, or with his or her religious observances.
+
+### 65 Supervision of offender while doing community work
+(1) An offender who is directed to do community work on placement at a community work centre is subject to the control, direction, and supervision of a probation officer—
+  (a) while the offender is at a community work centre; and
+  (b) while the offender is at any other place at the direction, or with the permission, of a probation officer; and
+  (c) while the offender is travelling between a community work centre and any other place referred to in paragraph (b), or between any 2 such places.
+(2) An offender who is directed to do community work on placement with an agency other than a community work centre is subject to the control, direction, and supervision of a probation officer at all times while the offender is doing work or is required to be doing work under the sentence.
+
+### 66 Offender excused from reporting in certain circumstances
+(1) An offender who is subject to a sentence of community work may be excused from reporting during any period when the community work centre or other agency at which the offender is required to report is closed.
+(2) In special circumstances, a probation officer may excuse an offender from reporting on any day or during any period.
+(3) Without limiting subsection (2), if an offender is unable to report on any day or during any period because of illness or injury, a probation officer must, on being satisfied (whether before or after the failure to report) with the circumstances of the case, excuse the offender from the requirement to report on that day or during that period.
+(4) For the purpose of determining whether or not to excuse an offender under subsection (3), the probation officer may require that the offender obtain a certificate from a registered medical practitioner as to whether the offender is, will be, or was unfit to report on the day or during the period.
+(5) A certificate obtained in accordance with subsection (4) is not conclusive as to whether the offender is, will be, or was unfit to report.
+(6) To avoid doubt, if an offender is excused under this section from reporting, that does not have the effect of remitting any of the hours of community work required to be done under the sentence.
+
+### 66A Court may authorise hours of work to be converted into training
+[Repealed]
+
+### 66B Some hours of work may be converted to training
+[Repealed]
+
+### 66C Consequences of failing without excuse to complete training
+[Repealed]
+
+### 66D When hours of community work not counted
+[Repealed]
+
+### 67 Remission of sentence of community work
+If a probation officer is satisfied that the offender has a good record of compliance with a sentence of community work, the probation officer may remit up to 10% from the number of hours of community work imposed by the court.
+
+### 67A Remission of community work hours during epidemic
+(1) While an epidemic management notice is in force, the chief executive of the Department of Corrections may authorise probation officers to remit the hours of community work imposed by the court on offenders, for periods (in any individual case)—
+  (a) of not more than 8 hours in any week; and
+  (b) of not more in total than the lesser of 48 hours and one third of the sentence imposed.
+(2) This section does not give any offender a right to a remission.
+
+### 68 Variation or cancellation of sentence of community work
+(1) An offender who is subject to a sentence of community work, or a probation officer, may apply in accordance with section 72 for an order under subsection (3) of this section on the grounds that—
+  (a) there has been a change of circumstances since the sentence was imposed that would justify the variation or cancellation of the sentence; or
+  (b) having regard to any change in circumstances since the sentence was imposed and to the manner in which the offender has responded to the sentence, the continuation of the sentence is no longer necessary in the interests of the community or the offender.
+(2) A probation officer may apply in accordance with section 72 for an order under subsection (3) of this section—
+  (a) if an offender who is subject to a sentence of community work is convicted of an offence punishable by imprisonment; or
+  (b) on the grounds that the offender has behaved in a manner described in any of paragraphs (a) to (j) of section 71(1).
+(3) On an application under subsection (1) or subsection (2), the court may, if it is satisfied that the grounds on which the application is based have been established,—
+  (a) vary the sentence by reducing the number of hours of work to be done; or
+  (b) cancel the sentence; or
+  (c) cancel the sentence and substitute any other sentence (including another sentence of community work) that could have been imposed on the offender at the time when the offender was convicted of the offence for which the sentence was imposed.
+(4) When determining a substitute sentence under subsection (3)(c), the court must take into account the portion of the original sentence that remains unserved at the time of the order.
+(5) If the court cancels the sentence, the sentence expires on the date that the order is made or on any other date that the court may specify.
+
+### 69 Extension of period within which community work must be done
+(1) An offender who is subject to a sentence of community work, or a probation officer, may apply in accordance with section 72 for an extension of the period within which the work must be done on the grounds that—
+  (a) because of incapacity or any humanitarian or other reasons, it will be impossible for the offender to do the work during a certain period; or
+  (b) it would be unreasonable to require the offender to do the work during that period.
+(2) On an application under subsection (1), the court may, if it is satisfied that the grounds in subsection (1) have been established, extend the period within which the work must be done by the amount that the court thinks fit.
+
+### 69A Extension during epidemic of period within which community work must be done
+(1) While an epidemic management notice is in force, the chief executive of the Department of Corrections may authorise probation officers to extend by not more than 12 months the period during which the community work of offenders, or the community work of offenders of any kind or description, must be done.
+(2) This section does not give any offender a right to an extension.
+
+**Community detention**
+
+### 69B Sentence of community detention
+[Repealed]
+
+### 69C Guidance on use of sentence of community detention
+[Repealed]
+
+### 69D Concurrent and cumulative sentences of community detention
+[Repealed]
+
+### 69E Conditions of community detention during sentence term
+[Repealed]
+
+### 69F Electronic monitoring
+[Repealed]
+
+### 69G Offence to breach conditions of community detention
+[Repealed]
+
+### 69H Offence to refuse entry to community detention curfew address
+[Repealed]
+
+### 69I Variation or cancellation of sentence of community detention
+[Repealed]
+
+### 69J Application of section 69I during epidemic
+[Repealed]
+
+### 69K Alternative curfew address pending determination of application under section 69I
+[Repealed]
+
+### 69L When sentence ends on non-release day
+[Repealed]
+
+### 69M Community detention does not affect entitlements under Social Security Act 1964
+[Repealed]
+
+**Offences related to community-based sentences**
+
+### 70 Offences related to breach of conditions of supervision
+An offender commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000, who—
+  (a) fails, without reasonable excuse, to comply with any condition of a sentence of supervision; or
+  (b) fails, without reasonable excuse, to report when required to do so under section 78 or section 80.
+
+### 70A Offence to breach conditions of intensive supervision
+[Repealed]
+
+### 71 Offences relating to breach of sentence of community work
+(1) An offender who is sentenced to community work commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000, who—
+  (a) fails, without reasonable excuse, to report to a probation officer in accordance with section 59 or section 78 or section 80; or
+  (b) fails, without reasonable excuse, to notify a probation officer of any new residential address in accordance with section 60; or
+  (c) fails, without reasonable excuse, to—
+    (i) do any work satisfactorily in accordance with the sentence; or
+    (ii) comply with the terms of any agreement entered into for the purposes of section 64(1); or
+  (d) fails, without reasonable excuse, to complete the required number of hours of work within the period prescribed under section 58 or within any extended period granted under section 69; or
+  (e) accepts remuneration, whether by way of gift or otherwise, for any work that the offender is required to do for the purposes of the sentence; or
+  (f) fails, without reasonable excuse, to report or to remain at any place as required by or under this subpart; or
+  (g) fails, without reasonable excuse, to obey any rules governing a community work centre; or
+  (h) fails, without reasonable excuse, to obey any directions lawfully given regarding the manner in which his or her time must be spent while under the supervision of a probation officer under section 65; or
+  (i) refuses to work, or fails to work in the manner reasonably required of the offender, or neglects or intentionally mismanages his or her work, while under the supervision of a probation officer under section 65; or
+  (j) behaves in an offensive, threatening, insolent, insulting, disorderly, or indecent manner while under the supervision of a probation officer under section 65.
+(2) A person commits an offence, and is liable on summary conviction to a fine not exceeding $500, who, without lawful justification or excuse, loiters about any community work centre or any place where persons sentenced to community work are placed, and refuses or neglects to depart after being warned by a member of the police or by a probation officer.
+
+**Review of community-based sentences**
+
+### 72 Jurisdiction and procedure
+(1) Every application under section 54 or section 68 must be made—
+  (a) to the High Court, if the sentence was passed—
+    (ia) by the Supreme Court on appeal against a sentence imposed by the High Court, or imposed by the Court of Appeal on appeal from the High Court; or
+    (i) by the Court of Appeal on appeal from the High Court; or
+    (ii) by the High Court otherwise than on appeal from a District Court; or
+  (b) to a District Court presided over by a trial Judge, if the sentence was passed—
+    (ia) by the Supreme Court on appeal against a sentence imposed by a District Court presided over by a trial Judge, or imposed by the Court of Appeal on appeal from a District Court presided over by a trial Judge; or
+    (i) by the Court of Appeal on appeal from a District Court presided over by a trial Judge; or
+    (ii) by a District Court Judge on conviction on indictment; or
+  (c) to a District Court presided over by any Judge, in any other case.
+(2) A copy of the application must, either before or as soon as practicable after the application is lodged in the office of the court, be served—
+  (a) on the offender, if the offender is not the applicant; or
+  (b) on the chief executive of the Department of Corrections, if a probation officer is not the applicant.
+(3) If an application under section 54 or section 68 has been lodged in a court by a probation officer, a probation officer or a member of the police may, for the purpose of having the offender brought before the court dealing with the application, apply to a court for the issue of a warrant to arrest the offender.
+(4) No warrant issued under subsection (3) may be executed otherwise than by a member of the police.
+(5) If an offender is arrested under a warrant issued under subsection (3), sections 45 to 47 of the Summary Proceedings Act 1957, so far as they are applicable and with any necessary modifications, apply as if the application were an information.
+
+### 73 Appeal in respect of substituted sentence
+For the purposes of any appeal or application for leave to appeal,—
+  (a) a sentence substituted for a community-based sentence imposed on the conviction of the offender on indictment is deemed to be a sentence imposed on the conviction of the offender on indictment; and
+  (b) a sentence substituted for a community-based sentence imposed on the offender on the determination of an information in a District Court is deemed to be a sentence imposed on the determination of an information against the offender in a District Court.
+
+**Miscellaneous provisions**
+
+### 74 Order must be drawn up and copy given to offender, etc
+(1) If a court imposes a community-based sentence on an offender, the particulars of the sentence must be drawn up in the form of an order.
+(2) Wherever practicable, a copy of the order must be given to the offender before he or she leaves the court.
+(3) The order must include information regarding—
+  (a) the nature of the sentence; and
+  (b) the initial reporting obligations; and
+  (c) the date on which the sentence commences; and
+  (d) the obligations to comply with the instructions of a probation officer and the terms of the sentence; and
+  (e) the consequences of non-compliance with the terms of the sentence; and
+  (f) the statutory provisions under which the sentence may be varied or cancelled.
+(3A)
+(4) For the purposes of subsection (1), a court may direct that the offender be detained in the custody of the court for a period, not exceeding 2 hours, that may be necessary to enable the order to be drawn up and a copy given to the offender.
+(5) If it is not practicable to give a copy of the order to the offender before the offender leaves the court, a copy must be given to the offender in person as soon as practicable after the offender leaves the court.
+(6) A copy of the order must be given to the chief executive of the Department of Corrections as soon as possible after it is drawn up.
+
+### 75 Commencement of community-based sentences
+(1) A community-based sentence commences on the day on which it is imposed.
+(2) Subsection (1) applies—
+  (a) subject to the remainder of this section and to section 137 of the Summary Proceedings Act 1957; and
+  (b) regardless of whether or not the sentence is imposed in substitution for another sentence.
+(2A)
+(3) If a sentence of community work is imposed cumulatively on another sentence of community work imposed at the same time,—
+  (a) at least 1 of the sentences must commence on the day that sentence is imposed; and
+  (b) the commencement date for the subsequent sentence is the date of the completion of the hours of community work under the first sentence of community work to be served.
+(4) If a sentence of community work is imposed cumulatively on another sentence of community work to which the offender is already subject, the commencement date for the subsequent sentence is the date of the completion of the hours of community work under the first sentence of community work to be served.
+(5) To avoid doubt, if a sentence of community work is imposed cumulatively on another sentence of community work, hours of work done under either of the sentences on the date referred to in subsection (3)(b) or subsection (4) are not counted towards the hours of work required to be done under the other sentence.
+(6) If a sentence of community work is imposed cumulatively on another sentence of community work (the first sentence), whether or not imposed at the same time, and the first sentence is subsequently quashed,—
+  (a) the commencement date for the subsequent sentence is the date on which the subsequent sentence was imposed; and
+  (b) any hours of work completed under the quashed sentence must be treated as having been done under the subsequent sentence.
+(7) If a sentence of community work is imposed cumulatively on another sentence of community work (the first sentence), whether or not imposed at the same time, and the first sentence is subsequently cancelled,—
+  (a) the commencement date for the subsequent sentence is the date on which the first sentence was cancelled; and
+  (b) to avoid doubt, any hours of work completed under the cancelled sentence must not be treated as having been done under the subsequent sentence.
+(8) A sentence of community work expires on the date that the offender completes the hours of work required under the sentence (taking into account any hours remitted under section 67), whether or not the period of time allowed under section 58, or any extended period granted under section 69, has expired.
+
+### 75A Commencement of cumulative sentences of community work
+[Repealed]
+
+### 75B Commencement of cumulative sentences of community detention
+[Repealed]
+
+### 76 Commencement of community-based sentence after temporary surrender under Extradition Act 1999
+(1) This section applies if an offender is temporarily surrendered to New Zealand under the Extradition Act 1999 and—
+  (a) is convicted and sentenced under this Act to a community-based sentence; and
+  (b) is required to be returned in accordance with section 66(2) of the Extradition Act 1999 to the country from where the offender was surrendered on completion of the proceedings to which the extradition related.
+(2) Unless the court otherwise directs, the sentence imposed does not commence until the offender has reported to a probation officer after being returned to New Zealand.
+(3) An offender to whom this section applies must report to a probation officer within 72 hours of the offender's arrival in New Zealand.
+(3A)
+(4) This section applies despite any other provisions in this Act.
+
+### 77 Application of Injury Prevention, Rehabilitation, and Compensation Act 2001 to persons serving community-based sentence
+When an offender performs any service or does any work or attends any course or programme for the purposes of a community-based sentence, the following provisions apply:
+  (a) if the offender suffers any personal injury for which he or she has cover under the Injury Prevention, Rehabilitation, and Compensation Act 2001 arising out of and in the course of performing the activities described above,—
+    (i) the personal injury is deemed, for the purposes of section 97 of that Act only, to be a work-related personal injury; and
+    (ii) the Crown is liable to pay compensation to which the offender is entitled under that section:
+  (b) the cost of all other entitlements of the offender under that Act must be met from the Earners' Account in the case of an offender who is an earner and from the Non-Earners' Account in all other cases.
+
+### 78 Effect of subsequent sentence of imprisonment
+(1) Subsection (2) applies if an offender who is subject to a community-based sentence is subsequently sentenced to—
+  (a) a term of imprisonment of not more than 12 months; or
+  (b) 2 or more terms of imprisonment to be served concurrently, each term of which is not more than 12 months; or
+  (c) 2 or more terms of imprisonment that are cumulative, the total term of which is not more than 12 months.
+(2) If this subsection applies, the court must either—
+  (a) order that the community-based sentence be suspended; or
+  (b) order that the community-based sentence be suspended for the duration of the period in which the offender is detained under the sentence or sentences of imprisonment.
+(3) If the court suspends the community-based sentence under subsection (2)(b), it may, if it thinks fit, remit, suspend, or vary any conditions of the sentence imposed by the court, or impose additional conditions.
+(4) The court must not vary any existing condition or impose any new condition of a kind referred to in section 52(2)(b) (which involves prescription medication) unless the offender—
+  (a) has been fully advised by a person who is qualified to prescribe that medication about the nature and likely or intended effect of any variation or new condition in relation to the medication and any known risks; and
+  (b) consents to taking the prescription medication.
+(5) If a community-based sentence is suspended under subsection (2)(b),—
+  (a) the offender must report to a probation officer as soon as practicable, and not later than 72 hours, after being released from detention; and
+  (b) the sentence does not resume until the offender has reported to a probation officer as required by paragraph (a).
+  (c)
+(6) Subsection (7) applies if an offender who is subject to a community-based sentence is subsequently sentenced to—
+  (a) a term of imprisonment of more than 12 months; or
+  (b) 2 or more terms of imprisonment to be served concurrently, each term of which is more than 12 months; or
+  (c) 2 or more terms of imprisonment that are cumulative, the total term of which is more than 12 months.
+(7) If this subsection applies, the community-based sentence is suspended.
+
+### 79 Period of suspension not counted towards sentence
+(1) No period during which a sentence of supervision is suspended under section 78(2) or (7) is counted towards the period under section 45(2).
+(2) No period during which a sentence of community work is suspended under section 78(2) or (7) is counted towards the periods referred to in section 58(1) and (2).
+(3)
+(4)
+
+### 80 Resumption of community-based sentence if sentence of imprisonment quashed
+(1) This section applies to a community-based sentence that is suspended under section 78(2)(a) or section 78(7).
+(2) The community-based sentence is suspended until the earlier of the following events:
+  (a) it resumes under subsection (3); or
+  (b) it is cancelled under subsection (5).
+(3) If the sentence or sentences of imprisonment based on which the community-based sentence was suspended are quashed and that results in the offender no longer being detained under a sentence of imprisonment,—
+  (a) the offender must report to a probation officer as soon as practicable, and not later than 72 hours, after being released from detention; and
+  (b) the community-based sentence resumes when the offender has reported as required by paragraph (a).
+  (c)
+(4) The Registrar of the court in which the sentence or sentences of imprisonment are quashed must notify the chief executive of the Department of Corrections.
+(5) If the community-based sentence never resumes under subsection (3), it is cancelled when the offender ceases to be detained under the sentence or sentences of imprisonment.
+
+### Subpart 2A — Home detention
+
+### 80A Sentence of home detention
+[Repealed]
+
+### 80B Concurrent and cumulative sentences of home detention
+[Repealed]
+
+### 80C Detention conditions applying to offender sentenced to home detention
+[Repealed]
+
+### 80D Special conditions of sentence of home detention
+[Repealed]
+
+### 80E Electronic monitoring
+[Repealed]
+
+### 80F Application for variation or cancellation of sentence of home detention
+[Repealed]
+
+### 80G Matters relating to orders under section 80F
+[Repealed]
+
+### 80H Alternative residence pending determination of application under section 80F
+[Repealed]
+
+### 80I Leave to apply for cancellation of sentence of imprisonment and substitution of sentence of home detention in certain cases
+[Repealed]
+
+### 80J Appeal against order granting leave to apply for cancellation of sentence of imprisonment and substitution of sentence of home detention
+[Repealed]
+
+### 80K Application for cancellation of sentence of imprisonment and substitution of sentence of home detention
+[Repealed]
+
+### 80L Updated pre-sentence report
+[Repealed]
+
+### 80M Appeals in respect of substituted sentences
+[Repealed]
+
+### 80N Imposition of post-detention conditions on offender
+[Repealed]
+
+### 80O Standard post-detention conditions
+[Repealed]
+
+### 80P Special post-detention conditions
+[Repealed]
+
+### 80Q Review of post-detention conditions if conditions incompatible
+[Repealed]
+
+### 80R Variation or discharge of post-detention conditions
+[Repealed]
+
+### 80S Offence to breach detention conditions
+[Repealed]
+
+### 80T Offence to refuse entry to home detention residence
+[Repealed]
+
+### 80U Offence to breach post-detention conditions
+[Repealed]
+
+### 80V Arrest without warrant for breach of detention or post-detention conditions
+[Repealed]
+
+### 80W Court may defer start date of sentence of home detention
+[Repealed]
+
+### 80X Commencement of sentence of home detention
+[Repealed]
+
+### 80Y Commencement of sentence of home detention after temporary surrender under Extradition Act 1999
+[Repealed]
+
+### 80Z When home detention ends
+[Repealed]
+
+### 80ZA When detention conditions suspended
+[Repealed]
+
+### 80ZB Time ceases to run in certain circumstances
+[Repealed]
+
+### 80ZC Order must be drawn up
+[Repealed]
+
+### 80ZD Offender must be given copy of new or amended order
+[Repealed]
+
+### 80ZE Home detention does not affect entitlements under Social Security Act 1964
+[Repealed]
+
+### 80ZF Application of Injury Prevention, Rehabilitation, and Compensation Act 2001 to persons serving home detention sentence
+[Repealed]
+
+### 80ZG Effect of subsequent sentence of imprisonment
+[Repealed]
+
+### 80ZH Application of section 80F during epidemic
+[Repealed]
+
+### 80ZI Application of section 80R during epidemic
+[Repealed]
+
+### Subpart 2B — Judicial monitoring
+
+### 80ZJ Progress reports
+[Repealed]
+
+### 80ZK Consideration of progress reports
+[Repealed]
+
+### 80ZL Procedure
+[Repealed]
+
+### 80ZM Procedure if possible grounds for variation or cancellation of sentence exist
+[Repealed]
+
+### Subpart 3 — Imprisonment
+
+### 81 Length of sentence of imprisonment
+If under any enactment an offender is liable to imprisonment for life or for any specified term, the court may, in accordance with this Act, impose imprisonment for the maximum term provided for the particular offence or any lesser term, unless a minimum term of imprisonment is expressly provided for.
+
+### 81A Manner of expression of sentence of imprisonment
+[Repealed]
+
+### 82 Pre-sentence detention must not be taken into account in determining length of sentence
+In determining the length of any sentence of imprisonment to be imposed, the court must not take into account any part of the period during which the offender was on pre-sentence detention as defined in section 91 of the Parole Act 2002.
+
+### 83 Cumulative and concurrent sentences of imprisonment
+(1) A determinate sentence of imprisonment may be imposed cumulatively on any other determinate sentence of imprisonment that the court directs, whether then imposed or to which the offender is already subject, including any sentence in respect of which a direction of that kind is or has been given.
+(2) Despite subsection (1), a court may not impose a sentence of imprisonment cumulatively on another sentence of imprisonment if, at the time of sentencing, the offender is subject to a sentence of imprisonment but, having commenced serving the sentence, is no longer detained under it.
+(3) For the purposes of subsection (2), a person who is detained under an interim recall order under the Parole Act 2002 is not detained under the sentence to which the interim recall order applies.
+(4) An indeterminate sentence of imprisonment must not be imposed cumulatively on any other sentence.
+(5) Any sentence of imprisonment may be imposed concurrently with any other sentence of imprisonment.
+(6) For the purpose of this section, a term of imprisonment imposed on an offender (whether by committal, sentence, or order) in respect of the non-payment of a sum of money, contempt of court, or disobedience of a court order is deemed to be a determinate sentence of imprisonment.
+
+### 84 Guidance on use of cumulative and concurrent sentences of imprisonment
+(1) Cumulative sentences of imprisonment are generally appropriate if the offences for which an offender is being sentenced are different in kind, whether or not they are a connected series of offences.
+(2) Concurrent sentences of imprisonment are generally appropriate if the offences for which an offender is being sentenced are of a similar kind and are a connected series of offences.
+(3) In determining for the purpose of this section whether 2 or more offences committed by 1 offender are a connected series of offences, the court may consider—
+  (a) the time at which they occurred; or
+  (b) the overall nature of the offending; or
+  (c) any other relationship between the offences that the court considers relevant.
+
+### 85 Court to consider totality of offending
+(1) Subject to this section, if a court is considering imposing sentences of imprisonment for 2 or more offences, the individual sentences must reflect the seriousness of each offence.
+(2) If cumulative sentences of imprisonment are imposed, whether individually or in combination with concurrent sentences, they must not result in a total period of imprisonment wholly out of proportion to the gravity of the overall offending.
+(3) If, because of the need to ensure that the total term of cumulative sentences is not disproportionately long, the imposition of cumulative sentences would result in a series of short sentences that individually fail to reflect the seriousness of each offence, then longer concurrent sentences, or a combination of concurrent and cumulative sentences, must be preferred.
+(4) If only concurrent sentences are to be imposed,—
+  (a) the most serious offence must, subject to any maximum penalty provided for that offence, receive the penalty that is appropriate for the totality of the offending; and
+  (b) each of the lesser offences must receive the penalty appropriate to that offence.
+
+**Imposition of minimum period of imprisonment in relation to determinate sentence of imprisonment**
+
+### 86 Imposition of minimum period of imprisonment in relation to determinate sentence of imprisonment
+(1) If a court sentences an offender to a determinate sentence of imprisonment of more than 2 years for a particular offence, it may, at the same time as it sentences the offender, order that the offender serve a minimum period of imprisonment in relation to that particular sentence.
+(2) The court may impose a minimum period of imprisonment that is longer than the period otherwise applicable under section 84(1) of the Parole Act 2002 if it is satisfied that that period is insufficient for all or any of the following purposes:—
+  (a) holding the offender accountable for the harm done to the victim and the community by the offending:
+  (b) denouncing the conduct in which the offender was involved:
+  (c) deterring the offender or other persons from committing the same or a similar offence:
+  (d) protecting the community from the offender.
+(3)
+(4) A minimum period of imprisonment imposed under this section must not exceed the lesser of—
+  (a) two-thirds of the full term of the sentence; or
+  (b) 10 years.
+(5) For the purposes of Part 4 of the Summary Proceedings Act 1957 and Part 13 of the Crimes Act 1961, an order under this section is a sentence.
+
+**Preventive detention**
+
+### 87 Sentence of preventive detention
+(1) The purpose of preventive detention is to protect the community from those who pose a significant and ongoing risk to the safety of its members.
+(2) This section applies if—
+  (a) a person is convicted of a qualifying sexual or violent offence (as that term is defined in subsection (5)); and
+  (b) the person was 18 years of age or over at the time of committing the offence; and
+  (c) the court is satisfied that the person is likely to commit another qualifying sexual or violent offence if the person is released at the sentence expiry date (as specified in subpart 3 of Part 1 of the Parole Act 2002) of any sentence, other than a sentence under this section, that the court is able to impose.
+(3) The High Court may, on the application of the prosecutor or on its own motion, impose a sentence of preventive detention on the offender.
+(4) When considering whether to impose a sentence of preventive detention, the court must take into account—
+  (a) any pattern of serious offending disclosed by the offender's history; and
+  (b) the seriousness of the harm to the community caused by the offending; and
+  (c) information indicating a tendency to commit serious offences in future; and
+  (d) the absence of, or failure of, efforts by the offender to address the cause or causes of the offending; and
+  (e) the principle that a lengthy determinate sentence is preferable if this provides adequate protection for society.
+(5) In this section and in sections 88 and 90, qualifying sexual or violent offence means—
+  (a) a sexual crime under Part 7 of the Crimes Act 1961 punishable by 7 or more years' imprisonment; and includes a crime under section 144A or section 144C of that Act; or
+  (b) an offence against any of sections 171, 173 to 176, 188, 189(1), 191, 198 to 199, 208 to 210, 234, 235, or 236 of the Crimes Act 1961.
+
+### 88 Offender must be notified that sentence of preventive detention will be considered, and reports must be obtained
+(1) A sentence of preventive detention must not be imposed unless—
+  (a) the offender has been notified that a sentence of preventive detention will be considered, and has been given sufficient time to prepare submissions on the sentence; and
+  (b) the court has considered reports from at least 2 appropriate health assessors about the likelihood of the offender committing a further qualifying sexual or violent offence.
+(2) Despite anything in section 38(1) and (5) of the Criminal Procedure (Mentally Impaired Persons) Act 2003,—
+  (a) the court may, for the purposes of obtaining the report referred to in subsection (1)(b), exercise all or any of the powers conferred by section 38(2) of the Criminal Procedure (Mentally Impaired Persons) Act 2003; and
+  (b) section 38(4) and sections 40 to 46 of that Act apply, so far as they are applicable and with any necessary modifications, to the offender and any report so obtained.
+(3)
+
+### 89 Imposition of minimum period of imprisonment
+(1) If a court sentences an offender to preventive detention, it must also order that the offender serve a minimum period of imprisonment, which in no case may be less than 5 years.
+(2) The minimum period of imprisonment imposed under this section must be the longer of—
+  (a) the minimum period of imprisonment required to reflect the gravity of the offence; or
+  (b) the minimum period of imprisonment required for the purposes of the safety of the community in the light of the offender's age and the risk posed by the offender to that safety at the time of sentencing.
+(3) For the purposes of Part 13 of the Crimes Act 1961, an order under subsection (1) is a sentence.
+
+### 90 Procedure if offender convicted in District Court and Court believes offender could be sentenced to preventive detention
+(1) This section applies if a person is convicted by a District Court of a qualifying sexual or violent offence, and the Court has reason to believe, from a report of a probation officer or otherwise, that a sentence of preventive detention may be appropriate.
+(2) Section 44 of the Summary Proceedings Act 1957 or (as the case may require) section 28G of the District Courts Act 1947 applies, and the Court must endorse on the information a statement to the effect that the Court has declined jurisdiction on the ground that it has reason to believe that the offender should be considered for a sentence of preventive detention.
+
+**Warrant of commitment for sentence of imprisonment**
+
+### 91 Warrant of commitment for sentence of imprisonment
+(1) If a court imposes a sentence of imprisonment, a warrant must be issued stating briefly the particulars of the offence and directing the detention of the offender in accordance with the sentence.
+(2) A warrant issued under this section must include a statement as to whether the offender was or was not legally represented as contemplated by section 30(1).
+(3) If the offender was not legally represented, the warrant must state the way in which the requirements of that section have been satisfied.
+(4) A warrant issued under this section must include a statement as to whether the offender is a person to whom section 97 applies.
+(5) If section 97 applies to the offender, the warrant must state whether leave under that section has been granted.
+(6) If the sentence is imposed by a District Court, any District Court Judge may sign the warrant.
+(7) If the sentence is imposed by the High Court, any Judge of that court may sign the warrant.
+(8) If the sentence is imposed by the Court of Appeal, any Judge of that court may sign the warrant.
+(8A) If the sentence is imposed by the Supreme Court, any Judge of that court may sign the warrant.
+(9) A warrant under this section may be issued in respect of any number of sentences imposed in respect of the same offender at the same sitting of the court.
+
+**Interpretation provision relating to references to offender being sentenced to imprisonment for particular period**
+
+### 92 References to period of imprisonment for purposes of section 93
+(1) For the purposes of section 93, a court sentences an offender to imprisonment for a particular period if,—
+  (a) in a case where the offender was not already subject to a sentence or sentences of imprisonment, it sentences the offender to 1 sentence of imprisonment, the term of which is equal to that period; or
+  (b) in a case where the offender was not already subject to a sentence or sentences of imprisonment, it sentences the offender to 2 or more sentences of imprisonment, the total term of which is equal to that period; or
+  (c) in a case where the offender was already subject to a sentence or sentences of imprisonment, it sentences the offender to 1 or more sentences of imprisonment the total term of which, including the existing sentences of imprisonment, is equal to that period.
+(2) For the purposes of this section, the total term of 2 or more sentences of imprisonment is a term beginning with the commencement date of the first of the sentences to commence and ending with the sentence expiry date (as specified in subpart 3 of Part 1 of the Parole Act 2002) of the sentence last to expire.
+
+**Conditions on release of offender sentenced to imprisonment for short term**
+
+### 93 Imposition of conditions on release of offender sentenced to imprisonment for short term
+(1) A court that sentences an offender to a term of imprisonment of 12 months or less may impose the standard conditions and any special conditions on the offender and, if it does so, must specify when the conditions expire.
+(2) If a court sentences an offender to a term of imprisonment of more than 12 months but not more than 24 months,—
+  (a) the standard conditions apply to the offender until the sentence expiry date, unless the court specifies otherwise; and sections 94, 95, and 96 apply as if the standard conditions had been imposed by order of the court; and
+  (b) the court may at the same time impose any special conditions on the offender and, if it does so, must specify when the conditions expire.
+(2A) The court may specify that conditions imposed under this section expire on—
+  (a) the sentence expiry date; or
+  (b) the date that is a specified period before the sentence expiry date; or
+  (c) the date that is a specified period of up to 6 months after the sentence expiry date.
+(2AA)
+(2B) In this section,—
+  - **sentence expiry date** has the meaning given to it in section 4 of the Parole Act 2002
+  - **special conditions** includes, without limitation, conditions of a kind described in section 15(3) of the Parole Act 2002, other than an electronic monitoring condition as referred to in section 15(3)(f) of that Act
+  - **standard conditions** means the conditions set out in section 14(1) of the Parole Act 2002.
+(3) A special condition must not be imposed unless it is designed to—
+  (a) reduce the risk of reoffending by the offender; or
+  (b) facilitate or promote the rehabilitation and reintegration of the offender; or
+  (c) provide for the reasonable concerns of victims of the offender.
+(4) No offender may be made subject to a special condition that requires the offender to take prescription medication unless the offender—
+  (a) has been fully advised, by a person who is qualified to prescribe that medication, about the nature and likely or intended effect of the medication and any known risks; and
+  (b) consents to taking the prescription medication.
+(5) If a court sentences an offender to a term of imprisonment of more than 24 months, it must not impose conditions on the offender's release from imprisonment (and section 18(2) of the Parole Act 2002 applies).
+(6) A court must not impose conditions on an offender's release from imprisonment if—
+  (a) the court sentences an offender to an indeterminate sentence of imprisonment; or
+  (b) the court sentences an offender to imprisonment who is already subject to an indeterminate sentence of imprisonment.
+(7)
+(8) If the court sentences the offender to more than 1 term of imprisonment on the same occasion,—
+  (a) only 1 order under this section may be made; and
+  (b) that order applies in respect of all the sentences of imprisonment imposed on that occasion.
+
+### 94 Variation of release conditions
+(1) An offender who is subject to conditions imposed under section 93, or a probation officer, may apply for an order under subsection (3) of this section.
+(2) Section 72 applies with any necessary modifications to an application under this section.
+(3) On an application under subsection (1), the court may, if it thinks fit,—
+  (a) suspend any condition or vary the duration of any condition, or impose additional conditions; or
+  (b) discharge a condition and substitute any other condition described in section 93 that could have been imposed on the offender at the time when the offender was convicted of the offence for which the sentence was imposed.
+(4) The court must not vary any existing condition, or impose any new condition, of a kind referred to in section 93(4) (which involves prescription medication) unless the offender—
+  (a) has been fully advised, by a person who is qualified to prescribe that medication, about the nature and likely or intended effect of any variation or new condition in relation to the medication and any known risks; and
+  (b) consents to taking the prescription medication.
+(5) If an application is made under this section for the suspension, variation, or discharge of any condition, a probation officer may suspend the condition until the application has been heard and disposed of.
+
+### 95 Review of conditions if conditions incompatible
+(1) This section applies if—
+  (a) an offender is, at the same time, subject to conditions imposed under 2 or more orders made under section 93; and
+  (b) a probation officer is satisfied that—
+    (i) any condition to which the offender is subject under any of the orders is incompatible with any other condition to which the offender is subject under any other of the orders; or
+    (ii) in light of all the conditions to which the offender is subject under the orders, it is unreasonable to expect the offender to comply with any 1 or more of the conditions.
+(2) The probation officer must apply for a review of the conditions to which the offender is subject under the orders made under section 93.
+(3) Section 94 applies with any necessary modifications to an application made under this section.
+
+### 96 Offence to breach conditions
+(1) Every offender commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $2,000, who breaches, without reasonable excuse, any conditions imposed under section 93 or section 94.
+(2) In the case of a condition of a kind referred to in section 93(4) (which involves prescription medication) an offender does not breach his or her conditions for the purposes of this section if he or she withdraws consent to taking prescription medication.
+
+**Home detention**
+
+### 97 Court must consider granting offender leave to apply for home detention in certain cases
+(1) This section applies if a court sentences an offender to—
+  (a) a term of imprisonment of not more than 2 years; or
+  (b) 2 or more terms of imprisonment to be served concurrently, each term of which is not more than 2 years; or
+  (c) 2 or more terms of imprisonment that are cumulative, the aggregate term of which is not more than 2 years; or
+  (d) 1 or more terms of imprisonment to be served concurrently with a sentence or sentences of imprisonment under which an offender is already detained, the total term of all the sentences being not more than 2 years.
+(2) For the purposes of subsection (1)(d),—
+  (a) the total term of 2 or more sentences of imprisonment is a term beginning with the commencement date of the first of the sentences to commence and ending with the sentence expiry date (as specified in subpart 3 of Part 1 of the Parole Act 2002) of the sentence last to expire:
+  (b) an indeterminate sentence of imprisonment is to be treated as if it were a determinate sentence of imprisonment of more than 2 years:
+  (c) a person who is detained under an interim recall order under the Parole Act 2002 is not detained under the sentence to which the interim recall order applies.
+(3) The court may grant the offender leave to apply to the New Zealand Parole Board under section 33 of the Parole Act 2002 for home detention only if the court is satisfied that it would be appropriate to grant leave, taking into account—
+  (a) the nature and seriousness of the offence; and
+  (b) the circumstances and background of the offender; and
+  (c) any relevant matters in the victim impact statement in the case.
+(4) The court must make an order granting leave or declining to grant leave.
+(5) If the court sentences the offender to more than 1 term of imprisonment on the same occasion,—
+  (a) only 1 order under subsection (4) may be made; and
+  (b) that order applies in respect of all the sentences of imprisonment imposed on that occasion.
+
+### 98 Appeal against order granting or declining leave to apply for home detention
+For the purposes of Part 4 of the Summary Proceedings Act 1957 and Part 13 of the Crimes Act 1961, an order under section 97(4) is a sentence.
+
+### 99 Effect of subsequent conviction on home detention
+(1) This section applies if an offender is convicted of an offence while serving a sentence by way of home detention.
+(2) If the offence was committed before the conviction for the offence to which the home detention relates, or is an offence against section 71 of the Parole Act 2002,—
+  (a) despite sections 19(3) and 56, but subject to section 55, the court may sentence the offender to community work if the court is satisfied that, in the special circumstances of the offence or of the offender, it is in the interests of justice to do so:
+  (b) if the court imposes a sentence of community work, the court may order that it be served concurrently with the sentence that is being served by way of home detention:
+  (c) if the court imposes a sentence of imprisonment, the court may order that the sentence also be served by way of home detention concurrently with the other sentence, unless the total term of both sentences together (as calculated in accordance with subsection (5)) is more than 2 years.
+(3) In any other case,—
+  (a) if the offence is punishable by imprisonment, the court must order that the offender be returned to a prison, unless the court considers that, because of the nature or circumstances of the offence or the circumstances of the offender, it would be unjust to do so:
+  (b) despite sections 19(3) and 56, but subject to section 55, the court may sentence the offender to community work if the court is satisfied that, in the special circumstances of the offence or of the offender, it is in the interests of justice to do so:
+  (c) if the court imposes a sentence of community work, the court may order that it be served concurrently with the sentence that is being served by way of home detention:
+  (d) if the offence is not punishable by imprisonment, the court may, but is not required to, order that the offender be returned to a prison to serve the remainder of his or her sentence.
+(4) If the court orders, under subsection (3)(a), that an offender be returned to a prison then, despite anything in section 97, the offender is not eligible to be granted leave to apply for home detention in relation to any sentence of imprisonment imposed in relation to the subsequent conviction.
+(5) For the purposes of subsection (2)(c), the total term of both sentences is a term beginning with the commencement date of the first of the sentences to commence and ending with the sentence expiry date (as specified in subpart 3 of Part 1 of the Parole Act 2002) of the sentence last to expire.
+
+**Provisions about start date of sentence of imprisonment**
+
+### 100 Court may defer start date of sentence of imprisonment
+(1) The court may defer the start date of a sentence of imprisonment for a specified period of up to 2 months—
+  (a) on humanitarian grounds; or
+  (b) if the court has given leave for the offender to apply for home detention and it is satisfied that there are exceptional circumstances justifying deferral of the start of the sentence.
+(2) If the court defers the start date of a sentence of imprisonment under subsection (1)(b), the court must specify that the period of deferment is a period (to be specified by the court) of up to 2 months or the period ending with the date on which the Parole Board determines the application for home detention, whichever is the sooner.
+(3) The sentence of imprisonment starts on the date specified in section 78 of the Parole Act 2002.
+(3A) The Bail Act 2000 provides that an offender whose sentence is deferred under this section must be granted bail.
+(4) Despite subsection (1), no court may defer the start date of a sentence of imprisonment if—
+  (a) the sentence of imprisonment is imposed cumulatively on any other sentence of imprisonment; or
+  (b) the sentence of imprisonment is imposed in substitution for a sentence of imprisonment that has been quashed or set aside ; or
+  (c) an order under this section has already been made in respect of the sentence; or
+  (d) the offender has already commenced serving the sentence or is detained under any other sentence or order.
+(5) For the purpose of this section, a term of imprisonment imposed on an offender (whether by committal, sentence, or order) in respect of the non-payment of a sum of money, contempt of court, or disobedience of a court order is deemed to be a determinate sentence of imprisonment.
+
+### 101 Start date of sentence of imprisonment
+(1) Except as provided in section 100, the start date of a sentence of imprisonment is that set out in section 76 of the Parole Act 2002.
+(2) For the purpose of this section, a term of imprisonment imposed on an offender (whether by committal, sentence, or order) in respect of the non-payment of a sum of money, contempt of court, or disobedience of a court order is deemed to be a determinate sentence of imprisonment.
+
+### Subpart 4 — Sentencing for murder
+
+**Presumption in relation to sentence for murder**
+
+### 102 Presumption in favour of life imprisonment for murder
+(1) An offender who is convicted of murder must be sentenced to imprisonment for life unless, given the circumstances of the offence and the offender, a sentence of imprisonment for life would be manifestly unjust.
+(2) If a court does not impose a sentence of imprisonment for life on an offender convicted of murder, it must give written reasons for not doing so.
+
+**Imposition of minimum period of imprisonment**
+
+### 103 Imposition of minimum period of imprisonment if life imprisonment imposed for murder
+(1) If a court sentences an offender convicted of murder to imprisonment for life it must order that the offender serve a minimum period of imprisonment under that sentence.
+(2) The minimum term of imprisonment ordered may not be less than 10 years, and must be the minimum term of imprisonment that the court considers necessary to satisfy all or any of the following purposes:—
+  (a) holding the offender accountable for the harm done to the victim and the community by the offending:
+  (b) denouncing the conduct in which the offender was involved:
+  (c) deterring the offender or other persons from committing the same or a similar offence:
+  (d) protecting the community from the offender.
+(3)
+(4)
+(5)
+(6)
+(7) This section is subject to section 104.
+
+### 104 Imposition of minimum period of imprisonment of 17 years or more
+The court must make an order under section 103 imposing a minimum period of imprisonment of at least 17 years in the following circumstances, unless it is satisfied that it would be manifestly unjust to do so:
+  (a) if the murder was committed in an attempt to avoid the detection, prosecution, or conviction of any person for any offence or in any other way to attempt to subvert the course of justice; or
+  (b) if the murder involved calculated or lengthy planning, including making an arrangement under which money or anything of value passes (or is intended to pass) from one person to another; or
+  (c) if the murder involved the unlawful entry into, or unlawful presence in, a dwelling place; or
+  (d) if the murder was committed in the course of another serious offence; or
+  (e) if the murder was committed with a high level of brutality, cruelty, depravity, or callousness; or
+  (ea) if the murder was committed as part of a terrorist act (as defined in section 5(1) of the Terrorism Suppression Act 2002); or
+  (f) if the deceased was a member of the police or a prison officer acting in the course of his or her duty; or
+  (g) if the deceased was particularly vulnerable because of his or her age, health, or because of any other factor; or
+  (h) if the offender has been convicted of 2 or more counts of murder, whether or not arising from the same circumstances; or
+  (i) in any other exceptional circumstances.
+
+### 105 Appeal against imposition of minimum period of imprisonment
+For the purposes of Part 13 of the Crimes Act 1961, an order under section 103 is a sentence.
+
+### Subpart 5 — Discharge and miscellaneous orders
+
+**Discharge**
+
+### 106 Discharge without conviction
+(1) If a person who is charged with an offence is found guilty or pleads guilty, the court may discharge the offender without conviction, unless by any enactment applicable to the offence the court is required to impose a minimum sentence.
+(2) A discharge under this section is deemed to be an acquittal.
+(3) A court discharging an offender under this section may—
+  (a) make an order for payment of costs or the restitution of any property; or
+  (b) make any order for the payment of any sum that the court thinks fair and reasonable to compensate any person who, through, or by means of, the offence, has suffered—
+    (i) loss of, or damage to, property; or
+    (ii) emotional harm; or
+    (iii) loss or damage consequential on any emotional or physical harm or loss of, or damage to, property:
+  (c) make any order that the court is required to make on conviction.
+(3A) If the court is considering making an order under subsection (3)(b), it may order a report to be prepared under section 33 as if the court were considering imposing a sentence of reparation.
+(4) Despite subsection (3)(b), the court must not order the payment of compensation in respect of any emotional harm, or loss or damage consequential on emotional harm, unless the person who suffered the emotional harm is a person described in paragraph (a) of the definition of victim in section 4.
+(5) Despite subsection (3)(b), the court must not order the payment of compensation in respect of any consequential loss or damage described in subsection (3)(b)(iii) for which the court believes that a person has entitlements under the Injury Prevention, Rehabilitation, and Compensation Act 2001.
+(6) When determining the amount of compensation to be paid, the court must take into account any offer, agreement, response, measure, or action as described in section 10.
+(7) Nothing in section 320 of the Injury Prevention, Rehabilitation, and Compensation Act 2001 applies to sentencing proceedings.
+
+### 107 Guidance for discharge without conviction
+The court must not discharge an offender without conviction unless the court is satisfied that the direct and indirect consequences of a conviction would be out of all proportion to the gravity of the offence.
+
+### 108 Conviction and discharge
+(1) If a person is convicted of an offence, a court before which the offender appears for sentence may, instead of imposing sentence, direct that the offender be discharged, unless by any enactment applicable to the offence the court is required to impose a minimum sentence.
+(2) A court discharging an offender under this section may—
+  (a) make an order for the payment of costs or for the restitution of any property; or
+  (b) make any order for the payment of any sum that the court thinks fair and reasonable to compensate any person who, through, or by means of, the offence, has suffered—
+    (i) loss of, or damage to, property; or
+    (ii) emotional harm; or
+    (iii) loss or damage consequential on any emotional or physical harm or loss of, or damage to, property:
+  (c) make any order that the court is required to make on conviction.
+(2A) If the court is considering making an order under subsection (2)(b), it may order a report to be prepared under section 33 as if the court were considering imposing a sentence of reparation.
+(3) Despite subsection (2)(b), the court must not order the payment of compensation in respect of any emotional harm, or loss or damage consequential on emotional harm, unless the person who suffered the emotional harm is a person described in paragraph (a) of the definition of victim in section 4.
+(4) Despite subsection (2)(b), the court must not order the payment of compensation in respect of any consequential loss or damage described in subsection (2)(b)(iii) for which the court believes that a person has entitlements under the Injury Prevention, Rehabilitation, and Compensation Act 2001.
+(5) When determining the amount of compensation to be paid, the court must take into account any offer, agreement, response, measure, or action as described in section 10.
+(6) Nothing in section 320 of the Injury Prevention, Rehabilitation, and Compensation Act 2001 applies to sentencing proceedings.
+
+### 109 Guidance on conviction and discharge
+The court must not convict and discharge an offender unless it is satisfied that a conviction is sufficient penalty in itself.
+
+**Order to come up for sentence if called on**
+
+### 110 Order to come up for sentence if called on
+(1) If a person is convicted of an offence, a court before which the offender appears for sentence may, instead of imposing sentence, order the offender to appear for sentence if called on to do so within the period described in subsection (2).
+(2) The period referred to in subsection (1) is a period, not exceeding 1 year commencing with the date of conviction, that the court may specify in the order.
+(3) A court making an order under this section may—
+  (a) make an order for the payment of costs or for the restitution of any property; or
+  (b) make any order for the payment of any sum that the court thinks fair and reasonable to compensate any person who, through, or by means of, the offence, has suffered—
+    (i) loss of, or damage to, property; or
+    (ii) emotional harm; or
+    (iii) loss or damage consequential on any emotional or physical harm or loss of, or damage to, property.
+(3A) If the court is considering making an order under subsection (3)(b), it may order a report to be prepared under section 33 as if the court were considering imposing a sentence of reparation.
+(4) Despite subsection (3)(b), the court must not order the payment of compensation in respect of any emotional harm, or loss or damage consequential on emotional harm, unless the person who suffered the emotional harm is a person described in paragraph (a) of the definition of victim in section 4.
+(5) Despite subsection (3)(b), the court must not order the payment of compensation in respect of any consequential loss or damage described in subsection (3)(b)(iii) for which the court believes that a person has entitlements under the Injury Prevention, Rehabilitation, and Compensation Act 2001.
+(6) When determining the amount of compensation to be paid, the court must take into account any offer, agreement, response, measure, or action as described in section 10.
+(7) Nothing in section 320 of the Injury Prevention, Rehabilitation, and Compensation Act 2001 applies to sentencing proceedings.
+
+### 111 Calling offender to come up for sentence
+(1) This section applies if an offender in respect of whom an order is made under section 110—
+  (a) is convicted of a subsequent offence punishable by imprisonment for a term of more than 3 months; or
+  (b) fails to comply with any other order referred to in section 110(3); or
+  (c) fails to comply with any agreement or fails to take any measure or action of a kind referred to in section 10(1)(b), (d), or (e) that was brought to the attention of the court at the time the court made the order under section 110.
+(2) Any of the following persons may, at any time within the period specified in the order, apply to a court having jurisdiction to deal with the original offence to have the offender brought before the court to be dealt with for that offence:
+  (a) a member of the police:
+  (b) a Crown Prosecutor:
+  (c) the Solicitor-General:
+  (d) any person designated by the chief executive of the Department for Courts or the chief executive of the Department of Corrections.
+(3) On an application under subsection (2), the court may—
+  (a) issue a summons in the prescribed form requiring the offender to appear at the time and place appointed in the summons to show cause why he or she should not be dealt with for the original offence; or
+  (b) if the offender fails to appear before the court in answer to the summons issued under paragraph (a), issue a warrant to arrest the offender and bring him or her before the court; or
+  (c) issue an arrest warrant without first issuing a summons.
+(4) If an application is made under subsection (2), sections 45 to 47 of the Summary Proceedings Act 1957 apply, with any necessary modifications, as if the application were an information.
+(5) If a person appears before a court under this section and the court is satisfied of any of the matters specified in subsection (1), the court—
+  (a) must inquire into the circumstances of the original offence and the conduct of the offender since the order was made (including, where appropriate, the circumstances and gravity of the subsequent offence); and
+  (b) may sentence or otherwise deal with the offender for the original offence.
+
+**Non-association orders**
+
+### 112 Non-association order
+(1) If an offender is convicted of an offence punishable by imprisonment, the court may make a non-association order in respect of the offender.
+(2) Before making a non-association order, the court must be satisfied that the making of the order is reasonably necessary to ensure that the offender does not commit further offences punishable by imprisonment.
+(3) Subject to subsection (4), a non-association order may be made in addition to, or instead of, imposing a sentence or making any other order.
+(4) If the court makes a non-association order, it must not at the same time impose on the offender a sentence of imprisonment, whether for the offence for which that order was made or for any other offence for which the offender has appeared for sentence.
+(5) The court must not make a non-association order if the offender is already detained under a sentence of imprisonment of more than 24 months imposed on an earlier occasion.
+(6) Section 140 of the Criminal Justice Act 1985 applies to a person specified in a non-association order as if that person were connected with the proceedings.
+
+### 113 Effect of non-association order
+(1) A non-association order prohibits the offender from associating with—
+  (a) any person or persons specified in the order; or
+  (b) any person or persons of any class specified in the order.
+(2) A non-association order has effect for the period, not exceeding 12 months, that the court may specify in the order.
+
+### 114 Cumulative orders and sentences
+(1) A non-association order must not be cumulative on another non-association order or on a sentence of any kind imposed at the same time as the non-association order.
+(2) If the court imposes a non-association order on an offender who is already detained under a sentence of imprisonment of 24 months or less, the non-association order is cumulative on the other sentence.
+
+### 115 Order must be drawn up and copy given to offender, etc
+(1) If a court makes a non-association order, the particulars of non-association must be drawn up in the form of an order.
+(2) For the purposes of subsection (1), a court may direct that the offender be detained in the custody of the court for a period, not exceeding 2 hours, that may be necessary to enable the order to be drawn up and a copy given to the offender.
+(3) If it is not practicable to give a copy of the order to the offender before the offender leaves the court, a copy must be given to the offender in person as soon as practicable after the offender leaves the court.
+(4) A copy of the order must be given to—
+  (a) the chief executive of the Department of Corrections; and
+  (b) the officer in charge of the police station nearest to the court in which the order was made.
+
+### 116 Right of appeal against non-association order
+For the purposes of Part 4 of the Summary Proceedings Act 1957 and Part 13 of the Crimes Act 1961, a non-association order is a sentence.
+
+### 117 Commencement of period of non-association
+(1) Except as provided in subsection (2), the period of non-association specified by a non-association order commences on the day on which the order is made.
+(2) If a non-association order is, under section 114(2), cumulative on a sentence of imprisonment, the period of non-association specified by the non-association order commences on the day on which the offender is released from detention under the sentence of imprisonment.
+
+### 118 Breach of non-association order constitutes offence
+(1) An offender who is subject to a non-association order commits an offence who, without reasonable excuse, associates with any person in contravention of the order.
+(2) A person who commits an offence against this section is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $1,000.
+
+### 119 Effect of subsequent sentences on non-association order
+If an offender who is subject to a non-association order (whether or not it is cumulative on a sentence of imprisonment and whether or not the period of non-association has commenced) is subsequently sentenced for another offence, the following provisions apply:
+  (a) if the offender is subsequently sentenced to imprisonment for a term of more than 24 months, the non-association order is suspended:
+  (b) if any other sentence is imposed, the court may make an order suspending the non-association order:
+  (c) if the offender is sentenced to imprisonment for a term of 24 months or less and the court makes no order under paragraph (b),—
+    (i) if the non-association order is cumulative on a sentence of imprisonment and the period of non-association specified by the order has not commenced, the period of non-association does not commence until the day on which the offender is released from detention after serving each sentence of imprisonment to which he or she is subject:
+    (ii) in any other case, the period of non-association continues to run while the offender is detained and, on the offender's release, he or she continues to be subject to the non-association order for any unexpired residue of the period of non-association.
+
+### 120 Resumption of non-association order if sentence of imprisonment quashed
+(1) This section applies to a non-association order that is suspended under section 119(a) or (b).
+(2) The non-association order is suspended until the earlier of the following events:
+  (a) it resumes under subsection (3); or
+  (b) it is cancelled under subsection (5).
+(3) The non-association order is resumed if the sentence of imprisonment based on which the non-association order was suspended is quashed and that results in the offender no longer being detained under a sentence of imprisonment.
+(4) If a non-association order is resumed under subsection (3), no period during which the order was suspended is counted towards the period under section 113(2).
+(5) If the non-association order never resumes under subsection (3), it is cancelled when the offender ceases to be detained under the sentence of imprisonment based on which the non-association order was suspended.
+
+### 121 Application for review of non-association order
+(1) An offender may, at any time after the expiration of half the period of non-association under a non-association order, apply to the court in accordance with section 123 for the variation or cancellation of the order.
+(2) If a non-association order is cumulative on a sentence of imprisonment, the offender may, before the period of non-association commences, apply to the court in accordance with section 123 for the variation or cancellation of the order.
+(3) A probation officer may apply to a court in accordance with section 123 for the variation or cancellation of a non-association order if—
+  (a) the offender who is subject to it is convicted of an offence punishable by imprisonment; or
+  (b) a probation officer believes on reasonable grounds that the offender has failed or is unable to comply with the order.
+(4) Subsection (3) does not apply if the order is cancelled under section 120.
+(5) If an application is made under this section by a probation officer, the probation officer may suspend the order until the application has been heard and disposed of.
+
+### 122 Determination of application for variation or cancellation of order
+(1) On an application under section 121, the court must have regard to—
+  (a) any change in circumstances since the non-association order was made; and
+  (b) if the period of non-association specified by the order has commenced, the manner in which the offender has responded to the order.
+(2) The court may—
+  (a) vary the particulars of non-association; or
+  (b) cancel the order; or
+  (c) cancel the order and substitute any other sentence that could have been imposed on the offender at the time when the offender was convicted of the offence for which the order was made.
+(3) When determining any substitute sentence under subsection (2)(c), the court must take into account the portion of the non-association order that remains unserved at the time.
+(4) If the court cancels the order,—
+  (a) in any case where the period of non-association specified by the order has commenced, the period of non-association expires on the date that the court may specify:
+  (b) in any other case, the period of non-association expires on the date that the order cancelling the non-association order is made.
+
+### 123 Jurisdiction and procedure
+(1) Section 72 applies, with any necessary modifications, to every application under section 121.
+(2) Before determining the application, the court may make any inquiries as to the circumstances of the case that the court considers reasonable, and may hear any evidence relevant to those circumstances.
+(3) If the court varies or cancels the non-association order, the Registrar must give written notice of the decision to the chief executive of the Department of Corrections and the member of the police in charge of the police station nearest to the court.
+
+**Disqualification from driving**
+
+### 124 Power of court to disqualify offenders from driving motor vehicles
+(1) This section applies if a person is convicted of an offence punishable by imprisonment, not being an offence against the Transport Act 1962 or the Land Transport Act 1998.
+(2) A court may exercise the power in subsection (3) if a person is convicted of an offence referred to in subsection (1) and the court is satisfied that,—
+  (a) the commission of the offence was facilitated by the use of a motor vehicle by the offender, whether or not the offender was the driver or person in charge; or
+  (b) a motor vehicle was used by the offender, whether or not the offender was the driver or person in charge, for the purpose of facilitating his or her flight or avoiding his or her detection or arrest after the commission of the offence.
+(3) The court may order the offender to be disqualified from holding or obtaining a driver licence within the meaning of the Land Transport Act 1998 for any period in accordance with section 125 that the court thinks fit.
+(4) The court may make an order under this section in addition to, or instead of, passing any other sentence or making any other order.
+(5) Nothing in this section limits or affects any power of the court under any other enactment to make an order disqualifying any person from holding or obtaining a driver licence.
+
+### 125 Period of disqualification from driving
+(1) The period of disqualification ordered under section 124 must not exceed 3 years, except as provided in subsection (2).
+(2) If the person is convicted of manslaughter, the court may fix any period of disqualification that it thinks fit.
+
+### 126 Provisions of Land Transport Act 1998 apply if offender disqualified under section 124
+If an offender is disqualified from holding or obtaining a driver licence by an order made under section 124, the following provisions of the Land Transport Act 1998 apply, so far as they are applicable and with any necessary modifications, as if the order had been made under that Act:
+  (a) section 82 (effect of disqualification):
+  (b) section 83 (holder to undergo prescribed tests if disqualified for more than 1 year):
+  (c) section 84 (new licence or endorsement to be issued if disqualified driver qualifies for specified vehicle classes):
+  (d) section 85 (when disqualification starts):
+  (e) section 86 (term of disqualification if person already disqualified):
+  (f) section 87 (particulars of court orders relating to disqualification to be sent to Director of Land Transport and offender):
+  (g) section 99 (court may remove disqualification):
+  (h) section 103 (persons who may apply to court for limited licence):
+  (i) section 104 (issue of limited licence to be delayed or prohibited in certain cases):
+  (j) section 105 (court may make order authorising grant of limited licence):
+  (k) section 107 (appeals against court orders relating to disqualification or grant of limited licence, and deferral of disqualification).
+
+**Confiscation of motor vehicles**
+
+### 127 Interpretation of terms used in sections 128 to 142
+(1) For the purposes of this section and sections 128 to 142, unless the context otherwise requires,—
+  - **encumbrance** , in relation to a motor vehicle in respect of which a confiscation order is made, includes—
+    (a) a hire purchase agreement:
+    (b) a leasing agreement:
+    (c) any other agreement entered into between the offender and another party under which the other party obtains or retains any interest in the motor vehicle
+  - **hire purchase agreement** means a hire purchase agreement within the meaning of section OB 1 of the Income Tax Act 2004
+  - **interest** means any proprietary interest, whether legal or equitable, and whether vested or contingent
+  - **leasing agreement** does not include any agreement entered into between the offender and the holder of a rental service licence under the Transport Services Licensing Act 1989
+  - **motor vehicle** means a motor vehicle within the meaning of section 2(1) of the Land Transport Act 1998; but does not include a trailer.
+(2) For the purposes of sections 128 to 142, a motor vehicle is owned by an offender whether the offender owns it solely or as a joint tenant or tenant in common with any other person.
+
+### 128 Confiscation of motor vehicle
+(1) This section applies if a person is convicted of any of the following offences:
+  (a) an offence punishable by imprisonment for a term of more than 12 months, or by imprisonment for life:
+  (b) an offence against any of the provisions of sections 35(1)(a), 35(1)(b), 36A(1)(a) or (c), 38(1), 39(1), or 56 to 60 of the Land Transport Act 1998 (which relate to driving offences).
+(2) A court may exercise the power in subsection (3) if a person is convicted of an offence referred to in subsection (1) and the court by or before which the offender is convicted is satisfied that any motor vehicle owned by the offender or in which the offender has any interest at the time of conviction—
+  (a) was used to commit or facilitate the commission of the offence, whether or not the offender was the driver or person in charge; or
+  (b) in the case of an offence against any of the provisions of sections 35(1)(a), 35(1)(b), 36(1)(a), 36A(1)(a) or (c), 38(1), 39(1), and 56 to 62 of the Land Transport Act 1998, was being driven by, or in the charge of, the offender at the material time; or
+  (c) was used by the offender, whether or not the offender was the driver or person in charge, to facilitate the offender's flight or avoid his or her detection or arrest after the commission of the offence.
+(3) The court may order that the motor vehicle be confiscated.
+(4) The court may make an order under this section in addition to, or instead of, passing any other sentence or making any other order.
+(5) In deciding whether to make an order under this section, the court must have regard to—
+  (a) any undue hardship that the making of the order would cause to the offender in relation to his or her trade, business, profession, occupation, or employment:
+  (b) any undue hardship that the making of the order would cause to any other person who would otherwise have the use or benefit of the motor vehicle on a regular basis:
+  (c) the nature and extent of the offender's interest in the motor vehicle, and the nature and extent of any other person's interest in it:
+  (d) any other considerations that the court thinks fit.
+
+### 129 Confiscation of motor vehicle after second offence
+(1) This section applies if,—
+  (a) on or after 26 July 1996, a person commits an offence (the first offence) against any of sections 32(1)(a) or (b), 35(1)(a) or (b), 36(1), 36A(1)(a) or (c), 39(1),56(1) or (2), 58(1), 60(1), 61(1), 61(2) or 62(1) of the Land Transport Act 1998 (which relate to driving offences) or section 171 of the Crimes Act 1961 (but only where the manslaughter involved the use of a motor vehicle); and
+  (b) within 4 years after the date of the commission of that offence, the person commits a further offence (the second offence) against any of those provisions of the Land Transport Act 1998.
+(2) For the purpose of subsection (1), it does not matter whether or not the second offence is of the same kind as the first offence, but it must be an offence that arises from a different incident from the one that gave rise to the first offence.
+(3) If the court by or before which the offender is convicted of the second offence is satisfied that any motor vehicle owned by the offender or in which the offender has any interest was being driven by, or in the charge of, the offender at the material time, the court must order that the motor vehicle be confiscated.
+(4) Despite subsection (3), the court must not make an order under that subsection if it will result in extreme hardship to the offender or undue hardship to any other person.
+(5) For the purposes of this section, a conviction for an offence against a provision of the Transport Act 1962 that corresponds to an offence specified in subsection (1) must be treated as a conviction for an offence specified in that subsection.
+
+### 130 Court may order declaration of ownership to be completed
+(1) If a court is considering whether to order the confiscation of a motor vehicle under section 128 or section 129, the court may order that the offender complete a declaration of ownership before ordering the confiscation.
+(2) The declaration of ownership must specify—
+  (a) whether the offender owns, or has any interest in, the motor vehicle at the date of conviction; and
+  (b) whether any other person owns, or has any interest in, the motor vehicle at the date of conviction and, if so, the name of that person and the nature of that interest; and
+  (c) whether the offender has ceased to be the owner of, or to have any interest in, the motor vehicle at any time subsequent to the commission of the offence but before the date of his or her conviction; and
+  (d) if the offender has disposed of his or her interest in the motor vehicle during the period referred to in paragraph (c), to whom the ownership or interest in the motor vehicle was disposed, the relationship of that person to the offender, and the consideration received by the offender.
+(3) For the purposes of having a declaration of ownership completed by the offender, the court may direct that the offender be detained in the custody of the court for a period, not exceeding 2 hours, that may be necessary to complete the declaration of ownership.
+(4) If a court does not make an order under this section, that does not affect the validity of any other order of the court.
+
+### 131 If motor vehicle has been disposed of, court may prohibit offender from acquiring another motor vehicle
+(1) This section applies if, in any case to which section 128 or section 129 would otherwise apply, the offender has, before the date of his or her conviction, ceased to be the owner of the motor vehicle or to have any interest in it.
+(2) The court may—
+  (a) make an order prohibiting the offender from acquiring any interest in any motor vehicle within 12 months after the date of the order; and
+  (b) if the offender has, at any time after the commission of the offence but before the date of his or her conviction, become the owner of any motor vehicle or acquired any interest in any motor vehicle, order that that motor vehicle be confiscated.
+(3) If the court is not satisfied that the disposition of the motor vehicle was made by the offender with a bona fide intention to dispose permanently of his or her ownership or interest in the vehicle,—
+  (a) the court may, if it thinks fit, set the disposition aside; and
+  (b) section 128 or section 129, as the case may be, applies as if the disposition by the offender had not occurred.
+(4) Before making an order under subsection (3), the court must give any person to whom the disposition of the motor vehicle was made an opportunity to be heard.
+
+### 132 Enforcement of confiscation order
+(1) If a court makes a confiscation order under section 128 or section 129, it must specify in that order the time and place at which the offender must surrender the motor vehicle to the Registrar or a bailiff or constable.
+(2) If the offender fails to surrender the motor vehicle in accordance with the order, the court must issue a warrant in the prescribed form authorising the Registrar or any bailiff or constable to confiscate the motor vehicle.
+(3) For the purpose of executing a warrant of confiscation issued under this section, the Registrar or bailiff or constable executing it may enter on any premises, by force if necessary, if that officer has reasonable cause to believe that the motor vehicle in respect of which the warrant is issued is on those premises.
+(4) If any person is in actual occupation of the premises, the Registrar or bailiff or constable must, on entering, produce the warrant to that person.
+(5) Despite any enactment, rule of law, or agreement to the contrary, the property in the motor vehicle passes absolutely to the Crown free of all encumbrances when—
+  (a) an offender surrenders a motor vehicle in accordance with an order; or
+  (b) the Registrar or a bailiff or constable pursuant to a warrant issued under this section seizes the motor vehicle described in the warrant.
+(6) If a motor vehicle is surrendered to or seized by any bailiff or constable under this section, that officer must, as soon as practicable, deliver it into the custody of the Registrar of the court.
+
+### 133 Offence to remove confiscated vehicle
+(1) A person commits an offence who removes or attempts to remove any motor vehicle surrendered to or seized by any bailiff or constable under section 132 from the custody of that bailiff or constable, or from the custody of the Registrar of the court, without the approval of the Registrar.
+(2) A person who commits an offence under this section is liable on summary conviction to a fine not exceeding $200.
+
+### 134 Defect in warrant does not make action unlawful
+(1) No confiscation made under the authority of section 132 is unlawful, and no person making a confiscation under the authority of section 132 is a trespasser, because of any defect or want of form in the warrant of confiscation.
+(2) No person making a confiscation under the authority of section 132 is a trespasser from the beginning because of any irregularity afterwards committed by that person.
+(3) Despite subsections (1) and (2), a person aggrieved by a defect or irregularity referred to in those subsections may recover satisfaction for the special damage by action at law.
+
+### 135 Registrar may direct order to be enforced in another District Court
+(1) Despite anything in section 132, if it appears to the Registrar of a District Court in which an order for the confiscation of any motor vehicle is made that the order may be more effectively enforced in another District Court, the Registrar may, by order signed by the Registrar, so direct.
+(2) If the Registrar makes a direction under subsection (1), sections 132 to 134 and sections 137 to 141 apply accordingly.
+
+### 136 Offender must not acquire new interest in motor vehicle for 12 months
+(1) This section applies if—
+  (a) a court makes an order for the confiscation of a motor vehicle under section 128 or section 129; or
+  (b) a court has made an order under section 131(2)(a) prohibiting an offender from acquiring a motor vehicle for 12 months.
+(2) The offender must not, within 12 months after the date of the order, acquire any interest in any motor vehicle.
+(3) A person commits an offence and is liable on summary conviction to a fine not exceeding $500 who acquires any interest in a motor vehicle in contravention of subsection (2).
+(4) If a court convicts a person of an offence against this section, the court may, instead of, or in addition to, imposing a fine, order the confiscation of the motor vehicle concerned.
+(5) If a court orders the confiscation of a motor vehicle under subsection (4), sections 130 to 135, this section, and sections 137 to 142 apply accordingly.
+
+### 137 Sale of confiscated motor vehicles
+(1) Subject to section 138, as soon as practicable after a motor vehicle is delivered into a Registrar's custody under section 132, the Registrar must arrange for the sale of the motor vehicle by public auction or in any other manner that the court may direct.
+(2) The Registrar, or any officer of the Department for Courts authorised in writing by the Registrar, may conduct the auction even if the Registrar or that officer does not hold a licence under the Auctioneers Act 1928 or the Motor Vehicle Dealers Act 1975.
+(3) The proceeds of the sale must be applied in the following manner and order of priority:
+  (a) in payment of the costs of the sale (including all costs incurred in seizing the motor vehicle, towing, and storing the vehicle (if it was stored under section 97 of the Land Transport Act 1998), and complying with the provisions of this subpart preliminary to the sale):
+  (b) in satisfaction of any amount owed by the offender under any encumbrance brought to the notice of the Registrar within 1 month after the date of sale and established to the Registrar's satisfaction:
+  (c) in payment of any sum known by the Registrar to be payable by the offender in respect of any fine, or under any sentence of reparation, imposed on the offender, or in payment of any court costs ordered to be paid by the offender:
+  (d) to the offender.
+
+### 138 Disposal of unsaleable confiscated vehicle
+If the Registrar has reasonable grounds to believe that a motor vehicle that is delivered into his or her custody under section 132 is unsaleable, the Registrar may dispose of the vehicle in any manner he or she thinks fit.
+
+### 139 Procedure if notice given that vehicle subject to encumbrance
+(1) If notice is given to the Registrar within 1 month after the date of sale under section 137 that the confiscated motor vehicle is subject to any encumbrance and the claim is not established to the Registrar's satisfaction, the Registrar must issue a summons calling before the court the party making the claim.
+(2) The following provisions apply to every summons issued under subsection (1) so far as they are applicable and with the necessary modifications:
+  (a) the provisions of the High Court Rules relating to interpleader by an officer executing a writ or other order; or
+  (b) as the case may require, section 94 of the District Courts Act 1947.
+
+### 140 Party with interest may apply to Registrar
+(1) Any party (other than the offender) to a leasing agreement relating to the confiscated motor vehicle may apply to the Registrar, at any time before the Registrar has sold the motor vehicle, for the transfer of the motor vehicle to that party as if the offender had breached the terms of the agreement.
+(2) If subsection (1) applies, the Registrar may transfer the motor vehicle to that party accordingly.
+
+### 141 Party with interest may apply to court
+(1) Any party (other than the offender) to any encumbrance other than a leasing agreement relating to the confiscated motor vehicle may apply to the court, at any time before the Registrar has sold the motor vehicle, for an order under subsection (2).
+(2) The court may, if it thinks fit, make an order directing the Registrar to transfer the motor vehicle to that other party for disposal in accordance with the provisions of the encumbrance and of any enactment to which the encumbrance is subject, as if the offender had breached the terms of that encumbrance.
+(3) Every person to whom a motor vehicle is transferred under an order of the court made under this section must, on disposing of the motor vehicle, pay the proceeds of sale to the Registrar.
+(4) The Registrar must apply those proceeds in accordance with subsection (5).
+(5) Out of the proceeds, the Registrar must pay to the person who sold the motor vehicle either,—
+  (a) if the encumbrance is a hire purchase agreement and the motor vehicle is used or was acquired for use primarily for personal, domestic, or household purposes, the amount of the costs and expenses of, and incidental to, the sale within the meaning of section 33 of the Credit (Repossession) Act 1997 and the amount required to settle the agreement under section 31 of that Act; or
+  (b) in any other case, the amount of the costs and expenses of, and incidental to, the sale within the meaning of section 33 of the Credit (Repossession) Act 1997 and the amount owed by the offender under the encumbrance.
+(6) The Registrar must then apply the balance remaining in accordance with section 137(3).
+
+### 142 Order may be cancelled on application by bona fide purchaser
+(1) On application to it by any person, the court must cancel a confiscation order made in respect of a motor vehicle if it is satisfied that, at any time after the conviction of the offender, that person purchased the motor vehicle in good faith without knowledge of the conviction.
+(2) In the circumstances described in subsection (1), the court may make any other consequential order or orders that it thinks just and reasonable.
+
+### Subpart 6 — Miscellaneous, transitional, and savings provisions
+
+**Miscellaneous provisions**
+
+### 143 Sentence not invalidated by mistake in age of offender
+(1) A sentence imposed on an offender for a particular offence is not invalid by reason only of the fact that the offender was, at the time when the offence was committed, under the age at which he or she was liable to the sentence imposed.
+(2) If a sentence to which subsection (1) applies has been imposed on an offender, the offender, the prosecutor, or any counsel on behalf of the Crown may, at any time, apply in accordance with this section for the substitution of some other sentence.
+(3) An application under this section must be made—
+  (a) to the High Court, if the sentence was passed—
+    (ia) by the Supreme Court on appeal against a sentence imposed by the High Court, or imposed by the Court of Appeal on appeal from the High Court; or
+    (i) by the Court of Appeal on appeal from the High Court; or
+    (ii) by the High Court otherwise than on appeal from a District Court; or
+  (b) to a District Court presided over by a trial Judge, if the sentence was passed—
+    (ia) by the Supreme Court on appeal against a sentence imposed by a District Court presided over by a trial Judge, or imposed by the Court of Appeal on appeal from a District Court presided over by a trial Judge; or
+    (i) by the Court of Appeal on appeal from a District Court presided over by a trial Judge; or
+    (ii) by a District Court Judge upon conviction on indictment; or
+  (c) to a District Court presided over by any Judge, in any other case.
+(4) The Judge to whom the application is made, after inquiry into the circumstances of the case, may impose in substitution for the original sentence any sentence that could have been imposed on the offender at the time of conviction.
+(5) For the purposes of an appeal or application for leave to appeal against the substituted sentence,—
+  (a) the substituted sentence is deemed to be a sentence passed on the conviction of the offender; but
+  (b) the time allowed for giving notice of the appeal or application runs from the date on which the substituted sentence was in fact imposed.
+
+### 144 Royal prerogative not affected
+Nothing in this Act limits or affects the Royal prerogative of mercy.
+
+### 145 Enforcement of payment of amounts under sentence of reparation, reparation orders, etc
+(1) This section applies to—
+  (a) any amount that is required to be paid under a sentence of reparation; or
+  (b) any amount that is required to be paid under any order made under section 106, section 108, or section 110.
+(2) Part 3 of the Summary Proceedings Act 1957 or (as the case may require) sections 19 to 19F of the Crimes Act 1961 apply with all necessary modifications as if the amount to be paid were a fine.
+(3) The remission of the whole or any part of the amount required to be paid under a sentence of reparation does not affect the right of the person who suffered the harm, loss, or damage to bring civil proceedings, or make claims under any accident compensation legislation applicable at the time of the offending, to recover the amount so remitted.
+
+### 145A Manner in which amounts of reparation must be applied in cases involving same offence
+(1) This section applies if a person (the liable person) is required to pay an amount of reparation to 2 or more persons in relation to the same offence (whether the requirement to pay the amount of reparation arose before or after the commencement of this section).
+(2) Any payments received from the liable person must be applied, as between the persons in whose favour the sentence of reparation or order of reparation (or both) was made, in the proportion that reflects the relative total or proportionate amounts ordered to be paid to each of them under the sentence or order (or both or if there was no such order, in equal amounts).
+(3) Subsection (2) applies subject to any contrary direction by a court.
+
+### 145B Manner in which amounts of reparation must be applied in cases involving different offences
+(1) This section applies—
+  (a) if a person (the liable person) is required to pay an amount of reparation to a person or persons in relation to an offence; and
+  (b) if the liable person is later required to pay an amount of reparation to another person or other persons in relation to another offence; and
+  (c) if both the amounts referred to in paragraphs (a) and (b) have not been paid in full; and
+  (d) whether the requirements to pay the amounts referred to in paragraphs (a) and (b) arose before or after the commencement of this section.
+(2) For the purpose of subsection (1) it does not matter whether or not the offence referred to in subsection (1)(b) is of the same kind as the offence referred to in subsection (1)(a).
+(3) Any payments received from the liable person must, in respect of 1 or more sentences of reparation or orders of reparation (or both) imposed on the same day in respect of different offences committed by the liable person, be applied (in accordance with section 145A if applicable)—
+  (a) as between the persons in whose favour the sentences of reparation or orders of reparation (or both) were made; and
+  (b) in the proportion that reflects the relative total or proportionate amounts ordered to be paid to each of them under the sentences or orders (or both).
+(4) Any payments received from the liable person must, in respect of sentences of reparation or orders of reparation (or both) imposed on the liable person on different days, be applied (in accordance with section 145A or subsection (3), if applicable) first in satisfaction of the amount of reparation that is payable to the person or persons in whose favour the sentence of reparation or the order of reparation (or both) was made first.
+(5) After the amount of reparation referred to in subsection (4) has been paid in full, any further payments received from the liable person must next be applied (in accordance with section 145A or subsection (3), if applicable) to the person or persons in whose favour the sentence of reparation or the order of reparation (or both) was next made.
+(6) This section applies subject to any contrary direction by a court.
+
+### 145C No Crown liability for error, etc, in applying payments of amounts of reparation
+The Crown is not liable to any person for any error, omission, or delay in applying any payment of an amount of reparation in accordance with section 145A or section 145B.
+
+### 145D Definitions for sections 145A to 145C
+In sections 145A to 145C,—
+  - **amount of reparation** means—
+    (a) any amount that is required to be paid under a sentence of reparation; or
+    (b) any amount that is required to be paid under any order of reparation
+  - **order of reparation** means—
+    (a) an order made under section 106, section 108, or section 110; or
+    (b) an order made in respect of a child, or any parent or guardian of that child, under section 84(1)(b) of the Children, Young Persons, and Their Families Act 1989; or
+    (c) an order made in respect of a young person, or any parent or guardian of that young person, under section 283(f) or (g) of the Children, Young Persons, and Their Families Act 1989; or
+    (d) an order that—
+      (i) requires the payment of any amount as compensation or restitution to the victim of an offence against any enactment; and
+      (ii) is declared by the Governor-General, by Order in Council, to be an order of reparation for the purposes of sections 145A to 145C.
+
+### 146 Consent to treatment, etc, not affected
+(1) No sentence or condition imposed or order made under this Act limits or affects in any way any enactment or rule of law relating to consent to any medical or psychiatric treatment.
+(2) Subsection (1) applies except as expressly provided by any other enactment.
+
+### 147 Regulations
+The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+  (a) prescribing forms for the purposes of this Act:
+  (b) prescribing the procedure for recording changes to registration details of a motor vehicle when an order for confiscation of a vehicle is made:
+  (c) prescribing offences in respect of the contravention of, or non-compliance with, any regulations made under this Act and the amounts of fines that may be imposed in respect of those offences, which fines must not exceed $500:
+  (d) generally providing for any other matters that are contemplated by, or necessary for giving full effect to, this Act, and for its due administration.
+
+**Transitional and savings provisions**
+
+### 148 Reparation or fine for offence committed before commencement date
+(1) This section applies if an offender is sentenced on or after the commencement date for an offence committed before that date.
+(2) Sections 11 and 22 to 28 of the Criminal Justice Act 1985 apply as if those sections had not been repealed.
+(3) Despite subsection (2), unless the particular enactment expressly provides otherwise, no court may sentence an offender referred to in subsection (1) to both a sentence of imprisonment and a fine for a particular offence.
+
+### 149 Community-based sentence for offence committed before commencement date
+(1) This section applies if an offender is sentenced on or after the commencement date for an offence committed before that date.
+(2) The court may, subject to section 19,—
+  (a) sentence the offender to community work under subpart 2 if, had it been dealing with the offender immediately before the commencement date, it would have sentenced him or her to community service or periodic detention under section 29 or section 37 of the Criminal Justice Act 1985; or
+  (b) sentence the offender to supervision under subpart 2 if, had it been dealing with the offender immediately before the commencement date, it would have sentenced him or her to supervision or a community programme under section 46 or section 53 of the Criminal Justice Act 1985.
+(3) When determining the length of, or number of hours of work to be done under, a sentence imposed in accordance with this section, the court—
+  (a) must take into account the length of the sentence or the number of hours of work or service that it could have imposed had it dealt with the offender immediately before the commencement date; and
+  (b) must not impose a greater number of hours or a longer sentence than it would have imposed had it sentenced the offender immediately before the commencement date.
+
+### 150 Community-based sentences imposed under Criminal Justice Act 1985
+(1) This section applies to an offender who, immediately before the commencement date, was subject to a community-based sentence imposed under the Criminal Justice Act 1985.
+(2) Except as provided in section 151 and subsection (3),—
+  (a) the offender must continue to serve that sentence as if this Act had not been passed; and
+  (b) the provisions of the Criminal Justice Act 1985 and any other enactment applicable to community-based sentences (including the provisions prescribing offences for the breach of those sentences) apply as if they had not been amended or repealed by this Act, subject to the following modifications:
+    (i) every reference to a warden must be read as a reference to a probation officer; and
+    (ii) every reference to a periodic detention centre must be read as a reference to a community work centre; and
+    (iii) every reference to a Manager Community Corrections must be read as a reference to a controlling officer of a probation area.
+(3) If the offender is subsequently sentenced to imprisonment for another offence, sections 78 and 79 of this Act apply.
+
+### 151 Offender subject to community-based sentence under Criminal Justice Act 1985 sentenced to further community-based sentence after commencement date
+(1) This section applies if—
+  (a) an offender was, immediately before the commencement date, subject to a community-based sentence imposed under the Criminal Justice Act 1985 (the old sentence); and
+  (b) on or after the commencement date the court wishes to impose a community-based sentence on the offender—
+    (i) for another offence (the subsequent offence); or
+    (ii) in substitution for the old sentence; or
+    (iii) to replace a suspended sentence of imprisonment as provided for in section 155.
+(2) The court must cancel the old sentence and impose a community-based sentence or sentences under subpart 2 that takes into account,—
+  (a) if subsection (1)(b)(i) applies, the subsequent offence:
+  (b) if subsection (1)(b)(i) or (ii) or (iii) applies, the portion of the old sentence that remains unserved at the time of sentencing.
+
+### 152 Section 86 not to apply to offender convicted of offence committed before commencement date except for serious violent offender
+(1) Except as provided in subsection (2), nothing in section 86 applies to an offender who is sentenced on or after the commencement date for an offence committed before that date.
+(2) If an offender is sentenced on or after the commencement date for an offence committed before that date that is a serious violent offence as defined in section 2 of the Criminal Justice Act 1985, section 86 applies.
+
+### 153 Offender convicted of specified offence committed before commencement date
+(1) This section applies if—
+  (a) an offender is sentenced on or after the commencement date for an offence committed before that date that is a specified offence as defined in section 75(4) of the Criminal Justice Act 1985; and
+  (b) had the court been dealing with the offender immediately before the commencement date, the court would have sentenced the offender to preventive detention under section 75 of the Criminal Justice Act 1985 or committed the offender to the High Court in accordance with section 75(3) of that Act.
+(2) The court may deal with the offender under sections 87 to 90.
+
+### 154 Offender convicted of murder committed before commencement date
+(1) This section applies if an offender is sentenced on or after the commencement date for the crime of murder committed before that date.
+(2) Except as provided in subsection (3), the offender must be sentenced under this Act.
+(3) Section 104 does not apply to the sentencing of an offender to whom this section applies.
+
+### 155 Suspended sentences of imprisonment
+(1) This section applies to an offender who, immediately before the commencement date, was subject to a suspended sentence of imprisonment imposed under the Criminal Justice Act 1985.
+(2) The offender continues to be subject to that sentence on and after the commencement date, and the provisions of the Criminal Justice Act 1985 (as modified by subsection (3)), and any other enactment, relating to suspended sentences apply as if they had not been amended or repealed by this Act.
+(3) Section 21A of the Criminal Justice Act 1985 must be read as if for subsection (5) of that section there were substituted subsection (4) of this section.
+(4) If a court decides that a suspended sentence is not to take effect for the period specified in the order, the court must either—
+  (a) order that the suspended sentence—
+    (i) take effect with the substitution of a lesser term of imprisonment; or
+    (ii) be cancelled and replaced by any sentence of reparation or a fine that could have been imposed on the offender at the time when the offender was convicted of the offence for which the suspended sentence was imposed, or a community-based sentence under subpart 2 of the Sentencing Act 2002; or
+    (iii) be cancelled; or
+  (b) decline to make any order referred to in paragraph (a) concerning the suspended sentence.
+
+### 156 Corrective training
+(1) This section applies to an offender who, immediately before the commencement date, was subject to a sentence of corrective training imposed under section 68 of the Criminal Justice Act 1985.
+(2) The offender must continue to serve that sentence as if this Act had not been passed, and the provisions of the Criminal Justice Act 1985 and any other enactment relating to corrective training apply as if they had not been amended or repealed by this Act.
+
+### 157 Offenders liable to come up for sentence if called on
+(1) This section applies to every order made under section 21 of the Criminal Justice Act 1985 requiring an offender to appear for sentence if called upon to do so that was still in force immediately before the commencement date.
+(2) The order—
+  (a) continues in force as if it were an order made under section 110; and
+  (b) ceases to have effect on the date on which it would have ceased to have effect had this Act not been enacted.
+
+### 158 Non-association orders and confiscation of vehicles for offence committed before commencement date
+(1) This section applies if an offender is sentenced on or after the commencement date for an offence committed before that date.
+(2) The court may make a non-association order or order for the confiscation of a vehicle under subpart 5 if it would have had the power to do so under the Criminal Justice Act 1985 had it been dealing with the offender immediately before the commencement date.
+
+### 159 Non-association orders, disqualification from driving, and confiscation of vehicles imposed under Criminal Justice Act 1985
+Every non-association order, disqualification from driving order, or order for the confiscation of a vehicle made under the Criminal Justice Act 1985 that is in force immediately before the commencement date continues in force as if it had been made under subpart 5.
+
+### 160 Person under 17 years of age imprisoned
+(1) This section applies if, immediately before the commencement date,—
+  (a) an offender was subject to a sentence of imprisonment imposed for any offence other than a purely indictable offence within the meaning of section 18; and
+  (b) at the time of the commission of that offence the offender had not attained the age of 17 years.
+(2) The offender continues to be subject to the sentence despite the fact that at the time of the commission of the offence the offender had not attained the age of 17 years.
+(3) Nothing in section 143(2) applies in respect of the offender.
+
+### Subpart 7 — Amendments to other enactments
+
+**Amendments to Children, Young Persons, and Their Families Act 1989**
+
+### 161 Custody of child or young person pending hearing
+Section 238 of the Children, Young Persons, and Their Families Act 1989 is amended by inserting, after subsection (1), the following subsections:
+  (1A) Subsection (1) is subject to subsection (1B).
+  (1B) Subject to section 239(3), if a young person appears before a Youth Court the Court may, instead of dealing with the young person in any of the ways described in subsection (1), order that the young person be remanded to a penal institution.
+  (1C) If the Court makes an order under subsection (1B), section 171(1) of the Summary Proceedings Act 1957 applies as if the Youth Court were a District Court.
+
+### 162 Restrictions on power of Court to order child or young person to be detained in custody
+Section 239 of the Children, Young Persons, and Their Families Act 1989 is amended by adding the following subsection:
+  (3) The Court must not make an order under section 238(1B) remanding a young person to a penal institution unless—
+    (a) the young person is at least 15 years of age; and
+    (b) the young person is charged with or has been convicted of a purely indictable offence (within the meaning of section 18 of the Sentencing Act 2002); and
+    (c) the young person is being remanded to the District Court or the High Court for trial or sentencing in respect of that offence; and
+    (d) if the remand is pending trial, the Court is satisfied that the period that the young person is likely to be on remand pending trial will not be less than 2 months; and
+    (e) the chief executive, or an officer of the department authorised in that behalf by the chief executive, has furnished to the Court a certificate stating that detention of the young person in the custody of the chief executive under an order under section 238(1)(d) for the likely period of remand would be likely to prejudice the ability of the department to meet demands to detain other young persons in the department's residences under similar orders; and
+    (f) the Court is satisfied that remand to a penal institution is in all the circumstances appropriate.
+
+### 163 New section 239A inserted
+The Children, Young Persons, and Their Families Act 1989 is amended by inserting, after section 239, the following section:Expiry of sections 238(1A) to (1C), and 239(3)
+  Sections 238(1A) to (1C) and 239(3) expire at the close of 30 June 2004.
+
+**Amendments to Crimes Act 1961**
+
+### 164 Repeal of home invasion provisions in Crimes Act 1961
+The Crimes Act 1961 is amended by repealing—
+  (a) sections 17A to 17E; and
+  (b) sections 128B(3), 129(2), 129A(3), 132(5), 133(4), 134(8), 135(2), 138(3), 139(4), 140(4), 140A(7), 141(2), 142(11), 142A(2), 173(2), 177(2) to (4), 188(3), 189(3), 191(3), 197(2), 198(3), 198B(2), 199(2), 200(3), 201(2), 202(3), 202C(2), 208(2), 209(4), 210(4), 234(3), 235(3), 236(2), 237(2), 239(2), 240A(2), and 306(2).
+
+### 165 New section 172 substituted
+The Crimes Act 1961 is amended by repealing section 172, and substituting the following section:Punishment of murder
+  (1) Every one who commits murder is liable to imprisonment for life.
+  (2) Subsection (1) is subject to section 102 of the Sentencing Act 2002.
+
+**Amendments to Criminal Justice Act 1985**
+
+### 166 Certain provisions in Criminal Justice Act 1985 repealed
+The Criminal Justice Act 1985 is amended by repealing—
+  (a) Parts 1, 2, 2A, 3, 4, 5, 6, and 10:
+  (b) sections 125B, 128, and 130 to 133:
+  (c) sections 143, 144, 145, 149(b) to (i), and 150:
+  (d) Schedules 1 and 2.
+
+### 167 Appeal against acquittal on account of insanity
+[Repealed]
+
+### 168 Order to be made if person under disability or insane
+[Repealed]
+
+### 169 Power of court to commit to institution on conviction
+[Repealed]
+
+### 170 Power of court to require psychiatric report
+[Repealed]
+
+### 171 Access to psychiatric reports
+[Repealed]
+
+### 172 Probation officers
+(1) Section 124 of the Criminal Justice Act 1985 is amended by adding to subsection (1) the words or any other enactment.
+(2) Section 124 of the Criminal Justice Act 1985 is amended by repealing subsection (3A), and substituting the following subsection:
+  (3A) The Secretary may designate persons appointed under this section to manage or work at 1 or more community work centres within any probation area.
+(3) Section 124 of the Criminal Justice Act 1985 is amended by adding the following subsection:
+  (7) In this section and in sections 125 and 127, probation area has the same meaning as in section 4(1) of the Sentencing Act 2002.
+
+### 173 New section 124A inserted
+The Criminal Justice Act 1985 is amended by inserting, after section 124, the following section:Probation officer may delegate power to supervise offenders on community work
+  A probation officer may delegate, in writing, to any suitably trained employee of the Department of Corrections his or her powers to control, direct, and supervise offenders subject to a sentence of community work in accordance with section 65 of the Sentencing Act 2002.
+
+### 174 Duties of probation officers
+(1) Section 125 of the Criminal Justice Act 1985 is amended by repealing subsection (1), and substituting the following subsection:
+  (1) It is the duty of every probation officer—
+    (a) to supervise all persons placed under the officer's supervision under a sentence of supervision or a release under subpart 2 of Part 1 of the Parole Act 2002, and to ensure that the conditions of the sentence or of the release are complied with:
+    (b) to arrange and administer the sentences of supervision and community work referred to the officer for such administration, and to ensure that the sentences are carried out:
+    (c) to co-ordinate and arrange community involvement (including the use of volunteers) in the administration of any particular community-based sentence, or any particular release under subpart 2 of Part 1 of the Parole Act 2002, where appropriate and in accordance with any instructions issued by a controlling officer:
+    (d) to arrange and monitor and provide rehabilitative and reintegrative courses or counselling or personal services directed at the social reintegration of offenders and the reduction of the likelihood of reoffending, where appropriate, and in accordance with any instructions issued by a controlling officer:
+    (e) to provide all the reports and information that the court, or the New Zealand Parole Board, or a Superintendent of a penal institution may require under any of the provisions of the Sentencing Act 2002 or the Parole Act 2002 or any other enactment:
+    (f) to perform any other duty that is prescribed by or under this Act or any other enactment.
+(2) Section 125 of the Criminal Justice Act 1985 is amended by repealing subsections (2) and (3).
+(3) Section 125(4) of the Criminal Justice Act 1985 is amended by omitting the words periodic detention wherever they occur, and substituting in each case the words community work.
+(4) Section 125(4) of the Criminal Justice Act 1985 is amended by omitting the words periodic detention centre, and substituting the words community work centre.
+(5) Section 125(4) of the Criminal Justice Act 1985 is amended by repealing paragraph (d), and substituting the following paragraph:
+  (d) to report to the controlling officer in the officer's probation area on the matters specified in paragraphs (a) to (c) and on any other matter relating to community work that he or she thinks fit.
+
+### 175 New sections 126 and 127 substituted
+The Criminal Justice Act 1985 is amended by repealing sections 126 and 127, and substituting the following sections:Establishment of community work centresControlling officer of probation area
+  (1) The Minister of the Crown who is responsible for the Department of Corrections may, by notice in the Gazette, declare any land or building or any part of any land or building to be a community work centre.
+  (2) The Minister of the Crown who is responsible for the Department of Corrections may, in like manner, declare any land or building or any part of any land or building to be added to, or excluded from, any community work centre.
+  (3) In any Act, regulation, rule, order, agreement, deed, instrument, application, notice, or other document of any kind in force at the commencement of this section, every reference to a periodic detention centre must, unless the context otherwise requires, on the commencement of this section be read as a reference to a community work centre.
+  (4) Every place that, immediately before the commencement of this section, is designated as a periodic detention centre under this Act is deemed to be a community work centre.
+  (1) A controlling officer must be appointed, under the State Sector Act 1988, for each probation area.
+  (2) A controlling officer must oversee the administration of all community-based sentences being served in his or her probation area and is responsible for probation officers and community work centres in that area.
+  (3) Subject to any directions given by the Secretary, a controlling officer may delegate, in writing, to any probation officer or any other officer or employee of the Department of Corrections all or any of his or her powers as a controlling officer in respect of his or her probation area.
+  (4) A person appointed or designated to manage a community work centre may, if permitted by a delegation referred to in subsection (3), delegate to any employee engaged at the centre any power so delegated.
+  (5) The fact that any officer or employee of the Department of Corrections exercises or performs any power, duty, or function of a controlling officer is conclusive evidence of his or her authority to do so.
+  (6) A controlling officer has and may exercise all the powers of a probation officer in respect of his or her probation area.
+
+### 176 New section 129 substituted
+The Criminal Justice Act 1985 is amended by repealing section 129, and substituting the following section:Secretary may make rules
+  (1) The Secretary may make any rules that the Secretary thinks fit for the management of any community work centre and for the conduct and safe custody of the offenders.
+  (2) Any rules made under subsection (1) may be made for community work centres generally, or for any community work centre or community work centres specified in the rules.
+  (3) Any rules made under subsection (1) must not be inconsistent with this Act, the Sentencing Act 2002, the Parole Act 2002, or any regulations made under any of those Acts.
+
+### 177 Special provisions as to young persons remanded or committed for trial or sentence
+(1) Section 142 of the Criminal Justice Act 1985 is amended by inserting, after subsection (2), the following subsection:
+  (2A) In subsections (1) and (2), a reference to a penal institution does not include a police jail.
+(2) Section 142(6) of the Criminal Justice Act 1985 is amended by omitting the words or to a sentence of corrective training.
+
+### 178 New sections 142AA and 142AB inserted into Criminal Justice Act 1985
+The Criminal Justice Act 1985 is amended by inserting, after section 142, the following sections:Special provisions until 1 July 2004 as to young persons remanded or committed for trial or sentence
+  On and from the commencement date of the Sentencing Act 2002 and until the close of 30 June 2004, section 142 must be read as if for the heading and subsections (1) to (3) of that section there were substituted the following provisions:Special provisions as to young persons remanded or committed for trial or sentenceExpiry of section 142AA
+    (1) Despite anything in any other enactment,—
+      (a) no person under the age of 15 years may be remanded to a penal institution pending the hearing or trial of any charge or pending sentence:
+      (b) No person who has attained the age of 15 years but has not attained the age of 17 years may be remanded to a penal institution pending the hearing or trial of any charge or pending sentence, except where the person is charged with or has been convicted of a purely indictable offence (within the meaning of section 18 of the Sentencing Act 2002).
+    (2) No person who has attained the age of 15 years but has not attained the age of 16 years may be remanded to a penal institution pending trial or sentencing unless,—
+      (a) in the case of a remand pending trial, the court is satisfied that the period that the person is likely to be on remand pending trial will not be less than 2 months; and
+      (b) the chief executive, or an officer of the department authorised in that behalf by the chief executive, has furnished to the court a certificate stating that detention of the young person in the custody of the chief executive under an order under this section for the likely period of remand would be likely to prejudice the ability of the department to meet demands to detain other young persons in the department's residences under similar orders; and
+      (c) the court is satisfied that remand to a penal institution is in all the circumstances appropriate.
+    (2A) In subsections (1) and (2) a reference to a penal institution does not include a police jail.
+    (2B) For the purposes of subsection (2),—
+      - **chief executive** means the chief executive of the department
+      - **department** means the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989.
+    (3) Subject to subsections (1) and (2) and to the Children, Young Persons, and Their Families Act 1989, the provisions of subsections (4), (4A), (4B), and (5) of this section apply in respect of every person who is under the age of 17 years and who is charged with or convicted of any offence in a District Court or the High Court.'
+    Section 142AA expires at the close of 30 June 2004.
+
+### 179 Detention of children or young persons serving sentence of imprisonment
+Section 142A(2) of the Criminal Justice Act 1985 is amended by omitting the words and this Act, and substituting the words , this Act, the Parole Act 2002, and regulations made under either of those Acts.
+
+**Amendment to District Courts Act 1947**
+
+### 180 Appointment and qualifications
+[Repealed]
+
+**Amendment to Judicature Act 1908**
+
+### 181 Judges of the High Court
+[Repealed]
+
+**Amendments to Misuse of Drugs Amendment Act 1978**
+
+### 182 Parole
+The Misuse of Drugs Amendment Act 1978 is amended—
+  (a) by omitting the heading above section 47; and
+  (b) by repealing section 47.
+
+**Amendments to Summary Proceedings Act 1957**
+
+### 183 Extension of time to pay
+Section 86(2) of the Summary Proceedings Act 1957 is amended by omitting the words 18 months, and substituting the words 5 years.
+
+### 184 Bailiff may arrange extension of time to pay
+Section 86A(2)(a) of the Summary Proceedings Act 1957 is amended by omitting the words 18 months, and substituting the words 5 years.
+
+### 185 Operation of attachment order
+Section 105(4) of the Summary Proceedings Act 1957 is amended by omitting the words 18 months, and substituting the words 5 years.
+
+**Other amendments and repeals**
+
+### 186 Acts amended
+The Acts set out in Schedule 1 are amended in the manner set out in that schedule.
+
+### 187 Enactments repealed
+The enactments set out in Schedule 2 are repealed.
+
+## Schedule 1 — Amendments to other enactments
+
+### 198 Liable person doing community work to be discharged on payment
+(1) If a liable person is doing community work under an order made under section 196(1), the person may pay, or cause to be paid, the amount due under this Act.
+(2) If the liable person pays, or causes to be paid, the amount due, a probation officer, on being notified by the Commissioner of the payment of that sum, must notify the person that he or she is no longer required to report to a community work centre, unless there is some other reason for the person being required to report.
+
+### 67G Sentence of community work
+A court may sentence any person who commits an offence against this Act to a sentence of community work and the provisions of Part 2 of the Sentencing Act 2002 apply with all necessary modifications.
+
+## Schedule 2 — Enactments repealed
