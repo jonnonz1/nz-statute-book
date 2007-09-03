@@ -1,0 +1,215 @@
+# Oaths and Declarations Act 1957
+_Consolidation as at 2007-09-03_
+
+> An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to oaths, affirmations, and declarations
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Oaths and Declarations Act 1957.
+(2) This Act shall come into force on the 1st day of April 1958.
+
+### 2 Interpretation
+In this Act, unless the context otherwise requires,—
+  - **Commonwealth** means the British Commonwealth of Nations; and includes every territory for whose international relations the Government of any Commonwealth country is responsible; and also includes the Republic of Ireland as if that country were a member of the British Commonwealth of Nations
+  - **Commonwealth representative** means any Ambassador, High Commissioner, Commissioner, Minister, Counsellor, Chargé d'Affaires, Head of Mission, Consular Officer, Pro-consul, Trade Commissioner, or Tourist Commissioner of a Commonwealth country (including New Zealand); and includes any person lawfully acting for any such officer; and also includes any diplomatic secretary on the staff of any such Ambassador, High Commissioner, Commissioner, Minister, Counsellor, Chargé d'Affaires, or Head of Mission
+  - **Oath** means an oath administered or taken for any purpose, whether in judicial proceedings or otherwise
+  - **Person acting judicially** means any person having in New Zealand by law or by consent of parties authority to hear, receive, and examine evidence
+  - **Proceeding** includes any action, trial, inquiry, cause, or matter, whether civil or criminal or otherwise, in any Court or before any person acting judicially.
+
+## Part 1 — Oaths, affirmations, and declarations in general
+
+**Oaths and affirmations**
+
+### 3 Form in which oath may be administered
+An oath may be administered and taken in any of the manners following:
+  (a) The person taking the oath may, while holding in his hand a copy of the Bible, New Testament, or Old Testament, repeat the words of the oath as prescribed or allowed by law; or
+  (b) The person administering the oath may repeat the appropriate form of adjuration commencing with the words You swear by Almighty God that, or words to the like effect, and concluding with the words of the oath as prescribed or allowed by law, and the person taking the oath shall thereupon, while holding in his hand a copy of the Bible, New Testament, or Old Testament, indicate his assent to the oath so administered by uttering the words I do, or other words to the like effect; or
+  (c) The oath may be administered and taken in any manner which the person taking it may declare to be binding on him.
+
+### 4 Right to make affirmation instead of oath
+(1) Every person shall be entitled as of right to make his affirmation, instead of taking an oath, in all places and for all purposes where an oath is required by law, and every such affirmation shall be of the same force and effect as an oath.
+(2) Every such affirmation shall be as follows: I, A B, solemnly, sincerely, and truly declare and affirm, and shall then proceed with the words of the oath prescribed by law, omitting any words of imprecation or calling to witness.
+(3) Every affirmation in writing shall begin, I, AB, of , solemnly and sincerely affirm; and the form instead of jurat shall be, Affirmed at this day of 19 before me.
+
+### 4A Oaths and affirmations in Maori
+(1) If a te reo Maori equivalent of any of the oaths or affirmations set out in this Act is prescribed by regulations made under section 30A, using that te reo Maori equivalent has the same effect as using the oath or affirmation set out in this Act.
+(2) This section applies despite anything in section 4 or in any of sections 16 to 21.
+
+### 5 Oath not affected by absence of religious belief
+Where an oath has been duly administered and taken, the fact that the person to whom the same was administered had at the time of taking the oath no religious belief shall not for any purpose affect the validity of the oath.
+
+### 6 Unlawful administration of oaths
+(1) No person shall administer, or cause or allow to be administered, or cause or allow to be received, any oath, affidavit, or affirmation relating to any matter or thing in respect of which that person has not jurisdiction or cognisance by some law in force for the time being.
+(2) Every person who wilfully acts in contravention of subsection (1) of this section commits an offence, and is liable on summary conviction to a fine not exceeding $100.
+(3) Nothing in this section shall extend to any oath, affidavit, or affirmation before any Justice of the Peace or Community Magistrate relating to the preservation of the peace or the prosecution, trial, or punishment of offences, or relating to any proceedings before the House of Representatives or before any Committee thereof, or to any oath, affidavit, or affirmation for the purpose of legal proceedings in any other country or required by the laws of any other country to give validity to any instrument in writing designed to be used in that country.
+
+**Declarations**
+
+### 7 Persons may make declarations
+Any person may voluntarily make any declaration in the manner provided in section 9 or section 11 of this Act.
+
+### 8 Manner of making declarations
+Where by any law in force in New Zealand (whether made before or after the commencement of this Act) any person is authorised or required to make a declaration or a statutory declaration, that declaration shall be made and subscribed in the manner prescribed by section 9 or section 11 of this Act, as the case may require.
+
+### 9 Declarations made in New Zealand
+(1) A declaration made in New Zealand must be in the form in Schedule 1, and must be made before—
+  (a) a person enrolled as a barrister and solicitor of the High Court; or
+  (b) a Justice of the Peace; or
+  (c) a notary public; or
+  (ca) the Registrar or a Deputy Registrar of the Supreme Court; or
+  (d) the Registrar or a Deputy Registrar of the Court of Appeal; or
+  (e) a Registrar or Deputy Registrar of the High Court or a District Court; or
+  (f) some other person authorised by law to administer an oath; or
+  (g) a member of Parliament; or
+  (h) a person who—
+    (i) is a fellow of the body (incorporated under the Incorporated Societies Act 1908) that, immediately before the commencement of the Oaths and Declarations Amendment Act 2001, was called the New Zealand Institute of Legal Executives; and
+    (ii) is acting in the employment of the holder of a practising certificate as a barrister and solicitor of the High Court; or
+  (i) an employee of Land Transport New Zealand, authorised for that purpose (by name, or as the holder for the time being of a specified office or title) by the Minister of Justice by notice in the Gazette; or
+  (ia) an employee of Public Trust constituted under the Public Trust Act 2001, authorised for that purpose (by name, or as the holder for the time being of a specified office or title) by the Minister of Justice by notice in the Gazette; or.
+  (j) an officer in the service of the Crown, or of a local authority within the meaning of the Local Government Act 2002, authorised for that purpose (by name, or as the holder for the time being of a specified office or title) by the Minister of Justice by notice in the Gazette
+(2) Despite subsection (1), if a te reo Maori equivalent of the declaration prescribed in Schedule 1 is prescribed by regulations made under section 30A, using that te reo Maori equivalent has the same effect as using the declaration prescribed in Schedule 1.
+
+**Oaths, affirmations, and declarations made outside New Zealand**
+
+### 10 Commonwealth representatives may administer oaths
+(1) In this section, unless the context otherwise requires,—
+  - **Affidavit** includes any affirmation, acknowledgment, examination, or attestation or protestation of honour
+  - **Oath** includes an affirmation
+  - **Swear** includes affirm and protest.
+(2) Every Commonwealth representative exercising his functions in any place outside New Zealand may, in that place, administer any oath and take any affidavit, and also do any notarial act which any notary public can do within New Zealand; and every oath, affidavit, and notarial act administered, sworn, or done by or before any such representative shall be as effectual as if duly administered, sworn, or done by or before any lawful authority in New Zealand.
+(3) Any document purporting to have affixed, impressed, or subscribed thereon or thereto the seal or signature of any person authorised by this section to administer an oath in testimony of any oath, affidavit, or act being administered, taken, or done by or before him shall be admitted in evidence without proof of the seal or signature being the seal or signature of that person, or of the official character of that person.
+
+### 11 Declarations made outside New Zealand
+(1) A declaration made in a Commonwealth country other than New Zealand shall be made before a Judge, a Commissioner of Oaths, a notary public, a Justice of the Peace, or any person authorised by the law of that country to administer an oath there for the purpose of a judicial proceeding, or before a Commonwealth representative, or before a solicitor of the High Court of New Zealand.
+(2) A declaration made in a country other than a Commonwealth country shall be made before a Commonwealth representative, or before a Judge, or before a notary public, or before a solicitor of the High Court of New Zealand.
+(3) Any document purporting to have affixed, impressed, or subscribed thereon or thereto the seal or signature of any person authorised by this section to take a declaration shall be admitted in evidence without proof of the seal or signature being the seal or signature of that person or of the official or other character of that person.
+
+### 12 Oaths and declarations of servicemen outside New Zealand
+(1) In this section, unless the context otherwise requires,—
+  - **Affidavit** includes an affirmation and a statutory or other declaration
+  - **Allied force** includes any force which is co-operating with any New Zealand armed force; and also includes any United Nations force
+  - **Member** , in relation to any naval, military, or air force, includes any person who by the law of the country to which the force belongs is subject to the naval, military, or air force law thereof
+  - **Oath** includes an affirmation and a declaration; and also includes, as well as evidentiary oaths, any promissory oath, including, in particular, any oath of allegiance (whether required for the purposes of the Citizenship Act 1977 or of any other enactment or for any other purpose)
+  - **Swear** includes affirm and declare.
+(2) Any officer of any of the armed forces of any Commonwealth country or of any allied force who holds a rank not below that of Lieutenant-Commander, Major, or Squadron Leader, or an equivalent rank, or who holds an appointment as a Legal Staff Officer may, while serving outside New Zealand, administer oaths to, and take affidavits from, any member of any of the said forces, and every oath or affidavit administered by or sworn before any such officer as aforesaid shall be as effectual as if duly administered by or sworn before any lawful authority in New Zealand:
+  Provided that an officer of an allied force shall not be entitled under this subsection to administer any promissory oath.
+(3) An officer who administers an oath or takes an affidavit by virtue of the powers conferred by this section shall state, in the jurat or attestation to the document in respect of which the power is being exercised or after his signature, the date on which the oath or affidavit is administered or sworn, and the name and rank of the officer, and (if his rank is below that of Lieutenant-Commander, Major, or Squadron Leader, or an equivalent rank) the fact that he is a Legal Staff Officer; and it shall not be necessary to state the place where the oath or affidavit is administered or sworn.
+(4) Any document purporting to have subscribed thereto the signature of any officer in testimony of any oath or affidavit being administered by or sworn before him (whether before or after the commencement of this Act) shall be admitted in evidence without proof of the rank or appointment of the officer and without proof that the signature is the signature of the officer or that the officer was, on the date on which the oath or affidavit was administered or sworn, serving outside New Zealand.
+
+## Part 2 — Oaths and affirmations in judicial proceedings
+
+### 13 Witnesses under 12 may make declarations
+(1) A witness under the age of 12 years who is required, under section 77(2) of the Evidence Act 2006, to make a promise to tell the truth, must, before being examined make the promise:I promise to speak the truth, the whole truth, and nothing but the truth.
+(1A) That promise has the same force and effect as if the witness had taken an oath.
+(2) Despite subsection (1), if a te reo Maori equivalent of the declaration set out in subsection (1) is prescribed by regulations made under section 30A, using that te reo Maori equivalent has the same effect as using the declaration set out in subsection (1).
+
+### 14 Who may administer oaths
+All Courts and all persons acting judicially are hereby empowered to administer an oath to all such witnesses as are lawfully called or voluntarily come before them respectively or to take the affirmation of any such witness instead of an oath.
+
+### 15 Mode of administration if not objected to
+In all judicial proceedings the person administering the oath shall, unless the person about to take the oath voluntarily objects thereto, administer the oath in the form and manner set out in paragraph (b) of section 3 of this Act, but no oath shall be deemed illegal or invalid by reason of any breach of the provisions of this section.
+
+### 16 Witness may be sworn in Scots form
+Every witness in any civil or criminal proceeding, or in any inquiry or examination before any Court or person acting judicially, shall be entitled, if he so wishes, instead of taking the oath usually administered to witnesses, to have an oath administered to him in the form following, that is to say: The person administering the oath shall hold up his hand, and say to the witness, Witness, hold up your hand, and repeat after me,—I swear by Almighty God, as I shall answer to God at the great day of judgment, that I will speak the truth, the whole truth, and nothing but the truth.
+
+## Part 3 — Promissory oaths and affirmations
+
+### 17 Oath of Allegiance
+The oath in this Act referred to as the Oath of Allegiance shall be in the form following, that is to say:
+I, , swear that I will be faithful and bear true allegiance to Her [or His] Majesty [Specify the name of the reigning Sovereign, as thus: Queen Elizabeth the Second], Her [or His] heirs and successors, according to law. So help me God.
+
+### 18 Judicial Oath
+The oath in this Act referred to as the Judicial Oath shall be in the form following, that is to say:
+I,, swear that I will well and truly serve Her [or His] Majesty [specify as above], Her [or His] heirs and successors, according to law, in the office of ; and I will do right to all manner of people after the laws and usages of New Zealand without fear or favour, affection or ill will. So help me God.
+
+### 19 Executive Councillor's Oath
+(1) The oath in this Act referred to as the Executive Councillor's Oath shall be in the form following, that is to say:I,, being chosen and admitted of the Executive Council of New Zealand, swear that I will to the best of my judgment, at all times, when thereto required, freely give my counsel and advice to the Governor-General for the time being, for the good management of the affairs of New Zealand. That I will not directly nor indirectly reveal such matters as shall be debated in Council and committed to my secrecy, but that I will in all things be a true and faithful Councillor. So help me God.
+(2)
+
+### 20 Parliamentary Under-Secretary's Oath
+The oath in this Act referred to as the Parliamentary Under-Secretary's Oath shall be in the form following, that is to say:
+I,, swear that I will well and truly serve Her [or His] Majesty [Specify as above], Her [or His] heirs and successors, according to law, in the office of Parliamentary Under-Secretary. So help me God.
+
+### 21 Official Oath
+The oath in this Act referred to as the Official Oath shall be in the form following, that is to say:
+I,, swear that I will well and truly serve Her [or His] Majesty [Specify as above], Her [or His] heirs and successors, according to law, in the office of . So help me God.
+
+**Persons to make and administer oaths**
+
+### 22 By whom Oath of Allegiance and Judicial Oath to be taken
+(1) The Oath of Allegiance and the Judicial Oath shall be taken by each of the officers named in Schedule 2 to this Act as soon as may be after his acceptance of office.
+(2) The oaths to be taken under this section shall be administered by the following persons in such manner as the person administering the oath sees fit to adopt:
+  (a) In the case of the Chief Justice, the Judges of the High Court, the Masters of the High Court, the Judges of the Arbitration Court,, by a Judge of the High Court:
+  (aa) in the case of a Judge of the Employment Court, by a Judge of the High Court or a Judge of the Employment Court:
+  (b) In the case of a Judge of the Maori Land Court, by a Judge of the High Court or a Judge of the Maori Land Court:
+  (c) In the case of any other officer referred to in Schedule 2, by a Judge of the High Court or a District Court Judge.
+
+### 23 By whom Oath of Allegiance and Executive Councillor's Oath to be taken
+(1) The Oath of Allegiance and the Executive Councillor's Oath shall be taken by every person appointed to the Executive Council of New Zealand as soon as may be after his acceptance of office.
+(2) The oaths to be taken under this section shall be administered by the Clerk of the Executive Council, or officer for the time being acting as Clerk of the Executive Council, in the presence of the Governor-General, or otherwise as the Governor-General directs, at a meeting of the Executive Council.
+
+### 24 By whom Parliamentary Under-Secretary's Oath to be taken
+(1) The Parliamentary Under-Secretary's Oath shall be taken by every person appointed to the office of Parliamentary Under-Secretary as soon as may be after his acceptance of office.
+(2) The Parliamentary Under-Secretary's Oath shall be administered by a member of the Executive Council or the Clerk of the Executive Council.
+
+### 25 By whom Official Oath to be taken
+[Repealed]
+
+**General provisions**
+
+### 26 Effect of neglecting to take oath
+(1) If any officer mentioned in this Act or in Schedule 2 or Schedule 3 to this Act declines or neglects, when any oath required to be taken by him under this Act is duly tendered, to take that oath, he shall if he has already entered on his office vacate the same, and if he has not entered on the same be disqualified from entering on the same; but no person shall be compelled in respect of the same appointment to the same office to take any oath more than once.
+(2) Where any person who is a Justice of the Peace by virtue of his holding any office and has taken the Oath of Allegiance and the Judicial Oath is re-elected to that office at the next succeeding election, it shall not be necessary for him to take those oaths on any such re-election.
+
+### 27 Oath of Allegiance not to be taken except under this Act and other specified Acts
+No person shall be required or authorised to take the Oath of Allegiance, or any oath substituted for that oath, or to make any affirmation or declaration to the same effect as that oath, other than the persons required to take that oath by this Act or the Acts mentioned in Schedule 4 to this Act.
+
+### 28 Declarations instead of oaths in certain cases
+(1) Where in any case not provided for by this Act or included within the savings provisions in section 29 of this Act any person would by virtue of any law now in force be required to take any oath on or as a condition of his accepting any employment or office, or being admitted to any rights or privileges, a declaration shall be substituted for that oath in such form as the person who would have administered the oath thinks fit, but so that the declaration shall be to the like effect in all respects as the oath for which it is substituted.
+(2) The making of any such declaration shall in all respects have the same effect as the taking of the oath for which the same is substituted would have had if this Act had not been passed.
+(3) If any person required by this Act to make a declaration instead of an oath declines or neglects to make that declaration, he shall be subject to the same penalties and disabilities (if any) as he would have been subject to for declining or neglecting to take the oath for which the declaration provided by this Act is substituted.
+
+### 29 Saving as to certain oaths
+Nothing in this Part of this Act shall affect—
+  (a) Any oath required or authorised to be taken by the Governor-General by any letters patent or by any other authority:
+  (b) Any oath required to be taken under any of the enactments specified in Schedule 4 to this Act:
+  (c) Any oath required or authorised by any law in force in New Zealand for the purpose of attesting any fact or verifying any account or document:
+  (d) Any oath required to be taken by any juror, witness, or other person in pursuance of any law, rule, usage, or custom as preliminary to or in the course of any civil, criminal, naval, military, air force, or other trial, inquest, or proceedings of a judicial nature, including any arbitration or as preliminary to or in the course of any proceedings before a Committee of the House of Representatives, or before any Commission of Inquiry or Commissioner or other special tribunal appointed by the Governor-General or the Governor-General in Council.
+
+### 30 Saving as to persons already holding offices
+No person appointed to or holding any office or place or admitted to any rights or privileges before the commencement of this Act, who has taken the oath (if any) which under the law previously in force he was required to take, shall be required by virtue of this Act to take any oath or make any declaration in respect of that appointment, office, place, or admission.
+
+### 30A Regulations
+The Governor-General may, by Order in Council, make regulations prescribing te reo Maori equivalents for any or all of the following:
+  (a) the affirmation set out in section 4(2):
+  (b) the affirmation set out in section 4(3):
+  (c) the declaration set out in section 13(1):
+  (d) the oath set out in section 16:
+  (e) the oath set out in section 17:
+  (f) the oath set out in section 18:
+  (g) the oath set out in section 19:
+  (h) the oath set out in section 20:
+  (i) the oath set out in section 21:
+  (j) the declaration prescribed in Schedule 1.
+
+## Part 4 — Repeals
+
+### 31 Certain United Kingdom Acts to cease to have effect as part of the law of New Zealand
+(1) As from the commencement of this Act the Acts of the Parliament of England or of the United Kingdom specified in Schedule 5 to this Act shall cease to have effect as part of the law of New Zealand.
+(2) It is hereby declared that the provisions of sections 20 and 21 of the Acts Interpretation Act 1924 shall apply with respect to the Acts specified in Schedule 5 to this Act as if the last-mentioned Acts were Acts of the Parliament of New Zealand.
+(3) Nothing in this Act shall be deemed to affect the validity of any declaration duly made out of New Zealand before the commencement of this Act in the manner prescribed by the Act of the Parliament of the United Kingdom intituled the Statutory Declarations Act 1835, and every such declaration which, if this Act had not been passed, would be received in evidence in any judicial proceedings shall be received in evidence in those proceedings as if this Act had not been passed.
+
+### 32 Repeals and savings
+(1) The enactments specified in Schedule 6 to this Act are hereby repealed.
+(2) Without limiting the provisions of the Acts Interpretation Act 1924, it is hereby declared that the repeal of any provision by this Act shall not affect any document made or any thing whatsoever done under the provision so repealed or under any corresponding former provision, and every such document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, shall continue and have effect as if it had been made or done under the corresponding provision of this Act and as if that provision had been in force when the document was made or the thing was done.
+
+## Schedule 1
+
+## Schedule 2 — Persons required to take the Oath of Allegiance and the Judicial Oath
+
+## Schedule 3 — Persons required to take the official oath
+
+## Schedule 4 — Other Acts requiring an Oath of Allegiance
+
+## Schedule 5 — Acts of the Parliament of England or of the United Kingdom ceasing to have effect as part of the law of New Zealand
+
+## Schedule 6 — Enactments repealed
