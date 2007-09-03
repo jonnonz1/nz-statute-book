@@ -1,0 +1,1404 @@
+# Domestic Violence Act 1995
+_Consolidation as at 2007-09-03_
+
+> An Act to provide greater protection from domestic violence
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Domestic Violence Act 1995.
+(2) Except as provided in subsection (3) of this section and section 30 of this Act, this Act shall come into force on a date to be appointed by the Governor-General by Order in Council.
+(3) Part 6 of this Act shall come into force on a date to be appointed by the Governor-General by Order in Council; and one or more Orders in Council may be made appointing different dates for different provisions and for different purposes.
+
+## Part 1 — Preliminary provisions
+
+### 2 Interpretation
+In this Act, unless the context otherwise requires,—
+  - **Ancillary furniture order** means an order made under section 63 of this Act; and includes a temporary order made under that section
+  - **Applicant** means—
+    (a) A person who applies for an order under this Act on his or her own behalf:
+    (b) The person on whose behalf an application for an order is made pursuant to section 9 or section 11 or section 12 or section 73 of this Act:
+  - **Application without notice** means an application made without notice to the person or persons against whom the application is made
+  - **Approved agency** means any organisation (whether incorporated or unincorporated) that is for the time being approved, in accordance with regulations made under this Act, to provide programmes
+  - **Associated respondent** means a person against whom a protection order applies by virtue of a direction made pursuant to section 17 of this Act
+  - **Child** means a person who is under the age of 17 years; but does not include a person who is or has been married or in a civil union or a de facto relationship
+  - **Child of the applicant's family** means a child who ordinarily or periodically resides with the applicant (whether or not the child is a child of the applicant and the respondent or of either of them)
+  - **Country** includes any State, territory, province, or other part of a country
+  - **Court** means a Family Court or a District Court; and includes a Judge of any such court
+  - **Domestic relationship** means one of the relationships set out in section 4(1) of this Act
+  - **Domestic violence** has the meaning set out in section 3 of this Act
+  - **Dwellinghouse** includes—
+    (a) Any flat or town house, whether or not occupied pursuant to a licence to occupy within the meaning of section 121A of the Land Transfer Act 1952:
+    (b) Any mobile home, caravan, or other means of shelter placed or erected upon any land and intended for occupation on that land:
+  - **Encourage** includes to incite, counsel, or procure
+  - **Family member** , in relation to a person, means—
+    (a) any other person who is or has been related to the person by blood or by or through marriage, a civil union, or a de facto relationship, or by adoption:
+    (b) Any other person who is a member of the person's whanau or other culturally recognised family group:
+    (c)
+  - **Firearms licence** means a firearms licence issued under section 24 of the Arms Act 1983
+  - **Foreign protection order** ,—
+    (a) Means an order made by a court in a prescribed foreign country, being—
+      (i) An order to protect a person from behaviour by the person against whom the order is made, where, if the behaviour occurred in New Zealand, it would be behaviour in respect of which a protection order could be made under this Act; or
+      (ii) An order that varies, discharges, or is made in substitution for, such an order; but
+    (b) Does not include—
+      (i) An order made ex parte; or
+      (ii) An order of an interim nature; or
+      (iii) An order made by a court in a prescribed foreign country that varies, discharges, or is made in substitution for, a New Zealand order that is registered or is otherwise enforceable in that country:
+  - **Furniture order** means an order made under section 67 of this Act; and includes a temporary order made under that section
+  - **Lawyer** means a barrister or solicitor, as those terms are defined in section 2 of the Law Practitioners Act 1982
+  - **Occupation order** means an order made under section 53 of this Act; and includes a temporary order made under that section
+  - **partner** , in the phrase spouse or partner and in related contexts, means, in relation to a person,—
+    (a) the person's civil union partner; or
+    (b) the person's de facto partner; or
+    (c) any other person, in any case where those persons are the biological parents of the same person.
+  - **Prescribed foreign country** means—
+    (a) Australia; or
+    (b) Any state or territory of Australia; or
+    (c) Any other country outside New Zealand that is declared, by Order in Council made under section 105 of this Act, to be a prescribed foreign country:
+  - **Programme** , means a programme—
+    (a) That is for the time being approved in accordance with regulations made under this Act; and
+    (b) That is provided by a programme provider; and
+    (c) That,—
+      (i) In the case of a programme provided to a protected person (other than a child), has the primary objective of promoting (whether by education, information, support, or otherwise) the protection of that person from domestic violence:
+      (ii) In the case of a programme provided to a protected person who is a child, has the primary objective of assisting the child to deal with the effects of domestic violence:
+      (iii) In the case of a programme provided to a respondent or an associated respondent, has the primary objective of stopping or preventing domestic violence on the part of the respondent or, as the case requires, the associated respondent:
+  - **Programme provider** means a person who is for the time being approved, in accordance with regulations made under this Act, to provide programmes; and includes a person who, in accordance with the terms of the approval of any approved agency, is for the time being authorised to provide programmes
+  - **Property** , in relation to a person, means property that—
+    (a) The person owns; or
+    (b) The person does not own but—
+      (i) Uses or enjoys; or
+      (ii) Is available for the person's use or enjoyment; or
+      (iii) Is in the person's care or custody; or
+      (iv) Is at the person's dwellinghouse:
+  - **Protected person** , in relation to a protection order, means—
+    (a) The person for whose protection the order is made:
+    (b) Any child of that person's family:
+    (c) Any person for whose benefit the order applies pursuant to a direction made under section 16 of this Act:
+  - **Protection order** means an order made under section 14 of this Act; and includes a temporary order made under that section
+  - **Registered foreign protection order** means a foreign protection order that is registered in a Court pursuant to section 97 of this Act
+  - **Registrar** means the Registrar of a Court; and includes a Deputy Registrar of a Court
+  - **Representative** ,—
+    (a) In relation to a minor aged 16 or under, means a guardian ad litem or next friend appointed, pursuant to rules of Court, to take proceedings under this Act on behalf of that minor aged 16 or under:
+    (b) In relation to a person to whom section 11 of this Act applies, means a guardian ad litem appointed, pursuant to rules of Court, to take proceedings under this Act on behalf of that person:
+    (c) In relation to a person to whom section 12 of this Act applies, means a guardian ad litem appointed, pursuant to that section, to take proceedings under this Act on behalf of that person:
+  - **Respondent** means the person against whom an application has been made for an order under this Act; and includes a person (other than an associated respondent) against whom an order is made under this Act
+  - **Secretary** means the chief executive of the Department for Courts
+  - **Special condition** , in relation to a protection order, means any condition of the order imposed pursuant to section 27 of this Act
+  - **Specified person** means a person for whose benefit a protection order applies pursuant to a direction made under section 16 of this Act
+  - **Standard condition relating to weapons** means the standard condition contained in section 21 of this Act
+  - **Temporary order** means an order of limited duration that is made on an application without notice
+  - **Tenancy order** means an order made under section 57 of this Act; and includes a temporary order made under that section
+  - **Tenant** , in relation to any dwellinghouse, includes any person—and has a corresponding meaning
+    (a) Whose tenancy of that dwellinghouse has expired or been determined; and
+    (b) Who is for the time being deemed, pursuant to any enactment or rule of law, to continue to be the tenant of the dwellinghouse;—
+  - **Use domestic violence** , in relation to any person, means to engage in behaviour that amounts to domestic violence against that person
+  - **Weapon** means any firearm, airgun, pistol, restricted weapon, ammunition, or explosive, as those terms are defined in the Arms Act 1983.
+
+### 3 Meaning of domestic violence
+(1) In this Act, domestic violence, in relation to any person, means violence against that person by any other person with whom that person is, or has been, in a domestic relationship.
+(2) In this section, violence means—
+  (a) Physical abuse:
+  (b) Sexual abuse:
+  (c) Psychological abuse, including, but not limited to,—
+    (i) Intimidation:
+    (ii) Harassment:
+    (iii) Damage to property:
+    (iv) Threats of physical abuse, sexual abuse, or psychological abuse:
+    (v) In relation to a child, abuse of the kind set out in subsection (3) of this section.
+(3) Without limiting subsection (2)(c) of this section, a person psychologically abuses a child if that person—but the person who suffers that abuse is not regarded, for the purposes of this subsection, as having caused or allowed the child to see or hear the abuse, or, as the case may be, as having put the child, or allowed the child to be put, at risk of seeing or hearing the abuse.
+  (a) Causes or allows the child to see or hear the physical, sexual, or psychological abuse of a person with whom the child has a domestic relationship; or
+  (b) Puts the child, or allows the child to be put, at real risk of seeing or hearing that abuse occurring;—
+(4) Without limiting subsection (2) of this section,—
+  (a) A single act may amount to abuse for the purposes of that subsection:
+  (b) A number of acts that form part of a pattern of behaviour may amount to abuse for that purpose, even though some or all of those acts, when viewed in isolation, may appear to be minor or trivial.
+(5) Behaviour may be psychological abuse for the purposes of subsection (2)(c) of this section which does not involve actual or threatened physical or sexual abuse.
+
+### 4 Meaning of domestic relationship
+(1) For the purposes of this Act, a person is in a domestic relationship with another person if the person—
+  (a) Is a spouse or partner of the other person; or
+  (b) Is a family member of the other person; or
+  (c) Ordinarily shares a household with the other person; or
+  (d) Has a close personal relationship with the other person.
+(2) For the purposes of subsection (1)(c) of this section, a person is not regarded as sharing a household with another person by reason only of the fact that—
+  (a) The person has—with that other person; and
+    (i) A landlord-tenant relationship; or
+    (ii) An employer-employee relationship; or
+    (iii) An employee-employee relationship—
+  (b) They occupy a common dwellinghouse (whether or not other people also occupy that dwellinghouse).
+(3) For the purposes of subsection (1)(d) of this section, a person is not regarded as having a close personal relationship with another person by reason only of the fact that the person has—with that other person.
+  (a) An employer-employee relationship; or
+  (b) An employee-employee relationship—
+(4) Without limiting the matters to which a Court may have regard in determining, for the purposes of subsection (1)(d) of this section, whether a person has a close personal relationship with another person, the Court must have regard to—
+  (a) The nature and intensity of the relationship, and in particular—but it is not necessary for there to be a sexual relationship between the persons:
+    (i) The amount of time the persons spend together:
+    (ii) The place or places where that time is ordinarily spent:
+    (iii) The manner in which that time is ordinarily spent;—
+  (b) The duration of the relationship.
+
+### 5 Object
+(1) The object of this Act is to reduce and prevent violence in domestic relationships by—
+  (a) Recognising that domestic violence, in all its forms, is unacceptable behaviour; and
+  (b) Ensuring that, where domestic violence occurs, there is effective legal protection for its victims.
+(2) This Act aims to achieve its object by—
+  (a) Empowering the Court to make certain orders to protect victims of domestic violence:
+  (b) Ensuring that access to the Court is as speedy, inexpensive, and simple as is consistent with justice:
+  (c) Providing, for persons who are victims of domestic violence, appropriate programmes:
+  (d) Requiring respondents and associated respondents to attend programmes that have the primary objective of stopping or preventing domestic violence:
+  (e) Providing more effective sanctions and enforcement in the event that a protection order is breached.
+(3) Any Court which, or any person who, exercises any power conferred by or under this Act must be guided in the exercise of that power by the object specified in subsection (1) of this section.
+
+### 6 Act to bind the Crown
+This Act binds the Crown.
+
+## Part 2 — Protection orders
+
+**Applications**
+
+### 7 Application for protection order
+(1) A person who is or has been in a domestic relationship with another person may apply to the Court for a protection order in respect of that other person.
+(2) Where the person who is eligible to apply for a protection order is under 16 years of age, the application must be made by a representative in accordance with section 9(2) of this Act.
+(3) Where the person who is eligible to apply for a protection order is a person to whom section 11 of this Act applies, the application must be made by a representative in accordance with that section.
+(4) Where the person who is eligible to apply for a protection order is aged 16 years or older but is unable, in the circumstances specified in section 12(1)(b) of this Act, to make the application personally, an application may be made on that person's behalf by a representative appointed in accordance with section 12 of this Act.
+
+### 8 Contents of application
+Any application for a protection order may seek—
+  (a) A direction under section 16 of this Act that the order apply for the benefit of a particular person with whom the applicant has a domestic relationship:
+  (b) A direction under section 17 of this Act that the order apply against a particular person, being a person whom the respondent has encouraged to engage in behaviour that, if engaged in by the respondent, would amount to domestic violence against the applicant, a child of the applicant's family, or a person referred to in paragraph (a) of this section.
+
+### 9 Applications by minors
+(1) Subject to subsections (2) (2A) and (4) of this section, a minor may make an application for a protection order under this Act.
+(2) A minor under 16 years of age must make the application for a protection order by a representative pursuant to rules of Court.
+(2A) Subject to sections 11 and 12, a minor aged 16 years may make an application either on his or her own behalf under subsection (4), or by a representative pursuant to rules of Court.
+(3) Nothing in subsection (2) or subsection (2A) of this section prevents a minor under the age of 17 on whose behalf an application for a protection order is made by a representative from being heard in the proceedings; and where the minor expresses views on the need for and outcome of the proceedings, the Court must take account of those views to the extent that it thinks fit, having regard to the age and maturity of the minor.
+(4) Subject to sections 11 and 12 of this Act, a minor—must make the application on his or her own behalf, without a next friend or guardian ad litem, and orders may be made on the application, and enforced, as if the minor were of full age.
+  (a) who is aged 17 years or over; and
+  (b) Who wishes to apply for a protection order—
+
+### 10 Applications against minors
+(1) No application for a protection order may be made against a minor under the age of 17 years, unless the minor is or has been married or in a civil union or de facto relationship.
+(2) The Court must not make a direction under section 17 of this Act that a protection order apply against a minor under the age of 17 years, unless the minor is or has been married or in a civil union or de facto relationship.
+(3) For the avoidance of doubt, it is hereby declared that—as if the minor were of full age.
+  (a) An application for a protection order may be made against a minor who is or has been married, or in a civil union or de facto relationship, or who has attained the age of 17 years, and orders may be made on the application, and enforced; and
+  (b) The Court may make a direction under section 17 of this Act that a protection order apply against such a minor,—
+
+### 11 Applications on behalf of persons lacking capacity
+(1) This section applies to any person aged 16 years or over who—
+  (a) Lacks, wholly or partly, the capacity to understand the nature, and to foresee the consequences, of decisions in respect of matters relating to his or her personal care and welfare; or
+  (b) Has the capacity to understand the nature, and to foresee the consequences, of decisions in respect of matters relating to his or her personal care and welfare, but wholly lacks the capacity to communicate decisions in respect of such matters.
+(2) Where a person to whom this section applies is eligible to apply for a protection order, then, in any of the circumstances referred to in any of paragraphs (a) to (c) of this subsection, the application must be made, on that person's behalf, by a representative in accordance with rules of Court:
+  (a) In any case where no one has power, under an appointment made under the Protection of Personal and Property Rights Act 1988, to make such an application on the first-mentioned person's behalf:
+  (b) Even though a person has power, under such an appointment, to make such an application, in any case where the person so appointed has refused or failed to do so:
+  (c) In any case where the first-mentioned person is a minor who is not a child.
+(3) Notwithstanding anything in the Protection of Personal and Property Rights Act 1988, an application must not be made under that Act for an order under section 10(1)(i) of that Act solely for the purpose of the commencement of proceedings under this Act.
+
+### 12 Applications on behalf of certain other persons
+(1) This section applies where—
+  (a) A person aged 16 years or over (other than a person to whom section 11 of this Act applies) is eligible to apply for a protection order; and
+  (b) That person is unable, whether by reason of physical incapacity or fear of harm or other sufficient cause, to make the application personally; and
+  (c) It is desirable that the protection order be sought on an application without notice.
+(2) Where this section applies, the Court or a Registrar may, on an application without notice made by an adult person who is not under disability, appoint any adult person to be a representative of another person for the purpose of making and prosecuting, on behalf of that other person, an application for a protection order.
+(3) Where an application for the appointment of a representative is made pursuant to subsection (2) of this section, the Court or Registrar must make the appointment sought if the Court or, as the case requires, the Registrar is satisfied,—
+  (a) That reasonable steps have been taken to ascertain the wishes of the person to whom the application relates in relation to the matter; and
+  (b) Where the wishes of that person have been able to be ascertained,—
+    (i) That the person does not object to the appointment; or
+    (ii) That the person's objection is not freely made; and
+  (c) That it is in the best interests of the person to whom the application relates to make the appointment; and
+  (d) That the proposed appointee—
+    (i) Consents in writing to the appointment; and
+    (ii) Is not under disability; and
+  (e) That there is unlikely to be any conflict between the interests of the proposed appointee and the interests of the person in respect of whom the application is made.
+(4) The fact that an application for a protection order is made, on a person's behalf, by a representative appointed pursuant to this section does not prevent the person on whose behalf the application is made from being heard in the proceedings.
+(5) Without limiting subsection (3)(b) of this section, where—then, unless the Court is satisfied that the objection is not freely made, no further steps may be taken in the proceedings.
+  (a) A representative appointed pursuant to this section applies, on another person's behalf, for a protection order; and
+  (b) At any time before the application is determined, the other person objects to the continuation of the proceedings,—
+
+### 13 Application without notice for protection order
+(1) A protection order may be made on an application without notice if the Court is satisfied that the delay that would be caused by proceeding on notice would or might entail—to the applicant or a child of the applicant's family, or both.
+  (a) A risk of harm; or
+  (b) Undue hardship—
+(2) Without limiting the matters to which the Court may have regard when determining whether to grant a protection order on an application without notice, the Court must have regard to—
+  (a) The perception of the applicant or a child of the applicant's family, or both, of the nature and seriousness of the respondent's behaviour; and
+  (b) The effect of that behaviour on the applicant or a child of the applicant's family, or both.
+(3) A protection order made on an application without notice is a temporary order that, subject to sections 76 to 80 of this Act, and unless it is sooner discharged, becomes final by operation of law 3 months after the date on which it is made.
+(4) Where a protection order is made on an application without notice, the respondent may,—
+  (a) Notify the Court, in accordance with section 76 of this Act, that he or she wishes to be heard on whether a final order should be substituted for the temporary protection order:
+  (b) Apply pursuant to section 22 of this Act for the modification or discharge of the standard condition relating to weapons:
+  (c) Apply pursuant to section 46 of this Act for a variation or discharge of any special conditions of the protection order:
+  (d) Apply pursuant to section 47 of this Act for the protection order to be discharged:
+  (e) Where a direction is made pursuant to section 32 of this Act in respect of the respondent, notify the Court, in accordance with section 36 of this Act, that he or she objects to the direction.
+(5) Where a protection order is made on an application without notice and, pursuant to section 17 of this Act, the Court directs that the order applies against another person, that associated respondent may,—
+  (a) Notify the Court, in accordance with section 76 of this Act (as applied by section 79 of this Act), that he or she wishes to be heard on whether a final order should be substituted for the temporary protection order, in so far as the order relates to him or her:
+  (b) Apply pursuant to section 22 of this Act for the modification or discharge of the standard condition relating to weapons, in so far as the standard condition relates to him or her:
+  (c) Apply pursuant to section 46 of this Act for a variation or discharge of any special condition of the protection order, in so far as the special condition relates to him or her:
+  (d) Apply pursuant to section 47 of this Act for the protection order to be discharged, in so far as the order relates to him or her:
+  (e) Where a direction is made pursuant to section 32 of this Act in respect of the associated respondent, notify the Court, in accordance with section 36 of this Act, that he or she objects to the direction.
+
+**Scope of protection orders**
+
+### 14 Power to make protection order
+(1) The Court may make a protection order if it is satisfied that—
+  (a) The respondent is using, or has used, domestic violence against the applicant, or a child of the applicant's family, or both; and
+  (b) The making of an order is necessary for the protection of the applicant, or a child of the applicant's family, or both.
+(2) For the purposes of subsection (1)(a) of this section, a respondent who encourages another person to engage in behaviour that, if engaged in by the respondent, would amount to domestic violence against the applicant, or a child of the applicant's family, or both, is regarded as having engaged in that behaviour personally.
+(3) Without limiting section 3(4)(b) of this Act or the matters that the Court may consider in determining, for the purposes of subsection (1)(b) of this section, whether the making of an order is necessary for the protection of the applicant, or a child of the applicant's family, or both, where some or all of the behaviour in respect of which the application is made appears to be minor or trivial when viewed in isolation, or appears unlikely to recur, the Court must nevertheless consider whether the behaviour forms part of a pattern of behaviour in respect of which the applicant, or a child of the applicant's family, or both, need protection.
+(4) For the avoidance of doubt, an order may be made under subsection (1) of this section where the need for protection arises from the risk of domestic violence of a different type from the behaviour found to have occurred for the purposes of paragraph (a) of that subsection.
+(5) Without limiting the matters that the Court may consider when determining whether to make a protection order, the Court must have regard to—
+  (a) The perception of the applicant, or a child of the applicant's family, or both, of the nature and seriousness of the behaviour in respect of which the application is made; and
+  (b) The effect of that behaviour on the applicant, or a child of the applicant's family, or both.
+
+### 15 Existence of other proceedings not to preclude granting of protection order
+A Court must not decline to make a protection order merely because of the existence of other proceedings (including, but not limited to, proceedings relating to the role of providing day-to-day care for, or contact with, or custody of a minor) between or relating to the parties, whether or not those proceedings also relate to any other person.
+
+### 16 Protection of persons other than applicant
+(1) Where the Court makes a protection order, that order applies for the benefit of any child of the applicant's family.
+(2) Subject to subsection (3) of this section, where the Court makes a protection order, it may direct that the order also apply for the benefit of a particular person with whom the applicant has a domestic relationship.
+(3) No direction may be made pursuant to subsection (2) of this section in respect of a person unless the Court is satisfied that—
+  (a) The respondent is engaging, or has engaged, in behaviour that, if the respondent and the person were or, as the case may be, had been in a domestic relationship, would amount to domestic violence against the person; and
+  (b) The respondent's behaviour towards the person is due, in whole or in part, to the applicant's domestic relationship with the person; and
+  (c) The making of a direction under this section is necessary for the protection of the person; and
+  (d) Where practicable, the person consents to the direction being made.
+(4) Subsections (2) to (5) of section 14 of this Act apply, with the necessary modifications, in respect of an application for a direction pursuant to subsection (2) of this section.
+
+### 17 Protection from respondent's associates
+(1) Subject to subsection (2) of this section, where the Court makes a protection order against the respondent, the Court may also direct that the order apply against a person whom the respondent is encouraging, or has encouraged, to engage in behaviour against a protected person, where that behaviour, if engaged in by the respondent, would amount to domestic violence.
+(2) No direction may be made under subsection (1) of this section in respect of a person unless the Court is satisfied that—
+  (a) The person is engaging, or has engaged, in behaviour against a protected person, where that behaviour, if engaged in by the respondent, would amount to domestic violence; and
+  (b) The making of a direction under this section is necessary for the protection of the protected person.
+(3) A direction may be made pursuant to subsection (1) of this section whether the behaviour against a protected person was engaged in before or after the person became a protected person.
+(4) Subsections (2) to (5) of section 14 of this Act apply, with the necessary modifications, in respect of an application for a direction pursuant to subsection (1) of this section.
+
+### 18 Mutual orders
+Where the Court grants an application for a protection order, it must not also make a protection order in favour of the respondent unless the respondent has made an application for a protection order and the Court has determined that application in accordance with this Act.
+
+**Standard conditions of protection orders**
+
+### 19 Standard conditions of protection order
+(1) It is a condition of every protection order that the respondent must not—
+  (a) Physically or sexually abuse the protected person; or
+  (b) Threaten to physically or sexually abuse the protected person; or
+  (c) Damage, or threaten to damage, property of the protected person; or
+  (d) Engage, or threaten to engage, in other behaviour, including intimidation or harassment, which amounts to psychological abuse of the protected person; or
+  (e) Encourage any person to engage in behaviour against a protected person, where the behaviour, if engaged in by the respondent, would be prohibited by the order.
+(2) Without limiting subsection (1) of this section, but subject to section 20 of this Act, it is a condition of every protection order that at any time other than when the protected person and the respondent are, with the express consent of the protected person, living in the same dwellinghouse, the respondent must not,—
+  (a) Watch, loiter near, or prevent or hinder access to or from, the protected person's place of residence, business, employment, educational institution, or any other place that the protected person visits often; or
+  (b) Follow the protected person about or stop or accost the protected person in any place; or
+  (c) Without the protected person's express consent, enter or remain on any land or building occupied by the protected person; or
+  (d) Where the protected person is present on any land or building, enter or remain on that land or building in circumstances that constitute a trespass; or
+  (e) Make any other contact with the protected person (whether by telephone, correspondence, or otherwise), except such contact—
+    (i) As is reasonably necessary in any emergency; or
+    (ii) As is permitted under any order or written agreement relating to the role of providing day-to-day care for, or contact with, or custody of any minor; or
+    (iii) As is permitted under any special condition of the protection order; or
+    (iv) As is necessary for the purposes of attending a family group conference within the meaning of section 2 of the Children, Young Persons, and Their Families Act 1989.
+(3) Where, pursuant to a direction made under section 17 of this Act, a protection order applies against an associated respondent, the provisions of this section apply, with all necessary modifications, in respect of the associated respondent.
+(4) References in subsection (2) of this section to the express consent of a protected person include the express consent of a person (other than the respondent or, as the case may be, the associated respondent) who is specified, in a special condition of the protection order imposed pursuant to section 27(3) of this Act, as a person who is entitled to consent, on the protected person's behalf, in relation to the matter, and to withdraw such consent.
+
+### 20 Further provisions relating to standard condition prohibiting contact
+(1) The standard condition contained in section 19(2) of this Act (in this section referred to as the non-contact condition) has effect except while the protected person and the respondent are, with the express consent of the protected person, living in the same dwellinghouse.
+(2) The non-contact condition is automatically suspended for any period during which the protected person and the respondent, with the express consent of the protected person, live in the same dwellinghouse.
+(3) Where the non-contact condition is suspended in accordance with subsection (2) of this section, and the protected person subsequently withdraws his or her consent to the respondent living in the same dwellinghouse, then (unless the protection order has been sooner discharged) the non-contact condition automatically revives.
+(4) The non-contact condition—
+  (a) May become suspended in accordance with subsection (2) of this section on 1 or more occasions:
+  (b) May revive in accordance with subsection (3) of this section on 1 or more occasions.
+(5) Where, pursuant to a direction made under section 17 of this Act, a protection order applies against an associated respondent, the provisions of this section apply, with all necessary modifications, in respect of the associated respondent.
+(6) References in this section to the consent of a protected person, or to the withdrawal of a protected person's consent, include, as the case requires,—
+  (a) The consent of a person (other than the respondent or, as the case may be, the associated respondent) who is specified, in a special condition of the protection order imposed pursuant to section 27(3) of this Act, as a person who is entitled to consent, on the protected person's behalf, in relation to the matter:
+  (b) The withdrawal of consent by such a person.
+
+**Standard condition relating to weapons**
+
+### 21 Standard condition relating to weapons
+(1) Subject to section 22 of this Act, it is a condition of every protection order—
+  (a) That the respondent must not possess, or have under his or her control, any weapon; and
+  (b) That the respondent must not hold a firearms licence; and
+  (c) That the respondent must,—surrender to a member of the Police—
+    (i) As soon as practicable after the service on him or her of a copy of the protection order, but in any case no later than 24 hours after such service; and
+    (ii) On demand made, at any time, by any member of the Police,—
+    (iii) Any weapon in the respondent's possession or under the respondent's control, whether or not any such weapon is lawfully in the respondent's possession or under the respondent's control; and
+    (iv) Any firearms licence held by the respondent.
+(2) Subject to section 22 of this Act, on the making of a protection order,—
+  (a) Where the protection order is a temporary order, any firearms licence held by the respondent is deemed to be suspended:
+  (b) Where the protection order is a final order, any firearms licence held by the respondent is deemed to be revoked.
+(3) The respondent does not fail to comply with the standard condition contained in subsection (1) of this section merely by having in his or her possession, or having under his or her control, any weapon or any firearms licence, where,—
+  (a) In the case of a weapon, the weapon was in his or her possession, or under his or her control, immediately before the making of the protection order; and
+  (b) In the case of a weapon or a firearms licence, the weapon or licence is in his or her possession, or under his or her control, during the period necessary to comply with the terms of that standard condition that relate to the surrender of the weapon or licence.
+(4) Subject to section 22 of this Act, where, pursuant to that section, a protection order is varied so as to include the standard condition relating to weapons,—and the provisions of this Act apply accordingly with all necessary modifications.
+  (a) The reference in subsection (1)(c)(i) of this section to service of a copy of the protection order is to be read as a reference to service of a copy of the order by which the standard condition is so included:
+  (b) The references in subsections (2) and (3)(a) of this section to the making of a protection order are to be read as references to the making of the order by which the standard condition is so included,—
+(5) Subject to section 22 of this Act, where, pursuant to a direction made under section 17 of this Act, a protection order applies against an associated respondent, the provisions of this section apply, with all necessary modifications, in respect of the associated respondent.
+
+### 22 Court may dispense with, modify, discharge, or re-impose standard condition relating to weapons
+(1) Where,—
+  (a) The Court makes a final protection order on an application on notice; or
+  (b) Pursuant to section 80(1) of this Act, the Court—the Court may, subject to section 23 of this Act,—
+    (i) Discharges a temporary protection order and makes a final protection order in its place; or
+    (ii) Confirms a temporary protection order to the extent that it has not already become final,—
+  (c) Direct that the standard condition relating to weapons is not to be a condition of the protection order; or
+  (d) Modify the terms of that standard condition.
+(2) Subject to section 23 of this Act, the Court may, if it thinks fit, on the application of the applicant or the respondent, vary a protection order,—
+  (a) Where the standard condition relating to weapons is not a condition of the protection order, by directing that the standard condition relating to weapons (whether with or without modification) is to be a condition of the protection order:
+  (b) Where the standard condition relating to weapons is a condition of the protection order (whether with or without modification), by—
+    (i) Discharging the standard condition relating to weapons:
+    (ii) Modifying the terms of that standard condition.
+(3) Subject to section 23 of this Act, where a protection order applies against an associated respondent, the Court may, on the application of the applicant or the associated respondent, vary the protection order, in so far as it relates to the associated respondent,—
+  (a) Where the standard condition relating to weapons is not a condition of the protection order, by directing that the standard condition relating to weapons (whether with or without modification) is to be a condition of the protection order:
+  (b) Where the standard condition relating to weapons is a condition of the protection order (whether with or without modification), by—
+    (i) Discharging the standard condition relating to weapons:
+    (ii) Modifying the terms of that standard condition.
+(4) For the avoidance of doubt (but without limiting subsection (3) of this section), it is hereby declared that a Court may—
+  (a) Direct that the standard condition relating to weapons—
+    (i) Is not to be a condition of a protection order, in so far as the protection order relates to the respondent; but
+    (ii) Is to be a condition of a protection order (whether with or without modification), in so far as the protection order relates to the associated respondent:
+  (b) Discharge the standard condition relating to weapons in so far as the condition relates to the respondent, but not in so far as the condition relates to the associated respondent.
+(5) Where an application is made under subsection (2) or subsection (3) of this section in respect of a temporary protection order, the Registrar must assign a hearing date, which must be—
+  (a) As soon as practicable; and
+  (b) Unless there are special circumstances, in no case later than 42 days after the application is made.
+(6) Sections 9, 11, and 12 of this Act, so far as applicable and with the necessary modifications, apply in relation to—as they apply in relation to the making of an application for a protection order.
+  (a) Any application under this section, on behalf of a protected person, for—
+    (i) A direction that the standard condition relating to weapons be a condition of a protection order; or
+    (ii) The modification or discharge of the standard condition relating to weapons; and
+  (b) The defending, on behalf of a protected person, of any such application made by the respondent or the associated respondent—
+
+### 23 Further provisions relating to powers conferred by section 22
+(1) A Court must not exercise the power conferred by section 22 of this Act—unless the Court is satisfied that the standard condition relating to weapons is not necessary for the protection of the persons for whose benefit the protection order applies from further domestic violence.
+  (a) To direct that the standard condition relating to weapons is not to be a condition of a protection order; or
+  (b) To discharge the standard condition relating to weapons—
+(2) Subject to subsection (3) of this section, a Court may only exercise the power conferred by section 22 of this Act to modify the terms of the standard condition relating to weapons in the following ways:
+  (a) To permit a person to whom the standard condition applies to have in his or her possession, or have under his or her control, a specified weapon, or weapons of a specified class, either unconditionally or subject to such conditions as the Court thinks fit:
+  (b) Where necessary, to permit such a person to hold a firearms licence:
+  (c) In any case where the terms of the standard condition have already been modified so as to make them less onerous than the terms set out in section 21 of this Act, by reinstating (whether in whole or in part) those terms as so set out.
+(3) A Court may exercise the power conferred by section 22 of this Act to modify the terms of the standard condition relating to weapons in any of the ways set out in paragraph (a) or paragraph (b) of subsection (2) of this section only if the Court is satisfied—
+  (a) That the standard condition relating to weapons, in the terms set out in section 21 of this Act, is not necessary for the protection of the persons for whose benefit the protection order applies from further domestic violence; and
+  (b) That the standard condition relating to weapons, in the terms proposed, will sufficiently protect those persons from further domestic violence.
+(4) In determining whether or not to exercise any of the powers conferred by section 22 of this Act,—
+  (a) The need to protect those persons for whose benefit the protection order applies from further domestic violence is the paramount consideration; and
+  (b) Without limiting paragraph (a) of this subsection, the Court must, so far as is practicable, have regard to the following matters:
+    (i) Whether the persons for whose benefit the protection order applies consent to the exercise of the power in the manner proposed:
+    (ii) With respect to any domestic violence that is relevant in relation to the exercise of the power, the nature and seriousness of that domestic violence, and how recently that domestic violence occurred:
+    (iii) The effect that the terms of the standard condition relating to weapons is having, or will have, on the persons to whom the condition applies, or will apply, if the powers are not exercised in the manner proposed:
+    (iv) Such other matters as the Court considers relevant.
+(5) Where the terms of the standard condition relating to weapons are modified pursuant to section 22 of this Act, the terms of that standard condition (as set out in section 21 of this Act) apply subject to the terms of that modification, and the provisions of this Act apply accordingly.
+(6) The fact that—does not oblige any member of the Police to issue a firearms licence to any person to whom that standard condition applied or, as the case requires, applies.
+  (a) The standard condition relating to weapons has been discharged pursuant to section 22 of this Act; or
+  (b) The terms of the standard condition relating to weapons have been modified pursuant to that section—
+
+### 24 Further provisions relating to effect of standard condition relating to weapons
+(1) Where—that firearms licence is deemed to be revoked.
+  (a) A temporary protection order becomes a final order in accordance with section 77(1) of this Act; and
+  (b) At the time the order becomes final, any firearms licence held by the respondent or an associated respondent is suspended pursuant to section 21(2) of this Act,—
+(2) Where a person's firearms licence is suspended pursuant to section 21(2) of this Act,—
+  (a) That person is deemed, for all purposes, not to be the holder of a firearms licence during the period of the suspension; but
+  (b) Immediately on that suspension ceasing to be in force, then, except where the firearms licence is revoked (whether pursuant to subsection (1) of this section or otherwise) or ceases to be in force, that firearms licence revives.
+(3) Where, pursuant to subsection (1) of this section or section 21 of this Act, a firearms licence is revoked or deemed to be revoked, that revocation has effect as if the firearms licence had been revoked pursuant to section 27 of the Arms Act 1983, except that nothing in this subsection—
+  (a) Limits the terms of the standard condition relating to weapons; or
+  (b) Confers on any person any right to appeal to any court, other than under section 91 of this Act, against the revocation of that firearms licence.
+
+### 25 Retention, return, and disposal of surrendered weapons and licences
+(1) Where a person to whom the standard condition relating to weapons applies surrenders any weapon to a member of the Police pursuant to section 21 of this Act, the following provisions apply:
+  (a) In any case where the person's firearms licence is suspended by virtue of section 21(2) of this Act,—
+    (i) Subject to subparagraph (ii) of this paragraph, to paragraphs (b) and (c) of this subsection, and to section 22 of this Act, the Police must detain the weapon for the period of the suspension, and, except where the weapon may lawfully be retained pursuant to any other enactment, must return the weapon to the person as soon as practicable after that suspension ceases to be in force:
+    (ii) Subject to paragraph (c) of this subsection, the person whose firearms licence is suspended may, at any time during the period of the suspension, if the weapon is owned by him or her, sell or otherwise dispose of the weapon to a person approved for the purpose by a member of the Police, and in any such case the weapon must be delivered to that other person:
+  (b) In any case where the person's firearms licence is revoked by virtue of section 21(2) or section 24(1) of this Act, then, subject to paragraph (c) of this subsection, subsections (2) to (4) of section 28 of the Arms Act 1983 apply, with all necessary modifications, as if the weapon were a firearm that had been delivered to a member of the Police pursuant to section 28 of the Arms Act 1983:
+  (c) If, at the time of the surrender of the weapon, the person was not lawfully entitled to possess the weapon (disregarding, for that purpose, the effect of the standard condition relating to weapons), the weapon is deemed to have been seized and detained pursuant to the Arms Act 1983, and the provisions of sections 65 and 70 of that Act apply accordingly:
+  (d) In any other case,—
+    (i) Subject to subparagraph (ii) of this paragraph, to paragraph (c) of this subsection, and to section 22 of this Act, the Police must detain the weapon for the period during which the standard condition relating to weapons remains in force, and, except where the weapon may lawfully be retained pursuant to any other enactment, must return the weapon to the person as soon as practicable after the standard condition relating to weapons ceases to be in force:
+    (ii) Subject to paragraph (c) of this subsection, the person may, at any time during the period during which the standard condition relating to weapons remains in force, if the weapon is owned by him or her, sell or otherwise dispose of the weapon to a person approved for the purpose by a member of the Police, and in any such case the weapon must be delivered to that other person.
+(2) Where a person's firearms licence is suspended pursuant to subsection (2) of section 21 of this Act, and that person surrenders that licence to a member of the Police pursuant to that section, the Police must detain that licence for the period of the suspension, and, except where the licence is revoked or ceases to be in force, or may lawfully be retained pursuant to any other enactment, must return the licence to the person as soon as practicable after that suspension ceases to be in force.
+
+### 26 Arms Act 1983 not affected
+(1) Nothing in any of sections 21 to 25 of this Act limits or affects any provision of the Arms Act 1983 that authorises or permits—
+  (a) The revocation of any firearms licence; or
+  (b) The seizure of any weapon.
+(2) Where—that suspension ceases to be in force.
+  (a) A person's firearms licence is suspended pursuant to section 21(2) of this Act; and
+  (b) During the period of that suspension, that firearms licence is revoked pursuant to the Arms Act 1983,—
+
+**Special conditions of protection orders**
+
+### 27 Court may impose special conditions
+(1) Where the Court makes a protection order, it may impose any conditions that are reasonably necessary, in the opinion of the Court, to protect the protected person from further domestic violence by the respondent, or the associated respondent, or both.
+(2) Without limiting subsection (1) of this section, a condition imposed under subsection (1) of this section may relate to—
+  (a) The manner in which arrangements for access to a child are to be implemented:
+  (b) The manner and circumstances in which the respondent or the associated respondent, or both, may make contact with the protected person.
+(3) Without limiting subsection (1) of this section, the Court may impose, as a condition of a protection order, a condition specifying a person who, for the purposes of sections 19(2), 20, and 28 of this Act, is entitled—
+  (a) To consent on behalf of the protected person; and
+  (b) To withdraw such consent.
+(4) Where the Court imposes a condition under this section, it may specify the period during which the condition is to have effect.
+(5) In the absence of a direction under subsection (4) of this section, and subject to section 28 of this Act, a special condition has effect for the duration of the protection order, unless sooner varied or discharged.
+
+### 28 Further provisions relating to certain special conditions
+(1) This section applies to any special condition of a protection order, where the special condition is inconsistent with the protected person and the respondent living in the same dwellinghouse.
+(2) Subject to sections 27(4) and 46 of this Act, a special condition to which this section applies has effect except while the protected person and the respondent are, with the express consent of the protected person, living in the same dwellinghouse.
+(3) A special condition to which this section applies is automatically suspended for any period during which the protected person and the respondent, with the express consent of the protected person, live in the same dwellinghouse.
+(4) Where a special condition to which this section applies is suspended in accordance with subsection (3) of this section, and the protected person subsequently withdraws his or her consent to the respondent living in the same dwellinghouse, then (unless the protection order has been sooner discharged, and subject to sections 27(4) and 46 of this Act) the special condition automatically revives.
+(5) A special condition to which this section applies—
+  (a) May become suspended in accordance with subsection (3) of this section on 1 or more occasions:
+  (b) May revive in accordance with subsection (4) of this section on 1 or more occasions.
+(6) Where, pursuant to a direction made under section 17 of this Act, a protection order applies against an associated respondent, the provisions of this section apply, with all necessary modifications, in respect of the associated respondent.
+(7) References in this section to the consent of a protected person, or to the withdrawal of a protected person's consent, include, as the case requires,—
+  (a) The consent of a person (other than the respondent or, as the case may be, the associated respondent) who is specified, in a special condition of the protection order imposed pursuant to section 27(3) of this Act, as a person who is entitled to consent, on the protected person's behalf, in relation to the matter:
+  (b) The withdrawal of consent by such a person.
+
+**Programmes**
+
+### 29 Programmes for protected persons
+(1) Subject to subsection (4) of this section, where the Court makes a protection order, the applicant may request a Registrar to authorise the provision of a programme to all or any of the following persons:
+  (a) The applicant:
+  (b) A child of the applicant's family:
+  (c) A specified person.
+(2) Subject to subsection (4) of this section, where the Court makes a protection order, a specified person (other than a child) may request a Registrar to authorise the provision of a programme to that specified person.
+(3) Subject to subsection (4) of this section, where a request is made to a Registrar under subsection (1) or subsection (2) of this section, the Registrar must arrange for the matter to be referred to a programme provider without delay.
+(4) The following provisions apply with respect to the making of a request pursuant to this section, and with respect to the authorising of the provision of a programme in response to such a request:
+  (a) Where, at the time the protection order is made, the applicant has not made a request pursuant to this section, and the applicant is not legally represented, the Judge or Registrar must cause the applicant to be informed of the applicant's right to make such a request:
+  (b) A request may be made under this section, on behalf of an applicant, by a representative:
+  (c) Subject to paragraphs (d) and (g) of this subsection, a request may be made under this section at any time while the protection order remains in force:
+  (d) A Registrar may not act on any request made after the protection order has been in force for 3 years or more, unless the Registrar is satisfied that there are special circumstances justifying the Registrar so acting:
+  (e) Subject to paragraphs (d) and (g) of this subsection, 1 or more requests may be made under this section, by the applicant, in relation to the same protection order:
+  (f) A specified person may not make a request if the applicant has already made a request for a programme to be provided to the specified person:
+  (g) No person is entitled to the provision of more than 1 programme in relation to the same protection order.
+(5) Where, pursuant to this section, a Registrar authorises the provision of a programme to a protected person, the number of programme sessions to be provided are to be determined in accordance with regulations made under this Act, or if no such regulations apply, by the Registrar.
+(6) Every lawyer acting for an applicant for a protection order must,—
+  (a) Ensure that the applicant is aware of the applicant's right to make a request under this section; and
+  (b) Where the applicant wishes to exercise that right, take such further steps as the lawyer considers necessary to enable the applicant to do so.
+
+### 30 Commencement of section 29
+(1) Section 29 of this Act, in so far as that section provides for Registrars to authorise the provision of programmes to persons who are not children, shall come into force on the date appointed pursuant to section 1(2) of this Act as the date on which this Act shall come into force.
+(2) Subject to subsection (4) of this section, section 29 of this Act, in so far as that section provides for Registrars to authorise the provision of programmes to children, shall come into force on a date to be appointed by the Governor-General by Order in Council; and one or more Orders in Council may be made appointing different dates for different purposes.
+(3) Without limiting the generality of subsection (2) of this section, one or more Orders in Council may be made under that subsection appointing different dates in respect of different areas of New Zealand, or in respect of different Courts.
+(4) Except where section 29 of this Act comes into force, for all purposes, at an earlier date, that section shall, notwithstanding subsection (2) of this section, come into force for all purposes on the expiry of the period of 2 years after the date appointed pursuant to section 1(2) of this Act as the date on which this Act shall come into force.
+
+### 31 Joint programme sessions
+A protected person and a respondent, or, as the case may be, a protected person and an associated respondent, cannot be required to attend programme sessions at which the other person is also present.
+
+### 32 Power to direct respondent or associated respondent to attend programme
+(1) On making a protection order, the Court must direct the respondent to attend a specified programme, unless the Court considers that there is good reason for not making such a direction.
+(2) Where the Court makes a direction pursuant to section 17 of this Act that a protection order apply against an associated respondent, the Court may, if it considers it appropriate in all the circumstances to do so, direct the associated respondent to attend a specified programme.
+(3) A direction made under subsection (1) or subsection (2) of this section is a condition of the relevant protection order.
+(4) Without limiting subsection (1) of this section, there is good reason not to make a direction under that subsection if there is no programme available that is appropriate for the respondent, having regard to his or her character and personal history and to any other relevant circumstances.
+
+### 33 Terms of direction that respondent or associated respondent attend programme
+(1) When the Court makes a direction under section 32 of this Act, it must state in the direction that the respondent or associated respondent, as the case requires,—
+  (a) Attend the programme—
+    (i) For a specified number of sessions in each month; or
+    (ii) For 1 session in each month and for such other session or sessions in each month as the programme provider may from time to time specify; or
+    (iii) For such number of sessions in each month as the programme provider may from time to time specify in accordance with regulations made under this Act, or if no such regulations apply, as determined by the Registrar; and
+  (b) Attend the programme for the first time—
+    (i) On the date and at the time and place specified in the direction; or
+    (ii) On a date and at a time and place to be advised by the programme provider as soon as practicable after the direction is made.
+(2) The number of programme sessions that are or may be specified under subsection (1) of this section must be determined in accordance with regulations made under this Act (if any).
+
+### 34 Registrar to notify programme provider to whom respondent or associated respondent is referred
+Where the Court makes a direction under section 32 of this Act, the Registrar must ensure that the programme provider to whom the respondent or, as the case requires, the associated respondent is referred is notified, without delay,—
+  (a) That the direction has been made and of the terms of the direction; and
+  (b) Of such other information (if any) as is prescribed for the purposes of this paragraph by regulations made under this Act.
+
+### 35 Programme provider to arrange meeting with respondent or associated respondent
+Where, in any direction made under section 32 of this Act, the Court states, pursuant to section 33(1)(b)(ii) of this Act, that the programme provider is to arrange the date on which, and the time and place at which, the respondent or associated respondent is to attend the programme for the first time, then after being notified pursuant to section 34 of this Act, the programme provider must, without delay,—
+  (a) Arrange to meet the respondent or associated respondent, as the case may be, at such time and place as the programme provider thinks fit; or
+  (b) By notice given in such manner as is prescribed by regulations made under this Act, request the respondent or associated respondent, as the case may be, to attend before the programme provider at a specified time and place.
+
+### 36 Direction to attend programme made on application without notice
+(1) This section applies where the Court makes a direction under section 32 of this Act on an application without notice.
+(2) Where this section applies, the direction does not take effect unless—
+  (a) A copy of the order containing the direction is served on the person to whom the direction relates; and
+  (b) Either—
+    (i) That person does not notify the Court, within 5 clear days after the order is served on him or her, that he or she objects to the direction; or
+    (ii) The Court, after considering the person's objection, confirms the direction (whether with or without variation).
+(3) Where the respondent or associated respondent notifies the Court, in accordance with subsection (2) of this section, that he or she objects to the direction, and wishes to be heard, the Registrar must assign a hearing date, which must be—
+  (a) As soon as practicable; and
+  (b) Unless there are special circumstances, in no case later than 42 days after the receipt of the notice of objection.
+(4) Nothing in this section or section 37 of this Act gives the Court power to review any order or decision other than the direction to which the notice relates, but nothing in this section limits section 76 or section 79 of this Act.
+
+### 37 Court may confirm or discharge direction
+(1) After considering an objection made, pursuant to section 36 of this Act, to a direction, the Court may—
+  (a) Confirm the direction; or
+  (b) Confirm the direction but vary the terms of the direction; or
+  (c) Discharge the direction.
+(2) Where, pursuant to subsection (1) of this section, the Court confirms or varies a direction, then, if the person to whom the direction relates is before the Court, the Judge must warn that person that non-compliance with the direction is an offence punishable by imprisonment.
+(3) Failure to give the warning required by subsection (2) of this section does not affect the validity of the direction confirmed or varied.
+
+### 38 Respondent or associated respondent excused from attending
+(1) Where, pursuant to a direction made under section 32 of this Act, a respondent or an associated respondent is required to attend a programme, a programme provider may in special circumstances, excuse the respondent or, as the case requires, the associated respondent from attendance at any session or sessions.
+(2) Without limiting subsection (1) of this section, if a respondent or an associated respondent is unable to attend any session or sessions because of illness or injury, the programme provider, on being satisfied (whether before or after the failure to attend) with the circumstances of the case, may excuse the person from attending that session or those sessions.
+(3) Where, pursuant to this section, a person is excused from attendance at any session, that person must make up the missed session with an additional session, unless the programme provider considers that the person's absence has not significantly affected the person's ability to benefit fully from the programme.
+
+### 39 Notice of absence from programme
+(1) The programme provider to whom the respondent or associated respondent is referred pursuant to a direction made under section 32 of this Act must, where the respondent or the associated respondent fails to attend any session (except where he or she has been excused from attendance pursuant to section 38 of this Act), within 7 days of that failure, notify that fact, in writing, to the Registrar.
+(2) On receiving notification under subsection (1) of this section, the Registrar must, without delay, bring the matter to the attention of a Judge so that the Judge may consider whether or not the power conferred by section 42 of this Act should be exercised in relation to the respondent or, as the case requires, the associated respondent.
+
+### 40 Notice of conclusion of programme
+(1) The programme provider to whom the respondent or associated respondent is referred pursuant to a direction made under section 32 of this Act must, when the programme concludes, notify that fact, in writing and without delay, to the Registrar.
+(2) The notice given under subsection (1) of this section to the Registrar must also state whether or not the respondent or the associated respondent, as the case requires,—
+  (a) Was excused from attending any session or sessions, and the reasons for that non-attendance:
+  (b) Participated fully in the programme, in particular, by completing any tasks set as part of the programme.
+(3) On receiving notification, pursuant to subsection (1) of this section, that the programme has concluded, the Registrar must notify that fact, in writing and without delay, to the applicant for the protection order, or to the applicant's lawyer.
+
+### 41 Programme provider may request variation of direction
+(1) The programme provider to whom the respondent or associated respondent is referred pursuant to a direction made under section 32 of this Act may, at any time during the course of the programme, if the programme provider—by notice in writing to the Registrar, request that the direction be varied by substituting a different programme.
+  (a) Believes, on reasonable grounds, that the programme is not appropriate for the respondent or, as the case requires, the associated respondent, having regard to his or her character and personal history and to any other relevant circumstances; or
+  (b) Considers that the respondent or, as the case requires, the associated respondent is not participating fully in the programme, and that this is significantly affecting his or her ability to benefit fully from the programme,—
+(2) On receiving notification under subsection (1) of this section, the Registrar must, without delay, bring the matter to the attention of a Judge so that the Judge may consider whether or not the power conferred by section 42 of this Act should be exercised in relation to the respondent or, as the case requires, the associated respondent.
+
+### 42 Judge may call respondent or associated respondent before Court
+(1) Where,—a Judge may exercise the powers under section 82 of this Act to call the respondent or, as the case may be, the associated respondent before the Court; and, subject to any regulations made under this Act, section 82 of this Act applies, so far as applicable and with the necessary modifications, as if the person were a witness in proceedings.
+  (a) A respondent or an associated respondent fails to comply in 1 or more respects with a direction made under section 32(1) or section 32(2) of this Act; or
+  (b) Pursuant to section 39(2) or section 41(2) of this Act, a Registrar brings a matter to the attention of a Judge,—
+(2) Where the respondent or an associated respondent appears before the Court pursuant to subsection (1) of this section, the Court, after hearing the person, may, subject to subsection (3) of this section, confirm, vary, or discharge the direction.
+(3) Except where the respondent or the associated respondent appears before the Court as a result of a notification given pursuant to section 41(1) of this Act, a Judge may not vary or discharge the direction pursuant to subsection (2) of this section in any case where the direction has been confirmed or varied pursuant to section 37 of this Act.
+(4) Where, pursuant to subsection (2) of this section, the Court confirms or varies a direction, then, if the person to whom the direction relates is before the Court, the Judge must warn that person that non-compliance with the direction is an offence punishable by imprisonment.
+(5) Failure to give the warning required by subsection (4) of this section does not affect the validity of the direction confirmed or varied.
+
+### 43 Confidentiality of information disclosed to programme provider
+(1) In this section, unless the context otherwise requires,—
+  - **Authority** means an authority given pursuant to section 29 of this Act
+  - **Direction** means a direction made under section 32 of this Act
+  - **Information** includes any statement or admission.
+(2) Subject to subsection (4) of this section, a programme provider must not disclose to any other person any information received by the programme provider in the course of carrying out that person's functions pursuant to any authority or direction.
+(3) Subject to subsection (4) of this section, no evidence is admissible in any Court, or before any person acting judicially, of any information received by a programme provider in the course of carrying out that person's functions pursuant to any authority or direction.
+(4) Where any information is received by a programme provider (in this subsection referred to as the principal programme provider) in the course of carrying out that person's functions pursuant to any authority given, or direction made, in relation to a protection order, nothing in subsection (2) or subsection (3) of this section prohibits the disclosure of that information, where that disclosure is made—
+  (a) For the purposes of giving a notification pursuant to section 39 or section 40 or section 41 of this Act; or
+  (b) For the purposes of any proceedings under section 42 of this Act; or
+  (c) For the purposes of the investigation or prosecution of—
+    (i) An offence against section 49(1)(c) of this Act; or
+    (ii) An offence committed or alleged to have been committed in the course of a programme provided by the principal programme provider; or
+  (d) In circumstances in which the principal programme provider believes, on reasonable grounds, that the disclosure is necessary to prevent or lessen a serious and imminent threat to public safety or the safety of any person; or
+  (e) With the authority of the person who disclosed the information to the principal programme provider; or
+  (f) To another programme provider—in each case where the principal programme provider reasonably considers that the disclosure of the information is necessary for the purpose of furthering the primary objective of the programme in relation to which the information is disclosed.
+    (i) Who is providing, or is to provide, a programme, pursuant to any authority or direction, to the person who disclosed the information; or
+    (ii) Who is providing, or is to provide, a programme, pursuant to an authority, to a person who is a protected person under the protection order; or
+    (iii) Who is providing, or is to provide, a programme, pursuant to a direction, to a person who is a respondent or an associated respondent under the protection order,—
+(5) Where any information is disclosed, pursuant to subsection (4)(f) of this section, to a programme provider, subsections (2) to (4) of this section, so far as applicable and with the necessary modifications, apply as if that information had been received by that programme provider in the course of carrying out that person's functions pursuant to an authority or a direction.
+
+### 44 Programme providers' fees and expenses
+Fees for programmes provided pursuant to section 29 or section 32 of this Act, and reasonable expenses incurred,—
+  (a) May be determined in accordance with regulations made under this Act; and
+  (b) Are payable out of public money appropriated by Parliament for the purpose.
+
+**Duration, variation, and discharge of protection orders**
+
+### 45 Duration of protection order
+(1) A temporary protection order continues in force until—
+  (a) The order becomes a final order in accordance with section 77(1) of this Act; or
+  (b) The order lapses pursuant to section 77(4) of this Act; or
+  (c) The order is discharged pursuant to section 80 of this Act.
+(2) A final protection order continues in force until it is discharged pursuant to section 47 of this Act.
+
+### 46 Power to vary protection order
+(1) The Court may, if it thinks fit, on the application of the applicant or the respondent, vary a protection order—
+  (a) By varying or discharging any special condition of the protection order:
+  (b) By imposing any special condition:
+  (c) By varying or discharging a direction made pursuant to section 32 of this Act:
+  (d) By making a direction pursuant to section 32 of this Act.
+(2) Where a protection order applies against an associated respondent, the Court may, if it thinks fit, on the application of the applicant or the associated respondent, vary the protection order, in so far as it relates to the associated respondent,—
+  (a) By varying or discharging any special condition of the protection order:
+  (b) By imposing any special condition:
+  (c) By varying or discharging a direction made pursuant to section 32 of this Act:
+  (d) By making a direction pursuant to section 32 of this Act.
+(3) The Court may, if it thinks fit, on the application of the applicant, vary a protection order—
+  (a) By directing, pursuant to section 16(2) of this Act, that the protection order also apply for the benefit of a particular person:
+  (b) By directing, pursuant to section 17 of this Act, that the protection order apply against a particular person.
+(4) The Court may, if it thinks fit, on the application of a specified person (other than a child), vary a protection order—
+  (a) By varying or discharging any special condition of the protection order, in so far as the special condition relates to the specified person:
+  (b) By imposing a special condition that relates to that specified person.
+(5) Where an application is made under this section in respect of a temporary protection order, the Registrar must assign a hearing date, which must be—
+  (a) As soon as practicable; and
+  (b) Unless there are special circumstances, in no case later than 42 days after the application is made.
+
+### 47 Power to discharge protection order
+(1) The Court may, if it thinks fit, on the application of the applicant or the respondent, discharge a protection order.
+(2) On an application under subsection (1) of this section, the Court may discharge a protection order even though the order—
+  (a) Applies for the benefit of a specified person pursuant to a direction made under section 16(2) of this Act; or
+  (b) Applies against an associated respondent pursuant to a direction made under section 17 of this Act.
+(3) Where a protection order to which subsection (2) of this section relates is discharged, the order ceases to have effect for the benefit of the specified person or, as the case requires, against the associated respondent, as if that person had applied for and been granted a discharge of the order pursuant to subsection (4) of this section.
+(4) Where a protection order—the specified person or, as the case may be, the associated respondent may apply for the order to be discharged in so far as it relates to him or her.
+  (a) Applies for the benefit of a specified person pursuant to a direction made under section 16(2) of this Act; or
+  (b) Applies against an associated respondent pursuant to a direction made under section 17 of this Act,—
+(5) On an application under subsection (4) of this section, the Court may, if it thinks fit, discharge a protection order in so far as it relates to that specified person or, as the case may be, that associated respondent.
+(6) Where an application is made under this section in respect of a temporary protection order, the Registrar must assign a hearing date, which must be—
+  (a) As soon as practicable; and
+  (b) Unless there are special circumstances, in no case later than 42 days after the application is made.
+
+### 48 Variation or discharge on behalf of protected person
+Sections 9, 11, and 12 of this Act, so far as applicable and with the necessary modifications, apply in relation to—as they apply in relation to the making of an application for a protection order.
+  (a) Any application, on behalf of a protected person, for the variation or discharge of a protection order under this Act; and
+  (b) The defending, on behalf of a protected person, of any such application made by the respondent or the associated respondent—
+
+**Enforcement of protection orders**
+
+### 49 Offence to contravene protection order
+(1) Every person commits an offence who, without reasonable excuse,—
+  (a) Does any act in contravention of a protection order; or
+  (b) Fails to comply with any condition of a protection order, not being a condition to which paragraph (c) of this subsection relates; or
+  (c) Fails to comply with a direction made under section 32(1) or section 32(2) of this Act to attend a programme on such occasions as are specified in accordance with section 33 of this Act.
+(2) Subject to subsection (3) of this section, every person who commits an offence against subsection (1) of this section is liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $5,000.
+(3) Every person who commits an offence against paragraph (a) or paragraph (b) of subsection (1) of this section is liable, where—on conviction on indictment, to imprisonment for a term not exceeding 2 years.
+  (a) That person has previously been convicted on at least 2 different occasions of a qualifying offence; and
+  (b) At least 2 of those qualifying offences were committed not earlier than 3 years before the commission of the offence being dealt with by the Court,—
+(4) For the purposes of subsection (3) of this section, a qualifying offence is—
+  (a) An offence against paragraph (a) or paragraph (b) of subsection (1) of this section; or
+  (b) An offence against section 18 of the Domestic Protection Act 1982.
+
+### 50 Power to arrest for breach of protection order
+(1) Where a protection order is in force, any member of the Police may arrest, without warrant, any person whom the member of the Police has good cause to suspect has committed a breach of the order (other than a breach that constitutes an offence against section 49(1)(c) of this Act).
+(2) In considering whether or not to arrest a person pursuant to subsection (1) of this section, the member of the Police must take the following matters into account:
+  (a) The risk to the safety of any protected person if the arrest is not made:
+  (b) The seriousness of the alleged breach of the protection order:
+  (c) The length of time since the alleged breach occurred:
+  (d) The restraining effect on the person liable to be arrested of other persons or circumstances.
+
+### 51 Release of person arrested
+[Repealed]
+
+## Part 3 — Orders relating to property
+
+**Occupation orders**
+
+### 52 Application for occupation order
+Any person aged 16 years or over who is or has been in a domestic relationship with another person may apply for an order granting the applicant the right to live in a dwellinghouse which, at the time the order is made, either party to the proceedings owns or in which either has a legal interest (including, but not limited to, a tenancy).
+
+### 53 Power to make occupation order
+(1) Subject to section 74 of this Act and to subsection (2) of this section, on hearing an application for an occupation order, the Court may, notwithstanding anything in the Property (Relationships) Act 1976, make an order granting to the applicant the right to personally occupy a specified dwellinghouse.
+(2) The Court may make an order under subsection (1) of this section only if it is satisfied that the order—
+  (a) Is necessary for the protection of the applicant; or
+  (b) Is in the best interests of a child of the applicant's family.
+(3) An order may be made under this section in respect of a dwellinghouse whether or not—
+  (a) The parties have ever lived in the same dwellinghouse, whether in the dwellinghouse to which the order relates or any other dwellinghouse; or
+  (b) Either party lives in the dwellinghouse at the time the order is made.
+(4) In determining whether to make an order under this section, the Court must have regard to the reasonable accommodation needs of all persons who may be affected by the order.
+(5) An order made under this section may be—as the Court thinks fit.
+  (a) For such period or periods; and
+  (b) On such terms and conditions relating to the occupation of the dwellinghouse to which the order relates,—
+
+### 54 Effect of occupation order
+(1) The person in whose favour an occupation order is made is entitled, to the exclusion of the person against whom the order is made, to personally occupy the dwellinghouse to which the order relates, together with any land, buildings, or improvements appurtenant to that dwellinghouse which are used, or ordinarily would be used, for the purposes of a household.
+(2) An occupation order is enforceable as if it were an order for the recovery of land made pursuant to section 31(1)(d) of the District Courts Act 1947.
+
+### 55 Power to vary or discharge occupation order
+(1) On the application of either party, or of the personal representative of either party, the Court may, if it thinks fit, make an order—
+  (a) Extending or reducing any period specified by the Court pursuant to section 53(5) of this Act; or
+  (b) Varying or discharging any terms and conditions imposed by the Court pursuant to section 53(5) of this Act; or
+  (c) Discharging the occupation order.
+(2) Where an application is made under this section in respect of a temporary occupation order, the Registrar must assign a hearing date, which must be—
+  (a) As soon as practicable; and
+  (b) Unless there are special circumstances, in no case later than 42 days after the application is made.
+
+**Tenancy orders**
+
+### 56 Application for tenancy order
+(1) Any person aged 16 years or over who is or has been in a domestic relationship with another person may apply to the Court for an order vesting in the applicant the tenancy of any dwellinghouse of which, at the time the order is made, the other party to the proceedings is—
+  (a) The sole tenant; or
+  (b) A tenant holding jointly, or in common, with the applicant.
+(2) In this section, dwellinghouse includes—
+  (a) Any furniture or other household effects let with the dwellinghouse; and
+  (b) Any land, outbuildings, or parts of buildings included in the tenancy.
+
+### 57 Power to make tenancy order
+(1) Subject to section 74 of this Act and to subsection (2) of this section, on hearing an application for a tenancy order, the Court may, notwithstanding anything in the Property (Relationships) Act 1976, make an order vesting in the applicant the tenancy of a specified dwellinghouse.
+(2) The Court may make an order under subsection (1) of this section only if it is satisfied that the order—
+  (a) Is necessary for the protection of the applicant; or
+  (b) Is in the best interests of a child of the applicant's family.
+(3) In determining whether to make an order under this section, the Court must have regard to the reasonable accommodation needs of all persons who may be affected by the order.
+
+### 58 Effect of tenancy order
+(1) Where a tenancy order takes effect, then, unless the tenancy is sooner lawfully determined,—
+  (a) The applicant becomes the tenant of the dwellinghouse upon and subject to the terms and conditions of the tenancy in force at the time the order is made; and
+  (b) The other party ceases to be a tenant.
+(2) Every tenancy order has effect and may be enforced as if it were an order of the Court for possession of the land granted in favour of the applicant.
+(3) Nothing in this Act or in any tenancy order—
+  (a) Limits or affects the operation of any enactment or rule of law for the time being applicable to—
+    (i) Any tenancy to which section 56 of this Act applies; or
+    (ii) The dwellinghouse held under the tenancy; or
+  (b) Authorises the Court to vary any express or implied term or condition of the tenancy except by—
+    (i) Vesting the tenancy pursuant to section 57 of this Act; or
+    (ii) Revesting the tenancy pursuant to section 59 of this Act.
+
+### 59 Power to discharge tenancy order and revest tenancy
+(1) On the application of a party against whom a tenancy order is made, or that party's personal representative, the Court may, if it thinks fit, make an order discharging the tenancy order and revesting the tenancy accordingly.
+(2) Where an application is made under this section in respect of a temporary tenancy order, the Registrar must assign a hearing date, which must be—
+  (a) As soon as practicable; and
+  (b) Unless there are special circumstances, in no case later than 42 days after the application is made.
+(3) Where any revesting order made under subsection (1) of this section takes effect, then, unless the tenancy is sooner lawfully determined, the person in whose favour it is made becomes the tenant of the dwellinghouse upon and subject to the terms and conditions of the tenancy in force at the time of the making of the revesting order.
+
+**General provisions relating to occupation orders and tenancy orders**
+
+### 60 Application without notice for occupation order or tenancy order
+(1) An occupation order or a tenancy order may be made on an application without notice only if the Court is satisfied that—
+  (a) The respondent has physically or sexually abused the applicant or a child of the applicant's family; and
+  (b) The delay that would be caused by proceeding on notice would or might expose the applicant or a child of the applicant's family to physical or sexual abuse.
+(2) Any occupation order or tenancy order made on an application without notice is a temporary order that, subject to sections 76 to 80 of this Act, and unless it is sooner discharged, becomes final by operation of law 3 months after the date on which it is made.
+(3) An occupation order or a tenancy order may be made on an application without notice only where the Court has made or, at the same time, makes a protection order, unless the Court considers that there are special reasons for not making a protection order.
+(4) Where an occupation order or a tenancy order is made on an application without notice while the applicant and the respondent are living in the same dwellinghouse, that occupation order or tenancy order expires,—
+  (a) On its discharge by the Court; or
+  (b) On the discharge of a temporary protection order made in conjunction with that occupation order or tenancy order; or
+  (c) If no such protection order has been made and the Court has not sooner discharged the occupation order or tenancy order, at the close of the seventh day after the date of the making of the occupation order or tenancy order.
+(5) Where an occupation order or a tenancy order is made on an application without notice, the respondent may,—
+  (a) Notify the Court, in accordance with section 76 of this Act, that he or she wishes to be heard on whether a final order should be substituted for the temporary order:
+  (b) In the case of an occupation order, apply pursuant to section 55 of this Act for the order to be varied or discharged:
+  (c) In the case of a tenancy order, apply pursuant to section 59 of this Act for the order to be discharged and the tenancy revested.
+
+### 61 Procedure for occupation orders and tenancy orders
+(1) Where an application is made for an occupation order, the Court may treat that application as an application for a tenancy order or an occupation order or both, and may, if it is satisfied that—make a tenancy order (whether or not it makes an occupation order).
+  (a) It has jurisdiction to make a tenancy order; and
+  (b) The making of a tenancy order is appropriate; and
+  (c) Section 74 of this Act has been complied with in respect of the making of a tenancy order other than a temporary order,—
+(2) Where an application is made for a tenancy order, the Court may treat that application as an application for an occupation order or a tenancy order or both, and may, if it is satisfied that—make an occupation order (whether or not it makes a tenancy order).
+  (a) It has jurisdiction to make an occupation order; and
+  (b) The making of an occupation order is appropriate; and
+  (c) Section 74 of this Act has been complied with in respect of the making of an occupation order other than a temporary order,—
+
+**Ancillary furniture orders**
+
+### 62 Application for ancillary furniture order
+(1) Where a person applies for an occupation order or a tenancy order in respect of any dwellinghouse, the person may,—apply to the Court for an order granting to the applicant the possession and use of all or any of the furniture, household appliances, and household effects in that dwellinghouse.
+  (a) At the time of making that application, or at any time before that application is determined; or
+  (b) If the Court makes an occupation order or a tenancy order on that application, at any time while that order remains in force,—
+(2) Nothing in subsection (1) of this section prevents a Court that makes an occupation order or a tenancy order from making, of its own motion, an ancillary furniture order in respect of all or any of the furniture, household appliances, and household effects in the dwellinghouse specified in the occupation order, or, as the case may be, the tenancy order.
+
+### 63 Power to make ancillary furniture order
+(1) Subject to section 74 of this Act and to subsections (2) and (6) of this section, on or after making an occupation order or a tenancy order, the Court may make an order granting to the applicant the use of all or any of the furniture, household appliances, and household effects in the dwellinghouse specified in the occupation order, or as the case may be, the tenancy order.
+(2) The Court may make an order under subsection (1) of this section only if it is satisfied—
+  (a) That, before the making of the order, the applicant and the other party to the proceedings have lived in the same dwellinghouse at the same time, and that the applicant is or will be living in the dwellinghouse specified in the occupation order or, as the case may be, the tenancy order; or
+  (b) That a child of the applicant's family is or will be living in the dwellinghouse so specified.
+(3) An order made under subsection (1) of this section may relate to furniture, household appliances, and household effects that were in the relevant dwellinghouse at the time the application for the order was made (or, in the case of an order made of the Court's own motion, at the time the application for the relevant occupation order or tenancy order was made), whether or not those items are still in the relevant dwellinghouse at the time the order under subsection (1) of this section is made.
+(4) It is not necessary for the Court to specify, in an order made under subsection (1) of this section, every item of furniture, or every household appliance or household effect, to which the order relates, as long as the items to which the order relates are readily ascertainable from the terms of the order.
+(5) Subject to subsection (6) of this section, an order made under this section may be on such terms and conditions relating to the furniture, household appliances, and household effects to which the order relates as the Court thinks fit.
+(6) An order made under this section may be for such period as the Court thinks fit, but—
+  (a) Unless the Court otherwise directs, the order continues in force for 6 months from the date on which it is made; and
+  (b) In any event, irrespective of the terms of the order, the order expires if the occupation order or tenancy order to which the order relates expires or is discharged.
+
+### 64 Effect of ancillary furniture order
+(1) The person in whose favour an ancillary furniture order is made is entitled, to the exclusion of the person against whom the order is made, to the possession of the furniture, household appliances, and household effects to which the order relates for so long as the order is in force.
+(2) Every ancillary furniture order has effect and may be enforced as if it were an order of the Court for delivery of chattels granted in favour of the person for whose benefit the ancillary furniture order is made.
+
+### 65 Power to vary or discharge ancillary furniture order
+(1) Subject to subsection (2) of this section, on the application of either party, or of the personal representative of either party, the Court may, if it thinks fit, make an order—
+  (a) Extending or reducing any period specified by the Court pursuant to section 63(6) of this Act; or
+  (b) Varying the furniture, household appliances, and household effects to which the order relates; or
+  (c) Varying or discharging any terms and conditions imposed by the Court pursuant to section 63(5) of this Act; or
+  (d) Discharging the ancillary furniture order.
+(2) The Court must not vary an ancillary furniture order—
+  (a) If the occupation order or tenancy order to which the ancillary furniture order relates is no longer in force; or
+  (b) In circumstances in which the Court could not make an ancillary furniture order under section 63 of this Act.
+(3) Where an application is made under this section in respect of a temporary ancillary furniture order, the Registrar must assign a hearing date, which must be—
+  (a) As soon as practicable; and
+  (b) Unless there are special circumstances, in no case later than 42 days after the application is made.
+
+**Furniture orders**
+
+### 66 Application for furniture order
+Where a person aged 16 years or over—that person may—apply to the Court for an order for the possession and use of all or any of the furniture, household appliances, and household effects in that dwellinghouse.
+  (a) Applies for a protection order; and
+  (b) That person—
+    (i) And the person against whom the application is made live in the same dwellinghouse, or have lived in the same dwellinghouse at the same time, (regardless of which ground in section 4 of this Act is relied on as establishing, for the purposes of a protection order, that the parties have or have had a domestic relationship); but
+    (ii) Does not apply for an occupation order or a tenancy order in respect of that dwellinghouse,—
+  (c) At the time of making that application, or at any time before that application is determined; or
+  (d) If the Court makes the protection order sought, at any time while that order remains in force,—
+
+### 67 Power to make furniture order
+(1) Subject to section 74 of this Act and to subsections (2) and (6) of this section, but notwithstanding anything in the Property (Relationships) Act 1976, on or after making a protection order, the Court may also make an order granting to the applicant the possession and use of all or any of the furniture, household appliances, and household effects in the dwellinghouse in which the parties live or have lived.
+(2) The Court may make an order under subsection (1) of this section only if it is satisfied—
+  (a) That the applicant, or a child of the applicant's family, or both, are or were living in the dwellinghouse; and
+  (b) That the furniture, household appliances, and household effects are reasonably required to equip another dwellinghouse in which the applicant, or a child of the applicant's family, or both, are or will be living.
+(3) An order made under subsection (1) of this section may relate to furniture, household appliances, and household effects that were in the relevant dwellinghouse at the time the application for the order was made, whether or not those items are still in the relevant dwellinghouse at the time the order is made.
+(4) It is not necessary for the Court to specify, in an order made under subsection (1) of this section, every item of furniture, or every household appliance or household effect, to which the order relates, as long as the items to which the order relates are readily ascertainable from the terms of the order.
+(5) An order made under this section may be on such terms and conditions relating to the furniture, household appliances, and household effects to which the order relates as the Court thinks fit.
+(6) An order made under this section may be for such period as the Court thinks fit, but—
+  (a) Unless the Court otherwise directs, the order continues in force for 6 months from the date on which it is made; and
+  (b) In any event, irrespective of its terms, the order expires if the protection order to which the order relates expires or is discharged.
+
+### 68 Effect of furniture order
+(1) The person in whose favour a furniture order is made is entitled, to the exclusion of the person against whom the order is made, to the possession of the furniture, household appliances, and household effects to which the order relates for so long as it is in force.
+(2) Every furniture order has effect and may be enforced as if it were an order of the Court for delivery of chattels granted in favour of the person for whose benefit the furniture order is made.
+
+### 69 Power to vary or discharge furniture order
+(1) On the application of either party, or of the personal representative of either party, the Court may, if it thinks fit, make an order—
+  (a) Extending or reducing any period specified by the Court pursuant to section 67(6) of this Act; or
+  (b) Varying the furniture, household appliances, and household effects to which the order relates; or
+  (c) Varying or discharging any terms and conditions imposed by the Court pursuant to section 67(5) of this Act; or
+  (d) Discharging the furniture order.
+(2) Nothing in this section allows a Court to vary a furniture order—
+  (a) If the protection order to which the furniture order relates is no longer in force; or
+  (b) In circumstances in which the Court could not make a furniture order under section 67 of this Act.
+(3) Where an application is made under this section in respect of a temporary furniture order, the Registrar must assign a hearing date, which must be—
+  (a) As soon as practicable; and
+  (b) Unless there are special circumstances, in no case later than 42 days after the application is made.
+
+**Applications without notice for furniture orders**
+
+### 70 Application without notice for ancillary furniture order or furniture order
+(1) Subject to subsections (3) and (4) of this section, an order under section 63 or section 67 of this Act may be made on an application without notice if the Court is satisfied—
+  (a) That the respondent has physically or sexually abused the applicant or a child of the applicant's family; and
+  (b) That the delay that would be caused by proceeding on notice would or might expose the applicant or a child of the applicant's family to physical or sexual abuse.
+(2) Any ancillary furniture order or furniture order made on an application without notice is a temporary order that, subject to sections 76 to 80 of this Act, and unless it is sooner discharged, becomes final by operation of law 3 months after the date on which it is made.
+(3) No ancillary furniture order may be made on an application without notice unless the Court has made or, at the same time, makes an occupation order or a tenancy order.
+(4) No furniture order may be made on an application without notice unless the Court has made or, at the same time, makes a protection order.
+(5) Where an ancillary furniture order or a furniture order is made on an application without notice while the applicant and the respondent are living in the same dwellinghouse, the order expires—
+  (a) On its discharge by the Court; or
+  (b) In the case of an ancillary furniture order, on the discharge of the occupation order or the tenancy order to which the ancillary furniture order relates; or
+  (c) In the case of a furniture order, on the discharge of the protection order to which the furniture order relates.
+(6) Where an ancillary furniture order or a furniture order is made on an application without notice, the respondent may—
+  (a) Notify the Court, in accordance with section 76 of this Act, that he or she wishes to be heard on whether a final order should be substituted for the temporary order:
+  (b) In the case of an ancillary furniture order, apply pursuant to section 65 of this Act for the order to be varied or discharged:
+  (c) In the case of a furniture order, apply pursuant to section 69 of this Act for the order to be varied or discharged.
+
+**General provisions relating to property orders**
+
+### 71 Applications for property orders by minors
+(1) Subject to sections 11 and 12 of this Act (as applied by section 73 of this Act), a minor—must make the application on his or her own behalf, without a next friend or guardian ad litem, and orders may be made on the application, and enforced, as if the minor were of full age.
+  (a) who is aged 17 years or over; and
+  (b) Who wishes to apply for an order under this Part of this Act—
+(2) Subject to sections 11 and 12, a minor aged 16 years may either make the application on his or her own behalf under subsection (1), or may make it by a representative pursuant to rules of Court; and in either case orders may be made on the application, and enforced, as if the minor were of full age.
+
+### 72 Applications for property orders against minors
+(1) No application for an order under this Part of this Act may be made against a minor under the age of 17 years, unless the minor is or has been married or in a civil union or de facto relationship.
+(2) For the avoidance of doubt, it is hereby declared that—as if the minor were of full age.
+  (a) An application for an order under this Part of this Act may be made against a minor who is or has been married, or in a civil union or de facto relationship, or who has attained the age of 17 years; and
+  (b) Orders may be made on the application, and enforced,—
+
+### 73 Applications for property orders on behalf of persons other than children
+Sections 11 and 12 of this Act, so far as applicable and with the necessary modifications, apply in relation to an application under this Part of this Act as if it were an application under Part 2 of this Act for a protection order.
+
+### 74 Notice to persons with interest in property affected
+(1) Before any order (other than a temporary order) is made under this Part of this Act, such notice as the Court directs must be given to any person having an interest in the property that would be affected by the order.
+(2) Any person to whom notice is given pursuant to subsection (1) of this section is entitled to appear and to be heard in the matter as a party to the application.
+
+### 75 Protection of mortgagees, etc
+(1) Subject to subsection (2) of this section, the rights conferred on any person in respect of any property by any order made under this Act are subject to the rights of any person entitled to the benefit of any mortgage, security, charge, or encumbrance affecting that property if—
+  (a) The mortgage, security, charge, or encumbrance was registered before the order was made; or
+  (b) The rights of the person entitled to that benefit arise under an instrument (including, but not limited to, a hire purchase agreement) executed before the date of the making of the order.
+(2) Notwithstanding anything in any enactment or in any instrument, no money payable under any such mortgage, security, charge, or encumbrance may be called up, or becomes due, by reason only of the making of an order under this Act.
+
+## Part 4 — Procedure
+
+**Temporary orders**
+
+### 76 Respondent to notify intention to appear
+(1) Where the Court makes a temporary order under this Act, the respondent is entitled to notify the Court that he or she wishes to be heard on whether a final order should be substituted for the temporary order.
+(2) The temporary order must contain a notice to the respondent that clearly states—
+  (a) The respondent's right under subsection (1) of this section; and
+  (b) That, subject to sections 36, 78, and 79 of this Act, if the respondent does not take any steps in the proceedings, the temporary order becomes final in accordance with section 77 of this Act by operation of law 3 months after the date on which it is made.
+(3) Where the respondent notifies the Court, in accordance with subsection (1) of this section, that he or she wishes to be heard, the Registrar must assign a hearing date, which must be—
+  (a) As soon as practicable; and
+  (b) Unless there are special circumstances, in no case later than 42 days after the receipt of the respondent's notice.
+
+### 77 Procedure where respondent does not require hearing
+(1) Subject to sections 36, 78, and 79 of this Act and to subsections (2) and (3) of this section, unless the respondent notifies the Court in accordance with section 76(1) of this Act that he or she wishes to be heard, or the order is sooner discharged, a temporary order becomes final by operation of law 3 months after the date on which it is made.
+(2) No temporary order becomes final pursuant to subsection (1) of this section unless—
+  (a) The respondent has been served with a copy of the order not less than 10 clear days before the 3 month period specified in subsection (1) of this section elapses; and
+  (b) The respondent has not notified the Court, before that period elapses, that he or she wishes to be heard.
+(3) Where, pursuant to subsection (2)(a) of this section, a temporary order does not become final, the Court may from time to time extend the period within which the temporary order can be served. No such extensions may extend that period by more than 3 months in total, and the temporary order continues in force until the expiry of any such extensions.
+(4) Where the period for service is extended pursuant to subsection (3) of this section, and, at the expiry of the period or periods, the temporary order has not been served, the order lapses.
+
+### 78 Court may require hearing before order becomes final
+(1) Where, on or after making a temporary order, the Court considers that there is good reason why the order should not become final in accordance with section 77 of this Act without a hearing at which the applicant or the respondent, or both, are present or represented, the Court, of its own motion, may direct that there be a hearing.
+(2) A direction made under subsection (1) of this section may—
+  (a) Relate to the whole, or to specified parts, of the order made or sought; and
+  (b) Be made even though the respondent does not wish to be heard.
+(3) Where the direction under subsection (1) of this section relates to specified parts of the order made or sought, the remaining parts of the order may become final in accordance with section 77 of this Act.
+(4) Where, pursuant to subsection (1) of this section, the Court directs that there be a hearing, the Registrar must assign a hearing date, which must be as soon as practicable.
+(5) Without limiting section 82 of this Act, where the Court makes a direction under subsection (1) of this section, it may issue a summons, in accordance with section 82(4) of this Act, requiring the respondent to attend the Court at a place and time specified in the summons.
+
+### 79 Application of sections 76 to 78 to other affected persons
+(1) The provisions of sections 76, 77, and 78 of this Act, so far as applicable and with the necessary modifications, apply to an associated respondent as if the person were the respondent.
+(2) Where, pursuant to section 76 of this Act, the associated respondent notifies the Court that he or she wishes to be heard, but the respondent does not do so, the temporary order becomes final in accordance with section 77(1) of this Act in so far as it relates to the respondent, even though a hearing is required on whether the order is to become final in respect of the associated respondent.
+(3) No occupation order, tenancy order, ancillary furniture order, or furniture order that is a temporary order becomes final unless the Court is satisfied that—
+  (a) Notice has been given pursuant to section 74 of this Act to any person having an interest in the property affected by the order; and
+  (b) The person so notified takes no steps in the proceedings.
+
+### 80 Procedure where hearing required
+(1) Where, pursuant to section 76 or section 79 of this Act, the respondent or an associated respondent or any person to whom section 79(3) of this Act applies notifies the Court that he or she wishes to be heard, or in any other case where a hearing is required or held, the Court may at the hearing—
+  (a) Discharge the temporary order; or
+  (b) Discharge the temporary order and make a final order in its place (whether with or without variation); or
+  (c) In a case to which section 78(3) or section 79(2) of this Act applies and where part of the temporary order has become final in accordance with section 77 of this Act,—
+    (i) Confirm the temporary order to the extent that it has not already become final:
+    (ii) Confirm the temporary order to the extent that it has not already become final, but exercise, in relation to that part of the temporary order so confirmed, any power conferred by this Act to vary or alter the terms and conditions of the order, or to impose new terms and conditions:
+    (iii) Discharge the temporary order to the extent that it has not already become final; or
+  (d) On good cause being shown, adjourn the hearing to a fixed time and place.
+(2) Where, pursuant to subsection (1)(a) of this section, the Court discharges a temporary tenancy order, the discharge of that order has effect as if the order had been discharged under section 59 of this Act, and the tenancy revests accordingly.
+(3) Where, pursuant to subsection (1)(c) of this section, the Court confirms part of a temporary order (whether with or without variation), that part of the temporary order becomes final, but that confirmation does not affect the order to the extent that it has already become final.
+(4) Where a hearing is adjourned under subsection (1)(d) of this section to another day, the Court must not, at the adjourned hearing, exercise that power to adjourn the hearing to a further date unless there are special reasons for doing so.
+(5) Where a hearing is adjourned pursuant to subsection (1)(d) of this section to a specified date, the temporary order continues in force until that date.
+
+**General provisions**
+
+### 81 Court may appoint lawyer
+(1) In any proceedings under this Act (not being criminal proceedings), the Court may appoint a lawyer—
+  (a) To assist the Court; or
+  (b) To represent a child—
+    (i) In any proceedings on an application made, on behalf of that child, in accordance with section 9(2) of this Act, for a protection order; or
+    (ii) In any proceedings relating to or arising out of a protection order made, under this Act, on any such application made on that child's behalf; or
+  (c) To represent any other person (being a person to whom section 11 of this Act applies)—
+    (i) In any proceedings on an application made, on behalf of that person, in accordance with section 11(2) of this Act, for any order under this Act; or
+    (ii) In any proceedings relating to or arising out of an order made, under this Act, on any such application made on that person's behalf.
+(2) A lawyer appointed under this section may call any person as a witness in the proceedings, and may cross-examine witnesses called by any party to the proceedings or by the Court.
+(3) Fees for professional services provided by lawyers appointed under this section, and reasonable expenses incurred,—
+  (a) May be determined in accordance with regulations made under this Act; and
+  (b) Are payable out of public money appropriated by Parliament for the purpose.
+(4) The bill of costs rendered by a lawyer appointed under this section must be given to the Registrar of the Court in which the proceedings were heard, and the Registrar may tax the bill of costs.
+(5) If the lawyer is dissatisfied with the decision of the Registrar as to the amount of the bill, the lawyer may, within 14 days after the date of the decision, apply to a Judge of the Court to review the decision; and the Judge may make such order varying or confirming the decision as the Judge considers fair and reasonable.
+
+### 82 Power of Court to call witnesses
+(1) In any proceedings before a Court under this Act (not being criminal proceedings), the Court may, of its own motion, call as a witness any person whose evidence may, in its opinion, be of assistance to the Court.
+(2) Without limiting subsection (1) of this section, the power conferred by that subsection includes power to call as a witness—
+  (a) Any party to the proceedings:
+  (b) the spouse or partner of such party:
+  (c) An associated respondent:
+  (d) A specified person.
+(3) Where the Court calls a witness under this section,—
+  (a) The witness has the same privilege to refuse to answer any question as the witness would have if called by a party to the proceedings; and
+  (b) The witness may be examined and re-examined—
+    (i) By the Court:
+    (ii) By or on behalf of any party to the proceedings:
+    (iii) By any lawyer appointed pursuant to section 81 of this Act in respect of the proceedings.
+(4) Sections 20, 38, and 39 of the Summary Proceedings Act 1957, so far as applicable and with the necessary modifications, apply to every person called as a witness by the Court under this section as if that person had been called by a party to the proceedings.
+(5) The expenses of any witness called by the Court under this section are payable—
+  (a) In accordance with the scale of witnesses' expenses prescribed by regulations made under this Act; and
+  (b) In the first instance, out of public money appropriated by Parliament for the purpose.
+
+### 83 Conduct of proceedings
+(1) No person may be present during the hearing of any proceedings under this Act (other than criminal proceedings) except the following persons:
+  (a) Officers of the Court:
+  (b) The parties to the proceedings:
+  (c) Any lawyer representing any party to the proceedings:
+  (d) Any lawyer appointed pursuant to section 81 of this Act in respect of the proceedings:
+  (e) Where, pursuant to any provision of this Act, any person is bringing or defending the proceedings on behalf of another person,—
+    (i) The person so bringing or defending the proceedings:
+    (ii) The person on whose behalf the proceedings are so brought or defended:
+  (f) Witnesses:
+  (g) Any person who is nominated by the applicant for a protection order or by a protected person in accordance with subsection (2) of this section:
+  (h) Any other person whom the Judge permits to be present.
+(2) For the purposes of any proceedings to which this section applies, any party to the proceedings (being an applicant for a protection order or a protected person) may nominate a reasonable number of persons (being members of his or her family, whanau, or family group, or any other person) to attend any hearing of those proceedings for the purpose of providing support to that person.
+(3) Any witness must leave the courtroom if asked to do so by the Judge.
+(4) No person present in the courtroom pursuant to subsection (1)(g) of this section is entitled to be heard at the hearing, and the Court may exclude any such person from the hearing at any time.
+(5) Nothing in this section limits any other power of the Court to hear proceedings in private or to exclude any person from the Court.
+
+### 84 Evidence
+In any proceedings under this Act (other than criminal proceedings), and whether by way of hearing in the first instance or by way of appeal, or otherwise, the Court may receive any evidence that it thinks fit, whether or not it is otherwise admissible in a court of law.
+
+### 85 Standard of proof
+Every question of fact arising in any proceedings under this Act (other than criminal proceedings) must be decided on the balance of probabilities.
+
+### 86 Orders by consent
+Subject to section 18 of this Act, in any proceedings before a Court under this Act, the Court may make any order under this Act by the consent of all of the parties to the proceedings.
+
+### 87 Explanation of orders
+(1) Where, in any proceedings under this Act (other than criminal proceedings), the respondent or associated respondent, as the case may be, is before the Court, then on making an order (other than an order discharging an order made under this Act), the Judge must explain to that person—
+  (a) The effect of the order; and
+  (b) The consequences that may follow if the person fails to comply with the terms of the order; and
+  (c) The means by which the order can be varied or discharged.
+(2) A Registrar may give the explanation required by subsection (1) of this section.
+(3) Failure to give the explanation required by subsection (1) of this section does not affect the validity of the order made.
+(4) Where the Court makes an order under this Act, the copy of the order that is given to or served on the respondent (and, where applicable, the associated respondent) must include a notice stating—
+  (a) The consequences that may follow if the person fails to comply with the terms of the order; and
+  (b) The means by which the order can be varied or discharged.
+(5) Failure to include in a copy of an order made under this Act the notice required by subsection (4) of this section does not affect the validity of the order made.
+
+### 88 Copies of orders to be sent to Police
+(1) On the making of a temporary order or a final order under this Act (including any order varying or discharging an order made under this Act or any order made in substitution for any such order), the Registrar of the Court in which the order is made must ensure that a copy of the order is made available, without delay, to the District Commander at the appropriate Police District Headquarters.
+(2) Where a copy of an order is made available to a District Commander in accordance with subsection (1) of this section, the District Commander must ensure that a copy of that order, or a copy of that copy, is made available, without delay, to the officer in charge of the Police station nearest to where the protected person or, as the case requires, each protected person, resides.
+(3) For the purposes of this section, a copy of an order, or a copy of a copy of an order, may be made available in any of the following ways:
+  (a) By sending the copy by means of electronic transmission (whether by way of facsimile transmission, electronic mail, or other similar means of communication):
+  (b) By entering the copy on a database maintained in electronic form, where that database may be accessed by the person or persons to whom the copy is required to be made available:
+  (c) By making the copy available in such manner as is prescribed by regulations made under this Act:
+  (d) By making the copy available in such other manner as is appropriate in the circumstances.
+
+### 89 Information on service of certain orders to be communicated to Police
+Where any person serves a copy of a protection order, or a copy of any order varying a protection order, on any person (being the respondent or an associated respondent) to whom the standard condition relating to weapons applies, the person so serving the order must, without delay, give notice to the officer in charge of the Police station nearest to where the copy of the order was served, of—
+  (a) The place where the copy of the order was so served; and
+  (b) The date and time of service.
+
+### 90 Police to consider exercise of powers under Arms Act 1983
+(1) This section applies where a copy of an order, or a copy of a copy of an order, is made available to the officer in charge of a Police station in accordance with section 88(2) of this Act, except where—
+  (a) The order discharges a protection order, and no other protection order is made in substitution for that protection order; or
+  (b) The order discharges an order made under Part 3 of this Act, and no other order under that Part of this Act is made in substitution for that order; or
+  (c) The order varies an order made under Part 3 of this Act.
+(2) Where this section applies, the officer in charge of the Police station must immediately establish whether or not the respondent and any associated respondent named in the order hold a firearms licence.
+(3) Where this section applies, and the officer in charge of the Police station knows that the respondent or any associated respondent, or both, hold a firearms licence (whether that knowledge arises from any inquiries carried out in accordance with subsection (2) of this section, or the terms of the protection order, or otherwise howsoever), then, except where the firearms licence is deemed to be revoked pursuant to section 21(2) of this Act, the officer in charge must arrange for an appropriate person to consider immediately whether or not the powers conferred by sections 27(1) and 27A of the Arms Act 1983 (which relate to the revocation of a firearms licence) should be exercised in that case.
+(4) Where this section applies, the officer in charge of the Police station must, in every case, arrange for an appropriate person to consider immediately whether or not the powers conferred by section 60A of the Arms Act 1983 (which relates to the seizure of a firearm in cases of domestic violence) should be exercised in that case.
+
+**Appeals**
+
+### 91 Appeals to High Court
+(1AA) This subsection applies to a decision of a Court, in proceedings under this Act, to—
+  (a) make or refuse to make an order; or
+  (b) dismiss the proceedings; or
+  (c) otherwise finally determine the proceedings.
+(1) A party to proceedings in which there is made a decision to which subsection (1AA) applies, or any other person prejudicially affected by the decision, may appeal to the High Court against the decision.
+(2) The High Court Rules and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
+(3) On the ex parte application of the appellant, the Court appealed from may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
+(3A) Subsection (3) overrides subsection (2).
+(4) Subject to section 93 of this Act, the decision of the High Court on an appeal to that Court under this section is final.
+
+### 92 Application of provisions relating to minors, etc
+Sections 9, 11, and 12 of this Act, so far as applicable and with the necessary modifications, apply in relation to—as they apply in relation to the making of an application for a protection order.
+  (a) The making and prosecution of an appeal under section 91 or section 93 of this Act; and
+  (b) The defending of any such appeal—
+
+### 93 Appeals to Court of Appeal
+(1) A party to any appeal under section 91 of this Act may, with the leave of the Court of Appeal, appeal to the Court of Appeal against any determination of the High Court on a question of law arising in that appeal.
+(2) On an appeal to the Court of Appeal under this section, the Court of Appeal has the same power to adjudicate on the proceedings as the High Court had.
+(3) The decision of the Court of Appeal on an appeal to that Court under this section, and on an application to it under this section for leave to appeal, is final.
+
+### 94 Appeals to be heard as soon as practicable
+Every appeal under section 91 or section 93 of this Act must be heard as soon as practicable after the appeal is lodged.
+
+### 95 Effect of appeal
+Except where the Court making the order appealed from otherwise directs,—
+  (a) The operation of an order made under this Act is not suspended by an appeal under section 91 or section 93 of this Act; and
+  (b) Every order made under this Act may be enforced in the same manner in all respects as if no such appeal were pending.
+
+## Part 5 — Enforcement of protection orders overseas and foreign protection orders
+
+**Enforcement of New Zealand orders overseas**
+
+### 96 Enforcement of New Zealand orders overseas
+(1) Subject to subsections (2) and (3) of this section, the Secretary may request the appropriate court or authority in a foreign country to make arrangements for the enforcement in that country of a protection order made by a New Zealand Court.
+(2) Where a person wishes a request to be transmitted to a foreign country pursuant to subsection (1) of this section, the person must make a request in writing in the first instance to the Registrar of the Court in which the protection order was made.
+(3) Where, on receiving a request made pursuant to subsection (2) of this section, the Registrar is satisfied that—the Registrar must send the request to the Secretary for transmission to the foreign country in accordance with subsection (1) of this section.
+  (a) The request is made by or on behalf of a protected person; and
+  (b) The request relates to a protection order made by a New Zealand Court; and
+  (c) Orders of that nature may be enforced in the foreign country to which the request relates; and
+  (d) There are reasonable grounds for believing that enforcement of the order in the foreign country is necessary for the protection of the protected person,—
+(4) Where, pursuant to this section, a Registrar or the Secretary receives a request for the transmission of a protection order to a foreign country, the Registrar or, as the case requires, the Secretary may require the person by or on whose behalf the request is made to supply to the Registrar or, as the case requires, the Secretary such information or evidence (including certified copies of the order) as may be necessary—
+  (a) To enable the Registrar to determine whether or not the request satisfies the requirements of subsection (3) of this section; and
+  (b) To secure enforcement of the order in the foreign country.
+(5) Where, in relation to a request made under subsection (2) of this section, a Registrar or the Secretary imposes a requirement pursuant to subsection (4) of this section, the Registrar or, as the case requires, the Secretary may refuse to take any action, or further action, in relation to that request until that requirement is complied with.
+(6) Nothing in this section prevents—
+  (a) A protected person from applying to a court or other appropriate authority in a foreign country for enforcement, in that country, of a protection order; or
+  (b) The variation or discharge, pursuant to this Act, of a protection order that is enforced in a foreign country.
+(7) In this section, the term enforcement includes registration and enforcement; and enforced has a corresponding meaning.
+
+**Enforcement of foreign protection orders**
+
+### 97 Registration of foreign protection orders
+(1) A foreign protection order may be registered in a Court in accordance with this section.
+(2) Where the Secretary receives—
+  (a) A certified copy of a foreign protection order; and
+  (b) A certificate—
+    (i) That is signed by an officer of a court in the foreign country in which the order was made; and
+    (ii) That contains a statement that the order is, at the date of the certificate, enforceable in the foreign country; and
+  (c) Written information tending to show that a person for whose protection the order was made—the Secretary must send the documents to a Registrar of a Court for the purposes of registration.
+    (i) Is present in New Zealand; or
+    (ii) Is proceeding to New Zealand; or
+    (iii) Is about to proceed to New Zealand,—
+(3) The Registrar of the Court must register the foreign protection order by filing a certified copy of the order in the Court.
+(4) Where the Registrar of a Court receives the documents described in subsection (2) of this section other than from the Secretary, the Registrar may register the order if he or she is satisfied that the nature of the documents is such that, if they had been transmitted to the Secretary, they would have been sent to the Registrar by the Secretary.
+
+### 98 Copies of registered foreign protection orders to be sent to Police
+Where a foreign protection order is registered pursuant to section 97 of this Act, sections 88 to 90 of this Act apply—as if the foreign protection order were a protection order made under this Act.
+  (a) In relation to that order; and
+  (b) In relation to any variation of that order pursuant to section 99(c) of this Act,—
+
+### 99 Effect of registration
+Subject to section 101 of this Act, upon registration pursuant to section 97 of this Act, a foreign protection order—as if it were a protection order made under this Act on the date of registration.
+  (a) Has effect; and
+  (b) May be enforced; and
+  (c) In the terms in which it has effect in New Zealand, may be varied,—
+
+### 100 Variation of registered foreign protection order
+(1) Where, pursuant to section 99(c) of this Act, a Court makes an order varying a foreign protection order, the Registrar of the Court—
+  (a) Must, in the prescribed manner, notify the court or the appropriate authority in the country in which the order was made of the variation; and
+  (b) Unless the Registrar is the Registrar of the Court in which the foreign protection order is registered, must forward to the Registrar of that Court a copy of the order varying the foreign protection order.
+(2) The Registrar of the Court in which the foreign protection order is registered, on receiving notice of the variation of that order, must note the court records accordingly.
+
+### 101 Registered foreign protection orders not to be enforced in certain circumstances
+(1) Where a Court is satisfied that a foreign protection order—the Court must not enforce or vary the order under this Act.
+  (a) Was not, at the time of its registration in New Zealand, enforceable in the country in which it was made; or
+  (b) Has, since its registration in New Zealand, ceased to be enforceable in the country in which it was made,—
+(2) Where the Registrar of the Court in which a foreign protection order is registered is satisfied—the Registrar must cancel the registration of the order and must, in the prescribed manner, notify the court or the appropriate authority in the country in which the order was made of the cancellation.
+  (a) That a New Zealand Court has refused, pursuant to subsection (1) of this section, to enforce or vary the order under this Act; or
+  (b) That the order is not enforceable in the country in which it was made; or
+  (c) That registration of the order in New Zealand is no longer necessary,—
+(3) For the purposes of this section, a foreign protection order is not unenforceable in the country in which it was made solely by reason of the fact that the person to whom the order relates, or any other person affected by the order, is no longer in that country.
+
+### 102 Evidence taken overseas
+Where, pursuant to section 99 of this Act, an application is heard in a Court, the evidence of any person beyond New Zealand may be taken in accordance with the rules of the High Court covering the examination of witnesses beyond New Zealand, and those rules, as far as they are applicable and with all necessary modifications, apply.
+
+### 103 Proof of documents
+(1) For the purposes of this Part of this Act,—
+  (a) Any document purporting to be signed by any Judge or officer of a court in any prescribed foreign country is, in the absence of evidence to the contrary, deemed to have been so signed without proof of the signature or judicial or official character of the person appearing to have signed it; and
+  (b) The officer of a court by whom a document purports to be signed is, in the absence of evidence to the contrary, deemed to have been the proper officer of the court to sign the document.
+(2) Any document purporting to be signed, certified, or verified by any of the persons mentioned in subsection (1) of this section is admissible in evidence in proceedings under this Part of this Act if it appears to be relevant to those proceedings.
+
+### 104 Depositions to be evidence
+Depositions taken for the purposes of this Part of this Act in a court in any prescribed foreign country may be received in evidence in any proceedings under this Part of this Act.
+
+### 105 Prescribed foreign countries
+(1) The Governor-General may from time to time, by Order in Council, declare any country outside New Zealand to be a prescribed foreign country for the purposes of this Act.
+(2) Any Order in Council made under subsection (1) of this section may specify the courts of the foreign country in relation to which the order is to have effect, or may otherwise modify the application of that order to that other country.
+(3) Any Order in Council made under subsection (1) of this section may be revoked or varied by a subsequent Order in Council.
+
+### 106 Evidence of orders made in foreign country
+Nothing in this Part of this Act precludes a Court from receiving evidence of an order made in a foreign country (whether or not that country is a prescribed foreign country) with respect to the protection of any person from domestic violence.
+
+## Part 6 — Non-publication of information relating to protected person on public registers
+
+**Interpretation**
+
+### 107 Interpretation
+In this Part of this Act, unless the context otherwise requires,—
+  - **Code of practice** or means a code of practice issued under section 122 of this Act
+  - **Direction** means a direction made under section 109 of this Act
+  - **Privacy Commissioner** means the Privacy Commissioner appointed under the Privacy Act 1993
+  - **Public register** has the same meaning as in section 58 of the Privacy Act 1993
+  - **Relevant information** , in relation to any person, means information that discloses, or is likely to disclose, the whereabouts of that person.
+
+**Applications for directions**
+
+### 108 Protected person may apply for direction that identifying information on public register not be publicly available
+(1) Where a protection order is in force, any protected person may at any time apply to the agency responsible for administering any public register for a direction that any relevant information—must not be made available to the public.
+  (a) That relates to that protected person, or to any protected person who is a child of the applicant's family, or to both; and
+  (b) That is included, or is about to be included, on that public register—
+(2) Every application under subsection (1) of this section—
+  (a) Must be made in the prescribed manner (if any); and
+  (b) Must be made in the prescribed form (if any); and
+  (c) Must, so far as practicable, specify with due particularity the relevant information in respect of which the direction is sought, so that the agency may locate that relevant information.
+(3) An agency to which an application is made under subsection (1) of this section must, without delay, and in no case after the expiry of the prescribed period after receiving the application,—
+  (a) Decide, in accordance with section 109 of this Act, whether the application is to be granted or declined; and
+  (b) Notify the applicant of its decision in accordance with section 110 of this Act.
+
+### 109 Agency to determine application
+Where an application is made under section 108(1) of this Act to an agency, the agency may make the direction sought if the agency is satisfied that—
+  (a) A protection order is in force in respect of the applicant; and
+  (b) Making the direction would not unduly compromise the public register to which the application relates.
+
+### 110 Agency to notify applicant of decision
+(1) Where an agency makes a decision in respect of an application made under section 108(1) of this Act, the agency must give written notice of its decision to the applicant.
+(2) Where the application is declined, the notice under subsection (1) of this section must—
+  (a) Specify the reasons for the decision; and
+  (b) Notify the applicant of that person's right to complain to the Privacy Commissioner pursuant to section 118 of this Act, including the time within which that complaint must be made.
+(3) Where an agency makes a direction in relation to a protection order, the agency must also give written notice of that direction to the Registrar of the Court that made that protection order.
+
+### 111 Information not to be disclosed pending determination of application or complaint
+Where an application is made, pursuant to section 108(1) of this Act, to an agency, then unless the application is sooner withdrawn, section 112 of this Act applies, as if the direction sought by the applicant had been made, from the expiry of the prescribed period after the date on which the application is received by the agency—
+  (a) Until the expiry of the prescribed period after notice of the agency's decision on that application is communicated to the applicant; and
+  (b) Where, before the expiry of the period referred to in paragraph (a) of this section, the Privacy Commissioner extends the period within which a complaint relating to that decision may be made under section 118 of this Act, until the expiry of that period as so extended; and
+  (c) If a complaint relating to that decision is made under section 118 of this Act, until the complaint is finally dealt with or is withdrawn, whichever occurs first.
+
+**Effect of direction**
+
+### 112 Effect of direction
+(1) Notwithstanding any other enactment, but subject to section 116 of this Act and to any regulations made under this Act, where, in respect of any public register, an agency makes a direction in respect of any relevant information, and for as long as that direction remains in force,—but that relevant information is, for all other purposes, deemed to be included on the public register.
+  (a) That relevant information must not be included in—that is made available to the public after the direction is made; and
+    (i) Any copy (including a print-out) of the whole or any part of the public register; or
+    (ii) Any index to the register; or
+    (iii) Any extract from, or certificate as to information recorded on, the register—
+  (b) That relevant information must not be made available for inspection by members of the public (other than the person to whom the relevant information relates) who wish to inspect the register or any index to the register; and
+  (c) No application made, by or in relation to the person to whom the relevant information relates, for the inclusion of any information on the public register, to the extent that the application contains relevant information relating to that person, must be made available for inspection by members of the public (other than the person to whom the relevant information relates);—
+(2) The references in paragraphs (a) to (c) of subsection (1) of this section to relevant information relate only to such relevant information relating to the person to whom the direction relates as the agency concerned is reasonably able to identify, having regard to the information provided by the applicant for the direction in his or her application under section 108(1) of this Act.
+
+### 113 Direction not applicable to relevant information subsequently included in register
+(1) Where, in relation to a public register, a direction applies in relation to relevant information, then—
+  (a) Paragraphs (a) and (b) of subsection (1) of section 112 of this Act apply only in relation to relevant information included, or about to be included, on that public register at the date on which the direction is made; and
+  (b) Paragraph (c) of that subsection applies only in relation to an application of the kind referred to in that paragraph, where the application has been made before the date on which the direction is made.
+(2) One or more directions relating to the same public register may be in force, at the same time, in relation to the same person.
+
+**Duration of direction**
+
+### 114 Duration of direction
+(1) Where—then, unless the direction is sooner revoked or ceases to be in force pursuant to subsection (3) of this section, the direction expires at the end of the period of 5 years after the date on which the direction is made.
+  (a) A direction is made in respect of a protection order; and
+  (b) At the time the direction is made, the protection order is a final order,—
+(2) Where—the following provisions apply:
+  (a) A direction is made in respect of a protection order; and
+  (b) At the time the direction is made, the protection order is a temporary order,—
+  (c) Subject to paragraph (d) of this subsection, the direction, unless sooner revoked, expires at the end of the period of 4 months after the date on which the direction is made:
+  (d) If, before the expiry of the period referred to in paragraph (c) of this subsection,—then, unless the direction is sooner revoked or ceases to be in force pursuant to subsection (3) of this section, the direction continues in force and expires at the end of the period of 5 years after the date on which the direction is made.
+    (i) The applicant for the direction supplies, to the agency by which the direction is made, satisfactory evidence that the temporary protection order has become final by operation of law in accordance with section 77 of this Act, or a copy of a copy of a final protection order made in substitution for the temporary protection order; or
+    (ii) Pursuant to section 115 of this Act, a Registrar notifies the agency that a final protection order has been made in substitution for the temporary protection order,—
+(3) Where—the direction ceases to be in force on the expiry of the prescribed period after the date on which the agency receives that notification.
+  (a) A direction made by an agency is in force in respect of a final protection order; and
+  (b) Either,—
+    (i) The person on whose application the direction was made notifies that agency that the protection order has been discharged; or
+    (ii) Pursuant to section 115 of this Act, a Registrar notifies the agency that the protection order has been discharged,—
+(4) Where, on the application of any person, an agency makes a direction, that agency must, on the application of that person, revoke that direction.
+(5) The fact that a direction expires or is revoked or ceases to be in force pursuant to this section does not prevent the making of another direction in respect of the same relevant information.
+
+### 115 Registrar to notify agency of making or discharge of protection order
+Where, in accordance with section 110(3) of this Act, an agency notifies a Registrar of a Court that a direction has been made in relation to a protection order, then,—the Registrar of the Court that made that substitute order or, as the case requires, discharged the order must, without delay, notify that fact to the agency.
+  (a) In the case of a temporary protection order, on the making of a final protection order in substitution for that temporary order; or
+  (b) On the discharge of that protection order (whether a temporary order or a final order),—
+
+**Disclosure of relevant information with consent**
+
+### 116 Disclosure of relevant information with consent of protected person
+(1) This section applies to any information the disclosure or making available of which would otherwise be prohibited by section 111 or section 112 of this Act.
+(2) Notwithstanding sections 111 and 112 of this Act, but subject to subsection (3) of this section, where, in respect of any information to which this section applies, the person to whom the information relates—the information may be disclosed or made available, but only in accordance with, and to the extent permitted by, that authority.
+  (a) Is requested, in writing, to authorise the agency concerned to disclose or make available some or all of that information; and
+  (b) Gives such authority,—
+(3) Nothing in this section authorises any information to which this section applies to be disclosed or made available in circumstances in which that information could not, apart from this section, be lawfully disclosed or made available.
+
+**Other enactments not affected**
+
+### 117 Other enactments not affected
+Nothing in this Part of this Act limits or affects—
+  (a) Section 115 of the Electoral Act 1993; or
+  (b) Section 19(5) of the Transport (Vehicle and Driver Registration and Licensing) Act 1986.
+
+**Complaints to Privacy Commissioner**
+
+### 118 Complaints to Privacy Commissioner
+(1) Where any person makes an application to an agency pursuant to section 108(1) of this Act, and that agency declines to make the direction sought by the applicant, the applicant may make a complaint to the Privacy Commissioner, and the Privacy Commissioner may investigate that complaint.
+(2) If, in relation to an application made, pursuant to subsection (1) of section 108 of this Act, to an agency, the agency fails, within the time limit fixed by subsection (3) of that section, to comply with paragraph (a) or paragraph (b) of subsection (3) of that section, then,—
+  (a) For the purposes of subsection (1) of this section, that failure is deemed to be a decision declining to make the direction sought by the applicant; and
+  (b) For the purposes of subsection (3) of this section, that failure is deemed to be a decision notice of which was communicated to the applicant on the expiry of the prescribed period after the agency received the application.
+(3) Every complaint made to the Privacy Commissioner pursuant to subsection (1) of this section must be made within the prescribed period after notice of the decision is communicated to the complainant, or within such further period as the Privacy Commissioner may allow on application made either before or after the expiration of the prescribed period.
+(4) Where, pursuant to subsection (3) of this section, the Privacy Commissioner extends the period within which a complaint may be made under this section in relation to an agency's decision, the Privacy Commissioner must forthwith notify that agency of that extension and of the period of the extension.
+
+### 119 Investigation of complaint
+On completing any investigation conducted pursuant to section 118(1) of this Act, the Privacy Commissioner must report the Commissioner's findings to the chief administrative officer of the agency whose actions were the subject-matter of the investigation, and any report may include a recommendation that the agency make the direction sought by the complainant.
+
+### 120 Application of certain provisions of Privacy Act 1993
+Sections 68, 70, 71, 73, 75, and 80, and Parts 9 and 12, of the Privacy Act 1993, so far as applicable and with all necessary modifications, apply in relation to the making of a complaint pursuant to section 118 of this Act and to any investigation conducted by the Privacy Commissioner pursuant to section 118 or section 119 of this Act.
+
+**Regulations**
+
+### 121 Regulations
+(1) Without limiting section 127 of this Act, regulations may be made under that section for all or any of the following purposes:
+  (a) Prescribing the manner in which applications under section 108(1) of this Act must be made:
+  (b) Prescribing such forms as are necessary for the purposes of this Part of this Act, or authorising any specified person or persons to prescribe or approve forms, and requiring the use of such forms:
+  (c) Prescribing the periods required to be prescribed for the purposes of sections 108(3), 111, 114(3), and 118 of this Act:
+  (d) Prescribing circumstances in which, and conditions on which, relevant information may be made available to the public even though a direction is in force in respect of that relevant information, while still ensuring, to the greatest possible extent, the protection of the person to whom the relevant information relates:
+  (e) Prescribing the manner in which any notice required by this Part of this Act to be given by or to any person is to be so given.
+(2) Without limiting subsection (1) of this section or section 127 of this Act, regulations made pursuant to subsection (1) of this section—
+  (a) May make different provision for different agencies and different public registers:
+  (b) May be made to apply generally in respect of all public registers, or in respect of any specified public register or of public registers of any specified class or classes.
+
+**Codes of practice**
+
+### 122 Codes of Practice
+(1) The Privacy Commissioner may from time to time issue a code of practice.
+(2) A code of practice may,—
+  (a) To the extent that no regulations made pursuant to section 121 of this Act apply,—
+    (i) Prescribe the manner in which applications under section 108(1) of this Act must be made:
+    (ii) Prescribe forms of applications for the purposes of section 108(1) of this Act:
+    (iii) Prescribe, for the purposes of section 108(1) of this Act, information that must be provided by applicants for the purpose of enabling the location of relevant information:
+  (b) Prescribe how section 109(b) of this Act is to be applied:
+  (c) Prescribe how section 112 of this Act is to apply, or is to be complied with:
+  (d) Prescribe how section 113 of this Act is to apply:
+  (e) Provide for the review of the code by the Privacy Commissioner:
+  (f) Provide for the expiry of the code.
+(3) A code of practice may apply in relation to any one or more of the following:
+  (a) Any specified public register or class or classes of public register:
+  (b) Any specified agency or specified class or classes of agency:
+  (c) Any specified relevant information or class or classes of relevant information.
+
+### 123 Application of certain provisions of Privacy Act 1993
+Sections 47 to 52 of the Privacy Act 1993, so far as applicable and with all necessary modifications, apply in relation to the issuing of a code of practice under this Act, and in relation to any code of practice issued under this Act, as if the issuing were done, or, as the case may be, the code were issued, under that Act.
+
+### 124 Effect of code
+(1) Subject to subsection (2) of this section, where a code of practice is in force, the code has effect according to its tenor.
+(2) To the extent that a code is inconsistent with any provision of this Act or of any regulations made under this Act, the code is, to the extent of the inconsistency, of no effect.
+
+## Part 7 — Miscellaneous provisions
+
+**Restriction on publication**
+
+### 125 Restriction on publication of reports of proceedings
+(1) No person shall publish any report of proceedings under this Act (other than criminal proceedings) except with the leave of the Court that heard the proceedings.
+(2) Every person who contravenes subsection (1) of this section commits an offence and is liable on summary conviction,—
+  (a) In the case of an individual, to a fine not exceeding $1,000:
+  (b) In the case of a body corporate, to a fine not exceeding $5,000.
+(3) Nothing in this section limits—
+  (a) The provisions of any other enactment relating to the prohibition or regulation of the publication of reports or particulars relating to judicial proceedings; or
+  (b) The power of any Court to punish any contempt of Court.
+(4) Nothing in this section applies to the publication of—
+  (a) Any report in any publication that—
+    (i) Is of a bona fide professional or technical nature; and
+    (ii) Is intended for circulation among members of the legal or medical professions, officers of the Public Service, psychologists, programme providers carrying out functions pursuant to this Act, counsellors carrying out duties under the Family Proceedings Act 1980, or social welfare workers:
+  (b) Statistical information relating to proceedings under this Act:
+  (c) The results of any bona fide research relating to proceedings under this Act, as long as the publication does not include any name or particulars likely to lead to the identification of any of the parties to the proceedings, or of any other person to whom the proceedings relate.
+(5) In subsection (4)(a)(ii), psychologist means a health practitioner who is, or is deemed to be, registered with the Psychologists Board continued by section 114(1)(a) of the Health Practitioners Act 2003 as a practitioner of the profession of psychology.
+
+**Rules and regulations**
+
+### 126 Rules of Court
+(1) In addition to all other powers conferred by the District Courts Act 1947, the Governor-General may from time to time, by Order in Council, make rules—
+  (a) Regulating the practice and procedure of District Courts in proceedings under this Act:
+  (b) Providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(1A) Rules may be made under section 16A of the Family Courts Act 1980 relating to the practice and procedure of Family Courts in proceedings under this Act.
+(2) Without limiting subsection (1) of this section or section 16A of the Family Courts Act 1980, rules made under either of those provisions may—
+  (a) Prescribe the procedure for the service of notices and other documents for the purposes of this Act, and provide for substituted service, and for service to be dispensed with, in such circumstances as are specified in the rules:
+  (b) Prescribe such forms as are necessary for the purposes of this Act, or authorise any specified person or persons to prescribe or approve forms, and require the use of such forms:
+  (c) Prescribe circumstances in which applications under this Act may be made without notice, and circumstances in which applications under this Act must be made on notice:
+  (d) Make such provision as is necessary or desirable in relation to representatives, including (without limitation),—
+    (i) Providing for the appointment, retirement, and removal of representatives:
+    (ii) Prescribing the circumstances in which a representative is or is not responsible for costs, and providing for the recovery, by a representative, of costs paid or incurred by the representative while acting as such:
+    (iii) Providing for the conduct of proceedings brought, on a person's behalf, by a representative:
+  (e) Prescribe the procedure consequent on a temporary order, or part of a temporary order, becoming final in accordance with section 77 of this Act, which procedure may include (without limitation) the issue by a Registrar of a certificate, order, or other document confirming that the temporary order has become final (in whole or in part), and setting out the terms and conditions of the final order:
+  (f) Provide that Registrars may exercise specified powers of the Court or a Judge:
+  (g) Prescribe the manner in which a Registrar is to give notice, to a court or appropriate authority of a foreign country, of the variation or cancellation of registration of a foreign protection order:
+  (h) Make such provision as is necessary or desirable in order to facilitate communications between the Secretary and courts or appropriate authorities in foreign countries for the purposes of Part 5 of this Act:
+  (i) Provide for information about proceedings under this Act to be transferred between courts (whether District Courts, Family Courts, the High Court, the Court of Appeal, or the Supreme Court), including (without limitation) between different courts, or between different divisions of the same court, or between courts exercising civil jurisdiction and courts exercising criminal jurisdiction, or between courts exercising appellate jurisdiction and courts exercising original jurisdiction:
+  (j) Apply, with or without modification, provisions of the District Courts Rules 1992.
+(3)
+
+### 127 Regulations
+The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+  (a) Making provision for organisations and persons to be approved to provide programmes, and for the approval of programmes for the purposes of this Act, including (without limitation),—
+    (i) Constituting, or providing for the constitution or appointment of, panels or other groups or bodies for the purposes of regulations made under this paragraph, prescribing the powers, duties, and functions of such panels, groups, or bodies, and regulating their procedures:
+    (ii) Providing for the payment of fees or allowances, or both, to all, or any class of, the members of any panel, group, or body for whose constitution or appointment subparagraph (i) of this paragraph provides, including (without limitation) providing for the payment, by the Crown, of remuneration by way of fees, or allowances, and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951 as if such persons were members of a statutory Board:
+    (iii) Providing for the specifying of conditions subject to which approvals may be granted, for the variation and withdrawal of approvals, and for the revocation, variation, and addition of any condition of any approval:
+    (iv) Providing for approvals to be granted for an indefinite period, or for a limited period:
+    (iva) providing for the review of a decision to refuse an application for approval:
+    (ivb) providing for the review of a decision to cancel an approval:
+    (v) Providing for the review of approvals:
+    (vi) Providing for organisations approved as programme providers to authorise persons to act as programme providers for the purposes of this Act:
+  (b) Prescribing transitional provisions relating to the coming into force of section 29 of this Act, in so far as that section provides for Registrars to authorise the provision of programmes to persons who are not children, which regulations may provide that, notwithstanding anything in that section or section 2 of this Act, for such period (not exceeding 1 year) beginning on the commencement of section 29 of this Act (to the extent that it so provides), and subject to such conditions as are specified in the regulations, authorities may be given under section 29 of this Act in respect of programmes that have not been approved in accordance with regulations made under this section, or are not provided by programme providers that are approved in accordance with such regulations, or both:
+  (c) Prescribing transitional provisions relating to the coming into force of section 32 of this Act, which regulations may provide that, notwithstanding anything in that section or section 2 of this Act, for such period (not exceeding 1 year) beginning on the commencement of section 32 of this Act, and subject to such conditions as are specified in the regulations, directions may be made under section 32 of this Act in respect of programmes that have not been approved in accordance with regulations made under this section, or are not provided by programme providers that are approved in accordance with such regulations, or both:
+  (d) Making provision for the determination of the number of programme sessions that may be provided pursuant to section 29 or section 32 of this Act:
+  (e) Making provision for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of programmes provided pursuant to section 29 or section 32 of this Act, which fees and expenses may differ according to—
+    (i) The number of sessions determined to be provided pursuant to those sections:
+    (ii) Whether or not the programmes are to be provided in a specified number of proceedings during a specified period:
+  (f) Making provision for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by lawyers appointed under section 81 of this Act, which fees and expenses may differ according to the complexity of the proceedings and the time spent, and according to whether or not professional services are to be provided in a specified number of proceedings during a specified period:
+  (g) Prescribing the fees, travelling allowances, and expenses payable to persons called by the Court under section 82 of this Act; and prescribing the circumstances in which, and the extent (if any) to which, such fees, travelling allowances, and expenses are payable (in whole or in part) to persons to whom that section applies by virtue of section 42 of this Act:
+  (h) Providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+
+**Saving**
+
+### 128 Property (Relationships) Act 1976 not affected
+Nothing in this Act limits or affects the power of a Court to make an order (including an order made on an ex parte application) under section 27 or section 28 or section 28B or section 28C or section 33 of the Property (Relationships) Act 1976.
+
+**Repeals and consequential amendments**
+
+### 129 Repeals
+The following enactments are hereby repealed:
+  (a) The Domestic Protection Act 1982:
+  (b) The Domestic Protection Amendment Act 1983:
+  (c) The Domestic Protection Amendment Act 1985:
+  (d) The Domestic Protection Amendment Act 1986:
+  (e) The Domestic Protection Amendment Act 1987:
+  (f) The Domestic Protection Amendment Act 1994:
+  (g) So much of Schedule 1 to the Department of Justice (Restructuring) Act 1995 as relates to the Domestic Protection Act 1982.
+
+### 130 Amendments to Arms Act 1983
+(1) The Arms Act 1983 is hereby amended by repealing section 27A (as inserted by section 10 of the Arms Amendment Act 1992), and substituting the following section:Domestic violence and firearms licences
+  Without limiting the generality of sections 24 and 27 of this Act, it is hereby declared that a commissioned officer of Police may, under either or both of those sections, decide that a person is not a fit and proper person to be in possession of a firearm or airgun if that commissioned officer of Police is satisfied—
+    (a) That there are grounds under the Domestic Violence Act 1995 for the making against that person of an application for a protection order; or
+    (b) That such an order is in force under that Act in respect of that person.
+(2) Section 60A of the Arms Act 1983 (as inserted by section 29 of the Arms Amendment Act 1992) is hereby amended by repealing paragraph (b), and substituting the following paragraph:
+  (b) Either—
+    (i) That there are grounds under the Domestic Violence Act 1995 for the making against that person of an application for a protection order; or
+    (ii) That such an order is in force under that Act in respect of that person,—.
+(3) Section 10 of the Arms Amendment Act 1992 is hereby consequentially repealed.
+
+### 131 Amendment to Children, Young Persons, and Their Families Act 1989
+Section 158 of the Children, Young Persons, and Their Families Act 1989 is hereby amended by omitting the expression Domestic Protection Act 1982, and substituting the expression Domestic Violence Act 1995.
+
+### 132 Amendment to Electoral Act 1993
+Section 115(2) of the Electoral Act 1993 is hereby amended by repealing paragraph (a), and substituting the following paragraph:
+  (a) A protection order that is in force under the Domestic Violence Act 1995 in respect of any person; or.
+
+**Transitional provisions**
+
+### 133 Transitional provisions
+(1) All applications, appeals, proceedings, and other matters that, before the commencement of this section, have been brought or made under or pursuant to any of the provisions of the Domestic Protection Act 1982, and that have not been determined or completed before the commencement of this section, shall be determined and completed as if this Act had not been passed.
+(2) Where, at the commencement of this section, an interim order made under the Domestic Protection Act 1982 is in force, the provisions of that Act shall apply in respect of—as if this Act had not been passed.
+  (a) The making of a final order in substitution for the interim order; and
+  (b) The variation, discharge, and enforcement of that order,—
+(3) Every final non-violence order, and every final non-molestation order, that—is deemed to be a protection order that is subject to the standard conditions contained in section 19 of this Act (but not the standard condition relating to weapons), and accordingly—as if it had originated or been made under the corresponding provisions of this Act.
+  (a) Originated under or pursuant to the Domestic Protection Act 1982, and that is subsisting or in force on the commencement of this section; or
+  (b) Pursuant to subsection (1) or subsection (2) of this section, is made after the commencement of this section under or pursuant to any of the provisions of that Act,—
+  (c) Has effect for the purposes of this Act; and
+  (d) May be varied, discharged, and enforced,—
+(4) Every final occupation order, final tenancy order, or final ancillary furniture order that—has effect and may be varied, discharged, and enforced, for the purposes of this Act, as if it had originated or been made under the corresponding provisions of this Act.
+  (a) Originated under or pursuant to the Domestic Protection Act 1982, and that is subsisting or in force on the commencement of this section; or
+  (b) Pursuant to subsection (1) or subsection (2) of this section, is made after the commencement of this section under or pursuant to any of the provisions of that Act,—
+(5) The Acts Interpretation Act 1924 applies subject to this section.
