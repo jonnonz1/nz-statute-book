@@ -798,7 +798,7 @@ A person to whom a report must be sent in accordance with section 104LL of this 
   (c) does not arise from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation).
 (2) A mortgagee to which this section applies must apply accounts receivable and inventory that are subject to the security interest or their proceeds—before paying from those assets any claim of the mortgagee.
   (a) First, to reimburse the mortgagee for the reasonable expenses of the mortgagee in entering into possession of the mortgaged property or receiving income from the mortgaged property, as the case may be, or of doing anything that the mortgagee is required or entitled to do; and
-  (b) Secondly, to pay preferential claims to the extent and in the order of priority specified in Schedule 7 (except clauses 1 and 9(b)) to the Companies Act 1993—
+  (b) Secondly, to pay preferential claims to the extent and in the order of priority specified in Schedule 7 (except clauses 1(1) and 2(1)(b)) to the Companies Act 1993—
 (3) In the application of Schedule 7 to the Companies Act 1993 in accordance with subsection (2) of this section,—
   (a) References to a liquidator are to be read as references to a mortgagee to which this section applies; and
   (b) References to the commencement of the liquidation are to be read as references to the date on which the mortgagee became a mortgagee to which this section applies; and
