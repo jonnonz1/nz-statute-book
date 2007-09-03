@@ -1,0 +1,1624 @@
+# Motor Vehicle Sales Act 2003
+_Consolidation as at 2007-09-03_
+
+### 1 Title
+This Act is the Motor Vehicle Sales Act 2003.
+
+## Part 1 — Preliminary provisions
+
+### Subpart 1 — General
+
+### 2 Commencement
+(1) This Act (except sections 143 and 144) comes into force on a date to be appointed by the Governor-General by Order in Council.
+(2) Sections 143 and 144 come into force on the day after the date on which this Act receives the Royal assent.
+
+### 3 Purpose
+The purpose of this Act is to promote and protect the interests of consumers in relation to motor vehicle sales.
+
+### 4 Overview
+In this Act,—
+  (a) preliminary matters, such as the purpose, application, and interpretation of the Act, are set out in sections 2 to 9:
+  (b) key provisions about motor vehicle trading are set out in sections 10 to 15:
+  (c) other requirements relating to motor vehicle trading are set out in sections 16 to 22:
+  (d) provisions about the qualifications of motor vehicle traders are set out in sections 23 to 30:
+  (e) a range of matters about the registration of motor vehicle traders is set out in sections 31 to 67:
+  (f) provisions about the banning of persons from participation in the business of motor vehicle trading are set out in sections 68 to 81:
+  (g) provisions about Motor Vehicle Disputes Tribunals are set out in sections 82 to 94 and supplementary provisions are set out in Schedule 1:
+  (h) provisions about offences are set out in sections 95 to 110:
+  (i) provisions about proceedings for offences are set out in sections 111 to 115:
+  (j) provisions about penalties are set out in sections 116 to 119:
+  (k) information-gathering powers are set out in sections 120 to 140:
+  (l) miscellaneous matters, such as regulation-making powers, amendments and repeal, and transitional provisions, are set out in sections 141 to 163.
+
+### 5 Act binds the Crown
+This Act binds the Crown.
+
+### Subpart 2 — Interpretation
+
+**General**
+
+### 6 Interpretation
+(1) In this Act, unless the context otherwise requires,—
+  - **actual distance** , in relation to a motor vehicle's odometer, means the distance that would otherwise have been recorded on an odometer had it not been tampered with
+  - **address for service** means the address of a place in New Zealand at which notices or documents that are required to be served under this Act may be served on the person giving the address
+  - **adjudicator** means an adjudicator of a Disputes Tribunal appointed under section 83
+  - **banned person** means a person banned from participating in the business of motor vehicle trading under section 68 or section 69
+  - **Board** means the Motor Vehicle Dealers Licensing Board constituted under section 6A of the former Act
+  - **branch manager** has the meaning given to it by section 2(1) of the former Act
+  - **car auctioneer** means a person who conducts sales by auction of motor vehicles
+  - **car consultant** means a person who, for rent, fee, commission, or other valuable consideration, is engaged by any other person (except by a motor vehicle trader) to act as an agent for that other person on any matter that—
+    (a) relates to the sale or purchase of any motor vehicle by that other person; and
+    (b) does not relate solely to the structural, material, or mechanical condition of the motor vehicle
+  - **car market operator** —
+    (a) means a person—
+      (i) who carries on the business of providing any premises or place for a market for the sale by other persons of used motor vehicles (whether or not the vehicles are subject to a bailment to the operator); or
+      (ii) who operates any facility (for example, an Internet web page) for the primary purpose of facilitating the sale of used motor vehicles (which sale is completed through, or by means of, that facility); and
+    (b) includes a person who is commonly referred to in the motor vehicle trading industry as a car fair operator or a display for sale operator
+  - **company** has the meaning given to it by section 2(1) of the Companies Act 1993
+  - **crime involving dishonesty** has the meaning given to it by section 2(1) of the Crimes Act 1961
+  - **Customs** means the New Zealand Customs Service
+  - **Customs information** —
+    (a) means information about any person whom the Comptroller of Customs believes has imported more than 3 motor vehicles during a specified period; and
+    (b) may include,—
+      (i) in the case of an individual, the person's full name, residential address, date of birth, and occupation:
+      (ii) in the case of a company, the company's name and the address of the company's registered office:
+      (iii) whether the person indicated the purpose for importing the motor vehicles:
+      (iv) any other particulars that the Comptroller of Customs considers relevant to the purpose set out in section 120
+  - **director** has the meaning set out in section 126 of the Companies Act 1993
+  - **Disputes Tribunal** means a Motor Vehicle Disputes Tribunal established under section 82(1)
+  - **existing licence application** means an application for a motor vehicle dealer's licence, or an application for the renewal of a motor vehicle dealer's licence, under the former Act that—
+    (a) had been received by the Board before the date of commencement of this Act; and
+    (b) had not been granted, refused, or withdrawn before that date
+  - **finance company** includes any person who carries on a business (except the business of motor vehicle trading) and who, in the course of that person's ordinary business,—
+    (a) buys, exchanges, or takes by way of assignment any motor vehicle for any of the following purposes:
+      (i) letting or hiring it to any other person under a hire purchase agreement:
+      (ii) taking or enforcing a security over it:
+      (iii) leasing it to any other person without conferring on that person the right to buy the motor vehicle; or
+    (b) sells any motor vehicle bought, exchanged, or taken by way of assignment for any of the purposes specified in paragraph (a); or
+    (c) sells any motor vehicle under a right of sale conferred by a security interest (within the meaning of section 17(1)(a) of the Personal Property Securities Act 1999)
+  - **former Act** means the Motor Vehicle Dealers Act 1975
+  - **full name** , in relation to an individual, includes any aliases of that individual
+  - **Fund** means the Motor Vehicle Dealers Fidelity Guarantee Fund established under section 30 of the former Act
+  - **hire purchase agreement** has the meaning given to it by section OB 1 of the Income Tax Act 2004
+  - **importer** means a person who carries on the business of importing motor vehicles into New Zealand
+  - **infringement offence** means an offence against any of the provisions listed in section 116(2)
+  - **Institute** means the Motor Vehicle Dealers Institute Incorporated referred to in the former Act
+  - **invalid carriage**
+  - **licensee** has the corresponding meaning to the definition of licence set out in section 2(1) of the former Act
+  - **licensee company** has the meaning given to it by section 2(1) of the former Act
+  - **manufacturer** means a person who carries on the business of manufacturing or assembling motor vehicles
+  - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
+  - **Ministry** means the Ministry that has, with the authority of the Prime Minister, for the time being assumed responsibility for the administration of this Act
+  - **mobility device** has the same meaning as in section 2(1) of the Land Transport Act 1998
+  - **moped** has the meaning given to it by section 2(1) of the Transport (Vehicle and Driver Registration and Licensing) Act 1986
+  - **motor cycle** —
+    (a) means a motor vehicle running on 2 wheels, or on not more than 3 wheels when fitted with a sidecar; and
+    (b) includes any vehicle with motor cycle controls declared by the Director of Land Transport to be a motor cycle; but
+    (c) does not include a moped
+  - **motor vehicle** —
+    (a) means any of the following:
+      (i) a road vehicle that is drawn or propelled by mechanical power and is of a kind ordinarily acquired by consumers for personal, domestic, or household use:
+      (ii) a vehicle of any other class or description declared by the Governor-General, by Order in Council, to be a motor vehicle for the purposes of this Act; but
+    (b) does not include any of the following:
+      (i)
+      (ii) a moped:
+      (iii) a motor cycle, the total cylinder capacity of which does not exceed 60 cubic centimeters:
+      (iv) a tractor or farm machinery:
+      (v) a trailer:
+      (vi) a vehicle of any other class or description declared by the Governor-General, by Order in Council, not to be a motor vehicle for the purposes of this Act:
+      (vii) a vehicle that the Director has declared is not a motor vehicle under section 168A of the Land Transport Act 1998:
+      (viii) a mobility device
+  - **motor vehicle trader** has the meaning given to it by section 7
+  - **motor vehicle trading** means the sale of motor vehicles by a person (whether or not the person is a principal or agent)
+  - **new motor vehicle** means a motor vehicle that is not a used motor vehicle
+  - **partnership** has the meaning set out in section 4 of the Partnership Act 1908; and has a corresponding meaning
+  - **possession** , in relation to a motor vehicle, includes custody and control of the motor vehicle
+  - **register** means the register of motor vehicle traders established and maintained under section 52
+  - **Registrar** means the officer appointed under section 60 who is responsible for the register
+  - **sale** , in relation to any motor vehicle,—
+    (a) means the sale or lease or exchange or any other disposition of that motor vehicle or of any interest in that motor vehicle (for example, under a hire purchase agreement); and
+    (b) includes the display for sale or offer for sale or offer for lease or offer for exchange of that motor vehicle; but
+    (c) does not include a lease or offer for lease of a motor vehicle for a term not exceeding 4 months
+  - **sales by auction** has the meaning given to it by section 2 of the Auctioneers Act 1928
+  - **specified offence** means any of the following offences
+    (a) an offence against—
+      (i) the Crimes Act 1961; or
+      (ii) the Fair Trading Act 1986; or
+      (iii) the Customs and Excise Act 1996; or
+      (iv) the Land Transport Act 1998:
+    (b) an offence against this Act:
+    (c) an offence punishable by a term of imprisonment
+  - **specified period** means any period of 12 consecutive months that commences after the commencement of this Act
+  - **statutory declaration** means a declaration made before a person authorised under the Oaths and Declarations Act 1957 to take declarations
+  - **tamper** , in relation to an odometer, means—
+    (a) to alter, or cause to be altered, the reading on the odometer so as to make it appear that, at a particular time, the vehicle—
+      (i) has travelled a distance less than the actual distance; or
+      (ii) has travelled a distance more than the actual distance:
+    (b) to remove the odometer
+  - **trailer** —
+    (a) means a vehicle without motive power that is drawn or propelled or is capable of being drawn or propelled by a motor vehicle from which it is readily detachable; and
+    (b) includes a sidecar for a motor cycle
+  - **transitional period** means a period that expires at—
+    (a) the end of 3 months after the date of commencement of this Act; or
+    (b) a later date fixed by Order in Council
+  - **used motor vehicle** —
+    (a) means a motor vehicle that has, at any time before being offered or displayed for sale,—
+      (i) been registered under—
+        (A) the Transport Act 1962; or
+        (B) the Transport (Vehicle and Driver Registration and Licensing) Act 1986; or
+        (C) any corresponding enactment of another country:
+      (ii) been used for a purpose not connected with its manufacture or sale; and
+    (b) includes a motor vehicle that has been used for the purpose of demonstration in connection with the sale of another motor vehicle
+  - **vehicle** means a machine that is equipped with wheels or revolving runners upon which it moves or is moved
+  - **vehicle registration information** —
+    (a) means information about any person whom the Secretary for Transport believes has sold more than 6 motor vehicles during a specified period; and
+    (b) may include,—
+      (i) in the case of an individual, the person's full name, residential address, date of birth, and occupation:
+      (ii) in the case of a company, the company's name and the address of the company's registered office:
+      (iii) any other particulars that the Secretary for Transport considers relevant to the purpose set out in section 122
+  - **wholesaler** means a person who carries on the business of—
+    (a) selling new motor vehicles to motor vehicle traders, or to other persons who carry on that business; or
+    (b) selling used motor vehicles to motor vehicle traders
+  - **working day** means any day other than—
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's Birthday, and Labour Day; and
+    (b) the day observed in the appropriate area as the anniversary of the province of which the area forms a part; and
+    (c) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year.
+(2) Unless the context otherwise requires, a reference in this Act to a person concerned in the management of a company means—
+  (a) a director of that company:
+  (b) a person occupying the position of chief executive officer of that company by whatever name called.
+(3) For the purposes of this Act, a person participates in the business of motor vehicle trading if that person is—
+  (a) a motor vehicle trader; or
+  (b) a partner of a motor vehicle trader; or
+  (c) a person concerned in the management of a company that is a motor vehicle trader; or
+  (d) a shareholder of a company that is a motor vehicle trader; or
+  (e) an employee or an agent of a motor vehicle trader; or
+  (f) under a contract for services with a motor vehicle trader; or
+  (g) engaged by a motor vehicle trader in any capacity (whether paid or not) that involves any dealings with consumers.
+
+**Meaning of motor vehicle trader**
+
+### 7 Meaning of motor vehicle trader
+  - **motor vehicle trader** In this Act, —
+    (a) means any person who carries on the business of motor vehicle trading (whether or not that person carries on any other business); and
+    (b) includes—
+      (i) a car market operator:
+      (ii) an importer:
+      (iii) a wholesaler:
+      (iv) a car auctioneer:
+      (v) a car consultant.
+
+### 8 Who is treated as motor vehicle trader
+(1) A person is treated as carrying on the business of motor vehicle trading for the purposes of this Act if—vehicles, unless that person proves that those motor vehicles were not imported to be sold for the primary purpose of gain.
+  (a) the person holds out that the person is carrying on the business of motor vehicle trading; or
+  (b) in any specified period, the person sells more than 6 motor vehicles, unless that person proves that those motor vehicles were not sold for the primary purpose of gain; or
+  (c) in any specified period, the person imports more than 3 motor
+(2) For the purposes of subsection (1)(a), a person holds out that the person is carrying on the business of motor vehicle trading if that person—
+  (a) advertises or notifies or states that the person carries on the business of motor vehicle trading; or
+  (b) in any way represents that the person is ready to carry, or is carrying, on the business of motor vehicle trading.
+(3) Subsection (1)(b) does not apply to any trustee corporation (within the meaning of section 2(1) of the Trustee Act 1956) acting in the capacity of executor, administrator, trustee, guardian, committee, manager, agent, attorney, or liquidator, or in any fiduciary capacity, unless the trustee corporation is acting on behalf of the same person or estate.
+
+### 9 Who is not treated as motor vehicle trader
+(1) A person is not treated as carrying on the business of motor vehicle trading for the purposes of this Act only because that person is—
+  (a) an employee or an agent of a motor vehicle trader; or
+  (b) under a contract for services with a motor vehicle trader; or
+  (c) a solicitor who acts in that capacity as an agent for selling any motor vehicle unless that person is remunerated by commission in addition to, or instead of, that person's professional charges; or
+  (d) a liquidator of a company that is a motor vehicle trader registered under this Act; or
+  (e) a manufacturer who sells any motor vehicle to—
+    (i) the Crown; or
+    (ii) a motor vehicle trader registered under this Act; or
+    (iii) any person who is or has been employed by the manufacturer; or
+  (f) a licensed secondhand dealer under the Secondhand Dealers and Pawnbrokers Act 2004 who buys, in the course of that person's business as a secondhand dealer, any motor vehicle for wrecking or dismantling by that person; or
+  (g) a finance company selling any motor vehicle under a transaction in which a motor vehicle trader acts as an intermediary between the finance company and the buyer (whether or not the motor vehicle trader acts as an agent of the finance company); or
+  (h) a finance company, an insurance company, a rental car company, a storage provider (within the meaning of section 2(1) of the Land Transport Act 1998), or any other person, that sells any motor vehicle as an incidental part of the person's ordinary business; or
+  (i) carrying on any other business besides carrying on the business of motor vehicle trading and who, in the course of that other business,—
+    (i) buys any motor vehicle for use in connection with that business, with or without the intention of reselling it after such use; or
+    (ii) resells the vehicle after using it in connection with that business.
+(2) Subsection (1)(d), (h), and (i) applies only if the person sells motor vehicles through a motor vehicle trader registered under this Act who is not a car market operator.
+
+## Part 2 — Motor vehicle trading
+
+### Subpart 1 — Key provisions
+
+**Registration requirement**
+
+### 10 Motor vehicle traders must be registered
+(1) A person must not, unless the person is registered as a motor vehicle trader under this Act,—
+  (a) carry on the business of motor vehicle trading; or
+  (b) hold out that the person is a motor vehicle trader.
+(2) If 2 or more persons carry on the business of motor vehicle trading in partnership, or otherwise in conjunction with one another, each of those persons must be registered.
+
+**Banned persons**
+
+### 11 Persons banned from participating in business of motor vehicle trading
+A person must not participate in the business of motor vehicle trading if that person is a banned person.
+
+### 12 Banned persons not to be employed or engaged in business of motor vehicle trading
+A person must not employ or engage a banned person in any capacity that involves participation in the business of motor vehicle trading.
+
+**Tampering with odometers**
+
+### 13 Tampering with odometers prohibited
+A person must not tamper with a motor vehicle's odometer.
+
+**Disclosure requirements**
+
+### 14 Particulars about used motor vehicle must be displayed
+(1) A motor vehicle trader must not offer or display for sale, or cause or permit to be offered or displayed for sale, a used motor vehicle unless there is attached to that motor vehicle in a prominent position a notice containing the particulars set out in section 15(1).
+(2) A motor vehicle trader who is a car market operator must take reasonable steps to ensure that a consumer selling a used motor vehicle through the motor vehicle trader attaches to the motor vehicle in a prominent position the notice referred to in subsection (1).
+
+### 15 Particulars (including statement about buyer taking motor vehicle free of security interests) that must be contained in notice attached to used motor vehicle
+(1) All of the following particulars must be contained in every notice that, in accordance with section 14(1), must be attached to a used motor vehicle:
+  (a) a statement that sets out the effect of section 58 of the Personal Property Securities Act 1999. That section, as amended by section 145 of this Act, is as follows:Buyer or lessee of motor vehicle acquired from registered trader takes motor vehicle free of security interest.
+    A buyer or lessee of a motor vehicle who acquires the motor vehicle for value takes the motor vehicle free of any security interest in the motor vehicle if—
+      (a) the buyer or lessee is a consumer who acquires the motor vehicle from a registered trader (whether or not the motor vehicle trader is acting as a principal or as an agent for the seller or lessor in the transaction under which the buyer or lessee, as the case may be, acquires the motor vehicle); and
+      (b) the security interest was not created or provided for in a transaction to which the buyer or lessee is a party; and
+      (c) before the transaction to which the buyer or lessee is a party is completed, the security interest was not,—
+        (i) in the case of a used motor vehicle, disclosed in accordance with sections 14 and 15 of the Motor Vehicle Sales Act 2003; or
+        (ii) in any other case, disclosed in writing to the buyer or lessee:
+  (b) particulars (if any) that are contained in a consumer information standard prescribed by regulations made under section 27 of the Fair Trading Act 1986:
+  (c) any other prescribed particulars.
+(2) Nothing in this section or section 14 derogates from any other enactment, including—
+  (a) section 58 of the Personal Property Securities Act 1999; or
+  (b) section 27 of the Fair Trading Act 1986.
+
+### Subpart 2 — Other requirements
+
+### 16 Written acknowledgment that buyer has received copy of notice must be obtained
+(1) This section applies to a motor vehicle trader who is a party to, or acts as an agent for a party to, a contract for the sale of a used motor vehicle.
+(2) A motor vehicle trader to whom this section applies must—
+  (a) obtain a written acknowledgment from the buyer that the buyer has received a copy of the notice referred to in section 14(1),—
+    (i) in the case of a car auctioneer, as soon as practicable after the sale of the motor vehicle; or
+    (ii) in any other case, immediately before the sale of the motor vehicle; and
+  (b) keep a copy of that notice and acknowledgment for a period of not less than 6 years after the date of the acknowledgment; and
+  (c) make a copy of that notice and acknowledgment available for inspection at all reasonable times by the Registrar, or any person authorised by the Registrar, who asks to see it in accordance with section 125.
+
+### 17 Requirements of section 16 may form part of contract for sale
+Nothing in section 16 prevents the acknowledgment being contained in the contract for the sale of a used motor vehicle.
+
+### 18 No contracting out of requirements of section 16
+Section 16 has effect despite any provision to the contrary in any agreement or contract.
+
+### 19 Duty of motor vehicle trader with respect to money received from sales on consignment of used motor vehicles
+(1) This section and section 20 apply if a motor vehicle trader acts as an agent for another person (the principal) in the sale on consignment of a used motor vehicle.
+(2) If this section applies, the motor vehicle trader must pay to the principal all money received by the motor vehicle trader for the sale on consignment of the motor vehicle (less any fee or commission that the motor vehicle trader may lawfully charge for the sale)—
+  (a) immediately on demand by the principal; or
+  (b) if no demand is made, within 5 working days after the receipt of the money.
+(3) If, after reasonable inquiry, the principal cannot be found, the motor vehicle trader must pay the money to the principal as soon as the motor vehicle trader becomes aware of the principal's whereabouts.
+(4) The duty of a motor vehicle trader under subsection (2) is subject to any written authority or instruction given to the motor vehicle trader by the principal.
+(5) The money referred to in this section—
+  (a) is not available for payment of the debts of the motor vehicle trader; and
+  (b) is not liable to be attached or taken in execution under the order or process of any court at the instance of any creditor; and
+  (c) must not pass on the bankruptcy of the motor vehicle trader,—
+    (i) in the case of a motor vehicle trader who is an individual, to the Official Assignee; or
+    (ii) in the case of a motor vehicle trader that is a company, to the liquidator of that company.
+(6) In this section and section 20, sale on consignment —
+  (a) means the sale of a used motor vehicle that has been delivered into the custody of a motor vehicle trader for the purpose of sale; but
+  (b) does not include a sale by auction of that motor vehicle.
+
+### 20 Motor vehicle trader must provide account
+(1) If this section applies, the motor vehicle trader must immediately on demand by the principal, or, if no demand is made, within 5 working days after the completion of the sale on consignment, provide to the principal a written account setting out the particulars of—
+  (a) all money received by the motor vehicle trader on the principal's behalf in respect of that sale; and
+  (b) the manner in which the motor vehicle trader has applied the money.
+(2) For the purposes of this section, a sale on consignment is completed regardless of the fact that a notice of change of ownership has yet to be given in accordance with section 20 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986.
+
+### 21 Motor vehicle trader must keep record of contracts for sale
+(1) A motor vehicle trader must keep a record of each contract for the sale of any motor vehicle that the trader enters into as a party, or as an agent, in the course of carrying on the business of motor vehicle trading.
+(2) The record—
+  (a) must include the prescribed information; and
+  (b) must be kept for a period of not less than 6 years after it has been made; and
+  (c) must be available for inspection at all reasonable times by—
+    (i) the Registrar, or any person authorised by the Registrar, who asks to see it in accordance with section 125:
+    (ii) any member of the police (who may make copies of it as he or she thinks fit); and
+  (d) may be kept in electronic form so long as it is readily retrievable.
+
+### 22 Duty to produce certificate of registration on demand
+A motor vehicle trader must, if asked by any person, produce for inspection by the person either—
+  (a) the trader's certificate of registration referred to in section 36; or
+  (b) a copy of that certificate.
+
+### Subpart 3 — Qualifications of motor vehicle traders
+
+**Registration**
+
+### 23 Who may register
+A person may register as a motor vehicle trader under this Act if the person is—
+  (a) an individual or a company; and
+  (b) not disqualified from registration.
+
+### 24 Persons disqualified from registration: individuals
+An individual is disqualified from registration if he or she is—
+  (a) under 18 years of age; or
+  (b) a banned person; or
+  (c) an undischarged bankrupt; or
+  (d) a person whose motor vehicle dealer's licence has been cancelled, or who has been suspended as a licensee, under the former Act within,—
+    (i) in the case of a cancellation, the preceding 5 years; or
+    (ii) in the case of a suspension, the preceding 12 months; or
+  (e) a person whose salesman's registration or certificate of approval has been cancelled, or who has been suspended as a salesman, under the former Act within,—
+    (i) in the case of a cancellation, the preceding 5 years; or
+    (ii) in the case of a suspension, the preceding 12 months; or
+  (f) a person who is an officer of a licensee company, a chief executive officer of a licensee company, or a branch manager and—
+    (i) in respect of whom the approval of the Board under section 20 or section 21 or section 57(2) of the former Act has been cancelled; or
+    (ii) who has been suspended under the former Act; or
+  (g) a person who held a motor vehicle dealer's licence under the former Act and who is also a person against whom the Institute may exercise its right of subrogation under section 42 of that Act in relation to any payment out of the Fund arising from a claim against the Fund within the preceding 5 years for any act or thing done or omitted to be done by that person; or
+  (h) a person whose registration as a motor vehicle trader has been cancelled under section 42 within the preceding 5 years; or
+  (i) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Securities Act 1978, or the Securities Markets Act 1988, or the Takeovers Act 1993; or
+  (j) a person who has been convicted of a crime involving dishonesty within the preceding 5 years; or
+  (k) a person who has been convicted of an offence against sections 17 to 22 or 24 to 26 of the Fair Trading Act 1986 within the preceding 5 years; or
+  (l) subject to a compulsory treatment order under Part 2 of the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
+  (m) subject to a property order made under section 30 or section 31 of the Protection of Personal and Property Rights Act 1988.
+
+### 25 Persons disqualified from registration: companies
+A company is disqualified from registration if—
+  (a) the company is a banned person; or
+  (b) the company's motor vehicle dealer's licence has been cancelled, or the company has been suspended as a licensee, under the former Act within,—
+    (i) in the case of a cancellation, the preceding 5 years; or
+    (ii) in the case of a suspension, the preceding 12 months; or
+  (c) the company is a licensee under the former Act and is also a person against whom the Institute may exercise its right of subrogation under section 42 of that Act in relation to any payment out of the Fund arising from a claim against the Fund within the preceding 5 years for any act or thing done or omitted to be done by that person; or
+  (d) the company is in liquidation; or
+  (e) the name of the company has been removed from the register of companies kept under section 360(1)(a) of the Companies Act 1993; or
+  (f) a person concerned in the management of the company is disqualified from registration in his or her own right under section 24; or
+  (g) the company's registration as a motor vehicle trader has been cancelled under section 42 within the preceding 5 years.
+
+**Exemptions from registration**
+
+### 26 Crown exempt from requirement to register
+Nothing in this Act requires the Crown to be registered as a motor vehicle trader.
+
+### 27 Power to exempt persons from requirement to register by Order in Council
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, exempt any person or class of persons from the requirement to register as a motor vehicle trader under section 10(1)(a), subject to any terms and conditions that may be specified in the order.
+(2) Nothing in section 10(1)(b) applies to a person or class of persons exempted from the requirement to register as a motor vehicle trader by an Order in Council made under this section.
+
+### 28 Exemption may be recommended by Minister on application from any person
+(1) The Minister may recommend the making of an order under section 27 on application from any person for an exemption.
+(2) An application must be in the prescribed form and accompanied by the prescribed fee.
+
+### 29 Matters Minister must take into account in recommending exemption
+In determining whether or not to recommend the making of an order under section 27, the Minister must consider the following matters:
+  (a) the purpose set out in section 3; and
+  (b) the manner in which the applicant proposes to carry on the business of motor vehicle trading, including the nature and extent of that business; and
+  (c) whether it is in the public interest to grant an exemption; and
+  (d) any other matters that the Minister considers relevant.
+
+### 30 Process for making recommendation for exemption
+(1) The Minister must not make a recommendation under section 27 unless—
+  (a) the Minister has consulted with the persons, or representatives of the persons, that the Minister considers will be substantially affected by any order made in accordance with the recommendation, and those persons have had the opportunity to comment to the Minister; and
+  (b) the Minister has considered those comments.
+(2) A failure to comply with subsection (1) does not affect the validity of any order made under section 27.
+
+## Part 3 — Registration of motor vehicle traders
+
+### Subpart 1 — Procedure for registration of motor vehicle traders
+
+**Application**
+
+### 31 Application: general
+(1) An application for registration must be made to the Registrar in the prescribed form and must be signed,—
+  (a) if the application is made by an individual, by that person; or
+  (b) if the application is made by a company, by any person concerned in the management of the company.
+(2) An application must be accompanied by—
+  (a) a statutory declaration made by,—
+    (i) in the case of an application made by an individual, that person; or
+    (ii) in the case of an application made by a company, each person concerned in the management of that company; and
+  (b) the prescribed application fee; and
+  (c) the levy imposed under section 143 (if any).
+(3) A statutory declaration must state that the person making the declaration is not disqualified from registration as a motor vehicle trader in his or her own right.
+
+### 32 Content of application
+(1) An application must include the following information:
+  (a) if the application is made by an individual,—
+    (i) the full name, residential address, date of birth, and occupation of that person; and
+    (ii) the proposed trading name of the applicant's motor vehicle trading business; and
+    (iii) any further information and other material that may be prescribed:
+  (b) if the application is made by a company,—
+    (i) the name of the company, the date of its incorporation, the address of its registered office, and its principal type of business; and
+    (ii) the unique number assigned to the company on its incorporation; and
+    (iii) the full name, residential address, date of birth, and occupation of each person concerned in the management of the company; and
+    (iv) the proposed trading name of the applicant's motor vehicle trading business; and
+    (v) any further information and other material that may be prescribed.
+(2) The application must also—
+  (a) state the address for service of the applicant, which address—
+    (i) must identify the place by reference to its location in a street or road; and
+    (ii) must include, if available, the applicant's fax number and email address; and
+    (iii) must not be that of a Post Office box, a document exchange, or a rural delivery; and
+  (b) contain a statutory declaration that verifies the matters referred to in this section and is made by,—
+    (i) if the application is made by an individual, that person; or
+    (ii) if the application is made by a company, any person concerned in the management of that company.
+
+**Acceptance or refusal of application**
+
+### 33 Registrar may accept or refuse application for registration
+The Registrar may accept or refuse an application for registration.
+
+### 34 Acceptance of application
+(1) The Registrar must accept an application for registration if the Registrar is satisfied that—
+  (a) 1 of the following circumstances applies:
+    (i) if the application is made by an individual, that person is not disqualified from registration:
+    (ii) if the application is made by a company, that company and each person concerned in the management of that company are not disqualified from registration; and
+  (b) the application is properly completed.
+(2) An application is properly completed only if it complies with section 31 and includes all of the matters required by section 32.
+
+### 35 Refusal of application
+(1) If the Registrar refuses an application for registration, the Registrar must notify the applicant in writing of the decision and the reasons for it within 10 working days after the decision is made.
+(2) An applicant has the right to appeal, under section 64, the Registrar's decision to refuse the application for registration.
+
+**Registration**
+
+### 36 Registration
+If the Registrar accepts an application for registration, the Registrar must, as soon as practicable,—
+  (a) enter the applicant's name on the register; and
+  (b) provide the applicant with a—
+    (i) written notice of the date on which the applicant's registration takes effect; and
+    (ii) certificate of registration; and
+    (iii) registration number or other unique identifier (if any).
+
+### 37 Duration of registration
+(1) The registration of a motor vehicle trader is effective for a period of 12 months commencing on the date of registration unless the registration is—
+  (a) cancelled under section 42; or
+  (b) surrendered by the motor vehicle trader in accordance with section 46 or section 47.
+(2) A motor vehicle trader's registration may be renewed for further periods, each not exceeding 12 months.
+
+### 38 Registration may not be transferred
+The registration of a motor vehicle trader—
+  (a) may not be transferred; and
+  (b) may not vest by operation of law in any person other than the motor vehicle trader registered under this Act.
+
+**Renewal of registration**
+
+### 39 Renewal of registration
+(1) An application for renewal of the registration of a motor vehicle trader must be made to the Registrar before the date on which the registration expires.
+(2) Sections 31 to 38 apply, with any necessary modifications, to an application for renewal of registration as if it were an application for registration.
+(3) If an application for renewal of registration has been made but not determined before the date on which the registration would otherwise expire, the registration continues in force until the application is determined.
+
+### 40 Obligation to notify Registrar of change in circumstances
+(1) The following persons must give written notice to the Registrar of any change in circumstances within 10 working days after the change:
+  (a) an applicant for registration:
+  (b) an applicant for renewal of registration:
+  (c) a motor vehicle trader registered under this Act.
+  - **change in circumstances** (2) In this section, —
+    (a) means—
+      (i) any change in the information that a person referred to in subsection (1) has provided under sections 31 and 32:
+      (ii) any matter that results in that person becoming disqualified for registration under this Act; and
+    (b) includes any change that may be prescribed (if any).
+
+### Subpart 2 — Removal from register
+
+**General**
+
+### 41 Removal from register
+The Registrar must remove a motor vehicle trader's name from the register if the Registrar—
+  (a) cancels that motor vehicle trader's registration in accordance with section 42; or
+  (b) records the surrender of that motor vehicle trader's registration in accordance with section 48; or
+  (c) records the expiry of that motor vehicle trader's registration in accordance with section 50.
+
+**Cancellation of registration**
+
+### 42 When Registrar must cancel registration
+(1) The Registrar must cancel the registration of a motor vehicle trader if the Registrar is satisfied that the motor vehicle trader—
+  (a) has been registered by reason of any false or fraudulent representation or declaration, made either orally or in writing; or
+  (b) made an application for registration that was accompanied by an application fee or levy payment that has subsequently been dishonoured; or
+  (c) is disqualified from registration under this Act; or
+  (d) has ceased to carry on the business of motor vehicle trading.
+(2) A motor vehicle trader has the right to appeal, under section 64, the Registrar's decision to cancel the trader's registration.
+
+### 43 Process for cancellation
+(1) The process for cancellation is as follows:
+  (a) the Registrar must give the motor vehicle trader written notice of the Registrar's intention to cancel the registration of the motor vehicle trader; and
+  (b) the notice must—
+    (i) contain or be accompanied by a statement of the Registrar's reasons for the cancellation; and
+    (ii) state that the cancellation takes effect on a specified date unless the motor vehicle trader makes, within 10 working days after receiving the notice, written representations to the Registrar as to why that trader's registration should not be so cancelled; and
+  (c) if any written representations are made by the motor vehicle trader within the 10-working-day period referred to in paragraph (b)(ii), the Registrar must take those representations into account in deciding whether or not to cancel the registration; and
+  (d) the Registrar must,—
+    (i) if no written representations are made by the motor vehicle trader within the 10-working-day period referred to in paragraph (b)(ii), record the cancellation on the register as soon as practicable; or
+    (ii) if written representations are made by the motor vehicle trader within the 10-working-day period referred to in paragraph (b)(ii), give written notice to the motor vehicle trader of the Registrar's decision as soon as practicable.
+(2) If the Registrar decides to cancel the registration, the Registrar must—
+  (a) include in the notice referred to in subsection (1)(d)(ii) a statement indicating—
+    (i) the grounds on which the Registrar decided to cancel the trader's registration; and
+    (ii) the date on which the cancellation takes effect; and
+  (b) record the cancellation on the register as soon as practicable.
+
+### 44 Effective date of cancellation
+The cancellation takes effect on the date specified by the Registrar in the last notice given to the motor vehicle trader under section 43, which must be a date after the date of that notice.
+
+### 45 Name must be entered immediately on list of banned persons in certain cases
+The Registrar must record the motor vehicle trader's name on the list referred to in section 73 immediately after completing the process for cancellation set out in section 43 if the Registrar decides to cancel a motor vehicle trader's registration under section 42(1)(c) because the motor vehicle trader is—
+  (a) a banned person; and
+  (b) accordingly disqualified from registration.
+
+**Surrender of registration**
+
+### 46 Voluntary surrender
+A motor vehicle trader may, at any time, surrender that motor vehicle trader's registration by written notice to the Registrar.
+
+### 47 Mandatory surrender
+If a motor vehicle trader ceases to carry on the business of motor vehicle trading, that motor vehicle trader must, within 20 working days of so ceasing,—
+  (a) notify the Registrar in writing of that fact; and
+  (b) surrender that motor vehicle trader's registration to the Registrar.
+
+### 48 Registrar must record surrender on register
+As soon as possible after being notified of a surrender under section 46 or section 47, the Registrar must record the surrender on the register.
+
+### 49 Effective date of surrender
+The surrender takes effect from the date stated in the register.
+
+**Expiry of registration**
+
+### 50 Expiry of registration
+If no application for the renewal of a motor vehicle trader's registration is made on or before the date on which that registration would otherwise expire, the Registrar must record the expiry of that registration in the register as soon as practicable after that date.
+
+### 51 Effective date of expiry
+The expiry takes effect from the date stated in the register.
+
+### Subpart 3 — Miscellaneous provisions
+
+**Register of motor vehicle traders**
+
+### 52 Register of motor vehicle traders
+(1) A register of motor vehicle traders must be kept in New Zealand.
+(2) The register may be—
+  (a) an electronic register; or
+  (b) kept in any other manner that the Registrar thinks fit.
+(3) The register must be operated at all times unless—
+  (a) the Registrar suspends the operation of the register, in whole or in part, in accordance with subsection (4); or
+  (b) otherwise provided in regulations made under this Act.
+(4) The Registrar may refuse access to the register or otherwise suspend the operation of the register, in whole or in part, if the Registrar considers that it is not practical to provide access to the register.
+
+### 53 Purpose of register
+The purpose of the register is—
+  (a) to enable a member of the public to—
+    (i) know who is responsible for a motor vehicle trading business; and
+    (ii) know how to contact a motor vehicle trader, if required (for example, for the purpose of seeking redress in connection with a contract for the sale of a motor vehicle); and
+    (iii) determine whether or not a person is registered as a motor vehicle trader under this Act; and
+  (b) to facilitate the ability of the Ministry or the Commerce Commission to enforce the provisions of this Act or of any consumer protection legislation; and
+  (c) to facilitate the compliance, audit, and other supporting and administrative functions of the Ministry under this Act.
+
+### 54 Contents of register
+The register must contain all of the following information:
+  (a) in the case of a motor vehicle trader who applied for registration as an individual, the full name, residential address, date of birth, and occupation of that person:
+  (b) in the case of a motor vehicle trader who applied for registration as a company,—
+    (i) the name of the company; and
+    (ii) the address of the company's registered office; and
+    (iii) the unique number assigned to the company on its incorporation; and
+    (iv) the full name, residential address, date of birth, and occupation of each person concerned in the management of the company:
+  (c) the registration number or other unique identifier provided to the motor vehicle trader on registration under section 36:
+  (d) the address for service of the motor vehicle trader:
+  (e) the name stated in the motor vehicle trader's application for registration as the trading name of that motor vehicle trader's business or any other name subsequently notified to the Registrar as the trading name that the motor vehicle trader wishes to use for that business (including, in the case of a motor vehicle trader who has several trading names for that motor vehicle trader's business, those names):
+  (f) the date of registration of the motor vehicle trader and the date of each renewal of registration:
+  (g) if applicable, the date on which the cancellation or surrender of the motor vehicle trader's registration took effect:
+  (h) any other particulars that may be prescribed.
+
+### 55 Alterations to register
+The Registrar may, at any time, make any amendments to the register that are necessary to—
+  (a) reflect any changes in the information referred to in section 54; or
+  (b) correct a mistake caused by any error or omission on the part of the Registrar or any person to whom the Registrar has delegated his or her functions, duties, or powers.
+
+**Searches of register**
+
+### 56 Search of register
+A person may search the register in accordance with this Act or regulations made under this Act.
+
+### 57 Search criteria
+The register may be searched only by reference to the following criteria:
+  (a) in the case of a motor vehicle trader who applied for registration as an individual,—
+    (i) the name of the motor vehicle trader:
+    (ii) the residential address of the motor vehicle trader:
+    (iii) the name and residential address of the motor vehicle trader:
+  (b) in the case of a motor vehicle trader who applied for registration as a company,—
+    (i) the name of the company:
+    (ii) the address of the company's registered office:
+    (iii) the name of the company and the address of its registered office:
+    (iv) the unique number assigned to the company on its incorporation:
+    (v) the name of a person concerned in the management of the company:
+    (vi) the residential address of a person concerned in the management of the company:
+    (vii) the name and residential address of a person concerned in the management of the company:
+  (c) the registration number or other unique identifier provided to the motor vehicle trader on registration under section 36:
+  (d) the trading name of the motor vehicle trader's business:
+  (e) any prescribed criteria.
+
+### 58 Search purposes
+A search of the register may be carried out only by the following persons for the following purposes:
+  (a) an individual, or a person with the consent of the individual, for the purpose of searching for information about that individual:
+  (b) a person for the purpose of determining—
+    (i) who is responsible for a motor vehicle trading business:
+    (ii) how to contact a motor vehicle trader registered under this Act:
+    (iii) whether or not a person is registered as a motor vehicle trader under this Act.
+
+### 59 When search constitutes interference with privacy of individual
+A search of the register for personal information that has not been carried out in accordance with sections 56 to 58 constitutes an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+
+**Registrar of Motor Vehicle Traders**
+
+### 60 Appointment of Registrar of Motor Vehicle Traders
+(1) The chief executive of the Ministry must appoint, under the State Sector Act 1988, a Registrar of Motor Vehicle Traders.
+(2) The person holding office as Registrar of Companies under the Companies Act 1993 immediately before the commencement of this Act must be treated as if that person had been appointed as the Registrar of Motor Vehicle Traders in accordance with this section.
+
+### 61 Functions of Registrar
+The functions of the Registrar are—
+  (a) to establish and maintain a register of motor vehicle traders; and
+  (b) to enter the name of a motor vehicle trader on the register and to issue a certificate of registration under section 36; and
+  (c) to cancel the registration of a motor vehicle trader under section 42; and
+  (d) to perform any other functions conferred on the Registrar by this Act.
+
+### 62 Power of Registrar to delegate
+(1) The Registrar may delegate to any person, either generally or particularly, any of the Registrar's functions, duties, and powers except the power of delegation.
+(2) A delegation—
+  (a) must be in writing; and
+  (b) may be made subject to any restrictions and conditions the Registrar thinks fit; and
+  (c) is revocable at any time, in writing; and
+  (d) does not prevent the performance or exercise of a function, duty, or power by the Registrar.
+(3) A person to whom any functions, duties, or powers are delegated may perform and exercise them in the same manner and with the same effect as if they had been conferred directly by this Act and not by delegation.
+(4) A person who appears to act under a delegation is presumed to be acting in accordance with its terms in the absence of evidence to the contrary.
+
+### 63 Certificate of Registrar is sufficient evidence
+(1) A certificate signed by the Registrar in relation to the matters referred to in subsection (2) is for all purposes sufficient evidence, in the absence of proof to the contrary, of those matters specified in the certificate.
+(2) The matters are—
+  (a) that any person was or was not registered at any particular time or during any period specified in the certificate; or
+  (b) that any entry in the register is as stated in the certificate.
+
+**Appeals against decisions of Registrar**
+
+### 64 Right of appeal
+(1) Any person may appeal to a District Court against the following decisions:
+  (a) a decision of the Registrar to refuse to register that person as a motor vehicle trader:
+  (b) a decision of the Registrar to cancel that person's registration as a motor vehicle trader.
+(2) An appeal under this section must be made by giving notice of appeal within—
+  (a) 20 working days after the date on which notice of the decision was communicated to the appellant; or
+  (b) any further time that a District Court may allow on application made before or after the expiration of that period.
+
+### 65 District Court may make interim order pending determination of appeal
+(1) At any time before the final determination of an appeal, a District Court may make an interim order allowing the appellant to carry on the business of motor vehicle trading.
+(2) An interim order may be subject to any conditions that the District Court thinks fit.
+(3) If a District Court refuses to make an interim order, the person or persons who applied for the order may, within 1 month after the date of the refusal, appeal to the High Court against the decision.
+
+### 66 Duties of Registrar if interim order made
+(1) If an interim order is made allowing the appellant to carry on the business of motor vehicle trading, the Registrar must,—
+  (a) in the case of a person who is appealing the Registrar's decision to refuse to register that person, enter that person's name on the register; and
+  (b) in the case of a person who is appealing the Registrar's decision to cancel that person's registration,—
+    (i) if the interim order is made before the cancellation takes effect, retain that person's name on the register; or
+    (ii) if the interim order is made after the cancellation takes effect, restore that person's name on the register.
+(2) To enable the Registrar to fulfil the duties imposed by this section, the Registrar of the Court in which the interim order is made must send a copy of the order to the Registrar as soon as practicable.
+
+### 67 Determination of appeal
+(1) In determining an appeal, a District Court may confirm or reverse the decision of the Registrar.
+(2) The District Court's decision in the determination of an appeal is final.
+(3) To avoid doubt, nothing in this section affects the right of any person to apply, in accordance with law, for judicial review.
+
+## Part 4 — Enforcement
+
+### Subpart 1 — Banning
+
+**Ban imposed by Act**
+
+### 68 Persons banned from participating in business of motor vehicle trading
+(1) The following persons are banned from participating in the business of motor vehicle trading:
+  (a) a person who has had 2 or more convictions entered against that person's name within a period of 10 consecutive years for any of the following offences:
+    (i) carrying on the business of motor vehicle trading without being registered under this Act, as set out in section 95(1)(a):
+    (ii) holding out to be a motor vehicle trader without being registered under this Act, as set out in section 95(1)(b):
+    (iii) failing to pay money to a principal, as set out in section 103:
+    (iv) entering false information into a record of contracts for sale, as set out in section 105(1)(a):
+    (v) falsifying any matter recorded in a record of contracts for sale, as set out in section 105(1)(b):
+    (vi) making a false statutory declaration or providing false information to the Registrar, as set out in section 107:
+  (b) a person who has, more than once within a period of 10 consecutive years, done any of the following things:
+    (i) failed to comply with an order of the Disputes Tribunal:
+    (ii) been concerned in the management of a company that is a banned person:
+    (iii) been concerned in the management of a company that is registered as a motor vehicle trader under this Act and that has gone into liquidation because of the company's inability to pay its debts as and when they became due:
+    (iv) been concerned in the management of a company that has failed to provide compensation for any loss incurred by a finance company resulting from the company selling a motor vehicle for which that finance company holds a security interest:
+    (v) been concerned in the management of a company that has failed to comply with an order of the Disputes Tribunal:
+  (c) a person who, while registered as a motor vehicle trader under this Act,—
+    (i) is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Securities Act 1978, or the Securities Markets Act 1988, or the Takeovers Act 1993; or
+    (ii) is convicted of a crime involving dishonesty; or
+    (iii) is convicted of an offence against sections 17 to 22 or sections 24 to 26 of the Fair Trading Act 1986:
+    (iv) has, more than once within a period of 10 consecutive years, been adjudged bankrupt or failed to provide compensation for any loss incurred by a finance company resulting from the person selling a motor vehicle for which that finance company holds a security interest:
+  (d) a person who is convicted of the offence of tampering with odometers, as set out in section 99.
+(2) A ban under subsection (1) has effect for a period of 5 years starting on and from the date of the conviction, failure, or matter, as the case may be, for which the ban is imposed by this Act.
+(3) For the purposes of this section, if 2 or more convictions are entered against a person's name for offences that arise out of the same set of circumstances, those convictions must be treated as a single conviction towards the number of convictions under subsection (1)(a) for which a ban may be imposed by this Act.
+
+**Ban ordered by Court**
+
+### 69 Power to ban certain persons from participating in business of motor vehicle trading
+(1) A District Court may, on the application of any person, make an order banning any person from participating in the business of motor vehicle trading if—
+  (a) both of the following circumstances apply:
+    (i) the person has been convicted of a specified offence but is not banned from participating in the business of motor vehicle trading under section 68; and
+    (ii) the District Court considers that the person is not a fit and proper person to participate in that business; or
+  (b) the District Court considers that there is sufficient evidence to indicate that the person is not a fit and proper person to participate in the business of motor vehicle trading.
+(2) Every application to a District Court under this section must be made by an originating application.
+(3) A ban under this section has effect from the date on which the order is made even though an appeal may have been lodged under section 72.
+(4) An order may be—
+  (a) made even though the person concerned may be criminally liable for the matters on the grounds of which the order is to be made; and
+  (b) for a specified time; and
+  (c) subject to the terms and conditions that the District Court thinks fit; and
+  (d) cancelled or varied at any time by the District Court.
+(5) As soon as practicable after an order is made, the Registrar of the District Court must send a copy of the order to the Registrar.
+
+### 70 Notice of hearing
+(1) If an application is made for an order under section 69, the Registrar of the District Court must—
+  (a) fix the time and place for the hearing of the application; and
+  (b) as soon as practicable, give notice of the application and of the time and place of hearing in the prescribed form to—
+    (i) the applicant; and
+    (ii) the respondent; and
+    (iii) any other person who appears to the Registrar of the District Court to have a sufficient connection with the proceedings (for example, if not already a party to the proceedings, the Registrar or the Commerce Commission).
+(2) On the hearing of the application,—
+  (a) the applicant must appear and call to the attention of the District Court any matters that seem to the applicant to be relevant, and may give evidence or call witnesses; and
+  (b) the respondent may appear and give evidence or call witnesses; and
+  (c) any person referred to in subsection (1)(b)(iii) may also appear and be heard.
+
+### 71 District Court may order payment of costs
+(1) In any proceedings under section 69, the District Court may,—
+  (a) by order, award to any party costs that the Court considers reasonable; and
+  (b) direct how and to which parties the costs must be paid.
+(2) A party in whose favour an order under subsection (1) has been made may recover the costs awarded by the District Court as a debt by the party against whom the order has been made.
+
+### 72 Appeals to High Court
+(1) Any person who had a right to appear and be heard in any proceedings under section 69 may appeal to the High Court if a District Court—
+  (a) has made or refused to make an order under that section; or
+  (b) has otherwise finally determined or has dismissed the proceedings.
+(2) An appeal under this section must be made within—
+  (a) 20 working days after the making of the order or decision; or
+  (b) any further time that the High Court may allow on application made before or after the expiration of that period.
+(3) In determining an appeal, the High Court may—
+  (a) make any order that a District Court may make under sections 69 and 71; or
+  (b) cancel an order made by a District Court; or
+  (c) vary any term or condition of an order made by a District Court.
+(4) The High Court's decision in the determination of an appeal is final.
+(5) To avoid doubt, nothing in this section affects the right of any person to apply, in accordance with law, for judicial review.
+
+**List of banned persons**
+
+### 73 List of banned persons to be kept by Registrar
+(1) The Registrar must ensure that a list of banned persons is kept for the purposes of this Act.
+(2) The list may be—
+  (a) an electronic list; or
+  (b) kept in any other manner that the Registrar thinks fit.
+(3) The list must be operated at all times unless—
+  (a) the Registrar suspends the operation of the list, in whole or in part, in accordance with subsection (4); or
+  (b) otherwise provided in regulations made under this Act.
+(4) The Registrar may refuse access to the list or otherwise suspend the operation of the list, in whole or in part, if the Registrar considers that it is not practical to provide access to the list.
+
+### 74 Purpose of list
+The purpose of the list is—
+  (a) to enable a member of the public to determine whether or not a person is a banned person; and
+  (b) to prevent banned persons from participating in the motor vehicle trading industry; and
+  (c) to facilitate the Ministry's enforcement, compliance, audit, and other supporting and administrative functions under this Act.
+
+### 75 Contents of list
+The list must contain all of the following information about every banned person:
+  (a) in the case of an individual, the full name, last known residential address, and date of birth of that person:
+  (b) in the case of a company,—
+    (i) the name of the company; and
+    (ii) the address of the company's registered office; and
+    (iii) the unique number assigned to the company on its incorporation; and
+    (iv) the full name, residential address, and date of birth of each person concerned in the management of the company:
+  (c) if applicable, the registration number or other unique identifier provided to the person on registration under section 36:
+  (d) if applicable, the trading name of the person's motor vehicle trading business:
+  (e) the period of the ban:
+  (f) the reason for the ban:
+  (g) in the case of a person who is banned under section 69, any terms or conditions imposed by the District Court or, as the case may be, the High Court:
+  (h) any other particulars that may be prescribed.
+
+### 76 Alterations to list
+The Registrar may, at any time, make any amendments to the list that are necessary to—
+  (a) reflect any variations to an order made by the District Court under section 69; or
+  (b) reflect the decision of the High Court in determining an appeal under section 72; or
+  (c) correct a mistake caused by any error or omission on the part of the Registrar or any person to whom the Registrar has delegated his or her functions, duties, or powers.
+
+### 77 Procedure for recording names of banned persons on list
+(1) Before recording the name of a banned person on the list, the Registrar must give written notice to that person as soon as is practicable after the date on which the ban takes effect.
+(2) The notice must,—
+  (a) in the case of a person who is banned under section 68, refer to the conviction, failure, or matter, as the case may be, that makes the person liable to have his or her name recorded on the list; and
+  (b) in the case of a person who is banned under section 69, describe the order made by the District Court or, as the case may be, the High Court under that section and the date on which the order was made; and
+  (c) state that the banned person may, within 10 working days after the date of the notice, make written representations to the Registrar as to why that person's name should not be so recorded.
+(3) If, after considering any representations made under subsection (2)(c), the Registrar is satisfied that there are no reasons why the person's name should not be recorded on the list, the Registrar must record the person's name and give written notice to the person accordingly.
+(4) This section is subject to section 45.
+
+**Searches of list**
+
+### 78 Search of list
+A person may search the list in accordance with this Act or regulations made under this Act.
+
+### 79 Search criteria
+The list may be searched only by reference to the following criteria:
+  (a) in the case of a banned person who is an individual,—
+    (i) the name of the person:
+    (ii) the last known residential address of the person:
+    (iii) the name and last known residential address of the person:
+    (iv) the name and date of birth of the person:
+  (b) in the case of a banned person that is a company,—
+    (i) the name of the company:
+    (ii) the address of the company's registered office:
+    (iii) the name of the company and the address of its registered office:
+    (iv) the unique number assigned to the company on its incorporation:
+    (v) the name of a person concerned in the management of the company:
+    (vi) the residential address of a person concerned in the management of the company:
+    (vii) the name and residential address of a person concerned in the management of the company:
+    (viii) the name and date of birth of a person concerned in the management of the company:
+  (c) if applicable, the registration number or other unique identifier provided to the banned person on registration under section 36:
+  (d) if applicable, the trading name of the banned person's motor vehicle trading business:
+  (e) any prescribed criteria.
+
+### 80 Search purposes
+A search of the list may be carried out only by the following persons for the following purposes:
+  (a) an individual, or a person with the consent of the individual, for the purpose of searching for information about that individual:
+  (b) a person for the purpose of determining whether or not a person is a banned person.
+
+### 81 When search constitutes interference with privacy of individual
+A search of the list for personal information that has not been carried out in accordance with sections 78 to 80 constitutes an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+
+### Subpart 2 — Motor Vehicle Disputes Tribunals
+
+**Constitution**
+
+### 82 Motor Vehicle Disputes Tribunals
+(1) The Minister must, by notice in the Gazette, establish 1 or more Motor Vehicle Disputes Tribunals for the purposes of this Act.
+(2) The Minister may—
+  (a) give a distinctive name to each Disputes Tribunal; and
+  (b) change that name.
+(3) Each Disputes Tribunal must consist of—
+  (a) an adjudicator who must be a barrister or solicitor of the High Court of not less than 5 years' practice; and
+  (b) an assessor appointed by the adjudicator for the purposes of each hearing from a panel maintained by the Minister under section 88.
+(4) The provisions of Schedule 1 apply to every Disputes Tribunal.
+(5) The Minister may, by notice in the Gazette,—
+  (a) disestablish a Disputes Tribunal; and
+  (b) direct how the records of that Disputes Tribunal are to be dealt with.
+
+**Adjudicators**
+
+### 83 Appointment of adjudicators
+(1) Every adjudicator must be appointed by the Governor-General on the joint recommendation of the Minister and the Minister of Justice.
+(2) No person is to be treated as being employed in the service of the Crown for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 by reason only of that person's appointment as an adjudicator.
+
+### 84 Term of office of adjudicators
+(1) Except as provided in section 85, every adjudicator—
+  (a) must hold office for a term not exceeding 5 years; and
+  (b) may be reappointed for 1 further term not exceeding 5 years.
+(2) Unless an adjudicator sooner vacates office under section 85, every adjudicator whose term of office has expired must continue to hold office until—
+  (a) he or she is reappointed; or
+  (b) a successor is appointed; or
+  (c) he or she is informed in writing by the Minister that he or she is not to be reappointed.
+
+### 85 Vacation of office
+(1) An adjudicator is to be taken to have vacated office if he or she dies or is adjudged bankrupt under the Insolvency Act 1967.
+(2) An adjudicator may, at any time, be removed from office by the Minister for inability to perform the duties of office, neglect of duty, or misconduct proved to the satisfaction of that Minister.
+(3) An adjudicator may, at any time, resign his or her office by giving written notice to that effect to the Minister.
+
+### 86 Remuneration and allowances of adjudicators
+(1) An adjudicator is entitled to receive, out of public money appropriated by Parliament for the purpose, the remuneration that the Higher Salaries Commission determines in accordance with the Higher Salaries Commission Act 1977.
+(2) Travelling allowances and expenses must be paid to an adjudicator in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act apply accordingly.
+
+### 87 Adjudicator to submit annual report
+(1) The adjudicator of each Disputes Tribunal must submit an annual report to the Minister.
+(2) The report must—
+  (a) summarise the applications dealt with during the year; and
+  (b) detail any cases that in the adjudicator's opinion require special mention; and
+  (c) make any recommendations for amendments to this Act (if any) that the adjudicator thinks desirable based on the experience of the Disputes Tribunal.
+(3) The Minister must make copies of the report available to the news media within 28 days after the Minister receives the report.
+
+**Panel**
+
+### 88 Panel of persons who may be appointed as assessors
+(1) The Minister must maintain a panel of persons who may be appointed as assessors under section 82(3)(b).
+(2) In considering the suitability of any person for inclusion on the panel, the Minister must have regard to—
+  (a) the person's personal attributes, qualifications, and skills; and
+  (b) the need for persons included on the panel to have between them knowledge of, or experience in, the different aspects of matters likely to come before the Disputes Tribunal.
+(3) The name of a person—
+  (a) must be included on the panel for a period of 5 years; and
+  (b) subject to the approval of the Minister, may be retained on the panel for 1 further period of 5 years.
+(4) However, the name of a person must be removed from the panel if—
+  (a) the person dies or is adjudged bankrupt under the Insolvency Act 1967; or
+  (b) the Minister directs that the name of the person be removed from the panel for inability to perform the duties of an assessor; or
+  (c) the period during which the person's name may be included on the panel has expired; or
+  (d) the person requests by writing addressed to the Minister that the person's name be removed.
+(5) If subsection (4)(c) or (d) applies, the name of the person must not be removed from the panel until any hearings in respect of which that person was appointed to the Disputes Tribunal have concluded.
+
+**Jurisdiction**
+
+### 89 Jurisdiction of Disputes Tribunal
+(1) A Disputes Tribunal has jurisdiction, on the application of any party, to—
+  (a) inquire into and determine any application or claim, as the case may be, under any of the following Acts if that application or claim is in respect of the sale of any motor vehicle:
+    (i) the Sale of Goods Act 1908:
+    (ii) the Fair Trading Act 1986:
+    (iii) the Consumer Guarantees Act 1993; and
+  (b) make any order that a Court or a Disputes Tribunal constituted under the Disputes Tribunals Act 1988 may make under,—
+    (i) in the case of proceedings under the Sale of Goods Act 1908, section 53 of that Act; or
+    (ii) in the case of proceedings under the Fair Trading Act 1986, section 43(2) of that Act; or
+    (iii) in the case of proceedings under the Consumer Guarantees Act 1993, section 39 or section 47 of that Act.
+(2) A Disputes Tribunal may order that the rights and obligations of the buyer of a motor vehicle under a collateral credit agreement vest in a motor vehicle trader if—
+  (a) the collateral credit agreement is associated with the contract for the sale of that motor vehicle; and
+  (b) the motor vehicle trader is a party to that contract for sale; and
+  (c) either 1 of the following circumstances applies:
+    (i) the buyer exercises the right conferred by the Consumer Guarantees Act 1993 to reject that motor vehicle and, on a claim by the buyer under section 47(1) of that Act, the Disputes Tribunal orders the motor vehicle trader to refund any money paid, or other consideration provided, for that motor vehicle; or
+    (ii) the Disputes Tribunal finds that the buyer has suffered, or is likely to suffer, loss or damage by the conduct of the motor vehicle trader that constitutes, or would constitute, any of the conduct referred to in section 43(1) of the Fair Trading Act 1986 and the Disputes Tribunal makes an order under section 43(2) of that Act declaring the whole or any part of the contract for sale to be void.
+(3) For the purposes of subsection (2), collateral credit agreement, in relation to a contract for the sale of a motor vehicle, means a contract or agreement arranged or procured by the motor vehicle trader or the buyer for the provision of credit by a person other than by the motor vehicle trader to enable the buyer to pay the price reserved by the contract for sale in respect of the motor vehicle.
+(4) This section is subject to section 90.
+
+### 90 Limits on jurisdiction of Disputes Tribunals
+(1) A Disputes Tribunal has jurisdiction only if—
+  (a) 1 party, but not both parties, to the application or claim is a motor vehicle trader; and
+  (b) the total sum of the application or claim does not exceed $50,000.
+(2) Despite subsection (1)(b), the parties to the application or claim may consent in writing to the determination of the application or claim by the Disputes Tribunal.
+
+### 91 Disputes Tribunal's jurisdiction not excluded
+(1) A provision in any contract to exclude or limit the jurisdiction of a Disputes Tribunal or the right of any person to invoke that jurisdiction has no effect.
+(2) A Disputes Tribunal has jurisdiction despite a provision in any contract that provides for—
+  (a) the submission to arbitration of any dispute or difference arising under that contract; or
+  (b) the making of an award upon such a submission to be a condition precedent to any cause of action accruing to a party to that contract.
+(3) Subsection (1) does not apply if a cause of action has accrued, or is believed to have accrued, to a person and that person has agreed to the settlement or compromise of the dispute based on that cause of action.
+
+### 92 Jurisdictions of other courts not limited
+To avoid doubt, nothing in this Act prevents the parties to a contract for the sale of a motor vehicle from submitting a claim arising under the contract to a court or other body that also has jurisdiction to determine the matter.
+
+### 93 Transfer of proceedings
+(1) A Disputes Tribunal that has no jurisdiction to hear and determine any proceedings may order the proceedings to be transferred to a court or other body that has jurisdiction to determine the matter.
+(2) A Disputes Tribunal may order that any proceedings be transferred to a court or other body that also has jurisdiction to determine the matter if the Disputes Tribunal is satisfied that the proceedings would be more properly determined in that court or other body.
+
+**Privileged statements**
+
+### 94 Disputes Tribunal must direct publication of privileged statements in certain cases
+(1) A Disputes Tribunal must, for the purpose of protecting the public, direct the chief executive of the Department for Courts to publish a notice in the Gazette if—
+  (a) an application is made to the Disputes Tribunal about a matter that falls within its jurisdiction; and
+  (b) in determining the application, the Disputes Tribunal decides against a motor vehicle trader.
+(2) The notice must state—
+  (a) that it is made under this Act; and
+  (b) either 1 of the following:
+    (i) in the case of a motor vehicle trader who is an individual, the full name of that individual and the trading name of his or her motor vehicle trading business:
+    (ii) in the case of a motor vehicle trader that is a company, the name of that company and the trading name of the company's motor vehicle trading business; and
+  (c) the amount of any award made against the motor vehicle trader; and
+  (d) that a copy of the Disputes Tribunal's decision may be obtained from the office of the Disputes Tribunal.
+(3) A notice—
+  (a) may only be published in the Gazette,—
+    (i) if no appeal against the decision of the Disputes Tribunal has been brought, after the time allowed for an appeal has expired; or
+    (ii) if an appeal against the decision of the Disputes Tribunal has been brought, after the appeal has been determined and only if the decision of the Disputes Tribunal has not been quashed; and
+  (b) is protected by qualified privilege.
+(4) A Disputes Tribunal may, at any time, direct the chief executive of the Department for Courts to give the news media a copy of the Disputes Tribunal's decision on the application referred to in subsection (1).
+
+### Subpart 3 — Offences
+
+**Offences relating to requirement to be registered**
+
+### 95 Offence to carry on business of motor vehicle trading or to hold out to be motor vehicle trader unless registered
+(1) A person commits an offence if the person, without being registered under this Act,—
+  (a) carries on the business of motor vehicle trading; or
+  (b) holds out that the person is a motor vehicle trader.
+(2) The penalty on conviction for an offence against this section is set out in section 118.
+
+**Offences relating to banned persons**
+
+### 96 Offence for banned person to participate in business of motor vehicle trading
+(1) A person commits an offence if the person participates in the business of motor vehicle trading while that person is a banned person.
+(2) The penalty on conviction for an offence against this section is set out in section 118.
+
+### 97 Offence to contravene conditions imposed on banned person by Court
+(1) A banned person commits an offence if the person fails to comply with any conditions of the ban imposed by the District Court or, as the case may be, the High Court under section 69(4)(c).
+(2) The penalty on conviction for an offence against this section is set out in section 118.
+
+### 98 Offence to employ or engage banned persons
+(1) A person commits an offence if the person employs or engages, or continues to employ or engage, a banned person in any capacity that involves participation in the business of motor vehicle trading.
+(2) It is a defence to a charge of an offence against this section to prove that the defendant took all reasonable steps to ensure that only persons who are not banned under section 68 or section 69 from participating in the business of motor vehicle trading are employed or engaged by the defendant.
+(3) The penalty on conviction for an offence against this section is set out in section 117.
+
+**Offence relating to tampering with odometers**
+
+### 99 Offence to tamper with odometers
+(1) A person commits an offence if, without reasonable excuse, the person tampers with a motor vehicle's odometer.
+(2) The penalty on conviction for an offence against this section is set out in section 118.
+
+### 100 Evidence in prosecutions for offence of tampering with odometers
+In a prosecution for an offence against section 99, evidence that a motor vehicle's odometer reading when the vehicle was in the possession of any person was less than the reading when that person took possession of the vehicle is evidence that the vehicle's odometer was tampered with by that person.
+
+**Offences relating to disclosure requirements**
+
+### 101 Failure to display particulars about used motor vehicle offence under Fair Trading Act 1986
+A person who fails to comply with section 14(1) must be taken to have contravened section 28 of the Fair Trading Act 1986 for the purposes of section 40 of that Act.
+
+### 102 Failure to take reasonable steps to ensure compliance with section 14(2) an offence
+(1) A motor vehicle trader who is a car market operator commits an offence if that motor vehicle trader fails to take reasonable steps to ensure that a consumer complies with section 14(2).
+(2) The penalty on conviction for an offence against this section is set out in section 116.
+
+**Offences relating to other requirements for motor vehicle trading**
+
+### 103 Offence to fail to pay money to principal
+(1) A person commits an offence if the person fails to pay money to a principal in accordance with section 19.
+(2) The penalty on conviction for an offence against this section is set out in section 117.
+
+### 104 Offence to fail to provide account
+(1) A person commits an offence if the person fails to provide an account in accordance with section 20.
+(2) The penalty on conviction for an offence against this section is set out in section 117.
+
+### 105 Offence to falsify record of contracts for sale
+(1) A person commits an offence if the person—
+  (a) enters any false information into a record of contracts for sale; or
+  (b) falsifies any matter recorded in a record of contracts for sale; or
+  (c) otherwise fails to comply with section 21.
+(2) The penalty on conviction for an offence against this section is set out in section 116.
+
+### 106 Duty to produce certificate of registration
+(1) A person commits an offence if the person fails, without reasonable excuse, to produce for inspection that person's certificate of registration, or a copy of that certificate, when asked to do so by any person.
+(2) The penalty on conviction for an offence against this section is set out in section 116.
+
+**Offences relating to application for registration**
+
+### 107 Offence to provide false or misleading information
+(1) A person commits an offence if the person, for the purposes of any application for registration under this Act,—
+  (a) makes a false statutory declaration under section 31 or section 32, knowing it to be false; or
+  (b) supplies to the Registrar any false or misleading information, knowing it to be false or misleading.
+(2) The penalty for an offence against this section is set out in section 118.
+
+### 108 Offence to fail to notify change in circumstances
+(1) A person commits an offence if the person fails, without reasonable excuse, to notify the Registrar of any change in circumstances in accordance with section 40.
+(2) The penalty on conviction for an offence against this section is set out in section 116.
+
+**Offences relating to inspection and search**
+
+### 109 Offence to obstruct inspection
+(1) A person commits an offence if the person—
+  (a) resists, obstructs, deceives, or attempts to deceive any person who is exercising or attempting to exercise any power or function under section 125; or
+  (b) fails to comply in any respect with any requirement under section 125; or
+  (c) gives to any person who is exercising or attempting to exercise any power or function under section 125 any particulars knowing that those particulars are false or misleading in any material respect, or being reckless as to whether those particulars are so false or misleading.
+(2) The penalty on conviction for an offence against this section is set out in section 116.
+
+### 110 Offence to obstruct search
+(1) A person commits an offence if the person intentionally resists, obstructs, or delays any person executing, or assisting in the execution of, a search warrant.
+(2) The penalty for an offence against this section is set out in section 116.
+
+**Proceedings for offences generally**
+
+### 111 Proceedings for offences generally
+(1) Every offence against this Act is punishable on summary conviction.
+(2) Despite section 14 of the Summary Proceedings Act 1957, any information for an offence against section 99 may be laid at any time within 1 year after the facts alleged in the information have been brought to the knowledge of the informant.
+
+**Proceedings for infringement offences**
+
+### 112 Proceedings for infringement offences
+(1) If a person is alleged to have committed an infringement offence, that person may either—
+  (a) be proceeded against summarily for the offence; or
+  (b) be issued with an infringement notice as provided in section 113.
+(2) If an infringement notice has been issued under section 113, proceedings for the offence to which the notice relates may be commenced in accordance with section 21 of the Summary Proceedings Act 1957, and in that case the provisions of that section apply with the necessary modifications.
+
+### 113 Issue of infringement notices
+If the Registrar has reasonable cause to believe that a person has committed an infringement offence, an infringement notice may be issued to that person by the Registrar.
+
+### 114 Form of infringement notices
+An infringement notice must be in the prescribed form and must contain the following particulars:
+  (a) sufficient particulars to fairly inform the person served with the notice of the time, place, and nature of the alleged offence; and
+  (b) that the infringement fee is $500; and
+  (c) where the infringement fee may be paid; and
+  (d) the time within which the infringement fee must be paid; and
+  (e) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957; and
+  (f) a statement of the person's right to request a hearing; and
+  (g) a statement of what will happen if the person neither pays the fee nor requests a hearing; and
+  (h) any other particulars that may be prescribed.
+
+### 115 Payment of infringement fees
+All infringement fees are payable to the Registrar, and the Registrar must pay all infringement fees received into the Crown Bank Account.
+
+**Penalties**
+
+### 116 Penalty for infringement offences
+(1) A person convicted of an infringement offence under any of the provisions listed in subsection (2) is liable to a fine not exceeding $2,000.
+(2) The provisions are—
+  (a) section 102 (which relates to failing to take reasonable steps to ensure that a consumer complies with section 14(2)):
+  (b) section 105(1)(a) (which relates to entering any false information into a record of contracts for sale):
+  (c) section 105(1)(b) (which relates to falsifying any matter recorded in a record of contracts for sale):
+  (d) section 105(1)(c) (which relates to failing to comply with the other requirements of section 21):
+  (e) section 106 (which relates to failing to produce a certificate of registration, or a copy of the certificate, when requested to do so):
+  (f) section 108 (which relates to failing to notify the Registrar of any change in circumstances):
+  (g) section 109(1)(a) (which relates to resisting or obstructing an inspection by the Registrar or any person authorised by the Registrar):
+  (h) section 109(1)(b) (which relates to failing to comply with any requirement made by the Registrar, or a person authorised by the Registrar, during an inspection):
+  (i) section 109(1)(c) (which relates to giving false or misleading information to the Registrar, or any person authorised by the Registrar, during an inspection):
+  (j) section 110 (which relates to resisting or obstructing any person executing, or assisting in the execution of, a search warrant).
+
+### 117 Penalties for offences under sections 98, 103, and 104
+(1) A person convicted of an offence under any of the provisions listed in subsection (2) is liable,—
+  (a) in the case of an individual, to a fine not exceeding $20,000; or
+  (b) in the case of a company, to a fine not exceeding $40,000.
+(2) The provisions are—
+  (a) section 98 (which relates to employing or engaging a banned person):
+  (b) section 103 (which relates to failing to pay money to a principal in accordance with section 19):
+  (c) section 104 (which relates to failing to provide an account in accordance with section 20).
+
+### 118 Penalties for other offences
+(1) A person convicted of an offence under any of the provisions listed in subsection (2) is liable,—
+  (a) in the case of an individual, to a fine not exceeding $50,000; or
+  (b) in the case of a company, to a fine not exceeding $200,000.
+(2) The provisions are—declaration to the Registrar):
+  (a) section 95(1)(a) (which relates to carrying on the business of motor vehicle trading without being registered under this Act):
+  (b) section 95(1)(b) (which relates to holding out to be a motor vehicle trader without being registered under this Act):
+  (c) section 96 (which relates to a person participating in the business of motor vehicle trading while banned by this Act from doing so):
+  (d) section 97 (which relates to a person failing to comply with any conditions of a ban imposed by the District Court or, as the case may be, the High Court):
+  (e) section 99 (which relates to tampering with odometers):
+  (f) section 107(1)(a) (which relates to making a false statutory
+  (g) section 107(1)(b) (which relates to supplying false or misleading information to the Registrar).
+
+### 119 Power of District Court to impose additional penalty in certain cases
+(1) On the conviction of any person of an offence against section 95(1)(a) or (b), the District Court in which the conviction is entered may, in addition to any penalty that may be imposed under section 118 for the offence, order that any money received by that person as commission or profit for any services or work performed as an unregistered motor vehicle trader be forfeited to the Crown.
+(2) All money forfeited to the Crown is recoverable by the Crown in any court of competent jurisdiction, or may be assessed by the District Court in which the defendant is convicted and be recoverable in like manner as a fine.
+
+### Subpart 4 — Information-gathering powers
+
+**Information-matching provisions**
+
+### 120 Purpose of disclosure of Customs' information
+The purpose of section 121 is to facilitate the disclosure of information from Customs to the Registrar for the purposes of—
+  (a) identifying any person who imports more than 3 motor vehicles during a specified period; and
+  (b) determining whether or not that person should be registered as a motor vehicle trader under this Act.
+
+### 121 Customs must supply Customs' information to Registrar
+(1) The Comptroller of Customs, or any authorised officer of Customs, must supply to the Registrar any Customs' information for the time being held by Customs at the time and at the intervals agreed to between the Comptroller and the Registrar.
+(2) On receiving information from Customs under this section, the Registrar may cause a comparison of that information to be made with the information held in the register.
+
+### 122 Purpose of disclosure of information by Ministry of Transport
+The purpose of section 123 is to facilitate the disclosure of information from the Ministry of Transport to the Registrar for the purposes of—
+  (a) identifying any person who sells more than 6 motor vehicles during a specified period; and
+  (b) determining whether or not that person is, or should be, a banned person or registered as a motor vehicle trader under this Act.
+
+### 123 Ministry of Transport must supply vehicle registration information to Registrar
+(1) The Secretary for Transport, or any person authorised by the Secretary, must supply to the Registrar any vehicle registration information for the time being held under the Transport (Vehicle and Driver Registration and Licensing) Act 1986 at the time and at the intervals agreed to between the Secretary and the Registrar.
+(2) On receiving information from the Ministry of Transport under this section, the Registrar may cause a comparison of that information to be made with the information held in the register.
+
+**Inspection**
+
+### 124 Purpose of inspection by Registrar
+The powers in section 125 may be used if, in the Registrar's opinion, it is necessary for the purpose of—
+  (a) determining whether a person is complying, or has complied, with this Act; or
+  (b) detecting contraventions of this Act.
+
+### 125 Inspection powers
+The Registrar, or any person authorised by the Registrar, may—
+  (a) require a person to produce for inspection relevant documents within that person's possession or control; or
+  (b) inspect and take copies of relevant documents; or
+  (c) take possession of relevant documents and remove them from the place where they are kept and retain them for a reasonable time, for the purpose of taking copies; or
+  (d) retain relevant documents for a period that is in all the circumstances reasonable if there are reasonable grounds for believing that they are evidence of the commission of an offence.
+
+### 126 Conditions of authorisation
+(1) The Registrar must not authorise a person to carry out an inspection unless the Registrar is satisfied that the person is suitably qualified or trained, or the person is a member of a class of persons who are suitably qualified or trained, to carry out an inspection.
+(2) A person authorised by the Registrar to carry out an inspection must, on entering any premises, and when requested at any subsequent time, produce—
+  (a) the authorisation referred to in subsection (3); and
+  (b) evidence of that person's identity.
+(3) An authorisation must be in writing and must contain—
+  (a) a reference to this section; and
+  (b) the full name of the authorised person; and
+  (c) a statement of the powers conferred on the authorised person by section 125; and
+  (d) the purpose for which those powers may be exercised.
+
+### 127 Registrar's entry to premises restricted
+(1) The Registrar, or any person authorised by the Registrar, may not enter any place except in the circumstances set out in subsection (2).
+(2) The circumstances are—
+  (a) the occupier of the place consents to the entry; or
+  (b) the place is a public place and the entry is made when it is open to the public; or
+  (c) the place is a motor vehicle trader's place of business and it is—
+    (i) open for carrying on the business; or
+    (ii) otherwise open to the public; or
+  (d) the entry is authorised by a search warrant issued under section 130.
+
+### 128 Disclosure of information from inspection
+On the direction of the Registrar, a person authorised to make an inspection under section 125 must give all records and disclose all information acquired in the course of the inspection to—
+  (a) the Registrar; or
+  (b) any person specified by the Registrar for the purposes of—
+    (i) exercising powers conferred by this Act; or
+    (ii) detecting and prosecuting offences against any other Act (but those records and information are not admissible in any criminal proceedings against the person from whom the records or information were acquired or any person to whom they relate); or
+    (iii) a liquidator for the purposes of liquidation of a company; or
+    (iv) the Official Assignee for the purposes of a bankruptcy.
+
+### 129 Restriction on disclosure of information from inspection
+A person must not communicate to any person any information acquired in the course of an inspection except—
+  (a) in accordance with section 128; or
+  (b) for the purposes of this Act; or
+  (c) in accordance with the Official Information Act 1982 or the Privacy Act 1993; or
+  (d) for the purposes of any court proceedings; or
+  (e) for any purposes that may be specified in any other Act.
+
+**Search warrants**
+
+### 130 Issue of warrant
+(1) Any District Court Judge, Community Magistrate, Justice of the Peace, or Registrar of a District Court may issue a search warrant for any place if satisfied, on application in writing made on oath, that there are reasonable grounds for believing that there is at that place any thing—
+  (a) in respect of which an offence under this Act has been or is being committed; or
+  (b) that has been, is being, or is intended to be used by any person for the commission of an offence under this Act; or
+  (c) that is or may be evidence of the commission of an offence under this Act by any person.
+(2) The Judge, Community Magistrate, Justice, or Registrar may impose any reasonable conditions on the exercise of the warrant that he or she thinks fit.
+
+### 131 Powers conferred by warrant
+(1) A warrant authorises the person named in it—
+  (a) to enter and search the place specified in the warrant on 1 occasion within 20 working days of the date of issue of the warrant at a time that is reasonable in the circumstances:
+  (b) to use any assistance that is reasonable in the circumstances:
+  (c) to use any force for gaining entry and for breaking open any article or thing that is reasonable in the circumstances:
+  (d) to search for and remove documents or any article or thing that the person executing the warrant believes on reasonable grounds may be relevant:
+  (e) when necessary, to take copies of documents, or extracts from documents, that the person executing the warrant believes on reasonable grounds may be relevant:
+  (f) if necessary, to require a person to reproduce, or assist any person executing the warrant to reproduce in usable form, information recorded or stored in a document.
+(2) A person assisting the person executing the warrant also has the powers referred to in subsection (1)(c) to (e).
+(3) The warrant must be executed in accordance with any reasonable conditions that may be specified in the warrant when it is issued.
+
+### 132 Form and content of search warrant
+A search warrant must—
+  (a) be in the prescribed form; and
+  (b) be directed to—
+    (i) a member of the police by name; or
+    (ii) any member of the police; or
+    (iii) the Registrar; or
+    (iv) a person authorised by the Registrar under section 125; and
+  (c) contain all of the following particulars:
+    (i) the place or thing that may be searched in accordance with the warrant; and
+    (ii) the offence for which the warrant is issued; and
+    (iii) a description of the kind of property that is authorised to be seized; and
+    (iv) the period during which the warrant may be executed; and
+    (v) any conditions specified under section 130(2).
+
+### 133 Warrant must be produced
+A person executing a warrant must—
+  (a) have the warrant with him or her; and
+  (b) produce it on initial entry and, if requested, at any subsequent time; and
+  (c) identify himself or herself to the owner or occupier or person in charge of the place if that person is present; and
+  (d) produce evidence of his or her identity.
+
+### 134 Other duties of person who executes warrant
+A person who executes a warrant must, before completing the search, leave in a prominent place at the place searched,—
+  (a) in the case of a search carried out at a time when the owner or occupier was not present, a written notice stating—
+    (i) the date and time when the warrant was executed; and
+    (ii) the name of the person who executed the warrant; and
+  (b) in the case of a search where a document or article or thing was seized from the place being searched, a list of documents or articles or things that were seized during the search.
+
+### 135 When alternative to list of seized documents may be provided
+If it is not practicable to prepare a list under section 134 before completing the search, or if the owner or occupier of the place being searched consents, the person executing the warrant—
+  (a) may, instead of leaving a list, leave a notice stating that documents or articles or things have been seized during the search and that, within 5 working days of the search, a list will be delivered, left, or sent stating what documents, articles, or things have been seized; and
+  (b) must, within 5 working days of the search,—
+    (i) deliver a list to the owner or occupier; or
+    (ii) leave a list in a prominent position at the place searched; or
+    (iii) send a list by mail to the owner or occupier of the place searched.
+
+### 136 Matters that must be stated in list of documents
+A list under section 134 must state—
+  (a) the documents, articles, and things that have been seized; and
+  (b) the location from where they were seized; and
+  (c) the location where they are being held.
+
+### 137 Duty to assist
+The occupier or person in charge of the place that a person authorised by a warrant enters for the purpose of searching must provide that person with all reasonable facilities and assistance in executing the warrant.
+
+### 138 Power to inspect and take copies of documents, etc, obtained under warrant
+The Registrar, or any person authorised by the Registrar for the purpose, may inspect and take copies of any documents or extracts from them obtained under a warrant.
+
+### 139 Disposal of things seized
+(1) In any proceedings for an offence relating to any thing seized under warrant, the court may order, either at the trial or hearing or on an application, that the thing be delivered to the person appearing to the court to be entitled to it, or that it be otherwise disposed of in any manner that the court thinks fit.
+(2) Any member of the police or the Registrar may, at any time, unless an order has been made under subsection (1), return the thing to the person from whom it was seized, or apply to a District Court Judge for an order for its disposal.
+(3) On any such application, the District Court Judge may make any order that a court may make under subsection (1).
+(4) If proceedings for an offence relating to the thing are not brought within a period of 3 months of seizure, any person claiming to be entitled to the thing may, after the expiry of that period, apply to a District Court Judge for an order that it be delivered to him or her.
+(5) On any such application, the District Court Judge may—
+  (a) adjourn the application, on any terms that he or she thinks fit, for proceedings to be brought; or
+  (b) make any order that a court may make under subsection (1).
+
+### 140 Court order for disposal of things seized to be suspended on conviction
+(1) If any person is convicted in any proceedings for an offence relating to anything for which a warrant has been issued, and any order is made under section 139, the operation of the order is suspended,—
+  (a) in any case, until the expiration of the time prescribed by the Summary Proceedings Act 1957 for the filing of a notice of appeal or an application for leave to appeal; and
+  (b) if a notice of appeal is filed within the time so prescribed, until the determination of the appeal; and
+  (c) if application for leave to appeal is filed within the time so prescribed, until the application is determined, and, if leave to appeal is granted, until the determination of the appeal.
+(2) If the operation of any such order is suspended until the determination of the appeal, the Court determining the appeal may, by order, cancel or vary the order.
+
+## Part 5 — Miscellaneous provisions
+
+**Exemption for car auctioneers from licensing requirement under Auctioneers Act 1928**
+
+### 141 Exemption for car auctioneers from licensing requirement under Auctioneers Act 1928
+(1) If a car auctioneer who is registered as a motor vehicle trader under this Act carries on a business that is limited to conducting sales by auction of motor vehicles only, the car auctioneer—
+  (a) is exempt from the requirement to be licensed under section 3 of the Auctioneers Act 1928; and
+  (b) must be treated as if the car auctioneer is a person licensed to conduct sales by auction of motor vehicles for the purposes of that Act.
+(2) However, a car auctioneer—
+  (a) must continue to comply with the duties imposed on auctioneers by the Auctioneers Act 1928; and
+  (b) may apply for and hold a licence under the Auctioneers Act 1928 if the car auctioneer wishes to do so.
+
+**Service of notices**
+
+### 142 Service of notices
+(1) Any notice or any other document required to be served on, or given to, any person under this Act, or any regulation made under this Act, is sufficiently served if,—
+  (a) in the case of an applicant for registration or a motor vehicle trader registered under this Act, the notice or document is—
+    (i) delivered to the person at the person's address for service stated in accordance with section 32(2); or
+    (ii) sent by fax or email to the person's fax number or email address, as the case may be, stated in accordance with section 32(2); or
+    (iii) posted in a letter addressed to the person at the person's address for service stated in accordance with section 32(2); or
+  (b) in any other case, the notice or document is—
+    (i) delivered to the person; or
+    (ii) left at the person's usual or last known place of residence or business in New Zealand; or
+    (iii) posted in a letter addressed to the person at the person's place of residence or business in New Zealand.
+(2) A notice or document that is sent to a person at a fax number or an email address must be treated as received by that person not later than 2 days after the date on which it is sent.
+(3) A notice or document that is posted to a person must be treated as received by that person not later than 7 days after the date on which it is posted.
+(4) However, a notice or document must not be treated as received if the person to whom it is posted or sent proves that it was not received, otherwise than through fault on the person's part.
+(5) For the purposes of the Summary Proceedings Act 1957, an infringement notice sent to a person by post under subsection (1) must be treated as having been served on the person on the date that it was posted.
+
+**Levy regulations**
+
+### 143 Regulations may impose levy
+(1) Every motor vehicle trader, or class of motor vehicle traders, specified in regulations made under subsection (2) must pay to the Minister, for each period of 12 months during which the motor vehicle trader is registered under this Act, a levy of an amount stated in, or calculated or set or reset in accordance with, those regulations for, or in connection with, the costs of the operation and administration of the Disputes Tribunals.
+(2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
+  (a) prescribing different levies for different classes of motor vehicle traders:
+  (b) specifying the amount of the levy:
+  (c) providing for the method by which the levy will be calculated:
+  (d) specifying the criteria and other requirements by and against which the levy will be set or reset:
+  (e) providing for the payment and collection of the levy:
+  (f) exempting any motor vehicle trader or class of motor vehicle traders from paying the levy:
+  (g) providing for waivers or refunds of the whole or any part of the levy:
+  (h) providing for any other matters necessary or desirable to set, calculate, administer, collect, and enforce the levy.
+
+**Regulations**
+
+### 144 Regulations
+The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+  (a) prescribing forms to be used for the purposes of this Act, and the matters to be specified in the forms:
+  (b) prescribing fees payable under this Act:
+  (c) prescribing procedures for the payment of prescribed fees:
+  (d) prescribing procedures, requirements, and other matters, not inconsistent with this Act, for any register or list that the Registrar is required to keep under this Act, including matters relating to—
+    (i) the operation of the register or list:
+    (ii) access to the register or list:
+    (iii) the location of, and hours of access to, the register or list:
+  (e) providing for any other matters contemplated by this Act that are necessary for its administration or necessary for giving it full effect.
+
+**Amendments and repeal**
+
+### 145 Amendments to other enactments
+The enactments set out in Schedule 2 are amended in the manner set out in that schedule.
+
+### 146 Repeal
+The Motor Vehicle Dealers Act 1975 (1975 No 127) is repealed.
+
+**No compensation for loss of office**
+
+### 147 No compensation for loss of office
+The Crown is not liable to make a payment to, or otherwise compensate, any person in respect of the person ceasing for any reason to hold any office established by or under the former Act.
+
+**Transitional provisions for existing licence applications**
+
+### 148 Existing licence applications must be treated as applications for registration under this Act in certain cases
+(1) An existing licence application must be treated as if it were an application for registration as a motor vehicle trader made under this Act; and the provisions relating to applications for registration under this Act apply with any necessary modifications.
+(2) Subsection (1) applies only if, within 20 working days after receiving the notice referred to in section 150, the applicant—
+  (a) gives written notice to the Registrar that the applicant wishes to have the application determined under this Act; and
+  (b) provides the Registrar with the information or other matters that are required to ensure that the application complies with sections 31 and 32.
+
+### 149 What happens if applicant does not meet requirements of section 148(2)
+(1) An existing licence application must be taken to have lapsed and is of no effect if the applicant fails to meet all or any of the requirements of section 148(2).
+(2) An applicant to which subsection (1) applies is not entitled to be refunded, in whole or in part, any prescribed fee paid under the former Act in relation to an existing licence application.
+
+### 150 Registrar's requirements for processing existing licence applications
+As soon as practicable after the date of commencement of this Act, the Registrar must—
+  (a) give written notice to every applicant who made an existing licence application; and
+  (b) describe the status of the applicant's application and the effect of sections 148 and 149 in that notice.
+
+### 151 Payment of prescribed application fee under former Act sufficient for purpose of processing existing licence application
+An applicant who has already paid, under the former Act, the prescribed fee for an existing licence application is not required to pay the prescribed fee that would have otherwise been payable under section 31(2)(b).
+
+**Transitional provisions for registration**
+
+### 152 Certain persons to be treated as registered on commencement of Act
+(1) The following persons are to be treated as motor vehicle traders registered under this Act:
+  (a) a person who, immediately before the date of commencement of this Act, held a motor vehicle dealer's licence that was in force under the former Act:
+  (b) a person who, immediately before the date of commencement of this Act, applied for the renewal of that person's motor vehicle dealer's licence under the former Act and whose—
+    (i) application for renewal had not been determined before that date; and
+    (ii) licence would have expired before that date if not for the application of section 18(10) of the former Act:
+  (c) a person who, immediately before the date of commencement of this Act, was not required to be licensed under the former Act but, with the commencement of this Act, must be registered as a motor vehicle trader under this Act.
+(2) A person referred to in subsection (1)(a) must, within 20 working days after receiving a written notice from the Registrar, comply with that notice.
+(3) For the purposes of subsection (2), the Registrar must, as soon as practicable after the commencement of this Act, request every person referred to in subsection (1)(a), by written notice, to provide the Registrar with the information and other matters required under sections 31 and 32 (except the prescribed application fee referred to in section 31(2)(b)).
+
+### 153 When registration under section 152 ceases
+Unless a person referred to in section 152(1) earlier registers under this Act, the registration under that section ceases,—
+  (a) in the case of a person referred to in section 152(1)(a),—
+    (i) if that person complies with section 152(2), on the later of the following dates:
+    (A) the expiry of the balance of the term of the motor vehicle dealer's licence held by that person immediately before the date of commencement of this Act; or
+    (B) the expiry of the transitional period; or
+      (ii) if that person does not comply with section 152(2), on the earlier of the following dates:
+    (A) the expiry of the balance of the term of the motor vehicle dealer's licence held by that person immediately before the date of commencement of this Act; or
+    (B) the expiry of the transitional period:
+  (b) in every other case, on the expiry of the transitional period.
+
+**Transitional provisions for Board**
+
+### 154 Continuation of Board
+(1) Despite the repeal of the former Act, the Board continues to exist until a date that the Governor-General may fix by Order in Council made on the recommendation of the Minister.
+(2) The Governor-General may fix a date only if the Board has certified that—
+  (a) the Board has completed its functions in accordance with section 155; and
+  (b) all disciplinary proceedings before the Board have been completed; and
+  (c) all appeals relating to those proceedings have been determined.
+(3) However, the Governor-General may, at any time, fix a date if the Governor-General is satisfied, at the time of the making of the Order in Council, that—
+  (a) a reasonable period of time has elapsed since the commencement of this Act to enable the Board to certify to the Governor-General under subsection (2); and
+  (b) the matters set out in that subsection will not be unduly prejudiced by the abolition of the Board.
+
+### 155 Board must deliver certain records to Registrar
+As soon as practicable after the commencement of this Act, the Board must deliver to the Registrar a copy of—
+  (a) every existing licence application received by the Board; and
+  (b) the Register of Motor Vehicle Dealers maintained under section 6N of the former Act; and
+  (c) any information or documents held by the Board relating to the matters referred to in sections 24(d) to (f) and 25(b); and
+  (d) any other information or documents held by the Board relating to the licensing of motor vehicle dealers under the former Act that the Registrar may, by written notice, request from the Board.
+
+**Transitional provisions for disciplinary proceedings under former Act**
+
+### 156 Transitional provisions for disciplinary proceedings under former Act
+(1) In this section and section 154,—
+  - **Authority** means the Motor Vehicle Salesmen Registration Authority constituted under section 63 of the former Act
+  - **disciplinary proceeding** means a proceeding under the former Act that relates to—
+    (a) any application to the Board under section 112 of the former Act for an order cancelling a motor vehicle dealer's licence or suspending a licensee; or
+    (b) any application to the Authority under section 116 of the former Act for an order cancelling a salesman's registration or suspending a salesman; or
+    (c) any application to the Board under section 117 of the former Act for an order cancelling a salesman's certificate of approval or suspending a salesman; or
+    (d) any application under section 118A of the former Act in respect of an officer of a licensee company, a chief executive officer of a licensee company, or a branch manager.
+(2) If a disciplinary proceeding has been commenced, but not completed, before the date of commencement of this Act, the disciplinary proceeding must be continued and completed in all respects under the former Act, including any appeal under Part 9 of that Act relating to the proceeding, as if this Act had not been passed.
+(3) The Board or the Authority must adopt procedures that are necessary for the expeditious conduct of any disciplinary proceeding before it.
+
+**Transitional provisions for licensees' obligations**
+
+### 157 Obligations of licensees
+(1) The repeal of the former Act does not affect the obligations imposed by Part 7 of that Act in relation to dealings in motor vehicles that took place before the commencement of this Act.
+(2) For the purpose of dealing with allegations, complaints, and disputes in relation to those obligations, the former Act continues in force as if this Act had not been passed.
+(3) However, a dispute in relation to an obligation to which subsection (1) applies may, after the commencement of this Act, be referred under section 96(4) of the former Act to a Disputes Tribunal constituted under section 82, and the Disputes Tribunal to which the dispute is so referred has the same jurisdiction to deal with that dispute as a Disputes Tribunal established under section 97 of the former Act would have had.
+(4) If, before the commencement of this Act, a dispute to which section 96 of the former Act applies has, under that section, been referred to a Disputes Tribunal established under section 97 of that Act, that dispute must, if it has not been settled or determined at the commencement of this Act, be dealt with by that Disputes Tribunal as if this Act had not been passed.
+
+**Transitional provisions for Fund**
+
+### 158 Purpose of section 159
+The purpose of section 159 is to ensure that the Institute is able to carry out its functions and duties in relation to the Fund during the period of 12 months beginning with the date of commencement of this Act.
+
+### 159 Membership of Institute to continue despite repeal of former Act
+(1) This section applies to every person who, immediately before the date of commencement of this Act,—
+  (a) held a motor vehicle dealer's licence that was in force under the former Act; and
+  (b) was a member of the Institute.
+(2) Despite the repeal of the former Act, a person to whom this section applies must be treated as a member of the Institute during the period of 12 months beginning with the date of commencement of this Act unless the person resigns from that membership.
+
+### 160 Claims against Fund
+(1) No person is entitled to make any claim against the Fund for any act or thing done or omitted to be done after the commencement of this Act.
+(2) No person is entitled to make any claim against the Fund for any act or thing done or omitted to be done before the commencement of this Act unless notice of the claim is given in writing to the Institute within the period of 12 months beginning with the date of the commencement of this Act.
+(3) All provisions of Part 3 of the former Act (except section 35) continue to apply until all claims received in accordance with the provisions of that Part have been fully dealt with.
+(4) Until all claims against the Fund have been fully dealt with, every registered motor vehicle trader who has previously held a motor vehicle dealer's licence under the former Act must pay to the Institute for payment into the Fund the contribution that the Institute, with the concurrence of the Minister, considers sufficient to satisfy its liabilities under the Fund.
+
+### 161 Registrar must cancel registration for non-payment of contribution to Fund
+(1) If a registered motor vehicle trader referred to in section 160(4) fails to pay a contribution to the Fund within the time specified by the Institute, the Institute must give written notice of that fact to the Registrar.
+(2) As soon as practicable after receiving a notice under subsection (1), the Registrar must cancel the registration of the person who is the subject of the notice in accordance with the process for cancellation set out in section 43.
+(3) A cancellation under this section must be treated as if it were a cancellation under section 42, and the provisions relating to the cancellation of registration under this Act apply with any necessary modifications.
+(4) If the person whose registration has been cancelled pays the contribution to the Fund, that person may apply for re-registration despite, as the case may be, section 24(h) or section 25(g).
+(5) An application for re-registration under subsection (4) must be treated as if it were a new application for registration, and the provisions relating to applications for registration under this Act apply with any necessary modifications.
+
+### 162 Winding up of Fund
+(1) At any time after all the claims against the Fund have been received and fully dealt with, the Institute may, by notice in the Gazette, specify a date (being not less than 1 month after the date of the publication of the notice in the Gazette) on which the Fund is to be wound up.
+(2) On and from the date so specified, any remaining assets of the Fund cease to be held by the Institute and may be used by the Institute for any lawful purpose that it determines.
+(3) The Institute must, as soon as practicable after the date so specified, prepare final accounts for the Fund audited by a chartered accountant (within the meaning of section 19 of the Institute of Chartered Accountants of New Zealand Act 1996) appointed for the purpose by the Institute.
+
+**Review of Act**
+
+### 163 Review of operation of Act
+(1) The Ministry must, no later than 2 years from the date of commencement of this Act,—
+  (a) review the operation of this Act since its commencement; and
+  (b) prepare for the Minister a report of the review that includes recommendations on whether any amendments to this Act are necessary or desirable.
+(2) In preparing the report, the Ministry must consult with interested parties, including representatives of consumer interests in relation to motor vehicle sales.
+(3) As soon as practicable after receiving the report from the Ministry, the Minister must present a copy of it to the House of Representatives.
+
+## Schedule 1 — Procedure of Disputes Tribunals
+
+### 1 Procedure generally
+Except as otherwise provided in this Act and subject to the rules of natural justice, the procedure of a Disputes Tribunal is to be the procedure that the adjudicator thinks fit.
+
+### 2 Sittings of Disputes Tribunal
+(1) Sittings of a Disputes Tribunal must be held at the times and places that the adjudicator appoints.
+(2) A sitting of a Disputes Tribunal may be adjourned, from time to time and from place to place, by the adjudicator.
+
+### 3 Administrative support for Disputes Tribunals
+(1) The chief executive of the Department for Courts must—
+  (a) provide secretarial, recording, and any other services that may be necessary to enable each Disputes Tribunal to exercise its functions and powers; and
+  (b) appoint secretaries of the Disputes Tribunal under the State Sector Act 1988 in the numbers that may be required.
+(2) One person may be appointed secretary of 2 or more Disputes Tribunals under subclause (1)(b).
+(3) The office of secretary may be held either separately or in conjunction with any other office in the Public Service.
+
+### 4 Filing of applications
+Proceedings before the Disputes Tribunal must be commenced by the filing of an application in the prescribed form, together with the prescribed filing fee (if any), at the office of the Disputes Tribunal.
+
+### 5 Procedure on receipt of application
+(1) On receipt of an application, the adjudicator must immediately—
+  (a) refer the application to the respondent; and
+  (b) require the respondent by written notice to discuss the application with the applicant and to make a written report to the Disputes Tribunal on the outcome of the discussions.
+(2) Every report must—
+  (a) be made to the adjudicator within 14 days after receiving the adjudicator's notice or any further period that the adjudicator may allow; and
+  (b) contain—
+    (i) a statement by the applicant that the matter has been settled to the applicant's satisfaction; or
+    (ii) in any case where no settlement has been reached, a statement by either party that that party requires the matter to be heard by the Disputes Tribunal.
+
+### 6 Notice of hearing by Disputes Tribunal
+(1) This clause applies if—
+  (a) the adjudicator does not receive a report within the period referred to in clause 5(2)(a); or
+  (b) the adjudicator is notified in accordance with clause 5(2)(b)(ii) that either party requires the matter to be heard by the Disputes Tribunal.
+(2) If this clause applies,—
+  (a) the party that requires the matter to be heard must pay the prescribed hearing fee (if any) to the Disputes Tribunal; and
+  (b) as soon as practicable after the payment of that fee, the adjudicator must fix the time and place for the hearing of the application and must notify each party to the application of the time and place fixed.
+
+### 7 Joinder of parties
+(1) If the adjudicator finds that a person who appears to him or her to have sufficient connection with the proceedings in relation to the application has not been given notice of the proceedings, he or she may direct that notice of the proceedings and the date, time, and place for the hearing be given to that person.
+(2) A notice referred to in subclause (1) must be in writing and must include all of the following:
+  (a) sufficient particulars to fairly inform the person to whom it is given of the substance of the matters to be dealt with at the hearing:
+  (b) a reference to the relevant provision of this Act under the authority of which the hearing will be held:
+  (c) where information on the procedure of the Disputes Tribunal may be obtained.
+(3) For the purposes of this clause, a person has sufficient connection with the proceedings in relation to an application if that person's presence as a party to the proceedings is necessary to enable the Disputes Tribunal to determine effectively and completely the questions arising on the application or to grant the relief that it considers to be due.
+
+### 8 Manner in which Disputes Tribunal conducts hearings
+(1) Every hearing of a Disputes Tribunal must be conducted in private and with as little formality as the requirements of this Act and the proper consideration of the matters before the Disputes Tribunal permit.
+(2) The Disputes Tribunal may accept any relevant evidence or information, whether or not that evidence or information would normally be admissible in a court of law.
+
+### 9 Right to appear at hearings
+(1) At any hearing of an application or claim before a Disputes Tribunal, any party to the proceedings is entitled to attend and be heard.
+(2) No party is entitled to be represented at a hearing of the Disputes Tribunal by a representative unless the adjudicator—
+  (a) considers it appropriate in all the circumstances to allow a party to be represented; and
+  (b) approves the representative.
+(3) However, the following parties may be represented by a representative who is approved by the adjudicator:
+  (a) a corporation or an unincorporated body of persons, if the representative is an officer or employee or a member of the corporation or body or holds a majority interest in it:
+  (b) a person jointly liable or entitled with another or others, if the representative is 1 of the persons jointly liable or entitled or, in the case of a partnership, is an employee of those persons:
+  (c) a minor, or other person under disability:
+  (d) any other person, if the adjudicator is satisfied that for sufficient cause that person is unable to appear in person or is unable to present the person's case adequately.
+(4) If any party to any proceedings before the Disputes Tribunal is represented by a representative, any other party to those proceedings may also be represented.
+(5) An adjudicator must not approve a representative—
+  (a) who is, or has been, enrolled as a barrister or solicitor; or
+  (b) who, in the opinion of the adjudicator, has been regularly engaged in advocacy work before other tribunals.
+(6) Subclause (5) does not apply if—
+  (a) the person proposed for approval is a person or 1 of the persons jointly liable or entitled with another; or
+  (b) the party seeking to be represented is a company and the person proposed for approval is the majority shareholder of the company.
+
+### 10 Duties of assessor
+(1) The duties of an assessor are to—
+  (a) sit with the Disputes Tribunal; and
+  (b) act in all respects as an extra member of the Disputes Tribunal for the hearing of the application; and
+  (c) act as an extra member of the Disputes Tribunal to assist in the determination of the application, but the adjudicator alone determines the application.
+(2) Before starting his or her duties, an assessor must take an oath before the adjudicator that the assessor will faithfully and impartially perform the duties.
+(3) The failure of an assessor to perform his or her duties does not prevent the adjudicator from making a decision on the application without the input of the assessor.
+(4) An adjudicator who is satisfied that it is appropriate to do so may appoint a substitute assessor under section 82(3)(b).
+
+### 11 Remuneration and allowances of assessors
+The Department for Courts must pay assessors the remuneration and allowances determined for assessors from time to time by the Minister who is responsible for the Department for Courts.
+
+### 12 Immunity of witnesses, adjudicators, and assessors
+(1) Witnesses have the same privileges and immunities in relation to the hearings of a Disputes Tribunal as they would have if the hearings were proceedings in a court of law.
+(2) Neither an adjudicator nor an assessor is under any criminal or civil liability in respect of—
+  (a) any act done or omitted in the course of the exercise or intended exercise of any of their functions, duties, or powers under this Act; or
+  (b) any words spoken or written at, or for the purposes of, any hearing under this Act.
+(3) Subclause (2) does not apply if it is proved to the satisfaction of the court before which any proceedings are taken that the adjudicator or the assessor, as the case may be, has acted in bad faith.
+
+### 13 Decision of Disputes Tribunal
+(1) The adjudicator's decision is the decision of the Disputes Tribunal.
+(2) Every decision of a Disputes Tribunal must—
+  (a) be given in writing; and
+  (b) contain the reasons for the decision.
+
+### 14 Disputes Tribunal may award costs in certain circumstances
+(1) The Disputes Tribunal may award costs to or against a party to any proceedings before it only if,—
+  (a) in the opinion of the Disputes Tribunal,—
+    (i) the proceedings are frivolous or vexatious or ought not to have been brought:
+    (ii) the matter ought reasonably to have been settled before proceeding to a hearing but that the party against whom an award of costs is to be made refused, without reasonable excuse, to take part in the discussions referred to in clause 5(1)(b) or acted in a contemptuous or improper manner during those discussions; or
+  (b) any applicant to the Disputes Tribunal, after receiving notice of the hearing, fails to attend the hearing without good cause.
+(2) In any case to which subclause (1) applies, the Disputes Tribunal may order a party to pay—
+  (a) to the Crown either or both of the following:
+    (i) the reasonable costs of the Disputes Tribunal hearing:
+    (ii) the fees and expenses of any witness that have been paid or are payable by the Crown; or
+  (b) to another party the reasonable costs of that other party in connection with the proceedings.
+
+### 15 Enforcement of Disputes Tribunal's decisions
+(1) Either party to the proceedings may file a duplicate of any decision of a Disputes Tribunal in the office of the District Court.
+(2) Upon filing, the decision is enforceable in all respects as a final judgment of the District Court in its civil jurisdiction.
+(3) No decision of a Disputes Tribunal may be filed unless the time allowed for an appeal against the decision has expired and no appeal has been brought.
+(4) For the purposes of this clause, District Court, in relation to the filing under subclause (1) of a decision of a Disputes Tribunal, means the District Court nearest to the place of business at which the motor vehicle in respect of which the decision is given was sold.
+
+### 16 Appeals from decision of Disputes Tribunal
+(1) Any party who is dissatisfied with a decision given by a Disputes Tribunal may, within 10 working days after notice of the decision is given to that party, appeal to a District Court Judge.
+(2) If the amount of the claim exceeds $12,500, the appeal may be brought on either of the following grounds:
+  (a) that the Disputes Tribunal's decision was wrong in fact or law, or in both fact and law; or
+  (b) that the proceedings were conducted by the Disputes Tribunal in a manner that was unfair to the appellant and prejudicially affected the result of the proceedings.
+(3) If the amount of the claim does not exceed $12,500, the appeal may be brought on the ground that the proceedings were conducted by the Disputes Tribunal in a manner that was unfair to the appellant and prejudicially affected the result of the proceedings.
+(4) For the purposes of this section, the Disputes Tribunal is taken to have conducted the proceedings in a manner that was unfair to the appellant and prejudicially affected the result if—
+  (a) the Disputes Tribunal fails to have regard to any provision of any enactment that is brought to the attention of the Disputes Tribunal at the hearing; and
+  (b) as a result of that failure, the result of the proceedings is unfair to the appellant.
+(5) The District Court's decision given under this clause is final.
+(6) To avoid doubt, nothing in this clause affects the right of any person to apply, in accordance with law, for judicial review.
+
+## Schedule 2 — Enactments amended
+
+### 58 Buyer or lessee of motor vehicle acquired from registered trader takes motor vehicle free of security interest
+A buyer or lessee of a motor vehicle who acquires the motor vehicle for value takes the motor vehicle free of any security interest in the motor vehicle if—
+  (a) the buyer or lessee is a consumer who acquires the motor vehicle from a registered trader (whether or not the motor vehicle trader is acting as a principal or as an agent for the seller or lessor in the transaction under which the buyer or lessee, as the case may be, acquires the motor vehicle); and
+  (b) the security interest was not created or provided for in a transaction to which the buyer or lessee is a party; and
+  (c) before the transaction to which the buyer or lessee is a party is completed, the security interest was not,—
+    (i) in the case of a used motor vehicle, disclosed in accordance with sections 14 and 15 of the Motor Vehicle Sales Act 2003; or
+    (ii) in any other case, disclosed in writing to the buyer or lessee.
+
+### 63 District Court Judge may declare certain persons responsible for repayment to registered trader
+Despite anything to the contrary in any other Act or rule of law, a District Court Judge may, on the application of a registered trader, declare that a person is responsible for the repayment to the registered trader of the whole or any part of the amount paid under section 59 if—
+  (a) the claim under that section arose wholly or partly by reason of any act or omission of an officer, employee, or agent of the debtor or the registered trader; and
+  (b) the person was knowingly a party to the act or omission, whether or not that person is a person referred to in paragraph (a).
+
+| Motor Vehicle Sales Act 2003 | Sections 52 to 73 |
+| --- | --- |
+
+| Motor Vehicle Sales Act 2003 | Sections 120 to 123 |
+| --- | --- |
