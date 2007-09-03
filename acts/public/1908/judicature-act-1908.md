@@ -1,0 +1,9524 @@
+# Judicature Act 1908
+_Consolidation as at 2007-09-03_
+
+> An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
+
+### 1 Short Title, etc
+(1) The Short Title of this Act is the Judicature Act 1908.
+(2) This Act is a consolidation of the enactments mentioned in Schedule 1 hereto.
+(3) Without affecting the specific saving provisions of this Act, it is hereby declared as follows:
+  (a) All Proclamations, Orders in Council, districts, offices, appointments, commissions, patents, scales of fees, rules, regulations, orders, registers, records, instruments, and generally all acts of authority which originated under any of the enactments mentioned in Schedule 1 hereto or any enactment thereby repealed, and are subsisting or in force on the coming into operation of this Act, shall enure for the purposes of this Act as fully and effectually as if they had originated under the corresponding provisions of this Act, and accordingly shall, where necessary, be deemed to have so originated:
+  (b) All actions, matters, and proceedings commenced under any such enactment, and pending or in progress on the coming into operation of this Act, may be continued, completed, and enforced under this Act.
+(4) This Act is divided into Parts, as follows:Part 1 The High Court. (Sections 3 to 56).Part 2 The Court of Appeal. (Sections 57 to 75.)Part 3 Rules and Provisions of Law in Judicial Matters Generally. (Sections 76 to 101.)
+
+### 2 Interpretation
+In this Act, unless the context otherwise requires,
+  - **Chief High Court Judge**
+    (a) means the person holding that office under section 4A; and
+    (b) includes a Judge of the High Court acting in place of the Chief High Court Judge under section 4A(5)
+  - **Civil proceedings** means any proceedings in the Court, other than criminal proceedings
+  - **Court** means the High Court of New Zealand
+  - **Court of Appeal Rules** means rules which are made under section 51C of this Act and which regulate the practice and procedure of the Court of Appeal (including the practice and procedure on civil appeals from any Court or person to the Court of Appeal); and includes the Court of Appeal Rules 1955
+  - **Defendant** means a person served or intended to be served with any application to the Court for the exercise of its civil or criminal jurisdiction
+  - **Existing** means existing on the coming into operation of this Act
+  - **High Court Rules** means the rules from time to time set out in Schedule 2 to this Act
+  - **Inferior Court** means any Court of judicature within New Zealand of inferior jurisdiction to the High Court
+  - **Interlocutory application**
+    (a) Means any application to the Court in any civil proceedings or criminal proceedings or intended civil proceedings or intended criminal proceedings for an order or a direction relating to a matter of procedure or, in the case of civil proceedings, for some relief ancillary to that claimed in a pleading; and
+    (b) Includes an application for a new trial; and
+    (c) Includes an application to review an order made, or a direction given, on any application to which paragraph (a) or paragraph (b) of this definition applies:
+  - **Judge** means a Judge of the High Court
+  - **Judgment** includes decree
+  - **Master** means a Master of the High Court
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
+  - **Plaintiff** means a person who makes an application (other than an interlocutory application) to the Court for the exercise of its civil or criminal jurisdiction.
+  - **Supreme Court** means the Supreme Court of New Zealand established by section 6 of the Supreme Court Act 2003.
+
+## Part 1 — The High Court
+
+**Constitution of the Court**
+
+### 3 Supreme Court reconstituted as High Court
+(1) There shall continue to be in and for New Zealand a Court of record, for the administration of justice throughout New Zealand, henceforth to be called the High Court of New Zealand.
+(2) The High Court is hereby declared to be the same Court as that established by this Act, and called, before the commencement of section 2 of the Judicature Amendment Act 1979, the Supreme Court.
+
+### 4 The Judges of the High Court
+(1) The High Court consists of
+  (a) a Judge called the Chief Justice of New Zealand; and
+  (b) the other Judges, up to a maximum of 55, who are from time to time appointed.
+(1A) For the purposes of subsection (1)(b),
+  (a) a Judge who is acting on a full-time basis counts as 1:
+  (b) a Judge who is acting on a part-time basis counts as an appropriate fraction of 1:
+  (c) the aggregate number (for example, 54.5) must not exceed the maximum number of Judges that is for the time being permitted.
+(1B) Subsection (1) is subject to subsections (1C) and (1D) and the other provisions of this Act
+(1C) An additional Judge or additional Judges may be appointed whenever the Governor-General thinks it necessary because of the absence or anticipated absence of any of the Judges on leave preliminary to retirement.
+(1D) Every appointment made under subsection (1C) must be a permanent appointment from the time when it is made, and must fill the vacancy next occurring in the office of Judge, not being a vacancy filled by an earlier appointment under subsection (1C).
+(2) The Judges of the High Court shall be appointed by the Governor-General in the name and on behalf of Her Majesty.
+(2A) A Judge must not undertake any other paid employment or hold any other office (whether paid or not) unless the Chief High Court Judge is satisfied that the employment or other office is compatible with judicial office.
+(3) As between the Judges of the High Court who are not Judges of the Supreme Court or Court of Appeal,
+  (a) the Chief High Court Judge has seniority over the other Judges:
+  (b) the other Judges have seniority among themselves according to the dates of their appointments as Judges of the High Court:
+  (c) 2 or more of the other Judges appointed as Judges of the High Court on the same date,
+    (i) have seniority according to the precedence assigned to them by the Governor-General on appointment; or
+    (ii) if no precedence is assigned to them, according to the order in which they take the Judicial Oath.
+(3A) Permanent Judges have seniority over temporary Judges.
+(3B) Subsection (3A) overrides subsection (3).
+(4) The jurisdiction of the High Court shall not be affected by any vacancy in the number of the Judges of that Court.
+
+### 4A Chief High Court Judge
+(1) The Governor-General must by warrant appoint a Judge of the High Court who is not a Judge of the Supreme Court or the Court of Appeal to be the Chief High Court Judge.
+(2) The Chief High Court Judge holds that office until the earliest of the following:
+  (a) ceasing to hold office as a Judge of the High Court:
+  (b) being appointed a Judge of the Supreme Court or the Court of Appeal:
+  (c) resigning the office of Chief High Court Judge without resigning office as a Judge of the High Court.
+(3) The Chief High Court Judge cannot resign the office of Chief High Court Judge without resigning office as a Judge of the High Court, except with the prior approval of the Governor-General.
+(4) The Judge of the High Court who is next senior after the Chief High Court Judge may act in place of the Chief High Court Judge if,
+  (a) because of illness or absence from New Zealand, or for any other reason, the Chief High Court Judge is unable to exercise the duties of that office; or
+  (b) the office of Chief High Court Judge is vacant.
+(5) While acting in place of the Chief High Court Judge, the next senior Judge
+  (a) may perform the functions and duties of the Chief High Court Judge; and
+  (b) may for that purpose exercise all the powers of the Chief High Court Judge.
+(6) The fact that the next senior Judge exercises any of the powers of the Chief High Court Judge is conclusive proof of his or her authority to do so.
+
+### 4B Functions of Chief High Court Judge
+The Chief High Court Judge is responsible to the Chief Justice for ensuring the orderly and prompt conduct of the High Court's business.
+
+### 4C Judges of High Court act on full-time basis but may be authorised to act part-time
+(1) A person acts as a Judge of the High Court on a full-time basis unless he or she is authorised by the Attorney-General to act on a part-time basis.
+(2) The Attorney-General may, in accordance with subsection (4), authorise a Judge appointed under section 4 or section 4A to act on a part-time basis for any specified period.
+(3) To avoid doubt, an authorisation under subsection (2) may take effect as from a Judge's appointment or at any other time, and may be made more than once in respect of the same Judge.
+(4) The Attorney-General may authorise a Judge to act on a part-time basis only
+  (a) on the request of the Judge; and
+  (b) with the concurrence of the Chief High Court Judge.
+(5) In considering whether to concur under subsection (4), the Chief High Court Judge must have regard to the ability of the Court to discharge its obligations in an orderly and expeditious way.
+(6) A Judge who is authorised to act on a part-time basis must resume acting on a full-time basis at the end of the authorised part-time period.
+(7) The basis on which a Judge acts must not be altered during the term of the Judge's appointment without the Judge's consent, but consent under this subsection is not necessary if the alteration is required by subsection (6).
+(8) An authorisation may not be granted under subsection (2) for any person appointed as a Judge of the Court of Appeal or Supreme Court.
+
+### 5 Senior Judge to act as Chief Justice in certain circumstances
+[Repealed]
+
+### 6 Judges to be barristers or solicitors
+No person shall be appointed a Judge unless he has held a practising certificate as a barrister or solicitor for at least 7 years.
+
+### 7 Commissions of Judges to continue during good behaviour
+[Repealed]
+
+### 8 Judges may be removed or suspended on address of the House of Representatives
+[Repealed]
+
+### 9 Governor-General may suspend Judge when Parliament not sitting
+[Repealed]
+
+### 9A Salaries and allowances of Judges
+(1) There shall be paid to the Chief Justice, to the other Judges of the Supreme Court, to the President of the Court of Appeal, to the other Judges of the Court of Appeal, and to the other Judges, out of public money, without further appropriation than this section,
+  (a) Salaries at such rates as the Remuneration Authority from time to time determines; and
+  (b) Such allowances as are from time to time determined by the Remuneration Authority; and
+  (c) Such additional allowances, being travelling allowances or other incidental or minor allowances, as may be determined from time to time by the Governor-General.
+(2) Subject to the Remuneration Authority Act 1977, any determination made under subsection (1) of this section, and any provision of any such determination, may be made so as to come into force on a date to be specified in that behalf in the determination, being the date of the making of the determination or any other date, whether before or after the date of the making of the determination or the date of the commencement of this section.
+(3) Every such determination, and every provision of any such determination, in respect of which no date is specified as aforesaid shall come into force on the date of the making of the determination.
+(4) The salary and allowances payable for a period during which a Judge acts on a part-time basis must be calculated and paid as a pro-rata proportion of the salary and allowances for a full-time equivalent position.
+(5) For the purpose of section 24 of the Constitution Act 1986, the payment of salary and allowances on a pro-rata basis under subsection (4) is not a reduction of salary.
+
+### 10 Salaries not to be diminished
+[Repealed]
+
+### 11 Temporary Judges
+(1) Subject to section 11B of this Act, at any time during the illness or absence of any Judge, or for any other temporary purpose, the Governor-General may, in the name and on behalf of Her Majesty, appoint any person (including a former Judge) to be a Judge for such term, not exceeding 12 months, as the Governor-General may specify.
+(2) Any person appointed a Judge under this section may be re-appointed, but no Judge shall hold office under this section for more than 2 years in the aggregate.
+(3) Every person appointed a Judge under this section shall, during the term of his appointment, be paid the salary and allowances payable by law to a Judge other than the Chief Justice the other Judges of the Supreme Court, the President of the Court of Appeal, the other Judges of the Court of Appeal, or the Chief High Court Judge.
+
+### 11A Former Judges
+(1) Subject to section 11B of this Act, the Governor-General may, in the name and on behalf of Her Majesty, appoint any former Judge to be an acting Judge for such term not exceeding 2 years or, if the former Judge has attained the age of 72 years, not exceeding one year, as the Governor-General may specify.
+(2) During the term of his appointment, the former Judge may act as a Judge during such period or periods only and in such place or places only as the Chief High Court Judge may determine.
+(3) Every former Judge appointed under this section shall, during each period when he acts as a Judge, but not otherwise, be paid a salary at the rate for the time being payable by law to a Judge other than the Chief Justice or the President of the Court of Appeal or a Judge of the Court of Appeal, and shall also be paid such travelling allowances or other incidental or minor allowances as may be fixed from time to time by the Governor-General.
+(4) Every former Judge appointed under this section shall, during each period when he acts as a Judge, have all the jurisdiction, powers, protections, privileges, and immunities of a Judge.
+
+### 11B Certificate by Chief Justice and Chief High Court Judge
+No appointment may be made under section 11 or section 11A except on a certificate signed by the Chief Justice and the Chief High Court Judge to the effect that, in their opinion, it is necessary for the due conduct of the Court's business that one or more temporary Judges, or (as the case may require) for one or more acting Judges, to be appointed.
+
+### 12 Superannuation allowance of Judges
+[Repealed]
+
+### 13 Age of retirement
+Every Judge, other than a former Judge appointed under section 11 or section 11A of this Act or a person who is deemed by section 58(10) of this Act to be a Judge, shall retire from office on attaining the age of 70 years.
+
+### 14 Rights on retirement before attaining retiring age
+If the Chief Justice or the President of the Court of Appeal resigns from office before attaining the age of 70 years and is, at the time of his or her resignation and but for the fact of his or her resignation, entitled to a period of leave of absence, he or she shall continue to receive the salary, privileges, and allowances of his or her former office until the expiration of that period or until he or she attains the age of 70 years or until he or she dies, whichever is the sooner, and his or her rights and obligations under the Government Superannuation Fund Act 1956 and all the rights which his or her surviving wife, husband, civil union partner, or de facto partner may have under that Act shall be the same as they would have been if he or she had been in office while his or her salary, privileges, and allowances so continued.
+
+### 15 How superannuation allowances of existing Judges to be computed
+[Repealed]
+
+**Jurisdiction of the Court**
+
+### 16 General jurisdiction
+The Court shall continue to have all the jurisdiction which it had on the coming into operation of this Act and all judicial jurisdiction which may be necessary to administer the laws of New Zealand.
+
+### 16A Power to award damages as well as, or in substitution for, injunction or specific performance
+Where the Court has jurisdiction to entertain an application for an injunction or specific performance, it may award damages in addition to, or in substitution for, an injunction or specific performance.
+
+### 17 Jurisdiction as to mentally disordered persons, etc
+The Court shall also have within New Zealand all the jurisdiction and control over the persons and estates of idiots, mentally disordered persons, and persons of unsound mind, and over the managers of such persons and estates respectively, as the Lord Chancellor of England, or any Judge or Judges of Her Majesty's High Court of Justice or of Her Majesty's Court of Appeal, so far as the same may be applicable to the circumstances of New Zealand, has or have in England under the Sign-manual of Her Majesty or otherwise.
+
+### 17A Jurisdiction as to liquidation of associations
+(1) In this section, association includes any partnership, company, or other body corporate, or unincorporated body of persons other than
+  (a) A company or an overseas company, as defined in section 2 of the Companies Act 1993; or
+  (b) A company as defined in section 2 of the Companies Act 1955; or
+  (c) A body corporate that may be put into liquidation in accordance with the provisions of any Act under which it is constituted.
+(2) The Court has jurisdiction to appoint a named person or an Official Assignee for a named district as the liquidator of an association.
+(3) An application for the appointment of a liquidator may be made by the association or a director or member or creditor or the Registrar of Companies.
+(4) The Court may appoint a liquidator if it is satisfied that
+  (a) The association is dissolved or has ceased to carry on business or is carrying on business solely for the purpose of terminating its affairs; or
+  (b) The association is unable to pay its debts; or
+  (c) It is just and equitable that the association be put into liquidation.
+
+### 17B Application of Companies Act 1993
+Part 16 of the Companies Act 1993 (except sections 241(1) to (4) and 268) shall apply, with such modifications as may be necessary, in relation to the liquidation of an association and as if references to
+  (a) A company registered under that Act included a reference to an association:
+  (b) A director included references to any person occupying the position of director by whatever name called:
+  (c) Shareholders or persons entitled to surplus assets under the constitution of a company and the Companies Act 1993 were references to such persons as the Court may determine to be justly entitled to any surplus assets after the satisfaction of the claims of all the creditors.
+
+### 17C Meaning of inability to pay debts
+For the purposes of section 17A of this Act, an association is unable to pay its debts
+  (a) If
+    (i) A creditor who is owed an amount exceeding $100 by the association has served on the association a demand for payment of that amount by leaving it at the principal office of the association in New Zealand, or delivering it to the secretary or a director or manager or principal officer of the association; and
+    (ii) The association has for 3 weeks after the demand was served on it failed to pay the amount due or secure the payment of it or compound for it to the satisfaction of the creditor; or
+  (b) If
+    (i) An action or proceeding has been commenced against a member of the association for the payment of an amount owing by the association or that member in his or her capacity as a member; and
+    (ii) Notice in writing of the action or proceeding has been served on the association by leaving it at its principal place of business in New Zealand or by delivering it to the secretary or a director, or principal officer of the association or serving it on the association in such manner as the Court may approve or direct; and
+    (iii) The association has not, within 10 days after the notice was served on it, paid or secured the debt, or compounded for it or had the action or proceeding stayed or indemnified the member for the amount of any judgment that may be entered against him or her and any costs, damages, and expenses that may be incurred by him or her in the action or proceeding; or
+  (c) If execution or other process issued on a judgment, decree, or order obtained in a court in favour of a creditor against the association, or a member of the association in his or her capacity as a member, or a person authorised to be sued on behalf of the association, is returned unsatisfied; or
+  (d) If it is proved to the satisfaction of the High Court that the association is unable to pay its debts, and in determining whether an association is unable to pay its debts, the Court shall take into account the contingent and prospective liabilities of the association.
+
+### 17D Power of liquidator to enforce liabilities
+The liquidator may, by notice in writing, require any person who is liable to pay or contribute to the payment ofto pay or contribute accordingly and every such person is liable to pay or contribute the amount due in respect of that liability.
+  (a) Any debt or liability of the association; or
+  (b) Any sum for the adjustment of the rights of the members among themselves; or
+  (c) The costs and expenses of the liquidation
+
+### 17E Actions stayed on liquidation
+Where the Court appoints a liquidator of an association, no action or proceeding shall be commenced or continued against any person referred to in section 17D of this Act in respect of any debt of the association, except with the leave of the Court, and subject to such terms as the Court may impose.
+
+### 18 No jurisdiction in cases of felonies or misdemeanours committed before 14 January 1840
+The Court shall not have jurisdiction to try any felony or misdemeanour committed before the 14th day of January 1840.
+
+### 19 Powers of High Court may be exercised by 1 or more Judges
+(1) Each Judge or any 2 or more Judges may in any part of New Zealand exercise all the powers of the Court, except such powers as may by any statute be required to be exercised by the full Court or by any specified number of Judges.
+(2) Subsection (1) of this section shall be read subject to the provisions of any enactment that provides for the appointment of persons other than Judges to sit with the Court or as members of the Court in respect of any specified proceedings or class of proceedings.
+
+### 19A Certain civil proceedings may be tried by jury
+(1) This section applies to civil proceedings in which the only relief claimed is payment of a debt or pecuniary damages or the recovery of chattels.
+(2) If the debt or damages or the value of the chattels claimed in any civil proceedings to which this section applies exceeds $3,000, either party may have the civil proceedings tried before a Judge and a jury on giving notice to the Court and to the other party, within the time and in the manner prescribed by the High Court Rules, that he requires the civil proceedings to be tried before a jury.
+(3) Notwithstanding anything in subsection (2) of this section, in any case where, after notice has been given pursuant to that subsection but before the trial has commenced, the debt or damages or the value of the chattels claimed is reduced to $3,000 or less, the civil proceedings shall be tried before a Judge without a jury.
+(4) If, in any civil proceedings to which this section applies, the defendant sets up a counterclaim, then, unless pursuant to this section the civil proceedings and the counterclaim are both to be tried before a Judge without a jury, the following provisions shall apply:
+  (a) On the application of either party made with the consent in writing of the other party, both the civil proceedings and counterclaim shall be tried before a Judge without a jury, or before a Judge with a jury, whichever is specified in the application:
+  (b) If no such application is made, the civil proceedings and the counterclaim shall, subject to any direction of the Court or a Judge under section 19B of this Act, be tried in accordance with the foregoing provisions of this section:
+    Provided that if the Court or a Judge orders that the civil proceedings and the counterclaim be tried together, they shall be tried before a Judge with a jury.
+(5) Notwithstanding anything to the contrary in the foregoing provisions of this section, in any case where notice is given as aforesaid requiring any civil proceedings to be tried before a jury, if it appears to a Judge before the trialthe Judge may, on the application of either party, order that the civil proceedings or issue be tried before a Judge without a jury.
+  (a) That the trial of the civil proceedings or any issue therein will involve mainly the consideration of difficult questions of law; or
+  (b) That the trial of the civil proceedings or any issue therein will require any prolonged examination of documents or accounts, or any investigation in which difficult questions in relation to scientific, technical, business, or professional matters are likely to arise, being an examination or investigation which cannot conveniently be made with a jury,
+(6) Nothing in this section shall apply in respect of any civil proceedings to be heard by the Court in its admiralty jurisdiction.
+
+### 19B All other civil proceedings to be tried before Judge alone, unless Court otherwise orders
+(1) Except as provided in section 19A of this Act, civil proceedings shall be tried before a Judge alone.
+(2) Notwithstanding subsection (1) of this section, if it appears to the Court at the trial, or to a Judge before the trial, that the civil proceedings or any issue therein can be tried more conveniently before a Judge with a jury the Court or Judge may order that the civil proceedings or issue be so tried.
+
+### 19C Questions of foreign law to be decided by Judge
+(1) Where, for the purpose of disposing of any civil proceedings or any criminal proceedings which are being tried by a Judge of the High Court with a jury, it is necessary to ascertain the law of any other country which is applicable to the facts of the case, any question as to the effect of the evidence given with respect to that law shall, instead of being submitted to the jury, be decided by the Judge alone.
+(2) This section has effect notwithstanding anything in section 19A or section 19B of this Act.
+
+### 20 Governor-General in Council may divide New Zealand into districts
+[Repealed]
+
+### 21 Actions and proceedings to be taken in the district prescribed by the Code of Civil Procedure
+[Repealed]
+
+### 22 How applications to be made when Judge absent or unable to act
+[Repealed]
+
+### 23 Governor-General may appoint special sittings
+The Governor-General in Council may from time to time appoint special sittings of the Court for the despatch of civil and criminal business, to be held at such time and place or places, and before such Judge or Judges, as he thinks fit.
+
+### 23A Offices of the High Court
+(1) The Governor-General may from time to time, by notice in the Gazette, declare an office or offices of the Court to be established at such place or places as may be specified in the notice, as from such date, in the case of each office, as may be so specified.
+(1A)
+(2)
+(3) Where any office of the Court is abolished, the Minister of the Crown who is responsible for the Department for Courts may direct that all documents, books, and records in that office shall be delivered to some other office of the Court (in this section referred to as the substituted office). From the time of their delivery to the Registrar of the substituted office, those documents, books, and records shall be deemed to be in the lawful custody of that Registrar.
+(4) Where any office of the Court is abolished, the following provisions shall apply:
+  (a) Any act or thing that could have been done under any enactment or rule by the Registrar of that office may be done by the Registrar of the substituted office:
+  (b) Any step in any proceedings that would, but for the abolition of that office, have been taken there under any enactment or rule may be taken at the substituted office:
+  (c) Any act or thing required or authorised by any enactment or rule to be done by any person at that office, whether in respect of any proceedings or in respect of any transaction recorded or document filed there, may be done at the substituted office:
+  (d) Any address for service, being an address conforming to the requirements of the rules of Court, that has been given by any party to any proceedings in respect of which the records are delivered to the substituted office shall continue to be the address for service of that party for the purposes of those proceedings, notwithstanding that because of its distance from the substituted office it may cease to conform to those requirements:
+    Provided that where, because of its distance from the substituted office, the address does not conform to the requirements of the rules, the party shall give a new address for service conforming to those requirements when he first files in the substituted office any document in the proceedings:
+  (e) If in respect of any proceedings, or of any transaction, document, record, or other matter, any question arises as to the application of any provision of this section or as to the proper procedure to be followed, the Court or a Judge may determine the question and make such order thereon as the Court or Judge thinks fit.
+
+### 24 Registrar may act for Judge in certain cases
+[Repealed]
+
+**Commercial list**
+
+### 24A Establishment of commercial list
+(1) The Governor-General may from time to time by notice in the Gazette declare a commercial list to be established at any office of the High Court as from a date to be specified in the notice.
+(2) The first commercial list shall be established at the office of the High Court at Auckland for a period to be specified in the notice (which period shall not be less than 4 years).
+(3) The Governor-General may, on or before the expiration of the period specified under subsection (2) of this section, either
+  (a) Extend that period by notice in the Gazette; or
+  (b) Declare by notice in the Gazette that the commercial list at the office of the High Court at Auckland shall continue indefinitely.
+(4) Where the Governor-General exercises the power given by subsection (3)(a) of this section, the Governor-General may, on or before the expiration of the extended period, declare by notice in the Gazette that the commercial list established at the office of the High Court at Auckland shall continue indefinitely.
+(5) Where the commercial list established at the office of the High Court at Auckland ceases to be established upon the expiration of the period specified under subsection (2) of this section or the extended period specified under subsection (3)(a) of this section, the commercial list shall be deemed to continue for the purpose of completing any proceeding entered on the commercial list at the expiration of that period.
+
+### 24B Proceedings eligible for commercial list
+(1) The classes of proceedings eligible for entry on a commercial list are as follows:
+  (a) Any proceedings arising out of or otherwise relating to:
+    (i) The ordinary transactions of persons engaged in commerce or trade or of shippers:
+    (ii) The carriage of goods for the purpose of trade or commerce:
+    (iii) The construction of commercial, shipping, or transport documents:
+    (iv) The export or import of merchandise:
+    (v) Insurance, banking, finance, guarantee, commercial agency, or commercial usages:
+    (vi) Disputes arising out of intellectual property rights between parties engaged in commerce:
+  (b) Applications to the Court under the Arbitration Act 1908:
+  (c) Appeals against determinations of the Commerce Commission:
+  (d) Proceedings under any of the provisions of sections 80, 81, 82, and 89 of the Commerce Act 1986:
+  (e) Cases stated by the Securities Commission and civil proceedings under the Securities Act 1978:
+  (f) The following proceedings in relation to companies registered under the Companies Act 1955 or the Companies Act 1993, as the case may be:
+    (i) Applications for directions by liquidators and receivers:
+    (ii) Defended applications under section 209ZG of the Companies Act 1955 or section 174 of the Companies Act 1993:
+    (iii) Disputes relating to takeovers:
+    (iv) Disputes between shareholders or classes of shareholders of companies (other than companies registered under Part 8 of the Companies Act 1955 and companies registered under the Companies Act 1993 and having not more than 25 shareholders):
+  (g) Proceedings of a commercial nature required or permitted to be entered on a commercial list by or under any Act or by or under the High Court Rules or any rules made under section 51C of this Act.
+(2) Where any appeal belonging to the class of appeals described in subsection (1)(c) of this section is entered on a commercial list,
+  (a) That appeal shall, notwithstanding section 75(2) of the Commerce Act 1986, be heard and determined by the Court; and
+  (b) Any lay member appointed pursuant to section 77 of the Commerce Act 1986 shall, for the purpose of the hearing and determination of that appeal by the Court, be deemed to be a lay member of the Court; and
+  (c) Section 77 and sections 91 to 97 of the Commerce Act 1986 shall, subject to section 24E of this Act, apply with all necessary modifications to that appeal.
+(3) Rules made under section 51C of this Act shall make provision for
+  (a) The manner in which proceedings eligible for entry on a commercial list are to be entered on a commercial list:
+  (b) Orders for the removal of proceedings entered on a commercial list:
+  (c) The procedure governing the determination of proceedings entered on a commercial list.
+
+### 24C Commercial list Judges
+(1) A commercial list established under section 24A is supervised by a Judge nominated from time to time by the Chief Justice after consulting the Chief High Court Judge.
+(1A) The Chief High Court Judge can be nominated under subsection (1).
+(2) After consulting the Chief High Court Judge, the Chief Justice may nominate one or more Judges to help the Judge nominated under subsection (1) and to supervise the list when that Judge is absent from duty.
+(3) Every interlocutory application in any proceeding entered on a commercial list shall be determined by a Judge nominated under subsection (1) or subsection (2) of this section.
+(4) Whereany party to the dispute may apply to a Judge nominated under subsection (1) or subsection (2) of this section for the determination of the questions involved in the dispute.
+  (a) Any dispute has arisen concerning the construction, status, or application of a contract or document; and
+  (b) The dispute could be determined in a proceeding eligible for entry on a commercial list; and
+  (c) No proceeding has been commenced in respect of the dispute,
+
+### 24D Directions for speedy determination of real questions in proceedings on commercial list
+The Court may from time to time give such directions as the Court thinks fit (whether or not inconsistent with the High Court Rules or any rules made under section 51C of this Act) for the speedy and inexpensive determination of the real questions between the parties to proceedings entered on a commercial list.
+
+### 24E Agreement not to appeal
+The parties to any proceedings entered on a commercial list may agree that the decision of the Court shall be final.
+
+### 24F Proceedings not to be tried by jury
+Notwithstanding anything in section 19A of this Act, no proceeding entered on a commercial list shall be tried before a jury.
+
+### 24G Restriction of right of appeal from interlocutory decisions
+(1) No appeal shall lie from an interlocutory decision of the High Court in respect of any proceeding entered on a commercial list unless leave to appeal to the Court of Appeal is given by the High Court on application made within 7 days of the decision being given or within such further time as the High Court may allow.
+(2) If the High Court refuses leave to appeal from any such interlocutory decision, the Court of Appeal may grant that leave on application made to the Court of Appeal within 21 days of the refusal of leave by the High Court.
+
+**Administrative Division of the Court**
+
+### 25 Administrative Division of the High Court
+[Repealed]
+
+### 26 Jurisdiction of Administrative Division
+[Repealed]
+
+### 26A Lay members or assessors in certain cases
+[Repealed]
+
+### 26B Rules relating to Administrative Division
+[Repealed]
+
+**Associate Judges of the High Court**
+
+### 26C Appointment of Associate Judges
+(1) The Governor-General may from time to time, by warrant, appoint fit and proper persons to be Associate Judges of the High Court.
+(2) The maximum number of Associate Judges is 6.
+(3) For the purposes of subsection (2),
+  (a) an Associate Judge who is acting on a full-time basis counts as 1:
+  (b) an Associate Judge who is acting on a part-time basis counts as an appropriate fraction of 1:
+  (c) the aggregate number (for example, 5.5) must not exceed the maximum number of Associate Judges that is for the time being permitted.
+(4) A person must not be appointed as an Associate Judge unless he or she has held a practising certificate as a barrister or solicitor for at least 7 years.
+(5) An Associate Judge must not undertake any other paid employment or hold any other office (whether paid or not) unless the Chief High Court Judge is satisfied that the employment or other office is compatible with judicial office.
+(6) An Associate Judge holds office until, in accordance with section 26E, he or she retires or resigns or is removed from office.
+(7) Subsection (6) applies to
+  (a) every Associate Judge appointed after the commencement of this section; and
+  (b) every person deemed by section 6(1) of the Judicature Amendment Act 2004 to have been appointed as an Associate Judge at the commencement of this section (despite any provision to the contrary in any enactment or warrant of appointment).
+
+### 26D Associate Judges act on full-time basis but may be authorised to act part-time
+(1) A person acts as an Associate Judge on a full-time basis unless he or she is authorised by the Attorney-General to act on a part-time basis.
+(2) The Attorney-General may, in accordance with subsection (4), authorise an Associate Judge appointed under section 26C to act on a part-time basis for a specified period.
+(3) To avoid doubt, an authorisation under subsection (2) may take effect as from an Associate Judge's appointment or at any other time, and may be made more than once in respect of the same Associate Judge.
+(4) The Attorney-General may authorise an Associate Judge to act on a part-time basis only
+  (a) on the request of the Associate Judge; and
+  (b) with the concurrence of the Chief High Court Judge.
+(5) In considering whether to concur under subsection (4), the Chief High Court Judge must have regard to the ability of the Court to discharge its obligations in an orderly and expeditious way.
+(6) An Associate Judge who is authorised to act on a part-time basis must resume acting on a full-time basis at the end of the authorised part-time period.
+(7) The basis on which an Associate Judge acts must not be altered during the term of the Associate Judge's appointment without the Associate Judge's consent, but consent under this subsection is not necessary if the alteration is required by subsection (6).
+
+### 26E Vacation of office
+(1) The Governor-General may, if the Governor-General thinks fit, remove an Associate Judge for inability or misbehaviour.
+(2) An Associate Judge may resign the office of Associate Judge by notice in writing addressed to the Attorney-General.
+(3) Subject to section 26H of this Act, every Associate Judge shall retire from office on attaining the age of 70 years.
+
+### 26F Salaries and allowances of Associate Judges
+(1) Subject to subsection (5) of this section, there shall be paid to every Associate Judge, out of public money, without further appropriation than this section,
+  (a) A salary at such rate as the Remuneration Authority from time to time determines; and
+  (b) Such allowances as are from time to time determined by the Remuneration Authority; and
+  (c) Such additional allowances, being travelling allowances or other incidental or minor allowances, as may be determined from time to time by the Governor-General.
+(2) Subject to subsection (5) of this section, the salary of an Associate Judge shall not be diminished during the continuance of the Associate Judge's appointment.
+(3) Subject to the Remuneration Authority Act 1977, any determination made under subsection (1) of this section, and any provision of any such determination, may be made so as to come into force on a date to be specified in that behalf in the determination, being the date of the making of the determination or any other date, whether before or after the date of the making of the determination or the date of the commencement of this section.
+(4) Every such determination, and every provision of any such determination, in respect of which no date is specified as aforesaid shall come into force on the date of the making of the determination.
+(5) The salary and allowances payable for a period during which an Associate Judge acts on a part-time basis must be calculated and paid as a pro-rata proportion of the salary and allowances for a full-time equivalent position.
+(6) For the purpose of subsection (2), the payment of salary and allowances on a pro-rata basis under subsection (5) is not a diminution of salary.
+
+### 26G Superannuation or retiring allowances of Associate Judges
+For the purpose of providing a superannuation fund or retiring allowance for persons appointed as Associate Judges, sums by way of subsidy or contribution may from time to time be paid under Part 5B of the Government Superannuation Fund Act 1956 or to any registered superannuation scheme in accordance with a determination of the Remuneration Authority.
+
+### 26H Temporary Associate Judges
+(1) The Governor-General may, subject to this section, appoint any person (including a former Associate Judge) to act as an Associate Judge for such period as is specified in the warrant of appointment.
+(2) The period so specified shall not exceed 12 months; but any person appointed under this section may from time to time be reappointed.
+(3) No person shall be appointed as an Associate Judge under this section unless that person is eligible for appointment as an Associate Judge pursuant to section 26C of this Act, save that, subject to subsection (4) of this section, a person otherwise qualified who has attained the age of 70 years (including an Associate Judge who has retired after attaining that age) may be appointed as an Associate Judge under this section.
+(4) No person shall be appointed or reappointed as an Associate Judge under this section who has attained the age of 72 years.
+(5) Subject to section 26F(5) of this Act, every person appointed as an Associate Judge under this section shall, during the term of that Associate Judge's appointment, be paid the salary and allowances payable by law to an Associate Judge.
+(6) No appointment may be made under this section otherwise than on a certificate signed by the Chief Justice to the effect that, in the opinion of the Chief Justice, it is necessary for the due conduct of the business of the Court that a temporary Associate Judge be appointed.
+(7) The Chief Justice must not sign the certificate without first consulting the Chief High Court Judge.
+
+### 26I Associate Judge may exercise certain powers of the Court
+(1) An Associate Judge shall have and may exercise all the jurisdiction and powers of the Court in relation to the following matters:
+  (a) Any application for summary judgment:
+  (b) Any application to stay or dismiss an application for the appointment of a liquidator under the Companies Act 1955 or the Companies Act 1993, as the case may be:
+  (c) Any proceedings under which relief is claimed solely under any of the provisions of sections 140, 143, 144, 145, 145A, and 148 of the Land Transfer Act 1952 (which provisions relate to caveats):
+  (d) The assessment of damages where liability has been determined, or the trial of proceedings in which only the amount of the debt or damages is disputed:
+  (e) The entry of any judgment by consent, or the making of any other order by consent:
+  (f) Any other matter in respect of which jurisdiction is conferred on an Associate Judge by or under any Act.
+(2) An Associate Judge shall have and may exercise all the jurisdiction and powers which are vested in the Court or a Judge by the following enactments:
+  (a) Article 11 of Schedule 1 to the Arbitration Act 1996:
+  (b) Sections 205 to 207 of the Companies Act 1955, as applied to compromises and arrangements by section 35 of the Companies Amendment Act 1993:
+  (c) Sections 220 to 222, 226, 231(4), 233 to 237, 239, 240(1)(a), 246 to 249, 250 to 263, 265 to 267, 311A, 311B, 312, and 332 of the Companies Act 1955, as applied in relation to the winding up of a company by section 42(1) of the Companies Amendment Act 1993:
+  (d) Sections 139, 168, 209N to 209P, 209R to 209T, 209X to 209ZA, 209ZF, 211, 213, 216 to 218, 220, 231(2), 235(5), 240, 243, 258, 260, 264, 265, 268 to 270, 281, 288, and 467 of the Companies Act 1955, as continued in force by section 3 of the Companies Act Repeal Act 1993:
+  (e) Sections 123, 154, 165 to 168, 173, 179, 232 to 234, 236 to 238, 241, 243, 246 to 248, 250, 257(2), 261(5), 266, 269, 284, 286, 290, 291, 294 to 296, 299, 307, and 314 of the Companies Act 1993:
+  (f) Rules 39, 41, 71, 87 to 89, 91, 94, 95, 96, 111, 125(3), 136, 137, 141 to 143, 190, and 191 of the Companies (Winding Up) Rules 1956, as continued in force by section 42(7) of the Companies Amendment Act 1993:
+  (g) Section 42(2) of the Corporations (Investigation and Management) Act 1989:
+  (h) Section 26, Part 10, section 119, and Part 15 of the Insolvency Act 1967:
+  (ha)
+  (hb)
+  (i) Rules 41 and 43 of the Insolvency Rules 1970:
+  (j) Any regulations relating to liquidations made under the Companies Act 1955 or under the Companies Act 1993.
+  (k) sections 118, 128, 131, 167, 168, 170, 179, 181, 182, and 186 of the Personal Property Securities Act 1999.
+  (l)
+(3) An Associate Judge shall have and may exercise all the jurisdiction and powers of the Court to deal with costs and other matters incidental to the matters over which an Associate Judge has jurisdiction pursuant to subsection (1) or subsection (2) of this section.
+(4) Rules made under section 51C of this Act or rules made under any other Act in the manner provided in that section may contain such provisions as may be necessary
+  (a) To enable the proper exercise by Associate Judges of the jurisdiction and powers conferred by this section; and
+  (b) To regulate the practice and procedure of the Court on appeals against the exercise by Associate Judges of the jurisdiction and powers so conferred.
+(5)
+
+### 26IA Ancillary powers of Associate Judge
+(1) Subject to subsection (2) of this section, an Associate Judge shall have, in all proceedings (including proceedings on an interlocutory application) properly before the Associate Judge, jurisdiction to make any order or to exercise any authority or jurisdiction that might be made or exercised by a Judge of the High Court.
+(2) Nothing in subsection (1) of this section confers on an Associate Judge any jurisdiction or power of a kind described in subsection (3) or subsection (4) of section 26J of this Act.
+
+### 26IB Judge or Associate Judge may, by video link, preside at hearing of specified matters
+(1) A Judge or Associate Judge may, by video link, preside at the hearing of any matter
+  (a) over which an Associate Judge has jurisdiction under section 26I; and
+  (b) that is specified in rules made under section 51C for the purposes of this section.
+(2) A hearing conducted under the authority of subsection (1)
+  (a) has effect as if the Judge or Associate Judge were physically present:
+  (b) does not affect the privileges and immunities of the Judge or Associate Judge or of any witnesses, counsel, or parties appearing at the hearing.
+(3) Rules made under section 51C may
+  (a) specify a class or classes of matters in respect of which hearings authorised by subsection (1) may be conducted:
+  (b) regulate the manner in which hearings authorised by subsection (1) are conducted.
+
+### 26J Power to make rules conferring specified jurisdiction and powers of Judge in Chambers on Associate Judges
+(1) Notwithstanding anything contained in any other provision of this Act or of any other Act but subject to the provisions of this section, rules made under section 51C of this Act or rules made under any other Act in the manner provided in that section may confer on Associate Judges, subject to such limitations and restrictions as may be specified in the rules, such of the jurisdiction and powers of a Judge sitting in Chambers, conferred by this Act or any other Act, as may be specified in the rules.
+(2) Any such rules may contain such other provisions as may be necessary
+  (a) To enable the proper exercise by Associate Judges of the jurisdiction and powers so conferred; and
+  (b) To regulate the practice and procedure of the Court on any application to the Court under section 26P(1) of this Act to review the exercise by an Associate Judge of the jurisdiction and powers so conferred.
+(3) Nothing in subsection (1) or subsection (2) of this section authorises the making of any rule which confers on Associate Judges any jurisdiction or power in respect of any of the following matters:
+  (a) Any criminal proceeding, other than an uncontested application for bail, or an application for the setting aside of a witness summons:
+  (b) Any application for a writ of habeas corpus:
+  (c) Any proceedings for the issue or renewal of a writ of sequestration:
+  (d) Any proceedings under or by virtue of the Care of Children Act 2004:
+  (e) Any action in rem under or by virtue of the Admiralty Act 1973:
+  (f) Any application to review, or any appeal against, the exercise, or the refusal to exercise, by any Registrar or Deputy Registrar, of any jurisdiction or power conferred on any Registrar or Deputy Registrar by or under this Act or any other Act.
+(4) Nothing in subsection (1) or subsection (2) of this section authorises the making of any rule which confers on Associate Judges any jurisdiction or power
+  (a) To grant an Anton Piller order, or an injunction (whether interlocutory or otherwise):
+  (b) To grant any relief on an application for review under section 4(1) of the Judicature Amendment Act 1972:
+  (c) To grant any relief in any proceedings for a writ or order of or in the nature of mandamus, prohibition, or certiorari, or for a declaration or injunction:
+  (d) To grant any application to remove any person from public office:
+  (e) To try the right of any person to hold any public office.
+
+### 26K Power of Associate Judge to deal with witnesses and to punish for contempt
+Sections 56A, 56B, and 56C of this Act shall apply in respect of any proceedings before an Associate Judge, and an Associate Judge shall have and may exercise all the jurisdiction and powers which, pursuant to those sections, are vested in the Court or a Judge.
+
+### 26L Associate Judge to have no power to make order for committal, attachment, or arrest
+Except as provided by section 26K of this Act, an Associate Judge shall have no jurisdiction or power to make an order for the committal, attachment, or arrest of any person.
+
+### 26M Associate Judge may act as referee
+An Associate Judge may act as a referee under the High Court Rules in respect of any proceedings or any question arising in the course of any proceedings.
+
+### 26N Transfer of proceedings from Associate Judge to Judge
+(1) In any proceedings before an Associate Judge, an Associate Judge may, on the application of any party to the proceedings, or of the Associate Judge's own motion, refer the proceedings or any matter arising therein to a Judge if the Associate Judge is satisfied that because of the complexity of the proceedings or of that matter, or of any question in issue in the proceedings, it is expedient that the proceedings or that matter be referred to a Judge.
+(2) Where any proceedings are to be dealt with or are being dealt with by an Associate Judge, a Judge may, at any time before the conclusion of those proceedings, on application made on notice by any party to the proceedings, order that the proceedings or any part thereof be transferred to a Judge if that Judge is satisfied that it is desirable that the proceedings or that part thereof be dealt with by a Judge.
+(3) Upon the reference of any proceedings, or any matter arising therein, to a Judge under subsection (1) of this section, or the transfer of any proceedings or any part thereof to a Judge under subsection (2) of this section, the Judge may
+  (a) Dispose of the proceedings; or
+  (b) Refer the proceedings or the matter back to the Associate Judge with such directions as the Judge thinks fit.
+
+### 26O Power of Associate Judge to adjourn proceedings
+An Associate Judge shall have power to order the adjournment of any proceedings, notwithstanding that an Associate Judge would not otherwise have jurisdiction in respect of those proceedings.
+
+### 26P Review of, or appeals against, decisions of Associate Judges
+(1) Any party to any proceedings who is affected by any order or decision made by an Associate Judge in Chambers may apply to the Court to review that order or decision and, where a party so applies in accordance with the High Court Rules, the Court
+  (a) Must review the order or decision in accordance with the High Court Rules; and
+  (b) May make such order as may be just.
+(1AA) The determination of the High Court on a review under subsection (1) is final, unless the High Court gives leave (or the High Court refuses leave, but the Court of Appeal gives special leave) to appeal from it to the Court of Appeal.
+(1A) Rules under section 51C may
+  (a) specify the nature and extent of reviews or classes of review under subsection (1):
+  (b) regulate the procedure for hearing applications or classes of application under subsection (1):
+  (c) regulate the procedure for hearing applications or classes of application for leave under subsection (1AA).
+(2) Any party to any proceedings may appeal to the Court of Appeal against any order or decision of an Associate Judge in those proceedings (other than an order or decision made in Chambers).
+(3) Section 66 of this Act shall apply to any appeal under subsection (2) of this section.
+
+### 26Q Immunity of Associate Judges
+Every Associate Judge has the same immunities as a Judge of the High Court.
+
+### 26R Jurisdiction of Judge not affected
+Nothing in this Act or in any rules made under section 51C of this Act or in any rules made under any other Act in the manner provided in that section shall prevent the exercise by any Judge of any jurisdiction or power conferred on an Associate Judge by this Act or by any such rules.
+
+**Officers**
+
+### 27 Appointment of officers
+There may from time to time be appointed under the State Sector Act 1988 such Registrars, Deputy Registrars, and other officers as may be required for the conduct of the business of the Court.
+
+**Registrars**
+
+### 28 Powers of Registrars
+(1) In order that the Court may be enabled to exercise the jurisdiction conferred upon it by this Act, every Registrar and Deputy Registrar shall have all the powers and perform all the duties in respect of the Court (except such powers and duties as any other officer may be specially appointed to exercise and perform) which Registrars and Deputy Registrars have hitherto performed or which by any rule or statute they may be required to perform.
+(2) Each Deputy Registrar has the same powers and privileges, performs the same duties, and is subject to the same provisions and penalties under this Act and under any other Act as if he or she were the Registrar for the time being, whether or not those powers, privileges, duties, provisions, or penalties are conferred, imposed, or enacted under this Act or that other Act.
+(3) Subsection (2) is subject to any provision to the contrary in any other enactment.
+
+**Sheriffs**
+
+### 29 Sheriffs and deputy Sheriffs
+(1) Every Registrar of the High Court for the time being shall be a Sheriff for New Zealand.
+(2) There may be appointed under the State Sector Act 1988 in respect of any office of the Court one or more Deputy Sheriffs.
+(3) Every Deputy Sheriff shall, in the absence of the Sheriff or when acting for the Sheriff, have the powers and privileges, duties and responsibilities of the Sheriff under this Act or any other enactment.
+
+### 30 Security to be given by Sheriffs
+[Repealed]
+
+### 31 Sureties may withdraw
+[Repealed]
+
+### 32 Duties, etc, of Sheriffs
+Every Sheriff shall have such powers and privileges, duties and responsibilities, as a Sheriff by law has or is liable to in England as a ministerial officer of one of Her Majesty's Courts at Westminster.
+
+### 33 Sheriff to act as Queen's bailiff
+In addition to his powers and privileges, duties and responsibilities, as a ministerial officer, each Sheriff shall also have and exercise the powers and duties of the Queen's bailiff.
+
+### 34 Sheriff not to act as barrister or solicitor
+No Sheriff shall be in any way concerned in any action in any Court in New Zealand either as a barrister, solicitor, or agent.
+
+### 35 Service of process when Sheriff disqualified
+Where any process issues which the Sheriff ought not by law to execute, the High Court shall authorise some fit person to execute the same; and in every such case the cause of such special proceeding shall be entered upon the records of the Court.
+
+### 36 Persons arrested by Sheriffs may be committed to prison at once
+Where any Sheriff, Sheriff's officer, bailiff, or other person employed under the Sheriff, has arrested any person under or by virtue of any writ or process whatsoever, he may forthwith thereafter convey such person, or cause him to be conveyed, to such prison as he ought to be sent to by virtue of the writ or process against him.
+
+**Poundage and Fees**
+
+### 37 Calculation of Sheriff's poundage
+[Repealed]
+
+### 38 Appointment of, commission to, and oath taken by, appraiser
+[Repealed]
+
+### 39 Goods defined
+[Repealed]
+
+### 40 Sheriffs' poundage fees
+[Repealed]
+
+### 41 Fee in special cases
+[Repealed]
+
+### 42 Fees to be paid into Crown Bank Account
+All fees taken by a Sheriff under this Act must be paid immediately into a Crown Bank Account.
+
+### 43 Where Sheriff not present at sitting of Court, duties of Sheriff may be performed by any person appointed by the Court or Judge
+[Repealed]
+
+### 44 Provision in cases of vacancy in office of Sheriff
+[Repealed]
+
+### 45 Governor-General may appoint Deputy Sheriffs
+[Repealed]
+
+### 46 When Deputies to act
+[Repealed]
+
+**Commissioners to Administer Oaths**
+
+### 47 Commissioners to take affidavits, etc, out of New Zealand
+(1) Any Judge of the High Court, by a commission to be issued under the seal of the Court, may from time to time appoint any person to be and act as a Commissioner of the High Court in any country or place beyond the jurisdiction of the High Court, for the purpose of administering and taking any oath, affidavit, or affirmation, whether
+  (a) In any civil or criminal proceedings commenced or pending in the High Court; or
+  (b) In any action, cause, proceeding, matter, or thing commenced or pending in any Court of concurrent jurisdiction in New Zealand or in any inferior Court; or
+  (c) In any proceedings or in any matter or thing within the cognisance or jurisdiction of the High Court or of any Court of concurrent jurisdiction in New Zealand or of any inferior Court.
+(2) Every such appointment shall be gazetted.
+
+### 48 Affidavits, etc, so taken to be of like effect as if taken in New Zealand
+Every oath, affidavit, or affirmation taken or made before any such Commissioner as aforesaid shall within New Zealand be of the like effect in all respects as if the same had been administered, made, or taken by or before any Court or persons having authority to administer or take the same in New Zealand.
+
+### 49 Commission may be revoked
+(1) Any commission issued as aforesaid may be revoked by any Judge of the Court for any cause which such Judge deems sufficient; but no such revocation shall affect or prejudice any act, matter, or thing done by any Commissioner by virtue of his commission prior to a notification of such revocation having been given or sent to him.
+(2) Every revocation of any such appointment shall be gazetted, and the notice published in the Gazette shall state the date when notice of revocation was given or sent to the Commissioner affected thereby.
+
+**Practice and procedure of the Court**
+
+### 50 Seal of the Court and Registrar's seal
+(1) The Court shall have in the custody of each Registrar a seal of the Court, for the sealing of all writs and other instruments or documents issued by such Registrar and requiring to be sealed.
+(2)
+
+### 51 High Court Rules
+(1) Subject to subsections (2) to (4) of this section and to sections 51A to 56C of this Act, the practice and procedure of the Court in all civil proceedings shall be regulated by the High Court Rules.
+(2) The High Court Rules shall be subject to any other rules which are made pursuant to section 51C of this Act and which prescribe the procedure applicable in respect of any class of civil proceedings or in respect of the practice or procedure of the Court of Appeal.
+(3) Where any provision of the High Court Rules or of any rules made under section 51C of this Act restricts or excludes the application of the High Court Rules or any provisions of the High Court Rules, the provision that effects the restriction or exclusion shall have effect according to its tenor.
+(4) If in any civil proceedings any question arises as to the application of any provision of the High Court Rules or of any rules made under section 51C of this Act, the Court may, either on the application of any party or of its own motion, determine the question and give such directions as it thinks fit.
+
+### 51A Publication of High Court Rules under Acts and Regulations Publication Act 1989
+(1) The High Court Rules, and any reprint of the High Court Rules, may be printed and published under section 14 of the Acts and Regulations Publication Act 1989 as if the High Court Rules were regulations within the meaning of that Act; and that section applies accordingly.
+(2) Sections 16B, 16C(3), and 16D of the Acts and Regulations Publication Act 1989 apply accordingly.
+
+### 51B Rules Committee
+(1) For the purposes of this Act and the District Courts Act 1947, there is a Rules Committee consisting of
+  (a) The Chief Justice:
+  (ab) The Chief High Court Judge:
+  (b) Two other Judges of the High Court appointed by the Chief Justice:
+  (c) The Chief District Court Judge:
+  (d) One other District Court Judge appointed by the Chief Justice on the recommendation of the Chief District Court Judge:
+  (e) The Attorney-General:
+  (f) The Solicitor-General:
+  (g) The chief executive of the Department for Courts:
+  (h) Two persons, who are barristers and solicitors of the High Court, nominated by the Council of the New Zealand Law Society and approved by the Chief Justice.
+(2) The Chief Justice may appoint any other person to be a member for a special purpose. That person holds office during the pleasure of the Chief Justice.
+(3) The members referred to in paragraphs (b), (d), and (h) of subsection (1)
+  (a) Must be appointed for terms not exceeding 3 years:
+  (b) May be reappointed:
+  (c) May resign office by notice in writing to the Chief Justice.
+(4) The Rules Committee is a statutory Board within the meaning of the Fees and Travelling Allowances Act 1951.
+(5) The members referred to in subsections (1)(h) and (2) may be paid, out of money appropriated by Parliament, remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951.
+
+### 51C Power to make rules
+(1) The Governor-General in Council, with the concurrence of the Chief Justice and any 2 or more of the members of the Rules Committee, of whom at least one shall be a Judge, may, for the purposes of facilitating the expeditious, inexpensive, and just dispatch of the business of the Court, or of otherwise assisting in the due administration of justice, from time to time make rules regulating the practice and procedure of the High Court and of the Court of Appeal and of the Supreme Court (including the practice and procedure on appeals from any court or person to the Supreme Court, the Court of Appeal, or the High Court).
+(2) Rules made pursuant to subsection (1) of this section may
+  (a) Repeal the High Court Rules set out in Schedule 2 to this Act, and substitute a new set of High Court Rules:
+  (b) Alter or revoke any of the rules contained in the High Court Rules:
+  (c) Add to the High Court Rules any further rules touching the practice and procedure of the High Court in all or any of the civil proceedings within its jurisdiction:
+  (cc) Add to the High Court Rules any rules made for the purposes of Part 1A of this Act:
+  (d) Alter or revoke any rules regulating the practice or procedure of the Court of Appeal (including those contained in the Court of Appeal Rules 1955):
+  (e) Revoke the Court of Appeal Rules 1955:
+  (f) Alter or revoke any other rules of the High Court, the Court of Appeal, or the Supreme Court that are now or may hereafter be in force:
+  (g) Fix scales of costs.
+
+### 51D Rules of Court under other Acts to be made in manner provided by this Act
+Where any other Act confers power to make rules of procedure in relation to civil proceedings, that power shall be exercised by the Governor-General in Council in the manner prescribed by section 51C of this Act, and not otherwise.
+
+### 51E Power to prescribe procedure on applications to High Court, Court of Appeal, or Supreme Court
+(1) Notwithstanding anything to the contrary in any Act or in any Imperial Act in force in New Zealand, rules may be made under section 51C of this Act prescribing the form and manner in which any class or classes of applications to the High Court or a Judge thereof or to the Court of Appeal or to the Supreme Court shall be made.
+(2) So far as the provisions of any Act prescribing the form or manner in which any such applications are to be made, whether by petition, motion, summons, or otherwise, are inconsistent with or repugnant to the High Court Rules or the Court of Appeal Rules or to any rules made under section 51C of this Act, the Act prescribing that form or manner shall be deemed to be subject to the Rules.
+
+### 51F Power to make rules conferring specified jurisdiction and powers of Judge on Registrars or Deputy Registrars
+(1) Notwithstanding anything contained in any other provision of this Act or of any other Act, but subject to the provisions of this section, rules made under section 51C of this Act or rules made under any other Act in the manner provided in that section may confer on Registrars and Deputy Registrars (whether of the High Court, the Court of Appeal, or the Supreme Court), subject to such limitations and restrictions as may be specified in the rules, such of the jurisdiction and powers of a Judge sitting in Chambers, conferred by this Act or any other Act, as may be specified in the rules, and may contain such other provisions as may be necessary to enable the proper exercise by Registrars and Deputy Registrars of the jurisdiction and powers so conferred.
+(2) Any jurisdiction and any powers conferred under this section may be conferred on specified Registrars or Deputy Registrars or on any specified class or classes of Registrars or Deputy Registrars.
+(3) Where any matter in respect of which a Registrar or Deputy Registrar has jurisdiction under any rules of Court appears to the Registrar or Deputy Registrar to be one of special difficulty, the Registrar or Deputy Registrar may refer the matter to a Judge, who may dispose of the matter or may refer it back to the Registrar or Deputy Registrar with such directions as the Judge thinks fit.
+(4) Any party to any proceedings or any intended proceedings who is affected by any order or decision made by any Registrar or Deputy Registrar under any rules of Court may apply to the Court to review that order or decision, and where a party so applies the Court may make such order as may be just.
+(5) Nothing in this section or in the High Court Rules or in any rules made under section 51C of this Act or in any rules made under any other Act shall prevent the exercise by any Judge of any jurisdiction or powers conferred on any Registrar or Deputy Registrar by any such rules.
+
+### 51G Jurisdiction of Court to award costs in all cases
+(1) Where any Act confers jurisdiction on the High Court or a Judge thereof in regard to any civil proceedings or any criminal proceedings or any appeal, without expressly conferring jurisdiction to award or otherwise deal with the costs of the proceedings or appeal, jurisdiction to award and deal with those costs and to make and enforce orders relating thereto shall be deemed to be also conferred on the Court or Judge.
+(2) Such costs shall be in the discretion of the Court or Judge, and may, if the Court or Judge thinks fit, be ordered to be charged upon or paid out of any fund or estate before the Court.
+
+### 52 District rules
+(1) Any 3 or more Judges, of whom the Chief Justice shall be one, may from time to time
+  (a) Appoint sittings of the Court for the despatch of civil and criminal business; and
+  (b) Make for each place where an office of the High Court is established rules respecting the places and times for holding sittings of the Court, sittings in Chambers, the order of disposing of business, the attendance at the office or offices of the officers thereof, and other such matters.
+(2) Rules made under subsection (1)(b) of this section shall not be inconsistent with the High Court Rules or the Court of Appeal Rules or any rules made under section 51C of this Act or the laws of New Zealand.
+(3) Notwithstanding anything in subsection (1) of this section, any Judge may from time to time adjourn a sitting of the Court to any time and place the Judge may think fit; and in the event of a Judge not being present at the time appointed for a sitting of the Court, the Registrar may adjourn the sitting to such time as may be convenient.
+
+### 53 Fees to be paid into Crown Bank Account
+All fees received under this Act must be paid into a Crown Bank Account.
+
+### 54 Service of process on Sundays void
+(1) Subject to any rule of Court, no person shall serve or execute, or cause to be served or executed, on Sunday any statement of claim, application, writ, process, warrant, order, or judgment of the High Court or Court of Appeal (except in cases of crime or of breach of the peace), and such service or execution shall be void to all intents and purposes whatsoever.
+(2) Nothing in subsection (1) of this section shall apply to
+  (a) The service of any writ in rem or warrant of arrest in respect of any proceedings heard or to be heard in the High Court in its admiralty jurisdiction; or
+  (b) The service of any subpoena or interlocutory injunction.
+(3) Nothing in this section shall be construed to annul, repeal, or in any way affect the common law, or the provisions of any statute or rule of practice or procedure, now or hereafter in force, authorising the service of any statement of claim, application, writ, process, or warrant, in cases other than those excepted in subsection (1) of this section.
+
+### 54A Verdict of three-fourths
+If three-fourths at least of any jury trying any civil case shall, after the jury has retired to consider its verdict for a period of at least 4 hours, intimate to the Judge presiding that the jury has considered its verdict, and that there is no probability of such jury being unanimous, the verdict of three-fourths shall have the same effect as the verdict of the whole number.
+
+### 54B Discharge of jury
+(1) Subject to the provisions of this section, the Court may in its discretion, in the case of any emergency or casualty rendering it, in the opinion of the Court, highly expedient for the ends of justice to do so, discharge the jury without their giving a verdict.
+(2) Without limiting subsection (1) of this section, where a jury has remained in deliberation for such period as the Judge thinks reasonable, being not less than 4 hours, and does not agree on the verdict to be given, the Judge may discharge the jury without their giving a verdict.
+(3) If, at any time before the verdict of the jury is taken, any juror becomes in the opinion of the Court incapable of continuing to perform his or her duty, or it becomes known to the Court that the juror is disqualified, or that a relative of the juror is ill or has died, the Court may, in its discretion,
+  (a) discharge the jury without giving their verdict; or
+  (b) proceed with the remaining jurors and take their verdict.
+(3A) In subsection (3), relative of the juror means
+  (a) the spouse, civil union partner, or de facto partner of the juror; and
+  (b) a member of the juror's family; and
+  (c) a member of the family of the juror's spouse, civil union partner, or de facto partner.
+(4) Notwithstanding subsection (3)(b) of this section, the Court shall not proceed with less than 11 jurors unless all the parties consent.
+(5) Where under subsection (3)(b) of this section the Court proceeds with less than 12 jurors, their verdict shall have the same effect as the verdict of the whole number.
+(6) Where the Court discharges a jury under this section, it shall either direct that a new jury be empanelled during the sitting of the Court, or postpone the trial on such terms as justice requires.
+(7) If the presiding Judge becomes incapable of trying the case or directing that the jury be discharged, the Registrar shall discharge the jury.
+(8) No Court may review the exercise of any discretion under this section.
+
+**Miscellaneous rules of law and of practice**
+
+**Habeas corpus**
+
+### 54C Procedure in respect of habeas corpus
+[Repealed]
+
+**Absconding debtors**
+
+### 55 Power under certain circumstances to arrest defendant about to quit New Zealand
+(1) A person shall not be arrested upon mesne process in any civil proceedings in the High Court.
+(2) Where in any civil proceedings in the High Court in which, if brought before the first day of October, 1874 (being the date of the coming into operation of the Imprisonment for Debt Abolition Act 1874), the defendant would have been liable to arrest, the plaintiff proves at any time before final judgment, by evidence on oath to the satisfaction of a Judge of the Court, that the plaintiff has good cause of action against the defendant to the amount of $100 or upwards, and that there is probable cause for believing that the defendant is about to quit New Zealand unless he is apprehended, and that the absence of the defendant from New Zealand will materially prejudice the plaintiff in the prosecution of those proceedings, such Judge may, in the prescribed manner, order such defendant to be arrested and imprisoned for a period not exceeding 6 months, unless and until he has sooner given the prescribed security, not exceeding the amount claimed in those proceedings, that he will not go out of New Zealand without the leave of the High Court.
+(3) Where the civil proceedings are for a penalty, or sum in the nature of a penalty, other than a penalty in respect of any contract, it shall not be necessary to prove that the absence of the defendant from New Zealand will materially prejudice the plaintiff in the prosecution of those proceedings; and the security given (instead of being that the defendant will not go out of New Zealand) shall be to the effect that any sum recovered against the defendant in those proceedings will be paid or that the defendant shall be rendered to prison.
+(4) All the powers conferred by this section upon a Judge may be exercised by the Registrar of the Court:
+  Provided that such powers shall be exercised by the said Registrar only in the absence of the Judge from the place where the office of the Court is situate at which the application for such order as aforesaid is made.
+
+**Foreign creditors**
+
+### 56 Memorials of judgments obtained out of New Zealand may be registered
+(1) Any person in whose favour any judgment, decree, rule, or order, whereby any sum of money is made payable, has been obtained in any Court of any of Her Majesty's dominions may cause a memorial of the same containing the particulars hereinafter mentioned, and authenticated by the seal of the Court wherein such judgment, decree, rule, or order was obtained, to be filed in the office of the High Court; and such memorial being so filed shall thenceforth be a record of such judgment, decree, rule, or order, and execution may issue thereon as hereinafter provided.
+(2) Every seal purporting to be the seal of any such Court shall be deemed and taken to be the seal of such Court until the contrary is proved, and the proof that any such seal is not the seal of such Court shall lie upon the party denying or objecting to the same.
+(3) Every such memorial shall be signed by the party in whose favour such judgment, decree, rule, or order was obtained, or his attorney or solicitor, and shall contain the following particulars, that is to say: The names and additions of the parties, the form or nature of the action or other proceeding, and, when commenced, the date of the signing or entering-up of the judgment, or of passing the decree, or of making the rule or order, and the amount recovered, or the decree pronounced, or rule or order made, and, if there was a trial, the date of such trial and amount of verdict given.
+(4) The Court or any Judge thereof, on the application of the person in whose favour such judgment, decree, rule, or order was obtained, or his solicitor, may grant a rule or issue a summons calling upon the person against whom such judgment, decree, rule, or order was obtained to show cause, within such time after personal or such other service of the rule or summons as such Court or Judge directs, why execution should not issue upon such judgment, decree, rule, or order, and such rule or summons shall give notice that in default of appearance execution may issue accordingly; and if the person served with such rule or summons does not appear, or does not show sufficient cause against such rule or summons, such Court or Judge, on due proof of such service as aforesaid, may make the rule absolute, or make an order for issuing execution as upon a judgment, decree, rule, or order of the Court, subject to such terms and conditions (if any) as such Court or Judge thinks fit.
+(5) All such proceedings may be had or taken for the revival of such judgment, decree, rule, or order, or the enforcement thereof by and against persons not parties to such judgment, decree, rule, or order as may be had for the like purposes upon any judgment, decree, rule, or order of the Court.
+
+**Witnesses**
+
+### 56A Failure of witness to attend
+(1) If any witness who is compellable to attend to give evidence at the hearing of any civil proceeding in the High Court and who has been duly summoned fails to attend at the time and place appointed, the Court may issue a warrant to arrest him and bring him before the Court, and may adjourn the hearing.
+(2) The Court may impose on any such witness who fails without just excuse (the proof of which excuse shall be on him) to attend as aforesaid a fine not exceeding $500.
+(3) No witness shall be compellable to attend at the hearing of any civil proceeding in the High Court unless at the time of the service of the order of subpoena, or at some other reasonable time before the hearing, a sum in respect of his allowances and travelling expenses in accordance with the scale prescribed for the time being by regulations made under the Summary Proceedings Act 1957 is tendered or paid to him.
+
+### 56B Refusal of witness to give evidence
+(1) If any witness in any civil proceeding in the High Court without offering any just excuse, refuses to give evidence when required, or refuses to produce any document which he has been required to produce, or refuses to be sworn, or having been sworn refuses to answer such questions concerning that proceeding as are put to him, the Court may order that, unless he sooner consents to give evidence or to produce the document or to be sworn or to answer the questions put to him, as the case may be, he be detained in custody for any period not exceeding 7 days, and may issue a warrant for his arrest and detention in accordance with the order.
+(2) If the person so detained, on being brought up again at the hearing, again refuses to give evidence or to produce the document or to be sworn or, having been sworn, to answer the questions put to him, the Court, if it thinks fit, may again direct that the witness be detained in custody for the like period, and so again from time to time until he consents to give evidence or to produce the document or to be sworn or to answer as aforesaid.
+(3) Nothing in this section shall limit or affect any power or authority of the Court to punish any witness for contempt of Court in any case to which this section does not apply.
+
+### 56BB Witnesses entitled to expenses
+[Repealed]
+
+**Contempt of Court**
+
+### 56C Contempt of Court
+(1) If any personany constable or officer of the Court, with or without the assistance of any other person, may, by order of the Judge, take the offender into custody and detain him until the rising of the Court.
+  (a) Assaults, threatens, intimidates, or wilfully insults a Judge, or any Registrar, or any officer of the Court, or any juror, or any witness, during his sitting or attendance in Court, or in going to or returning from the Court; or
+  (b) Wilfully interrupts or obstructs the proceedings of the Court or otherwise misbehaves in Court; or
+  (c) Wilfully and without lawful excuse disobeys any order or direction of the Court in the course of the hearing of any proceedings
+(2) In any such case as aforesaid, the Judge, if he thinks fit, may sentence the offender to imprisonment for any period not exceeding 3 months, or sentence him to pay a fine not exceeding $1,000 for every such offence; and in default of payment of any such fine may direct that the offender be imprisoned for any period not exceeding 3 months, unless the fine is sooner paid.
+(3) Nothing in this section shall limit or affect any power or authority of the Court to punish any person for contempt of Court in any case to which this section does not apply.
+
+**Immigration Matters**
+
+### 56CA Judicial review of decisions under Immigration Act 1987
+The provisions of this Act are to be read subject to section 146A of the Immigration Act 1987 (as inserted by section 53 of the Immigration Amendment Act 1999) in relation to any proceedings reviewing a statutory power of decision arising out of or under that Act.
+
+## Part 1A — Special provisions applying to certain proceedings in the High Court and the Federal Court of Australia
+
+### 56D Interpretation
+In this Part of this Act, unless the context otherwise requires,
+  - **Australian proceeding** means a proceeding in which a matter for determination arises underwhether or not any other matter arises for determination; and includes an interlocutory proceeding related to such a proceeding and an application for the issue of execution or enforcement of a judgment or order or injunction given or made or granted in such a proceeding
+    (a) Any of sections 46A, 155A, or 155B of the Trade Practices Act 1974 of the Parliament of the Commonwealth of Australia; or
+    (b) A provision of Part VI or Part XII of the Trade Practices Act 1974 of the Parliament of the Commonwealth of Australia in so far as it relates to any of sections 46A, 155A, or 155B of that Act,
+  - **Federal Court** means the Federal Court of Australia
+  - **New Zealand proceeding** means a proceeding in which a matter for determination arises underwhether or not any other matter arises for determination; and includes an interlocutory proceeding related to such a proceeding and an application for the issue of execution or enforcement of a judgment or order or injunction given or made or granted in such a proceeding.
+    (a) Any of sections 36A, 98H, or 99A of the Commerce Act 1986; or
+    (b) A provision of Part 6 or Part 7 of the Commerce Act 1986 in so far as it relates to any of sections 36A, 98H, or 99A of that Act,
+
+### 56E High Court may order New Zealand proceedings to be heard in Australia
+(1) The High Court may, if it is satisfied that a New Zealand proceeding could more conveniently or fairly be tried or heard by the High Court in Australia or that the evidence in a New Zealand proceeding could more conveniently be given in Australia, as the case may be, order that the proceeding be tried or heard in Australia, or that the evidence be taken in Australia, and may sit in Australia for that purpose.
+(2) The order shall specify
+  (a) The place in Australia where the proceeding will be tried or heard or the evidence taken, as the case may be:
+  (b) The date or dates of the trial or hearing or on which the evidence will be taken, as the case may be:
+  (c) Such other matters relating to the trial or the hearing or the taking of the evidence, as the case may be, as the Court thinks fit.
+(3) Without limiting the powers of the High Court in relation to the proceeding, the High Court may give judgment in, or make any determination for the purposes of, a New Zealand proceeding in Australia.
+
+### 56F Australian counsel entitled to practise in High Court
+A person who is entitled to practise as a barrister, or solicitor, or both, in the Federal Court is entitled to practise as a barrister, or solicitor, or both in relation to
+  (a) A New Zealand proceeding before the High Court sitting in Australia:
+  (b) The examination, cross-examination, or re-examination of a witness in Australia whose evidence is being taken by video link or telephone conference in a New Zealand proceeding before the High Court in New Zealand:
+  (c) The making of submissions by video link or telephone conference to the High Court in New Zealand in a New Zealand proceeding.
+
+### 56G High Court may set aside subpoena issued in New Zealand proceeding
+(1) The High Court may set aside an order of subpoena issued by the High Court requiring the attendance of a person in Australia to testify or to produce documents to the High Court for the purposes of a New Zealand proceeding.
+(2) An application under subsection (1) of this section shall be made by the person served with the order of subpoena and may be made ex parte.
+(3) Without limiting the grounds on which the order of subpoena may be set aside, the High Court may set the order aside on any of the following grounds:
+  (a) That the witness does not have, and could not reasonably be expected to obtain, the necessary travel documents:
+  (b) That the witness is liable to be detained for the purpose of serving a sentence:
+  (c) That the witness is liable to prosecution for an offence:
+  (d) That the witness is liable to the imposition of a penalty in civil proceedings, not being proceedings for a pecuniary penalty under section 80 or section 83 of the Commerce Act 1986:
+  (e) That the evidence of the witness could be obtained without significantly greater expense by other means:
+  (f) That compliance with the order of subpoena would cause hardship or serious inconvenience to the witness:
+  (g) In the case of an order of subpoena that requires a witness to produce documents, whether or not it also requires the witness to testify, that the Court is satisfied that the documents should not be taken out of Australia and that evidence of the contents of the documents can be given by other means.
+(4) Every application to set aside an order of subpoena under subsection (1) of this section shall be made by affidavit.
+(5) The affidavit shall
+  (a) Be sworn by the applicant; and
+  (b) Set out the facts on which the applicant relies; and
+  (c) Be filed in the office of the Court that issued the order of subpoena.
+(6) The Registrar of the Court shall cause a copy of the affidavit to be served on the solicitor on the record for the party to the proceedings who obtained the order of subpoena, or if there is no solicitor on the record, on that party.
+
+### 56H Injunctions and orders in New Zealand proceedings
+Notwithstanding any rule of law, the High Court may, in a New Zealand proceeding, make an order or grant an injunction that the Court is empowered to make or grant that requires a person to do an act, or refrain from engaging in conduct, in Australia.
+
+### 56I Issue of subpoenas in New Zealand proceedings
+(1) An order of subpoena may, with the leave of a Judge, be obtained in a New Zealand proceeding requiring a person in Australia to testify, or produce documents or things, or both, to the High Court at a sitting of that Court in New Zealand or in Australia.
+(2) An order of subpoena issued for the purposes of a New Zealand proceeding that requires a witness in Australia to produce documents or things, but does not require the witness to testify, must permit the witness to comply with the order of subpoena by producing the documents or things to a specified registry of the Federal Court.
+
+### 56J Powers of Federal Court of Australia
+(1) The Federal Court of Australia may exercise all the powers of that Court
+  (a) At a sitting of that Court in New Zealand held for the purposes of an Australian proceeding:
+  (b) At a sitting of that Court in Australia held for the purposes of an Australian proceeding at which the evidence of a witness in New Zealand is taken by video link or telephone conference or at which submissions are made in New Zealand by a barrister, or solicitor, or both or a party to the proceedings by video link or telephone conference.
+(2) Without limiting subsection (1) of this section, the Federal Court of Australia Act 1976 and the Rules of Court made under that Act that are applicable in relation to Australian proceedings generally shall apply to the practice and procedure of the Federal Court at any sitting of that Court of the kind referred to in that subsection.
+(3) Without limiting subsection (1) of this section, the Federal Court may, at any such sitting of the Court in New Zealand or in Australia, by order
+  (a) Direct that the hearing or any part of the hearing be held in private:
+  (b) Require any person to leave the Court:
+  (c) Prohibit or restrict the publication of evidence or the name of any party or any witness.
+(4) Nothing in subsection (1) or subsection (2) of this section applies in relation to
+  (a) The power of the Court to punish any person for contempt; or
+  (b) The prosecution of any person for an offence committed as a witness; or
+  (c) The enforcement or execution of any judgment, order, injunction, writ, or declaration given, made, or granted by the Court.
+(5) An order made under subsection (3) of this section may be enforced by a Judge of the High Court who, for that purpose, shall have and may exercise the powers, including the power to punish for contempt, that would be available to enforce the order if it had been made by that Judge.
+
+### 56K Issue of subpoenas in Australian proceedings
+(1) An order of subpoena that is issued by the Federal Court with the leave of a Judge of that Court requiring the attendance of a person in New Zealand to testify or to produce documents for the purposes of an Australian proceeding may be served on that person in New Zealand by leaving a sealed copy of the subpoena with that person personally together with a statement setting out the rights and obligations of that person, including information as to the manner in which application may be made to that Court to have the subpoena set aside.
+(2) A person who has been served with an order of subpoena under subsection (1) of this section is not compellable to comply with the order unless, at the time of service of the order or at some other reasonable time before the hearing, allowances and travelling expenses or vouchers sufficient to enable that person to comply with the order are tendered or paid to that person.
+
+### 56L Failure of witness to comply with subpoena issued in Australian proceeding
+(1) The Court may, on receiving a certificate under the seal of the Federal Court stating that a person named in the certificate has failed to comply with an order of subpoena requiring that person to attend as a witness for the purposes of an Australian proceeding, issue a warrant requiring any constable to arrest that person and bring that person before the Court.
+(2) The Court may, on the appearance of that person before the Court, impose a fine not exceeding $1,000 unless the Court is satisfied, the onus of proof of which shall lie with that person, that the failure to comply with the order of subpoena should be excused.
+(3) In determining whether the failure to comply with the order of subpoena should be excused, the High Court may have regard to
+  (a) Any matters that were not brought to the attention of the Federal Court, if the High Court is satisfied that
+    (i) The Federal Court would have been likely to have set aside the order of subpoena if those matters had been brought to the attention of that Court; and
+    (ii) The failure to bring those matters to the attention of the Federal Court was not due to any fault on the part of the person alleged to have failed to comply with the order of subpoena or was due to an omission by that person that should be excused; and
+  (b) Any matters to which the High Court would have regard if the order of subpoena had been issued by the High Court.
+(4) For the purposes of this section, but subject to subsection (3) of this section, a certificate under the seal of the Federal Court statingshall be conclusive evidence of the matters stated in it.
+  (a) That the order of subpoena was issued by that Court:
+  (b) That the witness failed to comply with the order of subpoena:
+  (c) In relation to any application made to that Court to have the order of subpoena set aside, the decision of that Court or any orders or findings of fact made by that Court
+(5) Subject to subsection (3) of this section, no findings of fact made by the Federal Court on an application to that Court to have the order of subpoena set aside may be challenged by any person alleged to have failed to comply with the order unless the Court was deliberately misled in making those findings of fact.
+
+### 56M Federal Court of Australia may administer oaths in New Zealand
+(1) The Federal Court mayadminister an oath or affirmation in accordance with the practice and procedure of that Court.
+  (a) At any sitting of that Court in New Zealand held for the purposes of an Australian proceeding; or
+  (b) For the purposes of obtaining the testimony of a person in New Zealand by video link or telephone conference at a sitting of that Court in Australia
+(2) Evidence given by a person on oath or affirmation administered by the Federal Court under subsection (1) of this section shall, for the purposes of section 108 of the Crimes Act 1961 (which relates to perjury), be deemed to have been given as evidence in a judicial proceeding on oath.
+
+### 56N Orders made by Federal Court of Australia not subject to review
+No application for review under Part 1 of the Judicature Amendment Act 1972 and no application for an order of mandamus or prohibition or certiorari or for a declaration or injunction may be brought in respect of any judgment or order or determination of the Federal Court made or given at a sitting of that Court in New Zealand in an Australian proceeding.
+
+### 56O Contempt of Federal Court of Australia
+(1) Every person commits an offence who, at any sitting of the Federal Court in New Zealand,
+  (a) Assaults, threatens, intimidates, or wilfully insults
+    (i) A Judge of that Court; or
+    (ii) A registrar or officer of that Court; or
+    (iii) A person appearing as a barrister, or solicitor, or both, before that Court; or
+    (iv) A witness in proceedings before that Court; or
+  (b) Wilfully interrupts or obstructs the proceedings; or
+  (c) Wilfully and without lawful excuse disobeys any order or direction of the Court in the course of the proceedings.
+(2) Every person who commits an offence against this section is liable on conviction on indictment to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000.
+
+### 56P Arrangements to facilitate sittings
+(1) The Chief Justice of New Zealand may make arrangements with the Chief Justice of the Federal Court for the purposes of giving effect to this Part of this Act.
+(2) Without limiting subsection (1) of this section arrangements may be made
+  (a) To enable the High Court to sit in Australia in New Zealand proceedings in the courtrooms of the Federal Court or in other places in Australia:
+  (b) To enable the Federal Court to sit in New Zealand in the courtrooms of the High Court or in other places in New Zealand:
+  (c) To enable evidence to be given and the submissions of counsel to be made in New Zealand proceedings or in Australian proceedings by video link or telephone conference:
+  (d) For the provision of registry facilities and Court staff.
+
+### 56Q Privileges and immunities of Judges, counsel, and witnesses in Australian proceedings
+(1) A Judge of the Federal Court sitting as a Judge of that Court in New Zealand in an Australian proceeding has all the protections, privileges, and immunities of a Judge of the High Court.
+(2) Every witness who gives evidence in an Australian proceedinghas all the privileges and immunities of a witness in the High Court.
+  (a) At a sitting in New Zealand of the Federal Court; or
+  (b) By video link or telephone conference at a sitting in Australia of the Federal Court
+(3) A person appearing as a barrister, or solicitor, or both, in an Australian proceedinghas all the privileges and immunities of counsel in the High Court.
+  (a) At a sitting in New Zealand of the Federal Court; or
+  (b) By video link or telephone conference at a sitting in Australia of the Federal Court
+
+### 56R High Court may take evidence at request of Federal Court
+(1) The High Court may, at the request of the Federal Court, take evidence in New Zealand for the Federal Court for the purposes of an Australian proceeding and may, by order, make any provision it considers appropriate for the purpose of taking that evidence.
+(2) An order may require a specified person to take such steps the High Court considers appropriate for taking the evidence.
+(3) Without limiting subsections (2) and (3) of this section, an order may, in particular, make provision
+  (a) For the examination of witnesses, either orally or in writing; or
+  (b) For the production of documents or things; or
+  (c) For the inspection, photographing, preservation, custody, or detention of any property; or
+  (d) For taking samples of property and carrying out experiments on or with property.
+(4) The High Court may make an order requiring a person to give evidence either orally or by tendering a written document otherwise than on oath or affirmation if the Federal Court requests it to do so.
+(5) A person who has been served with an order made under this section is not compellable to comply with the order unless, at the time of service of the order or at some other reasonable time before that person is required to comply with the order, allowances and travelling expenses or vouchers sufficient to enable that person to comply with the order are tendered or paid to that person.
+(6) A person is not compellable to give evidence pursuant to an order under this section that he or she is not compellable to give in the Australian proceeding to which the request relates.
+
+### 56S Power to make rules for purposes of this Part
+(1) Rules may be made under section 51C of this Act, for or in relation to, Australian proceedings and New Zealand proceedings.
+(2) Without limiting subsection (1) of this section, rules may be made that make provision for, or in relation to,
+  (a) The giving of evidence and the making of submissions in New Zealand proceedings by video link or telephone conference:
+  (b) Receiving, for the purposes of the Evidence Amendment Act 1990, facsimiles as evidence of documents or things:
+  (c) The issuing of subpoenas for service in Australia for the purposes of New Zealand proceedings and the service of those subpoenas:
+  (d) The payment of witnesses required to comply with orders of subpoena served in Australia for the purposes of New Zealand proceedings of amounts in respect of expenses and loss of income occasioned by compliance with those orders:
+  (e) The lodging of documents or things with the Federal Court in compliance with orders of subpoena issued in New Zealand proceedings that require only the production of documents or things by witnesses:
+  (f) The transmission of documents or things lodged with the High Court in Australian proceedings in compliance with orders of subpoena issued by the Federal Court or certified copies of such documents to the Federal Court:
+  (g) The hearing of applications for orders under section 56G of this Act:
+  (h) Sittings of the High Court in Australia:
+  (i) Giving effect to arrangements made under section 56P of this Act:
+  (j) The form of certification of judgments, orders, and injunctions in New Zealand proceedings:
+  (k) The taking of evidence under section 56R of this Act:
+  (l) Such other matters as are contemplated by or necessary for giving effect to this Part of this Act.
+
+## Part 2 — The Court of Appeal
+
+**Constitution of the Court**
+
+### 57 Constitution of Court of Appeal
+(1) There shall continue to be in and for New Zealand a Court of record called, as heretofore, the Court of Appeal of New Zealand:
+  Provided and it is hereby declared that the Court of Appeal heretofore and now held and henceforth to be held is and shall be deemed and taken to be the same Court.
+(2) Subject to this Part, the Court of Appeal comprises
+  (a) a Judge of the High Court appointed by the Governor-General as a Judge of the Court of Appeal and as President of that Court:
+  (b) not fewer than 5 nor more than 8 other Judges of the High Court appointed by the Governor-General as Judges of the Court of Appeal.
+(3) Any Judge may be appointed to be a Judge of the Court of Appeal either at the time of his appointment as a Judge of the High Court or at any time thereafter.
+(4) Every Judge of the Court of Appeal shall continue to be a Judge of the High Court, and may from time to time sit as or exercise any of the powers of a Judge of the High Court.
+(5) Every Judge of the Court of Appeal shall hold office as a Judge of that Court so long as he holds office as a Judge of the High Court:
+  Provided that, with the prior approval of the Governor-General, any Judge of the Court of Appeal may resign his office as a Judge of that Court without resigning his office as a Judge of the High Court.
+(6) The Judges of the Court of Appeal have seniority over all the Judges of the High Court (including any additional Judge of the Court of Appeal) except the Chief Justice and the other Judges of the Supreme Court.
+(6A) The President of the Court of Appeal has seniority over the other Judges of the Court of Appeal.
+(6B) Other Judges of the Court of Appeal appointed on different dates have seniority among themselves according to those dates.
+(6C) Other Judges of the Court of Appeal appointed on the same date have seniority among themselves according to their seniority as Judges of the High Court.
+(6D) A Judge of the Court of Appeal who resigns office as a Judge of that Court without resigning office as a Judge of the High Court then has, as a Judge of the High Court, the seniority that he or she would have had if he or she had not been appointed as a Judge of the Court of Appeal.
+(7) While any vacancy exists in the office of President of the Court of Appeal, or during any absence from New Zealand of the President, or while by reason of illness or any other cause he is prevented from exercising the duties of his office, the senior Judge of the Court of Appeal shall have authority to act as President of the Court of Appeal and to execute the duties of that office and to exercise all powers that may be lawfully exercised by the President.
+(8) The jurisdiction of the Court of Appeal shall not be affected by any vacancy in the number of the Judges of that Court.
+
+### 57A Judges of Court of Appeal act on full-time basis but may be authorised to act part-time
+(1) A person acts as a Judge of the Court of Appeal on a full-time basis unless he or she is authorised by the Attorney-General to act on a part-time basis.
+(2) The Attorney-General may, in accordance with subsection (4), authorise a Judge to act on a part-time basis for any specified period.
+(3) To avoid doubt, an authorisation under subsection (2) may take effect as from a Judge's appointment or at any other time, and may be made more than once in respect of the same Judge.
+(4) The Attorney-General may authorise a Judge to act on a part-time basis only
+  (a) on the request of the Judge; and
+  (b) with the concurrence of the President of the Court of Appeal.
+(5) In considering whether to concur under subsection (4), the President of the Court of Appeal must have regard to the ability of the Court to discharge its obligations in an orderly and expeditious way.
+(6) A Judge who is authorised to act on a part-time basis must resume acting on a full-time basis at the end of the authorised part-time period.
+(7) The basis on which a Judge acts must not be altered during the term of the Judge's appointment without the Judge's consent, but consent under this subsection is not necessary if the alteration is required by subsection (6).
+(8) This section applies only to Judges who are appointed as Judges of the Court of Appeal.
+
+### 58 Court of Appeal to sit in divisions
+(1) Except as provided in sections 58D and 61A, for the purposes of any proceedings in the Court of Appeal, the Court sits in divisions comprising 3 Judges.
+(2)
+(3) There are
+  (a) One or more divisions of the Court of Appeal for the purposes of criminal proceedings; and
+  (b) One or more divisions of the Court of Appeal for the purposes of civil proceedings.
+(4) Each division of the Court of Appeal may exercise all the powers of the Court of Appeal.
+(5) A division of the Court may exercise any powers of the Court even though 1 or more divisions of the Court or a Full Court is exercising any powers of the Court at the same time.
+(6) If the majority of the members of a division of the Court considers it desirable to do so, the division mayfor the consideration of a Full Court of the Court of Appeal, and in that case a Full Court has the power to hear and determine the proceeding, case, or question.
+  (a) Refer any proceeding; or
+  (b) State any case; or
+  (c) Reserve any question
+
+### 58A Composition of Criminal Appeals Division or Divisions
+(1) For the purposes of any criminal proceeding that is heard by a division, the Court of Appeal comprises
+  (a) Three Judges of the Court of Appeal holding office under section 57(2); or
+  (b) Two Judges of the Court of Appeal holding office under section 57(2) and 1 Judge of the High Court nominated by the Chief Justice under subsection (2); or
+  (c) One Judge of the Court of Appeal holding office under section 57(2) and 2 Judges of the High Court nominated by the Chief Justice under subsection (2).
+(2) Except where the work of the High Court renders it impracticable for the Chief Justice to do so, the Chief Justice must from time to time, after consulting the President of the Court of Appeal and the Chief High Court Judge, nominate the Judges of the High Court who may comprise members of the Court of Appeal for the purposes of any proceeding or proceedings to which subsection (1) relates.
+(3) Every nomination under subsection (2) must be made either
+  (a) In respect of a specified case or specified cases; or
+  (b) In respect of every case to be heard by the Court of Appeal during a specified period not exceeding 3 months.
+(4) For the purposes of this section, the term criminal proceeding means
+  (a) Any appeal or application to the Court of Appeal under the Crimes Act 1961 (other than under section 406 of that Act) or under the Summary Proceedings Act 1957:
+  (b) Any case stated for the opinion of the Court of Appeal under the Crimes Act 1961.
+
+### 58B Composition of Civil Appeals Division or Divisions
+(1) For the purposes of any civil proceeding that is heard by a division of the Court, the Court of Appeal comprises
+  (a) Three Judges of the Court of Appeal holding office under section 57(2); or
+  (b) Two Judges of the Court of Appeal holding office under section 57(2) and 1 Judge of the High Court nominated by the Chief Justice under subsection (2); or
+  (c) One Judge of the Court of Appeal holding office under section 57(2) and 2 Judges of the High Court nominated by the Chief Justice under subsection (2).
+(2) Except where the work of the High Court renders it impracticable for the Chief Justice to do so, the Chief Justice must from time to time, after consulting the President of the Court of Appeal and the Chief High Court Judge, nominate the Judges of the High Court who may comprise members of the Court of Appeal for the purposes of any proceeding or proceedings to which subsection (1) relates.
+(3) Every nomination under subsection (2) must be made either
+  (a) In respect of a specified case or specified cases; or
+  (b) In respect of every case to be heard by the Court of Appeal during a specified period not exceeding 3 months.
+(4) For the purposes of this section, the term civil proceeding means
+  (a) Any appeal to the Court of Appeal against any judgment or order given or made in a proceeding other than a criminal proceeding:
+  (b) Any application relating to an appeal of the kind mentioned in paragraph (a):
+  (c) Any application for leave to bring an appeal of the kind mentioned in paragraph (a):
+  (d) Any proceeding transferred to the Court of Appeal under section 64.
+
+### 58C Assignment of Judges to divisions
+(1) Judges are assigned to act as members of a criminal or civil division of the Court of Appeal in accordance with a procedure adopted from time to time by Judges of the Court of Appeal holding office under section 57(2).
+(2) The President of the Court of Appeal must publish in the Gazette any procedure adopted under subsection (1).
+(3) A Judge of the High Court who is eligible to act as a Judge of a division of the Court of Appeal because of a nomination made under section 58A(2) or section 58B(2) may not be assigned to a division without the concurrence of the Chief Justice and the Chief High Court Judge.
+
+### 58D Court of Appeal to Sit as Full Court in certain cases
+(1) Subject to subsection (3), a Full Court consists of 5 Judges.
+(2) Subject to section 58F, a Full Court is constituted only by Judges of the Court of Appeal holding office under section 57(2).
+(3) Where, pending the determination of any proceeding, 1 or more of the members of a Full Court before whom the proceeding is being heard or was heardit is not necessary for that proceeding to be reheard, and the remaining members may continue to act as a Full Court for the purposes of this section with power to determine the proceeding or any incidental matter (including the question of costs) that may arise in the course of that proceeding.
+  (a) Dies; or
+  (b) Becomes seriously ill; or
+  (c) Is otherwise unavailable for any reason,
+(4) The Court of Appeal must sit as a Full Court to hear and determine
+  (a) Cases that are considered, in accordance with the procedure adopted under section 58E, to be of sufficient significance to warrant the consideration of a Full Court:
+  (b) Any proceeding, case, or question referred under section 58(6) for hearing and determination by a Full Court:
+  (c) Any appeal from a decision of the Courts Martial Appeal Court under section 10 of the Courts Martial Appeals Act 1953.
+
+### 58E Cases of sufficient significance for Full Court
+(1) The question whether a case is of sufficient significance to warrant the consideration of a Full Court must be determined in accordance with the procedure which those Judges of the Court of Appeal holding office under section 57(2) from time to time adopt.
+(2) The President of the Court of Appeal must publish in the Gazette any procedure adopted by the Judges of the Court of Appeal under subsection (1).
+
+### 58F High Court Judges sitting on Full Court
+(1) Whenever the President of the Court of Appeal certifies in writing that due toit is necessary for a specified Judge who has been assigned to a division of the Court under section 58C to sit as a member of the Full Court, that Judge may sit as a member of the Full Court.
+  (a) The illness or absence on leave of any of the Judges holding office under section 57(2); or
+  (b) The need for the expertise of a specific Judge of the High Court in a particular case; or
+  (c) Any other exceptional circumstances,
+(2) No more than 1 Judge of the High Court may sit as a member of the Full Court at any one time.
+
+### 58G Authority of High Court Judges
+(1) The fact that a Judge of the High Court acts as a Judge of the Court of Appeal is conclusive evidence of the Judge's authority to do so, and no judgment or determination given or made by the Court of Appeal while the Judge so acts may be questioned on the ground that the occasion for the Judge so acting had not arisen or had ceased to exist.
+(2) A Judge of the High Court who has acted as a Judge of the Court of Appeal may attend sittings of the Court of Appeal for the purpose of giving any judgment or passing sentence in or otherwise completing any proceeding in relation to any case that has been heard by the Judge while he or she so acted.
+
+### 59 Judgment of Court of Appeal
+(1) The judgment of the Court must be in accordance with the opinion of a majority of the Judges hearing the proceeding concerned.
+(2) If the Judges present are equally divided in opinion, the judgment or order appealed from or under review is taken to be affirmed.
+(3) The delivery of the judgment of the Court of Appeal may be effected in any manner provided by rules made under section 51C.
+
+### 60 Sittings of Court of Appeal
+(1) The Court of Appeal may from time to time appoint ordinary or special sittings of the Court, and may from time to time make rules, not inconsistent with the rules of practice and procedure of the Court of Appeal for the time being in force under this Act or with the laws of New Zealand, in respect of the places and times for holding sittings of the Court, the order of disposing of business, and any other necessary matters.
+(2) If present at a sitting of the Court of Appeal, the President presides.
+(3) If the President of the Court of Appeal is absent from a sitting of the Court, the senior Judge of the Court present presides.
+(4) The Court has power from time to time to adjourn any sitting until such time and to such place as it thinks fit.
+
+### 60A Court of Appeal may sit in divisions
+[Repealed]
+
+### 61 Adjournment in cases of absence of some of the Judges
+Where, by reason of the absence of all or any one or more of the Judges of the Court of Appeal at the time appointed for the sitting of the Court or any adjournment thereof, it is necessary to adjourn the sitting of the Court to a future day, any one or more of the Judges at the time appointed for such sitting, or at the time of any adjournment thereof, or the Registrar of the said Court in case none of the Judges thereof are present, may adjourn or further adjourn such sitting to such future day and hour as such Judge or Judges or such Registrar think fit.
+
+### 61A Incidental orders and directions may be made and given by one Judge
+(1) In any civil appeal or in any civil proceeding before the Court of Appeal, any Judge of that Court, sitting in Chambers, may make such incidental orders and give such incidental directions as he thinks fit, not being an order or a direction that determines the appeal or disposes of any question or issue that is before the Court in the appeal or proceeding.
+(2) Every order or direction made or given by a Judge of the Court of Appeal under subsection (1) of this section may be discharged or varied by any Judges of that Court who together have jurisdiction, in accordance with section 58A or section 58B or section 58D, as the case may be, to hear and determine the proceeding.
+(3) Any Judge of the Court of Appeal may review a decision of the Registrar made within the civil jurisdiction of the Court under a power conferred on the Registrar by any rule of Court, and may confirm, modify, or revoke that decision as he thinks fit.
+(4) The provisions of this section shall apply notwithstanding anything in section 58.
+(5) This section shall have effect from a date to be appointed by the Governor-General by Order in Council.
+
+### 62 Power to remit proceedings to the High Court
+The Court of Appeal shall have power to remit any proceedings in any cause pending before it to the High Court or a single Judge thereof.
+
+### 63 Judgments of Court of Appeal may be enforced by the High Court
+All judgments, decrees, and orders of the Court of Appeal may be enforced by the High Court as if they had been given or made by that Court.
+
+**Civil jurisdiction**
+
+**Removal of proceedings from the High Court**
+
+### 64 Transfer of civil proceedings from High Court to Court of Appeal
+(1) If the circumstances of a civil proceeding pending before the High Court are exceptional, the High Court may order that the proceeding be transferred to the Court of Appeal.
+(2) Without limiting the generality of subsection (1), the circumstances of a proceeding may be exceptional if
+  (a) A party to the proceeding intends to submit that a relevant decision of the Court of Appeal should be overruled by the Court of Appeal:
+  (b) The proceeding raises 1 or more issues of considerable public importance that need to be determined urgently, and those issues are unlikely to be determined urgently if the proceeding is heard and determined by both the High Court and the Court of Appeal:
+  (c) The proceeding does not raise any question of fact or any significant question of fact, but does raise 1 or more questions of law that are the subject of conflicting decisions of the High Court.
+(3) In deciding whether to transfer a proceeding under subsection (1), a Judge must have regard to the following matters:
+  (a) The primary purpose of the Court of Appeal as an appellate court:
+  (b) The desirability of obtaining a determination at first instance and a review of that determination on appeal:
+  (c) Whether a Full Court of the High Court could effectively determine the question in issue:
+  (d) Whether the proceeding raises any question of fact or any significant question of fact:
+  (e) Whether the parties have agreed to the transfer of the proceeding to the Court of Appeal:
+  (f) Any other matter that the Judge considers that he or she should have regard to in the public interest.
+(4) The fact that the parties to a proceeding agree to the transfer of the proceeding to the Court of Appeal is not in itself a sufficient ground for an order transferring the proceeding.
+(5) If the High Court transfers a proceeding under subsection (1), the Court of Appeal has the jurisdiction of the High Court to hear and determine the proceeding.
+
+### 65 Decision of Court of Appeal final as regards tribunals of New Zealand
+[Repealed]
+
+**Appeals from decisions of the High Court**
+
+### 66 Court may hear appeals from judgments and orders of the High Court
+The Court of Appeal shall have jurisdiction and power to hear and determine appeals from any judgment, decree, or order save as hereinafter mentioned, of the High Court, subject to the provisions of this Act and to such rules and orders for regulating the terms and conditions on which such appeals shall be allowed as may be made pursuant to this Act.
+
+**Appeals from inferior Courts**
+
+### 67 Appeals against decisions of High Court on appeal
+(1) The decision of the High Court on appeal from an inferior court is final, unless a party, on application, obtains leave to appeal against that decision
+  (a) to the Court of Appeal; or
+  (b) directly to the Supreme Court (in exceptional circumstances as provided for in section 14 of the Supreme Court Act 2003).
+(2) An application under subsection (1) for leave to appeal to the Court of Appeal must be made to the High Court or, if the High Court refuses leave, to the Court of Appeal.
+(3) An application under subsection (1) for leave to appeal directly to the Supreme Court must be made to the Supreme Court.
+(4) If leave to appeal referred to in subsection (1)(a) is obtained, the decision of the Court of Appeal on appeal from the High Court is final unless a party, on application, obtains leave to appeal against that decision to the Supreme Court.
+(5) Subsections (1), (3), and (4) are subject to the Supreme Court Act 2003.
+
+### 68 Direct appeal from decision of inferior Courts
+[Repealed]
+
+**Criminal jurisdiction**
+
+**Trial at bar**
+
+### 69 Trial at bar
+(1) Where a bill of indictment has been found in the High Court, or any inquisition has been found, or any criminal information been granted against any person for any crime, if it appears to the High Court on affidavit on the part of the accused or of the prosecutor that the case is one of extraordinary importance or difficulty, and that it is desirable that it should be tried before the Judges at bar, the High Court may grant a rule nisi, and, if no sufficient cause is shown, may make the same absolute for the removal of such indictment, inquisition, or information, and the proceedings thereon, into the Court of Appeal, and for the trial of the same at bar at the next or other sitting of such Court of Appeal, and may direct that a special or common jury, as the High Court thinks fit, be summoned from such jury district as the Court directs to serve upon such trial; and such proceedings, as nearly as may be, shall thereupon be had as upon a trial at bar in England.
+(2) The Court of Appeal shall have the same jurisdiction, authority, and power in respect thereof as the King's Bench Division of the High Court of Justice has in England in respect of a trial at bar.
+
+**Appeals from convictions**
+
+### 70 Appeal from Judgment of Supreme Court on conviction
+[Repealed]
+
+**Miscellaneous**
+
+### 71 Rules of practice
+[Repealed]
+
+### 71A Restriction on institution of vexatious actions
+[Repealed]
+
+### 72 Appointment of officers
+There may from time to time be appointed under the State Sector Act 1988 such Registrars, Deputy Registrars, and other officers as may be required for the conduct of the business of the Court of Appeal.
+
+### 73 Powers and duties of officers
+All such Registrars and other officers shall have in respect of the Court of Appeal such powers and duties as are prescribed by rules made under this Act.
+
+### 74 Court seal
+The Court of Appeal shall have in the custody of the Registrar a seal for the sealing of writs, orders, decrees, office copies, certificates, reports, and other instruments issued by such Registrar and requiring to be sealed.
+
+### 75 Power to fix fees
+[Repealed]
+
+## Part 3 — Rules and provisions of law in judicial matters generally
+
+**Removal of technical defects**
+
+### 76 Power to Courts to amend mistakes and supply omissions in warrants, orders, &c
+[Repealed]
+
+**Limitation of actions**
+
+### 77 Limitation of actions for merchants' accounts
+[Repealed]
+
+### 78 Limitation not barred by claims subsequently arising
+[Repealed]
+
+### 79 Absence beyond seas or imprisonment of a creditor not to be a disability
+[Repealed]
+
+### 80 Period of limitation to run as to joint debtors in New Zealand, though some are beyond seas
+[Repealed]
+
+### 81 Judgment recovered against joint debtors in New Zealand to be no bar to proceeding against others beyond seas after their return
+[Repealed]
+
+### 82 Part payment by one contractor, &c, not to prevent bar in favour of another contractor, &c
+[Repealed]
+
+**Sureties**
+
+### 83 Consideration for guarantee need not appear by writing
+[Repealed]
+
+### 84 A surety who discharges the liability to be entitled to assignment of all securities held by the creditor
+Every person who, being surety for the debt or duty of another, or being liable with another for any debt or duty, pays or satisfies such debt or performs such duty shall be entitled to have assigned to him, or a trustee for him, every judgment, specialty, or other security held by the creditor in respect of such debt or duty, whether such judgment, specialty, or other security is or is not deemed at law to be satisfied by the payment of the debt or performance of the duty.
+
+### 85 Rights of surety in such case
+(1) Every such person shall be entitled to stand in the place of the creditor, and to use all the remedies, and if need be, and upon a proper indemnity, to use the name of the creditor in any civil proceedings in order to obtain from the principal debtor or any co-surety, co-contractor, or co-debtor, as the case may be, indemnification for the advances made and loss sustained by the person paying or satisfying such debt or performing such duty.
+(2) Such payment, satisfaction, or performance made by such surety shall not be pleadable in bar of any such action or other proceeding by him.
+
+### 86 Rights of co-sureties, etc, as between themselves
+A co-surety, co-contractor, or co-debtor shall not be entitled to recover from any other co-surety, co-contractor, or co-debtor by the means aforesaid more than the just proportion to which, as between those parties themselves, such last-mentioned person is justly liable.
+
+**Interest on money**
+
+### 87 Power of Courts to award interest on debts and damages
+(1) In any proceedings in the High Court, the Court of Appeal, or the Supreme Court for the recovery of any debt or damages, the Court may, if it thinks fit, order that there shall be included in the sum for which judgment is given interest at such rate, not exceeding the prescribed rate, as it thinks fit on the whole or any part of the debt or damages for the whole or any part of the period between the date when the cause of action arose and the date of the judgment:
+  Provided that nothing in this subsection shall
+    (a) Authorise the giving of interest upon interest; or
+    (b) Apply in relation to any debt upon which interest is payable as of right, whether by virtue of any agreement, enactment, or rule of law, or otherwise; or
+    (c) Affect the damages recoverable for the dishonour of a bill of exchange.
+(2) In any proceedings in the High Court, the Court of Appeal, or the Supreme Court for the recovery of any debt upon which interest is payable as of right, and in respect of which the rate of interest is not agreed upon, prescribed, or ascertained under any agreement, enactment, or rule of law or otherwise, there shall be included in the sum for which judgment is given interest at such rate, not exceeding the prescribed rate, as the Court thinks fit for the period between the date as from which the interest became payable and the date of the judgment.
+(3) In this section the term the prescribed rate means the rate of 7 percent per annum, or such other rate as may from time to time be prescribed for the purposes of this section by the Governor-General by Order in Council.
+
+**Lost instruments**
+
+### 88 Actions on lost instruments
+In case of any action founded on any negotiable instrument, the Court may order that the loss of such instrument shall not be taken advantage of, provided an indemnity is given to the satisfaction of the Court or a Registrar thereof against the claims of any other person upon such negotiable instrument.
+
+**Continued exercise of powers by judicial officers**
+
+### 88A Judicial officers to continue in office to complete proceedings
+(1) A judicial officer whose term of office has expired or who has retired may continue in office for the purpose of determining, or giving judgment in, proceedings that the judicial officer has heard either alone or with others.
+(2) A judicial officer must not continue in office under subsection (1) for longer than a month without the consent of the Minister of Justice.
+(3) The fact that a judicial officer continues in office does not affect the power to appoint another person to that office.
+(4) A judicial officer who continues in office is entitled to be paid the remuneration and allowances to which the officer would have been entitled if the term of office had not expired or the officer had not retired.
+(5) In this section, judicial officer means a person who has in New Zealand authority under an enactment to hear, receive, and examine evidence.
+
+**Miscellaneous provisions and rules of law**
+
+### 88B Restriction on institution of vexatious actions
+(1) If, on an application made by the Attorney-General under this section, the High Court is satisfied that any person has persistently and without any reasonable ground instituted vexatious legal proceedings, whether in the High Court or in any inferior Court, and whether against the same person or against different persons, the Court may, after hearing that person or giving him an opportunity of being heard, order that no civil proceeding or no civil proceeding against any particular person or persons shall without the leave of the High Court or a Judge thereof be instituted by him in any Court and that any civil proceeding instituted by him in any Court before the making of the order shall not be continued by him without such leave.
+(2) Leave may be granted subject to such conditions (if any) as the Court or Judge thinks fit and shall not be granted unless the Court or Judge is satisfied that the proceeding is not an abuse of the process of the Court and that there is prima facie ground for the proceeding.
+(3) No appeal shall lie from an order granting or refusing such leave.
+
+### 89 Administration suits
+[Repealed]
+
+### 90 Stipulations not of the essence of contracts
+Stipulations in contracts as to time or otherwise which would not, before the 13th day of September 1882 (the date of the coming into force of the Law Amendment Act 1882), have been deemed to be or to have become the essence of such contracts in a Court of equity shall receive in all Courts the same construction and effect as they would have theretofore received in equity.
+
+### 91 Damages by collision at sea
+[Repealed]
+
+### 92 Discharge of debt by acceptance of part in satisfaction
+An acknowledgement in writing by a creditor, or by any person authorised by him in writing in that behalf, of the receipt of a part of his debt in satisfaction of the whole debt shall operate as a discharge of the debt, any rule of law notwithstanding.
+
+### 93 Provisions of 9 Geo. IV, c. 14, secs. 1 and 8, extended to acknowledgments by agents
+[Repealed]
+
+### 94 Judgment against one of several persons jointly liable not a bar to action against others
+A judgment against one or more of several persons jointly liable shall not operate as a bar or defence to civil proceedings against any of such persons against whom judgment has not been recovered, except to the extent to which the judgment has been satisfied, any rule of law notwithstanding.
+
+### 94A Recovery of payments made under mistake of law
+(1) Subject to the provisions of this section, where relief in respect of any payment that has been made under mistake is sought in any Court, whether in civil proceedings or by way of defence, set off, counterclaim, or otherwise, and that relief could be granted if the mistake was wholly one of fact, that relief shall not be denied by reason only that the mistake is one of law whether or not it is in any degree also one of fact.
+(2) Nothing in this section shall enable relief to be given in respect of any payment made at a time when the law requires or allows, or is commonly understood to require or allow, the payment to be made or enforced, by reason only that the law is subsequently changed or shown not to have been as it was commonly understood to be at the time of the payment.
+
+### 94B Payments made under mistake of law or fact not always recoverable
+Relief, whether under section 94A of this Act or in equity or otherwise, in respect of any payment made under mistake, whether of law or of fact, shall be denied wholly or in part if the person from whom relief is sought received the payment in good faith and has so altered his position in reliance on the validity of the payment that in the opinion of the Court, having regard to all possible implications in respect of other persons, it is inequitable to grant relief, or to grant relief in full, as the case may be.
+
+### 95 Limitation of time within which wills may be impeached
+[Repealed]
+
+### 96 Jurisdiction as to costs in administration suits
+[Repealed]
+
+### 97 Court empowered to grant special relief in cases of encroachment
+[Repealed]
+
+### 98 Custody and education of infants
+[Repealed]
+
+### 98A Proceedings in lieu of writs
+(1) Where, immediately before the commencement of the Judicature Amendment Act (No 2) 1985,then, after the commencement of that Act,
+  (a) The Court had jurisdiction to grant any relief or remedy or do any other thing by way of writ, whether of prohibition, mandamus, certiorari, or any other description; or
+  (b) In any proceedings in the Court for any relief or remedy any writ might have issued out of the Court for the purpose of the commencement or conduct of the proceedings, or otherwise in relation to the proceedings, whether the writ might have issued pursuant to any rule or order of the Court or of course,
+  (c) The Court shall continue to have jurisdiction to grant that relief or remedy or to do that thing; but
+  (d) The Court shall not issue any such writ; and
+  (e) The Court shall grant that relief or remedy or do that thing by way of judgment or order under this Act and the High Court Rules; and
+  (f) Proceedings for that relief or remedy or for the doing of that thing shall be in accordance with this Act and the High Court Rules.
+(2) Subject to the High Court Rules, this section does not apply to
+  (a) The writ of habeas corpus; or
+  (b) Any writ of execution for the enforcement of a judgment or order of the Court; or
+  (c) Any writ in aid of any such writ of execution.
+
+### 99 In cases of conflict rules of equity to prevail
+Generally in all matters in which there is any conflict or variance between the rules of equity and the rules of the common law with reference to the same matter the rules of equity shall prevail.
+
+### 99A Costs where intervener or counsel assisting Court appears
+(1) Where the Attorney-General or the Solicitor-General or any other person appears in any civil proceedings or in any proceedings on any appeal and argues any question of law or of fact arising in the proceedings, the Court may, subject to the provisions of any other Act, make such order as it thinks just
+  (a) As to the payment by any party to the proceedings of the costs incurred by the Attorney-General or the Solicitor-General in so doing; or
+  (b) As to the payment by any party to the proceedings or out of public funds of the costs incurred by any other person in so doing; or
+  (c) As to the payment by the Attorney-General or the Solicitor-General or that other person of any costs incurred by any of those parties by reason of his so doing.
+(2) Where the Court makes an order pursuant to subsection (1)(b) of this section, the Registrar of the Court shall forward a copy of the order to the chief executive of the Department for Courts who shall make the payment out of money appropriated by Parliament for the purpose.
+
+### 99B Technical advisers
+(1) The Court of Appeal or the Supreme Court may appoint a suitably qualified person (a technical adviser) to assist it by giving advice in an appeal in a proceeding involving a question arising from evidence relating to scientific, technical, or economic matters, or from other expert evidence, if the Court is of the opinion that, in considering the evidence, it is desirable to have expert assistance.
+(2) The technical adviser must give the advice in such manner as the Court may direct during the course of the proceeding on any question referred to the technical adviser.
+(3) Advice given by a technical adviser
+  (a) Is information provided to the Court; and
+  (b) May be given such weight as the Court thinks fit.
+(4)
+
+### 99C Appointment and other matters
+(1) A technical adviser may be appointed by the Court of Appeal on its own initiative or on the application of a party to the proceeding.
+(2) A technical adviser may be removed from office by the Court of Appeal for disability affecting performance of duty, neglect of duty, bankruptcy, or misconduct proved to the satisfaction of the Court.
+(3) A technical adviser may resign office by notice in writing to the Court of Appeal.
+(4) The remuneration of a technical adviser must
+  (a) Be fixed by the Court of Appeal; and
+  (b) Include a daily fee for any day on which the technical adviser is required to assist the Court.
+(5) Civil or criminal proceedings may not be commenced against a technical adviser in relation to advice given to the Court of Appeal in good faith under section 99B.
+
+### 99D Procedure and rules relating to technical advisers
+(1) The Court of Appeal may adopt any procedures and practices in relation to the advice of a technical adviser as it considers just, but those procedures and practices are subject to any rules referred to in subsection (2).
+(2) Rules may be made under section 51C relating to
+  (a) The appointment of technical advisers, including (without limitation)
+    (i) The information to be given to the parties to an appeal, before a technical adviser is appointed for the appeal,
+      (A) About the persons who are considered suitable for appointment; and
+      (B) About the matters on which the assistance of the proposed technical adviser is to be sought:
+    (ii) The submissions that those parties may make to the Court of Appeal about the proposed appointment of a technical adviser and the assistance to be given by the technical adviser:
+  (b) The conduct of proceedings involving technical advisers.
+
+### 100 Independent medical examination
+(1) Where the physical or mental condition of a person who is a party to any civil proceedings is relevant to any matter in question in those proceedings, the High Court may order that that person submit himself to examination at a time and place specified in the order by one or more medical practitioners named in the order.
+(2) A person required by an order under subsection (1) of this section to submit to examination may have a medical practitioner chosen by that person attend that person's examination.
+(3) The Court may order that the party seeking the order pay to the person to be examined a reasonable sum to meet that person's travelling and other expenses of and incidental to the examination, including the expenses of having a medical practitioner chosen by that person attend that person's examination.
+(4) Where an order is made under subsection (1) of this section, the person required by that order to submit to examination shall do all things reasonably requested, and answer all questions reasonably asked of that person, by the medical practitioner for the purposes of the examination.
+(5) If a person ordered under subsection (1) of this section to submit to examination fails, without reasonable excuse, to comply with the order, or in any way obstructs the examination, the Court may, on terms, stay the proceedings or strike out the pleading of that person.
+(6) This section applies to the Crown and every Department of the public service.
+(7) Nothing in this section affects the provisions of the Workers' Compensation Act 1956.
+
+### 100A Regulations
+(1) Notwithstanding anything in sections 51 and 51C of this Act, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+  (a) Prescribing the matters in respect of which fees are payable under this Act:
+  (b) Prescribing scales of fees for the purposes of this Act and for the purposes of any proceedings before the High Court or the Court of Appeal, whether under this Act or any other enactment:
+  (c) Prescribing the fees, travelling allowances, and expenses payable to interpreters and to persons giving evidence in proceedings to which this Act applies:
+  (d) in order to promote access to justice, empowering Registrars or Deputy Registrars of the High Court and the Court of Appeal to waive, reduce, or postpone the payment of a fee required in connection with a proceeding or an intended proceeding, or to refund, in whole or in part, such a fee that has already been paid, if satisfied on the basis of criteria specified under paragraph (da) that
+    (i) the person otherwise responsible for payment of the fee is unable to pay or absorb the fee in whole or in part; or
+    (ii) unless 1 or more of those powers are exercised in respect of a proceeding that concerns a matter of genuine public interest, the proceeding is unlikely to be commenced or continued:
+  (da) prescribing, for the purposes of the exercise of a power under paragraph (d), the criteria
+    (i) for assessing a person's ability to pay a fee; and
+    (ii) for identifying proceedings that concern matters of genuine public interest:
+  (db) empowering Registrars or Deputy Registrars of the High Court and the Court of Appeal to postpone the payment of a fee pending the determination of
+    (i) an application for the exercise of a power specified in paragraph (d); or
+    (ii) an application for review under section 100B:
+  (dc) making provision in relation to the postponement, under the regulations, of the payment of any fee, which provision may (without limitation) include provision
+    (i) for the recovery of the fee after the expiry of the period of postponement; and
+    (ii) for restrictions to apply (after the expiry of the period of postponement and so long as the fee remains unpaid) on the steps that may be taken in the proceedings in respect of which the fee is payable:
+  (dd) providing for the manner in which an application for the exercise of a power specified in paragraph (d) or paragraph (db) is to be made, including, without limitation, requiring such an application to be in a form approved for the purpose by the chief executive of the Department for Courts:
+  (e) Altering or revoking any rules relating to fees contained in the High Court Rules or the Court of Appeal Rules or any other rules of Court.
+(2) No fee is payable for an application for the exercise of a power specified in subsection (1)(d) or (db).
+
+### 100B Reviews of decisions of Registrars concerning fees
+(1) Any person who is aggrieved by any decision of a Registrar or Deputy Registrar under regulations made under section 100A(d) may apply for a review,
+  (a) in the case of a decision by the Registrar or a Deputy Registrar of the Court of Appeal, to a Judge of that Court:
+  (b) in the case of a decision by a Registrar or Deputy Registrar of the High Court, to a Judge or a Master of that Court.
+(2) An application under subsection (1) may be made within 20 working days after the date on which the applicant is notified of the decision of the Registrar or Deputy Registrar, or within any further time that the Judge or Master allows on application made for that purpose either before or after the expiration of those 20 working days.
+(3) Applications under this section may be made on an informal basis.
+(4) Reviews under this section are
+  (a) conducted by way of rehearing of the matter in respect of which the Registrar or Deputy Registrar made the decision; and
+  (b) dealt with on the papers, unless the Judge or Master directs otherwise.
+(5) On dealing with an application for a review of a decision of a Registrar or Deputy Registrar, the Judge or Master may confirm, modify, or reverse the decision of the Registrar or the Deputy Registrar.
+(6) No fee is payable for an application under this section.
+
+### 101 Words imputing unchastity to women actionable without special damage
+[Repealed]
+
+## Schedule 1 — Enactments consolidated
+
+## Schedule 2 — The High Court Rules
+
+### Part 1 — Preliminary provisions
+
+### 1 Title
+These rules may be cited as the High Court Rules.
+
+### 2 Application of rules
+(1) Subject to subsections (2) and (3) of section 51 and to sections 51A to 56C of the Act, the practice and procedure of the Court in all civil proceedings (other than appeals to the Court of Appeal) shall be regulated by these rules.
+(2) These rules shall be subject to any other rules which are made pursuant to section 51C of the Act and which prescribe the procedure applicable in respect of any class of civil proceedings.
+(3) Where any provision of these rules or of any rules made under section 51C of the Act restricts or excludes the application of these rules or any provisions of these rules, the provision that effects the restriction or exclusion shall have effect according to its tenor.
+(4) If in any civil proceedings any question arises as to the application of any provision of these rules, the Court may, either on the application of any party or of its own motion, determine the question and give such directions as it thinks fit.
+
+### 3 Interpretation
+(1) In these rules, unless the context otherwise requires,
+  - **Act** The means the Judicature Act 1908
+  - **Address for service** , in relation to any party, means the address of a place in New Zealand at which any document may be left for, or sent to, that party in accordance with these rules
+  - **case management conference** means a conference conducted in accordance with rule 427
+  - **Chattels** includes all things not being land
+  - **Civil proceedings** , in relation to the Crown, has the same meaning as in the Crown Proceedings Act 1950
+  - **control** , in relation to a document, means
+    (a) possession of the document; or
+    (b) a right to possess the document; or
+    (c) a right, otherwise than under these rules, to inspect or copy the document
+  - **Court** means the High Court; and includes
+    (a) a Judge of the High Court; and
+    (b) an Associate Judge of the High Court exercising the jurisdiction conferred on an Associate Judge by the Judicature Act 1908 or by rules made under section 26J of that Act
+  - **Court holiday** means a day that is a holiday under rule 19
+  - **Crown** The has the same meaning as in the Crown Proceedings Act 1950
+  - **Defendant** means a person served or intended to be served with any proceeding
+  - **Document** means a document in any form whether signed or initialled or otherwise authenticated by its maker or not; and includes
+    (a) Any writing on any material:
+    (b) Any information recorded or stored by means of any tape-recorder, computer, or other device; and any material subsequently derived from information so recorded or stored:
+    (c) Any label, marking, or other writing that identifies or describes any thing of which it forms part, or to which it is attached by any means:
+    (d) Any book, map, plan, graph, or drawing:
+    (e) Any photograph, film, negative, tape, or other device in which one or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced:
+  - **Easter Vacation** means the vacation prescribed by rule 18(b)
+  - **To file** , in relation to any document, means to lodge the document in the form required by these rules in the proper office of the Court, together with the fee (if any) payable for filing the same; and has a corresponding meaning
+  - **hearing date** , in relation to an interlocutory application or a proceeding, means the date on which, and the time at which, the application or the proceeding is to be heard
+  - **hearing in Chambers** includes a case management conference
+  - **interlocutory application** means an application made in accordance with rule 237 or rule 254.
+  - **interlocutory order**
+    (a) means an order or direction of the Court that
+      (i) is made or given for the purposes of a proceeding or an intended proceeding; and
+      (ii) concerns a matter of procedure or grants some relief ancillary to that claimed in a pleading; and
+    (b) includes
+      (i) an order for a new trial; and
+      (ii) an order striking out the whole or part of a pleading; and
+      (iii) an order varying or rescinding an interlocutory order
+  - **Judge** means a Judge of the High Court; and includes an Associate Judge of the High Court exercising the jurisdiction conferred on an Associate Judge by the Judicature Act 1908 or by rules made under section 26J of that Act
+  - **Land** includes any estate, right, title, or interest in land
+  - **Long Vacation** means the vacation prescribed by rule 18(a)
+  - **Maori** means a person of the Maori race of New Zealand; and includes any descendant of such a person
+  - **Nearer** or , in relation to any place, means nearer or nearest by the most practicable route
+  - **Notice of proceeding** means a notice filed pursuant to rule 120
+  - **Opposite party** means, in relation to any party, any other party whose interests are opposed to those of that party
+  - **Party** means any person who is a plaintiff or defendant in any proceeding; and includes any person added to the proceeding
+  - **Plaintiff** means the person by whom or on whose behalf a proceeding is brought
+  - **Pleading** includes a statement of claim, a statement of defence, a reply, and a counterclaim
+  - **Proceeding** means any application to the Court for the exercise of the civil jurisdiction of the Court other than an interlocutory application
+  - **Registrar** includes a Deputy Registrar
+  - **respondent** , in relation to an interlocutory application, means a party on whom the application has been served.
+  - **Trial** includes a hearing before a Judge alone
+  - **Vacation** means the Easter Vacation or the Long Vacation
+  - **Working day** means any day of the week other than
+    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (b) A day in the period commencing with the 25th day of December in any year and ending with the 15th day of January in the following year.
+(2) Where any word or expression in any rule or form in these rules is not defined in these rules but is defined in an Act dealing with the subject-matter of that rule or form, that word or expression shall, unless the context otherwise requires, bear in that rule or form the meaning given to it by that Act.
+(3) In these rules, unless the context otherwise requires,
+  (a) A reference to a Part or rule is a reference to a Part or rule of these rules:
+  (b) A reference in a rule to a subclause is a reference to a subclause of that rule:
+  (c) A reference to a numbered form is a reference to the form so numbered in Schedule 1 to these rules.
+(4) In a judgment, order, direction, or other document forming part of a proceeding or of an interlocutory application, unless the context otherwise requires,
+  - **month** means a calendar month
+  - **working day** has the same meaning as in subclause (1).
+
+### 4 Construction
+These rules shall be so construed as to secure the just, speedy, and inexpensive determination of any proceeding or interlocutory application.
+
+### 5 Non-compliance with rules
+(1) Where, in beginning or purporting to begin any proceeding or at any stage in the course of or in connection with any proceeding there has, by reason of any thing done or left undone, been a failure to comply with the requirements of these rules, whether in respect of time, place, manner, form, or content or in any other respect, the failure
+  (a) Shall be treated as an irregularity; and
+  (b) Shall not nullify
+    (i) The proceeding; or
+    (ii) Any step taken in the proceeding; or
+    (iii) Any document, judgment, or order in the proceeding.
+(2) Subject to subclauses (3) and (4), the Court may, on the ground that there has been such a failure as is mentioned in subclause (1), and on such terms as to costs or otherwise as it thinks just,
+  (a) Set aside, either wholly or in part,
+    (i) The proceeding in which the failure occurred; or
+    (ii) Any step taken in the proceeding in which the failure occurred; or
+    (iii) Any document, judgment, or order in the proceeding in which the failure occurred; or
+  (b) Exercise its powers under these rules to allow such amendments (if any) to be made and to make such order (if any) dealing with the proceeding generally as it thinks fit.
+(3) The Court shall not wholly set aside any proceeding or the originating process by which the proceeding was begun on the ground that the proceeding was required by these rules to be begun by an originating process other than the one employed.
+(4) The Court shall not set aside any proceeding or any step taken in a proceeding or any document, judgment, or order in any proceeding on the ground of a failure to which subclause (1) applies on the application of any party unless the application is made within a reasonable time and before the party applying has taken any fresh step after becoming aware of the irregularity.
+
+### 6 Enlargement or abridgment of time
+(1) The Court may, in its discretion, enlarge or abridge the time appointed by these rules, or fixed by any order, for doing any act or taking any proceeding or any step in a proceeding, on such terms (if any) as the Court thinks just.
+(2) The Court may order an enlargement of time although the application for the enlargement is not made until after the expiration of the time appointed or fixed.
+
+### 7 Forms
+Where, by these rules, any form is directed or authorised to be used, such variations may be made therein as the circumstances of any particular case may require.
+
+### 8 Directions in case of doubt
+(1) Where any party or intended party is in doubt regarding the joinder of any person as a party, or as to the proper Court in which to take any step in the proceeding, or as to any other matter of procedure under these rules, he may apply ex parte to the Court for directions.
+(2) Any step taken in accordance with the directions given on an application under subclause (1) shall be deemed to have been properly taken.
+
+### 9 Cases not provided for
+If any case arises for which no form of procedure is prescribed by any Act or rule or regulation or by these rules, the Court shall dispose of the case as nearly as may be practicable in accordance with the provisions of these rules affecting any similar case, or, if there are no such rules, in such manner as the Court thinks best calculated to promote the ends of justice.
+
+### 10 Consent instead of leave of Court
+(1) Where, by these rules, the leave of the Court is required in any matter of procedure and all parties and persons to be affected thereby consent thereto, any party may, instead of filing an interlocutory application in respect thereof, file a memorandum signed by all such parties or persons, or by their respective solicitors, or by counsel or other person appointed under these rules to represent any such party or person, signifying such consent and the terms and conditions thereof.
+(2) On the filing of a memorandum under subclause (1), the Registrar shall either
+  (a) Make and seal an order in terms of the memorandum; or
+  (b) Refer the memorandum to the Court.
+(3) If the Registrar refers the memorandum to the Court under subclause (2)(b), the memorandum shall be treated as an interlocutory application for the requisite leave.
+
+### 11 Power to amend defects and errors
+(1) The Court may, either before, at, or after the trial of any proceeding, amend any defects and errors in the pleadings or procedure in the proceeding, whether or not there is anything in writing to amend, and whether or not the defect or error is that of the party (if any) applying to amend.
+(2) The Court may, at any stage of a proceeding, make, either of its own motion or on the application of any party to the proceedings, such amendments to any pleading or the procedure in the proceeding as are necessary for determining the real controversy between the parties.
+(3) All amendments made under subclause (1) or subclause 2 shall be made with or without costs and on such terms as the Court thinks fit.
+
+### 12 Correction of accidental slip or omission
+(1) If any judgment or order contains a clerical mistake or an error arising from any accidental slip or omission, whether the mistake, error, slip, or omission was made by an officer of the Court or not, or if any judgment or order is so drawn up as not to express what was actually decided and intended, the judgment or order may be corrected by the Court, or, where the judgment or order was made by a Registrar, then by the Registrar.
+(2) The correction may be made by the Court or the Registrar, as the case may be, of its or his own motion or on an interlocutory application made for that purpose.
+
+**Computation of time**
+
+### 13 Reckoning periods of time
+(1) Where any provision of this rule or of rule 14 or rule 15 prescribes the method of reckoning any period of time, that period of time, if fixed by these rules or by any judgment, order, or direction or by any document in any proceeding, shall be reckoned in accordance with that provision.
+(2) Where a time of one day or a longer time is to be reckoned by reference to a given day or event, the given day or the day of the given event shall not be counted.
+(3) Nothing in this rule or in rules 14 and 15 affects the reckoning of any period of time fixed by the Limitation Act 1950 or any other statute or the application of the Acts Interpretation Act 1924 in relation to the Limitation Act 1950 or any other statute.
+
+### 14 Certain days excluded
+(1) The period commencing on 25 December in 1 year and ending with the close of 15 January in the next year must be disregarded in calculating a period of time within which a particular act is to be done.
+(2) A Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day must be disregarded in calculating a period of time within which a particular act is to be done if the period of time is 6 days or less.
+(3) Subclauses (1) and (2) are subject to an express provision in any Act or in these rules or to a direction of the Court.
+
+### 15 When time expires on Court holiday
+Where the time for doing any act at an office of the Court expires on a day on which that office is closed, and by reason thereof that act cannot be done on that day, that act shall be in time if done on the next day on which that office is open.
+
+**Taking security**
+
+### 16 How security to be given
+(1) Where any officer is empowered to take security from any person for any purpose, the security shall be given by such number of sureties and shall be in such form and for such amount as the officer empowered to take security thinks proper.
+(2) Any person required to give security may appeal to the Court against any decision under subclause (1).
+
+### 17 Surety becoming bankrupt or insolvent
+If any surety becomes bankrupt or insolvent or makes a composition with his creditors, all further steps in the proceeding by the principal party to the security may be stayed by the Court until another surety has been found.
+
+**Vacations, holidays, and office hours**
+
+### 18 Vacations
+There shall be
+  (a) A Long Vacation, beginning on the 20th day of December and ending with the close of the 31st day of January; and
+  (b) An Easter Vacation, beginning on the day before Good Friday and ending with the close of the Saturday following Easter.
+
+### 19 Court holidays
+Subject to the Holidays Act 2003, holidays shall be observed in the Court and in the offices of the Court on the following days:
+  (a) The days in the period beginning on Good Friday and ending on the close of the Tuesday following Easter:
+  (b) The days in the period beginning on the 24th day of December and ending with the close of the 3rd day of January:
+  (c) Saturdays and Sundays:
+  (d) The Sovereign's birthday:
+  (e) Anzac Day:
+  (f) Labour Day:
+  (g) Waitangi Day:
+  (h) The day observed as the anniversary of the province in which the Court is situated:
+  (i) In each place where an office of the Court is situated, any day which in that place is
+    (i) A public holiday; or
+    (ii) A proclaimed holiday; or
+    (iii) A day observed by the Government as a holiday:
+  (j) Any days on which a Court and its office are closed pursuant to an order under rule 20.
+
+### 20 Epidemics and emergencies
+(1) Where an epidemic or an emergency exists in any place, a Judge may order that the Court in that place and its office shall be closed for a period (not exceeding one week at any one time) to be specified in the order.
+(2) Where an order is made under subclause (1), the Registrar shall ensure that the order is advertised forthwith in such manner as the Judge directs.
+
+### 21 Sittings in vacations or on Court holidays
+(1) The Court may lawfully sit in any vacation or on any Court holiday if, subject to subclause (2), any Judge considers it desirable to do so for the despatch of business.
+(2) The Court may lawfully sit on a Sunday or on Christmas Day, New Year's Day, or Good Friday, only if, in the opinion of the Judge, the business to be despatched is extremely urgent.
+(3) Where the Court sits pursuant to subclause (1) or subclause (2), it may,
+  (a) For the purpose of the hearing or for the purpose of giving effect to the hearing, authorise the receipt or issue of any document complying with these rules:
+  (b) Notwithstanding section 54 of the Act, authorise the service of any document received or issued pursuant to authority given under paragraph (a).
+
+### 22 Office hours
+The offices of the Court shall be open from 9am to 5pm on every day that is not a Court holiday.
+
+**Shape, etc, of documents to be filed**
+
+### 23 General requirements
+(1) A document that does not comply with rules 24 to 40 shall be received for filing only by leave of a Judge or the Registrar.
+(2) The cost of an application under subclause (1) shall be disallowed to the solicitor who presented the document for filing.
+
+### 24 Paper
+(1) The paper used shall be of medium weight and good quality.
+(2) Each sheet of paper shall be of International size A4.
+
+### 25 Contents to be typed, etc
+(1) The contents of each document shall be legible and shall be clearly typewritten, printed, or produced in permanent form by photocopying.
+(2) Notwithstanding subclause (1), handwriting may be used for the date of the document.
+(3) Nothing in subclause (1) of this rule applies in respect of the signature on a document.
+
+### 26 Margin
+(1) Subject to subclause (2), a margin of at least one-quarter of the width of the paper shall be left on the left-hand side of each page.
+(2) Where the reverse side of a page is used, a margin of at least one-quarter of the width of the paper shall be left on the right-hand side of that page.
+
+### 27 Signature to be original
+Where a document is required to be signed
+  (a) The signature shall be an original signature; and
+  (b) Immediately below the original signature, the name of the signatory shall be
+    (i) Legibly typed, printed, or stamped; or
+    (ii) Legibly written in the style of printed matter.
+
+### 28 One side only to be used
+[Repealed]
+
+### 29 Separate backing sheet
+[Repealed]
+
+### 30 Cover sheet, numbering, and fastening of document
+(1) The first sheet of a document is the cover sheet, showing the matters specified in rules 31 and 33.
+(2) The cover sheet is not numbered, even if the heading is continued on another sheet under rule 33(2).
+(3) Each page after the cover sheet must be numbered consecutively, starting with the number 1.
+(4) All sheets of a document must be securely fastened together.
+
+### 31 Description of document
+(1) Each document shall show on its cover sheet, immediately below the heading, a description of the document adequate to show its precise nature.
+(2) The description shall include
+  (a) Words indicating the party by whom or on whose behalf the document is filed; and
+  (b) The words ex parte application in the case of an application so made.
+
+### 32 Particulars of endorsement
+[Repealed]
+
+### 33 Format of cover sheet
+(1) The cover sheet of an originating document and of a notice of interlocutory application must
+  (a) include only
+    (i) the heading; and
+    (ii) the description of the document; and
+    (iii) if applicable, the next event date; and
+    (iv) if applicable, the name of the Judge or Associate Judge to whom the proceeding has been assigned; and
+    (v) the subscription; and
+  (b) must leave ample space between the description of the document and the subscription for the inclusion of a minute.
+(2) The heading may, where necessary, be continued on another sheet.
+(3) In subclause (1)(a)(iii), next event date means, if allocated, the date and nature of a hearing or conference that is to be held next after the date on which the document is filed.
+
+### 34 Carbon copies
+Carbon copies shall not be filed as original documents; but such copies, if clear and legible, may be used as exhibits to affidavits.
+
+### 35 Heading generally
+All documents presented for filing shall bear the proper heading of the proceeding.
+
+### 36 Heading on statement of claim and counterclaim
+(1) The heading of every statement of claim, and of every counterclaim intended to be served upon any person other than the plaintiff, shall show
+  (a) The number of the proceeding:
+  (b) The office of the Court in which it is filed:
+  (c) Where the statement of claim or counterclaim seeks relief in reliance on jurisdiction conferred by an Act, the Short Title of that Act:
+  (d) Where the relief sought in the statement of claim or counterclaim relates to the validity or interpretation of a will, the name of the testator:
+  (e) Where the relief sought in the statement of claim or counterclaim relates to the validity or interpretation of an instrument other than a will, the name of the maker of, or the names of the parties to, the instrument and its date:
+  (f) Where the relief sought in the statement of claim or counterclaim relates to the validity or interpretation of an Act, the Short Title, and the relevant section or sections, of the Act:
+  (g) The full name, and the place of residence and occupation, of every plaintiff and defendant, so far as they are known to the party presenting the document for filing.
+(2) Form 1 shall be used for the purposes of subclause (1).
+
+### 36A Heading on judgment and certain orders
+The heading of every judgment and of every order (being an order that is required to be registered under any enactment) shall be the same as the heading on the statement of claim or other document by which the proceeding was commenced.
+
+### 37 Heading on other documents
+(1) The heading of every document (other than a document by which a proceeding is commenced or a document to which rule 36A applies) may be abbreviated in the following respects:
+  (a) First or Christian names of persons shall be denoted by initials only, unless full names are necessary to distinguish between persons having the same initials:
+  (b) Where 2 or more persons are joined in the same interest, the name of the first named only of such persons shall be set out, followed by the words and another or and others, as the case may be:
+  (c) Places of residence and descriptions of persons (unless necessary to distinguish 2 or more persons required to be named and bearing the same name) and indications of the interest in which a person is a party shall be omitted:
+  (d) The names of corporations shall be set out without abbreviation, but without stating the fact of incorporation or referring to the registered office or making other addition.
+(2) Notwithstanding subclause (1), a fuller title may be used upon change of parties or if any party considers that a person has in a previous document been wrongly named or described or for other sufficient reason.
+
+### 38 Division into paragraphs
+(1) Every document presented for filing shall be divided into paragraphs numbered consecutively.
+(2) Each paragraph shall, as nearly as may be, be confined to a single topic.
+
+### 39 Numbers
+Numbers shall be expressed in figures and not in words.
+
+### 40 Subscription at foot of cover sheet
+(1) At the foot of the cover sheet of every document for filing, there shall be subscribed
+  (a) The name of the solicitor or firm of solicitors (if any) presenting it for filing and the name of any agent by whom the document is filed; and
+  (b) Where the document is presented for filing by or on behalf of a solicitor or firm of solicitors,
+    (i) The name and telephone number of the principal or employee dealing with the proceeding; and
+    (ii) The address of any postal box or document exchange used by the solicitor or firm; and
+    (iii) Any facsimile number used by the solicitor or firm.
+(2) The fact that the name of a solicitor or firm of solicitors is subscribed on a document shall be prima facie evidence that the document was filed by that solicitor or firm of solicitors.
+
+**Solicitor's authority to file and sign documents**
+
+### 41 Authority to file documents
+No solicitor may file a document on behalf of a party unless the solicitor is
+  (a) authorised by, or on behalf of, the party to file the document; and
+  (b) the holder of a current practising certificate as a solicitor or as a barrister and solicitor issued under section 56 of the Law Practitioners Act 1982.
+
+### 41A Adverse parties
+Where a solicitor or a solicitor's partner acts as solicitor for any party to a proceeding, or is a party to any proceeding, that solicitor shall not, without the leave of the Court, act for any other party to the proceeding not having the same interest in the subject-matter of the proceeding.
+
+### 41B Solicitor's warranty as to authorisation to file documents
+Every solicitor by whom, or on whose behalf, a document is filed in the Court shall be deemed to warrant to the Court and to all parties to the proceeding that he or she is authorised, by the party on whose behalf the document purports to be filed, to file the document.
+
+### 42 Solicitor on the record
+Subject to rule 45, the solicitor on the record for a party to a proceeding shall be the solicitor whose name appears on the memorandum subscribed to the first document filed by the party in accordance with rule 44.
+
+### 43 Authority to sign documents
+(1) Any document which is required by these rules to be signed by a party may, unless the party's personal signature is expressly required, be signed on behalf of the party by the party's solicitor on the record.
+(2) Nothing in subclause (1) shall derogate from the authority of counsel to sign documents.
+
+### 43A Solicitors to inform clients of orders or directions
+When an order or a direction that affects a party is made, it is the responsibility of that party's solicitor on the record promptly to notify the party of the order or direction.
+
+### 44 Memorandum to be subscribed to first document filed by party
+(1) At the end of the first document filed by a party there shall be a memorandum stating
+  (a) That the document is filed by the party in person, or by the party's solicitor, as the case may be; and
+  (b) Where it is filed by a solicitor,
+    (i) The name of the solicitor; and
+    (ii) If the solicitor is a member of a firm or practises under a firm name, the name of the firm; and
+  (c) Where it is filed by a solicitor who has another solicitor acting as the solicitor's agent in the proceeding,
+    (i) The name of the agent or of the agent's firm (if any); and
+    (ii) The postal address of the party's solicitor; and
+  (d) An address for service; and
+  (e) Where it is filed by a solicitor, any Post Office box address, document exchange box number, or facsimile number by which the solicitor will accept service of documents in the course of the proceeding.
+(2) The memorandum may be in one of the paragraphs of form 3.
+
+### 45 Change of representation or address for service
+(1) A party must file and serve on every other party to the proceeding a notice of change of representation if
+  (a) the party has acted in person and appoints a solicitor to act for that party; or
+  (b) the party wishes to change that party's solicitor; or
+  (c) the party for whom a solicitor has acted wishes to act in person.
+(2) If the party's address for service after the change of representation will be different from that which applied before the change, the party must also serve a copy of the notice at the address that was, immediately before the change, the party's address for service.
+(3) The notice
+  (a) must be signed by the party personally or by the party's attorney; and
+  (b) in the case of a notice under subclause (1)(a) or (b), must contain the information about the new solicitor required by paragraphs (b) to (e) of rule 44(1); and
+  (c) in the case of a party referred to in subclause (1)(c), must state that the party's intention is to act in person.
+(4) For the purpose of the proceeding, the change of representation takes effect on the filing of an affidavit proving service in accordance with subclause (1) and exhibiting and verifying a copy of the notice served.
+(5) A party may change that party's address for service by
+  (a) filing a notice of the change showing the new address for service; and
+  (b) serving a copy of the notice on every other party.
+(6) A change of address for service may be combined with a notice under subclause (1). A notice of change of address for service need not be filed under subclause (5)(a) if an affidavit is filed under subclause (4).
+(7) Form 4 may be used for a notice under this rule.
+
+### 45A Withdrawal of solicitor who has ceased to act for party
+(1) Where the solicitor on the record for a party to a proceeding has ceased to act for that party, that solicitor may apply to the Court for an order declaring that that solicitor has ceased to be the solicitor on the record for that party in that proceeding and the Court may make an order accordingly.
+(2) It shall not be necessary to make an application under subclause (1) if
+  (a) The party has effected a change of solicitor in accordance with rule 45; or
+  (b) The party
+    (i) Has filed a notice stating that the party intends to act in person and showing the party's new address for service; and
+    (ii) Has served on the solicitor on the record and on every other party to the proceeding who has given an address for service a copy of the notice filed under subparagraph (i); and
+    (iii) Has filed an affidavit proving compliance with subparagraph (ii) and exhibiting and verifying a copy of the notice served.
+(3) Except where paragraph (a) or paragraph (b) of subclause (2) applies, the solicitor on the record for a party to a proceeding shall, for the purposes of that proceeding, be considered to be the solicitor on the record for that party until the final conclusion of the proceeding unless and until the solicitor
+  (a) Obtains an order under subclause (1); and
+  (b) Serves on every party to the proceeding who has given an address for service a copy of the order obtained under subclause (1); and
+  (c) Files an affidavit proving compliance with paragraph (b).
+(4) Every application under subclause (1) shall be made by interlocutory application and shall be supported by an affidavit giving the grounds of the application.
+(5) Unless the Court otherwise directs, notice of every application under subclause (1), and a copy of the affidavit in support of the application, shall be served on the party for whom the solicitor acted.
+(6) The notice served under subclause (5) on the party for whom the solicitor acted shall inform the party of the effect that rule 45B will have on the party's address for service if the solicitor obtains an order under subclause (1).
+(7) An order made under subclause (1) shall not affect the rights of the solicitor and the party for whom the solicitor acted as between themselves.
+
+### 45B Address for service of party whose solicitor has ceased to act
+Where the solicitor on the record for a party has obtained an order under rule 45A(1) and has complied with subclause (b) and (c) of rule 45A(3), then until the party eitherthe last known address of the party, or, where the party is a body corporate, its registered or principal office shall, for the purpose of the service on the party of any document not required to be served personally, be deemed to be the party's address for service.
+  (a) Appoints another solicitor and complies with rule 45; or
+  (b) Being entitled to act in person,
+    (i) Files a notice stating that the party intends to act in person and showing the party's new address for service; and
+    (ii) Serves on the solicitor who obtained the order under rule 45A(1) and on every other party to the proceeding who has given an address for service a copy of the notice filed under subparagraph (i); and
+    (iii) Files an affidavit proving compliance with subparagraph (ii) and exhibiting and verifying a copy of the notice served,
+
+**Costs**
+
+### 46 Costs at discretion of Court
+(1) All matters relating to the costs of and incidental to a proceeding or a step in a proceeding are at the discretion of the Court.
+(2) Rules 47 to 48G apply subject to subclause (1).
+(3) This rule is subject to the provisions of any Act.
+
+### 46A Written offers without prejudice save as to costs
+[Repealed]
+
+### 47 Principles applying to determination of costs
+The following general principles apply to the determination of costs:
+  (a) The party who fails with respect to a proceeding or an interlocutory application should pay costs to the party who succeeds:
+  (b) An award of costs should reflect the complexity and significance of the proceeding:
+  (c) Costs should be assessed by applying the appropriate daily recovery rate to the time considered reasonable for each step reasonably required in relation to the proceeding or interlocutory application:
+  (d) An appropriate daily recovery rate should normally be two-thirds of the daily rate considered reasonable in relation to the proceeding or interlocutory application:
+  (e) What is an appropriate daily recovery rate and what is a reasonable time should not depend on the skill or experience of the actual solicitor or counsel involved or on the time actually spent by the actual solicitor or counsel involved or on the costs actually incurred by the party claiming costs:
+  (f) An award of costs should not exceed the costs incurred by the party claiming costs:
+  (g) So far as possible the determination of costs should be predictable and expeditious.
+
+### 48 Categorisation of proceedings
+(1) For the purposes of rule 47(b), proceedings must be classified as falling within 1 of the following categories:Category 1 proceedingsProceedings of a straight-forward nature able to be conducted by counsel considered junior in the High Court:Category 2 proceedingsProceedings of average complexity requiring counsel of skill and experience considered average in the High Court:Category 3 proceedingsProceedings that because of their complexity or significance require counsel to have special skill and experience in the High Court.
+(2) The Court may at any time determine in advance an applicable category in relation to a proceeding. If it does, the category applies to all subsequent determinations of costs in the proceeding unless there are special reasons to the contrary.
+
+### 48A Appropriate daily recovery rates
+For the purposes of rule 47(c), the rates specified in Schedule 2 are the appropriate daily recovery rates for the categories of proceedings referred to in rule 48 and must be applied to those categories of proceedings. Those appropriate daily recovery rates are calculated, in accordance with the principle referred to in rule 47(d), on the basis of being two-thirds of the actual daily rates referred to in that paragraph.
+
+### 48B Determination of reasonable time
+(1) For the purposes of rule 47(c), a reasonable time for a step in a proceeding is
+  (a) The time specified for that step in Schedule 3; or
+  (b) If Schedule 3 does not apply, a time determined by analogy with that schedule; or
+  (c) If no analogy can usefully be made, the time assessed as likely to be required for the particular step.
+(2) In determining what is a reasonable time for a step in a proceeding under subclause (1),
+  (a) If a comparatively small amount of time for the particular step is considered reasonable, the determination must be made by reference to band A; or
+  (b) If a normal amount of time for the particular step is considered reasonable, the determination must be made by reference to band B; or
+  (c) If a comparatively large amount of time is considered reasonable, the determination must be made by reference to band C.
+
+### 48C Increased costs and indemnity costs
+(1) Despite rules 47 to 48B, the Court may make an order
+  (a) Increasing costs otherwise payable under those rules (increased costs); or
+  (b) That the costs payable are the actual costs, disbursements, and witness expenses reasonably incurred by a party (indemnity costs).
+(2) The Court may make the order at any stage of a proceeding in relation to any step in the proceeding.
+(3) The Court may order a party to pay increased costs if
+  (a) The nature of the proceeding or the step in the proceeding is such that the time required by the party claiming costs would substantially exceed the time allocated under band C; or
+  (b) The party opposing costs has contributed unnecessarily to the time or expense of the proceeding or step in the proceeding by
+    (i) Failing to comply with these rules or a direction of the Court; or
+    (ii) Taking or pursuing an unnecessary step or an argument that lacks merit; or
+    (iii) Failing, without reasonable justification, to admit facts, evidence, documents, or accept a legal argument; or
+    (iv) Failing, without reasonable justification, to comply with an order for discovery, a notice for further particulars, notice for interrogatories, or other similar requirement under these rules; or
+    (v) Failing, without reasonable justification, to accept an offer of settlement whether in the form of an offer under rule 48G or some other offer to settle or dispose of the proceeding; or
+  (c) The proceeding is of general importance to persons other than just the parties and it was reasonably necessary for the party claiming costs to bring the proceeding or participate in the proceeding in the interests of those affected; or
+  (d) Some other reason exists which justifies the Court making an order for increased costs despite the principle that the determination of costs should be predictable and expeditious.
+(4) The Court may order a party to pay indemnity costs if
+  (a) The party has acted vexatiously, frivolously, improperly, or unnecessarily in commencing, continuing, or defending a proceeding or a step in a proceeding; or
+  (b) The party has ignored or disobeyed an order or direction of the Court or breached an undertaking given to the Court or another party to the proceeding; or
+  (c) Costs are payable from a fund, the party claiming costs is a necessary party to the proceeding affecting the fund, and the party claiming costs has acted reasonably in the proceeding; or
+  (d) The person in whose favour the order of costs is made was not a party to the proceeding and has acted reasonably in relation to the proceeding; or
+  (e) The party claiming costs is entitled to indemnity costs under a contract or deed; or
+  (f) Some other reason exists which justifies the Court making an order for indemnity costs despite the principle that the determination of costs should be predictable and expeditious.
+
+### 48D Refusal of, or reduction in, costs
+Despite rules 47 to 48B, the Court may refuse to make an order for costs or may reduce the costs otherwise payable under those rules if
+  (a) The nature of the proceeding or the step in a proceeding is such that the time required by the party claiming costs would be substantially less than the time allocated under band A; or
+  (b) The property or interests at stake in the proceeding were of exceptionally low value; or
+  (c) The issues at stake were of little significance; or
+  (d) Although the party claiming costs has succeeded overall, that party has failed in relation to a cause of action or issue which significantly increased the costs of the party opposing costs; or
+  (e) The party claiming costs has contributed unnecessarily to the time or expense of the proceeding or step in the proceeding by
+    (i) Failing to comply with these rules or a direction of the Court; or
+    (ii) Taking or pursuing an unnecessary step or an argument that lacks merit; or
+    (iii) Failing, without reasonable justification, to admit facts, evidence, or documents, or accept a legal argument; or
+    (iv) Failing, without reasonable justification, to comply with an order for discovery, a notice for further particulars, notice for interrogatories, or other similar requirement under these rules; or
+    (v) Failing, without reasonable justification, to accept an offer of settlement whether in the form of an offer under rule 48G or some other offer to settle or dispose of the proceeding; or
+  (f) Some other reason exists which justifies the Court refusing costs or reducing costs despite the principle that the determination of costs should be predictable and expeditious.
+
+### 48E Costs in interlocutory applications
+(1) Unless there are special reasons to the contrary, costs on an opposed interlocutory application
+  (a) Must be fixed in accordance with these rules when the application is determined; and
+  (b) Become payable when they are fixed.
+(2) Despite subclause (1), the Court may reverse, discharge, or vary an order for costs on an interlocutory application if satisfied subsequently that the original order should not have been made.
+(3) This rule does not apply to an application for summary judgment.
+
+### 48F Costs may be determined by different Judge or Associate Judge
+Costs may be determined by a Judge or Associate Judge other than the Judge or Associate Judge who heard the matter to which the costs relate, if the Judge or Associate Judge who heard the matter to which the costs relate is not available conveniently to make the determination.
+
+### 48G Written offers without prejudice except as to costs
+(1) A party to a proceeding may at any time make to any other party to the proceeding a written offer that
+  (a) is expressly stated to be without prejudice except as to costs; and
+  (b) relates to an issue in the proceeding.
+(2) The fact that the offer has been made must not be communicated to the Court until the question of costs is to be decided.
+
+### 48GA Effect on costs
+(1) The effect (if any) that the making of an offer under rule 48G has on the question of costs is at the discretion of the Court.
+(2) Subclauses (4) and (5)
+  (a) apply subject to subclause (1); and
+  (b) do not limit rules 48C or 48D.
+(3) Subclauses (4) and (5) apply to an offer made under rule 48G by a party to a proceeding (party A) to another party to the proceeding (party B).
+(4) If party Athe principle to be applied in determining costs is that party A is entitled to costs on the steps taken in the proceeding after the offer is made.
+  (a) offers a sum of money to party B that exceeds the amount of a judgment obtained by party B against party A; or
+  (b) makes an offer that would have been more beneficial to party B than the judgment obtained by party B against party A,
+(5) If an offer made by party A does not fall within paragraph (a) or paragraph (b) of subclause (4), but is close to the value or benefit of the judgment obtained by party B, the principle to be applied in determining costs is that the offer may to be taken into account.
+
+### 48H Disbursements
+(1) In this rule, disbursement, in relation to a proceeding,
+  (a) means an expense paid or incurred for the purposes of the proceeding that would ordinarily be charged for separately from professional services in a solicitor's bill of costs; and
+  (b) includes
+    (i) fees of Court for the proceeding:
+    (ii) expenses for serving documents for the purposes of the proceeding:
+    (iii) expenses for photocopying documents required by these rules or by a direction of the Court:
+    (iv) expenses of conducting a conference by telephone or video link:
+    (v) expenses of conducting a hearing by video link; but
+  (c) does not include counsel's fee.
+(2) A disbursement may be included in the costs awarded for a proceeding to the extent that the disbursement is
+  (a) of a class that is either
+    (i) approved by the Court for the purposes of the proceeding; or
+    (ii) specified in subclause (1)(b); and
+  (b) specific to the conduct of the proceeding; and
+  (c) necessary for the conduct of the proceeding; and
+  (d) reasonable in amount.
+(3) A Judge or Associate Judge may direct a Registrar to exercise the powers of the Court under this rule.
+
+### 49 Proceedings within jurisdiction of District Court
+Any costs ordered to be paid to a successful plaintiff in any proceeding that might have been brought in a District Court shall not, unless the Court otherwise directs, exceed the costs and disbursements that the plaintiff would have recovered in the District Court.
+
+### 50 Joint and several liability for costs
+Unless the Court otherwise directs, the liability of each of 2 or more parties ordered to pay costs is joint and several.
+
+### 51 Where defendants defend separately
+Where several defendants defend a proceeding separately and it appears to the Court that they, or some of them, might have joined in their defence, the Court shall not allow more than one set of costs to the defendants who might have so joined unless it appears to the Court that there is good reason for allowing more than one set of costs to those defendants.
+
+### 52 Where claim and counterclaim both established
+Where the plaintiff succeeds in his proceeding and the defendant succeeds in a counterclaim, the Court shall award costs as if each party respectively had succeeded in an independent proceeding except where, in the opinion of the Court, the justice of the case otherwise requires.
+
+### 53 Set-off where costs allowed to both parties
+Where opposite parties are awarded costs against each other, their respective costs, unless the Court otherwise directs, shall be set off and the lesser sum shall be deducted from the greater.
+
+**Taxation of costs inter partes**
+
+### 54 Appointment to tax costs
+(1) Any party entitled to costs subject to taxation may obtain from the Registrar an appointment for taxation of the costs.
+(2) If the party liable to pay the costs has given an address for service, but not otherwise, the party entitled to the costs shall serve a copy of the appointment on the party liable to pay the costs at least 2 clear days before the day appointed.
+
+### 55 Taxation of disbursements
+On taxation, all disbursements claimed (being disbursements that may be included in an award of costs under rule 48H(2)) must be proved to the satisfaction of the Registrar.
+
+### 56 No charge allowed for bill of costs
+No charge shall be allowed on taxation for the preparation or service of the bill of costs or of any copy thereof.
+
+### 57 Registrar sole judge of questions of fact
+The Registrar shall be the sole judge of all questions of fact which may arise on taxation, and his decision thereon shall be final.
+
+### 58 Direction to Registrar to ascertain expenses
+Without ordering taxation of costs, the Court may direct the Registrar to ascertain what amount should be allowed in respect of witnesses' expenses and other disbursements to a party to whom costs are awarded.
+
+### 59 Review of taxation
+Where, under these rules or by a direction of the Court, the Registrar has ascertained or fixed the amount of any costs or disbursements or the head under which costs should be allowed, and it appears that the Registrar has acted erroneously, whether as to amount or as to principle, the Court may, on the application of any party dissatisfied with the actions of the Registrar, refer the matter back to the Registrar with such directions as may be requisite, or may itself make such amendments as may appear necessary.
+
+**Security for costs**
+
+### 60 Power to make order for security for costs
+(1) Where the Court is satisfied, on the application of a defendant,the Court may, if it thinks fit in all the circumstances, order the giving of security for costs.
+  (a) That a plaintiff
+    (i) Is resident out of New Zealand; or
+    (ii) Is a corporation incorporated outside New Zealand; or
+    (iii) Is, within the meaning of section 158 of the Companies Act 1955 or section 5 of the Companies Act 1993, as the case may be, a subsidiary of a corporation incorporated outside New Zealand; or
+  (b) That there is reason to believe that a plaintiff will be unable to pay the costs of the defendant if the plaintiff is unsuccessful in the plaintiff's proceeding,
+(2) An order under subclause (1)
+  (a) Shall require the plaintiff or plaintiffs against whom the order is made to give security for costs in respect of such sum as the Court considers sufficient
+    (i) By paying that sum into Court; or
+    (ii) By giving, to the satisfaction of the Registrar, security for that sum; and
+  (b) May stay the proceeding until the sum is paid or the security given, as the case may be.
+(3) This rule
+  (a) May apply, if the Court thinks fit, although a plaintiff may be temporarily resident within New Zealand; and
+  (b) Shall apply notwithstanding that the defendant may have taken a step in the proceeding before making his application for security.
+(4) The references in this rule to a plaintiff and a defendant shall be construed as references to the person (however described on the record) who is in the position of plaintiff or defendant, as the case may be, in the proceeding, including a counterclaim.
+
+### 61 Solicitor not to be surety
+A solicitor shall not be accepted as surety for his client to any security given under rule 60.
+
+**Associate Judges of the High Court**
+
+### 61A Jurisdiction and powers of Associate Judges
+(1) All Associate Judges of the High Court shall have the jurisdiction and powers (whether conferred by the Act or any other Act or by rules of Court) of a Judge sitting in Chambers.
+(2) Nothing in subclause (1) confers on Associate Judges of the High Court any jurisdiction or powers in respect of
+  (a) The matters specified in subsections (3) and (4) of section 26J of the Act; or
+  (b) An application under section 26P(1) of the Act.
+(3) The jurisdiction and powers conferred on Associate Judges of the High Court by this rule are in addition to those conferred on Associate Judges of the High Court by or pursuant to section 26I of the Act.
+
+### 61B Power to make interim order on transfer of proceeding
+Where an Associate Judge, acting under section 26N(1) of the Act, refers any proceeding or any matter arising in a proceeding to a Judge, the Associate Judge may, pending the final disposal of the proceeding or matter, make such interim order as may be just.
+
+### 61C Review of decisions of Associate Judges
+(1) Every application under section 26P(1) of the Act for the review of any order or decision made by an Associate Judge in Chambers shall be made by interlocutory application.
+(2) Notice of every application under section 26P(1) of the Act shall, unless a Judge or the Associate Judge otherwise directs, be filed and served,
+  (a) If it is made by a party who was present or represented when the order was made or the decision was given, within 7 days thereafter:
+  (b) If it is made by a party who was not so present or represented, within 7 days after the receipt by that party of notice of the making of the order or the giving of the decision, as the case may be, and of its effect.
+(3) The application shall not operate as a stay of the proceedings, or any step therein, unless a Judge or the Associate Judge so directs.
+(4) A review under section 26P(1) of the Act of an order or decision proceeds as an appeal by way of rehearing, if the order or decision
+  (a) Was made following a defended hearing; and
+  (b) Is supported by recorded reasons.
+(4A) If subclause (4) does not apply to an order or decision that is to be reviewed under section 26P(1) of the Act, the review proceeds as a rehearing de novo.
+(4B) A Judge who reviews an order or decision in accordance with subclause (4) may, in his or her discretion, rehear the whole or any part of the evidence, or may receive further evidence, if the Judge thinks that the interests of justice so require.
+(5) A Judge who reviews an order or decision in accordance with subclause (4A) may give the order or decision such weight as the Judge thinks appropriate.
+(6)
+(7)
+
+### 61D Appeal to Court of Appeal
+(1) Where an appeal is brought under section 26P(2) of the Act against any order or decision of an Associate Judge, the Court of Appeal Rules 1955 shall apply, in relation to that appeal, with all necessary modifications.
+
+**Translations into Maori**
+
+### 62 Right to translation into Maori
+Where any Maori, upon whom in any proceeding a document is served,that Maori shall be entitled to receive a translation of the document into the Maori language.
+  (a) Applies, orally or in writing, to the Registrar in the place where the proceeding is pending, within 10 days after the date of service, for a translation into the Maori language of the document; and
+  (b) If he has not already given an address for service, states a postal address for the service of the translation; and
+  (c) Satisfies the Registrar that he is unable to read the document but could read it if it were translated into the Maori language
+
+### 63 Preparation and service of translation
+(1) Where a Maori is entitled, under rule 62, to a translation of a document, the Registrar shall require that translation to be prepared by the party or person on whose behalf the document was served.
+(2) The translation shall be certified correct by a person holding a licence as an interpreter under the Maori Affairs Act 1953, or by some person authorised by the Court to do so.
+(3) The translation may be served
+  (a) Personally; or
+  (b) At the Maori's address for service (if any); or
+  (c) By sending it by registered post addressed to the Maori at the postal address stated by the Maori to the Registrar.
+(4) Where the translation is sent by registered post, it shall be deemed to have been served when it would be delivered or available for delivery at its address in the ordinary course of registered post.
+(5) The costs of preparing and certifying and serving the translation shall be in the discretion of the Court as costs in the proceeding.
+
+### 64 Consequences of requirement for translation
+Where a Maori is entitled, under rule 62, to a translation of a document, then, unless the Court otherwise orders,
+  (a) The document shall be deemed not to have been served until the translation is served in accordance with rule 63(3); and
+  (b) The proceeding in which the document is issued shall be stayed as far as the Maori is concerned until the translation is so served; and
+  (c) Every subsequent document served on the Maori in the proceeding and every execution process or other process issued against the Maori to enforce any judgment entered or order made in the proceeding shall, unless the Maori is at the time represented by a solicitor, be accompanied by a translation into the Maori language complying with rule 63.
+
+### 65 Translation may be ordered by Court
+(1) The Court may at any time order that a translation into the Maori language, complying with rule 63, of any document served before or after the making of the order, upon a Maori concerned in a proceeding be served on that Maori, whether or not he has applied for it under rule 62.
+(2) An order under subclause (1) may be made subject to such terms and conditions as the Court thinks proper.
+(3) The Court may, on ordering a translation under this rule, grant such adjournment of the proceeding as justice may require.
+
+**Speaking in Maori**
+
+### 65A Speaking in Maori
+(1) This rule applies to a person entitled under section 4(1) of the Maori Language Act 1987 to speak Maori in a proceeding or at the hearing of an interlocutory application.
+(2) If a person to whom this rule applies wishes to speak Maori in a proceeding or at the hearing of an interlocutory application, that person, or, if the person is a witness, the party intending to call that person, must file and serve on every other party to the proceeding a notice of his or her intention to speak Maori.
+(3) The notice must state that the person intends to speak Maori at
+  (a) all case management conferences and hearings; or
+  (b) all case management conferences and hearings held after a specified case management conference or hearing; or
+  (c) a specified case management conference or hearing.
+(4) The notice must be in form 4A.
+(5) The notice must be filed and served
+  (a) if the person intends to speak Maori at all case management conferences and hearings, not less than 10 working days before the first case management conference or hearing; or
+  (b) if the person intends to speak Maori at case management conferences and hearings held after a particular case management conference or hearing, not less than 10 working days before the first case management conference or hearing at which the person intends to speak Maori; or
+  (c) if the person intends to speak Maori at a particular case management conference or hearing, not less than 10 working days before the case management conference or hearing.
+
+### 65B Failure to give notice
+A failure to comply with rule 65A does not prevent a person speaking Maori at a case management conference or hearing, but
+  (a) the Court may adjourn the conference or hearing to enable the Registrar to arrange for a person who holds a certificate of competency under section 15(2)(a) or (c) of the Maori Language Act 1987 or some other person competent to interpret Maori to be available at the adjourned case management conference or hearing:
+  (b) the Court may treat the failure to comply as a relevant consideration in an award of costs.
+
+**Search of Court records**
+
+### 66 Search of Court records generally
+(1) Subject to rule 68, any person shall, on payment of the prescribed fee, be entitled during office hours to search, inspect, and take a copy of any of the following, namely,
+  (a) All registers and indexes of Court records:
+  (b) Any document on any file in any office of the Court if
+    (i) A right of search or inspection of that document is given by any Act; or
+    (ii) That document constitutes notice of its contents to the public.
+(2) A person who ishas the right, without payment of a fee, to search, inspect, and take a copy of the file relating to it (despite anything in subclauses (5) and (6), but subject to subclauses (7) and (7A)).
+  (a) A party to a proceeding or interlocutory application; or
+  (b) The solicitor on the record acting for a party to a proceeding or interlocutory application
+(3) Subject to subclauses (5) to (8), a person has the right to search, inspect, and copy a document on a file relating to a proceeding that has been determined.
+(3A) Subject to subclauses (5) to (8), a person has a right to search, inspect, and copy a document on a file relating to an interlocutory application
+  (a) If the interlocutory application relates to a proceeding that has been determined; or
+  (b) If the interlocutory application relates to an intended proceeding and leave to bring the proceeding is refused; or
+  (c) With the leave of a Judge in any case where the interlocutory proceeding relates to an intended proceeding and the Judge is satisfied that the proceeding has not been commenced within a reasonable time.
+(4) Subject to subclause (7), any document on any file that relates to an application or action for a grant of administration under the Administration Act 1969 or to proceedings for the recall of any such grant may be searched, inspected, and copied notwithstanding that the application, action, or proceedings have not been determined.
+(5) No file and no document upon any file shall be searched, inspected, or copied which relates to any proceedings under
+  (a) The Family Proceedings Act 1980:
+  (b) The Matrimonial Property Act 1963:
+  (c) The Property (Relationships) Act 1976:
+  (d) The Status of Children Act 1969:
+  (e) The Adoption Act 1955:
+  (f) The Protection of Personal and Property Rights Act 1988:
+  (g) The Family Protection Act 1955:
+  (h) The Mental Health (Compulsory Assessment and Treatment) Act 1992:
+  (ha) the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003:
+  (i) The Alcoholism and Drug Addiction Act 1966:
+  (j) The Married Women's Property Act 1952:
+  (k) The Marriage Act 1955:
+  (ka) the Civil Union Act 2004:
+  (l) The Guardianship Act 1968:
+  (la) the Care of Children Act 2004:
+  (m) Any former provisions corresponding to provisions of any of the Acts mentioned in paragraphs (a) to (l).
+(6) No document may be searched, inspected, or copied if it relates to a proceeding or interlocutory application involving
+  (a) Defamation:
+  (b) Seduction:
+  (c) Enticement:
+  (d) Breach of promise.
+(7) No document which a Judge has at any time directed shall not be inspected without leave shall be searched, inspected, or copied save in accordance with the direction.
+(7A) No file and no document on any file relating to an application under rule 446U or rule 502C shall, without the leave of a Judge, be searched, inspected, or copied.
+(8) No person has the right to search, inspect, or copy a file or a document on a file in a proceeding or interlocutory application after the following periods:
+  (a) If there is a sealed judgment or order, the expiration of 6 years from its date:
+  (b) If there is no sealed judgment or order, the expiration of 6 years from the date of the Judge's reasons or minute making the order.
+(9) A Registrar may grant to any person leave to search, inspect, or copy any file, part of a file, or document the search and inspection of which is not permitted under subclause (3) or is prohibited by any of the provisions of subclauses (5), (6), and (8) and shall, subject to any directions of a Judge, grant such leave to any person having a genuine or proper interest.
+(10) An application under subclause (9) may be made on an informal basis to the Registrar.
+(11) If leave is refused by the Registrar, a Judge may review the refusal.
+(12) Notwithstanding anything in the foregoing provisions of this rule, any person shall, on payment of the prescribed fee (if any), be entitled during office hours to search, inspect, and take a copy of any document or record filed or lodged in the Court more than 60 years before.
+(13) For the purposes of this rule, document includes
+  (a) The record made of oral evidence given at any hearing other than any notes made personally by the Judge:
+  (b) All exhibits produced in evidence:
+  (c) The record made of the reasons given by the Judge for his judgment other than any notes made personally by the Judge.
+(14) This rule shall apply mutatis mutandis to proceedings in the Court of Appeal.
+(15) Nothing in this rule shall affect any Act, regulations, or rules which contain express provisions of any kind in relation to the search of Court records, and this rule shall be subject to those provisions.
+
+### 67 Search of rolls of barristers and solicitors
+The rolls of barristers and solicitors kept pursuant to section 49 of the Law Practitioners Act 1982 may be searched, inspected, and copied by any person during office hours without payment of any fee.
+
+### 68 Search of certain records
+(1) This rule applies to any proceeding, being
+  (a) A reference under section 90(1) of the Human Rights Act 1993; or
+  (b) An application made to the Court under section 19 of the Citizenship Act 1977; or
+  (c) An appeal made to the Court under or by virtue of any enactment, not being an appeal made to the Court under the Act or the District Courts Act 1947 or the Summary Proceedings Act 1957 or any Act specified in rule 66(5).
+(2) In respect of any proceeding to which this rule applies, the Court may, of its own motion, or on the application of any party, make an order prohibiting the search of any records or documents.
+(3) Subject to subclause (2), any person (whether a party or not) shall be entitled during office hours to search the records of and the documents filed in the Court in relation to any proceeding (being a proceeding to which this rule applies) that is pending before the Court at the time of the search, and any former proceeding connected therewith.
+(4) Subject to subclauses (2) and (3), any party to any proceeding to which this rule applies (not being a proceeding that is pending before the Court at the time of the search), and any other person who establishes to the satisfaction of the Registrar that that person has an interest in or is affected by any such proceeding, or the solicitor or agent of any such party or other person, shall, on giving the Registrar not less than 24 hours' notice in writing, be entitled to search the records of and the documents filed in the Court in relation to the proceeding.
+
+**Investment of funds in Court**
+
+### 69 Application for order
+(1) Where in any proceeding money has been, or is to be, paid into Court pursuant to any order of the Court or to any provision of these rules, any party to the proceeding may apply to the Court for an order directing the Registrar to invest the money on such security or securities as the Court thinks fit.
+(2) Unless the Court otherwise orders, no application under this rule may be made until 21 days after the money has been paid into Court.
+
+### 70 Powers of Court
+(1) On any application under rule 69, the Court, when making an order for investment of the money,
+  (a) May direct that any security on which the money is invested shall be taken in the name of the Registrar or in the names of the Registrar and such other person or persons as the Court may nominate; and
+  (b) May also give
+    (i) Directions as to the form and the terms of the security; and
+    (ii) Such other directions as may appear necessary or expedient.
+(2) Any order made under this rule may from time to time be varied by the Court on the application of any party to the proceeding.
+
+### 71 Disposal of securities and income
+(1) The Court may, on the application of any party to the proceeding, and either at the time of making an order under rule 69 or at any time thereafter, direct
+  (a) That any security on which money is invested pursuant to rule 69 be transferred to any party or to 2 or more parties in such shares or proportions as it thinks fit; or
+  (b) That any security be converted into money and that, on any such conversion or on the repayment of the money invested therein, the capital and income received be paid to such party or parties and in such shares or proportions as the Court thinks fit; or
+  (c) That the capital be paid to one or more parties and the income be paid to any other party or parties and in such shares or proportions as the Court thinks fit.
+(2) Unless the Court otherwise directs, the income received from any investment made pursuant to an order under rule 69 shall be paid to the party or parties who shall be found by the Court to be entitled to the capital and in the same shares or proportions.
+
+### 72 No liability on Crown
+Neither the Registrar nor the Crown shall be liable for any loss either of capital or of income in respect of any investment made pursuant to and in accordance with an order under rule 69.
+
+**Hearings in chambers**
+
+### 72A Hearings in Chambers
+Where any proceeding or interlocutory application is heard and decided in Chambers, particulars of the hearing or the decision or both (including the reasons for the decision) may be published unless the Judge, Associate Judge, or Registrar, exercising jurisdiction in Chambers, otherwise directs.
+
+**Hearings by video link**
+
+### 72B Interpretation
+(1) In this rule and rules 72C to 72E
+  - **eligible persons** means the persons that the Judge considers should be treated as eligible persons for the purposes of a hearing by video link
+  - **judicial location** means the courtroom or other place where the Judge hearing a matter by video link is located
+  - **remote location** means the courtroom or other place, outside the judicial location, where a party, witness, counsel, or other person participating in the hearing of a matter by video link is located
+  - **video link** means facilities that enable audio and visual communication between persons at a judicial location and persons at a remote location.
+(2) For the avoidance of doubt, Judge has the meaning given to it by rule 3(1).
+
+### 72C Judge or Associate Judge may preside at hearing of certain matters by video link
+(1) For the purposes of section 26IB of the Act, a Judge or Associate Judge may, by video link, preside at the hearing of any matter referred to in section 26I of the Act.
+(2) A Judge may direct that a matter be heard by video link, on the application of 1 or more parties or on the Judge's own initiative.
+(3) This rule is subject to rule 72D.
+
+### 72D Requirements for hearing by video link
+A Judge must not preside at the hearing of a matter by video link under rule 72C unless he or she is satisfied that
+  (a) the judicial location and every remote location is equipped with facilities that will
+    (i) enable all eligible persons at every remote location to see and hear the Judge and all eligible persons at the judicial location; and
+    (ii) enable the Judge and all eligible persons at the judicial location to see and hear all eligible persons at every remote location; and
+    (iii) enable any document necessary for the purposes of the hearing to be viewed at both the judicial location and every remote location; and
+  (b) use of a video link is, in all the circumstances, consistent with fairness and the interests of justice.
+
+### 72E Incidental directions
+(1) A Judge presiding at the hearing of a matter by video link under rule 72C may give directions concerning the procedure for the hearing as he or she thinks fit.
+(2) Without limiting subclause (1), the Judge may
+  (a) direct that an officer of the Court, or other person approved by the Court, be present to operate video equipment:
+  (b) direct that an officer of the Court, or other person approved by the Court, be present to assist in the hearing, and in particular to
+    (i) introduce persons appearing or witnesses giving evidence:
+    (ii) assist with the administration of oaths and affirmations:
+    (iii) assist with the implementation of any directions or requests given or made by the Judge:
+  (c) direct seating arrangements at a remote location to ensure all participants in the hearing can be seen and heard:
+  (d) direct when the video link must be operational in relation to his or her own entry to, or rising from, the judicial location.
+
+### Part 2 — Commencement and service of proceeding
+
+**Parties**
+
+### 73 Plaintiffs
+(1) All persons may be joined in a proceeding as plaintiffs, in whom any right to relief in respect of or arising out of the same transaction, matter, event, instrument, or other document, or series of the same, or of the same statute, regulation, or bylaw, is alleged to exist, whether jointly, severally, or in the alternative, where if such persons brought separate proceedings any common question of law or fact would arise.
+(2) Notwithstanding subclause (1), if, upon the application of any defendant, it appears that any joinder may embarrass or delay the trial of the proceeding, the Court may order separate trials, or make such other order as it thinks fit.
+
+### 74 Defendants
+(1) All persons may be joined as defendants, against whom the right to any relief in respect of or arising out of the same transaction, matter, event, instrument, or other document, or series of the same, or of the same statute, regulation, or bylaw, is alleged to exist, whether jointly, severally, or in the alternative.
+(2) It shall not be necessary that every defendant shall be interested in all the relief claimed in the proceeding, or in every cause of action included therein, but the Court may make such order as appears just to prevent any defendant from being embarrassed or put to expense by being required to attend any part of the proceeding in which he may have no interest.
+(3) Where in any proceeding the plaintiff is in doubt as to the person or persons against whom he is entitled to relief, he may join two or more persons as defendants to the intent that, in the proceeding, the question as to which (if any) of the defendants is liable, and to what extent, may be determined as between all parties to the proceeding.
+
+### 75 Third and subsequent parties
+(1) Where in any proceeding a defendant claims against any person not already a party to the proceeding (hereinafter referred to as the third party)then the defendant may, within 14 days after the expiration of the time for filing his statement of defence or thereafter with leave of the Court, issue a notice to that effect (hereinafter referred to as a third party notice) to the third party in manner provided by rules 154 to 162.
+  (a) That the defendant is entitled to contribution or indemnity; or
+  (b) That the defendant is entitled to any relief or remedy relating to or connected with the subject-matter of the proceeding and substantially the same as some relief or remedy claimed by the plaintiff against him; or
+  (c) That any question or issue in the proceeding should properly be determined not only as between the plaintiff and the defendant but also as between the plaintiff, the defendant, and the third party or between any or either of them; or
+  (d) That any question or issue relating to or connected with the subject-matter of the proceeding is substantially the same as some question or issue arising between the plaintiff and the defendant and should properly be determined as aforesaid,
+(2) Where a third party makes as against any person not already a party to the proceeding (hereinafter referred to as a fourth party) such a claim as is defined by subclause (1), the third party may, within 14 days after the expiration of the time for filing his statement of defence or thereafter with the leave of the Court on notice to all other existing parties or with the written consent of all existing parties, issue a notice to that effect (hereinafter referred to as a fourth party notice) to the fourth party in manner provided by rules 154 to 162 and so on successively; but no notice to any subsequent party shall be issued without the written consent of all existing parties or without the leave of the Court on an application in that behalf made on notice to the other existing parties.
+(3) A third or subsequent party shall, as from the time of service of such notice upon him, be a party to the proceeding, with the same rights in respect of his defence against any claim made against him and otherwise as if he had been made a defendant to a proceeding instituted by the party by whom the notice was issued.
+(4) On any application for leave under this rule the Court shall have regard to the delay to the plaintiff as well as to all other relevant circumstances and may grant or refuse leave or may grant leave upon such terms as may appear just.
+(5) Wherea notice under subclause (1) or subclause (2) of this rule to any person not already a party to the proceeding may be issued only with the leave of the Court.
+  (a) An application for judgment in any proceeding is pending under rule 136 or rule 137; or
+  (b) A proceeding is entered on a commercial list established under section 24A of the Act at an office of the Court,
+
+### 76 Limitation of parties and representation
+In all proceedings the number of persons named or joined as parties shall be limited as far as is practicable to those whose presence before the Court is necessary for a due and just determination of the issue or issues arising out of the proceeding or whom it is sought to bind by any judgment given therein.
+
+### 77 Trustees, executors, and administrators
+Trustees, executors, and administrators may sue and be sued on behalf of or as representing the property or estate of which they are trustees or representatives without joining any of the persons beneficially interested in the trust or estate, and shall be considered as representing such persons in the proceeding; but the Court may, at any stage, order any of such persons to be made parties to the proceeding, either in addition to or in lieu of the trustees, executors, or administrators.
+
+### 78 Persons having same interest
+Where 2 or more persons have the same interest in the subject-matter of a proceeding, one or more of them may, with the consent of the other or others, or by direction of the Court on the application of any party or intending party to the proceeding, sue or be sued in such proceeding on behalf of or for the benefit of all persons so interested.
+
+### 79 Partners
+(1) Any 2 or more persons claiming or alleged to be liable as partners may sue or be sued in the name of the firm (if any).
+(2) The opposite party may in such case apply to the firm for the names of the persons who are partners in the firm and, until an affidavit has been filed stating the names and addresses of the partners, all further steps in the proceeding on the part of the partners shall be stayed.
+
+### 80 Person trading as a firm
+(1) Any person carrying on business in the name of a firm may be sued in the name of the firm.
+(2) The opposite party may in such case apply to the Court for an order
+  (a) Directing that an affidavit be filed stating the name and address of the person carrying on the business; and
+  (b) Staying any further step in the proceeding on the part of the person carrying on the business until the affidavit has been filed.
+
+### 81 Representation by other persons
+In respect of any proceeding or intended proceeding, the Court may, on the application of any party or intending party thereto, or of its own motion,
+  (a) Direct any executor or trustee to represent minors, unborn persons, or absentees, or persons otherwise unrepresented, or appoint counsel to represent them on such counsel undertaking so to do:
+  (b) Appoint a guardian ad litem to represent any person where such a course appears necessary:
+  (c) Direct the Public Trustee to represent any person or class of persons:
+  (d) Direct that the Attorney-General or the Solicitor-General be served:
+  (e) Direct that, with the consent of the Attorney-General, any head of a Government department or other officer may represent the public interest:
+  (f) Direct that any local authority, public body, or other representative body of persons represent the inhabitants of any locality or any class of persons, unless it appears to the Court that their interests, or the interests of a considerable section of them, may be adverse to those of the local authority or public body or other representative body:
+  (g) Where a local authority, public body, or other representative body is itself the plaintiff, or is a party whose interests appear to the Court to be adverse to those of the inhabitants of any locality or any class of persons, or a considerable section of them, direct in what manner those inhabitants or that class or that section shall be represented.
+
+### 82 Incapacitated person and minor defined
+For the purposes of these rules,
+  - **incapacitated person** means a person who by reason of physical, intellectual, or mental impairment, whether temporary or permanent, is
+    (a) not capable of understanding the issues on which his or her decision would be required as a litigant conducting proceedings; or
+    (b) unable to give sufficient instructions to issue, defend, or compromise proceedings
+  - **minor** means a person who has not attained the age of 18 years; and a person is of if he or she has attained the age of 18 years.
+
+### 83 Litigation guardian defined
+For the purposes of these rules, litigation guardian
+  (a) means
+    (i) a person who is authorised by or under an enactment to conduct proceedings in the name of, or on behalf of, an incapacitated person or a minor (but only in a proceeding to which the authority extends); or
+    (ii) a person who is appointed under rule 86C to conduct a proceeding; and
+  (b) has the same meaning as the expression guardian ad litem.
+
+### 84 Incapacitated person must be represented by litigation guardian
+(1) An incapacitated person must have a litigation guardian as his or her representative in any proceeding, unless the Court orders otherwise.
+(2) If a person becomes an incapacitated person during a proceeding, a party must not take any step in the proceeding without the permission of the Court until the incapacitated person has a litigation guardian.
+
+### 85 Minor must be represented by litigation guardian
+(1) A minor must have a litigation guardian as his or her representative in any proceeding, unless the Court orders otherwise.
+(2) Subclause (1) does not apply to a minor who
+  (a) is required by an enactment to conduct a proceeding without a litigation guardian; or
+  (b) is permitted by an enactment to conduct a proceeding without a litigation guardian and elects to do so; or
+  (c) is authorised under rule 86 to conduct a proceeding without a litigation guardian.
+
+### 86 Minor may apply to conduct proceeding without litigation guardian
+(1) This rule applies to a minor who
+  (a) is not required or permitted by an enactment to conduct a proceeding without a litigation guardian; and
+  (b) is not prohibited by an enactment from conducting a proceeding without a litigation guardian.
+(2) A minor who wishes to conduct a proceeding in his or her own name may apply to the Court for authorisation to conduct the proceeding without a litigation guardian.
+(3) On an application under subclause (2), the Court may make an order allowing the minor to conduct the proceeding without a litigation guardian if it is satisfied that
+  (a) the minor is capable of making the decisions required or likely to be required in the proceeding; and
+  (b) no reason exists that would make it in the interests of the minor to be represented by a litigation guardian.
+
+### 86A Application of rules 86B to 94 to minors
+Rules 86B to 94 apply to a minor to whom rule 85(1) applies, and every reference in those rules to an incapacitated person must be read as if it was also a reference to a minor.
+
+### 86B Court may set aside any step in proceeding
+The Court may set aside a step in a proceeding if an incapacitated person did not have a litigation guardian when that step was taken and the Court considers that the incapacitated person was unfairly prejudiced.
+
+### 86C Appointment of litigation guardian
+(1) This rule applies if an incapacitated person does not have a litigation guardian within the meaning of rule 83(a)(i).
+(2) The Court may appoint a litigation guardian if it is satisfied that
+  (a) the person for whom the litigation guardian is to be appointed is an incapacitated person; and
+  (b) the litigation guardian
+    (i) is able fairly and competently to conduct proceedings on behalf of the incapacitated person; and
+    (ii) does not have interests adverse to those of the incapacitated person; and
+    (iii) consents to being a litigation guardian.
+(3) In deciding whether to appoint a litigation guardian, the Court may have regard to any matters it considers appropriate, including the views of the person for whom the litigation guardian is to be appointed.
+(4) The Court may appoint a litigation guardian under this rule at any time
+  (a) on its own initiative; or
+  (b) on the application of any person, including a person seeking to be appointed as litigation guardian.
+
+### 86D Application to be served on person for whom litigation guardian is to be appointed
+(1) Unless the Court orders otherwise, an application under rule 86C
+  (a) may be made ex parte; and
+  (b) must be served on the person for whom the litigation guardian is to be appointed.
+(2) When the person for whom the litigation guardian is to be appointed is a minor,
+  (a) subclause (1)(b) does not apply; and
+  (b) unless the Court orders otherwise, the application must be served instead on
+    (i) the minor's parent or guardian; or
+    (ii) if there is no parent or guardian, a person of full age who has the care of the minor or with whom the minor lives.
+
+### 86E Notification of appointment
+(1) A litigation guardian within the meaning of rule 83(a)(i) must file a copy of the order or other document that empowers him or her to conduct the proceeding, at the same time as the first document relating to the proceeding is filed.
+(2) A person appointed under rule 86C as a litigation guardian of a party to a proceeding must give notice of the appointment to each other party in the proceeding, as soon as practicable after the appointment.
+
+### 87 Powers of litigation guardian
+A litigation guardian may do anything in relation to a proceeding that could be done by the incapacitated person if he or she were not an incapacitated person.
+
+### 88 Heading on documents if incapacitated person represented by litigation guardian
+The heading of every document filed in a proceeding in which an incapacitated person is represented by a litigation guardian must state the name of the incapacitated person followed by the words by his/her litigation guardian and the name of the litigation guardian.
+
+### 88A Costs
+[Repealed]
+
+### 88B Cessation or variation of property order
+[Repealed]
+
+### 89 Service of documents
+(1) A party who knows that an incapacitated person has a litigation guardian must serve any document in a proceeding
+  (a) on the litigation guardian, unless the litigation guardian has filed an address for service:
+  (b) where the litigation guardian has filed an address for service, at that address for service.
+(2) Subclause (3) applies to a party who believes on reasonable grounds that a person is an incapacitated person but does not know if that person has a litigation guardian.
+(3) The party
+  (a) may apply to the Court for the appointment of a litigation guardian under rule 86C; and
+  (b) may apply for directions as to service; and
+  (c) must serve any documents in the proceeding in accordance with any directions as to service.
+
+### 90 Representation of incapacitated person by litigation guardian to be disregarded in making award of costs
+The fact that an incapacitated person is, or has been, represented by a litigation guardian must be disregarded in making an award of costs under these rules in favour of or against the incapacitated person.
+
+### 91 Award of costs enforceable against incapacitated person or litigation guardian
+(1) Unless the Court otherwise orders, an award of costs made against an incapacitated person may be enforced against
+  (a) the incapacitated person; or
+  (b) the person who is the litigation guardian of the incapacitated person at the time the costs determination is made; or
+  (c) a person against whom an order for indemnity or contribution has been made under rule 92(1) to the extent of the amount of the indemnity or contribution; or
+  (d) any of those persons.
+(2) Unless the Court orders otherwise, a litigation guardian is entitled to be reimbursed out of the property of the incapacitated person for any costs paid by the litigation guardian under subclause (1)(b), (c), or (d).
+
+### 92 Liability of former litigation guardian for costs subsequently awarded against incapacitated person
+(1) The Court may make an order
+  (a) directing a person who has ceased to be a litigation guardian of an incapacitated person (former litigation guardian) to indemnify the incapacitated person or the current litigation guardian of the incapacitated person for any costs subsequently awarded against the incapacitated person in relation to any steps taken in the proceeding by the former litigation guardian:
+  (b) directing a former litigation guardian to indemnify the incapacitated person or the current litigation guardian of the incapacitated person on a basis specified by the Court for any costs subsequently awarded against the incapacitated person in relation to any steps taken in the proceeding after the former litigation guardian ceased to be the litigation guardian:
+  (c) directing the former litigation guardian to make a contribution to the costs referred to in paragraph (a) or paragraph (b):
+  (d) declaring that the former litigation guardian is not liable for any of the costs referred to in paragraph (a) or paragraph (b).
+(2) A former litigation guardian may be required by an incapacitated person or by the current litigation guardian of the incapacitated person to satisfy any order made under subclause (1)(a), (b), or (c).
+(3) The Court may, on the application of a former litigation guardian, declare that the former litigation guardian is not liable to comply with an order made under subclause (1)(a), (b), or (c) if the Court is satisfied that, having regard to circumstances occurring after the order was made, it is no longer just that the former litigation guardian should have to comply with the order.
+
+### 93 Litigation guardian may be reimbursed out of property of incapacitated person for costs
+Unless the Court otherwise orders, a litigation guardian is entitled to be reimbursed out of the property of the incapacitated person for any costs (including any solicitor and client costs) paid or incurred or to be paid or incurred by the litigation guardian on behalf of the incapacitated person.
+
+### 94 Retirement, removal, or death of litigation guardian
+(1) A litigation guardian may not retire without the leave of the Court.
+(2) Unless the Court orders otherwise, the appointment of a litigation guardian under rule 86C ends if another person is subsequently authorised by or under an enactment to conduct the proceeding in the name of, or on behalf of, the incapacitated person.
+(3) A litigation guardian may be removed by the Court when it is in the interests of the person he or she represents.
+(4) In the case of retirement, removal, or death of a litigation guardian, no further step may be taken in the proceeding without the leave of the Court until the incapacitated person is represented by another litigation guardian.
+
+### 94A Procedure where person ceases to be incapacitated person
+(1) The Court must make an order terminating the appointment of a litigation guardian if it is satisfied that the person the litigation guardian represents is no longer an incapacitated person.
+(2) The Court may make an order at any time
+  (a) on its own initiative; or
+  (b) on the application of
+    (i) the incapacitated person; or
+    (ii) his or her litigation guardian; or
+    (iii) a party.
+(3) From the date of the order,
+  (a) all subsequent steps in the proceeding must be carried on by the person formerly represented by the litigation guardian; and
+  (b) the person formerly represented by the litigation guardian is liable for all the costs of the proceeding (including solicitor and client costs) in the same manner as if he or she had commenced the proceeding or had become a party to the proceeding when he or she was not an incapacitated person.
+
+### 94B Procedure where minor attains full age
+(1) A minor who attains full age must file and serve an affidavit confirming that he or she is no longer a minor.
+(2) Unless the Court orders otherwise, from the date a minor attains full age
+  (a) the appointment of his or her litigation guardian ends; and
+  (b) all subsequent steps in the proceeding must be carried on by that person; and
+  (c) that person is liable for all the costs of the proceeding (including solicitor and client costs) in the same manner as if he or she had commenced the proceeding or had become a party to the proceeding when he or she was not a minor.
+
+### 95 Relators
+(1) A relator seeking to bring a proceeding by the Attorney-General on his relation, must be approved by the Attorney-General and shall be liable for the costs of the proceeding.
+(2) If the relator or all the relators die or become incapable of acting, the proceeding shall not abate, but the Court may stay the proceeding until the name of a new relator has been substituted after he has been approved by the Attorney-General.
+(3) No person shall be named as a relator in a proceeding until he has authorised the solicitor issuing the proceeding so to name him.
+(4) The authority under subclause (3) shall be in writing signed by the proposed relator and shall be filed in the office of the Court in which the proceeding is to be commenced.
+
+### 96 Misjoinder of parties
+No proceeding shall be defeated by reason of the misjoinder of parties, and the Court may in every proceeding deal with the matter in controversy in accordance with the rights and interests of the parties before it.
+
+### 97 Striking out and adding parties
+(1) The Court may at any stage of a proceeding, either upon or without the application of any party, and on such terms as appear to the Court to be just, order
+  (a) That the name of any party, whether as plaintiff or as defendant, improperly or mistakenly joined be struck out:
+  (b) That the name of any person who ought to have been joined, or whose presence before the Court may be necessary to enable the Court effectually and completely to adjudicate upon and settle all questions involved in the proceeding be added, whether as plaintiff or defendant.
+(2) Notwithstanding subclause (1)(b), no person shall be added as plaintiff without his consent.
+
+**Change of parties by death, etc**
+
+### 98 When proceeding not to abate
+(1) No proceeding shall abate by reason of the death or bankruptcy of any of the parties if the cause of action survives or continues.
+(2) No proceeding shall become defective by the assignment, creation, or devolution of any estate or title while the proceeding is pending.
+
+### 99 Procedure on devolution of interest
+In case of the death, or bankruptcy, or devolution of estate by operation of law, of any party to a proceeding, the Court, if it is deemed necessary for the complete settlement of all the questions involved in the proceeding, shall order that the personal representative, trustee, or other successor in the interest (if any) of that party be made a party to the proceeding, or be served with notice thereof, in such manner and form as is hereinafter prescribed, and on such terms as the Court thinks just, and shall make such order for the disposal of the proceeding as it thinks just.
+
+### 100 Devolution pendente lite
+In the case of an assignment, creation, or devolution of any estate or title while a proceeding is pending, the proceeding may be continued by or against the person to or upon whom such estate or title has come or devolved.
+
+### 101 Order as to new parties
+Where, by reason of death or bankruptcy or any other event occurring after the commencement of a proceeding and causing a change or transmission of interest or liability, or by reason of any person interested coming into existence after the commencement of the proceeding, it becomes necessary or desirable that any person not already a party to the proceeding should be made a party thereto, or that any person already a party thereto should be made a party thereto in another capacity, an order that the proceeding shall be carried on between the continuing parties to the proceeding and the new party or parties may be obtained ex parte on application to the Court upon an allegation of such change or transmission of interest or liability, or of such person interested having come into existence.
+
+### 102 Service and effect of order
+An order obtained under rule 101 shall, unless the Court otherwise directs, be served upon the continuing party or parties to the proceeding, and also upon each new party, unless the person making the application is himself the only new party; and, subject to rules 103 and 104, the order shall from the time of service be binding on the person served therewith; and every person served therewith who is not already a party shall be bound to file a statement of defence within the same time and in the same manner as if he had been served with a statement of claim.
+
+### 103 Application to discharge or vary order
+Where any person who is under no disability, or being under disability but having a next friend or guardian ad litem in the proceeding, is served with an order obtained under rule 101, he may apply to the Court to discharge or vary the order within 12 days from the service thereof.
+
+### 104 Application to discharge or vary order by person under disability
+Where any person being under any disability and not having had a next friend or guardian ad litem appointed in the proceeding is served with an order obtained under rule 101, he may apply to the Court to discharge or vary the order within 12 days from the appointment of a next friend or guardian ad litem for that party, and until the period of 12 days has expired the order shall have no force or effect as against the last-mentioned person.
+
+### 105 Change of name
+If the name of any party is incorrectly stated in the pleadings or is changed by marriage, by civil union, by deed poll, or otherwise, that name may be amended, without any application to the Court, by a notice signed by the party and filed and served on all other parties.
+
+**Statement of claim**
+
+### 106 Proceeding commenced by filing statement of claim
+(1) Every proceeding (other than a non-contentious application for administration or an appeal from a determination of a District Court or a statutory tribunal) shall be commenced by filing a statement of claim in the proper office of the Court, as determined in accordance with rule 107(1).
+(2) Notwithstanding subclause (1), the statement of claim may be filed in any office of the Court if the parties agree, by endorsement on the statement of claim, to the filing of the statement of claim in that office.
+
+### 107 Proper office of the Court
+(1) The proper office of the Court, for the purposes of rule 106(1), shall be determined as follows:
+  (a) Where any defendant is resident or has his principal place of business in New Zealand, that office shall be the office of the Court nearest to the residence or principal place of business of the defendant:
+    Provided that where there are 2 or more defendants, that office shall be determined by reference to the first-named defendant who is resident or has his principal place of business in New Zealand:
+  (b) Where no defendant is resident or has his principal place of business in New Zealand, that office shall be such office as the plaintiff selects:
+  (c) Notwithstanding paragraphs (a) and (b), where the Crown is a defendant, that office shall be the office nearest to the place where the cause of action or a material part thereof arose.
+  (d) despite paragraphs (a) to (c), that office is the office of the Court at Wellington in the case of proceedings that consist of or include 1 or more of the following kinds of action or application:
+    (i) an application for judicial review under Part 1 of the Judicature Amendment Act 1972 that arises out of, or relates to, the making of a designation under the Terrorism Suppression Act 2002:
+    (ii) an action for or in the nature of mandamus, prohibition, certiorari, declaration, or injunction, that arises out of, or relates to, the making of a designation under the Terrorism Suppression Act 2002:
+    (iii) an application under section 35, section 47E, or section 55 of the Terrorism Suppression Act 2002.
+(2) Notwithstanding subclause (1)(a), if the place where the cause of action sued on, or some material part thereof, arose is nearer to the place where the plaintiff or the plaintiff firstnamed in the statement of claim resides than to the place where the defendant resides, the proper office of the Court for the purposes of rule 106(1) shall, at the option of the plaintiff or the plaintiff firstnamed, as the case may be, be the office nearest to the residence of the plaintiff or the plaintiff firstnamed, as the case may be.
+(3) Where a plaintiff proposes to exercise the option conferred by subclause (2), he shall file with the statement of claim and notice of proceeding an affidavit by himself or his solicitor showing the place where the cause of action or the material part thereof arose and showing that that place is nearer to the place where the plaintiff or the plaintiff firstnamed in the statement of claim resides than to the place where the defendant resides.
+(4) Where it appears to the Court on application made to it that the statement of claim has been filed in the wrong office of the Court or that any other office of the Court would be more convenient to the parties, it may direct that the statement of claim be filed in such other office, or that all documents filed in the proceeding be transferred to the proper office or, as the case may be, to such other office which shall thereupon be deemed to be the proper office.
+(5) In this rule,
+  (a) paragraphs (a) to (c) of subclause (1) are subject to subclauses (2) and (3); and
+  (b) paragraph (d) of subclause (1) overrides subclauses (2) to (4).
+
+### 108 Statement of claim to show nature of claim, etc
+The statement of claim
+  (a) Shall show the general nature of the plaintiff's claim to the relief sought; and
+  (b) Shall give such particulars of time, place, amounts, names of persons, nature and dates of instruments, and other circumstances as may suffice to inform the Court and the party or parties against whom relief is sought of the plaintiff's cause of action; and
+  (c) Shall state specifically any claim for interest; and
+  (d) In a proceeding against the Crown that is instituted against the Attorney-General, shall give particulars of the Government department or officer of the Crown concerned.
+
+### 109 Statement of claim to specify relief sought
+The statement of claim shall conclude by specifying the relief or remedy sought.
+
+### 110 Joinder of several causes of action
+(1) Subject to subclauses (2) and (3), a plaintiff may join in the same statement of claim several causes of action.
+(2) Claims by or against an Official Assignee in Bankruptcy, or a liquidator or a receiver of a company, as such, shall not, unless by leave of the Court, be joined with any claim by or against him in any other capacity.
+(3) Claims by or against an executor or administrator or trustee, as such, shall not be joined with claims by or against him personally unless the last-mentioned claims are alleged to arise with reference to the estate or trust in respect of which he sues or is sued as executor or administrator or trustee.
+
+### 111 Joint plaintiffs
+Claims by plaintiffs jointly may be joined with claims by them or any of them against the same defendant.
+
+### 112 Joining claims by or against spouses or partners
+Claims by or against spouses, civil union partners, or de facto partners may be joined with claims by or against either of those spouses, civil union partners, or de facto partners if the opposite party is the same person.
+
+### 113 Court may order separate trials
+In any case where justice so requires, the Court may order separate trials of causes of action and, for that purpose, may direct the order of the separate trials, or may make such other order as the Court thinks just.
+
+### 114 Relief to be sought for each cause of action
+A statement of claim which includes two or more causes of action shall specify separately the relief or remedy sought by the plaintiff on each cause of action.
+
+### 115 Unnecessary to ask for general relief
+The relief claimed shall be stated specifically, either simply or in the alternative, and it shall not be necessary to ask for general or other relief; but the Court may, if it thinks just, grant any other relief to which the plaintiff may be entitled, notwithstanding that that relief has not been specifically claimed and there is no claim for general or other relief.
+
+### 116 Amount of money claim
+If the statement of claim seeks the recovery of a sum of money, the amount shall be stated as precisely as the nature of the case admits.
+
+### 117 Special damages
+If the plaintiff seeks to recover special damages, the statement of claim shall show the nature and particulars thereof.
+
+### 118 Set-off
+If the plaintiff wishes to allow a set-off or to relinquish a portion of his claim, the statement of claim shall show the amount so allowed or relinquished.
+
+### 119 Representative capacity of party
+If any party to a proceeding sues or is sued in a representative capacity, the statement of claim shall show in what capacity he sues or is sued.
+
+**Notice of proceeding**
+
+### 120 Notice of proceeding to be filed with statement of claim
+Subject to rule 124, there shall be filed with every statement of claim a notice to the defendant to be called a notice of proceeding.
+
+### 121 Requirements as to notice of proceeding
+(1) The notice of proceeding
+  (a) Shall be signed by the plaintiff or his solicitor:
+  (b) Shall state the place for the filing of a statement of defence and the time within which the statement of defence is required to be filed, in accordance with these rules:
+  (c) Shall warn the defendant that if he does not file his statement of defence within the required time the plaintiff may at once proceed to judgment on his claim and judgment may be given in the absence of the defendant.
+(2) The notice of proceeding shall be in form 5.
+(3) Where the Court has directed that any person other than the defendant named in the title of the proceeding be served, a statement to that effect setting out the name, place of residence, and occupation of every such person shall be appended to the notice of proceeding, and such statement shall be signed by the Registrar.
+(4) There shall be endorsed on the notice of proceeding or annexed thereto a memorandum signed by the Registrar in form 6 or form 7 or form 8, as may be appropriate.
+
+### 122 Place and time for filing statement of defence
+Unless otherwise ordered by the Court,
+  (a) The place for filing the statement of defence shall be the office of the Court in which the statement of claim was filed or into which it has been transferred; and
+  (b) The time within which the statement of defence is required to be filed shall be within 30 days after the day on which the statement of claim and notice of proceeding are served on the defendant.
+
+### 123 Place of trial
+Subject to rule 479, the place at which the proceeding shall be tried, if a trial is necessary, shall be the town where the office of the Court in which the statement of defence is to be filed is situated:
+  Provided that where that office is situated at Masterton, the place for the trial of the proceedings shall be Wellington and where that office is situated at Tauranga the place for the trial of the proceedings shall be Rotorua.
+
+### 124 When not necessary to file notice of proceeding
+Unless the Court so orders, it shall not be necessary to file or serve a notice of proceeding
+  (a) Where no relief against any person is claimed in the statement of claim (as, for example, in the case of a company's application to be put into liquidation by the Court, or a person's application to be adjudicated bankrupt); or
+  (b) Where service of the notice is dispensed with
+    (i) By statute; or
+    (ii) Under these rules; or
+    (iii) By order of the Court.
+
+**Service of statement of claim and notice of proceeding**
+
+### 125 Service generally
+(1) Except as otherwise provided by any Act or these rules or any order made under these rules, every statement of claim and notice of proceeding shall be served, in accordance with these rules,
+  (a) On every defendant named therein; and
+  (b) On every other person directed to be served therewith.
+(2) Notwithstanding subclause (1), in any civil proceeding against the Crown in which the Attorney-General is named as defendant or is directed to be served on behalf of the Crown or in which the Crown is joined by joining the Attorney-General as a party or third or subsequent party, service on the Crown shall be effected in accordance with section 16 of the Crown Proceedings Act 1950.
+
+### 126 Personal service required
+Subject to rule 125(2) and except where the Court directs or these rules require or permit a different mode of service, the statement of claim and notice of proceeding shall be served personally.
+
+### 127 Prompt service required
+(1) The statement of claim and notice of proceeding shall be served
+  (a) As soon as practicable after they are filed; or
+  (b) Where directions as to service are sought, as soon as practicable after such directions have been given.
+(2) Unless service is effected within 12 months after the day on which the statement of claim and notice of proceeding are filed or within such further time as the Court may allow, the proceeding shall be deemed to have been discontinued by the plaintiff against any defendant or other person directed to be served who has not been served.
+
+### 128 Extension of time for service
+(1) The plaintiff may, before or after the expiration of the period referred to in rule 127, apply to the Court for an order extending that period in respect of any person (being a defendant or other person directed to be served) who has not been served.
+(2) On an application under subclause (1), the Court, if satisfied that reasonable efforts have been made to effect service on that defendant or person, or for other good reason, may extend the period of service for 6 months from the date of the order and so on from time to time while the proceeding is pending.
+
+**Statement of defence and appearance**
+
+### 129 Filing and service of statement of defence
+(1) A defendant who intends to defend the proceeding
+  (a) Shall, within the number of days stated in the notice of proceeding, file in the office of the Court named in the notice a statement of his defence to the plaintiff's claim; and
+  (b) Shall serve a copy of his statement of defence on the plaintiff and any other party.
+(2)
+
+### 130 Requirements as to statement of defence
+(1) The statement of defence shall either admit or deny the allegations of fact in the statement of claim but no defendant shall be required to plead to an allegation that does not affect him.
+(2) Where the defendant denies any allegation of fact in the statement of claim he must not do so evasively but must answer the point in substance. Thus, if it is alleged that the defendant received a sum of money, it shall not be sufficient to deny receipt of the particular amount, but he must deny that he received that sum or any part thereof, or set out how much he received; and when a matter is alleged with circumstances it shall not be sufficient to deny it as alleged with those circumstances, but a fair and substantial answer must be given.
+(3) Every allegation not denied shall be deemed to be admitted.
+(4) Where an affirmative defence is intended, it shall be pleaded.
+(5) The statement of defence shall give such particulars of time, place, amounts, names of persons, nature and dates of instruments, and other circumstances as may suffice to inform the Court, the plaintiff, and any other parties of the defendant's defence.
+
+### 131 Appearance under protest to jurisdiction
+(1) A defendant who objects to the jurisdiction of the Court to hear and determine the proceeding in which he has been served may, within the time limited for filing his statement of defence and instead of so doing, file and serve an appearance stating his objection and the grounds thereof.
+(2) The filing and serving of an appearance under subclause (1) shall not be or be deemed to be a submission to the jurisdiction of the Court in the proceeding.
+(3) A defendant who has filed an appearance under subclause (1) may apply to the Court to dismiss the proceeding on the ground that the Court has no jurisdiction to hear and determine it.
+(4) On hearing an application under subclause (3), the Court,
+  (a) If it is satisfied that it has no jurisdiction to hear and determine the proceeding, shall dismiss the proceeding; but
+  (b) If it is satisfied that it has jurisdiction to hear and determine the proceeding, shall dismiss the application and set aside the appearance.
+(5) At any time after an appearance has been filed under subclause (1), the plaintiff may apply to the Court by interlocutory application to set aside the appearance.
+(6) On hearing an application under subclause (5), the Court,
+  (a) If it is satisfied that it has jurisdiction to hear and determine the proceeding, shall set aside the appearance; but
+  (b) If it is satisfied that it has no jurisdiction to hear and determine the proceeding, shall dismiss both the application and the proceeding.
+(7) The Court, in exercising its powers under this rule, may do so on such terms and conditions as may be just and, in particular, on setting aside the appearance may enlarge the time within which the defendant may file and serve a statement of defence and may give such directions as may appear necessary regarding any further steps in the proceeding in all respects as though the application were an application for directions under rule 425.
+(8) Where the appearance set aside has been filed in relation to a proceeding in which the plaintiff has applied for judgment under rule 136 or rule 137, the Court
+  (a) Shall enlarge the time within which the defendant may file and serve
+    (i) A notice of opposition; and
+    (ii) An affidavit by or on behalf of the defendant in answer to the affidavit by or on behalf of the plaintiff; and
+  (b) May under subclause (7), give such other directions as appear necessary regarding any further steps in the proceeding.
+
+### 132 Appearance for ancillary purposes
+A defendant who does not oppose the plaintiff's claim but who desires to be heard on any ancillary matter (including costs) may, without filing a statement of defence, file and serve an appearance setting forth those matters and thereafter no matter therein specified shall be determined except on notice to that defendant.
+
+### 133 Appearance reserving rights
+(1) A defendant who does not oppose the plaintiff's claim but who desires to reserve his rights in the event that any other person may become a party to the proceeding or that any person, already a party, may take some steps in the proceeding adverse to the defendant's interests, may, without filing a statement of defence, file and serve an appearance reserving those rights, and thereafter he shall be entitled to be served with all documents relevant to the rights so reserved that may be filed in the proceeding by any person who is or may become a party thereto.
+(2) A defendant who has filed an appearance under subclause (1) may at any time, by leave of the Court, file and serve a statement of defence and any other document within such time and upon such terms and conditions as may be prescribed by the Court when granting such leave.
+
+### 134 Forms
+Form 10 or form 11 or form 12 may be used, as appropriate, for the purpose of entering an appearance under rules 131 to 133.
+
+**Summary proceeding for recovery of land**
+
+### 134A Application of rules relating to summary proceeding for recovery of land
+(1) Rules 134B to 134H apply to every proceeding in which the plaintiff claims the recovery of land that is occupied solely by a person or persons (not being a tenant or tenants or subtenant or subtenants holding over after the termination of a tenancy or subtenancy) who entered into or remained in occupation without the plaintiff's licence or consent or that of any predecessor in title of the plaintiff.
+(2) Nothing in this rule or in rules 134B to 134H limits the application, in relation to any proceeding for the recovery of land, of rules 136 to 144.
+
+### 134B Defendants
+(1) In a proceeding to which this rule applies, the plaintiff shall, subject to subclause (2), name as a defendant in the statement of claim each person who is known to the plaintiff to be in occupation of the land.
+(2) If the plaintiff does not know the name of any person in occupation of the land, the plaintiff may commence the proceeding without naming any person as defendant.
+
+### 134C Affidavit in support
+In a proceeding to which this rule applies, the plaintiff shall file with the statement of claim an affidavit
+  (a) Stating the interest of the plaintiff in the land; and
+  (b) Stating the circumstances in which the land has been occupied without licence or consent and in which the claim for recovery of the land arises; and
+  (c) If the statement of claim does not name any person as defendant, stating that the plaintiff does not know the name of any person in occupation of the land.
+
+### 134D Service
+(1) In the case of a proceeding to which this rule applies,shall be served on each defendant, if any, and on each person occupying the land who is not a defendant.
+  (a) The statement of claim; and
+  (b) The notice of proceeding; and
+  (c) A copy of the affidavit required by rule 134C; and
+  (d) A copy of any exhibit referred to in the affidavit required by rule 134C,
+(2) In the case of a defendant, service shall be effected in accordance with rule 126.
+(3) In the case of a person occupying the land who is not a defendant, service (except where the Court directs or permits a different mode of service) shall be effected
+  (a) By affixing to some conspicuous part of the land the documents required to be served pursuant to subclause (1); and
+  (b) If practicable, by leaving in the letterbox or other receptacle for mail on the land the documents required to be served pursuant to subclause (1) (which documents shall be enclosed in a sealed envelope addressed to The Occupiers).
+
+### 134E Time for filing statement of defence
+Notwithstanding anything in rule 122(b), where service is effected in accordance with rule 134D(3), the time within which the statement of defence is required to be filed shall be within 30 days after the day on which service is effected under rule 134D(3).
+
+### 134F Power of Court to make occupiers defendants
+In the case of any proceeding to which this rule applies, the Court may order that a person occupying the land to which the proceeding relates who is not a defendant be made a defendant or be added as a defendant, as the case may require.
+
+### 134G Judgment for possession
+Rule 461 shall not apply in respect of a proceeding to which this rule applies.
+
+### 134H Writ of possession
+(1) No writ of possession to enforce a judgment for possession in a proceeding to which this rule applies shall issue without the leave of the Court after 3 months have elapsed since the date of the judgment.
+(2) An application for leave under subclause (1) may be made by way of an ex parte application unless the Court otherwise directs.
+
+**Summary judgment procedure**
+
+### 135 Application of summary judgment procedure
+Rules 136 to 144 apply to every proceeding other than
+  (a) A proceeding under Part 8, Part 9A, Part 10, Part 11, or Part 15; or
+  (b) An application for a writ of habeas corpus.
+
+### 136 Judgment where there is no defence or where no cause of action can succeed
+(1) The Court may give judgment against a defendant if the plaintiff satisfies the Court that the defendant has no defence to a claim in the statement of claim or to a particular part of any such claim.
+(2) The Court may give judgment against a plaintiff if the defendant satisfies the Court that none of the causes of action in the plaintiff's statement of claim can succeed.
+
+### 137 Summary judgment on liability
+The Court may give judgment on the issue of liability, and direct a trial of the issue of amount (at such time and place as it thinks fit), if the party applying for summary judgment satisfies the Court that the only issue to be tried is one as to the amount claimed.
+
+### 138 Interlocutory application for summary judgment
+(1) Application for judgment under rule 136 or rule 137 must be made by interlocutory application.
+(2) An application by a plaintiff must be made at the time the statement of claim is served on the defendant, or later with the leave of the Court.
+(3) An application by a defendant must be made at the time the statement of defence is served on the plaintiff, or later with the leave of the Court.
+(4) The party making the application must file and serve on the other party the following documents:
+  (a) If the party is a plaintiff, a notice of proceeding in form 13:
+  (b) A notice of interlocutory application in form 19:
+  (c) A statement of claim (if the application is made by the plaintiff):
+  (d) A statement of defence (if the application is made by the defendant):
+  (e) A supporting affidavit.
+(5) That affidavit
+  (a) Must be by or on behalf of the person making the application:
+  (b) If given by or on behalf of the plaintiff, must verify the allegations in the statement of claim to which it is alleged that the defendant has no defence, and must depose to the deponent's belief that the defendant has no defence to the allegations and set out the grounds of that belief:
+  (c) If given by or on behalf of the defendant, must show why none of the causes of action in the plaintiff's statement of claim can succeed.
+(6)
+
+### 138A Service out of New Zealand
+A plaintiff who makes an application under rule 136 or rule 137 must serve the documents specified in rule 138(4) on a defendant who is overseas,
+  (a) if the defendant is served in the Commonwealth of Australia, not less than 21 days before the date for hearing the application:
+  (b) if the defendant is served elsewhere, not less than 35 days before the date for hearing the application.
+
+### 139 Requirements as to notice of proceeding
+Rule 121 does not apply to a proceeding to which rules 136 to 144 apply.
+
+### 140 Time for service
+(1) The documents specified in rule 138(4) must be served on the other party to the proceeding not less than 21 days before the date for hearing the application.
+(2) This rule is subject to rule 138A.
+
+### 140A Enlargement of hearing
+The Registrar, on request, may enlarge the hearing whenever the documents specified in rule 138(4) have not been served within the time prescribed by rule 140(1) by
+  (a) Striking out the original date of hearing shown in the notice of interlocutory application; and
+  (b) Inserting a new date; and
+  (c) Initialling the new date in the margin opposite the alteration.
+
+### 141 Notice of opposition and affidavit in answer
+(1) A party who intends to oppose an application for judgment under rule 136 or rule 137 must, at least 3 working days before the date for hearing the application, file in the Court and serve on the party making the applicationotherwise the party will not be heard in opposition to the application without the leave of the Court.
+  (a) A notice of opposition in form 21; and
+  (b) An affidavit by or on behalf of the party intending to oppose the application in answer to the affidavit by or on behalf of the party making the application,
+(2) Rule 244(3) applies, with all necessary modifications, in relation to a notice of opposition filed under subclause (1)(a).
+
+### 141A Statement of defence
+A defendant who has filed both a notice of opposition and an affidavit under rule 141 may, in addition, file a statement of defence in the office of the Court in which the notice of opposition and the affidavit were filed.
+
+### 141B Affidavits in reply
+(1) An affidavit may be filed by or on behalf of the party making the application in reply to an affidavit filed by or on behalf of the party opposing the application.
+(2) Every affidavit filed under subclause (1)
+  (a) Must be limited to new matters in the affidavit of the party opposing the application; and
+  (b) Must be filed in the Court and served on the party opposing the application not later than 1 pm on the last working day before the date for hearing the application.
+
+### 142 Disposal of application
+(1) If the Court dismisses an application for judgment under rule 136 or rule 137, the Court must give directions as to the future conduct of the proceeding as may be appropriate.
+(2) If it appears to the Court on an application for judgment under rule 136 or rule 137 that the defendant has a counterclaim that ought to be tried, the Court
+  (a) May give judgment for the amount that appears just on any terms it thinks fit; or
+  (b) May dismiss the application and give directions under subclause (1).
+
+### 142A Time for filing statement of defence on dismissal of plaintiff's application
+(1) The statement of defence in the proceeding, if not already filed, must be filed within 14 days after the date on which any application by a plaintiff for judgment under rule 136 or rule 137 is dismissed.
+(2) This rule is subject to any directions given under rule 142(1).
+
+### 143 Setting aside judgment
+Any judgment given against a party who does not appear at the hearing of an application for judgment under rule 136 or rule 137 may be set aside or varied by the Court on such terms as it thinks fit if it appears to the Court that there has been or may have been a miscarriage of justice.
+
+### 143A Discontinuance
+(1) The party making the application may, at any time before an application for judgment under rule 136 or rule 137 is heard, discontinue the application
+  (a) By filing in the office of the Court in which the application is filed a memorandum to that effect; and
+  (b) By serving a copy of the memorandum on the other party to the application.
+(2) Where an application for judgment under rule 136 or rule 137 is discontinued, the Court may give directions as to the future conduct of the proceeding.
+
+### 144 Application to counterclaims
+Rules 135 to 143A apply, with all necessary modifications, to counterclaims.
+
+**Counterclaim**
+
+### 145 Counterclaim against plaintiff only
+Subject to rule 146, where a defendant has a counterclaim which he wishes to raise in the proceeding and which is against the plaintiff only, that defendant shall file a statement of his counterclaim in the office of the Court in which he is required to file his statement of defence.
+
+### 146 Restriction where Crown involved
+(1) In any proceeding by the Crown for the recovery of taxes, duties, or penalties, no defendant shall be entitled to avail himself of any set-off or counterclaim.
+(2) In any proceeding of any other nature by the Crown, no defendant shall be entitled to avail himself of any set-off or counterclaim arising out of a right or claim to payment in respect of any taxes, duties, or penalties.
+(3) In any proceeding by or against the Crown, being a proceeding to which neither subclause (1) nor subclause (2) applies, no defendant shall be entitled, without leave of the Court, to avail himself of any set-off or counterclaim
+  (a) If the Crown sues or is sued either
+    (i) In the name of the Attorney-General on behalf of a Government department or officer of the Crown; or
+    (ii) In the name of a Government department or officer of the Crown; and
+  (b) If the subject-matter of the set-off or counterclaim does not relate to that department or officer.
+(4) Where an application for leave under subclause (3) is made by a defendant other than the Crown, that application shall be served on the Crown not less than 7 days before the date therein specified for hearing the application.
+
+### 147 Heading of counterclaim
+A counterclaim shall be headed with the word Counterclaim but shall in all other respects conform to the rules as to statements of claim.
+
+### 148 Filing and service
+A counterclaim shall be filed in the Court and a copy thereof served upon the plaintiff within the time stated in the notice of proceeding for filing a statement of defence or, if no such time is stated, within a time fixed by the Court.
+
+### 149 Defence to counterclaim
+(1) A plaintiff who intends to defend a counterclaim that has been served on him shall, within 30 days after the day on which the counterclaim is served on him, file his statement of defence thereto and serve a copy thereof upon the defendant.
+(2) Such statement of defence shall be headed with the words Defence to Counterclaim but shall in all other respects conform to the rules as to statements of defence.
+
+### 150 Counterclaim against plaintiff and another person
+(1) Subject to rule 146, if the defendant has a counterclaim against the plaintiff along with any other person (whether a party to the proceeding or not) for any relief relating to or connected with the original subject-matter of the proceeding, he may, within the time limited for filing his statement of defence, file a statement of the counterclaim and serve a copy thereof on the plaintiff and such other person. Such other person shall be referred to as a counterclaim defendant.
+(2) In a counterclaim filed under subclause (1) the defendant shall add to the title thereof a further title similar to the title in the statement of claim in the manner set out in form 1.
+(3) The time within which a plaintiff or a counterclaim defendant may file a statement of defence to a counterclaim under subclause (1) shall be within 30 days after the day on which the counterclaim is served on him.
+(4) A notice of proceeding in form 5 shall be served with each copy of a counterclaim served under subclause (1).
+(5) Subject to this rule, rules 145 to 149 shall apply with respect to any counterclaim under subclause (1) and any defence thereto.
+(6) The Court may at any time order that a counterclaim under subclause (1) be struck out, upon such terms as it thinks fit, if it shall appear
+  (a) That by reason of the counterclaim the plaintiff is likely to be unduly delayed in his relief; or
+  (b) That the trial (if a trial is necessary) is to be held at a place where it could not be held if a counterclaim defendant had been made defendant to an independent proceeding instituted against him by the defendant in respect of the subject-matter of the counterclaim; or
+  (c) That the relief sought in the counterclaim is not related to or connected with the original subject-matter of the proceeding.
+
+### 151 Place of trial
+(1) A counterclaim shall be tried at the same place as the statement of claim in the original proceeding and either contemporaneously therewith or immediately thereafter.
+(2) Notwithstanding subclause (1), if it appears to the Court that a counterclaim and the statement of claim can more fairly or conveniently be tried separately, it may, subject to such conditions as it thinks fit, make an order that the counterclaim be tried at some other place or time.
+(3) Subject to subclauses (1) and (2), after a counterclaim has been served it shall proceed in the same manner as if the defendant had commenced an independent proceeding against the plaintiff.
+
+### 152 Where claim stayed, etc
+If, in any case in which the defendant sets up any counterclaim against the plaintiff, whether alone or along with any other person, the proceeding of the plaintiff is stayed, discontinued, or dismissed, the defendant may nevertheless proceed with his counterclaim.
+
+### 153 Counterclaim by counterclaim defendant
+Rules 145 to 151 shall apply to a counterclaim by a counterclaim defendant in the same way as if he were a defendant in a separate proceeding brought against him by the defendant by whom he has been joined, and in such case the term defendant shall be deemed to include the counterclaim defendant and the term plaintiff shall be deemed to include the defendant by whom he has been joined.
+
+**Third and subsequent party notices**
+
+### 154 Requirements of third party notice
+(1) A third party notice shall be signed by the defendant and shall inform the third party of
+  (a) The claim by the plaintiff against the defendant; and
+  (b) The claim by the defendant against the third party; and
+  (c) The steps that the third party is required to take if he wishes to dispute either claim; and
+  (d) The consequences that will follow if the third party fails to dispute either claim.
+(2) A third party notice may be in form 14.
+
+### 155 Filing of notice
+(1) A third party notice shall be filed in the Court together with a statement of the defendant's claim against the third party.
+(2) A statement of claim filed under subclause (1)
+  (a) Shall comply with the requirements of rules 108 to 119; and
+  (b) In particular, shall state
+    (i) The nature of the question or issue sought to be determined; and
+    (ii) The nature and extent of any relief or remedy claimed against the third party.
+
+### 156 Service on third party
+The third party shall be served, within 30 days after the date of filing of the third party notice or the date of the order granting leave to issue the same, as the case may be, with
+  (a) A copy of the third party notice:
+  (b) A copy of the defendant's statement of claim against the third party:
+  (c) A copy of the plaintiff's statement of claim:
+  (d) A copy of the notice of proceeding:
+  (e) A copy of the defendant's statement of defence or appearance:
+  (f) A list of any other documents which up till that time have been served by the plaintiff on the defendant or by the defendant on the plaintiff.
+
+### 157 Service on plaintiff
+(1) The plaintiff shall be served, within 30 days after the date of filing of the third party notice or the date of the order granting leave to issue the same, as the case may be, with
+  (a) A copy of the third party notice; and
+  (b) A copy of the defendant's statement of claim against the third party.
+(2) After such service the plaintiff may not, without the leave of the Court,until the time within which the third party may file a defence has expired.
+  (a) Enter judgment in the proceeding; or
+  (b) apply for the allocation of a hearing date for the proceeding
+  (c)
+(3) Application for leave under subclause (2) shall be made on notice to the defendant and (if the third party has been served) the third party.
+
+### 158 Filing and service of statement of defence
+(1) The time within which a third party may file and serve a statement of defence shall be within 30 days after the day of service upon the third party of the third party notice and other documents referred to in rule 156.
+(2) A third party shall serve a copy of his statement of defence on both the plaintiff and the defendant.
+
+### 159 Service of application for leave
+Where by these rules leave is required to issue a third party notice, application for such leave shall be made to the Court on notice to the other party or parties to the proceeding.
+
+### 160 Setting aside notice
+(1) Where a third party notice has been issued and served, the third party, or, where it has been issued and served without prior leave of the Court, the plaintiff or any other party served therewith, may apply to the Court to set aside the third party notice.
+(2) On the hearing of an application under subclause (1), the Court may
+  (a) Set aside the third party notice and dismiss the defendant's statement of claim against the third party either on the merits or without prejudice to the right of the defendant to pursue his claim against the third party by an independent proceeding; or
+  (b) Give such other directions with regard to the third party notice as may appear just.
+
+### 161 Default in filing statement of defence
+(1) If the third party makes default in filing his statement of defence, he shall be deemed to admit the validity of and be bound by any judgment given in the proceeding, whether by consent, default, or otherwise, and by any decision therein on any question specified in the defendant's statement of claim; and when contribution or indemnity or any relief or remedy is claimed against him in such statement of claim, he shall be deemed to admit his liability in respect thereof.
+(2) Subclause (1) of this rule shall not apply in the case of third party proceedings against the Crown unless the Court so orders upon an application in that behalf served upon the Crown not less than 7 days before the day for hearing the same specified in the application.
+
+### 162 Application of rules to fourth, etc, party notices
+Rules 154 to 161 shall apply, with such modifications as may be necessary in the circumstances, to fourth and subsequent party notices.
+
+**Claims between defendants**
+
+### 163 Right to give notice
+Where in any proceeding a defendant claims against another defendant in circumstances where (had that other defendant not been a defendant) he would be entitled to issue and serve a third party notice on that other defendant, the defendant making the claim may, at any time before the setting down date for the proceeding, file and serve on that other defendant and on the plaintiff a notice to that effect.
+
+### 164 Statement of claim to be filed and served
+(1) Where a defendant files a notice under rule 163, he shall file and serve with that notice a statement of his claim against the other defendant.
+(2) A statement of claim filed and served under subclause (1)
+  (a) Shall comply with the requirements of rules 108 to 119; and
+  (b) In particular, shall state the nature of the question or issue sought to be determined and the nature and extent of any relief or remedy claimed against the other defendant.
+
+### 165 Statement of defence
+(1) Unless a defendant served with a notice under rule 163 wishes to raise an affirmative defence to the claim made against him by the defendant serving the notice, it shall not be necessary for the defendant so served to file a statement of defence to that claim.
+(2) Any statement of defence to a claim made in a notice served under rule 163 shall, within 10 days after the day of service of the notice, be filed and served
+  (a) On the defendant serving the notice; and
+  (b) On the plaintiff.
+
+### 166 Form of notice
+(1) A notice filed and served under rule 163 shall be in form 15.
+(2) Every such notice shall be signed by the defendant.
+
+### 167 Effect of omission to give notice
+The omission of a defendant to give a notice under rule 163 shall not prevent the Court from giving any judgment or granting any relief in favour of that defendant that might have been given or granted had that rule not been made.
+
+### 168 Application of rules relating to third and subsequent party notices
+Except where otherwise provided in rules 163 to 167, the provisions of the rules relating to third and subsequent party notices (rules 154 to 162) shall apply with all necessary modifications to claims under rules 163 to 167.
+
+**Reply**
+
+### 169 Right to file and serve reply
+(1) Where a statement of defence pleads any affirmative defence or contains any positive allegation affecting any other party, the plaintiff or that other party may, within 10 days after the day on which that statement of defence is served on him, file a reply thereto and serve the same on the party serving the statement of defence.
+(2) It shall not be obligatory to file and serve a reply under subclause (1) unless the Court so orders.
+
+### 170 Contents of reply
+A reply shall be limited to answering the affirmative defence or positive allegation but shall otherwise comply with the rules as to statements of defence so far as they are applicable.
+
+### 171 Affirmative defence or positive allegation deemed to be denied unless admitted
+Every affirmative defence or positive allegation in a statement of defence shall be deemed to be denied unless admitted.
+
+**Interpleader**
+
+### 172 Interpretation
+In this rule and in rules 173 to 179, unless the context otherwise requires,
+  - **Applicant** means a person or officer entitled under rule 173 to apply to the Court for relief under rule 178
+  - **Claimant** means a person claiming against an applicant in terms of rule 173
+  - **Execution creditor** means a person who has issued execution under Part 6
+  - **Execution debtor** means a person against whose property execution has been issued under Part 6.
+
+### 173 Right to interplead
+(1) Where a person is under a liability in respect of a debt or in respect of any money or chattels and that person is, or expects to be, sued for or in respect of the debt, money, or chattels by two or more persons making adverse claims thereto, that person may apply to the Court, on notice to the persons making the adverse claims, for relief under rule 178.
+(2) Where claim is made to any money or chattels taken or intended to be taken by an officer executing a writ of sale or a writ of possession, or to the proceeds or value of any such chattels, by a person other than the person against whom the writ is issued, the officer executing the writ may (before or after the return of the writ and whether a proceeding has been commenced against that officer in respect of the money or chattels or not) apply to the Court, on notice to the execution creditor, the execution debtor, and the person making the claim for relief under rule 178.
+
+### 174 Form of application
+(1) Where a claimant has issued a proceeding in the Court against the applicant in respect of the debt or money or chattels referred to in rule 173(1), and in every case coming within rule 173(2), the application shall be in the form of an interlocutory application in the proceeding and, subject to rules 175 to 179, rules 234 to 277 shall apply thereto.
+(2) In every other case the application shall be made by filing and serving a statement of claim and notice of proceeding under this Part of these rules.
+
+### 175 Affidavit in support
+(1) Every application under rule 173(1) shall be supported by an affidavit filed by the applicant and stating
+  (a) That the applicant claims no interest in the subject-matter in dispute other than the charges or costs; and
+  (b) That adverse claims (of which details shall be given) have been made by the claimants and the steps which have already been taken by the respective claimants in support of their respective claims; and
+  (c) That the applicant does not collude with any of the claimants to that subject-matter; and
+  (d) That the applicant is willing to pay or transfer that subject-matter into Court or dispose of it as the Court may direct.
+(2) A copy of the affidavit shall be served on each claimant at the time when the application under rule 173(1) is served.
+
+### 176 Time for applying
+If any claimant has commenced a proceeding against the applicant to enforce his claim, any application under rule 173 shall be made before a statement of defence has been filed by the applicant, or, if no defence has been filed by the applicant, before judgment has been entered against the applicant.
+
+### 177 Claimants to file affidavits
+(1) Subject to subclauses (2) and (3), every claimant who wishes to justify his claim shall, within 7 days after service upon him of an application made under subclause (1) or subclause (2) of rule 173, file and serve on every other claimant and on the applicant an affidavit deposing to the facts and matters upon which he relies in support thereof.
+(2) Where, in accordance with rule 174(2), a statement of claim and notice of proceeding have been filed and served together with an affidavit in accordance with rule 175, the claimant shall file and serve, with his affidavit under subclause (1), a statement of defence.
+(3) Where the claimant, had he been a defendant, might have filed an appearance under any of the provisions of rules 131 to 133, he may, instead of filing and serving an affidavit under subclause (1), file and serve an appearance.
+(4) Any appearance filed and served under subclause (3) shall, for all the purposes of rules 178 and 179, have effect as though the claimant were a defendant in a proceeding brought against him by the applicant or by any other claimant referred to in the appearance.
+
+### 178 Powers of Court
+(1) Upon the hearing of an application under rule 173, the Court may make such orders and give such directions as the justice of the case may require.
+(2) In particular, and without limiting the general power conferred by subclause (1), the Court may
+  (a) Stay any proceeding commenced by any claimant:
+  (b) Bar the claim of any claimant who has not filed and served either
+    (i) An affidavit justifying his claim; or
+    (ii) An appearance pursuant to rule 177(3):
+  (c) Adjudicate upon the competing claims on the affidavits filed, or adjourn the application to such time and place as it thinks fit for that purpose, and, where the question appears to be one of law only, order a special case for the opinion of the Court to be prepared by the parties:
+  (d) Direct the trial of the issues involved in such manner, at such time, and at such place as the Court then or at any other time may direct:
+  (e) Order that one of the claimants do commence a proceeding against any other or others to try the question involved; or, if a proceeding has been commenced by a claimant, order that any other claimant be joined as a defendant to that proceeding:
+  (f) Order that the chattels in dispute or any part thereof be sold and that the proceeds of the sale be applied in such manner and on such terms as may be just and as may be specified in the order.
+(3) Where a claimant, having been duly served with an application for relief under this rule, does not appear on the hearing of the application or, having appeared, fails or refuses to comply with an order made thereon, the Court may make an order declaring that the claimant and all persons claiming under him be forever barred from prosecuting his claim against the applicant and all persons claiming under the applicant; but such an order shall not affect the rights of the claimants as between themselves.
+
+### 179 Costs of applicant
+(1) Unless the Court orders otherwise, an applicant shall be entitled to the costs of and incidental to his application and such costs shall be allowed on the footing of solicitor and client.
+(2) The Court may order that the applicant's costs be paid by any one or more of the claimants and may apportion the liability therefor between any 2 or more claimants, as it thinks fit.
+(3) The Court may charge any property in dispute, or the proceeds of the sale thereof, or both, with payment of the costs of the applicant.
+
+**Recovery of specific property subject to lien**
+
+### 180 Recovery of specific property subject to lien, etc
+Where a party seeks in any proceeding to recover specific property other than land and the party from whom such recovery is sought does not dispute the title of the party seeking to recover the same, but claims to retain the property by virtue of a lien or otherwise as security for any sum of money, the Court may, at any time after such last-mentioned claim appears from the statement of defence, or, if there is no statement of defence, by affidavit or otherwise to the satisfaction of the Court, order that the party claiming to recover the property be at liberty to pay into Court, to abide the event of the proceeding, the amount of money in respect of which the lien or security is claimed, and such further sum (if any) for interest and costs as the Court directs, and that upon such payment into Court being made, the property claimed be given up to the party claiming it.
+
+**Pleadings generally**
+
+### 181 Distinct matters to be stated separately
+(1) Distinct causes of action and distinct grounds of defence, founded on separate and distinct facts, shall be stated as nearly as may be separately and clearly.
+(2) Where a party pleading alleges any condition of the mind of any person, whether any disorder or disability of mind or any malice, fraudulent intention, or other condition of mind except knowledge, the party pleading shall give particulars of the facts on which that party relies in alleging that condition of mind.
+
+### 182 Denial of representative character
+If any party wishes to deny the right of any other party to claim as executor or administrator or as trustee, or in any representative or other alleged capacity, or the alleged constitution of any partnership firm, he shall deny the same specifically.
+
+### 183 Denial of contract
+A bare denial of a contract shall be construed only as a denial of the making of the contract in fact, and not of its legality or sufficiency in law, whether with reference to the Statute of Frauds 1677 or the Contracts Enforcement Act 1956 or otherwise.
+
+### 184 Effect of document to be stated
+If a party in his statement relies upon any document or any part thereof, it shall be sufficient to state the effect thereof as briefly as possible, without setting it out, unless the precise words are material.
+
+### 185 Notice requiring further particulars or more explicit pleading
+(1) A party may, by notice, require any other party
+  (a) To give such further particulars as may be necessary to give fair notice of
+    (i) The cause of action or ground of defence; or
+    (ii) The particulars required by these rules; or
+  (b) To file and serve a more explicit statement of claim or of defence or counterclaim.
+(2) A notice under subclause (1) shall indicate as clearly as may be the points on which the pleading in respect of which it has been served is considered defective.
+(3) If the party on whom a notice under subclause (1) is served neglects or refuses to comply with the notice within 7 days after service thereof, the Court may, if it considers that the pleading objected to is defective or does not give particulars reasonably required by the notice, order a more explicit pleading to be filed and served.
+(4) Notwithstanding that no notice has been given under this rule, the Court may of its own motion order a more explicit pleading to be filed and served.
+
+### 186 Striking out pleading
+Without prejudice to the inherent jurisdiction of the Court in that regard, where a pleadingthe Court may at any stage of the proceeding, on such terms as it thinks fit, order that the whole or any part of the pleading be struck out.
+  (a) Discloses no reasonable cause of action or defence or other case appropriate to the nature of the pleading; or
+  (b) Is likely to cause prejudice, embarrassment, or delay in the proceeding; or
+  (c) Is otherwise an abuse of the process of the Court,
+
+### 187 Filing of amended pleading
+(1) Subject to subclauses (2) and (5), any party may at any time before trial file an amended pleading and serve a copy thereof on the other party or parties.
+(2) After the setting down date for a proceeding, an amended pleading may be filed only with the leave of the Court.
+(3) An amended pleading may introducewhether as an alternative or not.
+  (a) A fresh cause of action which is not statute barred; or
+  (b) A fresh ground of defence,
+(4) Subject to subclause (5), an amended pleading may introduce a fresh cause of action whether or not that cause of action has arisen since the filing of the statement of claim.
+(5) Where a cause of action has arisen since the filing of the statement of claim, that cause of action may be added only by the leave of the Court and shall, if that leave is granted, have effect from the date of the filing of the application for leave to introduce that cause of action.
+(6) Where an amended pleading introduces a fresh cause of action, the other party shall file and serve his defence thereto within 14 days after the day on which the amended pleading is served on him.
+(7) Where an amended pleading does not introduce a fresh cause of action, the other party (if he so wishes) may, within 10 days after the day on which the amended pleading is served on him, file and serve an amended defence thereto.
+(8) Where an amended pleading has been filed under any of the provisions of subclauses (1) to (7), the party filing the amended pleading shall bear all the costs of and occasioned by the original pleading and any application for amendment, unless the Court otherwise orders.
+(9) Nothing in this rule limits the powers conferred on the Court by rule 11.
+
+### 188 Particulars in support of innuendo
+[Repealed]
+
+### 189 Particulars where fair comment pleaded
+[Repealed]
+
+### 190 Particulars of malice
+[Repealed]
+
+**Proceedings in rem**
+
+### 191 Proceedings in rem against Crown
+Any application pursuant to section 28(2) of the Crown Proceedings Act 1950 (which relates to proceedings in rem instituted against property belonging to the Crown), may be made to the Court at any time either before or at the trial of the proceeding.
+
+**Service**
+
+### 192 Modes of service
+(1) Except where an Act or these rules prescribes a particular and exclusive mode of service, service of a document that is required by these rules to be served may be effected in any of the following modes:
+  (a) Personal service:
+  (b) Service at an address for service given in accordance with these rules:
+  (c) Service at an address directed by the Court as the address for service for the party or person:
+  (d) Where the solicitor for the party or person has, under rule 44(1)(e), specified a Post Office box address, document exchange box number, or facsimile number,
+    (i) By posting the document to that Post Office box address; or
+    (ii) By leaving the document at a document exchange for direction to that document exchange box number; or
+    (iii) By transmitting the document to that facsimile number.
+(2) In any case not provided for by these rules, service shall be effected in such manner and at such place as the Court directs.
+
+### 193 Service of copies
+Except where an Act or these rules expressly requires an original document to be served, service of a true copy thereof shall be deemed to be service of the document.
+
+### 194 Notices
+The provisions of rules 192 and 193 and of rules 195 to 217 shall apply to any notice which by these rules, or by any order made pursuant to these rules, is required to be given to any person, whether that person is a party or not and whether or not the notice is required to be filed in the Court.
+
+### 195 Notices to be given by Registrar
+Subject to the provisions of any Act, where any notice is required to be given by the Registrar to any person, whether a party or not, it may be given
+  (a) If the person is acting by a solicitor, by sending it by ordinary post addressed to the solicitor at the address for service (if given) or at his place of business:
+  (b) If the person is not acting by a solicitor, by sending it by ordinary post addressed to him at the address for service (if given) or at his last known or usual place of abode or business in New Zealand:
+  (c) In such other manner as the Court directs.
+
+### 196 Proof of service
+(1) Where it is necessary to prove service of a document, it may be proved on oath before the Court or by affidavit in form 16.
+(2) Where the service of a document is proved by affidavit in form 16, it shall not be necessary, unless the Court otherwise directs, for a copy of the document to be annexed to the affidavit if
+  (a) Either the original of the document or a copy of the document has, at the time of service, been filed in the office of the Court; and
+  (b) The affidavit contains a description of the document that
+    (i) Is sufficient to enable the document to be identified; and
+    (ii) Includes the date of the document (if the document bears a date).
+
+### 197 Personal service
+Personal service of a document may be effected by leaving the document with the person to be served, or, if he does not accept it, by putting it down in his presence and bringing it to his notice.
+
+### 198 Personal service on New Zealand corporations
+(1) Personal service of a document on a company incorporated under the Companies Act 1955 shall be effected by service in accordance with section 460 of that Act.
+(2) Personal service of a document on a company incorporated under the Companies Act 1993 shall be effected by service in accordance with section 387 of that Act.
+(3) Personal service of a document on a corporation incorporated in New Zealand other than a company incorporated under the Companies Act 1955 or the Companies Act 1993, as the case may be, may be effected
+  (a) By service in accordance with rule 197 on
+    (i) The mayor, chairman, president, town clerk, managing director, secretary, treasurer, or other similar officer of the corporation; or
+    (ii) Any member, officer, or servant of the corporation at the corporation's head office or principal place of business; or
+  (b) By leaving the document at the corporation's registered office; or
+  (c) By serving the document on a member, officer, or servant of the corporation in such manner as the Court directs.
+(4) Subclause (3) is in addition to any provision made by or under any Act for service of a document on a corporation unless the provision so made is expressed to be exclusive of any other mode of service.
+
+### 199 Personal service in New Zealand on foreign corporations
+(1) Personal service on an overseas company (within the meaning of section 2 of the Companies Act 1993) and which, under these rules, may be served out of New Zealand, shall be effected in accordance with section 389 of the Companies Act 1993.
+(2) Personal service on a corporation (other than an overseas company within the meaning of section 2 of the Companies Act 1993) thatmay be effected in New Zealand by service in accordance with rule 197 on any person appearing to have control of the business of that corporation at the principal or only place of business of that corporation in New Zealand.
+  (a) Is incorporated outside New Zealand; and
+  (b) Under these rules, may be served out of New Zealand; and
+  (c) Has a place or places of business in New Zealand
+
+### 200 Personal service on unincorporated societies
+Personal service of a document on an unincorporated society may be effected by service in accordance with rule 197 on the president, chairman, or secretary or any similar officer of the society.
+
+### 201 Personal service on partnership or apparent partnership
+Personal service of a document on a partnership or on a person carrying on business in the name of a firm apparently consisting of more than one person may be effected by service in accordance with rule 197
+  (a) On any partner or on any such person; or
+  (b) At the principal place in New Zealand of the business of the partnership or apparent partnership, on any person appearing to have the control of the business there.
+
+### 202 Personal service on attorney or agent of absentee
+Personal service of a document on a person who is out of New Zealand and has in New Zealandmay be effected by service in accordance with rule 197 on the attorney or agent.
+  (a) An attorney or agent authorised to transact his affairs generally and to defend proceedings; or
+  (b) An attorney or agent authorised to transact his affairs in respect of the subject-matter of the proceeding and to defend the particular proceeding,
+
+### 203 Personal service on minors
+[Repealed]
+
+### 204 Personal service on mentally disordered persons
+[Repealed]
+
+### 205 Personal service on spouses or partners
+(1) This rule applies when defendants to a proceeding are
+  (a) husband and wife; or
+  (b) civil union partners; or
+  (c) de facto partners.
+(2) When this rule applies, service on one spouse, civil union partner, or de facto partner, as the case may be, is not to be treated as service on the other unless the Court so orders.
+
+### 206 Service at address for service
+Service of a document at an address for service may be effected by leaving the document at that address at any time between the hours of 9 o'clock in the morning and 5 o'clock in the afternoon.
+
+### 206A Service by means of Post Office box, document exchange, or facsimile number
+(1) Where a document is served on a party or person in accordance with rule 192(1)(d), that document shall,
+  (a) If posted to a Post Office box address, be deemed to have been duly served on the earlier of
+    (i) The fifth working day after the day on which it was so posted; or
+    (ii) The day on which it was received; and
+  (b) If left at a document exchange, be deemed to have been duly served on the earlier of
+    (i) The second working day after the day on which it was so left; or
+    (ii) The day on which it was received; and
+  (c) If transmitted to a facsimile number, be deemed, subject to subclauses (2) and (3), to have been duly served on the day on which it was so transmitted.
+(2) Where a document is transmitted to a facsimile number after 5pm on any day, that document shall, subject to subclause (3), be deemed to have been duly served on the first working day after the day on which the document was received in a complete and legible condition.
+(3) A document transmitted to a facsimile number shall be deemed to have been received in a complete and legible condition unless
+  (a) The contrary is shown; and
+  (b) As soon as practicable after the transmission is concluded, the solicitor to whom the document was transmitted notifies the person who transmitted the document that the document was incomplete or illegible or both when it was received.
+(4) Where a document is served under rule 192(1)(d), the solicitor to whom the document was sent or transmitted shall, on receiving the document, immediately give to the person by whom the document was served an acknowledgment, in writing or by facsimile transmission, that the document has been received and shall include in that acknowledgment a statement of the date of service.
+
+### 207 Service of statement of claim on certain days void
+(1) Service of a statement of claim on Christmas Day, New Year's Day, or Good Friday shall be void.
+(2) Nothing in this rule limits section 54 of the Act.
+
+### 208 Service on representatives
+Whereservice on the person so appointed or so suing or defending shall be deemed to be service on behalf of all persons whom he has been appointed to represent or on whose behalf he sues or defends.
+  (a) Any person is appointed by the Court to represent any person or persons, or any class of persons; or
+  (b) Any person, pursuant to these rules, sues or defends on behalf of himself and any other person or persons,
+
+### 209 Service on solicitor
+Where a solicitor signs on a copy of a document a note that he accepts service of the document on behalf of any person, the document shall be deemed to have been duly served on that person on the date on which the solicitor signs the note or on such earlier date of service as may be proved.
+
+### 210 Service under agreement
+Where any party has, before or after the commencement of the proceeding, agreed in writing that any document in the proceeding may be served on him or on some other person on his behalf in a manner or at a place (whether in or outside New Zealand) specified in the agreement, service in accordance with the agreement shall be sufficient service on that party.
+
+### 211 Substituted service
+If it appears to the Court that reasonable efforts have been made to effect service of any document by any of the modes permitted or required under these rules and either that the document has come to the knowledge of the person to be served or that prompt personal service thereof cannot be effected, the Court may
+  (a) Direct
+    (i) That instead of service, such steps as are specified in the order be taken for the purpose of bringing the document to the notice of the person to be served; and
+    (ii) That the document be deemed to have been served on the happening of any specified event, or on the expiry of any specified time:
+  (b) Where steps have been taken for the purpose of bringing, or which have a tendency to bring, the document to the notice of the person on whom it is required to be served, direct that the document be deemed to have been served on that person on a date specified in the order:
+  (c) Subject to such conditions as the Court thinks fit to impose, dispense with service of any document on any person and give leave to the party by whom the document is required to be served to proceed as if service thereof had been effected on that person.
+
+### 212 Failure to give address for service
+Until a party to a contentious proceeding has given an address for service in terms of these rules, he shall not be entitled to be served with notice of any step in connection with the proceeding or with copies of any further documents filed in the proceeding or to address the Court.
+
+**Service of foreign process in New Zealand**
+
+### 213 Service of foreign process
+(1) Whererules 214 to 217 shall apply in relation to the service of that process or citation.
+  (a) A letter of request,
+    (i) Which is from a Court or tribunal of a country other than a Commonwealth country (as defined in rule 522); and
+    (ii) Which requests the service on any person in New Zealand of a process or citation required in connection with any civil or commercial matter pending before that Court or tribunal,
+    is transmitted to the Court by the chief executive of the Department for Courts with an intimation that it is desirable that effect should be given to that request; and
+  (b) Subclause (2) is complied with,
+(2) The letter of request for service shall be accompanied
+  (a) By a translation thereof in the English language; and
+  (b) By 2 copies of the process or citation to be served; and
+  (c) By 2 copies of the process or citation in the English language.
+(3) The transmission of a letter of request under subclause (1)(a)(ii) shall be effected by sending the letter of request, and the accompanying papers required by subclause (2), to the Registrar of the Court nearest to the place where the person to be served resides.
+
+### 214 Sheriff to effect service
+Service of the process or citation shall be effected by the Sheriff whose office is nearest to the place where the person to be served resides, or by any officer appointed by that Sheriff.
+
+### 215 Mode of service
+(1) Subject to subclause (2), service shall be effected by leaving, in accordance with the provisions of these rules regulating service of process, one copy of the process or citation to be served and one copy of the translation thereof with the person to be served.
+(2) Upon the application of the Solicitor-General, the Court may make an order for substituted service of the process or citation.
+
+### 216 Return as to service
+After service of the process or citation has been effected or (if such be the case) attempts to effect service of the process or citation have failed, the Sheriff or the officer effecting or attempting to effect service shall return to the Registrar of the Court nearest to the place of service or attempted place of service
+  (a) One copy of the process or citation; and
+  (b) An affidavit made by the Sheriff or the officer who served, or attempted to serve, the process or citation, which affidavit shall state when, where, and how the Sheriff or officer effected service or attempted to effect service; and
+  (c) A statement of the costs incurred in effecting, or attempting to effect, service.
+
+### 217 Transmission of documents
+(1) The Registrar shall give a certificate in form 17 in which he shall
+  (a) Identify the documents annexed thereto, that is to say, the letter of request for service, a copy of the process or citation received with the letter, and a copy of the affidavit referred to in rule 216(b);
+  (b) Certify
+    (i) That the method of service of the process and the proof of service are such as are required by the law and practice of the High Court of New Zealand regulating the service of New Zealand legal process in New Zealand and the proof thereof; or
+    (ii) If such be the case, that service of the process could not be effected for the reason specified in the certificate; and
+  (c) Certify the cost of effecting, or attempting to effect, service.
+(2) The certificate given under subclause (1) shall be sealed with the seal of the Court and sent to the chief executive of the Department for Courts for transmission to the foreign Court or tribunal.
+
+**Service of foreign process in New Zealand where Conventions exist**
+
+### 218 Service where Conventions exist
+(1) Where any Convention between Her Majesty in right of the Dominion of New Zealand and the Head of State of any other country or between the Government of New Zealand and the Government of any other country is in force relating to the service in New Zealand of documents relating to any proceeding pending in the Court of that country, this rule shall, subject to any special provisions contained in the Convention, apply in relation to the service on a person in New Zealand of any such document.
+(2) Where a request for the service on a person in New Zealand of a document to which this rule applies is receivedrules 214 to 217 shall, subject to subclauses (2) and (3), apply with such modifications as are necessary.
+  (a) By any Registrar from the chief executive of the Department for Courts; or
+  (b) By the Registrar at Wellington from the Consular or other authority of any country,
+(3) No fees of Court shall be charged for the filing of any document or the doing of any act relating to the service or the certification thereof.
+(4) The Registrar shall transmit the certificate in form 17
+  (a) To the chief executive of the Department for Courts; or
+  (b) Where the request was received by the Registrar at Wellington from the Consular or other authority of any country, to that Consular or other authority.
+
+**Service out of New Zealand**
+
+### 219 When allowed without leave
+Where in any proceeding a statement of claim or counterclaim and the relevant notice of proceeding or third party notice cannot be served in New Zealand under these rules, they may be served out of New Zealand without leave in the following cases:
+  (a) Where any act or omission for or in respect of which damages are claimed was done or occurred in New Zealand:
+  (b) Where the contract sought to be enforced or rescinded, dissolved, annulled, or otherwise affected in any proceeding, or for the breach whereof damages or other relief is demanded in the proceeding
+    (i) Was made or entered into in New Zealand; or
+    (ii) Was made by or through an agent trading or residing within New Zealand; or
+    (iii) Was to be wholly or in part performed in New Zealand; or
+    (iv) Was by its terms or by implication to be governed by New Zealand law:
+  (c) Where there has been a breach in New Zealand of any contract, wherever made:
+  (d) Where it is sought to compel or restrain the performance of any act in New Zealand:
+  (e) Where the subject-matter of the proceeding is land, stock, or other property situated in New Zealand, or any act, deed, will, instrument, or thing affecting such land, stock, or property:
+  (f) Where the proceeding is for the execution of the trusts of any written instrument of which the person to be served is a trustee and which ought to be executed according to the law of New Zealand:
+  (g) Where any relief is sought against any person domiciled or ordinarily resident in New Zealand:
+  (h) Where any person out of New Zealand is a necessary or proper party to a proceeding properly brought against some other person duly served or to be served within New Zealand:
+  (i) Where the proceeding is for the administration of the estate of any deceased person who at the time of his death was domiciled in New Zealand:
+  (j) Where the proceeding is brought under Part 9A or Part 9B of the Civil Aviation Act 1990, unless the party to be served is a High Contracting Party or a Party to a Convention referred to in Part 9A of the Civil Aviation Act 1990:
+  (k)
+  (l) Where the proceeding is brought under the Marine Pollution Act 1974:
+  (m) Where the person to be served has submitted to the jurisdiction of the Court.
+
+### 220 When allowed with leave
+(1) In any other proceeding which the Court has jurisdiction to hear and determine, any document may be served out of New Zealand by leave of the Court.
+(2) An application for leave under this rule shall be made on notice to every party other than the party intended to be served.
+(3) A sealed copy of every order made under this rule shall be served with the document to which it relates.
+(4) Upon any application for leave under this rule, the Court, in exercising its discretion, shall have regard to
+  (a) The amount or value of the property in dispute or sought to be recovered; and
+  (b) The existence, in the place of residence of the person to be served, of a Court having jurisdiction in the matter in question; and
+  (c) The comparative cost and convenience of proceeding in New Zealand or in the place of residence of the person to be served.
+(5) Every application for leave under this rule shall be supported by an affidavit
+  (a) Stating the particulars referred to in subclause (4); and
+  (b) Showing
+    (i) In what place or country the person to be served is or possibly may be found; and
+    (ii) Whether or not the person to be served is a New Zealand citizen.
+
+### 221 Notice to defendant served overseas
+(1) Where a defendant is to be served out of New Zealand, the memorandum required by rule 121(4) shall also include a notice informing the defendant of
+  (a) The scope of the jurisdiction of the Court in respect of claims against persons who are not resident in New Zealand; and
+  (b) The grounds alleged by the plaintiff in relying on that jurisdiction; and
+  (c) The defendant's right to enter an appearance under protest to the jurisdiction of the Court.
+(2) A notice under subclause (1) may be in form 9.
+
+### 222 Mode of service
+Subject to rules 223 and 224, rules 192 to 212 shall apply to service outside New Zealand.
+
+### 223 Service in certain proceedings
+Where, for the purpose of a proceeding under Part 9A or Part 9B of the Civil Aviation Act 1990, leave is given to serve a High Contracting Party or a Party to a Convention,
+  (a) The document to be served must be transmitted by the Registrar to the Secretary of Foreign Affairs and Trade, together with a copy of it translated into an official language of the country of the High Contracting Party or Party (if that language is a language other than English), with a request for the further transmission of the documents to the Government of that country; and
+  (b) A certificate by the Secretary of Foreign Affairs and Trade that is transmitted to the Registrar and that certifies that the document was delivered on a specified date to the Government of the country of the High Contracting Party or Party is sufficient proof of service on that date, and must be filed on record as, and is equivalent to, an affidavit of service.
+
+### 224 Service in Convention countries
+(1) Wherethe party seeking such service may file a request for service in form 18 stating the official means of service desired and containing the undertaking set out in that form covering the payment of expenses.
+  (a) Any Convention is in force between the Sovereign of New Zealand and the Head of State of any other country or between the Government of New Zealand and the Government of any other country relating to the service of documents in proceedings in the Courts of the respective countries; and
+  (b) A party to a proceeding in New Zealand desires to take advantage of any provision made in the Convention for service in such other country by official means for which provision is made in the Convention, then, subject to any special provisions contained in the Convention,
+(2) In respect of each person to be served, the request for service shall be accompanied by
+  (a) The document to be served; and
+  (b) A copy thereof to be exhibited to the evidence verifying service; and
+  (c) When the language of the person to be served is not English,
+    (i) A translation of the document into his language (verified as correct to the satisfaction of the Registrar) for service with the document; and
+    (ii) A copy of that translation to be exhibited to the evidence verifying service.
+(3) The document and translation thereof to be served shall be sealed by the Registrar with the seal of the Court and the documents required to accompany the request for service shall be forwarded by the Registrar to the chief executive of the Department for Courts for transmission through the appropriate channels to the country concerned for service in accordance with the request for service.
+(4) A certificate establishing the fact and date of service and given by the competent authority of the country concerned, or by a British or New Zealand consular officer, and transmitted by the chief executive of the Department for Courts to the Registrar, shall be sufficient proof of such service.
+(5) The Registrar may file a certificate under subclause (4) and, if he does so, that certificate shall thereupon be equivalent to an affidavit of service of the documents referred to in the certificate.
+(6) The provisions of subclauses (1) to (5) shall not render invalid or insufficient any mode of service in any country referred to in subclause (1) if that mode of service is otherwise valid or sufficient under these rules and is not expressly excluded by the Convention with, or contrary to the law of, the country concerned.
+
+### 225 Time for filing defence
+Except where the Court otherwise orders, the time after the day of service within which a defendant who has been served out of New Zealand may file a statement of defence or appearance shall be 30 days if he is served within the Commonwealth of Australia and 50 days if he is served elsewhere.
+
+### 226 Judgment by default
+Where any document has been transmitted abroad for service on a party under the provisions of rule 219 and that person has not appeared, judgment by default against that party shall not be sealed without the leave of the Court, which leave shall not be granted unless the Court is satisfied
+  (a) That the party applying for leave was entitled to effect service without leave in accordance with that rule; and
+  (b) That the document was duly served by a method prescribed by the internal law of the country where service was to be effected, being a method prescribed in respect of the service of documents in domestic actions upon persons who are within that country; and
+  (c) That such service was effected in sufficient time to enable that party to appear.
+
+### 227 Application to Crown
+Rules 219 to 226 shall not apply to civil proceedings against the Crown alone or in respect of service on the Crown where the Crown is joined as a defendant or third party.
+
+**Actions, etc, transferred from District Courts**
+
+### 228 Application of rules
+Rules 229 to 233 apply to every action, counterclaim, and other proceeding transferred to the Court from a District Court pursuant to an order made under section 43 (except an order of certiorari under subsection (6)), section 44, or section 45 of the District Courts Act 1947.
+
+### 229 Documents to be filed in proper office
+(1) If the office of the Court at which the documents are received from the District Court is not the office in which, had the action, counterclaim, or other proceeding been commenced in the High Court, the statement of claim would have been filed in accordance with rule 106, the Registrar receiving the documents shall forthwith transmit the same to the Registrar at that office.
+(2) When the documents are received at the office of the Court in which, had the action, counterclaim, or other proceeding been commenced in the High Court, the statement of claim would have been filed in accordance with rule 106, the Registrar shall forthwith file the documents.
+
+### 230 On filing deemed to be proceeding
+(1) When the documents have been filed in accordance with rule 229, the action, counterclaim, or other proceeding shall be deemed to be a proceeding commenced under these rules, and, subject to the provisions of subclause (2) and of rules 231 and 232, the provisions of these rules shall apply thereto with all necessary modifications.
+(2) Any party who has not given an address for service which complies with these rules shall forthwith do so.
+
+### 231 Title of documents
+All documents filed in the proceeding after it has been filed in the Court in accordance with rule 229 shall be intituled as if the proceeding had been commenced in the High Court.
+
+### 232 Time for filing statement of defence
+Where no statement of defence has been filed in the District Court, a statement of defence may be filed within 30 days from the date when the proceeding is filed in accordance with rule 229.
+
+### 233 Transfer under section 45 of District Courts Act 1947
+(1) An application under section 45 of the District Courts Act 1947 shall be by interlocutory application and shall,
+  (a) If made by the counterclaimant, be made within 10 days after the counterclaim or set-off and counterclaim is filed in the District Court:
+  (b) If made by the party against whom the counterclaim or set-off and counterclaim is made, be made within 10 days after service upon him of the counterclaim or set-off and counterclaim.
+(2) At any time after an application under subclause (1) has been filed, the Court may order the proceedings in the District Court to be stayed pending the disposal of the application.
+(3) An order under subclause (2) may, if the Court thinks fit, be made ex parte and may be made subject to such conditions or undertakings as the Court thinks fit to impose.
+(4) Where the Court orders that the counterclaim or set-off and counterclaim alone be transferred, references in rules 228 to 232 and in the other provisions of these rules to the plaintiff shall be construed as references to the counterclaimant and references to the defendant shall be construed as references to the party against whom the counterclaim or set-off and counterclaim is made.
+
+### Part 3 — Interlocutory matters
+
+**Interlocutory orders**
+
+### 234 Making of interlocutory orders
+(1) The Court may make any interlocutory order that
+  (a) is provided for in these rules; or
+  (b) may be made under rule 9.
+(2) An interlocutory order may be made
+  (a) on the interlocutory application of a party; or
+  (b) on the Court's own initiative.
+(3) Before making an order under subclause (2)(b), the Court must give the parties an opportunity to be heard.
+
+### 235 Power to grant interlocutory order or interlocutory relief
+The Court may make any interlocutory order or grant any interlocutory relief it thinks just, even though the order or relief has not been specifically claimed and there is no claim for general or other relief.
+
+### 236 Interlocutory orders may be made subject to conditions
+The Court may make an interlocutory order subject to any terms or conditions that the Court thinks just, including, without limitation, any condition that
+  (a) a party give an undertaking:
+  (b) the order operate only for a specified period.
+
+### 236A Application for injunction
+[Repealed]
+
+### 236B Interim injunction in relation to party's assets
+[Repealed]
+
+**Interlocutory applications**
+
+### 237 Form, contents, and filing of interlocutory application
+(1) An interlocutory application is made by filing a notice of the application in form 19 or form 20.
+(2) The application must
+  (a) state
+    (i) the relief sought; and
+    (ii) the grounds justifying that relief; and
+  (b) contain a reference to any particular provision of an enactment or principle of law or judicial decision on which the applicant relies.
+(3) It is not necessary in an application to ask for general or other relief.
+(4) The application or a document that relates to it
+  (a) may be posted to the Registrar at the proper office of the Court; and
+  (b) is filed when that Registrar receives it with any applicable fee.
+(5) The Registrar
+  (a) must acknowledge the receipt of all documents sent by post; and
+  (b) must
+    (i) notify the applicant of the hearing date allocated for the application; or
+    (ii) in the case of an ex parte application for which no appearance is required, notify the applicant of the result of the application.
+
+### 238 Application for injunction
+(1) An application for an interlocutory injunction may be made by a party before or after the commencement of the hearing of a proceeding, whether or not a claim for an injunction is included in that party's statement of claim, counterclaim, or third party notice, as the case may be.
+(2) The plaintiff may not make an application for an interlocutory injunction before the commencement of the proceeding except in case of urgency, and any injunction granted before the commencement of the proceeding
+  (a) must provide for the commencement of the proceeding; and
+  (b) may be granted on any further terms that the Court thinks just.
+(3) An applicant for an interlocutory injunction must file a signed undertaking that the applicant will comply with any order that the Court may make for the payment of damages to the other party for any damage that party may sustain through the granting of the interlocutory injunction.
+(4) The undertaking must be referred to in the order granting the interlocutory injunction and is part of it.
+
+### 239 Interlocutory injunction in relation to party's assets
+(1) It is declared that the Court may grant an interlocutory injunction restraining a party from removing, or otherwise dealing with, assets in New Zealand whether or not the party is domiciled, resident, or present in New Zealand.
+(2) The power to grant an interlocutory injunction of the kind described in subclause (1) does not limit the generality of the Court's power to grant interlocutory injunctions.
+(3) A party who makes an application for an interlocutory injunction of the kind described in subclause (1) must, in making the application, identify any person who is not a party to the proceeding but who would be adversely affected by the granting of the injunction.
+
+### 240 Ex parte application
+(1) If the applicant wishes the application to be heard without any other party being served (in these rules referred to as an ex parte application), the applicant must use form 20.
+(2) An ex parte application must contain a certificate that
+  (a) is personally signed by the applicant's solicitor or counsel in his or her own name; and
+  (b) uses the words Certified pursuant to the rules of Court to be correct.
+(3) The solicitor or counsel who signs the certificate
+  (a) must, before signing it, be personally satisfied
+    (i) that the notice of application and every affidavit filed in support of it complies with these rules; and
+    (ii) that the order sought is one that ought to be made; and
+    (iii) that there is a proper basis for seeking the order in an ex parte application; and
+  (b) is responsible to the Court for the matters specified in paragraph (a).
+
+### 241 Affidavit to be filed with application
+Evidence given in support of an application must be in an affidavit, which must be filed and served at the same time as the application.
+
+### 242 Allocation of hearing date
+(1) On or following the filing of an application (other than an ex parte application), the Registrar must allocate a hearing date for the application.
+(2) The Registrar must refer an ex parte application to a Judge for direction or decision.
+
+### 243 Service of application
+(1) The applicant must serve a copy of the application (other than an ex parte application) and any affidavit in support of it on every party as soon as practicable after filing it.
+(2) As soon as practicable after the applicant is notified of the hearing date for the application, the applicant must give notice of the hearing date to every respondent.
+
+### 244 Notice of opposition to application
+(1) A respondent who intends to oppose an application must file and serve on every other party a notice of opposition to the application within the earlier of
+  (a) 10 working days after being served with the application; or
+  (b) 3 working days before the hearing date for the application.
+(2) The notice of opposition must be in form 21.
+(3) The notice of opposition must
+  (a) state the respondent's intention to oppose the application and the grounds of opposition; and
+  (b) contain a reference to any particular provision of an enactment or principle of law or judicial decision on which the respondent relies.
+
+### 245 Affidavit to be filed with notice of opposition
+If the respondent intends to support the notice of opposition with evidence, the evidence must be in an affidavit, which must be filed and served at the same time as the notice of opposition.
+
+### 246 Affidavit in reply
+(1) If the applicant wishes to reply to the notice of opposition or to an affidavit filed by the respondent, the applicant must reply by affidavit, which must be filed and served within the earlier of
+  (a) 5 working days after being served with the notice of opposition; or
+  (b) 1 pm on the working day before the hearing date for the application.
+(2) The affidavit in reply must be limited to new matters raised in the notice of opposition or in an affidavit filed by the respondent.
+
+### 247 When admissions binding
+An admission of a fact expressly made only for the purpose of an application binds the party only for the application.
+
+### 248 Previous affidavits and agreed statements of fact
+(1) Affidavits already filed in the Court and agreed statements of fact, if made in the same proceeding or, with the leave of the Court, in any other proceeding between the same parties, may be used on the disposal of any application, if
+  (a) prior notice of the intention to use them has been given to the opposite party (whether in the notice of application or in the notice of opposition or otherwise); or
+  (b) in the case of an ex parte application, if they are referred to in the notice of application.
+(2) Subclause (1) does not apply to an affidavit or to an agreed statement to the extent that the affidavit or statement contains any admission of the kind described in rule 247.
+
+### 249 Provisions as to affidavits
+(1) The provisions of rules 510 to 524 apply, with all necessary modifications, to affidavits filed in respect of interlocutory applications.
+(2) Despite subclause (1), the Court may accept statements of belief in an affidavit in which the grounds for the belief are given if
+  (a) the interests of no other party can be affected by the application; or
+  (b) the application concerns a routine matter; or
+  (c) it is in the interests of justice.
+
+**Hearing of interlocutory applications**
+
+### 250 Where respondents consent or do not oppose
+(1) If every respondent to an interlocutory application indicates, by endorsement on the application or in a memorandum filed in the Court, that the respondent consents or does not oppose the orders sought in the application, the Registrar may refer the interlocutory application to a Judge, who may
+  (a) make the orders sought without a hearing being held; or
+  (b) direct that a hearing be held on the hearing date allocated under rule 242.
+(2) If the Judge makes the orders sought under subclause (1)(a), the Registrar must immediately advise the parties that the hearing date is vacated.
+(3) If a respondent (respondent A) to an interlocutory application consents or does not oppose, but another respondent (respondent B) does oppose, respondent A does not need to attend the hearing of the interlocutory application.
+(4) Subclause (3) does not apply if, on the hearing date allocated for the interlocutory application, a case management conference is also due to be held.
+
+### 251 Mode of hearing
+(1) Every application for judgment under rule 138 must be heard in open court.
+(2) Every other interlocutory application must be heard in Chambers unless the Court otherwise directs.
+(3) A hearing in Chambers may be held in the chambers of a Judge or Associate Judge, or in court.
+(4) Unless the Court otherwise directs, no hearing is required for an application to which there is no opposition.
+(5) On its own initiative or on the application of 1 or more of the parties, the Court may conduct a hearing in Chambers by telephone or video link.
+
+### 251A Synopsis of argument
+(1) This rule applies to a defended interlocutory application unless or to the extent that the Court directs otherwise.
+(2) The applicant must file and serve a synopsis of argument (synopsis) on every other party,
+  (a) if the respondent has filed a notice of opposition under rule 244(1)(a), at least 3 working days before the hearing of the interlocutory application; or
+  (b) if the respondent has filed a notice of opposition under rule 244(1)(b), at least 2 working days before the hearing of the interlocutory application.
+(3) The applicant's synopsis must
+  (a) identify the general nature of the case:
+  (b) include a chronology of the material facts:
+  (c) outline the applicant's principal submissions:
+  (d) be accompanied by or have annexed to it
+    (i) an indexed and paginated set of relevant documents; and
+    (ii) a list of authorities.
+(4) The material required to be included in the applicant's synopsis under subclause (3)(a), (b), and (c) must not exceed 10 pages.
+(5) The respondent must, at least 1 working day before the hearing, file and serve a synopsis on every other party.
+(6) The respondent's synopsis must
+  (a) identify any material facts that are not referred to in the applicant's synopsis:
+  (b) state any facts that are disputed:
+  (c) outline the respondent's principal submissions:
+  (d) be accompanied by or have annexed to it
+    (i) an indexed and paginated set of any relevant documents not included in the applicant's synopsis; and
+    (ii) a list of any authorities not included in the applicant's synopsis.
+(7) The material required to be included in the respondent's synopsis under subclause (6)(a), (b), and (c) must not exceed 10 pages.
+
+### 252 Failure to appear
+(1) If a party is neither present nor represented at the hearing of an application, the Court may
+  (a) determine the application in the party's absence in any manner that appears just; or
+  (b) adjourn the application; or
+  (c) strike out the application.
+(2) If an order determining an application is made in the absence of a party, the Court may, if it thinks it just to do so, recall the order at any time before a formal record of it has been drawn up and sealed.
+(3) The Court may, in any manner that the Court thinks just, reinstate an application that has been struck out for non-appearance.
+(4) The Court may make a determination referred to in subclause (2) or subclause (3) on its own initiative or on the application of a party.
+(5) Notice of an application under subclause (4) must be filed and served,
+  (a) if it is made by a party who was present or represented at the hearing, within 5 working days after the hearing:
+  (b) if it is made by a party who was neither present nor represented, within 5 working days after receipt by the party of notice of the decision given at the hearing.
+
+### 253 Oral evidence in special circumstances
+(1) Despite rules 241, 245, and 246, the Court may, on the hearing of an application, accept oral evidence in special circumstances.
+(2) The Court may in special circumstances, on the application of a party, order the attendance for cross-examination of a person who has made an affidavit in support of, or in opposition to, an interlocutory application.
+
+### 254 Oral application
+(1) At a hearing, the Court may entertain an oral application for an interlocutory order if
+  (a) all parties interested consent to the order sought; or
+  (b) these rules permit the application to be made without filing a notice of the application; or
+  (c) the order sought has been outlined in a memorandum filed for a case management conference, and no party will be unduly prejudiced by the absence of a formal notice of the application; or
+  (d) because of the nature of the order sought, no party will be unduly prejudiced by the absence of a formal notice.
+(2) If the Court entertains an oral application, it may make any interlocutory order or grant any interlocutory relief it could have made or granted on a formal notice of the application.
+(3) This rule overrides rule 237.
+
+### 255 Adjournment
+The hearing of an application may, from time to time, be adjourned on any terms that the Court thinks just.
+
+### 256 Determination of ex parte application
+(1) The Court, on receiving an ex parte application, must determine whether the application can properly be dealt with on an ex parte basis.
+(2) The Court may determine that an application can properly be dealt with on an ex parte basis only if the Court is satisfied that
+  (a) requiring the applicant to proceed on notice would cause undue delay or prejudice to the applicant; or
+  (b) the application affects only the applicant; or
+  (c) the application relates to a routine matter; or
+  (d) an enactment expressly permits the application to be made without serving notice of the application; or
+  (e) the interests of justice require the application to be determined without serving notice of the application.
+(3) If the Court determines that the application can properly be dealt with on an ex parte basis, it may
+  (a) make the order sought in the application; or
+  (b) make any other order that the Court thinks just in the circumstances; or
+  (c) dismiss the application.
+(4) If the Court determines that the application cannot properly be dealt with on an ex parte basis, the Court may adjourn the determination of the application until the application has been served on persons who are affected by the application, but if the Court considers that the application has no chance of success, the Court may dismiss the application.
+
+**Post-hearing matters**
+
+### 257 Drawing up and sealing interlocutory order
+(1) A party may draw up an interlocutory order and submit it to the Registrar for sealing.
+(2) Despite subclause (1), a party who obtains an interlocutory order must draw up the order and submit it to the Registrar for sealing if the order affects a person who
+  (a) is not a party; or
+  (b) is, by the order, joined as a party or directed to be served.
+(3) If a party elects to have an order sealed, or is required by the Court or by these rules to have an order sealed, the following provisions apply:
+  (a) the party must file an original order together with sufficient copies so that he or she and the other parties who have given an address for service can each receive a duplicate sealed order:
+  (b) the order must be in form 22:
+  (c) the order must specify both the date on which it was made and the date on which it was sealed:
+  (d) the Registrar, when satisfied with the form of the order, must sign and seal the original and every copy:
+  (e) the Registrar must mark every copy with the word duplicate
+  (f) the Registrar must retain the original on the file:
+  (g) the party who submitted the order for sealing must promptly serve a sealed copy on every other party who has given an address for service and on any person affected by the order.
+
+### 258 Enforcement of interlocutory order
+(1) If a party fails to comply (the party in default) with an interlocutory order, the Court may, subject to any express provision of these rules, make any order that it thinks just.
+(2) The Court may, for example,
+  (a) if the party in default is a plaintiff, order that the proceeding be stayed or dismissed as to the whole or any part of the relief claimed by the plaintiff in the proceeding:
+  (b) if the party in default is a defendant, order that the defence be struck out and that judgment be sealed accordingly:
+  (c) order that the party in default be committed:
+  (d) if any property in dispute is in the possession or control of the party in default, order that the property be sequestered:
+  (e) order that any fund in dispute be paid into Court:
+  (f) appoint a receiver of any property or of any fund in dispute.
+(3) An order must not be enforced by committal unless the order has been served personally on the person in default or that person had notice or knowledge of the order within sufficient time for compliance with the order.
+(4) For the purposes of this rule,
+  - **defendant** includes a party defending or opposing any proceeding
+  - **plaintiff** includes
+    (a) a defendant who has counterclaimed; and
+    (b) a party claiming under rules 154 to 168; and
+    (c) an applicant or claimant in a proceeding under rules 172 to 179
+  - **proceeding** includes
+    (a) a counterclaim; and
+    (b) a claim under rules 154 to 168; and
+    (c) an application or claim in a proceeding under rules 172 to 179.
+
+### 259 Order may be varied or rescinded if shown to be wrong
+(1) A party affected by an interlocutory order (whether made on the Court's own initiative or on an interlocutory application) or by a decision given on an interlocutory application may, instead of appealing against the order or decision, apply to the Court to vary or rescind the order or decision, if that party considers that the order or decision is wrong.
+(2) A party may not apply under this rule if the order or decision was made or given
+  (a) with the consent of the parties; or
+  (b) on an interlocutory application for judgment under rule 138; or
+  (c) by an Associate Judge in Chambers.
+(3) Notice of an application under subclause (1) must be filed and served,
+  (a) if it is made by a party who was present or represented when the order was made or the decision given, within 5 working days after the order was made or the decision was given:
+  (b) if it is made by a party who was not present and not represented, within 5 working days after receipt by the party of notice of the making of the order or the giving of the decision, and of its effect.
+(4) The application does not operate as a stay unless the Court so orders.
+(5) Unless the Court otherwise directs, the application must be heard by the Judge who made the order or gave the decision.
+(6) The Court may,
+  (a) if satisfied that the order or decision is wrong, vary or rescind the order or decision; or
+  (b) on its own initiative or on the application of a party, transfer the application to the Court of Appeal.
+
+### 260 Order relating to management of proceeding may be varied if circumstances change
+(1) This rule applies to an order or direction (a determination) that
+  (a) relates to the management of a proceeding; and
+  (b) has been made by a Judge in Chambers or by an Associate Judge in Chambers.
+(2) If there has been a change in circumstances affecting a party or the party's solicitor or counsel since the making of a determination, a Judge or an Associate Judge may, on application, vary the determination.
+(3) Despite subclause (2), a Judge may, on application or on the Judge's own initiative, direct that
+  (a) an application under subclause (2) to vary a determination made by an Associate Judge in Chambers be heard as a review of an order made by an Associate Judge in Chambers under section 26P of the Act and these rules:
+  (b) an application under subclause (2) to vary a determination made by a Judge in Chambers be heard as an application under rule 259 or be transferred to the Court of Appeal.
+
+### 261 Order may be rescinded if fraudulently or improperly obtained
+(1) The Court may rescind any order that has been fraudulently or improperly obtained.
+(2) The Court may grant any further relief by way of costs that the interests of justice require.
+(3) This rule does not limit any other remedies of a party who has been adversely affected by an order that has been fraudulently or improperly obtained.
+
+### 262 Limitation as to second interlocutory application
+(1) A party who fails on an interlocutory application must not apply again for the same or a similar order without first obtaining the leave of the Court.
+(2) The Court may grant leave only in special circumstances.
+
+### 263 Orders may be made subject to conditions, etc
+[Repealed]
+
+### 264 Review of orders
+[Repealed]
+
+### 265 Limitation as to second application
+[Repealed]
+
+### 266 Rescinding order for fraud, etc
+[Repealed]
+
+### 267 Drawing up and sealing orders
+[Repealed]
+
+### 268 When drawing up of order unnecessary
+[Repealed]
+
+### 269 Duplicate orders
+[Repealed]
+
+**Powers of Registrars**
+
+### 270 General jurisdiction of Registrars in relation to interlocutory applications
+Every Registrar (not being a Deputy Registrar) shall have the jurisdiction and powers of the Court in Chambers
+  (a) To hear and determine any application to enlarge or abridge the time for filing a statement of defence or any notice of interlocutory application:
+  (aa) To hear and determine any application under rule 138A:
+  (b) To adjourn a trial, reserving to the Court the costs of or arising out of the adjournment:
+  (c)
+  (d) To order a stay on any application being made to vary or rescind any order or decision of the Registrar:
+  (e) To make an order on any interlocutory application in proceedings inter partes where the consent of all necessary parties is endorsed thereon or filed, or on receiving a draft order consented to in writing by all necessary parties or by their solicitors or counsel.
+
+### 271 Additional jurisdiction of certain Registrars
+The Registrars (not being Deputy Registrars) for the time being exercising their office at the registries at Auckland, Hamilton, Rotorua, Palmerston North, Wellington, Christchurch, and Dunedin shall have the jurisdiction and powers of the Court sitting in Chambers conferred by the following enactments, namely:
+  (a) Section 13(1) of the Chattels Transfer Act 1924, but only in respect of the extension of time for the registration of an instrument or of an affidavit or renewal of an instrument:
+  (b) Subsections (2) and (3) of section 26 of the Penal Institutions Act 1954:
+  (c) Rule 6 so far as it applies to:
+    (i) Rule 128:
+    (ii)
+    (iii) rule 295(4):
+    (iv) Rule 504:
+    (v) Rule 505:
+    (vi) Rule 506:
+  (d) rule 86C(2), but only in respect of an application for the appointment of a litigation guardian for a minor for the purposes of the Administration Act 1969:
+  (e)
+  (f) Rule 560:
+  (g) Rule 107(4).
+
+### 272 Exercise of jurisdiction
+Subject to any general or special directions of a Judge, the Registrar may exercise his jurisdiction under rule 270 or rule 271 without any further directions; but shall not exercise that jurisdiction otherwise than in Chambers.
+
+### 273 Ancillary powers
+In all matters in which a Registrar has jurisdiction under rule 270 or rule 271, he shall be entitled to exercise, as ancillary to that jurisdiction, all powers that a Judge might exercise in like circumstances.
+
+### 274 Other registries
+The jurisdiction and powers conferred by rule 270 or rule 271 may be exercised in respect of applications filed in other registries, as well as in the registry at which the Registrar exercises his office.
+
+### 275 Form of order
+An order made by a Registrar under rule 270 or rule 271 shall, when it is drawn up,
+  (a) Be headed before the Registrar at , in Chambers:
+  (b) Be signed by a Registrar or Deputy Registrar, and sealed with the seal of the Court:
+  (c) Refer to the rule under which it is made.
+
+### 276 Review of Registrar's decision
+(1) Any party to a proceeding or an intended proceeding who is affected bymay apply to the Court by interlocutory application to review that decision or that refusal, and the Court may make such order thereon as may be just.
+  (a) Any decision of a Registrar in exercise of his jurisdiction under rule 270 or rule 271; or
+  (b) The refusal of a Registrar to file any document tendered by that party for filing or to perform any duty incumbent on him under these rules,
+(2) In any case coming within subclause (1)(b) it shall not be necessary to apply for an order for mandamus or to make an application for review under Part 1 of the Judicature Amendment Act 1972.
+(3) Notice of every application made under this rule shall be filed
+  (a) If it is made by a party who was present or represented when the decision or refusal of the Registrar was given, within 7 days thereafter:
+  (b) If it is made by a party who was not so present or represented, within 7 days after the receipt by him of notice of the giving of the decision or refusal, and of its effect.
+(4) The application shall not operate as a stay of the proceeding, or any step therein, unless the Court, or the Registrar, acting under rule 270, so directs.
+
+### 277 Enforcement of interlocutory order
+[Repealed]
+
+**Interrogatories**
+
+### 278 Interrogatories by notice
+(1) After a statement of defence has been filed, any party who has filed a pleading may file and serve on any other party who has filed a pleading a notice in form 23 requiring that party to answer specified interrogatories relating to any matter in question in the proceeding between the interrogating party and the party served.
+(2) The notice may require that the answers be verified and may so require notwithstanding that the interrogating party has previously required all or any of the interrogatories to be answered without requiring the answers to be verified.
+
+### 279 Duties of party served
+Subject to rule 280, a party required by notice under rule 278 to answer interrogatories shall
+  (a) Answer the interrogatories within such time, not being less than 14 days (or, if that party be resident out of New Zealand, 28 days) after the day on which the notice under rule 278 is served on that party, as may be specified in the notice; and
+  (b) If verification is not required, answer the interrogatories by filing and serving on the party requiring the answers, a statement in accordance with rule 283; and
+  (c) If verification is required, answer the interrogatories by filing and serving on the party requiring the answers, an affidavit verifying the statement together with the statement so verified unless the statement has already been filed and served.
+
+### 280 Limitation of interrogatories by notice
+(1) The Court may, on the application of any party made before or after he has been served with a notice under rule 278, order that answers to interrogatories under rule 279 by that party shall not be required, or shall be limited to such interrogatories or classes of interrogatories or to such of the matters in question in the proceeding, as may be specified in the order.
+(2) On any such application, the Court shall make such orders as may be required to prevent unnecessary or oppressive interrogatories or unnecessary answers to interrogatories.
+
+### 281 Multiple parties
+Where there are more than 2 parties to a proceeding, any party who is required under rule 279 to answer interrogatories shall serve his statement in answer and affidavit (if any) not only on that party but also on every other party who has given an address for service.
+
+### 282 Order to answer
+(1) The Court may, at any stage of any proceeding, order any party to file and serve on any other party (whether the interrogating party or not)
+  (a) A statement in accordance with rule 283 in answer to interrogatories specified or referred to in the order relating to any matter in question in the proceeding; or
+  (b) A statement as mentioned in paragraph (a) verified by affidavit.
+(2) The Court shall not make an order under subclause (1) unless satisfied that the order is necessary at the time when the order is made.
+
+### 283 Contents of statement
+(1) A statement in answer to interrogatories shall, unless the Court otherwise orders, conform to the requirements of this rule.
+(2) A statement in answer to interrogatories shall deal with each interrogatory specifically either
+  (a) By answering the substance of the interrogatory without evasion; or
+  (b) By objecting to answer the interrogatory on one or more of the grounds mentioned in rule 284 and briefly stating the facts on which the objection is based.
+(3) The statement shall set out above or opposite to each answer or objection the interrogatory to which it relates.
+
+### 284 Objection to answer
+(1) Subject to subclauses (2) and (3) and to rule 285, a party may object to answer any interrogatory on the following grounds but no other:
+  (a) That the interrogatory does not relate to any matter in question between him and the party requiring the answer:
+  (b) That the interrogatory is vexatious or oppressive:
+  (c) Privilege:
+  (d) That the sole object of the interrogatory is to ascertain the names of the witnesses.
+(2) It shall not be a sufficient objection that the answer to any interrogatory will determine a substantial issue in the proceeding.
+(3) On an application under rule 280(1) or rule 282 in respect of any interrogatory, the Court may require the applicant to specify on what grounds he objects to answer that interrogatory and may determine the sufficiency of the objection and, if the Court determines that the objection is not sufficient, the applicant shall not be entitled to object to answer that interrogatory in a statement in answer to interrogatories.
+
+### 285 Defamation proceedings
+If, in a proceeding for defamation, the defendant pleads that the words or matters complained of are honest opinion on a matter of public interest or were published on a privileged occasion, no interrogatories as to the defendant's sources of information or grounds of belief shall be allowed unless the interrogatories are necessary in the interests of justice.
+
+### 286 Who may swear affidavit verifying statement in answer to interrogatories
+(1) An affidavit verifying a statement of a party in answer to interrogatories may be made as follows:
+  (a) By the person required to make the statement:
+  (b) by the person's litigation guardian if the person required to make the statement is
+    (i) a minor, except a minor to whom rule 85(2) applies; or
+    (ii) an incapacitated person:
+  (c) If the person required to make the statement is a corporation or a body of persons empowered by law to sue or be sued (whether in the name of the body or in the name of the holder of an office), by a person who meets the requirements of rule 517:
+  (d) If the person required to make the statement is the Crown, or an officer of the Crown who sues or is sued in an official capacity, or as representing a Government department, by an officer of the Crown.
+(2) Despite subclause (1), if paragraph (c) or paragraph (d) of that subclause applies, and if the affidavit is to be filed and served in accordance with an order, the Court may
+  (a) Specify by name or otherwise the person to make the affidavit; or
+  (b) Specify by description or otherwise the persons from whom the party may choose the person to make the affidavit.
+
+### 287 Insufficient answer
+Where a party fails to answer an interrogatory sufficiently, the Court may, without prejudice to its powers under rule 277,
+  (a) If he has made an insufficient answer, order him to make a further answer verified by affidavit in accordance with rule 286; or
+  (b) Order him, or any of the persons mentioned in paragraphs (b) to (d) of rule 286(1) as the nature of the case requires, to attend to be orally examined.
+
+### 288 Incorrect answer to be amended
+If, by reason of any change of circumstances or from the discovery of any error or omission, any statement filed pursuant to any notice given or order made under rule 278 or rule 282 or rule 287 appears to the party by or on whose behalf it was filed to be defective or erroneous, he shall forthwith file and serve an amended statement or, if the amendment is necessary solely to remedy an omission, at his option a supplementary statement, and shall, if the original statement has been verified, verify the amended or supplementary statement.
+
+### 289 Answers as evidence
+(1) A party may tender as evidence
+  (a) One or more answers to interrogatories without tendering the others:
+  (b) Part of an answer to an interrogatory without tendering the whole of the answer.
+(2) Where the whole or part of an answer to an interrogatory is tendered as evidence, the Court may look at the whole of the answers, and if it appears to the Court that any other answer or any part of an answer is so connected with a matter tendered that the matter tendered ought not to be used without that other answer or part, the Court may reject the tender unless that other answer or part is also tendered.
+
+### 290 Public interest
+The provisions of these rules which relate to interrogatories do not affect any rule of law which authorises or requires the withholding of any matter on the ground that its disclosure would be injurious to the public interest.
+
+**Admission of facts**
+
+### 291 Notice to admit facts
+(1) A party who is entitled to serve a notice under rule 278 may at any time serve on any other party a notice in form 24 requiring him to admit, for the purpose of that proceeding only, the facts specified in the notice.
+(2) An admission made in compliance with a notice under this rule
+  (a) May be amended or withdrawn by the party by whom it was made at any time, if the Court so allows and on such terms as the Court thinks just:
+  (b) Must not be used against the party by whom it was made in a proceeding or interlocutory application other than the proceeding or interlocutory application for the purpose of which it was made.
+(3) If the party on whom a notice to admit facts has been served under the provisions of subclause (1) refuses or neglects to admit the facts within 7 days after the day on which the notice is served on that party or within such longer time as may be allowed by the Court, the costs of proving the facts shall be paid by him, unless the Court otherwise orders.
+
+### 292 Judgment on admission of facts
+Where admissions of facts are made by a party to a proceeding either by his pleadings or otherwise, any other party to the proceeding may apply to the Court for such judgment or order as upon those admissions he may be entitled to, without waiting for the determination of any other question between the parties, and the Court may give such judgment, or make such order, on the application as it thinks just.
+
+**Discovery orders**
+
+### 293 Contents of discovery order
+(1) In this rule and in rules 294 to 314, discovery order means an order, made under rule 294, that requires each party to a proceeding to discover the existence of documents to every other party.
+(2) To the extent that a discovery order does not modify the terms set out in rule 295, the order contains those terms.
+(3) A discovery order may modify the terms set out in rule 295 in any 1 or more of the following ways:
+  (a) by suspending the operation of the order until a date fixed or to be fixed by the Court:
+  (b) by excluding 1 or more of those terms:
+  (c) by varying 1 or more of those terms:
+  (d) by replacing 1 or more of those terms with different terms:
+  (e) by adding any terms that are not set out in rule 295 to the order.
+(4) A discovery order may, for example, specify 1 or more of the following matters:
+  (a) the kinds of documents that a party is to discover:
+  (b) the manner in which the documents are to be discovered:
+  (c) the period within which the documents are to be discovered.
+
+### 294 Discovery orders to be made at case management conferences
+(1) If discovery of documents is appropriate for a proceeding on the standard track, the Court must make a discovery order.
+(2) An order under subclause (1) must be made at the first case management conference that is held for the proceeding, unless there is good reason for making the order later.
+(3) The Court may make a discovery order for a proceeding on the swift track if
+  (a) a case management conference is held for the proceeding; and
+  (b) a party to the proceeding sets out in a memorandum, filed under rule 429, why the order is sought.
+(4) To the extent that a party wishes a discovery order to contain terms that are not contained in, or that differ from, the terms set out in rule 295, the party must, in a memorandum filed under rule 429, set out the terms sought and why they are sought.
+
+### 295 Default terms of discovery order
+(1) A discovery order is in the terms set out in this rule to the extent that those terms are not modified by the order.
+(2) Each party must make an affidavit of documents that lists the documents that
+  (a) are or have been in that party's control; and
+  (b) relate to a matter in question in the proceeding.
+(3) The affidavit of documents must
+  (a) comply with rules 297 and 298; and
+  (b) be filed and served on every other party who has given an address for service.
+(4) Each party must comply with the order within 20 working days after the date on which the order is made.
+
+### 296 Solicitor's obligations on discovery
+As soon as practicable after a party becomes bound to comply with a discovery order, the solicitor who acts for the party in the proceeding must, to the best of the solicitor's ability, ensure that the party
+  (a) understands the party's obligations under the order; and
+  (b) faithfully fulfils those obligations.
+
+### 297 Affidavit of documents
+(1) This rule applies to an affidavit of documents that a party is required to make under rule 295(2), but only to the extent that the requirement is not modified by the order.
+(2) In the affidavit of documents, the party must
+  (a) refer to the discovery order under which the affidavit is made and, if the order contains particular terms that are not set out in rule 295, state the nature of those particular terms; and
+  (b) state that the party understands the party's obligations under the order; and
+  (c) give particulars of the steps taken to fulfil those obligations, such as, for example, any inquiries made of named persons; and
+  (d) identify or list the documents required to be discovered under the order in a schedule that complies with rule 298; and
+  (e) if the party claims confidentiality for a document or part of a document, state the restrictions that the party proposes to apply in order to protect that confidentiality.
+(3) The affidavit may be in form 26.
+
+### 298 Schedule appended to affidavit of documents
+(1) The schedule referred to in rule 297(2)(d) must identify or list the documents in the following categories and provide the information specified in relation to each category:
+  (a) documents that are in the control of the party giving discovery and for which the party does not claim privilege or confidentiality. These documents may be identified by number:
+  (b) documents that are in the control of the party giving discovery for which privilege is claimed, together with a statement as to the nature of the privilege claimed:
+  (c) documents that are in the control of the party giving discovery for which confidentiality is claimed, together with a statement as to the nature and extent of the confidentiality:
+  (d) documents that have been, but are no longer, in the control of the party giving discovery, together with a statement as to when the documents ceased to be in the party's control and the person who now has control of them:
+  (e) documents that have not been in the control of the party giving discovery but that are known by that party to relate to a matter in question in the proceeding, together with a statement as to who has control of them.
+(2) Documents in any of categories (b), (c), (d), or (e) may be described as a group or groups if all documents concerned are of the same nature.
+(3) The schedule need not include
+  (a) copies of documents filed in Court; or
+  (b) correspondence that may reasonably be assumed to be in the possession of all parties.
+
+### 299 Variation of discovery order
+A party may, at any time, apply for an order varying the terms of a discovery order on the ground that
+  (a) compliance or attempted compliance with the terms of the order has revealed a need for a variation; or
+  (b) there has been a change of circumstances justifying reconsideration.
+
+**Inspection of document referred to in pleading or other document**
+
+### 299A Inspection of document referred to in pleading or other document
+(1) A party (party A) on whom a pleading or other document is served may, by notice in writing served on the party or person by whom the pleading or other document was filed (party B), require party B to produce for inspection a document referred to in the pleading or other document.
+(2) Party B must, within 5 working days after service of a notice under subclause (1), make the document available for inspection by the parties to the proceeding.
+(3) Subclause (2) is subject to any claim by party B to privilege or confidentiality.
+(4) If party A challenges a claim to privilege or confidentiality, party A may apply to the Court for an order setting aside or modifying the claim.
+
+**Orders for particular discovery**
+
+### 300 Order for particular discovery against party after proceeding commenced
+(1) If at any stage of the proceeding it appears to the Court from evidence or from the nature or circumstances of the case or from any document filed in the proceeding that there are grounds for believing that a party has not discovered 1 or more documents or a group of documents that should have been discovered, the Court may order that party
+  (a) to file an affidavit stating
+    (i) whether the documents are or have been in the party's control; and
+    (ii) if they have been, but are no longer, in the party's control, the party's best knowledge and belief as to when the documents ceased to be in the party's control and the person who now has control of them; and
+  (b) to serve the affidavit on any other party.
+(2) The Court may not make an order under this rule unless satisfied that the order is necessary at the time when the order is made.
+
+### 301 Order to discover particular documents before proceeding commenced
+(1) This rule applies if it appears to the Court that
+  (a) a person (the intending plaintiff) is or may be entitled to claim in the Court relief against another person (the intended defendant) but that it is impossible or impracticable for the intending plaintiff to formulate the intending plaintiff's claim without reference to 1 or more documents or group of documents; and
+  (b) there are grounds to believe that the documents may be or may have been in the control of a person (the person), who may or may not be the intended defendant.
+(2) The Court may, on the application of the intending plaintiff made before any proceeding is brought, order the person
+  (a) to file an affidavit stating
+    (i) whether the documents are or have been in the person's control; and
+    (ii) if they have been, but are no longer, in the person's control, the person's best knowledge and belief as to when they ceased to be in the person's control and who now has control of them; and
+  (b) to serve the affidavit on the intending plaintiff.
+(3) An application under subclause (2) must be by interlocutory application made on notice
+  (a) to the person; and
+  (b) to the intended defendant.
+(4) The Court may not make an order under this rule unless satisfied that the order is necessary at the time when the order is made.
+
+### 302 Order for particular discovery against non-party after proceeding commenced
+(1) This rule applies if it appears to the Court that a person who is not a party to a proceeding (the person) may be or may have been in the control of 1 or more documents or a group of documents that the person would have had to discover if the person were a party to the proceeding.
+(2) The Court may, on application, order the person
+  (a) to file an affidavit stating
+    (i) whether the documents are or have been in the person's control; and
+    (ii) if they have been, but are no longer, in the person's control, the person's best knowledge and belief as to when they ceased to be in the person's control and who now has control of them; and
+  (b) to serve the affidavit on a party or parties specified in the order.
+(3) An application for an order under subclause (2) must be made on notice to the person and to every other party who has filed an address for service.
+(4) The Court may not make an order under this rule unless satisfied that the order is necessary at the time when the order is made.
+
+### 303 Expenses
+If an order is made under rule 301(2) or rule 302(2), the Court may, if it thinks fit, order the applicant to pay to the person from whom discovery is sought the person's expenses (including solicitor and client costs) of and incidental to the application and in complying with any order made on the application.
+
+**Discovery: Affidavits of documents, privilege, and public interest**
+
+### 304 Incorrect affidavit of documents to be amended
+If, by reason of any change of circumstances or because of an error or omission, an affidavit of documents filed under an order made under any of the provisions of rules 294, 299, and 300 to 302 appears to the person making discovery to be defective or erroneous, the person must promptly file and serve an affidavit that corrects or supplements the affidavit of documents.
+
+### 305 Where process impeded by discovery of irrelevant documents
+If the Court considers that a party has impeded the process of discovery and inspection by including documents in an affidavit that are not required to be included, the Court may order the party to pay costs to a party or parties specified in the order.
+
+### 306 Who may swear affidavit of documents
+(1) When the Court makes an order under any of the provisions of rules 294, 299, and 300 to 302, it may
+  (a) specify by name or otherwise the person to make the affidavit of documents; or
+  (b) specify by description or otherwise the persons from whom the person required to make discovery may choose the person to make the affidavit.
+(2) If the Court does not specify the person, the affidavit of documents may be made as follows:
+  (a) by the person required to make discovery:
+  (b) if the person required to make discovery is a corporation or a body of persons empowered by law to sue or be sued (whether in the name of the body or in the name of the holder of an office), by a person who meets the requirements of rule 517:
+  (c) if the person required to make discovery is the Crown, an officer of the Crown who sues or is sued in an official capacity, or as representing a Government department, by an officer of the Crown.
+
+### 307 Challenge to privilege or confidentiality claim
+(1) If a party challenges a claim to privilege or confidentiality made in an affidavit of documents, the party may apply to the Court for an order setting aside or modifying the claim.
+(2) In considering the application, the Court may require the document under review to be produced to the Court and inspect it for the purpose of deciding the validity of the claim.
+(3) The Court may
+  (a) set aside the claim to privilege or confidentiality; or
+  (b) modify the claim to privilege or confidentiality; or
+  (c) dismiss the application; or
+  (d) make any other order with respect to the document under review that the Court thinks fit.
+
+### 308 Crown documents and public interest
+Any order made under section 27(1) of the Crown Proceedings Act 1950 must be construed as not requiring disclosure of the existence of any document if
+  (a) the Prime Minister certifies that the disclosure of the existence of that document would be likely to prejudice
+    (i) the security or defence of New Zealand or the international relations of the Government of New Zealand; or
+    (ii) any interest protected by section 7 of the Official Information Act 1982; or
+  (b) the Attorney-General certifies that the disclosure of the existence of that document would be likely to prejudice the prevention, investigation, or detection of offences.
+
+**Inspecting and copying discovered documents**
+
+### 309 Inspection of documents
+(1) As soon as a person who is required to make discovery has served an affidavit of documents, the person must make the documents listed in the affidavit available for inspection by the parties to the proceeding.
+(2) The person is not required to make privileged documents or documents no longer in the person's control available for inspection.
+(3) The person may limit inspection of confidential documents to the persons specified in the affidavit of documents and subject to the restrictions proposed in the affidavit.
+(4) Subclause (1) is subject to subclauses (2) and (3).
+(5) Subclauses (2) and (3) are subject to any contrary order made under rule 307.
+
+### 310 Order facilitating inspection
+(1) The Court may, on application, make any order it thinks appropriate to facilitate the efficient inspection of documents.
+(2) An order under subclause (1) may, for example, require the person who is to produce the documents for inspection to do either or both of the following:
+  (a) arrange the documents in a stated manner or order:
+  (b) assist the party inspecting the documents to locate and identify particular documents or group of documents.
+
+### 311 Cost of production by non-party
+If an order is made under rule 301(2) or rule 302(2), the Court may, if it thinks fit, order that the applicant pay the person from whom discovery is sought that person's expenses (including solicitor and client costs) in making the documents discovered available for inspection by the parties to the proceeding.
+
+### 312 Right to make copies
+(1) A party to whom a document is produced for inspection under rule 309 or rule 310 may make copies of the document.
+(2) On the application of a party to whom a document is produced for inspection under rule 309 or rule 310, the Court may order the person who has control of the document to furnish the applicant with a legible copy.
+(3) An order under subclause (2) may be made on any terms the Court thinks fit, and, in particular, the Court may order the applicant to pay the reasonable expenses of the other party, and may order that the document be marked to the effect that it is a copy furnished for purposes of inspection only.
+(4) A party who obtains a copy under this rule
+  (a) may use that copy only for the purposes of the proceeding; and
+  (b) except for the purposes of the proceeding, must not make it available to any other person.
+
+**Evidentiary provisions related to discovery and inspection**
+
+### 313 Effect of failure to include document
+A document that should have been included in a party's affidavit of documents may be produced in evidence at the hearing only with the consent of the other party or parties or the leave of the Court.
+
+### 314 Admission of documents discovered
+(1) Whenever a party (party A) is permitted to inspect a document specified in an affidavit of documents served by another party (party B) on party A under any of the provisions of rules 294 to 299, party A is (subject to any contrary order by the Court) deemed to have made the following admissions in favour of party B :
+  (a) that the document, if described in the affidavit as an original document, is an original document and was printed, written, signed, or executed as it appears to have been; or
+  (b) that the document, if described in the affidavit as a copy, is a true copy.
+(2) Subclause (1) does not apply if
+  (a) a party has in a pleading denied the authenticity of the document; or
+  (b) within 10 working days after inspecting the document, party A serves on party B a notice disputing the authenticity of the document.
+(3) At the hearing of a proceeding, party A may give secondary evidence of a document and of its contents if
+  (a) the document is shown in an affidavit served in accordance with any of the provisions of rules 294 to 299 to be in the control of party B; and
+  (b) party B has not produced the document after being requested to do so by party A.
+(4) Subclause (3) applies whether or not a notice to produce the document has been served on party B.
+(5) Subclauses (1) to (3) apply, with all necessary modifications, in relation to an affidavit made in compliance with an order under any of the provisions of rules 300 to 302 (which relate to discovery of particular documents) as they apply in relation to an affidavit made under a discovery order.
+
+### 315 Notice to produce documents
+(1) A party to a proceeding may serve on another party a notice requiring the other party to produce a document or thing for the purpose of evidence at the hearing of the proceeding, or before a Judge, officer, examiner, or other person having authority to take evidence in the proceeding.
+(2) If the document or thing is in the control of the party who is served with the notice, the party must, unless the Court otherwise orders, produce the document or thing in accordance with the notice, without the need for a subpoena for production.
+(3) The notice must be treated as an order of the Court to produce the document or thing specified in the notice.
+
+### 316 Notice to admit authenticity of documents
+(1) A party (party A) to a proceeding may, by notice served on another party (party B), require party B to admit, for the purpose of that proceeding only, the authenticity of the documents specified in the notice.
+(2) For the purposes of the proceeding, party B is deemed to have admitted the authenticity of any document specified in the notice unless, within 10 working days after the date on which party B is served with the notice, party B serves on party A a notice disputing the authenticity of the document.
+(3) A party may, with the leave of the Court, withdraw an admission under subclause (2).
+
+### 317 Restricted effect of admission
+An admission under rule 314 or rule 316 for the purpose of a proceeding may not be used against the admitting party in another proceeding.
+
+**Non-compliance by non-parties with orders for discovery or inspection**
+
+### 317A Contempt of Court
+(1) Every person is guilty of contempt of Court who,
+  (a) being a person from whom discovery is sought by an order made under rule 301(2) or rule 302(2), wilfully and without lawful excuse disobeys the order or fails to ensure that the order is complied with; or
+  (b) being a person who is not a party to the proceeding and who is required by an order made under rule 310 to produce for inspection the whole or part of a document, wilfully and without lawful excuse disobeys the order or fails to ensure that it is complied with.
+(2) Nothing in this rule limits or affects any power or authority of the Court to punish any person for contempt of Court.
+
+**Medical examinations under section 100(1) of the Act**
+
+### 318 Order for medical examination
+(1) An order under section 100(1) of the Act may be made
+  (a) At any time after pleadings are closed, on the application of any party to the proceeding; or
+  (b) By the Court of its own motion.
+(2) The time and place of the examination shall be fixed by the order.
+
+### 319 Report
+An order made under section 100(1) of the Act shall require any medical practitioner making the examination
+  (a) To furnish to the Court, within such time as may be specified in the order, a report in writing setting out
+    (i) The medical practitioner's clinical findings; and
+    (ii) The medical practitioner's opinion of the physical condition or mental condition or both of the person examined so far as the same is relevant to the matter in question in the proceeding; and
+    (iii) Where appropriate, the medical practitioner's prognosis in respect of the condition; and
+  (b) If the order was obtained on the application of any party, to deliver to that party within the same time, a copy of the report furnished to the Court.
+
+### 320 Service of report
+(1) The party to whom the copy of the report is delivered under rule 319(b) shall forthwith serve a copy of the report on the person examined or that person's solicitor.
+(2) If the order under section 100(1) of the Act was made by the Court of its own motion, the Registrar shall, as soon as practicable after the report is furnished to the Court, serve a copy of the report on the parties to the proceeding.
+
+### 321 Evidence of medical practitioner where medical examination ordered
+If the parties do not agree to accept a report obtained pursuant to an order under section 100(1) of the Act, the Court
+  (a) May summon the medical practitioner named in the order to attend at the trial; and
+  (b) May, at such stage of the trial before counsel's addresses as the Court thinks fit, examine the medical practitioner about the matters referred to in the medical practitioner's report; and
+  (c) May permit any party to cross-examine the medical practitioner on the evidence then given.
+
+**Inspection and testing of property**
+
+### 322 Order for inspection, etc
+(1) The Court may, for the purpose of enabling the proper determination of any matter in question in any proceeding, make orders, on terms, for:
+  (a) The inspection of any property:
+  (b) The taking of samples of any property:
+  (c) The making of any observation of any property:
+  (d) The measuring, weighing, or photographing of any property:
+  (e) The making of any experiment on or with any property:
+  (f) The observation of any process.
+(2) An order under subclause (1) may authorise any person to enter any land or do any other thing for the purpose of getting access to the property.
+(3) In this rule property includes any land and any document or other chattel, whether in the ownership, possession, custody, or power of a party or not.
+
+### 323 Notice of application for order for inspection, etc
+A party applying for an order under rule 322 shall, so far as practicable, serve notice of the application on each person who would be affected by the order if made.
+
+**Court appointed experts**
+
+### 324 Appointment of Court expert
+(1) In any proceeding which is to be tried without a jury and in which any question for an expert witness arises, the Court may at any time, of its own motion or on the application of any party, appoint an independent expert or, if more than one such question arises, 2 or more such experts, to inquire into and report upon any question of fact or opinion not involving questions of law or of construction.
+(2) An expert appointed under subclause (1) is referred to in this rule and in rules 325 to 330 as a Court expert.
+(3) Any Court expert in a proceeding shall, if possible, be a person agreed upon by the parties and, failing agreement, shall be appointed by the Court from persons named by the parties.
+(3A) A person appointed as an independent expert in a proceeding under rule 330B(3)(a) may not be appointed as a Court expert unless the parties to the proceeding agree.
+(4) In this rule, expert, in relation to any question arising in a proceeding, means any person who has such knowledge or experience of or in connection with that question that his opinion on it would be admissible in evidence.
+
+### 325 Submission of question to Court expert
+The question to be submitted to the Court expert and the instructions (if any) given to the Court expert shall, failing agreement between the parties, be settled by the Court.
+
+### 326 Report of Court expert
+(1) The Court expert shall send his report to the Court, together with such number of copies thereof as the Court may direct.
+(2) The Registrar shall send copies of the report to the parties or their solicitors.
+(3) The Court may direct the Court expert to make a further or supplemental report.
+(4) Any part of the Court expert's report which is not accepted by all the parties to the proceeding in which it is made shall be treated as information furnished to the Court and shall be given such weight as the Court thinks fit.
+
+### 327 Experiments and tests
+(1) If the Court expert is of opinion that an experiment or test of any kind (other than one of a trifling character) is necessary to enable him to make a satisfactory report, the Court expert
+  (a) Shall inform the parties or their solicitors; and
+  (b) Shall, if possible, make an arrangement with the parties or their solicitors about
+    (i) The expenses involved; and
+    (ii) The persons to attend the experiment or test; and
+    (iii) Any other relevant matters.
+(2) If the parties or their solicitors are unable to agree on any of the matters referred to in subclause (1)(b), the matters on which they are unable to agree shall be settled by the Court.
+
+### 328 Cross-examination of Court expert
+(1) Any party may, within 14 days after receiving a copy of the Court expert's report, apply to the Court for leave to cross-examine the Court expert on his report.
+(2) On an application under subclause (1), the Court shall make an order for the cross-examination of the Court expert by all parties, either
+  (a) At the trial; or
+  (b) Before an examiner at such time and place as may be specified in the order.
+
+### 329 Remuneration of Court expert
+(1) The remuneration of the Court expert shall be fixed by the Court and shall include
+  (a) A fee for his report; and
+  (b) A proper sum for each day during which he is required to be present either in Court or before an examiner.
+(2) The Court may, by the order appointing the Court expert or at any later time, make such order as it thinks fit for and incidental to the payment of the remuneration of the Court expert, including (without limiting the generality of the foregoing provisions of this rule) any one or more of the following:
+  (a) An order directing that the remuneration of the Court expert shall be paid by one or more of the parties and, if more than one, in such proportions as the Court thinks proper:
+  (b) An order that any party or parties give security, on such terms as the Court thinks fit, for the remuneration of the Court expert.
+(3) Where the Court appoints the Court expert of its own motion, the Court, instead of making an order under subclause (2), may, by the order appointing the expert or at any later time, order that the remuneration of the Court expert shall be paid by the chief executive of the Department for Courts out of money appropriated by Parliament for the purpose.
+(4) The provisions of subclauses (2) and (3) are without prejudice to the power of the Court to make an order providing for the payment of the Court expert's remuneration as part of the costs of the proceeding.
+
+### 330 Calling of expert witnesses
+(1) If a Court expert is appointed in a proceeding or interlocutory application,
+  (a) A party may call 1 expert witness to give evidence on the question reported on by the Court expert, if the party gives notice of the party's intention to do so a reasonable time before the trial; but
+  (b) No party may call more than 1 such witness without the leave of the Court.
+(2) The Court shall not grant leave under subclause (1)(b) unless it considers that the circumstances of the case are exceptional.
+
+**Expert evidence generally**
+
+### 330A Expert witness to comply with Code of Conduct
+(1) A party to a proceeding who engages an expert witness must give the expert witness a copy of the Code of Conduct set out in Schedule 4.
+(2) An expert witness must
+  (a) state in any written statement of the proposed evidence of the witness served under rule 441B or rule 441C or at the time of giving any oral evidence or in any affidavit containing the evidence of the expert witness that the expert witness has read the Code of Conduct and agrees to comply with it:
+  (b) comply with the Code of Conduct in preparing any written statement of the proposed evidence of the witness to be served under rule 441B or rule 441C or in giving any oral or affidavit evidence in any proceeding.
+(3) The evidence of an expert witness who has not complied with subclause (2)(a) may be adduced only with the leave of the Court.
+
+### 330B Court may direct conference of expert witnesses
+(1) The Court may, on its own initiative or on the application of a party to a proceeding, direct expert witnesses
+  (a) to confer:
+  (b) on the matters on which the expert witnesses must confer:
+  (c) to confer in the absence of the legal advisers of the parties:
+  (d) to try to reach agreement on matters in issue in the proceeding:
+  (e) to prepare and sign a joint witness statement stating the matters on which the expert witnesses agree and the matters on which they do not agree, including the reasons for their disagreement:
+  (f) to prepare the joint witness statement without the assistance of the legal advisers to the parties.
+(2) The Court may not give a direction under subclause (1)(c) or (f) unless the parties agree.
+(3) The Court may, on its own initiative or on the application of a party to the proceeding,
+  (a) appoint an independent expert to convene and conduct the conference of expert witnesses:
+  (b) give any directions for convening and conducting the conference the Court thinks fit.
+(4) The Court may not appoint an independent expert or give a direction under subclause (3) unless the parties agree.
+(5) Subject to any subsequent order of the Court as to costs, the Court may determine the remuneration of an independent expert and the party by whom it must be paid.
+(6) The matters discussed at the conference of the expert witnesses must not be referred to at the hearing unless the parties by whom the expert witnesses have been engaged agree.
+(7) An independent expert appointed under subclause (3) may not give evidence at the hearing unless the parties agree.
+
+### 330C Status of joint witness statement by expert witnesses
+(1) A joint witness statement prepared by expert witnesses under rule 330B
+  (a) must be circulated by the parties to the proceeding by whom the expert witnesses have been engaged to every other party who has given an address for service; and
+  (b) may be produced in evidence by any expert witness who signed the statement as part of his or her evidence; and
+  (c) may, if the parties to the proceeding agree, be produced in evidence without the need to call any of the expert witnesses who signed the statement.
+(2) Rules 441D to 441L apply, with all necessary modifications, to a joint witness statement as if the statement were a written statement under rule 441B or rule 441C.
+(3) An expert witness is not precluded from giving evidence on any matter at the hearing simply because the expert witness has participated in the preparation of a joint witness statement under rule 330B or because the witness statement is evidence at the hearing under rule 441F.
+
+### 330D Evidence of expert witnesses at trial
+The Court may, at the hearing, direct that the evidence of expert witnesses is given after all or certain factual evidence is given or in an order the Court thinks best suited to the circumstances of the proceeding.
+
+**Interim preservation, etc, of property**
+
+### 331 Preservation of property
+(1) In any proceeding, the Court may make orders for the detention, custody, or preservation of any property.
+(2) An order under subclause (1) may authorise any person to enter any land or to do any other thing for the purpose of giving effect to the order.
+(3) In a proceeding concerning the right of any party to a fund, the Court may order that the fund be paid into Court or otherwise secured.
+
+### 332 Sale of perishable property, etc
+Where in any proceeding concerning any property (other than land) or in any proceeding in which any question may arise concerning any property (other than land), it appears to the Court thatthe Court, on the application of any party to a proceeding, may make an order for the sale of the property, by a person named in the order, in such manner and on such terms as the Court thinks appropriate.
+  (a) The property is of a perishable nature or is likely to deteriorate by keeping; or
+  (b) For any other reason it is desirable that the property should be sold before trial,
+
+### 333 Interim distribution
+Where, in a proceeding concerning property, it appears to the Court that the property is more than sufficient to answer the claims on the property for which provision ought to be made in the proceeding, the Court may allow any part of the property to be conveyed, transferred, or delivered to any person having an interest in the property.
+
+### 334 Interim income
+Where, in a proceeding concerning property, it appears to the Court that the whole or any part of the income of the property is not required to answer the claims on the property or its income for which provision ought to be made in the proceeding, the Court may allow that income or part to be paid, during such period as the Court may determine, to all or any of the persons having an interest in the income.
+
+### 335 Directions
+Where application is made for an order under rule 331 or rule 332, the Court may treat the application as though it were also an application for directions under rule 425 and may give directions accordingly.
+
+### 336 Time and terms for order
+The Court may make orders under rules 331 to 335 on terms and at any stage of the proceeding.
+
+**Receivers**
+
+### 337 Application
+Rules 338 to 345 apply whenever the Court appoints a receiver and shall have effect subject to the express provisions of any order by which a receiver is appointed.
+
+### 338 Address for service
+A receiver shall, within 7 days after his appointment, file a notice specifying an address for service.
+
+### 339 Security
+(1) Where the Court appoints a receiver, the Court may give directions for the giving by the receiver of security in accordance with this rule.
+(2) Where the Court directs the appointment of a receiver, then, unless the Court otherwise orders, a person shall not be appointed receiver pursuant to the direction until he has given a security in accordance with this rule.
+(3) Subclauses (1) and (2) shall have effect subject to any provision for the time being in force made by or under any Act.
+(4) Security to be given in accordance with this rule shall be a security approved by the Registrar that the receiver will account for what he receives as receiver and will deal with what he receives as the Court may direct.
+(5) Where the Court has directed security to be given the Court may
+  (a) Vary such order; or
+  (b) Order the security to be varied or discharged.
+
+### 340 Remuneration
+(1) A receiver shall be allowed such remuneration as may be fixed by the Court.
+(2) The Court may, by the order appointing a receiver or at any later time, direct the party or parties by whom the receiver's remuneration shall be paid and, if more than one, in what proportions.
+(3) Without prejudice to the provisions of subclause (2), the Court may order any party or parties to give security for the receiver's remuneration.
+
+### 341 Accounts
+A receiver shall file accounts at such intervals or on such dates as the Court may direct.
+
+### 342 Appointment to pass accounts
+(1) The receiver
+  (a) Shall, on the day on which he files an account, obtain an appointment to pass the account; and
+  (b) Shall serve the account, with a note of the appointment, on each party interested who has given an address for service in the proceeding.
+(2) The receiver shall, unless the Court otherwise orders, attend on the appointment to pass the account.
+
+### 343 Default
+(1) Where a receiverthe Court may make such orders and give such directions as the Court thinks fit.
+  (a) Is required by these rules or by an order or direction of the Court
+    (i) To file any account or affidavit; or
+    (ii) To attend on an appointment to pass his account; or
+    (iii) To do any other thing; and
+  (b) Does not carry out the requirement,
+(2) Orders and directions made under subclause (1) may include orders and directions for
+  (a) The discharge of the receiver; and
+  (b) The appointment of another receiver; and
+  (c) The payment of costs.
+(3) Without limiting subclauses (1) and (2), where a receiver is required by these rules or by an order or direction of the Court to pay into Court any sum shown by his account as due from him, and he does not carry out the requirement, the Court may charge him with interest at the rate from time to time prescribed for the purposes of section 87 of the Act.
+(4) This rule does not limit the powers of the Court to enforce orders or to punish contempt.
+
+### 344 Powers
+(1) The Court may authorise a receiver to do (either in his own name or in the name of the parties or any of them and either generally or in any particular instance) any act or thing which the parties or any of them might do if of full age and capacity.
+(2) Subclause (1) has effect notwithstanding that the parties or any of them are not of full age and capacity.
+(3) This rule does not limit the powers of the Court apart from this rule to authorise a receiver to do any act or thing.
+
+### 345 Account on death of receiver
+(1) Where the receiver in any proceeding dies, the Court may, on application in the proceeding, make such orders as the Court thinks fit for the filing and passing of accounts by the personal representatives of the deceased receiver and for the payment into Court of any amount shown to be due.
+(2) The Court shall not make any order under subclause (1) unless notice of the application has been served on the personal representatives.
+
+### 346 Service of notice of application for account on death of receiver
+Notice of an application under rule 345 may be served in any manner in which a statement of claim may be served.
+
+**Interim payments**
+
+### 346A Interpretation
+In rules 346B to 346J, interim payment means a payment on account of any damages, debt, or other sum (excluding costs) which the defendant in a proceeding may be held liable to pay to or for the benefit of the plaintiff in that proceeding.
+
+### 346B Application for interim payment
+(1) The plaintiff in a proceeding may, at any time after the statement of claim and notice of proceeding have been served on a defendant and the time for the filing a statement of defence by that defendant expired, apply to the Court for an order requiring that defendant to make an interim payment.
+(2) An application under this rule shall be supported by an affidavit which shall
+  (a) Verify the amount of the damages, debt, or other sum to which the application relates and the grounds of the application; and
+  (b) Exhibit any documentary evidence relied on by the plaintiff in support of the application.
+(3) The application and a copy of the affidavit in support and any documents annexed thereto shall be served on the defendant against whom the order is sought not less than 10 clear days before the date fixed for the hearing of the application.
+(4) Notwithstanding the making or refusal of an order for an interim payment, a second or subsequent application may be made upon cause shown.
+
+### 346C Order for interim payment in respect of damages
+If, on the hearing of an application under rule 346B, the Court is satisfiedthe Court may, if it thinks fit, order that defendant to make an interim payment of such amount as it thinks just, not exceeding a reasonable proportion of the damages which in the opinion of the Court are likely to be recovered by the plaintiff after taking into account any relevant contributory negligence and any set-off, cross-claim, or counterclaim on which the defendant may be entitled to rely.
+  (a) That the defendant against whom the order is sought has admitted liability for the plaintiff's damages; or
+  (b) That the plaintiff has obtained, against the defendant against whom the order is sought, judgment for damages to be assessed; or
+  (c) That, if the proceeding were tried, the plaintiff would obtain judgment for substantial damages against the defendant against whom the order is sought, or, where there are two or more defendants, against any of them
+
+### 346D Order for interim payment in respect of sums other than damages
+If, on the hearing of an application under rule 346B, the Court is satisfiedthe Court may, if it thinks fit, and without prejudice to any contentions of the parties as to the nature or character of the sum to be paid by the defendant, order the defendant to make an interim payment of such amount as it thinks just, after taking into account any set-off, cross-claim, or counterclaim on which the defendant may be entitled to rely.
+  (a) That the plaintiff has obtained an order for an account to be taken as between the plaintiff and the defendant and for any amount certified due on taking the account to be paid; or
+  (b) That the plaintiff's claim includes a claim for possession of land and, if the proceeding were tried, the defendant would be held liable to pay to the plaintiff a sum of money in respect of the defendant's use and occupation of the land during the pendency of the proceeding, even if a final judgment or order were given or made in favour of the defendant; or
+  (c) That, if the proceeding were tried, the plaintiff would obtain judgment against the defendant for a substantial sum of money apart from any damages or costs,
+
+### 346E Manner of payment
+(1) Subject to subclause (2), the amount of any interim payment ordered to be made shall be paid to the plaintiff unless the order provides for it to be paid into Court, and where the amount is paid into Court, the Court may, on the application of the plaintiff, order the whole or any part of it to be paid out to the plaintiff at such time or times as the Court thinks fit.
+(2) Where a minor, except a minor to whom rule 85(2) applies, or an incapacitated person is or may be entitled to an interim payment, or to part of an interim payment, under these rules,
+  (a) acceptance of that payment is subject to the approval of the Court; and
+  (b) payment out of Court must not be made without the leave of the Court.
+(3) An application under subclause (1) for money in Court to be paid out may be made ex parte, but the Court hearing the application may direct that notice of the application be served on the other party.
+(4) An interim payment may be ordered to be made in one sum or by such instalments as the Court thinks fit.
+(5) Where a payment is ordered in respect of the defendant's use and occupation of land, the order may provide for periodical payments to be made during the pendency of the proceeding.
+
+### 346F Directions on application under rule 346B
+Where an application is made under rule 346B, the Court may give directions as to the further conduct of the proceeding as the Court thinks fit, and, in particular, the Court may order an early trial of the proceeding.
+
+### 346G Non-disclosure of interim payment
+The fact that an order has been made under rule 346C or rule 346D shall not be pleaded and, unless the defendant consents or the Court so directs, no communication of that fact or of the fact that an interim payment has been made, whether voluntarily or pursuant to an order, shall be made to the Court at the trial, or hearing, of any question or issue as to liability or damages until all questions of liability and amount have been determined.
+
+### 346H Payment into Court in satisfaction
+Where, after making an interim payment, whether voluntarily or pursuant to an order, a defendant pays a sum of money into Court under rule 347, the notice of payment into Court must state that the defendant has taken into account the interim payment.
+
+### 346I Adjustment on final judgment or order or on discontinuance
+Where a defendant has been ordered to make an interim payment or has in fact made an interim payment, whether voluntarily or pursuant to an order, the Court may, in giving or making a final judgment or order, or granting the plaintiff leave to discontinue the proceeding or to withdraw the claim in respect of which the interim payment has been made, or at any other stage of the proceeding on the application of any party, make such order with respect to the interim payment as may be just, and, in particular,
+  (a) An order for the repayment by the plaintiff of all or part of the interim payment; or
+  (b) An order for the payment to be varied or discharged; or
+  (c) An order for the payment by any other defendant of any part of the interim payment which the defendant who made it is entitled to recover from that other defendant by way of contribution or indemnity or in respect of any remedy or relief relating to or connected with the plaintiff's claim.
+
+### 346J Counterclaims and other proceedings
+Rules 346A to 346I shall apply, with the necessary modifications, to any counterclaim or proceeding where one party seeks an order for an interim payment to be made by another.
+
+**Payment into Court**
+
+### 347 Payment of a sum of money into Court
+[Repealed]
+
+### 348 Time of payment into Court
+[Repealed]
+
+### 349 Notice of payment
+[Repealed]
+
+### 350 Place of payment where hearing held at different Court
+[Repealed]
+
+### 351 Restrictions on disclosure of payment into Court
+[Repealed]
+
+### 352 Acceptance and payment out
+[Repealed]
+
+### 353 Acceptance in respect of general damages only
+[Repealed]
+
+### 354 Restriction on acceptance after commencement of trial
+[Repealed]
+
+### 355 Refund in event of non-acceptance
+[Repealed]
+
+### 356 Restrictions on payment out
+[Repealed]
+
+### 357 Admission of part of relief claimed or of other relief
+[Repealed]
+
+### 358 Money paid in with admission of liability on claim for liquidated demand
+[Repealed]
+
+### 359 Consequences of acceptance of payment or relief offered
+[Repealed]
+
+### 360 Consequences of non-acceptance of payment or relief offered
+[Repealed]
+
+### 361 Offer of contribution
+[Repealed]
+
+### 362 Amendment of notice of payment
+[Repealed]
+
+### 363 Interest
+[Repealed]
+
+### 364 Counterclaim
+[Repealed]
+
+### 365 Payments to be made to solicitor
+[Repealed]
+
+### 366 Payment out when person entitled under disability
+[Repealed]
+
+### 367 Application of rules to admissions of relief
+[Repealed]
+
+### 368 Forms
+[Repealed]
+
+**Evidence by deposition**
+
+### 369 Order for examination of witness or for letters of request
+(1) Where in any proceeding any party desires to have the evidence of any person or persons taken otherwise than at the time and place appointed or to be appointed for the trial of the proceeding, the Court may, on application by that party, make orders on such terms as it thinks fit
+  (a) For the examination of any person on oath before a Judge or any Registrar or Deputy Registrar or before such other person as the Court may appoint (in rules 370 to 375 referred to as the examiner) at any place whether in or out of New Zealand; or
+  (b) For the sending of a letter of request to the judicial authorities of another country, to take, or cause to be taken, the evidence of any person.
+(2) On the application of any opposite party and upon being satisfied that the party securing an order under subclause (1) is not proceeding with due diligence to implement the order, the Court may rescind the order and may make such other order as justice requires.
+
+### 370 Security for costs
+On any application for an order under rule 369 for the taking of evidence out of New Zealand, the Court may, as a condition of making the order, require the party applying to give security for
+  (a) The estimated fees and expenses of the examiner; and
+  (b) The costs of any opposite party of and incidental to the taking of the evidence, in such amount as the Court thinks fit, but not exceeding the estimated reasonable solicitor and client costs and disbursements of that opposite party.
+
+### 371 Documents for examiner
+(1) The party obtaining an order for examination before an examiner shall, unless the examination is conducted by the Registrar or Deputy Registrar at the Court where the file of the proceeding is held, furnish the examiner with copies of such of the documents in the proceeding as are necessary to inform the examiner of the matters to which the examination is to relate.
+(2) Where the documents in the proceeding are not sufficient to inform the examiner of the matters to which the examination is to relate, the Court shall, in the order for examination or in a later order, state those matters.
+
+### 372 Procedure for examination before examiner
+(1) On receipt of a copy of the order for examination, the examiner shall appoint a time and place for the examination and shall give notice thereof to all parties.
+(2) The examiner may adjourn the examination from time to time and from place to place as may be necessary or expedient.
+(3) The examiner may administer an oath to each witness examined and each witness may be examined, cross-examined, and re-examined as at the hearing of a proceeding.
+(4) The examiner shall cause to be put down in writing the evidence tendered at the examination, together with notes as to any objections to the evidence.
+(5) The depositions so taken shall be signed on each page by the witness and by the examiner.
+(6) The depositions when taken shall be securely fastened together and shall, together with the exhibits and the report of the examiner, be sent without delay to the office of the Court in which the file of the proceeding is for the time being held.
+(7) If, at the time and place appointed for the examination or at any adjournment, there is no appearance by or on behalf of the party obtaining the order or the witness does not attend, or if, at that time and place, the applicant intimates that it is not intended to proceed with the taking of the evidence, the examiner may send a certificate to that effect to the office of the Court in which the file of the proceeding is for the time being held.
+(8) On application to the Registrar any party may inspect any depositions taken under this rule and make copies of them or extracts from them.
+
+### 373 Examination of additional persons
+The examiner may, with the consent in writing of each party to the proceeding, take the examination of any person in addition to the person named or provided for in the order for examination and, if he does so, the consent of each of the parties shall be annexed to the deposition of that person.
+
+### 374 Objection to question
+Where objection is taken to a question put to a person being examined before an examiner, or a person being so examined takes objection to answering a question put to him or to produce any document or any thing
+  (a) The examiner shall state to the parties his opinion on, but shall not decide, the validity of the ground for objection; and
+  (b) The question, the ground for the objection, the opinion of the examiner, and the answer (if any) to the question shall be set out in the deposition of that person or in a statement attached to the deposition; and
+  (c) The Court may, on application by any party, decide the validity of the ground for the objection.
+
+### 375 Form of report
+The report of the examiner may be in form 32.
+
+### 376 Depositions as evidence
+Any depositions taken in accordance with these rules pursuant to an order under rule 369 may be tendered in evidence at the trial of the proceeding and shall be admitted subject to all just exceptions.
+
+### 377 Letters of request where Convention exists
+Where a Convention is in force between the Sovereign of a country and the Sovereign of New Zealand or the Government of a country and the Government of New Zealand relating to the taking of evidence in that country for use in New Zealand, the provisions of rules 378 to 380 shall apply subject to any special provisions contained in the Convention.
+
+### 378 Issue of letters of request
+(1) Where an order has been made for the issue of a letter of request, the party obtaining the order shall
+  (a) Lodge with the Registrar
+    (i) A form of the appropriate letter of request; and
+    (ii) The interrogatories and cross-interrogatories (if any) to accompany the letter of request; and
+    (iii) Where required by the Convention, a translation of each of the documents mentioned in subparagraphs (i) and (ii) into the language, or an appropriate language, of the country concerned; and
+  (b) File
+    (i) A copy of each of the documents mentioned in paragraph (a); and
+    (ii) A personal undertaking by the party obtaining the order or his solicitor to be responsible for all expenses in respect of the execution of the letter of request incurred by the Court or by any person at the request of the Court, and, on being given notice of the amount of any such expenses, to pay such amount forthwith into the Crown Bank Account and produce evidence of such payment to the Registrar.
+(2) The correctness of every translation shall be certified or otherwise verified to the satisfaction of the Registrar.
+(3) The Registrar may require security to his satisfaction in lieu of an undertaking under subclause (1)(b)(ii).
+(4) The letter of request shall be in such form as the Court may approve and shall be issued under the hand of a Judge and the seal of the Court.
+
+### 379 Agents of parties
+The party obtaining an order for the issue of a letter of request shall file a statement of the names and addresses of the persons in the country to which the letter of request is directed who have been appointed by the respective parties as their agents in connection with the execution of the letter of request.
+
+### 380 Consequences of non-compliance with undertaking as to expenses
+Where a party who has given an undertaking under rule 378(1)(b)(ii) does not, within 7 days after service on him of notice of the amount of the expenses concerned, pay the amount of the expenses to the Registrar, the Court may, on application by the Registrar,
+  (a) Order the party to pay the amount of the expenses to the Registrar; and
+  (b) Until payment, stay the proceeding as far as concerns the whole or any part of any claim for relief by that party; and
+  (c) Strike out any statement of defence filed by that party.
+
+### 381 Application by Solicitor-General on letters of request from abroad
+Where, in any proceedings to which sections 182 to 187 of the Evidence Act 2006 apply, a letter of request is received in any office of the Court and it does not appear that the same is desired or intended to be carried into effect by an application to the Court made by the agent in New Zealand of a party to the proceedings, the Registrar shall transmit the same to the Solicitor-General, who may thereupon make such application and take such steps as may be necessary to give effect to the same.
+
+**Consolidation of proceedings**
+
+### 382 When order may be made
+Where 2 or more proceedings are pending and it appears to the Courtthe Court may order those proceedings to be consolidated on such terms as it thinks just, or may order them to be tried at the same time or one immediately after another, or may order any of them to be stayed until after the determination of any other of them.
+  (a) That some common question of law or fact arises in both or all of them; or
+  (b) That the rights to relief claimed therein are in respect of or arise out of
+    (i) The same event; or
+    (ii) The same transaction; or
+    (iii) The same event and the same transaction; or
+    (iv) The same series of events; or
+    (v) The same series of transactions; or
+    (vi) The same series of events and the same series of transactions; or
+  (c) That for some other reason it is desirable to make an order under this rule,
+
+### 383 Application of rule 382
+Rule 382 shall apply notwithstanding
+  (a) That the relief claimed in the proceedings is not the same; or
+  (b) That one or more of the proceedings
+    (i)
+    (ii) Is pending in the Court in the exercise of its Admiralty jurisdiction; or
+    (iii) Is brought pursuant to the provisions of an Act conferring special jurisdiction on the Court.
+
+**Arbitration by consent**
+
+### 383A Arbitration by consent
+(1) The parties to a proceeding may agree to arbitration of their dispute or any part of it under the Arbitration Act 1996 at any time during the course of the proceeding.
+(2) If an arbitration agreement entered into during the course of a proceeding relates to all the matters in dispute in the proceeding, the Court must stay the proceeding.
+(3) If an arbitration agreement entered into during the course of a proceeding relates to some but not all of the matters in dispute in the proceeding, the Court must stay those parts of the proceeding to which the arbitration agreement relates.
+(4) Subclauses (2) and (3) do not apply if the Court finds that the agreement has no effect or is inoperative or incapable of being performed.
+
+**Accounts and inquiries**
+
+### 384 When accounts and inquiries may be ordered
+The Court may, on the application of any party, before, at, or after the trial of a proceeding, make orders for the taking of any account or the making of any inquiry, whether or not that relief has been claimed in that party's pleading.
+
+### 385 Directions
+Where the Court makes an order for the taking of an account or the making of an inquiry, the Court may, by the same or a subsequent order
+  (a) Give directions or further directions as to the account or inquiry:
+  (b) Order additional accounts or inquiries:
+  (c) Direct that, in the taking of any account, the relevant books of account shall be prima facie evidence of the truth of the matters contained in them.
+
+### 386 Summary order for accounts
+(1) Subject to subclause (2), where a party in his pleading claims an account or makes a claim which involves taking an account, the Court may, on application by that party at any stage of the proceeding, order that an account be taken and that any amount certified on taking the account to be due to any party be paid to him.
+(2) The Court shall not make an order under subclause (1)
+  (a) If it appears that there is some preliminary question to be determined; or
+  (b) As against a defendant who has not filed a statement of defence or an appearance, until the time for filing a statement of defence has expired.
+
+### 387 Mutual accounts
+(1) Where, on any application for an order under rule 384 or rule 386 for the taking of an account, it appears to the Court that by reason of the relationship of the parties or their course of dealing or for any other reason each is accountable to the other, the Court may order that accounts be taken between them on that footing.
+(2) At the time of making an order under subclause (1), or at any time thereafter, the Court may direct
+  (a) That the result of taking the account be certified as the net balance found to be due to one party; or
+  (b) That the certificate show the amounts shown to be due to the respective parties.
+
+### 388 Before whom accounts may be taken
+(1) Accounts may be ordered to be taken before
+  (a) The Registrar; or
+  (b) An accountant; or
+  (c) The Registrar and an accountant.
+(2) Unless otherwise ordered, any accountant who takes an account shall be a member of the Institute of Chartered Accountants of New Zealand who is classified as a chartered accountant in public practice.
+
+### 389 Remuneration of accountant
+(1) Where, pursuant to rule 388, accounts are ordered to be taken by an accountant, the remuneration of the accountant shall be fixed by the Court.
+(2) The Court may by the order for the taking of accounts or at any later time make such order as it thinks fit for and incidental to the payment of the remuneration of the accountant, including (without limiting the generality of the foregoing provisions of this rule) any one or more of the following:
+  (a) An order directing that the remuneration of the accountant shall be paid by one or more of the parties and, if more than one, in such proportions as the Court thinks proper:
+  (b) An order that any party or parties give security, on such terms as the Court thinks fit, for the remuneration of the accountant.
+(3) The provisions of subclause (2) are without prejudice to the power of the Court to make an order providing for the payment of the accountant's remuneration as part of the costs of the proceeding.
+
+### 390 Form, etc, of accounts
+(1) This rule and rules 391 to 404 apply subject to any order or direction made or given under rule 385 or rule 387.
+(2) In this rule and in rules 391 to 404, accounting party
+  (a) Means the party required by the order for the taking of an account to account to the other; and
+  (b) In a case coming within rule 387, means each party.
+
+### 391 Form and verification of account
+(1) The items on each side of an account shall be numbered consecutively.
+(2) An accounting party shall verify his account by affidavit and the account shall be made an exhibit to the affidavit.
+
+### 392 Filing and service of account
+An accounting party shall, within 14 days after the order for taking the account has been served on him,
+  (a) File his account and verifying affidavit; and
+  (b) Serve a copy of his account and verifying affidavit on each other party.
+
+### 393 Notice of surcharge
+Where a party seeks to charge an accounting party with the receipt of an amount beyond that admitted by the accounting party in his account, he shall, within 14 days after being served with the account, give to the accounting party notice of the charge stating, so far as he is able, the amount which he seeks to charge, with brief particulars.
+
+### 394 Notice of error
+Where a party alleges that any item in the account of an accounting party is erroneous in amount or otherwise, he shall, within 14 days after being served with the account, give to the accounting party notice of the allegation, stating the grounds for alleging the error.
+
+### 395 Admission of items
+Except to the extent shown in a notice given under rule 393 or rule 394, all items in the account shall be deemed to be admitted as correct.
+
+### 396 Appointment and notice for taking accounts
+As soon as may be after the accounting party has filed his account, the person or persons before whom the account is to be taken
+  (a) Shall appoint a time (not being less than 21 days after the day of the filing of the account) and a place for taking the account; and
+  (b) Shall give notice of that time and place to the parties not less than 7 days before the day on which the account is to be taken.
+
+### 397 Parties to attend taking of account
+At the time and place appointed under rule 396, the parties or their solicitors or counsel shall attend and, on being satisfied that notice of the appointment has been duly given and received, the person or persons before whom the account is to be taken may thereupon proceed therewith, notwithstanding the absence of any party.
+
+### 398 Adjournment
+The person or persons before whom the account is to be taken may adjourn the taking thereof from time to time and from place to place as may be necessary or expedient.
+
+### 399 Power of summary decision
+(1) Where accounts have been ordered to be taken, the accountant or the Registrar or the accountant and the Registrar, as the case may be, shall have the power to decide summarily on all disputed items of account.
+(2) Notwithstanding subclause (1)
+  (a) Any item may be referred for the decision of the Court by
+    (i) Any party; or
+    (ii) The accountant or the Registrar or the accountant and the Registrar, as the case may be; and
+  (b) All items of account in respect of which the Registrar and the accountant disagree shall be referred for the decision of the Court.
+
+### 400 Examination of accounting party
+Where any item has been referred to the Court under rule 399(2), the Court may, on the application of a party who has given a notice under rule 393 or rule 394, order that the accounting party appear before the Court to be examined orally with regard to the disputed item of account.
+
+### 401 Production of vouchers
+When required by written notice to that effect, the accounting party shall produce, at the taking of the account or at his examination under rule 400, all vouchers in his possession or power relating to any disputed item of account specified in the notice.
+
+### 402 Interest on debts of deceased person
+Where a judgment or order is made directing an account of the debts of a deceased person, interest shall be computed on such debts, unless otherwise ordered, from the date of the judgment, and as to such of them as carry interest, at the rate they respectively carry, and as to all others at the rate from time to time prescribed for the purposes of section 87 of the Act or such lower rate as the Court may order.
+
+### 403 Interest on legacies
+Where a judgment or order is made directing an account of legacies, interest shall be computed on such legacies, unless otherwise ordered, at the rate for the time being prescribed by or under section 39 of the Administration Act 1969 from the end of one year after the death of the deceased, unless any other time of payment or rate of interest is directed by the will, and in that case according to the will.
+
+### 404 Just allowances
+In taking an account all just allowances shall be made.
+
+### 405 Directions as to inquiries, etc
+The Court may direct that inquiries as to next of kin, creditors, and other claimants, or as to any other matters of like nature, shall be made by or before the Registrar or any other person, at such time and in such manner as the Court may direct.
+
+**General provisions affecting accounts and inquiries**
+
+### 406 Powers of persons taking accounts or making inquiries
+The person or persons before whom accounts are directed to be taken or inquiries made under rule 388 or rule 405 may, as he or they think fit,
+  (a) Issue advertisements; and
+  (b) Summon parties and witnesses; and
+  (c) Administer oaths; and
+  (d) Receive affidavits and acknowledgments; and
+  (e) Examine parties and witnesses either upon interrogatories or viva voce.
+
+### 407 Duty of persons summoned to attend
+(1) Persons so summoned shall be bound to attend in accordance with the summons, and to attend further from time to time without further summons, at such times as may be appointed for the consideration or further consideration of the matter.
+(2) If any person so summoned fails so to attend, that person shall be liable to the same extent as if that person had disobeyed an order of the Court.
+
+### 408 Time for proving claims
+The time to be allowed for persons to come in and prove their claims (as creditors, next of kin, etc) shall be fixed by the Court and shall not be less than one clear month after the date of the first publication of the advertisement to come in and prove.
+
+### 409 Statement of claim to be filed
+Every person coming in to claim as creditor or next of kin or otherwise shall file a statement of claim verified by affidavit.
+
+### 410 Failure to claim within time
+Subject to sections 75, 76, and 76A of the Trustee Act 1956, all persons who do not come in and prove their claims within the time fixed for that purpose by advertisement shall be excluded from the benefit of the judgment or order directing accounts or enquiries.
+
+### 411 Result to be certified
+The result of any accounts or inquiries shall not, unless the Court so directs, be embodied in a formal report but shall be stated in a short certificate to the Court.
+
+### 412 Certificate when approved to be signed by Judge
+When the Court approves a certificate or report given under rule 411, that certificate or report shall be signed as adopted by a Judge.
+
+### 413 Party may take opinion of Court
+Any party may, either while any accounts are being taken or inquiries made, or within 14 clear days after such accounts or inquiries have been completed, and before the certificate or report has been signed as adopted, take the opinion of the Court on any particular point or matter arising in the course thereof or on the general result thereof when completed.
+
+### 414 Effect of certificate when filed
+(1) When any certificate or report has been signed as adopted by the Judge, it shall be filed in the office of the Court and shall thenceforth be binding on all parties to the proceeding, unless discharged or varied by the Court upon application made within one month.
+(2) Nothing in this rule shall prejudice or affect the power of the Court at any time to re-open any certificate or report upon the grounds of fraud, surprise, or mistake.
+
+### 415 Distribution before all persons entitled are ascertained
+Where some of the persons entitled to share in a fund are ascertained, and difficulty or delay has occurred or is likely to occur in ascertaining the other persons so entitled, the Court may order or allow immediate payment of their shares to the persons ascertained without reserving any part of those shares to meet the subsequent costs of ascertaining those other persons.
+
+### 416 Payment of share carried over to separate trust account
+Where the rights or circumstances of the parties at the time judgment is given are not such as to enable the Court to order absolutely that payment be made to the persons entitled thereto, and the Court has ordered the share of any party which has not become absolute to be carried over on trust in the proceeding to a separate account, such party on becoming entitled may apply for payment of his share on notice to the other persons interested in the separate account, whereupon payment to the party so entitled may be ordered.
+
+**Inquiries under Companies Act 1955 as to debts, claims, or liabilities**
+
+### 416A Application of rules 416B to 416K
+The provisions of rules 416B to 416K apply in any case where the Court makes, under rule 458A(3), an order for an inquiry of the kind described in rule 458A(4).
+
+### 416B Affidavit as to creditors
+(1) The company shall, within 7 days after the order or such further or other time as the Court allows, file in the registry an affidavit made by some officer or officers of the company competent to make it, verifying a list containing so far as possible the names, addresses, and descriptions of the creditors of the company to whom the inquiry extends.
+(2) The list shall also contain the amounts due to the creditors therein named respectively in respect of debts, claims, or liabilities to which the inquiry extends, or in the case of any such debt payable on a contingency or not ascertained or any such claim admissible against a company in liquidation, the value, so far as can be justly estimated, of the debt or claim.
+(3) Every such list shall be annexed to the affidavit verifying it.
+
+### 416C Form of affidavit
+The person making the affidavit required by rule 416B shall state therein
+  (a) That person's belief
+    (i) That the list verified by the affidavit is correct; and
+    (ii) That there was not, at the date by reference to which the list of creditors is made out, any debt, claim, or liability which, if that date were the commencement of the liquidation of the company, would be admissible as a claim against the company, except the debts, claims, and liabilities set forth in the list and any debts, claims, or liabilities to which the inquiry does not extend; and
+  (b) That person's means of knowledge of the matters deposed to in the affidavit.
+
+### 416D Inspection of list of creditors
+(1) Copies of the list containing the names, addresses, and descriptions of the creditors, and the total amount so due to them (including the value of any debts or claims estimated as aforesaid), but omitting the individual amounts so due to them respectively, or (as the Court thinks fit) complete copies of the list, shall be kept,
+  (a) At the registered office of the company; and
+  (b) At the office of the solicitors of the company; and
+  (c) At the address for service of the company.
+(2) Any person desirous of inspecting the copies referred to in subclause (1) may at any time during the ordinary hours of business inspect and take extracts from them.
+
+### 416E Notice to creditors
+(1) The company shall, within 7 days after the filing of the affidavit or such further or other time as the Court may allow, send to each creditor whose name is entered on the list a notice stating
+  (a) The amount of the proposed reduction in capital; and
+  (b) The effect of the order directing the inquiry; and
+  (c) The amount or estimated value of the debt or the contingent debt or claim or both for which the creditor is entered on the list; and
+  (d) The time (that time to be fixed by the Court) within which, if the creditor claims to be entitled to be entered on the list as a creditor for a larger amount, the creditor must send in to the solicitor of the company
+    (i) The creditor's name, address, and description; and
+    (ii) Particulars of the creditor's debt or claim; and
+    (iii) The name and address of the creditor's solicitor (if any).
+(2) Every notice under subclause (1) shall be sent through the post in a prepaid letter addressed to each creditor at the creditor's last known business or residential address or place of abode.
+
+### 416F Advertisement of application and list of creditors
+(1) Notice of the filing of the proceeding under the Companies Act 1955, of the effect of the order directing the inquiry, and of the list of creditors shall, after the filing of the affidavit mentioned in rule 416B be published at such times and in such newspapers as the Court directs.
+(2) Every notice under subclause (1) shall state
+  (a) The amount of the proposed reduction of capital; and
+  (b) The places where the list of creditors may be inspected; and
+  (c) The time within which creditors of the company who are not, but are entitled to be, entered on the list, and are desirous of being entered thereon, must send into the solicitor of the company.
+    (i) Their names, addresses, and descriptions; and
+    (ii) The names and addresses of their solicitors (if any)
+(3) Every notice under subclause (1) may be in form 32A, with such variations as the circumstances of the case may require.
+
+### 416G Affidavit as to results of rules 416E and 416F
+(1) The company shall, within such time as the Court directs, file in the registry an affidavit made by the person to whom the particulars of debts or claims are, by such notices as are mentioned in rules 416E and 416F, required to be sent in
+  (a) Stating the result of the notices respectively; and
+  (b) Verifying a list containing the names, addresses, and descriptions of the persons (if any) who have sent in the particulars of their debts or claims in pursuance of the notices respectively, and the amounts of those debts and claims.
+(2) Some competent officer or officers of the company shall join in the affidavit, and shall in the list distinguish
+  (a) Which (if any) of the debts and claims are wholly, or as to any and what part thereof, admitted by the company; and
+  (b) Which (if any) of the debts and claims are wholly, or as to any and what part thereof, disputed by the company; and
+  (c) Which (if any) of the debts and claims are alleged by the company to be wholly, or as to any and what part thereof, not included in the inquiry.
+(3) The affidavit shall also state which of the persons who are entered on the list as creditors and which of the persons who have sent in particulars of their debts or claims in pursuance of the notices have been paid or have consented to the proposed reduction.
+(4) The affidavit may be in form 32B, with such variations as the circumstances of the case may require; and the list shall be annexed to the affidavit.
+
+### 416H Procedure where claim not admitted
+(1) If the company contends that a person is not entitled to be entered on the list of creditors in respect of any debt or claim, whether admitted or not, or if any debt or claim, the particulars of which are so sent in, is not admitted by the company at its full amount, then and in every such case, unless the company is willing to appropriate in such manner as the Court directs the full amount of the debt or claim, the company shall, if the Court thinks fit so to direct, send to the creditor a notice that the creditor is required to come in and establish the creditor's title to be entered on the list or, as the case may be, to come in and prove the debt or claim, or such part thereof, as is not admitted by the company, by a day to be therein named, being not less than 4 clear days after the notice, and being the time appointed by the Court for adjudicating upon those titles, debts, and claims.
+(2) The notice under subclause (1) shall be sent in the manner mentioned in rule 416E, and may be in form 32C, with such variations as the circumstances of the case may require.
+
+### 416I Costs of proof
+Such creditors as come in to prove their titles, debts, or claims in pursuance of a notice under rule 416H shall be allowed their costs of proof against the company and be answerable for costs, in the same manner as in the case of persons coming in to prove debts under an administration judgment.
+
+### 416J Certificate as to creditors
+(1) The result of the settlement of the list of creditors shall be stated in a certificate by the Registrar of the Court.
+(2) The certificate
+  (a) Shall state what debts or claims (if any) have been disallowed; and
+  (b) Shall distinguish
+    (i) The debts or claims the full amount of which the company is willing to appropriate; and
+    (ii) The debts or claims (if any) the amount of which has been fixed by inquiry and adjudication in manner provided by section 76(2) of the Companies Act 1955 and these rules; and
+    (iii) The debts or claims (if any) the full amount of which the company does not admit or is not willing to appropriate, or the amount of which has not been fixed by inquiry and adjudication as aforesaid; and
+  (c) Shall show
+    (i) Which of the creditors have consented to the proposed reduction, and the total amount of the debts due to them; and
+    (ii) The total amount of the debts or claims the payment of which has been secured in manner provided by section 76(2) of the Companies Act 1955, and the persons to or by whom the same are due or claimed.
+(3) The certificate shall also state what creditors have under rule 416H come in and sought to establish their title to be entered on the list and whether their claims have been allowed or not, but it shall not be necessary
+  (a) To make in the certificate any further or other reference to any creditors who are not entitled to be entered on the list or to any debts or claims to which the inquiry does not extend; or
+  (b) To show in the certificate the several amounts of the debts or claims of any persons who have consented to the proposed reduction or the payment of whose debts or claims has been secured in the manner provided by section 76(2) of the Companies Act 1955.
+
+### 416K Evidence of consent of creditor
+The consent of any creditor, whether in respect of a debt due or presently due, or a debt payable on a contingency or not ascertained, or a claim admissible against a company in liquidation, may be evidenced in any manner which the Court thinks reasonably sufficient, having regard to the amount of the creditor's debt or claim and all the circumstances of the case.
+
+**Separate decision of questions**
+
+### 417 Definition of question
+In rules 418 to 424, question includes any question or issue in any proceeding, whether of fact or of law or partly of fact and partly of law, and whether raised by pleadings, agreement of parties, or otherwise.
+
+### 418 Orders for decision
+The Court may, whether or not the decision will dispose of the proceeding, make orders for
+  (a) The decision of any question separately from any other question, before, at, or after any trial or further trial in the proceeding; and
+  (b) The formulation of the question for decision and, if thought necessary, the statement of a case.
+
+### 419 Removal into Court of Appeal
+Where the Court makes an order under rule 418 for the decision of a question of law, the Court may further order that the question of law be removed into the Court of Appeal.
+
+### 420 Agreed result
+(1) The parties to a proceeding in which an order is sought or has been made under rule 418 may agree that, on any question being decided in the sense specified in the agreement, a specified direction for entry of judgment or a specified order shall be made.
+(2) On that question being so decided, the Court may make the agreed direction or order.
+(3) Where an agreement is made pursuant to subclause (1) before a case is stated, the terms of the agreement shall be set out in the case stated.
+
+### 421 Record, etc, of decision
+Where any question is decided pursuant to an order made under rule 418, the Court shall, subject to rule 422, either
+  (a) Cause the decision to be recorded; or
+  (b) Direct the entry of such declaratory judgment or make such declaratory order, as the nature of the case requires.
+
+### 422 Disposal of proceeding
+Where a decision of a question pursuant to an order made under rule 418the Court, at the time of deciding the question or at any subsequent time, may, as the nature of the case requires,
+  (a) Substantially disposes of the proceeding or of the whole or any part of any claim for relief in the proceeding; or
+  (b) Renders unnecessary any trial or further trial in the proceeding or on the whole or any part of any claim for relief in the proceeding,
+  (c) Dismiss the proceeding or the whole or any part of any claim for relief in the proceeding; or
+  (d) Direct the entry of any judgment; or
+  (e) Make any other order.
+
+### 423 Form and contents of case
+A case stated pursuant to an order under rule 418(b)
+  (a) Shall be divided into paragraphs numbered consecutively; and
+  (b) Shall state concisely such facts, and have attached to it such documents, as are necessary to enable the Court
+    (i) To decide the questions arising on the case stated; or
+    (ii) Otherwise to hear and determine the questions arising on the case stated; and
+  (c) State the questions and matters to be decided or determined.
+
+### 424 Insufficient case, disputed facts or documents
+Where it appears to the Court that a case stated does not state the facts and documents sufficiently to enable the Court to decide the questions arising or otherwise to hear and determine the questions and matters on the case stated, or in any case in which any relevant fact or document is disputed, the Court may
+  (a) With the consent of all parties interested, amend the case stated; or
+  (b) Receive evidence, make findings of fact, and amend the case stated in accordance with the findings of fact of the Court.
+
+**Directions as to conduct of proceeding**
+
+### 425 Directions as to conduct of proceeding
+The Court may, by interlocutory order,
+  (a) give directions to secure the just, speedy, and inexpensive determination of a proceeding:
+  (b) fix the time by which a step in a proceeding must be taken:
+  (c) fix the time by which all interlocutory steps must be completed:
+  (d) direct the steps that must be taken to prepare a proceeding for substantive hearing:
+  (e) direct how the hearing of a proceeding is to be conducted.
+
+**Tracks for proceedings and case management conferences**
+
+### 426 Tracks for proceedings
+(1) All proceedings (other than proceedings entered on the commercial list) are on either of the following 2 tracks:
+  (a) the swift track; or
+  (b) the standard track.
+(2) Subject to subclause (3),
+  (a) the following proceedings are on the swift track:
+    (i) applications by plaintiffs under rule 138 (which relates to applications for summary judgment):
+    (ii) applications under Part 4A (which relates to originating applications):
+    (iii) applications under Part 9A (which relates to applications for putting companies into liquidation):
+    (iv) applications for leave to appeal, and appeals, under Part 10:
+    (v) applications under rule 831 (which relates to applications for adjudication in bankruptcy):
+    (vi) applications for leave to appeal, and appeals, under Part 17; and
+  (b) all other proceedings are on the standard track.
+(3) The Court may, at any time, on its own initiative or on an application by a party, move a proceeding
+  (a) from the swift track to the standard track; or
+  (b) from the standard track to the swift track.
+
+### 426A Consequences of failure to set down within 12 months after last step in proceeding
+[Repealed]
+
+### 427 Convening of case management conferences
+(1) The Court may, at any time, hold a case management conference.
+(2) Case management conferences are held so that the Court may
+  (a) assist the parties in the just, speedy, and inexpensive determination of the proceeding:
+  (b) make orders under rule 425:
+  (c) if practicable, make other interlocutory orders.
+(3) A case management conference may be convened by the Court on its own initiative or on the application of 1 or more of the parties.
+
+### 427A Right of respondent to appeal under District Courts Act 1947 to be heard
+[Repealed]
+
+### 427B Procedure for setting down appeal under District Courts Act 1947
+[Repealed]
+
+### 428 Case management conferences for proceedings on standard track
+(1) Unless the Court otherwise directs, the following provisions apply to the convening of case management conferences for a proceeding on the standard track:
+  (a) a case management conference must be held within 35 working days after the commencement of the proceeding:
+  (b) if a second case management conference is required, it must be held within 75 working days after the commencement of the proceeding.
+(2) Following the commencement of a proceeding on the standard track,
+  (a) the Registrar must make arrangements for a case management conference to be held in accordance with subclause (1)(a); and
+  (b) the plaintiff must, as soon as practicable after being notified of the date of the case management conference, give notice of that date to every other party.
+(3) The Registrar must make arrangements to ensure that, within 25 working days after a proceeding is moved to the standard track from the swift track, a case management conference is held for the proceeding.
+(4) Unless the Court otherwise directs, the first case management conference that is held for a proceeding must be conducted by telephone or video link.
+
+### 429 Matters to be considered at case management conferences for proceedings other than appeals
+(1) This rule applies to a case management conference that is convened for a proceeding other than an appeal under Part 10 or Part 17.
+(2) The matters to be considered at the case management conference are
+  (a) the matters set out in Schedule 5 that are relevant to the proceeding and its current stage; and
+  (b) any interlocutory applications allocated for hearing at that conference under rule 242; and
+  (c) any application for an interlocutory order outlined in a memorandum filed under subclause (3).
+(3) Unless excused by the Court, the parties must, not later than 2 working days before the case management conference,
+  (a) file a joint memorandum; or
+  (b) each file a memorandum.
+(4) Any memorandum filed must
+  (a) address the matters set out in Schedule 5 that are relevant to the proceeding and its current stage; and
+  (b) outline any application for an interlocutory order intended to be made at the case management conference.
+(5) Any memorandum may be filed by facsimile.
+
+### 430 Case management conferences for appeals
+(1) In the case of an appeal under Part 10 or Part 17 (but not under Part 11), the Registrar must make arrangements for a case management conference to be held within 15 working days after any of the following dates:
+  (a) the date on which a notice of appeal under rule 706(1) or an originating application under rule 879(1) is filed:
+  (b) the date on which leave to appeal is granted on an application under rule 703(6) or rule 891(1).
+(2) The person who brings the appeal must, as soon as practicable after being notified of the date of the case management conference, give notice of that date to everyone who has been, or is to be, served with a copy of the notice of appeal or the originating application.
+(3) The parties must, not later than 2 working days before the case management conference,
+  (a) file a joint memorandum; or
+  (b) each file a memorandum.
+(4) Any memorandum filed must
+  (a) estimate the time required for the hearing; and
+  (b) suggest the costs category for the appeal for the purpose of rule 48(2) and, where applicable, for the purpose of rule 713; and
+  (c) advise if any party has been granted legal aid under the Legal Services Act 2000 or has applied for legal aid and is awaiting a decision; and
+  (d) if a full Court is sought, set out the reasons for that; and
+  (e) in the case of an appeal under Part 10, specify any directions in Schedule 6 that should be deleted or modified, and why; and
+  (f) in the case of an appeal under Part 17, specify any directions in Schedule 6 that would be appropriate for the appeal; and
+  (g) set out any additional directions sought, and why.
+(5) Any memorandum may be filed by facsimile.
+(6) The directions set out in Schedule 6 apply,
+  (a) in the case of an appeal under Part 10, to the extent that those directions are not modified by any directions given by the Judge:
+  (b) in the case of an appeal under Part 17, to the extent that those directions are applied by a direction given by the Judge.
+(7) At the conference, the Judge must give directions for the conduct of the appeal; those directions may, without limitation, include directions
+  (a) as to service of the notice of appeal or the originating application, including service on persons not currently parties:
+  (b) about any cross-appeal, including directions as to service:
+  (c) in the case of an appeal under Part 10, as to how and when any application to adduce further evidence on appeal is to be dealt with:
+  (d) in the case of an appeal under Part 17,
+    (i) as to the preparation of the record in accordance with rule 886 or in any other manner the Court thinks fit:
+    (ii) as to the transcription of the evidence in accordance with rule 887:
+  (e) on any other matter for the purposes of best securing the just, speedy, and inexpensive determination of the appeal.
+
+### 431 Cancellation of conference
+The Court may cancel a case management conference if, after reading the memoranda prepared under rule 429(3) or rule 430(3) for the conference, the Court is satisfied that
+  (a) all orders sought can be made by consent; and
+  (b) the attendance of counsel is not required.
+
+**Allocation of hearing dates and setting down dates**
+
+### 432 Hearing dates for proceedings on swift track
+(1) In the case of appeals under Part 10 or Part 17, the Court must, at a case management conference or, if the case management conference is cancelled under rule 431, by minute, give a direction that
+  (a) allocates a hearing date for the appeal; or
+  (b) requires the Registrar to allocate a hearing date for the appeal.
+(2) In the case of all other proceedings on the swift track (including applications for leave to appeal under Part 10 or Part 17), the Registrar must, as soon as practicable after the first document in the proceeding is filed or the proceeding is moved from the standard track to the swift track, allocate a hearing date for the proceeding.
+
+### 433 Application of rules 434 to 438AA
+Rules 434 to 438AA apply to all proceedings other than proceedings that are on the swift track.
+
+### 434 Allocation of hearing dates and setting down dates
+(1) The Court may give a direction that
+  (a) allocates a hearing date for a proceeding; or
+  (b) requires the Registrar to allocate a hearing date for the proceeding.
+(2) Unless the Court otherwise directs, if no hearing date has been allocated for the proceeding by the time that a second case management conference is, under rule 428, held for the proceeding, the hearing date must be allocated at that conference whether or not any interlocutory application is outstanding.
+(3) When the Court gives a direction under subclause (1), the Court may also give a direction that fixes the setting down date for the proceeding.
+(4) A direction under subclause (1), or directions under subclauses (1) and (3), may be given at any time on the Court's own initiative or on the application of 1 or more parties to the proceeding.
+(5) If the Court gives a direction under subclause (1) without giving a direction under subclause (3), then the setting down date for the proceeding is the later of
+  (a) the date that is 60 working days before the hearing date for the proceeding; or
+  (b) the date on which the hearing date for the proceeding is allocated.
+
+### 435 Jury notice
+If either party to a proceeding to which section 19A of the Act applies requires the proceeding to be tried before a Judge and a jury, the party must give notice to that effect to the Court and to the other party not later than
+  (a) 5 working days before the setting down date for the proceeding; or
+  (b) a date fixed by the Court for the purpose.
+
+### 436 Lists of proceedings
+The Registrar must cause the following lists to be kept:
+  (a) a list of proceedings that have been allocated a hearing date under rule 434(1)(a); and
+  (b) a list of proceedings for which the Registrar is, under rule 434(1)(b), required to allocate a hearing date.
+
+### 437 Registrar's functions in relation to hearing dates
+(1) After the Court has allocated a hearing date for a proceeding under rule 434(1)(a), the Registrar must promptly
+  (a) record the hearing date and the setting down date for the proceeding in the appropriate list; and
+  (b) give written confirmation of both dates to all parties to the proceeding.
+(2) After the Court gives a direction under rule 434(1)(b) for a proceeding, the Registrar must
+  (a) promptly record the proceeding in the appropriate list; and
+  (b) allocate a hearing date for the proceeding
+    (i) as soon as practicable; and
+    (ii) so far as practicable, in the order in which the directions for the proceedings recorded in the appropriate list have been given; and
+  (c) then promptly
+    (i) record the hearing date and the setting down date in the appropriate list; and
+    (ii) give written confirmation of both dates to all parties to the proceeding.
+(3) The performance of the Registrar's functions under subclause (2)(b) is subject to any direction by a Judge or Associate Judge.
+
+### 438 Parties to keep Registrar informed
+It is the duty of all parties to a proceeding that has been allocated a hearing date to notify the Registrar, without delay, if the proceeding is settled.
+
+### 438AA No steps after setting down date without leave
+(1) No statement of defence or amended pleading or affidavit may be filed, and no interlocutory application may be made or step taken, in the proceeding after the setting down date without the leave of the Court.
+(2) Subclause (1) does not apply to
+  (a) an application for leave under that subclause; or
+  (b) an application for directions under rule 425; or
+  (c) a pleading or an affidavit that merely brings up to date the information before the Court.
+
+### 438A Counsel assisting
+At the request of the Court, the Solicitor-General must appoint counsel to appear and be heard as counsel assisting the Court.
+
+### 439 Court to seek admissions and agreements
+(1) At a case management conference, the Court
+  (a) Shall endeavour to secure that the parties make all admissions and all agreements as to the conduct of the proceeding which ought reasonably to be made by them; and
+  (b) With a view to such special order (if any) as to costs as may be just being made at the trial, may cause a record to be made, in such form as the Court may direct, of any refusal to make any admission or agreement.
+(2) Nothing in this rule shall be construed as requiring the Court to endeavour to secure that the parties shall agree to exclude or limit any right of appeal, but the Court shall cause a record to be made, in such form as the Court may direct, of any such agreement.
+
+### 440 Order may be varied at trial
+Any order or direction made or given pursuant to rule 425 may, if justice so requires, be varied or revoked (in whole or in part) by the Court at the trial.
+
+### 441 Court may convene conference of parties
+[Repealed]
+
+**Exchange of witnesses' statements and preparation of common bundle of documents**
+
+### 441A Application of rules 441B to 441I and 441M to 441Q
+(1) In this rule, specified proceeding means a proceeding
+  (a) that is on the swift track; or
+  (b) in which evidence is to be given by affidavit; or
+  (c) in which an agreed statement of facts has been filed under rule 502.
+(2) In the case of a proceeding that is not a specified proceeding, rules 441B to 441I and 441M to 441Q apply to the extent that they are not modified or excluded by a direction of the Court.
+(3) In the case of a specified proceeding, the provisions of rules 441B to 441I and 441M to 441Q do not apply unless they are applied, with or without modifications, by a direction of the Court.
+
+### 441B Service by plaintiff of written statements of proposed evidence in chief
+(1) The plaintiff in a proceeding must, not later than the specified date, serve on every other party who has given an address for service a written statement of the proposed evidence in chief of each witness to be called by the plaintiff.
+(2) For the purposes of subclause (1), the specified date is
+  (a) the date fixed by the Court for the purpose; or
+  (b) if no date is fixed, 15 working days after the setting down date.
+
+### 441C Service by other parties of written statements of proposed evidence in chief
+Any party who has been served with a written statement under rule 441B and who wishes to adduce evidence shall, not later than 15 working days after the date on which that party was served with that written statement, serve on every other party to the proceeding who has given an address for service a written statement of the proposed evidence in chief of each witness to be called by the party who has been served with a written statement under rule 441B and who wishes to adduce evidence.
+
+### 441D Requirements in relation to written statements
+Every written statement served under rule 441B or rule 441C shall
+  (a) Be signed by the witness by whom the statement is made; and
+  (b) Shall not contain evidence that is inadmissible in the proceeding.
+
+### 441E Supplementary written statements
+(1) Any party to a proceeding who wishes to adduce any new or further evidence after a written statement has been served on that party under rule 441B or rule 441C (not being evidence in response to any matter contained in that written statement) may serve on every other party to the proceeding who has given an address for service a supplementary written statement of the new or further evidence.
+(2) Every supplementary written statement served under subclause (1) shall be served as soon as possible after the party wishing to adduce the new or further evidence becomes aware of the new or further evidence or of the relevance of the evidence.
+(3) A supplementary statement served under this rule may be adduced as evidence only with the leave of the Court.
+
+### 441F Evidence in chief at trial
+(1) Where a written statement signed by a witness has been served under rule 441B or rule 441C, that written statement, together with any supplementary statement adduced as evidence with the leave of the Court under rule 441E,
+  (a) Shall, unless the trial Judge otherwise directs, be read by the witness at the trial as the witness's evidence in chief; and
+  (b) Shall, when read by the witness at the trial, be the evidence in chief adduced by the witness at the trial; and
+  (c) Shall, after being read by the witness at the trial, be endorsed by or on behalf of the Registrar with the words Given in evidence on [Date].
+(2) The endorsement made under subclause (1)(c) shall be signed and dated by or on behalf of the Registrar.
+
+### 441G Oral evidence in chief
+(1) Oral evidence in chief of any person (whether a person who has given a written statement served under rule 441B or rule 441C or rule 441E or a person who has not given such a statement) may be adduced at the trial only if that oral evidence
+  (a) Is in response to evidence adduced by another party to the proceeding; or
+  (b) Is adduced with the leave of the trial Judge.
+(2) Leave may be granted under subclause (1)(b) only where
+  (a) The evidence relates to matters contained in a written statement served under rule 441B or rule 441C and is required to explain elaborate, or otherwise clarify those matters; or
+  (b) The evidence relates to evidence in response to matters contained in
+    (i) A written statement served under rule 441B or rule 441C; or
+    (ii) A supplementary statement adduced in evidence under rule 441E; or
+  (c) The evidence relates to new or further matters that could not reasonably have been included in the witness's written statement or a supplementary written statement; or
+  (d) The admission of the evidence is required in the interests of justice; or
+  (e) Every party to the proceeding who is represented at the hearing consents.
+
+### 441H References to written statements on opening of case
+Where a written statement served under rule 441B or rule 441C has not been adduced in evidence at the time when a party opens his or her case, that party may, in opening his or her case, refer to that statement only if
+  (a) That statement was served by that party; or
+  (b) The trial Judge grants that party leave to do so.
+
+### 441I Cross-examination in relation to written statements
+(1) Where any part of the evidence contained in a written statement served under rule 441B or rule 441C is not adduced as evidence at the trial by the person who signed the statement, any other party to the proceeding may, unless the trial Judge otherwise directs, put that part of the statement to that person in cross-examination.
+(2) Where a written statement served under rule 441B or rule 441C, or any part of any such statement, has not been adduced in evidence, any party may with the leave of the trial Judge, put that written statement or that part of it to any witness in cross-examination.
+
+### 441J Privilege and admissibility
+Nothing in rules 441A to 441I
+  (a) Deprives any party of that party's right to treat any communication as privileged; or
+  (b) Changes inadmissible evidence into admissible evidence; or
+  (c) Changes admissible evidence into inadmissible evidence; or
+  (d) Deprives any party of that party's right to cross-examine any party to a proceeding on a statement served under rule 441B or rule 441C or rule 441E that is inconsistent with a statement previously made by that party; or
+  (e) Allows a statement served under rule 441B or rule 441C or rule 441E to be made available, before it is given in evidence, for use for any other purpose or any other proceeding.
+
+### 441K Rule in Browne v Dunn
+Unless the parties to any proceeding to which rules 441B to 441I apply otherwise agree, the rule in Browne v Dunn (1893) 6 R 57, HL (which provides that if the Court is to be asked to disbelieve a witness, the witness should be cross-examined) shall apply to every such proceeding.
+
+### 441L Election as to evidence in relation to nonsuit
+[Repealed]
+
+### 441M Exchange of indexes of documents intended for hearing
+(1) A party who wishes to rely on documents at a hearing must refer to those documents in an index and serve that index on every other party to the proceeding at the same time that the party serves, whether under rule 441B or rule 441C or under a direction of the Court, written statements of the evidence in chief to be adduced.
+(2) An index served by a party under subclause (1) must include only documents that
+  (a) will be referred to in evidence to be given, or submissions to be made, at the hearing; and
+  (b) are not already included in any index previously served under this rule on the party by another party.
+
+### 441N Bundle of documents for hearing
+(1) Following the expiry of the period of 15 working days specified in rule 441C, the plaintiff must, in accordance with subclause (2), prepare a bundle of documents (in this rule and in rules 441O and 441P referred to as the common bundle) that contains every document referred to in
+  (a) the index served by the plaintiff under rule 441M: and
+  (b) each index (if any) served by another party under that rule.
+(2) In preparing the common bundle, the plaintiff must
+  (a) set out the documents in chronological order or any other appropriate order agreed on by counsel; and
+  (b) number each page of the common bundle in consecutive order; and
+  (c) set out before the first document an index that shows
+    (i) the date and nature of each document; and
+    (ii) the party from whose custody each document has been produced; and
+    (iii) the page number of each document as it appears in the common bundle.
+(3) The plaintiff must, not later than 5 working days before the hearing,
+  (a) file 2 copies of the common bundle in the Court; and
+  (b) serve 1 copy of the common bundle on every party to the proceeding.
+
+### 441O Consequences of incorporating document in common bundle
+(1) Each document contained in the common bundle is, unless the Court otherwise directs, to be considered
+  (a) to be admissible; and
+  (b) to be accurately described in the index to the bundle; and
+  (c) to be what it appears to be; and
+  (d) to have been signed by any apparent signatory; and
+  (e) to have been sent by any apparent author and to have been received by any apparent addressee; and
+  (f) to have been produced by the party indicated in the index to the common bundle.
+(2) If a party objects to the admissibility of a document included in the common bundle or to the application of any of paragraphs (b) to (f) of subclause (1) to a document, the objection must be
+  (a) recorded in the common bundle; and
+  (b) determined by the Court at the hearing or at any prior time that the Court directs.
+(3) The fact that a document has been included in the common bundle is not relevant to the determination, under subclause (2), of an objection that relates to the document.
+(4) A document in the common bundle is received into evidence when a witness refers to it in evidence or when counsel refers to it in submissions (made otherwise than in a closing address).
+(5) A document in the common bundle may not be received in evidence except under subclause (4).
+(6) The Court may direct that any provision of this rule is not to apply to a particular document.
+
+### 441P Consequence of not incorporating document in common bundle
+A document that is not incorporated in the common bundle may be produced at the hearing only with the leave of the Court.
+
+### 441Q Plaintiff's synopsis of opening and chronology
+The plaintiff must, not later than 2 working days before the hearing, file in the Court and serve on every other party to the proceeding
+  (a) a copy of the plaintiff's opening; and
+  (b) a chronology of the material events that form part of the plaintiff's evidence.
+
+**Negotiations for settlement**
+
+### 442 Court may assist in negotiating for settlement
+(1) The Court may, at any time before the hearing of a proceeding, convene a conference in Chambers of the parties for the purpose of negotiating for a settlement of the proceeding or of any issue, and may assist in those negotiations.
+(2) A Judge who presides at a conference under subclause (1) may not preside at the hearing of the proceeding unless
+  (a) all parties taking part in the conference consent; and
+  (b) the Judge is satisfied that there are no circumstances that would make it inappropriate for the Judge to do so.
+(3) A Judge may, at any time during the hearing of a proceeding, with the consent of the parties, convene a conference of the parties for the purpose of negotiating for a settlement of the proceeding or of any issue.
+(4) A Judge who convenes a conference under subclause (3) may not assist in the negotiations, but must arrange for an Associate Judge or another Judge to do so unless
+  (a) the parties agree that the Judge should assist and continue to preside at the hearing; and
+  (b) the Judge is satisfied that there are no circumstances that would make it inappropriate for the Judge to do so.
+(5) The Court may, with the consent of the parties, make an order at any time directing the parties to attempt to settle their dispute by the form of mediation or other alternative dispute resolution (to be specified in the order) agreed to by the parties.
+
+**Perpetuating testimony**
+
+### 443 Right to perpetuate testimony
+Any person who would, in the circumstances alleged by him to exist, become entitled, upon the happening of any future event, to any estate or interest in any property or to any other relief, the right or claim to which cannot be established before the happening of the future event, may commence a proceeding claiming by way of relief an order for the examination of any witness whose testimony may be material for establishing such right or claim.
+
+### 444 Procedures where Crown may have interest
+In any proceeding under rule 443 concerning any matter or thing in which the Crown may have any estate or interest, the plaintiff may proceed against the Crown under section 14 of the Crown Proceedings Act 1950 and the provisions of that Act and these rules shall apply accordingly.
+
+### 445 Examination of witnesses
+No proceeding under rule 443 shall be set down for hearing but in any such proceeding the Court may make such order under rules 369 to 379 for the examination of witnesses (whether tendered by the plaintiff or any other party) as may be appropriate.
+
+### 446 Depositions as evidence
+Any depositions taken pursuant to an order made under rule 445 may be tendered in evidence at the trial of any proceeding brought thereafter to enforce the claim or interest to which they relate and shall be admitted subject to all just exceptions.
+
+### Part 3A — Commercial list
+
+### 446A Interpretation
+In this Part, unless the context otherwise requires,
+  - **Commercial list** means a commercial list established under section 24A of the Act at an office of the High Court
+  - **Commercial list Judge in charge** means, in relation to a commercial list, the Judge nominated from time to time by the Chief Justice under section 24C(1) of the Act to supervise that commercial list
+  - **Commercial list Judge** means, in relation to a commercial list,
+    (a) The Commercial list Judge in charge:
+    (b) Any Judge nominated under section 24C(2) of the Act to assist the Commercial list Judge in charge:
+  - **The general rules** means the rules comprised in Parts 1, 2, 3, 4, 5, and 6.
+
+### 446B Application of this Part
+(1) Subject to this rule, this Part shall apply in relation to
+  (a) Commercial lists; and
+  (b) The entry of proceedings on commercial lists; and
+  (c) The making of orders for the removal of proceedings entered on commercial lists; and
+  (d) Proceedings entered for the time being on commercial lists.
+(2) This Part shall not apply in relation to proceedings commenced before the date of the commencement of this Part.
+(3) If in any civil proceedings any question arises as to the application of any provision of this Part, the Court may, either on the application of any party or of its own motion, determine the question and give such directions as it thinks fit.
+(4) Subject to any directions of the Court, the general rules shall apply in relation to any proceeding entered on a commercial list except in so far as those rules are modified by or are inconsistent with the Act or this Part.
+
+### 446C Entry on commercial list by endorsement
+(1) Whererequires the proceeding to be entered on the commercial list, the proceeding shall be entered on that list without any order for entry.
+  (a) A statement of claim or a statement of defence in any proceeding (being a proceeding referred to in paragraphs (a) to (f) of section 24B(1) of the Act) is filed in an office of the Court at which a commercial list is established; and
+  (b) Either
+    (i) A plaintiff, by endorsement on the statement of claim; or
+    (ii) A defendant, by endorsement on the statement of defence,
+(2) A requirement under subclause (1) shall be made by a party by endorsing on the statement of claim or statement of defence, as the case may be, immediately under the reference to the registry in which the proceeding is filed, the words Commercial list.
+(3) The endorsement shall be made before the document is filed in the office of the Court.
+(4) A requirement under subclause (1) shall not be made
+  (a) On a statement of claim which is to be served on the defendant with an application for judgment under rule 136 or rule 137; or
+  (b) On a statement of defence filed by a defendant who has been served with, or who is serving, an application for judgment under rule 136 or rule 137; or
+  (c) On a counterclaim; or
+  (d) By a defendant to a counterclaim; or
+  (e) By a third or subsequent party.
+
+### 446D Entry on commercial list by order
+(1) Where a statement of claim that could have been endorsed under rule 446C(1)(b)(i) has not been so endorsed, the plaintiff may, at any time after the filing of the statement of claim but not later than 14 days after the day on which a statement of defence in the proceeding is filed, make application to a Commercial list Judge for the entry of the proceeding on the commercial list.
+(2) Where a statement of claim that, but for rule 446C(4)(a), could have been endorsed under rule 446C(1)(b)(i) is served with an application for judgment under rule 136 or rule 137 and an affidavit by or on behalf of the defendant is, in accordance with rule 141, filed and served in answer to the affidavit by or on behalf of the plaintiff, the defendant may, at any time before the date for hearing of the application for judgment, make application to a Commercial list Judge for the entry of the proceeding on the commercial list.
+(3) Where the statement of claim in a proceeding which is of a commercial nature but which is not within any of the classes of proceeding specified in paragraphs (a) to (f) of section 24B(1) of the Act is filed in an office of the Court at which a commercial list is established, any party to the proceeding may, at any time after the filing of the statement of claim but not later than 14 days after the day on which a statement of defence in the proceeding is filed, make application to a Commercial list Judge for the entry of that proceeding on the commercial list.
+(4) Where an application is made under subclause (1) or subclause (2) or subclause (3), in relation to any proceeding, a Commercial list Judge may, in that Judge's discretion, order that the proceeding be entered on the commercial list.
+
+### 446DA Entry on commercial list of appeals against determinations of Commerce Commission
+(1) Any appellant who files a notice of appeal pursuant to rule 691 appealing against any determination of the Commerce Commission may, by endorsement of the notice of appeal, require the proceeding to be entered on the commercial list, and the proceeding shall thereupon be entered on that list without any order for entry.
+(2) A requirement under subclause (1) shall be made by endorsing on the notice of appeal, immediately under the reference to the registry, the words Commercial list.
+(3) Any party to an appeal against a determination of the Commerce Commission (including any person who participated in any conference held by the Commission relating to the determination appealed against) may, within 14 days after the day on which that party is served with a copy of the notice of appeal, make application for the proceeding to be entered on the commercial list.
+(4) Where an application is made under subclause (3) in relation to any appeal, a Commercial list Judge may, in that Judge's discretion, order that the appeal be entered on the commercial list.
+
+### 446DB Entry on commercial list of applications by liquidators or receivers for directions
+(1) Any liquidator or receiver who files under Part 4A an originating application for directions may, by endorsement of the originating application, require the proceeding to be entered on the commercial list, and the proceeding shall thereupon be entered on that list without any order for entry.
+(2) A requirement under subclause (1) shall be made by endorsing on the originating application, immediately under the reference to the registry in which the proceeding is filed, the words Commercial list.
+(3) Any party to the proceeding may, at any time before the date for hearing of the application, make application for the proceeding to be entered on the commercial list.
+(4) Where an application is made under subclause (3) in relation to any proceeding, a Commercial list Judge may, in that Judge's discretion, order that the proceeding be entered on the commercial list.
+
+### 446E Documents to be served on and filed and served by defendant
+Where a proceeding is entered on a commercial list before the notice of proceeding to a defendant is served,
+  (a) That notice of proceeding shall be in form 34A; and
+  (b) The defendant shall not be obliged by rule 129(1) to file and serve a statement of defence but may, within 14 days after the service on the defendant of the notice of proceeding, file and serve either a statement of defence or an appearance in form 34B or in form 10 or form 11 or form 12.
+
+### 446F Heading of documents
+The heading of every document filed or issued in any proceeding that is on a commercial list shall show, immediately after the reference to the registry in which the proceeding is filed, the words Commercial list.
+
+### 446G Interlocutory applications
+(1) Ifthat party may make the interlocutory application by sending it to the Court and to all other parties intended to be affected by it.
+  (a) A proceeding is entered on a commercial list; and
+  (b) Any party to the proceeding wishes to apply to the Court for an order that, unless the Court otherwise directs, it is not necessary to draw up or seal,
+(2) An interlocutory application sent pursuant to subclause (1) may be sent to the Court and to the parties by post, facsimile, telex, or other written communication.
+(3) The Court's copy of the application shall be addressed to the Registrar for the attention of a Commercial list Judge.
+(4) No order made or decision given on an interlocutory application in a proceeding entered on a commercial list (other than an order or decision made ex parte) may be varied or rescinded under rule 259.
+
+### 446H Application for directions
+(1) Where a proceeding has been entered on the commercial list, the party who required the proceeding to be so entered on the commercial list or the party who obtained the order for the entry of the proceeding on that list, as the case may be, shall file, under rule 425, an interlocutory application for directions regarding the proceeding.
+(2) The application filed pursuant to subclause (1) shall specify the details of a proposed timetable for the steps leading to the hearing of the proceeding.
+(3) Where the proceeding has been entered on the commercial list pursuant to an endorsement on the statement of claim, the application required by subclause (1) may be filed at any time after the statement of claim has been filed but not later than 7 days after the date on which any defendant files a statement of defence or an appearance in the proceeding, whichever first occurs.
+(4) Where the proceeding has been entered on the commercial list pursuant to an endorsement on an appearance or a statement of defence, the application required by subclause (1) shall be filed not later than 7 days after the date on which the appearance or statement of defence is filed.
+(5) Where the proceeding has been entered on the commercial list pursuant to an order under rule 446D(4), the application required by subclause (1) shall be filed not later than 7 days after the date of the making of the order.
+(6) Notwithstanding rule 240, every application under subclause (1) shall be made on notice.
+
+### 446I Response to application for directions
+(1) A party who has been served with an application for directions filed pursuant to rule 446H(1) shall file in the Court and serve on the applicant and on all other parties affected by the application a memorandum stating
+  (a) The directions to which the party consents:
+  (b) The directions which the party intends to oppose:
+  (c) Where the party intends to oppose a direction, a brief statement of the grounds of opposition:
+  (d) Whether or not the party intends to oppose the proposed timetable:
+  (e) Where the party intends to oppose the proposed timetable, a brief statement of the grounds of opposition:
+  (f) Any modifications suggested by the party to the proposed timetable:
+  (g) Any other directions sought by the party.
+(2) Every memorandum under subclause (1) shall be filed and served at least 2 days before the day for the hearing of the application to which the memorandum relates:
+  Provided that such a memorandum may, with the leave of a Commercial list Judge, be filed and served on that day or less than 2 days before that day.
+(3) Where a memorandum under subclause (1) is filed and served in accordance with this rule in relation to any application for directions, it shall not be necessary for that party to file and serve in relation to that application a notice of opposition in form 21.
+
+### 446J Hearing of application for directions
+(1) On the hearing of any application for directions made pursuant to rule 446H(1), a Commercial list Judge may give any directions which could be given by a Judge under rule 425 and may give such other directions as the Commercial list Judge thinks fit (whether or not inconsistent with any other provision of these rules or of any rules made under section 51C of the Act) for the speedy and inexpensive determination of the real questions between the parties to the proceeding.
+(2) Without limiting the generality of subclause (1), directions under that subclause may concern any of the following matters:
+  (a) Pleadings or points of claim or of defence:
+  (b) Counterclaim and third party proceedings:
+  (c) Particulars of any claim, defence, or other matter:
+  (d) Interrogatories and discovery:
+  (e) The exchange of documents or lists of documents:
+  (f) The formulation and determination of questions of fact or law:
+  (g) An agreed statement of facts:
+  (h) The proof of facts:
+  (i) The giving by any party to the proceeding of notice of trial, the setting of the proceeding down for hearing, and the fixing of a date for trial:
+  (j) The provision of copies of documents for the use of the Court at the trial:
+  (k) The exchanging by the parties and supplying to the Court of lists of authorities:
+  (l) The preparation of a Court book containing the pleadings, issues or questions, and the documents which the parties to the proceeding expect to be relied on at the hearing:
+  (m) The exchange of reports of experts:
+  (n) The determination of any question of fact by a referee:
+  (o) The making of orders under section 14 or section 15 of the Arbitration Act 1908:
+  (p) Any other matters which the nature of the case or its speedy and inexpensive determination may require.
+(3) Without in any way limiting the generality of subclauses (1) and (2), a Commercial list Judge may dispense with
+  (a) Pleadings or further pleadings:
+  (b) Any interlocutory proceedings or step:
+  (c) The proof of any fact which is not in dispute.
+(4) Nothing in this rule limits the generality of rules 425 and 439.
+
+### 446K Removal from list
+(1) A Commercial list Judge may, on the application of any party or on the Judge's own motion, at any time remove any proceeding (including a proceeding to which section 24B(1) of the Act applies) from the commercial list.
+(2) Where a proceeding is removed from the commercial list, the Commercial list Judge making the order shall give directions as to the future conduct of the proceeding.
+
+### 446L Proceedings in other Registries
+(1) Any party to a proceeding to which section 24B(1) of the Act applies and which, by virtue of the operation of rule 106, may not be filed in an office of this Court at which a commercial list is established, may apply to a Commercial list Judge for an order that the proceeding be entered on a commercial list established at any office of this Court.
+(2) An application under subclause (1) may be made at any time after the filing of the statement of claim in the proceeding but not later than 14 days after the day on which a statement of defence in the proceeding is filed.
+(3) As a condition of any order under subclause (1) a Commercial list Judge may give such further directions as that Judge thinks fit to minimise difficulties caused to any party arising from distance from the office of this Court at which the commercial list is established.
+(4) Without limiting the generality of subclause (3), a Commercial list Judge may order that the trial, or part of the trial, or any interlocutory application relating thereto, shall be heard and determined in the registry in which the proceeding was originally commenced or at any other venue.
+
+### 446M Praecipe or notification of readiness not necessary
+[Repealed]
+
+### 446N Memorandum that decision to be final
+Where the parties desire that the decision of a Judge hearing and determining any proceeding entered on the commercial list shall be final, a memorandum to that effect executed by the parties to the proceeding shall be filed before the trial of the proceeding begins.
+
+### 446O Additional powers of Commercial list Judge
+(1) In addition to all other powers conferred on a Commercial list Judge, such a Judge may give such directions as the Judge thinks fit for the speedy and inexpensive determination of the real questions between the parties to any proceeding entered on a commercial list.
+(2) Without limiting the generality of subclause (1), the Judge may
+  (a) Require the parties or counsel to file and exchange memoranda before any hearing of the proceeding in order to clarify the matters in issue in advance of the hearing:
+  (b) Where appropriate deal with applications or hold conferences by way of a telephone conference link-up at the expense of one or more of the parties:
+  (c) Where appropriate deal with applications by way of telegram, facsimile, telex message, or courier post at the expense of one or more of the parties:
+  (d) Give directions to assist the convenience of the parties and witnesses in the case:
+  (e) Change the venue of the trial, or adjourn the trial part heard to continue at different venue:
+  (f) With the consent of counsel, make such use of video tape, film projection, computers and other equipment as the Judge sees fit in the proceeding, subject to a direction as to the manner in which the parties shall defray the costs of so doing:
+  (g) With the consent of counsel, make arrangements for the more speedy and effective recording of evidence, subject to a direction as to the manner in which the parties shall defray the costs of so doing:
+  (h) Appoint any person authorised in law to administer an oath to any witness giving evidence in any manner envisaged by this rule.
+
+### 446P Disputes concerning construction
+(1) Where a party to a dispute concerning the construction, status, or application of a contract or document wishes to apply to a Commercial list Judge under section 24C(4) of the Act for the determination of the questions involved in the dispute, that party shall file
+  (a) A statement of claim setting out the questions involved in the dispute; and
+  (b) An affidavit exhibiting all documents necessary for the Commercial list Judge to make a proper determination of the questions involved in the dispute.
+(2) The notice of proceeding to a defendant in relation to an application under section 24C(4) of the Act shall be in form 34C.
+(3) The defendant shall not be obliged by rule 129(1) to file and serve a statement of defence but may, within 14 days after the service on the defendant of the notice of proceeding or within such shorter time as a Commercial list Judge may order, file and serve a statement of defence or an appearance in form 34B.
+(4) The Commercial list Judge may hear and determine the question involved in the dispute at such time and on such terms as that Judge considers appropriate.
+(5) If the proper determination of the question requires evidence other than that contained in or exhibited to the affidavit filed pursuant to subclause (1)(b) or cross-examination on that affidavit or those exhibits, a Commercial list Judge may, on the application of any party or on the Judge's own motion, order that such a proceeding be placed on the commercial list.
+
+### 446Q Form of documents
+(1) Notwithstanding rule 31, all documents filed in respect of a proceeding entered on the commercial list and all documents filed in relation to an application under section 24C(4) of the Act shall be filed flat.
+(2) The party seeking to have a proceeding entered on the commercial list and the party making an application under section 24C(4) of the Act shall provide at that party's expense, for the filing of all documents in the proceeding or in relation to the application, a folder or ring-binder of a type approved by the Registrar.
+
+### Part 3B — Special provisions applying to certain proceedings under Commerce Act 1986 and to certain proceedings in Federal Court of Australia under Trade Practices Act 1974 of the Commonwealth of Australia
+
+### 446R Interpretation
+In this Part, unless the context otherwise requires,
+  - **Australian proceeding** means a proceeding in which a matter for determination arises underand includes an interlocutory proceeding related to such a proceeding and an application for the issue of execution or enforcement of a judgment or order or injunction given or made or granted in such a proceeding
+    (a) Any of sections 46A, 155A, or 155B of the Trade Practices Act 1974 of the Parliament of the Commonwealth of Australia; or
+    (b) A provision of Part VI or Part XII of the Trade Practices Act 1974 of the Parliament of the Commonwealth of Australia in so far as it relates to any of sections 46A, 155A, or 155B of that Act;
+  - **Federal Court** means the Federal Court of Australia
+  - **New Zealand proceeding** means a proceeding in which a matter for determination arises underand includes an interlocutory proceeding related to such a proceeding and an application for the issue of execution or enforcement of a judgment or order or injunction given or made or granted in such a proceeding.
+    (a) Any of sections 36A, 98H, or 99A of the Commerce Act 1986; or
+    (b) A provision of Part 6 or Part 7 of the Commerce Act 1986 in so far as it relates to any of sections 36A, 98H, or 99A of that Act;
+
+### 446S Commencement of New Zealand proceedings
+(1) Every New Zealand proceeding shall be commenced by filing a statement of claim in the office of the Court at Auckland or Wellington or Christchurch in accordance with rule 446T.
+(2) Notwithstanding subclause (1), the statement of claim may be filed in any of those offices of the Court if the parties agree, by endorsement on the statement of claim, to the filing of the statement of claim in that office.
+
+### 446T Office of the Court in which proceedings to be commenced
+(1) Notwithstanding rule 107, the office of the Court, for the purposes of rule 446S(1), shall, subject to subclauses (2) and (3), be determined as follows:
+  (a) Where any defendant is resident or the defendant's principal place of business is in New Zealand, that office shall be whichever of the offices of the Court at Auckland or Wellington or Christchurch is nearest to the residence or principal place of business of the defendant:
+    Provided that where there are 2 or more defendants, that office shall be determined by reference to the first-named defendant who is resident or whose principal place of business is in New Zealand:
+  (b) Where no defendant is resident or no defendant's principal place of business is in New Zealand, that office shall be such of those offices as the plaintiff selects:
+  (c) Notwithstanding paragraphs (a) and (b), where the Crown is a defendant, that office shall be such of those offices as the plaintiff selects.
+(2) Where it appears to the Court on application made to it that the statement of claim has been filed in the wrong office of the Court or that any other office of the Court in which the statement of claim may be filed would be more convenient to the parties, it may direct that the statement of claim be filed in that other office, or that all documents filed in the proceeding be transferred to the proper office or, as the case may be, to that other office which shall thereupon be deemed to be the proper office.
+(3) Where an order is made under subclause (2), each party shall change that party's address for service accordingly.
+
+### 446U Issue of subpoenas for service in Australia
+(1) Notwithstanding rule 497, an order of subpoena in a New Zealand proceeding for service in Australia shall not be issued without the leave of a Judge, and shall,
+  (a) In the case of an order of subpoena that requires a person to testify, whether or not it also requires a person to produce documents, be in form 34CA:
+  (b) In the case of an order that requires a person to produce documents, but does not require a person to testify, be in form 34CB.
+(2) Every application for the issue of an order of subpoena under subclause (1) shall be made ex parte by originating application and the provisions of Part 4A (other than rule 458H) shall apply, subject to all necessary modifications, to the application.
+(2A) Every such application shall be accompanied by an affidavit containing the following matters:
+  (a) The name, designation, occupation, and address of the witness:
+  (b) The nature of the evidence required from the witness and the relevance of that evidence:
+  (c) The date on which it is intended to serve the order of subpoena:
+  (d) The availability of suitable means of transport to enable the witness to comply with the order of subpoena:
+  (e) The amounts proposed to be paid or tendered to the witness in respect of expenses in complying with the order of subpoena:
+  (f) In any case where the subpoena requires the witness to testify, an estimate of the date on which and the length of time that person will be required to attend at the Court:
+  (g) If the applicant is aware of any fact or circumstance which may constitute a ground for setting the subpoena aside under section 56G of the Act, the fact or circumstance.
+(3) In determining whether to grant leave the Judge shall, in addition to any other matter which the Judge considers to be relevant, have regard to
+  (a) The adequacy of the amount proposed to be paid or tendered to the witness in respect of expenses; and
+  (b) Whether the time between the date of service and the date on which the witness is required to comply with the order of subpoena is reasonable in the circumstances.
+(4) Leave may be granted under subclause (1) subject to such conditions the Judge thinks fit.
+(5) Without limiting the conditions which may be imposed by a Judge under subclause (4), leave may be granted under subclause (1) subject to conditions relating to
+  (a) The amount to be paid or tendered to the witness in respect of expenses:
+  (b) The date or dates on which the witness is required to comply with the order of subpoena:
+  (c) The documents or class or classes of documents to be produced.
+(6) A Judge may direct that service on a body corporate shall be effected by serving the order of subpoena on a member or officer or servant of the body corporate in such manner as the Judge directs.
+(6A) The file relating to every such application shall be kept separate from the file relating to the New Zealand proceeding.
+(7) Notwithstanding rule 66, no document relating to an application under this rule shall be searched or inspected or copied without the leave of a Judge.
+
+### 446V Service of subpoena
+(1) An order of subpoena issued in a New Zealand proceeding with the leave of a Judge may be served on a person in Australia personally by leaving with that person a sealed copy of the order together with a statement in form 34CC setting out the person's rights and obligations.
+(2) Service of the order of subpoena on a corporation shall be in accordance with any directions given by the Judge under rule 446U(6).
+(3) A person who has been served with an order of subpoena under subclause (1) is not compellable to comply with the order unless, at the time of service or at some other reasonable time before the date on which the person is required to comply with the order, allowances and travelling expenses or vouchers sufficient to meet the person's reasonable expenses of complying with the order are tendered or paid to that person.
+
+### 446W Subpoenas for production
+(1) An order of subpoena issued in a New Zealand proceeding which requires a person in Australia to produce documents or things, but does not require the person to testify, shall permit the person to comply with the order by producing the documents or things at a specified registry of the Federal Court.
+(2) Unless the Court otherwise orders, the registry of the Federal Court specified under subclause (1) shall be the registry nearest to the place where the order of subpoena is served.
+(3) A person served with an order of subpoena of the kind described in subclause (1) may comply with the subpoena by
+  (a) Producing the subpoena and the required documents or things to the specified registry of the Federal Court not later than 7 working days before the date specified in the order as the date on which the documents or things are required for production in the High Court; and
+  (b) Obtaining a receipt from a Registrar, Deputy Registrar, District Registrar, or Deputy District Registrar of the Federal Court for the documents or things produced and sending, as soon as practicable, a copy of the receipt with a copy of the order of subpoena by facsimile to the registry of the High Court where the order was made; and
+  (c) Providing an officer of the Federal Court with a sum sufficient to send the documents or things to New Zealand.
+(4) A receipt obtained pursuant to paragraph (b) of subclause (3) shall be sufficient evidence of compliance with the order of subpoena.
+
+### 446X Setting aside subpoena issued in New Zealand proceeding
+(1) An application to set aside an order of subpoena issued in a New Zealand proceeding and served on a person in Australia under section 56G of the Act may be filed by facsimile.
+(2) The Registrar shall send to the applicant by facsimile an acknowledgment of an application that has been filed by facsimile.
+(3) The Court shall give such directions for the conduct of the hearing of the application as it thinks fit.
+(4) Without limiting subclause (3), the Court may give directions requiring
+  (a) The applicant to give evidence or make submissions by video link or telephone conference; or
+  (b) Further evidence by the applicant be taken in Australia; or
+  (c) The application to be heard in Australia.
+
+### 446Y Failure to comply with subpoena in New Zealand proceeding
+The Court may, on the application of a party to a New Zealand proceeding, or of its own motion, issue a certificate in form 34CD stating that a person in Australia who has been served with an order of subpoena in a New Zealand proceeding has failed to comply with the order and may direct the Registrar of the Court to transmit the certificate to the Federal Court.
+
+### 446Z Payment of additional amounts to persons complying with subpoena in New Zealand proceeding
+The Court may, on the application of a person resident in Australia who has complied with an order of subpoena issued in a New Zealand proceeding, or of its own motion, order the person on whose application the order was obtained to pay to that personand may direct that the amount or amounts shall be fixed by the Registrar.
+  (a) An amount for expenses reasonably incurred by that person in complying with the order in addition to any expenses tendered or paid to that person under rule 446V; or
+  (b) An amount for any loss of income occasioned by that person in complying with the order
+
+### 446ZA Transmission of documents to Federal Court
+The Registrar exercising office at a registry at which a document or thing is produced in compliance with a subpoena for production issued by the Federal Court for service in New Zealand in an Australian proceeding shall
+  (a) Issue a receipt for the document or thing produced; and
+  (b) Mark the document or thing so as to indicate the date and time of its production; and
+  (c) Advise the officer of the Federal Court who issued the subpoena by facsimile; and
+  (d) Send the document or thing to the Federal Court with a copy of the subpoena so as to ensure that it will be received by the Federal Court before the date on which it is required to be produced to that Court.
+
+### 446ZB Certification of judgments, orders, and injunctions in New Zealand proceedings
+(1) The Court may, on the application of a party to a New Zealand proceeding, issue to that party a copy of a judgment or order or injunction given or made or issued in that proceeding.
+(2) An application under this rule may be made ex parte.
+(3) Every copy of the judgment or order or injunction shall be
+  (a) Sealed with the seal of the Court; and
+  (b) Certified to be a true copy of a judgment or order or injunction given, made, or issued in a New Zealand proceeding within the meaning of section 56D of the Act and section 32B of the Federal Court of Australia Act 1976.
+
+### 446ZC Evidence and submissions by video link and telephone conference
+(1) On an application by a party to a New Zealand proceeding a Judge may, if satisfied that the necessary equipment and facilities are available, direct that a witness may give evidence from Australia or a person appearing as a barrister or solicitor, or both, may make submissions from Australia by video link or telephone conference.
+(2) An application under subclause (1) may be made ex parte and shall be accompanied by an affidavit stating
+  (a) The reasons for the proposed course of action:
+  (b) The nature of the evidence:
+  (c) The witnesses to be examined:
+  (d) In a case where evidence is proposed to be given, an estimate of the time the examination of the witness will take:
+  (e) Whether issues of character or credibility are likely to be raised:
+  (f) In a case where submissions are proposed to be made, an estimate of the time that will be required to make the submissions.
+(3) In giving a direction under subclause (1), the Judge shall instruct the Registrar to make appropriate arrangements in New Zealand and Australia in accordance with any particular directions which the Judge may make.
+(4) Without limiting the generality of subclause (3), the Judge may direct that
+  (a) The evidence be given or the submissions be made at the Federal Court or at a place approved by the Federal Court:
+  (b) An officer of the Federal Court or other person approved by the Judge be present to assist in the transmission of the evidence or submissions, and, in particular to
+    (i) Introduce witnesses giving evidence or a barrister or solicitor, or both, making submissions:
+    (ii) Assist with the administration of oaths:
+    (iii) Assist with the implementation of any directions or requests given or made by the Judge hearing the evidence or submissions:
+  (c) The evidence or the submissions be heard at a location other than the precincts of the High Court.
+(5) Unless the Court otherwise orders, the costs incurred in giving the evidence or making the submissions by video link or telephone conference and transmitting the evidence or submissions in accordance with a direction given under this rule shall be paid by the applicant.
+
+### Part 4 — Procedure in special cases
+
+### 447 Application of this Part to proceedings within equitable jurisdiction
+This Part applies to proceedings in which the relief claimed is wholly within the equitable jurisdiction of the Court, and, in particular, those which involve
+  (a) The determination of any question affecting the right or interest of any person claiming to be creditor, devisee, legatee, wife, husband, civil union partner, de facto partner, child, or next of kin of a deceased person or any person claiming as beneficiary under any trust, or any person claiming by assignment or otherwise under any such person:
+  (b) The ascertainment of any class of creditors, legatees, devisees, or next of kin of a deceased person, or of beneficiaries under any trust:
+  (c) The furnishing of any particular accounts by executors, administrators, or trustees:
+  (d) The payment into Court of any money in the hands of executors, administrators, or trustees:
+  (e) Directing executors, administrators, trustees, or beneficiaries to do or abstain from doing any particular act in their character as such executors, administrators, trustees, or beneficiaries:
+  (f) The approval of any sale, purchase, compromise, or other transaction by executors, administrators, or trustees:
+  (g) The carrying-on of any business authorised to be carried on by any deed or instrument creating a trust or by the Court:
+  (h) The interpretation of any deed or instrument creating a trust:
+  (i) The determination of any question arising in the administration of any estate or trust, or which it may be necessary or desirable to determine for the protection of the executors, administrators, or trustees.
+
+### 448 Application of this Part to proceedings under certain Acts
+(1) This Part applies to proceedings in which the relief is claimed solely under the following Acts:
+  (a)
+  (b) The Charitable Trusts Act 1957:
+  (c)
+  (ca) The Corporations (Investigation and Management) Act 1989:
+  (d) The Declaratory Judgments Act 1908:
+  (e) The Family Protection Act 1955:
+  (f) the Care of Children Act 2004:
+  (fa) The Incorporated Societies Act 1908:
+  (fb) The Industrial and Provident Societies Act 1908:
+  (g) The Insolvency Act 1967:
+  (h) The Law Reform (Testamentary Promises) Act 1949:
+  (i)
+  (j)
+  (k) The Mental Health (Compulsory Assessment and Treatment) Act 1992:
+  (l) The Trustee Act 1956.
+(2) Where any rules are in force under the Act under which relief is claimed, the application of this Part to the proceedings shall be subject to those rules.
+
+### 448A Application of this Part to proceedings under Chattels Transfer Act 1924
+(1) This Part applies to every proceeding in which the relief claimed is solely under section 13 of the Chattels Transfer Act 1924.
+(2) The Registrars (not being Deputy Registrars) for the time being exercising their office at the registries of Auckland, Hamilton, Rotorua, Palmerston North, Wellington, Christchurch, and Dunedin shall have the jurisdiction and powers of the Court in Chambers conferred by section 13(1) of the Chattels Transfer Act 1924, but only in respect of the extension of time for the registration of an instrument or of an affidavit of renewal of an instrument.
+(3) The provisions of rules 272 to 275 shall apply to the exercise of the jurisdiction conferred by subclause (2).
+
+### 448B Application of this Part to certain proceedings under the Land Transfer Act 1952 in relation to caveats
+This Part applies to every proceeding in which the relief is claimed solely under any of the provisions of sections 140, 143, 144, 145, and 148 of the Land Transfer Act 1952 (all of which provisions relate to caveats).
+
+### 448C Application of this Part to certain proceedings under Companies Acts
+This Part applies to every proceeding
+  (a) in which the relief claimed is solely under the Companies Act 1955 or the Companies Act 1993, as the case may be; and
+  (b) that is not a proceeding properly brought under Part 4A or Part 9A.
+
+### 448D Application of certain rules in this Part to proceedings under Property (Relationships) Act 1976
+Rule 454 (which relates to joinder of claims and consolidation) and rule 455 (which relates to evidence) apply to proceedings transferred to the Court by order of a Family Court Judge under section 22(3) of the Property (Relationships) Act 1976, but no other rule in this Part applies to proceedings under that Act.
+
+### 449 Application of this Part to other proceedings
+This Part applies to
+  (a) Proceedings in which the only relief claimed is one or more of the extraordinary remedies under Part 7:
+  (b) Any proceedingfor the purpose of determining any sufficient question arising out of the plaintiff's status as such mortgagee or mortgagor or person, or the exercise or purported or threatened exercise of any right or power conferred or alleged to be conferred by the mortgage or charge:
+    (i) By any mortgagee or mortgagor, whether legal or equitable, of real property; or
+    (ii) By any person entitled to or owning real property subject to a legal or equitable charge; or
+    (iii) By any person having the right to exercise any powers, whether statutory or otherwise, under any mortgage or charge of real property or to redeem any mortgage or charge whether legal or equitable, of real property
+  (c) Any proceeding by any vendor or purchaser of real or leasehold estate, or the assignee of either, for relief in respect of
+    (i) Any requisitions or objections; or
+    (ii) Any claim for compensation; or
+    (iii) Any other question arising out of or connected with the contract (not being a question affecting the existence or validity of the contract):
+  (d) Any other proceeding to which the Court directs that this Part shall apply.
+
+### 449A Proceedings commenced by originating application
+Nothing in rule 448 or rule 448A or rule 448B or rule 448C prevents relief under any of the provisions specified both in those rules and in rule 458D(1)(a) being claimed in a proceeding commenced by the filing of an originating application under Part 4A; but where relief under any of the provisions so specified is claimed in a proceeding so commenced, nothing in this Part applies to that proceeding.
+
+### 450 Naming of defendants
+(1) If, in the case of any proceeding to which this Part applies by virtue of rule 447, the person who is the personal representative of the deceased person or the trustee of the trust, as the case may be, is not the plaintiff, that person shall be the only defendant named in the statement of claim.
+(2) In proceedings under the Family Protection Act 1955 and the Law Reform (Testamentary Promises) Act 1949, the only defendant named in the statement of claim shall be the personal representative of the deceased person against whose estate the claim is brought.
+(3) It shall not be necessary to name as defendants in a proceeding persons who become such by being directed by the Court to be served.
+
+### 451 Directions as to service
+(1) Wherethe plaintiff shall apply to the Court ex parte for directions as to service and for such orders for representation as may be required.
+  (a) The law so requires; or
+  (b) The plaintiff is in doubt regarding the persons on whom the statement of claim should be served; or
+  (c) An order is sought that any person represent any other person or class of persons who should be served; or
+  (ca) The proceeding is under the Companies Act 1955 and is not a proceeding in the liquidation of a company or a proceeding under section 209ZG of that Act; or
+  (cb) The proceeding is under the Companies Act 1993 and is not a proceeding in the liquidation of a company or a proceeding under section 174 of that Act; or
+  (d) The Court, being of the opinion that the plaintiff should apply to the Court under this rule, so directs,
+(2) In support of the application the plaintiff shall furnish (by affidavit or otherwise) such information as may be necessary to enable the Court to decide what persons or classes of persons are interested in or may be adversely affected by the relief sought by the plaintiff and by what means the interests of each such person or class of persons may be adequately represented.
+(3) In the case of claims under the Family Protection Act 1955 or the Law Reform (Testamentary Promises) Act 1949, the information required by subclause (2) includes
+  (a) The date of death of the deceased and the date of grant of probate or letters of administration:
+  (b) Whether the deceased died testate or intestate, and, if testate, a copy of his last will with codicils (if any):
+  (c) The value of the estate, so far as it is known to the plaintiff:
+  (d) The names, addresses, occupations, and ages of the beneficiaries under the will or persons entitled on intestacy, as the case may be:
+  (e) The names, addresses, occupations, and ages of the persons of each class entitled to claim under the Family Protection Act 1955:
+  (f) Any other information that is relevant.
+(4) The application shall specify the directions that are considered appropriate and shall be accompanied by a memorandum by the plaintiff's solicitor or counsel giving the reasons therefor.
+(5) On an application under this rule, the Court may make any orders for service or representation that it considers proper, and, in particular, it may make orders with regard to the representation of incapacitated persons or minors, without the appointment of a litigation guardian under rule 86C if it considers it is not necessary to appoint one.
+(6) The effect of every order for directions as to service or for representation made pursuant to this rule shall be set out in the notice of proceeding in accordance with rule 121(3).
+
+### 452 Proceeding without service
+(1) Wherethe facts alleged in the statement of claim shall be verified by or on behalf of the plaintiff by an affidavit (which may be appended to the statement of claim or filed separately) deposing that, so far as they relate to matters within the personal knowledge of the deponent, they are true, and, so far as they relate to matters not within his personal knowledge, he believes them to be true.
+  (a) By any Act or by these rules service of the statement of claim in a proceeding to which this Part applies is not required; or
+  (b) Service has been dispensed with by the Court,
+(2) Notwithstanding subclause (1), the Court may require any fact not within the personal knowledge of the deponent to be proved by the affidavit of a person having such personal knowledge.
+
+### 453 Joining in proceedings under the Family Protection Act 1955 and the Law Reform (Testamentary Promises) Act 1949
+(1) A defendant in a proceeding under the Family Protection Act 1955 or the Law Reform (Testamentary Promises) Act 1949 who wishes to claim against the same estate shall file a statement of claim in the proceeding, and thereafter these rules shall apply as if he were a plaintiff and the plaintiff were a defendant.
+(2) Where a statement of claim is filed under subclause (1), it shall not be necessary for the person filing it to apply for directions for service or to file or serve a notice of proceeding but that person shall serve his statement of claim and affidavits
+  (a) On the personal representative; and
+  (b) On the plaintiff; and
+  (c) On all other persons (except himself) upon whom the plaintiff has been directed to effect service.
+(3) Where a person, who has not been directed to be served in a proceeding under the above-mentioned Acts, wishes to claim thereunder against the same estate, that person shall file a statement of claim in the proceeding, and thereafter the provisions of subclauses (1) and (2) shall apply as if that person were a defendant in the proceeding.
+
+### 454 Joinder of claims and consolidation
+(1) Claims under the Family Protection Act 1955 and the Law Reform (Testamentary Promises) Act 1949 may be joined in one statement of claim, whether or not the claims are made, in the alternative.
+(2) Separate proceedings against the estate of the same deceased person may be consolidated under rules 382 and 383 if they are
+  (a) proceedings under the Family Protection Act 1955; or
+  (b) proceedings under the Law Reform (Testamentary Promises) Act 1949; or
+  (c) proceedings under the Property (Relationships) Act 1976, transferred to the Court by order of a Family Court Judge under section 22(3) of that Act.
+(3)
+
+### 455 Evidence
+(1) Subject to any direction by the Court in any particular case, evidence in any proceeding to which this Part applies shall be given
+  (a) By means of an agreed statement of facts in accordance with rule 502; or
+  (b) By affidavit in accordance with rules 507 to 519.
+(2) Subject to any direction by the Court in any particular case, nothing in subclause (1) applies in respect of
+  (a) A proceeding under the Law Reform (Testamentary Promises) Act 1949:
+  (b) A proceeding in which relief by way of specific performance is sought.
+
+### 456 Time for serving claimant's affidavit in proceedings under Family Protection Act 1955
+A claimant against the estate of a deceased person under the Family Protection Act 1955 must, at the time of serving his or her statement of claim, serve his or her own affidavit in support of his or her statement of claim.
+
+### 457 Time for serving affidavit in support of appearance
+(1) Where a defendant in any proceeding to which this Part applies files an appearance in lieu of a statement of defence, he may, at the time of serving his appearance, without leave, and at any time thereafter with leave of the Court, serve his affidavits in support of any matters referred to in the appearance.
+(2) These rules shall apply to affidavits filed under subclause (1) as though they were affidavits filed by a plaintiff in support of a statement of claim.
+
+### 458 Statement of defence to be filed
+(1) Subject to rule 457, no affidavit may be filed by a defendant in opposition to the claim of the plaintiff or of any claimant under rule 453 unless the defendant has filed and served a statement of defence thereto or an appearance.
+(2) Affidavits filed by any party after a statement of defence or appearance has been filed shall be confined to matters put in issue by pleadings or by the appearance.
+
+### 458A Directions as to conduct of proceedings under Companies Act 1955
+(1) In any proceeding to whichas the case may be, the plaintiff shall, within 14 days after the expiration of the time for filing statements of defence in the proceeding, apply to the Court on notice for directions as to the subsequent conduct of the proceeding.
+  (a) Rule 451(1)(ca) applies (other than a proceeding to which section 464 of the Companies Act 1955 applies); or
+  (b) Rule 451(1)(cb) applies,
+(2) The application shall specify the directions (if any) that are considered appropriate.
+(3) On hearing the application the Court may make such orders and give such directions (whether sought by the plaintiff or not) as it deems proper.
+(4) Where the proceeding is to confirm a reduction of the share capital, the share premium account, or the capital redemption reserve fund, of a company, then, without prejudice to the generality of subclause (3), the Court may give directions for an inquiry to be made as to the debts of, and claims against, the company or as to any class or classes of such debts or claims.
+(5) Every Registrar (not being a Deputy Registrar) shall have the jurisdiction and powers of the Court in Chambers to hear and determine an application under this rule.
+(6) The provisions of rules 272 to 275 shall apply to the exercise of the jurisdiction conferred by subclause (4).
+
+### 458B Procedure where inquiry ordered under Companies Act 1955 as to debts, claims, or liabilities
+(1) Where the Court makes, under rule 458A(3), an order for an inquiry of the kind described in rule 458A(4), rules 416B to 416K shall apply in relation to the inquiry.
+(2) The order may include provisions relating to any or all of the following matters:
+  (a) The settling of the list of creditors entitled to object:
+  (b) The dispensing with the observance of section 76(2) of the Companies Act 1955 as regards any class or classes of creditors:
+  (c) The date with reference to which the list of creditors entitled to object is to be made out:
+  (d) The fixing of a time for and the giving of directions as to all other necessary or proper steps in relation to the inquiry.
+(3) Where the Court makes, under rule 458A(3), an order for an inquiry of the kind described in rule 458A(4),
+  (a) The proceeding under the Companies Act 1955 in which it is made shall not be heard until the expiration of at least 8 clear days from the filing of the certificate mentioned in rule 416J; and
+  (b) Before the hearing of the proceeding under the Companies Act 1955, in which it is made, notices stating the day on which the proceeding is appointed to be heard shall be published at such times and in such newspapers as the Court directs.
+(4) Notices under subclause (3)(b) may be in form 34D, with such variations as the circumstances of the case may require.
+
+### 458C Delivery of copy of order under section 65 of the Companies Act 1955 to Registrar of Companies
+Unless in any particular case the Court otherwise directs, every order sanctioning the issue of shares at a discount shall direct that a sealed copy of the order shall be delivered to the Registrar of Companies for registration within 7 days after the date thereof or within such further or other time as the Court may allow, and that the order shall not take effect until the sealed copy has been so delivered.
+
+### Part 4A — Originating applications
+
+### 458D Application of Part 4A
+(1) This Part applies to
+  (a) Any application to the Court under any of the following provisions:
+    (i) Sections 6(2) and 10 of the Arbitration Act 1908:
+    (ii) Sections 5(1) and (2) and 7(3) of the Arbitration Amendment Act 1938:
+    (iii) Section 21(1)(a) and (b) and Parts 3, 4, and 5 of the Charitable Trusts Act 1957:
+    (iv) Sections 13 and 45 of the Chattels Transfer Act 1924:
+    (v) sections 108, 209J(1)(d), 209O(1)(c), 209O(2)(c), 209R, 264, 268(2), 269, and 273 of the Companies Act 1955:
+    (vi) sections 228(1)(d), 233(1)(c), 233(2)(c), 236, 290, 294(2), 295, and 299 of the Companies Act 1993:
+    (vii) Sections 58 and 59 of the Corporations (Investigation and Management) Act 1989:
+    (viiaa)
+    (viia) section 166E of the Customs and Excise Act 1996:
+    (viii) section 43(6) of the District Courts Act 1947:
+    (viiia) The Habeas Corpus Act 2001:
+    (ix) Section 23A of the Incorporated Societies Act 1908:
+    (x) Section 10A of the Industrial and Provident Societies Act 1908:
+    (xi) Section 56 of the Judicature Act 1908:
+    (xii) Sections 132, 133, 140, 143, 145, 145A, 148, 216, and 217 of the Land Transfer Act 1952:
+    (xiii) Sections 46, 55, and 149 of the Law Practitioners Act 1982:
+    (xiv) Section 9A(3) of the Law Reform Act 1936:
+    (xv)
+    (xvi) Section 12(1) (a) of the Minors' Contracts Act 1969:
+    (xvia) sections 128, 131, 167, 168, 179, 181, 182, and 186 of the Personal Property Securities Act 1999:
+    (xvii) The Proceeds of Crime Act 1991:
+    (xviii) Sections 92, 118, 119, 120, and 152 of the Property Law Act 1952:
+    (xix) The Protection of Personal and Property Rights Act 1988:
+    (xx) The Reciprocal Enforcement of Judgments Act 1934:
+    (xxi) Section 44C(2) and (8) of the Securities Act 1978:
+    (xxia) section 47E of the Terrorism Suppression Act 2002:
+    (xxii) Section 76 of the Trustee Act 1956:
+    (xxiii) the Arbitration Act 1996 (other than article 35 of Schedule 1, and clause 5 of Schedule 2, of that Act):
+  (b) Any originating proceeding for contempt of Court:
+  (c) Any originating proceeding for relief against forfeiture for non-payment of rent:
+  (d) Any application for directions by
+    (i) A liquidator; or
+    (ii) A receiver; or
+    (iii) A judicial manager appointed under Part 1A of the Life Insurance Act 1908; or
+    (iv) A statutory manager appointed under the Corporations (Investigation and Management) Act 1989; or
+    (v) A statutory manager appointed under the Reserve Bank of New Zealand Act 1989:
+  (da) Any application to the Court under rule 446U or rule 502C:
+  (e) Any other proceeding that the Court, in the interests of justice, permits to be commenced by the filing of an originating application.
+(2) Subject to Part 11A, this Part applies to any application to the Court under section 31 or section 32 or section 33 or section 41 of the Patents Act 1953.
+(3) The Registrars (not being Deputy Registrars) for the time being exercising their office at the registries of Auckland, Hamilton, Rotorua, Napier, Palmerston North, Wellington, Christchurch, and Dunedin shall have for the purposes of this Part the jurisdiction and powers of the Court in Chambers conferred by section 13(1) of the Chattels Transfer Act 1924, but only in respect of the extension of time for the registration of an instrument or of an affidavit of renewal of an instrument.
+(4) The provisions of rules 272 to 275 shall apply to the exercise of the jurisdiction conferred by subclause (3).
+(5) Despite subclause (1)(a)(xxiii), a second or subsequent application to the Court under the Arbitration Act 1996 with respect to the same arbitration, whether brought by the plaintiff or the defendant, must be made by interlocutory application in the same proceeding as the first application.
+(6) Despite subclause (1)(a)(xvia), a second or subsequent application to the Court under the Personal Property Securities Act 1999 with respect to the same security, whether brought by the plaintiff or the defendant, must be made by interlocutory application in the same proceeding as the first application.
+
+### 458E Originating applications
+(1) Any proceeding to which this Part applies may be commenced by the filing of an originating application in the proper office of the Court, as determined in accordance with rule 107(1).
+(2)
+(3) Rule 44 shall apply in relation to any proceeding commenced by the filing of an originating application.
+(4) Subject to rule 7, the proper heading of a document presented for filing in a proceeding commenced by the filing of an originating application shall,
+  (a) Where there is a defendant or respondent to the application, be in form 1; and
+  (b) In any other case, be as follows:In the Matter of [Short Title of Act]AndIn the matter of [Full name],of [Place of residence],[Occupation]
+(5) This rule has effect notwithstanding anything in rule 106 or Part 4.
+
+### 458EA Originating applications relating to certain proceedings under Companies Acts
+(1) Despite rule 458E(1),
+  (a) an originating application under section 268(2) of the Companies Act 1955 or section 269 of that Act must be filed in the same office of the Court in which the notice under section 268(1) of that Act was filed; and
+  (b) an originating application under section 294(2) of the Companies Act 1993 or section 295 of that Act must be filed in the same office of the Court in which the notice under section 294(1) of that Act was filed; and
+  (c) an originating application under section 273 of the Companies Act 1955 or section 299 of the Companies Act 1993, as the case may be, must be filed in the proper office of the Court, as determined in accordance with rule 700ZK(1).
+(2) The affidavit filed in support of
+  (a) an originating application under section 268(2) of the Companies Act 1955 must have attached to it a copy of the notice under section 268(1) of that Act; and
+  (b) an originating application under section 294(2) of the Companies Act 1993 must have attached to it a copy of the notice under section 294(1) of that Act.
+
+### 458F Application of provisions relating to interlocutory applications
+(1) In relation to originating applications, rules 236, 237, 240, 241, 243, 244, 245, 246, 249, 252, 255, 256, and 257 apply, subject to this Part and to all necessary modifications, as they apply in relation to interlocutory applications.
+(2) Despite subclause (1), rule 236, in its application to an originating application, is subject to the Act under which the originating application is made.
+
+### 458G Date of hearing
+In the case of an inter partes application, the date shown on the notice of application as the date for the hearing of the application shall be that allocated by the Registrar when the notice of application is filed and the Registrar shall enter the application on the list for that date without any further request.
+
+### 458H Directions as to service
+(1) In relation to a proceeding commenced by the filing of an originating application, the provisions of subclauses (1), (2), (4), and (5) of rule 451 shall apply, subject to this Part and to all necessary modifications, as they apply in relation to a proceeding to which Part 4 applies.
+(2) The effect of every order for directions as to service or for representation made pursuant to subclause (1) or subclause (5) of rule 451 (as applied by subclause (1) of this rule) shall be set out in the notice of originating application as if that notice were a notice of proceeding to which rule 121(3) applied.
+(3) Nothing in this rule applies to an originating application under any of the following provisions:
+  (a) sections 264, 268(2), 269, and 273 of the Companies Act 1955:
+  (b) sections 290, 294(2), 295, and 299 of the Companies Act 1993.
+
+### 458I Directions before hearing
+(1) At any time before the hearing of an originating application,
+  (a) the Court may, of its own motion, do any of the following:
+    (i) give such directions regarding the proceeding commenced by the filing of the application as the Court thinks fit:
+    (ii) direct the parties to file a statement of claim and a statement of defence respectively, if the application has been made under any of the following provisions:
+      (A) sections 268(2), 269, and 273 of the Companies Act 1955:
+      (B) sections 294(2), 295, and 299 of the Companies Act 1993:
+  (b) any party may file an interlocutory application for directions regarding the proceeding commenced by the filing of the application.
+(2) In relation to an interlocutory application made under subclause (1), rule 425 applies, subject to this Part and to all necessary modifications.
+
+### 458J Directions affecting the hearing
+(1) At any time after the filing of an originating application, any party may apply to the Court for an order for directions affecting the hearing, stating the directions sought.
+(2) In relation to a proceeding commenced by the filing of an originating application, rule 425 applies, subject to this Part and to all necessary modifications.
+(3) Any order or direction made or given pursuant to this rule may, if justice so requires, be varied or revoked (in whole or in part) by the Court at the hearing.
+
+### 458K Court may convene conference of parties
+The Court may, at any time before or during the hearing, require the parties to attend in Chambers with a view to making any order or giving any directions which might be made or given on an application under rule 458J and may, after hearing the parties, make any order or give any directions which might be made or given pursuant to rule 458J.
+
+### 458L Evidence
+Notwithstanding the provisions of rules 247 and 248 (as applied by rule 458F), in the case of a proceeding commenced by the filing of an originating application evidence may be taken orally on oath if the Court, on any application before or at the hearing, so directs.
+
+### 458M Cross-examination of deponent
+Rule 508 shall apply in relation to any proceeding commenced by the filing of an originating application.
+
+### 458N Application of this Part to application for writ of habeas corpus
+Nothing in rules 458H, 458I, 458J, and 458K applies to an originating application for a writ of habeas corpus under the Habeas Corpus Act 2001.
+
+### Part 5 — Disposal of proceedings
+
+**Judgment by default**
+
+### 459 Application where appearance
+(1) Rules 460 to 470 shall not apply where the defendant has filed an appearance under rule 131(1).
+(2) Where an appearance has been filed under rule 132 or rule 133(1), rules 460 to 470 shall apply subject thereto.
+
+### 460 Liquidated demand
+(1) If the relief claimed by the plaintiff is payment of a liquidated demand in money and the defendant does not file a statement of defence within the number of days stated for that purpose in the notice of proceeding, the plaintiff may at once seal final judgment for any sum not exceeding the sum claimed in his statement of claim, together with
+  (a) Interest (if any) payable as of right, if such interest has been specifically claimed in the statement of claim, calculated up to the date of judgment; and
+  (b) costs and disbursements of an amount fixed by the Registrar.
+(2) If the plaintiff claims costs and disbursements, the plaintiff must file a memorandum setting out the amount claimed and how that amount is calculated, together with any submissions in support of the claim.
+(3) Every Registrar has the jurisdiction and powers of the Court under these rules to fix costs and disbursements under subclause (1)(b).
+
+### 461 Land
+If the relief claimed by the plaintiff is the recovery of land, and the defendant does not file a statement of defence within the number of days stated for that purpose in the notice of proceeding or if the statement of defence is limited to part only of the land claimed, the plaintiff may at once seal judgment that the person whose title is asserted in the statement of claim do recover possession of the land claimed, or any part to which the statement of defence does not apply, together with judgment for the costs of the proceeding up to the date of sealing judgment.
+
+### 462 Chattels
+(1) If the relief claimed by the plaintiff is the recovery of chattels and the defendant does not file a statement of defence within the number of days stated for that purpose in the notice of proceeding or if the statement of defence is limited to part only of the chattels claimed, the plaintiff may seal judgment that he do recover possession of the chattels claimed, or any of them to which the statement of defence does not apply, or the value thereof, together with judgment for the costs of the proceeding up to the date of sealing of judgment.
+(2) If the possession of any chattels claimed is not recovered, the plaintiff may have the proceeding tried for the purpose of assessing the value of those chattels.
+
+### 463 Unliquidated demand
+If the relief claimed by the plaintiff is payment of an unliquidated demand in money and the defendant does not file a statement of defence within the number of days stated for that purpose in the notice of proceeding, the proceeding shall be tried for the purpose of assessing damages.
+
+### 464 Evidence on trial
+(1) On any trial for assessment of damages under rule 462(2) or rule 463, no defendant shall, except by leave of the Court, adduce evidence, save in mitigation of damages.
+(2) Unless the proceeding is required to be tried with a jury, the plaintiff may adduce evidence of his damages by affidavit.
+
+### 465 Other proceedings
+(1) Subject to rule 470, in all other proceedings in which the defendant or any defendant has not filed a statement of defence within the number of days stated for that purpose in the notice of proceeding, the plaintiff may apply on due notice to the defendant for such judgment against the defendant who has not filed a statement of defence as he considers himself entitled to, and on such application judgment may be given for such relief as the plaintiff may be entitled to on the facts set out in the statement of claim.
+(2) Where justice so requires, the Court may, subject to rule 470, dispense with the giving of notice to the defendant under subclause (1).
+(3) In lieu of applying under subclause (1), the plaintiff may apply for the allocation of a hearing date for the proceeding and judgment may be given for such relief as the plaintiff shall be entitled to.
+
+### 466 Where several causes of action
+Where the plaintiff's statement of claim contains more than one cause of action, the plaintiff may proceed separately under rules 460 to 465 in respect of any or each cause of action to which no statement of defence has been filed.
+
+### 467 Where several defendants
+Where there are several defendants, the plaintiff may proceed against any one or more of the defendants under rules 460 to 466 and may, notwithstanding any judgment given under those rules, continue the proceeding against any other defendant in respect of whom the cause of action subsists.
+
+### 468 Affidavits to be filed
+Before judgment by default can be sealed, there must be filed
+  (a) An affidavit of service of the statement of claim and notice of proceeding; and
+  (b) If the statement of claim and notice of proceeding have not been served personally on the defendant or on a solicitor accepting service on his behalf, an affidavit verifying the statement of claim.
+
+### 469 Judgment may be set aside or varied
+Any judgment obtained by default may be set aside or varied by the Court on such terms as it thinks fit if it appears to the Court that there has been, or may have been, a miscarriage of justice.
+
+### 470 Crown
+Judgment by default under rules 460 to 467 shall not be entered against the Crown except by leave of the Court obtained on an application notice of which has been served at least 7 days before the time specified in the notice for hearing the application.
+
+**Judgment on admission**
+
+### 471 Admission of claim or cause of action
+(1) A party who admits any claim or cause of action alleged in any proceeding served upon him may at any time thereafter file an admission thereof and serve a copy thereof on the other party.
+(2) Where an admission is filed and served under subclause (1), the party on whom the admission is served may thereupon seal judgment on the claim or cause of action so admitted, without prejudice to his right (if any) to proceed on any other claim or cause of action.
+(3) An admission under subclause (1) with regard to any cause of action in which a sum of money is claimed shall state the exact amount admitted.
+(4) Any judgment entered on an admission filed and served under subclause (1) may, upon application, be set aside by the Court if
+  (a) The plaintiff, being under a duty or obligation to the defendant not to enter judgment on the admission, acted contrary to that duty or obligation in entering judgment; or
+  (b) The plaintiff, in entering judgment, acted fraudulently, unconscionably, or in wilful or reckless disregard of the defendant's rights.
+(5) Upon any application under subclause (4), the Court may direct that a proceeding be brought in order to determine whether judgment was wrongfully entered.
+
+### 472 Admission of defence
+(1) Where a party in his original or amended statement of defence alleges any ground of defence that goes to the whole of any cause of action alleged by the other party, the other party, if he admits that ground of defence, may file and serve an admission of that ground of defence.
+(2) If the ground of defence so admitted arose after the filing of the pleading containing the cause of action to which it refers, the party filing and serving the admission shall be entitled to an order for his costs in respect of the cause of action to which the admission applies, up to the time of filing such statement of defence, unless the Court otherwise orders.
+(3) Subject to subclause (2), a party on whom an admission has been served under subclause (1) may at any time thereafter seal judgment upon the cause of action to which it relates.
+
+### 473 Certain rules not affected
+Nothing in rules 471 and 472 affects the operation of
+  (a) Rule 292 (judgment on admission of facts); or
+  (b) Rule 357(3) (relating to sealing of judgment on admission of part of relief claimed).
+
+**Discontinuance**
+
+### 474 Interpretation
+For the purposes of rules 475 to 476E, a reference to discontinuing a proceeding means discontinuing a proceeding against 1 or more defendants.
+
+### 475 Right to discontinue proceeding
+(1) A plaintiff may, at any time before the giving of judgment or a verdict, discontinue a proceeding by
+  (a) filing a notice of discontinuance and serving a copy of the notice on every other party to the proceeding; or
+  (b) orally advising the Court at the hearing of the discontinuance.
+(2) A notice of discontinuance under subclause (1)(a) must be in form 34E.
+(3) This rule is subject to rule 476.
+
+### 476 Restrictions on right to discontinue proceeding
+(1) A plaintiff may discontinue a proceeding only with the leave of the Court if
+  (a) the Court has granted an interim injunction or made an interim order under rule 627B or, in the case of an application for review under section 4 of the Judicature Amendment Act 1972, made an interim order under section 8 of that Act; or
+  (b) a party to the proceeding has given an undertaking to the Court.
+(2) A plaintiff to whom an interim payment has been made, whether voluntarily or under an order made under rule 346C or rule 346D, may discontinue the proceeding only with the written consent of the party by whom the payment was made or with the leave of the Court.
+(3) A plaintiff may discontinue a proceeding in which there is more than 1 plaintiff only with the consent of every other plaintiff or with the leave of the Court. If the plaintiff files a notice of discontinuance under rule 475(1)(a), the consent of every other plaintiff must be in writing.
+(4) If there is more than 1 defendant in a proceeding, a plaintiff may discontinue a proceeding against a particular defendant only with the consent of every other defendant or with the leave of the Court. If the plaintiff files a notice of discontinuance under rule 475(1)(a), the consent of every other defendant must be in writing.
+
+### 476A Effect of discontinuance
+(1) A proceeding ends against a defendant or defendants, as the case may be, on
+  (a) the filing and service of a notice of discontinuance under rule 475(1)(a); or
+  (b) the giving of oral advice of the discontinuance at the hearing under rule 475(1)(b); or
+  (c) the making of an order under rule 476.
+(2) The discontinuance of a proceeding does not affect the determination of costs.
+(3) This rule is subject to rule 476B.
+
+### 476B Court may set discontinuance aside
+(1) The Court may, on the application of a defendant against whom a proceeding is discontinued, make an order setting the discontinuance aside if it is satisfied that the discontinuance is an abuse of the process of the Court.
+(2) An application under subclause (1) must be made within 30 days after discontinuance under rule 475(1).
+
+### 476C Costs
+Unless the defendant otherwise agrees or the Court otherwise orders, a plaintiff who discontinues a proceeding against a defendant must pay costs to the defendant of and incidental to the proceeding up to and including the discontinuance.
+
+### 476D Restriction on subsequent proceedings
+A plaintiff who discontinues a proceeding (proceeding A) against a defendant may not commence another proceeding (proceeding B) against the defendant if proceeding B arises out of facts that are the same or substantially the same as those relating to proceeding A unless the plaintiff has paid any costs ordered to be paid to the defendant under rule 476C relating to proceeding A.
+
+### 476E Certain remedies not affected
+If a plaintiff discontinues a proceeding in which a defendant has issued a third party notice under rules 154 to 162 or has filed a notice under rules 163 to 168, the discontinuance does not affect the continuation of the proceeding in relation to the third party notice or the notice filed under rules 163 to 168.
+
+**Stay or dismissal**
+
+### 477 Summary stay or dismissal
+Where in any proceeding it appears to the Court that in relation to the proceeding generally or in relation to any claim for relief in the proceedingthe Court may order that the proceeding be stayed or dismissed generally or in relation to any claim for relief in the proceeding.
+  (a) No reasonable cause of action is disclosed; or
+  (b) The proceeding is frivolous or vexatious; or
+  (c) The proceeding is an abuse of the process of the Court,
+
+### 478 Application to dismiss for want of prosecution
+Where the plaintiff fails to prosecute his proceeding or any part thereof, or the defendant fails to prosecute his counterclaim or any part thereof, to trial and judgment, any opposite party may apply to have the proceeding or counterclaim, or such part thereof as aforesaid, dismissed, and the Court may, on such application, make such order as may be just.
+
+**Trial**
+
+### 479 Change of venue
+(1) Notwithstanding the provisions of rule 123 specifying, in respect of any proceeding, the place where the proceeding is to be tried, wherethe Court may at any time order that the proceeding be tried there.
+  (a) The parties to the proceeding consent to the proceeding being tried at any other place where sittings are held; or
+  (b) It appears to the Court that the proceeding can be more conveniently or more fairly tried at any other place where sittings are held,
+(2) Where the Court makes an order, under subclause (1), it may direct that all subsequent steps in the proceeding be taken at the place where the trial is to take place.
+
+### 480 Adjournment of trial
+The Court may, before or at the trial, if it appears expedient in the interests of justice to do so, postpone or adjourn the trial for such time, to such place, and upon such terms as it thinks fit.
+
+### 481 Mode of trial
+Proceedings shall be tried either before a Judge alone or before a Judge and a jury.
+
+### 482 Existence or accuracy of record
+In any proceeding tried before a Judge and a jury any question as to the existence or accuracy of a record of the Court shall be determined by the Judge and not by the jury.
+
+### 483 Where neither party appears
+(1) If neither party appears when the proceeding is called, the Court may order it to be struck out.
+(2) Where a proceeding is struck out under subclause (1), the Court may order it to be reinstated on good cause shown by either party and on such terms as it thinks just.
+
+### 484 Where only plaintiff appears
+If the plaintiff appears and the defendant does not, the plaintiff shall prove his cause of action so far as the burden of proof lies on him.
+
+### 485 Where only defendant appears
+If the defendant appears but the plaintiff does not, the defendant,
+  (a) If he does not admit the claim, shall be entitled to judgment dismissing the proceeding; and
+  (b) If he has a counterclaim, shall prove it so far as the burden of proof lies on him.
+
+### 486 Judgment following non-appearance may be set aside
+Any verdict or judgment obtained where one party does not appear at the trial may be set aside or varied by the Court on such terms as may seem just if it appears to the Court that there has, or may have been, a miscarriage of justice.
+
+### 487 Where both parties appear
+(1) If both the plaintiff and the defendant appear, the plaintiff or such other party as has the right to begin shall state his case and adduce his evidence in support thereof.
+(2) When the party who begins has closed his case, the other party shall state his case and adduce his evidence in support thereof.
+(3) After the evidence has been taken, the party who did not begin may address the Court generally on the case, and after him the other party may address the Court in reply; but if the party who did not begin has not adduced evidence in support of his case, the opposite party shall address the Court on the case, and after him the party who did not begin may address the Court in reply.
+(4) This rule applies subject
+  (a) To any directions given under rule 425; and
+  (b) To the provisions of any Act.
+
+### 488 Where proceeding tried with jury
+(1) Where the proceeding is tried with a jury, the Judge shall, after the conclusion of counsel's addresses, direct the jury on the evidence given in the case and on any points of law connected therewith, and may leave the case to the jury generally to find for either party, or may ask the jury to answer such issues as he thinks fit, or as the parties agree upon, and take the verdict of the jury on such issues only.
+(2) The jury may, in lieu of finding a verdict for either party, state the facts as they find them to have been proved. The statement shall be put into writing and signed by the foreman of the jury before they are discharged.
+(3) The jury may give a verdict for either party, subject to a special case to be stated by the parties.
+(4) This rule applies subject to the provisions of any Act.
+
+**Nonsuit**
+
+### 489 Nonsuit
+[Repealed]
+
+### 490 Defendant may be put to election as to evidence
+[Repealed]
+
+### 491 Costs to be paid before again setting down
+[Repealed]
+
+**Discharge of jury**
+
+### 492 Discharge of jury by consent
+Where the proceeding is tried before a judge and a jury, the jury may, by consent of both parties, be discharged from giving a verdict.
+
+### 493 Subsequent conduct of proceeding
+(1) If a jury is discharged under rule 492, the hearing must, if the parties so agree, proceed before the Judge presiding at the hearing and judgment may be given by that Judge.
+(2) If a jury is discharged under rule 492 and the parties do not agree to the hearing proceeding before the Judge presiding at the hearing, each party must pay his or her own costs of the hearing and either party may apply for the allocation of a new hearing date for the proceeding.
+
+**New trial**
+
+### 494 Power to order new trial
+(1) A new trial may be ordered only where, in the opinion of the Court, there has been a miscarriage of justice that justifies a new trial.
+(2) An order under subclause (1) may be made on such terms as the Court thinks fit.
+(3) Without limiting the circumstances in which the Court may hold that there has been a miscarriage of justice that justifies a new trial, it is hereby declared that the Court may hold that there has been such a miscarriage of justice if
+  (a) The Judge has misdirected the jury on any material point of law, or, if the action is tried without a jury, has during the course of the trial decided any point of law erroneously; or
+  (b) The Judge has admitted improper evidence, or rejected evidence which ought to have been admitted; or
+  (c) The damages are excessive or too small; or
+  (d) The verdict has been obtained by any unfair or improper practice of the successful party to the prejudice of the opposite party; or
+  (e) Material evidence has been discovered since the trial which could not reasonably have been foreseen or known before the trial; or
+  (f) The jury or any juror has been guilty of misconduct, if such misconduct can be proved by extrinsic evidence; but the verdict cannot be impugned on the evidence of any of the jurors; or
+  (g) A special verdict or other finding of the jury is so defective that the Judge cannot give judgment upon it; or
+  (h) Any witness has been guilty of such misconduct as to affect the result of the trial; or
+  (i) The verdict is against the weight of evidence.
+(4) If it appears to the Court that the miscarriage of justice affects part only of the matter in dispute, the Court may give final judgment as to the part not so affected, and direct a new trial as to the affected part only:
+  Provided that no new trial shall be ordered as to the affected part if the amount of damages awarded in respect thereof can be separately ascertained, and the plaintiff consents to reduce the whole sum awarded to him by that amount.
+(5) A new trial may be ordered on any question in a proceeding, whatever be the grounds on which a new trial is applied for, without interfering with the decision upon any other question.
+(6) Where there is more than one defendant, a new trial may be ordered against any one or more of them.
+
+### 495 Application for new trial
+(1) Application for a new trial shall be made by interlocutory application filed within 14 days after the verdict of the jury, or, in the case of trial before a Judge alone, from the date of delivery of judgment.
+(2) The application shall state the circumstances alleged to have resulted in a miscarriage of justice and no other circumstances will be considered by the Court.
+(3) The application shall not operate as a stay of proceeding unless the Court so orders.
+(4) The Court shall not receive
+  (a) Any affidavit of any witness to explain or add to evidence given by him at the trial; or
+  (b) An affidavit of any facts which might have been given in evidence at the trial.
+(5) Notwithstanding subclause (4), the Court may receive an affidavit from a material witness showing that he made a serious mistake in giving his testimony.
+(6) Where misdirection by the Judge is relied upon, the terms of the direction may be proved by reference to any record thereof approved by the Judge, including the transcription of any shorthand note or tape taken at his direction.
+
+**Evidence at trial**
+
+### 496 Evidence to be given orally
+Except where otherwise directed by the Court or required or authorised by these rules or by any Act, disputed questions of fact arising at the trial of any proceeding shall be determined on evidence given by means of witnesses examined orally in open Court.
+
+### 497 Issue of subpoenas
+(1) Orders of subpoena in form 35 to require the attendance of witnesses at the trial to testify or to produce documents, or both, may be obtained by any party, at any time after the filing of the statement of claim.
+(2) A party requiring the issue of an order of subpoena shall file a praecipe therefor.
+(3) The names of more than one witness may be included in one order of subpoena, but it shall not be necessary to show the names on the praecipe.
+
+### 498 Service of subpoena
+The order of subpoena shall be served on the witness personally, by leaving a sealed copy thereof with the witness, together with any allowances and travelling expenses required by section 56A of the Act.
+
+### 499 Evidence of person in custody
+(1) An application for an order under section 26 of the Penal Institutions Act 1954 may be made ex parte.
+(2)
+
+### 500 Evidence by affidavit by agreement
+(1) In any proceeding heard by a Judge sitting without a jury, the parties may file an agreement signed by the parties, that the evidence, or any part of the evidence, shall be given by affidavit.
+(2) Notwithstanding any agreement filed under subclause (1), the Court may direct that evidence of any disputed fact or issue be given in accordance with rule 496.
+
+### 501 Evidence by affidavit pursuant to order of Court
+(1) The Court may, even though no agreement for the giving of evidence by affidavit has been made, at any time for sufficient reason order, on such conditions as the Court thinks reasonable,
+  (a) That any particular fact or facts may be proved by affidavit; or
+  (b) That the evidence of any witness may be given by affidavit read at the trial, or on any application for judgment.
+(2) Notwithstanding subclause (1), but subject to any order made under rule 425, wherean order shall not be made authorising the evidence of the witness to be given by affidavit.
+  (a) An opposite party desires the production of a witness for cross-examination; and
+  (b) The witness can be produced,
+
+### 502 Agreed statement of facts
+(1) Where the parties so agree, the evidence at the trial of any proceeding heard by a Judge sitting without a jury, or any issue therein, may be given, without examining any witnesses or filing any affidavits, by a statement of facts agreed upon by them:
+  Provided that, notwithstanding such agreement, the Court may direct that evidence of any fact or issue be given in accordance with rule 496 or rule 501.
+(2) Every agreement under subclause (1) shall be in writing signed by the parties and shall be filed.
+(3) The agreement shall set out the facts agreed upon and the Court shall be entitled to draw any necessary inferences from the agreed facts.
+
+**Evidence in Trans-Tasman proceedings**
+
+### 502A Interpretation
+In rules 502B to 502J, unless the context otherwise requires, terms that are defined in the Evidence Act 2006 have the meanings given to them by that Act.
+
+### 502B Issue of subpoenas by High Court for service in Australia
+(1) An order of subpoena of the High Court for service on a witness in Australia that requires the witness to testify, whether or not it also requires the witness to produce documents or things, shall be in form 35A.
+(2) An order of subpoena of the High Court for service on a witness in Australia that requires the witness to produce documents or things, but does not require the witness to testify, shall be in form 35B.
+(3) An order of subpoena referred to in subclause (1) or subclause (2) may be obtained in the same manner and subject to the same conditions as an order of subpoena under rule 497.
+
+### 502C Leave to serve New Zealand subpoena on witness in Australia
+(1) Every application for leave to serve a New Zealand subpoena on a witness in Australia shall be made ex parte by originating application and the provisions of Part 4A (other than rule 458H) shall apply, subject to all necessary modifications, to the application.
+(2) Every application for leave to serve a New Zealand subpoena on a witness in Australia shall be accompanied by an affidavit containing the following matters:
+  (a) The name, occupation, and residential address of the witness:
+  (b) Proof that the witness has attained the age of 18 years:
+  (c) If the subpoena requires the witness to testify and to attend at the New Zealand Court, whether consideration has been given to requiring the witness to testify from Australia by video link or telephone conference and the reason it is not considered appropriate that the witness do so:
+  (d) The latest date proposed for service of the subpoena:
+  (e) If the subpoena requires the witness to attend at the New Zealand Court or at any other place,
+    (i) The availability of suitable means of transport to enable the witness to comply with the subpoena:
+    (ii) An estimate of the length of time that the witness will be required to attend at the Court or other place; and
+    (iii) An estimate of the cost of transport and accommodation likely to be incurred by the witness in complying with the subpoena:
+  (f) The amounts or the amounts represented by vouchers, as the case may be, proposed to be paid or tendered to the witness to enable the witness to comply with the subpoena:
+  (g) If the applicant is aware of any fact or circumstance that may constitute a ground for setting the subpoena aside under section 160 of the Evidence Act 2006, the fact or circumstance.
+(3) A Judge may direct that a New Zealand subpoena may be served in Australia on a body corporate by serving the subpoena on a member or officer or employee of the body corporate in such manner as the Judge directs.
+(4) The file relating to every such application shall be kept separate from the file relating to the proceeding to which the subpoena relates.
+(5) Notwithstanding rule 66, no document relating to an application under this rule shall be searched or inspected or copied without the leave of a Judge.
+
+### 502D Service of subpoena on witness in Australia
+Every statement that, in accordance with section 156(2) of the Evidence Act 2006, is required to accompany a subpoena that is served on a witness in Australia shall be in form 35C.
+
+### 502E Application to set aside New Zealand subpoena
+(1) An application to set aside a New Zealand subpoena served on a witness in Australia may be filed by
+  (a) A person who is entitled to file documents under these rules; or
+  (b) A person who is entitled to practise as a solicitor of a Supreme Court of a State or Territory of Australia and who is in practice on his or her own account or as a principal in a firm of solicitors.
+(2) The application may be filed by sending it by facsimile to the office of the High Court in which leave to serve the subpoena was given.
+(3) Every application shall be made by way of interlocutory application.
+(4) The heading on the application may be the same as the heading on the order granting leave to serve the subpoena.
+(5) Every application
+  (a) Shall state an address in New Zealand or Australia that is the applicant's address for service:
+  (b) May state a facsimile number in New Zealand or Australia to which documents relating to the application may be sent to the applicant.
+(6) Where the application is filed by facsimile, the Registrar
+  (a) Shall send by facsimile to the applicant or the applicant's solicitor, as the case may be, an acknowledgment that the application has been received:
+  (b) May, if the application is not clear or legible, require the applicant or the applicant's solicitor, as the case may be, to transmit the application by facsimile again.
+
+### 502F Service of documents on applicant
+(1) A document relating to an application to set aside a New Zealand subpoena may be served on the applicant by:
+  (a) Leaving it at the address for service of the applicant stated in the application; or
+  (b) If a facsimile number is stated in the application, sending it by facsimile to that number.
+(2) Where a document relating to the application is served on the applicant by facsimile, the document shall, subject to subclauses (3) and (4), be deemed to have been served on the day on which it was sent.
+(3) Where a document is sent by facsimile to a facsimile number in a State or Territory of Australia at a time later than 5 pm in that State or Territory, the document shall, subject to subclause (4), be deemed to have been served on the first working day after the day on which it was sent.
+(4) A document sent to a facsimile number in Australia shall, unless the contrary is proved, be deemed to have been received in a complete and legible condition.
+
+### 502G Hearing of application
+(1) Notwithstanding any other rule, if neither the applicant for an order to set aside a New Zealand subpoena nor the person at whose request the subpoena was issued states that a hearing is required, the Court may determine an application to set the subpoena aside without a hearing.
+(2) For the purposes of determining an application, the Court may, if it thinks fit, hold a hearing by video link or telephone conference pursuant to section 168 of the Evidence Act 2006.
+(3) Subject to the Part 4 of the Evidence Act 2006, the Court shall hold a hearing by video link or telephone conference if the applicant requests, either in the application or within a reasonable time after the filing of the application, that the Court direct that the hearing be held by video link or telephone conference.
+
+### 502H Failure to comply with subpoena
+A certificate under section 161 of the Evidence Act 2006 shall be in form 35D.
+
+### 502I Transmission of documents or things to Australian Court
+(1) Every person who produces a document or thing at a registry of the High Court in compliance with an Australian subpoena shall provide the Registrar with a copy of the subpoena.
+(2) Where a document or thing is produced at a registry of the High Court, the Registrar shall, on compliance with subclause (1),
+  (a) Issue a receipt for the document or thing that states the date and time of its production; and
+  (b) Send to the Registrar of the Australian Court that issued the subpoena, by facsimile or other means of communication, a copy of the receipt and of the subpoena; and
+  (c) Send the document or thing together with a copy of the subpoena without delay, to the Australian Court by a means that will enable it to be received before the date on which it is required to be produced to that Court.
+
+### 502J Evidence and submissions by video link and telephone conference
+(1) An application under section 168 of the Evidence Act 2006 for a direction that evidence be given from Australia or submissions be made from Australia by video link or telephone conference may be made ex parte and, except in the case of an application under section 160 of that Act, shall be accompanied by an affidavit containing the following matters:
+  (a) The nature of the evidence or the submissions:
+  (b) The place in Australia from which the evidence is to be given or the submissions are to be made:
+  (c) If it is proposed that evidence be given or submissions be made by video link, particulars of the video link facilities available at the courtroom or other place where the Court is to sit in New Zealand and at the place where the evidence is to be given or the submissions are to be made in Australia:
+  (d) If it is proposed that evidence be given or submissions be made by telephone conference, particulars of the telephone conference facilities available at the courtroom or other place where the Court is to sit in New Zealand and at the place where the evidence is to be given or the submissions are to be made in Australia:
+  (e) In a case where evidence is proposed to be given, an estimate of the time that the examination of the witness will take:
+  (f) Whether issues of character or credibility are likely to be raised:
+  (g) In a case where submissions are proposed to be made, an estimate of the time that will be required to make the submissions.
+(2) Where the Court gives a direction under section 168(1) of the Evidence Act 2006, the Court shall instruct the Registrar to make appropriate arrangements in New Zealand and Australia in accordance with any particular directions which the Court may make.
+(3) Without limiting the generality of subclause (2), the Court may
+  (a) Direct that the evidence be given or the submissions be made at an Australian Court or at another place in Australia:
+  (b) Request that an officer of an Australian Court or other person approved by the Judge be present to assist in the transmission of evidence or submissions, and in particular to
+    (i) Introduce witnesses giving evidence or a barrister or solicitor, or both, making submissions:
+    (ii) Assist with the administration of oaths:
+    (iii) Assist with the implementation of any directions or requests given or made by the Judge hearing the evidence or submissions:
+  (c) Direct that the evidence or the submissions be heard at a location other than the precincts of the High Court.
+
+**Procedure when evidence given by affidavit**
+
+### 503 Application of rules 504 to 509
+The provisions of rules 504 to 509 shall apply subject to any direction of the Court and to any rule affecting any particular class of proceeding.
+
+### 504 Time for filing plaintiff's affidavits
+(1) In this rule, the prescribed date means
+  (a) Where the parties have agreed under rule 500 that evidence be given by affidavit, the date when the agreement was filed:
+  (b) Where these rules provide that the evidence be given by affidavit, the date when the pleadings were closed.
+(2) Within 14 days after the prescribed date the plaintiff shall, subject to rule 456, file his affidavits and serve copies on the defendant and on any other party.
+
+### 505 Time for filing defendant's affidavits
+The defendant, within 14 days after service on him of the plaintiff's affidavits, shall file his affidavits and serve copies thereof on the plaintiff and on any other party.
+
+### 506 Time for filing affidavits in reply
+Within 10 days after service on him of the defendant's affidavits, the plaintiff shall file his affidavits in reply and serve copies thereof on the defendant and on any other party.
+
+### 507 Use of affidavits
+(1) No affidavit shall be read or used until it has been filed.
+(2) When an affidavit has been filed, it may be used by any party.
+(3) No affidavit shall be taken off the file without the leave of the Court.
+
+### 508 Cross-examination of deponent
+(1) Any party desiring to cross-examine a deponent who has sworn an affidavit on behalf of an opposite party may serve on that opposite party a notice in writing (which may be by letter addressed to the opposite party's solicitor) requiring the production of the deponent for cross-examination before the Court at the trial.
+(2) The notice shall be served, and copies thereof filed in the Court and delivered to all other parties who have taken any step in the proceeding, not less than 3 clear days before the day fixed for the trial.
+(3) Unless the deponent is produced accordingly, his affidavit shall not be used as evidence except by the special leave of the Court.
+(4) The party to whom the notice is given shall be entitled to compel the attendance of the deponent for cross-examination in the same way as he might compel the attendance of a witness to be examined.
+
+### 509 Person refusing to make affidavit
+(1) If any person having knowledge of facts relevant to a proceeding or interlocutory application refuses to make an affidavit as to those facts, any party may apply for an order to such person to appear and be examined on oath before the Court, or such person as the Court appoints, as to the matters concerning which he has refused to make an affidavit.
+(2) Upon any application under subclause (1), the Court may
+  (a) Make such orders, as the Court thinks just, for the attendance of that person before the Court, or before the person therein named, for the purpose of being examined as aforesaid, and for the production of any documents specified in the order; and
+  (b) Impose such terms, as the Court thinks just, as to the examination and the costs of and incidental to the application and examination.
+(3) Any person who disobeys any order made under subclause (2) shall be liable to proceedings for contempt.
+
+### 510 Form and contents of affidavits
+(1) Every affidavit
+  (a) Shall be expressed in the first person; and
+  (b) Shall state the deponent's full name, occupation, and place of residence; and
+  (c) Shall either
+    (i) Be signed by the deponent; or
+    (ii) If the deponent cannot write, have the deponent's mark set to it by the deponent; and
+  (d) Shall be confined
+    (i) To such matters as would be admissible if given in evidence at trial by the deponent; and
+    (ii) If in reply, to matters strictly in reply.
+(2) The Court
+  (a) May refuse to read an affidavit that
+    (i) Unnecessarily sets forth any argumentative matter or copies of or extracts from documents; or
+    (ii) Being in reply, introduces new matter; and
+  (b) May order the costs incurred in respect of or occasioned by an affidavit to which paragraph (a) applies be paid by the party filing the affidavit.
+(3) The date and place of swearing an affidavit shall be stated in the jurat, which shall be signed by the person before whom the affidavit is sworn.
+(3A) Where an affidavit has more than one page,
+  (a) The deponent shall initial or set the deponent's mark on each page, except the cover sheet, that precedes the page on which the jurat appears; and
+  (b) The person before whom the affidavit is sworn shall initial each page, except the cover sheet, that precedes the page on which the jurat appears.
+(4) Nothing in this rule limits the extent to which rules 23 to 40 apply in respect of affidavits.
+
+### 511 Exhibits to affidavits
+(1) Exhibits to an affidavit
+  (a) Shall be marked, in each case, with a distinguishing letter or number; and
+  (b) Shall be annexed to the affidavit
+    (i) If this is practicable; and
+    (ii) If none of them exceed International size A4; and
+  (c) Shall, in each case, be identified by a note made thereon and signed by the person before whom the affidavit is sworn.
+(2) Exhibits that are not annexed to the affidavit shall, subject to subclause (3), be filed with the affidavit in a separate bundle, which bundle shall
+  (a) Be securely bound; and
+  (b) Include a sheet bearing a proper heading, endorsement, and subscription.
+(3) Where the size, shape, or nature of an exhibit makes it impracticable to comply with subclause (1)(b) or subclause (2), that exhibit shall have firmly affixed to it a sheet bearing a proper heading, endorsement, and subscription.
+
+### 512 Affidavit in language other than English
+(1) An affidavit in a language other than English (non-English-language affidavit) may be filed in a proceeding.
+(2) The non-English-language affidavit must be accompanied by an affidavit by an interpreter to which is exhibited
+  (a) a copy of the non-English-language affidavit; and
+  (b) the interpreter's translation of the non-English-language affidavit.
+
+### 513 Interlineation, alteration, or erasure in affidavit
+No affidavit having in the jurat or body thereof any interlineation, alteration, or erasure shall, without leave of the Court, be read or made use of in any proceeding unless the interlineation or alteration (other than by erasure) is authenticated by the initials of the person before whom it is sworn, or, in the case of an erasure, unless the words or figures appearing at the time of taking the affidavit to be written on the erasure are rewritten and signed or initialled in the margin of the affidavit by the person taking it.
+
+### 514 Irregularity in form of affidavit
+The Court may receive any affidavit sworn for the purpose of being used in any proceeding, notwithstanding any defect by misdescription of parties in the title or jurat, or any other irregularity in the form thereof, and may direct a memorandum to be made on the document that it has been so received.
+
+### 515 Service copies of affidavits
+Every service copy of an affidavit shall be legible and shall, where practicable, include legible copies of all exhibits.
+
+### 516 Affidavit may be sworn on Sunday
+An affidavit may be sworn on any day, including Sunday.
+
+### 517 Affidavits made on behalf of corporation
+A person may make an affidavit on behalf of a corporation or body of persons empowered by law to sue or be sued (whether in the name of the body or in the name of the holder of an office) if the person
+  (a) Knows the relevant facts; and
+  (b) Is authorised to make the affidavit.
+
+### 518 Affidavit by two or more deponents
+In every affidavit made by two or more deponents the names of all the deponents shall be inserted in the jurat, but if the affidavit of all the deponents is sworn at the one time before the same person, it shall be sufficient to state that it was sworn by both (or all) of the above-named deponents.
+
+### 519 Affidavit by blind or illiterate deponent
+Where it appears to the person before whom an affidavit is sworn that the deponent is wholly or partially blind, or (whether because of physical handicap or otherwise) is unable to read or has severe difficulty in reading, that person shall certify in the jurat
+  (a) That the affidavit was read and explained by him to the deponent; and
+  (b) That the deponent appeared perfectly to understand the affidavit; and
+  (c) That the deponent wrote his signature or made his mark in the presence of that person.
+
+### 520 Swearing of affidavits
+An affidavit may be read and used in a proceeding only if the affidavit is sworn
+  (a) in accordance with the Oaths and Declarations Act 1957; and
+  (b) before a person authorised to administer oaths under that Act or under rule 521 or rule 522.
+
+### 521 Authority to take affidavits in New Zealand
+(1) Any affidavit may be sworn in New Zealand before a solicitor of the Court or before a Registrar or before a Justice of the Peace; but no affidavit, except one sworn in respect of a non-contentious proceeding, is permitted to be read or used if it was sworn before a solicitor who, at the time of taking it, was acting as
+  (a) The solicitor of a party to the proceeding; or
+  (b) A partner in, or a solicitor employed or engaged by, the firm of the solicitor of a party to the proceeding; or
+  (c) The agent of the solicitor of a party to the proceeding.
+(2) In this rule,
+  - **Registrar** includes
+    (a) a Deputy Registrar of the High Court:
+    (b) a Registrar of a District Court:
+    (c) a Deputy Registrar of a District Court
+  - **solicitor** means a person enrolled as a barrister and solicitor of the High Court.
+
+### 522 Authority to take affidavits in places outside New Zealand
+(1) An affidavit may be sworn in a place outside New Zealand before
+  (a) a Commissioner of the High Court of New Zealand who has authority in that place; or
+  (b) a person who is authorised to administer oaths by the law of that place; or
+  (c) a person who is authorised by a Judge to administer the oath required for the affidavit.
+(2) The person administering an oath under subclause (1) must state in the jurat of the affidavit that he or she is
+  (a) a Commissioner of the High Court of New Zealand who has authority in the place where the affidavit is sworn; or
+  (b) a person authorised to administer oaths by the law of the place where the affidavit is sworn; or
+  (c) a person who is authorised by a Judge to administer the oath.
+(3) An affidavit that appears to comply with subclauses (1) and (2) must be taken to have been properly sworn unless the Court requires verification by evidence or other means of any matter affecting compliance with either of those subclauses.
+(4) Nothing in this rule affects the administering of oaths under the Oaths and Declarations Act 1957.
+
+### 523 Meaning of authenticated deposition
+In rules 524 and 524A, authenticated deposition means a written statement
+  (a) made in a place outside New Zealand before a court or a judicial or other authority or person; and
+  (b) the maker of which is, under the law in force in the place in which the statement is made, liable to imprisonment or a fine or to some other punishment if the statement is false; and
+  (c) that purports to be
+    (i) signed by a person holding judicial office or by an official exercising authority under the law in force in the place in which the statement is made; or
+    (ii) sealed with an official or public seal or with the seal of a Minister of State, or of a department or an official of the government exercising authority in the place in which the statement is made; or
+    (iii) endorsed with or accompanied by a certificate given by a person having authority under the law in force in the place in which the statement is made to give the certificate that the statement complies with the requirements of the law in force in that place and that, under that law, the maker of the statement is liable to imprisonment, or a fine or to some other punishment if the statement is false.
+
+### 524 Admissibility of authenticated deposition
+Evidence that may, under these rules, be given by affidavit, may be given in an authenticated deposition.
+
+### 524A Application of other rules
+(1) Rules 504 to 510 apply, with such modifications as may be necessary, in relation to an authenticated deposition as if the deposition were an affidavit.
+(2) Nothing in rule 524 or this rule affects rules 369 to 381.
+
+**Judgment**
+
+### 525 Procedure after taking verdict
+On the trial of any proceeding with a jury, the Judge, after taking the verdict of the jury, may
+  (a) Give judgment at once:
+  (b) Adjourn the proceeding for further consideration:
+  (c) Give judgment for either party and reserve leave for either party to apply to set aside the judgment and for any other judgment.
+
+### 526 Leave to apply to set aside judgment
+Where leave has been reserved to either party to apply to set aside judgment and for any other judgment, the party to whom leave has been reserved may apply within such time as may have been fixed by the Court for the purpose, or, if no time has been fixed, then within 14 days after leave has been reserved.
+
+### 527 Judgment not in accordance with verdict
+Where the proceeding has been tried with a jury, either party may, without leave reserved, apply, within 14 days after judgment has been given, to set aside the judgment and for any other judgment, on the ground that the judgment given is not in accordance with the verdict of the jury.
+
+### 528 Judgment wrong on finding of Judge
+[Repealed]
+
+### 529 Application for judgment on special verdict or subject to special case
+(1) Where the jury have stated the facts or found a verdict subject to a special case, either party may apply, within 14 days thereafter, for such judgment as he considers himself entitled to.
+(2) If the application is on a special case, a copy of the case shall be filed in Court with the notice of application.
+
+### 530 Application for judgment by both parties
+If both parties apply for judgment, the applications shall be heard together, unless it appears to the Court desirable to hear them separately.
+
+### 531 Final judgment or judgment directing accounts
+(1) A judgment may be either
+  (a) A final judgment; or
+  (b) A judgment directing such accounts to be taken, inquiries made or other acts done, and steps instituted under rules 384 to 404, as the Court giving judgment considers necessary.
+(2) The Court may give the conduct of the proceeding after judgment to such party to the proceeding as the Court thinks proper.
+
+### 532 Procedure when accounts, etc, not proceeded with
+(1) If any party having the conduct of the proceeding does not proceed with the accounts, inquiries, acts, or steps ordered, or does not take all necessary steps to have the same completed, the opposite party may apply to dismiss the proceeding.
+(2) On an application under subclause (1), the Court may make such order as it thinks proper, being
+  (a) An order as to the prosecution of the account, inquiries, acts, or steps; or
+  (b) An order for the dismissal of the proceeding; or
+  (c) An order giving the conduct of the proceeding to some other party.
+
+### 533 Judgment directing sale of property
+(1) Where by any judgment or order any property is directed to be sold it shall, unless the Court otherwise directs, be sold in such manner as will ensure that the best price therefor will be obtained.
+(2) The Court may, either at the time of giving the judgment or making the order or at any time thereafter, give directions as to the mode of the sale and as to terms and conditions of sale, including, where the sale is by auction, fixing a reserve price, if thought advisable, and defining the rights of parties to bid at the sale.
+(3) All parties shall co-operate in effecting the sale of the property and do all things necessary to give effect thereto, including signing any documents required to transfer or assure the property to the purchaser.
+(4) For the purpose of giving effect to the sale of the property, the Court
+  (a) May give all necessary directions, including directions in relation to the transfer or assurance of the property sold; and
+  (b) May appoint a person to sign any documents required to transfer or assure to the purchaser the property sold.
+
+### 534 Judgment for balance of claim over counterclaim
+If a counterclaim to any cause of action is proved to an amount less than that recovered on that cause of action, the plaintiff shall have judgment on that cause of action for the balance of his claim, after deducting the amount of the counterclaim proved by the defendant.
+
+### 535 Judgment for balance of counterclaim
+If a counterclaim to any cause of action is proved to an amount exceeding that recovered on that cause of action, the defendant shall have judgment for the excess.
+
+### 536 Cross judgments
+(1) Where there are cross judgments for money between the same parties, whether for debt, or damages, and costs, or for costs alone, the one may be set off against the other by leave of the Court.
+(2) Leave shall not be granted under subclause (1) if the set-off would prejudice any solicitor's lien for costs in the particular proceeding against which the set-off is sought.
+
+### 537 Judgment when third party defends
+(1) When a third party has filed his statement of defence pursuant to the third party notice, then either at or after the trial of the proceeding or (whether the proceeding is decided by trial or otherwise) on application, the Court may
+  (a) Order such judgment as the nature of the case may require to be entered for or against the defendant giving the notice against or for the third party; and
+  (b) Grant to the defendant or to the third party any relief or remedy which might properly have been granted if the third party had been made a defendant to a proceeding duly instituted against him by the defendant; and
+  (c) Make such further or other order as the nature of the case may require.
+(2) This rule shall apply, with all necessary modifications, whenever a fourth or subsequent party notice has been issued.
+
+### 538 Interest on judgment debt
+(1) Every judgment debt shall carry interest from the time of judgment being given until the judgment is satisfied.
+(2) The interest shall be at the rate for the time being prescribed by or under section 87 of the Judicature Act 1908 or at such lower rate as shall be fixed by the Court.
+(3) The interest may be levied under any execution order upon the judgment.
+
+### 539 Judgment and reasons for judgment defined
+In rules 540 to 544
+  - **Judgment** includes any decree or order of the Court
+  - **Reasons for judgment** means
+    (a) The written reasons given by the Judge for his decision; or
+    (b) Where the Judge gives reasons orally, means a proper report, approved by the Judge, of the oral statement made by him of the reasons for his decision.
+
+### 540 Time and mode of giving judgment
+(1) A Judge may give a judgment orally or in writing.
+(2) Except in the case of a judgment on an ex parte application, a Judge may give a judgment orally only if the affected parties or their counsel have been given a reasonable opportunity to
+  (a) be present when the judgment is given; or
+  (b) hear the Judge give the judgment, for example, by telephone, telephone conference call, or video link.
+(3) A judgment is given orally when the Judge pronounces it, with or without reasons.
+(4) On receiving a written judgment from the Judge responsible for it, the Registrar must endorse the judgment with a date and time directed by the Judge or, if no direction is given, with a date and time nominated by the Registrar (the delivery time). The date and time nominated by the Registrar must be subsequent to the date and time the Registrar endorses the judgment.
+(5) A written judgment must for all purposes be treated as having been given at the delivery time directed or nominated under subclause (4).
+(6) Immediately after endorsing a judgment, the Registrar must attempt to notify the parties, by telephone or otherwise, of the delivery time.
+(7) A party may request the Registrar to
+  (a) send the party, immediately after the delivery time, a copy of the written judgment by email or facsimile; or
+  (b) make a copy of the written judgment available, immediately after the delivery time, for uplifting from the Registry.
+(8) If a party who has given an address for service does not make a request under subclause (7), the Registrar must immediately after the delivery time post a copy of the written judgment to that party.
+(9) A failure by the Registrar to comply with any of subclauses (6) to (8) does not affect the validity of a judgment or its delivery time.
+
+### 541 Judgments to be sealed, dated, and served
+(1) Every judgment shall be drawn up in a form approved by the Registrar, who shall seal it with the seal of the Court.
+(2) Forms 36 to 39 may be used.
+(3) A judgment may be sealed
+  (a) in accordance with any direction given by the Judge relating to the sealing of the judgment; or
+  (b) if no such direction is given, at any time after the judgment has been given.
+(3A) Except with the leave of the Court, a judgment may not be sealed until any application under rule 542 for the recall of the judgment has been determined.
+(4) A sealed judgment must state
+  (a) the date on which, in accordance with rule 540, the judgment is given; and
+  (b) the date on which it is sealed.
+(5) A party who has a judgment sealed must forthwith serve a sealed copy of the judgment on
+  (a) every other party who has given an address for service; and
+  (b) any other person who, although not a party, is affected by the judgment.
+
+### 541A Duplicate judgments
+Duplicates of any judgment, enfaced with the word duplicate, may be issued to any party.
+
+### 542 When judgment takes effect
+(1) A judgment takes effect when it is given.
+(2) Unless the Judge otherwise directs, no step may be taken on a judgment before it has been sealed.
+(3) A judgment, whether given orally or in writing, may be recalled by the Judge at any time before a formal record of it has been drawn up and sealed.
+(4) A party may bring an appeal under rule 7 of the Court of Appeal (Civil) Rules 1997 even though the judgment appealed against has not been sealed, as long as the party takes steps to ensure that the judgment is sealed promptly after the appeal is brought.
+(5) In this rule
+  (a) subclause (2) overrides subclause (1):
+  (b) subclause (4) overrides subclause (2).
+
+### 543 Death, etc, of Judge before judgment
+(1) Where a Judge who has signed a judgment or reasons for judgment dies or otherwise becomes incapable before the judgment is given or the reasons are delivered, any other Judge or the Registrar may give that judgment or deliver those reasons.
+(2) Where subclause (1) does not apply and a Judge who is sitting without a jury, as one of a Court comprising 3 or more Judges, on the trial of any proceeding or issue,that decision shall be the judgment of the Court and may be given accordingly.
+  (a) Dies or otherwise becomes incapable of giving judgment after the hearing has been completed; and
+  (b) A majority of the number of Judges who constituted the Court when the trial began concur in the decision on the proceeding or issue,
+(3) Where neither subclause (1) nor subclause (2) applies and a Judge who is sitting without a jury on the trial of any proceeding or issue dies or otherwise becomes incapable of giving judgment, the proceeding or issue shall be retried.
+(4) Where a Judge sitting with a jury on the trial of any proceeding or issue dies or becomes incapable of acting for any other reason after the jury has retired to consider its verdict and before judgment has been given, any other Judge
+  (a) May give any further directions required by the jury; and
+  (b) May take the verdict and give judgment thereon or may discharge the jury without verdict; and
+  (c) May generally do all such things necessary up to and including the sealing of judgment in the proceeding or issue in the same way as the Judge presiding at the trial might have done had that Judge not died or become incapable of acting.
+(5) Where a Judge sitting with a jury on the trial of any proceeding or issue dies or becomes incapable of acting for any other reason before the jury has retired to consider its verdict, another Judge or the Registrar shall discharge the jury and order a new trial.
+(6) Nothing in this rule limits the provisions of section 25A of the Acts Interpretation Act 1924.
+
+### 544 Satisfaction of judgment
+(1) As soon as any judgment has been satisfied by payment, levy, or in any other manner, the party against whom the judgment has been given shall be entitled to have satisfaction of the judgment entered up.
+(2) For the purposes of subclause (1), the party against whom the judgment has been given shall produce and file in the office of the Court an acknowledgment of satisfaction signed by the party obtaining judgment or on his behalf.
+(3) Notwithstanding subclause (2), the Court may order satisfaction to be entered upon proof that the judgment has been satisfied.
+
+### Part 6 — Execution
+
+**General provisions**
+
+### 545 Execution process defined
+In this Part, unless the context otherwise requires, execution process includes every writ or order referred to in rule 547.
+
+### 546 Mode of enforcing orders
+Every order of the Court, other than an order made on an interlocutory application, may be enforced in the same manner as if it were a judgment in the proceedings to the same effect.
+
+### 547 Mode of enforcing judgments
+(1) Subject to the provisions of this Part, a judgment may be enforced by means of any one or more of the following execution processes, namely,
+  (a) A charging order:
+  (b) A writ of sale:
+  (c) A writ of possession:
+  (d) A writ of arrest:
+  (e) A writ of sequestration.
+(2) If a judgment is for payment or performance within a period specified in the judgment, no execution process shall be issued until that period has expired.
+
+### 548 Effect of charging order
+(1) A charging order shall charge the estate, right, title, or interest of the person against whom it is issued in the property described in the order with payment of the amount for which the person issuing the order may obtain or has obtained judgment, as the case may be.
+(2) A charging order may be in form 40 or form 41 or form 42 as is appropriate.
+
+### 549 Effect of writ of sale
+(1) A writ of sale shall authorise and command the officer to whom it is directed
+  (a) To seize all the chattels (including money, cheques, bills of exchange, promissory notes, bonds, and other securities for money) of the judgment debtor, except his necessary tools of trade to a value not exceeding $500 and his necessary household furniture and effects, including the wearing apparel of himself and his family, to a value not exceeding $2,000; and
+  (b) To the extent that the money so seized is insufficient to discharge any claims which by law are entitled to be paid in priority to the claim of the judgment creditor, and to pay the fees and expenses of executing the order, and to satisfy the amount of the judgment and interest payable to the judgment creditor,
+    (i) To receive and recover the sum or sums payable under any cheques, bills of exchange, and promissory notes or secured by bonds or other securities for money; and
+    (ii) To sell, in accordance with rules 588 to 607, the chattels so seized and the estate, right, title, or interest in any land, whether in possession, remainder, reversion, or expectancy, of the judgment debtor; and
+  (c) To deal, in accordance with rules 588 to 607,
+    (i) With the money so seized or received or recovered from any cheques, bills of exchange, and promissory notes, and any bonds or other securities for money; and
+    (ii) With the proceeds of the sale of such chattels and land or interest in land.
+(2) A writ of sale may be in form 43.
+
+### 550 Effect of writ of possession
+(1) A writ of possession shall authorise and command the officer to whom it is directed to deliver to the person named in the writ, possession of the land or chattels described in the writ, and, for that purpose, to eject any other person from such land, or to seize and take possession of any such chattels.
+(2) A writ of possession may be in form 44.
+
+### 551 Effect of writ of arrest
+(1) A writ of arrest shall authorise and command the officer to whom it is directed to arrest any person named in the writ and shall command such officer to bring that person before the Court at such time and place as are specified in the writ, and to keep him in the meantime in such safe custody as may be by law allowed.
+(2) A writ of arrest may be in form 45.
+
+### 552 Effect of writ of sequestration
+(1) A writ of sequestration shall authorise and command the person to whom it is directed to enter upon and take possession of all the real and personal property of the person against whom it is directed and to get into his hands the rents and profits therefrom until that person clears his contempt of Court in the manner specified in the writ or until the Court orders otherwise.
+(2) A writ of sequestration may be in form 46.
+
+### 553 Enforcement against Crown
+(1) Notwithstanding anything in these rules, no execution process shall be issued for enforcing satisfaction by the Crown, or by the Attorney-General, or by any Government department, or by any officer of the Crown, of any judgment, order, decree, rule, award, or declaration given or made in any civil proceedings under the Crown Proceedings Act 1950.
+(2) Nothing in subclause (1) limits the provisions of section 24 of the Crown Proceedings Act 1950.
+
+### 554 Enforcement by or against non-parties
+(1) Any person, not being a party to a proceeding, who obtains any order, or in whose favour any order is made, shall be entitled to enforce obedience to that order by the same process as if he were a party to the proceeding.
+(2) Any person, not being a party to a proceeding, against whom judgment or obedience to an order may be enforced, shall be liable to the same process for enforcing obedience to the judgment or order as if he were a party to the proceeding.
+
+### 555 Enforcement against partners or alleged partners
+(1) Subject to rule 556, where a judgment is against partners sued in the name of the firm, execution may be issued as of right
+  (a) Against any property of the partners as such:
+  (b) Against any person who has admitted on the pleadings that he is, or has been adjudged to be, a partner:
+  (c) Against any person who has been served as a partner with the notice of proceeding and has failed to file and serve a statement of defence.
+(2) Where, in any case to which subclause (1) does not apply, a party, being a party who has obtained judgment against partners sued in the name of the firm, claims to be entitled to issue execution against any person as a member of that firm, that party may apply to the Court for leave to do so.
+(3) On an application under subclause (2), the Court,
+  (a) If liability is not disputed by the person against whom the applicant claims to be entitled to issue execution, may give the leave sought; or
+  (b) If liability is disputed by the person against whom the applicant claims to be entitled to issue execution, may order that the liability of that person be tried and determined in such manner as it thinks fit.
+
+### 556 When leave to issue execution process necessary
+(1) No writ of arrest or writ of sequestration shall issue without leave of the Court.
+(2) No other execution process shall issue without leave of the Court
+  (a) Before judgment has been sealed; or
+  (b) After 6 years have elapsed since the date of the judgment; or
+  (c) Where any change has taken place, whether by death or otherwise, in the parties entitled or liable to execution under the judgment; or
+  (d) Where the judgment is against the assets of a deceased person coming into the hands of his executor or administrator after the date of the judgment, and execution is sought against those assets; or
+  (e) Where, under the judgment, any person is entitled to relief subject to the fulfilment of a condition which is alleged to have been fulfilled; or
+  (f) Where any goods sought to be seized under an execution process are in the hands of a receiver appointed by the Court, or a sequestrator.
+(3) Except where subclause (1) or subclause (2) applies or where execution has been stayed, an execution process may be issued as of right on the filing with the praecipe of an affidavit by the applicant or his solicitor deposing that paragraphs (c) to (e) of subclause (2) do not apply.
+(4) The Court may set aside any execution process issued under subclause (3) if it is satisfied that any provision of paragraphs (c) to (e) applied when the execution process was issued.
+(5) Where the Court grants leave, whether under this rule or otherwise, for the issue of an execution process and the process is not issued within one year after the date of the order granting leave, the order granting leave shall cease to have effect, without prejudice, however, to the making of a fresh order granting leave.
+
+**Preparation and issue of execution process**
+
+### 557 Execution process to follow judgment
+An execution process must strictly follow the judgment or order in pursuance of which it has been issued, or show on the face of it why it does not.
+
+### 558 Preparation and issue of execution processes
+(1) A party applying for an execution process shall file an appropriate praecipe therefor, and an engrossment of the process for sealing by the Registrar.
+(2) When the engrossment of the process has been sealed, the Registrar shall deliver it to the officer for the time being appointed to execute execution processes.
+(3) An execution process is issued at the time when the engrossment of it is delivered under subclause (2).
+
+### 559 Date of execution process
+Every execution process shall be dated as of the day on which it is issued.
+
+### 560 Currency and renewal of execution processes
+(1) Subject to subclauses (2) and (6), an execution process shall, unless unexecuted, expire one year after the date of its issue.
+(2) By leave of the Court, an execution process may be renewed once only for one year from the original date of expiry.
+(3) Leave under subclause (2) may be given before or after the execution process expires.
+(4) When an execution process is renewed, it shall retain its original priority unless the Court otherwise orders.
+(5) The fact and date of renewal shall be noted on the process by the Registrar and shall be sufficient evidence of its having been renewed.
+(6) Nothing in this rule applies in respect of a charging order.
+
+### 561 Expenses of execution
+The party issuing an execution process may levy from the person against whom it is issued the fees and expenses to which he may be entitled in respect of and incidental to the issue and execution of the execution process, including, in the case of a writ which is issued against a person and which is also a writ of possession, the fees and expenses incidental to the execution of the process as a writ of possession.
+
+### 562 Concurrent execution processes
+(1) Two or more execution processes of the same kind may be issued to one or more places, and, if necessary, addressed to different officers.
+(2) The costs of more than one concurrent process shall not be allowed unless by order of the Court.
+
+### 563 Return of execution process
+The officer of the Court to whom a process has been delivered for execution shall, immediately after execution, if he succeeds in executing it, or after reasonable attempts to execute it have been made but without success, return the same into the office of the Court out of which it has been issued, with a memorandum endorsed thereon stating the mode in which it has been executed or the reason for not executing it.
+
+### 564 Re-issue of execution process
+If any process is returned unexecuted, it may, on the application of the party issuing it, be again issued to the proper officer for execution, if it appears that there are grounds for believing that the process can be successfully executed.
+
+### 565 Stay of execution
+Any party against whom judgment has been given may apply to the Court for a stay of execution, or other relief against the judgment, upon the ground that a substantial miscarriage of justice would be likely to result if the judgment were executed, and the Court may give relief on such terms as appear just.
+
+### 566 Execution may be set aside
+If execution is issued contrary to any order of the Court or to the agreement of the party issuing it, or otherwise contrary to good faith, it may be set aside by the Court.
+
+**Charging orders**
+
+### 567 Leave to issue charging order
+Leave to issue a charging order before judgment shall be granted only on proof that the opposite party, with intent to defeat either his creditors or the party applying or both
+  (a) Is making away with his property; or
+  (b) Is absent from or about to quit New Zealand.
+
+### 568 Issue of charging order without leave after judgment
+After judgment has been sealed, a charging order may be issued, without leave, at the request of the judgment creditor.
+
+### 569 Charging order where amount involved small
+Where it appears that the amount involved is so small that the issue of a charging order is vexatious or worthless, the Court may refuse the application for a charging order, or, if the charging order has been issued (whether as of right or on application), revoke the charging order.
+
+### 570 Application for relief by persons prejudicially affected
+(1) Any person alleging that he is prejudicially affected by any charging order may at any time apply to the Court for relief in accordance with this rule.
+(2) On an application under subclause (1) the Court may
+  (a) Vary or rescind the order; or
+  (b) Cancel the registration or modify the effect of registration of any order affecting land.
+(3) The powers of the Court under this rule are in addition to its powers under rule 259.
+
+### 571 Claim of third person on property charged
+(1) Where it is alleged that the land or money or other property affected by a charging order belong to some third person or that some third person has a claim thereon by way of lien, charge, or otherwise, such third person may be ordered to attend and state the nature and particulars of his claim.
+(2) Such third person may also attend without special order on the application to make the order absolute, or on any application to set aside or vary the same, on giving 24 hours' notice of his intention to do so.
+
+### 572 Apportionment when more than one charging order
+Where more than one charging order has been issued against the same person, the Court may at any time, on the application of that person, or any other person claiming to be affected, determine how much or what part of the property affected by such order or paid into Court shall be for the separate use of each party who has obtained a charging order.
+
+**Charging orders affecting land in name of opposite party**
+
+### 573 Order absolute in first instance
+Where the property sought to be charged is an estate, right, title, or interest in possession, remainder, reversion, or expectancy, and whether vested or contingent, in any land held by the opposite party in his own name, the charging order shall be absolute in the first instance.
+
+### 574 Registration of charging order under Land Transfer Act 1952
+(1) A charging order which is made under rule 573 and which is in respect of land that is under the Land Transfer Act 1952 shall be registered against the certificate of title to the land under that Act.
+(2) Such a charging order
+  (a) Shall
+    (i) Contain a description of the land affected sufficient to identify that land; or
+    (ii) Refer to a certificate of title or other instrument containing such a description; and
+  (b) Unless the land is the whole of the land comprised in a certificate or certificates of title, or is shown separately on a plan deposited under the provisions of the Land Transfer Act 1952, shall also have drawn on it or annexed to it a plan of the land showing its extent, boundaries, and relative position.
+(3) When the charging order is presented for registration, a duplicate of it shall be deposited with the District Land Registrar.
+
+### 575 Registration of charging order under Deeds Registration Act 1908
+(1) A charging order which is made under rule 573 and which is in respect of land that is not under the Land Transfer Act 1952 shall be registered with the Registrar of Deeds for the district in which the land is situated according to the law in force for the time being for the registration of deeds.
+(2) Such a charging order
+  (a) Shall contain a description of the land affected, or shall refer to a Crown grant or other instrument, sufficient to identify that land; and
+  (b) Shall also have drawn on it or annexed to it a plan of the land showing its extent, boundaries, and relative position.
+
+### 576 Sale before registration of charging order
+Until registration of a charging order in respect of land, no sale or transfer of the land or of any part thereof under a writ of sale shall have any effect as against a purchaser for valuable consideration, notwithstanding that the writ of sale may have been actually delivered for execution at the time of purchase, and that the purchaser may have had actual or constructive notice of the delivery of the writ of sale for execution.
+
+### 577 Discharge of land from charging order
+(1) Land that is subject to a charging order made under rule 573 shall be discharged from that order upon registration with the District Land Registrar or Registrar of Deeds, as the case may require, of
+  (a) A memorandum of satisfaction of the judgment in the proceeding in which the charging order has been issued or other sufficient evidence of satisfaction; or
+  (b) An order of the Court to the effect that the land shall be discharged from the charging order; or
+  (c) The consent of the person who registered the charging order to the discharge of the land from the charging order.
+
+### 578 Lapse of charging order after 2 years
+(1) Unless an instrument of transfer or a deed of conveyance or assignment consequent upon a writ of sale of the land affected by a charging order is registered within 2 years after the date of the charging order, the charging order shall, subject to subclause (2), cease to bind the land and shall be deemed to have been discharged.
+(2) The Court may, where justice so requires, extend the effect of a charging order for such period as may be necessary.
+
+**Charging orders affecting other property**
+
+### 579 Property that may be charged
+A charging order may charge property, other than land referred to in rule 573, as follows:
+  (a) Any debts payable by or accruing due from the Crown to the opposite party and not excepted by the proviso to section 26 of the Crown Proceedings Act 1950:
+  (b) A debt or sum of money due or accruing due to the opposite party, including money due or accruing due
+    (i) To the opposite party by a public body; or
+    (ii) Standing to the credit of the opposite party in a proceeding or interlocutory application; or
+    (iii) Standing to the credit of the opposite party in the hands of a Sheriff or officer of a Court:
+  (c) The right or interest of the opposite party in any partnership:
+  (d) Shares held by the opposite party in any company incorporated in New Zealand, or having an office in New Zealand in which transfers of shares may be registered:
+  (e) The estate, right, or interest in possession, remainder, reversion, or expectancy, and whether vested or contingent, in any land, or in any money, shares, or other chattels held under or by virtue of any express or implied trust for the opposite party.
+
+### 580 Order nisi in first instance
+(1) A charging order under rule 579 shall be a charging order limited until sufficient cause is shown to the contrary and such a charging order, so limited, is hereinafter referred to in this rule and in rules 581 to 586 as a charging order nisi.
+(2) A charging order nisi shall be served
+  (a) On the person it is intended to affect thereby; or
+  (b) On such person as the Court directs, if money is
+    (i) Due by the Crown or a public body; or
+    (ii) Standing to the credit of an opposite party in a proceeding or interlocutory application.
+(3) Where a charging order nisi is intended to affect an estate, right, or interest in land under or by virtue of any trust, that charging order nisi may also be registered against the land or a caveat may be entered in respect of the charging order nisi.
+
+### 581 Effect of order nisi
+A charging order nisi shall restrain the person served with itexcept in accordance with the provisions hereinafter contained or by leave of the Court.
+  (a) From paying over any debt, income, interest, dividends, bonus, profits, or other money due or accruing due to the opposite party named in it; or
+  (b) From making, or concurring in making or permitting any conveyance, transfer, assignment, or disposition of any estate, right, or interest, or of any share in a partnership or company, of such opposite party,
+
+### 582 Liability of persons contravening charging order nisi
+Where any person, who has been served with a charging order nisi,that person, in addition to or in lieu of any penalty that may be imposed upon him under any other rule, may be ordered to pay to the party obtaining the order the amount of the money so paid or the value of the property disposed of, or a sufficient part thereof to satisfy any judgment the party obtaining the order may obtain or may have obtained in the proceeding.
+  (a) Pays over any money in contravention of the terms of the order; or
+  (b) Makes or concurs in making, or permits any conveyance, transfer, assignment, or disposition in contravention of the terms of the order,
+
+### 583 Money may be paid into Court
+Any person served with a charging order nisi may pay into Court any money affected by the order, to abide the result of the proceeding or the order of the Court.
+
+### 584 Court may order sale of property affected
+The Court, when making a charging order nisi, or at any time thereafter before judgment, on application by the party obtaining the order or by the person affected by the order,
+  (a) May further order that any property affected thereby be sold; and
+  (b) May give such directions as to the sale as the Court thinks fit; and
+  (c) May order that the net proceeds of the sale be paid into Court, to abide the result of the proceeding or the order of the Court.
+
+### 585 Application to make order absolute after judgment
+(1) At any time after he has sealed judgment in the proceeding, the judgment creditor may apply to the Court to have a charging order nisi made absolute.
+(2) On an application under subclause (1), the Court may make such orders and give such directions for the disposal of money paid into Court pursuant to rule 583 or rule 584 as may be just.
+
+### 586 Execution after order made absolute
+After a charging order nisi has been made absolute, the judgment creditor may,
+  (a) In respect of any money due or accruing due to the judgment debtor by any person bound by the order, issue a writ of sale under rules 588 to 607 on the property of any person bound by the order in the same manner as if judgment had been sealed by the judgment debtor against that person; and
+  (b) In respect of any property of the kinds referred to in paragraphs (c) to (e) of rule 579, sell the same under a writ of sale in the same manner, as nearly as may be, as sales of land are to be conducted under the provisions of rules 588 to 607.
+
+### 587 Discharge of person served with order
+Payment made by or execution levied upon any person served with an order which has been made absolute shall be a valid discharge to that person as against the judgment debtor to the extent of the amount so paid, or in respect of the property levied upon, notwithstanding that such order, or the judgment in the proceeding in which such order was obtained, may thereafter be set aside or reversed.
+
+**Writs of sale and writs of possession**
+
+### 588 When writ of sale may be issued
+At any time after judgment for a sum of money has been sealed, the judgment creditor may issue a writ of sale.
+
+### 589 Execution for less than full amount of judgment
+(1) Wherethe judgment creditor, on applying for a writ of sale, shall endorse on the writ a memorandum showing the amount that he claims to recover under the writ.
+  (a) Any money has been paid on account of a judgment; or
+  (b) The judgment creditor wishes to waive any portion of the money due on account of a judgment or to waive payment of his costs or any portion of those costs; or
+  (c) A judgment has been given for a larger amount than is due,
+(2) Where the amount due on account of a judgment is less than the amount of the judgment and the judgment creditor fails to endorse on the writ the memorandum required by subclause (1), the execution may be set aside.
+
+### 590 Recovery of money owing on cheques, etc
+(1) If the money seized under a writ of sale is not sufficient to satisfy the amount thereby directed to be levied, the officer to whom the writ is directed shall hold any cheques, bills of exchange, promissory notes, bonds, or other securities for money as security for any balance of that amount and may sue in his own name for the sum or sums secured thereby if and when the time for payment thereof arrives.
+(2) The officer to whom the writ is directed shall not be required to sue any person on any such cheque, bill of exchange, promissory note, bond, or other security, unless the judgment creditor enters into a bond, with 2 sufficient sureties, indemnifying that officer against all costs and expenses to be incurred in so suing, or to which he may become liable in consequence thereof, the expenses of such bond to be deducted out of any money recovered in the proceeding.
+
+### 591 Discharge of person paying on cheque, etc
+Payment to the officer to whom a writ of sale is directed by the person liable on any such cheque, bill of exchange, promissory note, bond, or other security, with or without suit, or the recovery and levying execution against the person so liable, shall discharge that person to the extent of such payment, or of such recovery and levy in execution, as the case may be, from his liability on any such cheque, bill of exchange, promissory note, bond, or other security.
+
+### 592 Disposal of proceeds
+The officer to whom a writ of sale is directed shall, out of the money seized under the writ, or recovered from any person liable on any cheques, bills of exchange, promissory notes, bonds, or other securities seized thereunder,
+  (a) Discharge all claims which by law are entitled to be paid in priority to the claim of the judgment creditor; and
+  (b) Pay the fees and expenses of executing the writ; and
+  (c) Pay over to the judgment creditor a sufficient sum to satisfy the amount directed to be levied; and
+  (d) Pay any surplus to the judgment debtor.
+
+### 593 Not necessary to seize land
+It shall not be necessary for the officer to whom a writ of sale is directed to make any seizure of land before the sale of land.
+
+### 594 Removal of chattels for sale
+The officer to whom the writ is directed shall as soon as possible remove the chattels seized to some proper place for the purpose of sale, unless the parties whose chattels have been seized consent in writing to the chattels being left on the premises where the same were seized, in the custody of some proper person to be put in possession by the officer, and sold there.
+
+### 595 Place of sale
+Subject to rule 594, the sale shall be held at such place as the officer to whom the writ is directed deems most advantageous, and, with the consent of the judgment debtor, may, in the case of chattels, be at the place of seizure, and, in the case of land, on the land to be sold.
+
+### 596 Advertising of notice of sale
+(1) Notice of the time and place of every intended sale shall be given by advertisement in such newspaper or newspapers as the officer deems sufficient.
+(2) The notice shall be first published,
+  (a) In any case where the property to be sold is or includes land, in some newspaper at least 21 days before the date of the intended sale:
+  (b) In any other case, in some newspaper at least 5 days before the date of the intended sale.
+(3) The notice may be republished in the same or such other newspaper or newspapers in such manner and to such extent as the officer deems sufficient.
+(4) The notice
+  (a) Shall contain the information specified in rule 598; and
+  (b) Shall be in such form and shall contain such further particulars as the officer deems sufficient.
+
+### 597 Service of notice of sale on judgment debtor
+(1) A copy of the notice referred to in rule 596 shall, at least 10 days before the sale, be served by the officer on the judgment debtor at his address for service, if any.
+(2) If the judgment debtor has not filed an address for service, the copy of the notice may be sent by post to his last known place of residence.
+
+### 598 Contents of notice of sale
+The notice referred to in rule 596
+  (a) Shall state that the sale is made on behalf of the judgment creditor; and
+  (b) Shall specify
+    (i) The chattels, or the right or interest in the chattels, or the land, or the estate, right, title, or interest in the land, intended to be sold; and
+    (ii) The name of the officer executing the writ; and
+    (iii) The name of the solicitor (if any) for the judgment creditor.
+
+### 599 Mode and conditions of sale
+(1) All sales under a writ of sale shall be
+  (a) By public auction upon the terms and conditions approved by the Registrar; or
+  (b) With the consent of the parties, or by order of the Court made on the application of either party, by private treaty.
+(2) A sale under a writ of sale may, at the discretion of the officer executing the writ, be of all the property seized in one lot or in several lots.
+(3) Unless the Court otherwise directs, all sales
+  (a) Shall be for cash on delivery, assignment, or transfer; and
+  (b) Shall be of the estate, right, title, or interest only of the judgment debtor in the chattels or land put up for sale.
+
+### 600 Powers of officer in relation to sale by auction
+Where any sale under a writ of sale is to be by way of public auction, the officer to whom the writ is directed
+  (a) May, by himself or by his deputy, sell by auction all land and chattels taken by him in execution, without having taken out an auctioneer's licence, notwithstanding anything in any Act to the contrary; and
+  (b) May place a reserve upon the land or chattels; and
+  (c) May put the land or chattels up for sale as often as may be required until they are sold.
+
+### 601 Power of officer to seize title deeds
+The officer to whom the writ is directed may
+  (a) require the party against whom the writ has been issued to provide to the officer, and if the party refuses seize, the certificate of title and any title deeds for the land that is to be sold that are in the party's possession:
+  (b) require the party against whom the writ has been issued to disclose to the officer
+    (i) the name of any person who has possession of the certificate of title and any title deeds for the land that is to be sold; and
+    (ii) the address where the certificate of title and title deeds are kept:
+  (c) require a person referred to in paragraph (b)(i) to provide to the officer, and if the person refuses seize, the certificate of title and any title deeds for the land that is to be sold that are in that person's possession:
+  (d) produce the certificate of title and any title deeds to an intending purchaser.
+
+### 602 Order of sale of land and chattels
+(1) If both land and chattels belonging to the same person are taken in execution under the same writ of sale, the officer executing the writ shall, unless that person otherwise desires or the Court otherwise directs, cause the chattels to be sold first.
+(2) The Court may, notwithstanding the desires of the person to whom the land and chattels belong, direct under subclause (1)
+  (a) That the land be sold first; or
+  (b) That the land be sold at the time as a specified chattel or a specified class of chattels.
+(3) Where the proceeds of the sale of the chattels or of the land or of the land and some of the chattels are insufficient to satisfy the execution, the Officer executing the writ shall
+  (a) Where the chattels have been sold first, sell the land; and
+  (b) Where the land has been sold first, sell the chattels; and
+  (c) Where the land and some of the chattels have been sold first, sell the remaining chattels.
+
+### 603 Power of judgment debtor or mortgagee to give directions concerning sale of land
+(1) A judgment debtor whose interest in land is to be sold, or a mortgagee of that interest may, by notice in writing delivered to the officer to whom the writ is directed, require that any specified portions of the land so advertised which may lawfully be sold separately be first sold.
+(2) Notice under subclause (1) shall be given at least 10 days before the date of the sale.
+(2A) In the case of conflict between a direction given by a judgment debtor and a mortgagee, the direction given by the mortgagee prevails.
+(3) Where a notice is given under subclause (1), the officer shall cause the specified portions to be first put up for sale accordingly.
+(4) If the sum realised by the sale of the specified portions is sufficient to satisfy the execution, interest, officer's fees, and expenses, no other part of the land shall be sold.
+(5) Unless subclause (4) applies, the officer shall, following the putting up for sale of the specified portions, proceed with the sale of the remainder.
+
+### 604 Transfers, etc, to purchaser
+(1) A proper instrument of transfer or deed of conveyance or assignment to the purchaser of the estate, right, title, or interest of the judgment debtor in any land or chattels sold
+  (a) Shall be prepared by the purchaser at his own expense; and
+  (b) Shall be left for approval with the officer by whom the writ has been executed 4 days before he is called upon to execute it.
+(2) The officer may and shall (if required) execute the instrument if and when it is approved by him.
+(3) The instrument, when executed by the officer,
+  (a) Shall be equally effective for all purposes as if it had been duly executed by the judgment debtor; and
+  (b) Shall be prima facie evidence of
+    (i) The existence of a valid judgment and writ to support a levy by the officer; and
+    (ii) All necessary notices having been given and published; and
+    (iii) A levy having been duly made; and
+    (iv) A sale having taken place according to law.
+
+### 605 Disposal of proceeds of sale
+The officer executing any writ of sale shall, out of the proceeds of sale,
+  (a) Discharge all claims which by law are entitled to be paid in priority to the claim of the judgment creditor; and
+  (b) Pay the fees and expenses of executing the writ; and
+  (c) Pay over to the judgment creditor a sufficient sum to satisfy the amount directed to be levied; and
+  (d) Pay any surplus to the judgment debtor.
+
+### 606 When writ of possession may be issued
+Where, by the judgment of the Court, a party is ordered to deliver possession of land or chattels, the party to whom the land or chattels are ordered to be delivered may issue a writ of possession.
+
+### 607 Combined writ of sale and possession
+Where, by the judgment of the Court, a party is ordered to pay a sum of money and to deliver land or chattels, the party entitled to the benefit of the judgment may issue a writ, to be called a writ of sale and possession, to recover the sum of money and delivery of the land or chattels.
+
+**Writs of arrest and writs of sequestration**
+
+### 608 Power to issue writ of arrest
+Where in any proceeding a party is ordered by the Court to do or abstain from doing any act (not being the payment of a sum of money) and fails to obey the order, the party entitled to the benefit of the order may, by leave of the Court, obtained on notice to the defaulting party, issue a writ for the arrest of that party.
+
+### 609 Power to commit to prison for disobedience
+Where any person has been brought before the Court upon a writ of arrest, the Court may commit him to prison for such term as to the Court appears necessary and as may be by law allowed, unless he sooner complies with the order of the Court for non-performance or non-observance of which he has been committed.
+
+### 610 Power to issue writ of sequestration
+(1) Where any person is, by any judgment or order, directed to pay money into Court, or to do any other act in a limited time, or to abstain from doing any thing, and after due service of that judgment or order, refuses or neglects to obey the judgment or order, the Court may, on the application of the person entitled to the benefit of the judgment or order, issue a writ of sequestration against the estate and effects of the person in default.
+(2) The sequestrator shall be appointed by the Court and the provisions of rules 339 to 346 shall apply, with all necessary modifications, as if the sequestrator were a receiver.
+
+**Absconding debtors and imprisonment for debt**
+
+### 611 Arrest of absconding debtor
+(1) An order to arrest and imprison a defendant under section 55 of the Act may be made on an ex parte application to the Court.
+(2) The defendant may at any time before or after arrest apply to the Court to rescind or vary the order or to be discharged from custody, or for other relief.
+(3) The Court may, on an application under subclause (2), make such order as may be just.
+(4) An order to arrest and imprison a defendant under section 55 of the Act
+  (a) Shall be in form 47; or
+  (b) Where subsection (3) of section 55 applies, in form 48.
+(5) Concurrent orders may be issued for arrest in different places.
+(6) Before delivery to the Sheriff the order shall be endorsed with the address for service of the plaintiff.
+(7) The Sheriff or other officer named in an order to arrest and imprison a defendant under section 55 of the Act shall, within 2 days after the arrest, endorse on the order the true date of the arrest.
+
+### 612 Security by absconding debtor
+(1) Where the Court has made an order for the arrest of a defendant under section 55 of the Act, and for his imprisonment until he has given security, the security to be given by the defendant may be
+  (a) A deposit in Court of the amount mentioned in the order; or
+  (b) A bond to the plaintiff by the defendant and 2 sufficient sureties; or
+  (c) With the plaintiff's consent, any other form of security.
+(2) The plaintiff may, within 4 days after receiving particulars of the names and addresses of the proposed sureties, and the form of the proposed bond, give notice that he objects thereto, stating therein in what particulars.
+(3) If the plaintiff gives a notice under subclause (2), the sufficiency of the security shall be determined by the Registrar, who shall have power to award the costs of the reference to either party.
+
+### 613 Orders as to security
+The Court may, at any time after judgment, order
+  (a) That any sum of money paid or secured under rule 612, or any part of that sum, be paid over to the plaintiff; or
+  (b) That any security given under rule 612 by the defendant be enforced.
+
+### 614 Discharge on payment
+(1) Upon payment into Court of the amount mentioned in the order, a receipt shall be given by the proper officer.
+(2) Upon receipt of the bond or other security, a certificate to that effect shall be given by the plaintiff or his solicitor.
+(3) The delivery of the receipt or certificate to the Sheriff shall entitle the defendant to be discharged out of custody.
+
+### 615 Procedure
+[Repealed]
+
+### 616 Application to be served personally
+[Repealed]
+
+### 617 Oral examination
+[Repealed]
+
+### 618 Form of order for committal
+[Repealed]
+
+### 619 Discharge on payment
+[Repealed]
+
+**Discovery in aid of execution**
+
+### 620 Notice to judgment debtor to complete financial statement
+(1) Where a judgment is for the recovery or payment of a sum of money, the party entitled to enforce it may serve on the debtor a notice in form 49 requiring him to complete and return to that party, within 14 days after the date on which the notice is served on the debtor, a statement in form 50 of
+  (a) The debtor's receipts and payments for the preceding 52 weeks; and
+  (b) The debtor's assets and liabilities.
+(2) An additional copy of form 50, for the debtor's own use, shall be served with the notice.
+
+### 621 Order for examination of judgment debtor or defendant
+(1) Whether or not a notice and form of statement has been served under rule 620, a party to a proceeding for the recovery or payment of money may apply for an order under this rule
+  (a) At any time after he has commenced the proceeding, if he desires to obtain a charging order under rules 567 to 587; and
+  (b) In all other cases, at any time after he has sealed judgment.
+(2) Such a party may apply to the Court for an order that the other party or, if the party is a corporation, an officer thereof, do attend before the Court, or any person whom the Court may appoint, and be orally examined as to his income and expenditure, his assets and liabilities, and generally as to his means for satisfying the judgment, or, if judgment has not been obtained, as to such matters as are relevant to the issue of a charging order.
+(3) Upon granting the application, the Court may order the production at the examination of any books or other documents and may impose such terms and conditions as it shall think proper in respect of the conduct of the examination or otherwise.
+
+### Part 7 — Extraordinary remedies
+
+### 622 Crown Proceedings Act 1950 not affected
+This Part does not limit or affect the Crown Proceedings Act 1950.
+
+### 623 Mandamus
+(1) This rule applies when an application is made to the Court to compelto perform a public duty of the court, tribunal, or person.
+  (a) An inferior Court; or
+  (b) A tribunal; or
+  (c) A person
+(2) This rule does not apply if the duty is to
+  (a) Pay a sum of money for the non-payment of which a writ of sale may be issued; or
+  (b) Perform an act for the non-performance of which a writ of arrest may be issued.
+(3) When this rule applies, the Court may make an order for mandamus ordering the Court, tribunal, or person to perform the public duty.
+(4) No proceeding may be commenced against a Court, tribunal, or person for anything done to comply with an order for mandamus.
+
+### 624 Injunction
+(1) This rule applies when an application is made to the Court to restrainfrom a threatened or actual breach, continuation of a breach, or further breach of a duty of the Court, tribunal, or person.
+  (a) An inferior Court; or
+  (b) A tribunal; or
+  (c) A person
+(2) When this rule applies, the Court may make an order for injunction restraining a threatened or actual breach, continuation of a breach, or further breach of the duty.
+(3) This rule does not affect the power of the Court to grant the equitable remedy of injunction in a case that does not come within this rule.
+
+### 625 Prohibition
+(1) This rule applies when an application is made to the Court to prohibitfrom exercising a jurisdiction that the Court, tribunal, or person is not by law empowered to exercise.
+  (a) An inferior Court; or
+  (b) A tribunal; or
+  (c) A person
+(2) When this rule applies, the Court may make an order for prohibition prohibiting the exercise of the jurisdiction.
+
+### 626 Certiorari
+(1) This rule applies when an application is made to the Court to review all or part of a determination of
+  (a) An inferior Court; or
+  (b) A tribunal; or
+  (c) A person exercising a statutory or prerogative power; or
+  (d) A person exercising a power that affects the public interest.
+(2) When this rule applies, the Court may do 1 or both of the following:
+  (a) Make an order for certiorari:
+  (b) Make any other order that the Court thinks just.
+
+### 627 Removal from office
+When an application is made to the Court to remove a person from a public office, or to try the right of a person to hold a public office, the Court may
+  (a) Order that the person be removed from the office; or
+  (b) Declare who is entitled to hold the office; or
+  (c) Make both an order under paragraph (a) and a declaration under paragraph (b).
+
+### 627A Death, resignation, or removal of party
+(1) This rule applies if
+  (a) An order is sought under this Part against a person; and
+  (b) The person no longer holds office because of death, resignation, or removal.
+(2) This rule does not apply if the cause of action has come to an end.
+(3) When this rule applies, the proceeding may be continued
+  (a) In the name of the person; or
+  (b) In the name of the person's successor, on the application of the successor or a person interested, and with all necessary amendments.
+(4) An order directed to, or made in the name of, the person is binding on the successor.
+
+### 627B Interim orders
+(1) When an application is made under this Part, the Court may make interim orders on such terms and conditions as the Court thinks fit.
+(2) An applicant who applies for an interim order must file a signed undertaking in the terms stated in subclause (3).
+(3) Those terms are to the effect that the applicant will abide by any order that the Court may make in respect of damages
+  (a) That are sustained by any other party through the making of the interim order; and
+  (b) That the Court decides the applicant ought to pay.
+(4) The undertaking must be referred to in the order and is part of it.
+
+### 628 Procedure
+(1) Every application for the assistance of the Court under this Part, and every application for review under Part 1 of the Judicature Amendment Act 1972 shall (notwithstanding section 4 of that Act) be commenced by statement of claim and notice of proceeding in accordance with Part 2 of these rules.
+(2) In the case of an application for review, the backing sheet shall state that it is an application for review.
+(3) Where relief is claimed under this Part, the statement of claim may claim more than one of the remedies referred to in this Part and may claim any other relief (including damages) to which the plaintiff may be entitled.
+(4) The procedure prescribed in Part 1 of the Judicature Amendment Act 1972 shall apply, subject to these rules, to applications for review under that Part.
+(5) Section 9 of the Judicature Amendment Act 1972 shall apply in respect of an application for review under Part 1 of that Act as if the reference to a motion were a reference to a notice of proceeding filed in accordance with these rules.
+(6) Subject to subclause (7), every proceeding to which this Part applies shall continue as provided in Part 4 unless some other substantial relief is claimed or the Court otherwise orders, in which case it shall continue as an ordinary proceeding.
+(7) In an application for review under Part 1 of the Judicature Amendment Act 1972, a Judge may exercise the powers conferred by section 10 of that Act.
+
+### 629 Interim orders
+[Repealed]
+
+### 630 Undertakings in relation to interim orders
+[Repealed]
+
+### 631 Death, etc, of party
+[Repealed]
+
+### Part 8 — Probate and administration
+
+**General provisions**
+
+### 632 Ex parte application
+(1) Subject to rule 633, every application for probate of the will or letters of administration of the estate of any deceased person shall be made by ex parte application and, subject to the provisions of this Part, the provisions of rules 237 and 240 relating to ex parte applications shall apply accordingly.
+(2)
+
+### 633 Application in solemn form
+Where the applicant elects or is ordered to make the application in solemn form, the application shall be made by statement of claim in accordance with Part 2.
+
+### 634 Procedure in uncontested applications
+(1) Where application for a grant is made under rule 632
+  (a) Rule 41(1) (relating to warrants to act) shall not apply; and
+  (aa) The heading of the application shall follow that prescribed for form 51; and
+  (b) A solicitor or counsel may give the certificate required by rule 240(2) notwithstanding that he is one of the attesting witnesses to the will of which administration is sought or any codicil thereto, or is named in the will or codicil as executor, or is an executor according to the tenor of the will or codicil; and
+  (c)
+  (d) The facts necessary to prove the validity of any will or codicil in respect of which probate is sought and the entitlement of the applicant to the grant of administration shall be proved by affidavit in form 51 or form 52 or form 53 or form 54 or form 55 or form 56 or such other form as may be appropriate.
+(2) Ifthe applicant may, subject to subclause (3), apply for a grant under rule 632 upon proof that notice in writing of the applicant's intention to apply has been given to the executor named in the later will or the will and that, one month having elapsed after the service of the notice, no application for a grant has been made by that executor and no caveat has been lodged against a grant of administration.
+  (a) The applicant has knowledge of a will later than that which the applicant propounds but has reason to believe that the later will is invalid; or
+  (b) The applicant seeks a grant of administration on intestacy and has knowledge of any will but has reason to believe that the will is invalid,
+(3) In any case to which subclause (2) applies, the Court may direct that the applicant apply for an order under section 53 of the Administration Act 1969 and may defer dealing with the application for a grant pending the determination of the application under that section.
+
+### 635 Affidavit of death
+If the deponent does not prove the death of the deceased person, paragraphs 1 and 2 of form 51 shall be omitted and the death of the deceased person shall be proved by some other person by an affidavit in the form of paragraphs 1 and 2 of form 51.
+
+### 636 Disposal of ex parte application
+Every application made under rule 632 shall be disposed of in the same manner as an ex parte application.
+
+### 637 Grant in common form
+Where the application for a grant is made under rule 632, the grant shall be in common form, in form 57 or form 58 or form 59, as may be appropriate.
+
+### 638 Procedure in contested applications
+Where the application for a grant is made under rule 633, the procedure shall, subject to the provisions of this Part, be the same as in an ordinary proceeding and the grant shall be in solemn form.
+
+### 639 Defendants to contested applications
+(1) In any proceeding under rule 638, the plaintiff shall, subject to any directions of the Court under subclause (2), name as defendants
+  (a) The caveator (if any); and
+  (b) The person who may be entitled to a grant of probate or letters of administration should the plaintiff fail in his proceeding.
+(2) The plaintiff may apply to the Court for directions as to the persons to be named as defendants to any proceeding under this rule.
+
+### 640 Additional parties to contested applications
+Any person claiming to be interested in the result of any proceeding under rule 638 may apply to the Court to be added as a party and the Court, if satisfied that the interests of that person are not already adequately represented,
+  (a) May order that that person be added accordingly on such terms as to costs or otherwise as it thinks fit; and
+  (b) May give such directions as to the part to be taken in the proceeding by the party to be added as it shall deem necessary.
+
+### 641 Pleadings in contested applications
+(1) In a proceeding under rule 638 or under rule 650 the substance of the case against the validityshall be stated in the pleading that asserts the invalidity.
+  (a) Of any will propounded; or
+  (b) Of any will of which probate or letters of administration with the will annexed has been granted on an uncontested application,
+(2) In particular, it shall not be sufficient to allege merely that the will was not validly executed, or was not executed in the manner prescribed by law, without alleging the facts upon which the plea is founded.
+(3) Nor shall it be sufficient to allege merely that at the time when the will was executed the testator did not have testamentary capacity, without specifying whether the incapacity consisted in lack of ability to comprehend or recollect the extent of his property and the claims of persons excluded from participation therein or in insane delusions affecting persons having claims on his bounty, or otherwise specifying the nature of the incapacity.
+
+### 642 Compromise of contested application
+Where any proceeding under rule 638 becomes the subject of a compromise (whether or not a statement of defence has been filed), the Court may direct that the proceeding be treated as an application for a grant in common form under rule 634 and that evidence thereon may be given by affidavit.
+
+### 643 Place of filing application
+(1) Every application for a grant and all other documents filed in a proceeding under this Part shall, if the deceased person was resident in New Zealand at the time of his death, be filed in the registry nearest to the place where the deceased resided at the time of his death.
+(2) If the deceased was not resident in New Zealand at the time of his death, the application for a grant and other documents shall be filed in the registry nearest to the place where the property of the deceased is situated, and, if such property is situated in more than one place in New Zealand or if the deceased left no property in New Zealand, then in the registry at the City of Wellington, or in such other registry as the Court may, on interlocutory application made before the filing, direct.
+(3) Where an order is made under subclause (2), notice of that order shall be sent by the Registrar of the Court in which the order is made to the Registrar at Wellington.
+(4) If the application for a grant is filed in a wrong registry, the Court may order that the application, and all other documents filed in the proceeding, be transferred to the proper registry.
+
+### 644 Place for lodging caveat
+A caveat, under section 60 of the Administration Act 1969, against any application for a grant of probate or letters of administration
+  (a) Shall be in form 60; and
+  (b) Shall be lodged with the Registrar at the registry at which the application is required to be filed pursuant to rule 643.
+
+### 645 Evidence of death
+(1) Subject to rule 646, the Court may accept any evidence which satisfies it of the death of a person in respect of whose will or estate a grant of administration is sought. A certified copy of the entry in the Register of Deaths relating to such person may be accepted as such evidence.
+(2) The provisions of subclause (1) shall apply to proof of the death of any person who, were he alive, would have been entitled to a grant of administration.
+
+### 646 Absence of identified dead body
+(1) Where no dead body has been identified as that of the person in respect of whose will or estate a grant of administration is sought, the applicant shall apply to the Court for an order that that person be presumed for the purposes of the grant to be dead.
+(2) In support of an application under subclause (1), the applicant shall file affidavits deposing
+  (a) To the circumstances under which the application is made; and
+  (b) To the facts from which the Court is invited to infer death; and
+  (c) Whether or not the life of the person alleged to be dead was insured and, if it was, the name and address of the insurer.
+(3) Where the life of the person alleged to be dead was insured, notice of the application under this rule and copies of the supporting affidavits shall be served on the insurer. For the purposes of rules 234 to 277, the insurer shall be deemed to be a party to the application.
+(4) An application under this rule shall be made either by interlocutory application before an application for a grant of administration is filed, or by incorporation in an ex parte application under rule 632.
+(5) An application under this rule shall be deemed to be an application for leave to swear death where that expression is used in any statute or regulation.
+
+### 647 Grant to attorney
+(1) Probate, letters of administration, or letters of administration with the will annexed may be granted to the lawfully constituted attorney of any person entitled thereto who is residing out of New Zealand.
+(2) The grant shall be for the use and benefit of that person.
+(3) The grant may be limited until that person obtains a grant or in such other way as the Court directs.
+(4) Notwithstanding subclause (1), where the person so entitled is one of 2 or more executors, the grant shall not be made to that person's attorney without notice to the other executors, unless the Court dispenses with that notice.
+
+### 648 Time for issuing probate and letters of administration
+Except by direction of the Court,
+  (a) No probate or letters of administration with the will annexed shall issue out of the registry until after the lapse of 7 days from the death of the deceased; and
+  (b) No letters of administration shall issue out of the registry until after the lapse of 14 days from the death of the deceased.
+
+### 649 Sale of perishable property
+Ifthe Court may, upon application by any person interested, make an order authorising the sale of the property by some person therein named, and may direct the proceeds to be paid to the Registrar on account of the estate of the deceased.
+  (a) Any deceased person leaves property of a perishable nature; and
+  (b) The value of the property may be greatly diminished before probate or letters of administration can be granted,
+
+### 650 Recall of grant
+(1) Where a grant of administration has been made in common form, an order for the recall of the grant may be made upon an interlocutory application if
+  (a) That application is uncontested; and
+  (b) One of the following circumstances applies
+    (i) The grant was made upon the footing that the deceased died intestate and a will has been discovered; or
+    (ii) A will later in date to that of which probate was granted has been discovered; or
+    (iii) The person to whom the grant was made applies for or consents to the recall.
+(2) In all other cases application to recall a grant of administration shall be made in a proceeding brought for the purpose.
+
+### 651 Powers of certain Registrars to make grant, etc
+(1) Every Registrar, and any Deputy Registrar who is for the time being designated as a Senior Deputy Registrar at the Auckland registry, shall have the jurisdiction and powers of the Court in Chambers conferred by the following enactments, namely:
+  (a) Sections 5 to 9 of the Administration Act 1969:
+  (b) Section 35(4) of the Trustee Act 1956, and section 154(3) of the Insolvency Act 1967:
+  (c) Section 44(1) of the Public Trust Office Act 1957, and section 8(1) of the Trustee Companies Act 1967:
+  (d) Rule 643:
+  (e) Rule 646 in respect of any unopposed application under subclause (1):
+  (f) Rule 649.
+(2) The provisions of rules 272 to 275 shall apply to the exercise of the jurisdiction conferred by this rule.
+(3) Any party to a proceeding or intended proceeding who is affected by any decision of a Registrar in the exercise of his jurisdiction under this rule may apply to the Court by interlocutory application to review that decision, and the Court may make such order thereon as may be just.
+
+### 652 Inventory or account filed by executor or administrator
+(1) Every executor or administrator shall, within such period after the service on him of an order in that behalf as the Court may on application direct, or (where no such order has been made) may at any time if he so desires, file in the registry in which probate or letters of administration have been granted a true and perfect inventory of the estate of the deceased.
+(2) Every executor or administrator shall, within such period after the service on him of an order in that behalf as the Court on application may direct, or (where no such order has been made) may at any time if he so desires, file in the registry in which probate or letters of administration have been granted, a true and perfect account of the estate of the deceased which account shall
+  (a) Set forth the dates and particulars of all receipts and disbursements; and
+  (b) Show which of the receipts and disbursements were, in his opinion, on account of capital and on account of income respectively.
+(3) Every inventory and account filed pursuant to this rule shall be verified by affidavit.
+(4) Every account filed pursuant to an order of the Court shall be brought down to the date of service of the order or such other date as may be specified in the order.
+(5) Every account filed otherwise than pursuant to an order of the Court shall show the date to which it is brought down.
+(6) Notice of every application for an order under this rule shall be given to the executor or administrator affected.
+(7) An application for an order under this rule may be made by any person interested in the estate of the deceased.
+(8) No application for an order under this rule shall be made more than 3 years after the grant by which the executor or administrator was appointed.
+
+### 653 Administration of overseas assets
+(1) For the purposes of administration of overseas assets, the Court may, at the request of the administrator,
+  (a) Seal an exemplification of administration in form 61; or
+  (b) Seal a duplicate of the grant; or
+  (c) Seal and certify a copy (including a photocopy) of the original grant.
+(2) The procedure laid down in section 43 of the Estate and Gift Duties Act 1968 (as in force before its repeal by the Estate Duty Repeal Act 1999) shall be followed in respect of any such exemplification, duplicate, or copy grant as if it were an administration.
+(3) An administrator requesting a sealed duplicate of the grant or a sealed and certified copy of the original grant, in terms of subclause (1), shall verify by affidavit the purpose for which it is required.
+
+**Applications where will propounded**
+
+### 654 Application of rules 655 to 664
+(1) The provisions of rules 655 to 664 apply to every case in which a will is propounded either for probate or for letters of administration with the will annexed.
+(2) References in subclause (1) of this rule and in rules 655 to 664 to wills apply also (with all necessary modifications) to codicils.
+
+### 655 Conditions of, and order of priority for, grant of administration with will annexed
+(1) Where there is a will, butletters of administration with the will annexed may be granted to the person entitled thereto in accordance with the order of priority set out in subclause (2).
+  (a) No executor has been appointed by the will; or
+  (b) The executor appointed by the will
+    (i) Has died in the lifetime of the testator; or
+    (ii) Has survived the testator but has died without proving the will; or
+    (iii) Has renounced probate of the will; or
+    (iv) Is incompetent by reason of the executor's mental disorder, or other disability; or
+  (c) The appointment of the executor as executor is null and void by virtue of section 2 of the Wills Amendment Act 1977,
+(2) The order of priority referred to in subclause (1) is as follows:
+  (a) First, any residuary beneficiary holding in trust for any other person:
+  (b) Second, any residuary beneficiary for life:
+  (c) Third, the ultimate residuary beneficiary, or, where the residue is not wholly disposed of by the will, any person entitled to a share in the residue not so disposed of (including the Attorney-General when claiming such residue as bona vacantia on behalf of the Crown) or the personal representative of any such person:
+    Provided that where the residue is not in terms wholly disposed of, the Court may, if satisfied that the testator has nevertheless disposed of the whole or substantially the whole of the estate as ascertained at the time of the application for the grant, make the grant to any beneficiary entitled to, or to a share in, the estate so disposed of, without regard to the persons entitled to share in any residue not disposed of by the will:
+  (d) Fourth, any specific beneficiary or any creditor, or the personal representative of any such person, or, where the estate is not wholly disposed of by the will, any person who, notwithstanding that the amount of the estate is such that he has no immediate beneficial interest therein, may have a beneficial interest in the event of an accretion thereto:
+  (e) Fifth, any beneficiary, whether residuary or specific, entitled on the happening of any contingency:
+  (f) Sixth, any person having no interest under the will who would be entitled to a grant if the deceased had died wholly intestate.
+(3) Where, in any case to which section 19(1) of the Administration Act 1969 applies, no application for an order nisi in terms of that section is made by an executor or by the Public Trustee or by the Maori Trustee within 4 months from the death of the testator, letters of administration with the will annexed may be granted to the person entitled thereto in accordance with the order of priority set out in subclause (2).
+(4) Persons who are entitled to the grant and who are members of the class specified in paragraph (c) or paragraph (d) or paragraph (e) of subclause (2) shall be entitled to the grant in order of priority in their class according to the value of their respective interests or the amounts of their respective debts.
+
+### 656 Justification of entitlement to grant of letters of administration with will annexed
+(1) Where application is made for a grant of letters of administration with the will annexed and persons other than the applicant would (if living and competent and not disqualified) have under rule 655(2) a priority that is higher than, or equal to, that of the applicant, the applicant
+  (a) Shall adduce proof to the satisfaction of the Court
+    (i) That such persons are dead or incompetent or disqualified; or
+    (ii) That notice of the intended application has been given to them; or
+  (b) Shall file their consents in writing, duly verified by affidavit.
+(2) Notwithstanding subclause (1), the Court may, in its discretion, on such conditions (if any) as it thinks fit, dispense with the giving of notice to, or the obtaining of the consent of, any person who, at the time of the application,
+  (a) Is beyond the jurisdiction of the Court; or
+  (b) Cannot be found.
+
+### 656A Grant of letters of administration with will annexed during minority of executor
+Where a person who is the sole executor of a will is at the date of the testator's death a minor who is not entitled to a grant of probate under section 9(3) of the Administration Act 1969, administration with the will annexed may be granted to such person as the Court thinks fit, until the minor becomes entitled to and obtains a grant of probate.
+
+### 657 Due execution
+(1) Whereevidence satisfying the Court that it was duly executed shall be given in accordance with rule 664.
+  (a) A will contains no attestation clause, or no sufficient attestation clause; or
+  (b) It appears to the Court that there is some doubt as to the due execution of the will,
+(2) The Court may accept as a sufficient attestation clause a recital in the will that the will was signed by the testator in the presence of the attesting witnesses and attested by them in the testator's presence.
+
+### 658 Testator blind, illiterate, etc
+Ifevidence satisfying the Court that the testator had that knowledge or full possession of his mental faculties shall be given in accordance with rule 664.
+  (a) The will has been signed by the testator by mark or by some other person by direction of the testator and it is not certified in the attestation clause that the will was read over and understood by the testator before the testator signed it; or
+  (b) It appears that the testator was blind or illiterate and it is not certified in the attestation clause that the will was read over to and understood by the testator before he signed it; or
+  (c) For any other reason the Court is doubtful whether or not the testator had knowledge of the contents of the will at the time of its execution or had, at that time, full possession of his mental faculties,
+
+### 659 Alterations to will
+(1) Where there appears in a will any obliteration, interlineation, or other alteration which is not authenticatedthe Court may require evidence to show whether the alteration was present at the time when the will was executed and may give directions as to the form in which the will is to be proved, unless it considers that the alteration is of no practical importance.
+  (a) In the manner prescribed by section 21 of the Wills Act 1837; or
+  (b) By the re-execution of the will; or
+  (c) By the execution of a codicil,
+(2) If no satisfactory evidence can be adduced that the alterations were made before the will was executed and if the words that have been altered be not entirely effaced but can upon examination of the will be ascertained, they shall form part of the will as proved.
+
+### 660 Indication of or reference to another document
+Wherethe Court may require the other document to be produced, or its non-production to be accounted for, and may require such evidence as to the attaching or incorporation of the document and the time when it came into existence as the Court may think fit.
+  (a) On inspection of a will it appears to the Court that some other document has been attached thereto; or
+  (b) A will contains a reference to another document in such terms as to suggest that it ought to be incorporated in the will,
+
+### 661 Doubt as to date
+Where there is doubt as to the date on which a will was executed, the Court may require such evidence as it thinks necessary to establish the date.
+
+### 662 Duplicate wills
+(1) Where more than one copy of a will has been executed, all executed copies shall be produced to the Court or accounted for to its satisfaction so as to exclude an inference of revocation.
+(2) If it appears doubtful to the Court whether subclause (1) has been complied with, it may require such evidence as it thinks necessary to dispel the doubt.
+(3) If on inspection of a will it appears to the Court that any signature thereonit may require such evidence as it thinks necessary to establish whether the signature is an original signature
+  (a) May not be an original signature; or
+  (b) May be a reproduction of the original signature,
+
+### 663 Attempted revocation
+Any appearance of attempted revocation of a will by burning, tearing, or otherwise, and every other circumstance leading to a presumption of revocation by the testator, shall be accounted for to the satisfaction of the Court.
+
+### 664 Evidence as to due execution, etc
+(1) Evidence required pursuant to any provision of rules 657 to 663 may be furnished by any person having personal knowledge of the relevant facts; but, where such evidence relates to the fact, date, manner, or circumstances of execution of a will, the deponent shall be an attesting witness or other person present when the will was executed, if such be available and able to depose thereto.
+(2) Notwithstanding subclause (1), where the authenticity of the signature of the testator or an attesting witness is in doubt, the Court may accept evidence from any person it may think fit to show that the signature is in the handwriting of the testator or the attesting witness, as the case may be.
+(3) In the case of an uncontested application for probate, any evidence given pursuant to subclause (1) or subclause (2) shall be given by affidavit. Form 62 may be used.
+
+**Applications on intestacy**
+
+### 665 Order of priority for grant in case of intestacy
+(1) Subject to section 6 of the Administration Act 1969, where a person has died wholly intestate, the right to apply for letters of administration of his estate shall be determined in accordance with the order of priority set out in subclause (2).
+(2) The order of priority referred to in subclause (1) is as follows:
+  (a) First, the persons having a beneficial interest in the estate, according to the order of priority set out in subclause (3):
+  (b) Second, the Attorney-General, if he claims bona vacantia on behalf of the Crown:
+  (c) Third, a creditor of the deceased, or any person who, notwithstanding that he has no immediate beneficial interest in the estate, may have a beneficial interest in the event of an accretion thereto.
+(3) Persons having a beneficial interest in the estate shall be entitled to a grant of administration in the following order of priority, namely:
+  (a) the surviving spouse or the surviving civil union partner or the surviving de facto partner entitled to succeed on the intestacy, if paragraph (aa) does not apply and his or her beneficial interest in the estate is not affected,
+    (i) in the case of a surviving spouse, by section 12(2) of the Matrimonial Proceedings Act 1963 (as applied by section 191(3) of the Family Proceedings Act 1980); or
+    (ii) in the case of a surviving spouse or a surviving civil union partner, by section 26(1) of the Family Proceedings Act 1980; or
+    (iii) in every case, by the choice he or she has made between option A and option B, under section 61 of the Property (Relationships) Act 1976, because he or she has chosen option B:
+  (aa) in a case of the kind referred to in section 77C of the Administration Act 1969 (succession on intestacy if intestate dies leaving a spouse or a civil union partner and 1 or more de facto partners, or 2 or more de facto partners), any surviving spouse, surviving civil union partner, or surviving de facto partner entitled to succeed on the intestacy, if his or her beneficial interest in the estate is not affected in any of the ways stated in paragraph (a)(i) to (iii):
+  (b) The children of the deceased (including any persons entitled by virtue of the Legitimation Act 1939 or the Status of Children Act 1969) or, failing them, the issue of any such child who has died during the lifetime of the deceased:
+  (c) The parent or parents of the deceased:
+  (d) Brothers and sisters of the full or half blood, or, failing them, the issue of any such brother or sister who has died during the lifetime of the deceased:
+  (e) Grandparents:
+  (f) Uncles and aunts of the full or half blood, or failing them, the issue of any such uncle or aunt who has died during the lifetime of the deceased.
+(4) The personal representative of a person in any of the classes referred to in subclause (3) or the personal representative of a creditor shall have the same right to a grant as the person whom he represents.
+(5) Where the deceased died on or after the 27th day of October 1955, the provisions of the Adoption Act 1955 shall apply in determining entitlement to a grant in the same manner as they apply to devolution of property on intestacy.
+
+### 666 Justification of entitlement to grant
+(1) Where application is made for a grant of letters of administration of the estate of a person who has died wholly intestate and persons other than the applicant would (if living and competent) have, under rule 665, a priority that is higher than or equal to that of the applicant, the applicant
+  (a) Shall adduce proof to the satisfaction of the Court
+    (i) That such persons are dead or incompetent; or
+    (ii) That notice of his intended application has been given to them; or
+  (b) Shall file their consents in writing, duly verified by affidavit.
+(2) Notwithstanding subclause (1), the Court may, in its discretion, on such conditions (if any) as it thinks fit, dispense with the giving of notice to, or the obtaining of the consent of, any person who, at the time of the application,
+  (a) Is beyond the jurisdiction of the Court; or
+  (b) Cannot be found.
+(3) The applicant shall adduce proof to the satisfaction of the Court of the identity and relationship with the deceased of any person who, under rule 665, has a priority that is higher than or equal to that of the applicant.
+(4) Where the applicant is the surviving spouse or the surviving civil union partner, the applicant shall adduce proof to the satisfaction of the Court that at the time of the death of the deceased neither a decree of separation made under section 11 of the Matrimonial Proceedings Act 1963 nor a separation order made under Part 3 of the Family Proceedings Act 1980 was in force between the applicant and the deceased.
+(5) Nothing in this rule shall limit the power of the Court to require evidence of other facts which may be necessary to enable the Court to exercise its discretion in relation to making a grant to the applicant, including evidence where it appears that the Crown is or may be entitled to a grant under the law relating to bona vacantia.
+
+**Trustees' commission**
+
+### 667 Form of application for commission
+(1) Every application to the Court under section 72 of the Trustee Act 1956 for the allowance to any person who is or has been a trustee of the property subject to any trust, or to that person's personal representative, of a commission or percentage out of that property shall be made by statement of claim in accordance with Part 2.
+(2) Notwithstanding subclause (1),the application shall be made by interlocutory application in the proceeding for probate or letters of administration, or in the earlier proceeding for commission, as the case may be.
+  (a) Where the trust was created by will or arises upon an intestacy; or
+  (b) Where there has been a previous application for commission (whether or not by the same applicant),
+
+### 668 Affidavit in support
+Every such application shall be supported by an affidavit or affidavits showing:
+  (a) How and when the trust was constituted, the names of all present and previous trustees thereof, and the period during which each held office:
+  (b) Such information as may be necessary in accordance with rule 451 to enable an order giving directions as to service to be made:
+  (c) Particulars of any commission or percentage out of the trust property previously allowed by the Court to, or taken in accordance with the instrument (if any) creating the trust or with the consent of the beneficiaries or otherwise by, each person who is or has been a trustee or the personal representative of a trustee:
+  (d) Whether any profit, benefit, or advantage has been derived directly or indirectly by any trustee of the trust property or by any partner, relative, servant, or personal representative of any trustee, from or in connection with the administration thereof; and, if so, particulars of every such profit, benefit, and advantage:
+  (e) The amount of the allowance sought by each applicant, and the basis or principle by which the same is arrived at; and, if an order is sought under section 72(3) of the Trustee Act 1956 apportioning the total amount allowed, the basis on which the proposed apportionment is sought:
+  (f) If the trustees who or whose personal representatives are making the application have not been the only trustees since the inception of the trust, information as to the extent to which, up to the date to which a commission or percentage is applied for, the trust property has been realised and income got in and the administration of the trust carried on and its responsibilities discharged by each person who is or has been a trustee:
+  (g) If the application is not made at or about the time of the final distribution of the trust property, sufficient information to enable the Court to determine what commission or percentage (if any) should be ordered forthwith having regard to the extent to which the duties of the trusteeship have already been discharged, and the period likely to elapse before that final distribution, and the changes in trusteeship which may occur during that period, and other relevant facts.
+
+### 669 Documents to be filed and verified
+Subject to rules 670 and 675, the following documents, duly verified by an affidavit or affidavits of a solicitor or chartered accountant, shall be filed in respect of every such application:
+  (a) A copy of the will or other instrument (if any) creating the trust:
+  (b) Capital and income accounts of the trust or summarised statements thereof showing
+    (i) The trust property and liabilities at the inception of the trust and at the date to which a commission or percentage is sought:
+    (ii) The gross capital realisations and other capital receipts, and the capital liabilities discharged and investments of capital made, and distributions of capital to beneficiaries and other capital payments made, during the period from the inception of the trust to the date to which a commission or percentage is sought, distinguishing those received and made by the trustees who or whose personal representatives are making the application from those received and made by other trustees (if any):
+    (iii) The gross income received and liabilities and outgoings discharged from income, and the distributions of income to beneficiaries, and other disbursements from income, during the last-mentioned period, distinguishing those received and made by the trustees who or whose personal representatives are making the application from those received and made by other trustees (if any):
+    (iv) The sums retained by or paid to solicitors, accountants, auctioneers, real estate agents, commission agents, brokers, and other agents during the said period in respect of capital and income respectively.
+
+### 670 Power to adopt previous accounts
+(1) Unless the Court otherwise orders, the accounts of the trustees or summarised statements thereof previously kept or made for the purposes of the trust may, subject to subclause (2), be adopted for the purposes of the application.
+(2) Any information required by rules 668 and 669 and not contained in the accounts or summarised statements previously kept or made (including any information required in respect of administration by other trustees) shall be supplied by supplementary accounts or summarised statements verified in each case by an affidavit of a chartered accountant or solicitor.
+(3) So far as any information and accounts or summarised statements required in support of the application have been supplied in support of any previous application to the Court for a commission or percentage, the provisions of rules 668 and 669 shall be deemed to that extent to have been complied with in connection with that application.
+
+### 671 Power to refer matter to Registrar for inquiry
+The Court may at any time, if it thinks fit, refer the application or any matter being part thereof or connected therewith to the Registrar for inquiry and report.
+
+### 672 Notice of inquiry by Registrar
+Unless the Court otherwise orders, reasonable notice to the satisfaction of the Registrar of any appointment made by the Registrar to proceed with his inquiry shall be given to every person who was entitled to be served with the application, unless the person has given notice in writing to the Registrar that the person does not intend to appear or be represented at the inquiry.
+
+### 673 Evidence before Registrar
+The evidence of every witness called on the inquiry before the Registrar shall be taken down in writing and signed by the witness, and shall accompany the Registrar's report to the Court.
+
+### 674 Costs
+(1) The Court may, in its discretion, award costs to any applicant or other person affected by the application, whether any commission or percentage is allowed or not.
+(2) The Court may direct that any costs be paid out of the trust property or any part thereof.
+
+### 675 Power to dispense with rules
+(1) The Court, upon an interlocutory application made before or after the filing of an application for a commission or percentage, and upon sufficient grounds, may dispense with the observance of all or any of the provisions of rules 667 to 674.
+(2) An application under subclause (1) may in the first instance be made ex parte, but the Court may require notice thereof to be given to such person or persons and in such manner as the Court may direct.
+
+### Part 9 — Administrative Division
+
+### 676 Interpretation
+[Repealed]
+
+### 677 Application of this Part
+[Repealed]
+
+### 678 Limitation of application of rules 679 to 688
+[Repealed]
+
+### 679 Heading of documents
+[Repealed]
+
+### 680 Place where documents to be filed
+[Repealed]
+
+### 681 Method of service
+[Repealed]
+
+### 682 Withdrawal of proceeding
+[Repealed]
+
+### 683 Reinstatement of proceeding
+[Repealed]
+
+### 684 Notification of readiness for hearing
+[Repealed]
+
+### 685 Notice of hearing
+[Repealed]
+
+### 686 Mode of taking evidence
+[Repealed]
+
+### 687 Written submissions
+[Repealed]
+
+### 688 Right of audience
+[Repealed]
+
+### 689 Application of rules 690 to 700
+[Repealed]
+
+### 690 Extension of time for appeal
+[Repealed]
+
+### 691 Notice of appeal
+[Repealed]
+
+### 692 Contents of notice of appeal
+[Repealed]
+
+### 692A Appeal not to operate as stay
+[Repealed]
+
+### 693 Documents to be lodged with Registrar by Tribunal
+[Repealed]
+
+### 694 Appeal from decision under section 21 of the Valuation of Land Act 1951
+[Repealed]
+
+### 695 Power of tribunal to file report
+[Repealed]
+
+### 696 Hearing of appeal
+[Repealed]
+
+### 697 Power to refer back to tribunal
+[Repealed]
+
+### 698 Dismissal of appeal for want of prosecution
+[Repealed]
+
+### 699 Registrar to send memorandum of decision of Court
+[Repealed]
+
+### 700 Land valuation claims, etc, referred to the Court
+[Repealed]
+
+### Part 9A — Companies (winding up)
+
+### 700A Application of Part
+(1) This Part applies in respect of every application to the Court
+  (a) For putting a company into liquidation; or
+  (b) For an order under section 209ZG of the Companies Act 1955 or section 174 of the Companies Act 1993, as the case may be.
+(2) Rules 700ZJ and 700ZK apply in respect of a notice under section 268(1) of the Companies Act 1955 or section 294(1) of the Companies Act 1993, as the case may be.
+(3) The other Parts of these rules, and the general practice of the Court, apply to applications to which subclause (1) applies and notices to which subclause (2) applies except in so far as they are modified by or inconsistent with this Part or the Companies Act 1955 or the Companies Act 1993, as the case may be.
+
+### 700B Hearing of applications
+Unless the Court otherwise directs, every application to which this Part applies shall be heard in open Court.
+
+### 700C Applications to be made by statement of claim
+(1) Every application to the Court to put a company into liquidation under section 211(2)(c) of the Companies Act 1955 or section 241(2)(c) of the Companies Act 1993, as the case may be, shall be made by statement of claim in form 64A in accordance with these rules.
+(2) Every application to the Court under section 209ZG of the Companies Act 1955 or section 174 of the Companies Act 1993, as the case may be, shall be made by statement of claim in form 64B in accordance with these rules.
+
+### 700D Proper office of the Court
+(1) Notwithstanding anything in rules 106(1) and 107(1) to (3), the proper office of the Court for the purposes of the filing of a statement of claim pursuant to rule 700C shall be
+  (a) The office of the Court in the town where, or the office of the Court in the town nearest to where, the defendant company's registered office is situated; or
+  (b) If the defendant company does not have a registered office, the office of the Court in the town where, or the office of the Court in the town nearest to where, the defendant company's principal or last known place of business is or was situated.
+(2) Nothing in this rule limits the provisions of rule 107(4) and (5).
+
+### 700E Notice of proceeding and verifying affidavit
+(1) Rules 120 and 121 shall not apply to a proceeding commenced by the filing of a statement of claim pursuant to rule 700C.
+(2) Subject to rule 124, there shall be filed and served with every statement of claim filed pursuant to rule 700C
+  (a) A notice of proceeding in form 64C; and
+  (b) An affidavit in form 64D or form 64E verifying the allegations in the statement of claim.
+(3) The affidavit shall be made by the plaintiff, or by one of the plaintiffs, if more than one, or, where the proceeding is being brought by a corporation, by a person who meets the requirements of rule 517.
+(4) The affidavit shall be sufficient prima facie evidence of the statements in the statement of claim.
+
+### 700F Date of hearing
+(1) On the filing of a statement of claim pursuant to rule 700C, the Registrar shall as soon as practicable appoint the time and place at which the proceeding is to be heard.
+(2) Unless the Court otherwise orders, the place for the hearing of the proceeding shall be
+  (a) The High Court in the town in which the statement of claim is filed; or
+  (b) If there will be no Judge available in that town at the time to be appointed for the hearing of the proceeding, the High Court in such other town as the Registrar appoints; or
+  (c) If the statement of claim is filed in Masterton, the High Court in Wellington; or
+  (d) If the statement of claim is filed in Tauranga, the High Court in Rotorua.
+(3) Notice of the time and place appointed for hearing the application shall be included in the notice of proceeding in form 64C, and the Registrar may, at any time before the proceeding has been advertised, alter the time appointed and fix another time.
+
+### 700G Exclusion of rules relating to setting down
+The provisions of rules 426 to 435 shall not apply to any proceeding commenced by the filing of a statement of claim pursuant to rule 700C.
+
+### 700H Directions
+Rules 425, 439, 440, and 442 shall apply, with all necessary modifications, in relation to every proceeding commenced by the filing of a statement of claim pursuant to rule 700C.
+
+### 700I Advertisement of application
+(1) Subject to rule 700J and to any order made on an application under rule 700K, every proceeding commenced by a statement of claim filed pursuant to rule 700C shall be advertised in accordance with this rule at least 7 clear days before the hearing.
+(2) Where the registered office of the defendant company, or, if there is no such office, the principal or last known principal place of business of that company, is or was situated within a town in which there is an office of the Court, the advertisement shall be published
+  (a) Once in the Gazette; and
+  (b) Once at least
+    (i) In one daily newspaper published in that town; or
+    (ii) In such other newspaper as the Registrar directs.
+(3) In the case of a defendant company to which subclause (2) does not apply, the advertisement shall be published
+  (a) Once in the Gazette; and
+  (b) Once at least
+    (i) In one local newspaper circulating in the locality where the registered office, or principal or last known principal place of business, as the case may be, of the defendant company is or was situated; or
+    (ii) In such other newspaper as the Registrar directs.
+(4) The advertisement, which shall be in form 64F or form 64G, as the case may require, shall
+  (a) State the day on which the application to put the defendant company into liquidation was filed; and
+  (b) State the name and address of the plaintiff and of the plaintiff's solicitor (if any); and
+  (c) State the plaintiff's address for service; and
+  (d) State the place, date, and time of the hearing of the application; and
+  (e) State that the statement of claim and the verifying affidavit may be inspected at the office of the Court or at the plaintiff's address for service; and
+  (f) State that any person, other than the defendant company, who wishes to appear on the hearing of the application must file an appearance not later than the second working day before the day appointed for the hearing of the application.
+(5) If the plaintiff or the plaintiff's solicitor does not within the time hereby prescribed, or within such extended time as the Registrar may allow, duly advertise the proceeding in the manner prescribed by this rule, the appointment of the time and place at which the proceeding is to be heard shall be cancelled by the Registrar and the proceeding shall be removed from the list, unless the defendant company has been served or the Court otherwise directs.
+
+### 700J Restriction on advertising of proceeding
+Except where a statement of claim filed pursuant to rule 700C is filed by the defendant company, no person shall, unless the Court otherwise directs, publish any advertisement required by rule 700I or any other information relating to that statement of claim until at least 7 days after the date on which the statement of claim in the proceeding is served on the defendant company.
+
+### 700K Power to stay liquidation proceedings
+(1) Where an application for putting a company into liquidation is made by the filing of a statement of claim pursuant to rule 700C(1), the defendant company, or, with the leave of the Court, any creditor or contributory or shareholder, as the case may be, of that company, or the Registrar of Companies, may, within 7 days after the date of the service of the statement of claim on the defendant company, apply to the Court for an order restraining publication of any advertisement required by rule 700I or any other information relating to that statement of claim and staying any further proceedings in relation to the liquidation.
+(2) The Court shall deal with every application under subclause (1) as if it were an application for an interim injunction and, if it makes the order sought, may make it on such terms as the Court thinks fit.
+(3) Nothing in this rule limits the inherent jurisdiction of the Court.
+
+### 700L Service of proceeding
+(1) Every statement of claim filed pursuant to rule 700C shall, unless the plaintiff is the defendant company, be served, together with the verifying affidavit and notice of proceeding, upon the defendant company.
+(2)
+(3) Service under this rule shall be effected not less than 21 days before the date of hearing appointed or fixed under rule 700F.
+
+### 700M Affidavit of service
+(1) The plaintiff shall, before the hearing, file an affidavit of service in form 64H proving the service of the statement of claim, verifying affidavit, and notice of proceeding on the defendant company.
+(2) Subclause (1) shall not apply in relation to service on the company if the plaintiff is the defendant company.
+(3) Subclause (1) shall not apply in relation to service on any person who, before the hearing, files a statement of defence.
+
+### 700N Evidence of advertising
+The plaintiff shall, before the hearing, file in the office of the Court
+  (a) Copies of the advertisements published in accordance with rule 700I; and
+  (b) A statement of the newspapers in which, and the dates on which, the advertisements appeared.
+
+### 700O Entitlement to copy of statement of claim, etc
+Every contributory or shareholder, as the case may be, and every creditor of the defendant company, and the Registrar of Companies, shall be entitled to be supplied by the plaintiff's solicitor with a copy of the statement of claim, verifying affidavit, and notice of proceeding, within 24 hours after requiring it, on paying for it at the rate, inclusive of any goods and services tax, of not more than 50 cents per page.
+
+### 700P Statement of defence
+(1) Rule 129(1) shall not apply to a proceeding commenced by the filing of a statement of claim pursuant to rule 700C.
+(2) Any person, being the defendant company or a creditor or contributory or shareholder, as the case may be, of that company, who intends to defend a proceeding commenced by a statement of claim filed pursuant to rule 700C shall file a statement of defence in the office of the Court named in the notice of proceeding.
+(3) Every person who files a statement of defence shall serve a copy of that statement of defence on
+  (a) The plaintiff; and
+  (b) Any other person who, when the statement of defence is filed, has filed a statement of defence in the proceeding.
+(4) Where the defendant company has filed a statement of defence, any statement of defence filed by a creditor or contributory or shareholder, as the case may be, of that company shall state specifically any grounds of opposition that are additional to those appearing in the company's statement of defence.
+
+### 700Q Time for filing statement of defence
+If any person to whom rule 700P(2) applies is a person on whom the statement of claim is served, that person shall file a statement of defence within 14 days after the date on which the statement of claim is served upon that person.
+
+### 700R Appearance
+Any person (other than the defendant company) who intends to appear on the hearing of the proceeding may, without filing a statement of defence, file an appearance in form 64I
+  (a) Stating that that person intends to appear; and
+  (b) Indicating whether that person supports or opposes the application to put the company into liquidation or the application for an order under section 209ZG of the Companies Act 1955 or section 174 of the Companies Act 1993, as the case may be.
+
+### 700S Time for filing appearance
+Every appearance shall be filed not later than the second working day before the day appointed for the hearing.
+
+### 700T Effect of failure to file statement of defence or appearance
+Where any person, being a person who is entitled to file a statement of defence or an appearance in a proceeding commenced by the filing of a statement of claim pursuant to rule 700C, fails to file a statement of defence or an appearance within the time prescribed by these rules, that person shall not, without an order for extension of time granted on application made under rule 700V or the special leave of the Court, be allowed to appear on the hearing of the proceeding.
+
+### 700U Evidence as to unpaid debts
+(1) A certificate by the solicitor for the plaintiff that, after having made due inquiries, the solicitor is satisfied that any debt remains unpaid may be accepted by the Court as sufficient prima facie evidence that that debt remains unpaid.
+(2) Subject to any direction of the Court, evidence that any debt remains unpaid may be given by an affidavit sworn by or on behalf of the plaintiff and so sworn not earlier than the third day before the day of the hearing of the proceeding.
+
+### 700V Interlocutory applications
+(1) Where a proceeding is commenced by the filing of a statement of claim pursuant to rule 700C, no interlocutory application (other than an application made with the leave of the Court) shall be made to the Court before the date of hearing specified in the notice of proceeding served with that statement of claim unless that application is
+  (a) An application for an extension or abridgement of time; or
+  (b) An application under rule 700F(2) or rule 700K; or
+  (c) An application for the appointment of an interim liquidator; or
+  (d) An application for directions; or
+  (e) An application to excuse non-compliance with any provision of these rules.
+(2) Where a statement of defence is filed in a proceeding commenced by the filing of a statement of claim pursuant to rule 700C and the hearing of that proceeding is adjourned for a fixture on a defended basis, the provisions of these rules (including those relating to interlocutory applications) shall apply as if the proceeding had been commenced by a statement of claim filed under Part 2 alone and not by a statement of claim filed under that Part pursuant to rule 700C.
+(3) Nothing in this rule limits the inherent jurisdiction of the Court.
+
+### 700W Power to appoint interim liquidator
+(1) Where a proceeding for putting a company into liquidation has been commenced by the filing of a statement of claim under rule 700C(1), the plaintiff and any person entitled to apply to the Court for the appointment of a liquidator under section 211(2)(c) of the Companies Act 1955 or section 241(2)(c) of the Companies Act 1993, as the case may be, may apply to the Court for the appointment of an interim liquidator.
+(2) If, on an application under subclause (1), the Court is satisfied, upon proof by affidavit, that there is sufficient ground for the appointment of an interim liquidator, it may make the appointment, and may limit the rights and powers of the interim liquidator in such manner as it thinks fit.
+
+### 700X Additional and substituted plaintiffs in liquidation proceeding
+(1) This rule applies to any person, who is entitled to make an application to the Court for putting the company into liquidation under section 211(2)(c) of the Companies Act 1955 or section 241(2)(c) of the Companies Act 1993, as the case may be.
+(2) Where a proceeding to put a company into liquidation has been commenced, a person to whom this rule applies may become a plaintiff in that proceeding, not later than the second working day before the day appointed for the hearing of the proceeding, by filing in the office of the Court and serving on all the other parties to the proceeding, in the same manner as if that person were commencing the proceeding,
+  (a) A statement of claim in form 64A; and
+  (b) A notice of proceeding in form 64C; and
+  (c) An affidavit in form 64D.
+(3) Where a person to whom this rule applies has filed an appearance under rule 700R in a proceeding to put a company into liquidation and, on the day appointed for the hearing, or on any day to which the hearing has been adjourned, no plaintiff wishes to proceed, on that day, with the hearing of the application to put the company into liquidation, the Court may, on the oral application of that person, but subject to subclause (4),
+  (a) Add that person as a plaintiff in the proceeding; or
+  (b) Substitute that person for the plaintiff or plaintiffs or any of the plaintiffs in the proceeding.
+(4) The addition or substitution of a person as a plaintiff under subclause (3) shall be subject to the condition that that person file in the office of the Court and serve on all the other parties to the proceeding, within 7 days after the day on which the addition or substitution is made,
+  (a) A statement of claim in form 64A; and
+  (b) A notice of proceeding in form 64C; and
+  (c) An affidavit in form 64D.
+(5) If any person to whom rule 700P(2) applies is a person on whom the statement of claim is served pursuant to this rule, that person shall file a statement of defence within 14 days after the date on which the statement of claim is served upon that person.
+
+### 700Y Consolidation of proceedings
+(1) Where 2 or more proceedings have been commenced in respect of the same company by the filing of statements of claim pursuant to rule 700C, the Court may order those proceedings to be consolidated on such terms as it thinks just.
+(2) Nothing in this rule limits the provisions of rules 382 and 383.
+
+### 700YA Discontinuance of proceeding
+A proceeding commenced by the filing of a statement of claim pursuant to rule 700C may be discontinued only with the leave of the Court.
+
+### 700Z Requirements in relation to order appointing interim liquidator
+The order appointing the interim liquidator shall
+  (a) Bear the number of the proceeding; and
+  (b) State the nature and a short description of the property of which the provisional liquidator is ordered to take possession; and
+  (c) State the duties to be performed by the interim liquidator.
+
+### 700ZA Costs, charges, and expenses of interim liquidator and Official Assignee
+(1) Subject to any order of the Court, ifthe person holding office as interim liquidator shall be entitled to be paid, out of the property of the defendant company, all costs, charges, and expenses properly incurred by that person as interim liquidator, or, where that person is the Official Assignee, such sum as the Court directs.
+  (a) No order for putting the defendant company into liquidation is made in the proceeding; or
+  (b) An order for putting the defendant company into liquidation is rescinded; or
+  (c) All proceedings for putting the defendant company into liquidation are stayed
+(2) Where any person other than the Official Assignee has been appointed interim liquidator and the Official Assignee has taken any steps for the purpose of obtaining a statement of affairs or has performed any other duty prescribed by these rules, the interim liquidator shall pay the Official Assignee such sum, if any, as the Court directs.
+
+**Order to put company into liquidation**
+
+### 700ZB Obligation to send notice of order appointing liquidator or interim liquidator of a company
+(1) When the Court has made an order appointing a person to be liquidator of a company, or has made an order appointing an interim liquidator before an order putting the company into liquidation is made, the Registrar shall, on the same day, send to the liquidator or interim liquidator a notice informing him or her of his or her appointment.
+(2) The notices shall be in form 64J or in form 64K, as the case may require, with such variations as circumstances may require.
+
+### 700ZC Order and copies to be sealed
+The plaintiff or the plaintiff's solicitor shall, at latest on the second working day after the day on which an order putting a company into liquidation is pronounced in Court, leave the order and 2 copies thereof at the office of the Court for sealing.
+
+### 700ZD Contents of order putting a company into liquidation
+(1) An order putting a company into liquidation may be in form 64L.
+(2) An order for the appointment of an interim liquidator may be in form 64M.
+
+### 700ZE Transmission of order putting a company into liquidation
+When an order that a company be put into liquidation or an order for the appointment of an interim liquidator has been made,
+  (a) One copy of the order sealed with the seal of the Court shall forthwith be sent by post or otherwise by the Registrar to the liquidator or interim liquidator, as the case may be:
+  (b) One copy of the order sealed with the seal of the Court shall be served by the plaintiff upon the company in accordance with the Companies Act 1955 or the Companies Act 1993, as the case may be.
+
+### 700ZF Service of order made under section 209ZG of the Companies Act 1955 or section 174 of the Companies Act 1993
+(1) Where an order is made under section 209ZG of the Companies Act 1955 or section 174 of the Companies Act 1993, as the case may be, an office copy of the order shall, unless the Court otherwise orders, be served by the plaintiff on
+  (a) The defendant company in accordance with the Companies Act 1955 or the Companies Act 1993, as the case may be:
+  (b) The Registrar of Companies.
+(2) Where the order involves a reduction of capital or alteration of the memorandum of association or constitution of the company, the Companies Act 1955 or the Companies Act 1993, as the case may be, and the provisions of these rules relative to those matters shall apply as the Court may direct.
+
+### 700ZG Service of notice of company being put into liquidation
+Any notice given for the purposes of section 222 of the Companies Act 1955 or section 252 of the Companies Act 1993, as the case may be, beingshall be in writing and shall be addressed to the officer charged with the execution, and may be served by being delivered by hand or by registered post at the office of the officer charged with the execution.
+  (a) A notice that an application has been made to the Court to appoint a liquidator; or
+  (b) A notice that the Court has made an order appointing a liquidator; or
+  (c) A notice that the Court has appointed an interim liquidator; or
+  (d) A notice of the calling of a meeting at which a special resolution is proposed to appoint a liquidator; or
+  (e) A notice that a special resolution has been passed appointing a liquidator; or
+  (f) A notice of the calling of a meeting of the board at which a resolution is proposed to appoint a liquidator; or
+  (g) A notice that a resolution has been passed appointing a liquidator,
+
+### 700ZH Procedure in respect of miscellaneous applications
+(1) Subject to subclauses (2) and (3), where any provision of the Companies Act 1955 or the Companies Act 1993, as the case may be, provides for an application to be made to the Court in respect ofthe application to be made to the Court shall, unless any provision of those Acts or some other provision of these rules otherwise requires or the Court otherwise directs, be made to the Court in accordance with these rules as if that application were an interlocutory application and Part 3 shall, with all necessary modifications, apply accordingly.
+  (a) A company that is the defendant company in relation to an application made for putting that company into liquidation under section 211(2)(c) of the Companies Act 1955 or section 241(2)(c) of the Companies Act 1993; or
+  (b) A company in respect of which a liquidator has been appointed under section 211(2)(c) of the Companies Act 1955 or section 241(2)(c) of the Companies Act 1993, as the case may be; or
+  (c) A company in respect of which an application under section 209ZG of the Companies Act 1955 or section 174 of the Companies Act 1993 is pending, as the case may be,
+(2) Every application to which subclause (1) applies shall show, in addition to any matters required by these rules, the same intitulment as the intitulment shown on the application for putting the company into liquidation or for the order under section 209ZG of the Companies Act 1955 or section 174 of the Companies Act 1993, as the case may be.
+(3) To avoid doubt, nothing in subclause (1) applies to
+  (a) an application to which rule 700ZI applies; or
+  (b) an application to which Part 4 or Part 4A applies.
+
+### 700ZI Applications involving allegations of fraud, negligence, misfeasance, or like behaviour
+(1) Where an application that involves an allegation of fraud, negligence, misfeasance, or like behaviour is to be made to the Court under the Companies Act 1955 or Companies Act 1993, as the case may be, in respect ofthat application shall be made by filing a statement of claim in accordance with these rules.
+  (a) A company that is the defendant company in relation to an application made to put that company into liquidation under section 211(2)(c) of the Companies Act 1955 or section 241(2)(c) of the Companies Act 1993; or
+  (b) A company in respect of which a liquidator has been appointed under section 211(2)(c) of the Companies Act 1955 or section 241(2)(c) of the Companies Act 1993; or
+  (c) A company in respect of which an application under section 209ZG of the Companies Act 1955 or section 174 of the Companies Act 1993 is pending,
+(2) Where a statement of claim to which subclause (1) applies is filed in accordance with these rules, the applicant shall, as soon as practicable after the statement of defence has been filed or the time for filing a statement of defence has expired, file, under rule 425, an application for directions regarding the proceeding.
+(3) Every statement of claim to which subclause (1) applies shall show, in addition to any matters required by these rules, the same intitulment as the intitulment shown on the application for putting the company into liquidation or for the order under section 209ZG of the Companies Act 1955 or section 174 of the Companies Act 1993.
+
+**Notice for setting aside voidable transactions and charges**
+
+### 700ZJ Liquidator's notice to set aside voidable transaction or voidable charge
+A notice under section 268(1) of the Companies Act 1955 or section 294(1) of the Companies Act 1993, as the case may be, must
+  (a) contain the heading in form 64N; and
+  (b) be in form 64O or form 64P or form 64Q or form 64R, as the case may require; and
+  (c) comply with rules 36 and 44 (with any necessary modifications).
+
+### 700ZK Proper office of Court
+(1) A notice under section 268(1) of the Companies Act 1955 or section 294(1) of the Companies Act 1993, as the case may be, must,
+  (a) if the company has been put into liquidation by the Court, be filed in the office of the Court in which the order putting the company into liquidation was made under the same file number as the liquidation file number (even though the heading of the notice is different); and
+  (b) in any other case, be filed in the office of the Court in the town where, or the office of the Court in the town nearest to where, the registered office of the company in liquidation was situated at the date of liquidation.
+(2) If more than 1 notice under section 268(1) of the Companies Act 1955 or section 294(1) of the Companies Act 1993 relating to the same company in liquidation has been filed in accordance with subclause (1)(b), those notices must be filed under the same file number (even though the heading of each notice is different).
+
+### Part 10 — Appeals
+
+**Preliminary provisions**
+
+### 701 Application of this Part
+(1) This Part applies to appeals to the Court under any enactment other than
+  (a) appeals under the Summary Proceedings Act 1957:
+  (b) appeals under the Arbitration Act 1996:
+  (c) appeals under the Bail Act 2000:
+  (d) appeals or references to the Court by way of case stated to which Part 11 applies.
+(2) For the purposes of subclause (1)(a), appeals under an enactment that incorporates provisions of the Summary Proceedings Act 1957, whether modified or not, are not appeals under the Summary Proceedings Act 1957.
+(2A) In any case where an enactment provides for an appeal to the Court of Appeal with leave of the Court, this Part also applies to an application for that leave.
+(3) This Part applies subject to any express provision in the enactment under which the appeal is brought or sought to be brought.
+
+### 702 Interpretation
+In this Part,
+  - **administrative office** means the registry or office at which the decision-maker gave the decision appealed against
+  - **administrative officer** means the registrar, secretary, or other officer responsible for the administration of the administrative office
+  - **Court office** means the office of the Court
+    (a) at which an appeal is required to be filed under rule 708(1); or
+    (b) to which documents relating to an appeal are transferred under rule 708(3)(b)
+  - **decision** includes a finding, order, or judgment made by a decision-maker
+  - **decision-maker** means a court, tribunal, or person or body of persons
+    (a) that exercises a power of decision from which there is, or may be, a right of appeal to the Court; and
+    (b) against the decision of which an appeal is brought or sought to be brought.
+
+**Applications for leave to appeal**
+
+### 703 Applications for leave to appeal to Court
+(1) In any case where an enactment provides that an appeal to the Court against a decision may not be brought without leave, an application for that leave must be made to the decision-maker or, as the case requires, the Court within 20 working days after the decision is given.
+(2) In any case where an enactment provides that the Court may grant leave to appeal to the Court against a decision after the decision-maker refuses leave, an application for the Court's leave must be made within 20 working days after the refusal.
+(3) The appeal must be brought
+  (a) by the date fixed when the decision-maker or the Court grants leave; or
+  (b) if the decision-maker or the Court fails to fix a date, within 20 working days after the grant of leave.
+(4) Any date fixed by the decision-maker is, for the purposes of rule 260, to be treated as a determination.
+(5) The decision-maker or, as the case requires, the Court may, on application, extend the period for bringing an application under this rule, if the enactment under which the appeal is sought to be brought
+  (a) permits the extension; or
+  (b) does not limit the time prescribed for making the application.
+(6) A party may apply for the extension of a period before or after the period expires.
+(7) Every application under this rule must be made on notice to every party affected by the proposed appeal and, if made to the Court, must be made by interlocutory application.
+(8) In this rule, leave includes special leave.
+
+### 703A Power of Judge to call conference and give directions
+[Repealed]
+
+**Commencement of appeal**
+
+### 704 Time for appeal where there is right of appeal
+(1) This rule applies when a party has a right of appeal to the Court.
+(2) An appeal must be brought,
+  (a) if the enactment that confers the right of appeal specifies a period within which the appeal must be brought, within that period; or
+  (b) in every other case, within 20 working days after the decision appealed against is given.
+(3) By special leave, the Court may extend the time prescribed for appealing if the enactment that confers the right of appeal
+  (a) permits the extension; or
+  (b) does not limit the time prescribed for bringing the appeal.
+(4) An application for an extension
+  (a) must be made by an interlocutory application on notice to every other party affected by the appeal; and
+  (b) may be made before or after the expiry of the time for appealing.
+
+### 705 Commencement of periods in rules 703 and 704
+For the purposes of rules 703 and 704, a period begins when the decision to which it relates is given, whether or not
+  (a) reasons for the decision are then given or are given later; or
+  (b) formal steps, such as entering or sealing the decision, are necessary or are taken after the decision is given.
+
+### 706 When appeal brought
+(1) An appeal is brought when the appellant
+  (a) files a notice of appeal in the High Court; and
+  (b) files a copy of the notice of appeal in the administrative office; and
+  (c) serves a copy of the notice of appeal on every other party directly affected by the appeal.
+(2) Service at the address for service stated in the proceedings to which the appeal relates is sufficient service for the purposes of this rule.
+
+### 707 Power to dispense with service
+Despite rule 706(1)(c), the Court may, on any terms the Court thinks fit, dispense with service of a notice of appeal on a party.
+
+### 708 Filing of notice of appeal
+(1) A notice of appeal must be filed in
+  (a) the office of the Court nearest to the place where the decision appealed against was given; or
+  (b) any other office of the Court in which the parties agree that the notice of appeal may be filed.
+(2) If subclause (1)(b) applies, the parties must endorse on, or file with, the notice of appeal a memorandum recording their agreement to the filing of the notice of appeal in the office of the Court in which it is filed.
+(3) If it appears to the Court, on application, that a notice of appeal has been filed in the wrong office of the Court or that another office of the Court would be more convenient to the parties, the Court may direct that
+  (a) the notice of appeal be filed in another office of the Court; or
+  (b) the documents relating to the appeal be transferred to another office of the Court.
+(4) The filing of a notice of appeal in the wrong office of the Court does not invalidate an appeal.
+
+### 709 Contents of notice of appeal
+(1) Unless the Court otherwise directs, a notice of appeal must
+  (a) have a heading in form 1 that also refers to the enactment under which the appeal is brought; and
+  (b) specify the decision or part of the decision appealed against; and
+  (c) specify the grounds of the appeal in sufficient detail to fully inform the Court, the other parties to the appeal, and the decision-maker of the issues in the appeal; and
+  (d) specify the relief sought.
+(2) The notice of appeal must not name the decision-maker as a respondent.
+(3) Subclause (2) does not
+  (a) apply to appeals to the Court under the Commerce Act 1986:
+  (b) limit or affect rule 717 (which entitles a decision-maker, other than a District Court, to be represented and heard on an appeal).
+(4) An appellant may, at any time with the leave of the Court, amend a notice of appeal.
+
+### 710 Stay of proceedings
+(1) An appeal does not operate as a stay of the proceedings appealed against or as a stay of execution of any judgment or order appealed against.
+(2) However, pending the determination of an appeal, the decision-maker or the Court may, on application,
+  (a) order a stay of proceedings in relation to the decision appealed against or a stay of execution of any judgment or order appealed against; or
+  (b) grant any interim relief.
+(3) An order made or relief granted under subclause (2) may
+  (a) relate to execution of the whole of a judgment or order or to a particular form of execution:
+  (b) be subject to any conditions for the giving of security the decision-maker or the Court thinks fit.
+
+### 711 Cross-appeal
+(1) A respondent who wishes to contend at the hearing of an appeal that the decision appealed against should be varied must
+  (a) file a notice of cross-appeal in the Court office; and
+  (b) file a copy of the notice of cross-appeal in the administrative office; and
+  (c) serve a copy of the notice of cross-appeal on every other party directly affected by the cross-appeal.
+(2) Except with the leave of the Court, a notice of cross-appeal must be filed not later than 2 working days before the holding of the case management conference relating to the appeal.
+(3) A notice of cross-appeal must specify
+  (a) the decision or part of the decision to which the cross-appeal relates; and
+  (b) the grounds of the cross-appeal in sufficient detail to fully inform the Court, the other parties to the appeal, and the decision-maker of the issues in the cross-appeal; and
+  (c) the relief sought.
+(4) The Court may, despite a failure by a respondent to file and serve a notice of cross-appeal,
+  (a) allow the respondent to contend at the hearing of an appeal that the decision appealed against should be varied; or
+  (b) adjourn the hearing of an appeal to allow the respondent time to file and serve a notice of cross-appeal; or
+  (c) make any other order, including an order for the payment of costs, as the Court thinks fit.
+(5) A respondent may at any time, with the leave of the Court, amend a notice of cross-appeal.
+
+### 712 Dismissal or abandonment of appeal or cross-appeal for failure to proceed
+(1) The Court may, on application, dismiss an appeal or a cross-appeal if the Court is satisfied that the appellant or the respondent has failed to proceed with the appeal or cross-appeal.
+(2) If the appellant files and serves on every other party a statement signed by the appellant to the effect that the appellant abandons the appeal, the appeal is, subject to the right of the respondent to apply for an order as to costs, taken to have been dismissed.
+(3) If the respondent files and serves on every other party a statement signed by the respondent to the effect that the respondent abandons the cross-appeal, the cross-appeal is, subject to the right of the appellant to apply for an order as to costs, taken to have been dismissed.
+
+### 713 Security for appeal
+(1) This rule applies to an appeal other than an appeal in which the appellant has been granted legal aid under the Legal Services Act 2000.
+(2) At the case management conference relating to the appeal, the Judge must fix security for costs unless the Judge considers that in the interests of justice no security is required.
+(3) Unless the Judge otherwise directs, the amount of security must be fixed in accordance with the following formula:where
+  (a) is the daily recovery rate for the proceeding as classified by the Judge under rule 48; and
+  (b) is the number of half days estimated by the Judge as the time required for the hearing.
+(4) Unless the Judge otherwise directs, security must be paid to the Registrar at the Court office not later than 10 working days after the case management conference relating to the appeal.
+(5) If an appellant has applied for legal aid under the Legal Services Act 2000 and, at the time of the case management conference, the application has not been determined, the Judge must defer the fixing of security until the application for legal aid has been determined.
+
+**Matters leading up to hearing**
+
+### 714 Order for transcription of evidence
+(1) The Court may, on application, order that
+  (a) a transcript be made of the whole or part of the evidence given at the hearing before the decision-maker; and
+  (b) the transcript be sent to the Registrar at the Court office.
+(2) An application under subclause (1) must be filed not later than the first of the following dates:
+  (a) the date that is 20 working days after the date on which notice of appeal is filed in the High Court:
+  (b) the working day before the date of the case management conference relating to the appeal.
+(3) The Registrar of the Court must give notice in writing to the administrative officer of any order under subclause (1).
+(4) The administrative officer must
+  (a) arrange for the transcript to be made; and
+  (b) certify that the transcript is correct; and
+  (c) send the certified copy of the transcript to the Registrar at the Court office.
+(5) The Court may, on application by the administrative officer, order that a party to the appeal pay some or all of the costs of making a transcript.
+(6) An order made under subclause (1) or subclause (5) may be made on any conditions the Court thinks fit.
+
+### 715 Report by decision-maker
+(1) The decision-maker must, if the Court directs, provide to the Registrar at the Court office a report setting out
+  (a) any considerations, other than findings of fact, to which the decision-maker had regard in making the decision appealed against, but that are not set out in the decision:
+  (b) any information about the effect that the decision might have on the general administration of the enactment under which the decision was made:
+  (c) any other matters relevant to the decision or to the general administration of the enactment under which the decision was made that should be drawn to the attention of the Court.
+(2) The Registrar must provide a copy of the report to every party to the appeal.
+(3) Every party to the appeal is entitled to be heard, and tender evidence, on any matter referred to in the report.
+
+### 716 Further evidence
+(1) A party to an appeal may, without leave, adduce further evidence on a question of fact if the evidence is necessary to determine an interlocutory application that relates to the appeal.
+(2) In all other cases, a party to an appeal may adduce further evidence only with the leave of the Court.
+(3) The Court may grant leave only if there are special reasons for hearing the evidence, for example, if the evidence relates to matters that have arisen after the date of the decision appealed against and that are or may be relevant to the determination of the appeal.
+(4) Unless the Court otherwise directs, further evidence under this rule must be given by affidavit.
+
+**Conduct of the appeal**
+
+### 717 Decision-maker entitled to be heard on appeal
+Unless the Court otherwise directs, at the hearing of an appeal the decision-maker, other than a District Court, is entitled to be represented and heard on all matters arising in the appeal.
+
+### 718 Appeal to be a rehearing
+All appeals must be by way of rehearing.
+
+### 718A Powers of Court on appeal
+(1) Having heard an appeal, the Court may
+  (a) make any decision or decisions it thinks should have been made:
+  (b) direct the decision-maker
+    (i) to rehear the proceedings concerned; or
+    (ii) to consider or determine (whether for the first time or again) any matters the Court directs; or
+    (iii) to enter judgment for any party to the proceedings the Court directs:
+  (c) make any further or other order the Court thinks fit (including any order as to costs).
+(2) The Court must state its reasons for giving a direction under subclause (1)(b).
+(3) The Court may give the decision-maker any direction it thinks fit relating to
+  (a) rehearing any proceedings directed to be reheard; or
+  (b) considering or determining any matter directed to be considered or determined.
+(4) The Court may act under subclause (1) in respect of a whole decision, even if the appeal is against only part of it.
+(5) Even if an interlocutory or similar decision in the proceedings has not been appealed against, the Court
+  (a) may act under subclause (1); and
+  (b) may set the interlocutory or similar decision aside; and
+  (c) if it sets the interlocutory or similar decision aside, may make in its place any interlocutory or similar decision or decisions the decision-maker could have made.
+(6) The powers given by this rule may be exercised in favour of a respondent or party to the proceedings concerned, even if the respondent or party did not appeal against the decision concerned.
+
+### 718B Repayment of judgment sum and interest
+(1) This rule applies if
+  (a) a party to proceedings before a decision-maker (party A) has, in accordance with any judgment or order of the decision-maker, paid an amount to another party to the proceedings (party B); and
+  (b) on appeal to the Court, the effect of the Court's determination is that some or all of the amount did not need to be paid.
+(2) If subclause (1) applies, the Court
+  (a) may order party B to repay to party A some or all of the amount paid by party A; and
+  (b) may also order party B to pay to party A interest at a rate not greater than the prescribed rate (within the meaning of section 87(3) of the Judicature Act 1908) on the sum ordered to be repaid.
+
+### 718C Registrar to notify result of appeal
+On the determination of an appeal, the Registrar must
+  (a) give notice in writing to the administrative officer of the result of the appeal; and
+  (b) return to the administrative officer any documents and exhibits filed in accordance with any direction given at a case management conference relating to the appeal.
+
+### 718D Land valuation claims, etc, referred to Court
+[Repealed]
+
+**Applications for leave to appeal to Court of Appeal**
+
+### 718E Time for making application for leave
+(1) In any case where an enactment provides that an appeal against a decision may be made to the Court of Appeal with leave of the Court, an application for that leave must be made to the Court within 20 working days after the decision is given.
+(2) A respondent who wishes to cross-appeal must apply for leave to cross-appeal within 10 working days after the date on which a copy of the appellant's application for leave is served on the respondent.
+
+### 718F Form of application for leave
+An application for leave to appeal or cross-appeal must be by interlocutory application.
+
+### Part 11 — Cases stated for opinion of Court
+
+### 719 Application of this Part
+This Part shall apply to
+  (a) Any appeal by way of case stated for the opinion of the Court on a question of law only:
+  (b) Any other reference to the Court by way of case stated for an opinion on a question of law pursuant to any Act.
+
+### 720 This Part subject to other enactments
+This Part shall apply subject toother than a provision prescribing the form of the case.
+  (a) Any specific provision contained in the Act that confers the right of appeal or provides for the reference; and
+  (b) Any specific provision of any other Act that relates to the right of appeal or reference,
+
+### 721 Interpretation
+In this Part,
+  - **Appropriate officer** , in relation to a tribunal, means the Registrar or the Secretary or the clerk or such other officer of the tribunal who is responsible for the administration of the tribunal
+  - **Appropriate registry** means the registry of the Court at which the appeal or reference is, in accordance with rule 724C, to be filed
+  - **Decision** includes any order made by a tribunal or person
+  - **Tribunal** includes
+    (a) Any Minister of the Crown:
+    (b) Any Government department or officer:
+    (c) Any other person or body who or which may be required, or is authorised, by or under any Act to state or refer a case for the opinion of the Court.
+
+### 722 Application of Part 10
+The following rules apply, with all necessary modifications, to every appeal to which this Part applies:
+  (a) rule 704(3) and (4) (as to extension of time for appeal):
+  (b) rule 707 (as to power to dispense with service):
+  (c) rule 710 (as to stay of proceedings).
+
+### 723 Mode of commencing appeal or reference
+(1) Every appeal to which this Part applies shall be instituted by the appellant
+  (a) Giving a notice of appeal to the appropriate officer of the tribunal by which the decision was made, or if there is no such officer, to the person who made the decision; and
+  (b) Filing a copy of the notice of appeal in the appropriate registry of the Court.
+(2) Every other reference to which this Part applies (other than a reference effected by a tribunal of its own motion) shall be made in such manner as the tribunal directs on application made to it by a party to the matter in which the question of law has arisen.
+(3) Every person who gives a notice of appeal under subclause (1)(a) shall, as soon as practicable after giving that notice, lodge a draft case with the appropriate officer of the tribunal by which the decision was made, or if there is no such officer, with the person who made the decision.
+
+### 724 Service of copies of notice of appeal on other parties
+Either before or immediately after the giving and filing of the notice of appeal under rule 723(1), the appellant shall serve a copy of the notice of appeal on every other party to the matter in which the decision was given.
+
+### 724A Time for appeal
+Every notice of appeal under rule 723(1) shall be given and filed within one month after the date of the decision to which the appeal relates.
+
+### 724B Notice of appeal
+Unless otherwise provided by any enactment, every notice of appeal under rule 723(1) shall specify
+  (a) The decision or the part of the decision appealed from; and
+  (b) Any error of law alleged by the appellant; and
+  (c) Any question of law to be resolved; and
+  (d) The relief sought.
+
+### 724C Place for filing notice and case
+(1) The appropriate registry for the filing of a notice of appeal and of a case stated to which this Part applies shall be
+  (a) The office of the Court nearest to the place where the inquiry or arbitration was or is being conducted or the application or other matter was or is being considered; or
+  (b) Any other office of the Court in which the parties agree that the notice or case may be filed.
+(2) In any case to which subclause (1)(b) applies, the parties shall endorse on or lodge with the notice of appeal a memorandum of their agreement to the appeal being filed in the office of the Court in which it is filed.
+(3) In any case to which subclause (1)(a) applies, if it appears to the Court, on application made to it, that the notice of appeal has been filed in the wrong office of the Court or that any other office of the Court would be more convenient to the parties, it may direct that the notice of appeal be filed in such other office, or that all documents filed in the appeal be transferred to the proper office or (as the case may be) to such other office.
+
+### 724D Contents of case
+(1) Every case shall state concisely
+  (a) The circumstances of the application, inquiry, arbitration, or other matter leading to the statement of the case:
+  (b) The relevant facts as determined by the tribunal (attaching copies of documents, if any) necessary to enable the Court to decide the questions enumerated for the opinion of the Court:
+  (c) Where appropriate, the respective contentions of the parties with reference to those questions:
+  (d) The questions upon which the opinion of the Court is sought.
+(2) In addition to the requirements of subclause (1), in any case stated by way of appeal on a question of law only in which a ground of the appeal is that there was no evidence on which the tribunal could properly have reached the decision or any specified part of the decision, there shall be attached to the case, in addition to copies of documents, affidavits, and exhibits which were placed before the tribunal, a copy of such notes of any evidence given at the hearing and made for or under the direction of the tribunal as have been transcribed.
+(3) If the transcript is certified to be correct by the appropriate officer of the tribunal by which, or the person by whom, the decision was made, no further verification of its contents shall be required.
+(4) No document or transcript of any evidence shall be attached to the case unless it is necessary for a proper determination by the Court of the questions of law specified in the case.
+(5) The case shall be signed by or on behalf of the tribunal.
+
+### 724E Order for transcription of evidence
+(1) Where, in any case stated by way of appeal on a question of law only,the Court may order, subject to such conditions as it thinks fit, that a transcript be made of all evidence given material to the issues involved (being issues specified in the notice of appeal).
+  (a) There has been a hearing before the tribunal by which the decision was made and the evidence given at the hearing was recorded but has not been transcribed; and
+  (b) A ground of the appeal is that there is no evidence on which the tribunal by which the decision was made could properly have reached the decision or any part of the decision,
+(2) Rule 714(2) to (6) applies, with all necessary modifications, in relation to an application for an order under subclause (1) as if the application were an application for an order under rule 714(1).
+
+### 724F When case deemed to be stated
+(1) A case shall be deemed to have been stated when a case stated under this Part has been duly filed.
+(2) It is the responsibility of the appellant or of the party to the proceedings before the tribunal who has sought the stating of a case for the opinion of the Court to ensure that, when the case has been settled and signed by or on behalf of the tribunal, the case is filed in the appropriate registry.
+(3) Immediately after the case stated has been filed in the appropriate registry, the party filing it shall serve a copy on every other party to the matter before the tribunal by which the case has been stated.
+
+### 724G Power to amend case
+(1) The Court may, if it thinks fit, cause a case stated to be sent back to the tribunal for amendment
+  (a) To clarify the questions of law on which the opinion of the Court is sought; or
+  (b) To provide any further information necessary to enable the Court properly to dispose of the questions enumerated in the case stated.
+(2) The Court may amend the case at the hearing if the tribunal agrees.
+
+### 724H Setting down
+[Repealed]
+
+### 724I Security for costs
+In the case of any appeal to which this Part applies, the Court may, in special circumstances, order that such security shall be given for the costs of the appeal as may be just.
+
+### 724J Counsel assisting
+[Repealed]
+
+### 725 Determination of questions
+The Court shall hear and determine the question or questions of law arising on any case filed under this Part, and shall thereupon do any one or more of the following things:
+  (a) In the case of an appeal, reverse, confirm, or amend the determination in respect of which the case has been stated:
+  (b) In the case of an appeal, remit the matter to the tribunal for reconsideration and determination in accordance with the opinion of the Court on the question or questions of law:
+  (c) In every other case, remit the matter to the tribunal with the opinion of the Court thereon:
+  (d) In any case, make such other order in relation to the matter as it thinks fit.
+
+### Part 11A — Patents
+
+### 725A Interpretation
+In this Part, unless the context otherwise requires
+  - **Commissioner** means the Commissioner of Patents
+  - **Journal** means the Patent Office Journal
+  - **Report** means a report by a scientific adviser
+  - **Respondent's notice** means a notice given under rule 725ZU
+  - **Scientific adviser** includes
+    (a) A person with scientific qualifications; and
+    (b) A medical practitioner; and
+    (c) An engineer; and
+    (d) An architect; and
+    (e) A surveyor; and
+    (f) An accountant; and
+    (g) An actuary; and
+    (h) Any other specially skilled person whose opinion in relation to any matter may be of assistance to the Court.
+
+**Scientific advisers**
+
+### 725B Appointment of scientific advisers
+In any proceeding under the Patents Act 1953 or any proceeding for infringement of a patent, the Court may at any time, and whether or not an application has been made by any party for that purpose, appoint an independent scientific adviser to assist the Court or to inquire and report upon any questions of fact or opinion not involving questions of law or construction:
+  Provided that, if all the parties to the proceeding so request, the Court shall appoint a scientific adviser as aforesaid.
+
+### 725C Nomination of scientific adviser and settlement of questions and instructions
+The Court shall nominate the scientific adviser and shall settle the questions or instructions to be submitted or given to the scientific adviser.
+
+### 725D Reports of scientific adviser
+(1) Where, under rule 725B or rule 725C, the Court has appointed or nominated an independent scientific adviser, any report made by that scientific adviser, so far as it is not accepted by all parties to the proceeding,
+  (a) Shall be treated as information furnished to the Court; and
+  (b) Shall be given such weight as the Court may think fit.
+(2) All reports by any such independent scientific adviser
+  (a) Shall be made in writing to the Court; and
+  (b) Shall be accompanied by such copies thereof as the Court may require.
+(3) Copies of the report shall be forwarded by the Court to the parties to the proceeding.
+
+### 725E Cross-examination of scientific adviser
+(1) Any party may, within 14 days of receiving a copy of the report, or within such other time as the Court may direct, apply for leave to cross-examine the scientific adviser on his or her report.
+(2) The Court may, on an application under subclause (1), make an order for the cross-examination of the scientific adviser at the hearing of the proceeding.
+(3) The Court shall, at the hearing, direct at what stage the scientific adviser is to be called.
+
+### 725F Experiment or test
+(1) If the scientific adviser considers that an experiment or test (other than one of a trifling character) is necessary to enable the scientific adviser to report in a satisfactory manner, the scientific adviser
+  (a) Shall inform the parties; and
+  (b) Shall endeavour to agree with the parties as to
+    (i) The expenses involved; and
+    (ii) The persons to attend the experiment or test.
+(2) In default of agreement between the parties, all such matters shall be determined by the Court.
+
+### 725G Further or supplemental report
+The Court may at any time direct the scientific adviser to make a further or supplemental report, and the provisions of rules 725D and 725E shall apply to any such report as they apply to an original report.
+
+### 725H Remuneration of scientific adviser
+The remuneration of the scientific adviser shall be fixed by the Court, and shall include the costs of making a report and a proper daily fee for any day on which the scientific adviser may be required to attend before the Court.
+
+**Extension of term of patent**
+
+### 725I Application for extension of term of patent
+(1) Every application to the Court under section 31 or section 32 or section 33 of the Patents Act 1953 shall be made by way of an originating application.
+(2) The originating application shall be filed in the office of the Court at Wellington (unless the Court otherwise directs).
+
+### 725J Applications for directions
+The applicant shall file with the originating application an interlocutory application under rule 458I for directions regarding the proceeding commenced by the filing of the originating application.
+
+### 725K Copy of specifications and drawing
+The applicant shall file with the originating application a copy of the specifications and drawings of the patent.
+
+### 725L Affidavit concerning material facts
+The applicant shall, when filing the originating application or not later than 21 days before the date appointed for the hearing of the interlocutory application for directions, file an affidavit stating all material facts on which the applicant relies.
+
+### 725M Grounds and facts
+Nothing in rules 725I to 725L shall prevent the Court from making an order on grounds or facts other than those stated or referred to in the originating application and affidavit if the Court considers it expedient to do so.
+
+### 725N Advertisement
+(1) As soon as possible after filing the originating application, the applicant shall cause an advertisement in accordance with subclause (2) to be published once in the Journal and once in a daily newspaper published at each of the following cities, namely, Auckland, Wellington, Christchurch, and Dunedin.
+(2) The advertisement shall
+  (a) State the nature of the application:
+  (b) State that the application for directions will be heard on a day and at a time to be appointed, which day shall not be earlier than 30 clear days after the date of the last publication of the advertisement:
+  (c) Have at the foot thereof the name of the applicant and of the applicant's solicitor, if any, and the applicant's address for service:
+  (d) Contain a statement as to the effect of rule 725P.
+
+### 725O Service on Commissioner
+Forthwith after filing any document (other than the specifications and drawings) the applicant shall serve on the Commissioner a copy of that document.
+
+### 725P Notice of opposition and notice of intention to appear
+(1) Any person (other than the applicant) who intends to appear at the hearing to oppose or support the originating application or to claim the inclusion therein of any restrictions or conditions or provisions shall,
+  (a) Not later than 7 clear days before the date appointed for the hearing of the interlocutory application for directions,
+    (i) File a notice of opposition or a notice of intention to appear, as the case may require, in the office of the Court in which the originating application has been filed; and
+    (ii) Serve a copy of the notice of opposition or notice of intention to appear on the applicant or the applicant's solicitor and on the Commissioner:
+  (b) If the person intends to oppose the application or to claim the inclusion therein of any restrictions or conditions or provisions, not later than 7 clear days before the date appointed for the hearing of the interlocutory application for directions,
+    (i) File in the office of the Court in which the originating application has been filed particulars of the applicant's objection or claim; and
+    (ii) Serve a copy thereof on the applicant or the applicant's solicitor and on the Commissioner.
+(2) Every notice of opposition and every notice of intention to appear filed by any person under this rule shall have at the foot thereof the person's address for service.
+(3) Any person who fails to comply with subclause (1) shall be deemed to have abandoned that person's opposition, support, or claim.
+(4) Except by leave of the Court, which may be granted on such terms as may be just, no person shall be heard or adduce evidence in support of any objection or claim as regards any matters not specified in the particulars filed by that person as aforesaid.
+
+### 725Q Obligation of applicant to supply copy of originating application, etc
+The applicant shall, upon the request and at the expense of any person who has served a notice of opposition or a notice of intention to appear, supply that person with
+  (a) A copy of the originating application; and
+  (b) A copy of the receipts and payments account; and
+  (c) A copy of any affidavit filed in the Court.
+
+### 725R Obligation of applicant to comply with request of Commissioner
+The applicant shall, upon request by the Commissioner, give the Commissioner or any person appointed by the Commissioner reasonable facilities for inspecting and taking extracts from the books of account by reference to which the Commissioner proposes to verify the receipts and payments account or from which the materials for making up that account have been derived.
+
+### 725S Notice of Commissioner's election to appear
+If the Commissioner elects to appear on the hearing of the originating application, the Commissioner shall, not later than 7 clear days before the day appointed for that hearing,
+  (a) Lodge notice of the Commissioner's election in the Court; and
+  (b) Serve a copy of the Commissioner's notice of election
+    (i) On the applicant; and
+    (ii) On any other person who has given notice of opposition or notice of intention to appear.
+
+### 725T Particulars of Commissioner's objection
+If the Commissioner elects or is directed to appear on the hearing of the originating application, the Commissioner shall, not later than 7 clear days before the day appointed for the main hearing, file particulars of any objection the Commissioner intends to make.
+
+### 725U Affidavit proving publication of advertisement
+Before the date appointed for hearing the interlocutory application for directions, the applicant shall file in the Court an affidavit to prove that a sufficient advertisement has been published in accordance with rule 725N.
+
+### 725V Costs
+If the Court refuses to grant an order extending the term of the patent, it shall not, except under special circumstances, award more than one set of costs among all the opponents.
+
+### 725W Reference to Court of application made to Commissioner
+(1) Where the Commissioner decides to refer to the Court an application made to the Commissioner under section 31 or section 32 or section 33 of the Patents Act 1953, the Commissioner shall give notice of the decision in writing to the applicant and to any person who has supported the application and to any opponent.
+(2) The applicant shall, within 28 days after the date of the receipt of the notice,
+  (a) File an originating application setting out the relief which the applicant seeks; and
+  (b) Serve a copy of the originating application
+    (i) On the Commissioner; and
+    (ii) On any person who supported the application made to the Commissioner; and
+    (iii) On any opponent to the application made to the Commissioner.
+(3) The Commissioner shall, within 14 days after the date of the service of the originating application upon the Commissioner, send the Commissioner's file of proceedings to the Registrar of the Court.
+(4) If the person who made the application to the Commissioner fails to file an originating application or to withdraw the application to the Commissioner within the said 28 days, the Commissioner may, after giving 7 clear days' further notice to the parties, prepare and file a statement of case referring the application for decision by the Court, which may award costs against the applicant if the applicant fails to proceed on the application.
+
+**Amendment of specification with leave of Court**
+
+### 725X Application for amendment of specification
+Rules 725Y to 725ZE shall apply to every application made by a patentee under section 39 of the Patents Act 1953 for an order allowing the patentee to amend the patentee's complete specification.
+
+### 725Y Notice of intention to make application for amendment of specification
+The patentee shall give notice to the Commissioner of the patentee's intention to make an application under section 39 of the Patents Act 1953.
+
+### 725Z Advertisement
+(1) The notice under rule 725Y shall be accompanied by a copy of a suitable advertisement of the proposed amendment.
+(2) The Commissioner shall insert the advertisement once in the Journal.
+(3) The advertisement
+  (a) Shall give particulars of the amendments sought and of the patentee's address for service within New Zealand; and
+  (b) Shall state that any person desiring to oppose the amendment must, within 14 days after the date of the actual issue of the Journal in which the advertisement is published, give notice in writing of that person's desire to the patentee at that address.
+
+### 725ZA Right to be heard
+Any person giving any notice under rule 725Z(3)(b) shall be entitled to be heard upon the application, subject to any direction of the Court as to costs.
+
+### 725ZB Time for making of application
+The patentee shall, as soon as may be after the expiration of 21 days after the date of the actual issue of the Journal in which the advertisement is published, proceed by way of interlocutory application in the proceeding pending before the Court.
+
+### 725ZC Service of notice of interlocutory application
+Notice of the interlocutory application, together with a copy of the specification certified by the Commissioner showing in a distinguishing ink or type the amendment proposed to be made, shall be served by the patentee on
+  (a) The Commissioner; and
+  (b) The parties to the proceedings; and
+  (c) Such persons, if any, as have given notice of intention to oppose.
+
+### 725ZD Duty of Court to give directions
+On the hearing of the interlocutory application, the Court
+  (a) Shall decide whether, and on what terms as to costs or otherwise, the application shall be allowed to proceed; and
+  (b) Shall direct whether the application shall be heard on oral or affidavit evidence, and, if on affidavit evidence, shall fix the times within which affidavits shall be filed by the parties and by any other person entitled to be heard under the Act or these rules.
+
+### 725ZE Procedure where amendment to specification allowed
+(1) Where the Court allows a specification be amended,
+  (a) The patentee shall forthwith lodge with the Commissioner an office copy of the order allowing the amendment; and
+  (b) The Commissioner shall advertise the order allowing the amendment once in the Journal and otherwise as the Court may direct.
+(2) The patentee shall also, if so required by the Court or by the Commissioner, leave at the Patent Office a new specification and drawings as amended which shall be prepared as far as may be in accordance with the Patents Regulations 1954.
+
+**Revocation of patents**
+
+### 725ZF Application to Court for revocation of patent
+(1) Every application to the Court under section 41 of the Patents Act 1953 for the revocation of a patent (not being an application made in the course of a proceeding) shall be made by way of an originating application.
+(2) The originating application shall be filed in the office of the Court at Wellington (unless the Court otherwise directs).
+
+### 725ZG Respondent in revocation proceedings to begin
+(1) The respondent to an application under section 41 of the Patents Act 1953 for the revocation of a patent
+  (a) Shall be entitled to begin and give evidence in support of the patent; and
+  (b) If the applicant gives evidence impeaching the validity of the patent, shall be entitled to reply.
+(2) This rule has effect notwithstanding anything in rule 487.
+
+**Objections**
+
+### 725ZH Particulars of objections where validity of patent disputed
+Particulars of objections as to the validity of a patent
+  (a) Shall be delivered
+    (i) With an application for revocation under section 41 of the Patents Act 1953; or
+    (ii) With the defence in a proceeding for infringement of a patent; or
+    (iii) With a counterclaim for revocation under section 70 of the Patents Act 1953; and
+  (b) Shall state every ground upon which the validity of the patent is disputed; and
+  (c) Shall include such particulars as will clearly define every issue which it is intended to raise.
+
+### 725ZI Particulars where want of novelty alleged
+(1) If one of the objections taken in the particulars of objections as to the validity of a patent is want of novelty, the particulars shall state the time and place of the previous knowledge, publication, or user alleged.
+(2) If it is alleged that the invention has been used prior to the date of the patent, the particulars shall also
+  (a) Specify the name and address of the person who is alleged to have made the prior user and the place of the prior user; and
+  (b) Specify whether the prior user is alleged to have continued down to the date of the patent, and, if not, the earliest and latest dates on which the prior user is alleged to have taken place; and
+  (c) Contain a description (accompanied by drawings, if necessary) sufficient to identify the alleged prior user; and
+  (d) If the user relates to any machinery or apparatus, specify whether it is in existence and where it can be inspected.
+(3) No evidence as to any machinery or apparatus which is alleged to have been used prior to the date of the patent and which is in existence at the date of the delivery of the particulars shall be receivable unless it is proved that the party relying on the prior user has (if the machinery or apparatus is in that party's own possession) offered inspection of it, or (if it is not in that party's own possession) has used best endeavours to obtain the inspection of it for the other parties to the proceeding.
+
+### 725ZJ Service of notice on Solicitor-General
+In any proceeding before the Court, any party who intends to dispute the validity of a patent
+  (a) Shall give notice of that intention to the Solicitor-General at least 21 days before the hearing; and
+  (b) Shall supply the Solicitor-General with a copy of such papers filed in the proceeding by that party or by any other party as the Solicitor-General requires.
+
+**Particulars in proceeding for infringement of patent**
+
+### 725ZK Particulars to be supplied by plaintiff
+In a proceeding for infringement of a patent, the plaintiff
+  (a) Shall deliver with the plaintiff's statement of claim particulars of the breaches relied upon; and
+  (b) Shall specify which of the claims in the specification of the patent sued upon are alleged to be infringed; and
+  (c) Shall give at least one instance of each type of infringement of which complaint is made.
+
+### 725ZL Particulars to be supplied by defendant
+(1) If a defendant in a proceeding for infringement of a patent intends to rely, as a defence to the proceeding, on the insertion by the patentee in any contract or contracts of any condition which is void by virtue of section 66 of the Patents Act 1953, that defendant shall deliver with that defendant's defence
+  (a) Full particulars of the dates of, and parties to, all contracts on which that defendant intends to rely as containing any such condition; and
+  (b) Full particulars of the particular conditions on which that defendant intends to rely as being void by virtue of that section.
+(2) A defendant shall not be entitled to rely on a defence available to that defendant under section 66(2) of the Patents Act 1953 of which particulars have not yet been delivered in accordance with the provisions of this rule.
+
+### 725ZM Evidence restricted to particulars delivered
+Except by leave of the Court, which may be granted on such terms as the Court thinks just, no person shall be heard or adduce evidence in support of any alleged infringement or objection or defence as regards any matters which are not specified in or are at variance with the particulars that person has delivered.
+
+### 725ZN Amendment of particulars
+(1) Particulars filed in the Court under these rules may from time to time be amended by leave of the Court upon such terms as the Court thinks just.
+(2) Further and better particulars may at any time be ordered by the Court.
+(3) This rule has effect notwithstanding anything in rule 187.
+
+**Appeals**
+
+### 725ZO Mode of bringing appeal
+Any person who desires to appeal to the Court from any decision of the Commissioner in a case in which a right of appeal is given by the Patents Act 1953 shall file a notice of appeal in the Court.
+
+### 725ZP Time for appeal
+(1) The notice of appeal shall be filed within 28 days after the date of the decision.
+(2) Except by leave of the Court, no appeal shall be entertained unless notice of appeal has been given within the period specified in subclause (1).
+
+### 725ZQ Contents of notice of appeal
+The notice of appeal shall state
+  (a) The decision or the part of the decision appealed against; and
+  (b) Any error of law alleged by the appellant; and
+  (c) Any question of law to be resolved; and
+  (d) The grounds of the appeal, which grounds shall be specified with such reasonable particularity as to give full advice to both the Court and the other parties of the issues involved; and
+  (e) The relief sought.
+
+### 725ZR Grounds of appeal
+Except with the leave of the Court, which may be granted on such terms as the Court thinks just, no grounds other than those stated in the notice of appeal shall be allowed to be taken by the appellant at the hearing.
+
+### 725ZS Service of notice of appeal
+The appellant shall, within 7 days of filing the notice of appeal, serve a copy of the notice on
+  (a) The Commissioner; and
+  (b) Any other party to the proceedings before the Commissioner.
+
+### 725ZT Obligation of Commissioner to transmit papers to Court
+On receiving the notice of appeal, the Commissioner shall forthwith transmit to the Court all the papers relating to the matter the subject of the appeal.
+
+### 725ZU Contentions that may be raised by respondent
+(1) A respondent who has not appealed from the decision of the Commissioner, but desires to contend on the appeal that the decision should be varied either in any event or in the event of the appeal being allowed in whole or in part, shall give notice to that effect, specifying the grounds of that contention and the relief which the respondent seeks from the Court. It shall not be necessary for any such respondent to file a further notice of appeal under rule 725ZO.
+(2) A respondent who desires to contend on the appeal that the decision of the Commissioner should be affirmed on grounds other than those set out in the decision shall give notice to that effect specifying the grounds of that contention.
+
+### 725ZV Respondent's notice
+(1) A respondent's notice shall be sent to the Commissioner and to the appellant and every other party to the proceedings before the Commissioner within 28 days after the date of the receipt of the notice of appeal by the respondent or within such further time as the Court may direct.
+(2) A party by whom a respondent's notice is given shall, within 7 days after the date of the service of the notice on the appellant, furnish 2 copies of the notice to the Court.
+(3) Where more than one party files a notice of appeal in accordance with these rules, any party to the proceedings, whether or not that party has filed a notice of appeal, may file a respondent's notice in respect of any notice of appeal given by any other party.
+
+### 725ZW Appeal to be by way of rehearing
+An appeal to the Court shall be by way of rehearing, and the evidence used on appeal shall be the same as that used before the Commissioner, and no further evidence shall be given, except with the leave of the Court.
+
+### 725ZX Proceedings to be heard and determined in public
+(1) Subject to the provisions of this rule, all proceedings before the Court (being proceedings under the Patents Act 1953 or for infringement of a patent) shall be heard and determined in public unless in any particular case the Court directs that they shall be heard in private.
+(2) Proceedings before the Court relating to a decision of the Commissioner in any case in which the complete specification of the patent application has not been published shall be heard and determined in private unless the Court directs that they shall be heard in public.
+(3) A direction under this rule may be given by the Court either of its own motion or on the application of a party to the proceedings, and the direction may relate to all the proceedings or to any specified part of them.
+
+### 725ZY Documentary evidence
+The rules applicable to the filing of documentary evidence on proceedings before the Commissioner shall apply to documentary evidence filed on an appeal to the Court.
+
+### 725ZZ Cross-examination of witnesses
+(1) The Court may, at the request of any party, order the attendance at the hearing, for the purpose of cross examination, of any person who has made a statutory declaration or sworn an affidavit in the matter to which the appeal relates.
+(2) Any person requiring the attendance of a witness for cross examination shall tender to the witness whose attendance is required the appropriate fees, allowances, and travelling expenses payable to any witness in accordance with the appropriate scales specified in the Schedule to the Witnesses and Interpreters Fees Regulations 1974.
+
+### 725ZZA Application of Part 10
+Part 10 shall apply in relation to any appeal under the Patents Act 1953 except to the extent that provisions of that Part are modified by or are inconsistent with this Part or the Patents Act 1953.
+
+**Costs**
+
+### 725ZZB Costs
+Where a proceeding for infringement of a patent goes to trial, no costs shall be allowed to the parties delivering any particulars of breaches or particulars of objection in respect of any issues raised in those particulars and relating to that patent except so far as the issues or particulars are certified by the Court to have been proved or to have been reasonable and proper.
+
+### Part 12 — Reciprocal enforcement of judgments
+
+**General provisions**
+
+### 726 Interpretation
+(1) In this Part, unless the context otherwise requires,
+  - **The Act** means the Reciprocal Enforcement of Judgments Act 1934
+  - **Application for registration** means an application made under section 4 of the Act
+  - **Foreign judgment** means any judgment to which, pursuant to section 3 or section 3A or section 3B, as the case may be, of the Act, Part 1 of the Act for the time being applies
+  - **The general rules** means the rules comprised in the other Parts of these rules.
+(2) Expressions not defined in this Part but defined in the Act have, in this Part, the meaning so defined.
+
+### 727 Application of other Parts
+The general rules shall apply except so far as those rules are modified by or are inconsistent with this Part.
+
+### 728 This Part to have effect subject to Orders in Council
+This Part shall have effect subject to such provisions contained in Orders in Council made under section 3 or section 3A or section 3B, as the case may be, of the Act as are declared by the said Orders to be necessary for giving effect to any agreement made by or on behalf of the Government of New Zealand in relation to matters in respect of which there is power to make rules of Court for the purposes of Part 1 of the Act.
+
+**Registration of foreign judgments**
+
+### 729 Mode of application for registration
+(1) Every application for registration shall be made by originating application under Part 4A, and the provisions of that Part shall apply except so far as they are modified by or inconsistent with this Part.
+(2) An application for registration may be made without notice to the judgment debtor, but, where it is so made, it shall be certified in accordance with rule 240(2) as if it were an ex parte application.
+
+### 730 Title of proceeding
+The heading to each document filed in an application for registration
+  (a) Shall include both a reference to the Act and a reference to the judgment sought to be enforced; and
+  (b) Shall specify, in relation to the judgment, both the Court in which it was given and the parties to the judgment; and
+  (c) May be in form 65.
+
+### 731 Place of filing
+Every application for registration shall be filed in the office of the Court in which the defendant would have been required to file his statement of defence had the proceeding been commenced by way of proceeding on the foreign judgment and not by way of application for registration.
+
+### 732 Supporting affidavits
+Every application for registration shall be supported by one or more affidavits.
+
+### 733 Copy judgment and translation
+(1) The foreign judgment, or a verified or certified or otherwise duly authenticated copy thereof, shall be exhibited to an affidavit filed in support of the application for registration.
+(2) If the judgment is expressed in a language other than English, a translation of the judgment in English shall be filed.
+(3) Any such translation shall be verified by the affidavit of a person qualified as a translator from that language.
+
+### 734 Judicial notice of authentication of judgment
+Judicial notice shall be taken of any seal or signature by which a copy of a foreign judgment is verified and which purports to be
+  (a) The seal of the Court in which the judgment was given or of a Judge thereof or of a Registrar or similar officer thereof; or
+  (b) The signature of a Judge or of a Registrar or similar officer of the Court in which the judgment was given.
+
+### 735 Evidence of exchange rates and interest
+Matters deposed to in the affidavit or affidavits filed in support of the application for registration of a money judgment shall include
+  (a) Where the application does not state that the judgment creditor wishes the judgment to be registered in the currency in which it is expressed
+    (i) The rate of exchange prevailing on the day of the application between New Zealand currency and the currency in which the sum payable under the judgment is expressed:
+    (ii) The amount which the sum payable under the judgment represents in New Zealand currency calculated at the rate specified pursuant to subparagraph (i):
+  (b) The rate of interest (if any) carried by the judgment by the law of the country under which it is given:
+  (c) The amount of interest which, by that law, will have become due under the judgment up to the time of the application, expressed,
+    (i) Where the application does not state that the judgment creditor wishes the judgment to be registered in the currency in which it is expressed, in New Zealand currency calculated at the rate of exchange specified pursuant to subparagraph (i) of paragraph (a):
+    (ii) Where the application states that the judgment is to be registered in the currency in which it is expressed, in that currency.
+
+### 736 Evidence of right to registration
+(1) An affidavit filed in support of the application for registration shall state, to the best of the information and belief of the deponent,
+  (a) That the applicant is entitled to enforce the judgment; and
+  (b) As the case may require, either
+    (i) That, at the date of the application, the judgment has not been satisfied; or
+    (ii) That, at the date of the application, the judgment has been partly satisfied; and
+  (c) Where, at the date of the application the judgment has been partly satisfied, the balance remaining payable or other action required to be taken to satisfy the judgment, as the case may be, at that date; and
+  (d) That at the date of the application the judgment can be enforced in the country of the original Court; and
+  (e) That if the judgment were registered the registration would not be or be liable to be set aside under section 6 of the Act; and
+  (f) The full name, title, trade, or business, and the usual or last-known place of abode or of business of the judgment creditor and the judgment debtor respectively.
+(2) The deponent shall specify in that affidavit the source of his information and the grounds for his belief.
+
+### 737 Further evidence
+The application for registration shall be supported by such other evidence as may be required having regard,
+  (a) In the case of a money judgment of a superior Court, to the provisions of the Order in Council under section 3 of the Act by which Part 1 of the Act was extended to the country of the original Court:
+  (b) In the case of a money judgment of an inferior Court, to the provisions of the Order in Council under section 3A of the Act directing that the inferior Court is a specified inferior Court for the purposes of Part 1 of the Act:
+  (c) In the case of a non-money judgment of a superior Court, to the provisions of the Order in Council under section 3B(1) of the Act directing that the judgment is a specified non-money judgment for the purposes of Part 1 of the Act:
+  (d) In the case of a non-money judgment of an inferior Court, to the provisions of the Order in Council under section 3B(2) of the Act directing that the judgment of the inferior Court is a specified non-money judgment for the purposes of Part 1 of the Act.
+
+### 738 Registration of part of judgment
+Wherethe application for registration shall specify, and the order giving leave to register the foreign judgment shall be limited to, the provisions which, in accordance with the Act and these rules, are entitled to registration.
+  (a) A foreign judgment is in respect of different matters; and
+  (b) Some of the provisions of the foreign judgment are such that if those provisions had been contained in separate judgments those judgments could not properly have been registered,
+
+### 739 Security for costs
+The Court may, on any application for registration, order the judgment creditor to give security for the costs of the judgment debtor in opposing the application or in applying to set aside the registration.
+
+### 740 Order for registration
+(1) The order giving leave to register a judgment or part of a judgment
+  (a) Shall state the period, being a period computed from the date of service of notice of registration, within which an application may be made to set aside the registration; and
+  (b) Shall prohibit enforcement of the judgment until after the expiration of the period stated pursuant to paragraph (a).
+(2) Unless the Court otherwise orders, the period stated pursuant to subclause (1)(a) shall be the same as would apply under the general rules to the filing of a statement of defence in a proceeding.
+(3) The Court may, on an application made at any time while it remains competent for any party to apply to have the registration set aside, grant an extension of the period (either as originally fixed or as subsequently extended) during which an application to have the judgment set aside may be made.
+(4) It shall not be necessary to serve an order made under subclause (1) on the judgment debtor.
+
+### 741 Mode of registration
+(1) The registration of every judgment ordered to be registered under the Act shall be effected by entry of particulars in an appropriate record book kept by the Registrar.
+(2) There shall be entered in that record book
+  (a) The date of the order for registration:
+  (b) The name, title, trade, or business of the judgment debtor and the judgment creditor respectively:
+  (c) The usual or last-known place of abode or business of the judgment debtor and the judgment creditor respectively:
+  (d) In the case of a money judgment, the sum payable under the judgment, expressed
+    (i) Where the application states that the judgment creditor wishes the judgment to be registered in the currency in which it is expressed, in that currency; or
+    (ii) In any other case, as if it were for an equivalent amount in New Zealand currency, based on the rate of exchange prevailing on the day of the application for registration:
+  (e) The interest (if any), up to the time of registration, for which the judgment is registered:
+  (ea) Where the judgment is a non-money judgment, particulars of the judgment:
+  (f) The costs allowed of and incidental to registration:
+  (g) Any special directions contained in the order for registration:
+  (h) The particulars of any action taken to enforce the judgment.
+
+### 742 Date of registration
+Unless the Court otherwise orders, both the order for registration and the registration shall be deemed to be of the date when the statement of claim was filed in the Court.
+
+### 743 Notice of registration
+(1) Notice in writing of the registration of a foreign judgment in New Zealand must be served on the judgment debtor.
+(2) The notice shall be served personally in accordance with the general rules unless some other mode of service is ordered by the Court.
+(3) If the judgment debtor is out of New Zealand, the notice may, notwithstanding rule 220, be served on him without the leave of the Court.
+
+### 744 Contents of notice of registration
+(1) The notice of registration shall state
+  (a) Full particulars of
+    (i) The judgment registered; and
+    (ii) The order for registration; and
+    (iii) Any special direction contained in the order for registration; and
+  (b) Whether the notice is issued by the judgment creditor or by a solicitor on his behalf; and
+  (c) An address for service; and
+  (d) Subject to subclause (2), the right of the judgment debtor to apply, on the grounds appearing in the Act, to have the registration set aside; and
+  (e) In accordance with the terms of the order giving leave to register, within what time from the date of service of the notice an application to set aside may be made.
+(2) Subclause (1)(d) does not require the notice to set out in terms the grounds on which the registration can be set aside.
+
+### 745 Application to set aside registration
+(1) An application to set aside the registration of a foreign judgment shall be made by interlocutory application.
+(2) On any such application the Court may direct that an issue between the judgment creditor and the judgment debtor shall be stated and tried and may give such directions in relation to the trial of the issue as may be necessary.
+
+### 746 Determination of certain questions
+If, whether under the Act or under this Part, any question arises about whether a judgment to which Part 1 of the Act applies can be enforced in the country of the original Court or what interest is payable under any judgment under the law of that country, that question shall be determined in accordance with such provisions (if any) in that behalf as are contained
+  (a) In the case of a money judgment of a superior Court, in the Order in Council under section 3 of the Act by which Part 1 of the Act was extended to the country of the original Court:
+  (b) In the case of a money judgment of an inferior Court, in the Order in Council under section 3A of the Act directing that the inferior Court is a specified inferior Court for the purposes of Part 1 of the Act:
+  (c) In the case of a non-money judgment of a superior Court, in the Order in Council under section 3B(1) of the Act directing that the judgment is a specified non-money judgment for the purposes of Part 1 of the Act:
+  (d) In the case of a non-money judgment of an inferior Court, in the Order in Council under section 3B(2) of the Act directing that the judgment of the inferior Court is a specified non-money judgment for the purposes of Part 1 of the Act.
+
+### 747 Enforcement of judgments
+(1) A registered judgment shall not be enforced at any time in
+  (a) The period specified in the order for registration; or
+  (b) Any extension of the period specified in the order for registration; or
+  (c) The period between the filing and the disposal of any application to set aside the registration.
+(2) In every case the fact and date of service of the notice of registration shall be proved by an affidavit filed in that behalf.
+
+### 748 Form of execution process
+An execution process within the meaning of rule 547 issued on a foreign judgment registered under the Act shall describe the sum recovered or the order or other relief granted, as the case may be, in these terms: which sum/order/(specify other relief)* (*delete if inapplicable) [Name of judgment creditor] of [Address of judgment creditor] has recovered/obtained* (*delete if inapplicable) against him in [Description of Court in which the judgment was obtained] by virtue of a judgment bearing date the day of 19, and which judgment has been duly registered in this Court pursuant to Part 1 of the Reciprocal Enforcement of Judgments Act 1934.
+
+**Certified copies of New Zealand judgments**
+
+### 749 Mode of application for certified copy
+(1) An application under section 11 of the Act for a certified copy of a judgment obtained in the Court shall be made by ex parte application filed in the office of the Court in which the judgment was sealed.
+(2) The application shall be supported by the affidavit of the judgment creditor or his solicitor, which affidavit shall
+  (a) Give particulars of the proceeding in which the judgment was sealed; and
+  (b) Have annexed to it
+    (i) A copy of the statement of claim by which the proceeding was instituted; and
+    (ii) Evidence of the service of the statement of claim upon the judgment debtor or of appearance by the judgment debtor in the proceeding; and
+    (iii) Copies of the pleadings, if any, in the proceeding; and
+  (c) Verify the copies and evidence annexed to it pursuant to paragraph (b); and
+  (d) State the grounds on which the judgment was based; and
+  (e) State whether the judgment debtor did or did not object to the jurisdiction, and, if so, on what grounds; and
+  (f) State
+    (i) That the judgment is not subject to any stay of execution; and
+    (ii) That no notice of appeal against it has been given; and
+    (iii) Whether the time for appealing has expired; and
+  (g) State the rate at which the judgment carries interest.
+
+### 750 Issue of certified copy
+(1) It shall not be necessary to seal any order made on an application under rule 749 but, on such order being made, the Registrar shall issue to the judgment creditor
+  (a) A copy of the judgment sealed with the seal of the Court, which copy shall be certified by the Registrar
+    (i) To be a true copy; and
+    (ii) To be issued in accordance with section 11 of the Act; and
+  (b) A separate certificate under the seal of the Court in which the Registrar shall certify
+    (i) The matters deposed to in the affidavit filed in accordance with rule 749(2); and
+    (ii) Such other particulars as it may be necessary to give to the tribunal in which execution of the judgment will be sought.
+(2) In giving a certificate under subclause (1)(b) the Registrar may act on the faith of the affidavit filed pursuant to rule 749(2) and the documents annexed thereto.
+
+### Part 13 — Enforcement of certain judgments and orders of Federal Court of Australia
+
+**General provisions**
+
+### 751 Interpretation
+(1) In this Part, unless the context otherwise requires,
+  - **The Act** means the Reciprocal Enforcement of Judgments Act 1934
+  - **Federal Court** means the Federal Court of Australia
+  - **Judgment creditor** means the person in whose favour a judgment or order or injunction was given or made or granted in a specified proceeding; and includes any person in whom the rights under it have become vested by succession or assignment or otherwise
+  - **Judgment debtor** means the person against whom a judgment or order or injunction was given or made or granted in a specified proceeding; and includes any person against whom it is enforceable under the law of the Commonwealth of Australia or any State or Territory of Australia
+  - **The general rules** means the rules comprised in the other Parts of these Rules.
+(2) Expressions not defined in this Part but defined in Part 1A of the Act have, in this Part, the meanings so defined.
+
+### 752 Application
+This Part applies to judgments, orders, and injunctions given or made or granted in specified proceedings.
+
+### 753 Application of other Parts
+The general rules, except Part 12, shall apply except so far as those rules are modified by or are inconsistent with this Part.
+
+**Registration**
+
+### 754 Mode of application
+(1) Every application for an order that a judgment or order or injunction to which this Part applies be registered under section 8D of the Act shall be made by originating application under Part 4A; and the provisions of Part 4A shall apply except so far as they are modified by or inconsistent with this Part.
+(1A) Every application under subclause (1) shall be accompanied by a copy of the judgment or order or injunction certified by the Federal Court to be a true copy or by a legible facsimile of such a copy so certified.
+(2) An application under subclause (1) may be made ex parte.
+(3) If a facsimile of a certified copy of a judgment or order or injunction to which this Part applies accompanies the application, the application shall be supported by an affidavit of the judgment creditor, if that person is present in New Zealand, or, if not, by that person's solicitor in New Zealand.
+(4) The affidavit shall state that the deponent has been advised bythat the Federal Court gave the judgment, issued the order, or granted the injunction, as the case may be.
+  (a) The Federal Court; or
+  (b) A barrister or solicitor, or both, being a person entitled to practise in Australia before the Federal Court in all proceedings in respect of which that Court has jurisdiction and who also practised in relation to the proceeding in which the judgment or order or injunction appears to have been made or given or granted,
+
+### 755 Title of proceeding
+The heading to an application under Rule 754 shall include a reference to Part 1A of the Act and shall include
+  (a) A reference to the judgment or order or injunction; and
+  (b) The names of the judgment creditor and of the judgment debtor.
+
+### 756 Place of filing
+Every application for an order that a judgment or order or injunction to which this Part applies be registered shall be filed in the office of the Court determined as follows:
+  (a) Where the judgment debtor is resident or the judgment debtor's principal place of business is in New Zealand, that office shall be whichever of the offices of the Court at Auckland or Wellington or Christchurch is nearest to the residence or principal place of business of the judgment debtor:
+    Provided that where there are 2 or more judgment debtors, that office shall be determined by reference to the first-named judgment debtor who is resident or whose principal place of business is in New Zealand:
+  (b) Where no judgment debtor is resident or no judgment debtor's principal place of business is in New Zealand, that office shall be such of those offices as the plaintiff selects:
+  (c) Notwithstanding paragraphs (a) and (b), where the Crown is the judgment debtor, the office shall be the office of the Court at Wellington.
+
+### 757 Evidence of exchange rates and interest
+In the case of an application for an order that a judgment or order to which this Part applies be registered, being a judgment or order for the payment of a sum of money in Australian currency, the application shall be supported by an affidavit stating
+  (a) Where the application does not state that the judgment creditor wishes the judgment to be registered in Australian currency
+    (i) The rate of exchange prevailing on the day of the application between New Zealand currency and Australian currency:
+    (ii) The amount which the sum payable under the judgment or order represents in New Zealand currency calculated at the rate specified pursuant to subparagraph (i):
+  (b) The rate of interest (if any) carried by the judgment or order:
+  (c) The amount of interest which, under Australian law, will have become due and payable under the judgment or order up to the time of the application, expressed,
+    (i) Where the application does not state that the judgment creditor wishes the judgment to be registered in Australian currency, in New Zealand currency calculated at the rate of exchange specified pursuant to subparagraph (i) of paragraph (a):
+    (ii) Where the application states that the judgment is to be registered in Australian currency, in Australian currency.
+
+### 758 Mode of registration
+(1) The registration under section 8D of the Act of every judgment or order or injunction to which this Part applies shall be effected by entry of particulars in an appropriate record book kept by the Registrar.
+(2) There shall be entered in that record book
+  (a) The date of the order for registration:
+  (b) The name, title, and trade or business of the judgment debtor and the judgment creditor respectively:
+  (c) The usual or last-known place of abode or business of the judgment debtor and judgment creditor respectively:
+  (d) In any case where a sum of money is payable under a judgment or order
+    (i) The sum payable under the judgment or order, expressed,
+      (A) Where the application states that the judgment creditor wishes the judgment to be registered in Australian currency, in Australian currency; or
+      (B) In any other case, as if it were for an equivalent amount in New Zealand currency based on the rate of exchange prevailing on the day of the application for registration; and
+    (ii) The interest, if any, up to the time of registration, for which the judgment or order is registered:
+  (e) In the case of an order or injunction, the terms of the order or injunction:
+  (f) The costs allowed of and incidental to registration:
+  (g) In the case of a judgment or order, the particulars of any execution issued.
+
+### 759 Notice of registration
+(1) Notice in writing of the registration of a judgment or order or injunction to which this Part applies must be served on the judgment debtor.
+(2) The notice shall be served personally in accordance with the general rules unless some other mode of service is ordered by the Court.
+(3) If the judgment debtor is out of New Zealand, the notice may, notwithstanding rule 220, be served on the judgment debtor without the leave of the Court.
+
+### 760 Contents of notice of registration
+The notice of registration shall state
+  (a) Full particulars of
+    (i) The judgment or order or injunction; and
+    (ii) The order for registration; and
+  (b) Whether the notice is issued by the judgment creditor or by a solicitor on behalf of that person; and
+  (c) An address for service; and
+  (d) The right of the judgment debtor to apply to the Court under section 8E of the Act on the grounds set out in that section to have the registration set aside or to apply to the Court under section 8G of the Act on the grounds set out in that section for a stay of execution.
+
+### 761 Service of copy of judgment, order, or injunction
+Where a judgment or order or injunction to which this Part applies is registered, a copy of the judgment or order or injunction, or a legible facsimile of it, or a legible copy of such a facsimile, shall be served on the judgment debtor either with notice of registration or separately.
+
+### 762 Copy of judgment, order, or injunction to be filed if facsimile produced
+(1) Where a judgment or order or injunction to which this Part applies has been registered on the production of a facsimile or a copy of it, the applicant shall file the copy from which the facsimile was made not later than 7 working days after the making of the order.
+(2) No proceedings for the execution of the judgment or for the enforcement of the order or injunction, as the case may be, shall be commenced before the copy is filed without the leave of the Court.
+
+### 763 Application to set aside registration or for stay of execution
+(1) An application to set aside the registration of a judgment or order or injunction to which this Part applies or an application for a stay of enforcement of such a judgment or order or injunction shall be made by interlocutory application.
+(2) On any such application the Court may direct that an issue between the judgment creditor and the judgment debtor shall be stated and tried and may give such directions in relation to the trial as may be necessary.
+
+### Part 14 — Proceedings in admiralty
+
+**Preliminary provisions**
+
+### 764 Interpretation
+(1) In this Part, unless the context otherwise requires,
+  - **The Act** means the Admiralty Act 1973
+  - **Action in rem** means an admiralty action in rem
+  - **Central Registry** means the Wellington Registry of the Court
+  - **Foreign ship** has the same meaning as it has in section 2(1) of the Maritime Transport Act 1994
+  - **Limitation action** means an action by shipowners or other persons under the Maritime Transport Act 1994 for the limitation of the amount of their liability in connection with a ship or other property.
+(2) Expressions not defined in this Part but defined in the Act have, in this Part, the meanings so defined.
+
+### 765 Application of this Part
+This Part applies to
+  (a) Proceedings in the admiralty jurisdiction of the Court; and
+  (b) Appeals in the Court of Appeal arising out of that admiralty jurisdiction whether commenced before, on, or after the date of commencement of this Part.
+
+### 766 Application of other rules and practice of Court
+The provisions of other Parts of these rules, and the general practice of the Court, apply where this Part applies except so far as they are modified by or inconsistent with the Act or this Part.
+
+### 767 Directions where procedure not prescribed
+(1) If a party or intending party wishes to take a step in a proceeding and the manner and form of the procedure is not prescribed by this Part or any other Part or by the general practice of the Court, that party may apply to the Court or a Judge for directions.
+(2) A step in a proceeding is properly taken if it is taken in accordance with the directions given on an application under subclause (1).
+
+### 768 Forms
+(1) The prescribed forms must be used wherever appropriate.
+(2) If a form has not been prescribed for any application under this Part to the Court, the application must be in the form of an interlocutory application and any order made on that application must be in the form prescribed for an order made on an interlocutory application under these rules.
+(3) If subclause (2) does not apply, the parties may frame a form for the special purpose of the particular case or the Court may frame the form.
+(4) Variations to a prescribed form are permitted if the circumstances of any particular case so require.
+
+**Commencement of proceedings**
+
+### 769 Types of action and issue of notice of proceeding
+(1) Actions may be in personam or in rem, or both in personam and in rem.
+(2) An action must be commenced by a notice of proceeding
+  (a) Issued out of any office of the Court; and
+  (b) Endorsed, before being issued, with a concise statement of
+    (i) The nature of the claim; and
+    (ii) The relief or remedy required; and
+    (iii) The amount claimed (if any).
+(3) The concise statement referred to in subclause (2) is not a statement of claim within the meaning of these rules.
+(4) An action in any case is to be treated as having commenced when a notice of proceeding complying with subclause (2) is filed in that case.
+
+### 770 Actions in personam and service out of jurisdiction
+(1) An action in personam must be commenced by a notice of proceeding in form 67.
+(2) The action must be intituled as in form 66.
+(3) Rules 219 to 227 apply in relation to service out of the jurisdiction in an action in personam.
+
+### 771 Actions in rem and service out of jurisdiction
+(1) An action in rem must be commenced by a notice of proceeding in form 69.
+(2) The action must be intituled as in form 68.
+(3) No proceedings in rem concerning any claim against the Crown may be brought.
+(4) A notice of proceeding in rem may not be served out of the jurisdiction, but a notice of proceeding that is both in rem and in personam may be served out of the jurisdiction in so far as it is in personam.
+(5) Rules 219 to 227 apply to service out of the jurisdiction under subclause (4).
+(6) An action that is both in rem and in personam, or notice of an action that is both in rem and in personam, must be intituled as in form 66 and be commenced by a notice of proceeding in form 70.
+
+### 772 Service of notice of proceeding in action in rem
+(1) The notice of proceeding in an action in rem must be served as follows:
+  (a) On a ship or on cargo or other property on board a ship,
+    (i) By attaching a sealed copy of the notice adjacent to the bridge or some conspicuous part of the ship, or adjacent to an entrance way to the superstructure or accommodation section of the ship; and
+    (ii) By leaving a copy of the notice with the person apparently in charge of the ship, if that person is available at the time of service:
+  (b) On cargo or other property not on board a ship,
+    (i) By attaching a sealed copy of the notice to that cargo or other property; and
+    (ii) By leaving a copy of the notice attached to that place:
+  (c) On freight in the hands of an individual,
+    (i) By showing the person a sealed copy of the notice; and
+    (ii) By leaving a copy of the notice with that person:
+  (d) On proceeds in Court,
+    (i) By showing the Registrar a sealed copy of notice; and
+    (ii) By leaving a sealed copy of the notice with the Registrar:
+  (e) On inaccessible cargo or other property,
+    (i) By showing a sealed copy of the notice to any person appearing to be in charge of that cargo or other property; and
+    (ii) By leaving a copy of the notice with that person:
+  (f) In any case, by taking such other steps as the Court may order.
+(2) The notice of proceeding must be served by or on behalf of the plaintiff or the plaintiff's solicitor on any person at whose instance a caveat against arrest is entered under rule 777 and a sealed copy of the notice must be delivered to the address for service given in the request for the caveat as soon as the plaintiff or the plaintiff's solicitor becomes aware that the caveat is in force.
+(3) The notice of proceeding may be served on a Sunday, Good Friday or Christmas Day, or any public holiday, as well as on any other day.
+(4) An affidavit of service exhibiting a sealed copy of the notice of proceeding and deposing to the time, place, and method of service must be filed.
+(5) In an action in rem, service of a notice of proceeding or a warrant of arrest is not required if the solicitor for a person interested in the defendant undertakes in writing to
+  (a) Accept service; and
+  (b) Enter an appearance; and
+  (c) Give security or pay money into Court instead of giving security.
+
+### 773 Appearance
+(1) A party intending to defend an action must enter an appearance in person, or by a solicitor, by filing a memorandum in form 71 within the time and at the place directed in the notice of proceeding.
+(2) The time for entering an appearance is
+  (a) For a notice of proceeding to be served within the jurisdiction, within 14 days after the day of service:
+  (b) For a notice of proceeding to be served outside the jurisdiction, within the time fixed by any order granting leave to serve the notice outside the jurisdiction.
+(3) The provisions of this rule apply, with all necessary modifications, to an added or substituted defendant, to a third or further party who is served with a third party notice, and to an intervener who has obtained leave to intervene in an action.
+(4) If 2 or more defendants to an action enter an appearance by the same solicitor at the same time, only 1 memorandum need be completed and filed.
+(5) A party not entering an appearance within the time fixed by the notice of proceeding may, by consent of the other parties or by leave of the Judge, enter an appearance at any time on such terms as the Judge may order, but a party may not enter an appearance after judgment has been entered except with the leave of a Judge.
+(6) A defendant to an action may enter a conditional appearance in the action, but a conditional appearance has effect as an unconditional appearance unless
+  (a) A Judge otherwise orders; or
+  (b) The defendant applies to the Court, within the time fixed for the purpose, for an order under subclause (7) and the Court makes an order under that subclause.
+(7) A defendant to an action may at any time before entering an appearance in the action, or, if the defendant has entered a conditional appearance, within 10 days after the day on which that conditional appearance is entered, apply to the Court for an order
+  (a) Setting aside the notice of proceeding or service of the notice on the defendant; or
+  (b) Declaring that the notice has not been duly served on the defendant; or
+  (c) Discharging any order giving leave to serve the notice on the defendant out of the jurisdiction.
+(8) On the filing of a memorandum of appearance, the Registrar must enter an appearance in the Register of Admiralty Proceedings, and must return to the party filing the memorandum a duplicate copy showing the date of filing.
+(9) The party filing the memorandum must, as soon as practicable, serve the duplicate copy on the plaintiff, and must immediately serve office copies on those other parties who have entered appearances.
+(10) At the end of every memorandum of appearance there must be an endorsement stating
+  (a) Whether the appearance is filed by the party appearing in person or by the party's solicitor, as the case may be; and
+  (b) If applicable, the solicitor's name and address, and the name of the solicitor's firm (if any); and
+  (c) If applicable, the name and address of the solicitor acting as agent in the proceeding of the solicitor filing the appearance or of the agent's firm (if any); and
+  (d) An address for service.
+(11) In an action in rem, the appearance must stateand each statement is prima facie evidence of the matters stated in it.
+  (a) The name and true address of the party appearing and the capacity in which that party appears, whether as owner or part owner or otherwise; and
+  (b) The port of registry or port to which the ship belongs;
+(12) A solicitor who, on behalf of any person, undertakes in writing to give security or to pay money into Court instead of bail in an admiralty action in rem, and fails to fulfil that undertaking, is liable to attachment.
+(13) If the last day for entering an appearance falls on a Saturday, a Sunday, or a holiday, the memorandum may be filed on the next day following that Saturday, Sunday, or holiday which is not a holiday.
+(14)
+(15) A memorandum of appearance may be filed by post, and
+  (a) The appearance is not to be treated as having been entered until the memorandum is actually received by the Registrar:
+  (b) The duplicate copy to be returned to the party filing the memorandum may be returned by post.
+
+### 774 Pleadings
+(1) Every action must be heard with pleadings, unless the Court or a Judge otherwise orders.
+(2) Unless the Court or a Judge gives leave to the contrary, the plaintiff must
+  (a) File in Court and serve a full and explicit statement of claim on each defendant; and
+  (b) Take the steps specified in paragraph (a) either when the notice of proceeding is served on that defendant or at any time after service of the notice on that defendant, but in no case later than 14 days after that defendant enters an appearance.
+(3) If preliminary acts are required under rule 785, then, unless the Court or a Judge orders the action to be tried without pleadings, the plaintiff must file in Court and serve a statement of claim on each defendant within 14 days after the latest date on which the preliminary act of any party to the action is filed.
+(4) Subclause (3) overrides subclause (2) to the extent that there is a conflict between the application of those provisions in any case.
+
+### 775 Statement of defence
+(1) Every defendant who enters an appearance in, and intends to defend, an action must, unless the Court or a Judge gives leave to the contrary, file in Court and serve a statement of defence on the plaintiff within 30 days after the day on which a statement of claim is served on the defendant.
+(2)
+
+**Provisions relating to arrest of property**
+
+### 776 Warrant of arrest
+(1) After the issue of a notice of proceeding or counterclaim in rem, the plaintiff or the defendant to the notice or counterclaim may, by an application in form 72, apply for the issue of a warrant of arrest of the property against which the action or counterclaim is brought.
+(2) If 2 or more ships owned by the same person are named as defendant in an action arising from a cause of action concerning 1 ship only, a warrant of arrest may issue against 1 ship only, and the plaintiff must name that ship in the application for the warrant of arrest.
+(3) The party applying for the issue of a warrant of arrest must cause a search to be made in the Central Registry to determine whether any caveat against the issue of the warrant is in force.
+(4) In support of the application for a warrant of arrest, there must be filed
+  (a) An affidavit deposing to
+    (i) The name and description of the party at whose instance the warrant is to issue; and
+    (ii) The nature of the claim; and
+    (iii) The name or nature of the property to be arrested; and
+    (iv) The extent to which the claim has been satisfied, the amount claimed paid into Court, or security for payment of the claim which has been given to the Registrar; and
+    (v) Whether any caveat against the issue of a warrant of arrest has been filed and, if so, whether a copy of the notice of proceeding or a notice requiring payment or security has been served on the caveator; and
+    (vi) any other relevant information known to the applicant at the time the application is made; and
+  (b) An indemnity to the Registrar in form 73 and security to the satisfaction of the Registrar for the fees, expenses, and harbour dues (if any) of the Registrar and of the Registrar's appointed officers and agents.
+(5) The Registrar may from time to time require additional security to cover fees, expenses, and harbour dues (if any) referred to in subclause (4)(b).
+(6) If an application for a warrant of arrest is made in a registry other than the Central Registry, the Registrar must, before issuing the warrant of arrest, ascertain from the Central Registry whether a caveat against the issue of a warrant of arrest has been entered.
+(7) Subject to compliance with the preceding provisions of this rule, the Registrar must complete the certificate on the application for a warrant of arrest and must issue a warrant of arrest in form 74.
+(8) The warrant must be served by the Registrar, or any person lawfully authorised (whether generally or specially for the purpose) to act as the Registrar, in the manner prescribed by these rules for the service of a notice of proceeding in an action in rem, and the property is to be treated as having been arrested when the warrant has been served in the prescribed manner.
+(9) The warrant may be served on a Sunday, Good Friday, or Christmas Day, or any public holiday, as well as on any other day.
+(10) A Registrar may, by fax or other means of communication, send notice to the Registrar's appointed officer or agent, or to any other Registrar, of the issue of a warrant of arrest of any ship, and give instructions for the execution of the warrant.
+(11) It is contempt of Court forto move that ship from where it is lying without the consent of the Registrar.
+  (a) The master of a ship, after notice of the issue of a warrant of arrest of that ship has been communicated to the master; or
+  (b) Any other person having notice of the arrest of the ship
+(12) A Registrar may, in the case of any emergency or special circumstances, issue a warrant of arrest forthwith if the Registrar
+  (a) Is satisfied that a notice of proceeding has been issued and that there is either an emergency or special circumstances which justify the immediate issue of a warrant of arrest; and
+  (b) Is given such indemnity as the Registrar may require against any claim arising out of the issue of a warrant of arrest.
+(13) The Registrar may, instead of completing the certificate on the application for warrant of arrest, endorse the application to the effect that the warrant is issued under subclause (12).
+(14) A warrant of arrest is valid for 6 months commencing on the day of issue unless sooner withdrawn, but successive warrants may be issued.
+(15) The Registrar must give notice of the arrest of property by serving on any person or by affixing on a conspicuous part of the property a notice in form 75; and service may be effected by the Registrar's duly appointed officer or agent.
+(16) Subclauses (4)(b) and (12)(b) do not require the Crown to give any indemnity or security in the cases mentioned in either of those subclauses.
+(17) In the application of this rule,to the extent that there is a conflict between the application of those provisions in any case.
+  (a) Subclause (2) overrides subclause (1); and
+  (b) Subclause (12) overrides subclause (6),
+
+### 776A Application for directions concerning property under arrest
+(1) The Registrar or any party to an action in rem may apply to the Court for directions concerning any property under arrest (including directions for the removal of the property).
+(2) The person applying must give notice of the application to all parties to the action unless the Court orders otherwise.
+
+### 777 Caveat against arrest
+(1) A person may prevent the arrest of any property by filing in the Central Registry a request in form 76 signed by the person or the person's solicitor undertaking
+  (a) To enter an appearance in any action that may be commenced against the property described in the request; and
+  (b) Within 3 days after receiving notice that such an action has been commenced, to give security to the satisfaction of the Registrar in the sum specified in the request or to pay that sum into Court.
+(2) Immediately on the filing of such a request, the Registrar must enter a caveat in the Register of Admiralty Proceedings.
+(3) If the amount claimed in the action does not exceed the amount specified in the undertaking, the caveator must pay into Court or give security for the amount claimed within 3 days after the day of service of the notice of proceeding or counterclaim.
+(4) If the caveator fails to pay into Court or give security in accordance with this rule, and the party seeking the issue of a warrant of arrest suffers any loss as a result, the Court may order the caveator to pay to that party damages for that loss unless the caveator shows good and sufficient reason for that failure.
+(5) Neither any provision of this Part nor the entry of a caveat under this rule prevents a party from taking out a warrant for the arrest of property, but, if a caveat is entered under this rule against the arrest of the property and a party has that property arrested, that party is liable for costs and damages unless the party shows good and sufficient reason for the arrest.
+(6) A caveat under this rule is valid for 6 months commencing on the day after the date on which it is entered unless sooner withdrawn, but successive caveats may be entered.
+(7) A caveat under this rule may be withdrawn at any time by the filing of a notice of withdrawal signed by the caveator or the caveator's solicitor but the withdrawal does not affect any rights or obligations that may have accrued at the date of the withdrawal.
+(8) The Court may of its own motion or on application set aside a caveat under this rule.
+
+### 778 Release of property under arrest
+(1) Unless the property arrested is sold under an order of the Court, property arrested under a warrant of arrest may be released only under the authority of an instrument of release (a release) in form 77 issued out of the registry where the action in which the warrant was issued is proceeding.
+(2) A party at whose instance any property was arrested may, before an appearance is entered in the action, file a notice withdrawing the warrant of arrest and, if the party files the notice, a release must be issued for that property unless such action contravenes subclause (3) or subclause (7).
+(3) Unless the Court otherwise orders, a release must not be issued for property if a caveat against release of that property is in force.
+(4) A release may be issued at the instance of a party interested in the property under arrest if the Court so orders or, unless the Court orders otherwise, if all the other parties to the action in which the warrant of arrest was issued consent.
+(5) Unless a caveat against release is in force, a Registrar may issue a release either on payment into Court of the amount claimed in the notice of proceeding together with the costs of issue and execution of the warrant of arrest, or on security (including a bail bond in form 78) for those amounts first given to the satisfaction of the Registrar.
+(6) If a release is to issue out of a registry other than the Central Registry, the Registrar must, before issuing the release, cause a search to be made in the Register of Admiralty Proceedings in the Central Registry for the purpose of ascertaining whether a caveat against release of the property in question is in force.
+(7) Before a release is issued, the party entitled to its issue must
+  (a) If a caveat against release of the property in question is in force, give notice to the party at whose instance it was entered or that party's solicitor requiring that the caveat be withdrawn; and
+  (b) File a request for the issue of a release.
+(8) Before property under arrest is released in compliance with a release issued under this rule, the party at whose instance it was issued must, in accordance with the directions of the Registrar, either pay the costs, charges, and expenses due in connection with the care and custody of the property while under arrest or give a written undertaking to pay those costs, charges, and expenses.
+(9) The Court, on the application of any party who objects to directions given to that party by the Registrar under subclause (8), may vary or revoke the directions.
+(10) Subclause (5) overrides subclause (1) to the extent that there is a conflict between the application of those provisions in any case.
+
+### 779 Caveat against release and payment
+(1) A person may prevent the release of property under arrest in an action in rem or the payment out of Court of any money in Court representing the proceeds of sale of that property, or both that release and that payment, by filing in the Central Registry a request in form 79.
+(1A) On the filing of the request, the Registrar must enter in the Register of Admiralty Proceedings a caveat against the issue of a release for that property or, as the case may be, against the payment out of Court of that money, or against both that release and that payment.
+(1B) The caveator must serve a copy of the caveat on every party to the action.
+(2) A party who delays the release of property by entry of a caveat is liable in damages to any person having an interest in the property, unless that party shows to the satisfaction of the Court good and sufficient reason for having the caveat entered.
+(3) A caveat under this rule is valid for 6 months commencing on the day after the date of entering, unless sooner withdrawn, but successive caveats may be entered.
+(4) A caveat under this rule may be withdrawn by filing a notice of withdrawal signed by the caveator or the caveator's solicitor.
+(5)
+(6) The Court may of its own motion or on application set aside a caveat under this rule.
+
+### 780 Discharge of cargo under arrest from ships not under arrest and of cargo not under arrest
+(1) If a ship is not under arrest but cargo on board the ship is, persons interested in the ship who wish to discharge the cargo under arrest may, without intervening in the action, request the Registrar to take the appropriate steps, and the Registrar must apply to the Court under rule 776A for the appropriate order if
+  (a) The Registrar considers the request reasonable; and
+  (b) The applicant gives to the Registrar a satisfactory undertaking in writing to pay on demand the fees and expenses incurred by the Registrar and any of the Registrar's appointed officers or agents in taking the desired steps.
+(2) If the interested persons are unable or unwilling to arrange for an undertaking under subclause (1) to be given, they may intervene in the action in which the cargo is under arrest and apply for an order for discharge of the cargo and for directions as to the fees and expenses incurred by the Registrar, and any of the Registrar's appointed officers or agents, in discharging and storing the cargo under the order.
+(3) If a ship is under arrest but cargo on board the ship is not, persons interested in cargo who wish to secure its discharge may follow 1 or other of the procedures specified in this rule.
+
+**Security and payment out of Court**
+
+### 781 Security
+(1) The amount and form of any security required under this Part may be determined by the Court or a Judge on an application by any party.
+(2) If security is being given by a person not ordinarily resident within the jurisdiction, that person must,
+  (a) Unless otherwise ordered by the Court, submit to the jurisdiction of the Court for all purposes relating to the security and its enforcement; and
+  (b) Give an address for service within the jurisdiction of the Court.
+
+### 782 Payment out of Court
+(1) No money paid into Court in any action may be paid out of Court except under subclause (2) or by order of the Court or a Judge.
+(2) With the written consent of all parties to the action and of any caveator and of any intervener under rule 783, the Registrar may authorise money to be paid out of Court.
+
+**Leave to intervene in proceedings**
+
+### 783 Interveners
+(1) If property against which an action in rem is brought is under arrest or money representing the proceeds of sale of that property is in Court, a person who has an interest in that property or money but who is not a defendant to the action may intervene in the action.
+(2) The intervener must file papers appropriate to the proceeding and serve those papers on every other party.
+
+**Sale of arrested property**
+
+### 784 Appraisement and sale of property
+(1) The Court may either before or after final judgment, order that any property under the arrest of the Court
+  (a) Be appraised; or
+  (b) Be sold with or without appraisement, and either by public auction or by private contract.
+(2) If the property is deteriorating in value, the Court may order that it be sold immediately.
+(3) If the property sold is of small value, the Court may, if it thinks fit, order that it be sold without a commission of sale being issued.
+(4) A commission for the appraisement and sale of any property under an order of the Court must not be issued until the party applying for it has filed a request in form 80.
+(5) The commission for the appraisement must be in form 81 and must, unless the Court otherwise orders, be executed by the Registrar or the Registrar's duly appointed officer or agent.
+(6) A commission for appraisement and sale may not be executed until an undertaking in writing, satisfactory to the Registrar, to pay the Registrar's fees and expenses on demand has been lodged in the Registrar's office.
+(7) The Registrar must pay into Court the gross proceeds of the sale of any property sold by the Registrar under a commission for sale, and must bring into Court the account relating to the sale (with vouchers in support).
+
+**Preliminary acts**
+
+### 785 Preliminary acts to be filed in collision cases
+(1) In an action arising out of a collision between ships, unless the Court otherwise orders,
+  (a) The plaintiff must file a preliminary act within 30 days after the issue of the notice of proceeding:
+  (b) The defendant must file a preliminary act within 30 days after entering an appearance in the action and before any pleading is filed or served.
+(2) A preliminary act is a document containing a statement of the following particulars:
+  (a) The names of the ships which came into collision and their ports of registry:
+  (b) Particulars (referring to the period immediately before the collision) of the person in command, the persons on the bridge, and the persons keeping a lookout on the plaintiff's ship (if the plaintiff is filing a preliminary act) and on the defendant's ship (if the defendant is filing a preliminary act):
+  (c) The date and time of the collision:
+  (d) The place of the collision:
+  (e) The direction and force of the wind:
+  (f) The state of the weather including visibility:
+  (g) The state, direction, and force of the tidal or other current:
+  (h) The ship's course and speed through the water when the other ship was first seen or immediately before any measures were taken in connection with its presence, whichever was the earlier:
+  (i) The lights (if any) carried by the ship:
+  (j) The distance and bearing of the other ship if and when its echo was first observed by radar:
+  (k) The distance, bearing, and approximate heading of the other ship when first seen:
+  (l) The other ship's light or combination of lights (if any) when first seen:
+  (m) The other lights or combination of lights (if any) of the other ship that were subsequently seen before the collision, and the time of the sighting:
+  (n) The alterations (if any) made to the ship's course and speed after the earlier of the 2 times referred to in paragraph (h) up to the time of the collision, and the times of those alterations, and the measures (if any), other than alterations of course or speed, taken to avoid the collision, and times of those measures:
+  (o) The parts of each ship that first came into contact and the approximate angle between the 2 ships at the moment of contact:
+  (p) The sound signals or other signals (if any) given, and the times of those sound signals or other signals:
+  (q) The sound signals or other signals (if any) heard or seen from the other ship, and the times of hearing or seeing those sound signals or other signals.
+(3) The Registrar must seal every preliminary act and file it in a closed envelope (which must be sealed with the official stamp of the Court and show the date of filing), and, unless the Court or a Judge otherwise orders, the envelope must not be opened until the pleadings are closed and a consent signed by each of the parties to the opening of the preliminary acts is filed.
+(4) Every party filing a preliminary act concerning a collision must, within 3 days after it is filed, serve notice of the filing on every other party who has filed a preliminary act concerning the same collision.
+(5) If the Court orders that the preliminary acts be opened, the Court may also order that the action be tried without pleadings.
+(6) If the Court or a Judge orders the action to be tried without pleadings, the Court or a Judge may also order each party, within such period as may be specified in the order, to file a statement of the grounds on which the party charges any other party with negligence in connection with the collision and to serve a copy of the statement on that other party.
+
+### 786 Proceedings against party in default where other party fails to lodge preliminary act
+(1) If, in an action referred to in rule 785(1), the plaintiff fails to lodge a preliminary act within the prescribed period, any defendant who has lodged a preliminary act may apply to the Court for an order to dismiss the action and the Court may by order dismiss the action or make such other order on such terms as it thinks just.
+(2) If, in an action referred to in rule 785(1) that is an action in personam, a defendant fails within the prescribed period to lodge a preliminary act and the plaintiff has lodged a preliminary act, rule 787 applies as if the defendant's failure to lodge a preliminary act within that period were a failure to enter an appearance or to file a statement of defence within the periods respectively fixed by or under these rules for doing those things.
+(3) If, in an action referred to in rule 785(1) that is an action in rem, a defendant fails to lodge a preliminary act within the prescribed period, the plaintiff (if the plaintiff has lodged a preliminary act) may apply to the Court by motion for judgment against that defendant and the plaintiff need not file or serve a statement of claim or an affidavit before the hearing of the motion.
+(4) On the hearing of the motion under subclause (3), the Court may make such order as it thinks just, and, if the defendant does not appear on the hearing and the Court considers that judgment should be given for the plaintiff provided the plaintiff proves the plaintiff's case, the Court must order that the plaintiff's preliminary act be opened and require the plaintiff to satisfy the Court that the plaintiff's claim is well founded.
+(5) The plaintiff's evidence may, unless the Court otherwise orders, be given by affidavit without any order or direction.
+(6) If the plaintiff in accordance with a requirement under subclause (4) satisfies the Court that the plaintiff's claim is well founded, the Court may give judgment for the claim and, at the same time, may order that the property against which the action is brought be appraised and sold and the proceeds to be paid into Court or make such order as it thinks just.
+(7) The Court may, on such terms as it thinks just, set aside any judgment entered under this rule.
+(8) In this rule, references to the prescribed period are to be construed as references to the period within which, by virtue of rule 785(1) or of any order of the Court or a Judge, the plaintiff or defendant, as the context of the reference requires, is required to lodge a preliminary act.
+
+**Judgment by default**
+
+### 787 Judgment by default in actions in personam
+(1) Rules 459 to 470 apply to actions in personam.
+(2) A plaintiff is entitled to proceed to judgment if the defendant fails, within the time fixed by or under this Part, either to enter an appearance or to file a statement of defence, as the case may be, but judgment in such a case must not exceed the amount endorsed on the notice of proceeding or claimed in the statement of claim concerning the demand for costs.
+
+### 788 Default in filing and service of statement of claim
+(1) If the plaintiff is required by these rules to file in Court a statement of claim and to serve it on a defendant, and the plaintiff fails to do either of those things,
+  (a) The defendant may, after the expiration of the period fixed by or under these rules for filing the statement of claim, apply to the Court for an order to dismiss the action; and
+  (b) The Court may by order dismiss the action or make an order on such terms as it thinks just.
+(2) This rule applies to actions in personam and to actions in rem.
+(3) The Court may, on such terms as it thinks just, set aside or vary any default judgment entered under this rule.
+
+### 789 Third parties
+If a third party fails to enter an appearance, rule 161 applies as if the failure to enter an appearance were a failure to file a statement of defence.
+
+### 790 Judgment by default in actions in rem
+(1) If a notice of proceeding is served under rule 772(2) on a party at whose instance a caveat against arrest has been issued, andthe plaintiff may, on filing an affidavit verifying the facts on which the action is based, apply to the Court for judgment by default.
+  (a) The sum claimed in the action begun by the notice of proceeding does not exceed the amount specified in the undertaking given by that party or that party's solicitor to procure the entry of that caveat; and
+  (b) That party or that party's solicitor does not within 14 days after service of the notice of proceeding fulfil that undertaking,
+(2) Judgment given under subclause (1) may be enforced by
+  (a) Arrest of the property against which the action was brought:
+  (b) Committal of the party at whose instance the caveat against that property was entered.
+(3) A plaintiff to an action in rem may apply to the Court for judgment by default if
+  (a) The defendant to the action fails to enter an appearance within the time fixed for appearing; and
+  (b) Not less than 14 days has passed since the notice of proceeding was served; and
+  (c) The plaintiff has filed an affidavit proving due service of the notice of proceeding, a statement of claim (where one has not already been filed), and an affidavit verifying the facts on which the action is based.
+(4) A plaintiff to an action in rem may apply to the Court for judgment by default if
+  (a) The defendant to the action fails to file and serve a statement of defence on the plaintiff within the period fixed by or under these rules for filing and service of the defence; and
+  (b) The plaintiff has filed
+    (i) An affidavit stating that no defence was served on the plaintiff by that defendant during the period referred to in paragraph (a); and
+    (ii) An affidavit verifying the facts on which the action is based.
+(5) A party making a counterclaim in an action in rem may apply to the Court for judgment by default if
+  (a) The defendant to the counterclaim fails to file and serve a defence to the counterclaim on the party making the counterclaim within the period fixed by or under these rules for the filing and service of the defence to a counterclaim; and
+  (b) The party making the counterclaim has filed
+    (i) An affidavit stating that no defence to the counterclaim has been served on that party by the defendant during that period; and
+    (ii) An affidavit verifying the facts on which the counterclaim is based.
+(6) An application to the Court under this rule must be made by motion, and, if at the hearing the Court is satisfied that the applicant's claim is well founded, it may give judgment for the claim, and, at the same time, it may
+  (a) Order the property against which the action, or, as the case may be, the counterclaim is brought to be appraised and sold and the proceeds to be paid into Court; or
+  (b) Make such other order as it thinks just.
+(7) In default actions in rem, evidence may, unless the Court otherwise orders, be given by affidavit.
+(8) The Court may, on such terms as it thinks just, set aside or vary any judgment entered under this rule.
+
+**Priority of claims**
+
+### 791 Determination of priority of claims where Court orders sale of ship
+(1) If in an action in rem against a ship the Court orders the ship to be sold, any party who obtains judgment against the ship or the proceeds of sale of the ship may, on obtaining judgment, apply to the Court by motion for an order determining the order of priority of the claims against the proceeds of the sale of the ship.
+(2) In making an order for the sale of a ship, the Court may further order
+  (a) That the order of priority of the claims against the proceeds of sale of the ship not be determined until after the expiration of 90 days, or of such other period as the Court may specify, beginning with the day on which the proceeds of sale are paid into Court:
+  (b) That any party to the action or to any other action in rem against the ship or the proceeds of sale of the ship may apply to the Court in the action to which that party is a party to extend the period specified in the order:
+  (c) That, within 7 days after the date of payment into Court of the proceeds of sale, the Registrar must send for publication in the Gazette and such newspaper (if any), as the Court may direct, a notice in form 82.
+(3) If the order for sale contains a further order referred to in subclause (2), an application for an order determining priorities may be made only after the expiration of such period as has been specified by the Court under paragraph (a) or paragraph (b) of that subclause.
+(4) The Registrar must lodge in the registry a copy of each newspaper in which the notice referred to in subclause (2)(c) appeared.
+(5) The expenses incurred by the Registrar in complying with an order of the Court under this rule must be included in the Registrar's expenses relating to the sale of the ship.
+(6) An application to the Court to extend the period referred to in subclause (2)(a) must be served on each party who has begun an action in rem against the ship or the proceeds of sale of the ship.
+(7) Subclause (3) overrides subclause (1) to the extent that there is a conflict between the application of those provisions in any case.
+
+**Limitation of liability**
+
+### 792 Actions for limitation of liability
+(1) This rule applies to proceedings for relief under Part 7 of the Maritime Transport Act 1994.
+(2) The proceedings must be in the form of an admiralty action in personam.
+(3) In the action the person seeking relief is the plaintiff and must be described in the notice of proceeding by name and not described merely as the owner of, or as bearing some other relation to, a particular ship or other property.
+(4) For the purposes of this rule,
+  (a) Name includes a firm name or the name under which a person carries on business:
+  (b) If any person with a claim against the plaintiff concerning the casualty to which the action relates has been described for the purposes of that claim merely as the owner of, or as bearing some other relation to, a ship or other property, that person may be described in that way as defendant to the notice of proceeding and, if described in that way, is to be treated for the purposes of this rule to have been named in the notice of proceeding by that person's name.
+(5) The plaintiff must make defendant to the action such 1 or more of the persons with claims against the plaintiff concerning the casualty to which the action relates as the plaintiff thinks fit, and must describe those defendants in the notice of proceeding by name.
+(6) If the plaintiff thinks fit, all other persons with claims against the plaintiff concerning the casualty to which the action relates, described generally and not by their names, may be included as defendants to the notice of proceeding.
+(7) The notice of proceeding must be served on 1 or more of the defendants who are named by their names, and need not be served on any other defendant.
+(8) Within 7 days after the entry of appearance by 1 of the defendants named by their names in the notice of proceeding, or, if none of them enters an appearance, within 7 days after the time fixed for appearing, the plaintiff, without filing a statement of claim, must apply to the Court by notice of motion for an order limiting the plaintiff's liability or, in default of such an order, for directions as to the further proceedings in the action, and the following provisions apply:
+  (a) The application must be supported by an affidavit or affidavits proving
+    (i) The plaintiff's case in the action; and
+    (ii) If none of the defendants named in the notice of proceeding by their names has entered an appearance, service of the notice of proceeding on at least 1 of the defendants so named; and
+    (iii) The names of all the persons (other than defendants to the action who are named in the notice of proceeding by their names) who, to the knowledge of the plaintiff, have claims against the plaintiff concerning the casualty to which the action relates; and
+    (iv) The address of each of those persons, if known to the plaintiff:
+  (b) At least 7 clear days before the hearing of the application, the motion and every affidavit in support of the motion must be served on any defendant who has entered an appearance:
+  (c) If at the hearing of the application it appears to the Court that it is not disputed that the plaintiff has a right to limit the plaintiff's liability, the Court must make a decree limiting the plaintiffs liability and fix the amount to which the liability is to be limited:
+  (d) If at the hearing of the application it appears to the Court that any defendant does not have sufficient information to enable the defendant to decide whether or not to dispute that the plaintiff has a right to limit the plaintiff's liability, the Court must
+    (i) Give such directions as appear to be appropriate for enabling the defendant to obtain such information; and
+    (ii) Adjourn the hearing:
+  (e) If on the hearing or resumed hearing of the application the Court does not make a decree limiting the plaintiff's liability, the Court must give such directions as to the further proceedings in the action as appear to be appropriate:
+  (f) Any defendant who, after directions have been given under paragraph (e), ceases to dispute the plaintiff's right to limit the plaintiffs liability must immediately file a notice to that effect in the registry of the Court and serve a copy on the plaintiff and on any other defendant who has entered an appearance:
+  (g) If every defendant who disputes the plaintiff's right to limit the plaintiff's liability serves a notice on the plaintiff under paragraph (f), the plaintiff may apply to the Court for an order limiting the plaintiffs liability; and paragraphs (b) and (c) apply to an application under this paragraph as they apply to an application under the preceding provisions of this subclause.
+(9) If the only defendants in the action are those named in the summons by their names and all those persons have been served,
+  (a) Any order limiting the plaintiff's liability
+    (i) Need not be advertised; and
+    (ii) Operates only to protect the plaintiff against claims by the persons so named or persons claiming through or under those persons:
+  (b) In any case not covered by paragraph (a), any order limiting the plaintiff's liability
+    (i) Must be advertised by the plaintiff in such manner and within such time as the order may provide; and
+    (ii) Must fix a time within which persons with claims against the plaintiff concerning the casualty to which the action relates may enter an appearance in the action (if they have not already done so) and file their claims, and, in cases to which subclause (10) applies, file a motion, if they think fit, to set the order aside:
+  (c) The time to be allowed under paragraph (b)(ii) must, unless the Court otherwise orders, be not less than 2 months from the latest date allowed for the appearance of the advertisement and, after the expiration of the time so allowed, leave of the Court is required to enter an appearance, file a claim, or to make an application to set aside the order.
+(10) lf an order limiting the plaintiff's liability fixes a time in accordance with subclause (9)(b),
+  (a) Any person with a claim against the plaintiff concerning the casualty to which the action relates whomay, within that fixed time after entering an appearance, apply on notice for the order to be set aside:
+    (i) Is not named in the notice of proceeding as a defendant to the action; or
+    (ii) If so named, was not served with the notice of proceeding and has not entered an appearance
+  (b) The application must be supported by an affidavit or affidavits showing that the defendant in question has a bona fide claim against the plaintiff concerning the casualty in question and that the defendant has sufficient prima facie grounds for the contention that the plaintiff is not entitled to the relief given to the plaintiff by the order:
+  (c) At least 7 clear days before the hearing of the motion, the application and every affidavit in support of the application must be served on the plaintiff and on any defendant who has entered an appearance:
+  (d) On the hearing of the application, the Court, if satisfied that the defendant in question has a bona fide claim against the plaintiff and sufficient prima facie grounds for the contention that the plaintiff is not entitled to the relief given to the plaintiff by the order, must set the order aside and give such direction as to the further proceedings in the action as appear appropriate.
+(11) Any order limiting the plaintiff's liability may make any provision authorised by section 89 of the Maritime Transport Act 1994.
+
+**Miscellaneous provisions**
+
+### 793 Inspection of ship, etc
+Without limiting its powers under these rules, the Court may, on the application of any party, make an order for the inspection by a Court expert, or by any party or witness, of any ship or other property, whether real or personal, if the inspection is necessary or desirable for the purpose of obtaining full information or evidence in connection with any issue in the action.
+
+### 794 Consent orders
+Any agreement in writing, between the parties to a cause or matter, that is dated and signed by the parties or their solicitors may be filed if the Registrar thinks it is reasonable to file the agreement and thinks that a Judge would under the circumstances have allowed it to be filed, and, on its filing, the agreement becomes an order of the Court.
+
+### 795 Registrar may seek Court's assistance and parties may seek review of Registrar's decision
+(1) The Registrar may apply to the Court for orders to assist the Registrar in the performance or exercise of any function, duty, right, or power conferred or imposed on the Registrar by this Part, and the Court may make such orders in relation to the performance or exercise of that function, duty, right, or power as the Court thinks fit.
+(2) Any party to a proceeding who is affected by a decision of the Registrar under this Part may apply by interlocutory application to review that decision, and the Court may make such order as it thinks just.
+
+### Part 15 — Constituency election petitions
+
+**Preliminary provisions**
+
+### 796 Interpretation
+In this Part, unless the context otherwise requires,
+  - **Act** means the Electoral Act 1993
+  - **Petition**
+    (a) Means an election petition presented under section 229(3) of the Act (that is, an election petition relating to either
+      (i) The return of a member of Parliament representing an electoral district; or
+      (ii) A failure to present a return at an election for a member of Parliament representing an electoral district); and
+    (b) Includes a petition complaining of no return that the Court, under section 229(2) of the Act, allows to be heard as provided with respect to an ordinary petition under section 229(3) of the Act:
+  - **Registrar of Electors** means, in relation to an electoral district, the Registrar of Electors appointed under the Act for that district
+  - **Returning Officer** means, in relation to an electoral district, the Returning Officer appointed under the Act for that district.
+
+### 797 Application of this Part
+This Part applies to the determination, under sections 230 to 257 of the Act, of a petition.
+
+### 798 Application of other rules and practice of Court
+(1) The other Parts of these rules (except the rules referred to in subclause (2)), and the general practice of the Court, apply where this Part applies except so far as they are modified by or inconsistent with the Act or this Part.
+(2) The following rules do not apply where this Part applies:
+  (a) Rule 16 (How security to be given):
+  (b) Rule 60 (Power to make order for security for costs):
+  (c) Rules 98 to 104 (Change of parties by death, etc):
+  (d) Rule 106 (Proceeding commenced by filing statement of claim):
+  (e) Rule 107 (Proper office of the Court):
+  (f) Rule 120 (Notice of proceeding to be filed with statement of claim):
+  (g) Rule 121 (Requirements as to notice of proceeding):
+  (h) Rule 122 (Place and time for filing statement of defence):
+  (i) Rule 123 (Place of trial):
+  (j) Rule 129 (Filing and service of statement of defence):
+  (k) Rule 130 (Requirements as to statement of defence):
+  (l) Rules 135 to 144 (Summary judgment procedure):
+  (m) rules 433 to 438AA (allocation of hearing dates and setting down date):
+  (n) Rule 474 (Discontinuance of cause of action):
+  (o) Rule 481 (Mode of trial).
+
+**Petitions**
+
+### 799 Petitions
+(1) A petition must
+  (a) Be in form 83, and contain the information required by that form; and
+  (b) Be signed by the petitioner or, if there are 2 or more petitioners, each petitioner; and
+  (c) Be presented to the Court by being filed in the registry of the Court nearest to the place where the election was held.
+(2) The Registrar of the Court must send a copy of the petition to the Returning Officer as soon as it is filed.
+
+**Service of petition**
+
+### 800 Service of petition
+A petition must be served as nearly as may be in the manner in which a statement of claim is served.
+
+**Advertisement of petition**
+
+### 801 Advertisement of petition
+(1) Within 7 days of the filing of a petition, a petitioner must, at his or her own expense, publish the petition in a newspaper circulating in the district to which the petition relates.
+(2) On an application made by a petitioner for the purpose, the Court may order that a petition need not be advertised in accordance with subclause (1).
+
+**Representation of respondents**
+
+### 802 Respondent must file notice
+Within 7 days of being served with a petition, a respondent to a petition must file in the registry of the Court in which the petition is filed a notice
+  (a) Signed by or on behalf of the respondent; and
+  (b) Either
+    (i) Appointing a solicitor to act for the respondent in relation to the petition; or
+    (ii) Stating that the respondent intends to act for himself or herself in relation to the petition; and
+  (c) Stating, for the purposes of proceedings to determine the petition,
+    (i) An address for service; and
+    (ii) If a solicitor is appointed to act for the respondent, any Post Office box address, document exchange box number, or facsimile number by which the solicitor will accept service of documents.
+
+**Security for costs**
+
+### 803 Security by deposit of money
+Security given by deposit of money must be given by the deposit of the money to the credit of the High Court Trust Account.
+
+### 804 Registrar of Court may withdraw money deposited as security
+The Registrar of the Court may from time to time withdraw from the High Court Trust Account all or part of any money deposited as security if the Court orders, or all parties to the proceedings agree, that that money be
+  (a) Paid to a respondent, for costs, charges, or expenses incurred by or on behalf of that respondent; or
+  (b) Paid to a witness summoned on a petitioner's behalf, for costs, charges, or expenses incurred by or on behalf of that witness; or
+  (c) Returned to a petitioner; or
+  (d) Otherwise disposed of in accordance with the Act.
+
+### 805 Security by bond
+(1) Security given by bond must be given by a bond in form 84 containing the information required by that form.
+(2) A bond may be executed by no more than 5 sureties.
+(3) If a Registrar of the Court believes on reasonable grounds that a surety is insufficient, or that a bond is defective or inadequate, he or she may
+  (a) Require a surety to lodge an affidavit of justification with the bond; or
+  (b) Impose any other requirement the Registrar of the Court considers necessary.
+
+**Particulars of objections**
+
+### 806 Petitioner must list objections to votes
+(1) This rule applies if a petitioner in his or her petition
+  (a) Alleges that a candidate not elected or returned has a majority of lawful votes; and
+  (b) Objects to any vote.
+(2) If this rule applies, the petitioner must prepare a list of
+  (a) Each vote objected to; and
+  (b) The heads of objection to each of those votes.
+(3) A petitioner must, at least 6 days before the day appointed for the trial of the petition, deliver a copy of the list
+  (a) To the Registrar of the Court; and
+  (b) To any other party to the proceeding at that party's address for service.
+(4) A petitioner must also deliver to the Registrar of the Court enough copies of that list to enable the Registrar to supply the copies required to be supplied under rule 808.
+
+### 807 Respondent must list objections to petition
+(1) This rule applies if
+  (a) A petitioner in a petition complains of an unlawful election or return and claims the seat for some person; and
+  (b) A respondent to the petition intends to give evidence, under section 236(8) of the Act, to prove that that person was not duly elected.
+(2) If this rule applies, the respondent must prepare a list of
+  (a) The specific grounds upon which the respondent claims that that person was not duly elected or returned; and
+  (b) In relation to each of those grounds, particulars of the facts upon which the respondent intends to rely.
+(3) The respondent must, at least 6 days before the day appointed for the trial, deliver a copy of the list
+  (a) To the Registrar of the Court; and
+  (b) To any other party to the proceeding at that party's address for service.
+(4) The respondent must also deliver to the Registrar of the Court enough copies of that list to enable the Registrar to supply the copies required to be supplied under rule 808.
+
+### 808 Inspection and supply of lists
+On a request for the purpose by any person at the office of the Court, the Registrar of the Court must allow the person to inspect, or supply the person with a copy of, a list delivered to the Registrar under rule 806 or rule 807.
+
+**Trial of petition**
+
+### 809 Notice of time and place appointed for trial of petition under section 236 of the Act
+(1) The Court must appoint a time at or after which the petition is to be tried.
+(2) The time appointed must be at least 21 days after the day on which the Court appoints that time.
+(3) The Registrar of the Court must, at least 14 days before the day of the time appointed for the trial,
+  (a) Give a notice of the time and place appointed for the trial to each party to the proceeding at that party's address for service; and
+  (b) Publish a notice of the time and place appointed for the trial in a newspaper circulating in the district to which the petition relates.
+(4) A notice of the time and place appointed for the trial must be in form 85.
+
+**Withdrawal of petition**
+
+### 810 Notice of intention to apply for leave to withdraw petition under section 252 of the Act
+(1) A petitioner who intends to apply to the Court for leave to withdraw a petition must, at least 7 days before the time appointed for the hearing of the application,
+  (a) Serve a copy of a notice of intention to apply for leave to withdraw the petition on each respondent to the petition; and
+  (b) Publish a notice of intention to apply for leave to withdraw the petition at least once in a newspaper circulating in the district to which the petition relates.
+(2) A notice of intention to apply for leave to withdraw a petition must be in form 86 and contain the information required by that form.
+
+### 811 Form of application for leave to withdraw petition
+An application for leave to withdraw a petition must be in form 87.
+
+### 812 Time and place of hearing of application for leave to withdraw petition
+(1) The Court must appoint a time at or after which an application for leave to withdraw a petition is to be heard.
+(2) The time appointed must be at least 8 days after the day on which the Court appoints the time.
+(3) The Registrar of the Court must, in such manner as the Court may direct, give notice of the time and place of the hearing to
+  (a) Each respondent; and
+  (b) Each person who, under rule 813(b), gives notice of an intention to apply to be substituted as a petitioner.
+
+### 813 Application to be substituted as a petitioner
+A person may, at a hearing of an application for leave to withdraw a petition, apply to be substituted as a petitioner in respect of the petition, if (and only if)
+  (a) The person would, under section 230(1) of the Act, have been entitled to have presented the petition; and
+  (b) The person has given the Registrar of the Court, within 7 days after the publication of the notice of intention to apply for leave to withdraw the petition, written notice that the person intends to apply to be substituted as a petitioner in respect of the petition.
+
+**Abatement of petition**
+
+### 814 Notice of abatement of petition under section 255(3) of the Act
+(1) If a petition abates under section 255(1) of the Act (because of the death of a sole petitioner or of the survivor of several petitioners), the Registrar of the Court must, on learning of the death,
+  (a) Serve a notice of the abatement on each respondent; and
+  (b) Publish the notice of the abatement at least once in a newspaper circulating in the district to which the petition relates.
+(2) A notice of the abatement must be in form 88.
+
+### 815 Application to be substituted as petitioner on abatement
+An application under section 255(3) of the Act (to be substituted as petitioner on the abatement of a petition) must be made by written notice given to the Registrar of the Court.
+
+**Withdrawal and substitution of respondent before trial**
+
+### 816 Notice of respondent's death or loss of seat before trial of petition under section 256(1)(a) or (c) of the Act
+(1) This rule applies if, before the trial of a petition, a respondent (other than a Returning Officer or a Registrar of Electors) dies or loses his or her seat because the House of Representatives resolves that his or her seat is vacant.
+(2) If this rule applies, the Registrar of the Court must, on learning of the death or the loss by the respondent of his or her seat, give notice of the death or loss.
+(3) The Registrar of the Court must give the notice by
+  (a) Publishing the notice at least once in a newspaper circulating in the district to which the petition relates; and
+  (b) Leaving a copy of the notice signed by him or her, or on his or her behalf, with the Returning Officer; and
+  (c) Serving a copy of the notice signed by him or her, or on his or her behalf, on each petitioner.
+
+### 817 Notice of intention not to oppose petition under section 256(1)(b) of the Act
+(1) A respondent to a petition (other than a Returning Officer or a Registrar of Electors) who does not intend to oppose the petition must give written notice of that intention to the Registrar of the Court at least 10 days before the time appointed for the trial of the petition.
+(2) A respondent who gives notice must immediately
+  (a) Publish the notice in a newspaper circulating in the district to which the petition relates; and
+  (b) Leave a copy of the notice with the Returning Officer; and
+  (c) Serve a copy of the notice on each petitioner.
+
+### 818 Notice of application to be admitted as respondent to oppose petition
+An application under section 256(1) of the Act (to be admitted as a respondent to oppose a petition) must be made by written notice given to the Registrar of the Court.
+
+### Part 16 — Insolvency proceedings
+
+**Preliminary provisions**
+
+### 819 Interpretation
+(1) In this Part, unless the context otherwise requires, Act means the Insolvency Act 1967.
+(2) Expressions not defined in this Part but defined in the Act have, in this Part, the meanings so defined.
+
+### 820 Application of Part
+This Part applies to all matters arising under the Act or Part 4 of the Administration Act 1969, and to all proceedings taken in any such matter in the Court, whether commenced before, on, or after the date of commencement of this Part.
+
+### 821 Application of general rules and practice of Court
+The other Parts of these rules, and the general practice of the Court, apply where this Part applies except in so far as they are modified by or inconsistent with the Act or this Part.
+
+**Proceedings generally**
+
+### 822 Forms
+(1) The prescribed forms must be used wherever appropriate.
+(2) Forms set out in the Schedule that are not specifically prescribed by these rules must be used in the circumstances to which they relate.
+(3) If a form has not been prescribed for any application under this Part to the Court, the application must be in the form of an interlocutory application and any order made on that application must be in the form prescribed for an order made on an interlocutory application under these rules.
+(4) If subclause (3) does not apply, the parties may frame a form for the special purpose of the particular case or the Court may frame the form.
+(5) Variations to a prescribed form are permitted if the circumstances of any particular case so require.
+
+### 823 Notices
+(1) Every notice required by the Act or this Part must be in the prescribed form.
+(2) If no form is prescribed, a notice must contain sufficient details to inform the recipient fairly of its substance.
+
+### 824 General requirements of documents filed in Court
+Every document filed in Court in proceedings under the Act must
+  (a) Comply with rules 23 to 40 so far as they are applicable and with any necessary modifications; and
+  (b) Be headed by the words In the matter of the Insolvency Act 1967, and in the Matter of the Bankruptcy (or Proposal, as the case may be) of.
+
+### 825 Advertising of notices or proceedings
+An advertisement of a notice or proceeding that is published in a newspaper circulating in the area in which the proceeding is pending complies with any advertising requirements of the Act or this Part.
+
+### 826 Discretion of Court as to method of taking evidence
+Except as otherwise provided in this Part, the Court may in any proceeding take all or any part of the evidence either orally before the Court or by written interrogatories or on affidavit or by commission, as the Court in any case thinks fit.
+
+**Bankruptcy notices**
+
+### 827 Request for issue of bankruptcy notice
+(1) The creditor must file, with every request for a bankruptcy notice in form 89,
+  (a) A bankruptcy notice in form 90, together with a service copy; and
+  (b) A certified copy of the judgment or order on which the bankruptcy notice is based.
+(2) If the creditor claims costs in accordance with section 20 of the Act, the bankruptcy notice must state the amount of costs claimed.
+
+### 828 Service of bankruptcy notice in New Zealand
+A bankruptcy notice that is to be served in New Zealand must be served within 1 month from the date of its issue.
+
+### 829 Registrar may extend time for serving bankruptcy notice
+(1) If the Registrar is satisfied that reasonable efforts have been made to serve a bankruptcy notice within the prescribed period, and service has not been effected,
+  (a) The Registrar may, at the request in writing of the judgment creditor made not later than 1 month after the end of the prescribed period, extend the time for a further period of 1 month or for successive periods of 1 month; and
+  (b) The Registrar must, in each case, mark the notice with the word renewed and the date of the renewal.
+(2) A notice must not, without the Court's consent, be extended for a period exceeding 3 months from the date on which the notice was first issued.
+
+### 830 Setting aside bankruptcy notice
+(1) Every application to set aside a bankruptcy notice must comply with rules 234 to 262 so far as they are applicable and with any necessary modifications.
+(2) If the application to set aside the bankruptcy notice cannot be heard until after the expiration of the time specified in the notice as the day on which the act of bankruptcy will be complete, the time is deemed to have been extended until the application has been heard and determined.
+(3) Until the application has been heard and determined, an act of bankruptcy is not committed by reason only of non-compliance with the notice.
+
+**Commencement of adjudication proceedings**
+
+### 831 Application for adjudication
+(1) Every application for adjudication must be commenced by filing in the Court a petition in form 91 or form 92, as the case may require.
+(2) An affidavit in form 93 and a summons to debtor in form 94 must be filed (in duplicate) with a creditor's petition.
+(3) If the creditor claims costs, the summons to debtor must state the amount of costs claimed.
+
+### 832 Verification of creditor's petition
+A creditor's petition must be verified by affidavit of the creditor or some other person having knowledge of the facts.
+
+### 833 Where bankruptcy petition to be filed
+A bankruptcy petition must be filed,
+  (a) If the debtor is resident in New Zealand, in the office of the High Court nearest by the most practicable route to the place in which the debtor has resided or carried on business for the longest period during the 6 months immediately before the time when the petition is filed:
+  (b) If the debtor is in custody, in the office of the High Court nearest by the most practicable route to the place in which the debtor is in custody:
+  (c) If the debtor is absent from New Zealand or the petitioning creditor cannot ascertain the debtor's place of residence, in the office of the High Court nearest by the most practicable route to the place in which the petitioning creditor resides or carries on business:
+  (d) If a debtor has never been resident in New Zealand, in the office of the High Court nearest by the most practicable route to the place in which the petitioning creditor resides or carries on business:
+  (e) If any act of bankruptcy relied on by the petitioning creditor is specified in section 19(1)(c) of the Act, in any office of the Court.
+
+**Hearing date for creditor's petition**
+
+### 834 Registrar to fix hearing date for creditor's petition
+(1) The Registrar must fix a hearing date for the petition and insert the date in the summons to the debtor before releasing the summons to the creditor for service.
+(2) If the petition and summons have not been served, the Registrar may, from time to time, alter the first date appointed for the hearing and appoint another date.
+
+### 835 Court may alter hearing date for creditor's petition
+If it is proved to the Court's satisfaction that the debtor has absconded or there is any other good reason, the Court may, on any terms it thinks fit to impose, hear the creditor's petition on any date the Court considers expedient.
+
+**Service of creditor's petition**
+
+### 836 Service of creditor's petition on debtor
+(1) A copy of the creditor's petition and the summons to the debtor must be served on the debtor.
+(2) If the debtor dies before service of the creditor's petition and summons, the Court may order service to be effected on the debtor's administrator or such other person as it thinks fit.
+
+### 837 Service of creditor's petition on trustee or supervisor
+A copy of the creditor's petition and the summons to debtor must be served personally on the trustee or supervisor, as the case may be,
+  (a) If the act of bankruptcy alleged is that the debtor has made a disposition of all or substantially all of the debtor's property to a trustee for the benefit of all or any of the debtor's creditors; or
+  (b) If, at the time of the filing of the petition, a proposal under Part 15 of the Act has been approved by the Court or a summary instalment order has been made under Part 16 of the Act.
+
+**Debtor's opposition to adjudication**
+
+### 838 Debtor's notice of intention to oppose adjudication
+A debtor who intends to oppose the making of an order of adjudication must, by 1 pm on the last working day before the hearing of the creditor's petition,
+  (a) File in Court a notice of opposition in form 95, together with an affidavit in support of the opposition; and
+  (b) Serve a copy of those documents on the petitioning creditor.
+
+**Evidence relating to creditor's petition**
+
+### 839 Affidavit evidence of petitioning creditor
+(1) Unless the Court otherwise directs, a petitioning creditor's evidence of a debt, an act of bankruptcy, or any other material statements may be given by affidavit.
+(2) The affidavit must be sworn by or on behalf of the petitioning creditor not earlier than the third day before the date of the hearing of the petition.
+
+### 840 Petitioning creditor's solicitor's certificate as to unpaid debt
+A certificate by the petitioning creditor's solicitor to the effect that, after having made due inquiries, the solicitor is satisfied that the debt remains unpaid, may be accepted by the Court as sufficient prima facie evidence that the debt remains unpaid.
+
+**Continuation of proceedings**
+
+### 841 Death of debtor against whom petition filed
+If a debtor against whom a bankruptcy petition is filed dies, the proceedings in the matter must, unless the Court otherwise orders, be continued as if the debtor were alive.
+
+**Appointment of Official Assignee as receiver and manager**
+
+### 842 Applicant to deposit sum for Official Assignee's expenses
+The person who has applied for an order appointing the Official Assignee to be a receiver and manager of all or any part of the debtor's estate must, before the order is made, deposit with the Official Assignee any sum that the Court directs for the Official Assignee's expenses.
+
+### 843 Official Assignee may seek additional sum where original deposit insufficient
+(1) If the sum deposited for the Official Assignee's expenses under rule 842 is insufficient, the person who paid the deposit must deposit with the Official Assignee any additional sum as the Court may, on the application of the Official Assignee, from time to time direct.
+(2) If the additional sum is not deposited within 24 hours after the making of the order, the order appointing the Official Assignee as receiver and manager may, on the Official Assignee's application, be discharged by the Court.
+
+### 844 Notification of order appointing Official Assignee as receiver and manager
+(1) The Registrar must, immediately after the order appointing the Official Assignee as receiver and manager has been made, forward 2 copies of the order to the Official Assignee.
+(2) If the debtor is in New Zealand, the Official Assignee must cause a copy of the order appointing the Official Assignee as receiver and manager to be served on the debtor.
+(3) The Official Assignee must advertise the Official Assignee's appointment as receiver and manager within 5 working days after the making of the order.
+
+### 845 Repayment of deposits after order of adjudication
+(1) If an order of adjudication is made after the Official Assignee is appointed receiver and manager, the Official Assignee must repay to the creditor the deposits made under rules 842 and 843 out of the proceeds of the estate.
+(2) If there are insufficient proceeds in the estate to pay the Official Assignee's fees and expenses as receiver and manager, the Official Assignee may keep all or any part of the deposits as payment of those fees and expenses.
+
+### 846 Dismissal of petition after order appointing Official Assignee as manager and receiver
+If, after an order has been made appointing the Official Assignee as receiver and manager, the petition upon which the order was made is dismissed,
+  (a) The Court must, on an application made within 15 working days from the date of the dismissal, make an order relating to any damages or claim arising out of the Official Assignee's appointment; and
+  (b) The Court may make any other order it thinks fit.
+
+**Arrest of debtor after bankruptcy petition filed**
+
+### 847 Application for warrant under section 63 of Act
+(1) An application for a warrant under section 63 of the Act must be in form 96, and need not be verified by affidavit unless required by the Court.
+(2) Two copies of the warrant in form 97 must be lodged with the application.
+
+### 848 Custody of arrested debtor
+(1) A debtor who is arrested under a warrant issued under section 63 of the Act must be placed into the custody of the superintendent of the prison specified in the warrant.
+(2) The superintendent of the prison must produce the debtor before the Court as it may from time to time direct, until the debtor is discharged by the Court.
+
+**Examination of persons before Court during bankruptcy**
+
+### 849 Apprehended person to be brought before Court
+(1) The officer who apprehends a person under a warrant in form 100 must immediately bring the person before the Court for examination.
+(2) If the examination cannot be held immediately
+  (a) The apprehending officer must deliver the apprehended person into the custody of the superintendent of the prison specified in the warrant; and
+  (b) The superintendent of the prison must receive and keep that person, and must produce the person before the Court as required by the Court.
+
+### 850 Apprehending officer to report to Court
+(1) The apprehending officer must notify the Court immediately after a person has been apprehended under section 68(4) of the Act or delivered into custody, as the case may be.
+(2) The Court must appoint the earliest practicable day for the examination of the apprehended person.
+(3) The superintendent of the prison must produce the person for examination at the place and time appointed.
+
+**Contributions from bankrupt towards payment of debts**
+
+### 851 Application for order under section 45
+A creditor who intends to make an application under section 45 of the Act must give at least 10 working days' notice of that intention to the Official Assignee and to the bankrupt.
+
+### 852 Official Assignee's report
+(1) If an application is made for an order under section 45 of the Act, the Official Assignee must prepare a report as to the circumstances of the bankruptcy, the bankrupt's conduct, and the bankrupt's earning power, responsibilities, and prospects.
+(2) At least 5 working days before the time fixed for the hearing, the Official Assignee must lodge the report in the Court, and forward a copy of the report to the bankrupt, and to the applicant, if the applicant is a creditor.
+
+### 853 Official Assignee to notify employer, etc, about proposed assignment or charge
+If it is proposed that an order be made assigning to, or charging in favour of, the Official Assignee any money due or becoming due to the bankrupt by way of wages or salary or from any other source,
+  (a) The Official Assignee must notify the employer or other person against whom the assignment or charge is proposed; and
+  (b) The person who is notified may be heard.
+
+### 854 Official Assignee to serve order of assignment, etc
+The Official Assignee must serve a duplicate of any order assigning or charging in favour of the Official Assignee any money due or becoming due to the bankrupt on the employer or other person against whom the assignment or charge was given.
+
+**Compositions during bankruptcy**
+
+### 855 Application for order approving composition
+(1) The Official Assignee may apply to the Court to approve a composition (whether or not the Official Assignee reports in favour of it) if
+  (a) The creditors have confirmed the composition; or
+  (b) In any other case, the bankrupt does not within 3 working days from the date of the confirmation apply to the Court for approval of the composition.
+(2) The Official Assignee is not by making the application deemed to approve of the composition.
+
+### 856 Notice to Official Assignee of application to approve composition
+Any person, other than the Official Assignee, who applies to the Court to approve a composition must, at least 10 working days before the day appointed for hearing the application, serve notice of the application on the Official Assignee.
+
+### 857 Notice of application to approve composition or scheme
+If an application is made to the Court to approve a composition or scheme, the Official Assignee must, at least 5 working days before the day appointed for hearing the application, send notice of the application to every creditor whose debt has been proved.
+
+### 858 Official Assignee to account when composition approved
+If a composition is approved by the Court, the Official Assignee must account to the bankrupt, or, as the case may be, to the trustee.
+
+**Discharge of bankrupt**
+
+### 859 Filing and service of objection to discharge
+(1) An objection to a discharge under section 107(3) of the Act is entered by filing in the Court an objection in form 101.
+(2) A creditor who enters an objection to a discharge must serve the objection on the Official Assignee.
+
+### 860 Service, etc, of notice of application for discharge
+At least 15 working days before the hearing date, the bankrupt must
+  (a) Serve on the Official Assignee, and every creditor whose debt has been proved, notice of application for discharge under section 108 of the Act; and
+  (b) Cause notice of the application and of the hearing date to be advertised.
+
+### 861 Report of Official Assignee
+At least 5 working days before the time fixed for the hearing, the Official Assignee must
+  (a) Lodge in the Court a copy of the Official Assignee's report under section 109(2) of the Act; and
+  (b) Serve a copy of the report on the bankrupt and every creditor known to the Official Assignee.
+
+### 862 Opposition by creditor to discharge
+A creditor who intends to oppose the discharge of a bankrupt on grounds other than those specified in the Official Assignee's report must file and serve on the Official Assignee and the bankrupt a notice of the creditor's intended opposition by 1 pm on the day before the hearing.
+
+### 863 Conditions affecting salary, etc, after order of discharge
+(1) The Official Assignee must notify the bankrupt's employer of the Official Assignee's intention to ask the Court to impose a condition that affects any salary or wages that may, after the date of the order of discharge, become due to the bankrupt.
+(2) Before the Official Assignee may receive payment of any of the bankrupt's salary or wages under an order made under section 110 of the Act, the Official Assignee must notify the employer by whom the money is payable to the bankrupt of the order.
+
+**Annulment of adjudication**
+
+### 864 Annulment of adjudication to be advertised
+The Official Assignee must immediately cause a notice of every order annulling an adjudication to be advertised.
+
+**Proposals**
+
+### 865 Proposal and statement of affairs and affidavit
+A proposal under Part 15 of the Act must be in form 103 and must be accompanied by a statement of affairs and affidavit in form 104.
+
+### 866 Trustee's report on proposal
+The trustee must file a report in form 105 with the application for approval under section 143 of the Act.
+
+**Insolvent deceased estates**
+
+### 867 Application for order to administer under Part 17 of Act
+An application for an order to administer under Part 17 of the Act must be by originating application.
+
+### 868 Application by creditor or beneficiary
+(1) Notice of an application under section 155 of the Act must be given by serving on the administrator, or, if no administrator has been appointed, on such persons as the Court directs, a copy of the application together with a copy of any supporting affidavit.
+(2) The Court may, within such time as the Court requires, direct the administrator to file the account in form 106 if
+  (a) An application is made by a creditor, or any person beneficially interested after a request has been made to an administrator; and
+  (b) The administrator has failed to make an application within 21 working days.
+
+### 869 Duty of Registrar where order made
+If an order is made under section 157 or section 158 of the Act, the Registrar must send to the appointee and to the Commissioner of Inland Revenue a copy of the order and of the account specified in section 154(3) of the Act.
+
+### 870 Duty of administrator where order made
+If an order has been made under section 157 or section 158 of the Act,
+  (a) The administrator must immediately send to the appointee, an account of the administrator's dealings and administration of the deceased estate; and
+  (b) The administrator must, at the same time, give particulars of the affairs of the deceased as may be required by the appointee.
+
+### 871 Person who has intermeddled in estate may be ordered to give particulars
+The Court may, on an appointee's application, direct that an account be made, verified, and given by any person whom the Court considers has administered or otherwise intermeddled with all or any part of deceased's property, if
+  (a) An order has been made under section 157 or section 158 of the Act; and
+  (b) It appears to the Court that no administrator exists and the appointee is unable to find any person willing to give the particulars required by rule 870.
+
+**Appeals, etc**
+
+### 872 Applications to vary or discharge order or decision of Registrar or District Court Judge
+(1) Every application to a Judge to vary or discharge the order or decision of a Registrar or District Court Judge made under section 6 of the Act must be filed,
+  (a) If it is made by a party who was present or represented when the order was made or the decision given, within 5 working days after the making of the order or the giving of the decision; or
+  (b) If it is made by a party who was not then present or represented, within 5 working days after the receipt by the party of notice of the order or decision.
+(2) The application does not stay proceedings unless a Judge, the Registrar, or the District Court Judge otherwise orders.
+
+### 873 Appeals to Court of Appeal
+(1) The Court of Appeal (Civil) Rules 1997, so far as they are applicable and with any necessary modifications, apply to appeals to the Court of Appeal under section 8 of the Act.
+(2) The Official Assignee of the bankrupt's property is a party to any appeal.
+
+**Official Assignee**
+
+### 874 Applications to Court by Official Assignee
+Applications by the Official Assignee to the Court may be made personally, by counsel, or by any agent duly appointed under section 71(p) of the Act.
+
+### 875 Official Assignee's liability for costs
+Unless the Court otherwise directs, the Official Assignee is not personally liable for costs if
+  (a) Proceedings are brought against the Official Assignee representing the estate of the bankrupt; or
+  (b) The Official Assignee is made a party to a proceeding on the application of any other party.
+
+**Miscellaneous**
+
+### 876 Filing decisions of District Court
+(1) If, under the Act, an application relating to bankruptcy may be filed in a District Court, the Registrar of that Court must forward to the nearest High Court a certified copy of the decision of the District Court.
+(2) The certified copy of the decision of the District Court must be filed by the Registrar and forms part of the proceedings of the High Court.
+
+### Part 17 — Arbitration Act 1996
+
+**Preliminary provisions**
+
+### 877 Interpretation
+In this Part, unless the context otherwise requires,
+  - **Act** means the Arbitration Act 1996
+  - **Arbitral tribunal** has the same meaning as in section 2(1) of the Act
+  - **Schedule 1** means Schedule 1 of the Act
+  - **Schedule 2** means Schedule 2 of the Act.
+
+### 878 Application of this Part
+This Part applies to any application to the Court
+  (a) by way of appeal under clause 5(1)(a) or (b) of Schedule 2:
+  (b) for leave to appeal under clause 5(1)(c) of Schedule 2:
+  (c) for entry of an award as a judgment under article 35 of Schedule 1.
+
+**Appeals under clause 5(1)(a) or (b) of Schedule 2**
+
+### 879 Appeals
+(1) In cases to which clause 5(1)(a) or (b) of Schedule 2 applies, the plaintiff must commence the appeal by filing an originating application in the proper office of the Court, as determined in accordance with rule 107(1).
+(2) The originating application must be in form 108.
+(3) Rule 44 applies in relation to the originating application.
+(4) This rule has effect despite anything in rule 106 or Part 4.
+(5) The originating application must not name the arbitral tribunal as a defendant.
+
+### 880 Affidavit to be filed in support
+At the same time as the originating application is filed, the plaintiff must file an affidavit
+  (a) exhibiting the award; and
+  (b) proving the matters set out in clause 5(1)(a) or (b), as the case may be, of Schedule 2.
+
+### 881 Amendment of grounds of appeal
+The grounds of the appeal may subsequently be amended by leave of the Court.
+
+### 882 Service
+Either before or immediately after the filing of the originating application and the affidavit referred to in rule 880, the plaintiff must serve copies of both documents on the defendant.
+
+### 883 Notice of opposition to application
+(1) If the defendant intends to oppose the originating application, the defendant must, within 14 days after service of the originating application, file in the Court and serve on the plaintiff and on all other parties a notice of opposition.
+(2) The notice of opposition
+  (a) must state the defendant's intention to oppose the application and the grounds of opposition, including a denial of any fact stated in the originating application that is not admitted and a statement of any fact or matter, not mentioned in the originating application, upon which the defendant relies; and
+  (b) must contain a reference to any statutory provision, regulation, or rule, or any principle of law on which the defendant relies; and
+  (c) must be in form 21, with such modifications as are appropriate.
+
+### 884 Cross-appeal
+(1) Ifthe defendant must, within 14 days after service of the plaintiff's originating application, file in the Court and serve on the plaintiff and on all other parties a notice of cross-appeal.
+  (a) a defendant wishes to contend on the hearing of the originating application that another question of law arises out of the award and that it therefore wishes to cross-appeal; and
+  (b) clause 5(1)(a) or (b) of Schedule 2 applies with respect to that other question of law,
+(2) The notice of cross-appeal must be in form 108, with such modifications as are appropriate.
+(3) This Part applies to cross-appeals with all necessary modifications.
+
+### 885 Directions conference
+[Repealed]
+
+### 886 Record to be filed
+(1) This rule applies if the Court gives a direction under rule 430(7)(d)(i) (whether at a case management conference or otherwise).
+(2) The plaintiff must, within 28 days of the direction being given, serve on the defendant a copy of the record of the arbitration, properly indexed.
+(3) The record of the arbitration comprises
+  (a) any application, documents, written submissions, statements, reports, and other papers lodged with the arbitral tribunal; and
+  (b) any transcript of evidence; and
+  (c) any exhibits.
+(4) Within 7 days after service of the proposed record and index, the defendant must
+  (a) agree the record and index and signify such agreement by signing the index; or
+  (b) advise the plaintiff of changes sought to the proposed record or index.
+(5) The plaintiff must then promptly file in the Court a copy of the record, properly indexed. If the defendant has sought changes and the plaintiff has not agreed to the changes, then the plaintiff must file a memorandum setting out the changes sought by the defendant and the plaintiff's reasons for not agreeing to the changes. The plaintiff must also file any further documents that the defendant contends form part of the record.
+(6) Despite subclause (3), if the parties agree that any part of the record is unnecessary for the hearing of the appeal, that part must be omitted from the record filed.
+(7) The plaintiff must meet the cost of preparing the record, which is a disbursement in the proceeding.
+(8) If an appeal is to be heard by more than 1 Judge, the Court may direct the plaintiff to file in the Court a further copy or further copies of the record.
+
+### 887 Transcription of evidence
+(1) This rule applies if the Court gives a direction under rule 430(7)(d)(ii) (whether at a case management conference or otherwise).
+(2) The Court may order, subject to any conditions that the Court thinks just, that a transcript be made of any recorded evidence given in the arbitration if it is satisfied that the transcript is required for the proper determination of the appeal.
+(3) If the Court gives a direction to which this rule applies, the plaintiff must, within 28 days of the direction being given, serve on the defendant the proposed transcript.
+(4) Within 7 days after service of the proposed transcript, the defendant must
+  (a) agree the transcript and signify such agreement by an appropriate certification of the transcript; or
+  (b) advise the plaintiff of changes sought or of additional evidence to be transcribed.
+(5) The plaintiff must then promptly file the transcript in the Court. If the defendant has sought changes and the plaintiff has not agreed to the changes, then the plaintiff must file a memorandum setting out the changes sought by the defendant and the plaintiff's reasons for not agreeing to the changes.
+(6) If the defendant has sought to have additional evidence transcribed and the plaintiff has disputed the relevance of, or the necessity of transcription of, that evidence for the hearing of the appeal, the defendant may file in the Court a transcript of that evidence.
+(7) The cost of preparing any transcript is a disbursement in the proceeding.
+(8) If an appeal is to be heard by more than 1 Judge, the Court may direct any party submitting a transcript to file in the court a further copy or further copies.
+
+### 888 Setting down appeal for hearing
+[Repealed]
+
+### 889 Hearing of appeal
+(1) Every appeal is to be by way of rehearing.
+(2) In any appeal, the Court has all the powers and discretions of the arbitral tribunal
+  (a) to hold the hearing or any part of it in private; and
+  (b) to make orders prohibiting the publication of any report or description of the proceedings or any part of them.
+
+### 890 Leave to appeal to Court of Appeal
+Any application to the High Court under clause 5(5) of Schedule 2 for leave to appeal to the Court of Appeal must be filed within 28 days of the High Court's determination of the appeal under clause 5(4) of Schedule 2.
+
+**Leave to appeal under clause 5(1)(c) of Schedule 2**
+
+### 891 Applications for leave to appeal
+(1) In cases to which clause 5(1)(c) of Schedule 2 applies, the plaintiff must commence the proceeding by filing an originating application in the proper office of the Court, as determined in accordance with rule 107(1).
+(2) The originating application must be in form 109.
+(3) Rule 44 applies in relation to the originating application.
+(4) This rule has effect despite anything in rule 106 or Part 4.
+(5) The originating application must not name the arbitral tribunal as a defendant.
+(6) Rules 880 to 883 apply, with all necessary modifications.
+
+### 892 Submissions
+(1) Within 14 days ofthe plaintiff must file the following:
+  (a) the date on which the plaintiff is served with a notice of opposition; or
+  (b) the date by which the defendant had to file a notice of opposition if the defendant wished to oppose the application,
+  (c) submissions as to why leave should be granted:
+  (d) copies of any authorities relied on.
+(2) Copies of the materials filed must immediately be served on any defendant who has filed and served a notice of opposition.
+(3) At any such hearing, unless otherwise directed by the Judge, the plaintiff or his or her counsel is restricted to 30 minutes, the defendant or his or her counsel is restricted to 30 minutes, and the plaintiff or his or her counsel is restricted to 10 minutes by way of reply.
+
+### 893 Granting leave
+(1) If the Court grants leave, it must not give reasons unless, in the opinion of the Court, the circumstances require it to do so.
+(2)
+(3)
+(4)
+(5)
+(6)
+
+### 894 Refusing leave
+(1) If the Court refuses to grant leave, it must give reasons.
+(2) Any application to the High Court under clause 5(5) of Schedule 2 for leave to appeal to the Court of Appeal from the High Court's refusal to grant leave to appeal must be filed within 28 days of the High Court's refusal.
+
+**Entry of award as judgment under article 35 of Schedule 1**
+
+### 895 Entry of judgment where all parties agree
+(1) If all parties to an award agree that it may be entered as a judgment, they may apply to any Registrar by letter signed by all parties or their solicitor or counsel requesting the entry of the award as a judgment.
+(2) If the Registrar is satisfiedthe Registrar must enter the award as a judgment as soon as practicable.
+  (a) that all parties have agreed; and
+  (b) with respect to the matters set out in article 35(2) of Schedule 1,
+
+### 896 Entry of judgment in other cases
+(1) In all other cases, a party to an award who wishes to enforce it may
+  (a) enforce it by action; or
+  (b) apply to the Court for entry of the award as a judgment.
+(2) If a party elects the method set out in subclause (1)(a), the party must commence an ordinary proceeding under Part 2.
+(3) If a party elects the method set out in subclause (1)(b), the party must apply to the Court in accordance with the procedure set out in rules 897 to 901.
+
+### 897 Application for entry of award as judgment
+(1) The party to the award must file an originating application in the proper office of the Court, as determined in accordance with rule 107(1).
+(2) The originating application must be in form 110.
+(3) Rule 44 applies in relation to the originating application.
+(4) This rule has effect despite anything in rule 106 or Part 4.
+(5) The originating application must not name the arbitral tribunal as a defendant.
+
+### 898 Affidavit to be filed in support
+At the same time as the originating application is filed, the plaintiff must file an affidavit proving the matters set out in article 35(2) of Schedule 1.
+
+### 899 Service
+(1) Either before or immediately after the filing of the originating application and the affidavit referred to in rule 898, the plaintiff must serve copies of both documents on the defendant.
+(2) Subclause (1) does not apply if the plaintiff obtains an order under rule 899A.
+
+### 899A Ex parte entry as judgment in exceptional circumstances
+(1) In exceptional circumstances, the plaintiff may, on or after the filing of the originating application, file an ex parte application for an order that the award be entered as a judgment.
+(2) The application must be supported by an affidavit that sets out the exceptional circumstances that justify the order sought.
+(3) The Court may determine the application on an ex parte basis and make the order sought if satisfied that the order is required in the interests of justice.
+(4) If the Court makes the order sought, the Court may also direct that the award not be enforced before the order has been served on the defendant and a period specified by the Court has expired after that service.
+
+### 900 Entry as judgment by Registrar where originating application served on defendant who takes no steps
+(1) On the application of the plaintiff, the Registrar must promptly enter the award as a judgment unless within either period referred to in subclause (2) the defendant files and serves an application under rule 901 seeking an order that recognition and enforcement of the award be refused.
+(2) The periods are
+  (a) 10 working days after service on the defendant of the plaintiff's application; or
+  (b) a period fixed by the Court of less than 10 working days after service on the defendant of the order fixing that period.
+(3) An application to the Registrar under subclause (1) need not be served on the defendant, and may be made by letter signed by the plaintiff or his or her solicitor or counsel requesting the entry of the award as a judgment.
+(4) An application for an order fixing a shorter period under subclause (2)(b) may be made ex parte.
+(5) An order fixing a shorter period under subclause (2)(b) does not take effect unless it is served on the defendant together with the documents referred to in rule 899(1).
+(6) Subclause (5) applies even if the originating application to which the order relates has already been served on the defendant, and in that case the previous service of the application ceases to have effect when the order is made.
+
+### 901 Opposition to entry as judgment
+(1) If the defendant wishes to oppose the originating application, the defendant must, within the applicable period specified by or fixed under rule 900(2), file and serve an application seeking an order that recognition and enforcement be refused in terms of article 36 of Schedule 1.
+(2) The application referred to in subclause (1) is treated as if it were an originating application under Part 4A and must be disposed of in accordance with Part 4A.
+(3) The plaintiff's application to enforce the award by entry as a judgment is stayed pending the determination of the defendant's application referred to in subclause (1). When determining that application, the Court must also determine the plaintiff's application to enforce the award by entry as a judgment.
+
+### Schedule.Group
+
+#### Schedule 1 — Forms
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General heading as in form 1) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| Take notice that [name of plaintiff discontinuing proceeding] discontinues this proceeding against [name of the defendant or, if there is more than 1 defendant, the names of the defendants or the names of the defendants against whom the plaintiff discontinues the proceeding]. |
+| --- |
+| *Copies of the written consents of the plaintiffs who are required under rule 476(3) of the High Court Rules to consent to this discontinuance are attached to this notice. |
+| *Copies of the written consents of the defendants who are required under rule 476(4) of the High Court Rules to consent to this discontinuance are attached to this notice. |
+| *The High Court has granted leave to the plaintiff to discontinue this proceeding. |
+| *Delete if inapplicable. |
+| Dated this day of 20 |
+| (Solicitor for) Plaintiff |
+| To the Registrar of the High Court at and to [name of other parties to proceeding]. |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1 and endorsement) |
+| --- |
+
+| (General headingForm 1) |  |
+| --- | --- |
+| The plaintiff says: |  |
+|  | 1. The Company Limited (hereinafter called the defendant company) was in [State month and year] incorporated under the Companies Act 19 and was reregistered under the Companies Act 1993 on [State month and year] */has not been reregistered under the Companies Act 1993*. |
+| *Delete if not applicable |  |
+| OR |  |
+|  | 1. The Company Limited (hereinafter called the defendant company) was in [State month and year] incorporated under the Companies Act 1993. |
+|  | 2. The registered office of the defendant company is at [State the full address of the registered office]. |
+| [Here set out in paragraphs the facts on which the plaintiff relies]. |  |
+|  | The plaintiff therefore prays that the defendant company be put into liquidation by the Court under the Companies Act 1955. |
+| OR |  |
+|  | The plaintiff therefore prays that the defendant company be put into liquidation by the Court under the Companies Act 1993. |
+| [Subscribe memorandum in Form 3.] |  |
+
+| (General headingForm 1) |  |
+| --- | --- |
+| The plaintiff says: |  |
+| 1. The Company Limited (hereinafter called the defendant company) was in [State month and year] incorporated under the Companies Act 19 and was reregistered under the Companies Act 1993 on [State month and year] */has not been reregistered under the Companies Act 1993*. |  |
+| *Delete if not applicable |  |
+| OR |  |
+| 1. The Company Limited (hereinafter called the defendant company) was in [State month and year] incorporated under the Companies Act 1993. |  |
+| 2. The registered office of the defendant company is at [State the full address of the registered office]. |  |
+| 3. The affairs of the defendant company have been (or are being or are likely to be) conducted in a manner that is oppressive (or unfairly discriminatory or unfairly prejudicial) to the plaintiff in the plaintiff's capacity as a member*/shareholder* of the defendant company (or [State any other capacity]). |  |
+| OR |  |
+| 3. An act (or acts) of the defendant company have been (or are being or are likely to be) oppressive (or unfairly discriminatory or unfairly prejudicial) to the plaintiff in the plaintiff's capacity as a member*/shareholder* of the defendant company (or [State any other capacity]). |  |
+| *Delete if not applicable |  |
+| OR |  |
+| [Where the case falls within section 173(3) of the Companies Act 1955 |  |
+| 3. A report has been made in respect of the defendant company under section 172 of the Companies Act 1955. |  |
+| 4. The report has been referred to the Attorney-General under section 173(1) of the Companies Act 1955. |  |
+| 5. The defendant company is liable to be put into liquidation under the Companies Act 1955. |  |
+| 6. It appears to the Attorney-General from the report that it is expedient to put the defendant company into liquidation by reason of circumstances suggesting |  |
+| *(a) | That its business is being conducted with intent to defraud its creditors. |
+| *(b) | That its business is being conducted with intent to defraud the creditors of [Full name]. |
+| *(c) | That its business is being conducted for a fraudulent or unlawful purpose. |
+| *(d) | That its business is being conducted in a manner oppressive of part of its members. |
+| *(e) | That it was formed for a fraudulent or unlawful purpose. |
+| *(f) | That persons concerned with its formation or the management of its affairs have in connection therewith been guilty of fraud, misfeasance, or other misconduct towards it or towards its members. |
+| [Here set out in paragraphs the facts on which the plaintiff relies]. |  |
+| The plaintiff therefore applies, under section 209ZG of the Companies Act 1955, for an order [Set out the nature of the order sought]. |  |
+| * Delete if inapplicable |  |
+| [Subscribe memorandum in Form 3 |  |
+
+| (General headingForm 1) |  |  |
+| --- | --- | --- |
+| TO [Full name of company] (hereinafter called the defendant company) |  |  |
+| and |  |  |
+| [Where a liquidator or interim liquidator has been appointed] |  |  |
+| TO [Full name], [Address], [Description], the liquidator*/interim liquidator* of the defendant company* |  |  |
+| *Delete if not applicable |  |  |
+| Take notice that the plaintiff is, by a statement of claim, making application for an order that the defendant company put into liquidation under the Companies Act 1955 (or the Companies Act 1993) (or for an order in respect of the defendant company under section 209ZG of the Companies Act 1955) (or for an order in respect of the defendant company under section 174 of the Companies Act 1993). |  |  |
+|  | A copy of the statement of claim is served herewith. |  |
+| The application will be heard in this Court at [Place] at am/pm on [Date]. |  |  |
+| Take notice that unless, within 14 days after the date on which this notice is served on you, you file in this office of this Court a statement of your defence to the plaintiff's claim, a copy of which is served herewith, the plaintiff may proceed to a hearing and an order may be made for the liquidation of the defendant company by the Court under the Companies Act 1955 (or the Companies Act 1993) (or an order may be made in respect of the defendant company under section 209ZG of the Companies Act 1955) (or an order may be made in respect of the defendant company under section 174 of the Companies Act 1993). |  |  |
+| Dated this day of 19. |  |  |
+|  |  | ..................... |
+|  |  | Plaintiff (or Solicitor for Plaintiff) |
+| Your attention is particularly directed to the Memorandum endorsed hereon or attached hereto. |  |  |
+| MEMORANDUM |  |  |
+| Advice |  |  |
+| 1. If the defendant company wishes to oppose this application or to appear at the hearing, it is essential that it consult a solicitor without delay. A company cannot |  |  |
+|  | (a) carry on proceedings in the Court except by a solicitor; and |  |
+|  | (b) appear to conduct a proceeding except by counsel (unless exceptional circumstances apply). |  |
+| Advertising |  |  |
+| 2. The application to put the defendant company into liquidation under the Companies Act 1955 (or the Companies Act 1993) (or for the making in respect of the defendant company of an order under section 209ZG of the Companies Act 1955) (or the Companies Act 1993) is to be advertised in the New Zealand Gazette and in a newspaper. |  |  |
+| 3. The advertisements will not be published until at least 7 days after the date on which the statement of claim is served on the defendant company. |  |  |
+| Power of Court to restrain advertising and stay proceedings |  |  |
+| [Delete this heading and paragraphs 4 and 5 if the application is not an application to put the defendant company into liquidation]. |  |  |
+| 4. The Court has power to make an order restraining the publication of the advertisement and staying any further proceedings in relation to the liquidation. |  |  |
+| 5. The defendant company or, with the leave of the Court, any creditor or contributory or shareholder of the defendant company may apply for such an order within 7 days after the date of the service of the statement of claim on the defendant company. |  |  |
+| Statement of defence |  |  |
+| 6. If the last day for filing your statement of defence falls on a day on which the office of the Court is closed, you may file your statement of defence on the next day on which that office is open. |  |  |
+| 7. In calculating the time for filing your statement of defence, you must disregard the period that commences with 25 December and ends with 15 January. [This paragraph must be deleted if it conflicts with a direction by the Court.] |  |  |
+| 8. If you file a statement of defence, you must also, within the time limited for filing it in the office of the Court, serve a copy of the statement on the plaintiff and on any other person who, when the statement of defence is filed, has filed a statement of defence in the proceeding. |  |  |
+| 9. If a statement of defence is not filed on behalf of the defendant company within the time prescribed, counsel for the defendant company will not, without an order for extension of time or the special leave of the Court be allowed to appear on the hearing. A company cannot appear in person. If it wishes to appear on the hearing, it must appear by counsel. |  |  |
+| Appearance by persons other than the defendant company |  |  |
+| 10. Any person (other than the defendant company) who intends to appear on the hearing of the application must file an appearance |  |  |
+|  | (a) Stating that that person intends to appear; and |  |
+|  | (b) Indicating whether the person supports or opposes the appointment of a liquidator by the Court (or the making in respect of the defendant company of an order under section 209ZG of the Companies Act 1955) (or section 174 of the Companies Act 1993). |  |
+| 11. Any person who files an appearance need not file a statement of defence. |  |  |
+| 12. Every appearance must be filed not later than the second working day before the day appointed for the hearing. |  |  |
+| 13. If you fail to file an appearance within the time prescribed, neither you nor counsel on your behalf will, without an order for extension of time or the special leave of the Court, be allowed to appear on the hearing. |  |  |
+| Office hours |  |  |
+| 14. The office hours of the Court are from 9 am to 5 pm except on Court holidays. |  |  |
+| Dated this day of 19. |  |  |
+|  |  | ..................... |
+|  |  | (Deputy Registrar).] |
+
+| (General headingForm 1) |  |
+| --- | --- |
+| I, [Full name], of [Place of residence], [Occupation], swear that such of the allegations in the statement of claim herein (a copy of which is hereunto annexed, and marked with the letter A as relate to my own acts and deeds [or, where the plaintiff is a firm, the acts and deeds of my firm] are true and such of those allegations as relate to the acts and deeds of any other person or persons I believe to be true. |  |
+| Sworn at this day of 19, |  |
+| before me |  |
+|  | A Solicitor of the High Court of New Zealand |
+
+| (General headingForm 1) |  |
+| --- | --- |
+| I, [Full name], of [Place of residence], [Occupation], swear: |  |
+| 1. | I have knowledge of the facts stated in this affidavit and am duly authorised by the plaintiff in the above matter to make this affidavit on its behalf. |
+| 2. | Such of the statements in the statement of claim herein (a copy whereof is hereunto annexed and marked with the letter A) as relate to the acts and deeds of the plaintiff are true and such of the said statements as relate to the acts and deeds of any other person or persons I believe to be true. |
+| Sworn at this day of 19 , |  |
+| before me |  |
+| A Solicitor of the High Court of New Zealand |  |
+
+| (General headingForm 1) |  |  |  |
+| --- | --- | --- | --- |
+| I, [Full name], of [Place of residence], [Occupation], swear: |  |  |  |
+| 1. | I, did on day, the day of 19, serve the defendant company with |  |  |
+|  | (a) | The statement of claim in the above-mentioned proceeding; and |  |
+|  | (b) | The verifying affidavit made by [Full name] and dated the day of 19; and |  |
+|  | (c) | The notice of proceeding dated the day of 19]. |  |
+| OR |  |  |  |
+| *1. | I did on day, the day of 19, serve the defendant company with a statement of claim, verifying affidavit, and notice of proceeding (true copies of which are hereunto annexed and marked A , B, and C respectively). |  |  |
+| 2. | I served the documents on the defendant company at [Place] in New Zealand by [Specify the method by which service was effected]. |  |  |
+|  |  |  | Signature of deponent: ............................. |
+| Sworn at this day of 19, before me |  |  |  |
+|  |  |  | ................................. |
+|  |  |  | A Solicitor of the High Court of New Zealand.] |
+| *Delete if inapplicable. |  |  |  |
+
+| (General headingForm 1) |
+| --- |
+
+| To [Full name], liquidator [Full address]. |  |  |  |
+| --- | --- | --- | --- |
+| ORDER pronounced this day by the Honourable Justice[or as the case may be] that the undermentioned defendant company be put into liquidation by the Court under the Companies Act 1955 (or the Companies Act 1993). |  |  |  |
+| Name of company | Registered Office of company | Plaintiff's Solicitor | Date of Filing of Statement of Claim |
+
+| To [Full name], interim liquidator [Full address]. |  |  |  |
+| --- | --- | --- | --- |
+| ORDER pronounced this day by the Honourable Justice [or as the case may be] for the appointment of (a) as interim liquidator prior to any order putting company into liquidation being made. |  |  |  |
+| Name of company | Registered Office of company | Plaintiff's Solicitor | Date of Filing of Statement of Claim |
+| (a) Insert the Official Assignee or, if some other person has been appointed, the name, address, and description of that person. |  |  |  |
+
+| (General HeadingForm 1) |
+| --- |
+
+| (General HeadingForm 1) |
+| --- |
+
+| [General heading as in form 64N] |
+| --- |
+
+| [General heading as in form 64N] |
+| --- |
+
+| [General heading as in form 64N] |
+| --- |
+
+| [General heading as in form 64N] |
+| --- |
+
+| In the High Court of New Zealand |  |  |
+| --- | --- | --- |
+|  | In Admiralty |  |
+|  | Registry No AD / |  |
+|  | Between | [Insert name of plaintiff] |
+|  |  | Plaintiff |
+|  | And | [Insert name of defendant] |
+|  |  | Defendant |
+
+| [General heading as in form 66] |
+| --- |
+
+| In the High Court of New Zealand |  |  |
+| --- | --- | --- |
+|  | In Admiralty |  |
+|  | Registry No AD / |  |
+|  | Admiralty Action in Rem: |  |
+|  | Between | See note 1 |
+| Plaintiff(s) |  |  |
+|  | And | See note 2 |
+| Defendant(s) |  |  |
+| Notes1.Insert name of plaintiff(s), eg, The owners of the Ship X.2.Insert name of defendant(s), eg, The Ship Y (or The Ship Y and its freight or The Ship Y and its cargo and freight or The cargo ex the Ship Y or The proceeds of the Ship Y or The proceeds of the cargo ex the Ship Y). |  |  |
+
+| [General heading as in form 68] |
+| --- |
+
+| [General heading as in form 66] |
+| --- |
+
+| [General heading as in form 66 or form 68, as the case requires] |
+| --- |
+
+| [General heading as in form 68] |
+| --- |
+
+| [General heading as in form 68] |
+| --- |
+
+| [General heading as in form 68] |
+| --- |
+
+| [General heading as in form 68] |
+| --- |
+
+| [NB No general heading] |
+| --- |
+
+| [General heading as in form 68] |
+| --- |
+
+| [Heading as in action] |
+| --- |
+
+| [NB No general heading] |
+| --- |
+
+| [General heading as in form 68] |
+| --- |
+
+| [Heading as in action] |
+| --- |
+
+| [General heading as in form 68] |
+| --- |
+
+| [General heading as in form 1 and rule 824] |
+| --- |
+
+| [General heading as in form 1 and rule 824] |
+| --- |
+
+| [General heading as in form 1 and rule 824] |
+| --- |
+
+| [General heading as in form 1 and rule 824] |
+| --- |
+
+| [General heading as in form 1 and rule 824] |
+| --- |
+
+| [General heading as in form 1 and rule 824] |
+| --- |
+
+| [General heading as in form 1 and rule 824] |
+| --- |
+
+| [General heading as in form 1 and rule 824] |
+| --- |
+
+| [General heading as in form 1 and rule 824] |
+| --- |
+
+| [General heading as in form 1 and rule 824] |
+| --- |
+
+| [General heading as in form 1 and rule 824] |
+| --- |
+
+| [General heading as in form 1 and rule 824] |
+| --- |
+
+| [General heading as in form 1 and rule 824] |
+| --- |
+
+| [General heading as in form 1 and rule 824] |
+| --- |
+
+| Statement showing the assets, debts, and liabilities of [Full name, address and description of insolvent person]. |  |  |
+| --- | --- | --- |
+| Assets |  |  |
+| Stock-in-trade at [Place], estimated at |  | $ |
+| Book debts, estimated to produce |  |  |
+| Cash in hand |  |  |
+| Cash in Bank of |  |  |
+| Furniture and other personal property according to list attached marked A |  |  |
+| Real property according to list attached marked B |  |  |
+| Surplus from securities in hands of secured creditors |  |  |
+| Other assets |  |  |
+| Total assets |  | $ |
+| Debts and Liabilities |  |  |
+| Unsecured creditors according to list attached, marked C |  | $ |
+| Secured creditors according to list attached, marked D |  |  |
+| Less estimated value of securities |  |  |
+| Surplus |  | $ |
+| Other liabilities, according to list attached, marked E |  |  |
+| Total debts |  | $ |
+| I, [Full name, address, and description of insolvent person] swear that the above statement and the lists marked A, B, C, D and E are a true statement of my assets and liabilities, the names and addresses of my creditors, and the securities held by them respectively. |  |  |
+| Sworn at [Place] [Date]. |  |  |
+|  | Insolvent person. |  |
+|  | Before me: |  |
+|  | A Solicitor of the High Court of New Zealand or (Deputy) Registrar of the High Court of New Zealand or Notary Public). |  |
+
+| [General heading as in form 1 and rule 824] |
+| --- |
+
+| [General heading as in form 1 and rule 824] |
+| --- |
+
+| Statement showing the assets, debts, and liabilities of the estate of [Full name and former address of deceased] (the deceased). |  |
+| --- | --- |
+| Assets |  |
+| Stock-in-trade at [Place] estimated at | $ |
+| Book debts according to list attached marked A |  |
+| Cash in hand |  |
+| Cash in Bank of |  |
+| Household furniture and effects |  |
+| Real property according to list attached marked B |  |
+| Surplus from securities in hands of secured creditors |  |
+| Any other assets according to list attached marked C |  |
+| Total assets | $ |
+| Debts and Liabilities |  |
+| Unsecured creditors, according to list attached, marked D |  |
+| Secured creditors according to list attached, marked E |  |
+| Less estimated value of securities |  |
+| Surplus | $ |
+| Other liabilities, according to list attached, marked F |  |
+| Total debts | $ |
+| According to the above statement there appears to be a deficiency in the estate amounting to [Amount] [Other particulars necessary to explain the account]. |  |
+| I, [Full name, address, and description of administrator] swear: |  |
+| 1. That I am the administrator of the estate. |  |
+| 2. That the above statement and the lists marked A, B, C, D, E and F respectively show the assets, debts, and liabilities of the deceased so far as they are known to me. |  |
+| Dated at [Place] [Date]. |  |
+| Administrator. |  |
+| Before me: |  |
+| A Solicitor of the High Court of New Zealand or (Deputy) Registrar of the High Court of New Zealand or Notary Public. |  |
+
+| [General heading as in form 1 and rule 824] |
+| --- |
+
+| [General headingForm 1 and endorsement] |
+| --- |
+
+| [General headingForm 1 and endorsement] |
+| --- |
+
+| [General headingForm 1 and endorsement] |
+| --- |
+
+#### Schedule 2 — Appropriate daily recovery rates
+
+| Category of proceedings referred to in rule 48 | Appropriate daily recovery rate |
+| --- | --- |
+| Category 1 proceedings | $1,070 per day |
+| Category 2 proceedings | $1,600 per day |
+| Category 3 proceedings | $2,370 per day |
+
+#### Schedule 3 — Time allocations
+
+| General civil proceedings |  | Allocated days or part days |  |  |
+| --- | --- | --- | --- | --- |
+|  |  | A | B | C |
+| 1 | Commencement of proceeding by plaintiff (receiving instructions, researching facts and law, and preparing, filing, and serving statement of claim and notice of proceeding or equivalent or originating application) | 1.6 | 3 | 10 |
+| 2 | Commencement of defence by defendant (receiving instructions, researching facts and law, and preparing, filing, and serving statement of defence or notice of opposition) | 1 | 2 | 6 |
+| 3 | Other pleadings and notices: |  |  |  |
+| 3.1 | Counterclaim | .8 | 1.6 | 4.8 |
+| 3.2 | Cross-notice between defendants | .6 | 1.2 | 4 |
+| 3.3 | Commencement of proceedings against third parties, including notice and statement of claim | 1.2 | 2.4 | 7 |
+| 3.4 | Notice of appearance with protest to jurisdiction | .3 | .6 | 2 |
+| 3.5 | Notice of appearance | .2 | .2 | .2 |
+| 3.6 | Pleading in response to other party's amended pleading (payable regardless of outcome except where formal or consented to) | .3 | .6 | 2 |
+| 4 | Interlocutory proceedings and related steps: |  |  |  |
+| 4.1 | Notice to answer interrogatories | .4 | 1 | 4 |
+| 4.2 | Answer to interrogatories | .4 | 1 | 4 |
+| 4.3 | Notice to admit facts | .4 | .8 | 2.4 |
+| 4.4 | Admission of facts | .4 | .8 | 2.4 |
+| 4.5 | List of documents on discovery | .7 | 1.5 | 6 |
+| 4.6 | Production of documents for inspection | .3 | 1 | 3 |
+| 4.7 | Inspection of documents | .5 | 1.5 | 6 |
+| 4.8 | Payment into Court | .3 | .3 | .3 |
+| 4.9 | Filing offer of other relief | .3 | .3 | .3 |
+| 4.10 | Filing memorandum for case management conference or mentions hearing | .2 | .4 | 1 |
+| 4.11 | Appearance at case management conference | .3 | .3 | .7 |
+| 4.12 | Preparing and filing interlocutory application (excluding summary judgment application) and supporting affidavits | .3 | .6 | 2 |
+| 4.13 | Preparing and filing opposition to interlocutory application (excluding summary judgment application) and supporting affidavits | .3 | .6 | 2 |
+| 4.14 | Preparation for hearing of defended interlocutory application (excluding summary judgment application) | The time occupied by the hearing measured in quarter days |  |  |
+| 4.15 | Appearance at hearing of defended interlocutory application (excluding judgment summary application) for sole or principal counsel | Appearance in Court measured in quarter days |  |  |
+| 4.16 | Second and subsequent counsel if allowed by Court | 50% of allowance for appearance for principal counsel |  |  |
+| 4.17 | Appearance at mentions hearing or callover | .2 | .2 | .2 |
+| 4.18 | Sealing order or judgment | .2 | .2 | .2 |
+| 5 | Summary judgment application (additional to costs in items 1 to 3): |  |  |  |
+| 5.1 | Preparing and filing summary judgment application and supporting affidavits | .3 | .6 | 2 |
+| 5.2 | Preparing and filing opposition and supporting affidavits | .3 | .6 | 2 |
+| [5.2A | Preparation for hearing of defended summary judgment application | The time occupied by the hearing measured in quarter days] |  |  |
+| 5.3 | Arguing defended summary judgment application | Appearance in Court measured in quarter days |  |  |
+| 5.4 | Second and subsequent counsel if allowed by Court | 50% of allowance for appearance for principal counsel |  |  |
+| 6 | Obtaining judgment without appearance (additional to costs in items 1 to 5) | .3 | .3 | .5 |
+| 7 | Preparation for hearing following setting down or direction for trial if trial does not eventuate: |  |  |  |
+| 7.1 | Plaintiff's preparation of affidavits or written or oral statements of evidence to be used at hearing | 1.5 | 2.5 | 5 |
+| 7.2 | Plaintiff's preparation of lists of issues and authorities, selecting documents for common bundle of documents, and all other preparation | 1.5 | 2.5 | 5 |
+| 7.3 | Defendant's preparation of affidavits or written or oral statements of evidence to be used at hearing | 1 | 2 | 4 |
+| 7.4 | Defendant's preparation of lists of issues and authorities, selecting documents for common bundle of documents, and all other preparation | 1 | 2 | 4 |
+| 8 | Preparation for hearing if case proceeds to hearing | Twice the time occupied by the hearing measured in half days |  |  |
+| 9 | Appearance at hearing: |  |  |  |
+| 9.1 | For sole or principal counsel | Appearance in Court measured in half days |  |  |
+| 9.2 | Second and subsequent counsel if allowed by Court | 50% of allowance for principal counsel |  |  |
+| 10 | Execution of judgment or order |  |  |  |
+| 10.1 | Charging order without application | .3 | .3 | 1 |
+| 10.2 | Charging order with application, including any unopposed order | .5 | .5 | 1.4 |
+| 10.3 | Writ of sale | .5 | .5 | .7 |
+| 10.4 | Other execution process | .5 | .5 | .7 |
+| 11 | Other steps in the proceeding not specifically mentioned | As allowed by Court |  |  |
+| Appeals and Reviews of Associate Judges |  | Allocated days or part days |  |  |
+|  |  | A | B | C |
+| 13 | Commencement of appeal or review (including assessing original decision, noting appealable or reviewable points, and filing and serving notice of appeal and points of appeal or notice of application) | .2 | .5 | 1.5 |
+| 14 | Preparation for case management conference | .1 | .2 | .4 |
+| 15 | Appearance at case management conference | .1 | .2 | .4 |
+| 16 | Preparation for appeal or review | The time occupied by the hearing measured in quarter days |  |  |
+| 17 | Appearance at hearing | Appearance in Court measured in quarter days |  |  |
+| Bankruptcy proceedings |  | Allocated days or part days |  |  |
+|  | Items 18 to 21 apply to bankruptcy proceedings instead of items 1, 2, 4.10, 4.11, 8, and 9 | A | B | C |
+| 18 | Preparing, filing, and serving bankruptcy notice | .1 | .2 | .6 |
+| 19 | Preparing bankruptcy petition and other documents | .2 | .4 | 1.2 |
+| 20 | Appearance at hearing | .2 | .4 | 1.2 |
+| 21 | Supporting party on bankruptcy | .2 | .4 | 1.2 |
+| Company liquidation proceedings |  | Allocated days or part days |  |  |
+|  | Items 22 to 25 apply to company liquidation proceedings instead of items 1, 2, 4.10, 4.11, 8, and 9 | A | B | C |
+| 22 | Preparing and issuing statutory demand | .1 | .2 | .6 |
+| 23 | Preparing statement of claim and other documents | .3 | .6 | 1.8 |
+| 24 | Appearance at hearing | .2 | .4 | 1.2 |
+| 25 | Supporting party on liquidation | .2 | .4 | 1.2 |
+| Specified originating applications (relating to relief in respect of statutory demands and caveats) |  |  |  |  |
+| In items 26 to 31, specified originating application means an originating application that is made to the Court under any of the following provisions: |  |  |  |  |
+| (a) | sections 143, 145, or 145A of the Land Transfer Act 1952: |  |  |  |
+| (b) | section 264 of the Companies Act 1955: |  |  |  |
+| (c) | section 290 of the Companies Act 1993. |  |  |  |
+| Items 26 to 31 apply to a specified originating application instead of items 1, 2, 4.10, 4.11, 8, and 9. |  |  |  |  |
+| Specified originating applications(relating to relief in respect of statutory demands and caveats) |  | Allocated days or part days |  |  |
+|  |  | A | B | C |
+| 26 | Preparing and filing specified originating application and supporting affidavits | 0.8 | 1.6 | 4.8 |
+| 27 | Preparing and filing notice of opposition and supporting affidavits | 0.8 | 1.6 | 4.8 |
+| 28 | Filing memorandum for case management conference | 0.2 | 0.4 | 1 |
+| 29 | Appearance at case management conference | 0.3 | 0.3 | 0.7 |
+| 30 | Preparing for hearing of defended specified originating application | The time occupied by the hearing measured in quarter days |  |  |
+| 31 | Appearance at hearing of defended specified originating application | Appearance in Court measured in quarter days |  |  |
+
+#### Schedule 4 — Code of Conduct for expert witnesses
+
+#### Schedule 5 — Matters for consideration at case management conference for proceeding other than appeal
+
+#### Schedule 6 — Standard directions for appeals
+
+## Schedule 3 — Rules of the Court of Appeal
