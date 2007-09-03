@@ -72,7 +72,7 @@ Section 4A of the principal Act is amended by repealing subsections (1) to (5), 
       (ii) For the purpose of gathering foreign intelligence information essential to security; and
     (b) The value of the information sought to be obtained under the proposed warrant justifies the particular interception or seizure; and
     (c) The information is not likely to be obtained by any other means; and
-    (d) Any other communication sought to be intercepted or seized under the proposed warrant is not privileged in proceedings in a court of law under—
+    (d) Any communication sought to be intercepted or seized under the proposed warrant is not privileged in proceedings in a court of law under—
       (i) Any of sections 31 to 33 of the Evidence Amendment Act (No 2) 1980; or
       (ii) Any rule of law that confers privilege on communications of a professional nature between a lawyer and his or her client.
   (4) An interception warrant may be issued only on an application made in writing by the Director or by the person for the time being acting as the Director.
