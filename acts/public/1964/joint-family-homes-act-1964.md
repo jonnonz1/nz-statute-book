@@ -1,0 +1,347 @@
+# Joint Family Homes Act 1964
+_Consolidation as at 2007-09-03_
+
+> An Act to provide for joint family homes, and for an exemption from gift duty in respect thereof
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Joint Family Homes Act 1964.
+(2) This Act shall come into force on the 1st day of April 1965.
+
+### 2 Interpretation
+In this Act, unless the context otherwise requires,—
+  - **Applicant** , in relation to any application to settle any land as a joint family home, includes the executor or administrator of a deceased applicant
+  - **Constitution** , in relation to a company within the meaning of section 2 of the Companies Act 1993, has the same meaning as in that section; and, in relation to a company within the meaning of section 2 of the Companies Act 1955, means the articles of association of the company
+  - **Flat** means a part of a building that is used as a separate dwelling; but does not include any right, easement, or appurtenance which is held and enjoyed with the flat
+  - **Flat-owning company** means a flat-owning company within the meaning of Part 7A of the Land Transfer Act 1952
+  - **Husband and wife** , in relation to any settled property, means the husband and wife on whom the property is settled under this Act
+  - **Joint family home** means any land settled as a joint family home under this Act
+  - **Land** means all estates and interests, whether freehold or chattel, in real property; and includes the licensee's interest under a licence (within the meaning of Part 7A of the Land Transfer Act 1952) to occupy a flat
+  - **Mining residence site** means any residence site in respect of which there exists a licence granted under the Mining Act 1971 or under any former Mining Act; and includes—
+    (a) Any land in respect of which there exists a lease granted under section 45 or section 47 of the Mining Act 1926 or under the corresponding provisions of any former Mining Act, or renewed under section 2 of the Mining Amendment Act 1961; and
+    (b) Any new licence or lease issued under the Mining Tenures Registration Act 1962:
+  - **Prescribed** means prescribed by this Act or by regulations made under this Act
+  - **Registered proprietor** , in relation to any mining residence site which is not registered under the Land Transfer Act 1952, means the person registered in the office of a Mining Registrar as the licensee or lessee of the site; and, in relation to any other land, means the person registered as proprietor of the land under the Land Transfer Act 1952, or the person entitled to the land under any instrument registered under the Deeds Registration Act 1908; and, in relation to any shares in a flat-owning company, means the person who is the registered holder of shares according to the Company's share register
+  - **Registrar** , in relation to any mining residence site which is not registered under the Land Transfer Act 1952, means the Mining Registrar in whose office the licence or lease is registered; and, in relation to any other land, means the District Land Registrar or the Registrar of Deeds for the district in which the land is situated
+  - **Relative shares** , in relation to any lease or licence granted in respect of a flat by a flat-owning company, means the shares the ownership of which, pursuant to the constitution of the company, entitles the lessee or licensee to the lease or licence
+  - **Settled** , in relation to any land or property, means that the land or property has become settled or is deemed to have become settled in accordance with the provisions of paragraph (a) of subsection (1) of section 9 of this Act
+  - **Settlement** means a settlement under this Act
+  - **Share certificate** , in relation to any relative shares, means a share certificate in respect of those shares.
+  - **Share register** , in relation to—
+    (a) A company within the meaning of section 2 of the Companies Act 1955, means the company's register of members:
+    (b) A company within the meaning of section 2 of the Companies Act 1993, means the company's share register.
+
+### 3 Provision for joint family homes
+(1) Subject to the provisions of this section and of sections 5 and 6 of this Act, a husband and wife or either of them may settle any land on the husband and wife as a joint family home under this Act, where—
+  (a) The settlement is made by the registered proprietor of the land; and
+  (b) The settlor, or (where there are 2 settlors) each settlor, is able to pay all his or her debts, other than debts charged on the property which will be included or be deemed to be included in the settlement without the aid of that property; and
+  (c) Neither the husband nor his wife is the owner or a joint owner of any other joint family home registered as such under this Act; and
+  (d) The husband and wife reside, or will within 6 months of the date of the application reside, and have their home in a dwellinghouse erected on the land; and
+  (e) The dwellinghouse and land are, or will within 6 months of the date of the application be, used exclusively or principally as a home for the husband and wife and such of the members of their household (if any) as for the time being reside in the home.
+(2) In the case of an application to settle any land comprising or including a flat in which the husband and wife reside or will within 6 months of the date of the application to settle reside, if the provisions of paragraphs (d) and (e) of subsection (1) of this section are not otherwise complied with, they shall be deemed to be complied with if—
+  (a) The flat is, or will within 6 months of the date of the application be, used exclusively or principally as a home for the husband and wife and such of the members of their household (if any) as for the time being reside in the flat; and
+  (b) The land to which the application relates comprises only the flat and any other land which is used exclusively or principally in connection with the use of the flat as a home.
+(2A) For the purposes of paragraph (b) of subsection (2) of this section, in the case of an application to settle any land comprising or including a leasehold interest in a flat, if the applicant is also the registered proprietor of an undivided share in the land which is the site of or appurtenant to the flat, and if neither the applicant nor the husband or wife of the applicant is deriving any pecuniary gain from or in respect of that undivided share in the land, then that undivided share in the land shall be deemed to be used principally in connection with the use of the flat as a home.
+(3) The provisions of Part 10 of the Resource Management Act 1991 apply to any settlement of land under this Act as if the settlement were a sale of the land.
+
+### 4 Settlement of additional land
+(1) In any case where the husband and wife on whom land is settled as a joint family home are the registered proprietors, or either of them is the registered proprietor, of additional land contiguous to the joint family home, and the husband and wife or either of them could, on the cancellation of the settlement, resettle under this Act the land originally settled together with the additional land, that additional land may be settled as part of the joint family home without any cancellation of the original settlement.
+(1A) For the purposes of subsection (1) of this section, in determining whether on the cancellation of the settlement the land originally settled together with the additional land could be resettled under this Act, the registered proprietors or registered proprietor of the additional land shall be deemed to be the settlors or, as the case may require, the settlor, of the original settlement.
+(2) In any such case, all the provisions of this Act that would have applied on the resettlement of all the land under this Act shall apply on the settlement of the additional land as part of the existing joint family home, except that for the purposes of the second proviso to paragraph (d) of subsection (2) of section 9 of this Act,—
+  (a) That additional land shall be deemed to have been settled by a separate settlement:
+  (b) The date of the settlement shall, in respect of that additional land and any relative shares which are deemed to be included in the settlement, be the date on which that additional land was actually settled.
+(3) In any case where the land settled as a joint family home comprises or includes a leasehold interest in a flat, if the husband and wife on whom the land is settled as a joint family home are the registered proprietors, or either of them is the registered proprietor of an undivided share in the land which is the site of or appurtenant to the flat but is not included in the settlement, and if on the cancellation of the settlement the husband and wife or either of them could have resettled under this Act the land originally settled together with the said undivided share in the land, that share shall, for the purposes of subsections (1) and (2) of this section, be deemed to be additional land contiguous to the joint family home.
+(4) For the purposes of subsection (3) of this section, in determining whether on the cancellation of the settlement the land to which that subsection applies together with the undivided share in the land could be resettled under this Act, the registered proprietors or registered proprietor of the undivided share in the land shall be deemed to be the settlors or, as the case may require, the settlor, of the original settlement.
+
+### 5 Application to register a joint family home
+(1) Any person or persons who may settle any land as aforesaid may apply in the prescribed manner to the Registrar to register the settlement of the land:
+  Provided that, where the husband and wife are not both parties to the application, it shall be necessary for the one of them who is not a party to the application to consent to the application if the land being settled is—
+    (a) Subject to any mortgage, charge, or encumbrance; or
+    (b) A leasehold interest; or
+    (c) Held under agreement for sale or licence to occupy under Part 1 of the Housing Act 1955; or
+    (d) Held under a licence within the meaning of Part 7A of the Land Transfer Act 1952; or
+    (e) held under an agreement for sale under section 554 of the Local Government Act 1974; or
+    (f) held under an agreement for sale under the Local Government Act 2002
+(2) The person or persons who make any such application shall produce or cause to be produced to the Registrar:
+  (a) The certificate of title or other instrument of title in respect of all land being settled; and
+  (b) The share certificates in respect of relative shares (if any).
+(3) Where an application has been made to the Registrar as aforesaid to register a settlement of any land under this Act, and the Registrar has any doubt as to whether the settlement should be registered, he may require the applicant or applicants to produce such further evidence in that connection as the Registrar may require, and may defer registering the settlement until sufficient evidence is produced to him to establish that the settlement should be registered.
+(4) Where the person or persons who are entitled to settle any land as a joint family home have signed an application to the Registrar in the prescribed form to settle the land as a joint family home while the husband and wife on whom the settlement is to be made are both living, and either the husband or the wife has thereafter died within 3 months after the date on which the application was signed and before the Registrar has accepted the application, the surviving husband or wife may, within 6 months after the date of the death of the other of them, take all steps necessary to secure the registration of the settlement of the land. In any such case, or where the husband or wife dies after the Registrar has accepted the application,—
+  (a) The Registrar may take all necessary steps to complete the registration, and all the provisions of this Act shall apply, as if the said death occurred immediately after the registration of the settlement; and
+  (b) The executor or administrator of the deceased husband or wife shall do whatever lies in his power to facilitate the registration of the settlement.
+(4A) The periods of time allowed by subsection (4) of this section for any surviving husband or wife to take all steps necessary to secure the registration of any land may each be extended for a further period by the High Court on the application of that surviving husband or wife and after hearing such of any parties as may be affected by the settlement as the Court thinks necessary; and this power shall extend to cases where any of the said periods of time has already expired:
+  Provided that no such extension shall be granted unless the application for extension is made before any disposition of the land by the executor or administrator of the deceased husband or wife, and no such disposition, made without notice that an application to settle the land as a joint family home had been signed, shall be disturbed nor shall any action lie against the executor or administrator by reason of his having made such a disposition.
+(5) If the applicant or applicants so request in writing the Registrar shall, upon receipt of the application and of the prescribed advertising fee, give notice thereof in the prescribed manner.
+
+### 6 Creditors may oppose registration
+(1) Where the Registrar gives notice as aforesaid, any person claiming to be a creditor of an applicant, or claiming any estate or interest in the land that is being settled, or in any relative shares, may, within 3 months after the date of the first publication of the notice, lodge with the Registrar a caveat, in the prescribed manner and form, forbidding the granting of the application.
+(2) On receipt of any caveat within the time limited therefor the Registrar shall cause notice thereof, in the prescribed manner and form, to be served on each applicant, and shall not proceed further with the application until the caveat is withdrawn or removed.
+(3) Any caveat may be withdrawn by the caveator by notice in the prescribed form.
+(4) Where a caveat has been lodged, the applicant or applicants may withdraw the application by notice in the prescribed form, or may summon the caveator to attend before the High Court to show cause why the caveat should not be removed.
+(5) Upon the hearing of the summons, and on proof of the service thereof, the Court may make such order in the premises, either ex parte or otherwise, as to the Court seems meet.
+(6) Without limiting the generality of subsection (5) of this section it is hereby declared that the Court may order the caveat to be removed as to part of the land comprised in the application, and in any such case the applicant or applicants may amend the application in terms of the order.
+(7) If, for the space of one month after receipt of notice of the lodging of a caveat or such extended time as the Court on summary application may direct, the caveator is not summoned as hereinbefore provided, the application shall be deemed to have lapsed, and the Registrar shall proceed no further therewith.
+(8) No order shall be made for the withdrawal of a caveat unless the applicant in respect of whom the caveat is lodged satisfies the Court that he or she can pay and discharge his or her debts and liabilities other than those charged on the land and any relative shares without recourse to the said land and shares.
+
+### 7 Registration
+(1) Where the Registrar is satisfied that the application has been duly made under this Act, and (in the case of any application in respect of which the Registrar has given notice as aforesaid) when the time limited for lodging a caveat against any such application has expired and all caveats lodged under section 6 of this Act have been withdrawn or removed and (in the case of any application to which section 5(4) of this Act applies) the surviving husband or wife is still alive, the Registrar shall cause a memorandum to be entered on the respective instruments of title in the following manner:
+  (a) Where the land being settled or any part of it is subject to the provisions of the Land Transfer Act 1952 or is a mining residence site, the Registrar shall cause to be entered and shall sign in his register, and on the duplicate grant, certificate of title, lease, licence, or other instrument of title, a memorandum to the effect that the said land or part is included in a settlement under this Act, which memorandum shall specify:
+    (i) The husband and wife on whom the said land or part is settled; and
+    (ii) The date on which the settlement takes effect:
+  (b) Where the land being settled or any part of it is subject to the provisions of the Deeds Registration Act 1908, the Registrar shall enter and sign a memorandum to the effect prescribed in paragraph (a) of this section as the next entry in the Deeds Index relative to the land or part, as the case may be:
+  (c) Where the land that is being settled is comprised in a lease or licence from a flat-owning company to the holder of the relative shares, the Registrar, in addition to causing to be entered and signing a memorandum as required by the foregoing provisions of this section, shall cause to be entered on the share certificate in respect of the relative shares, and shall sign, a memorandum to the effect that the shares are vested in the husband and wife as joint tenants subject to the provisions of this Act, and shall thereupon take the action specified in section 8 of this Act.
+(2) Where any new, substituted, or different estate or interest in any land for the time being settled as a joint family home on a husband and wife or the survivor of them is acquired by the husband and wife or either of them or by the survivor of them and they become the registered proprietors, or either of them or the survivor of them becomes the registered proprietor, of that estate or interest, the Registrar shall forthwith thereafter, without payment of any further fee, cause a memorandum to be entered on the respective instruments of title in respect of that estate or interest in the manner prescribed in subsection (1) of this section, except that the memorandum shall specify:
+  (a) The husband and wife, or the survivor of them, as the case may be, on whom the estate or interest is settled; and
+  (b) The date on which the settlement takes effect in respect of the estate or interest, which shall be deemed to be the date of settlement of the previous settlement to which the present settlement of a new, substituted, or different estate or interest relates.
+(3) All the provisions of this Act shall apply to any memorandum entered by the Registrar pursuant to subsection (2) of this section as if it were entered by him pursuant to subsection (1) of this section, except that, where the estate or interest to which the memorandum relates is settled on the survivor of the husband and wife on whom the land was originally settled, the provisions of this Act shall where necessary be modified accordingly.
+
+### 8 Duties of Registrar and flat-owning company where land in lease or licence from company settled
+(1) Where the land that is being settled is comprised in a lease or licence given by a flat-owning company to the holder of the relative shares—
+  (a) The Registrar shall, in writing addressed to the Secretary of the company concerned and sent by registered post to the registered office of the company, advise the company of the settlement and of the text of the memoranda entered on the said lease or licence and on the share certificate respectively and of the numbers of the relative shares, and shall request the company to amend its share register accordingly:
+  (b) On receipt of any such written advice the company shall amend its share register to show that the husband and wife are the joint holders of the relative shares subject to the provisions of this Act; and an appropriate endorsement to evidence the settlement shall also be made by the company on any office copy of the relative share certificate, and of the lease or licence:
+  (c) Notwithstanding, in the case of a company within the meaning of section 2 of the Companies Act 1955, section 90 of that Act or the articles of association of the company, or in the case of a company within the meaning of section 2 of the Companies Act 1993, the constitution of the company, except as provided in this section, no fresh certificate shall be issued for any relative shares included in the settlement, and the share certificates for all such shares with the memorandum signed by the Registrar endorsed on them shall continue in effect until the settlement is cancelled or a fresh certificate is issued:
+  (d) Where a share certificate with the memorandum signed by the Registrar endorsed thereon is lost, defaced, or destroyed, a fresh certificate may be issued in place thereof, and shall be issued in the name of the settlor; and, before any such fresh certificate is presented to the persons entitled, it shall be delivered duly signed, together with a notice of the circumstances, to the Registrar, who shall endorse and sign a memorandum to the same effect as the one signed by him on the lost, defaced, or destroyed share certificate; and an entry by the company shall be made on any office duplicate of the fresh share certificate similar to the one that was made on the lost, defaced, or destroyed certificate:
+  (e) On the death of either the husband or the wife named in the memorandum endorsed and signed as aforesaid on a share certificate, a fresh share certificate may be issued in the name of the survivor, and in any such case the share certificate shall state that the shares are held by the survivor subject to the provisions of this Act.
+(2) Notwithstanding anything to the contrary in the constitution of the company or elsewhere, the persons named in the memorandum endorsed and signed by the Registrar on a share certificate pursuant to paragraph (c) of subsection (1) of section 7 of this Act or paragraph (d) of subsection (1) of this section shall be the holders of the shares enumerated therein, notwithstanding that they may not have been entered as such in the share register of the company concerned.
+(3) For the purposes of section 91 of the Companies Act 1955, the persons named in a memorandum which, pursuant to paragraph (c) of subsection (1) of section 7 of this Act or paragraph (d) of subsection (1) of this section, is endorsed on a share certificate and signed by the Registrar shall be deemed to be the members in whose names the certificate was issued.
+(3A) For the purposes of section 89 of the Companies Act 1993, the persons named in a memorandum which, pursuant to paragraph (c) of subsection (1) of section 7 of this Act or paragraph (d) of subsection (1) of this section, is endorsed on a share certificate and signed by the Registrar shall be deemed to be the registered holders of the shares.
+(4) Where a company contravenes or fails to comply with any of the provisions of paragraphs (b), (d), and (e) of subsection (1) of this section,—
+  (a) The company commits an offence and is liable on summary conviction to a fine not exceeding $1,000:
+  (b) Every director of the company commits an offence, and is liable on summary conviction to a fine not exceeding $1,000, unless the director shows that—
+    (i) The company took all reasonable and proper steps to ensure that the requirements of the relevant paragraph would be complied with; or
+    (ii) He or she took all reasonable steps to ensure that the company complied with the requirements of the relevant paragraph; or
+    (iii) In the circumstances he or she could not reasonably have been expected to take steps to ensure that the company complied with the requirements of the relevant paragraph.
+
+### 9 Effect of registration
+(1) Upon the signing by the Registrar, in accordance with section 7 of this Act, of a memorandum in terms of paragraph (a) or paragraph (b) of that section in respect of any land, and (where that land is comprised in a lease or licence from a flat-owning company to the holder of the relative shares) a memorandum in terms of paragraph (c) of that section in respect of the relative shares,—
+  (a) The land to which the memorandum relates shall become settled as a joint family home under this Act and, where that land is comprised in a lease or licence from a flat-owning company to the holder of the relative shares as aforesaid, the relative shares shall be deemed to have become settled as part of the property included in the settlement for the purposes of this Act, notwithstanding any prohibition or restriction in the constitution of the company relating to the transfer or ownership of shares:
+  (b) Subject to the provisions of this Act, the husband and wife on whom the property is settled shall become the legal and beneficial owners of the settled property, subject to all mortgages, charges, encumbrances, estates, and interests then affecting the same; and, if the husband and wife are not already registered as proprietors of the settled property or any part of it as joint tenants, that property or part shall vest in them as joint tenants without transfer or conveyance, but subject to all mortgages, charges, encumbrances, estates, and interests then affecting it, and subject to the provisions of this Act:
+  (c) If either the husband or wife was not a settlor in respect of the settled property but consented to the application to register the settlement of the property in accordance with the proviso to subsection (1) of section 5 of this Act, then,—
+    (i) Notwithstanding anything to the contrary in this Act or any other Act or any rule of law, the husband and wife shall become jointly and severally liable (so far as the settlor was liable) for the payment of all rent, principal, interest, and other money payable in respect of or secured over the settled property, including further advances which are or become charged on the settled property in accordance with subsection (5) of this section; and shall also become jointly and severally liable to the covenantee (so far as the settlor was liable to the covenantee) for the fulfilment and observance of every covenant and agreement contained or implied in the lease, agreement for sale, licence to occupy, mortgage, charge, or encumbrance, including covenants and agreements relating to such further advances:
+    (ii) The covenantee shall have remedy against the husband and wife or either of them accordingly:
+    (iii) Nothing in this paragraph shall extinguish the liability of any other person.
+(2) While the settlement under this Act of any property remains uncancelled the following provisions shall apply:
+  (a) The husband and wife shall have equal rights in connection with the possession, use, and enjoyment of the settled property while they are both living:
+  (b) On the death of the husband or wife, whichever first occurs, the settled property shall become the property of the survivor of them, subject to all mortgages, charges, encumbrances, estates, and interests then affecting it:
+    Provided that, notwithstanding anything in any other Act, if the husband and wife die at the same time or in circumstances which give rise to reasonable doubt as to which of them survived the other, the settled property shall devolve as if it were owned by the husband and wife at their deaths as tenants in common in equal shares:
+  (c) The husband and wife or the survivor of them may at any time sell, transfer, mortgage, charge, lease, or otherwise dispose of or deal with the settled property:
+    Provided that, while they are both living, neither of them may sell, transfer, mortgage, charge, lease, or otherwise dispose of or deal with his or her undivided estate or interest in the settled property or any part thereof:
+  (d) Subject to sections 14 and 15 of this Act, the estate and interest of the husband and wife or the survivor of them in the settled property, and their rights, or his or her respective rights, under the settlement shall continue personal, absolute, indefeasible, and unaffected while the settlement remains uncancelled, notwithstanding any bankruptcy, assignment, judgment, order, mortgage, charge, encumbrance, execution, dealing, matter, or thing which but for this paragraph could directly or indirectly have affected any such estate or interest:
+    Provided that nothing in this paragraph shall apply to or affect—
+      (i) Any sale, transfer, mortgage, charge, lease, or disposition validly completed under paragraph (c) of this subsection; or
+      (ii) Any mortgage, charge, encumbrance, estate, or interest to which subsection (4) of this section applies; or
+      (iii) Any mortgage, lease, sale, or disposition by direction of any Court under section 16 of this Act or under the Family Proceedings Act 1980 or by order of any Judge or District Court Judge under the Property (Relationships) Act 1976:
+    Provided also that any interest a husband and wife, or either of them, may have in the joint family home or in the proceeds (if any) from its sale, transfer, or other disposition shall, for the purposes of the Insolvency Act 1967, be deemed not to be property within the meaning of that Act:
+    Provided also that, in any case where the property has been settled without the Registrar giving notice in the prescribed manner, if the settlor is adjudicated a bankrupt under the Insolvency Act 1967 within 2 years after the date when the property became settled, the settlement shall be void as against the assignee in bankruptcy.
+(3) Unless the settlement is sooner cancelled, the land to which it relates shall continue to be a joint family home, and any relative shares shall continue to be deemed to be part of the settled property, until the death of the survivor of the husband and wife on whom the property is settled.
+(4) Nothing in this Act shall affect—
+  (a) Any mortgage, charge, encumbrance, estate, or interest which affected any part of the settled property before it became settled; or
+  (b) Any mortgage, charge, encumbrance, estate, or interest of or in any part of the settled property created by both the husband and the wife on whom the property is settled or by the survivor of them while the settlement continues in force.
+(5) Where any mortgage, charge, or encumbrance to which paragraph (a) of subsection (4) of this section applies secures future advances to the settlor or settlors, all advances to the settlor or settlors which are made in accordance with the provisions for future advances after the settlement shall be charged upon the settled property as fully and effectively as they would have been if the property had not been settled under this Act.
+
+### 10 Cancellation of registration
+(1) The Registrar may cancel any settlement under this Act as to the whole or any part of the settled property in any of the following cases:
+  (a) Where the husband and wife apply, or the survivor of them applies, in the prescribed manner to the Registrar for cancellation:
+  (b) Where the husband and wife have both died:
+  (c) Where the husband and wife cease to be the legal and beneficial owners of the settled property while they are both living or where the survivor of them ceases to be the legal and beneficial owner of that property:
+  (d) Where the Court so orders under section 16 of this Act:
+  (e) Where neither the husband nor the wife resides, or has within 6 months after the date of the application to settle resided in a flat or dwellinghouse on the land to which the settlement relates; or where (after such residence has commenced) the flat, or (in the case of a settlement of land which does not comprise or include a flat in which the husband and wife reside) the land, has ceased to be used exclusively or principally as a home for the husband and wife or either of them and for such of the members of their, his, or her household (if any) as for the time being reside in the flat or dwellinghouse:
+  (f) Where the settlement should not have been registered.
+(2) The Registrar shall cancel the settlement of any property as to the whole or any part thereof on the application of the assignee in bankruptcy in any case where the settlement is void as against the assignee under paragraph (d) of subsection (2) of section 9 of this Act.
+(2A) The Registrar shall, on the application of any person who is entitled to an estate or interest in any settled property pursuant to an order of a Court made under section 5 of the Matrimonial Property Act 1963 or the Property (Relationships) Act 1976 or Part 8 of the Matrimonial Proceedings Act 1963, cancel the settlement of that property in any case where cancellation is necessary to give full effect to the order.
+(2B) Notwithstanding section 11 of this Act, the property in any settlement which is cancelled under subsection (2A) of this section shall vest in the person or persons entitled to any estate or interest in it pursuant to the order made by the Court to the extent of the estate or interest specified in that order. A vesting under this subsection shall not affect any mortgage, charge, or encumbrance over the property at the time of cancellation.
+(2C) Upon the cancellation under subsection (2A) of this section of a settlement of any property, the Registrar shall make such entries in his register and do all such other things as may be necessary to give effect to subsection (2B) of this section.
+(3) No settlement shall be cancelled under paragraph (e) or paragraph (f) of subsection (1) of this section—
+  (a) Unless the Registrar has, not less than 28 days before the date of the cancellation of the settlement, given notice, by registered letter addressed to the owner or owners of the joint family home, at the said home or any other address known to him, of his intention to cancel the settlement:
+  (b) Until every summons to the Registrar under subsection (5) of this section to attend before a District Court to show cause why the settlement should be cancelled has been finally disposed of by that Court:
+  (c) In contravention of any order of a District Court under subsection (5) of this section.
+(4) Where a notice is sent by post in the manner prescribed by paragraph (a) of subsection (3) of this section, it shall be deemed to have been given at the time at which the letter would have been delivered in the ordinary course of post.
+(5) Any owner of a joint family home to whom any such notice has been given may, within 28 days after the date of the service on that owner of the said notice, summon the Registrar to attend before a District Court to show cause why the settlement should be cancelled; and the Court may make such order in the premises as it considers just.
+(6) The cancellation of any settlement under this Act shall be effected—
+  (a) In the case of any land which is subject to the Land Transfer Act 1952, by the Registrar causing a memorial of the cancellation to be entered in the register against the appropriate title:
+  (b) In the case of any land which is subject to the Deeds Registration Act 1908, by the Registrar causing an entry thereof to be made under the proper head or title in the index book in the Deeds Register Office:
+  (c) In the case of a mining residence site, by the Registrar causing a memorial of the cancellation to be entered in the register against the record copy of the licence.
+(7) In any case where the land in respect of which a settlement is cancelled comprises a lease or licence from a flat-owning company,—
+  (a) Upon the cancellation being effected in respect of the land in accordance with subsection (6) of this section, it shall be deemed to have been effected in respect of the relative shares:
+  (b) If the Registrar is able to obtain production of the share certificate in respect of the relative shares, he shall make an appropriate entry on the share certificate to evidence the cancellation of the settlement.
+(8) Upon the cancellation as aforesaid of a settlement as to any property, that property shall cease to be settled under this Act.
+(9) Except as provided in section 11 of this Act, the cancellation of a settlement as to any property shall not affect any estate or interest of any owner or other person in that property, or any mortgage, charge, or encumbrance over that property at the time of cancellation.
+
+### 11 Vesting of property and proceeds
+(1) Where the husband and wife on whom property is settled under this Act are both living and the settled property is sold, transferred, or otherwise disposed of, the net proceeds (if any) arising from that sale, transfer, or other disposition shall vest in the husband and wife in equal shares.
+(2) Where the husband and wife on whom property is settled under this Act are both living and have not previously ceased to be the legal and beneficial owners of the property, the property shall, upon the cancellation of the settlement, vest in the husband and wife as tenants in common in equal shares without transfer or conveyance, but subject to all mortgages, charges, encumbrances, estates, and interests affecting the settled property when the settlement is cancelled and, if the husband or the wife only was the settlor, to all obligations incurred pursuant to section 9(1)(c) of this Act.
+(3) Notwithstanding subsection (1) of this section, if,—the net proceeds (if any) from the sale, transfer, or other disposition of the settled property shall vest in the settlor or, as the case may require, vest in the settlors in the same proportions as were their respective interests in the property immediately before it was settled.
+  (a) The husband and wife on whom property is settled under this Act are both living and have sold, transferred, or otherwise disposed of the settled property; and
+  (b) Only the husband or the wife was the settlor of the property; or
+  (c) The husband and the wife were the settlors of the property as tenants in common in unequal shares; and
+  (d) A notice of consent in a form prescribed by regulations made under this Act is signed by both the husband and the wife—
+(4) Notwithstanding subsection (2) of this section, if, upon the cancellation of a settlement as to any property,—the property shall, without transfer or conveyance but subject to all mortgages, charges, encumbrances, estates, and interests affecting the property when the settlement is cancelled, revest in the settlor or, as the case may require, revest in the settlors in the same proportions as if it had not been settled.
+  (a) The husband and wife on whom the property was settled are both living and have not previously ceased to be the legal and beneficial owners of the property; and
+  (b) Only the husband or the wife was the settlor of the property; or
+  (c) The husband and the wife were the settlors of the property as tenants in common in unequal shares; and
+  (d) A notice of consent in a form prescribed by regulations made under this Act is signed by both the husband and the wife—
+(5) For the purposes of section 6(2) of the Matrimonial Property Act 1963, a notice of consent under either subsection (3) or subsection (4) of this section shall not of itself constitute an expression of common intention between the husband and the wife who have signed it.
+
+### 12 Cancellation of settlement as to shares
+(1) Upon the cancellation of a settlement as to any lease or licence granted by a flat-owning company, the following provisions shall apply:
+  (a) The Registrar shall, in writing addressed to the Secretary of the company concerned and sent to the registered office of the company, advise the company of the cancellation, of the numbers of the relative shares affected by the cancellation, and of the person or persons in whom the lease or licence has consequently vested under section 11 of this Act, and shall request the company to register the said person or persons as the holder or holders of the shares in accordance with paragraph (b) of this subsection, no longer subject to the provisions of this Act:
+  (b) On receipt of any such written advice the company shall,—
+    (i) Where any change in the name or names of the registered holder or holders of the relative shares is involved, register the person or persons named in the advice as the registered holder or holders of the shares, and issue a share certificate in his, her, or their name or names in respect of the shares:
+    (ii) Cancel any endorsement that may have been made pursuant to section 8 of this Act on the office duplicate of the relative lease or licence, and any endorsement that the shares are held subject to this Act.
+(2) In a case where a company fails to comply with subsection (1) of this section,—
+  (a) The company commits an offence and is liable on summary conviction to a fine not exceeding $1,000:
+  (b) Every director of the company commits an offence and is liable on summary conviction to a fine not exceeding $1,000, unless the director shows that—
+    (i) The company took all reasonable and proper steps to ensure that the requirements of that subsection would be complied with; or
+    (ii) He or she took all reasonable steps to ensure that the company complied with the requirements of that subsection; or
+    (iii) In the circumstances he or she could not reasonably have been expected to take steps to ensure that the company complied with the requirements of that subsection.
+
+### 12A Portability of registration in certain cases
+(1) In this section—
+  - **Date of disposition** , in relation to the disposition of any land which is settled as a joint family home, means the date on which possession of the land is given and taken in respect of that disposition
+  - **Disposition** , in relation to any land which is settled as a joint family home, means any sale, transfer, conveyance, assignment, or other alienation of that land, whether by agreement or by force of law
+  - **Net proceeds of disposition** means the consideration for any disposition of land settled as a joint family home less the amount of any costs, expenses, or other payments which are made in association with the disposition and are met from the consideration
+  - **Previous settlement** means any land settled as a joint family home which is the subject of a disposition where the date of such disposition is relevant in relation to an application to settle other land under subsection (2) of this section.
+(2) Where, within 6 months after the date of disposition of any land settled as a joint family home, the husband and wife on whom the land was settled or, if the husband or the wife had died before that date, the survivor of them on whom the land was settled, apply in the prescribed manner to the Registrar to register the settlement of other land as a joint family home, and, if the Registrar is satisfied that the relevant conditions have been complied with, then, subject to this section, the Registrar shall cause a memorandum to be entered on the appropriate instruments of title as prescribed in section 7(1) of this Act in the manner so prescribed, except that the memorandum shall specify—
+  (a) The husband and wife or, as the case may require, the survivor of them, on whom the land is settled; and
+  (b) The date on which the memorandum is entered; and
+  (c) The date on which the previous settlement was cancelled; and
+  (d) The effective date of the settlement, which shall be deemed to be the date of settlement of the previous settlement.
+(3) All the provisions of this Act, except section 3(1)(b) and section 5(5), shall apply with respect to any application to the Registrar made under subsection (2) of this section.
+(4) Subject to subsection (3) of this section, all the provisions of this Act shall apply to any memorandum entered by the Registrar pursuant to subsection (2) of this section as if it were entered by him pursuant to section 7(1) of this Act, except that—
+  (a) Where the land to which the application relates is settled on the survivor of the husband and wife on whom the previous settlement was settled, the provisions of this Act shall where necessary be modified accordingly:
+  (b) Where, for the purposes of this Act, any period of time is to be calculated from the effective date of settlement of any land settled under this section, that period shall be calculated without regard to any period that may elapse between the date of the cancellation of the previous settlement and the date specified on the memorandum pursuant to subsection (2)(b) of this section.
+(5) For the purposes of subsection (2) of this section, the relevant conditions shall be—
+  (a) That the disposition of the land settled as a joint family home was for a fully adequate consideration in money or money's worth payable to the persons or person on whom the land was settled; and
+  (b) If as at the date of disposition any of those persons was not an undischarged bankrupt, that the share of each of those persons in the net proceeds of disposition was not intermingled with any other property and was applied, or, as the case may require, a sufficient equal part of each share was applied, in or towards the acquisition of the land for which the application to settle is being made; or
+  (c) If as at the date of disposition any of those persons was an undischarged bankrupt, that—
+    (i) The share of that undischarged bankrupt in the net proceeds of disposition was, as soon as practicable after the date of disposition, given to the Official Assignee of the property of the bankrupt to be applied in accordance with subsection (6) of this section; and
+    (ii) The share (if any) of the undischarged bankrupt's spouse (if any) in the net proceeds of disposition were dealt with as provided in paragraph (b) of this subsection.
+(6) Notwithstanding anything to the contrary in the Insolvency Act 1967, no part of any net proceeds of disposition given to the Official Assignee of an undischarged bankrupt pursuant to subsection (5)(c)(i) of this section shall, at the time when it was so given, form part of the estate of the bankrupt as administered by the Assignee, but shall be invested by the Assignee in some savings bank or banks and, at the request of the undischarged bankrupt, shall, together with any interest thereon, be applied, or a sufficient part of such net proceeds of disposition and interest shall be applied, in or towards the acquisition of the land for which the application to settle is being made.
+(7) For the purposes of subsection (6) of this section, an Official Assignee shall not apply a greater amount of any net proceeds of disposition and interest towards the acquisition of any land than the amount so applied by the spouse (if any) of the undischarged bankrupt pursuant to subsection (5)(b) of this section.
+(8) Any net proceeds of disposition, and any interest thereon, remaining in the hands of an Official Assignee at the expiry of the period of 6 months after the date of disposition of the land to which those net proceeds relate shall form part of the estate of the undischarged bankrupt to whom those net proceeds would otherwise belong.
+
+### 13 Power of Court to rectify share register
+The provisions of section 124 of the Companies Act 1955, or section 91 of the Companies Act 1993, as the case may be, shall apply to any action of, or omission by, the company in complying with the requirements of section 12 of this Act.
+
+### 14 Home not relieved from being taken compulsorily
+Nothing in this Act shall prevent any joint family home, or any part thereof, from being taken compulsorily under any Act providing for the compulsory taking of land.
+
+### 15 Home not relieved from certain liabilities
+Nothing in this Act shall relieve any property that is for the time being settled under this Act from any liability which, if this Act had not been passed, would from time to time attach thereto in respect of—
+  (a) The erection and maintenance in connection with the joint family home of boundary fences under any Act for the time being in force; or
+  (b) Burdens and obligations imposed on the joint family home under any Act charging it with the cost or any part of the cost of anything done pursuant to that Act; or
+  (c) The payment of rates, taxes, and burdens levied or imposed for the time being on the joint family home under any Act, or authorised to be so levied or imposed by any local authority or other body; or
+  (d) Liens on the joint family home under the Wages Protection and Contractors' Liens Act 1939:
+    Provided that no sale of any settled property for default in complying with any such liability shall take place unless and until execution against the goods and other lands of the person primarily liable has been returned unsatisfied.
+
+### 16 Rights of creditors
+(1) Subject to the provisions of this section, the High Court, on an application in respect of any settled property made by any creditor or assignee in bankruptcy who may benefit in consequence, and after notice has been given to the owner or owners of the settled property, may—
+  (a) Direct the cancellation of the settlement as to any part of the settled property which is not essential in connection with the dwellinghouse or flat in which the owner or owners thereof reside and have their home:
+    Provided that no such direction shall be given without the consent of the owner or owners of the settled property if the effect of the cancellation will be to reduce to the specified sum or less the net value of the property which remains settled as that value is determined under section 20 of this Act:
+  (b) Direct a mortgage or sale of the whole of the settled property and a distribution of the money borrowed or of the proceeds of sale in accordance with section 17 of this Act:
+    Provided that, unless the owner or owners consent to a greater sum being borrowed, the greatest sum which may be so borrowed shall be the amount of the specified sum less than the said net value of the settled property or the amount determined under subsection (3) of this section, whichever amount is the greater.
+(2) No application to the High Court under subsection (1) of this section shall be made, unless—
+  (a) The said net value of the settled property exceeds the specified sum at the date of the application; or
+  (b) Within 2 years of the date of the application, the husband and wife have, or either of them has,—
+    (i) Expended or provided more than $1,000 in total in erecting buildings on or otherwise improving the settled land; or
+    (ii) Acquired, or provided any money to acquire, any additional, new, substituted, or different estate or interest in the settled property; or
+  (c) Within 2 years of the date of the application, the husband and wife have, or either of them has, repaid or provided the money to repay any mortgage, charge, or encumbrance secured over the settled property in excess of the amount which that husband and wife or either of them is obliged to pay in accordance with the terms of the mortgage, charge or encumbrance:
+    Provided that, where the High Court, having regard to the nature of the security and all other relevant circumstances, is satisfied that the terms of any mortgage, charge, or encumbrance so repaid are unusual in that they give rise to a reasonable inference that they have been arranged to defeat, or to attempt to defeat, the rights of any creditor or creditors, the Court may accept an application made under subsection (1) of this section.
+(3) The amount which, by paragraph (b) of subsection (1) of this section, is required to be determined under this subsection shall be equal to the total of—
+  (a) The amount of the sums which, within 2 years of the application to the High Court under this section, the husband and wife have, or either of them has, expended or provided in erecting buildings on or otherwise improving the settled land, except—
+    (i) So much thereof as has been borrowed on the security of any mortgage, charge, or encumbrance to which paragraph (b) of this subsection relates; or
+    (ii) Where there has been no such borrowing, the first $1,000 of the sums so expended or provided; and
+  (b) The amount of the sums which, within that period, the husband and wife have, or either of them has,—
+    (i) Expended in repaying or provided to repay any mortgage, charge, or encumbrance secured over the settled property in excess of the amount which that husband and wife or either of them is obliged to pay in accordance with the terms of the mortgage, charge, or encumbrance:
+      Provided that all sums so repaid or provided shall be taken into account if, by reason of the proviso to subsection (2)(c) of this section, the High Court accepts an application made under subsection (1) of this section and directs a mortgage or sale of the settled property; and
+    (ii) Expended or provided in acquiring any additional, new, substituted, or different estate or interest in the settled property.
+(4) On directing any such cancellation, mortgage, or sale the Court may give also all necessary or proper consequential directions.
+(5) In this section and in section 17(1)(c) of this Act, the expression the specified sum means $103,000 or such greater amount as the Governor-General by Order in Council may, for the time being, prescribe as the specified sum.
+(6) No Order in Council under subsection (5) of this section shall come into force within 2 years of the coming into force of any other Order in Council made under that subsection.
+
+### 17 Disposition of proceeds of sale or mortgage
+(1) On any such mortgage or sale on the direction of the High Court under section 16 of this Act the money borrowed or the proceeds of sale shall be paid to trustees appointed by the Court, and shall be held by the trustees upon trust,—
+  (a) In the event of a sale, to apply the proceeds in the discharge of all mortgages, charges, and encumbrances affecting the settled property:
+  (b) In the event of either a mortgage or sale, to pay out of the money borrowed or the balance of the proceeds of sale—
+    (i) All costs and expenses arising out of, or incurred in connection with, the mortgage or sale and the administration of the money borrowed or the proceeds of sale, but not any costs or expenses arising out of or incurred in connection with the administration of the sum mentioned in paragraph (c) of this subsection after that sum has been set aside as provided in that paragraph; and
+    (ii) All gift duty which becomes payable in consequence of the mortgage or sale, other than gift duty in respect of a gift out of the sum set aside under paragraph (c) of this subsection:
+  (c) In the event of a sale, to set aside out of the balance of the proceeds of sale not applied as aforesaid either the specified sum (as defined in section 16(5) of this Act) or the amount determined under subsection (2) of this section, whichever sum is the lesser; and to hold the sum so set aside upon the trust set out in section 18 of this Act:
+  (d) In the event of either a mortgage or sale to hold the balance of the money borrowed or of the proceeds of sale not applied as aforesaid upon the trusts set out in section 19 of this Act.
+(2) The amount which, by paragraph (c) of subsection (1) of this section, is required to be determined under this subsection shall be ascertained by deducting from the amount of the proceeds of sale—
+  (a) The amount which, under paragraph (a) of subsection (1) of this section, is applied in the discharge of mortgages, charges, and encumbrances affecting the settled property; and
+  (b) The amount determined under subsection (3) of section 16 of this Act.
+
+### 18 Trusts relating to protected money derived from sale or mortgage
+(1) Any sum which is set aside under paragraph (c) of subsection (1) of section 17 of this Act shall be held by the trustees upon trust—
+  (a) To set aside for each of the persons on whom the property was settled the portion of that sum to which that person would have been entitled if the sale had occurred following a cancellation of the settlement under paragraph (a) of subsection (1) of section 10 of this Act and while the property was vested in the person or persons in whom it would vest, revest, or remain vested on the cancellation of the settlement:
+  (b) To pay out of the money set aside under this subsection for each person all costs and expenses arising out of or in connection with the administration of that money after it has been set aside under paragraph (c) of subsection (1) of section 17 of this Act:
+  (c) To pay or transfer the balance of the money set aside under this subsection for each person and any investments representing that balance or any part of that balance to that person or, if that person so directs, to the other person on whom the property was settled:
+    Provided that, if the person entitled to that balance and to the investments so directs, the trustees shall postpone the payment or transfer thereof during such period or periods as that person directs, and shall from time to time invest any money forming part of that balance in their names in such manner as that person may direct.
+(2) While any money which is set aside by trustees for any person under subsection (1) of this section is held by the trustees,—
+  (a) The money and investment shall not pass by bankruptcy, or be liable to be seized, attached, or taken in execution by process of law; and
+  (b) The money and investments or any part thereof may be given by the person for whom the money and investments are held to the other person on whom the property was settled, notwithstanding that the gift may defeat the claims of creditors of the donor.
+
+### 19 Trusts relating to unprotected money derived from sale or mortgage
+The money which under paragraph (d) of subsection (1) of section 17 of this Act is required to be held in accordance with the trusts set out in this section shall be held by the trustees upon trust—
+  (a) To set aside for each of the persons on whom the property was settled the portion of that money to which that person would have been entitled if the mortgage or sale had occurred following a cancellation of the settlement under paragraph (a) of subsection (1) of section 10 of this Act and while the settled property was vested in the person or persons in whom it would vest, revest, or remain vested on the cancellation of the settlement:
+  (b) To apply the money set aside for each person in payment of such of the debts of that person as the Court may specify:
+  (c) To pay the balance of the money set aside for each person to that person.
+
+### 20 Valuation of settled property
+(1) For the purposes of section 16 of this Act the net value of any settled property shall be the amount of the capital value within the meaning of the Rating Valuations Act 1998 of the land included in the settlement, plus the amount of the value which any relative shares may have independent of the land with which they are settled, less the amount by which the High Court considers that value is reduced by reason of mortgages, charges, liens, and encumbrances over the settled property or any part thereof. For the purposes of this subsection the said value of any such shares shall be assessed by a competent valuer acceptable to all the persons concerned, or (failing their agreement) appointed by the Court; and mortgages, charges, liens, and encumbrances in respect of the shares shall not be taken into account in fixing the value thereof for the purposes of this subsection:
+  Provided that, instead of requiring the Court to appoint a valuer, the persons concerned may agree to the said value being assessed under the provisions of the Arbitration Act 1908.
+(2) On the application of the owner or owners of any settled property or of any person entitled to make an application to the Court under section 16 in respect of any such property, and on payment of such fee as may be required by the registered valuer concerned, it is the duty of the President of the New Zealand Institute of Valuers to nominate a registered valuer to make a valuation of the settled land or any part of it at such date as the applicant or applicants may specify, and to give to the applicant or applicants a certificate setting forth the date at which the valuation is made, the area and description of the land to which the certificate relates, and the capital value of the land within the meaning of the Rating Valuations Act 1998. Where the applicant for the certificate is not an owner of the land, the registered valuer, when giving the certificate to the applicant, is to give a like certificate to the owner or owners of the land.
+(3) In any case where it is necessary for a valuation of any land to be made by a valuer in connection with a valuation of shares that is being made in accordance with subsection (1), the valuation of the land is to be made by a registered valuer nominated by the President of the New Zealand Institute of Valuers for the purpose. Where application for the valuation of any such land is made to the New Zealand Institute of Valuers by the valuer of any such shares, and payment is made to the registered valuer of an appropriate fee, and the registered valuer is supplied with such information as he or she may require, it is the duty of the registered valuer to make a valuation of the land at such date as the applicant may specify, and to give a certificate setting forth the date as at which the valuation is made, the area and description of the land to which the certificate relates, and the capital value of the land within the meaning of the Rating Valuations Act 1998, to—
+  (a) The applicant for the certificate; and
+  (b) The owner or owners of the shares; and
+  (c) Every person at whose request the valuation of the shares is being made.
+(4) Where a registered valuer is required to give a certificate to any person under the foregoing provisions of this section, he may do so by sending it by post in a registered letter addressed in the case of the owner or owners of the joint family home to the said owner or owners at the joint family home, and in the case of any other person to that person at such address as may be specified by the applicant for the valuation. Where any such certificate is sent by post as aforesaid it shall be deemed to have been received by the owner or owners of the land at the time at which the letter would have been delivered in the ordinary course of post.
+(5) Any person to whom any such certificate is given pursuant to the provisions of this section may object to the valuation, by notice in writing delivered to the registered valuer within one month after that person receives or is deemed to receive that certificate.
+(5A) Any such objection is to be heard and determined as if it were an objection under Part 4 of the Rating Valuations Act 1998, and sections 34, 35, 36, and 38 of that Act (and any regulations made under that Act relating to reviews and objections), as far as they are applicable and with all necessary modifications, are to apply to the objection as if—
+  (a) The registered valuer had been appointed by a territorial authority to review the objection; and
+  (b) The review had been made under section 34 of that Act; and
+  (c) The references to a territorial authority in sections 34(4), 35, and 36 of that Act were references to the registered valuer.
+(5B) Where a valuation is varied as a result of any such objection the registered valuer must give an amended certificate to each person to whom he or she gave the original certificate.
+(6) Unless it is shown that the valuation to which any such certificate refers has been varied as a result of any objection as aforesaid, the certificate shall for the purposes of section 16 of this Act be conclusive evidence of the matters therein set forth as aforesaid.
+
+### 21 Exemptions from gift duty
+(1) The following dispositions of property shall not constitute dutiable gifts for the purposes of the Estate and Gift Duties Act 1968:
+  (a) Subject to subsection (2) of this section, any settlement:
+  (b) Upon the cancellation of a settlement under paragraph (a), paragraph (c), paragraph (d), paragraph (e), or paragraph (f) of section 10(1) of this Act while the husband and wife are both living,—
+    (i) Any vesting of the property in the husband and wife as tenants in common in equal shares:
+    (ii) Any vesting of the net proceeds of the sale, transfer, or other disposition of the property in the husband and wife in equal shares:
+    (iii) Any vesting of the net proceeds of the sale, transfer, or other disposition of the property in the sole settlor or, as the case may require, in the settlors pursuant to section 11(3) of this Act:
+    (iv) Any revesting of the property in the sole settlor or, as the case may require, in the settlors pursuant to section 11(4) of this Act:
+  (c) Any release or repayment by a joint owner of a joint family home of any money which was charged on the settled property or any part of it at the time of settlement, or any payment made by any such joint owner for the purpose of improving the joint family home, or of acquiring any additional, new, substituted, or different estate or interest in the joint family home.
+(2) Subsection (1)(a) of this section shall not apply to any settlement where—
+  (a) The husband and wife on whom the property is settled have, prior to the date of the settlement, been the joint tenants under this Act of any other settled property the settlement of which has been cancelled; and
+  (b) The Commissioner of Inland Revenue is not satisfied that—
+    (i) The husband and wife contributed in substantially equal shares towards the purchase of the present settled property; or
+    (ii) If the husband and wife did not contribute in substantially equal shares, the contribution made by each spouse was equivalent to, or in the same proportion as, the share or interest to which each spouse was entitled on the cancellation of the previous settlement or, where there has been more than one such previous settlement, of the immediately preceding settlement.
+
+### 22 Exemptions from estate duty
+[Repealed]
+
+### 23 Exemptions from stamp duty
+[Repealed]
+
+### 24 Registration fees
+(1)
+(2) Where any application to settle any property under this Act has been lodged with the Registrar either before or after the commencement of this section and for any reason whatsoever the Registrar has not signed the memorandum necessary to cause the property to be so settled and is satisfied that he will not thereafter sign such a memorandum, the Registrar may refund to the person or persons who made the application the whole or such part as he thinks fit of the fees paid to the Registrar by that person or those persons in respect of the lodging or advertising of the application or in anticipation of the settlement; and the amount so refunded shall be paid out of the Crown Bank Account without further appropriation than this section.
+
+### 25 Settlements of Maori land
+(1) Notwithstanding anything to the contrary in Part 19 of the Maori Affairs Act 1953, no settlement as a joint family home of Maori land within the meaning of that Act shall require confirmation, but no application for the settlement of any such land shall be accepted by the Registrar unless it bears an endorsement by the Registrar of the Maori Land Court to the effect that the application has been recorded in the records of the Maori Land Court.
+(2) Where Maori land is settled as a joint family home, the provisions of this Act relating to the sale, transfer, mortgage, charge, lease, or disposition of the joint family home shall, subject to the provisions of the Maori Affairs Act 1953, apply to that land.
+
+### 26 Regulations
+The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+  (a) Prescribing the forms to be used for the purposes of this Act:
+  (b) Prescribing the method of settlement under this Act:
+  (c)
+  (d) Providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration thereof.
+
+### 27 Repeals, amendments, and savings
+(1) The enactments specified in the Schedule to this Act are hereby repealed.
+(2)
+(3) Where any land was a joint family home immediately before the commencement of this Act, it shall, on the commencement of this Act, be deemed to have been settled as a joint family home in accordance with the provisions of this Act and as if this Act had been in force when the settlement was made.
+
+## Schedule Schedule — Enactments repealed
