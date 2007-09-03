@@ -118,15 +118,13 @@ In exercising or performing any power or function under this Act, every person m
 (4)
 
 ### 9 Deputy Commissioners
-(1) A Deputy Commissioner may be appointed in the same way as the Commissioner is appointed.
-(2)
-(3) Sections 10 to 13 apply to every Deputy Commissioner in the same manner as they apply to the Commissioner.
-(4)
-(5) A delegation under subsection (4) may be subject to any stated restrictions or conditions.
-(6) In the case of absence from duty of the Commissioner (from any cause) or on the occurrence of a vacancy in the office of Commissioner (whether because of death, resignation, or otherwise) and from time to time while the absence or vacancy continues, all or any of the powers, duties, and functions of the Commissioner may be exercised and performed by—
-  (a) a Deputy Commissioner who has, before the occurrence of the absence or vacancy, been nominated for the purpose by the Commissioner by a written notice that is in effect at the time of the absence or vacancy; or
-  (b) if there is no such notice at that time, by the Deputy Commissioner longest in that office.
-(7) The fact that a Deputy Commissioner exercises any power, duty, or function under this section is, in the absence of proof to the contrary, sufficient evidence of his or her authority to do so.
+(1) One or more Deputy Health and Disability Commissioners may be appointed in the same way as the Commissioner is appointed, except that the Minister must consult the Commissioner before recommending a person for appointment as a Deputy Commissioner.
+(2) A Deputy Commissioner has any powers, duties, and functions that—
+  (a) the Commissioner delegates to the Deputy Commissioner under section 68(3A); and
+  (b) the Deputy Commissioner may exercise and perform under subsection (3).
+(3) During the absence of the Commissioner from duty (for any reason) or a vacancy in the office of the Commissioner (for any reason), the powers, duties, and functions of the Commissioner may be exercised and performed by—
+  (a) the Deputy Commissioner who was nominated for the purpose by the Commissioner before the absence or vacancy by a written notice that is in force at the time of the absence or vacancy; or
+  (b) if there is no such notice, the Deputy Commissioner who has been Deputy Commissioner for the longest time.
 
 ### 10 Qualifications for appointment
 (1) No person shall be recommended for appointment as the Commissioner unless, in the opinion of the Minister, the person is qualified for appointment, having regard to the following matters:
@@ -671,7 +669,7 @@ The Commissioner shall not, in any report or recommendation made or published un
 
 ### 68 Delegation of functions and powers
 (1)
-(2) The Commissioner may not delegate—
+(2) The Commissioner may not delegate to any person other than a Deputy Commissioner—
   (a)
   (b) The functions of the Commissioner under Part 2 of this Act; or
   (c) The power to designate any person under section 15(1) or section 24(1) of this Act, or to revoke any such designation; or
