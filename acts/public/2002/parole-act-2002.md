@@ -1,0 +1,1659 @@
+# Parole Act 2002
+_Consolidation as at 2007-09-03_
+
+### 1 Title
+This Act is the Parole Act 2002.
+
+### 2 Commencement
+(1) This Act, except section 99, comes into force on a date to be appointed by the Governor-General by Order in Council.
+(2) Section 99 comes into force on the day after the date on which this Act receives the Royal assent.
+
+## Part 1 — Parole and other release from detention
+
+### Subpart 1 — Preliminary provisions relating to parole and other release from detention
+
+### 3 Purpose
+The purpose of this Act is to reform the law relating to the release from detention of offenders serving sentences of imprisonment, and to replace the provisions of Parts 4 and 6 of the Criminal Justice Act 1985.
+
+### 4 Interpretation
+(1) In this Act, unless the context otherwise requires,—
+  - **Board** means the New Zealand Parole Board established under section 108; and includes a panel of the Board, a panel convenor, and the chairperson acting within their respective jurisdictions
+  - **chairperson** means the chairperson of the Board appointed under section 112
+  - **chief executive** means the chief executive of the Department of Corrections
+  - **commencement date** means the date specified in section 2(1)
+  - **compassionate release** means release under section 41
+  - **detention conditions** means the standard detention conditions and any special conditions imposed by the Board on an offender who is on home detention
+  - **determinate sentence** means a sentence of imprisonment for a fixed term
+  - **epidemic management notice** means a notice under section 8(1) of the Epidemic Preparedness Act 2006 stating that the application of this Act is modified in order to deal with the practical effects of the outbreak of the disease referred to in the notice
+  - **extended supervision order** means an order made under section 107I
+  - **final recall order** means a final recall order made under section 66
+  - **final release date** means the final release date of a pre-cd sentence, or the final release date of an offender who is subject to a pre-cd sentence, as determined under Parts 4 and 6 of the Criminal Justice Act 1985 and varied (if applicable) under section 106 of this Act
+  - **home detention** means detention under a sentence of imprisonment in a residence (including a marae)
+  - **hospital** means a hospital within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992
+  - **indeterminate sentence** means a sentence of imprisonment that is imprisonment for life or preventive detention
+  - **initial period**
+  - **interim recall order** means an interim recall order made under section 62
+  - **key date** , in relation to a sentence of imprisonment, means the start date, sentence expiry date, and release date of the sentence
+  - **long-term sentence** means a sentence of imprisonment that is—
+    (a) a determinate sentence of more than 24 months imposed on or after the commencement date; or
+    (b) a notional single sentence of more than 24 months; or
+    (c) an indeterminate sentence imposed before, on, or after the commencement date; or
+    (d) in the case of a pre-cd sentence, a sentence of more than 12 months
+  - **non-parole period** means the term within, or proportion of, a long-term sentence during which the offender who is subject to the sentence is not eligible to be released on parole from the sentence
+  - **non-release day** means a Thursday, a Friday, a Saturday, a Sunday, Christmas Day, Boxing Day, New Year's Day, the second day of January, Waitangi Day, Easter Monday, Anzac Day, the Sovereign's Birthday, Labour Day, and, in respect of release from a particular place, the anniversary day of the region in which that place is situated
+  - **notional single sentence** means the notional single sentence of imprisonment that is created when one determinate sentence is directed to be served cumulatively on another determinate sentence (seesection 75)
+  - **parole eligibility date** means the date on and after which an offender who is subject to 1 or more long-term sentences of imprisonment is eligible to be released on parole (seesection 20)
+  - **parole guidelines**
+  - **penal institution**
+  - **postponement order** means an order made under section 27 that postpones the date of an offender's next parole hearing
+  - **pre-cd sentence** means a sentence of imprisonment that is imposed before the commencement date
+  - **prison** means a prison established or deemed to be established under the Corrections Act 2004.
+  - **release conditions** means the standard release conditions and any special conditions imposed by the Board or the sentencing court and that apply to an offender released from detention
+  - **release date** means, in relation to a determinate sentence of imprisonment, the date on which the offender who is subject to the sentence ceases to be liable to be recalled to continue serving that sentence in a prison (seesections 86 and 87)
+  - **residential restrictions**
+  - **secure facility** means a secure facility within the meaning of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003.
+  - **sentence expiry date** means the date on which the offender who is subject to the sentence has served its full term and therefore ceases to be subject to it (seesections 82 and 83)
+  - **sentence of imprisonment** —
+    (a) includes, in relation to a pre-cd sentence, preventive detention and corrective training; but
+    (b) does not include a sentence of imprisonment imposed under the Armed Forces Discipline Act 1971, except in section 55
+  - **short-term sentence** means a sentence of imprisonment that is—
+    (a) a determinate sentence of 24 months or less imposed on or after the commencement date; or
+    (b) a notional single sentence of 24 months or less; or
+    (c) in the case of a pre-cd sentence, a sentence of 12 months or less
+  - **special conditions** means conditions of a type referred to in section 15(3)
+  - **standard detention conditions** means the standard conditions of detention applying to home detention, as set out in section 36(2)
+  - **standard extended supervision conditions**
+  - **standard release conditions** means the standard conditions of release set out in section 14
+  - **start date** , in relation to a sentence of imprisonment, means the date on and from which an offender who is subject to the sentence begins to be subject to it (seesections 76 to 81)
+  - **statutory release date** means the date on which an offender who is subject to 1 or more sentences of imprisonment—
+    (a) must be released from detention (seesection 17); and
+    (b) ceases to be liable to be recalled to continue serving any sentence in a prison (seesections 59 to 66)
+  - **variation** , in relation to the variation by the Board of release conditions or detention conditions, includes the suspension and addition of conditions, and the variation of their duration
+  - **victim** means (unless provided otherwise), in relation to an offender, a person who has asked for notice or advice and copies, and has given his or her current address, under section 31 of the Victims' Rights Act 2002.
+(2) In this Act, a reference to section 2 of the Criminal Justice Act 1985, or to Part 4 or Part 6 (or any provision within those Parts) of the Criminal Justice Act 1985, is a reference to that section, Part, or provision as it was immediately before the commencement date.
+(3)
+(4)
+
+### 5 Act binds the Crown
+This Act binds the Crown.
+
+### Subpart 2 — Release
+
+**General provisions**
+
+### 6 Overview of release
+(1) This section is intended to give a broad overview of how and when offenders are released from detention. It does not confer rights or impose obligations and, if there is an inconsistency between this section and any other, the other section prevails.
+(2) Unless an offender has been released earlier under this Part, he or she must be released from detention on his or her statutory release date, and after that is no longer subject to recall. However, offenders may be subject to release conditions after their statutory release date.
+(3) This subpart provides for 3 types of early release from a prison—
+  (a) parole:
+  (b) home detention:
+  (c) compassionate release.
+(4) Parole has the following characteristics:
+  (a) it is available only to an offender who is subject to a long-term sentence:
+  (b) it is granted by the Board, which also imposes release conditions:
+  (c) an offender on parole from a determinate sentence is subject to recall at any time until his or her statutory release date:
+  (d) an offender on parole from an indeterminate sentence is subject to recall for life.
+(5) Home detention has the following characteristics:
+  (a) the offender is detained at a residence (rather than in a prison) on detention conditions imposed by the Board:
+  (b) the offender is not in custody, and his or her social welfare entitlements are the same as if he or she were not detained:
+  (c) if the offender is serving a short-term sentence, he or she may apply to the Board for home detention only if the court has granted the offender leave to apply:
+  (d) if the offender is serving a long-term determinate sentence, he or she may apply to the Board for home detention before his or her parole eligibility date, and may be released up to 3 months before that date.
+(6) Compassionate release has the following characteristics:
+  (a) it may be granted by the Board in either of 2 specific circumstances:
+  (b) the Board may impose release conditions, and may recall the offender.
+
+### 7 Guiding principles
+(1) When making decisions about, or in any way relating to, the release of an offender, the paramount consideration for the Board in every case is the safety of the community.
+(2) Other principles that must guide the Board's decisions are—
+  (a) that offenders must not be detained any longer than is consistent with the safety of the community, and that they must not be subject to release conditions or detention conditions that are more onerous, or last longer, than is consistent with the safety of the community; and
+  (b) that offenders must be provided with information about decisions that concern them, and be advised how they may participate in decision-making that directly concerns them; and
+  (c) that decisions must be made on the basis of all the relevant information that is available to the Board at the time; and
+  (d) that the rights of victims (as defined in section 4 of the Victims' Rights Act 2002 are upheld, and submissions by victims (as so defined) and any restorative justice outcomes are given due weight.
+(3) When any person is required under this Part to assess whether an offender poses an undue risk, the person must consider both—
+  (a) the likelihood of further offending; and
+  (b) the nature and seriousness of any likely subsequent offending.
+
+### 8 Part applies to all offenders
+(1) This Part applies to all offenders who are subject to a sentence of imprisonment, including (without limitation) offenders who, on the commencement date, are subject to a pre-cd sentence and who (for instance)—
+  (a) are eligible for parole; or
+  (b) are to be released under section 104 at their final release date; or
+  (c) are under consideration for release on parole or for home detention; or
+  (d) are on parole or home detention, or have been given early release under section 94 of the Criminal Justice Act 1985; or
+  (e) are subject to an application for a recall order, or to an interim recall order or a recall order.
+(2) Every decision about, or in any way relating to, the release of an offender that is made after the commencement date must be made under this Part unless specifically provided otherwise.
+(3) This Part does not in itself affect the validity of any decision made under Parts 4 or 6 of the Criminal Justice Act 1985 about, or in any way relating to, the release of an offender.
+
+### 9 Application of Part to persons subject to term of imprisonment
+(1) Unless specifically provided otherwise, this Part applies to every person who is subject to a term of imprisonment (whether by committal, sentence, or order) for non-payment of a fine or other sum of money, disobedience of a court order, or contempt of court, as if—
+  (a) every reference to a sentence of imprisonment included a reference to a term of imprisonment; and
+  (b) every reference to an offender included a reference to a person who is subject to a term of imprisonment.
+(2) However, in relation to an offender who is subject to a term of imprisonment for non-payment of a fine or other sum of money, this Part is subject to section 19E of the Crimes Act 1961 and to section 91(1) and (5) of the Summary Proceedings Act 1957.
+
+### 10 Application to offenders detained in hospital or secure facility
+(1) This section applies to an offender who is detained in, or on leave from, a hospital or secure facility and who is liable to be detained—
+  (a) in the hospital following an application under section 45(2) of the Mental Health (Compulsory Assessment and Treatment) Act 1992 or under an arrangement under section 46 of that Act; or
+  (b) in the secure facility following an application under section 29(1) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; or
+  (c) in the hospital or the secure facility under an order under section 34(1)(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003.
+(2) An offender to whom this section applies must be treated for the purposes of this Part and Part 1A as if he or she were detained in a prison, and a reference to an offender detained in a prison is a reference to an offender detained in, or on leave from, a hospital or, as the case requires, a secure facility.
+(3) However, nothing in subsection (2) derogates from any provision that applies specifically to offenders to whom this section applies, and the Board and the chief executive may make special arrangements for such offenders.
+(4) When an offender to whom this section applies is released under this Part, he or she must be treated in accordance with section 48(3) of the Mental Health (Compulsory Assessment and Treatment) Act 1992 or, as the case requires, section 69(3) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003.
+
+### 11 Application of Part to offenders detained in social welfare residence
+This Part applies to every offender detained under section 142A of the Criminal Justice Act 1985 in a residence approved for the purpose of that section as if the offender were detained in a prison, and a reference to an offender detained in a prison is a reference to an offender detained in such a residence.
+
+### 12 This Part subject to other orders
+For the avoidance of doubt, a requirement in this Part that an offender be released from detention at a certain time is subject to any order of a court or other authority of competent jurisdiction that the offender be detained.
+
+### 13 General rules about information to be given to offenders
+(1) The Board must take all reasonable steps to ensure that the information received by the Board on which it will make any decision relating to an offender is made available to the offender—
+  (a) at least 5 working days before the relevant hearing; or
+  (b) if that is not possible, as soon as practicable before the hearing.
+(2) Despite subsection (1), the Board must ensure that—
+  (a) No information is given to the offender that discloses the address or contact details of any victim (as defined in section 4 of the Victims' Rights Act 2002 of the offender; and
+  (b) if any written submissions by a victim (as so defined) or any victim impact statements are shown to an offender, they are not retained by the offender.
+(3) Despite subsection (1), the Board may, in exceptional circumstances, order that any information referred to in that subsection not be made available to an offender if, in the opinion of the relevant panel convenor, it would prejudice the mental or physical health of the offender, or endanger the safety of any person.
+(4) Subsections (2) and (3) apply despite anything in the Official Information Act 1982 or the Privacy Act 1993.
+(5) Information withheld under subsection (3) may be provided to the offender's counsel.
+(5A)
+(6) Information provided or shown to an offender under this section must be used only for the purpose of assisting the offender to make submissions to the Board.
+(7) The Board must give a written copy of every order or determination to the offender who is the subject of the order or determination, along with information about how the offender may exercise any review or appeal rights that he or she has in relation to the order or determination.
+(8) Any person who publishes information provided under this section in a form that identifies, or enables the identification of, a victim (as defined in section 4 of the Victims' Rights Act 2002 commits an offence and is liable on summary conviction to,—
+  (a) in the case of an individual, a term of imprisonment not exceeding 3 months or a fine not exceeding $2,000; and
+  (b) in the case of a body corporate, a fine not exceeding $10,000.
+
+### 13AA Application for confidentiality order
+[Repealed]
+
+### 13AB Making of confidentiality order
+[Repealed]
+
+### 13AC Effect of confidentiality order
+[Repealed]
+
+### 13AD If confidentiality order not made
+[Repealed]
+
+### 13AE Variation or rescission of confidentiality order
+[Repealed]
+
+### 13A Procedure of Board during epidemic
+(1) While an epidemic management notice is in force, any decision or action that may or must be made or taken by the Board under this Act may, if the chairperson or a panel convenor is satisfied that it is desirable,—
+  (a) be made or taken by the Board on the basis of documents only, without the presence or submission of any person who would otherwise have the right to be present or make a submission; or
+  (b) be made or taken by the chairperson or the panel convenor, acting alone, either—
+    (i) in the usual way; or
+    (ii) on the basis of documents only, without the presence or submission of any person who would otherwise have the right to be present or make a submission.
+(2) Subsection (1) overrides every provision of this Act to the contrary.
+(3) The taking of a decision in accordance with subsection (1) is not an unattended hearing; and the provisions of this Act relating to unattended hearings (or to decisions on whether a hearing will be unattended or attended) do not apply to it.
+(4) If the notice applies to only stated parts of New Zealand, subsections (1) to (3) apply within those parts only.
+
+**Conditions**
+
+### 14 Standard release conditions
+(1) An offender who is subject to the standard release conditions must comply with the following conditions:
+  (a) the offender must report in person to a probation officer in the probation area in which the offender resides as soon as practicable, and not later than 72 hours, after release:
+  (b) the offender must report to a probation officer as and when required to do so by a probation officer, and must notify the probation officer of his or her residential address and the nature and place of his or her employment when asked to do so:
+  (c) the offender must not move to a new residential address in another probation area without the prior written consent of the probation officer:
+  (d) if consent is given under paragraph (c), the offender must report in person to a probation officer in the new probation area in which the offender is to reside as soon as practicable, and not later than 72 hours, after the offender's arrival in the new area:
+  (e) if an offender intends to change his or her residential address within a probation area, the offender must give the probation officer reasonable notice before moving from his or her residential address (unless notification is impossible in the circumstances) and must advise the probation officer of the new address:
+  (f) the offender must not reside at any address at which a probation officer has directed the offender not to reside:
+  (g) the offender must not engage, or continue to engage, in any employment or occupation in which the probation officer has directed the offender not to engage or continue to engage:
+  (h) the offender must not associate with any specified person, or with persons of any specified class, with whom the probation officer has, in writing, directed the offender not to associate:
+  (i) the offender must take part in a rehabilitative and reintegrative needs assessment if and when directed to do so by a probation officer.
+(2) The conditions in subsection (1)(c) to (f) do not apply if, and to the extent that, they are inconsistent with any special conditions imposed by the Board.
+(3) In this section, probation area means an area designated by the chief executive for the administration of release conditions, community-based sentences, or orders.
+
+### 15 Special conditions
+(1) If the Board imposes standard release conditions on an offender, or if the standard detention conditions apply to the offender, the Board may (subject to subsections (2) and (4)) impose any 1 or more special conditions on the offender.
+(2) A special condition must not be imposed unless it is designed to—
+  (a) reduce the risk of reoffending by the offender; or
+  (b) facilitate or promote the rehabilitation and reintegration of the offender; or
+  (c) provide for the reasonable concerns of victims of the offender.
+(3) The kinds of conditions that may be imposed as a special condition include, without limitation,—
+  (a) conditions relating to the offender's place of residence (which may include a condition that the offender reside at a particular place), or his or her finances or earnings:
+  (ab)
+  (b) conditions requiring the offender to participate in a programme (as defined in section 16) to reduce the risk of further offending by the offender through the rehabilitation and reintegration of the offender:
+  (c) conditions that the offender not associate with any person, persons, or class of persons:
+  (d) conditions requiring the offender to take prescription medication.
+  (e) conditions prohibiting the offender from entering or remaining in specified places or areas, at specified times, or at all times:
+  (f) conditions requiring the offender to submit to the electronic monitoring of compliance with any release conditions, or conditions of an extended supervision order, that relate to the whereabouts of the offender.
+(4) No offender may be made subject to a special condition that requires the offender to take prescription medication unless the offender—
+  (a) has been fully advised, by a person who is qualified to prescribe that medication, about the nature and likely or intended effect of the medication and any known risks; and
+  (b) consents to taking the prescription medication.
+(5) An offender does not breach his or her conditions for the purposes of section 71 if he or she withdraws consent to taking prescription medication, but the failure to take the medication may give rise to a ground for recall set out in section 61.
+
+### 15A Electronic monitoring
+(1) The purpose of an electronic monitoring condition (whether imposed as a special condition under section 15 or as a standard detention condition under section 36) is to deter the offender from breaching conditions that relate to his or her whereabouts, and to monitor compliance with those conditions.
+(2) For the purposes of the Privacy Act 1993, information about an offender that is obtained through electronic monitoring may be used both for the purposes referred to in subsection (1) and for the following purposes:—
+  (a) to verify compliance with any release conditions, detention conditions, or conditions of an extended supervision order:
+  (b) to detect non-compliance with any conditions and the commission of offences:
+  (c) to provide evidence of non-compliance with conditions and the commission of offences.
+  (d)
+(3) To avoid doubt, an offender who is subject to an electronic monitoring condition may be required to have equipment attached to his or her body.
+(4) The annual report of the Department of Corrections must include the following information about the use of electronic monitoring in the year reported on:
+  (a) the number of offenders who were at any time subject to an electronic monitoring condition:
+  (b) the average number of offenders who were subject to an electronic monitoring condition and the average duration of the condition:
+  (c) the percentage of offenders who, while subject to an electronic monitoring condition (other than as a standard detention condition while on home detention), were—
+    (i) convicted for a breach of the condition; or
+    (ii) convicted of any other offence; or
+    (iii) recalled to prison under an interim recall order or a final recall order:
+  (d) a description of processes and systems relating to electronic monitoring that were in place during the year reported on.
+
+### 16 Programmes
+For the purposes of section 15, a programme means any of the following:
+  (a) any psychiatric or other counselling or assessment:
+  (b) attendance at any medical, psychological, social, therapeutic, cultural, educational, employment-related, rehabilitative, or reintegrative programme:
+  (c) placement in the care of any appropriate person, persons, or agency, approved by the chief executive, such as (without limitation)—
+    (i) an iwi, hapu, or whanau:
+    (ii) a marae:
+    (iii) an ethnic or cultural group:
+    (iv) a religious group, such as a church or religious order:
+    (v) members or particular members of any of the above.
+
+**Release at statutory release date**
+
+### 17 Release at statutory release date
+(1) The statutory release date of an offender is the release date of the sentence to which the offender is subject (including any notional single sentences) that has the latest release date.
+(2) An offender who is detained in a prison or who is on home detention on his or her statutory release date must be released from detention on that date.
+
+### 18 Conditions applying to release at statutory release date
+(1) An offender who is released under section 17 at the release date of a short-term sentence is, on release, subject to any release conditions imposed by the court on that sentence unless subsection (3) or section 19 applies.
+(2) If an offender is released under section 17 at the release date of a long-term sentence, the Board—
+  (a) must impose the standard release conditions for a period of 6 months from the offender's statutory release date; and
+  (b) may impose any special conditions for a period of up to 6 months from the offender's statutory release date.
+(2AA)
+(2A) Subsection (2) applies to an offender in respect of whom an extended supervision order is made, in order to ensure that, if the offender is released early under section 52, he or she will be subject to release conditions before the extended supervision order comes into force.
+(3) If an offender who is subject to a long-term sentence is, while not on parole or compassionate release, sentenced within the year preceding his or her statutory release date to a short-term sentence whose release date is after that statutory release date, then, if the offender is released at the release date of the short-term sentence, that release date must be treated as if it were the release date of a long-term sentence.
+
+### 19 Special provision for offenders sentenced to short-term sentences while on parole
+(1) If an offender who is on parole is sentenced to a concurrent short-term sentence whose release date is before the offender's statutory release date, then (provided the offender is not recalled) the offender must be released from detention on the release date of the short-term sentence.
+(2) If subsection (1) applies except that the offender is subject to more than 1 short-term sentence, the offender must be released on the release date of the short-term sentence (including any short-term notional single sentence) that has the latest release date.
+(3) To avoid doubt, subsection (2) does not apply in respect of any short-term sentences that are imposed cumulatively if the resulting notional single sentence is a long-term sentence.
+(4) If an offender is released in accordance with subsection (1) or subsection (2),—
+  (a) the offender is released on parole under section 28 and the Board must impose release conditions under section 29 accordingly; but
+  (b) the actual date of release is determined under sections 51(2) and 52 as if the offender were being released at his or her statutory release date.
+(5) If for any reason an offender is released in accordance with subsection (1) or subsection (2) before the Board has imposed release conditions as required by subsection (4)(a), then,—
+  (a) if the offender was, at the start date of the sentence (or earliest applicable sentence), subject to any release conditions, the Board is deemed to have reimposed those release conditions for the remainder of the period for which they were originally imposed; and
+  (b) if the offender was not, at the start date of the sentence (or earliest applicable sentence), subject to release conditions, the offender is not subject to release conditions when he or she is released under subsection (1) or subsection (2).
+
+**Parole**
+
+### 20 Parole eligibility date
+(1) The parole eligibility date of an offender who is subject only to 1 or more sentences imposed on or after the commencement date is the date on which the offender—
+  (a) has finished serving the non-parole period of every long-term sentence to which he or she is subject; and
+  (b) has passed the release date of every short-term sentence to which he or she is subject.
+(2) The parole eligibility date of an offender who is subject only to 1 or more pre-cd sentences is the later of—
+  (a) his or her parole eligibility date as determined under sections 89 and 92 of the Criminal Justice Act 1985; and
+  (b) if the offender does not have a parole eligibility date under those sections, his or her final release date as determined under section 91 of the Criminal Justice Act 1985.
+(3) The parole eligibility date of an offender who is concurrently subject to both 1 or more pre-cd sentences and to 1 or more sentences imposed after the commencement date is the later of—
+  (a) the offender's parole eligibility date as it would be under subsection (1) if he or she were subject only to the sentence or sentences imposed after the commencement date; and
+  (b) the offender's parole eligibility date as it would be under subsection (2) if he or she were subject only to the pre-cd sentence or sentences.
+(4) Despite anything in this section, an offender who is subject only to 1 or more short-term sentences does not have a parole eligibility date (unless the short-term sentences are cumulative and form a long-term notional single sentence, in which case subsection (1) applies to the notional single sentence and the offender will have a parole eligibility date under that subsection).
+
+### 21 Consideration for parole of offenders detained in prison
+(1) The Board must, as soon as practicable after the parole eligibility date of an offender who is detained in a prison, consider the offender for release on parole.
+(2) The Board must consider for parole every offender who is detained in a prison at least once in every 12 months after the offender's last parole hearing unless, when the offender is due to be considered,—
+  (a) the offender has a new parole eligibility date that is more than 12 months after his or her last parole hearing (in which case subsection (1) applies); or
+  (b) the offender is subject to a postponement order; or
+  (c) the offender is detained following an application for a recall order, or under an interim or final recall order.
+(3) If subsection (2)(c) (but not subsection (2)(a)) applies to an offender, the Board must consider the offender for parole within 12 months of any final recall order that is, or is subsequently, made.
+
+### 22 Date of hearings
+For the sake of administrative efficiency, the Board may consider an offender for release on parole at any time within the month preceding the date on which the offender is due to be considered by the Board; but in no case may an offender who is considered early under this section be released on parole before his or her parole eligibility date.
+
+### 23 Consideration for parole of offenders on home detention or compassionate release
+(1) An offender who is subject to a long-term sentence and is on home detention must be considered by the Board for parole at least once in every 3 months.
+(2) An offender who is released on compassionate release may not be considered for parole by the Board.
+
+### 24 Consideration of offenders unlawfully at large when due to be considered for parole
+An offender who is unlawfully at large on the date on which he or she is due to be considered for parole must be considered by the Board for parole on the later of—
+  (a) the date that is 12 months after his or her return to custody (or as soon as practicable after it); or
+  (b) if the offender, after being returned to custody, has a new parole eligibility date, the offender's parole eligibility date (or as soon as practicable after it).
+
+### 25 Early referral and consideration for parole
+(1) The chairperson may, in exceptional circumstances, refer an offender who has not yet reached his or her parole eligibility date for consideration by the Board for parole.
+(2) A referral under this section must be in writing and set out the reasons why the chairperson is making the referral.
+(3) The Minister of Justice may designate a class of offenders who have not yet reached their parole eligibility dates for early consideration by the Board for parole.
+(4) The Board must, as soon as practicable, consider for parole any offender referred to it under subsection (1) and every offender belonging to a class designated under subsection (3).
+(5) Despite subsection (4), the Board may not consider under this section an offender who is subject to any of the following orders:
+  (a) an order made under section 80 or section 105 of the Criminal Justice Act 1985:
+  (b) an order made under section 86, section 89, or section 103 of the Sentencing Act 2002:
+  (c) an order made under section 107.
+(6) The Board may direct the release on parole of an offender considered under this section if—
+  (a) the Board is satisfied on reasonable grounds that the offender, if released on parole, will not pose an undue risk to the safety of the community or any person or class of persons within the term of the sentence, having regard to the matters set out in section 28(2)(a) and (b); and
+  (b) in the Board's opinion, the interests of justice require that the offender be released before his or her parole eligibility date.
+(7) An offender released on parole under this section is to be treated for all purposes as an offender released on parole under section 28(1).
+
+### 26 Other times when Board may consider offenders for parole
+(1) The Board may, at any time after an offender's parole eligibility date, consider the offender for release on parole at a time other than when the offender is due to be considered for parole, and may make an order under section 28(1) directing his or her release on parole.
+(2) An offender may, at any time, apply to the Board to exercise its discretion under subsection (1) to consider the offender for parole.
+
+### 27 Postponement of consideration for parole
+(1) If the Board is satisfied that, in the absence of a significant change in the offender's circumstances, an offender will not be suitable for release at the time when he or she is next due to be considered for parole, the Board may make a postponement order in relation to the offender.
+(2) If the Board makes a postponement order, it must specify the date by which the offender must be further considered for parole, which,—
+  (a) in the case of an offender serving an indeterminate sentence, must be within 3 years of the offender's most recent parole hearing; or
+  (b) in the case of an offender serving any other long-term sentence, must be within 2 years of the offender's most recent parole hearing.
+(3) Despite being subject to a postponement order, an offender may at any time apply to the Board requesting consideration for parole on the grounds that there has been a significant change in his or her circumstances.
+(4) A postponement order may be made at—
+  (a) an attended parole hearing; or
+  (b) a special attended hearing convened for the purpose of considering whether to make a postponement order.
+(5) The Board may not make a postponement order in relation to an offender unless it has first—
+  (a) advised the offender, at least 14 days before the hearing, that it is to consider making a postponement order; and
+  (b) given the offender an opportunity to make written submissions to the Board about whether the order should be made; and
+  (c) held a hearing at which the offender (in person or through counsel) has been given an opportunity to make oral submissions.
+
+### 27A Consideration of offenders for parole during epidemic
+(1) This subsection applies to a requirement in any of sections 21 to 27 for the Board to consider an offender for parole that (but for this section) would have the effect of requiring the Board to consider an offender for parole
+  (a) while an epidemic management notice is in force; or
+  (b) after an epidemic management notice has expired, but while (in the Board's opinion) there remains as an effect of the outbreak of the disease referred to in the notice a backlog of offenders who, by virtue of one of those requirements, should have been considered for parole before the offender.
+(2) It is a sufficient compliance with a requirement to which subsection (1) applies if the Board considers the offender concerned for parole as soon after he or she should have been considered as is reasonably practicable in the circumstances.
+(3) The circumstances include—
+  (a) the number of appropriately qualified employees of the chief executive available to produce reports for the Board:
+  (b) the number of appropriately qualified employees of the chief executive available to participate in hearings of the Board:
+  (c) the number of Board members available to conduct hearings:
+  (d) the number of offenders who have not yet been considered for parole as required by any of sections 21 to 27:
+  (e) the number and seriousness of the other matters pending before the Board.
+(4) In deciding the order in which it should consider for parole offenders who, by virtue of subsection (2), may be considered for parole as soon after they should have been considered as is reasonably practicable in the circumstances, the Board—
+  (a) must first consider how much time has passed since each of them should have been considered; but
+  (b) may then consider them for parole in any order it thinks appropriate.
+(5) If the notice applies to only stated parts of New Zealand, subsections (1) to (4) apply within those parts only.
+
+### 28 Direction for release on parole
+(1AA)
+(1) The Board may, after a hearing at which it has considered whether to release an offender on parole, direct that the offender be released on parole.
+(2) The Board may give a direction under subsection (1) only if it is satisfied on reasonable grounds that the offender, if released on parole, will not pose an undue risk to the safety of the community or any person or class of persons within the term of the sentence, having regard to—
+  (a) the support and supervision available to the offender following release; and
+  (b) the public interest in the reintegration of the offender into society as a law-abiding citizen.
+(3) If the Board directs the release of an offender on parole, it must specify the date on which the offender is to be released, which must be a date that is—
+  (a) not later than 6 months after the hearing; and
+  (b) not a non-release day.
+(4) Despite subsection (3)(b), the Board may, in exceptional circumstances, specify a date for release that is a Thursday or a Friday.
+(5) The Board may revoke or amend any direction under this section at any time before the offender is released on parole, but, if it does so, the Board must hold another parole hearing as soon as practicable.
+
+### 29 Release conditions applying to parole
+(1) The Board must specify, in respect of every offender who is released on parole,—
+  (a) how long the standard release conditions will apply to the offender; and
+  (b) whether any special conditions will apply and, if so, what they are and how long they will last.
+(2) If an offender who is released on parole is subject to 1 or more determinate sentences, the Board must impose the standard release conditions for a period of at least 6 months, but it may impose them for any period up to a maximum of 6 months beyond the offender's statutory release date.
+(2A) Despite subsection (2), if an offender in respect of whom an extended supervision order is made is released on parole, the Board must impose the standard release conditions for the period up to, but not beyond, the offender's statutory release date.
+(3) If an offender who is released on parole is subject to an indeterminate sentence, the Board must impose the standard release conditions on the offender for the rest of the offender's life.
+(4) If the Board imposes special conditions on an offender who is released on parole, the special conditions may apply for as long as, but no longer than, the standard release conditions apply to the offender.
+
+### 29A Release conditions for person to whom extended supervision order applies
+[Repealed]
+
+### 29B Board may monitor compliance with conditions
+[Repealed]
+
+### 30 Release conditions applying to offenders detained in hospital or secure facility who are released on parole
+(1) The Board may, when directing the release on parole of an offender who is detained in, or on leave from, a hospital or secure facility, vary any standard release conditions, or waive the obligation to comply with any or all of them.
+(2) The offender's release conditions do not take effect until the offender is actually released from the hospital or the secure facility.
+(3) However, for the purpose of determining when the release conditions are discharged, time starts to run from the date on which the offender would have been released if he or she had been detained in a prison.
+
+### 31 When release conditions discharged or suspended
+(1) The release conditions of an offender who is on parole (other than an offender who is subject to an indeterminate sentence) are discharged—
+  (a) when the period for which they were imposed expires; or
+  (b) if the offender resumes detention in a prison under a new sentence; or
+  (c) when the Board discharges all release conditions under section 58.
+(2) The release conditions of an offender who is on parole are suspended during any period that the offender spends in custody under a court order (for instance, on remand) or an interim recall order, and time runs on the conditions during any period that they are suspended.
+
+### 32 When parole ends
+(1) An offender who has been released on parole ceases to be on parole—
+  (a) when the offender reaches his or her statutory release date (as determined under section 17(1)); or
+  (b) if the offender resumes detention in a prison under a final recall order.
+
+**Home detention**
+
+### 33 Application for home detention
+(1) An offender who is subject to a short-term sentence and who has leave to apply for home detention (under section 97 of the Sentencing Act 2002 or section 21D of the Criminal Justice Act 1985) may apply to the Board for home detention at any time.
+(2) An offender who is subject to a long-term determinate sentence may apply to the Board for home detention at any time after the date that is 5 months before the offender's parole eligibility date.
+(3) An application for home detention must be in respect of an area where the chief executive is operating a home detention scheme.
+(4) The Board must consider every application for home detention as soon as practicable.
+
+### 34 Report on suitability for home detention
+(1) On receiving an application under section 33 for home detention, the Board must request a report from a probation officer on the offender's suitability for home detention, and the report must address the following:—
+  (a) the nature of the offence or offences for which the offender is currently serving a sentence of imprisonment or has previously been convicted:
+  (b) the likelihood that the offender's rehabilitation and reintegration will be assisted by home detention:
+  (c) the safety and welfare of the occupants of the residence where the offender is to be detained:
+  (d) the outcome of any restorative justice processes that have occurred.
+(2) Before completing the report required by subsection (1), the probation officer must—
+  (a) ensure that every relevant occupant of the residence where it is proposed that the offender be detained is aware of the nature of the offender's past and current offending; and
+  (b) tell every relevant occupant that the reason for giving that information is to enable the occupant to make an informed decision about whether to consent to having the offender reside at the residence; and
+  (c) tell every relevant occupant that the information provided about the offender must not be used for any purpose other than that described in paragraph (b); and
+  (d) seek the consent of every relevant occupant to having the offender reside at the residence.
+(3) In subsection (2), relevant occupant means, in relation to a residence that the probation officer is considering as a suitable residence for an offender on home detention,—
+  (a) in the case of a family residence, every person of or over the age of 18 who ordinarily lives there; and
+  (b) in the case of any other residence, every person whom a panel convenor, on application by the probation officer, identifies as being a relevant occupant for the purpose of subsection (2).
+
+### 35 Direction for detention on home detention
+(1) The Board may direct an offender who has applied for home detention to continue serving his or her sentence on home detention.
+(2) The Board may give a direction under subsection (1) only if it is satisfied on reasonable grounds that—
+  (a) the offender will not pose an undue risk to the safety of the community or any person or class of persons if he or she is detained on home detention rather than in a prison; and
+  (b)
+  (c) the relevant occupants (as defined in section 34(3)) of the residence in which the offender will be detained—
+    (i) understand the conditions of home detention that will apply to the offender; and
+    (ii) consent to the offender's detention in the residence in accordance with those conditions; and
+  (d) the offender has been made aware of and understands the conditions that will apply during home detention, and he or she agrees to comply with them.
+(3) The Board may not give a direction under subsection (1) if the period between the date on which the offender would start home detention and his or her statutory release date is 2 weeks or less.
+(4) The Board may direct that an offender who is subject to a long-term determinate sentence may commence home detention at any time after the date that is 3 months before the offender's parole eligibility date.
+(5) The Board may direct an offender to be detained on home detention only in an area in which a home detention scheme is operated by the chief executive.
+(6) If the Board declines to direct an offender to continue serving his or her sentence on home detention, it may (on application or of its own motion) from time to time reconsider its original decision on the offender's application.
+
+### 36 Detention conditions
+(1) An offender on home detention is subject to detention conditions comprising—
+  (a) the standard detention conditions set out in subsection (2); and
+  (b) any special conditions (as described in section 15) imposed by the Board.
+(2) The standard detention conditions are that—
+  (a) the offender is under the supervision of a probation officer and must co-operate with, and comply with any lawful direction given by, that probation officer:
+  (b) the offender must not, at any time, leave the residence where he or she is detained on home detention except in the circumstances set out in subsection (3):
+  (c) the offender must keep in his or her possession the licence issued under section 53(3) and, if requested to do so by a member of the police or a probation officer, must produce the licence for inspection.
+  (d) the offender must, as and when required by a probation officer, submit to the electronic monitoring of compliance with his or her detention conditions.
+(3) An offender may leave the residence in which he or she is on home detention only—
+  (a) to seek urgent medical or dental treatment; or
+  (b) to avoid or minimise a serious risk of death or injury to the offender or any other person; or
+  (c) with the approval of a probation officer,—
+    (i) to seek or engage in employment; or
+    (ii) to attend training or other rehabilitative or reintegrative activities or programmes; or
+    (iii) to attend a restorative justice conference or other process relating to the offender's offending; or
+    (iv) to carry out any undertaking arising from any restorative justice process; or
+    (v) for any other purpose specifically approved by the probation officer.
+(4) Before directing an offender to continue serving his or her sentence on home detention, the Board must consider requiring the offender to undertake a programme (as defined in section 16) as a special condition and may, if the conditions in section 15(2) are satisfied, require the offender to undertake a programme as a special condition.
+(5) An offender on home detention—
+  (a) is not in custody while on home detention; and
+  (b) is liable to recall until the offender's statutory release date.
+
+### 37 Expiry and revocation of direction for home detention
+(1) The Board may revoke a direction under section 35 at any time before the offender starts home detention but, if it does so, the Board must hold another hearing as soon as practicable.
+(2) A direction under section 35 in respect of an offender who is serving a long-term sentence expires after 12 months, but the Board may at any time, with the consent of the offender, extend it for 1 further period of up to 12 months.
+(3) An offender on home detention may at any time apply to the Board for a direction returning the offender to a prison, and the Board may revoke the direction accordingly.
+(4) If a direction for home detention is revoked or expires, and the offender, though subject to a sentence, is not released on parole or compassionate leave, the offender must, when required to do so, accompany a probation officer to a prison to resume detention; and if the offender refuses to accompany the probation officer, the offender is unlawfully at large until he or she resumes detention in a prison.
+
+### 38 Home detention does not affect entitlements under Social Security Act 1964
+The fact that a person is on home detention does not, of itself, affect any entitlement the person may have under the Social Security Act 1964.
+
+### 39 When detention conditions suspended or cancelled
+(1) The detention conditions of an offender on home detention are cancelled when the offender ceases to be on home detention.
+(2) The detention conditions of an offender who is on home detention are suspended during any period that the offender spends in custody under a court order (for instance, on remand) or interim recall order, and time runs on the conditions during any period that they are suspended.
+
+### 40 When home detention ends
+An offender ceases to be on home detention when—
+  (a) the offender reaches his or her statutory release date; or
+  (b) in the case of an offender who is subject to a long-term sentence, the offender is released on parole; or
+  (c) the offender resumes detention in a prison under a new sentence of imprisonment or a final recall order; or
+  (d) the direction for home detention expires under section 37(2) or is revoked under section 37(3); or
+  (e) the offender is released on compassionate release.
+
+### 40A Applications for home detention during epidemic
+(1) This subsection applies to an application for home detention if section 33(4) has the effect of requiring the Board to consider it—
+  (a) while an epidemic management notice is in force; or
+  (b) after an epidemic management notice has expired, but while (in the Board's opinion) there remains as an effect of the outbreak of the disease referred to in the notice a backlog of offenders whose applications for home detention should, by virtue of section 33(4), have been considered before it.
+(2) In relation to an application for home detention to which subsection (1) applies, it is a sufficient compliance with section 33(4) if the Board considers it as soon after it should have been considered as is reasonably practicable in the circumstances.
+(3) The circumstances include—
+  (a) the number of appropriately qualified employees of the chief executive available to produce reports for the Board:
+  (b) the number of appropriately qualified employees of the chief executive available to participate in hearings of the Board:
+  (c) the number of Board members available to conduct hearings:
+  (d) the number of applications for home detention that have not yet been considered:
+  (e) the number and seriousness of the other matters pending before the Board.
+(4) In deciding the order in which it should consider applications for home detention that, by virtue of subsection (2), may be considered as soon after they should have been considered as is reasonably practicable in the circumstances, the Board—
+  (a) must first consider how much time has passed since each of them should have been considered; but
+  (b) may then consider them in any order it thinks appropriate.
+(5) If the notice applies to only stated parts of New Zealand, subsections (1) to (4) apply within those parts only.
+
+**Compassionate release**
+
+### 41 Board may direct early release on compassionate grounds
+(1) The Board may, on referral by the chairperson, direct that an offender be released on compassionate release on either of the following grounds:
+  (a) the offender has given birth to a child:
+  (b) the offender is seriously ill and is unlikely to recover.
+(2) Every referral by the chairperson for consideration for compassionate release must be in writing and set out the reasons why the chairperson is making the referral.
+(3) The Board may, as part of a direction for compassionate release, impose the standard release conditions and any special conditions on the offender, and may vary, or waive the obligation to comply with, any standard release conditions if necessary in the circumstances.
+(4) Before an offender is released, the Board may cancel a direction for release or vary any of the conditions of release.
+(5) After an offender is released, the Board may vary or discharge any release conditions under section 58.
+(6) An offender released on compassionate release is liable to recall as if he or she had been released on parole.
+(7) When an offender is released under this section, a copy of the order for release, along with any conditions imposed on the offender, must be supplied to—
+  (a) the offender; and
+  (b) every victim of the offender; and
+  (c) the chief executive; and
+  (d) the police.
+
+**Procedures for certain hearings**
+
+### 42 Application of procedures set out in sections 43 to 50
+Sections 43 to 50 apply to every hearing of the Board concerning an offender who—
+  (a) is due to be released from detention on his or her statutory release date; or
+  (b) is to be considered for parole; or
+  (c) is to be considered for home detention.
+
+### 43 Start of process
+(1) When an offender is due to be released at his or her statutory release date, or to be considered by the Board for parole or home detention, the Department of Corrections must provide the Board with—
+  (a) copies of all relevant information relating to the offender's current and previous convictions, including (for example) sentencing notes and pre-sentence reports; and
+  (b) if the offender has engaged in any restorative justice processes, any reports arising from those processes; and
+  (c) in the case of an offender detained in a prison, a report by the Department of Corrections; and
+  (d) in the case of an application for home detention, or release from home detention, a report by a probation officer; and
+  (e) in the case of an offender currently detained in, or on leave from, a hospital, a report from the responsible clinician (or the most suitable other health professional to provide such a report) concerning the offender and any care programmes that the hospital has put, or intends to put, in place for the offender; and
+  (ea) in the case of an offender currently detained in, or on leave from, a secure facility, a report from the compulsory care co-ordinator concerning the offender and the care and rehabilitation plan that has been, or is to be, put in place for the offender; and
+  (f) in the case of an offender currently detained in a social welfare residence (as described in section 11), a report from the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989.
+(2) The Board must take all reasonable steps to give notice to the following people that a hearing is pending:
+  (a) the offender:
+  (b) every victim of the offender:
+  (c) the manager of the prison in which the offender is detained (if applicable):
+  (d) the offender's probation officer (in the case of an offender currently on home detention):
+  (e) the Director of Area Mental Health Services (in the case of an offender currently detained, or on leave from in a hospital):
+  (ea) the compulsory care co-ordinator (in the case of an offender currently detained in, or on leave from, a secure facility):
+  (f) the police.
+(3) If the hearing relates to an offender who is subject to a long-term sentence, any victim who is notified must be advised that he or she may request information on the offender under section 44.
+(4) A failure to notify any person listed in subsection (2)(b) to (f), and a failure to obtain all the information referred to in subsection (1)(a), does not invalidate a hearing.
+(5) Any person notified under subsection (2) may write to the Board, by a given date, making submissions on, or giving information relevant to,—
+  (a) the substantive matter to be decided; and
+  (b) whether the hearing should be an unattended hearing or an attended hearing.
+(6) For the purpose of providing the reports required under subsection (1)(e) and (f), the responsible clinician (or other health professional) referred to in subsection (1)(e), or the chief executive referred to in subsection (1)(f) (as the case may be), must, on request by the chief executive, supply a report on the relevant offender to the chief executive as required.
+
+### 43A Consultation and disclosure necessary to provide reports
+To avoid doubt, if a person providing a report referred to in section 43 considers that it is or may be necessary to do so in order to provide the report, he or she—
+  (a) may consult with any other person (for example, with any victim (as defined in section 4 of the Victims' Rights Act 2002)) who is or may be able to provide information relevant to the matters that the report must address (relevant information); and
+  (b) may, so far as it is or may be necessary to do so in order to ascertain from the other person relevant information, disclose to the other person information—
+    (i) about why the report must be provided; and
+    (ii) about the nature and purpose of the report.
+
+### 44 Information for victims
+If a victim requests information on an offender under section 43(3), the Department of Corrections must prepare and send to the victim the following:
+  (a) a list of any programmes that the offender has attended since commencing his or her sentence, and a list of any programmes that the offender has completed:
+  (b) a statement of the offender's current security classification:
+  (c) a list of any convictions received by the offender since commencing his or her sentence:
+  (d) an explanation of the hearings process and how the victim may participate:
+  (e) a statement that the purpose of providing the victim with information about the offender is to assist the victim to make submissions, and that the information is not to be used for any other purpose.
+
+### 45 Decision on type of hearing
+(1) The panel convenor who is allocated to conduct a particular hearing must decide whether that hearing will be an unattended hearing under section 48 or an attended hearing under section 49.
+(2) A decision under subsection (1) may not be made until—
+  (a) the Board has received the information referred to in section 43(1); and
+  (b) the given date referred to in section 43(5) has passed.
+(3) If the panel convenor believes on reasonable grounds that the Board is able to make a proper decision on the basis of the information available to the Board, without the need for any person other than Board members to attend the hearing, the convenor may decide that the hearing will be an unattended hearing.
+(4) In deciding whether to hold an unattended hearing or an attended hearing, the panel convenor must consider—
+  (a) whether and how often the offender has been considered by the Board:
+  (b) the length of time since his or her last attended hearing (if any):
+  (c) whether there are significant efficiencies to be gained by having one type of hearing rather than the other:
+  (d) whether written submissions indicate that there are matters that warrant consideration at an attended hearing:
+  (e) any relevant cultural or personal factors:
+  (f) any other matter that the panel convenor considers relevant.
+(5) The decision on the type of hearing must be notified in writing to the offender and every victim of the offender, and to any other person from whom the Board wishes to receive information in relation to the hearing.
+(6) A panel convenor may, before or during an unattended hearing, determine that the hearing must be an attended one and, in that case, a time for the attended hearing must be fixed and the people referred to in subsection (5) must be notified accordingly.
+(7) Notification under subsections (5) or (6) must include,—
+  (a) if the hearing is to be an unattended one, a summary of the reasons for deciding that the hearing will be unattended and information about the right to an interview under section 47; and
+  (b) if the hearing is to be an attended one, the date of the hearing and relevant information about the rights of people attending; and
+  (c) information about the right of review given by section 46.
+
+### 46 Review of decision on type of hearing
+(1) A person who is dissatisfied with a decision that a hearing will be an unattended hearing may seek a review of the decision by writing to the Board within 10 days of the date of the notice.
+(2) The Board must review a decision on the type of hearing as soon as practicable after a person has asked for a review of the decision.
+(3) Following a review, the Board may confirm the decision or determine that the hearing will be an attended hearing.
+(4) If the hearing is to be an attended hearing, the Board must fix a time for the attended hearing and notify the people referred to in section 45(5) accordingly.
+(5) If the hearing is to be an unattended hearing, the Board must notify the person who sought the review.
+
+### 47 Interviews before hearings
+(1) If a hearing is to be an unattended hearing, the offender and every victim of the offender must be given the opportunity to have an interview before the hearing with 1 member of the panel allocated to conduct the hearing.
+(2) The member conducting the interview may conduct the interview at whatever place and in whatever manner he or she considers appropriate, subject to this section.
+(3) In relation to an interview with a victim,—
+  (a) the victim may have a support person with him or her, and the support person may, with the consent of the victim and the permission of the member conducting the interview, speak on behalf of the victim; and
+  (b) if there are special circumstances, and with the consent of the victim and the prior written approval of the Board, the victim may be represented at the interview by another person who must attend the interview in place of the victim; and
+  (c) the interview may not take place at a prison, unless the victim (or his or her representative) consents.
+(4) At an interview with an offender, the offender may have a support person with him or her, and the support person may, with the consent of the offender and the permission of the member conducting the interview, speak in support of the offender.
+
+### 48 Unattended hearings
+(1) At an unattended hearing, the only people who may be present are—
+  (a) the Board members conducting the hearing; and
+  (b) the staff servicing the Board; and
+  (c) any other person whom the Board agrees in writing to allow to be present.
+(2) An unattended hearing may be conducted with any or all of the people mentioned in subsection (1) being present by way of telephone or video link, rather than in person.
+
+### 49 Attended hearing
+(1) An attended hearing must be run in the manner of an inquiry, and in an atmosphere that encourages persons appearing before the Board to speak for themselves, and as freely and frankly as possible.
+(2) Within that context, the Board may conduct the hearing as it thinks appropriate and, subject to this section, has the following powers:
+  (a) to determine who may attend, and determine whether a person may attend other than in person (for instance, by telephone or video link):
+  (b) to determine who may speak:
+  (c) to impose limits on what a person may talk about and for how long:
+  (d) to require any person to leave the hearing, either temporarily or for the remainder of the hearing:
+  (e) to adjourn the hearing.
+(3) The offender who is being considered is entitled to—
+  (a) appear and make oral submissions to the Board; and
+  (b) attend while any other person is making submissions, provided that the offender may not be present at the hearing when any victim is present unless the victim, the offender, and the Board agree; and
+  (c) with the leave of the Board, be represented by counsel; and
+  (d) be accompanied by 1 or more support persons (subject to any limitation on numbers imposed by the Board) who may, with leave of the Board, speak in support of the offender.
+(4) Every victim of the offender is entitled to—
+  (a) appear and make oral submissions to the Board for the purpose of assisting the Board to reach a decision; and
+  (b) with the leave of the Board, be represented by counsel; and
+  (c) be accompanied by 1 or more support persons (subject to any limitation on numbers imposed by the Board), who may, with the leave of the Board,—
+    (i) speak in support of the victim; and
+    (ii) with the permission of the victim, speak on behalf of the victim.
+
+### 50 Decisions must be notified
+(1) After a hearing, every person who was notified under section 43(2) must be advised of—
+  (a) whether, and, if so, when, the offender is to be released from detention or to commence home detention; and
+  (b) any release or detention conditions applying to the offender; and
+  (c) if a postponement order has been made, the duration of the postponement.
+(2) When advising a victim under this section of any release or detention conditions applying to an offender, the Board may withhold advice of a particular condition if disclosing the condition would unduly interfere with the privacy of any other person (other than the offender).
+
+### 50A Submissions from, and interviews with, certain victims
+(1) This section applies to a person who—
+  (a) is not a victim as defined in section 4(1) of this Act; but
+  (b) is a victim as defined in section 4 of the Victims' Rights Act 2002.
+(2) To avoid doubt, the person—information relevant to, the substantive matter to be decided at a hearing referred to in section 42; and
+  (a) may, by writing to the Board, make submissions on, or give
+  (b) if the hearing is an unattended hearing, may, with the leave of the Board, have an interview before the hearing with 1 member of the panel allocated to conduct the hearing, in accordance with section 47(1) to (3); and
+  (c) if the hearing is an attended hearing, may, with the leave of the Board, appear and make oral submissions to the Board, in accordance with section 49(4).
+(3) If the person seeks information from the Board in order to take a step in subsection (2)(a) or (b) or (c), the Board may—
+  (a) advise the person of the relevant hearing date; and
+  (b) give the person any other information that is reasonably necessary to enable the person to take the step.
+(4) Neither the Board nor any other person has any liability for any act done in pursuance, or intended pursuance, of the Board's functions under this section or section 50B, unless the act was done in bad faith.
+
+### 50B Decisions to be notified to certain victims
+(1) The following persons must, after the hearing concerned, be advised of the matters in section 50(1)(a) to (c):
+  (a) a person who, by writing to the Board, makes submissions or gives relevant information as referred to in section 50A(2)(a):
+  (b) a person who is interviewed as referred to in section 50A(2)(b):
+  (c) a person who appears and makes oral submissions as referred to in section 50A(2)(c).
+(2) When advising a person under this section of any release or detention conditions, the Board may withhold advice of a particular condition if disclosing the condition would unduly interfere with the privacy of any other person (other than the offender).
+
+**Actual release**
+
+### 51 Date of release
+(1) This section applies to an offender who is serving a sentence of imprisonment in a prison.
+(2) An offender who is due to be released at his or her statutory release date must be released from the prison on that date, unless he or she is released earlier under section 52.
+(3) An offender who has been directed by the Board to be released on parole or compassionate release, or to start home detention, must be released from the prison on the date specified by the Board.
+
+### 52 Release of offenders released at statutory release date
+(1) This section applies only to an offender who is serving a sentence of imprisonment of more than 14 days and who is due to be released from a prison or from home detention at his or her statutory release date.
+(2) If the offender's statutory release date falls on a non-release day, the offender must be released on the nearest preceding date that is not a non-release day.
+(3) The chief executive may direct that an offender who is detained in a prison and whose statutory release date falls within the period commencing on 15 December in one year and ending on 5 January in the next year is to be released on a date that is—
+  (a) not earlier than 1 December immediately preceding the offender's statutory release date; and
+  (b) not a non-release day.
+(4) A direction under subsection (3) may be revoked at any time before the offender is released.
+(5) If an offender is released early under subsection (2) or subsection (3), the offender ,during the period between the date of actual release and his or her statutory release date,—
+  (a) is subject to any release conditions that will apply on his or her statutory release date as if he or she had been released on his or her statutory release date (but time does not begin to run on any conditions until the offender's statutory release date); and
+  (b) is liable to recall.
+
+### 53 Licence issued on release
+(1) When an offender is released from detention in a prison or from home detention, he or she must be issued with a licence that sets out—
+  (a) the release conditions (if any) that apply to the offender; and
+  (b) the date or dates on which the conditions, or any of them, cease to apply; and
+  (c) details about liability to recall.
+(2) Subsection (1) does not apply to an offender who is released from a short-term sentence if, on release, the offender is not subject to any release conditions.
+(3) When an offender starts home detention, he or she must be issued with a licence that sets out—
+  (a) the detention conditions that apply to the offender while on home detention; and
+  (b) the date or dates on which the conditions, or any of them, cease to apply.
+(4) If an offender's release conditions or detention conditions are varied or discharged, the offender must be given a new or amended licence that shows the conditions as varied or discharged.
+
+### 54 Police must be advised
+(1) When an offender is released from detention in a prison or from home detention, the chief executive must advise the police of—
+  (a) the date on which the offender is released; and
+  (b) the offender's release conditions; and
+  (c) the offender's statutory release date.
+(2) When an offender starts home detention, the chief executive must advise the police of—
+  (a) the date on which the home detention starts; and
+  (b) the offender's detention conditions; and
+  (c) the offender's statutory release date.
+
+### 55 Release for purpose of deportation
+(1) The Minister of Immigration may, by notice in writing to the manager of a prison, order the release of an offender into the custody of any member of the police if—
+  (a) the offender is subject to a sentence of imprisonment, including a sentence of imprisonment imposed under the Armed Forces Discipline Act 1971; and
+  (b) the offender has been ordered to be deported from New Zealand by the Governor-General under section 72 of the Immigration Act 1987, or by the Minister of Immigration under any of sections 73, 91, or 92 of that Act; and
+  (c) a copy of the order, or a notice of the making of the order, has been served on the offender; and
+  (d) 1 of the following applies:
+    (i) the offender has no right of appeal under that Act against the making of that order:
+    (ii) the time for bringing that appeal has expired and the offender has not brought an appeal:
+    (iii) any such appeal has been determined and the order has not been quashed.
+(2) A notice issued under subsection (1) is sufficient authority for the manager to release the offender accordingly on request by any member of the police.
+(3) When a ship or aircraft becomes available to take the offender from New Zealand, and it is practicable in all the circumstances for the offender to leave on that ship or aircraft, a member of the police may require the manager, in accordance with subsection (1), to deliver the offender into the custody of the member; and the member must escort the offender (or arrange for him or her to be escorted) to the seaport or airport and ensure that the offender is placed upon the ship or aircraft and detained there until the ship or aircraft leaves New Zealand.
+(4) If for any reason that ship or aircraft is delayed in New Zealand for more than 24 hours, the offender must be returned to the custody of the manager, and, for that purpose, the warrant by which the offender was originally committed to the institution is deemed to be still in force.
+(5) If an offender is returned to custody under subsection (4), the manager must, on request by any member of the police, release the offender into the custody of that member for deportation, and the provisions of this section apply in respect of every request until the offender is finally deported.
+(6) Despite subsection (1), in respect of any offender to whom paragraphs (a) to (d) of that subsection apply, the chief executive may, at any time within 28 days preceding the offender's statutory release date, by notice in writing to the manager of the prison in which the offender is detained, order the release of the offender into the custody of any member of the police in possession of the notice; and that notice is sufficient authority for the manager to release the offender accordingly.
+(7) If an offender is released into the custody of a member of the police under subsection (6), subsections (3) to (5) apply as if the release were ordered by the Minister of Immigration.
+(8) If an offender is released and deported under this section, his or her sentence continues to run and, if the offender subsequently returns to New Zealand before the sentence expiry date, the offender is liable to resume serving it.
+
+**Variation and discharge of conditions**
+
+### 56 Application for variation or discharge of conditions
+(1) An offender who is subject to release conditions or detention conditions imposed by the Board may apply to the Board at any time for the variation or discharge of any of those conditions.
+(2) A probation officer may at any time apply to the Board for the variation or discharge of any release condition or detention condition imposed by the Board that applies to an offender.
+(3) An application under this section must indicate whether or not the offender wishes to appear before the Board to state his or her case.
+(4) When a probation officer applies for the variation or discharge of a condition, the probation officer may suspend the condition until the application is determined.
+
+### 56A Application of section 56 during epidemic
+While an epidemic management notice is in force, a probation officer who has made an application to the Board under section 56(2) for the variation of a release condition or detention condition imposed by the Board may himself or herself vary the condition; and the variation has effect until the application has been heard and disposed of.
+
+### 57 Procedure for determining applications
+(1) Before determining an application for variation or discharge, the Board may seek information from anyone it considers has, or may have, an interest in the application, such as (without limitation) the police or any victim of the offender.
+(2) To avoid doubt, section 13 (which is about information to be given to offenders) applies to hearings for the purpose of determining an application for variation or discharge.
+(3) An application for variation or discharge may be determined without the Board hearing from any person, unless—
+  (a) the offender has asked to appear before the Board to state his or her case; or
+  (b) the Board wishes to hear from any person orally.
+
+### 58 Board determines application for variation or discharge
+(1) On an application under section 56, the Board may direct the variation or discharge of any release condition or detention condition imposed by the Board that applies to an offender.
+(2) The Board may not—
+  (a) extend the duration of any release condition to a date that is later than 6 months after the offender's statutory release date; or
+  (b) extend the duration of any special condition beyond the date on which the standard release or detention conditions cease to apply.
+(3) The Board may not discharge the standard release conditions with effect from a date that is less than 6 months after the date on which the offender was released, unless the offender is released on compassionate release or was, at the time of his or her release, detained in a hospital or in a secure facility.
+(4) If the Board directs the variation or discharge of a condition,—
+  (a) the variation or discharge takes effect on the date specified in the direction; and
+  (b) every variation must be treated as part of the conditions that apply to the offender; and
+  (c) notice of the direction must be given to the offender, the probation officer involved, the police, and (if reasonably practicable) any victim to whom notice of the original condition was given.
+
+**Recall**
+
+### 59 Definition of recall application
+A recall application is an application for an order that an offender be recalled to continue serving a sentence of imprisonment in a prison.
+
+### 60 Making recall application
+(1) The chief executive may make a recall application to the Board in respect of any offender who—
+  (a) is subject to an indeterminate sentence; and
+  (b) is on parole or on compassionate release.
+(2) A probation officer may make a recall application to the Board in respect of any offender who—
+  (a) is subject to a determinate sentence; and
+  (b) has not yet reached his or her statutory release date; and
+  (c) is on parole, home detention, or compassionate release.
+(2A)
+(3) A recall application must specify the ground or grounds in section 61 on which the applicant relies, and the basis on which the applicant is satisfied that the ground or grounds apply.
+(4) When a recall application is made, the sentence to which the application relates ceases to run, except for any period between the lodgement of the application and the date on which it is determined during which the offender—
+  (a) is in custody in a prison; or
+  (b) is serving his or her sentence by way of home detention in accordance with his or her detention conditions.
+
+### 61 Grounds for recall
+The grounds for recall are that—
+  (a) the offender poses an undue risk to the safety of the community or any person or class of persons; or
+  (b) the offender has breached his or her release conditions or detention conditions; or
+  (c) the offender has committed an offence punishable by imprisonment; or
+  (d) in the case of an offender who is serving his or her sentence by way of home detention,—
+    (i) the offender is jeopardising the safety of any person at his or her residence; or
+    (ii) a suitable residence in the area where a home detention scheme is operated by the chief executive is no longer available because of changed circumstances; or
+  (e) in the case of an offender who is subject to a special condition that requires his or her attendance at a residential programme,—
+    (i) the offender is jeopardising the safety of any person at the residence, or the order or security of the residence; or
+    (ii) the offender has failed to remain at the residence for the duration of the programme; or
+    (iii) the programme has ceased to operate, or the offender's participation in it has been terminated for any reason.
+
+### 62 Making interim recall order
+(1) On receiving a recall application, the chairperson or any panel convenor must make an interim recall order if he or she is satisfied on reasonable grounds that—
+  (a) the offender poses an undue risk to the safety of the community or to any person or class of persons; or
+  (b) the offender is likely to abscond before the determination of the application for recall; or
+  (c) in the case of an offender on home detention, a suitable residence in the area where a home detention scheme is operating is no longer available.
+(2) When deciding whether to make an interim recall order in respect of an offender who is currently detained, the chairperson or panel convenor (as the case may be) must make the decision as if the offender were not detained.
+
+### 63 What happens when interim recall order made
+(1) When an interim recall order is made, the chairperson or a panel convenor (as the case may be) must issue a warrant in the prescribed form for the arrest of the offender and for the offender to be detained in a prison pending the determination of the application for recall.
+(2) At any time after a warrant is issued under subsection (1), a member of the police may arrest the offender, whether or not the member has possession of the warrant, for the purpose of returning the offender to a prison.
+(3) On, or as soon as practicable after, being taken into custody following the issue of a warrant under subsection (1), the offender must be given a copy of the recall application and a notice that—
+  (a) specifies the date on which the application is to be determined; and
+  (b) advises the offender of his or her right to appear before the Board and to state his or her case in person or through counsel; and
+  (c) requires the offender to notify the Board, not later than 7 days before the date on which the application is to be determined, whether he or she wishes to make written submissions or to appear in person or to be represented by counsel.
+(4) While an offender is subject to an interim recall order, he or she must be detained in custody.
+
+### 64 What happens if no interim recall order made
+(1) If no interim recall order is made following a recall application, the Board must cause to be served on the offender—
+  (a) a copy of the recall application; and
+  (b) a notice of the kind described in section 63(3).
+
+### 65 Procedure for determining recall applications
+(1) If an interim recall order is made, the Board must determine the recall application on a date that is,—
+  (a) if the offender is in custody when the interim order is made, at least 14 days after, but not more than 1 month after, the date of the interim order; or
+  (b) if the offender is not in custody when the interim order is made, at least 14 days after, but not more than 1 month after, the date on which the offender is taken into custody.
+(2) If no interim recall order is made, the Board must determine the recall application on a date that is at least 14 days after, but not more than 2 months after, the date on which the copy of the recall application is served on the offender.
+(3) To avoid doubt, section 13 (which is about information to be given to offenders) applies to hearings for the purpose of determining a recall application.
+(4) The Board may determine a recall application without the Board hearing from any person orally unless—
+  (a) the offender has indicated that he or she, in person or through counsel, wishes to appear to state his or her case; or
+  (b) the Board wishes to hear from any other person orally.
+(5) Despite subsections (1) and (2), the Board may from time to time adjourn the hearing of a recall application; but no adjournment may be for more than 8 days, unless the offender consents to a longer period.
+
+### 65A Application of section 65 during epidemic
+(1) This subsection applies to a recall application if, but for this section, section 65(1) or (2) would have the effect of requiring the Board to determine it—
+  (a) while an epidemic management notice is in force; or
+  (b) after an epidemic management notice has expired, but while (in the Board's opinion) there remains as an effect of the outbreak of the disease referred to in the notice a backlog of offenders in respect of whom a recall application should, by virtue of section 65(1) or (2), have been considered before it.
+(2) In relation to an application for a recall application to which subsection (1) applies, it is a sufficient compliance with section 65(1) or (2) (as the case requires) if the Board considers it as soon after it should have been considered as is reasonably practicable in the circumstances.
+(3) This subsection applies to the hearing of a recall application if the Board wishes to adjourn it, without the offender's consent,—
+  (a) while an epidemic management notice is in force; or
+  (b) after an epidemic management notice has expired, but while (in the Board's opinion) there remains as an effect of the outbreak of the disease referred to in the notice a backlog of matters pending before the Board.
+(4) The Board may, without the offender's consent, adjourn the hearing of a recall application to which subsection (3) applies for any period (not exceeding 21 days) it thinks appropriate in the circumstances.
+(5) The circumstances referred to in subsections (2) and (4) include—
+  (a) the number of appropriately qualified employees of the chief executive available to provide administrative support to the Board:
+  (b) the number of appropriately qualified employees of the chief executive available to produce reports for and participate in hearings of the Board:
+  (c) the number of Board members available to conduct hearings:
+  (d) the number and nature of the other matters pending before the Board.
+(6) The Board may decide the order in which it should consider recall applications that, by virtue of subsection (2), may be considered as soon after they should have been considered as is reasonably practicable in the circumstances in any order it thinks appropriate.
+(7) If the notice applies to only stated parts of New Zealand, subsections (1) to (6) apply within those parts only.
+
+### 66 Board may make final recall order
+(1) The Board may make a final recall order recalling an offender to continue serving his or her sentence in a prison if, following a hearing on a recall application, it is satisfied on reasonable grounds that 1 or more of the grounds for recall in section 61 have been established.
+(2) When deciding whether to make a final recall order in respect of an offender who is currently detained, the Board must make the decision as if the offender were not detained.
+(3) On making a recall order, the Board must issue a warrant in the prescribed form for the arrest of the offender and for the offender to resume serving his or her sentence in a prison.
+(3A) If a warrant is issued under subsection (3) in respect of an offender who is not currently detained, a member of the police may at any time arrest the offender, whether or not the member has possession of the warrant, for the purpose of returning the offender to a prison to resume serving his or her sentence.
+(4) If the Board refuses a recall application,—
+  (a) the Board must direct the offender's release from custody under any warrant issued under section 63(1) (if applicable); and
+  (b) any release conditions or detention conditions that were suspended resume (subject to paragraph (c)); and
+  (c) the Board may vary or discharge any conditions imposed by the Board that apply to the offender, without the need for an application under section 56.
+
+### 66A Protection of members of police
+Section 39 of the Police Act 1958 applies to protect members of the police as if a warrant issued under section 63(1) or section 66(3) were a process issued out of a court.
+
+**Reviews and appeals from decisions**
+
+### 67 Review of decisions
+(1) An offender who is the subject of any decision of the Board under this Act (other than a decision under any of the provisions referred to in subsection (2)) may, within 28 days of the decision, apply in writing to the Board for a review of that decision.
+(2) No review under this section may be sought of—
+  (aa)
+  (aab)
+  (a) a decision under section 45 about the type of hearing; or
+  (b) a decision under section 46 on a review of a decision about the type of hearing; or
+  (c) a review under section 107(6) of—
+    (i) an order made under that section; or
+    (ii) an order made under section 105 of the Criminal Justice Act 1985 (as provided for in section 97(8)).
+(3) The grounds for an application for review under this section are that the Board, in making the decision,—
+  (a) failed to comply with the procedures set out in this Act and any regulations made under it; or
+  (b) made an error of law; or
+  (c) failed to comply with a policy of the Board developed under section 109(2)(a), which resulted in unfairness to the offender; or
+  (d) based its decision on erroneous or irrelevant information that was material to the decision reached; or
+  (e) acted without jurisdiction.
+(4) A review under this section must be undertaken, as soon as practicable, by the chairperson or by a panel convenor to whom the chairperson delegates the conduct of the review.
+(5) Following a review, the reviewer must—
+  (a) confirm, quash, or amend the decision; or
+  (b) refer the matter back to the Board with a direction to reconsider and decide the matter.
+(6) For the purposes of an appeal under section 68,—
+  (a) a decision to confirm, quash, or amend the decision is the final decision of the Board; and
+  (b) a decision of the Board taken following a reconsideration in accordance with a referral under subsection (5)(b) is the final decision of the Board.
+
+### 68 Appeal to High Court against postponement orders, section 107 orders, and final recall orders
+(1) An offender who is subject to a postponement order, an order under section 107, or a final recall order may, within 28 days of the date of the decision on a review under section 67 (or whatever longer time the court permits), appeal to the High Court against the decision on the grounds that the order ought not to have been made.
+(2) No appeal may be made under this section until the decision to make the order has been reviewed under section 67.
+(3) If an offender lodges an appeal, he or she remains subject to the order while the appeal is determined.
+(4) In the case of an appeal against a final recall order, without limiting the matters that the court may consider in determining the appeal, the court must consider the need to protect the community, or any person or class of persons.
+
+### 69 Procedure on appeal against postponement orders, section 107 orders, and final recall orders
+(1) An appellant must forward a copy of his or her appeal to the Board.
+(2) On receiving a copy of an appeal, the Board must forward to the Registrar of the High Court all information in its possession regarding the decision appealed against.
+(3) The Registrar of the High Court must, on receipt of the information from the Board, set down the appeal for hearing on the first practicable sitting day in the most convenient place where sittings of the High Court are held, and must notify the appellant and the Board accordingly.
+(4) Subject to this section and, with any necessary modifications, sections 119, 120, 123, 129, 130, 133, 134, 136, and 143 of the Summary Proceedings Act 1957 apply to an appeal under section 68 as if the order appealed against were an order made by a District Court Judge.
+(5) On an appeal under section 68, the court may receive in evidence anything that the Board could have received at first instance.
+(6) The court is not bound to allow the appeal on the ground merely of the improper admission or rejection of evidence unless, in the opinion of the court, a substantive wrong or miscarriage of justice occurred because of it.
+
+### 70 Powers of court on appeal
+(1) On an appeal against a postponement order or an order under section 107 the court may—
+  (a) confirm, quash, or amend the order; or
+  (b) refer the matter back to the Board with a direction to reconsider and decide the matter, in which case it must—
+    (i) advise the Board of its reasons for doing so; and
+    (ii) give the Board any directions that it thinks just concerning any aspect of the reconsideration.
+(2) On an appeal against a final recall order, the court may—
+  (a) confirm the order; or
+  (b) quash the order and, unless the offender is liable to be detained under this or any other enactment,—
+    (i) direct the release of the offender from custody; or
+    (ii) direct the release of the offender on standard release or standard detention conditions (in which case the conditions are deemed to have been imposed by the Board), and refer the offender to the Board for consideration of whether to impose any special conditions; or
+  (c) refer the matter back to the Board with a direction to reconsider and decide the matter, in which case it must—
+    (i) advise the Board of its reasons for doing so; and
+    (ii) give the Board any directions that it thinks just concerning any aspect of the reconsideration.
+
+**Offences**
+
+### 71 Offence to breach conditions
+(1) Every offender commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $2,000, who breaches, without reasonable excuse, any release conditions or detention conditions imposed by the Board.
+(2) The conviction and sentencing of an offender under this section does not limit the power to recall the offender from parole, home detention, or compassionate release.
+
+### 72 Offence to refuse entry to home detention residence
+Every person commits an offence, and is liable on summary conviction to 3 months' imprisonment or a fine not exceeding $5,000, who refuses or fails, without reasonable excuse, to allow a probation officer who has identified himself or herself as such to enter into a residence in which an offender is detained on home detention.
+
+**Arrest of offenders**
+
+### 73 Arrest without warrant
+(1) Any member of the police may arrest, without a warrant, an offender whom the member has reasonable grounds to believe is unlawfully at large.
+(2) Any member of the police or any probation officer may arrest, without a warrant, an offender whom the member or officer has reasonable grounds to believe has breached any of his or her release conditions or detention conditions or conditions of an extended supervision order.
+
+### 73A Power to enter premises to arrest
+(1) A member of the police may, at any time, for the purpose of arresting an offender named in a warrant issued under section 63(1) or section 66(3), enter any premises, by force if necessary, if he or she has reasonable cause to believe that the offender is in or on the premises.
+(2) If the member of the police who is executing the warrant is not in uniform, and the person in actual occupation of the premises asks the member to produce evidence of his or her authority, the member must produce the warrant or a badge or other evidence that he or she is a member of the police.
+
+**Regulations**
+
+### 74 Regulations
+The Governor-General may, from time to time, by Order in Council, make regulations for all or any of the following purposes:
+  (a) prescribing forms for the purpose of this Part and Part 1A:
+  (b) prescribing the manner in which the key dates and non-parole periods of sentences of imprisonment are to be determined:
+  (c) providing that specified information must be provided to offenders, and prescribing the manner and form in which that information is to be provided:
+  (d) regulating the operation of the Board:
+  (e) prescribing offences in respect of the contravention of, or non-compliance with, any regulations made under this section and the amounts of the fines that may be imposed in respect of those offences, which fines must not exceed $500:
+  (f) generally providing for any other matters that are contemplated by, or necessary for giving full effect to, this Part and Part 1A, and their due administration.
+
+### Subpart 3 — Sentence calculation
+
+**Cumulative sentences**
+
+### 75 Cumulative sentences form notional single sentence
+(1) If, after the commencement date, an offender is sentenced to a sentence of imprisonment (a later sentence) that is directed to be served cumulatively on another sentence (an earlier sentence), the later sentence and the earlier sentence form a notional single sentence for the purpose of determining—
+  (a) whether the offender is subject to a long-term sentence or a short-term sentence; and
+  (b) the non-parole period to apply when determining the offender's parole eligibility date; and
+  (c) the release date to apply when determining the offender's statutory release date.
+(2) If the earlier sentence is part of a series of cumulative sentences, then all the sentences (including any pre-cd sentences) in that series, along with the later sentence, form a notional single sentence for the purpose described in subsection (1).
+(3) Every sentence (including any pre-cd sentences) in a series of cumulative sentences links to the next one in the series at its sentence expiry date.
+(4) Every notional single sentence is deemed to be a sentence that is imposed on or after the commencement date, even if it contains a pre-cd sentence.
+
+**Start date of sentence of imprisonment**
+
+### 76 General rules about start date of sentence of imprisonment
+(1) The start date of a sentence of imprisonment imposed after the commencement date is the date on which the sentence is imposed, except as otherwise provided in sections 77 to 81.
+(2) The start date of a pre-cd sentence is the date, determined under Part 4 of the Criminal Justice Act 1985, on which the sentence commences.
+
+### 77 Start date of notional single sentence
+The start date of a notional single sentence is the start date of the first sentence in the series of sentences that forms the notional single sentence.
+
+### 78 Deferred start date
+If a court defers a start date under section 100 of the Sentencing Act 2002, the start date of the sentence of imprisonment is the date on which the offender is taken into custody after the expiry of the period specified by the court.
+
+### 79 Start date if later sentence replaces original sentence
+(1) The start date of a sentence that is substituted for a sentence that was quashed or otherwise set aside on appeal (the original sentence) is the start date of the original sentence.
+(2) If a sentence (the original sentence) ceases to apply because the conviction to which it relates is quashed and a retrial ordered, and if a sentence of imprisonment is imposed following the retrial, the start date of the later sentence is the start date of the original sentence.
+(3) In either situation referred to in subsection (1) or subsection (2), if the original sentence was directed to be served cumulatively on another sentence but the later sentence is not directed to be served cumulatively, then the start date of the later sentence is the start date that the original sentence would have had if it had not been directed to be served cumulatively.
+
+### 80 Start date after temporary surrender to New Zealand
+(1) This section applies if an offender is temporarily surrendered to New Zealand under the Extradition Act 1999 and—
+  (a) is convicted and sentenced to a sentence of imprisonment; and
+  (b) is required to be returned in accordance with section 66(2) of the Extradition Act 1999 to the country from which the offender was surrendered on completion of the proceedings to which the extradition related.
+(2) Unless the court otherwise directs, the start date of the sentence imposed is the date on which the person, having been returned to New Zealand, is taken into custody.
+(3) This section applies despite any other provision in this Act.
+
+### 81 Start date of sentence of imprisonment when term imposed
+If a person on whom a term of imprisonment is imposed for non-payment of a sum of money, disobedience of a court order, or contempt of court is not already detained under a sentence of imprisonment, then the start date of the sentence of imprisonment is the day on which the person is taken into custody to serve the term imposed.
+
+**Sentence expiry dates**
+
+### 82 Sentence expiry date
+(1) The sentence expiry date of a determinate sentence is the date that is reached when the offender who is subject to the sentence has served the full term of the sentence.
+(2) The sentence expiry date of a notional single sentence is the sentence expiry date of the last sentence in the series of sentences that forms the notional single sentence.
+(3) An indeterminate sentence has no sentence expiry date.
+
+### 83 Sentence expiry date of pre-cd sentence
+The sentence expiry date of a pre-cd sentence is the date, determined under Parts 4 and 6 of the Criminal Justice Act 1985, on which the sentence expires.
+
+**Non-parole periods**
+
+### 84 Non-parole periods
+(1) The non-parole period of a long-term determinate sentence is one-third of the length of the sentence, unless the sentence is one to which subsection (2) or subsection (4) applies.
+(2) The non-parole period of a sentence in respect of which the court has imposed a minimum term of imprisonment (whether under section 86, section 89, or section 103 of the Sentencing Act 2002) is the minimum term imposed.
+(3) The non-parole period of a sentence of imprisonment for life (other than one in respect of which the court has imposed a minimum term of imprisonment) is 10 years.
+(4) The non-parole period of a long-term notional single sentence is the total obtained by adding together all the non-parole periods of every sentence that makes up the notional single sentence.
+(5) For the purpose only of calculating the non-parole period of a long-term notional single sentence,—
+  (a) every short-term sentence (being a sentence imposed after the commencement date) within the notional single sentence must be treated as if it had a non-parole period of one-third of its length; and
+  (b) every long-term pre-cd sentence under which the offender is eligible for parole must be treated as if it had a non-parole period of the period represented by the time between the commencement of the sentence and the close of the date on which the offender is eligible to be released on parole from that sentence under section 89 of the Criminal Justice Act 1985; and
+  (c) every pre-cd sentence under which the offender is not eligible for parole (including every short-term pre-cd sentence) must be treated as if it had a non-parole period of the period represented by the time between the commencement date of the sentence and the close of the date on which the offender must be released from that sentence (the sentence's final release date) under section 90 of the Criminal Justice Act 1985.
+
+### 85 Pre-cd sentences do not have non-parole periods
+Pre-cd sentences do not have non-parole periods under this Act and, except for the purpose described in section 84(5), the requirement in section 88(1) for the chief executive to determine the non-parole period of sentences does not apply to pre-cd sentences.
+
+**Release dates**
+
+### 86 Release date of sentence
+(1) The release date of a short-term sentence (including a short-term notional single sentence) is the date on which the offender who is subject to the sentence has served half of it.
+(2) The release date of a long-term determinate sentence (including a long-term notional single sentence) is its sentence expiry date.
+(3) An indeterminate sentence has no release date.
+
+### 87 Release date of pre-cd sentence
+(1) The release date of a short-term pre-cd sentence is the final release date of the sentence, as determined under section 91 of the Criminal Justice Act 1985.
+(2) The release date of a long-term determinate pre-cd sentence is the date that is 3 months before its sentence expiry date.
+(3) Despite subsection (2), the release date of a long-term determinate pre-cd sentence that was imposed before the commencement of the Criminal Justice Amendment Act 1993 (which was 1 September 1993) is the final release date of the sentence, as determined under section 91 of the Criminal Justice Act 1985.
+(4) An indeterminate pre-cd sentence has no release date.
+
+**Determining key dates**
+
+### 88 Chief executive must determine key dates, etc
+(1) The chief executive must ensure that the key dates and non-parole period of every sentence to which an offender is subject, and the offender's parole eligibility date and statutory release date (if any), are determined in accordance with this Part and any regulations made under this Act, or with Parts 4 and 6 of the Criminal Justice Act 1985 and the Criminal Justice Regulations 1985, as the case requires.
+(2) Despite subsection (1), the non-parole period and release date of every sentence imposed on an offender need not be determined if the offender's parole eligibility date and statutory release date (if any) may be correctly calculated without determining all the non-parole periods and release dates.
+(3) A determination under this section may be revised at any time.
+
+**Determining how much time has been served**
+
+### 89 Determining time served
+(1) When determining how much of a sentence imposed on or after the commencement date an offender has served, the provisions of this subpart apply.
+(2) When determining how much of a pre-cd sentence an offender has served, Parts 4 and 6 of the Criminal Justice Act 1985 continue to apply.
+
+### 90 Period spent in pre-sentence detention deemed to be time served
+(1) For the purpose of calculating the key dates and non-parole period of a sentence of imprisonment (including a notional single sentence) and an offender's statutory release date and parole eligibility date, an offender is deemed to have been serving the sentence during any period that the offender has spent in pre-sentence detention.
+(2) When an offender is subject to 2 or more concurrent sentences,—
+  (a) the amount of pre-sentence detention applicable to each sentence must be determined; and
+  (b) the amount of pre-sentence detention that is deducted from each sentence must be the amount determined in relation to that sentence.
+(3) When an offender is subject to 2 or more cumulative sentences that make a notional single sentence, any pre-sentence detention that relates to the cumulative sentences may be deducted only once from the single notional sentence.
+
+### 91 Meaning of pre-sentence detention
+(1) Pre-sentence detention is detention of a type described in subsection (2) that occurs at any stage during the proceedings leading to the conviction or pending sentence of the person, whether that period (or any part of it) relates to—
+  (a) any charge on which the person was eventually convicted; or
+  (b) any other charge on which the person was originally arrested; or
+  (c) any charge that the person faced at any time between his or her arrest and before conviction.
+(2) The types of detention that are pre-sentence detention are detention under an order made under section 24(2) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 and detention on remand pursuant to a court order—
+  (a) in a prison (or in a police station in accordance with section 35 of the Corrections Act 2004):
+  (b) in a residence established under section 364 of the Children, Young Persons, and Their Families Act 1989, or detention in police custody under section 238(1)(e) of that Act:
+  (c) in a hospital or secure facility under any of sections 23, 35, 38(2), and 44(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003:
+  (d) in a hospital or secure facility pursuant to an order under section 171(2) of the Summary Proceedings Act 1957:
+  (e) in a hospital following an application under section 45(2) of the Mental Health (Compulsory Assessment and Treatment) Act 1992:
+  (ea) in a secure facility following an application under section 29(1) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003:
+  (f) in a hospital under section 46 of the Mental Health (Compulsory Assessment and Treatment) Act 1992.
+(3) In the case of an extradition offender (as defined in section 93), pre-sentence detention includes detention in custody overseas in relation to a request for extradition, as recorded on a certificate obtained under section 62 of the Extradition Act 1999 (including any substitute certificate obtained under that section).
+(4) In the case of an ICC offender (as defined in section 93), pre-sentence detention includes detention in custody overseas, as recorded on a certificate obtained under section 99 of the International Crimes and International Criminal Court Act 2000 (including any substitute certificate obtained under that section).
+(4A) In the case of a MACM offender (as defined in section 93), pre-sentence detention includes detention in custody overseas, as recorded on a certificate obtained under section 41B of the Mutual Assistance in Criminal Matters Act 1992 (including any substitute certificate obtained under that section).
+(5) Detention that would, under subsection (2) or subsection (3), be pre-sentence detention, is not pre-sentence detention for the purposes of subsection (1) if the offender was, during that detention,—
+  (a) serving a sentence of imprisonment in a prison or on home detention; or
+  (b) in the case of an extradition offender, detained in custody under a sentence for an offence imposed under the law of the country from where the offender was extradited under the request for extradition.
+(6) In subsection (5)(a), serving a sentence of imprisonment in a prison includes time spent in a prison following an application for a recall order, but only if—
+  (a) a final recall order is made following that application; and
+  (b) the offender was not, immediately before the application for the recall order was made, subject to detention conditions, whether those conditions were suspended or not.
+
+### 92 Procedure for recording length of pre-sentence detention
+(1) The person who is in charge of a prison, social welfare residence, hospital, or secure facility referred to in section 91(2) (in this section referred to as a detention place) must keep a record of—
+  (a) the date on which a person is admitted to the detention place on detention as referred to in section 91(2); and
+  (b) the total period during which the person is subsequently detained before sentence in that detention place, whether on the original charge or any other charge.
+(2) After sentencing, the person in charge of the detention place (other than a police jail) must supply the offender with a copy of the record kept under subsection (1) and, if the offender disputes the accuracy of the record, he or she may apply to the person who made it to review it.
+(3) A person in charge of a detention place (other than a police jail) who receives an application under subsection (2) must immediately review the record and, having reviewed it, must notify the offender in writing of—
+  (a) whether the record is confirmed; or
+  (b) the manner in which the record is amended.
+(4) If the offender is dissatisfied with the outcome of the review, he or she may appeal the review to the court that imposed the sentence, in which case Part 4 of the Summary Proceedings Act 1957, or (as the case may require) Part 13 of the Crimes Act 1961, applies so far as it is applicable and with any necessary modifications, to the appeal.
+(5) An extradition offender or an ICC offender or a MACM offender (as defined in section 93) may exercise the rights in this section to review and appeal a record of pre-sentence detention (as recorded on their relevant certificates) in the same way as any other offender may seek a review and appeal against a determination of the record of pre-sentence detention.
+
+### 93 Definition of extradition offender and ICC offender and MACM offender
+(1) An offender is an extradition offender for the purpose of sections 91 and 92 if—
+  (a) the offender was convicted following his or her extradition to New Zealand of the offence to which the extradition related, or of any other offence for which he or she could be tried in New Zealand in accordance with section 64 of the Extradition Act 1999 as a result of that extradition; and
+  (b) the offender was detained in custody in the country from where the offender was extradited in relation to the request for extradition; and
+  (c) a certificate under section 62 of the Extradition Act 1999 was obtained showing the total period during which the offender was held in custody in relation to the request for extradition.
+(2) An offender is an ICC offender if—
+  (a) section 98(1) of the International Crimes and International Criminal Court Act 2000 applies to the offender; and
+  (b) a certificate was obtained under section 99 of the International Crimes and International Criminal Court Act 2000 showing the total period during which the offender was held in custody overseas in relation to a request by the ICC before the imposition of sentence in New Zealand.
+(3) An offender is a MACM offender if—
+  (a) section 41A of the Mutual Assistance in Criminal Matters Act 1992 applies to the offender; and
+  (b) a certificate was obtained under section 41B of the Mutual Assistance in Criminal Matters Act 1992 showing the total period during which the offender was held in custody overseas in relation to a request by a foreign country before the imposition of sentence in New Zealand.
+
+### 94 Time ceases to run in certain circumstances
+For the purpose of calculating how much time an offender who is subject to a sentence of imprisonment has served, time ceases to run,—
+  (a) for an offender detained in a prison, during any period when the offender is unlawfully at large from detention; and
+  (b) for an offender on parole or compassionate leave, during any period between the date on which an application for a recall order is lodged and the date on which the offender is next taken into custody; and
+  (c) for an offender on home detention, during any period between the date on which an application for a recall order is lodged and the earlier of—
+    (i) the date on which the offender is next taken into custody; and
+    (ii) the date on which the offender resumes serving his or her sentence by way of home detention in accordance with his or her detention conditions.
+
+### 95 Time on bail pending appeal does not count as time served
+(1) Any time during which an offender is released from detention on bail pending an appeal does not count as time served under any sentence.
+(2) To avoid doubt, time spent released from detention on bail is not pre-sentence detention (as defined in section 91).
+
+### 96 Period between quashed sentence and new sentence does not count as time served
+(1) Subsection (2) applies if—
+  (a) a sentence of imprisonment is passed on the conviction of an offender; and
+  (b) that conviction is subsequently quashed and a new hearing or a new trial is ordered; and
+  (c) following a new hearing or a new trial, the offender is again convicted and a new sentence of imprisonment is imposed on the offender.
+(2) In the situation described in subsection (1), the period commencing on the quashing of the first sentence and the imposition of the new sentence does not count as time served under the new sentence.
+(3) However, this section is subject to section 90 (which means that if the offender is remanded in custody during the period described in subsection (2), that period of pre-sentence detention counts as time served under the subsequent sentence).
+
+### Subpart 4 — Transitional arrangements for offenders subject to pre-cd sentences
+
+**General rules**
+
+### 97 Application of this Part to offenders subject to pre-cd sentences
+(1) Every offender who was released under Part 6 of the Criminal Justice Act 1985 before the commencement date is deemed to have been released under subpart 2 of this Part and, in particular,—
+  (a) an offender who was released on parole or at his or her final release date is deemed to be on parole under section 28, and any conditions to which the offender is subject are deemed to be release conditions imposed by the Board; and
+  (b) an offender who was released to home detention is deemed to be on home detention under section 35, and any conditions to which the offender is subject are deemed to be detention conditions imposed by the Board; and
+  (c) an offender who was released under a direction by the Minister of Corrections under section 94 of the Criminal Justice Act 1985 is deemed to have been released on compassionate release under section 41, and any conditions to which the offender is subject are deemed to be release conditions imposed by the Board; and
+  (d) an offender who was directed to be released under the Criminal Justice Act 1985 before the commencement date, but who (although the direction had not been revoked) had not in fact been released by that date, must be released under the Criminal Justice Act 1985 in accordance with the direction but, once the offender is released, paragraphs (a), (b), and (c) apply as if the offender had been released before the commencement date.
+(2) If, before the commencement date, an offender is referred under section 97(5) or (6) of the Criminal Justice Act 1985 to the Board for consideration but the Board has not made a decision then, after the commencement date, the offender must be brought to the attention of the chairperson for consideration for referral to the Board under section 25 of this Act.
+(3) If, before the commencement date, an offender is being considered by the Minister of Corrections for early release under section 94 of the Criminal Justice Act 1985 but the Minister has not made a decision, then, after the commencement date, the offender must be brought to the attention of the chairperson for consideration for referral to the Board under section 41 of this Act.
+(4) If an offender referred to in subsection (3) was being considered by the Minister of Corrections on the ground referred to in section 94(1)(c) of the Criminal Justice Act 1985, the chairperson may refer the offender, and the Board may release him or her under section 41 of this Act, as if he or she were eligible to be considered under that section.
+(5) A properly made application for a recall order that is made under the Criminal Justice Act 1985 before the commencement date must, after the commencement date, be treated as if it were a properly made recall application under section 60 of this Act, and sections 65 and 66 apply accordingly.
+(6) A properly made interim recall order that is made under the Criminal Justice Act 1985 before the commencement date must, after the commencement date, be treated as if it were a properly made interim recall order made under section 62 of this Act, and sections 63 to 66 apply accordingly.
+(7) An application for an order under section 105 of the Criminal Justice Act 1985 must, after the commencement date, be dealt with as if it were an application under section 107 of this Act.
+(8) Every order made under section 105 of the Criminal Justice Act 1985 must be reviewed by the Board under section 107(6) of this Act as if the order had been made under that section.
+(9) Despite subsection (1), every appeal against a decision made under Part 4 or Part 6 of the Criminal Justice Act 1985 must, whether the appeal is lodged before or after the commencement date, be lodged and dealt with as if Part 6 of that Act had not been repealed.
+
+### 98 Transitional provisions for hearings within 3 months after commencement date
+(1) During the transition period (defined in subsection (3)), every hearing by the Board of a type referred to in section 42 (which relates to hearings to decide release conditions at statutory release, parole hearings, and home detention hearings) must be an attended hearing as described in section 49, despite anything in sections 45 to 48.
+(2) To avoid doubt, during the transition period the Board may exercise any and all of its powers under sections 42 to 50 with respect to hearings due to be held after the end of the transition period.
+(3) In this section and section 99, transition period means the period starting on the commencement date and ending on the date that is 3 months after the commencement date.
+
+### 99 Chief executive may exercise certain powers before commencement date
+(1) Before the commencement date, the chief executive may, with respect to any hearing by the Board that is due to be held during the transition period (defined in section 98(3)), take any administrative steps that are necessary or desirable to ensure that, after the commencement date, the Board will be able to conduct the hearings as required by this Act, including—
+  (a) arranging for reports to be provided to the Board as required by section 43(1); and
+  (b) giving notice as required by section 43(2) and (3); and
+  (c) providing victims who request information (as permitted under section 44) with that information; and
+  (d) fixing times for attended hearings and giving notice as required by section 45(7)(b) and (c).
+(2) After the commencement date, any power exercised by the chief executive under subsection (1) is deemed to have been exercised by the Board.
+
+### 100 Offenders subject to non-association orders
+(1) This section applies to an offender who is subject to a pre-cd sentence and to an order made under section 77B of the Criminal Justice Act 1985 that the offender must not associate with any specified person or with persons of any specified class (a non-association order).
+(2) When an offender to whom this section applies is released under this Part, he or she is subject to the non-association order imposed by the court in addition to the conditions imposed by the Board as if, for all purposes, the order were a release condition imposed by the Board.
+(3) The offender or a probation officer may apply to the Board for the variation or discharge of a non-association order as if the order were a special condition imposed under this Part.
+
+### 101 Corrective training deemed to be short-term sentence
+For the purposes of this Part, a sentence of corrective training imposed under the Criminal Justice Act 1985 is deemed to be a short-term sentence of imprisonment.
+
+### 102 Suspended sentences
+(1) This section applies if,—
+  (a) before the commencement date, an order was made under section 21A(1) of the Criminal Justice Act 1985 suspending a sentence of imprisonment; and
+  (b) after the commencement date, an order is made under section 21A(4) of that Act (as continued for this purpose by section 155 of the Sentencing Act 2002) bringing the suspended sentence into effect.
+(2) For the purposes of sentence calculation, the start date of the suspended sentence is the date on which the order under section 21A(4) of the Criminal Justice Act 1985 is made, and the sentence is deemed to be a short-term sentence imposed after the commencement date.
+
+**Release at final release date**
+
+### 103 Purpose and effect of section 104
+(1) The purpose of section 104 is to provide a special form of release for offenders who are subject to long-term pre-cd sentences and whose release would otherwise be delayed as a result of the operation of subparts 2 and 3.
+(2) By way of explanation, the effect of section 104 is that, if it applies to an offender, the Board is obliged to release the offender on parole at his or her final release date, but the offender is subject to release conditions, and is liable to recall until his or her statutory release date.
+
+### 104 Release at final release date
+(1) An offender who is detained under a long-term pre-cd sentence must be released from detention on his or her final release date, subject to the provisions of this section.
+(2) If the offender's final release date is also his or her statutory release date, the offender must be released under subpart 2 of this Part, and not under this section.
+(3) An offender must not be released under this section if, on his or her final release date,—
+  (a) the offender is also subject to a sentence of imprisonment imposed after the commencement date that has a release date that is later than the offender's statutory release date as it was at the commencement date; or
+  (b) the offender is subject to an order under section 107, or an application for such an order, or an application under section 105 of the Criminal Justice Act 1985.
+(4) If subsection (3) ceases to apply to an offender, the offender must be released under this section on his or her final release date or, if that date has passed, on a date set by the Board that is as soon as practicable after it and that is not a non-release day.
+(5) The following sections apply to an offender who is released under this section:
+  (a) sections 7 to 16:
+  (b) section 17, as if the offender were being released at his or her statutory release date:
+  (c) sections 29 to 32, as if the offender were being released on parole:
+  (d) sections 42 to 50, as if the offender were being considered for release on parole:
+  (e) sections 51 to 54, as if the offender were being released at his or her statutory release date:
+  (f) sections 56 to 73, as if the offender had been released on parole.
+(6) A reference in this Act or any other enactment to an offender released on parole includes a reference to an offender released under this section.
+
+### 105 Calculation of final release dates
+(1) The final release date of an offender who is subject to a pre-cd sentence must be determined under section 91 of the Criminal Justice Act 1985, but any date so determined may be varied in accordance with section 106.
+(2) If, after a final release date has been varied in accordance with section 106, it appears that the original date determined under the Criminal Justice Act 1985 should be amended (for instance, because a sentence is quashed, or an error in the determination is discovered), then the original determination may be amended and, if necessary, section 106 applies to the amended determination.
+
+### 106 Variation and cancellation of final release dates
+(1) If, after the commencement date, an offender who is subject to a long-term pre-cd sentence is sentenced to a new concurrent sentence whose release date falls between the offender's final release date and his or her original statutory release date (being the offender's statutory release date as it was at the commencement date), the offender's final release date becomes the release date of the new sentence; and if the offender becomes subject to more than 1 such new sentence, the final release date becomes the release date of the new sentence that has the latest release date.
+(2) If, after the commencement date, an offender who is subject to 1 or more long-term pre-cd sentences is sentenced to a sentence that is directed to be served cumulatively on one of the pre-cd sentences, the offender's final release date—
+  (a) is cancelled if the resulting notional single sentence is a short-term sentence; or
+  (b) if the resulting notional single sentence is a long-term sentence, becomes the date that is calculated by—
+    (i) taking the period between the final release date of the earlier sentence and the expiry date of that sentence; and
+    (ii) deducting that period from the sentence expiry date of the notional single sentence.
+(3) When subsection (2)(b) applies, if the notional single sentence is subsequently revised (by extending or reducing the notional single sentence), the offender's final release date—
+  (a) is cancelled if the revised notional single sentence is a short-term sentence; or
+  (b) must be calculated by deducting the period referred to in subsection (2)(b)(i) from the expiry date of the revised notional single sentence.
+(4) Subsection (1) may not be applied if the result would be to extend the offender's final release date to a date that is later than his or her original statutory release date.
+(5) None of subsection (1), subsection (2), or subsection (3) may be applied if the result would be to make the offender's final release date earlier than it was before the subsection was applied to it.
+(6) The final release date of an offender who is subject to a long-term pre-cd sentence is cancelled, and section 104(1) there-fore ceases to apply, if the offender is recalled under a final recall order from parole, home detention, or compassionate release.
+
+### 107 Order that offender not be released
+(1) This section applies to an offender who is subject to a determinate pre-cd sentence for a specified offence (as defined in subsection (9)).
+(2) The chief executive may apply to the Board at any time before the offender's final release date for an order that the offender not be released before the applicable release date (as defined in subsection (9)).
+(3) The Board must make the order if it is satisfied that the offender would, if released before the applicable release date, be likely to commit a specified offence between the date of release and the applicable release date.
+(4) A copy of the application under subsection (2), and a copy of any report submitted to the Board, must be given to the offender at least 14 days before the application is to be considered, and the offender must be given an opportunity to appear before the Board and state his or her case in person or by counsel.
+(5) If the Board makes an order, it must state its reasons in writing and give a copy of the order and the reasons to the offender or to his or her counsel.
+(6) An order made under this section must be reviewed by the Board at least once in every 6 months following the making of the order, and subsection (4) applies to every review, with all necessary modifications.
+(7) On a review, the Board must revoke the order if it is no longer satisfied that the test in subsection (3) is met; and if it revokes the order, the Board must determine the release conditions that will apply to the offender on release.
+(8) An order made under this section expires on the applicable release date, unless revoked earlier under subsection (7).
+(9) In this section,—
+  - **applicable release date** means,—
+    (a) in the case of an offender subject to a pre-cd sentence imposed for a specified offence, the date that is 3 months before the sentence expiry date:
+    (b) in the case of an offender who is subject to more than 1 pre-cd sentence imposed for a specified offence, the date that is 3 months before the sentence expiry date of the sentence with the latest sentence expiry date
+  - **specified offence** means—
+    (a) murder; or
+    (b) a sexual crime under Part 7 of the Crimes Act 1961 punishable by 7 or more years' imprisonment; and includes a crime under section 144A or section 144C of that Act; or
+    (c) an offence against any of sections 171, 173 to 176, 188, 189(1), 191, 198 to 199, 208 to 210, 234, 235, or 236 of the Crimes Act 1961.
+
+## Part 1A — Extended supervision orders
+
+**Preliminary**
+
+### 107A Overview of Part
+This Part—
+  (a) provides that offenders who have been convicted of certain sexual offences may, after assessment by a health assessor, be made subject to an extended supervision order by a court; and
+  (b) provides that an extended supervision order may last for up to 10 years; and
+  (c) provides that the conditions of an extended supervision order are the standard release conditions and any special conditions imposed by the Board; and
+  (d) provides rights of appeal and review relating to extended supervision orders.
+
+### 107B Meaning of relevant offence
+(1) In this Part, unless otherwise specified, relevant offence means any of the following:—
+  (a) an offence referred to in subsection (2) or subsection (3):
+  (b) an attempt to commit any offence referred to in subsection (2) or subsection (3), where the offence is not itself specified as an attempt and the provision does not itself provide that the offence may be completed on an attempt:
+  (c) a conspiracy to commit any offence referred to in subsection (2) or subsection (3).
+(2) An offence against any of the following sections of the Crimes Act 1961 is a relevant offence:
+  (a) section 128B (sexual violation), but only if the victim of the offence was under the age of 16 at the time of the offence:
+  (b) section 129(1) (attempt to commit sexual violation), but only if the victim of the offence was under the age of 16 at the time of the offence:
+  (c) section 129(2) (assault with intent to commit sexual violation), but only if the victim of the offence was under the age of 16 at the time of the offence:
+  (d) section 129A (sexual conduct with consent induced by certain threats), but only if the victim of the offence was under the age of 16 at the time of the offence:
+  (e) section 130(2) (incest), but only if the victim of the offence was under the age of 16 at the time of the offence:
+  (f) section 131(1) (sexual connection with dependent family member under 18), but only if the victim of the offence was under the age of 16 at the time of the offence:
+  (g) section 131(2) (attempted sexual connection with dependent family member under 18), but only if the victim of the offence was under the age of 16 at the time of the offence:
+  (h) section 131(3) (indecent act on dependent family member under 18), but only if the victim of the offence was under the age of 16 at the time of the offence:
+  (i) section 131B(1) (meeting young person under 16 following sexual grooming, etc):
+  (j) section 132(1) (sexual connection with child under 12):
+  (k) section 132(2) (attempted sexual connection with child under 12):
+  (l) section 132(3) (indecent act on child under 12):
+  (m) section 134(1) (sexual connection with young person under 16):
+  (n) section 134(2) (attempted sexual connection with young person under 16):
+  (o) section 134(3) (indecent act on young person under 16):
+  (oa)
+  (p) section 138(1) (exploitative sexual connection with person with significant impairment):
+  (q) section 138(2) (attempted exploitative sexual connection with person with significant impairment):
+  (r) section 138(4) (indecent act on person with significant impairment):
+  (s) section 139 (indecent act between woman and girl):
+  (t) section 140 (indecency with boy under 12):
+  (u) section 140A (indecency with boy between 12 and 16):
+  (v) section 142 (anal intercourse):
+  (w) section 144A (sexual conduct with children and young people outside New Zealand):
+  (x) section 144C (organising or promoting child sex tours):
+  (y) section 208 (abduction for purposes of marriage or sexual connection), but only if the offence involved a young person under the age of 16 and an intention to have sexual connection with the person:
+  (z) section 210 (abduction of young person under 16), but only if the offence involved an intention to have sexual connection with the person.
+(2A) An offence is also a relevant offence if—
+  (a) it is equivalent to an offence against any of the sections of the Crimes Act 1961 referred to in subsection (2); but
+  (b) was committed against a provision of the Crimes Act 1961 that has been repealed.
+(2B) For the purposes of subsection (2A),—
+  (a) an offence against the former section 133 of the Crimes Act 1961 (indecency with girl under 12) is equivalent to an offence against section 132(3) of that Act (indecent act on child under 12):
+  (b) an offence against the former section 139 of the Crimes Act 1961 (indecent act between woman and girl) is equivalent to an offence against section 134(3) of that Act (indecent act on young person under 16):
+  (c) an offence against the former section 140 of the Crimes Act 1961 (indecency with boy under 12) is equivalent to an offence against section 132(3) of that Act (indecent act on child under 12):
+  (d) an offence against the former section 140A of the Crimes Act 1961 (indecency with boy between 12 and 16) is equivalent to an offence against section 134(3) of that Act (indecent act on young person under 16):
+  (e) an offence against the former section 142 of the Crimes Act 1961 (anal intercourse)
+    (i) if the person upon whom the act of anal intercourse was committed was under the age of 12 years when the act was committed, is equivalent to an offence against section 132(1) of that Act (sexual connection with child under 12); and
+    (ii) if the person upon whom the act of anal intercourse was committed was of or over the age of 12 years when the act was committed, is equivalent to an offence against section 134(1) of that Act (sexual connection with young person under 16).
+(3) An offence under the Films, Videos, and Publications Classification Act 1993 is also a relevant offence if the offence is punishable by imprisonment and any publication that is the subject of the offence is objectionable because it does any or all of the following:—
+  (a) promotes or supports, or tends to promote or support, the exploitation of children, or young persons, or both, for sexual purposes:
+  (b) describes, depicts, or otherwise deals with sexual conduct with or by children, or young persons, or both:
+  (c) exploits the nudity of children, or young persons, or both.
+
+### 107C Meaning of eligible offender
+(1) In this Part, eligible offender means an offender who—
+  (a) has been sentenced to imprisonment for a relevant offence, and that sentence has not been quashed or otherwise set aside; and
+  (b) has not ceased, since his or her latest conviction for a relevant offence that has not been quashed or otherwise set aside, to be subject to a sentence of imprisonment (whether for a relevant offence or otherwise) or to release conditions or detention conditions (whether those conditions are suspended or not); but
+  (c) is not subject to an indeterminate sentence.
+(2) To avoid doubt, and to confirm the retrospective application of this provision, despite any enactment or rule of law, an offender may be an eligible offender (including a transitional eligible offender as defined in section 107Y) even if he or she committed a relevant offence, was most recently convicted, or became subject to release conditions or detention conditions, before this Part came into force.
+(3)
+
+### 107D Meaning of sentencing court
+  - **sentencing court** In this Part, , in relation to an offender, means the High Court, unless every relevant offence for which the offender is subject to a sentence of imprisonment was imposed by a District Court, or any court on appeal from a District Court, in which case the sentencing court is a District Court presided over by a trial Judge.
+
+### 107E Obligation to assess eligible offenders
+The chief executive must ensure that, before an eligible offender is released from detention, the offender is assessed to determine the likelihood that the offender will commit any of the relevant offences referred to in section 107B(2) after release.
+
+**Application for, and making of extended supervision orders**
+
+### 107F Chief executive may apply for extended supervision order
+(1) The chief executive may apply to the sentencing court for an extended supervision order in respect of an eligible offender at any time before the later of—
+  (a) the sentence expiry date of the sentence to which the offender is subject that has the latest sentence expiry date, regardless of whether that sentence is for a relevant offence; and
+  (b) the date on which the offender ceases to be subject to any release conditions.
+(2) An application under this section must be in the prescribed form and be accompanied by a report by a health assessor (as defined in section 4 of the Sentencing Act 2002) that addresses (without limitation) the following matters:
+  (a) the nature of any likely future sexual offending by the offender, including the age and sex of likely victims:
+  (b) the offender's ability to control his or her sexual impulses:
+  (c) the offender's predilection and proclivity for sexual offending:
+  (d) the offender's acceptance of responsibility and remorse for past offending:
+  (e) any other relevant factors.
+(3)
+
+### 107G Procedure following application for extended supervision order
+(1) As soon as practicable after an application for an extended supervision order is made, the chief executive must ensure that the offender who is the subject of the application is served, by personal service, with—
+  (a) a copy of the application; and
+  (b) a copy of the health assessor's report; and
+  (c) copies of any affidavits accompanying the application; and
+  (d) a notice setting out the offender's rights and the procedures relating to the application.
+(2) A Judge of a sentencing court, or a Registrar, Justice, or Community Magistrate, may issue a summons to an offender in respect of whom an application under section 107F is made; and, in that case, sections 24 and 25 of the Summary Proceedings Act 1957 apply with all necessary modifications.
+(3) A Judge of a sentencing court may issue a warrant for the arrest of the offender if the Judge is of the opinion that a warrant is necessary to compel the attendance of the offender; and, in that case, sections 22 and 23 of the Summary Proceedings Act 1957 and section 316 of the Crimes Act 1961 apply with all necessary modifications.
+(4) An offender who is the subject of an application for an extended supervision order must be present at the hearing of the application and may be represented by counsel.
+(5) During the hearing, the sentencing court may adjourn the hearing and,—
+  (a) if the offender was brought to court under section 65(3) of the Corrections Act 2004, section 65 of that Act applies; or
+  (b) if the offender was brought to court following arrest under a warrant issued under subsection (3), the offender may be granted bail in accordance with subsection (6); but, if bail is not granted, the court must remand the offender in custody, in which case the period of the adjournment may not exceed 8 days; or
+  (c) in any other case (subject to subsection (9)),—
+    (i) the court may allow the offender to go at large during the period of the adjournment; or
+    (ii) the offender may be granted bail in accordance with subsection (6).
+(6) If an offender who is the subject of an application for an extended supervision order may be granted bail,—
+  (a) the Bail Act 2000 applies, with all necessary modifications, as if the offender were charged with an offence and was not bailable as of right; and
+  (b) if the sentencing court is a District Court, Part 3 of that Act applies; and
+  (c) if the sentencing court is the High Court, Part 4 of that Act applies.
+(7) The following provisions of the Summary Proceedings Act 1957 apply, with all necessary modifications, to proceedings for an extended supervision order:—
+  (a) section 71 (criminal records):
+  (b) section 201 (amendment of conviction, order, or warrant):
+  (c) section 203 (acts not generally to be done on Sunday), as if a warrant to arrest issued under this section were a warrant to arrest a person charged with an offence:
+  (d) section 204 (proceedings not to be questioned for want of form) :
+  (e) section 206 (contempt of court).
+(8) Any summons, warrant, or other form that is prescribed under section 212 of the Summary Proceedings Act 1957 may, if modified appropriately, be used for the purposes of this section.
+(9) Before the Corrections Act 2004 comes into force, section 26(2) of the Penal Institutions Act 1954 applies as if paragraph (a) of that subsection applies to an offender who is subject to an application for an extended supervision order.
+(10) Sections 138 to 141 of the Criminal Justice Act 1985 (which relate generally to name suppression) apply, with all necessary modifications, to the hearing of an application for an extended supervision order as if the hearing were a proceeding in respect of an offence under any of sections 128 to 142A of the Crimes Act 1961.
+(11) The Costs in Criminal Cases Act 1967 applies, with all necessary modifications, to proceedings under this Part.
+
+### 107GA Application of section 107G during epidemic
+(1) This subsection applies to the hearing of an application for an extended supervision order relating to an offender who has been remanded in custody following arrest under a warrant issued under section 107G(3) if the Court wishes to adjourn it—
+  (a) while an epidemic management notice is in force; or
+  (b) after an epidemic management notice has expired, but while (in the Court's opinion) there remains as an effect of the outbreak of the disease referred to in the notice a backlog of matters pending before the Court.
+(2) The Court may, without the offender's consent, adjourn the hearing of an application for an extended supervision order to which subsection (1) applies for any period (not exceeding 21 days) it thinks appropriate in the circumstances.
+
+### 107H Hearings relating to extended supervision orders
+(1) In this section, hearing means any hearing before a sentencing court or the Court of Appeal that relates to any of the following:
+  (a) an application for an extended supervision order:
+  (b) an application for cancellation of an extended super-vision order:
+  (c) an application for extension of an extended supervision order:
+  (d) an appeal under section 107R.
+(2) At any hearing, the court may receive and take into account any evidence or information that it thinks fit for the purpose of determining the application or appeal, whether or not it would be admissible in a court of law.
+(3) At any hearing, the court is entitled to take into account the fact that an offender refused to co-operate with the preparation of the health assessor's report required under section 107F(2), but it must also take into account any reasons the offender gives for refusal to co-operate with the preparation of the health assessor's report.
+(4) When any hearing is to be held, the chief executive must notify every victim of the offender concerned about the hearing.
+(5) A victim may make written submissions to the court and, with the leave of the court, may appear and make oral submissions at the hearing.
+(6) The court must provide a copy of every order made at or following any hearing, along with the reasons for the order, to the offender concerned, the chief executive, and the police.
+(6A)
+(7) The chief executive must notify every victim of the offender concerned of the outcome of every hearing.
+
+### 107I Sentencing court may make extended supervision order
+(1) The purpose of an extended supervision order is to protect members of the community from those who, following receipt of a determinate sentence, pose a real and ongoing risk of committing sexual offences against children or young persons.
+(2) A sentencing court may make an extended supervision order if, following the hearing of an application made under section 107F, the court is satisfied, having considered the matters addressed in the health assessor's report as set out in section 107F(2), that the offender is likely to commit any of the relevant offences referred to in section 107B(2) on ceasing to be an eligible offender.
+(3) To avoid doubt, a sentencing court may make an extended supervision order in relation to an offender who was, at the time the application for the order was made, an eligible offender, even if, by the time the order is made, the offender has ceased to be an eligible offender.
+(4) Every extended supervision order must state the term of the order, which may not exceed 10 years.
+(5) The term of the order must be the minimum period required for the purposes of the safety of the community in light of—
+  (a) the level of risk posed by the offender; and
+  (b) the seriousness of the harm that might be caused to victims; and
+  (c) the likely duration of the risk.
+(6) If the person to whom an application for an extended supervision order relates is already subject to an extended supervision order, any new order may not be made for a period that, when added to the unexpired portion of the earlier order, exceeds 10 years.
+
+### 107IA Court may impose special conditions on interim basis
+[Repealed]
+
+**Nature of extended supervision order**
+
+### 107J Conditions of extended supervision order
+(1) The conditions of an extended supervision order are—
+  (a) the standard release conditions; and
+  (b) any special conditions imposed by the Board under section 107K, which apply for the period determined by the Board.
+(2) The standard release conditions—
+  (a) apply throughout the term of the order (except as provided in section 107K(2) and section 107O); and
+  (b) must be treated for the purpose of sections 56 to 58 as having been imposed by the Board.
+
+### 107JA Standard extended supervision conditions
+[Repealed]
+
+### 107K Board may impose special conditions
+(1) At any time before an extended supervision order expires or is cancelled, and whether or not it has come into force, the Board may, on an application by the chief executive or a probation officer, impose on the offender—
+  (a) any special condition that the Board is entitled to impose under section 15; and
+  (b) a special condition requiring the person to reside at a specified address and be subject to the standard detention conditions set out in section 36(2)(a), (b), and (d), as if the person were on home detention.
+(2) If an offender is subject to a special condition referred to in subsection (1)(b)—
+  (a) the condition may include a requirement that the offender submit to being accompanied and monitored, for up to 24 hours a day, by an individual who has been approved, by a person authorised by the chief executive, to undertake person-to-person monitoring; and
+  (b) the standard release conditions do not apply.
+(3) If the Board imposes special conditions under this section, it must specify the duration of those conditions which,—
+  (a) in the case of a condition referred to in subsection (1)(a), may be for the full term of the order, or any lesser period; and
+  (b) in the case of the condition referred to in subsection (1)(b), may apply only within the first 12 months of the term of the order.
+(4) Subsections (2) and (4) of section 15 apply in respect of special conditions imposed under this section.
+(5) If an offender is subject to a special condition under this section that requires the offender to take prescription medication, the offender does not breach his or her conditions, for the purposes of section 107T, if he or she withdraws consent to taking prescription medication.
+(6) The Board must notify the offender concerned, and every victim of the offender, if it is considering imposing special conditions under this section.
+(7) The offender and any victim of the offender may make written submissions to the Board and, with the leave of the Board, may appear and make oral submissions on whether special conditions should be imposed, what the conditions should be, and their duration.
+(8) Notice of any special conditions attached to an extended supervision order must be provided, in writing, to the following:
+  (a) the offender:
+  (b) the chief executive:
+  (c) the police:
+  (d) every victim of the offender; but the Board may withhold notice of a particular condition if disclosure of the condition would unduly interfere with the privacy of any other person (other than the offender).
+
+### 107L Commencement and expiry of extended supervision order
+(1) An extended supervision order comes into force,—
+  (a) if the order is made while the offender is detained or liable to be recalled, on the offender's statutory release date; or
+  (b) if the order is made at any other time, on the date specified in the order.
+(2) On the date on which an extended supervision order comes into force, any release conditions or detention conditions to which the offender is subject are discharged.
+(2A)
+(3) An extended supervision order expires on the date on which the order is cancelled or the term of the order expires.
+
+**Cancellation, extension, variation, and suspension of extended supervision orders or conditions**
+
+### 107M Sentencing court may cancel extended supervision order
+(1) At any time after an extended supervision order has come into force, the offender who is subject to the order, or the chief executive, may apply to the sentencing court to cancel the order on the grounds that the offender is no longer likely to commit any of the relevant offences referred to in section 107B(2) within the term of the order.
+(2) On receipt of an application for cancellation, the Registrar of the sentencing court must set the matter down for hearing.
+(3) The applicant for cancellation must, as soon as practicable, serve on the other party—
+  (a) a copy of the application:.
+  (b) notice of the date of the hearing.
+(4) The sentencing court may order the cancellation of an extended supervision order only if the applicant satisfies the court that the offender is no longer likely to commit any of the relevant offences referred to in section 107B(2) within the term of the order.
+(5) Section 107G(7) and (8) applies to proceedings under this section.
+(6) If the sentencing court declines to order the cancellation of an order, the court may at the same time, and on its own initiative or on application by the chief executive, order that the offender not be permitted to apply under this section for a specified period of not more than 2 years.
+
+### 107N Extension of short extended supervision order
+(1) At any time before the expiry of an extended supervision order whose term is less than 10 years, the chief executive may apply to the sentencing court for an extension of the order up to the maximum term of 10 years.
+(2) An application may be made under this section only if—
+  (a) the offender to whom the order relates has been convicted under section 107T, in the 12 months preceding the application, of the offence of breaching a condition of the order; or
+  (b) the offender agrees in writing to the application being made.
+(3) Subsection 107G applies, with all necessary modifications, to an application under this section.
+(4) The sentencing court may order that an extended supervision order be extended if—
+  (a) it is satisfied, having considered the matters addressed in the health assessor's report as set out in section 107F(2), that the offender is likely to commit any of the relevant offences referred to in section 107B(2) after the expiry of the existing order; or
+  (b) the offender agrees in writing to the extension of the order for the term ordered by the court.
+(5) An extended supervision order may not be extended for a term that results in the total term of the order exceeding 10 years.
+
+### 107O Board may vary conditions of extended supervision order
+(1) At any time, whether before or after an extended supervision order has come into force, the offender who is subject to the order, or a probation officer, may apply to the Board for the variation or discharge of any condition of the order.
+(2) Sections 56, 57, and 58(1) and (4) apply as if the conditions of the extended supervision order were release conditions, and as if the offender were already subject to the conditions.
+(3) If the conditions of an extended supervision order are varied or discharged, notice of the conditions as so varied or discharged must be provided to the following:
+  (a) the offender:
+  (b) the probation officer involved:
+  (c) the police:
+  (d) every victim of the offender; but the Board may withhold notice of a particular condition if disclosure of the condition would unduly interfere with the privacy of any other person (other than the offender).
+
+### 107P Suspension of conditions of extended supervision order
+(1) The conditions of an offender's extended supervision order are suspended, and time ceases to run on the order, during any period that the offender is detained in a prison.
+(2) If the conditions of an extended supervision order are suspended under subsection (1), they are reactivated,—
+  (a) in the case of an offender who is detained under a sentence of imprisonment, on the offender's statutory release date; and
+  (b) in the case of an offender who is detained under a court order, on the date the offender is released.
+(3) If an offender who is subject to an extended supervision order is detained in a hospital or secure facility under a compulsory care order or under a compulsory treatment order, then—
+  (a) the conditions of the extended supervision order are suspended while the offender is detained, but a probation officer may reactivate any condition that is required to ensure that the offender does not pose an undue risk to the community or any person or class of persons; and
+  (b) time on the order continues to run during the period of detention; and
+  (c) the conditions that have not been reactivated earlier are reactivated when the offender is released.
+
+### 107Q Effect of new sentence on offender subject to extended supervision order
+(1) If an offender who is subject to an extended supervision order that is in force is sentenced to a community-based sentence, the extended supervision order continues in force while the offender serves the sentence.
+(2) If an offender who is subject to an extended supervision order is sentenced to a determinate sentence, time ceases to run on the order, and the conditions of the order are suspended and then reactivated, in accordance with section 107P.
+(3) If an offender who is subject to an extended supervision order is sentenced to an indeterminate sentence, the order is can-celled; but if the sentence is subsequently quashed or otherwise set aside, the extended supervision order is to be treated as if it had not been cancelled.
+
+**Appeals and reviews**
+
+### 107R Appeals against decisions of sentencing court
+(1) An appeal against a decision or order made by the sentencing court under section 107I, section 107M, or section 107N may be made by the offender to whom the decision or order relates or by the chief executive.
+(2) Every appeal must be to the Court of Appeal, and Part 13 of the Crimes Act 1961 applies, with all necessary modifications and subject to section 107H of this Act, as if the appeal were an appeal against sentence under section 383 of the Crimes Act 1961.
+(3) The lodging of an appeal against a decision or order does not prevent that decision or order taking effect according to its terms.
+
+### 107S Review of Board decisions
+Section 67 (which provides for reviews of decisions by the Board) applies to decisions by the Board under section 107K or section 107O.
+
+**Miscellaneous provisions**
+
+### 107T Offence to breach extended supervision order
+An offender who is subject to an extended supervision order and who breaches, without reasonable excuse, any conditions attaching to that order commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 2 years.
+
+### 107U Rules about court practice and procedure
+The Governor-General may from time to time, by Order in Council, make rules regulating the practice and procedure of courts in proceedings under section 107I, section 107M, or section 107N.
+
+### 107V Additional victim notification
+The chief executive must notify every victim of an offender who is subject to an extended supervision order if any of the following occurs:
+  (a) the offender is convicted of an offence against section 107T:
+  (b) the offender's extended supervision order expires:
+  (c) the offender dies.
+
+### 107W Information about victims not to be disclosed
+In any proceedings under this Part, no person may, directly or indirectly, disclose to the offender any information that discloses the current address or contact details of any victim of the offender (as defined in section 4 of the Victims' Rights Act 2002).
+
+### 107X Application of Legal Services Act 2000
+For the purposes of section 6(a) of the Legal Services Act 2000 (which identifies proceedings for which legal aid may be granted), proceedings under this Part before any court are criminal proceedings.
+
+**Transitional measures**
+
+### 107Y Definitions
+In this section and section 107Z,—
+  - **introduction date** means 11 November 2003, which was the date on which the Parole (Extended Supervision) and Sentencing Amendment Bill 2003 was introduced into the House of Representatives
+  - **transitional eligible offender** means any one of the following:—
+    (a) any person who, on or after the introduction date, would have been an eligible offender if this Part had been in force on or after that date, but who ceases to be an eligible offender before this Part comes into force:
+    (b) any person who, on the date on which this Part comes into force, is an eligible offender, but who ceases to be an eligible offender within 6 months after this Part comes into force.
+
+### 107Z Applications in respect of transitional eligible offenders to be made within first 6 months after commencement
+(1) This Part applies to a transitional eligible offender in the same way as it applies to an eligible offender, except as provided in subsection (2).
+(2) The chief executive may apply for an extended supervision order in respect of a transitional eligible offender until 5 pm on the day that is 6 months after the date on which this section comes into force, but no later. This subsection overrides section 107F(1)(a) and (b).
+(3) However, nothing in this section prevents the chief executive applying for an extended supervision order more than 6 months after this section comes into force if, after that date, the offender is an eligible offender.
+
+## Part 2 — New Zealand Parole Board and amendments to other enactments relating to parole and release generally
+
+**Establishment of board**
+
+### 108 New Zealand Parole Board established
+(1) The New Zealand Parole Board is established as an independent statutory body.
+(2) The Department of Corrections provides administrative and training support to the Board.
+(3) The Board is subject to the Official Information Act 1982 and to the Privacy Act 1993.
+
+### 109 Functions of Board
+(1) The functions of the Board are—
+  (a) to consider offenders for parole and, if appropriate, to direct offenders to be released on parole (under sections 20 to 32):
+  (b) to consider offenders for home detention and, if appropriate, to direct offenders to continue serving their sentences by way of home detention (under sections 33 to 40):
+  (c) to consider offenders for release on compassionate release and, if appropriate, to give a direction for their release on compassionate grounds under section 41:
+  (d) to set the conditions for—
+    (i) offenders released at their statutory release date (under section 18); and
+    (ii) offenders released on parole or compassionate release; and
+    (iii) offenders detained on home detention; and
+    (iv) offenders released at their final release date under section 104:
+  (da)
+  (e) to consider and determine applications for—
+    (i) the variation and discharge of release conditions and detention conditions under section 58; and
+    (ia) the variation and discharge of conditions of extended supervision orders as provided for in section 107O; and
+    (ii) interim and final recall from parole, home detention, or compassionate release:
+  (f) to make postponement orders under section 27 in relation to offenders:
+  (g) to make and review orders under section 107:
+  (ga) to impose special conditions on offenders in respect of whom extended supervision orders have been made:
+  (h) to review decisions in accordance with section 67:
+  (i) to do anything else it is required to do under this Act or any other enactment.
+(2) The Board also has the following functions:
+  (a) to develop policies on how to discharge its functions under this section, and to amend and revise those policies as it sees fit:
+  (b) to maintain a register of Board decisions:
+  (c) to keep statistical and other records relating to its work:
+  (d) to provide information that is readily accessible to offenders, victims (as defined in section 4 of the Victims' Rights Act 2002), and the general public about matters relating to release from detention and the policies and operation of the Board generally.
+
+### 109A Board must follow parole guidelines
+[Repealed]
+
+### 109B Application of parole guidelines
+[Repealed]
+
+### 110 Department of Corrections to provide administrative and training support to Board
+(1) The chief executive must ensure that the Board and the chairperson are provided with the administrative and training support necessary to enable them to perform their functions efficiently and effectively.
+(2) The support must, without limitation, include the following:
+  (a) support on a regional basis for parole panels operating in each region:
+  (b) co-ordination of the timetable for, and membership of, parole panels:
+  (c) support for the Board in performing its functions under section 109(2):
+  (d) support for the chairperson in performing his or her functions under section 112:
+  (e) support for panel convenors in performing their functions under section 114(3):
+  (f) making available appropriate induction and training for Board members.
+
+**Membership of Board**
+
+### 111 Membership of Board
+(1) The Board consists of members who are appointed by the Governor-General on the recommendation of the Attorney-General.
+(2) The Board must include—
+  (a) 1 member who is appointed as chairperson; and
+  (b) at least 9 members who are appointed as panel convenors; and
+  (c) sufficient other members to enable the Board to carry out its functions efficiently and effectively.
+(3) Before recommending a person as a member, the Attorney-General must be satisfied that the person has—
+  (a) knowledge or understanding of the criminal justice system; and
+  (b) the ability to make a balanced and reasonable assessment of the risk an offender may present to the community when released from detention; and
+  (c) the ability to operate effectively with people from a range of cultures; and
+  (d) sensitivity to, and understanding of, the impact of crime on victims (as defined in section 4 of the Victims' Rights Act 2002).
+
+### 112 Chairperson of Board
+(1) The member appointed as chairperson must be a Judge of the High Court or a former Judge of the High Court, or a District Court Judge or a former District Court Judge.
+(2) The primary function of the chairperson is to ensure that the Board carries out its functions in accordance with this Act in an efficient and effective manner.
+(3) Without limiting the function described in subsection (2), it is also the function of the chairperson to—
+  (a) make referrals to the Board for early release under section 25; and
+  (b) make referrals to the Board for compassionate release under section 41; and
+  (c) make interim recall orders under section 62; and
+  (d) allocate panel convenors to undertake reviews of decisions under section 67; and
+  (e) do anything else that the chairperson is required to do under this Act or any other enactment.
+(4) The chairperson may sit as a member (including as a panel convenor) at any panel hearing.
+
+### 113 Delegation of chairperson's functions, powers, and duties
+(1) The chairperson may delegate any of his or her functions or powers to any 1 or more panel convenors.
+(2) Every delegation must be in writing and may be revoked at will, either in writing or orally.
+(3) A delegation under this section may not be further delegated.
+(4) For the purpose of ensuring that the functions and powers of the chairperson are performed or exercised during any period when the chairperson is absent or incapacitated, the chairperson must ensure that at all times he or she has nominated 1 panel convenor to serve as acting chairperson if the need arises.
+(5) The fact that a person purports to exercise, or to have exercised, any function or power of the chairperson under a delegation or nomination is, in the absence of proof to the contrary, sufficient evidence of the person's authority to do so.
+
+### 114 Panel convenors
+(1) Every member who is appointed as a panel convenor must be a District Court Judge, a former District Court Judge, or a barrister or solicitor who has held a practising certificate for at least 7 years.
+(2) Despite subsection (1), at any time there may be appointed as a panel convenor 1 person who is a Judge of the High Court or a former Judge of the High Court.
+(3) The functions of a panel convenor are—
+  (a) to make the decision on whether to hold an attended or an unattended hearing for any decision relating to release conditions, parole, or home detention; and
+  (b) at a hearing,—
+    (i) to preside at the hearing; and
+    (ii) to determine any matters of procedure that may arise during or in relation to the hearing; and
+    (iii) to sign the decision of the panel at that hearing; and
+  (c) to make interim recall orders under section 62; and
+  (d) to undertake reviews under section 67; and
+  (e) to do anything else that a panel convenor is required to do under this Act or any other enactment; and
+  (f) under the direction of the chairperson, to undertake or assist in the exercise of any of his or her functions.
+(4) The chairperson may appoint any member (whether or not qualified to be a panel convenor) as an acting panel convenor in respect of a particular hearing or number of hearings if, for any reason, a panel convenor is not available for that hearing or those hearings.
+(5) If the chairperson sits on a parole panel, he or she may act as a panel convenor for the purposes of that sitting; and for that purpose the chairperson has all the functions and powers of a panel convenor.
+
+**How Board performs its functions**
+
+### 115 Parole panels
+(1) The Board must operate in panels of at least 3 members, 1 of whom must be a panel convenor or the chairperson.
+(2) The decision of the majority of members on a panel is the decision of the panel.
+(3) Subsection (1) is subject to any other provision of this Act that requires or permits the Board to perform its functions other than by way of panel hearings.
+(4) Despite subsection (1), if a member leaves a hearing for any reason, the remaining 2 members may continue the hearing and, provided the absent member participates in the final decision-making process, the validity of any resulting decision is not affected.
+
+### 116 Decisions of Board
+(1) A decision by a panel acting within its jurisdiction is a decision of the Board.
+(2) A decision by the chairperson or a panel convenor, acting within their respective jurisdictions, is a decision of the Board.
+(3) A decision of the Board on the detention or release of an offender, or on his or her release or detention conditions, must be in writing and include reasons for the decision.
+(4) A copy of every decision of the Board that relates to an offender must be given to—
+  (a) the offender to whom it relates; and
+  (b) the Department of Corrections.
+
+### 117 Information before Board
+(1) In any hearing before the Board, the Board may receive and take into consideration whatever information it thinks fit, whether or not the information would be admissible as evidence in a court of law.
+(2) Information received by the Board may be in a form other than writing, but only if the Board is satisfied that—
+  (a) the information adds significantly to the written information available to it; and
+  (b) it will be possible, in relation to that information, to comply with the rule in section 13(1) about making information available to offenders.
+(3)
+
+### 117A Board may regulate own procedure
+The Board may regulate its own procedure as it thinks fit, subject to this Act and any regulations made under it.
+
+### 118 Avoiding actual or perceived bias
+(1) The chairperson must ensure that no person involved in a parole panel hearing reviews a decision of that panel.
+(2) The chairperson must, if he or she becomes aware that a member has, or may be perceived as having, bias for or against an offender, require the member to excuse himself or herself from—
+  (a) participating in a panel that considers an application by or relating to the offender; and
+  (b) making, or participating in making, any other decision under this Act that relates to the offender.
+
+**Summoning witnesses**
+
+### 118A Power to summon witnesses
+[Repealed]
+
+### 118B Service of summons
+[Repealed]
+
+### 118C Protection of witnesses
+[Repealed]
+
+### 118D Offences
+[Repealed]
+
+**General provisions about Board and members**
+
+### 119 Annual report
+(1) The Board must, within 2 months of the end of each financial year, give the Attorney-General an annual report on the operation of the Board, and the performance of its functions, during the financial year.
+(2) The Board's annual report must include—
+  (a) information about every referral made by the chairperson to the Board for early consideration for parole and for compassionate release; and
+  (b) information about every class designated by the Minister of Justice under section 25(3) for early consideration by the Board for parole.
+
+### 120 Term of appointment, and reappointment
+(1) Every member, including the chairperson, must be appointed for a term of 3 years or less.
+(2) A member continues in office despite the expiry of his or her term of office until—
+  (a) the member is reappointed; or
+  (b) the member's successor is appointed; or
+  (c) the Attorney-General informs the member in writing that the member is not to be reappointed and that no successor is to be appointed at that time.
+(3) A member who is involved in a hearing that is not complete on the date that he or she ceases to be in office may complete the hearing after that date and is, for that purpose, deemed to be in office until the hearing is complete.
+(4) Any member may be reappointed any number of times.
+
+### 121 Members ceasing to hold office
+(1) A member may at any time resign from office by written notice to the Governor-General.
+(2) The Governor-General may at any time, on the recommendation of the Attorney-General, remove a member from office for just cause; and the member is not entitled to compensation for removal.
+
+### 122 Remuneration and expenses of members
+(1) The remuneration of any member who is a District Court Judge or a Judge of the High Court must, so far as it relates to the Judge's membership of the Board, be determined by the Higher Salaries Commission.
+(2) Every other member must be paid fees and expenses in accordance with the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies.
+(3) A person is not employed in the service of the Crown, for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956, merely as a result of being a member of the Board.
+
+### 123 Immunity of members
+No member is personally liable for any act or omission done in pursuance, or intended pursuance, of the Board's functions, unless the act or omission was done in bad faith.
+
+### 124 Abolition of Parole Board and District Prisons Boards
+(1) At the close of the day before the commencement date, the Parole Board established under section 130 of the Criminal Justice Act 1985, and every District Prisons Board established under section 132 of that Act, are abolished.
+(2) The term of every member of the Parole Board, and of every member of a District Prisons Board, expires with the close of the day before the commencement date.
+(3) No member of the Parole Board or a District Prisons Board is entitled to compensation as a result of the expiry under this section of his or her term of office.
+(4) On and from the commencement date, every reference in an enactment (other than this Act), or in any instrument or register, to the Parole Board or to a District Prisons Board or District Prisons Boards must, if the context requires, be construed as a reference to the Board.
+
+**Acts amended**
+
+### 125 Acts amended
+The Acts set out in the Schedule are amended in the manner set out in that schedule.
+
+## Schedule Schedule — Amendments to other enactments
+
+### 46 Time on bail pending appeal not to be taken as time served
+Section 95 of the Parole Act 2002 applies if an appellant is released on bail pending an appeal.
