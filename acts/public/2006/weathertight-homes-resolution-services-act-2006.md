@@ -1,5 +1,5 @@
 # Weathertight Homes Resolution Services Act 2006
-_Consolidation as at 2007-08-29_
+_Consolidation as at 2007-09-03_
 
 ### 1 Title
 This Act is the Weathertight Homes Resolution Services Act 2006.
@@ -88,7 +88,6 @@ In this Act, unless the context otherwise requires,—
     (a) a High Court; or
     (b) a District Court, if the amount claimed or in issue does not exceed the amount to which the jurisdiction of the District Court is limited in civil cases
   - **cross-lease complex** means a complex containing dwellinghouses held under the arrangement commonly referred to as a cross-lease title
-  - **damages** means any form of monetary compensation or damages (however described)
   - **deficiency** , in relation to a building, means any aspect of its design, construction, or alteration, or of materials used in its construction or alteration, that has enabled (or, as the case requires, is likely in future to enable) water to penetrate it
   - **Department** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act (except any justice provisions)
   - **Disputes Tribunal** means a Disputes Tribunal established under section 4 of the Disputes Tribunals Act 1988
@@ -103,9 +102,6 @@ In this Act, unless the context otherwise requires,—
   - **eligibility criteria** means the criteria set out in sections 14 to 18
   - **eligible claim** means a claim by the owner of a dwellinghouse that has been evaluated under section 48 by the chief executive, or reconsidered under section 49 by the chair, as meeting the eligibility criteria
   - **full assessor's report** means a report of the kind described in section 42
-  - **general damages** means damages that—
-    (a) cannot be objectively quantified in monetary terms; and therefore
-    (b) are assessed and quantified in broader terms
   - **invasive testing** —
     (a) means testing—
       (i) to measure the moisture content of any area, component, material, or space; or
@@ -132,9 +128,6 @@ In this Act, unless the context otherwise requires,—
   - **mediation** means mediation initiated under this Act
   - **mediator** means a person appointed to provide mediation services under section 77
   - **member** means a person appointed under section 103 to be a member of the tribunal
-  - **mental distress** means all or any of the following
-    (a) emotional or mental anxiety:
-    (b) distress or stress
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act (except any justice provisions)
   - **Ministry** means the Ministry of Justice
   - **multi-unit complex** means a complex (which may, but need not, be a stand-alone complex) that—
@@ -144,7 +137,6 @@ In this Act, unless the context otherwise requires,—
   - **owner** , in relation to a dwellinghouse, includes a shareholder of a company, the principal purpose of which is to own the dwellinghouse or the dwellinghouses within the company share complex concerned
   - **parties** , in relation to a claim, means the claimant and any 1 or more respondents in relation to that claim
   - **prescribed** means prescribed by regulations under this Act
-  - **relevant mental distress** , in relation to a claim, means mental distress suffered as a consequence of all or any of the damage, deficiencies, loss of value, and penetration of water specified in section 50(1)(a) to (e)
   - **representative** ,—
     (a) for the owners of dwellinghouses in a company-share complex, means the company; and
     (b) for the owners of dwellinghouses in a cross-lease complex, means any person (whether one of those owners or not) authorised (whether to replace another person earlier so authorised or not) under section 19 or 20, to take action under this Act in respect of dwellinghouses, common areas, or both, in that complex; and
@@ -558,16 +550,17 @@ Within 20 working days after receiving the copy of an assessor's report stating 
 **Remedies that may be sought by claimants**
 
 ### 50 What remedies may be claimed
-(1) As long as it is an eligible claim, a claim under this Act may be for any remedy that could be claimed in a court of law in relation to, or for consequences of, all or any of the following:
-  (a) deficiencies that enabled the penetration of water into the building concerned:
-  (b) the penetration of water into the building concerned:
-  (c) damage or loss of value caused by the penetration of water into the building concerned:
-  (d) loss of value caused by the fact that there are deficiencies in the building concerned:
-  (e) deficiencies that are likely in future to enable the penetration of water into the building concerned.
-(2) Remedy, in subsection (1), includes (without limitation) general damages (for example, for relevant mental distress).
-(3) Subsections (1) and (2)—
-  (a) are not limited or affected by subsection (2)(d), (3)(d), or (4)(d) of section 42; but
-  (b) are subject to section 91 (which relates to costs of adjudication proceedings).
+(1) As long as it is an eligible claim, a claim under this Act may be for any remedy that could be claimed in a court of law for, or in relation to,—
+  (a) the penetration of water into the building concerned; or
+  (b) damage or loss of value caused by the penetration of water into the building concerned; or
+  (c) loss of value caused by the fact that the building concerned is not weathertight; or
+  (d) making the building concerned weathertight, whether—
+    (i) in relation to the deficiencies that enabled the penetration of water into the building concerned; or
+    (ii) in relation to deficiencies that are likely in future to enable the penetration of water into the building concerned.
+(2) Paragraphs (c) and (d) of subsection (1) apply to the extent only that the building concerned is not weathertight because of some aspect of the design, construction, or alteration of the building, or materials used in its construction or alteration.
+(3) Subsection (1)—
+  (a) is not limited or affected by subsection (2)(d), (3)(d), or (4)(d) of section 42; but
+  (b) is subject to section 91 (under which parties must meet their own costs and expenses unless the tribunal determines that a party must meet costs and expenses the party caused to be incurred unnecessarily by bad faith on the part of, or allegations or objections without substantial merit raised by, that party).
 
 **Lower-value claims**
 
@@ -732,7 +725,7 @@ Within 20 working days after receiving the copy of an assessor's report stating 
 (3) The application in writing in the approved form (if any) must state—
   (a) the date of the application; and
   (b) the nature and a brief description of the claim and of the parties involved; and
-  (c) the remedy (see section 50) that is sought; and
+  (c) the relief or remedy that is sought; and
   (d) the names and addresses of the parties to the adjudication; and
   (e) if available, the addresses that the parties have specified for the service of notices.
 (4) Every copy of the application that is served on another party to the adjudication must be accompanied by a copy of the assessor's report that relates to the claim, and may be accompanied by any other documents.
@@ -954,9 +947,7 @@ If, in any particular case, no application has yet been made to the tribunal to 
 (2) The tribunal must give a copy of the determination to every party to the adjudication as soon as practicable after making a determination.
 
 ### 90 Tribunal's determination: substance
-(1) The tribunal may make any order that a court of competent jurisdiction could make in relation to a claim in accordance with principles of law.
-(1A) An order under subsection (1) may require the payment of general damages (for example, for relevant mental distress).
-(1B) Subsection (1A) does not limit subsection (1).
+(1) A tribunal may make any order that a court of competent jurisdiction could make in relation to a claim in accordance with principles of law.
 (2) However, if the tribunal makes an order under subsection (1) that requires a person to take any action other than the payment of money, the tribunal must also determine an amount of money that is payable by the person required to take the action, and a date by which that amount is payable if that person fails or refuses to take the action before that date.
 (3) If the tribunal determines that a party to the adjudication is liable to make a payment to another party, the tribunal may make that determination subject to any conditions that the tribunal thinks fit.
 (4) The tribunal may determine that the liability of a party to the adjudication depends on another party to that adjudication meeting any conditions that the tribunal may impose.
@@ -1428,17 +1419,12 @@ This subpart applies to a claim (the claim) if, before the transition date,—
   (b) adjudication of the claim has been initiated under the former Act.
 
 ### 148 Claim may continue under former Act or be withdrawn
-(1) The claim must be dealt with—
-  (a) as if Part 1 had not been enacted; and
-  (b) under the former Act as modified by section 148A.
+(1) The claim must be dealt with as if Part 1 had not been enacted.
 (2) Subsection (1) does not prevent the claimant from withdrawing the claim before it has been disposed of under the former Act.
 (3) Withdrawal of the kind contemplated by subsection (2) may be done at the claimant's discretion, and without complying with section 30 of the former Act, but may be done for the purpose only of enabling the claimant, as soon as is practicable,—
   (a) to make an application to the tribunal, under section 62, to have the withdrawn claim adjudicated, in accordance with section 150 or 153(1)(a); or
   (b) to be part of, or to join, a new claim, brought, under section 19, 20, or 21, in respect of the same dwellinghouse, common areas, or both, in accordance with section 153(1)(b).
 (4) Subsection (3) does not limit the application to the claim of section 30 of the former Act.
-
-### 148A How former Act modified for section 148(1)
-The former Act must for the purposes of section 148(1) be treated as if it had been amended in the manner specified in Schedule 4.
 
 ### 149 Who deals with claims to which section 148 applies
 (1) A claim to which section 148 applies must, if it is not withdrawn before it is disposed of under the former Act, be dealt with in accordance with that section by—
@@ -1616,45 +1602,3 @@ If any party to any proceedings applies to the tribunal to accord urgency to the
 If, in proceedings before the tribunal, a party to the claim concerned dies,—
   (a) the proceedings do not abate because of the death; but
   (b) the legal personal representative of the deceased party must be substituted for that party.
-
-## Schedule 4 — Modifications to former Act for section 148(1)
-
-### 26A What remedies may be claimed
-(1) As long as it is an eligible claim, a claim under this Act may be for any remedy that could be claimed in a court of law in relation to, or for consequences of, all or any of the following:
-  (a) deficiencies that enabled the penetration of water into the building concerned:
-  (b) the penetration of water into the building concerned:
-  (c) damage or loss of value caused by the penetration of water into the building concerned:
-  (d) loss of value caused by the fact that there are deficiencies in the building concerned.
-(2) In subsection (1),—
-  - **deficiency** , in relation to a building, means any aspect of its design, construction, or alteration, or of materials used in its construction or alteration, that has enabled water to penetrate it
-  - **remedy** includes (without limitation) general damages (for example, for relevant mental distress).
-(3) Subsections (1) and (2)—
-  (a) are not limited or affected by section 7(2); but
-  (b) are subject to section 43 (which relates to costs of adjudication proceedings).
-
-### 1 Title
-This Act is the Weathertight Homes Resolution Services (Remedies) Amendment Act 2007.
-
-### 2 Commencement
-This Act comes into force on the day after the date on which it receives the Royal assent.
-
-## Part 1 — Purpose and application of Part 2
-
-### 5 Claims affected by amendments made by Part 2
-(1) The amendments made by Part 2 apply only to the following claims:
-  (a) claims brought under the principal Act after the commencement of this Act; and
-  (b) claims brought under the principal Act, but not withdrawn, terminated, or otherwise disposed of (for example, through resolution by a settlement agreement, or by a determination by the tribunal), before the commencement of this Act; and
-  (c) claims adjudication of which was initiated under the Weathertight Homes Resolution Services Act 2002 (in this Act called the former Act) before the transition date and that,—
-    (i) under section 149 of the principal Act must, if they are not withdrawn before they are disposed of under the former Act, be dealt with in accordance with section 148 of the principal Act by a person specified in section 149(1) of the principal Act; and
-    (ii) are not withdrawn, terminated, or otherwise disposed of before the commencement of this Act.
-(2) The claims in subsection (1)(a) and (b) include claims—
-  (a) brought under the former Act; and
-  (b) of the kind specified in subsection (1)(c); and
-  (c) that are withdrawn and adjudicated under the principal Act in accordance with section 150 or 153, and subject to the relevant modifications specified in subpart 6 of Part 2, of the principal Act.
-(3) A reference in subsection (1)(b) to a claim brought under the principal Act includes a claim to which subpart 3, 4, or 5 of Part 2 of the principal Act applies, and therefore to which Part 1 of the principal Act applies—
-  (a) as if it were a claim brought under the principal Act; and
-  (b) subject to the relevant modifications specified in subpart 3, 4, or 5 of Part 2 of the principal Act.
-(4) A claim disposed of through resolution by a determination of the tribunal, an adjudicator, or a person specified in section 149(1) of the principal Act is disposed of for the purposes of subsection (1) even if that determination is or may be subject to an appeal, a review proceeding, or both.
-(5) If, under subsection (1), the amendments made by Part 2 apply or (as the case requires) do not apply to a claim, they apply or (as the case requires) do not apply to it both—
-  (a) on adjudication at first instance by the tribunal, an adjudicator, or a person specified in section 149(1) of the principal Act; and
-  (b) on any appeal or rehearing, and for the purposes of any review proceeding.
