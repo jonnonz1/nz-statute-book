@@ -1,5 +1,5 @@
 # Evidence Amendment Act (No 2) 1980
-_Consolidation as at 2007-08-01_
+_Consolidation as at 2007-09-03_
 
 > An Act to amend the Evidence Act 1908
 
