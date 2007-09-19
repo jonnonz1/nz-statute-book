@@ -1,5 +1,5 @@
 # Health and Disability Commissioner Act 1994
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-19_
 
 > An Act to promote and protect the rights of health consumers and disability services consumers, and, in particular,—aTo secure the fair, simple, speedy, and efficient resolution of complaints relating to infringements of those rights; andbTo provide for the appointment of a Health and Disability Commissioner to investigate complaints against persons or bodies who provide health care or disability services; and to define the Commissioner's functions and powers; andcTo provide for the establishment of a Health and Disability Services Consumer Advocacy Service; anddTo provide for the promulgation of a Code of Health and Disability Services Consumers's Rights; andeTo provide for matters incidental thereto
 
@@ -684,21 +684,21 @@ The Commissioner shall not, in any report or recommendation made or published un
 (9) Sections 74 to 76 of the Crown Entities Act 2004 do not apply to a delegation under subsection (4) or (5).
 
 ### 69 Further provisions relating to delegations
-(1) Every delegation under section 9 or section 68(4) or (5) of this Act shall be in writing.
+(1) Every delegation under section 68(4) or (5) of this Act shall be in writing.
 (2) The power to delegate under section 68(4) or (5) of this Act does not limit any power of delegation conferred on the Commissioner or the Director of Proceedings or the Director of Advocacy by any other Act.
-(3) Subject to any general or special directions given or conditions imposed by the person by whom the delegation is made, the person to whom any functions or powers are delegated under section 9 or section 68(4) or (5) of this Act may exercise any functions or powers so delegated to that person in the same manner and with the same effect as if they had been conferred on that person directly by this section and not by delegation.
-(4) Every person purporting to act pursuant to any delegation under section 9 or section 68(4) or (5) of this Act shall, in the absence of proof to the contrary, be presumed to be acting in accordance with the terms of the delegation.
+(3) Subject to any general or special directions given or conditions imposed by the person by whom the delegation is made, the person to whom any functions or powers are delegated under section 68(4) or (5) of this Act may exercise any functions or powers so delegated to that person in the same manner and with the same effect as if they had been conferred on that person directly by this section and not by delegation.
+(4) Every person purporting to act pursuant to any delegation under section 68(4) or (5) of this Act shall, in the absence of proof to the contrary, be presumed to be acting in accordance with the terms of the delegation.
 (5) Any delegation under section 68(4) or (5) of this Act may be made—
   (a) To any specified person or to persons of a specified class, or to the holder or holders for the time being of a specified office or specified class of offices:
   (b) Subject to such restrictions and conditions as the person by whom the delegation is made thinks fit:
   (c) Either generally or in relation to any particular case or class of cases.
-(6) No delegation under section 9 or section 68(4) or (5) of this Act shall affect or prevent the exercise of any function or power by the Commissioner or, as the case requires, the Director of Proceedings or the Director of Advocacy, nor shall any such delegation affect the responsibility of the Commissioner for the actions of any person acting under the delegation.
+(6) No delegation under section 68(4) or (5) of this Act shall affect or prevent the exercise of any function or power by the Commissioner or, as the case requires, the Director of Proceedings or the Director of Advocacy, nor shall any such delegation affect the responsibility of the Commissioner for the actions of any person acting under the delegation.
 
 ### 70 Delegate to produce evidence of authority
 Any person purporting to exercise any power of the Commissioner or, as the case requires, the Director of Proceedings or the Director of Advocacy by virtue of a delegation under section 68(4) or (5) of this Act shall, when required to do so, produce evidence of that person's authority to exercise the power.
 
 ### 71 Revocation of delegations
-(1) Every delegation under section 9 or section 68(4) or (5) of this Act shall be revocable in writing at will.
+(1) Every delegation under section 68(4) or (5) of this Act shall be revocable in writing at will.
 (2) Any such delegation, until it is revoked, shall continue in force according to its tenor, notwithstanding that the person by whom the delegation was made may have ceased to hold office, and shall continue to have effect as if made by the successor in office of the person by whom the delegation was made.
 
 **Vicarious liability**
