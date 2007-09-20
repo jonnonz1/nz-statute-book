@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 1989
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to consolidate and amend the law constituting and relating to the Reserve Bank of New Zealand and, in particular,—aTo provide, while continuing to recognise the Crown's right to determine economic policy, for the Reserve Bank of New Zealand, as the central bank, to be responsible for formulating and implementing monetary policy designed to promote stability of the general level of prices; andbTo confer on the Reserve Bank of New Zealand certain other functions and powers; andcTo repeal the Reserve Bank of New Zealand Act 1964
 
@@ -1698,11 +1698,12 @@ The provisions of any enactment or agreement requiring any consent, licence, per
 (4) Nothing in this section restricts the operation of the Companies Act 1993.
 
 ### 139 Application of certain provisions of Companies Act 1993
-(1) Sections 292 to 301, 310G, 310I, and 312 of the Companies Act 1993 shall apply to a registered bank that is subject to statutory management under this Act in all respects, and with such modifications as may be necessary, as if—
+(1) Sections 275, 292 to 301, 310G, 310I, and 312 of the Companies Act 1993 shall apply to a registered bank that is subject to statutory management under this Act in all respects, and with such modifications as may be necessary, as if—
   (a) The registered bank was a company in liquidation under that Act; and
   (b) The statutory manager of the registered bank was the liquidator of the company; and
   (c) The date on which, and the time at which, the registered bank became subject to statutory management was the date on which, and the time at which, the liquidation commenced.
 (2) Nothing in section 263 of the Companies Act 1993 shall apply to a registered bank by virtue of the application of section 312 of that Act.
+(3) To avoid doubt, the reference in section 275(4) of the Companies Act 1993 to clause 1(a) of Schedule 7 of the Companies Act 1993 must be read as a reference to section 148(1) of this Act.
 
 **Miscellaneous provisions**
 
