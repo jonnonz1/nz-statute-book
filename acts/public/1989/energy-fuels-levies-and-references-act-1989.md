@@ -1,11 +1,12 @@
-# Ministry of Energy (Abolition) Act 1989
-_Consolidation as at 2007-09-03_
+# Energy (Fuels, Levies, and References) Act 1989
+_Consolidation as at 2007-09-20_
 
-> An Act to abolish the Ministry of Energy and to make provision incidental thereto
-
-### 1 Short Title and commencement
-This Act may be cited as the Ministry of Energy (Abolition) Act 1989.
+### 1 Title and commencement
+(1) This Act is the Energy (Fuels, Levies, and References) Act 1989.
 (2) Except as provided in section 3(4) of this Act, this Act shall come into force on the 2nd day of January 1990.
+
+### 1A Act binds the Crown
+This Act binds the Crown.
 
 ## Part 1 — Abolition of Ministry of Energy
 
@@ -57,7 +58,9 @@ Any consent, licence, permit, approval, or remission, given or granted by the Mi
 
 ### 12 Interpretation
 In this Part of this Act, and in Parts 3 and 4 of this Act, unless the context otherwise requires,—
-  - **Energy** means work or heat that is or may be produced or derived from coal, electricity, gas, geothermal activity, petroleum, petroleum products, uranium, water, or any other fuel or any other source whatsoever
+  - **biofuel** means any gaseous or liquid fuel produced from biomass that can be used as a fuel for engines
+  - **Energy** means work or heat that is or may be produced or derived from coal, electricity, gas, geothermal activity, petroleum, petroleum products, uranium, water, or any other fuel (including engine fuel) or any other source whatsoever
+  - **engine fuel** means any gaseous or liquid fuel that can be used as a fuel for engines and includes biofuel, diesel, petrol, synthetic fuel, and blends of any of these
   - **Distribution** includes sale
   - **Mineral** has the same meaning as it has in section 5(1) of the Mining Act 1971
   - **Minister** means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
@@ -204,9 +207,9 @@ It is hereby declared that the levies payable under this Part of this Act are ex
     (ii) The purposes for which they are so used or to be used; and
     (iii) The means by which they are so used or to be used; and
     (iv) Changes or proposed changes in the kinds, forms, or sources of energy so used or to be used, or in the quantities so used or to be used:
-  (b) Prescribing standards or specifications for equipment used in the dispensing of refined petroleum products to consumers:
-  (c) Prescribing specifications to which refined petroleum products of the class or classes specified in the regulations must conform when supplied in New Zealand:
-  (d) Requiring persons who sell refined petroleum products to consumers to display or provide information as to the price, quality, quantity, or nature of such refined petroleum products:
+  (b) Prescribing standards or specifications for equipment used in the dispensing of engine fuel or refined petroleum products to consumers:
+  (c) Prescribing specifications to which engine fuel or refined petroleum products of the class or classes specified in the regulations must conform when supplied in New Zealand:
+  (d) Requiring persons who sell engine fuel or refined petroleum products to consumers to display or provide information as to the price, quality, quantity, or nature of such refined petroleum products:
   (e) Prescribing standards or specifications for fuel tank inlets on motor vehicles:
   (f) Prescribing offences in respect of the contravention of or non-compliance with any regulations made under this section, and the amounts of the fines that may be imposed in respect of any such offences, which fines shall be an amount not exceeding $10,000:
   (g) Providing for such other matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
@@ -217,8 +220,8 @@ It is hereby declared that the levies payable under this Part of this Act are ex
 (4) The Secretary must make copies of all material and any amendments incorporated in regulations by reference under subsections (2) and (3) available for inspection, free of charge, at the head office of the Ministry.
 (5) Any material incorporated by reference has no effect until it is made available for inspection in accordance with subsection (4).
 
-### 36 Power of Minister to require information to be supplied as to importation, distribution, or refining of petroleum, or distribution of refined petroleum products
-(1) The Minister may, from time to time, by notice in writing to any person engaged in the importation, distribution, or refining of petroleum, or the distribution of refined petroleum products, require that person to supply to the Minister, by a date specified in the notice, such information in relation to the price of petroleum or refined petroleum products, either in New Zealand or elsewhere, or such particulars with respect to the importation or distribution of refined petroleum products, as the Minister shall specify in the notice.
+### 36 Power of Minister to require information
+(1) The Minister may, from time to time, by notice in writing to any person engaged in the importation, distribution, production, blending, or refining of petroleum, engine fuel, or refined petroleum products, require that person to supply to the Minister, by a date specified in the notice, such information in relation to the price of petroleum or engine fuel or refined petroleum products, either in New Zealand or elsewhere, or such particulars with respect to the importation or distribution or production or blending of engine fuel or of refined petroleum products, as the Minister shall specify in the notice.
 (2) All information and all particulars required by a notice under subsection (1) of this section shall be furnished in such form as the Minister may require and, if the Minister so requires, shall be certified by the person supplying the same as being correct to the best of that person's knowledge and belief.
 
 ### 37 Offences
