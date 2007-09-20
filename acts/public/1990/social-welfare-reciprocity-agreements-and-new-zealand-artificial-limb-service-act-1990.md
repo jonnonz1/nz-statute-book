@@ -1,11 +1,11 @@
 # Social Welfare (Transitional Provisions) Act 1990
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to provide for the New Zealand superannuation and the veteran's pension and various other matters
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Social Welfare (Transitional Provisions) Act 1990.
-(2) This Act shall come into force on the 1st day of April 1990.
+(2) This Act shall come into force on 1 April 1990.
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -40,45 +40,13 @@ _Consolidation as at 2007-09-03_
 ### 6 Rates of New Zealand superannuation
 [Repealed]
 
-### 7 Persons receiving New Zealand superannuation entitled to New Zealand superannuation
+### 7 Persons receiving national superannuation entitled to New Zealand superannuation
 [Repealed]
 
 **Transitional retirement benefit**
 
-### 7A Transitional Retirement Benefit
-(1) Subject to the provisions of this Act and of the Social Security Act 1964, every person shall be entitled to receive a transitional retirement benefit—
-  (a) Who meets the residential qualifications for New Zealand superannuation set out in section 4 of this Act; and
-  (b) Who is not entitled to New Zealand superannuation because he or she has not yet attained the appropriate age specified in section 3 of this Act; and
-  (c) Who is not entitled to receive a veteran's pension; and
-  (d) Whose spouse is not entitled to New Zealand superannuation or a veteran's pension in his or her own right; and
-  (e) Who attains the appropriate age specified in subsection (2) of this section.
-(2) A person attains the appropriate age for the purposes of subsection (1) of this section when he or she attains—
-  (a) The age of 60 years, if he or she was born before the 1st day of July 1934:
-  (b) The age of 60 years and 3 months, if he or she was born on or after the 1st day of July 1934 and before the 1st day of October 1934:
-  (c) The age of 60 years and 6 months, if he or she was born on or after the 1st day of October 1934 and before the 1st day of January 1935:
-  (d) The age of 60 years and 9 months, if he or she was born on or after the 1st day of January 1935 and before the 1st day of April 1935:
-  (e) The age of 61 years, if he or she was born on or after the 1st day of April 1935 and before the 1st day of July 1935:
-  (f) The age of 61 years and 3 months, if he or she was born on or after the 1st day of July 1935 and before the 1st day of October 1935:
-  (g) The age of 61 years and 6 months, if he or she was born on or after the 1st day of October 1935 and before the 1st day of January 1936:
-  (h) The age of 61 years and 9 months, if he or she was born on or after the 1st day of January 1936 and before the 1st day of April 1936:
-  (i) The age of 62 years, if he or she was born on or after the 1st day of April 1936 and before the 1st day of July 1936:
-  (j) The age of 62 years and 3 months, if he or she was born on or after the 1st day of July 1936 and before the 1st day of October 1936:
-  (k) The age of 62 years and 6 months, if he or she was born on or after the 1st day of October 1936 and before the 1st day of January 1937:
-  (l) The age of 62 years and 9 months, if he or she was born on or after the 1st day of January 1937 and before the 1st day of April 1937:
-  (m) The age of 63 years, if he or she was born on or after the 1st day of April 1937 and before the 1st day of July 1937:
-  (n) The age of 63 years and 3 months, if he or she was born on or after the 1st day of July 1937 and before the 1st day of October 1937:
-  (o) The age of 63 years and 6 months, if he or she was born on or after the 1st day of October 1937 and before the 1st day of January 1938:
-  (p) The age of 63 years and 9 months, if he or she was born on or after the 1st day of January 1938 and before the 1st day of April 1938:
-  (q) The age of 64 years, if he or she was born on or after the 1st day of April 1938 and before the 1st day of July 1938:
-  (r) The age of 64 years and 3 months, if he or she was born on or after the 1st day of July 1938 and before the 1st day of October 1938:
-  (s) The age of 64 years and 6 months, if he or she was born on or after the 1st day of October 1938 and before the 1st day of January 1939:
-  (t) The age of 64 years and 9 months, if he or she was born on or after the 1st day of January 1939 and before the 1st day of April 1939.
-(3) Subject to this Act and to the Social Security Act 1964, a person entitled to receive a transitional retirement benefit shall cease to be entitled to receive that benefit on the date on which that person becomes entitled to receive New Zealand superannuation or a veteran's pension under this Act (whether in his or her own right or as a result of an election made under section 6 or section 11 of this Act).
-(4) Every transitional retirement benefit shall be paid at the appropriate rate specified in Schedule 4 to this Act.
-(5) In this section—
-  (a) 3 months equals 13 weeks; and
-  (b) 6 months equals 26 weeks; and
-  (c) 9 months equals 39 weeks.
+### 7A Transitional retirement benefit
+[Repealed]
 
 **Veterans' pensions**
 
@@ -114,64 +82,17 @@ _Consolidation as at 2007-09-03_
 (6)
 (7)
 (8)
-(9) Section 69C(1)(b) of the Social Security Act 1964 (as substituted by section 15 of the Social Security Amendment Act (No 2) 1985) is hereby repealed.
-(10) Section 69C(5) of the Social Security Act 1964 (as added by section 11(2) of the Social Security Amendment Act 1982) is hereby amended—
-  (a)
-  (b) By repealing paragraph (c), and substituting the following paragraph:.
-    (c) That spouse is in receipt of a reduced benefit under section 75(3) or (4) of this Act—
-(11) Section 72 of the Social Security Act 1964 is hereby amended—
-  (a) By omitting from paragraph (b)(i) the words (not being an economic pension or a war service pension or a war veteran's allowance):
-  (b) By repealing the first proviso to paragraph (b):
-  (c) By repealing paragraph (c), and substituting the following paragraph:
-    (c) Where any part of a benefit is payable in respect of the spouse of an applicant, that part shall not be paid for any period when a personal benefit is payable in respect of the spouse.
-(12) The following enactments are hereby consequentially repealed:
-  (a) Section 16 of the War Pensions Amendment Act (No 2) 1970:
-  (b) Section 22 of the Social Security Amendment Act 1976:
-  (c) Section 14 of the Social Security Amendment Act (No 2) 1977.
-(13) Section 73(1) of the Social Security Act 1964 is hereby amended by inserting, after the words New Zealand superannuation,, the words or a veteran's pension.
-(14) Section 75(3) of the Social Security Act 1964 (as substituted by section 17(1) of the Social Security Amendment Act (No 2) 1985) is hereby amended by inserting, after the word applies, the words (other than a person in receipt of, or entitled to receive, a veteran's pension).
-(15) Section 76(2) of the Social Security Act 1964 (as substituted by section 13(1) of the Social Security Amendment Act 1982) is hereby amended by inserting, after the words New Zealand superannuation in both places where they occur, the words or a veteran's pension.
-(16) Section 82(7) of the Social Security Act 1964 (as substituted by section 21(1) of the Social Security Amendment Act (No 2) 1988) is hereby amended by omitting the words It shall be a condition of every benefit payable under this Part of this Act that the applicant or beneficiary shall—, and substituting the words Unless the Director-General in any particular case otherwise determines, it shall be a condition of every benefit that the applicant or beneficiary shall—.
+((9)–(16)) Amendment(s) incorporated in the Act(s).
 (17)
-(18) Sections 13 to 15, 17, and 19 of, and Schedule 24 to, the Social Security Act 1964 are hereby repealed.
+(18) Amendment(s) incorporated in the Act(s).
 (19)
-(20) The following enactments are hereby consequentially repealed:
-  (a) Section 4 of the Social Security Amendment Act 1976:
-  (b) Section 4 of the Social Security Amendment Act 1982:
-  (c) Section 7(1) of the Social Security Amendment Act (No 2) 1982:
-  (d) Section 8 of the Social Security Amendment Act 1987:
-  (e) Section 29 of, and Schedule 6 to, the Finance Act 1989.
+(20) Amendment(s) incorporated in the Act(s).
 
 ### 15 Amending War Pensions Act 1954
-(1) Section 1A of the War Pensions Act 1954 (as inserted by section 2(1) of the War Pensions Amendment Act 1973) is hereby amended by omitting the words , or section 66B,.
-(2) Section 2(1) of the War Pensions Act 1954 is hereby amended by repealing the definition of the term war service pension.
-(3) Section 3 of the War Pensions Act 1954 is hereby amended by omitting the words Part III—Economic Pensions. (Sections 57 to 61.), the words Part VA—War Service Pensions. (Sections 66A to 66L.), and the words Part VI—War Veterans' Allowances. (Sections 67 to 75.).
-(4) Sections 30, 31, 31A, Part 3 (sections 57 to 61 and 61A), Part 5A (sections 66A to 66M), Part 6 (sections 67 to 75), and sections 75A, 78B, 78C, 82, and 86(2A) to (2C) of, and Schedules 3, 6, 7, and 12 to, the War Pensions Act 1954 are hereby repealed.
+((1)–(4)) Amendment(s) incorporated in the Act(s).
 (5)
-(6) The War Pensions Amendment Act 1988 is hereby amended—
-  (a) By omitting from section 5(2)(g) the expression 30(2), 31(3),, the expression 66A(2) and (3), 66B(1)(b) and (c), 66C(1), 66D(2)(a), 66E(3), 66G(1) and (4), 66H, 67(1)(a) and (c), 67(2), 68(1)(a) and (3), 69(3), 71(1) and (4), 72, 73, 74(2), 75A(2), (3), (5), and (6),, the expressions 78C,, and the expression , (2A), (2C),:
-  (b) By omitting from section 5(2)(i) the expression 31A,, the expression 61A,, the expression 66J(1), 66K(1),, and the expression 75A(1), 78B,:
-  (c) By omitting from section 5(2)(j) the expression sections 25(2), 74(3), and 75, and substituting the expression section 25(2):
-  (d) By omitting from section 5(2)(k) the expression 31(3), and the expression 59(2), 61(1) and (3), 66G(1) and (2), 66H, 66J(1) and (2), 66K(1) and (2),:
-  (e) By omitting from section 5(2)(m) the expression 66C(2), 66G(2),:
-  (f) By omitting from section 5(2)(o) the expression 59(1), 61(1), 73,:
-  (g) By repealing section 5(4):
-  (h) By repealing sections 13 and 14(2).
-(7) The following enactments are hereby consequentially repealed:
-  (a) Section 6 of the War Pensions Amendment Act 1960:
-  (b) Sections 4 and 9 of the War Pensions Amendment Act 1963:
-  (c) Section 4 of the War Pensions Amendment Act 1964:
-  (d) Sections 2 and 3 of the War Pensions Amendment Act 1965:
-  (e) Sections 2, 3(b), 6, and 10 to 15 of the War Pensions Amendment Act (No 2) 1970:
-  (f) Sections 2 to 6 of the War Pensions Amendment Act 1972:
-  (g) Sections 8 to 12 and 26 of the War Pensions Amendment Act 1973:
-  (h) The War Pensions Amendment Act 1974:
-  (i) Sections 4, 5, and 12 of the War Pensions Amendment Act 1975:
-  (j) Section 4 of the War Pensions Amendment Act 1976:
-  (k) Section 4 of the War Pensions Amendment Act 1986:
-  (l) So much of Schedule 1 to the War Pensions Amendment Act (No 3) 1986 as relates to sections 31A, 61A, 66J, 66K, and 75 of the War Pensions Act 1954:
-  (m) So much of Schedule 2 to the War Pensions Amendment Act (No 3) 1986 as relates to Schedules 3, 6, 7, and 12 to the War Pensions Act 1954.
-(8) The War Pensions (Rates of Pensions and Allowances) Order 1989 (SR 1989/108) is hereby amended by revoking so much of Schedule 2 as relates to Schedules 3, 6, 7, and 12 to the War Pensions Act 1954.
+((6)–(7)) Amendment(s) incorporated in the Act(s).
+((8)) Amendment(s) incorporated in the order(s).
 
 ### 16 Amending Income Tax Act 1976
 [Repealed]
@@ -181,7 +102,7 @@ _Consolidation as at 2007-09-03_
 ### 17 Payment overseas of veteran's pension
 [Repealed]
 
-### 17A Effect of absence from New Zealand on veteran's pensions
+### 17A Effect of absence from New Zealand on veterans' pensions
 [Repealed]
 
 **Special portability arrangement with specified Pacific countries**
@@ -219,18 +140,16 @@ _Consolidation as at 2007-09-03_
 
 ### 19 Adoption of reciprocity agreement with other countries
 (1) For the purpose of giving effect to any agreement or Convention with the government of another country providing for reciprocity in respect of matters relating to social security monetary benefits, or to any alteration thereto, the Governor-General may, by Order in Council,—
-  (a) Declare that the provisions contained in any agreement or Convention or alteration thereto set out in a Schedule to the Order in Council shall have force and effect so far as they relate to New Zealand:
-  (b) Declare that the provisions of this Act and of the Social Security Act 1964 and Part 6 of the War Pensions Act 1954 and of Part 1 of the New Zealand Superannuation and Retirement Income Act 2001 and of the regulations and orders in force under those Acts shall have effect subject to such modifications as may be required for the purpose of giving effect to the agreement or Convention or alteration thereto:
-  (c) Revoke any previous Order in Council which applied in respect of any such agreement or Convention which is no longer in force or which is intended to be no longer in force on the commencement of the Order in Council.
-(2) The Governor-General may, by the same or a subsequent Order in Council, specify the date on which any Order in Council made under subsection (1) of this section is to come into force, which may be a date before or on or after the date on which the Order in Council is so made.
+  (a) declare that the provisions contained in any agreement or Convention or alteration thereto set out in a schedule of the Order in Council shall have force and effect so far as they relate to New Zealand:
+  (b) declare that the provisions of this Act and of the Social Security Act 1964 and Part 6 of the War Pensions Act 1954 and of Part 1 of the New Zealand Superannuation and Retirement Income Act 2001 and of the regulations and orders in force under those Acts shall have effect subject to such modifications as may be required for the purpose of giving effect to the agreement or Convention or alteration thereto:
+  (c) revoke any previous Order in Council which applied in respect of any such agreement or Convention which is no longer in force or which is intended to be no longer in force on the commencement of the Order in Council.
+(2) The Governor-General may, by the same or a subsequent Order in Council, specify the date on which any Order in Council made under subsection (1) is to come into force, which may be a date before or on or after the date on which the Order in Council is so made.
 (2A) If an agreement or Convention or alteration to an agreement or Convention contains a provision of the kind referred to in section 19A(2), no Order in Council in respect of that agreement or Convention or alteration may be made under subsection (1) unless the Privacy Commissioner has first presented a report to the Minister and to the Minister of Justice on the following matters:
   (a) whether the provision complies with the privacy principles set out in the Privacy Act 1993, having regard to the matters set out in paragraphs (a) to (f) of section 98 of that Act:
   (b) if the provision is of the kind referred to in section 19A(2)(b), the adequacy of the privacy protection given in the other country to information about any individual that may be supplied by New Zealand under the provision.
 (2B) Subsection (2A) does not apply to a provision that relates solely to the recovery of moneys paid under the agreement or Convention in excess of that to which the recipient was entitled under that agreement or Convention.
-(3) The following enactments are hereby repealed:
-  (a) The Social Security (Reciprocity with the United Kingdom) Act 1983:
-  (b) The Social Security (Reciprocity with Australia) Act 1989.
-(4) The Social Security (Reciprocity with the United Kingdom) Act Commencement Order 1984 (SR 1984/141) is hereby revoked.
+(3) Amendment(s) incorporated in the Act(s).
+(4) Amendment(s) incorporated in the order(s).
 
 ### 19A Inclusion of mutual assistance provisions in reciprocity agreement
 (1) In this section and in sections 19B to 19D,—
@@ -294,8 +213,8 @@ _Consolidation as at 2007-09-03_
     (iii) subject to subparagraph (iv), in relation to New Zealand, contains, with all necessary modifications, the safeguards required to be set out in an information matching agreement within the meaning of section 99 of the Privacy Act 1993; and
     (iv) in relation to New Zealand, requires the information matching rules set out in clause 4 of Schedule 4 of the Privacy Act 1993, with all necessary modifications, to be applied; and
     (v) in relation to New Zealand, has been agreed to by the Privacy Commissioner under the Privacy Act 1993, the Commissioner having had regard to the information matching guidelines in section 98 of that Act:
-  (e) Subject to paragraphs (b) and (c), any information supplied by a party to the other party must be subject to the same privacy protections as any other personal information obtained under the social security laws of the other party:
-  (f) No party that receives, under the agreement, personal information about any individual from the competent institution of the other party may supply that information to any other country without the prior written consent of that competent institution or the individual concerned:
+  (e) subject to paragraphs (b) and (c), any information supplied by a party to the other party must be subject to the same privacy protections as any other personal information obtained under the social security laws of the other party:
+  (f) no party that receives, under the agreement, personal information about any individual from the competent institution of the other party may supply that information to any other country without the prior written consent of that competent institution or the individual concerned:
   (g) a party must supply the competent institution of the other party with any information required by that institution to answer any questions or to make any report or return required by a person or body authorised to monitor compliance with that party's privacy laws.
 (2) In relation to New Zealand, section 99(4) of the Privacy Act 1993 applies, with any necessary modifications, to an agreement between the competent institutions of the parties under subsection (1)(d).
 
@@ -381,97 +300,42 @@ No person, by reason only that he or she is a member of a committee appointed un
 [Repealed]
 
 ### 33 Repeal of Part 1 of Department of Social Welfare Act 1971
-(1) Section 2 of and Part 1 of Department of Social Welfare Act 1971 are hereby repealed.
-(2) The following enactments are hereby consequentially repealed:
-  (a) The Department of Social Welfare Amendment Act 1981:
-  (b) Section 28 of the Social Security Amendment Act (No 2) 1985:
-  (c) Sections 30 and 31 of the Social Security Amendment Act 1987:
-  (d) The Department of Social Welfare Amendment Act 1988:
-  (e) Section 451 of the Children, Young Persons, and Their Families Act 1989.
-(3) The Department of Social Welfare Act Commencement Order 1972 (SR 1972/37) is hereby revoked.
+Amendment(s) incorporated in the Act(s).
 
 ### 34 Amending Social Security Act 1964
 [Repealed]
 
 ### 35 Amending Children, Young Persons, and Their Families Act 1989
-(1) Section 2(1) of the Children, Young Persons, and Their Families Act 1989 is hereby amended—
-  (a)
-  (b)
-  (c)
-  (d) By repealing the definition of the term Social Worker, and substituting the following definition:.
-    - **Social Worker** means a person employed under Part V of the State Sector Act 1988 in the Department of Social Welfare as a social worker
-(2) Section 283 of the Children, Young Persons, and Their Families Act 1989 is hereby amended by repealing paragraph (i), and substituting the following paragraph:.
-  (i) Make an order under section 293A of this Act:
-(3) The Children, Young Persons, and Their Families Act 1989 is hereby amended by inserting, after section 293, the following section:Disqualification from driving
-  (1) Where a charge against a young person is proved before a Youth Court, and the offence or the circumstances in which it was committed are such that a District Court would, on entering a conviction for that offence,—then the Youth Court may make such order (being an order of any of the kinds referred to in any of paragraphs (a) to (c) of this subsection) as would have been obligatory or could have been ordered under any of those sections if the young person were an adult and had been convicted of the offence in a Court other than a Youth Court.
-    (a) Be empowered under section 83 of the Criminal Justice Act 1985 to make an order disqualifying the offender from holding or obtaining a driver's licence; or
-    (b) Be required or empowered under section 30 or section 30AA or section 30AB of the Transport Act 1962 to make an order disqualifying the offender from holding or obtaining a driver's licence; or
-    (c) Be required to make an order under section 30A of the Transport Act 1962 requiring the offender to attend an Assessment Centre and disqualifying the person from holding or obtaining a driver's licence,—
-  (2) Where a Youth Court makes an order pursuant to subsection (1)(a) of this section, the provisions of section 83 of the Criminal Justice Act 1985 shall apply accordingly.
-  (3) Subject to subsection (5) of this section, where a Youth Court makes an order pursuant to subsection (1)(b) or (c) of this section, sections 30B to 30D and 33 to 41 of the Transport Act 1962 shall apply, so far as applicable and with any necessary modifications, as if the order had been made under Part IV of that Act.
-  (4) In determining, for the purposes of paragraph (b) or paragraph (c) of subsection (1) of this section, whether any order would have been obligatory or could have been ordered under any of the sections referred to in either of those paragraphs, a finding (whether made before or after the commencement of this section), by a Children and Young Persons Court or a Youth Court, that a young person is proved to have committed an offence referred to in section 30AA(4) or section 30A(1)(a) of the Transport Act 1962 (not being an offence in respect of which an order has been made under section 282 of this Act or section 35 of the Children and Young Persons Act 1974) shall be deemed to be a conviction for that offence.
-  (5) Where a Youth Court makes an order pursuant to subsection (1)(c) of this section in respect of a young person, that young person shall not be required to pay the Assessment Centre fee payable under section 30B(1) of the Transport Act 1962 in respect of that order unless the Youth Court, being satisfied that the young person has the capacity to pay that fee within a period of 12 months from the date on which the fee is payable, so orders.
+((1)–(3)) Amendment(s) incorporated in the Act(s).
 (4)
 (5)
 
 ### 36 Amendments to other Acts
-(1) Section 2 of the Adoption Act 1955 is hereby amended—
-  (a)
-  (b) By omitting from paragraph (b) of the definition of the term Social Worker (as inserted by section 23(1) of the Department of Social Welfare Act 1971) the words under the Department of Social Welfare Act 1971, and substituting the words employed as such under Part V of the State Sector Act 1988 in the Department of Social Welfare.
-(2) Section 2 of the Adult Adoption Information Act 1985 is hereby amended by omitting from the definition of the term social worker the words appointed or deemed to be appointed in accordance with section 8 of the Department of Social Welfare Act 1971, and substituting the words employed as such under Part V of the State Sector Act 1988 in the Department of Social Welfare.
-(3) Section 2 of the Family Proceedings Act 1980 is hereby amended by repealing paragraph (a) of the definition of the term Social Worker, and substituting the following paragraph:.
-  (a) A Social Worker employed as such under Part V of the State Sector Act 1988 in the Department of Social Welfare; or
-(4) Section 2(1) of the Guardianship Act 1968 (as substituted by section 3(1) of the Guardianship Amendment Act 1979) is hereby amended—
-  (a)
-  (b) By repealing the definition of the term Social Worker, and substituting the following definition:.
-    - **Social Worker** means a person employed under Part V of the State Sector Act 1988 in the Department of Social Welfare as a social worker
-(5) Section 2 of the Protection of Personal and Property Rights Act 1988 is hereby amended by repealing the definition of the term social worker, and substituting the following definition:.
-  - **Social worker** means a person employed under Part V of the State Sector Act 1988 in the Department of Social Welfare as a social worker
-(6) Section 23(2) of the Department of Social Welfare Act 1971 is hereby consequentially repealed.
+Amendment(s) incorporated in the Act(s).
 
 **Amendments to Social Security Act 1964 to facilitate introduction of new computer system**
 
 ### 37 Amending Social Security Act 1964
-(1) Section 3(1) of the Social Security Act 1964 is hereby amended—
-  (a) By repealing the definition of the term pay day, and substituting the following definition::
-    - **Pay day** means the day from time to time fixed by the Director-General as the date on which an instalment of a benefit falls due for payment
-  (b) By repealing the definition of the term pay period.
-(2) Sections 17, 21(5), 27, 27E, 27G(5), 30, 60(8), 61DA, and 61DB of the Social Security Act 1964 are hereby repealed.
+((1)–(2)) Amendment(s) incorporated in the Act(s).
 (3)
 (4)
 (5)
 (6)
 (7)
-(8) The Social Security Act 1964 is hereby amended by repealing section 81, and substituting the following section:Review of benefits
-  (1) The Director-General may from time to time review any benefit in order to ascertain whether the beneficiary remains entitled to receive it; and for that purpose may require the beneficiary or his or her spouse to provide any information or to answer any relevant question. If the beneficiary or his or her spouse fails to comply with any such requirement within such reasonable period as the Director-General specifies, the Director-General may suspend, terminate, or vary the rate of benefit from such date as the Director-General determines.
-  (2) If, after reviewing a benefit under subsection (1) of this section, the Director-General is satisfied that, owing to a change of circumstances, the beneficiary is no longer entitled to receive the benefit or is entitled to receive the benefit at a different rate, the Director-General may suspend, terminate, or vary the rate of benefit from such date as the Director-General determines, being a date on or after the date on which that change may reasonably be held to have occurred.
+(8) Amendment(s) incorporated in the Act(s).
 (9)
-(10) The following enactments are hereby consequentially repealed:
-  (a) Section 26 of the Social Security Amendment Act 1972:
-  (b) Sections 2(3) and 27 of the Social Security Amendment Act 1976:
-  (c) Section 2 of the Social Security Amendment Act 1983:
-  (d) Sections 4 and 5 of the Social Security Amendment Act 1984:
-  (e) Section 5 of the Social Security Amendment Act 1986:
-  (f) Section 13 of the Social Security Amendment Act (No 2) 1988.
+(10) Amendment(s) incorporated in the Act(s).
 
 **Miscellaneous amendments to Social Security Act 1964 and War Pensions Act 1954**
 
 ### 38 Amendments to Social Security Act 1964
-(1) Section 12J of the Social Security Act 1964 (as inserted by section 4 of the Social Security Amendment Act 1973) is hereby amended—
-  (a)
-  (b)
-  (c)
-(2)
-(3)
-(4)
+[Repealed]
 
 ### 39 Amendment to War Pensions Act 1954
-Section 15D of the War Pensions Act 1954 (as enacted by section 7(1) of the War Pensions Amendment Act 1988) is hereby amended by omitting the figure 3, and substituting the figure 6.
+Amendment(s) incorporated in the Act(s).
 
 ### 40 Amending Ombudsmen Act 1975
-Part 2 of Schedule 1 to the Ombudsmen Act 1975 is hereby amended—
-  (a) By omitting the item relating to the Social Security Commission:
-  (b) By inserting, in their appropriate alphabetical order, the following items:The New Zealand Artificial Limb Board.The Social Welfare Commission.
+Amendment(s) incorporated in the Act(s).
 
 ### 41 Validation of exercise of Director-General's powers pursuant to a purported delegation
 If any officer of the Department has, at any time before the commencement of this section, purported to exercise any power, function, or discretion of the Director-General under the Social Security Act 1964, and the exercise of that power, function, or discretion would have been valid if it had been carried out pursuant to a valid delegation by the Director-General (with the written consent of the Minister of Social Welfare) pursuant to section 10 of the Social Security Act 1964, the exercise of that power, function, or discretion shall be deemed to have been valid.
@@ -479,10 +343,10 @@ If any officer of the Department has, at any time before the commencement of thi
 ## Part 3 — New Zealand Artificial Limb Board
 
 ### 42 Interpretation
-In this Part of this Act and in Schedule 3 to this Act, unless the context otherwise requires,—
-  - **Board** means the New Zealand Artificial Limb Board constituted by section 43 of this Act
-  - **Existing body** means the body known as the Artificial Limb Board (also known as the New Zealand Artificial Limbs Board), being the body that the Rehabilitation Board, purporting to act pursuant to section 13 of the Rehabilitation Act 1941, purported to establish pursuant to an instrument of delegation made pursuant to a resolution of the Rehabilitation Board dated the 5th day of March 1970
-  - **Undertaking** means all property, contracts, engagements, rights, authorities, and liabilities that purport to be property, contracts, engagements, rights, authorities, and liabilities of the existing body, including any grants, subsidies, donations, and gifts.
+In this Part and in Schedule 3, unless the context otherwise requires,—
+  - **Board** means the New Zealand Artificial Limb Board constituted by section 43
+  - **existing body** means the body known as the Artificial Limb Board (also known as the New Zealand Artificial Limbs Board), being the body that the Rehabilitation Board, purporting to act pursuant to section 13 of the Rehabilitation Act 1941, purported to establish pursuant to an instrument of delegation made pursuant to a resolution of the Rehabilitation Board dated 5 March 1970
+  - **undertaking** means all property, contracts, engagements, rights, authorities, and liabilities that purport to be property, contracts, engagements, rights, authorities, and liabilities of the existing body, including any grants, subsidies, donations, and gifts.
 
 ### 43 New Zealand Artificial Limb Board
 (1) There is hereby established a Board called the New Zealand Artificial Limb Board.
@@ -491,10 +355,10 @@ In this Part of this Act and in Schedule 3 to this Act, unless the context other
 
 ### 44 Functions
 The functions of the Board are—
-  (a) To manufacture, import, export, market, distribute, supply, fit, repair, and maintain artificial limbs and similar devices:
-  (b) To provide rehabilitative and other services to persons in connection with artificial limbs and similar devices:
-  (c) To carry out research and development in relation to artificial limbs and similar devices:
-  (d) To advise the Minister on matters relating to artificial limbs and similar devices.
+  (a) to manufacture, import, export, market, distribute, supply, fit, repair, and maintain artificial limbs and similar devices:
+  (b) to provide rehabilitative and other services to persons in connection with artificial limbs and similar devices:
+  (c) to carry out research and development in relation to artificial limbs and similar devices:
+  (d) to advise the Minister on matters relating to artificial limbs and similar devices.
 
 ### 45 Powers of Board
 [Repealed]
@@ -502,11 +366,11 @@ The functions of the Board are—
 ### 46 Membership of Board
 (1) The Board shall consist of 6 members appointed under section 28(1)(a) of the Crown Entities Act 2004, including—
   (a)
-  (b) One member to be appointed by the Minister on the nomination of the New Zealand War Amputees Association Incorporated:
-  (c) One member to be appointed by the Minister on the nomination of the Amputees Federation of New Zealand:
-  (d) One member to be appointed by the Minister on the nomination of the New Zealand Orthopaedic Association:
-  (e) One member to be appointed by the Minister to represent Area Health Boards, which member shall be appointed on the nomination of the Minister of Health:
-  (f) One member to be appointed by the Minister on the nomination of the Board.
+  (b) 1 member to be appointed by the Minister to represent the interests of war amputees:
+  (c) 1 member to be appointed by the Minister on the nomination of the Amputees Federation of New Zealand:
+  (d) 1 member to be appointed by the Minister on the nomination of the New Zealand Orthopaedic Association:
+  (e) 1 member to be appointed by the Minister to represent Area Health Boards, which member shall be appointed on the nomination of the Minister of Health:
+  (f) 1 member to be appointed by the Minister on the nomination of the Board.
 (2) Members of the Board are the board for the purposes of the Crown Entities Act 2004.
 
 ### 47 Board to comply with Government policy
@@ -514,28 +378,28 @@ The functions of the Board are—
 
 ### 48 Review of operation of Board
 As soon as practicable after the expiry of the period of 3 years beginning on the date of commencement of this Act, and then at intervals of not more than 5 years, the Board shall—
-  (a) Review the operation of the Board since—
-    (i) The date of the commencement of this Act (in the case of the first review carried out under this paragraph); or
-    (ii) The date of the last review carried out under this paragraph (in the case of every subsequent review); and
-  (b) Consider—
-    (i) Whether the Board should be retained or abolished; and
-    (ii) Whether any amendments to this Part of this Act are necessary or desirable; and
-  (c) Report its findings to the Minister.
+  (a) review the operation of the Board since—
+    (i) the date of the commencement of this Act (in the case of the first review carried out under this paragraph); or
+    (ii) the date of the last review carried out under this paragraph (in the case of every subsequent review); and
+  (b) consider—
+    (i) whether the Board should be retained or abolished; and
+    (ii) whether any amendments to this Part are necessary or desirable; and
+  (c) report its findings to the Minister.
 
 ### 49 Further provisions applying to Board
-The provisions set out in Schedule 3 to this Act shall apply in respect of the Board.
+The provisions set out in Schedule 3 shall apply in respect of the Board.
 
 ### 50 Contracts of Board
 [Repealed]
 
 ### 51 Transitional provisions applying to Board
 (1) On the commencement of this Act,—
-  (a) The undertaking of the existing body shall vest in the Board; and
-  (b) All money that is purportedly payable to the existing body shall become payable to the Board.
+  (a) the undertaking of the existing body shall vest in the Board; and
+  (b) all money that is purportedly payable to the existing body shall become payable to the Board.
 (2) On the commencement of this Act, every person who purports to be an employee of the existing body shall become an employee of the Board but, for the purposes of every enactment, award, determination, contract, and agreement relating to the employment of each such employee, the contract of employment which that employee purports to have with the existing body shall be deemed to have been unbroken and the period of service with the existing body shall be deemed to have been a period of service with the Board.
-(3) The terms and conditions of employment of each employee to whom subsection (2) of this section applies shall, until varied, be identical with the terms and conditions that purport to be the terms and conditions of that employee's purported employment with the existing body immediately before the commencement of this Act.
+(3) The terms and conditions of employment of each employee to whom subsection (2) applies shall, until varied, be identical with the terms and conditions that purport to be the terms and conditions of that employee's purported employment with the existing body immediately before the commencement of this Act.
 (4) No such employee shall be entitled to receive any payment or other benefit by reason only of that employee ceasing by virtue of this Act to be an employee of the existing body.
-(5) Any person who, immediately before the commencement of this Act, purported to hold office as a member of the existing body shall, on the commencement of this Act, be deemed to have been appointed under section 46 of this Act as a member of the Board for a term of 5 years, and the provisions of this Act shall apply accordingly.
+(5) Any person who, immediately before the commencement of this Act, purported to hold office as a member of the existing body shall, on the commencement of this Act, be deemed to have been appointed under section 46 as a member of the Board for a term of 5 years, and the provisions of this Act shall apply accordingly.
 (6) Every agreement, contract, deed, instrument, undertaking, or notice entered into, executed, or given by the existing body, and every action taken by the existing body, before the commencement of this Act, to the extent that it would have been valid if entered into, executed, given, or taken by the Board after the commencement of this Act, is hereby validated and declared to have been lawfully entered into, executed, given, or taken.
 
 ## Schedule 1 — Rates of New Zealand superannuation and veterans' pensions
@@ -564,7 +428,7 @@ The provisions set out in Schedule 3 to this Act shall apply in respect of the B
 
 ### 7 Appointment of deputies
 (1) The Minister may appoint any person to be the deputy of any appointed member of the Board.
-(2) No person shall be appointed under subclause (1) of this clause as the deputy of any appointed member of the Board unless that person is eligible to be appointed as an appointed member of the Board.
+(2) No person shall be appointed under subclause (1) as the deputy of any appointed member of the Board unless that person is eligible to be appointed as an appointed member of the Board.
 (3)
 (4) Any person who is appointed under this clause as the deputy of any member of the Board may attend any meeting of the Board in the place of the person whose deputy that person is.
 (5)
@@ -624,12 +488,5 @@ The income of the Board shall be exempt from income tax.
 [Repealed]
 
 ## Schedule 4 — Rates of transitional retirement benefit
-
-| (a) To any unmarried person without dependent children | $202.05 a week, subject to Income Test 3. |
-| --- | --- |
-| (b) To an unmarried person with 1 dependent child | $265.43 a week, subject to Income Test 3. |
-| (c) To an unmarried person with 2 or more dependent children | $285.03 a week, subject to Income Test 3. |
-| (d) To a married person (with or without dependent children) whose spouse is granted, in his or her own right, a benefit (other than New Zealand superannuation or a veteran's pension) | $168.38 a week, subject to Income Test 4. |
-| (e) To a married person (with or without dependent children) whose spouse is not granted a benefit in his or her own right | $168.38 a week, increased by $163.92 a week in respect of his or her spouse, the total rate to be subject to Income Test 3. |
 
 ## Schedule 5 — Specified Pacific countries
