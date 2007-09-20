@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act—aTo ensure that employees in the State services are imbued with the spirit of service to the community; andbTo promote efficiency in the State services and other agencies; andcTo ensure the responsible management of the State services; anddTo maintain appropriate standards of integrity and conduct among employees in the State services and other agencies; andeTo ensure that every employer in the State services is a good employer; andfTo promote equal employment opportunities in the State services; andgTo provide for the negotiation of conditions of employment in the State services and assistance to other agencies on conditions of employment; andhTo repeal the State Services Act 1962, the State Services Conditions of Employment Act 1977, and the Health Service Personnel Act 1983
 
@@ -385,7 +385,7 @@ The chief executive of a Department shall be responsible to the appropriate Mini
   (d) The efficient, effective, and economical management of the activities of the Department.
 
 ### 33 Duty to act independently
-Notwithstanding anything in section 32 of this Act, but subject to sections 51 and 52 of this Act, in matters relating to decisions on individual employees (whether matters relating to the appointment, promotion, demotion, transfer, disciplining, or the cessation of the employment of any employee, or other matters), the chief executive of a Department shall not be responsible to the appropriate Minister but shall act independently.
+Notwithstanding anything in section 32 of this Act, in matters relating to decisions on individual employees (whether matters relating to the appointment, promotion, demotion, transfer, disciplining, or the cessation of the employment of any employee, or other matters), the chief executive of a Department shall not be responsible to the appropriate Minister but shall act independently.
 
 ### 34 Functions, responsibilities, duties, and powers
 (1) The functions, responsibilities, duties, and powers imposed on or given to the chief executive of a Department by this Act are in addition to those imposed on or given to that chief executive by or under any other Act.
