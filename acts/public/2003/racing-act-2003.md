@@ -1,5 +1,5 @@
 # Racing Act 2003
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 ### 1 Title
 This Act is the Racing Act 2003.
@@ -162,6 +162,9 @@ The objectives of the Board are-
   (a) knowledge of, or experience in, the racing industry; and
   (b) expertise in business, marketing, or economics.
 (5) A meeting of the nomination advisory panel may be held by means of audio, audio and visual, or electronic communication by which all panel members can simultaneously communicate with each other throughout the meeting.
+(5A) If a panel member is unable to participate in a meeting of the panel, the panel member may designate a suitably qualified person to act as a substitute member, who is entitled, in the absence of the panel member,—
+  (a) to participate in the meeting in the panel member's place; and
+  (b) to be treated as a member of the nomination advisory panel for the purposes of the meeting.
 (6) A person must not be appointed to serve on the Board under section 11(1)(e) without first being considered by the nomination advisory panel.
 
 **Financial provisions and accountability**
