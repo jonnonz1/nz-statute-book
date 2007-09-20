@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to reform the administration of education
 
@@ -2962,7 +2962,7 @@ The Council must from time to time appoint a chief executive, on terms and condi
   (a) payment by the Minister to the person of an amount of money on condition that the person will work in New Zealand as a teacher, on completion of the teacher training, for a specified period; and
   (b) an undertaking by the person that, if he or she defaults on the condition, he or she will repay (in full or on a pro-rata basis, as determined under the agreement) the amount paid under the agreement.
 (3) The Minister may require that the agreement be signed by a guarantor for the person, in which case the guarantor is jointly and severally liable with the person under the agreement.
-(4) Agreements entered into under this section may be declared, under section 307AC, to be bonded scholarships.
+(4)
 
 ### 140 Initial appointment of primary teachers
 [Repealed]
@@ -4894,12 +4894,19 @@ A registered private training establishment that receives funding under section 
 (1) The Authority may cancel the registration of a registered establishment if it is satisfied on reasonable grounds that—
   (a) the establishment no longer meets 1 or more of the requirements set out in section 236(1); or
   (b) the establishment is not complying, or has not complied, with 1 or more of the conditions applying to it.
-(2) Before cancelling a registration, the Authority must—
+(2) Before cancelling a registration under subsection (1), the Authority must—
   (a) notify the establishment that it is considering cancelling registration, and give reasons; and
   (b) give the establishment a reasonable opportunity to respond to the notice; and
   (c) consider any submissions made by the establishment in response to the notice.
+(2A) The Authority may also cancel the registration of a registered establishment if—
+  (a) the Authority receives a written request to do so from the governing body of the registered establishment; and
+  (b) that request is not withdrawn by the governing body of the registered establishment after being advised by the Authority of its intention to cancel the registration of the establishment.
 (3) If the Authority cancels a registration, it must give notice of its decision to both the establishment and the Commission, with reasons.
 (4) Nothing in this section limits the Authority's powers under section 255A(7) to cancel an establishment's registration.
+(5) Cancellation under this section takes effect on the date specified by the Authority in the notice given under subsection (3) (the date of cancellation).
+(6) If the registration of an establishment is cancelled under this section, then from the date of cancellation—
+  (a) all approvals to provide courses of study or training granted to the establishment under section 258 are withdrawn, and no notice to the governing body of the establishment is required to be given under subsection (8) or (9A) of that section; and
+  (b) all accreditations to provide approved courses of study or training granted to the establishment under section 259 are withdrawn, and no notice to the governing body of the establishment is required to be given under subsection (5) or (7) of that section.
 
 ### 238 Notice
 [Repealed]
@@ -5860,12 +5867,14 @@ The provisions of section 226A apply to any secondary school as if such a school
 (3) Despite section 14 of the Summary Proceedings Act 1957, an information for an offence against this section may be laid at any time within 12 months after the offence was brought to the Ministry's attention.
 
 ### 307AB Allowances identified by Gazette notice
-(1) The Minister may, by notice in the Gazette, identify any allowance that is paid to students otherwise than under an enactment as an allowance to which this section applies.
-(2) Subsection (1) applies to any allowance paid otherwise than under an enactment, whether it first became payable before or after this section comes into force.
+(1) The Minister may, by notice in the Gazette, identify either or both of the following as an allowance to which this section applies:
+  (a) any allowance paid to students otherwise than under an enactment:
+  (b) any money paid under any agreement entered into under section 139E.
+(2) Subsection (1) applies whether the allowance or money referred to in that subsection first became payable before or after 17 May 2006.
 
 ### 307AC Bonded scholarships
-(1) The Minister may, by notice in the Gazette, declare that any allowance that is gazetted under section 307AB, and any agreement under section 139E, is a bonded scholarship.
-(2) The effect of declaring an allowance or agreement to be a bonded scholarship is that, under section 2A of the Student Loan Scheme Act 1992, the Student Loan Scheme Act 1992 applies to enable the recovery of money in accordance with the terms of the scholarship.
+(1) The Minister may, by notice in the Gazette, declare that any allowance to which section 307AB applies is a bonded scholarship.
+(2) The effect of declaring an allowance to be a bonded scholarship is that, under section 2A of the Student Loan Scheme Act 1992, the Student Loan Scheme Act 1992 applies to enable the recovery of money in accordance with the terms of the scholarship.
 
 ### 307A Use of student allowance information for purposes of Social Security Act 1964
 (1) In this section, unless the context otherwise requires,—
