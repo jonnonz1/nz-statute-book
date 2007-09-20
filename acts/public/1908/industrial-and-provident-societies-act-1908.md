@@ -1,5 +1,5 @@
 # Industrial and Provident Societies Act 1908
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to consolidate certain enactments of the General Assembly relating to industrial and provident societies
 
@@ -50,7 +50,7 @@ For the purposes of this Act there shall from time to time be appointed under th
 ### 5 Registry of societies
 With respect to the registry of societies the following provisions shall have effect:
   (a) No society can be registered under this Act which does not consist of 7 persons at least:
-  (b) For the purpose of registry, an application to register the society, signed by 7 members and the secretary, and 3 written or printed copies of the rules, shall be sent to the Registrar:
+  (b) For the purpose of registry, an application to register the society, signed by 7 members and the secretary, and a written or printed copy of the rules, shall be sent to the Registrar:
   (c) No society shall be registered under a name which is identical with that of any other society registered under this Act, or of a company carrying on business in New Zealand (whether registered in New Zealand or not), or of any other body corporate established or registered in New Zealand under any Act, or so nearly resembles that name as to be calculated to deceive, except where that other society or company or body corporate, as the case may be, signifies its consent in such manner as the Registrar requires, and the Registrar is satisfied that registration of the society by the proposed name will not be contrary to the public interest:
   (ca) Except with the consent of the High Court, no society shall be registered by a name which, in the opinion of the Registrar, is undesirable:
   (d) The words Society Limited shall be the last words in the name of every society registered under this Act:
@@ -81,7 +81,7 @@ With respect to the cancelling or suspension of registry the following provision
 ### 7 Rules and amendments
 With respect to the rules of societies the following provisions shall have effect:
   (a) The rules of every society sent for registry shall contain provisions in respect of the several matters mentioned in Schedule 2 hereto:
-  (b) No amendment of a rule made by a registered society shall be valid until the same has been registered under this Act, for which purpose 3 copies of the same, signed by 3 members and the secretary, shall be sent to the Registrar:
+  (b) No amendment of a rule made by a registered society shall be valid until the same has been registered under this Act, for which purpose a copy of the same, signed by 3 members and the secretary, shall be sent to the Registrar:
   (c) The provisions herein contained as to appeals from a refusal of registry shall apply to amendments of rules:
   (d) The Registrar shall, on being satisfied that any amendment of a rule is not contrary to the provisions of this Act, issue to the society an acknowledgment of registry of the same in the form numbered (2) in Schedule 4 hereto, which shall be conclusive evidence that the same is duly registered:
   (e) A copy of the rules of a registered society shall be delivered by the society to every person, on demand, on payment of a sum not exceeding 10c:
