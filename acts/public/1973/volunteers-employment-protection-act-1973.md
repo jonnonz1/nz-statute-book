@@ -1,5 +1,5 @@
 # Volunteers Employment Protection Act 1973
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to make provision for the protection of the employment of volunteers to Her Majesty's Armed Forces
 
@@ -121,7 +121,7 @@ Where any employee who is employed by any employer performs or undergoes any pro
 ### 14 Evidence
 (1) A certificate of an authorised officer as to the duration of a person's protected voluntary service or training shall be conclusive for the purposes of any proceedings under or for the purposes of this Act.
 (2) Every document purporting to be such a certificate as aforesaid or any other certificate authorised by this Act and to be signed by an authorised officer shall be received in evidence and shall, in the absence of proof to the contrary, be deemed to be such a certificate of an authorised officer; and in any proceedings under or for the purposes of this Act the production of a document purporting to be certified by or on behalf of an authorised officer to be a true copy of any such certificate as is mentioned in this subsection shall, in the absence of proof to the contrary, be sufficient evidence of the certificate.
-(3) In this section the term authorised officer means an officer of the Armed Forces nominated as an authorised officer for the purposes of this Act by the appropriate Chief of Staff.
+(3) In this section the term authorised officer means an officer of the Armed Forces nominated as an authorised officer for the purposes of this Act by the appropriate Chief of Service.
 
 ## Part 2 — Service in time of war or emergency
 
