@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -467,7 +467,7 @@ Section 28 does not apply to—
 (1) Where any imported goods other than goods inspected, examined, or surrendered in accordance with section 30 or section 35, are in a transitional facility or biosecurity control area, an inspector may, for the purpose of determining whether the goods are, or contain, risk goods,—
   (a) Open any bag, box, parcel, container, or other thing containing the goods:
   (b) Inspect the goods.
-(2) Where any goods in a transitional facility or biosecurity control area are, or contain, risk goods, section 116 applies to those goods as if the goods were unauthorised goods seized in accordance with that section.
+(2) Where any goods in a transitional facility or biosecurity control area are, or contain, risk goods or unauthorised goods, section 116 applies to those goods as if the goods were unauthorised goods seized in accordance with that section.
 (3) For the purposes of this section an inspector may, at any reasonable time or times, enter any transitional facility or biosecurity control area and the provisions of section 112 apply.
 
 ### 31 Boarding of craft
@@ -1641,7 +1641,7 @@ Any person lawfully exercising a power under any of sections 109, 111, 113, 114,
   (b) Bring and use any thing,—
 
 ### 116 Power to seize and dispose of unauthorised goods
-(1) Any inspector lawfully exercising a power under any of sections 19(2), 31, 34(5), 109, 111, 113, 114, or 120 may seize—
+(1) Any inspector lawfully exercising a power under any of sections 19(2), 30A, 31, 34(5), 109, 111, 113, 114, or 120 may seize—
   (a) Any unauthorised goods:
   (b) Any goods where an inspector has reasonable grounds to suspect—
     (i) Those goods are in contact with, or have been in contact with, unauthorised goods; and
