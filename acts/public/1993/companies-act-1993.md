@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to reform the law relating to companies, and, in particular,—aTo reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbTo provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcTo define the relationships between companies and their directors, shareholders, and creditors; anddTo encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeTo provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -4207,10 +4207,7 @@ A company is removed from the New Zealand register when a notice signed by the R
 The removal of a company from the New Zealand register does not affect the liability of any former director or shareholder of the company or any other person in respect of any act or omission that took place before the company was removed from the register and that liability continues and may be enforced as if the company had not been removed from the register.
 
 ### 327 Liquidation of company removed from New Zealand register
-(1) Notwithstanding the fact that a company has been removed from the New Zealand register, the Court may appoint a liquidator under section 241 of this Act as if the company continued in existence.
-(2) If a liquidator is appointed under subsection (1) of this section,—
-  (a) Part 16 of this Act applies to the liquidation with such modifications as may be necessary:
-  (b) The provisions of section 331 of this Act shall apply, with such modifications as may be necessary, to property of the company that is vested in the Crown under section 324 of this Act as if the company had been restored to the New Zealand register.
+[Repealed]
 
 ### 328 Registrar may restore company to New Zealand register
 (1) Subject to this section, the Registrar must, on the application of a person referred to in subsection (2) of this section, and may, on his or her own motion, restore a company that has been removed from the New Zealand register to the register if he or she is satisfied that, at the time the company was removed from the register,—
