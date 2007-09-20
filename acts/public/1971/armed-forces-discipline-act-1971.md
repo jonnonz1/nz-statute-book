@@ -1,5 +1,5 @@
 # Armed Forces Discipline Act 1971
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand and the Parliament of the United Kingdom relating to the discipline of Her Majesty's Armed Forces of New Zealand, and to provide for the discipline of and the administration of justice within those forces
 
@@ -1137,12 +1137,12 @@ Subject to sections 181 to 183 of this Act, if an officer exercising summary pow
 (1) For the purposes of this section, the term reviewing authority, in relation to any member of the Armed Forces found guilty of an offence under this Part of this Act, means any of the following:
   (a) The Board of Review constituted under section 151 of this Act:
   (b) An officer (including an officer of an allied force), not being the member's commanding officer, but superior in command to the officer who tried or dealt with the offence:
-  (c) An officer (including an officer of an allied force), not inferior in rank to the officer who tried or dealt with the offence, appointed by the Chief of Staff of any service to be a reviewing authority in respect of members of the Armed Forces (including members serving in a joint force) under the command of that Chief of Staff:
+  (c) An officer (including an officer of an allied force), not inferior in rank to the officer who tried or dealt with the offence, appointed by the Chief of any Service to be a reviewing authority in respect of members of the Armed Forces (including members serving in a joint force) under the command of that Chief of Service:
   (d) An officer (including an officer of an allied force), not inferior in rank to the officer who tried or dealt with the offence, appointed by the Chief of Defence Force to be a reviewing authority in respect of members of the Armed Forces serving in a joint force.
 (2) Where any member of the Armed Forces tried summarily or dealt with summarily is found guilty of an offence against this Act, the finding and any punishment imposed on him may be reviewed—
   (a) By a reviewing authority on application made by him or on his behalf within 6 months after the date of the finding; or
   (b) By a reviewing authority within the meaning of paragraph (b) or paragraph (c) or paragraph (d) of subsection (1) of this section at any time on its own initiative without any such application; or
-  (c) By the Board of Review on being referred to the Board at any time by the Chief of Defence Force or the Chief of Staff of any service.
+  (c) By the Board of Review on being referred to the Board at any time by the Chief of Defence Force or the Chief of any Service.
 (3) Where any reviewing authority reviews any finding or punishment, it shall, after considering the legality and justice of the finding and punishment, either—
   (a) Direct that the finding and punishment shall stand; or
   (b) Exercise such of the powers conferred by subsections (4) to (11) of this section as the case may, in the opinion of the authority, require.
@@ -1189,7 +1189,7 @@ Subject to sections 181 to 183 of this Act, if an officer exercising summary pow
   (b) The Chief of Defence Force, the Chief of Navy, the Chief of Army, or the Chief of Air Force; or
   (c) An officer authorised by the Chief of Defence Force, the Chief of Navy, the Chief of Army, or the Chief of Air Force, in such circumstances and subject to such conditions as may be specified in a warrant issued to the officer for the purpose; or
   (d) an officer of a force of another State that is for the time being declared to be serving together with a New Zealand force under section 23B of the Defence Act 1990 in such circumstances and subject to such conditions as may be specified in a warrant issued to the officer by the Chief of Defence Force.
-(1A) Nothing in subsection (1) of this section shall authorise any person other than the Governor-General to convene a general court-martial in respect of a Chief of Staff of any service.
+(1A) Nothing in subsection (1) of this section shall authorise any person other than the Governor-General to convene a general court-martial in respect of a Chief of any Service.
 (2) A restricted court-martial may be convened by order of—
   (a) An officer authorised to convene general courts-martial; or
   (b) An officer authorised by the Chief of Defence Force, the Chief of Navy, the Chief of Army, or the Chief of Air Force, in such circumstances and subject to such conditions as may be specified in a warrant issued to the officer for the purpose; or
@@ -1572,7 +1572,7 @@ Every person required to give evidence in any proceedings before a court-martial
     (i) One shall be an officer of the Navy not below the rank of commodore, appointed under the hand of the Chief of Navy:
     (ii) One shall be an officer of the Army, not below the rank of brigadier, appointed under the hand of the Chief of Army:
     (iii) One shall be an officer of the Air Force, not below the rank of air commodore, appointed under the hand of the Chief of Air Force:
-  (c) An officer (including an officer of an allied force) appointed by any such Chief of Staff to review convictions and sentences of courts-martial held outside New Zealand in respect of members of the Armed Forces (including members serving in a joint force) under the command of that Chief of Staff:
+  (c) An officer (including an officer of an allied force) appointed by any such Chief of Service to review convictions and sentences of courts-martial held outside New Zealand in respect of members of the Armed Forces (including members serving in a joint force) under the command of that Chief of Service:
   (d) An officer (including an officer of an allied force) appointed by the Chief of Defence Force to review convictions and sentences of courts-martial held outside New Zealand, in respect of members of the Armed Forces serving in a joint force.
 (2) The powers and functions exercisable by a reviewing authority appointed under paragraph (c) or paragraph (d) of subsection (1) of this section shall be specified in the instrument of appointment.
 
@@ -1680,10 +1680,10 @@ Where an application for leave to appeal against conviction by a court-martial h
 ### 166 Constitution and powers of reconsidering authorities
 (1) For the purposes of this section, the following shall be reconsidering authorities:
   (a) Any board of officers appointed by the Board of Review to exercise the powers and functions of a reconsidering authority:
-  (b) An officer appointed by the Chief of Staff of any service to reconsider sentences of courts-martial held in respect of members of the Armed Forces (including members serving in a joint force) under the command of that Chief of Staff:
+  (b) An officer appointed by the Chief of any Service to reconsider sentences of courts-martial held in respect of members of the Armed Forces (including members serving in a joint force) under the command of that Chief of Service:
   (c) An officer appointed by the Chief of Defence Force to reconsider sentences of courts-martial in respect of members of the Armed Forces serving in a joint force.
 (2) Any such reconsidering authority may include an officer or, in the case of a board, an officer or officers of an allied force.
-(3) A reconsidering authority may be appointed to reconsider the sentences imposed by courts-martial from such services or parts of services of the Armed Forces as the Board of Review, the Chief of Defence Force, or Chief of Staff, as the case may be, may specify in the instrument appointing the authority.
+(3) A reconsidering authority may be appointed to reconsider the sentences imposed by courts-martial from such services or parts of services of the Armed Forces as the Board of Review, the Chief of Defence Force, or Chief of Service, as the case may be, may specify in the instrument appointing the authority.
 (4) A sentence of imprisonment or detention may be reconsidered by a reconsidering authority at any time after it has been reviewed by a reviewing authority under this Part of this Act, and—
   (a) Where the sentence is being served, it shall be reconsidered at intervals not exceeding 6 months; or
   (b) Where the operation of the sentence has been suspended under this Act, it shall be reconsidered at intervals not exceeding 3 months.
