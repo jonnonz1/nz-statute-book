@@ -1,5 +1,5 @@
 # Securities Transfer Act 1991
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to consolidate and amend the law relating to the transfer of securities and to repeal the Securities Transfer Act 1977
 
@@ -82,16 +82,14 @@ Securities (as defined in section 2 of this Act) sold in a stock exchange transa
 (2) Nothing in this section shall affect any right a person has to refuse to register a transfer of securities on any other ground.
 
 ### 9 Effect of this Act on other Acts, etc
-(1) Except as provided in this section, sections 3 to 8 of this Act shall have effect notwithstanding anything to the contrary in any enactment, rule of law, memorandum or articles of association, deed, or agreement.
-(2) Sections 3 to 8 of this Act shall be subject to section 430 of the Companies Act 1955 (which specifies special provisions as to the transfer of shares in mining companies).
+(1) Except as provided in this section, sections 3 to 8 of this Act shall have effect notwithstanding anything to the contrary in any enactment, rule of law, constitution, deed, or agreement.
+(2)
 (3) Nothing in this Act shall in any way derogate from section 45G(3) of the Reserve Bank of New Zealand Act 1964 (as continued in force by section 84 of the Public Finance Act 1989).
 (4) Nothing in this Act affects the validity of any means of transferring securities other than pursuant to this Act.
 (5) The following enactments shall be read subject to the provisions of this Act:
-  (a) Sections 82 and 84 of the Companies Act 1955:
-  (ab) Sections 35, 39(1), and 84, of the Companies Act 1993:
+  (a) Sections 35, 39(1), and 84 of the Companies Act 1993:
   (b) Section 17 of the Unit Trusts Act 1960:
-  (c) Section 45I of the Reserve Bank of New Zealand Act 1964 (as continued in force by section 84 of the Public Finance Act 1989):
-  (d)
+  (c) Section 45I of the Reserve Bank of New Zealand Act 1964 (as continued in force by section 84 of the Public Finance Act 1989).
 (6) Nothing in subsection (5) of this section limits the generality of any other provision of this Act.
 
 ### 10 Power to alter forms
