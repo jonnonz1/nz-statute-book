@@ -1,5 +1,5 @@
 # Statutes Amendment Act 1945
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to amend certain enactments of the Parliament of New Zealand
 
@@ -46,12 +46,7 @@ This Act may be cited as the Statutes Amendment Act 1945.
 ## Part  — Cook Islands
 
 ### 13 Leases for public purposes or church purposes
-(1) This section shall be read together with and deemed part of the Cook Islands Act 1915 (in this section referred to as the principal Act).
-(2) In this section the expression church purposes means the provision for the benefit of the adherents of some Christian denomination of a site for a place of worship, or for a pastor's house, or for a school conducted by the denomination, or for houses for pupils or teachers of such a school.
-(3) Notwithstanding anything contained in section 469 of the principal Act it shall be lawful for a Native or descendant of a Native, subject to the provisions of this section and to the other provisions contained in Part 16 of the principal Act, to alienate Native freehold land by way of lease for public purposes or for church purposes for any term not exceeding 60 years, with a perpetual right of renewal:
-  Provided that no period of renewal shall exceed 60 years.
-(4) Every such lease as aforesaid and every renewal thereof shall be expressed to be for public purposes or for church purposes within the meaning of this section.
-(5) If at any time the land affected by any lease authorised by this section, or any renewal thereof, shall cease to be used exclusively for public purposes or for church purposes, as the case may be, any Native or descendant of a Native entitled to any interest in the land may make application to the Land Court for an order terminating the lease then in force, and if the Court is satisfied that the land is no longer used exclusively for public purposes or for church purposes, as the case may be, it may make an order terminating the lease then in force, and thereupon the interest of the lessee in the land and under the lease shall cease and determine, but without prejudice to any liability of the lessee in respect of the breach or non-observance before the date of the order of any covenant, condition, or stipulation contained or implied in the lease.
+[Repealed]
 
 ### 14
 [Repealed]
