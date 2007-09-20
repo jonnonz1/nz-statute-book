@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to make better provision for the regulation, supply, and use of gas and the gas industry in New Zealand, and to repeal the Gas Act 1982
 
@@ -540,7 +540,7 @@ The purpose of this Part is to provide for the governance of the gas industry.
     (i) provision for compensation up to a maximum of $20,000 to be awarded, and other actions to be taken, by the complaints resolution agency in relation to those complaints:
     (ii) provision for rights of review, or rights of appeal on a question of law only, in relation to decisions relating to those complaints:
   (b) requiring gas retailers to offer prepayment meters to domestic consumers at a reasonable cost, and prescribing conditions on which those meters must be offered, with the objective of ensuring that all domestic consumers who wish to pay for gas in advance have the option to do so at reasonable cost:
-  (c) requiring all gas retailers to comply with, and give effect to, a system or set of rules that will enable any consumer or class of consumer to choose, and alternate, between competing gas retailers, with the objective of promoting competition in gas retail markets:
+  (c) providing for arrangements to enable consumers to switch gas retailers:
   (d) providing a system of transition arrangements for consumers in the event of a gas retailer becoming insolvent, and requiring industry participants to comply with that system, with the objective of protecting consumers or managing the liabilities of other gas retailers:
   (e) providing for the disclosure of information by gas transmitters, distributors, and retailers on tariff and other charges:
   (f) providing for terms and conditions of access to gas meters by gas retailers:
