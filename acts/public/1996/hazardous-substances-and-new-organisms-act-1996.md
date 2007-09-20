@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -302,11 +302,11 @@ All persons exercising powers and functions under this Act shall take into accou
   (e) Enquire into any incident or emergency involving a hazardous substance or a new organism:
   (f) Keep such registers relating to hazardous substances and new organisms as may be required by this Act or as may be necessary to administer this Act:
   (fa) approve forms for applications under Part 5:
-  (fb) approve standards for containment facilities:
   (fb) give directions as to the disposal of persistent organic pollutants:
+  (fc) approve standards for containment facilities:
   (g) Carry out any powers, functions, and duties conferred on it by or under this Act or any other enactment.
 (2) The Authority must, before exercising the function specified in subsection (1)(fb), consult the persons whom the Authority considers are representative of the classes of person who are likely to have an interest in the standards.
-(2) This section does not limit section 17 of the Crown Entities Act 2004.
+(3) This section does not limit section 17 of the Crown Entities Act 2004.
 
 ### 12 Powers, functions, and duties of enforcement officers
 Any enforcement officer may, in relation to the powers, functions, and duties specified in the enforcement officer's warrant of appointment,—
@@ -1447,7 +1447,7 @@ Subject to section 141 of this Act, the Governor-General may, from time to time,
   (f) Prescribing qualifications, including requirements that a person be a member of any specified professional body or organisation, for any person handling a hazardous substance.
 (2) Any requirements prescribed in accordance with paragraph (a) or paragraph (b) or paragraph (c) of subsection (1) of this section shall comply with any relevant requirements prescribed by regulations made under section 75 of this Act.
 (3) Any regulations made under this section may require any person to obtain a test certificate at any specified time certifying that any specified requirement has been met.
-(4) Notwithstanding section 7(2) of the Building Act 1991, regulations may be made prescribing requirements for stationary containers which require a person to achieve performance criteria additional to or more restrictive in relation to any building work than the performance criteria specified in the building code as defined in section 2 of the Building Act 1991.
+(4) Despite section 18(1) of the Building Act 2004, regulations may be made prescribing requirements for stationary containers that require a person to achieve performance criteria that are additional to or more restrictive in relation to any building work than the performance criteria specified in the building code as defined in section 7 of the Building Act 2004.
 
 ### 77 Controls on hazardous substances
 (1) Where the Authority has approved the importation or manufacture of any substance under section 28A or section 29 of this Act, the Authority shall give that substance one or more hazard classifications in accordance with the intrinsic properties of that substance and the degree of hazard of that substance.
@@ -2172,7 +2172,7 @@ In this Part, unless the context otherwise requires,—
 (1) The enforcement agency may apply to the Court for an order that a person pay to the Crown a pecuniary penalty under this Act.
 (2) The Court may make the order if it is satisfied that the person—
   (a) developed, field tested, imported, or released a new organism in breach of this Act; or
-  (b) possessed or disposed of any new organism imported, manufactured, developed, or released in breach of this Act; or
+  (b) possessed or disposed of any new organism imported, developed, or released in breach of this Act; or
   (c) failed to comply with any controls relating to a new organism—
     (i) imposed by any approval granted under this Act; or
     (ii) specified in regulations made under this Act.
@@ -2217,7 +2217,7 @@ In proceedings for an order under section 124B,—
 ### 124G Civil liability
 (1) A person is liable in damages for any loss or damage caused by any act or omission of the person while—
   (a) developing, field testing, importing, or releasing a new organism in breach of this Act:
-  (b) possessing or disposing of any new organism imported, manufactured, developed, or released in breach of this Act; or
+  (b) possessing or disposing of any new organism imported, developed, or released in breach of this Act; or
   (c) failing to comply with any controls relating to a new organism—
     (i) imposed by any approval granted under this Act; or
     (ii) specified in any regulations made under this Act.
@@ -2424,7 +2424,7 @@ No action or proceedings shall be brought against any enforcement officer or any
     (ii) Any subspecies, infrasubspecies, variety, strain, or cultivar as a risk species where that subspecies, infrasubspecies, variety, strain, or cultivar may have adverse effects on the health and safety of people or the environment:
   (i) Prescribing those offences under this Act that constitute infringement offences against this Act:
   (j) Prescribing forms of infringement notices, and prescribing the infringement fees (not exceeding $1,000) for each infringement offence, which may be different fees for different offences.
-  (k) Prescribing countries or organisations for the purposes of sections 28, 31, 34, and 40 of this Act:
+  (k) Prescribing countries or organisations for the purposes of sections 28, 31, 34, 38A, and 40 of this Act:
   (l) Prescribing information to be provided with any application for approval:
   (m) Prescribing forms for the purposes of this Act:
   (n) Prescribing documentation to be issued in respect of any hazardous substance before importation into New Zealand:
@@ -3471,7 +3471,7 @@ For the purposes of applying the Government Superannuation Fund Act 1956, in acc
 
 ## Schedule 2A — Persistent organic pollutants
 
-| Substance | Use or storage | Manufacture | Expiry of permitted use or storage |
+| Substance | Use or storage | Manu-facture | Expiry of permitted use or storage |
 | --- | --- | --- | --- |
 | Aldrin CAS No: 309-00-2 |  |  |  |
 | Chlordane CAS No: 57-74-9 |  |  |  |
