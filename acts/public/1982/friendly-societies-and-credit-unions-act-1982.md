@@ -1,5 +1,5 @@
 # Friendly Societies And Credit Unions Act 1982
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to consolidate and amend the law relating to friendly and certain other societies, to make better provision for the formation and administration of credit unions, and to provide for matters related thereto
 
@@ -121,7 +121,7 @@ The Registrar may from time to time prepare, cause to be circulated, or publish,
 
 ### 12 Applications for registration of societies
 (1) An application to register a society under this Part of this Act shall be signed by 7 adult members and the secretary of the society, and shall be sent to the Registrar.
-(2) Together with an application under subsection (1) of this section, there shall be sent at least 2 copies of the rules of the society signed by those persons who signed that application and a list of the names, addresses, and designations of the committee of management, the secretary, treasurer, and other principal officers, the trustees, and those persons who are authorised to sue and be sued on behalf of the society.
+(2) Together with an application under subsection (1) of this section, there shall be sent a copy of the rules of the society signed by those persons who signed that application and a list of the names, addresses, and designations of the committee of management, the secretary, treasurer, and other principal officers, the trustees, and those persons who are authorised to sue and be sued on behalf of the society.
 (3) The rules of the society so sent shall either—
   (a) Contain provisions in respect of the matters mentioned in Schedule 2 to this Act; or
   (b) Accord with any model rules applicable to the society as produced by the Registrar pursuant to section 9 of this Act.
@@ -139,7 +139,7 @@ A society which is neither a benevolent society nor a working men's club shall n
   (a) A list of all the branches and notice of the place where the registered office of each branch, to which all communications and notices may be addressed, is to be situated:
   (b) A list of the names, addresses, and designations of the committee of management of each branch, the secretary, treasurer, and other principal officers, and the trustees of each branch:
   (c) If any branch is to have persons authorised to sue and be sued on its behalf (other than the persons authorised to sue and be sued on behalf of the society), a list of the names of all such persons, distinguishing the branches for which they are authorised to sue and be sued:
-  (d) Two copies of all branch rules.
+  (d) a copy of all branch rules.
 (2) The rules in respect of a branch shall either—
   (a) Contain provisions in respect of the matters mentioned in Schedule 3 to this Act; or
   (b) Accord with any model rules applicable to the branch as produced by the Registrar pursuant to section 9 of this Act.
@@ -152,16 +152,16 @@ A society which is neither a benevolent society nor a working men's club shall n
 (2) The Registrar may, in writing, exempt wholly or in part from the requirements of subsection (1) of this section any society or branch transacting business in respect of which he thinks those requirements to be inapplicable, and may from time to time review, vary, or revoke any exemption so given.
 
 ### 16 Revising Barrister may examine rules
-(1) On receiving the copies of the rules under section 12 or section 19 of this Act, the Registrar may, if he thinks fit, refer a copy to the Revising Barrister.
+(1) On receiving the copy of the rules under section 12 or section 19 of this Act, the Registrar may, if he thinks fit, refer a copy to the Revising Barrister.
 (2) If the Revising Barrister is of the opinion that the objects of the society and the rules comply with the requirements of this Act, he shall advise the Registrar accordingly.
 (3) If the Revising Barrister is of opinion that the objects of the society, or any of them, or any of the rules do not comply with the requirements of this Act, he shall notify his opinion in writing to the Registrar, specifying in what particulars the rules or other matters do not so comply; and the Registrar shall then return the rules to the secretary of the society, with a copy of the opinion of the Revising Barrister, and the society may submit amended rules to the Registrar, signed as required under section 12 of this Act.
 
 ### 17 Acknowledgment of registration
 (1) On being satisfied that the society or branch has complied with the provisions of this Part of this Act as to registration, the Registrar shall—
   (a) Issue to that society or branch an acknowledgment of registration which, in the case of a society, shall specify the designation of that society according to the classification set out in section 11(1) of this Act; and
-  (b) Publish, by notice in the Gazette, details of the registration of the society or branch.
+  (b)
 (2) An acknowledgment of registration under subsection (1) of this section shall be conclusive evidence that the society or branch therein mentioned is duly registered under this Act, unless it is proved that the registration of the society or, in the case of a branch, the society of which it is a branch, has been suspended or cancelled.
-(3) If—the Registrar may, after considering any representations of the society made within 4 weeks from the date of its being requested by the Registrar to do so, amend the designation and publish, by notice in the Gazette, details of the amendment.
+(3) If—the Registrar may, after considering any representations of the society made within 4 weeks from the date of its being requested by the Registrar to do so, amend the designation.
   (a) Through inadvertence or otherwise, a society at its registration is wrongly designated according to the classification set out in section 11(1) of this Act; or
   (b) A society is for the time being designated in a classification which, in the opinion of the Registrar, is incorrect for that society—
 
@@ -193,7 +193,7 @@ A society which is neither a benevolent society nor a working men's club shall n
 An acknowledgment of the registration of a society or branch under section 17 of this Act shall also constitute an acknowledgment, and be conclusive evidence, of the registration of the rules of the society or branch in force at the date of the registration of the society or branch.
 
 ### 23 Amendment of rules
-(1) Subject to subsection (2) of this section, any amendment of the rules of a society or branch as for the time being registered under this Act shall not be valid until the amendment has been so registered, and for this purpose 2 copies of the amendment, signed by 3 members and the secretary of the society or of the branch, as the case may be, shall be sent to the Registrar.
+(1) Subject to subsection (2) of this section, any amendment of the rules of a society or branch as for the time being registered under this Act shall not be valid until the amendment has been so registered, and for this purpose a copy of the amendment, signed by 3 members and the secretary of the society or of the branch, as the case may be, shall be sent to the Registrar.
 (2) Subsection (1) of this section shall not apply to a change in the situation of the registered office of a society or branch; but—
   (a) Notice of any change in the situation of the registered office of a society or branch shall be sent to the Registrar and, in the case of a change in the situation of the registered office of a branch, shall be sent to the Registrar through the secretary of the society of which the branch forms part; and
   (b) Where notice of such a change is sent to the Registrar under paragraph (a) of this subsection, he shall register it as an amendment of the rules of the society or branch concerned.
@@ -710,7 +710,7 @@ If, after consideration of the actuarial valuation or any report made in respect
 (3) If the rules of the society do not comply with all the provisions of this Act in respect of the registration of branches, the meeting at which the resolution is passed may amend the rules so as to bring them into compliance with this Act.
 (4) Where a resolution under this section has been passed at a general meeting of a registered society, there shall be sent to the Registrar—
   (a) A copy of the rules of the society marked to show the amendments (if any) made at the meeting; and
-  (b) Two copies of the resolution and of any such amendment of rules, a copy of each being signed by the chairman of the meeting and by the secretary of the society and countersigned by the secretary of the society or branch of which it is to become a branch.
+  (b) a copy of the resolution and of any such amendment of rules, each being signed by the chairman of the meeting and by the secretary of the society and countersigned by the secretary of the society or branch of which it is to become a branch.
 (5) If the Registrar finds that the rules of a society, with or without any such amendment, comply with the provisions of this Part of this Act, he shall—and until such registration the resolution shall not take effect.
   (a) Without further request or notice, cancel the registration of the society and register it as a branch of the other society referred to in the resolution and also, if it is so specified in that resolution, of any branch of that other society; and
   (b) Without further application or evidence, register any such amendment of rules,—
@@ -1311,7 +1311,7 @@ Where a credit union is wound up pursuant to section 138 of this Act, the liabil
 
 ### 145 Application for registration of Association
 (1) An application to register an Association under this Part of this Act shall be signed on behalf of at least 7 of the credit unions agreeing to form the Association by at least one representative of each of those credit unions, and shall be sent to the Registrar.
-(2) Together with an application under subsection (1) of this section, there shall be sent at least 2 copies of the rules of the Association signed by those persons who signed that application and a list of the names, addresses, and designations of the committee of management, the secretary, treasurer, and other principal officers, the trustees, and those persons who are authorised to sue and be sued on behalf of the Association.
+(2) Together with an application under subsection (1) of this section, there shall be sent a copy of the rules of the Association signed by those persons who signed that application and a list of the names, addresses, and designations of the committee of management, the secretary, treasurer, and other principal officers, the trustees, and those persons who are authorised to sue and be sued on behalf of the Association.
 (3) Except where otherwise authorised in writing by the Registrar in the circumstances of any case, the name of every Association of credit unions shall contain the words association of credit unions.
 (4) An Association shall not be registered under a name identical with that under which any other existing Association, credit union, or society is registered, or so nearly resembling that name as to be likely, or in any name likely, in the opinion of the Registrar, to deceive its component members or the public as to its nature or its identity or in any name which in his opinion is otherwise undesirable.
 
