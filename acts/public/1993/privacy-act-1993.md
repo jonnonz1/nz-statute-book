@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—aTo establish certain principles with respect to—iThe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiAccess by each individual to information relating to that individual and held by public and private sector agencies; andbTo provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcTo provide for matters incidental thereto
 
@@ -1443,6 +1443,7 @@ The income of the Commissioner shall be exempt from income tax.
 | Companies Act 1955 | Sections 7, 105, 111, 118, 119, 128, and 200 |
 | Marriage Act 1955 | Section 7 |
 | Electoral Act 1956 |  |
+| Building Societies Act 1965 | section 121A |
 | Land Transfer Regulations 1966 | Regulation 5 |
 | Medical Auxiliaries Act 1966 |  |
 | Insolvency Act 1967 | Section 118 |
@@ -1478,7 +1479,6 @@ The income of the Commissioner shall be exempt from income tax.
 | Local Electoral Act 2001 | Sections 38 and 109 |
 | Chartered Professional Engineers of New Zealand Act 2002 | Sections 16 to 19 |
 | Climate Change Response Act 2002 | Sections 18, 20, 26, 27, and 28 |
-| Civil Union Act 2004 | section 29 |
 | Local Government (Rating) Act 2002 | Section 27 |
 | Trade Marks Act 2002 | Section 181 |
 | Motor Vehicle Sales Act 2003 | Sections 52 to 73 |
@@ -1486,8 +1486,9 @@ The income of the Commissioner shall be exempt from income tax.
 | Health Practitioners Competence Assurance Act 2003 | section 137 |
 | Gambling Act 2003 | section 204 |
 | Wine Act 2003 | Sections 17, 47, and 73 |
-| Secondhand Dealers and Pawnbrokers Act 2004 | Section 78 |
 | Building Act 2004 | Sections 216, 273, and 298 |
+| Civil Union Act 2004 | section 29 |
+| Secondhand Dealers and Pawnbrokers Act 2004 | Section 78 |
 | Veterinarians Act 2005 | Section 22 |
 | Registered Architects Act 2005 | sections 18 to 23 |
 
@@ -1585,8 +1586,6 @@ Except as provided in any other enactment, unique identifiers shall not be used 
 | Enforcement of fines and other orders | Particulars of writs, warrants, or orders in force and issued or made on default in the payment of fines or other monetary sums ordered in proceedings commenced by indictment or information; particulars of the persons to whom the writs, warrants, or orders relate; and particulars of fines, sentences, or orders imposed or made against those persons, including the amounts remaining payable thereunder and the arrangements for payment | Police |
 |  |  | Department of Corrections |
 |  |  | Legal Services Agency, for the purpose of determining an application for a grant of legal aid in relation to a criminal matter |
-| Suspended sentences | Particulars of persons subject to suspended sentence orders or sentences subsequently imposed in respect of the original offences for which suspended sentence orders were made, pursuant to section 21A of the Criminal Justice Act 1985 | Police |
-|  |  | Department of Corrections |
 | Non-performance of bail conditions | Records relating to failure to comply with bail conditions entered under section 38(3) or section 63(3) of the Bail Act 2000. | Police |
 
 | Subject | Description | Access Available to |
@@ -1618,11 +1617,10 @@ Except as provided in any other enactment, unique identifiers shall not be used 
 |  |  | Ministry of Justice (access is limited to obtaining information for the purpose of processing cases before a court) |
 |  |  | Legal Services Agency (access is limited to obtaining information for the purpose of processing cases before a court, and for determining an application for a grant of legal aid relating to a criminal matter) |
 | Vehicles of interest | Particulars of motor vehicles stolen, unlawfully taken, missing, abandoned, or found, or where location is for other reasons required to be known by the Police | Ministry of Transport (access is limited so as to exclude such particulars as the Police may determine in any case) |
-|  |  | Ministry of Economic Development (access is limited to information required for purposes of section 9 of the Motor Vehicle Securities Act 1989 by the Registrar of Motor Vehicle Securities) |
 | Wanted persons | Particulars concerning persons wanted for arrest | Land Transport New Zealand |
 |  |  | Ministry of Justice (access is limited to obtaining information for the purposes of— |
 |  |  | (a) Section 24 of the Transport Services Licensing Act 1989: |
-|  |  | (b) Carrying out the functions conferred on the Authority by section 17(1) of the Land Transport Act 1993: |
+|  |  | (b) Carrying out the functions conferred on the Authority by section 69(1) of the Land Transport Management Act 2003: |
 |  |  | (c) Carrying out the functions conferred on the Authority by the notice dated 22 August 1993 and published in the Gazette on 2 September 1993 at page 2626) |
 |  |  | Department for Courts (access is limited to persons wanted in connection with fines enforcement) |
 | Missing persons | Particulars concerning persons missing or required to be located | Land Transport New Zealand (access is limited so as to exclude such particulars as the Police may determine in any case) |
@@ -1630,12 +1628,12 @@ Except as provided in any other enactment, unique identifiers shall not be used 
 | Firearms licences | Particulars of persons authorised to possess firearms in accordance with the Arms Act 1983 | Ministry of Justice (access is limited to identity details of persons who possess firearms, where that information is required for the purpose of serving orders made under the Domestic Violence Act 1995) |
 | Protection orders | Details of protection | Department of Corrections orders made under the (access is limited to Domestic Violence Act obtaining information 1995 about any offender who is subject to a protection order while also subject to— |
 |  |  | (a) a full-time custodial sentence (including while released on parole); or |
-|  |  | (b) a sentence of periodic detention, supervision, community service, community programme, or community work; or |
+|  |  | (b) a sentence of supervision or community work; or |
 |  |  | (c) a non-association order. |
 |  |  | Access is for the purpose of managing the offender's sentence in a manner consistent with any protection order.) |
 | Restraining orders | Details of restraining orders made under the Harassment Act 1997 | Department of Corrections (access is limited to obtaining information about any offender who is subject to a restraining order while also subject to— |
 |  |  | (a) a full-time custodial sentence (including while released on parole); or |
-|  |  | (b) a sentence of periodic detention, supervision, community service, community programme, or community work; or |
+|  |  | (b) a sentence of supervision or community work; or |
 |  |  | (c) a non-association order. |
 |  |  | Access is for the purpose of managing the offender's sentence in a manner consistent with any restraining order.) |
 
@@ -1661,13 +1659,13 @@ Except as provided in any other enactment, unique identifiers shall not be used 
 |  |  | Local authorities authorised under section 112 of this Act |
 |  |  | Serious Fraud Office |
 |  |  | Land Transport New Zealand (access is limited to obtaining information for the purposes of carrying out the functions conferred on the Authority by— |
-|  |  | (a) Section 190(1) of the Land Transport Act 1998: |
+|  |  | (a) section 69(1) of the Land Transport Management Act 2003: |
 |  |  | (b) The notice dated 22 August 1993 and published in the Gazette on 2 September 1993 at page 2626). |
 |  |  | Legal Services Agency (access is limited to obtaining information for the purpose of determining financial eligibility of an applicant for a grant of legal aid in relation to a criminal matter) |
 |  |  | An enforcement authority under the Land Transport Management Act 2003. |
 | Road user charges | Details of licences issued under the Road User Charges Act 1977 and details of the corresponding licence holders | Police (access is limited to obtaining information for the purpose of enforcing the Road User Charges Act 1977) |
 |  |  | Land Transport New Zealand (access is limited to obtaining information for the purposes of carrying out the functions conferred on the Authority by— |
-|  |  | (a) Section 17(1) of the Land Transport Act 1993: |
+|  |  | (a) section 69(1) of the Land Transport Management Act 2003: |
 |  |  | (b) The notice dated 22 August 1993 and published in the Gazette on 2 September 1993 at page 2626). |
 
 | Subject | Description | Access Available to |
@@ -1676,8 +1674,7 @@ Except as provided in any other enactment, unique identifiers shall not be used 
 | (a) the person's area of reporting: |  |  |
 | (b) in the case of a person released from a prison, the conditions of the person's release (whether imposed on release or imposed or varied subsequently, and including any direction issued to that person by a probation officer) |  |  |
 |  |  | Ministry of Justice |
-| Records of prisoners | Particulars of prisoners of prison including the date of release from the prison | Police (access is limited to the location and the date of release of the inmate) |
-|  |  | Ministry of Justice |
+| Records of prisoners | Particulars of prisoners in a prison, including the date of release from the prison | Police (access is limited to the location and the date of release of the prisoner) Ministry of Justice |
 
 ## Schedule 6 — Enactments amended
 
