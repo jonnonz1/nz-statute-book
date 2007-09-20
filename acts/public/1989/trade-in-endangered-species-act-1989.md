@@ -1,5 +1,5 @@
 # Trade in Endangered Species Act 1989
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to further the protection and conservation of endangered species of wild fauna and flora by regulating the export and import of such species and any product derived from those species
 
@@ -354,7 +354,7 @@ The Director-General may, after (if necessary) consultation with the appropriate
 Sections 149A, 149B, 149C(1) and (2), 149D, 160, and 161 of the Customs and Excise Act 1996 shall apply in relation to the importation or exportation of any endangered, threatened or exploited species as if such endangered, threatened, or exploited species were a prohibited import or prohibited export within the meaning of that Act.
 
 ### 39 Seizure of endangered species traded in contravention of Act
-(1) Where an officer finds, in or on any ship or aircraft or at any port or aerodrome, any specimen of an endangered, threatened, or exploited species that—that specimen shall be forfeit to the Crown, and shall be seized by the officer who shall dispose of it in accordance with section 42 of this Act.
+(1) Where an officer finds, in or on any ship or aircraft or at any port, aerodrome, transitional facility, or Customs controlled area, any specimen of an endangered, threatened, or exploited species that—that specimen shall be forfeit to the Crown, and shall be seized by the officer who shall dispose of it in accordance with section 42 of this Act.
   (a) Is being traded otherwise than in accordance with this Act; or
   (b) Is not listed on the inward or outward report in respect of that ship or aircraft,—
 (2) Any officer who has reasonable cause to believe that any specimen of an endangered, threatened, or exploited species has been imported or introduced from the sea into New Zealand otherwise than in accordance with this Act, may seize that specimen and,—and shall deliver it into the custody of the Director-General.
@@ -366,6 +366,9 @@ Sections 149A, 149B, 149C(1) and (2), 149D, 160, and 161 of the Customs and Exci
   (b) Any thing which the officer has reason to believe will be evidence of a breach of the provisions of this Act or of any regulation made under it,—
   Provided that the owner or the person entitled to the possession of the items seized under this subsection may apply to the District Court at any time for the return of those items, not being items that are required for evidential purposes in a hearing of any Court, and the Court may order the retention of those items or their return on such conditions as the Court thinks fit.
 (5) No compensation shall be payable in respect of any specimen seized under subsection (1) of this section.
+(6) For the purposes of subsection (1),—
+  - **Customs controlled area** has the meaning given to it in section 2(1) of the Customs and Excise Act 1996
+  - **transitional facility** has the meaning given to it in section 2(1) of the Biosecurity Act 1993.
 
 ### 39A Power to seize vehicles and containers
 Any officer may stop and seize any vehicle on the ground or in water, or stop in transit and seize any parcel, package, case, bag, luggage, or other container, if the officer reasonably believes either—
