@@ -1,5 +1,5 @@
 # Cook Islands Amendment Act 1974
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to amend the Cook Islands Act 1915
 
