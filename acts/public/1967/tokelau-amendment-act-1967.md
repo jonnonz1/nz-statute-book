@@ -1,5 +1,5 @@
 # Tokelau Amendment Act 1967
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to amend the Tokelau Act 1948
 
