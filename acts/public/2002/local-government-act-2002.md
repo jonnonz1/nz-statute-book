@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -68,6 +68,14 @@ In order to recognise and respect the Crown's responsibility to take appropriate
     (d) in relation to a regional council, means a member of the governing body of the regional council elected under the Local Electoral Act 2001, including the chairperson:
     (e) in relation to a territorial authority, means a member of the governing body of the territorial authority elected under the Local Electoral Act 2001, including the mayor
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
+  - **network assets of Watercare Services Limited** —
+    (a) means the network assets of Watercare Services Limited used in its provision of water supply; and
+    (b) includes—
+      (i) rivers, streams, lakes, waters, and underground waters, and rights relating to these; and
+      (ii) land, watershed, catchment, and water collection areas; and
+      (iii) any of the following that are vested in, or are acquired, constructed, or operated by, or are under the control of, Watercare Services Limited:
+        (A) reservoirs, dams, bores, tanks, and pipes; and
+        (B) buildings, machinery, and appliances
   - **network infrastructure** has the meaning set out in section 197
   - **operating expenses** and have the same meaning as under generally accepted accounting practice
   - **public notice** , in relation to a notice given by a local authority,—
@@ -1690,7 +1698,7 @@ Without limiting section 145, a territorial authority may make bylaws for its di
   (b) must ensure that a copy of a notice required under subsection (2) is sent to the persons registered under paragraph (a); and
   (c) may remove from the register the name of a person who has ceased to be the owner or occupier of trade premises within its district, or who has requested the local authority in writing to remove his or her name from the register.
 (6) Nothing in this section limits the provisions of the Health Act 1956 or the Resource Management Act 1991.
-(7) The requirements on a territorial authority under this section are in addition to the requirements on the territorial authority under section 156, but the territorial authority may comply with both sections by using a single process.
+(7) The requirements in this section are in addition to the requirements in section 156, but a territorial authority may comply with both sections by using a single process.
 
 **Power of regional councils to make bylaws**
 
@@ -2483,7 +2491,7 @@ Except as otherwise provided in this subpart or in Schedule 14, sections 215 to 
 ### 224 Offence relating to water wastage
 Every person who contravenes section 192 and continues to waste water or allow it to be wasted after receiving a written warning from the local authority commits an offence and is liable on summary conviction to the penalty set out in section 242(2).
 
-### 225 Offences relating to waterworks
+### 225 Offences relating to waterworks and network assets of Watercare Services Limited
 (1) Every person commits an offence and is liable on summary conviction to the penalty set out in section 242(1) who, wilfully or negligently,—
   (a) takes water from the supply provided to another person without having entered into an agreement to be supplied with water from a waterworks; or
   (b) having been supplied with water from a waterworks,—
@@ -2492,18 +2500,21 @@ Every person who contravenes section 192 and continues to waste water or allow i
   (c) bathes or washes clothing or other things in, or throws an animal, refuse, litter, or debris into, the water of a waterworks; or
   (d) carries out work on, or in relation to, a waterworks without first—
     (i) notifying the local authority of the intention to carry out the work; and
-    (ii) obtaining written authorisation from the local authority, with terms or conditions the local authority thinks fit.
-(2) It is not an offence under subsection (1) if the work referred to in subsection (1)(d)—
+    (ii) obtaining written authorisation from the local authority, with terms or conditions the local authority thinks fit; or
+  (e) carries out work on, or in relation to, the network assets of Watercare Services Limited without first—
+    (i) notifying Watercare Services Limited of the intention to carry out the work; and
+    (ii) obtaining written authorisation from Watercare Services Limited, with terms or conditions that Watercare Services Limited thinks fit.
+(2) It is not an offence under subsection (1) if the work referred to in subsection (1)(d) or (e)—
   (a) is authorised by a valid consent granted under—
     (i) the Building Act 2004, regulations made under that Act, or the Building Code; or
     (ii) the Resource Management Act 1991 or regulations made under that Act; or
   (b) was carried out in accordance with a valid building, plumbing, or drainage consent.
-(3) It is a defence to an offence under subsection (1)(d) if the work—
+(3) It is a defence to an offence under subsection (1)(d) or (e) if the work—
   (a) was necessary to avoid an emergency, or to mitigate or remedy the effects of an emergency; and
   (b) was carried out by a person appropriately registered to undertake the work.
 
 ### 226 Liability for cost of damage
-A person who commits an offence under section 225 may, in addition to, or instead of, the penalty for the offence, be ordered to pay the cost incurred by the council in repairing the damage done to the waterworks by the offence.
+A person who commits an offence under section 225 may, in addition to, or instead of, the penalty for the offence, be ordered to pay the cost incurred by the council or Watercare Services Limited in repairing the damage done to the waterworks or the network assets of Watercare Services Limited by the offence.
 
 **Offences relating to water meters**
 
@@ -2648,9 +2659,9 @@ Despite the provisions of the Summary Proceedings Act 1957, a local authority ma
 ### Subpart 2 — Penalties
 
 ### 242 Penalties for offences
-(1) A person who is convicted of an offence under section 225, section 227, section 228, or section 232(2), is liable to a fine not exceeding $20,000.
+(1) A person who is convicted of an offence under section 225, section 227, section 228, or section 232(3), is liable to a fine not exceeding $20,000.
 (2) A person who is convicted of an offence under section 224, sections 229 to 231, or sections 233 to 238 is liable to a fine not exceeding $5,000.
-(3) A person who is convicted of an offence under section 232(1) is liable to imprisonment for a term not exceeding 3 years or to a fine not exceeding $20,000 or both.
+(3) A person who is convicted of an offence under section 232(2) is liable to imprisonment for a term not exceeding 3 years or to a fine not exceeding $20,000 or both.
 (4) A person who is convicted of an offence against a bylaw made under Part 8 (other than a bylaw made under Part 8 referred to in subsection (5)) is liable to a fine not exceeding $20,000.
 (5) A person who is convicted of an offence against a bylaw made under section 146(a)(iii) (which relates to trade wastes) is liable to a fine not exceeding $200,000.
 
