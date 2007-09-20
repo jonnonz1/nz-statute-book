@@ -1,5 +1,5 @@
 # Securities Act 1978
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to establish a Securities Commission; and to consolidate and amend the law relating to the offering of securities to the public, and to extend the application thereof
 
@@ -139,7 +139,7 @@ _Consolidation as at 2007-09-03_
       (i) That prospectus as so amended; or
       (ii) A document that, except for the matters specified in paragraphs (a) and (b) of section 41 of this Act, is identical to that prospectus as so amended:
   - **Registrar** means,—
-    (a) In sections 7 and 67 of this Act, a person for the time being holding the office of Registrar of Companies or Deputy Registrar of Companies in accordance with the Companies Act 1993:
+    (a) In sections 67A to 68B , 68G, 68I, and 68K, a person for the time being holding the office of Registrar of Companies or Deputy Registrar of Companies in accordance with the Companies Act 1993:
     (b) In all other sections of this Act, the Registrar of Companies appointed in accordance with the Companies Act 1993 and, pursuant to sections 357 and 358 of that Act, includes every Deputy Registrar of Companies, District Registrar of Companies, and Assistant Registrar of Companies appointed in accordance with that Act:
   - **Regulations** means regulations made under section 70 of this Act
   - **Relative** has the same meaning as in the Income Tax Act 2004
@@ -1498,7 +1498,7 @@ A declaration of civil liability must state the following:
 (2) No person who is a director of a contributory mortgage broker shall be liable under subsection (1)(b) of this section if he or she proves that—
   (a) The breach occurred without his or her knowledge or consent; and
   (b) He or she had reasonable grounds to believe and did, up to the time that he or she learned of the breach, believe that the contributory mortgage broker had complied with the regulations made under this Act; and
-  (c) Upon becoming aware of the breach he or she forthwith gave reasonable notice of the breach to the District Registrar of Companies at Wellington and any person to whom such notice is required to be given pursuant to regulations made under this Act.
+  (c) Upon becoming aware of the breach he or she forthwith gave reasonable notice of the breach to the Registrar and any person to whom such notice is required to be given pursuant to regulations made under this Act.
 
 **General provisions on civil liability remedies**
 
