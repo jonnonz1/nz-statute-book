@@ -1,5 +1,5 @@
 # Animal Products Act 1999
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to replace the Meat Act 1981 and the Dairy Industry Act 1952, and to reform and restate the law relating to the processing of animal material into products for use, trade, and export
 
@@ -2155,7 +2155,7 @@ A person who is required by or under section 159 to keep records or any other in
   (h) Setting specifications and providing for matters of detail in relation to animal product standards in accordance with section 45:
   (i) Exempting under section 50 any particular consignment or animal material or product or person, or class of consignments, animal material or products, or persons, from the export requirements of Part 5:
   (j) Specifying particulars to be shown on the register of exporters under section 53(c):
-  (ja) specifying under section 59A requirements that must be met in relation to animal material or product intended for export:
+  (ja) specifying under section 60 requirements that must be met in relation to animal material or product intended for export:
   (jb) notifying any exemption under section 60B from the requirements of any food standard:
   (k) Setting specifications in relation to the issue and control of official assurances under section 62:
   (l) Specifying matters in relation to the obtaining of official assurances under section 63:
