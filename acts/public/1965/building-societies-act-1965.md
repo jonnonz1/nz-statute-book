@@ -1,5 +1,5 @@
 # Building Societies Act 1965
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to building societies
 
@@ -13,7 +13,6 @@ _Consolidation as at 2007-09-03_
 (1) In this Act, unless the context otherwise requires,—
   - **Alteration** , in relation to the rules of a society, includes any addition to the rules, and also includes the rescission of all or any of the rules, with or without the substitution of one or more new rules for any rules rescinded
   - **Annual return** means the annual return required to be made by a society pursuant to section 103 of this Act
-  - **Appropriate District Registrar of Companies** , in relation to any society, means the District Registrar of Companies in whose office a copy of the society's registered rules is filed
   - **Board of directors** , in relation to a society managed by a committee of management, means that committee
   - **Bonus ballot** means a ballot, held by or on behalf of a society, of eligible bonus balloting shares for the purpose of ascertaining which of the holders of those shares are entitled to receive any prizes arising in respect of those shares
   - **Bonus balloting shares** means shares issued pursuant to section 31A of this Act
@@ -57,24 +56,21 @@ _Consolidation as at 2007-09-03_
 For the purposes of this Act, there shall from time to time be appointed under the State Services Act 1962 a Registrar of Building Societies.
 
 ### 4 Deputy Registrar of Building Societies
-(1) There may also from time to time be appointed under the State Services Act 1962 a Deputy Registrar of Building Societies, who shall, under the control of the Registrar, perform such general official duties as he is called upon to perform by the Registrar.
-(2) On the occurrence from any cause of a vacancy in the office of Registrar (whether by reason of death, resignation, or otherwise), and in the case of the absence from duty of the Registrar (from whatever cause arising), and so long as any such vacancy or absence continues, the Deputy Registrar shall have and may exercise all the powers, duties, and functions of the Registrar.
-(3) The fact that the Deputy Registrar exercises any such power, duty, or function shall be conclusive evidence of his authority to do so, and no person shall be concerned to inquire whether the occasion has arisen requiring or authorising him to do so.
+(1) There may also be 1 or more Deputy Registrars of Building Societies appointed under the State Sector Act 1988.
+(2) A Deputy Registrar has and may exercise the powers, duties, and functions of the Registrar under this Act (subject to the control of the Registrar).
+(3) The fact that a Deputy Registrar exercises those powers, duties, or functions is conclusive evidence of the authority to do so.
 
 ### 5 Official seal
-There shall be an official seal in the custody of the Registrar.
+[Repealed]
 
 ### 6 Registers to be kept
-The Registrar shall cause to be kept in his office a register of building societies and such other registers as he considers necessary for the purposes of this Act, in which shall be recorded all matters required by this Act or by regulations made under this Act to be recorded by the Registrar.
+[Repealed]
 
 ### 7 Annual report by Registrar
 [Repealed]
 
 ### 8 Information as to societies, and inspection of documents kept by Registrars
-(1) Any person shall be entitled, on application to the Registrar and on payment of the prescribed fee (if any), to be informed of the names and addresses of any building societies together with the addresses of the District Registrars of Companies at whose offices copies of the rules, accounts, and annual returns of the societies are filed pursuant to this Act.
-(2) Any person may, on payment to the appropriate District Registrar of Companies of the fee (if any) for the time being prescribed by regulations made under the Companies Act 1993 in respect of the inspection of documents relating to companies, inspect the documents filed in the office of that District Registrar pursuant to this Act.
-(3) Any person may, on payment to the appropriate District Registrar of Companies of the fee (if any) for the time being prescribed by regulations made under the Companies Act 1993 in respect of certificates of incorporation of companies or in respect of copies of or extracts from other documents or parts thereof, require a certificate of the incorporation of any society, or a copy of or extract from any other document filed in his office pursuant to this Act, to be given or certified by that Registrar or an Assistant Registrar of Companies under his hand and seal.
-(4) No process for compelling the production of any document kept by any District Registrar of Companies shall issue from any Court except with the leave of that Court, and any such process if issued shall bear on it a statement that it is issued with the leave of the Court.
+[Repealed]
 
 ## Part 2 — Constitution of building societies
 
@@ -123,7 +119,7 @@ No person is affected by or is deemed to have notice or knowledge of the rules o
   (a) Pursuant to this Act—
     (i) Registered by the Registrar, or
     (ii) Filed or lodged with the Registrar; or
-    (iii) Filed or lodged with the District Registrar of Companies; or
+    (iii)
   (b) Available for inspection at an office of the society.
 
 ### 9E Dealings between society and other persons
@@ -179,12 +175,14 @@ Section 9E of this Act applies notwithstanding the fact that a person referred t
 ### 13 Mode of establishing society
 Any 20 or more persons may establish a society under this Act by—
   (a) Agreeing upon rules for the government of the society, being rules that conform to the requirements of this Act relating to rules of building societies; and
-  (b) Sending to the Registrar 4 printed copies of those rules, signed by not less than 20 of those persons and by the intended secretary or other officer.
+  (b) Sending to the Registrar for registration a copy of those rules, signed by not less than 20 of those persons and by the intended secretary or other officer.
 
 ### 14 Registration of rules of society
-(1) Where copies of rules have been sent to the Registrar in accordance with section 13 of this Act he may, if he thinks fit, refer a copy to the Solicitor-General for the purpose of ensuring that the rules conform to the requirements of this Act relating to rules of building societies. If the Solicitor-General is of opinion that the rules do not so conform he may notify the intended secretary or other officer of the society of the matters in respect of which, in his opinion, they do not conform.
-(2) When the Registrar is satisfied that the rules conform to such requirements as aforesaid, he shall, subject to section 21 of this Act, retain and register 2 copies and return one copy to the secretary or other officer of the society, together with a certificate of incorporation.
-(3) On the registration of the rules as aforesaid the Registrar shall certify under his hand and seal on the remaining copy that the rules are registered, and send that copy, together with a copy of the certificate of incorporation, to the District Registrar of Companies whose office is nearest to the registered office of the society, or to such other District Registrar of Companies as may be approved for the purpose after consultation with the society.
+(1) The Registrar may refer the rules sent to the Registrar under section 13 to the Solicitor-General to ensure they comply with the requirements of this Act relating to rules of building societies.
+(2) If the Solicitor-General considers that the rules do not comply with those requirements, he or she may notify the society of the ways in which they do not comply.
+(3) If the Registrar is satisfied that the rules comply with those requirements, the Registrar must—
+  (a) register the rules; and
+  (b) send a certificate of incorporation to the building society.
 
 ### 15 Incorporation of society
 (1) From the date of incorporation mentioned in such certificate of incorporation as aforesaid, the society shall become a body corporate, by the name contained in the rules so registered, having perpetual succession and a common seal.
@@ -249,10 +247,11 @@ If the Registrar refuses to register the rules, the society may submit the rules
 
 ### 19 Alteration of rules
 (1) Any society may alter its rules by special resolution.
-(2) Where a society alters its rules by special resolution, it shall send to the Registrar, within 14 days after the passing of the special resolution, 4 printed copies of the alteration, or, in the case of the rescission of a rule, 4 copies of the resolution, signed by a director and the secretary of the society.
-(3) Where copies are so sent to the Registrar, he may, if he thinks fit, refer a copy to the Solicitor-General for the purpose of ensuring that the alteration is in conformity with this Act; and the Solicitor-General shall have the same functions as he has in relation to original rules.
-(4) When the Registrar is satisfied that the alteration is in conformity with this Act, he shall return one copy to the secretary of the society with a certificate of registration, and shall retain and register 2 copies; and on such registration the alteration shall take effect.
-(5) On the registration of such copies the Registrar shall certify under his hand and seal, on the remaining copy, that the alteration is registered, and send that copy to the appropriate District Registrar of Companies.
+(2) The society must send notice of the alteration, signed by a director and the secretary of the society, to the Registrar for registration within 14 days after the passing of the special resolution.
+(3) The Registrar may refer the alteration to the Solicitor-General to ensure it complies with this Act.
+(3A) If the Solicitor-General considers that the alteration does not comply with this Act, he or she may notify the society of the ways in which it does not comply.
+(4) If the Registrar is satisfied that the alteration complies with this Act, the Registrar must register the alteration.
+(5) The alteration takes effect on registration.
 (6) If the Registrar refuses to register the alteration, the society shall have the same right of appeal to a Judge of the High Court as it would have against a refusal to register rules, and the provisions of section 16 of this Act shall apply accordingly.
 (7) Any provision in the rules of a society that the rules may be altered without passing a special resolution shall be void.
 (8) If any society fails to comply with subsection (2) of this section, the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
@@ -281,9 +280,9 @@ If the Registrar refuses to register the rules, the society may submit the rules
 ### 23 Change of name
 (1) Subject to the provisions of this Act, a society may change its name by special resolution.
 (2) If, through inadvertence or otherwise, a society at its first registration under this Act or on its registration in a new name is registered in a name which is in contravention of section 21 of this Act, or of any enactment, other than this Act, relating to restrictions on the use of any name, the society shall, within a period of 6 weeks from the date of its being required by the Registrar to do so, or within such further period as he may allow, change its name by resolution to a name that is not in contravention as aforesaid.
-(3) The society shall give notice in writing of any such change to the Registrar within 14 days after the passing of the special resolution or resolution, as the case may be.
-(4) On receipt of the notice the Registrar shall, unless in his opinion the new name is undesirable, register the new name and send to the society a certificate of such registration.
-(5) On the issue of a certificate of registration the Registrar shall send a copy of the certificate to the appropriate District Registrar of Companies.
+(3) The society shall give notice in writing of any such change to the Registrar for registration within 14 days after the passing of the special resolution or resolution, as the case may be.
+(4) On receipt of the notice the Registrar shall, unless in his opinion the new name is undesirable, register the new name.
+(5)
 (6) Any such change of name shall not affect the rights and obligations of the society or of any of its members or of any other person concerned.
 (7) If a society fails to send to the Registrar a notice of any change of name within the time prescribed or allowed by this section the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
 
@@ -330,12 +329,12 @@ Any person under the age of 20 years may, if the rules do not otherwise provide,
 (2) Every society or person who acts in contravention of this section commits an offence and is liable, on information laid by the Registrar, to a fine not exceeding $10 for every day during which business has been carried on without a certificate of incorporation having been obtained.
 
 ### 29 Minimum subscription by founding members
-(1) A society incorporated after the commencement of this Act shall not commence any business or borrow any money unless there has been produced to the Registrar evidence satisfying him that all those members who signed copies of the rules for sending to the Registrar under section 13 of this Act—and that the Registrar has issued to the society his certificate that the requisite evidence has been so produced.
+(1) A society incorporated after the commencement of this Act shall not commence any business or borrow any money unless there has been produced to the Registrar evidence satisfying him that all those members who signed a copy of the rules for sending to the Registrar under section 13 of this Act—and that the Registrar has issued to the society his certificate that the requisite evidence has been so produced.
   (a) Have each been issued with shares in the society to the value of $1,000 or more on terms that conform to the requirements of Schedule 2 to this Act; and
   (b) Have together received shares issued under paragraph (a) of this subsection to a total value of at least $200,000; and
   (c) Have fully paid to the society in cash the value of the shares issued to them—
 (2) If at the end of the period of 2 months beginning with the date on which the society became a body corporate the requisite evidence has not been produced to the Registrar under subsection (1) of this section, the Registrar may if he thinks fit cancel the registration of the society, and the society shall cease to enjoy the privileges of a society under this Act.
-(3) Notice of the cancellation of registration of a society under subsection (2) of this section shall be published by the Registrar in the Gazette, and in such other ways as appear to him to be expedient for informing the public, and shall also be sent by him to the appropriate District Registrar of Companies.
+(3) Notice of the cancellation of registration of a society under subsection (2) of this section shall be published by the Registrar in the Gazette, and in such other ways as appear to him to be expedient for informing the public, and the Registrar must register the cancellation.
 (4) The provisions of Schedule 2 to this Act shall have effect in respect of shares issued in conformity with subsection (1) of this section, for the purpose of ensuring that the conditions attaching to the shares are observed until the end of the period of 5 years beginning with the date on which the Registrar issued his certificate to the society under that subsection.
 (5) If any society commences business or borrows any money in contravention of this section, the society shall be guilty of an offence and shall be liable on conviction on indictment to a fine not exceeding $1,000; and every officer of the society who is in default shall be guilty of an offence and shall be liable on conviction on indictment to imprisonment for a term not exceeding 2 years or to a fine not exceeding $1,000, or to both.
 
@@ -363,13 +362,13 @@ Any person under the age of 20 years may, if the rules do not otherwise provide,
 
 ### 32 Union of societies
 (1) Two or more building societies may unite and become one society, with or without a dissolution or division of the funds of any one or more of those societies, if the terms of the union are approved by a special resolution of each of the societies.
-(2) Notice of every union of societies shall be sent to the Registrar.
+(2) Notice of every union of societies shall be sent to the Registrar for registration.
 (3) If any society fails to send notice to the Registrar under subsection (2) of this section, the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
 
 ### 33 Transfer of engagements
 (1) Subject to the provisions of this section, a society may, by special resolution, transfer all or part of its engagements to another society which undertakes to fulfil those engagements.
 (2) A society may, by resolution of a general meeting of the society or of the board of directors of the society, undertake to fulfil all or part of the engagements of another society.
-(3) It shall be the duty of a society transferring all or part of its engagements under this section to send notice of the transfer to the Registrar.
+(3) It shall be the duty of a society transferring all or part of its engagements under this section to send notice of the transfer to the Registrar for registration.
 (4) A transfer of engagements between societies under this section shall not have effect unless notice of the transfer has been registered.
 (5) If a society fails to comply with subsection (3) of this section, the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
 
@@ -380,7 +379,7 @@ Any person under the age of 20 years may, if the rules do not otherwise provide,
   (c) The compensation or other consideration proposed to be paid to the directors or other officers of the relevant society, and of the other society or societies concerned:
   (d) The payments (if any) to be made to the members of the relevant society, and of the other society or societies concerned, in consideration of the union or transfer of engagements.
 (2) A statement under subsection (1) of this section shall be sent to every member qualified to vote on the special resolution to approve the union, or to effect the transfer of engagements, as the case may be, together with the notice of meeting required to be sent to each such member.
-(3) Where notice of the union or transfer is sent to the Registrar under section 32 or section 33 of this Act the Registrar shall, if the Registrar is satisfied that the provisions of those sections and of this section have been complied with, register the notice and give notice thereof to the appropriate District Registrars of Companies.
+(3) If the Registrar receives a notice of a union or transfer under section 32 or 33 and is satisfied that those sections and this section have been complied with, the Registrar must register the notice.
 (4) The registration by the Registrar of notice of the union or transfer shall operate, by virtue of this subsection and without further assurance, as an effectual transfer and assignment, as at the date of the registration, to the united society or, as the case may be, to the society to which the engagements are transferred, of the funds, property, and assets of the relevant society, or, as the case may be, of such part of those funds, property, and assets as are provided for by the resolution to approve the union or to effect the transfer, as the case may be.
 (5) Where by virtue of subsection (4) of this section any land or interest in land becomes vested in the united society or, as the case may require, the society to which the engagements are transferred, the District Land Registrar, on the request of the said society and on payment of the appropriate fee, and on being satisfied, by statutory declaration or otherwise, of the title of the said society, shall make such entries in the register and on any outstanding documents of title and generally do such things as may be necessary to give effect to that subsection.
 (6) The union or transfer of engagements shall not affect the rights of any creditor of the relevant society.
@@ -561,8 +560,8 @@ For the purposes of section 79 of the Property Law Act 1952, a memorandum of dis
 (4) If a society fails to comply with subsection (3) of this section, the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
 
 ### 73 Change of registered office
-(1) Where a society changes the situation of its registered office notice of the change shall be given to the Registrar by the society within 14 days after the date of the change; and on receipt of the notice the Registrar shall issue to the society a certificate of registration of the office.
-(2) On issuing such a certificate the Registrar shall give notice of the change to the appropriate District Registrar of Companies.
+(1) A society must send notice of a change to its registered office to the Registrar for registration within 14 days after the date of the change.
+(2)
 (3) It shall not be necessary to alter the rules of a society by reason only that its registered office is changed.
 (4) If a society fails to give notice to the Registrar in accordance with subsection (1) of this section, the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
 
@@ -668,8 +667,9 @@ Every society shall have at least 2 directors.
 (4) In this section, commission includes any gift, bonus, or benefit.
 
 ### 88 Notice of changes in holding of certain offices
-(1) Whenever a person becomes or ceases to be a director or the manager or secretary of a society, the society shall within one month thereafter give notice to the Registrar, in duplicate, stating the full name and address of that person, and particulars of the office that he has taken or relinquished.
-(2) The Registrar shall send one copy of the notice to the appropriate District Registrar of Companies.
+(1) If a person becomes, or ceases to be, a director or the manager or secretary of a society, the society must give notice of the change to the Registrar for registration within 1 month after the change.
+(1A) The notice must state the full name and address of the person and details of the office that he or she has taken or relinquished.
+(2)
 (3) If a society fails to comply with this section, the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
 
 **Office management**
@@ -755,7 +755,7 @@ Every society shall have at least 2 directors.
 (1) Except as provided in section 97B, a copy of the financial statements required by section 91 to be laid before a society at the annual general meeting, together with a copy of the auditor's report and of the directors' report, or a copy of the summary financial statements prepared under section 91A (if any) and of the directors' report, must, not less than 14 days before the date of the meeting,—
   (a) be sent to the members of the society; or
   (b) subject to the society's rules and to any conditions or requirements that may be prescribed, be published in major daily newspapers circulating generally in those parts of New Zealand where the members reside.
-(2) Except in the case of a society that is an issuer within the meaning of section 4 of the Financial Reporting Act 1993, 2 copies of the financial statements and reports referred to in subsection (1), each having been certified both by a director and the manager or secretary of the society to be a true copy, must be sent at the same time to the Registrar, who must then send 1 copy to the appropriate District Registrar of Companies.
+(2) The society (unless it is an issuer within the meaning of section 4 of the Financial Reporting Act 1993) must send to the Registrar for registration at the same time a copy of those financial statements and reports, certified by a director and the manager or secretary of the society as being a true copy.
 (3) The directors of a society that is an issuer within the meaning of section 4 of the Financial Reporting Act 1993 must attach to the financial statements to be delivered to the Registrar of Companies under that Act any financial statements required by section 91(1)(d).
 (4) Every depositor in or member of a society, including a depositor or member who has made an election under section 97B, is entitled, on demand and without charge, to be supplied a copy of the last financial statements required under section 91 and reports of the society required to be laid before that society at the annual general meeting.
 (5) However, subsection (4) does not apply if the depositor in or member of a society—
@@ -844,10 +844,10 @@ Every society shall have at least 2 directors.
 **Annual return**
 
 ### 103 Duty to make annual return
-(1) Every society shall, in the first 3 months of each financial year, make to the Registrar, in duplicate, a return relating to its affairs for the previous financial year:
+(1) Every society shall, in the first 3 months of each financial year, send to the Registrar for registration a return relating to its affairs for the previous financial year:
   Provided that a society need not make a return under this subsection in the financial year in which it is incorporated.
-(2) The annual return shall contain such information and be in such form as may be prescribed, and each copy sent to the Registrar shall be signed by 2 of the directors and by the manager or secretary of the society.
-(3) The Registrar shall send one such copy to the appropriate District Registrar of Companies.
+(2) The annual return shall contain such information and be in such form as may be prescribed, and must be signed by 2 of the directors and by the manager or secretary of the society.
+(3)
 (4) If a society fails to comply with any of the provisions of this section or of any regulations made for the purposes thereof, the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
 
 ### 104 Annual return to disclose advances to certain officers or companies
@@ -979,7 +979,7 @@ Subject to section 113 of this Act, every determination of a dispute by arbitrat
 (3) If an application has been made to the Court under section 113B of this Act, a copy of the special resolution, together with a sealed copy of the order of the Court confirming the approval of the scheme for conversion, and a copy of the scheme for conversion, shall be delivered to the Registrar by the later of the following:
   (a) Thirty days after the date the application is determined by the Court; or
   (b) If there is an appeal against that determination, 30 days after the date that appeal is finally determined.
-(4) The Registrar, on being satisfied that the requirements of section 113A of this Act have been complied with, shall retain and register the documents delivered in accordance with subsection (2) or subsection (3) of this section, as the case may be, and shall certify the registration under his or her hand or seal, which shall be conclusive evidence that the requirements of this section and section 113A of this Act have been complied with.
+(4) The Registrar, on being satisfied that the requirements of section 113A of this Act have been complied with, shall retain and register the documents delivered in accordance with subsection (2) or subsection (3) of this section, as the case may be, and shall certify the registration, which shall be conclusive evidence that the requirements of this section and section 113A of this Act have been complied with.
 (5) If a society makes default in delivering to the Registrar any document required by this section to be delivered to the Registrar, the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
 
 ### 113D Registrar of Companies to register society as company on receipt of certain documents
@@ -1145,8 +1145,8 @@ A society may be dissolved in the manner prescribed by its rules.
 ### 116 Provisions as to dissolution under last 2 preceding sections
 (1) The provisions of this section shall have effect in relation to the dissolution of a society under section 114 or section 115 of this Act.
 (2) The provisions of this Act shall continue to apply in relation to the society as if the liquidators or other persons conducting its dissolution, or, as the case may be, the trustees appointed under the instrument of dissolution, were the board of directors of the society.
-(3) Such liquidators, trustees, or other persons as aforesaid shall, within 28 days from the termination of the dissolution, send to the Registrar, in duplicate, an account and balance sheet signed and certified by them as correct, and showing the assets and liabilities of the society at the commencement of the dissolution and the way in which those assets and liabilities have been applied and discharged; and if they fail to do so each of them shall be guilty of an offence and shall be liable to a fine not exceeding $10 for every day during which the default has continued.
-(4) The Registrar shall send one copy of the account and balance sheet to the appropriate District Registrar of Companies.
+(3) Such liquidators, trustees, or other persons as aforesaid shall, within 28 days from the termination of the dissolution, send to the Registrar for registration an account and balance sheet signed and certified by them as correct, and showing the assets and liabilities of the society at the commencement of the dissolution and the way in which those assets and liabilities have been applied and discharged; and if they fail to do so each of them shall be guilty of an offence and shall be liable to a fine not exceeding $10 for every day during which the default has continued.
+(4)
 (5) Except with the consent of the Registrar—shall be of any effect if the purpose of the proposed dissolution is to effect or facilitate the transfer of the society's engagements to any other society.
   (a) No resolution, instrument of dissolution, or other proceeding for the dissolution of a society; and
   (b) No alteration of an instrument of dissolution—
@@ -1173,12 +1173,68 @@ A society may be dissolved in the manner prescribed by its rules.
 Where a society is being dissolved or is in liquidation, a member to whom an advance has been made under a mortgage or other security, or under the rules of the society, shall not be liable to pay the amount payable thereunder except at the time or times and subject to the conditions set out in the mortgage or other security, or in the rules, as the case may be.
 
 ### 120 Notice of dissolution or liquidation
-(1) Notice of the commencement and of the termination of the dissolution or liquidation of a society shall be sent, in duplicate, to the Registrar, and one copy shall be registered.
-(2) The Registrar shall send the remaining copy to the appropriate District Registrar of Companies.
+(1) Notice of the commencement and of the termination of the dissolution or liquidation of a society shall be sent to the Registrar for registration.
+(2)
 (3) If a society fails to send any such notice, the society, and every officer of the society who is in default, commits an offence against this Act.
 
 ### 121 Provision as to terminating societies
 In relation to a terminating society, the provisions of this Part of this Act shall have effect without prejudice to the termination of the society on the happening of any event on which the society is to terminate.
+
+## Part 8A — Register of building societies
+
+### 121A Register of building societies
+(1) The Registrar must ensure that a register of building societies is kept in New Zealand.
+(2) The register may be—
+  (a) an electronic register; or
+  (b) kept in any other manner that the Registrar thinks fit.
+(3) The Registrar must take all reasonable steps to ensure that the information contained in the register is available to members of the public at all reasonable times.
+
+### 121B Registration of documents
+(1) On receipt of a document for registration under this Act, the Registrar must (unless section 121C applies or he or she is not satisfied that any registration condition is met)—
+  (a) register the document in the register; and
+  (b) give written advice of the registration to the person from whom the document was received (except in the case of an annual turn or the financial statements and reports referred to in section 97A(1)).
+(2) Neither registration nor refusal of registration of a document by the Registrar affects, or creates a presumption as to, the validity or invalidity of the document or the correctness or otherwise of the information contained in it.
+(3) In this section, a registration condition for a document is a matter of which the Registrar must be satisfied under this Act before registering that document.
+
+### 121C Registrar may require document to be registrable or otherwise comply before registration
+(1) The Registrar may refuse to register a document received by the Registrar for registration under this Act if that document—
+  (a) is not in the prescribed form, if any; or
+  (b) does not comply with this Act or regulations made under this Act; or
+  (c) is not printed or typewritten; or
+  (d) if the register is an electronic register, is not in a form that enables particulars to be entered directly by electronic or other means in the register; or
+  (e) has not been properly completed; or
+  (f) contains material that is not clearly legible.
+(2) If the Registrar refuses to register a document in reliance on this section, the Registrar must request either—
+  (a) that the document be appropriately amended or completed and submitted for registration again; or
+  (b) that a fresh document be submitted in its place.
+
+### 121D When documents are registered
+A document is registered when—
+  (a) the document itself is constituted as part of the register; or
+  (b) particulars of the document are entered in an electronic register.
+
+### 121E Alterations to register
+The Registrar may make an amendment to the register if satisfied that it is necessary—
+  (a) to reflect any changes in the information that is contained in the register; or
+  (b) to correct an obvious error in or omission from the register.
+
+### 121F Inspection of register
+A person may, on payment of the prescribed fee (if any), inspect—
+  (a) any registered document; or
+  (b) particulars of a registered document entered into an electronic register.
+
+### 121G Obtaining certified copy or extract from register
+(1) A person may, on payment of the prescribed fee (if any), require the Registrar to give or certify—
+  (a) a certificate of incorporation of a building society; or
+  (b) a copy of or extract from a registered document; or
+  (c) any particulars of a registered document entered into an electronic register.
+(2) A process to compel the production of—must not issue from the Court without the leave of the Court and, if it does, it must have a statement attached to it that it is issued with the leave of the Court.
+  (a) a registered document; or
+  (b) evidence of the entry of particulars of a registered document in an electronic register—
+
+### 121H Certified copy or extract is evidence
+(1) A copy of or extract from a registered document that purports to be certified by the Registrar as a true copy or extract is admissible in evidence in legal proceedings to the same extent as the original document.
+(2) A certificate purporting to be signed by the Registrar as to the particulars of a registered document in an electronic register or any other matters in the register is conclusive evidence, in the absence of proof to the contrary, of the entry of those particulars or those other matters.
 
 ## Part 9 — Miscellaneous provisions
 
@@ -1195,7 +1251,7 @@ In relation to a terminating society, the provisions of this Part of this Act sh
 (3) Subsection (1) of this section shall apply also in relation to any registers, records, accounts, books, or papers of a person carrying on the business of banking so far as they relate to the society's affairs.
 (4) A person who has made an inspection under subsection (1) of this section shall give, divulge, or communicate any records or information that that person has acquired in the course of the inspection to such of the following persons as may require such records or information, namely:
   (a) The Registrar:
-  (b) The Deputy Registrar.
+  (b) a Deputy Registrar.
 (5) A person who has made an inspection under subsection (1) of this section shall, upon being directed to do so by a person for the time being holding the office of Registrar or Deputy Registrar, give, divulge, or communicate any records or information that that person has acquired in the course of the inspection to such of the following persons as that Registrar or Deputy Registrar specifies, namely:
   (a) The Minister:
   (b) The chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act:
@@ -1255,7 +1311,7 @@ In relation to a terminating society, the provisions of this Part of this Act sh
 (3) Where the registration of a society is suspended under this section, the period of suspension shall in the first instance be a period not exceeding 3 months, but may, with the approval of the Minister, be extended from time to time by not more than 3 months at a time.
 (4) Before cancelling or suspending the registration of a society under this section, the Registrar shall give to the society not less than 2 months' notice in writing, specifying briefly the grounds of the proposed cancellation or suspension.
 (5) The Registrar shall consider any representations with respect to the proposed cancellation or suspension that may be made to him by the society within the said period of 2 months or such further period as he may allow, and, if the society so requests, shall afford to it an opportunity of being heard by him within such period or further period as aforesaid.
-(6) The Registrar shall give public notice of any cancellation or suspension, or any extension of a suspension, under this section, and shall also notify the appropriate District Registrar of Companies.
+(6) The Registrar shall give public notice of any cancellation or suspension, or any extension of a suspension, under this section and must register the cancellation, suspension, or extension of a suspension.
 (7) Where under this section the registration of a society is cancelled, or is suspended for a period exceeding 6 months, the society may appeal to the High Court or a Judge thereof; and on any such appeal the Court or Judge, if it or he thinks fit just to do so, may set aside the cancellation or suspension.
 
 ### 125 Cancellation of registration at request of society
@@ -1278,9 +1334,9 @@ Without prejudice to section 124 of this Act, the Registrar may, if he thinks fi
 ### 128 Land acquired by exercise of powers as mortgagee to be sold
 [Repealed]
 
-### 129 Evidence of documents
-(1) Any document purporting to have been signed by the Registrar and to be a certificate of incorporation or registration or other document relating to a society shall be received in evidence in any Court and by any person acting judicially and shall, in the absence of any evidence to the contrary, be deemed to have been signed by the Registrar.
-(2) A copy of or extract from any document kept at the office of any District Registrar of Companies pursuant to this Act, certified to be a true copy under the hand and seal of that District Registrar or an Assistant Registrar (whose official position and signature it shall not be necessary to prove), shall in all legal proceedings be admissible in evidence as of equal validity with the original document.
+### 129 Evidence of rules
+(1)
+(2)
 (3) Any printed document purporting to be a copy of the rules of a society, and certified by the secretary or other officer of the society to be a true copy of its rules as registered, shall be received in evidence and shall, in the absence of any evidence to the contrary, be deemed to be a true copy of the rules.
 
 ### 130 Form in which records may be kept
@@ -1317,18 +1373,20 @@ Part 2 of Schedule 1 to the Summary Proceedings Act 1957 is hereby amended in th
 Every society or person who commits an offence against this Act, or against any regulations made under this Act, for which no penalty is provided elsewhere than in this section is liable to a fine not exceeding $1,000.
 
 ### 137 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) Prescribing the forms of, and the particulars to be included in, applications, notices, certificates, returns, reports, or other documents made or issued under or for the purposes of this Act:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+  (a) Prescribing the forms of, and the particulars to be included in, applications, notices, certificates, returns, reports, or other documents made or issued under or for the purposes of this Act (and those regulations may require the inclusion in, or attachment to, forms of specified information or documents and forms to be signed by specified persons), and prescribing requirements, not inconsistent with this Act, with which those documents must comply:
   (aa) Prescribing the financial statements to be prepared by a society, and prescribing the forms of, and the information and particulars to be included in, such financial statements:
   (ab) Prescribing the manner in which any financial statements required under section 92 of this Act are to be published or distributed:
   (ac) Prescribing requirements for the auditing of any financial statements required under section 92 of this Act, and conferring on the auditors such powers, including the power of inspection of documents and records, as may be necessary or desirable for the purposes of auditing those statements:
   (b) Prescribing the procedure to be followed in respect of applications to and proceedings before the Registrar:
-  (c) Prescribing fees to be paid to the Registrar in respect of the registration of rules, alterations in rules, and other documents and matters under this Act, the issue of certificates and other documents, and the exercise by the Registrar of any of his functions under this Act:
+  (c) Prescribing fees to be paid to the Registrar in respect of the registration of rules, alterations in rules, and other documents and matters under this Act, the issue of certificates and other documents, search or inspection of the register, and the exercise by the Registrar of any of his functions under this Act:
   (ca) Regulating bonus ballots and bonus balloting shares:
   (d) Prescribing the procedure for the institution, hearing, and determination of appeals under this Act:
   (e) Providing for the keeping of records by the Registrar for the purposes of this Act:
   (f) Providing the procedure for the giving or service of notices and documents under this Act:
   (g) Providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration thereof.
+(2) The Registrar may refuse to perform a function or exercise a power until the prescribed fee is paid.
+(3) Any fee payable to the Registrar is recoverable by the Registrar in any court of competent jurisdiction as a debt due to the Crown.
 
 ### 138 Filing of rules of existing societies with District Registrars of Companies
 (1) It shall be the duty of the Registrar, as soon as practicable after the date of the commencement of this Act, to send a copy of the rules of every society existing at that date to the District Registrar of Companies whose office is nearest to the registered office of the society, or to such other District Registrar of Companies as may be approved for the purpose after consultation with the society.
@@ -1341,7 +1399,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
 (3) The amendments specified in this subsection have been incorporated in the reprint of s 15 of the National Expenditure Adjustment Amendment Act 1932.
 (4) The amendment specified in this subsection has been incorporated in the reprint of s 4(1) of the Trustee Act 1956.
 (5) Every reference in any enactment or document to the Registrar of Building Societies under the Building Societies Act 1908, or to any District Registrar or Assistant Registrar of Building Societies under that Act shall hereafter, unless the context otherwise requires, be read as a reference to the Registrar of Building Societies under this Act.
-(6) Every reference in any enactment or document to the Deputy Registrar of Building Societies under the Building Societies Act 1908 shall hereafter, unless the context otherwise requires, be read as a reference to the Deputy Registrar of Building Societies under this Act.
+(6) Every reference in any enactment or document to the Deputy Registrar of Building Societies under the Building Societies Act 1908 shall hereafter, unless the context otherwise requires, be read as a reference to a Deputy Registrar of Building Societies under this Act.
 (7) For the purposes and without limiting the operation of the Acts Interpretation Act 1924, a resolution passed before the commencement of this Act in accordance with any of the provisions of the Building Societies Act 1908 shall be treated as a resolution that could have been passed under the corresponding provisions of this Act if it would have fallen to be so treated if passed after the commencement of this Act as a special resolution.
 (8)
 (9)
@@ -1389,3 +1447,12 @@ Until the end of the relevant period of 5 years, and so long as the society is n
 ## Schedule 6 — Enactments repealed
 
 ## Schedule 7
+
+### 1 Title
+This Act is the Building Societies Amendment Act 2007.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+### 9 Transitional provision for register
+All documents registered under the principal Act and sent to the appropriate District Registrar of Companies before the amendments in this Act come into force form part of the register under section 121A of the principal Act as inserted by this Act.
