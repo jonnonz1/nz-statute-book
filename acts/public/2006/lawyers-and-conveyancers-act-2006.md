@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -1737,7 +1737,7 @@ A Standards Committee that receives a report from an investigator may, in its di
 ### 152 Power of Standards Committee to determine complaint or matter
 (1) A Standards Committee may,—make 1 or more of the determinations described in subsection (2).
   (a) after both inquiring into a complaint and conducting a hearing with regard to that complaint; or
-  (b) after both inquiring into a matter under section 130(1)(c) and conducting a hearing with regard to that matter,—
+  (b) after both inquiring into a matter under section 130(c) and conducting a hearing with regard to that matter,—
 (2) The determinations that the Standards Committee may make are as follows:
   (a) a determination that the complaint or matter, or any issue involved in the complaint or matter, be considered by the Disciplinary Tribunal:
   (b) a determination that there has been unsatisfactory conduct on the part of—
