@@ -1,5 +1,5 @@
 # Care of Children Act 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 ### 1 Title
 This Act is the Care of Children Act 2004.
@@ -811,11 +811,11 @@ The following sections of the Family Proceedings Act 1980 apply, with the follow
   (f) if he or she is a person (not being a member of the police or a Social Worker) authorised by the warrant to take possession of the child, must produce evidence that he or she is the person so authorised.
 
 ### 76 Authority to use faxed copy of warrant
-(1) If a warrant is issued under section 72 or section 73 or section 77, an authority (as defined in section 77(1)) may authorise the use of a faxed copy of the warrant for the purpose of executing the warrant, on an application made by—
+(1) An authority (as defined in section 77(1)) may authorise the use, for the purpose of executing the warrant, of a faxed copy of a warrant issued under section 72 or 73 or 77.
+(2) However, no authorisation may be granted under subsection (1) in relation to a warrant unless the authority is satisfied, having regard to the circumstances of the case, that any delay in executing the warrant that may be caused if a faxed copy is not able to be used for that purpose would or might unduly prejudice the purpose for which the warrant was issued.
+(3) An authority may exercise the power conferred by subsection (1) either on or after issuing the warrant, and either on its own initiative or on an application for the purpose made to it by—
   (a) a party to the proceedings for the issue of the warrant; or
   (b) a person who is authorised to execute the warrant.
-(2) However, no authorisation may be granted under subsection (1) in relation to a warrant unless the authority is satisfied, having regard to the circumstances of the case, that any delay in executing the warrant that may be caused if a faxed copy is not able to be used for that purpose would or might unduly prejudice the purpose for which the warrant was issued.
-(3) The power conferred by subsection (1) may be exercised either on or after issuing the warrant.
 (4) If an authority grants an authorisation under subsection (1) in relation to a warrant, the authority must first write on the front of the warrant, and then sign, a note that states—
   (a) the fact that a faxed copy of the warrant may be used for the purposes of executing the warrant; and
   (b) the date and time at which the authorisation expires, which must be the close of the third day after the day on which the authorisation is granted.
@@ -1080,7 +1080,7 @@ Subject to Articles 39 and 40 of the Convention, for the purposes of this subpar
   (b) is satisfied that the child has been taken out of New Zealand to another country.
 
 ### 106 Grounds for refusal of order for return of child
-(1) If an application under section 105(1) is made to a Court in relation to the removal of a child from a Contracting State to New Zealand, the Court may refuse to make an order under section 104(2) for the return of the child if any person who opposes the making of the order establishes to the satisfaction of the Court—
+(1) If an application under section 105(1) is made to a Court in relation to the removal of a child from a Contracting State to New Zealand, the Court may refuse to make an order under section 105(2) for the return of the child if any person who opposes the making of the order establishes to the satisfaction of the Court—
   (a) that the application was made more than 1 year after the removal of the child, and the child is now settled in his or her new environment; or
   (b) that the person by whom or on whose behalf the application is made—
     (i) was not actually exercising custody rights in respect of the child at the time of the removal, unless that person establishes to the satisfaction of the Court that those custody rights would have been exercised if the child had not been removed; or
@@ -1088,7 +1088,7 @@ Subject to Articles 39 and 40 of the Convention, for the purposes of this subpar
   (c) that there is a grave risk that the child's return—
     (i) would expose the child to physical or psychological harm; or
     (ii) would otherwise place the child in an intolerable situation; or
-  (d) that the child objects to being returned and has attained an age and degree of maturity at which it is appropriate to give weight to the child's views; or
+  (d) that the child objects to being returned and has attained an age and degree of maturity at which it is appropriate, in addition to taking them into account in accordance with section 6(2)(b), also to give weight to the child's views; or
   (e) that the return of the child is not permitted by the fundamental principles of New Zealand law relating to the protection of human rights and fundamental freedoms.
 (2) In determining whether subsection (1)(e) applies in respect of an application made under section 105(1) in respect of a child, the Court may consider, among other things,—
   (a) whether the return of the child would be inconsistent with any rights that the child, or any other person, has under the law of New Zealand relating to political refugees or political asylum:
