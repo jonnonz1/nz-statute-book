@@ -1,5 +1,5 @@
 # Corporations (Investigation and Management) Act 1989
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to enable the Registrar of Companies to determine whether corporations are at risk, to enable action to be taken in relation to such corporations in appropriate cases, and to repeal the Companies Special Investigations Act 1958
 
@@ -446,11 +446,12 @@ Where all or any part of any liability of a corporation is included in the sale 
 (4) Nothing in this section shall restrict the operation of the Companies Act 1955 or the Companies Act 1993.
 
 ### 55 Application of certain provisions of Companies Act 1993
-(1) Sections 292 to 301, 310G, 310I, and 312 of the Companies Act 1993 shall apply to a corporation that is subject to statutory management under this Act in all respects, and with such modifications as may be necessary, as if—
+(1) Sections 275, 292 to 301, 310G, 310I, and 312 of the Companies Act 1993 shall apply to a corporation that is subject to statutory management under this Act in all respects, and with such modifications as may be necessary, as if—
   (a) The corporation was a company in liquidation under that Act; and
   (b) The statutory manager of the corporation was the liquidator of the company; and
   (c) The date on which, and the time at which, the corporation became subject to statutory management was the date on which, and the time at which, the liquidation commenced.
 (2) Nothing in section 263 of the Companies Act 1993 shall apply to a corporation by reason of the application of section 312 of that Act.
+(3) To avoid doubt, the reference in section 275(4) of the Companies Act 1993 to clause 1(a) of Schedule 7 of the Companies Act 1993 must be read as a reference to section 65(1) of this Act.
 
 **Miscellaneous**
 
