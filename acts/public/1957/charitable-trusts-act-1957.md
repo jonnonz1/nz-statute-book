@@ -1,5 +1,5 @@
 # Charitable Trusts Act 1957
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to charitable trusts
 
@@ -62,7 +62,7 @@ For the purposes of sections 7 and 8 of this Act, an application shall be deemed
   (c) The application is authorised by the rules of the society or by any other means provided in those rules.
 
 ### 10 Applications for incorporation
-(1) Each subscriber to an application for incorporation shall add to his signature his description and address. The signature of each subscriber shall be attested by a witness who is not a subscriber, and the witness shall add to his signature his description and address. When any body corporate is a subscriber its seal shall be affixed to the application.
+(1) Each subscriber to an application for incorporation must add the subscriber's name and address to the subscriber's signature.
 (2) Every application for incorporation under this Part of this Act shall be accompanied by—
   (a) A copy (certified by one of the subscribers to the application as a correct copy) of the relevant parts of all wills, declarations of trust, and other documents (if any) showing the general purposes of the trustees or society making the application and the trusts on which the applicant or applicants hold any property that is vested in the applicant or applicants as such and is not held for the general purposes of the applicant or applicants:
   (b) A statutory declaration made by one of the subscribers to the application setting forth any trusts on which the applicant or applicants hold any property, being trusts not set out in any document or copy of a document accompanying the application:
