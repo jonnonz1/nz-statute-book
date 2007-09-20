@@ -1,5 +1,5 @@
 # Family Courts Act 1980
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to establish Family Courts as divisions of District Courts, and to provide for the constitution, jurisdiction, powers, and procedures of Family Courts
 
@@ -72,6 +72,7 @@ Every District Court shall have a division, to be known as the Family Court.
   (ga) The Children, Young Persons, and Their Families Act 1989:
   (gb) The Law Reform (Testamentary Promises) Act 1949:
   (gc) The Family Protection Act 1955:
+  (gd) the Civil Union Act 2004:
   (h) Any other enactment for the time being in force.
 (1A)
 (2) Subject to subsection (3) of this section, any jurisdiction or power conferred on a Family Court under or by virtue of any enactment shall be exercised by a Family Court Judge.
