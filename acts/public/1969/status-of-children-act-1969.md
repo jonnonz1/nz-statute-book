@@ -1,5 +1,5 @@
 # Status of Children Act 1969
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Status of Children Act 1969.
@@ -175,7 +175,7 @@ The purpose of this Part is to—
 
 ### 14 Interpretation
 (1) In this Part, unless the context otherwise requires,—
-  - **AHR procedure** has the meaning given to it by section 14A
+  - **AHR procedure** has the meaning given to it by section 15
   - **de facto partner**
   - **partner** ,—
     (a) in relation to a woman who is married or in a civil union and to whom paragraph (b) does not apply, means the woman's husband or civil union partner; and
