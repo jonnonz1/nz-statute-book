@@ -1,7 +1,7 @@
 # Defence Act 1990
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
-> An Act—aTo continue to authorise the raising and maintaining of armed forces for certain purposes; andbTo constitute the New Zealand Defence Force, comprising—iThe Armed Forces under the command of the Chief of Defence Force; andiiThe Civil Staff under the control of the Chief of Defence Force; andcTo reaffirm that the Armed Forces are under Ministerial authority; anddTo define the respective roles and relationships of the Minister of Defence, the Secretary of Defence, and the Chief of Defence Force; andeTo redefine the relationship of the Chief of Defence Force to the Chiefs of Staff; andfTo make provision generally in respect of the establishment, control, and activities of the New Zealand Defence Force, and related matters
+> An Act—aTo continue to authorise the raising and maintaining of armed forces for certain purposes; andbTo constitute the New Zealand Defence Force, comprising—iThe Armed Forces under the command of the Chief of Defence Force; andiiThe Civil Staff under the control of the Chief of Defence Force; andcTo reaffirm that the Armed Forces are under Ministerial authority; anddTo define the respective roles and relationships of the Minister of Defence, the Secretary of Defence, and the Chief of Defence Force; andeTo redefine the relationship of the Chief of Defence Force to the Chiefs of Service; andfTo make provision generally in respect of the establishment, control, and activities of the New Zealand Defence Force, and related matters
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Defence Act 1990.
@@ -134,7 +134,7 @@ For the purposes of the general responsibility of the Minister in relation to th
 (2) The Chief of Defence Force shall hold such rank as the Governor-General in Council may determine.
 (3) The Chief of Defence Force shall—
   (a) command the Navy through the Chief of Navy, the Army through the Chief of Army, and the Air Force through the Chief of Air Force: and
-  (b) command any joint force either directly through the joint force commander or through the Chief of Staff of any Service.
+  (b) command any joint force either directly through the joint force commander or through the Chief of any Service.
 
 ### 9 Use of Armed Forces to provide public service or assist civil power
 (1) Subject to the succeeding provisions of this section, the Armed Forces may be used in New Zealand or elsewhere—
@@ -203,9 +203,9 @@ For the purposes of the general responsibility of the Minister in relation to th
 ### 12 Joint forces
 (1) The Chief of Defence Force may from time to time establish a joint force comprising members of 2 or more Services, and—
   (a) Appoint an officer of one of the Services to command that force; or
-  (b) Place that force under the command of the Chief of Staff of any Service.
+  (b) Place that force under the command of the Chief of any Service.
 (2) Where a joint force is established under this section, this Act and the Armed Forces Discipline Act 1971 shall apply to any member of the Armed Forces serving in the joint force, subject to the following modifications:
-  (a) Anything required or authorised by or under this Act or the Armed Forces Discipline Act 1971 to be done by, to, or before the Chief of Staff of the Service to which the member belongs or is attached, may be done by, to, or before the Chief of Defence Force or, where the Chief of Defence Force has placed the joint force under the command of a Chief of Staff, that Chief of Staff:
+  (a) Anything required or authorised by or under this Act or the Armed Forces Discipline Act 1971 to be done by, to, or before the Chief of the Service to which the member belongs or is attached, may be done by, to, or before the Chief of Defence Force or, where the Chief of Defence Force has placed the joint force under the command of a Chief of Service, that Chief of Service:
   (b) Such other necessary modifications as may be prescribed.
 
 ### 13 Members of regular forces
@@ -260,7 +260,7 @@ A member of the Armed Forces belonging to one Service may be attached to either 
 
 ### 20 Modification of Acts for members of one Service attached or deemed attached to another Service
 Where a member of one Service is attached by virtue of section 18, or is deemed to be attached by virtue of section 19, of this Act to another Service, this Act and the Armed Forces Discipline Act 1971 shall apply to that member subject to the following modifications:
-  (a) Anything required or authorised by this Act or the Armed Forces Discipline Act 1971 to be done by, to, or before the Chief of Staff of the Service to which that member belongs may, in respect of any such member, be done by, to, or before the Chief of Staff of the Service to which that member is attached:
+  (a) Anything required or authorised by this Act or the Armed Forces Discipline Act 1971 to be done by, to, or before the Chief of the Service to which that member belongs may, in respect of any such member, be done by, to, or before the Chief of the Service to which that member is attached:
   (b) Any member shall, in the Service to which that member is attached, have the same powers and be treated as if he or she were a member of that Service holding an equivalent rank:
   (c) Such other necessary modifications as may be prescribed.
 
@@ -301,7 +301,7 @@ A member of one Service may, with that member's written consent, be transferred 
   (b) have over members of the New Zealand force the powers of command of a member of the Armed Forces of a relative rank.
 (2) For the purpose of subsection (1), a New Zealand force and a force of another State are serving together only if they are declared to be so serving together by order of the Chief of Defence Force.
 
-## Part 3 — Secretary of Defence, Chief of Defence Force, and Chiefs of Staff
+## Part 3 — Secretary of Defence, Chief of Defence Force, and Chiefs of Service
 
 ### 24 Secretary of Defence
 (1) The chief executive of the Ministry of Defence shall be known as the Secretary of Defence.
@@ -350,7 +350,7 @@ A member of one Service may, with that member's written consent, be transferred 
 (4) Subject to subsection (5) of this section, every order issued under this section shall come into force on such date as may be specified in the order, being the date of the order or any other date after the date on which it was issued.
 (5) Any order issued under this section relating to terms and conditions of service of members of the Armed Forces and conferring benefits on any such members may have effect from a date before the date of the issue of the order.
 
-### 28 Chiefs of Staff
+### 28 Chiefs of Service
 (1) The Governor-General in Council may from time to time appoint any officer of the Royal New Zealand Navy to be Chief of Navy, who shall hold such rank as the Governor-General in Council may determine, and who shall—
   (a) Under the Chief of Defence Force, command the Navy; and
   (b) Be responsible for advising the Minister, through the Chief of Defence Force, on any matter relating to the Navy; and
@@ -363,12 +363,12 @@ A member of one Service may, with that member's written consent, be transferred 
   (a) Under the Chief of Defence Force, command the Air Force; and
   (b) Be responsible for advising the Minister, through the Chief of Defence Force, on any matter relating to the Air Force; and
   (c) Be responsible to the Chief of Defence Force for the implementation of policies, plans, and programmes prescribed or approved in accordance with this Act in relation to the Air Force.
-(4) Where the Chief of Defence Force places a joint force under the command of a Chief of Staff pursuant to section 12(1)(b) of this Act, that Chief of Staff shall, under the Chief of the Defence Force, command that force through the joint force commander; and nothing in subsections (1) to (3) of this section shall authorise a Chief of Staff to exercise command over a joint force, or any part of a joint force, unless the Chief of the Defence Force has placed that joint force under the command of that Chief of Staff.
-(5) The Chief of Defence Force shall give to each Chief of Staff written terms of reference (not being inconsistent with any of the provisions of this Act) setting out the terms and conditions of appointment as Chief of Navy or Chief of Army or Chief of Air Force, as the case may be; and it shall be the duty of each Chief of Staff to perform the functions and to exercise the powers of that appointment in accordance with those terms of reference.
-(6) In the exercise of command, and in the exercise of the functions imposed by or under this Act or any other enactment, each Chief of Staff may, after notifying the Chief of Defence Force in that behalf, make such representations as the Chief of Staff considers necessary or desirable to the Minister.
+(4) Where the Chief of Defence Force places a joint force under the command of a Chief of Service pursuant to section 12(1)(b) of this Act, that Chief of Service shall, under the Chief of the Defence Force, command that force through the joint force commander; and nothing in subsections (1) to (3) of this section shall authorise a Chief of Service to exercise command over a joint force, or any part of a joint force, unless the Chief of the Defence Force has placed that joint force under the command of that Chief of Service.
+(5) The Chief of Defence Force shall give to each Chief of Service written terms of reference (not being inconsistent with any of the provisions of this Act) setting out the terms and conditions of appointment as Chief of Navy or Chief of Army or Chief of Air Force, as the case may be; and it shall be the duty of each Chief of Service to perform the functions and to exercise the powers of that appointment in accordance with those terms of reference.
+(6) In the exercise of command, and in the exercise of the functions imposed by or under this Act or any other enactment, each Chief of Service may, after notifying the Chief of Defence Force in that behalf, make such representations as the Chief of Service considers necessary or desirable to the Minister.
 
-### 29 Chiefs of Staff Committee
-(1) There shall continue to be a committee known as the Chiefs of Staff Committee, which shall consist of the following permanent members:
+### 29 Chiefs of Service Committee
+(1) There shall continue to be a committee known as the Chiefs of Service Committee, which shall consist of the following permanent members:
   (a) The Chief of Defence Force:
   (b) the Chief of Navy:
   (c) the Chief of Army:
@@ -377,13 +377,13 @@ A member of one Service may, with that member's written consent, be transferred 
 (3) The Chief of Defence Force shall be the convener of the committee, and shall preside at its meetings. In the absence of the Chief of Defence Force from any meeting of the committee, the Chief of Defence Force shall appoint one of the permanent members to preside at the meeting.
 (4) The committee may from time to time appoint any officer of the Armed Forces or any other person employed in the service of the Crown to be an associate member of the committee. Any such appointment may at any time be revoked by resolution of the permanent members of the committee.
 (5) An associate member of the committee shall, subject to subsection (4) of this section, be entitled to participate in the proceedings of the committee in like manner as if he or she were a permanent member.
-(6) Where a meeting of the Chiefs of Staff Committee has been held, and the members of the Committee have held differing opinions on any matter, a Chief of Staff may request that the various opinions be conveyed to the Minister; in which case the Chief of Defence Force shall convey the opinions to the Minister with such advice as the Chief of Defence Force considers appropriate.
+(6) Where a meeting of the Chiefs of Service Committee has been held, and the members of the Committee have held differing opinions on any matter, a Chief of Service may request that the various opinions be conveyed to the Minister; in which case the Chief of Defence Force shall convey the opinions to the Minister with such advice as the Chief of Defence Force considers appropriate.
 (7) Subject to the provisions of this Act, the committee may regulate its procedure in such manner as it thinks fit.
 
 ### 30 Delegation of functions, duties, and powers
 (1) The Minister may, from time to time, by writing under the Minister's hand, either generally or particularly, delegate to the Chief of Defence Force any of the Minister's functions, duties, or powers, including functions, duties, or powers delegated to the Minister under this Act or any other enactment.
 (2) The Chief of Defence Force may, from time to time, by writing under his or her hand, either generally or particularly, delegate to any member of the Defence Force, any of the functions, duties, and powers of the Chief of Defence Force, including any functions, duties, and powers delegated to the Chief of Defence Force by the Minister.
-(3) Any Chief of Staff may, from time to time, by writing under his or her hand, either generally or particularly, delegate to any member of the Defence Force any of the functions, duties, or powers of the Chief of Staff, including functions, duties, and powers delegated to the Chief of Staff by the Chief of Defence Force.
+(3) Any Chief of Service may, from time to time, by writing under his or her hand, either generally or particularly, delegate to any member of the Defence Force any of the functions, duties, or powers of the Chief of Service, including functions, duties, and powers delegated to the Chief of Service by the Chief of Defence Force.
 (4) Notwithstanding any of the preceding provisions of this section, no function, duty, or power delegated to any person under this section shall be subdelegated by that person if such subdelegation was prohibited by the delegating authority.
 (5) A delegation under this section may be made to a person referred to by name, or to the holder of a specified appointment, or to members of a specified class.
 (6) Subject to any general or special directions given or conditions attached by the delegating authority, the person to whom any functions, duties, or powers have been delegated may exercise those functions, duties, or powers in the same manner and to the same extent as if they had been directly conferred on that person by this Act and not by delegation.
@@ -603,7 +603,7 @@ Notwithstanding subsection (3) of section 52 of this Act, but without limiting s
 Notwithstanding subsection (3) of section 52 of this Act, but without limiting section 53 or section 54 of this Act, if a member of the regular forces who is serving overseas, or who is under less than 3 months' notice to serve overseas, gives notice under section 52 of this Act, that member's period of service shall not be deemed to have been completed until he or she has completed that overseas duty.
 
 ### 56 Discretion to relax requirements
-Notwithstanding sections 53 to 55 of this Act, the Chief of Defence Force, or a Chief of Staff authorised for the purpose by the Chief of Defence Force, may at any time, either generally or in any particular case, waive in whole or in part the period of service that would otherwise be required of any member of the regular forces by virtue of any of those sections.
+Notwithstanding sections 53 to 55 of this Act, the Chief of Defence Force, or a Chief of Service authorised for the purpose by the Chief of Defence Force, may at any time, either generally or in any particular case, waive in whole or in part the period of service that would otherwise be required of any member of the regular forces by virtue of any of those sections.
 
 ### 57 Notice while subject to disciplinary proceedings, etc
 (1) For the purposes of this section,—
@@ -635,15 +635,15 @@ Notwithstanding sections 53 to 55 of this Act, the Chief of Defence Force, or a 
 (2) The Chief of Defence Force may from time to time establish, or authorise the establishment of, such funds under such names as the Chief of Defence Force thinks fit for—
   (a) The benefit of members of the Armed Forces or discharged members of the Armed Forces generally or of members of the Armed Forces or discharged members of the Armed Forces of 2 or more Services, or of the dependants of members of the Armed Forces or discharged or deceased members of the Armed Forces, or the benefit of visiting members of the Armed Forces; and
   (b) Any other object of any kind that the Chief of Defence Force considers beneficial to the Armed Forces or to members of the Armed Forces.
-(3) The Chief of Navy may from time to time establish, or authorise the establishment of, such funds under such names as that Chief of Staff thinks fit for—
+(3) The Chief of Navy may from time to time establish, or authorise the establishment of, such funds under such names as the Chief of Navy thinks fit for—
   (a) The benefit of any naval ship or naval establishment, or of members or discharged members of the Navy generally or members or discharged members of any part of the Navy, or of the dependants of any such members or discharged or deceased members; and
-  (b) Any other object of any kind that that Chief of Staff considers will be beneficial to the Navy or to members of the Navy.
-(4) The Chief of Army may from time to time establish, or authorise the establishment of, such funds under such names as that Chief of Staff thinks fit for—
+  (b) Any other object of any kind that the Chief of Navy considers will be beneficial to the Navy or to members of the Navy.
+(4) The Chief of Army may from time to time establish, or authorise the establishment of, such funds under such names as the Chief of Army thinks fit for—
   (a) The benefit of any army camp or unit of the Army, or of members or discharged members of the Army generally or members or discharged members of any part of the Army, or of the dependants of any such members or discharged or deceased members; and
-  (b) Any other object of any kind that that Chief of Staff considers will be beneficial to the Army or to members of the Army.
-(5) The Chief of Air Force may from time to time establish, or authorise the establishment of, such funds under such names as that Chief of Staff thinks fit for—
+  (b) Any other object of any kind that the Chief of Army considers will be beneficial to the Army or to members of the Army.
+(5) The Chief of Air Force may from time to time establish, or authorise the establishment of, such funds under such names as the Chief of Air Force thinks fit for—
   (a) The benefit of any Air Force base or unit of the Air Force, or of members or discharged members of the Air Force generally or members or discharged members of any part of the Air Force, or of the dependants of any such members or discharged or deceased members; and
-  (b) Any other object of any kind that that Chief of Staff considers will be beneficial to the Air Force or to members of the Air Force.
+  (b) Any other object of any kind that the Chief of Air Force considers will be beneficial to the Air Force or to members of the Air Force.
 (6) Without limiting the provisions of subsections (2) to (5) of this section, money forming part of any fund established under this section may from time to time, with the prior consent of the appropriate service authority, be spent on the acquisition of any land (whether Crown land or otherwise) to be held for any of the objects of the fund. Notwithstanding anything in any enactment or rule of law, any land so acquired may be vested in and held in the name of Her Majesty the Queen for the purposes of this section.
 (7) Any land so acquired may, with the prior consent of the appropriate service authority, be disposed of for valuable consideration, and on any such disposal, the land shall cease to be subject to this section. The proceeds of any such disposition shall be held for the purposes of the fund from which the money for the acquisition of the land was expended.
 (8) All documents required to be executed for the purposes of subsection (6) or subsection (7) of this section by or on behalf of the Crown may be executed by the Chief of Defence Force.
