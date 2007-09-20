@@ -1,5 +1,5 @@
 # Civil Union Act 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 ### 1 Title
 This Act is the Civil Union Act 2004.
@@ -175,7 +175,7 @@ The purpose of section 18 is to allow couples who are married or in a civil unio
 
 **Certificate of no impediment**
 
-### 25 Registrar may issue certificate of no impediment
+### 25 Registrar-General may issue certificate of no impediment
 (1) A person who wishes to enter into a civil union outside New Zealand in accordance with the law of another country or jurisdiction may apply to the Registrar-General, in a form that complies with any relevant regulations, for a certificate of no impediment.
 (2) Every application must be accompanied by the prescribed fee.
 (3) On receipt of an application, the Registrar-General must make whatever searches and inquiries he or she considers appropriate.
