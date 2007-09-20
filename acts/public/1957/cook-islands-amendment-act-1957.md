@@ -1,5 +1,5 @@
 # Cook Islands Amendment Act 1957
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to amend the Cook Islands Act 1915
 
@@ -10,9 +10,7 @@ _Consolidation as at 2007-09-03_
 ## Part 1 — The Government of the Cook Islands
 
 ### 2 Interpretation
-In this Part of this Act, unless the context otherwise requires,—
-  - **The Cook Islands** means all the islands and territories situate within the boundary lines specified in Schedule 1 to the principal Act; but does not include the Island of Niue
-  - **Cook Islands Public Service** has the meaning assigned thereto by section 76 of this ActReferences to a Minister are references to a Minister of the Government of the Cook Islands.
+[Repealed]
 
 **The Executive Government of the Cook Islands**
 
@@ -58,10 +56,7 @@ In this Part of this Act, unless the context otherwise requires,—
 [Repealed]
 
 ### 16 Loans to Cook Islands Government Account
-(1) The Minister of Finance may from time to time, under the authority of and in accordance with an authorising Order in Council, pay by way of loan into the Cook Islands Government Account money required for public purposes in the Cook Islands.
-(2) The money required by the Minister of Finance to enable him to make any such payment by way of loan shall be paid out of money appropriated by Parliament for the purpose.
-(3) Every such authorising Order in Council shall specify the purpose and amount of the loan, the rate of interest payable, and the terms of repayment, and may provide for the establishment and maintenance by the Treasurer of the Cook Islands of a sinking fund sufficient to pay off the loan within the period within which the loan is to be repaid.
-(4) All money payable out of the Cook Islands Government Account in pursuance of this section shall be a first charge on that Account after the payment of such salaries and allowances of the Cook Islands Public Service as are payable from that Account.
+[Repealed]
 
 ### 17
 [Repealed]
@@ -73,9 +68,7 @@ In this Part of this Act, unless the context otherwise requires,—
 [Repealed]
 
 ### 20 Traders' deposit accounts
-(1) Notwithstanding anything in this Part of this Act, the Secretary of the Premier's Department may accept money on deposit from any trader established in the Cook Islands.
-(2) Where the Secretary of the Premier's Department holds any money on deposit for a trader under this section, the Secretary of the Premier's Department may disburse the money by paying the whole or any part thereof to the trader or by applying the whole or any part thereof, with the authority of the trader, in discharge of any liability of the trader to the Crown, and the Secretary of the Premier's Department shall not disburse any money so held in any other manner.
-(3) All money which the Secretary of the Premier's Department accepts on deposit for any trader as aforesaid, and all disbursements of that money, shall be recorded in a special deposit account in the Cook Islands Government Account, and shall not form part of the ordinary revenue or expenditure of the Cook Islands Government Account.
+[Repealed]
 
 ### 21
 [Repealed]
@@ -83,31 +76,19 @@ In this Part of this Act, unless the context otherwise requires,—
 **Public health**
 
 ### 22 Chief Medical Officer of the Cook Islands
-(1) There shall be appointed under the provisions of Part 3 of this Act a Chief Medical Officer of the Cook Islands.
-(2) The Chief Medical Officer of the Cook Islands shall be charged, subject to the control of the Minister in Charge of the Ministry of Health, with the administration in the Cook Islands of all laws relating to public health, quarantine, insanity, hospitals, and medical aid.
+[Repealed]
 
 ### 23 Qualification of Medical Officers
-(1) No person shall be qualified for appointment as a Medical Officer or to practise medicine or surgery in the Cook Islands, unless—
-  (a) He is duly registered in New Zealand as a medical practitioner under the Medical Practitioners Act 1968; or
-  (b) He is registered in accordance with the Acts regulating the registration of medical practitioners in any other country that is a member of the Commonwealth or in the Republic of Ireland; or
-  (c) He is the holder of a certificate issued under the hand of the Secretary to the Medical Council of New Zealand to the effect that, in the opinion of that Council, he has attained a standard of practice in medicine and surgery equivalent to the standard required for registration in New Zealand as a medical practitioner under the Medical Practitioners Act 1968:
-  Provided that, notwithstanding anything in the foregoing provisions of this subsection, a graduate of the Central Medical School at Suva, Fiji, may practise medicine and surgery in the Cook Islands as an employee of the Cook Islands Public Service subject to the general control of the Chief Medical Officer of the Cook Islands, or in such other circumstances and subject to such conditions as may be prescribed by Ordinance, and not otherwise.
-(2) Every one commits an offence and shall be liable to a fine not exceeding $20 for every day on which the offence continues who, not being qualified or entitled to practise medicine or surgery as provided in subsection (1) of this section, practises medicine or surgery or any branch of medicine or surgery, under the style or title of a physician, surgeon, doctor, licentiate in medicine or surgery, bachelor of medicine, or medical practitioner, or under any name, title, addition, or description implying that he holds any diploma or degree in medicine or surgery or in any branch of medicine or surgery, or is otherwise specially qualified to practise medicine or surgery or any branch of medicine or surgery.
+[Repealed]
 
 ### 24 Duties of Chief Medical Officer of the Cook Islands
-(1) It shall be the duty of the Chief Medical Officer of the Cook Islands to provide for all persons in the Cook Islands such medical aid and attendance as may be reasonably required and is reasonably practicable.
-(2) Medical and surgical aid and attendance provided by the Chief Medical Officer shall, in the case of Natives, be gratuitous and shall, in the case of all other persons, be subject to the payment of such fees (if any) as may be prescribed by the Minister in charge of the Ministry of Health; and all fees so prescribed shall form part of the public revenues of the Cook Islands .
-(3) No liability shall be incurred by the Crown in respect of any neglect to provide any such medical or surgical aid or attendance, or in respect of any negligence or wrongful act or omission of a Medical Officer or of a graduate of the Central Medical School at Suva, Fiji, who is duly authorised to practise medicine and surgery in the Cook Islands.
+[Repealed]
 
 ### 25 Hospitals and other institutions of public health
-The Minister in charge of the Ministry of Health may establish and maintain in the Cook Islands such hospitals and other institutions as he may deem necessary for the public health, and all institutions so established shall be under the control of the Chief Medical Officer of the Cook Islands.
+[Repealed]
 
 ### 26 Compulsory transfer of lepers
-(1) Every person who at any time is found in the Cook Islands to be suffering from leprosy may, by Warrant under the hand of the High Commissioner and the Seal of the Cook Islands, be transferred to another place within the Cook Islands or to Fiji for treatment in the leper hospital maintained by the Government of Fiji in the Island of Makogai, as may be directed in the Warrant.
-(2) In pursuance of any such Warrant every person named therein in that behalf may be placed on board any ship belonging to Her Majesty in right of New Zealand or any ship registered in New Zealand or, with the consent of the master, any other ship, to be taken to the place directed in the Warrant.
-(3) Every person transferred to Fiji pursuant to this section shall be delivered, together with the Warrant of the High Commissioner, to the Superintendent or other person having charge of the aforesaid leper hospital.
-(4) No person transferred pursuant to this section shall be entitled to be returned to the place in the Cook Islands from which he was transferred, except on the certificate of a medical officer, who is either an employee of the Cook Islands Public Service or an officer of the aforesaic leper hospital.
-(5) All expenses incurred in connection with the transfer of a person who is suffering from leprosy or with the return of any person as aforesaid shall be a charge on the public revenues of the Cook Islands .
+[Repealed]
 
 **Prisons and police**
 
@@ -190,19 +171,10 @@ The Minister in charge of the Ministry of Health may establish and maintain in t
 **Miscellaneous**
 
 ### 51 Island Councils
-(1) The constitution, membership, functions, and powers of an Island Council established in any island of the Cook Islands pursuant to any enactment (whether established before the commencement of this subsection by Ordinance or established after the commencement of this subsection by Act of Legislative Assembly) shall be as prescribed from time to time by enactment.
-(2) Any bylaw of an Island Council made pursuant to powers so conferred which is in any respect repugnant to the provisions of any enactment (not being a bylaw) in force in the Cook Islands (whether made before or after the bylaw) shall be read subject to that enactment, and shall, to the extent of that repugnancy and not otherwise, be and remain absolutely void and inoperative:
-  Provided that, except to the extent to which it is repugnant to any such enactment, no bylaw and no provision of any bylaw shall be deemed to be repugnant for the purposes of this subsection solely on the ground that it deals with a matter already dealt with by any such enactment or is repugnant to the law of England as established in the Cook Islands by section 615 of the principal Act.
-(3) No bylaw made by an Island Council shall become law until it has been assented to by the High Commissioner, who, in relation to any such bylaw presented to him for his assent, shall have the same powers as are conferred on the High Commissioner by Article 44 of the Constitution in relation to Bills passed by the Legislative Assembly, and the provisions of that Article and of Article 45 of the Constitution, as far as they are applicable and with the necessary modifications, shall apply as if references in those Articles to a Bill or to an Act were references to a bylaw, and as if references in Article 44 to the Legislative Assembly were references to an Island Council.
-(4)
-(5) All Island Ordinances made by the Island Council for any island under section 70 of the principal Act and in force at the commencement of this Part of this Act shall enure for the purposes of this Part of this Act and the principal Act and its amendments as if they were bylaws made by the Island Council for that island constituted under this section, and accordingly shall, where necessary, be deemed to have been so made.
-(6) The Legislative Assembly may, by Ordinance, revoke any bylaw, whether made before or after the commencement of this subsection.
+[Repealed]
 
 ### 52 High Commissioner may assent to Island Council bylaws by telegram
-(1) Any bylaw made by an Island Council may be presented to the High Commissioner for his assent by transmitting to him by telegram a true copy thereof.
-(1A) The High Commissioner may, by telegram to the Resident Agent, exercise in relation to any bylaw made by an Island Council any of the powers conferred on the High Commissioner by Article 44 of the Constitution, as applied by section 51 of this Act.
-(2) Where under subsection (1A) of this section the High Commissioner has assented to a bylaw by telegram, the bylaw shall have effect as if it had been duly assented to in the manner provided in Article 44 of the Constitution as so applied, but as soon as practicable the bylaw shall be presented to the High Commissioner for his assent, and he shall assent thereto in the manner provided in that Article.
-(3) In this section the term telegram has the same meaning as in section 146 of the Post and Telegraph Act 1928.
+[Repealed]
 
 ### 53
 [Repealed]
@@ -304,8 +276,7 @@ In this Part of this Act, unless the context otherwise requires,—
 [Repealed]
 
 ### 83 Payment of salary and allowances
-(1) Subject to the provisions of any enactment in that behalf for the time being in force, employees of the Cook Islands Public Service shall receive such pay and allowances as the Secretary of the Premier's Department thinks fit.
-(2) The pay and allowances of employees of the Cook Islands Public Service shall be paid from the Cook Islands Government Account out of money appropriated by the Legislative Assembly of the Cook Islands.
+[Repealed]
 
 ### 83A
 [Repealed]
