@@ -1,5 +1,5 @@
 # Children, Young Persons, and Their Families Act 1989
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to reform the law relating to children and young persons who are in need of care or protection or who offend against the law and, in particular,—aTo advance the wellbeing of families and the wellbeing of children and young persons as members of families, whanau, hapu, iwi, and family groups:bTo make provision for families, whanau, hapu, iwi, and family groups to receive assistance in caring for their children and young persons:cTo make provision for matters relating to children and young persons who are in need of care or protection or who have offended against the law to be resolved, wherever possible, by their own family, whanau, hapu, iwi, or family group:deTo repeal the Children and Young Persons Act 1974
 
@@ -4017,11 +4017,9 @@ Every Social Worker, member of the Police, or other person executing any warrant
 
 ### 445B Authority to use facsimile copy of warrant
 (1) In this section, the term facsimile copy, in relation to a warrant, means a copy of the warrant that is produced by a facsimile machine, computer, or other electronic device when the warrant is sent by facsimile transmission.
-(2) Subject to subsection (3) of this section, where a warrant is issued under section 39 or section 40 or section 122 or section 157(2) or section 205(2)(b) or section 386 of this Act, any District Court Judge, Justice, Community Magistrate, or Registrar (not being a member of the Police) may,—
-  (a) At the time of issuing the warrant, on the application of the person applying for the warrant; or
-  (b) At any subsequent time, on the ex parte application of—authorise the use of a facsimile copy of the warrant for the purpose of executing the warrant.
-    (i) The person who applied for the warrant; or
-    (ii) Any person who is authorised to execute the warrant,—
+(2) Any District Court Judge, Justice, Community Magistrate, or Registrar (not being a member of the police) may authorise the use of a facsimile copy of a warrant issued under section 39, 40, 122, 157(2), 205(2)(b), or 386 in the execution of that warrant.
+(2A) The use of a facsimile copy of a warrant may be authorised when the warrant is issued, or later.
+(2B) Subsection (2) is subject to subsection (3).
 (3) No authorisation may be granted under subsection (2) of this section in relation to a warrant unless the District Court Judge, Justice, Community Magistrate, or Registrar is satisfied, having regard to the circumstances of the case, that any delay in executing the warrant that may be caused if a facsimile copy is not able to be used for that purpose would or might unduly prejudice the purpose for which the warrant was issued.
 (4) Where a District Court Judge, Justice, Community Magistrate, or Registrar grants an authorisation under subsection (2) of this section in relation to a warrant, the Judge, Justice, Community Magistrate, or Registrar, as the case may be, shall endorse on the face of the warrant—and shall sign that endorsement.
   (a) The fact that a facsimile copy of the warrant may be used for the purpose of executing the warrant; and
