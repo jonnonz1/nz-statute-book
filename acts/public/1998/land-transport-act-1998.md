@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act—aTo promote safe road user behaviour and vehicle safety; andbTo provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcTo consolidate and amend various enactments relating to road safety and land transport; anddTo enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -531,7 +531,7 @@ Despite section 28(1)(g) and (4), the date of issue of a driver licence continue
 (2) A passenger endorsement is deemed to be expired and of no effect if held by a person who has been convicted of a specified serious offence on, before, or after the commencement of this section.
 (3) Despite subsection (1), a person may hold a passenger endorsement if—
   (a) the person has not, with respect to a conviction for a specified serious offence, been sentenced to imprisonment for a term exceeding 12 months; and
-  (b) the Director is, having regard to the criteria in section 29B(2)(a), satisfied that allowing the person to hold a passenger endorsement would not—
+  (b) the Director is, having regard to the criteria in section 29B(2)(b), satisfied that allowing the person to hold a passenger endorsement would not—
     (i) be contrary to the public interest; and
     (ii) pose an undue risk to public safety or security.
 (4) For the purposes of this section,—
@@ -591,7 +591,8 @@ Despite section 28(1)(g) and (4), the date of issue of a driver licence continue
   (a) The licence is suspended or revoked under any Act; or
   (b) The suspension or revocation applies to any endorsement or class specified in the licence but not to the whole licence.
 (3) If the holder of a driver licence is disqualified by order of a court from holding or obtaining a driver licence, the holder must (whether or not a demand is made on him or her) immediately surrender the licence to the court where the order was made or to a member of the Police or at any office of the Authority.
-(4) A person who receives a driver licence under subsection (3) must immediately forward it to the Director.
+(3A) If an enforcement officer has suspended a person's driver licence in accordance with section 90(2), the person must immediately surrender his or her licence to the officer.
+(4) A person who receives a driver licence under subsection (3), (3A), or (4A)(b) or (c) must immediately forward it to the Director.
 (4A) The holder of a driver licence must, if that licence is superseded by another driver licence, surrender that driver licence to—
   (a) the Director; or
   (b) a person appointed by the Director; or
