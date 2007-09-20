@@ -1,5 +1,5 @@
 # Radiocommunications Act 1989
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to provide for the management of the radio frequency spectrum
 
@@ -72,7 +72,7 @@ This Act may be cited as the Radiocommunications Act 1989.
   - **Register** —
     (a) when used as a noun, means the Register of Radio Frequencies established under section 5:
     (b) when used as a verb, means to record on the Register:
-  - **Registrar** means the Registrar of Radio Frequencies appointed under section 4; and includes the Deputy Registrar of Radio Frequencies appointed under that section
+  - **Registrar** means the Registrar of Radio Frequencies appointed under section 4; and includes a Deputy Registrar of Radio Frequencies appointed under that section
   - **rightholder** —
     (a) means the holder for the time being of a spectrum licence; and
     (b) includes a mortgagee who, in right of a mortgage of a spectrum licence, is entitled to enjoy or exercise the rights of the rightholder
@@ -94,12 +94,13 @@ This Act binds the Crown.
 
 ## Part 1 — Administration
 
-### 4 Appointment of Registrar and Deputy Registrar
-(1) There shall be—both of whom shall be appointed under the State Sector Act 1988 by the Secretary.
-  (a) A Registrar of Radio Frequencies; and
-  (b) A Deputy Registrar of Radio Frequencies,—
-(2) Subject to the control of the Registrar, the Deputy Registrar shall have and may exercise or perform all the powers, duties, and functions of the Registrar.
-(3) The fact that the Deputy Registrar exercises or performs any of the powers, duties, or functions of the Registrar shall be conclusive evidence of the Deputy Registrar's authority to do so.
+### 4 Appointment of Registrar and Deputy Registrars
+(1) There must be—
+  (a) a Registrar of Radio Frequencies; and
+  (b) 1 or more Deputy Registrars of Radio Frequencies.
+(2) Each Registrar and Deputy Registrar must be appointed under the State Sector Act 1988 by the Secretary.
+(3) Subject to the control of the Registrar, a Deputy Registrar has and may exercise or perform all the powers, duties, and functions of the Registrar.
+(4) The fact that a Deputy Registrar exercises or performs any of the powers, duties, or functions of the Registrar is conclusive evidence of the Deputy Registrar's authority to do so.
 
 ### 5 Register of Radio Frequencies
 The Registrar must establish and maintain a Register for the purpose of maintaining records of interests or uses relating to radio frequencies.
