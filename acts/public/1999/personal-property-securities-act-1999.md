@@ -1,5 +1,5 @@
 # Personal Property Securities Act 1999
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to reform the law relating to security interests in personal property and, in particular,—aTo provide for the creation and enforceability of security interests in personal property; andbTo provide for the determination of priority between security interests in the same personal property; andcTo provide for the determination of priority between security interests and other types of interests in the same personal property; anddTo provide for the enforcement of security interests in personal property other than consumer goods; andeTo provide for the establishment of a register of security interests in personal property
 
@@ -1101,9 +1101,13 @@ The Registrar may refuse access to the register or otherwise suspend the operati
 
 ### 140 Contents of register
 The register contains the following data:
-  (a) The name and address of the debtor and, if the debtor is an individual, the debtor's date of birth, or, if the debtor is an organisation, the name of the organisation and the name and address of the person acting on its behalf:
+  (a) if the debtor is an individual, the debtor's name, address, and date of birth or, if the debtor is an organisation,—
+    (i) the name and address of the organisation; and
+    (ii) the name or job title, and contact details, of the person acting on its behalf:
   (b) If the debtor is an organisation that is incorporated, the unique number assigned to it on its incorporation:
-  (c) The name and address of the secured party or, if the secured party is an organisation, the name of the organisation and the name and address of the person acting on its behalf:
+  (c) if the secured party is an individual, the secured party's name and address or, if the secured party is an organisation,—
+    (i) the name and address of the organisation; and
+    (ii) the name or job title, and contact details, of the person acting on its behalf:
   (d) A description of the collateral, including its serial number if required by this Act or by the regulations:
   (e) The date of prior registration, if prior registration law (as defined in section 193) applies in respect of the security interest:
   (f) Any other data specified in the regulations.
@@ -1115,10 +1119,14 @@ A person may register a financing statement in accordance with this Act and the 
 
 ### 142 Data required to register financing statement
 (1) The following data must be contained in the financing statement in order to register it:
-  (a) The name and address of the debtor or, if the debtor is an organisation, the name of the organisation and the name and address of the person acting on its behalf:
-  (b) The debtor's date of birth (if the debtor is an individual):
+  (a) if the debtor is an individual, the debtor's name, address, and date of birth or, if the debtor is an organisation,—
+    (i) the name and address of the organisation; and
+    (ii) the name or job title, and contact details, of the person acting on its behalf:
+  (b)
   (c) If the debtor is an organisation that is incorporated, the unique number assigned to it on its incorporation:
-  (d) The name and address of the secured party or, if the secured party is an organisation, the name of the organisation and the name and address of the person acting on its behalf:
+  (d) if the secured party is an individual, the secured party's name and address or, if the secured party is an organisation,—
+    (i) the name and address of the organisation; and
+    (ii) the name or job title, and contact details, of the person acting on its behalf:
   (e) A description of the collateral, including its serial number if required by this Act or by the regulations:
   (f) The date of prior registration, if prior registration law (as defined in section 193) applies in respect of the security interest:
   (g) Any other data required by this Act or the regulations to be contained in the financing statement.
@@ -1281,7 +1289,7 @@ A person may search the register, and obtain a printed search result, in accorda
 ### 172 Search criteria
 The register may be searched only by reference to the following criteria:
   (a) The name of the debtor:
-  (b) The name and address of the debtor (including, if the debtor is an organisation, the name of the organisation and the name and address of the person acting on its behalf):
+  (b) the name and address of the debtor or, if the debtor is an organisation, the name and address of the organisation and the name or job title, and contact details, of the person acting on its behalf:
   (c) The name and date of birth of the debtor:
   (d) If the debtor is a company, the unique number assigned to the company by the Registrar of Companies on the registration of the company under the Companies Act 1993:
   (e) If collateral is required by this Act or by the regulations to be described by serial number in a financing statement, the serial number of the collateral:
@@ -1306,7 +1314,8 @@ A search of the register may be carried out only by the following persons for th
   (i) The holder of a lien or charge, or a creditor, for a purpose that relates to the enforcement of the lien, charge, or creditor's rights, as the case may be:
   (j) A bailiff of the High Court of New Zealand or of any other court for a purpose that relates to the enforcement of a court order or warrant:
   (k) Any news medium for the purpose of verifying or establishing, in relation to a particular record, a fact that relates to its news activities:
-  (l) A person for the purpose of advising another person in connection with any of the purposes referred to in paragraphs (a) to (k).
+  (ka) the Registrar for a purpose that relates to any of the functions, duties, and powers exercisable by the Registrar in relation to this Act:
+  (l) A person for the purpose of advising another person in connection with any of the purposes referred to in paragraphs (a) to (ka).
 
 ### 174 When search constitutes interference with privacy of individual
 A search of the register for personal information that has not been carried out in accordance with sections 171 to 173 constitutes an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
