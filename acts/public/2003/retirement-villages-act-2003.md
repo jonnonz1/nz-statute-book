@@ -1,5 +1,5 @@
 # Retirement Villages Act 2003
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 ### 1 Title
 This Act is the Retirement Villages Act 2003.
