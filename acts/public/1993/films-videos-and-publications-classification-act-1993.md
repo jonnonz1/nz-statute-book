@@ -1,5 +1,5 @@
 # Films, Videos, and Publications Classification Act 1993
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to consolidate and amend the law relating to the censoring of films, videos, books, and other publications; and to repeal the Indecent Publications Act 1963, the Films Act 1983, and the Video Recordings Act 1987
 
@@ -604,7 +604,7 @@ The deadline referred to in section 48(1)(b) is,—
 (1) Every review under this Part of this Act shall be conducted as soon as practicable.
 (2) Every review under this Part of this Act shall be by way of re-examination of the publication by the Board without regard to the decision of the Classification Office.
 (3) The Board shall examine any publication submitted to it under section 47 of this Act to determine the classification of the publication.
-(4) In determining the classification of any publication, the Board shall take into account the matters referred to in section 3 of this Act.
+(4) In determining the classification of any publication, the Board shall take into account the matters referred to in sections 3 to 3D.
 
 ### 53 Procedure
 (1) Except as provided in subsections (2) to (4) of this section or in section 54 of this Act, neither the applicant for review nor any other person shall have the right to appear before, or to be heard by, or to make submissions to, the Board in respect of any review.
