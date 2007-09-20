@@ -1,5 +1,5 @@
 # Human Rights Act 1993
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to consolidate and amend the Race Relations Act 1971 and the Human Rights Commission Act 1977 and to provide better protection of human rights in New Zealand in general accordance with United Nations Covenants or Conventions on Human Rights.
 
@@ -1556,8 +1556,8 @@ No prosecution for an offence against section 131 of this Act shall be institute
 ### 135 No prosecution without Attorney-General's consent
 No prosecution for an offence against section 134 of this Act shall be instituted without the consent of the Attorney-General.
 
-### 136 Condition in restraint of marriage
-A condition, whether oral or contained in a deed, will, or other instrument, which restrains or has the effect of restraining marriage shall be void if the person or class of person whom the person subject to the condition may or may not marry is identified or defined, expressly or by implication, by reference to the colour, race, or ethnic or national origins of the person or class of person.
+### 136 Condition in restraint of marriage, civil union, or de facto relationship
+A condition, whether oral or contained in a deed, will, or other instrument, which restrains or has the effect of restraining a person from marrying or entering into a civil union or de facto relationship shall be void if the person or class of person whom the person subject to the condition may or may not marry or enter into a civil union or de facto relationship with is identified or defined, expressly or by implication, by reference to the colour, race, or ethnic or national origins of the person or class of person.
 
 ### 137 Advisors to be officials
 (1) Every person engaged by the Commission in connection with its work is an official for the purposes of sections 105 and 105A of the Crimes Act 1961.
