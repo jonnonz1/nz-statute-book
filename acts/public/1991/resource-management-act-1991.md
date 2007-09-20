@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -4746,7 +4746,7 @@ The Environment Court shall consist of the following members:
 **Environment Commissioners and Deputy Environment Commissioners**
 
 ### 253 Eligibility for appointment as Environment Commissioner or Deputy Environment Commissioner
-When considering whether a person is suitable to be appointed as an Environment Commissioner or Deputy Environment Commissioner of the Environment Court, the Minister of Justice shall have regard to the need to ensure that the Court possesses a mix of knowledge and experience in matters coming before the Court, including knowledge and experience in—
+When considering whether a person is suitable to be appointed as an Environment Commissioner or Deputy Environment Commissioner of the Environment Court, the Attorney-General shall have regard to the need to ensure that the Court possesses a mix of knowledge and experience in matters coming before the Court, including knowledge and experience in—
   (a) Economic, commercial, and business affairs, local government, and community affairs:
   (b) Planning, resource management, and heritage protection:
   (c) Environmental science, including the physical and social sciences:
