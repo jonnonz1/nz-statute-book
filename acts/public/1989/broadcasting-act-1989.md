@@ -1,5 +1,5 @@
 # Broadcasting Act 1989
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 > An Act—aTo provide for the maintenance of programme standards in broadcasting in New Zealand; andbTo establish the Broadcasting Standards Authority and to define its functions and powers; andcTo establish the Broadcasting Commission and to define its functions and powers; anddTo enable political parties to broadcast election programmes for Parliamentary elections free of charge; andefTo repeal the Broadcasting Act 1976; andgTo provide for matters incidental thereto
 
@@ -47,7 +47,7 @@ _Consolidation as at 2007-09-03_
   - **Series** —
     (a) Means two or more related sequential programmes; but
     (b) Does not include any news or current affairs programme:
-  - **Total operating revenue** means total operating revenue as defined in Approved Financial Reporting Standard No 9
+  - **total revenue** means all income classified as revenue by the applicable financial reporting standard approved under section 24 of the Financial Reporting Act 1993.
   - **Working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     (b) A day in the period commencing with the 25th day of December in any year and ending with the 15th day of January in the following year.
@@ -325,23 +325,23 @@ Except in any proceedings for perjury within the meaning of the Crimes Act 1961 
 (4) Every person commits an offence and is liable on summary conviction to a fine not exceeding $5,000 who fails to comply with any rules made under this section.
 (5) Rules made under this section shall be deemed to be regulations for the purposes of the Regulations Act 1936.
 
-### 30A Return on total operating revenue
-(1) Every broadcaster shall, not later than the 31st day of July in each year, give to the Authority a return, for the broadcaster's immediately preceding financial year, of the total operating revenue derived by that broadcaster in that financial year from broadcasting within New Zealand.
+### 30A Return on total revenue
+(1) Every broadcaster shall, not later than the 31st day of July in each year, give to the Authority a return, for the broadcaster's immediately preceding financial year, of the total revenue derived by that broadcaster in that financial year from broadcasting within New Zealand.
 (2) The return—
   (a) Shall be in such form and contain such particulars as the Authority may require; and
-  (b) Shall be accompanied by a certificate signed by an auditor and stating whether or not, in that auditor's opinion, the return represents a true and fair statement of the total operating revenue derived by the broadcaster in the financial year of the broadcaster to which the return relates from broadcasting within New Zealand.
-(3) Notwithstanding subsection (2) of this section, a broadcaster may in any year satisfy the requirements of subsection (1) of this section by giving to the Authority, not later than the 31st day of July in that year, a copy of the broadcaster's financial statement for the financial year of the broadcaster to which the return relates, being a financial statement that contains a statement of the broadcaster's total operating revenue for that financial year.
-(4) Where a broadcaster gives to the Authority in accordance with subsection (3) of this section the broadcaster's financial statement for any financial year, the broadcaster's total operating revenue for that financial year, as stated in that financial statement, will, for the purposes of subsection (1) of this section, be deemed to be the total operating revenue derived by that broadcaster in that financial year from broadcasting within New Zealand.
+  (b) Shall be accompanied by a certificate signed by an auditor and stating whether or not, in that auditor's opinion, the return represents a true and fair statement of the total revenue derived by the broadcaster in the financial year of the broadcaster to which the return relates from broadcasting within New Zealand.
+(3) Notwithstanding subsection (2) of this section, a broadcaster may in any year satisfy the requirements of subsection (1) of this section by giving to the Authority, not later than the 31st day of July in that year, a copy of the broadcaster's financial statement for the financial year of the broadcaster to which the return relates, being a financial statement that contains a statement of the broadcaster's total revenue for that financial year.
+(4) Where a broadcaster gives to the Authority in accordance with subsection (3) of this section the broadcaster's financial statement for any financial year, the broadcaster's total revenue for that financial year, as stated in that financial statement, will, for the purposes of subsection (1) of this section, be deemed to be the total revenue derived by that broadcaster in that financial year from broadcasting within New Zealand.
 
 ### 30B Payment of annual levy
-(1) Where a return given to the Authority under section 30A of this Act by a broadcaster shows that, in the financial year of the broadcaster to which the return relates, the broadcaster had a total operating revenue of more than $500,000, that return shall be accompanied by an annual levy calculated in accordance with section 30C of this Act.
+(1) Where a return given to the Authority under section 30A of this Act by a broadcaster shows that, in the financial year of the broadcaster to which the return relates, the broadcaster had a total revenue of more than $500,000, that return shall be accompanied by an annual levy calculated in accordance with section 30C of this Act.
 (2) The annual levy shall be payable in respect of each financial year of the broadcaster during which programmes are broadcast within New Zealand by the broadcaster.
 (3) Where a broadcaster commences broadcasting within New Zealand during the financial year of the broadcaster to which the return under section 30A of this Act relates, no annual levy shall be payable by the broadcaster in respect of that financial year.
 (4) The annual levy payable under subsection (1) of this section shall be payable by the broadcaster not later than the 31st day of July of the year in which the return is required to be given to the Authority.
 
 ### 30C Annual levy
 The amount of the annual levy payable under section 30B of this Act by a broadcaster shall be an amount ascertained in accordance with the following formula:a × bwhere—
-  (a) is the broadcaster's total operating revenue for the financial year of the broadcaster to which the return under section 30A of this Act relates; and
+  (a) is the broadcaster's total revenue for the financial year of the broadcaster to which the return under section 30A of this Act relates; and
   (b) is .00051.
 
 ### 30D Rebates
