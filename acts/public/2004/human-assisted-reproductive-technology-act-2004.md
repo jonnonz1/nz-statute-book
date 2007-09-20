@@ -1,5 +1,5 @@
 # Human Assisted Reproductive Technology Act 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 ### 1 Title
 This Act is the Human Assisted Reproductive Technology Act 2004.
@@ -155,7 +155,7 @@ This Act binds the Crown.
 
 ### 14 Status of surrogacy arrangements and prohibition of commercial surrogacy arrangements
 (1) A surrogacy arrangement is not of itself illegal, but is not enforceable by or against any person.
-(2) Subsection (1) does not affect the Status of Children Amendment Act 1987.
+(2) Subsection (1) does not affect the Human Assisted Reproductive Technology Amendment Act 2007 Part 2 of the Status of Children Act 1969.
 (3) Every person commits an offence who gives or receives, or agrees to give or receive, valuable consideration for his or her participation, or for any other person's participation, or for arranging any other person's participation, in a surrogacy arrangement.
 (4) Subsection (3) does not apply to a payment—
   (a) to the provider concerned for any reasonable and necessary expenses incurred for any of the following purposes:
@@ -658,6 +658,7 @@ A provider or the Registrar-General must not disclose any information about a do
     (iii) the donor's children (if any); and
     (iv) the donor's siblings (if any):
   (j) the name of the provider who received any donated embryo or donated cell from the donor:
+  (ja) the donor's reasons for donating:
   (k) any number or other symbol used by the provider to identify the donor, if known.
 (3) The following persons may give to the Registrar-General, on a form provided by the Registrar-General for the purpose, the information specified in subsection (4):
   (a) a donor offspring who is 18 years or older and to whom this section applies:
