@@ -1,5 +1,5 @@
 # Legal Services Act 2000
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-20_
 
 ### 1 Title
 This Act is the Legal Services Act 2000.
@@ -142,7 +142,7 @@ Legal aid may be granted in respect of the following criminal matters:
   (c) petitions for inquiry under the Local Electoral Act 2001:
   (d) proceedings incidental to any proceedings mentioned in any of paragraphs (a) to (c) of this subsection:
   (e) proceedings under section 37 of the Family Proceedings Act 1980 (which relates to dissolutions of marriage), or appeals in proceedings under that section:
-  (f) any appeal to the Residence Appeal Board under section 18C of the Immigration Act 1987:
+  (f) any appeal to the Residence Review Board under section 18C of the Immigration Act 1987:
   (g) any appeal to the Removal Review Authority under Part 2 of the Immigration Act 1987:
   (h) proceedings before a Commission of Inquiry under the Commissions of Inquiry Act 1908 (other than a Commission of Inquiry established or appointed by or under another enactment but deemed to be a Commission of Inquiry under the Commissions of Inquiry Act 1908).
 
@@ -201,7 +201,7 @@ Legal aid may be granted in respect of the following criminal matters:
 ### 10 Other situations where legal aid refused or limited: civil matters
 (1) Subject to subsection (2), the Agency may not grant legal aid in respect of proceedings involving a decision or matter under the Immigration Act 1987 to a person who—
   (a) is unlawfully in New Zealand in terms of the Immigration Act 1987; or
-  (b) is lawfully in New Zealand only by virtue of being the holder of a temporary permit or a limited purposes permit; or
+  (b) is lawfully in New Zealand only by virtue of being the holder of a temporary permit or a limited purpose permit; or
   (c) is not in New Zealand and—
     (i) is not a New Zealand citizen; or
     (ii) does not hold a current returning resident's visa under section 14C of the Immigration Act 1987.
