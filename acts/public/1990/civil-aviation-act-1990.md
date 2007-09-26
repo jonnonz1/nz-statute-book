@@ -1,5 +1,5 @@
 # Civil Aviation Act 1990
-_Consolidation as at 2007-09-14_
+_Consolidation as at 2007-09-26_
 
 > An Act—aTo establish rules of operation and divisions of responsibility within the New Zealand civil aviation system in order to promote aviation safety; andbTo ensure that New Zealand's obligations under international aviation agreements are implemented; andcTo consolidate and amend the law relating to civil aviation in New Zealand
 
@@ -114,12 +114,14 @@ In this Act, unless the context otherwise requires,—
   - **Security area** means an area that the Director has declared to be a security area under section 84 of this Act
   - **Security designated aerodrome** means an aerodrome for the time being designated as a security aerodrome under section 82 of this Act
   - **Security designated navigation installation** means a navigation installation for the time being designated as a security navigation installation under section 82 of this Act.
+  - **security enhanced area** means an area that the Director has declared to be a security enhanced area under section 84(1A)
   - **Service charter** means a service charter prepared and made available to the public under section 72G of this Act.
   - **specified examination** means—
     (a) an examination of visual and colour perception; or
     (b) an examination of hearing; or
     (c) a psychological examination; or
     (d) any other class of examination prescribed in the rules
+  - **sterile area** means the area at an aerodrome, between the passenger inspection and screening station and the aircraft, into which access is strictly controlled
   - **unruly passenger offence** —
     (a) means an offence against Part 5A; and
     (b) includes an offence to which section 65C applies.
@@ -1367,6 +1369,12 @@ Every person who, without reasonable excuse, acts in contravention of or fails t
   (b) In the case of a body corporate, to a fine not exceeding $100,000.
 (3) Where the commission of an offence against subsection (1) of this section causes financial loss to any person and where the Court imposes a fine under subsection (2) of this section in respect of that offence, the Court may order that such part of the fine as it thinks fit, but in any event not more than one-half of the fine, be awarded to that person.
 
+### 56A Security check offences
+(1) Every person commits an offence who, in relation to a security check of that person,—
+  (a) provides information that the person knows is false or misleading in a material particular; or
+  (b) fails to disclose, without reasonable excuse, information that the person knows to be materially relevant.
+(2) Every person who commits an offence under subsection (1) is liable to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000.
+
 **Infringement offences**
 
 ### 57 Infringement offences
@@ -1909,6 +1917,70 @@ The Minister shall ensure that aviation security services are provided at all se
 (1) A direction requiring the screening of domestic aircraft passenger services made by the Director before 1 June 2002 continues in force until 1 September 2002, on which date it expires; however, the Director may rescind the direction before 1 September 2002.
 (2) A person carrying out the screening of domestic aircraft passenger services under a direction to do so made before 1 June 2002 (or a search in accordance with such a direction) is entitled to continue to carry out that screening (or search) until 1 September 2002, on which date the entitlement expires.
 
+### 77F Powers and duties of Director relating to security checks
+(1) The Director may carry out a security check of a person who falls within a category of persons specified in the rules as requiring a security check if—
+  (a) the security check is for the purpose of determining whether the person poses a threat to aviation security; and
+  (b) the person consents.
+(2) If a person refuses consent to a security check under subsection (1), the person may not be granted any authorisation under the rules if the rules require a favourable security check determination.
+(3) The Director may grant a favourable security check determination if the Director decides that the person has undergone an alternative security check that is acceptable to the Director.
+(4) For the purpose of determining whether a person poses a threat to aviation security, the Director may—
+  (a) seek and receive any information that the Director considers relevant, including (but not limited to) a recommendation made by the New Zealand Security Intelligence Service under section 4(1)(bb) of the New Zealand Security Intelligence Service Act 1969; and
+  (b) give weight to any component of the information as the Director considers appropriate in the circumstances.
+(5) If the Director determines that a person does not pose a threat to aviation security, the Director must advise the person of the favourable security check determination.
+(6) The Director may reconsider any previous security check determination that the Director has made if—
+  (a) new information is made available; or
+  (b) the Director has reason to believe that the person may pose a threat to aviation security.
+(7) If the Director proposes to reconsider any previous security check determination, the Director must—
+  (a) advise the person to whom the security check determination relates that the Director is reconsidering that determination; and
+  (b) complete the reconsideration of that determination within 20 working days of advising the person under paragraph (a); and
+  (c) if the reconsideration results in an adverse security check determination or a proposed adverse security check determination, initiate the review process set out in section 77G; and
+  (d) if a favourable security check determination is required for any previous authorisation granted to the person under the rules, withdraw that authorisation for—
+    (i) the period of the reconsideration; and
+    (ii) any subsequent review period under section 77G; and
+  (e) if a favourable security check determination is required for any previous authorisation granted to the person by any other entity, require that entity to withdraw the authorisation for—
+    (i) the period of the reconsideration; and
+    (ii) any subsequent review period under section 77G.
+(8) Nothing in this section limits the power of the Director to grant an exemption under section 37.
+
+### 77G Review procedures for security check determinations
+(1) If the Director makes an adverse security check determination with respect to a New Zealand person based on a recommendation made by the New Zealand Security Intelligence Service under section 4(1)(bb) of the New Zealand Security Intelligence Service Act 1969, the Director must advise the New Zealand person that the person may lodge a complaint regarding the recommendation with the Inspector-General of Intelligence and Security in accordance with sections 11 and 16 of the Inspector-General of Intelligence and Security Act 1996.
+(2) If the Director proposes to make an adverse security check determination with respect to a person based on information other than a recommendation made by the New Zealand Security Intelligence Service, the Director must—
+  (a) advise the person of the proposed determination and the reasons for the proposed determination; and
+  (b) give the person written notice that, within 20 working days of the date of the notice, the person may—
+    (i) seek legal advice or assistance with respect to the proposed determination:
+    (ii) respond to, comment on, or make submissions on the proposed determination:
+    (iii) provide new information relevant to the proposed determination; and
+  (c) give the person notice of the date on which the proposed determination will, unless the Director decides otherwise, be made (which must be a date that is as soon as practicable after the expiry of the 20-working-day period referred to in paragraph (b)); and
+  (d) consider any response, comment, submission, or new information that the person provides along with the information on which the proposed determination was made; and
+  (e) make a final determination and inform the person and any other affected party of,—
+    (i) in the case of the person, the final determination and the reasons for the final determination; and
+    (ii) in the case of any other affected party, the final determination but not the reasons for the final determination.
+(3) If the Director proposes to make an adverse security check determination based on a recommendation made by the New Zealand Security Intelligence Service and on information other than that recommendation, the Director must—
+  (a) follow the procedure set out in subsection (2) with respect to the information other than the recommendation and advise the person that the proposed determination is based on—
+    (i) a recommendation made by the New Zealand Security Intelligence Service; and
+    (ii) information other than the recommendation; and
+  (b) then follow the procedure set out in subsection (1) with respect to the recommendation if—
+    (i) the Director is satisfied that the information other than the recommendation is no longer sufficient to support an adverse security check determination; and
+    (ii) the person is a New Zealand person.
+(4) If the Director makes a final adverse security check determination, the Director must—
+  (a) revoke any authorisation granted to the person by the Director under the rules, if a favourable security check determination is required under the rules for the authorisation; and
+  (b) require any other entity to revoke any authorisation granted to the person, if a favourable security check determination is required under the rules for the authorisation.
+(5) For the purposes of this section,—
+  - **Inspector-General of Intelligence and Security** means the person holding office under section 5 of the Inspector-General of Intelligence and Security Act 1996
+  - **New Zealand person** has the same meaning as in section 2(1) of the Inspector-General of Intelligence and Security Act 1996.
+
+### 77H Offence to carry out activity while authorisation withdrawn or after authorisation revoked
+(1) Every person commits an offence who carries out an activity that requires an authorisation—
+  (a) during a period when that authorisation has been withdrawn under section 77F(7)(d) or (e); or
+  (b) if that authorisation has been revoked under section 77G(4).
+(2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $5,000.
+
+### 77I Offence to fail to comply with Director's requirement to withdraw or revoke authorisation
+(1) Every person commits an offence who fails, without reasonable excuse, to comply with the Director's requirement to—
+  (a) withdraw an authorisation under section 77F(7)(e); or
+  (b) revoke an authorisation under section 77G(4)(b).
+(2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $10,000.
+
 ### 78 Aviation Security Service
 [Repealed]
 
@@ -1925,11 +1997,11 @@ The Minister shall ensure that aviation security services are provided at all se
 (3) Notwithstanding anything in section 79 of this Act, the Minister may at any time, in the event of an emergency or other crisis, appoint the Aviation Security Service to provide aviation security services at any designated aerodrome or security designated navigation installation, notwithstanding that the operator of that aerodrome or navigation installation is providing aviation security services.
 (4) Any appointment made by the Minister under subsection (3) of this section shall have effect for a period specified by the Minister, being not more than 10 days.
 
-### 80 Functions and duties of Aviation Security Service
-Without limiting the powers, functions, duties, or responsibilities of the Police under this Act or any other enactment, and without limiting the generality of section 77 of this Act, the Aviation Security Service shall have the following functions and duties:
+### 80 Powers, functions, and duties of Aviation Security Service
+Without limiting the powers, functions, duties, or responsibilities of the Police under this Act or any other enactment, and without limiting the generality of section 77 of this Act, the Aviation Security Service shall have the following powers, functions, and duties:
   (a) to carry out—
     (i) crew, passenger, and baggage screening of all international aircraft passenger services; and
-    (ii) the screening specified in section 77A(1) or section 77B(1):
+    (ii) the screening, reasonable searches, or seizures specified in section 77A(1) or section 77B(1):
   (ab) to undertake, if necessary, reasonable searches of crew, passengers, baggage, cargo, aircraft, aerodromes, and navigation installations:
   (b) To carry out aerodrome security patrols and patrols of navigation installations:
   (c) To review, inquire into, and keep itself informed on security techniques, systems, devices, practices, and procedures related to the protection of civil aviation and persons employed in or using it:
@@ -1951,6 +2023,22 @@ Without limiting the powers, functions, duties, or responsibilities of the Polic
 (4) If the aviation security officer determines that the dangerous goods may be lawfully carried on an aircraft, the aviation security officer must, as far as practicable, return the dangerous goods to the owner of the dangerous goods.
 (5) Despite anything in this section, if the aviation security officer has reasonable grounds to believe that the dangerous goods pose an imminent risk to safety, the aviation security officer may destroy or otherwise dispose of the dangerous goods.
 (6) The aviation security officer must report the detection of dangerous goods in accordance with the rules or, in the absence of rules, as the Director may direct.
+
+### 80B Power of aviation security officers to search for and seize certain items or substances to be carried on aircraft or into sterile areas
+(1) Without limiting section 80 of this Act or section 12(1) of the Aviation Crimes Act 1972, an aviation security officer may, for the purpose of detecting any item or substance specified in a direction given under section 77A(1) or 77B(1), screen or search any person, item, substance, or vehicle—
+  (a) before the person, item, substance, or vehicle enters a sterile area:
+  (b) present in a sterile area.
+(2) A search undertaken under subsection (1) must be carried out in accordance with the requirements for searches specified in section 12(2) to (8) of the Aviation Crimes Act 1972.
+(3) If an item or substance specified in section 11(1) of the Aviation Crimes Act 1972 or a direction under section 77A(1) or 77B(1) is detected in a search undertaken under subsection (1) or section 80 of this Act or section 12 of the Aviation Crimes Act 1972, and an aviation security officer has reasonable grounds to believe that there is no lawful authority or reasonable excuse for the item or substance to be carried on an aircraft or into a sterile area, the aviation security officer may seize and detain the item or substance for the purpose of determining whether there is lawful authority or reasonable excuse for the item or substance to be carried on an aircraft or into a sterile area.
+(4) If the aviation security officer determines that the item or substance may be lawfully carried into, or remain in, an aircraft or a sterile area, the aviation security officer must,—
+  (a) if practicable, return the item or substance to the person from whom it was seized; or
+  (b) if impracticable to return the item or substance to the person from whom it was seized, deliver the item or substance to the carrier of the aircraft that the person boarded or intended to board when the item or substance was seized.
+(5) If the aviation security officer determines that there is no lawful authority or reasonable excuse for the item or substance to be carried on an aircraft or into a sterile area, the aviation security officer may—
+  (a) detain the item or substance until it is dealt with in accordance with paragraph (b) or (c); or
+  (b) dispose of or destroy the item or substance; or
+  (c) deliver the item or substance to a member of the police.
+(6) If an aviation security officer delivers an item or substance to a member of the police under subsection (5)(c), the aviation security officer must record the delivery and the relevant details of the seizure.
+(7) Despite anything in this section, if the aviation security officer has reasonable grounds to believe that an item or substance poses an imminent risk to safety, the aviation security officer may destroy or otherwise dispose of the item or substance.
 
 ### 81 Functions and duties of other aviation security service providers
 (1) Aviation security service providers (other than the Aviation Security Service) shall have such functions and duties as may be prescribed by rules made under this Act.
@@ -1975,12 +2063,25 @@ Without limiting the powers, functions, duties, or responsibilities of the Polic
 (6) Any person who refuses to comply with subsection (3) or subsection (4) of this section and, after having been warned that he or she commits an offence, persists in its commission, may be detained by an aviation security officer and in that case he or she shall as soon as may be practicable be delivered to a member of the Police.
 (7) A passenger embarking or disembarking directly through gateways or thoroughfares in an airport approved for that purpose by the licensee of the airport shall be deemed to be authorised by the Director to pass through any security area forming part of those gateways or thoroughfares.
 
-### 85 Powers of arrest
+### 85 Powers of arrest and seizure of items or substances
 (1) Every aviation security officer is justified in arresting without warrant any person on or in the vicinity of any security designated aerodrome or security designated navigation installation if he or she has reasonable grounds to believe that an offence has been or is being committed by that person against any of the following enactments:
-  (a) Sections 3, 4, 5, and 11 of the Aviation Crimes Act 1972:
+  (a) Sections 3, 4, 5, 5A, and 11 of the Aviation Crimes Act 1972:
   (b) Section 45 of the Arms Act 1983 (which relates to unlawful carriage of firearms, ammunition, or explosives).
+(1A) An aviation security officer may—
+  (a) search a person arrested under subsection (1):
+  (b) seize any item or substance that may be evidence of an offence against an enactment specified in subsection (1), if the officer has reasonable grounds to believe that—
+    (i) the person has an item or substance hidden or in clear view on or about his or her person that is evidence of an offence against an enactment specified in subsection (1); and
+    (ii) the item or substance poses a threat to the safety of the officer or any other person; and
+    (iii) immediate action is necessary to address the threat.
+(1B) An aviation security officer may use reasonable force, or any assistance that is reasonably necessary in the circumstances, to—
+  (a) arrest a person under subsection (1):
+  (b) search a person under subsection (1A):
+  (c) seize an item or substance under subsection (1A).
+(1C) To avoid doubt, an aviation security officer may search a person under this section whether or not an aviation security officer has previously searched the person under another section of this Act or under the Aviation Crimes Act 1972.
+(1D) An aviation security officer who undertakes a search under this section must, within 3 working days of the search, give the Director a written report of the search, the circumstances in which it was conducted, and the matters that gave rise to the reasonable grounds to believe required by subsection (1A)(b).
 (2) Any person called upon to do so by an aviation security officer is justified in assisting him or her in good faith to arrest any person.
-(3) An aviation security officer shall as soon as may be practicable deliver any person he or she arrests to a member of the Police.
+(3) An aviation security officer shall as soon as may be practicable deliver any person he or she arrests, and any item or substance he or she seizes, to a member of the Police.
+(4) An aviation security officer may seize an item or substance in the possession of a person that the aviation security officer arrests if the aviation security officer has reasonable grounds to believe that the item or substance is evidence of an offence against an enactment specified in subsection (1).
 
 ### 86 Arrest of persons delivered to Police
 (1) A member of the Police shall accept delivery of a person whom an aviation security officer seeks to deliver to him or her under this Part of this Act if he or she has reasonable grounds to suspect that person of having done or omitted to do anything if that act or omission is an offence against section 54 of this Act or any enactment specified in section 85(1) of this Act.
@@ -2688,7 +2789,9 @@ Without limiting section 100 of this Act, the Governor-General may from time to 
 (1) The Governor-General may, from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) Prescribing, or providing for the fixing of, fees and charges payable under this Act:
   (b) Prescribing those breaches of rules made under this Act that constitute offences against this Act:
+  (ba) prescribing those breaches of regulations made under paragraph (ee) that constitute offences under this Act:
   (c) Prescribing those breaches of rules made under this Act that constitute infringement offences against this Act:
+  (ca) prescribing those breaches of regulations made under paragraph (ee) that constitute infringement offences against this Act:
   (d) Prescribing the penalty for each offence prescribed under paragraph (b) of this subsection, which,—
     (i) In the case of an individual, shall be a fine not exceeding $10,000; or
     (ii) In the case of a body corporate, shall be a fine not exceeding $50,000:
@@ -2699,8 +2802,22 @@ Without limiting section 100 of this Act, the Governor-General may from time to 
   (eb) Providing for the refund or waiver of any fee or charge payable under Part 8A of this Act, in whole or in part, in any specified case or class of cases:
   (ec) Prescribing the information and documents that may be required to be supplied by applicants for scheduled international air services licences under Part 8A of this Act, and the time within which such information or documents must be supplied:
   (ed) specifying, for the purposes of Part 1A, the agreements or arrangements between the Governments of Australia and New Zealand regarding mutual recognition of aviation-related certification:
+  (ee) assisting aviation security, including (but not limited to)—
+    (i) the specification and application of security controls for—
+      (A) screening:
+      (B) searching:
+      (C) seizing items and substances:
+    (ii) any matter for which—
+      (A) rules may be made under section 28, 29, 29A, or 30:
+      (B) directions may be made under section 77A:
+    (iii) the revocation, substitution, or amendment of any—
+      (A) rule made under section 28, 29, 29A, or 30; or
+      (B) direction made under section 77A:
   (f) Such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 (2) Any regulations made under this Act may be so made that different regulations shall apply with respect to different classes of persons, aerodromes, aircraft, aeronautical products, aviation related services, or aeronautical procedures, or with respect to the same class of person, aerodrome, aircraft, aeronautical product, aviation related service, or aeronautical procedure in different circumstances.
+(3) To the extent that a rule made under section 28, 29, 29A, or 30 or a direction made under section 77A is inconsistent with a regulation made under subsection (1)(ee), the rule or direction is subject to the regulation.
+(4) No regulation made under subsection (1)(ee) may be considered invalid because it confers any discretion upon or allows any matter to be determined or approved by the Authority or the Director or any other person, or allows the Authority or the Director or any other person to impose requirements as to the performance of any activities.
+(5) So far as the bylaws of any local authority are inconsistent with or repugnant to any regulation made under subsection (1)(ee) in force in the same locality, the bylaws must be construed subject to the regulations made under subsection (1)(ee).
 
 ### 101 Repeals, revocation, amendments, and savings
 (1) The enactments specified in Schedule 1 to this Act are hereby repealed.
