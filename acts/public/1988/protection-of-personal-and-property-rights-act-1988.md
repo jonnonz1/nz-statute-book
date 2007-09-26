@@ -1,5 +1,5 @@
 # Protection of Personal and Property Rights Act 1988
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-26_
 
 > An Act to provide for the protection and promotion of the personal and property rights of persons who are not fully able to manage their own affairs
 
@@ -1023,6 +1023,11 @@ Rules may be made regulating the practice and procedure of Courts in proceedings
 The Governor-General may from time to time, by Order in Council, make regulations—
   (a) Making provision for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by barristers and solicitors appointed under section 65 of this Act, which fees and expenses may differ according to the complexity of the proceedings and the time spent, and according to whether or not professional services are to be provided in a specified number of proceedings during a specified period:
   (b) Making provision for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of the preparation of reports requested pursuant to section 76 of this Act, which fees and expenses may differ according to the type of report and the time spent, and according to whether or not professional services are to be available in a specified number of proceedings during a specified period:
+  (ba) prescribing forms for enduring powers of attorney for the purposes of Part 9:
+  (bb) prescribing forms for certificates for the purposes of the witnessing requirements in section 94A(7):
+  (bc) prescribing forms for certificates for the purposes of any medical examination or assessment under Part 9:
+  (bd) prescribing forms that may be used for the suspension and revocation of enduring powers of attorney for the purposes of Part 9:
+  (be) prescribing the form for the certificate of non-revocation and non-suspension of the enduring power of attorney for the purposes of section 103C(6):
   (c) Providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 
 ### 113 Reference to Aged and Infirm Persons Protection Act 1912 and Part 7 of the Mental Health Act 1969 in other Acts
