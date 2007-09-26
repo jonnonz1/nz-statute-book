@@ -1,5 +1,5 @@
 # Aviation Crimes Act 1972
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-09-26_
 
 > An Act to give effect to the provisions of the Hague Convention for the Suppression of Unlawful Seizure of Aircraft, the Montreal Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation, the Montreal Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation, and the Tokyo Convention on Offences and Certain Other Acts Committed on Board Aircraft, and for matters incidental thereto
 
@@ -26,6 +26,8 @@ _Consolidation as at 2007-09-03_
   - **passenger** means a person carried under a contract for carriage other than a person—
     (a) assigned by the carrier for duty as a member of the crew of the aircraft; or
     (b) carried for the sole purpose of receiving or giving instruction in the control or navigation of aircraft in flight
+  - **security enhanced area** has the same meaning as in section 2 of the Civil Aviation Act 1990
+  - **sterile area** has the same meaning as in section 2 of the Civil Aviation Act 1990
   - **The Hague Convention** means the Convention for the Suppression of Unlawful Seizure of Aircraft, done at the Hague on the 16th day of December 1970
   - **The Montreal Convention** means the Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation, done at Montreal on the 23rd day of September 1971
   - **The Montreal Protocol** means the Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation, done at Montreal on 24 February 1988
@@ -130,24 +132,55 @@ Nothing in section 8 of the Crimes Act 1961 (which relates to jurisdiction in re
 
 ## Part  — Taking firearms, explosives, etc, on to aircraft
 
-### 11 Taking firearms, explosives, etc, on to aircraft
+### 11 Taking firearms, explosives, etc, on to aircraft or into sterile area or security enhanced area
 (1) Everyone commits a crime, and is liable on conviction on indictment to imprisonment for a term not exceeding 5 years, who, without lawful authority or reasonable excuse, or without the permission of the owner or operator of the aircraft or of a person duly authorised by either of them to give such permission, takes or attempts to take on board any aircraft—
   (a) Any firearm; or
   (b) Any other dangerous or offensive weapon or instrument of any kind whatsoever; or
   (c) Any ammunition; or
-  (d) Any explosive substance or device, or any other injurious substance or device of any kind whatsoever which could be used to endanger the safety of the aircraft or of persons on board the aircraft.
+  (d) Any explosive substance or device, or any other injurious substance or device of any kind whatsoever which could be used to endanger the safety of the aircraft or of persons on board the aircraft; or
+  (e) an imitation of an item or substance specified in paragraphs (a) to (d).
+(1A) Every person commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 5 years, who, without lawful authority or reasonable excuse, takes, or attempts to take, into a sterile area or a security enhanced area an item or substance specified in subsection (1).
+(1B) Every person commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 5 years, who—
+  (a) has the intention of causing bodily injury or of doing any act that would constitute a crime under section 3, 4, 5, or 5A; and
+  (b) takes on board an aircraft or into a sterile area or a security enhanced area an item or substance that is capable of—
+    (i) causing bodily injury or of endangering the safety of an aircraft or an airport when combined with another item or substance; or
+    (ii) activating another item or substance that is capable of causing bodily injury or of endangering the safety of an aircraft or an airport
 (2) For the purposes of this section, the term firearm means any gun, rifle, or pistol, whether acting by force of explosives or not; and includes any such gun, rifle, or pistol which for the time being is not capable of discharging any shot, bullet, or other missile, but which by its completion or the replacement of any component part or parts or the correction or repair of any defect or defects, would be so capable; and also includes any such gun, rifle, or pistol which is for the time being dismantled.
+(3) For the purposes of this section, dangerous or offensive weapon means any item or substance capable of being used to endanger the safety of an aircraft or cause bodily injury.
 
 ## Part  — Search of passengers, baggage, and cargo
 
 ### 12 Search of passengers, baggage, and cargo
-(1) Any member of the New Zealand Police, any aviation security officer, or any officer of Customs, or any employee or agent of the carrier authorised by the carrier for the purpose may, with the consent of the passenger, search any passenger and his baggage before the passenger boards any aircraft in New Zealand pursuant to any contract providing for the carriage of the passenger by air from any place in New Zealand to any other place (whether in New Zealand or elsewhere).
-(2) If the passenger declines to allow himself or his baggage to be searched, the carrier may refuse to carry him.
-(3) A carrier shall not be liable to any civil proceeding, other than a proceeding in respect of any right that the passenger may have for the recovery of the fare or any part thereof, by reason of the fact that the carrier has refused to carry a passenger who has declined to allow himself or his baggage to be searched.
-(4) The following provisions shall apply with respect to any search made pursuant to subsection (1) of this section:
-  (a) The passenger shall not be required to remove any article of clothing (other than a coat or similar article), for the purpose of being searched:
-  (b) Except where the search is made by means of any mechanical or electrical or electronic or other similar device, no female shall be searched except by a female.
-(5) Any employee or agent of the carrier authorised by the carrier for the purpose, or any aviation security officer, may examine any cargo before the cargo is loaded on to any aircraft in New Zealand pursuant to a contract providing for the carriage of the cargo by air from a place in New Zealand to any other place (whether in New Zealand or elsewhere).
+(1) Any member of the police, any aviation security officer, any Customs officer, or any employee or agent of the carrier authorised by the carrier for the purpose may, with the consent of the passenger, search a passenger and the passenger's baggage for the purpose of detecting any item or substance that could pose a threat to aviation safety and security (including, but not limited to, any item or substance specified in section 11(1)), before the passenger boards any aircraft in New Zealand pursuant to a contract providing for the carriage of the passenger by air from a place in New Zealand to any other place (whether in New Zealand or elsewhere).
+(2) If the passenger declines to allow himself or herself or his or her baggage to be searched, the carrier must refuse to carry—
+  (a) the passenger:
+  (b) his or her baggage.
+(3) A carrier is not liable to any civil proceeding, other than a proceeding in respect of any right that the passenger may have for the recovery of the fare or any part of the fare, by reason of the fact that the carrier has refused to carry—
+  (a) a passenger who has declined to allow himself or her self or his or her baggage to be searched:
+  (b) the baggage of a passenger who has declined to allow himself or herself or his or her baggage to be searched.
+(4) With respect to a search made under subsection (1),—
+  (a) by an employee or agent of the carrier authorised by the carrier for the purpose, the passenger must not be required to remove any article of clothing (other than a coat or similar article) for the purpose of being searched:
+  (b) by a member of the police, an aviation security officer, or a Customs officer, the passenger must, if directed to do so,—
+    (i) remove, raise, lower, or open any outer clothing, including (but not limited to) any coat, jacket, jumper, cardigan, or similar article that the passenger is wearing to enable the search to be carried out, except where the passenger has no other clothing, or only underclothing, under the outer clothing:
+    (ii) remove any gloves, footwear (including socks or stockings), head coverings, belts, jewellery, or other accessories:
+    (iii) allow a member of the police, an aviation security officer, or a Customs officer to carry out a pat down search:
+  (c) by a member of the police, an aviation security officer, a Customs officer, or an employee or agent of the carrier authorised by the carrier for the purpose, a female may only be searched by a female unless the search is made by means of a mechanical or electrical or electronic or other similar device.
+(5) Any aviation security officer, or any employee or agent of the carrier authorised by the carrier for the purpose, may examine any cargo before the cargo is loaded onto any aircraft in New Zealand pursuant to a contract providing for the carriage of the cargo by air from a place in New Zealand to any other place (whether in New Zealand or elsewhere).
+(6) Subject to subsection (7), with respect to a search made under subsection (1) or (5), a member of the police, an aviation security officer, or a Customs officer may use any aid or device that is reasonably necessary to facilitate the search, including (but not limited to) a dog, chemical substance, or x-ray or imaging equipment, or some other mechanical, electrical, or electronic device.
+(7) Despite subsection (6), with respect to a person searched under subsection (1), a member of the police, an aviation officer, a Customs officer, or an agent of the carrier authorised by the carrier for the purpose may not use an aid or device that produces an unclothed image of the person.
+(8) For the purposes of this section, pat down search—
+  (a) means a search of a clothed person in which the person conducting the search may do all or any of the following:
+    (i) run or pat his or her hand over the body of the person being searched, whether outside or inside the clothing (other than any underclothing) of that person:
+    (ii) insert his or her hand inside any pocket or pouch in the clothing (other than any underclothing) of the person being searched:
+    (iii) for the purpose of permitting a visual inspection, require the person being searched to do all or any of the following, namely:
+      (A) open his or her mouth:
+      (B) display the palms of his or her hands:
+      (C) display the soles of his or her feet:
+      (D) lift or rub his or her hair; and
+  (b) includes the authority to search
+    (i) any item or substance carried by, or in the possession of, the person; and
+    (ii) any outer clothing removed, raised, lowered, or opened for the purposes of the search; and
+    (iii) any head covering, gloves, or footwear (including socks or stockings) removed for the purposes of the search.
 
 ### 13 Search of persons declining to allow search
 (1) Where—the member of the Police may, without warrant, search that first-mentioned person and his baggage, and may detain him for the purposes of that search, and may take possession of any article referred to in paragraph (a), paragraph (b), paragraph (c), or paragraph (d) of section 11 of this Act found in the course of that search.
