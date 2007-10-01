@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-10-01_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
@@ -179,8 +179,8 @@ The summary criminal jurisdiction of a District Court must be exercised in accor
   (g) make, under section 112 of that Act, a non-association order in respect of the offender:
   (h) impose, under section 55 of that Act, a sentence of community work on the offender:
   (i) impose, under section 45 of that Act, a sentence of supervision on the offender:
-  (ia)
-  (ib)
+  (ia) impose under section 54B of that Act, a sentence of intensive supervision on the offender:
+  (ib) impose under section 69B of that Act a sentence of community detention on the offender:
   (j) make, under section 124 of that Act, an order that disqualifies the offender from holding or obtaining a driver licence:
   (k) make, under section 128 or section 129 of that Act, a confiscation order in respect of a motor vehicle:
   (l) make, under section 131(2)(a) of that Act, an order that prohibits the offender from acquiring any interest in any motor vehicle within 12 months after the date of the order:
@@ -1224,8 +1224,8 @@ A person commits an offence and is liable on summary conviction to a fine not ex
 (3) Subject to subsection (3AA) of this section, the District Court Judge or Community Magistrate may, after considering the report of the Registrar, and the financial position of the defendant (whether determined from any financial statement prepared by the defendant or from other sources)—
   (a) Refer the matter to the Registrar with a direction that one or more of the enforcement procedures referred to in section 87(1) of this Act, as specified in the direction, be invoked; or
   (b) Subject to section 106E of this Act, direct that a warrant of commitment in the prescribed form be issued; or
-  (ba)
-  (bb)
+  (ba) subject to sections 80A to 80ZM of the Sentencing Act 2002 and section 106E of this Act, sentence the defendant to a sentence of home detention; or
+  (bb) subject to sections 69B to 69M and sections 70 to 80 of the Sentencing Act 2002 and section 106E of this Act, sentence the defendant to a sentence of community detention; or
   (c) subject to sections 55 to 80 of the Sentencing Act 2002 and section 106E of this Act, sentence the defendant to community work; or
   (d)
   (e)
@@ -1235,13 +1235,13 @@ A person commits an offence and is liable on summary conviction to a fine not ex
   (g) Direct that no further enforcement proceedings be taken in respect of the fine for such period or subject to such conditions as may be directed by the Judge or Community Magistrate; or
   (h) Remit the fine or a part of the fine.
 (3AAA) No Community Magistrate may direct, under subsection (3)(b), the issue of a warrant of commitment; but, in any case where a Community Magistrate considers the issue of such a warrant to be appropriate, the Community Magistrate must refer the matter to a District Court Judge, in which case sections 45 to 59 of this Act, so far as they are applicable and with the necessary modifications, apply.
-(3AAB)
-(3AA) Notwithstanding anything in subsection (3) of this section, where—a period of imprisonment must not be imposed under subsection (3) of this section on the defendant in respect of the fine.
+(3AAB) No Community Magistrate may sentence a defendant to a sentence of home detention under subsection (3)(ba); but in any case where a Community Magistrate considers such a sentence to be appropriate, the Community Magistrate must refer the matter to a District Court Judge, in which case sections 45 to 59, so far as they are applicable and with the necessary modifications, apply.
+(3AA) Notwithstanding anything in subsection (3) of this section, where—a period of imprisonment or sentence of home detention must not be imposed under subsection (3) of this section on the defendant in respect of the fine.
   (a) The fine was imposed in respect of a traffic offence (as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989) not punishable by imprisonment; and
   (b) At the date of the commission of the offence, the defendant was a young person within the meaning of that Act,—
 (3A) Where a District Court Judge or Community Magistrate exercises any power conferred by subsection (3) of this section and considers it appropriate to do so, he or she may also make an order under subsection (9) of this section for the return of the defendant.
 (4)
-(5) A warrant of commitment, or a sentence of community work, may be issued or imposed under this section notwithstanding that the defendant was not liable to be imprisoned on the determination of the information or complaint in respect of which the fine was imposed.
+(5) A warrant of commitment, or a sentence of community work, community detention, or home detention, may be issued or imposed under this section notwithstanding that the defendant was not liable to be imprisoned on the determination of the information or complaint in respect of which the fine was imposed.
 (6) Any warrant of commitment directed to be issued under this section may be issued by any District Court Judge and may be withdrawn at any time by any District Court Judge.
 (7) Where any direction is given under subsection (3)(f) of this section, the difference between the amount due under the fine and the amount in respect of which action is directed to be taken under that provision shall cease to be payable and no proceedings shall be taken or continued for its recovery.
 (8) Where a District Court Judge or Community Magistrate makes any order (other than a direction for the issue of a warrant of commitment) under this section, the Judge or Community Magistrate may postpone the issue or defer the operation of the order for such period and subject to such conditions as he or she may direct.
@@ -1268,7 +1268,7 @@ A person commits an offence and is liable on summary conviction to a fine not ex
 
 ### 89 Rights of representation and appeal
 (1) Every defendant attending before a District Court Judge or Community Magistrate pursuant to any provision of section 88 is entitled to be represented by a barrister or solicitor.
-(2) Where a defendant is sentenced to community work under section 88(3) or is imprisoned pursuant to a warrant of commitment issued under that provision,—
+(2) Where a defendant is sentenced to community work, community detention, or home detention under section 88(3) or is imprisoned pursuant to a warrant of commitment issued under that provision,—
   (a) The defendant has, if sentenced by a District Court Judge, the same right to appeal under section 115 as if the defendant had been convicted on an information or complaint; and
   (b) The defendant has, if sentenced by a Community Magistrate, a right of appeal under section 114A.
 (3) On any such appeal under section 115 by a defendant sentenced by a District Court Judge, the High Court may, in addition to its powers under section 121, remit the matter to a District Court Judge to be dealt with as that Judge thinks fit under section 88(3), except that that Judge must not impose a sentence the same as that appealed against.
@@ -1281,7 +1281,7 @@ The period of imprisonment imposed under this Act in respect of the non-payment 
 ### 91 Defendant on substituted sentence to be discharged on payment of fine
 (1) Where a defendant is, on the non-payment of a fine, imprisoned on a warrant of commitment and the manager of the prison in which the defendant is imprisoned receives written notice from a Registrar that the fine in respect of which the warrant was issued has been paid, the manager shall discharge the defendant from the prison unless the defendant is also in custody for some other reason.
 (2)
-(3) If a defendant is, on the non-payment of a fine, subject to a sentence of community work and a probation officer receives written notice from a Registrar that the fine in respect of which the sentence was imposed has been paid, the probation officer must direct that the defendant is no longer subject to that sentence in respect of the fine.
+(3) If a defendant is, on the non-payment of a fine, subject to a sentence of community work, community detention, or home detention and a probation officer receives written notice from a Registrar that the fine in respect of which the sentence was imposed has been paid, the probation officer must direct that the defendant is no longer subject to that sentence in respect of the fine.
 (4)
 (5) On completion of a term of imprisonment or any sentence referred to in any of subsections (1) to (4) of this section, the fine in respect of which the term of imprisonment or the sentence was imposed shall be deemed to be remitted.
 
@@ -1464,13 +1464,25 @@ For the purpose of determining the means of any defendant for the purposes of th
 ### 106D Transfer of enforcement to another District Court
 If a fine has been ordered to be paid or an order has been made by a Court or the Registrar of that Court under this Part, that fine or order (as the case may be) is enforceable in another District Court.
 
-### 106E Restriction on imprisonment
+### 106E Restrictions on alternative sentences
 (1) A District Court Judge or Community Magistrate shall not sentence a defendant to community work under this Part of this Act for non-payment of a fine unless—
   (a) A statement of means has been completed by the defendant; and
   (b) The Judge or Community Magistrate has considered the statement of means; and
-  (c) The Judge or Community Magistrate is satisfied that all other methods of enforcing the fine, other than the issue of a warrant of commitment, have been considered or tried and that they are inappropriate or unsuccessful.
-(1A)
-(1B)
+  (c) The Judge or Community Magistrate is satisfied that all other methods of enforcing the fine, other than a sentence of community detention or home detention, or the issue of a warrant of commitment, have been considered or tried and that they are inappropriate or unsuccessful.
+(1A) A District Court Judge or Community Magistrate must not sentence a defendant to a sentence of community detention under this Part for non-payment of a fine unless—
+  (a) a statement of means has been completed by the defendant; and
+  (b) the Judge or Community Magistrate has considered the statement of means; and
+  (c) the Judge or Community Magistrate is satisfied that all other methods of enforcing the fine, other than a sentence of home detention or the issue of a warrant of commitment, have been considered or tried and that they are inappropriate or unsuccessful; and
+  (d) a pre-sentence report has been provided in accordance with section 26A of the Sentencing Act 2002; and
+  (e) the Judge or Community Magistrate is satisfied of the matters in section 69C of the Sentencing Act 2002.
+(1B) A District Court Judge must not sentence a defendant to a sentence of home detention under this Part for non-payment of a fine unless—
+  (a) a statement of means has been completed by the defendant within the immediately preceding 14 days; and
+  (b) the defendant is before a District Court Judge; and
+  (c) the defendant's last completed statement of means has been considered by the District Court Judge; and
+  (d) a pre-sentence report has been provided in accordance with section 26A of the Sentencing Act 2002; and
+  (e) the Judge is satisfied of the matters in section 80A(2)(a) of the Sentencing Act 2002; and
+  (f) the Judge is satisfied that all other methods of enforcing the fine, other than the issue of a warrant of commitment, have been considered or tried and that they are inappropriate or unsuccessful; and
+  (g) the Judge is satisfied that the defendant has the means to pay the fine.
 (2) Subject to section 83 of this Act, a District Court Judge shall not direct the issue of a warrant of commitment for the imprisonment of the defendant under this Part of this Act for non-payment of a fine unless—
   (a) A statement of means has been completed by the defendant within the immediately preceding 14 days; and
   (b) The defendant has had the same opportunity for legal representation as is available to a defendant who is liable to a sentence of imprisonment under section 30 of the Sentencing Act 2002; and
@@ -1479,14 +1491,14 @@ If a fine has been ordered to be paid or an order has been made by a Court or th
   (e) The warrant of commitment can be executed immediately; and
   (f) The Judge is satisfied that all other methods of enforcing the fine have been considered or tried and that they are inappropriate or unsuccessful; and
   (g) The Judge is satisfied that the defendant has the means to pay the fine.
-(3) Before a District Court Judge directs that a warrant of commitment be issued under section 88(3) of this Act, he or she may direct that a warrant for the defendant's arrest be issued to have the defendant brought before a District Court Judge to enable the defendant's financial ability to pay the fine to be assessed.
+(3) Before a District Court Judge imposes a sentence of home detention or directs that a warrant of commitment be issued under section 88(3) of this Act, he or she may direct that a warrant for the defendant's arrest be issued to have the defendant brought before a District Court Judge to enable the defendant's financial ability to pay the fine to be assessed.
 (4) Where a defendant is arrested pursuant to subsection (3) of this section, the provisions of section 88(2F) of this Act shall apply.
 (5) In assessing the defendant's financial ability to pay the fine, a District Court Judge or Community Magistrate shall take into account—
   (a) The Court's assessment of the defendant's ability to pay the fine (whether based on the defendant's statement of means or otherwise) when the fine was imposed; and
   (b) Any change of circumstances since that original assessment was made; and
   (c) The defendant's current financial position.
 (6) If a District Court Judge directs that a warrant for the defendant's arrest be issued pursuant to subsection (3) of this section, a Registrar may issue the warrant.
-(7) Nothing in subsection (1) or subsection (2) of this section shall apply in the case of a defendant who, at the time of the sentence being imposed, is already undergoing a sentence of detention in a prison.
+(7) Nothing in subsections (1), (1A), (1B), or (2) of this section shall apply in the case of a defendant who, at the time of the sentence being imposed, is already undergoing a sentence of detention in a prison.
 
 ### 106F Review of Registrar's decision
 (1) Any defendant or other person affected by any order or decision made by a Registrar under this Part of this Act may apply to a District Court Judge for a review of the order or decision.
@@ -1665,7 +1677,7 @@ On the hearing of any general appeal no objection to any defect in the notice of
 ### 124 Provisions as to issue of warrant pending appeal
 (1) Where under any determination in respect of which either party appeals the defendant has been sentenced to detention, the warrant of commitment in execution of the sentence shall be issued, notwithstanding that notice of appeal has been given.
 (2) Where notice of appeal has been given and the defendant is released on bail before the warrant of commitment is executed, the warrant shall be suspended until the appeal has been determined or, as the case may be, until the District Court Judge or Justice or Justices have certified that it has not been prosecuted or the Registrar of the High Court has certified that it has been dismissed for non-prosecution.
-(3) Where under any determination in respect of which either party appeals the Court has sentenced the defendant to supervision, the term of the sentence specified shall cease to run on the day notice of appeal is filed.
+(3) Where under any determination in respect of which either party appeals the Court has sentenced the defendant to supervision, intensive supervision, community detention, or home detention, the term of the sentence specified shall cease to run on the day notice of appeal is filed.
 (3A) Where under any determination in respect of which either party appeals the Court has sentenced the defendant to community work, the sentence ceases to run on the day notice of appeal is filed.
 (3B)
 (3C)
@@ -1735,17 +1747,17 @@ After the decision of the High Court on any appeal has been given, the Registrar
 
 ### 137 Resumption of sentence or order on determination of appeal
 (1) Where, under any determination in respect of which either party appeals, a District Court has—and when the appeal is determined neither the sentence nor the order, as the case may be, nor the conviction upon which it was imposed is set aside, the term of the sentence or the order as specified by the District Court or as varied by the High Court, as the case may be, shall be resumed—
-  (a) sentenced the defendant to supervision or community work; or
+  (a) sentenced the defendant to supervision, intensive supervision, community work, community detention, or home detention; or
   (b) Made a non-association order in respect of the defendant—
   (c) On the date specified by the Court that determines the appeal; or
   (d) If the Court fails to specify such a date, as from the date the appeal is determined.
 (2) Where, under any determination in respect of which either party appeals, the District Court has—and the appeal is not prosecuted and a District Court Judge or Justice or Justices certify that it has not been prosecuted, the term of the sentence or the order as specified by the District Court shall be resumed—
-  (a) sentenced the defendant to supervision or community work; or
+  (a) sentenced the defendant to supervision, intensive supervision, community work, community detention, or home detention; or
   (b) Made a non-association order in respect of the defendant—
   (c) On the date specified by a District Court Judge to whom the certificate is submitted; or
   (d) If a District Court Judge fails to specify such a date, as from the date of the certificate.
 (3) Where, under any determination in respect of which either party appeals, a District Court has—and the appeal is dismissed for non-prosecution and the Registrar of the High Court certifies that it has been dismissed for non-prosecution, the term of the sentence as specified by the District Court shall be resumed—
-  (a) sentenced the defendant to supervision or community work; or
+  (a) sentenced the defendant to supervision, intensive supervision, community work, community detention, or home detention; or
   (b) Made a non-association order in respect of the defendant—
   (c) On the date specified by a District Court Judge to whom the certificate is submitted; or
   (d) If a District Court Judge fails to specify such a date, as from the date of the certificate.
