@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2007-10-01_
 
 > An Act to reform the law relating to companies, and, in particular,—aTo reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbTo provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcTo define the relationships between companies and their directors, shareholders, and creditors; anddTo encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeTo provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -508,7 +508,7 @@ A share is issued when the name of the holder is entered on the share register.
 
 ### 53 Dividends
 (1) A dividend is a distribution other than a distribution to which section 59 or section 76 of this Act applies.
-(2) The board of a company must not authorise a dividend—unless the amount of the dividend in respect of a share of that class is in proportion to the amount paid to the company in satisfaction of the liability of the shareholder under the constitution of the company or under the terms of issue of the share.
+(2) The board of a company must not authorise a dividend—unless the amount of the dividend in respect of a share of that class is in proportion to the amount paid to the company in satisfaction of the liability of the shareholder under the constitution of the company or under the terms of issue of the share or is required, for a portfolio tax rate entity, as a result of section HL 7 of the Income Tax Act 2004.
   (a) In respect of some but not all the shares in a class; or
   (b) That is of a greater value per share in respect of some shares of a class than it is in respect of other shares of that class—
 (3) Notwithstanding subsection (2) of this section, a shareholder may waive his or her entitlement to receive a dividend by notice in writing to the company signed by or on behalf of the shareholder.
