@@ -1,5 +1,5 @@
 # International War Crimes Tribunals Act 1995
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-10-01_
 
 > An Act to provide for New Zealand to assist—aThe International Tribunal for the Prosecution of Persons Responsible for Serious Violations of International Humanitarian Law Committed in the Territory of the Former Yugoslavia since 1991; andbThe International Criminal Tribunal for the Prosecution of Persons Responsible for Genocide and other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan citizens responsible for genocide and other such violations committed in the territory of neighbouring States, between 1 January 1994 and 31 December 1994; andcOther ad hoc tribunals that may be established by the Security Council of the United Nations under chapter VII of the Charter of the United Nations for the prosecution of violations of international humanitarian law—in the performance of their functions
 
@@ -247,7 +247,7 @@ Subject to section 57 of this Act, where—the Attorney-General may, in writing,
   (b) The person is in New Zealand and is—
     (i) A prisoner; or
     (ii) on parole, home detention, or compassionate release, or is subject to release conditions, under Part 1 of the Parole Act 2002; or
-    (iia)
+    (iia) subject to a sentence of home detention imposed under section 80A of the Sentencing Act 2002; or
     (iii)
     (iv) At large pursuant to section 62 of the Corrections Act 2004; or
     (v) Subject to a community-based sentence (within the meaning of section 4(1) of the Sentencing Act 2002).
