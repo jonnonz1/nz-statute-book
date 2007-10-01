@@ -1,5 +1,5 @@
 # Smoke-free Environments Act 1990
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-10-01_
 
 > An Act—aTo reduce the exposure of people who do not themselves smoke to any detrimental effect on their health caused by smoking by others; andbTo regulate the marketing, advertising, and promotion of tobacco products, whether directly or through the sponsoring of other products, services, or events; andcTo monitor and regulate the presence of harmful constituents in tobacco products and tobacco smoke; anddTo establish a Health Sponsorship Council
 
@@ -90,7 +90,7 @@ _Consolidation as at 2007-09-03_
       (v) resting, eating, or drinking before beginning or resuming plying for hire
   - **Organised activity** means any cultural, educational, sporting, or recreational activity or event
   - **package** means a pack, carton, wrapping, or other container in which tobacco products, or (as the case may be) herbal smoking products, are customarily sold at retail
-  - **Passenger service vehicle** and have the same meaning as in section 2 of the Transport Services Licensing Act 1989
+  - **Passenger service vehicle** and have the same meaning as in section 2 of the Land Transport Act 1998
   - **Permitted smoking area**
   - **point of sale** —
     (a) means a checkout where tobacco products may be bought; and
