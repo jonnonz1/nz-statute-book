@@ -1,5 +1,5 @@
 # Securities Act 1978
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2007-10-01_
 
 > An Act to establish a Securities Commission; and to consolidate and amend the law relating to the offering of securities to the public, and to extend the application thereof
 
@@ -114,8 +114,8 @@ _Consolidation as at 2007-09-20_
     (e) A life insurance policy:
   - **participatory security trustee** means a person appointed as a trustee in respect of participatory securities
   - **Person** includes a corporation sole, a company or other body corporate (whether incorporated in New Zealand or elsewhere), an unincorporated body of persons, a public body, and a Government department
-  - **portfolio investment entity**
-  - **portfolio investment interest**
+  - **portfolio investment entity** means a portfolio investment entity within the meaning of the Income Tax Act 2004
+  - **portfolio investment interest** means a portfolio investment interest within the meaning of the Income Tax Act 2004
   - **Prescribed** means prescribed by regulations made under the authority of this Act
   - **Principal officer** , in relation to a body corporate or other body, means—
     (a) A director of the body; or
@@ -344,8 +344,8 @@ _Consolidation as at 2007-09-20_
   (e) Housing New Zealand Corporation established by the Housing Corporation Act 1974; or
   (f)
 (4) Nothing in sections 6, 33(3), 37, 37A, 38C to 38F, 39 to 44, and 45 to 53 of this Act shall apply in respect of an interest in a contributory mortgage that is offered to the public for subscription by a contributory mortgage broker.
-(4A)
-(4B)
+(4A) Nothing in sections 33, 37, and 37A(1)(a) of this Act shall apply in respect of an adjustment under section HL 7(3) of the Income Tax Act 2004 of the portfolio investor interest of an investor by a portfolio investment entity.
+(4B) The exemption in subsection (4A) does not apply if the portfolio investment entity has under section HL 7(4) of the Income Tax Act 2004 offered the investor a choice of the method of adjustment.
 (5) The Commission may, in its discretion and upon such terms and conditions (if any) as it thinks fit, by notice in the Gazette, exempt any person or class of persons or any transaction or class of transactions from compliance with any provision or provisions of—and may in like manner vary or revoke any such exemption. Every such exemption shall have effect according to its tenor.
   (a) Part 2 of this Act; or
   (b) Any regulations made under section 70(1) of this Act; or
