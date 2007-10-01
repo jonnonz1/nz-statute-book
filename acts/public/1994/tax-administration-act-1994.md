@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2007-09-11_
+_Consolidation as at 2007-10-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -52,7 +52,7 @@ _Consolidation as at 2007-09-11_
   - **Authorised savings institution** , in section 56 of this Act, has the same meaning as in section OB 1 of the Income Tax Act 2004
   - **Award** is defined in section 130(6) for the purposes of that section
   - **Bank** is defined in section 157(10) for the purposes of that section
-  - **base amount**
+  - **base amount** has the same meaning as in section OB 1 of the Income Tax Act 2004
   - **Basis of exemption** , in section 208(1)(f) of this Act, has the meaning given by section NF 9(2) of the Income Tax Act 2004
   - **Beneficiary** —
     (a) Is defined in section 82(9) for the purposes of that section:
@@ -194,7 +194,7 @@ _Consolidation as at 2007-09-11_
   - **Government agency** , in section 6, includes any department or Crown entity (as those terms are defined in the Public Finance Act 1989) and any public authority (as defined in the Income Tax Act 2004)
   - **GST** means goods and services tax
   - **GST payable** has the meaning given to tax payable by section 2 of the Goods and Services Tax Act 1985
-  - **GST ratio**
+  - **GST ratio** has the same meaning as in section OB 1 of the Income Tax Act 2004
   - **Hearing authority** means—
     (a) A Taxation Review Authority; or
     (b) The High Court:
@@ -210,8 +210,8 @@ _Consolidation as at 2007-09-11_
   - **Information requisition** is defined in section 21(8) for the purposes of that section
   - **Initial late payment penalty** means a late payment penalty imposed under section 139B(2A)
   - **Inland Revenue Acts** means the Acts specified in the Schedule to this Act, and includes any Acts (whether repealed or not) that before the commencement of this Act were specified in Schedule 1 to the Inland Revenue Department Act 1974
-  - **Instalment date** , in sections 120K of this Act, has the same meaning as in section OB 1 of the Income Tax Act 2004
-  - **interest instalment date**
+  - **Instalment date** , in sections 120KB to 120KE of this Act, has the same meaning as in section OB 1 of the Income Tax Act 2004
+  - **interest instalment date** has the same meaning as in section OB 1 of the Income Tax Act 2004
   - **Instalment portion**
   - **Instrument** , and
   - **Interest liability period** is defined in section 121 for the purposes of that section
@@ -290,7 +290,7 @@ _Consolidation as at 2007-09-11_
     (b) The way the Commissioner proposes to treat differently a tax position or tax positions taken by a disputant in one or more tax returns,—
   - **Provisional tax paid** is defined in section 139C
   - **Provisional tax payable** is defined in section 139C
-  - **provisional taxpayer**
+  - **provisional taxpayer** has the same meaning as in section OB 1 of the Income Tax Act 2004
   - **Private dwelling** is defined in section 16(7) for the purposes of that section
   - **Qualifying person** is defined in section 84(6) for the purposes of that section
   - **qualifying resident foreign trustee** means a person who is a resident foreign trustee and who,—
@@ -299,7 +299,7 @@ _Consolidation as at 2007-09-11_
       (i) resident in New Zealand within the meaning of section OE 1 of the Income Tax Act 2004; and
       (ii) a member of an approved organisation
   - **Qualifying tax in dispute**
-  - **ratio instalment date**
+  - **ratio instalment date** has the same meaning as in section OB 1 of the Income Tax Act 2004
   - **Record** —
     (a) Is defined in section 152(18) for the purposes of that section:
     (b) Is defined in section 22(7) for the purposes of that section and section 26:
@@ -314,7 +314,7 @@ _Consolidation as at 2007-09-11_
     (a) either alone or jointly with another person, acts as a trustee of a foreign trust that is not registered as a charitable entity under the Charities Act 2005; and
     (b) is resident in New Zealand within the meaning of section OE 1 or section OE 2 of the Income Tax Act 2004
   - **Residual income tax** —
-    (a) Is defined in section 120K for the purposes of Part 7:
+    (a) Is defined in section 120KB(4) for the purposes of Part 7:
     (b) For the purposes of any other provision of this Act, has the same meaning as in section OB 1 of the Income Tax Act 2004:
   - **response period** for a notice in response to another notice (called the ) means—
     (a) the 2-month period starting on the date of issue of the initiating notice, if—
@@ -336,7 +336,6 @@ _Consolidation as at 2007-09-11_
   - **Return period** means—
     (a) The period covered by a tax return, or which would be covered by a tax return if one were provided:
     (b) For a tax return that relates to a transaction, the time within which the transaction must be returned:
-  - **Second instalment date** , in section 120K of this Act, has the same meaning as in section OB 1 of the Income Tax Act 2004
   - **Second PAYE period** , in sections 47 and 173(1)(b) of this Act, has the same meaning as in section OB 1 of the Income Tax Act 2004
   - **Security** , for the purposes of section 7A, means a security given to the Commissioner to secure the performance of a tax obligation, and includes a mortgage or charge or other encumbrance over, or pledge of, an asset or right, and a guarantee or indemnity
   - **Separated person**
@@ -450,9 +449,7 @@ _Consolidation as at 2007-09-11_
       (iii) A due date:
     (b)
   - **Taxpayer's total tax figure** is defined in section 141B for the purposes of that section
-  - **Third instalment date** , in section 120K of this Act, has the same meaning as in section OB 1 of the Income Tax Act 2004
   - **Trade credit**
-  - **Trustee income** , in section 120K of this Act, has the same meaning as in section OB 1 of the Income Tax Act 2004
   - **unacceptable tax position** is defined in section 141B.
   - **Underestimation penalty**
   - **Unpaid tax** includes any amount of tax refunded under a tax law to the extent that the amount—under the tax law
@@ -1102,7 +1099,7 @@ An information holder who is required to disclose information in relation to a p
 Every recipient who receives from any payer a payment of resident withholding income, being interest, in respect of which no resident withholding tax deduction is required to be made because the payment was not made by the payer in the course of or furtherance of a taxable activity or because of the application of section NF 2(5) of the Income Tax Act 2004 shall, within 10 working days of receiving a request, by notice, from the payer, provide the payer with the recipient's tax file number.
 
 ### 28B Investor advising portfolio tax rate entity of portfolio investor rate
-[Repealed]
+An investor who notifies a portfolio tax rate entity that the prescribed investor rate for the investor and a portfolio calculation period is less than 33% must provide the investor's tax file number to the entity at the time of the notice
 
 ### 29 Shareholder dividend statement to be provided by company
 (1) A company that pays to a shareholder a dividend (not being a specified dividend) from which resident withholding tax has been deducted, or a dividend with an imputation credit or a dividend withholding payment credit attached or a conduit tax relief credit attached must give to the shareholder a shareholder dividend statement in a form approved by the Commissioner, showing—
@@ -1178,7 +1175,15 @@ A share user under a share-lending arrangement who pays a replacement payment to
   (d) is sent by post to the person at their last known place of abode or business.
 
 ### 31B Portfolio tax rate entity to give statement to investors and request information
-[Repealed]
+(1) A portfolio tax rate entity must give to a zero-rated portfolio investor in the entity a notice giving information that the Commissioner considers relevant for each tax year
+  (a)
+  (b)
+(2) A portfolio tax rate entity must give to an investor in the entity who has a portfolio investor exit period a notice giving information that the Commissioner considers relevant for each portfolio calculation period in which the portfolio exit period falls, if the portfolio calculation period is more than a day.
+(2B) A notice required by subsection (2) must be given by the end of the month following the quarter in which the portfolio investor exit period ends.
+(3) If subsections (1) and (2) do not apply to an investor in a portfolio tax rate entity, the entity must give to the investor in the entity a notice giving information that the Commissioner considers relevant—
+  (a) for each tax year; and
+  (b) by the 30 June after the end of the tax year.
+(4) A portfolio tax rate entity must at least once in each tax year give a notice to an investor in the entity requesting that the investor provide the entity with the investor's prescribed investor rate.
 
 ### 32 Records of specified charitable, benevolent, philanthropic, or cultural bodies
 (1) All gift-exempt bodies must keep in New Zealand sufficient records in the English language to enable the Commissioner to determine both the sources of donations made to them and the application, within New Zealand or within a country or territory outside New Zealand, of their funds.
@@ -1228,7 +1233,7 @@ A share user under a share-lending arrangement who pays a replacement payment to
 **Returns, etc**
 
 ### 33 Annual returns of income
-(1) In each tax year, a taxpayer, other than a taxpayer to whom section 33A applies, must furnish to the Commissioner a return of income in the prescribed form for the preceding tax year, together with such other particulars as may be prescribed.
+(1) In each tax year, a taxpayer, other than a taxpayer to whom section 33A applies or a portfolio tax rate entity, must furnish to the Commissioner a return of income in the prescribed form for the preceding tax year, together with such other particulars as may be prescribed.
 (1B) In an income year, a trust, society or institution to which section CW 34 or CW 35 of the Income Tax Act 2004 applies, may furnish to the Commissioner a return of income in the prescribed form for the preceding tax year, together with such other particulars as may be prescribed if the trust, society or institution receives a taxable Maori authority distribution.
 (2) A return must contain a notice of the assessment required to be made under section 92.
 (3) Subsection (2) does not apply if subsection (1B) applies.
@@ -1265,7 +1270,7 @@ A share user under a share-lending arrangement who pays a replacement payment to
     (x) Interest or a dividend that—
       (A) Does not have a New Zealand source; and
       (B) was not resident withholding income under section NF 2(1A)(b); and
-    (xi)
+    (xi) portfolio investor allocated income that is not excluded income; and
   (c) Does not receive income from employment from which a tax deduction is made and the amount of the tax deduction is determined in whole or in part by a special tax code certificate issued under section NC 14 of the Income Tax Act 2004; and
   (d) Is not issued a family certificate of entitlement for any part of the tax year; and
   (e) is not living in a marriage, civil union, or de facto relationship, with a person who is issued with a family certificate of entitlement for any part of the tax year; and
@@ -1327,7 +1332,7 @@ A return purporting to be made by or on behalf of any person shall for all purpo
 (3) Where a taxpayer or registered person, or agent of a taxpayer or registered person, transmits to the Commissioner in the prescribed electronic format the information contained in any return of the taxpayer or registered person in accordance with an approval given under subsection (1),—
   (a) The taxpayer or registered person shall retain or cause to be retained a hard-copy transcript of the information so transmitted; and
   (b) The hard-copy transcript shall be deemed to be the return of the taxpayer or registered person, and shall be signed by the taxpayer or registered person in accordance with section 40 and held by the taxpayer or registered person on behalf of the Commissioner; and
-  (ba) Paragraph (b) does not apply to an employer monthly schedule furnished electronically; and
+  (ba) Paragraph (b) does not apply to an employer monthly schedule or annual reconciliation statement under section 57B furnished electronically; and
   (c) The information transmitted to the Commissioner shall be treated for the purposes of this Act and the Goods and Services Tax Act 1985 as if it were a return furnished under such provisions of this Act or the Goods and Services Tax Act 1985 as relate to the kind of return in question.
 (4) In this section, registered person has the same meaning as in section 2(1) of the Goods and Services Tax Act 1985.
 
@@ -1337,7 +1342,8 @@ A return purporting to be made by or on behalf of any person shall for all purpo
 (3) A format prescribed under subsection (1) or (2) may relate to an employer, a class of employers, a PAYE intermediary, or a class of PAYE intermediaries and is subject to the conditions specified by the Commissioner, whether generally or in a particular case.
 
 ### 36AB Electronic format of returns by portfolio investment entity
-[Repealed]
+(1) The Commissioner must prescribe one or more electronic formats in which a return required under section 57B must be furnished by a portfolio tax rate entity or portfolio investor proxy.
+(2) A format prescribed under subsection (1) is subject to the conditions specified by the Commissioner, whether generally or in a particular case.
 
 ### 36B Other formats of employer monthly schedule
 (1) Despite section 36A(1), the Commissioner may authorise an employer that is required to furnish the employer monthly schedule in electronic format to furnish the schedule in a format that is not electronic if the employer's accounting system is incapable of providing the employer monthly schedule in a prescribed electronic format.
@@ -1405,18 +1411,37 @@ An employer that is not required to furnish an employer monthly schedule electro
 
 ### 38 Returns to annual balance date
 (1) Instead of furnishing a tax year return under section 33 on the basis of a corresponding income year that ends on 31 March, a taxpayer (other than a taxpayer to whom section 33A(1) or (5) applies) may, with the consent of the Commissioner, elect to furnish a return based on a corresponding income year that ends with the date of the annual balance of the taxpayer's accounts.
-(1B)
+(1B) A portfolio tax rate entity that does not make payments of tax under section HL 22 of the Income Tax Act 2004 must not make an election under subsection (1).
 (2)
 (3) Any election made by a taxpayer for the purposes of this section shall continue in force unless and until it is altered by the taxpayer with the prior approval in writing of the Commissioner.
 
 ### 39 Consequential adjustments on change in balance date
-(1) If the Commissioner approves a change to a new balance date that is earlier in the year than the original balance date, the change is effected by the taxpayer having a transitional income year of the period from the original balance date up to and including the new balance date in the next succeeding year.
-(2) If the Commissioner approves a change to a new balance date that is later in the year than the original balance date, the change is effected by the taxpayer having a transitional income year of the period from the original balance date up to and including the new balance date in the same year.
+(1) If the Commissioner approves a change to a new balance date that is earlier in the year than the original balance date, the change is effected by the taxpayer having a transitional year of the period from the original balance date up to and including the new balance date in the next succeeding year.
+(2) If the Commissioner approves a change to a new balance date that is later in the year than the original balance date, the change is effected by the taxpayer having a transitional year of the period from the original balance date up to and including the new balance date in the same year.
 (3) If the change in balance date means that a taxpayer has 2 corresponding income years for the same tax year, the figures for both corresponding income years are aggregated when the taxpayer's net income or net loss is determined.
 (4) For the purpose of giving effect to this section and section 38, the Commissioner may, for any corresponding income year, make any assessment that the Commissioner considers necessary.
 
 ### 39B Changes in return dates: taxpayers with provisional tax and GST liabilities
-[Repealed]
+(1) Subsection (2) applies if a provisional taxpayer—
+  (a) is a person registered under the Goods and Services Tax Act 1985, and pays GST on a 2-month cycle or a 6-month cycle; and
+  (b) elects under section 38(1) to change their balance date at some time in an income year; and
+  (c) moves from—
+    (i) a balance date in an even-numbered month to a balance date in another even-numbered month; or
+    (ii) a balance date in an odd-numbered month to a balance date in another odd-numbered month.
+(2) Until the new balance date is reached, the taxpayer must—
+  (a) continue with the due dates for their provisional tax instalments that applied before the change in balance date was approved; and
+  (b) apply sections MB 19 to MB 23, as relevant, and schedule 13, part B of the Income Tax Act 2004 for the transitional period to determine the due date and amount of an instalment.
+(3) Subsection (4) applies if a provisional taxpayer—
+  (a) is a person registered under the Goods and Services Tax Act 1985, and pays GST on a 2-month cycle or a 6-month cycle; and
+  (b) elects under section 38(1) to change their balance date at some time in an income year; and
+  (c) moves from—
+    (i) a balance date in an even-numbered month to a balance date in an odd-numbered month; or
+    (ii) a balance date in an odd-numbered month to a balance date in an even-numbered month.
+(4) Until the new balance date is reached, the taxpayer must—
+  (a) continue with the due dates for their provisional tax instalments that applied before the change in balance date was approved; and
+  (b) apply sections MB 20 to MB 23, as relevant, and schedule 13, part B of the Income Tax Act 2004 for the transitional period to determine the due date and amount of an instalment; and
+  (c) make an adjustment to their provisional tax liability for the income year for the part of the taxable period in which the new balance date falls.
+(5) If a change in balance date means that the taxpayer's taxable period is not aligned with their balance date, the Commissioner must make an adjustment to the taxable period under section 15B of the Goods and Services Tax Act 1985.
 
 ### 40 General requirements for returns
 (1) A return required to be furnished in writing must be—
@@ -1733,7 +1758,34 @@ Every authorised savings institution shall, not later than 15 May in each year,�
 (2) The return must be furnished to the Commissioner on or before the date by which returns of income are required under this Act.
 
 ### 57B Portfolio tax rate entities and portfolio investor proxies to make returns, file annual reconciliation statement
-[Repealed]
+(1) A person who is a portfolio tax rate entity or portfolio investor proxy in a tax year and who has not made an election under section HL 22 or HL 23 of the Income Tax Act 2004 for the tax year must perform the responsibilities referred to in subsection (4)—
+  (a) for a portfolio calculation period in the tax year; and
+  (b) by the end of the month beginning from the end of the month in which the portfolio calculation period ends.
+(2) A person who is a portfolio tax rate entity or portfolio investor proxy in a tax year and who has made an election under section HL 22 of the Income Tax Act 2004 for the tax year must perform the responsibilities of a provisional taxpayer under the provisional tax rules.
+(3) A person who is a portfolio tax rate entity or portfolio investor proxy in a tax year and who has made an election under section HL 23 of the Income Tax Act 2004 for the tax year must perform the responsibilities referred to in subsection (4),—
+  (a) for an investor with a portfolio investor exit period in the tax year,—
+    (i) for the portfolio investor exit period; and
+    (ii) by the end of the month beginning from the end of the month in which the portfolio investor exit period ends; and
+  (b) for the investors who hold portfolio investor interests at the end of the tax year,—
+    (i) for the tax year; and
+    (ii) by the end of the month beginning from the end of the tax year.
+(4) The responsibilities of a person for each period are to—
+  (a) file a return in the prescribed form showing—
+    (i) the amount of the portfolio entity tax liability of the person for the period; and
+    (ii)
+    (iii) further information that the Commissioner considers relevant; and
+  (b) pay an amount of income tax equal to the portfolio entity tax liability of the person for the period.
+(5) A person who is a portfolio tax rate entity or portfolio investor proxy in a tax year must file for the tax year a return in the prescribed form showing—
+  (a) the income tax paid by the person for the tax year; and
+  (b) further information that the Commissioner considers relevant.
+(6) A person required by subsection (5) to file a return must file the return—
+  (a) by 30 June of the calendar year in which the tax year ends, if—
+    (i) the person has a corresponding income year that does not end after the end of the tax year; and
+    (ii) the person is a portfolio tax rate entity or portfolio investor proxy at the end of that corresponding income year; or
+  (b) by the end of the second month following the month in which the corresponding income year for the portfolio tax rate entity ends, if—
+    (i) the portfolio tax rate entity has a corresponding income year that ends after the end of the tax year; and
+    (ii) the person is a portfolio tax rate entity or portfolio investor proxy at the end of that corresponding income year; or
+  (c) by the end of the second month following the month in which the entity ceases to be a portfolio tax rate entity or portfolio investor proxy, if the person ceases to be a portfolio tax rate entity or portfolio investor proxy in the corresponding year.
 
 ### 58 Returns of specified charitable, benevolent, philanthropic, or cultural bodies
 Every gift-exempt body shall furnish, on request, by notice, of the Commissioner, a return of its funds derived or received in any tax year and showing the source and application of those funds, together with such other particulars as may be required by the Commissioner.
@@ -3775,10 +3827,10 @@ An assessment made by the Commissioner is not invalidated—
   (a) The person defaults in furnishing the annual return of income required to be furnished for the immediately preceding tax year; or
   (b) The Commissioner is not satisfied with a return made by the person for any of the 2 immediately preceding tax years; or
   (c) The Commissioner has reason to believe that the person, although the person has not furnished a return, is a provisional taxpayer; or
-  (d) The Commissioner considers that any estimate of residual income tax furnished by a taxpayer pursuant to section MB 3 of the Income Tax Act 2004 was not fair and reasonable—
+  (d) The Commissioner considers that any estimate of residual income tax furnished by a taxpayer pursuant to section MB 6 of the Income Tax Act 2004 was not fair and reasonable—
     (i) At the time the estimate was furnished; or
-    (ii) On any instalment date.
-  (e)
+    (ii) On any instalment date; or
+  (e) the person is required, under sections MB 6(5) and MB 17(5) of the Income Tax Act 2004, to estimate their residual income tax for a tax year, and fails to provide an estimation or re-estimation to the Commissioner.
 (2) The Commissioner may at any time determine the amount that, in the opinion of the Commissioner, ought to be the provisional tax payable by a provisional taxpayer for a tax year (being an amount greater or lesser than the amount that would otherwise be payable) where—
   (a)
   (b) The Commissioner considers, by reason of any of sections HK 26(2), HK 26(3), LC 1, LC 4, and LC 5 of the Income Tax Act 2004, or by reason of any double tax agreement, that the provisional tax that would be payable by the person is excessive,
@@ -3832,15 +3884,17 @@ Nothing in this Part applies to—
         (A) The day after the due date for payment of the tax; or
         (B) Where the due date is a new due date or, in the case of GST, a later due date for payment of the tax, the day after the original due date for payment of the tax:
       (ii) If the Commissioner refunds or applies tax which should be kept and taken into account in respect of satisfying a taxpayer's tax liability at a due date, the day after the day the Commissioner refunds or applies the tax; and
-      (iii)
+      (iii) for a provisional taxpayer to whom section 120KE(7) applies, the day after whichever dates of instalments B, D, and F for their corresponding income year occur 30 days after their last ratio instalment date; and
     (b) for overpaid tax, other than GST or fringe benefit tax for the final quarter of a tax year, means the later of the following days—
-      (i) If a taxpayer pays too much tax by or after a due date—
+      (i) if a taxpayer pays too much tax by or after a due date and subparagraph (iv) does not apply—
         (A) The day after the later of the due date for payment of the tax and the date the payment is made; or
         (B) Where the due date is a new due date, the day after the later of the original due date for payment of the tax and the date on which the payment is made; and
       (ii) If a tax return is also to be provided in respect of the tax, the day after the tax return is provided; and
       (iii) For a taxpayer to whom section 80D applies, the date on which the initial income statement is issued; and
-      (iv)
-      (v)
+      (iv) for a provisional taxpayer other than one to whom section 120KE(1) or (3) applies, the first day of the income year; and
+      (v) for a provisional taxpayer to whom section 120KE(6) applies, the later of
+        (A) the day after the date set out in section MB 17(2) or MB 17(3), as applicable:
+        (B) the day after their last ratio instalment date; and
     (c) For a GST refund, means the latest of the following days:
       (i) The day after the earlier of—
         (A) The 15th working day after the taxpayer provides a tax return for the return period to which the GST refund relates; and
@@ -3927,61 +3981,71 @@ The Governor-General may from time to time, by Order in Council,—
 (2) The specific rules or applications specified in sections 120K to 120V do not apply to other Parts or sections of this Act, except where a tax law specifically provides that they do.
 
 ### 120K Instalments of and due dates for provisional tax
-(1) Except where this section requires otherwise, in a tax year, other than a transitional year, a provisional taxpayer's residual income tax is due and payable in equal instalments on each of the 3 instalment dates of the tax year.
-(2) Subsection (1) does not apply to new provisional taxpayers.
-(3) Other than in a transitional year, a new provisional taxpayer's residual income tax for a tax year is to be treated for the purpose of this Part as being due and payable—
-  (a) In equal instalments on each of the 3 instalment dates in the tax year, where the taxpayer is required by section MB 4(1) of the Income Tax Act 2004 to pay provisional tax in 3 instalments; and
-  (b) In 2 equal instalments on, respectively, the second instalment date and the third instalment date in the tax year, where the taxpayer is required by section MB 4(2) of the Income Tax Act 2004 to pay provisional tax in 2 instalments; and
-  (c) In one instalment on the third instalment date in the tax year, where the taxpayer is required by section MB 4(3) of the Income Tax Act 2004 to pay provisional tax in one instalment.
-(4) A provisional taxpayer's residual income tax for a tax year is due and payable in one instalment on the taxpayer's terminal tax date if—
-  (a) the provisional taxpayer is a natural person, other than in the person's capacity as a trustee; and
-  (b) the provisional taxpayer's residual income tax is less than $35,000 in the tax year; and
-  (c) the provisional taxpayer has not provided an estimate of the person's residual income tax under section MB 3 of the Income Tax Act 2004; and
-  (d) the provisional taxpayer has not, at any time during the tax year, held a valid certificate of exemption issued under section NF 9(12) of the Income Tax Act 2004.
-(4A) Other than a natural person to whom subsection (4) applies, a provisional taxpayer's residual income tax for a transitional year is due and payable as follows:
-  (a) on the instalment date or dates occurring after the new provisional taxpayer's first business day in accordance with section MB 5A of the Income Tax Act 2004:
-  (b) subject to paragraph (c), the amount payable on the instalment dates determined in paragraph (a) is calculated according to the formula: 4 X RIT/m where—
-    (RIT) is the residual income tax for the transitional year; and
-    (m) is the number of months in the transitional year:
-  (c) the amount payable on a final instalment date is determined in accordance with section MB 5A of the Income Tax Act 2004, being the residual income tax for the tax year less any amount of residual income tax treated as due on an instalment date determined under paragraph (b).
-(4AB) A new provisional taxpayer's residual income tax for a transitional year is due and payable as follows:
-  (a) on the instalment date or dates occurring after the new provisional taxpayer's first business day in accordance with section MB 5A of the Income Tax Act 2004, other than a date that is not more than 30 days after the new provisional taxpayer's first business day:
-  (b) subject to paragraph (c), the amount payable on the instalment dates determined in paragraph (a) is calculated according to the formula: 4 X RIT/m where—
-    (RIT) is the residual income tax for the transitional year; and
-    (m) is the number of months in the transitional year:
-  (c) the amount payable on a final instalment date is determined in accordance with section MB 5A of the Income Tax Act 2004, being the residual income tax for the tax year less any amount of residual income tax treated as due on an instalment date determined under paragraph (b).
-(4B) A provisional taxpayer to whom subsection (4) applies—
-  (a) Is not liable for use of money interest under section 120D for unpaid tax from the due date for payment of provisional tax under either section MB 5 or section MB 5A of the Income Tax Act 2004 until the terminal tax date (both dates inclusive); and
-  (b) Is not entitled to use of money interest under section 120D for overpaid tax from the due date for payment of provisional tax under either section MB 5 or section MB 5A of the Income Tax Act 2004 until the terminal tax date (both dates inclusive).
-(4BA) Subsection (4B) applies to the 1997-98 and subsequent tax years, except if a taxpayer has notified the Commissioner in writing or filed a return of income before 23 August 1999 on the basis that section 120K(4B), as it was before the date on which the Taxation (Remedial Matters) Act 1999 received the Royal assent, applied to the taxpayer.
-(4C) Notwithstanding section 59(3), subsection (4B) is deemed to apply to the 1997-98 tax year.
-(5) In this section—
-  - **Person incorrectly assumed to be a provisional taxpayer**
-  - **Residual income tax** means a person's residual income tax for a tax year, within the meaning of section OB 1 of the Income Tax Act 2004,—
-    (a) As increased by an amount calculated in relation to the person and the tax year under section KD 4(2)(c) of the Income Tax Act 2004; or
-    (b) As reduced by an amount calculated in relation to the person and the tax year under section KD 4(2)(d) of the Income Tax Act 2004.
+[Repealed]
 
 ### 120KB Provisional tax instalments and due dates generally
-[Repealed]
+(1) This section applies—
+  (a) in a tax year other than a transitional year:
+  (b) to a provisional taxpayer who is not a new provisional taxpayer.
+(2) A provisional taxpayer's residual income tax is due and payable as set out in section MB 8 of the Income Tax Act 2004.
+(3) If a provisional taxpayer uses a GST ratio to determine the amount of provisional tax payable, and an adjustment to a base amount referred to in section MB 7 of the Income Tax Act 2004 will, or is likely to, change the amount payable, the taxpayer may ask the Commissioner to make the adjustment and reassess their liability.
+(4) For the purposes of this section and sections 120KC to 120KE, residual income tax means a person's residual income tax for a tax year as defined in section OB 1 of the Income Tax Act 2004—
+  (a) as increased by an amount calculated in relation to the person and the income year under section KD 4(2)(c) of the Income Tax Act 2004; or
+  (b) as reduced by an amount calculated in relation to the person and the income year under section KD 4(2)(d) of the Income Tax Act 2004.
 
 ### 120KC Residual income tax of new provisional taxpayer
-[Repealed]
+(1) In a tax year other than a transitional year, and for the purposes of this Part, a new provisional taxpayer's residual income tax is treated as due and payable—
+  (a) in 3 equal instalments on the interest instalment dates B, D, and F for the taxpayer's corresponding income year, if section MB 8(8)(a) of the Income Tax Act 2004 applies:
+  (b) in 2 equal instalments on the interest instalment dates C and F for the taxpayer's corresponding income year if section MB 8(8)(b) applies:
+  (c) in 1 instalment on the interest instalment date F for the taxpayer's corresponding income year, if section MB 8(8)(c) applies.
+(2) In this section, a reference to an instalment classified by the letters A to F is a reference to an instalment date in the table in schedule 13, part A of the Income Tax Act 2004 on which an instalment of provisional tax is payable by a provisional taxpayer for an income year that corresponds to a tax year.
+Example: Section 120KC Mr Yellow, who has a March balance date, decides to change to a May balance date. The transitional year is 14 months long. He starts business on 31 July, estimating provisional tax at $15,000 for the income year. At the end of the year, Mr Yellow's residual income tax is $20,000. He is not subject to GST.2007 2008 Transitional yearApr May Jun Jul Aug Sept Oct Nov Dec Jan Feb Mar Apr May Jun starts business (no instalment) first instalment second instalment (final instalment)Instalments in transitional year: 28th day of 5th, 9th, and 13th months after balance date, and final instalment on 28th day of month following fmal month in transitional year (s MB 20(2) and schedule 13, part B Income Tax Act 2004). But first business day falls within 30 days of the date that would be the first instalment, 28 August (s MB 20(4)(a) of that Act), so no instalment is due. The April instalment only is due on 7 May. Amounts payable on the instalment dates are calculated under s MB 22 of that Act. First instalment due 15 January: $15,000 x 4/14 = $4,285 Second instalment due 7 May: $15,000 x 8/14 - $4,285 = $4,286 Final instalment due 28 June: $15,000 - $8,571 = $6,429. Three interest start dates apply: 16 January, 29 April, and 29 June (s 20KD(2)). First instalment 15 January on RIT: $20,000 x 4/14 = $5,714 interest payable from 16 January on: ($5,714 - $4,285) = $1,429 Second instalment 7 May on RIT: $20,000 x 4/14 = $5,714 interest payable from 8 May on: ($5,714 - $4,286) = $1,428 Final instalment 28 June on RIT: $20,000 - ($5,714 + $5,714) = $8,572 interest payable from 29 June on RIT: ($8,572 - $6,429) = $2,143.
 
 ### 120KD Provisional tax instalments in transitional years
-[Repealed]
+(1) For a transitional year to which schedule 13, part B of the Income Tax Act 2004 applies, the residual income tax of a provisional taxpayer, other than a person to whom section 120KE(1) applies, is due and payable as determined under sections MB 20 to MB 23 of the Income Tax Act 2004.
+(2) A provisional taxpayer in a transitional year is liable for use of money interest for unpaid tax in relation to the instalments of provisional tax payable in the months set out in schedule 13, part B of the Income Tax Act 2004. The date interest starts is the day after the 28th day of the month on which an instalment is payable.
+(3) For the purposes of calculating the amount of interest due in relation to an instalment of provisional tax other than a final instalment, the amount of residual income tax payable on the instalment date is calculated using the formula—residual income tax x instalment periodmonths in transitional year.
+(4) In the formula, the instalment period is either
+  (a) 4, for provisional taxpayers who pay on the equivalent of instalment dates B, D, and F; or
+  (b) 6, for provisional taxpayers who pay on the equivalent of instalment dates C and F.
+(5) For the purposes of calculating the amount of interest due in relation to a final instalment of provisional tax, the amount of residual income tax payable is the residual income tax for the tax year minus any amount treated as due on an instalment date referred to in subsection (3).
+(6) In this section, a provisional taxpayer includes a new provisional taxpayer.
+Example: Section 120KDDr Beige starts the income year (March balance date) using a GST ratio to determine the amount of provisional tax payable. He makes payments in June and August. On 10 September 2007, Dr Beige decides to change his determination method. He must then estimate his residual income tax for the income year (s MB 17(5) Income Tax Act 2004), and pay 2 instalments under the estimation method on instalment dates D and F (s MB 6(5) of that Act). Dr Beige provides a return for the income year that shows residual income tax of $30,000. Four interest start dates apply: for credit interest, the interest start date is 11 September 2007 (s 120KE(6)): for debit interest, the interest start dates are: 11 September for unpaid instalments under the GST ratio method (s 120KE(7)) 16 January 2008 for unpaid instalments under estimation method (s 120C(1)(a)(i)(A)) 8 May 2008 for unpaid instalments under estimation method (s 120C(1)(a)(i)(A)). 2007 2008-01-22 Apr May Jun Jul Aug Sept Oct Nov Dec Jan Feb Mar Apr May Ratio payments $2,000 $2,500 Changes determination method on 10 September Estimates provisional tax for year of $10,500 Estimate instalments $3,000 Files return for year and RIT is $30,000 Balance is $25,500 ($30,000 - $4,500) Estimation instalments: interest calculated on unpaid tax of: on 16 Jan 2008 on $9,750 ($12,750 - $3,000) (s 120C(2)(b)) on 8 May 2008 on $9,750 ($12,750 - $3,000) (s 120C(2)(b)).
 
 ### 120KE Provisional tax and rules on use of money interest
-[Repealed]
+(1) A provisional taxpayer's residual income tax for a tax year is due and payable in 1 instalment on their terminal tax date if—
+  (a) they are a natural person, other than in their capacity as trustee; and
+  (b) their residual income tax is less than $35,000 for the tax year; and
+  (c) they have not estimated their residual income tax under section MB 6 of the Income Tax Act 2004 for the tax year; and
+  (d) they have not used a GST ratio under section MB 7 of the Income Tax Act 2004 in the tax year to determine the amount of provisional tax payable for the tax year; and
+  (e) they have not at any time in the tax year held a valid certificate of exemption under section NF 9(12) of the Income Tax Act 2004.
+(2) When subsection (1) applies, in relation to the payment of provisional tax under section MB 8(2) or (4) or MB 20, the provisional taxpayer—
+  (a) is not liable for use of money interest under section 120D for unpaid tax until their terminal tax date:
+  (b) is not entitled to use of money interest under section 120D for overpaid tax until their terminal tax date.
+(3) A provisional taxpayer's residual income tax for a tax year is due and payable in 1 instalment on their terminal tax date if—
+  (a) they use a GST ratio to determine the amount of provisional tax payable for the tax year; and
+  (b) they use the GST ratio as the determination method for the whole of the corresponding income year.
+(4) When subsection (3) applies, in relation to the amount of provisional tax paid or payable for the period in the corresponding income year in which the GST ratio is used, the provisional taxpayer—
+  (a) is not liable for use of money interest under section 120D for unpaid tax until their terminal tax date:
+  (b) is not entitled to use of money interest under section 120D for overpaid tax until their terminal tax date.
+(5) Subsections (6) and (7) apply if, under section MB 17 of the Income Tax Act 2004, a provisional taxpayer changes the way they determine the amount of provisional tax.
+(6) For credit interest, the taxpayer is entitled to use of money interest from the later of—
+  (a) the day after the date set out in section MB 17(2) or (3), as applicable:
+  (b) the day after their last ratio instalment date.
+(7) For debit interest, the taxpayer is liable for use of money interest—
+  (a) for the period of the tax year in which they use the GST ratio, from the later of the dates set out in subsection (6):
+  (b) for the period of the tax year in which they estimate their provisional tax, from whichever dates of instalments B, D, and F for their corresponding income year occur 30 days after their last ratio instalment date.
+(8) In this section, a reference to an instalment classified by the letters A to F is a reference to a date in the table in schedule 13, part A of the Income Tax Act 2004 on which an instalment of provisional tax is payable by a provisional taxpayer for an income year that corresponds to a tax year.
 
 ### 120L Meaning of unpaid tax and overpaid tax for provisional tax purposes
-(1) For the purposes of determining amounts of unpaid tax and overpaid tax in respect of instalment dates for a tax year, a taxpayer's residual income tax is to be calculated in accordance with the definition of that term in section 120K.
+(1) For the purposes of determining amounts of unpaid tax and overpaid tax in respect of instalment dates for a tax year, a taxpayer's residual income tax is to be calculated in accordance with the definition of that term in section 120KB(4).
 (2) If a taxpayer makes a payment and does not specify how the payment is to be applied, the Commissioner must apply the payment towards the provisional tax that is due on an instalment date to which the Commissioner considers the payment relates
 (3) If the taxpayer makes a payment and specifies that it is made to meet their provisional tax due on an instalment date, the Commissioner must apply the payment towards the provisional tax specified by the taxpayer.
 
 ### 120M Where provisional tax paid by company does not count as overpaid tax
 No amount of tax paid by a company is to be treated as overpaid tax to the extent that—
   (a) The tax is provisional tax paid by the company for a tax year in excess of the company's residual income tax for the tax year, and is retained by the Commissioner under section MD 2 of the Income Tax Act 2004 at any time after the company would, but for that section, be entitled to a refund of the tax; or
-  (b) The tax would not be in excess of the company's residual income tax for a tax year, but for the payment of an instalment of provisional tax being satisfied by an amount of further income tax in accordance with section MB 10 of the Income Tax Act 2004.
+  (b) The tax would not be in excess of the company's residual income tax for a tax year, but for the payment of an instalment of provisional tax being satisfied by an amount of further income tax in accordance with section MB 37 of the Income Tax Act 2004.
 
 ### 120N Variation to definition of date interest starts for provisional tax
 Where the due date for the payment of tax is an instalment date for provisional tax, the definition of date interest starts is to be construed as if the words the later of the following days and subparagraph (ii) were omitted from paragraph (b) of that definition.
@@ -4040,7 +4104,7 @@ The definition of date interest starts is to be construed as if the words the la
 If a taxpayer sets off a foreign investor tax credit against its income tax liability for an earlier income year under section LE 2(4)(b) of the Income Tax Act 2004, the amount set off does not reduce the taxpayer's tax payable for that year for the purpose of this Part.
 
 ### 120Q Due date for underestimation penalty tax
-For the purposes of this Part, the due date for the payment by a taxpayer of underestimation penalty tax is deemed to be the taxpayer's third instalment date.
+For the purposes of this Part, the due date for the payment by a taxpayer of underestimation penalty tax is deemed to be the date of instalment F set out in schedule 13, part A of the Income Tax Act 2004, for the taxpayer's corresponding income year.
 
 ### 120R Special provision for dividend withholding payments
 (1) For the purposes of this Part, in determining if a taxpayer has paid a dividend withholding payment,—to the extent the election or allocation alters the taxpayer's income tax liability for an income year that precedes the election income year or allocation income year, as the case may be (the extent of the alteration being called the affected tax), the taxpayer is not required by this Part to pay interest on the affected tax before the taxpayer's terminal tax date for the election income year or allocation income year.
@@ -4460,7 +4524,7 @@ The purposes of this Part are—
     (i) an annual tax return:
     (ii) an annual imputation return required to be furnished under section 69(1) and (1B)(a):
     (iii) a reconciliation statement:
-    (iiib)
+    (iiib) a return required to be furnished under section 57B:
     (iv) an employer monthly schedule; and
   (b) The Commissioner notifies the taxpayer that the penalty is payable.
 (3) The late filing penalty for an annual tax return for a taxpayer with net income—
@@ -4475,9 +4539,9 @@ The purposes of this Part are—
 ### 139AA Non-electronic filing penalty
 (1) This section applies to—
   (a) an employer who must comply, in a prescribed electronic format, with section NC 15(1)(a) and NC 15(1)(b) of the Income Tax Act 2004; and
-  (ab)
+  (ab) a portfolio investment entity; and
   (b) a PAYE intermediary.
-(2) An employer or a PAYE intermediary is liable to a non-electronic filing penalty if the employer or the PAYE intermediary furnishes the employer monthly schedule in a format that is not prescribed.
+(2) A person who is an employer, a portfolio investment entity, a portfolio investor proxy, or a PAYE intermediary is liable to a non-electronic filing penalty if the person furnishes a return required to be in electronic format in a format that is not prescribed.
 (3) Subsection (2) does not apply if the employer is authorised under section 36B(1) to furnish the employer monthly schedule in a format that is not prescribed.
 (4) The non-electronic filing penalty is the greater of $250 or $1 for each employee employed at any time during the month to which the employer monthly schedule relates.
 
@@ -4514,21 +4578,25 @@ The purposes of this Part are—
 (6) If financial relief is not given, the Commissioner must impose those late payment penalties not imposed as if the request for financial relief had not been made.
 
 ### 139C Late payment penalty and provisional tax
-(1) A late payment penalty will only arise on provisional tax that is unpaid at the expiry of an instalment date, or a Commissioner-set instalment date, to the extent that the provisional tax payable exceeds the provisional tax paid.
-(1B)
-(1C)
+(1) A late payment penalty will only arise on provisional tax that is unpaid at the expiry of an instalment date, or a Commissioner-set instalment date, to the extent that the provisional tax payable exceeds the provisional tax paid. Subsection (1B) overrides this subsection.
+(1B) Subsection (1C) applies if—
+  (a) a person makes an election under section MB 11 of the Income Tax Act 2004 that an amount of a GST refund (elected amount) be used to pay an amount of provisional tax due on an instalment date; and
+  (b) the Commissioner reassesses the amount of the GST refund as being less than the elected amount.
+(1C) The person is not liable for a late payment penalty in relation to the amount of any shortfall in the person's payment of provisional tax that arises as a result of the reassessment referred to in subsection (1B) until—
+  (a) the date that is 30 days after the date on which the Commissioner gives notice of the reassessment, if the Commissioner does not set a date under paragraph (b); or
+  (b) a date set by the Commissioner that is later than the date referred to in paragraph (a).
 (2) In subsection (1)—
   - **Commissioner-set instalment date** means a date specified by the Commissioner under section 119(4)(a)
   - **Provisional tax paid** , in respect of an instalment date or a Commissioner-set instalment date, means the amount of provisional tax paid by the provisional taxpayer on or before the instalment date or Commissioner-set instalment date, in relation to that instalment date or Commissioner-set instalment date; and includes any amount of provisional tax—
     (a) Paid in excess of the amount of provisional tax payable on any earlier instalment date or Commissioner-set instalment date for that tax year; and
     (b) Not credited to the amount of provisional tax payable on any earlier instalment date or Commissioner set instalment date for that tax year:
   - **Provisional tax payable** —
-    (a) in respect of an instalment date and a taxpayer to whom section MB 5 of the Income Tax Act 2004 applies, means the lesser of:
-      (i) the amount calculated as payable under section MB 5 of that Act ; and
-      (ii) the amount calculated as payable under MB 5 of that Act if the taxpayer's residual income tax is substituted for the amount of provisional tax payable under section MB 2 of that Act:
-    (aa) in respect of an instalment date and a taxpayer to whom section MB 5A of the Income Tax Act 2004 applies, means the lesser of—
-      (i) the amount calculated as payable under section MB 5A of that Act; and
-      (ii) the amount calculated as payable under section MB 5A of that Act if the taxpayer's residual income tax is substituted for item p of the formulae in section MB 5A(5) and section MB 5A(7) of that Act).
+    (a) in respect of an instalment date and a taxpayer to whom section MB 9 of the Income Tax Act 2004 applies, means the lesser of:
+      (i) the amount calculated as payable under section MB 9 of that Act ; and
+      (ii) the amount calculated as payable under section MB 9 of that Act if the taxpayer's residual income tax is substituted for the amount of provisional tax payable under section MB 4 of that Act:
+    (aa) in respect of an instalment date and a taxpayer to whom sections MB 9 and MB 20 of the Income Tax Act 2004 applies, means the lesser of—
+      (i) the amount calculated as payable under sections MB 9 and MB 20 of that Act; and
+      (ii) the amount calculated as payable under sections MB 9 and MB 20 of that Act if the taxpayer's residual income tax is substituted for item residual income tax in the formula in section MB 9(2) of that Act.
     (b) In respect of a Commissioner-set instalment date, means the provisional tax payable on the Commissioner-set instalment date in accordance with section 119(4)(a).
 
 ### 140 Where another person deducts and pays resident withholding tax
@@ -4563,18 +4631,18 @@ For the purposes of determining a person's liability to pay a late payment penal
   (a) The provisions listed in section OB 6(3)(a) to (o) of the Income Tax Act 2004; or
   (b) The dividend withholding payment rules; or
   (c) subpart MF of the Income Tax Act 2004; or
-  (d) Calculating a taxpayer's residual income tax liability for the purposes of section 120K of this Act.
+  (d) Calculating a taxpayer's residual income tax liability for the purposes of sections 120KB to 120KE of this Act.
 (3) Nothing in the dividend withholding payment rules is to be construed so as to include dividend withholding payment penalty tax within the meaning of income tax or tax for the purposes of—
   (a) The provisions listed in section OB 6(3)(a) to (o) of the Income Tax Act 2004; or
   (b) The imputation rules; or
   (c) subpart MF of the Income Tax Act 2004; or
-  (d) Section 120K of this Act.
+  (d) sections 120KB to 120KE of this Act.
 
 ### 140DB Application of other provisions of Act to Maori authority distribution penalty tax
 (1) Subject to the Maori authority rules, the other provisions of this Act and the Income Tax Act 1994, so far as they apply and with any necessary modifications, apply to Maori authority distribution penalty tax as if it were income tax imposed under section BB 1 of the Income Tax Act 2004.
 (2) Despite subsection (1), Maori authority distribution penalty tax is not included within the meaning of income tax or tax for the purpose of—
   (a) subpart HI or MK of the Income Tax Act 2004; or
-  (b) calculating a taxpayer's residual income tax liability for the purpose of section 120K of this Act.
+  (b) calculating a taxpayer's residual income tax liability for the purpose of sections 120KB to 120KE of this Act.
 
 ### 141 Tax shortfalls
 (1) Tax shortfalls are to be calculated by the Commissioner in accordance with this section.
@@ -4698,7 +4766,9 @@ For the purposes of determining a person's liability to pay a late payment penal
 (4) The penalty payable for evasion or a similar act described in subsection (1) is 150% of the resulting tax shortfall.
 
 ### 141EA Shortfall penalty and provisional tax
-[Repealed]
+Despite sections 141A to 141E, a provisional taxpayer who uses a GST ratio in a tax year to determine the amount of an instalment of provisional tax payable for the tax year is not liable to pay a shortfall penalty in the following circumstances:
+  (a) the taxpayer pays by the instalment date the amount, determined using the GST ratio, of the instalment but underpays their annual liability:
+  (b) the taxpayer pays by the instalment date the amount, determined using the GST ratio, of the instalment but the GST ratio is changed after the instalment date by a reassessment of their residual income tax.
 
 ### 141EB Promoter penalties
 (1) The promoter of an arrangement is liable to a promoter penalty if—
@@ -5569,7 +5639,7 @@ Despite sections 173L and 173M, if a taxpayer makes a request to transfer a refu
   (c) the request is actioned before an assessment is made under Part 6.
 (2) The excess provisional tax that may be transferred on a particular date (date A) is calculated according to the formula:provisional tax paid — refunds — provisional tax liabilitywhere—
   (provisional tax paid) is the provisional tax paid for a tax year on or before date A, including:
-    (a) voluntary payments made under section MB 6 of the Income Tax Act 2004; and
+    (a) voluntary payments made under section MB 12 of the Income Tax Act 2004; and
     (b) tax transferred to the taxpayer:
   (refunds) are the refunds of the provisional tax that are paid to the taxpayer on or before date A, including transfers by the taxpayer or offsets by the Commissioner against unpaid tax:
   (provisional tax liability) is the provisional tax payable by date A.
@@ -5580,9 +5650,9 @@ Despite sections 173L and 173M, if a taxpayer makes a request to transfer a refu
   (a) a taxpayer or their agent requests a transfer allowed by section 173L, section 173M(2)(a) to 173M(2)(f), or section 173M(3); and
   (b) on the date that the Commissioner actions the request, the taxpayer—
     (i) has paid provisional tax for a tax year based on an estimate of their residual income tax and, as a result of a revised estimate for the year, the taxpayer has paid more provisional tax than the revised estimate for the year; or
-    (ii) pays provisional tax for a tax year in accordance with section MB 2(1)(a) or section MB 2(1)(b) of the Income Tax Act 2004 and, as a result of estimating their residual income tax for the year, the taxpayer has paid more provisional tax than the estimated residual income tax for the year; and
+    (ii) pays provisional tax for a tax year in accordance with section MB 4(3) of the Income Tax Act 2004 and, as a result of estimating their residual income tax for the year, the taxpayer has paid more provisional tax than the estimated residual income tax for the year; and
   (c) the request is actioned before an assessment is made under Part 6.
-(2) The excess provisional tax that may be transferred on a particular date (date A) is calculated according to the formula:provisional tax paid — refunds — estimated RITwhere—provisional tax paidis the provisional tax paid for a tax year on or before date A, including:(a) voluntary payments made under section MB 6 of the Income Tax Act 2004; and(b) tax transferred to the taxpayer:refundsare the refunds of the provisional tax that are paid to the taxpayer on or before date A, including transfers by the taxpayer or offsets by the Commissioner against unpaid tax:estimated RITis the taxpayer's estimated residual income tax or revised estimated residual income tax that would be due by date A for the purpose of calculating interest under Part 7, calculated as if the estimated residual income tax or revised estimated residual income tax were residual income tax and section 120K(4) did not apply.
+(2) The excess provisional tax that may be transferred on a particular date (date A) is calculated according to the formula:provisional tax paid — refunds — estimated RITwhere—provisional tax paidis the provisional tax paid for a tax year on or before date A, including:(a) voluntary payments made under section MB 12 of the Income Tax Act 2004; and(b) tax transferred to the taxpayer:refundsare the refunds of the provisional tax that are paid to the taxpayer on or before date A, including transfers by the taxpayer or offsets by the Commissioner against unpaid tax:estimated RITis the taxpayer's estimated residual income tax or revised estimated residual income tax that would be due by date A for the purpose of calculating interest under Part 7, calculated as if the estimated residual income tax or revised estimated residual income tax were residual income tax and section 120KE(1) did not apply.
 (3) The Commissioner must not transfer an amount on date A if, as a result,—
   (a) a taxpayer to whom subsection (1)(b)(i) applies would not have paid, on a date (date B) that falls after date A, the amount of their revised estimated residual income tax that would have been due on date B under Part VII, calculated as if the revised estimated residual income tax were residual income tax and section 120K(4) did not apply, unless the taxpayer requests a transfer back to their account on or before date B; or
   (b) a taxpayer to whom subsection (1)(b)(ii) applies would not have paid, on a date (date B) that falls after date A, the amount of their estimated residual income tax that would have been due on date B under Part 7, calculated as if the estimated residual income tax were residual income tax and section 120K(4) did not apply, unless the taxpayer requests a transfer back to their account on or before date B.
@@ -5596,10 +5666,10 @@ Despite sections 173L and 173M, if a taxpayer makes a request to transfer a refu
   (b) on the date that the Commissioner actions the request, the taxpayer has paid more provisional tax than the taxpayer's residual income tax for a tax year.
 (2) The excess provisional tax that may be transferred on a particular date (date A) is calculated according to the formula:provisional tax paid — refunds — residual income taxwhere—
   (provisional tax paid) is the provisional tax paid for the tax year on or before date A, including:
-    (a) voluntary payments made under section MB 6 of the Income Tax Act 2004; and
+    (a) voluntary payments made under section MB 12 of the Income Tax Act 2004; and
     (b) tax transferred to the taxpayer:
   (refunds) are the refunds of the provisional tax that are paid to the taxpayer on or before date A, including transfers by the taxpayer or offsets by the Commissioner against unpaid tax:
-  (residual income tax) is the taxpayer's residual income tax that would be due by date A for the purpose of calculating interest under Part 7, calculated as if section 120K(4) did not apply.
+  (residual income tax) is the taxpayer's residual income tax that would be due by date A for the purpose of calculating interest under Part 7, calculated as if section 120KE(1) did not apply.
 (3) The Commissioner must not transfer an amount on date A if, as a result, the taxpayer would be liable to pay interest on unpaid tax under Part 7 or would have a late payment penalty imposed under Part 9 in respect of their provisional tax payments for the tax year on a date (date B) that falls after date A, unless the taxpayer requests a transfer back to their account so as to prevent interest or a late payment penalty being imposed on date B in respect of their provisional tax payments.
 (4) The amount that may be transferred under subsection (2) may not be more than the net provisional tax paid for a tax year less the residual income tax for the year.
 
@@ -6148,3 +6218,159 @@ The person who, on 1 April 1995, holds office as Commissioner of Inland Revenue 
   (d) A District Commissioner of Stamp Duties—
 
 ## Schedule Schedule — Inland Revenue Acts
+
+### 1 Title
+This Act is the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006.
+
+### 2 Commencement
+(1) This Act comes into force on the date on which it receives the Royal assent, except as provided in this section.
+(2) Sections 267 and 279(6) are treated as coming into force on 1 April 1995.
+(3) Sections 274 and 278 are treated as coming into force on 1 April 2003.
+(4) Section 231 is treated as coming into force on 25 November 2003.
+(5) Sections 121 and 122 are treated as coming into force on 4 June 2004.
+(6) Section 281 is treated as coming into force on 1 July 2004.
+(7) Sections 230(1), 234, and 270 are treated as coming into force on 21 December 2004.
+(8) Sections 11(1), 12, 40, 57, 65, 80, 93, 104, 105, 143(5), 180(1), (2), and (3), 187, 191(9), (12), (21), (49), and (60), 193, 199, 202, 206, 207, 208, 210(19), 211(1) to (4) and (6) to (8), 212, 223 to 229, 237, 240, 257, 284(1) and (3), 287(4) and (5), and 303 are treated as coming into force on 1 April 2005.
+(9) Section 73 is treated as coming into force on 19 May 2005.
+(10) Sections 144(1) and (7), 146, and 191(5) are treated as coming into force on 21 July 2005.
+(11) Sections 13, 15(2) and (3), 21, 22, 23, 25, 50, 51, 53, 68, 75, 81, 83(2), 84, 85, 87, 88, 94, 95, 100, 106, 113, 116, 117(1) and (2), 120, 123, 141, 150, 188, 191(10), (15), (17), (18) to (20), (43), (46), (47), (53), (57), and (69), and 198 are treated as coming into force on 1 October 2005.
+(12) Section 191(2) and (72) is treated as coming into force on 21 December 2005.
+(13) Sections 8(2), 15(1), 16, 17, 28, 29 to 37, 45, 91, 92, 97, 98, 111, 125, 131 to 134, 166 to 178, 191(6), (11), (22), (31), (51), and (70), 194(1) and (2), 197(a), and 200 come into force on 1 April 2006.
+(14) Sections 7, 8(1), 14, 20, 39, 41, 44, 59, 66, 67, 83(1), 86, 110, 112, 124, 128 to 130, 142, 143(1) and (3), 145, 147(2) and (4), 148(1) and (3), 152, 153, 155, 156, 179, 180(1) and (6), 181 to 184, 185(1), 186, 191(8), (27), (28), (38), (40), (42), (52), (55), (58), and (59), 197(b), 205, and 214 come into force on 1 July 2006.
+(15) Sections 5, 42, 43, 103, 108, 117(3), 119, 191(48), (54), and (68), 210(3), (9), and (11), 211(2), (5), (7), (8)(a), and (9), 221, 222, 230(2), 254, 255, and 256 come into force on 1 October 2006.
+(16) Sections 292, 293, and 297(1)(a) come into force on 31 March 2007.
+(17) Section 180(7) comes into force on 1 April 2007.
+(18) Sections 77, 114, 115, 118, 137 to 140, 143(2) and (4), 147(1) and (3), 148(2), 149, 160 to 163, 165, 190, 191(4), (7), (16), (26), (29), (30), (44), (45), (50), (56), (61), and (65) to (67), 194(3), 204, 210(4), (5) to (7), (8), (10), (12), (14), (17), and (18), 217, 218, 241 to 251, 258 to 260, 283(4) to (9), 291, 294 to 296, and 300 come into force on 1 October 2007.
+(19) Sections 18, 19, 26, 47, 49, 127, 192, 215, 216, and 297(1)(b) come into force on 1 April 2008.
+(20) Sections 61 to 64, 101, 301, and 302 come into force on 1 August 2006.
+
+## Part 2 — Amendments to Tax Administration Act 1994
+
+### 210 Interpretation
+(1) This section amends section 3.
+(2) Subsections (3) to (18) amend 3(1).
+(3) Amendment incorporated in the principal Act
+(4) Amendment incorporated in the principal Act
+(5) Amendment incorporated in the principal Act
+(6) Amendment incorporated in the principal Act
+(7) Amendment incorporated in the principal Act
+(8) Amendment incorporated in the principal Act
+(9) Amendment incorporated in the principal Act
+(10) Amendment incorporated in the principal Act
+(11) Amendment incorporated in the principal Act
+(12) Amendment incorporated in the principal Act
+(13) Amendments incorporated in the principal Act
+(14) Amendment incorporated in the principal Act
+(15) Amendment incorporated in the principal Act
+(16) Amendment incorporated in the principal Act
+(17) Amendment incorporated in the principal Act
+(18) Amendment incorporated in the principal Act
+(19) Amendments incorporated in the principal Act
+(20) Subsection (19) applies for income years corresponding to the 2005–06 and subsequent tax years.
+(21) Subsection (13) applies for an initiating notice that is issued
+  (a) in relation to a GST return period commencing on or after 1 April 2005:
+  (b) on or after 1 April 2005, if the initiating notice is issued other than in relation to a GST return period.
+(22) Subsections (4), (5) to (7), (8), (10), (12), (14), (17), and (18) apply for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 217 Consequential adjustments on change in balance date
+(1) Amendment incorporated in the principal Act
+(2) Subsection (1) applies for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 218 New section 39B inserted
+(1) Amendment incorporated in the principal Act
+(2) Subsection (1) applies for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 241 Commissioner may determine amount of provisional tax
+(1) Amendments incorporated in the principal Act
+(2) Subsection (1) applies for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 242 Definitions
+(1) Amendments incorporated in the principal Act
+(2) Subsection (1) applies for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 243 Section 120K replaced
+(1) Amendments incorporated in the principal Act
+(2) Subsection (1) applies for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 244 Meaning of unpaid tax and overpaid tax for provisional tax purposes
+(1) Amendment incorporated in the principal Act
+(2) Subsection (1) applies for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 245 Where provisional tax paid by company does not count as overpaid tax
+(1) Amendment incorporated in the principal Act
+(2) Subsection (1) applies for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 246 Due date for underestimation penalty tax
+(1) Amendment incorporated in the principal Act
+(2) Subsection (1) applies for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 247 Late payment penalty and provisional tax
+(1) Amendment incorporated in the principal Act
+(2) Amendments incorporated in the principal Act
+(3) Amendments incorporated in the principal Act
+(4) Subsections (1) to (3) apply for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 248 Application of other provisions of Act to imputation penalty tax and dividend withholding payment penalty tax
+(1) Amendment incorporated in the principal Act
+(2) Subsection (1) applies for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 249 Application of other provisions of Act to Maori authority distribution penalty tax
+(1) Amendment incorporated in the principal Act
+(2) Subsection (1) applies for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 250 Not taking reasonable care
+(1) Amendment incorporated in the principal Act
+(2) Subsection (1) applies for a tax position taken by a taxpayer after 1 April 2003.
+
+### 251 New section 141EA inserted
+(1) Amendment incorporated in the principal Act
+(2) Subsection (1) applies for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 258 Transfer of excess provisional tax if provisional tax paid is more than taxpayer's provisional tax liability, determined before assessment
+(1) Amendment incorporated in the principal Act
+(2) Subsection (1) applies for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 259 Transfer of excess provisional tax if taxpayer estimates or revises estimate of residual income tax, determined before assessment
+(1) Amendments incorporated in the principal Act
+(2) Subsection (1) applies for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 260 Transfer of excess tax if provisional tax is more than taxpayer's residual income tax, determined after assessment
+(1) Amendments incorporated in the principal Act
+(2) Subsection (1) applies for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 1 Title
+This Act is the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006.
+
+### 2 Commencement
+(1) This Act comes into force on the date on which it receives the Royal assent, except as provided in this section.
+(2) Section 209 is treated as coming into force on 30 November 1993.
+(3) Section 201 is treated as coming into force on 1 April 1995.
+(4) Section 207(2) is treated as coming into force on 26 July 1996.
+(5) Section 207(4) is treated as coming into force on 20 May 1999.
+(6) Section 206 is treated as coming into force on 1 April 2000.
+(7) Section 218(1), (3), (4), and (5) is treated as coming into force on 1 October 2001.
+(8) Section 205 is treated as coming into force on 26 March 2003.
+(9) Sections 202, 204, and 207(3) are treated as coming into force on 1 April 2003.
+(10) Section 25(1), (2), (4), (5), and (7) are treated as coming into force on 1 February 2004.
+(11) Sections 6, 12, 13, 16, 17, 20(1)(a), 27, 31, 40, 58, 59(1), 60, 62, 63, 77(4), 78(1)(a), (3), (4)(a), (6), and (7), 80(1)(c) and (2), 82, 85, 88, 94, 96, 129, 138, 139, 140, 141, 152(1) and (3), 155(3), (4), (10), (11), (17), (19)(a), (21), (22), (36), and (45), 156, 158(2)(a), 166, 167, 169(3), 170, 171, 172, 179, 183, and 218(2) are treated as coming into force on 1 April 2005.
+(12) Sections 19 and 195 are treated as coming into force on 21 June 2005.
+(13) Sections 14, 32, 33, 37, 38, 43, 48, 49, 50, 54, 55, 56, 77(3), 86, 87, 90, 91, 92(1), (2), (4), and (6), 95, 102, 147(1) and (2), 148, 155(2), (9), and (33), 159, and 163 are treated as coming into force on 1 October 2005.
+(14) Sections 22, 110, 119, 137, 155(23), and 161(2) are treated as coming into force on 1 April 2006.
+(15) Sections 34, 35, 36, 135, 136, 149, 153, 155(32), 157, 177, 186, 187, and 208 are treated as coming into force on 3 April 2006.
+(16) Sections 29, 39, 44, 45, 46, 92(3), (5), and (7), and 131(1) are treated as coming into force on 17 May 2006.
+(17) Sections 117, 132, 151, 155(24), and 178 are treated as coming into force on 1 July 2006.
+(18) Section 11 comes into force 3 months after the date on which this Act receives the Royal assent.
+(19) Sections 191 and 216 come into force on 31 March 2007.
+(20) Sections 5(1) and (2), 8(2), (3), (4), and (5), 24(1), 25(3), (6), (8), and (9), 26(1), 61(1), 64(1) to (3), 65(1) to (3), 66(1), 67(1) and (2), 68(1), 69(1) to (3), 70(1), 71(1), 72(1), 73(1), 74(1) to (3), 75(1) to (3), 76(1) to (3), 77(1), (2), and (6), 78(1)(b), (2), (4)(b), (5), and (8), 79(1), 80(1)(a) and (b), (3), (4), and (5), 81(1) and (2), 83(1), 89(1), 93(1) and (2), 99(1), 101(1) and (2), 142, 143, 144, 145(1), 155(5), (7), (13), (15), (16), (18), (19)(b), (29), (42), (44), and (46), 160, 162, 181, 189, and 193 come into force on 1 April 2007.
+(21) Sections 145(2) to (6), 146, 155(26) and (27), and 220 to 227 come into force on 1 July 2007.
+(22) Sections 4, 7, 10, 15, 18, 21, 28, 51, 97, 98, 100, 103(1), 112, 113, 114, 115, 116, 118, 120, 121, 122, 123, 124, 125, 126, 127, 128, 131(2), 133, 134, 147(3), 150, 152(2), 154, 155(20), (25), (30), (35), (37), (39), (43), and (47), 158(2)(b), 165, 176, 180, 182, 184, 185, 188, 196, 197, 198, 199, 214, 215, 219, 229, 230, 232, 233, 240, 241, 243, 244, 246, and 247 come into force on 1 October 2007.
+
+## Part Part 2 — Amendments to Tax Administration Act 1994
+
+### 196 Example: Section 120KC
+(1) Amendment incorporated in the principal Act
+(2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 197 Example: Section 120KD
+(1) Amendment incorporated in the principal Act
+(2) Subsection (1) applies for the 2008–09 and later income years.
