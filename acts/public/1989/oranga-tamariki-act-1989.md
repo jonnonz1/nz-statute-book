@@ -1,5 +1,5 @@
 # Children, Young Persons, and Their Families Act 1989
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2007-10-01_
 
 > An Act to reform the law relating to children and young persons who are in need of care or protection or who offend against the law and, in particular,—aTo advance the wellbeing of families and the wellbeing of children and young persons as members of families, whanau, hapu, iwi, and family groups:bTo make provision for families, whanau, hapu, iwi, and family groups to receive assistance in caring for their children and young persons:cTo make provision for matters relating to children and young persons who are in need of care or protection or who have offended against the law to be resolved, wherever possible, by their own family, whanau, hapu, iwi, or family group:deTo repeal the Children and Young Persons Act 1974
 
@@ -1790,8 +1790,8 @@ In this Part, unless the context otherwise requires,—
   (e) Any consultation required under section 207G has been carried out; and
   (f) The child or young person is not subject to—
     (i) An order made under paragraph (c), or any of paragraphs (k) to (o), of section 283; or
-    (ii) A community-based sentence under the Sentencing Act 2002; and
-    (iii)
+    (ii) A community-based sentence under the Sentencing Act 2002; or
+    (iii) a sentence of home detention imposed under section 80A of the Sentencing Act 2002; and
   (g) Neither the chief executive, nor any officer or employee of the Department, knows of any information laid, or of any proceedings pending before a Youth Court or any other court, that could lead to the child or young person being made subject to an order or sentence referred to in paragraph (f).
 (2) In determining whether a protection order to the same or a similar effect as the home order could be made under the child welfare law of a participating State, the chief executive must not take into account the maximum period for which such an order can have effect in that State.
 (3) Before deciding whether to transfer a protection order, the chief executive may request a Care and Protection Coordinator to convene a family group conference for the purpose of considering whether the order should be transferred, and sections 20 to 36 apply, with any necessary modification, to the convening of such a family group conference.
@@ -1856,8 +1856,8 @@ Any review proceedings in respect of a decision to transfer a protection order�
   (d) The interstate officer of the participating State has consented in writing to the transfer of the protection order and to the proposed terms of the order to be transferred; and
   (e) The child or young person is not subject to—
     (i) An order made under paragraph (c), or any of paragraphs (k) to (o), of section 283; or
-    (ii) A community-based sentence under the Sentencing Act 2002; and
-    (iii)
+    (ii) A community-based sentence under the Sentencing Act 2002; or
+    (iii) a sentence of home detention imposed under section 80A of the Sentencing Act 2002; and
   (f) The chief executive certifies that neither the chief executive, nor any officer or employee of the Department, knows of any information laid, or of any proceedings pending before a Youth Court or any other court, that could lead to the child or young person being made subject to an order or sentence referred to in paragraph (e).
 (2) Before deciding whether to order the transfer of a protection order, the Court may direct a Care and Protection Co-ordinator to convene a family group conference for the purpose of considering whether the transfer should be ordered, and sections 20 to 36 apply, with any necessary modification, to the convening of such a family group conference.
 (3) Sections 188, 189, and 191 to 194 apply to a report obtained from a Social Worker under subsection (1)(b) as if it were a report obtained from a Social Worker under section 186.
@@ -1909,8 +1909,8 @@ The following provisions apply to an appeal to the High Court under section 341 
   (b) The interstate officer of the participating State has consented in writing to the transfer of the proceedings; and
   (c) The child or young person is not subject to—
     (i) An order made under paragraph (c), or any of paragraphs (k) to (o), of section 283; or
-    (ii) A community-based sentence under the Sentencing Act 2002; and
-    (iii)
+    (ii) A community-based sentence under the Sentencing Act 2002; or
+    (iii) a sentence of home detention imposed under section 80A of the Sentencing Act 2002; and
   (d) The chief executive certifies that neither the chief executive, nor any officer or employee of the Department, knows of any information laid, or of any proceedings pending before a Youth Court or any other court, that could lead to the child or young person being made subject to an order or sentence referred to in paragraph (c).
 (2) Before deciding whether to order that protection proceedings be transferred, the Court may direct a Care and Protection Co-ordinator to convene a family group conference for the purpose of considering whether the transfer should be ordered, and sections 20 to 36 apply, with any necessary modification, to the convening of such a family group conference.
 
@@ -2422,7 +2422,7 @@ Where—a Youth Justice Co-ordinator shall, subject to sections 248 to 250 of th
   (a) The offence is alleged or proved to have been committed on a date that is earlier than the date on which—for any other offence (not being an offence the maximum penalty for which is less than the maximum penalty that may be imposed in respect of the first-mentioned offence); or
     (i) The young person was convicted and sentenced in the High Court or a District Court; or
     (ii) A Youth Court made an order under section 283 of this Act in respect of that young person—
-  (b) The young person is subject to a sentence of imprisonment or a community-based sentence (as those terms are defined in section 4(1) of the Sentencing Act 2002), or to any order made under any of paragraphs (k) to (o) of section 283 of this Act,—
+  (b) The young person is subject to a sentence of imprisonment or a community-based sentence (as those terms are defined in section 4(1) of the Sentencing Act 2002), or to a sentence of home detention imposed under section 80A of the Sentencing Act 2002, or to any order made under any of paragraphs (k) to (o) of section 283 of this Act,—
 (2) Where—the family group conference may make in respect of the latter offence any decision, recommendation, or plan that it is empowered to make under section 260 of this Act, and it shall not be necessary to convene a separate family group conference in relation to that latter offence.
   (a) A family group conference has been convened pursuant to section 247 of this Act in relation to any offence alleged or proved to have been committed by a child or young person; and
   (b) Before the family group conference has made any decision, recommendation, or plan pursuant to section 260 of this Act in relation to that offence, that child or young person is alleged or proven to have committed any other offence (being an offence in respect of which a family group conference would be required to be held pursuant to section 247 of this Act),—
@@ -2486,10 +2486,10 @@ Where—a Youth Justice Co-ordinator shall, subject to sections 248 to 250 of th
   (i) a representative of an Iwi Social Service, of a Cultural Social Service, or of the Director of a Child and Family Support Service, if that Service or that Director—
     (i) is a guardian of the child or young person; or
     (ii) has the role of providing day-to-day care for the child or young person under the Care of Children Act 2004, or is entitled to custody of the child or young person under an order or agreement made under Part 2 of this Act.
-  (j) if the young person is subject to a community-based sentence (as that term is defined in section 4(1) of the Sentencing Act 2002),—
+  (j) if the young person is subject to a community-based sentence (as that term is defined in section 4(1) of the Sentencing Act 2002) or a sentence of home detention imposed under section 80A of the Sentencing Act 2002,—
     (i) a probation officer:
     (ii) in the case of a young person who is subject to a sentence of community work (within the meaning of that Act), a representative of the agency on whose behalf the young person is required to perform any work for the purposes of the sentence:
-    (iii) in the case of a young person who is subject to a sentence of supervision (within the meaning of that Act), any person or agency, or a representative of any person or agency, that provides any course or conducts any programme that the young person is required to undertake as a condition of the sentence or to undergo under the sentence:
+    (iii) in the case of a young person who is subject to a sentence of supervision, intensive supervision, or a sentence of home detention (within the meaning of that Act), any person or agency, or a representative of any person or agency, that provides any course or conducts any programme that the young person is required to undertake as a condition of the sentence or to undergo under the sentence:
   (k) If the child or young person is under the guardianship of the Court under the Care of Children Act 2004, any person appointed as agent for the Court under that Act, or any representative of that person:
   (l) Where the child or young person is subject to an order made under section 91 of this Act, a representative of the person or organisation required, pursuant to that order to provide support to that child or young person:
   (m) Where the young person is under the supervision of any person (not being the chief executive), or any organisation, pursuant to an order made under section 283(k) or section 307 of this Act, that person or a representative of that organisation:
@@ -2754,10 +2754,10 @@ Where a charge against a young person is proved before a Youth Court, the Court 
 (5) The Court shall not make an order under paragraph (l) or paragraph (m) or paragraph (n) of section 283 of this Act if that order would be concurrent with, or cumulative on,—unless that other order or that sentence will expire not later than 14 days after the date of the making of the first-mentioned order.
   (a) Any other order made under any of those paragraphs; or
   (b) Any community-based sentence (as that term is defined in section 4(1) of the Sentencing Act 2002; or
-  (ba)
+  (ba) any sentence of home detention imposed under section 80A of the Sentencing Act 2002; or
   (c) Any sentence of imprisonment (as that term is so defined),—
 (6) Where—notwithstanding anything in section 290 of this Act the Court may, if the young person is of or over the age of 15 years, make an order under section 283(o) of this Act.
-  (a) But for the provisions of paragraph (b) or paragraph (c) of subsection (5) of this section, the Court would have made an order under paragraph (l) or paragraph (m) or paragraph (n) of section 283 of this Act; and
+  (a) But for the provisions of paragraph (b), (ba), or (c) of subsection (5) of this section, the Court would have made an order under paragraph (l) or paragraph (m) or paragraph (n) of section 283 of this Act; and
   (b) The Court considers that it would not be appropriate to make an order under any of paragraphs (a) to (k) of that section as an alternative to such an order,—
 
 ### 286 Person or organisation not to be required to supervise young person without consent
@@ -2775,7 +2775,7 @@ The Court shall not make an order under paragraph (m) of section 283 of this Act
 ### 290 Restrictions on imposition of supervision with residence or transfer to District Court for sentence
 (1) No order shall be made under paragraph (n) or paragraph (o) of section 283 of this Act in respect of a young person unless—
   (a) The offence is a purely indictable offence; or
-  (b) The nature or circumstances of the offence are such that if the young person were an adult and had been convicted of the offence in a Court other than a Youth Court, a sentence of imprisonment (within the meaning of section 4(1) of the Sentencing Act 2002) would be required to be imposed on the young person; or
+  (b) The nature or circumstances of the offence are such that if the young person were an adult and had been convicted of the offence in a Court other than a Youth Court, a sentence of imprisonment (within the meaning of section 4(1) of the Sentencing Act 2002) or a sentence of home detention under section 80A of the Sentencing Act 2002 would be required to be imposed on the young person; or
   (c) The Court is satisfied that, because of the special circumstances of the offence or of the offender, any order of a non-custodial nature would be clearly inadequate.
 (2) No order shall be made under section 283(o) of this Act unless the Court has considered all other alternatives available to it under this Part of this Act and is satisfied that none of them is appropriate in the circumstances of the particular case.
 (3) On making an order under paragraph (n) or paragraph (o) of section 283 of this Act, a Judge shall record in writing his or her reasons for making that order.
@@ -2790,7 +2790,7 @@ Where, in any proceedings before a Youth Court, the Court makes an order under p
 ### 293 Effect of order imposing fine or requiring payment of compensation or restitution or forfeiture of property
 Every order or decision made under any of the provisions of paragraphs (d) to (h) of section 283 of this Act shall have effect as if made by a District Court and as if any fine imposed or such sum ordered to be paid had been adjudged to be paid by conviction, except that—
   (a) The enforcement of every such order or decision shall be the responsibility of a Youth Court and its officers; and
-  (b) No young person shall be liable to imprisonment for failing to comply with any such order or decision; and
+  (b) No young person shall be liable to imprisonment or a sentence of community detention or home detention for failing to comply with any such order or decision; and
   (c) No costs, expenses, or fees shall be payable in respect of the enforcement of any such order or decision.
 
 ### 293A Disqualification from driving
@@ -2873,7 +2873,7 @@ When a young person performs any service or does any work for the purposes of a 
 ### 303 Effect of subsequent sentence
 Where—the community work order shall be deemed to be cancelled unless the Court imposing that sentence otherwise orders.
   (a) A community work order is in force in respect of a young person; and
-  (b) A sentence of imprisonment or a community-based sentence (as those terms are defined in section 4(1) of the Sentencing Act 2002) is subsequently imposed on that young person for another offence,—
+  (b) A sentence of imprisonment or a community-based sentence (as those terms are defined in section 4(1) of the Sentencing Act 2002) or a sentence of home detention under section 80A of the Sentencing Act 2002 is subsequently imposed on that young person for another offence,—
 
 **Provisions relating to supervision orders and supervision with activity orders**
 
