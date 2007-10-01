@@ -1,5 +1,5 @@
 # Bail Amendment Act 2007
-_Consolidation as at 2007-09-18_
+_Consolidation as at 2007-10-01_
 
 ### 1 Title
 This Act is the Bail Amendment Act 2007.
