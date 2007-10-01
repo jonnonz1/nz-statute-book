@@ -1,5 +1,5 @@
 # Unit Trusts Act 1960
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-10-01_
 
 > An Act to provide for regulating the operations of unit trusts
 
@@ -18,7 +18,7 @@ _Consolidation as at 2007-09-03_
   - **Nominated company**
   - **Nominated person** , in relation to any trustee, means a person nominated by that trustee under section 6 of this Act
   - **Nominee** , in relation to any nominated person, means a person appointed by that nominated person under section 6B:.
-  - **portfolio investment entity**
+  - **portfolio investment entity** means a portfolio investment entity within the meaning of the Income Tax Act 2004
   - **Registrar** means the Registrar of Companies; and includes the Deputy Registrar of Companies
   - **Trust** means a trust within the meaning of the Trustee Act 1956
   - **Trust deed** , in relation to any unit trust, means the trust deed that sets out the trusts governing the unit trust; and includes every instrument that varies those trusts, or affects the powers, duties, or functions of the trustee or manager of the unit trust
@@ -123,7 +123,8 @@ No manager of a unit trust, and no person as agent of such a manager, shall issu
 (2) Every provision implied in the trust deed relating to any unit trust in accordance with this section shall be enforceable by the trustee or any unit holder of the unit trust.
 
 ### 12A Implied provision in trust deed of portfolio investment entity
-[Repealed]
+(1) The provision in subsection (2) shall be implied in every trust deed relating to a unit trust for which the trustee is a portfolio investment entity, notwithstanding anything to the contrary in the deed.
+(2) Where any money, investments or other property of the unit trust is employed in an activity carried on as a portfolio investment entity, the manager may adjust the interests in the unit trust of the beneficiaries in the way required by section HL 7 of the Income Tax Act 2004.
 
 ### 13 Certificate of interest to be issued
 [Repealed]
