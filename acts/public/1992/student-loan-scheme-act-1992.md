@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 1992
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-10-01_
 
 > An Act to provide for the assessment and collection of loan repayments under the Crown's student loan scheme and to otherwise facilitate the administration of that scheme
 
@@ -269,14 +269,14 @@ Notwithstanding section 20 of this Act, where a repayment deduction is required 
   (c) Every reference to residual income tax were a reference to the amount of residual repayment obligation; and
   (d) Every reference to income tax were a reference to the repayment obligation,—
 (3) Notwithstanding subsection (1) of this section,—
-  (a) Subsections (1)(a) and (2) of section MB 2 of the Income Tax Act 2004 (which determine the amount of provisional tax payable) and section LD 7 of that Act (which provides that provisional tax is to be credited against a taxpayer's income tax liability) shall not apply to any amount of interim repayments; and
-  (b) Section MB 2(1)(b) of the Income Tax Act 2004 (which relates to amounts of instalments where return not furnished)—
+  (a) sections MB 2(3) and MB 4(3)(a) of the Income Tax Act 2004 (which determine the amount of provisional tax payable) and section LD 7 of that Act (which provides that provisional tax is to be credited against a taxpayer's income tax liability) shall not apply to any amount of interim repayments; and
+  (b) section MB 4(3)(b) of the Income Tax Act 2004 (which relates to amounts of instalments where return not furnished)—
     (i) Shall apply only where the periodic payer's residual repayment obligation for the second preceding tax year exceeds $1,000; and
-    (ii) Shall apply as if, where the return for the immediately preceding tax year, or an estimate of the residual repayment obligation, is not furnished by the due date for payment of the third instalment, the periodic payer is deemed to have furnished a statement showing an estimate of the residual repayment obligation for that tax year equal to the amount of any interim repayments paid by the periodic payer on or before that date.
-  (c)
-  (d)
-  (e)
-  (f)
+    (ii) Shall apply as if, where the return for the immediately preceding tax year, or an estimate of the residual repayment obligation, is not furnished by the due date for payment of the third instalment, the periodic payer is deemed to have furnished a statement showing an estimate of the residual repayment obligation for that tax year equal to the amount of any interim repayments paid by the periodic payer on or before that date; and
+  (c) section MB 7 of the Income Tax Act 2004 (under which a provisional taxpayer may use the GST ratio method to determine an amount of provisional tax payable) shall not apply to any amount of interim payments; and
+  (d) section MB 8(3)(a)(i) and (ii) and (b)(i) of the Income Tax Act 2004 (which provide for exceptions to the requirements of section MB 8(2) of that Act) shall not apply to any amount of interim payments; and
+  (e) section MB 8(4) of the Income Tax Act 2004 (which provides for payments of provisional tax by a provisional taxpayer who pays GST on a 6-monthly basis) shall not apply to any amount of interim payments; and
+  (f) sections MB 10, MB 15, MB 17, MB 18, MB 23, and MB 32 of the Income Tax Act 2004 (which provide for the use by a provisional taxpayer of the GST ratio method) shall not apply to any amount of interim payments.
 
 **Terminal repayments**
 
@@ -666,9 +666,17 @@ Any payment in respect of a repayment obligation must be off-set—
 **Relief**
 
 ### 51 Power of Commissioner in respect of small amounts
-Notwithstanding anything in this Act, the Commissioner may refrain from either issuing a notice of assessment or collecting or refunding any repayment obligation payable by or to a borrower, or any repayment deduction payable by or to an employer or a PAYE intermediary, in any case where—
-  (a) The amount payable by or to a borrower in any tax year does not exceed $5; or
-  (b) The amount payable by or to an employer or a PAYE intermediary in any period does not exceed $5.
+(1) The Commissioner may refrain from refunding any repayment obligation (or part of a repayment obligation) payable to a borrower, or any repayment deduction (or part of a repayment deduction) payable to an employer or a PAYE intermediary, if—
+  (a) the amount payable to a borrower in any tax year is $5 or less; or
+  (b) the amount payable to an employer or a PAYE intermediary in any period is $5 or less.
+(2) The Commissioner may refrain from issuing a notice of assessment or refrain from collecting and write off any repayment obligation (or part of a repayment obligation) payable by a borrower, or any repayment deduction (or part of a repayment deduction) payable by an employer or a PAYE intermediary, if—
+  (a) the amount payable by a borrower in any tax year is $20 or less; or
+  (b) the amount payable by an employer or a PAYE intermediary in any period is $20 or less.
+(3) The Commissioner may refrain from collecting payment of a repayment obligation (or part of a repayment obligation) if that repayment obligation (or part of a repayment obligation)—
+  (a) is more than $20 but less than $333; and
+  (b) has not been paid by the due date (as that term is defined in section 44).
+(4) Any amount that, under subsection (3), the Commissioner does not collect from a borrower is subject to interest at the total interest rate on the daily amount outstanding (except to the extent that this Act otherwise requires).
+(5) This section applies despite anything in this Act.
 
 ### 51A Commissioner may refrain from collecting amounts between $5 and $333
 (1) The Commissioner may refrain from collecting payment of a repayment obligation (or part of a repayment obligation) if that repayment obligation (or part of a repayment obligation)—
@@ -829,7 +837,7 @@ A refund of repayment obligation or interest that has been paid in excess of the
 If—the IRD loan balance shall be reduced to zero.
   (a) A borrower should die; or
   (b) The Commissioner has reasonable grounds for believing that a borrower has died; or
-  (c) A borrower has an IRD loan balance that, as at the last day of any tax year, is less than $10,—
+  (c) A borrower has an IRD loan balance that, as at the last day of any tax year, is less than $20,—
 
 ### 60A Cancellation of interest if IRD loan balance repaid early
 (1) Subsection (2) applies if—
@@ -1260,3 +1268,32 @@ The Commissioner must apply this Act to borrowers to whom sections 93 to 105 app
 Where a provision of this Act (a relevant provision)—the repealed provision must be treated as continuing in effect for the purpose of giving effect to the relevant provision.
   (a) refers to a provision of the Tax Administration Act 1994 that is repealed by the Tax Administration Amendment Act (No 2) 1996; and
   (b) incorporates the repealed provision for any purpose to give effect to the relevant provision,—
+
+### 1 Title
+This Act is the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006.
+
+### 2 Commencement
+(1) This Act comes into force on the date on which it receives the Royal assent, except as provided in this section.
+(2) Sections 267 and 279(6) are treated as coming into force on 1 April 1995.
+(3) Sections 274 and 278 are treated as coming into force on 1 April 2003.
+(4) Section 231 is treated as coming into force on 25 November 2003.
+(5) Sections 121 and 122 are treated as coming into force on 4 June 2004.
+(6) Section 281 is treated as coming into force on 1 July 2004.
+(7) Sections 230(1), 234, and 270 are treated as coming into force on 21 December 2004.
+(8) Sections 11(1), 12, 40, 57, 65, 80, 93, 104, 105, 143(5), 180(1), (2), and (3), 187, 191(9), (12), (21), (49), and (60), 193, 199, 202, 206, 207, 208, 210(19), 211(1) to (4) and (6) to (8), 212, 223 to 229, 237, 240, 257, 284(1) and (3), 287(4) and (5), and 303 are treated as coming into force on 1 April 2005.
+(9) Section 73 is treated as coming into force on 19 May 2005.
+(10) Sections 144(1) and (7), 146, and 191(5) are treated as coming into force on 21 July 2005.
+(11) Sections 13, 15(2) and (3), 21, 22, 23, 25, 50, 51, 53, 68, 75, 81, 83(2), 84, 85, 87, 88, 94, 95, 100, 106, 113, 116, 117(1) and (2), 120, 123, 141, 150, 188, 191(10), (15), (17), (18) to (20), (43), (46), (47), (53), (57), and (69), and 198 are treated as coming into force on 1 October 2005.
+(12) Section 191(2) and (72) is treated as coming into force on 21 December 2005.
+(13) Sections 8(2), 15(1), 16, 17, 28, 29 to 37, 45, 91, 92, 97, 98, 111, 125, 131 to 134, 166 to 178, 191(6), (11), (22), (31), (51), and (70), 194(1) and (2), 197(a), and 200 come into force on 1 April 2006.
+(14) Sections 7, 8(1), 14, 20, 39, 41, 44, 59, 66, 67, 83(1), 86, 110, 112, 124, 128 to 130, 142, 143(1) and (3), 145, 147(2) and (4), 148(1) and (3), 152, 153, 155, 156, 179, 180(1) and (6), 181 to 184, 185(1), 186, 191(8), (27), (28), (38), (40), (42), (52), (55), (58), and (59), 197(b), 205, and 214 come into force on 1 July 2006.
+(15) Sections 5, 42, 43, 103, 108, 117(3), 119, 191(48), (54), and (68), 210(3), (9), and (11), 211(2), (5), (7), (8)(a), and (9), 221, 222, 230(2), 254, 255, and 256 come into force on 1 October 2006.
+(16) Sections 292, 293, and 297(1)(a) come into force on 31 March 2007.
+(17) Section 180(7) comes into force on 1 April 2007.
+(18) Sections 77, 114, 115, 118, 137 to 140, 143(2) and (4), 147(1) and (3), 148(2), 149, 160 to 163, 165, 190, 191(4), (7), (16), (26), (29), (30), (44), (45), (50), (56), (61), and (65) to (67), 194(3), 204, 210(4), (5) to (7), (8), (10), (12), (14), (17), and (18), 217, 218, 241 to 251, 258 to 260, 283(4) to (9), 291, 294 to 296, and 300 come into force on 1 October 2007.
+(19) Sections 18, 19, 26, 47, 49, 127, 192, 215, 216, and 297(1)(b) come into force on 1 April 2008.
+(20) Sections 61 to 64, 101, 301, and 302 come into force on 1 August 2006.
+
+### 300 Interim repayments to be paid in same manner as provisional tax
+(1) [Amendments incorporated into principal Act]
+(2) Subsection (1) applies for student loan repayment obligations relating to the 2008–09 and subsequent tax years.
