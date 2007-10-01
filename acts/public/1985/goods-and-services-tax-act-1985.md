@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-10-01_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -19,7 +19,7 @@ _Consolidation as at 2007-09-03_
     (b) a supply of a right, under an equity security or participatory security, to receive for no consideration, or consideration at other than the open market value, a supply of goods and services that is—
       (i) not an exempt supply; and
       (ii) not a supply relating to the control of the issuer of the equity security or participatory security
-  - **balance date** is defined in section 15AB for the purposes of that section
+  - **balance date** is defined in section 15B for the purposes of that section
   - **Challenge** means—as the context requires; and any variant of the word challenge is to have a like meaning
     (a) To commence proceedings under Part 8A of the Tax Administration Act 1994 challenging a disputable decision (as defined in section 3(1) of that Act); or
     (b) The proceedings,—
@@ -64,7 +64,7 @@ _Consolidation as at 2007-09-03_
       (i) that is a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001; or
       (ii) whose principal purpose is to receive and treat people needing medical treatment or suffering from a disease; and
     (b) includes all clinics, dispensaries, offices, outpatient departments, services, and undertakings, maintained in connection with, or incidental to, such an institution
-  - **income year**
+  - **income year** means an income year as defined in section OB 1 of the Income Tax Act 2004
   - **Input tax**
   - **Insurance** means insurance or guarantee against loss, damage, injury, or risk of any kind whatever, whether pursuant to any contract or any enactment; and includes reinsurance; and includes a policy of insurance, an insurance cover, and a renewal of a contract of insurance
     Provided that nothing in this definition shall apply to any insurance specified in section 3 of this Act:
@@ -106,7 +106,7 @@ _Consolidation as at 2007-09-03_
   - **Partnership** and have the meanings set out in the Partnership Act 1908
   - **Penal tax**
   - **Person** includes a company, an unincorporated body of persons, a public authority, and a local authority
-  - **provisional tax**
+  - **provisional tax** means provisional tax as defined in section OB 1 of the Income Tax Act 2004
   - **Public authority** means all instruments of the Crown in respect of the Government of New Zealand, whether departments, Crown entities, State enterprises, or other instruments; and includes offices of Parliament; but does not include the Governor-General, members of the Executive Council, Ministers of the Crown, or members of Parliament
   - **Recipient** , in relation to any supply of goods and services, means the person receiving the supply
   - **Refiner of fine metal** means any person who satisfies the Commissioner that, in the regular course of business, that person converts or refines any fine metal:
@@ -118,7 +118,7 @@ _Consolidation as at 2007-09-03_
       (b) a person who is an unincorporated body is deemed to be resident in New Zealand if the body has its centre of administrative management in New Zealand:
   - **Residential establishment** means any commercial dwelling in which not less than 70 percent of the individuals to whom domestic goods and services are supplied reside, or are expected to reside, for a period of, or in excess of, 4 weeks; and also includes any hospital to the extent that it is used to provide domestic goods and services in a way similar to any such residential establishment:
   - **Return** means any return required to be furnished under Part 3 of this Act
-  - **return of income**
+  - **return of income** means a return of income required under section 33 of the Tax Administration Act 1994
   - **Revenue from the Crown** means any amount brought to charge from the Crown (not being revenue received from any other public authority) by any public authority for the supply of outputs (within the meaning of the Public Finance Act 1989) by that public authority; but does not include—
     (a) Any goods and services tax, chargeable in accordance with the provisions of this Act, on the supply of outputs by that public authority:
     (b) Any revenue collected by that public authority as agent on behalf of the Crown:
@@ -139,8 +139,8 @@ _Consolidation as at 2007-09-03_
     (a) Any amount referred to in section 17(2) or section 51B of this Act:
     (b) Any late payment penalty or shortfall penalty:
     (c) Any amount of tax refundable by the Commissioner pursuant to section 19C or section 20 of this Act; and, for the purposes of section 57, includes interest payable under Part 7 of the Tax Administration Act 1994:
-  - **tax year**
-  - **Taxable period** , in relation to a registered person, means a taxable period determined under section 15 or section 15A of this Act
+  - **tax year** means a tax year as defined in section OB 1 of the Income Tax Act 2004
+  - **Taxable period** , in relation to a registered person, means a taxable period determined under sections 15 to 15E of this Act
   - **Taxable supply** means a supply of goods and services in New Zealand that is charged with tax under section 8 and includes a supply that section 11, 11A, 11AB or 11B requires to be charged at the rate of 0%
   - **Taxation Review Authority** or means a Taxation Review Authority established under the Taxation Review Authorities Act 1994
   - **telecommunications services** means the transmission, emission or reception, and the transfer or assignment of the right to use capacity for the transmission, emission or reception, of signals, writing, images, sounds or information of any kind by wire, cable, radio, optical or other electromagnetic system, or by a similar technical system, and includes access to global information networks but does not include the content of the telecommunication
@@ -156,7 +156,7 @@ _Consolidation as at 2007-09-03_
 
 ### 2A Meaning of associated persons
 (1) In this Act, associated persons or persons associated with each other are—
-  (a) two companies if a group of persons—
+  (a)
     (i) has voting interests in each of those companies of 50% or more when added together; or
     (ii) has market value interests in each of those companies of 50% or more when added together and a market value circumstance exists in respect of either company; or
     (iii) has control of each of those companies by any other means whatsoever:
@@ -765,83 +765,74 @@ A supply of services that is chargeable with tax under section 8 must be charged
 ## Part 3 — Returns and payment of tax
 
 ### 15 Taxable periods
-(1) Each registered person shall be placed by the Commissioner in one of the following categories for the purpose of determining that person's taxable periods for the purposes of this Act:
-  (a) Category A, with taxable periods of 2 months ending with the last day of January, March, May, July, September, and November in any year:
-  (b) Category B, with taxable periods of 2 months ending with the last day of February, April, June, August, October, and December in any year:
-  (c) Category C, with taxable periods of 6 months ending on the last day of such 2 months in any year as are requested by the registered person:
-  (d) Category D, with taxable periods of one month ending on the last day of each month in each year.
-(2) Every registered person who is not placed in Category C pursuant to subsection (3) of this section, or in Category D pursuant to subsection (4) of this section, shall be placed by the Commissioner in either Category A or Category B, as may be requested by the registered person in writing or (in the absence of such request) as may be determined by the Commissioner.
-(3) The Commissioner may, on written application by a registered person, place that person in category C if the total value of that person's taxable supplies—
-  (a) Has not, in the period of 12 months ending with the last day of any month, exceeded $250,000 (or such greater amount as the Governor-General may from time to time declare by Order in Council); or
-  (b) Is not likely to exceed that amount in the period of 12 months beginning on the first day of any month.
-(4) The Commissioner shall place in category D any registered person—
-  (a) Who applies in writing to be so placed; or
-  (b) Whose total value of taxable supplies—
-    (i) Has, in the period of 12 months ending with the last day of any month, exceeded $24,000,000 (or such greater amount as the Governor-General may from time to time declare by Order in Council); or
-    (ii) Is likely to exceed that amount in the period of 12 months beginning on the first day of any month.
-(5) Any registered person whom the Commissioner has not placed in any category shall be deemed to be in category A.
-(6) For the purposes of this section and of section 15A of this Act, the total value of a registered person's taxable supplies shall be deemed not to have exceeded any amount specified in or under subsection (3) or subsection (4) of this section where that total value exceeds any such amount solely as a consequence of—
-  (a) any ending of, including a premature ending of, or any substantial and permanent reduction in the size or scale of, any taxable activity carried on by that registered person; or
-  (b) The replacement of any plant or other capital asset used in any taxable activity carried on by that registered person.
-(7) Notwithstanding anything in this section or in section 15A(1A) of this Act, the Commissioner may, upon written application by a registered person, determine a day in substitution for the last day referred to in any of paragraphs (a) to (d) of subsection (1) of this section or section 15A(1A) of this Act, not being a day more than 7 days earlier or 7 days later than that last day, but any such determination shall be disregarded for the purposes of section 16(1) of this Act.
-(8) Notwithstanding any other provision in this section, where any registered person dies, or goes into liquidation or receivership, or becomes bankrupt, or ceases to exist on an amalgamation (as defined in section OB 1 of the Income Tax Act 2004) the date of that person's death, liquidation, receivership, or bankruptcy, or cessation of existence as the case may be, shall be deemed to be the last day of that person's taxable period.
+(1) A registered person's taxable period must be 1 of the following:
+  (a) a 6-month period, if subsection (2) applies:
+  (b) a 2-month period:
+  (c) a 1-month period, if subsection (3) or (4) applies.
+(2) A person's taxable period may be a 6-month period if
+  (a) the person's taxable supplies in a 12-month period are no more, and are not likely to be more, than $250,000; and
+  (b) the person applies to the Commissioner to pay on this basis.
+(3) A person's taxable period may be a 1-month period if the person applies to the Commissioner to pay on that basis.
+(4) A person's taxable period must be a 1-month period if the person's taxable supplies in a 12-month period are more, or are likely to be more, than $24,000,000.
+(5) For the purposes of subsections (2) and (4),
+  (a) the 12-month period is a period that starts on the first day of a month and ends on the last day of a month:
+  (b) the amount of a person's taxable supplies does not include the amount of taxable supplies arising as part of
+    (i) the ending, including a premature ending, of a taxable activity carried on by the person:
+    (ii) a substantial and permanent reduction in the size or scale of a taxable activity carried on by the person:
+    (iii) the replacement of plant or a capital asset used in a taxable activity carried on by the person:
+  (c) the Governor-General, from time to time, may declare by Order in Council another amount as the limit applying to the value of a person's taxable supplies.
 
 ### 15A Change in registered person's taxable period
-(1) The Commissioner may from time to time direct that a registered person change from being in category A, category B, category C, or category D to any other appropriate category that determines the person's taxable periods—
-  (a) On written application by the registered person; or
-  (b) Following notification by the registered person under paragraph (c) or paragraph (ca) of section 53(1) of this Act of a change of status; or
-  (c) Where the Commissioner is otherwise satisfied that the person now satisfies or, as the case may be, has ceased to satisfy, the conditions of subsection (3) or subsection (4) of section 15 of this Act.
-  (d)
-(1AA) The Commissioner may, on written application by a registered person who falls within any one of categories A, B or D, direct that the registered person be placed within category C after considering the following factors:
-  (a) the person's history of filing and paying tax:
-  (b) the person's record keeping practices:
-  (c) whether the person has been placed within category C before:
-  (d) the nature and volume of the person's taxable supplies.
-(1A) The Commissioner may, on the written application of a person who is a Category C registered person in terms of section 15(1)(c) of this Act, direct that the person's taxable periods be changed so that each 6-monthly taxable period ends on the last day of such 2 months of any year as may have been requested by the registered person, and, where the Commissioner does so, subsections (4) and (6) of this section shall apply to any such direction as if it were a direction given under subsection (1) of this section.
-(2) The Commissioner shall not direct that a registered person change—unless the person so requests the Commissioner in writing.
-  (a) To category C from another category; or
-  (b) From category D to another category,—
-(3) Except as provided in subsection (2) of this section, the Commissioner shall direct an appropriate change in category where—
-  (a) A registered person applies to be changed to category D; or
-  (b) The Commissioner is satisfied that a registered person satisfies or, as the case may be, ceases to satisfy the conditions of subsection (3) or subsection (4) of section 15 of this Act.
-(4) Where the Commissioner directs that a registered person change from one category to another, the person shall be deemed to have been placed in the new category with effect from—
-  (a) The day following the end of the taxable period during which the direction is made by the Commissioner; or
-  (b) Such earlier day as the Commissioner may, with the agreement of the registered person, determine.
-(5) Notwithstanding anything in this section or in section 15 of this Act, where, in relation to a registered person in category A or category B or category C,—that registered person shall be deemed to have been placed in category D with effect from the day following the end of the immediately subsequent period referred to in paragraph (b) of this subsection.
-  (a) The total value of the registered person's taxable supplies has, in the period of 12 months ending with the last day of any taxable period of the registered person, exceeded the amount specified in or under paragraph (b) of section 15(4) of this Act; and
-  (b) That person has not, before the last day of the person's immediately subsequent taxable period, notified the Commissioner of a change of status pursuant to section 53(1)(ca) of this Act—
-(6) The first return of a registered person after any change in category shall not include any period in respect of which that person has previously furnished a return.
+[Repealed]
 
 ### 15AB Transitional provision: alignment of taxable periods with balance dates
-(1) This section applies to a registered person who has a provisional tax liability in the person's 2007–08 income year.
-(2) The registered person may have a taxable period that is a 1-month period if the person applies to the Commissioner for such a period.
-(3) The registered person must have a taxable period that is a 1-month period if the person's total taxable supplies in a 12-month period are more, or are likely to be more, than $24,000,000.
-(4) If neither of subsections (2) and (3) applies to the registered person, the registered person must have a taxable period that is a 2-month period or a 6-month period.
-(5) The registered person must pay a GST liability in a set of instalments that is aligned with the registered person's balance date under section 33 or 38 of the Tax Administration Act 1994, reflecting the applicable payment dates in schedule 13, part A of the Income Tax Act 2004.
-(6) For the purposes of subsection (5), a registered person whose balance date changes during an income year must,—
+[Repealed]
+
+### 15B Taxable periods aligned with balance dates
+(1) Unless section 15(3) or (4) applies, a person with a provisional tax liability must have a taxable period that is either a 2-month period or a 6-month period.
+(2) A person must have a taxable period that is aligned with the person's balance date under section 33 or 38 of the Tax Administration Act 1994, reflecting the applicable payment dates in schedule 13, part A of the Income Tax Act 2004.
+(3) For the purposes of subsection (2), a person whose balance date changes during an income year must,
   (a) before the new balance date, use the payment frequency applying at the start of the income year:
   (b) after the new balance date, use the cycle of taxable periods starting on the first day of the new income year.
-(7) If the registered person's GST cycle is not aligned with the person's balance date and the person has a provisional tax liability for a tax year, the Commissioner must adjust the person's taxable periods by truncating the last taxable period before the balance date so that the taxable period and income year end on the same date.
-(8) The Commissioner may make the adjustment in subsection (7) if—
-  (a) the registered person's income tax liability indicates that a provisional tax liability is likely to arise:
-  (b) the registered person asks for the adjustment.
-(9) If there is a change in the basis on which the registered person's taxable period is set and the change could result in the person's taxable period not being aligned with the person's balance date, the Commissioner must adjust the effective date of the change in taxable period to produce alignment.
-(10) In this section, balance date for a registered person means,—
+(4) If a person's GST cycle is not aligned with the person's balance date and the person has a provisional tax liability for a tax year, the Commissioner must adjust the person's taxable periods by truncating the last taxable period before the balance date so that the taxable period and income year end on the same date.
+(5) The Commissioner may make the adjustment in subsection (4) if
+  (a) the person's income tax liability indicates that a provisional tax liability is likely to arise:
+  (b) the person asks for the adjustment.
+(6) In this section, balance date, for a registered person mean,
   (a) if neither of paragraphs (b) and (c) applies, the person's annual balance date for their accounts for the income year corresponding to the tax year for which the person must provide a return of income under the Tax Administration Act 1994:
   (b) if the person has an income year that coincides with the tax year or is not required to provide a return of income for the tax year, 31 March:
   (c) if the person is a non-resident company that does not have a fixed establishment in New Zealand, 31 March.
 
-### 15B Taxable periods aligned with balance dates
-[Repealed]
-
 ### 15C Changes in taxable periods
-[Repealed]
+(1) A person to whom section 15(1)(b) or (c) applies may apply to the Commissioner, in a way acceptable to the Commissioner, to change the person's taxable period to a 6-month period.
+(2) The factors that the Commissioner must consider in directing a change of taxable period are
+  (a) the person's history in filing returns and paying tax liabilities:
+  (b) the person's financial reporting practices:
+  (c) the nature and volume of the person's taxable supplies:
+  (d) the previous use of a 6-month cycle.
+(3) A person to whom section 15(1)(a) applies may apply to the Commissioner, in a way acceptable to the Commissioner, to change the person's taxable period to a 2-month period.
+(3B) A person to whom section 15(1)(a) or (b) applies may apply to the Commissioner, in a way acceptable to the Commissioner, to change the person's taxable period to a 1-month period.
+(3C) A person to whom section 15(1)(c) applies may apply to the Commissioner, in a way acceptable to the Commissioner, to change the person's taxable period to a 2-month period, unless section 15(4) applies.
+(4) A person whose taxable period is based on a 6-month or 2-month cycle is treated as having changed to a 1-month cycle if
+  (a) the threshold in section 15(4) applies at the end of a taxable period to the person's taxable supplies; and
+  (b) the person has not notified the Commissioner of a change of status under section 53(1)(ca) before the end of the next taxable period.
+(5) A return provided after a change in taxable period must not include amounts for a period for which a return has already been provided.
 
 ### 15D When change in taxable period takes effect
-[Repealed]
+(1) This section applies if a registered person, who qualifies under section 15,
+  (a) applies under section 15B(5)(b) or 15C to change the basis on which the person's taxable period is set; or
+  (b) is required because of section 39B of the Tax Administration Act 1994 to change the basis on which the person's taxable period is set.
+(2) A change in taxable period takes effect at the end of the taxable period in which the person applies or is required to change the basis on which the person's taxable period is set.
+(3) Despite subsection (2), for a person to whom section 15B applies, the Commissioner must adjust the effective date of the change in taxable period if, as a result of the change, the person's taxable period is not aligned with the person's balance date.
+(4) Sections MB 26 and MB 27 of the Income Tax Act 2004 override this section.
 
 ### 15E Meaning of end of taxable period
-[Repealed]
+(1) A taxable period ends on the last day of a month.
+(2) Despite subsection (1), a registered person may apply to the Commissioner to have a taxable period ending on a day that is not more than 7 days before or after the last day of a month.
+(3) Subsection (4) applies if 1 or more of the following events occurs in relation to a registered person:
+  (a) the natural person dies or is made bankrupt:
+  (b) the company goes into liquidation or receivership, or ceases to exist on amalgamation (as defined in section OB 1 of the Income Tax Act 2004).
+(4) Despite subsection (1), if an event referred to in subsection (3) occurs, the date of the event is treated as the end of the person's taxable period.
 
 ### 16 Taxable period returns
 (1) A registered person must provide a return setting out the amount of tax payable by them for a taxable period, calculated under section 20.
@@ -1598,7 +1589,7 @@ In any case where, upon the investigation by the Commissioner of the liability o
 (1) Subject to this Act, every registered person shall within 21 days notify the Commissioner in writing of—
   (a) Any change in the name, address, constitution, or nature of the principal taxable activity or activities of that registered person:
   (b) Any change of address from which, or the name in which, any taxable activity is carried on by that registered person:
-  (c) Any change whereby that registered person, if in category C, ceases to satisfy the conditions of section 15(3) of this Act:
+  (c) Any change whereby that registered person, if in category C, ceases to satisfy the conditions of section 15(2) of this Act:
   (ca) Any change whereby that registered person now satisfies the conditions of either subparagraph (i) or subparagraph (ii) of subsection (4)(b) of section 15 of this Act:
   (cb) Any change whereby that registered person ceases to satisfy the conditions of section 19A of this Act, where the Commissioner has made a direction in respect of that registered person under that section:
   (d) Any change where that registered person, being a member of a group within the meaning of section 55 of this Act, ceases to be eligible to be a member of that group:
@@ -1633,7 +1624,7 @@ The obligations and liabilities under this Act of any person in respect of anyth
 (6) For the purposes of this Act, any notice served in accordance with this Act, which is addressed to the representative member of any group of companies shall be deemed to be served on that representative member and on all members of that group of companies.
 (7) Subject to subsection (7B), where any companies are a group of companies for the purposes of this section,—
   (a) Any taxable activity carried on by a member of the group shall be deemed to be carried on by the representative member and not to be carried on by any other member of the group; and
-  (b) All members of the group shall have the same taxable period pursuant to section 15 or section 15A of this Act and the same accounting basis pursuant to section 19 or section 19A of this Act; and
+  (b) All members of the group shall have the same taxable period pursuant to sections 15 to 15E of this Act and the same accounting basis pursuant to section 19 or section 19A of this Act; and
   (c) Subject to paragraphs (db) and (dc) of this subsection, any taxable supply of goods and services by a member of the group to another member of the group may be disregarded; and
   (d) Any other taxable supply of goods and services by a member of the group shall be deemed to be a taxable supply by the representative member; and
   (da) Any supply of goods and services, other than a taxable supply, made by a member of the group, shall be deemed to be made by the representative member; and
@@ -1657,7 +1648,7 @@ The obligations and liabilities under this Act of any person in respect of anyth
 (3) The registered person first mentioned in subsection (1) of this section may, at any time, apply in writing to the Commissioner for any branch or division separately registered under subsection (2) of this section to cease to be so registered, and the Commissioner shall cancel that separate registration with effect from the last day of the taxable period of the branch or division during which that application was made, and any taxable activity carried on by that branch or division shall thereafter, to that extent, be deemed to be carried on by the registered person first mentioned in subsection (1) of this section.
 (4) The Commissioner shall cancel the separate registration of any branch or division on the cancellation of the registration of the registered person first mentioned in subsection (1) of this section.
 (5) Where any branch or division separately registered pursuant to this section makes default in doing anything required to be done under this Act, the liability for the doing of that thing shall revert to the registered person first mentioned in subsection (1) of this section.
-(6) Notwithstanding the forgoing provisions of this section, for the purposes of sections 15, 15A, 19, and 19A of this Act this section shall be deemed not to have applied, and any placement or direction made pursuant to the said sections 15, 15A, 19, and 19A in respect of the registered person first mentioned in subsection (1) of this section shall, for the purposes of this Act, apply equally to each branch or division separately registered pursuant to this section.
+(6) Notwithstanding the forgoing provisions of this section, for the purposes of sections 15 to 15E, 19, and 19A of this Act this section shall be deemed not to have applied, and any placement or direction made pursuant to the said sections 15 to 15E, 19, and 19A in respect of the registered person first mentioned in subsection (1) of this section shall, for the purposes of this Act, apply equally to each branch or division separately registered pursuant to this section.
 
 ### 56B Branches and divisions in relation to certain imported services
 (1) This section applies to a supply of services that is treated by section 8(4B) as being made in New Zealand.
@@ -2068,3 +2059,102 @@ Where—the supplier may increase the consideration for the supply by an amount 
   (c) Where any supply to which section 84 of this Act applies and in respect of which no invoice has been issued nor any payment received prior to the 1st day of October 1986, the supplier shall, in any one taxable period ending prior to the 1st day of October 1987, set off against any amount of tax payable by that supplier in respect of that taxable period, an amount equal to the tax fraction of the portion of the consideration in money in respect of any such supply that, by virtue of section 84(3)(a) of this Act, is not subject to tax pursuant to section 8(1) of this Act, and to the extent that it cannot be so set off, that amount shall be carried forward to the next taxable period and set off against any amount of tax payable by that supplier in respect of that next taxable period, and so on:
   (d) Any payment received on or after the 1st day of October 1986 in respect of any specified supply to which paragraph (b) or paragraph (c) of this subsection applies shall, notwithstanding anything in this Act, be deemed to be consideration in money for a taxable supply made by that supplier and charged with tax pursuant to section 8(1) of this Act, and the supplier shall include as output tax, in the taxable period during which that payment has been received, an amount equal to the tax fraction of that payment:
   (e) Where and to the extent that any amount remaining unpaid to which paragraph (b) or paragraph (c) of this subsection applies is written off as a bad debt on or after the 1st day of October 1986, that amount written off shall, notwithstanding anything in this Act, be deemed to be consideration for a taxable supply made by that supplier and charged with tax pursuant to section 8(1) of this Act, and the supplier shall include as output tax, in the taxable period during which that amount is written off as a bad debt, an amount equal to the tax fraction of that amount written off.
+
+### 1 Title
+This Act is the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006.
+
+### 2 Commencement
+(1) This Act comes into force on the date on which it receives the Royal assent, except as provided in this section.
+(2) Sections 267 and 279(6) are treated as coming into force on 1 April 1995.
+(3) Sections 274 and 278 are treated as coming into force on 1 April 2003.
+(4) Section 231 is treated as coming into force on 25 November 2003.
+(5) Sections 121 and 122 are treated as coming into force on 4 June 2004.
+(6) Section 281 is treated as coming into force on 1 July 2004.
+(7) Sections 230(1), 234, and 270 are treated as coming into force on 21 December 2004.
+(8) Sections 11(1), 12, 40, 57, 65, 80, 93, 104, 105, 143(5), 180(1), (2), and (3), 187, 191(9), (12), (21), (49), and (60), 193, 199, 202, 206, 207, 208, 210(19), 211(1) to (4) and (6) to (8), 212, 223 to 229, 237, 240, 257, 284(1) and (3), 287(4) and (5), and 303 are treated as coming into force on 1 April 2005.
+(9) Section 73 is treated as coming into force on 19 May 2005.
+(10) Sections 144(1) and (7), 146, and 191(5) are treated as coming into force on 21 July 2005.
+(11) Sections 13, 15(2) and (3), 21, 22, 23, 25, 50, 51, 53, 68, 75, 81, 83(2), 84, 85, 87, 88, 94, 95, 100, 106, 113, 116, 117(1) and (2), 120, 123, 141, 150, 188, 191(10), (15), (17), (18) to (20), (43), (46), (47), (53), (57), and (69), and 198 are treated as coming into force on 1 October 2005.
+(12) Section 191(2) and (72) is treated as coming into force on 21 December 2005.
+(13) Sections 8(2), 15(1), 16, 17, 28, 29 to 37, 45, 91, 92, 97, 98, 111, 125, 131 to 134, 166 to 178, 191(6), (11), (22), (31), (51), and (70), 194(1) and (2), 197(a), and 200 come into force on 1 April 2006.
+(14) Sections 7, 8(1), 14, 20, 39, 41, 44, 59, 66, 67, 83(1), 86, 110, 112, 124, 128 to 130, 142, 143(1) and (3), 145, 147(2) and (4), 148(1) and (3), 152, 153, 155, 156, 179, 180(1) and (6), 181 to 184, 185(1), 186, 191(8), (27), (28), (38), (40), (42), (52), (55), (58), and (59), 197(b), 205, and 214 come into force on 1 July 2006.
+(15) Sections 5, 42, 43, 103, 108, 117(3), 119, 191(48), (54), and (68), 210(3), (9), and (11), 211(2), (5), (7), (8)(a), and (9), 221, 222, 230(2), 254, 255, and 256 come into force on 1 October 2006.
+(16) Sections 292, 293, and 297(1)(a) come into force on 31 March 2007.
+(17) Section 180(7) comes into force on 1 April 2007.
+(18) Sections 77, 114, 115, 118, 137 to 140, 143(2) and (4), 147(1) and (3), 148(2), 149, 160 to 163, 165, 190, 191(4), (7), (16), (26), (29), (30), (44), (45), (50), (56), (61), and (65) to (67), 194(3), 204, 210(4), (5) to (7), (8), (10), (12), (14), (17), and (18), 217, 218, 241 to 251, 258 to 260, 283(4) to (9), 291, 294 to 296, and 300 come into force on 1 October 2007.
+(19) Sections 18, 19, 26, 47, 49, 127, 192, 215, 216, and 297(1)(b) come into force on 1 April 2008.
+(20) Sections 61 to 64, 101, 301, and 302 come into force on 1 August 2006.
+
+## Part 3 — Amendments to other Acts
+
+**Goods and Services Tax Act 1985**
+
+### 283 Interpretation
+(1) This section amends section 2.
+(2) Amendment incorporated in the principal Act.
+(3) Amendment incorporated in the principal Act.
+(4) Amendment incorporated in the principal Act.
+(5) Amendment incorporated in the principal Act.
+(6) Amendment incorporated in the principal Act.
+(7) Amendment incorporated in the principal Act.
+(8) Amendment incorporated in the principal Act.
+(9) Amendment incorporated in the principal Act.
+(10) Subsection (3) applies for taxable periods of a registered person that begin on or after the beginning of the person's 2007–08 income year.
+(11) Subsections (4) to (9) apply for a registered person for—
+  (a) a taxable period that begins on or after the beginning of the registered person's 2008–09 income year, if the registered person derives assessable income in that income year:
+  (b) a taxable period that begins on or after 1 April 2008, if paragraph (a) does not apply.
+
+### 291 Sections 15 to 15AB replaced
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies for a registered person for
+  (a) a taxable period that begins on or after the beginning of the registered person's income year corresponding to the 2008–09 tax year, if the registered person derives assessable income in that income year:
+  (b) a taxable period that begins on or after 1 April 2008, if paragraph (a) does not apply.
+
+### 296 Branches and divisions
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies for a registered person for
+  (a) a taxable period that begins on or after the beginning of the registered person's income year corresponding to the 2008–09 tax year, if the registered person derives assessable income in that income year:
+  (b) a taxable period that begins on or after 1 April 2008, if paragraph (a) does not apply.
+
+### 1 Title
+This Act is the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006.
+
+### 2 Commencement
+(1) This Act comes into force on the date on which it receives the Royal assent, except as provided in this section.
+(2) Section 209 is treated as coming into force on 30 November 1993.
+(3) Section 201 is treated as coming into force on 1 April 1995.
+(4) Section 207(2) is treated as coming into force on 26 July 1996.
+(5) Section 207(4) is treated as coming into force on 20 May 1999.
+(6) Section 206 is treated as coming into force on 1 April 2000.
+(7) Section 218(1), (3), (4), and (5) is treated as coming into force on 1 October 2001.
+(8) Section 205 is treated as coming into force on 26 March 2003.
+(9) Sections 202, 204, and 207(3) are treated as coming into force on 1 April 2003.
+(10) Section 25(1), (2), (4), (5), and (7) are treated as coming into force on 1 February 2004.
+(11) Sections 6, 12, 13, 16, 17, 20(1)(a), 27, 31, 40, 58, 59(1), 60, 62, 63, 77(4), 78(1)(a), (3), (4)(a), (6), and (7), 80(1)(c) and (2), 82, 85, 88, 94, 96, 129, 138, 139, 140, 141, 152(1) and (3), 155(3), (4), (10), (11), (17), (19)(a), (21), (22), (36), and (45), 156, 158(2)(a), 166, 167, 169(3), 170, 171, 172, 179, 183, and 218(2) are treated as coming into force on 1 April 2005.
+(12) Sections 19 and 195 are treated as coming into force on 21 June 2005.
+(13) Sections 14, 32, 33, 37, 38, 43, 48, 49, 50, 54, 55, 56, 77(3), 86, 87, 90, 91, 92(1), (2), (4), and (6), 95, 102, 147(1) and (2), 148, 155(2), (9), and (33), 159, and 163 are treated as coming into force on 1 October 2005.
+(14) Sections 22, 110, 119, 137, 155(23), and 161(2) are treated as coming into force on 1 April 2006.
+(15) Sections 34, 35, 36, 135, 136, 149, 153, 155(32), 157, 177, 186, 187, and 208 are treated as coming into force on 3 April 2006.
+(16) Sections 29, 39, 44, 45, 46, 92(3), (5), and (7), and 131(1) are treated as coming into force on 17 May 2006.
+(17) Sections 117, 132, 151, 155(24), and 178 are treated as coming into force on 1 July 2006.
+(18) Section 11 comes into force 3 months after the date on which this Act receives the Royal assent.
+(19) Sections 191 and 216 come into force on 31 March 2007.
+(20) Sections 5(1) and (2), 8(2), (3), (4), and (5), 24(1), 25(3), (6), (8), and (9), 26(1), 61(1), 64(1) to (3), 65(1) to (3), 66(1), 67(1) and (2), 68(1), 69(1) to (3), 70(1), 71(1), 72(1), 73(1), 74(1) to (3), 75(1) to (3), 76(1) to (3), 77(1), (2), and (6), 78(1)(b), (2), (4)(b), (5), and (8), 79(1), 80(1)(a) and (b), (3), (4), and (5), 81(1) and (2), 83(1), 89(1), 93(1) and (2), 99(1), 101(1) and (2), 142, 143, 144, 145(1), 155(5), (7), (13), (15), (16), (18), (19)(b), (29), (42), (44), and (46), 160, 162, 181, 189, and 193 come into force on 1 April 2007.
+(21) Sections 145(2) to (6), 146, 155(26) and (27), and 220 to 227 come into force on 1 July 2007.
+(22) Sections 4, 7, 10, 15, 18, 21, 28, 51, 97, 98, 100, 103(1), 112, 113, 114, 115, 116, 118, 120, 121, 122, 123, 124, 125, 126, 127, 128, 131(2), 133, 134, 147(3), 150, 152(2), 154, 155(20), (25), (30), (35), (37), (39), (43), and (47), 158(2)(b), 165, 176, 180, 182, 184, 185, 188, 196, 197, 198, 199, 214, 215, 219, 229, 230, 232, 233, 240, 241, 243, 244, 246, and 247 come into force on 1 October 2007.
+
+## Part 3 — Amendments to other Acts and regulations
+
+**Goods and Services Tax Act 1985**
+
+### 214 Changes in taxable periods
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies for a registered person for—
+  (a) a taxable period that begins on or after the beginning of the registered person's income year corresponding to the 2008–09 tax year, if the registered person derives assessable income in that income year:
+  (b) a taxable period that begins on or after 1 April 2008, if paragraph (a) does not apply.
+
+### 215 When change in taxable period takes effect
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for a registered person for—
+  (a) a taxable period that begins on or after the beginning of the registered person's income year corresponding to the 2008–09 tax year, if the registered person derives assessable income in that income year:
+  (b) a taxable period that begins on or after 1 April 2008, if paragraph (a) does not apply.
