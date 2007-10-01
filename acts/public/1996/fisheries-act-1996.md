@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-10-01_
 
 > An Act—aTo reform and restate the law relating to fisheries resources; andbTo recognise New Zealand's international obligations relating to fishing; andcTo provide for related matters
 
@@ -6650,7 +6650,7 @@ All positions and directions described in this Schedule are based on a geographi
 | PAU5A | 1 |
 | PAU5B | 1 |
 | PAU5D | 1 |
-| PAU6 | 1 |
+| PAU6 | 0.1 |
 | PAU6A | 1 |
 | PAU7 | 1 |
 | PAU10 | 1 |
