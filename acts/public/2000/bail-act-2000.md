@@ -1,5 +1,5 @@
 # Bail Act 2000
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-10-01_
 
 ### 1 Title
 This Act is the Bail Act 2000.
@@ -48,11 +48,13 @@ Unless expressly stated otherwise in this or in any other enactment, any decisio
 (5) Subject to sections 9 to 17, a defendant who is charged with an offence and is not bailable as of right must be released by a court on reasonable terms and conditions unless the court is satisfied that there is just cause for continued detention.
 
 ### 8 Consideration of just cause for continued detention
-(1) In considering whether there is just cause for continued detention, the court must take into account the following considerations:
-  (a) whether there is a risk that the defendant may fail to appear in court on the date to which the defendant has been remanded:
-  (b) whether there is a risk that the defendant may interfere with witnesses or other evidence:
-  (c) whether there is a risk that the defendant may offend while on bail.
-(2) In addition to the considerations in subsection (1), when considering whether there is just cause for continued detention, the court may take into account—
+(1) In considering whether there is just cause for continued detention, the court must take into account—
+  (a) whether there is a real and significant risk that—
+    (i) the defendant may fail to appear in court on the date to which the defendant has been remanded; or
+    (ii) the defendant may interfere with witnesses or evidence; or
+    (iii) the defendant may offend while on bail; and
+  (b) any matter that would make it unjust to detain the defendant.
+(2) In considering whether there is just cause for continued detention under subsection (1), the court may take into account the following:
   (a) the nature of the offence with which the defendant is charged, and whether it is a grave or less serious one of its kind:
   (b) the strength of the evidence and the probability of conviction or otherwise:
   (c) the seriousness of the punishment to which the defendant is liable, and the severity of the punishment that is likely to be imposed:
@@ -61,8 +63,9 @@ Unless expressly stated otherwise in this or in any other enactment, any decisio
   (f) the likely length of time before the matter comes to hearing or trial:
   (g) the possibility of prejudice to the defence in the preparation of the defence if the defendant is remanded in custody:
   (h) any other special matter that is relevant in the particular circumstances.
-(3) When considering an application for bail, any views of a victim of an offence of a kind referred to in section 29 of the Victims' Rights Act 2002, or of a parent or legal guardian of a victim of that kind, conveyed in accordance with section 30 of that Act, must be taken into account.
-(4) In deciding, in relation to a defendant charged with an offence against section 49(1)(a) or section 49(1)(b) of the Domestic Violence Act 1995, whether or not to grant bail to the defendant or allow the defendant to go at large, the need to protect the victim of the alleged offence is the paramount consideration.
+(3) For the avoidance of doubt, in considering whether there is just cause for continued detention under this section, a breach of bail conditions may only be taken into account under subsection (2)(e) in so far as it is relevant to whether there is a real and significant risk that the defendant may do any of the things set out in subsection (1)(a).
+(4) When considering an application for bail, the court must take into account any views of a victim of an offence of a kind referred to in section 29 of the Victims' Rights Act 2002, or of a parent or legal guardian of a victim of that kind, conveyed in accordance with section 30 of that Act.
+(5) In deciding, in relation to a defendant charged with an offence against section 49(1)(a) or (b) of the Domestic Violence Act 1995, whether or not to grant bail to the defendant or allow the defendant to go at large, the court's paramount consideration is the need to protect the victim of the alleged offence.
 
 ### 9 Restriction on bail if defendant charged with treason or espionage
 No defendant who is charged with a crime against section 73 or section 76 of the Crimes Act 1961 (which relate to treason) or against section 78 of the Crimes Act 1961 (which relates to espionage) may be granted bail except by order of the Governor-General or a High Court Judge.
@@ -233,10 +236,10 @@ This Part applies to any proceeding where a defendant is proceeded against summa
 ### 28 Bail on adjournment
 (1) In any case referred to in section 46(1) of the Summary Proceedings Act 1957 (which relates to dealing with a defendant on adjournment), the District Court may grant the defendant bail under this section for the period of the adjournment.
 (2) A Registrar may exercise the power conferred by subsection (1) to grant bail if—
-  (a) the informant does not oppose bail; and
-  (b) the offence with which the defendant has been charged—
+  (a) the informant does not oppose bail and the offence with which the defendant has been charged—
     (i) is not punishable by imprisonment; or
-    (ii) is punishable by a term of imprisonment of not more than 10 years.
+    (ii) is punishable by a term of imprisonment of not more than 10 years; or
+  (b) the prosecution agrees.
 
 ### 29 Warrant for detention of defendant remanded on bail
 If the defendant is granted bail under section 28, a District Court or Registrar may, and must if the defendant is not released within the period specified in section 32(3)(a),—
@@ -346,13 +349,13 @@ A defendant commits an offence and is liable on summary conviction to imprisonme
 **Bail on deferment of sentence**
 
 ### 39A Bail on deferment of sentence
-(1) This section applies if the start date of a sentence imposed on an offender following summary conviction is deferred under section 100 of the Sentencing Act 2002 and the offender is not liable to be detained under any other sentence or order.
+(1) This section applies if the start date of a sentence imposed on an offender following summary conviction is deferred under section 80W or section 100 of the Sentencing Act 2002 and the offender is not liable to be detained under any other sentence or order.
 (2) If this section applies, the court that defers the start date of the offender's sentence must grant the offender bail.
 (3) An offender who is granted bail under this section must be released on condition that the offender must,—
-  (a) if he or she has been given leave to apply for home detention,—
-    (i) apply, within 2 weeks of the bail being granted, for home detention in accordance with section 33(1) of the Parole Act 2002; and
-    (ii) appear at any hearing by the New Zealand Parole Board of that application; and
-  (b) surrender himself or herself to the prison manager of the prison concerned at the expiry of the period of the deferral, being the period specified by the court or the period ending with the date on which the New Zealand Parole Board determines the application for home detention, whichever is sooner.
+  (a) if the sentence is deferred under section 80W of the Sentencing Act 2002,—
+    (i) go to and remain at the home detention residence (as defined in section 4 of that Act) at the expiry of the period of deferral specified by the court, unless absent in accordance with section 80C(3)(a) or (b) of that Act; and
+    (ii) advise a probation officer as soon as possible of any change in circumstances affecting the availability or suitability of the home detention residence; or
+  (b) if the sentence is deferred under section 100 of the Sentencing Act 2002, surrender himself or herself to the prison manager of the prison concerned at the expiry of the period of deferral specified by the court.
 (4) The provisions of sections 31 to 38, and 41 to 44, as far as they are applicable and with all necessary modifications, apply as if the offender were a defendant who had been granted bail.
 (5) If any decision is made under section 34(1) (as applied by subsection (4)) in respect of an offender, the provisions of section 41(3) to (6) and section 42, as far as they are applicable and with all necessary modifications, apply as if the offender were a defendant granted bail.
 
@@ -572,13 +575,13 @@ If the jury finds the defendant guilty, or if the defendant pleads guilty, and i
 **Bail on deferment of sentence**
 
 ### 65A Bail on deferment of sentence
-(1) This section applies if the start date of a sentence imposed on an offender following conviction on indictment is deferred under section 100 of the Sentencing Act 2002 and the offender is not liable to be detained under any other sentence or order.
+(1) This section applies if the start date of a sentence imposed on an offender following conviction on indictment is deferred under section 80W or section 100 of the Sentencing Act 2002 and the offender is not liable to be detained under any other sentence or order.
 (2) If this section applies, the court that defers the start date of the offender's sentence must grant the offender bail.
 (3) An offender who is granted bail under this section must be released on condition that the offender must,—
-  (a) if he or she has been given leave to apply for home detention,—
-    (i) apply, within 2 weeks of the bail being granted, for home detention in accordance with section 33(1) of the Parole Act 2002; and
-    (ii) appear at any hearing by the New Zealand Parole Board of that application; and
-  (b) surrender himself or herself to the prison manager of the prison concerned at the expiry of the period of the deferral, being the period specified by the court or the period ending with the date on which the New Zealand Parole Board determines the application for home detention, whichever is sooner.
+  (a) if the sentence is deferred under section 80W of the Sentencing Act 2002,—
+    (i) go to and remain at the home detention residence (as defined in section 4 of that Act) at the expiry of the period of deferral specified by the court, unless absent in accordance with section 80C(3)(a) or (b) of that Act; and
+    (ii) advise a probation officer as soon as possible of any change in circumstances affecting the availability or suitability of the home detention residence; or
+  (b) if the sentence is deferred under section 100 of the Sentencing Act 2002, surrender himself or herself to the prison manager of the prison concerned at the expiry of the period of deferral specified by the court.
 (4) The following provisions, as far as they are applicable and with all necessary modifications, apply as if the offender were a defendant who had been granted bail:—
   (a) in the case of an offender granted bail by a District Court, sections 31 to 38, and 41 to 44:
   (b) in the case of an offender granted bail by the High Court or the Court of Appeal, sections 56 to 63 and sections 66 to 69.
