@@ -1,5 +1,5 @@
 # Trustee Act 1956
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-10-01_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to trusts and trustees
 
@@ -27,7 +27,7 @@ _Consolidation as at 2007-09-03_
   - **Person** includes a trustee corporation, and a corporation sole, and also a body of persons, whether corporate or unincorporate
   - **Personal representative** means the executor, original or by representation, or an administrator for the time being of a deceased person
   - **Possession** includes receipt of income or the right to receive the same, if any; and applies to receipt of income of and to any vested estate less than a life interest, at law or in equity, in possession or in expectancy in any land
-  - **portfolio investment entity**
+  - **portfolio investment entity** means a portfolio investment entity within the meaning of the Income Tax Act 2004
   - **Property** includes real and personal property, and any estate, share, and interest in any property, real or personal, and any debt, and any thing in action, and any other right or interest, whether in possession or not
   - **Registrar** means the Registrar of the Court for the district in which any proceeding is taken or anything is done under this Act, and includes a deputy Registrar where there is no Registrar, or in any case where the Deputy may lawfully act for and on behalf of the Registrar
   - **Rent** includes a rent service or a rentcharge, or other rent, toll, duty, royalty, or annual or periodical payment in money or money's worth reserved or issuing out of or charged upon land, but does not include mortgage interest
@@ -540,7 +540,7 @@ Where any property settled by way of succession is employed in a business that t
 **Special powers in respect of portfolio investment entities**
 
 ### 42E Power to adjust interests in trust property of portfolio investment entity
-[Repealed]
+Where any property is employed in an activity that the trustee is empowered or authorised to carry on as a portfolio investment entity, the trustee may adjust the interests of the beneficiaries in the property in the way required by section HL 7 of the Income Tax Act 2004 despite any other provision in this Act, in the Superannuation Schemes Act 1989, or in any instrument creating the trust under which the property is held
 
 ## Part 4 — Appointment and discharge of trustees
 
