@@ -1,5 +1,5 @@
 # Trustee Companies Act 1967
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-10-01_
 
 > An Act to make better provision for the operation of trustee companies
 
@@ -25,7 +25,7 @@ In this Act, unless the context otherwise requires,—
   - **Manager** , in relation to any trustee company, includes the general manager, the assistant general manager, the secretary, and any branch manager of the company
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Person** includes a corporation sole, and also a body of persons, whether corporate or unincorporate
-  - **portfolio investment entity**
+  - **portfolio investment entity** means a portfolio investment entity within the meaning of the Income Tax Act 2004
   - **Secretary** ,—
     (a) In relation to a trustee company that also carries on business other than trust business as empowered by this Act, means the secretary of the trust department of the company:
     (b) In relation to any other trustee company, means the secretary of the company:
@@ -281,7 +281,7 @@ Subject to the provisions of this Part of this Act, a trustee company may exerci
   (b) Such further powers as may be conferred on the company by the Court, being powers which could be conferred on the company by the Court if the investments and funds were trust property not forming part of a Group Investment Fund.
 
 ### 33B Powers of trustee company or manager to adjust interest in trust property of Fund that is portfolio investment entity
-[Repealed]
+Where any investments and funds comprising a Group Investment Fund are employed in an activity that the trustee company is empowered or authorised to carry on as a portfolio investment entity, the trustee company or the manager of the Fund may adjust the interests of the beneficiaries in the property in the way required by section HL 7 of the Income Tax Act 2004 despite any other provision in this Act or in any instrument creating the trust under which the investments and funds are held.
 
 ### 34 Examination of Group Investment Funds
 The provisions of section 83A of the Trustee Act 1956 (which section was enacted by section 10 of the Trustee Amendment Act 1957) shall apply to every Group Investment Fund as if it were a trust estate:
