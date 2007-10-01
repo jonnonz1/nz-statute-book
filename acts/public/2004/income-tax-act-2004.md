@@ -1,5 +1,5 @@
 # Income Tax Act 2004
-_Consolidation as at 2007-09-10_
+_Consolidation as at 2007-10-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2004.
@@ -314,7 +314,16 @@ An amount that a person derives from disposing of personal property is income of
 An amount that a person derives from disposing of personal property is income of the person if their business is to deal in property of that kind.
 
 ### CB 4B Disposals of certain shares by portfolio investment entity after declaration of dividend
-[Repealed]
+When this section applies
+(1) This section applies to a portfolio investment entity who disposes of a share in a company if—
+  (a) section CX 44C (Proceeds from disposal of certain shares by portfolio investment entities or New Zealand Superannuation Fund) applies to the income from the disposal; and
+  (b) a dividend from the share is—
+    (i) declared before the disposal; and
+    (ii) paid to a holder of the share who after the disposal becomes entitled to the dividend.
+Assessable income
+(2) The portfolio investment entity is treated as deriving an amount of income equal to—
+  (a) the amount of the dividend that is not fully imputed as that term is defined in section NG 2(3) (Application of NRWT rules), if the share is issued by a company that has an imputation credit account; or
+  (b) the amount of the dividend, if paragraph (a) does not apply.
 
 ### CB 5 Disposal: land acquired for purpose or with intention of disposal
 Income
@@ -1942,7 +1951,7 @@ Timing of income
 ### Subpart CP — Income from portfolio investment entities
 
 ### CP 1 Portfolio investor allocated income
-[Repealed]
+The amount of portfolio investor allocated income of a person who is an investor in a portfolio tax rate entity is income of the person in the income year that includes the end of the entity's income year for which the person is allocated the amount.
 
 ### Subpart CQ — Attributed income from foreign equity
 
@@ -2933,7 +2942,9 @@ Exempt income
 
 ### CW 9 Dividend derived by company from overseas
 Exempt income
-(1) A dividend is exempt income if derived by a company that is resident in New Zealand from a foreign company.
+(1) A dividend from a foreign company is exempt income if derived by a company that is—
+  (a) resident in New Zealand; and
+  (b) not a portfolio tax rate entity.
 Dividend withholding payment rules apply
 (2) The dividend withholding payment rules apply to the dividend.
 
@@ -4127,13 +4138,35 @@ Excluded income
 An amount of share-lending collateral derived by a person under a share-lending arrangement is excluded income of the person.
 
 ### CX 44C Proceeds from disposal of certain shares by portfolio investment entities or New Zealand Superannuation Fund
-[Repealed]
+When this section applies
+(1) This section applies to income derived by a portfolio investment entity or the New Zealand Superannuation Fund from the disposal of a share if—
+  (a) the share is issued by a company resident in New Zealand and not treated under a double tax agreement as not being resident in New Zealand or by a company—
+    (i) resident in Australia and not treated under a double tax agreement between Australia and another country as being resident in a country other than Australia or New Zealand; and
+    (ii) included in an index that is an approved index under the ASX Market Rules, made under Chapter 7 of the Corporations Act 2001 (Aust); and
+    (iii) required under the Income Tax Assessment Act 1997 (Aust) and Income Tax Assessment Act 1936 (Aust) to maintain a franking account; and
+  (b) the share is not a non-participating redeemable share.
+Excluded income
+(2) The income is excluded income of the portfolio investment entity or the New Zealand Superannuation Fund.
 
 ### CX 44D Portfolio investor allocated income and distributions of income by portfolio investment entities
-[Repealed]
+Portfolio investor allocated income
+(1) Portfolio investor allocated income derived under section CP 1 (Portfolio investor allocated income) in a portfolio calculation period in an income year by an investor in a portfolio tax rate entity is excluded income of the investor if—
+  (a) the prescribed investor rate for the investor is more than 0%; and
+  (b) the investor does not, before the last day of the income year, provide to the portfolio investment entity a portfolio investor rate for the income year that is less than the prescribed investor rate for the income year; and
+  (c) for a portfolio tax rate entity making payments of tax under section HL 21 (Payments of tax by portfolio tax rate entity making no election), the portfolio investor allocated income is not allocated to a portfolio allocation period that includes part of a portfolio investor exit period for the investor.
+Distribution of income by portfolio tax rate entity
+(2) An amount of income derived by an investor as a distribution by a portfolio tax rate entity is excluded income of the investor.
+Distribution by portfolio investment entity that is not portfolio tax rate entity
+(3) An amount of income derived in an income year by an investor as a distribution by a portfolio listed company is—
+  (a) excluded income of the investor, if the investor is a resident who—
+    (i) is a natural person other than a trustee; and
+    (ii) does not include the distribution as income in a return of income for the income year:
+  (b) excluded income of the investor, if paragraph (a) does not apply, to the extent to which the amount of the distribution exceeds the total of the following:
+    (i) the amount of the distribution that is fully imputed, as that term is defined in section NG 2(3) (Non-resident withholding tax imposed):
+    (ii) the amount of the distribution that is fully dividend withholding payment credited, as that term is defined in section NG 2(4).
 
 ### CX 44E Rebates of certain fees by portfolio tax rate entities
-[Repealed]
+A rebate of fees allocated to an investor as a member of a portfolio investor class by a portfolio tax rate entity is excluded income of the investor if the rebate is included in the calculation of the entity's portfolio entity tax liability under section HL 20 (Portfolio entity tax liability and rebates of portfolio tax rate entity for period) for the investor, the portfolio investor class, and a portfolio calculation period.
 
 ### CX 45 Exclusion under Parts to be rewritten
 An amount of income is excluded income if it is excluded under a provision in any of Parts F to I.
@@ -4672,14 +4705,19 @@ Link with subpart DA
 (4) This section supplements the general permission. The general limitations still apply.
 
 ### DB 17 Cost of revenue account property
+When this section applies
+(1) This section applies if a person incurs expenditure as the cost of revenue account property.
 Deduction
-(1) A person is allowed a deduction for expenditure that they incur as the cost of revenue account property.
-Link with subpart DA
-(2) This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
+(2) The person is allowed a deduction for the expenditure.
 Exclusion for portfolio investment entities
-(3)
+(3) Subsection (2) does not apply to the expenditure if—
+  (a) the person is a portfolio investment entity; and
+  (b) section CX 44C (Proceeds from disposal of certain shares by portfolio investment entities or New Zealand Superannuation Fund) applies to income derived by the person from the disposal of the revenue account property.
 Link with subpart DA
-(4)
+(4) The link between this section and subpart DA (General rules) is—
+  (a) subsection (2) overrides the capital limitation but the general permission must still be satisfied; and
+  (b) subsection (3) overrides the general permission; and
+  (c) the other general limitations still apply.
 
 ### DB 18 Share losses
 When this section applies
@@ -5132,10 +5170,26 @@ Link with subpart DA
 (3) This section supplements the general permission. The general limitations still apply.
 
 ### DB 43B Certain investors have deduction for portfolio investor allocated loss
-[Repealed]
+When this section applies
+(1) This section applies to an investor in a portfolio investor class of a portfolio tax rate entity for a portfolio calculation period of the entity when—
+  (a) the investor—
+    (i) is a zero-rated portfolio investor for the portfolio calculation period:
+    (ii) has all or part of a portfolio investor exit period included in the portfolio calculation period and the entity makes payments of tax under section HL 21 (Payments of tax by portfolio tax rate entity making no election); and
+  (b) the portfolio calculation period includes a portfolio allocation period for which the person is allocated an amount of portfolio investor allocated loss under subpart HL (Portfolio investment entities).
+Deduction
+(2) The investor has a deduction for an income year for the amount of portfolio investor allocated loss if—
+  (a) the portfolio tax rate entity makes payments of tax under section HL 21 or HL 22 (Payments of tax by portfolio tax rate entity choosing to pay provisional tax) and the investor's income year includes the end of the portfolio calculation period:
+  (b) the portfolio tax rate entity makes payments of tax under section HL 23 (Payments of tax by portfolio tax rate entity choosing to make payments when investor leaves) and the investor's income year includes the end of the tax year in which the portfolio calculation period occurs.
 
 ### DB 43C Certain fees charged by portfolio tax rate entities to investors not allowed as deductions
-[Repealed]
+When this section applies
+(1) This section applies to an investor in a portfolio investor class of a portfolio tax rate entity when—
+  (a) the investor incurs fees in relation to the investor's portfolio investor interest; and
+  (b) the amount of the fees is included in the calculation of the entity's portfolio entity tax liability under section HL 20 (Portfolio entity tax liability and rebates of portfolio tax rate entity for period) for the investor, the portfolio investor class, and a portfolio calculation period.
+No deduction
+(2) The investor is denied a deduction for the amount of the fees.
+Link with subpart DA
+(3) This section overrides the general permission.
 
 ### DB 44 Expenditure incurred in deriving exempt dividend
 Deduction
@@ -7494,7 +7548,7 @@ Exclusions
   (b) depreciable property:
   (c) a financial arrangement to which the financial arrangements rules or the old financial arrangements rules apply:
   (d) an excepted financial arrangement that a life insurer has:
-  (db)
+  (db) an excepted financial arrangement held by a person if section CX 44C (Proceeds from disposal of certain shares by portfolio investment entities or New Zealand Superannuation Fund) applies to the income of the person from a disposal of the excepted financial arrangement:
   (e) livestock not used in a dealing business:
   (f) consumable aids to be used in the process of producing trading stock:
   (g) a spare part not held for sale or exchange.
@@ -9431,11 +9485,11 @@ Timing of deduction
 Earlier income year
 (2) If a deduction for an ACC levy or premium has been allocated to an income year earlier than the income year in which the levy or premium becomes due and payable and, because of the time bar or for another reason, the Commissioner cannot lawfully amend the assessment for the income year, the deduction is allocated to the income year in which it was allowed.
 Balance dates between 1 October and 6 April
-(3) If a person's income year ends on a balance date falling between 1 October and 6 April (both dates inclusive), an ACC levy or premium that is due on a date in schedule 13, part A, column E (Months for payment of provisional tax and terminal tax) is to be treated as if it were due and payable on the relevant date in column D of that part of the schedule.
+(3) If a person's income year ends on a balance date falling between 1 October and 6 April (both dates inclusive), an ACC levy or premium that is due on a date in schedule 13, part A, column H (Dates for payment of provisional tax) is treated as if it were due and payable on the relevant date in schedule 13, part A, column G for the person's corresponding income year.
 References to dates in schedule 13
-(4) For the purposes of subsection (3), references to dates in schedule 13, part A (Months for payment of provisional tax and terminal tax) (which refers to months only, and not days) are references to the day in the relevant month that is fixed by whichever is relevant of—
-  (a) the definitions of first instalment date, second instalment date, and third instalment date in section OB 1 (Definitions); and
-  (b) sections MB 5A (Amount of provisional tax instalments in transitional year) and MC 1 (Payment of terminal tax).
+(4) For the purposes of subsection (3), references to the date in schedule 13, part A, columns G and H (which refer to months only and not days) are references to the day in the relevant month that is fixed by the following:
+  (a) the definition of instalment date in section OB 1 (Definitions); and
+  (b) sections MB 1(3), and MB 19 to 23 (which relate to provisional tax instalments in transitional years), and MC 1 (Payment of terminal tax).
 Meaning of ACC levy or premium
 (5) In this section, ACC levy or premium means any of the following levies, premiums, or penalties:
   (a) the following levy or premium:
@@ -9555,7 +9609,16 @@ Some definitions
   - **cash accounting method** means a method of accounting by which the income tax liability of a person is calculated by reference to cash receipts or outgoings.
 
 ### EG 3 Allocation of income and deductions by portfolio tax rate entity
-[Repealed]
+When this section applies
+(1) This section applies for the calculation of a portfolio tax rate entity's liability for income tax for a tax year.
+Allocation shown in accounts
+(2) Income and deductions of the portfolio tax rate entity are allocated—
+  (a) to portfolio allocation periods as—
+    (i) reflected in the entity's valuations of portfolio investor interests, if the entity makes such valuations; or
+    (ii) shown in the entity's financial statements, if subparagraph (i) does not apply:
+  (b) to portfolio investor classes and investors as—
+    (i) reflected in the entity's valuations of portfolio investor interests, if the entity makes such valuations; or
+    (ii) shown in the entity's financial statements, if subparagraph (i) does not apply.
 
 ### Subpart EH — Income equalisation schemes
 
@@ -12148,9 +12211,14 @@ Tests of control
     (iii) the other person is not associated with the New Zealand resident:
   (c) there is a group of 5 or fewer New Zealand residents who can control the exercise of the shareholder decision- making rights for the company and, as a result, control the company's affairs.
 Exception
-(1B)
+(1B) Even if 1 of the tests in subsection (1) is met, a foreign company is not a CFC if—
+  (a) the foreign company is a foreign investment vehicle; and
+  (b) one of the New Zealand residents is—
+    (i) a portfolio investment entity:
+    (ii) an entity eligible to be a portfolio investment entity:
+    (iii) a life insurance company.
 Status applies for whole accounting period
-(2) If any of the tests is met at any time in a foreign company's accounting period, the company is treated as a CFC for the whole of the accounting period.
+(2) If any of the tests in subsection (1) is met at any time in a foreign company's accounting period and the exception in subsection (1B) does not apply at that time, the company is treated as a CFC for the whole of the accounting period.
 
 **Calculation of person's control interest**
 
@@ -17598,7 +17666,7 @@ Where any arrangement has been made or entered into before 1 October 1974 and th
   (a) subsection (1) does not apply to impose on any company other than the companies specified in the Commissioner's written approval joint and several liability for income tax assessed in respect of the consolidated group for the income year to which the approval relates, except to the extent that—
     (i) the specified companies default in meeting their liability for that income tax assessed; and
     (ii) the Commissioner determines that the income tax liability of the consolidated group that is attributable to the taxable income of the other company is to be recovered from the other company:
-  (b) section MB 7(1) does not apply to impose on any company other than the companies specified in the Commissioner's written approval joint and several liability for the amount of provisional tax payable by the consolidated group for the income year to which the approval relates.
+  (b) sections MB 29 and MB 30 do not apply to impose on any company other than the companies specified in the Commissioner's written approval joint and several liability for the amount of provisional tax payable by the consolidated group for the income year to which the approval relates.
 
 ### HB 2 Taxable income to be calculated generally as if group were single company
 (1) Notwithstanding any other section of this Act, for the purposes of ensuring that a consolidated group is generally liable to income tax as if it were a single company, when calculating the taxable income for all or part of any income year of a company which is for that income year or part income year a member of the consolidated group (that year or part year being in this subsection referred to as the relevant period and the relevant period for the purposes of this section being treated as if it were an income year) to be included in the group return of income under section HB 1,—
@@ -17880,7 +17948,7 @@ Notwithstanding any other provision of this Act,—
 (2) Subject to this section, and to sections 94 and 139B of the Tax Administration Act 1994, the provisions of this Act and of the Tax Administration Act 1994, so far as they are applicable and with any necessary modifications, apply with respect to qualifying company election tax, and to any late payment penalty payable under section 139B of the Tax Administration Act 1994 in respect of that qualifying company election tax as if it were income tax imposed under section BB 1, but nothing in this section is to be so construed as to include qualifying company election tax or any such late payment penalty in the expressions income tax or tax for the purposes of—
   (a) the provisions listed in section OB 6(3); or
   (b) the provisional tax rules; or
-  (c) section 120K of the Tax Administration Act 1994.
+  (c) sections 120KB to 120KE of the Tax Administration Act 1994.
 
 ### HG 13 Dividends from qualifying company
 (1) Where any qualifying company pays a dividend to any person (in this section referred to as the shareholder) resident in New Zealand,—
@@ -18430,103 +18498,695 @@ Every non-resident trader is, for the purposes of this Act and the Tax Administr
 ### Subpart HL — Portfolio investment entities
 
 ### HL 1 Intended effect on portfolio tax rate entities and investors
-[Repealed]
+What this section does
+(1) This section describes the intended effects of this subpart and related provisions of the Act on a portfolio investment entity that is a portfolio tax rate entity and on an investor in a portfolio tax rate entity.
+Intended effect on portfolio tax rate entity
+(2) The intended effects for a person (the entity) who is using funds supplied by investors to make investments of specified types and who satisfies the other requirements for being a portfolio tax rate entity are that the entity—
+  (a) has a tax liability, on proceeds of the investments that are allocated to investors who are natural persons,—
+    (i) calculated using a portfolio investor rate for each investor; and
+    (ii) resembling the total tax liability that the group of investors would have if the investors were to make the investments separately; and
+  (b) has no tax liability on proceeds of the investments that are allocated to other investors; and
+  (c) distributes to each investor amounts resembling the amounts that the investor would receive, after allowing for the tax paid by the entity, if making the investments separately.
+Intended effect on investor in portfolio tax rate entity
+(3) The intended effects for an investor in the entity are that the investor—
+  (a) has no tax liability on income arising from proceeds for which the entity has a tax liability based on a portfolio investor rate of more than zero, unless the investor has given to the entity a portfolio investor rate that is lower than the correct rate; and
+  (b) is liable for tax on any assessable income arising from proceeds for which the entity has a tax liability based on a portfolio investor rate of zero; and
+  (c) receives on the investment in the entity an economic return resembling the return that the investor would receive after payment of tax liabilities if personally making investments similar to those made by the entity in which the investor has an interest.
 
 ### HL 2 Scheme of subpart
-[Repealed]
+Eligibility to be portfolio investment entity
+(1) The eligibility of an entity to be a portfolio investment entity is determined by sections HL 3 to HL 10.
+Election to be portfolio investment entity
+(2) An entity who is eligible to be a portfolio investment entity may choose under section HL 11 to be a portfolio investment entity.
+Becoming a portfolio investment entity
+(3) The time at which an entity becomes a portfolio investment entity and the effects of the change are given by sections HL 12 and HL 13.
+Ceasing to be a portfolio investment entity
+(4) The time at which an entity ceases to be a portfolio investment entity and the effects of the change are given by section HL 14.
+Portfolio allocation period and portfolio calculation period
+(5) An entity who is a portfolio tax rate entity has under section HL 15—
+  (a) a portfolio allocation period, which gives the length of the periods in the tax year to which the entity's income and outgoings are allocated; and
+  (b) a portfolio calculation period, which gives the length of the periods in the tax year between each calculation by the entity of the amounts of income and outgoings allocated to each portfolio allocation period.
+Treatment of entity's income from property with no investor or with interest not vested
+(6) The treatment of income from an entity's property in which no investor has an interest, or in which the interest has not vested in an investor, is given by section HL 16.
+Portfolio entity tax liability
+(7) An entity who is a portfolio tax rate entity in a portfolio allocation period must pay income tax of an amount found from the following amounts:
+  (a) the portfolio class net income or portfolio class net loss calculated under section HL 18—
+    (i) for each portfolio investor class and each portfolio allocation period:
+    (ii) from the entity's assessable income and allowable deductions allocated to the class and the period
+  (b) the portfolio class taxable income or portfolio class taxable loss calculated under section HL 19—
+    (i) for each portfolio investor class and each portfolio allocation period:
+    (ii) from the portfolio class net income or portfolio class net loss for the class and the period and, if appropriate, any portfolio entity formation loss under section HL 28, and any portfolio class taxable loss under section HL 29 that is portfolio class land loss under section HL 30:
+  (c) the portfolio entity tax liability calculated under section HL 20—
+    (i) for each portfolio investor class of the entity and each portfolio allocation period in the tax year:
+    (ii) from the portfolio class taxable income for the period, the portfolio investor interest fraction and portfolio investor rate for each investor in the class for the period.
+Payments of tax by portfolio tax rate entity
+(8) A portfolio tax rate entity is liable to pay tax equal to the amount of the entity's portfolio entity tax liability for a tax year by the payments required by sections HL 21 to HL 23, depending on the entity's portfolio allocation period and portfolio calculation period.
+Portfolio investor allocated income and portfolio investor allocated loss
+(9) An investor in a portfolio tax rate entity in a tax year is treated as—
+  (a) deriving income for the tax year equal to the amount by which the investor's total portfolio investor allocated income under section HL 24 for the tax year exceeds the investor's total portfolio investor allocated loss under section HL 24 for the tax year:
+  (b) having, if the investor is a zero-rated portfolio investor, for the tax year a deduction under section HL 25 equal to the amount by which the investor's total portfolio investor allocated loss under section HL 24 for the tax year exceeds the investor's total portfolio investor allocated income under section HL 24 for the tax year.
+Rebate to entity for some portfolio investor allocated loss
+(10) If a portfolio tax rate entity does not make an election under section HL 22, the entity has a rebate under section HL 26 if it has an investor in a portfolio investor class who is not a zero-rated portfolio investor and who has total portfolio investor allocated loss for a period exceeding the investor's total portfolio investor allocated income for the period.
+Treatment of tax credits
+(11) If a portfolio tax rate entity does not make an election under section HL 22, the tax liability of the entity relating to an investor in the entity for a portfolio allocation period is reduced in the way given by section HL 27 for credits that are received by the entity and allocated to the investor for the portfolio allocation period.
+Portfolio investor proxies
+(12) An entity who meets the requirements of section HL 31—
+  (a) may be a portfolio investor proxy; and
+  (b) must perform the obligations imposed by the section relating to a portfolio investor interest held by the entity for an investor.
 
 ### HL 3 Eligibility requirements for entities
-[Repealed]
+Eligibility requirements for portfolio tax rate entity and electing entity
+(1) A portfolio tax rate entity and an entity that is choosing under section HL 11 to be a portfolio investment entity and a portfolio tax rate entity must meet the eligibility requirements described in subsections (7), (8), and (10).
+Further eligibility requirements for portfolio tax rate entity
+(2) A portfolio tax rate entity must meet the further eligibility requirements described in subsection (9) and sections HL 6, HL 7, HL 9, and HL 10.
+Eligibility requirements for portfolio listed company and electing entity
+(3) A portfolio listed company and an entity that is choosing under section HL 11 to be a portfolio investment entity and a portfolio listed company must meet the eligibility requirements described in subsections (7), (8), and (10).
+Further eligibility requirements for portfolio listed company
+(4) A portfolio listed company must meet the further eligibility requirements described in subsection (9) and sections HL 6, HL 8, HL 9, and HL 10.
+Eligibility requirements for portfolio defined benefit fund and electing entity
+(5) A portfolio defined benefit fund and an entity that is choosing under section HL 11 to be a portfolio investment entity and a portfolio defined benefit fund must meet the eligibility requirements described in subsections (7), (8), and (10).
+Further eligibility requirements for portfolio defined benefit fund
+(6) A portfolio defined benefit fund must meet the further eligibility requirements described in sections HL 6, HL 9, and HL 10.
+Form and business requirement
+(7) The form and business requirement is that the entity—
+  (a) must be a company, superannuation fund, or group investment fund; and
+  (b) must not carry on a business of life insurance.
+Residence requirement
+(8) The residence requirement is that the entity must be—
+  (a) resident in New Zealand; and
+  (b) not treated under a double tax agreement as not being resident in New Zealand.
+Income interest requirement
+(9) The income interest requirement is that all portfolio investor interests in the entity that give rights in relation to proceeds from a portfolio entity investment give the rights in relation to all the proceeds from the investment that are not category B income.
+Entity history requirement
+(10) The entity history requirement is that the entity must not, before the day on which the election to be a portfolio investment entity is to be effective, have ceased to be a portfolio investment entity under section HL 14(1), unless the cessation occurred more than 5 years before the day on which the election is to be effective.
 
 ### HL 4 Effect of failure to meet eligibility requirements for entities
-[Repealed]
+Failure to meet certain requirements
+(1) An entity ceases under this section to be eligible to be a portfolio investment entity if the entity fails at any time to meet a requirement that is—
+  (a) referred to in section HL 3; and
+  (b) not referred to in subsection (2)(a).
+Failure to meet other requirements
+(2) An entity ceases under this section to be eligible to be a portfolio investment entity if—
+  (a) the entity fails to meet a requirement under section HL 6, HL 9, or HL 10 on the last day of a quarter—
+    (i) beginning 6 months or more after the date on which the entity becomes a portfolio investment entity; and
+    (ii) ending more than 3 months before an announcement by the entity to its investors that the entity is winding up within 12 months of the announcement; and
+  (b) the entity's failure—
+    (i) is significant and would not have occurred but for an event or circumstance within the control of the entity:
+    (ii) is repeated on the last day of the quarter following the quarter referred to in paragraph (a) and ending more than 3 months before the announcement referred to in paragraph (a)(ii).
 
 ### HL 5 Foreign investment vehicles
-[Repealed]
+When entity becomes foreign investment vehicle
+(1) An entity becomes a foreign investment vehicle if the entity—
+  (a) is not resident in New Zealand; and
+  (b) is a company, a superannuation scheme, or the trustee of a trust that would be a unit trust if there were more than 1 subscriber, purchaser, or contributor participating as beneficiaries under the trust; and
+  (c) has investors that would, if the entity were a portfolio investment entity, be a portfolio investor class meeting the investor membership requirements under section HL 6(1)(a) to (i); and
+  (d) has investors who, if they are resident in New Zealand, would meet the investor interest size requirements under section HL 9 if the entity were a portfolio investment entity; and
+  (e) meets the further eligibility requirements relating to investments under section HL 10.
+When entity ceases to be foreign investment vehicle
+(2) An entity that becomes a foreign investment vehicle ceases under this section to be a foreign investment vehicle if the entity—
+  (a) fails to meet a requirement under subsection (1)(a) and (b):
+  (b) fails to meet a requirement under subsection (1)(c), (d), and (e)—
+    (i) on the last day of a quarter; and
+    (ii) on the last day of the quarter following the quarter referred to in subparagraph (i).
 
 ### HL 6 Investor membership requirement
-[Repealed]
+Investor membership requirement for entity other than listed company
+(1) The investor membership requirement for a portfolio investor class of an entity that is not a company listed on a recognised exchange in New Zealand and does not meet the requirements of subsection (3) is that the portfolio investor class must include—
+  (a) 20 persons, treating all interests held by persons associated under section OD 8(3) (Further definitions of associated persons) and included by subsection (4) as being held by 1 person:
+  (b) a portfolio investment entity:
+  (c) a foreign investment vehicle:
+  (d) an entity that—
+    (i) meets the requirements in section HL 3 that would be relevant if the entity were choosing to be a portfolio investment entity; and
+    (ii) has not chosen to be a portfolio investment entity:
+  (e) a life insurer:
+  (f) the New Zealand Superannuation Fund:
+  (g) the Accident Compensation Corporation:
+  (h) a Crown entity subsidiary of the Accident Compensation Corporation:
+  (i) the Earthquake Commission:
+  (j) less than 20 persons, as determined under paragraph (a), if—
+    (i) the entity has 1 or more other portfolio investor classes that satisfy paragraph (a); and
+    (ii) no investor in the class, other than the entity's manager or trustee, can control the investment decisions relating to that class; and
+    (iii) investors for which the entity would not meet the investor membership requirement in the absence of this paragraph have portfolio investor interests with a total value of less than 10% of the total value of portfolio investor interests in the entity.
+Investor membership requirement for listed company
+(2) The investor membership requirement for an entity that is a company listed on a recognised exchange in New Zealand is that—
+  (a) the company must not have more than 1 portfolio investor class of investors holding portfolio investor interests in the company; and
+  (b) each investor must be a member of the portfolio investor class; and
+  (c) each portfolio investor interest in the company must be a share traded on the recognised exchange.
+No investor membership requirement for entities similar to unit trusts and certain superannuation funds
+(3) There is no investor membership requirement for an entity that,—
+  (a) if treated as a unit trust, would meet the requirements of 1 or more of paragraphs (a) and (c) to (e) of the definition of qualifying unit trust:
+  (b) is a superannuation fund established under the proposal for the restructuring of the National Provident Fund required by the National Provident Fund Restructuring Act 1990:
+  (c) is the fund established by the Government Superannuation Fund Act 1956.
+Interests of some associated investors included with interests of investor for some purposes
+(4) For the purposes of subsection (1), the portfolio investor interests of a person who is associated under section OD 8(3) with an investor in a portfolio investor class are included with the portfolio investor interests of the investor if—
+  (a) the investor is not listed in subsection (1)(b) to (i); and
+  (b) the associated person is not listed in subsection (1)(b) to (i); and
+  (c) the associated person has a portfolio investor interest fraction of 5% or more.
 
 ### HL 7 Investor return adjustment requirement: portfolio tax rate entity
-[Repealed]
+When this section applies
+(1) This section applies to a portfolio tax rate entity.
+Investor return adjustment requirement
+(2) The investor return adjustment requirement is that the entity must make an adjustment referred to in subsection (3) to reflect the effect of the portfolio investor rate of an investor, as a member of a portfolio investor class, on—
+  (a) the amount of the entity's portfolio entity tax liability for the portfolio investor class; and
+  (b) the amount of a rebate under section HL 26 or HL 27 allocated to the investor as a member of the portfolio investor class.
+Nature of adjustment
+(3) An adjustment reflecting the effect of the investor's portfolio investor rate must be made to—
+  (a) the investor's portfolio investor interest in the portfolio investor class or another portfolio investor class—
+    (i) before the end of the second month after the portfolio calculation period, if the entity has made an election under section HL 21; or
+    (ii) within 3 months of the end of the tax year, if the entity has made an election under section HL 22; or
+    (iii) within 2 months of the end of the tax year, if the entity has made an election under section HL 23:
+  (b) the amount of each distribution to the investor as a member of the portfolio investor class or another portfolio investor class.
+Investor may be offered choice of method
+(4) A portfolio tax rate entity may offer an investor a choice of the method of adjustment.
 
 ### HL 8 Imputation credit distribution requirement: portfolio listed company
-[Repealed]
+When this section applies
+(1) This section applies to a portfolio investment entity that is an portfolio listed company.
+Imputation credit requirement
+(2) The imputation credit distribution requirement is that when the entity makes a distribution to the members of a portfolio investor class, the distribution must be fully credited for the purposes of section CD 32 (Available subscribed capital amount) to the extent permitted by the imputation credits that the directors of the entity determine are available.
 
 ### HL 9 Investor interest size requirement
-[Repealed]
+Investor interest size requirement
+(1) The investor interest size requirement for a portfolio investment entity is that an investor in a portfolio investor class may not hold more than 20% of the total portfolio investor interests of investors in the class.
+No investor interest size requirement for entities similar to unit trusts and certain superannuation finds
+(2) There is no investor interest size requirement for an entity that,—
+  (a) if treated as a unit trust, would meet the requirements of 1 or more of paragraphs (a) and (c) to (e) of the definition of qualifying unit trust:
+  (b) is a superannuation fund established under the proposal for the restructuring of the National Provident Fund required by the National Provident Fund Restructuring Act 1990:
+  (c) is the fund established by the Government Superannuation Fund Act 1956.
+Exception for certain investors
+(3) An entity with an investor holding more than 20% of the total portfolio investor interests in a class does not breach the investor interest size requirement if—
+  (a) the entity is not a portfolio listed company and the investor is listed in subsection (4):
+  (b) the entity is a portfolio listed company and the investor is listed in subsection (4) and holds less than 40% of the total portfolio investor interests in the class.
+Investors to which exception applies
+(4) An investor may hold portfolio investor interests in a portfolio investment entity that would otherwise breach the investor interest size requirement for the entity if the investor is—
+  (a) a portfolio investment entity:
+  (b) a foreign investment vehicle:
+  (c)
+  (d) an entity that—
+    (i) meets the requirements in section HL 3 that would be relevant if the entity were choosing to be a portfolio investment entity; and
+    (ii) has not chosen to be a portfolio investment entity:
+  (e) a life insurer:
+  (f) the New Zealand Superannuation Fund:
+  (g) the Accident Compensation Corporation:
+  (h) a Crown entity subsidiary of the Accident Compensation Corporation:
+  (i) the Earthquake Commission:
+  (j) a person who meets the requirements of subsection (5).
+Exception for shares in portfolio listed company held from 17 May 2006
+(5) An investor who is not listed in subsection (4)(a) to (i) may on a date after 30 September 2007 hold portfolio investor interests in a portfolio listed company that are more than 20% and not more than 40% of the total interests of investors in a portfolio investor class if the investor holds portfolio interests that are more than 20% and not more than 40% of the total interests of investors on each day in the period beginning on 17 May 2006 and ending before the date.
+Interests of some associated investors included with interests of investor for some purposes
+(6) For the purposes of subsections (1) and (5), the portfolio investor interests of a person who is associated under section OD 8(3) (Further definitions of associated persons) with an investor in a portfolio investor class are included with the portfolio investor interests of the investor if—
+  (a) the investor is not listed in subsection (4)(a) to (i); and
+  (b) the associated person is not listed in subsection (4)(a) to (i); and
+  (c) the associated person has a portfolio investor interest fraction of 5% or more.
 
 ### HL 10 Further eligibility requirements relating to investments
-[Repealed]
+Investment type requirement
+(1) The investment type requirement is that the entity must use, or have available to use, 90% or more by value of the entity's assets in deriving income from the owning or trading of—
+  (a) an interest in land:
+  (b) a financial arrangement:
+  (c) an excepted financial arrangement:
+  (d) a right or option concerning property referred to in paragraphs (a) to (c).
+Income type requirement
+(2) The income type requirement is that the income derived by the entity must, to the extent of 90% or more,—
+  (a) be derived from property referred to in subsection (1); and
+  (b) consist of the following:
+    (i) dividends:
+    (ii) income treated under subpart EW (Financial arrangements rules) as being derived by the entity:
+    (iii) rent from an interest in land:
+    (iv) proceeds from the disposal of property:
+    (v) FIF income:
+    (vi) portfolio investor allocated income:
+    (vii) distributions from superannuation funds.
+Entity shareholding investment requirement
+(3) The entity shareholding investment requirement is that, for an investment of the entity consisting of shares in a company that is not listed in subsection (4),—
+  (a) the investment must—
+    (i) carry voting interests in the company equal to or less than 20%, if the company is not a unit trust; or
+    (ii) have a market value equal to or less than 20% of the total market value of all shares in the company, if the company is a unit trust:
+  (b) the amount that is 10% of the total market value of all the entity's investments must be greater than the total market value of all the entity's investments in—
+    (i) shares in a company that is not a unit trust that carry voting interests of more than 20% in the company:
+    (ii) shares in a company that is a unit trust that have a market value of more than 20% of the total market value of all shares in the company.
+Investments not affected by shareholding investment requirement
+(4) The investments referred to in subsection (3) do not include shares in—
+  (a) a portfolio investment entity:
+  (b) a foreign investment vehicle:
+  (c) an entity that—
+    (i) meets the requirements in section HL 3 that would be relevant if the entity were choosing to be a portfolio investment entity; and
+    (ii) has not chosen to be a portfolio investment entity:
+  (d)
+  (e) a portfolio land company.
+Class shareholding investment requirement
+(5) The class shareholding investment requirement is that, for each portfolio investor class and each investment referred to in subsection (3),—
+  (a) the portfolio class fraction of the investment must—
+    (i) correspond to voting interests in the company equal to or less than 20%, if the company is not a unit trust; or
+    (ii) have a market value equal to or less than 20% of the total market value of all shares in the company, if the company is a unit trust:
+  (b) the amount that is 10% of the total market value of all the class's interests in the entity's investments must be greater than the total market value of all the class's interests in the entity's investments in—
+    (i) shares in a company that is not a unit trust that carry voting interests of more than 20% in the company:
+    (ii) shares in a company that is a unit trust that have a market value of more than 20% of the total market value of all shares in the company.
 
 ### HL 11 Election to become portfolio investment entity and cancellation of election
-[Repealed]
+Notice of election
+(1) An entity that meets the eligibility requirements in section HL 3 for an electing entity may choose to be a portfolio investment entity by giving a notice in the prescribed foil!' to the Commissioner at any time after 1 April 2007.
+When election effective
+(2) An election received by the Commissioner is effective on the latest of the following:
+  (a) 1 October 2007:
+  (b) the date of formation of the entity:
+  (c) the date nominated in the notice:
+  (d) the date 30 days before the day of receipt.
+Notice of cancellation
+(3) An entity may choose at any time to cease being a portfolio investment entity by giving a notice in the prescribed form to the Commissioner.
+When cancellation effective
+(4) An election to cease being a portfolio investment entity received by the Commissioner takes effect from the later of the following:
+  (a) the date on which the entity became a portfolio investment entity:
+  (b) the date nominated in the notice:
+  (c) the date of receipt.
 
 ### HL 11B Unlisted company may choose to become portfolio listed company
-[Repealed]
+Election
+(1) A company that is not listed on a recognised exchange in New Zealand may choose under section HL 11 to become a portfolio investment entity that is a portfolio listed company if the company—
+  (a) would meet the requirements of paragraph (a) of the definition of qualifying unit trust if it were a unit trust; and
+  (b) has resolved to become a company listed on a recognised exchange in New Zealand if it were to obtain the required consents; and
+  (c) has applied to the Securities Commission for an exemption to disclose in a prospectus its intention to become a listed company; and
+  (d) satisfies the Commissioner that the company would apply to become a listed company if it were to obtain the required consents.
+Election effective for 2 years
+(2) A company that makes an election under subsection (1) ceases to be a portfolio listed company from the last day of the period of 2 years from when the election is effective, if the company is not listed on a recognised exchange in New Zealand on that day.
 
 ### HL 12 Becoming portfolio investment entity
-[Repealed]
+Requirement for effective election
+(1) An entity that makes an election under section HL 11 becomes a portfolio investment entity unless, in the period ending 12 months after the date on which the election would be effective,—
+  (a) the entity cancels the election:
+  (b) the entity, if treated as becoming a portfolio investment entity when the election would be effective, would cease under section HL 4 to be eligible.
+Income year for electing entity
+(2) If an entity with a non-standard income year chooses to become a portfolio tax rate entity making payments of tax under section HL 21 or HL 23, section 39 of the Tax Administration Act 1994 applies as if—
+  (a) the day before the day on which the election is effective were the original balance date of the entity; and
+  (b) the next 31 March after the day on which the election is effective were a new balance date approved by the Commissioner for the entity.
+Entity treated as disposing of and reacquiring, property
+(3) If an entity becomes a portfolio investment entity, the entity is treated for the purposes of this Act as, on the day before the day on which the election is effective,—
+  (a) transferring to another person all shares held by the entity that—
+    (i) satisfy section CX 44C(1)(a) and (b) (Proceeds from disposal of certain shares by portfolio investment entities or New Zealand Superannuation Fund); and
+    (ii) are shares in a company that is not a portfolio investment entity and does not become a portfolio investment entity within the period of 6 months beginning from the day on which the entity becomes a portfolio investment entity; and
+  (b) receiving for the shares referred to in paragraph (a) an amount of consideration equal to the market value of the shares at that time; and
+  (c) acquiring the shares referred to in paragraph (a) from the other person for an amount of consideration equal to the amount referred to in paragraph (b).
+New Zealand Superannuation Fund treated as disposing of, and reacquiring, property
+(4) The New Zealand Superannuation Fund is treated for the purposes of subsection (3) as if it made an election that would be effective on 1 October 2007.
 
 ### HL 13 Tax consequences from transition
-[Repealed]
+No penalty or interest arising from transition
+(1) An entity that becomes a portfolio investment entity is not liable to pay any penalty or interest for which the entity would otherwise be liable for an inaccuracy in an estimate, or shortfall in the payment, of provisional tax to the extent that the inaccuracy or shortfall arises because of—
+  (a) the effect of the election on the length of the entity's income year under section HL 12(2):
+  (b) the disposal and acquisition referred to in section HL 12(3).
+Payment of tax liability arising from transition
+(2) An entity that becomes a portfolio investment entity in a tax year and is liable to pay an amount of income tax (the tax amount) because of the disposal and acquisition referred to in section HL 12(3) may satisfy the liability by making payments to the Commissioner of at least—
+  (a) one third of the tax amount, in the tax year in which the entity becomes a portfolio investment entity; and
+  (b) one half of the balance of the tax amount remaining owing after the payments made under paragraph (a), in the tax year following the tax year in which the entity becomes a portfolio investment entity; and
+  (c) the balance of the tax amount remaining owing after the payments made under paragraphs (a) and (b), in the second tax year following the tax year in which the entity becomes a portfolio investment entity.
 
 ### HL 14 Ceasing to be portfolio investment entity
-[Repealed]
+Cancellation or loss of eligibility
+(1) An entity that has chosen to be a portfolio investment entity ceases to be a portfolio investment entity if—
+  (a) the entity cancels the election under section HL 11:
+  (b) the entity is no longer eligible to be a portfolio investment entity under section HL 4.
+When entity ceases to be portfolio investment entity
+(2) An entity ceases to be a portfolio investment entity under subsection (1) on—
+  (a) the day on which the entity's election under section HL 11 is effective; or
+  (b) the first day of the quarter following the quarter in which the entity ceases under section HL 4 to be eligible to be a portfolio investment entity.
+Entity treated as disposing of and reacquiring, property
+(3) An entity that ceases to be a portfolio investment entity is treated for the purposes of this Act as—
+  (a) disposing of all shares held by the entity that satisfy section CX 44C(1)(a) and (b) (Proceeds from disposal of certain shares by portfolio investment entities or New Zealand Superannuation Fund) to another person for an amount of consideration equal to the market value of the shares at the time; and
+  (b) acquiring the shares referred to in paragraph (a) from the other person for an amount of consideration equal to the amount referred to in paragraph (a).
 
 ### HL 15 Portfolio allocation period and portfolio calculation period
-[Repealed]
+When this section applies
+(1) This section applies to a portfolio tax rate entity.
+Portfolio allocation period
+(2) The portfolio allocation period for the entity for a tax year is—
+  (a) a day, if the entity does not choose a portfolio allocation period under paragraph (ab), (b), or (c); or
+  (ab) a month, if the entity has a portfolio calculation period of a quarter and chooses the portfolio allocation period by giving a notice to the Commissioner—
+    (i) before the tax year:
+    (ii) when the entity chooses to become a portfolio tax rate entity; or
+  (b) a quarter, if the entity chooses the portfolio allocation period by giving a notice to the Commissioner—
+    (i) before the tax year:
+    (ii) when the entity chooses to become a portfolio tax rate entity; or
+  (c) a day, month, quarter, or income year, if the entity chooses to have a portfolio calculation period of an income year under subsection (3)(c) and chooses the portfolio allocation period by giving a notice to the Commissioner at the same time as the choice under subsection (3)(c).
+Portfolio calculation period
+(3) The portfolio calculation period for the entity for a portfolio allocation period in a tax year is—
+  (a) a day, if the entity chooses the portfolio calculation period by giving a notice to the Commissioner—
+    (i) before the tax year:
+    (ii) when the entity chooses to become a portfolio tax rate entity; or
+  (b) a quarter, if the entity does not choose a portfolio calculation period under paragraph (a) or (c); or
+  (c) an income year, if the entity—
+    (i) chooses under section HL 22 to pay provisional tax; and
+    (ii) chooses the portfolio calculation period by giving a notice to the Commissioner when the entity makes the election under section HL 22.
 
 ### HL 16 Treatment of income from interest if no investor entitled or investor has conditional entitlement
-[Repealed]
+Treatment of unallocated income
+(1) If a portfolio tax rate entity has income or property in which no investor has a portfolio investor interest and in which no investor is treated as having an interest under subsection (2), the portfolio tax rate entity is treated as being the sole investor in a portfolio investor class having a portfolio investor interest in the property or income.
+Treatment of income from interest if investor has conditional entitlement
+(2) A portfolio investment entity that is a superannuation fund may for the purposes of section HL 20 allocate a portfolio investor interest to an investor for a portfolio allocation period if—
+  (a) the portfolio investor interest is purchased by or for the investor's employer; and
+  (b) under an agreement between the investor and the investor's employer, subject to any contingencies, the investor will have an unconditional entitlement to the interest in or before the end of a period (the vesting period) beginning with the creation of the interest; and
+  (c) the agreement exists before the portfolio allocation period; and
+  (d) the vesting period ends after the portfolio allocation period; and
+  (e) the vesting period,—
+    (i) if the entity exists on 17 May 2006, does not exceed the longest vesting period allowed by the entity on 17 May 2006 for an interest created on 17 May 2006; or
+    (ii) if the entity does not exist on 17 May 2006, does not exceed 5 years.
 
 ### HL 17 Certain new investors treated as part of existing portfolio investor class
-[Repealed]
+A person who becomes an investor in a portfolio tax rate entity may be treated by the entity as a member of an existing portfolio investor class, of which the investor would not be a member in the absence of this section, if—
+  (a) the investor acquires portfolio investor interests that the entity intends to qualify the investor as a member of the class; and
+  (b) the interests do not qualify the investor as a member of the class because the entity does not have sufficient portfolio entity investments corresponding to the interests; and
+  (c) the entity acquires sufficient portfolio entity investments to qualify the investor as a member of the class as soon after the investor's acquisition of the interests as is practicable.
 
 ### HL 18 Portfolio class net income and portfolio class net loss for portfolio allocation period
-[Repealed]
+Portfolio class net income for portfolio allocation period
+(1) The portfolio class net income under this section for a portfolio investor class for a portfolio allocation period is—
+  (a) the amount calculated for the period under subsection (3), if the calculated amount is more than zero; or
+  (b) zero, if paragraph (a) does not apply.
+Portfolio class net loss for portfolio allocation period
+(2) The portfolio class net loss under this section for a portfolio investor class for a portfolio allocation period is—
+  (a) the amount by which zero exceeds the amount calculated for the period under subsection (3), if the calculated amount is less than zero; or
+  (b) zero, if paragraph (a) does not apply.
+Calculation of amount for portfolio allocation period
+(3) The amount calculated under this subsection for the portfolio allocation period is the amount calculated using the formula—class assessable income − class deductions.
+Definition of items in formula
+(4) In the formula,—
+  (a) class assessable income is the total amount of the entity's assessable income allocated by the entity to—
+    (i) the portfolio investor class; and
+    (ii) the portfolio allocation period:
+  (b) class deductions is the total amount of the entity's expenditure or loss—
+    (i) for which the entity is allowed a deduction; and
+    (ii) incurred by the portfolio investment entity in deriving assessable income allocated to the portfolio investor class; and
+    (iii) allocated by the entity to the portfolio allocation period.
 
 ### HL 19 Portfolio class taxable income and portfolio class taxable loss for portfolio allocation period
-[Repealed]
+Portfolio class taxable income for portfolio allocation period
+(1) The portfolio class taxable income under this section for a portfolio investor class for a portfolio allocation period is—
+  (a) the amount calculated for the period under subsection (3), if the calculated amount is more than zero; or
+  (b) zero, if paragraph (a) does not apply.
+Portfolio class taxable loss for portfolio allocation period
+(2) The portfolio class taxable loss under this section for a portfolio investor class for a portfolio allocation period is—
+  (a) the amount by which zero exceeds the amount calculated for the period under subsection (3), if the calculated amount is less than zero; or
+  (b) zero, if paragraph (a) does not apply.
+Calculation of amount for portfolio allocation period
+(3) The amount calculated under this subsection for the portfolio investor class and the portfolio allocation period is calculated using the formula—class net income − class net loss− other loss used.
+Definition of items in formulas
+(4) The items in the formula are defined in subsections (5) to (7).
+Class net income
+(5) Class net income is the amount of the portfolio class net income under section HL 18 of the class for the period.
+Class net loss
+(6) Class net loss is the amount of the portfolio class net loss under section HL 18 of the class for the period.
+Other loss used
+(7) Other loss used is the lesser of the following amounts:
+  (a) the total amount for the class of—
+    (i) the portfolio entity formation loss that is allocated to the portfolio allocation period and the portfolio investor class as allowed by section HL 28:
+    (ii) the portfolio class land loss that has not been offset against portfolio class net income for an earlier allocation period and may be allocated to the allocation period under section HL 30:
+  (b) the total amount of the class net income referred to in subsection (5).
 
 ### HL 20 Portfolio entity tax liability and rebates of portfolio tax rate entity for period
-[Repealed]
+Portfolio entity tax liability
+(1) The portfolio entity tax liability of a portfolio tax rate entity, for a period (the calculation period) for which the entity is required to calculate the portfolio entity tax liability, is—
+  (a) the total of the amounts calculated under subsection (3) for the calculation period and each portfolio investor class and each investor in the portfolio investor class to which the liability relates, if the total is more than zero; or
+  (b) zero, if paragraph (a) does not apply.
+Amount of rebate under section KI 1
+(2) For the purposes of section KI 1 (Rebate for portfolio tax rate entity relating to certain investors), the amount of a rebate for a portfolio tax rate entity for a calculation period is—
+  (a) the amount by which zero exceeds the total of the amounts calculated under subsection (3) for the calculation period and each portfolio investor class and each investor in the portfolio investor class to which the rebate relates, if the total is less than zero; or
+  (b) zero, if paragraph (a) does not apply.
+Calculation of amount for calculation period
+(3) The amount calculated under this subsection for an investor in a portfolio investor class and for a calculation period is the total of the amounts calculated using the formula in subsection (4) for—
+  (a) each day of a portfolio allocation period in the calculation period; and
+  (b) each portfolio allocation period in the calculation period.
+  (c)
+Formula
+(4) The formula is—investor fraction income loss rate days in allocation period fees rebates
+Definition of items in formula
+(5) The items in the formula are defined in subsections (6) to (12).
+Investor fraction
+(6) Investor fraction is the investor's portfolio investor interest fraction on the day.
+Income
+(7) Income is the portfolio class taxable income under section HL 19 for the investor's portfolio investor class and the portfolio allocation period.
+Loss
+(8) Loss is the portfolio class taxable loss under section HL 19 for the investor's portfolio investor class and the portfolio allocation period.
+Rate
+(9) Rate is—
+  (a) the portfolio investor rate for the investor for the portfolio allocation period, if paragraph (b) does not apply; or
+  (b) 30%, if the entity is treated as the sole investor under section HL 16.
+Days in allocation period
+(10) Days in allocation period is the number of days in the portfolio allocation period.
+Fees
+(11) Fees is the amount of fees for ongoing management and administration services paid from or charged to the account of the investor as a member of the portfolio investor class on the day in the portfolio allocation period.
+Rebates
+(12) Rebates is the amount of rebates of fees paid or credited by the entity to the account of the investor as a member of the portfolio investor class on the day in the portfolio allocation period.
 
 ### HL 21 Payments of tax by portfolio tax rate entity making no election
-[Repealed]
+When this section applies
+(1) This section applies to a portfolio tax rate entity for a tax year if the entity does not make an election under section HL 22 or HL 23 for the tax year.
+Portfolio calculation period
+(2) The portfolio calculation period of the entity for the tax year must be a quarter.
+Amount of payments
+(3) After each portfolio calculation period for the tax year, the entity must make a payment to the Commissioner—
+  (a) of an amount of income tax equal to the part of the portfolio entity tax liability of the entity for the portfolio calculation period that does not relate to a payment by the entity under section HL 23B; and
+  (b) within the period of 1 month beginning from the end of the portfolio calculation period.
+Entity not required to pay provisional tax
+(4) The entity is not required to pay provisional tax under subpart MB (Provisional tax) for the tax year.
+Payment to Commissioner of residual value of investor's interest
+(5) If an investor in the entity has, at the end of the investor's portfolio investor exit period, a portfolio investor interest with a value of more than zero, the entity must pay an amount equal to the value of the interest to the Commissioner at the same time as the payment referred to in subsection (3) for the portfolio calculation period in which the portfolio investor exit period ends.
 
 ### HL 22 Payments of tax by portfolio tax rate entity choosing to pay provisional tax
-[Repealed]
+When this section applies
+(1) This section applies to a portfolio tax rate entity for a tax year—
+  (a) the portfolio calculation period of the entity for the tax year is the income year corresponding to the tax year; and
+  (b) the entity chooses to be subject to this section for the tax year.
+Provisional tax
+(2) The entity must pay provisional tax under subpart MB (Provisional tax) for the income year corresponding to the tax year.
+Notice of election
+(3) The entity must give the Commissioner notice of an election to be subject to this section—
+  (a) in the prescribed form; and
+  (b) by the date by which the entity is required to choose a portfolio allocation period and portfolio calculation period for the tax year.
 
 ### HL 23 Payments of tax by portfolio tax rate entity choosing to make payments when investor leaves
-[Repealed]
+When this section applies
+(1) This section applies to a portfolio tax rate entity for a tax year if—
+  (a) the portfolio allocation period and the portfolio calculation period of the entity for the tax year are 1 day; and
+  (b) the entity chooses to be subject to this section for the tax year.
+Amount of payment for withdrawing investor
+(2) After each portfolio investor exit period for an investor in a portfolio investor class, the entity must make a payment to the Commissioner—
+  (a) of an amount of income tax equal to the portfolio entity tax liability of the entity for—
+    (i) the portfolio investor exit period; and
+    (ii) the investor as a member of the portfolio investor class; and
+  (b) within the period of 1 month beginning from the end of the month in which the portfolio investor exit period ends.
+Amount of payment for investors remaining at end of tax year
+(3) After each tax year, the entity must make a payment to the Commissioner—
+  (a) of an amount of income tax equal to the entity's portfolio entity tax liability for the tax year for the investors in the entity at the end of the tax year, allowing for any payment made under subsection (2) or section HL 23B by the entity for any of the investors; and
+  (b) within the period of 1 month beginning from the end of the tax year.
+Entity not required to pay provisional tax
+(4) The entity is not required to pay provisional tax under subpart MB (Provisional tax) for the tax year.
+Notice of election
+(5) The entity must give the Commissioner notice of an election to be subject to this section—
+  (a) in the prescribed form; and
+  (b) by the date by which the entity is required to choose a portfolio allocation period and portfolio calculation period for the tax year.
 
 ### HL 23B Optional payments of tax by portfolio tax rate entities
-[Repealed]
+When this section applies
+(1) This section applies to a portfolio tax rate entity that makes payments of tax under section HL 21 or HL 23 if an investor reduces the investor's portfolio investor interest in the entity.
+Optional payment during tax year of income tax relating to investor
+(2) The entity may make a payment of income tax to the Commissioner representing an amount of the portfolio entity tax liability of the entity for the investor and the investor's portfolio investor interest for the tax year.
+Time of optional payment
+(3) A payment under this section must be made by the end of the month after—
+  (a) the portfolio calculation period in which the reduction of the investor's portfolio investor interest occurs, if the entity makes payments of tax under section HL 21; or
+  (b) the month in which the reduction of the investor's portfolio investor interest occurs, if the entity makes payments of tax under section HL 23.
 
 ### HL 24 Portfolio investor allocated income and portfolio investor allocated loss
-[Repealed]
+When this section applies
+(1) This section applies to a person who is treated by a portfolio tax rate entity or portfolio investor proxy as an investor in a portfolio tax rate entity on a day in a tax year.
+Portfolio investor allocated income for period
+(2) The person is treated as deriving from the portfolio tax rate entity in an income year an amount of portfolio investor allocated income equal to the greater of zero and the amount described in subsection (4) for portfolio allocation periods in the entity's income year that ends in the person's income year.
+Portfolio investor allocated loss for period
+(3) The person is treated as having in relation to the portfolio tax rate entity in an income year an amount of portfolio investor allocated loss equal to,—
+  (a) if the portfolio tax rate entity makes payments of tax under section HL 21 or HL 23, the greater of—
+    (i) the amount by which zero is more than the amount described in subsection (4) for portfolio allocation periods in the entity's income year that ends in the person's income year:
+    (ii) zero; or
+  (b) if the portfolio tax rate entity makes payments of tax under section HL 22, zero.
+Amount
+(4) The amount that determines whether an investor has portfolio investor allocated income or portfolio investor allocated loss for a period containing portfolio allocation periods is the total of the amounts calculated using the formula in subsection (5) for—
+  (a) each portfolio allocation period in the period; and
+  (b) each day of the portfolio allocation period; and
+  (c) each portfolio investor class to which the investor belongs on the day.
+Formula
+(5) The formula is—investor fraction income loss days in allocation period fees rebates
+Definition of items in formula
+(6) In the formula,—
+  (a) investor fraction is the portfolio investor interest fraction of the investor as part of the portfolio investor class on the day:
+  (b) income is the amount under section HL 19 of the portfolio class taxable income for the portfolio allocation period:
+  (c) loss is the amount under section HL 19 of the portfolio class taxable loss for the portfolio investor class for the portfolio allocation period:
+  (d) days in period is the number of days in the portfolio allocation period:
+  (e) fees is the amount of fees for ongoing management and administration services incurred by the investor as a member of the portfolio investor class on the day in the portfolio allocation period:
+  (f) rebates is the amount of rebates of fees paid by the entity and derived by the investor as a member of the portfolio investor class on the day in the portfolio allocation period.
 
 ### HL 25 Treatment of portfolio investor allocated loss for zero-rated portfolio investors and investors with portfolio investor exit period
-[Repealed]
+When this section applies
+(1) This section applies for an investor in a portfolio tax rate entity for a period in a tax year, if—
+  (a) the investor is a zero-rated portfolio investor and the period is a tax year:
+  (b) the entity makes payments of income tax under section HL 21 and the period is a portfolio investor exit period for the investor.
+Deduction for excess of portfolio investor allocated loss
+(2) The investor has a deduction under section DB 43B(1) (Zero-rated portfolio investor and portfolio investor allocated loss) in the income year corresponding to the tax year of an amount equal to the total amount of portfolio investor allocated loss under section HL 24 for the period.
 
 ### HL 26 Treatment of portfolio investor allocated loss for other investors
-[Repealed]
+Investor in entity making payments of tax under section HL 21
+(1) A portfolio tax rate entity that makes payments of tax under section HL 21 has a rebate of tax under section KI 1 (Rebate for portfolio tax rate entity relating to certain investors) for a portfolio calculation period and an investor in a portfolio investor class if—
+  (a) the portfolio calculation period does not include a part of a portfolio investor exit period for the investor; and
+  (b) the investor is not a zero-rated portfolio investor.
+Investor in entity making payments of tax under section HL 23
+(2) A portfolio tax rate entity that makes payments of tax under section HL 23 has a rebate of tax under section KI 1, for a tax year and an investor as a member of a portfolio investor class, at the time that the entity would be required to make a payment of tax in relation to the tax year and the investor if the entity were liable , or were to have chosen, to make such a payment instead of having a rebate.
 
 ### HL 27 Credits received by portfolio tax rate entity or portfolio investor proxy
-[Repealed]
+When this section applies
+(1) This section applies to an entity that receives an imputation credit, a credit for tax paid in a foreign country or territory, or a credit for tax paid or withheld if the entity is—
+  (a) a portfolio tax rate entity that has not made an election under section HL 22:
+  (b) a portfolio investor proxy for an investor in a portfolio tax rate entity that has not made an election under section HL 22.
+Use of credit by entity
+(2) The entity may not, except as allowed by this section,—
+  (a) use the credit to reduce the liability of the entity for income tax or to obtain a refund of income tax:
+  (b) attach the credit to any distribution or transfer the credit to any other person.
+Tax credit allocated to investor
+(3) For a portfolio allocation period and a portfolio investor class to which the entity allocates a credit, the amount of the credit that is allocated to an investor is the total of the amounts calculated using the formula in subsection (4) for each day of the period.
+Formula
+(4) The formula is—credit class fraction investor fraction days in period
+Definition of items in formula
+(5) In the formula in subsection (4),—
+  (a) credit is the amount of the credit received by the entity in relation to the portfolio entity investment that gives rise to the credit:
+  (b) class fraction is the portfolio class fraction, of the investor's portfolio investor class, in relation to the portfolio entity investment:
+  (c) investor fraction is the portfolio investor interest fraction of the investor:
+  (d) days in period is the number of days in the portfolio allocation period.
+Application of subsections (7) to (11)
+(6) For an investor in a portfolio tax rate entity who is allocated under subsection (3) a credit for a portfolio allocation period in a portfolio calculation period,—
+  (a) subsections (7) and (8) apply—
+    (i) to the income year in which the tax year ends, if the investor is a zero-rated portfolio investor; or
+    (ii) to the income year corresponding to the tax year, if the entity makes payments of tax under section HL 21 and the portfolio allocation period includes part of a portfolio investor exit period for the investor.
+  (b) subsection (9) applies to credits that are allocated to a portfolio allocation period in a portfolio investor exit period and are not treated as a credit against tax payable by the entity, if the entity makes payments of tax under section HL 23 and the investor is not a zero-rated portfolio investor:
+  (c) subsections (10) and (11) apply if subsections (7) and (9) do not apply.
+Zero-rated portfolio investor or investor with portfolio investor exit period for interest in entity that makes payments under section HL 21
+(7) The investor is treated as receiving for the tax year corresponding to the income year for the allocated credits,—
+  (a) if the investor is not a portfolio tax rate entity and the credits are under subpart LC (Foreign tax), a credit against income tax payable by the investor of the amount given by subsection (8):
+  (b) if the investor is a portfolio tax rate entity or the credits are not under subpart LC, the allocated amount of each type of credit.
+Amount of credit for foreign tax — zero-rated portfolio investors, other than portfolio investment entities, and investors having portfolio investor exit period
+(8) An investor to whom subsection (7)(a) applies is treated as receiving for the tax year, for credits under subpart LC, a credit that is the lesser of—
+  (a) the amount of the allocated credits:
+  (b) the amount calculated by multiplying the amount of portfolio investor allocated income for the investor for the tax year by,—
+    (i) if the investor is not a zero-rated portfolio investor, the investor's portfolio investor rate for the portfolio allocation period ending before the investor's portfolio investor exit period; or
+    (ii) if the investor is a zero-rated portfolio investor, the basic rate of tax for the investor for the tax year under schedule 1 (Basic rate of income tax and specified superannuation contribution withholding tax).
+Investor with portfolio investor exit period for interest in entity that makes payments under section HL 23
+(9) The investor is treated as receiving for the tax year of the portfolio calculation period, for credits other than under subpart LC, the unused allocated amount of each type of credit.
+Other investor: credit for entity for foreign tax credits
+(10) The entity is treated as receiving for the tax year of the portfolio calculation period, for credits under subpart LC allocated to a portfolio investor class and an investor other than a zero-rated portfolio investor as a member of the portfolio investor class, a credit of an amount given by subsection (10C) against income tax payable by the entity as described by subsection (10B).
+Use of credit
+(10B) The credit is against income tax payable by the entity for—
+  (a) the portfolio calculation period and portfolio calculation periods—
+    (i) later in the tax year, if the entity makes payments of tax under section HL 21; or
+    (ii) earlier or later in the tax year, if the entity makes payments of tax under section HL 22 or HL 23; and
+  (b) the investor as a member of the portfolio investor class or another portfolio investor class.
+Amount of credit
+(10C) The amount of the credit is the lesser of the following:
+  (a) the total of—
+    (i) the credits allocated to the portfolio calculation period and the investor as a member of the portfolio investor class; and
+    (ii) the credits allocated to earlier portfolio calculation periods in the tax year and the investor that are not used by the entity as a credit against income tax payable for those portfolio calculation periods and for the investor as a member of the portfolio investor class or another portfolio investor class:
+  (b) the amount of the entity's portfolio entity tax liability—
+    (i) for the investor as a member of the portfolio investor class or another portfolio investor class; and
+    (ii) the portfolio calculation period and earlier portfolio calculation periods in the tax year; and
+    (iii) not met by a credit allocated to an earlier portfolio calculation period.
+Other investor: credit for entity for other credits
+(11) The amount of the credits not under subpart LC allocated to the investor under subsection (3) is treated as—
+  (a) a credit against tax payable by the entity of the amount that is the lesser of the following:
+    (i) the amount of the credits:
+    (ii) the amount referred to in subsection (10B)(b), reduced by the amount of the credit given by subsection (10B):
+  (b) a rebate of tax under section KI 1 (Rebate for portfolio tax rate entity relating to certain investors), for the entity and the portfolio calculation period, of the amount of the credits that is not used under paragraph (a).
 
 ### HL 28 Portfolio entity formation loss
-[Repealed]
+Portfolio entity formation loss
+(1) The portfolio entity formation loss of a portfolio investment entity is the total amount for the entity, at the time the entity becomes a portfolio investment entity, of net loss arising from a period ending before the entity becomes a portfolio investment entity that may be carried forward under subparts IE and IF (which relate to tax losses generally) to the quarter in which the entity becomes a portfolio investment entity.
+Carrying forward portfolio entity formation loss of entity other than portfolio tax rate entity
+(2) The portfolio entity formation loss of a portfolio investment entity that is not a portfolio tax rate entity or that makes payments of income tax under section HL 22 may be carried forward under subparts IE and IF to an income year in which the entity is a portfolio investment entity.
+Amount of portfolio entity formation loss available for allocation to portfolio allocation period
+(3) The maximum amount of portfolio entity formation loss that a portfolio tax rate entity may allocate to a portfolio allocation period (the relevant period) is—
+  (a) the amount of the portfolio entity formation loss that has not been allocated to an earlier portfolio allocation period, if, at the time the entity becomes a portfolio investment entity, the amount of portfolio entity formation loss is less than 5% of the total market value of the entity's portfolio entity investments; or
+  (b) the amount calculated using the formula in subsection (4), if paragraph (a) does not apply.
+Formula
+(4) The maximum amount of portfolio entity formation loss under subsection (3)(b) that a portfolio tax rate entity may allocate to a relevant period is calculated using the formula—initial loss days 1095 loss used
+Definition of items in formula
+(5) In the formula in subsection (4),—
+  (a) initial loss is the amount of portfolio entity formation loss at the time the entity becomes a portfolio investment entity:
+  (b) days is—
+    (i) the number of days in the period beginning with the day on which the entity becomes a portfolio investment entity and ending on the last day of the relevant period, if that number is less than or equal to 1095; or
+    (ii) 1095, if paragraph (a) does not apply:
+  (c) loss used is the amount of portfolio entity formation loss allocated to portfolio allocation periods before the relevant period.
+Amount of portfolio entity formation loss available for allocation to portfolio investor class and portfolio allocation period
+(6) The maximum amount of portfolio entity formation loss that a portfolio tax rate entity may allocate to a portfolio investor class for a relevant period is the lesser of the following amounts:
+  (a) the maximum amount of portfolio entity formation loss given for the relevant period by subsection (3):
+  (b) the amount calculated using the formula—class net income credits rate
+Definition of items in formula
+(7) In the formula in subsection (6)(b),—
+  (a) class net income is the amount of portfolio class net income for the portfolio investor class for the portfolio allocation period:
+  (b) credits is the total amount allocated to the portfolio investor class and the relevant period of—
+    (i) imputation credits:
+    (ii) Maori authority credits:
+    (iii) credits for resident withholding tax:
+    (iv) dividend withholding payment credits:
+  (c) rate is the rate of tax for companies given by schedule 1, part A, clause 5 (Basic rates of income tax and specified superannuation contribution withholding tax).
 
 ### HL 29 Portfolio class taxable income and portfolio class taxable loss for tax year
-[Repealed]
+Portfolio class taxable income for tax year
+(1) The portfolio class taxable income under this section for a portfolio investor class for a tax year is—
+  (a) the amount calculated for the tax year under subsection (3), if the calculated amount is more than zero; or
+  (b) zero, if paragraph (a) does not apply.
+Portfolio class taxable loss for tax year
+(2) The portfolio class taxable loss under this section for a portfolio investor class for a tax year is—
+  (a) the amount by which zero exceeds the amount calculated for the tax year under subsection (3), if the calculated amount is less than zero; or
+  (b) zero, if paragraph (a) does not apply.
+Calculation of amount for tax year
+(3) The amount calculated under this subsection for the portfolio investor class and the tax year is the total of the amounts calculated for each portfolio allocation period in the tax year using the formulaclass tax income − class tax loss.
+Definition of items in formula
+(4) The items in the formula are defined in subsections (5) and (6).
+Class tax income
+(5) Class tax income is the amount of the portfolio class taxable income under section HL 19 of the portfolio investor class for the portfolio allocation period.
+Class tax loss
+(6) Class tax loss is the amount of the portfolio class taxable loss under section HL 19 of the portfolio investor class for the portfolio allocation period.
 
 ### HL 30 Treatment of portfolio class taxable loss and portfolio class land loss for tax year
-[Repealed]
+Portfolio class taxable loss for tax year other than portfolio class land loss
+(1) If a portfolio investor class of an entity making payments of tax under section HL 21 or HL 23 has, for a portfolio calculation period, a portfolio class taxable loss that is not a portfolio class land loss, the portfolio class taxable loss may not be carried forward to a later portfolio calculation period.
+Portfolio class land loss for tax year
+(2) If a portfolio investor class has a portfolio class land loss for a portfolio calculation period, the portfolio class land loss may be carried forward for the portfolio investor class to following portfolio calculation periods and used to reduce the amount of portfolio class taxable income under section HL 19 for a later portfolio allocation period.
+Meaning of portfolio class land loss
+(3) A portfolio class land loss, for a portfolio investor class, means the portfolio class taxable loss of the portfolio investor class for a portfolio calculation period—
+  (a) at the end of which, the class has interests in portfolio entity investments that—
+    (i) are investments in land or shares in a portfolio land company; and
+    (ii) have a portfolio class investment value that is more than 50% of the portfolio class investment value for all portfolio entity investments in which the class has interests; and
+  (b) for which the class has a portfolio class taxable loss of more than zero.
 
 ### HL 31 Portfolio investor proxies
-[Repealed]
+Eligibility of person to be portfolio investor proxy
+(1) An entity is eligible to be a portfolio investor proxy for an investor in a portfolio investment entity for a portfolio allocation period if—
+  (a) the portfolio investment entity is not a portfolio listed company; and
+  (b) the entity holds a portfolio investor interest for an investor in the portfolio investment entity; and
+  (c) the entity gives to the portfolio investment entity—
+    (i) a notice that the entity is holding the portfolio investor interest as a portfolio investor proxy; and
+    (ii) other information that the Commissioner requires the entity to provide with the notice.
+Role of portfolio investor proxy
+(2) An entity who is a portfolio investor proxy holding a portfolio investor interest for an investor for a portfolio allocation period must perform the responsibilities given by subsection (3) in relation to amounts allocated to the entity as holder of the interest for the period as if—
+  (a) the entity were a portfolio investment entity; and
+  (b) the portfolio investor interest were an interest of the investor in the income of the entity; and
+  (c) the portfolio investor allocated income, portfolio investor allocated loss, and distributions received by the entity for the investor were income or loss—
+    (i) of the entity; and
+    (ii) to which the investor is entitled by the portfolio investor interest.
+Responsibilities of portfolio investor proxy
+(3) The responsibilities of an entity referred to in subsection (2) in relation to amounts allocated to the entity are to—
+  (a) allocate, to the investor, portfolio investor allocated income and portfolio investor allocated loss for the portfolio allocation period; and
+  (b) distribute, to the investor, distributions and credits for the period; and
+  (c) pay income tax on portfolio investor allocated income for the period; and
+  (d) adjust the portfolio investor interest of the investor, or the distributions to the investor, to reflect the effect of the investor's portfolio investor rate on the amount of distributions under paragraph (b) and payments under paragraph (c); and
+  (e) provide to the Commissioner—
+    (i) returns relating to the allocations, distributions, credits, and payments referred to in paragraphs (a) to (c); and
+    (ii) other information that the Commissioner requires the entity to provide; and
+  (f) provide to each portfolio investment entity in which the portfolio investor proxy holds portfolio investor interests for investors in a portfolio investor class, information concerning the investors and the portfolio investor interests that may be relevant to whether the portfolio investment entity meets the eligibility requirements for the entity.
 
 ### Subpart HZ — Terminating provisions
 
@@ -18561,7 +19221,7 @@ Where a settlement was first made on the terms of a trust on or before 17 Decemb
   (a) the taxpayer has a deduction in an income year that arises from the activities of the special partnership; and
   (b) the net loss arises from the deduction; and
   (c) during the income year, the taxpayer derives no assessable income, whether from the activities of the special partnership or otherwise.
-(2BB)
+(2BB) If a taxpayer is a portfolio tax rate entity that does not make payments of tax under section HL 22, the taxpayer may not carry forward a net loss under this section.
 (2C) A taxpayer may not carry forward under this section a net loss to the extent that the net loss is offset against a remitted amount of an associated person as determined by the Commissioner under section CX 41B or EW 47B.
 (3) Where net losses for 2 or more income years are carried forward to an income year in accordance with the provisions of this section,—
   (a) the aggregate amount of those net losses that may be offset against net income for that income year must not exceed the amount of that net income; and
@@ -18695,7 +19355,7 @@ Where—the amalgamated company is entitled to carry forward the net loss, the a
 
 ### IG 1 Companies included in group of companies
 (1) Subject always to the express provisions of this section and section IG 2, the provisions of this section and section IG 2 are intended to limit the circumstances in which a company that has a net loss for an income year, or that has a net loss able to be carried forward to that income year in accordance with section IE 1 or IF 1, may offset part or the whole of that net loss against the net income of another company to those circumstances where, at all times during the income year in which the net loss arises and all succeeding income years (if any) up to and including the income year in which the net loss is offset, the company which has the net loss and the other company are, at least to the extent of 66%, commonly owned (whether or not always during that period by the same group of persons).
-(2) For the purposes of this Act, in relation to any 2 or more companies—those companies are treated as a group of companies at that time; andthose companies are treated as a group of companies for that income year or other period.
+(2) For the purposes of this Act, in relation to any 2 or more companies, none of which is a portfolio tax rate entity,—those companies are treated as a group of companies at that time; andthose companies are treated as a group of companies for that income year or other period.
   (a) where at any time there is a group of persons—
     (i) the aggregate of whose common voting interests is equal to or greater than 66%; and
     (ii) in any case where at that time a market value circumstance exists in respect of any of the companies, the aggregate of whose common market value interests is equal to or greater than 66%,—
@@ -19066,7 +19726,7 @@ In any case where it is shown to the satisfaction of the Commissioner that the a
 ### IZ 7 Application of other provisions to withdrawal tax
 Subject to this subpart, the other provisions of this Act and of the Tax Administration Act 1994, as far as they are applicable and with any necessary modifications, apply with respect to withdrawal tax as if it were income tax imposed under section BB 1; but nothing in this subpart is to be so construed as to include withdrawal tax in the terms income tax or tax for the purposes of—
   (a) the provisions listed in section OB 6(3); or
-  (b) section 120K of the Tax Administration Act 1994.
+  (b) sections 120KB to 120KE of the Tax Administration Act 1994.
 
 ## Part K — Rebates
 
@@ -19263,7 +19923,7 @@ Despite section 92 of the Tax Administration Act 1994, a rebate of income tax un
     (v) any amount derived from the sale of a building that, under sections EE 37 to EE 44, is assessable income of the person in the income year, excluding a deduction allowed by way of a depreciation loss in the 2003-04 or a later income year; and
     (vi) any amount of adverse event deposit made under section EH 39 in relation to the 2002-03 or an earlier income year (not being interest payable under section EH 41) that is refunded to the person in the 2003-04 or a later income year under any of sections EH 46, EH 48, and EH 54; and
     (vii) any amount of a net loss of a qualifying company that is attributed to the person as a shareholder of that company under section HG 16; and
-    (viii)
+    (viii) any amount of portfolio investor allocated income that is not excluded income of the person and would be excluded income of the person in the absence of section CX 44D(1)(b); and
   (f) where, in the income year, a business or more than 1 business is carried on by the person, there must, in relation to that business, or each such business, be calculated under this Act, including this subpart (that calculation being referred to in this paragraph and in subsection (2) as the specified calculation), the amount that would be the net income or the net loss of the person for that income year if the person derived assessable income only from carrying on the business and, where that amount so calculated is a net loss, that business is deemed, for the purposes of this subpart (except for the purpose of making the specified calculation), not to have been carried on by the person during the income year; and
   (g) where, on the day that, in relation to a company that is a close company, is the last day of the year or other period ending with the date of the annual balance of the accounts of the company for the purpose of furnishing its return of income under this Act for the tax year (that period being referred to in this paragraph as the accounting year of the company), the person is, or would be if that day was the last day of any quarter, in relation to that company, a major shareholder, there is included,—
     (i) for the purposes of this Act, other than the definition of net specified income, an amount equal to the amount (if any) by which the amount of any dividend, or the aggregate of the amounts of all dividends, paid by the company to the person in the tax year is less than an amount equal to so much of the net income of the company for the tax year to which, under and for the purposes of this Act, the accounting year of the company corresponds, as bears to that amount the same proportion as the total of the issued shares of the company (other than shares which bear a fixed rate of dividend only) so held by the person bears to the total of the issued shares of the company (other than shares which bear a fixed rate of dividend only) on the last day of that accounting year of the company:
@@ -19758,7 +20418,17 @@ Every absentee who has derived assessable income from that absentee's personal s
 ### Subpart KI — Rebates for portfolio tax rate entities
 
 ### KI 1 Rebate for portfolio tax rate entity relating to certain investors
-[Repealed]
+Rebate of income tax
+(1) A portfolio tax rate entity is allowed a rebate of income tax for a tax year of an amount given by subsection (2) for a portfolio calculation period in the tax year and an investor as a member of a portfolio investor class if—
+  (a) the investor is not a zero-rated portfolio investor; and
+  (b) the entity does not make payments of tax under section HL 22 (Payments of tax by portfolio tax rate entity choosing to pay provisional tax); and
+  (c) for an entity that makes payments of tax under section HL 21 (Payments of tax by portfolio tax rate entity making no election), the portfolio calculation period does not include part of a portfolio investor exit period for the investor.
+Amount of rebate
+(2) The amount of the rebate of income tax is—
+  (a) the amount of a tax credit allocated to the investor and the portfolio calculation period under section HL 27 (Credits received by portfolio tax rate entity or portfolio investor proxy) from an imputation credit or a credit for tax paid or withheld:
+  (b) the amount of a rebate under section HL 20(2) (Portfolio entity tax liability and rebates of portfolio tax rate entity for period) arising from portfolio investor allocated loss of the investor for the portfolio calculation period.
+Reduction of rebate
+(3)
 
 ### Subpart KJ — KiwiSaver scheme and complying superannuation fund tax credits
 
@@ -19902,8 +20572,8 @@ For the purposes of section LB 2, an imputation credit calculated in respect of 
   (b) a trustee (other than the Maori Trustee):
   (c) a Maori authority:
   (d) a taxpayer whose imputation credit giving rise to the credit of tax is category A income of the trustee of a group investment fund.
-(2C)
-(2D)
+(2C) A taxpayer that is a portfolio tax rate entity is entitled under this section to a credit of tax of no more than the extent allowed by subpart HL (Portfolio investment entities).
+(2D) A taxpayer that is an investor in a portfolio tax rate entity is, to the extent allowed by subpart HL, entitled to a credit of tax to which the entity's entitlement is restricted by subsection (2C).
 (3) For a taxpayer referred to in subsection (2B), no refund of a credit of tax under this section is available but, where the whole of the credit of the tax is not credited against the income tax liability of the taxpayer for the income year, the taxpayer is, in respect of any amount of the credit that is not so credited, deemed to have a net loss for the income year calculated in accordance with the following formula:where—
   (a) is the amount of the credit of tax not credited against the income tax liability for the income year
   (b) b is,—
@@ -19932,8 +20602,8 @@ For the purposes of section LB 2, an imputation credit calculated in respect of 
 
 ### LC 1 Credits in respect of tax paid in country or territory outside New Zealand
 (1) Where a person who is resident in New Zealand derives assessable income from a country or territory outside New Zealand, income tax paid in that country or territory in respect of that assessable income is allowed as a credit against the income tax liability of the person: provided that if the person so resident in New Zealand has, as a national or member of that country or territory, paid income tax in that country or territory in respect of that assessable income, there is allowed as a credit against the income tax liability of the person only such amount as does not exceed the amount of income tax that would have been paid by the person in that country or territory in respect of that assessable income if the person, being resident in New Zealand, had not been a national or member of that country or territory.
-(1B)
-(1C)
+(1B) A portfolio tax rate entity is allowed under this section a credit of tax of no more than the extent allowed by subpart HL (Portfolio investment entities).
+(1C) An investor in a portfolio tax rate entity is, to the extent allowed by subpart HL, allowed a credit of tax to which the entity's entitlement is restricted by subsection (1B).
 (2) Where in any tax year any beneficiary of a trust who is resident in New Zealand derives a taxable distribution,—
   (a) no credit is allowed in respect of any tax paid on the taxable distribution unless the tax is substantially of the same nature as non-resident withholding tax imposed under the NRWT rules; and
   (b) the amount of the credit is calculated in accordance with the following formula:where—
@@ -20134,8 +20804,8 @@ There is allowed as a credit against the income tax liability of a person for a 
 
 ### LD 3 Resident withholding tax payments to be credited against income tax assessed
 (1) Where a person derives an amount of resident withholding income other than a replacement payment, from which an amount has been deducted on account of resident withholding tax, the amount of resident withholding income, for the purposes of this Act, includes such amount deducted.
-(1B)
-(1C)
+(1B) A portfolio tax rate entity is allowed under this section a credit of tax of no more than the extent allowed by subpart HL (Portfolio investment entities).
+(1C) An investor in a portfolio tax rate entity is, to the extent allowed by subpart HL, allowed a credit of tax to which the entity's entitlement is restricted by subsection (1B).
 (2) Subject to this section, where any resident withholding tax, not being a penalty, has been paid in relation to any amount of resident withholding income, not being a replacement payment made under a share-lending arrangement, derived by any person in any tax year, the amount of the resident withholding tax payment must be credited successively against—and the Commissioner must refund to the person an amount equal to the excess of the resident withholding tax payments over the amounts which are so credited in accordance with section MD 1, and the Tax Administration Act 1994, as if it were tax paid in excess.
   (a) the income tax liability (if any) of the person for that tax year; and
   (b) the income tax liability (if any) of the person that has not otherwise been satisfied for any tax year before that tax year; and
@@ -20174,6 +20844,8 @@ The provisional tax paid by a taxpayer for a tax year is credited against the ta
   (a) the taxpayer is entitled to a credit of tax equal to the dividend withholding payment credit so included in assessable income; and
   (b) the credit of tax is credited, so far as it extends, against the taxpayer's income tax liability for the income year; and
   (c) to the extent that the credit of tax is not so credited, the excess is refundable to the taxpayer in accordance with section MD 1, and the Tax Administration Act 1994, as if it were tax paid in excess.
+(1B) A taxpayer that is a portfolio tax rate entity is entitled under this section to a credit of tax of no more than the extent allowed by subpart HL (Portfolio investment entities).
+(1C) A taxpayer that is an investor in a portfolio tax rate entity is, to the extent allowed by subpart HL, entitled to a credit of tax to which the entity's entitlement is restricted by subsection (1B).
 (1B) A taxpayer who receives a dividend withholding payment credit is not entitled under subsection (1) to a credit of tax if they issue a credit transfer notice in respect of the dividend withholding payment credit.
 (1C) A taxpayer who is issued with a credit transfer notice is entitled under subsection (1) to a credit of tax equal to the amount of dividend withholding payment credit shown in the notice.
 (2) Any credit of tax to which a taxpayer is entitled under this section is credited after allowing for any credit of tax allowable in accordance with sections LB 2, LC 1, and LD 3.
@@ -20200,13 +20872,20 @@ The provisional tax paid by a taxpayer for a tax year is credited against the ta
 (4) The Commissioner may not pay a refund under this section unless the Commissioner receives the shareholder dividend statement, or such other evidence as the Commissioner considers necessary, evidencing the dividend withholding payment credit giving rise to the refund of dividend withholding payment.
 
 ### LD 10 Credit for investor for tax paid by entity if portfolio investor allocated income not excluded income
-[Repealed]
+(1) This section applies for a taxpayer and a tax year if the taxpayer has for the tax year portfolio investor allocated income from a portfolio tax rate entity that—
+  (a) is not excluded income of the taxpayer; and
+  (b) would be excluded income of the taxpayer in the absence of section CX 44D(1)(b) (Portfolio investor allocated income and distributions of income by portfolio tax rate entities).
+(2) The taxpayer is entitled to a credit of tax against the taxpayer's income tax liability for the tax year equal to the amount of income tax paid by the portfolio tax rate entity in relation to the portfolio investor allocated income referred to in subsection (1).
 
 ### LD 10B Credit for zero-rated portfolio investor for tax paid by entity in relation to portfolio investor allocated income
-[Repealed]
+(1) This section applies for a taxpayer and a tax year if the taxpayer is a zero-rated portfolio investor and has for the tax year portfolio investor allocated income from a portfolio tax rate entity that pays income tax in relation to the portfolio investor allocated income.
+(2) The taxpayer is entitled to a credit of tax against the taxpayer's income tax liability for the tax year equal to the amount of income tax paid by the portfolio tax rate entity in relation to the portfolio investor allocated income referred to in subsection (1).
 
 ### LD 11 Credit for investor for payment under section HL 21(5) by entity for portfolio investor exit period
-[Repealed]
+(1) This section applies for a taxpayer and a tax year if—
+  (a) the taxpayer has for the tax year portfolio investor allocated income from a portfolio tax rate entity for a portfolio investor exit period; and
+  (b) the entity makes a payment under section HL 21(5) (Payments of tax by portfolio tax rate entity making no election) to the Commissioner after the portfolio investor exit period.
+(2) The taxpayer is entitled to a credit of tax against the taxpayer's income tax liability for the tax year equal to the amount of the payment by the entity under section HL 21(5).
 
 ### Subpart LE — Non-resident investors
 
@@ -20519,305 +21198,629 @@ Notwithstanding anything in sections DB 6 to DB 8, or any other provision of thi
 ### Subpart MB — Provisional tax
 
 ### MB 1 Outline of subpart
-[Repealed]
+When this subpart applies
+(1) Sections MB 2 to MB 38 apply for the purposes of the provisional tax rules to determine
+  (a) who pays provisional tax:
+  (b) a taxpayer's provisional tax liability for a tax year, and the methods for calculating the amount payable:
+  (c) the number of instalments and the instalment dates for an income year:
+  (d) how the amount of an instalment is determined:
+  (e) the payment of provisional tax in transitional years:
+  (f) the application of the rules relating to use of money interest, late payment penalties, and shortfall penalties.
+Amount treated as income tax
+(2) The provisions of this Act and the Tax Administration Act 1994 apply in relation to an amount that a person is liable to pay under the provisional tax rules as if the amount were income tax imposed under section BB 1 (Imposition of income tax).
+Instalment dates
+(3) In this subpart, a reference to an instalment classified by the letters A to H is a reference to a date in the table in schedule 13, part A (Months for payment of provisional tax and terminal tax) on which an instalment of provisional tax (A to F) or terminal tax (G and H) is payable by a provisional taxpayer for an income year that corresponds to a tax year.
 
-### MB 2 Amount of provisional tax payable
-(1) The amount of provisional tax payable by a provisional taxpayer for a tax year is, for the purpose of determining the amount of any particular instalment of provisional tax payable under section MB 5 or MB 5A,—
-  (a) except where any other provision of this subsection applies, 105% of the residual income tax of the taxpayer for the immediately preceding tax year, as that residual income tax is determined in accordance with subsection (3) at the date the instalment is due; or
-  (aa)
-  (ab)
-  (b) 110% of the residual income tax for the tax year before the immediately preceding tax year if—
-    (i) the taxpayer is required to furnish a return of income for the immediately preceding tax year, but is not required to furnish the return on or before the date the instalment is due because section 37 of the Tax Administration Act 1994 or an extension granted under that section applies; and
-    (ii) the taxpayer has not furnished the return on or before the date the instalment is due; and
-    (iii) the instalment is not the instalment due on the third instalment date; and
-    (iv) neither paragraph (c) nor (d) applies; or
-  (c) if the taxpayer furnishes an estimate of residual income tax under section MB 3, and paragraph (d) does not apply, the amount that, on or most recently before the instalment date, is estimated and furnished or deemed to be estimated and furnished by the taxpayer under that section; or
-  (d) where the Commissioner determines the amount of provisional tax payable by the taxpayer under section 119 of the Tax Administration Act 1994, the amount latest determined by the Commissioner under that section to the extent that—
-    (i) the amount has been determined and notified to the taxpayer not less than 30 days before the date the instalment is due; or
-    (ii) the Commissioner has determined the amount on the ground that the estimate latest furnished by the taxpayer on or before the date the instalment was due was not fair and reasonable whenever that determination was made and notified.
-(2) Notwithstanding subsection (1) or any other provision of the provisional tax rules, no person is obliged to pay provisional tax in any tax year if—
-  (b) the person's residual income tax for the preceding tax year did not exceed $2,500.
-(3) For the purposes of subsection (1)(a), the amount of the taxpayer's residual income tax for the immediately preceding tax year is—
-  (a) calculated on the basis of the Commissioner's assessment for that preceding tax year where, before the relevant instalment date, the Commissioner has issued a notice of assessment for that tax year not less than 30 days before the relevant instalment date:
-  (b) calculated on the basis of the taxpayer's assessment for the preceding tax year:
-  (c) calculated on the basis of the Commissioner's assessment for that preceding tax year, whenever that assessment may be made, if—
-    (i) the taxpayer, despite being required under section 37 of the Tax Administration Act 1994 to furnish a return of income for that tax year on or before the relevant instalment date, fails to furnish the return on or before that date; or
-    (ii) the taxpayer is not required under section 37 of the Tax Administration Act 1994 to furnish a return of income for that tax year on or before the relevant instalment date, and none of paragraphs (a), (b), and (d) applies:
-  (d) the amount of residual income tax (if any) for the immediately preceding tax year, where—
-    (i) the taxpayer is not required under this Act or the Tax Administration Act 1994 to furnish a return of income for that preceding tax year; or
-    (ii) the taxpayer (being a taxpayer whose residual income tax for the tax year preceding that preceding tax year was less than $2,500) is not required to furnish and has not furnished a return for that preceding tax year on or before the third instalment date.
-(4) Notwithstanding anything in the provisional tax rules, where—the taxpayer's residual income tax for that tax year is treated for the purposes of the provisional tax rules as if it had not been so increased.
-  (a) the Commissioner makes an assessment in respect of a taxpayer after the due date for payment of the tax; and
-  (b) the taxpayer's residual income tax for that tax year is increased by that assessment,—
-(5) Where any provisional taxpayer carrying on the business of providing life insurance is liable for income tax in accordance with the life insurance rules, that taxpayer must at the time of determining the provisional tax payable for that tax year provide to the Commissioner details of the calculation of that provisional tax, including, in particular, the extent to which the amount of that provisional tax relates to the policyholder base.
-(6) For the purposes of subsection (1)(a) and (aa), and section 119(3) of the Tax Administration Act 1994, the amount of a taxpayer's residual income tax for the immediately preceding tax year, where that tax year is a transitional year, is calculated in accordance with the following formula:where—
-  (a) is the residual income tax for the transitional year
-  (b) is the number of days in the current tax year
-  (c) is the number of days in the transitional year.
-(7) For the purposes of subsection (1)(ab) and (b), the amount of a taxpayer's residual income tax for the tax year before an immediately preceding tax year, if the tax year before the immediately preceding tax year is a transitional year, is calculated in accordance with the formula—where—
-  (a) is the residual income tax for the transitional year
-  (b) is the number of days in the current tax year
-  (c) is the number of days in the transitional year.
+### MB 2 Who pays provisional tax?
+Meaning of provisional taxpayer
+(1) A provisional taxpayer, for a tax year, means
+  (a) a person whose residual income tax for the tax year is more than $2,500; or
+  (b) a person who chooses under section MB 3 to be a provisional taxpayer.
+Exclusions
+(2) The following persons are not provisional taxpayers:
+  (a) a company that does not have a fixed establishment in New Zealand and is not treated as resident in New Zealand:
+  (b) a person to whom section 33A of the Tax Administration Act 1994 applies:
+  (c) a non-resident contractor as defined in regulation 2 of the Income Tax (Withholding Payments) Regulations 1979 who has not been issued with an exemption certificate by the Commissioner for the tax year under regulation 5.
+No obligation
+(3) A person has no obligation to pay provisional tax for a tax year if their residual income tax for the preceding tax year is $2,500 or less.
 
 ### MB 2A Election to be provisional taxpayer
-(1) In a tax year, when first furnishing a tax return for the tax year to which the election relates, a taxpayer may elect to be a provisional taxpayer if—
-  (a) the taxpayer has paid provisional tax of $2,500 or more on or before—
-    (i) the third instalment date, if the taxpayer is in a tax year or a non-standard income year; or
-    (ii) the final instalment date, if the taxpayer is in a transitional year; and
-  (b) on the day on which the first payment of provisional tax is made for a tax year, the taxpayer had a reasonable expectation of being a provisional taxpayer in that tax year, other than by this election.
-(2) Subsection (3) applies if a taxpayer has a non-standard income year and has filed a return of income for the 1998-99 or a subsequent income year between 10 October 2000 and the date the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 receives the Royal assent.
-(3) If a taxpayer has filed their return of income on the basis that section MB 2A(1)(a)(i) applied, as it was before the enactment of section 50(1) of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002, the taxpayer may elect to be a provisional taxpayer for the income year for which the return was filed if the taxpayer has paid provisional tax of $2,500 or more on or before the third instalment date in the non-standard income year that corresponds with the income year for which the return was filed.
+[Repealed]
 
 ### MB 2B Amount of provisional tax based on 1997-98 or earlier tax year
-For the purposes of section MB 2, other than section MB 2(3), and for a taxpayer who is a New Zealand superannuitant for the 1997-98 tax year, the taxpayer's residual income tax for that tax year or for an earlier tax year is the amount that would have been the taxpayer's residual income tax if the taxpayer—
-  (a) had not been liable to pay the New Zealand superannuitant surcharge; and
-  (b) had not paid any New Zealand superannuitant surcharge by way of surcharge deduction.
+[Repealed]
 
-### MB 3 Estimated provisional tax
-(1) Any provisional taxpayer may, on or before the day on which an instalment of provisional tax becomes due and payable, make a fair and reasonable estimate or revised estimate of residual income tax for the tax year and furnish to the Commissioner a statement showing the amount so estimated.
-(4) A provisional taxpayer who furnishes an estimate or revised estimate in accordance with the provisions of this section must—
-  (a) take reasonable care in making that estimate or revised estimate; and
-  (b) if an estimate ceases to be fair and reasonable must, on or before the next instalment date, make a revised estimate for that tax year.
-(5) In a transitional year, a taxpayer who furnishes an estimate or revised estimate must,—
-  (a) before the date on which the Commissioner notifies a change of balance date, estimate the residual income tax as if no change in balance date will be approved; and
-  (b) after the date on which the Commissioner notifies a change of balance date, re-estimate the residual income tax.
-(6) If a taxpayer makes an estimate of residual income tax and that estimate exceeds the provisional tax otherwise payable, the taxpayer is deemed to have taken reasonable care in making the estimate.
+### MB 3 Becoming provisional taxpayer by election
+A taxpayer, when first providing a return of income for a tax year, may choose to be a provisional taxpayer for the tax year if
+  (a) they have paid provisional tax of more than $2,500 on or before
+    (i) the date of instalment F for the corresponding income year; or
+    (ii) the final instalment date in a transitional year; and
+  (b) they have, on the day on which the first payment of provisional tax is made for the tax year, a reasonable expectation that they are a provisional taxpayer for the tax year, other than by this election.
 
 ### MB 3B Provisional taxpayer affected by self-assessed adverse event or qualifying event
-(1) This section applies to a taxpayer with a farming, agricultural, or fishing business that is significantly affected by a self-assessed adverse event or with a business that is significantly affected by a qualifying event.
-(2) A taxpayer to whom this section applies may, despite section MB 3(1), request the Commissioner to accept an estimate or a revised estimate of the residual income tax payable by the taxpayer in respect of an income year.
-(3) The Commissioner may, despite section MB 3(1), accept an estimate or a revised estimate of residual income tax payable by a taxpayer to which this section applies in respect of an income year if the Commissioner is satisfied that—
-  (a) the taxpayer's business is significantly affected by the self-assessed adverse event or qualifying event; and
-  (b) an effect on the taxpayer of the occurrence of the self-assessed adverse event or qualifying event is that—
-    (i) it is not reasonable to require the taxpayer to deliver an estimate or a revised estimate of residual income tax payable by the taxpayer in respect of the income year in accordance with section MB 3(1):
-    (ii) the basis on which the taxpayer has chosen to pay provisional tax is now inappropriate; and
-  (c) the taxpayer's request that the Commissioner accept the estimate or revised estimate was made as soon as was practicable.
-(4) If a revised estimate is accepted under subsection (3), the revised estimate is treated as applying on the third instalment date.
+[Repealed]
 
-### MB 4 Provisional tax payable in 1, 2, or 3 instalments
-(1) Unless otherwise provided in this section, provisional tax is payable in 3 instalments, with each instalment being calculated and due and payable in accordance with section MB 5(1).
-(2) Provisional tax is payable by a taxpayer in 2 instalments, with each instalment being calculated and due and payable in accordance with section MB 5(2), by—
-  (a) a new provisional taxpayer whose first business day occurs on or after the day which is 30 days before the first instalment date and is more than 30 days before the second instalment date; or
-  (b) a taxpayer whose return of income for the immediately preceding tax year is furnished after the first instalment date and on or before the second instalment date where—
-    (i) the taxpayer is required to furnish a return for that immediately preceding tax year but, under section 37 of the Tax Administration Act 1994 or any extension granted under that section, is not required to furnish the return on or before the first instalment date; and
-    (ii) the taxpayer's residual income tax for the tax year before the immediately preceding tax year was less than $2,500.
-(3) Provisional tax is payable by a taxpayer in 1 instalment, with the instalment being calculated and due and payable in accordance with section MB 5(3), by—
-  (a) a new provisional taxpayer whose first business day occurs on or after the day that is 30 days before the second instalment date; or
-  (c) a taxpayer whose return of income for the immediately preceding tax year is not furnished on or before the second instalment date where—
-    (i) the taxpayer is required to furnish a return for that immediately preceding tax year but, under section 37 of the Tax Administration Act 1994 or any extension granted under that section, is not required to furnish the return on or before the second instalment date; and
-    (ii) the taxpayer's residual income tax for the tax year before the immediately preceding tax year was less than $2,500.
-(4) In a transitional year,—
-  (a) provisional tax is payable in the number of instalments specified in schedule 13, part B, second column; and
-  (b) instalments of provisional tax must be calculated and due and payable in accordance with section MB 5A.
+### MB 4 Methods for calculating provisional tax liability
+Choice of method
+(1) The provisional tax payable by a provisional taxpayer for a tax year must be calculated using 1 of the methods described in subsections (3) to (7).
+Meaning of next affected instalment date
+(2) Next affected instalment date for a tax year means the instalment date for the tax year that next follows the date on which the calculation is made.
+Standard method
+(3) Under the standard method, the amount of provisional tax payable for the tax year is
+  (a) 105% of the taxpayer's residual income tax for the preceding tax year, determined under section MB 5, if paragraph (b) does not apply; or
+  (b) 110% of the taxpayer's residual income tax for the tax year before the preceding tax year if
+    (i) the taxpayer is required to provide a return of income for the preceding tax year; and
+    (ii) the return is not due on or before the first instalment date for the tax year through the application of section 37 of the Tax Administration Act 1994 or an extension granted under that section; and
+    (iii) the taxpayer has not provided the return on or before the instalment date; and
+    (iv) the instalment date is not the date of instalment F for the corresponding income year.
+Relationship of other methods with standard method, and modification of standard method
+(4) Subsections (5) to (7) override subsection (3). Section MZ 10 (Calculating provisional tax instalments: section MB 4) modifies subsection (3).
+Estimation method
+(5) A taxpayer may make an estimate of their residual income tax under section MB 6 as their provisional tax liability for the tax year.
+GST ratio method
+(6) A taxpayer who is eligible under section MB 15 may choose to use a GST ratio under section MB 7 for the purposes of determining their provisional tax liability for the tax year.
+Commissioner's determination
+(7) If the Commissioner determines a taxpayer's provisional tax liability under section 119 of the Tax Administration Act 1994, the amount is that last determined by the Commissioner and notified to the taxpayer at least 30 days before the instalment date. The 30-day requirement does not apply in a case to which section 119(1)(d) applies (which relates to an estimate of residual income tax that is not fair and reasonable).
+Life insurance business
+(8) A provisional taxpayer, who carries on a business of providing life insurance and who is liable for income tax under the life insurance rules, must at the time they determine their provisional tax liability provide the Commissioner with details of the calculation of that liability, in particular, the extent to which the amount of that provisional tax relates to the policyholder base.
 
-### MB 5 Amount of provisional tax instalments
-(1) Where a provisional taxpayer is required to pay provisional tax for a tax year in 3 instalments, the 3 instalments are due and payable on the first instalment date, second instalment date, and third instalment date respectively, and the amount of each instalment is calculated as follows:
-  (a) for the first instalment, one-third of the provisional tax payable for that tax year, as that provisional tax is determined under section MB 2 at the time of the first instalment date:
-  (b) for the second instalment, the balance remaining after deducting from two-thirds of the provisional tax payable for that tax year (as that provisional tax is determined under section MB 2 at the time of the second instalment date) the amount of provisional tax previously due and payable for that tax year:
-  (c) for the third instalment, the balance remaining after deducting from the provisional tax payable for that tax year (as that provisional tax is determined under section MB 2 at the time of the third instalment date) the amount of provisional tax previously due and payable for that tax year.
-(2) Where a provisional taxpayer is entitled under section MB 4(2) to pay provisional tax for a tax year in 2 instalments, the 2 instalments are due and payable on the second instalment date and the third instalment date respectively, and the amount of each instalment is calculated as follows:
-  (a) for the first instalment, one-half of the provisional tax payable for that tax year, as that provisional tax is determined under section MB 2 at the time of the second instalment date:
-  (b) for the second instalment, the balance remaining after deducting from the provisional tax payable for that tax year (as that provisional tax is determined under section MB 2 at the time of the third instalment date) the amount of provisional tax previously due and payable for that tax year.
-(3) Where any provisional taxpayer is entitled under section MB 4(3) to pay provisional tax in 1 instalment, that instalment is due and payable on the third instalment date, and the amount of that instalment is the provisional tax payable for that tax year, as that provisional tax is determined under section MB 2 at the time of the third instalment date.
+### MB 5 Standard method
+When this section applies
+(1) This section applies for the purposes of section MB 4(3) and the calculation of the amount of provisional tax payable for a tax year under the standard method.
+Assessment for preceding tax year
+(2) The taxpayer's residual income tax for a tax year is based on their assessment for the preceding tax year unless the Commissioner has issued a notice of assessment for the tax year at least 30 days before the relevant instalment date, in which case it is based on the Commissioner's assessment for the preceding tax year.
+Commissioner's assessment for preceding tax year
+(3) The taxpayer's residual income tax is based on the Commissioner's assessment for the preceding tax year, whenever the assessment is made, if
+  (a) the taxpayer is required under section 37 of the Tax Administration Act 1994 to provide a return of income for the preceding tax year but has failed to do so by the relevant instalment date; or
+  (b) the taxpayer is not required under section 37 to provide a return by the relevant instalment date, and subsections (2) and (4) do not apply.
+Residual income tax for preceding tax year
+(4) The amount of provisional tax payable for a tax year is the amount of residual income tax for the preceding tax year if
+  (a) the taxpayer is not required to provide a return of income for the preceding tax year; or
+  (b) the taxpayer's residual income tax for that tax year was $2,500 or less and they were not required to provide, and have not provided, a return of income for that tax year by the date of instalment F for the corresponding income year.
+Later increased assessment
+(5) If the Commissioner assesses a taxpayer's income tax liability after the due date for an instalment of provisional tax and the taxpayer's residual income tax is increased by the assessment, the residual income tax is treated for the purposes of the provisional tax rules as if it had not been increased.
+Transitional years and consolidated groups
+(6) Residual income tax in transitional years is calculated under section MB 19. For consolidated groups of companies, the calculation is made under section MB 30.
 
 ### MB 5A Amount of provisional tax instalments in transitional year
-(1) This section applies to instalments of provisional tax due in a transitional year.
-(1A) The total amount of provisional tax payable in a transitional year is the total of all instalments of provisional tax due in the transitional year.
-(2) Instalments (other than a final instalment) of provisional tax are due on—
-  (a) the 7th day of the months specified in schedule 13, part B, third column unless January is specified; and
-  (b) the 15th day of January, when schedule 13, part B, third column specifies that January is a month in which the instalment is due.
-(3) Payment of the final instalment is due on—
-  (a) the 7th day of the final month in the transitional year; or
-  (b) the 15th day of January where January is the final month.
-(4) For the purposes of subsection (2), provisional tax is not due and payable on—
-  (a) the first instalment date, if the taxpayer is a taxpayer to whom section MB 4(2) would have applied had the tax year not been a transitional year; or
-  (b) the first and second instalment dates, if the taxpayer is a taxpayer to whom section MB 4(3) would have applied had the tax year not been a transitional year; or
-  (c) the first, second, and third instalment dates, if the taxpayer is a new provisional taxpayer whose first business day occurs on or after the day that is 30 days before the third instalment date.
-(5) If a taxpayer does not make an estimate of residual income tax for a transitional year prior to an instalment date and the instalment is not a final instalment, the amount payable on an instalment date is calculated in accordance with the following formula:where—
-  (i) is the amount of provisional tax previously due and payable for that transitional year
-  (n) is the aggregate number, plus 1, of instalments due in that transitional year before the instalment date
-  (p) is the amount of provisional tax determined under section MB 2.
-(6) If a taxpayer makes an estimate of residual income tax for a transitional year, the amount payable on an instalment date, other than a final instalment date, is calculated in accordance with the following formula:where—graphic
-  (i) is the amount of provisional tax previously due and payable for that transitional year
-  (m) is the number of months in the transitional year
-  (n) is the aggregate number, plus 1, of instalments due in that transitional year before the instalment date
-  (p) is the amount of provisional tax determined under section MB 2.
-(7) If a taxpayer has not made an estimate of the residual income tax for a transitional year, the amount payable on a final instalment date is calculated in accordance with the following formula:where—
-  (b) is the number of days in the transitional year
-  (c) is the number of days in the immediately preceding tax year
-  (i) is the amount of provisional tax previously due and payable for that immediately preceding tax year
-  (p) is the amount of provisional tax determined under section MB 2.
-(8) If a taxpayer makes an estimate of the income tax for a transitional year, the amount payable on a final instalment date is the amount of provisional tax determined under section MB 2 less the amount of any instalment previously due and payable.
-(9) In this section and in schedule 13, part B, first column, the number of months in a transitional year must be determined in accordance with the following:
-  (a) the first month in a taxpayer's transitional year—
-    (i) is the first whole month in that transitional year; and
-    (ii) for a new provisional taxpayer, is the month following the first business day of the taxpayer:
-  (b) the final month in a transitional year is the month in which a taxpayer's new return date (as defined in section 39 of the Tax Administration Act 1994) occurs:
-  (c) each month falling between the first and final months must be included in determining the length of the transitional year.
+[Repealed]
 
-### MB 6 Voluntary payments
-A taxpayer may at any time make voluntary payments to the Commissioner as provisional tax of such amounts as the taxpayer thinks fit, being—
-  (a) tax in respect of the taxpayer's income tax liability for a tax year:
-  (b) tax in excess of the provisional tax payable by the taxpayer for a tax year:
-  (c) tax in excess of the taxpayer's income tax liability for a tax year.
+### MB 6 Estimation method
+When this section applies
+(1) This section applies for the purposes of section MB 4(5) and the calculation of the amount of provisional tax payable for a tax year under the estimation method.
+Fair and reasonable estimate
+(2) On or before an instalment date, a provisional taxpayer may make a fair and reasonable estimate of their residual income tax for the tax year by informing the Commissioner of the estimate. The estimate may be a revised estimate.
+Reasonable care in making and maintaining assessment
+(3) A taxpayer who makes an estimate under subsection (2) must take reasonable care in making it, and must revise the estimate for the tax year if, at some time in the tax year, the amount estimated is no longer fair and reasonable.
+Estimation higher than provisional tax payable
+(4) If a taxpayer estimates their residual income tax and the estimate is more than the provisional tax that is payable for the tax year, they are treated as having taken reasonable care in making the estimate.
+Changing determination method from GST ratio
+(5) If, under section MB 17(5), a taxpayer changes they way they determine the amount of provisional tax after the date of an instalment, they must estimate their residual income tax for the income year, and must pay provisional tax on whichever of instalment dates B, D, and F for their corresponding income year occur after 30 days from their last ratio instalment date.
+Disaster relief
+(6) A taxpayer who is significantly affected by a self-assessed adverse event may make an estimate of their provisional tax under section MB 38, and that section overrides this section.
 
-### MB 7 Provisional tax of consolidated group members
-(1) The provisional tax rules apply, with any necessary modifications, in respect of a consolidated group as if it were a single company, and—
-  (a) each company that is a member of a consolidated group in an income year is, subject to section HB 1(5), jointly and severally liable for the amount of provisional tax payable by the consolidated group to be credited against the income tax liability of the group for that income year, and that joint and several liability is in substitution for any individual liability of those companies under the provisional tax rules in respect of an income tax liability for that income year (to the extent the income tax liability arises while the company is a member of the consolidated group); and
-  (b) where any company—
-    (i) is a member of a consolidated group for all or part of any income year (referred to in this paragraph as the current income year); and
-    (ii) was not a member of the consolidated group for all or part of the preceding income year,— the residual income tax of the consolidated group in the preceding income year is deemed, for the purposes of the provisional tax rules (but, in any case where the company is a member for part only of the current income year, only with respect to instalments of provisional tax payable after the date upon which the company becomes a member), to be increased by an amount equal to the residual income tax of that company in the preceding income year multiplied by that fraction which is equal to the fraction of the current income year during which the company is a member of the consolidated group.
-(2) Subsection (3) applies if a company is—
-  (a) a member of a consolidated group for all or part of an income year; and
-  (b) not a member of the consolidated group for all or part of the immediately succeeding income year.
-(3) The company must make an estimate of residual income tax on or before the third instalment date for the immediately succeeding income year, and the company is treated as a provisional taxpayer to whom section MB 3 applies for the purpose of its estimate.
-(4) The consolidated group, in the case of the company that is a member of another consolidated group, must make an estimate of residual income tax on or before the third instalment date for the immediately succeeding income year, and the consolidated group is treated as a provisional taxpayer to whom section MB 3 applies for the purpose of its estimate.
-(5) If a company ceases to be a member of the consolidated group during the immediately succeeding income year, the company's estimate applies only to instalments of provisional tax payable after the date of cessation.
+### MB 7 GST ratio method
+Using GST ratio
+(1) A provisional taxpayer who meets the requirements of section MB 15 may choose to use a GST ratio to determine the amount of provisional tax payable for a tax year.
+Meaning of GST ratio
+(2) A taxpayer's GST ratio is the percentage figure that is obtained by dividing their residual income tax for the preceding tax year by their total taxable supplies for the corresponding income year. The amount of residual income tax and the amount of total taxable supplies are called the base amounts in this section.
+When amounts based on tax year before preceding tax year
+(3) If the base amounts for the preceding tax year or corresponding income year have not been assessed, the GST ratio is the percentage based on the assessment for the tax year and corresponding income year that are immediately before the preceding tax year and corresponding income year.
+Commissioner's calculation and notification
+(4) The Commissioner must calculate a taxpayer's GST ratio, notifying them by
+  (a) including the percentage figure on the taxpayer's pre-printed GST return form; or
+  (b) advising them in writing or by telephone; or
+  (c) some other means.
+Adjustment to GST ratio
+(5) The Commissioner must adjust a taxpayer's GST ratio if the base amounts are revised through, among other reasons,
+  (a) an assessment or an amended assessment of the taxpayer's income tax return for the preceding tax year; or
+  (b) a change in the value of the total taxable supplies for the corresponding income year; or
+  (c) the disposal of an asset to which section MB 18 applies.
+New GST ratio
+(6) When subsection (5) applies, the Commissioner must notify the taxpayer of the new GST ratio. The new ratio applies in relation to the relevant instalment dates that occur 30 days after the date of notification.
+Transitional years
+(7) If a taxpayer has paid instalments of provisional tax in a transitional year, for the tax year that follows the transitional year, for the purposes of this section and section MB 10, they must
+  (a) ignore the transitional year when determining their residual income tax or total taxable supplies; and
+  (b) base their determination of residual income tax and total taxable supplies on the tax year preceding the transitional year.
+Total taxable supplies
+(8) In subsections (2), (5), and (7), and in sections MB 10, MB 15, MB 18, and MB 32, total taxable supplies for a person and a period means the amount that is the total value, including GST, of taxable supplies of the person for the period.
+Relationship with other provisions
+(9) Section MZ 11 (Calculating provisional tax instalments: sections MB 7 and MB 10) modifies this section.
 
-### MB 8 Refund of overpaid provisional tax
-(1) If the amount of provisional tax payable by a provisional taxpayer for a tax year is reduced by the taxpayer or by the Commissioner under section 119(2) of the Tax Administration Act 1994 and the taxpayer applies in writing for a refund of an amount of provisional tax already paid for the tax year that, as a result of the reduction, exceeds the amount that would have been payable for the earlier instalment dates for the tax year, the Commissioner must—
-  (a) apply the excess amount, in accordance with a request under section 173T of the Tax Administration Act 1994 or, in the absence of such a request, in such order or manner as the Commissioner may determine, in payment of tax that is payable by the person:
-  (b) refund any balance of the excess amount.
-(2) If the residual income tax of a provisional taxpayer for a tax year is assessed as not exceeding $2,500 and the taxpayer applies in writing for the refund of an amount of provisional tax that has been determined under section MB 2(1)(b) and already paid for the first instalment date of the next succeeding tax year or for the second instalment date of that next succeeding tax year, the Commissioner must—
-  (a) apply the amount, in accordance with a request under section 173T of the Tax Administration Act 1994 or, in the absence of such a request, in such order or manner as the Commissioner may determine, in payment of tax that is payable by the person:
-  (b) refund any balance of the amount.
-(3) Where any excess provisional tax paid for any tax year has, under subsection (1) or (2), been refunded, or credited in payment of income tax due and unpaid,—
-  (a) any subsequent instalments payable in accordance with section MB 5 are calculated as if the total of the instalments previously payable were reduced by the amount of the excess provisional tax; and
-  (b) the amount of the excess refunded or credited is, with effect from the date of the refund or crediting, deemed not to be provisional tax paid in respect of the tax year.
+### MB 8 Provisional tax payable in instalments
+General principle
+(1) The general principle for the standard and estimation methods is that the amount of a taxpayer's provisional tax must be spread evenly over the applicable number of instalments, so that equal amounts are paid on each instalment date. If the amount of provisional tax is not divisible into exactly equal instalments, the final instalment carries the difference.
+Provisional tax payable in 3 instalments
+(2) Provisional tax is payable in 3 instalments on the interest instalment dates for the tax year in the months set out in schedule 13, part A, columns B, D, and F for the taxpayer's corresponding income year. The amount of each instalment is calculated under section MB 9. Subsection (3) overrides this subsection.
+Exclusions
+(3) Subsection (2) does not apply
+  (a) to a provisional taxpayer who
+    (i) pays GST on a 6-monthly basis:
+    (ii) uses a GST ratio to determine the amount of provisional tax payable, or who changes their determination method under section MB 17(5):
+    (iii) changes the cycle of their taxable periods under section 15C of the Goods and Services Tax Act 1985:
+  (b) to a new provisional taxpayer who
+    (i) pays GST on a 6-monthly basis:
+    (ii) pays GST on a monthly or 2-monthly basis, and starts a taxable activity after the day that is 30 days before the date of instalment B in their corresponding income year:
+  (c) to a provisional taxpayer who has not provided a return of income for the preceding tax year, and whose residual income tax for the tax year immediately before the preceding tax year was $2,500 or less:
+  (d) in a transitional year.
+Provisional tax when GST paid on 6-monthly basis
+(4) A provisional taxpayer who pays GST on a 6-monthly basis must pay provisional tax on the 2 interest instalment dates for the tax year in the months set out in schedule 13, part A, columns C and F for the taxpayer's corresponding income year. This subsection applies to a new provisional taxpayer other than one who pays GST on a 6-monthly basis and starts a taxable activity after the day that is 30 days before the date of instalment C.
+Provisional tax determined using GST ratio
+(5) A provisional taxpayer who uses a GST ratio to determine the amount of provisional tax payable for a tax year, must pay provisional tax on the 6 ratio instalment dates in the months set out in schedule 13, part A, columns A to F for the taxpayer's corresponding income year. The amount of each instalment is calculated under section MB 10.
+Changing determination method
+(6) A provisional taxpayer who is unable or decides not to use a GST ratio, changing their determination method under section MB 17, must pay the provisional tax payable for the tax year on the relevant instalment dates under the replacement method. The amount of each instalment is calculated under section MB 6 or MB 9, as applicable.
+Changing cycle of taxable periods
+(7) A provisional taxpayer who changes the cycle of their taxable periods under section 15C of the Goods and Services Tax Act 1985 must pay provisional tax for the tax year on the instalment dates specified in section MB 27 after the change in taxable period takes effect under section MB 26. The amount of each instalment is calculated under section MB 9.
+New provisional taxpayers
+(8) A new provisional taxpayer who starts a taxable activity in a tax year in relation to which they pay GST must pay provisional tax for the tax year
+  (a) in 3 instalments under subsection (2) if they start a taxable activity at some time in the period that starts at the beginning of the corresponding income year and ends 30 days before the date of instalment B:
+  (b) in 2 instalments
+    (i) in a case to which section MB 13 applies; or
+    (ii) if they start a taxable activity at some time in the period that starts at the beginning of the corresponding income year and ends 30 days before the date of instalment C:
+  (c) in 1 instalment in a case to which section MB 14 applies.
+Extension of time for return
+(9) A provisional taxpayer who has not provided a return of income for a preceding tax year and whose residual income tax for the tax year before the preceding tax year was $2,500 or less must pay provisional tax for the tax year on the instalment dates set out in section MB 13 or MB 14, as applicable.
+Transitional years
+(10) In a transitional year, provisional tax is due and payable as set out in section MB 20 and schedule 13, part B. The amount of each instalment is calculated under sections MB 21 to MB 23.
+Voluntary payments
+(11) A provisional taxpayer may pay an instalment of provisional tax under section MB 12 at any time.
 
-### MB 9 Payments to be set off within wholly-owned group
-(1) Subject to section MD 2, this section applies for the purposes of the provisional tax rules and Part 7 of the Tax Administration Act 1994 in relation to any taxpayer that is a company included in a wholly-owned group of companies.
-(2) Where for any tax year a company has paid provisional tax in excess of its residual income tax, the company (in this section referred to as the excess company) may, if it so elects by notice in accordance with subsection (6), allocate all or any part of that excess to any other company (any such company being in this section referred to as the underpaid company) included in that tax year in the same wholly-owned group as the excess company, to the extent that the provisional tax paid by the underpaid company is less than its residual income tax for that tax year.
-(3) An excess company may make an allocation under subsection (2) in relation to a tax year only on or after the later of—
-  (a) the day on which the provisional tax in excess is paid by the excess company; or
-  (b) the day on which the first instalment of provisional tax payable in respect of the tax year becomes payable by the underpaid company.
-(4) Every allocation made under subsection (2) is deemed to be made on the day specified for the purpose in the notice required by that subsection.
-(5) Any provisional tax allocated by an excess company to an underpaid company, in relation to a tax year in accordance with subsection (2), is deemed to be provisional tax paid by the underpaid company and not by the excess company.
-(6) Every notice under subsection (2) must—
-  (b) name the underpaid company or companies to which any excess amount is to be allocated, and the amount or amounts so allocated; and
-  (c) be furnished to the Commissioner within the time within which a return of income for the tax year is required to be furnished by the underpaid company or companies, or within such further time as the Commissioner may allow; and
-  (d) specify the day on which an excess amount is deemed to be allocated to the underpaid company and the amount of the excess allocated.
+### MB 9 Calculating amount of instalment under standard and estimation methods
+When this section applies
+(1) This section applies for the purposes of
+  (a) section MB 4(3) and (5) (which relates to the calculation of a provisional tax liability):
+  (b) section MB 8(2) and (4) (which relates to payment of instalments):
+  (c) sections MB 13 and MB 14 (which relate to new provisional taxpayers and taxpayers with an extension of time for providing a return):
+  (d) sections MB 25 to MB 27 (which relate to changes in taxable periods).
+Calculation
+(2) The amount of an instalment of provisional tax for a tax year is calculated using the formula—residual tax instalment number total instalments provisional tax
+Definition of items in formula
+(3) In the formula,
+  (a) residual tax is a provisional taxpayer's residual income tax, as applicable
+    (i) for the preceding tax year, uplifted by 5% (section MZ 12 (Calculating provisional tax instalments: section MB 9) modifies this subparagraph); or
+    (ii) for the tax year immediately before the preceding tax year, uplifted by 10% (section MZ 12 modifies this subparagraph); or
+    (iii) the amount estimated by the taxpayer:
+  (b) instalment number is the number of the taxpayer's instalment for the tax year, whether first, second, or third:
+  (c) total instalments is the total number of the taxpayer's instalments for the tax year:
+  (d) provisional tax is the amount of the taxpayer's provisional tax liabilities for the tax year to date.
+Instalment amounts after change in balance date or taxable period
+(4) If a change occurs to the balance date or cycle of taxable periods of a provisional taxpayer, the calculation of the amount of an instalment is made under this section, applying the updated figures to the items in the formula.
 
 ### MB 9A Provisional tax and attribution rule for services
-(1) This section applies for the purposes of the provisional tax rules and Part 7 of the Tax Administration Act 1994 in respect of provisional tax paid for income from personal services to which section GC 14B may apply.
-(2) If, during a tax year, person B pays provisional tax in excess of its residual income tax, person B may allocate all or part of the excess to person C, to the extent that provisional tax paid by person C is less than person C's residual income tax for the tax year.
-(3) If, during a tax year, person C pays provisional tax in excess of its residual income tax, person C may allocate all or part of the excess to person B, to the extent that provisional tax paid by person B is less than person B's residual income tax for the tax year.
-(4) Persons B and C may allocate all or part of the excess only on or after the later of—
-  (a) the day on which the provisional tax in excess is paid by person B or person C, as the case may be; and
-  (b) the day on which the first instalment of provisional tax payable in respect of the tax year becomes payable by—
-    (i) person C, if person B is making the allocation:
-    (ii) person B, if person C is making the allocation.
-(5) Provisional tax allocated by person B to person C is treated as provisional tax paid by person C and not by person B.
-(6) Provisional tax allocated by person C to person B is treated as provisional tax paid by person B and not by person C.
-(7) An allocation is made by giving notice to the Commissioner, within the time that a return of income for the tax year must be furnished by the person to whom the excess is allocated, or within such further time as the Commissioner may allow.
-(8) A notice must state—
-  (a) the person to whom an excess amount is allocated; and
-  (b) the amount of the excess; and
-  (c) the date on which the excess amount is allocated.
+[Repealed]
 
-### MB 10 Offset of further income tax
-(1) For the purposes of sections MB 2 and MB 5, where, in accordance with section ME 9, a company applies an amount of tax by way of further income tax in payment of any instalment of provisional tax for which the company becomes liable after the date of payment of the further income tax, the instalment of provisional tax is satisfied by the amount of the further income tax, so far as that amount extends.
-(2) The Commissioner must credit the amount of the further income tax in payment successively of—and the amount is deemed to be provisional tax and to have been paid on the date on which the instalment so credited was due and payable.
-  (a) the instalment of provisional tax that first falls due and payable after the date of payment of the further income tax; and
-  (b) instalments subsequent to that instalment, in the order in which they fall due and payable, so far as the amount of the further income tax extends,—
+### MB 10 Calculating amount of instalment using GST ratio
+Calculation
+(1) The amount of provisional tax payable on an instalment date by a provisional taxpayer who uses a GST ratio for a tax year is calculated using the formula—GST ratio for tax year × taxable supplies.
+Item in formula: taxable supplies
+(2) In the formula, taxable supplies is the amount of the taxpayer's taxable supplies in the taxable period that matches the instalment period.
+Taxable supplies when taxpayer pays on monthly basis
+(3) For the purposes of subsection (1), a taxpayer who pays GST on a 1-month cycle under section 15 of the Goods and Services Tax Act 1985 must apply the GST ratio to the sum of their taxable supplies in the current taxable period and the preceding taxable period; that is, the taxable supplies in the 2-month period matching the instalment period.
+Relationship with other provisions
+(4) Section MZ 11 (Calculating provisional tax instalments: sections MB 7 and MB 10) modifies this section.
 
-### MB 11 Calculation of residual income tax of amalgamated company
-Where any amalgamating company ceases to exist on an amalgamation, the residual income tax of the amalgamated company in the tax year preceding the tax year in which the amalgamation takes place is deemed, for the purposes of the provisional tax rules (but only with respect to instalments of provisional tax payable after the amalgamation), to be equal to the amount which would have been such residual income tax had the amalgamating company and the amalgamated company always been 1 company.
+### MB 11 Using GST refund to pay instalment of provisional tax
+Offsetting amount
+(1) If a provisional taxpayer has an excess of deductions over aggregate output tax in a taxable period under section 20(5) of the Goods and Services Tax Act 1985, they may choose to use an amount of the excess to pay some or all of an instalment of provisional tax that is due on the same instalment date.
+(2) If a person makes an election under subsection (1) affecting an amount of an excess of deductions over aggregate output tax (elected amount) and the Commissioner makes an amended assessment reducing the amount of the excess to less than the elected amount, the person's payment of provisional tax arising from the GST refund is the amount of the excess after the reassessment.
 
 ### MB 11B Transitional provisions relating to alignment of dates of payment for provisional tax and GST
+[Repealed]
+
+### MB 12 Voluntary payments
+A taxpayer may at any time make a voluntary payment of an amount of provisional tax that
+  (a) relates to their income tax liability for a tax year in which they are not a provisional taxpayer:
+  (b) is more than the provisional tax payable by them for the tax year:
+  (c) is more than the income tax payable by them for the tax year.
+
+### MB 13 Paying 2 instalments for tax year
+Who this section applies to
+(1) This section applies for a tax year to
+  (a) a new provisional taxpayer whose first business day occurs in the period that starts 30 days before the date of instalment B and ends 30 days before the date of instalment D; or
+  (b) a taxpayer whose return of income for the preceding tax year is provided in the period that starts on the date of instalment B and ends on the date of instalment D if
+    (i) the taxpayer was required to provide a return for the preceding tax year but, under section 37 of the Tax Administration Act 1994 or an extension under that section, the taxpayer is not required to provide the return by the date of instalment B; and
+    (ii) their residual income tax for the tax year before the preceding tax year was $2,500 or less.
+Who this section does not apply to
+(2) Despite subsection (1), this section does not apply to a provisional taxpayer who pays GST on a 6-monthly basis.
+When instalments are due
+(3) The instalments are due and payable on the date of instalments D and F for the taxpayer's corresponding income year.
+Formula for amount of instalment
+(4) The amount of each instalment is calculated under section MB 9.
+Example: Section MB 13 Mr Red, who is not registered for GST, starts business on 20 August and has a March balance date. The first business day falls in the period that starts on 29 July (30 days before instalment B) and ends on 21 December (30 days before instalment D). Mr Red has 2 payments of provisional tax for the year, due on 15 January and 7 May second payment
+
+### MB 14 Paying 1 instalment for tax year
+Who this section applies to
+(1) This section applies for a tax year to
+  (a) a new provisional taxpayer whose first business day occurs in the period that starts 30 days before the date of instalment D and ends at the end of the corresponding income year:
+  (b) a taxpayer whose return of income for the preceding tax year is not provided on or before the date of instalment D if
+    (i) the taxpayer was required to provide a return for the preceding tax year but, under section 37 of the Tax Administration Act 1994 or an extension under that section, is not required to provide the return by the date of instalment D; and
+    (ii) their residual income tax for the tax year before the preceding tax year was $2,500 or less:
+  (c) a person who pays GST on a 6-monthly basis if
+    (i) their first business day occurs in the period that starts 30 days before the date of instalment C and ends at the end of the corresponding income year:
+    (ii) they meet the requirements of paragraph (b)(i) and (ii) as if the reference to instalment D in paragraph (b)(i) were a reference to instalment C.
+When instalment due
+(2) The instalment is due and payable on the date of instalment F for the taxpayer's corresponding income year.
+Amount of instalment
+(3) The amount of the instalment is calculated under section MB 9.
+Example: Section MB 14 Ms Orange, who is registered for GST on a 2-monthly basis, starts business on 1 January and has a March balance date. Ms Orange is ordinarily liable to pay provisional tax in 3 instalments aligned with her GST payment dates (s MB 8(2)). However, because her first business day falls in the period that starts on 21 December (30 days before instalment D) and ends on 31 March, Ms Orange has 1 payment of provisional tax for the year, due on 7 May.
+
+### MB 15 Who may use GST ratio?
+General eligibility
+(1) A provisional taxpayer may choose to use a GST ratio to determine under section MB 4(6) the amount of provisional tax payable for a tax year only if they meet all the requirements in subsections (2) and (3) in relation to the same entity.
+Requirements for preceding tax year
+(2) For the purposes of determining their eligibility for a tax year, the taxpayer must meet the following requirements in the preceding tax year:
+  (a) their residual income tax, as assessed, was more than $2,500 but no more than $150,000; and
+  (b) they were a person registered under section 51 of the Goods and Services Tax Act 1985 for the whole tax year, and provided returns under that Act for an entity whose business or taxable activity did not begin operations in that tax year; and
+  (c) the ratio of their residual income tax to total taxable supplies, as calculated under section MB 7(2) and expressed as a percentage, is between zero and 100%.
+Requirement for current year
+(3) For the tax year in which the taxpayer uses a GST ratio, they must be liable to file a return under the Goods and Services Tax Act 1985 for a 2-month or a 1-month period under section 15(1)(b) and (c) of that Act.
+When election applies
+(4) An election to use a GST ratio applies for the tax year for which the election is made and in later tax years, unless the taxpayer changes their determination method under section MB 17. The election is made under section MB 16.
+Requirement to discontinue use of GST ratio
+(5) Despite subsections (1) to (4), a taxpayer must discontinue the use of the GST ratio for the tax year and must apply section MB 17(4) or (5) if
+  (a) their GST registration ends in the tax year; or
+  (b) they no longer qualify under subsection (2) as a result of an amended assessment of their income tax liability or their GST liability for the preceding tax year; or
+  (c) they no longer qualify under subsection (3) as a result of a change in their taxable period.
+Failure to provide GST returns
+(6) A taxpayer must not use, or must discontinue the use of, a GST ratio for a tax year if the taxpayer
+  (a) is liable to provide a return under the Goods and Services Tax Act 1985 for a period in the taxpayer's corresponding income year; and
+  (b) becomes in default under this subsection by failing to provide the return before the date that is 60 days after the due date for filing the return.
+Provisional tax instalments for periods following default
+(7) If a taxpayer is required by subsection (6) to discontinue the use of a GST ratio for a determination method, the taxpayer must make provisional tax instalments as required by section MB 17 for instalment periods
+  (a) beginning on or after the due date for filing of the return for which the taxpayer becomes in default under subsection (6)(b); and
+  (b) not affected by a notice issued by the Commissioner under subsection (8).
+Further use of GST ratio
+(8) A taxpayer who would otherwise be prohibited by subsection (6) from using a GST ratio for a determination method for an instalment period referred to in subsection (7)(a) may nevertheless use that determination method for the instalment period if the taxpayer
+  (a) applies in writing for the Commissioner to issue a notice under this subsection; and
+  (b) satisfies the Commissioner that
+    (i) the failure referred to in subsection (6)(b) is a result of an event or circumstance beyond the control of the taxpayer; and
+    (ii) as a consequence of that event or circumstance, the taxpayer has a reasonable justification or excuse for the failure; and
+    (iii) the taxpayer corrected the failure as soon as practicable; and
+  (c) is sent a notice in writing by the Commissioner that the taxpayer may use the GST ratio for a determination method for the instalment period.
+Standard of satisfaction
+(9) The taxpayer must satisfy the Commissioner under subsection (8)(b) to a standard that would justify the remission of a penalty under section 183A of the Tax Administration Act 1994.
+Effect of later default
+(10) A notice to a taxpayer under subsection (8) does not apply to an instalment period if
+  (a) the taxpayer becomes in default under subsection (6) in relation to a return for which the due date is after the date of the notice; and
+  (b) the default is not expressly anticipated and taken into account in the notice; and
+  (c) the instalment period begins on or after the due date referred to in paragraph (a).
+References to preceding tax year
+(11) In this section, a reference to a preceding tax year includes a reference to the tax year immediately before the preceding tax year if that earlier tax year is used for the purposes of calculating a GST ratio.
+
+### MB 16 Choosing to use GST ratio
+A taxpayer who meets the requirements referred to in section MB 15(1) for a tax year may use a GST ratio for the corresponding income year if the taxpayer, before the start of the corresponding income year, informs the Commissioner of the election to use a GST ratio for the tax year.
+
+### MB 17 Changing determination method
+When this section applies
+(1) This section applies if, after having chosen to use a GST ratio for a tax year, a provisional taxpayer either
+  (a) chooses another way to determine the amount of provisional tax payable for the corresponding income year; or
+  (b) is required under section MB 15(5) or (6) to discontinue the use of a GST ratio for the corresponding income year.
+Notifying Commissioner of decision to change
+(2) The taxpayer must notify the Commissioner of their decision under subsection (1)(a), and may do this either in writing or by telephone. Subsection (3) or (4) then applies for the remaining instalments for the income year.
+Date on which use of GST ratio discontinued
+(3) For the purposes of subsection (1)(b), the date on which the taxpayer discontinues their use of a GST ratio is, as applicable,
+  (a) the date their GST registration ends; or
+  (b) the date of the amended assessment of their income tax liability or GST liability for the preceding tax year; or
+  (c) the effective date of a change in taxable period; or
+  (d) the end of the period in which a return is liable to be provided under the Goods and Services Tax Act 1985.
+Changing method before date of instalment A
+(4) If the taxpayer is unable or decides not to use a GST ratio before the date of instalment A, they may choose to determine the amount of provisional tax payable under section MB 4(3) or (5), as if the election to use the GST ratio had not been made.
+Changing method after instalment date
+(5) If the taxpayer is unable or decides not to use the GST ratio after an instalment date, they must determine the amount of provisional tax payable on instalment for the remainder of the income year under section MB 4(5) on the basis of an estimate of their residual income tax for the tax year. For this purpose, the taxpayer may provide the estimate in writing or by telephone.
+Date of application when method changed
+(6) If a taxpayer changes their determination method under subsection (4) or (5), the date on which the change applies may be a future date agreed between the taxpayer and the Commissioner.
+Other consequences of changing method
+(7) For the purposes of this section,
+  (a) the frequency and the instalment dates remaining for an income year depend on
+    (i) the requirements of the determination method chosen by the taxpayer when they stop using the GST ratio; and
+    (ii) the cycle of taxable periods chosen by the taxpayer, being either a monthly or 2-monthly basis:
+  (b) a taxpayer may change from using a GST ratio to a 6-monthly cycle of taxable periods only if
+    (i) the requirements in section 15C of the Goods and Services Tax Act 1985 are met; and
+    (ii) their 6-month taxable period is aligned with their balance date under section 15B of the Goods and Services Tax Act 1985:
+  (c) section 120KE(5) to (7) (Provisional tax and rules on use of money interest) of the Tax Administration Act 1994 applies to determine whether and when use of money interest is payable in relation to instalments under the new determination method.
+
+### MB 18 Disposal of assets
+When this section applies
+(1) This section applies if, as part of the business of an entity described in section MB 15(1), a provisional taxpayer disposes of an asset
+  (a) that is not revenue account property; and
+  (b) the value of the supply of which is not less than the greater of
+    (i) an amount equal to 5% of the total taxable supplies of the business for the previous 12 months:
+    (ii) $1,000.
+Adjustment to GST ratio for current and next income year
+(2) The taxpayer may choose to take the disposal of the asset into account by adjusting their taxable supplies for the relevant taxable period and income year. The adjustment must be made to both
+  (a) the amount of the taxpayer's taxable supplies for the purposes of the formula in section MB 10(1), by subtracting an amount that equals the value of the supply of the asset (as determined under section 10 of the Goods and Services Tax Act 1985) from the amount of taxable supplies for the relevant taxable period; and
+  (b) the base amount of the taxpayer's taxable supplies for the next income year, by subtracting the amount that equals the value of the supply of the asset referred to in paragraph (a) from total taxable supplies in working out the GST ratio under section MB 7(2).
+Notifying Commissioner
+(3) For the purposes of subsection (2), the taxpayer must notify the Commissioner of both the disposal of the asset and the value of its supply, and may do this either in writing or by telephone.
+Rounding percentages
+(4) In the determination of the value of the supply of the asset under subsection (1)(b)(i), the amount must be rounded to a whole percentage number.
+
+### MB 19 Calculating residual income tax in transitional years
+Calculation for transitional year
+(1) This section applies for the purposes of section MB 4(3) and the calculation of a taxpayer's residual income tax for a tax year if—
+  (a) the preceding tax year is a transitional year:
+  (b) the tax year before the preceding tax year is a transitional year.
+Calculation for transitional year
+(2) The amount of residual income tax for the transitional year must be increased or decreased by the amount given by the formula in subsection (3) so as to reflect the amount that would apply in a 12-month period.
+Formula
+(3) The amount is calculated using the formula—residual income tax days in current year days in transitional year
+
+### MB 20 Paying provisional tax in transitional years
+Total amount payable
+(1) The total amount of provisional tax payable in a transitional year is the sum of all instalments of provisional tax due in the transitional year.
+When instalments due
+(2) Instalments other than a final instalment of provisional tax are due on
+  (a) the 28th day of the months set out in schedule 13, part B (Months for payment of provisional tax and terminal tax), reflecting the instalment dates set out in part A of the schedule, unless paragraph (b) applies:
+  (b) the 15th day of January, when the month set out in schedule 13, part A is December.
+When final instalment due
+(3) Payment of the final instalment is due on
+  (a) the 28th day of the month following the final month in the transitional year; or
+  (b) the 15th day of January, when November is the final month.
+Modifications to instalment dates
+(4) For the purposes of subsection (2), provisional tax is not due and payable on
+  (a) the date of instalment B, if section MB 13 would have applied had the tax year not been a transitional year; or
+  (b) the dates of instalments B and D, if section MB 14(1)(a) and (b) would have applied had the tax year not been a transitional year; or
+  (c) the dates of instalments B, D, and F, if the taxpayer is a new provisional taxpayer whose first business day occurs after the day that is 30 days before the date of instalment F; or
+  (d) the date of instalment C, if section MB l4(1)(c) would have applied had the tax year not been a transitional year; or
+  (e) the dates of instalments C and F, if the taxpayer is a new provisional taxpayer who pays GST on a 6-monthly basis whose first business day occurs after the day that is 30 days before the date of instalment F.
+Counting months in transitional years
+(5) In this section, and in sections MB 21 to MB 24, and in schedule 13, part B (Months for payment of provisional tax and terminal tax), the number of months in a transitional year is determined as follows:
+  (a) the first month in a taxpayer's transitional year is the first whole month in the transitional year:
+  (b) the final month in a transitional year is the month in which the taxpayer's new balance date under section 39 of the Tax Administration Act 1994 occurs:
+  (c) each month falling between the first and final months must be included in determining the length of the transitional year.
+
+### MB 21 Calculating instalments in transitional years: standard method
+When this section applies
+(1) This section applies to instalments of provisional tax payable in a transitional year under section MB 20 by a provisional taxpayer using the standard method to calculate their provisional tax liability.
+Instalment other than final instalment
+(2) The amount payable on an instalment date other than the final instalment date is calculated using the formula—provisional tax instalments due total instalments tax previously due
+Definition of items in formula in subsection (2)
+(3) In the formula in subsection (2),
+  (a) provisional tax is the provisional tax liability under section MB 4(3):
+  (b) instalments due is the number of instalments due in the transitional year on or before the instalment date:
+  (c) total instalments is whichever of the following applies:
+    (i) 3, for provisional taxpayers who pay on instalment dates B, D, and F; or
+    (ii) 2, for provisional taxpayers who pay on instalment dates C and F:
+  (d) tax previously due is the amount for the transitional year of provisional tax that is due and payable before the instalment date.
+Final instalment
+(4) The amount payable on a final instalment date is calculated using the formula—provisional tax transitional year days preceding year days tax previously due
+Definition of items in formula in subsection (4)
+(5) In the formula in subsection (4),
+  (a) provisional tax is the provisional tax liability under section MB 4(3):
+  (b) transitional year days is the number of days in the transitional year:
+  (c) preceding year days is the number of days in the preceding tax year:
+  (d) tax previously due is the amount for the preceding tax year of provisional tax that is due and payable before the instalment date.
+
+### MB 22 Calculating instalments in transitional years: estimation method
+When this section applies
+(1) This section applies to instalments of provisional tax payable in a transitional year under section MB 20 by a provisional taxpayer using the estimation method to calculate their provisional tax liability.
+Instalment other than final instalment
+(2) The amount payable on an instalment date other than the final instalment date is calculated using the formula—tax estimate instalments due transitional months tax previously due
+Definition of items in formula in subsection (2)
+(3) In the formula,
+  (a) tax estimate is the provisional tax liability last estimated by the taxpayer under section MB 4(5):
+  (b) instalments due is either
+    (i) 4 multiplied by the number of instalments in the transitional year that are due on or before the instalment date, for provisional taxpayers who pay on the equivalent of instalment dates B, D, and F; or
+    (ii) 6 multiplied by the number of instalments in the transitional year that are due on or before the instalment date, for provisional taxpayers who pay on the equivalent of instalment dates C and F:
+  (c) transitional months is the number of months in the transitional year:
+  (d) tax previously due is the amount for the transitional year of provisional tax that is due and payable before the instalment date.
+Final instalment
+(4) The amount payable on a final instalment date is the amount of provisional tax determined under section MB 4(5) less the amount of any instalment previously due and payable.
+
+### MB 23 Calculating instalments in transitional years: GST ratio method
+What this section applies to
+(1) This section applies to instalments of provisional tax payable in a transitional year by a provisional taxpayer using a GST ratio.
+Adjustment if required
+(2) The taxpayer must apply the GST ratio under section MB 10 to any period or part period before the start of the new income year on whichever dates of instalments A to F for their corresponding income year occur in the transitional year.
+
+### MB 24 Consequences of change in balance date
+Continuing frequency
+(1) If a provisional taxpayer changes their balance date, until the new balance date is reached, the taxpayer must continue to use the instalment dates that applied before the change in balance date was approved.
+How amounts determined
+(2) Sections MB 19 to MB 23 and schedule 13, part B (Months for payment of provisional tax and terminal tax) apply for the transitional year in subsection (1) to determine the amount and due date of the instalments.
+Estimation method
+(3) In a transitional year, a provisional taxpayer who uses the estimation method must,
+  (a) before the date on which the Commissioner notifies a change in balance date, estimate the residual income tax as if no change in balance date is or will be approved; and
+  (b) after the date on which the Commissioner notifies a change in balance date, re-estimate the residual income tax.
+GST ratio method
+(4) Subsection (5) applies when a provisional taxpayer who uses a GST ratio to determine the provisional tax payable for a tax year, changes their balance date and moves from
+  (a) a set of instalment dates in even-numbered months to a set of instalment dates in odd-numbered months; or
+  (b) a set of instalment dates in odd-numbered months to a set of instalment dates in even-numbered months.
+Adjustment to liability
+(5) The taxpayer must adjust their provisional tax liability for the income year for the part period of 1 month before the start of the new income year. The part period is their final taxable period, and the instalment of provisional tax is due 28 days after the end of that period.
 Aligning taxable periods
-(1) For a provisional taxpayer with a GST liability, if a change in balance date means that the taxpayer's taxable period is not aligned with the balance date, an adjustment must be made to their taxable period under section 15AB of the Goods and Services Tax Act 1985.
-Application of subsections (3) and (4)
-(2) Subsections (3) and (4) apply when a provisional taxpayer with a GST liability changes under section 15AB of the Goods and Services Tax Act 1985 their cycle of taxable periods.
+(6) For a provisional taxpayer with a GST liability, if a change in balance date means that the taxpayer's taxable period is not aligned with the balance date, an adjustment must be made to their taxable period under section 15B(3) or 15C of the Goods and Services Tax Act 1985.
+Example: Sections MB 20 to MB 24 Mr Yellow, who has a March balance date, decides to change to a May balance date. The transitional year is 14 months long. He starts business and becomes a new provisional taxpayer on 31 July, estimating provisional tax at $15,000 for the income year. At the end of the year, Mr Yellow's residual income tax is $20,000. Instalments in transitional year: 28th day of 5th, 9th, and 13th months after balance date, and final instalment on 28th day of month following final month in transitional year (s MB 22 and schedule 13, part B). But the first business day falls within 30 days of the date that would be the first instalment, 28 August (s MB 13), so no instalment is due. The April instalment only is due on 7 May. Amounts payable on the instalment dates are calculated under s MB 22. First instalment due 15 January: $15,000 x 4/14 = $4,285 Second instalment due 7 May: $15,000 x 8/14 - $4,285 = $4,286 Final instalment due 28 June: $15,000 – $8,571 = $6,429.
+
+### MB 25 Registering for GST or cancelling registration
+When this section applies
+(1) This section applies if a provisional taxpayer who uses the standard or estimation method to determine the amount of provisional tax payable for a tax year
+  (a) applies to the Commissioner to become a registered person under section 51 of the Goods and Services Tax Act 1985; or
+  (b) is treated as registered under section 51B of that Act; or
+  (c) asks the Commissioner to cancel their GST registration, or has their GST registration cancelled under section 52 of that Act.
+Starting or ending GST registration: monthly or 2-monthly basis
+(2) For a taxpayer who becomes registered for GST paying on a monthly or 2-monthly basis, or who cancels or has their GST registration cancelled having paid on that basis, the instalments of provisional tax payable by them for the tax year are unaffected.
+Starting GST registration: 6-monthly basis
+(3) For a taxpayer who becomes registered for GST paying on a 6-monthly basis, instalments of provisional tax are due and payable on whichever dates of instalments C and F for their corresponding income year coincide with the cycle of their taxable periods after they become a registered person.
+Ending GST registration: 6-monthly basis
+(4) For a taxpayer who pays GST on a 6-monthly basis and cancels their GST registration or has their registration cancelled, instalments of provisional tax are due and payable on whichever dates of instalments B, D, and F for their corresponding income year occur after 30 days from the date of cancellation.
+Date of cancellation
+(5) For the purposes of subsection (4) and the provisional tax rules, the date of cancellation is the date on which the cancellation of GST registration is notified.
+Formula for amount of instalment
+(6) The amount of each instalment is calculated under section MB 9.
+
+### MB 26 Changing GST cycle
+When this section applies
+(1) This section applies when a provisional taxpayer with a GST liability changes under section 15C of the Goods and Services Tax Act 1985 their cycle of taxable periods.
 When taxable periods aligned
-(3) The change takes effect as described in section 15AB of that Act if the following coincide:
-  (a) the end of the taxable period in which the taxpayer—
+(2) The change takes effect as described in section 15D of the Goods and Services Tax Act 1985 if the following coincide:
+  (a) the end of the taxable period in which the taxpayer
     (i) applies to change the basis on which the taxpayer's taxable period is set:
     (ii) is required to change the basis on which the taxpayer's taxable period is set:
   (b) the start of the taxable period in the taxpayer's new cycle.
 When taxable periods not aligned
-(4) If subsection (3) does not apply, the taxpayer must continue to use the taxpayer's existing cycle until the end of the next taxable period for which the end coincides with the start of a taxable period in the new cycle.
-
-### MB 12 Application of other provisions to provisional tax
-Subject to the provisional tax rules, the other provisions of this Act and of the Tax Administration Act 1994, except where otherwise specified, apply with respect to every amount that any person is liable to pay to the Commissioner under the provisional tax rules as if the amount were income tax imposed under section BB 1.
-
-### MB 13 Paying 2 instalments for tax year
-[Repealed]
-
-### MB 14 Paying 1 instalment for tax year
-[Repealed]
-
-### MB 15 Who may use GST ratio?
-[Repealed]
-
-### MB 16 Choosing to use GST ratio
-[Repealed]
-
-### MB 17 Changing determination method
-[Repealed]
-
-### MB 18 Disposal of assets
-[Repealed]
-
-### MB 19 Calculating residual income tax in transitional years
-[Repealed]
-
-### MB 20 Paying provisional tax in transitional years
-[Repealed]
-
-### MB 21 Calculating instalments in transitional years: standard method
-[Repealed]
-
-### MB 22 Calculating instalments in transitional years: estimation method
-[Repealed]
-
-### MB 23 Calculating instalments in transitional years: GST ratio method
-[Repealed]
-
-### MB 24 Consequences of change in balance date
-[Repealed]
-
-### MB 25 Registering for GST or cancelling registration
-[Repealed]
-
-### MB 26 Changing GST cycle
-[Repealed]
+(3) If subsection (2) does not apply, the taxpayer must continue to use the taxpayer's existing cycle until the end of the next taxable period for which the end coincides with the start of a taxable period in the new cycle. This section overrides section 15D(2) of the Goods and Services Tax Act 1985.
 
 ### MB 27 Payment of provisional tax instalments when GST cycle changed
-[Repealed]
+When subsection (2) applies
+(1) Subsection (2) applies in a tax year to a provisional taxpayer who
+  (a) uses the standard or estimation method to determine the amount of provisional tax payable; and
+  (b) has been paying GST on a monthly or 2-monthly basis; and
+  (c) changes to a 6-monthly basis under section 15C(1) of the Goods and Services Tax Act 1985.
+When instalments are due: changing to 6-monthly basis
+(2) Instalments of provisional tax are due and payable on whichever dates of instalments C and F for the taxpayer's corresponding income year occur after the change in taxable period takes effect under section MB 26.
+When subsection (4) applies
+(3) Subsection (4) applies in a tax year to a provisional taxpayer who
+  (a) uses the standard or estimation method to determine the amount of provisional tax payable; and
+  (b) has been paying GST on a 6-monthly basis; and
+  (c) changes to a monthly or 2-monthly basis under section 15C(2) or (3) of the Goods and Services Tax Act 1985.
+When instalments due: changing to monthly or 2-monthly basis
+(4) Instalments of provisional tax are due and payable on whichever dates of instalments B, D, and F for the taxpayer's corresponding income year occur after the change in taxable period takes effect under section MB 26.
+Interest instalment dates in new cycle
+(5) If an instalment of provisional tax due on an instalment date in the new cycle is payable in relation to a period in the taxpayer's original cycle and was, under that original cycle, an interest instalment date, it remains an interest instalment date in the new cycle. However, if the instalment is due and payable on an instalment date other than an interest instalment date, the change does not affect the nature of the instalment.
+Formula for amount of instalment
+(6) The amount of each instalment is calculated under section MB 9.
+Examples: Sections MB 26 and MB 27 (using March balance dates) 1 Professor Green starts the income year registered for GST on a monthly basis, and on 10 June asks to change to a 6-monthly basis the change takes effect on 30 September (s MB 26(2)) provisional tax instalment payable on old cycle on 28 August provisional tax instalment due on 7 May (s MB 27(2)). 2 Ms Blue starts the income year registered for GST on a 6-monthly basis, and on 10 June asks to change to a monthly basis: the change takes effect on 30 September (s MB 26(2)) provisional tax instalment payable on old cycle on 28 October provisional tax instalments due on 15 January, 7 May (s MB 27(4)). 3 Mr Indigo starts the income year registered for GST on a monthly basis, and on 20 October asks to change to a 6-monthly basis: the change takes effect on following 31 March provisional tax instalments paid on old cycle on 28 August, 15 January, 7 May (ss MB 26(3), MB 27(5)). 4 Miss Violet starts the income year registered for GST on a 6-monthly basis, and on 10 June ends her GST registration: the change takes effect for provisional tax purposes on 10 June (s MB 25(5)) provisional tax instalments due on 28 August, 15 January, 7 May (s MB 25(4)).
 
 ### MB 28 Application of provisions of Tax Administration Act 1994
-[Repealed]
+Safe harbour for standard method
+(1) If a provisional taxpayer meets the requirements in section 120KE(1) of the Tax Administration Act 1994, their provisional tax is treated as due and payable in 1 instalment on their terminal tax date.
+GST ratio method
+(2) A provisional taxpayer who uses a GST ratio in a tax year to determine the amount of an instalment of provisional tax is liable to pay an amount of use of money interest, a late payment penalty, or a shortfall penalty only in the circumstances set out in, as applicable, the following sections of the Tax Administration Act 1994:
+  (a) sections 120KB to 120KE:
+  (b) section 139C(1B):
+  (c) section 141EA.
 
 ### MB 29 Provisional tax rules and consolidated groups
-[Repealed]
+Single company
+(1) The provisional tax rules apply, with the necessary modifications, to a consolidated group of companies as if it were a single company.
+Joint and several liability
+(2) Each company in a consolidated group in a tax year is jointly and severally liable for the amount of provisional tax payable by the consolidated group to be credited against the income tax liability of the group for the tax year. The individual liability of a company for income tax for the tax year is substituted by that joint and several liability to the extent to which the liability arises while the company is a member of the consolidated group.
+Relationship with section HB 1
+(3) Section HB 1(5) (Returns, assessments, and liability of consolidated group) overrides this section.
 
 ### MB 30 Residual income tax of consolidated groups
-[Repealed]
+When this section applies
+(1) This section applies for the purposes of the provisional tax rules if a company is a member of a consolidated group of companies in a tax year but was not a member of the group for all or part of the preceding tax year.
+Increased residual income tax
+(2) The residual income tax of the consolidated group for the preceding tax year is treated as increased by an amount equal to the residual income tax of the company for the preceding tax year. If the company is a member of the group for part of the current tax year, the amount of residual income tax is increased as a proportion on the basis of the part of the tax year during which the company is a member of the group.
+Instalments due after company becomes member
+(3) If the company is a member of a group for part of the tax year, this section applies only to instalments of provisional tax payable after the date on which the company becomes a member.
 
 ### MB 31 Consolidated groups using estimation method
-[Repealed]
+When subsection (2) applies
+(1) Subsection (2) applies for the purposes of the provisional tax rules if a company is a member of a consolidated group of companies for all or part of a tax year but is not a member of the group for all or part of the following tax year.
+Estimation before final instalment date
+(2) The company must estimate its residual income tax on or before the date of instalment F for the following income year that corresponds to the tax year, and the company is treated as a provisional taxpayer to which section MB 6 applies for the purposes of its estimate.
+When company member of another consolidated group
+(3) The consolidated group, in the case of a company that is a member of another consolidated group, must make an estimate of residual income tax on or before the date of instalment F for the following income year that corresponds to the tax year, and the consolidated group is treated as a provisional taxpayer to which section MB 6 applies for the purposes of its estimate.
+When company no longer member
+(4) If a company stops being a member of the consolidated group in the following tax year, the company's estimate applies only to instalments of provisional tax payable after the date on which it stopped being a member.
 
 ### MB 32 Consolidated groups using GST ratio method
-[Repealed]
+Sections MB 7, MB 8(5), MB 10, and MB 15 to MB 18 apply to a consolidated group of companies with the following modifications:
+  (a) if a consolidated group that is eligible to use, or is using, a GST ratio for a tax year is joined by a new member, the following subparagraphs apply:
+    (i) if the new member joins at the start of the tax year and, as a result, the threshold in section MB 15(2)(a) is exceeded, the group is no longer eligible to use a GST ratio:
+    (ii) if the new member joins at the start of the tax year, and the group, allowing for the inclusion of the new member, is eligible under section MB 15(1), the group may use a GST ratio, subject to the recalculation of the ratio under paragraph (c):
+    (iii) if the new member joins at some time in the tax year, the group may continue to use a GST ratio for the tax year, as recalculated under paragraph (c), provided the requirements for eligibility other than the threshold in section MB 15(2)(a) are met:
+  (b) if a consolidated group that does not determine provisional tax payable for a tax year using a GST ratio is joined by a new member that is using a GST ratio for the tax year, the group may not start using a GST ratio for this purpose for the tax year:
+  (c) for the purposes of paragraph (a),
+    (i) the group must recalculate the GST ratio applying for a tax year to include the residual income tax of the new member for the preceding tax year and the total taxable supplies of the new member for the corresponding income year, applying section MB 7(3) if required; and
+    (ii) the recalculated GST ratio applies to provisional tax payments made for the corresponding income year on or after the date on which the new member joins the group:
+  (d) section MB 15(3) and section MB 17(4) or (5), as applicable, apply to a company that leaves a consolidated group at some time in a tax year.
 
 ### MB 33 Wholly-owned groups of companies
-[Repealed]
+When this section applies
+(1) This section applies for the purposes of the provisional tax rules and Part 7 of the Tax Administration Act 1994 in relation to a company (company A) that is a member in a tax year of a wholly-owned group of companies that includes another company (company B). Section MD 2 (Limits on refunds and allocations of tax) overrides this section.
+Company A allocating overpayment to company B
+(2) If, for a tax year, company A has paid an amount of provisional tax that is more than the residual income tax payable for the tax year, the company may allocate some or all of the overpayment to company B to the extent to which the amount of provisional tax paid by company B is less than their residual income tax for the tax year. Company A must notify the Commissioner under subsection (4).
+When allocation made
+(3) Company A may allocate an amount under subsection (2) on or after the later of
+  (a) the day on which company A overpays the provisional tax; or
+  (b) the day on which the first instalment of provisional tax for the tax year becomes payable by company B.
+Notice
+(4) A notice under subsection (2) must
+  (a) name company B, and the amount to be allocated; and
+  (b) state the date on which the overpayment is treated as allocated to company B; and
+  (c) be provided to the Commissioner
+    (i) within the time for providing a return of income for the tax year for company B:
+    (ii) within any extension of time that the Commissioner allows.
+When allocation made, and how allocation treated
+(5) For the purposes of this section,
+  (a) an allocation under subsection (2) is treated as made on the date stated in the notice; and
+  (b) provisional tax allocated to company B by company A is treated as provisional tax paid by company B and not by company A.
 
 ### MB 34 Amalgamated companies: calculating residual income tax
-[Repealed]
+When this section applies
+(1) This section applies if an amalgamating company ceases to exist on an amalgamation occurring in an income year of the amalgamated company that corresponds to a tax year.
+Residual income tax for preceding tax year
+(2) The residual income tax of the amalgamated company for the preceding tax year is the amount that would have been the residual income tax of the amalgamated company for the preceding tax year if the amalgamating company and the amalgamated company had always been 1 company.
+Exception: instalments of provisional tax
+(3) Subsection (2) does not apply for the purposes of the provisional tax rules in relation to instalments of provisional tax payable before the amalgamation.
 
 ### MB 35 Attribution rule for services
-[Repealed]
+When this section applies
+(1) This section applies for the purposes of the provisional tax rules and Part 7 of the Tax Administration Act 1994 for provisional tax paid for income from personal services to which section GC 14B (Attribution rule for personal services) may apply.
+Person B allocating amount to person C
+(2) If, in a tax year, person B pays an amount of provisional tax that is more than the residual income payable for the tax year, person B may allocate some or all of the overpayment to person C to the extent to which the amount of provisional tax paid by person C is less than their residual income tax for the tax year.
+Person C allocating amount to person B
+(3) If, in a tax year, person C pays an amount of provisional tax that is more than the residual income payable for the tax year, person C may allocate some or all of the overpayment to person B to the extent that the amount of provisional tax paid by person B is less than their residual income tax for the tax year.
+When allocation made
+(4) Persons B and C may allocate an amount under subsection (2) or (3) on or after the later of
+  (a) the day on which the overpayment of provisional tax is paid by person B or person C, as applicable; or
+  (b) the day on which the first instalment of provisional tax payable for the tax year becomes payable by
+    (i) person C, if person B is making the allocation; or
+    (ii) person B, if person C is making the allocation.
+Notice
+(5) The Commissioner must be notified of an allocation under subsection (2) or (3) in a notice that
+  (a) names the person to whom an allocation is made, and the amount to be allocated; and
+  (b) states the date on which the overpayment is treated as allocated to person B or person C, as applicable; and
+  (c) is provided within the time for providing a return of income for the tax year for the person to whom the allocation is made.
+When allocation made, and how allocation treated
+(6) For the purposes of this section,
+  (a) an allocation under subsection (2) or (3) is treated as made on the day stated in the notice; and
+  (b) provisional tax allocated to person C by person B for a tax year is treated as provisional tax paid by person C and not by person B; and
+  (c) provisional tax allocated to person B by person C is treated as provisional tax paid by person B and not by person C.
 
 ### MB 36 Overpaid provisional tax
-[Repealed]
+When this section applies
+(1) This section applies when the amount of provisional tax payable by a provisional taxpayer for a tax year is reduced by the taxpayer, or by the Commissioner under section 119(2) of the Tax Administration Act 1994.
+Reduction in amount of provisional tax payable
+(2) If the taxpayer applies for a refund of the amount of provisional tax already paid that is as a result of the reduction more than the amount that would have been payable in relation to earlier instalment dates for the tax year, the Commissioner must
+  (a) apply the overpayment as the taxpayer asks under section 173T of the Tax Administration Act 1994 or, if no request is made, in a way that the Commissioner determines in payment of tax or another amount that is payable by them; and
+  (b) refund any balance of the overpayment.
+Reduction in assessment
+(3) If the taxpayer's residual income tax is assessed as not more than $2,500, and they apply for the refund of an amount of provisional tax that has been determined under section MB 8 and already paid (other than on a final instalment), the Commissioner must
+  (a) apply the amount as the taxpayer asks under section 173T of the Tax Administration Act 1994 or, if no request is made, in a way the Commissioner determines in payment of tax or another amount that is payable by them; and
+  (b) refund any balance of the amount.
+Treatment of amount refunded or credited
+(4) When an overpayment or amount of provisional tax for a tax year has been applied or refunded under subsection (2) or (3),
+  (a) a later instalment payable under section MB 9 or MB 10, as applicable, is calculated as if the total instalments previously payable were reduced by the amount of the overpayment or amount; and
+  (b) the overpayment or amount applied or refunded is, from the date of action taken by the Commissioner, treated as not being provisional tax paid for the tax year.
 
 ### MB 37 Further income tax credited to provisional tax liability
-[Repealed]
+When this section applies
+(1) This section applies for the purposes of sections MB 8 to MB 10 if, under section ME 9 (Further tax payable where end of year debit balance or when company ceases to be imputation credit account company), a company applies an amount of further income tax to pay an instalment of provisional tax for which the company becomes liable after the date of payment of the further income tax.
+Amount treated as provisional tax
+(2) The instalment is satisfied to the extent of the amount of further income tax. The amount is treated as provisional tax paid on the date on which the instalment was due and payable.
+Order
+(3) The Commissioner must credit the amount of the further income tax in payment successively of
+  (a) the instalment of provisional tax that is first due and payable after the date of payment of the further income tax; and
+  (b) to the extent of the amount of further income tax, to later instalments in the order in which they are due and payable.
 
 ### MB 38 Provisional taxpayer affected by self-assessed adverse event or qualifying event
-[Repealed]
+Who this section applies to
+(1) This section applies to a provisional taxpayer with a business that is significantly affected by a self-assessed adverse event or qualifying event. This section overrides section MB 6.
+Taxpayer's request
+(2) The provisional taxpayer may ask the Commissioner to accept an estimate or a revised estimate of the residual income tax payable by them for a tax year.
+Acceptance of estimate
+(3) The Commissioner may accept an estimate or revised estimate described in subsection (2) if all the following requirements are met:
+  (a) the business is significantly affected by the self-assessed adverse event or qualifying event; and
+  (b) it is not reasonable to require the taxpayer to provide under section MB 6 an estimate or revised estimate of residual income tax payable by them for the tax year; and
+  (c) the basis on which the taxpayer has chosen to pay provisional tax is now inappropriate; and
+  (d) the taxpayer asks to revise their estimate as soon as practicable.
+Treatment of revised estimate
+(4) If a revised estimate is accepted under subsection (3), it is treated as the estimate applying on the date of instalment F.
 
 ### Subpart MBA — Pooling of provisional tax
 
@@ -20968,12 +21971,13 @@ In this subpart—
 
 ### MC 1 Payment of terminal tax
 (1) Terminal tax payable by a person for a tax year is due on—
-  (a) the 7th day of the month specified in schedule 13, part A for the payment of terminal tax for the tax year, unless January is specified; and
-  (b) the 15th day of January, if January is specified in schedule 13, part A for the payment of terminal tax for the tax year.
-(2) For the purposes of subsection (1), the month specified in schedule 13, part A for the payment of terminal tax is that—
-  (a) specified in column E, if the person's return of income for the income year was linked to a tax agent; or
-  (b) specified in column E, if the person has requested an income statement under section 80C of the Tax Administration Act 1994 or has been issued an income statement under section 80D of that Act and the Commissioner has been notified that a tax agent will respond to the income statement issued to the person; or
-  (c) specified in column D, in any other case.
+  (a) the 7th day of the month specified in schedule 13, part A, column G or H, for the person's corresponding income year, unless January is specified:
+  (b) the 15th day of January, if January is specified in schedule 13, part A, column G or H for the person's corresponding income year.
+(2) For the purposes of subsection (1), the month specified in schedule 13, part A for the taxpayer's corresponding income year is—
+  (a) the month in column H, if—
+    (i) the person's return of income for the tax year was linked to a tax agent:
+    (ii) the Commissioner has been notified that a tax agent will respond to an income statement for the tax year that the person has requested under section 80C of the Tax Administration Act 1994 or that the Commissioner has issued under section 80D of that Act:
+  (b) the month in column G, in any other case.
 
 ### Subpart MD — Refunds
 
@@ -21004,20 +22008,20 @@ In this subpart—
   (c) section NG 16 (which relates to refunds of excess non-resident withholding tax).
 
 ### MD 2 Limit on refunds and allocations of tax
-(1) If an imputation credit account company becomes entitled at any time to a refund of income tax in accordance with section MD 1, or becomes entitled to make an allocation within a wholly-owned group in accordance with section MB 9, the refund to be paid to the company or the allocation to be made in accordance with section MB 9 must not exceed the credit balance (if any) of the company's imputation credit account at the later of—
+(1) If an imputation credit account company becomes entitled at any time to a refund of income tax in accordance with section MD 1, or becomes entitled to make an allocation within a wholly-owned group in accordance with section MB 33, the refund to be paid to the company or the allocation to be made in accordance with section MB 33 must not exceed the credit balance (if any) of the company's imputation credit account at the later of—
   (a) the end of the most recently ending imputation year; or
   (b) the last day of any period for which the company furnishes an imputation return under section 70(3) of the Tax Administration Act 1994; or
   (c) the last day of any period for which the company is required by the Commissioner to furnish an imputation return under section 70(1) of the Tax Administration Act 1994.
-(1A) Despite subsection (1)(a), an imputation credit account company that furnishes its imputation return for an imputation year before the end of the next imputation year within the time allowed under an extension of time for furnishing the imputation return may be refunded income tax in accordance with section MD 1 or make an allocation in accordance with section MB 9 if the total amount that is refunded or allocated does not exceed the credit balance (if any) of the company's imputation credit account on the last day of the imputation year for which the imputation return was furnished.
-(2) If a company that has ceased to be an imputation credit account company becomes entitled to a refund of income tax in accordance with section MD 1 or becomes entitled to make an allocation within a wholly-owned group in accordance with section MB 9 in respect of any tax year during which it was an imputation credit account company, the total amount that is refunded or allocated must not exceed the credit balance (if any) of the company's imputation credit account that arose as a debit under section ME 5(1)(k) immediately before the company ceased to be an imputation credit account company.
-(3) For the purposes of subsections (1), (1A), and (2), a credit balance referred to in those subsections is treated as being reduced by a refund under section MD 1, or an allocation under section MB 9, that is made earlier in the same imputation year if, under this section or section NH 4, the refund or allocation may not exceed the credit balance.
-(4) For the purposes of subsections (1), (1A), and (2), if the refund or allocation referred to in those subsections is a refund of income tax for a tax year made under section MD 1 or an allocation for a tax year under section MB 9, the credit balance referred to in those subsections must be treated as being increased by an amount equal to any debit to the company's imputation credit account that, under section ME 5(1)(i), arose after a credit is made to that company's imputation credit account for amounts that have satisfied the company's income tax liability for that tax year, and before the date on which the credit balance is to be determined in accordance with subsection (1), (1A), or (2).
+(1A) Despite subsection (1)(a), an imputation credit account company that furnishes its imputation return for an imputation year before the end of the next imputation year within the time allowed under an extension of time for furnishing the imputation return may be refunded income tax in accordance with section MD 1 or make an allocation in accordance with section MB 33 if the total amount that is refunded or allocated does not exceed the credit balance (if any) of the company's imputation credit account on the last day of the imputation year for which the imputation return was furnished.
+(2) If a company that has ceased to be an imputation credit account company becomes entitled to a refund of income tax in accordance with section MD 1 or becomes entitled to make an allocation within a wholly-owned group in accordance with section MB 33 in respect of any tax year during which it was an imputation credit account company, the total amount that is refunded or allocated must not exceed the credit balance (if any) of the company's imputation credit account that arose as a debit under section ME 5(1)(k) immediately before the company ceased to be an imputation credit account company.
+(3) For the purposes of subsections (1), (1A), and (2), a credit balance referred to in those subsections is treated as being reduced by a refund under section MD 1, or an allocation under section MB 33, that is made earlier in the same imputation year if, under this section or section NH 4, the refund or allocation may not exceed the credit balance.
+(4) For the purposes of subsections (1), (1A), and (2), if the refund or allocation referred to in those subsections is a refund of income tax for a tax year made under section MD 1 or an allocation for a tax year under section MB 33, the credit balance referred to in those subsections must be treated as being increased by an amount equal to any debit to the company's imputation credit account that, under section ME 5(1)(i), arose after a credit is made to that company's imputation credit account for amounts that have satisfied the company's income tax liability for that tax year, and before the date on which the credit balance is to be determined in accordance with subsection (1), (1A), or (2).
 (5) If an effect of subsection (1), (1A), or (2) is that income tax paid in excess by a company is not refunded to the company or not allocated within a wholly-owned group by the company, the income tax that is neither refunded nor allocated—
   (a) must be credited in payment of any income tax or provisional tax that is payable by the company for—
     (i) the tax year during which the company would, but for subsection (1), (1A), or (2), have become entitled to receive a refund or make an allocation:
     (ii) a tax year that commences after 31 March 1988, whether before or after the income year referred to in subparagraph (i):
   (b) to the extent that it cannot be credited in accordance with paragraph (a), whether by reason of the company being liquidated or for any other reason, is retained by the Commissioner.
-(5A) Despite subsection (5), the income tax not refunded or allocated within a wholly-owned group in accordance with section MB 9 may be credited on a provisional tax instalment date if residual income tax is treated as being payable on the date specified in Part 7 of the Tax Administration Act 1994.
+(5A) Despite subsection (5), the income tax not refunded or allocated within a wholly-owned group in accordance with section MB 33 may be credited on a provisional tax instalment date if residual income tax is treated as being payable on the date specified in Part 7 of the Tax Administration Act 1994.
 (6) For the purposes of section MD 1, every company that has paid further income tax under section ME 9 is deemed not to have paid tax in excess of the amount properly payable to the extent that any tax paid in excess is referable to the further income tax paid by the company.
 (7) Nothing in this section limits the amount of tax overpaid by a qualifying company that may be refunded to the company or allocated by the company unless—
   (a) the tax was overpaid as part of or under an arrangement to secure a tax advantage of any of the kinds referred to in section GC 22(1), or otherwise to avoid the liability of any shareholder in the company to tax under this Act; and
@@ -21045,7 +22049,7 @@ In this subpart—
   (a) the Maori authority has furnished the Maori authority credit account return within an extension of time given by the Commissioner; and
   (b) the amount of the refund does not exceed the credit balance in the Maori authority's Maori authority credit account on the last day of the imputation year for which the Maori authority credit account return was furnished.
 (2) If a Maori authority has ceased being a Maori authority and becomes entitled to a refund of income tax in accordance with section MD 1 in respect of a tax year during which the Maori authority maintained a Maori authority credit account, the refund to be paid to the Maori authority must not be more than the credit balance of the Maori authority's Maori authority credit account that arose as a debit under section MK 5(1)(i) immediately before the Maori authority ceased being a Maori authority.
-(3) For the purposes of subsections (1) and (2), if the refund is a refund of income tax, the credit balance referred to in those subsections is increased by the amount of a debit that arises to the Maori authority's Maori authority credit account under section MK 5(1)(f) after the date of the first instalment of provisional tax for the tax year and before the date upon which the credit balance is determined under subsection (1) or (2).
+(3) For the purposes of subsections (1) and (2), if the refund is a refund of income tax, the credit balance referred to in those subsections is increased by the amount of a debit that arises to the Maori authority's Maori authority credit account under section MK 5(1)(f) after the date of instalment B specified in schedule 13, part A, for the authority's income year that corresponds to the tax year and before the date upon which the credit balance is determined under subsection (1) or (2).
 (4) Unless subsection (4B) applies, if income tax paid in excess is not refunded to a Maori authority by reason of subsection (1) or (2), the income tax not refunded—
   (a) must be credited in payment of income tax or provisional tax that is payable by the Maori authority for the tax year in which the entitlement to the refund arose, or for the 2004-05 or a later tax year, whether before or after the tax year in which the entitlement arose; and
   (b) to the extent that the income tax not refunded cannot be credited under paragraph (a), must be retained by the Commissioner.
@@ -21085,8 +22089,8 @@ No credit or debit arises in an imputation credit account or dividend withholdin
   (f) a local authority; or
   (g) a Crown Research Institute; or
   (i) a subsidiary company of the Accident Compensation Corporation to which section 334(1) of the Accident Insurance Act 1998 or section 24 of the Injury Prevention, Rehabilitation, and Compensation Act 2001 applies; or
-  (j) a Maori authority.
-  (k)
+  (j) a Maori authority; or
+  (k) a portfolio tax rate entity.
 (3) Where a company that acts in the capacity of trustee is required to establish and maintain an imputation credit account by virtue of also engaging in other activities, no debits or credits arise to the account in respect of any activities of the company in its capacity as trustee.
 
 ### ME 1A Companies electing to maintain imputation credit account
@@ -21226,7 +22230,7 @@ For the purposes of the imputation rules, the balance of an imputation credit ac
   (c) in the case of any on-market cancellation by the company of a share in the company, the amount (not being less than nil) calculated in accordance with the following formula:where—
     (a) is the amount distributed upon the on-market cancellation to the extent that it exceeds the available subscribed capital per share calculated under the ordering rule
     (b) is the rate of resident withholding tax, expressed as a percentage, stated in schedule 14, clause 2 and applying at the time the acquisition occurs:
-  (d) the amount of any provisional tax allocated by the company under section MB 9 to an underpaid company (as referred to in that section):
+  (d) the amount of any provisional tax allocated by the company under section MB 33 to an underpaid company (as referred to in that section):
   (e) the amount of any refund of income tax paid to the company during the imputation year except to the extent that—
     (i) the refund is in respect of income tax paid in relation to the 1987-88 or any earlier tax year; or
     (ii) the refund is in respect of income tax paid that was applied in satisfaction of an income tax liability for an income year—
@@ -21275,7 +22279,7 @@ For the purposes of the imputation rules, the balance of an imputation credit ac
   (ac) in the case of a debit referred to in subsection (1)(ac) or (ad), on the date the relevant dividend is paid:
   (b) in the case of a debit referred to in subsection (1)(b), on the date the company makes the election in accordance with section ME 7:
   (c) in the case of a debit referred to in subsection (1)(c), on the date the acquisition occurs:
-  (d) in the case of a debit referred to in subsection (1)(d), on the date the company gives to the Commissioner notice of the allocation of tax under section MB 9:
+  (d) in the case of a debit referred to in subsection (1)(d), on the date the company gives to the Commissioner notice of the allocation of tax under section MB 33:
   (e) in the case of a debit referred to in subsection (1)(e) or (h), on the date the refund is paid:
   (ea) in the case of a debit referred to in subsection (1)(ea) or (eb) arising for a qualifying company, on the date on which the refund or transfer is made:
   (eb) in the case of a debit referred to in subsection (1)(ea) or (eb) arising for a company that is not a qualifying company,—
@@ -21518,7 +22522,7 @@ A share user under a share-lending arrangement may, on making a replacement paym
     (ii) is paid by way of a crediting of further income tax under section ME 13(6):
   (aa) the amount of any payment that is made by an intermediary into a tax pooling account from funds that are supplied by the group for that purpose:
   (ab) the amount of any transfer by an intermediary to the group of an entitlement to funds that are held in a tax pooling account:
-  (b) the amount of any income tax deemed under section MB 9 to be paid during the imputation year by the consolidated imputation group:
+  (b) the amount of any income tax deemed under section MB 33 to be paid during the imputation year by the consolidated imputation group:
   (c) the amount of any further income tax paid in respect of the consolidated imputation group during the imputation year under section ME 14(3):
   (d) the amount of any imputation credit attached to a dividend paid during the imputation year to any company which is at the time of payment a member of the consolidated imputation group:
   (e) the amount of any dividend withholding payment credit that is attached to a dividend paid during the imputation year to a company, if, at the time of the payment, the company is a member of the consolidated imputation group and—
@@ -21562,7 +22566,7 @@ A share user under a share-lending arrangement may, on making a replacement paym
   (ab) in the case of a credit referred to in subsection (1)(ab),—
     (i) if the funds to which the entitlement relates are transferred to the group's account with the Commissioner, on the effective date under section MBA 6 of the transfer:
     (ii) if the funds to which the entitlement relates are refunded to the group or the entitlement to the funds is transferred to another taxpayer, on the date of the refund or transfer:
-  (b) in the case of the credit referred to in subsection (1)(b), on the date on which notice of the allocation of the tax referred to in section MB 9 is given to the Commissioner:
+  (b) in the case of the credit referred to in subsection (1)(b), on the date on which notice of the allocation of the tax referred to in section MB 33 is given to the Commissioner:
   (c) in the case of the credits referred to in subsection (1)(d), (e), and (j), on the date the relevant dividend or interest is paid:
   (cb) in the case of the credits referred to in subsection (1)(eb) and (ec), on the date the replacement payment is paid:
   (cc) in the case of the credit referred to in subsection (1)(ed), on the date the credit transfer notice is issued:
@@ -21585,7 +22589,7 @@ A share user under a share-lending arrangement may, on making a replacement paym
     (ii) the dividend is paid to the company as a share user or as a person associated with a share user, in a returning share transfer that is not a share-lending arrangement:
   (ad) the amount of any imputation credit attached to a dividend that is paid during the imputation year to a company that is, at the time of the payment, a member of the consolidated imputation group, if the imputation credit is shown in a credit transfer notice issued by the company:
   (b) an amount forming all or part of a credit balance in the imputation credit account of the consolidated imputation group, if the nominated company of the consolidated imputation group elects under section ME 14(1) during the imputation year that the amount be a credit to the policyholder credit account of the consolidated imputation group or of a member of the consolidated imputation group:
-  (c) the amount of any provisional tax allocated by the consolidated imputation group under section MB 9 during the imputation year to an underpaid company (as referred to in that section):
+  (c) the amount of any provisional tax allocated by the consolidated imputation group under section MB 33 during the imputation year to an underpaid company (as referred to in that section):
   (d) the amount of any refund of income tax paid to the consolidated imputation group during the imputation year that was applied towards the satisfaction of an income tax liability of the consolidated imputation group or that was paid as an instalment of provisional tax of the consolidated imputation group except to the extent that—
     (i) the refund is in respect of income tax paid before the date that a debit arises under paragraph (h); and
     (ii) the amount of the refund does not exceed the amount of the debit that arises on that date:
@@ -21675,7 +22679,7 @@ A share user under a share-lending arrangement may, on making a replacement paym
   (b) the company is entitled under section ME 9(5) to credit that further income tax against any income tax liability of the company that arises or any instalment of provisional tax for which the company becomes liable at or after that time; and
   (c) the company is at that time a member of a consolidated imputation group,—
   (d) any income tax liability of the group that arises at or after that time; or
-  (e) any instalment of provisional tax in accordance with section MB 10 for which the group becomes liable at or after that time,—
+  (e) any instalment of provisional tax in accordance with section MB 37 for which the group becomes liable at or after that time,—
 
 ### ME 14 Application of specific imputation provisions to consolidated imputation groups
 (1) If at any time there is a credit balance in the imputation credit account of a consolidated imputation group that is not a resident imputation subgroup and a member of the consolidated imputation group has a policyholder credit account, or a consolidated group whose members are members of the consolidated imputation group has a policyholder credit account, the nominated company of the consolidated imputation group may—
@@ -22291,7 +23295,7 @@ For the purposes of the dividend withholding payment rules, the balance of a div
   (b) a debit balance to the extent that debits exceed credits.
 
 ### MG 2 Company may elect to maintain dividend withholding payment account
-(1) A company that is resident in New Zealand may at any time elect to maintain a dividend withholding payment account for an imputation year.
+(1) A company that is resident in New Zealand and is not a portfolio tax rate entity may at any time elect to maintain a dividend withholding payment account for an imputation year.
 (2) A company that so elects must notify the Commissioner of that fact within 21 days after the date of the election, or within such further time as the Commissioner may allow in any case or class of cases.
 (3) A company that makes an election under subsection (1)—
   (a) must maintain a dividend withholding payment account with effect from the date on which the company makes the election; and
@@ -22882,7 +23886,7 @@ A company is a conduit tax relief company, whether or not it has so elected unde
 ### Subpart MJ — Supplementary available subscribed capital accounts
 
 ### MJ 1 Qualifying unit trust or group investment fund may elect to maintain supplementary available subscribed capital account
-(1) If a qualifying unit trust or a group investment fund that derives category A income issues shares on terms that their redemption will be subject to section CD 14(4), the qualifying unit trust or group investment fund may establish and maintain a supplementary available subscribed capital account on and after the date that the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 receives the Royal assent. In this subpart, the date on which a qualifying unit trust or a group investment fund establishes a supplementary available subscribed capital account is called the start date.
+(1) If a qualifying unit trust or a group investment fund that derives category A income is not a portfolio tax rate entity and issues shares on terms that their redemption will be subject to section CD 14(4), the qualifying unit trust or group investment fund may establish and maintain a supplementary available subscribed capital account on and after the date that the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 receives the Royal assent. In this subpart, the date on which a qualifying unit trust or a group investment fund establishes a supplementary available subscribed capital account is called the start date.
 (2) Despite subsection (1), if section MJ 4(1) applies, and a qualifying unit trust or group investment fund makes an actual calculation for a period before an effective date or a notional calculation as at an effective date that is within the period, the start date is the day after the effective date of the calculation.
 
 ### MJ 2 Balance of supplementary available subscribed capital account
@@ -22969,7 +23973,7 @@ A company is a conduit tax relief company, whether or not it has so elected unde
     (ii) in the case of a Maori authority that becomes a Maori authority during the imputation year, income tax paid to the extent that the income tax is not more than the amount that would have been the Maori authority's income tax liability for the income year, if the income year ended on the day immediately preceding the day on which the Maori authority became a Maori authority:
     (iii) income tax paid by way of crediting under section LB 2(2):
     (iv) income tax that is paid by way of a crediting of further income tax under section MK 8(5):
-  (b) the amount of any tax deemed to be paid by the Maori authority to another Maori authority under section MB 9(5):
+  (b) the amount of any tax deemed to be paid by the Maori authority to another Maori authority under section MB 33(5)(b):
   (c) the amount of further income tax paid by the Maori authority during the imputation year under section MK 8:
   (d) the amount of a Maori authority credit attached to a distribution that is made to the Maori authority during the imputation year:
   (e) the amount of an imputation credit attached to a dividend that is paid to the Maori authority during the imputation year:
@@ -22986,7 +23990,7 @@ A company is a conduit tax relief company, whether or not it has so elected unde
 ### MK 5 Debits arising to Maori authority credit account
 (1) In an imputation year, a Maori authority must record the following amounts as debits in its Maori authority credit account:
   (a) the amount of a Maori authority credit attached to a distribution made by the Maori authority during the imputation year:
-  (b) the amount of any provisional tax allocated by the Maori authority under section MB 9(5) to another Maori authority that is an underpaid company (as referred to in that section):
+  (b) the amount of any provisional tax allocated by the Maori authority under section MB 33(5)(b) to another Maori authority that is an underpaid company (as referred to in that section):
   (c) the amount of a refund of income tax paid to the Maori authority during the imputation year, except to the extent that—
     (i) the refund is for income tax paid in respect of the 2003-04 or an earlier income year; or
     (ii) the refund is for income tax paid that was applied in satisfaction of an income tax liability for an income year—
@@ -23008,7 +24012,7 @@ A company is a conduit tax relief company, whether or not it has so elected unde
     (iii) is not more than the amount of the debit that arises on that date.
 (2) The debits referred to in subsection (1) arise at the following times:
   (a) in the case of a debit referred to in subsection (1)(a), on the date the distribution is made:
-  (b) in the case of a debit referred to in subsection (1)(b), on the date that the Maori authority gives the Commissioner notice in writing of the allocation of tax under section MB 9:
+  (b) in the case of a debit referred to in subsection (1)(b), on the date that the Maori authority gives the Commissioner notice in writing of the allocation of tax under section MB 33(4):
   (c) in the case of a debit referred to in subsection (1)(c), (e), or (g), on the date the refund is paid:
   (d) in the case of a debit referred to in subsection (1)(d), at the end of the imputation year in respect of which the allocation debit arises:
   (f) in the case of a debit referred to in subsection (1)(f), at the specified time referred to in that subsection:
@@ -23136,19 +24140,36 @@ For the purpose of determining under section MZ 1 whether, and if so to what ext
 [Repealed]
 
 ### MZ 8 Certain elections to become provisional taxpayer
-[Repealed]
+(1) This section applies if a taxpayer has a non-standard income year and has, between 10 October 2000 and the date on which the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 received the Royal assent, filed a return of income for the 1998-99 or a later income year on the basis that section MB 3(a) applied (being section MB 2A(1)(a)(i) as it was before the enactment of section 50(1) of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002).
+(2) The taxpayer may elect to be a provisional taxpayer for the income year for which the return was filed if the taxpayer has paid provisional tax of more than $2,500 on or before the date of instalment F for the non-standard income year that corresponds to the tax year for which the return was filed.
 
-### MZ 9 Amount of provisional tax based on 1997–98 or earlier tax year
-[Repealed]
+### MZ 9 Amount of provisional tax based on 199798 or earlier tax year
+For the purposes of sections MB 4 and MB 5 (other than section MB 5(3) and (4)), and for a taxpayer who is a New Zealand superannuitant for the 1997–98 tax year, the taxpayer's residual income tax for that tax year or for an earlier tax year is the amount that would have been the taxpayer's residual income tax if the taxpayer
+  (a) had not been liable to pay the New Zealand superannuitant surcharge; and
+  (b) had not paid any New Zealand superannuitant surcharge by way of surcharge deduction.
 
 ### MZ 10 Calculating provisional tax instalments: section MB 4
-[Repealed]
+(1) This section applies, for a person's 2008–09 and 2009–10 income years, when the person is a new tax rate person for that year.
+(2) For the purposes of the standard method, and for the purpose of a provisional taxpayer calculating the amount of provisional tax under section MB 4(3),—
+  (a) for the 2008–09 income year,—
+    (i) 105% is treated as 95% in section MB 4(3)(a):
+    (ii) 110% is treated as 100% in section MB 4(3)(b):
+  (b) for the 2009–10 income year, 110% is treated as 100% in section MB 4(3)(b).
 
 ### MZ 11 Calculating provisional tax instalments: sections MB 7 and MB 10
-[Repealed]
+(1) This section applies, for a person's 2008–09 and 2009–10 income years when—
+  (a) the person is a new tax rate person for that year; and
+  (b) in section MB 7, residual income tax amounts or income tax assessment amounts (the income tax amounts) are required for determining base amounts or otherwise for calculating the GST ratio; and
+  (c) the income tax amounts are for the 2007–08 or earlier income years.
+(2) For the purposes of a provisional taxpayer calculating the amount of an instalment under section MB 10, the income tax amounts in section MB 7 are treated as reduced by multiplying them by 0.9.
 
 ### MZ 12 Calculating provisional tax instalments: section MB 9
-[Repealed]
+(1) This section applies, for a person's 2008–09 and 2009–10 income years, when the person is a new tax rate person for that year.
+(2) For the purposes of a provisional taxpayer calculating the amount of an instalment under section MB 9(2),—
+  (a) for the 2008–09 income year,—
+    (i) section MB 9(3)(a)(i) is treated as requiring a 5% reduction of the taxpayer's residual income tax for the preceding tax year, not a 5% uplift:
+    (ii) section MB 9(3)(a)(ii) is treated as requiring the taxpayer's residual income tax for the tax year immediately before the preceding tax year, not a 10% uplift:
+  (b) for the 2009–10 income year, section MB 9(3)(a)(ii) is treated as requiring the taxpayer's residual income tax for the tax year immediately before the preceding tax year, not a 10% uplift.
 
 ## Part N — Withholding taxes and taxes on income of others
 
@@ -23533,7 +24554,7 @@ Where any amount has been deducted from a source deduction payment by way of tax
   (b) for the purposes of this Act, is deemed to have been derived by the employee at the same time and in the same way as the residue of the source deduction payment.
 
 ### NC 20 Application of other provisions to amounts payable under PAYE rules
-(1) Subject to the PAYE rules, this Act and the Tax Administration Act 1994 apply with respect to every amount other than any earner premium deduction payable in accordance with section 115 of the Accident Rehabilitation and Compensation Insurance Act 1992 or section 285 of the Accident Insurance Act 1998 or an earner's levy payable under section 221 of the Injury Prevention, Rehabilitation, and Compensation Act 2001 that any employer, PAYE intermediary, employee, or other person is liable to account for or pay to the Commissioner under the PAYE rules as if the amount were income tax; but nothing in the PAYE rules should be construed so as to include any such amount in the terms income tax or tax for the purposes of section 120K of the Tax Administration Act 1994.
+(1) Subject to the PAYE rules, this Act and the Tax Administration Act 1994 apply with respect to every amount other than any earner premium deduction payable in accordance with section 115 of the Accident Rehabilitation and Compensation Insurance Act 1992 or section 285 of the Accident Insurance Act 1998 or an earner's levy payable under section 221 of the Injury Prevention, Rehabilitation, and Compensation Act 2001 that any employer, PAYE intermediary, employee, or other person is liable to account for or pay to the Commissioner under the PAYE rules as if the amount were income tax; but nothing in the PAYE rules should be construed so as to include any such amount in the terms income tax or tax for the purposes of section sections 120KB to 120KE of the Tax Administration Act 1994.
 (2) Sections 156 to 165 and 211 of the Tax Administration Act 1994 apply with respect to combined tax and earner premium deductions or combined tax and earner levy deductions as if those deductions were income tax.
 (3) For the purposes of the PAYE rules, sections 156 to 165, 143, and 143A of the Tax Administration Act 1994, and section 115 of the Accident Rehabilitation and Compensation Insurance Act 1992 or section 285 of the Accident Insurance Act 1998 or section 221 of the Injury Prevention, Rehabilitation, and Compensation Act 2001, nothing in those Acts or in this Act should be treated as requiring or having required—in respect of any such deductions that, on or after 5 August 1993, have not been paid to the Commissioner in accordance with either of those Acts or this Act by the employer or the PAYE intermediary required to make the deductions.
   (a) the separate identification of those amounts of a combined tax and earner premium deduction or combined tax and earner levy deduction that are attributable to—
@@ -24146,8 +25167,8 @@ In determining whether an employer has satisfied the employer's obligations or c
     (vi) dividends, other than dividends derived from New Zealand, derived by a person not resident in New Zealand; or
     (vii) dividends paid by a company and derived by another company where both companies are, at the time of payment, members of the same group of companies; or
     (viii) dividends that are exempt income under section CW 50; or
-    (ix) dividends that are exempt income by virtue of the application of section CW 22B:
-    (x)
+    (ix) dividends that are exempt income by virtue of the application of section CW 22B; or
+    (x) dividends that are excluded income by virtue of the application of section CX 44D (Portfolio investor allocated income and distributions of income by portfolio tax rate entities):
   (c) taxable Maori authority distributions:
   (d) a replacement payment, paid to a person under a share-lending arrangement:
   provided that, for the purposes of each of the subparagraphs of paragraphs (a) to (d), where any amount is derived by a person (in this proviso referred to as the trustee) in that person's capacity as trustee for any other person or persons and that amount is beneficiary income, that amount is deemed not to be derived by the trustee.
@@ -24413,7 +25434,7 @@ If a share user under a share-lending arrangement deducts resident withholding t
 (1) Any of the following persons may apply to the Commissioner to be issued with a certificate of exemption:
   (a) any registered bank as defined in section 2 of the Reserve Bank of New Zealand Act 1989:
   (b) any building society:
-  (c)
+  (c) any portfolio investment entity:
   (d) any of Public Trust or any company that would be a member of the same wholly-owned group of companies as Public Trust were Public Trust a company for the purposes of this Act or the Maori Trustee or a trustee company:
   (e) any person whose principal form of business is—or any person which is—
     (i) the borrowing of money or accepting of deposits, whether on demand or for a fixed term, or the receiving of credit or the selling of any credit instrument; and
@@ -24514,12 +25535,12 @@ Subject to the RWT rules, the other provisions of this Act and of the Tax Admini
 ### NG 1 Application of NRWT rules
 (1) The NRWT rules apply notwithstanding anything in any other provision of this Act or of the Tax Administration Act 1994.
 (2) The NRWT rules apply to income (in this Act referred to as non-resident withholding income) deemed under this Act to be derived from New Zealand and that consists of—not being income that is—
-  (a) dividends (other than investment society dividends) or royalties that are derived by a person who is not resident in New Zealand; or
+  (a) dividends (other than investment society dividends ) or royalties that are derived by a person who is not resident in New Zealand; or
   (b) interest or investment society dividends, being interest or investment society dividends that are derived by a person who is not resident in New Zealand, not being a person who is engaged in business in New Zealand through a fixed establishment in New Zealand,—
   (c) income calculated under the financial arrangements rules; or
   (d) income to which section FC 21 applies; or
   (e) exempt income; or
-  (f) income that is excluded income under section CX 44D(3).
+  (f) income that is excluded income under section CX 44D(2) or (3).
 (3) For the purposes of the NRWT rules, an amount of interest is treated as being paid by an approved issuer in respect of a registered security only where that amount is treated as being so paid under section 86I of the Stamp and Cheque Duties Act 1971.
 (4) In the case of interest payable by the Commissioner under Part 7 of the Tax Administration Act 1994,—
   (a) all non-resident withholding tax deductions made by the Commissioner from that interest are deemed to have been paid to the Commissioner on the date on which they are made; and
@@ -24701,12 +25722,12 @@ Where any non-resident withholding tax has been deducted from a payment consisti
   (a) every reference in those sections to a tax deduction were a reference to a deduction of non-resident withholding tax:
   (b) every reference in those sections to an employer were a reference to a person by whom a deduction of non-resident withholding tax has been or, as the case may be, is required to be made:
   (c) every reference in those sections to the PAYE rules were a reference to the NRWT rules.
-(2) Subject to the NRWT rules, the other provisions of this Act (other than section GC 18) and of the Tax Administration Act 1994 (other than sections 167 and 169), as far as they are applicable and with any necessary modifications, apply with respect to non-resident withholding tax as if it were income tax levied under section BB 1, but nothing in the NRWT rules should be construed so as to include non-resident withholding tax in the terms income tax or tax for the purposes of section 120K of the Tax Administration Act 1994.
+(2) Subject to the NRWT rules, the other provisions of this Act (other than section GC 18) and of the Tax Administration Act 1994 (other than sections 167 and 169), as far as they are applicable and with any necessary modifications, apply with respect to non-resident withholding tax as if it were income tax levied under section BB 1, but nothing in the NRWT rules should be construed so as to include non-resident withholding tax in the terms income tax or tax for the purposes of sections 120KB to 120KE of the Tax Administration Act 1994.
 
 ### Subpart NH — Dividend withholding payments
 
 ### NH 1 Liability to make deduction in respect of foreign withholding payment dividend
-(1) Every company resident in New Zealand that is paid a dividend to which this section applies must deduct from that dividend an amount by way of dividend withholding payment calculated in accordance with section NH 2.
+(1) Every company resident in New Zealand that is not a portfolio tax rate entity and is paid a dividend to which this section applies must deduct from that dividend an amount by way of dividend withholding payment calculated in accordance with section NH 2.
 (2) This section applies to the following dividends:
   (a) a dividend that is paid by a foreign company and that—
     (i) is derived by a company that is resident in New Zealand; and
@@ -25056,7 +26077,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
   - **balance date** is defined in schedule 13 (Months for payment of provisional tax and terminal tax) for the purposes of subpart MB and that schedule
   - **balloted loan right** is defined in section DV 10(3) (Building societies) for the purposes of that section
   - **banking company** means a person carrying on in New Zealand the business of banking
-  - **base amount**
+  - **base amount** is defined in section MB 7(2) (GST ratio method) for the purposes of that section
   - **base premium for the 1998-99 premium year** is defined in section EZ 28(3) (Base premium for 1998-99 premium year under Accident Insurance Act 1998) for the purposes of that section
   - **base ratio** , for a taxable Maori authority distribution, means an amount calculated using the formula—where—Maori authority creditis the amount of the Maori authority credit attached to the distribution; if a Maori authority credit is not attached, the amount is zerodistributionis the amount of the distribution by the Maori authority, excluding any Maori authority credit
   - **basic rates** means the rates of income tax specified in schedule 1 (Basic rates of income tax and specified superannuation contribution withholding tax)
@@ -25296,7 +26317,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
       (iv) section IG 6 (Loss carry forward and grouping by consolidated group and consolidated group members):
       (v) section IG 7 (Attributed CFC net losses and FIF net losses of consolidated group members):
       (vi) section LC 16 (Foreign tax credits of consolidated group members):
-      (vii) section MB 7 (Provisional tax of consolidated group members):
+      (vii) sections MB 29 to MB 32 (relating to provisional tax of consolidated group members):
       (viii) sections ME 10 to ME 14 (which relate to consolidated groups):
       (ix) sections ME 25 to ME 28 (which relate to policyholder credit accounts and consolidated groups):
       (x) section ME 40 (Determinations by Commissioner as to credits and debits arising to imputation credit account):
@@ -25896,9 +26917,6 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
   - **first business day** means—
     (a) the first day in a tax year on which a provisional taxpayer derives income or incurs expenditure as a result of carrying on a taxable activity, if the taxpayer is not a natural person; and
     (b) the day following the last day in a tax year on which a provisional taxpayer derived income from employment, if the taxpayer is a natural person
-  - **first instalment date** means—
-    (a) the 7th day of the month specified in schedule 13, part A (Months for payment of provisional tax and terminal tax) for payment of the first instalment of provisional tax for a tax year, unless January is specified; and
-    (b) 15 January, if January is specified
   - **first PAYE period** means the period starting on the 1st day of a month and ending with the 15th day of the month
   - **first publication** is defined in section EI 3(6) (Assigning or granting copyright) for the purposes of that section
   - **fisher** is defined in section EH 3(1)(b) (Persons to whom main income equalisation scheme applies)
@@ -25951,7 +26969,9 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
   - **foreign exempt person** is defined in section CW 11B(4) (Proceeds of share disposition by qualified foreign equity investor) for the purposes of that section
   - **foreign expenditure** is defined in section EG 1(10) (Election to use balance date used in foreign country) for the purposes of that section
   - **foreign investment fund** is defined in section EX 29 (Meaning of FIF)
-  - **foreign investment vehicle**
+  - **foreign investment vehicle** means an entity that—
+    (a) has become a foreign investment vehicle under section HL 5(1) (Foreign investment vehicles); and
+    (b) has not ceased to be a foreign investment vehicle under section HL 5(2)
   - **foreign non-dividend income** means income that is—
     (a) not derived from New Zealand; and
     (b) not dividends
@@ -26091,7 +27111,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
   - **GST payable** ,—
     (a) in sections CX 1 (GST) and DB 2 (GST), has the same meaning as tax payable in section 2 of the Goods and Services Tax Act 1985 (but does not include interest payable under Part 7 of the Tax Administration Act 1994):
     (b) is defined in section DB 3(3) (Determining tax liabilities) for the purposes of that section
-  - **GST ratio**
+  - **GST ratio** has the meaning given in section MB 7(2) (GST ratio method)
   - **guaranteed residual value** means an amount to which both the following apply
     (a) it is equal to the value of a personal property lease asset as agreed in the lease by the lessor and the lessee; and
     (b) its receipt by the lessor, on the expiry of the term of the lease, is assured or guaranteed by the lessee
@@ -26192,7 +27212,9 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
   - **income statement** means a statement issued by the Commissioner to a natural person that contains the information required by section 80E of the Tax Administration Act 1994
   - **income tax** has the meanings given to it by section OB 6 (Meaning of income tax)
   - **income tax liability** —
-    (a) means an income tax liability for a tax year calculated under subpart BC (Calculating and satisfying income tax liabilities); and
+    (a) means, for a person,—
+      (i) an income tax liability for the person and a tax year calculated under subpart BC (Calculating and satisfying income tax liabilities), if subparagraph (ii) does not apply; or
+      (ii) income tax for the person and a tax year calculated under subpart HL (Portfolio investment entities), if the person is a portfolio tax rate entity; and
     (b) in sections EF 5 (Use of money interest payable by person) and EF 6 (Different tax years), includes circumstances in which a person has no tax to pay or is entitled to a refund of tax
   - **income year** means,—
     (a) for a person who has elected, under section 38 of the Tax Administration Act 1994 and with the Commissioner's consent, to have a period not ending on 31 March, the elected period (which may be less than a year in some cases):
@@ -26216,9 +27238,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
     (a) repayment of some or all of a loan that a lessor is treated as having advanced under section FC 6(3) (Effect of specified lease on lessor and lessee); or
     (b) payment of interest; or
     (c) both
-  - **instalment date** means—
-    (a) the 7th day of the month specified in schedule 13, part A (Months for payment of provisional tax and terminal tax) for payment of an instalment of provisional tax for a tax year, unless January is specified; and
-    (b) 15 January, if January is specified
+  - **instalment date** means a date for payment of provisional tax for a tax year that is the day and month specified for a provisional taxpayer in schedule 13 part A (Months for payment of provisional tax and terminal tax)
   - **instalment period** , means the period—
     (a) starting on the day on which an instalment is payable; and
     (b) ending with the day immediately before the day on which the next instalment is payable
@@ -26248,7 +27268,9 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
       (ii) does not include interest to which section DB 1(1)(c) (Taxes, other than GST, and penalties) applies:
     (e) in the definition of exempt interest, includes a redemption payment:
     (f) for land, has the same meaning as estate
-  - **interest instalment date**
+  - **interest instalment date** means an instalment date
+    (a) on which an instalment of provisional tax is due and payable under section MB 8 (Provisional tax payable in instalments); and
+    (b) after which, except in a case to which section 120KC(1) applies, an instalment amount that is overpaid or underpaid attracts use of money interest, a late payment penalty, or a shortfall penalty, as applicable
   - **interim instalment** means the weekly or fortnightly interim instalment elected in an application made in accordance with section KD 5(2) (Credit of tax by instalments).
   - **intermediary** is defined in section MBA 2 (Function of intermediary and tax pooling account) for the purposes of subpart MBA (Pooling of provisional tax
   - **international aircraft** is defined in section EE 58 (Other definitions)
@@ -26286,7 +27308,10 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
     (c) for a building society,—
       (i) a dividend declared by the society; or
       (ii) some tangible or intangible benefit that a member or a shareholder receives for disposing to the society of a share in the society; the benefit may or may not be relief from an obligation and may or may not be convertible into money
-  - **investor** , for a group investment fund, means a person who is entitled, by reason of the terms of the trust under which the group investment fund is established, to the income from the investments and funds of the group investment fund
+  - **investor** means,—
+    (a) for a group investment fund, a person who is entitled, by reason of the terms of the trust under which the group investment fund is established, to the income from the money, investments, and other property of the group investment fund:
+    (b) for a portfolio investment entity that is a company, a shareholder in the company:
+    (c) for a portfolio investment entity that is not a company, a person who is entitled, by reason of the rules of the portfolio investment entity or the terms of the trust under which the portfolio investment entity is established, to a proportion of the funds available for distribution by the entity as if the entity were a company and the investor were a shareholder in the company
   - **in-work payment** , means the component of the subpart KD credit given by section KD 2AAA (In-work payment)
   - **issue** , for a financial arrangement, means the act of creating the financial arrangement
   - **issuer** is defined in section EZ 45 (Definitions) for the purposes of the old financial arrangements rules
@@ -26689,7 +27714,9 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
   - **new start grant** means a grant of money that is designated by the Minister of Agriculture as a new start grant and is paid by the Government of New Zealand to a person in respect of—
     (a) an adverse event:
     (b) an event that is a qualifying event
-  - **new tax rate person**
+  - **new tax rate person** —
+    (a) means a person who uses a 30% basic rate that applies for the 2008–09 and later income years:
+    (b) includes a portfolio tax rate entity
   - **New Zealand** includes—
     (a) the continental shelf:
     (b) the water and the air space above any part of the continental shelf that is beyond New Zealand's territorial sea (as defined in section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977) if any exploration or exploitation in connection with or in relation to the part or any natural resource of the part is, or is to be, or may be, carried on, carried out, or undertaken, to the extent to which—
@@ -26757,7 +27784,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
     (c) a unit trust
   - **non-refundable credit** means—
     (a) a credit allowed to a person under Part L (Credits) for tax paid in a country or territory outside New Zealand:
-    (ab)
+    (ab) a credit allowed under section HL 27(7)(a) (Credits received by portfolio investment entity or portfolio investor proxy) to an investor who is allocated a credit under subpart LC (Foreign tax) received by a portfolio investment entity or portfolio investor proxy:
     (b) an amount in a person's branch equivalent tax account or policyholder credit account that the person elects, under Part M (Tax payments), to credit in payment of income tax
   - **non-resident** means a person who is not a New Zealand resident
   - **non-resident aircraft operator** is defined in section CW 45(3) (Non-resident aircraft operators) for the purposes of that section
@@ -27009,30 +28036,72 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
   - **portable veteran's pension** means a veteran's pension paid or payable overseas under any of—
     (a) sections 74J to 74M and 74O of the War Pensions Act 1954:
     (b) sections 17, 17BA, and 19 of the Social Welfare (Transitional Provisions) Act 1990
-  - **portfolio allocation period**
-  - **portfolio calculation period**
-  - **portfolio class fraction**
-  - **portfolio class investment value**
-  - **portfolio class net income**
-  - **portfolio class net loss**
-  - **portfolio class taxable income**
-  - **portfolio class taxable loss**
-  - **portfolio defined benefit fund**
-  - **portfolio entity formation loss**
-  - **portfolio entity investment**
-  - **portfolio entity tax liability**
-  - **portfolio investment entity**
-  - **portfolio investor allocated income**
-  - **portfolio investor allocated loss**
-  - **portfolio investor class**
-  - **portfolio investor exit period**
-  - **portfolio investor interest**
-  - **portfolio investor interest fraction**
-  - **portfolio investor proxy**
-  - **portfolio investor rate**
-  - **portfolio land company**
-  - **portfolio listed company**
-  - **portfolio tax rate entity**
+  - **portfolio allocation period** , for a portfolio tax rate entity, means a period that meets the requirements of section HL 15 (Portfolio allocation period and portfolio calculation period) to which the entity allocates income
+  - **portfolio calculation period** , for a portfolio tax rate entity, means a period consisting of 1 or more portfolio allocation periods that meets the requirements of section HL 15 (Portfolio allocation period and portfolio calculation period) for the calculation of portfolio investor allocated income and portfolio investor allocated loss
+  - **portfolio class fraction** , for a portfolio tax rate entity and a portfolio investor class, means the fraction of the proceeds from a portfolio entity investment to which the investors in the portfolio investor class are entitled as a group
+  - **portfolio class investment value** , for a portfolio tax rate entity, a portfolio investor class, and a portfolio entity investment, means the portfolio class fraction of the market value of the portfolio entity investment
+  - **portfolio class net income** is defined in section HL 18 (Portfolio class net income and portfolio class net loss for portfolio allocation period)
+  - **portfolio class net loss** is defined in section HL 18 (Portfolio class net income and portfolio class net loss for portfolio allocation period)
+  - **portfolio class taxable income** is defined,—
+    (a) for a tax year, in section HL 29 (Portfolio class taxable income and portfolio class taxable loss for tax year):
+    (b) for a portfolio allocation period, in section HL 19 (Portfolio class taxable income and portfolio class taxable loss for portfolio allocation period)
+  - **portfolio class taxable loss** is defined,—
+    (a) for a tax year, in section HL 29 (Portfolio class taxable income and portfolio class taxable loss for tax year):
+    (b) for a portfolio allocation period, in section HL 19 (Portfolio class taxable income and portfolio class taxable loss for portfolio allocation period)
+  - **portfolio defined benefit fund** means a defined benefit fund that—
+    (a) does not allocate income to investors; and
+    (b) has become a portfolio investment entity under section HL 12 (Becoming portfolio investment entity); and
+    (c) has not ceased to be a portfolio investment entity under section HL 14 (Ceasing to be portfolio investment entity)
+  - **portfolio entity formation loss** is defined in section HL 28 (Portfolio entity formation loss)
+  - **portfolio entity investment** means an investment of a portfolio investment entity in an item of property of a type to which section HL 10(1) (Further eligibility requirements relating to investments) refers
+  - **portfolio entity tax liability** , for a portfolio tax rate entity for a period, is defined in section HL 20 (Portfolio entity tax liability and rebates of portfolio tax rate entity for period)
+  - **portfolio investment entity** means—
+    (a) a portfolio tax rate entity:
+    (b) a portfolio listed company:
+    (c) a portfolio defined benefit fund
+  - **portfolio investor allocated income** is defined in section HL 24 (Portfolio investor allocated income and portfolio investor allocated loss)
+  - **portfolio investor allocated loss** is defined in section HL 24 (Portfolio investor allocated income and portfolio investor allocated loss)
+  - **portfolio investor class** means 1 or more investors in a portfolio investment entity, each investor having an entitlement to a distribution by the entity of proceeds from portfolio entity investments such that—
+    (a) the portfolio entity investments are the same for all the investors in the group; and
+    (b) each investor's interest in a portfolio entity investment represents a proportion (the investment proportion) of the value of the investor's entitlement; and
+    (c) the investment proportion for each investor and each portfolio entity investment differs from the average value of the investment proportion for the investors in the group and the portfolio entity investment by less than 2.5% of that average value
+  - **portfolio investor exit period** , for an investor in a portfolio investor class of a portfolio tax rate entity and a tax year, means,—
+    (a) for an entity that makes payments of tax under section HL 21 (Payments of tax by portfolio tax rate entity making no election), a period—
+      (i) beginning with the beginning of a portfolio calculation period and ending with the fifth working day after the portfolio calculation period; and
+      (ii) for which the amount of the entity's portfolio tax liability under section HL 20 (Portfolio entity tax liability and rebates of portfolio tax rate entity for period) for the investor and the portfolio investor class and any other portfolio investor classes would, if the period were not a portfolio investor exit period for the investor, equal or exceed the value of the investor's portfolio investor interest for the portfolio investor class and any other portfolio investor classes at the end of the period; and
+      (iii) the amount of the portfolio entity tax liability referred to in subparagraph (ii) is not paid under section HL 23B (Optional payments of tax by portfolio tax rate entities); or
+    (b) for an entity that makes payments of tax under section HL 23 (Payments of tax by portfolio tax rate entity choosing to make payments when investor leaves), a period—
+      (i) beginning with the later of the beginning of the tax year and the day on which the investor last became an investor in the portfolio investor class; and
+      (ii) ending on a day in the tax year on which the entity's portfolio entity tax liability under section HL 20 for the investor and the portfolio investor class and any other portfolio investor classes for the period equals or exceeds the value of the investor's portfolio investor interest for the portfolio investor class and any other portfolio investor classes
+  - **portfolio investor interest** means an interest in a portfolio investment entity that gives the holder an entitlement to a distribution of proceeds from a portfolio entity investment of the entity
+  - **portfolio investor interest fraction** , for an investor in a portfolio investor class of a portfolio investment entity, means the fraction to which the investor is entitled of the amount of a distribution by the entity to the investors in the portfolio investor class
+  - **portfolio investor proxy** is defined in section HL 31 (Portfolio investor proxies)
+  - **portfolio investor rate** , for an investor in a portfolio tax rate entity and a portfolio calculation period, means—
+    (a) 30%, if paragraphs (b) and (c) do not apply; or
+    (b) the rate, if paragraph (c) does not apply, that the investor notifies to the entity as the prescribed investor rate for the investor and the period—
+      (i) before the end of the portfolio calculation period, if the entity makes payments of tax under section HL 21 (Payments of tax by portfolio tax rate entity making no election); and
+      (ii) before the end of the tax year in which the portfolio calculation period occurs, if the entity makes payments of tax under section HL 23 (Payments of tax by portfolio tax rate entity choosing to make payments when investor leaves); and
+      (iii) before the entity has calculated the portfolio investor allocated income or portfolio investor allocated loss for the investor and the period; and
+      (iv) by a notice satisfying section 28B of the Tax Administration Act 1994; or
+    (c) 0%, if—
+      (i) the entity makes payments of tax under section HL 21 (Payments of tax by portfolio tax rate entity making no election); and
+      (ii) the portfolio investor rate for the investor for the portfolio calculation period would, in the absence of this paragraph, be more than 0%; and
+      (iii) the portfolio calculation period includes part of a portfolio investor exit period for the investor
+  - **portfolio land company** means, for a tax year, a company that—
+    (a) is not a portfolio investment entity in the tax year; and
+    (b) on 80% of the days in the corresponding income year on which the company has property with a market value equal to or more than $100,000, owns property that—
+      (i) consists of interests in land or shares in a portfolio land company that does not own, directly or indirectly, shares in the company; and
+      (ii) has a market value equal to or more than 90% of the market value of all the property of the company
+  - **portfolio listed company** means a company that—
+    (a) is listed on a recognised exchange in New Zealand or meets the requirements of section HL 11B (Unlisted company may choose to become portfolio listed company); and
+    (b) has become a portfolio investment entity under section HL 12 (Becoming portfolio investment entity); and
+    (c) has not ceased to be a portfolio listed company under section HL 11B; and
+    (d) has not ceased to be a portfolio investment entity under section HL 14 (Ceasing to be portfolio investment entity)
+  - **portfolio tax rate entity** means a company, superannuation fund, or group investment fund that—
+    (a) has become a portfolio tax rate entity under section HL 12 (Becoming portfolio investment entity); and
+    (b) has not ceased to be a portfolio tax rate entity under section HL 14 (Ceasing to be portfolio investment entity); and
+    (c) is not a company listed on a recognised exchange in New Zealand; and
+    (d) is not a portfolio defined benefit fund
   - **possession** includes a use that is in fact or effect substantially exclusive, whether by virtue of a right of exclusive occupation or not
   - **pre-1983 mortgage repayment insurance policy** means a single premium non-profit life insurance policy issued on or before 31 March 1983, under which the amount assured is related to the amount outstanding on a mortgage of land
   - **pre-1991 budget security** means a fixed rate share, or a debenture to which section FC 1 (Floating rate of interest on debentures) or FC 2 (Interest on debentures issued in substitution for shares) applies, that—
@@ -27054,7 +28123,20 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
     (b) prescribed by the Commissioner
   - **prescribed amount** is defined in section DU 9(4) (Application of sections to resident mining operators)
   - **prescribed interest** is defined in section ND 1G (Meaning of prescribed interest) for the purposes of sections ND 1D (Employment-related loans: value of benefit) and ND 1F (Employment-related loans: regulations)
-  - **prescribed investor rate**
+  - **prescribed investor rate** , for a person who is an investor in a portfolio tax rate entity and a portfolio allocation period in a tax year, means—
+    (a) 30%, if—
+      (i) none of paragraphs (b) and (c) applies to the person:
+      (ii) the person is a resident who derives income as a trustee and chooses to be subject to this paragraph for the tax year; or
+    (b) 19.5%, unless paragraph (c) applies to the person, if the person is a resident who had, in either of the 2 income years immediately before the tax year,—
+      (i) $38,000 or less in taxable income; and
+      (ii) a total amount of $60,000 or less in taxable income and portfolio investor allocated income after subtraction of portfolio investor allocated loss; or
+    (c) 0%, if the person is a resident who—
+      (i) is an organisation or trust with income that is exempt income under section CW 34 (Charities: non-business income) or CW 35 (Charities: business income):
+      (ii) is a portfolio investment entity other than a person to whom paragraph (a)(ii) applies:
+      (iii) is a company:
+      (iv) is a superannuation fund other than a person to whom paragraph (a)(ii) applies:
+      (v) derives income as a trustee and does not choose to be subject to paragraph (a) for the tax year:
+      (vi) is a portfolio investor proxy for the portfolio allocation period
   - **prescribed period** is defined in section CU 29 (Other definitions)
   - **prescribed proportion** is defined in section CU 29 (Other definitions)
   - **prescribed rate of interest** means the rate of interest declared by regulations made under section ND 1F (Employment-related loans: regulations) to be the rate applying to employment-related loans
@@ -27128,19 +28210,11 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
     (a) the following provisions:
       (i) section LD 6 (Allowance for provisional tax paid by agent):
       (ii) section LD 7 (Provisional tax to be credited against income tax liability):
-      (iii) sections MB 2 to MB 6 (which relate to provisional tax):
-      (iv) sections MB 8 to MB 10 (which relate to provisional tax):
-      (v) section MB 12 (Application of other provisions to provisional tax); and
+      (iii) sections MB 1 to MB 28 (which relate to provisional tax):
+      (iv) sections MB 33, and MB 35 to 38 (which relate to provisional tax):
+      (v)
     (b) sections 119 and 139B of the Tax Administration Act 1994
-  - **provisional taxpayer** , for a tax year,—
-    (a) means a taxpayer—
-      (i) whose residual income tax for the tax year is $2,500 or more; or
-      (ii) who makes an election under section MB 2A (Election to be provisional taxpayer); and
-    (b) does not include—
-      (i) a company that does not have a fixed establishment in New Zealand and is not treated as resident in New Zealand; or
-      (ib)
-      (ii) a taxpayer to whom section 33A of the Tax Administration Act 1994 applies; or
-      (iii) a non-resident contractor as defined in regulation 2 of the Income Tax (Withholding Payments) Regulations 1979 who has not been issued with an exemption certificate by the Commissioner for the tax year under regulation 5
+  - **provisional taxpayer** has the meaning given in section MB 2 (Who pays provisional tax?)
   - **public authority** —
     (a) means Public Trust, the Maori Trustee, and every other department or instrument of the Executive Government of New Zealand; and
     (b) includes the Christmas Island Phosphate Commission, incorporated in Australia by the Christmas Island Agreement Act 1949 of the Parliament of Australia; and
@@ -27217,7 +28291,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
       (iii) life insurance companies; or
       (iv) superannuation funds
   - **quarter** means a period of 3 consecutive calendar months that ends with the last day of March, June, September, or December
-  - **ratio instalment date**
+  - **ratio instalment date** means an instalment date of a taxpayer who uses a GST ratio for a tax year, and is an instalment date for a payment in relation to which no amount of use of money interest or penalties apply other than a late payment penalty or a shortfall penalty
   - **rebate** is defined in section HF 1(9) (Profits of mutual associations in respect of transactions with members) for the purposes of that section
   - **recognised exchange** , at any time,—
     (a) means a recognised exchange market in New Zealand or anywhere else in the world that at the time has the features described in paragraphs (c) to (e); and
@@ -27418,7 +28492,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
     (b) income derived from a mining venture by a non-resident mining operator:
     (c) specified payments derived by a person in their capacity as a non-resident entertainer if they do not choose to file a return for that income:
     (d) category A income derived by a trustee of a group investment fund:
-    (db)
+    (db) income derived by a portfolio tax rate entity:
     (e) income to which section FC 14 (Non-resident general insurers' income) applies:
     (f) income to which sections FC 18 to FC 20 (which relate to non-resident shippers) apply:
     (g) income to which section FC 21 (Amounts derived by non-residents from renting films) applies:
@@ -27428,9 +28502,6 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
   - **schedular income tax liability** means the amount determined under section BC 7 (Income tax liability of person with schedular income)
   - **schedular taxable income** , for a tax year and a person who has schedular income of a particular kind for the tax year, means the amount of taxable income that arises in calculating the schedular income tax liability for the kind for the tax year
   - **seal and abandonment** means the seal and abandonment of an exploratory well when a petroleum miner files a statutory declaration with the Commissioner stating that the miner has no intention of utilising the well in petroleum mining operations or of applying for a mining licence in relation to the area in which the well is located
-  - **second instalment date** means—
-    (a) the 7th day of the month specified in schedule 13, part A (Months for payment of provisional tax and terminal tax) for payment of the second instalment of provisional tax for a tax year, unless January is specified; and
-    (b) 15 January, if January is specified
   - **second PAYE period** means the period starting on the 16th day of a month and ending with the last day of the month
   - **secondary employment earnings** , for an employee and a pay period, means a source deduction payment that—
     (a) is derived in the pay period from an employer; and
@@ -27560,7 +28631,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
       (i) a shearer:
       (ii) a wool classer:
       (iii) a person permanently employed on the premises where the shearing shed is situated
-  - **shortfall penalty**
+  - **shortfall penalty** is defined in section 3(1) of the Tax Administration Act 1994
   - **short term agreement for the sale and purchase of property** is defined in section EZ 45 (Definitions) for the purposes of the old financial arrangements rules
   (a) an agreement under which settlement must take place or the services must be performed on or before the 93rd day after the date on which the agreement is entered into:
   (b) if the date on which the agreement is entered into cannot be established, an agreement under which settlement must take place or the services must be performed on or before the 93rd day after the earlier of—
@@ -27820,7 +28891,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
     (d) for the purposes of paragraph (c), any capital profit or capital gain realised by the trustee of a foreign trust is treated as income derived by the trustee (but not beneficiary income) and not as capital profits or gains, whether the realisation was by 1 transaction or by a series of transactions between the trustee and a person associated with the trustee, and for this purpose a person is treated as associated with the trustee if the person would be treated as associated under section OD 7 (Defining when 2 persons are associated persons) or OD 8(3) (Further definitions of associated persons)
   - **taxable income** means taxable income for a tax year calculated under section BC 5 (Taxable income)
   - **taxable Maori authority distribution** is defined in section HI 5(2) (Amount distributed to member by Maori authority)
-  - **taxable period** is defined in section DB 3(3) (Determining tax liabilities) for the purposes of that section
+  - **taxable period** has the meaning given in section 2(1) of the Goods and Services Tax Act 1985
   - **taxable supply** is defined in section 2 of the Goods and Services Tax Act 1985
   - **taxation law** , in sections EZ 49 (References to new rules include old rules), YA 3 (Transitional provisions), YA 4 (Saving of binding rulings), and YA 5 (Saving of accrual determinations),—
     (a) is defined in section 3(1) of the Tax Administration Act 1994; and
@@ -27854,9 +28925,6 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
   - **thinning operations income equalisation account** is defined in section EH 81 (Other definitions)
   - **thinning operations income equalisation scheme** means the scheme referred to in section EH 1(2)(c) (Income equalisation schemes)
   - **thinning operations maximum deposit** is defined in section EH 80 (Meaning of thinning operations maximum deposit)
-  - **third instalment date** means—
-    (a) the 7th day of the month specified in schedule 13, part A (Months for payment of provisional tax and terminal tax) for payment of the third instalment of provisional tax for a tax year, unless January is specified; and
-    (b) 15 January, if January is specified
   - **this Act** is defined in section AA 3(1) (Definitions)
   - **timber** includes standing timber in—
     (a) section FB 4 (Income derived from disposal of trading stock together with other assets of business):
@@ -27871,7 +28939,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
   - **time of the sale** , in sections DC 9 (Sale of business: transferred employment income obligations) and EA 4 (Deferred payment of employment income), means the date on which the agreement for sale of the business or part of the business is settled by the exchange of the seller's business or the part for the buyer's consideration
   - **total assets for the income year** is defined in section FG 4(3) (Rules for calculating New Zealand group debt percentage) for the purposes of that section
   - **total debt** is defined in section FG 4(2) (Rules for calculating New Zealand group debt percentage) for the purposes of that section
-  - **total taxable supplies**
+  - **total taxable supplies** is defined in section MB 7(8) (GST ratio method) for the purposes of that section and sections MB 15, MB 18, and MB 32 (which relate to the calculation and payment of provisional tax using the GST ratio method)
   - **tracking account** means the account described in item a of the formula in section LF 5(2) (Dividends from grey list companies)
   - **trade credit** is defined in section EZ 45 (Definitions) for the purposes of the old financial arrangements rules
   - **trading stock** —
@@ -28060,7 +29128,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
   - **worldwide group debt percentage** means, for a person and for an income year, the percentage calculated under section FG 5 (Rules for calculating worldwide group debt percentage)
   - **year** means a 12 month period
   - **year of determination** , in sections ME 30 to ME 34 (which relate to imputation credit accounts of statutory producer boards), and in the definition of member (paragraph (a)), means an income year that starts on or after 1 April 1988.
-  - **zero-rated portfolio investor**
+  - **zero-rated portfolio investor** , for a portfolio tax rate entity that makes payments of tax under section HL 21 (Payments of tax by portfolio tax rate entity making no election) or HL 23 (Payments of tax by portfolio tax rate entity choosing to make payments when investor leaves) and a portfolio allocation period, means an investor in the entity who has a prescribed investor rate of 0% for the period.
 
 ### OB 2 Meaning of source deduction payment: shareholder employees of close companies
 (1) In this Act, except as provided in subsection (2), source deduction payment means a payment by way of salary or wages, an extra pay, or a withholding payment, but does not include an amount attributed in accordance with section GC 14D.
@@ -28149,7 +29217,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
   (h) sections IE 1, IF 1, IG 1, IG 2, and IG 7; and
   (i) sections KC 1 to KC 5, KE 1, KF 1, KF 3, KG 1, KZ 1, and KZ 2; and
   (j) sections LC 4, LC 5, LC 16, and LF 2; and
-  (k) sections MB 7, ME 11 to ME 14, ME 26, ME 28, MF 8, MF 9, and MG 15; and
+  (k) sections MB 29 to MB 32, ME 11 to ME 14, ME 26, ME 28, MF 8, MF 9, and MG 15; and
   (l) section NH 5; and
   (m) sections OB 6(1)(b), (c), and (i), OE 2, and OE 5; and
   (n) the definitions of corpus, eligible company, qualifying trust, tax avoidance, and taxable distribution in section OB 1; and
@@ -28442,7 +29510,7 @@ For the purposes only of the application of the credit account continuity provis
   (a) shares in a company or interests in a partnership held directly or indirectly by or for a company, partnership, or trust are deemed to be held proportionately by or for the shareholders, partners, or beneficiaries in the company, trust, or partnership; and
   (b) a person who is an individual is deemed to hold the shares in a company or the interests in a partnership which are held, or deemed to be held, by or for the person's relatives; and
   (c) shares in a company or interests in a partnership deemed to be held by a person by reason of the application of paragraph (a) are, for the purposes of applying paragraph (a) or (b), treated as being held directly by that person, but shares or interests deemed to be held by a person by reason of the application of paragraph (b) are not treated as being held by that person for the purpose of again applying paragraph (b) in order to make another person the deemed holder of those shares or interests.
-(3) In sections CX 6(1)(b), CX 6B, DB 10, DS 4, DT 2, EC 10(4)(b), EE 33 to EE 36, EE 50, EE 51, EW 45, EW 50, EZ 11, EZ 38, and FC 13, subpart FG, sections FH 1(2), GC 14B, GD 13, HK 11, KH 2, and LC 1, subpart LF, and section NH 7, the definitions in section OB 1 of returning share transfer and share-lending arrangement, and sections OE 7, and OE 8, and in the international tax rules, associated persons or persons associated with each other are—50% or more, and for this purpose sections EX 8 to EX 10, EX 13, EX 17, EX 27, and GC 9 apply as if each reference to a CFC, controlled foreign company, or foreign company were a reference to a company and as if section GC 9(6) were omitted; or
+(3) In sections CX 6(1)(b), CX 6B, DB 10, DS 4, DT 2, EC 10(4)(b), EE 33 to EE 36, EE 50, EE 51, EW 45, EW 50, EZ 11, EZ 38, and FC 13, subpart FG, sections FH 1(2), GC 14B, GD 13, HK 11, HL 6, HL 9, KH 2, and LC 1, subpart LF, and section NH 7, the definitions in section OB 1 of returning share transfer and share-lending arrangement, and sections OE 7, and OE 8, and in the international tax rules, associated persons or persons associated with each other are—50% or more, and for this purpose sections EX 8 to EX 10, EX 13, EX 17, EX 27, and GC 9 apply as if each reference to a CFC, controlled foreign company, or foreign company were a reference to a company and as if section GC 9(6) were omitted; or
   (a) any 2 companies where—
     (i) any group of persons—
       (A) has voting interests in each of those companies totalling in aggregate 50% or more; or
@@ -28704,7 +29772,7 @@ On the taxable income of a trustee (whether or not the trustee is a company or a
 On all taxable income not included within any of the provisions of clause 1 or 2, the basic rate of income tax on the taxable income of a company is 30 cents for every $1 of that taxable income.
 
 ### 6 Portfolio tax rate entity
-The basic rate of income tax on all taxable income of a portfolio tax rate entity is the effective rate of tax found by dividing the amount of the portfolio entity tax liability of the entity under section HL 20 by the number of dollars in the taxable income of the entity
+[Repealed]
 
 ### 7 Trustees of group investment funds
 On the amount of schedular taxable income in respect of category A income of a trustee, the basic rate of tax is 30 cents for every $1 of that schedular taxable income.
@@ -29318,26 +30386,54 @@ The minimum tax value of a motor vehicle to which this schedule applies is $8,33
 
 ## Schedule 13 — Months for payment of provisional tax and terminal tax
 
-### 1
-Month for payment of instalments of provisional tax under section MB 5(1), (2), and (3) and months for payment of terminal tax under section MC 1, whether the tax year is a transitional year or not:ABCDEMonth of balance dateMonth for payment of first instalment of provisional tax, being the month preceding the balance dateMonth for payment of second instalment of provisional tax, being the month preceding the balance dateMonth for payment of third instalment of provisional tax, being the month of the balance dateMonth for payment of terminal tax, being the first such month succeeding the balance dateMonth for payment of terminal tax, being the next such month succeeding the month in column DOctoberFebruaryJuneOctoberSeptemberNovemberNovemberMarchJulyNovemberOctoberDecemberDecemberAprilAugustDecemberNovemberJanuaryJanuaryMaySeptemberJanuaryDecemberFebruaryFebruaryJuneOctoberFebruaryJanuaryMarchMarchJulyNovemberMarchFebruaryAprilAprilAugustDecemberAprilFebruaryAprilMaySeptemberJanuaryMayFebruaryAprilJuneOctoberFebruaryJuneFebruaryAprilJulyNovemberMarchJulyFebruaryAprilAugustDecemberAprilAugustFebruaryAprilSeptemberJanuaryMaySeptemberFebruaryApril
+| Month of balance date | A | B | C | D | E | F | G | H |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| October | 28 Jan | 28 Mar | 28 May | 28 Jul | 28 Sep | 28 Nov | Sep | Nov |
+| November | 28 Feb | 7 May | 28 Jun | 28 Aug | 28 Oct | 15 Jan | Oct | Dec |
+| December | 28 Mar | 28 May | 28 Jul | 28 Sep | 28 Nov | 28 Jan | Nov | Jan |
+| January | 7 May | 28 Jun | 28 Aug | 28 Oct | 15 Jan | 28 Feb | Dec | Feb |
+| February | 28 May | 28 Jul | 28 Sep | 28 Nov | 28 Jan | 28 Mar | Jan | Mar |
+| March | 28 Jun | 28 Aug | 28 Oct | 15 Jan | 28 Feb | 7 May | Feb | Apr |
+| April | 28 Jul | 28 Sep | 28 Nov | 28 Jan | 28 Mar | 28 May | Feb | Apr |
+| May | 28 Aug | 28 Oct | 15 Jan | 28 Feb | 7 May | 28 Jun | Feb | Apr |
+| June | 28 Sep | 28 Nov | 28 Jan | 28 Mar | 28 May | 28 Jul | Feb | Apr |
+| July | 28 Oct | 15 Jan | 28 Feb | 7 May | 28 Jun | 28 Aug | Feb | Apr |
+| August | 28 Nov | 28 Jan | 28 Mar | 28 May | 28 Jul | 28 Sep | Feb | Apr |
+| September | 15 Jan | 28 Feb | 7 May | 28 Jun | 28 Aug | 28 Oct | Feb | Apr |
 
-### 2
-  - **balance date** In clause 1, , in relation to provisional tax or terminal tax payable by a person for a tax year or for another period, means the person’s annual balance date for their accounts for the tax year or the other period for which the person must furnish a return of income under the Tax Administration Act 1994. A person is treated as having a balance date that falls in March if—
-  (a) the person does not furnish a return of income under section 38 of the Tax Administration Act 1994; or
-  (b) the person is a non-resident company that does not have a fixed establishment in New Zealand.
-
-| Length of transitional year | Number of instalments in transitional year | Month or months in which instalments, other than final instalment, are due |
+| Monthly and 2-monthly non-ratio and non-GST provisional taxpayers |  |  |
 | --- | --- | --- |
-| 0 to 4 months | 1 | Only final instalment payable |
-| 5 to 8 months | 2 | Instalment due in 4th month |
-| 9 to 12 months | 3 | Instalments due in 4th and 8th months |
-| 13 to 16 months | 4 | Instalments due in 4th, 8th, and 12th months |
-| 17 to 20 months | 5 | Instalments due in 4th, 8th, 12th, and 16th months |
-| 21 to 24 months | 6 | Instalments due in 4th, 8th, 12th, 16th, and 20th months |
-| Note: |  |  |
-| Column 3 refers to— |  |  |
-| (a) the month(s) following the 1 April immediately before the first business day, for taxpayers who start business during a tax year: |  |  |
-| (b) the month(s) following a taxpayer’s balance date in the tax year before a transitional year, for all other provisional taxpayers. |  |  |
+| Transitional year length | New instalment months |  |
+| 0-4 mths | 1 | month following final month |
+| 5-8 mths | 2 | 5th month, month following final month |
+| 9-12 mths | 3 | 5th, 9th months, month following final month |
+| 13-16 mths | 4 | 5th, 9th, 13th months, month following final month |
+| 17-20 mths | 5 | 5th, 9th, 13th, 17th months, month following final month |
+| 21-24 mths | 6 | 5th, 9th, 13th, 17th, 21st months, month following final month |
+
+| 6-monthly non-ratio provisional taxpayers |  |  |
+| --- | --- | --- |
+| Transitional year length | New instalment months |  |
+| 0-6 mths | 1 | month following final month |
+| 7-12 mths | 2 | 7th month, month following final month |
+| 13-18 mths | 3 | 7th, 13th months, month following final month |
+| 19-24 mths | 4 | 7th, 13th, 19th months, month following final month |
+
+| GST ratio provisional taxpayers |  |  |
+| --- | --- | --- |
+| Transitional year length | New instalment months |  |
+| 0-2 mths | 1 | month following final month |
+| 3-4 mths | 2 | 3rd, month, month following final month |
+| 5-6 mths | 3 | 3rd, 5th months, month following final month |
+| 7- mths | 4 | 3rd, 5th, 7th months, month following final month |
+| 9-10 mths | 5 | 3rd, 5th, 7th, 9th months, month following final month |
+| 11-12 mths | 6 | 3rd, 5th,7th, 9th, 11th months, month following final month |
+| 13-14 mths | 7 | 3rd, 5th, 7th, 9th, 11th, 13th months, month following final month |
+| 15-16 mths | 8 | 3rd, 5th, 7th, 9th, 11th, 15th months, month following final month |
+| 17-18 mths | 9 | 3rd, 5th, 7th, 9th, 11th, 13th, 15th, 17th months, month following final month |
+| 19-20 mths | 10 | 3rd, 5th, 7th, 9th, 11th, 13th, 15th, 17th, 19th months, month following final month |
+| 21-22 mths | 11 | 3rd, 5th, 7th, 9th, 11th, 13th, 15th, 19th, 21th months, month following final month |
+| 23-24 mths | 12 | 3rd, 5th, 7th, 9th, 11th, 13th, 15th, 19th, 21th, 23rd months, month following final month |
 
 ## Schedule 14 — Rate of resident withholding tax deductions
 
@@ -34728,3 +35824,408 @@ Within 30 days of issuing a determination under section 91AAF, the Commissioner 
 | 108(3B) | CF 6(5) |
 | 113B | CF 2(8)(a)(i) |
 | 113C | CF 2(17)(d) |
+
+### 1 Title
+This Act is the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006.
+
+### 2 Commencement
+(1) This Act comes into force on the date on which it receives the Royal assent, except as provided in this section.
+(2) Sections 267 and 279(6) are treated as coming into force on 1 April 1995.
+(3) Sections 274 and 278 are treated as coming into force on 1 April 2003.
+(4) Section 231 is treated as coming into force on 25 November 2003.
+(5) Sections 121 and 122 are treated as coming into force on 4 June 2004.
+(6) Section 281 is treated as coming into force on 1 July 2004.
+(7) Sections 230(1), 234, and 270 are treated as coming into force on 21 December 2004.
+(8) Sections 11(1), 12, 40, 57, 65, 80, 93, 104, 105, 143(5), 180(1), (2), and (3), 187, 191(9), (12), (21), (49), and (60), 193, 199, 202, 206, 207, 208, 210(19), 211(1) to (4) and (6) to (8), 212, 223 to 229, 237, 240, 257, 284(1) and (3), 287(4) and (5), and 303 are treated as coming into force on 1 April 2005.
+(9) Section 73 is treated as coming into force on 19 May 2005.
+(10) Sections 144(1) and (7), 146, and 191(5) are treated as coming into force on 21 July 2005.
+(11) Sections 13, 15(2) and (3), 21, 22, 23, 25, 50, 51, 53, 68, 75, 81, 83(2), 84, 85, 87, 88, 94, 95, 100, 106, 113, 116, 117(1) and (2), 120, 123, 141, 150, 188, 191(10), (15), (17), (18) to (20), (43), (46), (47), (53), (57), and (69), and 198 are treated as coming into force on 1 October 2005.
+(12) Section 191(2) and (72) is treated as coming into force on 21 December 2005.
+(13) Sections 8(2), 15(1), 16, 17, 28, 29 to 37, 45, 91, 92, 97, 98, 111, 125, 131 to 134, 166 to 178, 191(6), (11), (22), (31), (51), and (70), 194(1) and (2), 197(a), and 200 come into force on 1 April 2006.
+(14) Sections 7, 8(1), 14, 20, 39, 41, 44, 59, 66, 67, 83(1), 86, 110, 112, 124, 128 to 130, 142, 143(1) and (3), 145, 147(2) and (4), 148(1) and (3), 152, 153, 155, 156, 179, 180(1) and (6), 181 to 184, 185(1), 186, 191(8), (27), (28), (38), (40), (42), (52), (55), (58), and (59), 197(b), 205, and 214 come into force on 1 July 2006.
+(15) Sections 5, 42, 43, 103, 108, 117(3), 119, 191(48), (54), and (68), 210(3), (9), and (11), 211(2), (5), (7), (8)(a), and (9), 221, 222, 230(2), 254, 255, and 256 come into force on 1 October 2006.
+(16) Sections 292, 293, and 297(1)(a) come into force on 31 March 2007.
+(17) Section 180(7) comes into force on 1 April 2007.
+(18) Sections 77, 114, 115, 118, 137 to 140, 143(2) and (4), 147(1) and (3), 148(2), 149, 160 to 163, 165, 190, 191(4), (7), (16), (26), (29), (30), (44), (45), (50), (56), (61), and (65) to (67), 194(3), 204, 210(4), (5) to (7), (8), (10), (12), (14), (17), and (18), 217, 218, 241 to 251, 258 to 260, 283(4) to (9), 291, 294 to 296, and 300 come into force on 1 October 2007.
+(19) Sections 18, 19, 26, 47, 49, 127, 192, 215, 216, and 297(1)(b) come into force on 1 April 2008.
+(20) Sections 61 to 64, 101, 301, and 302 come into force on 1 August 2006.
+
+## Part 1 — Amendments to Income Tax Act 2004
+
+### 77 ACC levies and premiums
+(1) Amendment incorporated in the principal Act.
+(2) Amendment incorporated in the principal Act.
+(3) Amendment incorporated in the principal Act.
+(4) Subsections (1) to (3) apply for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 114 Returns, assessments, and liability of consolidated group
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 115 Payment of qualifying company election tax
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 118 Application of other provisions to withdrawal tax
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 137 Subpart MB replaced
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies for provisional tax payments for the income years corresponding to the 2008–09 and subsequent tax years.
+
+### 138 Payment of terminal tax
+(1) Amendments incorporated in the principal Act.
+(2) Amendment incorporated in the principal Act.
+(3) Subsections (1) and (2) apply for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 139 Limit on refunds and allocations of tax
+(1) In section MD 2,
+  (a) Amendment incorporated in the principal Act
+  (b) Amendment incorporated in the principal Act
+(2) Subsection (1) applies for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 140 Limits on refunds of tax in relation to Maori authorities
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 143 Debits arising to imputation credit account
+(1) Amendments incorporated in the principal Act.
+(2) Amendment incorporated in the principal Act.
+(3) Amendments incorporated in the principal Act.
+(4) Amendment incorporated in the principal Act.
+(5) Amendment incorporated in the principal Act.
+(6) Subsections (2) and (4) apply for income years corresponding to the 2008–09 and subsequent tax years.
+(7) Subsection (5) applies for income years corresponding to the 2005–06 and subsequent tax years.
+
+### 147 Credits arising to imputation credit account of group
+(1) Amendment incorporated in the principal Act.
+(2) Amendments incorporated in the principal Act.
+(3) Amendment incorporated in the principal Act.
+(4) Amendments incorporated in the principal Act.
+(5) Subsections (1) and (3) apply for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 148 Debits arising to imputation credit account of group
+(1) Amendments incorporated in the principal Act.
+(2) Amendment incorporated in the principal Act.
+(3) Amendments incorporated in the principal Act.
+(4) Subsection (2) applies for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 149 Debiting and crediting between consolidated imputation group and individual companies
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 160 Credits arising to Maori authority credit account
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 161 Debits arising to Maori authority credit account
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 162 New section MZ 8 added
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 163 New section MZ 9 added
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 165 Application of other provisions to amounts payable under PAYE rules
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 190 Application of other provisions to non-resident withholding tax
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 191 Definitions
+(1) This section amends section OB 1.
+(2) Amendment incorporated in the principal Act.
+(3) Amendment incorporated in the principal Act.
+(4) Amendment incorporated in the principal Act.
+(5) Amendment incorporated in the principal Act.
+(6) Amendment incorporated in the principal Act.
+(7) Amendment incorporated in the principal Act.
+(8) Amendment incorporated in the principal Act.
+(9) Amendment incorporated in the principal Act.
+(10) Amendment incorporated in the principal Act.
+(11) Amendment incorporated in the principal Act.
+(12) Amendments incorporated in the principal Act.
+(13) Amendments incorporated in the principal Act.
+(14) Amendment incorporated in the principal Act.
+(15) Amendment incorporated in the principal Act.
+(16) Amendment incorporated in the principal Act.
+(17) Amendment incorporated in the principal Act.
+(18) Amendment incorporated in the principal Act.
+(19) Amendment incorporated in the principal Act.
+(20) Amendment incorporated in the principal Act.
+(21) Amendment incorporated in the principal Act.
+(22) Amendment incorporated in the principal Act.
+(23) Amendments incorporated in the principal Act.
+(24) Amendment incorporated in the principal Act.
+(25) Amendment incorporated in the principal Act.
+(26) Amendment incorporated in the principal Act.
+(27) Amendment incorporated in the principal Act.
+(28) Amendment incorporated in the principal Act.
+(29) Amendment incorporated in the principal Act.
+(30) Amendment incorporated in the principal Act.
+(31) Amendment incorporated in the principal Act.
+(32) Amendment incorporated in the principal Act.
+(33) Amendment incorporated in the principal Act.
+(34) Amendment incorporated in the principal Act.
+(35) Amendments incorporated in the principal Act.
+(36) Amendment incorporated in the principal Act.
+(37) Amendment incorporated in the principal Act.
+(38) Amendment incorporated in the principal Act.
+(39) Amendment incorporated in the principal Act.
+(40) Amendments incorporated in the principal Act.
+(41) Amendment incorporated in the principal Act.
+(42) Amendment incorporated in the principal Act.
+(43) Amendment incorporated in the principal Act.
+(44) Amendments incorporated in the principal Act.
+(45) Amendment incorporated in the principal Act.
+(46) Amendment incorporated in the principal Act.
+(47) Amendments incorporated in the principal Act.
+(48) Amendment incorporated in the principal Act.
+(49) Amendment incorporated in the principal Act.
+(50) Amendment incorporated in the principal Act.
+(51) Amendment incorporated in the principal Act.
+(52) Amendment incorporated in the principal Act.
+(53) Amendment incorporated in the principal Act.
+(54) Amendment incorporated in the principal Act.
+(55) Amendment incorporated in the principal Act.
+(56) Amendment incorporated in the principal Act.
+(57) Amendment incorporated in the principal Act.
+(58) Amendments incorporated in the principal Act.
+(59) Amendments incorporated in the principal Act.
+(60) Amendment incorporated in the principal Act.
+(61) Amendment incorporated in the principal Act.
+(62) Amendment incorporated in the principal Act.
+(63) Amendment incorporated in the principal Act.
+(64) Amendments incorporated in the principal Act.
+(65) Amendment incorporated in the principal Act.
+(66) Amendment incorporated in the principal Act.
+(67) Amendment incorporated in the principal Act.
+(68) Amendment incorporated in the principal Act.
+(69) Amendment incorporated in the principal Act.
+(70) Amendment incorporated in the principal Act.
+(71) Amendments incorporated in the principal Act.
+(72) Amendment incorporated in the principal Act.
+(73) Subsections (14) and (63) apply to expenditure incurred on and after 1 April 2005.
+(74) Subsections (9), (10), (12), (13), (18) to (20), (21), (48), (49), (53), and (60) apply for income years corresponding to the 2005–06 and subsequent tax years.
+(75) Subsections (47) and (69) apply for
+  (a) a person who becomes a transitional resident on or after 1 April 2006; and
+  (b) income years corresponding to the 2005–06 and subsequent tax years.
+(76) Subsections (6), (11), (22), (31), and (51) apply for a person's liability for fringe benefit tax for a period beginning on or after 1 April 2006.
+(77) Subsections (17) and (57) apply for income years corresponding to the 2005–06 and subsequent tax years.
+(78) Subsections (48) and (54) apply for income years corresponding to the 2006–07 and subsequent tax years.
+(79) Subsections (4), (7), (16), (26), (29), (30), (44), (45), (50), (56), (61), (65), (66) , and (67) apply for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 194 Meaning of income tax
+(1) Amendment incorporated in the principal Act.
+(2) Amendment incorporated in the principal Act.
+(3) Amendment incorporated in the principal Act.
+(4) Subsection (2) applies for a person's liability for fringe benefit tax for a period beginning on or after 1 April 2006.
+(5) Subsection (3) applies for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 204 Schedule 13–Months for payment of provisional tax and terminal tax
+(1) Amendment incorporated in the principal Act.
+(2) Amendment incorporated in the principal Act.
+(3) Subsections (1) and (2) apply for income years corresponding to the 2008–09 and subsequent tax years.
+
+### 1 Title
+This Act is the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006.
+
+### 2 Commencement
+(1) This Act comes into force on the date on which it receives the Royal assent, except as provided in this section.
+(2) Section 209 is treated as coming into force on 30 November 1993.
+(3) Section 201 is treated as coming into force on 1 April 1995.
+(4) Section 207(2) is treated as coming into force on 26 July 1996.
+(5) Section 207(4) is treated as coming into force on 20 May 1999.
+(6) Section 206 is treated as coming into force on 1 April 2000.
+(7) Section 218(1), (3), (4), and (5) is treated as coming into force on 1 October 2001.
+(8) Section 205 is treated as coming into force on 26 March 2003.
+(9) Sections 202, 204, and 207(3) are treated as coming into force on 1 April 2003.
+(10) Section 25(1), (2), (4), (5), and (7) are treated as coming into force on 1 February 2004.
+(11) Sections 6, 12, 13, 16, 17, 20(1)(a), 27, 31, 40, 58, 59(1), 60, 62, 63, 77(4), 78(1)(a), (3), (4)(a), (6), and (7), 80(1)(c) and (2), 82, 85, 88, 94, 96, 129, 138, 139, 140, 141, 152(1) and (3), 155(3), (4), (10), (11), (17), (19)(a), (21), (22), (36), and (45), 156, 158(2)(a), 166, 167, 169(3), 170, 171, 172, 179, 183, and 218(2) are treated as coming into force on 1 April 2005.
+(12) Sections 19 and 195 are treated as coming into force on 21 June 2005.
+(13) Sections 14, 32, 33, 37, 38, 43, 48, 49, 50, 54, 55, 56, 77(3), 86, 87, 90, 91, 92(1), (2), (4), and (6), 95, 102, 147(1) and (2), 148, 155(2), (9), and (33), 159, and 163 are treated as coming into force on 1 October 2005.
+(14) Sections 22, 110, 119, 137, 155(23), and 161(2) are treated as coming into force on 1 April 2006.
+(15) Sections 34, 35, 36, 135, 136, 149, 153, 155(32), 157, 177, 186, 187, and 208 are treated as coming into force on 3 April 2006.
+(16) Sections 29, 39, 44, 45, 46, 92(3), (5), and (7), and 131(1) are treated as coming into force on 17 May 2006.
+(17) Sections 117, 132, 151, 155(24), and 178 are treated as coming into force on 1 July 2006.
+(18) Section 11 comes into force 3 months after the date on which this Act receives the Royal assent.
+(19) Sections 191 and 216 come into force on 31 March 2007.
+(20) Sections 5(1) and (2), 8(2), (3), (4), and (5), 24(1), 25(3), (6), (8), and (9), 26(1), 61(1), 64(1) to (3), 65(1) to (3), 66(1), 67(1) and (2), 68(1), 69(1) to (3), 70(1), 71(1), 72(1), 73(1), 74(1) to (3), 75(1) to (3), 76(1) to (3), 77(1), (2), and (6), 78(1)(b), (2), (4)(b), (5), and (8), 79(1), 80(1)(a) and (b), (3), (4), and (5), 81(1) and (2), 83(1), 89(1), 93(1) and (2), 99(1), 101(1) and (2), 142, 143, 144, 145(1), 155(5), (7), (13), (15), (16), (18), (19)(b), (29), (42), (44), and (46), 160, 162, 181, 189, and 193 come into force on 1 April 2007.
+(21) Sections 145(2) to (6), 146, 155(26) and (27), and 220 to 227 come into force on 1 July 2007.
+(22) Sections 4, 7, 10, 15, 18, 21, 28, 51, 97, 98, 100, 103(1), 112, 113, 114, 115, 116, 118, 120, 121, 122, 123, 124, 125, 126, 127, 128, 131(2), 133, 134, 147(3), 150, 152(2), 154, 155(20), (25), (30), (35), (37), (39), (43), and (47), 158(2)(b), 165, 176, 180, 182, 184, 185, 188, 196, 197, 198, 199, 214, 215, 219, 229, 230, 232, 233, 240, 241, 243, 244, 246, and 247 come into force on 1 October 2007.
+
+## Part 1 — Amendments to Income Tax Act 2004
+
+### 97B Application under section HL 11
+Despite section 2(22), a person may make an application under section HL 11 as if section 97 came into force on 1 April 2007
+
+### 120 Provisional tax payable in instalments
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies for provisional tax payments for the 2008–09 and later income years.
+
+### 121 Example: Section MB 13
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for provisional tax payments for the 2008–09 and later income years.
+
+### 122 Example: Section MB 14
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for provisional tax payments for the 2008–09 and later income years.
+
+### 123 Choosing to use GST ratio
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies for provisional tax payments for the 2008–09 and later income years.
+
+### 124 Changing determination method
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for provisional tax payments for the 2008–09 and later income years.
+
+### 125 Calculating residual income tax in transitional years
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies for provisional tax payments for the 2008–09 and later income years.
+
+### 126 Example: Sections MB 20 to MB 24
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for provisional tax payments for the 2008–09 and later income years.
+
+### 127 Examples: Sections MB 26 and MB 27 (using March balance dates)
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for provisional tax payments for the 2008–09 and later income years.
+
+### 128 Application of provisions of Tax Administration Act 1994
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for provisional tax payments for the 2008–09 and later income years.
+
+### 131 Companies required to maintain imputation credit account
+(1) Amendment incorporated in the principal Act.
+(2) Amendments incorporated in the principal Act.
+(3) Subsection (1) applies for income years beginning on or after 1 October 2007.
+
+### 147 Application of RWT rules
+(1) Amendment incorporated in the principal Act.
+(2) Amendments incorporated in the principal Act.
+(3) Amendments incorporated in the principal Act.
+(4) Subsections (1) and (2) apply for the 2005–06 and later income years.
+
+### 152 Application of NRWT rules
+(1) Amendment incorporated in the principal Act.
+(2) Amendment incorporated in the principal Act.
+(3) Amendments incorporated in the principal Act.
+(4) Subsections (1) and (3) apply for the 2005–06 and later income years.
+
+### 155 Definitions
+(1) This section amends section OB 1.
+(2) Amendment incorporated in the principal Act.
+(3) Amendments incorporated in the principal Act.
+(4) Amendments incorporated in the principal Act.
+(5) Amendment incorporated in the principal Act.
+(6) Amendments incorporated in the principal Act.
+(7) Amendment incorporated in the principal Act.
+(8) Amendments incorporated in the principal Act.
+(9) Amendment incorporated in the principal Act.
+(10) Amendment incorporated in the principal Act.
+(11) Amendments incorporated in the principal Act.
+(12) Amendment incorporated in the principal Act.
+(13) Amendment incorporated in the principal Act.
+(14) Amendment incorporated in the principal Act.
+(15) Amendment incorporated in the principal Act.
+(16) Amendment incorporated in the principal Act.
+(17) Amendment incorporated in the principal Act.
+(18) Amendment incorporated in the principal Act.
+(19) Amendments incorporated in the principal Act.
+(20) Amendment incorporated in the principal Act.
+(21) Amendments incorporated in the principal Act.
+(22) Amendment incorporated in the principal Act.
+(23) Amendment incorporated in the principal Act.
+(24) Amendment incorporated in the principal Act.
+(25) Amendment incorporated in the principal Act.
+(26) Amendment incorporated in the principal Act.
+(27) Amendment incorporated in the principal Act.
+(28) Amendment incorporated in the principal Act.
+(29) Amendment incorporated in the principal Act.
+(30) Amendment incorporated in the principal Act.
+(31) Amendment incorporated in the principal Act.
+(32) Amendment incorporated in the principal Act.
+(33) Amendment incorporated in the principal Act.
+(34) Amendment incorporated in the principal Act.
+(35) Amendments incorporated in the principal Act.
+(36) Amendment incorporated in the principal Act.
+(37) Amendment incorporated in the principal Act.
+(38) Amendment incorporated in the principal Act.
+(39) Amendment incorporated in the principal Act.
+(40) Amendments incorporated in the principal Act.
+(41) Amendments incorporated in the principal Act.
+(42) Amendment incorporated in the principal Act.
+(43) Amendment incorporated in the principal Act.
+(44) Amendment incorporated in the principal Act.
+(45) Amendment incorporated in the principal Act.
+(46) Amendment incorporated in the principal Act.
+(47) Amendment incorporated in the principal Act.
+(48) Subsections (9), (10), (11), (17), (19)(a), (21), (22), and (45) apply for the 2005–06 and later income years.
+(49) Subsections (5), (7), (15), (16), and (29) apply for income years beginning on or after 1 April 2007—
+  (a) beginning with the first day of the first income year for a person who does not make an election under paragraph (b); or
+  (b) beginning with the later of the first day of the first income year and 1 October 2007 for a person that is a company, group investment fund, or superannuation fund that intends to be a portfolio investment entity and chooses to delay the application to the person of changes made by this Act to the rules relating to FIFs by giving a notice to the Commissioner—
+    (i) before 1 April 2007, if the person exists before that date; or
+    (ii) within 1 month of the day on which the person comes into existence, if the person comes into existence on or after 1 April 2007 and before 1 October 2007.
+(50) Subsections (18), (19)(b), (30), (42), and (46) apply for income years beginning on or after 1 October 2007.
+
+### 165 Schedule 13—Months for payment of provisional tax and terminal tax
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies for income years corresponding to the 2008–09 and later tax years.
+
+### 1 Title
+This Act is the Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007.
+
+### 2 Commencement
+(1) This Act comes into force on the date on which it receives the Royal assent, except as provided in this section.
+(2) Section 72 is treated as coming into force on 1 April 2007.
+(3) Sections 6, 39, 49(2), (3), (5), (6), (7), (9), and (11), 56, 58, 63 to 69, and 73 come into force on 1 July 2007.
+(4) Sections 4, 5, 7 to 26, 27, 28 to 38, 40 to 48, 49(8), (10), (12), (13), (14), (15), (16), and (17), 50(1)(d), 52 to 55, and 70 come into force on 1 October 2007.
+
+## Part 1 — Amendments to Income Tax Act 2004
+
+### 27 Portfolio entity tax liability and rebates of portfolio tax rate entity for period
+(1) Amendment incorporated in the principal Act.
+(2) Amendment incorporated in the principal Act.
+(3) Amendments incorporated in the principal Act.
+(4) Amendment incorporated in the principal Act.
+(5) Amendment incorporated in the principal Act.
+(6) Amendment incorporated in the principal Act.
+(7) Amendments incorporated in the principal Act.
+(8) Subsection (6) applies for the 2008–09 and later income years.
+
+### 47 New sections MZ 10 to MZ 12
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 49 Definitions
+(1) This section amends section OB 1.
+(2) Amendment incorporated in the principal Act.
+(3) Amendment incorporated in the principal Act.
+(4) Amendment incorporated in the principal Act.
+(5) Amendment incorporated in the principal Act.
+(6) Amendments incorporated in the principal Act.
+(7) Amendment incorporated in the principal Act.
+(8) Amendment incorporated in the principal Act.
+(9) Amendments incorporated in the principal Act.
+(10) Amendment incorporated in the principal Act.
+(11) Amendment incorporated in the principal Act.
+(12) Amendments incorporated in the principal Act.
+(13) Amendments incorporated in the principal Act.
+(14) Amendment incorporated in the principal Act.
+(15) Amendment incorporated in the principal Act.
+(16) Amendment incorporated in the principal Act.
+(17) Amendments incorporated in the principal Act.
+(18) Amendments incorporated in the principal Act.
+(19) Subsection (4) applies, for a superannuation fund and an employee's superannuation accumulation, on and after 1 July 2007, unless the fund is approved by the Government Actuary as a complying superannuation fund before 17 May 2007.
+(20) If subsection (4) does not apply, because of subsection (19), the law that would apply if subsection (4) did not exist applies instead.
+(21) Subsections (13)(a) and (17)(a) apply,—
+  (a) for a portfolio tax rate entity to which section HL 21 or HL 23 of the Income Tax Act 2004 applies, on and after 1 April 2008:
+  (b) for a portfolio tax rate entity to which section HL 22 of the Income Tax Act 2004 applies, for the 2008–09 and later income years.
+(22) Subsection (18) applies for the 2008–09 and later income years.
