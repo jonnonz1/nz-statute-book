@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2007-10-01_
 
 > An Act—aTo promote safe road user behaviour and vehicle safety; andbTo provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcTo consolidate and amend various enactments relating to road safety and land transport; anddTo enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -23,7 +23,7 @@ _Consolidation as at 2007-09-20_
     (b) A person who works in an approved laboratory and who is authorised, by the analyst in charge of that laboratory, to act as an approved analyst, either generally or in a particular case:
   - **Approved health authority** means an institution approved by the Minister, with the agreement of the Minister of Health, for the purposes of section 209
   - **Approved laboratory** means a laboratory approved by the Science Minister, by notice in the Gazette, for the purposes of analysing blood specimens taken for the purposes of this Act
-  - **approved taxi organisation**
+  - **approved taxi organisation** means a taxi organisation approved or deemed to be approved by the Director under this Act, the regulations, or the rules
   - **Approved vehicle surveillance equipment** means vehicle surveillance equipment of a kind approved by the Minister of Police, by notice in the Gazette
   - **Assessment Centre** means an establishment for the time being approved as an Assessment Centre for the purposes of this Act by the chief executive of the Ministry of Health
   - **Authority** means Land Transport New Zealand established by section 66 of the Land Transport Management Act 2003
@@ -44,10 +44,14 @@ _Consolidation as at 2007-09-20_
   - **Certificate of loading** means a certificate of loading issued under the regulations or the rules
   - **Commissioner** means the Commissioner of Police
   - **Conclusive evidential breath-testing device**
-  - **control**
+  - **control** , in relation to a transport service or a proposed or approved taxi organisation, means direct or indirect control of the management of the whole or part of the transport service or taxi organisation by a shareholding or the holding of any position (however described) in the management of the whole or part of the transport service or taxi organisation that gives the person a significant influence on the operation of the whole or part of the service or organisation (whether or not other persons are also involved)
   - **Court** means a District Court
-  - **cumulative work day**
-  - **cumulative work period**
+  - **cumulative work day** means a period—
+    (a) during which work occurs; and
+    (b) that—
+      (i) does not exceed 24 hours; and
+      (ii) begins after a continuous period of rest time of at least 10 hours
+  - **cumulative work period** means a set of cumulative work days between continuous periods of rest time of at least 24 hours
   - **Dangerous goods** means goods declared by rules made under this Act to be dangerous goods
   - **Dangerous goods enforcement officer** means a person appointed by warrant under section 208
   - **Design** , in relation to a motor vehicle, refers to the construction of the motor vehicle, and not its use or intended use; and has a corresponding meaning
@@ -80,10 +84,21 @@ _Consolidation as at 2007-09-20_
     (c) The employed firefighters or other members of any fire brigade referred to in this definition:
   - **Former enactment** means a provision of the Transport Act 1962, or of Part 2 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986, or of the Land Transport Act 1993, repealed by this Act
   - **Goods** means all kinds of movable personal property; and includes articles sent by post, and animals
-  - **Goods service** , , and have the same meanings as they have in section 2 of the Transport Services Licensing Act 1989
-  - **goods service**
-  - **goods service licence**
-  - **goods service vehicle**
+  - **goods service** —
+    (a) means the carriage of goods on any road, whether or not for hire or reward, by means of a motor vehicle whose gross laden weight is 6 000 kg or more; and
+    (b) includes the letting on hire of a motor vehicle whose gross laden weight is 6 000 kg or more by a person who drives the vehicle or provides a driver for the vehicle, where the motor vehicle is used for the carriage of goods; but
+    (c) does not include—
+      (i) a vehicle recovery service; or
+      (ii) a service involving the carriage of goods for personal domestic purposes where the service is not operated for more than a total of 7 days in any 12-month period; or
+      (iii) any carriage of goods by a passenger service vehicle where the carriage is part of a contract for the carriage of passengers or where the carriage is of such small amounts of goods, or occurs so infrequently, that it does not form a significant part of the overall operations of the vehicle; or
+      (iv) the use of trucks by licensed motor vehicle dealers to carry goods for demonstration and sale purposes; or
+      (v) the use of vintage vehicles to carry goods for display purposes; or
+      (vi) the use of trailers towed by small passenger service vehicles to carry passengers' luggage; or
+      (vii) any service specified as an exempt goods service in the regulations or the rules
+  - **goods service licence** means a licence granted or deemed to be granted under subpart 3 of Part 4A that authorises its holder to carry on a goods service
+  - **goods service vehicle** —
+    (a) means a motor vehicle used or capable of being used in a goods service for the carriage of goods; but
+    (b) does not include a vehicle specified as an exempt goods service vehicle in the regulations or the rules
   - **Gross laden weight** , in relation to a motor vehicle, means—
     (a) The greatest of the following weights:
       (i) A weight specified (subsequent to the latest modification specified, if any) as the gross laden weight of the vehicle by the manufacturer of the vehicle:
@@ -98,7 +113,7 @@ _Consolidation as at 2007-09-20_
   - **Infringement offence** means—
     (a) A moving vehicle offence:
     (b) An overloading offence:
-    (ba)
+    (ba) an offence against this Act concerning logbooks that is committed by a transport service driver:
     (c) An infringement offence specified in Schedule 2 of the Transport Act 1962:
     (ca) a toll offence:
     (d) Any other offence against this Act or any other enactment that is specified as an infringement offence against this Act (other than an offence that carries a penalty of imprisonment or mandatory disqualification from holding or obtaining a driver licence):
@@ -106,9 +121,9 @@ _Consolidation as at 2007-09-20_
   - **Land transport** means transport on land by any means and the infrastructure facilitating such transport; and includes rail, surface-effect vehicles, and harbour ferries
   - **Land transport documents** means licences, permits, approvals, authorisations, exemptions, certificates, and similar documents issued under the Transport Act 1962, the Road User Charges Act 1977, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Transit New Zealand Act 1989, the Transport Services Licensing Act 1989, or this Act
   - **Land Transport Register** includes—
-    (a) Registers kept under this Act, the Railways Act 2005, or the Transport Services Licensing Act 1989; and
+    (a) Registers kept under this Act, the Railways Act 2005, ; and
     (b) Other information and records relating to vehicle and operator licensing kept by the Authority:
-  - **large passenger service vehicle**
+  - **large passenger service vehicle** means any passenger service vehicle that is designed or adapted to carry more than 12 persons (including the driver)
   - **Licensed** means,—
     (a) In relation to a driver,—
       (i) Licensed by or under this Act to drive vehicles of a specified class or classes; or
@@ -121,7 +136,7 @@ _Consolidation as at 2007-09-20_
     (b) Includes covers, ropes, ties, blocks, tackles, barrows, or other equipment or object used in the securing or containing of loads on vehicles or the loading or unloading of vehicles, whether or not any other load is on the vehicle; but
     (c) Does not include animal wastes discharged from animals being carried on a vehicle at the time:
   - **local authority** means any regional council or territorial authority within the meaning of the Local Government Act 2002
-  - **Logbook** means a logbook that is in a form, or of a type, approved under the Transport Act 1962 or under rules made under this Act
+  - **Logbook** means a logbook that is in a form approved by the Director in accordance with the rules, and includes any alternative means approved under section 30ZG
   - **Mass** , in relation to a vehicle, means the quantity of material contained in or on that vehicle that, when subjected to acceleration due to gravity, will exert downwards on a level surface a force that can be measured as the weight of the vehicle
   - **medical officer** means—
     (a) a person acting in a hospital and who, in the normal course of the person's duties, takes blood specimens; or
@@ -162,17 +177,35 @@ _Consolidation as at 2007-09-20_
   - **Offence against this Act** includes an offence against or prescribed by the regulations
   - **Operate** , in relation to a vehicle, means to drive or use the vehicle on a road, or to cause or permit the vehicle to be on a road or to be driven on a road, whether or not the person is present with the vehicle; and has a corresponding meaning
   - **optometrist** means a health practitioner who is, or is deemed to be, registered with the Optometrists and Dispensing Opticians Board continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of optometry.
-  - **organised criminal activity**
+  - **organised criminal activity** means an activity that—
+    (a) involves 2 or more persons; and
+    (b) has the acquisition of income or assets by means of a continuing course of criminal conduct as one of its objects
   - **Outputs** means the goods and services that are produced by the Authority
   - **Overloading offence** means an offence against any enactment that is specified as an overloading offence by the regulations
   - **Owner** , in relation to a motor vehicle, means the person lawfully entitled to possession of the vehicle, except where—in which case means the person who, but for the bailment or letting on hire, would be lawfully entitled to possession of the motor vehicle; and and have corresponding meanings
     (a) The motor vehicle is subject to a bailment that is for a period not exceeding 28 days; or
     (b) The motor vehicle is let on hire pursuant to the terms of a rental-service licence,—
   - **Participant** , in relation to the land transport system, means a person who does anything for which a land transport document is required
-  - **Passenger service** , , and have the same meanings as in section 2(1) of the Transport Services Licensing Act 1989
-  - **passenger service**
-  - **passenger service licence**
-  - **passenger service vehicle**
+  - **passenger service** —
+    (a) means—
+      (i) the carriage of passengers on any road for hire or reward by means of a motor vehicle; and
+      (ii) the carriage of passengers on any road, whether or not for hire or reward, by means of a large passenger service vehicle; and
+    (b) includes the carriage of passengers on any road—
+      (i) that involves a specific charge on passengers for transport, including part payments to cover fuel and donations (which are expected as a condition of carriage); or
+      (ii) by a person or an organisation that is funded by another person or organisation specifically for the provision of transport; or
+      (iii) in which the carriage of passengers is an integral part of, or reasonably necessary to provide, another service or activity (other than a transport service) for which payment is made
+      (iv) in which the carriage of passengers is made using the vehicle provided by one of the passengers and the driver is paid for the carriage; or
+      (v) that involves the letting on hire of a vehicle by a person who drives the vehicle or provides a driver for the vehicle if, during the hiring, the vehicle is used for the carriage of passengers; but
+    (c) does not include—
+      (i) private ambulance services provided by organisations primarily for their employees, being ambulance services that are available to the general public in an emergency only when public ambulance services cannot provide a service; or
+      (ii) any service using a vehicle that is specified as an exempt passenger service vehicle in the regulations or the rules; or
+      (iii) any service specified as an exempt passenger service in the regulations or the rules
+  - **passenger service licence** means a licence granted or deemed to be granted under subpart 3 of Part 4A that authorises its holder to carry on a passenger service
+  - **passenger service vehicle** —
+    (a) means a vehicle used or available for use in a passenger service for the carriage of passengers; but
+    (b) does not include—
+      (i) a vehicle designed or adapted to carry 12 or fewer persons (including the driver) provided by one of the passengers being carried; or
+      (ii) a vehicle specified as an exempt passenger service vehicle in the regulations or the rules
   - **Passive breath-testing device** means a passive breath-testing device of a kind approved by the Minister of Police, by notice in the Gazette
   - **Performance agreement**
   - **Positive evidential breath test** means an evidential breath test that indicates that the proportion of alcohol in the breath of the person who underwent the test,—and , in relation to an evidential breath test, has a corresponding meaning
@@ -196,12 +229,17 @@ _Consolidation as at 2007-09-20_
   - **Registered medical practitioner**
   - **Registered optometrist**
   - **The regulations** means regulations made under this Act and the regulations referred to in section 218
-  - **Rental service** and have the same meanings as they have in section 2(1) of the Transport Services Licensing Act 1989
-  - **rental service**
-  - **rental service licence**
-  - **rental service vehicle**
+  - **rental service** means the letting of a motor vehicle on hire for the carriage of passengers (including the driver) or of goods, or both, to a person who drives the vehicle or provides a driver for the vehicle; but does not include—
+    (a) the letting of a motor vehicle under a hire purchase agreement or a bailment that is for a period exceeding 6 months; or
+    (b) the hiring of trailers with a gross laden weight not exceeding 3 500 kg; or
+    (c) any service specified as an exempt rental service in the regulations or the rules
+  - **rental service licence** means a licence granted or deemed to be granted under subpart 3 of Part 4A that authorises its holder to carry on a rental service
+  - **rental service vehicle** means a vehicle used or available for use in a rental service for letting on hire for the carriage of passengers or goods, or both, to a person who drives the vehicle or provides a driver for the vehicle; but does not include a vehicle specified as an exempt vehicle in this Act or the regulations or the rules
   - **Responsible clinician** has the same meaning as it has in section 2(1) of the Mental Health (Compulsory Assessment and Treatment) Act 1992
-  - **rest time**
+  - **rest time** means all time that—
+    (a) is not work time; and
+    (b) is at least 30 minutes in duration; and
+    (c) is not spent in a moving vehicle associated with work
   - **Road** includes—
     (a) A street; and
     (b) A motorway; and
@@ -215,16 +253,21 @@ _Consolidation as at 2007-09-20_
   - **The rules** means the ordinary rules and emergency rules made under this Act and the rules referred to in section 220
   - **Science Minister** means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Foundation for Research, Science, and Technology Act 1990
   - **Secretary** means the chief executive of the Ministry
-  - **service**
+  - **service** , in Part 4A, includes—
+    (a) an operation carried out on 1 occasion only; and
+    (b) an operation carried out solely for the benefit of the persons carrying it out
   - **Service charter**
   - **Site** , in section 147, means a site where a dynamic axle weigher is used
-  - **small passenger service vehicle**
+  - **small passenger service vehicle** means any passenger service vehicle that is designed or adapted to carry 12 or fewer persons (including the driver)
   - **special vehicle lane** has the meaning given to it in clause 1.6 of the Land Transport (Road User) Rule 2004.
   - **Speed limit** means a speed limit set by or under this Act, the Transport Act 1962, the Local Government Act 1974, the Transit New Zealand Act 1989, or the rules
   - **Speeding offence** means an offence which consists solely of exceeding a speed limit
   - **Storage provider** means a person who stores vehicles impounded under this Act
-  - **taxi**
-  - **taxi service**
+  - **taxi** means a motor vehicle that is—
+    (a) a small passenger service vehicle; and
+    (b) fitted with a sign on its roof displaying the word taxi and any other signs required by the regulations or the rules; and
+    (c) in use or available for use for hire or reward for the carriage of passengers other than on defined routes
+  - **taxi service** means a passenger service carried on by means of a taxi or taxis
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002
   - **toll** has the same meaning as in section 5 of the Land Transport Management Act 2003
   - **toll offence** means an offence against section 54(1) of the Land Transport Management Act 2003.
@@ -238,12 +281,28 @@ _Consolidation as at 2007-09-20_
     (c) Marking or road surface treatment—
   - **Transit New Zealand**
   - **Transit** and mean the body corporate called Transit that is continued by section 75 of the Land Transport Management Act 2003.
-  - **Transport service** , , and have the same meanings as they have in section 2(1) of the Transport Services Licensing Act 1989
-  - **transport service**
-  - **transport service driver**
-  - **transport service licence**
-  - **transport service operator**
-  - **transport service vehicle**
+  - **transport service** —
+    (a) means any goods service, passenger service, rental service, or vehicle recovery service; but
+    (b) does not include—
+      (i) a rail service within the meaning of section 2(1) of the Transport Services Licensing Act 1989; and
+      (ii) any service specified as an exempt transport service in the regulations or the rules
+  - **transport service driver** means any person who is, or is from time to time, employed or engaged in driving a vehicle being used in a transport service other than a rental service, whether or not that person is licensed or required to hold a licence to drive such a vehicle
+  - **transport service licence** means any of the following licences granted or deemed to be granted under subpart 3 of Part 4A:
+    (a) a goods service licence:
+    (b) a passenger service licence:
+    (c) a rental service licence:
+    (d) a vehicle recovery service licence
+  - **transport service operator** means a person who carries on a transport service, whether or not that person employs personnel to assist in doing so on its behalf; but does not include those personnel
+  - **transport service vehicle** means any goods service vehicle, passenger service vehicle, rental service vehicle, or vehicle recovery service vehicle; but does not include—
+    (a) a rail service vehicle within the meaning of section 2(1) of the Transport Services Licensing Act 1989; or
+    (b) a vehicle running on self-laying tracks or rollers; or
+    (c) a vehicle that operates solely on or in areas to which the public does not have access as of right (whether or not that vehicle is used on a road in connection with that vehicle's inspection, servicing, or repair, or for the purposes of a practical driving test required under any enactment); or
+    (d) a vehicle used as a place of abode to the extent that it is not used in a rental service; or
+    (e) a vehicle listed as a farm vehicle in Part 1 of the Schedule to the Transit New Zealand (Apportionment and Refund of Excise Duty) Regulations 1998 or in any provisions made in substitution for that schedule; or
+    (f) a tractor (being a motor vehicle designed principally for traction at speeds not exceeding 50 km per hour; or
+    (g) a forklift (being a motor vehicle designed principally for lifting and stacking goods by means of 1 or more forks, tines, platens, or clamps); or
+    (h) a hearse; or
+    (i) a traction engine
   - **Unladen weight** , in relation to a vehicle, means the weight of the vehicle together with the fuel in its fuel system (if any) and the equipment and accessories on it that are necessary for its operation for the purpose for which it was designed
   - **unlicensed** , in relation to a driver, includes holding an expired licence
   - **Vehicle** —
@@ -260,15 +319,37 @@ _Consolidation as at 2007-09-20_
       (viii) a wheelchair not propelled by mechanical power:
       (ix) Any other contrivance specified by the rules not to be a vehicle for the purposes of this definition:
       (x) any rail vehicle:
-  - **Vehicle recovery service** , , and have the same meanings as they have in section 2(1) of the Transport Services Licensing Act 1989
-  - **vehicle recovery service**
-  - **vehicle recovery service licence**
-  - **vehicle recovery service vehicle**
+  - **vehicle recovery service** —
+    (a) means the towing or carrying on any road of a motor vehicle, irrespective of the size or design of the towing or carrying vehicle, and whether or not the towing or carrying of the vehicle is carried out by a person intending to carry out repairs on the vehicle; but
+    (b) does not include—
+      (i) the towing or carrying of any motorcycle or moped; or
+      (ii) the towing or carrying of one motor vehicle by another where—
+        (A) the towing or carrying is not carried out directly or indirectly for reward; and
+        (B) the towing or carrying vehicle is not designed or adapted for the purpose of towing or carrying motor vehicles; or
+      (iii) the towing or carrying of a vehicle by a person who owns the vehicle; or
+      (iv) the towing of disabled vehicles using a rope or flat tow by—
+        (A) a person employed by, or contracted to, a motoring association or insurance company where the towing is limited to removal of the vehicle to a place of safety; or
+        (B) the owner or employee of a garage or workshop who intends to carry out repairs to the vehicle; or
+      (v) the removal of vehicles by New Zealand Defence Force tow trucks at the request of an enforcement officer; or
+      (vi) routine towing services operated by New Zealand Defence Force personnel in areas where there is no suitable and available commercial towing service nearby; or
+      (vii) any service where the Director has provided the transport service operator with a written notice that—
+        (A) must be carried in the vehicle used in the service; and
+        (B) specifies that the nature of the service is such that the carriage of vehicles should be treated as the carriage of goods; or
+      (viii) any service specified as an exempt vehicle recovery service in the regulations or the rules
+  - **vehicle recovery service licence** means a licence granted or deemed to be granted under subpart 3 of Part 4A that authorises its holder to carry on a vehicle recovery service
+  - **vehicle recovery service vehicle** —
+    (a) means a vehicle used or available for use in a vehicle recovery service for towing or carrying on a road any motor vehicle; but
+    (b) does not include any vehicle specified as an exempt vehicle recovery service vehicle in the regulations or the rules
   - **Weight** ,—
     (a) In relation to a wheel, an axle, a group of axles, or a vehicle, means the weight, or, as the case may be, the sum of the weights, recorded or displayed on a weighing device of a type approved for the purpose by the Minister of Police, by notice in the Gazette, and used in a manner prescribed by the Minister of Police, by notice in the Gazette:
-    (b) In relation to the load on a vehicle, means the gross weight of the vehicle less its unladen weight.
-  - **work time**
-(1A)
+    (b) In relation to the load on a vehicle, means the gross weight of the vehicle less its unladen weight
+  - **work time** means all time spent performing work-related duties, including, but not limited to,—
+    (a) driving vehicles to which subpart 1 of Part 4B applies:
+    (b) loading and unloading:
+    (c) maintenance and cleaning of vehicles (other than unpaid cleaning outside working hours):
+    (d) administration or recording:
+    (e) any paid employment (other than paid leave or paid breaks of at least 30 minutes duration), whether or not related to transport activities.
+(1A) If a transport service includes the use of vehicles that are specified as exempt vehicles in the regulations or the rules, the operation of those vehicles is not to be treated as part of the operation of the service.
 (2) A notice given by any Minister in the Gazette for any purpose specified in subsection (1) or in section 75A(5), and a corresponding notice given under any former enactment and continued in force by this Act, is a regulation for the purposes of the Acts and Regulations Publication Act 1989 and may be amended from time to time, or revoked, by the responsible Minister in the same manner.
 (3) A notice under subsection (1) that is given by the Minister of Police in the Gazette for the purposes of approving a kind of device or a test may—
   (a) Define an approved device as a device that bears or is associated by its manufacturer with such trade name or number or other expression, or any combination of those things, as may be specified in the notice:
@@ -292,7 +373,7 @@ This Act binds the Crown.
 (1) A participant in the land transport system must ensure that the appropriate land transport documents and all the necessary qualifications and other documents are held by the participant.
 (2) A participant must comply with this Act, the relevant regulations and rules, and the conditions attached to the relevant land transport documents.
 (3) A participant, other than a rail participant, must ensure that the activities or functions for which the land transport document has been granted are carried out by the participant, and by all persons for whom the participant is responsible, safely and in accordance with the relevant prescribed safety standards and practices.
-(4) A person who applies for a land transport document that authorises the provision of a service within the land transport system must, if so required by the rules, satisfy the Director that the person is a fit and proper person; and the Director must determine whether a person is a fit and proper person for the purposes of this subsection in accordance with the provisions of section 24 of the Transport Services Licensing Act 1989, which applies with any necessary modifications.
+(4) A person who applies for a land transport document that authorises the provision of a service within the land transport system must, if so required by the rules, satisfy the Director that the person is a fit and proper person; and the Director must determine whether a person is a fit and proper person for the purposes of this subsection in accordance with subpart 2 of Part 4A, which applies with any necessary modifications.
 (5) A participant who holds a land transport document that authorises the provision of a service within the land transport system—
   (a) Must, if so required by the rules, establish and follow a safety management system that will ensure compliance with the relevant prescribed safety standards and the conditions attached to the document; and
   (b) Must provide training and supervision to all employees of the participant who are engaged in doing anything to which the document relates, so as to maintain compliance with the relevant prescribed safety standards and the conditions attached to the document and to promote safety; and
@@ -606,129 +687,339 @@ Despite section 28(1)(g) and (4), the date of issue of a driver licence continue
 ### Subpart 1 — Primary responsibilities of holders of transport service licences
 
 ### 30A Requirements for vehicles
-[Repealed]
+(1) A holder of a transport service licence must ensure that—
+  (a) every vehicle to be used in connection with the service is maintained in a fit and proper condition and that the requirements of any Act, regulation, or rule made for this purpose are met:
+  (b) no vehicle is used in connection with the service unless and until all fees payable in respect of the vehicle and the service under any Act, regulation, or bylaw have been duly paid or appropriate arrangements have been made for payment.
+(2) The holder of any transport service licence must, whenever required to do so by the Director, present for inspection any vehicle that is used in the service.
+(3) No evidence of vehicle inspection may be issued in respect of a transport service vehicle unless the person issuing the evidence of vehicle inspection has been notified of the transport service licence number under which the vehicle is being operated.
+(4) No person may use a transport service vehicle if that vehicle has suffered serious damage until the vehicle has been inspected and passed as being safe by a person authorised by the Director, or the owner of the vehicle has been informed by such a person that the vehicle is not to be inspected.
 
 ### 30B Provision of identification information in Braille
-[Repealed]
+The holder of a transport service licence under which a taxi is operated and the driver of that taxi must, in accordance with any regulations or rules, ensure that the following identification information is provided in Braille:
+  (a) the name of the approved taxi organisation; and
+  (b) the unique fleet number assigned to the taxi; and
+  (c) the approved taxi organisation's telephone number for complaints.
 
 ### Subpart 2 — Fit and proper person test
 
 **Assessment criteria**
 
 ### 30C General safety criteria
-[Repealed]
+(1) When assessing whether or not a person is a fit and proper person in relation to any transport service, the Director must consider, in particular, any matter that the Director considers should be taken into account—
+  (a) in the interests of public safety; or
+  (b) to ensure that the public is protected from serious or organised criminal activity.
+(2) For the purpose of determining whether or not a person is a fit and proper person for any of the purposes of this Part, the Director may consider, and may give any relative weight that the Director thinks fit having regard to the degree and nature of the person's involvement in any transport service, to the following matters:
+  (a) the person's criminal history (if any):
+  (b) any offending by the person in respect of transport-related offences (including any infringement offences):
+  (c) any history of serious behavioural problems:
+  (d) any complaints made in relation to any transport service provided or operated by the person or in which the person is involved, particularly complaints made by users of the service:
+  (e) any history of persistent failure to pay fines incurred by the person in respect of transport-related offences:
+  (f) any other matter that the Director considers it is appropriate in the public interest to take into account.
+(3) In determining whether or not a person is a fit and proper person for any of the purposes of this Part, the Director may consider—
+  (a) any conviction for an offence, whether or not—
+    (i) the conviction was in a New Zealand court; or
+    (ii) the offence was committed before the commencement of this Part or corresponding former enactment; or
+    (iii) the person incurred demerit points under this Act or a corresponding former enactment in respect of the conviction; and
+  (b) the fact that the person has been charged with any offence that is of such a nature that the public interest would seem to require that a person convicted of committing such an offence not be considered to be fit and proper for the purposes of this section.
+(4) Despite subsection (3), the Director may take into account any other matters and evidence as the Director considers relevant.
 
 ### 30D Additional criteria for small passenger service vehicles and vehicle recovery service
-[Repealed]
+Without in any way limiting the matters that the Director may consider under section 30C(2), when the Director is assessing whether or not a person is a fit and proper person in relation to any passenger service involving the use of small passenger service vehicles, or to any vehicle recovery service, the Director must consider, in particular,—
+  (a) any history of serious behavioural problems:
+  (b) any offending in respect of offences of violence, sexual offences, drugs offences, arms offences, or offences involving organised criminal activities:
+  (c) any offending in respect of major transport-related offences, particularly offences relating to safety or to road user charges:
+  (d) any persistent offending of any kind:
+  (e) any complaints in respect of the person or any transport service operated by the person that are of a persistent or serious nature.
 
 ### 30E Additional criteria for large passenger service vehicles
-[Repealed]
+Without in any way limiting the matters that the Director may have regard to under section 30C(2), when the Director is assessing whether or not a person is a fit and proper person in relation to any passenger service involving the use of large passenger service vehicles, the Director must consider, in particular,—
+  (a) any history of serious behavioural problems that indicate a propensity for violence:
+  (b) any offending in respect of offences of violence or sexual offences:
+  (c) any offending in respect of major transport-related offences, particularly offences relating to safety or to road user charges.
 
 ### 30F Additional criteria for goods service
-[Repealed]
+Without in any way limiting the matters that the Director may have regard to under section 30C(2), when the Director is assessing whether or not a person is a fit and proper person in relation to any goods service, the Director must consider, in particular,—
+  (a) any criminal activity conducted in the course of any transport service or transport-related business or employment:
+  (b) any offending in respect of major transport-related offences, particularly offences relating to safety or to road user charges.
 
 **Information requirements**
 
 ### 30G Director may require information for fit and proper person assessment
-[Repealed]
+The Director may, for the purpose of determining whether or not a person is a fit and proper person for any of the purposes of this Act,—
+  (a) seek and receive any information that the Director thinks fit; and
+  (b) consider information obtained from any source.
 
 ### 30H Director's duties concerning prejudicial information
-[Repealed]
+If the Director proposes to take into account any information that is or may be prejudicial to the person, the Director must, subject to section 30I(1) and to subpart 5, disclose that information to the person and, in accordance with subpart 5, give the person a reasonable opportunity to refute or comment on it.
 
 ### 30I Non-disclosure by Director of information for safety reasons
-[Repealed]
+(1) Nothing in section 30H requires the Director to disclose any information the disclosure of which would be likely to endanger the safety of any person.
+(2) If the Director determines not to disclose any information in reliance on subsection (1), the Director must inform the person of the fact of non-disclosure and,—
+  (a) in the case of non-disclosure to an individual of information about the individual,—
+    (i) inform the individual that he or she may, under the Privacy Act 1993, complain to the Privacy Commissioner about that non-disclosure; and
+    (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information has been withheld in reliance on section 27(1)(d) of that Act; and
+  (b) in any other case,—
+    (i) inform the person that the person may seek a review by an Ombudsman of that non-disclosure under the Official Information Act 1982; and
+    (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld in reliance on section 6(d) of that Act.
 
 ### Subpart 3 — Licensing of transport services
 
 ### 30J Transport service operators may not carry on certain transport services unless licensed to do so
-[Repealed]
+A transport service operator may not carry on any of the following transport services unless licensed to do so:
+  (a) goods service:
+  (b) passenger service:
+  (c) rental service:
+  (d) vehicle recovery service.
 
 ### 30K Application for transport service licence
-[Repealed]
+(1) Every application for a transport service licence must be—
+  (a) made in accordance with the regulations and the rules; and
+  (b) accompanied by the fee (if any) required by the regulations.
+(2) A person may not hold or apply for a transport service licence while he or she is disqualified under this Act or any other Act from holding or obtaining a transport service licence.
 
 ### 30L Grant of licence
-[Repealed]
+(1) After considering an application for a transport service licence, the Director may grant the licence only if the Director is satisfied that—
+  (a) the applicant is a fit and proper person to hold a transport service licence; and
+  (b) any person who is to have, or is likely to have, control or involvement in the operation of the transport service is a fit and proper person to have such control or involvement; and
+  (c) the applicant or any person who is to have control of the service is the holder of the appropriate certificate (if any) required by the regulations or the rules; and
+  (d) all relevant requirements of this Act, the regulations, and the rules have been complied with.
+(2) In determining whether or not a person is a fit and proper person to operate, control, or have an involvement in, a transport service, the Director must consider the matters specified in subpart 2.
+(3) Subpart 5 applies to a decision not to grant a transport service licence.
 
 ### 30M Conditions of transport service licences
-[Repealed]
+Despite section 30L(1) and (2), the Director may grant the licence on such conditions as the Director may specify on the licence or in writing to the holder if the applicant applies for a goods service licence and the Director—
+  (a) is not satisfied that the applicant is a fit and proper person to operate a goods service under the licence sought; but
+  (b) is satisfied that—
+    (i) the applicant is a fit and proper person to operate a goods service under a licence to carry the applicant's own goods, if specified conditions are imposed; and
+    (ii) the grant of such a licence is not contrary to the public interest.
 
 ### 30N Transfer, assignment, or lease of transport service licence prohibited
-[Repealed]
+(1) A transport service licence may not be transferred, leased, or assigned to any person.
+(2) Nothing in subsection (1) prevents the carrying on of a transport service under a transport service licence that was previously held by a deceased person or a person permanently mentally incapacitated, for a period not exceeding 6 months following the death or incapacitation of the person,—
+  (a) by the personal representative of the deceased or incapacitated person; or
+  (b) by any other person under an arrangement with the personal representative.
 
 ### 30O Term of transport service licence
-[Repealed]
+(1) A transport service licence takes effect on the day it is granted and continues in force until it is—
+  (a) surrendered under subsection (2); or
+  (b) deemed to be surrendered under subsection (3); or
+  (c) revoked under section 30S.
+(2) The holder of a transport service licence may surrender the transport service licence at any time by written notice to the Director.
+(3) If no vehicle has been operated under a transport service licence for a period of 2 years, the licence is deemed to have been surrendered.
+(4) No transport service licence for a transport service operated by any of the following may be suspended or revoked for any reason:
+  (a) the Armed Forces; or
+  (b) the Fire Services Commission; or
+  (c) the police; or
+  (d) any emergency service organisation approved by the Director for the purposes of this section.
 
 ### 30P Director may grant applications for approved taxi organisations
-[Repealed]
+(1) The Director may grant an application by a person or an organisation to be an approved taxi organisation.
+(2) An application by a person or organisation to be an approved taxi organisation must be made in accordance with the regulations or the rules.
+(3) An approved taxi organisation must comply with the requirements relating to an approved taxi organisation specified in the regulations or the rules.
+(4) A holder of a passenger service licence may not operate a taxi service under that licence unless the licence holder is a member of an approved taxi organisation.
 
 ### 30Q Circumstances in which Director must grant applications for approved taxi organisations
-[Repealed]
+(1) Despite section 30P(1), the Director must grant an application if the Director is satisfied that—
+  (a) the applicant is—
+    (i) a person who holds, or has made an application for, a passenger service licence; or
+    (ii) an organisation that represents operators of taxi services; and
+  (b) any person who will have, or is likely to have, control of the proposed taxi organisation is a fit and proper person, within the meaning of subpart 2, to have control of the proposed taxi organisation; and
+  (c) any person who will have, or is likely to have, control of the proposed taxi organisation holds the appropriate certificate (if any) required by the regulations or the rules; and
+  (d) the operating rules, rosters, and other internal operating procedures of the proposed taxi organisation are likely to provide adequate control over the proposed taxi organisation's members and their drivers; and
+  (e) the proposed taxi organisation's members and their drivers have the ability to meet the relevant requirements of the regulations and the rules; and
+  (f) the proposed taxi organisation is likely to be able to meet the relevant requirements of the regulations and the rules; and
+  (g) the signage of the proposed taxi organisation is sufficiently distinguishable from the signage of any other approved taxi organisation operating in the same area.
+(2) Approval of an application includes approval of the proposed operating rules for the proposed taxi organisation.
+(3) Subpart 5 applies to a decision not to grant an application.
 
 ### 30R Director may revoke approval
-[Repealed]
+(1) The Director may revoke any approval granted under section 30P(1) or section 30Q(1) if—
+  (a) the person or organisation has been convicted 3 times or more of an offence against this Act or the regulations; or
+  (b) the person or organisation no longer meets the criteria to be an approved taxi organisation; or
+  (c) the Director is satisfied that the person or organisation, or any person in control of the organisation,—
+    (i) is not a fit and proper person, within the meaning of subpart 2, to have control of an approved taxi organisation; or
+    (ii) is not a fit and proper person to have control of an approved taxi organisation because the drivers within that approved taxi organisation have failed to maintain, in accordance with the regulations or the rules,—
+      (A) an adequate area knowledge; or
+      (B) an appropriate ability to communicate in the English language; or
+    (iii) is unable to maintain adequate control over the activities of its members or their drivers in accordance with—
+      (A) the organisation's operating rules; and
+      (B) any relevant regulations or rules made under this Act.
+(2) Subpart 5 applies to a decision to revoke an approval.
 
 ### Subpart 4 — Revocation of transport service licences
 
 ### 30S When Director may revoke transport service licence
-[Repealed]
+(1) The Director may revoke a transport service licence if the Director is satisfied that—
+  (a) the holder of the transport service licence is not a fit and proper person to be the holder of a transport service licence; or
+  (b) any person having control of the service, or any person who has an involvement in the operation of the service, is not a fit and proper person to have control of, or be involved in, the operation of the service.
+(2) Subpart 5 applies to a decision to revoke a transport service licence.
 
 ### 30T Procedure Director must follow before revoking transport service licence
-[Repealed]
+If the proposed revocation of a licence under this section is on the ground that a person other than the licence holder is not a fit and proper person,—
+  (a) the notice required to be given to the licence holder by section 30W must specify the steps that the Director will require to be taken if the licence is not to be revoked, which steps may include a requirement that the person concerned cease all involvement in the service within a specified period; and
+  (b) the licence must not be revoked where the licence holder complies with any such requirements of the Director.
 
 ### 30U Suspension of transport service licence
-[Repealed]
+(1) If the holder of a transport service licence, or any person who has control of the service, does not hold a certificate required by the regulations or the rules, the Director may suspend the licence until the holder of the licence or the person who has control of the service is the holder of such a certificate.
+(2) Subject to subsection (1), any such suspension shall cease immediately upon the holder of the licence or any person having control of the service obtaining the appropriate certificate and notifying the Director accordingly.
+(3) Subpart 5 applies to a decision to suspend a transport service licence.
 
 ### Subpart 5 — Adverse decisions
 
 ### 30V Interpretation
-[Repealed]
+In sections 30W to 30Y, unless the context otherwise requires,—
+  - **adverse decision** means any decision of the Director—
+    (a) that a person is not a fit and proper person under subpart 2; or
+    (b) to refuse to grant—
+      (i) a transport service licence under section 30L; or
+      (ii) approval as an approved taxi organisation under section 30Q(1); or
+    (c) to grant a licence on conditions under section 30M; or
+    (d) to revoke—
+      (i) a transport service licence under section 30S; or
+      (ii) approval of an approved taxi organisation under section 30R(1); or
+    (e) to suspend—
+      (i) a transport service licence under section 30U; or
+      (ii) a transport service driver or other person under section 87D; or
+    (f) to disqualify—
+      (i) a transport service driver under section 87A; or
+      (ii) a transport service licence holder or person in control of a transport service under section 87B
+  - **affected licence holder** , in relation to any person directly affected by an adverse decision, means the holder of or the applicant for the transport service licence for the transport service in which that person has or is to have control or is or will be involved, whether as a driver or otherwise
+  - **person directly affected** , in relation to any adverse decision, means the person who would be entitled under section 106 to appeal against that adverse decision
+  - **person on the basis of whose character the adverse decision arises** , in relation to any adverse decision made or proposed to be made on the ground that any person is not a fit and proper person for the purposes of the relevant service, licence, or other matter to which the decision relates, means the person whom the Director assesses as not being a fit and proper person.
 
 ### 30W Director to notify proposal to make adverse decision
-[Repealed]
+(1) If the Director proposes to make an adverse decision under this Part in respect of any person, the Director must, by notice in writing,—
+  (a) notify the person directly affected of the proposed decision; and
+  (b) subject to subsection (3), inform that person of the grounds for the proposed decision; and
+  (c) specify a date by which submissions may be made to the Director in respect of the proposed decision (which date must not be less than 21 days after the date on which the notice is given); and
+  (d) if appropriate, specify the date on which the proposed decision will, unless the Director otherwise determines, take effect, being a date not earlier than 28 days after the date the notice is given; and
+  (e) notify the person of the person's right of appeal under section 106, in the event of the Director proceeding with the proposed decision; and
+  (f) specify such other matters as in any particular case may be required by this Act or any other Act.
+(2) If the Director gives a notice under subsection (1), the Director—
+  (a) must also supply a copy of the notice to—
+    (i) any person on the basis of whose character the adverse decision arises, where that person is not the person directly affected:
+    (ii) any affected licence holder, if the Director considers that the proposed adverse decision is likely to have a significant impact on the operations of that licence holder:
+  (b) may supply a copy of the notice to any other affected licence holder.
+(3) No notice or copy of a notice given under this section may include or be accompanied by any information referred to in section 30H except to the extent that—
+  (a) the notice or copy is supplied to the person to whom the information relates; or
+  (b) that person consents to the supply of that information to any other person.
 
 ### 30X Procedure for consideration of information
-[Repealed]
+If any notice or copy of a notice is given to any person under section 30W,—
+  (a) it is the responsibility of the person to ensure that all information that the person wishes to have considered by the Director in relation to the proposed adverse decision is received by the Director within the period specified in the notice under section 30W(1)(c), or within any further period that the Director may allow in any case:
+  (b) the Director may, but is not obliged to, consider any information supplied by the person after the expiry of the period referred to in paragraph (a), other than information requested by the Director and supplied by the person within such reasonable time as the Director may specify:
+  (c) the Director must consider any submissions made in accordance with paragraph (a), and any information supplied pursuant to a request referred to in paragraph (b), but is not obliged to hear any person on the matter.
 
 ### 30Y Director's determination
-[Repealed]
+After considering the matters referred to in section 30X(c), the Director must—
+  (a) finally determine whether or not to make the proposed adverse decision; and
+  (b) as soon as practicable thereafter, notify in writing to the person directly affected, and any other person of a kind referred to in section 30W(2)(a), of—
+    (i) the Director's decision; and
+    (ii) if appropriate, the date on which the decision will take effect; and
+    (iii) if appropriate, the right of appeal under section 106.
 
 ## Part 4B — Work time and logbooks
 
 ### 30Z Application of Part
-[Repealed]
+Nothing in this Part applies in respect of any rail service vehicle.
 
 ### 30ZA Director may grant exemptions or approve alternative fatigue management schemes
-[Repealed]
+(1) If the Director takes into account the criteria specified in section 166(2), the Director may, upon any conditions that he or she considers appropriate,—
+  (a) with respect to subpart 1, grant written variations to work time requirements specified in subpart 1 or the rules:
+  (b) with respect to subpart 2, grant partial or total written exemptions from some or all of the requirements to maintain logbooks:
+  (c) approve, in accordance with the rules, an alternative fatigue management scheme that varies the work time restrictions or rest time requirements of any rule for all drivers covered by the relevant transport service licence.
+(2) A variation or exemption granted, or an approval given under subsection (1), in relation to work time or logbooks may be amended or revoked at any time by the Director in writing.
+(3) The Director may revoke, by notice in writing, any exemption from logbook use granted under the rules if the Director has reason to believe that the person has breached the rules or any conditions imposed under subsection (1).
+(4) Before approving an alternative fatigue management scheme under subsection (1)(c), the Director must be satisfied that the applicant has consulted any representatives of the drivers covered by the relevant transport licence (including, but not limited to, unions).
 
 ### Subpart 1 — Work time
 
 ### 30ZB Application of subpart
-[Repealed]
+(1) This subpart applies if, in a cumulative work period,—
+  (a) a driver drives a vehicle that requires a class 2, 3, 4, or 5 licence (as specified in the rules); or
+  (b) a driver drives a vehicle that is used in—
+    (i) a transport service (other than a rental service); or
+    (ii) circumstances in which that vehicle must, or ought to, be operated under a transport service licence; or
+  (c) a driver drives a vehicle that is used to carry goods for hire or reward.
+(2) Despite subsection (1), this subpart—
+  (a) applies whether or not the vehicle is—
+    (i) engaged in any transport service; or
+    (ii) carrying any load or passengers; but
+  (b) does not apply to a driver of a goods service vehicle that—
+    (i) requires a class 1 or class 2 licence (as specified in the rules); and
+    (ii) is used within a 50 km radius of the vehicle's normal base of operation; and
+    (iii) is not used for hire or reward.
 
 ### 30ZC Limits on work time
-[Repealed]
+(1) No driver may work for a period of time that—
+  (a) exceeds the work time restrictions specified in this section, the rules, or any variation granted under section 30ZA; or
+  (b) fails to comply with the rest time requirements specified in this section, the rules, or any variation granted under section 30ZA.
+(2) In any cumulative work day, a driver—
+  (a) may not exceed 13 hours of work time; and
+  (b) must have at least 10 hours of continuous rest time.
+(3) No driver may, in any cumulative work period, exceed 70 hours of work time.
+(4) This section does not apply to a driver of an ambulance service, a fire brigade, or a rural fire party who is proceeding to or returning from an incident attended in response to a priority call specified in the rules.
 
 ### 30ZD Records must be kept
-[Repealed]
+(1) A person who employs a person to drive a vehicle referred to in section 30ZB, and any self-employed driver who drives a vehicle referred to in section 30ZB, must keep—
+  (a) time records, wage records, and other related employment records for the driver; and
+  (b) accommodation records and receipts for the driver that are relevant to the driver's transport service or transport service vehicle; and
+  (c) fuel records and receipts for the relevant transport service vehicles.
+(2) The person who keeps the records required under subsection (1) must—
+  (a) keep each record for 12 months from the date it is made; and
+  (b) make all relevant time records, fuel records and receipts, accommodation records and receipts, wage records, and other related employment records in the possession or control of that person available for immediate inspection on demand at any reasonable time by an enforcement officer.
+(3) Every enforcement officer to whom records are made available for inspection under subsection (2)(b) is entitled to make copies of those records.
 
 ### Subpart 2 — Logbooks
 
 ### 30ZE Application of subpart
-[Repealed]
+(1) This subpart applies if, in a cumulative work period,—
+  (a) a driver drives a vehicle that requires a class 2, 3, 4, or 5 licence (as specified in the rules); or
+  (b) a driver drives a vehicle that is used in—
+    (i) a transport service (other than a rental service); or
+    (ii) circumstances in which the vehicle must, or ought to, be operated under a transport service licence; or
+  (c) a driver drives a vehicle that is used to carry goods for hire or reward if that vehicle is a heavy motor vehicle.
+(2) Despite subsection (1), this subpart—
+  (a) applies whether or not the vehicle is—
+    (i) engaged in any transport service; or
+    (ii) carrying any load or passengers; but
+  (b) does not apply to a driver of a goods service vehicle that—
+    (i) requires a class 1 or class 2 licence (as specified in the rules); and
+    (ii) is used within a 50 km radius of the vehicle's normal base of operation; and
+    (iii) is not used for hire or reward.
 
 ### 30ZF Drivers must maintain logbooks
-[Repealed]
+Unless exempted under section 30ZA(1), the regulations, or the rules, a driver must maintain a logbook in the—
+  (a) manner prescribed by the rules; and
+  (b) form approved by the Director in accordance with the rules.
 
 ### 30ZG Director may approve or revoke alternative means of recording matters
-[Repealed]
+The Director may, in accordance with the rules, approve or revoke an alternative means of recording matters relevant to the monitoring of work time.
 
 ### 30ZH Duties regarding logbooks
-[Repealed]
+(1) A driver must—
+  (a) retain a logbook required to be maintained by that driver under section 30ZF for a period of 12 months after the date of the last entry in that logbook; and
+  (b) in the case of a driver who is an employee, deliver a copy of each completed logbook record to the driver's employer within 14 days after completing that record, and the employer must retain the copy of each logbook record for a period of 12 months from the date of the record.
+(2) A driver must—
+  (a) carry a logbook with him or her at all times when driving a vehicle to which section 30ZE applies; and
+  (b) produce, on demand by any enforcement officer and without delay, any logbook that—
+    (i) the driver is required to maintain; and
+    (ii) relates to—
+      (A) the day of the driver's last rest time of at least 24 hours; and
+      (B) all the days since that rest time.
+(3) If the form of the logbook required to be maintained under section 30ZF includes an identical copy made simultaneously with the original of that logbook, and the logbook has been produced to an enforcement officer, that enforcement officer is entitled, on demand,—
+  (a) to remove that identical copy; or
+  (b) if that identical copy has previously been removed or is illegible, to make a copy of that logbook.
+(4) A person who is required to retain a logbook or a copy of a logbook under subsection (1) must make it and all relevant time records, wage records, and other related employment records available for immediate inspection on demand by an enforcement officer at any reasonable time during the period for which it is required to be retained.
+(5) A person to whom a logbook or a copy of a logbook or records are required to be made available for inspection under subsection (4) is entitled to make a copy of that logbook or that copy or those records.
 
 ### Subpart 3 — Evidence in proceedings
 
 ### 30ZI Evidence in proceedings for offences against subpart 1 or subpart 2
-[Repealed]
+(1) In proceedings for an offence against subpart 1 or subpart 2, the following is sufficient evidence of the contents of a log-book, unless the contrary is proved by production to the Court of the logbook or of an identical copy of the logbook made simultaneously with the original logbook,—
+  (a) evidence given by an enforcement officer authorised to demand the production of logbooks under section 30ZH(2)(b), or by any person who had that status at the time when the alleged offence was committed, as to the contents of any logbook as seen and recorded by that person at the time it was produced; and
+  (b) an identical copy of any logbook removed, or a copy of any logbook made, by an enforcement officer in accordance with section 30ZH(3) or section 30ZH(4).
+(2) In any proceedings in respect of an offence against subpart 1 it is presumed, until the contrary is proved, that the contents of any logbook produced to an enforcement officer authorised to demand production of the logbook or removed by an enforcement officer from an accident scene where the driver is incapacitated are an accurate statement of the truth of the matter required to be recorded in the logbook by section 30ZF.
 
 ## Part 5 — Offences relating to driving (other than alcohol-related offences) and penalties
 
@@ -906,8 +1197,8 @@ A court may impose a fine for an infringement offence, other than an overloading
 
 ### 49 Contravention of section 97(5) or (6)
 (1) A person commits an offence if—
-  (a) The person, without reasonable excuse and acting without authority under this Act, removes or releases from storage a motor vehicle impounded under any of sections 96, 122, and 123; or
-  (b) The person is a storage provider and fails or refuses, without reasonable excuse, to comply immediately with a direction under this Act to release a vehicle impounded under any of sections 96, 122, and 123 to the owner or a person authorised by the owner.
+  (a) The person, without reasonable excuse and acting without authority under this Act, removes or releases from storage a motor vehicle impounded under any of sections 96, 96A, 122, and 123; or
+  (b) The person is a storage provider and fails or refuses, without reasonable excuse, to comply immediately with a direction under this Act to release a vehicle impounded under any of sections 96, 96A, 122, and 123 to the owner or a person authorised by the owner.
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $5,000.
 
 ### 50 Contravention of section 117(2)
@@ -1285,72 +1576,169 @@ If a certificate referred to in section 143 is produced in proceedings for an of
 ## Part 6A — Offences relating to transport services and penalties
 
 ### 79A Offence to carry on transport service without licence
-[Repealed]
+(1) A person commits an offence if the person carries on any transport service without the appropriate current licence.
+(2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $10,000.
+(3) A person who is convicted of a second or subsequent offence against subsection (1) is liable on summary conviction to a fine not exceeding $25,000 and the court may, if it thinks appropriate, order any or every vehicle used under the transport service to be immediately impounded and held at a location that the Director specifies, at the expense of the convicted person (which is in addition to the fine and any other costs (if any) ordered by the court), for a period specified by the court that does not exceed 90 days.
+(4) Any fees and charges incurred with respect to an impoundment under subsection (3) are recoverable from the convicted person by the vehicle recovery service operator or storage provider.
+(5) Nothing in subsection (4) limits or affects any rights against the owner of the vehicle, or in respect of the vehicle, that may be exercised by the vehicle recovery service operator or storage provider.
+(6) A person may not remove or release from storage an impounded motor vehicle, unless allowed to do so under this Act.
+(7) The storage provider must immediately comply with a direction under this Act to release the vehicle to the owner or a person authorised for the purpose by the owner.
+(8) The Director, or a person authorised for the purpose by the Director, may enter into such arrangements with vehicle recovery service operators and storage providers as he or she thinks necessary for the purposes of this section.
 
 ### 79B Provision of incorrect information
-[Repealed]
+A licence holder or person having control of a transport service who notifies the Director that the licence holder or person holds the appropriate certificate, knowing that the information is incorrect or being reckless as to whether or not it is correct, commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
 
 ### 79C Failure to present vehicle for inspection
-[Repealed]
+(1) A transport service licence holder commits an offence if he or she fails to present his or her transport service vehicle for inspection when required to do so by the Director.
+(2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $10,000.
 
 ### 79D Contravention of section 30K
-[Repealed]
+(1) A person commits an offence if the person applies for a transport service licence while disqualified from holding or obtaining a transport service licence.
+(2) If a person is convicted of an offence against subsection (1),—
+  (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
+  (b) the court must order the person to be disqualified from holding or obtaining a transport service licence for 6 months or more.
+(3) The imposition of a mandatory disqualification under this section is subject, with all necessary modifications, to the criteria specified in section 81.
 
 ### 79E Liability of persons who use unlicensed transport service
-[Repealed]
+(1) A person commits an offence if the person uses a transport service and knows or ought reasonably to know that, at the time the person used the transport service,—
+  (a) the operator of the transport service did not hold an appropriate transport service licence; or
+  (b) the operator of the transport service was disqualified from holding or obtaining a transport service licence; or
+  (c) the transport service licence of the operator was suspended or revoked.
+(2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $25,000.
 
 ### 79F Contravention of section 30M
-[Repealed]
+(1) A person who holds a goods service licence commits an offence if the person fails to comply with or contravenes any condition imposed in respect of the holder's licence under section 30M.
+(2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $10,000.
 
 ### 79G Contravention of section 87G
-[Repealed]
+(1) A person commits an offence if the person, having been prohibited under section 87G(1)(b) from driving a transport service vehicle, drives during the currency of the prohibition any vehicle being used in a transport service (other than a rental service) or a specified class of transport service.
+(2) A person commits an offence if the person, having been prohibited under section 87G(1)(c) from carrying out duties or activities of a driving instructor or testing officer, does so during the currency of the prohibition.
+(3) The maximum penalty on conviction for an offence against subsections (1) and (2) is a fine not exceeding $2,000 and disqualification from holding or obtaining a driver licence for such period (if any) as the court thinks fit.
+(4) A person commits an offence if the person applies for or obtains a driver licence, other than a driver licence that relates principally to the use of private motor vehicles, while the person is disqualified under section 87G(1)(a) from obtaining the licence.
+(5) The maximum penalty on conviction for an offence against subsection (4) is a fine not exceeding $500.
 
 ### 79H Contravention of section 128A
-[Repealed]
+(1) A person who holds a passenger service licence or a driver of a small passenger service vehicle commits an offence if the person or the driver acts in contravention of or fails to comply with any direction given by an enforcement officer under section 128A.
+(2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $2,000.
 
 ### 79I Contravention of section 128B
-[Repealed]
+(1) A person who holds a vehicle recovery service licence or a driver of a vehicle recovery service vehicle commits an offence if the person or the driver acts in contravention of or fails to comply with any direction given by an enforcement officer under section 128B.
+(2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $2,000.
 
 ### 79J Liability of employers and principal
-[Repealed]
+If an offence is committed against this Part by a person as the employee, agent, or contractor of another person, that offence must be treated as having been committed by both persons, whether or not it was done with the other person's knowledge or approval, if it is proved that—
+  (a) the other person—
+    (i) knew, or could reasonably be expected to have known, that the offence was to be, or was being, committed; and
+    (ii) failed to take the steps that were reasonably practicable to prevent the commission of the offence; and
+  (b) the other person failed to take the steps that were reasonable in the circumstances to remedy the effects of the act or omission that gave rise to the offence.
 
 ### 79K Liability of directors of bodies corporate
-[Repealed]
+If a body corporate is convicted of an offence against this Part, every director of the body corporate also commits the offence and is liable to the same penalty if it is proved that—
+  (a) the act or omission that constituted the offence took place with his or her express or implied authority; and
+  (b) he or she failed to take all reasonable steps to prevent or stop that act, or remedy that omission.
 
 ### 79L Court may require convicted transport service licence holder to sit examination
-[Repealed]
+The court may require a transport service licence holder to sit, or re-sit, the Certificate of Knowledge of Law and Practice examination if the transport service licence holder is convicted of—
+  (a) an offence under this Part or any regulations pertaining to the operation of a licensed transport service; or
+  (b) any other offence under this Act that is applicable to a vehicle used in a licensed transport service.
 
 ### 79M Penalties for failure to pay passenger service fares
-[Repealed]
+(1) A person who fails to pay a passenger service fare that he or she is liable to pay commits an infringement offence.
+(2) The maximum penalty, on summary conviction for an offence against subsection (1), is a fine not exceeding $500.
 
 ## Part 6B — Offences relating to work time and logbooks
 
 ### Subpart 1 — Work time
 
 ### 79N Failure to keep or produce records or comply with conditions of exemption or approval
-[Repealed]
+Every person commits an offence who fails or refuses to comply with any of the requirements of section 30ZD or the conditions of any exemption granted or approval given under section 30ZA(1)(a) or (c), and is liable on conviction,—
+  (a) in the case of a driver, to a fine not exceeding $2,000, and the person may, for a period of 1 calendar month or such greater period as the court thinks fit, be disqualified from holding or obtaining a licence to drive a vehicle that—
+    (i) requires a class 2, 3, 4, or 5 licence (as specified in the rules); and
+    (ii) is used in the relevant transport service; and
+    (iii) is used to carry goods for hire or reward; or
+  (b) in any other case, to a fine not exceeding $100,000.
 
 ### 79O Failure to comply with prescribed work time restrictions or rest time requirements
-[Repealed]
+Every person commits an offence who fails to comply with any work time restrictions or rest time requirements prescribed in this Act or the rules, and is liable on conviction to,—
+  (a) in the case of a person exceeding the work time restrictions or failing to comply with the rest time requirements by less than 60 minutes in a cumulative work day or less than 120 minutes in a cumulative work period, a fine not exceeding $2,000, and, as the court thinks fit,—
+    (i) the person may, for a period of 1 calendar month or any greater period that the court thinks fit, be disqualified from holding or obtaining a licence to drive a vehicle that—
+      (A) requires a class 2, 3, 4, or 5 licence (as specified in the rules); and
+      (B) is used in the relevant transport service; and
+      (C) is used to carry goods for hire or reward; or
+    (ii) the person must complete a work time and log-book course approved by the Director:
+  (b) in the case of a person exceeding the work time restrictions or failing to comply with the rest time requirements by 60 minutes or more in a cumulative work day, a fine not exceeding $2,000, and the person must, for a period of 1 calendar month or any greater period that the court thinks fit, be disqualified from holding or obtaining a licence to drive a vehicle that—
+    (i) requires a class 2, 3, 4, or 5 licence (as specified in the rules); and
+    (ii) is used in the relevant transport service; and
+    (iii) is used to carry goods for hire or reward; or
+  (c) in the case of a person exceeding the work time restrictions or failing to comply with the rest time requirements by 120 minutes or more in a cumulative work period, a fine not exceeding $2,000, and the person must, for a period of 1 calendar month or any greater period that the court thinks fit, be disqualified from holding or obtaining a licence to drive a vehicle that—
+    (i) requires a class 2, 3, 4, or 5 licence (as specified in the rules); and
+    (ii) is used in the relevant transport service; and
+    (iii) is used to carry goods for hire or reward.
 
 ### 79P Defences to work time offences
-[Repealed]
+(1) It is a defence in any proceedings for an offence under this subpart if the defendant proves that the failure to comply with subpart 1 of Part 4B was due to unavoidable delay in the completion of any journey arising out of—
+  (a) circumstances that could not reasonably have been foreseen by the defendant; or
+  (b) an emergency.
+(2) For the purposes of subsection (1), emergency means—
+  (a) a state of emergency declared under the Civil Defence Emergency Management Act 2002; or
+  (b) an incident attended by an emergency service; or
+  (c) an event requiring immediate action to save life or prevent serious injury.
 
 ### Subpart 2 — Logbooks
 
 ### 79Q Failure to discharge duties regarding logbooks
-[Repealed]
+Every person who fails or refuses to comply with any requirement of or demand made under section 30ZH commits an offence and is liable on conviction,—
+  (a) in the case of a driver, to a fine not exceeding $2,000, and the person may, for a period of 1 calendar month or any greater period that the court thinks fit, be disqualified from holding or obtaining a licence to drive a vehicle that—
+    (i) requires a class 2, 3, 4, or 5 licence as specified in the rules); and
+    (ii) is used in the relevant transport service; and
+    (iii) is—
+      (A) a heavy motor vehicle; and
+      (B) used to carry goods for hire or reward:
+  (b) in any other case, to a fine not exceeding $25,000.
 
 ### 79R Offences and proceedings concerning logbooks
-[Repealed]
+(1) Every person commits an offence who—
+  (a) maintains a logbook under section 30ZF while maintaining another logbook under that section; or
+  (b) makes or causes to be made any false statement in a logbook or allows any omission to occur in the logbook.
+(2) Every person commits an offence who, being the driver of a vehicle to which section 30ZF or section 30ZG applies,—
+  (a) on demand by an enforcement officer fails to produce without delay all logbooks that are so demanded; or
+  (b) on demand by an enforcement officer produces any logbook that is false in a material particular, whether or not the driver knows of the falsehood; or
+  (c) on demand by an enforcement officer produces any logbook—
+    (i) that omits a material particular, whether or not the driver knows of the omission; or
+    (ii) in which any material particular is entered illegibly or in such a manner that the matters specified in the rules cannot be readily ascertained.
+(3) Every person, not being the driver of the vehicle, commits an offence where the person requires, directs, or allows a vehicle to which section 30ZF or section 30ZG applies to be used and—
+  (a) a logbook is not maintained in respect of the driving of that vehicle, whether or not the person knows that a logbook is not maintained; or
+  (b) the logbook maintained in respect of the driving of that vehicle is false in a material particular, whether or not the person knows of the falsehood; or
+  (c) the logbook maintained in respect of the driving of that vehicle omits a material particular, whether or not the person knows of the omission.
+(4) Every person who commits an offence against this section is liable on conviction,—
+  (a) in the case of a driver to a fine not exceeding $2,000, and the person may, for a period of 1 calendar month or any greater period that the court thinks fit, be disqualified from holding or obtaining a licence to drive a vehicle that—
+    (i) requires a class 2, 3, 4, or 5 licence (as specified in the rules); and
+    (ii) is used in the relevant transport service; and
+    (iii) is—
+      (A) a heavy motor vehicle; and
+      (B) used to carry goods for hire or reward:
+  (b) in any other case, to a fine not exceeding $25,000.
 
 ### 79S Defences to logbook offences
-[Repealed]
+(1) It is a defence to a charge under section 79R(1) or section 79R(2) or section 79R(3) if the defendant proves that the proceedings relate to a motor vehicle or service or individual that has been exempted from the requirement to maintain a logbook under this Act, the rules, or regulations.
+(2) In the case of a defendant who was not the driver of the vehicle to which the charge relates, it is a defence to a charge under section 79R(1) or section 79R(3)(b) or section 79R(3)(c) if the defendant proves that—
+  (a) reasonable steps were taken by the defendant to prevent the false statement or material omission in the logbook; and
+  (b) as soon as reasonably practicable after the false statement or material omission was drawn to the person's attention by any enforcement officer authorised to demand the production of logbooks under section 30ZH(2), the person produced to the enforcement officer a logbook containing no false statement or material omission.
+(3) Except as provided in subsection (4), subsection (2) does not apply unless within 7 days after the service of the summons, or within such further time as the court may allow, the defendant has delivered to the prosecutor a written notice—
+  (a) stating that the defendant intends to rely on subsection (2); and
+  (b) specifying the reasonable steps that the defendant will claim to have taken.
+(4) In any proceedings relating to a charge to which subsection (2) applies, evidence that the defendant took a step not specified in the written notice required by subsection (3) is not, except with the leave of the court, admissible for the purpose of supporting a defence under subsection (2).
 
 ## Part 6C — Offences relating to chain of responsibility
 
 ### 79T Offence to cause or require driver to breach speed limits, maximum work time, or rest time requirements
-[Repealed]
+Every person commits an offence, and is liable on conviction to a fine not exceeding $25,000, who, by act or omission, directly or indirectly causes or requires (whether or not the sole cause) a driver to—
+  (a) exceed any applicable speed limit if that—
+    (i) person knew, or should have known, that the speed limit would be, or would likely be, exceeded; and
+    (ii) driver is a driver to whom subpart 1 of Part 4B applies; or
+  (b) exceed the maximum work time prescribed in this Act or the rules if that person knew, or should have known, that the maximum work time would be, or would likely be, exceeded; or
+  (c) fail to comply with the rest time requirements prescribed in this Act or the rules if that person knew, or should have known, that the rest time requirements would not be, or would likely not be, complied with; or
+  (d) fail to maintain a logbook in the prescribed manner if that person knew, or should have known, that the failure to maintain the logbook would contravene subpart 2 of Part 6B.
 
 ### 79U Offence to cause or require driver to breach maximum gross weight limits
 Every person commits an offence, and is liable on conviction to a fine not exceeding $25,000, who, by act or omission, directly or indirectly causes or requires (whether or not the sole cause) a driver to operate a vehicle or combination of vehicles in breach of the applicable maximum gross weight limits for that vehicle or combination of vehicles if that person knew, or should have known, that the breach would, or would be likely to, occur.
@@ -1364,8 +1752,8 @@ Every person commits an offence, and is liable on conviction to a fine not excee
 (2) The power conferred by subsection (1) is in addition to, and does not limit, any other powers of the court.
 
 ### 81 Provisions relating to mandatory disqualification
-(1) If any provision of this Act (other than section 63) requires a court to disqualify a person from holding or obtaining a driver licence for a period not less than the specified minimum period, the court must order that the person be disqualified accordingly unless for special reasons relating to the offence it thinks fit to order otherwise.
-(2) Nothing in any provision referred to in subsection (1) or in section 68 restricts any other duty or power of the court to disqualify a person from holding or obtaining a driver licence or to impose any other penalty.
+(1) If any provision of this Act (other than section 63) requires a court to disqualify a person from holding or obtaining a driver licence or transport service licence for a period not less than the specified minimum period, the court must order that the person be disqualified accordingly unless for special reasons relating to the offence it thinks fit to order otherwise.
+(2) Nothing in any provision referred to in subsection (1) or in section 65 restricts any other duty or power of the court to disqualify a person from holding or obtaining a driver licence or transport service licence or to impose any other penalty.
 (3) This section is subject to section 94 (which relates to community-based sentences).
 
 ### 82 Effect of disqualification
@@ -1414,29 +1802,49 @@ Every person commits an offence, and is liable on conviction to a fine not excee
 **Disqualification of transport service driver and other persons**
 
 ### 87A Disqualification of transport service driver
-[Repealed]
+If the Director is satisfied that a transport service driver is not a fit and proper person within the meaning of subpart 2 of Part 4A to drive a transport service vehicle, the Director may disqualify that person, for a period not exceeding 10 years, from driving any vehicle being used in a transport service (other than a rental service) or a specified class of transport service.
 
 ### 87B Disqualification of holder of transport service licence from holding transport service licence
-[Repealed]
+If the Director revokes a transport service licence, the Director may disqualify, for a period not exceeding 10 years, the holder of the transport service licence, or any other person who was in control of or involved in the transport service and whose fitness and propriety was the basis of, or contributed to, a decision to revoke the transport service licence, from—
+  (a) holding or obtaining a transport service licence:
+  (b) having any form of control of a transport service.
 
 ### 87C Procedure for disqualifying person under section 87A or section 87B
-[Repealed]
+Subpart 5 of Part 4A applies to a decision to disqualify a person under section 87A or section 87B.
 
 **Suspension of transport service driver and other persons**
 
 ### 87D Immediate suspension of transport service driver and other persons in interests of public safety
-[Repealed]
+(1) If the circumstances described in subsection (2) apply, the Director may, by notice in writing to the person concerned, suspend that person from—
+  (a) driving any vehicle used in a transport service (other than a rental service) or a specified class of transport service:
+  (b) being a driving instructor or testing officer, as the case may be.
+(2) The circumstances referred to in subsection (1) are—
+  (a) the Director considers that—
+    (i) the person concerned is not a fit and proper person within the meaning of subpart 2 of Part 4A to drive a transport service vehicle or to be a driving instructor or testing officer, as the case may be; and
+    (ii) the interests of public safety, or the need to ensure that the public is protected from serious or organised criminal activity, would seem to require immediate suspension of the person as a transport service driver, driving instructor, or testing officer, as the case may be; or
+  (b) the person has been charged with any offence that is of such a nature that the interests of public safety, or the need to protect the public against serious or organised criminal activity, would require that a person convicted of committing such an offence not be a transport service driver, or driving instructor, or testing officer, as the case may be.
+(3) In this section and sections 87E and 87F,—
+  - **driving instructor** means a person who holds a driving instructor endorsement under Part 5 of the Land Transport (Driver Licensing) Rule 1999
+  - **testing officer** means a person who holds a testing officer endorsement under Part 5 of the Land Transport (Driver Licensing) Rule 1999.
 
 ### 87E Procedure for suspending a person under section 87D
-[Repealed]
+Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D.
 
 ### 87F Term of suspension
-[Repealed]
+(1) A suspension under section 87D may take effect either immediately or from any date that the Director may specify.
+(2) The Director may at any time withdraw a suspension imposed under section 87D.
+(3) If any suspension has been imposed in respect of a person to whom section 87D(2)(b) applies, the suspension ceases immediately if—
+  (a) the charge is withdrawn in circumstances where it is not replaced with another charge based on the same circumstances; or
+  (b) the person is found not guilty of the offence charged.
 
 **Effect of disqualification or suspension of transport service driver and other persons**
 
 ### 87G Effect of disqualification or suspension of transport service driver and other persons
-[Repealed]
+(1) If the Director disqualifies or suspends any person from driving a transport service vehicle or being a driving instructor or testing officer under either section 87A or section 87D, the Director may, for the period of the disqualification or suspension,—
+  (a) revoke or suspend any driver licence held by the person, not being a licence of a class that relates principally to the use of private motor vehicles, and disqualify the person from holding or obtaining any such licence; and
+  (b) prohibit the person from driving any vehicle used in a transport service (other than a rental service vehicle) or a specified class of transport service, even though the person may obtain or continue to hold a driver licence of a class that, although it relates principally to the use of private motor vehicles, also entitles the person to drive a transport service vehicle; and
+  (c) prohibit the person from carrying out duties or activities as a driving instructor or testing officer.
+(2) Nothing in this section or in any of sections 87A to 87F derogates from or affects any power of the Director under this Act, the regulations, or the rules, to revoke, suspend, or otherwise deal with any driver licence.
 
 **Demerit points system**
 
@@ -1509,7 +1917,7 @@ Every person commits an offence, and is liable on conviction to a fine not excee
   (a) The court must impose a community-based sentence on the offender; and
   (b) The imposition of such a sentence does not limit or affect the power of the court to impose any other sentence for the offence that, in accordance with the provisions of the Sentencing Act 2002, it may impose in addition to the community-based sentence; and
   (c) In determining the appropriate sentence to be imposed on the offender in respect of the offence, the court must take into account the gravity of the offence and the fact that the offender would otherwise have been liable to disqualification from holding or obtaining a driver licence.
-(3A) For the purposes of subsection (3)(a), the court may impose a sentence of supervision as a community-based sentence if—
+(3A) For the purposes of subsection (3)(a), the court may impose a sentence of supervision or intensive supervision as a community-based sentence if—
   (a) that sentence is appropriate; and
   (b) a suitable programme is available; and
   (c) the offender attends a suitable programme.
@@ -1606,7 +2014,32 @@ Every person commits an offence, and is liable on conviction to a fine not excee
 (9) Nothing in subsection (1A) applies to a person operating a motor vehicle in a manner that is authorised by law within the meaning of section 22A(4).
 
 ### 96A Impoundment of vehicle used in transport service
-[Repealed]
+(1) An enforcement officer must seize and impound, or seize and authorise the impoundment of, a motor vehicle that is being used in a transport service for 28 days if the officer believes on reasonable grounds that a person drove the vehicle on a road while—
+  (a) the transport service operator was disqualified from holding or obtaining a transport service licence; or
+  (b) the transport service operator's transport service licence was suspended or revoked; or
+  (c) the transport service operator—
+    (i) does not hold a transport service licence; and
+    (ii) has previously been forbidden to operate a transport service.
+(2) An enforcement officer who seizes and impounds (or authorises the impoundment of) a vehicle under this section must—
+  (a) complete a notice in the prescribed form, or in a form to the same effect, acknowledging the seizure and impoundment, and setting out (if the particulars are reasonably ascertainable)—
+    (i) the name and address of the driver; and
+    (ii) the name and address of the transport service operator, if different from the driver; and
+    (iii) the year of manufacture and make of the vehicle, and its registration plate details or vehicle identification number; and
+    (iv) the date and time of the seizure; and
+    (v) the place where the vehicle is to be impounded; and
+    (vi) an outline of the person's rights of appeal under sections 102 and 110; and
+  (b) give the driver a copy of the notice, unless the driver has left the scene; and
+  (c) give the registered owner of the vehicle a copy of the notice, if the registered owner is present at the time of the seizure, or as soon as practicable send a copy to the registered owner by ordinary post to the registered owner's last known place of residence or business or postal address, or address as recorded on the Motor Vehicle Register; and
+  (d) cause a copy of the notice to be given to the storage provider who stores the motor vehicle; and
+  (e) retain a copy of the notice for 12 months.
+(3) The owner of an impounded vehicle has the rights of appeal provided in sections 102 and 110.
+(4) Personal property (other than property attached to or used in connection with the operation of the vehicle) present in a motor vehicle at the time of the seizure and impoundment must be released on request to a person who produces satisfactory evidence to the effect that he or she was lawfully entitled to possession of the vehicle or personal property immediately before the vehicle was moved; and goods present in a motor vehicle at the time of the seizure and impoundment must be released subsequently to a person acting on behalf of the owner of the goods if the person produces satisfactory evidence of the owner's consent to such release.
+(5) An enforcement officer does not have to seize or impound a motor vehicle if the officer has good cause to suspect that the vehicle is a stolen vehicle or had been converted, is a write-off, or has suffered severe damage.
+(6) A vehicle to which a notice under this section relates must be released to the owner if—
+  (a) the Director or the police have decided finally that proceedings will not be taken against the transport service operator or the person who drove the vehicle in circumstances referred to in subsection (1) or such proceedings have been taken and the person is acquitted; and
+  (b) the vehicle has not already been released.
+(7) Nothing in subsection (1) authorises the seizure or impoundment of a trailer or any other vehicle without motive power that is being towed by or is attached to a motor vehicle.
+(8) Sections 97 and 98 apply, with any necessary modifications, to a motor vehicle used in a transport service that is impounded under this section.
 
 ### 97 Storage of impounded vehicles
 (1) A motor vehicle seized and impounded under section 96 must be stored where the enforcement officer directs.
@@ -1694,15 +2127,18 @@ Every person commits an offence, and is liable on conviction to a fine not excee
 (5) The Director may refuse to consider an appeal under this section if satisfied that the appeal is frivolous or vexatious, or that the appellant has provided insufficient information.
 
 ### 102 Appeal to Police against impoundment of vehicle
-(1) An owner whose motor vehicle has been seized and impounded under section 96 may appeal to the Police against the seizure and impoundment on the grounds that—
+(1) An owner whose motor vehicle has been seized and impounded under section 96 or section 96A may appeal to the Police against the seizure and impoundment on the grounds that—
   (a) The impounded vehicle was a stolen or converted vehicle at the time of the seizure and impoundment; or
-  (b) The enforcement officer who seized the vehicle did not have reasonable grounds of belief as required by section 96 or did not comply with the notice requirements in subsection (2) of that section; or
+  (b) The enforcement officer who seized the vehicle did not have reasonable grounds of belief as required by section 96 or section 96A or did not comply with the notice requirements in subsection (2) of those sections; or
   (c) The owner did not know and could not reasonably have been expected to know that the driver was not permitted to drive; or
   (d) The owner took all reasonable steps to prevent the driver from driving the vehicle; or
   (e) The driver drove the vehicle in a serious medical emergency (which for the purpose of this paragraph includes carrying a person who is about to give birth); or
   (f) if section 96(1A) applies, the owner did not know and could not reasonably be expected to know that the operator of the vehicle would contravene section 22A(1) or (3) (whichever applies); or
-  (g) if section 96(1A) applies, the owner took all reasonable steps to prevent the operator of the vehicle from contravening section 22A(1) or (3) (whichever applies).
-  (h)
+  (g) if section 96(1A) applies, the owner took all reasonable steps to prevent the operator of the vehicle from contravening section 22A(1) or (3) (whichever applies); or
+  (h) if section 96A applies, the owner did not know, and could not reasonably have been expected to know, that the operator of the transport service in which the vehicle was being used—
+    (i) was disqualified from holding a transport service licence; or
+    (ii) had the relevant transport service licence suspended or revoked; or
+    (iii) did not hold a transport service licence and had previously been forbidden to operate a transport service.
 (2) An appeal under this section must be set out in a statutory declaration.
 (3) An enforcement officer authorised for the purpose by the Commissioner may hear and determine the appeal, and, if satisfied that a ground referred to in subsection (1) has been established,-
   (a) the authorised officer must direct that the vehicle be released immediately to the owner or a person authorised by the owner; and
@@ -1817,13 +2253,18 @@ Every person commits an offence, and is liable on conviction to a fine not excee
 (1) Every appeal under this Act to a District Court must be brought, by way of originating application, not later than 28 days after the date on which the appellant was notified of the decision appealed against, or within such further period as the District Court may allow.
 (2) In dealing with an appeal under this Act, a District Court may hear all evidence tendered and representations made by or on behalf of any party to the appeal that the court considers relevant to the appeal, whether or not that evidence would be otherwise admissible in that court.
 (3) Every such appeal must be made and determined in accordance with the District Courts Act 1947 and the rules of court made under that Act, but the application of that Act and those rules is subject to the other provisions of this section.
-(4) Subject to section 107, the decision of the District Court on any appeal under this Act is final.
+(4) Subject to sections 107, 111A, and 111B, the decision of the District Court on any appeal under this Act is final.
 
 ### 111A Appeal to High Court on question of law
-[Repealed]
+(1) A party to an appeal under section 106 who is dissatisfied with the decision of the District Court on the grounds that it is erroneous in law may appeal to the High Court on that question of law.
+(2) An appeal under this section must be heard and determined in accordance with the rules of the High Court.
 
 ### 111B Further appeal to Court of Appeal
-[Repealed]
+(1) This section applies to appeals under this Act with respect to the offences specified in Part 6A.
+(2) If this section applies, a party to an appeal who is dissatisfied with the decision of the High Court in respect of the appeal as being erroneous in law may, with the leave of the High Court or (if that leave is declined) with special leave of the Court of Appeal, appeal to the Court of Appeal on that question of law.
+(3) The Court of Appeal may make any order or determination that it thinks fit in relation to the appeal.
+(4) The decision of the Court of Appeal on an appeal or any application for leave to appeal is final.
+(5) Except as provided in this section, the procedures in respect of an appeal under this section must be in accordance with the ordinary rules of court.
 
 **Demerit points**
 
@@ -1852,15 +2293,16 @@ Every person commits an offence, and is liable on conviction to a fine not excee
     (i) Enter, or authorise another person to enter, the vehicle for the purpose of moving it or preparing it for movement; and
     (ii) Move, or authorise another person to move, the vehicle to a place where it does not constitute a traffic hazard:
   (d) Direct the driver or person in charge of a vehicle on a road to remove the vehicle from the road or a specified part of a road, if the officer believes on reasonable grounds that it causes an obstruction in the road or to a vehicle entrance to any property or its removal is desirable in the interests of road safety or for the convenience or in the interests of the public:
-  (e) Forbid an unlicensed driver to drive a motor vehicle.
-  (f)
+  (e) Forbid an unlicensed driver to drive a motor vehicle:
+  (f) forbid a person who is operating a transport service without a licence to operate that transport service.
 (3) An enforcement officer in uniform or wearing a distinctive cap, hat, or helmet, with a badge of authority affixed to it, who is for the time being engaged in the regulation of traffic on a road, may—
   (a) Direct a person using a vehicle or riding or driving an animal on the road to stop the vehicle or animal, as the case may be, or to cause it to proceed in or keep to a particular line of traffic or direction:
   (b) Direct a pedestrian not to proceed across the road in contravention of a direction to stop given by the enforcement officer (whether given to pedestrians or to pedestrians and other traffic).
 (4) In paragraphs (c) and (d) of subsection (2), road includes any land vested in or under the control of the Crown or any local authority.
 
 ### 113A Power to inspect records
-[Repealed]
+(1) For the purpose of ascertaining whether this Act has been or is being complied with by any person to whom this Act applies, any enforcement officer in uniform or in possession of a warrant or other evidence of his or her authority as an enforcement officer may require that person to produce without delay for inspection all relevant books or records in that person's possession or over which that person has control, including (but not limited to) logbooks, records associated with logbooks, financial records relating to expenditure on fuel, invoices, vehicle maintenance records, depreciation records for vehicles, time and wage records, and waybills.
+(2) The enforcement officer may take extracts from or make copies of any books or records so produced.
 
 ### 114 Power to require driver to stop and give name and address, etc
 (1) An enforcement officer who is in uniform, or wearing a distinctive cap, hat, or helmet, with a badge of authority affixed to it, may signal or request the driver of a vehicle to stop the vehicle as soon as is practicable.
@@ -1912,13 +2354,13 @@ Every person commits an offence, and is liable on conviction to a fine not excee
   (a) Has possession of a vehicle as a result of its being moved under section 113(2)(c); and
   (b) When requested at a reasonable time to do so by a person who produces satisfactory evidence to the effect that he or she was lawfully entitled to possession of the vehicle immediately before it was moved,—
 
-### 118 Owner or hirer to give information as to identity of driver or passenger
+### 118 Owner or hirer or licence holder to give information as to identity of driver or passenger
 (1) If an enforcement officer has reasonable cause to believe that the driver of a vehicle has committed an offence while in charge of the vehicle, the officer may request the owner or hirer of the vehicle to give all information in his or her possession or obtainable by him or her which may lead to the identification and apprehension of the driver of the vehicle.
 (2) If an enforcement officer has reasonable cause to believe that a passenger of a vehicle has committed an offence in or through the use of the vehicle where that use relates to the commission of the offence or the aiding of the commission of the offence or the assisting of that passenger to avoid arrest in connection with or conviction for that offence, the officer may request the owner or hirer of the vehicle to give all information which may lead to the identification and apprehension of the passenger.
-(3) A request under subsection (1) or subsection (2) may be made orally or in writing and the owner or hirer (as the case may be) must comply with the request within 14 days.
+(3) A request under subsection (1) or subsection (2) or subsection (6) may be made orally or in writing and the owner or hirer or licence holder (as the case may be) must comply with the request within 14 days.
 (4) If a vehicle has been used to flee a Police pursuit, an enforcement officer may request the owner of the vehicle to give all information in his or her possession or obtainable by him or her which may lead to the identification and apprehension of the driver, and the owner must give the officer that information immediately.
 (5) Subsection (4) does not apply if the owner has been arrested or detained in relation to the suspected offence.
-(6)
+(6) If the holder of a transport service licence employs any person to drive a vehicle under that licence, the licence holder, on being informed of any offence alleged to have been committed by that person or by a person driving a vehicle being used under the licence, and on being requested to do so by an enforcement officer, must supply in writing the full name and address of the driver.
 
 **Powers of entry, arrest, immobilisation, and impoundment**
 
@@ -1931,13 +2373,13 @@ Every person commits an offence, and is liable on conviction to a fine not excee
 (2) The enforcement officer may, without warrant, in the course of the pursuit enter, by force if necessary, any premises which the person has entered, for either or both of the following purposes:
   (a) Determining whether or not a power conferred on an enforcement officer by section 68 or section 69 should be exercised in respect of that person:
   (b) Exercising or completing the exercise of any such power in respect of that person (as if the person were in a motor vehicle on a road).
-(3) An enforcement officer may without warrant enter, by force if necessary, a building or place where a vehicle to which section 96 or section 123 applies is being stored or kept, and seize and impound the vehicle, if—
+(3) An enforcement officer may without warrant enter, by force if necessary, a building or place where a vehicle to which section 96 or section 96A or section 123 applies is being stored or kept, and seize and impound the vehicle, if—
   (a) An enforcement officer has been freshly pursuing the vehicle; or
   (b) It is likely that a person was about to remove, conceal, destroy, or dispose of the vehicle; or
   (c) An enforcement officer suspects on reasonable grounds that the vehicle was about to be used in the commission of a crime; or
   (d) Because of the time of the day or the locality, it was impracticable to obtain a warrant without creating an opportunity for the person to do any thing referred to in paragraph (b) or subparagraph (c).
-(4) For the purposes of seizing and impounding a vehicle under section 96 or section 123 in any case where subsection (3) does not apply, an enforcement officer may enter a building or place where a vehicle to which that section applies is being stored or kept only with the consent of the occupier or under a warrant issued under subsection (5) of this section.
-(5) An enforcement officer may apply on oath to a District Court Judge for a warrant to enter a place referred to in subsection (4) and, if satisfied that there is reasonable ground for believing that a vehicle to which section 96 or section 123 applies is being stored or kept in the building or place, the Judge may issue a warrant authorising an enforcement officer to enter, by force if necessary, any part of the building or place, and seize and impound the vehicle.
+(4) For the purposes of seizing and impounding a vehicle under section 96 or section 96A or section 123 in any case where subsection (3) does not apply, an enforcement officer may enter a building or place where a vehicle to which that section applies is being stored or kept only with the consent of the occupier or under a warrant issued under subsection (5) of this section.
+(5) An enforcement officer may apply on oath to a District Court Judge for a warrant to enter a place referred to in subsection (4) and, if satisfied that there is reasonable ground for believing that a vehicle to which section 96 or section 96A or section 123 applies is being stored or kept in the building or place, the Judge may issue a warrant authorising an enforcement officer to enter, by force if necessary, any part of the building or place, and seize and impound the vehicle.
 (6) It is the duty of every enforcement officer exercising a power conferred by subsection (2) or subsection (3) or under subsection (5)—
   (a) To identify himself or herself as an enforcement officer to the pursued person and to the occupant of the premises entered; and
   (b) To tell the pursued person and the occupant of the premises entered that the power of entry is being exercised under this section; and
@@ -1957,7 +2399,7 @@ Every person commits an offence, and is liable on conviction to a fine not excee
 (1) An enforcement officer may exercise all or any of the powers conferred by subsection (2) if he or she believes on reasonable grounds that—
   (a) Either—
     (i) A person who is for the time being in charge of a motor vehicle is, because of his or her physical or mental condition (however arising), incapable of having proper control of the vehicle; or
-    (ii) The requirements of any enactment concerning driving hours are not being complied with; and
+    (ii) The requirements of any enactment concerning work time or rest time are not being complied with; and
   (b) In all the circumstances, the direction or prohibition or action is necessary in the interests of that person or of any other person or of the public.
 (2) The enforcement officer may—
   (a) Forbid that person to drive a motor vehicle for such period as the enforcement officer specifies:
@@ -2033,10 +2475,10 @@ An enforcement officer may, at a reasonable time, exercise all or any of the fol
   (b) The vehicle be moved to a place of safety approved by the officer and be kept stopped at that place—
 
 ### 128A Enforcement officer's powers in respect of non-complying small passenger service vehicles
-[Repealed]
+An enforcement officer who is in uniform or who produces evidence of identity as an enforcement officer may direct the driver of any small passenger service vehicle that is not in compliance with section 30B or any rule or regulation to cease making the vehicle available for hire and to remove the vehicle from any designated stand until such time as the vehicle is in compliance with the regulations or the rules.
 
 ### 128B Enforcement officer's powers in respect of non-complying vehicle recovery service vehicles
-[Repealed]
+Any enforcement officer who is in uniform or who produces evidence of identity as an enforcement officer may direct the driver of any vehicle recovery service vehicle that is not in compliance with any rule or regulation to cease making the vehicle available for towing or carrying until such time as the vehicle is in compliance with the rules or regulations.
 
 **Dangerous goods**
 
@@ -2127,8 +2569,8 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
 
 ### 135 Offences punishable summarily
 (1) Offences against this Act are punishable on summary conviction except where this Act otherwise provides.
-(1A)
-(1B)
+(1A) Every information for an offence against Part 6A or Part 6B must be laid by the Director or an enforcement officer.
+(1B) In the absence of proof to the contrary it is presumed that every information for an offence against Part 6A or Part 6B has been laid by a person authorised to do so under subsection (1A).
 (2) A District Court presided over by 2 or more Justices of the Peace or 1 or more Community Magistrates has jurisdiction in respect of any summary offence under Part 5 or Part 6, or under any regulations made under this Act (other than regulations relating to heavy motor vehicles), that is not punishable by imprisonment.
 
 ### 136 Time for instituting proceedings
@@ -2136,10 +2578,10 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
 (2) If a delay in instituting the proceedings has been caused by a change in the address of the defendant, the delay is not an unreasonable delay for the purposes of this section.
 (3) Section 14 of the Summary Proceedings Act 1957 does not apply to a prosecution for—
   (a) An offence against section 32 involving driving while disqualified or contrary to the conditions of a licence or limited licence; or
-  (b) An offence against this Act or the Transport Act 1962 concerning—
-    (i) Driving hours; or
-    (ii) The keeping of logbooks by certain drivers; or
-    (iii) The issue of installation certificates and inspection certificates for alternative fuel systems.
+  (b) an offence against this Act concerning—
+    (i) work time under subpart 1 of Part 6B; or
+    (ii) logbooks under subpart 2 of Part 6B; or
+    (iii) the issue of installation certificates and inspection certificates for alternative fuel systems.
 
 **Certain matters not defences**
 
@@ -2231,7 +2673,11 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
 (2) The production in proceedings for a moving vehicle offence of an image purporting to be an image referred to in subsection (1) is, in the absence of proof to the contrary, sufficient evidence that the image was produced by means of an exposure taken by approved vehicle surveillance equipment.
 
 ### 145A Evidence and proof
-[Repealed]
+In any proceedings for an offence against Part 6A,—
+  (a) if it is proved that passengers or goods were carried in or on any motor vehicle, the passengers or goods are deemed to have been carried in such a manner as to bring the motor vehicle under the requirements of this Act unless the defendant satisfies the court to the contrary:
+  (b) evidence of the contents of the register maintained under section 199A may be given by a certificate signed by the Director or any officer of the Authority authorised for that purpose by the Director; and every such certificate is sufficient evidence of the matters stated in it, until the contrary is proved:
+  (c) the production of a certificate signed by the Director or by an officer of the Authority authorised for that purpose by the Director to the effect that on a specified date a person was or was not the holder of any transport service licence or any specified type of transport service licence is sufficient evidence of the matter certified, until the contrary is proved:
+  (d) it is to be presumed that every certificate purporting to have been certified or given under this section has been certified or given by the Director or by an officer of the Authority authorised by the Director to certify documents or give certificates under this section, until the contrary is proved.
 
 ### 146 Evidence of testing and accuracy of speed-measuring devices, etc
 (1) In proceedings for a speeding offence against any bylaws or enactment, any other offence against this Act, or an offence against the Road User Charges Act 1977, the production of a certificate (or a document purporting to be a copy of the certificate) purporting to be signed by a sworn or non-sworn member of the Police authorised for the purpose by the Commissioner or by a person authorised for the purpose by the Director, as to the testing and accuracy of any equipment or device to which this section applies that is referred to in the certificate, is, in the absence of proof to the contrary, sufficient proof that the equipment or device referred to was tested on the date specified in the certificate and was accurate on the date of the alleged offence.
@@ -2416,7 +2862,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (i) Any other person who provides services in the land transport system (other than the rail transport system), and any vehicles, land transport related services, facilities, and equipment operated in support of the land transport system (other than the rail transport system), or classes of such persons, vehicles, land transport related services, facilities, and equipment operated in support of the land transport system (other than the rail transport system).
 (2) The rules may set out the requirements, standards, and application procedure for each land transport document, and the maximum period for which each document may be issued or recognised (as the case may be).
 (3) The rules may require a person who applies for or holds a land transport document that is required for the provision of a service that involves contact with the public (such as driving instruction or driver testing) to satisfy the Director that the person is a fit and proper person to hold that document, and—
-  (a) Specify which of the criteria set out in section 24 of the Transport Services Licensing Act 1989 are to be applied in determining whether a person is a fit and proper person:
+  (a) Specify which of the criteria set out in subpart 2 of Part 4A are to be applied in determining whether a person is a fit and proper person:
   (b) Set out different fit and proper person assessments for different classes of land transport documents, applicants, or holders.
 (4) The rules may provide for the issue, endorsement, alteration, replacement, renewal, surrender, expiry, suspension, and revocation of land transport documents.
 (5) Subject to the rules, a land transport document may be issued or a document may be recognised as a land transport document, as the case may be, by the Director for such period and subject to such conditions as the Director considers appropriate in each particular case.
@@ -2539,8 +2985,8 @@ Without limiting the general power to make rules under section 152, ordinary rul
     (iv) Measures to ensure the security of impounded vehicles and personal property carried in or on them:
     (v) The hours during which the Police and members of the public are to have access to the premises:
     (vi) The arrangements for the payment of fees and charges in respect of impounded vehicles:
-  (ma)
-  (mb)
+  (ma) exempting any service or class or category of service from being a transport service for the purposes of Part 4A and Part 6A:
+  (mb) exempting any vehicle or class or category of vehicle from being a transport service vehicle for the purposes of Part 4A and Part 6A:
   (n) Providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 (2) The maximum number of demerit points that may be set by regulations made under subsection (1) in respect of any offence—
   (a) Is 60 demerit points in the case of—
@@ -2552,9 +2998,9 @@ Without limiting the general power to make rules under section 152, ordinary rul
 
 ### 168 Regulations relating to fees and charges for land transport
 (1) Without limiting the generality of section 167(1)(j), regulations may be made under that provision prescribing, or providing for the fixing of, fees and charges payable for all or any of the following purposes:
-  (a) To provide funds for the establishment, maintenance, and operation of facilities, works, goods, and services under the Transport Act 1962, the Road User Charges Act 1977, Part 1 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Transport Services Licensing Act 1989, the Railways Act 2005, the Transit New Zealand Act 1989, the Land Transport Management Act 2003, this Act, or any other enactment relating to land transport:
+  (a) To provide funds for the establishment, maintenance, and operation of facilities, works, goods, and services under the Transport Act 1962, the Road User Charges Act 1977, Part 1 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Railways Act 2005, the Transit New Zealand Act 1989, the Land Transport Management Act 2003, this Act, or any other enactment relating to land transport:
   (b) To meet, or assist in meeting, the costs and expenses incurred by the Authority, the Director, or the Crown in the exercise of functions or powers, or in the performance of duties, or the provision of services under any enactment specified in paragraph (a) or any other enactment relating to land transport.
-(2) Different rates of fees or charges, or both, may be so prescribed or fixed in respect of different classes of persons, vehicles, products, or any other property or item, or on the basis of different times of use, or on any other differential basis.
+(2) Different rates of fees or charges, or both, may be so prescribed or fixed in respect of different classes of persons, vehicles, products, or any other property or item, or on the basis of different times of use, or different distances, or on any other differential basis.
 (3) Regulations under section 167(1)(j) may authorise persons carrying out statutory functions concerning land transport (such as persons issuing evidence of vehicle inspection) to charge a reasonable fee for the service or work performed.
 (4) Any regulation under section 167(1)(j) may—
   (a) Specify the persons by whom, and to whom, any fees or charges, or both, are payable:
@@ -2840,7 +3286,7 @@ The Minister may amend or revoke a national land transport strategy by following
   (i) Information about any court order under this Act or any former enactment authorising the issue of a limited licence to the holder (if the holder has been disqualified from holding or obtaining a driver licence):
   (j) Information about any order removing a disqualification imposed on the holder under this Act or any former enactment:
   (k) Information about any suspension of any licence held by the holder or any disqualification from holding or obtaining a licence imposed on the holder under this Act or any former enactment:
-  (l) Information about any revocation or suspension of a driver licence entitling the holder to drive a transport service vehicle, or a prohibition placed on the holder from driving any such vehicle, under section 17 of the Transport Services Licensing Act 1989:
+  (l) Information about any revocation or suspension of a driver licence entitling the holder to drive a transport service vehicle, or a prohibition placed on the holder from driving any such vehicle, under Part 4A:
   (m) Information about any order of disqualification made against the holder under section 83 of the Criminal Justice Act 1985 or section 124 of the Sentencing Act 2002:
   (n) Information about any revocation or suspension under this Act or any former enactment of any driver licence held by the holder:
   (o) Photographic images of the holder taken for the purposes of this Act:
@@ -2858,7 +3304,38 @@ The Minister may amend or revoke a national land transport strategy by following
 (8) Information requested under any of subsections (4) to (6) may be given in writing or electronically or orally.
 
 ### 199A Register of transport service licences
-[Repealed]
+(1) The Authority must continue and maintain the register of transport service licences that was established under section 29 of the Transport Services Licensing Act 1989.
+(2) The register must show for each licence the following information:
+  (a) the holder's full name:
+  (b) if the holder is a natural person, the holder's date of birth:
+  (c) the holder's business or residential address:
+  (d) the full name and address of any person in control:
+  (e) the number of the licence:
+  (f) the date of issue of the licence:
+  (g) the class or classes of transport services to which the licence applies:
+  (h) information about any operator safety rating, or other similar information, specified in the regulations or the rules:
+  (i) any conditions applying to the licence:
+  (j) information about any revocation, suspension, or surrender:
+  (k) information about any order of disqualification made against the holder of the licence under this Act or any former enactment:
+  (l) information about any order removing a disqualification imposed on the holder under this Act or any former enactment:
+  (m) the dates of any amendments to the licence.
+(3) The register of transport service licences must also show the following information for an approved taxi organisation:
+  (a) the full name of the approved taxi organisation; and
+  (b) the business address of the approved taxi organisation; and
+  (c) the telephone number by which the services of the approved taxi organisation may be booked; and
+  (d) the full names of the responsible officers of the approved taxi organisation; and
+  (e) the date of approval; and
+  (f) the status of the approval; and
+  (g) the safety rating (if any) of the approved taxi organisation.
+(4) A person who applies to the Director and pays the prescribed fee (if any)—
+  (a) is, with the consent of the holder of the transport service licence named in the application, entitled to the information stored in the register in respect of the licence holder; but
+  (b) is, without the consent of the holder of the transport service licence named in the application, entitled only to the information stored in the register in respect of the licence holder that is—
+    (i) specified in subsection (2)(a) and (g) to (1); and
+    (ii) in the case of an approved taxi organisation, specified in subsection (3)(a) to (c) and (e) to (g).
+(5) An application under subsection (4)—
+  (a) may be made in writing or electronically or orally; and
+  (b) must describe the person named with sufficient particularity to enable the Director to identify the person and the licences concerned.
+(6) Information requested under subsection (4) may be given in writing or electronically or orally.
 
 ### 200 Restrictions on access to photographic images of driver licence holders
 (1) Except as provided in this section, no person, other than a person acting in the course of the person's official duties as an employee of the Authority, may access any photographic image stored under section 28(5).
@@ -2927,7 +3404,7 @@ The Minister may amend or revoke a national land transport strategy by following
   (b) A dangerous goods enforcement officer.
 (2) The Commissioner may, by warrant, appoint any sworn member of the Police to be a dangerous goods enforcement officer.
 (3) The Director may, by warrant, appoint an employee of the Authority to be—
-  (a) An enforcement officer for the purposes of any of sections 115, 124, 138, and 139; or
+  (a) an enforcement officer for the purposes of any of Parts 4A, 4B, 6A, and 6B, including any rules or regulations made in relation to transport services, or sections 22B, 22C, 36B, 113(2)(f), 113A, 115, 118(6), 124, 128A, 128B, 135(1A), 138, and 139; or
   (b) A dangerous goods enforcement officer.
 (4) Only persons who, in the opinion of the Commissioner or the Director (as the case may be), are qualified by knowledge or experience to undertake enforcement of the functions specified in the warrant of appointment may be appointed under this section.
 (5) Each enforcement officer or dangerous goods enforcement officer appointed under this section is to be supplied by the Commissioner or the Director (as the case may be) with a warrant which specifies the functions that the officer is entitled or required to undertake.
@@ -2956,7 +3433,7 @@ The Minister may amend or revoke a national land transport strategy by following
 (4) In this section, traffic accident report means a written report prepared by an enforcement officer who is a sworn or non-sworn member of the Police that relates to an investigation of a traffic accident.
 
 ### 211A Payment of fees
-[Repealed]
+All fees and other money (not being fines, infringement fees, or other penalties) received or recovered for the purposes of Part 4A must be paid or credited to the Authority.
 
 ### 212 Authority to pay sum to Assessment Centres
 The Authority must pay each Assessment Centre, from money appropriated for the purpose by Parliament, such sum as may be prescribed for the first attendance of a person ordered under this Act to attend an Assessment Centre, if that person has not previously attended an Assessment Centre following the making of the order.
@@ -3261,3 +3738,47 @@ An application pending under any provision of the Transport Act 1962 that is rep
 | (b) Imposing a parking prohibition or restriction; or |  |  |
 | (c) For which any infringement fee is otherwise specified in this schedule |  |  |
 | Failure to comply with appropriate provision |  |  |
+
+### 1 Title
+(1) This Act is the Land Transport Amendment Act 2005.
+(2) In this Act, the Land Transport Act 1998 is called the principal Act.
+
+### 2 Commencement
+(1) Sections 11 to 16, 21, 24, 30(2), 31 to 34, 36, 43, 44, 46 to 50, 52 to 55, 65, 75, 81, 82(1), (3), (4), and (5), 84, 95(1), (2), and (9), 95(12), 98, and 99 come into force—
+  (a) on 16 January 2006; or
+  (b) on an earlier date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions.
+(2) Sections 4(1), 4(3), 4(5) to (8), 4(13), 5, 18, 19, 29, 38 to 40, 42, 45, 51, 56, 61 to 63, 66 to 69, 71 to 73, 77, 78(2), 79, 82(2), 83, 85, 86, 91(2) to (6), 91(8), 91(9), 93, 94(1), 95(3) and (4), 95(6), 95(8), 95(11), 96, 97, and 100 come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions.
+(3) The rest of this Act comes into force on the day after the date on which this Act receives the Royal assent.
+
+## Part 2 — Amendments to principal Act
+
+### Subpart 1 — Principal Act
+
+**Mitigation of penalties and rights of appeal**
+
+### 61 New sections 111A and 111B inserted
+(1) Amendments incorporated in the principal Act
+(2) Amendment incorporated in the principal Act
+(3) This section applies to every appeal under this Act to a District Court, whether the appeal is commenced before or after the commencement of this section, subject to the right of appeal being exercised within the applicable time limit in Part 4 of the Summary Proceedings Act 1957.
+
+### Subpart 2 — Repeals, amendments, and transitional and savings provisions
+
+**Transitional and savings provisions**
+
+### 96 Rights of existing transport service licence holders
+(1) Every person who, immediately before the commencement of Part 4A of the principal Act, was the holder of a transport service licence (except a rail service licence) under the Transport Services Licensing Act 1989 is deemed to have been granted, on the commencement of Part 4A of the principal Act, the equivalent transport service licence under this Act.
+(2) Any licence deemed by subsection (1) to have been granted under this Act may at any time on or after the commencement of Part 4A of the principal Act be revoked or suspended or otherwise dealt with in accordance with that Act.
+(3) A certificate of knowledge of law and practice issued under the Transport Services Licensing Act 1989 continues to have effect, and may be revoked or otherwise dealt with as if it had been issued under the principal Act, or the regulations or rules made under the principal Act.
+
+### 97 Rights of existing approved taxi organisations
+(1) Every person who, immediately before the commencement of Part 4A of the principal Act, was an approved taxi organisation under the Transport Services Licensing Act 1989—
+  (a) continues to be an approved taxi organisation on the commencement of Part 4A of the principal Act; and
+  (b) may be dealt with in accordance with Part 4A of the principal Act.
+(2) Any application to be an approved taxi organisation that was lodged before the commencement of Part 4A of the principal Act is to be treated as being lodged under Part 4A of the principal Act.
+
+### 98 Rights of existing operators of traction engines
+(1) Every person who, immediately before the commencement of sections 22B and 22C of the principal Act, was qualified under the Boilers, Lifts, and Cranes Act 1950 to operate a traction engine is deemed to have been granted, on the commencement of those sections, the equivalent qualification under this Act.
+(2) Any qualification deemed by subsection (1) to have been granted under this Act may at any time on or after the commencement of sections 22B and 22C of the principal Act be revoked or suspended or otherwise dealt with in accordance with the rules.
+
+### 99 Transitional provision for notices given under section 96 of the principal Act
+If, after the commencement of section 50, an enforcement officer issues a notice under section 96 of the principal Act in any case to which subsection (1) of that section applies in a form used by enforcement officers before the commencement of section 50, that form does not of itself invalidate the notice.
