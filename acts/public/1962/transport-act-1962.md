@@ -1,5 +1,5 @@
 # Transport Act 1962
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-10-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to motor vehicles, to road traffic, and to commercial transport services carried on by means of motor vehicles or harbour ferries
 
@@ -52,7 +52,7 @@ _Consolidation as at 2007-09-03_
   - **Fire brigade** has the same meaning as it has in section 2(1) of the Land Transport Act 1998
   - **Flammable liquid** means any hazardous substance (as defined in section 2 of the Hazardous Substances and New Organisms Act 1996) in liquid form with flammable properties; and includes motor spirits
   - **Goods** has the same meaning as it has in section 2(1) of the Land Transport Act 1998
-  - **Goods service** , and have the same meanings as in section 2 of the Transport Services Licensing Act 1989
+  - **Goods service** , and have the same meanings as in section 2 of the Land Transport Act 1998
   - **Goods-service vehicle** means a motor vehicle designed exclusively or principally for the carriage of goods but does not include a tractor
   - **Gross laden weight**
   - **Gross weight**
@@ -74,7 +74,7 @@ _Consolidation as at 2007-09-03_
   - **Invalid carriage**
   - **Issue**
   - **Land Transport Fund**
-  - **Large passenger service vehicle** has the same meaning as in section 2 of the Transport Services Licensing Act 1989
+  - **Large passenger service vehicle** has the same meaning as in section 2 of the Land Transport Act 1998
   - **Licensing Appeal Authority**
   - **Licensing Authority**
   - **Licensing year**
@@ -105,7 +105,7 @@ _Consolidation as at 2007-09-03_
   - **Parking infringement notice**
   - **Parking offence** means an offence described in paragraph (a) of the definition of the term stationary vehicle offence in section 41A of this Act
   - **Parking warden** means a parking warden appointed under section 7 of this Act
-  - **Passenger service** , , and have the same meanings as in section 2 of the Transport Services Licensing Act 1989
+  - **Passenger service** , , and have the same meanings as in section 2 of the Land Transport Act 1998
   - **Pedestrian-controlled machine** means a vehicle (not designed for the carriage of persons or goods) controlled by a pedestrian and designed exclusively to perform some mechanical operation by means of machinery either forming an integral part of, or permanently attached to, the vehicle
   - **Public body**
   - **Quarter** means a period of 3 months ending with the last day of March, June, September, or December in any year
@@ -115,13 +115,13 @@ _Consolidation as at 2007-09-03_
   - **Registrar**
   - **Registration plate**
   - **Rental car**
-  - **Rental service** , , and have the same meanings as in section 2 of the Transport Services Licensing Act 1989
+  - **Rental service** , , and have the same meanings as in section 2 of the Land Transport Act 1998
   - **Road** has the same meaning as it has in section 2(1) of the Land Transport Act 1998
   - **Sale** , in relation to any motor vehicle, includes disposition by way of hire-purchase; and also includes a conditional sale; and , , and have corresponding meanings
   - **Seasonal licence**
   - **Secretary** or means the chief executive of the Ministry of Transport
   - **Service** means a transport service
-  - **Small passenger service vehicle** has the same meaning as in section 2 of the Transport Services Licensing Act 1989
+  - **Small passenger service vehicle** has the same meaning as in section 2 of the Land Transport Act 1998
   - **Speeding offence** and have the same meanings as they have in section 2(1) of the Land Transport Act 1998
   - **Stationary vehicle offence** has the same meaning as in section 41A of this Act
   - **Taxicab** means a motor vehicle—
@@ -142,13 +142,13 @@ _Consolidation as at 2007-09-03_
     (b) A vehicle normally propelled by mechanical power while it is being temporarily towed without the use of its own power:
   - **Transit** means the body corporate called Transit that is continued by section 75 of the Land Transport Management Act 2003.
   - **Transit New Zealand**
-  - **Transport service** , , and have the same meanings as in section 2 of the Transport Services Licensing Act 1989
+  - **Transport service** , , and have the same meanings as in section 2 of the Land Transport Act 1998
   - **Trolley omnibus**
   - **Unladen weight** or , in relation to a vehicle, means the weight of the vehicle together with the fuel in its fuel system (if any) and the equipment and accessories thereon that are necessary for its operation for the purpose for which it was designed
   - **Urban transport area**
   - **Use** , in relation to a vehicle, includes driving, drawing, or propelling by means of another vehicle, and permitting to be on any road; and and have corresponding meanings
   - **Vehicle** has the same meaning as it has in section 2(1) of the Land Transport Act 1998
-  - **Vehicle recovery service** , , and have the same meanings as in section 2 of the Transport Services Licensing Act 1989
+  - **Vehicle recovery service** , , and have the same meanings as in section 2 of the Land Transport Act 1998
   - **Waybill**
   - **Weight** has the same meaning as it has in section 2(1) of the Land Transport Act 1998
 (2)
@@ -672,116 +672,13 @@ _Consolidation as at 2007-09-03_
 **Driving hours and logbooks**
 
 ### 70B Driving hours
-(1) No person shall drive any heavy motor vehicle, or any vehicle that is being used under a transport service licence (other than a rental service licence) or in circumstances in which it ought to be being used under such a licence, or any 2 or more such vehicles, and no person shall operate any such vehicle or vehicles, in such a manner that any one person—
-  (a) Drives any such vehicle for a continuous period exceeding 5 ½ hours; or
-  (b) In respect of any 24-hour period during which the person drives any such vehicle—
-    (i) Spends more than a total of 11 hours in driving any such vehicle; or
-    (ii) Works or is on duty for more than a total of 14 hours within that period; or
-    (iii) Does not have at least 9 consecutive hours off duty within that period (not being a 24-hour period that commences during the currency of any such 9-hour off duty period); or
-  (c) Does not have at least 24 consecutive hours off duty after driving for 66 hours or being on duty for 70 hours, whichever first occurs (which 66-hour or 70-hour periods shall be reckoned as from the close of the most recent 24 consecutive hours off duty and shall include all periods of driving or being on duty, as the case may be).
-(2) For the purposes of this section and of section 70C of this Act—
-  (a) Any 2 or more periods spent in driving shall be deemed to be a single continuous period unless separated by an interval of not less than half an hour which is available to the driver for rest or during which the driver is off duty:
-  (b) No period shall be counted as available for rest if it is spent by the driver in or on any vehicle referred to in subsection (1) of this section, being a vehicle connected with the driver's business or employment, while that vehicle is moving:
-  (c) The terms working and on duty include engaging in any of the following activities:
-    (i) Driving a vehicle referred to in subsection (1) of this section:
-    (ii) Loading or unloading any such vehicle or waiting for the loading or unloading of any such vehicle:
-    (iii) Maintenance, cleaning (other than unpaid cleaning that occurs during any off duty period of not less than 24 hours), or other activities relating to any such vehicle:
-    (iv) Any other activity (whether or not it relates to a vehicle of any kind) relating to the provision of transport services for passengers or goods:
-    (v) Any paid employment of any kind (whether or not it relates to any transport service or to any vehicle of any kind), including any period of paid employment that is, or is set aside for or available as, a rest period; but does not include paid leave of any kind, or any other period for which payment is made but during which the person is not required to perform any duties unless that period is a period when the person is to be regarded as working or on duty by virtue of any of subparagraphs (i) to (iv) of this paragraph:
-  (d) A person shall be deemed to be off duty only when that person is not working or on duty within the meaning of paragraph (c) of this subsection.
-(3) The requirements of this section shall apply in respect of any vehicle referred to in subsection (1) of this section whether or not the vehicle is engaged in any transport service or is carrying any load or passengers at any time.
-(4) The Director may grant partial or total written exemptions from some or all of the requirements of this section in respect of any driver or operator, any class of driver or operator, any service or occasion, any class of services or occasions, or any time spent on any activity or employment, and may impose conditions relating to the exemption and the records to be kept of driving or time spent in terms of the exemption.
-(5) Any exemption granted under subsection (4) of this section may be amended or revoked at any time by the Director in writing.
-(6) Every person who drives a vehicle referred to in subsection (1) of this section, and every person who employs any such person, shall make all relevant time records, wage records, and related employment records in the possession or control of the person available for immediate inspection on demand at any reasonable time by a constable or a traffic officer who is a non-sworn member of the Police or by an employee of the Authority authorised in writing by the Director in respect of the particular case.
-(6A) Every constable, traffic officer, or authorised employee of the Authority to whom records are made available for inspection under subsection (6) of this section shall be entitled to make copies of those records.
-(7) Every person commits an offence who fails to comply with any of the requirements of this section or the conditions of any exemption granted under subsection (4) of this section, and is liable on conviction—
-  (a) In the case of a driver, to a fine not exceeding $2,000, and the person shall be disqualified from holding or obtaining a licence to drive a heavy motor vehicle and any vehicle being used in the relevant transport service for a period of 1 calendar month or such greater period as the Court thinks fit:
-  (b) In any other case, to a fine not exceeding $10,000.
-(8) It shall be a defence in any proceedings for an offence of failing to comply with this section if the defendant proves that the failure to comply with this section was due to unavoidable delay in the completion of any journey arising out of circumstances that could not reasonably have been foreseen by the defendant.
-(9) Nothing in this section applies in respect of any goods service vehicle fitted with 2 axles and having a manufacturer's gross laden weight of less than 14 tonnes that—
-  (a) Is used within a radius of 50 kilometres of—
-    (i) The business location of the operator of the vehicle; or
-    (ii) The normal base of operation for the vehicle; but
-  (b) Is not used for hire or reward.
+[Repealed]
 
 ### 70C Driver logbooks
-(1) Every driver of any vehicle to which this section applies shall maintain a logbook, which shall be in a form approved by the Director, containing a clear and legible record of—
-  (a) The driver's name and residential address; and
-  (b) All periods spent—
-    (i) In driving any vehicle referred to in section 70B(1) of this Act; and
-    (ii) Working or on duty; and
-    (iii) As rest periods (being periods of not less than half an hour); and
-    (iv) Off duty; and
-  (c) The relevant starting and finishing dates, times, and (except in the case of off duty periods) places of the periods referred to in paragraph (b) of this subsection; and
-  (d) The registration number of each vehicle driven; and
-  (e) Where the vehicle is required to be fitted with a distance recorder by or under the Road User Charges Act 1977, the distance recorder readings at the start and finish of each period of driving.
-(2) Every logbook required to be maintained under subsection (1) of this section shall be maintained by the driver in respect of a period of at least 10 days after the last day on which any period spent driving any vehicle is or ought to have been recorded.
-(3) Except as provided in subsection (4) of this section—
-  (a) The date, time, and place of commencement of every period required by subsection (1) of this section to be entered in a logbook, and (where driving is involved in any such period) the relevant distance recorder reading and vehicle registration number, shall be entered in the driver's logbook at the commencement of that period; and
-  (b) The date, time, and place of finishing of any such period, and, where appropriate, the relevant distance recorder reading, shall be entered in the driver's logbook at the finish of that period.
-(4) Where 2 or more periods spent in driving are deemed by section 70B(2)(a) of this Act to constitute a single continuous period—
-  (a) The driver may enter the relevant dates, times, and places of commencement and finishing, and (except where more than 1 vehicle is driven) the relevant distance recorder readings and vehicle registration number, as if those 2 or more periods were a single period spent in driving; but
-  (b) Where the driver so elects, the total of those 2 or more periods, together with any time spent between those periods (whether or not such time is actually spent in driving) shall be treated for the purposes of section 70B(1)(a) and (b) of this Act as a single continuous period spent in driving.
-(5) Every driver shall—
-  (a) Retain every logbook required to be maintained by the driver under subsection (1) of this section for a period of 12 months after the date of the last entry in the logbook; and
-  (b) In the case of a driver who is an employee, deliver a copy of the logbook to the driver's employer as soon as practicable after the expiry of 10 days after the last entry in the logbook, and the employer shall retain the copy of the logbook for a period of 12 months after the date of the last entry in the logbook.
-(6) Every driver of any vehicle to which this section applies shall carry with him or her at all times when driving a vehicle to which section 70B of this Act applies, and shall (on demand by any constable, traffic officer, or any employee of the Authority authorised in writing in that behalf by the Director) forthwith produce, any current logbook relating to that day and the previous 10 days that the driver is required by this section to maintain.
-(6A) Where the form of the logbook required to be maintained under subsection (1) of this section includes an identical copy made simultaneously with the original of that logbook, and the logbook has been produced to a constable, traffic officer, or employee of the Authority authorised in writing in that behalf by the Director, in accordance with subsection (6) of this section, that constable, traffic officer, or authorised employee of the Authority shall be entitled, on demand,—
-  (a) To remove that identical copy; or
-  (b) Where that identical copy has previously been removed or is illegible, to make a copy of the logbook.
-(6B) Where an approved alternative record is being kept under this Act and that record has been produced in accordance with subsection (6) of this section to a constable, traffic officer, or employee of the Authority authorised in accordance with that subsection, that constable, traffic officer, or authorised employee of the Authority shall be entitled to make a copy of that record.
-(7) Every person who is required to retain any logbook or any copy of any logbook under subsection (5) of this section shall make it and any relevant time records, wage records, and related employment records available for immediate inspection on demand by a constable or a traffic officer who is a non-sworn member of the Police or by the Director or an employee of the Authority at any reasonable time during the period for which it is required to be retained.
-(7A) Any person to whom any logbook or any copy of any logbook or records are required to be made available for inspection under subsection (7) of this section shall be entitled to make a copy of that logbook or that copy or those records.
-(8) Every person who fails to comply with any requirement of or demand made under subsection (5) or subsection (6) or subsection (6A) or subsection (6B) or subsection (7) or subsection (7A) of this section commits an offence and is liable on conviction—
-  (a) In the case of a driver, to a fine not exceeding $2,000, and the person shall, unless the Court for special reasons relating to the offence thinks fit to order otherwise, be disqualified from holding or obtaining a licence to drive a heavy motor vehicle and any vehicle being used in the relevant transport service for a period of 1 calendar month or such greater period as the Court thinks fit:
-  (b) In any other case, to a fine not exceeding $10,000.
-(9) Except as provided in any notice given under subsection (10) of this section, or as provided in subsection (11) of this section, this section applies in respect of—
-  (a) All passenger service vehicles:
-  (b) All goods-service vehicles that have more than 2 axles:
-  (c) All goods-service vehicles that have a gross laden weight of 3,500 kilograms or more:
-  (d) All goods-service vehicles while being used in conjunction with any other vehicle where the total number of axles of the vehicles exceeds 3:
-  (e) All vehicles operated (or that should be operated) under a vehicle recovery service licence:
-  (f) Any vehicle or service or class of vehicle or service that is declared by the Governor-General, by Order in Council, to be a vehicle or service or class of vehicle or service to which this section shall apply.
-(9A) Notwithstanding anything in this section,—
-  (a) The Director may approve the use of an alternative means of recording particulars required by this section to be recorded in a logbook; and may at any time in writing revoke any such approval; and
-  (b) The provisions of subsections (1) to (9) of this section shall apply with any necessary modifications to a record kept by such an approved alternative means (in this section and in section 70D of this Act referred to as an approved alternative record) as if the record were a logbook; and
-  (c) The use of an approved alternative record in accordance with this subsection shall be sufficient compliance with the requirements of this section.
-(10) This section shall not apply in respect of any vehicle or service or class of vehicle, or of any person or class of person, declared by the Director, by notice in the Gazette, to be exempt from this section. Any such exemption may be amended or revoked at any time by the Director in writing.
-(10A) Any approval under subsection (9A) of this section and any exemption under subsection (10) of this section may at any time be made subject to such conditions as the Director may specify in writing and any such conditions may in like manner be amended or revoked.
-(11) Nothing in this section shall apply in respect of the driving of any vehicle—
-  (a) Operated by the Armed Forces, any ambulance service, any firefighting service, or the Police:
-  (b) Owned and operated by a local authority while the vehicle is being used in a rubbish collection service:
-  (c) Operated by a passenger service operator whose drivers are working approved rosters of timetabled services (being rosters approved by the Director) over distances no greater than 100 kilometres from terminus to terminus.
+[Repealed]
 
 ### 70D Offences and proceedings concerning logbooks and driving hours
-(1) Every person commits an offence who—
-  (a) Maintains an approved logbook or approved alternative record under section 70C of this Act while maintaining any other approved logbook or approved alternative record under that section; or
-  (b) Makes or causes to be made any false statement in the logbook or approved alternative record, or allows any omission to occur in the logbook or other record.
-(2) Every person commits an offence who, being the driver of a vehicle to which section 70C of this Act applies,—
-  (a) On demand by a constable, traffic officer, or any employee of the Authority authorised in writing in that behalf by the Director, fails forthwith to produce all logbooks and other records of driving hours that are so demanded; or
-  (b) On demand by a constable, traffic officer, or any employee of the Authority authorised in writing in that behalf by the Director, produces any logbook or other record of driving hours that is false in a material particular, whether or not the driver knows of the falsehood; or
-  (c) On demand by a constable, traffic officer, or any employee of the Authority authorised in writing in that behalf by the Director, produces any logbook or other record of driving hours—
-    (i) That omits a material particular, whether or not the driver knows of the omission; or
-    (ii) In which any material particular is entered illegibly or in such a manner that the matters specified in section 70C(1) of this Act cannot be readily ascertained.
-(3) Every person, not being the driver of the vehicle, commits an offence where the person causes or permits a vehicle to which section 70C of this Act applies to be used and—
-  (a) A logbook or approved alternative record is not maintained in respect of the driving of that vehicle, whether or not the person knows that a logbook is not maintained; or
-  (b) The logbook or approved alternative record maintained in respect of the driving of that vehicle is false in a material particular, whether or not the person knows of the falsehood; or
-  (c) The logbook or approved alternative record maintained in respect of the driving of that vehicle omits a material particular, whether or not the person knows of the omission.
-(4) It shall be a defence to a charge under subsection (1) or subsection (2) or subsection (3) of this section if the defendant proves that the proceedings relate to a motor vehicle that has been exempted from the requirements of this section by a notice given under section 70C(10) of this Act.
-(5) In the case of a defendant who was not the driver of the vehicle to which the charge relates, it shall be a defence to a charge under subsection (1), or under paragraph (b) or paragraph (c) of subsection (3), of this section if the defendant proves that—
-  (a) Reasonable steps were taken by the defendant to prevent the false statement or material omission in the logbook or approved alternative record; and
-  (b) As soon as reasonably practicable after the false statement or material omission was drawn to the person's attention by any constable, traffic officer, or other authorised person authorised to demand the production of logbooks or approved alternative records under section 70C(6) of this Act, the person produced to the constable or officer or other person a logbook or approved alternative record containing no false statement or material omission.
-(6) Except as provided in subsection (7) of this section, subsection (5) of this section shall not apply unless within 7 days after the service of the summons, or within such further time as the Court may allow, the defendant has delivered to the prosecutor a written notice—
-  (a) Stating that the defendant intends to rely on subsection (5) of this section; and
-  (b) Specifying the reasonable steps that the defendant will claim to have taken.
-(7) In any proceedings relating to a charge to which subsection (5) of this section applies, evidence that the defendant took a step not specified in the written notice required by subsection (6) of this section shall not, except with the leave of the Court, be admissible for the purpose of supporting a defence under subsection (5) of this section.
-(8) In proceedings for an offence against section 70B of this Act, or subsection (1) or subsection (2) or subsection (3) of this section,—shall be sufficient evidence of the contents of that logbook or approved alternative record, until the contrary is proved by production to the Court of the logbook or approved alternative record or of an identical copy of the logbook or approved alternative record made simultaneously with the original logbook or the approved alternative record.
-  (a) Evidence given by a constable, traffic officer, or other person authorised to demand the production of logbooks or approved alternative records under section 70C(6) of this Act, or by any person who had that status at the time when the alleged offence was committed, as to the contents of any logbook or approved alternative record as seen and recorded by that person at the time it was produced; and
-  (b) An identical copy of any logbook removed, or a copy of any logbook or approved alternative record made, by a constable, traffic officer, or other person in accordance with subsection (6A) or subsection (6B) of section 70C of this Act,—
-(9) In any proceedings in respect of an offence against section 70B of this Act it shall be presumed, until the contrary is proved, that the contents of any logbook produced to a constable, traffic officer, or other authorised person authorised to demand production of the logbook are an accurate statement of the truth of the matter required to be recorded in the logbook by section 70C of this Act.
-(10) Every person who commits an offence against this section is liable on conviction—
-  (a) In the case of a driver to a fine not exceeding $2,000, and the person shall, unless the Court for special reasons relating to the offence thinks fit to order otherwise, be disqualified from holding or obtaining a licence to drive a heavy motor vehicle and any vehicle being used in the relevant transport service for a period of 1 calendar month or such greater period as the Court thinks fit:
-  (b) In any other case, to a fine not exceeding $10,000.
+[Repealed]
 
 **Hazardous substances**
 
@@ -1710,6 +1607,7 @@ Offences against Rental Service Rules (section 39(2) of Act and Part 3 of Schedu
 | 52(1)(c) or (d) | Failing to comply with direction or requirement concerning off-loading of heavy motor vehicle or securing of load on heavy motor vehicle | 750 |
 | 52(1)(c) | Failing to comply with direction to stop heavy motor vehicle or to drive heavy motor vehicle to weighing device | 1000 |
 | 53(1) | Obstruction, etc, in relation to inspection of vehicle required to have evidence of vehicle inspection or certificate of loading | 370 |
+| 79M | Failure to pay passenger service fares | 150 |
 
 | Provision | Brief Description of Offence | Infringement Fee $ |
 | --- | --- | --- |
@@ -1747,3 +1645,23 @@ The offence of operating a vehicle on a road without displaying current evidence
 ## Schedule 4 — Enactments repealed
 
 ## Schedule 5 — Regulations revoked
+
+### 1 Title
+(1) This Act is the Land Transport Amendment Act 2005.
+(2) In this Act, the Land Transport Act 1998 is called the principal Act.
+
+### 2 Commencement
+(1) Sections 11 to 16, 21, 24, 30(2), 31 to 34, 36, 43, 44, 46 to 50, 52 to 55, 65, 75, 81, 82(1), (3), (4), and (5), 84, 95(1), (2), and (9), 95(12), 98, and 99 come into force—
+  (a) on 16 January 2006; or
+  (b) on an earlier date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions.
+(2) Sections 4(1), 4(3), 4(5) to (8), 4(13), 5, 18, 19, 29, 38 to 40, 42, 45, 51, 56, 61 to 63, 66 to 69, 71 to 73, 77, 78(2), 79, 82(2), 83, 85, 86, 91(2) to (6), 91(8), 91(9), 93, 94(1), 95(3) and (4), 95(6), 95(8), 95(11), 96, 97, and 100 come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions.
+(3) The rest of this Act comes into force on the day after the date on which this Act receives the Royal assent.
+
+## Part 2 — Amendments to principal Act
+
+### Subpart 2 — Repeals, amendments, and transitional and savings provisions
+
+**Transitional and savings provisions**
+
+### 100 Transitional provision for holders of exemptions in respect of driving hours or logbooks
+Every variation or exemption granted under section 70B or section 70C of the Transport Act 1962 ceases to have effect 6 months after the date of commencement of this section.
