@@ -1,0 +1,779 @@
+# New Zealand Railways Corporation Act 1981
+_Consolidation as at 2007-10-01_
+
+> An Act to establish a corporation to maintain, operate, and develop the services at present carried on by the New Zealand Government Railways Department and to consolidate and amend the law relating thereto
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the New Zealand Railways Corporation Act 1981.
+(2) This Act shall come into force on the 1st day of April 1982.
+
+### 2 Interpretation
+(1) In this Act, unless the context otherwise requires,—
+  - **Apprentice**
+  - **Approved urban transport scheme** means an urban transport scheme approved in accordance with the Urban Transport Act 1980
+  - **Authorised representative** , in relation to any service organisation, means a person authorised in accordance with the rules of the service organisation, or by its committee of management, to act on its behalf
+  - **Charges** includes rates and fares
+  - **Conditions of employment** —
+    (a) Includes rates of remuneration; and
+    (b) Includes—
+      (i) All matters affecting the privileges, rights, and duties of service organisations or the officers of any service organisations; and
+      (ii) All matters affecting or relating to the preferential employment, or the non-employment, of any person or class of persons; but
+    (c) Notwithstanding anything in paragraphs (a) and (b) of this definition, does not include any matter relating to the compulsory membership of a service organisation by any person or any matter relating to the conferring on any person, by reason of that person's membership or non-membership of a service organisation, of—
+      (i) Any preference on obtaining or retaining employment; or
+      (ii) Any preference in relation to terms of employment or conditions of employment or fringe benefits or opportunities for training, promotion, or transfer; or
+      (iii) Any preference in relation to the formula that will be used to assess compensation for redundancy:
+  - **Corporation** means the New Zealand Railways Corporation as constituted under section 4 of this Act
+  - **Crown transferee company** has the same meaning as in section 2(1) of the New Zealand Railways Corporation Restructuring Act 1990
+  - **Department** means the New Zealand Government Railways Department as constituted by the Government Railways Act 1949
+  - **Director** means a director of the Corporation appointed under section 4(2) of this Act
+  - **Employee** means any person employed in the service of the Corporation, whether as a member or as an apprentice or on probation or temporarily but does not include any master, officer, or seaman who is employed pursuant to section 17 of this Act
+  - **General Manager** means the General Manager of the Corporation appointed pursuant to section 9 of this Act
+  - **Goods** means goods, baggage, and chattels of any description; and includes animals and plants; and also includes money, documents, and all other things of value
+  - **Level crossing** means any place where a railway line crosses a road on the level or where the public is permitted to cross a railway line on the level; and includes a bridge used for both railway and road traffic
+  - **Local authority** means a local authority within the meaning of the Local Government Act 2002
+  - **Master**
+  - **Member**
+  - **Minister** means the Minister of Railways
+  - **Notice** means a statement conveying the general effect of a matter or thing done or intended to be done
+  - **Officer**
+  - **Official circular** means any circular issued by or under the direction of the Corporation, and includes any list printed under any regulations relating to the classification and pay of employees
+  - **Open railway** means any railway line open for traffic at or after the commencement of this Act
+  - **Person** includes a corporation sole and also a body of persons, whether incorporated or not
+  - **Prescribed** means prescribed by this Act, or by regulations or scales of charges made under this Act
+  - **Promotion**
+  - **Public notice** means a notice published in some newspaper circulating in the locality in which the subject-matter of the notice arises or to which it relates, or posted in some conspicuous place in any goods office, on any goods shed, or on any railway station in that locality
+  - **Publicly notified** means notified by public notice
+  - **Railway** includes—
+    (a) All land belonging to the Crown, or forming part of any public reserve within the meaning of the Reserves Act 1977, upon which any Corporation railway is constructed, or which is or is reputed to be held or used in connection with or for the purposes of the Corporation, and all land which is under the control of the Corporation or which is held by the Corporation or under lease, licence, or otherwise for the purposes of the Corporation; and
+    (b) All buildings, erections, wharves, jetties, works, rolling stock, motor vehicles, vessels, plant, machinery, goods, chattels, and other fixed or movable property of every description or kind belonging to the Corporation and situate on any such land or held or used, or reputed to be held or used, in connection with or for the purposes of the Corporation:
+  - **Railway line** means any set of rails; and includes the area within 3 metres of a line drawn midway between those rails
+  - **Railway operator** has the same meaning as in section 2(1) of the New Zealand Railways Corporation Restructuring Act 1990
+  - **Service organisation**
+  - **Service organisation membership clause**
+  - **Station** includes any bus terminal, officered railway station, flag station, platform, stopping place, or crossing-siding, and also includes the area within the station limits as defined by the Corporation
+  - **Ticket** includes any ticket, document, medallion, or pass issued by the Corporation or its agents in connection with the use of any railway.
+  - **Transferee company** has the same meaning as in section 2(1) of the New Zealand Railways Corporation Restructuring Act 1990
+  - **Union Membership Exemption Tribunal**
+(2) In relation to any ballot provided for in the rules set out in section 74B(1) of this Act, appropriate financial members of the service organisation means the financial members of the service organisation who are bound by a determination made under the State Services Conditions of Employment Act 1977 (as applied by Part 7 of this Act) or any other Act (being a determination by which members of the service organisation are bound).
+
+## Part 1 — New Zealand Railways Corporation
+
+### 3 Minister of Railways
+The Governor-General may from time to time appoint a Minister of the Crown to be Minister of Railways.
+
+### 3A Relationship to Resource Management Act 1991
+The Corporation shall not be an instrument of the Executive Government of New Zealand for the purposes of the Resource Management Act 1991.
+
+### 4 New Zealand Railways Corporation
+(1) There shall be a Corporation to be called the New Zealand Railways Corporation, which shall be an instrument of the Executive Government of New Zealand.
+(2) The Corporation shall consist of not more than 7 directors appointed by the Minister.
+(3) The Minister shall appoint one of the directors to be the Chairman of the Corporation.
+(4) Subject to this section, every director shall be appointed for a term not exceeding 3 years, and may from time to time be reappointed.
+(5) Any director may at any time resign from office by written notice given to the Minister.
+(6) A director may be removed from office by the Minister by notice in writing for inability to perform the functions of the office, bankruptcy, neglect of duty, conflict of interest, or misconduct, proved to the satisfaction of the Minister.
+(7) If any director dies or resigns his office or is removed from office, the vacancy shall, as soon as practicable, be filled by the appointment of another director; and, if the term of the vacating director has not expired at the time of the appointment, the director appointed to fill the vacancy shall hold office by virtue of that appointment for the residue of the term of the vacating director.
+(8) The powers of the Corporation shall not be affected by any vacancy in its membership.
+(9) No person shall be deemed to be employed in the Government service for the purposes of the Government Superannuation Fund Act 1956, or in the State services for the purposes of the State Sector Act 1988, by reason only of his being a director of the Corporation.
+(10) The Corporation shall be a body corporate with perpetual succession and a common seal and, subject to this Act, is capable of acquiring, holding, and disposing of real and personal property, and of suing and being sued, and of doing and suffering all other acts and things that bodies corporate may do and suffer.
+(11) No company or other body shall be incorporated or registered under any Act or otherwise with a name that is identical with the name of the Corporation or that, in the opinion of the Registrar of Companies, so nearly resembles that name as to be likely to deceive.
+
+### 5 Transfer of property contracts and liabilities to Corporation
+(1) All real property or interests in land vested in or held or occupied by the Crown for railway purposes immediately before the date of commencement of this Act shall, on that date, be occupied, and used by the Corporation for railway purposes, subject to any leases, rights, easements, and interests subsisting in respect of that land.
+(2) All personal property, and rights or privileges relating thereto, vested in or held on behalf of the Crown for the purposes of or in connection with any Government railway carried on by the Minister under the Government Railways Act 1949 immediately before the date of the commencement of this Act shall, on that date, be vested in or held by the Corporation for the purposes of or in connection with any Corporation railway, subject to all interests, liabilities, charges, obligations, and trusts subsisting in respect of that property, and those rights or privileges.
+(3) All the contracts, debts, engagements, and liabilities of the Department immediately before the date of the commencement of this Act shall, on that date, become the contracts, debts, engagements, and liabilities of the Corporation.
+(4) All money payable to the Department shall, on the commencement of this Act, become payable to the Corporation.
+(5) The registrar of any property which is transferable only in books kept by a company or other body or in a manner directed by or under any Act shall on written application under the seal of the Corporation register it as the holder of any such property that is vested in it under this section.
+(6) All proceedings pending by or against the Crown in respect of any activity carried on by the Minister under the Government Railways Act 1949 shall be carried on by or against the Corporation.
+
+### 6 Meetings of directors
+(1) The first meeting of the directors after the commencement of this Act shall be held on a day to be appointed by the Minister.
+(2) Subsequent meetings of the directors shall be held at such times and places as the directors from time to time appoint.
+(3) Notwithstanding subsection (2) of this section, the Chairman or any 4 directors may call a meeting of the directors.
+(4) At all meetings of the directors, a majority in number of the directors holding office shall constitute a quorum.
+(5) The Chairman shall preside at every meeting of the directors at which he is present.
+(6) If the Chairman is absent from any meeting the directors present shall appoint one of their number to preside at that meeting.
+(7) Every question before a meeting shall be decided by a majority of the votes of the directors present at the meeting.
+(8) On every question before a meeting, the person presiding shall have a deliberative vote, and, in the case of an equality of votes, he shall also have a casting vote.
+
+### 7 Disclosure of interests
+(1) Any director who, otherwise than as a director, is directly or indirectly interested in any agreement made or entered into, or proposed to be made or entered into, by the Corporation shall, as soon as possible after the relevant facts have come to his knowledge, disclose the nature of his interest at a meeting of the Corporation.
+(2) A disclosure under this section shall be recorded in the minutes of the Corporation, and, except as otherwise provided by resolution of the Corporation, the director—
+  (a) Shall not take part or be present after the disclosure in any deliberation or decision of the Corporation relating to the agreement; and
+  (b) Shall be disregarded for the purpose of forming a quorum of the Corporation for any deliberation or decision.
+
+### 8 Corporation procedure
+Subject to sections 4, 6, and 7 of this Act, the Corporation may regulate its own procedure as it thinks fit.
+
+### 9 General Manager of Corporation
+(1) The Corporation shall appoint, as an officer of the Corporation, a General Manager, who shall be the chief executive officer of the Corporation and shall be responsible to it for the safe, efficient, and effective administration of its functions and the supervision of its staff employed pursuant to section 17 of this Act and its officers and employees:
+  Provided that the first General Manager of the Corporation shall be the General Manager of Railways appointed under section 5 of the Government Railways Act 1949.
+(2) The General Manager, until such time as a formal delegation of its powers and functions is made by the Corporation, shall have all the functions and powers of the Corporation.
+(3) On the occurrence from any cause of a vacancy in the office of General Manager (whether by reason of death or resignation or otherwise), or if the General Manager is absent from duty or from his headquarters for any reason whatever, the functions, duties, and powers of the General Manager may be exercised and performed by any person authorised in that behalf by the Corporation.
+(4) The fact that any person exercises or performs any function, duty, or power of the General Manager with the concurrence of the Corporation shall be conclusive evidence of his authority to do so.
+(5) For the purposes of subsection (3) of this section the functions and powers of the General Manager shall be deemed to include such of the powers of the Corporation as the General Manager may for the time being be authorised to exercise pursuant to a delegation under section 10 of this Act.
+
+### 10 Delegation of functions and powers
+(1) The Corporation may from time to time appoint a committee comprising 2 or more directors of the Corporation, and may from time to time delegate to any such committee any of the functions or powers of the Corporation, other than the power of delegation conferred by this subsection or under subsection (2) of this section.
+(2) The Corporation may from time to time delegate to any director or to the General Manager of the Corporation any of its functions and powers, other than the power of delegation conferred by this subsection.
+(3) Subject to any instructions given in that behalf by the Corporation, the General Manager may from time to time delegate to any other officer or employee of the Corporation any of his functions and powers, except his power of delegation conferred by this subsection.
+(4) Subject to any general or specific directions given or conditions imposed by the Corporation or, as the case may require, by the General Manager, the committee or person to whom any function or power is delegated under this section may exercise that function or power in the same manner and with the same effect as if it had been conferred on it or him directly by this Act.
+(5) Every committee or person purporting to act pursuant to any delegation under this section shall be presumed to be acting in accordance with the terms of the delegation, in the absence of proof to the contrary.
+(6) Any delegation under subsection (3) of this section may be made to a specified person or to persons of a specified class, or may be made to the holder for the time being of a specified office or appointment, or to the holders of offices or appointments of a specified class.
+(7) Any delegation made under this section may be revoked at any time.
+(8) No delegation of any function or power under this section shall prevent the exercise of that function or power by the Corporation or, as the case may require, by the General Manager.
+(9) Any delegation under this section shall, until revoked, continue in force according to its tenor, notwithstanding that the person by whom it was made may have ceased to hold office, and shall continue to have effect as if made by the person for the time being holding the same office; and in the event of the holder of a specified office to whom any such delegation has been made ceasing to hold office the delegation shall continue to have effect as if made to the person for the time being holding that office.
+
+### 10A Directions to carry out functions and exercise powers of Corporation
+(1) The Minister may, from time to time, by notice in writing, direct that a person or persons specified in the notice shall carry out the functions and exercise the powers of the Corporation or any of its officers under this Act specified in the notice.
+(2) Subject to any general or specific directions given or imposed by the Minister, a person to whom a direction is given may exercise that function or power in the same manner and to the same extent as if it had been conferred on that person directly by this Act.
+(3) Every person acting pursuant to a direction under this section shall be presumed to be acting in accordance with the direction in the absence of proof to the contrary.
+(4) A direction under this section may be given to the holder of a specified office or appointment or to the holders of offices or appointments of a specified class.
+(5) A direction made under this section may be revoked at any time.
+(6) No direction as to the exercise of any function or power under this section shall prevent the exercise of that function or power by the Corporation.
+(7) A direction under this section shall, until revoked, continue in force according to its tenor and, in the event of the holder of a specified office to whom the direction has been given ceasing to hold office, the direction shall continue to have effect as if made to the person for the time being holding that office.
+
+### 11 Remuneration of directors
+(1) There shall be paid to the directors of the Corporation, remuneration by way of fees, travelling allowances, and expenses as may be approved from time to time by the Minister of Finance.
+(2)
+
+## Part 2 — Functions and powers of Corporation
+
+### 12 Functions of Corporation
+(1) The functions of the Corporation shall be—
+  (a) To establish, maintain, and operate, or otherwise arrange for, safe and efficient rail freight and passenger transport services within New Zealand:
+  (b) To establish, maintain, and operate, or otherwise arrange for, safe and efficient road passenger and freight transport services within New Zealand:
+  (c) To establish, maintain, and operate, or otherwise arrange for, a safe and efficient ferry service for freight, including the carriage of passengers and vehicles between the North and South Islands:
+  (d) To provide or otherwise arrange for those ancillary services which, in the opinion of the Corporation, are necessary for it to efficiently carry out its functions:
+  (e) To endeavour to carry on the operations of the Corporation in such a way that revenue exceeds costs, including interest and depreciation; and to provide for a return on capital that may be specified from time to time by the Minister of Finance.
+(2) The Corporation shall also have such other functions, powers, and duties in relation to the Corporation's activities as are conferred or imposed on the Corporation by this or any other enactment.
+
+### 13 Powers of Corporation
+(1) The Corporation shall have all the powers that are reasonably necessary or expedient to enable it to carry out its functions.
+(2) Without limiting the generality of subsection (1) of this section the Corporation may from time to time for the purposes of carrying out its functions do all or any of the things provided for in this Act, subject to the limitations provided therein.
+
+### 14 Power to alter operations and services
+(1) Subject to this Act the Corporation may from time to time alter, cease, withdraw from, reduce, increase, or expand any service or operation provided or undertaken by it in the exercise of its functions and powers:
+  Provided that the Corporation shall adhere to the provisions of any approved urban transport scheme.
+(2) The Corporation shall comply with any directions that may be given by the Minister in writing in respect of the provision or curtailment of any passenger services by the Corporation.
+(3) No Corporation railway line open for traffic on or after the commencement of this Act shall be closed to traffic without the approval of the Minister:
+  Provided that this subsection shall not apply in respect of any siding, crossing loop, or marshalling yard.
+(4) The Corporation shall not undertake any substantial new activity, whether or not that activity is specifically authorised under this Act and whether or not that activity relates to operations or services already being carried on by the Corporation, without first obtaining the approval of the Minister.
+(5) The Corporation shall not cease, or withdraw from, or considerably reduce any substantial service, operation, or activity without first obtaining the approval of the Minister.
+(6) A copy of every direction given; and details of any approval given or declined by the Minister to the Corporation under this section in any financial year shall be included in the annual report of the Corporation for that year laid before Parliament under section 43(4) of this Act.
+
+### 15 Financial contributions
+(1) The Corporation may from time to time for the purposes of carrying out its functions enter into arrangements with the Crown, and agreements with any local authority, or any person whatsoever in respect of financial contributions towards the costs of carrying on any service or activity by the Corporation.
+(2) In any case where, by virtue of the proviso to section 14(1) of this Act, the effect of any urban transport scheme is to—the regional council that prepared the scheme shall give the Corporation such assistance, including financial assistance, as the regional council considers appropriate to alleviate the effect of the scheme on the Corporation.
+  (a) Prohibit the continuation of an existing rail passenger service; or
+  (b) Alter, in such a way as to adversely affect the Corporation, the conditions under which an existing rail passenger service may be carried on,—
+(3) Where—the Corporation shall be entitled to such contribution from the Crown as shall be determined by the Minister of Finance and the Minister of Transport in consultation with the Minister of Railways and the Corporation.
+  (a) The Corporation is required to provide any service under section 14(2) of this Act; or
+  (b) The approval of the Minister is withheld under section 14(3) or 14(5) of this Act; or
+  (c) The Corporation provides any service or activity that does not generate sufficient revenue to cover all costs associated with the service or activity,—
+(4) Any contribution payable under subsection (3) of this section shall be payable out of money appropriated by Parliament for the purpose.
+
+### 16 Carriage of passengers and goods otherwise than by rail
+(1) Section 12(1)(d) of this Act shall authorise the Corporation to arrange for the carriage of passengers and of goods by aircraft maintained and operated by any authority or person for the time being authorised to operate in New Zealand any service for the carriage by aircraft of passengers or of goods.
+(2) With respect to the carriage of passengers or goods otherwise than by rail, the Corporation shall have the same powers and (except as may be otherwise provided by contract or by notice published in the Gazette) the same liabilities, obligations, rights, and protection as it has in the case of the carriage of passengers and goods by railway.
+(3) The provisions of this Act and any regulations under this Act shall be read subject to the provisions of any Act for the time being in force and binding on the Corporation relating to the licensing or control of services for the carriage of passengers or goods.
+(4) Every continuous goods service licence or continuous passenger service licence, issued pursuant to the Transport Services Licensing Act 1989, held by or on behalf of the Minister at the commencement of this Act shall be deemed to be held by or on behalf of the Corporation.
+(5) The Corporation shall obtain the approval of the Minister before any application is made by it for any licence to be issued under the Land Transport Act 1998:
+  Provided that this subsection shall not apply in respect of licences for road services that are ancillary to rail services or with respect to any temporary licence.
+
+### 17 Carriage of passengers and goods by water
+(1) The powers conferred on the Corporation under section 12(1)(c) of this Act shall include the power—
+  (a) To employ such masters of ships, officers, and seamen as the Corporation considers necessary or expedient for the purpose:
+  (b) To enter into any agreement under the Labour Relations Act 1987 with any union or association of workers registered under that Act and employed in connection with the carriage of passengers or goods by water, and to be a party to any conciliation proceedings under that Act, and to be bound by any award or agreement made under that Act to which any such union or association is a party:
+  (c) To enter into any agreement with any individual workers or any society of workers employed in connection with such carriage of passengers or goods by water who are not bound by any such award or agreement or covered by the membership rule of a union registered under the Labour Relations Act 1987.
+(2) Nothing in Part 7 of this Act, or in the State Services Conditions of Employment Act 1977, shall apply with respect to any master, officer, or seaman who is employed pursuant to this section, or with respect to any application for such employment made by any employee to whom the said Part 7 applies.
+(3)
+(4) The Governor-General may from time to time, by Order in Council, make regulations not inconsistent with the Shipping and Seamen Act 1952 for all or any of the following purposes:
+  (a) Determining the manner in which and the terms and conditions on which applicants for employment under this section may enter the service of the Corporation:
+  (b) Prescribing the respective duties to be performed by persons employed under this section and the discipline to be observed in the performance of those duties:
+  (c) Providing how and by whom charges of inefficiency or misconduct may be made against any person employed under this section:
+  (d) Prescribing penalties for breaches of the regulations, not exceeding a fine of $20:
+  (e) Generally providing for any matters that may be necessary in order to give full effect to this section.
+(5) All persons employed under this section shall in the performance of their duties observe instructions issued from time to time by the Corporation with respect to those duties.
+(6) In this section the terms master, officer, and seaman have the same meanings as in the Shipping and Seamen Act 1952.
+
+### 18 Carriage of goods
+(1) The provisions of the Carriage of Goods Act 1979, so far as they are applicable, shall apply with respect to the receipt, custody, carriage, and delivery of goods under this Act, and, in respect of such matters, the provisions of this Act shall be read subject to the provisions of that Act.
+(2) Nothing in subsection (1) of this section shall limit or affect subsections (8) and (9) of this section or section 20 of this Act.
+(3) All goods received by the Corporation shall, subject to any conditions or regulations in that behalf, be deemed to be in the custody of the Corporation until delivered to the consignee.
+(4) No person shall be entitled to recover from the Corporation or any employee, or from any agent of the Corporation for the purposes of this Act, for any loss of or damage to or in connection with any goods any greater amount than that provided for in the Carriage of Goods Act 1979.
+(5) When any goods have been received by the Corporation for carriage, and the time during which the goods may, in accordance with any contract or under any terms and conditions imposed by the Corporation under section 111 of this Act, remain on the premises of the Corporation has expired, then, notwithstanding anything in this Act, the Corporation shall be responsible only as a warehouseman for any loss of or damage to the goods that may occur between the time of the expiry and the time of their removal by the consignee or owner of the goods:
+  Provided that nothing in this Act shall impose on the Corporation any liability in respect of the goods left on the premises of the Corporation if, by virtue of any such terms and conditions, they are so left, or deemed to be so left, at the risk of the person leaving them.
+(6) The Corporation may make special agreements with any person for insuring any goods delivered upon the railway against all loss or damage from any cause whatever or for insuring the Corporation against all liability in respect of any such loss or damage; and, for the purposes of the premiums in respect of any such insurance, may increase or diminish the charges payable on the goods.
+(7) The Corporation may enter into any kind of contract for the carriage of goods described in section 8 of the Carriage of Goods Act 1979.
+(8) Every person who makes or procures to be made any false statement in regard to any goods delivered upon the railway (whether in respect of their nature, quantity, weight, measurement, value, or otherwise howsoever) in any consignment note, waybill, or other document delivered in respect of those goods, commits an offence and shall, in respect of each offence, be liable on summary conviction to imprisonment for a term not exceeding 6 months, or to a fine not exceeding $2,000.
+(9) If in any such document there is any understatement of the quantity, weight, measurement, or value of the goods, or any misdescription of their nature, which if undetected might lead to their being charged for at less than the proper rate, then, in lieu of charges at the ordinary rate, and irrespective of any person's liability under the last preceding subsection, and whether the understatement or misdescription is wilful or not, charges at a special rate to be fixed by the Corporation, not exceeding double the ordinary rate on the whole consignment, shall be payable in respect of the goods.
+
+### 19
+[Repealed]
+
+### 20 Power to sell goods left by unknown owner
+(1) If any goods are left on railway premises and the owner thereof or the person liable for the charges thereon is not known, the Corporation may cause it to be publicly notified that, unless in the meantime they are removed and the charges thereon paid, they will be sold upon a day named in the notice, being not less than one month from the publication thereof.
+(2) If the goods are not removed and the charges thereon paid before that day, they may be sold in terms of the notice.
+(3) The balance of the proceeds of any such sale, after paying the charges and expenses as specified in the last preceding section, shall be paid into any bank account opened by the Corporation, and shall be paid by the Corporation to any person establishing a lawful claim thereto within one year of the date of the sale.
+
+### 21 Power to act as agent of consignor of any goods to collect the price thereof
+(1) The Corporation may act as the agent of the consignor of any goods to collect from the consignee the price of those goods, and to give a valid discharge in respect thereof.
+(2) The terms of any such contract of agency under this section shall be as agreed between the parties, or, in the absence of any special agreement, shall be in accordance with conditions published by the Corporation in the Gazette.
+
+### 22 Power to retain goods received for conveyance if subject to unpaid Customs duties
+(1) When any goods have been received for conveyance upon a railway, and the consignee or owner has not complied with all the provisions of any law relating to the charge or collection of duties by the Customs Department, or has not paid all charges incurred by the Corporation on account of the goods that have accrued upon or prior to receipt of the goods by the Corporation, or if the goods are held awaiting the consignor's order to deliver, they may all be held and detained by the Corporation until all such provisions are complied with, and all such charges (if any) are paid, and the consignor's order to deliver (if necessary) is given.
+(2) During the time the goods are so held and detained the Corporation shall be responsible only as a warehouseman in respect of any loss or damage that may occur thereto.
+(3) The powers by this section conferred upon the Corporation shall not affect the powers vested in it by section 20 of this Act.
+
+### 23 Power to produce, sell, hire, and operate
+The Corporation may from time to time do any of the following things:
+  (a) Establish, maintain, and operate or otherwise arrange for the operation of metal and gravel producing works:
+  (b) Undertake the production and sale of advertising or advertising space in any form whatever:
+  (c) Act as the agent of any travel operator, whether within or outside New Zealand, in respect of the sale of any ticket, reservation, or travel arrangement whatever:
+  (d) Establish, maintain, and operate or otherwise arrange for the operation of engineering and mechanical workshops and any other works which produce materials, goods, or services required by the Corporation:
+  (e) Acquire, hire, or lease, or let on hire or lease any materials, machinery, or equipment, including locomotives, wagons, vessels, and vehicles of all descriptions which may be used in connection with the Corporation's operations and services, whether by the Corporation or any other person:
+  (f) Enter into contracts or joint ventures for the supply or execution of works, the provision of labour, or the marketing of materials, goods, equipment or services (whether for sale, hire purchase, or hire), whether or not they are systems, products, by-products, or manufactures of any branch of the Corporation.
+
+### 24 Power in relation to property
+Subject to this Act, the Corporation may from time to time for the purposes of carrying out its functions and exercising its powers do all or any of the following things—
+  (a) Occupy, use, manage, and receive any revenues from, and dispose of and receive the proceeds of, the disposal of any property vested in or held or occupied by the Crown for railway purposes without any authority other than this paragraph:
+    Provided that this paragraph shall not apply to the disposal of any public reserve within the meaning of the Reserves Act 1977:
+    Provided also that no land shall be disposed of by way of sale, conveyance, transfer, or assignment without the prior written consent of the Minister, who shall have due regard to the future development of the railways:
+  (b) Purchase, take on lease, be granted, accept, or otherwise acquire any property, either by agreement or subject to section 30 of this Act, compulsorily, whether by or on behalf of the Crown, or on its own behalf and to acquire in its own name without further payment any property vested in or held or occupied by the Crown for railway purposes:
+  (c) Hold, furnish, equip, develop, improve, alter, extend, repair, and maintain any property:
+  (d) Subdivide any land, whether by or on behalf of the Crown or on its own behalf and plan, design, construct, and provide buildings, facilities, amenities, works, and services on any land:
+  (e) Enter into covenants or agreements in respect of any property:
+  (f) Administer, manage, and control any property:
+  (g) Except as otherwise provided in this or any other Act, sell, exchange, convey, transfer, assign, lease, dispose of, turn to account, or otherwise deal with any property:
+  (h) Mortgage or otherwise charge any property held in its own name:
+  (i) Except as otherwise provided in this or any other Act, generally exercise any rights or undertake any liabilities in respect of any property that could be carried on, exercised, or undertaken by any individual owning such property.
+
+### 25 Acquisition and disposal of shares, stock, or interest in company or business
+(1) The Corporation may, from time to time, with the approval of the Minister of Finance, subscribe for or otherwise acquire shares, stocks, debentures, or any interest in any company, body corporate, organisation, or business.
+(2) The Corporation or any person authorised in that behalf by it may from time to time exercise on behalf of the Corporation all or any of the rights and powers of the Corporation as the holder of any shares, stock, debentures, or interest specified in subsection (1) of this section.
+(3) The Corporation may sell or otherwise dispose of any shares, stock, debentures, or interest specified in subsection (1) of this section in such manner and on such terms as it thinks fit.
+
+### 26
+[Repealed]
+
+### 27
+[Repealed]
+
+### 28 Disposal of railways
+(1) In this section, unless the context otherwise requires,—
+  - **Company** means a company or any other body incorporated in New Zealand or elsewhere, and having authority by virtue of its memorandum of association or otherwise to acquire and work any railway in accordance with this section
+  - **Railway** includes any defined portion of a railway.
+(2) Where the operation of any railway has ceased, the Corporation may with the approval of the Minister sell or otherwise dispose of that railway to any company willing to take and work the same, and may in like manner sell or dispose of any other property of the Corporation held in respect of that railway.
+(3) In making any disposition under subsection (2) of this section, the Corporation may impose such terms and conditions as it thinks fit, including conditions as to the working and maintenance of the railway, and it shall not be lawful for the company to work the railway save in accordance with the conditions so imposed.
+(4) Where work in connection with the construction of any railway has been suspended or abandoned the Corporation may, with the approval of the Minister, by sale, lease, or otherwise, dispose of the same and of all or any property of the Corporation held in connection therewith to any company willing to complete the construction and thereafter to work the railway.
+(5) In making any disposition under subsection (4) of this section, the Corporation may impose such terms and conditions as it thinks fit, including conditions as to the completion of the work of construction and as to the working and maintenance of the railway on the completion thereof, and it shall not be lawful for the company to undertake the work or to work or maintain the railway save in accordance with the conditions so imposed.
+(6) The Corporation may require any such company as aforesaid to find good and sufficient security for the due performance of any conditions imposed under this section to such amount as the Corporation directs.
+(7) The powers conferred by this section are in addition to and not in substitution for any other powers as to the disposal of Corporation railways conferred by this or any other Act, and nothing in this Act or in any other Act imposing any restrictions on the sale or other disposal of property of the Corporation or of the Crown shall have any application to or in any way restrict the exercise of any of the powers conferred by this section.
+
+### 29 Powers of Corporation as to use of railways, wharves, etc
+The Corporation may from time to time enter into any agreement or contract with any person for all or any of the following things:
+  (a) Providing that the person may, for such term as the Corporation thinks fit, use any works, buildings, wharves, and jetties constructed and used for the purposes of the Corporation:
+  (b) Providing that the Corporation or any person authorised by the Corporation may use any works, buildings, wharves, and jetties belonging to any such person:
+  (c) For laying down any tramway or line of rails in or upon any wharf, quay, or dock, or upon any land vested in any such person, for the conveyance of goods and passengers to and from a railway:
+  (d) For the use of cranes, hoists, weighing and other machines, weights and measures, conveniences, or appliances belonging to any such person:
+  (e) For the use by any such person of cranes, hoists, weighing and other machines, weights and measures, conveniences, or appliances used for the purposes of the Corporation:
+  (f) For the charges to be payable for services performed by or on behalf of any person:
+  (g) For the collection of the charges and for payment of the charges to any person with whom that agreement is made:
+  (h) As to the payment to be made by the one party to the other party of such charges as may be fixed, the time and mode of payment, and the keeping of accounts between the parties:
+  (i) Generally for the settlement of such terms and conditions as may be necessary to give effect to the foregoing provisions.
+
+### 30 Powers of Minister of Railways and Corporation under Public Works Act 1981
+(1) The powers and duties conferred and imposed on the Minister of Lands in respect of the compulsory acquisition of land by the Public Works Act 1981 are, so far as they are applicable and with any necessary modifications, hereby conferred and imposed on the Minister in respect of all matters and works under the control of, or being carried out by, the Corporation.
+(2) The powers and duties conferred and imposed on—are hereby conferred and imposed on the Corporation in respect of all matters and works under the control of, or being carried out by, the Corporation.
+  (a) The Minister of Lands under any provision of the Public Works Act 1981 (other than the powers and duties conferred and imposed on that Minister in respect of the compulsory acquisition of land); and
+  (b) The Minister of Transport under any provision of that Act (other than the powers and duties conferred and imposed on that Minister in respect of motorways and limited access roads); and
+  (c) Any Minister of the Crown under any provision of that Act; and
+  (d) Any chief executive under any provision of that Act—
+(3) The powers and duties conferred and imposed on the Minister and the Corporation by this section shall not in any way limit or interfere with the powers and duties conferred on any Minister of the Crown or on any chief executive under the Public Works Act 1981.
+
+### 31 Power to protect railway
+(1) Without in any way limiting the powers conferred upon the Minister of Transport by section 166 of the Public Works Act 1981, it is hereby declared that either the Corporation or the Minister of Transport, for the purpose of protecting any Corporation railway, or preventing or lessening any risk of damage thereto, may from time to time construct, maintain, alter, or reconstruct any embankment, groyne, or other protective work on any land or on the bank of any river or stream, or divert, impound, or take away any part or the whole of the water of any river or stream, or alter the course of any river or stream; and may also discontinue or abandon any such work as and when it or he thinks fit.
+(2) The Corporation may, by notice in writing, require the occupier or, where there is no occupier, the owner of any land abutting upon a railway to do any of the following acts:
+  (a) To remove, lower, or trim to the satisfaction of the Corporation any tree or hedge where, in the opinion of the Corporation, the removal, lowering, or trimming is necessary in order to prevent injury to the railway or obstruction to the traffic thereon or to any channel, ditch, or drain appertaining thereto:
+  (b) To remove, lower, or trim to the satisfaction of the Corporation any tree or hedge, or to lower any fence or wall, if in the opinion of the Corporation, the tree, hedge, fence, or wall is likely, by reason of its obstructing the view, to cause danger to the traffic on that or any other railway.
+(3) Within 10 days after service of the notice the occupier or owner may apply to a District Court for an order setting aside the notice.
+(4) On the hearing of the application, the Court, whose decision shall be final, shall determine whether the notice should or should not be set aside, and in the former case the notice shall be deemed to be void.
+(5) In the case of a notice which is not set aside, if the occupier or owner fails to do any such act in compliance therewith within one month after the service thereof, or, where the application has been heard, within one month after the giving of the decision of the Court, the Corporation may enter on the land and do that act and recover the cost from him.
+(5A) Any person entering on any land on behalf of the Corporation pursuant to this section shall carry identification and produce it on initial entry and, if requested, at any subsequent time.
+(6) The said cost shall be a charge upon the land.
+(7) Except with the written consent of the Corporation or of the Minister of Transport, it shall not be lawful for any local authority, or for any person other than the Corporation or the Minister of Transport, to exercise upon any railway land any of the powers conferred by this section upon the Corporation or the Minister of Transport.
+(8) All claims for compensation in respect of the exercise of any of the powers conferred by this section shall, unless settled by agreement, be determined in the manner provided by the Public Works Act 1981, and the provisions of that Act relating to compensation shall, so far as they are applicable and with any necessary modifications, apply accordingly.
+(9) Nothing in this section shall derogate from the provisions of Part 3 of the Resource Management Act 1991.
+
+### 31A
+[Repealed]
+
+### 32 Certificates of title for railway land
+(1) Where any land has become vested in the Crown or the Corporation for railway purposes so that the fee simple estate and all other estates and interests therein of any person other than the Crown are extinguished, the District Land Registrar, on the completion of such surveys (if any) as may be necessary shall, at the request of the Corporation, issue a certificate of title for the estate in the land or part of the land specified in the request in the name of either the Crown or the Corporation, and that certificate of title shall include a reference to the purposes for which the land is held.
+(2) Any instrument which relates to the land in any such certificate of title and is duly executed by a person having the necessary authority under this Act may thereafter be registered in accordance with the Land Transfer Act 1952.
+(3) Any certificate of title issued before the commencement of this section in the name of the Crown and any instrument which is duly executed by a person having the necessary authority under this Act or under the corresponding provisions of any former Act and which relates to the land in any such certificate of title shall be deemed to have been lawfully issued or executed.
+(4) Any land declared by section 26 or section 37 of the Public Works Act 1981 to be vested in the Crown in fee simple shall for the purposes of this section be deemed to be vested in the Crown so that the fee simple therein is extinguished.
+
+### 33 Lands and buildings may be leased
+(1) The Corporation may from time to time let on lease, upon such conditions and for such term, subject to this section, as it thinks fit—
+  (a) Any railway land for sites for storing goods, or for erecting buildings, or for such other purposes as may be approved by it:
+  (b) Any railway buildings, workshops, or other erections:
+  (c) Any land or buildings for the sale of refreshments, books, or other articles:
+  (d) The use of structures erected on land, or of any part of the rolling stock, for the display of advertisements thereon.
+(2) For the purposes of subsection (1)(a) of this section the expression land includes, whether together with or separately from the surface of the land,—
+  (a) The whole or any portion of the air space above the land:
+  (b) The whole or any portion of the subsoil.
+(3) The letting may be by private contract, or by public tender, or by public auction, or by public application at fixed rentals, or pursuant to a licence granted under section 34 of this Act:
+  Provided that the letting may be by private contract in the following cases only:
+    (a) Where the lease is for a term not exceeding 2 years without right of renewal; or
+    (b) where the rent payable under the lease is not less than an annual rent fixed by a valuation made by a registered valuer; or
+    (c) where paragraph (a) does not apply and the Corporation considers that it would be impracticable or unreasonable to obtain a valuation for the purposes of paragraph (b).
+(4) The lease may be for a term not exceeding 21 years with or without a right of renewal, perpetual or otherwise, for the same or any other shorter term:
+  Provided that where the lease is in respect of any property to which paragraph (c) or paragraph (d) of subsection (1) of this section applies, the term of the lease shall not exceed 7 years.
+(5)
+(6) In addition to the powers conferred on the Corporation by the foregoing provisions of this section, the Corporation shall, in respect of any lands to which this section relates, have all the powers of a leasing authority under the Public Bodies Leases Act 1969.
+(7) In subsection (3), registered valuer means a valuer registered under the Valuers Act 1948.
+
+### 34 Development licences may be granted in respect of unused railway land or buildings
+(1) The Corporation may from time to time grant a licence, upon such conditions and for such term and upon such payment (if any) as it thinks fit, to any person to enter upon railway land and to do all such things as may be specified in the licence, for the purpose of making such investigations as may be necessary in order to prepare a plan for the development for industrial, commercial, residential, or recreational purposes of any railway land or buildings that are or may become available for leasing.
+(2) Any licence granted to any person under subsection (1) of this section may contain provisions for the grant to that person or his assignee of a lease of all or any part of the land or buildings in respect of which the investigations for development are to be made, upon the fulfilment of such conditions in that behalf as may be specified in the licence.
+(3) Section 35(4) of this Act shall not apply to any right to any easement, or to construct or carry out any work upon, over, or under any railway which is granted under or in connection with any licence granted under subsection (1) of this section, or under or in connection with any lease granted pursuant to any such licence.
+
+### 35 Grant of easements
+(1) The Corporation may from time to time, grant to any person any easement in, upon, through, over, or under any railway land, subject to such conditions and payments of rent as the Corporation thinks fit, and subject to revocation without compensation at any time when the service of the public requires it, and subject also to immediate revocation in case of the breach of any conditions under which the easement was granted:
+  Provided that nothing herein shall be so construed as to limit the power of the Corporation to impose additional conditions as to revocation if it thinks fit.
+(2) Subject to such terms as to rental or other payment, and such other terms and conditions, including conditions as to revocation, as it deems fit, and subject also in every case to the conditions as to revocation contained in subsection (1) of this section, the Corporation may from time to time, grant to any person any of the following easements, privileges, or concessions in respect of any railway land:
+  (a) Right of way or passage:
+  (b) Right of access to any railway by gateway or otherwise:
+  (c) Right to use water:
+  (d) Right to lay, construct, maintain, and use any electric line, telephone line, telephone, telephone booth, tramway, roadway, footway, parking place, level crossing, water race, sludge channel, culvert, drain, pipe, loading bank, fuel tank, weighbridge, wharf, stage, mooring site, timber slip, boom, crane, protective tank, sluice gate, fence, or plantation:
+  (e) Right to cut timber, flax, or grass:
+  (f) Right to take away earth, clay, rock, limestone, ballast, gravel, or sand:
+  (g) Any other easement, privilege, or concession of a similar character.
+(3) Notwithstanding anything in subsection (1) or subsection (2) of this section, where any easement, privilege, or concession to which those subsections refer is granted to any person under or in connection with any licence granted under section 34(1) of this Act, or under or in connection with any lease granted pursuant to any such licence, the easement, privilege, or right may be subject to such payments of rent and such conditions as the Corporation thinks fit, including conditions as to revocation without compensation when the service of the public requires it, and such additional conditions as to revocation as the Corporation considers necessary.
+(4) Subject to the Telecommunications Act 1987, the Electricity Act 1992, and the Gas Act 1992, but notwithstanding anything in any other Act, no person shall have any right to any easement, or to construct or carry out any work upon, over, or under any railway, without having first obtained from the Corporation a grant of the right as provided in this section; and the Corporation may require the person to execute a deed or agreement setting forth the conditions subject to which the right is granted.
+(5) Any easement granted to a public body upon, over, or under any railway at a public level crossing shall be at a nominal rental.
+
+## Part 3 — Financial provisions
+
+### 36 Capital of Corporation
+(1) The Governor-General shall, on the advice of the Minister of Finance, by Order in Council determine the capital of the Corporation at the commencement of this Act.
+(2) Any amount owing to the Crown by the Corporation at the commencement of this Act and specified in the Order in Council made under subsection (1) of this section shall be deemed to have been paid to the Corporation by the Minister of Finance as part of the capital of the Corporation, and the liability of the Corporation to repay advances of that amount shall be extinguished.
+(3) The Corporation may from time to time, by resolution, recommend to the Minister of Finance that the capital of the Corporation be increased, and in any such case the Governor-General on the advice of the Minister of Finance, may by Order in Council increase the capital of the Corporation to such an amount as may be prescribed in that order. The amount of any such increase shall be paid to the Corporation by the Minister of Finance.
+(4) The Corporation may from time to time, by resolution, recommend to the Minister of Finance that the capital of the Corporation be reduced, and in any such case, the Governor-General on the advice of the Minister of Finance may, by Order in Council, decrease the capital of the Corporation to such amount as may be prescribed in that order.
+
+### 37 Borrowing by and loans to Corporation
+(1) The Corporation may from time to time, with the consent of the Minister of Finance and on and subject to such terms and conditions as he thinks fit, borrow money (whether by overdraft or otherwise) and issue debentures, or mortgage or charge any of its real or personal property.
+(2) The Minister of Finance may from time to time, on behalf of the Crown,—on and subject to such terms and conditions as the Minister of Finance thinks fit.
+  (a) Advance money to the Corporation; and
+  (b) Give in respect of any advances made to the Corporation by any other person any guarantee, indemnity or security pursuant to the Public Finance Act 1989,—
+(3) The Minister of Finance may from time to time, on behalf of the Crown, enter into agreements with the Corporation for the purpose of giving full effect to the provisions of this section.
+(4) All money required to be paid by the Minister of Finance under this section (other than subsection (2)(b)) or section 36 of this Act shall be paid out of the Consolidated Account or the Loans Account from money appropriated by Parliament for the purpose.
+
+### 37A Power to enter into swaps or other financial arrangements
+For the purposes of clarification and the avoidance of doubt, it is hereby declared that the Corporation may, from time to time, if it appears to the Corporation to be necessary or expedient to do so, enter (either directly or through an intermediary) into any arrangement with any person, organisation, or government (in this section referred to as the other party), either within or outside New Zealand, whereby the Corporation undertakes to make payments to, or to the account of, the other party in any currency and the other party undertakes to make payments to, or to the account of, the Corporation in the same or any other currency.
+
+### 37B Financial provisions relating to liability of the Crown in respect of Corporation's debt
+All money that is required by the Crown to discharge obligations—that arise under any agreement made between the Crown, the Corporation, and NZ Railways Finance Corporation Limited shall be paid out of the Crown Bank Account by the Minister of Finance or the Treasury without further appropriation than this section.
+  (a) To make payments to or on behalf of the Corporation in respect of loans or swap transactions or forward rate agreements raised or entered into by the Corporation; or
+  (b) To make payments to or on behalf of NZ Railways Finance Corporation Limited in respect of the issue of redeemable preference shares or convertible notes—
+
+### 38 Investments
+Any money belonging to the Corporation and from time to time available for investment may be invested—
+  (a) In New Zealand Government securities:
+  (b) On deposit in any bank or banks approved for the purpose by the Minister of Finance:
+  (c) In any manner, or in any securities, that may from time to time be authorised for the purpose by the Minister of Finance.
+
+### 39 Bank accounts
+(1) The Corporation may from time to time open at any bank or banks approved for the purpose by the Minister of Finance, or at any branch or agency of any such bank, such accounts (including imprest and subsidiary accounts) as it considers necessary or desirable for the conduct of its business.
+(2) Every account opened under subsection (1) of this section shall be operated upon by cheque or other instrument (not being a promissory note or bill) signed by such person or persons as may from time to time be authorised in that behalf by the Corporation.
+
+### 40 Capital works expenditure programme
+(1) The Corporation shall, before the 31st day of March in each financial year, in the context of a 5 year strategic plan, provide the Minister with a programme of major capital works proposed to be undertaken by the Corporation during the following financial year.
+(2) In the exercise of its functions and powers, the Corporation shall not, without the consent of the Minister, undertake capital expenditure for any particular purpose in excess of such sum as the Minister of Finance may from time to time determine.
+
+### 41 Unauthorised expenditure
+In any financial year the Corporation may expend for purposes not authorised by this or any other Act any sum or sums not amounting in the aggregate to more than $5,000.
+
+### 42 Dividends on capital
+(1) After making provision in relation to accumulated losses, the Corporation shall in each financial year declare a dividend on the capital of the Corporation of such amount as may be fixed in that behalf by the Minister of Finance after consultations by him with the Corporation:
+  Provided that the Minister of Finance, having regard to the financial position of the Corporation, may in any financial year determine that no dividend shall be payable by the Corporation in respect of that year.
+(2) The amount of any dividend declared by the Corporation under this section shall be paid into the Consolidated Account.
+
+### 43
+[Repealed]
+
+## Part 4 — Inquiries
+
+### 44 Appointment of Board of Inquiry as to matters affecting administration of railways
+[Repealed]
+
+### 45 Corporation inquiries
+[Repealed]
+
+## Part 5 — Railway operations
+
+### 46 Safety of Corporation railways
+[Repealed]
+
+### 47 New Corporation railways
+[Repealed]
+
+### 48 Corporation may agree to work branch railway or siding in connection with railway
+The Corporation may agree on such terms and conditions as it thinks fit with any person desiring to construct a branch railway or siding in connection with any Corporation railway for the construction and maintenance of so much of the branch or siding as may be within the limits of the railway, and for the working of the branch or siding in connection with the railway, subject, however, to the following conditions:
+  (a) No such agreement shall have effect for more than 10 years from the date thereof:
+  (b) The part of the branch or siding within the boundaries of the railway shall be deemed to be a part of the railway, and shall be worked subject to such conditions relating to proper maintenance, with a view to protecting the railway and rolling stock from injury and to ensuring safety and economy in working, as the Corporation from time to time thinks fit to impose, whether by agreement, rule, instruction, or otherwise:
+  (c) The part of the branch or siding outside the boundaries of the railway shall be worked subject to such conditions relating to proper maintenance, with a view to protecting the railway and rolling stock from injury and to ensuring safety and economy in working as the Corporation from time to time thinks fit to impose, whether by agreement, rule, instruction, or otherwise:
+  (d) If default is made in duly paying any money payable under the agreement, or in duly observing any of the other terms or conditions thereof, in any such case, and so long as the default continues, the Corporation may at any time suspend the traffic upon the branch or siding, or close its connection with the railway:
+  (e) The Corporation may at any time, after giving 3 months' notice thereof to the owner or manager of the branch or siding, close or remove the connection with the railway:
+  (f) No compensation shall be payable to any person whatever for any loss or damage arising from the connection of any branch or siding with the railway being closed or removed under paragraph (d) or paragraph (e) of this section.
+
+### 49 Corporation may agree with companies for running powers over lines
+(1) After the completion of any such branch or siding connected with a Corporation railway the Corporation may agree with the person constructing or owning the branch or siding that any trains or rolling stock the property of the Corporation may be run upon the branch or siding, and that any trains or rolling stock the property of that person may be run upon any Corporation railway, upon such terms and conditions as are specified in the agreement.
+(2) No such agreement shall have effect for more than 5 years from the date thereof.
+(3) Nothing in this Act or in any such agreement shall be deemed to authorise any person to enter upon any Corporation railway for any purpose whatever, except with the written authority of the Corporation first obtained in that behalf.
+(4) The agreement may provide for the payments to be made by the one party to the other party of such charges as are fixed in that behalf, and as to the time and mode of payment thereof and the keeping of accounts between the parties.
+(5) For all purposes of conducting traffic, and for levying charges, and for the operation of regulations, rules, and instructions the branch or siding shall during the subsistence of the agreement be deemed to be a Corporation railway, and all the provisions of this Act that may be applicable thereto shall be applicable to the branch or siding accordingly, subject to such modifications or alterations as are prescribed by the Corporation.
+(6) Nothing in this section shall give to any such person any power or authority to enter into any agreement which is not within the scope of the powers or authorities possessed by him.
+
+### 50 Railway crossings
+[Repealed]
+
+### 51 Local authorities may contribute towards cost of railway bridge or subway
+[Repealed]
+
+### 52 Lights, etc, liable to be confused with railway signals
+[Repealed]
+
+### 53 Warning devices at level crossings
+[Repealed]
+
+### 54 Traffic at level crossings
+[Repealed]
+
+### 55 Rail traffic to have right of way
+[Repealed]
+
+### 56 Employee may impound trespassing cattle
+(1) Any employee may impound cattle trespassing on any railway; and any act, matter, or thing required under the Impounding Act 1955 to be performed or done by the occupier of land as defined in that Act may be performed and done in respect of any railway by any person authorised generally or specially in that behalf by a railway district traffic manager, a railway district civil engineer, or a railway resident civil engineer.
+(2) Section 174 of the Public Works Act 1981 shall not apply to Corporation railways open for traffic.
+
+### 57 No railways to cross Corporation railways without consent
+[Repealed]
+
+### 58 Gates and cattle stops
+[Repealed]
+
+## Part 6 — Wellington to Johnsonville and Hutt Valley railways
+
+### 59 Application of this Part
+[Repealed]
+
+### 60 Interpretation
+[Repealed]
+
+### 61 Restriction upon the carrying on of passenger services
+[Repealed]
+
+### 62 Offences
+[Repealed]
+
+### 63 Corporation to carry on passenger services within prescribed area
+[Repealed]
+
+### 64 Information for offences
+[Repealed]
+
+### 65 Hutt Valley passenger services
+[Repealed]
+
+## Part 7 — Staff administration
+
+### 66 Appointment and dismissal of officers and employees of the Corporation
+Subject to this Act, the Corporation may, from time to time,—
+  (a) Appoint such officers and employees, including apprentices and temporary and probationary officers and employees, as it considers necessary for the efficient exercise of its functions; and
+  (b) In accordance with the Corporation's terms and conditions of employment, remove any such officer or employee from his office or employment.
+
+### 67 Salaries and conditions of employment
+[Repealed]
+
+### 68 Application of State Services Conditions of Employment Act 1977
+[Repealed]
+
+### 69 Application of State Services Act 1962
+[Repealed]
+
+### 70 Labour Relations Act 1987 not to apply
+[Repealed]
+
+### 71 Officers and employees of New Zealand Government Railways
+[Repealed]
+
+### 72 Superannuation of officers and employees
+Notwithstanding the definition of Government service in section 2 of the Government Superannuation Fund Act 1956, employment in the service of the Department or the Corporation as the case may be, either before or after the commencement of this Act shall be deemed to be Government service for the purposes of the Government Superannuation Fund Act 1956.
+
+### 73 Classification of Corporation
+[Repealed]
+
+### 74 Compulsory membership of service organisations
+[Repealed]
+
+### 75 Method of appointment to Corporation
+[Repealed]
+
+### 75A Appointment of officers under contract
+[Repealed]
+
+### 76 Limiting power of making new appointments to Corporation
+[Repealed]
+
+### 77 Officers may be transferred from State Services or Education service to Railways Corporation
+[Repealed]
+
+### 78 Power to reappoint employees of service organisations
+[Repealed]
+
+### 79 Effective date of appointments
+[Repealed]
+
+### 80 Annual determinations as to suitability for promotion
+[Repealed]
+
+### 81 Engagement of apprentices
+[Repealed]
+
+### 82 Indentures of apprenticeship
+[Repealed]
+
+### 83 Transfer of apprentices
+[Repealed]
+
+### 84 Establishment of apprenticeship advisory committee
+[Repealed]
+
+**Promotions and transfers within Corporation**
+
+### 85 Positions may be filled by transfer of members already in Corporation
+[Repealed]
+
+### 86 Appointments to be provisional
+[Repealed]
+
+### 87 Provisional appointment may at any time be cancelled by Corporation
+[Repealed]
+
+### 88 Continuous review of classification and grading
+[Repealed]
+
+### 89 Review of grading
+[Repealed]
+
+### 90 Grading Committee
+[Repealed]
+
+### 91 Successful application for review of grading
+[Repealed]
+
+### 92 Railway employees responsible for damage
+[Repealed]
+
+### 93 Penalties for breach of regulations or rules
+[Repealed]
+
+**Constitution of Appeal Board and rights of appeal**
+
+### 94 Railways Corporation Appeal Board
+[Repealed]
+
+### 95 Election of members of Appeal Board
+[Repealed]
+
+### 96 Procedure as to appeals
+[Repealed]
+
+### 97 Costs of appeals
+[Repealed]
+
+### 98 Rights of appeal of members
+[Repealed]
+
+### 98A Rights of appeal in respect of enterprise units and positions for which range of rates of remuneration is prescribed
+[Repealed]
+
+### 99 Rights of appeal of temporary employees
+[Repealed]
+
+### 100 Notice of appeal, jurisdiction, etc
+[Repealed]
+
+### 101 Offence to attempt to influence improperly Appeal Board or any member thereof
+[Repealed]
+
+### 102 Regulations
+[Repealed]
+
+## Part 8 — New Zealand Railways Staff Welfare Society
+
+### 103 Interpretation
+[Repealed]
+
+### 104 Constitution and membership of society
+[Repealed]
+
+### 105 Functions of society
+[Repealed]
+
+### 106 New Zealand Railways Staff Welfare Board
+[Repealed]
+
+### 107 Meetings of Welfare Board
+[Repealed]
+
+### 108 Miscellaneous financial provisions
+[Repealed]
+
+### 109 Contracts of Welfare Board
+[Repealed]
+
+## Part 9 — Regulations, scales of charges, and codes of practice
+
+**Regulations**
+
+### 110 Regulations
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+  (a) Regulating, restricting, or prohibiting the smoking of tobacco or any other substance on the railways and other services lawfully carried on by the Corporation and prohibiting the committing of nuisances on the railways and other services lawfully carried on by the Corporation:
+  (b) Regulating, restricting, or prohibiting traffic on or over any road or bridge used for both ordinary and railway traffic, or on or over any road, bridge, or other place, that is on or over or under any railway:
+  (c) Regulating the admission of vessels to any wharf, jetty, berth, or mooring owned or controlled by the Corporation, and their use of and removal from the same:
+  (d) Regulating, restricting, or prohibiting the entry or remaining on any part of any railway by persons or animals, and prescribing the conditions upon which they may be permitted to enter or remain thereon:
+  (e) Regulating, restricting, or prohibiting persons from entering into or upon or from travelling in any carriage, omnibus, service car, or other vehicle or any part of any carriage, omnibus, service car, or other vehicle:
+  (f) Regulating the manner in which, the times and places at which, and the conditions subject to which, tickets of any kind shall be purchased, used, presented, and delivered up:
+  (g) Providing for the licensing and regulating of vehicles and of drivers plying or otherwise available for hire within the precincts of any railway, and in connection therewith prescribing licence fees:
+  (h) Providing for the licensing of persons, subject to such conditions as the Corporation may deem fit, to ply for hire of their services, or to keep refreshment rooms or bookstalls, or to sell articles, within the precincts of any railway:
+  (i) Declaring certain goods to be dangerous goods and regulating or prohibiting the conveyance, carrying, placing, or depositing of any such goods or of any deleterious thing on any railway or other service lawfully carried on by the Corporation:
+  (j) Requiring compliance with any code of practice (including any amendment thereof) that has been issued under section 112 of this Act:
+  (k) Regulating generally the traffic on the railways and other services lawfully carried on by the Corporation and the conduct of all persons employed on or about the railways and other services lawfully carried on by the Corporation or travelling thereon or using the same.
+(1A) The Governor-General may from time to time, by Order in Council, make regulations prescribing forms for the purposes of this Act.
+(2) In respect of regulations made under subsection (1) of this section—
+  (a) The regulations may authorise any district railway officer or any other person to do all such things, and to issue all such instructions as may be deemed advisable in respect of any of the matters mentioned in that subsection:
+  (b) A copy of all regulations relating to matters affecting the public shall be fixed and maintained in a conspicuous place at every station at which tickets are sold:
+    Provided that the validity of any regulation, or the liability of any person under any regulation, shall not be affected by any non-compliance with this provision:
+  (c) Regulations may be so made as to apply generally to all railways and other services lawfully carried on by the Corporation or to any particular railway or service or part of a railway or service:
+  (d) Every person who acts in contravention of any regulation under this section commits an offence and shall be liable on summary conviction to a fine not exceeding $100:
+  (e) If in the opinion of the Corporation the breach of any regulation would cause or be likely to cause danger or annoyance to the public or hindrance to the proper use or working of a railway, the Corporation may authorise any employee, whether in person or otherwise, summarily to interfere or othewise take all proper steps to prevent the occurrence of the danger, annoyance, or hindrance, or the continuance or repetition thereof; and the taking of any such steps shall not relieve any person from any penalty to which he may be liable in respect of the breach of any such regulation.
+
+### 111 Scales of charges
+(1) The Corporation may from time to time, by notice in the Gazette, fix scales of charges to be paid in respect of railways, or of any specified railway or any part thereof, or in respect of any road passenger service to which section 63 of this Act applies, or in respect of any other services which are lawfully carried on by the Corporation, for—
+  (a) The conveyance of passengers; or
+  (b) The use by persons of a railway or any facilities or services provided by the Corporation; or
+  (c) The carriage of goods, or goods received on or into, or stored in or delivered from, any wharf, pier, jetty, office, store, shed, or yard in connection with any railway or any service lawfully operated by the Corporation; or
+  (d) The failure of passengers to take out tickets prior to joining a train at a station where tickets are sold; or
+  (e) Demurrage of rolling stock before or after transit; or
+  (f) The use of any crane, hoist, or other machinery for loading and unloading goods; or
+  (g) The haulage of locomotives and empty rolling stock; or
+  (h) The use by any vessel of any wharf, jetty, mooring, berthage, building, crane, or other appliance in connection with a railway; or
+  (i) The loading or unloading of goods from or into lighters, into or from any vessel lying at or adjacent to any wharf, pier, jetty, berthage, or mooring in connection with a railway; or
+  (j) The receipt or delivery of goods from or to any vessel lying at or adjacent to any such wharf, pier, jetty, berthage, or mooring; or
+  (k) Insurance (in addition to any other charges payable) in respect of goods carried or to be carried pursuant to a contract for carriage at declared value risk (within the meaning of the Carriage of Goods Act 1979).
+(2) Notwithstanding anything in subsection (1) of this section, the Corporation, or any employee duly authorised by it, may from time to time fix special charges to be paid in lieu of the ordinary ones upon special occasions, or for such times as it thinks fit; and it shall not be necessary to publish these special charges in the Gazette.
+(3) For the purpose of any scales of charges fixed under this section in the case of the demurrage of rolling stock at destination stations, consignees shall be deemed to have requested the demurrage.
+(4) The Corporation may, by notice in the Gazette, impose terms and conditions with respect to any of the matters mentioned in paragraphs (a) to (k) of subsection (1) of this section, including terms and conditions with respect to the conveyance of passengers and the terms and conditions on and subject to which goods will be received, held, carried, delivered, or otherwise dealt with:
+  Provided that while any such notice imposing terms and conditions relating to the checking of luggage is in force no liability shall be incurred by the Corporation in respect of luggage which has not been duly checked.
+(5) Any terms and conditions imposed under the last preceding subsection shall apply with respect to any of the matters mentioned in paragraphs (a) to (k) of subsection (1) of this section, notwithstanding that special scales of charges may be payable:
+  Provided that, with respect to any of those matters for which special scales of charges are fixed, the Corporation or any employee duly authorised by it may impose special terms and conditions in addition to or in lieu of the ordinary ones; and it shall not be necessary to publish them in the Gazette.
+(6) Without restricting the generality of subsection (5) of this section it is hereby declared that any terms and conditions imposed under subsection (4) of this section may include—
+  (a) Terms and conditions exempting the Corporation from liability for any loss, damage, or expense, whether due to delays in transit or any other cause, where the loss or damage or expense—
+    (i) It is not occasioned by the negligence or wrongful act in the Corporation or its employees or agents; or
+    (ii) In the case of goods, arises from the negligence of the consignor or his employees or agents:
+  (b) Terms and conditions giving the Corporation the right to recover from consignors the cost of damage to Corporation property or other goods where the damage or loss is caused by the inherent defect, quality, or vice of the goods causing the damage:
+  (c) Terms and conditions exempting the Corporation from liability—
+    (i) Where goods are loaded, unloaded, secured, covered, or tallied at any place by persons other than employees of the Corporation; or
+    (ii) In respect of goods held or stored by the Corporation as a warehouseman; or
+    (iii) In respect of loss of or of damage or delay to goods while in the possession, custody, or control of any carrier other than the Corporation, or of any Harbour Board, warehouseman, or other person during transit; or
+    (iv) In respect of goods consigned to or forwarded from a station where there is no stationmaster.
+(7) The power conferred by this section on the Corporation or any employee duly authorised by it to fix scales of charges to be paid for persons or goods carried on a railway shall include, and be deemed at all times heretofore to have included, the power to fix those scales by reference to distance.
+(8) Where any scale is fixed by reference to distance, the distance between any 2 named stations shall, unless it is otherwise specially provided in any case in the notice fixing the scale, be deemed and taken to be the distance as shown on the Corporation's or Department's, as the case may be, record when the section or sections of railway affected were first opened for traffic, notwithstanding that the distance may have been increased or reduced by subsequent alterations of the railway.
+(9) The power to fix scales of charges conferred on the Corporation by this section shall include, and shall be deemed always to have included, the power to fix scales of charges for sorting goods brought on to the railway and sorted by the Corporation in any shed on the railway or on any other part of the railway, whether the goods are, or are intended to be, carried on the railway or not, and notwithstanding that the goods may be brought on to the railway in pursuance of any agreement or arrangement entered into or made by the Corporation with respect to the working by the Corporation of any wharf or jetty.
+
+**Codes of practice**
+
+### 112 Codes of practice
+(1) In this section and in sections 113 and 114 of this Act, code of practice means a recommended practice; and includes a description of any commodity, process, or practice, by reference to its nature, quality, strength, purity, composition, quantity, dimensions, weight, grade, durability, origin, age, or other characteristics; and also includes a glossary of terms, definitions, or symbols.
+(2) The Corporation may, for the purposes of this Act, from time to time issue codes of practice, and may from time to time amend or revoke any such code of practice.
+
+### 113 Codes of practice to be approved by Minister
+(1) No code of practice, and no amendment or revocation of a code of practice, shall have any force or effect until it has been approved by the Minister.
+(2) The Minister shall not approve any code of practice, or any amendment or revocation of a code of practice, unless—
+  (a) Not less than one month's notice of the Corporation's intention to apply for approval has been published in the Gazette; and
+  (b) Such persons or representatives of persons as the Minister considers will be affected thereby have had an opportunity to consider it and to comment thereon to the Minister.
+(3) Whenever the Minister has approved any code of practice, or any amendment or revocation of a code of practice, notification thereof shall be published in the Gazette. Every such code of practice, amendment, or revocation shall in addition be promulgated in such manner as the Minister directs.
+(4) The fact that the Minister has approved any code of practice or amendment or revocation of a code of practice shall be conclusive evidence that the requirements of this section have been complied with.
+
+### 114 Citation and proof of codes of practice
+(1) In any regulations made under this Act any code of practice or amendment of a code of practice may, without prejudice to any other mode of citation, be cited by the title or reference given to it by the Corporation, and by its date of issue; and such citation shall be deemed to include and refer to the latest code of practice or amendment in existence when the regulations were made.
+(2) Without affecting any other method of proof, the production in any proceedings of a copy of any code of practice or amendment of a code of practice purporting to be issued by the Corporation shall, in the absence of proof to the contrary, be sufficient evidence that it has been issued under the authority of section 112 of this Act and that it has been approved by the Minister under section 113 of this Act.
+
+## Part 10 — General provisions
+
+### 115 Offences
+(1) If any person knowingly does, or causes or procures to be done, any of the following things,—that person commits an offence and shall, in respect of each offence, be liable on summary conviction to imprisonment for a term not exceeding 6 months, or to a fine not exceeding $2,000.
+  (a) Places any rolling stock on a railway, not having lawful authority to do so; or
+  (b) Moves any part of the rolling stock on a railway, or leaves the same on any part of a railway, not having lawful authority to do so; or
+  (c) Moves any signal, points, or stop blocks without lawful authority, or shows any signal likely to mislead; or
+  (d) Obstructs any employee in the performance of his duty; or
+  (e) Except when acting in the course of his duties in connection with the purchase, sale, or disposal of intoxicating liquor pursuant to section 26 or section 27 of this Act gives or offers to give any intoxicating liquor to any employee while he is on duty; or places any intoxicating liquor in the possession or care of any such employee otherwise than for conveyance of storage on any railway in the ordinary course of business; or
+  (f) Alters any ticket, certificate, or order with intent to avoid payment of the proper fare or any part thereof; or
+  (g) Uses any ticket the time for the proper use of which has expired, or which has already been used to the full extent to which the holder is entitled to use it; or
+  (h) Sells or transfers, or offers for sale or transfer, any ticket which is not transferable, or permits any person other than the person to whom or on whose behalf the ticket is issued to make use of the ticket; or
+  (i) Sells or transfers, or offers for sale or transfer, a ticket or any portion of a ticket which has been used for the whole or any part of the journey, period, or trips for which the ticket was issued, or travels or attempts to travel with any such ticket or portion of such a ticket sold or transferred by any person; or
+  (j) Sells, or transfers, or offers for sale or transfer, or permits any person (other than the person in whose name or on whose behalf it is made out) to use, any certificate or order for the purpose of obtaining a concession ticket or reduction in fare; or
+  (k) Uses or attempts to use any certificate or order for a concession ticket or reduction in fare without being entitled to do so; or
+  (l) Uses or attempts to use any ticket which is not transferable and has not been issued to him or to some person on his behalf; or
+  (m) Makes or procures to be made to any employee, or to any agent of the Corporation, or in any document delivered to any such employee or agent, any false statement respecting the age or occupation of any person, or respecting any other matter on which the charge for any ticket is dependent,—
+(2) If any person knowingly does, or causes or procures to be done, any of the following things,—that person commits an offence and shall, in respect of each offence, be liable on summary conviction to a fine not exceeding $500.
+  (a) Neglects, delays, or refuses to produce or deliver up his ticket immediately it is called for by any employee on any train or other vehicle or elsewhere on the railway; or
+  (b) Without reasonable cause uses, or attempts to use, or interferes with any braking appliances provided in any railway carriage, or any door in any omnibus for use in cases of emergency; or
+  (c) Writes, draws, affixes, impresses, or exhibits any placard, bill, statement, word, picture, drawing, or sign on any railway, or sells or attempts to sell any articles on any railway, without being authorised to do so by the Corporation; or
+  (d) Neglects to shut any gate or slip panel in any fence forming the boundary of, or upon adjoining, any railway,—
+
+### 116 Penalties for damage to railways
+If any person not having lawful authority or the written permission of the Corporation does, or causes or procures to be done, any of the following things—that person commits an offence and shall, in respect of each offence, be liable on summary conviction to a fine not exceeding in the case of a body corporate $2,000, and in every other case $500, for every day upon which the offence is committed or suffered to continue, and a further sum equal to the cost incurred in removing any such encroachment or obstruction, or in repairing any such injury done to any such land, ditch, drain, watercourse, or other property of the Corporation, or in replacing any such tree, shrub, or timber.
+  (a) Encroaches on land being part of any railway by making any building, fence, ditch, drain, or other obstacle, or planting any tree or shrub thereon; or
+  (b) Digs up, removes, or alters in any way the soil or surface of any such land; or
+  (c) Fills up, diverts, alters, or obstructs any ditch, drain, or watercourse which directly carries water off any such land or is made to protect the same, or does any act whereby any such ditch, drain, or watercourse is stopped, or the natural flow of water therein is obstructed; or
+  (d) Interferes with or diverts any ditch, drain, or watercourse so as to damage or injure any such land or other property of the Corporation; or
+  (e) Fells or removes any tree, shrub, or timber growing on any such land,—
+
+### 117 Certificate by Corporation to be evidence of certain facts
+(1) A certificate under the seal of the Corporation that any specified land belonging to either Her Majesty or to the Corporation or forming part of a public reserve, or any specified fixed or movable property belonging to the Corporation, is in fact included as portion of a railway or of any service for the carriage of passengers or goods lawfully carried on by the Corporation, or that any railway is in fact open for traffic, shall for all purposes be sufficient evidence of the fact.
+(2) The land or property to which any such certificate relates may be specified therein by words of general or particular description, as the Corporation thinks fit.
+(3) A certificate under the seal of the Corporation, specifying the distance between any 2 points on a railway in accordance with the Corporation record, shall be conclusive evidence of the fact.
+
+### 118 Fees for preparation of documents, etc
+For the preparation of Proclamations, Orders in Council, deeds, leases, agreements, assignments, and for endorsing consents on mortgages, assignments, or subleases, and for preparing or consenting to any other document of a like nature, the Corporation may charge such fees as may be published from time to time in the Gazette.
+
+### 119 Authorisation of reclamation
+(1) Notwithstanding anything in section 178 of the Harbours Act 1950, the Minister of Railways is hereby authorised to undertake and enter into contracts for the reclamation for railway purposes of the land described in Schedule 3 to this Act.
+(2) This section shall be deemed to be a special Act within the meaning of section 175 of the Harbours Act 1950.
+
+### 119A Application of certain transport Acts to Corporation
+Notwithstanding section 4(1) of this Act, or any other enactment or rule of law, proceedings for any offence committed on or after the 1st day of November 1989 against the Transport Act 1962, the Road User Charges Act 1977, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Transport Services Licensing Act 1989, the Railways Act 2005, the Land Transport Act 1998, or the Land Transport Management Act 2003, or any regulations or bylaws made under any of those Acts, may be brought against the Corporation as if the Corporation were not an instrument of the Executive Government of New Zealand for the purposes of those Acts.
+
+### 120 Repeals and amendments
+(1) The enactments set out in Schedule 4 to this Act are hereby consequentially repealed.
+(2) The Transport Act 1962 is hereby consequentially amended—
+  (a)
+  (b) By omitting the words Minister of Railways wherever they occur (other than in section 119(1)(d)), and substituting in each case the words New Zealand Railways Corporation:
+  (c)
+(3) The Ombudsmen Act 1975 is hereby amended—
+  (a) By omitting from Part 1 of Schedule 1 the item relating to the New Zealand Government Railways Department:
+  (b) By inserting in Part 2 of Schedule 1, after the item relating to the New Zealand Patriotic Fund Board, the item The New Zealand Railways Corporation..
+(4) Every reference in any enactment or document whatever to the New Zealand Government Railways Department shall, unless the context otherwise requires, hereafter be read as a reference to the New Zealand Railways Corporation.
+(5) Every reference in any enactment or document whatever to Government railways shall, unless the context otherwise requires, hereafter be read as a reference to New Zealand Railways Corporation railways.
+
+## Schedule 1 — Appointments of officers
+
+## Schedule 2 — Wellington to Johnsonville and Hutt Valley railways
+
+## Schedule 3 — Reclamation authorised
+
+## Schedule 4 — Enactments repealed
