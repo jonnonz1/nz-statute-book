@@ -1,5 +1,5 @@
 # Land Transport Amendment Act 2005
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-10-01_
 
 ### 1 Title
 (1) This Act is the Land Transport Amendment Act 2005.
@@ -314,7 +314,7 @@ The principal Act is amended by inserting, after Part 4, the following part:Tran
   (1) When assessing whether or not a person is a fit and proper person in relation to any transport service, the Director must consider, in particular, any matter that the Director considers should be taken into account—
     (a) in the interests of public safety; or
     (b) to ensure that the public is protected from serious or organised criminal activity.
-  (2) (2) For the purpose of determining whether or not a person is a fit and proper person for any of the purposes of this Part, the Director may consider, and may give any relative weight that the Director thinks fit having regard to the degree and nature of the person's involvement in any transport service, to the following matters:
+  (2) For the purpose of determining whether or not a person is a fit and proper person for any of the purposes of this Part, the Director may consider, and may give any relative weight that the Director thinks fit having regard to the degree and nature of the person's involvement in any transport service, to the following matters:
     (a) the person's criminal history (if any):
     (b) any offending by the person in respect of transport-related offences (including any infringement offences):
     (c) any history of serious behavioural problems:
@@ -837,7 +837,7 @@ The principal Act is amended by repealing section 84, and substituting the follo
   (3) A class of licence to drive a motorcycle does not entitle a person to drive a motor vehicle other than a motor vehicle authorised by that class of licence.
 
 ### 45 New sections 87A to 87G inserted
-The principal Act is amended by inserting, after section 87, the following heading and sections:Disqualification of transport service driver and other personsDisqualification of transport service driver1989 No 74 s 15(1)Disqualification of holder of transport service licence from holding transport service licenceProcedure for disqualifying person under section 87A or section 87B1989 No 74 s 15(2)Suspension of transport service driver and other personsImmediate suspension of transport service driver and other persons in interests of public safety1989 No 74 s 16(1)Procedure for suspending a person under section 87D1989 No 74 s 16(2)Term of suspension1989 No 74 s 16(1), (3), (4)Effect of disqualification or suspension of transport service driver and other personsEffect of disqualification or suspension of transport service driver and other persons
+The principal Act is amended by inserting, after section 87, the following heading and sections:Disqualification of transport service driver and other personsDisqualification of transport service driver1989 No 74 s 15(1)Disqualification of holder of transport service licence from holding transport service licenceProcedure for disqualifying person under section 87A or section 87B1989 No 74 s 15(2)Suspension of transport service driver and other personsImmediate suspension of transport service driver and other persons in interests of public safety1989 No 74 s 16(1)Procedure for suspending a person under section 87D1989 No 74 s 16(2)Term of suspension1989 No 74 s 16(1), (3), (4)Effect of disqualification or suspension of transport service driver and other personsEffect of disqualification or suspension of transport service driver and other persons1989 No 74 s 17(1), (2).
   If the Director is satisfied that a transport service driver is not a fit and proper person within the meaning of subpart 2 of Part 4A to drive a transport service vehicle, the Director may disqualify that person, for a period not exceeding 10 years, from driving any vehicle being used in a transport service (other than a rental service) or a specified class of transport service.
   If the Director revokes a transport service licence, the Director may disqualify, for a period not exceeding 10 years, the holder of the transport service licence, or any other person who was in control of or involved in the transport service and whose fitness and propriety was the basis of, or contributed to, a decision to revoke the transport service licence, from—
     (a) holding or obtaining a transport service licence:
@@ -1052,7 +1052,7 @@ Section 113(2) of the principal Act is amended by adding the following paragraph
   (f) forbid a person who is operating a transport service without a licence to operate that transport service.
 
 ### 63 New section 113A inserted
-The principal Act is amended by inserting, after section 113, the following section:Power to inspect records
+The principal Act is amended by inserting, after section 113, the following section:Power to inspect records1989 No 74 s 63A
   (1) For the purpose of ascertaining whether this Act has been or is being complied with by any person to whom this Act applies, any enforcement officer in uniform or in possession of a warrant or other evidence of his or her authority as an enforcement officer may require that person to produce without delay for inspection all relevant books or records in that person's possession or over which that person has control, including (but not limited to) logbooks, records associated with log-books, financial records relating to expenditure on fuel, invoices, vehicle maintenance records, depreciation records for vehicles, time and wage records, and waybills.
   (2) The enforcement officer may take extracts from or make copies of any books or records so produced.
 
@@ -1113,7 +1113,7 @@ Section 136(3) of the principal Act is amended by revoking paragraph (b), and su
     (iii) the issue of installation certificates and inspection certificates for alternative fuel systems.
 
 ### 73 New section 145A inserted
-The principal Act is amended by inserting, after section 145, the following section:Evidence and proof
+The principal Act is amended by inserting, after section 145, the following section:Evidence and proof1989 No 74 s 63
   In any proceedings for an offence against Part 6A,—
     (a) if it is proved that passengers or goods were carried in or on any motor vehicle, the passengers or goods are deemed to have been carried in such a manner as to bring the motor vehicle under the requirements of this Act unless the defendant satisfies the court to the contrary:
     (b) evidence of the contents of the register maintained under section 199A may be given by a certificate signed by the Director or any officer of the Authority authorised for that purpose by the Director; and every such certificate is sufficient evidence of the matters stated in it, until the contrary is proved:
@@ -1188,7 +1188,7 @@ The principal Act is amended by inserting, after section 168, the following sect
 (5) Section 199(8) of the principal Act is amended by omitting the words (3) to (5), and substituting the words (4) to (6).
 
 ### 83 New section 199A inserted
-The principal Act is amended by inserting, after section 199, the following section:Register of transport service licences
+The principal Act is amended by inserting, after section 199, the following section:Register of transport service licences1989 No 74 s 29
   (1) The Authority must continue and maintain the register of transport service licences that was established under section 29 of the Transport Services Licensing Act 1989.
   (2) The register must show for each licence the following information:
     (a) the holder's full name:
