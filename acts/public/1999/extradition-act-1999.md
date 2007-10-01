@@ -1,5 +1,5 @@
 # Extradition Act 1999
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-10-01_
 
 > An Act to consolidate and amend the law relating to the extradition of persons to and from New Zealand
 
@@ -51,7 +51,7 @@ _Consolidation as at 2007-09-03_
 (4) For the purposes of section 33(1) and section 54(1) and 54(3), a person is not liable to be detained in a prison if the person is—
   (a) Subject to a suspended sentence of imprisonment that has not been activated; or
   (b) on parole, home detention, or compassionate release, or is subject to release conditions, under Part 1 of the Parole Act 2002; or
-  (ba)
+  (ba) subject to a sentence of home detention imposed under section 80A of the Sentencing Act 2002; or
   (c)
   (d) At large under section 62 of the Corrections Act 2004; or
   (e) Subject to a community-based sentence (within the meaning of section 4(1) of the Sentencing Act 2002).
