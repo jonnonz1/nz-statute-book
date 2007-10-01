@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-10-01_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -275,14 +275,14 @@ If the Court which sentences an offender to pay a fine or which orders an offend
 ### 19D Execution
 Where a constable or bailiff makes a report as mentioned in section 19C of this Act, the Judge who sentenced the offender to pay the fine or who ordered the offender to pay the other sum of money or, if that Judge is not available, any other Judge, shall consider the report and may make such order as he thinks fit including an order for the remission of either the whole or part of the fine or other sum of money, an order for the issue of a writ of sale or an order for the immediate imprisonment of the offender, or an order allowing time for payment or allowing payment by instalments.
 
-### 19DA Community work for non-payment of fine
+### 19DA Community work, community detention, and home detention for non-payment of fine
 (1) In any case where, under section 19D of this Act, an order may be made for the imprisonment of any person in respect of the non-payment of any fine or other sum of money, the Judge may issue a summons to that person, or, whether or not a summons has been issued or served, may issue a warrant to arrest that person and bring him before the High Court.
-(2) On the appearance of that person before the Court, the Court may, in its discretion, after considering the report referred to in section 19D, and after taking into account any other fines and any amount of reparation owing by that person, sentence that person to community work in accordance with the relevant provisions of Part 2 of the Sentencing Act 2002.
-(3) A sentence of community work may be imposed under this section, even though none of the offences in respect of which the fines were imposed was punishable by imprisonment.
-(4) If any person is sentenced to community work under this section for the non-payment of the whole or any part of a fine or other sum of money, that fine or part of a fine or other sum of money is deemed to be remitted.
-(5) If the Court sentences any person to community work under this section, that person has the same right of appeal to the Court of Appeal against the sentence as the person would have had if the sentence had been imposed by the High Court after his or her conviction in the High Court.
-(6) If the Court of Appeal quashes the sentence of community work on appeal, it must, at the same time, direct that the case be remitted to the High Court to be dealt with under section 19D.
-(7) If, on appeal from the Court of Appeal, the Supreme Court quashes the sentence of community work, it must, at the same time, direct that the case be remitted to the High Court to be dealt with under section 19D.
+(2) On the appearance of that person before the Court, the Court may, in its discretion, after considering the report referred to in section 19D, and after taking into account any other fines and any amount of reparation owing by that person, sentence that person to community work, community detention, or home detention in accordance with the relevant provisions of Part 2 of the Sentencing Act 2002.
+(3) A sentence of community work, community detention, or home detention may be imposed under this section, even though none of the offences in respect of which the fines were imposed was punishable by imprisonment.
+(4) If any person is sentenced to community work, community detention, or home detention under this section for the non-payment of the whole or any part of a fine or other sum of money, that fine or part of a fine or other sum of money is deemed to be remitted.
+(5) If the Court sentences any person to community work, community detention, or home detention under this section, that person has the same right of appeal to the Court of Appeal against the sentence as the person would have had if the sentence had been imposed by the High Court after his or her conviction in the High Court.
+(6) If the Court of Appeal quashes the sentence of community work, community detention, or home detention on appeal, it must, at the same time, direct that the case be remitted to the High Court to be dealt with under section 19D.
+(7) If, on appeal from the Court of Appeal, the Supreme Court quashes the sentence of community work, community detention, or home detention, it must, at the same time, direct that the case be remitted to the High Court to be dealt with under section 19D.
 
 ### 19E Period of imprisonment for non-payment of money
 (1) The period of imprisonment imposed under this Act in respect of the non-payment of any fine or other sum of money shall not exceed the maximum term of imprisonment to which the offender was liable on the conviction or 2 years, whichever is the less.
@@ -3969,11 +3969,11 @@ For the purposes of any appeal or application for leave to appeal against convic
 ### 399 Intermediate effects of appeal
 (1) Except as otherwise provided in this Act or in rules of Court, no sentence shall be suspended by reason of any appeal under this Part of this Act, unless the Court expressly so directs.
 (2)
-(3) Where on any conviction to which any appeal relates the Court has sentenced the accused to supervision, the term of the sentence shall cease to run on the day on which notice of appeal or of application for leave to appeal is given.
+(3) Where on any conviction to which any appeal relates the Court has sentenced the accused to supervision, intensive supervision, community detention, or home detention, the term of the sentence shall cease to run on the day on which notice of appeal or of application for leave to appeal is given.
 (4) If in any case to which subsection (3) of this section applies—the term of the sentence as specified by the High Court or as varied by the Court of Appeal or the Supreme Court, as the case may be, shall be resumed from the date of such dismissal, refusal, or determination.
   (a) The appeal is dismissed or is deemed pursuant to rules of Court to be dismissed; or
   (b) Leave to appeal is refused; or
-  (c) When the appeal is determined neither the sentence of supervision nor the conviction on which it was made is set aside—
+  (c) When the appeal is determined neither the sentence nor the conviction on which it was made is set aside—
 (4A) If on any conviction to which any appeal relates the Court has sentenced the accused to community work, the period during which the community work is to be done ceases to run on the day on which notice of appeal or application for leave to appeal is given.
 (4B) In any case to which subsection (4A) applies,—
   (a) if the appeal is dismissed or is deemed under or in accordance with rules of Court to be dismissed, the period during which the work is to be performed resumes running from the date of the dismissal; or
