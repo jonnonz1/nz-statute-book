@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2007-10-01_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—aTo establish certain principles with respect to—iThe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiAccess by each individual to information relating to that individual and held by public and private sector agencies; andbTo provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcTo provide for matters incidental thereto
 
@@ -1609,8 +1609,8 @@ Except as provided in any other enactment, unique identifiers shall not be used 
 |  |  | (b) obtaining information for the purpose of research conducted by the Ministry, and with the limitation that information so obtained must not be published in a form that could reasonably be expected to identify the individual concerned). |
 | Victim identity | The name, sex, date of birth, address, and telephone number of persons who are the victims of a criminal offence in respect of which another person has been charged | Ministry of Justice (access is limited to identity details for the purpose of providing assistance to victims in accordance with the Criminal justice Act 1985, the Sentencing Act 2002, the Parole Act 2002, the Victims' Rights Act 2002, and the Prisoners' and Victims' Claims Act 2005) |
 | Medical details | An indicator to identify persons who are or have been special patients under the Mental Health (Compulsory Assessment and Treatment) Act 1992 or any former Act and the hospitals at which those persons are or have been detained as special patients, or as committed patients, or as patients within the meaning of that Act) | Land Transport New Zealand (access is limited to obtaining information for the purposes of— |
-|  |  | (a) Section 24 of the Transport Services Licensing Act 1989; or |
-|  |  | (b) Section 46 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986) |
+|  |  | (a) subpart 2 of Part 4A of the Land Transport Act 1998; or |
+|  |  | (b) section 19 of the Land Transport Act 1998) |
 |  |  | Department of Corrections |
 |  |  | Ministry of Justice |
 | Traffic offence and infringement enforcement and document processing | Traffic offence and infringement enforcement processing, including infringement fees enforcement and preparation of documents | Land Transport New Zealand |
@@ -1619,7 +1619,7 @@ Except as provided in any other enactment, unique identifiers shall not be used 
 | Vehicles of interest | Particulars of motor vehicles stolen, unlawfully taken, missing, abandoned, or found, or where location is for other reasons required to be known by the Police | Ministry of Transport (access is limited so as to exclude such particulars as the Police may determine in any case) |
 | Wanted persons | Particulars concerning persons wanted for arrest | Land Transport New Zealand |
 |  |  | Ministry of Justice (access is limited to obtaining information for the purposes of— |
-|  |  | (a) Section 24 of the Transport Services Licensing Act 1989: |
+|  |  | (a) subpart 2 of Part 4A of the Land Transport Act 1998: |
 |  |  | (b) Carrying out the functions conferred on the Authority by section 69(1) of the Land Transport Management Act 2003: |
 |  |  | (c) Carrying out the functions conferred on the Authority by the notice dated 22 August 1993 and published in the Gazette on 2 September 1993 at page 2626) |
 |  |  | Department for Courts (access is limited to persons wanted in connection with fines enforcement) |
@@ -1627,15 +1627,17 @@ Except as provided in any other enactment, unique identifiers shall not be used 
 |  |  | Ministry of Justice (access is limited to persons required to be located in connection with fines enforcement) |
 | Firearms licences | Particulars of persons authorised to possess firearms in accordance with the Arms Act 1983 | Ministry of Justice (access is limited to identity details of persons who possess firearms, where that information is required for the purpose of serving orders made under the Domestic Violence Act 1995) |
 | Protection orders | Details of protection | Department of Corrections orders made under the (access is limited to Domestic Violence Act obtaining information 1995 about any offender who is subject to a protection order while also subject to— |
-|  |  | (a) a full-time custodial sentence (including while released on parole); or |
-|  |  | (b) a sentence of supervision or community work; or |
-|  |  | (c) a non-association order. |
-|  |  | Access is for the purpose of managing the offender's sentence in a manner consistent with any protection order.) |
+|  |  | (a) a full-time custodial sentence (including while released on parole or subject to conditions imposed under section 93 of the Sentencing Act 2002); or |
+|  |  | (b) a sentence of periodic detention, supervision, intensive supervision, community service, community programme, community work, or community detention; or |
+|  |  | (c) a non-association order; or |
+|  |  | (d) a sentence of home detention (including while subject to post-detention conditions). |
+|  |  | Access is for the purpose of managing the offender's sentence and any post-sentence conditions in a manner consistent with any protection order.) |
 | Restraining orders | Details of restraining orders made under the Harassment Act 1997 | Department of Corrections (access is limited to obtaining information about any offender who is subject to a restraining order while also subject to— |
-|  |  | (a) a full-time custodial sentence (including while released on parole); or |
-|  |  | (b) a sentence of supervision or community work; or |
+|  |  | (a) a full-time custodial sentence (including while released on parole or subject to conditions imposed under section 93 of the Sentencing Act 2002); or |
+|  |  | (b) a sentence of periodic detention, supervision, intensive supervision, community service, community programme, community work, or community detention; or |
 |  |  | (c) a non-association order. |
-|  |  | Access is for the purpose of managing the offender's sentence in a manner consistent with any restraining order.) |
+|  |  | (d) a sentence of home detention (including while subject to post-detention conditions). |
+|  |  | Access is for the purpose of managing the offender's sentence and any post-sentence conditions in a manner consistent with any restraining order.) |
 
 | Subject | Description | Access Available to |
 | --- | --- | --- |
@@ -1670,7 +1672,7 @@ Except as provided in any other enactment, unique identifiers shall not be used 
 
 | Subject | Description | Access Available to |
 | --- | --- | --- |
-| Community-based sentences and conditions of release | Particulars of persons (a) released on probation or parole, or released on conditions under Part 6 of the Criminal Justice Act 1985, or sentenced to community service, periodic detention, supervision, or a community programme; or (b) released on parole, home detention, or compassionate release under subpart 2 of Part 1 of the Parole Act 2002 or sentenced to supervision or community work. | Police (access is limited to— |
+| Community-based sentences, sentences of home detention, and conditions of release | Particulars of persons (a) released on probation or parole, or released on conditions under Part 6 of the Criminal Justice Act 1985, or sentenced to community service, periodic detention, supervision, or a community programme; or (b) released on parole, home detention, or compassionate release under subpart 2 of Part 1 of the Parole Act 2002 or sentenced to supervision, intensive supervision, community work, community detention, or home detention. | Police (access is limited to— |
 | (a) the person's area of reporting: |  |  |
 | (b) in the case of a person released from a prison, the conditions of the person's release (whether imposed on release or imposed or varied subsequently, and including any direction issued to that person by a probation officer) |  |  |
 |  |  | Ministry of Justice |
