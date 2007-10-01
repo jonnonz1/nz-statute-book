@@ -1,5 +1,5 @@
 # Criminal Records (Clean Slate) Act 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-10-01_
 
 ### 1 Title
 This Act is the Criminal Records (Clean Slate) Act 2004.
@@ -54,7 +54,7 @@ In this Act, unless the context otherwise requires,—
   - **law enforcement agency** means—
     (a) an agency that holds or has access to information described in Schedule 5 of the Privacy Act 1993; and
     (b) the Department of Labour, the Inland Revenue Department, and the New Zealand Customs Service
-  - **non-custodial sentence** includes, but is not limited to, a community-based sentence, a sentence of a fine or reparation, a suspended sentence of imprisonment, and a specified order
+  - **non-custodial sentence** includes, but is not limited to, a community-based sentence, a sentence of home detention, a sentence of a fine or reparation, a suspended sentence of imprisonment, and a specified order
   - **offence** means any act or omission for which a person may be punished under the Crimes Act 1961 or any other enactment, whether on conviction on indictment or on summary conviction
   - **prison officer** means a person who is an officer as defined in section 3(1) of the Corrections Act 2004
   - **probation officer** has the same meaning as in section 4(1) of the Sentencing Act 2002
