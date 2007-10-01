@@ -1,5 +1,5 @@
 # Criminal Investigations (Bodily Samples) Act 1995
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-10-01_
 
 > An Act—aTo make provision for the taking of bodily samples for use in criminal investigations; andbTo authorise—iThe establishment of a databank of information derived from the analysis of bodily samples taken from certain persons; andiiThe use of information from that databank in criminal investigations; andcTo provide for matters incidental thereto
 
@@ -42,7 +42,6 @@ _Consolidation as at 2007-09-03_
   - **DNA profile databank** means a databank established pursuant to section 25 of this Act
   - **Fingerprick sample** means a sample of capillary blood taken, in accordance with normal medical procedures, from the tip of a finger or thumb
   - **Forensic comparison** means the comparison of a DNA profile stored in a DNA profile databank with another DNA profile, where that comparison is undertaken for the purpose of confirming or disproving the involvement of any person in the commission of an offence
-  - **home detention** has the same meaning as in section 4(1) of the Sentencing Act 2002
   - **independent adult** , in relation to a suspect under the age of 17 years who has consented to the taking of a bodily sample as a result of a suspect request or a Part 2A request and who has elected to take a buccal sample himself or herself, means,—
     (a) if a parent or other person having the care of the suspect is present under section 50(1)(b), that parent or person; or
     (b) if a person referred to in paragraph (a) is not present but the suspect or, if section 50(3) applies, the suspect's parent or other person having care of the suspect, has chosen to have a lawyer or other person present under section 50(1)(a), that lawyer or other person; or
@@ -125,7 +124,7 @@ This Act binds the Crown.
   (b) under a concurrent sentence of imprisonment imposed on him or her before he or she was released from an earlier sentence of imprisonment imposed for a relevant offence.
 (3) To avoid doubt, a person is not detained under a sentence of imprisonment under subsection (1) if he or she has been convicted of a relevant offence and in relation to that offence he or she is—
   (a) serving a sentence of imprisonment by way of home detention; or
-  (ab)
+  (ab) subject to residential restrictions imposed under section 15 of the Parole Act 2002
   (b) detained in a prison subject to an interim recall order.
 
 ### 4B Approval of agency to determine training criteria for dealing with, and device or other means for taking, buccal samples
@@ -418,10 +417,10 @@ For the purposes of sections 13, 16, 18, and 23 of this Act, on the expiry of th
   (b) an independent medical practitioner approved by the Judge has certified that the method will not cause serious harm to the health of the respondent.
 (2) Every suspect compulsion order and every juvenile compulsion order is, unless subsection (3) or subsection (4) or subsection (5) applies, subject to the condition that the respondent may attend to give a bodily sample at a different place, on an earlier date, or at a different place and on an earlier date than that specified in the order if, and only if, the respondent and a member of the police agree to vary the place, date, or place and date specified in the order.
 (3) If a Judge believes good reasons exist why the respondent must attend to give a bodily sample at the place, on the date, or at the place and on the date specified in the suspect compulsion order or juvenile compulsion order, the Judge may include the condition that the respondent must attend to give the sample at the place, on the date, or at the place and on the date specified in the order.
-(4) If a respondent is serving a sentence by way of home detention, a suspect compulsion order or juvenile compulsion order must include the following conditions:
-  (a) that the respondent must give a bodily sample at the residence at which the respondent is detained; and
+(4) If a respondent is serving a sentence of imprisonment by way of home detention or a sentence of home detention imposed under section 80A of the Sentencing Act 2002 or is on parole subject to residential restrictions imposed under section 15 of the Parole Act 2002, a suspect compulsion order or juvenile compulsion order must include the following conditions:
+  (a) that the respondent must give a bodily sample at the residence at which the respondent is detained or is required to remain; and
   (b) that the respondent and a member of the police may not agree to vary the place at which the person is to give the sample, but may agree to vary the date on which the person is to give the sample to a date earlier than the date specified in the order unless a Judge has included a condition in the order under subsection (3) requiring the person to attend to give the sample on the date specified in the order.
-(5) Despite subsection (4)(a), a Judge may include a condition in a suspect compulsion order or juvenile compulsion order that a respondent serving a sentence by way of home detention give a sample at a place other than the residence at which the person is detained, if the Judge is of the view that it is necessary to do so on account of the respondent's state of health.
+(5) Despite subsection (4)(a), a Judge may include a condition in a suspect compulsion order or juvenile compulsion order that a respondent give a sample at a place other than the residence at which the person is detained or is required to remain, if the Judge is of the view that it is necessary to do so on account of the respondent's state of health.
 (6) A condition included in a suspect compulsion order or juvenile compulsion order under any of subsections (2) to (5) is subject to any condition included in the order under subsection (1).
 
 ### 24B Parent or other person having care to be notified if police suggest variation of juvenile compulsion order
@@ -708,12 +707,12 @@ Where subsection (4)(c) or subsection (6)(b) of section 37 of this Act applies i
   (j) a summary of the provisions of sections 55, 56, 56A, and 59 relating to the procedure for the analysis of the sample and the disclosure of the results of the analysis:
   (k) a summary of the provisions of section 27 relating to the use of any DNA profile obtained from the sample:
   (l) any other particulars that may be prescribed.
-(3) If a databank compulsion notice is issued in relation to a person who is serving a sentence by way of home detention, the notice must contain—
+(3) If a databank compulsion notice is issued in relation to a person who is serving a sentence of imprisonment by way of home detention or a sentence of home detention imposed under section 80A of the Sentencing Act 2002, or is on parole subject to residential restrictions imposed under section 15 of the Parole Act 2002, the notice must contain—
   (a) the particulars in subsection (2)(a) and (d) to (l); but
   (b) instead of the particulars in subsection (2)(b) and (c), the following particulars:
-    (i) a statement that the person must give a bodily sample at the residence at which the person is detained; and
+    (i) a statement that the person must give a bodily sample at the residence at which the person is detained or is required to remain; and
     (ii) a statement that the person and a member of the police may not agree to vary the place at which the sample is to be given, but may agree to vary the date on which the person is to attend to give the sample to a date earlier than the date specified in the notice.
-(4) Despite subsection (3)(b)(i), a commissioned officer of the police may state in a databank compulsion notice that a person serving a sentence by way of home detention may give a bodily sample at a place other than the residence at which the person is detained, if the commissioned officer of the police issuing the notice is of the view that it is necessary to do so on account of the person's health.
+(4) Despite subsection (3)(b)(i), a commissioned officer of the police may state in a databank compulsion notice that a person may give a bodily sample at a place other than the residence at which the person is detained or is required to remain, if the commissioned officer of the police issuing the notice is of the view that it is necessary to do so on account of the person's health.
 
 ### 39B Form and content of databank compulsion notice issued in relation to person under age of 17 years
 (1) Every databank compulsion notice issued in relation to a person under the age of 17 years must be in the prescribed form.
@@ -724,7 +723,7 @@ Where subsection (4)(c) or subsection (6)(b) of section 37 of this Act applies i
 
 ### 39C Date and place for taking of sample to be specified in databank compulsion notice
 (1) A commissioned officer of the police who issues a databank compulsion notice must specify in the notice the place where and the date on which the person to whom the notice relates is to attend to give a bodily sample.
-(2) If a person to whom a databank compulsion notice relates is serving a sentence by way of home detention, the place the commissioned officer of the police must specify under subsection (1) must be the residence at which the person is detained, unless the commissioned officer of the police is of the view that it is necessary for the person to give the sample at another place on account of the person's state of health.
+(2) If a person to whom a databank compulsion notice relates is serving a sentence of imprisonment by way of home detention or a sentence of home detention imposed under section 80A of the Sentencing Act 2002, or is on parole subject to residential restrictions imposed under section 15 of the Parole Act 2002, the place the commissioned officer of the police must specify under subsection (1) must be the residence at which the person is detained or is required to remain, unless the commissioned officer of the police is of the view that it is necessary for the person to give the sample at another place on account of the person's state of health.
 (3) If a person to whom a databank compulsion notice relates is not detained under a sentence of imprisonment for the relevant offence in relation to which the notice is issued at the time the notice is served, the date specified in the notice under subsection (1)—
   (a) must be later than the 14th day after the date on which the notice is served; and
   (b) must be before the date 6 months after the date the person's conviction for the relevant offence was entered.
@@ -944,13 +943,13 @@ Where subsection (4)(c) or subsection (6)(b) of section 37 of this Act applies i
   (b) the expense of returning that person to the place where he or she is required to be detained.
 (6) The expenses referred to in subsection (5) include, but are not limited to, expenses relating to the maintenance and custody of a person to whom this section applies while he or she is absent from the place where he or she would otherwise be detained.
 
-### 46A Home detainee to attend to give bodily sample
-(1) An agreement reached, under section 24A(4)(b) or section 39A(3)(b)(ii), between a person serving a sentence by way of home detention and a member of the police to vary the date on which a bodily sample is to be taken pursuant to a compulsion order or databank compulsion notice is of no effect unless it has been approved by the probation officer supervising the person who is serving his or her sentence by way of home detention.
+### 46A Person detained or required to remain at residence to attend to give bodily sample
+(1) An agreement reached, under section 24A(4)(b) or section 39A(3)(b)(ii), between a person serving a sentence of imprisonment by way of home detention or a sentence of home detention imposed under section 80A of the Sentencing Act 2002, or on parole subject to residential restrictions imposed under section 15 of the Parole Act 2002, and a member of the police to vary the date on which a bodily sample is to be taken, pursuant to a compulsion order or databank compulsion notice, is of no effect unless it has been approved by the probation officer supervising that person.
 (2) Subsection (3) applies if—
   (a) a condition is included in a suspect compulsion order or juvenile compulsion order under section 24A(5); or
   (b) a statement is included in a databank compulsion notice under section 39A(4).
 (3) If this subsection applies,—
-  (a) the police must, as soon as is practicable, give the Department of Corrections notice of the need for the home detainee to leave his or her place of detention for the purposes of having a bodily sample taken pursuant to a compulsion order or databank compulsion notice; and
+  (a) the police must, as soon as practicable, give the Department of Corrections notice of the need for the person to leave the place where he or she is detained or required to remain for the purposes of having a bodily sample taken pursuant to a compulsion order or databank compulsion notice; and
   (b) section 46(5) and (6) applies with all necessary modifications.
 
 ### 47 Variation by Judge on application of place and date for taking sample
