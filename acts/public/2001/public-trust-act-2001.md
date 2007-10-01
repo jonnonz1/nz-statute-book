@@ -1,5 +1,5 @@
 # Public Trust Act 2001
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-10-01_
 
 ### 1 Title
 This Act is the Public Trust Act 2001.
@@ -39,7 +39,7 @@ In this Act, unless the context otherwise requires,—
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **office solicitor** means the solicitor who is employed by Public Trust as its office solicitor or chief legal adviser; and includes any other solicitor employed by Public Trust who is under the control and direction of that person
   - **owner** , in relation to any property, includes any person having an estate or interest in the property
-  - **portfolio investment entity**
+  - **portfolio investment entity** means a portfolio investment entity within the meaning of the Income Tax Act 2004
   - **property** includes real and personal property, any estate or interest in real or personal property, any debt, any thing in action, and any other right or interest
   - **Public Trust** means Public Trust established by section 7; and includes a Crown entity subsidiary of Public Trust
   - **related company** has the meaning set out in section 2(3) of the Companies Act 1993; and, for that purpose, Public Trust is to be treated as if it were a company registered under that Act
@@ -499,7 +499,7 @@ Except as otherwise provided in section 61 and sections 63 to 70, Public Trust m
   (b) any further powers that may be conferred on Public Trust by a court, being powers that could be conferred on Public Trust by a court if the investments and funds were not part of a group investment fund.
 
 ### 72B Powers to adjust interest in trust property of Fund that is portfolio investment entity
-[Repealed]
+Where any investments and funds comprising a Group Investment Fund are employed in an activity that Public Trust is empowered or authorised to carry on as a portfolio investment entity, Public Trust may adjust the interests of the beneficiaries in the investments and funds in the way required by section HL 7 of the Income Tax Act 2004 despite any other provision in this Act
 
 ### 73 Examination of group investment funds
 Section 83A of the Trustee Act 1956 applies in respect of the examination of a group investment fund as if it were an estate, except that—
