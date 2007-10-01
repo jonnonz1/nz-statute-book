@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-10-01_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -119,9 +119,13 @@ This Act is the Corrections Act 2004.
   - **person under control or supervision** means—
     (a) a prisoner:
     (b) a person who is subject to a community-based sentence:
+    (a) a prisoner:
+    (b) a person who is subject to a community-based sentence:
+    (c) a person who is subject to a sentence of home detention:
+    (d) a person who is serving a sentence of imprisonment on home detention:
+    (e) a person who is subject to conditions under the Parole Act 2002 or under section 80N or 93 of the Sentencing Act 2002
     (c) a person who is on home detention:
     (d) a person who is subject to conditions under the Parole Act 2002 or under section 93 of the Sentencing Act 2002
-    (e)
   - **Police Complaints Authority** includes any employee of the Authority
   - **police jail** means a prison established or deemed to be established as a police jail under section 32(l)(b)
   - **prescribed** means prescribed by this Act or by any regulations made under this Act
@@ -209,7 +213,7 @@ This Act binds the Crown.
 
 ### 5 Purpose of corrections system
 (1) The purpose of the corrections system is to improve public safety and contribute to the maintenance of a just society by—
-  (a) ensuring that the community-based and custodial sentences and related orders that are imposed by the courts and the New Zealand Parole Board are administered in a safe, secure, humane, and effective manner; and
+  (a) ensuring that the community-based sentences, sentences of home detention, and custodial sentences and related orders that are imposed by the courts and the New Zealand Parole Board are administered in a safe, secure, humane, and effective manner; and
   (b) providing for corrections facilities to be operated in accordance with rules set out in this Act and regulations made under this Act that are based, amongst other matters, on the United Nations Standard Minimum Rules for the Treatment of Prisoners; and
   (c) assisting in the rehabilitation of offenders and their reintegration into the community, where appropriate, and so far as is reasonable and practicable in the circumstances and within the resources available, through the provision of programmes and other interventions; and
   (d) providing information to the courts and the New Zealand Parole Board to assist them in decision-making.
@@ -257,7 +261,7 @@ This Act binds the Crown.
 (1) The chief executive has the following powers and functions:
   (a) ensuring that the corrections system operates in accordance with the purposes set out in section 5 and the principles set out in section 6:
   (b) ensuring the safe custody and welfare of prisoners (other than prisoners detained in police jails or in institutions that are not corrections prisons):
-  (c) ensuring the welfare of offenders on home detention or subject to community-based sentences or conditions imposed under the Parole Act 2002 or the Sentencing Act 2002 during periods while, in the presence of any employee of the department, those offenders carry out their sentences or undergo any supervision forming part of the conditions to which they are subject:
+  (c) ensuring the welfare of offenders serving a sentence of imprisonment on home detention, or subject to community-based sentences or sentences of home detention or conditions imposed under the Parole Act 2002 or Sentencing Act 2002, during periods while, in the presence of any employee of the department, those offenders carry out their sentences or undergo any supervision forming part of the conditions to which they are subject:
   (d) exercising the powers conferred by section 62 (which relates to the temporary release or removal of prisoners):
   (e) visiting and inspecting any prison, community work centre, or probation office and, at his or her discretion, interviewing any person under control or supervision:
   (f) inquiring into the treatment and conduct of persons under control or supervision:
@@ -418,7 +422,7 @@ If, in accordance with section 9 of the Defence Act 1990, any part of the Armed 
 (2) Despite sections 21 and 22, section 3(2)(a)(ii) of the Arms Act 1983 (which authorises the possession of firearms and restricted weapons by members of the police) does not apply to a member of the armed forces, or an officer who is not also a member of the police.
 (3) Despite sections 21 and 22, sections 18 and 18A of the Misuse of Drugs Act 1975 (which confer powers of search and seizure) and sections 13 and 13A of the Misuse of Drugs Amendment Act 1978 (which confer powers in relation to tracking devices and internal concealment) do not apply to a member of the armed forces, or an officer who is not also a member of the police.
 
-**Persons with powers and functions in relation to administration of community-based sentences, conditions of release, parole, or home detention**
+**Persons with powers and functions in relation to administration of community-based sentences, sentences of home detention, conditions of release, parole, or sentences of imprisonment served on home detention**
 
 ### 24 Probation officers
 (1) The chief executive must appoint under the State Sector Act 1988 as many probation officers as are required for the purposes of this Act or any other enactment.
@@ -431,12 +435,12 @@ If, in accordance with section 9 of the Defence Act 1990, any part of the Armed 
 
 ### 25 Functions of probation officers
 (1) It is the function of every probation officer—
-  (a) to supervise all persons placed under the officer's supervision under a sentence of supervision or while on home detention under subpart 2 of Part 1 of the Parole Act 2002, and to ensure that the conditions of the sentence or of the release are complied with:
+  (a) to supervise all persons placed under the officer's supervision under a sentence of supervision or intensive supervision or community detention or home detention, or while serving a sentence of imprisonment on home detention, and to ensure that the conditions of the sentence or of the release are complied with:
   (ab) to supervise all persons placed under the officer's supervision under an extended supervision order made under Part 1A of the Parole Act 2002, and to ensure that the conditions of the order are complied with:
   (ac) to supervise all offenders released on parole and to ensure that the conditions of parole are complied with:
   (ad) to supervise offenders released on compassionate release under section 41 of the Parole Act 2002 and to ensure that the conditions of release (if any) are complied with:
-  (b) to arrange and administer the sentences of supervision and community work referred to the officer for that administration, and to ensure that the sentences are carried out:
-  (c) to co-ordinate and arrange community involvement (including the use of volunteers) in the administration of any particular community-based sentence, or any particular release under the Parole Act 2002, where appropriate and in accordance with any instructions issued by a controlling officer:
+  (b) to arrange and administer community-based sentences and sentences of home detention imposed under section 80A of the Sentencing Act 2002 referred to the officer for that administration, and to ensure that the sentences are carried out:
+  (c) to co-ordinate and arrange community involvement (including the use of volunteers) in the administration of any particular community-based sentence or sentence of home detention imposed under section 80A of the Sentencing Act 2002, or any particular release under the Parole Act 2002, where appropriate and in accordance with any instructions issued by a controlling officer:
   (d) to arrange, provide, and monitor rehabilitative and reintegrative programmes or related services for offenders, where appropriate, if directed to do so by a controlling officer:
   (e) to provide all the reports and information that a court, the New Zealand Parole Board, or a prison manager may require under any enactment:
   (f) to perform any other function that is prescribed by or under this Act or any other enactment.
@@ -452,7 +456,7 @@ A probation officer may delegate, in writing, to any suitably trained employee o
 
 ### 27 Controlling officer of probation area
 (1) The chief executive must appoint under the State Sector Act 1988 a controlling officer for each probation area.
-(2) A controlling officer must oversee the administration of all community-based sentences being served in his or her probation area and is responsible for probation officers and community work centres in that area.
+(2) A controlling officer must oversee the administration of all community-based sentences or sentences of home detention imposed under section 80A of the Sentencing Act 2002 being served in his or her probation area and is responsible for probation officers and community work centres in that area.
 (3) Subject to any directions given by the chief executive, a controlling officer may delegate, in writing, to any probation officer or to any other officer or employee of the department all or any of his or her powers and functions as a controlling officer in respect of his or her probation area.
 (4) A person appointed or designated to manage a community work centre may, if permitted by a delegation referred to in subsection (3), delegate to any employee engaged at the centre any power so delegated.
 (5) The fact that any officer or employee of the department exercises or performs any power or function of a controlling officer is conclusive evidence of his or her authority to do so.
@@ -521,7 +525,7 @@ The chief executive must appoint as many suitable employees of the department as
 **Detention and custody of prisoners**
 
 ### 34 Detention of prisoners
-(1) A person who is sentenced to imprisonment (other than a person who is on home detention) must serve the sentence in a corrections prison.
+(1) A person who is sentenced to imprisonment (other than a person who is serving a sentence of imprisonment on home detention) must serve the sentence in a corrections prison.
 (2) Despite subsection (1), any person sentenced to imprisonment may be detained in a police jail on 1 or more occasions for a period not exceeding—
   (a) the maximum period of detention; or
   (b) any longer period required for the purposes of section 65(1) or for the purposes of giving effect to an order under section 65(3).
@@ -1807,7 +1811,11 @@ A person who is or was under control or supervision may, at any time, seek assis
   (a) any person within the prison (including any police station to which section 36 applies), community work centre, or probation office, or to any person at any other place (including a dwellinghouse) at which the complainant is or was detained or required to attend, work, or live; and
   (b) any contractor, security contractor, or other person who is or has been responsible for—
     (i) the supervision or oversight of a complainant while the complainant carries or carried out his or her sentence or order; or
-    (ii) the monitoring of a complainant while the complainant is or was on home detention; or
+    (ii) the monitoring of a complainant while the complainant is or was—
+      (A) serving a sentence of imprisonment by way of home detention:
+      (B) serving a sentence of home detention imposed under section 80A of the Sentencing Act 2002:
+      (C) serving a sentence of community detention:
+      (D) on parole subject to residential restrictions imposed under section 15 of the Parole Act 2002; or
     (iii) the performance of any escort or courtroom custodial duties in relation to the complainant; and
   (c) any records held by an employee of the department or any other person referred to in paragraph (a) or paragraph (b) that are relevant to the complaint (other than personnel records relating to a member or members of the police).
 (3) If an inspector investigates a complaint, the inspector must conduct the investigation reasonably promptly, and must inform the complainant and the other persons concerned, promptly after the conclusion of the investigation and in a manner that the inspector considers appropriate, of—
@@ -1816,7 +1824,7 @@ A person who is or was under control or supervision may, at any time, seek assis
 (4) An inspector must keep records of every complaint that the inspector receives and deals with.
 
 ### 157 Powers of entry and access by inspectors of corrections
-(1) For the purpose of performing any functions as an inspector, an inspector of corrections may, at any time, enter a prison (including any police station to which section 36 applies), community work centre, probation office, or any other place (including a dwellinghouse) at which a person under control or supervision is or was detained or required to attend, work, live, or from which home detention is or was monitored, and gain access to—
+(1) For the purpose of performing any functions as an inspector, an inspector of corrections may, at any time, enter a prison (including any police station to which section 36 applies), community work centre, probation office, or any other place (including a dwellinghouse) at which a person under control or supervision is or was detained or required to attend, work, live, or from which his or her sentence or any condition of that sentence is or was monitored, and gain access to—
   (a) all parts of that place:
   (b) all persons under control or supervision in that place:
   (c) all persons with responsibility for the control or supervision of those persons in that place, other persons employed in that place, and visitors in that place:
@@ -2029,7 +2037,7 @@ No person is deemed to be employed in the service of the Crown for the purposes 
   (b) the chief executive of the Department of Labour or an immigration officer to exercise any powers conferred by that Act to revoke a permit or visa or to make or execute a removal order.
 (2) For the purpose of this section, the chief executive may from time to time, in accordance with arrangements in writing made from time to time between the chief executive and the chief executive of the Department of Labour,—
   (a) supply to the chief executive of the Department of Labour the information specified in subsection (3) in respect of persons who have been sentenced to imprisonment:
-  (ab)
+  (ab) if the chief executive is authorised by regulations made under this Act to do so, supply to the chief executive of the Department of Labour the information specified in subsection (3) in respect of persons who have received a sentence of home detention:
   (b) if the chief executive is authorised by regulations made under this Act to do so, supply to the chief executive of the Department of Labour the information specified in subsection (3) in respect of persons who have received a community-based sentence.
 (3) The information referred to in subsection (2) is as follows:
   (a) identifying information about the person:
@@ -2041,17 +2049,17 @@ No person is deemed to be employed in the service of the Crown for the purposes 
 ### 182 Offender information may be disclosed to facilitate monitoring of certain offenders
 (1) The purpose of this section is—
   (a) to facilitate the disclosure of information by the department to the Commissioner of Police, to assist the monitoring of compliance by persons on temporary release with the conditions of their temporary release:
-  (b) to facilitate the disclosure of information to both the department and the police, to assist the monitoring of compliance of highest-risk offenders with their conditions of release or detention on home detention, as the case may require.
+  (b) to facilitate the disclosure of information to both the department and the police, to assist the monitoring of compliance of highest-risk offenders with their conditions of release or detention on home detention (when serving a sentence of imprisonment on home detention), as the case may require.
 (2) For the purpose of this section, the chief executive may, from time to time, in accordance with arrangements made from time to time between the Commissioner of Police and the chief executive, supply the information specified in subsection (3) to any member of the police.
 (3) The information referred to in subsection (2) is as follows:
   (a) in the case of any person released on temporary release under section 62—
     (i) the date of temporary release of the person, and the place from which the person was released:
     (ii) the conditions of the person's temporary release (whether imposed on release or imposed subsequently):
-  (b) in the case of a highest-risk offender who is on home detention or is released under subpart 2 of Part 1 of the Parole Act 2002—
+  (b) in the case of a highest-risk offender who is serving a sentence of imprisonment on home detention or is released under subpart 2 of Part 1 of the Parole Act 2002—
     (i) details of the offender's identity:
     (ii) recent photographs of the offender:
     (iii) details of the acquisition, or removal by or from the offender, of tattoos, scars, or deformities while the offender was in prison.
-(4) The Commissioner of Police may from time to time, in accordance with arrangements made from time to time between the Commissioner and the chief executive, supply the chief executive or any employee of the chief executive with details of any contact between the police and a highest-risk offender, while that person is subject to conditions of release or detention on home detention.
+(4) The Commissioner of Police may from time to time, in accordance with arrangements made from time to time between the Commissioner and the chief executive, supply the chief executive or any employee of the chief executive with details of any contact between the police and a highest-risk offender, while that person is subject to conditions of release or detention on home detention (when serving a sentence of imprisonment on home detention).
 (5) Information supplied under subsection (2) or subsection (4) may be supplied in any form that is determined by agreement between the Commissioner of Police and the chief executive.
 (6) In this section highest-risk offender means any offender whom the chief executive considers, having regard, amongst other matters, to the nature and seriousness of his or her offending, to be included in the class of offenders who pose the highest risk to public safety.
 
@@ -2061,7 +2069,7 @@ No person is deemed to be employed in the service of the Crown for the purposes 
 (1) A specified agency that enters into an information sharing agreement under section 182D with another specified agency is authorised to disclose to that agency any personal information about a child sex offender, but only if the disclosure is for, or relates to, a purpose listed in subsection (3).
 (2) Nothing in subsection (1) limits the operation of the Privacy Act 1993 or section 182 of this Act.
 (3) The purposes for which personal information about a child sex offender may be disclosed under an information sharing agreement between specified agencies are:—
-  (a) to monitor compliance by the child sex offender with his or her release conditions, detention conditions, conditions of a sentence of supervision, or conditions of an extended supervision order:
+  (a) to monitor compliance by the child sex offender with his or her release conditions (including conditions imposed under section 93 of the Sentencing Act 2002), detention conditions (if the offender is serving a sentence of imprisonment on home detention), conditions of a sentence of supervision, intensive supervision, community detention, or home detention (imposed under section 80A of the Sentencing Act 2002), post-detention conditions of a sentence of home detention, or conditions of an extended supervision order:
   (b) to manage the risk that the offender may commit further sexual offences against children:
   (c) to identify any increased risk that the offender may breach his or her conditions or will commit further sexual offences against children:
   (d) to facilitate the reintegration of the offender into the community.
@@ -2070,9 +2078,9 @@ No person is deemed to be employed in the service of the Crown for the purposes 
 (1) For the purposes of section 182A, child sex offender means a person who—
   (a) has been convicted of a relevant offence as defined in section 107B(1) of the Parole Act 2002 (other than where the offence is one referred to in section 107B(3) (pornography offences)); and
   (b) whose sentence for the relevant offence has not been quashed or otherwise set aside; and
-  (c) who is subject to release conditions, detention conditions, a sentence of supervision, or an extended supervision order.
+  (c) who is subject to release conditions (including conditions imposed under section 93 of the Sentencing Act 2002), detention conditions (if the offender is serving a sentence of imprisonment on home detention), conditions of a sentence of supervision, intensive supervision, community detention, or home detention (imposed under section 80A of the Sentencing Act 2002), post-detention conditions of a sentence of home detention, or conditions of an extended supervision order.
 (2) However, a person is not a child sex offender for the purposes of section 182A if,—
-  (a) since his or her latest conviction for a relevant offence, the offender has had a period during which he or she was not subject to any sentence for an offence and was not subject to release conditions of any sort; and
+  (a) since his or her latest conviction for a relevant offence, the offender has had a period during which he or she was not subject to any sentence for an offence and was not subject to release or post-detention conditions of any sort; and
   (b) the offender is not subject to an extended supervision order.
 
 ### 182C Definition of specified agency
