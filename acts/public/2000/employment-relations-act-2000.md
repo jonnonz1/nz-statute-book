@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2007-09-10_
+_Consolidation as at 2007-10-01_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -1609,7 +1609,7 @@ Where the chief executive receives a notice of intention to strike or lock out u
     (ii) are covered by the bargaining; and
     (iii) are employed in the relevant part of the passenger road service or passenger rail service.
 (4) An employer who is given notice of a strike under subsection (1) must take all practicable steps to ensure that the public who are likely to be affected are notified of the strike as soon as possible after the employer receives the notice.
-(5) For the purposes of this section and section 94, passenger road service means the carriage of passengers on any road, whether or not for hire or reward, by means of a large passenger service vehicle within the meaning of that term in section 2(1) of the Transport Services Licensing Act 1989 (not including any service specified as an exempt service in Part 1 of Schedule 1 of that Act or in regulations referred to in that Part).
+(5) For the purposes of this section and section 94, passenger road service means the carriage of passengers on any road, whether or not for hire or reward, by means of a large passenger service vehicle within the meaning of that term in section 2(1) of the Land Transport Act 1998 (not including any service specified as an exempt service in the regulations or the rules made under that Act).
 
 ### 94 Procedure to provide public with notice before lockout in certain passenger transport services
 (1) No employer engaged in providing a passenger road service or passenger rail service may lock out employees who are employed in the service—
