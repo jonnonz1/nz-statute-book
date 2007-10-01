@@ -1,5 +1,5 @@
 # Mutual Assistance in Criminal Matters Act 1992
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-10-01_
 
 > An Act to facilitate the provision and obtaining of international assistance in criminal matters
 
@@ -394,7 +394,7 @@ Nothing in this Act limits or affects the Evidence Act 2006.
 (1) A foreign country may request the Attorney-General to assist in arranging the attendance, in that country, for either or both of the purposes specified in subsection (1A), of a person in New Zealand who is—.
   (a) A prisoner; or
   (b) on parole, home detention, or compassionate release, or is subject to release conditions, under Part 1 of the Parole Act 2002; or
-  (ba)
+  (ba) subject to a sentence of home detention imposed under section 80A of the Sentencing Act 2002; or
   (c)
   (d) At large pursuant to section 62 of the Corrections Act 2004; or
   (e) subject to a community-based sentence (within the meaning of section 4(1) of the Sentencing Act 2002).
