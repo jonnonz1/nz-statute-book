@@ -1,5 +1,5 @@
 # Passports Act 1992
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-10-01_
 
 > An Act to give proper recognition to New Zealand passports and to the right of New Zealand citizens to such passports, and to consolidate and amend the law relating to passports, certificates of identity, emergency travel documents, and refugee travel documents
 
@@ -43,7 +43,7 @@ Except as provided in this Act, every New Zealand citizen is entitled as of righ
   (a) Where the applicant has not attained the age of 16 years and has not produced the written consent of one of his or her parents or guardians to the issue of a passport to him or her:
   (b) Where—
     (i) There is in force a warrant issued in New Zealand for the arrest of the applicant; or
-    (ii) the applicant is on bail or is subject to a community-based sentence under subpart 2 of Part 2 of the Sentencing Act 2002 or is released under subpart 2 of Part 1 of the Parole Act 2002; or
+    (ii) the applicant is on bail or is subject to a community-based sentence under subpart 2 of Part 2 of the Sentencing Act 2002, or a sentence of home detention under subpart 2A of Part 2 of the Sentencing Act 2002, or is released under subpart 2 of Part 1 of the Parole Act 2002; or
     (iii) the applicant is required by an order made by a New Zealand court to refrain from obtaining a passport or to surrender a passport; or
     (iv) the applicant is subject to an order made by a New Zealand court that requires the applicant, or the effect of which requires the applicant, to remain in New Zealand; or
     (v) the applicant is subject to a sentence imposed by a New Zealand court, the effect of which requires the applicant to remain in New Zealand:
@@ -303,7 +303,7 @@ An emergency travel document is valid for—
     (i) on bail; or
     (ii) subject to a community-based sentence under the Sentencing Act 2002; or
     (iii) released under subpart 2 of Part 1 of the Parole Act 2002; or
-    (iv)
+    (iv) subject to a sentence of home detention under the Sentencing Act 2002
   (e) the applicant is subject to—
     (i) an order made by a New Zealand court that requires the applicant to remain in New Zealand, or the effect of which requires the applicant to remain in New Zealand; or
     (ii) a sentence imposed by a New Zealand court, the effect of which requires the applicant to remain in New Zealand.
