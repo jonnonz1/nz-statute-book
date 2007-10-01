@@ -1,5 +1,5 @@
 # Fire Service Act 1975
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-10-01_
 
 > An Act to establish the New Zealand Fire Service and to consolidate and amend the law relating to the protection of life and property from fire and to certain other emergency services.
 
@@ -497,7 +497,7 @@ Every person who makes a delegation under section 73 of the Crown Entities Act 2
   (e) providing early childhood facilities (other than in a household unit):
   (f) providing nursing, medical, or geriatric care (other than in a household unit):
   (g) providing specialised care for persons with disabilities (other than in a household unit):
-  (h) providing accommodation for persons under lawful detention (not being persons subject to home detention).
+  (h) providing accommodation for persons under lawful detention (not being persons serving a sentence of home detention, or community detention, or serving a sentence of imprisonment on home detention, or on parole subject to residential restrictions imposed under section 15 of the Parole Act 2002).
 (2) However, in sections 21B to 21H, relevant building does not include—
   (a) a Crown building, or class of Crown building, that is specified by the Minister by notice in the Gazette ; or
   (b) premises of the mission (as defined in Schedule 1 of the Diplomatic Privileges and Immunities Act 1968).
