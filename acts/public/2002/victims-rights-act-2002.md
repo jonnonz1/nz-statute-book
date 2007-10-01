@@ -1,5 +1,5 @@
 # Victims' Rights Act 2002
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-10-01_
 
 ### 1 Title
 This Act is the Victims' Rights Act 2002.
@@ -447,7 +447,7 @@ A notice appointing, or terminating the appointment of, a representative, takes 
 **Participation in process under Parole Act 2002**
 
 ### 47 Victim may participate in process for offender's release from prison or release to or from home detention
-A victim to whom this section applies may participate in the process for making decisions about the offender's release from prison or release to or from home detention, under sections 43(5), 46(1), 47(1) to (3), and 49(4) (and any other relevant provisions) of the Parole Act 2002.
+A victim to whom this section applies may participate in the process for making decisions about the offender's release from prison or release to or from home detention, under sections 43(5), 46(1), 48A, 48B, and 49(4) (and any other relevant provisions) of the Parole Act 2002.
 
 **Submissions on deportation of offender**
 
