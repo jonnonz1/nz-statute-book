@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2007-09-24_
+_Consolidation as at 2007-10-01_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -757,7 +757,9 @@ The provisions of section 144 of the Summary Proceedings Act 1957 shall apply in
   (d)
   (e) a woman who is the mother of 1 or more dependent children and who has lost the regular support of her spouse or partner because he or she is subject to a sentence of imprisonment and is—
     (i) serving the sentence in a penal institution; or
-    (ii) subject to release conditions or detention conditions (as those terms are defined in section 4(1) of the Parole Act 2002) that prevent him or her undertaking employment:
+    (ii) subject to release conditions (as that term is defined in section 4(1) of the Parole Act 2002) that prevent him or her undertaking employment:
+    (iii) serving the sentence on home detention, subject to detention conditions that prevent him or her undertaking employment:
+  (ea) a woman who is the mother of 1 or more dependent children and who has lost the regular support of her spouse or partner because he or she is subject to a sentence of supervision, intensive supervision, or home detention and is subject to conditions (including post-detention conditions of a sentence of home detention) that prevent him or her from undertaking employment:
   (f) A man who is the father of 1 or more dependent children whose mother is dead or who for any other reason are not being cared for by their mother.
 (2) Subject to the provisions of this Act, an applicant shall be entitled to receive a domestic purposes benefit if the chief executive is satisfied that—
   (aa) the applicant meets the residential requirements in section 74AA; and
