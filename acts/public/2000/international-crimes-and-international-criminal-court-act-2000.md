@@ -1,5 +1,5 @@
 # International Crimes and International Criminal Court Act 2000
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-10-01_
 
 ### 1 Title
 This Act is the International Crimes and International Criminal Court Act 2000.
@@ -40,7 +40,7 @@ The purpose of this Act is—
 (2) For the purposes of this Act, a person is not liable to be detained in a New Zealand prison if the person is—
   (a) subject to a suspended sentence of imprisonment imposed under the Criminal Justice Act 1985 that has not been activated; or
   (b) on parole, home detention, or compassionate release, or is subject to release conditions, under Part 1 of the Parole Act 2002; or
-  (ba)
+  (ba) subject to a sentence of home detention imposed under section 80A of the Sentencing Act 2002; or
   (c)
   (d) subject to a community-based sentence (within the meaning of section 4(1) of the Sentencing Act 2002).
 (3) For the purposes of Parts 1 to 11,—
