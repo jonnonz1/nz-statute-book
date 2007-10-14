@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2007-10-14_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -512,7 +512,7 @@ A local authority must act in accordance with the following principles in relati
 (1) A local authority must prepare and make publicly available, following the triennial general election of members, a local governance statement that includes information on—
   (a) the functions, responsibilities, and activities of the local authority; and
   (b) any local legislation that confers powers on the local authority; and
-  (ba)
+  (ba) the bylaws of the local authority, including for each bylaw, its title, a general description of it, when it was made, and, if applicable, the date of its last review under section 158 or 159; and
   (c) the electoral system and the opportunity to change it; and
   (d) representation arrangements, including the option of establishing Maori wards or constituencies, and the opportunity to change them; and
   (e) members' roles and conduct (with specific reference to the applicable statutory requirements and code of conduct); and
