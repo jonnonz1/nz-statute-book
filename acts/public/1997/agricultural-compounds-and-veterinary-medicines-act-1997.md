@@ -1,5 +1,5 @@
 # Agricultural Compounds and Veterinary Medicines Act 1997
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-10-18_
 
 > An Act to reform and restate the law relating to agricultural compounds, and to repeal—aThe Stock Foods Act 1946; andbThe Fertilisers Act 1960; andcThe Animal Remedies Act 1967; anddThe Fertilisers Act 1982
 
@@ -11,40 +11,44 @@ _Consolidation as at 2007-09-03_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **Accredited person** means a person for the time being appointed as an accredited person under section 62
+  - **ACVM officer** means a person for the time being appointed as an ACVM officer under section 60
   - **Advertisement** means any publication to the community or to any section of the community of any words, whether written, printed, spoken, or in any electronic form, or of any pictorial representation or design or device, used to promote the sale of any agricultural compound; and has a corresponding meaning
-  - **Agricultural compound** means any substance, mixture of substances, or biological compound, used or intended for use in the direct management of plants and animals, or to be applied to the land, place, or water on or in which the plants and animals are managed, for the purposes of—and includes any veterinary medicine, any substance, mixture of substances, or biological compound used for post-harvest pest control or disinfestation of raw primary produce, and any substance, mixture of substances, or biological compound declared to be an agricultural compound for the purposes of this Act by Order in Council made under subsection (2)
-    (a) Managing or eradicating pests, including vertebrate pests; or
-    (b) Maintaining, promoting, or regulating plant or animal productivity and performance or reproduction; or
-    (c) Fulfilling special nutritional requirements; or
-    (d) The manipulation, capture, or immobilisation of animals; or
-    (e) Diagnosing the condition of animals; or
-    (f) Preventing or treating conditions of animals; or
-    (g) Enhancing the effectiveness of an agricultural compound used for the treatment of plants and animals; or
-    (h) Marking animals;—
+  - **agricultural compound** means—
+    (a) any substance, mixture of substances, or biological compound, used or intended for use in the direct management of plants and animals, or to be applied to the land, place, or water on or in which the plants and animals are managed, for the purposes of—
+      (i) managing or eradicating pests, including vertebrate pests; or
+      (ii) maintaining, promoting, or regulating plant or animal productivity and performance or reproduction; or
+      (iii) fulfilling nutritional requirements; or
+      (iv) the manipulation, capture, or immobilisation of animals; or
+      (v) diagnosing the condition of animals; or
+      (vi) preventing or treating conditions of animals; or
+      (vii) enhancing the effectiveness of an agricultural compound used for the treatment of plants and animals; or
+      (viii) marking animals; and
+    (b) includes—
+      (i) any veterinary medicine, substance, mixture of substances, or biological compound used for post-harvest treatment of raw primary produce; and
+      (ii) anything used or intended to be used as feed for animals; and
+      (iii) any substance, mixture of substances, or biological compound declared to be an agricultural compound for the purposes of this Act by Order in Council made under subsection (2)
   - **Agricultural security** means the exclusion, eradication, and effective management of—
     (a) Pests:
     (b) Unwanted organisms under the Biosecurity Act 1993:
   - **Animal** means any living stage of any member of the animal kingdom except human beings
-  - **Authorised person** means a person for the time being appointed as an authorised person under section 61
-  - **Authorised place** means any place where an inspector has authorised an imported agricultural compound to be held; and includes any transitional facility under the Biosecurity Act 1993
+  - **Authorised place** means any place where an ACVM officer has authorised an imported agricultural compound to be held; and includes any transitional facility under the Biosecurity Act 1993
   - **Biological compound** means any agricultural compound that is—
     (a) A preparation of animal origin; or
     (b) A bacterial or viral vaccine, whether living or not; or
     (c) A virus, mycoplasma, or other micro-organism, whether living or not; or
     (d) A product of a virus, mycoplasma, or other micro-organism, or any substance manufactured for the purpose of having the same action as a product of a virus, mycoplasma, or other micro-organism:
-  - **Code of practice** means any document issued or approved in accordance with section 28
   - **Container** includes anything in or by which an agricultural compound may be cased, covered, enclosed, contained, or packed; and, in the case of any agricultural compound sold or carried or intended for sale in more than one container, includes every such container
   - **Craft** means any form of aircraft, ship, or other vehicle or vessel capable of being used to transport any agricultural compound to or from New Zealand or from or to any country outside New Zealand
-  - **Director-General** means the chief executive of the Ministry of Agriculture
+  - **Director-General** means the chief executive of the Ministry
   - **Hazardous substance** has the same meaning as in the Hazardous Substances and New Organisms Act 1996
   - **Import** means bring or cause to be brought into New Zealand territory from outside that territory; and has a corresponding meaning
-  - **Inspector** means a person for the time being appointed as an inspector under section 60
   - **Label** , in relation to any agricultural compound or any container used to contain an agricultural compound, means any written, pictorial, or other descriptive matter under which the compound is sold or to be sold and which purports to give some information about the compound
   - **Manufacture** , in relation to any agricultural compound, means to make up, prepare, produce, or process the agricultural compound; and includes the packing of an agricultural compound in a container for the purposes of sale
   - **Marae** includes the area of land on which all buildings such as the wharenui (meeting house), the wharekai (dining room), ablution blocks, and any other associated buildings are situated
   - **Minister** means the Minister who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
+  - **Ministry** means the Ministry that, with the authority of the Prime Minister, has for the time being assumed responsibility for the administration of this Act
   - **New organism** has the same meaning as in the Hazardous Substances and New Organisms Act 1996
+  - **operating plan** means a plan approved under section 28(2), and includes a code of practice deemed by section 21(2) of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 to be an operating plan approved under section 28(2)
   - **Person** includes the Crown, a corporation, and a body of persons (whether corporate or unincorporated)
   - **Pest** —
     (a) Includes any unwanted living organism including micro-organisms, pest agents, and any genetic structure that is capable of replicating itself (whether that structure comprises all or only part of an entity, and whether it comprises all or only part of the total genetic structure of an entity) that may affect plants, animals, or raw primary produce; and
@@ -56,6 +60,10 @@ _Consolidation as at 2007-09-03_
   - **Place** includes any building, conveyance, craft, land, or structure
   - **Prescribed** means prescribed by regulations made under this Act
   - **Primary produce** includes any plant or animal, or any derivative of any plant or animal, intended for sale
+  - **public health** means the health of all of—
+    (a) the people of New Zealand; or
+    (b) a community or section of such people
+  - **recognised person** means a person for the time being appointed as a recognised person under section 62
   - **Registered** means registered under section 21 or section 27
   - **Registrant** means, in relation to a registered trade name product, the person who applied to register that product or the person to whom a registration is transferred
   - **Regulations** means regulations in force under this Act
@@ -82,11 +90,25 @@ This Act binds the Crown.
 ### 4 Purpose of Act
 The purpose of this Act is to—
   (a) Prevent or manage risks associated with the use of agricultural compounds, being—
+    (ai) risks to public health; and
     (i) Risks to trade in primary produce; and
     (ii) Risks to animal welfare; and
     (iii) Risks to agricultural security:
   (b) Ensure that the use of agricultural compounds does not result in breaches of domestic food residue standards:
   (c) Ensure the provision of sufficient consumer information about agricultural compounds.
+
+### 4A Scheme of Act
+(1) This Act aims to achieve its purpose by providing that no agricultural compound may be used (including imported, manufactured, or sold) in New Zealand unless that use is authorised by or under this Act.
+(2) The 2 main mechanisms for authorising use of an agricultural compound are—
+  (a) an assessment of the compound, and its registration for use subject to specifically imposed conditions:
+  (b) an exemption from the requirement to register the compound, so long as any specified conditions for exemption are met.
+(3) A range of conditions may be imposed to manage the risks associated with agricultural compounds. These conditions may relate to substances, products, systems, or people's behaviour, and may be imposed—
+  (a) directly by the Director-General when an agricultural compound is registered or exempted from the requirement to be registered; or
+  (b) generally, by regulations.
+(4) The Director-General may also issue notices that set out the technical detail of how compliance with conditions imposed by regulations can be achieved.
+(5) This Act, by its subject-matter, has a relationship with other Acts such as the Animal Products Act 1999, the Food Act 1981, the Wine Act 2003, the Animal Welfare Act 1999, the Biosecurity Act 1993, the Medicines Act 1981, and the Hazardous Substances and New Organisms Act 1986. Generally, the outcomes for which this Act regulates are those set under the other related Acts. For example:
+  (a) maximum residue limits for food products are set under the Food Act 1981; while
+  (b) this Act assesses and controls agricultural compounds to ensure the Food Act residue limit is not breached.
 
 ## Part 2 — Importation, manufacture, and sale of agricultural compounds
 
@@ -94,40 +116,94 @@ The purpose of this Act is to—
 
 ### 5 Imported agricultural compounds to be cleared for entry into New Zealand
 No person may cause or permit any agricultural compound which is imported into New Zealand or any substance, mixture of substances, or biological compound which is used or intended to be used as an agricultural compound and which is imported into New Zealand to leave any craft or authorised place except—
-  (a) To proceed, with the authority of an inspector, to another craft or authorised place; or
-  (b) With the authority of an inspector, to be exported from New Zealand; or
-  (c) To enter into New Zealand after being cleared for entry by an inspector in accordance with section 6.
+  (a) To proceed, with the authority of an ACVM officer, to another craft or authorised place; or
+  (b) With the authority of an ACVM officer, to be exported from New Zealand; or
+  (c) To enter into New Zealand after being cleared for entry by an ACVM officer in accordance with section 6.
 
 ### 6 Agricultural compound clearance
-(1) In this section and section 7, goods means any of the following that is capable of being used as an agricultural compound:
+(1) In this section and sections 7 and 7A, goods means any of the following that is capable of being used as an agricultural compound:
   (a) an agricultural compound:
   (b) a substance:
   (c) a mixture of substances:
   (d) a biological compound.
-(2) An inspector may give a clearance for entry into New Zealand for any goods if the circumstances described in subsection (3) exist.
+(2) An ACVM officer may give a clearance for entry into New Zealand for any goods if the circumstances described in subsection (3) exist.
 (3) The circumstances are—
   (a) that—
     (i) the goods are goods that the importer has declared, under section 7, that the importer will not sell or use as an agricultural compound; or
     (ii) the goods are a registered trade name product, and the product complies with the conditions imposed on its registration under section 23 or its provisional registration under section 27; or
-    (iii) the goods are an agricultural compound and are exempt from registration as a trade name product by regulations made under section 75; or
-    (iv) the goods are an agricultural compound that complies with Part 8; and
+    (iii) the goods are an agricultural compound and are exempt from registration as a trade name product under section 8A; and
+    (iv)
   (b) that there are no discrepancies that suggest that it may be unwise to rely on the documentation accompanying the goods, either—
     (i) in the documentation itself; or
     (ii) between the documentation and the goods.
 (4) A clearance for entry into New Zealand given under this section does not affect the provisions of any other Act.
 
 ### 7 Declaration
-The importer of any goods may, for the purposes of section 6(3)(a)(i), make a statutory declaration declaring that the importer will not sell or use the goods as an agricultural compound.
+The importer of any goods may, for the purposes of section 6(3)(a)(i), make a a declaration in a manner determined by the Director-General to the effect that the importer will not sell or use the goods as an agricultural compound.
 
-### 8 Prohibition of sale or use
-No person may sell within New Zealand, or use, any agricultural compound unless that agricultural compound is a registered trade name product, is exempt from registration by regulations made under section 75, or the provisions of Part 8 apply.
+### 7A Uncleared or unauthorised goods
+(1) The powers provided for in this section apply in respect of goods that are in a transitional facility or biosecurity control area (within the meaning of the Biosecurity Act 1993) that have not been cleared in accordance with sections 5 and 6 of this Act.
+(2) An ACVM officer may seize any such goods that he or she has reasonable grounds to suspect—
+  (a) do not comply with the requirements of this Act; or
+  (b) constitute a risk to public health, agricultural security, trade in or market access for primary produce, the welfare of animals, or may breach domestic food residue standards.
+(3) The Director-General may, either generally or in any particular case, give any reasonable directions as to the disposal or treatment or destruction of, or any other dealing with, any goods seized under this section; and any person may dispose of, treat, destroy, or otherwise deal with the goods accordingly.
+(4) The Director-General may offer the importer or owner of any goods imported into New Zealand and seized under this section the option of exporting or returning the goods to their place of origin provided that the importer or owner undertakes the payment of any costs associated with the export or return of the goods.
+(5) The Director-General may hold goods seized under this section in his or her custody for such period as is necessary for the importer to obtain a clearance for entry into New Zealand in accordance with sections 5 and 6. In such a case the estimated costs and expenses of the custody and maintenance of the goods must be paid in advance to the Director-General.
+(6) In exercising his or her powers under this section, the Director-General must, so far as is practicable while achieving the purposes of this Act, act in a manner that is consistent with avoiding or minimising loss to the importer or owner of the goods seized.
+(7) All costs and expenses attendant upon the custody and disposal of goods seized under this section must be borne by the owner or other person in possession of the goods immediately before their seizure, and are recoverable from that person as a debt due to the Crown.
+(8) If however satisfied that the person in possession of the seized goods was not aware that they did not comply with the requirements of this Act, the Director-General may, at his or her absolute discretion, waive or reduce the amount otherwise recoverable under subsection (7).
+
+### 8 Prohibition on sale, use, manufacture, or import of agricultural compound
+(1) No person may sell within New Zealand, or use, any agricultural compound unless that agricultural compound—
+  (a) is a registered trade name product; or
+  (b) is exempt from registration under section 8A; or
+(2) No person may manufacture in New Zealand any agricultural compound unless that agricultural compound—
+  (a) is a registered trade name product; or
+  (b) is exempt from registration under section 8A; or
+  (c) is manufactured for export only.
+(3) No person may import any agricultural compound into New Zealand unless that agricultural compound—
+  (a) is a registered trade name product; or
+  (b) is exempt from registration under section 8A; or
+  (c) is only to be exported, with or without further processing.
+
+### 8A Exemptions from requirement to register
+(1) An agricultural compound is exempt from the requirement to be registered under this Part if—
+  (a) it is exempt from registration by regulations made under section 75; or
+  (b) it is listed by the Director-General under section 8B as a substance generally recognised as safe for use as or in an agricultural compound; or
+  (c) it is approved by the Director-General under section 8C on the basis of special circumstances.
+(2) An exemption under this section is valid only if the compound or substance complies with any relevant conditions or requirements set by the regulations, or by the Director-General under section 8B or 8C.
+
+### 8B Director-General may list as exempt substances generally recognised as safe
+(1) The Director-General may from time to time determine that a substance is generally recognised as safe for use as or in an agricultural compound, and therefore need not be registered under this Part.
+(2) The determination may be that the substance is safe for use either—
+  (a) without restriction; or
+  (b) subject to conditions.
+(3) The Director-General must maintain a list of such substances. The list must contain any applicable conditions for their sale or use.
+(4) The Director-General must ensure that—
+  (a) the list is available to the public for inspection free of charge; and
+  (b) copies can be taken on payment of a reasonable charge (if any).
+(5) The Director-General must by notice in the Gazette notify the making of any addition or amendment to, or deletion from, the list, but the substances concerned need not be specified in the notice.
+
+### 8C Director-General may approve agricultural compound as exempt in special circumstances
+(1) The Director-General may approve the importation, manufacture, sale, or use of an agricultural compound without registration if the Director-General considers that special circumstances make it appropriate to grant the approval.
+(2) Sections 9 to 12, with any necessary or appropriate modifications, apply to applications for approval under this section.
+(3) Sections 19 to 23 and section 25, with any necessary or appropriate modifications, apply to the Director-General's consideration of an application for approval under this section, and the terms and conditions of any approval.
+(4) In addition,—
+  (a) in considering an application for approval, the Director-General must have regard to whether the agricultural compound concerned fulfils a need that cannot be met by any compound currently available in New Zealand:
+  (b) in granting an approval, the Director-General may impose—
+    (i) a condition that the agricultural compound must not be used on or in products intended for human consumption, or in circumstances that may result in the compound being consumed directly or indirectly by humans:
+    (ii) a condition that the product cannot be imported, manufactured, sold, or used in circumstances other than those specified at the time of the approval.
+(5) The Director-General may at any time, on giving such notice as is reasonable in the circumstances, revoke an approval given under this section, or amend the terms or conditions of an approval.
+(6) A person who holds an approval may surrender the approval by notifying the Director-General in the form and manner specified by the Director-General.
+(7) The provisions of this Act do not give the holder of an approval the sole right to import, manufacture, sell, or use the agricultural compound that is the subject of the approval.
+(8) If a person acting under the delegated authority of the Director-General refuses to grant or revokes an approval under this section, or amends the terms or conditions of an approval, the applicant for or holder of the approval may seek a review of that refusal, revocation, or amendment under section 77A.
 
 **Registration of agricultural compounds**
 
 ### 9 Application for registration
 (1) Any person may apply to the Director-General to register a trade name product unless that product contains an agricultural compound that is—
   (a) A substance, mixture of substances, or biological compound prohibited from use as an agricultural compound or prohibited from use as an ingredient in an agricultural compound in accordance with regulations made under section 75; or
-  (b) A substance, mixture of substances, or biological compound which is exempt from registration as an agricultural compound by regulations made under section 75.
+  (b) A substance, mixture of substances, or biological compound which is exempt from registration as an agricultural compound under section 8A.
 (2) The registrant may apply to the Director-General to vary 1 or more of the conditions on a registered trade name product.
 
 ### 10 Form of application
@@ -172,11 +248,7 @@ No person may sell within New Zealand, or use, any agricultural compound unless 
 ### 15 Waiver of notification
 (1) The Director-General may waive the requirement to notify an application under sections 13 and 14 if—
   (a) The application is made under section 9(1) and there is a registered trade name product with the same active ingredients and an equivalent formulation as the trade name product that is the subject of the application; or
-  (b) The application is made under section 9(2) and is for the variation of 1 or more of the following conditions on a registered trade name product:
-    (i) A minor condition on packaging:
-    (ii) A minor condition on use relating to the method of application:
-    (iii) A minor condition relating to the source of the product:
-    (iv) A minor variation to any other condition.
+  (b) the application is made under section 9(2) and the proposed variation of conditions does not affect the evaluation of the risks relevant to the trade name product under section 21, when compared to the original evaluation under that section.
 (2) The Director-General may waive the requirement to notify an application in accordance with section 14 if, in the Director-General's opinion, a trade name product is likely to be required for use in—
   (a) a biosecurity emergency declared under section 144 of the Biosecurity Act 1993; or
   (b) a special emergency declared under section 49B of the Hazardous Substances and New Organisms Act 1996.
@@ -220,11 +292,12 @@ The Director-General must forward a copy of every submission to the applicant as
 
 ### 19 Relevant risks and benefits
 The only risks and benefits relevant to a decision under section 21 are—
-  (a) Risks to trade and market access for primary produce containing any substance, mixture of substances, or biological compound that forms a part of the trade name product:
+  (a) risks to public health:
+  (ab) risks to trade and market access for primary produce arising from the use of the trade name product:
   (b) Risks to agricultural security:
   (c) Risks to the welfare of animals which result from treatment with or exposure to any substance, mixture of substances, or biological compound that forms a part of the trade name product:
   (d) Risks to domestic food residue standards:
-  (e) The benefits of the trade name product and the likely consequences of the public not having access, or having restricted access, to the trade name product, including consideration of whether alternative means of achieving the stated purpose of the trade name product are available.
+  (e) The benefits of the trade name product and the likely consequences of the public not having access, or having restricted access, to the trade name product.
 
 ### 20 Evaluation of risks and benefits
 The Director-General must, when evaluating the risks and benefits under section 21, have regard to—
@@ -258,14 +331,14 @@ The Director-General must, when evaluating the risks and benefits under section 
   (e) The registration is revoked in accordance with section 57.
 (2) Where registration of a trade name product has ceased in accordance with a provision listed in subsection (1), no person may—
   (a) Import that trade name product; or
-  (b) Sell within New Zealand or use that trade name product except in accordance with a notice under subsection (3).
-(3) Where registration of a trade name product has ceased in accordance with a provision in subsection (1), the Director-General—
-  (a) Must remove the trade name product from the register under section 24; and
-  (b) Must, by notice in the Gazette, give notice of the removal of the trade name product from the register; and
-  (c) Unless the trade name product was registered in accordance with section 27, may allow the sale and use of the trade name product to continue for a period specified in the Gazette notice; and
-  (d) Unless the trade name product was registered in accordance with section 27, may require any person holding the trade name product—
-    (i) To surrender that product to the Director-General; or
-    (ii) To dispose of that product in the manner determined by the Director-General at the expense of the person holding the product.
+  (b) Sell or manufacture within New Zealand or use that trade name product except in accordance with a notice under subsection (3).
+(3) Where registration of a trade name product, other than a provisional registration under section 27, has ceased in accordance with a provision in subsection (1) of this section, the Director-General—
+  (a) must remove the trade name product from the register under section 24; and
+  (b) must, by notice in the Gazette, give notice of the removal of the trade name product from the register; and
+  (c) may allow the sale and use of the trade name product (but not its manufacture) to continue for a period specified in the Gazette notice; and
+  (d) may require any person holding the trade name product—
+    (i) to surrender that product to the Director-General; or
+    (ii) to dispose of that product in the manner determined by the Director-General at the expense of the person holding the product.
 (4) Where a trade name product was registered in accordance with section 27, the trade name product must be disposed of in accordance with the conditions on the registration of the product.
 
 ### 23 Conditions on trade name products
@@ -275,47 +348,56 @@ The Director-General must, when evaluating the risks and benefits under section 
   (c) A condition restricting the importation to certain classes of persons:
   (d) A condition specifying the labelling, advertising, or other information requirements for the trade name product:
   (e) A condition specifying standards of competence for manufacturers, sellers, purchasers, or users of the trade name product:
-  (f) A condition requiring codes of practice approved by the Director-General under section 28 to be followed when importing, manufacturing, selling, or using the trade name product:
+  (f) a condition requiring an operating plan approved by the Director-General under section 28 to be followed when importing, manufacturing, selling, distributing, storing, transporting, or using the trade name product:
   (g) A condition on the packaging or storage of the trade name product:
   (h) A condition specifying standards of quality, purity, and potency for the trade name product:
   (i) A condition specifying procedures for testing the trade name product for quality, purity, or potency:
   (j) A condition requiring systems to be approved to ensure that the trade name product meets specified standards of quality, purity, and potency, and procedures for auditing those systems:
-  (k) A condition requiring information and records to be kept and to be reported, or made available on request, to the Director-General, an inspector, or an authorised person:
-  (l) A condition requiring samples of the trade name product to be taken and tested and the test results to be made available on request to the Director-General, an inspector, or an authorised person:
+  (ja) a condition requiring that persons who import, manufacture, sell, or use a trade name product must do so under the authority of, and in compliance with any requirements of, a recognised person or any class or description of recognised persons:
+  (jb) a condition requiring that persons who authorise the use of a trade name product must do so in compliance with any requirements specified by the Director-General:
+  (k) A condition requiring information and records to be kept and to be reported, or made available on request, to the Director-General, or an ACVM officer:
+  (l) A condition requiring samples of the trade name product to be taken and tested and the test results to be made available on request to the Director-General, or an ACVM officer:
   (m) Such other conditions as the Director-General considers necessary to achieve the purposes of this Act.
 (2) A condition imposed in accordance with this section may apply to any specified class of person or to every person who imports, manufactures, sells, or uses a trade name product; and every person to whom a condition applies must comply with that condition.
 (3) The Director-General must, when imposing conditions in accordance with this section, take into account conditions imposed in any prescribed countries on the trade name product.
+(4) The Director-General must not impose conditions under this section if he or she is satisfied that the relevant risks that the conditions would address are already adequately managed by conditions or controls imposed by or under any other Act.
+(5) The specificity of the conditions listed in paragraphs (a) to (l) of subsection (1) does not limit the conditions that may be imposed under paragraph (m) of that subsection.
 
 ### 24 Register of agricultural compounds
-(1) The Director-General must keep a register of all registered trade name products registered under section 21 or section 27.
+(1) The Director-General must keep a register of all registered trade name products registered under section 21.
+(1A) The register may be kept in such manner as the Director-General thinks fit.
 (2) The register must specify—
   (a) One trade name for the trade name product; and
   (b) The name and principal business address of each registrant and his or her New Zealand agent; and
-  (c) Those particulars of the registered trade name product that are consistent with sections 73, 109, and 121; and
+  (c) Those particulars of the registered trade name product that are consistent with section 73; and
   (d) The application number and the date on which the application was granted; and
-  (e) Whether the trade name product is registered under section 21 or section 27; and
-  (f) The conditions placed on the registration under section 23 or section 27; and
+  (e)
+  (f) The conditions placed on the registration under section 23 ; and
+  (fa) the date and period of any suspension of registration under section 30A, and a brief indication of the reason for the suspension; and
   (g) The termination of any registration by any of the provisions listed in section 22; and
   (h) A summary of the reasons for the decision; and
   (i) The expiry date, if any, of a registration; and
-  (j) The address of every place of business where the registered trade name product is being or is to be manufactured; and
+  (j) the name and contact details of the persons who are or will be manufacturing the trade name product; and
   (k) Such other matters as the Director-General thinks fit.
-(3) A copy of the certificate of registration issued under section 25 must be kept with the register for each application granted by the Director-General.
-(4) The register must also specify any agricultural compounds exempted from registration by regulations made under section 75.
+(3)
+(4) The register must also specify any agricultural compounds or any class or description of agricultural compounds exempted from registration by regulations made under section 75.
 (5) Every person has the right to inspect the register during the ordinary office hours of the office where the register is held.
 (6) The registrant must notify the Director-General of any change to the matters in subsections (2)(b) and (j) within 20 working days of the change taking place.
 
 ### 25 Certificate of registration
-(1) The Director-General, when registering any trade name product in accordance with section 21 or section 27, must issue to the applicant a certificate of registration which must specify the matters in section 24(2)(a), (b), (d), (e), (f), and (i), and may specify the matters in section 24(2)(k).
+(1) The Director-General, when registering any trade name product in accordance with section 21 or section 27, must issue to the applicant a certificate of registration which must specify the matters in section 24(2)(a), (b), (d), (f), and (i), and may specify the matters in section 24(2)(k).
 (2) Where the Director-General is satisfied that a certificate of registration has been lost, destroyed, or cannot be produced, the Director-General may at any time, on application made to him or her by the registrant on a form approved by the Director-General for the purpose, issue a further certificate of registration to the registrant.
+(3) The Director-General must keep a copy of—
+  (a) each certificate of registration; and
+  (b) each application for registration.
 
 ### 26 Application for provisional registration
 (1) Any person may apply to the Director-General to provisionally register a trade name product of an agricultural compound.
 (2) An application made under subsection (1) must be notified in accordance with section 13 but is not notified in accordance with section 14.
-(3) Sections 10, 11, 12, 15, and 19(a), (b), (c), and (d), with the necessary modifications, apply to any application for provisional registration under subsection (1).
+(3) Sections 10, 11, 12, 15, and 19(a), (ab), (b), (c), and (d), with the necessary modifications, apply to any application for provisional registration under subsection (1).
 
 ### 27 Decision on application for provisional registration
-(1) The Director-General must consider any application made under section 26 and must identify, in accordance with section 19(a), (b), (c), and (d), the risks likely to be caused by provisionally registering the trade name product.
+(1) The Director-General must consider any application made under section 26 and must identify, in accordance with section 19(a), (ab), (b), (c), and (d), the risks likely to be caused by provisionally registering the trade name product.
 (2) The Director-General must provisionally register the trade name product if—
   (a) the provisional registration will enable the product's use—
     (i) for the purpose of obtaining further information on it in order to determine whether it should be registered under section 21; or
@@ -329,17 +411,15 @@ The Director-General must, when evaluating the risks and benefits under section 
 (6) The Director-General may cancel the provisional registration if, in the Director-General's opinion, the risks are not being adequately managed by the conditions imposed.
 (7) Where a trade name product contains an agricultural compound that is also a hazardous substance or new organism, the Director-General must not provisionally register that trade name product under this section unless an approval for that substance or organism has been issued under the Hazardous Substances and New Organisms Act 1996.
 
-### 28 Codes of practice
-(1) The Director-General may from time to time issue, approve, amend, or revoke codes of practice for importing, manufacturing, selling, or using any agricultural compound.
-(2) Before issuing, approving, amending, or revoking a code of practice, the Director-General must consult with the organisations for the time being recognised by the Director-General as representing the interests of those persons involved in the importation, manufacture, sale, or use of the agricultural compound who will or may be affected by the code of practice.
-(3) A failure to comply with subsection (2) does not affect the validity of a code of practice issued or amended under this section, or the validity of a revocation of a code of practice under this section.
-(4) Any code of practice issued or approved by the Director-General under subsection (1) may apply to all agricultural compounds, any class or description of agricultural compounds, or any particular agricultural compound.
-(5) The Director-General, when issuing, approving, amending, or revoking a code of practice, must—
-  (a) Notify the issue, approval, amendment, or revocation of the code in the Gazette; and
-  (b) Show in the notice the date of the issue, approval, amendment, or revocation of the code; and
-  (c) Specify in the notice, the place or places at which copies of the code or the amendment are available for inspection or purchase.
-(6) The Director-General must ensure that copies of all codes of practice or amendments to such codes issued or approved under this section are available for inspection at the place or places specified in the notice given under subsection (5).
-(7) A code of practice, amendment, or revocation does not have any force or effect under this Act until notified in the Gazette.
+### 28 Director-General may approve operating plans
+(1) This section applies where—
+  (a) an approved operating plan is required as a condition of—
+    (i) registration of a trade name product; or
+    (ii) exemption under section 8A from the requirement to be registered under section 21 or 27; or
+    (iii) recognition of a person under section 62 in relation to the performance of certain functions:
+  (b) an operating plan is submitted to the Director-General for approval.
+(2) The Director-General may approve an operating plan submitted to him or her.
+(3) The Director-General may, by notice in writing, amend or revoke any approval of an operating plan under subsection (2), following consultation with the person whose operating plan it is.
 
 ### 29 Reassessment of trade name products
 (1) The Director-General may, after consultation with the registrant, decide to reassess a trade name product registered under section 21 or a group of trade name products registered under section 21 with the same active ingredient and similar formulations if, in the opinion of the Director-General,—
@@ -353,24 +433,92 @@ The Director-General must, when evaluating the risks and benefits under section 
 (2) A decision under subsection (1) must be notified to the registrant.
 (3) A decision under subsection (1) is deemed to be a new application for provisional registration for the trade name product and the provisions of sections 26 and 27 apply to the application with any necessary modifications.
 
+### 30A Suspension of registration
+(1) The Director-General may at any time suspend registration of a trade name product registered under section 21 or section 27 for a period of up to 3 months if the Director-General has reasonable grounds to believe that any condition imposed upon registration is not being complied with.
+(2) The Director-General may impose conditions and requirements in respect of the implementation and operation of a suspension under this section.
+(3) Where the Director-General proposes to suspend registration under this section, he or she must give written notice of that fact to the registrant, specifying—
+  (a) the reason for the suspension; and
+  (b) the period of the suspension; and
+  (c) the date on which or time at which it commences (which may not be earlier than the date or time of notification); and
+  (d) any conditions or requirements in relation to the suspension.
+(4) If the Director-General considers it necessary in the circumstances, and after having notified the registrant of the proposed extension and the reasons for it, and having given the registrant a reasonable opportunity to be heard, the period of suspension may be extended once for such further period not exceeding 3 months as the Director-General notifies to the registrant in writing before the expiry of the original suspension.
+(5) The Director-General must notify any suspension of registration of a trade name product registered under section 21 in the Gazette.
+(6) A suspension under this section does not affect any other actions that the Director-General or an ACVM officer may take under this Act.
+(7) Where registration is suspended under this section, the Director-General may direct the registrant to take action appropriate to deal with any affected trade name product, and may exercise any of his or her other powers.
+(8) If a person acting under the delegated authority of the Director-General suspends any registration under this section, the registrant may seek a review of the suspension under section 77A.
+(9) The effect of a suspension of registration under this section is that no person may import, manufacture, sell, or use the relevant trade name product during the period of suspension, unless allowed to do so by a condition or requirement imposed under subsection (2).
+
 ### 31 Director-General may prohibit or restrict product
 Where a decision has been made in accordance with section 29 or section 30 to reassess a registered trade name product, the Director-General may, if he or she thinks fit, prohibit or restrict the importation, manufacture, sale, or use of that trade name product until a decision is made under section 21 or section 27.
 
 ### 32 Meaning of new information
 For the purposes of sections 29 and 30, new information includes, but is not limited to, information not previously considered by the Director-General during an assessment of the registered trade name product and information indicating that conditions placed on the registered trade name product in accordance with section 23 or section 27 do not adequately manage the risks associated with that trade name product.
 
-### 33 No compensation following reassessment
-Where a registered trade name product is reassessed in accordance with section 29 or section 30, no compensation is payable to any person for any loss whatsoever arising out of the reassessment.
+### 33 No compensation or damages following reassessment of trade name product or revocation or amendment of approval
+(1) Where a registered trade name product is reassessed in accordance with section 29 or 30, no compensation or damages are payable to any person for any loss whatsoever arising out of the reassessment.
+(2) Where an approval is revoked or amended in accordance with section 8C(5), no compensation or damages are payable to any person for any loss whatsoever arising out of the revocation or amendment.
 
 ### 34 Transfer and surrender of registration
 (1) The registration of a trade name product—
   (a) May, if the registration is granted under section 21, be transferred by the registrant to any other person; or
-  (b) May, if the registration is granted under section 21 or section 27, be surrendered by a registrant, by returning the certificate of registration to the Director-General.
+  (b) May, if the registration is granted under section 21 or section 27, be surrendered by a registrant.
+(1A) A registrant who intends to transfer the registration to another person or to surrender the registration must notify the Director-General of that intention in the form and manner specified by the Director-General.
 (2) Where the registration is transferred under subsection (1)(a), the transfer is not valid until the Director-General has entered the name of the transferee on the register as the registrant.
 
 ### 35 Rights of registrant
 (1) The provisions of this Act do not give the registrant of a trade name product registered under section 21 the sole right to import, manufacture, sell, or use that trade name product.
 (2) The provisions of this Act do give the registrant of a trade name product registered under section 27 the sole right to import, manufacture, sell, or use that trade name product.
+
+**Certificates of compliance for agricultural compounds**
+
+### 35A Director-General may issue certificates of compliance
+(1) The Director-General, or a person authorised by the Director-General under section 35E, may issue a certificate of compliance in respect of any agricultural compound.
+(2) Without limiting the matters to which a certificate of compliance may apply, a certificate of compliance is a general statement attesting, in respect of an agricultural compound,—
+  (a) that the agricultural compound complies with the requirements of this Act specified in the certificate of compliance:
+  (b) if appropriate, that the situation in New Zealand in relation to any matter concerning agricultural compounds is as stated in the certificate of compliance.
+(3) A certificate of compliance is not a guarantee that the contents of all or any particular consignments of agricultural compounds to which it relates—
+  (a) necessarily meet the requirements of any person relying on the certificate of compliance; or
+  (b) are fit for use no matter what the status or description of the user or what has happened to the consignment or what has been its treatment since it left New Zealand; or
+  (c) are fit for use for a purpose other than that for which they were intended.
+
+### 35B Form and content of certificate of compliance
+(1) A certificate of compliance may be in the form of a certificate or declaration or in such other form as the Director-General determines.
+(2) A certificate of compliance may relate to—
+  (a) one or more consignments of agricultural compound; or
+  (b) one or more export destinations; or
+  (c) any combination of the above.
+(3) A certificate of compliance may be communicated to its appropriate destination by writing, fax, electronic means, or any other faint of communication that is accurate, clear, and verifiable.
+
+### 35C Obtaining of certificate of compliance
+(1) A person who wishes to obtain a certificate of compliance in respect of any agricultural compound may apply in a manner approved by the Director-General, and must supply any information required by the Director-General and pay any relevant fee.
+(2) The Director-General or person authorised under section 35E need not issue a certificate of compliance unless satisfied that the information obtained from the applicant justifies the giving of the certificate of compliance.
+
+### 35D Certificate of compliance may be withdrawn, and reissued
+(1) A certificate of compliance may be withdrawn by the Director-General or other person authorised by the Director-General if the Director-General or person is satisfied that—
+  (a) the certificate was incorrectly or inappropriately given; or
+  (b) events or circumstances occurring since the certificate was issued mean that it no longer holds true, or is misleading.
+(2) The Director-General or other person authorised may, on application in a manner approved by the Director-General and on payment of the prescribed fee (if any), reissue a withdrawn certificate of compliance (with modifications, if appropriate) as a new certificate of compliance.
+
+### 35E Persons authorised to issue certificates of compliance
+The Director-General may designate 1 or more persons employed within the Ministry as persons authorised to issue certificates of compliance for the purposes of this Act.
+
+### 35F No Crown liability
+The Crown, the Director-General, and employees of the Ministry are not liable, by reason of the issue, refusal or failure to issue, or withdrawal of a certificate of compliance in respect of any agricultural compound, for any loss arising through the refusal or failure of the relevant authority of an overseas market to admit an agricultural compound intended to be exported to that market.
+
+**Recall of agricultural compound**
+
+### 35G Recall of agricultural compound
+(1) The Director-General may, by notice in writing, direct the recall of any agricultural compound for the purpose of rectification, disposal, or destruction if, in the opinion of the Director-General,—
+  (a) the compound does not comply with any requirements of this Act or of regulations made under this Act; and
+  (b) the non-compliance could result in serious or significant risk to the matters referred to in section 4.
+(2) A notice under this section (a recall notice) may require any person holding the agricultural compound to rectify the non-compliance under subsection (1), or dispose of or destroy the compound in the manner determined by the Director-General at the expense of the person holding the compound.
+(3) A recall notice may be directed to any 1 or more persons who own or have control over the agricultural compound in question.
+(4) On receipt of a recall notice, the person on whom it is served must as soon as practicable—
+  (a) advise the Director-General of the details of the manner in which the notice is to be complied with; and
+  (b) give written notice to the Director-General when the recall, and any specified requirement associated with the recall, has been completed.
+(5) If a person who owns or has control of the agricultural compound fails or refuses to comply with a recall notice, the Director-General may—
+  (a) take any reasonable steps necessary to give effect to the recall notice (including entry by ACVM officers into premises under a warrant); and
+  (b) recover the costs and expenses reasonably incurred under paragraph (a) as a debt due from that person.
 
 ## Part 3 — Powers of Director-General and Minister
 
@@ -380,17 +528,14 @@ In addition to any powers and functions given to the Director-General under this
   (b) Disseminate information and advice on agricultural compounds.
 
 ### 37 Delegation by Director-General
-(1) The Director-General may, in writing, delegate to any person any of his or her functions, powers, or duties under this Act, including the power to hear and decide any application made under section 9 or section 26, on such conditions as the Director-General thinks fit, except this power of delegation.
-(2) Every person purporting to act under a delegation under this section is presumed to be acting in accordance with its terms in the absence of evidence to the contrary.
-(3) A delegation under this section is revocable at will, and no such delegation prevents the performance or exercise of any function, power, or duty by the Director-General.
-(4) Where any decision under section 21 or section 27 is made by any person acting under the delegated authority of the Director-General, the applicant is entitled to have the decision reviewed by the Director-General.
+[Repealed]
 
 ### 38 Policy directions
 (1) In the exercise and performance of his or her functions, powers, and duties under this Act, the Director-General must have regard to those policies of government that are applicable to agricultural compounds, and must comply with any general directions relating to that policy given to the Director-General from time to time by notice in writing signed by the Minister.
 (2) Where a notice is given to the Director-General under subsection (1), the Minister must, as soon as practicable after the giving of the notice, publish in the Gazette and present to the House of Representatives a copy of the notice.
 
 ### 39 Minister's power to call in applications with significant effects
-(1) Where the Minister considers that the decision on any application under this Act is likely to have—the Minister may direct that the Minister will decide the application.
+(1) Where the Minister considers that the decision on any application under this Act (other than an application for an approval under section 8C or for a certificate of compliance under section 35C) is likely to have—the Minister may direct that the Minister will decide the application.
   (a) Significant economic effects; or
   (b) Significant effects on New Zealand's international interests or obligations; or
   (c) Significant effects in areas where the Director-General lacks expertise,—
@@ -416,7 +561,7 @@ In addition to any powers and functions given to the Director-General under this
   (c) Must investigate an application made under section 9 having regard to all relevant matters, including matters under sections 19 to 21 and the Minister's reasons for giving the direction under section 39;
   (d) Must investigate an application made under section 26 having regard to all relevant matters, including matters under section 27 and the Minister's reasons for giving the direction under section 39.
 (2) The provisions of sections 17 to 23 apply with all necessary modifications to an inquiry into an application made under section 9 as if the conduct of the inquiry were the consideration of that application.
-(3) The provisions of sections 17, 18, 19(a), (b), and (c), and 27 apply with all necessary modifications to an inquiry into an application made under section 26 as if the conduct of the inquiry were the consideration of that application.
+(3) The provisions of sections 17, 18, 19(a), (ab), (b), and (c), and 27 apply with all necessary modifications to an inquiry into an application made under section 26 as if the conduct of the inquiry were the consideration of that application.
 
 ### 43 Board of Inquiry to report to Minister
 (1) On completion of an investigation under section 41, the Board of Inquiry must, as soon as practicable, submit to the Minister a written report (including recommendations and reasons) on the application referred to it by the Minister.
@@ -441,6 +586,7 @@ In addition to any powers and functions given to the Director-General under this
 ### 46 Appeal on question of law
 (1) Any—may appeal against the decision of the Director-General to the High Court on a question of law.
   (a) Party to an application for registration under sections 9 and 26; or
+  (ab) party to an application for an approval under section 8C; or
   (b) Person who made a submission to the Director-General on any application for registration under section 16—
 (2) Any report and recommendation of the Director-General is deemed to be a decision for the purposes of Part 10 of the High Court Rules, except to the extent that those rules are inconsistent with sections 47 to 53.
 
@@ -497,29 +643,41 @@ Section 144 of the Summary Proceedings Act 1957 applies in respect of a decision
 (1) Every person commits an offence against this Act who—
   (a) Knowingly uses any agricultural compound in contravention of this Act; or
   (b) Knowingly sells any agricultural compound in contravention of this Act; or
+  (ba) knowingly manufactures any agricultural compound in contravention of this Act; or
+  (bb) knowingly imports any agricultural compound in contravention of this Act; or
   (c) Knowingly contravenes any conditions which apply to any trade name product registered under section 21 or section 27; or
   (d) Knowingly contravenes any conditions which apply to any agricultural compound exempt from registration by regulations made under section 75; or
+  (da) knowingly contravenes any conditions of an approval given under section 8B or 8C; or
+  (db) knowingly imports, manufactures, sells, or uses a product while that product's registration is suspended under section 30A, unless allowed to do so by a condition or requirement imposed under section 30A(2); or
+  (dc) knowingly contravenes or fails to comply with a condition or requirement imposed under section 30A(2); or
+  (dd) knowingly fails to comply with a direction given under section 30A(7); or
+  (de) knowingly contravenes the requirements of any recall notice issued under section 35G; or
   (e) Knowingly sells any animal, plant, or primary produce that has been treated with, or exposed to, any agricultural compound that is not imported, manufactured, sold, or used in accordance with the provisions of this Act; or
   (f) Knowingly makes a false representation that any agricultural compound is registered as a trade name product in accordance with section 21 or section 27 or is an agricultural compound and is exempt from registration in accordance with regulations made under section 75; or
   (g) Knowingly possesses any agricultural compound which has not been cleared for entry into New Zealand in accordance with section 6; or
   (h) Knowingly contravenes or knowingly permits a contravention of a prohibition notice issued in accordance with section 65; or
-  (i) Knowingly contravenes an order given in accordance with section 64(2)(d).
+  (i) Knowingly contravenes an order given in accordance with section 64(2)(d); or
+  (j) knowingly supplies false or misleading information to the Director-General or an ACVM officer under this Act; or
+  (k) knowingly supplies false or misleading information in support of an application under this Act; or
+  (l) knowingly withholds relevant information from an ACVM officer or person assisting an ACVM officer.
+(1A) Every person commits an offence against this Act who, in contravention of an order made under section 57A(2), or in contravention of such an order as varied under section 57A(4), imports, manufactures, sells, or uses any trade name product or agricultural compound.
 (2) Every person commits an offence against this Act who—
-  (a) Knowingly supplies false or misleading information to the Director-General or an inspector or an authorised person under this Act; or
-  (b) Knowingly supplies false or misleading information in support of an application under this Act; or
-  (c) Personates or falsely represents himself or herself to be an inspector, authorised person, or accredited person; or
-  (d) Without reasonable excuse obstructs or hinders an inspector, authorised person, or accredited person in the execution of any powers conferred on that person by or under this Act; or
+  (a)
+  (b)
+  (c) Personates or falsely represents himself or herself to be an ACVM officer or recognised person; or
+  (d) Without reasonable excuse obstructs or hinders an ACVM officer or recognised person in the execution of any powers conferred on that person by or under this Act; or
   (e) Interferes with any samples taken or tests carried out for the purposes of this Act.
 (3) Every veterinarian commits an offence who knowingly fails to provide any client with information to prevent the occurrence, in any primary produce from any animal treated with an agricultural compound, of residues of that compound which contravene any requirements of the Dairy Industry Act 1952, the Meat Act 1981, the Animal Products Act 1999, or the Food Act 1981 or any regulations or notices in force under those Acts.
 (4) Every person commits an offence against this Act who—
   (a) Contravenes any provision of any regulations made under this Act:
   (b) Contravenes any provision of sections 98, 99, 100, 102, 114, 116, and 117.
-(5) Notwithstanding anything in the Summary Proceedings Act 1957, any information in respect of any offence against this section may be laid by any person at any time within 2 years after the time when the matter of the information arose.
+(5) Notwithstanding anything in the Summary Proceedings Act 1957, any information in respect of any offence against this section may be laid by any person at any time within 4 years after the time when the matter of the information arose.
 
 ### 56 Penalties
 (1) Every person who commits an offence against subsection (1) of section 55 is liable on summary conviction,—
-  (a) In the case of a natural person, to a fine not exceeding $30,000:
+  (a) in the case of a natural person, to a term of imprisonment not exceeding 2 years or a fine not exceeding $30,000, or both:
   (b) In the case of a corporation, to a fine not exceeding $150,000.
+(1A) Every person who commits an offence against section 55(1A) is liable on summary conviction to a term of imprisonment not exceeding 2 years or a fine not exceeding $60,000, or both.
 (2) Every person who commits an offence against any provision of subsections (2) and (3) of section 55 is liable on summary conviction,—
   (a) In the case of a natural person, to a fine not exceeding $15,000:
   (b) In the case of a corporation, to a fine not exceeding $75,000.
@@ -527,8 +685,24 @@ Section 144 of the Summary Proceedings Act 1957 applies in respect of a decision
 (4) Where a fine is prescribed by any regulations continued in force by section 110 or section 122 as the penalty that may be imposed for any offence, the fine so prescribed and not the fine prescribed by subsection (3) is the penalty that may be imposed for the offence.
 (5) Where any person is convicted of an offence against this Act, the Court may, instead of or in addition to any fine, order the forfeiture of any trade name product, any agricultural compound, or any substance, mixture of substances, or biological compound used or intended for use as an agricultural compound, in the possession of that person.
 
-### 57 Revocation of registration
-When a registrant or an agent of a registrant is convicted of an offence against this Act, the Court may, instead of or in addition to a fine, revoke any registration held by that registrant of any trade name product.
+### 57 Revocation of registration or approval
+(1) When a registrant or an agent of a registrant is convicted of an offence against this Act, the Court may, instead of or in addition to a fine or imprisonment, revoke any registration held by that registrant of any trade name product.
+(2) When a holder of an approval under section 8C, or any agent of such a holder, is convicted of an offence against this Act, the Court may, instead of or in addition to a fine or imprisonment, revoke the approval.
+
+### 57A Power to prohibit person from importing, manufacturing, selling, or using trade name product or agricultural compound
+(1) This section applies where—
+  (a) a person is convicted of an offence under section 55(1) and either—
+    (i) the person has been convicted of a previous offence against section 55(1); or
+    (ii) the Court is of the opinion that by reason of the serious nature of the offence the person's activities relating to agricultural compounds should be restricted; or
+  (b) a person is convicted of breaching a restriction order issued under this section.
+(2) The Court may, in addition to or substitution for any other penalty imposed on a person convicted of an offence to which this section applies, issue an order prohibiting the person from importing, manufacturing, selling, or using any trade name product or agricultural compound.
+(3) A person who is the subject of an order under subsection (2) may, at any time after the expiration of 12 months from the date of the order, apply to the Court for the cancellation of the order.
+(4) At the hearing of the application the Court may, if it thinks fit, having regard to—order that, as from a date to be specified in the order, the prohibition be removed or the order be varied, or refuse the application.
+  (a) the character of the applicant; and
+  (b) the applicant's conduct since the order was made; and
+  (c) the nature of the offence of which the applicant was convicted; and
+  (d) any other circumstances of the case,—
+(5) If the Court has, under subsection (4), ordered that the order be varied or has refused the application, the person may not make a further application under subsection (3) within 12 months after the date of the order of variation or the refusal.
 
 ### 58 Liability of employers and principals
 (1) Subject to subsection (3), where any offence is committed against this Act by a person as the employee of another person, that offence must, for the purposes of this Act, be treated as committed by that other person as well as by the first-mentioned person, whether or not it was done with that other person's knowledge or approval.
@@ -546,55 +720,51 @@ Where any body corporate is convicted of an offence against this Act, every dire
   (a) That the act that constituted the offence took place with his or her authority, permission, or consent; and
   (b) That he or she could reasonably have known that the offence was to be or was being committed and failed to take all reasonable steps to prevent or stop it.
 
-### 60 Appointment of inspectors
-(1) The Director-General may from time to time appoint persons as inspectors for the purposes of administering and enforcing the provisions of this Act.
-(2) An inspector may be authorised, on his or her appointment, to exercise all of the powers and functions conferred on inspectors under this Act, or only those powers and functions specified in his or her instrument of appointment, or subsequently by written notice to the inspector.
-(3) Inspectors must be persons employed under the State Sector Act 1988.
-(4) The Director-General may from time to time establish performance standards and technical standards for inspectors; and every inspector, when performing his or her functions, powers, or duties under this Act, must use his or her best endeavours to comply with and give effect to the relevant performance standards or technical standards.
+### 60 Appointment of ACVM officers
+(1) The Director-General may from time to time appoint persons as agricultural compounds and veterinary medicines officers (ACVM officers) for the purposes of administering and enforcing the provisions of this Act.
+(2) An ACVM officer may be authorised, on his or her appointment, to exercise all of the powers and functions conferred on ACVM officers under this Act, or only those powers and functions specified in his or her instrument of appointment, or subsequently by written notice to the ACVM officer.
+(3) ACVM officers must be persons employed under the State Sector Act 1988.
+(4) The Director-General may from time to time establish performance standards and technical standards for ACVM officers; and every ACVM officer, when performing his or her functions, powers, or duties under this Act, must use his or her best endeavours to comply with and give effect to the relevant performance standards or technical standards.
 (5) The Director-General may suspend or revoke any appointment made under this section at any time.
 
 ### 61 Appointment of authorised persons
-(1) The Director-General may from time to time appoint persons as authorised persons to exercise the powers set out in sections 64 to 67 in respect of those functions specified in their instruments of appointment or subsequently by written notice.
-(2) The appointment of an authorised person under this section can be made only if that appointee has, in the opinion of the Director-General, the experience, technical competence, and qualifications to undertake the functions specified in the instrument of appointment.
-(3) Every person appointed under this section must comply with any lawful written direction or written instruction given by the Director-General in relation to the exercise and performance of the functions, powers, and duties conferred or imposed on authorised persons by this Act.
-(4) Persons appointed under this section may, but need not, be persons who are employed under the State Sector Act 1988.
-(5) The Director-General may from time to time establish performance standards and technical standards for authorised persons; and every authorised person, when performing his or her functions, powers, or duties under this Act, must use his or her best endeavours to comply with, and give effect to, the relevant performance standards or technical standards.
-(6) The Director-General may suspend or revoke any appointment made under this section at any time.
+[Repealed]
 
-### 62 Appointment of accredited persons
-(1) The Director-General may accredit persons to carry out specified functions required under this Act.
-(2) The accreditation of a person under this section can be made only if that person has, in the opinion of the Director-General, the experience, technical competence, and qualifications to undertake the functions specified in the instrument of accreditation.
-(3) Every person accredited under this section must comply with any lawful direction or instruction given by the Director-General in relation to the exercise and performance of the functions, powers, and duties conferred or imposed on accredited persons by the Director-General under subsection (1).
-(4) Persons accredited under this section may, but need not, be persons who are employed under the State Sector Act 1988.
-(5) The Director-General may from time to time establish performance standards and technical standards for accredited persons; and every accredited person, when performing his or her functions, powers, or duties under this Act, must use his or her best endeavours to comply with and give effect to the relevant performance standards or technical standards.
-(6) The Director-General may suspend or revoke any accreditation given under this section at any time.
+### 62 Appointment of recognised persons
+(1) The Director-General may recognise persons to carry out specified functions for the purposes of this Act.
+(2) The recognition of a person under this section can be made only if that person has, in the opinion of the Director-General, the experience, technical competence, and qualifications to undertake the functions specified in the instrument of recognition.
+(3) Every person recognised under this section must comply with any lawful direction or instruction given by the Director-General in relation to the exercise and performance of the functions, powers, and duties conferred or imposed on recognised persons by the Director-General under subsection (1).
+(4) Persons recognised under this section may, but need not, be persons who are employed under the State Sector Act 1988.
+(5) The Director-General may from time to time establish performance standards and technical standards for recognised persons; and every recognised person, when performing his or her functions, powers, or duties under this Act, must use his or her best endeavours to comply with and give effect to the relevant performance standards or technical standards.
+(6) The Director-General may suspend or revoke any recognition given under this section at any time.
 
-### 63 Protection of inspectors, authorised persons, and accredited persons
-No action or proceedings may be brought against any inspector, authorised person, or accredited person in respect of any actions taken by any such inspector, authorised person, or accredited person under this Act unless he or she has acted in bad faith or without reasonable cause.
+### 63 Protection of ACVM officers and recognised persons
+No action or proceedings may be brought against any ACVM officer or recognised person in respect of any actions taken by any such officer or person under this Act unless he or she has acted in bad faith or without reasonable cause
 
 ### 64 Powers of entry for inspection
-(1) Any inspector or authorised person may enter any place, go on, into, under, and over any place (except a dwellinghouse or marae) for the purpose of inspection to determine whether or not any person is complying with this Act.
-(2) For the purposes of subsection (1), an inspector or authorised person may—
+(1) Any ACVM officer may enter or go on, into, under, or over any place (including, to avoid doubt, any transitional facility or biosecurity control area within the meaning of the Biosecurity Act 1993) for the purpose of inspection to determine whether or not any person is complying with this Act.
+(1A) Subsection (1) does not apply to a place that is a dwellinghouse or a marae.
+(2) For the purposes of subsection (1), an ACVM officer may—
   (a) Open containers and packages and inspect the contents:
   (b) Request, gather, or secure evidence, take samples of agricultural compounds, water, air, soil, or any substance, take samples from any animals, plants, and primary produce, and test or analyse or arrange for the testing and analysis of such samples:
   (c) Inspect, inquire about, or copy any documents or other records including records in an electronic form relating to the obligations imposed under this Act, and remove any documents or other records including records in an electronic form from the place for the purposes of copying such documents or records:
   (d) Order the person in charge of the place to identify and hold any agricultural compound for up to 5 working days.
-(3) Every inspector or authorised person exercising any of the powers conferred by this section must, at the time of exercising that power and thereafter on request, produce—
-  (a) Evidence of that person's appointment as an inspector or authorised person; and
+(3) Every ACVM officer exercising any of the powers conferred by this section must, at the time of exercising that power and thereafter on request, produce—
+  (a) Evidence of that person's appointment as an ACVM officer; and
   (b) Evidence of that person's identity.
-(4) An inspector or authorised person may take any person on to the place to assist him or her with the inspection.
+(4) An ACVM officer may take any person on to the place to assist him or her with the inspection.
 (5) Nothing in this section limits or affects the privilege against self incrimination.
 
-### 65 Inspectors or authorised persons may issue prohibition notices
-(1) Any inspector or authorised person who has reasonable grounds to believe that any person manufacturing, selling, or using any agricultural compound is acting in contravention of any provision of this Act, or any conditions on the registration of a trade name product, may give written notice to that person prohibiting the manufacture, sale, or use of that product or that agricultural compound by that person until such time as the contravention of the Act is rectified to the satisfaction of the inspector or authorised person.
-(2) A prohibition notice issued under subsection (1) must specify the contravention to which it relates, the action required to remedy the contravention, and the prohibition placed upon the manufacture, sale, or use of a trade name product or an agricultural compound.
-(3) A prohibition notice issued under subsection (1) may be issued subject to such conditions as the person issuing it considers appropriate.
+### 65 ACVM officers may issue prohibition notices
+(1) Any ACVM officer who has reasonable grounds to believe that any person manufacturing, selling, importing or using any agricultural compound is acting in contravention of any provision of this Act, or any conditions on the registration of a trade name product or on an approval given under section 8C or any conditions determined under section 8B(2), may give written notice to that person prohibiting the manufacture, sale, import, or use of that product or that agricultural compound by that person until such time as the contravention of the Act is rectified to the satisfaction of the ACVM officer.
+(2) A prohibition notice issued under subsection (1) must specify the contravention to which it relates, the action required to remedy the contravention, and the prohibition placed upon the manufacture, sale, import, or use of a trade name product or an agricultural compound.
+(3) A prohibition notice issued under subsection (1) may be issued subject to such conditions as the persons issuing it considers appropriate.
 
 ### 66 Compliance with prohibition notices
 Every person to whom a prohibition notice is given must ensure that no action is taken in contravention of it.
 
-### 67 Matters may be completed by different inspectors or authorised persons
-If an inspector or authorised person has issued a prohibition notice under section 65, any inspector or authorised person may—
+### 67 Matters may be completed by different ACVM officers
+If an ACVM officer has issued a prohibition notice under section 65, any ACVM officer may—
   (a) Take further steps on or in relation to it; or
   (b) Revoke or withdraw it; or
   (c) From time to time vary it; or
@@ -607,34 +777,34 @@ If an inspector or authorised person has issued a prohibition notice under secti
 
 ### 69 Issue of search warrants
 (1) Any District Court Judge or Justice of the Peace or any Registrar who is satisfied, on application in writing made on oath, that there are reasonable grounds for believing that there is in, on, under, or over any place (including any dwellinghouse or marae)—may issue a search warrant in the form set out in Schedule 1.
-  (a) Any agricultural compound, substance, mixture of substances, or biological compound that is evidence of an offence committed against section 55(1):
+  (a) Any agricultural compound, substance, mixture of substances, or biological compound that is evidence of an offence committed against section 55(1)or section 55(1A):
   (b) Any agricultural compound, substance, mixture of substances, or biological compound used or intended to be used as an agricultural compound that has been abandoned:
   (c) Any documents or other records or things which there are reasonable grounds to believe may be evidence of the commission of any offence under this Act to which paragraph (a) or paragraph (b) applies,—
-(2) Every search warrant must be directed either to a member of the Police by name or to every member of the Police or to any inspector by name, but in any of those cases, the warrant may be executed by any member of the Police.
+(2) Every search warrant must be directed either to a member of the Police by name or to every member of the Police or to any ACVM officer by name, but in any of those cases, the warrant may be executed by any member of the Police.
 (3) On issuing a warrant, the Judge, Justice of the Peace, or Registrar may impose such reasonable conditions on its execution as he or she thinks fit.
-(4) Any member of the Police or any inspector may call any person to assist him or her in the execution of a search warrant.
+(4) Any member of the Police or any ACVM officer may call any person to assist him or her in the execution of a search warrant.
 
 ### 70 Powers of entry with warrant
-(1) Every warrant, subject to any conditions imposed under subsection (3), authorises the member of the Police or the inspector who is executing it and any person called on by that member or inspector to assist—
+(1) Every warrant, subject to any conditions imposed under subsection (3), authorises the member of the Police or the ACVM officer who is executing it and any person called on by that member or ACVM officer to assist—
   (a) To enter the place, dwellinghouse, or marae on one occasion within 14 days after the date of the issue of the warrant at any time that is reasonable in the circumstances; and
   (b) To use such force, both for making entry (either by breaking open doors or otherwise) and for breaking open anything on the place, dwellinghouse, or marae, as is reasonable in the circumstances; and
   (c) To search for and seize—
-    (i) Any agricultural compound, any trade name product, or substance, mixture of substances, or biological compound used or intended to be used as an agricultural compound found on the place, dwellinghouse, or marae where it is suspected on reasonable grounds to be evidence of an offence committed against section 55(1):
+    (i) Any agricultural compound, any trade name product, or substance, mixture of substances, or biological compound used or intended to be used as an agricultural compound found on the place, dwellinghouse, or marae where it is suspected on reasonable grounds to be evidence of an offence committed against section 55(1) or section 55(1A):
     (ii) Any documents or other records or things which there are reasonable grounds to believe may be evidence of the commission of any offence against this Act; and
   (d) To take any photographs, and make any drawings, of any structure, container, packaging, or label, or any other thing where there are reasonable grounds to believe that the structure, container, packaging, or label or other thing is in breach of the provisions of this Act or regulations; and
-  (e) To seize and detain any trade name product or any agricultural compound imported in breach of the provisions of this Act; and
+  (e) To seize and detain any trade name product or any agricultural compound manufactured or imported in breach of the provisions of this Act; and
   (f) To seize and detain any trade name product or any agricultural compound that—
-    (i) Is a risk to agricultural security, trade in primary produce, or market access for primary produce containing that compound, the welfare of animals, or domestic food residue standards; and
-    (ii) Appears to an inspector, who has made such inquiries as appear reasonable in the circumstances, to have been abandoned or have no apparent or readily identifiable owner.
-(2) Any member of the Police or inspector who executes a search warrant must carry the warrant with him or her, and produce it for inspection—
+    (i) is a risk to public health, agricultural security, trade in or market access for primary produce, the welfare of animals, or may breach domestic food residue standards; and
+    (ii) Appears to an ACVM officer, who has made such inquiries as appear reasonable in the circumstances, to have been abandoned or have no apparent or readily identifiable owner.
+(2) Any member of the Police or ACVM officer who executes a search warrant must carry the warrant with him or her, and produce it for inspection—
   (a) On first entering the place, dwellinghouse, or marae, to the person appearing to be in charge of the place, dwellinghouse, or marae; and
   (b) Whenever subsequently required to do so, on the place, dwellinghouse, or marae, by any other person appearing to be in charge of the place, dwellinghouse, or marae or any part of the place, dwellinghouse, or marae.
-(3) Where the occupier of the place, dwellinghouse, or marae is not present at the time the search warrant is executed, the member of the Police or inspector must leave in a prominent place on the place, dwellinghouse, or marae a written statement of the time and date of the search, and the name of the member of the Police or inspector, and the address of the police station or other office to which enquiries should be made.
-(4) Where any trade name product, any agricultural compound, trade name products, substance, mixture of substances, or biological compound, or books, documents, or other records or things is, or are, seized in execution of a search warrant, the member of the Police or inspector executing the warrant must leave in a prominent place on the place, dwellinghouse, or marae or send to the occupier, within 10 working days after the search, a written inventory of all things so seized.
+(3) Where the occupier of the place, dwellinghouse, or marae is not present at the time the search warrant is executed, the member of the Police or ACVM officer must leave in a prominent place on the place, dwellinghouse, or marae a written statement of the time and date of the search, and the name of the member of the Police or ACVM officer, and the address of the police station or other office to which enquiries should be made.
+(4) Where any trade name product, any agricultural compound, trade name products, substance, mixture of substances, or biological compound, or books, documents, or other records or things is, or are, seized in execution of a search warrant, the member of the Police or ACVM officer executing the warrant must leave in a prominent place on the place, dwellinghouse, or marae or send to the occupier, within 10 working days after the search, a written inventory of all things so seized.
 (5) Where any action is taken under a warrant in, on, under or over a dwellinghouse, or marae, that action must be taken in the presence of a member of the Police.
 
 ### 71 Disposal of property seized
-(1) Except as provided in subsection (2) of this section, section 199 of the Summary Proceedings Act 1957 applies to any property seized by any member of the Police and, with the necessary modifications, to any property seized by any inspector.
+(1) Except as provided in subsection (2) of this section, section 199 of the Summary Proceedings Act 1957 applies to any property seized by any member of the Police under a search warrant issued under section 69 and, with the necessary modifications, to any property seized by any ACVM officer under such a warrant.
 (2) If proceedings for an offence relating to the property seized are not brought within a period of 6 months after the date of seizure, any person claiming to be entitled to the thing may, after the expiration of that period, apply to a District Court Judge for an order that it be delivered to him or her; and on any such application the District Court Judge may adjourn the application, on such terms as he or she thinks fit, for the proceedings to be brought, or may make any order that a Court may make under section 199(3)(a) of the Summary Proceedings Act 1957.
 (3) Where any agricultural compound or trade name product is seized under section 70(1)(f)(ii), and no person is charged with an offence under this Act or applies to have the agricultural compound or trade name product returned, the agricultural compound or trade name product must be disposed of as directed by the Director-General.
 
@@ -692,9 +862,20 @@ Where the Director-General receives an innovative agricultural compound applicat
 
 ### 75 Regulations
 (1) Subject to section 78, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) Prescribing substances, mixtures of substances, biological compounds, or any class or group of substances, mixtures of substances, or biological compounds which may, subject to the prescribed conditions (including, but not limited to, conditions that an importer, manufacturer, seller, or user must comply with a code of practice issued or approved in accordance with section 28) be imported, manufactured, sold, or used as an agricultural compound without registration under section 21 or section 27:
+  (a) Prescribing substances, mixtures of substances, biological compounds, or any class or group of substances, mixtures of substances, or biological compounds which may, subject to any prescribed conditions (including, but not limited to, conditions that an importer, manufacturer, seller, or user must comply with an operating plan approved in accordance with section 28) be imported, manufactured, sold, or used as an agricultural compound without registration under section 21 or section 27:
   (b) Prescribing substances or classes or group of substances which must be notified to the Director-General before importation, manufacture, sale, or use as an agricultural compound:
   (c) Prescribing records, returns, or information which any person or class of persons may be required to keep or to report to the Director-General on agricultural compounds exempt from registration under section 21 or section 27 by regulations made under this section:
+  (ca) prescribing procedures, processes, and requirements relating to conditions imposed at the time of registration of trade name products under section 21 or 27:
+  (cb) prescribing procedures, processes, and requirements relating to conditions on those substances exempt from registration as an agricultural compound under section 8B:
+  (cc) prescribing procedures, processes, and requirements for applying for registration of a trade name product:
+  (cd) prescribing standards relevant to consideration of applications for registration of trade name products and the conditions imposed on registration, including, without limitation, standards in relation to—
+    (i) manufacturing processes and facilities:
+    (ii) packing, storage, transport, and handling:
+    (iii) authorising the use of, selling, or supplying agricultural compounds:
+    (iv) the activities or behaviour of persons recognised to carry out certain functions in relation to agricultural compounds:
+    (v) identification and labelling:
+    (vi) separating off portions of products into smaller quantities:
+    (vii) any other matter relevant to the management of products, activities, or behaviour to minimise the risks specified in section 4:
   (d) Prescribing consumer information requirements for agricultural compounds and procedures for the Director-General to certify any consumer information requirements provided by suppliers of the compounds, as providing adequate information:
   (e) Prescribing requirements for testing of products and auditing of quality assurance systems:
   (f) Prescribing substances which are prohibited from use as agricultural compounds or as ingredients in agricultural compounds:
@@ -702,11 +883,34 @@ Where the Director-General receives an innovative agricultural compound applicat
   (h) Prescribing countries for the purposes of section 23 and subsection (3):
   (i) Prescribing persons, organisations, or classes of persons or organisations for the purposes of section 74(1)(c):
   (j) Providing for such other matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
+(1A) Regulations made under this section—
+  (a) may apply to all agricultural compounds or substances, any class or description of agricultural compounds or substances, or any particular agricultural compound or substance:
+  (b) may authorise the Director-General to issue or impose any specifications or other detailed requirements that are necessary or desirable to amplify the manner in which the requirements of the regulations may or must be achieved.
 (2) Where the importer, manufacturer, seller, or user of any agricultural compound being imported into, manufactured in, sold, or used in New Zealand is required to notify the Director-General of that compound by regulations made under subsection (1), the importer, manufacturer, seller, or user must supply the prescribed information within 20 working days after the date on which the regulations come into force.
 (3) The Minister must, when recommending conditions in accordance with this section, take into account conditions imposed in any prescribed countries on the same substances, mixtures of substances, biological compounds, or class or group of substances.
+(3A) When recommending the making of regulations under this section, the Minister must have regard to the desirability of maintaining consistency between those regulations and any relevant international standards, requirements, or recommended practices.
 (4) Before recommending the making of an Order in Council under subsection (1)(d), the Minister must be satisfied that there is likely to be an adverse economic result and the agricultural compound is being sold—
   (a) Without an adequate description of the contents; or
   (b) Consistently and significantly below the contents described in consumer information.
+
+### 76A Director-General may set specifications and other detailed requirements
+(1) The Director-General may from time to time issue notices setting specifications and other detailed requirements that—
+  (a) are specified or contemplated by or necessary to give effect to any regulation made under section 75; or
+  (b) are necessary or desirable to amplify the manner in which the requirements of any such regulation may or must be achieved.
+(2) Before issuing a notice under this section, the Director-General must do everything reasonably practicable to consult with the organisations for the time being recognised by the Director-General as representing the interests of persons who will or may be affected by the specifications or other detailed requirements contained in the notice.
+(3) Subsection (2) does not apply where the Director-General considers it desirable in the public interest that the notice be issued urgently.
+(4) A failure to comply with subsection (2) does not affect the validity of a notice issued under this section.
+(5) Where a notice under this section affects only 1 person or a small number of persons, and the identity of those persons is known, the Director-General must—
+  (a) notify the persons individually in writing, whether personally by post or facsimile addressed to the person, or by electronic means acceptable to the person; and
+  (b) either—
+    (i) supply them with a copy of the specifications or other requirements; or
+    (ii) notify them where they may inspect a copy free of charge (which may include inspection by electronic means) or obtain a copy on payment of a reasonable charge.
+(6) Where it is not possible or practicable to notify a matter in accordance with subsection (5), the Director-General must—
+  (a) either publish the specifications or other requirements in the Gazette, or notify their making or existence in the Gazette; and
+  (b) where the Director-General considers it practicable, cause them to be brought to the attention of persons likely to be affected by them by notice or publication in any newspaper or trade journal, or by any other practicable means (including electronic means).
+(7) If the specifications or other requirements are notified only, and not published, in the Gazette—
+  (a) the Director-General must make copies available for inspection free of charge, and for purchase at a reasonable cost, at the head office of the Ministry and at such other places as the Director-General determines; and
+  (b) the Gazette notice must specify where a copy may be inspected or obtained.
 
 ### 76 Recommendation of Order in Council
 The Minister must recommend the making of an Order in Council under section 75(1)(a) if the Minister considers—
@@ -716,43 +920,159 @@ The Minister must recommend the making of an Order in Council under section 75(1
 ### 77 Warranties
 The registration of any trade name product under section 21 or section 27, or the exemption of any agricultural compound from registration by regulations made under section 75, does not imply a warranty by the Crown or the Director-General that the trade name product or agricultural compound is reasonably fit for the purpose for which it is sold, or that the agricultural compound complies with any labelling or other consumer information relating to that compound.
 
+### 77A Right of review of registration decisions made under delegated authority
+(1) This section applies to any decision made under any of sections 8C, 21, 27, and 30A by a person acting under the delegated authority of the Director-General.
+(2) A person dissatisfied with any such decision may seek a review of the decision by the Director-General or by a person designated by the Director-General who was not involved in making the original decision.
+(3) An application for a review must—
+  (a) be in writing; and
+  (b) state the grounds on which it is believed that the original decision was inappropriate; and
+  (c) be provided to the Director-General within 20 working days after the original decision was notified to the applicant.
+(4) The Director-General, or a person designated by the Director-General who was not involved in the original decision, must review the matter within 40 working days, or within such extended period not exceeding a further 20 working days as the Director-General or designated person may specify by notice in writing to the applicant.
+(5) For the purposes of a review, the Director-General or designated person may require the applicant to supply information additional to that contained in the application for review within a specified time. The time taken to supply any such information (or allowed for its supply, if the information is not in fact supplied) is not to be counted for the purposes of the time limits specified in subsection (4).
+(6) The decision sought to be reviewed remains valid unless and until altered by the Director-General or designated person.
+(7) The Director-General or designated person must, as soon as practicable, notify the applicant for review of his or her decision on the review in writing, giving reasons for the decision.
+(8) A decision by the Director-General under this section is final, unless determined otherwise by a court of law of competent jurisdiction.
+
 ### 78 Consultation before making of Orders in Council
-(1) Before making any recommendation for the purpose of making any Order in Council under section 75 or section 81, the Director-General must—and the Minister must take into account the results of that consultation.
+(1) Before making any recommendation for the purpose of making any Order in Council under section 75 section 81D, or section 81E, the Director-General must—and the Minister must take into account the results of that consultation.
   (a) Do everything reasonably practicable on his or her part to consult with the organisations for the time being recognised by the Director-General as representing the interests of persons involved in the importation, manufacture, sale, or use of the agricultural compound or compounds who will or may be affected by any Order in Council made in accordance with the recommendation, of the proposed terms of the Order in Council; and
   (b) Advise the Minister of the results of any such consultation,—
 (2) Subsection (1) does not apply in respect of any Order in Council if the Minister considers it desirable in the public interest that the Order in Council be made urgently.
 (3) A failure to comply with subsection (1) does not affect the validity of any Order in Council made under this Act.
 
 ### 79 Relationship to other Acts
-Nothing in this Act affects the requirements of the Dairy Industry Act 1952, the Animal Welfare Act 1999, the Misuse of Drugs Act 1975, the Wild Animal Control Act 1977, the Food Act 1981, the Meat Act 1981, the Medicines Act 1981, the Biosecurity Act 1993, the Hazardous Substances and New Organisms Act 1996, or the Animal Products Act 1999 in relation to any substance, mixture of substances, or biological compound.
+Nothing in this Act affects the requirements of the Animal Welfare Act 1999, the Misuse of Drugs Act 1975, the Wild Animal Control Act 1977, the Food Act 1981, the Wine Act 2003, the Health Act 1956 (despite section 138 of that Act),the Medicines Act 1981, the Biosecurity Act 1993, the Hazardous Substances and New Organisms Act 1996, or the Animal Products Act 1999 in relation to any substance, mixture of substances, or biological compound.
 
 ### 80 Correction of errors
-Where any mistake exists in the register or in any other document made or issued under this Act, the Director-General may correct the mistake; and, for that purpose, may require the registrant to produce the certificate of registration or any other document held by the registrant.
+Where any mistake exists in the register or in any other document made or issued under this Act, the Director-General may correct the mistake; and, for that purpose, may require the registrant or any holder of an approval to produce the certificate of registration or any other document held by the registrant or holder of the approval.
 
-### 81 Regulations prescribing fees and charges
-(1) The Governor-General may from time to time, by Order in Council, make regulations prescribing or providing for fees and charges payable in respect of the exercise or performance of any of the functions, powers, or duties under this Act.
-(2) Any such regulations may—
-  (a) Specify the persons by whom any fees and charges so prescribed or fixed are payable; and
-  (b) Prescribe the matters for which direct and indirect costs may be recovered; and
-  (c) Prescribe a scale of fees and charges or a rate based on the time involved in carrying out the function, power, or duty; and
-  (d) Prescribe a scale of fees and charges or a fee and charge for a prescribed function, power, or duty; and
-  (e) Prescribe a formula for fixing fees and charges; and
-  (f) Prescribe an annual fee or charge or classes of fees or charges payable by the registrants of a trade name product; and
-  (g) Prescribe the time of payment of fees and charges, the means of collection of fees and charges, and the person who is responsible for paying a fee or charge.
-(3) Any regulations made under subsection (1) may fix the fees or prescribe the scale or formula for fixing fees and charges so as to recover—
-  (a) The actual and reasonable costs of carrying out any specified action:
-  (b) The actual and reasonable costs of carrying out any specified class of actions for a specified period of time and, where applicable,—
-    (i) Increase the costs by an amount sufficient to recover the difference between the costs incurred in a previous specified period and the costs recovered, where the costs recovered were less than the costs incurred; or
-    (ii) Reduce the costs by an amount sufficient to refund the difference between the costs incurred in a previous specified period and the costs recovered, where the costs recovered were more than the costs incurred.
-(4) The Director-General may estimate the total fees and charges payable in accordance with regulations made under subsection (1) and may require the person who is liable to pay the fees and charges to pay some or all of those fees and charges in advance, and need not perform any actions to which the fee and charge relates until the amount required to be paid has been paid to the Director-General in full. Any such estimate may from time to time be amended.
-(5) The Director-General may, as he or she thinks fit, refund or waive any fee and charge prescribed in regulations made under subsection (1) in whole or in part in any case or class of cases including, but not limited to, any functions, powers, or duties carried out under Part 2.
+**Cost recovery**
+
+### 81 Principles of cost recovery
+(1) The Minister and the Director-General must take all reasonable steps to ensure that the direct and indirect costs of administering this Act that are not provided for by money appropriated by Parliament for the purpose are recovered under this section and sections 81A to 83 (referred to in this section and those sections as the cost recovery sections), whether by way of fees, levies, or otherwise.
+(2) In determining the most appropriate method of cost recovery under section 81A, and its level, in any particular case or class of cases of agricultural compound, business, person, or other matter, the Minister and Director-General must have regard, as far as is reasonably practicable, to the following criteria:
+  (a) equity, in that funding for a particular function, power, or service, or a particular class of function, powers, or services, should generally, and to the extent practicable, be sourced from the users or beneficiaries of the relevant function, power, or service at a level commensurate with their use or benefit from the function, power, or service:
+  (b) efficiency, in that costs should generally be allocated and recovered in order to ensure that maximum benefits are delivered at minimum cost:
+  (c) justifiability, in that costs should be collected only to meet the reasonable costs (including indirect costs) for the provision or exercise of the relevant function, power, or service:
+  (d) transparency, in that costs should be identified and allocated as closely as practicable in relation to tangible service provision for the recovery period in which the service is provided.
+(3) Costs should not be recovered under the cost recovery sections unless there has been appropriate consultation with affected parties and relevant industry organisations in accordance with section 78, and the parties involved have been given sufficient time and information to make an informed contribution.
+(4) Nothing in subsection (3) or section 78 or 81C requires consultation in relation to specific fees or charges, or the specific levels of fees or charges, so long as the fees or charges set are reasonably within the purview of any general consultation or any consultation carried out for the purposes of section 78, and a failure to comply with subsection (3) does not affect the validity of any regulations made for the purposes of these cost recovery sections.
+(5) Nothing in this section requires a strict apportionment of the costs to be recovered for a particular function or service based on usage; and, without limiting the way in which fees or charges may be set, a fee or charge may be set at a level or in a way that—
+  (a) is determined by calculations that involve an averaging of costs or potential costs:
+  (b) takes into account costs or potential costs of services that are not directly to be provided to the person who pays the fee or charge but which are an indirect or potential cost arising from the delivery of the service in question to a class of persons or all persons who use the service.
+
+### 81A Methods of cost recovery
+The methods by which costs may be recovered under the cost recovery sections are as follows:
+  (a) fixed fees or charges:
+  (b) fees or charges based on a scale or formula or at a rate determined on an hourly or other unit basis:
+  (c) use of a formula or other method of calculation for fixing fees and charges:
+  (d) the recovery by way of fee or charge of actual and reasonable costs expended in, or associated with, the performance of a service or function:
+  (e) estimated fees or charges, or fees or charges based on estimated costs, paid before the provision of the service or function, followed by reconciliation and an appropriate further payment or refund after provision of the service or function:
+  (f) refundable or non-refundable deposits paid before provision of the service or performance of the function:
+  (g) fees or charges imposed on users of services or third parties:
+  (h) levies:
+  (i) any combination of the above.
+
+### 81B Cost recovery to relate generally to financial year
+(1) Except as provided in subsection (2), any regulations under the cost recovery sections that set a fee, charge, or levy that applies in any financial year—
+  (a) must have been made before the start of that financial year; but
+  (b) except as the regulations may otherwise provide, apply in that year and all subsequent years until revoked or replaced.
+(2) Subsection (1) does not prevent the alteration or setting during any financial year of a fee, charge, or levy payable in that year if either—
+  (a) the fee, charge, or levy is reduced, removed, or restated without substantive alteration; or
+  (b) in the case of an increase or a new fee, charge, or levy,—
+    (i) appropriate consultation in accordance with section 78 has been carried out with persons or representatives of persons substantially affected by the alteration or setting; and
+    (ii) the Minister is satisfied that those persons, or their representatives, agree or do not substantially disagree with the alteration or setting.
+(3) Subsection (1) does not prevent the amendment of any regulation setting a fee, charge, or levy if any substantive alteration effected by the amendment is for the purpose of correcting an error.
+(4) Recovery may be made in any financial year of any shortfall in cost recovery for any of the preceding 4 financial years, and allowance may be made for any over-recovery of costs in those years (including any estimated shortfall or over-recovery for the immediately preceding financial year).
+
+### 81C Three-yearly review of cost recovery
+(1) The Minister must cause to be reviewed, at least once in every 3-year period occurring since the original setting of, or latest change to, the levels and methods of cost recovery in relation to any class of agricultural compound, business, person, or other matter, the levels and methods of cost recovery in the relevant area that are likely to be appropriate for the following financial year or years.
+(2) The Minister must ensure that appropriate consultation in accordance with section 78 takes place in relation to any such review.
+(3) A review may make provision for recovery in any relevant financial year of any shortfall in cost recovery for any of the preceding 4 financial years, or make allowance for any over-recovery of costs in those years (including any estimated shortfall or over-recovery for the immediately preceding financial year).
+(4) Subsection (1) does not require all areas of cost recovery to be reviewed at the same time, nor does it impose any time limit on the making of regulations to implement the results of a review.
+
+### 81D Fees and charges to be prescribed by regulations
+(1) Regulations may be made under this Act, on the recommendation of the Minister, prescribing fees and charges for the purposes of this Act.
+(2) The fees and charges may be prescribed using any 1 or more of the methods specified in section 81A, or any combination of those methods.
+(3) Different fees and charges, or different rates or types of fee or charge, may be prescribed in respect of different classes or descriptions of agricultural compound, persons or businesses, operations, or other matters, or any combination of them.
+(4) Without limiting subsection (3), the fees and charges prescribed may—
+  (a) differ depending on whether or not a special or urgent service is provided:
+  (b) include more than 1 level of fee or charge for the same service provided in different ways, or provided in or in respect of different places:
+  (c) differ for otherwise similar services provided in different ways:
+  (d) differ for otherwise similar services provided to different categories of person:
+  (e) differ depending on the amount of service required or the components of the service required for the particular person or class of person.
+(5) Where regulations prescribe a formula for determining a fee or charge, the formula may specify the value of 1 or more of its components as being an amount or amounts notified for these components by the Director-General by notice in the Gazette.
+(6) The Minister may not recommend the making of regulations under this section unless satisfied that, to the extent appropriate in the circumstances, the requirements of sections 81 and 81B have been met.
+
+### 81E Regulations may impose levies
+(1) Regulations may be made under this Act, on the recommendation of the Minister, prescribing levies for the purposes of this Act.
+(2) Different levies or rates of levy or bases on which an amount of levy is to be calculated or ascertained may be prescribed for different purposes, and different levies or rates of levy or bases for calculation may be set for different classes or descriptions of agricultural compound, persons or businesses, operations, or other matters, or any combination of them.
+(3) Without limiting the generality of subsection (1), regulations imposing levies may—
+  (a) specify when and how any levy is to be paid:
+  (b) require that any levy, or estimated amount of levy, be paid in advance of performance of the services or functions to which it relates:
+  (c) specify persons, other than persons primarily responsible for paying the levy, who are to be responsible for collecting a levy, and provide for retention of any part of the levy money collected as a fee for that service:
+  (d) require, or empower the Director-General to require, the provision of information and returns in relation to levies:
+  (e) require the keeping of separate trust accounts for levy money received or deducted by persons responsible for collecting levies, and prescribe matters in relation to those trust accounts:
+  (f) prescribe a method of arbitration or mediation in the case of disputes as to—
+    (i) whether or not any person is required to pay, or collect, the levy concerned; or
+    (ii) the amount of levy any person is required to pay or collect:
+  (g) provide for related matters, including procedures and remuneration for arbitrators or mediators.
+(4) The Minister may not recommend the making of regulations under this section unless satisfied that, to the extent appropriate in the circumstances, the requirements of sections 81 and 81B have been met.
+
+### 81F Trust accounts required to be kept by persons collecting levies
+(1) If regulations made under section 81E require the operation of a trust account for any levy money by the person responsible for collecting the levy,—
+  (a) any amount held in such an account that is due to be paid to the Director-General by the levy collector is to be treated as levy money held on trust for the Director-General; and
+  (b) any amount so held on trust is not available for the payment of any creditor (other than the Director-General) of the levy collector, and is not liable to be attached or taken in execution at the instance of any such creditor; and
+  (c) a person who ceases to be a person responsible for collecting a levy must continue to maintain the trust account until all the levy money payable to the Director-General in respect of the period during which the person was responsible for collecting the levy has been paid.
+(2) Nothing in subsection (1)(c) affects any obligation or liability under this Act of any other person who has become responsible for collecting the levy concerned.
+
+### 81G Other charges not requiring to be prescribed
+(1) Nothing in the cost recovery sections or in any other provision of this Act prevents the Director-General from requiring a reasonable charge to be paid for any of the services the Ministry provides in relation to the administration of this Act, or any actual and reasonable expenses incurred in providing the services, other than services in respect of which a fee or charge or levy is prescribed under these cost recovery sections.
+(2) Without limiting subsection (1), and for the avoidance of doubt, the Director-General may—
+  (a) operate a telephone information service for which each caller pays according to their usage or on some averaged basis:
+  (b) charge persons for the cost of mailing, faxing, emailing, or couriering information to them:
+  (c) charge for the cost of written material, unless that material is required by an Act or by regulations made under this Act to be provided free of charge:
+  (d) charge for access to any website, or for information or services provided by any website, operated by the Ministry:
+  (e) charge for access to any library or research services provided in relation to matters pertaining to agricultural compounds, or associated things:
+  (f) charge any person for services provided in relation to a business importing, manufacturing, selling, or using agricultural compounds or otherwise under this Act.
+(3) All money received as a result of such charges received by the Ministry must be paid into the Departmental Bank Account.
+
+### 81H Exemptions, waivers, and refunds
+(1) Regulations made under this Act may provide for exemptions from, or waivers or refunds of, any fee, levy, or charge payable under this Act, in whole or in part, in any particular case or class of case.
+(2) Any such regulations may authorise the Director-General to grant an exemption, waiver, or refund in any particular case or class of case.
+
+### 81I Fees, levies, and charges to constitute debt due to Director-General
+Any fee, levy, or charge that has become payable is a debt due to the Director-General, and is recoverable as a debt by the Director-General in any court of competent jurisdiction. Until paid in full, it remains a debt due to the Crown.
+
+### 81J Penalties for failure to pay fee, levy, or charge
+(1) If a person has failed to pay to the Director-General by the due date any fee, levy, or charge payable under this Act,—
+  (a) section 14 of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 applies to increase the amount payable; and
+  (b) section 15 of that Act applies to allow the Director-General, in appropriate cases, to waive the payment of all or any of the amount of any such increase; and
+  (c) section 16 of that Act applies to allow the Director-General to withdraw, or refuse to provide the person in default with, any service of the kind to which the debt relates.
+(2) For the purposes of subsection (1)(c) of this section and section 16 of the Ministries of Agriculture and Forestry (Restructuring) Act 1997, and without limiting the generality of that section 16, the references in those provisions to the withdrawal or refusal to provide any service are to be treated as also authorising the Director-General, in an appropriate case, to—
+  (a) withhold or suspend any registration or approval under this Act, or refuse to perform any function under this Act in relation to the person in default:
+  (b) withhold any certificate of compliance.
+(3) Where any registration or approval is suspended under subsection (2)(a), no person may import, manufacture, or sell a trade name product or agricultural compound under the authority of that registration or approval.
+(4) Where the withholding, withdrawal, or suspension of any approval or registration under this section requires the Director-General to provide any further service, or perform any further function involved in the withholding, withdrawal, or suspension, the Director-General may recover any reasonable amount for the additional service, function, or costs as a debt due from the person in default.
+
+### 81K Obligation to pay fee, levy, or charge not suspended by dispute
+The obligation of a person to pay any fee, levy, or charge under this Act (including any penalty referred to in section 81J), and the right of the Director-General to receive and recover the fee, levy, charge, or penalty, are not suspended by any dispute between the person and the Director-General regarding the person's liability to pay the fee, levy, or charge, or the amount of the fee, levy, or charge.
+
+### 81L Levy regulations to be confirmed
+(1) Where regulations imposing a levy have been made under the cost recovery sections on or after 1 January in any year and before 1 July in that year, and—they are to be treated as having been revoked with the close of 30 June in that next year unless confirmed by an Act of Parliament passed on or before that day.
+  (a) have not been revoked with effect on or before 1 July in the next year; and
+  (b) have not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of the Regulations (Disallowance) Act 1989,—
+(2) Where any regulations imposing a levy have been made under the cost recovery sections after 30 June in any year and on or before 31 December in that year, and—they are to be treated as having been revoked with the close of 31 December in the year after the year in which they were made, unless confirmed by an Act of Parliament passed on or before that day.
+  (a) have not been revoked with effect on or before 1 January in the year after the next year; and
+  (b) have not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of the Regulations (Disallowance) Act 1989,—
 
 ### 82 Prohibition of importation or manufacture by registrant for non-payment of fees
-(1) Where the registrant of a trade name product is liable, in accordance with regulations made under section 81, to pay any fee or charge in respect of that trade name product and that fee or charge remains unpaid after the expiration of time provided by section 18 of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995, the registrant is, in addition to any other penalty payment imposed by this or any other Act, prohibited from importing or manufacturing the trade name product while the debt and any penalty payment remains unpaid.
-(2) The Director-General may waive a prohibition imposed in accordance with this section if he or she thinks fit.
+[Repealed]
 
 ### 83 Debt due to the Crown
-Any final fee and charge payable in accordance with this Act or regulations made under this Act by any person in respect of the completed exercise or performance of any action by the Director-General must, until paid in full and remitted to the Crown, constitute a debt due to the Crown and may be recovered in any Court of competent jurisdiction.
+[Repealed]
+
+**Amendments, repeals, and revocations**
 
 ### 84 Amendment of Schedule 1
 The Governor-General may from time to time, by Order in Council, amend the form set out in Schedule 1 or revoke that form and substitute a new form.
@@ -769,244 +1089,116 @@ The enactments specified in Schedule 2 are amended in the manner indicated in th
 **General**
 
 ### 87 Interpretation
-In this Part, unless the context otherwise requires,—
-  - **Animal remedy** or means any drug, medicine, remedy, or therapeutic preparation, or any biochemical substance, which is manufactured, imported, or advertised for sale or is sold for any of the following purposesbut does not include any preparation, substance, or product which is used primarily as a food for animals
-    (a) Testing any animals in relation to any disease; or
-    (b) Curing, diagnosing, treating, controlling, or preventing any disease in animals; or
-    (c) Destroying or preventing parasites on or in animals; or
-    (d) Maintaining or improving the health, condition, or productivity of any animal; or
-    (e) Capturing or immobilising any animal;—
-  - **Authority** has the same meaning as in section 2 of the Hazardous Substances and New Organisms Act 1996
-  - **Board** means the Animal Remedies Board constituted under the Animal Remedies Act 1967 and continued in existence under section 96 of this Act
-  - **Container** includes anything in or by which an animal remedy may be cased, covered, enclosed, contained, or packed; and, in the case of any animal remedy sold or carried or intended for sale in more than one container, includes every such container
-  - **Label** , in relation to any animal remedy or any container used to contain an animal remedy, means any written, pictorial, or other descriptive matter under which the remedy is sold or to be sold and which purports to give any information about the remedy
-  - **Licence** means a licence issued by the Board under this Part, or a licence issued under the Animal Remedies Act 1967 and continued under section 94 of this Act, to any person to manufacture or import the animal remedy named in it; and and have corresponding meanings
-  - **Manufacture** ,—
-    (a) In relation to a pesticide, means to pack the pesticide or cause it to be packed for sale; or
-    (b) In relation to an animal remedy, means to make up, prepare, produce, or process the remedy; and includes the packing of a remedy in any container for sale:
-  - **Manufacturer** , in relation to a pesticide, means the person who, as owner, manufactures the pesticide
-  - **Pesticide** means any substance to which section 112 applies
-  - **Proprietor** means,—
-    (a) In relation to a pesticide manufactured in New Zealand, the manufacturer of the pesticide; and
-    (b) In relation to a pesticide manufactured elsewhere, the importer of the pesticide:
-  - **Use** , in relation to any animal remedy, includes—
-    (a) Applying the remedy to an animal externally:
-    (b) Feeding the remedy to an animal orally:
-    (c) Mixing the remedy with any food provided for an animal:
-    (d) Providing an animal with the remedy in order that it may be consumed by the animal:
-    (e) Drenching an animal with the remedy:
-    (f) Injecting the remedy into an animal by any route or means whatsoever:
-  - **Veterinary consultation** , in relation to the administration, prescribing, or dispensing of any prescription animal remedy by a veterinarian to or in respect of any animal, means—
-    (a) An examination of that animal by that veterinarian; or
-    (b) The obtaining by that veterinarian of sufficient information about that animal, being an animal in the immediate care of that veterinarian, to enable that veterinarian to make an informed decision with respect to the administration, dispensing, or prescribing of a prescription animal remedy to or in respect of that animal:
-  - **Veterinary surgeon**
+[Repealed]
 
 ### 88 Regulations relating to transitional provisions
-Without limiting the provisions of section 75, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) Providing that any animal remedy licensed under the Animal Remedies Act 1967 or licensed in accordance with section 93—
-    (i) Is no longer licensed in accordance with the Animal Remedies Act 1967 or section 93; and
-    (ii) Is deemed to have been registered as a trade name product by the Director-General under Part 2, with the conditions specified in the regulations:
-  (b) Providing that any pesticide—
-    (i) Is no longer subject to sections 112 to 122; and
-    (ii) Is deemed to have been registered as a trade name product by the Director-General under Part 2, with the conditions specified in the regulations:
-  (c) Providing that any fertiliser registered under the Fertilisers Act 1960 or registered in accordance with section 91 is—
-    (i) No longer registered in accordance with the Fertilisers Act 1960 or section 91; and
-    (ii) Is deemed to have been registered by the Director-General under Part 2 of this Act, with the conditions specified in the registration:
-  (d) Providing that any substance, mixture of substances, or biological compound used as an agricultural compound at the commencement of this Act but not subject to the provisions of the Fertilisers Act 1960, the Animal Remedies Act 1967, or the Pesticides Act 1979 is deemed to be registered under Part 2, with the conditions specified in the regulations:
-  (e) Amending or revoking any of the regulations specified in Schedule 5.
+[Repealed]
 
 ### 89 Transitional provisions for certain agricultural compounds in use at commencement of Act
-Where, at the date of commencement of this Act, any substance, mixture of substances, or biological compound was sold or used as an agricultural compound, but was not subject to the provisions of the Fertilisers Act 1960, the Animal Remedies Act 1967, or the Pesticides Act 1979, that substance, mixture of substances, or biological compound may continue to be sold or used as an agricultural compound—whichever is the earliest.
-  (a) Until registered as a trade name product in accordance with regulations made under section 88; or
-  (b) Until exempt from registration as an agricultural compound in accordance with regulations made under section 75; or
-  (c) For a period of 3 years from the date of commencement of this Act,—
+[Repealed]
 
 ### 90 Transitional provisions for inspectors
-Every person who, immediately before the commencement of this Act, held office as an inspector under the Animal Remedies Act 1967 or the Pesticides Act 1979 is deemed to have been appointed as an inspector under section 60.
+[Repealed]
 
 ### 91 Application for registration made before commencement of Act
-(1) Where, before the date of commencement of this Act, any person had made an application for registration under section 5 of the Fertilisers Act 1960, and no decision had been made to grant or refuse the application, that application is continued and determined in all respects under the Fertilisers Act 1960, including any rights of appeal under section 10 of that Act.
-(2) Any fertiliser registered in accordance with subsection (1) may be sold or used as an agricultural compound in accordance with the terms and conditions of the registration—whichever is the earliest.
-  (a) For a period of 3 years from the date on which the registration was granted; or
-  (b) Until the fertiliser is deemed to be registered in accordance with regulations made under section 88; or
-  (c) Until the fertiliser is exempt from registration in accordance with regulations made under section 75,—
+[Repealed]
 
 ### 92 Continuation of registration
-Where, before the date of commencement of this Act, a fertiliser was registered under the Fertilisers Act 1960, that fertiliser may continue to be sold or used as a fertiliser—whichever is the earliest.
-  (a) For a period of 3 years from the date of commencement of this Act; or
-  (b) Until the fertiliser is deemed to be registered in accordance with regulations made under section 88; or
-  (c) Until the fertiliser is exempt from registration in accordance with regulations made under section 75,—
+[Repealed]
 
 **Animal remedies**
 
 ### 93 Applications for licences made before commencement of Act
-(1) Where, before the date of commencement of this Act, any person had made an application for a licence under section 19 of the Animal Remedies Act 1967, and no decision had been made to grant or refuse the application, that application must be continued and determined in all respects under the Animal Remedies Act 1967, including any rights of appeal under section 34 of that Act and any rehearing under section 35 of that Act, as if this Act had not been enacted.
-(2) The holder of any licence granted in accordance with subsection (1) may import, or manufacture, and sell the animal remedy in accordance with the terms and conditions of the licence—whichever is the earliest.
-  (a) Until the licence expires in accordance with the terms and conditions specified in the licence; or
-  (b) For a period of 3 years from the date on which the licence was granted, if the licence was granted under section 24 of the Animal Remedies Act 1967 and the licence does not include an expiry date; or
-  (c) Until the animal remedy is registered in accordance with regulations made under section 88,—
+[Repealed]
 
 ### 94 Continuation of licences
-(1) If, before the commencement of this Act, the importation or manufacture of an animal remedy was licensed under section 21 of the Animal Remedies Act 1967, the holder of the licence may import, or manufacture, and sell the animal remedy in accordance with the terms and conditions of the licence until the close of the earliest of—
-  (a) the date that the licence expires in accordance with the terms and conditions of the licence; or
-  (b) the last day of a period of 3 years from the commencement of this Act; or
-  (c) the day before the date that the animal remedy is registered in accordance with regulations made under section 88.
-(2) Where, before the date of commencement of this Act, the importation or manufacture of any animal remedy was licensed under section 24 of the Animal Remedies Act 1967, the holder of the licence may import, or manufacture, and sell that animal remedy in accordance with the terms and conditions of the licence—whichever is the earliest.
-  (a) Until the licence expires in accordance with the terms and conditions specified in the licence; or
-  (b) For a period of 3 years after the date on which the licence was granted if the licence does not include an expiry date; or
-  (c) Until the animal remedy is registered in accordance with regulations made under section 88,—
+[Repealed]
 
 ### 95 Exemption from Act
-Where, before the date of commencement of this Act, any animal remedy was exempt from the provisions of the Animal Remedies Act 1967 in accordance with a notice given under section 3(1) of that Act, the provisions of that notice continue to apply with any necessary modifications for 3 years from the date of commencement of this Act.
+[Repealed]
 
 ### 96 Continuation of Animal Remedies Board
-(1) Notwithstanding the repeal of the Animal Remedies Act 1967, the Board continues to exist in accordance with this section for 3 years after the date of commencement of this Act or until such earlier date as the Governor-General may fix by Order in Council.
-(2) A date may be fixed in accordance with subsection (1) only when the Board has completed its functions in accordance with section 93.
-(3) Where the Board ceases to exist 3 years after the date of commencement of this Act and has not completed its functions in accordance with section 93, those matters still to be completed may be referred to the Director-General who must continue and complete the matters as if he or she were the Board; and the provisions of section 93 apply with any necessary modifications.
-(4) The Board—
-  (a) Continues to consist of the members holding office under section 5 of the Animal Remedies Act 1967 immediately before the commencement of this Act; and
-  (b) Has the function of considering and determining applications made under section 19 of the Animal Remedies Act 1967 before the date of commencement of this Act; and
-  (c) Has all such powers, rights, authorities, and privileges (including the right to delegate any of its powers to any person) as may be reasonably necessary or expedient to enable the Board to carry out its functions.
-(5) No member of the Board is entitled to any money or other benefit by way of compensation, or a claim for loss of remuneration, or reimbursement of expected allowances, arising out of the abolition of the Board.
+[Repealed]
 
 ### 97 Registrar of Animal Remedies
-(1) The person appointed as Registrar of Animal Remedies under section 15 of the Animal Remedies Act 1967 and holding office immediately before the commencement of this Act continues in office until the Board ceases to exist in accordance with section 96.
-(2) The Registrar has such powers, functions, and duties which he or she had under the Animal Remedies Act 1967 as are necessary for the purposes of this Part.
+[Repealed]
 
 ### 98 Prescription animal remedies
-(1) The Director-General may at any time, by notice in writing to the holder of any licence issued under the Animal Remedies Act 1967 or in accordance with section 93, if the Director-General thinks it is desirable to do so having regard to the nature of any animal remedy, declare that animal remedy to be a prescription animal remedy of one of the following classes:
-  (a) Class I prescription animal remedies, being those remedies that, subject to the provisions of this section, may be administered to an animal only—
-    (i) By a veterinarian; or
-    (ii) Under or in accordance with the authority or prescription of a veterinarian:
-  (b) Class II prescription animal remedies, being those remedies that, subject to the provisions of this section, may be administered to an animal only—
-    (i) By a veterinarian; or
-    (ii) In the presence and under the direct control of a veterinarian:
-  (c) Class III prescription animal remedies, being those remedies that, subject to the provisions of this section, may be administered to an animal only by a veterinarian.
-(2) Subject to subsection (3), no prescription animal remedy may be administered to, or prescribed or dispensed in respect of, an animal except following a veterinary consultation in respect of that animal.
-(3) Nothing in this section applies to the administration of any prescription animal remedy to any animal by any person who is, or who belongs to a class of person that is, specifically authorised by the Animal Remedies (Develvetting) Regulations 1994 to administer that remedy.
+[Repealed]
 
 ### 99 Labelling
-(1) Where this Part applies to any animal remedy, that animal remedy may be sold only under a label approved by the Director-General.
-(2) The Director-General may require the label to display such information about the animal remedy as the Director-General thinks fit.
-(3) The Director-General may approve a label subject to such conditions as the Director-General thinks fit to ensure that the label remains fixed to the container and legible.
-(4) No person may alter, modify, remove, or deface any label unless that alteration, modification, removal, or defacement has been approved by the Director-General.
-(5) The Director-General may at any time, by notice in writing to the holder of a licence to import, or manufacture, and sell any animal remedy, cancel the approval of any label and approve another label.
-(6) Where, before the commencement of this Act, any label has been approved by the Board under section 36 of the Animal Remedies Act 1967, that label is deemed to have been approved by the Director-General on the same terms and conditions as the label was approved by the Board.
-(7) Where, before the commencement of this Act, the Board was considering any change to a label, the Board must refer the matter to the Director-General, who must continue and complete the matter in accordance with section 36 of the Animal Remedies Act 1967 as if the Director-General were the Board.
-(8) The provisions of sections 34 and 35 of the Animal Remedies Act 1967 apply to any decision made by the Director-General under subsections (1), (3), and (7) as if this Act had not been enacted.
+[Repealed]
 
 ### 100 Containers for animal remedies
-No person may sell any animal remedy unless it is securely packed in a container that is suitable, having regard to the contents of the container.
+[Repealed]
 
 ### 101 Warranties
-The licensing of an animal remedy or approval of a label does not imply a warranty by the Crown, the Director-General, or the Board that the animal remedy is reasonably fit for the purpose for which it is sold or that any statement contained in the label is correct.
+[Repealed]
 
 ### 102 Advertisements
-(1) Subject to subsection (2), no reference may be made in any advertisement in respect of an animal remedy to the licensing of the remedy, except a statement that the animal remedy is licensed in accordance with section 21 or section 22 of the Animal Remedies Act 1967.
-(2) No drug, medicine, remedy, or therapeutic preparation or biochemical substance may be advertised as an animal remedy unless it is licensed in accordance with section 21 of the Animal Remedies Act 1967.
-(3) Every advertisement in respect of a prescription animal remedy must include—
-  (a) The letters (in bold capitals) PAR; and
-  (b) The expression Class I or Class II or Class III (as the case may require); and
-  (c) A list of the active ingredients of the remedy; and
-  (d) The number of the relevant licence; and
-  (e) Such other statements (if any) as the Director-General may direct either generally or in respect of any particular animal remedy or class of animal remedy.
-(4) Where the Director-General is satisfied that an advertisement published by the licensee in respect of an animal remedy contains any inaccurate or misleading statement or otherwise contravenes any of the requirements of this Part of this Act, or of any regulations listed in Part 1 of Schedule 5 relating to advertisements, the Director-General may direct the licensee to omit or modify the statement, or otherwise amend the statement, in such manner as the Director-General may determine.
-(5) Where the Director-General is satisfied that any person has published an advertisement—the Director-General may require that person to submit to the Director-General every advertisement published or to be published by that person in respect of an animal remedy or all animal remedies for which that person holds a licence, during such period as the Director-General may determine, or until further notice from the Director-General.
-  (a) In respect of an animal remedy that is not licensed under section 21 of the Animal Remedies Act 1967; or
-  (b) That contains any inaccurate or misleading statement,—
+[Repealed]
 
 ### 103 Register of licences
-(1) The Director-General must keep a register of all licenses issued by the Board under the Animal Remedies Act 1967 or issued in accordance with section 93 of this Act.
-(2) The register kept under this section must contain the same particulars as are required for the register maintained under section 31 of the Animal Remedies Act 1967.
-(3) Upon the issue of any licence under section 93, the Board must notify the Director-General of the issue of that licence.
+[Repealed]
 
 ### 104 Correction of errors
-(1) Where, before the commencement of this Act, the Board was correcting any error in accordance with section 32 of the Animals Remedies Act 1967, the Board must refer the matter to the Director-General, who may continue and complete the matter in accordance with that section as if the Director-General were the Board.
-(2) Where, after the commencement of this Act, the Director-General is satisfied that an error exists in accordance with section 32 of the Animal Remedies Act 1967, the Director-General may correct the error in accordance with section 32 of that Act as if the Director-General were the Board.
-(3) Where a mistake exists in the register of licences kept in accordance with section 103 or in a licence issued under section 93, by reason of an error or omission on the part of the Director-General, the Director-General may correct the mistake, and for that purpose may require production of the licence or other document held by the licensee.
+[Repealed]
 
 ### 105 Loss or destruction of licence
-Where, after the commencement of this Act, the Director-General is satisfied that any licence has been lost, destroyed, or cannot be produced, the Director-General may issue a further licence in accordance with section 33 of the Animal Remedies Act 1967 as if the Director-General were the Board.
+[Repealed]
 
 ### 106 Reissue of licence
-Where, after the commencement of this Act, the provisions of section 26A of the Animal Remedies Act 1967 apply to any licence, the Director-General may reissue the licence in accordance with the provisions of that section as if the Director-General were the Board.
+[Repealed]
 
 ### 107 Revocation or suspension of licences
-(1) Where, before the commencement of this Act, the Board was considering the revocation or suspension of any licence in accordance with section 28 of the Animal Remedies Act 1967, the Board must refer the matter to the Director-General who may continue and complete the matter in accordance with that section; and the provisions of section 34 and section 35 of that Act apply with all necessary modifications to the Director-General's decision as if this Act had not been enacted.
-(2) Where, after the commencement of this Act, the provisions of section 28 of the Animal Remedies Act 1967 apply to any licence, the Director-General may revoke or suspend the licence in accordance with that section as if the Director-General were the Board.
+[Repealed]
 
 ### 108 Variation of particulars
-(1) Where, before the commencement of this Act, the Board was notified of a variation in the particulars of an application in accordance with section 29 of the Animal Remedies Act 1967, the Board must refer the matter to the Director-General, who may continue and complete the matter in accordance with that section as if the Director-General were the Board.
-(2) Where, after the commencement of this Act, the provisions of section 29 of the Animal Remedies Act 1967 apply to any application, the licensee must notify the Director-General of the variation or change; and the provisions of that section apply as if the Director-General were the Board.
+[Repealed]
 
 ### 109 Information protected under Part 2A of Animal Remedies Act 1967
-The protection accorded to information by Part 2A of the Animal Remedies Act 1967 continues for the period specified in that Part of that Act, as though that Act had not been repealed, and during that period that information must not be used for the purposes of determining whether to grant—
-  (a) A licence under section 93; or
-  (b) An application under Part 2.
+[Repealed]
 
 ### 110 Regulations to continue to apply
-(1) Such of the regulations specified in Part 1 of Schedule 5 as are in force on the date of commencement of this Act, subject to section 88(e), continue in force as if they had been made under this Act.
-(2) Unless in any case the context otherwise requires, and subject to the provisions of this Part of this Act, in any regulations specified in Part 1 of Schedule 5,—
-  (a) Every reference to the Animal Remedies Board must be read as a reference to the Director-General:
-  (b) Every reference to an inspector must be read as a reference to an inspector as defined in section 2:
-  (c) Every reference to a veterinary surgeon must be read as a reference to a veterinarian as defined in section 2.
-(3) Regulations 34A, 34B, and 36(1) of the Animal Remedies Regulations 1980 are revoked.
-(4) The right of appeal referred to in regulation 37 of the Animal Remedies Regulations 1980 continues to apply as if this Act had not been enacted.
-(5) The Director-General, as he or she thinks fit, may grant to the holder of any licence an exemption from any regulation specified in Part 1 of Schedule 5 for such period as the Director-General determines in respect of any such exemption.
+[Repealed]
 
 ### 111 Transfer of assets of Animal Remedies Board
-(1) All rights, assets, liabilities, and debts that the Animal Remedies Board has, at the date it ceases to exist in accordance with section 96, become the rights, assets, liabilities, and debts of the Director-General.
-(2) Any property that the Animal Remedies Board has, at the date it ceases to exist in accordance with section 96, vests in the Director-General.
+[Repealed]
 
 **Pesticides**
 
 ### 112 Application of sections 113 to 122
-(1) Subject to subsections (2) and (3), sections 113 to 122 apply to those pesticides which, before the date of commencement of this Act, were—
-  (a) Registered pesticides under section 21 of the Pesticides Act 1979; or
-  (b) Pesticides subject to an experimental use permit under section 25 of the Pesticides Act 1979; or
-  (c) Pesticides subject to Ministerial exemption under section 8 of the Pesticides Act 1979; or
-  (d) Pesticides registered in accordance with the provisions of section 165 of the Hazardous Substances and New Organisms Act 1996.
-(2) Where, before the date of commencement of this Act, any pesticide was subject to Ministerial exemption under section 8 of the Pesticides Act 1979, it is exempt only from such of the provisions of sections 113 to 122 as are equivalent to those provisions of the Pesticides Act 1979 from which it was exempted under the notice of Ministerial exemption.
-(3) Sections 113 to 122 do not apply to any pesticide included in any regulations made under section 88.
+[Repealed]
 
 ### 113 Continuation of sale and use of pesticide
-Where any pesticide is subject to regulations made under section 160(1)(a) of the Hazardous Substances and New Organisms Act 1996, that pesticide may continue to be sold and used as a pesticide subject to the provisions of sections 114 to 122.
+[Repealed]
 
 ### 114 Registration subject to restricted use
-Any pesticide registered under section 21 of the Pesticides Act 1979, or in accordance with section 165 of the Hazardous Substances and New Organisms Act 1996 and also registered for restricted use under section 24 of the Pesticides Act 1979, or in accordance with section 165 of the Hazardous Substances and New Organisms Act 1996, continues to be used in accordance with the provisions of section 24 of the Pesticides Act 1979.
+[Repealed]
 
 ### 115 Experimental use permits
-Notwithstanding the provisions of section 165(3) of the Hazardous Substances and New Organisms Act 1996, the Director-General may at any time cancel an experimental use permit granted under section 25 of the Pesticides Act 1979 or in accordance with section 165 of the Hazardous Substances and New Organisms Act 1996 if, in the opinion of the Director-General, the continued use of that pesticide is likely to affect adversely the purpose of this Act.
+[Repealed]
 
 ### 116 Labelling
-(1) The Director-General has all the powers of the Authority under section 166 of the Hazardous Substances and New Organisms Act 1996 in relation to the labelling of a pesticide for the purposes of this Act.
-(2) Where a regulation made under section 160(1)(b) of the Hazardous Substances and New Organisms Act 1996 applies to a pesticide, the provisions of section 166 of that Act continue to apply to the labelling of a pesticide for the purposes of this Act.
+[Repealed]
 
 ### 117 Advertisements
-(1) The Director-General has the power of the Authority under section 167 of the Hazardous Substances and New Organisms Act 1996 in relation to the advertising of a pesticide for the purposes of this Act.
-(2) Where a regulation made under section 160(1)(b) of the Hazardous Substances and New Organisms Act 1996 applies to a pesticide, the provisions of section 167 of that Act continue to apply to the advertising of a pesticide for the purposes of this Act.
+[Repealed]
 
 ### 118 Review of registration
-(1) The Director-General has the same powers and obligations as the Authority has under section 168(1) and (2) of the Hazardous Substances and New Organisms Act 1996 to review the registration of a pesticide.
-(2) Where the Director-General, after considering any representations or submissions by the proprietor, is satisfied that the continued use of the pesticide is likely to cause significant risks in relation to the matters set out in section 19, the Director-General may attach further conditions to the registration of the pesticide to reduce the risks identified by the Director-General in accordance with this section.
-(3) A condition may be attached to the registration of a pesticide in accordance with subsection (2) prohibiting the sale or use of the pesticide.
-(4) The provisions of section 168(4) and (5) of the Hazardous Substances and New Organisms Act 1996 apply to any decision of the Director-General under this section.
+[Repealed]
 
 ### 119 Warranties
-The fact that a label has been accepted by the Director-General in accordance with section 116 of this Act does not imply a warranty by the Crown or by the Director-General that the pesticide is reasonably fit for the purpose for which it is sold or that any statement contained in any such label is correct.
+[Repealed]
 
 ### 120 Pesticides register
-(1) The Director-General may require the Authority to correct any errors in the register kept by the Authority under section 172 of the Hazardous Substances and New Organisms Act 1996.
-(2) The Director-General may incorporate any part or parts of the register kept by the Authority under section 172 of the Hazardous Substances and New Organisms Act 1996 into the register kept under section 24 as he or she thinks fit.
+[Repealed]
 
 ### 121 Information protected under Part 2A of Pesticides Act 1979
-The protection accorded to information by Part 2A of the Pesticides Act 1979 continues for the period specified in that Part of that Act, as though that Act had not been repealed, and during that period that information must not be used for the purposes of determining whether to grant an application under this Act.
+[Repealed]
 
 ### 122 Regulations to continue to apply
-(1) Such of the regulations specified in Part 2 of Schedule 5 as are in force on the date of commencement of this Act, subject to section 88(e), continue in force as if they had been made under this Act.
-(2) Unless in any case the context otherwise requires, and subject to the provisions of this Part of this Act, in any regulations specified in Part 2 of Schedule 5,—
-  (a) Every reference to the Pesticides Board or to a Medical Officer of Health or to the Director-General of Agriculture and Fisheries or an inspector must in each case be read as a reference to the Director-General:
-  (b) Every reference to the Minister must be read as a reference to the Minister of Agriculture.
+[Repealed]
 
 ## Schedule 1
 
@@ -1049,14 +1241,37 @@ The protection accorded to information by Part 2A of the Pesticides Act 1979 con
 
 ## Schedule 5 — Regulations and orders continued in force
 
-| Title | Gazette Reference or Statutory Regulations Serial Number |
-| --- | --- |
-| The Animals Remedies Regulations 1980 | 1980/145 |
-| The Animals Remedies (Develvetting) Regulations 1994 | 1994/161 |
+### 1 Title
+This Act is the Agricultural Compounds and Veterinary Medicines Amendment Act 2007.
 
-| Title | Gazette Reference or Statutory Regulations Serial Number |
-| --- | --- |
-| The Pesticides Regulations 1983 (except regulation 10) | 1983/114 |
-| The Pesticides (Bacterial and Fungal Preparations) Order 1984 | 1984/216 |
-| Notice Exempting Pesticides from Registration | Gazette 1991, Vol III, p 2425 |
-| Specification of countries from which Unregistered Pesticides may be imported for own use | Gazette 1992, Vol III, p 2522 |
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 1 — Amendments to Parts 1 to 3 of principal Act
+
+### 16 Conditions on trade name products
+(1) Amendment incorporated in the principal Act.
+(2) Amendment incorporated in the principal Act.
+(3) Amendments incorporated in the principal Act.
+(4) Amendments incorporated in the principal Act.
+(5) Where any condition of registration imposed under section 23 of the principal Act before the commencement of this Act requires compliance with a code of practice, the condition is to be treated as requiring compliance with an applicable operating plan.
+
+### 21 New section 28 substituted
+(1) Amendment incorporated in the principal Act.
+(2) Any code of practice approved under section 28 of the principal Act before its repeal and replacement by subsection (1) of this section, being a code requiring compliance by virtue of a condition imposed under section 23(1)(f) or any requirement of regulations made under section 75, is deemed to be an operating plan approved under section 28(2)of the principal Act until the earlier of—
+  (a) the expiry of 3 years from the commencement of this Act; or
+  (b) the code's replacement by an operating plan or other relevant requirement imposed by or under regulations made under the principal Act.
+
+### 26 Section 37 repealed
+(1) Amendment incorporated in the principal Act.
+(2) Despite subsection (1), any delegations by the Director-General that were in existence immediately before the commencement of this Act are valid and continue in force until their expiry in their own terms, or until revoked by the Director-General.
+
+## Part 2 — Amendments to Parts 4 to 8 and Schedules of principal Act
+
+### 34 Appointment of inspectors
+(1) Amendments incorporated in the principal Act.
+(2) A person appointed under section 60 of the principal Act who, immediately before the commencement of this Act, held office as an inspector is deemed to have been appointed as an ACVM officer under that section, and any such appointment or any authority evidencing such an appointment is valid as an appointment or authorisation to act as an ACVM officer until it expires or is suspended or revoked.
+
+### 36 Appointment of accredited persons
+(1) Amendments incorporated in the principal Act.
+(2) A person accredited to carry out any specified functions under section 62 of the principal Act before the commencement of this Act is deemed to have been recognised to carry out those specified functions under that section, and any such accreditation or any authority evidencing such an accreditation is valid as a recognition under section 62 of the principal Act until it expires or is suspended or revoked.
