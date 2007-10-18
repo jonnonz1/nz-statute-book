@@ -1,5 +1,5 @@
 # Disputes Tribunals Act 1988
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-10-18_
 
 > An Act to consolidate and amend the Small Claims Tribunals Act 1976
 
@@ -188,6 +188,7 @@ A cause of action shall not be divided into 2 or more claims for the purpose of 
   (a) The submission to arbitration of any dispute or difference; or
   (b) The making of an award upon such a submission to be a condition precedent to any cause of action accruing to a party to the agreement.
 (3) Subsection (1) of this section does not apply where a cause of action has accrued, or is believed to have accrued, to a person and that person has agreed to the settlement or compromise of the claim based on that cause of action.
+(4) Despite subsection (2), a Tribunal does not have jurisdiction in respect of a claim if section 11(1) of the Arbitration Act 1996 applies.
 
 ### 17 Exclusion of other jurisdictions
 (1) Where a claim is lodged with a Tribunal, or transferred to a Tribunal under section 24(3) or (4) or section 37 of this Act, and the claim is within the Tribunal's jurisdiction, the issues in dispute in that claim (whether as shown in the initial claim or as emerging in the course of the hearing) shall not be the subject of proceedings between the same parties in any other Court or tribunal unless—
