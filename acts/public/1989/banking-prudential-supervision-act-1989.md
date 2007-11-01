@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 1989
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2007-11-01_
 
 > An Act to consolidate and amend the law constituting and relating to the Reserve Bank of New Zealand and, in particular,—aTo provide, while continuing to recognise the Crown's right to determine economic policy, for the Reserve Bank of New Zealand, as the central bank, to be responsible for formulating and implementing monetary policy designed to promote stability of the general level of prices; andbTo confer on the Reserve Bank of New Zealand certain other functions and powers; andcTo repeal the Reserve Bank of New Zealand Act 1964
 
@@ -97,9 +97,9 @@ _Consolidation as at 2007-09-20_
     (b) does not include a right to vote that is exercisable only in 1 or more of the following circumstances:
       (i) during a period in which a payment or distribution (or part of a payment or distribution) in respect of the security that confers the voting right is in arrears or some other default exists:
       (ii) on a proposal that affects rights attached to the security that confers the voting right:
-      (iii) on a proposal to put the body into liquidation:
+      (iii) on a proposal to put the body into liquidation or voluntary administration:
       (iv) on a proposal for the disposal of the whole, or a material part, of the property, business, or undertaking of the body:
-      (v) during the liquidation, receivership, bankruptcy, or statutory management of the body; and
+      (v) during the liquidation, receivership, voluntary administration, bankruptcy, or statutory management of the body; and
     (c) does not include a right to vote that is exercisable only for a special, immaterial, or remote matter that is inconsequential to the control of the body
   - **voting security** , in relation to any body, means a specified security that confers a voting right.
 (2) For the purposes of section 36, Parts 4 and 5, and sections 179 and 179A, a person is an associated person of a financial institution or a registered bank, as the case may be, if—
@@ -1552,7 +1552,7 @@ Subject to section 142 of this Act, every statutory manager of a registered bank
 (1) Where a registered bank is declared under section 117 of this Act to be subject to statutory management, no person shall—
   (a) Commence or continue any action or other proceedings, including proceedings by way of counterclaim, against that registered bank:
   (b) Issue any execution, attach any debt, or otherwise enforce or seek to enforce any judgment or order obtained in respect of that registered bank:
-  (c) Take any steps to put that registered bank into liquidation:
+  (c) Take any steps to put that registered bank into liquidation or voluntary administration:
   (d) Foreclose, enter into possession, sell, or appoint a receiver of the property of that registered bank or property in respect of which the registered bank has an equity of redemption:
   (e) Exercise or continue any power or rights under, or in pursuance of, any mortgage, charge, debenture, instrument, or other security over the property of that registered bank:
   (f) Claim or recover, pursuant to any retention of title clause, hire purchase agreement, mortgage, lease, or security, any property in the possession of the registered bank:
@@ -1733,11 +1733,11 @@ The provisions of any enactment or agreement requiring any consent, licence, per
 (2) On any application under subsection (1) of this section the High Court may give directions concerning the business or property of the registered bank, or the management or administration of that business or property, or the exercise of any powers under this Part of this Act and every person shall be bound by any such directions.
 
 ### 143 Prior winding up, liquidation, or receivership to cease
-(1) Where a registered bank, or any subsidiary or associated person of a registered bank, becomes subject to statutory management, and that registered bank, subsidiary, or associated person is already being wound up or is already in liquidation or receivership,—
-  (a) The winding up or liquidation or receivership of that registered bank, subsidiary, or associated person shall, for so long as it continues to be subject to statutory management, cease; and
-  (b) The person appointed as liquidator or receiver shall be discharged.
-(2) Where the statutory management of any registered bank, subsidiary, or associated person referred to in subsection (1) of this section is terminated by, or as the result of the making of, an Order in Council under section 144(1) of this Act, the liquidation or receivership of that registered bank, subsidiary, or associated person shall, unless the Order in Council terminating the statutory management otherwise provides, and subject to such terms and conditions as the order may specify, revive as if it had not ceased by reason of this section.
-(3) Where any liquidation or receivership revives pursuant to subsection (2) of this section, the person specified in the order as such shall be the liquidator or receiver of that registered bank, subsidiary, or associated person for the time being.
+(1) Where a registered bank, or any subsidiary or associated person of a registered bank, becomes subject to statutory management, and that registered bank, subsidiary, or associated person is already being wound up or is already in liquidation, receivership, or voluntary administration,—
+  (a) the winding up, liquidation, receivership, or voluntary administration of that registered bank, subsidiary, or associated person must, for so long as it continues to be subject to statutory management, cease; and
+  (b) the person appointed as liquidator, receiver, or administrator must be discharged.
+(2) Where the statutory management of any registered bank, subsidiary, or associated person referred to in subsection (1) of this section is terminated by, or as the result of the making of, an Order in Council under section 144(1) of this Act, the liquidation or receivership or voluntary administration of that registered bank, subsidiary, or associated person shall, unless the Order in Council terminating the statutory management otherwise provides, and subject to such terms and conditions as the order may specify, revive as if it had not ceased by reason of this section.
+(3) Where any liquidation, receivership, or voluntary administration revives under subsection (2), the person specified in the order as such must be the liquidator, receiver, or administrator of that registered bank, subsidiary, or associated person for the time being.
 
 ### 143A Continuation of statutory management
 (1) This section applies to a registered bank, an associated person of a registered bank, or a subsidiary of a registered bank, that has been removed from the New Zealand register under section 317 of the Companies Act 1993 while subject to statutory management under this Act.
@@ -2011,10 +2011,10 @@ In this Part, unless the context otherwise requires,—
   - **insolvency** means,—
     (a) in the case of a company or other body corporate,—
       (i) liquidation under Part 16 of the Companies Act 1993; or
-      (ia)
+      (ia) voluntary administration under Part 15A of the Companies Act 1993; or
       (ii) statutory management under Part 3 of the Corporations (Investigation and Management) Act 1989; or
       (iii) statutory management under Part 5; or
-      (iv) liquidation, winding up, statutory management, or other similar process under any other enactment or rule of law (whether of New Zealand or of another country); and
+      (iv) liquidation, winding up, voluntary administration, statutory management, or other similar process under any other enactment or rule of law (whether of New Zealand or of another country); and
     (b) in the case of an individual, being adjudged a bankrupt under the Insolvency Act 1967 or any corresponding enactment (whether of New Zealand or of another country)
   - **netted balance** means any amount calculated under the netting provisions of the rules of a designated payment system as the net debit payable by, or on behalf of, a participant in the designated payment system to, or on behalf of, another participant in that system for all or any claims or obligations to which those rules apply
   - **netting** means the conversion into 1 net claim or obligation, or the set off, of different claims or obligations between participants in a payment system that results from the issue and receipt of payment instructions involving 2 or more participants in the payment system or that is otherwise provided for under the rules of the payment system,—
