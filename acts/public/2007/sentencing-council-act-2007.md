@@ -1,5 +1,5 @@
 # Sentencing Council Act 2007
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-11-01_
 
 ### 1 Title
 This Act is the Sentencing Council Act 2007.
@@ -22,7 +22,7 @@ In this Act, unless the context otherwise requires,—
 ### 4 Act binds the Crown
 This Act binds the Crown.
 
-## Part  — Establishment of Council
+**Establishment of Council**
 
 ### 5 Sentencing Council established
 The Sentencing Council is established as an independent statutory body.
@@ -68,7 +68,7 @@ The purposes of the Council are,—
   (i) any functions that are incidental and related to, or consequential on, its functions set out in paragraphs (a) to (h).
 (2) Except as expressly provided in this Act or any other Act, the Council must carry out its functions and powers independently.
 
-## Part  — Membership of Council
+**Membership of Council**
 
 ### 10 Membership of Council
 (1) The Council consists of—
@@ -92,7 +92,7 @@ The provisions set out in Schedule 1 apply to the Sentencing Council.
 ### 12 Other enactments amended
 The Acts set out in Schedule 2 are amended in the manner set out in that schedule.
 
-## Part  — Public notification of draft guidelines
+**Public notification of draft guidelines**
 
 ### 13 Public notification of draft guidelines
 (1) The Council must publicly notify each draft guideline or group of guidelines by—
@@ -116,7 +116,7 @@ The Council may consult on the draft guideline or group of guidelines as it sees
 ### 16 Council finalises guidelines and presents to Minister
 The Council may, at any time after the time for submissions has expired, finalise the guideline or group of guidelines and present them to the Minister, together with a statement of the guidelines' likely effect on the prison population.
 
-## Part  — Parliamentary scrutiny of guidelines
+**Parliamentary scrutiny of guidelines**
 
 ### 17 Presenting guidelines
 The Minister must present each guideline or group of guidelines, together with the statement of the guidelines' likely effect on the prison population referred to in section 16, to the House of Representatives not later than the 16th sitting day of the House of Representatives after the day on which the guidelines are provided to the Minister by the Council.
@@ -140,7 +140,7 @@ Every guideline comes into force on the date that is 20 working days after the l
 (2) Sections 17 to 21 apply to the varied guidelines provided to the Minister under subsection (1).
 (3) If the inaugural guidelines are disapplied, the varied group of guidelines provided to the Minister under subsection (1) is treated as being the inaugural guidelines for the purposes of sections 17 to 21 and subsections (1) and (2) of this section.
 
-## Part  — Publication of guidelines
+**Publication of guidelines**
 
 ### 23 Council must publish guidelines
 (1) The Council must comply with subsection (2) if—
@@ -151,7 +151,7 @@ Every guideline comes into force on the date that is 20 working days after the l
   (b) make copies of the guidelines available on the Internet in an electronic form that is publicly accessible at all reasonable times for inspection and downloading free of charge; and
   (c) make copies of the guidelines available for purchase at a reasonable price.
 
-## Part  — Requests for consideration of issues, and giving of advice
+**Requests for consideration of issues, and giving of advice**
 
 ### 24 Consideration of issues relating to sentencing or parole guidelines
 (1) A request may be made by the following persons to the Council to consider any issue relating to guidelines:
@@ -173,7 +173,7 @@ It is considered desirable that any person put forward for appointment under sec
   (c) the assessment of risk of reoffending:
   (d) the reintegration of offenders into society:
   (e) the promotion of the rights and welfare of victims of crime:
-  (f) the effect of the criminal justice system on Maori and people from minority cultures:
+  (f) the effect of the criminal justice system on Māori and people from minority cultures:
   (g) community issues affecting the courts and the corrections system:
   (h) public policy.
 
@@ -198,7 +198,7 @@ It is considered desirable that any person put forward for appointment under sec
 (2) At any time when Parliament is not in session, any non-judicial member of the Council may be suspended from office by the Governor-General in Council for inability to perform the functions of the office, neglect of duty, or misconduct proved to the satisfaction of the Governor-General in Council; but any such suspension must not continue in force beyond 2 months after the beginning of the next session of Parliament.
 
 ### 6 Removal of judicial members
-A judicial member may be removed as a member at any time under the general law that applies to removal from office as a judge.
+A judicial member may be removed as a member at any time under the general law that applies to removal from office as a Judge.
 
 ### 7 Replacement of judicial members
 (1) A member appointed under section 10(1)(a), (b), or (c) may be replaced as a member before the expiry of his or her term,—
