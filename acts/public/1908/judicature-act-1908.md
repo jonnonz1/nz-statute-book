@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-11-01_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -4486,15 +4486,25 @@ The Court may, by interlocutory order,
 ### 427B Procedure for setting down appeal under District Courts Act 1947
 [Repealed]
 
-### 428 Case management conferences for proceedings on standard track
+### 428 Case management and pre-trial conferences for proceedings on standard track
 (1) Unless the Court otherwise directs, the following provisions apply to the convening of case management conferences for a proceeding on the standard track:
-  (a) a case management conference must be held within 35 working days after the commencement of the proceeding:
-  (b) if a second case management conference is required, it must be held within 75 working days after the commencement of the proceeding.
-(2) Following the commencement of a proceeding on the standard track,
+  (a) a first case management conference must be held within 35 working days after the commencement of the proceeding:
+  (b) a second case management conference must be held within 75 working days after the commencement of the proceeding:
+  (c) a pre-trial conference must be held on a date arranged by the Registrar in accordance with subclause (6).
+(2) Following the commencement of a proceeding on the standard track,—
   (a) the Registrar must make arrangements for a case management conference to be held in accordance with subclause (1)(a); and
   (b) the plaintiff must, as soon as practicable after being notified of the date of the case management conference, give notice of that date to every other party.
 (3) The Registrar must make arrangements to ensure that, within 25 working days after a proceeding is moved to the standard track from the swift track, a case management conference is held for the proceeding.
 (4) Unless the Court otherwise directs, the first case management conference that is held for a proceeding must be conducted by telephone or video link.
+(5) At the second case management conference, the presiding Judge or Associate Judge must—
+  (a) issue directions for the trial; and
+  (b) fix a date for the holding of the pre-trial conference.
+(6) The date referred to in subclause (5)(b) must be as close as practicable to the date that is 10 working days after the date specified by these rules or directed by the Court for service of the first written statements of evidence proposed to be called at the trial.
+(7) The Registrar must—
+  (a) make arrangements for the pre-trial conference to be held; and
+  (b) at least 10 working days before the date fixed for the pre-trial conference, remind the parties or their counsel of that date.
+(8) At the pre-trial conference the parties must be prepared to discuss with the presiding Judge the matters listed in Schedule 7.
+(9) Counsel must file and serve 2 working days before the pre-trial conference a memorandum which addresses each of the items in Schedule 7, or, alternatively, a joint memorandum.
 
 ### 429 Matters to be considered at case management conferences for proceedings other than appeals
 (1) This rule applies to a case management conference that is convened for a proceeding other than an appeal under Part 10 or Part 17.
@@ -5197,6 +5207,7 @@ Unless in any particular case the Court otherwise directs, every order sanctioni
     (iv) Sections 13 and 45 of the Chattels Transfer Act 1924:
     (v) sections 108, 209J(1)(d), 209O(1)(c), 209O(2)(c), 209R, 264, 268(2), 269, and 273 of the Companies Act 1955:
     (vi) sections 228(1)(d), 233(1)(c), 233(2)(c), 236, 290, 294(2), 295, and 299 of the Companies Act 1993:
+    (via) section 239L of the Companies Act 1993 (application for the appointment of an administrator by the Court in a voluntary administration):
     (vii) Sections 58 and 59 of the Corporations (Investigation and Management) Act 1989:
     (viiaa)
     (viia) section 166E of the Customs and Excise Act 1996:
@@ -5219,6 +5230,8 @@ Unless in any particular case the Court otherwise directs, every order sanctioni
     (xxia) section 47E of the Terrorism Suppression Act 2002:
     (xxii) Section 76 of the Trustee Act 1956:
     (xxiii) the Arbitration Act 1996 (other than article 35 of Schedule 1, and clause 5 of Schedule 2, of that Act):
+    (xxiv) sections 206 and 207 of the Insolvency Act 2006:
+    (xxv) article 15(1) of chapter 3 of Schedule 1 of the Insolvency (Cross-border) Act 2006 (application for recognition of foreign proceedings):
   (b) Any originating proceeding for contempt of Court:
   (c) Any originating proceeding for relief against forfeiture for non-payment of rent:
   (d) Any application for directions by
@@ -6425,221 +6438,375 @@ When an application is made to the Court to remove a person from a public office
 
 ### Part 8 — Probate and administration
 
-**General provisions**
+**General**
 
-### 632 Ex parte application
-(1) Subject to rule 633, every application for probate of the will or letters of administration of the estate of any deceased person shall be made by ex parte application and, subject to the provisions of this Part, the provisions of rules 237 and 240 relating to ex parte applications shall apply accordingly.
-(2)
+### 632 Definitions for rules 632 to 664
+For the purposes of rules 632 to 664,—
+  - **administration** —
+    (a) means probate of a deceased's will; and
+    (b) includes letters of administration of a deceased's estate, granted with or without a will annexed, for general, special, or limited purposes; and
+    (c) for Public Trust or the Maori Trustee or a trustee company as defined in the Trustee Companies Act 1967, includes—
+      (i) an order to administer; and
+      (ii) an election to administer
+  - **administrator** —
+    (a) means a person to whom administration is granted; and
+    (b) includes Public Trust or the Maori Trustee or a trustee company as defined in the Trustee Companies Act 1967 treated as an executor or administrator because it has filed an election to administer
+  - **executed** ,—
+    (a) for a will made on or after 1 November 2007, means signed and witnessed as described in section 11(3) and (4) of the Wills Act 2007; and
+    (b) for a will made before 1 November 2007, means signed and witnessed as described in section 11(3) and (4), as modified by section 40(2)(i), of the Wills Act 2007
+  - **grant** means a grant of administration
+  - **will** is defined in the Wills Act 2007.
 
-### 633 Application in solemn form
-Where the applicant elects or is ordered to make the application in solemn form, the application shall be made by statement of claim in accordance with Part 2.
+### 633 Kinds of applications for grants
+An application for a grant is made by—
+  (a) an application without notice under rule 634; or
+  (b) an application in solemn form under rule 636.
 
-### 634 Procedure in uncontested applications
-(1) Where application for a grant is made under rule 632
-  (a) Rule 41(1) (relating to warrants to act) shall not apply; and
-  (aa) The heading of the application shall follow that prescribed for form 51; and
-  (b) A solicitor or counsel may give the certificate required by rule 240(2) notwithstanding that he is one of the attesting witnesses to the will of which administration is sought or any codicil thereto, or is named in the will or codicil as executor, or is an executor according to the tenor of the will or codicil; and
-  (c)
-  (d) The facts necessary to prove the validity of any will or codicil in respect of which probate is sought and the entitlement of the applicant to the grant of administration shall be proved by affidavit in form 51 or form 52 or form 53 or form 54 or form 55 or form 56 or such other form as may be appropriate.
-(2) Ifthe applicant may, subject to subclause (3), apply for a grant under rule 632 upon proof that notice in writing of the applicant's intention to apply has been given to the executor named in the later will or the will and that, one month having elapsed after the service of the notice, no application for a grant has been made by that executor and no caveat has been lodged against a grant of administration.
-  (a) The applicant has knowledge of a will later than that which the applicant propounds but has reason to believe that the later will is invalid; or
-  (b) The applicant seeks a grant of administration on intestacy and has knowledge of any will but has reason to believe that the will is invalid,
-(3) In any case to which subclause (2) applies, the Court may direct that the applicant apply for an order under section 53 of the Administration Act 1969 and may defer dealing with the application for a grant pending the determination of the application under that section.
+**Applications without notice**
 
-### 635 Affidavit of death
-If the deponent does not prove the death of the deceased person, paragraphs 1 and 2 of form 51 shall be omitted and the death of the deceased person shall be proved by some other person by an affidavit in the form of paragraphs 1 and 2 of form 51.
+### 634 Applications without notice
+(1) This rule applies to an application without notice.
+(2) Rule 41 does not apply to the application.
+(3) The application is headed in the same way as form 51.
+(4) A lawyer may give the certificate required by rule 240(2), even though he or she—
+  (a) is one of the witnesses to the will that the application is about; or
+  (b) is named as an executor in the will; or
+  (c) is an executor of the will according to its tenor.
+(5) If the applicant knew the deceased or knows about the deceased's death personally, the applicant must file an affidavit in whichever is appropriate of forms 51 to 56 to prove the deceased's death.
+(6) If the applicant did not know the deceased and does not know about the deceased's death personally,—
+  (a) paragraphs 1 and 2 of forms 51 to 56 must be omitted; and
+  (b) another person must swear an affidavit proving the deceased's death, in the form of paragraphs 1 and 2 of form 51.
+(7) If the application is for a grant of probate or a grant of letters of administration with the will annexed, the applicant must file an affidavit in form 51 or 52 to prove the validity of the will that the application is about.
+(8) The procedure for dealing with the application is the same as for an ex parte application under rules 237 and 240, subject to rules 632 to 664.
+(9) A form presented for filing under this rule is not invalid just because it contains minor differences from a prescribed form as long as the form still has the same effect and is not misleading.
 
-### 636 Disposal of ex parte application
-Every application made under rule 632 shall be disposed of in the same manner as an ex parte application.
+### 635 Restrictions if possibly invalid will exists
+(1) This rule applies if the applicant—
+  (a) knows of a will later than the will that the application is about;
+  (b) and has reason to believe that the later will is invalid.
+(2) This rule also applies if the applicant—
+  (a) seeks a grant because the deceased was intestate; and
+  (b) knows of a will; and
+  (c) has reason to believe that the will is invalid.
+(3) The applicant may make an application under rule 634 containing proof that—
+  (a) the applicant has given the executor named in the will written or electronic notice of the applicant's intention to apply; and
+  (b) the executor has not applied for a grant within 1 month after service of the notice; and
+  (c) a caveat has not been lodged against a grant within 1 month after service of the notice.
+(4) The Court—
+  (a) may direct the applicant to apply for an order under section 53 of the Administration Act 1969; and
+  (b) must defer dealing with the application under rule 634 until the application under section 53 has been determined.
 
-### 637 Grant in common form
-Where the application for a grant is made under rule 632, the grant shall be in common form, in form 57 or form 58 or form 59, as may be appropriate.
+**Applications in solemn form**
 
-### 638 Procedure in contested applications
-Where the application for a grant is made under rule 633, the procedure shall, subject to the provisions of this Part, be the same as in an ordinary proceeding and the grant shall be in solemn form.
+### 636 Applications in solemn form
+(1) This rule applies to an application in solemn form.
+(2) An application is made in solemn form if—
+  (a) the applicant chooses to apply in that way; or
+  (b) the applicant is ordered to apply in that way.
+(3) Part 2 applies to the application.
+(4) The procedure for dealing with the application is the same as for an ordinary proceeding, subject to rules 632 to 664.
 
-### 639 Defendants to contested applications
-(1) In any proceeding under rule 638, the plaintiff shall, subject to any directions of the Court under subclause (2), name as defendants
-  (a) The caveator (if any); and
-  (b) The person who may be entitled to a grant of probate or letters of administration should the plaintiff fail in his proceeding.
-(2) The plaintiff may apply to the Court for directions as to the persons to be named as defendants to any proceeding under this rule.
+### 637 Respondents and additional parties
+(1) The applicant may apply to the Court for directions as to the persons to be named as respondents to an application under rule 636.
+(2) If the applicant does not apply, or if the Court does not give directions, the applicant must name as respondents—
+  (a) the person who may be entitled to a grant if the applicant does not obtain the grant; and
+  (b) all persons who have lodged caveats under rule 641.
+(3) A person interested in the result of an application under rule 636 may apply to the Court to be added as a party.
+(4) If the Court is satisfied that the interests of the person are not already adequately represented, it may—
+  (a) order that the person be added; and
+  (b) impose conditions on the order, if necessary; and
+  (c) give directions as to the part that the person is to take in the hearing of the application.
 
-### 640 Additional parties to contested applications
-Any person claiming to be interested in the result of any proceeding under rule 638 may apply to the Court to be added as a party and the Court, if satisfied that the interests of that person are not already adequately represented,
-  (a) May order that that person be added accordingly on such terms as to costs or otherwise as it thinks fit; and
-  (b) May give such directions as to the part to be taken in the proceeding by the party to be added as it shall deem necessary.
+### 638 Compromises
+(1) This rule applies if an application under rule 636 is the subject of a compromise, whether or not a statement of defence has been filed.
+(2) The Court may direct—
+  (a) that the application is to be treated as an application under rule 634; and
+  (b) that evidence on the application may be given by affidavit.
 
-### 641 Pleadings in contested applications
-(1) In a proceeding under rule 638 or under rule 650 the substance of the case against the validityshall be stated in the pleading that asserts the invalidity.
-  (a) Of any will propounded; or
-  (b) Of any will of which probate or letters of administration with the will annexed has been granted on an uncontested application,
-(2) In particular, it shall not be sufficient to allege merely that the will was not validly executed, or was not executed in the manner prescribed by law, without alleging the facts upon which the plea is founded.
-(3) Nor shall it be sufficient to allege merely that at the time when the will was executed the testator did not have testamentary capacity, without specifying whether the incapacity consisted in lack of ability to comprehend or recollect the extent of his property and the claims of persons excluded from participation therein or in insane delusions affecting persons having claims on his bounty, or otherwise specifying the nature of the incapacity.
+### 639 Pleadings
+(1) This rule applies to an application under rule 636 in which a pleading states that the will that the application is about is invalid.
+(2) This rule also applies to an application under rule 636 in which a pleading states that a will that is the subject of a grant obtained by way of an application without notice is invalid.
+(3) The pleading must state the substance of the case against validity.
+(4) If the allegation is that the will's execution was not valid, the pleading must state the facts on which the allegation is based.
+(5) If the allegation is that the will-maker did not have testamentary capacity when the will was executed, the pleading must state whether the incapacity lay in—
+  (a) the will-maker's lack of ability to comprehend or recollect the extent of his or her estate; or
+  (b) the will-maker's lack of ability to comprehend or recollect the claims of persons excluded from participating in his or her estate; or
+  (c) the will-maker's insane delusions about the persons who have claims on his or her estate; or
+  (d) some other specified incapacity.
 
-### 642 Compromise of contested application
-Where any proceeding under rule 638 becomes the subject of a compromise (whether or not a statement of defence has been filed), the Court may direct that the proceeding be treated as an application for a grant in common form under rule 634 and that evidence thereon may be given by affidavit.
+**Filing and lodging**
 
-### 643 Place of filing application
-(1) Every application for a grant and all other documents filed in a proceeding under this Part shall, if the deceased person was resident in New Zealand at the time of his death, be filed in the registry nearest to the place where the deceased resided at the time of his death.
-(2) If the deceased was not resident in New Zealand at the time of his death, the application for a grant and other documents shall be filed in the registry nearest to the place where the property of the deceased is situated, and, if such property is situated in more than one place in New Zealand or if the deceased left no property in New Zealand, then in the registry at the City of Wellington, or in such other registry as the Court may, on interlocutory application made before the filing, direct.
-(3) Where an order is made under subclause (2), notice of that order shall be sent by the Registrar of the Court in which the order is made to the Registrar at Wellington.
-(4) If the application for a grant is filed in a wrong registry, the Court may order that the application, and all other documents filed in the proceeding, be transferred to the proper registry.
+### 640 Where application is filed
+(1) This rule applies to an application, and all other documents, filed under rules 632 to 664.
+(2) If the deceased resided in New Zealand when he or she died, the application and documents must be filed in the office of the Court nearest, by the most practicable route, to the place where he or she resided at death.
+(3) If the deceased did not reside in New Zealand when he or she died and his or her property is situated in only 1 place in New Zealand, the application and documents must be filed in the office of the Court nearest, by the most practicable route, to the place where his or her property is situated.
+(4) If the deceased did not reside in New Zealand when he or she died and his or her property is situated in more than 1 place in New Zealand, the application and documents must be filed in the office of the Court in Wellington or an office specified under subclause (6).
+(5) If the deceased did not reside in New Zealand when he or she died and left no property in New Zealand, the application and documents must be filed in the office of the Court in Wellington or an office specified under subclause (6).
+(6) If subclause (4) or (5) applies,—
+  (a) the applicant may make an interlocutory application for an order specifying the office of the Court in which the application and documents are to be filed; and
+  (b) the Court may make an order specifying the office.
+(7) If an application or a document is filed in the wrong office of the Court, the Court may order the transfer of the application or document to the right office.
 
-### 644 Place for lodging caveat
-A caveat, under section 60 of the Administration Act 1969, against any application for a grant of probate or letters of administration
-  (a) Shall be in form 60; and
-  (b) Shall be lodged with the Registrar at the registry at which the application is required to be filed pursuant to rule 643.
+### 641 Where caveat is lodged
+(1) This rule applies to a caveat under section 60 of the Administration Act 1969.
+(2) The caveat must be in form 60.
+(3) The caveat must be lodged with the Registrar in the office in which the application is required to be filed under rule 640.
 
-### 645 Evidence of death
-(1) Subject to rule 646, the Court may accept any evidence which satisfies it of the death of a person in respect of whose will or estate a grant of administration is sought. A certified copy of the entry in the Register of Deaths relating to such person may be accepted as such evidence.
-(2) The provisions of subclause (1) shall apply to proof of the death of any person who, were he alive, would have been entitled to a grant of administration.
+**Rules that apply whether or not will advanced and relied on**
 
-### 646 Absence of identified dead body
-(1) Where no dead body has been identified as that of the person in respect of whose will or estate a grant of administration is sought, the applicant shall apply to the Court for an order that that person be presumed for the purposes of the grant to be dead.
-(2) In support of an application under subclause (1), the applicant shall file affidavits deposing
-  (a) To the circumstances under which the application is made; and
-  (b) To the facts from which the Court is invited to infer death; and
-  (c) Whether or not the life of the person alleged to be dead was insured and, if it was, the name and address of the insurer.
-(3) Where the life of the person alleged to be dead was insured, notice of the application under this rule and copies of the supporting affidavits shall be served on the insurer. For the purposes of rules 234 to 277, the insurer shall be deemed to be a party to the application.
-(4) An application under this rule shall be made either by interlocutory application before an application for a grant of administration is filed, or by incorporation in an ex parte application under rule 632.
-(5) An application under this rule shall be deemed to be an application for leave to swear death where that expression is used in any statute or regulation.
+### 642 Evidence of death
+(1) The Court may accept any evidence that satisfies it of the death of a person whose estate is the subject of an application for a grant, unless no dead body has been identified as that of the person.
+(2) If no dead body has been identified as that of the person, the applicant must apply for leave to swear death.
+(3) The applicant applies by—
+  (a) making an interlocutory application before filing an application for a grant; or
+  (b) incorporating the application for leave to swear death in an application without notice under rule 634.
+(4) The applicant must file affidavits stating—
+  (a) the circumstances under which the application is made; and
+  (b) the facts from which the Court is invited to infer death; and
+  (c) whether or not the person's life was insured and, if it was, the name and address of the insurer.
+(5) If the person's life was insured,—
+  (a) the applicant must serve notice of the application and copies of the affidavits on the insurer; and
+  (b) the insurer is treated as a party to the application for the purposes of rules 234 to 277.
+(6) The Court may make an order that the person is presumed to be dead for the purposes of the grant.
+(7) The Court may accept any evidence that satisfies it of the death of a person who, if alive, would have been entitled to a grant.
 
-### 647 Grant to attorney
-(1) Probate, letters of administration, or letters of administration with the will annexed may be granted to the lawfully constituted attorney of any person entitled thereto who is residing out of New Zealand.
-(2) The grant shall be for the use and benefit of that person.
-(3) The grant may be limited until that person obtains a grant or in such other way as the Court directs.
-(4) Notwithstanding subclause (1), where the person so entitled is one of 2 or more executors, the grant shall not be made to that person's attorney without notice to the other executors, unless the Court dispenses with that notice.
+### 643 Sale of perishable property
+(1) This rule applies if—
+  (a) a deceased leaves perishable property; and
+  (b) the property's value may be greatly diminished before the Court can make a grant.
+(2) A person interested in the deceased's estate may apply to the Court for an order—
+  (a) authorising a named person to sell the property; and
+  (b) directing the payment of the proceeds to the Registrar for the deceased's estate.
+(3) The Court may make the order.
 
-### 648 Time for issuing probate and letters of administration
-Except by direction of the Court,
-  (a) No probate or letters of administration with the will annexed shall issue out of the registry until after the lapse of 7 days from the death of the deceased; and
-  (b) No letters of administration shall issue out of the registry until after the lapse of 14 days from the death of the deceased.
+### 644 Registrars may make some orders
+(1) This rule applies to the following registrars:
+  (a) all Registrars; and
+  (b) all Senior Deputy Registrars in the Auckland office; and
+  (c) no other deputy registrars.
+(2) The registrars have the powers of the Court under—
+  (a) sections 5 to 9A and sections 12, 19, 21, 44, and 61(a)(ii) of the Administration Act 1969; and
+  (b) section 380(4)(c)(iii) of the Insolvency Act 2006; and
+  (c) section 154(3) of the Insolvency Act 1967; and
+  (d) section 76 of the Public Trust Act 2001; and
+  (e) section 35(4) of the Trustee Act 1956; and
+  (f) section 8(1) of the Trustee Companies Act 1967; and
+  (g) rule 640(6)(b); and
+  (h) rule 642(6), if an unopposed application has been made under rule 642(3); and
+  (i) rule 643(3); and
+  (j) rule 659(2); and
+  (k) rule 660(1) to (4); and
+  (l) rule 664(2).
+(3) Rules 272 to 276 apply to a registrar acting under subclause (2). For this purpose, references in them to rule 270 or rule 271 must be read as references to rule 644(2).
 
-### 649 Sale of perishable property
-Ifthe Court may, upon application by any person interested, make an order authorising the sale of the property by some person therein named, and may direct the proceeds to be paid to the Registrar on account of the estate of the deceased.
-  (a) Any deceased person leaves property of a perishable nature; and
-  (b) The value of the property may be greatly diminished before probate or letters of administration can be granted,
+**Rules that apply when will advanced and relied on**
 
-### 650 Recall of grant
-(1) Where a grant of administration has been made in common form, an order for the recall of the grant may be made upon an interlocutory application if
-  (a) That application is uncontested; and
-  (b) One of the following circumstances applies
-    (i) The grant was made upon the footing that the deceased died intestate and a will has been discovered; or
-    (ii) A will later in date to that of which probate was granted has been discovered; or
-    (iii) The person to whom the grant was made applies for or consents to the recall.
-(2) In all other cases application to recall a grant of administration shall be made in a proceeding brought for the purpose.
+### 645 Application of rules 646 to 658
+Rules 646 to 658 apply to every case in which a will is advanced and relied on—
+  (a) for a grant of probate; or
+  (b) for a grant of letters of administration with the will annexed.
 
-### 651 Powers of certain Registrars to make grant, etc
-(1) Every Registrar, and any Deputy Registrar who is for the time being designated as a Senior Deputy Registrar at the Auckland registry, shall have the jurisdiction and powers of the Court in Chambers conferred by the following enactments, namely:
-  (a) Sections 5 to 9 of the Administration Act 1969:
-  (b) Section 35(4) of the Trustee Act 1956, and section 154(3) of the Insolvency Act 1967:
-  (c) Section 44(1) of the Public Trust Office Act 1957, and section 8(1) of the Trustee Companies Act 1967:
-  (d) Rule 643:
-  (e) Rule 646 in respect of any unopposed application under subclause (1):
-  (f) Rule 649.
-(2) The provisions of rules 272 to 275 shall apply to the exercise of the jurisdiction conferred by this rule.
-(3) Any party to a proceeding or intended proceeding who is affected by any decision of a Registrar in the exercise of his jurisdiction under this rule may apply to the Court by interlocutory application to review that decision, and the Court may make such order thereon as may be just.
+### 646 Evidence as to execution
+(1) A person who knows the relevant facts personally may provide the evidence required by rules 647 to 658.
+(2) If the evidence relates to the fact, date, manner, or circumstances of the execution of a will, the person providing the evidence must be—
+  (a) an attesting witness; or
+  (b) a person present when the will was executed.
+(3) If the authenticity of the signature of the will-maker or an attesting witness is in doubt, the Court may accept evidence from any appropriate person to prove that the signature is in the handwriting of the will-maker or the attesting witness.
+(4) If the application is unopposed, evidence given under this rule must be given by affidavit. Form 62 may be used.
 
-### 652 Inventory or account filed by executor or administrator
-(1) Every executor or administrator shall, within such period after the service on him of an order in that behalf as the Court may on application direct, or (where no such order has been made) may at any time if he so desires, file in the registry in which probate or letters of administration have been granted a true and perfect inventory of the estate of the deceased.
-(2) Every executor or administrator shall, within such period after the service on him of an order in that behalf as the Court on application may direct, or (where no such order has been made) may at any time if he so desires, file in the registry in which probate or letters of administration have been granted, a true and perfect account of the estate of the deceased which account shall
-  (a) Set forth the dates and particulars of all receipts and disbursements; and
-  (b) Show which of the receipts and disbursements were, in his opinion, on account of capital and on account of income respectively.
-(3) Every inventory and account filed pursuant to this rule shall be verified by affidavit.
-(4) Every account filed pursuant to an order of the Court shall be brought down to the date of service of the order or such other date as may be specified in the order.
-(5) Every account filed otherwise than pursuant to an order of the Court shall show the date to which it is brought down.
-(6) Notice of every application for an order under this rule shall be given to the executor or administrator affected.
-(7) An application for an order under this rule may be made by any person interested in the estate of the deceased.
-(8) No application for an order under this rule shall be made more than 3 years after the grant by which the executor or administrator was appointed.
+### 647 Valid execution
+(1) For wills made on or after 1 November 2007, each of the following is evidence that a will's execution was valid:
+  (a) a clause, in the will, consisting of a statement describing the actions complying with section 11(3) and (4) of the Wills Act 2007:
+  (b) evidence given under rule 646 satisfying the Court that the will complies with section 11(3) and (4) of the Wills Act 2007:
+  (c) an order made under section 14 of the Wills Act 2007.
+(2) For wills made before 1 November 2007, each of the following is evidence that a will's execution was valid:
+  (a) an attestation clause, in the will, consisting of a recital describing the actions complying with section 11(3) and (4), as modified by section 40(2)(i), of the Wills Act 2007:
+  (b) evidence given under rule 646 satisfying the Court that the will complies with section 11(3) and (4), as modified by section 40(2)(i), of the Wills Act 2007.
 
-### 653 Administration of overseas assets
-(1) For the purposes of administration of overseas assets, the Court may, at the request of the administrator,
-  (a) Seal an exemplification of administration in form 61; or
-  (b) Seal a duplicate of the grant; or
-  (c) Seal and certify a copy (including a photocopy) of the original grant.
-(2) The procedure laid down in section 43 of the Estate and Gift Duties Act 1968 (as in force before its repeal by the Estate Duty Repeal Act 1999) shall be followed in respect of any such exemplification, duplicate, or copy grant as if it were an administration.
-(3) An administrator requesting a sealed duplicate of the grant or a sealed and certified copy of the original grant, in terms of subclause (1), shall verify by affidavit the purpose for which it is required.
+### 648 Doubt as to will-maker's understanding
+(1) This rule applies if—
+  (a) a person directed by the will-maker signed the will-maker's will in the will-maker's presence; and
+  (b) the will does not state that the will-maker read over the will and thoroughly understood it before the will-maker directed the person to sign it.
+(2) This rule also applies if—
+  (a) the will-maker—
+    (i) was blind; or
+    (ii) was illiterate; or
+    (iii) signed the will by mark; and
+  (b) the will does not state that the will was read over to and thoroughly understood by the will-maker before the will-maker signed it.
+(3) This rule also applies if the Court is doubtful for any other reason whether or not the will-maker, at the time the will was signed,—
+  (a) thoroughly understood the will; or
+  (b) had full knowledge of its contents.
+(4) Evidence must be given under rule 646 satisfying the Court that the will-maker, at the time the will was signed,—
+  (a) thoroughly understood the will; or
+  (b) had full knowledge of its contents.
 
-**Applications where will propounded**
+### 649 Doubt as to originality of signature
+(1) This rule applies if it appears to the Court, when it inspects a will, that a signature on it—
+  (a) may not be an original signature; or
+  (b) may be a reproduction of the original signature.
+(2) The Court may require evidence to prove whether or not the signature is an original signature.
 
-### 654 Application of rules 655 to 664
-(1) The provisions of rules 655 to 664 apply to every case in which a will is propounded either for probate or for letters of administration with the will annexed.
-(2) References in subclause (1) of this rule and in rules 655 to 664 to wills apply also (with all necessary modifications) to codicils.
+### 650 Doubt as to date
+If there is doubt as to the date on which a will was executed, the Court may require evidence to prove the date.
 
-### 655 Conditions of, and order of priority for, grant of administration with will annexed
-(1) Where there is a will, butletters of administration with the will annexed may be granted to the person entitled thereto in accordance with the order of priority set out in subclause (2).
-  (a) No executor has been appointed by the will; or
-  (b) The executor appointed by the will
-    (i) Has died in the lifetime of the testator; or
-    (ii) Has survived the testator but has died without proving the will; or
-    (iii) Has renounced probate of the will; or
-    (iv) Is incompetent by reason of the executor's mental disorder, or other disability; or
-  (c) The appointment of the executor as executor is null and void by virtue of section 2 of the Wills Amendment Act 1977,
-(2) The order of priority referred to in subclause (1) is as follows:
-  (a) First, any residuary beneficiary holding in trust for any other person:
-  (b) Second, any residuary beneficiary for life:
-  (c) Third, the ultimate residuary beneficiary, or, where the residue is not wholly disposed of by the will, any person entitled to a share in the residue not so disposed of (including the Attorney-General when claiming such residue as bona vacantia on behalf of the Crown) or the personal representative of any such person:
-    Provided that where the residue is not in terms wholly disposed of, the Court may, if satisfied that the testator has nevertheless disposed of the whole or substantially the whole of the estate as ascertained at the time of the application for the grant, make the grant to any beneficiary entitled to, or to a share in, the estate so disposed of, without regard to the persons entitled to share in any residue not disposed of by the will:
-  (d) Fourth, any specific beneficiary or any creditor, or the personal representative of any such person, or, where the estate is not wholly disposed of by the will, any person who, notwithstanding that the amount of the estate is such that he has no immediate beneficial interest therein, may have a beneficial interest in the event of an accretion thereto:
-  (e) Fifth, any beneficiary, whether residuary or specific, entitled on the happening of any contingency:
-  (f) Sixth, any person having no interest under the will who would be entitled to a grant if the deceased had died wholly intestate.
-(3) Where, in any case to which section 19(1) of the Administration Act 1969 applies, no application for an order nisi in terms of that section is made by an executor or by the Public Trustee or by the Maori Trustee within 4 months from the death of the testator, letters of administration with the will annexed may be granted to the person entitled thereto in accordance with the order of priority set out in subclause (2).
-(4) Persons who are entitled to the grant and who are members of the class specified in paragraph (c) or paragraph (d) or paragraph (e) of subclause (2) shall be entitled to the grant in order of priority in their class according to the value of their respective interests or the amounts of their respective debts.
+### 651 Changes
+(1) This rule applies if—
+  (a) a change appears on a will; and
+  (b) the change is of practical importance; and
+  (c) the change was not made,—
+    (i) for a will made on or after 1 November 2007, by a means described in section 15 of the Wills Act 2007; or
+    (ii) for a will made before 1 November 2007, by a means described in section 15, as modified by section 40(2)(1), of the Wills Act 2007.
+(2) The Court may require evidence to prove whether or not the change was present when the will was executed.
+(3) The Court may give directions as to the form in which the will is to be proved.
+(4) Words that have been changed form part of a will as proved if the change does not obliterate the words in such a way as to prevent their effect being apparent.
+(5) Subclause (4) applies even though there is no satisfactory evidence that the words were changed before the will was executed.
 
-### 656 Justification of entitlement to grant of letters of administration with will annexed
-(1) Where application is made for a grant of letters of administration with the will annexed and persons other than the applicant would (if living and competent and not disqualified) have under rule 655(2) a priority that is higher than, or equal to, that of the applicant, the applicant
-  (a) Shall adduce proof to the satisfaction of the Court
-    (i) That such persons are dead or incompetent or disqualified; or
-    (ii) That notice of the intended application has been given to them; or
-  (b) Shall file their consents in writing, duly verified by affidavit.
-(2) Notwithstanding subclause (1), the Court may, in its discretion, on such conditions (if any) as it thinks fit, dispense with the giving of notice to, or the obtaining of the consent of, any person who, at the time of the application,
-  (a) Is beyond the jurisdiction of the Court; or
-  (b) Cannot be found.
+### 652 Revocations or revivals by other document
+(1) This rule applies if—
+  (a) it appears to the Court, when it inspects a will, that some other document has been attached to it; or
+  (b) a will contains a reference to another document in terms suggesting that it ought to be incorporated in the will.
+(2) The Court may require the other document to be produced or its non-production to be explained.
+(3) The Court may require evidence as to—
+  (a) the attaching or incorporation of the document; and
+  (b) when it came into existence.
+
+### 653 Revocation
+(1) This rule applies if it appears to the Court that,—
+  (a) for a will made on or after 1 November 2007, one of the means of revocation described in section 16 of the Wills Act 2007 may have been used; or
+  (b) for a will made before 1 November 2007, one of the means of revocation described in section 16, as modified by section 40(2)(m) and (n), of the Wills Act 2007 may have been used.
+(2) The applicant must satisfy the Court that the will has not been revoked.
+
+### 654 Duplicate wills
+(1) This rule applies if more than 1 copy of a will has been executed.
+(2) All executed copies must be produced to the Court, or accounted for to its satisfaction, to exclude an inference of revocation.
+(3) If the Court doubts whether subclause (2) has been complied with, it may require evidence to prove that it was.
+
+**Grant with will annexed**
+
+### 655 Circumstances in which grant may be made
+(1) This rule applies if a will exists but does not appoint an executor.
+(2) This rule also applies if a will exists but appoints an executor who—
+  (a) has died during the will-maker's life; or
+  (b) has survived the will-maker but has died without obtaining a grant; or
+  (c) has renounced probate of the will; or
+  (d) is a former spouse or former civil union partner of the will-maker whose appointment is void under section 19 of the Wills Act 2007, for a will made on or after 1 November 2007; or
+  (e) is a former spouse of the will-maker whose appointment is void under section 19, as modified by section 40(2)(q), of the Wills Act 2007, for a will made before 1 November 2007; or
+  (f) is incapable of acting as an executor but does not have an attorney for the purposes of section 9A of the Administration Act 1969.
+(3) This rule also applies if—
+  (a) section 19 of the Administration Act 1969 applies to an executor; and
+  (b) no one entitled to apply for an order nisi under the section has done so within 4 months after the will­maker's death.
+(4) The Court may grant letters of administration with the will annexed to the person entitled to them according to the priority in rule 656.
+
+### 656 Priority of potential administrators for purposes of rule 655(4)
+(1) The first in priority is a residuary beneficiary holding in trust for any other person.
+(2) The second in priority is a residuary beneficiary for life.
+(3) The third in priority is,—
+  (a) if the will disposes of the whole residue, the ultimate residuary beneficiary; or
+  (b) if the will does not dispose of the whole residue but the Court is satisfied that it disposes of the whole or substantially the whole of the estate as ascertained by the time the application for the grant is made,—
+    (i) a beneficiary entitled to the estate; or
+    (ii) a beneficiary entitled to a share in the estate; or
+  (c) if the will does not dispose of the whole residue and the Court is not satisfied that it disposes of the whole or substantially the whole of the estate as ascertained by the time the application for the grant is made,—
+    (i) a person entitled to a share in the residue not disposed of or the person's personal representative; or
+    (ii) the Attorney-General, if entitled to claim the residue as bona vacantia on behalf of the Crown.
+(4) The fourth in priority is—
+  (a) a specific beneficiary or the beneficiary's personal representative; or
+  (b) a creditor or the creditor's personal representative; or
+  (c) if the will does not dispose of the whole estate, a person who has no immediate beneficial interest in the estate because of its small amount but may have a beneficial interest if the estate increases.
+(5) The fifth in priority is a specific or residuary beneficiary who is entitled on the happening of a contingency.
+(6) The sixth in priority is a person who—
+  (a) has no interest under the will; and
+  (b) would be entitled to a grant if the deceased had died wholly intestate.
+(7) Persons who are third, fourth, or fifth in priority, and are entitled to the grant, are entitled to the grant in order of priority in their class according to the value of their interests or the amounts of their debts.
 
 ### 656A Grant of letters of administration with will annexed during minority of executor
-Where a person who is the sole executor of a will is at the date of the testator's death a minor who is not entitled to a grant of probate under section 9(3) of the Administration Act 1969, administration with the will annexed may be granted to such person as the Court thinks fit, until the minor becomes entitled to and obtains a grant of probate.
+[Repealed]
 
-### 657 Due execution
-(1) Whereevidence satisfying the Court that it was duly executed shall be given in accordance with rule 664.
-  (a) A will contains no attestation clause, or no sufficient attestation clause; or
-  (b) It appears to the Court that there is some doubt as to the due execution of the will,
-(2) The Court may accept as a sufficient attestation clause a recital in the will that the will was signed by the testator in the presence of the attesting witnesses and attested by them in the testator's presence.
+### 657 Proving entitlement to grant
+(1) This rule applies if—
+  (a) an applicant applies for a grant of letters of administration with the will annexed; and
+  (b) rule 656 would give persons other than the applicant a priority that is higher than, or equal to, that of the applicant.
+(2) The applicant must—
+  (a) satisfy the Court that all the persons are dead, incompetent, or disqualified; or
+  (b) satisfy the Court that the applicant has given all the persons notice of the intended application; or
+  (c) attach the written consents of all the persons to an affidavit in form 52.
+(3) The Court may excuse the applicant from giving notice to, or obtaining the consent of, a person who, at the time of the application,—
+  (a) is beyond the jurisdiction of the Court; or
+  (b) cannot be found.
+(4) The Court may impose conditions under subclause (3).
 
-### 658 Testator blind, illiterate, etc
-Ifevidence satisfying the Court that the testator had that knowledge or full possession of his mental faculties shall be given in accordance with rule 664.
-  (a) The will has been signed by the testator by mark or by some other person by direction of the testator and it is not certified in the attestation clause that the will was read over and understood by the testator before the testator signed it; or
-  (b) It appears that the testator was blind or illiterate and it is not certified in the attestation clause that the will was read over to and understood by the testator before he signed it; or
-  (c) For any other reason the Court is doubtful whether or not the testator had knowledge of the contents of the will at the time of its execution or had, at that time, full possession of his mental faculties,
+### 658 Grant while executor is minor
+(1) This rule applies if a person is, when the Court grants letters of administration with the will annexed—
+  (a) the sole executor of the will; and
+  (b) a minor; and
+  (c) not entitled to a grant under section 9(3) of the Administration Act 1969.
+(2) The Court may grant letters of administration with the will annexed to any appropriate person.
+(3) The person is entitled to the grant until the minor becomes entitled to and obtains a grant.
 
-### 659 Alterations to will
-(1) Where there appears in a will any obliteration, interlineation, or other alteration which is not authenticatedthe Court may require evidence to show whether the alteration was present at the time when the will was executed and may give directions as to the form in which the will is to be proved, unless it considers that the alteration is of no practical importance.
-  (a) In the manner prescribed by section 21 of the Wills Act 1837; or
-  (b) By the re-execution of the will; or
-  (c) By the execution of a codicil,
-(2) If no satisfactory evidence can be adduced that the alterations were made before the will was executed and if the words that have been altered be not entirely effaced but can upon examination of the will be ascertained, they shall form part of the will as proved.
+**Grants**
 
-### 660 Indication of or reference to another document
-Wherethe Court may require the other document to be produced, or its non-production to be accounted for, and may require such evidence as to the attaching or incorporation of the document and the time when it came into existence as the Court may think fit.
-  (a) On inspection of a will it appears to the Court that some other document has been attached thereto; or
-  (b) A will contains a reference to another document in such terms as to suggest that it ought to be incorporated in the will,
+### 659 Time for making grant
+(1) The following time limits apply to the making of a grant:
+  (a) for probate or letters of administration with the will annexed, no earlier than 7 days from the date of the will-maker's death; and
+  (b) for other letters of administration, no earlier than 14 days from the date of the deceased's death.
+(2) If the applicant for the grant applies for the shortening of a time limit, the Court may shorten it.
 
-### 661 Doubt as to date
-Where there is doubt as to the date on which a will was executed, the Court may require such evidence as it thinks necessary to establish the date.
+### 660 Grants to attorneys
+(1) The Court may make a grant to the lawfully constituted attorney of a person who—
+  (a) is entitled to the grant; and
+  (b) does not reside in New Zealand.
+(2) The Court may make a grant to the holder of an enduring power of attorney for a donor to whom section 9A of the Administration Act 1969 applies.
+(3) If the person or the donor is 1 of 2 or more executors, the Court may make the grant to the attorney or the holder only after—
+  (a) the attorney or the holder has given notice to the other executors; or
+  (b) the Court has dispensed with notice.
+(4) The Court may limit the grant in any way.
+(5) A grant under section 9A of the Administration Act 1969 must convey the effect of sections 9A(6) and 9B(2) of the Act.
+(6) The grant is for the use and benefit of the person or donor.
 
-### 662 Duplicate wills
-(1) Where more than one copy of a will has been executed, all executed copies shall be produced to the Court or accounted for to its satisfaction so as to exclude an inference of revocation.
-(2) If it appears doubtful to the Court whether subclause (1) has been complied with, it may require such evidence as it thinks necessary to dispel the doubt.
-(3) If on inspection of a will it appears to the Court that any signature thereonit may require such evidence as it thinks necessary to establish whether the signature is an original signature
-  (a) May not be an original signature; or
-  (b) May be a reproduction of the original signature,
+### 661 Common or solemn form
+(1) A grant on an application under rule 634 must be in common form in whichever is appropriate of forms 57, 58, and 59.
+(2) A grant on an application under rule 636 must be in solemn form.
 
-### 663 Attempted revocation
-Any appearance of attempted revocation of a will by burning, tearing, or otherwise, and every other circumstance leading to a presumption of revocation by the testator, shall be accounted for to the satisfaction of the Court.
+**After grant made**
 
-### 664 Evidence as to due execution, etc
-(1) Evidence required pursuant to any provision of rules 657 to 663 may be furnished by any person having personal knowledge of the relevant facts; but, where such evidence relates to the fact, date, manner, or circumstances of execution of a will, the deponent shall be an attesting witness or other person present when the will was executed, if such be available and able to depose thereto.
-(2) Notwithstanding subclause (1), where the authenticity of the signature of the testator or an attesting witness is in doubt, the Court may accept evidence from any person it may think fit to show that the signature is in the handwriting of the testator or the attesting witness, as the case may be.
-(3) In the case of an uncontested application for probate, any evidence given pursuant to subclause (1) or subclause (2) shall be given by affidavit. Form 62 may be used.
+### 662 Inventory and account filed by administrator
+(1) A person interested in a deceased's estate may apply for an order that the estate's administrator file the following documents:
+  (a) an accurate inventory of the estate; and
+  (b) an account of the estate that—
+    (i) is accurate; and
+    (ii) states the dates and details of all receipts and disbursements; and
+    (iii) states which of the receipts and disbursements were on capital account and which on revenue account.
+(2) The applicant must—
+  (a) make the application within 3 years after the date of the grant appointing the administrator; and
+  (b) serve the administrator with notice of the application.
+(3) If the Court makes an order,—
+  (a) the administrator must file the documents within the period after the service of the order that the Court specifies; and
+  (b) the account must be current to—
+    (i) the date of service of the order; or
+    (ii) another date specified in the order.
+(4) If no one makes an application, or if the Court does not make an order,—
+  (a) the administrator may file the documents if he or she wishes to do so and at any time he or she wishes; and
+  (b) the account must state the date to which it is current.
+(5) The administrator must file an affidavit verifying the documents.
+(6) The administrator must file the documents in the office of the Court in which the grant was made.
+
+### 663 Administration of overseas assets
+(1) An administrator administering overseas assets may request the Court to seal an exemplification of administration in form 61
+(2) Alternatively, an administrator administering overseas assets may request the Court to—
+  (a) seal a duplicate of the grant; or
+  (b) seal and certify a copy or photocopy of the grant.
+(3) The administrator must file an affidavit as to the purpose for which the duplicate, copy, or photocopy is required.
+
+### 664 Recall of grant
+(1) If a grant is made in common form, a person may make an interlocutory application for an order for the recall of the grant.
+(2) The Court may make an order recalling the grant only if—
+  (a) the application is unopposed; and
+  (b) one of the following circumstances exists:
+    (i) the grant was made on the basis that the deceased died intestate and a will has been found; or
+    (ii) a will has been found with a date later than that of the will of which probate was granted; or
+    (iii) the person to whom the grant was made applies for the recall; or
+    (iv) the person to whom the grant was made consents to the recall.
+(3) If subclause (2) is not satisfied, a person wishing to apply for an order for the recall of the grant must bring proceedings.
+(4) Rule 639 applies to an application under subclause (1) and the proceedings referred to in subclause (3).
 
 **Applications on intestacy**
 
@@ -7037,6 +7204,23 @@ A notice under section 268(1) of the Companies Act 1955 or section 294(1) of the
   (a) if the company has been put into liquidation by the Court, be filed in the office of the Court in which the order putting the company into liquidation was made under the same file number as the liquidation file number (even though the heading of the notice is different); and
   (b) in any other case, be filed in the office of the Court in the town where, or the office of the Court in the town nearest to where, the registered office of the company in liquidation was situated at the date of liquidation.
 (2) If more than 1 notice under section 268(1) of the Companies Act 1955 or section 294(1) of the Companies Act 1993 relating to the same company in liquidation has been filed in accordance with subclause (1)(b), those notices must be filed under the same file number (even though the heading of each notice is different).
+
+### Part 9B — Voluntary administration
+
+### 700ZL Appointment of administrator under section 239L of Companies Act 1993
+An application by a creditor, the liquidator (if the company is in liquidation), or the Registrar of Companies for the appointment by the Court of an administrator under section 239L of the Companies Act 1993 (inserted by section 6 of the Companies Amendment Act 2006) must be made by originating application under Part 4A of these rules.
+
+### 700ZM Applications in course of administration
+(1) An application to the Court by the administrator or other person entitled to apply to the Court under Part 15A of the Companies Act 1993 must be made by originating application under Part 4A of these rules.
+(2) If an application in relation to a company has been made to the Court under subclause (1), any further application in relation to the voluntary administration of that company may be made by interlocutory application under Part 3 of these rules.
+(3) Subclause (1) is subject to subclause (2).
+
+### 700ZN Proper office of Court
+(1) The proper office of the Court for the purpose of filing an originating application under rule 700ZL is—
+  (a) the office of the Court in the town where, or the office of the Court in the town nearest to where, the company's registered office is situated; or
+  (b) if the company does not have a registered office, the office of the Court in the town where, or the office of the Court in the town nearest to where, the principal or last known place of business is or was situated.
+(2) If it appears to the Court on application to it that the originating application has been filed in the wrong office of the Court, or that any other office of the Court would be more convenient to all parties affected, it may direct that the originating application and any documents filed in relation to that application be filed in, or transferred to, the proper office or the other office of the Court.
+(3) This rule overrides rule 107.
 
 ### Part 10 — Appeals
 
@@ -9521,4 +9705,37 @@ At the same time as the originating application is filed, the plaintiff must fil
 
 #### Schedule 6 — Standard directions for appeals
 
+#### Schedule 7 — Matters for consideration at pre-trial conference for proceedings on standard track
+
 ## Schedule 3 — Rules of the Court of Appeal
+
+### 1 Title
+These rules are the High Court Amendment (Wills Act 2007) Rules 2007.
+
+### 2 Commencement
+These rules come into force on 1 November 2007.
+
+### 4 Wills to which these rules apply
+(1) These rules apply to the wills of persons who die on or after 1 November 2007.
+(2) These rules do not apply to the wills of persons who die before 1 November 2007, except rule 6, which does apply to the wills of persons who die before 1 November 2007.
+(3) The High Court Rules set out in Schedule 2 of the Judicature Act 1908 before their amendment by these rules, except for the amendment in rule 6, apply to the wills of persons who die before 1 November 2007.
+
+### 6 Rule 651 substituted
+Rule 651 is revoked and the following rule substituted:Registrars may make some orders
+  (1) This rule applies to the following registrars:
+    (a) all Registrars; and
+    (b) all Senior Deputy Registrars in the Auckland office; and
+    (c) no other deputy registrars.
+  (2) The registrars have the powers of the Court under—
+    (a) sections 5 to 9A and sections 12, 19, 21, 44, and 61(a)(ii) of the Administration Act 1969; and
+    (b) section 154(3) of the Insolvency Act 1967; and
+    (c) section 76 of the Public Trust Act 2001; and
+    (d) section 35(4) of the Trustee Act 1956; and
+    (e) section 8(1) of the Trustee Companies Act 1967; and
+    (f) rule 643(2); and
+    (g) rule 646(1), if an unopposed application has been made; and
+    (h) rule 647; and
+    (i) rule 648; and
+    (j) rule 649; and
+    (k) rule 650(1).
+  (3) Rules 272 to 276 apply to a registrar acting under subclause (2). For this purpose, references in them to rule 270 or rule 271 must be read as references to rule 651(2).
