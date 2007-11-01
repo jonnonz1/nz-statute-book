@@ -1,5 +1,5 @@
 # Imperial Laws Application Act 1988
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-11-01_
 
 > An Act to specify the extent to which Imperial enactments, Imperial subordinate legislation, and the common law of England are part of the laws of New Zealand
 
