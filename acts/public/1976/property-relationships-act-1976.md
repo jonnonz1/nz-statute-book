@@ -1,5 +1,5 @@
 # Property (Relationships) Act 1976
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-11-01_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Property (Relationships) Act 1976.
@@ -1399,7 +1399,7 @@ A surviving spouse or partner may not apply under this Act for a division of the
 
 ### 64 Position of surviving spouse or civil union partner if separation order made or marriage or civil union dissolved
 A surviving spouse or civil union partner may apply under this Act for a division of the relationship property without having first chosen option A if he or she is in 1 of the following situations:
-  (a) a separation order is in force in relation to the marriage or civil union and the deceased spouse or civil union partner dies intestate:
+  (a) a separation order is in force in relation to the marriage or civil union when the deceased spouse or civil union partner dies:
   (b) the marriage was ended while both spouses were alive by a legal process that occurred within or outside New Zealand:
   (c) the civil union was ended while both civil union partners were alive by a legal process that occurs within New Zealand.
 
