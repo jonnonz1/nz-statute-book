@@ -1,5 +1,5 @@
 # Life Insurance Act 1908
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-11-01_
 
 > An Act to consolidate certain enactments of the General Assembly relating to life insurance
 
@@ -521,7 +521,7 @@ A minor who is under the age of 10 years may effect a policy on the minor's own 
   (a) If of or over the age of 16 years, may—
     (i) Surrender the policy:
     (ii) Give discharges for the money payable under the policy:
-    (iii) Dispose of the policy by will in accordance with the provisions of section 6 of the Wills Amendment Act 1955 or section 2 of the Wills Amendment Act 1969:
+    (iii) dispose of the policy by will in accordance with section 9 or 10 of the Wills Act 2007 or section 2 of the Wills Amendment Act 1969 or section 6 of the Wills Amendment Act 1955:
     (iv) Dispose of the policy or interest therein or deal with the same in any manner authorised by this Act:
   (b) If under the age of 16 years, may, with the approval of a District Court, do, in relation to the policy, any of the things mentioned in subparagraphs (i), (ii), and (iv) of paragraph (a) of this subsection.
 (2) Subsection (1) of this section shall apply whether or not the policy was effected in the first place by the minor.
