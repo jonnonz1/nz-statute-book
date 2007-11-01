@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-11-01_
 
 > An Act to amend the law governing the use of public financial resources and to that end to—aProvide a framework for Parliamentary scrutiny of the Government's management of the Crown's assets and liabilities, including expenditure proposals; andbEstablish lines of responsibility for the use of public financial resources; andcEstablish financial management incentives to encourage effective and efficient use of financial resources in departments and Crown entities; anddSpecify the minimum financial reporting obligations of the Crown, departments, and Crown entities; andeSafeguard public assets by providing statutory authority and control for the raising of loans, issuing of securities, giving of guarantees, operation of bank accounts, and investment of funds
 
@@ -1903,6 +1903,7 @@ The enactments specified in Schedule 2 to this Act are hereby repealed.
 | Research and Education Advanced Network New Zealand Limited | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |
 | Reserves Boards as defined in section 2 of the Reserves Act 1977 |  |  | ✓ | ✓ | ✓ | ✓ | ✓ |  |
 | Road Safety Trust |  |  |  |  |  |  |  |  |
+| Sentencing Council |  | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Transferee companies under the New Zealand Railways Corporation Restructuring Act 1990 in which the Crown holds 50% or more of the issued ordinary shares | ✓ | ✓ |  |  |  |  |  |  |
 
 ## Schedule 5 — Crown entities required to include statements of service performance in their annual financial statements
