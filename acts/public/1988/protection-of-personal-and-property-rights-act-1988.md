@@ -1,5 +1,5 @@
 # Protection of Personal and Property Rights Act 1988
-_Consolidation as at 2007-09-26_
+_Consolidation as at 2007-11-01_
 
 > An Act to provide for the protection and promotion of the personal and property rights of persons who are not fully able to manage their own affairs
 
@@ -471,7 +471,13 @@ A manager shall cease to hold office as manager under this Part of this Act—
   (a) Signed in the manager's name for and on behalf of the person for whom it is made, in the presence of 2 or more witnesses present at the same time; and
   (b) Attested and subscribed by those witnesses in the presence of the manager; and
   (c) Sealed with the seal of the Court.
-(5) Any testamentary disposition authorised and executed in accordance with this section shall be valid notwithstanding section 10 of the Wills Act 1837 (UK), and shall have the same effect for all purposes as it would have had if the person to whom the testamentary disposition relates had had testamentary capacity and had executed the testamentary disposition in the manner required by that section.
+(5) The following provisions apply to a testamentary disposition authorised and executed under this section:
+  (a) it is valid despite—
+    (i) section 11 of the Wills Act 2007; and
+    (ii) sections 9 and 10 of the Wills Act 1837 of the United Kingdom Parliament; and
+  (b) it has the same effect for all purposes as it would have had if the person subject to the property order—
+    (i) had had testamentary capacity; and
+    (ii) had executed the testamentary disposition in the manner required by the applicable section.
 (6) The Law Reform (Testamentary Promises) Act 1949, the Family Protection Act 1955, and all other enactments and rules of law relating to the estates of deceased persons shall apply in respect of any testamentary disposition executed under this section as if the person to whom it relates had had testamentary capacity and had executed the testamentary disposition in accordance with law.
 (7) Notwithstanding paragraph (c) of subsection (4) of this section, a testamentary disposition that is signed in accordance with paragraph (a) of that subsection, and attested and subscribed in accordance with paragraph (b) of that subsection, shall be valid notwithstanding that the person to whom the testamentary disposition relates dies before it is sealed with the seal of the Court so long as the terms of the testamentary disposition accord with the directions of the Court.
 (8) A testamentary disposition authorised and executed in accordance with this section shall continue to have effect, until it is revoked, notwithstanding that the person to whom it relates has ceased to be subject to a property order.
