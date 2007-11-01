@@ -1,5 +1,5 @@
 # Industrial and Provident Societies Amendment Act 1952
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-11-01_
 
 > An Act to amend the Industrial and Provident Societies Act 1908
 
@@ -66,10 +66,10 @@ A contract with a registered society to take up and pay for any debentures of th
 ### 13 Payment of certain debts out of assets subject to floating charge in priority to claims under the charge
 (1) The debts that in every liquidation are under the provisions of Part 16 and Schedule 7 of the Companies Act 1993 relating to preferential payments to be paid in priority to all other debts must, if a registered society is not in liquidation at the time, be paid in priority to any claim for principal or interest in respect of the security interest, out of—
   (a) any accounts receivable and inventory (or their proceeds) coming into the hands of the receiver who is appointed on behalf of persons who have, over those assets, a security interest that—
-    (i) is not a purchase money security interest; and
-    (ii) does not arise from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); or
+    (i) is not a purchase money security interest that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999; and
+    (ii) is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the time of the receiver's appointment, or at the time at which possession of the property was taken, as the case may be, and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); or
   (b) any accounts receivable or inventory (or their proceeds) coming into the hands of any other person who has taken possession of all or any part of the society's property by or on behalf of the persons who have that security interest.
-(2) In the application of clause 2(b) of Schedule 7 to the Companies Act 1993, the reference to holiday pay becoming payable on the termination of employment before or by reason of the commencement of the liquidation shall be construed as a reference to holiday pay becoming payable on the termination of employment before or by reason of the appointment of the receiver or the taking possession of the property.
+(2) In the application of Schedule 7 of the Companies Act 1993, references to the commencement of the liquidation must be read as a reference to the appointment of the receiver or the taking possession of the property, as the case may be.
 (3) The periods of time referred to in Part 16 of, and Schedule 7 to, the Companies Act 1993 shall be taken from the date of the appointment of the receiver or on which possession of the property was taken, as the case may be.
 (4) Any payments made under this section shall be recouped as far as may be out of the assets of the society available for payment of general creditors.
 (5) In this section, the terms account receivable, inventory, new value, proceeds, purchase money security interest, and security interest have the same meanings as in the Personal Property Securities Act 1999.
