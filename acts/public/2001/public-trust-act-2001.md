@@ -1,5 +1,5 @@
 # Public Trust Act 2001
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2007-11-01_
 
 ### 1 Title
 This Act is the Public Trust Act 2001.
@@ -737,7 +737,7 @@ Nothing in this Part restricts the operation of—
 (7) If, after filing the election, the gross value of property situated in New Zealand to be administered is found to exceed $150,000 or such higher amount as is prescribed by regulations, Public Trust must—
   (a) as soon as practicable file a memorandum stating that fact, in the registry of the High Court in which the election was filed; and
   (b) then proceed in the ordinary manner to obtain a grant of administration in New Zealand (for which purpose Public Trust may uplift from the Court any will or exemplification filed with the election).
-(8) An election may be filed under this section in respect of an informal will made in writing in accordance with the provisions of the Wills Amendment Act 1955. This section does not however apply to any other informal will within the meaning of that Act.
+(8) An election may be filed under this section relating to a written informal will to which subpart 3 of Part 2 of the Wills Act 2007 or the Wills Amendment Act 1955 applies. This section does not apply to any other informal will.
 
 ### 94 Elections in respect of unadministered balance of estate
 (1) This section applies in a case where—
