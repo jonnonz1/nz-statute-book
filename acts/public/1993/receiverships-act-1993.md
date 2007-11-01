@@ -1,5 +1,5 @@
 # Receiverships Act 1993
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-11-01_
 
 > An Act to reform the law relating to receivers
 
@@ -36,7 +36,7 @@ _Consolidation as at 2007-09-03_
   - **new value** has the same meaning as in section 16(1) of the Personal Property Securities Act 1999
   - **Official Assignee** means, in relation to the estate of a bankrupt, any Official Assignee or Deputy Assignee appointed under the Insolvency Act 1967 and having charge of that estate
   - **Overseas company** means a company incorporated outside New Zealand
-  - **Preferential claims** means the claims referred to in Schedule 7 to the Companies Act 1993 (except clause 1 of that Schedule)
+  - **Preferential claims** means the claims referred to in Schedule 7 to the Companies Act 1993 (except clause 1(1) of that Schedule)
   - **proceeds** has the same meaning as in section 16(1) of the Personal Property Securities Act 1999
   - **Property** includes—
     (a) Real and personal property:
@@ -308,18 +308,23 @@ A person to whom a report must be sent in accordance with section 26 of this Act
 ### 30 Preferential claims
 (1) This section applies to a receiver of the property of a grantor that is a company, other than a company in liquidation at the time of the receiver's appointment, and who was appointed under a security agreement that created or provided for a security interest that—
   (a) is over all or any part of the company's accounts receivable and inventory or all or any part of either of them; and
-  (b) is not a purchase money security interest; and
-  (c) does not arise from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation).
-(2) A receiver to whom this section applies must apply accounts receivable and inventory that are subject to the security interest or their proceeds—before paying from those assets any claim of the person entitled to the security interest.
-  (a) First, to reimburse the receiver for his or her expenses and remuneration; and
-  (b) Secondly, to pay preferential claims to the extent and in the order of priority specified in Schedule 7 (except clauses 1 and 9(b) ) to the Companies Act 1993—
-(2A)
+  (b) is not a purchase money security interest that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999; and
+  (c) is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the time of the receiver's appointment and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation).
+(2) A receiver to whom this section applies must apply accounts receivable and inventory that are subject to the security interest or their proceeds—
+  (a) first, to reimburse the receiver for his or her expenses and remuneration; and
+  (b) secondly, to pay the claims of any person who has—
+    (i) a purchase money security interest over all or any of those assets, that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999:
+    (ii) a security interest over all or any of those assets, that has been perfected under the Personal Property Securities Act 1999 at the time of the receiver's appointment and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); and
+  (c) thirdly, to pay preferential claims to the extent and in the order of priority specified in Schedule 7 (except clauses 1(1) and 2(1)(b)) of the Companies Act 1993.
+(2A) The receiver must apply the accounts receivable and inventory as set out in subsection (2) before paying the claims of any person under a security interest, other than a security interest referred to in subsection (2)(b).
 (3) In the application of Schedule 7 to the Companies Act 1993 in accordance with subsection (2) of this section,—
   (a) References to a liquidator are to be read as references to a receiver:
   (b) References to the commencement of the liquidation are to be read as references to the appointment of the receiver:
   (c) References to a company being put into or being in liquidation are to be read as references to the company being put into or being in receivership.
-  (d)
-  (e)
+  (d) the reference to a period of 4 months before the commencement of the liquidation in clause 1(2)(a) is to be read as a reference to a period beginning 4 months before the date of appointment of the receiver and ending either—
+    (i) 14 days after the date of appointment of the receiver; or
+    (ii) if notice of the termination of that employee's employment is lawfully given to the employee within 14 days after the date of appointment of the receiver or by any later date to which the period for giving notice is extended under section 32(3) of the Receiverships Act 1993, on the day on which the contract of employment is terminated:
+  (e) the reference to before, or because of, the commencement of the liquidation in clause 1(2)(b) and (c) is to be read as a reference to before the expiry of 14 days after the date of appointment of the receiver, or because notice of the termination of that employee's employment is lawfully given to the employee within 14 days after the date of appointment of the receiver or by any later date to which the period for giving notice is extended under section 32(3) of the Receiverships Act 1993.
 (4) Nothing in this section applies in relation to a grantor in respect of whose property a receiver was appointed before the commencement of this Act and the provisions of section 101 of the Companies Act 1955 shall continue to apply in relation to that grantor notwithstanding the repeal of that section by this Act.
 (5) The provisions of this section, as in force immediately before the commencement of the Personal Property Securities Act 1999, continue to apply in respect of a company whose property was subject to a floating charge that, before the commencement of that Act, became a fixed or specific charge.
 
