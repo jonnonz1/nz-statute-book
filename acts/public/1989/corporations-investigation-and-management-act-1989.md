@@ -1,5 +1,5 @@
 # Corporations (Investigation and Management) Act 1989
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2007-11-01_
 
 > An Act to enable the Registrar of Companies to determine whether corporations are at risk, to enable action to be taken in relation to such corporations in appropriate cases, and to repeal the Companies Special Investigations Act 1958
 
@@ -328,7 +328,7 @@ The Securities Commission shall not make a recommendation under section 38 of th
 (1) Where a corporation is declared under section 38 of this Act to be subject to statutory management, no person shall—
   (a) Commence or continue any action or other proceedings, including proceedings by way of counterclaim, against that corporation:
   (b) Issue any execution, attach any debt, or otherwise enforce or seek to enforce any judgment or order obtained in respect of that corporation:
-  (c) Apply or resolve to put the corporation into liquidation:
+  (c) Apply or resolve to put the corporation into liquidation or voluntary administration:
   (d) Foreclose, enter into possession, sell, or appoint a receiver of the property of that corporation, or property in respect of which the corporation has an equity of redemption:
   (e) Exercise or continue any power or rights under, or in pursuance of, any mortgage, charge, debenture, instrument, or other security over the property of that corporation:
   (f) Claim or recover, pursuant to any retention of title clause, hire purchase agreement, mortgage, lease, or security, any property in the possession of the corporation:
