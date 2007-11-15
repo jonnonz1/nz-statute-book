@@ -1,5 +1,5 @@
 # Tariff Act 1988
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-11-15_
 
 > An Act to consolidate and amend the law relating to the imposition of tariff duty
 
