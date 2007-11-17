@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2007-11-17_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -2181,6 +2181,10 @@ In sections 145A to 145C,—
 ### 146 Consent to treatment, etc, not affected
 (1) No sentence or condition imposed or order made under this Act limits or affects in any way any enactment or rule of law relating to consent to any medical or psychiatric treatment.
 (2) Subsection (1) applies except as expressly provided by any other enactment.
+
+### 146A A certificate of conviction for succession purposes
+(1) On or at any time after sentencing a person for an offence against any Act of unlawfully killing another person or child that has not become a person, a Court may certify that for the purposes of the Succession (Homicide) Act 2007 the person convicted is guilty of homicide of that other person or child that has not become a person.
+(2) A Court may issue a certificate under this section on the application of the informant, any interested person, or on its own initiative.
 
 ### 147 Regulations
 The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
