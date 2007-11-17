@@ -1,5 +1,5 @@
 # Administration Act 1969
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-11-17_
 
 > An Act to consolidate and amend certain enactments relating to the administration of the estates of deceased persons
 
@@ -48,6 +48,11 @@ Except as otherwise provided in this Act, Parts 1, 2, and 4 of this Act shall ap
 ### 5 Probate jurisdiction of High Court
 (1) The Court shall continue to have jurisdiction and authority in relation to the granting and revoking of probate of wills and letters of administration with or without a will annexed of the estates of deceased persons, and in regard to the hearing and determining of proceedings relating to testamentary matters and matters relating to the estates of deceased persons.
 (2) Without restricting subsection (1) of this section or any other enactment, the Court shall have jurisdiction to make a grant of probate or letters of administration in respect of a deceased person, whether or not the deceased person left any estate in New Zealand or elsewhere, and whether or not the person to whom the grant is made is in New Zealand.
+
+### 5A Killer not competent to be granted administration
+A person who is a killer of a victim for the purposes of the Succession (Homicide) Act 2007 or who is awaiting trial for an offence of homicide (within the meaning of that Act) is not competent to be granted and must not be granted—
+  (a) probate of the victim's will; or
+  (b) letters of administration of the estate of the victim, with or without a will annexed.
 
 ### 6 Discretion of Court as to person to whom administration is granted
 (1) In granting letters of administration with or without a will annexed, or an order to administer with or without a will annexed, in respect of the estate of any deceased person or any part thereof, the Court shall have regard to the rights of all persons interested in the estate of the deceased person or the proceeds of sale thereof, and, in particular, administration with a will annexed may be granted to a devisee or legatee; and any such administration may be limited in any way the Court thinks fit:
@@ -330,12 +335,14 @@ In sections 47 to 50 of this Act—
   (ca)
   (d) under the Property (Relationships) Act 1976:
   (e) Under Part 7 of the Child Support Act 1991:
+  (ea) under the Succession (Homicide) Act 2007:
   (f) Arising out of contracts to make a will containing certain provisions or not to revoke an existing will or specified provision therein or not to make a will.
 (2) No action shall lie against the administrator or trustee of the estate of any deceased person by reason of his having distributed any part of the estate, and no application or order to which this section applies shall disturb the distribution, if it was properly made, in accordance with subsection (2) of section 48 of this Act, by the administrator or trustee for the purpose of providing for the maintenance, support, or education of any person who was totally or partially dependent on the deceased immediately before the death of the deceased, whether or not the administrator or trustee had notice at the time of the distribution of any application or intention to make any application that would affect the estate, being an application to which this section applies.
 (3) No person who may have made or may be entitled to make an application to which this section applies shall be entitled to bring an action against the administrator or trustee by reason of his having distributed any part of the estate if the distribution was properly made, in accordance with subsection (2) of section 48 of this Act, by the administrator or trustee after the person (being of full legal capacity) has advised the administrator or trustee in writing or acknowledged in any document that the person either—
   (a) Consents to the distribution; or
   (b) Does not intend to make any application that would affect the proposed distribution.
 (4) No action shall lie against the administrator or trustee by reason of his having distributed any part of the estate if the distribution was properly made, in accordance with subsection (2) of section 48 of this Act, by the administrator or trustee after the expiration of 6 months from the date of the grant in New Zealand of administration in the estate of the deceased, and before service on him of any application, and without notice in writing of any application or intention to make an application that would affect the estate, being an application to which this section applies.
+(5) Subsection (4) does not apply to protect an administrator who, at the time of making a distribution, had reason to suspect that the death of the deceased was a homicide and the person to whom the distribution was made was a killer of the deceased.
 
 ### 48 Notices and distributions
 (1) For the purposes of this section and of section 47 of this Act, notice in writing to an administrator or trustee of an intention to make any application to which section 47 of this Act applies shall lapse and shall be incapable of being renewed, so as to impose liability on the administrator or trustee in respect of a distribution thereafter, and the administrator or trustee may act as if he had not received the notice, unless, before the expiration of 3 months after the date on which he first receives notice in writing of the intention to make the application, the administrator or trustee is served with a copy of the application or receives notice in writing that the application has been made to the Court:
