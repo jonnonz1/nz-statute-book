@@ -1,5 +1,5 @@
 # Property (Relationships) Act 1976
-_Consolidation as at 2007-11-01_
+_Consolidation as at 2007-11-17_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Property (Relationships) Act 1976.
@@ -1603,6 +1603,7 @@ All property acquired by the surviving spouse or partner after the death of the 
   (a) the personal representative of the deceased spouse or partner:
   (b) the Official Assignee in Bankruptcy of the property of either spouse or partner:
   (c) an appointee (within the meaning of section 153 of the Insolvency Act 1967) in whom the estate of a deceased spouse or partner vests on an order being made under section 157 of that Act.
+(4) Subsection (2) is subject to section 12 of the Succession (Homicide) Act 2007.
 
 ### 89 Time for commencement of proceedings
 (1) Proceedings may be commenced after the death of 1 of the spouses or partners if,—
