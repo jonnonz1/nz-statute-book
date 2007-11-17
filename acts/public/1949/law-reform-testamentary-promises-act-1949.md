@@ -1,5 +1,5 @@
 # Law Reform (Testamentary Promises) Act 1949
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-11-17_
 
 > An Act to make better provision for the enforcement of promises to make testamentary provision in return for services rendered
 
@@ -25,6 +25,7 @@ In this Act, unless the context otherwise requires,—
 (7) Any order under this section, or any provision of any such order, may be made upon and subject to such terms and conditions as the Court thinks fit.
 (8) Nothing in this section shall affect any remedy which a claimant may have apart from this Act in respect of any promise to which this section relates, and where a claimant has any such remedy he may at his option enforce that remedy or his remedy under this section, but not both:
   Provided that nothing in this section shall prevent alternative claims in respect of those remedies from being made in the one action.
+(9) Subsection (3) is subject to section 10(3) to (5) of the Succession (Homicide) Act 2007.
 
 ### 4 Effect of order of Court
 (1) Upon any order being made under this Act, the portion of the estate comprised in or affected by the order shall be held subject to the provisions of the order.
