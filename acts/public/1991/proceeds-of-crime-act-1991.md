@@ -1,5 +1,5 @@
 # Proceeds of Crime Act 1991
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-11-17_
 
 > An Act—aTo provide for confiscation of the proceeds of serious criminal offending; andbTo provide for matters incidental thereto
 
@@ -296,9 +296,10 @@ Where, in accordance with section 56 of the Mutual Assistance Act, the High Cour
 **Pecuniary penalty orders**
 
 ### 24 Application
-Sections 25 to 29 of this Act apply to—
+(1) Sections 25 to 29 of this Act apply to—
   (a) Benefits that are provided to or derived by a person either within or outside New Zealand and either before or after the commencement of this Act:
   (b) Property that comes into the possession, or under the control, of a person either within or outside New Zealand and either before or after the commencement of this Act.
+(2) Despite subsection (1), sections 25 to 29 do not apply to interests in or claims against property that a person who is a killer under the Succession (Homicide) Act 2007 is not entitled to claim or receive because of that Act.
 
 ### 25 Pecuniary penalty orders
 (1) On the hearing of an application for a pecuniary penalty order in respect of benefits derived by a person from the commission of a serious offence, the Court may, if it is satisfied that the person derived benefits from the commission of that offence,—
