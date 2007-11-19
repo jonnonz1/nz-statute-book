@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-11-19_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -130,26 +130,32 @@ The Minister of Finance may give directions to the Registrar to—
     (ii) a non-compliance cancellation account:
     (iii) a general cancellation account:
     (iv) a retirement account:
-    (v)
-    (vi)
-  (b) record New Zealand's initial assigned amount as assigned amount units in the Registry:
+    (v) a long-term certified emission reduction replacement account:
+    (vi) a temporary certified emission reduction replacement account:
+  (b) issue assigned amount units in the Registry:
   (c) issue removal units or emission reduction units:
-  (d) transfer units from holding accounts to the retirement account, the general cancellation account, the sink cancellation account, or the non-compliance cancellation account:
-  (da)
-  (e) carry over units held in holding accounts.
+  (d) transfer units (other than long-term certified emission reduction units or temporary certified emission reduction units) from holding accounts to the general cancellation account, the long-term certified emission reduction replacement account, the non-compliance cancellation account, the retirement account, the temporary certified emission reduction replacement account, or the sink cancellation account:
+  (da) transfer long-term certified emission reduction units or temporary certified emission reduction units from holding accounts to the general cancellation account, the long-term certified emission reduction replacement account, the temporary certified emission reduction replacement account, or the retirement account:
+  (e) carry over assigned amount units, certified emission reduction units, and emission reduction units held in holding accounts:
+(2) Despite subsection (1), or any regulations made under this Act, the Minister of Finance may not give a direction to transfer units from an account held by an account holder other than the Crown to another account in the Registry, unless—
+  (a) the Minister of Finance has the written consent of the account holder; or
+  (b) where written consent is not given,—
+    (i) the Minister of Finance gives the account holder reasonable notice; and
+    (ii) the transfer is required to comply with New Zealand's obligations under the Protocol.
+(3) For the purposes of subsection (2)(b)(i), reasonable notice means sufficient opportunity in the circumstances for the relevant account holder to make a written submission to the Minister of Finance on the transfer of the units before the units are transferred.
 
 ### 8 Registrar must give effect to directions of Minister of Finance
 The Registrar must give effect to any directions given by the Minister of Finance under section 6 or section 7 in accordance with, and subject to, the procedures set out in subpart 2 of this Part and regulations made under section 50.
 
 ### 8A Minister of Finance must publish directions
-[Repealed]
+As soon as practicable after giving a direction under section 6 or 7, the Minister of Finance must publish a copy of the direction on the Registry's Internet site.
 
 ### 9 Minister of Finance may obtain information from inventory agency and Registrar
-For the purposes of managing the Crown's holding of units, the Minister of Finance may, as and when he or she thinks fit,—
+For the purposes of managing the Crown's holding of units and discharging New Zealand's obligations under section 32(1)(b), the Minister of Finance may, as and when he or she thinks fit,—
   (a) direct the inventory agency to provide information estimating New Zealand's human-induced emissions of greenhouse gases by sources and removals by sink activities:
   (b) direct the Registrar to provide information on those units, including, but not limited to, information indicating—
     (i) how many units the Crown holds; and
-    (ii) how many units the Crown has acquired, transferred, retired, cancelled, and carried over.
+    (ii) how many units the Crown has issued or acquired, transferred, retired, replaced, cancelled, and carried over.
 
 ### Subpart 2 — Registry
 
@@ -157,10 +163,10 @@ For the purposes of managing the Crown's holding of units, the Minister of Finan
 
 ### 10 Purpose of Registry
 The purpose of the Registry is to—
-  (a) ensure, for the commitment period or a subsequent commitment period, the accurate accounting of—
-    (i) the issue, holding, acquisition, transfer, retirement, and cancellation of units; and
+  (a) ensure, for the first commitment period or a subsequent commitment period, the accurate accounting of—
+    (i) the issue, holding, transfer, retirement, and cancellation of units; and
     (ii) the carry-over of assigned amount units, certified emission reduction units, and emission reduction units; and
-    (iii)
+    (iii) the replacement of expired long-term certified emission reduction units and expired temporary certified emission reduction units; and
   (b) ensure, in accordance with Article 7.4 of the Protocol, the accurate, transparent, and efficient exchange of information between—
     (i) the Registry and overseas registries; and
     (ii) the Registry and the independent transaction log; and
@@ -175,11 +181,15 @@ The chief executive of the Ministry responsible for the Registry must appoint a 
 The Registrar is responsible for the operation of the Registry.
 
 ### 13 Registrar may refuse access to, or suspend operation of, Registry
-The Registrar may refuse access to the Registry, or otherwise suspend the operation of the Registry (in whole or in part), if the Registrar considers that providing access, or any other service or services relating to the Registry, is impractical due to technical difficulties.
+The Registrar may refuse access to the Registry, or otherwise suspend the operation of the Registry (in whole or in part),—
+  (a) for maintenance; or
+  (b) in response to technical difficulties; or
+  (c) to ensure the security or integrity of the Registry; or
+  (d) to give effect to New Zealand's international obligations.
 
 ### 14 Registrar must give effect to directions
 (1) The Registrar must give effect to any direction relating to the operation of the Registry given by the Minister responsible for the Registry.
-(2) As soon as practicable after giving the direction, the Minister responsible for the Registry must publish a copy of the direction in the Gazette.
+(2) As soon as practicable after giving the direction, the Minister responsible for the Registry must publish a copy of the direction on the Registry's Internet site.
 
 ### 15 Registrar must allocate unique numbers
 (1) The Registrar must, in accordance with regulations made under this Act,—
@@ -192,9 +202,8 @@ The Registrar may refuse access to the Registry, or otherwise suspend the operat
   (b) replacing the identifiers on the converted units with identifiers that designate that the converted units are emission reduction units.
 
 ### 16 Carry-over of units
-If the Minister of Finance directs the carry-over of units under section 7, the Registrar, subject to regulations made under section 50(1), must, as soon as practicable, carry over the units by—
-  (a) continuing to hold the units in the relevant holding accounts; and
-  (b) notifying the Secretariat that those units apply to a subsequent commitment period.
+(1) An account holder may, subject to regulations made under this Act, apply to the Registrar to carry over assigned amount units, certified emission reduction units, or emission reduction units held in that account holder's holding account.
+(2) Long-term certified emission reduction units, removal units, and temporary certified emission reduction units may not be carried over.
 
 ### 17 Commitment period reserve
 (1) The Registrar may not transfer or cancel units if the transfer or cancellation would cause the total of the units in all holding accounts and the retirement account in the unit register, excluding those units subject to a notification from the independent transaction log under section 21(3), to fall below the commitment period reserve.
@@ -205,67 +214,113 @@ If the Minister of Finance directs the carry-over of units under section 7, the 
 ### 18 Form and content of unit register
 (1) The Registry must have a unit register that is—
   (a) in electronic form; and
-  (b) accessible via the Internet; and
+  (b) accessible via the Registry's Internet site; and
   (c) operated at all times, unless the Registrar suspends its operation (in whole or in part) under section 13 or as prescribed in regulations.
 (2) The unit register must contain—
   (a) a record of the holdings of units in holding accounts in New Zealand; and
   (b) the particulars of transactions, including, but not limited to,—
-    (i) the acquisition, transfer, retirement, and cancellation of units; and
+    (i) the issue, transfer, retirement, and cancellation of units; and
     (ii) the carry-over of assigned amount units, certified emission reduction units, and emission reduction units; and
-    (iii)
+    (iii) the replacement of long-term certified emission reduction units and temporary certified emission reduction units; and
   (c) any other matters that are required to be registered under this Act or regulations made under this Act.
-(3)
+(3) A unit recorded in the unit register is—
+  (a) indivisible; and
+  (b) transferable, subject to any regulations made under this Act,—
+    (i) within the unit register; or
+    (ii) between the unit register and overseas registries.
 
 ### 18A Opening holding accounts
-[Repealed]
+(1) Any person may submit an application to the Registrar to open 1 or more holding accounts in the unit register by using the form and paying the fees (if any) prescribed in regulations made under this Act.
+(2) The Registrar may approve the opening of a holding account subject to any regulations made under this Act.
+(3) If the Registrar approves an application to open a holding account, the Registrar must, as soon as practicable,—
+  (a) open a holding account in the applicant's name; and
+  (b) provide the applicant with a representative identifier.
+(4) If the application is incomplete, the Registrar must, as soon as practicable, ask the applicant to provide the information or fee (if any) that is required to make the application complete.
+(5) The Registrar may refuse to provide a holding account to any applicant who provides an incomplete application.
+(6) A holding account is subject to any regulations made under this Act.
 
 ### 18B Closing holding accounts
-[Repealed]
+(1) An account holder may submit a request to the Registrar to close 1 or more of that account holder's holding accounts in the unit register by using the form and paying the fee (if any) prescribed in regulations made under this Act.
+(2) The Minister responsible for the Registry may give a direction to the Registrar to close an account holder's holding account—
+  (a) if the Minister responsible for the Registry has the written consent of the account holder; or
+  (b) where written consent is not given,—
+    (i) if the Minister responsible for the Registry has given the account holder reasonable notice; and
+    (ii) if—
+      (A) the closure is required to comply with New Zealand's obligations under the Protocol; or
+      (B) the account holder has failed to comply with this Act or any regulations made under this Act; or
+      (C) the Minister responsible for the Registry is satisfied that the account holder no longer requires the account.
+(3) If there are any units remaining in a holding account when it is closed,—
+  (a) the units are forfeited to the Crown; and
+  (b) the Registrar must, as soon as practicable, transfer the units to a Crown holding account.
+(4) If a request is incomplete, the Registrar must, as soon as practicable, ask the account holder to provide the information or fee (if any) that is required to make the request complete.
+(5) The Registrar may not close a holding account if the account holder provides an incomplete request.
+(6) For the purposes of subsection (2)(b)(i), reasonable notice means sufficient opportunity in the circumstances to transfer the units to another account before the holding account that is the subject of the closure direction is closed.
 
 ### 18C Transfer of units
-[Repealed]
+(1) An account holder may, by using the form and paying the fees (if any) prescribed in regulations made under this Act, apply to the Registrar to transfer units from that account holder's holding account to another account in—
+  (a) the unit register; or
+  (b) an overseas registry.
+(2) The Registrar must transfer the specified units as requested, subject to any regulations made under this Act.
+(3) Despite subsection (2), if the Registrar is asked to transfer units held in an account holder's holding account to the general cancellation account, the Registrar must—
+  (a) seek a direction from the Minister of Finance as to whether the units may be transferred to the general cancellation account; and
+  (b) transfer the units to the general cancellation account if the Minister of Finance so directs.
+(4) An account holder who receives units is under no obligation to initiate any registration process.
 
 ### 18D Succession
-[Repealed]
+(1) This section applies if an account holder—
+  (a) is a natural person and dies; or
+  (b) is not a natural person and is wound up, liquidated, dissolved, or otherwise ceases to exist.
+(2) If this section applies, the person listed on the holding account as the account holder's representative may operate the holding account until—
+  (a) a successor is determined; and
+  (b) the Registrar is informed of that determination in writing.
+(3) If a successor is determined, and the Registrar is informed of that determination in writing, the Registrar must register the successor as the account holder.
 
 ### 18E Trusts, representatives, and assignees of bankrupts
-[Repealed]
+(1) Notice of a trust, whether expressed, implied, or constructive, may not be entered on the unit register.
+(2) Despite anything in section 18D, the existence of a representative that may operate the holding account of an account holder who has died, or that has been wound up, liquidated, or dissolved, or otherwise has ceased to exist, does not constitute notice of a trust.
+(3) The assignee of the property of a bankrupt may be entered on the unit register as the assignee of the bankrupt's units.
 
 ### 19 Offset of units
 A unit may be offset by the Crown against 1 metric tonne of carbon dioxide equivalent of human-induced greenhouse gas emissions, emitted from sources listed in Annex A of the Protocol, by means of retirement.
 
 ### 20 Transactions must be registered
-(1) A transaction to transfer, cancel, or retire units must be registered on the unit register.
-(2) However, the Registrar may not register a transaction on the unit register if the Registrar receives a notification from the independent transaction log that there is a discrepancy with the transaction.
+(1) A transaction to issue, transfer, cancel, retire, or replace units must be registered on the unit register.
+(2) However, the Registrar may not register a transaction on the unit register if—
+  (a) the Registrar receives a notification from the independent transaction log that there is a discrepancy with the transaction; or
+  (b) the transaction is not submitted in the prescribed form; or
+  (c) the prescribed fees (if any) have not been paid to the Registrar (unless arrangements for payment have been made in accordance with regulations made under this Act).
 
 ### 21 Registration procedure
-(1) On receipt of a direction given by the Minister of Finance for registration of a transaction, the Registrar must, in accordance with any regulations made under this Act,—
+(1) On receipt of a direction given by the Minister of Finance, or an application for the registration of a transaction by an account holder that is completed to the satisfaction of the Registrar and in accordance with any regulations made under this Act, the Registrar must—
   (a) create an unique transaction number; and
-  (b) send a record of the proposed transaction to—
-    (i) the independent transaction log; and
-    (ii) in the case of transfers to an overseas registry, the other registry.
+  (b) send a record of the proposed transaction to the independent transaction log if required by the independent transaction log.
 (2) On receipt of notification from the independent transaction log that there are no discrepancies in the proposed transaction, the Registrar must, as soon as practicable,—
-  (a) record in the unit register—
-    (i) the particulars set out in the direction; and
-    (ii) the date and time that the particulars were recorded; and
-  (b) send notification that the transaction has been recorded in the unit register to—
-    (i) the independent transaction log; and
-    (ii) in the case of transfers to an overseas registry, the overseas registry; and
-  (c) send an electronic verification statement to the Minister of Finance.
+  (a) record in the unit register the particulars set out in the direction or the application and the particulars of the transaction; and
+  (b) send notification that the transaction has been recorded in the unit register to the independent transaction log; and
+  (c) send electronic verification to the Minister of Finance or the account holder who has applied to register the transaction.
 (3) If the Registrar receives a notification from the independent transaction log that there is a discrepancy in a transaction, the Registrar—
   (a) may not register the transaction; and
   (b) must terminate the transaction; and
   (c) must give notification of the termination, as soon as practicable, to—
     (i) the independent transaction log; and
-    (ii) in the case of transfers to an overseas registry, the other registry; and
-    (iii) the Minister of Finance.
+    (ii)
+    (iii) the Minister of Finance or the account holder who has applied to enter the transaction on the unit register.
 (4) This section does not apply to the carry-over of units.
 
 ### 21A Electronic registration
-[Repealed]
+A direction by the Minister of Finance or an application by an account holder to register a transaction must be—
+  (a) made electronically in the prescribed form via the Registry's Internet site, and contain the particulars specified in the form; and
+  (b) accompanied by the fee (if any) prescribed in regulations made under this Act; and
+  (c) made in accordance with regulations made under this Act.
 
 ### 21B Defective applications
-[Repealed]
+(1) If an application is defective, the Registrar may—
+  (a) correct the defect; or
+  (b) direct, in writing by electronic notification, the applicant to correct the defect within a specified period of time.
+(2) If a direction to correct a defect is not complied with within the specified period of time, the Registrar may refuse to—
+  (a) proceed with the registration; or
+  (b) register the transaction.
+(3) Any fees paid to the Registrar in relation to an uncorrected defective application are forfeited.
 
 ### 22 Transactions take effect when registered
 (1) A transaction takes effect when it is registered.
@@ -276,19 +331,26 @@ A unit may be offset by the Crown against 1 metric tonne of carbon dioxide equiv
 ### 23 Receiving units from overseas registries
 (1) If the Registrar receives notification from an overseas registry of a proposal to transfer units to an account in the Registry, the Registrar must register the transaction, in accordance with the notification, when the Registrar receives the following:
   (a) notification from the independent transaction log that the proposed transaction does not contain any discrepancies; and
-  (b) notification from the overseas registry that it has registered the transfer in its registry.
+  (b)
 (2) If the Registrar receives notification from an overseas registry of a proposal to transfer units to an account in the Registry and receives notification from the independent transaction log that there is a discrepancy, the Registrar—
   (a) may not register the transaction; and
   (b) must terminate the transaction; and
-  (c) must notify the independent transaction log and the overseas registry of the termination.
-(3)
+  (c) must notify the independent transaction log of the termination.
+(3) A transfer of units from an overseas registry is subject to any regulations made under this Act.
 
 ### 24 Priority of registration
-(1) Applications for the registration of transactions must, as soon as practicable, be processed in the chronological order in which they are received by the Registrar.
-(2) An application is received by the Registrar when it is recorded as being downloaded into the computer maintained to operate the unit register.
+(1) A direction or an application for the registration of transactions must, as soon as practicable, be processed in the chronological order in which they are received by the Registrar.
+(2) A direction or an application is received by the Registrar when it is recorded as being downloaded into the computer maintained to operate the unit register.
 
 ### 25 Correction of unit register
-If the Registrar is satisfied that the unit register is inaccurate in any respect, the Registrar must—
+(1) An account holder who has registered a transaction or the Minister of Finance may submit a request to the Registrar to correct any inaccuracy recorded in the unit register in relation to that transaction.
+(2) The request—
+  (a) may be made at any time; and
+  (b) must specify—
+    (i) the inaccuracy; and
+    (ii) the correction required; and
+  (c) must be in the form, and accompanied by the fees (if any), prescribed in regulations made under this Act.
+(3) If the Registrar is satisfied that the unit register is inaccurate in any respect, the Registrar must—
   (a) correct the unit register accordingly; and
   (b) record on the unit register—
     (i) the nature of the correction; and
@@ -296,25 +358,26 @@ If the Registrar is satisfied that the unit register is inaccurate in any respec
   (c) give notification of the correction, as soon as practicable, to—
     (i) any person whom the Registrar considers to be affected by the correction; and
     (ii) the independent transaction log; and
-    (iii) any overseas registry that the Registrar considers to be affected by the correction; and
-    (iv) any other persons, by posting on the Registry website.
+    (iii) any other persons, by posting it on the Registry's Internet site.
 
 ### 26 Unit register must be open for search
-Except as provided in section 13, the unit register must be open at all times for searches by a person via the Internet.
+Except as provided in section 13, the unit register must be open at all times for searches by a person via the Registry's Internet site.
 
 ### 27 Information accessible by search
-The following information must be accessible by a search of the unit register via the Internet:
+The following information must be accessible by a search of the unit register via the Registry's Internet site:
   (a) up-to-date information for each account, including, but not limited to,—
     (i) the name of the account holder; and
     (ii) the type of account; and
-    (iii) the commitment period to which a cancellation or retirement account is associated; and
+    (iii) the relevant commitment period of any—
+      (A) general cancellation account or retirement account; and
+      (B) long-term certified emission reduction replacement account or temporary certified emission reduction replacement account.
     (iv) the representative identifier; and
     (v) the full name, mailing address, telephone number, fax number, and email address of the representative of the account holder; and
-  (b) holding and transactional information, by serial number, for each calendar year, including, but not limited to,—
+  (b) holding and transactional information for each calendar year, including, but not limited to,—
     (i) the total quantity of units in each account at the beginning of the year; and
     (ii) the total quantity of assigned amount units issued on the basis of the initial assigned amount; and
     (iii) the total quantity of emission reduction units issued on the basis of a joint implementation project; and
-    (iv) the total quantity of units acquired from other registries, and the identity of the transferring accounts and registries; and
+    (iv) the total quantity of units transferred from other registries, and the identity of the transferring accounts and registries; and
     (v) the total quantity of removal units issued in relation to sink activities; and
     (vi) the total quantity of units transferred to other registries, and the identity of the acquiring accounts and registries; and
     (vii) the total quantity of units transferred to the sink cancellation account; and
@@ -322,10 +385,10 @@ The following information must be accessible by a search of the unit register vi
     (ix) the total quantity of units transferred to the general cancellation account; and
     (x) the total quantity of units retired; and
     (xi) the total quantity of assigned amount units, certified emission reduction units, and emission reduction units carried over from a previous commitment period; and
-    (xia)
-    (xib)
-    (xic)
-    (xii) the current holdings of units in each account; and
+    (xia) the total quantity of long-term certified emission reduction units in each account; and
+    (xib) the total quantity of temporary certified emission reduction units in each account; and
+    (xic) the expiry date of each long-term certified emission reduction unit and each temporary certified emission reduction unit; and
+    (xii)
   (c) a list of account holders; and
   (d) any other information prescribed in regulations made under this Act.
 
