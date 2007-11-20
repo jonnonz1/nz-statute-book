@@ -1,5 +1,5 @@
 # Mutual Assistance in Criminal Matters Act 1992
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2007-11-20_
 
 > An Act to facilitate the provision and obtaining of international assistance in criminal matters
 
@@ -795,6 +795,9 @@ Where, pursuant to section 51 of this Act, a foreign country requests the assist
 |  |  | section | subject matter |
 |  |  | 209(1A) | knowing importation or exportation of objectionable publications; and |
 |  | (b) | that involves child pornography (as defined section 145A(1) of the Films, Videos, and Publications Classification Act 1993) |  |
+| 30 The Convention for the Suppression of Acts of Nuclear Terrorism, adopted by the General Assembly of the United Nations at New York on 13 April 2005 | An offence against the following section of the Terrorism Suppression Act 2002 |  |  |
+|  | section |  | subject matter |
+|  | 13E |  | offences involving radioactive material and radioactive devices |
 
 ## Schedule 1 — Conventions
 
