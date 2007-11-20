@@ -1,5 +1,5 @@
 # Terrorism Suppression Act 2002
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-11-20_
 
 ### 1 Title
 This Act is the Terrorism Suppression Act 2002.
@@ -16,21 +16,33 @@ The purpose of this Act is—
   (b) to make provision to implement in New Zealand law New Zealand's obligations under—
     (i) the Bombings Convention; and
     (ii) the Financing Convention; and
-    (iii) the Anti-terrorism Resolution.
-  (iv) the Nuclear Material Convention; and
-  (v) the Plastic Explosives Convention.
+    (iii) the Anti-terrorism Resolution; and
+    (iv) the Nuclear Material Convention; and
+    (v) the Plastic Explosives Convention; and
+    (vi) the Nuclear Terrorism Convention; and
+  (c) to make further provision to implement, in part, the Al-Qaida and the Taliban Sanctions Resolutions.
 
 ### 4 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **act** against a specified terrorism convention means an act—
     (a) that constitutes an offence as defined in a specified terrorism convention; and
     (b) that is not excluded from the application of the specified terrorism convention (for example, because an international aspect required by 1 or more of its provisions does not exist)
+  - **Al-Qaida** means the Al-Qaida organisation
+  - **Al-Qaida and the Taliban Sanctions Resolutions** means Resolution 1267 (1999) of the Security Council of the United Nations, adopted under Chapter VII of the United Nations Charter on 15 October 1999 and its successor resolutions, including Resolution 1333 (2000) of 19 December 2000 and Resolution 1390 (2002) of 16 January 2002
+  - **Al-Qaida entity** , for a measure that is set out, or referred to, in 1 or more Al-Qaida and the Taliban Sanctions Resolutions, and that is provided for in this Act, means Al-Qaida, or an entity that is not Al-Qaida but is designated, by or under those resolutions, as an entity that is—
+    (a) associated with Usama bin Laden; and
+    (b) an entity to which that measure is to be applied
   - **Anti-terrorism Resolution** means Resolution 1373 (2001) of the Security Council of the United Nations, adopted under Chapter VII of the United Nations Charter on 28 September 2001, a copy of which is set out in Schedule 4
   - **Bombings Convention** means the International Convention for the Suppression of Terrorist Bombings, adopted by the General Assembly of the United Nations at New York on 15 December 1997, a copy of the English text of which is set out in Schedule 1
   - **carried out** , in relation to a terrorist act, has the meaning given to it in section 25(1)
   - **classified security information** has the meaning given to it in section 32(1)
   - **country** includes any State, territory, province, or other part of a country
-  - **deal with** has the meaning given to it in section 9(5)
+  - **deal with** , in relation to any property,—
+    (a) means to use or deal with the property, in any way and by any means (for example, to acquire possession of, or a legal or an equitable interest in, transfer, pay for, sell, assign, or dispose of (including by way of gift) the property); and
+    (b) includes allowing the property to be used or dealt with, or facilitating the use of it or dealing with it
+  - **designated terrorist entity** means an entity—
+    (a) for the time being designated under section 20 or 22 as a terrorist entity or associated entity; or
+    (b) that is a United Nations listed terrorist entity
   - **duly authorised military device** means an explosive article, including, but not restricted to, a shell, bomb, projectile, mine, missile, rocket, shaped charge, grenade, and perforator, manufactured exclusively for lawful military or police purposes and approved for those purposes by the Environmental Risk Management Authority
   - **entity** means a person, group, trust, partnership, or fund, or an unincorporated association or organisation
   - **explosive or other lethal device** means—
@@ -54,9 +66,16 @@ The purpose of this Act is—
   - **international organisation** means any organisation of States or Governments of States, or any organ or agency of any organisation of that kind
   - **make available** has the meaning given to it in section 10(6)
   - **manufacture** means any process, including reprocessing, that produces plastic explosives
+  - **nuclear facility** means—
+    (a) a nuclear reactor, including a reactor installed in or on any vessel, vehicle, aircraft, or space object for use as an energy source in order to propel the vessel, vehicle, aircraft, or space object or for any other purpose; or
+    (b) a plant or conveyance—
+      (i) being used for the production, storage, processing, or transport of radioactive material; or
+      (ii) in which radioactive material is being used, handled, or disposed of in circumstances where damage to or interference with the operation of the plant or conveyance could lead to the release of significant amounts of radiation or radioactive substances
   - **nuclear material** has the same meaning as in Article 1(a) of the Nuclear Material Convention
   - **Nuclear Material Convention** means the Convention on the Physical Protection of Nuclear Material, done at New York and Vienna on 3 March 1980, a copy of the English text of which is set out in Schedule 2A
   - **nuclear material offence** means an offence against section 13C
+  - **Nuclear Terrorism Convention** means the Convention for the Suppression of Acts of Nuclear Terrorism, adopted by the General Assembly of the United Nations in New York on 13 April 2005, a copy of the English text of which is set out in Schedule 2C
+  - **nuclear terrorism offence** means an offence against section 13E
   - **Official Assignee** means the Official Assignee of New Zealand
   - **ordinarily resident in New Zealand** has the meaning given to it in subsection (2)
   - **place of public use** —
@@ -69,11 +88,18 @@ The purpose of this Act is—
     (a) means real or personal property of any description, whether situated in New Zealand or elsewhere and whether tangible or intangible; and
     (b) includes an interest in any real or personal property of that kind
   - **public transportation system** means all conveyances (for example, aircraft, trains, ships, ferries, trucks, buses, or taxis), facilities, buildings, and objects (whether publicly or privately owned) used in or for services that are available to the public for the transportation of persons or cargo
+  - **radioactive device** means—
+    (a) a nuclear weapon or other nuclear explosive device; or
+    (b) a radioactive material dispersal device; or
+    (c) a radiation-emitting device
   - **radioactive material** has the same meaning as in section 2(1) of the Radiation Protection Act 1965
   - **relevant date** has the meaning given to it in section 69(4)
   - **relevant place, facility, or system** has the meaning given to it in section 7(2)
   - **relevant State** has the meaning given to it in section 66(3)
   - **relevant States Parties** has the meaning given to it in section 63(2)
+  - **Resolution 1267** means Resolution 1267 (1999) of the Security Council of the United Nations, adopted under Chapter VII of the United Nations Charter on 15 October 1999, a copy of the English text of which is set out in Schedule 4A
+  - **Resolution 1333** means Resolution 1333 (2000) of the Security Council of the United Nations, adopted under Chapter VII of the United Nations Charter on 19 December 2000, a copy of the English text of which is set out in Schedule 4B
+  - **Resolution 1390** means Resolution 1390 (2002) of the Security Council of the United Nations, adopted under Chapter VII of the United Nations Charter on 16 January 2002, a copy of the English text of which is set out in Schedule 4C
   - **specified agency** means—
     (a) an intelligence and security agency; or
     (b) the New Zealand Police
@@ -85,6 +111,10 @@ The purpose of this Act is—
     (d) employees or officials of an intergovernmental organisation
   - **suspicious property report** means a report under section 43 and that (except as provided in section 44(2)) contains the details specified in Schedule 5
   - **suspicious transaction report** has the meaning referred to in section 44(5)
+  - **Taliban** means the Afghan faction known as the Taliban, which also calls itself the Islamic Emirate of Afghanistan
+  - **Taliban entity** , for a measure that is set out, or referred to, in 1 or more Al-Qaida and the Taliban Sanctions Resolutions, and that is provided for in this Act, means an entity that—
+    (a) is not Usama bin Laden, an Al-Qaida entity, or the Taliban; but
+    (b) is designated, by or under those resolutions, as an entity to which that measure is to be applied
   - **terrorist act** is defined in section 5(1)
   - **terrorist act in armed conflict** means an act—
     (a) that occurs in a situation of armed conflict; and
@@ -93,6 +123,11 @@ The purpose of this Act is—
     (d) that is not excluded from the application of the Financing Convention by article 3 of that Convention
   - **terrorist bombing** means an offence against section 7(1)
   - **transaction** has the meaning referred to in section 44(5).
+  - **United Nations listed terrorist entity** means an entity that is—
+    (a) Usama bin Laden; or
+    (b) an Al-Qaida entity; or
+    (c) the Taliban; or
+    (d) a Taliban entity
   - **unmarked** , in relation to a plastic explosive, means that has not had introduced into it at manufacture, in accordance with the technical annex to the Plastic Explosives Convention, a detection agent listed in Part 2 of that annex.
 (2) For the purposes of this Act, a person must be treated as being ordinarily resident in New Zealand if—
   (a) the person's home is in New Zealand; or
@@ -124,6 +159,12 @@ This Act binds the Crown.
 
 ## Part 2 — Suppression of terrorism
 
+**Terrorist act**
+
+### 6A Terrorist act
+(1) A person commits an offence who engages in a terrorist act.
+(2) A person who commits a terrorist act is liable on conviction on indictment to imprisonment for life or a lesser term.
+
 **Terrorist bombing**
 
 ### 7 Terrorist bombing
@@ -143,32 +184,32 @@ This Act binds the Crown.
 
 ### 8 Financing of terrorism
 (1) A person commits an offence who, directly or indirectly, wilfully and without lawful justification or reasonable excuse, provides or collects funds intending that they be used, or knowing that they are to be used, in full or in part, in order to carry out 1 or more acts of a kind that, if they were carried out, would be 1 or more terrorist acts.
-(2) To avoid doubt, nothing in subsection (1) makes it an offence to provide or collect funds intending that they be used, or knowing that they are to be used, for the purpose of advocating democratic government or the protection of human rights.
+(2)
 (2A) A person commits an offence who, directly or indirectly, wilfully and without lawful justification or reasonable excuse, provides or collects funds intending that they benefit, or knowing that they will benefit, an entity that the person knows is an entity that carries out, or participates in the carrying out of, 1 or more terrorist acts.
 (3) In a prosecution for financing of terrorism, it is not necessary for the prosecutor to prove that the funds collected or provided were actually used, in full or in part, to carry out a terrorist act.
 (4) A person who commits financing of terrorism is liable on conviction on indictment to imprisonment for a term not exceeding 14 years.
 
 **Dealing with property**
 
-### 9 Prohibition on dealing with property of, or derived or generated from property of, terrorist and associated entities
+### 9 Prohibition on dealing with property of, or derived or generated from property of, designated terrorist entity
 (1) A person commits an offence who, without lawful justification or reasonable excuse, deals with any property knowing that the property is—
-  (a) property owned or controlled, directly or indirectly, by an entity for the time being designated under this Act as a terrorist entity or as an associated entity; or
+  (a) property owned or controlled, directly or indirectly, a designated terrorist entity; or
   (b) property derived or generated from any property of the kind specified in paragraph (a).
-(2) An example of dealing with property with a reasonable excuse, for the purposes of subsection (1), is where the dealing with the property occurs in an act that does no more than satisfy essential human needs of (or of a dependant of) an individual designated under this Act.
+(2) For the purposes of subsection (1), examples of a reasonable excuse for dealing with property referred to in those provisions are—
+  (a) where the dealing with the property comprises an act that does no more than satisfy essential human needs of (or of a dependant of) an individual designated under this Act:
+  (b) where a financial institution acts to freeze assets of a designated terrorist entity.
 (3) Subsection (1) does not apply—
   (a) if the Prime Minister has, under section 11, authorised the dealing with the property; or
   (b) if the property concerned is the subject of a direction under section 48 and the dealing concerned forms part of the exercise by the Official Assignee of his or her powers under section 50 of the Proceeds of Crime Act 1991 (as modified and applied by section 51(a)).
 (4) A person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 7 years.
-(5) In this section, deal with, in relation to any property,—
-  (a) means to use or deal with the property, in any way and by any means (for example, to acquire possession of, or a legal or an equitable interest in, transfer, pay for, sell, assign, or dispose of (including by way of gift) the property); and
-  (b) includes allowing the property to be used or dealt with, or facilitating the use of it or dealing with it.
-(6) A reference in subsection (5) to the transfer of property that is a security includes a reference to a transfer of the security by way of loan, mortgage, pledge, or bailment, whether in respect of a legal or an equitable interest.
+(5)
+(6) A reference in the definition of deal with in section 4 to the transfer of property that is a security includes a reference to a transfer of the security by way of loan, mortgage, pledge, or bailment, whether in respect of a legal or an equitable interest.
 
 **Making property, or financial or related services, available**
 
-### 10 Prohibition on making property, or financial or related services, available to terrorist and associated entities
-(1) A person commits an offence who makes available, or causes to be made available, directly or indirectly, without lawful justification or reasonable excuse, any property, or any financial or related services, either to, or for the benefit of, an entity, knowing that the entity is an entity for the time being designated under this Act as a terrorist entity or as an associated entity.
-(2) To avoid doubt, nothing in subsection (1) makes it an offence to make property or services available, or to cause property or services to be made available, either to, or for the benefit of, a movement or organisation advocating democratic government or the protection of human rights and that is not involved in any way in the carrying out of terrorist acts.
+### 10 Prohibition on making property, or financial or related services, available to designated terrorist entity
+(1) A person commits an offence who makes available, or causes to be made available, directly or indirectly, without lawful justification or reasonable excuse, any property, or any financial or related services, either to, or for the benefit of, an entity, knowing that the entity is a designated terrorist entity.
+(2)
 (3) An example of making property available with a reasonable excuse, for the purposes of subsection (1), is where the property (for example, items of food, clothing, or medicine) is made available in an act that does no more than satisfy essential human needs of (or of a dependant of) an individual designated under this Act.
 (4) Subsection (1) does not apply if the Prime Minister has, under section 11, authorised the making available of the property or services.
 (5) A person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 7 years.
@@ -191,15 +232,15 @@ This Act binds the Crown.
 
 ### 12 Recruiting members of terrorist groups
 (1) A person commits an offence who recruits another person as a member of a group or organisation, knowing that the group or organisation is—
-  (a) an entity that is for the time being designated under this Act as a terrorist entity; or
+  (a) a designated terrorist entity; or
   (b) an entity that carries out, or participates in the carrying out of, 1 or more terrorist acts.
 (2) A person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 14 years.
 
 **Participation in terrorist groups**
 
 ### 13 Participating in terrorist groups
-(1) A person commits an offence who participates in a group or organisation for the purpose stated in subsection (2), knowing that the group or organisation is—
-  (a) an entity that is for the time being designated under this Act as a terrorist entity; or
+(1) A person commits an offence who participates in a group or organisation for the purpose stated in subsection (2), knowing that or being reckless as to whether the group or organisation is—
+  (a) a designated terrorist entity; or
   (b) an entity that carries out, or participates in the carrying out of, 1 or more terrorist acts.
 (2) The purpose referred to in subsection (1) is to enhance the ability of any entity (being an entity of the kind referred to in subsection (1)(a) or (b)) to carry out, or to participate in the carrying out of, 1 or more terrorist acts.
 (3) A person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 14 years.
@@ -233,13 +274,15 @@ This Act binds the Crown.
   (a) without lawful authority, receives, possesses, uses, transfers, alters, disposes of, or disperses nuclear material, knowing it is nuclear material, and—
     (i) that causes death, injury, or disease to any person or substantial damage to property; or
     (ii) with intent to cause, or being reckless as to whether it causes death, injury, or disease to any person or substantial damage to property; or
+    (iii) that causes, or is likely to cause, substantial damage to the environment; or
   (b) commits theft, as defined in section 219 of the Crimes Act 1961, of nuclear material knowing that it was nuclear material; or
   (c) fraudulently obtains nuclear material, knowing that it was nuclear material; or
   (d) makes a demand for nuclear material by threat, or by use of force, or by any other form of intimidation with intent to steal it; or
   (e) with intent to intimidate, threatens to use nuclear material to cause—
     (i) death, injury, or disease to any person; or
     (ii) substantial damage to any property; or
-  (f) with intent to compel any person, international organisation, or State to do, or refrain from doing, any act, threatens to steal nuclear material.
+  (f) with intent to compel any person, international organisation, or State to do, or refrain from doing, any act, threatens to steal nuclear material; or
+  (g) without lawful authority, commits an act, or threatens to commit an act against a nuclear facility, or interferes with the operation of a nuclear facility with intent to cause, or being reckless as to whether it causes, death or serious injury to any person or substantial damage to property or to the environment by exposure to radiation or release of radioactive substances.
 (2) A person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 10 years, or a fine not exceeding $500,000, or both.
 
 **Importation, acquisition, possession, or control of radioactive material**
@@ -247,10 +290,25 @@ This Act binds the Crown.
 ### 13D Importation, acquisition, etc, of radioactive material
 A person commits an offence and is liable on conviction on indictment to a term of imprisonment not exceeding 10 years who imports, acquires, possesses, or has control over any radioactive material with intent to use it to commit an offence involving bodily injury, or the threat of violence, to any person.
 
+**Offences involving radioactive material and radioactive devices**
+
+### 13E Offences involving radioactive material and radioactive devices
+(1) A person commits an offence who—
+  (a) makes or possesses a radioactive device or possesses radioactive material with intent to cause death or serious injury to any person or substantial damage to property or to the environment; or
+  (b) uses radioactive material or a radioactive device or uses or damages a nuclear facility in a manner that releases or risks the release of radioactive material—
+    (i) with intent to cause death or serious injury to any person or substantial damage to property or to the environment; or
+    (ii) with intent to compel any person, international organisation, or State to do, or refrain from doing an act; or
+  (c) threatens to commit an offence set out in paragraph (b); or
+  (d) unlawfully and intentionally demands radioactive material by threat, in circumstances that indicate the credibility of the threat; or
+  (e) by use of force,—
+    (i) uses or threatens to use radioactive material or a radioactive device; or
+    (ii) uses or damages or threatens to use or damage a nuclear facility.
+(2) A person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 10 years, or a fine not exceeding $500,000, or both.
+
 **Extraterritorial jurisdiction**
 
 ### 14 Offences also apply in certain cases outside New Zealand
-(1) Each of sections 7 to 13 and 13B to 13D applies in respect of acts that occurred wholly outside New Zealand, as provided in sections 15 to 18.
+(1) Each of sections 7 to 13 and 13B to 13E applies in respect of acts that occurred wholly outside New Zealand, as provided in sections 15 to 18.
 (2) Subsection (1) does not affect the application of sections 7 to 13 in respect of—to be committed in New Zealand; or
   (a) acts that occurred wholly within New Zealand; or
   (b) an offence that, under section 7 of the Crimes Act 1961, is deemed
@@ -282,7 +340,7 @@ Proceedings may also be brought in a New Zealand court for financing of terroris
   (d) in an attempt to compel the Government of New Zealand to do or abstain from doing any act.
 
 ### 18 Offences also apply to acts outside New Zealand if alleged offender is in New Zealand and is not extradited
-Even if the acts alleged to constitute the offence occurred wholly outside New Zealand, proceedings may be brought for terrorist bombing, financing of terrorism, or a nuclear material offence if the person to be charged has been found in New Zealand and has not been extradited.
+Even if the acts alleged to constitute the offence occurred wholly outside New Zealand, proceedings may be brought for terrorist bombing, financing of terrorism, a nuclear terrorism offence, or a nuclear material offence if the person to be charged has been found in New Zealand and has not been extradited.
 
 ### 19 Application of Crimes Act 1961
 The following sections of the Crimes Act 1961 do not apply in respect of any offence against this Act (except one against section 43 or section 47 or section 47G):
@@ -348,10 +406,8 @@ A designation under section 22—
   (f) must also be notified—
     (i) by a notice (in the prescribed form (if any)) indicating that it has been made being given (in the prescribed manner (if any)) with all reasonable speed to the designated entity, if practicable, where that entity or a representative of it is in New Zealand; and
     (ii) by a notice indicating that it has been made being given to any other persons or bodies, as the Prime Minister directs under section 28(2):
-  (g) expires, under section 35, 3 years after the date on which it took effect, unless it has earlier been—
-    (i) revoked, by the Prime Minister, under section 34; or
-    (ii) extended by an order of the High Court made under section 35(2), or by an application for an order of that kind having been made, but not withdrawn or finally determined:
-  (h) operates until it expires or is revoked but (and without limiting section 35(1) or section 36(1)), if it is made the subject of any judicial review (whether under Part I of the Judicature Amendment Act 1972 or otherwise) or other proceedings before a court and is not sooner revoked under section 34, continues to operate until those proceedings are withdrawn or finally determined.
+  (g)
+  (h) operates until it expires or is revoked but, if it is made the subject of any judicial review (whether under Part I of the Judicature Amendment Act 1972 or otherwise) or other proceedings before a court and is not sooner revoked under section 34, continues to operate until those proceedings are withdrawn or finally determined.
 
 **Further provisions relating to interim and final designations**
 
@@ -376,7 +432,8 @@ An entity may be designated under section 20 or section 22 whether or not any of
 A notice under section 21(d)(i) or section 23(f)(i) (to notify the designated entity of the making of the designation under section 20 or section 22)—
   (a) must state the section under which the designation is made, and whether the entity concerned is designated as a terrorist entity or as an associated entity:
   (b) may describe the entity concerned by reference to any name or names or associates or other details by which the entity may be identified:
-  (c) must state the maximum period for which the designation may have effect or, if it is made under section 22, the maximum period for which it may have effect without being extended:
+  (ba) must state that any person who deals with the entity's property may be liable to prosecution for an offence under section 9:
+  (c) must state the maximum period for which the designation may have effect or, if it is made under section 22, the maximum period for which it may have effect without being renewed under section 35:
   (d) must include general information about how it may be reviewed and revoked:
   (e) must include any other information specified for the purposes of this paragraph by regulations made under this Act.
 
@@ -387,7 +444,8 @@ A notice under section 21(d)(i) or section 23(f)(i) (to notify the designated en
 (2) The notice—
   (a) must state the section under which the designation is made, and whether the entity concerned is designated as a terrorist entity or as an associated entity:
   (b) may describe the entity concerned by reference to any name or names or associates or other details by which the entity may be identified:
-  (c) must state the maximum period for which the designation may have effect or, if it is made under section 22, the maximum period for which it may have effect without being extended:
+  (ba) must state that any person who deals with the entity's property may be liable to prosecution for an offence under section 9:
+  (c) must state the maximum period for which the designation may have effect or, if it is made under section 22, the maximum period for which it may have effect without being renewed under section 35:
   (d) must include any other information specified for the purposes of this paragraph by regulations made under this Act:
   (e) may include details of all earlier designations under this Act that have not yet expired or been revoked, so as to provide details of all entities currently designated under this Act.
 
@@ -416,15 +474,7 @@ No designation under section 20 or section 22 is invalid just because—
 In considering whether to make or to revoke a designation under section 20 or section 22 or section 34, the Prime Minister may take into account any relevant information, including classified security information.
 
 ### 31 United Nations Security Council information
-(1) Information to which this section applies is, in the absence of evidence to the contrary, sufficient evidence of the matters to which it relates.
-(2) This section applies to information that is available to the Prime Minister and that indicates that the United Nations Security Council acting under Chapter VII of the Charter of the United Nations, or a Committee established by that Council and acting pursuant to a resolution made under that Chapter, considers that an entity is—
-  (a) an entity that has carried out, or has participated in the carrying out of, 1 or more terrorist acts; or
-  (b) an entity that is facilitating the carrying out of 1 or more terrorist acts by, or with the participation of, another entity; or
-  (c) an entity that is acting on behalf of, or at the direction of, an entity of the kind referred to in paragraph (a) or paragraph (b); or
-  (d) an entity (other than an individual) that is wholly owned or effectively controlled, directly or indirectly, by an entity of a kind referred to in paragraph (a) or paragraph (b) or paragraph (c).
-(3) Information must be treated as if it were information of the kind referred to in subsection (2) if the information is available to the Prime Minister and indicates that an entity is—
-  (a) an entity designated, by or under 1 or more resolutions of the Security Council relating to Afghanistan, as an entity associated with Usama bin Laden, and against whom a sanction specified in those resolutions, and of the kind given effect to by this Act, is to be imposed; or
-  (b) an entity designated, by or under 1 or more resolutions of the Security Council relating to Afghanistan, as an entity owned or controlled (directly or indirectly) by, or associated with, the Taliban, and against whom a sanction specified in those resolutions, and of the kind given effect to by this Act, is to be imposed.
+[Repealed]
 
 ### 32 Classified security information defined
 (1) In this Act, classified security information means information—
@@ -462,74 +512,48 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
 (4) However, the Prime Minister may not refuse an application to revoke a designation under section 20 or section 22 without having first consulted with the Attorney-General about the proposed refusal.
 (5) Except as provided in subsection (4), subsection (1) overrides every other provision of this Act.
 
-### 35 Designations under section 22 to expire after 3 years unless extended by order of High Court
+### 35 Designations under section 22 to expire after 3 years unless renewed by Prime Minister
 (1) A designation under section 22 expires 3 years after the date on which it takes effect, unless it is earlier—
-  (a) revoked; or
-  (b) extended by an order under subsection (2); or
-  (c) made the subject of an application for an order under subsection (2), in which case (and without limiting section 36(1)) the designation continues to operate until the application is withdrawn or finally determined.
-(2) The High Court may, on an application for the purpose by the Attorney-General, order that a designation made under section 22 remain in force for 3 years after the making of the order.
-(3) On an application for the purpose by the Attorney-General before the expiry of an order under subsection (2), the High Court may make another order under subsection (2) extending the designation concerned for a further 3 years.
-(4) The Attorney-General may make 2 or more applications under subsection (3), and the Court may make 2 or more orders under subsection (2), in respect of the same designation.
-(5) An application under subsection (2) or subsection (3) must be served (in any manner, and within any time, the Court may direct) on such persons as the Court may specify.
+  (a) revoked under section 34; or
+  (b) renewed by an order under subsection (2) or (3).
+(2) The Prime Minister may order that a designation made under section 22 remain in force for a further 3 years after the making of the order if the Prime Minister is satisfied that there are still reasonable grounds as set out in section 22 for an entity to be designated under that section.
+(3) Before the expiry of an order under subsection (2), the Prime Minister may make another order renewing the designation concerned for a further 3 years.
+(4) After making an order under subsection (2) or (3), the Prime Minister must report to the Intelligence and Security Committee on the renewal of the designation.
+(5) The Prime Minister may make any number of orders under subsection (3) in respect of the same designation.
 
 ### 36 Applications under section 35 and related proceedings
-(1) Despite section 35(1) to (3) if, before the determination of an application under section 35(2) or (3) in respect of a designation, the designation is or becomes the subject of any judicial review (whether under Part I of the Judicature Amendment Act 1972 or otherwise) or other proceedings before a court,—
-  (a) the High Court must determine the application (if it continues to be necessary to do so) after those proceedings are withdrawn or finally determined; and
-  (b) if not found in the proceedings to be or to have been invalid, the designation continues to operate until the High Court has determined the application.
-(2) If, on making an application under section 35(2) or (3), the Attorney-General knows that there is in New Zealand specific property that is owned or controlled, directly or indirectly, by the entity who is the subject of the designation concerned, or property derived or generated from any property of that kind,—
-  (a) the Attorney-General may also make an application for an order under section 55 in respect of that property; and
-  (b) the High Court must hear and determine the 2 applications together, unless it is impracticable to do so.
+[Repealed]
 
 ### 37 Grounds for orders under section 35(2)
-The High Court must not make an order under section 35(2) unless the Attorney-General satisfies the Court on the balance of probabilities that the entity who is the subject of the designation concerned—
-  (a) is the subject of criminal proceedings in a national or international court or tribunal (within or outside New Zealand), for an offence relating—
-    (i) to carrying out, or to participating in the carrying out of, 1 or more terrorist acts; or
-    (ii) to facilitating the carrying out of 1 or more terrorist acts by, or with the participation of, another entity; or
-    (iii) to acting on behalf of, or at the direction of, another entity that has done, or is doing, what is referred to in subparagraph (i) or subparagraph (ii); or
-  (b) has been convicted in criminal proceedings in a national or international court or tribunal (whether within or outside New Zealand), being proceedings not subject to any appeal and that are finally determined, of an offence relating—
-    (i) to carrying out, or to participating in the carrying out of, 1 or more terrorist acts; or
-    (ii) to facilitating the carrying out of 1 or more terrorist acts by, or with the participation of, another entity; or
-    (iii) to acting on behalf of, or at the direction of, another entity that has done, or is doing, what is referred to in subparagraph (i) or subparagraph (ii); or
-  (c) either—
-    (i) has knowingly carried out, or knowingly participated in the carrying out of, 1 or more terrorist acts; or
-    (ii) is knowingly facilitating the carrying out of 1 or more terrorist acts by, or with the participation of, another entity; or
-    (iii) is acting on behalf of, or at the direction of, another entity, knowing that the other entity has done, or is doing, what is referred to in subparagraph (i) or subparagraph (ii); or
-  (d) is an entity (other than an individual) that is wholly owned, or effectively controlled, directly or indirectly, by an entity that has done, or is doing, what is referred to in paragraph (c)(i) or (ii) or (iii).
+[Repealed]
 
-### 38 Procedure on applications (and on appeals from decisions) under section 35 or section 55
-(1) On or before determining an application under section 35 or section 55, the High Court may give any directions and make any orders that it thinks appropriate in the circumstances of the case.
-(2) The Court must determine whether to grant the application on the basis of information available to it (whether or not that information has been disclosed to or responded to by all parties to the proceedings).
-(3) If information presented or proposed to be presented in support of the application includes classified security information,—
-  (a) the proceedings must be heard and determined by the Chief High Court Judge, or by 1 or more Judges nominated by the Chief High Court Judge, or both; and
-  (b) the Court must, on a request for the purpose by the Attorney-General and if satisfied that it is desirable to do so for the protection of (either all or part of) the classified security information, receive or hear (the part or all of) the classified security information in the absence of—
+### 38 Procedure in proceedings involving classified security information
+(1) This section applies to any proceedings in a court arising out of, or relating to, the making of a designation under this Act.
+(2) The Court must determine the proceedings on the basis of information available to it (whether or not that information has been disclosed to or responded to by all parties to the proceedings).
+(3) If information presented, or proposed to be presented, by the Crown includes classified security information,—
+  (a) except where proceedings are before the Court of Appeal, the proceedings must be heard and determined by the Chief High Court Judge, or by 1 or more Judges nominated by the Chief High Court Judge, or both; and
+  (b) the Court must, on a request for the purpose by the Attorney-General and if satisfied that it is desirable to do so for the protection of (either all or part of) the classified security information, receive or hear (the relevant part or all of) the classified security information in the absence of—
     (i) the designated entity concerned; and
     (ii) all barristers or solicitors (if any) representing that entity; and
     (iii) members of the public.
-(4) Without limiting subsection (3), if the designated entity concerned participates in proceedings relating to an application under section 35 or section 55,—
+(4) Without limiting subsection (3), if the designated entity concerned participates in proceedings,—
   (a) the Court must approve a summary of the information of the kind referred to in section 32(2) that is presented by the Attorney-General except to the extent that a summary of any particular part of the information would itself involve disclosure that would be likely to prejudice the interests referred to in section 32(3); and
-  (b) on being approved by the Court (with or without amendments directed by the Court in accordance with paragraph (a)), a copy of the statement must be given to the entity concerned.
-(5) The procedure specified in subsections (2), (3)(b), and (4) applies with all necessary modifications to an appeal under section 41 or section 58.
-(6) Nothing in this section or in section 39 limits section 27 of the Crown Proceedings Act 1950 or any rule of law that authorises or requires the withholding of a document or the refusal to answer a question on the ground that the disclosure of the document or the answering of the question would be injurious to the public interest.
-(7) Subsections (2) to (6) and section 39(3) and (4) apply despite any enactment or rule of law to the contrary.
+  (b) on being approved by the Court a copy of the statement must be given to the entity concerned.
+(5) Nothing in this section limits section 27 of the Crown Proceedings Act 1950 or any rule of law that authorises or requires the withholding of a document or the refusal to answer a question on the ground that the disclosure of the document or the answering of the question would be injurious to the public interest.
+(6) Subsections (2) to (5) apply despite any enactment or rule of law to the contrary.
 
 ### 39 Procedure in other cases involving classified security information
-(1) This section applies to any proceedings in a court (except for an appeal under section 41 or section 58)—
-  (a) arising out of, or relating to, the making of a designation under this Act; and
-  (b) in which the Crown is a defendant or respondent.
-(2) On or before determining the proceedings, the Court may give any directions and make any orders that it thinks appropriate in the circumstances of the case.
-(3) If information presented or proposed to be presented by the Crown includes classified security information, then section 38(3) (but not also section 38(4)) applies with all necessary modifications to the proceedings as if the proceedings were an application to the High Court under section 35 or section 55. However, if the proceedings are before the Court of Appeal, section 38(3)(a) does not apply.
-(4) In determining the proceedings, the Court may take into account any relevant classified security information available to it, even though that information has not been disclosed to or responded to by other parties to the proceedings.
+[Repealed]
 
 ### 40 Ancillary general practices and procedures to protect classified security information
-(1) Any general practices and procedures that may be necessary to implement the procedures specified in sections 38 and 39 and to ensure that classified security information is protected in all proceedings to which those sections relate must be agreed between the Chief Justice and the Attorney-General as soon as practicable after the commencement of this section, and revised from time to time.
+(1) Any general practices and procedures that may be necessary to implement the procedures specified in section 38 and to ensure that classified security information is protected in all proceedings to which that section relates must be agreed between the Chief Justice and the Attorney-General as soon as practicable after the commencement of this section, and revised from time to time.
 (2) Without limiting the generality of subsection (1), general practices and procedures may be agreed under that subsection on the following matters:
-  (a) measures relating to the physical protection of the information during all proceedings to which sections 38 and 39 relate:
+  (a) measures relating to the physical protection of the information during all proceedings to which section 38 relates:
   (b) the manner in which the information may be provided to the Court:
   (c) measures to preserve the integrity of the information until any appeals are withdrawn or finally determined.
 
 ### 41 Appeal against decision on application under section 35
-(1) A party to an application under section 35 may appeal to the Court of Appeal against the decision of the High Court.
-(2) Subject to sections 38 to 40, the procedure for the appeal must be in accordance with rules of Court.
+[Repealed]
 
 ### 42 Notification of revocation, expiry, or invalidity of designations
 (1) If a designation under this Act expires or is revoked or is found to be or to have been invalid, under section 34 or section 35 or by virtue of any judicial review (whether under Part I of the Judicature Amendment Act 1972 or otherwise) or other proceedings before a court, the Prime Minister must—
@@ -539,9 +563,9 @@ The High Court must not make an order under section 35(2) unless the Attorney-Ge
 
 **Duty to report suspicions relating to property**
 
-### 43 Suspicions that property owned or controlled by designated entities, etc, to be reported
+### 43 Suspicions that property owned or controlled by designated terrorist entities to be reported
 (1) This section applies to—
-  (a) property owned or controlled, directly or indirectly, by an entity designated under this Act as a terrorist or associated entity; and
+  (a) property owned or controlled, directly or indirectly, by a designated terrorist entity; and
   (b) property derived or generated from any property of the kind specified in paragraph (a).
 (2) A financial institution or other person in possession or immediate control of property that the financial institution or other person suspects on reasonable grounds is or may be property to which this section applies must, as soon as practicable after forming that suspicion, report it to the Commissioner of Police, in accordance with section 44.
 (3) Nothing in subsection (2) requires any lawyer to disclose any privileged communication (as defined in section 45).
@@ -607,10 +631,10 @@ The High Court must not make an order under section 35(2) unless the Attorney-Ge
     (ii) are being, or have been, imported into New Zealand; and
   (c) he or she has good cause to suspect—
     (i) that the goods are property of any kind owned or controlled, directly or indirectly, by an entity; and
-    (ii) that the entity is an entity designated under section 20 or section 22 of this Act as a terrorist or associated entity; or
+    (ii) that the entity is a designated terrorist entity; or
   (d) he or she has good cause to suspect—
     (i) that the goods are cash or cash equivalents owned or controlled, directly or indirectly, by an entity; and
-    (ii) that the entity is an entity eligible for designation under section 20 or section 22 of this Act as a terrorist or associated entity.
+    (ii) that the entity is an entity that carries out, or participates in the carrying out of, 1 or more terrorist acts.
 (2) In this section and sections 47B to 47G,—
   - **authorised person** , , , or , , , and have the meanings given to them in section 2(1) of the Customs and Excise Act 1996
   - **cash equivalents** includes (without limitation) bearer bonds, gemstones, money orders, postal notes, precious metals, and travellers cheques.
@@ -646,7 +670,7 @@ The High Court must not make an order under section 35(2) unless the Attorney-Ge
   (b) the expiry of the investigation period.
 (3) However, the Customs need not return the goods as provided in subsection (2), and may continue to detain them pending a direction by the Prime Minister under section 48 that the Official Assignee take custody and control of them, if the Customs is advised by, or on behalf of, the Prime Minister—
   (a) that the goods are property of any kind owned or controlled, directly or indirectly, by an entity; and
-  (b) that the entity is an entity designated under section 20 or section 22 as a terrorist or associated entity.
+  (b) that the entity is a designated terrorist entity.
 
 ### 47E Extension of 7-day period in section 47D(1)(a)
 (1) The 7-day period in section 47D(1)(a) may be extended (once only) by order of the High Court for a reasonable period up to a further 14 days if, on an application for the purpose made before the expiry of that 7-day period, that Court is satisfied—
@@ -679,7 +703,7 @@ The High Court must not make an order under section 35(2) unless the Attorney-Ge
 **Management of property subject to section 9**
 
 ### 48 Direction that Official Assignee take control of property
-(1) The Prime Minister may, if satisfied that it is desirable to do so, direct the Official Assignee to take custody and control of property in New Zealand, if an entity is subject to a designation under section 22 and the Prime Minister believes on reasonable grounds that the property is—
+(1) The Prime Minister may, if satisfied that it is desirable to do so, direct the Official Assignee to take custody and control of property in New Zealand, if an entity is subject to a designation under section 22 or is a United Nations listed terrorist entity and the Prime Minister believes on reasonable grounds that the property is—
   (a) property owned or controlled, directly or indirectly, by the entity; or
   (b) property derived or generated from property of the kind referred to in paragraph (a).
 (2) The direction—
@@ -703,6 +727,7 @@ The High Court must not make an order under section 35(2) unless the Attorney-Ge
 (2) The powers given by subsection (1)(a) and (b) are exercisable at any time after the making of the direction, and either on the Prime Minister's own initiative or on an application for the purpose in writing by or on behalf of the Official Assignee or a person who claims an interest in the property concerned.
 (3) If not earlier revoked, a direction under section 48 in relation to property of an entity expires—
   (a) on the entity ceasing to be subject to the designation under section 22; or
+  (ab) on the entity ceasing to be a United Nations listed terrorist entity; or
   (b) on a forfeiture order being made under section 55 in relation to the property concerned, in which case section 54 of the Proceeds of Crime Act 1991 (as modified and applied by section 57(c) of this Act) applies.
 
 ### 51 Further provisions on management of property subject to section 9
@@ -744,21 +769,17 @@ The following sections of the Proceeds of Crime Act 1991 apply, with the followi
     (i) directing the Crown to transfer the interest to the applicant; or
     (ii) declaring that there is payable by the Crown to the applicant an amount equal to the value of the interest declared by the Court.
 (3) The Court may, if it thinks fit, refuse to make an order under subsection (2), because it is satisfied that—
-  (a) the applicant was knowingly involved in any way in the carrying out of the terrorist acts that are the basis of the designation of the entity concerned, or is wholly owned or effectively controlled, directly or indirectly, by that entity; or
-  (b) if the applicant acquired the interest at the time of or after the designation of the entity concerned, the applicant did not acquire the interest in the property in good faith and for value, without knowing or having reason to believe that the property was, at the time of the acquisition, property subject to the prohibition in section 9.
+  (a) the applicant was knowingly involved in any way in the carrying out of the terrorist acts that are the basis of the designation of the entity as a designated terrorist entity, or is wholly owned or effectively controlled, directly or indirectly, by that entity; or
+  (b) if the applicant acquired the interest at the time of or after the designation of the entity as a designated terrorist entity, the applicant did not acquire the interest in the property in good faith and for value, without knowing or having reason to believe that the property was, at the time of the acquisition, property subject to the prohibition in section 9.
 (4) However, nothing in subsection (3) requires a refusal to make an order under subsection (2), or limits the circumstances in which the Court may refuse to make an order of that kind.
 
 **Forfeiture**
 
 ### 55 Forfeiture of property by order of High Court
 (1) The High Court may, on an application by the Attorney-General for the purpose, order that specified property is forfeited to the Crown if it is in New Zealand and is—
-  (a) property owned or controlled, directly or indirectly, by an entity who is the subject of a designation under section 22; or
+  (a) property owned or controlled, directly or indirectly, by an entity who is the subject of a designation under section 22 or is a United Nations listed terrorist entity; or
   (b) property derived or generated from property of the kind referred to in paragraph (a).
-(2) However, an order of that kind may only be made if—
-  (a) the Court is satisfied that—
-    (i) an order has been made under section 35(2) extending the designation concerned; and
-    (ii) that order was made on a ground stated in section 37(b) or (c) or (d); and
-  (b) the Court considers it appropriate that the specified property not remain subject to the prohibition in section 9, but instead be forfeited to the Crown.
+(2) However, an order of that kind may only be made if the Court considers it appropriate that the specified property not remain subject to the prohibition in section 9, but be forfeited to the Crown.
 (3) In considering whether to make an order under this section in respect of particular property, the Court may have regard to—
   (a) any undue hardship that is reasonably likely to be caused to any person by the operation of such an order:
   (b) the nature and extent of the entity's interest in the property, and the nature and extent of other interests in it (if any).
@@ -783,17 +804,17 @@ The following sections of the Proceeds of Crime Act 1991 apply, with the followi
 
 ### 58 Appeal against decision on application under section 55
 (1) A party to an application under section 55 may appeal to the Court of Appeal against the decision of the High Court.
-(2) Subject to sections 38 to 40, the procedure for the appeal must be in accordance with rules of Court.
+(2) Subject to sections 38 and 40, the procedure for the appeal must be in accordance with rules of Court.
 (3) For the avoidance of doubt, an appeal under subsection (1) is a civil proceeding for the purposes of the Supreme Court Act 2003.
 
-### 59 Discharge of order under section 55 on appeal or by quashing of related order under section 35(2)
-(1) If the High Court makes an order under section 55 against property in respect of an entity the subject of an order under section 35(2), and the order under section 35(2) is later quashed on appeal, the quashing of that order operates to discharge the order under section 55.
-(2) The revocation, under section 34, of a designation that has been extended by an order made under section 35(2), does not discharge any order made under section 55 against property of the entity who was the subject of the designation.
-(3) If an order under section 55 in respect of any property is discharged as provided in subsection (1) or by a Court hearing an appeal, under section 58, against the making of the order, the Attorney-General must,—
+### 59 Discharge of order under section 55 on appeal
+(1)
+(2) The revocation, under section 34, of a designation that has been renewed by an order made under section 35(2), does not discharge any order made under section 55 against property of the entity who was the subject of the designation.
+(3) If an order under section 55 in respect of any property is discharged by a Court hearing an appeal, under section 58, against the making of the order, the Attorney-General must,—
   (a) as soon as practicable after the discharge of the order, serve notice of the discharge of the order under section 55 (in any manner, and within any time, the Court may direct) on any person who the Attorney-General has reason to believe may have had an interest in the property immediately before the making of the order; and
   (b) if required to do so by a Court, serve notice of the discharge of the order under section 55 (in any manner, and within any time, the Court may direct) on such persons as the Court may specify.
 (4) Every notice under subsection (3) must include a statement that a person claiming an interest in the property may apply under subsection (5) for the transfer of the interest to that person.
-(5) If an order under section 55 is discharged in either of the ways referred to in subsection (3), any person claiming an interest in the property immediately before the making of the order may apply to the Attorney-General, in writing, for the transfer of the interest to that person.
+(5) If an order under section 55 is discharged, any person claiming an interest in the property immediately before the making of the order may apply to the Attorney-General, in writing, for the transfer of the interest to that person.
 (6) If the Attorney-General is satisfied that any claim made under subsection (5) in respect of any interest in property is valid, the Attorney-General must,—
   (a) if the interest is still vested in the Crown, arrange for the interest to be transferred to the claimant; or
   (b) in any other case, and subject to section 60, arrange for payment to the claimant of an amount equal to the value of the interest.
@@ -815,23 +836,23 @@ If, on an application made under section 52(3) in respect of any interest in any
 **Evidence that States are, or are not, Parties to Conventions**
 
 ### 62 Certificates as to States Parties under Conventions
-A certificate that appears to be signed by, or on behalf of, the Secretary of Foreign Affairs and Trade, and that states that a State is, or is not, a State Party under the Bombings Convention, the Financing Convention, the Nuclear Material Convention, or the Plastic Explosives Convention, is sufficient evidence of that matter unless the contrary is proved (for example, by the production of another certificate issued after the first certificate).
+A certificate that appears to be signed by, or on behalf of, the Secretary of Foreign Affairs and Trade, and that states that a State is, or is not, a State Party under the Bombings Convention, the Financing Convention, the Nuclear Material Convention, the Nuclear Terrorism Convention, or the Plastic Explosives Convention, is sufficient evidence of that matter unless the contrary is proved (for example, by the production of another certificate issued after the first certificate).
 
 **Investigation and prosecution of offences against Act or referred to in Conventions**
 
 ### 63 Application of sections 64 and 65
-(1) Sections 64 and 65 apply whenever the Attorney-General receives information that there may be present in New Zealand a person who has committed, or is alleged to have committed, an offence referred to in article 2 of the Bombings Convention or, as the case requires, article 2 of the Financing Convention or, as the case requires, article 7 of the Nuclear Material Convention.
+(1) Sections 64 and 65 apply whenever the Attorney-General receives information that there may be present in New Zealand a person who has committed, or is alleged to have committed, an offence referred to in article 2 of the Bombings Convention, or article 2 of the Financing Convention, or article 7 of the Nuclear Material Convention, or article 2 of the Nuclear Terrorism Convention, as the case requires.
 (2) In sections 64 and 65, relevant States Parties means—
-  (a) any States Parties that have established jurisdiction in accordance with article 6(1) or (2) of the Bombings Convention or, as the case requires, article 7(1) or (2) of the Financing Convention or, as the case requires, article 8 of the Nuclear Material Convention; and
+  (a) any States Parties that have established jurisdiction in accordance with article 6(1) or (2) of the Bombings Convention, or article 7(1) or (2) of the Financing Convention, or article 8 of the Nuclear Material Convention, or article 8 of the Nuclear Terrorism Convention; and
   (b) any other interested States Parties the Attorney-General considers it advisable to inform or notify.
 
 ### 64 Attorney-General to indicate to relevant States Parties whether New Zealand to exercise jurisdiction
-When an investigation has been undertaken under New Zealand law of the facts contained in the information (being the investigation contemplated by article 7(1) of the Bombings Convention or, as the case requires, article 9(1) of the Financing Convention or, as the case requires, article 9 of the Nuclear Material Convention), the Attorney-General must—
+When an investigation has been undertaken under New Zealand law of the facts contained in the information (being the investigation contemplated by article 7(1) of the Bombings Convention, or article 9(1) of the Financing Convention, or article 9 of the Nuclear Material Convention, or article 10 of the Nuclear Terrorism Convention, as the case requires, the Attorney-General must—
   (a) inform the relevant States Parties promptly of the findings of the investigation; and
   (b) indicate promptly to the relevant States Parties whether New Zealand intends to exercise jurisdiction.
 
 ### 65 Attorney-General to notify relevant States Parties if person taken into custody
-If the measures taken under New Zealand law to ensure the person's presence for the purpose of prosecution or extradition (being the measures contemplated by article 7 of the Bombings Convention or, as the case requires, article 9 of the Financing Convention or, as the case requires, article 9 of the Nuclear Material Convention) include taking the person into custody, the Attorney-General must, immediately after the person is taken into custody, notify the relevant States Parties, either directly or through the Secretary-General of the United Nations, of—
+If the measures taken under New Zealand law to ensure the person's presence for the purpose of prosecution or extradition (being the measures contemplated by article 7 of the Bombings Convention, or article 9 of the Financing Convention, or article 9 of the Nuclear Material Convention, or article 10 of the Nuclear Terrorism Convention, as the case requires) include taking the person into custody, the Attorney-General must, immediately after the person is taken into custody, notify the relevant States Parties, either directly or through the Secretary-General of the United Nations, of—
   (a) the fact that the person is in custody; and
   (b) the circumstances that justify the person's detention.
 
@@ -859,25 +880,22 @@ If a person is prosecuted for terrorist bombing or financing of terrorism, the A
 **Extradition**
 
 ### 69 Offences deemed to be included in extradition treaties
-(1) For the purposes of the Extradition Act 1999 and any Order in Council in force under section 15 or section 104 of that Act, terrorist bombing, financing of terrorism, and any nuclear material offence are each, if not already described in the treaty, deemed to be an offence described in any extradition treaty concluded before the relevant date and for the time being in force between New Zealand and any country that is a party to any of the following conventions, or to which any of the following conventions extends:
+(1) For the purposes of the Extradition Act 1999 and any Order in Council in force under section 15 or section 104 of that Act, terrorist bombing, financing of terrorism, and any nuclear material offence or nuclear terrorism offence are each, if not already described in the treaty, deemed to be an offence described in any extradition treaty concluded before the relevant date and for the time being in force between New Zealand and any country that is a party to any of the following conventions, or to which any of the following conventions extends:
   (a) the Bombings Convention; or
   (b) the Financing Convention; or
-  (c) the Nuclear Material Convention.
+  (c) the Nuclear Material Convention, or
+  (d) the Nuclear Terrorism Convention.
 (2) If under subsection (1) an offence is deemed to be an offence described in an extradition treaty, no person may be surrendered for the offence in accordance with the Extradition Act 1999 if the conduct alleged to constitute the offence occurred before the relevant date.
-(3) Subsection (2) does not prevent the person from being surrendered for an offence (other than terrorist bombing, financing of terrorism, or a nuclear material offence) described in the extradition treaty and constituted by conduct that also constitutes or may constitute terrorist bombing, financing of terrorism, or a nuclear material offence.
+(3) Subsection (2) does not prevent the person from being surrendered for an offence (other than terrorist bombing, financing of terrorism, a nuclear material offence, or a nuclear terrorism offence) described in the extradition treaty and constituted by conduct that also constitutes or may constitute terrorist bombing, financing of terrorism, a nuclear material offence, or a nuclear terrorism offence.
 (4) In this section, relevant date,—
   (a) in relation to terrorist bombing or financing of terrorism, means 5 December 2002; and
-  (b) in relation to a nuclear material offence, the date on which this section enters into force in relation to that offence.
+  (b) in relation to a nuclear material offence, the date on which this section enters into force in relation to that offence; and
+  (c) in relation to a nuclear terrorism offence, the date on which this section enters into force in relation to that offence.
 
 **Review of provisions to implement Anti-terrorism Resolution**
 
 ### 70 Review of operation of certain provisions of this Act
-(1) This section applies to the provisions of this Act that are to implement New Zealand's obligations under the Anti-terrorism Resolution (the provisions).
-(2) The House of Representatives must, as soon as practicable after 1 December 2004, refer to a select committee for consideration the following matters:
-  (a) the operation of the provisions since the date of the commencement of this section:
-  (b) whether the provisions should be retained or repealed:
-  (c) if they should be retained, whether any amendments to this Act (for example, amendments making provision for compensation) are necessary or desirable.
-(3) The select committee to which those matters are referred must report its view on them to the House of Representatives before 1 December 2005.
+[Repealed]
 
 **Relationship with other enactments**
 
@@ -903,9 +921,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
 (2) Regulation 20A of the United Nations Sanctions (Afghanistan) Regulations 2001 (SR 2001/26) is consequentially revoked.
 
 ### 75 Saving and transitional provision relating to specified entities
-(1) This section applies to the entities that, immediately before the commencement of this section, were specified entities for the purposes of the United Nations Sanctions (Terrorism Suppression and Afghanistan Measures) Regulations 2001.
-(2) Each of the entities must for the purposes of this Act be treated as if it were an entity that has been designated as a terrorist entity under section 22, and therefore is the subject of a designation as a terrorist entity under section 22.
-(3) The designations referred to in subsection (2) must be treated as having been in every respect validly made and notified, and as having taken effect on the commencement of this section, but may be revoked by the Prime Minister under section 34(1).
+[Repealed]
 
 **Amendment to Extradition Act 1999**
 
@@ -935,13 +951,13 @@ The Schedule of the Mutual Assistance in Criminal Matters Act 1992 is amended by
 
 ### 81 Amendment to Proceeds of Crime Act 1991
 Section 2(1) of the Proceeds of Crime Act 1991 is amended by repealing the definition of tainted property, and substituting the following definition:
-  - **tainted property** ,—
+  - **tainted property** ,—in relation to a foreign serious offence that, if committed within the jurisdiction of New Zealand, would correspond to an offence against section 8(1) of the Terrorism Suppression Act 2002, includes funds (as so defined) allocated for the purpose of committing that foreign serious offence.
     (a) in relation to a serious offence, means—
       (i) property used to commit, or to facilitate the commission of, the offence; or
       (ii) proceeds of the offence; and
     (b) when used without reference to a particular offence, means tainted property in relation to any serious offence; and
     (c) in relation to a serious offence that is an offence against section 8(1) of the Terrorism Suppression Act 2002, includes funds (as defined in section 4(1) of that Act) allocated for the purpose of committing that serious offence; and
-    (d) in relation to a foreign serious offence that, if committed within the jurisdiction of New Zealand, would correspond to an offence against section 8(1) of the Terrorism Suppression Act 2002, includes funds (as so defined) allocated for the purpose of committing that foreign serious offence.
+    (d)
 
 ## Schedule 1
 
@@ -1283,18 +1299,46 @@ Protocol for the Suppression of Unlawful Acts against the Safety of Fixed Platfo
 ### 9
 International Convention for the Suppression of Terrorist Bombings, adopted by the General Assembly of the United Nations on 15 December 1997.
 
-## Schedule 2A — Convention on the Physical Protection of Nuclear Material
+## Schedule 2A — CONVENTION ON THE PHYSICAL PROTECTION OF NUCLEAR MATERIAL AND NUCLEAR FACILITIES
 
 ### ARTICLE 1
 For the purposes of this Convention:
 (a) nuclear material means plutonium except that with isotopic concentration exceeding 80% in plutonium-238; uranium-233; uranium enriched in the isotopes 235 or 233; uranium containing the mixture of isotopes as occurring in nature other than in the form of ore or ore-residue; any material containing one or more of the foregoing;
 (b) uranium enriched in the isotope 235 or 233 means uranium containing the isotopes 235 or 233 or both in an amount such that the abundance ratio of the sum of these isotopes to the isotope 238 is greater than the ratio of the isotope 235 to the isotope 238 occurring in nature;
-(c) international nuclear transport means the carriage of a consignment of nuclear material by any means of transportation intended to go beyond the territory of the State where the shipment originates beginning with the departure from a facility of the shipper in that State and ending with the arrival at a facility of the receiver within the State of ultimate destination.
+(c) international nuclear transport means the carriage of a consignment of nuclear material by any means of transportation intended to go beyond the territory of the State where the shipment originates beginning with the departure from a facility of the shipper in that State and ending with the arrival at a facility of the receiver within the State of ultimate destination,
+(d)
+  - **** nuclear facility means a facility (including associated buildings and equipment) in which nuclear material is produced, processed, used, handled, stored or disposed of, if damage to or interference with such facility could lead to the release of significant amounts of radiation or radioactive material;
+(e)
+  - **** sabotage means any deliberate act directed against a nuclear facility or nuclear material in use, storage or transport which could directly or indirectly endanger the health and safety of personnel, the public or the environment by exposure to radiation or release of radioactive substances.
+
+### Article 1A
+The purposes of this Convention are to achieve and maintain worldwide effective physical protection of nuclear material used for peaceful purposes and of nuclear facilities used for peaceful purposes; to prevent and combat offences relating to such material and facilities worldwide; as well as to facilitate co-operation among States Parties to those ends.
 
 ### ARTICLE 2
-(1) This Convention shall apply to nuclear material used for peaceful purposes while in international nuclear transport.
-(2) With the exception of articles 3 and 4 and paragraph 3 of article 5, this Convention shall also apply to nuclear material used for peaceful purposes while in domestic use, storage and transport.
-(3) Apart from the commitments expressly undertaken by States Parties in the articles covered by paragraph 2 with respect to nuclear material used for peaceful purposes while in domestic use, storage and transport, nothing in this Convention shall be interpreted as affecting the sovereign rights of a State regarding the domestic use, storage and transport of such nuclear material.
+(1) This Convention shall apply to nuclear material used for peaceful purposes in use, storage and transport and to nuclear facilities used for peaceful purposes, provided, however, that articles 3 and 4 and paragraph 4 of article 5 of this Convention shall only apply to such nuclear material while in international nuclear transport.
+(2) The responsibility for the establishment, implementation and maintenance of a physical protection regime within a State Party rests entirely with that State.
+(3) Apart from the commitments expressly undertaken by States Parties under this Convention, nothing in this Convention shall be interpreted as affecting the sovereign rights of a State.
+(4.)
+  (a) Nothing in this Convention shall affect other rights, obligations and responsibilities of States Parties under international law, in particular the purposes and principles of the Charter of the United Nations and international humanitarian law.
+  (b) The activities of armed forces during an armed conflict, as those terms are understood under international humanitarian law, which are governed by that law, are not governed by this Convention, and the activities undertaken by the military forces of a State in the exercise of their official duties, inasmuch as they are governed by other rules of international law, are not governed by this Convention.
+  (c) Nothing in this Convention shall be construed as a lawful authorization to use or threaten to use force against nuclear material or nuclear facilities used for peaceful purposes.
+  (d) Nothing in this Convention condones or makes lawful otherwise unlawful acts, nor precludes prosecution under other laws.
+(5.) This Convention shall not apply to nuclear material used or retained for military purposes or to a nuclear facility containing such material.
+
+### Article 2A
+  (1.) Each State Party shall establish, implement and maintain an appropriate physical protection regime applicable to nuclear material and nuclear facilities under its jurisdiction, with the aim of:
+    (a) protecting against theft and other unlawful taking of nuclear material in use, storage and transport;
+    (b) ensuring the implementation of rapid and comprehensive measures to locate and, where appropriate, recover missing or stolen nuclear material; when the material is located outside its territory, that State Party shall act in accordance with article 5;
+    (c) protecting nuclear material and nuclear facilities against sabotage; and
+    (d) mitigating or minimizing the radiological consequences of sabotage.
+  (2.) In implementing paragraph 1, each State Party shall:
+    (a) establish and maintain a legislative and regulatory framework to govern physical protection;
+    (b) establish or designate a competent authority or authorities responsible for the implementation of the legislative and regulatory framework; and
+    (c) take other appropriate measures necessary for the physical protection of nuclear material and nuclear facilities.
+  (3.) In implementing the obligations under paragraphs 1 and 2, each State Party shall, without prejudice to any other provisions of this Convention, apply insofar as is reasonable and practicable the following Fundamental Principles of Physical Protection of Nuclear Material and Nuclear Facilities.Fundamental Principle A: Responsibility of the StateThe responsibility for the establishment, implementation and maintenance of a physical protection regime within a State rests entirely with that State.Fundamental Principle B: Responsibilities During International TransportThe responsibility of a State for ensuring that nuclear material is adequately protected extends to the international transport thereof, until that responsibility is properly transferred to another State, as appropriate.Fundamental Principle C: Legislative and Regulatory FrameworkThe State is responsible for establishing and maintaining a legislative and regulatory framework to govern physical protection. This framework should provide for the establishment of applicable physical protection requirements and include a system of evaluation and licensing or other procedures to grant authorization. This framework should include a system of inspection of nuclear facilities and transport to verify compliance with applicable requirements and conditions of the license or other authorizing document, and to establish a means to enforce applicable requirements and conditions, including effective sanctions.Fundamental Principle D: Competent AuthorityThe State should establish or designate a competent authority which is responsible for the implementation of the legislative and regulatory framework, and is provided with adequate authority, competence and financial and human resources to fulfill its assigned responsibilities. The State should take steps to ensure an effective independence between the functions of the State's competent authority and those of any other body in charge of the promotion or utilization of nuclear energy.Fundamental Principle E: Responsibility of the License HoldersThe responsibilities for implementing the various elements of physical protection within a State should be clearly identified. The State should ensure that the prime responsibility for the implementation of physical protection of nuclear material or of nuclear facilities rests with the holders of the relevant licenses or of other authorizing documents (e.g., operators or shippers).Fundamental Principle F: Security CultureAll organizations involved in implementing physical protection should give due priority to the security culture, to its development and maintenance necessary to ensure its effective implementation in the entire organization.Fundamental Principle G: ThreatThe State's physical protection should be based on the State's current evaluation of the threat.Fundamental Principle H: Graded ApproachPhysical protection requirements should be based on a graded approach, taking into account the current evaluation of the threat, the relative attractiveness, the nature of the material and potential consequences associated with the unauthorized removal of nuclear material and with the sabotage against nuclear material or nuclear facilities.Fundamental Principle I: Defence in DepthThe State's requirements for physical protection should reflect a concept of several layers and methods of protection (structural or other technical, personnel and organizational) that have to be overcome or circumvented by an adversary in order to achieve his objectives.Fundamental Principle J: Quality AssuranceA quality assurance policy and quality assurance programmes should be established and implemented with a view to providing confidence that specified requirements for all activities important to physical protection are satisfied.Fundamental Principle K: Contingency PlansContingency (emergency) plans to respond to unauthorized removal of nuclear material or sabotage of nuclear facilities or nuclear material, or attempts thereof, should be prepared and appropriately exercised by all license holders and authorities concerned.Fundamental Principle L: ConfidentialityThe State should establish requirements for protecting the confidentiality of information, the unauthorized disclosure of which could compromise the physical protection of nuclear material and nuclear facilities.
+  (4.)
+    (a) The provisions of this article shall not apply to any nuclear material which the State Party reasonably decides does not need to be subject to the physical protection regime established pursuant to paragraph 1, taking into account the nature of the material, its quantity and relative attractiveness and the potential radiological and other consequences associated with any unauthorized act directed against it and the current evaluation of the threat against it.
+    (b) Nuclear material which is not subject to the provisions of this article pursuant to subparagraph (a) should be protected in accordance with prudent management practice.
 
 ### ARTICLE 3
 Each State Party shall take appropriate steps within the framework of its national law and consistent with international law to ensure as far as practicable that, during international nuclear transport, nuclear material within its territory, or on board a ship or aircraft under its jurisdiction insofar as such ship or aircraft is engaged in the transport to or from that State, is protected at the levels described in Annex I.
@@ -1309,30 +1353,42 @@ Each State Party shall take appropriate steps within the framework of its nation
 (7) Nothing in this article shall be interpreted as in any way affecting the territorial sovereignty and jurisdiction of a State, including that over its airspace and territorial sea.
 
 ### ARTICLE 5
-(1) States Parties shall identify and make known to each other directly or through the International Atomic Energy Agency their central authority and point of contact having responsibility for physical protection of nuclear material and for coordinating recovery and response operations in the event of any unauthorized removal, use or alteration of nuclear material or in the event of credible threat thereof.
-(2) (2). In the case of theft, robbery or any other unlawful taking of nuclear material or of credible threat thereof, States Parties shall, in accordance with their national law, provide co-operation and assistance to the maximum feasible extent in the recovery and protection of such material to any State that so requests. In particular:The means of implementation of this co-operation shall be determined by the States Parties concerned.
-  (a) each State Party shall take appropriate steps to inform as soon as possible other States, which appear to it to be concerned, of any theft, robbery or other unlawful taking of nuclear material or credible threat thereof and to inform, where appropriate, international organizations:
-  (b) as appropriate, the States Parties concerned shall exchange information with each other or international organizations with a view to protecting threatened nuclear material, verifying the integrity of the shipping container, or recovering unlawfully taken nuclear material and shall:
-    (i) co-ordinate their efforts through diplomatic and other agreed channels:
+(1.) States Parties shall identify and make known to each other directly or through the International Atomic Energy Agency their point of contact in relation to matters within the scope of this Convention.
+(2.) In the case of theft, robbery or any other unlawful taking of nuclear material or credible threat thereof, States Parties shall, in accordance with their national law, provide co-operation and assistance to the maximum feasible extent in the recovery and protection of such material to any State that so requests. In particular:The means of implementation of this co-operation shall be determined by the States Parties concerned.
+  (a) a State Party shall take appropriate steps to inform as soon as possible other States, which appear to it to be concerned, of any theft, robbery or other unlawful taking of nuclear material or credible threat thereof, and to inform, where appropriate, the International Atomic Energy Agency and other relevant international organizations;
+  (b) in doing so, as appropriate, the States Parties concerned shall exchange information with each other, the International Atomic Energy Agency and other relevant international organizations with a view to protecting threatened nuclear material, verifying the integrity of the shipping container or recovering unlawfully taken nuclear material and shall:
+    (i) co-ordinate their efforts through diplomatic and other agreed channels;
     (ii) render assistance, if requested;
-    (iii) ensure the return of nuclear material stolen or missing as a consequence of the above-mentioned events.
-(3) States Parties shall co-operate and consult as appropriate, with each other directly or through international organizations, with a view to obtaining guidance on the design, maintenance and improvement of systems of physical protection of nuclear material in international transport.
+    (iii) ensure the return of recovered nuclear material stolen or missing as a consequence of the above-mentioned events.
+(3.) In the case of a credible threat of sabotage of nuclear material or a nuclear facility or in the case of sabotage thereof, States Parties shall, to the maximum feasible extent, in accordance with their national law and consistent with their relevant obligations under international law, cooperate as follows:
+  (a) if a State Party has knowledge of a credible threat of sabotage of nuclear material or a nuclear facility in another State, the former shall decide on appropriate steps to be taken in order to inform that State as soon as possible and, where appropriate, the International Atomic Energy Agency and other relevant international organizations of that threat, with a view to preventing the sabotage;
+  (b) in the case of sabotage of nuclear material or a nuclear facility in a State Party and if in its view other States are likely to be radiologically affected, the former, without prejudice to its other obligations under international law, shall take appropriate steps to inform as soon as possible the State or the States which are likely to be radiologically affected and to inform, where appropriate, the International Atomic Energy Agency and other relevant international organizations, with a view to minimizing or mitigating the radiological consequences thereof;
+  (c) if in the context of sub-paragraphs (a) and (b), a State Party requests assistance, each State Party to which a request for assistance is directed shall promptly decide and notify the requesting State Party, directly or through the International Atomic Energy Agency, whether it is in a position to render the assistance requested and the scope and terms of the assistance that may be rendered;
+  (d) co-ordination of the co-operation under subparagraphs (a) to (c) shall be through diplomatic or other agreed channels. The means of implementation of this cooperation shall be determined bilaterally or multilaterally by the States Parties concerned.
+(4.) States Parties shall co-operate and consult, as appropriate, with each other directly or through the International Atomic Energy Agency and other relevant international organizations, with a view to obtaining guidance on the design, maintenance and improvement of systems of physical protection of nuclear material in international transport.
+(5.) A State Party may consult and co-operate, as appropriate, with other States Parties directly or through the International Atomic Energy Agency and other relevant international organizations, with a view to obtaining their guidance on the design, maintenance and improvement of its national system of physical protection of nuclear material in domestic use, storage and transport and of nuclear facilities.
 
 ### ARTICLE 6
-(1) States Parties shall take appropriate measures consistent with their national law to protect the confidentiality of any information which they receive in confidence by virtue of the provisions of this Convention from another State Party or through participation in an activity carried out for the implementation of this Convention. If States Parties provide information to international organizations in confidence, steps shall be taken to ensure that the confidentiality of such information is protected.
-(2) States Parties shall not be required by this Convention to provide any information which they are not permitted to communicate pursuant to national law or which would jeopardize the security of the State concerned or the physical protection of nuclear material.
+(1.) States Parties shall take appropriate measures consistent with their national law to protect the confidentiality of any information which they receive in confidence by virtue of the provisions of this Convention from another State Party or through participation in an activity carried out for the implementation of this Convention. If States Parties provide information to international organizations or to States that are not parties to this Convention in confidence, steps shall be taken to ensure that the confidentiality of such information is protected. A State Party that has received information in confidence from another State Party may provide this information to third parties only with the consent of that other State Party.
+(2.) States Parties shall not be required by this Convention to provide any information which they are not permitted to communicate pursuant to national law or which would jeopardize the security of the State concerned or the physical protection of nuclear material or nuclear facilities.
 
 ### ARTICLE 7
-(1) The intentional commission of:shall be made a punishable offence by each State Party under its national law.
-  (a) an act without lawful authority which constitutes the receipt, possession, use, transfer, alteration, disposal or dispersal of nuclear material and which causes or is likely to cause death or serious injury to any person or substantial damage to property;
+(1.) The intentional commission of:shall be made a punishable offence by each State Party under its national law.
+  (a) an act without lawful authority which constitutes the receipt, possession, use, transfer, alteration, disposal or dispersal of nuclear material and which causes or is likely to cause death or serious injury to any person or substantial damage to property or to the environment;
   (b) a theft or robbery of nuclear material;
   (c) an embezzlement or fraudulent obtaining of nuclear material;
-  (d) an act constituting a demand for nuclear material by threat or use of force or by any other form of intimidation;
-  (e) a threat:
-    (i) to use nuclear material to cause death or serious injury to any person or substantial property damage, or
-    (ii) to commit an offence described in subparagraph (b) in order to compel a natural or legal person, international organization or State to do or to refrain from doing any act;
-  (f) an attempt to commit any offence described in paragraphs (a), (b) or (c); and
-  (g) an act which constitutes participation in any offence described in paragraphs (a) to (f)—
+  (d) an act which constitutes the carrying, sending, or moving of nuclear material into or out of a State without lawful authority;
+  (e) an act directed against a nuclear facility, or an act interfering with the operation of a nuclear facility, where the offender intentionally causes, or where he knows that the act is likely to cause, death or serious injury to any person or substantial damage to property or to the environment by exposure to radiation or release of radioactive substances, unless the act is undertaken in conformity with the national law of the State Party in the territory of which the nuclear facility is situated;
+  (f) an act constituting a demand for nuclear material by threat or use of force or by any other form of intimidation;
+  (g) a threat:
+    (i) to use nuclear material to cause death or serious injury to any person or substantial damage to property or to the environment or to commit the offence described in subparagraph (e), or
+    (ii) to commit an offence described in subparagraphs (b) and (e) in order to compel a natural or legal person, international organization or State to do or to refrain from doing any act;
+  (h) an attempt to commit any offence described in sub-paragraphs (a) to (e);
+  (i) an act which constitutes participation in any offence described in sub-paragraphs (a) to (h);
+  (j) an act of any person who organizes or directs others to commit an offence described in sub-paragraphs (a) to (h); and
+  (k) an act which contributes to the commission of any offence described in sub-paragraphs (a) to (h) by a group of persons acting with a common purpose; such act shall be intentional and shall either:
+    (i) be made with the aim of furthering the criminal activity or criminal purpose of the group, where such activity or purpose involves the commission of an offence described in sub-paragraphs (a) to (g), or
+    (ii) be made in the knowledge of the intention of the group to commit an offence described in sub-paragraphs (a) to (g)
 (2) Each State Party shall make the offences described in this article punishable by appropriate penalties which take into account their grave nature.
 
 ### ARTICLE 8
@@ -1355,6 +1411,12 @@ The State Party in whose territory the alleged offender is present shall, if it 
 (3) States Parties which do not make extradition conditional on the existence of a treaty shall recognize those offences as extraditable offences between themselves subject to the conditions provided by the law of the requested State.
 (4) Each of the offences shall be treated, for the purpose of extradition between States Parties, as if it had been committed not only in the place in which it occurred but also in the territories of the States Parties required to establish their jurisdiction in accordance with paragraph 1 of article 8.
 
+### Article 11A
+None of the offences set forth in article 7 shall be regarded for the purposes of extradition or mutual legal assistance, as a political offence or as an offence connected with a political offence or as an offence inspired by political motives. Accordingly, a request for extradition or for mutual legal assistance based on such an offence may not be refused on the sole ground that it concerns a political offence or an offence connected with a political offence or an offence inspired by political motives.
+
+### Article 11B
+Nothing in this Convention shall be interpreted as imposing an obligation to extradite or to afford mutual legal assistance, if the requested State Party has substantial grounds for believing that the request for extradition for offences set forth in article 7 or for mutual legal assistance with respect to such offences has been made for the purpose of prosecuting or punishing a person on account of that person's race, religion, nationality, ethnic origin or political opinion or that compliance with the request would cause prejudice to that person's position for any of these reasons.
+
 ### ARTICLE 12
 Any person regarding whom proceedings are being carried out in connection with any of the offences set forth in article 7 shall be guaranteed fair treatment at all stages of the proceedings.
 
@@ -1362,17 +1424,20 @@ Any person regarding whom proceedings are being carried out in connection with a
 (1) States Parties shall afford one another the greatest measure of assistance in connection with criminal proceedings brought in respect of the offences set forth in article 7, including the supply of evidence at their disposal necessary for the proceedings. The law of the State requested shall apply in all cases.
 (2) The provisions of paragraph 1 shall not affect obligations under any other treaty, bilateral or multilateral, which governs or will govern, in whole or in part, mutual assistance in criminal matters.
 
+### Article 13A
+Nothing in this Convention shall affect the transfer of nuclear technology for peaceful purposes that is undertaken to strengthen the physical protection of nuclear material and nuclear facilities.
+
 ### ARTICLE 14
-(1) (1). Each State Party shall inform the depositary of its laws and regulations which give effect to this Convention. The depositary shall communicate such information periodically to all States Parties.
-(2) (2). The State Party where an alleged offender is prosecuted shall, wherever practicable, first communicate the final outcome of the proceedings to the States directly concerned. The State Party shall also communicate the final outcome to the depositary who shall inform all States.
-(3) (3). Where an offence involves nuclear material used for peaceful purposes in domestic use, storage or transport, and both the alleged offender and the nuclear material remain in the territory of the State Party in which the offence was committed, nothing in this Convention shall be interpreted as requiring that State Party to provide information concerning criminal proceeding arising out of such an offence.
+(1) Each State Party shall inform the depositary of its laws and regulations which give effect to this Convention. The depositary shall communicate such information periodically to all States Parties.
+(2) The State Party where an alleged offender is prosecuted shall, wherever practicable, first communicate the final outcome of the proceedings to the States directly concerned. The State Party shall also communicate the final outcome to the depositary who shall inform all States.
+(3.) Where an offence involves nuclear material in domestic use, storage or transport, and both the alleged offender and the nuclear material remain in the territory of the State Party in which the offence was committed, or where an offence involves a nuclear facility and the alleged offender remains in the territory of the State Party in which the offence was committed, nothing in this Convention shall be interpreted as requiring that State Party to provide information concerning criminal proceedings arising out of such an offence.
 
 ### ARTICLE 15
 The Annexes constitute an integral part of this Convention
 
 ### ARTICLE 16
-(1) A conference of States Parties shall be convened by the depositary five years after the entry into force of this Convention to review the implementation of the Convention and its adequacy as concerns the preamble, the whole of the operative part and the annexes in the light of the then prevailing situation.
-(2) At intervals of not less than five years thereafter, the majority of States Parties may obtain, by submitting a proposal to this effect to the depositary, the convening of further conferences with the same objective.
+(1.) A conference of States Parties shall be convened by the depositary five years after the entry into force of the Amendment adopted on 8 July 2005 to review the implementation of this Convention and its adequacy as concerns the preamble, the whole of the operative part and the annexes in the light of the then prevailing situation.
+(2.) At intervals of not less than five years thereafter, the majority of States Parties may obtain, by submitting a proposal to this effect to the depositary, the convening of further conferences with the same objective.
 
 ### ARTICLE 17
 (1) In the event of a dispute between two or more States Parties concerning the interpretation or application of this Convention, such States Parties shall consult with a view to the settlement of the dispute by negotiation, or by any other peaceful means of settling disputes acceptable to all parties to the dispute.
@@ -1517,6 +1582,181 @@ The Depositary shall promptly notify all signatories and States Parties of:
 | para-Mononitrololuene (p-MNT) | C7H7NO2 | 137 | 0.5% by mass |
 | ortho-Mononitrolouene (o-MNT) | C7H7NO2 | 137 | 0.5% by mass |
 
+## Schedule 2C — Nuclear Terrorism Convention
+
+### Article 1
+For the purposes of this Convention:
+  (1.) Radioactive material means nuclear material and other radioactive substances which contain nuclides which undergo spontaneous disintegration (a process accompanied by emission of one or more types of ionizing radiation, such as alpha-, beta-, neutron particles and gamma rays) and which may, owing to their radiological or fissile properties, cause death, serious bodily injury or substantial damage to property or to the environment.
+  (2.) Nuclear material means plutonium, except that with isotopic concentration exceeding 80 per cent in plutonium-238; uranium-233; uranium enriched in the isotope 235 or 233; uranium containing the mixture of isotopes as occurring in nature other than in the form of ore or ore residue; or any material containing one or more of the foregoing;Whereby uranium enriched in the isotope 235 or 233 means uranium containing the isotope 235 or 233 or both in an amount such that the abundance ratio of the sum of these isotopes to the isotope 238 is greater than the ratio of the isotope 235 to the isotope 238 occurring in nature.
+  (3.) Nuclear facility means:
+    (a) Any nuclear reactor, including reactors installed on vessels, vehicles, aircraft or space objects for use as an energy source in order to propel such vessels, vehicles, aircraft or space objects or for any other purpose;
+    (b) Any plant or conveyance being used for the production, storage, processing or transport of radioactive material.
+  (4.) Device means:
+    (a) Any nuclear explosive device; or
+    (b) Any radioactive material dispersal or radiation-emitting device which may, owing to its radiological properties, cause death, serious bodily injury or substantial damage to property or to the environment.
+  (5.) State or government facility includes any permanent or temporary facility or conveyance that is used or occupied by representatives of a State, members of a Government, the legislature or the judiciary or by officials or employees of a State or any other public authority or entity or by employees or officials of an intergovernmental organization in connection with their official duties.
+  (6.) Military forces of a State means the armed forces of a State which are organized, trained and equipped under its internal law for the primary purpose of national defence or security and persons acting in support of those armed forces who are under their formal command, control and responsibility.
+
+### Article 2
+  (1.) Any person commits an offence within the meaning of this Convention if that person unlawfully and intentionally:
+    (a) Possesses radioactive material or makes or possesses a device:
+      (i) With the intent to cause death or serious bodily injury; or
+      (ii) With the intent to cause substantial damage to property or to the environment;
+    (b) Uses in any way radioactive material or a device, or uses or damages a nuclear facility in a manner which releases or risks the release of radioactive material:
+      (i) With the intent to cause death or serious bodily injury; or
+      (ii) With the intent to cause substantial damage to property or to the environment; or
+      (iii) With the intent to compel a natural or legal person, an international organization or a State to do or refrain from doing an act.
+  (2.) Any person also commits an offence if that person:
+    (a) Threatens, under circumstances which indicate the credibility of the threat, to commit an offence as set forth in paragraph 1 (b) of the present article; or
+    (b) Demands unlawfully and intentionally radioactive material, a device or a nuclear facility by threat, under circumstances which indicate the credibility of the threat, or by use of force.
+  (3.) Any person also commits an offence if that person attempts to commit an offence as set forth in paragraph 1 of the present article.
+  (4.) Any person also commits an offence if that person:
+    (a) Participates as an accomplice in an offence as set forth in paragraph 1, 2 or 3 of the present article; or
+    (b) Organizes or directs others to commit an offence as set forth in paragraph 1, 2 or 3 of the present article; or
+    (c) In any other way contributes to the commission of one or more offences as set forth in paragraph 1, 2 or 3 of the present article by a group of persons acting with a common purpose; such contribution shall be intentional and either be made with the aim of furthering the general criminal activity or purpose of the group or be made in the knowledge of the intention of the group to commit the offence or offences concerned.
+
+### Article 3
+This Convention shall not apply where the offence is committed within a single State, the alleged offender and the victims are nationals of that State, the alleged offender is found in the territory of that State and no other State has a basis under article 9, paragraph 1 or 2, to exercise jurisdiction, except that the provisions of articles 7, 12, 14, 15, 16 and 17 shall, as appropriate, apply in those cases.
+
+### Article 4
+  (1.) Nothing in this Convention shall affect other rights, obligations and responsibilities of States and individuals under international law, in particular the purposes and principles of the Charter of the United Nations and international humanitarian law.
+  (2.) The activities of armed forces during an armed conflict, as those terms are understood under international humanitarian law, which are governed by that law are not governed by this Convention, and the activities undertaken by military forces of a State in the exercise of their official duties, inasmuch as they are governed by other rules of international law, are not governed by this Convention.
+  (3.) The provisions of paragraph 2 of the present article shall not be interpreted as condoning or making lawful otherwise unlawful acts, or precluding prosecution under other laws.
+  (4.) This Convention does not address, nor can it be interpreted as addressing, in any way, the issue of the legality of the use or threat of use of nuclear weapons by States.
+
+### Article 5
+Each State Party shall adopt such measures as may be necessary:
+  (a) To establish as criminal offences under its national law the offences set forth in article 2;
+  (b) To make those offences punishable by appropriate penalties which take into account the grave nature of these offences.
+
+### Article 6
+Each State Party shall adopt such measures as may be necessary, including, where appropriate, domestic legislation, to ensure that criminal acts within the scope of this Convention, in particular where they are intended or calculated to provoke a state of terror in the general public or in a group of persons or particular persons, are under no circumstances justifiable by considerations of a political, philosophical, ideological, racial, ethnic, religious or other similar nature and are punished by penalties consistent with their grave nature.
+
+### Article 7
+  (1.) States Parties shall cooperate by:
+    (a) Taking all practicable measures, including, if necessary, adapting their national law, to prevent and counter preparations in their respective territories for the commission within or outside their territories of the offences set forth in article 2, including measures to prohibit in their territories illegal activities of persons, groups and organizations that encourage, instigate, organize, knowingly finance or knowingly provide technical assistance or information or engage in the perpetration of those offences;
+    (b) Exchanging accurate and verified information in accordance with their national law and in the manner and subject to the conditions specified herein, and coordinating administrative and other measures taken as appropriate to detect, prevent, suppress and investigate the offences set forth in article 2 and also in order to institute criminal proceedings against persons alleged to have committed those crimes. In particular, a State Party shall take appropriate measures in order to inform without delay the other States referred to in article 9 in respect of the commission of the offences set forth in article 2 as well as preparations to commit such offences about which it has learned, and also to inform, where appropriate, international organizations.
+  (2.) States Parties shall take appropriate measures consistent with their national law to protect the confidentiality of any information which they receive in confidence by virtue of the provisions of this Convention from another State Party or through participation in an activity carried out for the implementation of this Convention. If States Parties provide information to international organizations in confidence, steps shall be taken to ensure that the confidentiality of such information is protected.
+  (3.) States Parties shall not be required by this Convention to provide any information which they are not permitted to communicate pursuant to national law or which would jeopardize the security of the State concerned or the physical protection of nuclear material.
+  (4.) States Parties shall inform the Secretary-General of the United Nations of their competent authorities and liaison points responsible for sending and receiving the information referred to in the present article. The Secretary-General of the United Nations shall communicate such information regarding competent authorities and liaison points to all States Parties and the International Atomic Energy Agency. Such authorities and liaison points must be accessible on a continuous basis.
+
+### Article 8
+For purposes of preventing offences under this Convention, States Parties shall make every effort to adopt appropriate measures to ensure the protection of radioactive material, taking into account relevant recommendations and functions of the International Atomic Energy Agency.
+
+### Article 9
+  (1) Each State Party shall take such measures as may be necessary to establish its jurisdiction over the offences set forth in article 2 when:
+    (a) The offence is committed in the territory of that State; or
+    (b) The offence is committed on board a vessel flying the flag of that State or an aircraft which is registered under the laws of that State at the time the offence is committed; or
+    (c) The offence is committed by a national of that State.
+  (2.) A State Party may also establish its jurisdiction over any such offence when:
+    (a) The offence is committed against a national of that State; or
+    (b) The offence is committed against a State or government facility of that State abroad, including an embassy or other diplomatic or consular premises of that State; or
+    (c) The offence is committed by a stateless person who has his or her habitual residence in the territory of that State; or
+    (d) The offence is committed in an attempt to compel that State to do or abstain from doing any act; or
+    (e) The offence is committed on board an aircraft which is operated by the Government of that State.
+  (3.) Upon ratifying, accepting, approving or acceding to this Convention, each State Party shall notify the Secretary-General of the United Nations of the jurisdiction it has established under its national law in accordance with paragraph 2 of the present article. Should any change take place, the State Party concerned shall immediately notify the Secretary-General.
+  (4.) Each State Party shall likewise take such measures as may be necessary to establish its jurisdiction over the offences set forth in article 2 in cases where the alleged offender is present in its territory and it does not extradite that person to any of the States Parties which have established their jurisdiction in accordance with paragraph 1 or 2 of the present article.
+  (5.) This Convention does not exclude the exercise of any criminal jurisdiction established by a State Party in accordance with its national law.
+
+### Article 10
+  (1.) Upon receiving information that an offence set forth in article 2 has been committed or is being committed in the territory of a State Party or that a person who has committed or who is alleged to have committed such an offence may be present in its territory, the State Party concerned shall take such measures as may be necessary under its national law to investigate the facts contained in the information.
+  (2.) Upon being satisfied that the circumstances so warrant, the State Party in whose territory the offender or alleged offender is present shall take the appropriate measures under its national law so as to ensure that person's presence for the purpose of prosecution or extradition.
+  (3.) Any person regarding whom the measures referred to in paragraph 2 of the present article are being taken shall be entitled:
+    (a) To communicate without delay with the nearest appropriate representative of the State of which that person is a national or which is otherwise entitled to protect that person's rights or, if that person is a stateless person, the State in the territory of which that person habitually resides;
+    (b) To be visited by a representative of that State;
+    (c) To be informed of that person's rights under subparagraphs (a) and (b).
+  (4.) The rights referred to in paragraph 3 of the present article shall be exercised in conformity with the laws and regulations of the State in the territory of which the offender or alleged offender is present, subject to the provision that the said laws and regulations must enable full effect to be given to the purposes for which the rights accorded under paragraph 3 are intended.
+  (5.) The provisions of paragraphs 3 and 4 of the present article shall be without prejudice to the right of any State Party having a claim to jurisdiction in accordance with article 9, paragraph 1 (c) or 2 (c), to invite the International Committee of the Red Cross to communicate with and visit the alleged offender.
+  (6.) When a State Party, pursuant to the present article, has taken a person into custody, it shall immediately notify, directly or through the Secretary-General of the United Nations, the States Parties which have established jurisdiction in accordance with article 9, paragraphs 1 and 2, and, if it considers it advisable, any other interested States Parties, of the fact that that person is in custody and of the circumstances which warrant that person's detention. The State which makes the investigation contemplated in paragraph 1 of the present article shall promptly inform the said States Parties of its findings and shall indicate whether it intends to exercise jurisdiction.
+
+### Article 11
+  (1.) The State Party in the territory of which the alleged offender is present shall, in cases to which article 9 applies, if it does not extradite that person, be obliged, without exception whatsoever and whether or not the offence was committed in its territory, to submit the case without undue delay to its competent authorities for the purpose of prosecution, through proceedings in accordance with the laws of that State. Those authorities shall take their decision in the same manner as in the case of any other offence of a grave nature under the law of that State.
+  (2.) Whenever a State Party is permitted under its national law to extradite or otherwise surrender one of its nationals only upon the condition that the person will be returned to that State to serve the sentence imposed as a result of the trial or proceeding for which the extradition or surrender of the person was sought, and this State and the State seeking the extradition of the person agree with this option and other terms they may deem appropriate, such a conditional extradition or surrender shall be sufficient to discharge the obligation set forth in paragraph 1 of the present article.
+
+### Article 12
+Any person who is taken into custody or regarding whom any other measures are taken or proceedings are carried out pursuant to this Convention shall be guaranteed fair treatment, including enjoyment of all rights and guarantees in conformity with the law of the State in the territory of which that person is present and applicable provisions of international law, including international law of human rights.
+
+### Article 13
+  (1) The offences set forth in article 2 shall be deemed to be included as extraditable offences in any extradition treaty existing between any of the States Parties before the entry into force of this Convention. States Parties undertake to include such offences as extraditable offences in every extradition treaty to be subsequently concluded between them.
+  (2.) When a State Party which makes extradition conditional on the existence of a treaty receives a request for extradition from another State Party with which it has no extradition treaty, the requested State Party may, at its option, consider this Convention as a legal basis for extradition in respect of the offences set forth in article 2. Extradition shall be subject to the other conditions provided by the law of the requested State.
+  (3.) States Parties which do not make extradition conditional on the existence of a treaty shall recognize the offences set forth in article 2 as extraditable offences between themselves, subject to the conditions provided by the law of the requested State.
+  (4.) If necessary, the offences set forth in article 2 shall be treated, for the purposes of extradition between States Parties, as if they had been committed not only in the place in which they occurred but also in the territory of the States that have established jurisdiction in accordance with article 9, paragraphs 1 and 2.
+  (5.) The provisions of all extradition treaties and arrangements between States Parties with regard to offences set forth in article 2 shall be deemed to be modified as between States Parties to the extent that they are incompatible with this Convention.
+
+### Article 14
+  (1.) States Parties shall afford one another the greatest measure of assistance in connection with investigations or criminal or extradition proceedings brought in respect of the offences set forth in article 2, including assistance in obtaining evidence at their disposal necessary for the proceedings.
+  (2.) States Parties shall carry out their obligations under paragraph 1 of the present article in conformity with any treaties or other arrangements on mutual legal assistance that may exist between them. In the absence of such treaties or arrangements, States Parties shall afford one another assistance in accordance with their national law.
+
+### Article 15
+None of the offences set forth in article 2 shall be regarded, for the purposes of extradition or mutual legal assistance, as a political offence or as an offence connected with a political offence or as an offence inspired by political motives. Accordingly, a request for extradition or for mutual legal assistance based on such an offence may not be refused on the sole ground that it concerns a political offence or an offence connected with a political offence or an offence inspired by political motives.
+
+### Article 16
+Nothing in this Convention shall be interpreted as imposing an obligation to extradite or to afford mutual legal assistance if the requested State Party has substantial grounds for believing that the request for extradition for offences set forth in article 2 or for mutual legal assistance with respect to such offences has been made for the purpose of prosecuting or punishing a person on account of that person's race, religion, nationality, ethnic origin or political opinion or that compliance with the request would cause prejudice to that person's position for any of these reasons.
+
+### Article 17
+  (1.) A person who is being detained or is serving a sentence in the territory of one State Party whose presence in another State Party is requested for purposes of testimony, identification or otherwise providing assistance in obtaining evidence for the investigation or prosecution of offences under this Convention may be transferred if the following conditions are met:
+    (a) The person freely gives his or her informed consent; and
+    (b) The competent authorities of both States agree, subject to such conditions as those States may deem appropriate.
+  (2.) For the purposes of the present article:
+    (a) The State to which the person is transferred shall have the authority and obligation to keep the person transferred in custody, unless otherwise requested or authorized by the State from which the person was transferred;
+    (b) The State to which the person is transferred shall without delay implement its obligation to return the person to the custody of the State from which the person was transferred as agreed beforehand, or as otherwise agreed, by the competent authorities of both States;
+    (c) The State to which the person is transferred shall not require the State from which the person was transferred to initiate extradition proceedings for the return of the person;
+    (d) The person transferred shall receive credit for service of the sentence being served in the State from which he or she was transferred for time spent in the custody of the State to which he or she was transferred.
+  (3.) Unless the State Party from which a person is to be transferred in accordance with the present article so agrees, that person, whatever his or her nationality, shall not be prosecuted or detained or subjected to any other restriction of his or her personal liberty in the territory of the State to which that person is transferred in respect of acts or convictions anterior to his or her departure from the territory of the State from which such person was transferred.
+
+### Article 18
+  (1.) Upon seizing or otherwise taking control of radioactive material, devices or nuclear facilities, following the commission of an offence set forth in article 2, the State Party in possession of such items shall:
+    (a) Take steps to render harmless the radioactive material, device or nuclear facility;
+    (b) Ensure that any nuclear material is held in accordance with applicable International Atomic Energy Agency safeguards; and
+    (c) Have regard to physical protection recommendations and health and safety standards published by the International Atomic Energy Agency.
+  (2.) Upon the completion of any proceedings connected with an offence set forth in article 2, or sooner if required by international law, any radioactive material, device or nuclear facility shall be returned, after consultations (in particular, regarding modalities of return and storage) with the States Parties concerned to the State Party to which it belongs, to the State Party of which the natural or legal person owning such radioactive material, device or facility is a national or resident, or to the State Party from whose territory it was stolen or otherwise unlawfully obtained.
+  (3.)
+    (a) Where a State Party is prohibited by national or international law from returning or accepting such radioactive material, device or nuclear facility or where the States Parties concerned so agree, subject to paragraph 3(b) of the present article, the State Party in possession of the radioactive material, devices or nuclear facilities shall continue to take the steps described in paragraph 1 of the present article; such radioactive material, devices or nuclear facilities shall be used only for peaceful purposes;
+    (b) Where it is not lawful for the State Party in possession of the radioactive material, devices or nuclear facilities to possess them, that State shall ensure that they are placed as soon as possible in the possession of a State for which such possession is lawful and which, where appropriate, has provided assurances consistent with the requirements of paragraph 1 of the present article in consultation with that State, for the purpose of rendering it harmless; such radioactive material, devices or nuclear facilities shall be used only for peaceful purposes.
+  (4.) If the radioactive material, devices or nuclear facilities referred to in paragraphs 1 and 2 of the present article do not belong to any of the States Parties or to a national or resident of a State Party or was not stolen or otherwise unlawfully obtained from the territory of a State Party, or if no State is willing to receive such items pursuant to paragraph 3 of the present article, a separate decision concerning its disposition shall, subject to paragraph 3 (b) of the present article, be taken after consultations between the States concerned and any relevant international organizations.
+  (5.) For the purposes of paragraphs 1, 2, 3 and 4 of the present article, the State Party in possession of the radioactive material, device or nuclear facility may request the assistance and cooperation of other States Parties, in particular the States Parties concerned, and any relevant international organizations, in particular the International Atomic Energy Agency. States Parties and the relevant international organizations are encouraged to provide assistance pursuant to this paragraph to the maximum extent possible.
+  (6.) The States Parties involved in the disposition or retention of the radioactive material, device or nuclear facility pursuant to the present article shall info' in the Director General of the International Atomic Energy Agency of the manner in which such an item was disposed of or retained. The Director General of the International Atomic Energy Agency shall transmit the information to the other States Parties.
+  (7.) In the event of any dissemination in connection with an offence set forth in article 2, nothing in the present article shall affect in any way the rules of international law governing liability for nuclear damage, or other rules of international law.
+
+### Article 19
+The State Party where the alleged offender is prosecuted shall, in accordance with its national law or applicable procedures, communicate the final outcome of the proceedings to the Secretary-General of the United Nations, who shall transmit the information to the other States Parties.
+
+### Article 20
+States Parties shall conduct consultations with one another directly or through the Secretary-General of the United Nations, with the assistance of international organizations as necessary, to ensure effective implementation of this Convention.
+
+### Article 21
+The States Parties shall carry out their obligations under this Convention in a manner consistent with the principles of sovereign equality and territorial integrity of States and that of non-intervention in the domestic affairs of other States.
+
+### Article 22
+Nothing in this Convention entitles a State Party to undertake in the territory of another State Party the exercise of jurisdiction and performance of functions which are exclusively reserved for the authorities of that other State Party by its national law.
+
+### Article 23
+  (1.) Any dispute between two or more States Parties concerning the interpretation or application of this Convention which cannot be settled through negotiation within a reasonable time shall, at the request of one of them, be submitted to arbitration. If, within six months of the date of the request for arbitration, the parties are unable to agree on the organization of the arbitration, any one of those parties may refer the dispute to the International Court of Justice, by application, in conformity with the Statute of the Court.
+  (2.) Each State may, at the time of signature, ratification, acceptance or approval of this Convention or accession thereto, declare that it does not consider itself bound by paragraph 1 of the present article. The other States Parties shall not be bound by paragraph 1 with respect to any State Party which has made such a reservation.
+  (3.) Any State which has made a reservation in accordance with paragraph 2 of the present article may at any time withdraw that reservation by notification to the Secretary-General of the United Nations.
+
+### Article 24
+  (1.) This Convention shall be open for signature by all States from 14 September 2005 until 31 December 2006 at United Nations Headquarters in New York.
+  (2.) This Convention is subject to ratification, acceptance or approval. The instruments of ratification, acceptance or approval shall be deposited with the Secretary-General of the United Nations.
+  (3.) This Convention shall be open to accession by any State. The instruments of accession shall be deposited with the Secretary-General of the United Nations.
+
+### Article 25
+  (1.) This Convention shall enter into force on the thirtieth day following the date of the deposit of the twenty-second instrument of ratification, acceptance, approval or accession with the Secretary-General of the United Nations.
+  (2.) For each State ratifying, accepting, approving or acceding to the Convention after the deposit of the twenty-second instrument of ratification, acceptance, approval or accession, the Convention shall enter into force on the thirtieth day after deposit by such State of its instrument of ratification, acceptance, approval or accession.
+
+### Article 26
+  (1.) A State Party may propose an amendment to this Convention. The proposed amendment shall be submitted to the depositary, who circulates it immediately to all States Parties.
+  (2.) If the majority of the States Parties request the depositary to convene a conference to consider the proposed amendments, the depositary shall invite all States Parties to attend such a conference to begin no sooner than three months after the invitations are issued.
+  (3.) The conference shall make every effort to ensure amendments are adopted by consensus. Should this not be possible, amendments shall be adopted by a two-thirds majority of all States Parties. Any amendment adopted at the conference shall be promptly circulated by the depositary to all States Parties.
+  (4.) The amendment adopted pursuant to paragraph 3 of the present article shall enter into force for each State Party that deposits its instrument of ratification, acceptance, accession or approval of the amendment on the thirtieth day after the date on which two thirds of the States Parties have deposited their relevant instrument. Thereafter, the amendment shall enter into force for any State Party on the thirtieth day after the date on which that State deposits its relevant instrument.
+
+### Article 27
+  (1.) Any State Party may denounce this Convention by written notification to the Secretary-General of the United Nations.
+  (2.) Denunciation shall take effect one year following the date on which notification is received by the Secretary-General of the United Nations.
+
+### Article 28
+The original of this Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations, who shall send certified copies thereof to all States.
+
 ## Schedule 3 — Specified terrorism conventions
 
 ### 1
@@ -1545,6 +1785,9 @@ International Convention for the Suppression of Terrorist Bombings, adopted by t
 
 ### 9
 Convention on the Physical Protection of Nuclear Material, done at New York and Vienna, 3 March 1980.
+
+### 10
+Convention for the Suppression of Acts of Nuclear Terrorism, adopted by the General Assembly of the United Nations at New York on 13 April 2005.
 
 ## Schedule 4 — United Nations Security Council Resolution 1373 (2001)
 
@@ -1593,10 +1836,16 @@ Expresses its determination to take all necessary steps in order to ensure the f
 ### 9
 Decides to remain seized of this matter.
 
+## Schedule 4A — United Nations Security Council Resolution 1267 (1999)
+
+## Schedule 4B — United Nations Security Council Resolution 1333 (2000)
+
+## Schedule 4C — United Nations Security Council Resolution 1390 (2002)
+
 ## Schedule 5 — Details to be included in suspicious property reports
 
 ### 1
-The name, and (if available) the last known address, of the designated entity concerned.
+The name, and (if available) the last known address, of the designated terrorist entity concerned.
 
 ### 2
 For property that came into the possession or immediate control of a financial institution through a transaction conducted or proposed to be conducted through the financial institution and involving a facility with the financial institution:
@@ -1622,3 +1871,15 @@ For other property in the possession or immediate control of a financial institu
 
 ### 4
 If the report is made in relation to property controlled or possessed by a financial institution, the name, position, and phone and fax number of the person authorised by the financial institution to prepare and submit the report. In all other cases, the name, position (if relevant), and phone and fax numbers of the person who prepared the report.
+
+### 1 Title
+This Act is the Terrorism Suppression Amendment Act 2007.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 1 — Amendments to principal Act
+
+### 39 Transitional provision relating to entity designated under section 20 or 22
+(1) Every designation of an entity under section 20 or 22 of the principal Act before the commencement of this Act is deemed to be revoked under section 34 of the principal Act.
+(2) Amendment incorporated in the principal Act
