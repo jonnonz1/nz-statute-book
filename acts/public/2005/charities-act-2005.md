@@ -1,5 +1,5 @@
 # Charities Act 2005
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-11-20_
 
 ### 1 Title
 This Act is the Charities Act 2005.
@@ -173,8 +173,8 @@ This section establishes the Charities Commission.
   (b) the ruling has ceased to apply because of section 91G of the Tax Administration Act 1994; or
   (c) the ruling has otherwise ceased to apply to the entity.
 (5) Despite subsections (1) to (3), an entity does not qualify for registration as a charitable entity if—
-  (a) the entity is designated under section 20 or section 22 of the Terrorism Suppression Act 2002 as a terrorist entity or an associated entity; or
-  (b) the entity has been convicted of any offence under sections 7 to 13D of the Terrorism Suppression Act 2002.
+  (a) the entity is a designated terrorist entity as defined in section 4(1) of the Terrorism Suppression Act 2002; or
+  (b) the entity has been convicted of any offence under sections 6A to 13E of the Terrorism Suppression Act 2002.
 
 ### 14 Commission may act on basis of reasonable assumptions in relation to charitable trusts
 (1) A trust is not prevented from being of a kind referred to in section 13(1)(a) merely because the trustees of the trust have not yet derived an amount of income in trust for charitable purposes if, in the opinion of the Commission,—
