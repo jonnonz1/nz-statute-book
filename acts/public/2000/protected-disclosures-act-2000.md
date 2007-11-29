@@ -1,5 +1,5 @@
 # Protected Disclosures Act 2000
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-11-29_
 
 ### 1 Title
 This Act is the Protected Disclosures Act 2000.
@@ -17,7 +17,7 @@ In this Act, unless the context otherwise requires,—
       (iv) the Inspector-General of Intelligence and Security:
       (v) an Ombudsman:
       (vi) the Parliamentary Commissioner for the Environment:
-      (vii) the Police Complaints Authority:
+      (vii) the Independent Police Conduct Authority:
       (viii) the Solicitor-General:
       (ix) the State Services Commissioner:
       (x) the Health and Disability Commissioner; and
