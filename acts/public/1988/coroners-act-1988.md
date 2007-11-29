@@ -1,5 +1,5 @@
 # Coroners Act 1988
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-11-29_
 
 > An Act to consolidate and amend the Coroners Act 1951
 
@@ -313,7 +313,7 @@ Subject to sections 16, 17, 38, and 40 of this Act, the coroner to whom a death 
     (i) The name, address, and occupation of the person concerned; and
     (ii) The fact that the coroner has found the death to be self-inflicted; but
   (b) Nothing in paragraph (a) of this subsection—without the authority of a coroner.
-    (i) Prevents the Police Complaints Authority from publishing under section 34(1)(b) of the Police Complaints Authority Act 1988 a report that includes any particular of the death; or
+    (i) Prevents the Independent Police Conduct Authority from publishing under section 34(1)(b) of the Independent Police Conduct Authority Act 1988 a report that includes any particular of the death; or
     (ii) Prevents the Commissioner of Police from publishing under section 34(2) of that Act an opinion or recommendation under section 27 or 28 of that Act, or any part of any such opinion or recommendation, that includes any particular of the death; or
     (iii) Prevents any person from making public a particular of the death contained in any such report, opinion, recommendation, or part of an opinion or recommendation, published under that Act,—
 
