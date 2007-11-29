@@ -1,5 +1,5 @@
 # Remuneration Authority Act 1977
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-11-29_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Remuneration Authority Act 1977.
@@ -144,7 +144,7 @@ There shall from time to time be appointed by the chief executive of the Departm
   (e) Otherwise amend Schedule 1, Schedule 2, or Schedule 4 to this Act, or revoke any such Schedule or any Part of any such Schedule, and substitute a new Schedule or a new Part, as the case may require.
 (2) Every Order in Council made under subsection (1) of this section shall have effect according to its tenor.
 
-### 14 Implementation of determinations of Commission
+### 14 Implementation of determinations
 (1) Every determination of the Authority has effect according to its tenor and, despite anything in any other enactment, an Order in Council is not required in order to fix the rates or scales of any salary or allowances that are determined by the Authority in a determination.
 (2) It is unlawful for any person to act contrary to a determination under this Act or to fail to observe the criteria or limits specified in a determination.
 
