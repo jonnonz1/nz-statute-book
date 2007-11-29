@@ -1,69 +1,69 @@
-# Police Complaints Authority Act 1988
-_Consolidation as at 2007-09-03_
+# Independent Police Conduct Authority Act 1988
+_Consolidation as at 2007-11-29_
 
-> An Act to make better provision for the investigation and resolution of complaints against the Police by establishing an independent Police Complaints Authority
+> An Act to make better provision for the investigation and resolution of complaints against the Police by establishing the Independent Police Conduct Authority
 
 ### 1 Short Title and commencement
-(1) This Act may be cited as the Police Complaints Authority Act 1988.
+(1) This Act may be cited as the Independent Police Conduct Authority Act 1988.
 (2) This Act shall come into force on a date to be fixed by the Governor-General by Order in Council.
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **Authority** means the Police Complaints Authority established under section 4 of this Act
+  - **Authority** means the Independent Police Conduct Authority established under section 4
+  - **chairperson** means the chairperson of the Authority appointed under section 5A(1).
   - **Commissioner** means the Commissioner of Police appointed under the Police Act 1958
-  - **Deputy Authority** means the person appointed as the deputy to the Police Complaints Authority under section 8 of this Act.
+  - **member** means a member of the Authority appointed under section 5(1); and includes the chairperson.
 
 ### 3 Act to bind the Crown
 This Act shall bind the Crown.
 
-## Part  — Police Complaints Authority
+## Part  — Independent Police Conduct Authority
 
-### 4 Police Complaints Authority
-(1) There shall be an authority to be known as the Police Complaints Authority.
-(2) The Authority shall be a person appointed by the Governor-General on the recommendation of the House of Representatives.
-(3) No person shall be appointed as the Authority unless that person—
-  (a) Is qualified as a barrister or solicitor of the High Court; and
-  (b) Possesses suitable legal experience for the task.
-(4) The appointment of a Judge as the Authority shall not affect the Judge's tenure of judicial office, rank, title, status, precedence, salary, annual or other allowances, or other rights or privileges as a Judge (including matters relating to superannuation) and, for all purposes, service by a Judge as the Authority shall be taken to be service as a Judge.
-(5) Subsection (2) applies despite section 28(1)(b) of the Crown Entities Act 2004.
+### 4 Independent Police Conduct Authority established
+There is an authority known as the Independent Police Conduct Authority.
 
 ### 4A Crown entity
 (1) The Authority is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(2) The Crown Entities Act 2004 applies to the Authority except to the extent that this Act expressly applies otherwise.
-(3) The person appointed as the Authority is the board for the purpose of section 10 of that Act.
-(4) The Authority is a corporation sole.
+(2) The Crown Entities Act 2004 applies to the Authority except to the extent that this Act expressly provides otherwise.
+(3) The members of the Authority are the board for the purposes of the Crown Entities Act 2004.
+(4)
 
 ### 4AB Independence
 Except as expressly provided in this or any other Act, the Authority must act independently in performing its statutory functions and duties, and exercising its statutory powers, under—
   (a) this Act; and
   (b) any other Act that expressly provides for the functions, powers, or duties of the Authority (other than the Crown Entities Act 2004).
 
-### 5 Term of office of Authority
-(1)
-(2)
-(3) The person appointed as the Authority—
-  (a) May resign the office at any time by written notice given to the Governor-General:
-  (b) Shall resign the office on attaining the age of 72 years.
-(4) Subsection (3)(a) applies despite section 44 of the Crown Entities Act 2004.
+### 5 Membership of Authority
+(1) The Authority consists of up to 5 members appointed by the Governor-General on the recommendation of the House of Representatives.
+(2) Subsection (1) applies despite section 28(1)(b) of the Crown Entities Act 2004.
 
-### 6 Power to remove or suspend Authority
-(1) Section 42 of the Crown Entities Act 2004 applies if the Authority or the Deputy Authority is a Judge.
-(2) Section 39 of the Crown Entities Act 2004 does not apply to the Authority or Deputy Authority.
-(3) Instead, the Authority or Deputy Authority may be removed for just cause by the Governor-General acting upon an address from the House of Representatives.
+### 5A Chairperson of Authority
+(1) The Governor-General, on the recommendation of the House of Representatives, must appoint 1 member as the chairperson of the Authority.
+(2) A person appointed as the chairperson of the Authority must be a Judge or a retired Judge.
+(3) Subsection (1) applies despite clause 1(2) of Schedule 5 of the Crown Entities Act 2004.
+
+### 5B Appointment of Judge as member of Authority
+(1) The appointment of a Judge as a member of the Authority does not affect his or her judicial office, rank, title, status, precedence, salary, annual or other allowances, or other rights or privileges that he or she has as a Judge, including matters relating to superannuation.
+(2) The time a Judge serves as a member of the Authority must be taken as service as a Judge.
+
+### 5C Resignation of member
+(1) A member may resign from office by written notice to the Governor-General (with a copy to the Authority) signed by the member.
+(2) The resignation is effective on receipt by the Governor-General of the notice or at any later time specified in the notice.
+(3) This section applies despite section 44 of the Crown Entities Act 2004.
+
+### 6 Power to remove or suspend members
+(1) Section 42 of the Crown Entities Act 2004 applies to any member who is a Judge.
+(2) Section 39(1) of the Crown Entities Act 2004 does not apply to any member.
+(3) Instead, any member who is not a Judge may be removed for just cause by the Governor-General acting upon an address from the House of Representatives.
 (4) Just cause has the same meaning as in section 40 of the Crown Entities Act 2004.
 
 ### 7 Filling of vacancy
-(1) Where any vacancy occurs in the office of Authority, the vacancy shall, subject to subsection (2) of this section, be filled by the appointment of a successor by the Governor-General on the recommendation of the House of Representatives.
-(2) Where—the vacancy may, at any time before the commencement of the next ensuing session of Parliament, be filled by the appointment of a successor by the Governor-General in Council.
-  (a) A vacancy occurs while Parliament is not in session, or exists at the close of a session; and
-  (b) The House of Representatives has not recommended an appointment to fill the vacancy,—
-(3) Any appointment made under subsection (2) of this section shall lapse and the office shall again become vacant unless, before the end of the 24th sitting day of the House of Representatives following the date of the appointment, the House confirms the appointment.
+(1) If a vacancy occurs in the membership of the Authority, the Governor-General, on the recommendation of the House of Representatives, may appoint a successor.
+(2) Despite subsection (1), if the vacancy exists at the close of a session, or the vacancy occurs while Parliament is not in session, and the House of Representatives has not recommended an appointment to fill the vacancy, the Governor-General in Council may appoint a successor at any time before the commencement of the next ensuing session of Parliament.
+(3) An appointment made under subsection (2) lapses, and the office again becomes vacant, unless the appointment is confirmed by the House of Representatives before the end of the 24th sitting day following the date of the appointment.
 
 ### 8 Deputy Police Complaints Authority
-(1) There may from time to time be appointed a deputy to the person appointed as the Police Complaints Authority, who, subject to the control of the Authority, shall have and may exercise all the powers, duties, and functions of the Authority under this Act (including the power of delegation conferred by section 36 of this Act).
-(2) The Deputy Authority shall be appointed in the same manner as the Authority, and sections 4 to 7 of this Act shall apply to the Deputy Authority in the same manner as they apply to the Authority.
-(3) On the occurrence from any cause of a vacancy in the office of Authority, and in case of the absence from duty of the person appointed as the Authority (from whatever cause arising), and for so long as any such vacancy or absence continues, the Deputy Authority shall have and may exercise all the powers, duties, and functions of the Authority.
-(4) The fact that the Deputy Authority exercises any power, duty, or function of the Authority shall be conclusive evidence of his or her authority to do so.
+[Repealed]
 
 ### 9 Salaries and allowances
 [Repealed]
@@ -72,7 +72,7 @@ Except as expressly provided in this or any other Act, the Authority must act in
 [Repealed]
 
 ### 11 Superannuation or retiring allowances
-For the purpose of providing a superannuation fund or retiring allowance for the Authority and the Deputy Authority, sums by way of subsidy may from time to time be paid into any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
+For the purpose of providing a superannuation fund or retiring allowance for members of the Authority, sums by way of subsidy may from time to time be paid into any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
 
 ### 11A Funds of Authority
 [Repealed]
@@ -102,10 +102,11 @@ The income of the Authority shall be exempt from income tax.
   (b) To investigate of its own motion, where it is satisfied that there are reasonable grounds to carry out an investigation in the public interest, any incident involving death or serious bodily harm notified to the Authority by the Commissioner under section 13 of this Act:
   (c) To take such action in respect of complaints, incidents, and other matters as is contemplated by this Act.
 (2) In the course of taking action in respect of any complaint the Authority may investigate any apparent misconduct or neglect of duty by a member of the Police, or any Police practice, policy, or procedure, which appears to the Authority to relate to the complaint, notwithstanding that the complaint itself does not refer to that misconduct, neglect, practice, policy, or procedure.
+(2A) The Authority may receive complaints relating to a matter specified in subsection (1)(a) that occurred before, on, or after 1 April 1989.
 (3) Nothing in subsection (1) of this section shall authorise the Authority to investigate any matter relating to the terms and conditions of service of any person as a member of the Police.
 
 ### 13 Duty of Commissioner to notify Authority of certain incidents involving death or serious bodily harm
-Where a member of the Police acting in the execution of the member's duty causes, or appears to have caused, death or serious bodily harm to any person, the Commissioner shall as soon as practicable give to the Authority a written notice setting out particulars of the incident in which the death or serious bodily harm was caused.
+Where a member of the Police acting in the execution of his or her duty causes, or appears to have caused, death or serious bodily harm to any person, the Commissioner shall as soon as practicable give to the Authority a written notice setting out particulars of the incident in which the death or serious bodily harm was caused.
 
 ### 14 Mode of complaint
 (1) A complaint may be made either orally or in writing.
@@ -114,10 +115,11 @@ Where a member of the Police acting in the execution of the member's duty causes
 (4) Any Ombudsman or Registrar or Deputy Registrar to whom a complaint is made shall forward it to the Authority as soon as practicable.
 (5) Notwithstanding any provision in any enactment, where any letter appearing to be written by or on behalf of—is addressed to the Authority, the person for the time being in charge of the place or institution where the person is in custody or is a patient shall immediately forward the letter, unopened, to the Authority.
   (a) A person in custody on a charge or after conviction of any offence; or
-  (b) A patient of any hospital within the meaning of the Mental Health Act 1969,—
+  (b) A patient of any hospital within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992,—
 
 ### 15 Duty of Commissioner to notify Authority of complaints
-The Commissioner shall notify the Authority as soon as practicable of every complaint received by the Police, other than a complaint notified to the Commissioner by the Authority.
+(1) The Commissioner shall notify the Authority of every complaint received by the Police, other than a complaint notified to the Commissioner by the Authority.
+(2) Notification must be given as soon as practicable, but no later than 5 working days after receipt of the complaint.
 
 ### 16 Duty of Authority to notify Commissioner of complaints
 The Authority shall notify the Commissioner as soon as practicable of every complaint received by it, other than a complaint notified to it by the Commissioner.
@@ -125,13 +127,15 @@ The Authority shall notify the Commissioner as soon as practicable of every comp
 ### 17 Action upon receipt of complaint
 (1) On receiving or being notified of a complaint under this Act, the Authority may do all or any of the following:
   (a) Investigate the complaint itself, whether or not the Police have commenced a Police investigation:
-  (b) Defer action until the receipt of a report from the Commissioner on a Police investigation of the complaint:
+  (ab) refer the complaint to the police for investigation by the police:
+  (b) Defer action until the receipt of a report from the Commissioner on a Police investigation of the complaint undertaken on behalf of the Authority:
   (c) Oversee a Police investigation of the complaint:
+  (ca) defer action until the receipt of a report from the Commissioner following a criminal investigation or a disciplinary investigation, or both, initiated and undertaken by the police:
   (d) Decide, in accordance with section 18 of this Act, to take no action on the complaint.
 (2) Subject to subsection (2A) of this section, the Authority shall, as soon as practicable, advise the Commissioner and the complainant of the procedure it proposes to adopt under subsection (1) of this section.
 (2A) Where—the Authority is not required to inform the complainant in accordance with subsection (2) of this section of the procedure it proposes to follow.
   (a) A complaint is made to the Police; and
-  (b) The Authority decides to adopt the procedure provided for in paragraph (a) or paragraph (b) or paragraph (c) of subsection (1) of this section; and
+  (b) The Authority decides to adopt the procedure provided for in paragraph (a) or paragraph (b) or paragraph (c) or paragraph (ca) of subsection (1) of this section; and
   (c) The Authority is satisfied that the Police will inform the complainant of the procedure to be followed,—
 (3) Where any complaint appears to the Authority to be capable of resolution by conciliation in accordance with any conciliation procedure established by or under the Police Act 1958, it may indicate that view to the Commissioner.
 
@@ -139,11 +143,11 @@ The Authority shall notify the Commissioner as soon as practicable of every comp
 (1) The Authority may in its discretion decide to take no action, or, as the case may require, no further action, on any complaint if—
   (a) The complaint relates to a matter of which the person alleged to be aggrieved has had knowledge for more than 12 months before the complaint was made; or
   (b) In the opinion of the Authority—
-    (i) The subject-matter of the complaint is trivial; or
+    (i) The subject-matter of the complaint is minor; or
     (ii) The complaint is frivolous or vexatious or is not made in good faith; or
     (iii) The person alleged to be aggrieved does not desire that action be taken or, as the case may be, continued; or
     (iv) The identity of the complainant is unknown and investigation of the complaint would thereby be substantially impeded; or
-    (v) There is in all the circumstances an adequate remedy or right of appeal, other than the right to petition the House of Representatives, which it would be reasonable for the person alleged to be aggrieved to exercise.
+    (v) there is, or was, in all the circumstances an adequate remedy or right of appeal, other than the right to petition the House of Representatives, that it would be reasonable, or would have been reasonable, for the person alleged to be aggrieved to exercise.
 (2) The Authority may decide not to take any further action on a complaint if, in the course of the investigation of the complaint by the Authority or the Police, or as a result of the Commissioner's report on a Police investigation, it appears to the Authority that, having regard to all the circumstances of the case, any further action is unnecessary or inappropriate.
 (3) In any case where the Authority decides to take no action, or no further action, on a complaint, it shall inform the complainant of that decision and the reasons for it.
 
@@ -182,8 +186,14 @@ The Authority may at any time—
 (3) Subject to section 31 of this Act,—
   (a) The Authority may hear or obtain information from such persons as it thinks fit, including, where it considers that cultural matters are a factor relevant to a complaint or investigation, information from such persons as the Authority thinks have knowledge or experience in those matters:
   (b) It shall not be necessary for the Authority to hold any hearing:
+  (ba) the Authority may, in deciding whether to hold a hearing, have regard to whether any of the following are pending or are reasonably in contemplation:
+    (i) civil, criminal, or disciplinary proceedings:
+    (ii) a coroner's inquest:
   (c) No person shall be entitled as of right to be heard by the Authority.
 (4) Subject to the provisions of this Act, the Authority may regulate its procedure in such manner as it thinks fit.
+(5) The Authority has, for the purposes of any hearing under subsection (3), the same powers as are conferred on Commissions of Inquiry by sections 4 and 4B to 9 of the Commissions of Inquiry Act 1908, with all necessary modifications.
+(6) Sections 4 and 4B to 9 of the Commissions of Inquiry Act 1908 apply to all persons involved in any capacity in a hearing under subsection (3) as if the inquiry were being conducted by a Commission under that Act.
+(7) If there is any inconsistency between a provision of this Act and a provision of the Commissions of Inquiry Act 1908 referred to in subsection (5) or (6), the provision of this Act prevails.
 
 ### 24 Powers of Authority in relation to investigations
 (1) The Authority may require any person who in its opinion is able to give information relating to any matter under investigation by the Authority to furnish such information, and to produce such documents or things in the possession or under the control of that person, as in the opinion of the Authority are relevant to the subject-matter of the investigation.
@@ -199,7 +209,7 @@ The Authority may at any time—
 (4) Except in proceedings for perjury within the meaning of the Crimes Act 1961 in respect of sworn testimony given before the Authority, or for an offence against section 37 of this Act,—
   (a) No statement made or answer given by any person in the course of any investigation by or proceedings before the Authority shall be admissible in evidence against that or any other person in any Court or in any inquiry or other proceeding; and
   (b) No evidence in respect of proceedings before the Authority shall be given against any person.
-(5) Where the attendance of any person is required by the Authority under section 24 of this Act, the person shall be entitled to the same fees, allowances, and expenses as if the person where a witness in a Court and, for the purpose,—
+(5) Where the attendance of any person is required by the Authority under section 24 of this Act, the person shall be entitled to the same fees, allowances, and expenses as if the person were a witness in a Court and, for the purpose,—
   (a) The provisions of any regulations in that behalf under the Summary Proceedings Act 1957 shall apply accordingly; and
   (b) The Authority shall have the powers of a Court under any such regulations to fix or disallow, in whole or in part, or to increase, any amounts payable under the regulations.
 
@@ -229,7 +239,7 @@ The Authority may at any time—
 (1) The Commissioner shall, as soon as reasonably practicable after receiving any recommendation of the Authority under section 27(2) or section 28(2) of this Act,—
   (a) Notify the Authority of the action (if any) proposed to be taken to give effect to the recommendation; and
   (b) Give reasons for any proposal to depart from, or not to implement, any such recommendation.
-(2) If, within a reasonable time after a recommendation is made, no action is taken which seems to the Authority to be adequate and appropriate, the Authority may, after considering any comments made by the Commissioner,—
+(2) If, within a reasonable time after a recommendation is made, no action is taken which seems to the Authority to be adequate and appropriate, the Authority must, after considering any comments made by the Commissioner,—
   (a) Send a copy of its opinion and recommendations on the matter, together with the comments of the Commissioner, to the Attorney-General and the Minister of Police; and
   (b) Where it considers it appropriate, transmit to the Attorney-General for tabling in the House of Representatives such report on the matter as it thinks fit.
 (3) The Attorney-General shall, as soon as practicable after receiving a report under subsection (2)(b) of this section, lay the report before the House of Representatives.
@@ -246,17 +256,17 @@ The Authority shall not, in any opinion or recommendation given under section 27
 ## Part  — Miscellaneous provisions
 
 ### 32 Authority and staff to maintain secrecy
-(1) The Authority, and every person holding any office or appointment under the Authority, shall maintain secrecy in respect of all matters that come to their knowledge in the exercise of their functions, and shall not communicate any such matter to any person except for the purpose of carrying out their functions under or giving effect to this Act.
+(1) The Authority, every member of the Authority, and every person holding any office or appointment under the Authority, shall maintain secrecy in respect of all matters that come to their knowledge in the exercise of their functions, and shall not communicate any such matter to any person except for the purpose of carrying out their functions under or giving effect to this Act.
 (2) Notwithstanding subsection (1) of this section, the Authority may disclose such matters as in the opinion of the Authority ought to be disclosed—other than any matter which is likely to prejudice any of the interests described in subsection (1) of section 26 of this Act, whether or not any certificate has been given under that subsection.
   (a) For the purposes of carrying out an investigation or other duty of the Authority under this Act; or
   (b) In order to establish grounds for the Authority's conclusions and recommendations,—
-(3) The Authority, and every person holding any office or appointment under the Authority, shall be deemed for the purposes of sections 105 and 105A of the Crimes Act 1961 to be officials.
+(3)
 (4) Subsection (1) applies to a person employed by Archives New Zealand (Te Rua Mahara o te Kawanatanga) or by or in a repository approved under section 26 of the Public Records Act 2005, and who has access to public records in respect of which the Authority is subject to an obligation of secrecy under this section.
 
 ### 33 Proceedings privileged
 (1) Subject to subsection (2) of this section,—
-  (a) No proceedings, civil or criminal, shall lie against the Authority, or against any person holding any office or appointment under the Authority, for anything done or reported or said by the Authority or person in the course of the exercise or intended exercise of their functions under this Act, unless it is shown that the Authority or person acted in bad faith:
-  (b) Neither the Authority, nor any person holding any office or appointment under the Authority, shall be called to give evidence in any Court, or in any proceedings of a judicial nature, in respect of anything coming to their knowledge in the exercise of their functions under this Act.
+  (a) no proceedings, whether civil or criminal, may lie against the Authority, any member of the Authority, or any person holding any office or appointment under the Authority, for anything done or said by them in the course of the exercise or intended exercise of their functions under this Act, unless it is shown that they acted in bad faith:
+  (b) the Authority, members of the Authority, and any person holding office or appointment under the Authority must not be called to give evidence in any court, or in any proceedings of a judicial nature, in respect of anything coming to their knowledge in the exercise of their functions under this Act.
 (2) Nothing in subsection (1) of this section applies in respect of proceedings for—
   (a) An offence against section 78 or section 78A(1) or section 105 or section 105A of the Crimes Act 1961; or
   (b) The offence of conspiring to commit an offence against section 78 or section 78A(1) or section 105 or section 105A of the Crimes Act 1961; or
@@ -285,9 +295,9 @@ The Authority shall not, in any opinion or recommendation given under section 27
 
 ### 37 Offences
 Every person commits an offence under this Act and is liable on summary conviction to a fine not exceeding $2,000 who,—
-  (a) Without reasonable excuse, obstructs, hinders, or resists the Authority or any other person in the exercise of their powers under this Act:
-  (b) Without reasonable excuse, refuses or fails to comply with any requirement of the Authority or any other person under this Act:
-  (c) Makes any statement or gives any information to the Authority, or to any other person exercising powers under this Act, knowing that the statement or information is false or misleading.
+  (a) Without reasonable excuse, obstructs, hinders, or resists the Authority or any person in the exercise of their powers under this Act:
+  (b) Without reasonable excuse, refuses or fails to comply with any requirement of the Authority or any person under this Act:
+  (c) Makes any statement or gives any information to the Authority, or to any person exercising powers under this Act, knowing that the statement or information is false or misleading.
 
 ### 38 Money to be appropriated by Parliament for purposes of this Act
 [Repealed]
@@ -298,11 +308,37 @@ Nothing in this Act limits the operation of Part 2 of the Crimes of Torture Act 
 ### 39 Amendments to other Acts
 [Repealed]
 
-### 40 Savings and transitional
-(1) Nothing in this Act shall apply to any complaint or matter which an Ombudsman has been requested or has commenced to investigate before the commencement of this Act, and the Ombudsman may proceed with and complete the investigation of any such complaint or matter as if this Act had not been passed.
-(2) Except where the Authority takes action on a complaint referred to in subsection (3) of this section, nothing in this Act shall apply to any complaint received by the Police before the commencement of this Act, and the Police may proceed with and complete the investigation of any such complaint as if this Act had not been passed.
-(3) Where the Authority receives or is notified of any complaint that has also been received by the Police before the commencement of this Act, it shall not take any action on the complaint (other than any preliminary inquiry to determine whether or not this subsection applies) unless—
-  (a) Subject to subsection (4) of this section, the complainant is a person who, if this Act had not been passed, could have complained to an Ombudsman in accordance with section 13(7)(d) of the Ombudsmen Act 1975, but has not so complained; or
-  (b) The Commissioner requests the Authority to investigate the complaint under section 22(2) of this Act; or
-  (c) In any other case, the Authority considers that there are exceptional circumstances that make it desirable that the Authority take action on the complaint.
-(4) The Authority shall not take any action on a complaint referred to in subsection (3)(a) of this section where it considers that, in all the circumstances, a reasonable period of time was available before the commencement of this Act during which the complainant could have complained to an Ombudsman about the final result of the Police investigation into the original complaint or any Police failure to investigate the complaint.
+**Transitional provisions**
+
+### 40 Complaints made to Police Complaints Authority
+Any complaint made to the Police Complaints Authority before the commencement of the Independent Police Conduct Authority Amendment Act 2007 that had not been finally dealt with before the commencement of that Act must be dealt with by the Authority under this Act (as amended by the Independent Police Conduct Authority Amendment Act 2007), whether or not any action was taken in relation to the complaint before the commencement of the Independent Police Conduct Authority Amendment Act 2007.
+
+### 41 Police Complaints Authority is chairperson
+(1) The person who, immediately before the commencement of the Independent Police Conduct Authority Amendment Act 2007, held office as the Police Complaints Authority under section 4(2) of this Act (as it read immediately before the commencement of the Independent Police Conduct Authority Amendment Act 2007) is taken to have been appointed to the office of chairperson of the Authority under section 5A(1) of this Act (as substituted by section 9 of the Independent Police Conduct Authority Amendment Act 2007).
+(2) The person who is taken to have been appointed as the chairperson of the Authority under this section is appointed on the same terms and conditions on which, and for the remainder of the term for which, the person was appointed under section 4(2) of this Act (as it read immediately before the commencement of the Independent Police Conduct Authority Amendment Act 2007).
+
+### 42 Deputy Police Complaints Authority is member of Authority
+(1) The person who, immediately before the commencement of the Independent Police Conduct Authority Amendment Act 2007, held office as a Deputy Police Complaints Authority under section 8 of this Act (as it read immediately before the commencement of the Independent Police Conduct Authority Amendment Act 2007) is taken to have been appointed as a member of the Authority under section 5(1) of this Act (as substituted by section 9 of the Independent Police Conduct Authority Amendment Act 2007).
+(2) The person who is taken to have been appointed as a member of the Authority under this section is appointed on the same terms and conditions on which, and for the remainder of the term for which, the person was appointed under section 8 of this Act (as it read immediately before the commencement of the Independent Police Conduct Authority Amendment Act 2007).
+
+### 43 Employees and officers transferred to Authority
+(1) Every employee or officer appointed by the Police Complaints Authority immediately before the commencement of the Independent Police Conduct Authority Amendment Act 2007 is, on and from that date, an employee or officer of the Authority on the same terms and conditions that applied to the employee or officer immediately before that date.
+(2) For the purposes of every enactment, law, contract, and agreement relating to the employment of the employee or officer,—
+  (a) the contract of employment of that employee or officer is taken to be unbroken; and
+  (b) the employee's or officer's period of service with the Police Complaints Authority and every other period of service of that employee or officer that was recognised by the Police Complaints Authority as continuous service is taken to have been a period of service with the Authority.
+(3) A person to whom subsection (1) applies is not entitled to any compensation just because the person has ceased to be an employee or officer of the Police Complaints Authority.
+
+### 44 References to Police Complaints Authority
+On the commencement of the Independent Police Conduct Authority Amendment Act 2007, unless the context otherwise requires, every reference to the Police Complaints Authority in any contract or other instrument, document, or notice must be read as a reference to the Independent Police Conduct Authority.
+
+### 45 Proceedings to which Police Complaints Authority party
+Any proceedings to which the Police Complaints Authority was a party or that the Police Complaints Authority was considering bringing before the commencement of the Independent Police Conduct Authority Amendment Act 2007 may be brought, continued, completed, and enforced by or against the Authority.
+
+### 46 Assets and liabilities vest in Authority
+On the commencement of the Independent Police Conduct Authority Amendment Act 2007, the assets and liabilities of the Police Complaints Authority vest in the Authority.
+
+### 47 Authority must arrange annual report and accounts
+The Authority must perform the reporting requirements, and comply with the reporting obligations, relating to annual financial statements, annual reports, and audits that the Police Complaints Authority would have performed and complied with under the Police Complaints Authority Act 1988, the Crown Entities Act 2004, the Public Finance Act 1989, and any other enactment.
+
+### 48 Obligations and rights concerning Commission of Inquiry into Police Conduct unchanged
+On the commencement of the Independent Police Conduct Authority Amendment Act 2007, the obligations, duties, rights, and powers of the Police Complaints Authority under the Police Complaints Authority (Commission of Inquiry into Police Conduct) Amendment Act 2004 must be performed by, may be exercised by, or apply to, the Authority.
