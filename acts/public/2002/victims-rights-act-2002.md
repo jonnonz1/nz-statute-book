@@ -1,5 +1,5 @@
 # Victims' Rights Act 2002
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2007-11-29_
 
 ### 1 Title
 This Act is the Victims' Rights Act 2002.
@@ -465,7 +465,7 @@ A victim to whom this section applies may make submissions to the Minister of Im
 (2) The victim or person may complain to—
   (a) the person who, under the relevant specified provisions, appears to be required to accord the victim or person the right:
   (b) an Ombudsman, in accordance with the Ombudsmen Act 1975, if the person who, under the relevant specified provisions, appears to be required to accord the victim or person the right, may be the subject of a complaint under that Act:
-  (c) the Police Complaints Authority, in accordance with the Police Complaints Authority Act 1988, if the person who, under the relevant specified provisions, appears to be required to accord the victim or person the right, is a member of the police:
+  (c) the Independent Police Conduct Authority, in accordance with the Independent Police Conduct Authority Act 1988, if the person who, under the relevant specified provisions, appears to be required to accord the victim or person the right, is a member of the police:
   (d) the Privacy Commissioner, in accordance with the Privacy Act 1993, if the matter involves, or may involve, an action that is, or appears to be, an interference with the privacy of the victim or person.
 
 ### 50 Other ways in which rights may be enforced
