@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-11-29_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -998,8 +998,8 @@ The address for service in respect of a statutory entity is the address of the h
 ### Subpart 3 — Miscellaneous provisions
 
 ### 131 Application of Ombudsmen Act 1975 and Official Information Act 1982
-(1) The Ombudsmen Act 1975 is amended by inserting, in Part 2 of Schedule 1, in their appropriate alphabetical order, the name of every Crown entity that is named in Schedule 1 or Schedule 2 of this Act (other than the Police Complaints Authority).
-(2) The Ombudsmen Act 1975 is further amended by inserting in Part 2 of Schedule 1, in its appropriate alphabetical order, the item Crown entities within the meaning of section 7 of the Crown Entities Act 2004 (other than the Police Complaints Authority).
+(1) The Ombudsmen Act 1975 is amended by inserting, in Part 2 of Schedule 1, in their appropriate alphabetical order, the name of every Crown entity that is named in Schedule 1 or Schedule 2 of this Act (other than the Independent Police Conduct Authority).
+(2) The Ombudsmen Act 1975 is further amended by inserting in Part 2 of Schedule 1, in its appropriate alphabetical order, the item Crown entities within the meaning of section 7 of the Crown Entities Act 2004 (other than the Independent Police Conduct Authority).
 
 ### 132 Review of Crown entity's operations and performance
 (1) A responsible Minister may review the operations and performance of a Crown entity at any time.
@@ -1631,9 +1631,9 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 | Electoral Commission |  |  |  |  |  |
 | Health and Disability Commissioner |  |  |  |  |  |
 | Human Rights Commission |  |  |  |  |  |
+| Independent Police Conduct Authority |  |  |  |  |  |
 | Law Commission |  |  |  |  |  |
 | Office of Film and Literature Classification |  |  |  |  |  |
-| Police Complaints Authority |  |  |  |  |  |
 | Privacy Commissioner |  |  |  |  |  |
 | Securities Commission |  |  |  |  |  |
 | Takeovers Panel |  |  |  |  |  |
