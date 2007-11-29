@@ -1,5 +1,5 @@
 # Crimes of Torture Act 1989
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-11-29_
 
 > An Act to make better provision for the punishment of crimes of torture, and to implement the Convention Against Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment
 
@@ -104,7 +104,7 @@ In this Part, unless the context otherwise requires,—
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **National Preventive Mechanism** means 1 or more of the following that may, for the time being, be designated under section 26 as a National Preventive Mechanism
     (a) an Ombudsman holding office under the Ombudsmen Act 1975:
-    (b) the Police Complaints Authority:
+    (b) the Independent Police Conduct Authority:
     (c) the Children's Commissioner:
     (d) visiting officers appointed in accordance with relevant Defence Force Orders issued pursuant to sections 175 and 206 of the Armed Forces Discipline Act 1971:
     (e) any other person, body or agency that is designated a National Preventive Mechanism
