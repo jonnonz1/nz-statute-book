@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2007-11-29_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -79,6 +79,7 @@ This Act is the Corrections Act 2004.
   - **firearm** has the same meaning as in section 2 of the Arms Act 1983
   - **Health and Disability Commissioner** includes any employee of the Commissioner
   - **hearing adjudicator** means a person designated as a hearing adjudicator under section 15
+  - **Independent Police Conduct Authority** includes any employee of the Authority.
   - **inspector of corrections** or means a person appointed as an inspector of corrections under section 28
   - **investigating officer** means an officer (within the meaning of section 2(1) of the Defence Act 1990) or other duly authorised person investigating a complaint under section 49 of that Act
   - **legal adviser** —
@@ -113,7 +114,7 @@ This Act is the Corrections Act 2004.
     (f) the Commissioner for Children; or
     (g) the Health and Disability Commissioner; or
     (h) the Human Rights Commission; or
-    (i) the Police Complaints Authority; or
+    (i) the Independent Police Conduct Authority; or
     (j) the Privacy Commissioner
   - **Ombudsman** includes any employee of the Office of the Ombudsmen
   - **person under control or supervision** means—
@@ -126,7 +127,6 @@ This Act is the Corrections Act 2004.
     (e) a person who is subject to conditions under the Parole Act 2002 or under section 80N or 93 of the Sentencing Act 2002
     (c) a person who is on home detention:
     (d) a person who is subject to conditions under the Parole Act 2002 or under section 93 of the Sentencing Act 2002
-  - **Police Complaints Authority** includes any employee of the Authority
   - **police jail** means a prison established or deemed to be established as a police jail under section 32(l)(b)
   - **prescribed** means prescribed by this Act or by any regulations made under this Act
   - **prison** —
@@ -1428,7 +1428,7 @@ In this section and in sections 112 to 122, unless the context otherwise require
     (iii) the Health and Disability Commissioner; or
     (iv) the Privacy Commissioner; or
     (v) a member of the Human Rights Commission continued by section 4 of the Human Rights Act 1993, or an employee of the Commission; or
-    (vi) a member of the Police Complaints Authority; or
+    (vi) a member of the Independent Police Conduct Authority; or
     (vii) the Children's Commissioner; or
     (viii) a Justice of the Peace; or
   (d) a call between a prisoner and a person acting, in his or her official capacity, on behalf of the International Criminal Court; or
