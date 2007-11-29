@@ -1,5 +1,5 @@
 # Independent Police Conduct Authority Amendment Act 2007
-_Consolidation as at 2007-11-05_
+_Consolidation as at 2007-11-29_
 
 ### 1 Title
 This Act is the Independent Police Conduct Authority Amendment Act 2007.
