@@ -1,5 +1,5 @@
 # Police Act 1958
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-11-29_
 
 > An Act to consolidate and amend the law relating to the establishment and regulation of the Police of New Zealand
 
@@ -93,7 +93,7 @@ In this Act, unless the context otherwise requires,—
   (a) sections 5, 10, 11, 13, 15, 30, 39 to 44, 51, 52, 54(1), 55, 55A, 57 to 59, 61A, 64, 76 to 79, and 96 of this Act:
   (b) section 52(1)(b) of the Electoral Act 1993:
   (c) section 8(g) of the Juries Act 1981:
-  (d) the Police Complaints Authority Act 1988:
+  (d) the Independent Police Conduct Authority Act 1988:
   (e) section 24 of the Summary Offences Act 1981.
 
 ### 7 Employment principles
