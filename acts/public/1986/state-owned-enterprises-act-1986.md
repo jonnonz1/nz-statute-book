@@ -1,5 +1,5 @@
 # State-Owned Enterprises Act 1986
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2007-11-29_
 
 > An Act to promote improved performance in respect of Government trading activities and, to this end, to—aSpecify principles governing the operation of State enterprises; andbAuthorise the formation of companies to carry on certain Government activities and control the ownership thereof; andcEstablish requirements about the accountability of State enterprises, and the responsibility of Ministers
 
