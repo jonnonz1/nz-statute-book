@@ -1,5 +1,5 @@
 # Protection of Personal and Property Rights Act 1988
-_Consolidation as at 2007-11-01_
+_Consolidation as at 2007-12-03_
 
 > An Act to provide for the protection and promotion of the personal and property rights of persons who are not fully able to manage their own affairs
 
@@ -1069,7 +1069,7 @@ The enactments specified in Schedule 4 to this Act are hereby repealed.
 Subject to the terms of the property order (or, in a case where a trustee corporation has agreed to act as manager pursuant to an application under section 32 or section 33 of this Act, to the terms of the application) a manager may—
   (a) Take possession of all of the property of the person and demand, receive, and recover possession of it from any person holding it, with further power—
     (i) To institute or defend in the manager's own name or in the name of the person subject to a property order any action, suit, or other proceeding (either civil or criminal) concerning the property of the person and to suffer judgment to go by default; or to consent to any judgment, decree, or order in the action, suit, or proceeding on such terms as the manager thinks fit:
-    (ii) To take proceedings to cause to be adjudicated a bankrupt or placed in liquidation any person or company indebted to the person subject to a property order, or to make any application for or in relation to a summary instalment order in respect of any such person under Part 16 of the Insolvency Act 1967; and to vote and act either personally or by proxy at all meetings of creditors and in all other matters relating to the bankruptcy or liquidation or summary instalment order:
+    (ii) To take proceedings to cause to be adjudicated a bankrupt or placed in liquidation any person or company indebted to the person subject to a property order, or to make any application for or in relation to a summary instalment order in respect of any such person under subpart 3 of Part 5 of the Insolvency Act 2006; and to vote and act either personally or by proxy at all meetings of creditors and in all other matters relating to the bankruptcy or liquidation or summary instalment order:
     (iii) In the name and on behalf of the person subject to a property order, to lodge a caveat under the Land Transfer Act 1952 or a notice of claim under section 42 of the Property (Relationships) Act 1976:
     (iv) To compromise or otherwise settle any claims or demands made by or against the person subject to a property order, or by or against the manager of the estate, on such terms as the manager thinks fit and on such evidence as the manager considers sufficient; and to submit such claims or demands to arbitration; and to do all acts and things necessary to render any such compromise or arbitration effectual:
     (v) To give directions or consents with reference to the share or interest of the person subject to a property order in or under any trust, settlement, will, or intestacy:
