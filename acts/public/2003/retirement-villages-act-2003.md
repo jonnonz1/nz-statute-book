@@ -1,5 +1,5 @@
 # Retirement Villages Act 2003
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2007-12-03_
 
 ### 1 Title
 This Act is the Retirement Villages Act 2003.
@@ -267,7 +267,7 @@ Every operator of a retirement village and the Registrar must comply with the ap
 ### 22 Effect of memorial
 (1) If a memorial is entered under section 21, then, unless all residents of the retirement village have received independent legal advice and at least 90% of those residents have consented in writing, the holder of a security interest or any receiver or liquidator or statutory manager of property comprising the retirement village or of any operator of the village must not exercise any right to—
   (a) dispose of the retirement village other than as a going concern; or
-  (b) disclaim any occupation right agreement relating to the retirement village as onerous property under section 269 of the Companies Act 1993 or section 75 of the Insolvency Act 1967; or
+  (b) disclaim any occupation right agreement relating to the retirement village as onerous property under section 269 of the Companies Act 1993 or section 117 of the Insolvency Act 2006; or
   (c) evict any resident or exclude any resident from the use of any facilities or any part of the retirement village to which that resident is ordinarily entitled.
 (2) Subsection (1) applies whether or not the security interest is registered against the certificate of title.
 (3) The holder of the security interest, or any receiver or liquidator or statutory manager of property comprising the retirement village or of an operator of the village, may apply to the High Court for an exemption from any requirement of subsection (1), and that exemption may be granted subject to any conditions that the Court considers appropriate.
