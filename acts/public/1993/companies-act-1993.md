@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2007-11-01_
+_Consolidation as at 2007-12-03_
 
 > An Act to reform the law relating to companies, and, in particular,—aTo reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbTo provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcTo define the relationships between companies and their directors, shareholders, and creditors; anddTo encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeTo provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -1098,7 +1098,7 @@ Notwithstanding anything in the constitution of the company, a shareholder is no
 
 ### 103 Liability of an assignee
 (1) The liability of the assignee of the property of a bankrupt, who is registered as the holder of a share which is comprised in the property of the bankrupt, does not, in respect of that share, exceed the proportional amount available from the property of the estate of the bankrupt, after satisfaction of prior claims, for distribution among creditors of the estate, being property of the bankrupt which, at the time when demand is made for the satisfaction of the liability, is vested in the assignee.
-(2) In this section, assignee means the assignee in whom the property of a bankrupt is vested pursuant to the Insolvency Act 1967.
+(2) In this section, assignee means the assignee in whom the property of a bankrupt is vested pursuant to the Insolvency Act 2006.
 
 **Powers of Shareholders**
 
@@ -3685,7 +3685,7 @@ For the purposes of the single administration of a pool, the pool companies may 
     (a) For the purposes of sections 241(2)(c), 247, 250, and 289 of this Act; or
     (b) To the extent of the amount of any debt owing to the secured creditor in respect of which the secured creditor claims under section 305 of this Act as an unsecured creditor:
   - **Liquidation committee** means a liquidation committee appointed under section 314 of this Act
-  - **Official Assignee** means an Official Assignee or Deputy Assignee appointed under the Insolvency Act 1967
+  - **Official Assignee** means an Official Assignee or Deputy Assignee appointed under the Insolvency Act 2006
   - **Statutory demand** has the meaning set out in section 289 of this Act.
 (2) For the purposes of this Act, the power to appoint a liquidator of a company includes the power to appoint 2 or more persons as liquidators of a company.
 
@@ -4184,7 +4184,7 @@ The expenses and remuneration of the liquidator are payable out of the assets of
   (j) A person who is prohibited from being an officer or promoter of, or being concerned or taking part in the management of, a company under section 199N of the Companies Act 1955 or who would be so prohibited but for the repeal of that Act:
   (k) A person who is prohibited from being a director or promoter of or being concerned or taking part in the management of a company under section 382 or section 383 or section 385 of this Act:
   (ka) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Securities Act 1978, or the Securities Markets Act 1988, or the Takeovers Act 1993:
-  (l) A person who is prohibited under section 111(1)(c) of the Insolvency Act 1967 from acting as a director or taking part directly or indirectly in the management of any company or class of company.
+  (l) A person who is prohibited under section 299(1)(c) of the Insolvency Act 2006 from acting as a director or taking part directly or indirectly in the management of any company or class of company.
   (m) a person who is prohibited from being administrator or deed administrator under section 239ADV.
 (1A) Subsection (1)(ca) or (cb) does not apply if all the creditors consent to the appointment of the person in question.
 (2) A body corporate must not be appointed or act as a liquidator.
@@ -4484,7 +4484,7 @@ If a transaction or charge is set aside under section 294, the Court may make 1 
   (b) Had reasonable grounds to believe and did believe that a competent and reliable person was charged with the duty of seeing that that provision was complied with and was in a position to discharge that duty.
 (3) The Court may give any direction it thinks fit for the purpose of giving effect to the declaration.
 (4) The Court may make a declaration under this section even though the person concerned is liable to be convicted of an offence.
-(5) An order under this section is deemed to be a final judgment within the meaning of section 19(d) of the Insolvency Act 1967.
+(5) An order under this section is deemed to be a final judgment within the meaning of section 17(1)(a) of the Insolvency Act 2006.
 
 ### 301 Power of Court to require persons to repay money or return property
 (1) If, in the course of the liquidation of a company, it appears to the Court that a person who has taken part in the formation or promotion of the company, or a past or present director, manager, administrator, liquidator, or receiver of the company, has misapplied, or retained, or become liable or accountable for, money or property of the company, or been guilty of negligence, default, or breach of duty or trust in relation to the company, the Court may, on the application of the liquidator or a creditor or shareholder,—
@@ -4494,7 +4494,7 @@ If a transaction or charge is set aside under section 294, the Court may make 1 
     (ii) To contribute such sum to the assets of the company by way of compensation as the Court thinks just; or
   (c) Where the application is made by a creditor, order that person to pay or transfer the money or property or any part of it with interest at a rate the Court thinks just to the creditor.
 (2) This section has effect even though the conduct may constitute an offence.
-(3) An order for payment of money under this section is deemed to be a final judgment within the meaning of section 19(d) of the Insolvency Act 1967.
+(3) An order for payment of money under this section is deemed to be a final judgment within the meaning of section 17(1)(a) of the Insolvency Act 2006.
 (4) In making an order under subsection (1) against a past or present director, the Court must, where relevant, take into account any action that person took for the appointment of an administrator to the company under Part 15A.
 
 **Creditors' claims**
@@ -4504,7 +4504,7 @@ If a transaction or charge is set aside under section 294, the Court may make 1 
   (a) The rights of secured and unsecured creditors:
   (b) Claims by creditors:
   (c) The valuation of annuities and future and contingent liabilities—
-(2) In applying in a liquidation the rules in force under the law of bankruptcy, a claim made under section 304 of this Act and admitted by a liquidator is to be treated as if it were a debt proved in accordance with the requirements of the Insolvency Act 1967.
+(2) In applying in a liquidation the rules in force under the law of bankruptcy, a claim made under section 304 of this Act and admitted by a liquidator is to be treated as if it were a debt proved in accordance with the requirements of the Insolvency Act 2006.
 
 ### 303 Admissible claims
 (1) Subject to subsection (2) of this section, a debt or liability, present or future, certain or contingent, whether it is an ascertained debt or a liability for damages, may be admitted as a claim against a company in liquidation.
