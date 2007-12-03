@@ -1,5 +1,5 @@
 # Property (Relationships) Act 1976
-_Consolidation as at 2007-11-17_
+_Consolidation as at 2007-12-03_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Property (Relationships) Act 1976.
@@ -1335,12 +1335,12 @@ Nothing in this Act prevents a person from making an application under the Law R
 **Insolvent deceased spouse or partner**
 
 ### 58 Rights of creditors preserved
-(1) If, had this Act not been passed, any property would have become vested in an appointee (within the meaning of section 153 of the Insolvency Act 1967) on an order being made under section 157 of that Act to administer the estate of a deceased spouse or partner under Part 17 of that Act, then that property (and no other property) becomes vested in an appointee as if this Act had not been passed.
+(1) If, had this Act not been passed, any property would have become vested in an appointee (within the meaning of section 378(1) of the Insolvency Act 2006) on an order being made under section 379 of that Act to administer the estate of a deceased spouse or partner under Part 6 of that Act, then that property (and no other property) becomes vested in an appointee as if this Act had not been passed.
 (2) If, had this Act not been passed, any property that is included in the estate of a deceased spouse or partner could have been dealt with in accordance with section 31 of the Administration Act 1969, then that property (and no other property) may be dealt with under that section as if this Act had not been passed.
 
 ### 59 Payment of protected interest where estate insolvent
 (1) This section applies in the following cases:
-  (a) if, after the death of a spouse or partner, the family home (including a homestead) or, if section 11A applies, the proceeds of the sale of the family home vest in an appointee (within the meaning of section 153 of the Insolvency Act 1967) on an order being made under section 157 of that Act to administer the estate of a deceased spouse or partner under Part 17 of that Act:
+  (a) if, after the death of a spouse or partner, the family home (including a homestead) or, if section 11A applies, the proceeds of the sale of the family home vest in an appointee (within the meaning of section 378(1) of the Insolvency Act 2006) on an order being made under section 379 of that Act to administer the estate of a deceased spouse or partner under Part 6 of that Act:
   (b) if, after the death of a spouse or partner, the family home (including a homestead) or, if section 11A applies, the proceeds of the sale of the family home may be dealt with in accordance with section 31 of the Administration Act 1969.
 (2) If this section applies, the appointee (in any case where subsection (1)(a) applies) or the administrator of the estate of the deceased spouse or partner (in any case where subsection (1)(b) applies) must pay to the surviving spouse or partner the lesser of—
   (a) the amount of the protected interest of the surviving spouse or partner; or
@@ -1602,7 +1602,7 @@ All property acquired by the surviving spouse or partner after the death of the 
 (3) The following persons may apply for an order under section 25(1)(b) or an order or declaration under section 25(3):
   (a) the personal representative of the deceased spouse or partner:
   (b) the Official Assignee in Bankruptcy of the property of either spouse or partner:
-  (c) an appointee (within the meaning of section 153 of the Insolvency Act 1967) in whom the estate of a deceased spouse or partner vests on an order being made under section 157 of that Act.
+  (c) an appointee (within the meaning of section 378(1) of the Insolvency Act 2006) in whom the estate of a deceased spouse or partner vests on an order being made under section 379 of that Act.
 (4) Subsection (2) is subject to section 12 of the Succession (Homicide) Act 2007.
 
 ### 89 Time for commencement of proceedings
