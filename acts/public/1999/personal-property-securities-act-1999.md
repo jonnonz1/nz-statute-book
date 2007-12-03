@@ -1,5 +1,5 @@
 # Personal Property Securities Act 1999
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2007-12-03_
 
 > An Act to reform the law relating to security interests in personal property and, in particular,—aTo provide for the creation and enforceability of security interests in personal property; andbTo provide for the determination of priority between security interests in the same personal property; andcTo provide for the determination of priority between security interests and other types of interests in the same personal property; anddTo provide for the enforcement of security interests in personal property other than consumer goods; andeTo provide for the establishment of a register of security interests in personal property
 
@@ -239,7 +239,7 @@ Part 12—Provides for a 6-month transitional period during which time prior sec
 
 ### 17A Subordinated trusts not security interests
 For the avoidance of doubt, a beneficial interest in personal property held by a creditor (the senior creditor) of a person who has been adjudged bankrupt or put into liquidation (the insolvent debtor) is not a security interest if—
-  (a) the personal property is property that has been distributed by the Official Assignee under the Insolvency Act 1967 or by a liquidator under the Companies Act 1993 to another creditor of the insolvent debtor (the subordinated creditor); and
+  (a) the personal property is property that has been distributed by the Official Assignee under the Insolvency Act 2006 or by a liquidator under the Companies Act 1993 to another creditor of the insolvent debtor (the subordinated creditor); and
   (b) the beneficial interest was created or provided for under the terms of a security (as defined in section 2D of the Securities Act 1978) that is held by the subordinated creditor; and
   (c) under those terms, the subordinated creditor must hold the personal property on trust for the senior creditor; and
   (d) the purpose of those terms is to postpone or subordinate the right of the subordinated creditor to the performance of all or any part of an obligation of the insolvent debtor to the right of the senior creditor to the performance of all or any part of another obligation of the insolvent debtor.
