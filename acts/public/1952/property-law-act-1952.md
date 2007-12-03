@@ -1,5 +1,5 @@
 # Property Law Act 1952
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-03_
 
 > An Act to consolidate and amend certain enactments relating to property
 
@@ -8,7 +8,7 @@ This Act may be cited as the Property Law Act 1952, and shall come into force on
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **Bankruptcy** includes administration under Part 17 of the Insolvency Act 1967, and any other Act or proceeding in law having, under any Act for the time being in force, effects or results similar to those of bankruptcy; and has a corresponding meaning
+  - **Bankruptcy** includes administration under Part 6 of the Insolvency Act 2006, and any other Act or proceeding in law having, under any Act for the time being in force, effects or results similar to those of bankruptcy; and has a corresponding meaning
   - **Conveyance** includes any deed of assignment, appointment, lease, settlement, or other assurance by deed of any property; and has a corresponding meaning
   - **Court** means the High Court
   - **Deed** , in relation to land under the Land Transfer Act 1952, includes an instrument having the effect of a deed under that Act
@@ -794,8 +794,8 @@ A person to whom a report must be sent in accordance with section 104LL of this 
 ### 104PPA Preferential claims
 (1) This section applies to a mortgagee, to which this Part applies, of the property of a company, other than a company in liquidation at the time the mortgagee became such a mortgagee, if the mortgagee became such a mortgagee under a security interest that—
   (a) is over all or any part of the company's accounts receivable and inventory or all or any part or either of them; and
-  (b) is not a purchase money security interest; and
-  (c) does not arise from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation).
+  (b) is not a purchase money security interest that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999; and
+  (c) is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the time the mortgagee became such a mortgagee and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation).
 (2) A mortgagee to which this section applies must apply accounts receivable and inventory that are subject to the security interest or their proceeds—before paying from those assets any claim of the mortgagee.
   (a) First, to reimburse the mortgagee for the reasonable expenses of the mortgagee in entering into possession of the mortgaged property or receiving income from the mortgaged property, as the case may be, or of doing anything that the mortgagee is required or entitled to do; and
   (b) Secondly, to pay preferential claims to the extent and in the order of priority specified in Schedule 7 (except clauses 1(1) and 2(1)(b)) to the Companies Act 1993—
