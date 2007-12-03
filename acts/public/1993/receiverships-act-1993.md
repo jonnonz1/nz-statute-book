@@ -1,5 +1,5 @@
 # Receiverships Act 1993
-_Consolidation as at 2007-11-01_
+_Consolidation as at 2007-12-03_
 
 > An Act to reform the law relating to receivers
 
@@ -34,7 +34,7 @@ _Consolidation as at 2007-11-01_
   - **Mortgage** includes a charge on property for securing money or money's worth
   - **Mortgagee** includes a person from time to time deriving title under the original mortgagee; but does not include a receiver
   - **new value** has the same meaning as in section 16(1) of the Personal Property Securities Act 1999
-  - **Official Assignee** means, in relation to the estate of a bankrupt, any Official Assignee or Deputy Assignee appointed under the Insolvency Act 1967 and having charge of that estate
+  - **Official Assignee** means, in relation to the estate of a bankrupt, any Official Assignee or Deputy Assignee appointed under the Insolvency Act 2006 and having charge of that estate
   - **Overseas company** means a company incorporated outside New Zealand
   - **Preferential claims** means the claims referred to in Schedule 7 to the Companies Act 1993 (except clause 1(1) of that Schedule)
   - **proceeds** has the same meaning as in section 16(1) of the Personal Property Securities Act 1999
@@ -107,7 +107,7 @@ _Consolidation as at 2007-11-01_
   (ia) A person who would, but for the repeal of section 188A or section 189 or section 189A of the Companies Act 1955, be prohibited from being a director or promoter of, or being concerned in the management of, a company within the meaning of that Act:
   (j)
   (k) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Securities Act 1978, or the Securities Markets Act 1988, or the Takeovers Act 1993:
-  (l) A person who is prohibited under section 111(1)(c) of the Insolvency Act 1967 from acting as a director or taking part directly or indirectly in the management of any company or class of company:
+  (l) A person who is prohibited under section 299(1)(b) of the Insolvency Act 2006 from acting as a director or taking part directly or indirectly in the management of any company or class of company:
   (m) A person who is disqualified from acting as a receiver by the instrument that confers the power to appoint a receiver.
 (2) A body corporate must not be appointed or act as a receiver.
 (3) A person who contravenes subsection (1) or subsection (2) of this section commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
@@ -358,7 +358,7 @@ A person to whom a report must be sent in accordance with section 26 of this Act
 ### 31 Powers of receiver on liquidation or bankruptcy
 (1) Subject to subsection (2) of this section, a receiver may be appointed or continue to act as a receiver and exercise all the powers of a receiver in respect of property of—unless the Court orders otherwise.
   (a) A company that is being wound up or that has been put into liquidation; or
-  (b) A debtor who has been adjudged bankrupt under the Insolvency Act 1967—
+  (b) A debtor who has been adjudged bankrupt under the Insolvency Act 2006—
 (2) A receiver holding office in respect of property referred to in subsection (1) of this section may act as the agent of the grantor only—
   (a) With the approval of the Court; or
   (b) With the written consent of the liquidator or the Official Assignee, as the case may be.
