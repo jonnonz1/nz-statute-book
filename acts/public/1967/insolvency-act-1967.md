@@ -1,5 +1,5 @@
 # Insolvency Act 1967
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-03_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to bankruptcy and insolvency
 
@@ -1459,3 +1459,27 @@ Nothing in this Act shall make void or voidable any gift, conveyance, transfer, 
 (2) All matters and proceedings commenced under any such enactment, and pending or in progress at the commencement of this Act may be continued, completed, and enforced under this Act.
 
 ## Schedule Schedule — Enactments repealed
+
+### 1 Title
+This Act is the Insolvency Act 2006.
+
+### 2 Commencement
+This Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more orders may be made bringing different provisions into force on different dates.
+
+## Part 7 — Offences and miscellaneous provisions
+
+### Subpart 4 — Miscellaneous provisions
+
+### 444 Transitional provisions
+(1) In this section,—
+  - **1967 Act** means the Insolvency Act 1967 as if it had not been repealed by this Act, and any rules or regulations made under that Act
+  - **commencement** means the commencement of Parts 1 to 7 of this Act
+  - **past event** means any of the following that has occurred before commencement
+    (a) issuing a bankruptcy notice:
+    (b) filing a petition for adjudication:
+    (c) filing an application for a summary instalment order:
+    (d) the making of a proposal:
+    (e) the making of a compromise:
+    (f) filing an application for an order for the administration of an insolvent deceased estate.
+(2) The 1967 Act continues to apply, to the exclusion of this Act, to any past event and to any step or proceeding preceding, following, or relating to that past event, even if it is a step or proceeding that is taken after commencement.
+(3) For the avoidance of doubt, nothing in subpart 7 of Part 3 permits the cancellation of an irregular transaction that was completed before this section came into force, if that transaction could not have been cancelled if this section had not come into force.
