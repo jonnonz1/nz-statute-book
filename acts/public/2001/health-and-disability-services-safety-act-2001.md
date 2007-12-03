@@ -1,5 +1,5 @@
 # Health and Disability Services (Safety) Act 2001
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-03_
 
 ### 1 Title
 This Act is the Health and Disability Services (Safety) Act 2001.
@@ -492,7 +492,7 @@ Nothing in this Act limits the operation of Part 2 of the Crimes of Torture Act 
   (b) the provider or a person providing health care services under the provider's control has at any time—
     (i) been convicted of an offence against this Act; or
     (ii) been convicted of an offence punishable by imprisonment; or
-    (iii) been adjudged bankrupt under the Insolvency Act 1967; or
+    (iii) been adjudged bankrupt under the Insolvency Act 2006; or
     (iv) become the subject of an order under section 383 of the Companies Act 1993; or
   (c) there is in force in respect of the provider or a person providing health care services under the provider's control an order under the Protection of Personal and Property Rights Act 1988.
 (2) The order must be signed by the Director-General; and must state—
@@ -519,7 +519,7 @@ Nothing in this Act limits the operation of Part 2 of the Crimes of Torture Act 
   (c) the provider or a person providing health care services in the place under the provider's control has at any time been—
     (i) convicted of an offence against this Act; or
     (ii) convicted of an offence punishable by imprisonment; or
-    (iii) adjudged bankrupt under the Insolvency Act 1967; or
+    (iii) adjudged bankrupt under the Insolvency Act 2006; or
   (d) there is in force in respect of the provider or a person providing health care services in the place under the provider's control an order under the Protection of Personal and Property Rights Act 1988.
 (2) The order must be signed by the Director-General; and must state—
   (a) the place to which it relates; and
