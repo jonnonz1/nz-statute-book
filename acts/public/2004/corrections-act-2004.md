@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2007-11-29_
+_Consolidation as at 2007-12-03_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -398,7 +398,7 @@ A hearing adjudicator has the following powers and functions:
 (7) A Visiting Justice appointed under subsection (2)
   (a) may resign from the office by delivering to the Minister of Justice a notice in writing to that effect and stating when the resignation takes effect:
   (b) ceases to hold office if he or she dies:
-  (c) ceases to hold office if he or she is, under the Insolvency Act 1967, adjudged bankrupt:
+  (c) ceases to hold office if he or she is, under the Insolvency Act 2006, adjudged bankrupt:
   (d) may, at any time, be removed from the office by the Governor-General for inability to perform the functions of office, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General:
   (e) has and enjoys, in the performance of his or her duties under this Act, the same protection as a Justice of the Peace acting in his or her criminal jurisdiction has and enjoys under Part 7 of the Summary Proceedings Act 1957.
 
