@@ -1,5 +1,5 @@
 # Health Practitioners Competence Assurance Act 2003
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-03_
 
 ### 1 Title
 This Act is the Health Practitioners Competence Assurance Act 2003.
@@ -645,7 +645,7 @@ The purpose of sections 54 to 63 is to encourage effective quality assurance act
 (3) A person may be appointed under this section only if—
   (a) the person is a natural person who, in the opinion of the Minister, is sufficiently independent of the health practitioners whose services are to be assessed or evaluated through the quality assurance activity; and
   (b) the person has not been convicted by any court in New Zealand or elsewhere of any offence punishable by imprisonment for a term of 3 months or longer; and
-  (c) the person has not been adjudged bankrupt under the Insolvency Act 1967.
+  (c) the person has not been adjudged bankrupt under the Insolvency Act 2006.
 
 ### 56 Revocation of protection or revocation of appointment of person responsible
 (1) The Minister may at any time,—
@@ -932,7 +932,7 @@ The functions of the Tribunal are—
 (3) In considering the suitability of any person for inclusion on the panel, the Minister must have regard not only to the person's personal attributes but also to the person's knowledge and experience of matters likely to come before the Tribunal.
 (4) The name of a person must be removed from the panel if—
   (a) the person is convicted by any court in New Zealand or elsewhere of any offence punishable by imprisonment for a term of 3 months or longer; or
-  (b) the person dies or is, under the Insolvency Act 1967, adjudged bankrupt; or
+  (b) the person dies or is, under the Insolvency Act 2006, adjudged bankrupt; or
   (c) the Minister directs that the name of the person be removed from the panel on the grounds of inability to perform the functions of the office, or for neglect of duty, or misconduct, proved to the satisfaction of the Minister; or
   (d) the person becomes a member of an authority; or
   (e) a period of 5 years has elapsed since the date on which the Minister last approved the entry of the person's name; or
@@ -1332,7 +1332,7 @@ The functions of each authority appointed in respect of a health profession are 
 (1) Any member of an authority may at any time resign his or her office by giving notice to that effect to the Minister.
 (2) A member of an authority must be considered to have vacated his or her office if—
   (a) he or she dies; or
-  (b) he or she is adjudged bankrupt under the Insolvency Act 1967.
+  (b) he or she is adjudged bankrupt under the Insolvency Act 2006.
 (3) Any member of an authority may be removed from office by the Minister, by notice given to the member, on the grounds of inability to perform the duties of the office, neglect of duty, or misconduct, proved to the satisfaction of the Minister.
 (4) A member of an authority may be removed from office by the Minister, with the concurrence of the authority, by notice given to the member, on the ground that the member's performance on the authority is inadequate.
 (5) The powers of an authority are not affected by any vacancy in its membership.
@@ -2095,7 +2095,7 @@ On the date that this section comes into force, the Pharmaceutical Society, the 
 (1) Any person who holds office as the chairperson or as a deputy chairperson of the Tribunal may resign his or her office by giving notice to that effect to the Minister.
 (2) A person who holds office as the chairperson or as a deputy chairperson of the Tribunal is to be taken to have vacated his or her office if—
   (a) he or she dies; or
-  (b) he or she is adjudged bankrupt under the Insolvency Act 1967; or
+  (b) he or she is adjudged bankrupt under the Insolvency Act 2006; or
   (c) he or she becomes a member of an authority; or
   (d) he or she has been convicted by any court in New Zealand or elsewhere of any offence punishable by imprisonment for a term of 3 months or longer.
 (3) Any person who holds office as the chairperson or as a deputy chairperson of the Tribunal may at any time be removed from office by the Minister, by notice given to the person, on the grounds of inability to perform the functions of the office, or for neglect of duty, or misconduct, proved to the satisfaction of the Minister.
