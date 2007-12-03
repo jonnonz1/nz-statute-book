@@ -1,5 +1,5 @@
 # Social Workers Registration Act 2003
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-03_
 
 ### 1 Title
 This Act is the Social Workers Registration Act 2003.
@@ -1146,7 +1146,7 @@ In considering the suitability of any person to be appointed to the Tribunal und
 
 ### 118 Removal of members
 (1) The Board must remove a person from the Tribunal if—
-  (a) he or she is adjudged bankrupt under the Insolvency Act 1967; or
+  (a) he or she is adjudged bankrupt under the Insolvency Act 2006; or
   (b) 5 years has elapsed since the date on which he or she was appointed to the Tribunal; or
   (c) he or she gives the Board written notice asking to be removed from the Tribunal.
 (2) The Board may remove a person from the Tribunal if the chairperson recommends his or her removal—
@@ -1724,7 +1724,7 @@ The enactments specified in Schedule 3 are amended in the manner indicated in th
 ### 3 Vacation of office
 (1) The chairperson or a deputy chairperson of the Tribunal may resign by written notice to the Board.
 (2) The chairperson or a deputy chairperson of the Tribunal vacates office if he or she—
-  (a) is adjudged bankrupt under the Insolvency Act 1967; or
+  (a) is adjudged bankrupt under the Insolvency Act 2006; or
   (b) becomes a member of the Board.
 (3) The Board may, by written notice to the chairperson or a deputy chairperson of the Tribunal, remove him or her from office—
   (a) because, in the Board's opinion, he or she is unable to perform his or her duties adequately; or
