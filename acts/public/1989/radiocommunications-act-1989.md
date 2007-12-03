@@ -1,5 +1,5 @@
 # Radiocommunications Act 1989
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2007-12-03_
 
 > An Act to provide for the management of the radio frequency spectrum
 
@@ -1643,18 +1643,10 @@ The amount of any payment required to be made by section 149 or section 157 or s
 ### 183 Recovery of payments
 (1) Any payment required by section 149 or section 157 or section 164 or section 177(2)(c) or section 178(2)(c) of this Act that is not paid in accordance with this Act may be recovered from the person liable at the suit of the Secretary in any Court of competent jurisdiction.
 (2) Where any person fails wholly or in part to make any payment required by section 149 or section 157 or section 164 or section 177(2)(c) or section 178(2)(c) of this Act to be made to the Secretary by that person, an amount equal to the total for the time being unpaid to the Secretary in respect of that payment, and in respect of any judgment obtained for that payment (including any costs, fees, or expenses included in the judgment or otherwise payable by that person to the Secretary in respect of the judgment) shall be a charge on all the real and personal property of that person.
-(3) Subject to subsection (4) of this section, the provisions of section 169 of the Tax Administration Act 1994 (other than subsections (1) and (10)) shall, with all necessary modifications, apply in respect of any charge created by subsection (2) of this section as if that charge were a charge created by that section and as if every reference in those provisions to the Commissioner were a reference to the Secretary.
-(4) Where any person has failed wholly or partly to make any payment required by section 149 or section 157 or section 164 or section 177(2)(c) or section 178(2)(c) of this Act to be made to the Secretary by that person, the amount of the payment for the time being unpaid shall, in the application of the assets of that person, rank as follows:
-  (a) Where the person is an individual, on that person's bankruptcy or on that person making an assignment with that person's creditors, the amount of the payment shall rank without limitation in amount, notwithstanding anything in any other enactment, in order of priority immediately after amounts payable to the Commissioner of Inland Revenue in accordance with section 167(2) of the Tax Administration Act 1994:
-  (b) if the person is a company, on the liquidation of the company or on the appointment of a receiver on behalf of the holder of any debenture given by the company secured by a charge over any property of the company or on possession being taken on behalf of that debenture holder of that property, the amount of the payment, despite anything in any other enactment,—
-    (i) ranks immediately after amounts payable to the Commissioner of Inland Revenue in accordance with section 167(2) of the Tax Administration Act 1994; and
-    (ii) so far as the assets of the company available for payment of general creditors are insufficient to meet the amount of the payment required by section 149 or section 157 or section 164 or section 177(2)(c) or section 178(2)(c) of this Act, subject to section 167(2)(b) of the Tax Administration Act 1994, ranks in priority over any claims of any person under a security interest to the extent that the security interest—
-      (A) is over all or any part of the company's accounts receivable and inventory or all or any part of either of them; and
-      (B) is not a purchase money security interest; and
-      (C) does not arise from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); and
-    (iii) must be paid accordingly out of any accounts receivable or inventory comprised in or subject to that security interest (or their proceeds).
-(5) In subsection (4)(b), the terms account receivable, inventory, new value, proceeds, purchase money security interest, and security interest have the same meanings as in the Personal Property Securities Act 1999.
-(6) Subsection (4)(b), as in force immediately before the commencement of the Personal Property Securities Act 1999, continues to apply in respect of a company whose property was subject to a floating charge that, before the commencement of that Act, became a fixed or specific charge.
+(3) The provisions of section 169 of the Tax Administration Act 1994 (other than subsections (1) and (10)) shall, with all necessary modifications, apply in respect of any charge created by subsection (2) of this section as if that charge were a charge created by that section and as if every reference in those provisions to the Commissioner were a reference to the Secretary.
+(4)
+(5)
+(6)
 
 ## Schedule 1 — Requirements in relation to radio licences and spectrum licences
 
