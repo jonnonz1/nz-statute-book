@@ -1,5 +1,5 @@
 # District Courts Act 1947
-_Consolidation as at 2007-09-14_
+_Consolidation as at 2007-12-03_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to District Courts and the jurisdiction of District Court Judges in civil proceedings, and to make provision for the exercise of criminal jurisdiction under the Summary Proceedings Act 1957 in District Courts
 
@@ -1024,7 +1024,7 @@ No goods seized in execution under a distress warrant shall be sold for the purp
   (a) The purchaser of the goods so sold shall acquire a good title to those goods; and
   (b) No person shall be entitled to recover against the bailiff, or anyone lawfully acting under his authority, for any sale of the goods, or for paying over the proceeds thereof prior to receipt of a claim to the goods, unless it is proved that the person from whom recovery is sought had notice, or might by making reasonable inquiry have ascertained, that the goods were not the property of the execution debtor.
 (2) Nothing in this section shall affect the right of any claimant, who may prove that at the time of sale he had a title to any goods so seized, to any remedy to which he may be entitled against any person other than the bailiff.
-(3) The provisions of this section shall have effect subject to the provisions of section 50 of the Insolvency Act 1967 and sections 251 and 252 of the Companies Act 1993.
+(3) The provisions of this section shall have effect subject to the provisions of sections 108 to 112 of the Insolvency Act 2006 and sections 251 and 252 of the Companies Act 1993.
 
 ### 91 Procedure when goods seized are secured under bill of sale
 Where goods have been seized under a warrant of distress, and some third person claims under a bill of sale or otherwise to be entitled to the goods by way of security for a debt, a Judge may order a sale of the whole or part of the goods upon such terms as to payment of the whole or part of the secured debt or otherwise as he thinks fit, and may direct the application of the proceeds of the sale in such manner and upon such terms as he deems just.
