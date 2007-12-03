@@ -1,5 +1,5 @@
 # Treaty of Waitangi Act 1975
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-03_
 
 > An Act to provide for the observance, and confirmation, of the principles of the Treaty of Waitangi by establishing a Tribunal to make recommendations on claims relating to the practical application of the Treaty and to determine whether certain matters are inconsistent with the principles of the Treaty
 
@@ -455,7 +455,7 @@ Any member of the Tribunal whose term of office has expired or who has resigned 
 
 ### 2 Vacation of office
 (1) Any member of the Tribunal appointed under section 4(2)(b) of this Act may at any time resign his or her office by delivering a notice in writing to that effect to the Minister.
-(2) A member of the Tribunal appointed under section 4(2)(b) of this Act shall be deemed to have vacated his or her office if he or she dies or is, under the Insolvency Act 1967, adjudged bankrupt.
+(2) A member of the Tribunal appointed under section 4(2)(b) of this Act shall be deemed to have vacated his or her office if he or she dies or is, under the Insolvency Act 2006, adjudged bankrupt.
 (3) Any member of the Tribunal appointed under section 4(2)(b) of this Act may at any time be removed from office by the Governor-General for inefficiency, inability to perform the functions of the office, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General.
 (4) The powers and functions of the Tribunal shall not be affected by any vacancy in its membership.
 
