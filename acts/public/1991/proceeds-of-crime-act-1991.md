@@ -1,5 +1,5 @@
 # Proceeds of Crime Act 1991
-_Consolidation as at 2007-11-17_
+_Consolidation as at 2007-12-03_
 
 > An Act—aTo provide for confiscation of the proceeds of serious criminal offending; andbTo provide for matters incidental thereto
 
@@ -331,7 +331,7 @@ Where, in accordance with section 56 of the Mutual Assistance Act, the High Cour
     (i) Where the application relates to a single offence, before and after the commission of the offence; or
     (ii) Where the application relates to 2 or more offences, before, during, and after the offence period.
 (3) In calculating, for the purposes of a pecuniary penalty order, the value of benefits derived by a person from the commission of an offence or offences, any expenses or outgoings of that person in connection with the commission of the offence or offences shall be disregarded.
-(4) For the purposes of this section and section 28 of this Act, where property of a person vests in the Assignee under the Insolvency Act 1967 by reason of a person's bankruptcy, the property shall continue to be treated as the property of that person.
+(4) For the purposes of this section and section 28 of this Act, where property of a person vests in the Assignee under the Insolvency Act 2006 by reason of a person's bankruptcy, the property shall continue to be treated as the property of that person.
 
 ### 28 Further provisions relating to assessment of pecuniary penalty
 (1) Where an application for a pecuniary penalty order is made in respect of a single offence, and the Court is satisfied that the value of the defendant's property after the commission of the offence exceeded the value of the defendant's property before the commission of the offence, then, for the purposes of section 27 of this Act, the Court may, subject to subsection (3) of this section, treat the value of the benefits derived by the defendant from the commission of the offence as being not less than the amount of the excess.
@@ -723,13 +723,13 @@ Where the Official Assignee is given a direction under section 42(1)(b) of this 
   (b) Setting the disposition or dealing aside as from the day of the order, and declaring the respective rights of any persons who acquired interests in the property on or after the day on which the disposition or dealing took place and before the day of the order.
 
 ### 60 Bankruptcy
-(1) Where, after the Official Assignee has been directed by an order under section 51(1) of this Act to pay an amount to the Crown out of property of a person, the Official Assignee is given notice in writing of the filing of a creditor's petition against the person under section 23 of the Insolvency Act 1967, the Official Assignee—until the petition has been withdrawn, or has been disposed of.
+(1) Where, after the Official Assignee has been directed by an order under section 51(1) of this Act to pay an amount to the Crown out of property of a person, the Official Assignee is given notice in writing of the filing of a creditor's petition against the person under section 13 of the Insolvency Act 2006, the Official Assignee—until the petition has been withdrawn, or has been disposed of.
   (a) Shall refrain from taking action to sell or dispose of the property pursuant to that direction; and
   (b) Shall not pay the Crown any money pursuant to that direction,—
-(2) Where—the property shall cease to be in the custody and control of the Official Assignee under this Act and shall be deemed to be vested in the Assignee of the bankrupt's property under section 42 of the Insolvency Act 1967.
+(2) Where—the property shall cease to be in the custody and control of the Official Assignee under this Act and shall be deemed to be vested in the Assignee of the bankrupt's property under section 101 of the Insolvency Act 2006.
   (a) Property of a person is in the custody and control of the Official Assignee in accordance with a restraining order; and
   (b) The person becomes bankrupt,—
-(3) Notwithstanding anything in section 87(2) of the Insolvency Act 1967, a pecuniary penalty order made against any person shall be provable in the bankruptcy of that person.
+(3) Notwithstanding anything in section 232(2) of the Insolvency Act 2006, a pecuniary penalty order made against any person shall be provable in the bankruptcy of that person.
 
 ### 61 Official Assignee not liable for payment of rates, etc, on property subject to restraining order
 The Official Assignee is not personally liable for the payment of any rates, land tax, or other statutory charge imposed by or under any enactment in respect of property in the custody and control of the Official Assignee pursuant to a restraining order—
