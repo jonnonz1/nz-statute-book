@@ -1,5 +1,5 @@
 # Weathertight Homes Resolution Services Act 2006
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-03_
 
 ### 1 Title
 This Act is the Weathertight Homes Resolution Services Act 2006.
@@ -55,7 +55,7 @@ In general terms, this Act provides for the following matters:Purpose, overviews
 (6) Under section 30, for the purposes of representative claims in respect of a multi-unit complex, this Act applies, unless the context otherwise requires, as if—
   (a) every reference in it to a dwellinghouse included a reference to the multi-unit complex or stand-alone complex concerned; and
   (b) every reference in it to the owner of a dwellinghouse included a reference to the representative of the owners of the dwellinghouses in the multi-unit complex or stand-alone complex concerned; and
-  (c) every reference in it to a party or parties included a reference to the representative of the owners of the dwellinghouses in the multi-unit complex or standalone complex concerned.
+  (c) every reference in it to a party or parties included a reference to the representative of the owners of the dwellinghouses in the multi-unit complex or stand-alone complex concerned.
 (7) Section 24 ensures that, except for the voting relief in sections 22 and 23, nothing in the Act limits any obligations of a body corporate or the obligations of any person under the rules or constitution of a body corporate or under any lease.
 (8) Under section 25, nothing in the voting relief provisions in sections 22 and 23 is to be taken into account when determining whether or not unit title rules are valid.
 (9) Under section 56, the chief executive has power to terminate claims not pursued.
@@ -68,7 +68,7 @@ In this Act, unless the context otherwise requires,—
   - **arbitral tribunal** has the meaning given to it by section 2(1) of the Arbitration Act 1996
   - **arbitration** has the meaning given to it by section 2(1) of the Arbitration Act 1996
   - **assessor** means an assessor appointed under section 31
-  - **assessor's** report means an eligibility assessor's report or a full assessor's report
+  - **assessor's report** means an eligibility assessor's report or a full assessor's report
   - **chair** means the member appointed under section 103(4)
   - **chief executive** means the chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act (except any justice provisions)
   - **civil proceedings** includes—
@@ -88,8 +88,9 @@ In this Act, unless the context otherwise requires,—
     (a) a High Court; or
     (b) a District Court, if the amount claimed or in issue does not exceed the amount to which the jurisdiction of the District Court is limited in civil cases
   - **cross-lease complex** means a complex containing dwellinghouses held under the arrangement commonly referred to as a cross-lease title
+  - **damages** means any form of monetary compensation or damages (however described)
   - **deficiency** , in relation to a building, means any aspect of its design, construction, or alteration, or of materials used in its construction or alteration, that has enabled (or, as the case requires, is likely in future to enable) water to penetrate it
-  - **Department** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act (except any justice provisions)
+  - **department** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act (except any justice provisions)
   - **Disputes Tribunal** means a Disputes Tribunal established under section 4 of the Disputes Tribunals Act 1988
   - **dwellinghouse** —
     (a) means a building, or an apartment, flat, or unit within a building, that is intended to have as its principal use occupation as a private residence; and
@@ -102,6 +103,9 @@ In this Act, unless the context otherwise requires,—
   - **eligibility criteria** means the criteria set out in sections 14 to 18
   - **eligible claim** means a claim by the owner of a dwellinghouse that has been evaluated under section 48 by the chief executive, or reconsidered under section 49 by the chair, as meeting the eligibility criteria
   - **full assessor's report** means a report of the kind described in section 42
+  - **general damages** means damages that—
+    (a) cannot be objectively quantified in monetary terms; and therefore
+    (b) are assessed and quantified in broader terms
   - **invasive testing** —
     (a) means testing—
       (i) to measure the moisture content of any area, component, material, or space; or
@@ -122,21 +126,25 @@ In this Act, unless the context otherwise requires,—
       (ii) the work needed to make the dwellinghouse concerned weathertight and repair the damage in respect of which the claim is brought has been done; and—
         (A) the owner holds receipts for all payments required to be made for that work; and
         (B) the total of the payments for which the owner holds receipts is not above the lower-value ceiling; or
-    (b) where the owner of the dwellinghouse concerned has obtained an eligibility assessor's report, the claim has been declared eligible; and—
+    (b) where the owner of the dwellinghouse concerned has obtained an eligibility assessor's report, the claim has been declared eligible; and
       (i) the owner holds receipts for all payments required to be made for the work needed to be done to make the dwellinghouse weathertight and repair the damage in respect of which the claim is brought; and
       (ii) the total of the payments for which the owner holds receipts is not above the lower-value ceiling
   - **mediation** means mediation initiated under this Act
   - **mediator** means a person appointed to provide mediation services under section 77
   - **member** means a person appointed under section 103 to be a member of the tribunal
+  - **mental distress** means all or any of the following:
+    (a) emotional or mental anxiety:
+    (b) distress or stress
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act (except any justice provisions)
   - **Ministry** means the Ministry of Justice
   - **multi-unit complex** means a complex (which may, but need not, be a stand-alone complex) that—
     (a) contains 2 or more dwellinghouses; and
     (b) contains 1 or more, or no, common areas; and
     (c) is a company-share complex, cross-lease complex, or unit title complex
-  - **owner** , in relation to a dwellinghouse, includes a shareholder of a company, the principal purpose of which is to own the dwellinghouse or the dwellinghouses within the company share complex concerned
+  - **owner** , in relation to a dwellinghouse, includes a shareholder of a company, the principal purpose of which is to own the dwellinghouse or the dwellinghouses within the company-share complex concerned
   - **parties** , in relation to a claim, means the claimant and any 1 or more respondents in relation to that claim
   - **prescribed** means prescribed by regulations under this Act
+  - **relevant mental distress** , in relation to a claim, means mental distress suffered as a consequence of all or any of the damage, deficiencies, loss of value, and penetration of water specified in section 50(1)(a) to (e)
   - **representative** ,—
     (a) for the owners of dwellinghouses in a company-share complex, means the company; and
     (b) for the owners of dwellinghouses in a cross-lease complex, means any person (whether one of those owners or not) authorised (whether to replace another person earlier so authorised or not) under section 19 or 20, to take action under this Act in respect of dwellinghouses, common areas, or both, in that complex; and
@@ -155,7 +163,7 @@ In this Act, unless the context otherwise requires,—
   - **tribunal** means the Weathertight Homes Tribunal established by section 101
   - **unit title complex** means a complex containing dwellinghouses held under stratum estates under the Unit Titles Act 1972
   - **working day** means any day other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's Birthday, Labour Day, and Waitangi Day; and
+    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, and Waitangi Day; and
     (b) the day observed in the appropriate area as the anniversary of the province of which the area forms a part; and
     (c) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year.
 
@@ -217,7 +225,7 @@ The criteria are that the claimant is the representative of the owners of the dw
     (i) has caused damage to the common area; but
     (ii) has not caused damage to any dwellinghouse in the complex.
 
-### 18 Claim in respect of 1 or more dwellinghouses in standalone complex
+### 18 Claim in respect of 1 or more dwellinghouses in stand-alone complex
 The criteria are that the claimant is the representative of the owner or owners of the dwellinghouse or dwellinghouses (being a dwellinghouse or dwellinghouses in a stand-alone complex) to which the claim relates; and—
   (a) the dwellinghouse, or each of the dwellinghouses, is either—
     (i) a building containing no common areas; or
@@ -341,7 +349,7 @@ The provisions of this Act (other than those of sections 22(6) and 23(7)) do not
 (1) Before adjudication of a claim under section 19 or 21 has been initiated, the representative can, in the way stated in section 27(1), add the owner of a dwellinghouse in the multi-unit complex or stand-alone complex concerned to the claim.
 (2) After adjudication of a claim under section 19 or 21 has been initiated, a further owner of a dwellinghouse in the multi-unit complex or stand-alone complex concerned can, in the way stated in section 27(2), be added to the claim by the representative, but only with the tribunal's consent.
 (3) The owner of a dwellinghouse in the stand-alone complex concerned must not be added under subsection (1) or (2) to a claim under section 21 unless section 21(1)(b)(i) or (ii) applies to the dwellinghouse.
-(4) If an assessor's report relating to the multi-unit complex or stand-alone complex concerned has already been completed when the owner is added then, having regard to the claim concerned and any evidence already obtained, the chief executive may do, or the tribunal may request the chief executive to do, 1 of the following:
+(4) If an assessor's report relating to the multi-unit complex or stand-alone complex concerned has already been completed when the owner is added then, having regard to the claim concerned and any evidence already obtained, the chief executive may do, or the tribunal may request the chief executive to do, one of the following:
   (a) have a further assessment done, and provide an addendum to the original assessor's report; or
   (b) proceed without having a further assessment done.
 
@@ -389,7 +397,7 @@ The provisions of this Act (other than those of sections 22(6) and 23(7)) do not
 For the purposes of a claim under section 19 or 20 or 21, this Act applies, unless the context otherwise requires, as if—
   (a) every reference in it to a dwellinghouse included a reference to the multi-unit complex or stand-alone complex concerned; and
   (b) every reference in it to the owner of a dwellinghouse included a reference to the representative of the owners of the dwellinghouses in the multi-unit complex or stand-alone complex concerned; and
-  (c) every reference in it to a party or parties included a reference to the representative of the owners of the dwellinghouses in the multi-unit complex or standalone complex concerned.
+  (c) every reference in it to a party or parties included a reference to the representative of the owners of the dwellinghouses in the multi-unit complex or stand-alone complex concerned.
 
 ### Subpart 4 — Assessment and evaluation of claims, remedies, lower-value claims, and termination of claims
 
@@ -550,17 +558,16 @@ Within 20 working days after receiving the copy of an assessor's report stating 
 **Remedies that may be sought by claimants**
 
 ### 50 What remedies may be claimed
-(1) As long as it is an eligible claim, a claim under this Act may be for any remedy that could be claimed in a court of law for, or in relation to,—
-  (a) the penetration of water into the building concerned; or
-  (b) damage or loss of value caused by the penetration of water into the building concerned; or
-  (c) loss of value caused by the fact that the building concerned is not weathertight; or
-  (d) making the building concerned weathertight, whether—
-    (i) in relation to the deficiencies that enabled the penetration of water into the building concerned; or
-    (ii) in relation to deficiencies that are likely in future to enable the penetration of water into the building concerned.
-(2) Paragraphs (c) and (d) of subsection (1) apply to the extent only that the building concerned is not weathertight because of some aspect of the design, construction, or alteration of the building, or materials used in its construction or alteration.
-(3) Subsection (1)—
-  (a) is not limited or affected by subsection (2)(d), (3)(d), or (4)(d) of section 42; but
-  (b) is subject to section 91 (under which parties must meet their own costs and expenses unless the tribunal determines that a party must meet costs and expenses the party caused to be incurred unnecessarily by bad faith on the part of, or allegations or objections without substantial merit raised by, that party).
+(1) As long as it is an eligible claim, a claim under this Act may be for any remedy that could be claimed in a court of law in relation to, or for consequences of, all or any of the following:
+  (a) deficiencies that enabled the penetration of water into the building concerned:
+  (b) the penetration of water into the building concerned:
+  (c) damage or loss of value caused by the penetration of water into the building concerned:
+  (d) loss of value caused by the fact that there are deficiencies in the building concerned:
+  (e) deficiencies that are likely in future to enable the penetration of water into the building concerned.
+(2) Remedy, in subsection (1), includes (without limitation) general damages (for example, for relevant mental distress).
+(3) Subsections (1) and (2)—
+  (a) are not limited or affected by subsection (2)(d), (3)(d), or (4)(d) of section 42; but
+  (b) are subject to section 91 (which relates to costs of adjudication proceedings).
 
 **Lower-value claims**
 
@@ -713,19 +720,19 @@ Within 20 working days after receiving the copy of an assessor's report stating 
   (b) that notification is to be treated as a notice of withdrawal under section 67, and that section applies accordingly.
 (2) Nothing in this Act prevents the other parties to an adjudication from submitting any matter in relation to a claim to another dispute resolution procedure (for example, to the courts, to arbitration, or to mediation).
 
-**Procedure for, and effect of initiating adjudication**
+**Procedure for, and effect of, initiating adjudication**
 
 ### 62 How to initiate adjudication
 (1) A claimant initiates the adjudication of a claim by applying to the tribunal, in writing and in a form (if any) approved for the purpose by the chair, to have the claim adjudicated, and serving a copy of the application for adjudication on—
   (a) the other party or parties to the adjudication; and
-  (b) the Department.
+  (b) the department.
 (2) The application to the tribunal must be accompanied by—
   (a) a copy of the decision of the chief executive under section 48 (or the decision of the chair under section 49) on the eligibility of the claim; and
   (b) the prescribed fee (if any).
 (3) The application in writing in the approved form (if any) must state—
   (a) the date of the application; and
   (b) the nature and a brief description of the claim and of the parties involved; and
-  (c) the relief or remedy that is sought; and
+  (c) the remedy (see section 50) that is sought; and
   (d) the names and addresses of the parties to the adjudication; and
   (e) if available, the addresses that the parties have specified for the service of notices.
 (4) Every copy of the application that is served on another party to the adjudication must be accompanied by a copy of the assessor's report that relates to the claim, and may be accompanied by any other documents.
@@ -733,7 +740,7 @@ Within 20 working days after receiving the copy of an assessor's report stating 
 
 ### 63 Status and effect of adjudication proceedings under other enactments
 Adjudication proceedings—
-  (a) must be treated as proceedings for the purposes of section 32 of the Insolvency Act 1967; and
+  (a) must be treated as proceedings for the purposes of section 76 of the Insolvency Act 2006; and
   (b) must be treated as actions or proceedings for the purposes of section 42 of the Corporations (Investigation and Management) Act 1989; and
   (c) must be treated as legal proceedings for the purposes of sections 248 and 321(1)(b) of the Companies Act 1993.
 
@@ -745,7 +752,7 @@ The chair—
   (b) may assign himself or herself.
 
 ### 65 Preliminary conferences
-As soon as the tribunal thinks practicable after a member has been assigned to act as the tribunal in relation to a claim (and whether or not a response has been received under section 66), it must call a preliminary conference of the parties to consider making, and (if possible) make, procedural and other decisions under this Act to try to ensure that the claim is dealt within the manner best suited to—
+As soon as the tribunal thinks practicable after a member has been assigned to act as the tribunal in relation to a claim (and whether or not a response has been received under section 66), it must call a preliminary conference of the parties to consider making, and (if possible) make, procedural and other decisions under this Act to try to ensure that the claim is dealt with in the manner best suited to—
   (a) its particular circumstances and those of the parties; and
   (b) its speedy and cost-effective resolution.
 
@@ -891,7 +898,7 @@ If, in any particular case, no application has yet been made to the tribunal to 
   (a) provides mediation services; or
   (b) is a party to a mediation; or
   (c) is the chief executive; or
-  (d) is a person employed or engaged by the Department; or
+  (d) is a person employed or engaged by the department; or
   (e) is a person who assists either a mediator or a person to whom mediation services are provided.
 (3) No person who provides mediation services may give evidence in any civil proceedings, whether under this Act or any other Act, about—
   (a) the provision of the services; or
@@ -900,7 +907,7 @@ If, in any particular case, no application has yet been made to the tribunal to 
 (5) Nothing in the Official Information Act 1982 applies to any statement, admission, document, or information disclosed or made in the course of the provision of mediation services to the person providing those services.
 (6) Nothing in this section—
   (a) prevents the discovery or affects the admissibility of any evidence (being evidence that is otherwise discoverable or admissible and that existed independently of the mediation process) merely because the evidence was presented in the course of the provision of mediation services; or
-  (b) prevents the gathering of information by the Department for research or educational purposes so long as the parties and the specific matters in issue between them are not identifiable; or
+  (b) prevents the gathering of information by the department for research or educational purposes so long as the parties and the specific matters in issue between them are not identifiable; or
   (c) prevents the disclosure by any person employed or engaged by the chief executive to any other person employed or engaged by the chief executive of matters that need to be disclosed for the purposes of giving effect to this Act.
 
 ### 85 Settlements
@@ -911,7 +918,7 @@ If, in any particular case, no application has yet been made to the tribunal to 
 (3) A person who receives a request under subsection (1) must, before signing the agreed terms of settlement,—
   (a) explain to the parties the effect of subsection (5); and
   (b) be satisfied that, knowing the effect of that subsection, the parties affirm their request.
-(4) A person who signs the agreed terms of settlement must give a statutory declaration in the approved form in (if any) that the requirements of this section have been complied with.
+(4) A person who signs the agreed terms of settlement must give a statutory declaration in the approved form (if any) that the requirements of this section have been complied with.
 (5) If, following the affirmation referred to in subsection (3) of a request made under subsection (1), the agreed terms of settlement to which the request relates are signed by the person empowered to do so,—
   (a) those terms are final and binding on, and enforceable by, the parties; and
   (b) except for enforcement purposes, no party may seek to bring those terms before a court, whether by action, appeal, application for review, or otherwise.
@@ -919,7 +926,7 @@ If, in any particular case, no application has yet been made to the tribunal to 
 ### 86 Use of settlements for research, education, etc
 (1) A mediator who signs agreed terms of settlement under section 85(1) must, within 10 working days of doing so, copy those agreed terms to the chief executive.
 (2) Agreed terms of settlement copied to the chief executive under this section—
-  (a) may be used by the Department for research or educational purposes so long as the parties and the specific matters in issue between them are not identifiable; and
+  (a) may be used by the department for research or educational purposes so long as the parties and the specific matters in issue between them are not identifiable; and
   (b) may be disclosed by the chief executive, or by any person employed or engaged by the chief executive, to any person, or any other person, who is so employed or engaged, if the disclosure is necessary for the purposes of giving effect to this Act.
 
 ### 87 Enforcement of terms of settlement agreed or authorised
@@ -947,7 +954,9 @@ If, in any particular case, no application has yet been made to the tribunal to 
 (2) The tribunal must give a copy of the determination to every party to the adjudication as soon as practicable after making a determination.
 
 ### 90 Tribunal's determination: substance
-(1) A tribunal may make any order that a court of competent jurisdiction could make in relation to a claim in accordance with principles of law.
+(1) The tribunal may make any order that a court of competent jurisdiction could make in relation to a claim in accordance with principles of law.
+(1A) An order under subsection (1) may require the payment of general damages (for example, for relevant mental distress).
+(1B) Subsection (1A) does not limit subsection (1).
 (2) However, if the tribunal makes an order under subsection (1) that requires a person to take any action other than the payment of money, the tribunal must also determine an amount of money that is payable by the person required to take the action, and a date by which that amount is payable if that person fails or refuses to take the action before that date.
 (3) If the tribunal determines that a party to the adjudication is liable to make a payment to another party, the tribunal may make that determination subject to any conditions that the tribunal thinks fit.
 (4) The tribunal may determine that the liability of a party to the adjudication depends on another party to that adjudication meeting any conditions that the tribunal may impose.
@@ -1012,7 +1021,7 @@ A party to the adjudication must comply with a determination of the tribunal.
 ### 98 Enforcement of tribunal's determination
 (1) Every determination of the tribunal must be treated as an order of the District Court, and, subject to this section, may be enforced accordingly.
 (2) If application is made to a District Court for the issue of any process to enforce a determination of the tribunal provided for by section 90(2) (determining an amount of money that is payable by a person required to take any action other than the payment of money), the Registrar must give written notice of the application to the party against whom enforcement is sought.
-(3) If that party does not file in the Court, within 10 working days after receiving notice of the application, a notice of objection, the order may, after the expiry of that period, be enforced under subsection (1).
+(3) If that party does not file in the court, within 10 working days after receiving notice of the application, a notice of objection, the order may, after the expiry of that period, be enforced under subsection (1).
 (4) The notice referred to in subsection (3) may be given only on the ground that it is the belief of the party giving it that the order of the tribunal has been fully complied with and that the party therefore disputes the entitlement of the applicant to enforce it.
 (5) If the party against whom enforcement is sought files the notice referred to in subsection (3) within the 10-working-day period specified in subsection (3), the District Court must determine the matter.
 (6) This section applies, despite section 29 of the District Courts Act 1947, even if the amount at issue (whether on balance of account or otherwise) is more than $200,000.
@@ -1073,7 +1082,7 @@ A member may not be required to give evidence in any civil proceedings on anythi
 
 ### 107 Chair may delegate duties
 (1) The chair may delegate to another member all or any of the chair's duties under the following sections:
-  (a) section 27(2)(a) (approval of foam of application for tribunal's consent under section 26(2)):
+  (a) section 27(2)(a) (approval of form of application for tribunal's consent under section 26(2)):
   (b) section 49 (reconsideration of chief executive's decision on whether claim meets eligibility criteria):
   (c) section 62(1) and (3) (approval of form of application for adjudication):
   (d) section 64 (assignment of member to act as tribunal):
@@ -1096,11 +1105,11 @@ A member may not be required to give evidence in any civil proceedings on anythi
   (b) must perform them (and may further delegate them to the extent that the delegation permits) only in accordance with any terms and conditions stated in the delegation.
 
 ### 108 Registrar and other staff of tribunal
-(1) A registrar of the tribunal may be appointed under the State Sector Act 1988 to enable it to perform its functions, and exercise its jurisdiction, effectively.
+(1) A Registrar of the tribunal may be appointed under the State Sector Act 1988 to enable it to perform its functions, and exercise its jurisdiction, effectively.
 (2) The Secretary may designate as many employees of the Ministry to act as other officers of the tribunal as may be required for that purpose.
 (3) The officers designated must act under the general direction of the Secretary.
 (4) The Secretary must provide all other employees required to give the tribunal the services and resources necessary for that purpose.
-(5) Any person appointed as registrar under subsection (1) may hold that position either separately or in conjunction with any other office or position in the Ministry.
+(5) Any person appointed as Registrar under subsection (1) may hold that position either separately or in conjunction with any other office or position in the Ministry.
 (6) An employee designated under subsection (2) or provided under subsection (4) may also hold any other office or position in the Ministry.
 
 **Tribunal's powers, etc, relating to adjudication proceedings**
@@ -1121,7 +1130,7 @@ If 2 or more adjudication proceedings are pending, the tribunal may, with the wr
   (a) it must also order the claimant to serve a notice that complies with section 62(2)(a), (3), and (4) on—
     (i) the person joined as a respondent; and
     (ii) the other parties to the adjudication; and
-    (iii) the Department; and
+    (iii) the department; and
   (b) section 66 then applies to the person joined as a respondent.
 (4) Subsection (3)(a) does not require a claimant to give a copy of the assessor's report to any person other than the newly joined respondent, or to pay a further fee under section 62(2)(b).
 
@@ -1131,8 +1140,8 @@ If 2 or more adjudication proceedings are pending, the tribunal may, with the wr
 
 ### 113 Questions of law may be referred to High Court
 (1) If a question of law arises during adjudication proceedings, the tribunal—
-  (a) may (if the duties, functions, and powers of the tribunal in relation to the adjudication are not being performed and exercised by the chair, with the written approval of the chair) refer the question to the High Court, in the manner (if any) prescribed by rules of Court, for its opinion; and
-  (b) may, if it thinks fit, delay the proceedings until it receives the Court's opinion.
+  (a) may (if the duties, functions, and powers of the tribunal in relation to the adjudication are not being performed and exercised by the chair, with the written approval of the chair) refer the question to the High Court, in the manner (if any) prescribed by rules of court, for its opinion; and
+  (b) may, if it thinks fit, delay the proceedings until it receives the court's opinion.
 (2) The High Court must give the tribunal its opinion on the question; and the tribunal must then continue the adjudication in accordance with the opinion.
 
 ### 114 Practice directions
@@ -1214,7 +1223,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (d) the termination under section 52 (which requires the chief executive to terminate certain claims if the situation alters) of a claim:
   (e) the decision of the chief executive under section 56 to terminate a claim not pursued:
   (f) the signing of agreed terms of settlement under section 85:
-  (g) the discontinuance or termination, for any other reason (for example, under section 55 and because of a change of ownership), and if known to the Department, of a claim.
+  (g) the discontinuance or termination, for any other reason (for example, under section 55 and because of a change of ownership), and if known to the department, of a claim.
 (2) The chair must notify a territorial authority (as soon as is reasonably practicable after the event, and in enough detail to enable particulars to be included in a land information memorandum issued by a territorial authority under section 44A of the Local Government Official Information and Meetings Act 1987) of any of the following events occurring in relation to a dwellinghouse in its district:
   (a) the termination of a claim under section 53:
   (b) the withdrawal of a claim under section 67:
@@ -1263,7 +1272,7 @@ The Weathertight Homes Resolution Services Act 2002 (2002 No 47) (the former Act
 ### Subpart 2 — Overview of transitional provisions for claims under former Act that are not disposed of before transition date
 
 ### 128 Categories of claims under former Act
-Subparts 3 to 6 of this Part apply to claims under the former Act that, before the transition date, are not withdrawn, terminated, or otherwise disposed of (for example, through resolution by a settlement agreement, or by an adjudicator's determination), and are in 1 of the following categories:
+Subparts 3 to 6 of this Part apply to claims under the former Act that, before the transition date, are not withdrawn, terminated, or otherwise disposed of (for example, through resolution by a settlement agreement, or by an adjudicator's determination), and are in one of the following categories:
   (a) claims whose eligibility is undecided—subpart 3:
   (b) claims that it has been decided are eligible, but that are not in mediation or adjudication—subpart 4:
   (c) claims that it has been decided are eligible, and that are in mediation—subpart 5:
@@ -1358,7 +1367,7 @@ This subpart applies to a claim (the claim) if, before the transition date,—
 ### 140 Claim history must be notified to territorial authorities for land information memorandum purposes
 (1) Section 124(1) applies to the claim—
   (a) in respect of events to which that subsection applies that occur on or after the transition date; and
-  (b) as if events of that kind that occurred before the transition date, and that are known to the Department, occurred on that date, and as if the chief executive must notify the relevant territorial authority of them as soon after that date as it is reasonably practicable to do so.
+  (b) as if events of that kind that occurred before the transition date, and that are known to the department, occurred on that date, and as if the chief executive must notify the relevant territorial authority of them as soon after that date as it is reasonably practicable to do so.
 (2) Section 124(2) applies to the claim—
   (a) in respect of events to which that subsection applies that occur on or after the transition date; and
   (b) as if events of that kind that occurred before the transition date, and that are known to the tribunal, occurred on that date, and as if the chair must notify the relevant territorial authority of them as soon after that date as it is reasonably practicable to do so.
@@ -1419,12 +1428,17 @@ This subpart applies to a claim (the claim) if, before the transition date,—
   (b) adjudication of the claim has been initiated under the former Act.
 
 ### 148 Claim may continue under former Act or be withdrawn
-(1) The claim must be dealt with as if Part 1 had not been enacted.
+(1) The claim must be dealt with—
+  (a) as if Part 1 had not been enacted; and
+  (b) under the former Act as modified by section 148A.
 (2) Subsection (1) does not prevent the claimant from withdrawing the claim before it has been disposed of under the former Act.
 (3) Withdrawal of the kind contemplated by subsection (2) may be done at the claimant's discretion, and without complying with section 30 of the former Act, but may be done for the purpose only of enabling the claimant, as soon as is practicable,—
   (a) to make an application to the tribunal, under section 62, to have the withdrawn claim adjudicated, in accordance with section 150 or 153(1)(a); or
   (b) to be part of, or to join, a new claim, brought, under section 19, 20, or 21, in respect of the same dwellinghouse, common areas, or both, in accordance with section 153(1)(b).
 (4) Subsection (3) does not limit the application to the claim of section 30 of the former Act.
+
+### 148A How former Act modified for section 148(1)
+The former Act must for the purposes of section 148(1) be treated as if it had been amended in the manner specified in Schedule 4.
 
 ### 149 Who deals with claims to which section 148 applies
 (1) A claim to which section 148 applies must, if it is not withdrawn before it is disposed of under the former Act, be dealt with in accordance with that section by—
@@ -1508,7 +1522,7 @@ Sections 156 to 158 do not limit or affect—
 ### 160 Appointment of tribunal members and officers, etc, after enactment but before transition date
 This Act does not limit or affect the exercise, in accordance with section 11 of the Interpretation Act 1999, of powers to do, before the transition date, the following acts or things under the following enactments:
   (a) appoint members of the tribunal under section 103(1):
-  (b) appoint a registrar under section 108(1):
+  (b) appoint a Registrar under section 108(1):
   (c) designate or provide employees of the Ministry to act as other officers of the tribunal under section 108(2) or (4):
   (d) any other act or thing for the purposes of any other provision of Part 1.
 
@@ -1537,13 +1551,13 @@ A member may at any time resign from office by written notice given to the Minis
 
 ### 5 Vacation of office
 (1) A member may at any time be removed from office by the Governor-General for incapacity affecting performance of duty, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General.
-(2) A member is deemed to have vacated his or her office if he or she is adjudged bankrupt under the Insolvency Act 1967.
+(2) A member is deemed to have vacated his or her office if he or she is adjudged bankrupt under the Insolvency Act 2006.
 
 ### 6 Salaries and allowances
 (1) There is to be paid to the chair out of public money, without further appropriation than this clause,—
   (a) a salary at a rate, or in accordance with a scale of rates, determined by the Remuneration Authority; and
   (b) allowances (if any) determined by the Remuneration Authority.
-(2) There is to be paid to each member other than the chair remuneration by way of fees, salary, and allowances (including travelling allowances and expenses) in accordance with the Fees and Travelling Allowances Act 1951; and that Act applies accordingly as if he or she were a member of a statutory Board within the meaning of that Act.
+(2) There is to be paid to each member other than the chair remuneration by way of fees, salary, and allowances (including travelling allowances and expenses) in accordance with the Fees and Travelling Allowances Act 1951; and that Act applies accordingly as if he or she were a member of a statutory board within the meaning of that Act.
 
 ### 7 Privileged communications
 (1) If any party to an adjudication is represented by a person other than a barrister or solicitor, any communications between that party and that person in relation to the adjudication proceedings and to the matter in issue (if it has been before the tribunal) are as privileged as they would have been if that person had been a barrister or solicitor.
@@ -1602,3 +1616,45 @@ If any party to any proceedings applies to the tribunal to accord urgency to the
 If, in proceedings before the tribunal, a party to the claim concerned dies,—
   (a) the proceedings do not abate because of the death; but
   (b) the legal personal representative of the deceased party must be substituted for that party.
+
+## Schedule 4 — Modifications to former Act for section 148(1)
+
+### 26A What remedies may be claimed
+(1) As long as it is an eligible claim, a claim under this Act may be for any remedy that could be claimed in a court of law in relation to, or for consequences of, all or any of the following:
+  (a) deficiencies that enabled the penetration of water into the building concerned:
+  (b) the penetration of water into the building concerned:
+  (c) damage or loss of value caused by the penetration of water into the building concerned:
+  (d) loss of value caused by the fact that there are deficiencies in the building concerned.
+(2) In subsection (1),—
+  - **deficiency** , in relation to a building, means any aspect of its design, construction, or alteration, or of materials used in its construction or alteration, that has enabled water to penetrate it
+  - **remedy** includes (without limitation) general damages (for example, for relevant mental distress).
+(3) Subsections (1) and (2)—
+  (a) are not limited or affected by section 7(2); but
+  (b) are subject to section 43 (which relates to costs of adjudication proceedings).
+
+### 1 Title
+This Act is the Weathertight Homes Resolution Services (Remedies) Amendment Act 2007.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 1 — Purpose and application of Part 2
+
+### 5 Claims affected by amendments made by Part 2
+(1) The amendments made by Part 2 apply only to the following claims:
+  (a) claims brought under the principal Act after the commencement of this Act; and
+  (b) claims brought under the principal Act, but not withdrawn, terminated, or otherwise disposed of (for example, through resolution by a settlement agreement, or by a determination by the tribunal), before the commencement of this Act; and
+  (c) claims adjudication of which was initiated under the Weathertight Homes Resolution Services Act 2002 (in this Act called the former Act) before the transition date and that,—
+    (i) under section 149 of the principal Act must, if they are not withdrawn before they are disposed of under the former Act, be dealt with in accordance with section 148 of the principal Act by a person specified in section 149(1) of the principal Act; and
+    (ii) are not withdrawn, terminated, or otherwise disposed of before the commencement of this Act.
+(2) The claims in subsection (1)(a) and (b) include claims—
+  (a) brought under the former Act; and
+  (b) of the kind specified in subsection (1)(c); and
+  (c) that are withdrawn and adjudicated under the principal Act in accordance with section 150 or 153, and subject to the relevant modifications specified in subpart 6 of Part 2, of the principal Act.
+(3) A reference in subsection (1)(b) to a claim brought under the principal Act includes a claim to which subpart 3, 4, or 5 of Part 2 of the principal Act applies, and therefore to which Part 1 of the principal Act applies—
+  (a) as if it were a claim brought under the principal Act; and
+  (b) subject to the relevant modifications specified in subpart 3, 4, or 5 of Part 2 of the principal Act.
+(4) A claim disposed of through resolution by a determination of the tribunal, an adjudicator, or a person specified in section 149(1) of the principal Act is disposed of for the purposes of subsection (1) even if that determination is or may be subject to an appeal, a review proceeding, or both.
+(5) If, under subsection (1), the amendments made by Part 2 apply or (as the case requires) do not apply to a claim, they apply or (as the case requires) do not apply to it both—
+  (a) on adjudication at first instance by the tribunal, an adjudicator, or a person specified in section 149(1) of the principal Act; and
+  (b) on any appeal or rehearing, and for the purposes of any review proceeding.
