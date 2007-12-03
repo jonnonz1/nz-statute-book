@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2007-12-03_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -2415,7 +2415,7 @@ Each member of the Authority must, before entering on the exercise of any of his
 
 ### 170 Vacation of office
 (1) A member of the Authority may at any time be removed from office by the Governor-General for incapacity affecting performance of duty, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General.
-(2) A member of the Authority is deemed to have vacated his or her office if he or she is, under the Insolvency Act 1967, adjudged bankrupt.
+(2) A member of the Authority is deemed to have vacated his or her office if he or she is, under the Insolvency Act 2006, adjudged bankrupt.
 (3) A member of the Authority may at any time resign his or her office by giving notice in writing to that effect to the Minister.
 
 ### 171 Salaries and allowances
