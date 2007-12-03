@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2007-11-01_
+_Consolidation as at 2007-12-03_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -399,12 +399,12 @@ For the purpose of providing a superannuation fund or retiring allowance for per
   (b) Sections 205 to 207 of the Companies Act 1955, as applied to compromises and arrangements by section 35 of the Companies Amendment Act 1993:
   (c) Sections 220 to 222, 226, 231(4), 233 to 237, 239, 240(1)(a), 246 to 249, 250 to 263, 265 to 267, 311A, 311B, 312, and 332 of the Companies Act 1955, as applied in relation to the winding up of a company by section 42(1) of the Companies Amendment Act 1993:
   (d) Sections 139, 168, 209N to 209P, 209R to 209T, 209X to 209ZA, 209ZF, 211, 213, 216 to 218, 220, 231(2), 235(5), 240, 243, 258, 260, 264, 265, 268 to 270, 281, 288, and 467 of the Companies Act 1955, as continued in force by section 3 of the Companies Act Repeal Act 1993:
-  (e) Sections 123, 154, 165 to 168, 173, 179, 232 to 234, 236 to 238, 241, 243, 246 to 248, 250, 257(2), 261(5), 266, 269, 284, 286, 290, 291, 294 to 296, 299, 307, and 314 of the Companies Act 1993:
+  (e) Sections 123, 154, 165 to 168, 173, 179, 232 to 234, 236 to 238, Part 15A, and Part 16 of the Companies Act 1993:
   (f) Rules 39, 41, 71, 87 to 89, 91, 94, 95, 96, 111, 125(3), 136, 137, 141 to 143, 190, and 191 of the Companies (Winding Up) Rules 1956, as continued in force by section 42(7) of the Companies Amendment Act 1993:
   (g) Section 42(2) of the Corporations (Investigation and Management) Act 1989:
   (h) Section 26, Part 10, section 119, and Part 15 of the Insolvency Act 1967:
-  (ha)
-  (hb)
+  (ha) the Insolvency Act 2006 (except sections 150, 166(3), 180, and 236(2)):
+  (hb) any regulations or rules made under the Insolvency Act 2006:
   (i) Rules 41 and 43 of the Insolvency Rules 1970:
   (j) Any regulations relating to liquidations made under the Companies Act 1955 or under the Companies Act 1993.
   (k) sections 118, 128, 131, 167, 168, 170, 179, 181, 182, and 186 of the Personal Property Securities Act 1999.
@@ -5065,7 +5065,7 @@ This Part applies to proceedings in which the relief claimed is wholly within th
   (f) the Care of Children Act 2004:
   (fa) The Incorporated Societies Act 1908:
   (fb) The Industrial and Provident Societies Act 1908:
-  (g) The Insolvency Act 1967:
+  (g) The Insolvency Act 2006:
   (h) The Law Reform (Testamentary Promises) Act 1949:
   (i)
   (j)
@@ -5206,7 +5206,7 @@ Unless in any particular case the Court otherwise directs, every order sanctioni
     (iii) Section 21(1)(a) and (b) and Parts 3, 4, and 5 of the Charitable Trusts Act 1957:
     (iv) Sections 13 and 45 of the Chattels Transfer Act 1924:
     (v) sections 108, 209J(1)(d), 209O(1)(c), 209O(2)(c), 209R, 264, 268(2), 269, and 273 of the Companies Act 1955:
-    (vi) sections 228(1)(d), 233(1)(c), 233(2)(c), 236, 290, 294(2), 295, and 299 of the Companies Act 1993:
+    (vi) sections 228(1)(d), 233(1)(c), 233(2)(c), 236, 290, 296(5), 295, and 299 of the Companies Act 1993:
     (via) section 239L of the Companies Act 1993 (application for the appointment of an administrator by the Court in a voluntary administration):
     (vii) Sections 58 and 59 of the Corporations (Investigation and Management) Act 1989:
     (viiaa)
@@ -5260,11 +5260,11 @@ Unless in any particular case the Court otherwise directs, every order sanctioni
 ### 458EA Originating applications relating to certain proceedings under Companies Acts
 (1) Despite rule 458E(1),
   (a) an originating application under section 268(2) of the Companies Act 1955 or section 269 of that Act must be filed in the same office of the Court in which the notice under section 268(1) of that Act was filed; and
-  (b) an originating application under section 294(2) of the Companies Act 1993 or section 295 of that Act must be filed in the same office of the Court in which the notice under section 294(1) of that Act was filed; and
+  (b) an originating application under section 296(5) of the Companies Act 1993 or section 295 of that Act must be filed in the same office of the Court in which the notice under section 294(1) of that Act was filed; and
   (c) an originating application under section 273 of the Companies Act 1955 or section 299 of the Companies Act 1993, as the case may be, must be filed in the proper office of the Court, as determined in accordance with rule 700ZK(1).
 (2) The affidavit filed in support of
   (a) an originating application under section 268(2) of the Companies Act 1955 must have attached to it a copy of the notice under section 268(1) of that Act; and
-  (b) an originating application under section 294(2) of the Companies Act 1993 must have attached to it a copy of the notice under section 294(1) of that Act.
+  (b) an originating application under section section 296(5) of the Companies Act 1993 must have attached to it a copy of the notice under section 294(1) of that Act.
 
 ### 458F Application of provisions relating to interlocutory applications
 (1) In relation to originating applications, rules 236, 237, 240, 241, 243, 244, 245, 246, 249, 252, 255, 256, and 257 apply, subject to this Part and to all necessary modifications, as they apply in relation to interlocutory applications.
@@ -5278,7 +5278,7 @@ In the case of an inter partes application, the date shown on the notice of appl
 (2) The effect of every order for directions as to service or for representation made pursuant to subclause (1) or subclause (5) of rule 451 (as applied by subclause (1) of this rule) shall be set out in the notice of originating application as if that notice were a notice of proceeding to which rule 121(3) applied.
 (3) Nothing in this rule applies to an originating application under any of the following provisions:
   (a) sections 264, 268(2), 269, and 273 of the Companies Act 1955:
-  (b) sections 290, 294(2), 295, and 299 of the Companies Act 1993.
+  (b) sections 290, section 296(5), 295, and 299 of the Companies Act 1993.
 
 ### 458I Directions before hearing
 (1) At any time before the hearing of an originating application,
@@ -5286,7 +5286,7 @@ In the case of an inter partes application, the date shown on the notice of appl
     (i) give such directions regarding the proceeding commenced by the filing of the application as the Court thinks fit:
     (ii) direct the parties to file a statement of claim and a statement of defence respectively, if the application has been made under any of the following provisions:
       (A) sections 268(2), 269, and 273 of the Companies Act 1955:
-      (B) sections 294(2), 295, and 299 of the Companies Act 1993:
+      (B) sections section 296(5), 295, and 299 of the Companies Act 1993:
   (b) any party may file an interlocutory application for directions regarding the proceeding commenced by the filing of the application.
 (2) In relation to an interlocutory application made under subclause (1), rule 425 applies, subject to this Part and to all necessary modifications.
 
@@ -8668,272 +8668,264 @@ An application under section 255(3) of the Act (to be substituted as petitioner 
 ### 818 Notice of application to be admitted as respondent to oppose petition
 An application under section 256(1) of the Act (to be admitted as a respondent to oppose a petition) must be made by written notice given to the Registrar of the Court.
 
-### Part 16 — Insolvency proceedings
+### Part 16 — Insolvency
 
-**Preliminary provisions**
+#### Subpart 1 — Scope
 
 ### 819 Interpretation
-(1) In this Part, unless the context otherwise requires, Act means the Insolvency Act 1967.
+(1) In this Part, unless the context otherwise requires, Act means the Insolvency Act 2006.
 (2) Expressions not defined in this Part but defined in the Act have, in this Part, the meanings so defined.
+(3) Subclause (1) does not apply to subpart 14 (cross-border proceedings).
 
 ### 820 Application of Part
-This Part applies to all matters arising under the Act or Part 4 of the Administration Act 1969, and to all proceedings taken in any such matter in the Court, whether commenced before, on, or after the date of commencement of this Part.
+This Part applies to matters arising under the Act or Part 4 of the Administration Act 1969, and to proceedings relating to them in the Court, whenever commenced.
 
 ### 821 Application of general rules and practice of Court
-The other Parts of these rules, and the general practice of the Court, apply where this Part applies except in so far as they are modified by or inconsistent with the Act or this Part.
+The other Parts of these rules and the general practice of the Court apply when this Part applies unless they are modified by or inconsistent with the Act or this Part.
 
-**Proceedings generally**
+#### Subpart 2 — Proceedings generally
 
 ### 822 Forms
 (1) The prescribed forms must be used wherever appropriate.
-(2) Forms set out in the Schedule that are not specifically prescribed by these rules must be used in the circumstances to which they relate.
-(3) If a form has not been prescribed for any application under this Part to the Court, the application must be in the form of an interlocutory application and any order made on that application must be in the form prescribed for an order made on an interlocutory application under these rules.
-(4) If subclause (3) does not apply, the parties may frame a form for the special purpose of the particular case or the Court may frame the form.
-(5) Variations to a prescribed form are permitted if the circumstances of any particular case so require.
+(2) If a form has not been prescribed for an application, it must be an interlocutory application and an order made on that application must be in the form prescribed for an interlocutory order.
+(3) If subclause (2) does not apply, the parties may frame a form for the special purpose of the particular case or the Court may frame the form.
+(4) If no form is prescribed, a notice must contain sufficient details to inform the recipient fairly of its substance.
+(5) A warrant to search for and seize a bankrupt's property under section 150 or 151 of the Act must be in form 95.
 
-### 823 Notices
-(1) Every notice required by the Act or this Part must be in the prescribed form.
-(2) If no form is prescribed, a notice must contain sufficient details to inform the recipient fairly of its substance.
+### 823 General requirements of documents filed in Court
+Every document filed must—
+  (a) comply with rules 23 to 40 so far as they are applicable and with any necessary modifications; and
+  (b) be headed by the words In the matter of the Insolvency Act 2006, and in the matter of the bankruptcy (or proposal, as the case may be) of.
 
-### 824 General requirements of documents filed in Court
-Every document filed in Court in proceedings under the Act must
-  (a) Comply with rules 23 to 40 so far as they are applicable and with any necessary modifications; and
-  (b) Be headed by the words In the matter of the Insolvency Act 1967, and in the Matter of the Bankruptcy (or Proposal, as the case may be) of.
+### 824 Advertising of notices or proceedings
+An advertisement of a notice or proceeding that is published in a newspaper circulating in the area in which the proceeding is pending must comply with the advertising requirements of the Act or this Part.
 
-### 825 Advertising of notices or proceedings
-An advertisement of a notice or proceeding that is published in a newspaper circulating in the area in which the proceeding is pending complies with any advertising requirements of the Act or this Part.
+### 825 Discretion of Court as to method of taking evidence
+Unless otherwise provided in this Part, the Court may, in any proceeding, take all or any part of the evidence orally or by written interrogatories or on affidavit or by commission, as the Court thinks just.
 
-### 826 Discretion of Court as to method of taking evidence
-Except as otherwise provided in this Part, the Court may in any proceeding take all or any part of the evidence either orally before the Court or by written interrogatories or on affidavit or by commission, as the Court in any case thinks fit.
+#### Subpart 3 — Bankruptcy notices
 
-**Bankruptcy notices**
+### 826 Issue of bankruptcy notice
+(1) A request for the issue of a bankruptcy notice must be in form 89.
+(2) The Registrar may approve the issue of a bankruptcy notice if—
+  (a) the request is founded on a judgment or order of a court; and
+  (b) the Registrar has no knowledge that payment of the debt has occurred.
+(3) A bankruptcy notice must be in form 90. A certified copy of the judgment or order on which the bankruptcy notice is based must be attached to it.
+(4) The bankruptcy notice must state the amount of any costs claimed.
 
-### 827 Request for issue of bankruptcy notice
-(1) The creditor must file, with every request for a bankruptcy notice in form 89,
-  (a) A bankruptcy notice in form 90, together with a service copy; and
-  (b) A certified copy of the judgment or order on which the bankruptcy notice is based.
-(2) If the creditor claims costs in accordance with section 20 of the Act, the bankruptcy notice must state the amount of costs claimed.
+### 827 Service of bankruptcy notice in New Zealand
+(1) A bankruptcy notice that is to be served in New Zealand must be served within 1 month from the date of its issue.
+(2) If, however, the Registrar is satisfied that reasonable efforts have been made to comply with subclause (1), and service has not been effected, the Registrar,—
+  (a) on the request in writing of the judgment creditor made not later than 1 month after the end of that period, may extend the time by 1 month or by successive periods of 1 month:
+  (b) must mark the notice with the word renewed and the date of the renewal.
+(3) A notice must not, without a Judge's consent, be extended for a period exceeding 3 months from the date on which the notice was first issued.
 
-### 828 Service of bankruptcy notice in New Zealand
-A bankruptcy notice that is to be served in New Zealand must be served within 1 month from the date of its issue.
+### 828 Setting aside bankruptcy notice
+(1) If an application to set aside a bankruptcy notice cannot be heard until after the expiration of the time specified in the notice as the day on which the act of bankruptcy will be complete, the time is treated as extended until the application has been determined.
+(2) An act of bankruptcy is not committed by reason only of non-compliance with the notice until the application has been determined.
 
-### 829 Registrar may extend time for serving bankruptcy notice
-(1) If the Registrar is satisfied that reasonable efforts have been made to serve a bankruptcy notice within the prescribed period, and service has not been effected,
-  (a) The Registrar may, at the request in writing of the judgment creditor made not later than 1 month after the end of the prescribed period, extend the time for a further period of 1 month or for successive periods of 1 month; and
-  (b) The Registrar must, in each case, mark the notice with the word renewed and the date of the renewal.
-(2) A notice must not, without the Court's consent, be extended for a period exceeding 3 months from the date on which the notice was first issued.
+#### Subpart 4 — Adjudication proceedings
 
-### 830 Setting aside bankruptcy notice
-(1) Every application to set aside a bankruptcy notice must comply with rules 234 to 262 so far as they are applicable and with any necessary modifications.
-(2) If the application to set aside the bankruptcy notice cannot be heard until after the expiration of the time specified in the notice as the day on which the act of bankruptcy will be complete, the time is deemed to have been extended until the application has been heard and determined.
-(3) Until the application has been heard and determined, an act of bankruptcy is not committed by reason only of non-compliance with the notice.
+### 829 Application for adjudication by creditor
+(1) A creditor's application for adjudication must be commenced by filing an originating application in form 91. In all other respects, Part 4A applies to the application.
+(2) An affidavit in form 92 and a summons to debtor in form 93 must be filed (in duplicate) with a creditor's application.
+(3) A summons must also state the amount of any costs claimed.
 
-**Commencement of adjudication proceedings**
+### 830 Verification of creditor's application
+A creditor's application must be verified by affidavit of the creditor or some other person having knowledge of the facts.
 
-### 831 Application for adjudication
-(1) Every application for adjudication must be commenced by filing in the Court a petition in form 91 or form 92, as the case may require.
-(2) An affidavit in form 93 and a summons to debtor in form 94 must be filed (in duplicate) with a creditor's petition.
-(3) If the creditor claims costs, the summons to debtor must state the amount of costs claimed.
+### 831 Where application for adjudication to be filed
+An application for adjudication must be filed,—
+  (a) if the debtor is resident in New Zealand, in the office of the High Court nearest by the most practicable route to the place in which the debtor has resided or carried on business for the longest period during the 6 months immediately before the time when the application is filed:
+  (b) if the debtor is in custody, in the office of the High Court nearest by the most practicable route to the place in which the debtor is in custody:
+  (c) if the debtor is absent from New Zealand or the applying creditor cannot ascertain the debtor's place of residence, in the office of the High Court nearest by the most practicable route to the place in which the applying creditor resides or carries on business:
+  (d) if a debtor has never been resident in New Zealand, in the office of the High Court nearest by the most practicable route to the place in which the applying creditor resides or carries on business:
+  (e) if any act of bankruptcy relied on by the applying creditor is specified in sections 20 and 21 of the Act, in any office of the Court.
 
-### 832 Verification of creditor's petition
-A creditor's petition must be verified by affidavit of the creditor or some other person having knowledge of the facts.
+### 832 Registrar to fix hearing date for creditor's application
+(1) The Registrar must fix a hearing date for the application and insert the date in the summons to the debtor before releasing the summons to the creditor for service.
+(2) If the application and summons have not been served, the Registrar may, from time to time, alter the hearing date.
 
-### 833 Where bankruptcy petition to be filed
-A bankruptcy petition must be filed,
-  (a) If the debtor is resident in New Zealand, in the office of the High Court nearest by the most practicable route to the place in which the debtor has resided or carried on business for the longest period during the 6 months immediately before the time when the petition is filed:
-  (b) If the debtor is in custody, in the office of the High Court nearest by the most practicable route to the place in which the debtor is in custody:
-  (c) If the debtor is absent from New Zealand or the petitioning creditor cannot ascertain the debtor's place of residence, in the office of the High Court nearest by the most practicable route to the place in which the petitioning creditor resides or carries on business:
-  (d) If a debtor has never been resident in New Zealand, in the office of the High Court nearest by the most practicable route to the place in which the petitioning creditor resides or carries on business:
-  (e) If any act of bankruptcy relied on by the petitioning creditor is specified in section 19(1)(c) of the Act, in any office of the Court.
+### 833 Court may alter hearing date for creditor's application
+If it is proved to the Court's satisfaction that the debtor has absconded or there is any other good reason, the Court may, on any terms it thinks just, hear the creditor's application on any date the Court considers expedient.
 
-**Hearing date for creditor's petition**
+### 834 Service of creditor's application on debtor
+(1) A copy of the creditor's application and the summons to the debtor must be served on the debtor at least 10 working days before the hearing of the creditor's application.
+(2) If the debtor dies before service of the creditor's application and summons, the Court may order service to be effected on the debtor's administrator or any other person as it thinks just.
 
-### 834 Registrar to fix hearing date for creditor's petition
-(1) The Registrar must fix a hearing date for the petition and insert the date in the summons to the debtor before releasing the summons to the creditor for service.
-(2) If the petition and summons have not been served, the Registrar may, from time to time, alter the first date appointed for the hearing and appoint another date.
+### 835 Service of creditor's application on trustee or supervisor
+(1) A copy of the creditor's application and the summons to the debtor must be served personally on the trustee or supervisor, as the case may be,—
+  (a) if the act of bankruptcy alleged is that the debtor has made a disposition of all or substantially all of the debtor's property to a trustee for the benefit of all or any of the debtor's creditors; or
+  (b) if, at the time of the filing of the application, a proposal under subpart 2 of Part 5 of the Act has been approved by the Court or a summary instalment order has been made under subpart 3 of Part 5 of the Act.
+(2) The documents set out in subclause (1) must be served at least 10 working days before the hearing of the creditor's application.
 
-### 835 Court may alter hearing date for creditor's petition
-If it is proved to the Court's satisfaction that the debtor has absconded or there is any other good reason, the Court may, on any terms it thinks fit to impose, hear the creditor's petition on any date the Court considers expedient.
+### 836 Debtor's notice of intention to oppose adjudication
+A debtor who intends to oppose the making of an order of adjudication must, by 1 pm on the last working day before the hearing of the creditor's application,—
+  (a) file a notice of opposition in form 94, together with an affidavit in support of the opposition; and
+  (b) serve a copy of those documents on the applying creditor.
 
-**Service of creditor's petition**
+### 837 Affidavit evidence of applying creditor
+(1) Unless the Court otherwise directs, an applying creditor's evidence of a debt, an act of bankruptcy, or any other material statements may be given by affidavit.
+(2) The affidavit must be sworn by or on behalf of the applying creditor not earlier than 3 working days before the date of the hearing of the application.
 
-### 836 Service of creditor's petition on debtor
-(1) A copy of the creditor's petition and the summons to the debtor must be served on the debtor.
-(2) If the debtor dies before service of the creditor's petition and summons, the Court may order service to be effected on the debtor's administrator or such other person as it thinks fit.
+### 838 Applying creditor's solicitor's certificate as to unpaid debt
+A certificate by the applying creditor's solicitor to the effect that, after having made due inquiries, the solicitor is satisfied that the debt remains unpaid, may be accepted by the Court as sufficient prima facie evidence that the debt remains unpaid.
 
-### 837 Service of creditor's petition on trustee or supervisor
-A copy of the creditor's petition and the summons to debtor must be served personally on the trustee or supervisor, as the case may be,
-  (a) If the act of bankruptcy alleged is that the debtor has made a disposition of all or substantially all of the debtor's property to a trustee for the benefit of all or any of the debtor's creditors; or
-  (b) If, at the time of the filing of the petition, a proposal under Part 15 of the Act has been approved by the Court or a summary instalment order has been made under Part 16 of the Act.
+### 839 Death of debtor against whom application filed
+If a debtor against whom a bankruptcy application is filed dies, the application must, unless the Court otherwise orders, be continued as if the debtor were alive.
 
-**Debtor's opposition to adjudication**
+#### Subpart 5 — Appointment of Official Assignee
 
-### 838 Debtor's notice of intention to oppose adjudication
-A debtor who intends to oppose the making of an order of adjudication must, by 1 pm on the last working day before the hearing of the creditor's petition,
-  (a) File in Court a notice of opposition in form 95, together with an affidavit in support of the opposition; and
-  (b) Serve a copy of those documents on the petitioning creditor.
-
-**Evidence relating to creditor's petition**
-
-### 839 Affidavit evidence of petitioning creditor
-(1) Unless the Court otherwise directs, a petitioning creditor's evidence of a debt, an act of bankruptcy, or any other material statements may be given by affidavit.
-(2) The affidavit must be sworn by or on behalf of the petitioning creditor not earlier than the third day before the date of the hearing of the petition.
-
-### 840 Petitioning creditor's solicitor's certificate as to unpaid debt
-A certificate by the petitioning creditor's solicitor to the effect that, after having made due inquiries, the solicitor is satisfied that the debt remains unpaid, may be accepted by the Court as sufficient prima facie evidence that the debt remains unpaid.
-
-**Continuation of proceedings**
-
-### 841 Death of debtor against whom petition filed
-If a debtor against whom a bankruptcy petition is filed dies, the proceedings in the matter must, unless the Court otherwise orders, be continued as if the debtor were alive.
-
-**Appointment of Official Assignee as receiver and manager**
-
-### 842 Applicant to deposit sum for Official Assignee's expenses
+### 840 Applicant to deposit sum for Official Assignee's expenses
 The person who has applied for an order appointing the Official Assignee to be a receiver and manager of all or any part of the debtor's estate must, before the order is made, deposit with the Official Assignee any sum that the Court directs for the Official Assignee's expenses.
 
-### 843 Official Assignee may seek additional sum where original deposit insufficient
-(1) If the sum deposited for the Official Assignee's expenses under rule 842 is insufficient, the person who paid the deposit must deposit with the Official Assignee any additional sum as the Court may, on the application of the Official Assignee, from time to time direct.
-(2) If the additional sum is not deposited within 24 hours after the making of the order, the order appointing the Official Assignee as receiver and manager may, on the Official Assignee's application, be discharged by the Court.
+### 841 Official Assignee may seek additional sum where original deposit insufficient
+(1) If the sum deposited for the Official Assignee's expenses under rule 840 is insufficient, the person who paid the deposit must deposit with the Official Assignee any additional sum as the Court may, on the application of the Official Assignee, from time to time direct.
+(2) If the additional sum is not deposited within 24 hours after the making of the order, the Official Assignee may apply to have the order appointing the Official Assignee as receiver and manager discharged by the Court.
 
-### 844 Notification of order appointing Official Assignee as receiver and manager
+### 842 Notification of order appointing Official Assignee as receiver and manager
 (1) The Registrar must, immediately after the order appointing the Official Assignee as receiver and manager has been made, forward 2 copies of the order to the Official Assignee.
 (2) If the debtor is in New Zealand, the Official Assignee must cause a copy of the order appointing the Official Assignee as receiver and manager to be served on the debtor.
 (3) The Official Assignee must advertise the Official Assignee's appointment as receiver and manager within 5 working days after the making of the order.
 
-### 845 Repayment of deposits after order of adjudication
-(1) If an order of adjudication is made after the Official Assignee is appointed receiver and manager, the Official Assignee must repay to the creditor the deposits made under rules 842 and 843 out of the proceeds of the estate.
+### 843 Repayment of deposits after order of adjudication
+(1) If an order of adjudication is made after the Official Assignee is appointed receiver and manager, the Official Assignee must repay to the creditor the deposits made under rules 840 and 841 out of the proceeds of the estate.
 (2) If there are insufficient proceeds in the estate to pay the Official Assignee's fees and expenses as receiver and manager, the Official Assignee may keep all or any part of the deposits as payment of those fees and expenses.
 
-### 846 Dismissal of petition after order appointing Official Assignee as manager and receiver
-If, after an order has been made appointing the Official Assignee as receiver and manager, the petition upon which the order was made is dismissed,
-  (a) The Court must, on an application made within 15 working days from the date of the dismissal, make an order relating to any damages or claim arising out of the Official Assignee's appointment; and
-  (b) The Court may make any other order it thinks fit.
+### 844 Dismissal of application after order appointing Official Assignee as manager and receiver
+If, after an order has been made appointing the Official Assignee as receiver and manager, the application upon which the order was made is dismissed,—
+  (a) the Court must, on an application made within 15 working days from the date of the dismissal, make an order relating to any damages or claim arising out of the Official Assignee's appointment; and
+  (b) the Court may make any other order it thinks just.
 
-**Arrest of debtor after bankruptcy petition filed**
+#### Subpart 6 — Contributions from bankrupt
 
-### 847 Application for warrant under section 63 of Act
-(1) An application for a warrant under section 63 of the Act must be in form 96, and need not be verified by affidavit unless required by the Court.
-(2) Two copies of the warrant in form 97 must be lodged with the application.
+### 845 Application for order under section 147
+A creditor who intends to make an application under section 147 of the Act must give at least 10 working days' notice of that intention to the Official Assignee and to the bankrupt.
 
-### 848 Custody of arrested debtor
-(1) A debtor who is arrested under a warrant issued under section 63 of the Act must be placed into the custody of the superintendent of the prison specified in the warrant.
-(2) The superintendent of the prison must produce the debtor before the Court as it may from time to time direct, until the debtor is discharged by the Court.
+### 846 Official Assignee's report
+(1) If the Official Assignee or a creditor applies for an order under section 147 of the Act, the Official Assignee must prepare a report as to the circumstances of the bankruptcy, the bankrupt's conduct, and the bankrupt's earning power, responsibilities, and prospects.
+(2) At least 5 working days before the time fixed for the hearing, the Official Assignee must lodge the report in the Court, and forward a copy to the bankrupt, and to the applicant, if the applicant is a creditor.
 
-**Examination of persons before Court during bankruptcy**
+### 847 Official Assignee to notify employer, etc, about proposed assignment or charge
+If it is proposed that an order be made assigning to, or charging in favour of, the Official Assignee any money due or becoming due to the bankrupt by way of wages or salary or from any other source,—
+  (a) the Official Assignee must notify the employer or other person against whom the assignment or charge is proposed; and
+  (b) the person who is notified may be heard.
 
-### 849 Apprehended person to be brought before Court
-(1) The officer who apprehends a person under a warrant in form 100 must immediately bring the person before the Court for examination.
-(2) If the examination cannot be held immediately
-  (a) The apprehending officer must deliver the apprehended person into the custody of the superintendent of the prison specified in the warrant; and
-  (b) The superintendent of the prison must receive and keep that person, and must produce the person before the Court as required by the Court.
-
-### 850 Apprehending officer to report to Court
-(1) The apprehending officer must notify the Court immediately after a person has been apprehended under section 68(4) of the Act or delivered into custody, as the case may be.
-(2) The Court must appoint the earliest practicable day for the examination of the apprehended person.
-(3) The superintendent of the prison must produce the person for examination at the place and time appointed.
-
-**Contributions from bankrupt towards payment of debts**
-
-### 851 Application for order under section 45
-A creditor who intends to make an application under section 45 of the Act must give at least 10 working days' notice of that intention to the Official Assignee and to the bankrupt.
-
-### 852 Official Assignee's report
-(1) If an application is made for an order under section 45 of the Act, the Official Assignee must prepare a report as to the circumstances of the bankruptcy, the bankrupt's conduct, and the bankrupt's earning power, responsibilities, and prospects.
-(2) At least 5 working days before the time fixed for the hearing, the Official Assignee must lodge the report in the Court, and forward a copy of the report to the bankrupt, and to the applicant, if the applicant is a creditor.
-
-### 853 Official Assignee to notify employer, etc, about proposed assignment or charge
-If it is proposed that an order be made assigning to, or charging in favour of, the Official Assignee any money due or becoming due to the bankrupt by way of wages or salary or from any other source,
-  (a) The Official Assignee must notify the employer or other person against whom the assignment or charge is proposed; and
-  (b) The person who is notified may be heard.
-
-### 854 Official Assignee to serve order of assignment, etc
+### 848 Official Assignee to serve order of assignment, etc
 The Official Assignee must serve a duplicate of any order assigning or charging in favour of the Official Assignee any money due or becoming due to the bankrupt on the employer or other person against whom the assignment or charge was given.
 
-**Compositions during bankruptcy**
+#### Subpart 7 — Compositions during bankruptcy
 
-### 855 Application for order approving composition
-(1) The Official Assignee may apply to the Court to approve a composition (whether or not the Official Assignee reports in favour of it) if
-  (a) The creditors have confirmed the composition; or
-  (b) In any other case, the bankrupt does not within 3 working days from the date of the confirmation apply to the Court for approval of the composition.
-(2) The Official Assignee is not by making the application deemed to approve of the composition.
+### 849 Application for order approving composition
+(1) The Official Assignee may apply to the Court to approve a composition (whether or not the Official Assignee reports in favour of it) if—
+  (a) the creditors have passed a confirming resolution in relation to the composition; and
+  (b) the bankrupt does not, within 3 working days from the date of the confirmation, apply to the Court for approval of the composition.
+(2) The Official Assignee is not, by making the application, treated as approving the composition.
 
-### 856 Notice to Official Assignee of application to approve composition
+### 850 Notice to Official Assignee of application to approve composition
 Any person, other than the Official Assignee, who applies to the Court to approve a composition must, at least 10 working days before the day appointed for hearing the application, serve notice of the application on the Official Assignee.
 
-### 857 Notice of application to approve composition or scheme
-If an application is made to the Court to approve a composition or scheme, the Official Assignee must, at least 5 working days before the day appointed for hearing the application, send notice of the application to every creditor whose debt has been proved.
+### 851 Notice of application to approve composition
+If an application is made to the Court to approve a composition, the Official Assignee must, at least 5 working days before the day appointed for hearing the application, send notice of the application to every creditor whose debt has been proved.
 
-### 858 Official Assignee to account when composition approved
+### 852 Official Assignee to account when composition approved
 If a composition is approved by the Court, the Official Assignee must account to the bankrupt, or, as the case may be, to the trustee.
 
-**Discharge of bankrupt**
+#### Subpart 8 — Irregular transactions
 
-### 859 Filing and service of objection to discharge
-(1) An objection to a discharge under section 107(3) of the Act is entered by filing in the Court an objection in form 101.
+### 853 Applications by Assignee for cancellation of irregular transactions or retransfer of property or payment of value
+(1) An application to the Court by the Assignee under section 206 of the Insolvency Act 2006 (for the cancellation of an irregular transaction) or under section 207 of that Act (for the retransfer of property or payment of value) must be made by originating application under Part 4A of these rules.
+(2) An application under section 206 must be in form 102.
+(3) An application under section 207 must be in form 103.
+
+#### Subpart 9 — Discharge of bankrupt
+
+### 854 Filing and service of objection to discharge
+(1) An objection to a discharge under section 292 of the Act is entered by filing an objection in form 96.
 (2) A creditor who enters an objection to a discharge must serve the objection on the Official Assignee.
 
-### 860 Service, etc, of notice of application for discharge
-At least 15 working days before the hearing date, the bankrupt must
-  (a) Serve on the Official Assignee, and every creditor whose debt has been proved, notice of application for discharge under section 108 of the Act; and
-  (b) Cause notice of the application and of the hearing date to be advertised.
+### 855 Service, etc, of notice of application for discharge
+At least 15 working days before the hearing date, the bankrupt must—
+  (a) serve on the Official Assignee, and every creditor whose debt has been proved, notice of application for discharge under section 294 of the Act; and
+  (b) cause notice of the application and of the hearing date to be advertised.
 
-### 861 Report of Official Assignee
-At least 5 working days before the time fixed for the hearing, the Official Assignee must
-  (a) Lodge in the Court a copy of the Official Assignee's report under section 109(2) of the Act; and
-  (b) Serve a copy of the report on the bankrupt and every creditor known to the Official Assignee.
+### 856 Report of Official Assignee
+At least 5 working days before the hearing date, the Official Assignee must—
+  (a) lodge in the Court a copy of the Official Assignee's report under section 296 of the Act; and
+  (b) serve a copy of the report on the bankrupt and all creditors known to the Official Assignee.
 
-### 862 Opposition by creditor to discharge
-A creditor who intends to oppose the discharge of a bankrupt on grounds other than those specified in the Official Assignee's report must file and serve on the Official Assignee and the bankrupt a notice of the creditor's intended opposition by 1 pm on the day before the hearing.
+### 857 Opposition by creditor to discharge
+A creditor who intends to oppose the discharge of a bankrupt on grounds other than those specified in the Official Assignee's report must file and serve on the Official Assignee and the bankrupt a notice of the creditor's intended opposition and the grounds of opposition by 1 pm on the day before the hearing.
 
-### 863 Conditions affecting salary, etc, after order of discharge
+### 858 Conditions affecting salary, etc, after order of discharge
 (1) The Official Assignee must notify the bankrupt's employer of the Official Assignee's intention to ask the Court to impose a condition that affects any salary or wages that may, after the date of the order of discharge, become due to the bankrupt.
-(2) Before the Official Assignee may receive payment of any of the bankrupt's salary or wages under an order made under section 110 of the Act, the Official Assignee must notify the employer by whom the money is payable to the bankrupt of the order.
+(2) The Official Assignee must notify the employer of an order made under section 298 of the Act before receiving payment of any salary or wages.
 
-**Annulment of adjudication**
+### 859 Annulment of adjudication to be advertised
+The Official Assignee must immediately cause a notice of an order annulling an adjudication to be advertised.
 
-### 864 Annulment of adjudication to be advertised
-The Official Assignee must immediately cause a notice of every order annulling an adjudication to be advertised.
+#### Subpart 10 — Proposals
 
-**Proposals**
+### 860 Proposal and statement of affairs and affidavit
+A proposal under subpart 2 of Part 5 of the Act must be in form 97 and must be accompanied by a statement of affairs and affidavit in form 98.
 
-### 865 Proposal and statement of affairs and affidavit
-A proposal under Part 15 of the Act must be in form 103 and must be accompanied by a statement of affairs and affidavit in form 104.
+### 861 Trustee's report on proposal
+The trustee must file a report in form 99 with the application for approval under section 333 of the Act.
 
-### 866 Trustee's report on proposal
-The trustee must file a report in form 105 with the application for approval under section 143 of the Act.
+#### Subpart 11 — Insolvent deceased estates
 
-**Insolvent deceased estates**
+### 862 Application for order to administer under Part 6 of Act
+An application for an order to administer under Part 6 of the Act must be by originating application.
 
-### 867 Application for order to administer under Part 17 of Act
-An application for an order to administer under Part 17 of the Act must be by originating application.
+### 863 Application by creditor or beneficiary
+(1) Notice of an application under section 381 of the Act must be given by serving on the administrator, or, if no administrator has been appointed, on those persons that the Court directs, a copy of the application together with a copy of any supporting affidavit.
+(2) The Court may, within such time as the Court requires, direct the administrator to file the account in form 100 if—
+  (a) an application is made by a creditor, or any person beneficially interested, after a request has been made to an administrator; and
+  (b) the administrator, having been requested in writing to apply, has failed to make an application within 15 working days after receiving the request.
 
-### 868 Application by creditor or beneficiary
-(1) Notice of an application under section 155 of the Act must be given by serving on the administrator, or, if no administrator has been appointed, on such persons as the Court directs, a copy of the application together with a copy of any supporting affidavit.
-(2) The Court may, within such time as the Court requires, direct the administrator to file the account in form 106 if
-  (a) An application is made by a creditor, or any person beneficially interested after a request has been made to an administrator; and
-  (b) The administrator has failed to make an application within 21 working days.
+### 864 Duty of Registrar
+If an order is made under section 379 or 381 of the Act, the Registrar must send to the appointee and to the Commissioner of Inland Revenue a copy of the order and of the account specified in section 380(3) of the Act.
 
-### 869 Duty of Registrar where order made
-If an order is made under section 157 or section 158 of the Act, the Registrar must send to the appointee and to the Commissioner of Inland Revenue a copy of the order and of the account specified in section 154(3) of the Act.
+### 865 Duty of administrator where order made
+If an order has been made under section 379 or 381 of the Act,—
+  (a) the administrator must immediately send an account of the administrator's dealings and administration of the deceased estate to the appointee; and
+  (b) the administrator must, at the same time, give whatever particulars of the affairs of the deceased that are required by the appointee.
 
-### 870 Duty of administrator where order made
-If an order has been made under section 157 or section 158 of the Act,
-  (a) The administrator must immediately send to the appointee, an account of the administrator's dealings and administration of the deceased estate; and
-  (b) The administrator must, at the same time, give particulars of the affairs of the deceased as may be required by the appointee.
+### 866 Person who has intermeddled in estate may be ordered to give particulars
+The Court may, on an appointee's application, direct that an account be made, verified, and given by any person the Court considers has administered or otherwise intermeddled with all or any part of the deceased's property, if—
+  (a) an order has been made under section 379 or 381 of the Act; and
+  (b) it appears to the Court that no administrator exists and the appointee is unable to find any person willing to give the particulars required by rule 865.
 
-### 871 Person who has intermeddled in estate may be ordered to give particulars
-The Court may, on an appointee's application, direct that an account be made, verified, and given by any person whom the Court considers has administered or otherwise intermeddled with all or any part of deceased's property, if
-  (a) An order has been made under section 157 or section 158 of the Act; and
-  (b) It appears to the Court that no administrator exists and the appointee is unable to find any person willing to give the particulars required by rule 870.
+### 867 Administration election
+A certificate by Public Trust or the Maori Trustee recording an election to administer an insolvent estate under Part 6 of the Act must be in form 101.
 
-**Appeals, etc**
+#### Subpart 12 — Appeals
 
-### 872 Applications to vary or discharge order or decision of Registrar or District Court Judge
-(1) Every application to a Judge to vary or discharge the order or decision of a Registrar or District Court Judge made under section 6 of the Act must be filed,
-  (a) If it is made by a party who was present or represented when the order was made or the decision given, within 5 working days after the making of the order or the giving of the decision; or
-  (b) If it is made by a party who was not then present or represented, within 5 working days after the receipt by the party of notice of the order or decision.
+### 868 Applications to vary or discharge order or decision of Registrar or District Court Judge
+(1) An application to the Court under section 414 of the Act to vary or discharge the order or decision of a Registrar or District Court Judge under section 413 of the Act must be filed,—
+  (a) if it is made by a party who was present or represented when the order was made or the decision given, within 5 working days after the making of the order or the giving of the decision; or
+  (b) if it is made by a party who was not then present or represented, within 5 working days after the receipt by the party of notice of the order or decision.
 (2) The application does not stay proceedings unless a Judge, the Registrar, or the District Court Judge otherwise orders.
+
+### 869 Appeals to Court of Appeal
+(1) The Court of Appeal (Civil) Rules 2005, so far as they are applicable and with any necessary modifications, apply to appeals to the Court of Appeal under section 414 of the Act.
+(2) The Official Assignee of the bankrupt's property is a party to an appeal.
+
+#### Subpart 13 — Official Assignee
+
+### 870 Applications to Court by Official Assignee
+An application by the Official Assignee to the Court may be made personally, by counsel, or by any agent duly appointed under paragraph (t) of Schedule 1 of the Act.
+
+### 871 Official Assignee's liability for costs
+Unless the Court otherwise directs, the Official Assignee is not personally liable for costs if—
+  (a) proceedings are brought against the Official Assignee representing the estate of the bankrupt; or
+  (b) the Official Assignee is made a party to a proceeding on the application of another party.
+
+#### Subpart 14 — District Court filings
+
+### 872 Filing decisions of District Court
+(1) If, under the Act, an application relating to bankruptcy may be filed in a District Court, the Registrar of that Court must forward to the nearest High Court a certified copy of the decision of that Court.
+(2) The certified copy of the decision of the District Court must be filed by the Registrar and forms part of the proceedings of the High Court.
 
 ### 873 Appeals to Court of Appeal
 (1) The Court of Appeal (Civil) Rules 1997, so far as they are applicable and with any necessary modifications, apply to appeals to the Court of Appeal under section 8 of the Act.
@@ -9487,110 +9479,6 @@ At the same time as the originating application is filed, the plaintiff must fil
 | --- |
 
 | [General heading as in form 68] |
-| --- |
-
-| [General heading as in form 1 and rule 824] |
-| --- |
-
-| [General heading as in form 1 and rule 824] |
-| --- |
-
-| [General heading as in form 1 and rule 824] |
-| --- |
-
-| [General heading as in form 1 and rule 824] |
-| --- |
-
-| [General heading as in form 1 and rule 824] |
-| --- |
-
-| [General heading as in form 1 and rule 824] |
-| --- |
-
-| [General heading as in form 1 and rule 824] |
-| --- |
-
-| [General heading as in form 1 and rule 824] |
-| --- |
-
-| [General heading as in form 1 and rule 824] |
-| --- |
-
-| [General heading as in form 1 and rule 824] |
-| --- |
-
-| [General heading as in form 1 and rule 824] |
-| --- |
-
-| [General heading as in form 1 and rule 824] |
-| --- |
-
-| [General heading as in form 1 and rule 824] |
-| --- |
-
-| [General heading as in form 1 and rule 824] |
-| --- |
-
-| Statement showing the assets, debts, and liabilities of [Full name, address and description of insolvent person]. |  |  |
-| --- | --- | --- |
-| Assets |  |  |
-| Stock-in-trade at [Place], estimated at |  | $ |
-| Book debts, estimated to produce |  |  |
-| Cash in hand |  |  |
-| Cash in Bank of |  |  |
-| Furniture and other personal property according to list attached marked A |  |  |
-| Real property according to list attached marked B |  |  |
-| Surplus from securities in hands of secured creditors |  |  |
-| Other assets |  |  |
-| Total assets |  | $ |
-| Debts and Liabilities |  |  |
-| Unsecured creditors according to list attached, marked C |  | $ |
-| Secured creditors according to list attached, marked D |  |  |
-| Less estimated value of securities |  |  |
-| Surplus |  | $ |
-| Other liabilities, according to list attached, marked E |  |  |
-| Total debts |  | $ |
-| I, [Full name, address, and description of insolvent person] swear that the above statement and the lists marked A, B, C, D and E are a true statement of my assets and liabilities, the names and addresses of my creditors, and the securities held by them respectively. |  |  |
-| Sworn at [Place] [Date]. |  |  |
-|  | Insolvent person. |  |
-|  | Before me: |  |
-|  | A Solicitor of the High Court of New Zealand or (Deputy) Registrar of the High Court of New Zealand or Notary Public). |  |
-
-| [General heading as in form 1 and rule 824] |
-| --- |
-
-| [General heading as in form 1 and rule 824] |
-| --- |
-
-| Statement showing the assets, debts, and liabilities of the estate of [Full name and former address of deceased] (the deceased). |  |
-| --- | --- |
-| Assets |  |
-| Stock-in-trade at [Place] estimated at | $ |
-| Book debts according to list attached marked A |  |
-| Cash in hand |  |
-| Cash in Bank of |  |
-| Household furniture and effects |  |
-| Real property according to list attached marked B |  |
-| Surplus from securities in hands of secured creditors |  |
-| Any other assets according to list attached marked C |  |
-| Total assets | $ |
-| Debts and Liabilities |  |
-| Unsecured creditors, according to list attached, marked D |  |
-| Secured creditors according to list attached, marked E |  |
-| Less estimated value of securities |  |
-| Surplus | $ |
-| Other liabilities, according to list attached, marked F |  |
-| Total debts | $ |
-| According to the above statement there appears to be a deficiency in the estate amounting to [Amount] [Other particulars necessary to explain the account]. |  |
-| I, [Full name, address, and description of administrator] swear: |  |
-| 1. That I am the administrator of the estate. |  |
-| 2. That the above statement and the lists marked A, B, C, D, E and F respectively show the assets, debts, and liabilities of the deceased so far as they are known to me. |  |
-| Dated at [Place] [Date]. |  |
-| Administrator. |  |
-| Before me: |  |
-| A Solicitor of the High Court of New Zealand or (Deputy) Registrar of the High Court of New Zealand or Notary Public. |  |
-
-| [General heading as in form 1 and rule 824] |
 | --- |
 
 | [General headingForm 1 and endorsement] |
