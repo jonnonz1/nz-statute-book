@@ -1,5 +1,5 @@
 # Medicines Act 1981
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-03_
 
 > An Act to consolidate and amend the law relating to the manufacture, sale, and supply of medicines, medical devices, and related products
 
@@ -951,7 +951,7 @@ It is a condition of every licence to operate a pharmacy that the holder of the 
   (d) the pharmacy is in a hospital owned or operated by the company; or
   (e) it is a company that, at the commencement of this section, was lawfully operating a pharmacy.
 (3) Subsection (2)(e) ceases to apply to a company if there is or are a change or changes in the ownership of shares representing 25% of the share capital of the company after the commencement of this section.
-(4) For the purposes of subsection (2), pharmacist includes an administrator of the estate of a deceased pharmacist, and an assignee within the meaning of the Insolvency Act 1967 of the estate of a pharmacist, until—
+(4) For the purposes of subsection (2), pharmacist includes an administrator of the estate of a deceased pharmacist, and an assignee within the meaning of the Insolvency Act 2006 of the estate of a pharmacist, until—
   (a) the expiry of the period of 1 year after the date of the death of the deceased pharmacist, or the date on which the pharmacist was adjudicated bankrupt, has expired; or
   (b) subject to any conditions that the licensing authority proposes, the expiry of any extended period or periods permitted by the licensing authority.
 
@@ -967,7 +967,7 @@ It is a condition of every licence to operate a pharmacy that the holder of the 
   - **person** does not include a company
   - **pharmacist** includes the following persons
     (a) an administrator of the estate of a deceased pharmacist:
-    (b) an assignee, within the meaning of the Insolvency Act 1967, carrying on a pharmacy in his or her capacity as assignee of the estate of a pharmacist:
+    (b) an assignee, within the meaning of the Insolvency Act 2006, carrying on a pharmacy in his or her capacity as assignee of the estate of a pharmacist:
     (c) a liquidator carrying on a pharmacy under the authority of section 260 and Schedule 6 of the Companies Act 1993:
     (d) a receiver or manager of the property of a company carrying on, subject to the Receiverships Act 1993, a pharmacy comprised in that property.
 (4) Subsection (3) does not entitle any person to carry on business in a pharmacy after—
