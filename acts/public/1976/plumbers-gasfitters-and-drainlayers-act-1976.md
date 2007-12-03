@@ -1,5 +1,5 @@
 # Plumbers, Gasfitters, and Drainlayers Act 1976
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-03_
 
 > An Act to consolidate and amend the law relating to the registration of plumbers and gasfitters, and to make provision for the registration of drainlayers
 
@@ -115,7 +115,7 @@ This Act binds the Crown.
 (1) Any member of the Board may at any time resign his or her office by giving a notice to that effect to the Minister.
 (2) A member of the Board is to be taken to have vacated his or her office if—
   (a) He or she dies; or
-  (b) He or she is adjudged bankrupt under the Insolvency Act 1967.
+  (b) He or she is adjudged bankrupt under the Insolvency Act 2006.
 (3) Any member of the Board may be removed from office by the Minister, by notice given to the member, on the grounds of a mental or physical condition affecting performance of duty, or for neglect of duty, or misconduct, proved to the satisfaction of the Minister.
 (4) A member of the Board may be removed from office by the Minister, with the concurrence of the Board, by notice given to the member, on the ground that the member's performance on the Board is inadequate.
 (5) The powers of the Board are not affected by any vacancy in its membership.
