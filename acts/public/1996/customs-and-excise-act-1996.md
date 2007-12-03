@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-03_
 
 > An Act to—aReform the law relating to customs, excise, and other duties; andbProvide for the administration and enforcement of Customs controls at the border; andcRepeal the Customs Act 1966; anddProvide for related matters
 
@@ -1470,7 +1470,7 @@ For the purposes of section 97 of this Act, one person is related to another per
   (c) A company in respect of the property of which a receiver has been appointed in circumstances to which section 30 of the Receiverships Act 1993 applies; or
   (d) An unincorporated body of persons (including a partnership or a joint venture or the trustees of a trust) that is put into liquidation; or
   (e) An unincorporated body of persons (including a partnership or a joint venture or the trustees of a trust) in respect of the property of which a receiver is appointed by the High Court—
-(2) In any case to which section 99 of this Act applies, the provisions of section 279 of the Companies Act 1955, section 305 of the Companies Act 1993, and section 90 of the Insolvency Act 1967 shall not apply.
+(2) In any case to which section 99 of this Act applies, the provisions of section 279 of the Companies Act 1955, section 305 of the Companies Act 1993, and sections 243, 244, and 246 to 250 of the Insolvency Act 2006 shall not apply.
 
 ### 99 Rights and duties of Chief Executive in recovery of duty
 (1) In any case to which this section applies, the Chief Executive shall notify the Official Assignee or the liquidator or the receiver, as the case may be, that the unpaid duty constitutes a charge on the goods in accordance with section 97 of this Act.
@@ -1521,7 +1521,7 @@ Section 101 of this Act applies to the recovery of unpaid duty—
 
 ### 101 Ranking of duty
 (1) Unpaid duty to which this section applies shall be paid in accordance with the following provisions of this section.
-(2) In the case of an individual who is declared bankrupt, the amount of any duty to which this section applies shall be paid in accordance with the requirements of section 104 of the Insolvency Act 1967.
+(2) In the case of an individual who is declared bankrupt, the amount of any duty to which this section applies shall be paid in accordance with the requirements of section 274(5) of the Insolvency Act 2006.
 (3) In the case of a company that is in liquidation, the amount of any duty to which this section applies shall be paid in accordance with the requirements of section 286 of, and Schedule 8C to, the Companies Act 1955, or section 312 of, and Schedule 7 to the Companies Act 1993, as the case may be.
 (4) In the case of a company in respect of the property of which a receiver is appointed in circumstances to which section 30 of the Receiverships Act 1993 applies, the amount of duty to which this section applies shall be paid in accordance with the requirements of section 30(2) of the Receiverships Act 1993.
 (5) In the case of an unincorporated body of persons (including a partnership or a joint venture or the trustees of a trust) that is put into liquidation, the amount of any duty to which this section applies shall be paid in accordance with section 17B of the Judicature Act 1908.
