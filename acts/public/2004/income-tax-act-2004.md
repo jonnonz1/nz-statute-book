@@ -1,5 +1,5 @@
 # Income Tax Act 2004
-_Consolidation as at 2007-11-29_
+_Consolidation as at 2007-12-03_
 
 ### A 1 Title
 This Act is the Income Tax Act 2004.
@@ -1860,7 +1860,7 @@ Timing of income
 How remission or cancellation occurs
 (4) Remission or cancellation occurs, for the purposes of this section, in 1 of the following ways:
   (a) a liability is remitted to the extent to which the person is discharged from it without fully adequate consideration in money or money's worth:
-  (b) a liability is cancelled to the extent to which the person is released from it under the Insolvency Act 1967 or the Companies Act 1993 or the laws of a country or territory other than New Zealand:
+  (b) a liability is cancelled to the extent to which the person is released from it under the Insolvency Act 2006 or the Companies Act 1993 or the laws of a country or territory other than New Zealand:
   (c) a liability is cancelled to the extent to which the person is released from it by a deed or agreement of composition with the person's creditors:
   (d) a liability is cancelled to the extent to which it is irrecoverable or unenforceable through lapse of time.
 
@@ -11616,7 +11616,7 @@ Sale at discount to associated person
 Discharge without consideration
 (9) A party to a financial arrangement must calculate a base price adjustment as at the date on which a party to the arrangement is discharged from making all remaining payments under the arrangement without fully adequate consideration.
 Operation of law
-(10) A party to a financial arrangement must calculate a base price adjustment as at the date on which a party to the arrangement is released from making all remaining payments under the arrangement under the Insolvency Act 1967 or the Companies Act 1993 or the laws of a country or territory other than New Zealand.
+(10) A party to a financial arrangement must calculate a base price adjustment as at the date on which a party to the arrangement is released from making all remaining payments under the arrangement under the Insolvency Act 2006 or the Companies Act 1993 or the laws of a country or territory other than New Zealand.
 Composition with creditors
 (11) A party to a financial arrangement must calculate a base price adjustment as at the date on which a party to the arrangement is released from making all remaining payments under the arrangement by a deed or agreement of composition with the party's creditors.
 Lapse of time
@@ -11856,7 +11856,7 @@ When this section applies
 (1) This section applies when—
   (a) a person is released from the obligation to pay an amount owing under a financial arrangement; and
   (b) the release occurs under—
-    (i) section 114 of the Insolvency Act 1967; or
+    (i) section 304 of the Insolvency Act 2006; or
     (ii) any of the Inland Revenue Acts; or
     (iii) a loan described in subsection (2).
 Social assistance suspensory loan
@@ -14957,7 +14957,7 @@ The amount of the income deemed to be derived or the expenditure deemed to be in
   (c) the occurrence of any event reducing or cancelling the obligations of an issuer under the financial arrangement,—
 (6) Where—
   (a) a person has been released from the obligation to make payment of an amount—
-    (i) under a financial arrangement by operation of section 114 of the Insolvency Act 1967; or
+    (i) under a financial arrangement by operation of section 304 of the Insolvency Act 2006; or
     (ii) under any of the Inland Revenue Acts (and whether the relief arises through remission, waiver, or cancellation); or
     (iii) under a social assistance suspensory loan by virtue of that person satisfying the conditions referred to in section EZ 35(8)(c)(ii); and
   (b) that amount would, but for this subsection, be taken into account in determining the income derived by or expenditure incurred by that person under the old financial arrangements rules,— that amount is, for the purpose of determining the income derived by or expenditure incurred by that person, and notwithstanding the old financial arrangements rules (other than this subsection), deemed to have been paid under that financial arrangement when the obligation to make payment has been so released.
@@ -14973,7 +14973,7 @@ The amount of the income deemed to be derived or the expenditure deemed to be in
     (iii) of a kind that is declared by the Governor-General by Order in Council to be a social assistance suspensory loan; and
   (d) a financial arrangement is deemed to be remitted where—
     (i) the issuer has been discharged from making all remaining payments under that financial arrangement without fully adequate consideration; or
-    (ii) the issuer has been released from making all remaining payments under that financial arrangement by the operation of the Insolvency Act 1967 or the Companies Act 1955 or the Companies Act 1993 or the laws of any country or territory other than New Zealand, or by any deed or agreement of composition with its creditors; or
+    (ii) the issuer has been released from making all remaining payments under that financial arrangement by the operation of the Insolvency Act 2006 or the Companies Act 1955 or the Companies Act 1993 or the laws of any country or territory other than New Zealand, or by any deed or agreement of composition with its creditors; or
     (iii) all of the remaining payments under the financial arrangement have become irrecoverable or unenforceable by action through the lapse of time; or
     (iv) the financial arrangement is a debt that is sold at a discount to a person associated with the debtor under the circumstances described in section EZ 38; and
   (e) where a person ceases to be a New Zealand resident any financial arrangement in relation to which that person is an issuer or a holder is deemed, in relation to the person, to have been transferred for its market value at that date.
