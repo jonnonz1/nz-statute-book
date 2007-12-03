@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2007-12-03_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
@@ -2885,7 +2885,7 @@ The enactments specified in Schedule 3 to this Act are hereby amended in the man
 |  | 142(1)(eb) | Assisting person to enter New Zealand unlawfully |
 |  | 142(1)(ec) | Assisting completion of arrival card in false or misleading manner |
 |  | 142(2) | Modifying form after completion and signing |
-| The Insolvency Act 1967 | 126, 127(2) | Crimes by bankrupt |
+| Insolvency Act 2006 | 419 to 428, 430 | Offences by bankrupt |
 | The Inspector-General of Intelligence and Security Act 1996 | 28 | Unauthorised making or disclosure of records. |
 | The Intelligence and Security Committee Act 1996 | 20 | Unauthorised making or disclosure of records |
 | The Land Agents Act 1953 |  |  |
