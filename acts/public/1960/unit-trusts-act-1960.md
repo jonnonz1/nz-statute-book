@@ -1,5 +1,5 @@
 # Unit Trusts Act 1960
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2007-12-03_
 
 > An Act to provide for regulating the operations of unit trusts
 
@@ -204,7 +204,7 @@ All money required to be paid to the trustee or a nominated person of the truste
 ### 27 Power of Court to assess damages against delinquent directors of manager
 (1) If, in the course of winding up any company that is the manager of a unit trust, it appears that the company has misapplied or retained or become liable or accountable for any money or property of the unit trust, or committed any misfeasance or breach of trust in relation to the unit trust, the Court may, on the application of the Official Assignee or of the liquidator or of the trustee or of any unit holder, examine into the conduct of any past or present director, manager, or liquidator, or any officer of the company who has been a party to or knowingly permitted the misapplication, retention, misfeasance, or breach of trust, and compel him to repay or restore the money or property or any part thereof respectively with interest at such rate as the Court thinks just or to contribute such sum to the assets of the trust by way of compensation in respect of the misapplication, retention, misfeasance, or breach of trust as the Court thinks just.
 (2) The provisions of this section shall have effect notwithstanding that the act is one for which the offender may be criminally liable.
-(3) Where an order for payment of money is made under this section, the order shall be deemed to be a final judgment within the meaning of paragraph (d) of subsection (1) of section 19 of the Insolvency Act 1967.
+(3) Where an order for payment of money is made under this section, the order shall be deemed to be a final judgment within the meaning of section 17(1)(a) of the Insolvency Act 2006.
 
 ### 28 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make all such regulations as may in his opinion be necessary or expedient for giving full effect to the provisions of this Act and for the due administration thereof.
