@@ -1,5 +1,5 @@
 # Energy Companies Act 1992
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-03_
 
 > An Act—aTo provide for the formation of energy companies, the vesting in such companies of the undertakings of Electric Power Boards and the electricity and gas undertakings of local authorities, and for the dissolution of Electric Power Boards; andbTo repeal the Electric Power Boards Act 1925, the Auckland Electric Power Board Act 1978, and the Waikato Electricity Authority Act 1988
 
@@ -118,7 +118,7 @@ Subject to section 8 of this Act, the interim trustees holding office in respect
 (1) The following persons shall be incapable of being interim trustees:
   (a) A person who is mentally disordered within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992:
   (b) A bankrupt who has not obtained an order of discharge, or whose order of discharge is suspended for a term not yet expired, or is subject to conditions not yet fulfilled:
-  (c) A person to whom an order made under section 111 of the Insolvency Act 1967 applies:
+  (c) A person to whom an order made under section 299 of the Insolvency Act 2006 applies:
   (d) A person in respect of whom a composition or arrangement with that person's creditors is in force:
   (e) A person who is subject to a property order made under section 30 or section 31 of the Protection of Personal and Property Rights Act 1989:
   (f) A person who is convicted of an offence punishable by imprisonment for a term of 2 years or more, unless that person has obtained a pardon or has served the sentence or otherwise suffered the sentence imposed on that person:
