@@ -1,5 +1,5 @@
 # Human Rights Act 1993
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2007-12-03_
 
 > An Act to consolidate and amend the Race Relations Act 1971 and the Human Rights Commission Act 1977 and to provide better protection of human rights in New Zealand in general accordance with United Nations Covenants or Conventions on Human Rights.
 
@@ -272,7 +272,7 @@ The office holder—
 The office holder—
   (a) may resign from the office by delivering to the Minister a notice in writing to that effect and stating when the resignation takes effect:
   (b) ceases to hold office if he or she dies:
-  (c) ceases to hold office if he or she is, under the Insolvency Act 1967, adjudged bankrupt:
+  (c) ceases to hold office if he or she is, under the Insolvency Act 2006, adjudged bankrupt:
   (d) may, at any time, be removed from the office by the Governor-General for incapacity affecting performance of duty, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General.
 
 **Administrative provisions relating to Human Rights Commission and Office of Human Rights Proceedings**
@@ -1253,7 +1253,7 @@ The Tribunal shall consist of—
   (e) cultural issues and the needs and aspirations (including life experiences) of different communities of interest and population groups in New Zealand society.
 (2A) At least 3 members of the panel must be barristers or solicitors of the High Court of not less than 5 years' practice.
 (3) The name of a person shall be removed from the panel if—
-  (a) The person dies or is, under the Insolvency Act 1967, adjudged bankrupt; or
+  (a) The person dies or is, under the Insolvency Act 2006, adjudged bankrupt; or
   (b) The Minister directs that the name of the person be removed from the panel for disability affecting performance of duty, neglect of duty, or misconduct, proved to the satisfaction of the Minister; or
   (c) A period of 5 years has elapsed since the date on which the Minister last approved the entry of the person's name; or
   (d) The person requests by writing addressed to the Minister that his or her name be removed.
@@ -1267,7 +1267,7 @@ The Tribunal shall consist of—
 
 ### 103 Vacation of office by Chairperson and Deputy Chairperson
 (1) A Chairperson and any Deputy Chairperson of the Tribunal may at any time resign his or her office by delivering a notice in writing to that effect to the Minister.
-(2) A Chairperson and any Deputy Chairperson of the Tribunal shall be deemed to have vacated his or her office if he or she dies or is, under the Insolvency Act 1967, adjudged bankrupt.
+(2) A Chairperson and any Deputy Chairperson of the Tribunal shall be deemed to have vacated his or her office if he or she dies or is, under the Insolvency Act 2006, adjudged bankrupt.
 (3) A Chairperson and any Deputy Chairperson of the Tribunal may at any time be removed from office by the Governor-General for disability affecting performance of duty, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General.
 
 **Procedure of Tribunal**
