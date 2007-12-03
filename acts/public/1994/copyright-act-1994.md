@@ -1,5 +1,5 @@
 # Copyright Act 1994
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-03_
 
 > An Act to consolidate and amend the law relating to copyright
 
@@ -2428,7 +2428,7 @@ The Tribunal constituted by section 30 of the Copyright Act 1962 and known as th
 
 ### 208 Vacation of office
 (1) Any member of the Tribunal may at any time resign his or her office by delivering a notice in writing to that effect to the Minister.
-(2) Any member of the Tribunal shall be deemed to have vacated his or her office if he or she dies or is, under the Insolvency Act 1967, adjudged bankrupt.
+(2) Any member of the Tribunal shall be deemed to have vacated his or her office if he or she dies or is, under the Insolvency Act 2006, adjudged bankrupt.
 (3) Any member of the Tribunal may at any time be removed from office by the Governor-General for disability affecting performance of duty, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General.
 
 ### 209 Deputies of members
