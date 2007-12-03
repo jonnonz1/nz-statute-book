@@ -1,5 +1,5 @@
 # Corporations (Investigation and Management) Act 1989
-_Consolidation as at 2007-11-01_
+_Consolidation as at 2007-12-03_
 
 > An Act to enable the Registrar of Companies to determine whether corporations are at risk, to enable action to be taken in relation to such corporations in appropriate cases, and to repeal the Companies Special Investigations Act 1958
 
@@ -339,7 +339,7 @@ The Securities Commission shall not make a recommendation under section 38 of th
 (4) Subject to the provisions of this Act, nothing in subsection (1) of this section affects the existence of any security over the property of any corporation or its priority over other debts.
 (5) Nothing in paragraph (a) of subsection (1) of this section limits or prevents any person commencing or continuing any action or other proceedings, including proceedings by way of counterclaim, against a corporation in respect of any contract entered into, or obligation incurred, by that corporation after the date on which, and the time at which, that corporation was declared to be subject to statutory management.
 (6) Nothing in paragraph (b) of subsection (1) of this section limits or prevents any person issuing any execution, attaching any debt, or otherwise enforcing or seeking to enforce any judgment or order obtained against a corporation in respect of any contract entered into, or obligation incurred, by that corporation after the date on which, and the time at which, that corporation was declared to be subject to statutory management.
-(7) In the case of a netting agreement to which sections 310A to 310O of the Companies Act 1993 or sections 93A to 93I of the Insolvency Act 1967 apply,—
+(7) In the case of a netting agreement to which sections 310A to 310O of the Companies Act 1993 or sections 255 to 263 of the Insolvency Act 2006 apply,—
   (a) Nothing in subsection (1)(h) applies to any right of set-off provided for in the netting agreement; and
   (b) Nothing in subsection (1) limits or prevents the exercise of any of the following rights under the netting agreement:
     (i) The termination, in accordance with the netting agreement, of all or any transactions that are subject to the netting agreement by reason of the occurrence of an event specified in the netting agreement, being an event (including the appointment of a statutory manager) occurring not later than the commencement of statutory management; or
@@ -363,7 +363,7 @@ The Securities Commission shall not make a recommendation under section 38 of th
 (1) The statutory manager of a corporation may, notwithstanding the terms of any contract, suspend in whole or in part the repayment of any deposit, or the payment of any debt, or the discharge of any obligation, to any person.
 (2) The suspension by a statutory manager in whole or in part of the repayment of any deposit, or the payment of any debt, or the discharge of any obligation, to any person pursuant to subsection (1) of this section shall not constitute a breach or repudiation of any contract entered into by the corporation with any person.
 (3) Nothing in subsection (1) of this section shall authorise the suspension by the statutory manager of the repayment of any deposit, or the payment of any debt, or the discharge of any obligation, to any person where the obligation to repay the deposit, or to pay the debt, or to discharge the obligation, was incurred by the corporation or by the statutory manager after the date upon which, and the time at which, the corporation became subject to statutory management.
-(4) Nothing in subsection (1) authorises the suspension by the statutory manager of the payment of any amount that would be included in the calculation of a netted balance in accordance with section 310C of the Companies Act 1993 or section 93C of the Insolvency Act 1967 or section 156R of the Reserve Bank of New Zealand Act 1989, as the case may be. However, subsection (1) applies to the payment of the netted balance.
+(4) Nothing in subsection (1) authorises the suspension by the statutory manager of the payment of any amount that would be included in the calculation of a netted balance in accordance with section 310C of the Companies Act 1993 or section 257 of the Insolvency Act 2006 or section 156R of the Reserve Bank of New Zealand Act 1989, as the case may be. However, subsection (1) applies to the payment of the netted balance.
 
 ### 45 Management of corporation to vest in statutory manager
 (1) Subject to this Part of this Act, where a corporation is declared to be subject to statutory management, the management of that corporation shall, on and after the date, and at and from the time, specified in the order, vest in the statutory manager of that corporation.
@@ -408,17 +408,17 @@ Subject to this Part of this Act, a statutory manager of a corporation shall, fo
 (2) Where a statutory manager of a corporation sells or otherwise disposes of any property or assets of that corporation under section 50(1), being property or assets subject to a security interest, the person entitled to the security interest must be paid out of the proceeds of sale or other disposition in priority to all other claims other than—
   (a) the costs of the statutory manager in selling or disposing of the property or assets; and
   (b) claims in respect of preferential payments made under section 312 of the Companies Act 1993 (as applied by section 55), in the case of—
-    (i) proceeds of an account receivable that is subject to—
-      (A) a non-purchase money security interest; or
-      (B) a security interest that does not arise from the transfer of the account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); or
-    (ii) proceeds of inventory that are subject to a non-purchase money security interest.
+    (i) proceeds of an account receivable that is subject to a security interest that—
+      (A) is not a purchase money security interest that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999; and
+      (B) is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the time the corporation was declared to be subject to statutory management and that arises from the transfer of the account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); or
+    (ii) proceeds of inventory that are subject to a security interest that is not a purchase money security interest that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999.
 (3) Where a statutory manager of a corporation sells or otherwise disposes of any property or assets of that corporation to any body corporate formed and registered pursuant to section 50(2)(a) of this Act, being property or assets subject to a security in favour of any other person, the property or those assets shall continue to be subject to that security.
 (4) If a statutory manager of a corporation sells or otherwise disposes of any shares in a body corporate formed and registered under section 50(2)(a), any property or assets of which are subject to a security interest, other than a security interest of the kind described in subsection (6), the person entitled to the security interest must be paid out of the proceeds of sale or other disposition in priority to all other claims other than the costs of the statutory manager in selling or disposing of the shares.
 (5) If a statutory manager of a corporation sells or otherwise disposes of any property or assets of a body corporate formed and registered under section 50(2)(a), being property or assets subject to a security interest, other than a security interest of the kind described in subsection (6), the person entitled to the security interest must be paid out of the proceeds of sale or other disposition in priority to all other claims other than the costs of the statutory manager in selling or disposing of the property or assets.
-(6) The kind of security interest referred to in this section is a security interest that—
+(6) The kind of security interest referred to in this subsection is a security interest that—
   (a) is over all or any part of the corporation's accounts receivable and inventory or all or any part of either of them; and
-  (b) is not a purchase money security interest; and
-  (c) does not arise from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation).
+  (b) is not a purchase money security interest that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999; and
+  (c) is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the time the corporation was declared to be subject to statutory management and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation).
 (7) In this section, account receivable, inventory, new value, non-purchase money security interest, proceeds, purchase money security interest, and security interest have the same meanings as in the Personal Property Securities Act 1999.
 
 ### 52 Liquidation of corporations
