@@ -1,5 +1,5 @@
 # Insolvency Amendment Act 2001
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-03_
 
 ### 1 Title
 (1) This Act is the Insolvency Amendment Act 2001.
