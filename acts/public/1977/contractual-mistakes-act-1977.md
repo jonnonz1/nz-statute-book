@@ -1,5 +1,5 @@
 # Contractual Mistakes Act 1977
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-03_
 
 > An Act to reform the law relating to the effect of mistakes on contracts
 
@@ -64,7 +64,13 @@ This Act shall bind the Crown.
   (b) Any disposition of property made by or through a person who became entitled to the property under a disposition to which paragraph (a) of this subsection applies—
 (2) Nothing in any order made under this Act shall affect the operation of section 130 of the Property Law Act 1952.
 (3) In this section—
-  - **Disposition** has the meaning assigned to it by section 2 of the Insolvency Act 1967; and
+  - **disposition** means—
+    (a) any conveyance, transfer, assignment, settlement, delivery, payment, or other alienation of property, whether at law or in equity:
+    (b) the creation of a trust:
+    (c) the grant or creation of any lease, mortgage, charge, servitude, licence, power, or other right, estate, or interest in or over any property, whether at law or in equity:
+    (d) the release, discharge, surrender, forfeiture, or abandonment, at law or in equity, of any debt, contract, or thing in action, or of any right, power, estate, or interest in or over any property; and for this purpose a debt, or any other right, estate, or interest, shall be deemed to have been released or surrendered when it has become irrecoverable or unenforceable by action through the lapse of time:
+    (e) the exercise of a general power of appointment in favour of any person other than the donee of the power:
+    (f) any transaction entered into by any person with intent thereby to diminish, directly or indirectly, the value of that person's own estate and to increase the value of the estate of any other person
   - **Mistaken contract** means a contract entered into in the circumstances described in section 6(1)(a) of this Act.
 
 ### 9 Jurisdiction of District Courts
