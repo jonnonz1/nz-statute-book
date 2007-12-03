@@ -1,5 +1,5 @@
 # Volunteers Employment Protection Act 1973
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2007-12-03_
 
 > An Act to make provision for the protection of the employment of volunteers to Her Majesty's Armed Forces
 
@@ -494,10 +494,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
 (3) Compensation is not to be payable in respect of any period of leave that is 28 days or less.
 
 ### 15 Priority in bankruptcy or winding up of compensation ordered to be paid by employer
-(1) Subject to the provisions of this section,—
-  (a) There shall be included among the debts which, under section 104 of the Insolvency Act 1967, are to be paid in the fourth priority in the distribution of the property of a bankrupt any sum ordered or adjudged under section 14ZK of this Act to be paid by way of reimbursement or compensation where the default or contravention by reason of which the order or judgment for reimbursement or compensation was made or given occurred before the date of the filing of a debtor's petition, or the filing of a creditor's petition on which an order of adjudication is made, whether or not the order or judgment for reimbursement or compensation was made or given before that date:
-  (b) Any sum ordered or adjudged under section 14ZK of this Act to be paid by way of reimbursement or compensation in respect of a default or contravention occurring before the commencement of the liquidation of the company, whether or not the order or judgment for reimbursement or compensation was made or given before that date and time shall in the liquidation of the company be paid in accordance with section 286 and clause 2(i) of Schedule 8C to the Companies Act 1955 or section 312 and clause 2(i) of Schedule 7 to the Companies Act 1993, as the case may be.
-(2) The sum to which priority is to be given under paragraph (a) or paragraph (b) of subsection (1) of this section, as the case may be, shall not in the case of any one claimant exceed $200.
+[Repealed]
 
 ### 16 Cancellation of existing liability for service
 Upon the commencement of this Act no person shall be under any further liability to perform or undergo compulsory military training or service, or to register, or to submit to medical examination, by reason of any liability that arose under the National Military Service Act 1961.
