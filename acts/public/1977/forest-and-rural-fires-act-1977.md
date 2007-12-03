@@ -1,5 +1,5 @@
 # Forest and Rural Fires Act 1977
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-03_
 
 > An Act to consolidate and amend the law relating to the safeguarding of life and property by the prevention, detection, control, restriction, suppression and extinction of fire in forest and rural areas and other areas of vegetation
 
@@ -751,7 +751,7 @@ Notwithstanding anything in the Summary Proceedings Act 1957, any information in
 (2) Every person on the panel shall be a person with special skill or knowledge in rural fire control matters.
 (3) The Minister shall publish from time to time in the Gazette the names of the persons who are on the panel maintained by the Minister under subsection (1) of this section.
 (4) A person shall be removed from the panel if—
-  (a) The person dies or is, under the Insolvency Act 1967, adjudged bankrupt; or
+  (a) The person dies or is, under the Insolvency Act 2006, adjudged bankrupt; or
   (b) The Minister directs that the person be removed from the panel for inability to perform the functions of the office, neglect of duty, or misconduct, proved to the satisfaction of the Minister; or
   (c) A period of 5 years has elapsed since the date on which the Minister last approved the inclusion of that person on the panel; or
   (d) The person requests by writing addressed to the Minister that he or she be removed from the panel.
