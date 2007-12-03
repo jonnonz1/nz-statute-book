@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2007-12-03_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -1357,7 +1357,7 @@ A registered person who receives a supply of services that is treated by section
 [Repealed]
 
 ### 29 Assessments deemed correct except in proceedings on objection
-Except in proceedings under Part 8A of the Tax Administration Act 1994, no assessment made by the Commissioner shall be disputed in any Court or in any proceedings (including proceedings before a Taxation Review Authority) either on the ground that the person so assessed is not a registered person or on any other grounds; and, except as aforesaid, every such assessment and all the particulars thereof shall be conclusively deemed and taken to be correct, and the liability of the person so assessed shall be determined accordingly.
+[Repealed]
 
 ### 30 Evidence of returns and assessments
 [Repealed]
@@ -1412,8 +1412,8 @@ Except in proceedings under Part 8A of the Tax Administration Act 1994, no asses
     (i) ranks immediately after any preferential claims for any wages or other sums payable to or on account of any servant, worker, apprentice, or articled clerk; and
     (ii) ranks in priority over any claims of any person under a security interest to the extent that the security interest—
       (A) is over all or any part of the unincorporated body's accounts receivable and inventory or all or any part of either of them; and
-      (B) is not a purchase money security interest; and
-      (C) does not arise from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); and
+      (B) is not a purchase money security interest that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999; and
+      (C) is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the time of the receiver’s appointment and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); and
     (iii) must be paid accordingly out of any accounts receivable and inventory that are subject to the security interest (or their proceeds).
 (3) This section shall apply notwithstanding anything in any other Act.
 (4) In subsection (2)(c), the terms account receivable, inventory, new value, proceeds, purchase money security interest, and security interest have the same meanings as in the Personal Property Securities Act 1999.
@@ -1531,7 +1531,12 @@ In any case where, upon the investigation by the Commissioner of the liability o
   (c) Is liable for tax in respect of—
     (i) The new start grant; or
     (ii) The taxable activity, including its ending, whether premature or otherwise,—
-(3)
+(3) Where, in relation to a taxable activity in respect of which a person has received a new start grant,—the Commissioner may, having regard to the matters referred to in section CX 41B(4) and (5) or section EW 47B(4) and (5) of the Income Tax Act 2004, remit in whole or in part any amount of tax payable by that registered person that relates to that taxable activity on that land.
+  (a) Any registered person is a person or entity associated with the person who received the new start grant within the meaning of section CX 41B(4) or EW 47B(4) of the Income Tax Act 2004; and
+  (b) That registered person is liable for tax in respect of—
+    (i) The taxable activity, including its ending, whether premature or otherwise; or
+    (ii) Land on which the taxable activity was carried on (including its sale or other disposal); and
+  (c) That registered person has furnished all returns required under this Act,—
 
 ### 49 Relief from additional tax
 [Repealed]
@@ -2023,7 +2028,7 @@ Where—the supplier may increase the consideration for the supply by an amount 
   (b) Are made available to the recipient on or after the 1st day of October 1986,—
   (c) To the extent that the aggregate of the consideration in money for all supplies in respect of the sale of those goods which, pursuant to section 9(1) or section 9(3)(aa)(ii) of this Act, took place before the 1st day of October 1986, exceeds that value, the amount of that excess shall be deemed to be consideration in money for a taxable supply made by that supplier on the 1st day of October 1986 and charged with tax pursuant to section 8(1) of this Act:
   (d) To the extent that that value exceeds the aggregate of the consideration in money for all supplies in respect of the sale of those goods which, pursuant to section 9(1) or section 9(3)(aa)(ii) of this Act, took place before the 1st day of October 1986, the consideration in money for the first supply in respect of the sale of those goods which, pursuant to section 9(1) or section 9(3)(aa)(ii) of this Act, takes place on or after the 1st day of October 1986 shall be deemed to be reduced by the amount of that excess:
-    Provided that any part of the amount of that excess remaining, in any case where that consideration is reduced to nil as a result of the application of this paragraph, shall be carried forward and the consideration for any subsequent such supply shall be deemed to be reduced to that extent, and so on.:
+  Provided that any part of the amount of that excess remaining, in any case where that consideration is reduced to nil as a result of the application of this paragraph, shall be carried forward and the consideration for any subsequent such supply shall be deemed to be reduced to that extent, and so on.:
   Provided that this subsection shall only apply to the extent that that value has been determined on or before the 1st day of December 1986 in a manner acceptable to the Commissioner by a competent independent valuer, or by any other competent valuer that the Commissioner may, in the Commissioner's discretion approve:
   Provided further that where any such supply is made to a registered person, exclusively for the purposes of making taxable supplies, the first proviso to this subsection shall not apply.
 
