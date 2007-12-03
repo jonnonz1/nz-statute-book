@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2007-12-03_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -2881,7 +2881,7 @@ The Council may, from time to time, by resolution, make, alter, or rescind any r
 
 ### 284 Extraordinary vacancies
 (1) An appointed member of the Council may, at any time, be removed from office by the Governor-General for inability to perform the functions of the office, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General.
-(2) An appointed member is deemed to have vacated his or her office if he or she is, under the Insolvency Act 1967, adjudged bankrupt.
+(2) An appointed member is deemed to have vacated his or her office if he or she is, under the Insolvency Act 2006, adjudged bankrupt.
 (3) Despite subsection (1), if at any time an appointed member holds judicial office, he or she may not be removed from the office of appointed member, except for inability to perform the functions of the office, unless he or she is removed or suspended from his or her judicial office.
 (4) An appointed member may, at any time, resign his or her office by giving notice in writing to that effect to the Attorney-General.
 (5) If an appointed member dies or resigns or is removed from office, or is deemed to have vacated his or her office, the vacancy so created is deemed to be an extraordinary vacancy and must be filled in the manner in which the appointment to the vacant office was originally made.
@@ -3997,7 +3997,7 @@ Nothing in this schedule prevents the New Zealand Law Society or the New Zealand
 
 ### 2 Vacation of office
 (1) The person appointed as the Legal Complaints Review Officer may, at any time, be removed from office by the Minister for inability to perform the functions of the office, neglect of duty, or misconduct, proved to the satisfaction of the Minister.
-(2) The person appointed as the Legal Complaints Review Officer is deemed to have vacated his or her office if he or she is, under the Insolvency Act 1967, adjudged bankrupt.
+(2) The person appointed as the Legal Complaints Review Officer is deemed to have vacated his or her office if he or she is, under the Insolvency Act 2006, adjudged bankrupt.
 (3) The person appointed as the Legal Complaints Review Officer may, at any time, resign his or her office by giving notice in writing to that effect to the Minister.
 
 ### 3 Deputy Legal Complaints Review Officer
@@ -4080,7 +4080,7 @@ Each member of the Disciplinary Tribunal must, before entering on the performanc
 ### 3 Vacation of office
 (1) A member of the Disciplinary Tribunal who holds office under section 228(a) or (b) or (c) and who was, in accordance with section 230(2) or section 233(1) appointed by the Governor-General, may, at any time, be removed from office by the Governor-General for inability to perform the functions of the office, neglect of duty, or misconduct proved to the satisfaction of the Governor-General.
 (2) A member of the Disciplinary Tribunal who holds office under section 228(d) or (e) and who was, in accordance with section 233(2) or (3) appointed by a council, may, at any time, be removed from office by that council for inability to perform the functions of the office, neglect of duty, or misconduct, proved to the satisfaction of that council.
-(3) A member of the Disciplinary Tribunal is deemed to have vacated his or her office if he or she is, under the Insolvency Act 1967, adjudged bankrupt.
+(3) A member of the Disciplinary Tribunal is deemed to have vacated his or her office if he or she is, under the Insolvency Act 2006, adjudged bankrupt.
 (4) A member of the Disciplinary Tribunal may, at any time, resign his or her office by giving notice in writing to that effect—
   (a) to the Minister; and
   (b) to the Council of the New Zealand Law Society (if the member was appointed by that Council); and
