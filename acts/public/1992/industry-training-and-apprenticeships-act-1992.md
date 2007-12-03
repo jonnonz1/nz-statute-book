@@ -1,5 +1,5 @@
 # Industry Training Act 1992
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-03_
 
 > An Act to—aProvide for the recognition and funding of organisations (to be known as industry training organisations) setting skill standards for, and administering the delivery of, industry-based training; andbEncourage and improve industry-based training; andcRepeal the Technicians Training Act 1967 and the Apprenticeship Act 1983, and provide for the continued administration of contracts under those Acts; anddProvide for the protection of people receiving industry-based training under certain training arrangements in the nature of apprenticeship, or under contracts under the Technicians Training Act 1967 or the Apprenticeship Act 1983; andeProvide for other related matters
 
@@ -181,7 +181,7 @@ Notwithstanding section 14 of this Act,—
   (e) subject to section 16 of this Act and to paragraph (b) of this section and sections 80 to 252 of the Employment Relations Act 2000 apply to every technician's contract and apprenticeship contract as if it were an employment agreement within the meaning of that Act.
 
 ### 16 Certain repealed provisions deemed to form part of existing contracts
-Notwithstanding section 14 of this Act, sections 14 to 19, 23, and 51 of the Apprenticeship Act 1983 shall be deemed to form part of every apprenticeship contract; but as if every reference in sections 14 to 19, and section 23, to a District Commissioner or local committee is a reference to the Commission.
+Notwithstanding section 14 of this Act, sections 14 to 19 and 51 of the Apprenticeship Act 1983 shall be deemed to form part of every apprenticeship contract; but as if every reference in sections 14 to 19 to a District Commissioner or local committee is a reference to the Commission.
 
 ### 17 Powers of Commission in relation to existing contracts
 (1) The Commission may—
