@@ -1,5 +1,5 @@
 # Ship Registration Act 1992
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-03_
 
 > An Act to provide for the registration of ships in New Zealand and related matters
 
@@ -642,7 +642,7 @@ Subject to sections 46, 48, and 49 of this Act, nothing in this Act shall affect
 (6) A caveat may be withdrawn—
   (a) By the caveator or by the caveator's solicitor or agent; or
   (b) By the executor of the will or the administrator of the estate, of the deceased caveator; or
-  (c) By a trustee or official receiver or other person in whom the interest claimed by the caveator is vested pursuant to the Insolvency Act 1967; or
+  (c) By a trustee or official receiver or other person in whom the interest claimed by the caveator is vested pursuant to the Insolvency Act 2006; or
   (d) By any person in whom by an order of the High Court there is entrusted, by reason of the mental incapacity of the caveator, the management and care or the interest claimed by the caveator.
 (7) Where there is lodged for entry in the Register an instrument relating to a dealing with a ship, or a share in a ship, in respect of which a caveat has been lodged and the Registrar is satisfied that, upon entry of that instrument in the Register there will vest in the caveator the interest claimed by the caveator in the caveat, the Registrar may, notwithstanding the caveat and the provisions of sections 54 and 55 of this Act, enter the dealing in the Register and may record on the caveat or in the Register that the caveat has lapsed.
 
