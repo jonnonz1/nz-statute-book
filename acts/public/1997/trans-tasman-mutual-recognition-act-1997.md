@@ -1,5 +1,5 @@
 # Trans-Tasman Mutual Recognition Act 1997
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-03_
 
 > An Act to provide for the recognition in New Zealand of regulatory standards adopted in Australia regarding goods and occupations
 
@@ -492,7 +492,7 @@ For the purpose of promoting consistency between decisions made by the Tribunal 
 (2) The Minister of Justice must consult the Minister before including any individual on the panel.
 (3) In considering the suitability of any individual for inclusion on the panel, the Minister of Justice and the Minister must have regard not only to his or her personal attributes but also to his or her knowledge of and experience in the different aspects of matters likely to come before the Tribunal.
 (4) The name of an individual must be removed from the panel if—
-  (a) The individual dies or is, under the Insolvency Act 1967, adjudged bankrupt; or
+  (a) The individual dies or is, under the Insolvency Act 2006, adjudged bankrupt; or
   (b) The Minister of Justice directs that the name of the individual be removed from the panel for disability affecting performance of duty, neglect of duty, or misconduct, proved to the satisfaction of the Minister of Justice; or
   (c) A period of 5 years has elapsed since the date on which the Minister of Justice last approved the entry of the individual's name; or
   (d) The individual requests by writing addressed to the Minister of Justice that his or her name be removed.
@@ -507,7 +507,7 @@ For the purpose of promoting consistency between decisions made by the Tribunal 
 
 ### 50 Vacation of office by Chairperson and Deputy Chairperson
 (1) The Chairperson and any Deputy Chairperson may at any time resign his or her office by delivering a notice in writing to that effect to the Minister of Justice.
-(2) The Chairperson and any Deputy Chairperson is deemed to have vacated his or her office if he or she dies or is, under the Insolvency Act 1967, adjudged bankrupt.
+(2) The Chairperson and any Deputy Chairperson is deemed to have vacated his or her office if he or she dies or is, under the Insolvency Act 2006, adjudged bankrupt.
 (3) The Chairperson and any Deputy Chairperson may at any time be removed from office by the Governor-General for disability affecting performance of duty, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General.
 
 ### 51 Remuneration and travelling allowances
