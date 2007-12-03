@@ -1,5 +1,5 @@
 # Motor Vehicle Sales Act 2003
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-03_
 
 ### 1 Title
 This Act is the Motor Vehicle Sales Act 2003.
@@ -875,7 +875,7 @@ A search of the list for personal information that has not been carried out in a
   (c) he or she is informed in writing by the Minister that he or she is not to be reappointed.
 
 ### 85 Vacation of office
-(1) An adjudicator is to be taken to have vacated office if he or she dies or is adjudged bankrupt under the Insolvency Act 1967.
+(1) An adjudicator is to be taken to have vacated office if he or she dies or is adjudged bankrupt under the Insolvency Act 2006.
 (2) An adjudicator may, at any time, be removed from office by the Minister for inability to perform the duties of office, neglect of duty, or misconduct proved to the satisfaction of that Minister.
 (3) An adjudicator may, at any time, resign his or her office by giving written notice to that effect to the Minister.
 
@@ -902,7 +902,7 @@ A search of the list for personal information that has not been carried out in a
   (a) must be included on the panel for a period of 5 years; and
   (b) subject to the approval of the Minister, may be retained on the panel for 1 further period of 5 years.
 (4) However, the name of a person must be removed from the panel if—
-  (a) the person dies or is adjudged bankrupt under the Insolvency Act 1967; or
+  (a) the person dies or is adjudged bankrupt under the Insolvency Act 2006; or
   (b) the Minister directs that the name of the person be removed from the panel for inability to perform the duties of an assessor; or
   (c) the period during which the person's name may be included on the panel has expired; or
   (d) the person requests by writing addressed to the Minister that the person's name be removed.
