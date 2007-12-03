@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 1989
-_Consolidation as at 2007-11-01_
+_Consolidation as at 2007-12-03_
 
 > An Act to consolidate and amend the law constituting and relating to the Reserve Bank of New Zealand and, in particular,—aTo provide, while continuing to recognise the Crown's right to determine economic policy, for the Reserve Bank of New Zealand, as the central bank, to be responsible for formulating and implementing monetary policy designed to promote stability of the general level of prices; andbTo confer on the Reserve Bank of New Zealand certain other functions and powers; andcTo repeal the Reserve Bank of New Zealand Act 1964
 
@@ -1563,7 +1563,7 @@ Subject to section 142 of this Act, every statutory manager of a registered bank
 (4) Subject to this Act, nothing in subsection (1) of this section affects the existence of any security over the property of any registered bank or its priority over other debts.
 (5) Nothing in subsection (1)(a), (b), and (d) to (h) limits or prevents any person from taking any of the actions specified in those paragraphs in relation to an obligation incurred or a right granted under a deed, instrument, trust, or contract entered into by a registered bank after the date on which, and the time at which, that registered bank was declared to be subject to statutory management.
 (6)
-(7) In the case of a netting agreement to which sections 310A to 310O of the Companies Act 1993 or sections 93A to 93I of the Insolvency Act 1967 apply,—
+(7) In the case of a netting agreement to which sections 310A to 310O of the Companies Act 1993 or sections 255 to 263 of the Insolvency Act 2006 apply,—
   (a) Nothing in subsection (1)(h) applies to any right of set-off provided for in the netting agreement; and
   (b) Nothing in subsection (1) limits or prevents the exercise of any of the following rights under the netting agreement:
     (i) The termination, in accordance with the netting agreement, of all or any transactions that are subject to the netting agreement by reason of the occurrence of an event specified in the netting agreement, being an event (including the appointment of a statutory manager) occurring not later than the commencement of statutory management; or
@@ -1608,7 +1608,7 @@ Subject to section 142 of this Act, every statutory manager of a registered bank
   (b) cancel the obligation to provide funding to any person.
 (2) A suspension or cancellation by a statutory manager under subsection (1) does not constitute a breach or repudiation of any contract entered into by the registered bank with any person.
 (3) Nothing in subsection (1) of this section shall authorise the suspension by the statutory manager of the repayment of any deposit, or the payment of any debt, or the discharge of any obligation, or the cancellation by the statutory manager of any obligation to provide funding, to any person where the obligation to repay the deposit, or to pay the debt, or the obligation, was incurred by the registered bank, or by the statutory manager, after the date upon which, and the time at which, the registered bank became subject to statutory management.
-(4) Nothing in subsection (1) authorises the suspension by the statutory manager of the payment of any amount that would be included in the calculation of a netted balance in accordance with section 310C of the Companies Act 1993 or section 93C of the Insolvency Act 1967 or section 156R, as the case may be. However, subsection (1) applies to the payment of the netted balance.
+(4) Nothing in subsection (1) authorises the suspension by the statutory manager of the payment of any amount that would be included in the calculation of a netted balance in accordance with section 310C of the Companies Act 1993 or section 257 of the Insolvency Act 2006 or section 156R, as the case may be. However, subsection (1) applies to the payment of the netted balance.
 
 ### 128 Management of registered bank to vest in statutory manager
 (1) Subject to this Part of this Act, where a registered bank is declared to be subject to statutory management, the management of that registered bank shall, on and after the date, and at and from the time, specified in the order, vest in the statutory manager.
@@ -1661,8 +1661,8 @@ The provisions of any enactment or agreement requiring any consent, licence, per
 (5) If a statutory manager of a registered bank sells or otherwise disposes of any property or assets of a body corporate formed and registered under section 132(2)(a), being property or assets subject to security interest, other than a security interest of the kind described in subsection (6), the person entitled to the security interest must be paid out of the proceeds of sale or other disposition in priority to all other claims other than the costs of the statutory manager in selling or disposing of the property or assets.
 (6) The kind of security interest referred to in this section is a security interest that—
   (a) is over all or any part of the bank's or body corporate's (as the case may be) accounts receivable and inventory or all or any part of either of them; and
-  (b) is not a purchase money security interest; and
-  (c) does not arise from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation).
+  (b) is not a purchase money security interest that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999; and
+  (c) is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the time the registered bank was declared to be subject to statutory management and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation).
 (7) In this section, account receivable, inventory, new value, purchase money security interest, proceeds, and security interest have the same meanings as in the Personal Property Securities Act 1999.
 
 ### 135 Proof of transactions
@@ -1674,7 +1674,7 @@ The provisions of any enactment or agreement requiring any consent, licence, per
 ### 136 Liquidation of registered banks
 (1) Subject to this Part of this Act, a statutory manager of a registered bank may, with the prior approval of the Bank,—
   (a) In the case of a registered bank which may be put into liquidation under the Companies Act 1993, apply under that Act to put the registered bank into liquidation:
-  (b) In the case of a registered bank which is an individual, petition under the Insolvency Act 1967 to have that registered bank declared bankrupt:
+  (b) In the case of a registered bank which is an individual, petition under the Insolvency Act 2006 to have that registered bank declared bankrupt:
   (c) In the case of a registered bank constituted under any other Act, take such steps as are provided for in that Act for the winding up, liquidation, or dissolution of that registered bank.
 (2) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of a statutory manager of a registered bank, not being a registered bank referred to in subsection (1) of this section, order that the registered bank to which the recommendation relates shall be wound up in such manner as may be specified in the order and, in any such case, the registered bank shall be wound up in the manner specified.
 (3) A statutory manager shall not make a recommendation under subsection (2) of this section without the prior approval of the Bank.
@@ -2015,7 +2015,7 @@ In this Part, unless the context otherwise requires,—
       (ii) statutory management under Part 3 of the Corporations (Investigation and Management) Act 1989; or
       (iii) statutory management under Part 5; or
       (iv) liquidation, winding up, voluntary administration, statutory management, or other similar process under any other enactment or rule of law (whether of New Zealand or of another country); and
-    (b) in the case of an individual, being adjudged a bankrupt under the Insolvency Act 1967 or any corresponding enactment (whether of New Zealand or of another country)
+    (b) in the case of an individual, being adjudged a bankrupt under the Insolvency Act 2006 or any corresponding enactment (whether of New Zealand or of another country)
   - **netted balance** means any amount calculated under the netting provisions of the rules of a designated payment system as the net debit payable by, or on behalf of, a participant in the designated payment system to, or on behalf of, another participant in that system for all or any claims or obligations to which those rules apply
   - **netting** means the conversion into 1 net claim or obligation, or the set off, of different claims or obligations between participants in a payment system that results from the issue and receipt of payment instructions involving 2 or more participants in the payment system or that is otherwise provided for under the rules of the payment system,—
     (a) whether on a bilateral or multilateral basis; and
@@ -2088,16 +2088,16 @@ The procedure set out in sections 156V to 156X must be followed by the Bank when
 ### 156R Netting is valid and enforceable
 If the rules of a designated payment system provide for netting, any netting under those rules is valid and enforceable despite any enactment or rule of law to the contrary.
 
-### 156S Certain provisions of Companies Act 1993 and of Insolvency Act 1967 not to apply to netting
+### 156S Certain provisions of Companies Act 1993 and of Insolvency Act 2006 not to apply to netting
 The following provisions do not apply to any netting under the rules of a designated payment system:
   (a) sections 310A to 310O of the Companies Act 1993:
-  (b) sections 93A to 93H of the Insolvency Act 1967.
+  (b) sections 255 to 262 of the Insolvency Act 2006.
 
 ### 156T Limits on effect of section 156O or section 156P or section 156R
 (1) Nothing in section 156O or section 156P or section 156R prevents—
-  (a) the operation of any enactment or rule of law in relation to an underlying transaction (including, without limitation, sections 56, 292, 297, and 298 of the Companies Act 1993 and section 56 of the Insolvency Act 1967); or
+  (a) the operation of any enactment or rule of law in relation to an underlying transaction (including, without limitation, sections 56, 292, 297, and 298 of the Companies Act 1993 and section 194 of the Insolvency Act 2006); or
   (b) any party from taking action against another party that has acted fraudulently or dishonestly so long as the remedy sought or obtained in respect of that action does not affect the application of section 156O or section 156P or section 156R.
-(2) If a person brings an action under any enactment or rule of law in relation to an underlying transaction (including, without limitation, sections 56, 292, 297, and 298 of the Companies Act 1993 and section 56 of the Insolvency Act 1967), that person may produce evidence of a settlement before the court for the purpose of proving that—
+(2) If a person brings an action under any enactment or rule of law in relation to an underlying transaction (including, without limitation, sections 56, 292, 297, and 298 of the Companies Act 1993 and section 194 of the Insolvency Act 2006), that person may produce evidence of a settlement before the court for the purpose of proving that—
   (a) a participant received value by means of that settlement; and
   (b) the value received was an element of the underlying transaction.
 (3) In this section, underlying transaction—
