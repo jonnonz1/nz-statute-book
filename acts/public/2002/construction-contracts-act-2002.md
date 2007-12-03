@@ -1,5 +1,5 @@
 # Construction Contracts Act 2002
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-03_
 
 ### 1 Title
 This Act is the Construction Contracts Act 2002.
@@ -740,7 +740,7 @@ An adjudicator may not be required to give evidence in any civil proceedings on 
 ### 71 Application of other enactments to adjudications
 (1) The Limitation Act 1950 applies to adjudications as it applies to actions (as that term is defined in section 2(1) of that Act).
 (2) Adjudications must be treated as—
-  (a) proceedings for the purposes of section 32 of the Insolvency Act 1967; and
+  (a) proceedings for the purposes of section 76 of the Insolvency Act 2006; and
   (b) actions or proceedings for the purposes of section 42 of the Corporations (Investigation and Management) Act 1989; and
   (c) legal proceedings for the purposes of section 248 of the Companies Act 1993.
 
