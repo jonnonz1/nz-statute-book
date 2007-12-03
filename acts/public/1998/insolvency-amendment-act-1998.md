@@ -1,5 +1,5 @@
 # Insolvency Amendment Act 1998
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-03_
 
 > An Act to amend the Insolvency Act 1967
 
