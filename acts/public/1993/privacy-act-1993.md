@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2007-12-03_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—aTo establish certain principles with respect to—iThe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiAccess by each individual to information relating to that individual and held by public and private sector agencies; andbTo provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcTo provide for matters incidental thereto
 
@@ -1446,7 +1446,7 @@ The income of the Commissioner shall be exempt from income tax.
 | Building Societies Act 1965 | section 121A |
 | Land Transfer Regulations 1966 | Regulation 5 |
 | Medical Auxiliaries Act 1966 |  |
-| Insolvency Act 1967 | Section 118 |
+| Insolvency Act 2006 | Sections 62, 368 |
 | Pharmacy Act 1970 |  |
 | Local Government Act 1974 |  |
 | Local Elections and Polls Act 1976 |  |
