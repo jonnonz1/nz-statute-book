@@ -1,5 +1,5 @@
 # Trustee Companies Act 1967
-_Consolidation as at 2007-11-01_
+_Consolidation as at 2007-12-03_
 
 > An Act to make better provision for the operation of trustee companies
 
@@ -80,7 +80,7 @@ In every case in which any trustee company is empowered to apply for administrat
   (q) Custodian trustee under section 50 of the Trustee Act 1956:
   (r) Share or debenture or note registrar for any company carrying on business in New Zealand:
   (s) Trustee or assignee for the benefit of creditors:
-  (t) Trustee under Part 15 of the Insolvency Act 1967.
+  (t) Trustee under subpart 2 of Part 5 of the Insolvency Act 2006:
   (u) prudential supervisor under Part 10 of the Injury Prevention, Rehabilitation, and Compensation Act 2001.
 
 ### 8 Appointment of trustee company by executors, administrators, and trustees
