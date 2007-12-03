@@ -1,5 +1,5 @@
 # Te Ture Whenua Maori Act 1993/Maori Land Act 1993
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-03_
 
 > An Act to reform the laws relating to Maori land in accordance with the principles set out in the Preamble to this Act
 
@@ -3498,8 +3498,8 @@ The Governor-General may from time to time, by Order in Council, make such regul
 (1) On the application of the Official Assignee acting in respect of the estate of any person adjudged bankrupt after the 1st day of April 1968, the Court may make an order vesting in the Official Assignee the beneficial freehold interest of the bankrupt in Maori freehold land owned by the bankrupt whether solely or in severalty or jointly with any other person or persons.
 (2) Any application under this section shall be dealt with by the Court without notification or appearance of any person, and, subject to the provisions of this section, the Court shall make the order sought as a matter of course.
 (3) Any order made by the Court pursuant to this section shall take effect and may be registered under the Land Transfer Act 1952.
-(4) Notwithstanding any provision to the contrary in the Insolvency Act 1967, no beneficial freehold interests in Maori freehold land of a bankrupt shall vest or be deemed to have vested in the Official Assignee otherwise than by an order made pursuant to this section, and the Official Assignee shall have no power to disclaim any interest vested in the Official Assignee by such an order.
-(5) Notwithstanding the provisions of the Insolvency Act 1967, the Official Assignee shall not have power to sell any such beneficial freehold interest entered in Maori freehold land to any person other than a person to whom the bankrupt could have alienated it in accordance with the provisions of Part 7 of this Act.
+(4) Notwithstanding any provision to the contrary in the Insolvency Act 2006, no beneficial freehold interests in Maori freehold land of a bankrupt shall vest or be deemed to have vested in the Official Assignee otherwise than by an order made pursuant to this section, and the Official Assignee shall have no power to disclaim any interest vested in the Official Assignee by such an order.
+(5) Notwithstanding the provisions of the Insolvency Act 2006, the Official Assignee shall not have power to sell any such beneficial freehold interest entered in Maori freehold land to any person other than a person to whom the bankrupt could have alienated it in accordance with the provisions of Part 7 of this Act.
 
 ### 344 Co-owners of Maori land not bound by Limitation Act 1950
 Notwithstanding anything to the contrary in the Limitation Act 1950 or any other Act imposing a limitation on actions, time shall not run or be deemed to have run against a co-owner of Maori land who neglects or has at any time neglected to exercise that co-owner's right of entering upon and using the common property while it remains in the occupation of another co-owner or someone claiming through or under that co-owner.
