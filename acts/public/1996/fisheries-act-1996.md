@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2007-12-03_
 
 > An Act—aTo reform and restate the law relating to fisheries resources; andbTo recognise New Zealand's international obligations relating to fishing; andcTo provide for related matters
 
@@ -4581,8 +4581,7 @@ Without limiting anything in section 264, but subject to section 265A, the Minis
 (7) A court may at any time, on application by the holder of a fishing permit, special permit, licensed fish receiver's licence, controlled fishery licence, or fish farmer registration that has been suspended under this section, make an order lifting the suspension subject to any sureties and conditions specified by the court.
 
 ### 270 Priority of debts
-(1) For the purposes of Schedule 7 of the Companies Act 1993, every levy payable under this Part (including any amount by which the levy has been increased under section 18 of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995) has the priority accorded to sums referred to in clause 5 of that schedule.
-(2) For the purposes of section 104 of the Insolvency Act 1967, every bevy payable under this part (including any amount by which the levy has been increased under section 18 of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995) has the priority accorded to sums referred to in section 104(1)(e) of the Insolvency Act 1967.
+[Repealed]
 
 ### 271 Records and returns
 (1) The chief executive may, by notice in the Gazette,—
