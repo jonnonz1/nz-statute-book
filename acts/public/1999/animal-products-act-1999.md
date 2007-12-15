@@ -1,5 +1,5 @@
 # Animal Products Act 1999
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2007-12-15_
 
 > An Act to replace the Meat Act 1981 and the Dairy Industry Act 1952, and to reform and restate the law relating to the processing of animal material into products for use, trade, and export
 
@@ -1579,6 +1579,9 @@ The methods by which costs may be recovered under this Part are as follows:
   (b) The Minister is satisfied that those persons, or their representatives, agree or substantially agree with the alteration or setting.
 (3) Subsection (1) does not prevent the amendment of any regulation setting a fee, charge, or levy if any substantive alteration effected by the amendment is for the purpose of correcting an error.
 (4) Recovery may be made in any financial year of any shortfall in cost recovery for any of the preceding 4 financial years and allowance may be made for any over-recovery of costs in those years (including any estimated shortfall or over-recovery for the immediately preceding financial year).
+
+### 115A Application of section 115(1) to assurances in respect of export licences issued under Dairy Industry Restructuring Act 2001
+Section 115(1) does not apply to assurances given in respect of export licences issued under the Dairy Industry Restructuring Act 2001 until the financial year beginning 1 July 2010.
 
 ### 116 Three-yearly review of cost recovery
 (1) The Minister must cause to be reviewed, at least once in every 3-year period occurring since the original setting of, or latest change to, the levels and methods of cost recovery in relation to any class of animal material or product, animal product business, person, or other matter, the levels and methods of cost recovery in the relevant area that are likely to be appropriate for the following financial year or years.
