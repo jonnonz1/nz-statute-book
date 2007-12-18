@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-18_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -747,7 +747,11 @@ A person commits an offence and is liable to imprisonment for a term not exceedi
 (5)
 
 ### 74AA Medical laboratories to give notice of cases of notifiable disease
-[Repealed]
+(1) The person in charge of a medical laboratory must take all reasonably practicable steps to ensure that there are in place in it efficient systems for reporting to him or her (or to any other person for the time being in charge of it) the results of a test or other procedure undertaken in it that indicate that a person or thing is, has been, or may be or have been, infected with a notifiable disease.
+(2) The person for the time being in charge of a medical laboratory to whom results are reported under subsection (1) (or who himself or herself becomes aware of results of a kind to which that subsection applies) must immediately tell the health practitioner for whom the test or other procedure concerned was undertaken, and the Medical Officer of Health, of the infectious nature of the disease concerned.
+(3) A person who fails to comply with subsection (2)—
+  (a) commits an offence against this Act; and
+  (b) is liable to a fine not exceeding $10,000 and, if the offence is a continuing one, to a further fine not exceeding $500 for every day on which it has continued.
 
 ### 74A National Cervical Screening Register
 [Repealed]
