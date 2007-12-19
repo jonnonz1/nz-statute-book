@@ -1,5 +1,5 @@
 # Rates Rebate Act 1973
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-19_
 
 > An Act to make provision for the granting of rebates of rates payable in respect of certain residential properties
 
@@ -27,7 +27,7 @@ _Consolidation as at 2007-09-03_
       (iii) Any pension or periodical allowance or any part thereof received by any person from the Government of any Commonwealth country (other than New Zealand) which the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 determines is analogous to a payment described in subparagraph (ii) of this paragraph:
       (iv) Any money received as a grant to meet funeral expenses:
       (v) Any money paid in respect of any military decoration and received by the recipient of such decoration:
-      (vi) Any family support payable under the Income Tax Act 2004:
+      (vi) Any family tax credit payable under the Income Tax Act 2004:
       (vii) Any salary or wages of a person in receipt of a widow's, invalid's, domestic purposes, or related emergency benefit under the Social Security Act 1964 or a war veteran's pension under Part 6 of the War Pensions Act 1954 or a veteran's pension under the Social Welfare (Transitional Provisions) Act 1990, being salary or wages earned in respect of a period before the date of commencement of that benefit or pension:
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
   - **partner** , in relation to any ratepayer, means the civil union partner or de facto partner of the ratepayer, being a civil union partner or de facto partner who, at the commencement of the rating year in respect of which an application for a rebate under this Act is made, ordinarily resides on the property in respect of which the rates are payable.
