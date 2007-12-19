@@ -1,5 +1,5 @@
 # Taxation (Annual Rates of Income Tax 2006-07) Act 2006
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-19_
 
 ### 1 Title
 This Act is the Taxation (Annual Rates of Income Tax 2006-07) Act 2006.
