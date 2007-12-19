@@ -1,5 +1,5 @@
 # Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006
-_Consolidation as at 2007-09-10_
+_Consolidation as at 2007-12-19_
 
 ### 1 Title
 This Act is the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006.
@@ -169,13 +169,10 @@ After section CE 10, the following is inserted:Income protection insuranceProcee
   (2) An amount that is or would be derived under the policy is income of the person.
 
 ### 18 New heading and section CE 12 inserted
-After section CE 11, the following is added:Tax creditsTax credits under section LD 1B added to caregiver's incomeWhen this section appliesIncomeincomeincome yearpayment .
-  (1) This section applies if a person is allowed under section LD 1B (Tax deductions from certain accident compensation payments: credit allowed to caregiver) a credit against the person's income tax liability for payments that the person receives for providing attendant care (as defined in Schedule 1, clause 12 of the Injury Prevention, Rehabilitation, and Compensation Act 2001) for a period in an income year.
-  (2) An amount equal to the credit is income of the person in the income year.
+[Repealed]
 
 ### 19 Benefits, pensions, compensation, and government grants
-In section CF 1(2), in paragraph (f) of the definition of accident compensation payment, of that Act is replaced by of that Act: and the following is added:.
-  (g) a payment under section 81(1)(b) of the Injury Prevention, Rehabilitation, and Compensation Act 2001 paid by the Corporation (as defined in that Act) to a claimant for an income year
+[Repealed]
 
 ### 20 Adjustment for closing values of trading stock, livestock, and excepted financial arrangements
 (1) In section CH 1(1)(c), arrangements). is replaced by arrangements): and the following is added:
@@ -269,9 +266,7 @@ In section CF 1(2), in paragraph (f) of the definition of accident compensation 
   (b) income years corresponding to the 200506 and subsequent tax years.
 
 ### 26 New section CW 28B inserted
-After section CW 28, the following is inserted:Payment to claimant of certain accident compensation paymentsWhen this section appliesExempt incomeaccident compensation paymentexempt incomeincome yearpayment.
-  (1) This section applies if a person receives a payment referred to in paragraph (g) of the definition of the term accident compensation payment in section CF 1(2) (Benefits, pensions, compensation, and government grants).
-  (2) The payment is exempt income of the person if the total amount of payments referred to in subsection (1) paid for the income year to the person is equal to or less than the total amount of payments paid for the income year by the person for attendant care (as defined in Schedule 1, clause 12 of the Injury Prevention, Rehabilitation, and Compensation Act 2001).
+[Repealed]
 
 ### 27 New section CW 40B inserted
 After section CW 40, the following is inserted:Income from conducting gaming-machine gamblingexempt incomegaming-machine gamblinggaming-machine operator's licencegaming -machine venue licencegross gambling proceedsnet gambling proceeds.
@@ -429,7 +424,7 @@ After section DB 12, the following is inserted:Share-lending arrangementsShare-l
 In section DE 2(1)(a), ; or is replaced by :.
 
 ### 47 Heading to subpart DF
-In the heading to subpart DF, grants is replaced by grants and compensation.
+[Repealed]
 
 ### 48 Government grants to businesses
 (1) In section DF 1(1)(d), exist. is replaced by exist; and and the following is added:
@@ -437,10 +432,7 @@ In the heading to subpart DF, grants is replaced by grants and compensation.
 (2) Subsection (1) applies for income years corresponding to the 200506 and subsequent tax years.
 
 ### 49 New section DF 4 added
-After section DF 3, the following is added:Payment for attendant care by claimant receiving type of accident compensation paymentsWhen this section appliesDeductionLink with subpart DAaccident compensation paymentassessable incomecapital limitationgeneral limitationgeneral permissionincome yearpaymentprivate limitation .
-  (1) This section applies if a person receives for an income year a payment of assessable income that is an accident compensation payment under paragraph (g) of the definition of that term in section CF 1(2) (Benefits, pensions, compensation, and government grants).
-  (2) The person is allowed a deduction for the amount of a payment paid for the income year by the claimant to a caregiver for attendant care (as defined in Schedule 1, clause 12 of the Injury Prevention, Rehabilitation, and Compensation Act 2001).
-  (3) This section supplements the general permission and overrides the capital limitation and private limitation for the amount described in subsection (2). The other general limitations still apply.
+[Repealed]
 
 ### 50 When attributed CFC loss arises
 (1) Section DN 2(d) is replaced by the following:.
@@ -1290,16 +1282,7 @@ After section LB 2(1), the following is inserted:
   (b) exceeds the amount of the tax deductions received by the Commissioner, if subsection (2A) applies to the employee,
 
 ### 127 New section LD 1B inserted
-After section LD 1, the following is inserted:Tax deductions from certain accident compensation payments: credit allowed to caregiver
-  (1) This section applies if a person
-    (a) receives payments
-      (i) that are accident compensation payments, under paragraph (g) of the definition of that term in section CF 1(2), in respect of attendant care (as defined in Schedule 1, clause 12 of the Injury Prevention, Rehabilitation, and Compensation Act 2001) for a period; and
-      (ii) from which a tax deduction is made under the Income Tax (Withholding Payments) Regulations 1979; and
-    (b) pays to a caregiver payments for the provision to the person of attendant care for the period.
-  (2) The caregiver is allowed a credit against the caregiver's income tax liability for the tax year corresponding to the caregiver's income year that includes the period.
-  (3) The amount of the credit allowed under subsection (2) is the total tax deductions corresponding to the amount of the payments referred to in subsection (1)(a) that, excluding the tax deductions, equals the lesser of the following:
-    (a) the total for the period of payments referred to in subsection (1)(a), excluding tax deductions:
-    (b) the total for the period of payments referred to in subsection (1)(b), excluding adjustments under section CE 12.
+[Repealed]
 
 ### 128 Resident withholding tax payments to be credited against income tax assessed
 (1) In section LD 3(1), other than a replacement payment, is inserted after Where a person derives an amount of resident withholding income.
@@ -2455,8 +2438,7 @@ After section NF 8A, the following is inserted:Resident withholding tax deductio
 (79) Subsections (4), (7), (16), (26), (29), (30), (44), (45), (50), (56), (61), (65), (66), and (67) apply for income years corresponding to the 200809 and subsequent tax years.
 
 ### 192 Meaning of source deduction payment: shareholder-employees of close companies
-(1) In section OB 2, the section heading is replaced by Meaning of source deduction payment.
-(2) In section OB 2(1), GC 14D is replaced by GC 14D, or an amount paid to a caregiver from monies paid to a claimant in respect of attendant care (as defined in Schedule 1, clause 12 of the Injury Prevention, Rehabilitation, and Compensation Act 2001) from which a tax deduction has been made under the Income Tax (Withholding Payments) Regulations 1979.
+[Repealed]
 
 ### 193 Meaning of qualifying company
 (1) In section OB 3(1)(b)(i), subsection (2) is replaced by subsection (3).
@@ -2717,19 +2699,10 @@ After section 30A, the following is inserted:Statement to share supplier when sh
     (e) be given to the relevant share supplier and the Commissioner when the dividend is paid or as soon as possible after it is paid.
 
 ### 215 Annual returns of income not required
-(1) After section 33A(1)(a)(iiib), the following is inserted:.
-  (iiic) income of a claimant that is a payment under section 81(1)(b) of the Injury Prevention, Rehabilitation, and Compensation Act 2001 in respect of attendant care (as defined in Schedule 1, clause 12 of that Act) from which a tax deduction has been made in accordance with the Income Tax (Withholding Payments) Regulations 1979; or
-(2) In section 33A(1)(a)(iv), (iiib) is replaced by (iiic).
+[Repealed]
 
 ### 216 New section 33C inserted
-After section 33B, the following is inserted:Return not required for certain providers of attendant care services
-  (1) A natural person who derives income in an income year from providing attendant care services is not required to furnish a return of income for the income year if
-    (a) the attendant care services are provided to a claimant who receives a payment under section 81(1)(b) of the Injury Prevention, Rehabilitation, and Compensation Act 2001; and
-    (b) in accordance with the Income Tax (Withholding Payments) Regulations 1979, a tax deduction was made by the Corporation from each payment referred to in paragraph (a); and
-    (c) the taxable income of the natural person for the income year does not exceed $9,500.
-  (2) In this section,
-    - **attendant care services** means services that are the provision of attendant care as defined in Schedule 1, clause 12 of the Injury Prevention, Rehabilitation, and Compensation Act 2001
-    - **Corporation** has the meaning provided in section 6 of the Injury Prevention, Rehabilitation, and Compensation Act 2001.
+[Repealed]
 
 ### 217 Consequential adjustments on change in balance date
 (1) In section 39, transitional income year is replaced by transitional year in both places it occurs.
