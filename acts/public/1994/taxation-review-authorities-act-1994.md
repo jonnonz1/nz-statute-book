@@ -1,5 +1,5 @@
 # Taxation Review Authorities Act 1994
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-19_
 
 > An Act to consolidate the law relating to Taxation Review Authorities
 
@@ -209,7 +209,8 @@ The decision of the High Court on any case on appeal under section 26 or section
   (a) Prescribing the procedure for the making of objections or challenges and the practice and procedure of Authorities in relation to those objections or challenges:
   (b) Making any provision which may be necessary or desirable to enable Authorities to exercise their functions or to publish their decisions and determinations:
   (c) Prescribing the practice and procedure in respect of appeals from decisions and determinations of Authorities.
-  (d) Prescribing the fees to be paid in respect of the filing of any proceedings brought under this Act.
+  (d) Prescribing the fees to be paid in respect of the filing of any proceedings brought under this Act:
+  (e) prescribing the circumstances in which any fees paid or to be paid in respect of the filing of any proceedings brought under this Act may be refunded, remitted, or waived, in whole or in part.
 (3) Regulations under this section may prescribe fines for offences against the regulations, not exceeding $500 in any case.
 
 ### 31 Savings
