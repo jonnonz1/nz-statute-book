@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2007-12-19_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -134,7 +134,7 @@ _Consolidation as at 2007-12-03_
   - **Tax file number** has the meaning assigned to that term by section OB 1 of the Income Tax Act 2004
   - **Tax fraction** means the fraction calculated in accordance with the following formula a ——————— 100 + a where—
     (a) is the rate of tax specified in section 8(1) of this Act:
-  - **Tax invoice** means a document provided pursuant to section 24 of this Act
+  - **Tax invoice** means a document provided pursuant to sections 24 and 24BA of this Act
   - **Tax payable** means an amount of tax calculated in accordance with section 19C and section 20 of this Act; and includes—
     (a) Any amount referred to in section 17(2) or section 51B of this Act:
     (b) Any late payment penalty or shortfall penalty:
@@ -561,6 +561,14 @@ This Act shall bind the Crown.
   (c) the supplier has satisfied the Commissioner that the goods have been exported by the supplier to a place outside New Zealand; or
   (d) subject to subsection (4), the supplier will enter the goods for export under the Customs and Excise Act 1996 in the course of, or as a condition of, making the supply, and will export the goods; or
   (e) subject to subsection (4), the goods will be deemed to be entered for export under the Customs and Excise Act 1996 and will be exported by the supplier in the course of, or as a condition of, making the supply; or
+  (eb) subject to subsection (4), the goods supplied—
+    (i) are supplied to a recipient who is a non-resident; and
+    (ii) have been entered for export under the Customs and Excise Act 1996 by the supplier or will be entered for export by the supplier in the course of or as a condition of making the supply; and
+    (iii) are exported by the recipient; and
+    (iv) are not intended by the recipient for later importation into New Zealand for use other than in making taxable supplies or exempt supplies, with the absence of such an intention being confirmed by the recipient in a document retained by the supplier; and
+    (v) are not used or altered by the recipient before being exported, except to the extent necessary to prepare the goods for export; and
+    (vi) leave New Zealand under an arrangement agreed by the supplier and the recipient at or before the time of the supply; and
+    (vii) do not leave New Zealand in the possession of a passenger or crew member of an aircraft or ship; or
   (f) goods that would otherwise have been exported are destroyed, die or cease to exist in circumstances beyond the control of both the supplier and the recipient; or
   (g) subject to subsection (6), the goods are supplied by a supplier who is licensed under section 12 of the Customs and Excise Act 1996, if—
     (i) the supplier has been licensed by the Chief Executive of the New Zealand Customs Service to operate a sealed bag system; and
@@ -580,9 +588,10 @@ This Act shall bind the Crown.
     (i) are wrought into, affixed to, attached to or otherwise form part of those other goods; or
     (ii) are consumable goods that become unusable or worthless as a direct result of being used in the repair, renovation, modification or treatment process; or
   (ka) the goods are supplied for use on, or the use of, a pleasure craft, being a temporary import within the meaning of section 116 of the Customs and Excise Act 1996, that cause or enable the craft to sail, or that ensure the safety of passengers and crew on the craft; or
-  (l) the goods are supplied as consumable stores for use outside New Zealand on—
-    (i) an aircraft going to a destination outside New Zealand; or
-    (ii) a fishing ship going outside New Zealand fisheries waters; or
+  (l) the goods supplied are consumable stores intended for use on—
+    (i) an aircraft on a flight, or going, to a destination outside New Zealand; or
+    (ii) a fishing ship outside, or going outside, New Zealand fisheries waters; or
+    (iib) a ship, other than a pleasure craft, carrying consumable stores to a foreign-going ship or to a fishing ship that meets the requirements in subparagraph (ii); or
     (iii) a foreign-going ship; or
     (iv) a pleasure craft that is a temporary import within the meaning of section 116 of the Customs and Excise Act 1996 going to a destination outside New Zealand fisheries waters; or
   (m) the supply to a registered person of a taxable activity, or part of a taxable activity, that is a going concern at the time of the supply, if—
@@ -593,7 +602,7 @@ This Act shall bind the Crown.
 (3) Subsection (1)(a) to (1)(l) do not apply to a supply of goods by a registered person if—
   (a) the registered person, or another person associated with the registered person, has deducted, under section 20(3), input tax as defined in section 3A(1)(c) in respect of the goods; or
   (b) the goods have been or will be reimported into New Zealand by the supplier.
-(4) If subsection (1)(d) or (1)(e) applies and the goods are not exported by the supplier within 28 days beginning on the day of the time of supply or a longer period that the Commissioner has allowed under subsection (5), the supply of the goods must be charged with tax at the rate specified in section 8 despite subsection (1)(d) and (1)(e) but subject to subsection (1)(a), (1)(b) and subsection (5).
+(4) If subsection (1)(d), (e), or (eb) applies and the person required to export the goods does not do so within 28 days beginning on the day of the time of supply or a longer period that the Commissioner has allowed under subsection (5), the supply of the goods must be charged with tax at the rate specified in section 8 despite subsection (1)(d), (e), and (eb) but subject to subsection (1)(a), (1)(b) and subsection (5).
 (5) The Commissioner may extend the 28-day period before a supply of goods is charged with tax at the rate specified in section 8 if the Commissioner has determined, after the supplier has applied in writing, that—
   (a) circumstances beyond the control of the supplier and the recipient have prevented, or will prevent, the export of the goods within 28 days beginning on the day of the time of supply; or
   (b) due to the nature of the supply, it is not practicable for the supplier to export the goods, or a class of the goods, within 28 days beginning on the day of the time of supply.
@@ -608,10 +617,10 @@ This Act shall bind the Crown.
 (9) For the purpose of this section—
   - **aircraft** has the meaning set out in section 2 of the Civil Aviation Act 1990
   - **consumable stores** means—
-    (a) goods that passengers and crew on board an aircraft or a ship intend to consume; and
+    (a) goods that passengers and crew on board an aircraft or a ship have available to consume; and
     (b) goods necessary to operate or maintain an aircraft or a ship, including fuel and lubricants but excluding spare parts and equipment.
   - **fishing ship** has the meaning set out in section 2 of the Maritime Transport Act 1994
-  - **foreign-going ship** means a ship, other than a or a , going to a destination outside New Zealand
+  - **foreign-going ship** means a ship on a voyage, or going, to a destination outside New Zealand, other than a pleasure craft or a fishing ship.
   - **New Zealand fisheries waters** has the meaning set out in section 2 of the Fisheries Act 1996
   - **pleasure craft** has the meaning set out in section 2 of the Maritime Transport Act 1994
   - **sealed bag system** means a system under which a supplier—
@@ -648,7 +657,7 @@ This Act shall bind the Crown.
     (ii) the acceptance of an obligation to refrain from carrying on a taxable activity, to the extent that the activity would have occurred within New Zealand; or
   (l) subject to subsection (2), the services are the supply of information to a person who is a non-resident and who is outside New Zealand at the time the services are performed, if the services are supplied directly in connection with moveable personal property situated in New Zealand at the time the services are performed; or
   (m) the services are supplied—
-    (i) directly in connection with goods, the supply of which was subject to any one of section 11(1)(a) to (e); and
+    (i) directly in connection with goods, the supply of which was subject to any one of section 11(1)(a) to (eb); and
     (ii) to a recipient who, when the services are performed, is a non-resident and outside New Zealand; or
   (ma) the services relate to goods under warranty to the extent that the services are—
     (i) provided under the warranty; and
@@ -849,7 +858,7 @@ A supply of services that is chargeable with tax under section 8 must be charged
 (6) A return must contain a notice of the assessment that must be made under section 92B of the Tax Administration Act 1994.
 
 ### 17 Special returns
-(1) Where goods are deemed to be supplied by a person pursuant to section 5(2) of this Act, the person selling the goods, whether or not that person is a registered person, shall, on or before the 28th day of the month following the month within which the sale was made,—and the person selling the goods and the person whose goods were sold shall exclude from any return, other than a return required pursuant to this subsection, which either or both may be required to furnish under this Act, the tax charged on that supply of goods.
+(1) Where goods are deemed to be supplied by a person pursuant to section 5(2) of this Act, the person selling the goods, whether or not that person is a registered person, shall—and the person selling the goods and the person whose goods were sold shall exclude from any return, other than a return required pursuant to this subsection, which either or both may be required to furnish under this Act, the tax charged on that supply of goods.
   (a) Furnish to the Commissioner in the prescribed form a return showing—
     (i) That person's name and address and, if registered, registration number; and
     (ii) The name, address, and, if registered, registration number of the person whose goods were sold; and
@@ -859,6 +868,10 @@ A supply of services that is chargeable with tax under section 8 must be charged
     (vi) Such other particulars as may be prescribed; and
   (b) Pay to the Commissioner the amount of tax charged on that supply; and
   (c) Furnish to the person whose goods were sold, details of the information shown on the return referred to in paragraph (a) of this subsection,—
+(1B) A return that a person is required to furnish to the Commissioner under subsection (1) must be furnished on or before—
+  (a) the 28th of the month following the end of the month in which the relevant sale was made, if paragraphs (b) or (c) do not apply; or
+  (b) the 15th day of January, if November is the month in which the relevant sale was made; or
+  (c) the 7th day of May, if March is the month in which the relevant sale was made.
 (2) Any amount of tax charged on any supply of goods to which this section applies shall be deemed, for the purposes of this Act, to be tax payable and shall be recoverable as a debt due to the Crown.
 (3) A return must contain a notice of the assessment that must be made under section 92B of the Tax Administration Act 1994.
 
@@ -948,7 +961,7 @@ The Governor-General may, by Order in Council, specify—
 ### 20 Calculation of tax payable
 (1) In respect of each taxable period every registered person shall calculate the amount of tax payable by that registered person in accordance with the provisions of this section.
 (2) Notwithstanding any other provision in this Act, no deduction of and no deduction calculated under section 25(2)(b) or (5) input tax shall be made in respect of a supply, unless—
-  (a) A tax invoice or debit note or credit note, in relation to that supply, has been provided in accordance with sections 24 and 25 of this Act and is held by the registered person making that deduction at the time that any return in respect of that supply is furnished; or
+  (a) A tax invoice or debit note or credit note, in relation to that supply, has been provided in accordance with sections 24, 24BA, and 25 of this Act and is held by the registered person making that deduction at the time that any return in respect of that supply is furnished; or
   (b) A tax invoice is not required to be issued pursuant to section 24(5) or section 24(6) of this Act, or a debit note or credit note is not required to be issued pursuant to section 25 of this Act; or
   (c) Sufficient records are maintained as required pursuant to section 24(7) of this Act where the supply is a supply of secondhand goods to which that section relates; or
   (d) the supply is a supply of services that is treated by section 5B as being made by the recipient and the recipient has accounted for the output tax charged in respect of the supply:
@@ -1238,6 +1251,26 @@ Any company, being a registered person, shall, where any amount of tax has been 
   (b) If in excess of half of that cent, shall be deemed for the purposes of this section to be an amount equal to one cent.
 (9) Where approval has been granted by the Commissioner to issue tax invoices pursuant to subsection (2) of this section, that approval may be withdrawn at any time where the Commissioner is satisfied that the conditions of that approval have not been complied with.
 (10) Where the Commissioner has determined that a tax invoice may be issued pursuant to subsection (6)(a) of this section, or is not required to be issued pursuant to subsection (6)(b) of this section, that determination may be revoked where the Commissioner is satisfied that any conditions specified have not been complied with.
+
+### 24BA Shared tax invoices
+(1) A shared invoice is a tax invoice, if the invoice contains the following particulars:
+  (a) the words tax invoice in a prominent place:
+  (b) the name and registration number of the principal supplier:
+  (c) the name and address of the recipient:
+  (d) the date upon which the tax invoice is issued:
+  (e) a description of the goods and services supplied:
+  (f) the consideration for the supply, inclusive of tax charged, and—
+    (i) the tax charged, and the consideration for the supply, excluding tax charged; or
+    (ii) where the amount of tax charged is the tax fraction of the consideration, a statement that the consideration includes a charge in respect of the tax.
+(2) A tax invoice under this section is treated as provided by each supplier.
+(3) Where a tax invoice to which this section applies has been issued in respect of a supply, the principal supplier must maintain sufficient records to enable the name, address, and registration number, if any, of the supply's supplier to be ascertained.
+(4) For the purposes of this section,—
+  - **principal supplier** means, for a shared invoice,—
+    (a) the supplier responsible for issuing the invoice, unless paragraph (b) applies:
+    (b) the representative member of a group of companies for the purposes of section 55
+  - **shared invoice** means a single invoice for goods and services (other than goods deemed to be supplied pursuant to section 5(2)) supplied by 2 or more suppliers, if the suppliers use a single invoice because they—
+    (a) have statutory obligations which make it practical to use a single invoice:
+    (b) are part of the same group of companies for the purposes of section 55.
 
 ### 24B Records to be kept by recipient of imported services
 A registered person who receives a supply of services that is treated by section 8(4B) as being made in New Zealand must maintain sufficient records of the supply to enable the following particulars to be ascertained:
@@ -1609,9 +1642,14 @@ The obligations and liabilities under this Act of any person in respect of anyth
 ## Part 9 — Special cases
 
 ### 55 Group of companies
-(1) For the purposes of this Act, 2 or more companies (the companies) are eligible to be members of a group of companies at a time, if the companies are a group of companies, or are part of a group of companies, under section IG 1 of the Income Tax Act 2004 at that time, and—
-  (a) each of the companies is a registered person:
-  (b) the total value of taxable supplies made by the companies, in any 12-month period which includes that time, to persons other than the companies, is at least 75% of the total value of supplies made by the companies to persons other than the companies in that period.
+(1) For the purposes of this Act, 2 or more companies (the companies) are eligible to be a group of companies at a time if,—
+  (a) at the time and under section IG 1 of the Income Tax Act 2004, the companies—
+    (i) are a group of companies:
+    (ii) are part of a group of companies:
+    (iii) would be a group of companies or part of a group of companies but for 1 or more of the companies being a portfolio tax rate entity; and
+  (b) the companies,—
+    (i) at the time, are each a registered person:
+    (ii) in a 12-month period that includes the time, make a total value of taxable supplies to persons other than the companies that is at least 75% of the total value of all supplies made in that period by the companies to persons other than the companies.
 (2) Where 2 or more companies apply to be members of a group of companies for the purposes of this section, and the Commissioner is satisfied that they are eligible to be members of a group of companies pursuant to subsection (1) of this section, they shall be members of a group of companies from the beginning of such taxable period as is determined by the Commissioner.
 (3) In any application made under subsection (2) of this section by 2 or more companies—
   (a) one of the companies shall be nominated to be the representative member; and
@@ -2163,3 +2201,44 @@ This Act is the Taxation (Savings Investment and Miscellaneous Provisions) Act 2
 (2) Subsection (1) applies for a registered person for—
   (a) a taxable period that begins on or after the beginning of the registered person's income year corresponding to the 2008–09 tax year, if the registered person derives assessable income in that income year:
   (b) a taxable period that begins on or after 1 April 2008, if paragraph (a) does not apply.
+
+### 1 Title
+This Act is the Taxation (Business Taxation and Remedial Matters) Act 2007.
+
+### 2 Commencement
+(1) This Act comes into force on the date on which it receives the Royal assent, except as provided in this section.
+(2) Section 284 is treated as coming into force on 1 April 1995.
+(3) Sections 286 and 287 are treated as coming into force on 1 April 1997.
+(4) Sections 241(1) and (3) and 269(1) are treated as coming into force on 1 April 1999.
+(5) Sections 281 and 282(3) are treated as coming into force on 1 April 2001.
+(6) Section 273(2), (4), and (5) are treated as coming into force on 24 October 2001.
+(7) Section 285 is treated as coming into force on 1 April 2002.
+(8) Section 269(3) is treated as coming into force on 1 April 2003.
+(9) Section 133(1) is treated as coming into force on 4 June 2004.
+(10) Section 288(3) is treated as coming into force on 16 November 2004.
+(11) Sections 6, 7, 8, 9, 10, 13, 18, 19, 22, 23, 24, 25, 35, 39, 40, 41, 54, 55, 56, 76, 77, 79, 102, 128, 154, 165, 167, 182(25), (28), (33), and (55), 185(2), 230(1) and (2), and 272(1) are treated as coming into force on 1 April 2005.
+(12) Section 129(1) is treated as coming into force on 1 July 2005.
+(13) Sections 176 and 177 are treated as coming into force on 1 April 2006.
+(14) Sections 130, 182(44), and 185(1) are treated as coming into force on 1 December 2006.
+(15) Sections 4, 16, 26, 27, 31, 32, 38, 43, 44, 45, 46, 47, 49, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 80, 81, 82, 83, 84, 85, 87, 88, 89, 90, 91, 92, 94, 95, 96, 97, 100, 104, 131, 132, 135(2), 136, 138, 140, 153, 178, 179(1) and (3), 181, 182(5), (6), (7), (8), (9), (10), (11), (12), (13), (14), (15), (16), (18), (19), (20), (22), (24), (27), (29), (30), (43), (45), (46), (47), (48)(a) and (b), (49), (50), (51), (52), (53), (54), and (56), 184, 189(2) and (5), 192, 193(1), 194(1), 202, 210, 224(1) and (4), 227(1), 228(1) and (3), 231(1), 252(2), 262(1), 295, 299, 300, 302, 304, and 305 are treated as coming into force on 1 April 2007.
+(16) Sections 156(1) and (2), 256, 258, 273(1) and (3), and 274 are treated as coming into force on 17 May 2007.
+(17) Sections 50, 51, 52, 78, 101, and 182(17), (26), and (59) are treated as coming into force on 20 June 2007.
+(18) Sections 5, 12, 28, 29, 30, 34, 75, 98, 99, 103, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 134, 135(1), 139, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 157, 158, 159, 160, 161, 162, 163, 164(2), 166(2), 168, 169, 170, 171, 172, 173, 174, 175, 179(2), 180, 182(2), (4), (23), (31), (35), (36), (37), (38), (39), (40), (41), and (42), 186, 190, 195, 196(1), (2), and (4), 207(2), (5), (6), (8), and (9), 208(1), 236, 237, 238, 239, 240, 245, 246, 247, 248, 249, and 279(1) are treated as coming into force on 1 October 2007.
+(19) Section 275 is treated as coming into force on 30 November 2007.
+(20) Sections 191, 193(2) and (3), 194(2) and (3), 196(3) and (5), 201, 203(2), 204(1), 205, 206(2) and (3), 207(1), (3) , (4) , (7), and (10), 208(2), 211, 212, 213, 214, 215, 216, 217, 218, 219, 222, 223, 224(2), (3), and (5), 227(2), 228(2), 231(2) to (4), 241(2), 242, 243, 244, 250(1) to (3), 251, 252(1), (3), and (4), 253, 254, 255, 257, 259, 260, 261, 262(2), 263, 264, 265, 266, 267, 269(2) and (4), 272(2), 278, 279(2), 290, 294, 307 to 318, 321 to 328, 330 to 342, 344 to 437, 438(1), 439 to 538, 540 to 549, 550(2) to (41) and (43) to (68), 551 to 553, 554(1) and (2), and 555 to 562 come into force on 1 April 2008.
+(21) Sections 14, 15, 21, 36, 37, 137, 182(32), 183, 197(1) to (3), 198, 303, 319, 320, 329, 343, 438(2), 539, 550(42), and 554(3) come into force on 1 July 2008.
+(22) Sections 220(1), 293, 297, and 298 come into force on the earlier of the following:
+  (a) a date to be fixed by the Governor-General by Order in Council:
+  (b) 1 April 2009.
+(23) Section 229 comes into force on the earlier of the following:
+  (a) a date to be fixed by the Governor-General by Order in Council:
+  (b) 1 April 2010.
+
+## Part 3 — Amendments to other Acts and Regulations
+
+**Goods and Services Tax Act 1985**
+
+### 275 Special returns
+(1) Amendment incorporated in the principal Act.
+(2) Amendment incorporated in the principal Act.
+(3) Subsections (1) and (2) apply for taxable periods ending on or after 30 November 2007.
