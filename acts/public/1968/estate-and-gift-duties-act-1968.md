@@ -1,5 +1,5 @@
 # Estate and Gift Duties Act 1968
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-19_
 
 > An Act to consolidate and amend the law relating to estate duty and gift duty
 
@@ -469,7 +469,9 @@ Where the Commissioner is satisfied that any gift is made for or towards the mai
   (ka) any gift made by a local authority under section 298(3)(c) of the Local Government Act 2002 to a community trust to which that section applies where that gift constitutes—
     (i) the proceeds of the sale of shares or equity securities referred to in that section; or
     (ii) any income derived from or capital gain arising on such proceeds, if that income or gain is paid to that community trust before a date set by the Governor-General by Order in Council for the purposes of this subparagraph either in relation to that community trust or to community trusts generally:
-  (l) Any gift to the New Zealand Antarctic Institute for the purposes of the New Zealand Antarctic Institute Act 1996.
+  (l) Any gift to the New Zealand Antarctic Institute for the purposes of the New Zealand Antarctic Institute Act 1996:
+  (m) any gift to the trustee of the Tokelau International Trust Fund, as defined in section OB 1 of the Income Tax Act 2004, for the purposes of that trust:
+  (n) any gift to the trustee of the Niue International Trust Fund, as defined in section OB 1 of the Income Tax Act 2004, for the purposes of that trust.
 
 ### 74 Exemption for certain elections by members of group superannuation schemes
 Where a member of or a participant in any group superannuation scheme makes an election to accept from the group superannuation scheme a reduced retirement allowance or pension in consideration of the payment—the election shall not constitute a dutiable gift.
