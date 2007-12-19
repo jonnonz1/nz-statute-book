@@ -1,5 +1,5 @@
 # Housing Restructuring and Tenancy Matters Act 1992
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-19_
 
 > An Act to—aProvide for the acquisition by the Crown of shares in the capital of a company incorporated under the Companies Act 1955; andbProvide for the vesting in that company of State housing land held by the Crown under the Housing Act 1955 and assets and liabilities of the Housing Corporation of New Zealand; andcProvide for related matters, income-related rents, information matching, and other tenancy matters
 
@@ -355,13 +355,13 @@ The enactments specified in the Schedule to this Act are hereby amended in the m
 (2) A rent calculated by reference to household income is the sum of—
   (a) the prescribed proportion of the sum of the assessable incomes of the applicable persons concerned, up to the prescribed threshold (or the threshold prescribed for tenants of a category to which the tenant belongs); and
   (b) the prescribed proportion of any amount by which that sum is greater than that threshold; and
-  (c) if any of the applicable persons is eligible to receive family support under subpart KD of the Income Tax Act 2004, the prescribed proportion of the lesser of—
-    (i) the total of the amounts that the applicable persons are eligible to receive as family support under that Subpart; and
+  (c) if any of the applicable persons is eligible to receive family tax credits under subpart KD of the Income Tax Act 2004, the prescribed proportion of the lesser of—
+    (i) the total of the amounts that the applicable persons are eligible to receive as family tax credits under that Subpart; and
     (ii) a prescribed amount (or an amount calculated by a prescribed means).
 (3) A rent calculated by reference to benefit levels is the sum of—
   (a) the prescribed proportion of the rate (before abatement) stated in paragraphs (a) to (j) of clause 1 of Schedule 9 of the Social Security Act 1964 that would be appropriate if the tenant were a beneficiary; and
-  (b) if any of the applicable persons is eligible to receive family support under subpart KD of the Income Tax Act 2004, the prescribed proportion of the lesser of—
-    (i) the total of the amounts that the applicable persons are eligible to receive as family support under that Subpart; and
+  (b) if any of the applicable persons is eligible to receive family tax credits under subpart KD of the Income Tax Act 2004, the prescribed proportion of the lesser of—
+    (i) the total of the amounts that the applicable persons are eligible to receive as family tax credits under that Subpart; and
     (ii) a prescribed amount (or an amount calculated by a prescribed means).
 (4) The income-related rent for any HNZ housing must not exceed its market rent for the time being.
 (5) Subsection (4) overrides subsection (1).
@@ -659,11 +659,11 @@ The following thresholds are prescribed for the purposes of paragraphs (a) and (
 ### 3 Proportion of income above threshold
 The proportion of 50% is prescribed for the purposes of section 46(2)(b).
 
-### 4 Proportion of family support
+### 4 Proportion of family tax credit
 The proportion of 25% is prescribed for the purposes of sections 46(2)(c) and 46(3)(b).
 
-### 5 Prescribed amount of family support
-The maximum rate of child support payable under subpart KD of the Income Tax Act 2004 in respect of an eldest dependent child who is under 16 is prescribed for the purposes of sections 46(2)(c)(ii) and 46(3)(b)(ii).
+### 5 Prescribed amount of family tax credit
+The maximum rate of family tax credit payable under subpart KD of the Income Tax Act 2004 in respect of an eldest dependent child who is under 16 is prescribed for the purposes of sections 46(2)(c)(ii) and 46(3)(b)(ii).
 
 ### 6 Proportion of benefit
 The proportion of 25% is prescribed for the purposes of section 46(3)(a).
@@ -686,13 +686,13 @@ For the purposes of section 49(1)(a), a person's weekly income includes—
     (ii) New Zealand superannuation under the New Zealand Superannuation and Retirement Income Act 2001 or a veteran's pension under Part 6 of the War Pensions Act 1954; or
     (iii) a study grant; and
   (b) amounts received from the Corporation or an insurer under the Injury Prevention, Rehabilatation, and Compensation Act 2001 as weekly compensation for loss of earnings or potential earning capacity; and
-  (c) any family tax credit the person is eligible for under subpart KD of the Income Tax Act 2004.
+  (c) any minimum family tax credit the person is eligible for under subpart KD of the Income Tax Act 2004.
 
 ### 10 Certain payments not to be income
 For the purposes of section 49(1)(b), a person's weekly income does not include—
   (a) an amount or payment—
     (i) received as a benefit, allowance, or other payment under the Social Security Act 1964 not referred to in clause 9(a); or
-    (ii) received as a parental tax credit, child tax credit, or in-work payment under subpart KD of the Income Tax Act 2004; or
+    (ii) received as a parental tax credit, child tax credit, or in-work tax credit under subpart KD of the Income Tax Act 2004; or
     (iii) of a kind stated in any of subparagraphs (ii) to (xv) of paragraph (f) of the definition of income in section 3(1) of the Social Security Act 1964; or
   (b) in the case of a person with a disability, the value of any regular disability support services supplied to the person; or
   (c) the value of any regular disability support services supplied to any dependent child of the person who—
