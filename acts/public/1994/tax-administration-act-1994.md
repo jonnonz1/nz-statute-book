@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2007-12-19_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -1913,9 +1913,9 @@ If a conduit tax relief company attaches a conduit tax relief credit to a divide
   (b) is reasonably satisfied of the number of days in the member credit year on which the person meets the requirements of section KJ 2(d) of that Act; and
   (c) has no knowledge that the person does not meet the requirements of section KJ 2(a) to (c), and (e) and (f) of that Act for any part of the member credit year.
 (3) The fund provider must claim a tax credit for the person for the member credit year by furnishing to the Commissioner a member credit claim in relation to the person, in the form prescribed by the Commissioner. The member credit claim must—
-  (a) contain the person's name, address, and tax file number, the amount of the person's member credit contributions for the member credit year, and any other information that the Commissioner may require; and
+  (a) contain the person's name, address, and (if known) tax file number, the amount of the person's member credit contributions for the member credit year, and any other information that the Commissioner may require; and
   (b) be furnished on a date determined by the Commissioner.
-(4) The fund provider may claim a tax credit under section KJ 1 for the person for an earlier member credit year, if, for the year, the provider meets the requirements of subsection (2)(b) and (c), and is satisfied that a tax credit has not previously been claimed for the same period as their claim. The claim must be in the form prescribed under subsection (3), and contain the information required in subsection (3)(a).
+(4) The fund provider may claim an amount of a tax credit under section KJ 1 of the Income Tax Act 2004 for the person if the provider meets the requirements of subsections (2)(b) and (c), and is satisfied that the amount of tax credit has not previously been claimed. A claim under this subsection may be supplementary to or included in a claim under subsection (3), and must be in the form prescribed under subsection (3).
 
 ### 69 Annual imputation return
 (1) An imputation credit account company must furnish to the Commissioner an annual imputation return in the prescribed form for each imputation year, showing—
