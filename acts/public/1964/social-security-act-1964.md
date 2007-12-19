@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2007-12-19_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -3912,17 +3912,17 @@ For the purposes of this Schedule—
   - **Auckland**
   - **Base rate** means—
     (a) In relation to a single beneficiary under the age of 25 years, the maximum weekly rate of benefit he or she would have been entitled to receive, before any abatement or deduction, if he or she had attained the age of 25 years:
-    (b) In relation to a single beneficiary with a dependent child or dependent children, the maximum weekly rate of benefit he or she is entitled to receive, before any abatement or deduction, plus the maximum annual rate of family support (divided by 52) that is payable in respect of a first dependent child, and substituting the words an eldest dependent child who is under 16 child under subpart KD of the Income Tax Act 2004:
+    (b) In relation to a single beneficiary with a dependent child or dependent children, the maximum weekly rate of benefit he or she is entitled to receive, before any abatement or deduction, plus the maximum annual rate of family tax credit (divided by 52) that is payable in respect of an eldest dependent child who is under 16 child under subpart KD of the Income Tax Act 2004:
     (c) In relation to any other single beneficiary, the maximum weekly rate of benefit he or she would be entitled to receive before any abatement or deduction:
-    (d) In relation to a beneficiary who is married or in a civil union or in a de facto relationship (not being a beneficiary to whom paragraph (da) of this definition applies), the maximum weekly rate of benefit he or she is entitled to receive, before any abatement or deduction, plus (where he or she has 1 or more dependent children) the maximum annual rate of family support (divided by 52) that is paid in respect of a first dependent child, and substituting the words an eldest dependent child who is under 16 (if any) under subpart KD of the Income Tax Act 2004, plus the maximum weekly rate of benefit paid in respect of his or her spouse or partner:
+    (d) In relation to a beneficiary who is married or in a civil union or in a de facto relationship (not being a beneficiary to whom paragraph (da) of this definition applies), the maximum weekly rate of benefit he or she is entitled to receive, before any abatement or deduction, plus (where he or she has 1 or more dependent children) the maximum annual rate of family tax credit (divided by 52) that is paid in respect of an eldest dependent child who is under 16 (if any) under subpart KD of the Income Tax Act 2004, plus the maximum weekly rate of benefit paid in respect of his or her spouse or partner:
     (da) In relation to a beneficiary who is married or in a civil union or in a de facto relationship whose spouse or partner in not entitled to an accommodation supplement under section 80C of this Act, the rate specified in paragraph (d) of this definition as if a rate of benefit were paid in respect of that spouse or partner:
     (e) in relation to a single non-beneficiary with 1 or more dependent children,—
       (i) the appropriate maximum weekly rate of unemployment benefit; plus
-      (ii) the annual rate of family support (divided by 52) that is payable in respect of a first dependent child who is under 16 years under subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994 (whichever is applicable):
+      (ii) the annual rate of family tax credit (divided by 52) that is payable in respect of a first dependent child who is under 16 years under subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994 (whichever is applicable):
     (f) in relation to any other single non-beneficiary, the weekly rate of unemployment benefit at the rate in clause 1(b) of the Schedule 9 before any abatement or deduction:
     (g) in relation to a non-beneficiary who is married or in a civil union or in a de facto relationship,—
       (i) the appropriate maximum weekly rate of unemployment benefit; plus
-      (ii) (if he or she has 1 or more dependent children) the maximum annual rate of family support (divided by 52) that is payable in respect of a first dependent child who is under 16 years under subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994 (whichever is applicable); plus
+      (ii) (if he or she has 1 or more dependent children) the maximum annual rate of family tax credit (divided by 52) that is payable in respect of a first dependent child who is under 16 years under subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994 (whichever is applicable); plus
       (iii) the maximum weekly rate of unemployment benefit that would have been payable in respect of his or her, spouse or partner
   - **Wellington**
 
