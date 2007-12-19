@@ -1,5 +1,5 @@
 # Superannuation Schemes Act 1989
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-19_
 
 > An Act to provide for the registration of superannuation schemes, and to provide a procedure to enable both benefits payable from superannuation schemes and annuities to be reduced as a result of changes in taxation
 
@@ -26,6 +26,7 @@ _Consolidation as at 2007-09-03_
   - **Member** , in relation to any superannuation scheme, means—
     (a) A natural person who has been admitted to membership of the scheme and who is, or may become, entitled to benefits under the scheme:
     (b) The trustees of another registered superannuation scheme which has been admitted to membership of the scheme and which is, or may become, entitled to benefits under the scheme:
+  - **participation agreement** has the meaning given to it in section 4(1) of the KiwiSaver Act 2006
   - **Registered superannuation scheme** or means a superannuation scheme that, for the time being, is registered under this Act
   - **Solicitor** means a person enrolled as a barrister and solicitor of the Court under or by virtue of the Law Practitioners Act 1982
   - **superannuation scheme** or has the meaning given to it in section 2A
@@ -121,7 +122,8 @@ There shall be implied in every trust deed of a registered superannuation scheme
 (5) For the purpose of this section, references to the transfer of members or beneficiaries from one scheme to another include references to transfers of members or beneficiaries from one section of a registered scheme to another section of the same scheme.
 
 ### 9BAA When Government Actuary may approve transfers without consent of members and beneficiaries
-(1) The requirement in section 9B to obtain the written consent of all the members and beneficiaries of a scheme does not apply if the Government Actuary approves the transfer under this section.
+(1) The requirement in section 9B to obtain the written consent of all or any of the members and beneficiaries of a scheme does not apply if the Government Actuary approves the transfer under this section.
+(1B) This section applies despite anything to the contrary in a scheme's trust deed.
 (2) The Government Actuary may approve the transfer if, and only if, the Government Actuary is satisfied that—
   (a) the terms and conditions of the scheme to which the members or beneficiaries are to be transferred (new scheme) are no less favourable to members or beneficiaries than the terms and conditions of the scheme from which they are being transferred (old scheme); and
   (b) the transfer is otherwise reasonable in all the circumstances (including having regard to the value of the assets transferred from the old scheme to the new scheme); and
@@ -130,6 +132,9 @@ There shall be implied in every trust deed of a registered superannuation scheme
 (4) In determining whether subsection (2) or (3) applies, the Government Actuary may—
   (a) have regard to the likely effect of the new scheme on benefits to members and beneficiaries as a whole; and
   (b) have regard to any other matter that the Government Actuary considers relevant.
+(4B) For a transfer that the Government Actuary has approved,—
+  (a) each relevant member of the old scheme is treated as offering to be a member of the new scheme on the terms and conditions for that new scheme; and
+  (b) the trustee of the new scheme is treated as accepting the member's offer.
 (5) The Government Actuary may publish, in any form that the Government Actuary considers fit, guidance as to matters that the Government Actuary considers relevant under this section (including principles that the Government Actuary may use to decide whether to approve the transfer).
 
 ### 9BAB How approval under section 9BAA may be granted
@@ -156,6 +161,13 @@ There shall be implied in every trust deed of a registered superannuation scheme
 (1) Notwithstanding anything contained in the trust deed of any registered superannuation scheme, there shall be implied in every such trust deed a provision that a beneficiary who continues to be employed by an employer after that beneficiary's expected age or date of retirement (as defined in the trust deed of that registered superannuation scheme) may elect to defer the receipt of any benefit which the beneficiary is eligible to receive under that superannuation scheme until the date upon which the beneficiary ceases to be employed by that employer.
 (2) Nothing in subsection (1) of this section or in the Human Rights Act 1993 has the effect of requiring either an employer or a beneficiary to continue to contribute, or to cease to contribute, to a registered superannuation scheme after the beneficiary's expected age or date of retirement, as defined in the trust deed of that registered superannuation scheme.
 (3) Where a beneficiary has the right, under the provision described in subsection (1) of this section, to elect to defer receipt of any benefit which the beneficiary is eligible to receive under the superannuation scheme, the trustees of the scheme shall inform the beneficiary in writing of that right.
+
+### 9D Implied term as to reduction of scheme insurance upon transfer out of complying superannuation fund
+(1) This section applies to a registered superannuation scheme (scheme A) if—
+  (a) scheme A provides or facilitates the provision of insurance (the scheme insurance) to a member or other beneficiary (the person); and
+  (b) the benefit of the scheme insurance is calculated by reference to contributions for the person held by a complying superannuation fund (the contributions); and
+  (c) an amount of contributions is transferred out of the complying superannuation fund to a complying superannuation fund or KiwiSaver scheme (other than scheme A).
+(2) A term is implied into the trust deed of scheme A. That term must have the effect of allowing the benefit of the person's scheme insurance to be reduced in proportion to the amount of contributions transferred out of the complying superannuation fund to a complying superannuation fund or KiwiSaver scheme (other than scheme A).
 
 ### 10 Implied provision as to reversion of scheme assets to employer
 There shall be implied in every trust deed of a registered superannuation scheme that provides for the reversion of any assets of the scheme to any employer, a provision that no part of the assets shall so revert without the prior written consent of the Government Actuary.
@@ -414,21 +426,29 @@ Notwithstanding the repeal of the Superannuation Schemes Act 1976 (as amended by
 
 ### 34 Complying superannuation funds
 (1) A person may apply to the Government Actuary for approval of a registered scheme as a complying superannuation fund for the purposes of the Income Tax Act 2004.
-(2) The application must be accompanied by all information relevant to the Government Actuary dealing with the application under section 35.
+(2) The application must be accompanied by all information necessary to satisfy the Government Actuary of the matters referred to in section 35.
+(3) The application must include a copy of any participation agreements that have been ratified by employers of employees in the scheme as applicable to the registered scheme.
 
 ### 35 Dealing with applications for complying superannuation funds
 (1) The Government Actuary must complete consideration of whether or not the relevant registered scheme is approved as a complying superannuation fund, within 28 days after receiving an application from a person under section 34 and the relevant information required to accompany the application. The Government Actuary must approve a registered scheme if—
-  (a) the registered scheme and any relevant participation agreement evidence rules that subject the following to complying fund rules:
+  (a) the registered scheme and any relevant participation agreement contain rules that subject the following to complying fund rules:
     (i) relevant contributions:
     (ii) returns on relevant contributions:
     (iii) relevant benefits; and
   (b)
   (c) the registered scheme has at least 20 members, treating all interests in the registered scheme or account held by persons associated under section OD 8(3) of the Income Tax Act 2004 as being held by 1 person; and
   (d) the registered scheme is registered on or before 1 July 2007; and
-  (e) any relevant participation agreement is entered into on or before 1 July 2007.
+  (e) any relevant participation agreement is—
+    (i) an agreement entered into on or before 1 July 2007:
+    (ii) an agreement (the successor participation agreement) entered into after 1 July 2007, if it succeeds and replaces a participation agreement (the prior agreement) entered into on or before 1 July 2007 or entered into after 1 July 2007 as a successor participation agreement for an earlier prior agreement.
 (2) The Government Actuary must notify the person whether or not the relevant registered scheme is approved as a complying superannuation fund for the purposes of the Income Tax Act 2004 as soon as practicable after completing consideration under subsection (1).
 (3) If the relevant registered scheme is approved as a complying superannuation fund for the purposes of the Income Tax Act 2004, the Government Actuary must notify the Commissioner of Inland Revenue of that approval, at the same time as giving notice under subsection (2).
 (4) Approval notified under subsections (2) and (3) is effective on and after the date the Government Actuary must complete consideration under subsection (1), or earlier, if consideration is completed earlier. The notices must contain the date on and after which approval is effective, under this subsection.
+(5) For the purposes of subsection (1)(e),—
+  (a) participation agreement includes a trust deed:
+  (b) a participation agreement (agreement A) succeeds and replaces another participation agreement if—
+    (i) agreement A succeeds and replaces the other participation agreement due to the merger or acquisition of a party to the other participation agreement; or
+    (ii) all relevant members of a scheme covered by agreement A transfer by virtue of section 9BAA of the Superannuation Schemes Act 1989 to a scheme covered by the other participation agreement.
 
 ### 36 Revocation of approval
 (1) If the Government Actuary has reasonable cause to believe that a registered scheme that is approved as a complying superannuation fund no longer meets the requirements in section 35(1)(a) to (c), or has failed to specify in an annual report the information required by schedule 2, item (o), the Government Actuary may revoke that approval immediately.
@@ -438,6 +458,9 @@ Notwithstanding the repeal of the Superannuation Schemes Act 1976 (as amended by
   (c) the Commissioner of Inland Revenue.
 (3) Revocation notified under subsection (2) is effective on and after the date the Government Actuary revokes approval under subsection (1). The notices must contain the date on and after which approval is revoked, under this subsection.
 (4) A registered scheme that is notified that approval is revoked must immediately notify that revocation to each member who may be affected, and to their employers. At the same time, the registered scheme must notify the Commissioner of each member who may be affected, and of their employers.
+
+### 41 Transitional provision relating to lodging of participation agreements
+The trustees of every scheme that has been approved as a complying superannuation fund before the date of commencement of this section must send to the Government Actuary, within 28 days after that commencement date, a copy of any participation agreements that have been ratified by employers of employees in the scheme as applicable to the complying superannuation fund.
 
 ## Part 3 — Transitional provisions relating to reduction of benefits as result of changes in taxation
 
@@ -580,7 +603,7 @@ The following matters must be specified in the annual report:
   (l) the names of, and any changes to, the directors of any corporate trustee since the last annual report:
   (m) if any of the benefits payable from the scheme are based on the investment return of scheme assets, a statement of the crediting rate or rates applied during the year:
   (n) the registration date of the most recent prospectus for the scheme if a prospectus is required by the Securities Act 1978:
-  (o) If the registered scheme is a complying superannuation fund for the purposes of the Income Tax Act 2004,—
+  (o) If the registered scheme is a complying superannuation fund,—
     (i) the market value of assets subject to complying fund rules; and
     (ii) the number of members to which the assets relate; and
     (iii) the value of withdrawals subject to complying fund rules.
