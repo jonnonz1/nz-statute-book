@@ -1,5 +1,5 @@
 # Broadcasting Act 1989
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2007-12-20_
 
 > An Act—aTo provide for the maintenance of programme standards in broadcasting in New Zealand; andbTo establish the Broadcasting Standards Authority and to define its functions and powers; andcTo establish the Broadcasting Commission and to define its functions and powers; anddTo enable political parties to broadcast election programmes for Parliamentary elections free of charge; andefTo repeal the Broadcasting Act 1976; andgTo provide for matters incidental thereto
 
@@ -34,6 +34,9 @@ _Consolidation as at 2007-09-20_
     (a) Made on the demand of a particular person for reception only by that person; or
     (b) Made solely for performance or display in a public place:
   - **Commission** means the Broadcasting Commission established by section 35 of this Act
+  - **election programme** ,—
+    (a) in the definition of advertising programme and in sections 8 and 21, means a programme broadcast under Part 6; and
+    (b) in Part 6, has the meaning given to it by section 69
   - **Individual** has the same meaning as in section 2(1) of the Privacy Act 1993
   - **Liquor** has the meaning given to that term by section 2 of the Sale of Liquor Act 1962
   - **Minister** means, in relation to a Part of this Act, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Part
@@ -109,25 +112,45 @@ This Part of this Act is based on the following principles:
 (3) The broadcaster shall, in notifying a complainant pursuant to subsection (1) or subsection (2) of this section, give to the complainant information concerning the complainant's right, by way of referral to the Authority under section 8 of this Act, to seek an investigation and review of the broadcaster's action or decision, as the case may be.
 
 ### 8 Right of complainant to refer formal complaint to Authority
-(1) Subject to section 9 of this Act, where—the complainant may refer the complaint to the Authority.
-  (a) The complainant, in respect of a complaint under section 6(1)(a) of this Act, is dissatisfied with the decision or with the action taken by the broadcaster; or
-  (b) Except as provided in subsection (1A) of this section, the complaint is a complaint about a programme (other than an election programme broadcast pursuant to Part 6 of this Act) and the broadcaster has not, within 20 working days after receiving the complaint, notified the complainant of—
-    (i) The decision of the broadcaster; or
-    (ii) The action taken by the broadcaster in relation to the complaint; or
-  (ba) The complaint is a complaint about an election programme broadcast pursuant to Part 6 of this Act and the broadcaster has not, within 48 hours after receiving the complaint, notified the complainant of—
-    (i) The decision of the broadcaster; or
-    (ii) The action taken by the broadcaster in relation to the complaint; or
-  (c) The complaint constitutes an allegation that a broadcaster has failed to comply with section 4(1)(c) of this Act,—
-(1A) Where, within 20 working days after receiving the complaint, the broadcaster gives to the complainant a written notice—subsection (1)(b) of this section shall have effect in relation to that complaint as if, for the expression 20 working days, there were substituted the expression 40 working days.
-  (a) Stating that the broadcaster will be unable to make, within the prescribed period of 20 working days, a decision with regard to the complaint; and
-  (b) Giving the reasons why the broadcaster will be unable to make the decision within the prescribed time,—
-(2) Subsection (1) of this section shall apply in respect of a complaint about an advertising programme only where neither the broadcaster nor the advertiser recognise, in relation to that complaint, the jurisdiction of the Advertising Standards Complaints Board (a board appointed by the Advertising Standards Authority Incorporated).
+(1) A complainant must refer the complaint directly to the Authority if the complaint is that an election programme did not meet 1 or more of the standards in section 4(1)(a) to (c) and (e).
+(1A) A complainant may refer the complaint directly to the Authority if—
+  (a) the complaint is that a broadcaster failed to comply with section 4(1)(c); and
+  (b) the complainant chooses to refer the complaint directly to the Authority.
+(1B) A complainant may refer the complaint to the Authority if the complainant—
+  (a) made the complaint under section 6(1)(a); and
+  (b) is dissatisfied with—
+    (i) the decision of the broadcaster; or
+    (ii) the action taken by the broadcaster.
+(1C) A complainant may refer the complaint to the Authority if—
+  (a) the complaint is about a programme other than an election programme; and
+  (b) at least 20 working days have passed since the broadcaster received the complaint; and
+  (c) the broadcaster has not notified the complainant of—
+    (i) the decision of the broadcaster; or
+    (ii) the action taken by the broadcaster; and
+  (d) the broadcaster—
+    (i) has not given the complainant a notice under subsection (1D); or
+    (ii) has given the complainant a notice under subsection (1D) but has not complied with the statement under subsection (1D)(c).
+(1D) A broadcaster that receives a complaint under section 6 may give the complainant a notice in writing or electronically within 20 working days after receiving the complaint—
+  (a) stating that the broadcaster will be unable to make a decision or take action on the complaint within 20 working days after receiving the complaint; and
+  (b) stating the reasons why the broadcaster will be unable to do so; and
+  (c) stating that the broadcaster will tell the complainant about its decision or action on the complaint within 40 working days after the broadcaster received the complaint.
+(2) Subsections (1) to (1D) shall apply in respect of a complaint about an advertising programme only where neither the broadcaster nor the advertiser recognise, in relation to that complaint, the jurisdiction of the Advertising Standards Complaints Board (a board appointed by the Advertising Standards Authority Incorporated).
 (3) Except as provided in subsection (2) of this section, nothing in this section entitles a complainant to refer a complaint about an advertising programme to the Authority.
 
 ### 9 Time limits
-(1) The Authority shall not accept a complaint referred to it under section 8(a) of this Act after the expiry of the period of 20 working days beginning with the first working day after the day on which the complainant received from the relevant broadcaster notice of its decision in relation to the complaint.
-(2) The Authority shall not accept a complaint referred to it under section 8(b) of this Act after the expiry of the period of 60 working days beginning with the first working day after the day on which the programme to which the complaint relates was broadcast.
-(3) The Authority shall not accept a complaint referred to it under section 8(c) of this Act after the expiry of the period of 20 working days beginning with the first working day after the day on which the programme to which the complaint relates was broadcast.
+(1) The Authority must not accept a complaint made outside the period specified for the complaint in this section.
+(2) A complaint under section 8(1) must be made to the Authority in the period—
+  (a) starting on the first working day after the broadcast of the programme that the complaint is about; and
+  (b) ending 60 working days later.
+(3) A complaint under section 8(1A) must be made to the Authority in the period—
+  (a) starting on the first working day after the broadcast of the programme that the complaint is about; and
+  (b) ending 20 working days later.
+(4) A complaint under section 8(1B) must be made to the Authority in the period—
+  (a) starting on the first working day after the day on which the complainant received notice of the broadcaster's decision or action on the complaint; and
+  (b) ending 20 working days later.
+(5) A complaint under section 8(1C) must be made to the Authority in the period—
+  (a) starting on the first working day after the broadcast of the programme that the complaint is about; and
+  (b) ending 60 working days later.
 
 ### 10 Consideration and determination of complaints by Authority
 (1) The Authority may, if it thinks fit, consider and determine any complaint referred to it under section 8 of this Act without a formal hearing, but, in that case,—
@@ -259,7 +282,10 @@ Except in any proceedings for perjury within the meaning of the Crimes Act 1961 
 ### 21 Functions of Authority
 (1) The functions of the Authority shall be—
   (a) To receive and determine complaints from persons who are dissatisfied with the outcome of complaints made to broadcasters under section 6(1)(a) of this Act; and
-  (b) To receive and determine complaints from persons where the complaint constitutes an allegation that a broadcaster has failed to comply with section 4(1)(c) of this Act, and the complainant has elected to refer the complaint to the Authority in the first instance; and
+  (b) to receive and determine complaints that election programmes did not meet 1 or more of the standards in section 4(1)(a) to (c) and (e); and
+  (ba) to receive and determine complaints when—
+    (i) the complaint is that a broadcaster failed to comply with section 4(1)(c); and
+    (ii) the complainant has chosen to refer the complaint directly to the Authority; and
   (c) To publicise its procedures in relation to complaints; and
   (d) To issue to any or all broadcasters, advisory opinions relating to broadcasting standards and ethical conduct in broadcasting; and
   (e) To encourage the development and observance by broadcasters of codes of broadcasting practice appropriate to the type of broadcasting undertaken by such broadcasters, in relation to—
@@ -639,7 +665,7 @@ The income of Te Reo Whakapuaki Irirangi shall be exempt from income tax.
     (i) Broadcast for a fee or other consideration; and
     (ii) relating solely to 1 named constituency candidate at an election; and
     (iii) Used or appearing to be used to promote or procure the election of the candidate; and
-    (iv) Broadcast by the candidate or with the candidate's authority within the 3 months preceding polling day for the election; or
+    (iv) Broadcast by the candidate or with the candidate's authority within the election period; or
   (d) Any advertisement placed by the Electoral Commission or by the Chief Registrar of Electors, the Chief Electoral Officer, a Registrar of Electors, a Returning Officer, or other official for the purposes of the Electoral Act 1993; or
   (e) Any non-partisan advertisement broadcast, as a community service, by the broadcaster.
 (2A) Nothing in subsection (1) of this section restricts the amount of money that a political party or group of related political parties may spend on the production costs of an election programme.
