@@ -1,5 +1,5 @@
 # Citizens Initiated Referenda Act 1993
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2007-12-20_
 
 > An Act to provide for the holding, on specific questions, of citizens initiated referenda, the results of which referenda will indicate the views held by the people of New Zealand on specific questions but will not be binding on the New Zealand Government
 
@@ -220,12 +220,12 @@ The Speaker, on receiving from the Clerk of the House of Representatives an indi
 (2) This section is subject to the provisions of this Act and of any regulations made under this Act.
 (3) The indicative referendum is taken in the manner prescribed by the Electoral Act 1993 for the taking of an electoral poll.
 (4) The provisions of the Electoral Act 1993 and of any regulations made under that Act, as far as they are applicable and with the necessary modifications, apply to the indicative referendum as if it were an electoral poll.
-(5) However, the sections of the Electoral Act 1993 that do not apply to an indicative referendum are sections 4 to 15, 28 to 38, 41 to 45(8), 46 to 59, 62 to 71, 113, 125 to 140, 143 to 146L, 148 to 154, 157(2), 160(1), (3), (4), and (8), 165(1)(b), 168(1) to (3), 170(6), 174(4), 179(1)(a), 180(1) to (5), 180(7)(e), 181, 183, 185, 186, 191 to 193A, 196A, 197 to 199, 203, 204, 206 to 214L, 221, 221A, 229 to 231, 236(3), 236(8), 237 to 239, 243 to 246, 256(1)(c), 256(2), 256(3), 258 to 262, 264, 267, 268, and 269 to 284.
+(5) However, the sections of the Electoral Act 1993 that do not apply to an indicative referendum are sections 4 to 15, 28 to 38, 41 to 45(8), 46 to 59, 62 to 71, 113, 125 to 140, 143 to 146L, 148 to 154, 157(2), 160(1), (3), (4), and (8), 165(1)(b), 168(1) to (3), 170(6), 174(4), 179(1)(a), 180(1) to (5), 180(7)(e), 181, 183, 185, 186, 191 to 193A, 196A, 197 to 199, 203, 204, 221A, 229 to 231, 236(3), 236(8), 237 to 239, 243 to 246, 256(1)(c), 256(2), 256(3), 258 to 262, 264, 267, 268, and 269 to 284.
 
 ### 24A Application of Electoral Act 1993 to indicative referendum conducted by postal voting
 (1) This section applies when the Governor-General makes an Order in Council in accordance with section 22(2)(b) specifying that the indicative referendum be conducted by postal voting.
 (2) The provisions of the Electoral Act 1993 and of any regulations made under that Act apply to the indicative referendum to the extent provided by the Referenda (Postal Voting) Act 2000. The provisions invoked by the Referenda (Postal Voting) Act 2000 apply to the indicative referendum as far as they are applicable and with the necessary modifications.
-(3) However, the sections of the Electoral Act 1993 that do not apply to an indicative referendum conducted by postal voting are sections 4 to 15, 28 to 38, 41 to 45(8), 46 to 59, 61 to 71, 113, 125 to 177, 178(8), 179(1)(a), 180(1) to (5), 180(7)(e), 181 to 199, 203, 204, 206 to 214A, 215 to 219, 221, 221A, 229 to 231, 236(3), 236(8), 237 to 239, 243 to 246, 256(1)(c), 256(2), 256(3), 258 to 262, 264, and 266 to 284.
+(3) However, the sections of the Electoral Act 1993 that do not apply to an indicative referendum conducted by postal voting are sections 4 to 15, 28 to 38, 41 to 45(8), 46 to 59, 61 to 71, 113, 125 to 177, 178(8), 179(1)(a), 180(1) to (5), 180(7)(e), 181 to 199, 203, 204, 215 to 218, 221A, 229 to 231, 236(3), 236(8), 237 to 239, 243 to 246, 256(1)(c), 256(2), 256(3), 258 to 262, 264, and 266 to 284.
 
 ### 24B Application of this Act to indicative referendum conducted by postal voting
 (1) This section applies when the Governor-General makes an Order in Council in accordance with section 22(2)(b) specifying that the indicative referendum be conducted by postal voting.
