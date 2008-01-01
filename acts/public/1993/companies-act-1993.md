@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to reform the law relating to companies, and, in particular,—aTo reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbTo provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcTo define the relationships between companies and their directors, shareholders, and creditors; anddTo encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeTo provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -353,7 +353,7 @@ Subject to section 16(2) of this Act, the constitution of a company may contain�
 (2) The applicant for the order must ensure that a copy of an order made under subsection (1) of this section, together with a copy of the constitution as altered, is delivered to the Registrar for registration within 10 working days.
 (3) A person who fails to comply with subsection (2) of this section commits an offence and is liable on conviction to the penalty set out in section 373(2) of this Act.
 
-## Part 6 — Shares
+## Part 6 — Shares and debentures
 
 ### 35 Legal nature of shares
 A share in a company is personal property.
@@ -1026,6 +1026,34 @@ No notice of a trust, whether express, implied, or constructive, may be entered 
 (7) If a company fails to comply with subsection (1) or subsection (4) of this section,—
   (a) The company commits an offence and is liable on conviction to the penalty set out in section 373(1) of this Act; and
   (b) Every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(1) of this Act.
+
+**Debentures**
+
+### 95A Perpetual debentures
+(1) A term that is expressed in a debenture or in a deed securing a debenture, issued or executed by a company, is not invalid by reason only that it provides that the debenture is—
+  (a) irredeemable; or
+  (b) redeemable only on the happening of a contingency, however remote, or on the expiration of a period, however long.
+(2) This section applies despite anything to the contrary in section 97 of the Property Law Act 2007 or in any rule of law or equity.
+
+### 95B Power to reissue redeemed debentures in certain cases
+(1) A company that has redeemed debentures previously issued by it may—
+  (a) reissue the debentures; or
+  (b) issue other debentures in their place.
+(2) Subsection (1) applies—
+  (a) whether the debentures were redeemed before, on, or after 1 January 2008:
+  (b) unless—
+    (i) the company's constitution or a contract entered into by the company contains a provision (whether express or implied) to the contrary; or
+    (ii) the company has, by passing a resolution or by some other act, indicated its intention that the debentures are cancelled.
+(3) On a reissue of redeemed debentures or of other debentures in their place, the debentures are to be treated as having, and as always having had, the same priority as the redeemed debentures.
+(4) Debentures of a company deposited to secure advances from time to time (whether on current account or otherwise) are not to be treated as redeemed because the company's account ceases to be in debit while the debentures are deposited.
+(5) Subsection (4) applies whether the debentures were deposited before, on, or after 1 January 2008.
+(6) The reissue of a debenture or the issue of another debenture in its place under this section (whether before, on, or after 1 January 2008)—
+  (a) is to be treated as the issue of a new debenture for the purposes of stamp duty payable (if any); but
+  (b) is not to be treated as the issue of a new debenture for the purposes of any provision limiting the amount or number of debentures to be issued.
+
+### 95C Specific performance of contracts to subscribe for debentures
+(1) A court may order the specific performance of a contract with a company to take up and pay for any debentures of the company.
+(2) The court must not refuse to order the specific performance of a contract of that kind on the ground that the contract is one to lend money.
 
 ## Part 7 — Shareholders and their rights and obligations
 
@@ -1869,7 +1897,7 @@ Where a shareholder of a company brings proceedings against the company or a dir
 ### 181 Attorneys
 (1) Subject to its constitution, a company may, by an instrument in writing executed in accordance with section 180(1)(a) of this Act, appoint a person as its attorney either generally or in relation to a specified matter.
 (2) An act of the attorney in accordance with the instrument binds the company.
-(3) The provisions of Part 12 of the Property Law Act 1952 apply, with the necessary modifications, in relation to a power of attorney executed by a company to the same extent as if the company was a natural person and as if the commencement of the liquidation or, if there is no liquidation, the removal from the register, of the company was the death of a person within the meaning of that Part.
+(3) Sections 19 to 21 of the Property Law Act 2007 apply, with all necessary modifications, in relation to a power of attorney executed by a company, to the same extent as if the company was a natural person and as if the commencement of the liquidation or, if there is no liquidation, the removal from the register kept for the purposes of this Act of the company was an event revoking the power of attorney within the meaning of those sections.
 
 **Pre-incorporation contracts**
 
@@ -5091,7 +5119,7 @@ A failure by an overseas company to comply with section 333 or section 334 of th
   (d) Has been dissolved, or otherwise ceased to exist as a company, under or by virtue of the laws of any other country.
 
 ### 343 Attorneys of overseas companies
-(1) Part 12 of the Property Law Act 1952 applies, with the necessary modifications, in relation to a power of attorney executed by an overseas company registered under this Part of this Act to the same extent as if the company were a person and as if the commencement of the liquidation of the company was the death of a person within the meaning of Part 12 of that Act.
+(1) Sections 19 to 21 of the Property Law Act 2007 apply, with all necessary modifications, in relation to a power of attorney executed by an overseas company registered under this Part of this Act, to the same extent as if the company was a natural person and as if the commencement of the liquidation of the company was an event revoking the power of attorney within the meaning of those sections.
 (2) A declaration endorsed on or annexed to an instrument appointing, or appearing to appoint, an attorney of an overseas company, made or appearing to be made by one of the directors before a person authorised by section 11 of the Oaths and Declarations Act 1957 to take a declaration for use in New Zealand, in the country concerned, to the effect that—is conclusive evidence of those facts.
   (a) The company is incorporated under the name stated in the instrument in accordance with the law of the country in which it is so incorporated, the name of which is stated in the declaration; and
   (b) The instrument has been executed, and the powers appearing to be conferred on the attorney are authorised to be conferred under the constitution of the company, or under the Act or instrument under which the company is incorporated, or by any other instrument constituting or defining the constitution of the company; and
@@ -6089,7 +6117,7 @@ Except as provided in this Schedule and in any regulations made under this Act, 
 If a payment has been made to a person (A) on account of any preferential claim set out in this schedule out of money advanced by another person (B) for that purpose, then B has, in a liquidation, the same right of priority in respect of the money so advanced as A would have if the payment had not been made.
 
 ### 5 Priority given to person who distrains on goods
-If a landlord or other person has distrained on goods or effects of the company during the 20 working days before the commencement of the liquidation, the preferential claims set out in this schedule are a first charge on the goods or effects so distrained, or the proceeds from their sale; but if any money is paid to a claimant under that charge, the landlord or other person has the same rights of priority as that claimant.
+If a person has distrained on goods or effects of the company during the 20 working days before the commencement of the liquidation, the preferential claims set out in this schedule are a first charge on the goods or effects so distrained, or the proceeds from their sale; but if any money is paid to a claimant under that charge, the person has the same rights of priority as that claimant.
 
 ### 6 Saving provision for liquidation that has commenced
 If a liquidation of a company commenced before the Companies Amendment Act 2006 came into force, that company's property must be applied in accordance with the priorities stated in this schedule on the date the liquidation commenced as if the Companies Amendment Act 2006 had not come into force.
