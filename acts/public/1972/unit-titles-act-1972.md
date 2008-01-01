@@ -1,5 +1,5 @@
 # Unit Titles Act 1972
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to facilitate the subdivision of land into units that are to be owned by individual proprietors, and common property that is to be owned by all the unit proprietors as tenants in common, and to provide for the use and management of the units and common property
 
@@ -278,7 +278,7 @@ The lessor's consent shall not be required to any dealing with a stratum estate 
 ### 27 Exclusion of powers of forfeiture, re-entry, and distress
 (1) After the deposit of a unit plan to which this Part of this Act applies, and until the cancellation thereof,—
   (a) No right of forfeiture or re-entry (whether for non-payment of rent or otherwise) shall be exercisable by the lessor:
-  (b) No right of distress (whether for non-payment of rent or otherwise) shall be exercisable by the lessor otherwise than in accordance with subsection (2) of this section.
+  (b)
 (2) Where the proprietor of any unit becomes liable under the provisions of subsection (1) of section 26 of this Act to pay to the lessor any sum (whether in respect of rent or other money payable under the lease) the lessor may enforce payment of the sum in the same manner as he would have been able to if the sum had been rent in arrear from the date on which the liability of that proprietor to pay arose and that proprietor had been the lessee under the lease:
   Provided that nothing in this subsection shall entitle, empower, or authorise the lessor to forfeit or determine that proprietor's interest under the lease.
 
@@ -298,7 +298,7 @@ The lessor's consent shall not be required to any dealing with a stratum estate 
   (a) Cancel the unit plan;
   (b) Cancel the certificate of title to each of the units; and
   (c) Enter a memorial of the expiry of the term upon the lease and upon the outstanding duplicate thereof and upon the lessor's certificate of title; and for this purpose the outstanding copy of the lease and of the lessor's certificate of title shall be delivered to the Registrar when the certificate of expiry is lodged with him.
-(4) Where the body corporate has applied to the Court for any relief under section 120 of the Property Law Act 1952, it may serve a copy of the application on the Registrar.
+(4) Where the body corporate has applied to the Court for any relief under section 264 of the Property Law Act 2007, it may serve a copy of the application on the Registrar.
 (5) Notwithstanding the provisions of subsection (3) of this section, where a copy of an application has been served on the Registrar under subsection (4) of this section he shall not register a certificate of expiry without an order from the Court:
   Provided that he may register such a certificate if the proprietors who are together entitled to exercise more than one-third of the votes on an ordinary resolution request him in writing to do so.
 
