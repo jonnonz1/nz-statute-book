@@ -1,5 +1,5 @@
 # Property Law Amendment Act 1994
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to amend the Property Law Act 1952
 
@@ -11,5 +11,5 @@ _Consolidation as at 2007-09-03_
 (1)
 (2) Section 3 of the Property Law Amendment Act 1993 is hereby consequentially repealed.
 
-### 3
+### 3 Preferential claims
 [Repealed]
