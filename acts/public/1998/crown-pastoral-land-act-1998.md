@@ -1,5 +1,5 @@
 # Crown Pastoral Land Act 1998
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-01-01_
 
 > An Act—aTo establish a system for reviewing the tenure of Crown land held under certain perpetually renewable leases; andbTo establish a system for determining how Crown land formerly held under pastoral occupation licence, and certain other Crown land, should be dealt with; andcOtherwise to provide for the administration of Crown pastoral land
 
@@ -253,7 +253,7 @@ An occupation licence gives the holder the exclusive right of pasturage over the
 (3) The District Court must not make an order under subsection (2)(c) unless satisfied that every person with an interest in the land concerned at the time the application under subsection (1) was made—
   (a) Has been given notice of the application; and
   (b) Has an adequate opportunity to appear and be heard in relation to it.
-(4) Section 118 of the Property Law Act 1952 is not available in respect of a forfeiture under subsection (2)(c) of this section.
+(4) Sections 244 to 257 of the Property Law Act 2007 is not available in respect of a forfeiture under subsection (2)(c) of this section.
 (5) Section 105 of the Land Act 1948 does not apply to a breach of a reviewable instrument committed after the commencement of this Act.
 (6) In this section, breach, in relation to a reviewable instrument, means an action (or failure or refusal to act) by the holder that is—
   (a) In contravention of section 100 of the Land Act 1948 or section 15(1) or section 16(1) of this Act, in its application to the land; or
