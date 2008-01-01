@@ -1,5 +1,5 @@
 # Forests Act 1949
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to consolidate and amend the law relating to forestry
 
@@ -707,8 +707,8 @@ A landowner intending to enter into, vary, or cancel a forest sink covenant must
 (1) Provided the Crown has acted in good faith and with reasonable care, nothing in this Part makes the Crown liable to any person for compensation or damages in respect of any matter arising from a forest sink covenant.
 (2) However, the Crown and the other party (or parties) to a forest sink covenant may agree to a different liability regime in that forest sink covenant.
 
-### 67ZC Section 126G of Property Law Act 1952 does not apply to forest sink covenants
-Nothing in section 126G of the Property Law Act 1952 applies to any forest sink covenant entered into in accordance with this Act.
+### 67ZC Sections 316 to 318 of Property Law Act 2007 do not apply to forest sink covenants
+Nothing in sections 316 to 318 of the Property Law Act 2007 applies to any forest sink covenant entered into in accordance with this Act.
 
 ### 67ZD Registrar-General of Land to register forest sink covenants
 (1) A landowner who has entered into a forest sink covenant must, within 180 days of that covenant being agreed, submit that covenant to the Registrar-General of Land for registration under the Land Transfer Act 1952.
