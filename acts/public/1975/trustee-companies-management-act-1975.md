@@ -1,5 +1,5 @@
 # Trustee Companies Management Act 1975
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to make special provision for the protection of persons who have beneficial interests, or interests as depositors or contributors, in property or funds administered by trustee companies and their associated companies to which this Act is applied, and for matters incidental thereto
 
@@ -33,7 +33,7 @@ _Consolidation as at 2007-09-03_
   (a) Bring or continue any action or proceeding, or exercise any other power, right, or remedy against that trustee company or associated company for recovery or repayment thereof notwithstanding that he may have made or be entitled to make demand therefor, or that the time for repayment (whether fixed by contract or otherwise) may have arrived; or
   (b) Issue any execution, attach any debt, or otherwise enforce or seek to enforce any security or any judgment or order obtained against that trustee company or associated company; or
   (c) Petition for the winding up of that trustee company or associated company; or
-  (d) Foreclose, enter into possession, distrain for rent, sell, appoint a receiver, or exercise or continue the exercise of any power or right under or in pursuance of any mortgage, charge, debenture, instrument, or other security relating to his investment:
+  (d) enter into possession, sell, appoint a receiver, or exercise or continue the exercise of any power or right under or in pursuance of any mortgage, charge, debenture, instrument, or other security relating to his investment:
   Provided that, with the consent of the Board, an action or proceeding may be brought against the trustee company or associated company for the purpose of determining whether any right or liability exists.
 (3) No person having power to appoint a new trustee in place of that trustee company or associated company shall while this section applies to that trustee company or associated company exercise that power without the consent of the Court or the Board of Directors of that trustee company or associated company.
 (4) While this section applies to any trustee company or associated company to which this Act applies, the Court shall not give that consent, or make an order appointing a new trustee (whether under any Act or otherwise) in place of that trustee company or associated company, or removing that trustee company or associated company as trustee of any estate, unless either—
