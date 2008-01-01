@@ -1,5 +1,5 @@
 # Property Law Act 1952
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to consolidate and amend certain enactments relating to property
 
