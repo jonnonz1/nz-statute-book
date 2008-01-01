@@ -1,5 +1,5 @@
 # Historic Places Act 1993
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-01-01_
 
 > An Act—aTo promote the identification, protection, preservation, and conservation of the historical and cultural heritage of New Zealand; andbTo continue the New Zealand Historic Places Trust and the New Zealand Historic Places Board of Trustees with the functions and powers necessary for the full and proper attainment of the objectives of this Act; andcTo establish the Maori Heritage Council; anddTo amend and consolidate the Historic Places Act 1980
 
@@ -96,7 +96,7 @@ Without limiting any of the provisions of the Resource Management Act 1991, the 
   (a) The term owner includes the owner of the fee simple and any lessee or licensee from whom a lessee or licensee derives title; and
   (b) The term land means the land to which the heritage covenant relates; and includes, in the case of a building or structure that is the subject or intended subject of a heritage covenant, the land on which that building or structure is located.
 (8) Nothing in this Act shall require the Trust to negotiate or agree with any person to enter into or execute any heritage covenant.
-(9) Nothing in section 126G of the Property Law Act 1952 applies to any heritage covenant entered into in accordance with this Act.
+(9) Nothing in sections 316 to 318 of the Property Law Act 2007 applies to any heritage covenant entered into in accordance with this Act.
 
 ### 7 Effect of heritage covenants
 (1) Every heritage covenant shall have effect according to its tenor but subject to the provisions of this Act.
