@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -2782,7 +2782,7 @@ Where a party seeks in any proceeding to recover specific property other than la
 If any party wishes to deny the right of any other party to claim as executor or administrator or as trustee, or in any representative or other alleged capacity, or the alleged constitution of any partnership firm, he shall deny the same specifically.
 
 ### 183 Denial of contract
-A bare denial of a contract shall be construed only as a denial of the making of the contract in fact, and not of its legality or sufficiency in law, whether with reference to the Statute of Frauds 1677 or the Contracts Enforcement Act 1956 or otherwise.
+A bare denial of a contract shall be construed only as a denial of the making of the contract in fact, and not of its legality or sufficiency in law, whether with reference to subpart 2 of Part 2 of the Property Law Act 2007 (which requires certain contracts to be in writing) or otherwise.
 
 ### 184 Effect of document to be stated
 If a party in his statement relies upon any document or any part thereof, it shall be sufficient to state the effect thereof as briefly as possible, without setting it out, unless the precise words are material.
@@ -5223,7 +5223,7 @@ Unless in any particular case the Court otherwise directs, every order sanctioni
     (xvi) Section 12(1) (a) of the Minors' Contracts Act 1969:
     (xvia) sections 128, 131, 167, 168, 179, 181, 182, and 186 of the Personal Property Securities Act 1999:
     (xvii) The Proceeds of Crime Act 1991:
-    (xviii) Sections 92, 118, 119, 120, and 152 of the Property Law Act 1952:
+    (xviii) sections 126, 136, 244, 248, 253, 254, 258, 261, and 357 of the Property Law Act 2007:
     (xix) The Protection of Personal and Property Rights Act 1988:
     (xx) The Reciprocal Enforcement of Judgments Act 1934:
     (xxi) Section 44C(2) and (8) of the Securities Act 1978:
