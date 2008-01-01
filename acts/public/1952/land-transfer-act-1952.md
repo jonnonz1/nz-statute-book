@@ -1,5 +1,5 @@
 # Land Transfer Act 1952
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to consolidate and amend certain enactments relating to the registration and transfer of title to land
 
@@ -640,14 +640,14 @@ Where the Registrar issues a certificate of title for any access strip under sec
   (b) rights and powers includes terms, covenants, and conditions.
 
 ### 90F Creating and noting land covenants
-(1) Any covenant that may be contained in an instrument to which section 126A of the Property Law Act 1952 applies—
+(1) Any covenant that may be contained in an instrument to which section 307 of the Property Law Act 2007 applies—
   (a) may also be created in the same way as an easement may be created under section 90A or section 90B; but
-  (b) subject to section 126A of the Property Law Act 1952, has effect only as a deed inter partes.
+  (b) subject to section 307 of the Property Law Act 2007, has effect only as a deed inter partes.
 (2) Sections 90A to 90E apply with any necessary modifications to covenants created under subsection (1), subject to the following exceptions:
   (a) sections 90A(5) and 90B(6) operate only to create covenants with effect only as a deed inter partes:
   (b) sections 90A(6) and 90B(7) do not apply.
-(3) Sections 63 to 71, 126, 126A, and 126G of the Property Law Act 1952 apply to covenants created under subsection (1).
-(4) A notification under section 126A of the Property Law Act 1952 does not give a covenant created under subsection (1) any greater force than it would have had if created in some other way.
+(3) Sections 4, 8(1) and (2)(c), 23(2), 275 to 279, 301 to 307, and 316 to 318 of the Property Law Act 2007 apply to covenants created under subsection (1).
+(4) A notification under section 307 of the Property Law Act 2007 does not give a covenant created under subsection (1) any greater force than it would have had if created in some other way.
 (5) Subsection (4) is for the avoidance of doubt.
 
 ### 91 New certificate to transferee unnecessary if whole of land transferred
@@ -668,9 +668,7 @@ The Registrar, upon cancelling any grant or certificate by endorsement as afores
 (2) In case of the limitation of successive interests as aforesaid the Registrar shall cancel the grant or certificate evidencing the title of the transferor, and shall issue a certificate in the name of the person entitled to the freehold estate in possession for such estate as he is entitled to, and the persons successively entitled in reversion or remainder or by way of executory limitation shall be entitled to be registered by virtue of the limitations in their favour in that instrument expressed, and each such person upon his estate becoming vested in possession shall be entitled to a certificate of title for the same.
 
 ### 96 Implied covenant in transfer of equity of redemption
-(1) In every transfer of land subject to a mortgage there shall be implied a covenant on the part of the transferee to and with the transferor to pay the interest or other payments thereafter to become due by virtue of that mortgage at the time and in manner therein specified for payment thereof, and to pay the principal sum when and as the same becomes due, and to keep harmless and indemnified the transferor in respect of all such payments, and in respect of all liability on account of the future observance of the covenants and conditions on the part of the transferor in the mortgage expressed or implied.
-(2) Nothing in this section shall render an executor or administrator or trustee personally liable in respect of the estate of a deceased person or in respect of the property subject to a trust, as the case may be, except to the extent of the property under his control as such executor or administrator or trustee:
-  Provided that this subsection shall not apply unless, before the execution of the transfer, or, in the case of a transfer executed for the purpose of carrying into effect a contract of sale and purchase between the parties, before the execution of the contract by the transferor, the transferor receives from the transferee or some person acting in his behalf notice in writing of the capacity in which the transferee is acquiring the land.
+[Repealed]
 
 ### 97 Transfer of lease or mortgage
 (1) A registered mortgage or lease may be transferred by memorandum of transfer as aforesaid.
@@ -679,7 +677,7 @@ The Registrar, upon cancelling any grant or certificate by endorsement as afores
   Provided that nothing in this section shall prevent a Court of competent jurisdiction from giving effect to any trusts affecting the said debt, sum of money, annuity, or damages in case the transferee holds the same as a trustee for any other person.
 
 ### 98 Implied covenants in transfer of lease
-In every transfer of a lease as aforesaid there shall be implied a covenant by and on the part of the transferee with the transferor that the transferee will thenceforth pay the rent by the said lease reserved, and observe and perform all the covenants in the said lease expressed or implied on the part of the lessee to be observed and performed; and will indemnify and keep harmless the transferor and his representatives from and against all action, suits, claims, and expenses in respect of the non-payment of the said rent, or the breach or non-observance or non-performance of the said covenants or any of them.
+[Repealed]
 
 ### 99 Memorandum of vesting order to be entered on register
 Whenever any order is made by any Court of competent jurisdiction vesting any estate or interest under this Act in any person, the Registrar, upon being served with a duplicate of the order, shall enter a memorandum thereof in the register and on the outstanding instrument of title, and until such an entry is made the said order shall have no effect in vesting or transferring the said estate or interest.
@@ -708,7 +706,7 @@ A mortgage under this Act shall have effect as security, but shall not operate a
   (b) the person who is to take the mortgage; and
   (c) the nature of the debt secured by the mortgage; and
   (d) the covenants and conditions (if any); and
-  (e) the priority amount under section 80A of the Property Law Act 1952 (if any).
+  (e) the stated priority limit under section 92 of the Property Law Act 2007 (if any).
 (3) A mortgage instrument must be executed by the registered proprietor.
 (4) An encumbrance instrument must contain the following information:
   (a) the land or estate or interest to be encumbered, which must include a reference to the register in the prescribed manner; and
@@ -749,28 +747,21 @@ A mortgage under this Act shall have effect as security, but shall not operate a
 **Sale of mortgaged land**
 
 ### 104 Application of purchase money
-(1) The purchase money to arise from the sale by the mortgagee of any mortgaged land, estate, or interest shall be applied—
-  (a) Firstly, in payment of the expenses occasioned by the sale:
-  (b) Secondly, in payment of the money then due or owing to the mortgagee:
-  (c) Thirdly, in payment of subsequent registered mortgages or encumbrances (if any) in the order of their priority:
-  (d) Fourthly, the surplus (if any) shall be paid to the mortgagor.
-(2) Where the surplus cannot be paid to the mortgagor by reason of his not being found after reasonable inquiry by the mortgagee as to his whereabouts, the surplus may be paid to the Secretary to the Treasury in accordance with section 102A of the Property Law Act 1952, and the provisions of that section shall apply accordingly.
+[Repealed]
 
 ### 105 Transfer by mortgagee
-Upon the registration of any transfer executed by a mortgagee for the purpose of any such sale as aforesaid, the estate or interest of the mortgagor therein expressed to be transferred shall pass to and vest in the purchaser, freed and discharged from all liability on account of the mortgage, or of any estate or interest except an estate or interest created by any instrument which has priority over the mortgage or which by reason of the consent of the mortgagee is binding on him.
+Upon the registration of any transfer executed by a mortgagee for the purpose of exercising a power of sale over any land, the estate or interest of the mortgagor therein expressed to be transferred shall pass to and vest in the purchaser, freed and discharged from all liability on account of the mortgage, or of any estate or interest except an estate or interest created by any instrument which has priority over the mortgage or which by reason of the consent of the mortgagee is binding on him.
 
 **Rights and remedies of mortgagees**
 
 ### 106 Mortgagee may, after default, enter into possession
-The mortgagee, upon default in payment of the principal sum, interest, annuity, or rentcharge secured by any mortgage, or of any part thereof, may enter into possession of the mortgaged land by receiving the rents and profits thereof, or may bring an action for possession of the said land either before or after entering into the receipt of the rents and profits thereof, and either before or after any sale of the land is effected under the power of sale given or implied in his mortgage.
+[Repealed]
 
 ### 107 Mortgagee may distrain on tenant to the amount of his rent
-Besides his remedy against the mortgagor, every mortgagee shall be entitled, after the principal sum, interest, annuity, or rentcharge, or any part thereof, has become in arrear for 21 days, and after 7 days have elapsed from the date of application for the payment thereof to the occupier or tenant, to enter upon the mortgaged land and distrain and sell the goods and chattels of that occupier or tenant, and to retain thereout the money so in arrear and all costs and expenses occasioned by the distress and sale:
-  Provided that no occupier or tenant occupying the land shall be liable to pay to any mortgagee a greater sum than the amount of rent which, at the time of making the distress, is then due from the occupier or tenant to the mortgagor, or to the person claiming the said land under the mortgagor, and any amount so paid shall be held to be pro tanto in satisfaction of the said rent.
+[Repealed]
 
 ### 108 Mortgagee to have remedies of a lessor for recovery of premises
-(1) Every mortgagee of land under this Act shall, as against the mortgagor and those claiming through or under him, if default has been made in payment of the interest or annual or principal sum secured by any mortgage or any part thereof for the time specified expressly or by statutory implication in the instrument, have all the like remedies for obtaining possession of the mortgaged land as are by law given to a landlord against a lessee or tenant whose term is expired or rent in arrear.
-(2) No right of recovery of possession by any lessor or mortgagee of land under this Act shall extend to bar the right of any mortgagee of any lease or any part thereof who is not in possession, if that mortgagee pays all rent in arrear and all costs and damages sustained by the lessor or person entitled to exercise that right of recovery, and performs all the covenants and agreements which on the part and behalf of the first lessee are and ought to be performed.
+[Repealed]
 
 ### 109 Mortgagee to have custody of instrument of title
 (1) The mortgagee, or first mortgagee for the time being, of any estate or interest under this Act shall be entitled to the possession of the outstanding grant, certificate, or other instrument of title; or the same may by agreement be deposited with the Registrar for safe custody during the continuance of the security.
@@ -779,7 +770,7 @@ Besides his remedy against the mortgagor, every mortgagee shall be entitled, aft
 **Liability of mortgagee in possession of leasehold**
 
 ### 110 Mortgagee of leasehold after entry liable for rent
-Every mortgagee of leasehold land under this Act, or any person claiming the land as a purchaser or otherwise from or under any such mortgagee, after entering into possession of the land or the rents and profits thereof, shall, during that possession and to the extent of any rents and profits which may be received by him, become and be subject and be liable to the lessor of the land, or the person for the time being entitled to the lessor's estate or interest in the land, to the same extent as the lessee or tenant was subject to and liable for prior to that mortgagee or other person entering into possession of the land or the rents and profits thereof.
+[Repealed]
 
 **Discharge of mortgage**
 
@@ -795,7 +786,7 @@ Every mortgagee of leasehold land under this Act, or any person claiming the lan
   (b) the land identified in the discharge instrument ceases to be subject to or liable for the debt or annuity secured by the mortgage.
 
 ### 112 Discharge of mortgage where remedies thereunder are statute barred
-(1) Notwithstanding anything to the contrary in section 64 of this Act, on application made to the High Court by the registered proprietor of any estate or interest in land that is subject to a registered mortgage, the Court, if it is satisfied that any action by the mortgagee for payment of the money secured by the mortgage would be barred by the provisions of the Limitation Act 1950 or any other statute of limitation, and that but for the provisions of the said section 64 the remedies of the mortgagee in respect of the mortgaged land would be likewise barred, may, in its discretion, make an order directing the mortgage to be discharged, and upon the production of an office copy of the order the Registrar shall enter a memorandum thereof in the register and on the outstanding instrument of title, and when the entry is made the mortgage shall be deemed to be discharged.
+(1) Notwithstanding anything to the contrary in section 64 of this Act, on application made to the High Court by the registered proprietor of any estate or interest in land that is subject to a registered mortgage, the Court, if it is satisfied that any action by the mortgagee for payment of the moneys secured by the mortgage would be barred by the provisions of the Limitation Act 1950 or any other statute of limitation, and that but for the provisions of the said section 64 the remedies of the mortgagee in respect of the mortgaged land would be likewise barred, may, in its discretion, make an order directing the mortgage to be discharged, and upon the production of an office copy of the order the Registrar shall enter a memorandum thereof in the register and on the outstanding instrument of title, and when the entry is made the mortgage shall be deemed to be discharged.
 (2) Before making any order under this section the Court may direct such notice to be given by public advertisement or otherwise as it thinks fit, and may direct any person to be served with notice of the proceedings.
 (3) By the same or another order the Court may order any person in possession of an instrument of title to the mortgaged property to deliver the title to the registered proprietor on payment of such charges as the Court may, in its discretion, fix in the order.
 
@@ -813,7 +804,7 @@ Upon proof of the death of the annuitant, or of the occurrence of the event or c
 ## Part 7 — Leases
 
 ### 115 Form and registration of leases
-(1) A lease instrument is required for the purposes of registering under this Act the lease or demise of any land for a life or lives, or for a term of not less than 3 years.
+(1) A lease instrument is required for the purposes of registering under this Act the lease or demise of any land.
 (2) A lease instrument must contain the following information:
   (a) the land or estate or interest to be leased, which must include a reference to the register in the prescribed manner; and
   (b) the person who is to acquire the interest as lessee; and
@@ -824,7 +815,7 @@ Upon proof of the death of the annuitant, or of the occurrence of the event or c
   (a) the registered proprietor; and
   (b) the lessee.
 (4) If the land or estate or interest to be leased is subject to a mortgage, the consent of the mortgagee must be obtained.
-(5) A lease instrument may be registered even though it is for a term of less than 3 years, but no lease or agreement for lease for a period less than 3 years is void merely because no lease instrument has been executed or registered.
+(5)
 
 ### 116 Variation of lease
 (1) A lease variation instrument is required for the purpose of varying, in respect of any lease registered under this Act,—
@@ -984,7 +975,7 @@ Except with the consent of the mortgagee or, in any case to which section 121I o
   (c) The company, in consequence of the transfer or disposition, cancels or revokes or rescinds or accepts a surrender of the licence and issues a new licence for the same flat or office to the person acquiring those shares,—
 (2) On the registration of the new licence, the Registrar must record against it the mortgage or mortgages specified in the request in the order of their registered priority, and in that event—
   (a) The new licence shall be deemed to be subject to the mortgage or mortgages; and
-  (b) Section 104 of the Property Law Act 1952 applies as if the licensee had acquired the licence by conveyance or transfer subject to the mortgage or mortgages recorded against it.
+  (b) subpart 8 of Part 3 of the Property Law Act 2007 applies as if the licensee had acquired the licence by conveyance or transfer subject to the mortgage or mortgages recorded against it.
 (3) References in any mortgage or mortgages recorded against a new licence pursuant to this section to the licence or to the estate or interest of the licensee under it shall be deemed to be references to the new licence or, as the case may be, to the estate or interest of the licensee under it.
 
 ### 121M Registration of transfer of licence or new licence
@@ -1119,7 +1110,7 @@ So long as a caveat under section 136 remains in force the Registrar shall not p
 (3) Except in the case of a caveat lodged by the Registrar in exercise of the powers by this Act given to him in that behalf, subsection (1) of this section shall not prevent the Registrar from making any entry necessary to effect the registration of a transfer of any estate or interest in land where—
   (a) The transfer is expressed to be made in pursuance of either—(in either case hereafter in this subsection referred to as the empowering mortgage); and
     (i) A power of sale conferred on the transferor by virtue of a registered mortgage of that estate or interest; or
-    (ii) The power conferred on the Registrar of the High Court by section 101 of the Property Law Act 1952 in respect of a registered mortgage of that estate or interest—
+    (ii) The power conferred on the Registrar of the High Court by section 196 of the Property Law Act 2007 in respect of a registered mortgage of that estate or interest—
   (b) The caveat was lodged after the registration of the empowering mortgage; and
   (c) The estate or interest claimed by the caveator arises under an unregistered mortgage or an agreement to mortgage, dated later than the date of registration of the empowering mortgage and relating to the same estate or interest to which the empowering mortgage relates; and
   (d)
@@ -1306,7 +1297,7 @@ If a certification has been given in relation to an instrument to which section 
 (3) When an instrument certified under section 164A is registered, the instrument must be regarded for the purposes of every enactment and rule of law as if—
   (a) the instrument had been made in writing; and
   (b) the instrument had been duly executed by every party specified for the purpose in regulations made under this Act.
-(4) When an instrument certified under section 164A is registered, the provisions of section 49A of the Property Law Act 1952 must be regarded as having been fully satisfied.
+(4) When an instrument certified under section 164A is registered, the provisions of section 25 of the Property Law Act 2007 must be regarded as having been fully satisfied.
 (5) Subsection (4) is for the avoidance of doubt.
 
 **Governments of other countries as registered proprietors**
@@ -1419,7 +1410,7 @@ If in any such action judgment is given in favour of the Crown, or the plaintiff
 (1A) Without limiting subsection (1) of this section, where any sum of money has been lawfully paid out of the Public Account as compensation for any loss or damage sustained in any case to which section 172A of this Act applies and that loss or damage was caused wholly or partly by the negligence of the purchaser's conveyancer, the amount of that compensation (together with all costs incurred in testing or defending any claim or action in relation to that compensation), to the extent that it may properly be attributed to that conveyancer's negligence, shall be deemed a debt due to the Crown from that conveyancer, and may be recovered from him, or from his personal representatives, by action at law, in the name of the Registrar-General, or, in case of bankruptcy, may be proved as a debt due from his estate.
 (1B) No conveyancer shall be held for the purposes of subsection (1A) of this section to have acted negligently merely because he relied on a search copy issued under and for the purposes of section 172A of this Act without also searching any journal or other record kept by the Registrar unless, in the special circumstances of the case, a prudent and competent conveyancer would have searched that journal or other record.
 (2) A certificate signed by the Minister of Finance, verifying the fact of any payment out of the Crown Bank Account, shall be prima facie proof that such payment was made as aforesaid.
-(3) All money recovered in any action as aforesaid shall be paid to the credit of the Crown Bank Account.
+(3) All moneys recovered in any action as aforesaid shall be paid to the credit of the Crown Bank Account.
 
 ### 176 Judgment against absconders, etc
 (1) Where any amount has been paid out of the Crown Bank Account on account of any person who has absconded, or who cannot be found within the jurisdiction of the High Court, and may have left any real or personal estate within New Zealand, the Court upon the application of the Attorney-General, and upon the production of a certificate signed by the Minister of Finance certifying that the amount has been paid in satisfaction of a judgment against the Crown, may allow the Attorney-General to sign judgment against that person forthwith for the amount so paid out of the Crown Bank Account, together with the costs of the application.
@@ -1859,7 +1850,7 @@ Any declaration made for the purposes of this Act may be made before a Justice o
 (2) No person who held an office under this Act before the commencement of the Land Transfer (Automation) Amendment Act 1998 is personally liable for any act done or omitted in the performance or exercise or intended performance or exercise of a duty or power vested in that office, or a duty or power that the person believed on reasonable grounds was vested in the office by this or any other Act.
 
 ### 244 Property Law Act 1952 to be subject to this Act
-The Property Law Act 1952 shall, as regards land under this Act, be read and construed so as not to conflict with the provisions of this Act.
+[Repealed]
 
 ### 245 Repeals and savings
 (1) The enactments specified in Schedule 8 to this Act are hereby repealed to the extent therein indicated.
