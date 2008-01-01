@@ -1,5 +1,5 @@
 # Maori Trustee Act 1953
-_Consolidation as at 2007-11-01_
+_Consolidation as at 2008-01-01_
 
 > An Act to consolidate and amend certain provisions of the law relating to the Maori Trustee
 
@@ -472,7 +472,7 @@ Notwithstanding any enactment or rule of law to the contrary, the Maori Trustee 
 
 ### 49 Maori Trustee may register memorial of charge against land
 (1) Where by this or any other Act any money advanced by the Maori Trustee out of the General Purposes Fund or any other money is created a charge in favour of the Maori Trustee on any land, the Maori Trustee may sign and seal a memorial of charge against the land affected.
-(2) Any such memorial of charge may be registered against the title to that land by the District Land Registrar or Registrar of Deeds, as the case may be, of the Land Registration District in which the land is situated; and when so registered the memorial of charge shall have the same force and effect as if it were a valid mortgage to the Maori Trustee of all the land therein described to secure the repayment of the principal money and the payment of interest thereon; and the power of sale and all other powers expressed by the Land Transfer Act 1952 or the Property Law Act 1952, as the case may be, in respect of mortgages, shall be implied in the memorial.
+(2) Any such memorial of charge may be registered against the title to that land by the District Land Registrar or Registrar of Deeds, as the case may be, of the Land Registration District in which the land is situated; and when so registered the memorial of charge shall have the same force and effect as if it were a valid mortgage to the Maori Trustee of all the land therein described to secure the repayment of the principal money and the payment of interest thereon; and the power of sale and all other powers implied in mortgages over land by the Property Law Act 2007 shall be implied in the memorial.
 (2A) The principal money secured under any such memorial of charge shall be due upon a date to be named therein in that behalf, and interest shall be payable thereon at a rate to be specified therein, being not more than the rate chargeable under this Act in respect of money advanced from the Common Fund of the Maori Trustee's Account on the security of freehold lands.
 (2B) Interest on the principal money secured as aforesaid shall be payable on dates to be specified in the memorial.
 (3) The foregoing provisions of this section shall apply notwithstanding that the land in respect of which any charge is created may be vested in the Maori Trustee.
