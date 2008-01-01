@@ -1,5 +1,5 @@
 # Property Law Act 2007
-_Consolidation as at 2007-11-05_
+_Consolidation as at 2008-01-01_
 
 ### 1 Title
 This Act is the Property Law Act 2007.
@@ -26,7 +26,7 @@ In this Act, unless the context otherwise requires,—
   - **at risk** has the same meaning as in section 109(2) of the Personal Property Securities Act 1999
   - **bankrupt** —
     (a) means a person who is adjudged bankrupt; and
-    (b) includes a deceased person's estate administered under Part 6 of the Insolvency Act 2006
+    (b) includes a deceased person’s estate administered under Part 6 of the Insolvency Act 2006
   - **company** has the same meaning as in the Companies Act 1993
   - **consumer goods** has the same meaning as in the Personal Property Securities Act 1999
   - **conveyance** includes any deed of assignment, appointment, lease, settlement, or other assurance by deed of any property
@@ -48,7 +48,8 @@ In this Act, unless the context otherwise requires,—
     (a) a failure—
       (i) to pay on the due date any amounts secured by an instrument; or
       (ii) to perform or observe any other express or implied covenant in an instrument; or
-    (b) any other event (other than the arrival of the due date) on the occurrence of which any amounts secured by an instrument become payable, or may be called up as becoming payable, under any express or implied term in the instrument deficiency, in relation to a sale of land or goods under a power of sale expressed or implied in a mortgage, means any amount by which the amount received on the sale and available to a mortgagee in accordance with section 185 is less than the amount secured by the mortgage and then owing to the mortgagee
+    (b) any other event (other than the arrival of the due date) on the occurrence of which any amounts secured by an instrument become payable, or may be called up as becoming payable, under any express or implied term in the instrument
+  - **deficiency** , in relation to a sale of land or goods under a power of sale expressed or implied in a mortgage, means any amount by which the amount received on the sale and available to a mortgagee in accordance with section 185 is less than the amount secured by the mortgage and then owing to the mortgagee
   - **director** ,—
     (a) in relation to a company, means any person occupying the position of director of the company, by whatever name called; and
     (b) in relation to a body corporate other than a company or a corporation sole, includes a person occupying a position in the body corporate that is comparable with that of a director of a company; or
@@ -57,7 +58,7 @@ In this Act, unless the context otherwise requires,—
   - **disposition** —
     (a) means any sale, mortgage, transfer, grant, partition, exchange, lease, assignment, surrender, disclaimer, appointment, settlement, or other assurance; and
     (b) includes the creation of—
-      (i) an easement, profit a prendre, or any other interest in property; and
+      (i) an easement, profit à prendre, or any other interest in property; and
       (ii) a trust in the lifetime of the settlor or by will, and a devise, bequest, or appointment by will in respect of property; but
     (c) in subpart 6 of Part 6, has the meaning given to that term by section 345(2)
   - **encumbrance** includes a mortgage, a trust securing the payment of money, or a lien
@@ -127,7 +128,7 @@ In this Act, unless the context otherwise requires,—
   - **person entitled to redeem** , in relation to mortgaged property,—
     (a) means a person with an interest in the mortgaged property and entitled to redeem it; and
     (b) includes the current mortgagor, any former mortgagor, and any covenantor
-  - **positive covenant** means a covenant, including an express or implied covenant in an easement, under which the covenantor undertakes to do something in relation to the covenantor's land that would beneficially affect the value of the covenantee's land or the enjoyment of the covenantee's land by any person occupying it
+  - **positive covenant** means a covenant, including an express or implied covenant in an easement, under which the covenantor undertakes to do something in relation to the covenantor’s land that would beneficially affect the value of the covenantee’s land or the enjoyment of the covenantee’s land by any person occupying it
   - **property** —
     (a) means everything that is capable of being owned, whether it is real or personal property, and whether it is tangible or intangible property; and
     (b) includes any estate or interest in property; and
@@ -168,7 +169,7 @@ In this Act, unless the context otherwise requires,—
   - **Registrar-General** means the Registrar-General of Land
   - **rentcharge** means a rent secured by a mortgage over land
   - **restrictive covenant** means—
-    (a) a covenant, including a covenant expressed or implied in an easement, under which the covenantor undertakes to refrain from doing something in relation to the covenantor's land which, if done, would detrimentally affect the value of the covenantee's land or the enjoyment of that land by any person occupying it; or
+    (a) a covenant, including a covenant expressed or implied in an easement, under which the covenantor undertakes to refrain from doing something in relation to the covenantor’s land which, if done, would detrimentally affect the value of the covenantee’s land or the enjoyment of that land by any person occupying it; or
     (b) a restrictive covenant in gross expressed or implied in an easement
   - **security interest** has the same meaning as in the Personal Property Securities Act 1999
   - **short-term lease** has the meaning given to that term by section 207
@@ -187,7 +188,7 @@ In this Act, unless the context otherwise requires,—
       (ii) a contract or arrangement that is otherwise enforceable at law or in equity against the person bound
   - **vendor mortgagee** means a mortgagee who applies to the Registrar under section 188 to conduct the sale of mortgaged land
   - **working day** means a day of the week other than—
-    (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's Birthday, and Labour Day; and
+    (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s Birthday, and Labour Day; and
     (b) a day in the period commencing with 25 December and ending with 2 January in the following year; and
     (c) the day observed as the anniversary of any province in which an act is to be done.
 
@@ -199,7 +200,7 @@ In this Act, unless the context otherwise requires,—
 (3) For the purposes of this Act, an obligation that is not made in writing comes into operation at the time at which the obligation is entered into.
 
 ### 6 Attorney or agent may act
-(1) Anything that must or may be done by or to a person under this Act may be done by or to the person's attorney or agent if it is within the attorney's or agent's authority.
+(1) Anything that must or may be done by or to a person under this Act may be done by or to the person’s attorney or agent if it is within the attorney’s or agent’s authority.
 (2) This section applies subject to sections 12, 353, and 359.
 
 ### 7 Act binds the Crown
@@ -213,7 +214,7 @@ This Act binds the Crown.
   (c) instruments whether—
     (i) executed in or outside New Zealand; and
     (ii) coming into operation before, on, or after 1 January 2008.
-(3) This Act does not apply to Maori customary land within the meaning of Te Ture Whenua Maori Act 1993.
+(3) This Act does not apply to Māori customary land within the meaning of Te Ture Whenua Maori Act 1993.
 (4) If a provision of this Act is inconsistent with a provision in another enactment, the provision in the other enactment prevails.
 (5) Without limiting subsection (4), this Act applies subject to—
   (a) the Land Transfer Act 1952; and
@@ -236,7 +237,7 @@ This Act binds the Crown.
   (a) the deed is signed in the name of the body corporate by—
     (i) the director of the body corporate if it has only 1 director; or
     (ii) not fewer than 2 directors of the body corporate if it has 2 or more directors; or
-    (iii) 1 director or other person or member of a specified class of person if the body corporate's constitution authorises a deed to be signed in that way; and
+    (iii) 1 director or other person or member of a specified class of person if the body corporate’s constitution authorises a deed to be signed in that way; and
   (b) in the case of a deed signed under paragraph (a)(i) or (iii), the signature is witnessed in accordance with subsection (7).
 (4) A body corporate executes a deed if it executes the deed as provided in any other enactment relating to the execution of a deed by the body corporate.
 (5) A body corporate not incorporated by or under the law of New Zealand may execute a deed other than in accordance with subsections (3) and (4) if the mode of execution would be authorised by the law of the place in which the body corporate is incorporated were the deed executed in that place and governed by that law.
@@ -279,8 +280,8 @@ An attorney executing a deed must be appointed by deed.
   (c) the proper law of the contract or other obligation is the law of New Zealand.
 (2) A contract or other obligation may be entered into as follows:
   (a) an obligation (which, if entered into by an individual, would under New Zealand law be required to be by deed) may be entered into by deed or instrument executed in accordance with section 9(3), (4), or (5):
-  (b) an obligation (which, if entered into by an individual, would under New Zealand law be required to be in writing) may be entered into on behalf of the body corporate in writing by a person acting under the body corporate's express or implied authority:
-  (c) an obligation (which, if entered into by an individual, would not under New Zealand law be required to be in writing) may be entered into on behalf of the body corporate in writing or orally by a person acting under the body corporate's express or implied authority.
+  (b) an obligation (which, if entered into by an individual, would under New Zealand law be required to be in writing) may be entered into on behalf of the body corporate in writing by a person acting under the body corporate’s express or implied authority:
+  (c) an obligation (which, if entered into by an individual, would not under New Zealand law be required to be in writing) may be entered into on behalf of the body corporate in writing or orally by a person acting under the body corporate’s express or implied authority.
 (3) This section prevails over any other enactment.
 
 ### 14 Construction of supplementary or annexed deed
@@ -306,12 +307,12 @@ A disclaimer of land is not valid unless it is made by deed or by order of a cou
 
 ### 19 Powers of attorney
 (1) Anything done by or to an attorney on behalf of the donor of a power of attorney has the same effect as if it had been done by or to the donor if—
-  (a) it is within the attorney's powers; and
+  (a) it is within the attorney’s powers; and
   (b) it is done while the power of attorney is in force.
 (2) Subsection (1) applies subject to subsection (3) and section 12.
 (3) An instrument executed by an attorney on behalf of the donor of a power of attorney must—
   (a) be made in the name of the donor; and
-  (b) state that it is being executed on the donor's behalf by the donor's attorney; and
+  (b) state that it is being executed on the donor’s behalf by the donor’s attorney; and
   (c) otherwise be executed by the attorney in the same manner as would be required if the attorney were a party to the instrument.
 
 ### 20 Power of attorney continues in force until notice of revocation received
@@ -395,7 +396,7 @@ Sections 24 and 25 do not affect the operation of the law relating to part perfo
 
 **Sale and purchase of land**
 
-### 28 Restriction on vendor's right to cancel agreement, etc, if purchaser in possession
+### 28 Restriction on vendor’s right to cancel agreement, etc, if purchaser in possession
 (1) This section applies—
   (a) to any right—
     (i) to cancel an agreement for the sale and purchase of land; and
@@ -411,7 +412,7 @@ Sections 24 and 25 do not affect the operation of the law relating to part perfo
   (a) by obtaining from a court an order for possession of the land (in which case the agreement is cancelled from the making of, or from a later time specified for the purpose in, the order); or
   (b) by re-entering the land peaceably (and without committing forcible entry under section 91 of the Crimes Act 1961).
 
-### 29 Requirements for vendor's notice to purchaser
+### 29 Requirements for vendor’s notice to purchaser
 (1) The notice required by section 28(3)(a) must adequately inform the purchaser of the following matters relating to the remedying of the breach complained of by the vendor:
   (a) the nature and extent of the breach; and
   (b) whether the vendor considers that the breach is capable of being remedied by the taking of 1 or more of the steps in paragraphs (c) to (e) and, if so, which of them the vendor considers is capable (alone or in combination) of remedying the breach; and
@@ -422,9 +423,9 @@ Sections 24 and 25 do not affect the operation of the law relating to part perfo
   (a) the period (which must be at least 12 working days after the date of service of the notice, and which must be specified in the notice whether or not the vendor considers that the breach is capable of being remedied) within which the purchaser must remedy the breach if it is capable of being remedied; and
   (b) that the vendor may seek to cancel the agreement in 1 of the 2 ways specified in section 28(4) if, at the expiry of the period referred to in paragraph (a), the breach has not been, or cannot be, remedied; and
   (c) the effect of sections 30 and 31; and
-  (d) the purchaser's right to apply to a court for relief against cancellation of the agreement under section 33, and the advisability of seeking legal advice on the exercise of that right.
+  (d) the purchaser’s right to apply to a court for relief against cancellation of the agreement under section 33, and the advisability of seeking legal advice on the exercise of that right.
 
-### 30 Defects that do not invalidate vendor's notice or prevent purchaser offering reasonable compensation
+### 30 Defects that do not invalidate vendor’s notice or prevent purchaser offering reasonable compensation
 The notice required by section 28(3)(a) is not invalid, and does not prevent the purchaser from offering an amount as reasonable compensation for the breach, solely because all or any of the following apply to the notice:
   (a) the notice does not, or may not, specify that the breach is capable of being remedied by the payment of reasonable compensation:
   (b) the notice specifies, or may specify, an amount of compensation that is unreasonable:
@@ -445,7 +446,7 @@ A term has no effect if it—
   (a) the purchaser has, under the agreement, entered into possession of the land; and
   (b) the vendor has served on the purchaser a notice that complies with section 29; and
   (c) the vendor has, after serving that notice, applied to a court for an order for possession of the land, or peaceably re-entered the land.
-(2) The application may be made either in the proceeding on the vendor's application for an order for possession (the possession order proceeding), or in a separate proceeding brought for the purpose by the purchaser—
+(2) The application may be made either in the proceeding on the vendor’s application for an order for possession (the possession order proceeding), or in a separate proceeding brought for the purpose by the purchaser—
   (a) before an order for possession has been made in the possession order proceeding; or
   (b) if the vendor has peaceably re-entered the land, within 3 months after the date on which the vendor re-entered the land.
 (3) The court may, on the application, grant any relief against cancellation, on any conditions, it thinks fit.
@@ -509,18 +510,18 @@ A term has no effect if it—
 (1) This section applies to the sale by auction of every kind of property other than goods.
 (2) If the property is put up for sale by auction in lots, each lot must be treated as the subject of a separate contract of sale, unless the contrary is proved.
 (3) A sale by auction may be notified to be subject to a reserved or upset price, and a right to bid may also be reserved expressly, by or on behalf of the vendor.
-(4) The vendor, or 1 person on the vendor's behalf, may bid at the auction, but only if a right to bid by or on behalf of the vendor is expressly reserved by or on behalf of the vendor.
+(4) The vendor, or 1 person on the vendor’s behalf, may bid at the auction, but only if a right to bid by or on behalf of the vendor is expressly reserved by or on behalf of the vendor.
 (5) A sale by auction is complete when the auctioneer (by the fall of the hammer, or in some other customary manner) announces its completion.
 (6) A bid may be retracted by the bidder who made it at any time before the auction is complete.
 (7) If a sale by auction is not notified to be subject to a right to bid by or on behalf of the vendor,—
-  (a) the vendor must not bid or employ a person to bid at the sale on the vendor's behalf; and
-  (b) the auctioneer must not knowingly take a bid from the vendor or a person acting on the vendor's behalf.
+  (a) the vendor must not bid or employ a person to bid at the sale on the vendor’s behalf; and
+  (b) the auctioneer must not knowingly take a bid from the vendor or a person acting on the vendor’s behalf.
 (8) The purchaser may treat as fraudulent a sale that contravenes subsection (7).
 
 ### 43 Later title not invalid because of defect in court order
 (1) This section applies to a person who acquires property, for valuable consideration and without fraud or notice of fraud, from some other person who became entitled to the property under an order of a court.
-(2) The person's title to the property is not, and does not become, invalid solely because of a defect (whether known to the person or not) in either or both of the following:
-  (a) the court's jurisdiction or power to make that order:
+(2) The person’s title to the property is not, and does not become, invalid solely because of a defect (whether known to the person or not) in either or both of the following:
+  (a) the court’s jurisdiction or power to make that order:
   (b) the procedure followed in the making of that order.
 
 ### 44 Certain instruments authorise payment to practitioner instead of party for whom practitioner acts
@@ -642,15 +643,15 @@ An assignment of an amount that will or may be payable in the future under a rig
 
 ### 54 Effect of no registration clause
 (1) This section applies to an instrument (whether coming into operation before, on, or after 1 January 2008) if—
-  (a) it creates a lease of land, a mortgage over land, an easement, a profit a prendre, or a contract for the grant of an easement or a profit a prendre ; and
+  (a) it creates a lease of land, a mortgage over land, an easement, a profit à prendre, or a contract for the grant of an easement or a profit à prendre; and
   (b) it contains a no registration clause; and
   (c) in the absence of a no registration clause, it would create an equitable interest in land capable of being enforced under the doctrine in Walsh v Lonsdale (1882) 21 Ch D 9.
 (2) The following provisions apply to an instrument:
   (a) it is to be treated for all purposes as creating an equitable interest in land; but
-  (b) a court may not order the registration of the lease, mortgage, easement, or profit a prendre to which the instrument relates.
+  (b) a court may not order the registration of the lease, mortgage, easement, or profit à prendre to which the instrument relates.
 (3) Subsection (2) applies to avoid doubt.
 (4) In this section, no registration clause means—
-  (a) a provision that a lessee, mortgagee, or grantee of an easement or profit a prendre is not entitled to a registered lease, mortgage, easement, or profit a prendre (as the case may be); or
+  (a) a provision that a lessee, mortgagee, or grantee of an easement or profit à prendre is not entitled to a registered lease, mortgage, easement, or profit à prendre (as the case may be); or
   (b) a provision to like effect.
 
 ### 55 Tenants in common may declare that they are joint tenants
@@ -677,7 +678,7 @@ An assignment of an amount that will or may be payable in the future under a rig
     (ii) livery of seisin:
     (iii) a contract for the sale and purchase of land.
 (2) In an instrument coming into operation on or after 1 January 1953, words which, before that date, would have created an estate tail are to be treated as creating an estate in fee simple.
-(3) Words in an instrument which, but for the abolition of the rule of law known as the rule in Shelley's case (by section 5(1)(a) of the Property Law Amendment Act 1951 and section 22 of the Property Law Act 1952), would have operated to give a person an interest in fee simple are to be treated as words of purchase and not of limitation.
+(3) Words in an instrument which, but for the abolition of the rule of law known as the rule in Shelley’s case (by section 5(1)(a) of the Property Law Amendment Act 1951 and section 22 of the Property Law Act 1952), would have operated to give a person an interest in fee simple are to be treated as words of purchase and not of limitation.
 
 ### 59 Future estates and interests
 (1) Estates and interests in property may be created that take effect at a future time.
@@ -694,7 +695,7 @@ An estate for life may be created in relation to a leasehold estate in land.
 
 ### 62 Creation and disposition of estates and interests in property
 (1) Every estate, interest, or right in property that can be created or disposed of may be created or disposed of by an individual—
-  (a) during the individual's lifetime; or
+  (a) during the individual’s lifetime; or
   (b) by will.
 (2) However, subsection (1) does not make a joint tenancy severable by will.
 
@@ -726,11 +727,11 @@ An estate for life may be created in relation to a leasehold estate in land.
   (e) the relatives of a person.
 (3) The instrument is to be treated as conferring the estate or interest on the persons who, on the intestacy of the person referred to in subsection (2), would take beneficially under the Administration Act 1969, and in the same shares.
 (4) Subsection (5) applies to an instrument conferring an estate or interest in property on the heir or heirs of the body of a person.
-(5) The instrument is to be treated as conferring the estate or interest on the person who would take beneficially on the intestacy of the person referred to in subsection (4) in accordance with a direction under the Administration Act 1969 to hold the person's property for the issue of the intestate on the statutory trusts.
+(5) The instrument is to be treated as conferring the estate or interest on the person who would take beneficially on the intestacy of the person referred to in subsection (4) in accordance with a direction under the Administration Act 1969 to hold the person’s property for the issue of the intestate on the statutory trusts.
 (6) Subsection (7) applies to an instrument conferring an estate or interest in property on—
   (a) the male heir or heirs of a person or of the body of a person; or
   (b) the female heir or heirs of a person or of the body of a person.
-(7) The instrument is to be treated as conferring the estate or interest on the male or female issue of the person (as the case may be) who would take beneficially on the intestacy of the person in accordance with a direction under the Administration Act 1969 to hold the person's property for the issue of the intestate on the statutory trusts.
+(7) The instrument is to be treated as conferring the estate or interest on the male or female issue of the person (as the case may be) who would take beneficially on the intestacy of the person in accordance with a direction under the Administration Act 1969 to hold the person’s property for the issue of the intestate on the statutory trusts.
 
 ### 66 Future interests to carry accumulated income
 (1) This section applies to an interest in property—
@@ -860,7 +861,7 @@ A mortgage over land is not created by the deposit of the instruments of title r
 (1) The interest of a mortgagee under a mortgage over property may be assigned by an instrument that—
   (a) is endorsed on, or attached to, the mortgage instrument, or the existence of which is recorded on or with the mortgage instrument; and
   (b) is executed by the mortgagee in the same manner as a deed is required to be executed; and
-  (c) states that the mortgagee assigns to the assignee all the amounts and all the benefits of any other obligations secured by the mortgage, and all rights, powers, and remedies of the mortgagee under the mortgage, and the whole of the mortgagee's interest in the mortgaged property, or words to that effect.
+  (c) states that the mortgagee assigns to the assignee all the amounts and all the benefits of any other obligations secured by the mortgage, and all rights, powers, and remedies of the mortgagee under the mortgage, and the whole of the mortgagee’s interest in the mortgaged property, or words to that effect.
 (2) The interest of a mortgagee under a mortgage over land under the Land Transfer Act 1952 may also be assigned by a transfer instrument that is registered under that Act.
 (3) An instrument that is duly executed under subsection (1) or registered under subsection (2) operates as if it were a deed and transfers to the assignee—
   (a) the debt; and
@@ -904,7 +905,7 @@ A mortgage variation instrument that is duly executed under section 85(1) to (5)
 ### 87 Mortgage secures advances for protection and realisation of security
 (1) A mortgage over property secures all amounts reasonably paid or advanced at any time by the mortgagee—
   (a) for the protection, insurance, maintenance, preservation, or repair of the mortgaged property; or
-  (b) to remedy any default by the mortgagor in respect of any other mortgage or encumbrance over the property, to the extent that it has priority over the mortgagee's mortgage; or
+  (b) to remedy any default by the mortgagor in respect of any other mortgage or encumbrance over the property, to the extent that it has priority over the mortgagee’s mortgage; or
   (c) for the payment of rates or other outgoings; or
   (d) to meet the expenses of the mortgagee in entering into possession, or in doing anything that a mortgagee in possession is required or entitled to do; or
   (e) with a view to the realisation of the security (including any additional amount referred to in section 120(2) or 129(2)).
@@ -969,7 +970,7 @@ In sections 91 and 92—
 ### 95 Covenants implied in mortgages over land
 (1) Every mortgage over land contains the implied covenants, conditions, and powers set out in Part 1 of Schedule 2 to the extent that they are relevant in the circumstances.
 (2) Subsection (1) applies unless a contrary intention is expressed (whether in the mortgage or otherwise) in accordance with section 279(2).
-(3) Every registered mortgage over land under the Land Transfer Act 1952 that comes into operation before 1 January 2008 contains an implied power of the mortgagee, upon the mortgagor's default, to enter into possession of the mortgaged land.
+(3) Every registered mortgage over land under the Land Transfer Act 1952 that comes into operation before 1 January 2008 contains an implied power of the mortgagee, upon the mortgagor’s default, to enter into possession of the mortgaged land.
 (4) The power under subsection (3) may be exercised only—
   (a) after the expiry of the period specified in the notice required by section 119 or with the leave of a court granted under section 126; and
   (b) in accordance with subpart 6.
@@ -999,8 +1000,8 @@ In sections 91 and 92—
 ### 99 Mortgagor or other person seeking to redeem must give notice or pay interest in certain circumstances
 (1) The current mortgagor or other person seeking to redeem the mortgaged property after the expiry of the term of the mortgage, or of any further term for which the mortgage has been renewed or extended, must—
   (a) either—
-    (i) give the mortgagee not less than 60 working days' written notice of the intention to redeem; or
-    (ii) pay to the mortgagee 3 months' interest at the agreed rate (if any) at which interest is payable on the principal amount secured by the mortgage; and
+    (i) give the mortgagee not less than 60 working days’ written notice of the intention to redeem; or
+    (ii) pay to the mortgagee 3 months’ interest at the agreed rate (if any) at which interest is payable on the principal amount secured by the mortgage; and
   (b) pay to the mortgagee all other amounts secured by the mortgage.
 (2) Subsection (1) does not apply if the mortgagee—
   (a) is in possession of the mortgaged property; or
@@ -1115,11 +1116,11 @@ A court may, in a circumstance referred to in section 109(1), make—
   (a) has effect as if it were a discharge duly executed or registered by the mortgagee; and
   (b) is conclusive proof that all conditions entitling Public Trust to act under this section have been satisfied.
 
-### 113 Instruments of title must be delivered on production of Public Trust's receipt or certificate
+### 113 Instruments of title must be delivered on production of Public Trust’s receipt or certificate
 A person in possession of the instruments of title for mortgaged property must deliver them to the current mortgagor or any other person entitled to redeem the mortgaged property on—
   (a) the production by the mortgagor or person of—
-    (i) Public Trust's receipt for all amounts secured by the mortgage that would have been payable if the discharge of the mortgage had been sought under sections 97 to 101; or
-    (ii) Public Trust's certificate that all amounts secured by the mortgage have been paid in full; and
+    (i) Public Trust’s receipt for all amounts secured by the mortgage that would have been payable if the discharge of the mortgage had been sought under sections 97 to 101; or
+    (ii) Public Trust’s certificate that all amounts secured by the mortgage have been paid in full; and
   (b) payment of all proper charges (if any).
 
 ### 114 Public Trust not liable if acts reasonably and in good faith
@@ -1138,7 +1139,7 @@ A person in possession of the instruments of title for mortgaged property must d
 (1) A certificate by the Registrar that the amount specified in an order under section 115 has been paid into court has effect as if it were a duly executed mortgage discharge instrument for the mortgage under section 83.
 (2) Section 111(2) to (7) apply to a certificate under subsection (1) as if it had been given under section 111.
 
-### Subpart 5 — Restrictions on exercise of mortgagees' powers
+### Subpart 5 — Restrictions on exercise of mortgagees’ powers
 
 ### 117 Foreclosure abolished
 Any rule of law entitling a mortgagee to foreclose the equity of redemption in mortgaged property is abolished.
@@ -1160,9 +1161,9 @@ Any rule of law entitling a mortgagee to foreclose the equity of redemption in m
   (a) a notice complying with section 120 has been served (whether by the mortgagee or receiver) on the person who, at the date of the service of the notice, is the current mortgagor; and
   (b) on the expiry of the period specified in the notice, the default has not been remedied.
 (2) The powers are—
-  (a) the mortgagee's power to enter into possession of mortgaged land:
-  (b) the receiver's power to manage mortgaged land or demand and recover income from mortgaged land:
-  (c) the mortgagee's or receiver's power to sell mortgaged land.
+  (a) the mortgagee’s power to enter into possession of mortgaged land:
+  (b) the receiver’s power to manage mortgaged land or demand and recover income from mortgaged land:
+  (c) the mortgagee’s or receiver’s power to sell mortgaged land.
 (3) Subsection (1) is subject to sections 125 and 126.
 (4) A notice required by this section may be given in the same document as a notice under section 118.
 
@@ -1188,9 +1189,9 @@ Any rule of law entitling a mortgagee to foreclose the equity of redemption in m
   (d) any person who has lodged a caveat under section 137 of the Land Transfer Act 1952, or a notice under section 42 of the Property (Relationships) Act 1976 having the effect of a caveat, against the title to the mortgaged land or any part of it.
 (2) A failure to comply with this section does not prevent—
   (a) any amounts secured by the mortgage from becoming payable; or
-  (b) the exercise of the mortgagee's power to enter into possession of the mortgaged land; or
-  (c) the exercise of the receiver's power to manage the mortgaged land or demand and recover income from it; or
-  (d) the exercise of the mortgagee's or receiver's power to sell the mortgaged land.
+  (b) the exercise of the mortgagee’s power to enter into possession of the mortgaged land; or
+  (c) the exercise of the receiver’s power to manage the mortgaged land or demand and recover income from it; or
+  (d) the exercise of the mortgagee’s or receiver’s power to sell the mortgaged land.
 (3) However, if there is a failure to comply with this section, the mortgagee is liable in damages for any loss arising from that failure.
 
 ### 122 Notice of intention to recover deficiency in relation to mortgages over land
@@ -1377,15 +1378,15 @@ A term has no effect if it—
 
 ### 144 Extent to which lease of land entered into by mortgagee in possession is binding on certain persons
 (1) A lease of land entered into by a mortgagee in possession—
-  (a) is not binding on a person holding any other encumbrance over the land to the extent that the encumbrance has priority over the mortgagee's mortgage, unless that person has consented to the lease:
+  (a) is not binding on a person holding any other encumbrance over the land to the extent that the encumbrance has priority over the mortgagee’s mortgage, unless that person has consented to the lease:
   (b) is binding on a person holding a subsequent encumbrance over the land:
   (c) is binding on the current mortgagor to the extent provided in subsection (2).
-(2) When a mortgagee who has entered into a lease of land has withdrawn from possession of that land, the current mortgagor, or any person to whom the land has been transferred, assigned, or transmitted, is bound by the lessor's covenants and is entitled to enforce the lessee's covenants under the lease.
+(2) When a mortgagee who has entered into a lease of land has withdrawn from possession of that land, the current mortgagor, or any person to whom the land has been transferred, assigned, or transmitted, is bound by the lessor’s covenants and is entitled to enforce the lessee’s covenants under the lease.
 
 ### 145 Mortgagee in possession may enter into lease of mortgaged land together with other land
 (1) A mortgagee in possession may enter into a lease, at a single rent, of all or part of the mortgaged land together with other land that is the subject of any collateral security from the current mortgagor or any former mortgagor to the mortgagee.
 (2) The mortgagee must, in a case referred to in subsection (1), fairly and equitably apportion all expenses and rents between the properties.
-(3) However, any failure by the mortgagee to make an apportionment under subsection (2) does not affect the lessee or the lessee's interest.
+(3) However, any failure by the mortgagee to make an apportionment under subsection (2) does not affect the lessee or the lessee’s interest.
 
 ### 146 Registrar-General or other person need not inquire whether occasion has arisen authorising mortgagee to enter into lease
 (1) The Registrar-General or any other person need not inquire whether or not an occasion has arisen authorising a mortgagee to enter into a lease of land in accordance with sections 142 to 145.
@@ -1432,7 +1433,7 @@ A mortgagee in possession of mortgaged land is liable in damages to the followin
 ### 152 Application of income received by mortgagee in possession
 (1) A mortgagee in possession of mortgaged land, goods, or accounts receivable must apply all income from the land, goods, or accounts receivable received as mortgagee in possession as follows:
   (a) first, to the payment of all amounts (if any) referred to in subsection (2), together with interest on those amounts at the agreed rate (if any) at which interest is payable on the principal amount secured by the mortgage:
-  (b) secondly, to the payment of amounts secured by any other mortgage, encumbrance, or security interest over the property to the extent that it has priority over the mortgagee's mortgage and so far as payment is then due:
+  (b) secondly, to the payment of amounts secured by any other mortgage, encumbrance, or security interest over the property to the extent that it has priority over the mortgagee’s mortgage and so far as payment is then due:
   (c) thirdly, to the repayment of all amounts (if any) paid or advanced by the mortgagee for the purpose referred to in paragraph (b), together with interest on those amounts at the agreed rate (if any) at which interest is payable on the principal amount secured by the mortgage:
   (d) fourthly, to the payment of amounts secured by the mortgage so far as payment is then due (and to the extent that those amounts have not been paid under paragraphs (a) to (c)):
   (e) fifthly, to the payment of amounts secured by any subsequent mortgage, subsequent encumbrance, or subsequent security interest over the property so far as payment is then due if—
@@ -1456,7 +1457,7 @@ A mortgagee in possession of mortgaged land is liable in damages to the followin
 ### 153 Preferential claims
 (1) This section applies to a mortgagee in possession if—
   (a) the mortgage created a security interest that—
-    (i) is over all or any part of an individual's, a company's, or an overseas company's accounts receivable and inventory or all or any part of either of them; and
+    (i) is over all or any part of an individual’s, a company’s, or an overseas company’s accounts receivable and inventory or all or any part of either of them; and
     (ii) is not a perfected purchase money security interest; and
     (iii) is not a perfected security interest arising from a transfer of accounts receivable for new value; and
   (b) at the time when the mortgagee entered into possession,—
@@ -1465,7 +1466,7 @@ A mortgagee in possession of mortgaged land is liable in damages to the followin
     (iii) in the case of a current mortgagor that is an overseas company, the overseas company was not being liquidated under section 342 of the Companies Act 1993.
 (2) A mortgagee in possession who receives income from or sells accounts receivable or inventory that are subject to the mortgage must apply the income, or the proceeds arising from the sale, as follows before applying the income, or the proceeds arising from the sale, in accordance with section 152(1)(b) to (f) or 185(1)(b) to (f) (as the case may be):
   (a) first, to the payment of all amounts (if any) referred to in section 152(2)(a) to (d) or 185(2) (as the case may be), together with interest on those amounts at the agreed rate (if any) at which interest is payable on the principal amount secured by the mortgage:
-  (b) secondly, to the payment of amounts secured by any perfected purchase money security interest over the accounts receivable or inventory concerned, or any perfected security interest arising from a transfer of accounts receivable for new value over the accounts receivable concerned, to the extent that it has priority over the mortgagee's mortgage and, in the case of the application of income, so far as payment is then due:
+  (b) secondly, to the payment of amounts secured by any perfected purchase money security interest over the accounts receivable or inventory concerned, or any perfected security interest arising from a transfer of accounts receivable for new value over the accounts receivable concerned, to the extent that it has priority over the mortgagee’s mortgage and, in the case of the application of income, so far as payment is then due:
   (c) thirdly, to the payment of preferential claims to the extent and in the order of priority specified in Schedule 7 (except clauses 1(1) and 2(1)(b)) of the Companies Act 1993:
   (d) fourthly, to the payment of all amounts (if any) referred to in section 152(2)(e), together with interest on those amounts at the agreed rate (if any) at which interest is payable on the principal amount secured by the mortgage.
 (3) For the purposes of subsection (2)(a), if an amount referred to in section 152(2) or 185(2)—
@@ -1487,7 +1488,7 @@ A mortgagee in possession of mortgaged land is liable in damages to the followin
 (6) This section is subject to section 154.
 
 ### 154 Transitional provisions relating to preferential claims
-(1) The provisions of section 104PPA of the Property Law Act 1952, as in force immediately before the commencement of the Personal Property Securities Act 1999, continue to apply in respect of a company's property that was subject to a floating charge that, before that commencement, became a fixed or specific charge.
+(1) The provisions of section 104PPA of the Property Law Act 1952, as in force immediately before the commencement of the Personal Property Securities Act 1999, continue to apply in respect of a company’s property that was subject to a floating charge that, before that commencement, became a fixed or specific charge.
 (2) The provisions of section 104PPA of the Property Law Act 1952, as in force immediately before 1 January 2008, continue to apply to a mortgagee that was, immediately before that date, subject to those provisions.
 (3) If subsection (1) or (2) applies, the mortgagee in possession who receives income from or sells the property concerned must apply the income, or the proceeds arising from the sale, in accordance with those subsections and otherwise as if this Act had not been enacted.
 
@@ -1514,28 +1515,28 @@ A mortgagee in possession of mortgaged land is liable in damages to the followin
     (iv) every person who has lodged a caveat under section 137 of the Land Transfer Act 1952, or a notice under section 42 of the Property (Relationships) Act 1976 having the effect of a caveat, against the title to the mortgaged land or any part of it; and
   (c) must, if the current mortgagor is a body corporate registered under an enactment, send a copy of the public notice to the Registrar within 5 working days after the date of entry into possession.
 (2) A notice given under subsection (1) must include—
-  (a) the mortgagee's full name:
+  (a) the mortgagee’s full name:
   (b) the date on which the mortgagee entered into possession of the mortgaged land or goods:
   (c) a brief description of the mortgaged land or goods:
-  (d) the address of the registered office of the mortgagee if the mortgagee is a body corporate, or the address of the mortgagee's residence if the mortgagee is an individual, or an address specified by the mortgagee as an address to which communications relating to the mortgaged land or goods may be addressed.
+  (d) the address of the registered office of the mortgagee if the mortgagee is a body corporate, or the address of the mortgagee’s residence if the mortgagee is an individual, or an address specified by the mortgagee as an address to which communications relating to the mortgaged land or goods may be addressed.
 (3) If a mortgagee fails to comply with this section, the mortgagee, and, if the mortgagee is a body corporate, every director of the mortgagee, commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
 
 ### 157 Address to which notice to current mortgagor must be sent
 (1) The notice required by section 156 must be sent to the current mortgagor—
-  (a) at the address of the mortgagor's place of business; or
-  (b) if the mortgagor has more than 1 place of business, at the address of the mortgagor's principal place of business; or
-  (c) if the mortgagor is a body corporate registered under an enactment and has no place of business or that place of business is not known, at the address of the mortgagor's registered office; or
-  (d) if the mortgagor is an individual and has no place of business or that place of business is not known, at the address of the mortgagor's residence.
+  (a) at the address of the mortgagor’s place of business; or
+  (b) if the mortgagor has more than 1 place of business, at the address of the mortgagor’s principal place of business; or
+  (c) if the mortgagor is a body corporate registered under an enactment and has no place of business or that place of business is not known, at the address of the mortgagor’s registered office; or
+  (d) if the mortgagor is an individual and has no place of business or that place of business is not known, at the address of the mortgagor’s residence.
 (2) However, if the current mortgagor is an overseas company, the notice required by section 156 must be sent to the mortgagor—
-  (a) at the address of the mortgagor's place of business; or
-  (b) if the mortgagor has more than 1 place of business, at the address of the mortgagor's principal place of business.
+  (a) at the address of the mortgagor’s place of business; or
+  (b) if the mortgagor has more than 1 place of business, at the address of the mortgagor’s principal place of business.
 
 ### 158 Public notice
 In section 156, public notice means notice published—
-  (a) in at least 1 issue of the Gazette ; and
+  (a) in at least 1 issue of the Gazette; and
   (b) in at least 1 issue of a newspaper circulating in the following areas of New Zealand:
     (i) the area in which the mortgaged land or goods are situated; and
-    (ii) the area in which is situated the current mortgagor's place of business, registered office, or residence to which the notice to the current mortgagor required by section 156 must be addressed under section 157.
+    (ii) the area in which is situated the current mortgagor’s place of business, registered office, or residence to which the notice to the current mortgagor required by section 156 must be addressed under section 157.
 
 ### 159 Current mortgagor to make information available and give reasonable assistance to mortgagee in possession
 (1) The current mortgagor of mortgaged land, goods, or accounts receivable, and, if the current mortgagor is a body corporate, every director of the body corporate, must—
@@ -1566,7 +1567,7 @@ A mortgagee in possession of mortgaged land, goods, or accounts receivable must 
   (i) details of any proposal for the mortgagee, as lessor, to lease the land under sections 142 to 145 or for the mortgagee to sell the land or goods under subpart 7:
   (j) details of any amounts likely to be available for payment to other creditors of the current mortgagor:
   (k) any other prescribed information.
-(3) A mortgagee may omit from the report details of any proposal for the sale of the mortgaged land or goods, or the lease of the mortgaged land, if the mortgagee considers that their inclusion would materially prejudice the exercise of the mortgagee's rights or powers.
+(3) A mortgagee may omit from the report details of any proposal for the sale of the mortgaged land or goods, or the lease of the mortgaged land, if the mortgagee considers that their inclusion would materially prejudice the exercise of the mortgagee’s rights or powers.
 (4) If a mortgagee fails to comply with this section, the mortgagee, and, if the mortgagee is a body corporate, every director of the body corporate, commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
 
 ### 163 Further reports by mortgagee in possession
@@ -1580,7 +1581,7 @@ A mortgagee in possession of mortgaged land, goods, or accounts receivable must 
   (d) details of any proposal for the mortgagee, as lessor, to lease the land under sections 142 to 145 or for the mortgagee to sell the land or goods under subpart 7; and
   (e) details of any amounts likely to be available for payment to other creditors of the current mortgagor; and
   (f) any other prescribed information.
-(3) A mortgagee may omit from the report details of any proposal for the sale of the mortgaged land or goods, or the lease of the mortgaged land, if the mortgagee considers that their inclusion would materially prejudice the exercise of the mortgagee's rights or powers.
+(3) A mortgagee may omit from the report details of any proposal for the sale of the mortgaged land or goods, or the lease of the mortgaged land, if the mortgagee considers that their inclusion would materially prejudice the exercise of the mortgagee’s rights or powers.
 (4) If a mortgagee or other person fails to comply with this section, the mortgagee or person, and, if the mortgagee or person is a body corporate, every director of the body corporate, commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
 
 ### 164 Extension of time for preparing reports
@@ -1588,7 +1589,7 @@ The Registrar may, on the application of a mortgagee or other person who is requ
 
 ### 165 Persons entitled to receive reports
 (1) A mortgagee or other person required to prepare a report under section 162 or 163 must send a copy of it—
-  (a) to the current mortgagor, at the address of the current mortgagor's place of business, registered office, or residence to which the notice to the current mortgagor required by section 156 must be addressed under section 157; and
+  (a) to the current mortgagor, at the address of the current mortgagor’s place of business, registered office, or residence to which the notice to the current mortgagor required by section 156 must be addressed under section 157; and
   (b) to the following persons if the mortgagee or other person has actual knowledge of the name and address of the person:
     (i) every former mortgagor:
     (ii) every covenantor:
@@ -1605,7 +1606,7 @@ The Registrar may, on the application of a mortgagee or other person who is requ
 
 ### 166 Persons entitled to inspect reports
 A person to whom a report must be sent on request under section 165 is entitled to inspect the report during normal business hours at—
-  (a) the mortgagee's registered office, residence, or address notified under section 156(2)(d); or
+  (a) the mortgagee’s registered office, residence, or address notified under section 156(2)(d); or
   (b) at any other place of business of the person who prepared the report, at any time after the expiration of 5 working days after that person receives a request that the report be made available for inspection at that place.
 
 ### 167 Duty to notify breaches of other Acts
@@ -1626,8 +1627,8 @@ A person to whom a report must be sent on request under section 165 is entitled 
 ### 168 Withdrawal of mortgagee from possession
 (1) A mortgagee who has exercised a power to enter into possession of mortgaged land, goods, or accounts receivable must be taken to have withdrawn from possession of all or any part of the land, goods, or accounts receivable on the earlier of—
   (a) the date on which the mortgagee or a court appoints a receiver for all or that part of the land, goods, or accounts receivable; or
-  (b) the date on which a mortgagee under any mortgage having priority over the mortgagee's mortgage enters into possession of, or appoints a receiver for, all or that part of the land, goods, or accounts receivable; or
-  (c) the date of an order of a court under section 170, consenting to the mortgagee's withdrawal from possession, or under section 171, directing the mortgagee to withdraw from possession; or
+  (b) the date on which a mortgagee under any mortgage having priority over the mortgagee’s mortgage enters into possession of, or appoints a receiver for, all or that part of the land, goods, or accounts receivable; or
+  (c) the date of an order of a court under section 170, consenting to the mortgagee’s withdrawal from possession, or under section 171, directing the mortgagee to withdraw from possession; or
   (d) the date on which the mortgagee withdraws from possession of all or that part of the land, goods, or accounts receivable after their redemption or sale; or
   (e) the date on which the mortgagee withdraws from possession of all or that part of the land, goods, or accounts receivable with the consent of all persons who have an interest in that land or those goods or accounts receivable.
 (2) A mortgagee in possession of mortgaged land, goods, or accounts receivable may not withdraw from possession on or after 1 January 2008 except as provided in subsection (1).
@@ -1635,10 +1636,10 @@ A person to whom a report must be sent on request under section 165 is entitled 
 ### 169 Mortgagee who has withdrawn from possession not entitled to receive income after withdrawal
 (1) A mortgagee who has withdrawn from possession is not entitled to receive any income from the mortgaged land, goods, or accounts receivable that comes in after that withdrawal (whether that income has accrued for a period before that withdrawal or a period after that withdrawal).
 (2) However, if any income referred to in subsection (1) is actually received by a mortgagee who has withdrawn from possession, the mortgagee must account for it under section 155.
-(3) If, in an accounting under section 155, a mortgagee in possession of mortgaged land, goods, or accounts receivable has given credit for amounts not actually received by the mortgagee and, after the mortgagee's withdrawal from possession, those amounts are actually received by or for the benefit of the current mortgagor, those amounts are a debt owing by the current mortgagor to the mortgagee.
+(3) If, in an accounting under section 155, a mortgagee in possession of mortgaged land, goods, or accounts receivable has given credit for amounts not actually received by the mortgagee and, after the mortgagee’s withdrawal from possession, those amounts are actually received by or for the benefit of the current mortgagor, those amounts are a debt owing by the current mortgagor to the mortgagee.
 
 ### 170 Withdrawal with consent of court
-(1) A court may, on the application of a mortgagee in possession, make an order consenting to the mortgagee's withdrawal from possession of all or part of the mortgaged land, goods, or accounts receivable if the court is satisfied that,—
+(1) A court may, on the application of a mortgagee in possession, make an order consenting to the mortgagee’s withdrawal from possession of all or part of the mortgaged land, goods, or accounts receivable if the court is satisfied that,—
   (a) as at the date on which the application is heard, the mortgagee has substantially performed all the obligations and carried out all the duties of a mortgagee in possession—
     (i) under this subpart; or
     (ii) in the case of a person who became a mortgagee in possession of mortgaged property before 1 January 2008, under the Property Law Act 1952; and
@@ -1648,7 +1649,7 @@ A person to whom a report must be sent on request under section 165 is entitled 
 
 ### 171 Withdrawal by direction of court
 (1) A court may, on the application of a specified person, make an order directing a mortgagee in possession to withdraw from possession of the whole, or any part, of the land, goods, or accounts receivable if the court is satisfied that—
-  (a) the purpose of the mortgagee's entry into possession of the land, goods, or accounts receivable has been fulfilled; or
+  (a) the purpose of the mortgagee’s entry into possession of the land, goods, or accounts receivable has been fulfilled; or
   (b) circumstances no longer justify the mortgagee remaining in possession of the land, goods, or accounts receivable.
 (2) In subsection (1), specified person means—
   (a) the current mortgagor; or
@@ -1682,7 +1683,7 @@ If a person became a mortgagee in possession of mortgaged property before 1 Janu
   (a) sections 137 to 151 and 155 to 167 do not apply; and
   (b) sections 91 and 95 to 97 of the Property Law Act 1952, Part 7A of that Act, and sections 106 and 108(1) of the Land Transfer Act 1952 continue to apply as if those provisions had not been repealed by this Act.
 
-### Subpart 7 — Mortgagees' power of sale
+### Subpart 7 — Mortgagees’ power of sale
 
 **Exercise of power of sale**
 
@@ -1703,12 +1704,12 @@ If a person became a mortgagee in possession of mortgaged property before 1 Janu
 ### 178 Powers incidental to power of sale
 (1) If, under a mortgage and subpart 5, a mortgagee or receiver becomes entitled to exercise a power to sell mortgaged property, the sale—
   (a) may relate to the whole or any part of the property:
-  (b) may be subject to, or free of, any mortgage or other encumbrance having priority over the mortgagee's mortgage:
-  (c) may be in 1 lot or in separate lots:
+  (b) may be subject to, or free of, any mortgage or other encumbrance having priority over the mortgagee’s mortgage:
+  (c) may be in one lot or in separate lots:
   (d) in the case of mortgaged land, may be by way of subdivision or otherwise:
   (e) may, except in the case of a sale of land through the Registrar under section 187, be by public auction or by private contract:
   (f) may, except in the case of a sale of land through the Registrar under section 187, be with or without reserve:
-  (g) may be for a purchase price payable in 1 sum or by instalments:
+  (g) may be for a purchase price payable in one sum or by instalments:
   (h) may be subject to any other conditions that the mortgagee or receiver thinks fit.
 (2) The mortgagee or receiver may cancel a contract for the sale of the mortgaged property and resell the property without being liable for any loss on resale.
 (3) Subsection (2) is subject to section 19 of the Receiverships Act 1993 or section 176(1), as the case requires.
@@ -1719,7 +1720,7 @@ If a person became a mortgagee in possession of mortgaged property before 1 Janu
   (a) the mortgagee has all the rights and powers in relation to the purchaser that the current mortgagor would have had as vendor of the property; and
   (b) the mortgagee may execute all assurances and do all other things necessary to effect the transfer or assignment of the property; and
   (c) the mortgagee must account for the proceeds of the sale as though the property had been sold by the mortgagee.
-(3) The mortgagee's powers under subsection (2)(b) include, in the case of a mortgage over land under the Land Transfer Act 1952, the power to do either or both of the following as if the land had been sold by the mortgagee:
+(3) The mortgagee’s powers under subsection (2)(b) include, in the case of a mortgage over land under the Land Transfer Act 1952, the power to do either or both of the following as if the land had been sold by the mortgagee:
   (a) execute a transfer instrument that may be registered under section 105 of that Act:
   (b) register a transfer instrument under that Act.
 (4) The adoption of an agreement for the sale and purchase of property by a mortgagee does not affect any liability in respect of the agreement of the current mortgagor, or any former mortgagor, who entered into or is otherwise bound by the agreement.
@@ -1732,7 +1733,7 @@ If a person became a mortgagee in possession of mortgaged property before 1 Janu
 (3) The court may make an order under this section on any conditions the court thinks fit.
 
 ### 181 Powers incidental to power to sell land, mines, or minerals
-A mortgagee's or receiver's power to sell mortgaged land, or to sell mines or minerals separately from mortgaged land, includes the power—
+A mortgagee’s or receiver’s power to sell mortgaged land, or to sell mines or minerals separately from mortgaged land, includes the power—
   (a) to sell the land, mines, or minerals subject to an easement, right, privilege, or covenant of any kind; and
   (b) to create an easement, right, or privilege of any kind over land for the time being remaining unsold; and
   (c) to enter into a covenant of any kind concerning land for the time being remaining unsold; and
@@ -1741,13 +1742,13 @@ A mortgagee's or receiver's power to sell mortgaged land, or to sell mines or mi
 ### 182 Sale together with other property at single price
 (1) A mortgagee or receiver who is entitled to sell mortgaged property may sell the whole or any part of the property, together with other property that is the subject of any collateral security from the current mortgagor to the mortgagee, at a single price.
 (2) The mortgagee or receiver must, in a case referred to in subsection (1), fairly and equitably apportion all expenses and purchase money between the properties.
-(3) However, any failure by the mortgagee or receiver to make an apportionment under subsection (2) does not affect the purchaser or the purchaser's interest in the property.
+(3) However, any failure by the mortgagee or receiver to make an apportionment under subsection (2) does not affect the purchaser or the purchaser’s interest in the property.
 
 ### 183 Mortgagee may transfer or assign mortgaged property to purchaser
 (1) On the sale of mortgaged property by a mortgagee,—
-  (a) the mortgagee's written receipt is a sufficient discharge to the purchaser for payment of the purchase money or other consideration; and
+  (a) the mortgagee’s written receipt is a sufficient discharge to the purchaser for payment of the purchase money or other consideration; and
   (b) the mortgagee may execute all assurances and do all other things necessary to transfer or assign the property to the purchaser.
-(2) The mortgagee's powers under subsection (1)(b) include, in the case of a mortgage over land under the Land Transfer Act 1952, the power to do either or both of the following:
+(2) The mortgagee’s powers under subsection (1)(b) include, in the case of a mortgage over land under the Land Transfer Act 1952, the power to do either or both of the following:
   (a) execute a transfer instrument that may be registered under section 105 of that Act:
   (b) register a transfer instrument under that Act.
 (3) However, if the mortgagee is the purchaser, the transfer or assignment must be executed or registered by the Registrar under section 196 or in accordance with an order of a court made under section 200.
@@ -1756,7 +1757,7 @@ A mortgagee's or receiver's power to sell mortgaged land, or to sell mines or mi
     (i) the mortgage under which the power of sale was exercised; and
     (ii) any subsequent mortgage or other subsequent encumbrance over the property; but
   (b) subject to—
-    (i) any mortgage or other encumbrance, estate, or interest over or in the property that has priority over the mortgagee's mortgage and has not been discharged or otherwise terminated; and
+    (i) any mortgage or other encumbrance, estate, or interest over or in the property that has priority over the mortgagee’s mortgage and has not been discharged or otherwise terminated; and
     (ii) any other estate or interest in the property that is binding on the mortgagee.
 (5) Subsection (4) is, in the case of an executed transfer instrument or other instrument, subject to the need for its registration under any enactment.
 
@@ -1781,7 +1782,7 @@ A mortgagee's or receiver's power to sell mortgaged land, or to sell mines or mi
 ### 185 Application of proceeds of sale of mortgaged property
 (1) The proceeds arising from the sale by a mortgagee of mortgaged property must be applied—
   (a) first, to the payment of all amounts (if any) referred to in subsection (2), together with interest on those amounts at the agreed rate (if any) at which interest is payable on the principal amount secured by the mortgage:
-  (b) secondly, to the payment of amounts secured by any other mortgage, encumbrance, or security interest over the property to the extent that it has priority over the mortgagee's mortgage:
+  (b) secondly, to the payment of amounts secured by any other mortgage, encumbrance, or security interest over the property to the extent that it has priority over the mortgagee’s mortgage:
   (c) thirdly, to the repayment of all amounts (if any) paid or advanced by the mortgagee for the purpose referred to in paragraph (b), together with interest on those amounts at the agreed rate (if any) at which interest is payable on the principal amount secured by the mortgage:
   (d) fourthly, to the payment of amounts secured by the mortgage (to the extent that those amounts have not been paid under paragraphs (a) to (c)):
   (e) fifthly, to the payment of amounts secured by any subsequent mortgage, subsequent encumbrance, or subsequent security interest over the property if—
@@ -1796,7 +1797,7 @@ A mortgagee's or receiver's power to sell mortgaged land, or to sell mines or mi
 (3) For the purposes of—
   (a) subsection (1)(b), if there is more than 1 mortgage, encumbrance, or security interest referred to in that paragraph, payment must be made under that paragraph of amounts secured by each in the order of its priority:
   (b) subsection (1)(e), if there is more than 1 mortgage, encumbrance, or security interest referred to in that paragraph, payment must be made under that paragraph of amounts secured by each in the order of its priority.
-(4) Despite subsection (1), subsection (1)(b) does not apply in relation to another mortgage, encumbrance, or security interest over the property that has priority over the mortgagee's mortgage if—
+(4) Despite subsection (1), subsection (1)(b) does not apply in relation to another mortgage, encumbrance, or security interest over the property that has priority over the mortgagee’s mortgage if—
   (a) the person who purchases the property from the mortgagee agrees to accept the transfer or assignment of the property subject to the prior mortgage, encumbrance, or security interest; and
   (b) the arrangement referred to in paragraph (a) is consented to in writing by the mortgagee under the prior mortgage, the holder of the prior encumbrance, or the secured party under the prior security interest.
 (5) Subsection (1) is subject to section 153.
@@ -1810,7 +1811,7 @@ A mortgagee's or receiver's power to sell mortgaged land, or to sell mines or mi
   (b) there is a surplus that must be paid to the current mortgagor under section 185; and
   (c) the current mortgagor cannot be found after the mortgagee has taken reasonable steps to locate the current mortgagor.
 (2) The mortgagee must—
-  (a) deliver to the Secretary to the Treasury a statutory declaration setting out, to the best of the mortgagee's knowledge and belief, particulars of—
+  (a) deliver to the Secretary to the Treasury a statutory declaration setting out, to the best of the mortgagee’s knowledge and belief, particulars of—
     (i) the mortgaged property; and
     (ii) the current mortgagor; and
     (iii) the sale; and
@@ -1837,7 +1838,7 @@ The Registrar may, in accordance with sections 188 to 198, conduct the sale by p
     (i) the current mortgagor:
     (ii) any former mortgagor:
     (iii) any covenantor:
-    (iv) the mortgagee under any other mortgage or encumbrance over the land proposed to be sold (whether or not it has priority over the vendor mortgagee's mortgage), if that other mortgage or encumbrance—
+    (iv) the mortgagee under any other mortgage or encumbrance over the land proposed to be sold (whether or not it has priority over the vendor mortgagee’s mortgage), if that other mortgage or encumbrance—
       (A) is registered; or
       (B) is unregistered but the vendor mortgagee has actual notice of it:
     (v) any person who has lodged a caveat under section 137 of the Land Transfer Act 1952, or a notice under section 42 of the Property (Relationships) Act 1976 having the effect of a caveat, against the title to the land or any part of it.
@@ -1845,7 +1846,7 @@ The Registrar may, in accordance with sections 188 to 198, conduct the sale by p
 ### 189 Vendor mortgagee must nominate discharge sum
 (1) In an application for a sale under section 187, the vendor mortgagee must nominate, for the land proposed to be sold, a sum upon payment of which the vendor mortgagee will become bound to discharge the mortgage over the land.
 (2) If the land is to be sold in separate lots, the vendor mortgagee must nominate a discharge sum for each lot separately, as well as for the land as a whole.
-(3) If the land proposed to be sold is subject to a mortgage or other encumbrance having priority over the vendor mortgagee's mortgage, the vendor mortgagee—
+(3) If the land proposed to be sold is subject to a mortgage or other encumbrance having priority over the vendor mortgagee’s mortgage, the vendor mortgagee—
   (a) must not include in the discharge sum the amounts secured by that mortgage or other encumbrance to the extent that the security for those amounts has priority; and
   (b) must state whether the sale to be conducted by the Registrar is to be subject to, or free of, that mortgage or other encumbrance.
 
@@ -1884,12 +1885,12 @@ The Registrar may, at any time before the sale, consent to the correction of any
 (3) For the purposes of sections 87, 88, 152, 153, and 185, no expense disallowed under subsection (2) is an amount paid or advanced with a view to the realisation of the security.
 (4) The Registrar may withdraw from sale under section 190 the land proposed to be sold if the Registrar becomes aware of any irregularity or impropriety in any matter preliminary to its sale.
 
-### 194 Registrar's fees, expenses, and commission
+### 194 Registrar’s fees, expenses, and commission
 (1) A vendor mortgagee who applies for a sale under section 187 must pay to the Registrar—
   (a) the prescribed fee payable on the making of the application; and
   (b) the reasonable expenses of, and incidental to, the conduct of the sale (whether or not the land is in fact sold); and
   (c) if the land is sold, a further fee of one-quarter of 1% of the purchase money, but the further fee must not be less than the minimum fee, and not more than the maximum fee, prescribed for the purposes of this paragraph.
-(2) In subsection (1)(c), purchase money includes, in the case of a sale subject to any mortgage or other encumbrance having priority over the vendor mortgagee's mortgage, the amounts secured by that mortgage or other encumbrance to the extent that the security for those amounts has priority at the time of the sale.
+(2) In subsection (1)(c), purchase money includes, in the case of a sale subject to any mortgage or other encumbrance having priority over the vendor mortgagee’s mortgage, the amounts secured by that mortgage or other encumbrance to the extent that the security for those amounts has priority at the time of the sale.
 
 ### 195 Current mortgagor or other person may redeem on payment of nominated discharge sum
 (1) The current mortgagor or any other person who is entitled to redeem the mortgaged land may, at any time before the land is sold, or is withdrawn from sale under section 193, redeem the land, in whole or in part, by paying to the vendor mortgagee either—
@@ -1906,7 +1907,7 @@ The Registrar may, at any time before the sale, consent to the correction of any
 ### 196 Mortgagee may purchase at sale through Registrar
 (1) The vendor mortgagee may be a bidder at a sale by public auction of mortgaged land conducted by the Registrar under section 187.
 (2) If, at the sale, the vendor mortgagee is declared to be the purchaser of the land, or, if the land is sold as separate lots, the purchaser of all or any lots, the vendor mortgagee is bound to purchase the land, or the lot or lots, at a purchase price equal to the greater of—
-  (a) the amount of the vendor mortgagee's successful bid; or
+  (a) the amount of the vendor mortgagee’s successful bid; or
   (b) the discharge sum nominated by the vendor mortgagee for the land or the lot or lots.
 (3) If, under this section, the vendor mortgagee becomes the purchaser of mortgaged land, the Registrar, on request, must execute or register a transfer instrument that—
   (a) is expressed to be made between the Registrar (described only as the holder of that office) and the vendor mortgagee, with or without the addition of any other party; and
@@ -1918,10 +1919,10 @@ The Registrar may, at any time before the sale, consent to the correction of any
 ### 197 Effect of transfer executed or registered under section 196
 (1) A transfer instrument, executed or registered by the Registrar under section 196, transfers or assigns the land to which it relates to the transferee or assignee,—
   (a) free from all liability on account of—
-    (i) the vendor mortgagee's mortgage; and
+    (i) the vendor mortgagee’s mortgage; and
     (ii) any subsequent mortgage or other subsequent encumbrance over the land; but
   (b) subject to—
-    (i) any mortgage or other encumbrance, estate, or interest over or in the land that has not been discharged or otherwise terminated, to the extent that it has priority over the vendor mortgagee's mortgage; and
+    (i) any mortgage or other encumbrance, estate, or interest over or in the land that has not been discharged or otherwise terminated, to the extent that it has priority over the vendor mortgagee’s mortgage; and
     (ii) any other estate or interest in the land that is binding on the vendor mortgagee.
 (2) Subsection (1) is, in the case of an executed transfer instrument, subject to the need for its registration.
 
@@ -1964,7 +1965,7 @@ An application under section 200 must, unless the court orders otherwise, be ser
   (a) on the current mortgagor; and
   (b) on every former mortgagor; and
   (c) on every covenantor; and
-  (d) on the mortgagee under any other mortgage, and on the holder of any other encumbrance, over the mortgaged property (whether or not the mortgage or encumbrance has priority over the mortgagee's mortgage) if—
+  (d) on the mortgagee under any other mortgage, and on the holder of any other encumbrance, over the mortgaged property (whether or not the mortgage or encumbrance has priority over the mortgagee’s mortgage) if—
     (i) the mortgage or encumbrance is registered; or
     (ii) the mortgage or encumbrance is unregistered, but the mortgagee applying to the court under section 200 has actual notice of it; and
   (e) in the case of mortgaged land, on any person who has lodged a caveat under section 137 of the Land Transfer Act 1952, or a notice under section 42 of the Property (Relationships) Act 1976 having the effect of a caveat, against the title to the land or any part of it.
@@ -1995,7 +1996,7 @@ An application under section 200 must, unless the court orders otherwise, be ser
 Section 203 does not extinguish the liability under the mortgage of any former mortgagor.
 
 ### 205 Administrator or trustee liable only to extent of assets of estate or trust
-An administrator of the estate of a person or a trustee to whom land is transferred, assigned, or transmitted, subject to a mortgage, is liable under section 203 only to the extent of the assets of the estate or trust in the administrator's or trustee's hands and available for meeting the obligations under the mortgage.
+An administrator of the estate of a person or a trustee to whom land is transferred, assigned, or transmitted, subject to a mortgage, is liable under section 203 only to the extent of the assets of the estate or trust in the administrator’s or trustee’s hands and available for meeting the obligations under the mortgage.
 
 ## Part 4 — Leases of land
 
@@ -2015,7 +2016,8 @@ In this Part, unless the context otherwise requires,—
   - **condition** , in relation to a lease,—
     (a) means a covenant, condition, or power expressed or implied in the lease; and
     (b) includes, for the purposes of sections 243 to 264, and 273 any such provision under which an act or omission of the lessee or any other person (except an act or omission that is a breach of a covenant of the lessee), or a specified event (except the expiry of the term of the lease), is a ground for the cancellation of the lease (and a breach of a condition includes the commission of that act, or the occurrence of that omission or event)
-  - **covenant** , in relation to a lease, means a promise expressed or implied in the lease expire, in relation to the term of a lease that is a periodic tenancy or a statutory tenancy, includes the termination of the lease by notice given by the lessor or the lessee
+  - **covenant** , in relation to a lease, means a promise expressed or implied in the lease
+  - **expire** , in relation to the term of a lease that is a periodic tenancy or a statutory tenancy, includes the termination of the lease by notice given by the lessor or the lessee
   - **licence** means a licence to occupy land in consideration of—
     (a) rent; or
     (b) a payment in the nature of rent; or
@@ -2045,12 +2047,12 @@ A short-term lease may be made orally or in writing.
 ### 210 Implied term of lease if no other term agreed
 (1) This section applies to a lease if—
   (a) the lessee is in possession of the land, although the lessor and the lessee have not agreed, expressly or by implication, on the duration of the term of the lease; or
-  (b) the lessee remains in possession of the land with the lessor's consent, although the term of the lease has expired and the lessor and the lessee have not agreed, expressly or by implication, that the lessee may continue in possession for some other period.
+  (b) the lessee remains in possession of the land with the lessor’s consent, although the term of the lease has expired and the lessor and the lessee have not agreed, expressly or by implication, that the lessee may continue in possession for some other period.
 (2) A lease to which this section applies—
   (a) is terminable at will; and
-  (b) may be terminated, at any time, by the lessor or the lessee giving not less than 20 working days' written notice to the other party to the lease.
+  (b) may be terminated, at any time, by the lessor or the lessee giving not less than 20 working days’ written notice to the other party to the lease.
 
-### 211 Obligations of lessee to remain in force if lessee remains in possession of land with lessor's consent after term of lease has expired
+### 211 Obligations of lessee to remain in force if lessee remains in possession of land with lessor’s consent after term of lease has expired
 If section 210(1)(b) applies, all the obligations of the lessee under the lease that are consistent with the lease being terminable at will remain in force until the time that the lease is terminated in accordance with section 210(2).
 
 ### 212 Lease terminating on occurrence of future event
@@ -2062,10 +2064,10 @@ If section 210(1)(b) applies, all the obligations of the lessee under the lease 
 (4) A lease that is valid only because of the application of this section cannot be registered under the Land Transfer Act 1952 but is to be treated for all purposes as creating an equitable estate in the land.
 
 ### 213 Lessee remaining in possession without consent of lessor, or lessor accepting rent, after termination of lease
-(1) A lessee who remains in possession of the land without the lessor's consent after the lease has been terminated or the term of the lease has expired is subject to all the obligations of the lessee under the lease until the time that the lessee ceases to be in possession of the land.
+(1) A lessee who remains in possession of the land without the lessor’s consent after the lease has been terminated or the term of the lease has expired is subject to all the obligations of the lessee under the lease until the time that the lessee ceases to be in possession of the land.
 (2) A lessor who accepts rent for any period after the lease has been terminated or the term of the lease has expired is not, only because of that fact, to be treated as having—
   (a) consented to the lessee remaining in possession of the land; or
-  (b) given up any of the lessor's rights or remedies against the lessee for breach of a covenant or condition of the lease.
+  (b) given up any of the lessor’s rights or remedies against the lessee for breach of a covenant or condition of the lease.
 
 ### 214 Notice by joint tenants
 (1) This section applies to a notice of termination for a periodic tenancy that is entered into—
@@ -2085,7 +2087,7 @@ If section 210(1)(b) applies, all the obligations of the lessee under the lease 
 (5) If the term of the superior lease is extended or renewed, the term of the sublease is extended and will expire at the earlier of the time that—
   (a) the term of the extended or renewed superior lease is expressed to expire; or
   (b) the term of the sublease is expressed to expire.
-(6) Although the term of a sublease to which this section applies (as expressed, reduced, or extended by this section) expires at the same time as the team' of the superior lease, the sublessor must be treated as having a reversion expectant on the sublease.
+(6) Although the term of a sublease to which this section applies (as expressed, reduced, or extended by this section) expires at the same time as the term of the superior lease, the sublessor must be treated as having a reversion expectant on the sublease.
 
 ### 216 Surrender of lease to enable new superior lease to be entered into not to affect sublease
 (1) If a lease (lease A) is surrendered to allow a new lease (lease B) to be entered into with the same lessee, a sublease in respect of lease A does not also have to be surrendered if—
@@ -2126,7 +2128,7 @@ The rent payable under a lease is payable monthly in advance (whether that rent 
 In a lease, unless the context otherwise requires, a covenant to keep leased premises in good condition (or words to that effect) does not require the lessee to put the premises into good condition if they are not in good condition when the term of the lease begins.
 
 ### 224 Consent not to be unreasonably withheld or delayed
-(1) In a lease, unless the context otherwise requires, a covenant of the lessee not to do a thing without the lessor's consent must be taken as requiring the lessor—
+(1) In a lease, unless the context otherwise requires, a covenant of the lessee not to do a thing without the lessor’s consent must be taken as requiring the lessor—
   (a) not to unreasonably withhold consent to the doing of that thing by the lessee; and
   (b) within a reasonable time, to—
     (i) give the consent; or
@@ -2145,7 +2147,7 @@ In a lease, unless the context otherwise requires, a covenant to keep leased pre
 (3) To avoid doubt, sections 226 to 228 do not apply if, and to the extent that, a lease includes, in accordance with subsection (2), a covenant binding the lessee absolutely not to do any of the things referred to in subsection (1).
 
 ### 226 Consent to assignment, etc, or change of use
-(1) This section applies to a lessor who receives after 31 December 2007 an application by a lessee requesting the lessor's consent to do 1 or more of the things referred to in section 225(1)(a) to (f) (whether the lease came into operation before, on, or after that date).
+(1) This section applies to a lessor who receives after 31 December 2007 an application by a lessee requesting the lessor’s consent to do 1 or more of the things referred to in section 225(1)(a) to (f) (whether the lease came into operation before, on, or after that date).
 (2) The lessor—
   (a) must not unreasonably withhold consent to the doing of the thing or things specified in the application (whether or not the covenant expressly provides that consent must not unreasonably be withheld); and
   (b) must, within a reasonable time,—
@@ -2185,7 +2187,7 @@ A term has no effect if it—
 (1) This section applies to a lease if the reversion expectant on the lease is merged in a remainder or other reversion, or in a future estate or interest in the land.
 (2) The person entitled to the estate or interest into which that reversion has merged has the same remedies for non-performance or non-observance of the covenants or conditions of the lease, and has the same rights to give notice to the lessee of termination of the lease, as the person who would for the time being (but for the merger) have been entitled to the reversion expectant on the lease would have had.
 
-### 231 Burden of lessor's covenants to run with reversion
+### 231 Burden of lessor’s covenants to run with reversion
 (1) If the reversion expectant on a lease ceases to be held by the lessor (whether by transfer, assignment, grant, operation of law, or otherwise), the obligations imposed by every covenant of the lessor—
   (a) run with the reversion; and
   (b) may be enforced by the person who is from time to time entitled to the leasehold estate or interest against the person who is from time to time entitled to the reversion.
@@ -2209,7 +2211,7 @@ A term has no effect if it—
   (c) the right to re-enter or apply for an order of possession of the land; and
   (d) the right to cancel the lease.
 
-### 233 Benefit of lessee's covenants to run with reversion
+### 233 Benefit of lessee’s covenants to run with reversion
 (1) If the reversion expectant on the lease ceases to be held by the lessor (whether by transfer, assignment, grant, operation of law, or otherwise), the rights to which this section applies—
   (a) run with the reversion; and
   (b) may be exercised by the person who is from time to time entitled to the income of the land, whether or not the lessee has acknowledged that person as lessor (that is, with or without attornment by the lessee).
@@ -2265,8 +2267,8 @@ An acknowledgement by a lessee that a person who is not entitled to the reversio
 (1) A person who accepts a transfer or assignment of a lease becomes the lessee of the land without need to—
   (a) acknowledge (by attornment or otherwise) the lessor as the lessor of the land; or
   (b) take possession of the land.
-(2) If a lease contains a covenant that the lessee will not, or will not without the lessor's consent, transfer or assign the lease, a transfer or assignment of the lease by the lessee has effect whether or not—
-  (a) The lessor has consented to the transfer or assignment; and
+(2) If a lease contains a covenant that the lessee will not, or will not without the lessor’s consent, transfer or assign the lease, a transfer or assignment of the lease by the lessee has effect whether or not—
+  (a) the lessor has consented to the transfer or assignment; and
   (b) the transfer or assignment is in breach of that covenant.
 (3) A person who becomes the lessee under this section—
   (a) must pay to the lessor the rent payable under the lease; and
@@ -2302,7 +2304,9 @@ An acknowledgement by a lessee that a person who is not entitled to the reversio
     (i) the transferee or assignee; or
     (ii) a successor in title of the transferee or assignee.
 
-### Subpart 6 — Remedies and relief Cancellation of leases
+### Subpart 6 — Remedies and relief
+
+**Cancellation of leases**
 
 ### 243 Sections 244 to 264 to be code
 (1) A lease may be cancelled only in accordance with sections 244 to 252.
@@ -2361,7 +2365,7 @@ An acknowledgement by a lessee that a person who is not entitled to the reversio
   (b) may have specified an amount of compensation that is unreasonable; or
   (c) may have specified that the breach would be capable of being remedied by the payment of reasonable compensation, but without specifying the amount that the lessor considers reasonable.
 (2) None of the matters set out in subsection (1)(a) to (c) prevents a lessee from offering an amount that the lessee considers to be reasonable compensation for the breach.
-(3) For the purposes of this section and section 246(2)(b), reasonable compensation for the breach may include reimbursement of the lessor's reasonable expenses—
+(3) For the purposes of this section and section 246(2)(b), reasonable compensation for the breach may include reimbursement of the lessor’s reasonable expenses—
   (a) in giving the notice required by section 246(1)(a); and
   (b) in doing anything else that the lessor has reasonably done in relation to the breach.
 
@@ -2377,10 +2381,10 @@ An acknowledgement by a lessee that a person who is not entitled to the reversio
   (a) any mortgagee or receiver of the leasehold estate or interest; and
   (b) any sublessee of the lease; and
   (c) any mortgagee or receiver of the estate or interest of a sublessee.
-(2) The lessor's failure to comply with subsection (1) does not, in itself, prevent the lessor from exercising a right to cancel the lease.
+(2) The lessor’s failure to comply with subsection (1) does not, in itself, prevent the lessor from exercising a right to cancel the lease.
 
-### 250 Acceptance of rent by lessor after notice of intention to cancel lease given not to operate as waiver of lessor's rights
-(1) If a lessor accepts any rent after a notice of intention to cancel the lease is served on the lessee in accordance with section 245 or 246 the lessor's acceptance of the rent does not operate as a waiver of the lessor's right, on the ground of a breach of a covenant or condition of the lease, to—
+### 250 Acceptance of rent by lessor after notice of intention to cancel lease given not to operate as waiver of lessor’s rights
+(1) If a lessor accepts any rent after a notice of intention to cancel the lease is served on the lessee in accordance with section 245 or 246 the lessor’s acceptance of the rent does not operate as a waiver of the lessor’s right, on the ground of a breach of a covenant or condition of the lease, to—
   (a) apply for an order for possession of the land; or
   (b) re-enter the land.
 (2) Subsection (1) applies unless the lessor, in accepting the rent, causes the lessee reasonably to believe that the lessor no longer intends to exercise the right to apply for an order for possession of, or to re-enter, the land.
@@ -2391,7 +2395,7 @@ An acknowledgement by a lessee that a person who is not entitled to the reversio
   (a) order the lessee to pay the rent up to the date of cancellation or any later date on which the lessee yields up possession:
   (b) order the lessee to pay reasonable compensation for the breach:
   (c) impose on the lessee or the lessor any other conditions that it thinks fit.
-(3) For the purposes of this section, reasonable compensation for the breach of a lease may include reimbursement of the lessor's reasonable expenses—
+(3) For the purposes of this section, reasonable compensation for the breach of a lease may include reimbursement of the lessor’s reasonable expenses—
   (a) in giving notice of intention to cancel the lease under section 245 or 246; and
   (b) in doing anything else that the lessor has reasonably done in relation to the breach.
 
@@ -2422,7 +2426,7 @@ An acknowledgement by a lessee that a person who is not entitled to the reversio
   (b) by not being served at a time that is reasonable in the circumstances (whether or not by reason of the failure of the lessor to comply with the relevant section).
 (2) A person to whom this section applies may apply to a court for an extension of—
   (a) the time specified in section 253(4)(b) for the bringing of a proceeding for relief against the cancellation, or proposed cancellation, of the lease; or
-  (b) the time within which to make an application for relief in the lessor's proceeding for an order for possession of the land.
+  (b) the time within which to make an application for relief in the lessor’s proceeding for an order for possession of the land.
 (3) The court may grant the application for an extension of time on any conditions that it thinks fit.
 
 ### 255 Application for relief not to constitute admission
@@ -2473,7 +2477,7 @@ An acknowledgement by a lessee that a person who is not entitled to the reversio
   (b) by not being served in that way with a copy of that kind at a time that is reasonable in the circumstances (whether or not by reason of the failure of the lessor to comply with that section).
 (2) An interested person to whom this section applies may apply to the court for an extension of—
   (a) the time specified in section 258(2)(b) for the bringing of a proceeding for relief under section 258(1); or
-  (b) the time within which to make an application for relief in the lessor's proceeding for an order for possession.
+  (b) the time within which to make an application for relief in the lessor’s proceeding for an order for possession.
 (3) The court may grant the application for an extension of time on any conditions that it thinks fit.
 
 ### 260 Powers of court on application for relief by sublessee
@@ -2485,7 +2489,7 @@ An acknowledgement by a lessee that a person who is not entitled to the reversio
   (b) may be made on any conditions (if any) as to the execution of any instrument, payment of rent, expenses, damages, compensation, or the giving of security, or any other relevant matters, that the court thinks fit.
 (3) An order may be made under subsection (1) even though the lessee is not a party to the proceeding.
 
-### 261 Relief against lessor's refusal to enter into renewal or sell reversion to lessee
+### 261 Relief against lessor’s refusal to enter into renewal or sell reversion to lessee
 (1) This section applies to a lease if—
   (a) the lessor has covenanted in writing with the lessee that,—
     (i) on the expiry of the term of the lease, the lessor will extend the term of the lease, renew the lease, or enter into a new lease of all or part of the premises to the lessee; or
@@ -2519,13 +2523,13 @@ The matters referred to in section 262(b) are—
 (2) In particular, the court may—
   (a) do either of the following:
     (i) order the lessor to extend or renew the lease or enter into a new lease with the lessee, mortgagee, or receiver; or
-    (ii) order the lessor specifically to perform the lessor's covenant or agreement to transfer or assign the reversion, and to execute all necessary assurances for that purpose; and
+    (ii) order the lessor specifically to perform the lessor’s covenant or agreement to transfer or assign the reversion, and to execute all necessary assurances for that purpose; and
   (b) grant relief under paragraph (a)(i) or (ii) on any conditions (if any) as to expenses, damages, compensation, or any other relevant matters that the court thinks fit.
 (3) The fact that the lessor may have made a disposition to a person, other than the lessee, mortgagee, or receiver, that would be prejudicially affected by the grant of relief to the lessee, mortgagee, or receiver under this section does not affect the power of the court to grant that relief, but in that case the court may do all or any of the following:
   (a) cancel or postpone that estate or interest:
   (b) assess the damages or compensation to be paid to any person prejudicially affected by that cancellation or postponement:
   (c) order any damages or compensation to be paid by the lessor or by the lessee, mortgagee, or receiver, or partly by the lessor and partly by the lessee, mortgagee, or receiver in the proportions that the court determines.
-(4) If, under this section, an order is made in respect of Maori land for the extension or renewal of a lease, or the entering into of a new lease to the lessee, mortgagee, or receiver, or the specific performance of a covenant or agreement to transfer or assign the reversion, the extension, renewal, entering into of a new lease, transfer or assignment must be confirmed as of right under Te Ture Whenua Maori Act 1993.
+(4) If, under this section, an order is made in respect of Māori land for the extension or renewal of a lease, or the entering into of a new lease to the lessee, mortgagee, or receiver, or the specific performance of a covenant or agreement to transfer or assign the reversion, the extension, renewal, entering into of a new lease, transfer or assignment must be confirmed as of right under Te Ture Whenua Maori Act 1993.
 
 **Abolition of right to distrain**
 
@@ -2539,7 +2543,7 @@ The matters referred to in section 262(b) are—
 **Miscellaneous matters**
 
 ### 266 Removal of fixtures by lessee
-(1) A lessee may remove any trade, ornamental, or agricultural fixture (except a lessor's fixture) that the lessee has affixed to any leased premises, but may only do so either—
+(1) A lessee may remove any trade, ornamental, or agricultural fixture (except a lessor’s fixture) that the lessee has affixed to any leased premises, but may only do so either—
   (a) while the lessee is in lawful possession of the premises; or
   (b) during a reasonable period after the lessee ceases to be in lawful possession of the premises or that part of the premises to which the fixture is affixed.
 (2) Subsection (1) applies unless, in relation to a lease, the lessor and lessee agree otherwise.
@@ -2551,12 +2555,12 @@ The matters referred to in section 262(b) are—
 (4) A lessee who has ceased to be in lawful possession of the premises is entitled, during the reasonable period referred to in subsection (1)(b), to have access to the premises that is reasonable and necessary for the purpose of—
   (a) exercising any right to remove a fixture; or
   (b) carrying out any duty to make good any damage caused.
-(5) In this section, lessor's fixture means a chattel that has been affixed to the premises (for example, a fence erected on the land), in such a manner that it becomes part of the structure of a building or otherwise becomes integral to the land, by—
+(5) In this section, lessor’s fixture means a chattel that has been affixed to the premises (for example, a fence erected on the land), in such a manner that it becomes part of the structure of a building or otherwise becomes integral to the land, by—
   (a) the lessee; or
   (b) a former lessee of the premises whose leasehold estate or interest was acquired by the lessee; or
   (c) a sublessee whose right to remove the fixture has expired.
 
-### 267 Effect of unlawful eviction on lessee's obligations
+### 267 Effect of unlawful eviction on lessee’s obligations
 (1) This section applies to a lessee under a lease who, contrary to the express or implied terms of the lease, is evicted from the whole or any part of the premises comprised in the lease.
 (2) A lessee to whom this section applies,—
   (a) if evicted from the whole of those premises, is not required to do the following in respect of the period of eviction:
@@ -2580,8 +2584,8 @@ The matters referred to in section 262(b) are—
 (1) Sections 269 and 270 apply if, on or after 1 January 2008, leased premises, or the whole or any part of the land on which the leased premises are situated, are destroyed or damaged by 1 or more of the following events:
   (a) fire, flood, explosion, lightning, storm, earthquake, or volcanic activity:
   (b) the occurrence of any other peril against the risk of which the lessor is insured or has covenanted with the lessee to be insured.
-(2) Section 269 applies even though an event that gives rise to the destruction or damage is caused or contributed to by the negligence of the lessee or the lessee's agent.
-(3) In this section and sections 269 and 270, lessee's agent means a person for whose acts or omissions the lessee is responsible.
+(2) Section 269 applies even though an event that gives rise to the destruction or damage is caused or contributed to by the negligence of the lessee or the lessee’s agent.
+(3) In this section and sections 269 and 270, lessee’s agent means a person for whose acts or omissions the lessee is responsible.
 
 ### 269 Exoneration of lessee if lessor is insured
 (1) If this section applies, the lessor must not require the lessee—
@@ -2590,15 +2594,15 @@ The matters referred to in section 262(b) are—
   (c) to pay damages in respect of the destruction or damage.
 (2) If this section applies, the lessor must indemnify the lessee against the cost of carrying out any works to make good the destruction or damage if the lessee is obliged by the terms of any agreement to carry out those works.
 (3) Subsection (1) does not excuse the lessee from any liability to which the lessee would otherwise be subject, and the lessor does not have to indemnify the lessee under subsection (2), if, and to the extent that,—
-  (a) the destruction or damage was intentionally done or caused by the lessee or the lessee's agent; or
-  (b) the destruction or damage was the result of an act or omission by the lessee or the lessee's agent that—
+  (a) the destruction or damage was intentionally done or caused by the lessee or the lessee’s agent; or
+  (b) the destruction or damage was the result of an act or omission by the lessee or the lessee’s agent that—
     (i) occurred on or about the leased premises or on or about the whole or any part of the land on which the premises are situated; and
     (ii) constitutes an indictable offence within the meaning of the Summary Proceedings Act 1957; or
-  (c) any insurance moneys that would otherwise have been payable to the lessor for the destruction or damage are irrecoverable because of an act or omission of the lessee or the lessee's agent.
+  (c) any insurance moneys that would otherwise have been payable to the lessor for the destruction or damage are irrecoverable because of an act or omission of the lessee or the lessee’s agent.
 
-### 270 Rights of lessor if insurance for leased premises or land is affected by negligence of lessee or lessee's agent
-(1) If this section applies and the destruction or damage is caused or contributed to by the negligence of the lessee or the lessee's agent, the lessor may—
-  (a) terminate the lease, on reasonable notice to the lessee, if the lessor's ability to obtain or retain insurance cover on reasonable terms for the leased premises or the land on which the premises are situated has been prejudiced by the destruction or damage; or
+### 270 Rights of lessor if insurance for leased premises or land is affected by negligence of lessee or lessee’s agent
+(1) If this section applies and the destruction or damage is caused or contributed to by the negligence of the lessee or the lessee’s agent, the lessor may—
+  (a) terminate the lease, on reasonable notice to the lessee, if the lessor’s ability to obtain or retain insurance cover on reasonable terms for the leased premises or the land on which the premises are situated has been prejudiced by the destruction or damage; or
   (b) recover from the lessee any increased insurance costs incurred by the lessor in relation to the leased premises or the land on which the premises are situated as a result of the destruction or damage (including, without limitation, any increases in the insurance premium that are, or become, payable by the lessor or, as the case may be, any insurance excess that the lessor may be required to pay in relation to any future claims for destruction or damage of that kind).
 (2) This section overrides section 269.
 
@@ -2624,14 +2628,14 @@ A term has no effect if it—
 ### Subpart 7 — Miscellaneous
 
 ### 274 Administrator not personally liable
-(1) This section applies to an administrator of the estate of a person who, at the time of that person's death, was liable to—
+(1) This section applies to an administrator of the estate of a person who, at the time of that person’s death, was liable to—
   (a) pay the rent payable under a lease; or
   (b) observe or perform any covenant of the lessee.
-(2) An administrator to whom this section applies is liable to pay that rent, or to observe or perform that covenant, only if, and if so only to the extent that, assets of the estate are available in the administrator's hands for that purpose.
+(2) An administrator to whom this section applies is liable to pay that rent, or to observe or perform that covenant, only if, and if so only to the extent that, assets of the estate are available in the administrator’s hands for that purpose.
 
 ## Part 5 — Covenants, easements, profits, and access lots
 
-### Subpart 1 — Covenants: nature and effect
+### Subpart 1 — Covenants: Nature and effect
 
 ### 275 Sections 276 to 278 apply to covenants express or implied
 Sections 276 to 278 apply not only to covenants expressed in an instrument, but also to covenants implied, by this Act or any other enactment, in an instrument or in a short-term lease not made in writing.
@@ -2718,7 +2722,7 @@ An instrument that transfers or assigns land subject to an encumbrance contains 
   (a) the transferee or assignee was acquiring the land in the capacity of administrator or trustee; and
   (b) the transferor or assignor received written notice to that effect before the relevant deadline.
 (2) The relevant deadline means the execution of the instrument or, if the instrument is one for the carrying out of an agreement for the sale and purchase of the land, the execution of the agreement by the transferor or assignor.
-(3) A transferee or assignee to whom this section applies is liable on the covenant implied by section 289 not personally, but only to the extent of the assets of the estate or trust in the administrator's or the trustee's hands and available for meeting the obligations under the covenant.
+(3) A transferee or assignee to whom this section applies is liable on the covenant implied by section 289 not personally, but only to the extent of the assets of the estate or trust in the administrator’s or the trustee’s hands and available for meeting the obligations under the covenant.
 
 ### Subpart 3 — Easements, profits, and access lots
 
@@ -2729,12 +2733,12 @@ An instrument that transfers or assigns land subject to an encumbrance contains 
 (2) An easement in gross burdens the land of the covenantor.
 (3) In particular, an easement in gross over land binds—
   (a) the covenantor; and
-  (b) the covenantor's successors in title; and
-  (c) any person claiming through the covenantor or the covenantor's successors in title, including an occupier for the time being of the burdened land.
+  (b) the covenantor’s successors in title; and
+  (c) any person claiming through the covenantor or the covenantor’s successors in title, including an occupier for the time being of the burdened land.
 (4) The benefit of an easement in gross over land is capable of being assigned.
 
 ### 292 Easement includes profit, etc, in sections 293 to 296
-In sections 293 to 296, easement includes a profit a prendre or other incorporeal right.
+In sections 293 to 296, easement includes a profit à prendre or other incorporeal right.
 
 ### 293 Easements, etc, granted for fixed term: benefits
 (1) This section applies only after a person (the grantor) has made a grant, for a fixed term, of an easement, and only to—
@@ -2748,7 +2752,7 @@ In sections 293 to 296, easement includes a profit a prendre or other incorporea
 
 ### 294 Easements, etc, granted for fixed term: burden
 (1) This section applies to an easement granted by a person (the grantor) for a fixed term.
-(2) The grantor's obligations under the easement burden the estate in the land out of which it was granted.
+(2) The grantor’s obligations under the easement burden the estate in the land out of which it was granted.
 (3) In particular, those obligations may be enforced against the holder for the time being of that estate by the person entitled for the time being to the easement.
 
 ### 295 Easements, etc, granted for fixed term: apportionment after severance of reversion as regards land or estate
@@ -2771,7 +2775,7 @@ In sections 293 to 296, easement includes a profit a prendre or other incorporea
 **Vehicular rights of way**
 
 ### 297 Covenants implied in grant of vehicular right of way
-(1) Every grant of a vehicular right of way contains the implied covenants in Schedule 5, except in so far as all or any of those implied covenants are negatived, varied, or extended as provided in subsection (2)
+(1) Every grant of a vehicular right of way contains the implied covenants in Schedule 5, except in so far as all or any of those implied covenants are negatived, varied, or extended as provided in subsection (2).
 (2) For a vehicular right of way (whether granted before, on, or after 1 January 2008), those implied covenants may be negatived, varied, or extended by—
   (a) the instrument, contract, or arrangement creating the vehicular right of way; or
   (b) the express terms of any other instrument; or
@@ -2813,41 +2817,41 @@ In sections 293 to 296, easement includes a profit a prendre or other incorporea
 (2) Unless otherwise provided, the easement continues for the benefit of the person entitled, even though any buildings erected on the benefited land may be altered, or may be destroyed and replaced by other buildings.
 (3) A right conferred by the easement in respect of the defined area is not infringed by the erection on the burdened land of buildings of any height if no part of any building erected on that land encroaches on that area.
 
-### Subpart 4 — Covenants: operation
+### Subpart 4 — Covenants: Operation
 
 ### 301 Construction of covenants relating to land: benefits
 (1) This section applies to a covenant benefiting land of the covenantee, whether expressed in an instrument or implied by this Act or any other enactment in an instrument, and whether a positive covenant or a restrictive covenant.
 (2) Unless a contrary intention appears in the instrument, the covenant is enforceable by—
   (a) the covenantee; and
-  (b) the covenantee's successors in title; and
-  (c) persons claiming through the covenantee or the covenantee's successors in title.
-(3) For the purposes of this section, the covenantee's successors in title include an occupier for the time being of the benefited land.
+  (b) the covenantee’s successors in title; and
+  (c) persons claiming through the covenantee or the covenantee’s successors in title.
+(3) For the purposes of this section, the covenantee’s successors in title include an occupier for the time being of the benefited land.
 
 ### 302 Construction of covenants relating to land: burdens
 (1) This section applies to a covenant burdening land of the covenantor, whether expressed in an instrument or implied by this Act or any other enactment in an instrument, and whether a positive covenant or a restrictive covenant.
 (2) Unless a contrary intention appears in the instrument, the covenant binds—
   (a) the covenantor; and
-  (b) the covenantor's successors in title; and
-  (c) persons claiming through the covenantor or the covenantor's successors in title.
+  (b) the covenantor’s successors in title; and
+  (c) persons claiming through the covenantor or the covenantor’s successors in title.
 (3) For the purposes of this section,—
-  (a) the covenantor's successors in title include an occupier for the time being of the burdened land:
+  (a) the covenantor’s successors in title include an occupier for the time being of the burdened land:
   (b) a restrictive covenant may relate to a subject matter not in existence when the covenant is made.
 
 ### 303 Legal effect of covenants running with land
 (1) This section applies to a restrictive covenant, and also to a positive covenant coming into operation on or after 1 January 1987 (which is the application date specified in section 64A(6) of the Property Law Act 1952, as inserted by section 3 of the Property Law Amendment Act 1986), in either case whether expressed in an instrument or implied by this Act or any other enactment in an instrument, if—
-  (a) the covenant burdens land of the covenantor and is intended to benefit the owner for the time being of the covenantee's land; and
+  (a) the covenant burdens land of the covenantor and is intended to benefit the owner for the time being of the covenantee’s land; and
   (b) there is no privity of estate between the covenantor and the covenantee.
 (2) Every covenant to which this section applies, unless a contrary intention appears, is binding in equity on—
-  (a) every person who becomes the owner of the burdened land (whether by acquisition from the covenantor or from any of the covenantor's successors in title, and whether or not for valuable consideration, and whether by operation of law or otherwise); and
+  (a) every person who becomes the owner of the burdened land (whether by acquisition from the covenantor or from any of the covenantor’s successors in title, and whether or not for valuable consideration, and whether by operation of law or otherwise); and
   (b) every person who is for the time being the occupier of the burdened land.
-(3) Every covenant to which this section applies, unless a contrary intention appears, ceases to be binding on a person referred to in subsection (2) when that person ceases to be the owner or the occupier of the burdened land but without prejudice to that person's liability for any breach of the covenant arising before that person ceased to be the owner or occupier of the land.
+(3) Every covenant to which this section applies, unless a contrary intention appears, ceases to be binding on a person referred to in subsection (2) when that person ceases to be the owner or the occupier of the burdened land but without prejudice to that person’s liability for any breach of the covenant arising before that person ceased to be the owner or occupier of the land.
 (4) For the purposes of this section, a contrary intention must appear in the instrument in which the covenant is expressed or implied.
 (5) This section overrides any other rule of law or equity, but is subject to sections 304 to 306.
 
 ### 304 Whether, and to what extent, administrator bound by covenant to which section 303 applies
-(1) This section applies to an administrator of the estate of a person who was bound, at the time of that person's death, by a positive covenant to which section 303 applies.
+(1) This section applies to an administrator of the estate of a person who was bound, at the time of that person’s death, by a positive covenant to which section 303 applies.
 (2) The administrator is bound by the covenant—
-  (a) only if assets of the estate are available in the administrator's hands for meeting the obligations under the covenant; and
+  (a) only if assets of the estate are available in the administrator’s hands for meeting the obligations under the covenant; and
   (b) if so, only to the extent that they are so available.
 
 ### 305 How rights under covenant to which section 303 applies rank in relation to other unregistered interests
@@ -2876,7 +2880,7 @@ Section 303 does not limit or affect the following:
 (5) Notification of a covenant under subsection (3) makes the covenant an interest of the kind specified in subsection (4), but does not in any other way give the covenant any greater operation than it would otherwise have.
 (6) Covenant, in subsections (4) and (5), includes an instrument purporting to modify the operation, and a modification or revocation, of a covenant notified under subsection (3)(a).
 
-### Subpart 5 — Easements, covenants, and access lots: enforcement, modification, and extinguishment
+### Subpart 5 — Easements, covenants, and access lots: Enforcement, modification, and extinguishment
 
 **Enforcement of covenants by giving notice of work required**
 
@@ -2931,7 +2935,7 @@ Every notice served under section 308 must—
 
 ### 314 Duties of court making order under section 313(1)(e) on sharing of cost of work under vehicular right of way
 (1) This section applies to a court making an order under section 313(1)(e) in relation to the sharing among 2 or more persons of the cost of work that is required under the terms of a vehicular right of way.
-(2) The court must assume, in the absence of evidence to the contrary, that every person entitled makes full and reasonable use, of the right of way.
+(2) The court must assume, in the absence of evidence to the contrary, that every person entitled makes full and reasonable use of the right of way.
 (3) However, the court must also take into account any disproportionate (though still reasonable) use of the right of way by any person entitled.
 
 ### 315 Application of sections 313 and 317, etc, to access lots
@@ -2973,9 +2977,9 @@ Sections 313, 314, and 316 to 318 apply, subject to the following modifications,
 
 ### 319 Owner or occupier of land may apply to court for order authorising entry onto or over neighbouring land
 (1) A person may apply to a court for an order under section 320 if the person is an owner or occupier of any land who wishes to enter onto or over any neighbouring land for any of the following purposes:
-  (a) to erect, repair, alter, add to, paint, or demolish the whole or any part of any structure on the applicant's land; or
-  (b) to do any other necessary or desirable thing in relation to the applicant's land.
-(2) An application under subsection (1) may be made only if the applicant has given at least 5 working days' written notice of intention to apply for the order to—
+  (a) to erect, repair, alter, add to, paint, or demolish the whole or any part of any structure on the applicant’s land; or
+  (b) to do any other necessary or desirable thing in relation to the applicant’s land.
+(2) An application under subsection (1) may be made only if the applicant has given at least 5 working days’ written notice of intention to apply for the order to—
   (a) the owner of the neighbouring land; and
   (b) if the owner is not the occupier of the neighbouring land, the occupier of that land.
 (3) The written notice required by subsection (2) must adequately inform the owner and, if applicable, the occupier of the neighbouring land of all of the following matters:
@@ -2983,7 +2987,7 @@ Sections 313, 314, and 316 to 318 apply, subject to the following modifications,
   (b) how the work is proposed to be undertaken:
   (c) the time during which the work is proposed to be undertaken:
   (d) the measures that are proposed to be taken to maintain adequate access to the neighbouring land.
-(4) In this section and section 320, neighbouring land means any land for which the order is sought whether or not it adjoins the applicant's land.
+(4) In this section and section 320, neighbouring land means any land for which the order is sought whether or not it adjoins the applicant’s land.
 
 ### 320 Powers of court making order authorising entry onto or over neighbouring land
 (1) On an application under section 319(1), the court may make an order authorising the applicant to do either or both of the following things:
@@ -3126,7 +3130,7 @@ In determining an application for an order under section 328, the court must hav
   (a) do either of the following:
     (i) declare any land that is to be vested in any person to be free of any mortgage or other encumbrance; or
     (ii) vary, to the extent that the court considers necessary, any mortgage, lease, or contract relating to that land:
-  (b) declare that any land that is to be vested in any person is to become subject to the terms, conditions, liabilities, and encumbrances on and subject to which the owner of the landlocked land holds that land, and accordingly that every instrument affecting the owner's rights and obligations in respect of the landlocked land is to apply to the vested land as if that land had been expressly referred to in that instrument.
+  (b) declare that any land that is to be vested in any person is to become subject to the terms, conditions, liabilities, and encumbrances on and subject to which the owner of the landlocked land holds that land, and accordingly that every instrument affecting the owner’s rights and obligations in respect of the landlocked land is to apply to the vested land as if that land had been expressly referred to in that instrument.
 (3) Part 10 of the Resource Management Act 1991 does not apply to a transfer, exchange, or other disposition of land giving effect to an order of the court under section 328.
 (4) Section 348 of the Local Government Act 1974 does not apply to any easement granted in an order of the court under section 328.
 (5) An order made under section 328 may be registered as an instrument under, as the case requires,—
@@ -3156,7 +3160,7 @@ This subpart applies to—
   (a) constitutes a legal nuisance; and
   (b) could be the subject of a proceeding otherwise than under this section.
 (3) Subsection (4) applies if—
-  (a) the applicant's land may be used for residential purposes under rules in the relevant proposed or operative district plan; and
+  (a) the applicant’s land may be used for residential purposes under rules in the relevant proposed or operative district plan; and
   (b) the application is made in relation to the use or enjoyment of the land for those purposes; but
   (c) no building intended for residential purposes has been erected on the land.
 (4) The court may not make an order under subsection (1) unless satisfied that the building will be erected on the land within a reasonable time and, if the court makes the order,—
@@ -3171,15 +3175,15 @@ This subpart applies to—
 (1) In determining an application under section 334, the court may make any order under section 333 that it thinks fit if it is satisfied that—
   (a) the order is fair and reasonable; and
   (b) the order is necessary to remove, prevent, or prevent the recurrence of—
-    (i) an actual or potential risk to the applicant's life or health or property, or the life or health or property of any other person lawfully on the applicant's land; or
-    (ii) an undue obstruction of a view that would otherwise be enjoyed from the applicant's land, if that land may be used for residential purposes under rules in a relevant proposed or operative district plan, or from any building erected on that land and used for residential purposes; or
-    (iii) an undue interference with the use of the applicant's land for the purpose of growing any trees or crops; or
-    (iv) an undue interference with the use or enjoyment of the applicant's land by reason of the fall of leaves, flowers, fruit, or branches, or shade or interference with access to light; or
-    (v) an undue interference with any drain or gutter on the applicant's land, by reason of its obstruction by fallen leaves, flowers, fruit, or branches, or by the root system of a tree; or
-    (vi) any other undue interference with the reasonable use or enjoyment of the applicant's land for any purpose for which it may be used under rules in the relevant proposed or operative district plan; and
-  (c) a refusal to make the order would cause hardship to the applicant or to any other person lawfully on the applicant's land that is greater than the hardship that would be caused to the defendant or any other person by the making of the order.
+    (i) an actual or potential risk to the applicant’s life or health or property, or the life or health or property of any other person lawfully on the applicant’s land; or
+    (ii) an undue obstruction of a view that would otherwise be enjoyed from the applicant’s land, if that land may be used for residential purposes under rules in a relevant proposed or operative district plan, or from any building erected on that land and used for residential purposes; or
+    (iii) an undue interference with the use of the applicant’s land for the purpose of growing any trees or crops; or
+    (iv) an undue interference with the use or enjoyment of the applicant’s land by reason of the fall of leaves, flowers, fruit, or branches, or shade or interference with access to light; or
+    (v) an undue interference with any drain or gutter on the applicant’s land, by reason of its obstruction by fallen leaves, flowers, fruit, or branches, or by the root system of a tree; or
+    (vi) any other undue interference with the reasonable use or enjoyment of the applicant’s land for any purpose for which it may be used under rules in the relevant proposed or operative district plan; and
+  (c) a refusal to make the order would cause hardship to the applicant or to any other person lawfully on the applicant’s land that is greater than the hardship that would be caused to the defendant or any other person by the making of the order.
 (2) In determining whether to make an order under section 333, the court must—
-  (a) have regard to all the relevant circumstances (including Maori cultural values and, if required, the matters specified in section 336); and
+  (a) have regard to all the relevant circumstances (including Māori cultural values and, if required, the matters specified in section 336); and
   (b) if applicable, take into account the fact that the risk, obstruction, or interference complained of was already in existence when the applicant became the owner or occupier of the land.
 (3) Despite subsection (2)(b), an order may be made under section 333 if, in all the circumstances, the court thinks fit.
 
@@ -3210,7 +3214,7 @@ This subpart applies to—
   (b) at intervals specified in the order.
 (3) Despite subsection (2), a person who is subject to an order of the kind referred to in that subsection may apply to the court for the order to be varied if there has been a change in the circumstances that, had the change occurred before the making of that order, could reasonably be expected to have resulted in the order being different from the one that was made.
 (4) The court may, on an application made under subsection (3), vary the order to reflect the change in circumstances that has occurred since the order was made.
-(5) If the order is not duly complied with within the time specified in this section or in the order, or subsequently allowed by the court, the applicant, with the agreement of the defendant or with the leave of the court, may, in person, or through the applicant's employees, agents, or contractors, enter onto the defendant's land and carry out any work necessary to give effect to the order.
+(5) If the order is not duly complied with within the time specified in this section or in the order, or subsequently allowed by the court, the applicant, with the agreement of the defendant or with the leave of the court, may, in person, or through the applicant’s employees, agents, or contractors, enter onto the defendant’s land and carry out any work necessary to give effect to the order.
 (6) If work is done by or through the applicant under subsection (5), then, unless the parties otherwise agree or the court otherwise orders, the applicant is entitled to recover from the defendant the whole of the reasonable cost of the work necessary to give effect to the order.
 (7) In granting leave to an applicant under subsection (5), the court may impose any conditions it thinks fit in relation to—
   (a) the time by which, and the manner in which, any work necessary to give effect to the order must be carried out:
@@ -3269,7 +3273,7 @@ A further order referred to in section 339(4) is an order that is made in additi
   (b) fixes a reserve price on any sale of the property:
   (c) directs how the expenses of any sale or division of the property are to be borne:
   (d) directs how the proceeds of any sale of the property, and any interest on the purchase amount, are to be divided or applied:
-  (e) allows a co-owner, on a sale of the property, to make an offer for it, on any teens the court considers reasonable concerning—
+  (e) allows a co-owner, on a sale of the property, to make an offer for it, on any terms the court considers reasonable concerning—
     (i) the non-payment of a deposit; or
     (ii) the setting-off or accounting for all or part of the purchase price instead of paying it in cash:
   (f) requires the payment by any person of a fair occupation rent for all or any part of the property:
@@ -3278,7 +3282,7 @@ A further order referred to in section 339(4) is an order that is made in additi
 ### Subpart 6 — Setting aside of dispositions that prejudice creditors
 
 ### 344 Purpose of this subpart
-The purpose of this subpart is to enable a court to order that property acquired or received under or through certain prejudicial dispositions made by a debtor (or its value) be restored for the benefit of creditors (but without the order having effect so as to increase the value of securities held by creditors over the debtor's property).
+The purpose of this subpart is to enable a court to order that property acquired or received under or through certain prejudicial dispositions made by a debtor (or its value) be restored for the benefit of creditors (but without the order having effect so as to increase the value of securities held by creditors over the debtor’s property).
 
 ### 345 Interpretation
 (1) For the purposes of this subpart,—
@@ -3293,7 +3297,7 @@ The purpose of this subpart is to enable a court to order that property acquired
     (c) the grant or creation, at law or in equity, of a lease, mortgage, charge, servitude, licence, power, or other right, estate, or interest in or over property:
     (d) the release, discharge, surrender, forfeiture, or abandonment, at law or in equity, of a debt, contract, or thing in action, or of a right, power, estate, or interest in or over any property (and for this purpose a debt, or any other right, estate, or interest, must be treated as having been released or surrendered when it has become irrecoverable or unenforceable by action through the lapse of time):
     (e) the exercise of a general power of appointment in favour of a person other than the donee of the power:
-    (f) a transaction entered into by a person with intent by entering into the transaction to diminish, directly or indirectly, the value of the person's own estate and to increase the value of the estate of another person
+    (f) a transaction entered into by a person with intent by entering into the transaction to diminish, directly or indirectly, the value of the person’s own estate and to increase the value of the estate of another person
   - **proceeds** , in relation to any property, means—
     (a) the proceeds of the sale or exchange of the property; and
     (b) if the property is money, other property bought with that money
@@ -3306,7 +3310,7 @@ The purpose of this subpart is to enable a court to order that property acquired
 (2) This subsection applies only to a debtor who—
   (a) was insolvent at the time, or became insolvent as a result, of making the disposition; or
   (b) was engaged, or was about to engage, in a business or transaction for which the remaining assets of the debtor were, given the nature of the business or transaction, unreasonably small; or
-  (c) intended to incur, or believed, or reasonably should have believed, that the debtor would incur, debts beyond the debtor's ability to pay.
+  (c) intended to incur, or believed, or reasonably should have believed, that the debtor would incur, debts beyond the debtor’s ability to pay.
 
 ### 347 Application for order under section 348
 (1) Only the following may apply for an order under section 348:
@@ -3321,14 +3325,14 @@ The purpose of this subpart is to enable a court to order that property acquired
 (1) A court may make an order under this section—
   (a) on an application for the purpose (made and served in accordance with section 347); and
   (b) if satisfied that the applicant for the order has been prejudiced by a disposition of property to which this subpart applies.
-(2) The order must do 1, but not both, of the following:
+(2) The order must do one, but not both, of the following:
   (a) vest the property that is the subject of the disposition in the person (for any applicable purpose) specified in section 350:
   (b) require a person who acquired or received property through the disposition to pay, in respect of that property, reasonable compensation to the person (for any applicable purpose) specified in section 350.
 (3) If the order does what is specified in subsection (2)(a), it may also require a person who acquired or received property through the disposition to physically restore some or all of that property that is tangible personal property to 1 or more persons specified in the order.
 (4) Person who acquired or received property through the disposition means a person who acquired or received property—
   (a) under the disposition; or
   (b) through a person who acquired or received property under the disposition.
-(5) The order must not have effect so as to increase the value of a security held by a creditor over the debtor's property.
+(5) The order must not have effect so as to increase the value of a security held by a creditor over the debtor’s property.
 (6) Subsection (5) overrides subsection (2) and section 350.
 (7) This section is subject to section 349.
 
@@ -3338,7 +3342,7 @@ The purpose of this subpart is to enable a court to order that property acquired
   (b) the person acquired the property through a person who acquired it in the circumstances specified in paragraph (a).
 (2) A court may decline to make an order under section 348, or may make an order under section 348 with limited effect or subject to any conditions it thinks fit, against a person who received property in respect of which a court could otherwise make the order and who proves that—
   (a) the person received the property in good faith and without knowledge of the fact that it had been the subject of a disposition to which this subpart applies; and
-  (b) the person's circumstances have so changed since the receipt of the property that it is unjust to order that the property be restored, or reasonable compensation be paid, in either case in part or in full.
+  (b) the person’s circumstances have so changed since the receipt of the property that it is unjust to order that the property be restored, or reasonable compensation be paid, in either case in part or in full.
 
 ### 350 Person in or to whom order under section 348 vests property or makes compensation for it payable
 (1) Property vested, or compensation to be paid, by or under an order under section 348, vests in, or is payable to, the following person:
@@ -3346,8 +3350,8 @@ The purpose of this subpart is to enable a court to order that property acquired
   (b) the debtor, if the debtor is a company in liquidation or an overseas company being liquidated under section 342 of the Companies Act 1993; or
   (c) in every other case, the person directed by the court under subsection (2).
 (2) A direction under this subsection must specify that the property vests in, or the compensation is payable to, the following person (for the following purpose, if any):
-  (a) a trustee for the debtor's creditors; or
-  (b) the debtor (for the purpose only of enabling the carrying out of any execution or similar process against the debtor or the administration of a future bankruptcy or liquidation of the debtor or arrangement with the debtor's creditors).
+  (a) a trustee for the debtor’s creditors; or
+  (b) the debtor (for the purpose only of enabling the carrying out of any execution or similar process against the debtor or the administration of a future bankruptcy or liquidation of the debtor or arrangement with the debtor’s creditors).
 (3) On or after making a direction under subsection (2)(a) the court may, on its own initiative or on an application for the purpose, make any further orders it thinks fit concerning all or any of the following:
   (a) the administration of the property or amounts paid by way of compensation; and
   (b) proofs of debt; and
@@ -3374,7 +3378,7 @@ Section 353 applies to a notice, cross-notice, or other document required or aut
   (b) section 118 (calling up of mortgage over any kind of property if interest has been accepted after expiry of term):
   (c) sections 119, 122, 128, and 132 (intention of mortgagee of land or goods to exercise power of sale, power to enter into possession, or right to call up mortgage amounts under an acceleration clause, including a notice to covenantor):
   (d) sections 245 and 246 (intention of lessor or licensee to cancel lease or licence relating to land for breach of covenant or condition):
-  (e) section 261 (lessor's notice of a refusal to grant a renewal or to sell a reversion to a lessee or licensee of land).
+  (e) section 261 (lessor’s notice of a refusal to grant a renewal or to sell a reversion to a lessee or licensee of land).
 
 ### 353 How documents in section 352 to be given or served
 (1) A document to which this section applies (see section 352) is not adequately given or served unless it is given to, or served on,—
@@ -3398,7 +3402,7 @@ Section 353 applies to a notice, cross-notice, or other document required or aut
 ### 355 Person to or on whom document to be given or served in special cases
 (1) This section applies if a notice, cross-notice, or other document (the document) is required or authorised to be given to, or served on, a person (the person) by this Act.
 (2) If the person is out of New Zealand, the document may be given to, or served on, an agent in New Zealand of the person.
-(3) If the person has died, the document must be given to, or served on, the administrator of the person's estate.
+(3) If the person has died, the document must be given to, or served on, the administrator of the person’s estate.
 (4) If the person is a bankrupt, the document must be given to, or served on, the Official Assignee.
 (5) If a property order under the Protection of Personal and Property Rights Act 1988 has been made in respect of the person, the document must be given to, or served on, a person appointed to act as manager of the property.
 (6) If the person is a company in liquidation, or is an overseas company being liquidated under section 342 of the Companies Act 1993, the document must be given to, or served on, the liquidator.
@@ -3427,10 +3431,10 @@ In sections 353 and 355, agent, in relation to a person who is overseas, the Sec
 
 ### 359 Manner of giving or serving notices
 (1) A notice, cross-notice, or other document is given to, or served on, an individual person (including an individual person referred to in section 355) when it is, either in New Zealand or elsewhere,—
-  (a) delivered by registered post to that person or that person's agent; or
+  (a) delivered by registered post to that person or that person’s agent; or
   (b) received by that person in accordance with section 360.
 (2) In this section,—
-  - **agent** , in relation to a person to whom an envelope or package is to be delivered (), means a person who has actual or ostensible authority to take delivery, on person A's behalf, of an envelope or package—
+  - **agent** , in relation to a person to whom an envelope or package is to be delivered (), means a person who has actual or ostensible authority to take delivery, on person A’s behalf, of an envelope or package—
     (a) directed to person A by name; and
     (b) purporting to contain a document
   - **registered post** includes any service that—
@@ -3440,7 +3444,7 @@ In sections 353 and 355, agent, in relation to a person who is overseas, the Sec
 ### 360 Receipt for purposes of section 359
 A notice, cross-notice, or other document is received by a person for the purposes of section 359 when—
   (a) it is handed to, and accepted by, that person; or
-  (b) if that person does not accept it when it is handed to him or her, it is put down in that person's presence and brought to his or her attention; or
+  (b) if that person does not accept it when it is handed to him or her, it is put down in that person’s presence and brought to his or her attention; or
   (c) it is otherwise received in writing by that person.
 
 ### 361 Time of service if more than 1 person to be served
@@ -3451,14 +3455,14 @@ A notice, cross-notice, or other document is received by a person for the purpos
   (a) the last of the persons concerned; or
   (b) the last member of the relevant class or classes.
 
-**District Courts' jurisdiction, regulations, consequential amendments, repeals, etc, and savings and transitional provisions**
+**District Courts’ jurisdiction, regulations, consequential amendments, repeals, etc, and savings and transitional provisions**
 
 ### 362 Jurisdiction of District Courts
 (1) Every District Court has jurisdiction to hear and determine the following matters, or to make the following orders:
   (a) a question or dispute concerning the existence or effect of an easement or a covenant, so far as it can be resolved by the making of an order under section 313:
   (b) an order under section 317 modifying or extinguishing an easement or covenant:
   (c) an order under section 320 authorising entry onto or over neighbouring land:
-  (d) an order under section 323 granting relief in respect of a wrongly placed structure situated on a single piece, or on 2 or more pieces, of land, if the value of that single piece, or of 1 of those 2 or more pieces, of land (excluding the value of the wrongly placed structure) does not exceed the amount to which the jurisdiction of District Courts is limited by section 31 of the District Courts Act 1947:
+  (d) an order under section 323 granting relief in respect of a wrongly placed structure situated on a single piece, or on 2 or more pieces, of land, if the value of that single piece, or of one of those 2 or more pieces, of land (excluding the value of the wrongly placed structure) does not exceed the amount to which the jurisdiction of District Courts is limited by section 31 of the District Courts Act 1947:
   (e) an order under section 333 for the removal or trimming of a tree or the removal or alteration of a structure:
   (f) an order under section 357 dispensing with, or directing the manner of, service.
 (2) This section applies despite anything to the contrary in the District Courts Act 1947.
@@ -3469,7 +3473,7 @@ A notice, cross-notice, or other document is received by a person for the purpos
 The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the forms of notices required by sections 119 and 128:
   (b) prescribing information to be included in the reports required by sections 162 and 163:
-  (c) prescribing conditions of sale to apply in respect of sales under section 187, and providing for the variation of conditions of that kind by the Registrar, whether on the application of the mortgagee or on the Registrar's own motion:
+  (c) prescribing conditions of sale to apply in respect of sales under section 187, and providing for the variation of conditions of that kind by the Registrar, whether on the application of the mortgagee or on the Registrar’s own motion:
   (d) prescribing the application fee payable under section 194(1)(a), and the minimum and maximum fees payable under section 194(1)(c):
   (e) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 
@@ -3481,7 +3485,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
 (1) The enactments to which this section applies cease to have effect as part of the law of New Zealand.
 (2) This section applies to the enactments specified under the heading Enactments Relating to Property in Schedule 1 of the Imperial Laws Application Act 1988, namely—
   (a) (1267) 52 Hen 3 (The Statute of Marlborough), c 23:
-  (b) (1289-90) 18 Edw 1, St 1—(Quia Emptores), c 1, c 3:
+  (b) (1289–90) 18 Edw 1, St 1—(Quia Emptores), c 1, c 3:
   (c) (1539) 31 Hen 8, c 1—The Partition Act 1539:
   (d) (1540) 32 Hen 8, c 32—The Partition Act 1540:
   (e) (1540) 32 Hen 8, c 34—The Grantees of Reversions Act 1540, except section 3:
@@ -3543,7 +3547,12 @@ Until the commencement of section 13 of the Insolvency (Cross-border) Act 2006, 
 
 ## Schedule 1 — Form of certificate of non-revocation of power of attorney
 
+| *Delete if inapplicable**If donor is a body corporate, state place of registered office or principal place of business of donor and, if that is not in New Zealand, state the country in which the principal place of business is situated.***Include if donor is a body corporate. |
+| --- |
+
 ## Schedule 2 — Covenants implied in mortgages
+
+### Part 1 — Covenants, conditions, and powers implied in mortgages over land
 
 ### 1 Payment of principal amount and interest
 (1) The mortgagor will pay to the mortgagee the principal amount secured by the mortgage at the time and in the manner specified in the mortgage or any other instrument.
@@ -3626,9 +3635,9 @@ The mortgagor will—
     (i) a change in the legal or beneficial ownership of any of its shares:
     (ii) an issue of new capital:
     (iii) an alteration of voting rights or other rights attaching to any of its shares; or
-  (h) the mortgagor is a body corporate and a receiver or statutory manager is appointed for all, or substantially all, of the assets of the mortgagor or for the mortgaged land or any part of it; or—
+  (h) the mortgagor is a body corporate and a receiver or statutory manager is appointed for all, or substantially all, of the assets of the mortgagor or for the mortgaged land or any part of it; or
   (i) the whole or any part of the mortgaged land or any interest in the land is sold in exercise of a power of sale in any mortgage over the land.
-(2) If, under subclause (1), the mortgagee calls up as payable amounts secured by the mortgage, the mortgagee may require the mortgagor to pay 1 month's premium interest calculated at the agreed rate (if any) payable on the principal amount secured by the mortgage (in addition to all other interest payable under the mortgage to the date of payment of all amounts secured by the mortgage).
+(2) If, under subclause (1), the mortgagee calls up as payable amounts secured by the mortgage, the mortgagee may require the mortgagor to pay 1 month’s premium interest calculated at the agreed rate (if any) payable on the principal amount secured by the mortgage (in addition to all other interest payable under the mortgage to the date of payment of all amounts secured by the mortgage).
 (3) Subclause (2) does not apply in relation to a consumer credit contract (as defined in the Credit Contracts and Consumer Finance Act 2003).
 (4) No acquiescence, delay, or failure to act by the mortgagee after acquiring knowledge of any failure of the mortgagor or other event referred to in subclause (1) prejudices, or operates as a waiver of, the rights of the mortgagee under this clause.
 (5) The mortgagee may agree in writing to waive the rights of the mortgagee under this clause in relation to a particular failure of the mortgagor or a particular event referred to in subclause (1).
@@ -3651,7 +3660,7 @@ If the mortgagor fails to pay any amounts secured by the mortgage on the due dat
   (a) the mortgagee is entitled to make to the purchaser all allowances or refunds that the purchaser may be entitled to receive, at law or in equity, upon the cancellation of the contract; and
   (b) the mortgagee is not responsible for any act or thing done or omitted by any purchaser; and
   (c) the mortgagee is not obliged to enforce against the purchaser any right or power contained or implied in the contract of sale.
-(5) The mortgagee's costs and expenses arising out of the cancellation or the exercise or any attempted exercise by the mortgagee of rights and powers against any purchaser will be borne by the mortgagor.
+(5) The mortgagee’s costs and expenses arising out of the cancellation or the exercise or any attempted exercise by the mortgagee of rights and powers against any purchaser will be borne by the mortgagor.
 
 ### 14 Power to subdivide
 (1) For the purpose of exercising the power conferred by clause 13 to sell the whole or any part of the mortgaged land, the mortgagee (without the need to enter into possession of the land as mortgagee) or any receiver appointed by the mortgagee under the mortgage may subdivide the land.
@@ -3679,7 +3688,7 @@ If the mortgagor fails to pay any amounts secured by the mortgage on the due dat
 (2) The mortgagee may call up as payable all of the principal amount, interest, and other amounts for the time being secured by the mortgage (even if the time or times appointed for payment may not have arrived), in the same manner and subject to the same conditions as if the power to do so were conferred by clause 11, if either—
   (a) the principal unit is damaged or destroyed so that it is no longer habitable or usable; or
   (b) an administrator is appointed by the High Court under section 40 of the Unit Titles Act 1972.
-(3) The mortgagor's voting rights under the Unit Titles Act 1972 and the rules of the body corporate (whether at a meeting or by entry in the minute book) may be exercised by the mortgagee, at the expense of the mortgagor.
+(3) The mortgagor’s voting rights under the Unit Titles Act 1972 and the rules of the body corporate (whether at a meeting or by entry in the minute book) may be exercised by the mortgagee, at the expense of the mortgagor.
 (4) For the purposes of subclause (3), the mortgagor irrevocably appoints the mortgagee as the attorney of the mortgagor.
 (5) If any resolution put at a meeting of the body corporate requires a unanimous vote for its passing,—
   (a) the mortgagor will not vote on it without the prior consent of the mortgagee; and
@@ -3692,7 +3701,7 @@ If the mortgagor fails to pay any amounts secured by the mortgage on the due dat
   (a) will keep the land clear of all blackberry, gorse, other noxious plants, and animal and insect pests:
   (b) will take all reasonable steps to control disease in crops, pastures, trees, plants, and any stock on the land:
   (c) will farm and manage the land in accordance with established farm management practices and keep properly cultivated any part of the land that is or has usually been cultivated:
-  (d) will not, without the mortgagee's prior written consent, make any material change in the type of farming conducted on the land.
+  (d) will not, without the mortgagee’s prior written consent, make any material change in the type of farming conducted on the land.
 (2) Consent under subclause (1)(d) may not be unreasonably withheld.
 
 ### 17 Covenants implied in mortgages of leasehold estate or interest in land
@@ -3732,10 +3741,12 @@ The mortgagee will, on payment by the mortgagor of all amounts and the performan
   (d) until the proper and reasonable costs of their production have first been paid to the mortgagee.
 (2) Subclause (1) does not apply if the mortgagee is required to produce the certificate of title or other instruments of title to the mortgaged land or the mortgage by a notice issued by the Registrar-General under section 211 of the Land Transfer Act 1952.
 
-### 20 Mortgagor's liability for costs
+### 20 Mortgagor’s liability for costs
 (1) The mortgagor will pay all costs and expenses of and incidental to the arranging and preparation of the mortgage and any variation or discharge of the mortgage or any transfer of the mortgage or the mortgaged land instead of a discharge.
-(2) If and as often as the mortgagor fails to pay any amounts secured by the mortgage on the due date, or fails to perform or observe any covenant expressed or implied in the mortgage, the mortgagor will pay the costs of the mortgagee (as between solicitor and client) of and incidental to the enforcement or attempted enforcement by the mortgagee of the mortgagee's rights, remedies, and powers under the mortgage.
+(2) If and as often as the mortgagor fails to pay any amounts secured by the mortgage on the due date, or fails to perform or observe any covenant expressed or implied in the mortgage, the mortgagor will pay the costs of the mortgagee (as between solicitor and client) of and incidental to the enforcement or attempted enforcement by the mortgagee of the mortgagee’s rights, remedies, and powers under the mortgage.
 (3) The costs of the mortgagee under subclause (2) include the costs of giving or attempted giving of any notice required by the Property Law Act 2007 and the costs of inspection and valuation of the mortgaged land.
+
+### Part 2 — Covenants, conditions, and powers implied in mortgages over goods
 
 ### 1 Payment of principal amount and interest
 (1) The mortgagor will pay to the mortgagee the principal amount secured by the mortgage at the time and in the manner specified in the mortgage or any other instrument.
@@ -3790,7 +3801,7 @@ The mortgagee may at all reasonable times, either personally or by agents, enter
   (b) all amounts expended by the mortgagee in lawfully exercising or enforcing, or lawfully attempting to exercise or enforce, any power, right, or remedy contained or implied in the mortgage.
 (4) In subclause (3), upon demand means upon demand for payment of the amounts referred to in that subclause being made to the mortgagor by a notice in writing signed by the mortgagee or by an agent of the mortgagee.
 
-### 8 Mortgagor's right to retain possession of mortgaged goods
+### 8 Mortgagor’s right to retain possession of mortgaged goods
 The mortgagor may retain possession of the mortgaged goods unless and until—
   (a) the mortgagor fails to pay any amounts secured by the mortgage on the due date; or
   (b) the mortgagor fails to perform or observe any covenant expressed or implied in the mortgage; or
@@ -3810,7 +3821,7 @@ The mortgagor may retain possession of the mortgaged goods unless and until—
     (iii) an alteration of voting rights or other rights attaching to any of its shares; or
   (g) the mortgagor is a body corporate and a receiver or statutory manager is appointed for all, or substantially all, of the assets of the mortgagor or for the mortgaged goods or any of them; or
   (h) the mortgaged goods or any of them are sold in exercise of a power of sale in any other mortgage or encumbrance over the goods.
-(2) If, under subclause (1), the mortgagee calls up as payable amounts secured by the mortgage, the mortgagee may require the mortgagor to pay 1 month's premium interest calculated at the agreed rate (if any) payable on the principal amount secured by the mortgage (in addition to all other interest payable under the mortgage to the date of payment of all amounts secured by the mortgage).
+(2) If, under subclause (1), the mortgagee calls up as payable amounts secured by the mortgage, the mortgagee may require the mortgagor to pay 1 month’s premium interest calculated at the agreed rate (if any) payable on the principal amount secured by the mortgage (in addition to all other interest payable under the mortgage to the date of payment of all amounts secured by the mortgage).
 (3) Subclause (2) does not apply in relation to a consumer credit contract (as defined in the Credit Contracts and Consumer Finance Act 2003).
 (4) No acquiescence, delay, or failure to act by the mortgagee after acquiring knowledge of any failure of the mortgagor or other event referred to in subclause (1) prejudices, or operates as a waiver of, the rights of the mortgagee under this clause.
 (5) The mortgagee may agree in writing to waive the rights of the mortgagee under this clause in relation to a particular failure of the mortgagor or a particular event referred to in subclause (1).
@@ -3833,7 +3844,7 @@ The mortgagee may take possession of the mortgaged goods or any of them as mortg
   (a) the mortgagee is entitled to make to the purchaser all allowances or refunds as the purchaser may be entitled to receive, at law or in equity, upon the cancellation of the contract; and
   (b) the mortgagee is not responsible for any act or thing done or omitted by any purchaser; and
   (c) the mortgagee is not obliged to enforce against the purchaser any right or power contained or implied in the contract of sale.
-(5) The mortgagee's costs and expenses arising out of the cancellation or the exercise or any attempted exercise by the mortgagee of rights and powers against any purchaser will be borne by the mortgagor.
+(5) The mortgagee’s costs and expenses arising out of the cancellation or the exercise or any attempted exercise by the mortgagee of rights and powers against any purchaser will be borne by the mortgagor.
 
 ### 12 Discharge of mortgage
 The mortgagee will, on payment by the mortgagor of all amounts and the performance of all other obligations secured by the mortgage,—
@@ -3841,15 +3852,21 @@ The mortgagee will, on payment by the mortgagor of all amounts and the performan
   (b) give to the mortgagor a mortgage discharge instrument executed in compliance with section 83 of the Property Law Act 2007; and
   (c) give to the mortgagor all certificates or instruments of title and other documents deposited with the mortgagee on account of the mortgage (if any).
 
-### 13 Mortgagor's liability for costs
+### 13 Mortgagor’s liability for costs
 (1) The mortgagor will pay all costs and expenses of and incidental to the arranging and preparation of the mortgage and any variation or discharge of the mortgage or any transfer of the mortgage or the mortgaged goods instead of a discharge.
-(2) If and as often as the mortgagor fails to pay any amounts secured by the mortgage on the due date, or fails to perform or observe any covenant expressed or implied in the mortgage, the mortgagor will pay the costs of the mortgagee (as between solicitor and client) of and incidental to the enforcement or attempted enforcement by the mortgagee of the mortgagee's rights, remedies, and powers under the mortgage.
+(2) If and as often as the mortgagor fails to pay any amounts secured by the mortgage on the due date, or fails to perform or observe any covenant expressed or implied in the mortgage, the mortgagor will pay the costs of the mortgagee (as between solicitor and client) of and incidental to the enforcement or attempted enforcement by the mortgagee of the mortgagee’s rights, remedies, and powers under the mortgage.
 (3) The costs of the mortgagee under subclause (2) include the costs of giving or attempted giving of any notice required by the Property Law Act 2007 and the costs of inspection and valuation of the mortgaged goods.
 
 ## Schedule 3 — Covenants, conditions, and powers implied in leases of land
 
+### Part 1 — Preliminary
+
+**Interpretation**
+
 ### 1 Interpretation
 In this schedule, leased premises includes all land comprised in the lease.
+
+**General covenants**
 
 ### 2 General covenant between lessor and lessee on matters set out in Part 2 of this schedule
 The lessor and lessee covenant between each other on the matters set out in Part 2 of this schedule.
@@ -3857,19 +3874,21 @@ The lessor and lessee covenant between each other on the matters set out in Part
 ### 3 General covenants of lessee on matters set out in Part 3 or 4 of this schedule
 The lessee covenants with the lessor on the matters, as the case requires, set out in Part 3 or 4 of this schedule.
 
+### Part 2 — Covenants, conditions, and powers implied in all leases of land
+
 ### 4 Payment of rent
 (1) The lessee will pay the rent payable under the lease when it falls due.
 (2) However, if the leased premises or any part of them are destroyed or damaged by any of the causes specified in subclause (3) to the extent that they become unfit for occupation and use by the lessee, the rent and any contribution payable by the lessee to the outgoings on those premises will abate, in fair and just proportion to the destruction or damage, until those premises—
   (a) have been repaired and reinstated; and
   (b) are again fit for occupation and use by the lessee.
 (3) The causes referred to in subclause (2) are—
-  (a) fire, flood, or explosion (whether or not the fire, flood, or explosion is caused, or contributed to, by the lessee's negligence); or
+  (a) fire, flood, or explosion (whether or not the fire, flood, or explosion is caused, or contributed to, by the lessee’s negligence); or
   (b) lightning, storm, earthquake, or volcanic activity; or
   (c) any other cause the risk for which the lessor has insured the premises.
 (4) Despite subclause (2), the lessee is not entitled to the abatement referred to in that subclause if, and to the extent that, any insurance moneys that would otherwise have been payable to the lessor for the destruction of or damage to the leased premises cannot be recovered because of an act or omission of—
   (a) the lessee; or
-  (b) the lessee's agent, contractor, or invitee; or
-  (c) any other person under the lessee's direction or control.
+  (b) the lessee’s agent, contractor, or invitee; or
+  (c) any other person under the lessee’s direction or control.
 (5) Any dispute arising under this clause will be referred to arbitration under the Arbitration Act 1996.
 
 ### 5 Alteration of buildings
@@ -3886,7 +3905,7 @@ The lessee covenants with the lessor on the matters, as the case requires, set o
   (b) any act or thing that is, or is likely to be, a nuisance or that causes, or is likely to cause, any nuisance, damage, or disturbance.
 
 ### 7 Commission of waste
-The lessee will not commit, or permit any of the lessee's agents, contractors, or invitees to commit, the tort of voluntary waste in relation to the leased premises.
+The lessee will not commit, or permit any of the lessee’s agents, contractors, or invitees to commit, the tort of voluntary waste in relation to the leased premises.
 
 ### 8 Lessor not to depart from grant
 The lessor will not derogate from the lease.
@@ -3900,25 +3919,27 @@ The lessee and all persons claiming under the lessee will be able quietly to enj
   (b) at any time during the currency of the lease, those premises cannot, or can no longer be, lawfully used for 1 or more of those specified purposes.
 (2) Despite subclause (1), the lessee may not terminate the lease if the reason the leased premises cannot, or can no longer be, lawfully used for 1 or more of the specified purposes is because of an act or omission of—
   (a) the lessee; or
-  (b) the lessee's agent, contractor, or invitee; or
-  (c) any other person under the lessee's direction or control.
+  (b) the lessee’s agent, contractor, or invitee; or
+  (c) any other person under the lessee’s direction or control.
 
 ### 11 Power to inspect premises
-(1) The lessor may at all reasonable times, either personally or by the lessor's agent, enter the leased premises for the purpose of—
+(1) The lessor may at all reasonable times, either personally or by the lessor’s agent, enter the leased premises for the purpose of—
   (a) inspecting their state of repair; or
   (b) carrying out repairs; or
   (c) complying with the requirements of—
     (i) any enactment or bylaw; or
     (ii) any notice issued by a competent authority.
-(2) The lessor will not unreasonably interfere with the lessee's occupation and use of the leased premises in the exercise of the power conferred by subclause (1).
+(2) The lessor will not unreasonably interfere with the lessee’s occupation and use of the leased premises in the exercise of the power conferred by subclause (1).
 
 ### 12 Power to cancel lease for non-payment of rent or other breach
 (1) The lessor may cancel the lease in accordance with section 244 if—
-  (a) any rent is unpaid for 15 working days after the due date for payment (whether or not a demand for payment has been made to the lessee by written notice signed by the lessor or the lessor's agent); or
+  (a) any rent is unpaid for 15 working days after the due date for payment (whether or not a demand for payment has been made to the lessee by written notice signed by the lessor or the lessor’s agent); or
   (b) the lessee has failed, for a period of 15 working days, to observe or perform any other covenant, condition, or stipulation on the part of the lessee expressed or implied in the lease.
 (2) The lessee is not released from liability for the payment of any unpaid rent or for the breach or non-observance of any other covenant, condition, or stipulation referred to in subclause (1) if the lessor cancels the lease in accordance with section 244 and, accordingly,—
   (a) the lessor peaceably re-enters the leased premises or any representative part of those premises; or
   (b) the court makes an order for possession of the land in favour of the lessor.
+
+### Part 3 — Covenant implied in all leases of land (except short-term leases)
 
 ### 13 Lessee to keep and yield up premises in existing condition
 (1) The lessee will,—
@@ -3927,18 +3948,35 @@ The lessee and all persons claiming under the lessee will be able quietly to enj
 (2) However, the lessee is not bound to repair any damage to the leased premises caused by—
   (a) reasonable wear and tear; or
   (b) any of the following:
-    (i) fire, flood, or explosion (whether or not the fire, flood, or explosion is caused or contributed to by the lessee's negligence):
+    (i) fire, flood, or explosion (whether or not the fire, flood, or explosion is caused or contributed to by the lessee’s negligence):
     (ii) lightning, storm, earthquake, or volcanic activity:
     (iii) any other cause the risk for which the lessor has insured the premises.
 (3) Despite subclause (2)(b), the lessee is not excused from liability to repair any damage caused by any of the events referred to in that paragraph if, and to the extent that, any insurance moneys that would otherwise have been payable to the lessor for the destruction of or damage to the leased premises cannot be recovered because of an act or omission of—
   (a) the lessee; or
-  (b) the lessee's agent, contractor, or invitee; or
-  (c) any other person under the lessee's direction or control.
+  (b) the lessee’s agent, contractor, or invitee; or
+  (c) any other person under the lessee’s direction or control.
+
+### Part 4 — Covenant implied in short-term leases
 
 ### 14 Lessee to use premises reasonably
 The lessee will, at all times during the currency of the lease, use the leased premises in the way that a reasonable tenant would.
 
 ## Schedule 4 — Covenants implied in certain instruments
+
+| Compare: 1952 No 51 s 72 |
+| --- |
+
+| Compare: 1952 No 51 s 74 |
+| --- |
+
+| Compare: 1952 No 51 s 75 |
+| --- |
+
+| Compare: 1952 No 51 s 72 |
+| --- |
+
+| Compare: 1952 No 51 s 73 |
+| --- |
 
 ## Schedule 5 — Covenants implied in grants of vehicular rights of way
 
@@ -3953,12 +3991,12 @@ The owners and occupiers of the land for the benefit of which, and the land over
   (b) any necessary rights of entry onto that land, with or without machinery, plant, and equipment; and
   (c) the right to have that land at all times kept clear of obstructions, whether caused by parked vehicles, deposit of materials, or unreasonable impediment to the use and enjoyment of the driveway; and
   (d) the right to a reasonable contribution towards the cost of establishment, maintenance, upkeep, and repair of the driveway to an appropriate standard; and
-  (e) the right to recover the cost of repairing any damage to the driveway made necessary by any deliberate or negligent act of a person bound by these covenants or that person's agents, contractors, employees, invitees, licensees, or tenants.
+  (e) the right to recover the cost of repairing any damage to the driveway made necessary by any deliberate or negligent act of a person bound by these covenants or that person’s agents, contractors, employees, invitees, licensees, or tenants.
 
 ### 3 Right to have land restored after completion of work
 (1) This clause applies to a person bound by these covenants (person A) if a person entitled to enforce these covenants (person B) has undertaken work, in accordance with the right conferred by clause 2(a) or with an order of a court, on the land over which a right of way is granted.
 (2) Person A has the right, after the completion of the work, to have the land restored as far as possible to its former condition (except for the existence of the driveway).
-(3) That right of person A is subject to person B's right, in accordance with clause 2(d), to receive a reasonable contribution towards the cost of the work.
+(3) That right of person A is subject to person B’s right, in accordance with clause 2(d), to receive a reasonable contribution towards the cost of the work.
 
 ## Schedule 6 — Provisions applying to land not owned by the Crown and not under Land Transfer Act 1952
 
@@ -3972,9 +4010,9 @@ The owners and occupiers of the land for the benefit of which, and the land over
 A conveyance of land without words of limitation passes the fee simple or other whole estate that the party conveying has power to dispose of.
 
 ### 3 Form of conveyance in fee simple
-(1) A deed in, or to the effect of, the following form passes title to, and possession of, land:
+(1) A deed in, or to the effect of, the following form passes title to, and possession of, land:Deed of ConveyanceThis deed, made on [insert date], between [name of conveying party] of [place of residence], [occupation], the conveying party and [name of assignee] of [place of residence], [occupation], the assignee[Recitals, if any,]: [Now this deed]witnesses that, in consideration of the sum of [amount] paid by the assignee to the conveying party (the receipt of which is acknowledged), the conveying party conveys to the assignee all that piece of land [insert description of land]: as shown on the plan drawn on this conveyance and coloured [insert description of colour used].Signed at, thisday of [month], [year][signature][name of conveying party]Signed by [name of conveying party] in the presence of:[signature of witness][place of residence][occupation]
 (2) The description of the land must—
-  (a) refer to the marks and numbers in the Surveyor-General's map or other official record map; and
+  (a) refer to the marks and numbers in the Surveyor-General’s map or other official record map; and
   (b) describe particularly the situation, boundaries, and measurements; and
   (c) specify any variation in any of those particulars.
 
@@ -3991,12 +4029,12 @@ A conveyance of land without words of limitation passes the fee simple or other 
   (b) the following rules apply to the obligations and rights of vendor and purchaser:
     (i) recitals, statements, and descriptions of facts, matters, and parties contained in instruments or statutory declarations 20 years old at the date of the contract are to be taken to be sufficient evidence of the truth of those facts, matters, and parties, except to the extent that they are proved to be inaccurate:
     (ii) the inability of the vendor to furnish the purchaser with a legal covenant to produce and furnish copies of documents of title is not an objection to title if the purchaser, on the completion of the contract, has an equitable right to the production of the documents:
-    (iii) any covenant for production that the purchaser can and does require must be furnished at the purchaser's expense, and the vendor must bear the expense of perusal and execution on behalf of himself or herself and any necessary parties other than the purchaser:
+    (iii) any covenant for production that the purchaser can and does require must be furnished at the purchaser’s expense, and the vendor must bear the expense of perusal and execution on behalf of himself or herself and any necessary parties other than the purchaser:
     (iv) if the vendor retains any part of an estate to which any documents of title relate, he or she is entitled to retain those documents of title.
 (2) This clause applies subject to the contract for the sale of the land.
 
 ### 6 Sale by administrator
-(1) On a sale by an administrator of land, the vendor's receipt in writing is a sufficient discharge to the purchaser for the purchase money expressed to have been received.
+(1) On a sale by an administrator of land, the vendor’s receipt in writing is a sufficient discharge to the purchaser for the purchase money expressed to have been received.
 (2) Neither the purchaser nor any person claiming through the purchaser needs—
   (a) to be concerned to see to the application of the purchase money; or
   (b) to inquire whether the sale was irregular or improper.
@@ -4008,11 +4046,11 @@ A conveyance of land without words of limitation passes the fee simple or other 
   (b) in the meantime the conveying party will keep those deeds, instruments, and evidences of title safe, whole, and uncancelled.
 (3) The covenant for production of title deeds runs with the land, so as to bind only the person for the time being entitled to the possession of the deeds, instruments, or evidences of title.
 (4) In this clause,—
-  - **conveying party** includes the conveying party's assigns
-  - **grantee** includes the grantee's assigns.
+  - **conveying party** includes the conveying party’s assigns
+  - **grantee** includes the grantee’s assigns.
 
 ### 8 Form of mortgage
-(1) Mortgages of land may be made by an ordinary conveyance by way of mortgage or in the following form:
+(1) Mortgages of land may be made by an ordinary conveyance by way of mortgage or in the following form:Mortgage of Land(a)Mortgagor: [full name, place of residence, and occupation of mortgagor or mortgagors](b)Estate: [freehold in fee simpleor leasehold, as the case may be](c)Land: [full description, with plan, of the land to be mortgaged](d)Mortgagee: [full name, place of residence, and occupation of mortgagee or mortgagees](e)Principal sum: [amount](f)Date of advance: [date](g)Rate of interest: [rate (if any) agreed upon](h)How interest payable: [yearly, half-yearly, quarterly, and date or dates for payment, or otherwise, as the case may be](i)How and when principal sum to be repaid: [date and mode of payment agreed upon].And for the better securing to the mortgagee the payment of the principal sum, interest and other money, I [or we] mortgage to the mortgagee all my [or our] estate and interest in the land.Signed at, thisday of [month], [year][signature or signatures]Mortgagor [or Mortgagors]Signed by [name of mortgagor or mortgagors] as mortgagor[s], in the presence of:[signature of witness][place of residence][occupation]
 (2) A mortgage in the form set out in subclause (1)—
   (a) is to be treated as a charge on the land; and
   (b) may be registered accordingly.
@@ -4033,13 +4071,15 @@ A conveyance of land without words of limitation passes the fee simple or other 
     (iii) demise for all or any part of the term; or
     (iv) receipt of the income of the land or any part of it; or
     (v) any other reasonable means.
-(5) The power in subclause (4)(b) may be exercised only to raise and pay the annual sum and all arrears due or becoming due, and all costs arising from the non-payment of the annual sum, or inclined in compelling or obtaining payment of the annual sum, including the costs of the preparation and execution of any instrument and the costs of execution of the trust thereby created.
+(5) The power in subclause (4)(b) may be exercised only to raise and pay the annual sum and all arrears due or becoming due, and all costs arising from the non-payment of the annual sum, or incurred in compelling or obtaining payment of the annual sum, including the costs of the preparation and execution of any instrument and the costs of execution of the trust thereby created.
 (6) The surplus, if any, of the money raised or the income received under the trust must be paid to the person for the time being entitled to the land comprised in the trust, in reversion immediately expectant on the term of the trust.
 (7) The rule against perpetuities as modified by the Perpetuities Act 1964 does not apply to—
   (a) any powers or remedies conferred by this clause; or
   (b) any equivalent powers or remedies conferred by any instrument for recovering the payment of any annual sum within the meaning of this clause.
 
 ## Schedule 7 — Consequential amendments
+
+**Debentures**
 
 ### 95A Perpetual debentures
 (1) A term that is expressed in a debenture or in a deed securing a debenture, issued or executed by a company, is not invalid by reason only that it provides that the debenture is—
@@ -4054,10 +4094,10 @@ A conveyance of land without words of limitation passes the fee simple or other 
 (2) Subsection (1) applies—
   (a) whether the debentures were redeemed before, on, or after 1 January 2008:
   (b) unless—
-    (i) the company's constitution or a contract entered into by the company contains a provision (whether express or implied) to the contrary; or
+    (i) the company’s constitution or a contract entered into by the company contains a provision (whether express or implied) to the contrary; or
     (ii) the company has, by passing a resolution or by some other act, indicated its intention that the debentures are cancelled.
 (3) On a reissue of redeemed debentures or of other debentures in their place, the debentures are to be treated as having, and as always having had, the same priority as the redeemed debentures.
-(4) Debentures of a company deposited to secure advances from time to time (whether on current account or otherwise) are not to be treated as redeemed because the company's account ceases to be in debit while the debentures are deposited.
+(4) Debentures of a company deposited to secure advances from time to time (whether on current account or otherwise) are not to be treated as redeemed because the company’s account ceases to be in debit while the debentures are deposited.
 (5) Subsection (4) applies whether the debentures were deposited before, on, or after 1 January 2008.
 (6) The reissue of a debenture or the issue of another debenture in its place under this section (whether before, on, or after 1 January 2008)—
   (a) is to be treated as the issue of a new debenture for the purposes of stamp duty payable (if any); but
@@ -4119,5 +4159,5 @@ A conveyance of land without words of limitation passes the fee simple or other 
 (1) Nothing in Part 4 of the Property Law Act 2007 applies to a tenancy to which this Act applies.
 (2) However, the Tribunal, in exercising its jurisdiction in accordance with section 85 of this Act, may look to Part 4 of the Property Law Act 2007 as a source of the general principles of law relating to a matter provided for in that Part (which relates to leases of land).
 
-### 24 Power of Court to grant relief if building is on wrong land or encroachment exists
-The Court may exercise with respect to Maori freehold land all of the powers conferred on a court by subpart 2 of Part 6 of the Property Law Act 2007.
+### 24 Power of court to grant relief if building is on wrong land or encroachment exists
+The court may exercise with respect to Māori freehold land all of the powers conferred on a court by subpart 2 of Part 6 of the Property Law Act 2007.
