@@ -1,5 +1,5 @@
 # Maori Vested Lands Administration Act 1954
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to provide for the administration of certain land vested in the Maori Trustee and certain other Maori land subject to leases conferring on the lessees rights to compensation for improvements
 
@@ -482,7 +482,7 @@ That the lessee will at his own cost and expense do all things necessary to comp
 That the lessee will not allow pigs to roam at large over the said land but will at all times keep them in proper pig proof enclosures.
 
 ### 18
-That the lessee will pay all costs and expenses incurred in the preparation and completion of these presents and all costs and expenses incurred by the lessor in relation to any notice or any proceeding under the provisions of the Property Law Act 1952 relating to forfeiture and relief against forfeiture (notwithstanding that, and whatever the means by which, such forfeiture may be avoided):
+That the lessee will pay all costs and expenses incurred in the preparation and completion of these presents and all costs and expenses incurred by the lessor in relation to any notice or any proceeding under the provisions of the Property Law Act 2007 relating to cancellation of leases (despite that, and whatever the means by which, such cancellation may be avoided):
   Provided that in relation to any proceedings as aforesaid the costs and expenses shall be borne as the Court may order.
 
 ### 19
@@ -531,13 +531,13 @@ That subject to the provisions of section 29 of the Act there are hereby excepte
   Provided that in the exercise of such rights the lessor shall cause as little interference as possible with the lessee's user of the said land and provided further that the lessor shall pay a fair compensation to the lessee for all loss or damage sustained by the lessee by the exercise of any such powers by the lessor. The amount of any such compensation shall in default of agreement be determined by 2 arbitrators and in case the arbitrators cannot agree, by their umpire, in accordance with the provisions of the Arbitration Act 1908; and these presents shall for the purpose be deemed to be a submission under that Act.
 
 ### 31
-That if the lessee shall at any time make default in the performance of any of the covenants conditions or provisions on the part of the lessee herein expressed or implied it shall be lawful for the lessor (without prejudice to any right of re-entry or other right) to perform any such covenant condition or provision on behalf of the lessee (and if necessary for so doing to enter upon the said premises) and all money paid and expenses incurred in so doing and also all costs incurred by the lessor in connection therewith shall be forthwith repaid to the lessor by the lessee together with interest thereon at the rate of $10 percent per annum and shall be recoverable by distress under the Distress and Replevin Act 1908 or otherwise as if the same were rent in arrear hereby reserved and it shall be lawful for the lessor or the agent of the lessor at all times for the purpose aforesaid and for the purpose of viewing the demised premises to enter upon the said premises with such workmen and other persons as the lessor or the agent of the lessor shall think fit and to remain there for such time as in the circumstances shall be reasonable and proper.
+That if the lessee shall at any time make default in the performance of any of the covenants conditions or provisions on the part of the lessee herein expressed or implied it shall be lawful for the lessor (without prejudice to any right of re-entry or other right) to perform any such covenant condition or provision on behalf of the lessee (and if necessary for so doing to enter upon the said premises) and all money paid and expenses incurred in so doing and also all costs incurred by the lessor in connection therewith shall be forthwith repaid to the lessor by the lessee together with interest thereon at the rate of $10 percent per annum and it shall be lawful for the lessor or the agent of the lessor at all times for the purpose aforesaid and for the purpose of viewing the demised premises to enter upon the said premises with such workmen and other persons as the lessor or the agent of the lessor shall think fit and to remain there for such time as in the circumstances shall be reasonable and proper.
 
 ### 32
 That in case the rent payable hereunder or any part thereof shall be unpaid on any day on which the same ought to be paid and shall remain unpaid for thirty (30) days thereafter whether the same shall have been lawfully demanded or not or in case the lessee becomes bankrupt or compounds with or assigns his estate for the benefit of his creditors or in case of the breach non-observance or non-performance by the lessee of any covenant condition or restriction herein on the lessee's part contained or implied then and in every such case it shall be lawful for the lessor forthwith or at any time thereafter without notice or suit to enter upon any part of the said demised land in the name of the whole and thereby to determine the estate of the lessee under these presents but without releasing the lessee from liability in respect of any breach of any of the said covenants conditions and restrictions.
 
 ### 33
-It is hereby declared that the covenants powers and conditions implied in leases by the Property Law Act 1952 shall be implied herein except in so far as the same are hereby modified or negatived.
+It is hereby declared that the covenants powers and conditions implied in leases by sections 218 and 219 of the Property Law Act 2007 shall be implied herein except in so far as the same are hereby modified or negatived.
 
 ### 34
 It is hereby further declared that terms and expressions defined in the Act shall when used in these presents have the meanings so defined and that where the Act directs the inclusion of any provision in these presents that provision shall be deemed to be included herein in accordance with the Act and not otherwise.
