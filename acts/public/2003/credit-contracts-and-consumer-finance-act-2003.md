@@ -1,5 +1,5 @@
 # Credit Contracts and Consumer Finance Act 2003
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-01-01_
 
 ### 1 Title
 This Act is the Credit Contracts and Consumer Finance Act 2003.
@@ -539,7 +539,7 @@ In determining whether an establishment fee is unreasonable, the Court must have
 (1) A creditor must accept any full prepayment of a consumer credit contract from a debtor at any time.
 (2) The full prepayment must be credited in accordance with section 46(1).
 (3) A consumer credit contract must not prohibit the full prepayment of the contract.
-(4) Nothing in section 81 of the Property Law Act 1952 limits this section or section 51.
+(4) Nothing in sections 97 to 99 of the Property Law Act 2007 limits this section or section 51.
 
 ### 51 Amount required for full prepayment
 (1) The amount required for the full prepayment of the consumer credit contract must be no more than the sum of the following less the amount referred to in section 52:
