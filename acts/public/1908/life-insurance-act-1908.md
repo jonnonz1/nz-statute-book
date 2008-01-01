@@ -1,5 +1,5 @@
 # Life Insurance Act 1908
-_Consolidation as at 2007-11-01_
+_Consolidation as at 2008-01-01_
 
 > An Act to consolidate certain enactments of the General Assembly relating to life insurance
 
@@ -290,8 +290,8 @@ Every fine imposed by this Part of this Act shall, unless otherwise provided, be
   (a) Commence or continue any action or other proceedings against any company to which this section applies:
   (b) Issue any execution, attach any debt, or otherwise enforce or seek to enforce any judgment or order obtained in respect of any company to which this section applies:
   (c) Petition for the winding up of any company to which this section applies:
-  (d) Foreclose, enter into possession, sell, appoint a receiver, or take or continue any power or rights whatsoever under or in pursuance of any mortgage, charge, debenture, instrument, or other security over the property of any company to which this section applies:
-  (e) Determine or forfeit any tenancy, distrain for rent, re-take, or re-enter any premises or take or continue any power or rights whatsoever under or in pursuance of any lease, tenancy, or agreement to let or lease, against any company to which this section applies.
+  (d) enter into possession, sell, appoint a receiver, or take or continue any power or rights whatsoever under or in pursuance of any mortgage, charge, debenture, instrument, or other security over the property of any company to which this section applies:
+  (e) Determine or forfeit any tenancy, re-take, or re-enter any premises or take or continue any power or rights whatsoever under or in pursuance of any lease, tenancy, or agreement to let or lease, against any company to which this section applies.
 (3) Notwithstanding the provisions of subsection (2) of this section, an action or any proceedings may be brought against any company to which this section applies for the purpose of determining whether any right or liability exists if the leave of the judicial manager of that company or of the Court has first been obtained.
 (4) Notwithstanding the provisions of subsection (2) of this section, the judicial manager of any company to which this Act applies may waive the application of subsection (2) of this section (except paragraph (c) of that subsection) to both any secured creditor of that company and his security.
 (5) Subject to the provisions of this Act, nothing in subsection (2) of this section shall affect the existence of any security over the property of any company to which this section applies or its priority in relation to other debts.
