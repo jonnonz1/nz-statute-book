@@ -1,5 +1,5 @@
 # Housing Corporation Act 1974
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-01-01_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Housing Corporation Act 1974.
@@ -154,8 +154,8 @@ Schedule 1A applies to the Corporation.
   (a) Act as an agent for the Crown, or for any Government department, or for any other person or body, and in return for such services charge any fees or other remuneration that may be agreed on between the Corporation and the principal; and
   (b)
   (c) Acting through a solicitor, or through a person acting under the supervision of a solicitor, draw or prepare for or on behalf of any other person—
-    (i) Any conveyance within the meaning of the Property Law Act 1952 of any real or personal property; or
-    (ii) Any deed within the meaning of the Property Law Act 1952 relating to any real or personal property; or
+    (i) Any conveyance within the meaning of the Property Law Act 2007 of any real or personal property; or
+    (ii) Any deed within the meaning of the Property Law Act 2007 relating to any real or personal property; or
     (iii) Any tenancy agreement or lease, or any agreement evidencing any tenancy or lease—
 (5) The Corporation, in acting for any principal, may with the agreement and on behalf of the principal make any investment in the name of the Corporation.
 (6)
