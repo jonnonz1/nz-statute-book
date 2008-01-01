@@ -1,5 +1,5 @@
 # Defence Act 1990
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2008-01-01_
 
 > An Act—aTo continue to authorise the raising and maintaining of armed forces for certain purposes; andbTo constitute the New Zealand Defence Force, comprising—iThe Armed Forces under the command of the Chief of Defence Force; andiiThe Civil Staff under the control of the Chief of Defence Force; andcTo reaffirm that the Armed Forces are under Ministerial authority; anddTo define the respective roles and relationships of the Minister of Defence, the Secretary of Defence, and the Chief of Defence Force; andeTo redefine the relationship of the Chief of Defence Force to the Chiefs of Service; andfTo make provision generally in respect of the establishment, control, and activities of the New Zealand Defence Force, and related matters
 
@@ -912,7 +912,7 @@ As soon as practicable after the end of each financial year, the Chief of Defenc
 ### 92 Arms, etc, to remain property of the Crown
 (1) All arms, equipment, uniforms, and other public property of any kind supplied by the Crown to the Armed Forces shall be presumed to remain the property of the Crown in the absence of proof to the contrary.
 (2) All arms, equipment, uniforms, and other public property of any kind supplied by the Crown to any member of the Armed Forces shall, unless issued to that member for retention by that member permanently, be presumed to remain the property of the Crown in the absence of proof to the contrary.
-(3) All property of the Crown of any kind for the time being in the possession of a member of the Armed Forces shall be exempt from distress and from seizure in execution.
+(3) All property of the Crown of any kind for the time being in the possession of a member of the Armed Forces shall be exempt from seizure in execution.
 
 ### 93 Security of defence areas
 (1) Without limiting the power to make regulations under section 101 of this Act, regulations may be made under that section prohibiting access or restricting access, on such conditions as may be prescribed, of any person to any defence area, naval ship, or military aircraft, and making such provision as may be necessary or expedient for the control and security of any such area, ship, or aircraft.
