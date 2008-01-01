@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2007-11-19_
+_Consolidation as at 2008-01-01_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -438,7 +438,7 @@ No action may be brought against the Crown or the Registrar for any loss or dama
     (v) long-term certified emission reduction units from the same clean development mechanism project; and
   (b) the Registrar must notify in writing the person who holds the affected long-term certified emission reduction unit.
 (3) A person notified under subsection (2)(b) must replace the affected long-term certified emission reduction unit within 30 days of receiving the notice.
-(4) Section 152 of the Property Law Act 1952 applies, with all necessary modifications, to any notice required under subsection (2)(b).
+(4) Sections 354 to 361 of the Property Law Act 2007 apply, with all necessary modifications, to any notice required under subsection (2)(b).
 
 ### 30D Expiry of temporary certified emission reduction units
 (1) A temporary certified emission reduction unit expires at the end of the subsequent commitment period that immediately follows the relevant commitment period.
