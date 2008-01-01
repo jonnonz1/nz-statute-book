@@ -1,5 +1,5 @@
 # Protection of Personal and Property Rights Act 1988
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to provide for the protection and promotion of the personal and property rights of persons who are not fully able to manage their own affairs
 
@@ -489,8 +489,8 @@ Except as provided in sections 54 and 55 of this Act, nothing in this Act shall 
 (1) From the date on which an application is made for a property order in respect of any person, no person shall, without the leave of a Court,—
   (a) Bring or continue any proceedings (not being proceedings under this Act or proceedings in the High Court) against the person in respect of whom the application is made; or
   (b) Issue any execution, attach any debt, or otherwise enforce or seek to enforce any judgment or order (not being a judgment or order given under this Act) against the person in respect of whom the application is made; or
-  (c) Foreclose, enter into possession, sell, appoint a receiver, or take or continue any power or right under or in pursuance of any mortgage, charge, instrument, or other security over the property of the person in respect of whom the application is made; or
-  (d) Determine or forfeit any tenancy, distrain for rent, re-take or re-enter any premises, or take or continue any power or right under or in pursuance of any lease, tenancy, or agreement to let or lease against the property of the person in respect of whom the application is made.
+  (c) enter into possession, sell, appoint a receiver, or take or continue any power or right under or in pursuance of any mortgage, charge, instrument, or other security over the property of the person in respect of whom the application is made; or
+  (d) Determine or forfeit any tenancy, re-take or re-enter any premises, or take or continue any power or right under or in pursuance of any lease, tenancy, or agreement to let or lease against the property of the person in respect of whom the application is made.
 (2) This section shall also apply to a company and its property, and to any subsidiary of a company and the subsidiary's property, where the person in respect of whom the application is made is a member of the company and holds more than 50 percent of its equity share capital or issued shares, as the case may be.
 (3) For the purposes of subsection (2) of this section,—
   (a) In the case of a company registered under the Companies Act 1955, the terms company, subsidiary, and equity share capital shall have the meanings assigned to them by sections 158 and 158A of the Companies Act 1955:
