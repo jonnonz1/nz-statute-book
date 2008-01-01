@@ -1,5 +1,5 @@
 # Law Reform (Testamentary Promises) Act 1949
-_Consolidation as at 2007-11-17_
+_Consolidation as at 2008-01-01_
 
 > An Act to make better provision for the enforcement of promises to make testamentary provision in return for services rendered
 
@@ -8,39 +8,39 @@ This Act may be cited as the Law Reform (Testamentary Promises) Act 1949.
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **Court** means a Court having jurisdiction in the proceedings by virtue of section 5 of this Act
-  - **Promise** includes any statement or representation of fact or intention.
+  - **court** means a court having jurisdiction in the proceedings by virtue of section 5
+  - **promise** includes any statement or representation of fact or intention.
 
 ### 3 Estate of deceased person liable to remunerate persons for work done under promise of testamentary provision
 (1) Where in the administration of the estate of any deceased person a claim is made against the estate founded upon the rendering of services to or the performance of work for the deceased in his lifetime, and the claimant proves an express or implied promise by the deceased to reward him for the services or work by making some testamentary provision for the claimant, whether or not the provision was to be of a specified amount or was to relate to specified real or personal property, then, subject to the provisions of this Act, the claim shall, to the extent to which the deceased has failed to make that testamentary provision or otherwise remunerate the claimant (whether or not a claim for such remuneration could have been enforced in the lifetime of the deceased), be enforceable against the personal representatives of the deceased in the same manner and to the same extent as if the promise of the deceased were a promise for payment by the deceased in his lifetime of such amount as may be reasonable, having regard to all the circumstances of the case, including in particular the circumstances in which the promise was made and the services were rendered or the work was performed, the value of the services or work, the value of the testamentary provision promised, the amount of the estate, and the nature and amounts of the claims of other persons in respect of the estate, whether as creditors, beneficiaries, wife, husband, civil union partner, children, next-of-kin, or otherwise.
 (2) This section shall apply—
-  (a) Whether the services were rendered or the work was performed before or after the making of the promise:
-  (b) Notwithstanding anything to the contrary in section 4 of the Statute of Frauds 1677, or section 2 of the Contracts Enforcement Act 1956, or any other enactment.
-(3) Where the promise relates to any real or personal property which forms part of the estate of the deceased on his death, the Court may in its discretion, instead of awarding to the claimant a reasonable sum as aforesaid,—
-  (a) Make an order vesting the property in the claimant or directing any person to transfer or assign the property to him; or
-  (b) Make an order vesting any part of the property in the claimant or directing any person to transfer or assign any part of the property to him, and awarding to the claimant such amount (if any) as in its opinion is reasonable in the circumstances.
-(4) In awarding any amount on a claim under this section the Court may, if it thinks fit, order that the amount awarded may consist of a lump sum or a periodical or other payment.
-(5) The incidence of any payment or payments so ordered shall, unless the Court otherwise determines, fall rateably upon the whole estate of the deceased, or, in cases where the authority of the Court does not extend or cannot directly or indirectly be made to extend to the whole estate, then to so much thereof as is situated in New Zealand.
-(6) The Court shall have power, after hearing such of the parties as may be affected as it thinks necessary, to exonerate any part of the estate of the deceased from the incidence of any such payment or payments, to determine priorities as between any benefit awarded by the Court to the claimant under this Act and the beneficial interests of any other person or persons in the estate of the deceased person, and to make such provision as it thinks fit as to the incidence of the whole or any part of the debts, testamentary expenses, and duty in respect of the estate of the deceased. For the purposes of this subsection the Court may direct any executor or administrator to represent, or appoint any person to represent, any such party.
-(7) Any order under this section, or any provision of any such order, may be made upon and subject to such terms and conditions as the Court thinks fit.
+  (a) whether the services were rendered or the work was performed before or after the making of the promise:
+  (b) notwithstanding anything to the contrary in subpart 2 of Part 2 of the Property Law Act 2007 or any other enactment.
+(3) Where the promise relates to any real or personal property which forms part of the estate of the deceased on his death, the court may in its discretion, instead of awarding to the claimant a reasonable sum as aforesaid,—
+  (a) make an order vesting the property in the claimant or directing any person to transfer or assign the property to him; or
+  (b) make an order vesting any part of the property in the claimant or directing any person to transfer or assign any part of the property to him, and awarding to the claimant such amount (if any) as in its opinion is reasonable in the circumstances.
+(4) In awarding any amount on a claim under this section the court may, if it thinks fit, order that the amount awarded may consist of a lump sum or a periodical or other payment.
+(5) The incidence of any payment or payments so ordered shall, unless the court otherwise determines, fall rateably upon the whole estate of the deceased, or, in cases where the authority of the court does not extend or cannot directly or indirectly be made to extend to the whole estate, then to so much thereof as is situated in New Zealand.
+(6) The court shall have power, after hearing such of the parties as may be affected as it thinks necessary, to exonerate any part of the estate of the deceased from the incidence of any such payment or payments, to determine priorities as between any benefit awarded by the court to the claimant under this Act and the beneficial interests of any other person or persons in the estate of the deceased person, and to make such provision as it thinks fit as to the incidence of the whole or any part of the debts, testamentary expenses, and duty in respect of the estate of the deceased. For the purposes of this subsection the court may direct any executor or administrator to represent, or appoint any person to represent, any such party.
+(7) Any order under this section, or any provision of any such order, may be made upon and subject to such terms and conditions as the court thinks fit.
 (8) Nothing in this section shall affect any remedy which a claimant may have apart from this Act in respect of any promise to which this section relates, and where a claimant has any such remedy he may at his option enforce that remedy or his remedy under this section, but not both:
-  Provided that nothing in this section shall prevent alternative claims in respect of those remedies from being made in the one action.
+  provided that nothing in this section shall prevent alternative claims in respect of those remedies from being made in the one action.
 (9) Subsection (3) is subject to section 10(3) to (5) of the Succession (Homicide) Act 2007.
 
-### 4 Effect of order of Court
+### 4 Effect of order of court
 (1) Upon any order being made under this Act, the portion of the estate comprised in or affected by the order shall be held subject to the provisions of the order.
 (2) Where an order is made under this Act—
   (a)
-  (b) For all purposes . . .—
-    (i) Any amount which by the order is awarded to any person shall be deemed to have been bequeathed by the deceased to that person:
-    (ii) Any property which by the order is vested in or directed to be transferred or assigned to any person shall be deemed to have been devised or bequeathed by the deceased to that person.
+  (b) for all purposes—
+    (i) any amount which by the order is awarded to any person shall be deemed to have been bequeathed by the deceased to that person:
+    (ii) any property which by the order is vested in or directed to be transferred or assigned to any person shall be deemed to have been devised or bequeathed by the deceased to that person.
 (3)
 
 ### 5 Courts to have concurrent jurisdiction
 (1) Subject to the succeeding provisions of this section, the High Court and a Family Court shall each have jurisdiction in respect of proceedings under this Act.
 (2) A Family Court shall not have jurisdiction in respect of any application under this Act if, at the date of the filing of the application, proceedings relating to the same matter have already been commenced in the High Court.
 (3) If a Family Court Judge is of the opinion that any proceedings under this Act, or any question in any such proceedings, would be more appropriately dealt with in the High Court, the Judge may, upon application by any party to the proceedings or without any such application, refer the proceedings or the question to the High Court.
-(4) The High Court, upon application by any party to any proceedings pending under this Act in a Family Court, shall order that the proceedings be removed into the High Court unless it is satisfied that the proceedings would be more appropriately dealt with in a Family Court. Where the proceedings are so removed, they shall be continued in the High Court as if they had been properly and duly commenced in that Court.
+(4) The High Court, upon application by any party to any proceedings pending under this Act in a Family Court, shall order that the proceedings be removed into the High Court unless it is satisfied that the proceedings would be more appropriately dealt with in a Family Court. Where the proceedings are so removed, they shall be continued in the High Court as if they had been properly and duly commenced in that court.
 
 ### 5A Right of appeal
 (1AA) This subsection applies to a decision of a Family Court or District Court, in proceedings under this Act, to—
@@ -58,7 +58,7 @@ In this Act, unless the context otherwise requires,—
 
 ### 6 Limitation of actions
 No action to enforce a claim under this Act shall be maintainable unless the action is commenced within 12 months after the personal representative of the deceased took out representation:
-  Provided that the time for commencing an action may be extended for a further period by the Court or a Judge, after hearing such of the parties affected as the Court or Judge thinks necessary, and this power shall extend to cases where the time for commencing an action has already expired, including cases where it expired before the commencement of this proviso; but in all such cases the application for extension shall be made before the final distribution of the estate of the deceased, and no distribution of any part of the estate made before the administrator receives notice that the application for extension has been made to the Court, and after every notice (if any) of an intention to make an application under this Act has lapsed in accordance with subsection (6) of section 30A of the Administration Act 1952, as inserted by section 2 of the Administration Amendment Act 1960, shall be disturbed by reason of the application for extension, or of an order made on that application, or of any action or order that is consequential thereon.
+  provided that the time for commencing an action may be extended for a further period by the court or a Judge, after hearing such of the parties affected as the court or Judge thinks necessary, and this power shall extend to cases where the time for commencing an action has already expired, including cases where it expired before the commencement of this proviso; but in all such cases the application for extension shall be made before the final distribution of the estate of the deceased, and no distribution of any part of the estate made before the administrator receives notice that the application for extension has been made to the court, and after every notice (if any) of an intention to make an application under this Act has lapsed in accordance with subsection (6) of section 30A of the Administration Act 1952, as inserted by section 2 of the Administration Amendment Act 1960, shall be disturbed by reason of the application for extension, or of an order made on that application, or of any action or order that is consequential thereon.
 
 ### 7 Repeal and savings
 (1) This Act is in substitution for section 3 of the Law Reform Act 1944, and that section is hereby accordingly repealed.
