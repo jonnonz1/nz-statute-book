@@ -1,5 +1,5 @@
 # Insolvency Act 2006
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-01-01_
 
 ### 1 Title
 This Act is the Insolvency Act 2006.
@@ -1315,7 +1315,7 @@ The Assignee may recover money paid by a bankrupt, whether before or after adjud
   (a) an insolvent transaction:
   (b) an insolvent charge:
   (c) an insolvent gift:
-  (d) an alienation of property with intent to defraud creditors to which section 60 of the Property Law Act 1952 applies:
+  (d) a disposition of property to which subpart 6 of Part 6 (setting aside of dispositions that prejudice creditors) of the Property Law Act 2007 applies:
   (e) a transaction at undervalue:
   (f) a contribution by the bankrupt to the property of another person.
 (2) Broadly, the effect of this subpart is that the irregular transactions listed in subsection (1)(a) to (d) may be cancelled on the Assignee's initiative, and that, in appropriate cases, the Assignee may recover property or money from a party to an irregular transaction with the bankrupt.
@@ -1402,7 +1402,7 @@ A gift that is made within 2 years immediately before the bankrupt's adjudicatio
   (a) an insolvent transaction:
   (b) an insolvent charge:
   (c) an insolvent gift:
-  (d) an alienation of property with intent to defraud a creditor to which section 60 of the Property Law Act 1952 applies.
+  (d) a disposition of property to which subpart 6 of Part 6 (setting aside of dispositions that prejudice creditors) of the Property Law Act 2007 applies.
 (2) The Assignee who wishes to cancel an irregular transaction to which this section applies must—
   (a) file a notice with the Court that meets the requirements set out in subsection (3); and
   (b) serve the notice on—
