@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -123,7 +123,7 @@ Except as otherwise provided in this Part of this Act, this Act shall apply to e
 This Act shall not apply in the following cases:
   (a) Where the premises are commercial premises:
   (b) Where the whole or a substantial part of the tenant's income is derived from the use of the premises for agricultural, pastoral, horticultural, or other similar purposes:
-  (ba) Where the premises are let for a fixed-term tenancy of at least 5 years and the tenancy agreement expressly provides that this Act shall not apply:
+  (ba) Where the premises are let for a fixed-term tenancy of at least 5 years, the tenancy was granted before the commencement, on 1 January 2008, of the Property Law Act 2007, and the tenancy agreement expressly provides that this Act shall not apply:
   (c) Where the premises constitute part of a Corrections prison or police jail:
   (d) Where the premises constitute part of any hospital, home, or other institution for the care of sick, disabled, or aged persons:
   (e) Where the premises constitute part of Police barracks, or Police cells and lock-ups:
@@ -143,7 +143,25 @@ This Act shall not apply in the following cases:
   (q) Where the tenant's interest in the premises is a stratum estate in leasehold under the Unit Titles Act 1972:
   (r) Where the tenancy arises wholly from or depends wholly upon the ownership by the tenant of any shares in a company that owns the premises:
   (s) Where the tenancy agreement, not being in the nature of a domestic or family arrangement, expressly provides that the tenant will not occupy the premises personally but will sublet the premises either for commercial gain or to provide accommodation for any of the tenant's employees, and the tenancy is granted and taken genuinely for that purpose and not for the purpose of evading all or any of the provisions of this Act:
-  (t) Where the premises comprise bare land (with or without facilities) on which the tenant has the right under the tenancy agreement to place or erect a mobile home, caravan, or other means of shelter.
+  (t) Where the premises comprise bare land (with or without facilities) on which the tenant has the right under the tenancy agreement to place or erect a mobile home, caravan, or other means of shelter:
+  (u) if the tenancy has been entered into by a leasing authority under section 7(1)(e), (f), (g), or (h) of the Public Bodies Leases Act 1969:
+  (v) if the Maori Trustee has leased a Maori reserve or township land under section 26 of the Maori Reserved Land Act 1955:
+  (w) if the lease provides for a perpetual right of renewal:
+  (x) if the lease is of land on which a dwellinghouse is erected and the lessee is entitled (whether beneficially or as trustee), on or before the termination of the tenancy, to remove the dwellinghouse or to receive compensation in respect of it.
+
+### 5A Certain excluded long fixed-term tenancies remain subject to repealed sections of Property Law Act 1952
+(1) This section applies to a fixed-term tenancy of at least 5 years, and to which this Act does not apply because the tenancy—
+  (a) commenced before 1 December 1996 and is one to which section 6 of this Act, as repealed by section 4(1) of the Residential Tenancies Amendment Act 1996, continues to apply in accordance with section 4(2) of that Amendment Act; or
+  (b) commenced on or after 1 December 1996 and before 1 January 2008 (which is the date on which the Property Law Act 2007 came into force) and is one to which section 5(ba) of this Act applies.
+(2) The tenancy—
+  (a) remains subject to sections 104A, 104B, 107B, and 116A to 116M (except section 116B(2)) of the Property Law Act 1952 (the specified sections of the 1952 Act), so far as those sections were applicable to the tenancy immediately before the commencement, on 1 January 2008, of the Property Law Act 2007, and as if those sections had not been repealed by that Act; and
+  (b) is subject to subsections (3) to (6).
+(3) No covenant or agreement, whether entered into before or after the commencement, on 19 September 1975, of the Property Law Amendment Act 1975 has, from that commencement, any force or effect to deprive the lessor or lessee of any dwellinghouse of any right, power, privilege, or other benefit provided for in any of the specified sections of the 1952 Act.
+(4) Subsection (3) does not apply in respect of any lease of a dwellinghouse if the rent thereby reserved does not exceed 50% of the equitable rent of the dwellinghouse.
+(5) Subsection (6) applies to a person who makes an assertion, for the purposes of subsection (4), that the rent reserved by the lease of a dwellinghouse does not exceed 50% of the equitable rent of that dwellinghouse.
+(6) It is for the person to prove the assertion by showing that the rent does not exceed 50% of the equitable rent of the dwellinghouse within the preceding period of 12 months as determined by a District Court—
+  (a) on an application for the purpose by the person; and
+  (b) applying section 8 of the Rent Appeal Act 1973.
 
 ### 6 Long fixed-term tenancies
 [Repealed]
@@ -672,7 +690,7 @@ With the consent of the Tribunal, the parties to a tenancy agreement may provide
   (c) The mortgagee or other person shall have the same rights (if any) as the landlord had under the tenancy agreement or this Act to give notice terminating the tenancy or to apply to the Tribunal for an order terminating the tenancy or for an order for possession of the premises:
   (d) Without limiting paragraph (c) of this section, but subject to paragraph (e) of this section, in the case of a fixed-term tenancy, the mortgagee or other person shall have the same right to give notice terminating the tenancy as the landlord would have had if the tenancy had been a periodic tenancy:
   (e) Paragraph (d) of this section shall not apply where the mortgagee or other person is bound by the tenancy or consented in writing to its creation.
-(2) Subsection (1) of this section shall apply notwithstanding anything to the contrary in the Property Law Act 1952 or the Land Transfer Act 1952 or any other enactment.
+(2) Subsection (1) of this section shall apply notwithstanding anything to the contrary in the Property Law Act 2007 or the Land Transfer Act 1952 or any other enactment.
 
 ### 59 Destruction of premises
 (1) Where, otherwise than as a result of a breach of the tenancy agreement, the premises are destroyed, or are so seriously damaged as to be uninhabitable,—
@@ -871,7 +889,7 @@ Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's dutie
   (p) To approve the assignment by the tenant of the whole of the tenant's interest under any tenancy agreement to which this Act applies, or the subletting by the tenant under any such tenancy agreement of the whole or any part of the premises, where the Tribunal finds that the landlord has withheld consent unreasonably and the assignment or subletting is not absolutely prohibited by the tenancy agreement:
   (q) To make orders of a consequential or ancillary nature necessary to exercise or perfect the exercise of any of its jurisdiction.
 (3) The Tribunal shall have jurisdiction to make an order for the recovery by any person of any residential premises to which this Act applies, or the eviction of any person from any such premises, regardless of the value of the premises or the amount of any rent payable for the premises.
-(4) The Tribunal shall have and may exercise, in respect of tenancy agreements, all the jurisdiction and powers conferred on the High Court by section 120 of the Property Law Act 1952 (which relates to the granting of relief to the tenant against the landlord's refusal to grant a renewal of a tenancy agreement or to assign the landlord's interest in the premises).
+(4) In respect of tenancy agreements, the Tribunal has jurisdiction to exercise, and may exercise, all the powers conferred on a court by section 264 of the Property Law Act 2007 (which relates to the granting of relief to the tenant against the landlord's refusal to enter into a renewal of a tenancy agreement or to sell the landlord's interest in the premises to the tenant).
 (5) The Tribunal shall not have jurisdiction to require any landlord or any tenant under a tenancy agreement to which this Act applies to pay any sum, or to do any work to a value, or otherwise to incur any expenditure, in excess of $12,000.
 (6) Subsection (5) of this section shall not prevent a party to a tenancy agreement to which this Act applies from abandoning so much of a claim as exceeds $12,000 in order to bring the claim within the jurisdiction of the Tribunal; and, in any such case, an order of the Tribunal under this Act in relation to the claim shall operate to discharge from liability in respect of the amount so abandoned any person against whom the claim and the subsequent order is made.
 (7) The Tribunal shall have jurisdiction to hear and determine any claim arising under any tenancy agreement to which this Act applies, being a claim consisting of a balance, not exceeding $12,000, after a set-off or any counterclaim made by the respondent against the claimant arising under the same tenancy agreement, being a counterclaim admitted by the claimant in the notice of claim.
@@ -1431,9 +1449,9 @@ The Governor-General may from time to time, by Order in Council, make regulation
 ### 141 Schedule 1 may be amended by Order in Council
 The Governor-General may from time to time, by Order in Council made on the advice of the Minister tendered after consultation with the Principal Tenancy Adjudicator, amend Schedule 1 to this Act by adding or omitting the name of any place.
 
-### 142 Effect on Property Law Act 1952
-(1) Nothing in Part 8 of the Property Law Act 1952 shall apply to any tenancy to which this Act applies.
-(2) The provisions of Part 8 of the Property Law Act 1952, so far as they were applicable to any fixed-term tenancy or service tenancy immediately before the commencement of this Act, shall continue to apply to that tenancy, but shall be read subject to the provisions of this Act.
+### 142 Effect of Property Law Act 2007
+(1) Nothing in Part 4 of the Property Law Act 2007 applies to a tenancy to which this Act applies.
+(2) However, the Tribunal, in exercising its jurisdiction in accordance with section 85 of this Act, may look to Part 4 of the Property Law Act 2007 as a source of the general principles of law relating to a matter provided for in that Part (which relates to leases of land).
 
 ### 143 Housing Corporation Act 1974 amended
 [Repealed]
