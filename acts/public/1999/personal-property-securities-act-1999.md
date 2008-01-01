@@ -1,5 +1,5 @@
 # Personal Property Securities Act 1999
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to reform the law relating to security interests in personal property and, in particular,—aTo provide for the creation and enforceability of security interests in personal property; andbTo provide for the determination of priority between security interests in the same personal property; andcTo provide for the determination of priority between security interests and other types of interests in the same personal property; anddTo provide for the enforcement of security interests in personal property other than consumer goods; andeTo provide for the establishment of a register of security interests in personal property
 
@@ -864,9 +864,9 @@ A perfected security interest in crops is not extinguished or prejudicially affe
   (a) A secured party has applied the collateral under section 108, and the value of the money, account receivable, negotiable instrument, or investment security exceeds—
     (i) The amount of the debt owed to the secured party by the debtor (where the collateral secures payment); or
     (ii) The monetary value of the obligation owed to the secured party (where the collateral secures performance of an obligation):
-  (b) A secured party has sold the collateral under section 109, and the net proceeds of the sale exceed—
-    (i) The amount of the debt owed to the secured party by the debtor (where the collateral secures payment); or
-    (ii) The monetary value of the obligation owed to the secured party (where the collateral secures performance of an obligation).
+  (b) a secured party has sold the collateral under section 109, and the net proceeds of the sale exceed the sum of the amounts required to be paid under section 116A (if any) and—
+    (i) the amount of the debt owed to the secured party by the debtor (if the collateral secures payment); or
+    (ii) the monetary value of the obligation owed to the secured party (if the collateral secures performance of an obligation).
 (2) In subsection (1)(b), net proceeds, in relation to a sale of collateral, means net proceeds of the sale after deducting the reasonable costs and expenses of the secured party of, and incidental to, taking possession of, holding, storing, repairing, maintaining, valuing, and preparing the sale of, and selling, the collateral.
 
 **Application**
@@ -883,10 +883,10 @@ This Part applies only to security interests that—
 This Part does not apply to a receiver within the meaning of section 2(1) of the Receiverships Act 1993.
 
 ### 107 When contracting out of certain provisions in this Part permitted
-(1) The parties to a security agreement may contract out of sections 108, 109, 111(1), 112, 114(1)(a), 117(1)(c), 120(1), 122, 133, and 134.
+(1) The parties to a security agreement may contract out of sections 108, 109, 111(1), 112, 114(1)(a), 120(1), 122, 133, and 134.
 (2) The parties to a security agreement may contract out of the debtor's right to—
   (a) receive a statement of account under section 116:
-  (b) recover surplus under section 119:
+  (b)
   (c) receive notice of a secured party's proposal to retain collateral under section 120(2):
   (d) object to a secured party's proposal to retain collateral under section 121:
   (e) not have goods damaged when a secured party removes an accession under section 125:
@@ -894,8 +894,9 @@ This Part does not apply to a receiver within the meaning of section 2(1) of the
   (g) refuse permission to remove an accession under section 127:
   (h) receive notice of the removal of an accession under section 129:
   (i) apply to the Court for an order concerning the removal of an accession under section 131:
-  (j) redeem collateral under section 132.
+  (j)
 (3) The parties to a security agreement may contract out of the secured party's right to apply to a court for an order in respect of the removal of an accession under section 128.
+(4) The provisions of this section, as in force immediately before the commencement of the Property Law Act 2007, continue to apply to a security agreement that was entered into before that commencement.
 
 **Rights of secured party to apply collateral in satisfaction of secured obligation**
 
@@ -905,7 +906,7 @@ A secured party with priority over all other secured parties may apply an accoun
 **Disposal of collateral on default**
 
 ### 109 Secured party may take possession of and sell collateral
-(1) A secured party with priority over all other secured parties may take possession of and sell collateral when—
+(1) A secured party may take possession of and sell collateral when—
   (a) The debtor is in default under the security agreement; or
   (b) The collateral is at risk.
 (2) In subsection (1), collateral is at risk if the secured party has reasonable grounds to believe that the collateral has been or will be destroyed, damaged, endangered, disassembled, removed, concealed, sold, or otherwise disposed of contrary to the provisions of the security agreement.
@@ -915,6 +916,11 @@ A secured party who exercises a power of sale of collateral under section 109 ow
   (a) The debtor:
   (b) Any person who has registered a financing statement in the collateral that is effective at the time the secured party took possession of the collateral:
   (c) Any person who has given the secured party notice that that person claims an interest in the collateral.
+
+### 110A No defence or indemnity
+(1) It is not a defence to a proceeding against a secured party for a breach of the duty imposed by section 110 that the secured party was acting as the agent of, or under a power of attorney from, the debtor or any former debtor.
+(2) A secured party is not entitled to compensation or indemnity from the collateral or from the debtor, any former debtor, or any guarantor for any liability arising from a breach of the duty imposed by section 110.
+(3) This section applies despite anything to the contrary in any instrument or in any rule of law.
 
 ### 111 Apparent possession of certain collateral permitted in some cases
 (1) A secured party with priority over all other secured parties may take possession of collateral by taking apparent possession, if the collateral is of a kind that cannot be readily moved from the debtor's premises or is of a kind for which adequate storage facilities are not readily available.
@@ -933,10 +939,20 @@ A secured party may effect a sale of collateral under section 109 by auction, pu
   (c) Any other person that has given the secured party notice that that person claims an interest in the collateral.
 (2) Subsection (1) does not apply if—
   (a) The collateral may perish within 10 working days of the secured party taking possession, or
-  (b) The secured party believes on reasonable grounds that the collateral will decline substantially in value if it is not disposed of immediately after default; or
+  (b) The secured party believes on reasonable grounds that the collateral will decline substantially in value if it is not disposed of immediately; or
   (c) The cost of care and storage of the collateral is disproportionately large in relation to its value; or
   (d) The collateral is foreign currency; or
-  (e) For any other reason, a court on an ex parte application is satisfied that a notice is not required.
+  (e) the collateral consists of inventory; or
+  (f) the security interest arises under an instrument creating a charge on the property of a body corporate that comprises all, or substantially all, of the assets of the body corporate (whether or not there is a collateral security interest in the collateral securing the same debt or obligation); or
+  (g) after the secured party takes possession of the collateral, every person entitled to receive notice under subsection (1) consents in writing to the immediate sale of the collateral; or
+  (h) a court grants leave to the secured party to sell collateral under section 109 without complying with subsection (1).
+(3) If a security interest is over collateral and some, but not all, of the collateral is described in subsection (2), the secured party may sell the collateral described in subsection (2) under section 109 without complying with subsection (1).
+(4) If the security interest is created or provided for by a mortgage over goods,
+  (a) sections 128 to 136 of the Property Law Act 2007 apply; and
+  (b) the notice that is given under subsection (1) must be—
+    (i) in the form prescribed by regulations made under that Act (instead of being in the form prescribed by regulations made under this Act); and
+    (ii) given to the persons referred to in sections 128 and 130 of the Property Law Act 2007 (instead of to the persons referred to in subsection (1)).
+(5) In subsection (4), mortgage has the same meaning as in section 4 of the Property Law Act 2007.
 
 ### 115 Extinguishment of subordinate security interests on sale
 If collateral has been sold under section 109, all security interests in the collateral and its proceeds that are subordinate to the security interest of the secured party who sold the collateral are extinguished on the sale of the collateral.
@@ -947,6 +963,15 @@ If collateral is sold by a secured party under section 109, the secured party mu
   (b) The amount of the costs and expenses of, and incidental to, the sale:
   (c) The balance owing by the secured party to the debtor, or by the debtor to the secured party, as the case may be.
 
+### 116A Secured party selling collateral must pay prior ranking secured parties
+(1) A secured party who has sold collateral under section 109 must, before applying the net proceeds of the sale towards the satisfaction of the debt or other obligation secured by the security interest of the secured party, apply the net proceeds of the sale towards satisfying the claims of any person who has registered a financing statement in the name of the debtor over the collateral that is sold if—
+  (a) the registration was effective immediately before the collateral was sold; and
+  (b) the security interest relating to that registration had priority over the security interest of the secured party who sold the collateral.
+(2) The security interests to which subsection (1) applies must be paid in the order of their priority as determined by Part 7 or by Part 8.
+(3) The persons who must be paid under subsection (1) are entitled to recover the amount that must be paid from the secured party.
+(4) In this section, net proceeds has the same meaning as in section 104(2).
+(5) This section is subject to sections 153 and 154 of the Property Law Act 2007.
+
 ### 117 Distribution of surplus
 (1) If a secured party has applied collateral under section 108 or sold collateral under section 109, as the case may be, the secured party must pay the following persons the amount of any surplus by satisfying the claims of those persons in the following order:
   (a) Any person who has registered a financing statement in the name of the debtor over the collateral that is sold where—
@@ -956,6 +981,7 @@ If collateral is sold by a secured party under section 109, the secured party mu
   (c) The debtor.
 (2) The security interests to which subsection (1)(a) applies must be paid in the order of their priority as determined by Part 7 or by Part 8.
 (3) Subsection (1) applies despite the extinguishment of a security interest under section 115.
+(4) This section is subject to sections 153 and 154 of the Property Law Act 2007.
 
 ### 118 Surplus may be paid into court
 (1) The secured party may pay the surplus into court if there is a question as to who is entitled to receive payment under section 117.
