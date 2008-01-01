@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2008-01-01_
 
 > An Act to reform the administration of education
 
@@ -3381,7 +3381,7 @@ The Minister may at any time appoint a person to—and in that case the Minister
   (d) contributes to the sustainable economic and social development of the nation; and
   (e) strengthens New Zealand's knowledge base and enhances the contribution of New Zealand's research capabilities to national economic development, innovation, international competitiveness, and the attainment of social and environmental goals; and
   (f) provides for a diversity of teaching and research that fosters, throughout the system, the achievement of international standards of learning and, as relevant, scholarship.
-(2) In making decisions under this Part, Parts 13A to 18, and Part 19, and under the provisions of Parts 18A and 20 to 24 that relate to tertiary education, the Minister, the Commission, the Qualifications Authority, and the service continued by Part 22 must take into account the objects specified in subsection (1), so far as is practicable in the circumstances.
+(2) In making decisions under this Part, Parts 13A to 18, and Part 19, and under the provisions of Parts 18A and 20 to 24 that relate to tertiary education, the Minister, the Commission, the Qualifications Authority, and Career Services must take into account the objects specified in subsection (1), so far as is practicable in the circumstances.
 
 ### 159 Interpretation
 (1) In this Part and Part 13A to 24 of this Act, and in Schedules 13 to 17, unless the context otherwise requires,—
@@ -3393,7 +3393,6 @@ The Minister may at any time appoint a person to—and in that case the Minister
   - **Association**
   - **Association of students**
   - **Award** includes a degree, diploma, certificate, or qualification
-  - **charter** means a document of the kind described in section 159L or, in the case of an institution that has a charter approved under Part 15, a document of the kind described in section 184
   - **Chief executive** , in relation to an institution, means the person who, by whatever name the person is called, is the chief executive of the institution and includes a person for the time being performing the duties of the chief executive of the institution
   - **Chief Review Officer**
   - **College of education** means, subject to subsection (3) of this section, a body referred to in section 162(1)(b) of this Act or a body established as a college of education under section 162(2) of this Act
@@ -3415,6 +3414,7 @@ The Minister may at any time appoint a person to—and in that case the Minister
   - **Existing non-university institution** means an existing institution other than a body specified in Part 1 of Schedule 13 to this Act
   - **Foreign student** , at any time, means a person who is not then a domestic student
   - **Functions** , except where the expression occurs in a provision setting out the functions of a body, includes duties
+  - **funding approval** means a decision made by the Commission under section 159YA to fund (in whole or in part) some or all of the tertiary education programmes and activities described in an organisation's proposed plan under section 159P(d)(i) and (ii)
   - **give public notice** means to publish a notice in the Gazette that—
     (a) gives notice of the fact that something has been made, approved, or done; and
     (b) includes information about how or where the public can see and obtain a copy of the thing that has been made, approved, or done
@@ -3437,26 +3437,26 @@ The Minister may at any time appoint a person to—and in that case the Minister
   - **Nationally recognised award** means an award granted under section 263 of this Act in respect of any approved nationally recognised course of study or training
   - **New Zealand apprenticeship committee** means an apprenticeship committee established under section 27 of the Apprenticeship Act 1983
   - **Personal property** includes money
+  - **plan** means a plan in relation to which funding approval has been given
   - **Polytechnic** means, subject to subsection (3) of this section,—
     (a) A body that was established immediately before the day on which the Education Amendment Act 1990 received the Royal assent, or is established on or after that day and before the 1st day of January 1991, as a polytechnic, institute of technology, technical institute or community college under the Education Act 1964; or
     (b) A body established as a polytechnic under section 162(2) of this Act:
   - **Private training establishment** means an establishment, other than an institution, that provides post-school education or vocational training
   - **Proceeding** means any legal or administrative proceeding, and includes an arbitration
-  - **profile** means a document of the kind described in section 159W
+  - **proposed plan** means a proposed plan in relation to which an organisation is seeking funding approval
   - **Qualifications Authority** means the New Zealand Qualifications Authority established by Part 20 of this Act
   - **Regional Employment and Access Council** means a Council of that name established under section 7 of the Access Training Scheme Act 1988
   - **Registered establishment** means a private training establishment that has been granted registration by the Qualifications Authority under Part 18 of this Act, other than a registration that has been cancelled
   - **Secretary** means the chief executive of the Ministry
   - **specialist college** means, subject to subsection (3), a body established as a specialist college under section 162(2)
   - **Staff** , in relation to an institution, does not include the chief executive of the institution
-  - **statement of tertiary education priorities** means the latest statement issued by the Minister under section 159AC
   - **Student member** , in relation to the Council of an institution, means a member of that Council referred to in section 171(2)(e) of this Act
   - **tertiary education provider** means all or any of the following, but does not include an industry training organisation
     (a) an institution:
     (b) a registered establishment:
     (c) a government training establishment:
     (d) any other person or body that provides, or proposes to provide, tertiary education and that is funded through non-departmental output classes from Vote Education (for example, community education providers)
-  - **tertiary education strategy** means the latest strategy document approved under section 159AA.
+  - **tertiary education strategy** means the latest strategy document issued under section 159AA.
   - **University** means, subject to subsection (3) of this section, a body referred to in section 162(1)(a) of this Act or a body established as a university under section 162(2) of this Act
   - **University Grants Committee** means the University Grants Committee established under Part 1 of the Universities Act 1961
   - **Vice-Chancellor** , in relation to a university, means the chief executive of the university, by whatever name called
@@ -3473,37 +3473,37 @@ The Minister may at any time appoint a person to—and in that case the Minister
 (6) The expiry of regulations made under subsection (4) does not affect the validity of any act done pursuant to, or in accordance with, the regulations before the date on which the regulations expire.
 
 ### 159AA Tertiary education strategy
-(1) The Minister must from time to time approve a tertiary education strategy that sets out the Government's medium- to long-term strategy for tertiary education.
-(2) The tertiary education strategy must address the following:
-  (a) the economic context:
-  (b) the social context:
-  (c) the environmental context:
+(1) The Minister must, from time to time, issue a tertiary education strategy that sets out—
+  (a) the Government's long-term strategic direction for tertiary education; and
+  (b) the Government's current and medium-term priorities for tertiary education.
+(2) The part of the tertiary education strategy that sets out the Government's long-term strategic direction for tertiary education must address the following:
+  (a) economic goals:
+  (b) social goals:
+  (c) environmental goals:
   (d) the development aspirations of Maori and other population groups.
-(3) Before approving a tertiary education strategy, the Minister must consult, either directly or through the Secretary, with those stakeholders in the tertiary education sector that he or she considers ought to be consulted.
-(4) As soon as practicable after approving a tertiary education strategy, the Minister must—
-  (a) give public notice of it; and
-  (b) present a copy of it to the House of Representatives.
+(3) Before issuing a tertiary education strategy, the Minister must consult with—
+  (a) those stakeholders in the tertiary education sector that he or she considers ought to be consulted; and
+  (b) the Commission.
+(4) As soon as practicable after issuing a tertiary education strategy, the Minister must give public notice of it.
 
 ### 159AB Importance of tertiary education strategy
-In exercising their functions under this Act or any other enactment, the Commission, the Qualifications Authority, and the service continued by Part 22 must have regard to the tertiary education strategy.
+In exercising their functions under this Act or any other enactment, the Commission, the Qualifications Authority, and Career Services must have regard to the tertiary education strategy.
 
-### 159AC Statement of tertiary education priorities
-(1) The Minister must, at least once in every 3 years, issue a statement of tertiary education priorities that—
-  (a) is based on, and is not inconsistent with, the tertiary education strategy; and
-  (b) sets out the Government's current priorities for tertiary education.
-(2) The Minister must consult with the Commission before issuing or amending a statement of tertiary education priorities.
-(3) The Minister may, at any time after a statement of tertiary education priorities has been in force for a year, revoke and replace, or amend the statement. Any amendment forms part of the statement it amends.
-(4) The Minister must—
-  (a) give public notice of every statement of tertiary education priorities and of every amendment to it; and
-  (b) present a copy of it, and every amendment to it, to the House of Representatives.
+### 159AC Revocation and replacement or amendment of tertiary education strategy
+(1) The Minister may, at any time, revoke and replace, or amend, a tertiary education strategy.
+(2) Before revoking and replacing, or significantly amending, a tertiary education strategy, the Minister must consult with—
+  (a) those stakeholders in the tertiary education sector that he or she considers ought to be consulted; and
+  (b) the Commission.
+(3) As soon as practicable after revoking and replacing, or significantly amending, a tertiary education strategy, the Minister must give public notice of the revocation and replacement, or amendment.
+(4) An amendment forms part of the tertiary education strategy it amends.
 
 ### 159AD Roles within tertiary education sector
-(1) Nothing in this Act affects the fact that the Ministry is the Minister's principal policy adviser on tertiary education matters.
+(1)
 (2) The Qualifications Authority (or, in the case of universities, the New Zealand Vice-Chancellors Committee) is the body primarily responsible for quality assurance matters in the tertiary education sector.
 (3) This section is for the avoidance of doubt.
 
 ### 159AE Ministry may hold and disseminate information
-Any information collected and held by the Commission, the Qualifications Authority, or the service continued by Part 22 may be held by the Ministry on behalf of the relevant agency and be disclosed by the Ministry to—
+Any information collected and held by the Commission, the Qualifications Authority, or Career Services may be held by the Ministry on behalf of the relevant agency and be disclosed by the Ministry to—
   (a) the agency on whose behalf it is held; and
   (b) any other person or agency that is entitled to receive it.
 
@@ -3521,7 +3521,27 @@ Any information collected and held by the Commission, the Qualifications Authori
 **Preliminary provisions**
 
 ### 159A Purpose of Part
-The purpose of this Part is to establish a Tertiary Education Commission and the means by which the Government will exercise leadership of the tertiary education sector to ensure the strategic use of resources.
+The purpose of this Part is to establish—
+  (a) a Tertiary Education Commission (the Commission); and
+  (b) a framework for planning, funding, and monitoring in the tertiary education sector that primarily, but not exclusively, relates to funding organisations via plans.
+
+### 159ABA Outline of framework for planning, funding, and monitoring in tertiary education sector
+(1) This section—
+  (a) sets out a general outline of the framework for planning, funding, and monitoring in the tertiary education sector; and
+  (b) is by way of explanation only.
+(2) If any other section in this Act conflicts with this section, the other section prevails.
+(3) The following steps describe, in general terms, how the framework for planning, funding, and monitoring in the tertiary education sector works:
+  (a) the Minister determines the design of funding mechanisms and whether funding under those mechanisms is via plans:
+  (b) the Commission develops the details of how to implement funding mechanisms:
+  (c) the Commission issues guidance on what must be contained in proposed plans:
+  (d) the Commission identifies criteria for assessing proposed plans:
+  (e) an organisation prepares a proposed plan—
+    (i) in consultation with the stakeholders the organisation considers ought to be consulted and any other persons specified by the Commission; and
+    (ii) in a manner consistent with the Commission's guidance:
+  (f) the organisation submits its proposed plan to the Commission:
+  (g) the Commission applies assessment criteria to the proposed plan and decides whether or not to give funding approval:
+  (h) if the proposed plan is given funding approval, the Commission determines the amount of funding payable to the organisation by applying the appropriate funding mechanism:
+  (i) if an organisation's proposed plan receives funding approval, the Commission monitors the organisation's performance to determine if it is achieving, or has achieved, the outcomes it has specified in its plan.
 
 ### 159B Definition of organisation
 (1) In this Part, unless the context otherwise requires, organisation means—
@@ -3541,7 +3561,7 @@ The purpose of this Part is to establish a Tertiary Education Commission and the
 
 ### 159D Composition of Commission
 (1) The Commission comprises at least 6, but not more than 9, members appointed in accordance with section 28(1)(a) of the Crown Entities Act 2004 after consultation with the Minister of Maori Affairs.
-(2) At least 2 months before appointing a member (other than a replacement member appointed under clause 11(1) of Schedule 13A), the Minister must advertise his or her intention to appoint a member and must seek responses from interested persons.
+(2) At least 2 months before appointing a member, the Minister must advertise his or her intention to appoint a member and must seek responses from interested persons.
 (3) Subsection (2) does not apply if the Minister appoints as a member a person who, immediately before the appointment, was a member of the Transition Tertiary Education Commission.
 (4) When appointing members of the Commission, the Minister must have regard to the need for its members to collectively have a breadth of experience and expertise, and depth of knowledge, regarding areas of the tertiary education sector.
 (5) Subsection (4) does not limit section 29 of the Crown Entities Act 2004.
@@ -3553,18 +3573,25 @@ The Commission may not charge a commercial rate for any goods and services that 
 
 ### 159F Functions of Commission
 (1) The functions of the Commission are—
-  (a) to give effect to the statement of tertiary education priorities through—
-    (i) negotiating charters with organisations; and
-    (ii) negotiating and approving profiles, or parts of profiles, for the purpose of funding; and
-    (iii) allocating funds to organisations; and
-    (iv) building the capability of organisations; and
+  (a) to give effect to the tertiary education strategy by—
+    (i) prescribing and publishing guidance on the content of, and processes associated with seeking funding approval for, proposed plans; and
+    (ii) prescribing and publishing guidance on the criteria the Commission will use to assess proposed plans; and
+    (iii) assessing proposed plans and deciding whether they will receive funding approval by applying the relevant assessment criteria; and
+    (iv) determining the amount of funding payable to organisations by applying the appropriate funding mechanisms; and
+    (v) allocating funding to organisations that have plans; and
+    (vi) allocating funding to organisations that are not required to have plans in order to receive funding; and
+    (vii) prescribing what plan summaries must contain for the purposes of public inspection; and
+    (viii) building the capability of organisations; and
   (b) to provide advice to the Minister on—
-    (i) the tertiary education strategy and the statement of tertiary education priorities; and
-    (ii) the activities and performance of the sector generally; and
+    (i) the tertiary education strategy; and
+    (ii) the activities and performance of the tertiary education sector generally; and
     (iii) any policy implications arising from any research, monitoring, or evaluation conducted under paragraph (c); and
+  (ba) to develop details of how to implement funding mechanisms; and
+  (bb) to implement funding mechanisms; and.
   (c) to conduct applied policy and programme research, monitoring, and evaluation; and
-  (d) to monitor the performance of organisations against their profiles for the purpose of assessing overall achievement in relation to the tertiary education strategy and the statement of tertiary education priorities; and
-  (e) to undertake any functions delegated to the Commission, including (without limitation) functions relating to the funding of organisations other than under section 159ZC; and
+  (d) to monitor the performance of organisations that receive funding from the Commission including by measuring performance against specified outcomes; and
+  (da) to undertake any functions that the Minister directs the Commission to undertake under section 159J; and
+  (e) to undertake any functions delegated to the Commission, including (without limitation) functions relating to the funding of organisations other than under section 159YA or 159ZC; and
   (f) to undertake any other function given by this Act, the Industry Training Act 1992, the Modern Apprenticeship Training Act 2000, or any other enactment; and
   (g)
 (2) In addition, the Commission may provide information and other tertiary-related services to the Crown, provided that these functions are consistent with the Commission's statement of intent and are consistent with, and do not displace, any of its functions under subsection (1).
@@ -3579,9 +3606,7 @@ In performing its functions, the Commission must, in addition to complying with 
 [Repealed]
 
 ### 159I Delegation of functions or powers of Minister
-(1) The Minister may, either generally or specifically, delegate to the Commission all or any of the Minister's functions and powers under this Act or any other Act, including—
-  (a) functions or powers delegated to the Minister under this Act or any other Act; and
-  (b) the Minister's powers relating to charters.
+(1) The Minister may, either generally or specifically, delegate to the Commission all or any of the Minister's functions and powers under this Act (other than those referred to in section 159L) or any other Act, including functions or powers delegated to the Minister under this Act or any other Act.
 (2) A delegation under this section must be in writing.
 (3) No delegation under this section may include the power to delegate under this section.
 (4) The power of the Minister to delegate under this section—
@@ -3595,7 +3620,8 @@ In performing its functions, the Commission must, in addition to complying with 
 (1)
 (2)
 (3) Every direction under section 103 of the Crown Entities Act 2004. must be consistent with the tertiary education strategy and the functions of the Commission.
-(4) The Minister may not direct the Commission to provide or deny funding under section 159ZC to any specified organisation.
+(3A) The Minister may, in accordance with section 112 of the Crown Entities Act 2004, direct the Commission to undertake additional functions that are consistent with the Commission's objectives.
+(4) The Minister may not direct the Commission to provide or deny funding under section 159YA or 159ZC to any specified organisation.
 (5)
 (6) If the Minister gives a direction to the Commission, the Commission must include in its annual report for every year to which the direction relates a report on how the Commission has responded to it.
 
@@ -3613,6 +3639,11 @@ The chief executive must—
   (a) ensure the efficient and effective administration of the affairs of the Commission; and
   (b) act in accordance with lawful policies and directions given to him or her by the Commission.
 
+### 159KBA Monitoring and reporting function of chief executive in relation to institutions
+The chief executive of the Commission—
+  (a) must, on an ongoing basis, monitor institutions that receive funding under this Part in order to assess whether the operation or long-term viability of any of those institutions is at risk; and
+  (b) may report from time to time to the Minister on the outcome of that monitoring.
+
 ### 159KC Declaration of interests
 (1) A person who is proposed to be appointed as chief executive must declare any interests (within the meaning of that term in section 10 of the Crown Entities Act 2004) to the Commission before accepting appointment to the position of chief executive.
 (2) If the chief executive has any direct or indirect interest in any transaction or other matter listed in section 62 of the Crown Entities Act 2004, he or she must disclose that interest to the Commission.
@@ -3626,7 +3657,7 @@ The chief executive must—
 ### 159KE Statement of intent
 (1) The Commission must include the following information in its statement of intent:
   (a) a general description of the things that the Commission proposes to do, achieve, or work towards during the period covered by the statement of intent, which—
-    (i) must be consistent with the statement of tertiary education priorities and the Commission's functions; and
+    (i) must be consistent with the tertiary education strategy and the Commission's functions; and
     (ii) must include a summary of the nature and scope of the Commission's proposed operations; and
     (iii) may cover both financial and non-financial matters; and
   (b) a general description of the Commission's proposed strategies and activities for giving effect to, or achieving, the things referred to in paragraph (a), including a list of the intended principal activities of the Commission and how they relate to the things referred to in paragraph (a); and
@@ -3641,7 +3672,7 @@ The chief executive must—
 (4) The Minister may, in relation to the Commission, exercise his or her powers under section 147(1) of the Crown Entities Act 2004 as if that section included a reference to subsection (1)(a) and (e); and that section applies accordingly.
 
 ### 159KF Annual report
-(1) The Commission must include in its annual report a description of how the Commission is monitoring, and how it will report on, progress in implementing the tertiary education strategy.
+(1) The Commission must include in its annual report a description of how the Commission is monitoring, and how it will report on, progress in giving effect to the tertiary education strategy.
 (2) This section does not limit section 151 of the Crown Entities Act 2004.
 
 ### 159KG Certain powers must not be delegated
@@ -3650,179 +3681,348 @@ The chief executive must—
   (b) any other power that the Minister specifies by notice in writing to the Commission.
 (2) This section applies despite section 73 of the Crown Entities Act 2004.
 
-**Charters**
+**Funding mechanisms**
 
-### 159L What is a charter?
-An organisation's charter is a document that—
-  (a) sets out the organisation's mission and role in the tertiary education system; and
-  (b) is intended to cover a medium- to long-term timeframe; and
-  (c) provides the basis for development of the organisation's profile; and
-  (d) is prepared by the organisation in accordance with the requirements for the contents of charters prescribed by the Minister under section 159M; and
-  (e) is approved by the Minister in accordance with the criteria for assessment of charters identified by the Minister under section 159M.
+### 159L Minister determines design of funding mechanisms
+(1) The Minister must, from time to time, determine the design of the funding mechanisms that the Commission must use to fund organisations.
+(2) Without limiting subsection (1), in making a determination under that subsection, the Minister must—
+  (a) identify the general form and essential components of each funding mechanism; and
+  (b) indicate which of the funding mechanisms relates to—
+    (i) funding to be paid by the Commission under section 159YA (relating to funding organisations via plans); and
+    (ii) funding to be paid by the Commission under section 159ZC (relating to funding organisations under this Part other than via plans); and
+    (iii) other types of funding (if any).
+(3) Without limiting subsection (1), in making a determination under that subsection, the Minister may—
+  (a) specify the amount of money, or the proportion of an amount of money, available under any particular funding mechanism; and
+  (b) provide for funding to different groups of organisations or types of organisation; and
+  (c) provide for different versions of, or modifications to, a funding mechanism when applying it to different groups of organisations or types of organisation; and
+  (d) specify conditions that the Commission must attach to funding that is provided under any funding mechanism including, without limitation, conditions setting limits on the fees that an organisation may charge domestic students; and
+  (e) provide for funding that targets particular groups of students.
 
-### 159M Content of charters, and assessment criteria
-(1) The Minister must, in consultation with the Commission, prescribe and give public notice of—
-  (a) the content of charters, being the matters that charters must address; and
-  (b) the criteria that the Minister will use to assess proposed charters.
-(2) When prescribing, under subsection (1), the content of charters and assessment criteria for charters, the Minister may prescribe standard contents and criteria, as well as prescribing different contents and different criteria applying to different organisations, groups of organisations, or types of organisation.
-(3) The criteria for assessment may (without limitation) include criteria that relate to the process used to develop a charter as well as to the content of the charter.
-(4) If the Minister requires an organisation, by notice in writing, to consult over its charter with any specified person or group of persons, that requirement is for all purposes to be treated as assessment criteria that have been prescribed under this section.
+### 159M Restrictions on design of funding mechanisms
+In determining a design for a funding mechanism under section 159L, the Minister may not—
+  (a) identify a specified organisation or organisations to which funding is to be provided or denied under any funding mechanism; or
+  (b) specify conditions under section 159L(3)(d) that set limits on the fees that organisations may charge domestic students until 2 months after the date on which the Minister has published a notice in the Gazette that—
+    (i) states that the Minister proposes to specify conditions of that kind; and
+    (ii) sets out the proposed conditions; and
+    (iii) invites submissions on the proposed conditions; and
+    (iv) specifies the date by which submissions must be received, which must be a date no later than 21 days after the date of the Gazette notice.
 
-### 159N Organisations that must or may have a charter
-(1) After 1 January 2004, the following must have a charter prepared and approved under this Part:
-  (a) all institutions:
-  (b) all other organisations that seek or receive funding from the Commission, unless exempt under subsection (4).
-(2) At any time before 1 January 2004, the Commission may require, by notice in writing to the organisation, any organisation referred to in subsection (1) to prepare a charter under this Part within a specified reasonable period, and an organisation that receives such a notice must prepare a charter as required.
-(3) Before 1 January 2004, any organisation that is not required under subsection (2) to have a charter, but that wishes to have one may, with the agreement of the Minister, prepare and seek approval for a charter.
-(4) The Minister may, on the advice of the Commission,—
-  (a) by notice in writing to an organisation, exempt the organisation from the requirement to have a charter or from any requirement about the content of charters; and
-  (b) by notice in the Gazette, exempt any group of organisations or type of organisation from the requirement to have a charter or from any requirement about the content of charters.
-(5) Subsection 4 does not apply to institutions.
+### 159N Funding mechanisms consistent with quality assurance principle
+Every funding mechanism must be consistent with the principle that receiving public funds is dependent on an organisation meeting the quality assurance requirements in this Act.
 
-### 159O Preparing charters
-(1) An organisation that wishes, or is obliged, to have a charter must—
-  (a) identify its stakeholders; and
-  (b) prepare a proposed charter; and
-  (c) consult with its stakeholders over the proposed charter; and
-  (d) consult with any other person or group of persons with whom the Minister requires the organisation to consult.
-(2) After completing the consultation required under subsection (1)(c) and (d), the organisation must submit the proposed charter to the Commission for comment and consultation.
-(3) Following consultation with the Commission over, and (if necessary) modification of, the proposed charter, the organisation must submit the proposed charter to the Commission for approval by the Minister.
+### 159O Commission to implement funding mechanisms
+The Commission must—
+  (a) develop the details of how to implement the Minister's determination of the design of funding mechanisms under section 159L; and
+  (b) implement the funding mechanisms.
 
-### 159P Minister's approval of charters
-(1) The Minister must assess a proposed charter against the criteria prescribed under section 159M(1).
-(2) The Minister must approve a proposed charter unless satisfied on reasonable grounds that he or she should not do so.
-(3) A charter comes into effect on the date specified by the Minister.
-(4) If the Minister rejects a proposed charter, he or she must give reasons for the rejection.
-(5) An organisation may submit a revised proposed charter to the Minister as many times as is necessary, but only if, before resubmitting it, the organisation has consulted further with the Commission and, if the revisions are significant, with the people or groups with whom it is required to consult under section 159O(1)(c) and (d).
+**Requirements for, and content of proposed plans**
 
-### 159Q Minister's special powers in relation to charters of institutions
-(1) If the Minister and an institution cannot agree over the content of the institution's charter, the Minister must, after consulting as he or she thinks appropriate, determine the matter.
-(2) The Minister may, at any time, on his or her own initiative, propose amendments to an institution's charter or proposed charter.
-(3) If the Minister proposes an amendment to a charter or proposed charter, he or she must notify the institution of the proposal and give the institution a reasonable period in which to make submissions in response to it.
-(4) After considering any submissions made by an institution on the proposal, the Minister may approve the proposed amendment, with or without further amendment, or abandon the proposal.
-(5) Nothing in this section limits the right or ability of an institution to propose any amendment to its own charter or proposed charter.
+### 159P Requirements for proposed plans
+A proposed plan must—
+  (a) describe how an organisation will give effect to the Government's current and medium-term priorities as described in the tertiary education strategy; and
+  (b) describe how an organisation will address the needs of its stakeholders (including, without limitation, students enrolled with the organisation); and
+  (c) describe an organisation's mission and role for the term of the plan; and
+  (d) set out a description of all—
+    (i) tertiary education programmes run by the organisation for which the organisation is seeking funding under section 159YA and specify the amount of funding sought in relation to those programmes; and
+    (ii) activities (including, without limitation, programmes and initiatives that will be undertaken by the organisation in order to build its capability) for which the organisation is seeking funding under section 159YA and specify the amount of funding sought in relation to those activities; and
+  (e) describe an organisation's proposed outcomes (including, without limitation, in relation to the tertiary education programmes and activities described in paragraph (d)(i) and (ii) in relation to which funding is sought) and the performance indicators that the organisation will use to measure whether those outcomes have been achieved; and
+  (f) set out a description of all tertiary education programmes run by the organisation other than those in relation to which funding is sought.
 
-### 159R Minister may approve interim charters for institutions
-(1) In any of the following circumstances, the Minister may, on his or her own initiative, approve an interim charter for an institution:
-  (a) when an institution is newly established:
-  (b) when an institution has changed its status:
-  (c) when an institution has merged with another institution or had another institution incorporated into it:
-  (d) when an institution's charter has expired or been revoked:
-(2) An interim charter approved under subsection (1) remains in force until a new charter is approved under section 159P.
+### 159Q Exemption from certain requirements for proposed plans
+(1) The Commission may, by notice in writing, exempt an organisation from having to comply with the requirements in section 159P(f).
+(2) The Commission may not exercise the power in subsection (1) in relation to an institution.
+(3) Before exempting an organisation under subsection (1), the Commission must consider—
+  (a) the amount of funding sought by the organisation; and
+  (b) the amount of funding already received by the organisation; and
+  (c) the type and size of the organisation; and
+  (d) the effective operation of the tertiary education system; and
+  (e) the Government's current and medium-term priorities as described in the tertiary education strategy; and
+  (f) any other matters the Commission considers relevant.
 
-### 159S Amendments to, and review of, charters
-(1) Sections 159O and 159P apply to an amendment or proposed amendment to a charter (other than an amendment proposed by the Minister under section 159Q) as if the amendment or proposed amendment were a charter or proposed charter.
-(2) If the Minister approves an amendment to a charter, the amendment forms part of the charter from the date set by the Minister.
-(3) The Minister may, at any time, require an organisation to review its charter with a view to amending or replacing it.
+### 159R Content of, and processes for submitting, proposed plans prescribed by Commission
+(1) The Commission must prescribe and give public notice of—
+  (a) the content of organisations' proposed plans (being the particular matters that proposed plans must address or include in order to meet the requirements in section 159P); and
+  (b) the kinds of background or supplementary information that the Commission requires an organisation to provide in relation to a proposed plan; and
+  (c) the timetable and process for the submission of proposed plans to the Commission.
+(2) When prescribing matters under subsection (1), the Commission may include—
+  (a) standard content, as well as different content applying to different organisations, groups of organisations, or types of organisation; and
+  (b) different information, timetables, and processes for different organisations, groups of organisations, or types of organisation.
+(3) Notices given under subsection (1) may be—
+  (a) given at different times; and
+  (b) amended by the Commission.
+(4) The Commission must give public notice of a significant amendment made under subsection (3)(b).
 
-### 159T Expiry of charters
-(1) Every charter must specify the date on which it expires, which must be—
-  (a) an expiry date as agreed with the Minister, which must be a date no later than 10 years after the date on which the charter comes into effect; or
-  (b) in the case of an industry training organisation, the date on which its recognition under section 5 or section 8(1) of the Industry Training Act 1992 expires, or any earlier date as agreed with the Minister.
-(2) Every charter, unless revoked earlier, expires on its expiry date.
+### 159S Commission may exempt organisation from complying with certain matters
+The Commission may, by notice in writing, exempt an organisation from complying with any of the matters it has prescribed under section 159R(1).
 
-### 159U Charter may lapse if organisation does not receive funding
-The charter of an organisation (other than an institution) lapses if the provider does not receive funding from the Commission for 2 consecutive years.
+**Submitting proposed plan**
 
-### 159V Charters must be available
-An organisation that has a charter must ensure that the charter is available for inspection by the public, and that copies may be obtained at no more than a reasonable cost.
+### 159T Who must submit proposed plan
+(1) An organisation that is seeking funding from the Commission under a funding mechanism that provides for funding via plans must submit a proposed plan.
+(2) Subsection (1) does not apply to an organisation that is exempt under section 159U.
+
+### 159U Exemption from requirement to submit proposed plan
+(1) The Commission may, by notice in writing, exempt an organisation, a group of organisations, or a type of organisation that is seeking funding under a funding mechanism that provides for funding via plans from the requirement, in section 159T(1), to submit a proposed plan.
+(2) The Commission may not exercise the power in subsection (1) in relation to an institution.
+(3) The Commission may exempt an organisation, a group of organisations, or a type of organisation under subsection (1) for a specified period that the Commission considers appropriate.
+
+### 159V Frequency of submitting proposed plans
+An organisation that is required to submit a proposed plan must submit a proposed plan to the Commission—
+  (a) at least once every 3 years; or
+  (b) if the Commission directs, at more frequent intervals specified by the Commission.
 
 **Profiles**
 
-### 159W What is a profile?
-An organisation's profile is a document that—
-  (a) is prepared annually; and
-  (b) sets out the organisation's operating plans, key policies, and proposed activities for the next 3 years; and
-  (c) sets out the organisation's objectives, and the performance measures and targets that the organisation will use to measure its performance; and
-  (d) sets out the short- to medium-term strategic direction of the organisation; and
-  (e) identifies the activities of the organisation for which it seeks or receives funding from the Commission; and
-  (f) sets out the basis on which funding will be sought or received from the Commission; and
-  (g) demonstrates how the organisation will give effect to its charter (unless it is exempt under section 159N(4) from the requirement to have one); and
-  (h) identifies the information that the organisation will supply on an annual basis to the Commission; and
-  (i) includes the content prescribed under section 159X(1)(a), and is in the form prescribed under that section.
+### 159W Submitting combined proposed plan
+The Commission may permit more than 1 organisation to prepare and submit a combined proposed plan if the Commission considers it appropriate.
 
-### 159X Content of profiles and criteria for approval
-(1) The Commission must, at least once every 3 years, prescribe and give public notice of—
-  (a) the content and form of profiles; and
-  (b) the criteria on which the Commission will approve profiles, or parts of profiles, for funding purposes; and
-  (c) the kinds of background or supplementary information that the Commission may require an organisation to provide when it submits its profile to the Commission; and
-  (d) the timetable and process for the submission of profiles to the Commission.
-(2) Notices given under subsection (1)—
-  (a) may prescribe different content and form, criteria, information, timetables, and processes for different organisations, groups of organisations, or types of organisation; and
-  (b) may be given at different times; and
-  (c) may be amended by the Commission, in which case the Commission must give public notice of the amendment.
-(3) The Commission may permit organisations to prepare combined profiles for more than 1 organisation.
-(4) The Commission may waive any requirement (other than a requirement imposed by this Act) as to the content or form of profiles, or the timing or process to be used in submitting them.
+**Preparing and consulting on proposed plans**
 
-### 159Y Organisations that must have a profile
-(1) After 1 January 2004, the following organisations must have a profile:
-  (a) all institutions:
-  (b) all other organisations that seek or receive funding from the Commission, unless exempt under subsection (3).
-(2) At any time before 1 January 2004, the Commission may, by notice in writing to an organisation, require the organisation to prepare a profile within a specified reasonable period; and an organisation that receives such a notice must prepare a profile.
-(3) Despite subsection (1), the Commission may,—
-  (a) by written notice to an organisation, exempt the organisation for a specified period from the requirement to have a profile; and
-  (b) by notice in the Gazette, exempt any group of organisations, or type of organisation, from the requirement to have a profile.
-(4) Subsection (3) does not apply to institutions.
+### 159X Preparing and consulting on proposed plans
+(1) An organisation that is required to submit a proposed plan must prepare the proposed plan in accordance with this Part (including, unless it is exempt under section 159S, complying with the matters prescribed by the Commission under section 159R).
+(2) A proposed plan must be prepared in consultation with—
+  (a) the stakeholders that the organisation considers ought to be consulted; and
+  (b) any other person or group of persons that the Commission stipulates.
+(3) An organisation must develop the content of its proposed plan in collaboration with the Commission, including collaborating with the Commission about ways in which the organisation can implement the matters prescribed by the Commission under section 159R.
+(4) After completing the requirements in subsections (1) to (3), an organisation must submit its proposed plan to the Commission.
+
+**Assessment of proposed plans and giving of funding approval**
+
+### 159Y Criteria for assessing proposed plans
+(1) The Commission must prescribe and give public notice of the criteria that the Commission will use to assess proposed plans to determine if they will receive funding approval.
+(2) The prescribed criteria must include, without limitation, criteria for assessing—
+  (a) how an organisation contributes to the Government's current and medium-term priorities described in the tertiary education strategy; and
+  (b) the tertiary education programmes and activities of an organisation in relation to which funding is sought under section 159YA; and
+  (c) the performance indicators used in measuring whether the specified outcomes relating to those tertiary education programmes and activities are being or have been achieved; and
+  (d) the extent and nature of an organisation's consultation over its proposed plan.
+(3) When prescribing matters under subsection (1), the Commission may include standard criteria, as well as different criteria applying to different organisations, groups of organisations, or types of organisation.
+(4) Notices given under subsection (1) may be—
+  (a) given at different times; and
+  (b) amended by the Commission.
+(5) The Commission must give public notice of a significant amendment made under subsection (4)(b).
+
+### 159YA Commission's assessment of proposed plans, giving of funding approval, and payment of funding
+(1) The Commission must assess whether a proposed plan will receive funding approval by applying the assessment criteria prescribed under section 159Y.
+(2) After applying the assessment criteria, the Commission may decide to—
+  (a) fund (in whole or in part) all of the tertiary education programmes and activities described in the proposed plan under section 159P(d)(i) and (ii) in relation to which funding is sought; or
+  (b) fund (in whole or in part) some of the tertiary education programmes and activities described in the proposed plan under section 159P(d)(i) and (ii) in relation to which funding is sought; or
+  (c) not fund any of the tertiary education programmes or activities described in the proposed plan under section 159P(d)(i) and (ii) in relation to which funding is sought.
+(3) Before deciding not to fund some or any, or part of some or any, of the tertiary education programmes or activities described in the proposed plan under section 159P(d)(i) and (ii) in relation to which funding is sought, the Commission must—
+  (a) notify the organisation of its proposed decision; and
+  (b) give the organisation a reasonable opportunity to be heard.
+(4) The Commission must give its reasons to the affected organisation if it decides not to fund some or any, or part of some or any, of the tertiary education programmes or activities described in the proposed plan under section 159P(d)(i) and (ii) in relation to which funding is sought.
+(5) In deciding to give funding approval, the Commission must—
+  (a) specify the date from which that funding approval has effect; and
+  (b) determine the amount of funding payable to the organisation by applying the appropriate funding mechanism; and
+  (c) arrange for the payment to the organisation of the amount of funding determined under paragraph (b).
+
+### 159YB Commission may decline to assess proposed plan
+(1) The Commission may decline to assess a proposed plan under section 159YA if the Commission is satisfied on reasonable grounds that the proposed plan does not adequately satisfy the requirements of this Part (including, unless the organisation is exempt under section 159S, complying with the matters prescribed by the Commission under section 159R).
+(2) Before making a decision to decline to assess an organisation's proposed plan, the Commission must discuss with the organisation why the proposed plan does not adequately satisfy the requirements of this Part.
+(3) The Commission must give its reasons to the affected organisation if it declines to assess the organisation's proposed plan.
+
+### 159YC Conditions on receiving funding under section 159YA
+(1) It is a condition of an organisation receiving funding under section 159YA that the organisation will supply to the Commission or Ministry, from time to time as required by the Commission or Ministry, and in a form specified by the Commission or Ministry, any financial, statistical, or other information that the Commission or Ministry requires the organisation to supply.
+(2) The Commission may give funding approval subject to conditions, but only if the conditions are—
+  (a) conditions the Minister has determined the Commission must attach to funding under section 159L(3)(d); or
+  (b) conditions that the Commission considers necessary to ensure that the specified outcomes in a plan that relate to tertiary education programmes and activities in relation to which funding is being given are being achieved or will be achieved.
+(3) The Commission may at any time (including during a funding period) amend any condition imposed under subsection (2).
+(4) The amendment to the condition takes effect when the organisation has been given reasonable notice of it.
+
+### 159YD Accountability for funding received under section 159YA
+(1) An organisation (other than an institution) that receives funding under section 159YA must ensure that—
+  (a) it keeps records, in a form consistent with that required by the Commission, for the period to which the funding relates, that fully and fairly show—
+    (i) the transactions, assets, liabilities, and funds of the organisation that are or were affected by the funding; and
+    (ii) whether any conditions on which the funding approval was given have been complied with; and
+  (b) the records are available for inspection by the Commission at all reasonable times.
+(2) As soon as practicable after the end of any year in which an organisation (other than an institution) receives funding under section 159YA, the organisation must provide the Commission with—
+  (a) a financial report of the organisation for that year, including a statement of financial performance, a statement of financial position, a statement of movements in equity, a statement of cash flows, and a statement of service performance that compares the performance of the organisation with the outcomes specified in the organisation's plan as measured by the performance indicators specified in the organisation's plan; and
+  (b) any financial reports, or statistical or other information, required by the Commission; and
+  (c) any information necessary to demonstrate compliance with any condition attached to the funding.
+(3) A report required under subsection (2)(a) must be prepared in accordance with generally accepted accounting practice and must be audited by an independent chartered accountant.
+(4) The Commission may exempt any organisation, group of organisations, or types of organisation from complying with 1 or more of the requirements set out in subsections (2) and (3).
+(5) In exercising the powers conferred on it by subsection (4), the Commission must have regard to—
+  (a) the amount of funding sought by the organisation; and
+  (b) the amount of funding received by the organisation; and
+  (c) the type and size of the organisation; and
+  (d) any other matters that the Commission considers relevant.
+(6) Section 203 sets out the accountability requirements for institutions.
+
+**Expiry of funding approval**
+
+### 159YE Expiry of funding approval
+(1) Every plan that has funding approval must specify the date on which funding approval expires (the expiry date), which must be a date determined by the Commission that is no later than 3 years after the date on which the funding approval takes effect.
+(2) Funding approval expires on the expiry date, unless funding approval is earlier revoked under this Part.
+(3) Despite subsection (2), if, on the expiry date, an organisation is discussing a proposed plan with the Commission or the proposed plan is awaiting funding approval under this Part, the funding approval for the existing plan continues in effect until the earlier of the following dates:
+  (a) the date that is 6 months after the expiry date of the existing funding approval; or
+  (b) the date that funding approval for the proposed plan comes into effect.
+
+### 159YF Effect of expiry of funding approval
+The effect of the expiry of funding approval is that—
+  (a) the plan to which funding approval relates expires; and
+  (b) the Commission must cease payment, or cease any or all further payments, of funding under section 159YA in respect of that plan.
+
+**Suspension or revocation of funding given under section 159YA**
+
+### 159YG Commission may suspend or revoke funding given under section 159YA
+(1) The Commission may suspend or revoke some or all funding given under section 159YA if it is satisfied on reasonable grounds that—
+  (a) an organisation has not complied, or is not complying, with a condition on which funding has been given under section 159YA; or
+  (b) when measured against performance indicators, the organisation has not achieved, or is not achieving, an outcome anticipated in its plan for a tertiary education programme or activity in relation to which funding has been given under section 159YA; or
+  (c) the organisation has not provided, or is not providing, adequate and timely information required by the Commission or Ministry under section 159YC.
+(2) Before deciding whether to suspend or revoke some or all funding given under section 159YA, the Commission must—
+  (a) notify the organisation of the specific matters of concern; and
+  (b) give the organisation a reasonable opportunity to be heard.
+(3) The Commission must give its reasons to an organisation if it decides to suspend or revoke some or all funding given under section 159YA.
+(4) The Commission must advise an organisation of the following matters if it decides to suspend some or all funding given under section 159YA:
+  (a) the date on which the suspension will end and, as a consequence, some or all funding will be revoked; and
+  (b) what action the organisation must take in order to have the suspension lifted and avoid some or all funding being revoked.
+(5) A suspension must be for a period that the Commission considers reasonable, having considered—
+  (a) the specific matters referred to in subsection (2)(a); and
+  (b) the action referred to in subsection (4)(b).
+
+### 159YH Extending suspension of funding
+(1) The date on which a suspension ends under section 159YG(4)(a) may be extended by the Commission.
+(2) The Commission must advise an organisation of the following matters if it decides to extend the date on which a suspension will end:
+  (a) the date on which the extended suspension will end and, as a consequence, some or all funding for all or part of the plan will be revoked; and
+  (b) what action the organisation must take in order to have the extended suspension lifted and avoid some or all funding for all or part of the plan being revoked.
+(3) An extension of a suspension must be for a period that the Commission considers reasonable, having considered—
+  (a) the specific matters referred to in section 159YG(2)(a); and
+  (b) the action referred to in section 159YG(4)(b).
+
+### 159YI Effect of suspending or revoking funding given under section 159YA
+(1) The effect of suspending funding given under section 159YA is that the Commission must cease payment, or cease any or all further payments, of funding given under section 159YA in respect of the plan or part of the plan in relation to which funding has been suspended.
+(2) The effect of revoking funding given under section 159YA is that—
+  (a) the plan or part of the plan to which the funding relates is revoked; and
+  (b) the Commission must cease payment, or cease any or all further payments, of funding under section 159YA in respect of the plan or part of the plan in relation to which funding has been revoked.
+
+### 159YJ Review of decision by delegate to suspend or revoke funding given under section 159YA
+(1) Subsection (2) applies to an organisation in relation to which a person has exercised any of the following powers under a delegation from the Commission under section 73 of the Crown Entities Act 2004:
+  (a) suspending funding under section 159YG; or
+  (b) revoking funding under section 159YG; or
+  (c) extending the suspension of funding under section 159YH.
+(2) An organisation to which this subsection applies may ask the Commission to review the decision of the delegate.
+
+**Amending or replacing plans**
+
+### 159YK Organisation may seek approval for significant amendment, or replacement, of plan
+(1) In this section and sections 159YL to 159YN, significant amendment means an amendment to a plan that relates to—
+  (a) a tertiary education programme or an activity in relation to which funding has been given under section 159YA; or
+  (b) any of the performance indicators that an organisation uses to measure whether proposed outcomes for tertiary education programmes or activities in relation to which funding has been given under section 159YA are being or have been achieved.
+(2) An organisation may, at any time, ask the Commission to approve a significant amendment to, or the replacement of, a plan.
+(3) An organisation that proposes to make a significant amendment to, or to replace, a plan must consult with—
+  (a) the stakeholders that the organisation considers ought to be consulted; and
+  (b) any other person or group that the Commission stipulates.
+(4) An organisation that proposes a significant amendment to, or replacement of, a plan must prepare the significant amendment or replacement in collaboration with the Commission, including collaborating with the Commission about ways in which the organisation can implement the matters prescribed by the Commission under subsection (5).
+(5) The Commission may prescribe the requirements for the following in relation to a significant amendment to, or a replacement of, a plan:
+  (a) the content of the significant amendment or replacement (which may be the same as the matters prescribed by the Commission under section 159R):
+  (b) criteria for assessing the significant amendment or replacement (which may be the same as those prescribed by the Commission under section 159Y).
+(6) In applying the requirements in subsection (5) in order to determine whether or not to approve a significant amendment to, or replacement of, a plan, the Commission must take into account—
+  (a) the extent of the significant amendment or replacement; and
+  (b) the impact of the significant amendment or replacement on the needs of the stakeholders and any other persons consulted by the organisation under subsection (3).
+(7) The Commission may, at any time, require an organisation to review a plan with a view to amending or replacing it.
+(8) Nothing in this section prohibits an organisation from making an amendment to a plan that is not a significant amendment.
+
+### 159YL Effect of significant amendment or replacement of plan under section 159YK
+(1) If the Commission approves a significant amendment to a plan, the significant amendment—
+  (a) forms part of the plan it amends; and
+  (b) takes effect on the date specified by the Commission.
+(2) If the Commission approves a replacement plan under section 159YK, the replacement plan—
+  (a) takes effect on the date specified by the Commission; and
+  (b) is treated as revoking the plan it replaces.
+
+### 159YM Commission may make significant amendment to plan
+(1) The Commission may, at any time, on its own initiative, propose a significant amendment to an organisation's plan if it is satisfied that the significant amendment is reasonably necessary to ensure accountability for public funding.
+(2) If the Commission proposes a significant amendment to an organisation's plan under subsection (1), it must prepare it in collaboration with the organisation (including giving the organisation a reasonable period to consult the stakeholders it considers ought to be consulted).
+(3) After collaborating with the organisation on the proposed significant amendment, the Commission must, if it decides to proceed with the significant amendment, determine the content of the significant amendment and give the organisation a reasonable opportunity to make submissions on it.
+(4) After considering any submissions made by the organisation, the Commission may—
+  (a) approve the proposed significant amendment (with further amendment if necessary); or
+  (b) abandon the proposed significant amendment.
+
+### 159YN Effect of significant amendment made to plan under section 159YM
+A significant amendment made to a plan under section 159YM—
+  (a) forms part of the plan it amends; and
+  (b) takes effect on the date specified by the Commission.
+
+**Plan summary**
+
+### 159YO Summary of plans
+(1) The Commission must prescribe and give public notice of the matters that an organisation that has a plan must include in a plan summary.
+(2) An organisation that has a plan must ensure that—
+  (a) a plan summary is available for inspection by the public; and
+  (b) copies of that plan summary may be obtained either at no cost or no more than a reasonable cost; and
+  (c) the plan summary contains the matters prescribed under subsection (1).
 
 ### 159Z Profiles must be publicly available
-An organisation that has a profile must ensure that the profile is available for inspection by the public, and that copies may be obtained at no more than a reasonable cost.
+[Repealed]
 
 **Funding by Commission**
 
 ### 159ZA Minister must determine design of funding mechanisms
-(1) The Minister must, from time to time, determine the design of the mechanisms that the Commission must use to fund organisations.
-(2) Without limiting the generality of subsection (1), when determining the design of funding mechanisms the Minister—
-  (a) must identify the general form and essential components of each mechanism; and
-  (b) must indicate which mechanisms relate to funding provided under section 159ZC, and which (if any) relate to other funding; and
-  (c) may specify the amount of money, or the proportion of an amount of money, available under any particular mechanism; and
-  (d) may provide for different versions or modifications of a mechanism to apply to different groups of organisations; and
-  (e) may specify conditions that the Commission must attach to funding provided under any funding mechanism, including conditions setting limits on the fees that an organisation may charge domestic students; and
-  (f) may make provision for funding that targets particular student groups.
-(3) However, the Minister may not identify a specified organisation or organisations to which funding is to be provided or denied under any mechanism.
-(4) Every mechanism must be consistent with the principle that receipt by an organisation of public funds is dependent on the organisation meeting quality assurance requirements under this Act.
-(5) The Commission must develop the details of how to implement the Minister's determinations under this section.
-(6) The Minister may not, under subsection (2)(e), specify conditions setting limits on the fees that organisations may charge domestic students until 2 months after the date on which the Minister has published a notice in the Gazette that—
-  (a) states that the Minister proposes to specify such conditions; and
-  (b) sets out the proposed conditions; and
-  (c) invites submissions on the proposed conditions; and
-  (d) specifies the date by which submissions must be received, which must be a date no more than 21 days after the date of the Gazette notice.
+[Repealed]
 
 ### 159ZB Approval of profiles for funding purposes
-(1) An organisation that has a profile may submit it to the Commission for approval for funding purposes.
-(2) The Commission may, after discussion and, if necessary, negotiation with the organisation, approve all or any part of the organisation's profile for funding purposes.
-(3) If the Commission does not approve a profile or part of a profile for funding purposes, it must notify the organisation and give reasons for the non-approval.
-(4) If the Commission approves an organisation's profile, or part of its profile, for funding purposes, the organisation is eligible for funding from the Commission.
+[Repealed]
 
-### 159ZC Payment of funding
-(1) The Commission must determine the amount of funding payable to an organisation that is eligible for funding by applying the appropriate funding mechanism or mechanisms to the part or parts of the organisation's profile that are approved for funding purposes.
-(2) The Commission must arrange for payment to the organisation of the amount of funding determined under subsection (1).
-(3) If a funding mechanism provides that funding may be provided under it to an organisation that does not have a profile, the Commission may, in accordance with the funding mechanism, fund an organisation under this section even if it does not have a profile.
-(4) Nothing in this section limits the Commission's powers, under a delegated authority or any other enactment, to fund organisations other than under this section.
+**Funding under this Part other than via plans**
 
-### 159ZD Conditions on funding
-(1) It is a condition of payment of funding under section 159ZC that the recipient will supply to the Commission or Ministry, at intervals and in a form specified by the Commission or Ministry, any financial, statistical, or other information that the Commission or Ministry requires the organisation to supply.
-(2) The Commission may impose conditions on the use of any funding provided under section 159ZC, but only if the Minister has provided that, under the mechanism under which that funding is provided,—
+### 159ZC Funding other than via plans
+(1) If a funding mechanism provides for funding for an organisation other than via plans, the Commission may, under this section, fund that organisation in accordance with that funding mechanism.
+(2) Nothing in subsection (1) limits the Commission's powers to fund organisations in other ways under a delegated authority or another enactment.
+
+### 159ZD Conditions on funding received under section 159ZC
+(1) It is a condition of receiving funding under section 159ZC that the recipient will supply to the Commission or Ministry, from time to time as required by the Commission or Ministry, and in a form specified by the Commission or Ministry, any financial, statistical, or other information that the Commission or Ministry requires the organisation to supply.
+(2) The Commission may impose conditions on funding received by an organisation under section 159ZC, but only if the Minister has provided that, under the funding mechanism under which that funding is provided,—
   (a) any or specified conditions may be imposed; or
   (b) specified conditions must be imposed.
-(3) The Commission may at any time (including during a funding period) amend any condition imposed under subsection (2), but no such amendment takes effect until the organisation has had reasonable notice of it.
+(3) The Commission may at any time (including during a funding period) amend any condition imposed under subsection (2).
+(4) An amendment to a condition takes effect when the organisation has been given reasonable notice of it.
 
 ### 159ZE Accountability for funding received under section 159ZC
-(1) An organisation, other than an institution, that receives funding under section 159ZC must ensure that—
-  (a) records are kept, in a form not inconsistent with that required by the Commission, for the period to which the funding relates, that fully and fairly show—
+(1) An organisation (other than an institution) that receives funding under section 159ZC must ensure that—
+  (a) it keeps records, in a form consistent with that required by the Commission, for the period to which the funding relates, that fully and fairly show—
     (i) the transactions, assets, liabilities, and funds of the organisation that are or were affected by the funding; and
     (ii) whether any conditions on which the grant was made have been complied with; and
   (b) the records are available for inspection by the Commission at all reasonable times.
-(2) As soon as practicable after the end of any year in which an organisation, other than an institution, receives funding under section 159ZC, the organisation must provide the Commission with—
-  (a) a financial report of the organisation for that year, including a statement of financial performance, a statement of financial position, a statement of movements in equity, a statement of cash flows, and a statement of service performance that compares the performance of the organisation with the objectives and targets specified in the organisation's profile for that year; and
+(2) As soon as practicable after the end of any year in which an organisation (other than an institution) receives funding under section 159ZC, the organisation must provide the Commission with—
+  (a) a financial report of the organisation for that year, including a statement of financial performance, a statement of financial position, a statement of movements in equity, a statement of cash flows, and a statement of service performance that compares the performance of the organisation with the outcomes agreed with the Commission as measured by any performance indicators agreed with the Commission; and
   (b) any financial reports, or statistical or other information, required by the Commission; and
-  (c) any information necessary to demonstrate compliance with any condition attached to any funding.
-(3) The reports required under subsection (2)(a) must be prepared in accordance with generally accepted accounting practice and must be audited by an independent chartered accountant.
-(4) Section 203 sets out the accountability requirements for institutions.
+  (c) any information necessary to demonstrate compliance with any condition attached to the funding.
+(3) A report required under subsection (2)(a) must be prepared in accordance with generally accepted accounting practice and must be audited by an independent chartered accountant.
+(4) The Commission may exempt any organisation, group of organisations, or type of organisation from complying with 1 or more of the requirements set out in subsections (2) and (3).
+(5) In exercising the powers conferred on it by subsection (4), the Commission must have regard to—
+  (a) the amount of funding sought by the organisation; and
+  (b) the amount of funding received by the organisation; and
+  (c) the type and size of the organisation; and
+  (d) any other matters that the Commission considers relevant.
+(6) Section 203 sets out the accountability requirements for institutions.
 
-### 159ZF Commission may suspend funding
-The Commission may suspend or terminate payment, or any or all further payments, of any funding to an organisation if the Commission is satisfied on reasonable grounds that the organisation—
-  (a) has not complied, or is not complying, with a condition on which the funding was provided; or
-  (b) in the case of funding provided under section 159ZC, is not providing, or has not provided, adequate and timely information when required to do so by the Commission or Ministry.
+### 159ZF Commission may suspend or revoke funding given under section 159ZC
+(1) The Commission may suspend or revoke payment, or any or all further payments, of any funding given to an organisation under section 159ZC if the Commission is satisfied on reasonable grounds that the organisation—
+  (a) has not complied, or is not complying, with a condition on which the funding was given; or
+  (b) is not providing, or has not provided, adequate and timely information required by the Commission or Ministry under section 159ZD.
+(2) Before deciding whether to suspend or revoke payment under subsection (1), the Commission must—
+  (a) notify the organisation of the specific matters of concern; and
+  (b) give the organisation a reasonable opportunity to be heard.
+(3) The Commission must give its reasons to an organisation if it decides to suspend or revoke the organisation's funding.
+(4) The Commission must specify the following matters if it decides to suspend funding under subsection (1):
+  (a) the date on which the suspension will end and, as a consequence, the funding will be revoked; and
+  (b) what action the organisation must take in order to have the suspension lifted and avoid funding being revoked.
+
+### 159ZG Extending suspension of funding
+(1) The date on which a suspension ends under section 159ZF(4)(a) may be extended by the Commission.
+(2) The Commission must advise an organisation of the following matters if it decides to extend the date on which a suspension will end:
+  (a) the date on which the extended suspension will end and, as a consequence, funding will be revoked; and
+  (b) what action the organisation must take in order to have the extended suspension lifted and avoid funding being revoked.
+(3) An extension of a suspension must be for a period that the Commission considers reasonable having considered—
+  (a) the specific matters referred to in section 159ZF(2)(a); and
+  (b) the action referred to in section 159ZF(4)(b).
+
+### 159ZH Review of decision made by delegate to suspend or revoke funding under section 159ZC
+(1) Subsection (2) applies to an organisation in relation to which a person has exercised any of the following powers under a delegation from the Commission under section 73 of the Crown Entities Act 2004:
+  (a) suspending the organisation's funding under section 159ZF; or
+  (b) revoking the organisation's funding under section 159ZF; or
+  (c) extending the suspension of the organisation's funding under section 159ZG.
+(2) An organisation to which this subsection applies may ask the Commission to review the decision of the delegate.
 
 ## Part 14 — Establishment and disestablishment of tertiary institutions
 
@@ -4072,11 +4272,13 @@ If, after the constitution of a Council has been determined, the Council recomme
 ### 180 Functions of Councils
 (1) The functions of the Council of an institution are—
   (a) To appoint a chief executive in accordance with the State Sector Act 1988, and to monitor and evaluate his or her performance:
-  (b) to prepare, negotiate, and adopt a charter for the institution:
-  (c) to adopt a profile for the institution:
-  (d) to ensure that the institution is managed in accordance with its charter and its profile:
-  (e) to determine the policies of the institution in relation to the implementation of its charter, the carrying out of its profile, and, subject to the State Sector Act 1988, the management of its affairs.
-(2) If, at any time before 1 January 2004, an institution does not have a profile, the references in subsection (1) to a profile must be taken to refer instead to the statement of objectives required under section 154 of the Crown Entities Act 2004.
+  (b) to prepare and submit a proposed plan if the institution is seeking funding under a funding mechanism that provides for funding via plans:
+  (c) if the institution has a plan,—
+    (i) to ensure that the institution is managed in accordance with that plan; and
+    (ii) to determine policies to implement that plan:
+  (d) to determine, subject to the State Sector Act 1988, the policies of the institution in relation to the management of its affairs:
+  (e) to undertake planning relating to the institution's long-term strategic direction.
+(2)
 
 ### 181 Duties of Councils
 It is the duty of the Council of an institution, in the performance of its functions and the exercise of its powers,—
@@ -4135,9 +4337,7 @@ No member of the Council of an institution is personally liable for any act done
 **Profiles**
 
 ### 191A Each institution to have a profile
-(1) The Council of every institution must, before the start of an academic year, adopt a profile for that academic year.
-(2) Subsection (1) does not apply to the 2003 academic year.
-(3) When an institution adopts a profile, it must immediately forward a copy to the Commission.
+[Repealed]
 
 **Powers of institutions and Councils**
 
@@ -4161,7 +4361,7 @@ No member of the Council of an institution is personally liable for any act done
   (d) The power to borrow, issue debentures, or otherwise raise money.
 (5) Subsection (4) of this section does not prohibit an institution, without the consent of the Secretary, from—
   (a) Selling or otherwise disposing of, or mortgaging or otherwise charging, an asset or an interest in an asset, where the value of the asset or interest does not exceed an amount determined by the Minister or an amount ascertained in accordance with a formula determined by the Minister:
-  (b) Granting a lease for a term that does not exceed, and when added to any term for which the lease may be renewed does not exceed, 5 years:
+  (b) Granting a lease for a term that does not exceed, and when added to any term for which the lease may be renewed does not exceed, 15 years:
   (c) Borrowing, issuing debentures, or otherwise raising money, where the amount to be borrowed, the amount of the debentures, or the amount to be raised, does not exceed an amount determined by the Minister or ascertained in accordance with a formula determined by the Minister.
 (6) A determination by the Minister under this section may relate to all institutions, institutions of a specified class or description, or a specified institution or institutions, and shall be made after the Minister has consulted the institution or institutions concerned.
 (7) Where the Secretary consents under subsection (4) of this section to the exercise of a power by an institution, the Council shall comply with any conditions imposed by the Secretary and shall tell the Secretary when the transaction has been completed and how the proceeds, if any, of the transaction have been dealt with.
@@ -4217,13 +4417,14 @@ Notwithstanding anything contained in this Act or any other enactment relating t
 (3) Criteria determined under this section must be reviewed at least once in every 2 years following the date of their publication in the Gazette.
 
 ### 195B Institutions to provide information if required
-(1) The Secretary may, if he or she has reasonable grounds to believe that an institution may be at risk, by written notice to the Council of an institution, require the Council to provide either or both of the following:
+(1) The chief executive of the Commission may, if he or she has reasonable grounds to believe that an institution may be at risk, by written notice to the Council of an institution, require the Council to provide either or both of the following:
   (a) specified information about the operation, management, or financial position of the institution at a given time:
   (b) reports at specified intervals on specific aspects of the operation, management, or financial position of the institution.
-(2) If the Secretary requires information under subsection (1), the information required must be information that relates to the risks to the institution that the Secretary is concerned about.
-(3) A Council that receives a notice under subsection (1) must provide the Secretary with the required information within or at the time or times specified in the notice.
-(4) The Secretary may revoke or amend any notice given under subsection (1).
+(2) If the chief executive of the Commission requires information under subsection (1), the information required must be information that relates to the risks to the institution that the chief executive of the Commission is concerned about.
+(3) A Council that receives a notice under subsection (1) must provide the chief executive of the Commission with the required information within or at the time or times specified in the notice.
+(4) The chief executive of the Commission may revoke or amend any notice given under subsection (1).
 (5)
+(5) In this section, Commission means the Tertiary Education Commission established under section 159C.
 
 ### 195C Minister may appoint Crown observer
 (1) If the Minister considers on reasonable grounds that the operation or long-term viability of an institution is at risk, he or she may appoint a Crown observer to the Council of the institution.
@@ -4263,8 +4464,13 @@ Notwithstanding anything contained in this Act or any other enactment relating t
 (7) As soon as the Minister is satisfied (following an annual review or at any other time) that the risk that gave rise to the appointment of the commissioner has reduced to such an extent that is it appropriate that the institution be administered by a Council, a new Council must be appointed in accordance with the constitution of the Council most recently notified in the Gazette.
 (8) A commissioner's appointment ends on the close of the day before a new Council takes office.
 
+### 195DA Protection of commissioners
+A commissioner appointed under section 195D(1) is not personally liable for an act he or she has done or omitted to do, or for any loss arising from that act or omission, if he or she was acting—
+  (a) in good faith; and
+  (b) in the course of carrying out his or her powers, functions, or duties.
+
 ### 195E Powers and functions of commissioner
-(1) A commissioner appointed under section 195D has all the powers, functions, and duties of the Council that he or she is appointed to replace, and must exercise those powers and perform those functions and duties in accordance with this Act (having particular regard to sections 160 and 161) and the institution's charter.
+(1) A commissioner appointed under section 195D has all the powers, functions, and duties of the Council that he or she is appointed to replace, and must exercise those powers and perform those functions and duties in accordance with this Act (having particular regard to sections 160 and 161) and, in the case of an institution that has a plan, that plan.
 (2) A commissioner replaces all Council members who serve on any committee of the Council that he or she is appointed to replace.
 (3) Anything that, if done by or on behalf of a Council, is required to be signed by 2 or more members of the Council, may be done by the commissioner's signature alone.
 
@@ -4323,7 +4529,9 @@ Section 168(1) and (2) of the Crown Entities Act 2004 applies to a Council of an
 
 ### 201A How institutions may use income and capital
 (1) An institution may, subject to the provisions of any enactment and the terms of any trust or endowment,—
-  (a) apply its income and capital in doing whatever the Council of the institution thinks will accomplish the goals and purposes set out in the institution's charter; and
+  (a) apply its income and capital in doing whatever the council thinks will—
+    (i) enable the institution to carry out the functions characteristic of an institution of the class to which the institution belongs; and
+    (ii) in the case of an institution that has a plan, enable the institution to achieve the outcomes set out in that plan; and
   (b) create, maintain, or add to, out of income, a fund or funds for any 1 or more of the purposes for which the income may be applied.
 (2) Subsection (1)(b) does not limit the generality of subsection (1)(a).
 
@@ -4379,7 +4587,7 @@ The money of an institution shall be applied only—
   (a) Transfer to an institution assets and liabilities of the Crown (being assets and liabilities relating to the activities to be carried on by the institution):
   (b) Vest in an institution any rights conferred by designations under operative district schemes applying to land transferred to the institution:
   (c) Grant to an institution leases, licences, easements, permits, or rights of any kind in respect of any assets or liabilities of the Crown,—
-(2) The Minister shall, within 12 sitting days after taking any action under subsection (1) of this section, lay before the House of Representatives a copy of the document by which the action was taken.
+(2) The Minister shall, within 12 sitting days after taking any action under subsection (1)(a) and (b), lay before the House of Representatives a copy of the document by which the action was taken.
 (3) Assets that are fixed to, or are under or over, any land may be transferred to an institution pursuant to this section whether or not any interest in the land is also transferred; but, where any such asset is so transferred, the asset and the land shall be regarded as separate assets each capable of separate ownership.
 (4) Any asset or liability of the Crown may be transferred to an institution pursuant to this section whether or not any Act or agreement relating to the asset or liability permits such a transfer or requires any consent to such a transfer.
 (5) Where a transfer of the kind described in subsection (4) of this section takes place,—
@@ -4559,7 +4767,7 @@ The submission in respect of any land or interest in land of a claim under secti
   (e) An account of the extent to which the Council has developed programmes to attract students from groups in the community—
     (i) Under-represented in the institution's student body; or
     (ii) Disadvantaged in terms of their ability to attend the institution; and.
-  (f) a statement of service performance reporting on the performance of the institution as compared with the institution's objectives and performance targets specified in the institution's profile for that financial year.
+  (f) in the case of an institution that has a plan, a statement of service performance for that financial year reporting on the performance of the institution as compared with the proposed outcomes described in that plan.
 (2B) Section 156 of the Crown Entities Act 2004 applies to institutions and, for this purpose, is to be read as referring to a statement of service performance under subsection (2A)(f).
 (3) The Minister must present the report to the House of Representatives within 5 working days after receiving the report or, if Parliament is not in session, as soon as possible after the commencement of the next session of Parliament.
 (4) The first report by the Council of an institution that is a body to which section 162(1) of this Act applied shall extend to operations during the part of the academic year before the Council became the governing body of the institution.
@@ -4681,7 +4889,7 @@ The Registrar or other appropriate officer of an institution shall, if so requir
 
 ### 227 Fees for domestic students
 (1) The Council of an institution may fix, or specify a means by which there may be calculated or ascertained, a tuition fee for any course of study or training at the institution.
-(1A) The Council of an institution that receives funding under section 159ZC must not fix, in relation to domestic students, a fee (or a fee of a particular kind) that exceeds any maximum specified in a condition imposed under section 159ZD(2) as being the maximum fee (or fee of that kind) that can be charged to a domestic student.
+(1A) The Council of an institution that receives funding under section 159YA or 159ZC must not fix, in relation to domestic students, a fee (or a fee of a particular kind) that exceeds any maximum specified in a condition imposed under section 159YC or 159ZD(2) (whichever is applicable) as being the maximum fee (or fee of that kind) that can be charged to a domestic student.
 (2) No domestic student shall be or continue to be enrolled in a course of study or training at an institution unless there have been paid to the Council in respect of the student—
   (a) The tuition fee (if any) fixed, or calculated or ascertained in accordance with a means specified, under subsection (1) of this section; and
   (b) All other fees (if any) prescribed by the Council.
@@ -4700,7 +4908,7 @@ The Registrar or other appropriate officer of an institution shall, if so requir
     (ii) The marginal cost to the institution (including the institution's marginal administrative and other general costs, and any marginal initial or start-up costs of the course) of providing tuition in the course for 1 student in addition to the domestic students receiving tuition in the course, in every other case; and
   (b) An amount fixed by the Council that is not less than an amount that in the Council's opinion is an appropriate reflection of the use by 1 student receiving tuition in the course of the capital facilities (if any) whose provision at the institution is necessary by virtue only of the institution's provision of tuition to foreign students in addition to domestic students; and
   (c) All other fees (if any) prescribed by the Council.
-(2A) Notwithstanding subsection (2) of this section, a Council may accept from a foreign student in respect of any course of study or training at an institution an amount that is less than the sum of the amounts referred to in that subsection by an amount that is no greater than the sum of—out of the general revenue of the Council (not being funds provided under section 159ZC) or out of any special supplementary grant under that section that may be used for the purpose.
+(2A) Notwithstanding subsection (2) of this section, a Council may accept from a foreign student in respect of any course of study or training at an institution an amount that is less than the sum of the amounts referred to in that subsection by an amount that is no greater than the sum of—out of the general revenue of the Council (not being funds provided under section 159YA or 159ZC) or out of any special supplementary grant under that section that may be used for the purpose.
   (a) Any amounts by which the Council has decided to subsidise the student in respect of the course; and
   (b) The appropriate proportion of any amounts by which the Council has decided to subsidise the student in respect of courses of a kind or description that include the course; and
   (c) The appropriate proportion of any amounts by which the Council has decided to subsidise students of a kind or description that include the student in respect of the course; and
@@ -4888,7 +5096,7 @@ The Qualifications Authority shall not consider an application for the registrat
 (2) Subsection (1) of this section does not apply to a student if the establishment (or governing body) is satisfied on reasonable grounds that the student is a domestic student.
 
 ### 236C Fees for domestic students must not exceed maximums set in conditions of funding
-A registered private training establishment that receives funding under section 159ZC must not fix, in relation to domestic students, a fee (or a fee of a particular kind) that exceeds any maximum specified in a condition imposed under section 159ZD(2) as being the maximum fee (or fee of that kind) that can be charged to a domestic student.
+A registered private training establishment that receives funding under section 159YA or 159ZC must not fix, in relation to domestic students, a fee (or a fee of a particular kind) that exceeds any maximum specified in a condition imposed under section 159YC or 159ZD(2) (whichever is applicable) as being the maximum fee (or fee of that kind) that can be charged to a domestic student.
 
 ### 237 Cancellation of registration
 (1) The Authority may cancel the registration of a registered establishment if it is satisfied on reasonable grounds that—
@@ -4967,7 +5175,7 @@ In this Part, unless the context otherwise requires,—
     (a) a registered school; or
     (b) an institution as defined in section 159; or
     (c) a private training establishment holding a current registration under Part 18; or
-    (d) an organisation that provides adult and community education and receives funding under section 159ZC
+    (d) an organisation that provides adult and community education and receives funding under section 159YA or 159ZC
   - **review panel** means the review panel established by the code.
 
 ### 238E Signatories to code may enrol persons as international students
@@ -5172,6 +5380,7 @@ The object of the provisions of this Act relating to the Authority is to establi
   (ca) subject to subsection (2), to establish policies and criteria for the registration of private training establishments:.
   (d) Subject to subsection (2) of this section, to establish policies and criteria for the approval of courses of study and training at institutions and private training establishments:
   (e) Subject to subsection (2) of this section, to establish policies and criteria that will enable institutions, secondary schools, and private training establishments to be granted accreditation to provide courses of study and training:
+  (ea) to establish policies and criteria relating to the quality assurance of providers of adult and community education:
   (f) To ensure there are mechanisms in place to guarantee that different institutions, secondary schools, or private training establishments providing approved nationally recognised courses have assessment procedures that are fair, equitable, consistent, and in keeping with the required standard:
   (g) To assist overseas governments, and agencies of those governments, by—
     (i) conducting examinations and assessments:
@@ -5183,10 +5392,13 @@ The object of the provisions of this Act relating to the Authority is to establi
   (j) To promote and monitor inter-institutional course approval and moderation procedures:
   (k) Such other functions as are conferred on it by this Act or any other enactment:
   (l) To consult such persons, authorities, and bodies as it considers appropriate for the purposes of the performance of any of its functions.
-(2) Before establishing policies or criteria under subsection (1)(ca), (d), or (e) in respect of a class of institutions, the Authority shall—and may consult such other bodies as the Authority considers appropriate.
+(2) Before establishing policies or criteria under subsection (1)(ca), (d), (e), or (ea) in respect of a class of institutions, the Authority shall—and may consult such other bodies as the Authority considers appropriate.
   (a) In the case of criteria or policies in respect of universities, consult the Vice-Chancellors Committee; and
+  (ab) in the case of criteria or policies in respect of bodies that are providing adult and community education, consult—
+    (i) those bodies; or
+    (ii) a body that represents the interests of those bodies; and
   (b) In the case of criteria or policies in respect of any other class of institutions in respect of which there is a body that has the function of setting up course approval and moderation procedures, consult that body;—
-(3) The Authority shall cause the criteria established pursuant to subsection (1)(ca), (d), and (e) to be published in the Gazette.
+(3) The Authority shall cause the criteria established pursuant to subsection (1)(ca), (d), (e), and (ea) to be published in the Gazette.
 
 ### 254 General powers of Authority
 (1)
@@ -5220,6 +5432,7 @@ Employment in the service of the Authority is Government service within the mean
   (b) any obligation imposed by that Act.
 
 ### 255 Power to obtain information
+(1AA) In this section, institution includes institutions, government training establishments, registered establishments, secondary schools, and other bodies.
 (1) Subject to subsection (2) of this section, the chief executive of the Authority or a person authorised by the chief executive of the Authority may—
   (a) By written notice to the Secretary, require the Secretary, within such period (being a reasonable period) as is specified in the notice, to supply to the Authority such information or documents relating to institutions, being information or documents in the possession of the Secretary, as are specified in the notice; and
   (b) By written notice to the chief executive of an institution, require the chief executive, within such period (being a reasonable period) as is specified in the notice, to supply to the Authority such information or documents relating to the institution as are specified in the notice.
@@ -5443,17 +5656,17 @@ In this Part of this Act and Schedule 17 to this Act, unless the context otherwi
   - **General manager** means the general manager of the Service
   - **Service** means the Service continued by section 279
 
-### 279 Service continued for purposes of Part 22
-(1) There is to continue to be a Service for the purposes of this Part and the Service is to be known by the name for the time being specified under section 301A.
+### 279 Career Services is service for purposes of this Part
+(1) There is to continue to be a Service for the purposes of this Part and the Service is to be known as Career Services.
 (2) The Service is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
 (3) The Crown Entities Act 2004 applies to the Service except to the extent that this Act expressly provides otherwise.
 (4) The members of the Service are the board for the purposes of the Crown Entities Act 2004.
 (5)
-(6) Until a new name is specified for the Service under section 301A, the Service is to continue to be called the Careers Service; and the Service is the same body as the Service that existed under this section immediately before the commencement of section 49 of the Education Amendment Act (No 2) 1998.
+(6) The Service is the same body as the Service that existed under this section immediately before the commencement of section 49 of the Education Amendment Act (No 2) 1998.
 
 ### 280 Functions of Service
 (1) The functions of the Service are—
-  (a) To establish and maintain a data base of information about occupations and about post-compulsory education and training:
+  (a) To establish and maintain a database of information about occupations and about post-compulsory education and training:
   (b) To make that information available to the public and to institutions, private training establishments, students, and other interested bodies and persons:
   (c) To provide—
     (i) Training and assistance to persons who advise about occupations; and
@@ -5477,7 +5690,7 @@ In this Part of this Act and Schedule 17 to this Act, unless the context otherwi
 
 ### 282 Duties of Board
 It is the duty of the Board in managing the affairs of the Service—
-  (a) To ensure that the data base referred to in section 280(a) of this Act is well researched, accurate, and up-to-date:
+  (a) To ensure that the database referred to in section 280(a) of this Act is well researched, accurate, and up-to-date:
   (b) To publicise, as widely as practicable, the services that it provides:
   (c) To make those services available on an equitable basis to all institutions, private training establishments, students, and other bodies and persons:
   (d)
@@ -6940,3 +7153,76 @@ Subject to any other enactment, the Committee may invest any of its money in any
 ## Schedule 17 — Administrative provisions applying to the service continued by section 279
 
 ## Schedule 18 — Administrative provisions applying to Tertiary Research Board
+
+### 1 Title
+This Act is the Education (Tertiary Reforms) Amendment Act 2007.
+
+### 2 Commencement
+This Act comes into force on 1 January 2008.
+
+### 3 Purpose
+The purpose of this Act is to—
+  (a) simplify and streamline the processes supporting the operation of the tertiary education system in New Zealand, without affecting the academic freedom and autonomy of institutions preserved and enhanced by the principal Act, by creating a group of instruments that—
+    (i) recognise the differing roles of organisations within the tertiary education sector; and
+    (ii) require organisations to focus on outcomes; and
+  (b) support the purpose described in paragraph (a) by—
+    (i) replacing the tertiary education strategy and the statement of tertiary education priorities with a single document called the tertiary education strategy; and
+    (ii) replacing charters and profiles with a single document called a plan; and
+  (c) enable the Tertiary Education Commission to effectively—
+    (i) guide the contribution made by organisations towards achieving the current and medium-term priorities set out in the Government's tertiary education strategy; and
+    (ii) monitor the performance of organisations; and
+  (d) enhance the accountability of organisations that receive public funds; and
+  (e) safeguard the Crown's interest in organisations generally; and
+  (f) clarify the role of the New Zealand Qualifications Authority in relation to quality assurance of providers of adult and community education; and
+  (g) make other amendments to the Education Act 1989 that relate to the tertiary education sector.
+
+## Part 1 — Amendments to Education Act 1989
+
+### 40 Transitional provision: institutions and organisations with approved charters and approved profiles
+(1) Subsection (2) applies to—
+  (a) an institution that, immediately before this Act comes into force, has an approved charter and approved profile under the Education Act 1989; and
+  (b) an organisation (other than an institution) that, immediately before this Act comes into force, has an approved charter and approved profile under the Education Act 1989.
+(2) On the coming into force of this Act, an institution or organisation to which this subsection applies is to be treated as an institution or organisation that has a plan that has been given funding approval under the Education Act 1989 (as amended by this Act) that takes effect from the date on which this Act comes into force.
+
+### 41 Transitional provision: organisations with approved charters that are exempt from need to have profile
+(1) Subsection (2) applies to an organisation that, immediately before this Act comes into force,—
+  (a) has an approved charter under the Education Act 1989; but
+  (b) is exempt from the need to have a profile under the Education Act 1989.
+(2) On the coming into force of this Act, an organisation to which this subsection applies is to be treated as an organisation that the Commission has exempted, under section 159U (as substituted by section 20 of this Act), from being required to submit a proposed plan in order to receive funding under a funding mechanism that provides for funding via plans, until the Commission decides that the organisation is no longer exempt under section 159U.
+
+### 42 Transitional provision: organisations with approved profile and exempt from need to have charter
+(1) Subsection (2) applies to an organisation that, immediately before this Act comes into force,—
+  (a) has an approved profile under the Education Act 1989; but
+  (b) is exempt from the need to have a charter under the Education Act 1989.
+(2) On the coming into force of this Act, an organisation to which this subsection applies is to be treated as an organisation that the Commission has exempted, under section 159U (as substituted by section 20 of this Act), from being required to submit a proposed plan in order to receive funding under a funding mechanism that provides for funding via plans, until the Commission decides that the organisation is no longer exempt under section 159U.
+
+### 43 Transitional provision: organisations exempt from need to have profile and charter
+(1) Subsection (2) applies to an organisation that, immediately before this Act comes into force,—
+  (a) is exempt from the need to have a profile under the Education Act 1989; and
+  (b) is exempt from the need to have a charter under the Education Act 1989.
+(2) On the coming into force of this Act, an organisation to which this subsection applies is to be treated as an organisation that the Commission has exempted, under section 159U (as substituted by section 20 of this Act), from being required to submit a proposed plan in order to receive funding under a funding mechanism that provides for funding via plans, until the Commission decides that the organisation is no longer exempt under section 159U.
+
+### 44 Transitional provision: organisations funded under section 159ZC(3)
+(1) Subsection (2) applies to an organisation that immediately before this Act comes into force is funded under section 159ZC(3) of the Education Act 1989.
+(2) On the coming into force of this Act, an organisation to which this subsection applies is to be treated as an organisation that the Commission has decided to fund under section 159ZC(1) of the Education Act 1989 (as amended by this Act) for the remainder of the funding period to which the section 159ZC(3) funding relates.
+
+### 45 Transitional provision: tertiary education strategy and statement of tertiary education priorities
+(1) Subsection (2) applies to the tertiary education strategy and the statement of tertiary education priorities in existence immediately before this Act comes into force.
+(2) On the coming into force of this Act, the documents to which this subsection applies must, when read together, be treated as if they are a tertiary education strategy made under section 159AA of the Education Act 1989 (as substituted by section 7 of this Act).
+
+### 46 Transitional provision: funding mechanisms
+(1) Subsection (2) applies to funding mechanisms that fund organisations that have approved profiles that are determined and implemented under the Education Act 1989 immediately before this Act comes into force.
+(2) On the coming into force of this Act, a funding mechanism to which this subsection applies is treated as a funding mechanism that provides for funding via plans determined and implemented under the Education Act 1989 (as amended by this Act).
+(3) Subsection (4) applies to funding mechanisms that, immediately before this Act comes into force, fund organisations that do not have profiles.
+(4) On the coming into force of this Act, a funding mechanism to which this subsection applies must be treated as if it is a funding mechanism to fund organisations other than via plans determined and implemented under the Education Act 1989 (as amended by this Act).
+
+### 47 Validation of determination of design of funding mechanism for student component fund
+(1) In this section,—
+  - **consequences** , in relation to any action, or any failure or refusal to act, includes the availability of any power (on the part of any person) to take action in respect of, or because of, the action, failure, or refusal
+  - **Minister** means the Minister for Tertiary Education
+  - **SCF funding determination** means the determination of the Minister, communicated to the chair of the Tertiary Education Commission by a letter dated 23 January 2007, specifying amendments to the design of the funding mechanism for the student component fund.
+(2) The SCF funding determination must be treated as being, and having always been, as valid and effectual as it would have been if the Minister had taken the actions described in subsection (4).
+(3) The validity or invalidity, and the consequences, of any action (and of any failure or refusal to act) of any person, whether occurring before or after the commencement of this section, must be determined as if the Minister had taken the actions described in subsection (4).
+(4) The actions referred to in subsections (2) and (3) are—
+  (a) more than 2 months before 23 January 2007, publishing in the Gazette a notice, complying in all respects with former section 159ZA of the principal Act, relating to all the new or amended conditions setting limits on the fees that organisations may charge domestic students that were in fact specified in the SCF determination (whether directly, or by the modification of the application of existing conditions); and
+  (b) before making the SCF determination, considering all submissions received before the specified date.
