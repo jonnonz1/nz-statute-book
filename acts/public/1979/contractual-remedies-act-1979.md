@@ -1,5 +1,5 @@
 # Contractual Remedies Act 1979
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to reform the law relating to remedies for misrepresentation and breach of contract
 
@@ -94,7 +94,7 @@ If a contract expressly provides for a remedy in respect of misrepresentation or
   (a) Any term of the assigned contract that was not disclosed to him before or at the time of the assignment; or
   (b) Any misrepresentation that was not so disclosed.
 (4) This section shall be read subject—
-  (a) In the case of a mortgage of land, to section 104 of the Property Law Act 1952:
+  (a) In the case of a mortgage of land, to subpart 8 of Part 3 of the Property Law Act 2007:
   (b)
   (c) In the case of a contract for the supply of goods or services to a consumer, to section 46 of the Consumer Guarantees Act 1993.
 (5) Nothing in this section shall affect the law relating to negotiable instruments.
@@ -124,7 +124,7 @@ Except as provided in sections 4(3), 6(2), and 14 of this Act, nothing in this A
   (d) The Sale of Goods Act 1908:
   (e) The Frustrated Contracts Act 1944:
   (f) The Limitation Act 1950:
-  (g) Sections 117 to 119 of the Property Law Act 1952 (which relate to relief against forfeiture under leases):
+  (g) sections 253 to 260 of the Property Law Act 2007 (which relate to relief against cancellation of leases for breach of covenant or condition):
   (ga) The Consumer Guarantees Act 1993:
   (h) Any other enactment so far as it prescribes or governs terms of contracts or remedies available in respect of contracts, or governs the enforcement of contracts.
 
