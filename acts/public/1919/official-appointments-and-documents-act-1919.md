@@ -1,5 +1,5 @@
 # Official Appointments and Documents Act 1919
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to make provision with respect to the exercise of certain powers by or on behalf of the Governor-General and the Governor-General in Council
 
@@ -14,4 +14,4 @@ This Act may be cited as the Official Appointments and Documents Act 1919.
 (1) Where by any Act or by virtue of his office the Governor-General or the Governor-General in Council is authorised to execute any deed or other instrument relating to land, or to approve or consent to any such deed or other instrument, it shall be sufficient for all purposes if such deed or other instrument is executed or approved or consented to by a Minister of the Crown acting by direction of the Governor-General or the Governor-General in Council.
 (2) A certificate signed by the Clerk or Acting Clerk of the Executive Council that such deed or other instrument was executed, approved, or consented to by a Minister of the Crown acting by direction of the Governor-General or of the Governor-General in Council shall be sufficient evidence, unless the contrary be proved, of the facts so certified.
 (3) No proof shall be required of the handwriting or official status of the Clerk or Acting Clerk of the Executive Council certifying in pursuance of this section.
-(4) Notwithstanding anything to the contrary in the Property Law Act 1952 or the Land Transfer Act 1952 or any other Act, it shall not be necessary that the signature of the Minister of the Crown executing any deed or other instrument or approving or consenting to the same in pursuance of this section, or of the Clerk or Acting Clerk of the Executive Council certifying as provided by this section, be attested by a witness.
+(4) Notwithstanding anything to the contrary in the Property Law Act 2007 or the Land Transfer Act 1952 or any other Act, it shall not be necessary that the signature of the Minister of the Crown executing any deed or other instrument or approving or consenting to the same in pursuance of this section, or of the Clerk or Acting Clerk of the Executive Council certifying as provided by this section, be attested by a witness.
