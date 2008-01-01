@@ -1,5 +1,5 @@
 # Ngai Tahu Claims Settlement Act 1998
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-01-01_
 
 > An Act—aTo record the apology given by the Crown to Ngai Tahu in the deed of settlement executed on 21 November 1997 by the then Prime Minister the Right Honourable James Brendan Bolger, for the Crown, and Te Runanga o Ngai Tahu; andbTo give effect to certain provisions of that deed of settlement, being a deed that settles the Ngai Tahu claims
 
@@ -3018,8 +3018,8 @@ Notwithstanding section 461(3), the Waikouaiti Maori Foreshore Trust Board or me
 ### 410 Application of Conservation Act 1987 to access granted by the Crown
 Sections 17S to 17W, 17Y(1)﻿(a), 17Y(2), and 17Z(3) of the Conservation Act 1987 do not apply to any easement granted by the Crown pursuant to clause 14.19.2 of the deed of settlement.
 
-### 411 Application of Property Law Act 1952 to access granted by the Crown
-Section 129B of the Property Law Act 1952 does not apply to the provision of any legal access by the Crown pursuant to clause 14.19.3 of the deed of settlement.
+### 411 Application of Property Law Act 2007 to access granted by the Crown
+Subpart 3 of Part 6 of the Property Law Act 2007 does not apply to the provision of any legal access by the Crown pursuant to clause 14.19.3 of the deed of settlement.
 
 **Claim 56 (Maranuku)**
 
