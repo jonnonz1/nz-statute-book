@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2008-01-01_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -488,7 +488,7 @@ In achieving the purpose of this Act, all persons exercising functions and power
   (ca) Effected by a transfer under section 23 of the State-Owned Enterprises Act 1986 or a resumption under section 27D of that Act; or
   (cb) Effected by any vesting in or transfer or gift of any land to the Crown or any local authority or administering body (as defined in section 2 of the Reserves Act 1977) for the purposes (other than administrative purposes) of the Conservation Act 1987 or any other Act specified in Schedule 1 to that Act; or
   (cc) Effected by transfer or gift of any land to the New Zealand Historic Places Trust or the Queen Elizabeth the Second National Trust for the purposes of the Historic Places Act 1993 or the Queen Elizabeth the Second National Trust Act 1977; or
-  (d) Effected by any transfer, exchange, or other disposition of land made by an order under section 129B of the Property Law Act 1952 (which relates to the granting of access to land-locked land).
+  (d) Effected by any transfer, exchange, or other disposition of land made by an order under subpart 3 of Part 6 of the Property Law Act 2007 (which relates to the granting of access to landlocked land).
 (2) Subsection (1) does not apply in respect of Maori land within the meaning of the Maori Land Act 1993 unless that Act otherwise provides.
 
 **Coastal marine area**
