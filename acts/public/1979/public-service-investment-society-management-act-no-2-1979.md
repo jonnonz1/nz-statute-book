@@ -1,5 +1,5 @@
 # Public Service Investment Society Management Act (No 2) 1979
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to make further provision for the protection of depositors and creditors of the Public Service Investment Society Limited and its associated companies, and for matters incidental thereto
 
@@ -44,8 +44,8 @@ This Act binds the Crown.
   (a) Bring or continue any action or other proceedings (other than proceedings under the proviso to section 10(1) of this Act) against any body corporate to which this Act applies:
   (b) Issue any execution, attach any debt, or otherwise enforce or seek to enforce any judgment or order obtained in respect of any body corporate to which this Act applies:
   (c) Petition for the winding up of any body corporate to which this Act applies:
-  (d) Foreclose, enter into possession, sell, appoint a receiver, or take or continue any power or rights whatsoever under or in pursuance of any mortgage, charge, debenture, instrument, or other security over the property of any body corporate to which this Act applies:
-  (e) Determine or forfeit any tenancy, distrain for rent, re-take or re-enter any premises or take or continue any power or rights whatsoever under or in pursuance of any lease, tenancy, or agreement to let or lease, against any body corporate to which this Act applies.
+  (d) enter into possession, sell, appoint a receiver, or take or continue any power or rights whatsoever under or in pursuance of any mortgage, charge, debenture, instrument, or other security over the property of any body corporate to which this Act applies:
+  (e) Determine or forfeit any tenancy, re-take or re-enter any premises or take or continue any power or rights whatsoever under or in pursuance of any lease, tenancy, or agreement to let or lease, against any body corporate to which this Act applies.
 (2) Notwithstanding the provisions of subsection (1) of this section, an action or any proceedings may be brought against any body corporate to which this Act applies for the purpose of determining whether any right or liability exists if the leave of the statutory manager of that body corporate or of the Court has first been obtained.
 (3) Notwithstanding the provisions of subsection (1) of this section, the statutory manager of any body corporate to which this Act applies may waive the application of subsection (1) of this section (except paragraph (c) of that subsection) to both any secured creditor of that body corporate and his security.
 (4) Subject to the provisions of this Act, nothing in subsection (1) of this section shall affect the existence of any security over the property of any body corporate to which this Act applies or its priority in relation to other debts.
