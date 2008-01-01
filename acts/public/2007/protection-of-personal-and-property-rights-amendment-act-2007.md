@@ -1,5 +1,5 @@
 # Protection of Personal and Property Rights Amendment Act 2007
-_Consolidation as at 2007-11-05_
+_Consolidation as at 2008-01-01_
 
 ### 1 Title
 This Act is the Protection of Personal and Property Rights Amendment Act 2007.
@@ -222,7 +222,7 @@ Section 103 is repealed and the following sections are substituted:Review of att
   A person dealing with an attorney acting under an enduring power of attorney in respect of any matter within the power of attorney—
     (a) does not have to inquire about the concurrence or otherwise of the donor or any other person; and
     (b) is not affected by notice that the donor or any other person has not concurred.
-  (1) This section applies, instead of section 135(1) to (5) of the Property Law Act 1952, to enduring powers of attorney executed before or after the commencement of section 18 of the Protection of Personal and Property Rights Amendment Act 2007, but subject to section 135(6)(b) of the Property Law Act 1952.
+  (1) This section applies, instead of section 20(1) to (4) of the Property Law Act 2007, to enduring powers of attorney executed before or after the commencement of section 18 of the Protection of Personal and Property Rights Amendment Act 2007, but subject to section 20(5)(b) of the Property Law Act 2007.
   (2) An enduring power of attorney continues in force until notice of an event revoking the power is received by the attorney.
   (3) The authority of an attorney to act under an enduring power of attorney continues in force until notice suspending that authority is received by the attorney.
   (4) Every act or thing within the scope of the enduring power of attorney done by or to the attorney in good faith before he or she receives notice of any event revoking the power of attorney has effect as if the event had not occurred.
@@ -295,8 +295,8 @@ Section 112 is amended by inserting the following paragraphs after paragraph (b)
 ### 25 Schedule 3 repealed
 Schedule 3 is repealed.
 
-### 26 Consequential amendment to section 135 of Property Law Act 1952
-Section 135 of the Property Law Act 1952 is amended by adding the following subsection:
-  (6) If the power of attorney is an enduring power of attorney within the meaning of Part 9 of the Protection of Personal and Property Rights Act 1988,—
-    (a) section 103C of that Act applies to it instead of subsections (1) to (5); but
-    (b) if a certificate of non-revocation of the power of attorney was given in respect of the enduring power of attorney before the commencement of section 18 of the Protection of Personal and Property Rights Amendment Act 2007, subsections (1) to (5) of this section apply to the certificate instead of section 103C of the Protection of Personal and Property Rights Act 1988.
+### 26 Consequential amendment to section 20 of Property Law Act 2007
+Section 20 of the Property Law Act 2007 is amended by adding the following subsection:
+  (5) If the power of attorney is an enduring power of attorney within the meaning of Part 9 of the Protection of Personal and Property Rights Act 1988,—
+    (a) section 103C of that Act applies to it instead of subsections (1) to (4); but
+    (b) if a certificate of non-revocation of the power of attorney was given in respect of the enduring power of attorney before the commencement of section 18 of the Protection of Personal and Property Rights Amendment Act 2007, subsections (1) to (4) of this section apply to the certificate instead of section 103C of the Protection of Personal and Property Rights Act 1988.
