@@ -1,5 +1,5 @@
 # Receiverships Act 1993
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to reform the law relating to receivers
 
@@ -49,10 +49,9 @@ _Consolidation as at 2007-12-03_
   - **Receiver** means a receiver, or a manager, or a receiver and manager in respect of any property appointed—whether or not the person appointed is empowered to sell any of the property in receivership; but does not include—
     (a) By or under any deed or agreement; or
     (b) By the Court in the exercise of a power conferred on the Court or in the exercise of its inherent jurisdiction—
-    (c) A mortgagee who, whether personally or through an agent, exercises a power—
-      (i) To receive income from mortgaged property; or
-      (ii) To enter into possession or assume control of mortgaged property; or
-      (iii) To sell or otherwise alienate mortgaged property; or
+    (c) a mortgagee who, whether personally or through an agent, exercises a power to—
+      (i) enter into possession of mortgaged property in a manner referred to in section 137 of the Property Law Act 2007; or
+      (ii) sell or otherwise alienate mortgaged property; or
     (d) An agent of any such mortgagee:
   - **Registrar** , in relation to—
     (a) A company, has the same meaning as in section 2 of the Companies Act 1955 or section 2 of the Companies Act 1993, as the case may be:
@@ -137,12 +136,7 @@ _Consolidation as at 2007-12-03_
 (4) Every receiver who contravenes this section commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
 
 ### 9 Application of section 92 of Property Law Act 1952 to receivers
-(1) Nothing in section 92 of the Property Law Act 1952 applies to—
-  (a) The appointment of a receiver by a mortgagee; or
-  (b) The entering into possession of property by a receiver; or
-  (c) The payment of money secured by a debenture.
-(2) Section 92 of the Property Law Act 1952 applies to the exercise by a receiver appointed by or under a deed or agreement of a power of sale in relation to land.
-(3) For the purposes of subsection (2) of this section, section 92(6) of the Property Law Act 1952 applies to a receiver exercising a power of sale under a debenture as if the receiver was a mortgagee exercising a power of sale conferred by a mortgage of land.
+[Repealed]
 
 ### 10 Notice of receivership
 (1) Where a receiver is appointed in relation to a specific asset or specific assets, every deed or agreement entered into, and every document issued, by or on behalf of the grantor or the receiver that relates to the asset or assets and on which the name of the grantor appears must state that a receiver has been appointed.
@@ -317,6 +311,13 @@ A person to whom a report must be sent in accordance with section 26 of this Act
     (ii) a security interest over all or any of those assets, that has been perfected under the Personal Property Securities Act 1999 at the time of the receiver's appointment and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); and
   (c) thirdly, to pay preferential claims to the extent and in the order of priority specified in Schedule 7 (except clauses 1(1) and 2(1)(b)) of the Companies Act 1993.
 (2A) The receiver must apply the accounts receivable and inventory as set out in subsection (2) before paying the claims of any person under a security interest, other than a security interest referred to in subsection (2)(b).
+(2B) For the purposes of subsection (2)(a), if an amount of an expense or of remuneration—
+  (a) is payable partly in relation to the accounts receivable or inventory concerned and partly in relation to other property,—
+    (i) the amount must be fairly and equitably apportioned between the accounts receivable or inventory and the other property; and
+    (ii) the proportion relating to the accounts receivable or inventory must be taken into account; and
+    (iii) the proportion relating to the other property must be disregarded:
+  (b) is payable only in relation to property other than the accounts receivable or inventory concerned, the amount must be disregarded:
+  (c) is not payable in relation to any particular property, only a fair and equitable proportion of the amount must be taken into account.
 (3) In the application of Schedule 7 to the Companies Act 1993 in accordance with subsection (2) of this section,—
   (a) References to a liquidator are to be read as references to a receiver:
   (b) References to the commencement of the liquidation are to be read as references to the appointment of the receiver:
@@ -340,7 +341,7 @@ A person to whom a report must be sent in accordance with section 26 of this Act
   (b) to any other person (A), if the receiver has notice that A had an interest in the property when it was disposed of, and the receiver is satisfied that A's interest was legally enforceable:
   (c) to the grantor.
 (2) Priority as between persons referred to in subsection (1)(a), and as between persons referred to in subsection (1)(b), must be determined according to the applicable law (including Part 7 or Part 8 of the Personal Property Securities Act 1999) as if, in the case of persons referred to in subsection (1)(a), their security interests had not been extinguished.
-(3) If, in the case of a distribution of the surplus to a grantor, the grantor cannot be found after reasonable inquiry by the receiver, the provisions of section 102A(2) to (5) of the Property Law Act 1952 apply with all necessary modifications as if references in that section to the mortgagee and the mortgagor were references to the receiver and the grantor respectively.
+(3) If, in the case of a distribution of the surplus to a grantor, the grantor cannot be found after reasonable inquiry by the receiver, the provisions of section 186(2) to (5) of the Property Law Act 2007 apply with all necessary modifications as if references in that section to the mortgagee and the mortgagor were references to the receiver and the grantor respectively.
 
 ### 30C Surplus may be paid into court
 (1) A receiver may pay a surplus referred to in section 30A(2) into court if there is a question as to who is entitled to receive payment according to the priorities in section 30B(1) or (2).
