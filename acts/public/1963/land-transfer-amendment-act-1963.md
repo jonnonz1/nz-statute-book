@@ -1,5 +1,5 @@
 # Land Transfer Amendment Act 1963
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to amend the Land Transfer Act 1952
 
@@ -75,8 +75,8 @@ Where—the Registrar shall refuse the application, either wholly or, as the cas
   (a) The Registrar shall notify the applicant that he will proceed with the application if the applicant agrees in writing to accept a certificate of title subject, to the same extent as the existing title, to that estate or interest and to every estate or interest (not being any estate in fee simple or other estate excepted as aforesaid) through or under which the caveator derives his title; and
   (b) The Registrar shall take no further action in respect of the application until the applicant so agrees or until the estate or interest of the caveator is discharged, surrendered, or otherwise extinguished; and
   (c) If the applicant so agrees, the caveat shall be deemed to have lapsed and the Registrar shall mark it as having lapsed under this subsection; and any certificate of title issued to the applicant shall be made subject to every such estate or interest as aforesaid.
-(2) Where any land in respect of which an application has been lodged is subject to a registered mortgage, the applicant shall be deemed to be the registered proprietor of the land for the purposes of section 112 of the principal Act and to be the owner of the land and the mortgagor for the purposes of section 92 of the Property Law Act 1952.
-(3) Where under this section the applicant agrees to take title subject to any mortgage and a certificate of title is issued to him under section 15 of this Act subject to that mortgage, the provisions of section 96 of the principal Act and of section 104 of the Property Law Act 1952 shall not, in relation to that mortgage, apply with respect to any transfer of the land, whether by the applicant or by any person deriving title through or under him.
+(2) Where any land in respect of which an application has been lodged is subject to a registered mortgage, the applicant shall be deemed to be the registered proprietor of the land for the purposes of section 112 of the principal Act and to be the owner of the land and the mortgagor for the purposes of subpart 5 of Part 3 of the Property Law Act 2007.
+(3) Where under this section the applicant agrees to take title subject to any mortgage and a certificate of title is issued to him under section 15 of this Act subject to that mortgage, the provisions of section 96 of the principal Act and of subpart 8 of Part 3 of the Property Law Act 2007 shall not, in relation to that mortgage, apply with respect to any transfer of the land, whether by the applicant or by any person deriving title through or under him.
 
 ### 12 Caveat by person claiming beneficial or equitable estate less than fee simple
 (1) Where—the Registrar shall, unless he is of the opinion that the estate or interest claimed is sufficiently evidenced by the register, give notice to the caveator requiring him, within a time fixed in the notice, being not less than the prescribed period, to either—
