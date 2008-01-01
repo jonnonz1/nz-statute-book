@@ -1,5 +1,5 @@
 # Maori Reserved Land Act 1955
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to consolidate and amend the law relating to the administration of the lands comprised in Maori reserves, West Coast settlement reserves, and Maori townships, and to make provision in respect of certain other lands administered by the Maori Trustee
 
