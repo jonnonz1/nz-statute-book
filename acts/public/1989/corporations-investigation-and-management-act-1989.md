@@ -1,5 +1,5 @@
 # Corporations (Investigation and Management) Act 1989
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to enable the Registrar of Companies to determine whether corporations are at risk, to enable action to be taken in relation to such corporations in appropriate cases, and to repeal the Companies Special Investigations Act 1958
 
@@ -329,10 +329,10 @@ The Securities Commission shall not make a recommendation under section 38 of th
   (a) Commence or continue any action or other proceedings, including proceedings by way of counterclaim, against that corporation:
   (b) Issue any execution, attach any debt, or otherwise enforce or seek to enforce any judgment or order obtained in respect of that corporation:
   (c) Apply or resolve to put the corporation into liquidation or voluntary administration:
-  (d) Foreclose, enter into possession, sell, or appoint a receiver of the property of that corporation, or property in respect of which the corporation has an equity of redemption:
+  (d) enter into possession, sell, or appoint a receiver of the property of that corporation, or property in respect of which the corporation has an equity of redemption:
   (e) Exercise or continue any power or rights under, or in pursuance of, any mortgage, charge, debenture, instrument, or other security over the property of that corporation:
   (f) Claim or recover, pursuant to any retention of title clause, hire purchase agreement, mortgage, lease, or security, any property in the possession of the corporation:
-  (g) Determine or forfeit any tenancy, distrain for rent, retake or re-enter any premises, or exercise or continue any power or rights under, or in pursuance of, any lease, against that corporation:
+  (g) Determine or forfeit any tenancy, retake or re-enter any premises, or exercise or continue any power or rights under, or in pursuance of, any lease, against that corporation:
   (h) Exercise any right of set-off against that corporation.
 (2) Notwithstanding the provisions of subsection (1) of this section, an action or proceeding may be commenced or continued against a corporation for the purpose of determining whether any right or liability exists if the leave of the statutory manager or the Court is first obtained.
 (3) Notwithstanding the provisions of subsection (1) of this section, a statutory manager of a corporation may waive the application in whole or in part of that subsection (except paragraph (c) of that subsection) to any creditor or class of creditors in respect of the whole or part of any claim of, or security held by, that creditor or class of creditors.
