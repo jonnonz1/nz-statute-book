@@ -1,5 +1,5 @@
 # Medicines Act 1981
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to consolidate and amend the law relating to the manufacture, sale, and supply of medicines, medical devices, and related products
 
@@ -985,7 +985,7 @@ It is a condition of every licence to operate a pharmacy that the holder of the 
 
 ### 55G Exemption for mortgagees in possession
 (1) Despite sections 55D and 55E, a mortgagee in possession of a pharmacy may be granted a licence to operate that pharmacy for a period of 3 months or, subject to any conditions that the licensing authority imposes, for any extended period or periods permitted by the licensing authority.
-(2) In this section, mortgagee in possession has the same meaning as in section 2 of the Property Law Act 1952.
+(2) In this section, mortgagee in possession has the same meaning as in section 4 of the Property Law Act 2007.
 
 ## Part 4 — Medical advertisements
 
