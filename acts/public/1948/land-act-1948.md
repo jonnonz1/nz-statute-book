@@ -1,5 +1,5 @@
 # Land Act 1948
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to the lands of the Crown in New Zealand
 
@@ -179,7 +179,7 @@ The Commissioner may, under section 41 of the State Sector Act 1988, delegate to
   (b) To remove or expel, or cause to be removed or expelled, all trespassers and intruders on and persons unlawfully occupying Crown land, and to remove or cause to be removed therefrom all livestock, goods, chattels, and effects whatsoever of such persons, and such livestock, goods, chattels, and effects to impound in some public pound, and sell by public auction, if the same are not replevied or redeemed within 21 days after being so impounded by payment of all expenses incurred by the removal and impounding thereof and incidental thereto, and also of all penalties which may have been incurred in consequence of the trespass or intrusion by such livestock, goods, chattels, and effects; and the proceeds of any sale (after payment of the costs thereof, of the removal and impounding of such livestock, goods, chattels, and effects and incidental thereto, and of all penalties aforesaid) shall be paid to the person entitled thereto on application to the Commissioner:
   (c) To ascertain the limits of and to define, according to the laws in force relating thereto, the boundaries of all Crown land held under or affected by any lease or licence:
   (d) To enter on any Crown land in order to take possession thereof in the name of Her Majesty:
-  (e) To distrain, sue for, and recover money due to the Crown for rent, or for use and occupation in respect of any Crown land, or for injury or damage done to any Crown land by wrongful entry or occupation, or by wrongful removal therefrom of anything the property of Her Majesty:
+  (e) To sue for and recover money due to the Crown for rent, or for use and occupation in respect of any Crown land, or for injury or damage done to any Crown land by wrongful entry or occupation, or by wrongful removal therefrom of anything the property of Her Majesty:
   (f) To enforce contracts respecting sales, leases, licences, or other disposition of Crown land, and to compel payment of money due to the Crown in respect thereof:
   (g) To determine any determinable contracts respecting Crown land:
   (h) To resume possession of Crown land on non-performance of contracts:
@@ -706,7 +706,7 @@ Two or more persons may make application to purchase or take on lease or licence
 (1) The rent payable under any lease or licence shall, except where otherwise specially provided, be computed and payable as from the date of the lease or licence, or as from the date of the commencement of the term, whichever date is the earlier.
 (2) The rent shall be payable in equal parts every half-year in advance on the 1st day of January and 1st day of July in each year, unless the Board in any case otherwise determines.
 (3) The rent for the period elapsing between the date of the lease or licence (or other date on which the rent begins to accrue) and the due date of the first half-yearly payment shall be payable, at the option of the Board, either with the first half-yearly payment or at the due date of the next succeeding half-yearly payment, or on such other date as the Board determines.
-(4) The rent may be recovered in like manner as any rent is recoverable by law, and, in case the same is levied by distress, an order by the Commissioner shall be a sufficient warrant and authority to distrain, any law or enactment to the contrary notwithstanding.
+(4) The rent may be recovered in like manner as any rent is recoverable by law.
 
 ### 85 Rebates on payments
 (1) Subject to section 66(8) of this Act, a holder of a lease or licence under this Act (other than a deferred payment licence or a licence granted under section 68 of this Act) who is not in arrear with any instalment of rent under his lease or licence shall be entitled to a rebate of such proportion as may be fixed by the Minister of Finance, of each half-yearly instalment of rent if that instalment is paid within one month after the day appointed for the payment thereof.
