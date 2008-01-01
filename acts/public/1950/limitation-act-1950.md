@@ -1,5 +1,5 @@
 # Limitation Act 1950
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to consolidate and amend certain enactments relating to the limitation of actions and arbitrations
 
@@ -21,7 +21,7 @@ This Act may be cited as the Limitation Act 1950, and shall come into force on t
 (3) For the purposes of the last preceding subsection but without prejudice to the generality thereof, a person shall be conclusively presumed to be of unsound mind while he is detained or kept in custody (otherwise than as a voluntary boarder) under any provision of the Mental Health (Compulsory Assessment and Treatment) Act 1992.
 (4) A person shall be deemed to claim through another person if he became entitled by, through, under, or by the act of that other person to the right claimed, and any person whose estate or interest might have been barred by a person entitled to an entailed interest in possession shall be deemed to claim through the person so entitled:
   Provided that a person becoming entitled to any estate or interest by virtue of a special power of appointment shall not be deemed to claim through the appointor.
-(5) References in this Act to a right of action to recover land shall include references to a right to enter into possession of the land or, in the case of rentcharges, to distrain for arrears of rent; and references to the bringing of such an action shall include references to the making of such an entry or distress.
+(5) References in this Act to a right of action to recover land shall include references to a right to enter into possession of the land or distress and references to the bringing of such an action shall include references to the making of such an entry or distress.
 (6) References in this Act to the possession of land shall, in the case of rentcharges, be construed as references to the receipt of rent; and references to the date of dispossession or discontinuance of possession of land shall, in the case of rentcharges, be construed as references to the date of the last receipt of rent.
 (7) In Part 2 of this Act references to a right of action shall include references to a cause of action and to a right to receive money secured by a mortgage or charge on any property or to recover proceeds of the sale of land, and to a right to receive a share or interest in the personal estate of a deceased person; and references to the date of the accrual of a right of action shall—
   (a) In the case of an action for an account, be construed as references to the date on which the matter arose in respect of which an account is claimed:
@@ -132,8 +132,11 @@ For the purposes of any claim for a sum of money by way of contribution or indem
 Where a person entitled in remainder to an entailed interest in any land has made an assurance thereof which fails to bar the issue in tail or the estates and interests taking effect on the determination of the entailed interest, or fails to bar the last-mentioned estates and interests only, and any person takes possession of the land by virtue of the assurance, and that person or any other person whatsoever (other than a person entitled to possession by virtue of the settlement) is in possession of the land for a period of 12 years from the commencement of the time at which the assurance, if it had then been executed by the person entitled to the entailed interest, would have operated, without the consent of any other person, to bar the issue in tail and such estates and interests as aforesaid, then, at the expiration of that period, the assurance shall operate, and be deemed always to have operated, to bar the issue in tail and those estates and interests.
 
 ### 16 Limitation of redemption actions
-(1) Notwithstanding anything contained in section 81 of the Property Law Act 1952, or in any other enactment, when a mortgagee of land has been in possession of any of the mortgaged land for a period of 12 years, no action to redeem the land of which the mortgagee has been so in possession shall thereafter be brought by the mortgagor or any person claiming through him.
-(2) This section shall not apply in respect of any land that is subject to the Land Transfer Act 1952.
+(1) This section applies to a mortgage of land—
+  (a) only if none of that land is subject to the Land Transfer Act 1952; and
+  (b) only if, and after, the mortgagee has been in possession of all or any of that land for 12 years.
+(2) After the mortgage has become one to which this section applies, no action to redeem the land of which the mortgagee has been so in possession may be brought by, or by a person claiming through, the mortgagor.
+(3) This section overrides anything to the contrary in section 97 of the Property Law Act 2007 or in any other enactment.
 
 ### 17 No right of action to be preserved by formal entry or continual claim
 For the purposes of this Act, no person shall be deemed to have been in possession of any land by reason only of having made a formal entry thereon, and no continual or other claim upon or near any land shall preserve any right of action to recover the land.
@@ -142,15 +145,14 @@ For the purposes of this Act, no person shall be deemed to have been in possessi
 Subject to the provisions of section 10 of this Act, at the expiration of the period prescribed by this Act for any person to bring an action to recover land (including a redemption action) the title of that person to the land shall be extinguished.
 
 ### 19 Limitation of actions to recover rent
-No action shall be brought, or distress made, to recover arrears of rent or damages in respect thereof, after the expiration of 6 years from the date on which the arrears became due.
+No action shall be brought to recover arrears of rent or damages in respect thereof, after the expiration of 6 years from the date on which the arrears became due.
 
 **Actions to recover money secured by a mortgage or charge or to recover proceeds of the sale of land**
 
 ### 20 Limitation of actions to recover money secured by a mortgage or charge or to recover proceeds of the sale of land
 (1) No action shall be brought to recover any principal sum of money secured by a mortgage or other charge on property, whether real or personal, or to recover proceeds of the sale of land (not being the proceeds of the sale of land held upon trust for sale), after the expiration of 12 years from the date when the right to receive the money accrued.
-(2) No foreclosure action in respect of mortgaged personal property shall be brought after the expiration of 12 years from the date on which the right to foreclose accrued:
-  Provided that, if after that date the mortgagee was in possession of the mortgaged property, the right to foreclose on the property which was in his possession shall not, for the purposes of this subsection, be deemed to have accrued until the date on which his possession discontinued.
-(3) The right to receive any principal sum of money secured by a mortgage or other charge and the right to foreclose on any personal property subject to the mortgage or charge shall not be deemed to accrue so long as the property subject to the mortgage or charge comprises any future interest or any life insurance policy which has not matured or been determined.
+(2)
+(3) The right to receive any principal sum of money secured by a mortgage or other charge shall not be deemed to accrue so long as the property subject to the mortgage or charge comprises any future interest or any life insurance policy which has not matured or been determined.
 (4) No action to recover arrears of interest payable in respect of any sum of money secured by a mortgage or other charge or payable in respect of proceeds of the sale of land, or to recover damages in respect of such arrears, shall be brought after the expiration of 6 years from the date on which the interest became due:
   Provided that—
     (a) Where a prior mortgagee or other encumbrancer has been in possession of the property charged, and an action is brought within one year of the discontinuance of that possession by the subsequent encumbrancer, he may recover by that action all the arrears of interest which fell due during the period of possession by the prior encumbrancer or damages in respect thereof, notwithstanding that the period exceeded 6 years:
@@ -191,9 +193,7 @@ If, on the date when any right of action accrued for which a period of limitatio
 **Acknowledgment and part payment**
 
 ### 25 Fresh accrual of action on acknowledgment or part payment
-(1) Where there has accrued any right of action to recover land or any right of a mortgagee of personal property to bring a foreclosure action in respect of the property, and—the right shall be deemed to have accrued on and not before the date of the acknowledgment or the last payment.
-  (a) The person in possession of the land or personal property acknowledges the title of the person to whom the right of action has accrued; or
-  (b) In the case of a foreclosure or other action by a mortgagee, the person in possession as aforesaid or the person liable for the mortgage debt makes any payment in respect thereof, whether of principal or interest,—
+(1) If a right of action to recover land has accrued, and the person in possession of the land acknowledges the title of the person to whom the right of action has accrued, the right is deemed to have accrued on, and not before, the date of the acknowledgment.
 (2) The last preceding subsection shall apply to a right of action to recover land accrued to a person entitled to an estate or interest taking effect on the determination of an entailed interest against whom time is running under section 15 of this Act, and on the making of the acknowledgment that section shall cease to apply to the land.
 (3) Where a mortgagee is by virtue of the mortgage in possession of any mortgaged land which is not subject to the Land Transfer Act 1952, and either receives any sum in respect of the principal or interest of the mortgage debt or acknowledges the title of the mortgagor, or his equity of redemption, an action to redeem the land in his possession may be brought at any time before the expiration of 12 years from the date of the payment or acknowledgment.
 (4) Where any right of action has accrued to recover any debt or other liquidated pecuniary claim, or any claim to the personal estate of a deceased person or to any share or interest therein, and the person liable or accountable therefor acknowledges the claim or makes any payment in respect thereof, the right shall be deemed to have accrued on and not before the date of the acknowledgment or the last payment:
@@ -205,7 +205,7 @@ If, on the date when any right of action accrued for which a period of limitatio
 
 ### 27 Effect of acknowledgment or part payment on persons other than the maker or recipient
 (1) An acknowledgment of the title to any land or mortgaged personalty by any person in possession thereof shall bind all other persons in possession during the ensuing period of limitation.
-(2) A payment in respect of a mortgage debt by the mortgagor or any person in possession of the mortgaged property shall, so far as any right of the mortgagee to foreclose or otherwise to recover the property is concerned, bind all other persons in possession of the mortgaged property during the ensuing period of limitation.
+(2) A payment in respect of a mortgage debt by the mortgagor or any person in possession of the mortgaged property shall, so far as any right of the mortgagee to recover the property is concerned, bind all other persons in possession of the mortgaged property during the ensuing period of limitation.
 (3) Where 2 or more mortgagees are by virtue of the mortgage in possession of the mortgaged land, an acknowledgment of the mortgagor's title or of his equity of redemption by one of the mortgagees shall bind only him and his successors and shall not bind any other mortgagee or his successors, and, where the mortgagee by whom the acknowledgment is given is entitled to a part of the mortgaged land and not to any ascertained part of the mortgage debt, the mortgagor shall be entitled to redeem that part of the land on payment, with interest, of the part of the mortgage debt which bears the same proportion to the whole of the debt as the value of the part of the land bears to the whole of the mortgaged land.
 (4) Where there are 2 or more mortgagors, and the title or right to redemption of one of the mortgagors is acknowledged as aforesaid, the acknowledgment shall be deemed to have been made to all the mortgagors.
 (5) An acknowledgment of any debt or other liquidated pecuniary claim shall bind the acknowledgor and his successors but not any other person:
