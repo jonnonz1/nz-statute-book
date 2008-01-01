@@ -1,5 +1,5 @@
 # Administration Act 1969
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to consolidate and amend certain enactments relating to the administration of the estates of deceased persons
 
@@ -274,7 +274,7 @@ Subject to the provisions of this Act and of any other Act, in the administratio
 ### 36 Application of sections 34 and 35
 (1) Sections 34 and 35 of this Act shall not apply to any will made before the 1st day of January 1971.
 (2) For the purposes of this section every will which is re-executed or confirmed or revived by any codicil shall be deemed to have been made at the time when it was first made, and not at the time when it was re-executed or confirmed or revived.
-(3) This subsection inserted section 149(4) of the Property Law Act 1952.
+(3) Section 149 of the Property Law Act 1952 continues to apply to a will made before 1 January 1971 as if that section had not been repealed by the Property Law Act 2007.
 
 ### 36A Direction for payment of duty on dutiable estate
 [Repealed]
@@ -306,11 +306,7 @@ Every person to whom administration of the estate of a deceased person is grante
 No person appointed an administrator upon an application made by him as the attorney or agent for an administrator absent from New Zealand shall be liable to account or pay money, or transfer property, to any one in respect of his administratorship excepting only to the administrator whose attorney or agent he was, or to any person who, after his appointment as administrator upon an application so made, is appointed administrator of the same estate.
 
 ### 43 Administrator's right to distrain
-(1) An administrator may distrain for arrears of a rentcharge due or accruing to the deceased in his lifetime on the land affected or charged therewith, so long as the land remains in the possession of the person liable to pay the rentcharge or of the persons deriving title under him, and in like manner as the deceased might have done had he been living.
-(2) An administrator may distrain upon land for arrears of rent due or accruing to the deceased in like manner as the deceased might have done had he been living. Any such arrears may be distrained for after the termination of the lease or tenancy as if the term or interest had not determined, if the distress is made—
-  (a) Within 6 months after the termination of the lease or tenancy; and
-  (b) During the continuance of the possession of the lessee or tenant from whom the arrears were due.
-(3) The enactments relating to distress for rent shall apply to any distress made pursuant to subsection (2) of this section.
+[Repealed]
 
 ### 44 Administrator may be required to exhibit inventory
 Every administrator shall, when required by the Court so to do, exhibit on oath in the Court a true and perfect inventory and account of the estate of the deceased; and the Court shall have power as heretofore to require administrators to bring in inventories.
