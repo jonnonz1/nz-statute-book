@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to—aReform the law relating to customs, excise, and other duties; andbProvide for the administration and enforcement of Customs controls at the border; andcRepeal the Customs Act 1966; anddProvide for related matters
 
@@ -4087,6 +4087,9 @@ Part 2 of Schedule 1 to the Tariff Act 1988 is hereby amended by inserting, afte
   (g) Arbitrary or fictitious values.
 
 ## Schedule 3 — Excise and excise-equivalent duties
+
+| The complete“Schedule 3” is not available on this website. For the latest version of “Schedule 3” see www.customs.govt.nz. |
+| --- |
 
 | Notes— |  |
 | --- | --- |
