@@ -1,5 +1,5 @@
 # District Courts Act 1947
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to District Courts and the jurisdiction of District Court Judges in civil proceedings, and to make provision for the exercise of criminal jurisdiction under the Summary Proceedings Act 1957 in District Courts
 
@@ -422,9 +422,7 @@ Where a Court exercising jurisdiction under this Part of this Act adjudges or or
 (3) Where the capital value of any land appears in the district valuation roll for the time being in force that value shall be taken to be the value of the land for the purposes of this section.
 
 ### 32 Landlord's right where rent is in arrear or premises deserted
-(1) If the rent payable by any tenant holding any land by the week, or month, or quarter, or any longer term not exceeding 3 years, is in arrear for 10 days in the case of a weekly tenancy, or 21 days in the case of a monthly tenancy, or 30 days in the case of a quarterly tenancy, or 42 days in the case of a tenancy for any such longer term, and if no right of re-entry for non-payment of rent has been expressly reserved to the landlord by agreement, the landlord shall be entitled, subject to the provisions of subsection (3) hereof, without any formal demand or re-entry, to an order for recovery of the land
-(2) If a tenant holding any land under a demise or agreement, either written or verbal, is in arrear for 2 months in the payment of rent and deserts the premises leaving the same uncultivated or unoccupied so that no sufficient distress can be had to countervail the arrears of rent, then, subject to the provisions of the next succeeding subsection, and, although no right of re-entry for deserting the premises or for non-payment of rent may have been expressly conferred on the landlord, the landlord shall be entitled to an order for recovery of the land.
-(3) If at any time before the execution of any warrant issued in pursuance of an order made under the foregoing provisions of this section the full amount of the rent due to the date of judgment and all costs including the costs of the order and of the warrant (if any) is paid, the proceedings shall cease, and if a warrant has been issued, it shall be withdrawn.
+[Repealed]
 
 ### 33 Jurisdiction as to building societies
 The Courts shall have jurisdiction in relation to—
@@ -1050,20 +1048,7 @@ Where goods have been seized under a warrant of distress, and some third person 
 (3) On the hearing of the summons, the Judge shall adjudicate upon the claim, and shall also adjudicate between the parties or either of them and the bailiff upon any claim to damages arising or capable of arising out of the execution of the warrant by the bailiff, and shall make such order in respect of any such claim and the costs of the proceedings as he thinks fit.
 
 ### 95 Claims for rent where goods seized under execution
-(1) The landlord of a tenement in which goods are taken in execution under this Act, or his agent, may claim the rent thereof at any time within 5 days from the date of the taking, or before the removal of the goods, by delivering to the bailiff a writing signed by the landlord or his agent stating the nature of the tenancy, the amount of rent claimed to be in arrear, and the period in respect of which the rent is due.
-(2) If such claim is made, the bailiff shall, in addition to the levy under the warrant, distrain for the rent so claimed and the cost of such distress, and shall not, within 5 days next after the distress, sell any part of the goods seized unless—
-  (a) The goods are of a perishable nature; or
-  (b) The person whose goods have been seized so requests in writing.
-(3) The bailiff shall afterwards sell under the execution and distress such of the goods as will satisfy—
-  (a) First, the costs of and incidental to the sale;
-  (b) Next, the claim of the landlord not exceeding—
-    (i) In a case where the tenement is let by the week, 8 weeks' rent;
-    (ii) In a case where the tenement is let for any other term less than a year, the rent of 2 terms of payment;
-    (iii) In any other case, 12 months' rent; and
-  (c) Lastly, the amount for which the warrant issued.
-(4) If replevin is made of the goods seized, the bailiff shall nevertheless sell such portion thereof as will satisfy the costs of and incidental to the sale under the execution and the amount for which the warrant issued.
-(5) In any event the surplus of the sale, if any, and the residue of the goods shall be returned to the execution debtor.
-(6) The fees and expenses of the bailiff for keeping possession and for sale under any such distress shall be the same as would have been payable if the distress had been an execution of the Court, and no other fees shall be demanded or taken in respect thereof.
+[Repealed]
 
 **Garnishee proceedings**
 
@@ -1312,10 +1297,6 @@ Where under any Act any power, authority, or jurisdiction is given to Judges, th
 | --- | --- |
 |  | Part 5—Crimes Against Public Order |
 | 80 | Oath to commit offence |
-| 82 | Seditious conspiracy |
-| 83 | Seditious statements |
-| 84 | Publication of seditious documents |
-| 85 | Use of apparatus for making seditious documents or statements |
 | 90 | Riotous damage |
 |  | Part 6—Crimes Affecting the Administration of Law and Justice |
 | 104 | Corruption and bribery of law enforcement officer |
