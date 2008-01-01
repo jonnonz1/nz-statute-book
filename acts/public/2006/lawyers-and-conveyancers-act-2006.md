@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-01-01_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -120,7 +120,7 @@ In this Act, unless the context otherwise requires,—
       (ii) persons who are administrators of the estates of persons who, at the time of their death, were lawyers of the kind described in paragraph (b); and
     (d) has as its shareholders, in respect of shares that do not confer voting rights, no persons other than—
       (i) lawyers of the kind described in paragraph (b); or
-      (ii) persons who are relatives of lawyers of the kind described in paragraph (b); or
+      (ii) persons who are relatives of lawyers of the kind described in paragraph (; or
       (iii) persons who are administrators of the estates of persons who, at the time of their death, were shareholders of the kind described in subparagraph (i) or subparagraph (ii)
   - **investigator** means an investigator appointed under section 144
   - **Law Society inspectorate** means the inspectorate established by the New Zealand Law Society pursuant to regulations made under section 115
@@ -3875,8 +3875,8 @@ Nothing in this Act prevents—
     (iii) the shares of the donor in the incorporated firm; or
   (b) the grant by a lawyer or conveyancing practitioner of a power of attorney otherwise than under this Act.
 
-### 18 Property Law Act 1952 and Companies Act 1993 overridden
-Clauses 2 to 17 apply despite anything to the contrary in the Property Law Act 1952 or the Companies Act 1993 or any rule of law.
+### 18 Property Law Act 2007 and Companies Act 1993 overridden
+Clauses 2 to 17 apply despite anything to the contrary in the Property Law Act 2007 or the Companies Act 1993 or any rule of law.
 
 ### 19 Powers of manager or administrator of estate of mentally disordered or deceased practitioner
 (1) While under the Protection of Personal and Property Rights Act 1988 there is a manager of the estate of the donor, the manager may, at any time, and from time to time, suspend the powers of the donee of a power of attorney, and may, at any time, revoke any such suspension.
