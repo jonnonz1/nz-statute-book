@@ -1,5 +1,5 @@
 # Contracts Enforcement Act 1956
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to reform the law relating to the enforcement of certain contracts
 
