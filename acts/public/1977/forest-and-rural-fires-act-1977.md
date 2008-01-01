@@ -1,5 +1,5 @@
 # Forest and Rural Fires Act 1977
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to consolidate and amend the law relating to the safeguarding of life and property by the prevention, detection, control, restriction, suppression and extinction of fire in forest and rural areas and other areas of vegetation
 
@@ -550,12 +550,10 @@ In this Act the term costs, in relation to fire control measures, includes all e
 (1) Where any property has wholly or partially been destroyed or damaged by or safeguarded from an outbreak or threat of outbreak of fire, and responsibility for the outbreak is acknowledged by, or is established by action or otherwise as caused by, any person—
   (a) The costs of control, restriction, suppression or extinction of the fire may be recovered from that person by the Fire Authority or the New Zealand Fire Service Commission or the eligible landholder or eligible landholders of the forest area affected, as the case may be, incurring those costs pursuant to fire control measures under this Act; and
   (b) Any loss in, or diminution of, value of that property, and any consequential loss or damage not too remote in law, may be recovered from that person by the owner of the property.
-(1A) To avoid doubt, section 86 of the Fires Prevention (Metropolis) Act 1774 (Imp) does not apply—
-  (a) in determining, for the purposes of this section, responsibility for the outbreak or threat of outbreak of fire; or
-  (b) to a recovery made under this section.
+(1A)
 (2) The amount of the costs so recoverable may be wholly or partially established by agreement, or by a Rural Fire Mediator, or by proceedings under section 48(4) of this Act.
 (3) This section shall be deemed to be supplementary to and not in substitution for any other rights of recovery that may exist in law or by enactment or otherwise howsoever.
-(4) Before imposing any levy under section 46 or section 46A of this Act, a Fire Authority shall reasonably endeavour to recovery its costs pursuant to this section.
+(4) Before imposing any levy under section 46 or section 46A of this Act, a Fire Authority shall reasonably endeavour to recover its costs pursuant to this section.
 
 ### 44 Estimate of proposed expenditure
 Every Fire Authority of a rural fire district shall periodically cause an estimate to be prepared of its proposed expenditure for the next ensuing period. Any deficiency at the end of any period shall be carried forward into and be regarded as expenditure for the next period. Any surplus shall be allowed for in assessing the requirements of the next period.
@@ -811,3 +809,39 @@ The following enactments are hereby repealed:
   (c) The Forest and Rural Fires Amendment Act 1962:
   (d) The Forest and Rural Fires Amendment Act 1963:
   (e) So much of Schedule 2 to the Fire Service Act 1975 as relates to the Forest and Rural Fires Act 1955.
+
+### 1 Title
+This Act is the Property Law Act 2007.
+
+### 2 Commencement
+This Act comes into force on 1 January 2008.
+
+### 3 Purpose
+The purpose of this Act is to restate, reform, and codify (in part) certain aspects of the law relating to real and personal property.
+
+## Part 7 — Miscellaneous provisions
+
+**District Courts' jurisdiction, regulations, consequential amendments, repeals, etc, and savings and transitional provisions**
+
+### 365 Imperial enactments relating to property no longer part of law of New Zealand
+(1) The enactments to which this section applies cease to have effect as part of the law of New Zealand.
+(2) This section applies to the enactments specified under the heading Enactments Relating to Property in Schedule 1 of the Imperial Laws Application Act 1988, namely—
+  (a) (1267) 52 Hen 3 (The Statute of Marlborough), c 23:
+  (b) (1289-90) 18 Edw 1, St 1—(Quia Emptores), c 1, c 3:
+  (c) (1539) 31 Hen 8, c 1—The Partition Act 1539:
+  (d) (1540) 32 Hen 8, c 32—The Partition Act 1540:
+  (e) (1540) 32 Hen 8, c 34—The Grantees of Reversions Act 1540, except section 3:
+  (f) (1689) 2 Will and Mar, Sess 1, c 5—The Distress Act 1689, except sections 3 and 4:
+  (g) (1705) 4 and 5 Anne, c 3—The Administration of Justice Act 1705: sections 9 and 10:
+  (h) (1709) 8 Anne, c 18—The Landlord and Tenant Act 1709: sections 1, 4, 6, and 7:
+  (i) (1730) 4 Geo 2, c 28—The Landlord and Tenant Act 1730: sections 2, 4, 5, and 6:
+  (j) (1737) 11 Geo 2, c 19—The Distress for Rent Act 1737: sections 1, 2, 7, 8, 11, 14, 16, and 17:
+  (k) (1832) 2 and 3 Will 4, c 71—The Prescription Act 1832: sections 1, 2, and 4 to 8:
+  (l) (1851) 14 and 15 Vict, c 25—The Landlord and Tenant Act 1851: sections 1 to 4.
+(3) This section also applies to the following enactments specified under the heading Other Enactments in Schedule 1 of the Imperial Laws Application Act 1988:
+  (a) (1774) 14 Geo 3, c 78—The Fires Prevention (Metropolis) Act 1774: section 83, and section 86 [as amended by the Statute Law Revision Act 1861 (24 and 25 Vict c 101)]:
+  (b) (1828) 9 Geo 4, c 14—The Statute of Frauds Amendment Act 1828: section 6.
+(4) Schedule 1 of the Imperial Laws Application Act 1988 is consequentially amended by repealing the heading referred to in subsection (2) and so much of that schedule as relates to the enactments to which this section applies, and the following are consequentially repealed:
+  (a) section 3(2) of the Innkeepers Act 1962; and
+  (b) Amendment incorporated in the principal Act
+(5) Sections 17 to 19 and 21 of the Interpretation Act 1999 apply to the enactments to which this section applies as if those enactments were Acts of the Parliament of New Zealand.
