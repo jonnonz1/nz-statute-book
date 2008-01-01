@@ -1,5 +1,5 @@
 # Distress and Replevin Amendment Act 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-01-01_
 
 ### 1 Title
 (1) This Act is the Distress and Replevin Amendment Act 2004.
