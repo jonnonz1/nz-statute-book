@@ -1,5 +1,5 @@
 # Building Societies Act 1965
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2008-01-01_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to building societies
 
@@ -25,7 +25,11 @@ _Consolidation as at 2007-09-20_
   - **Instrument** includes—
     (a) Any instrument (other than this Act) of any form or kind that creates, evidences, modifies, or extinguishes rights, interests, or liabilities or would do so if it or a copy thereof were lodged, filed, or registered under any enactment; and
     (b) Any judgment, order, or process of a court:
-  - **Land** has the same meaning as in the Property Law Act 1952; and includes a licensee's interest under any licence to occupy within the meaning of Part 7A of the Land Transfer Act 1952 or under a deferred payment licence within the meaning of the Land Act 1948
+  - **land** includes—
+    (a) all estates or interests, whether freehold or chattel, in real property; and
+    (b) a licensee's interest under—
+      (i) a licence to occupy (within the meaning of section 121A of the Land Transfer Act 1952); or
+      (ii) a deferred payment licence (within the meaning of section 2 of the Land Act 1948)
   - **Liabilities** means liabilities, debts, charges, duties, and obligations of every description (whether present or future, actual or contingent, and whether payable or to be observed or performed in New Zealand or elsewhere)
   - **Member** , in relation to a society, includes—
     (a) Any person who for the time being holds a share (whether advanced or not) in the society:
@@ -521,7 +525,7 @@ A receipt or acknowledgment given to a society by a person under the age of 20 y
 [Repealed]
 
 ### 56G Memorandum of discharge of mortgage
-For the purposes of section 79 of the Property Law Act 1952, a memorandum of discharge of a mortgage to a society shall be deemed to be duly executed if it is under the society's seal and countersigned by the manager or secretary of the society.
+For the purposes of section 83 of the Property Law Act 2007, and without affecting section 9 of that Act, a memorandum of discharge of a mortgage to a society shall be deemed to be duly executed if it is under the society's seal and countersigned by the manager or secretary of the society.
 
 ## Part 6 — Powers of control of Registrar
 
