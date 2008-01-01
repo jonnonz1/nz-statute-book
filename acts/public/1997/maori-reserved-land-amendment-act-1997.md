@@ -1,5 +1,5 @@
 # Maori Reserved Land Amendment Act 1997
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to amend the Maori Reserved Land Act 1955
 
@@ -311,7 +311,7 @@ The principal Act is amended in the manner set out in Schedule 4.
     (iii) A child of an existing beneficiary:
   (i) A person who purchases the lessee's interest in the lease at a public auction, being a public auction conducted—
     (i) By or for a mortgagee pursuant to a power of sale contained in a mortgage; and
-    (ii) After the mortgagee has given to the lessor, not less than 20 working days before the auction, notice in writing of the public auction and of the terms and conditions of sale and, where the sale is to be conducted under section 99 of the Property Law Act 1952 by a Registrar of the High Court, of the redemption price stated by the mortgagee in the application for sale:
+    (ii) After the mortgagee has given to the lessor, not less than 20 working days before the auction, notice in writing of the public auction and of the terms and conditions of sale and, where the sale is to be conducted under sections 187 to 198 of the Property Law Act 2007 by a Registrar of the High Court, of the discharge sum nominated by the mortgagee in the application for sale:
   (j) A person who purchases the lessee's interest in the lease at a public auction (not being a public auction of the kind described in paragraph (i)) on that interest being knocked down to that person at that auction after the lessee has given to the lessor, not less than 20 working days before the auction, notice in writing of the public auction and of the terms and conditions of sale:
   (k) A person who purchases the lessee's interest—
     (i) After that interest has failed to sell at a public auction of the kind described in paragraph (i) or paragraph (j); and
