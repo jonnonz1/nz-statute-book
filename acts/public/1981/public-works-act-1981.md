@@ -1,5 +1,5 @@
 # Public Works Act 1981
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to consolidate and amend the law relating to public works
 
@@ -1751,7 +1751,7 @@ For the purposes of sections 209 to 212 of this Act, interest shall be calculate
 ### 221 Charge on land
 (1) If at any time any money that is due and payable to the Crown in respect of any basic charge or water availability charge or of water supplied under this Part of this Act to or for the benefit of any land, whether or not such land is in an irrigation district, is unpaid, the Minister may without fee deposit with the District Land Registrar a certificate under his hand describing the land and specifying the amount due and unpaid in respect of it; and the District Land Registrar shall without fee register the certificate against the title to the land affected by it.
 (2) While a certificate is so registered, no transfer, conveyance, mortgage, lease, or other instrument affecting the land or any estate or interest therein, or any part of it, shall be registered or lodged with the District Land Registrar without the prior written consent of the Minister.
-(3) In addition to all other powers and remedies conferred on the Crown by any Act, agreement, or instrument, the Crown shall, for the recovery of the money specified in any certificate registered under subsection (1) of this section against the title of any land, have the same powers and remedies under the Land Transfer Act 1952 or the Property Law Act 1952, as the case may be, as if the certificate were a mortgage of the land.
+(3) In addition to all other powers and remedies conferred on the Crown by any Act, agreement, or instrument, the Crown shall, for the recovery of the money specified in any certificate registered under subsection (1) of this section against the title of any land, have the same powers and remedies under the Land Transfer Act 1952 or the Property Law Act 2007, as the case may be, as if the certificate were a mortgage of the land.
 (4) On the payment of all money for the time being secured by any certificate registered under subsection (1) of this section, the Minister shall without fee deposit with the District Land Registrar a release of the certificate; and the District Land Registrar shall, without fee, register the release.
 
 ### 222 Application of this Part to existing schemes
