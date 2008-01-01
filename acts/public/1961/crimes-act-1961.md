@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2007-11-20_
+_Consolidation as at 2008-01-01_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -692,7 +692,7 @@ Every one is liable to imprisonment for a term not exceeding 14 years who, being
   (b) Damages or destroys any property which it is necessary to keep intact for the safety or health of the public.
 (2) No person shall be convicted of an offence against this section by reason only of the fact that he takes part in any strike or lockout.
 
-**Seditious offences**
+**Offence of oath to commit offence**
 
 ### 80 Oath to commit offence
 (1) Every one is liable to imprisonment for a term not exceeding 5 years who—
@@ -702,40 +702,19 @@ Every one is liable to imprisonment for a term not exceeding 14 years who, being
 (2) No one who has been acquitted or convicted of any offence against this section is liable to be afterwards tried for treason, or for being accessory after the fact to treason, in respect of the same matter.
 
 ### 81 Seditious offences defined
-(1) A seditious intention is an intention—
-  (a) To bring into hatred or contempt, or to excite disaffection against, Her Majesty, or the Government of New Zealand, or the administration of justice; or
-  (b) To incite the public or any persons or any class of persons to attempt to procure otherwise than by lawful means the alteration of any matter affecting the Constitution, laws, or Government of New Zealand; or
-  (c) To incite, procure, or encourage violence, lawlessness, or disorder; or
-  (d) To incite, procure, or encourage the commission of any offence that is prejudicial to the public safety or to the maintenance of public order; or
-  (e) To excite such hostility or ill will between different classes of persons as may endanger the public safety.
-(2) Without limiting any other legal justification, excuse, or defence available to any person charged with any offence, it is hereby declared that no one shall be deemed to have a seditious intention only because he intends in good faith—
-  (a) To show that Her Majesty has been misled or mistaken in her measures; or
-  (b) To point out errors or defects in the Government or Constitution of New Zealand, or in the administration of justice; or to incite the public or any persons or any class of persons to attempt to procure by lawful means the alteration of any matter affecting the Constitution, laws, or Government of New Zealand; or
-  (c) To point out, with a view to their removal, matters producing or having a tendency to produce feelings of hostility or ill will between different classes of persons.
-(3) A seditious conspiracy is an agreement between 2 or more persons to carry into execution any seditious intention.
-(4) For the purposes of sections 83 to 85 of this Act,—
-  - **To publish** means to communicate to the public or to any person or persons, whether in writing, or orally, or by any representation, or by any means of reproduction whatsoever
-  - **Statement** includes words, writing, pictures, or any significant expression or representation whatsoever; and also includes any reproduction, by any means whatsoever, of any statement.
+[Repealed]
 
 ### 82 Seditious conspiracy
-Every one is liable to imprisonment for a term not exceeding 2 years who is a party to any seditious conspiracy.
+[Repealed]
 
 ### 83 Seditious statements
-Every one is liable to imprisonment for a term not exceeding 2 years who makes or publishes, or causes or permits to be made or published, any statement that expresses any seditious intention.
+[Repealed]
 
 ### 84 Publication of seditious documents
-(1) Every one is liable to imprisonment for a term not exceeding 2 years who, with a seditious intention,—any document, statement, advertisement, or other matter that expresses any seditious intention.
-  (a) Prints, publishes, or sells; or
-  (b) Distributes or delivers to the public or to any person or persons; or
-  (c) Causes or permits to be printed, published, or sold, or to be distributed or delivered as aforesaid; or
-  (d) Has in his possession for sale, or for distribution or delivery as aforesaid; or
-  (e) Brings or causes to be brought or sent into New Zealand,—
-(2) Any constable may seize any document, statement, or advertisement, or any other written or printed matter, in respect of which an offence under this section is committed or is reasonably suspected by him to have been committed.
+[Repealed]
 
 ### 85 Use of apparatus for making seditious documents or statements
-Every one is liable to imprisonment for a term not exceeding 2 years who, having in his possession or under his control any printing press, or any mechanical, photographic, or electrical apparatus, or any other apparatus whatsoever,—for printing, making, or publishing, or for facilitating the printing, making, or publishing of, any document, statement, advertisement, or other matter that expresses or will express any seditious intention.
-  (a) Uses it; or
-  (b) Causes or permits it to be used—
+[Repealed]
 
 **Unlawful assemblies, riots, and breaches of the peace**
 
