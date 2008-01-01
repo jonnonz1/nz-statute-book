@@ -1,5 +1,5 @@
 # Agricultural and Pastoral Societies Act 1908
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to consolidate certain enactments of the General Assembly relating to the incorporation and management of Agricultural and Pastoral Societies
 
@@ -35,7 +35,7 @@ If such lands are not suitable for the purposes herein mentioned, the society ma
 ### 8 Power to acquire and manage lands
 (1) A society may purchase or otherwise acquire any freehold or leasehold lands, with or without buildings, and may put up any buildings or erections thereon, or pull down, rebuild, repair, or alter any buildings or erections already existing thereon, whether erected or purchased by the society, and may furnish and equip any such buildings or erections for the use either of the society or of any of its tenants.
 (2) The 2 last preceding sections apply to all lands acquired by any society under the provisions of this section.
-(3) The committee of management of the society shall have full power, if it thinks fit, to appoint a subcommittee, to consist of not fewer than 3 persons, who may be entrusted with the management of any lands and buildings heretofore or hereafter purchased or otherwise acquired under this Act, with full power to enter into and execute contracts in the name and on behalf of the society for letting the whole or any part thereof, to sue and distrain for rents, and do all things necessary in or about such management.
+(3) The committee of management of the society shall have full power, if it thinks fit, to appoint a subcommittee, to consist of not fewer than 3 persons, who may be entrusted with the management of any lands and buildings heretofore or hereafter purchased or otherwise acquired under this Act, with full power to enter into and execute contracts in the name and on behalf of the society for letting the whole or any part thereof, to sue for rents, and do all things necessary in or about such management.
 (4) All money arising from the letting of any such lands or buildings shall be applied, first, in the payment of all necessary outgoings in connection with the land or buildings and, secondly, in payment of any interest, principal, or other money payable in accordance with the terms of any mortgage or other loan raised under this Act; and, after payment of such interest, principal, or other money, shall be applied to the general purposes of the society.
 
 ### 9 Power to mortgage
