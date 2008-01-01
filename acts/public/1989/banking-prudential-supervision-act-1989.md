@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 1989
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to consolidate and amend the law constituting and relating to the Reserve Bank of New Zealand and, in particular,—aTo provide, while continuing to recognise the Crown's right to determine economic policy, for the Reserve Bank of New Zealand, as the central bank, to be responsible for formulating and implementing monetary policy designed to promote stability of the general level of prices; andbTo confer on the Reserve Bank of New Zealand certain other functions and powers; andcTo repeal the Reserve Bank of New Zealand Act 1964
 
@@ -1553,10 +1553,10 @@ Subject to section 142 of this Act, every statutory manager of a registered bank
   (a) Commence or continue any action or other proceedings, including proceedings by way of counterclaim, against that registered bank:
   (b) Issue any execution, attach any debt, or otherwise enforce or seek to enforce any judgment or order obtained in respect of that registered bank:
   (c) Take any steps to put that registered bank into liquidation or voluntary administration:
-  (d) Foreclose, enter into possession, sell, or appoint a receiver of the property of that registered bank or property in respect of which the registered bank has an equity of redemption:
+  (d) enter into possession, sell, or appoint a receiver of the property of that registered bank or property in respect of which the registered bank has an equity of redemption:
   (e) Exercise or continue any power or rights under, or in pursuance of, any mortgage, charge, debenture, instrument, or other security over the property of that registered bank:
   (f) Claim or recover, pursuant to any retention of title clause, hire purchase agreement, mortgage, lease, or security, any property in the possession of the registered bank:
-  (g) Determine or forfeit any tenancy, distrain for rent, retake or re-enter any premises, or exercise or continue any power or rights under or in pursuance of any lease, against that registered bank:
+  (g) Determine or forfeit any tenancy, retake or re-enter any premises, or exercise or continue any power or rights under or in pursuance of any lease, against that registered bank:
   (h) Exercise any right of set-off against that registered bank.
 (2) Notwithstanding subsection (1) of this section, an action or proceeding may be commenced or continued against a registered bank for the purpose of determining whether any right or liability exists if the leave of the statutory manager or the High Court is first obtained.
 (3) Notwithstanding subsection (1) of this section, a statutory manager may waive the application in whole or in part of that subsection (except paragraph (c) of that subsection) to any creditor or class of creditors in respect of the whole or part of any claim of, or security held by, that creditor or class of creditors.
