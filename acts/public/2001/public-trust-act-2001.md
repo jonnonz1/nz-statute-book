@@ -1,5 +1,5 @@
 # Public Trust Act 2001
-_Consolidation as at 2007-11-01_
+_Consolidation as at 2008-01-01_
 
 ### 1 Title
 This Act is the Public Trust Act 2001.
@@ -137,7 +137,7 @@ Despite anything in this Act or the Crown Entities Act 2004, in managing and adm
 (2)
 (3)
 (4)
-(5) Section 5(1)(a) of the Property Law Act 1952 does not apply to a deed made by Public Trust.
+(5)
 
 ### 13 Application of Public Finance Act 1989
 (1)
