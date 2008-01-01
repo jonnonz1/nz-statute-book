@@ -1,5 +1,5 @@
 # Property Law Amendment Act 1983
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-01-01_
 
 > An Act to amend the Property Law Act 1952
 
