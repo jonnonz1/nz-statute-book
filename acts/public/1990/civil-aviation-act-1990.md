@@ -1,5 +1,5 @@
 # Civil Aviation Act 1990
-_Consolidation as at 2007-09-26_
+_Consolidation as at 2008-01-18_
 
 > An Act—aTo establish rules of operation and divisions of responsibility within the New Zealand civil aviation system in order to promote aviation safety; andbTo ensure that New Zealand's obligations under international aviation agreements are implemented; andcTo consolidate and amend the law relating to civil aviation in New Zealand
 
@@ -1348,13 +1348,15 @@ Every person who, without reasonable excuse, acts in contravention of or fails t
 
 **Security offences**
 
-### 54 Security area offences
-(1) Every person commits an offence who, on being found in a security area,—
-  (a) Refuses to state his or her name, address, and authority to enter the security area after—
-    (i) Having been informed that he or she is in a security area; and
+### 54 Security area and security enhanced area offences
+(1) Every person commits an offence who, on being found in a security area or security enhanced area,—
+  (a) Refuses to state his or her name, address, and authority to enter the security area or security enhanced area after—
+    (i) Having been informed that he or she is in a security area or security enhanced area; and
     (ii) Having been requested by an aviation security officer to state those particulars; or
-  (b) Refuses forthwith to leave the security area after having been ordered by an aviation security officer to do so.
-(2) Every person who commits an offence against subsection (1) of this section is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000.
+  (b) Refuses forthwith to leave the security area or security enhanced area after having been ordered by an aviation security officer to do so.
+(2) Every person who commits an offence under subsection (1) in relation to a—
+  (a) security area is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000:
+  (b) security enhanced area is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $5,000.
 
 ### 55 Personation or obstruction of aviation security officer
 (1) Every person commits an offence who, not being an aviation security officer,—
@@ -1861,21 +1863,37 @@ The prevention of the commission of crimes against the Aviation Crimes Act 1972 
 ### 77 Responsibility of Minister
 The Minister shall ensure that aviation security services are provided at all security designated aerodromes and security designated navigation installations.
 
-### 77A Powers and duties of Minister to require screening
-(1) The Minister may, if necessary to improve or enhance aviation security to enable New Zealand to be part of a concerted international response to a threat to aviation security, direct an aviation security provider, by notice in the Gazette,—
+### 77A Powers and duties of Minister to require screening, searching, and seizing
+(1) The Minister may, if the Minister considers it necessary to improve or enhance aviation security to enable New Zealand to be part of a concerted international response to a threat to aviation security, or if the Minister considers it is in the public interest or national interest to do so, direct an aviation security service provider, by notice in the Gazette,—
   (a) to screen—
-    (i) any person boarding an aircraft; or
-    (ii) any thing to be carried by an aircraft; and
+    (i) any person boarding an aircraft:
+    (ii) any thing to be carried on an aircraft:
+    (iii) any person, item, or substance—
+      (A) before the person, item, or substance enters a sterile area:
+      (B) present in a sterile area:
+    (iv) any person, item, substance, or vehicle—
+      (A) before the person, item, substance, or vehicle enters a security enhanced area:
+      (B) present in a security enhanced area:
+    (v) any unattended item, substance, or vehicle in a security enhanced area:
   (b) if necessary, to undertake reasonable searches of—
-    (i) any person boarding an aircraft; or
-    (ii) any thing to be carried by an aircraft; or
+    (i) any person boarding an aircraft:
+    (ii) any thing to be carried on an aircraft:
     (iii) any (as specified in the Gazette notice)—
-      (A) aircraft or class of aircraft; or
-      (B) aerodrome or class of aerodrome; or
-      (C) navigation installation or class of navigation installation.
-(2) Before directing an aviation security provider under subsection (1), the Minister must, to determine whether or not the direction is necessary to improve or enhance aviation security to enable New Zealand to be part of a concerted international response to a threat to aviation security, consult—
+      (A) aircraft or class of aircraft:
+      (B) aerodrome or class of aerodrome:
+      (C) navigation installation or class of navigation installation:
+    (iv) any person, item, substance, or vehicle—
+      (A) before the person, item, substance, or vehicle enters a sterile area:
+      (B) present in a sterile area:
+    (v) any person, item, substance, or vehicle—
+      (A) before the person, item, substance, or vehicle enters a security enhanced area:
+      (B) present in a security enhanced area:
+    (vi) any unattended item, substance, or vehicle in a security enhanced area:
+  (c) to seize any item or substance specified in the Gazette notice if the aviation security officer has reasonable grounds to believe that there is no lawful authority or reasonable excuse for the item or substance to be carried on an aircraft.
+(1A) An aviation security service provider directed under subsection (1) must screen and search for any item or substance specified in the Gazette notice.
+(2) Before directing an aviation security provider under subsection (1), the Minister must consult—
   (a) the Director; and
-  (b) as the Minister in each case considers appropriate, representative groups in the aviation industry, government departments, and Crown agencies.
+  (b) as the Minister in each case considers appropriate and practical, other ministers, representative groups in the aviation industry, government departments, and Crown agencies.
 (3) A direction made under subsection (1) takes effect on the date specified in the notice, which may be a date before the notice is published in the Gazette if the Minister—
   (a) considers on reasonable grounds that urgent action is required; and
   (b) has consulted the Director before that date; and
@@ -1889,19 +1907,35 @@ The Minister shall ensure that aviation security services are provided at all se
 (7) Subject to subsection (4), a direction remains in effect until it is rescinded.
 (8) Nothing in this section empowers the Minister to exercise the Director's powers under section 77B.
 
-### 77B Powers and duties of Director to require screening
-(1) The Director may, if he or she believes on reasonable grounds that a security risk exists, direct an aviation security provider, by notice in the Gazette,—
+### 77B Powers and duties of Director to require screening, searching, and seizing
+(1) The Director may, if he or she believes on reasonable grounds that a security risk exists, direct an aviation security service provider, by notice in the Gazette,—
   (a) to screen—
-    (i) any person boarding an aircraft; or
-    (ii) any thing to be carried by an aircraft; and
+    (i) any person boarding an aircraft:
+    (ii) any thing to be carried on an aircraft:
+    (iii) any person, item, or substance—
+      (A) before the person, item, or substance enters a sterile area:
+      (B) present in a sterile area:
+    (iv) any person, item, substance, or vehicle—
+      (A) before the person, item, substance, or vehicle enters a security enhanced area:
+      (B) present in a security enhanced area:
+    (v) any unattended item, substance or vehicle in a security enhanced area:
   (b) if necessary, to undertake reasonable searches of—
-    (i) any person boarding an aircraft; or
-    (ii) any thing to be carried by an aircraft; or
+    (i) any person boarding an aircraft:
+    (ii) any thing to be carried on an aircraft:
     (iii) any (as specified in the Gazette notice)—
-      (A) aircraft or class of aircraft; or
-      (B) aerodrome or class of aerodrome; or
-      (C) navigation installation or class of navigation installation.
-(2) Before directing an aviation security provider under subsection (1), the Director must, to determine whether or not the direction is necessary to meet the security risk, consult, as the Director in each case considers appropriate, representative groups in the aviation industry, government departments, and Crown agencies.
+      (A) aircraft or class of aircraft:
+      (B) aerodrome or class of aerodrome:
+      (C) navigation installation or class of navigation installation:
+    (iv) any person, item, substance, or vehicle—
+      (A) before the person, item, substance, or vehicle enters a sterile area:
+      (B) present in a sterile area:
+    (v) any person, item, substance, or vehicle—
+      (A) before the person, item, substance, or vehicle enters a security enhanced area:
+      (B) present in a security enhanced area:
+    (vi) any unattended item, substance, or vehicle in a security enhanced area:
+  (c) seize any item or substance specified in the Gazette notice if the aviation security officer has reasonable grounds to believe that there is no lawful authority or reasonable excuse for the item or substance to be carried on an aircraft.
+(1A) An aviation security service provider directed under subsection (1) must screen and search for any item or substance specified in the Gazette notice.
+(2) Before directing an aviation security provider under subsection (1), the Director must, to determine whether or not the direction is necessary to meet the security risk, consult, as the Director in each case considers appropriate and practical, representative groups in the aviation industry, government departments, and Crown agencies.
 (3) A direction made under subsection (1) takes effect on the date specified in the notice, which may be a date before the notice is published in the Gazette, if the Director—
   (a) considers on reasonable grounds that urgent action is required; and
   (b) has notified all affected parties (other than persons boarding an aircraft) before that date.
@@ -1912,6 +1946,10 @@ The Minister shall ensure that aviation security services are provided at all se
 (5A) A direction is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
 (6) The Director may rescind a direction made under subsection (1).
 (7) Subject to subsection (4), a direction remains in effect until it is rescinded.
+
+### 77BA Certain Gazette notices may not include security sensitive information
+(1) A notice to be published in the Gazette under section 77A(1) or 77B(1) in relation to security enhanced areas may not include security sensitive information.
+(2) For the purposes of this section, security sensitive information means information that would prejudice the national security interests of New Zealand if disclosed.
 
 ### 77C Transitional provisions for screening
 (1) A direction requiring the screening of domestic aircraft passenger services made by the Director before 1 June 2002 continues in force until 1 September 2002, on which date it expires; however, the Director may rescind the direction before 1 September 2002.
@@ -2040,6 +2078,93 @@ Without limiting the powers, functions, duties, or responsibilities of the Polic
 (6) If an aviation security officer delivers an item or substance to a member of the police under subsection (5)(c), the aviation security officer must record the delivery and the relevant details of the seizure.
 (7) Despite anything in this section, if the aviation security officer has reasonable grounds to believe that an item or substance poses an imminent risk to safety, the aviation security officer may destroy or otherwise dispose of the item or substance.
 
+### 80C Powers and duties of aviation security officers relating to security enhanced areas
+(1) Without limiting section 80, an aviation security officer may, for the purpose of detecting any item or substance specified in section 11(1) of the Aviation Crimes Act 1972 or a direction given under section 77A(1) or 77B(1), screen or search any person, item, substance, or vehicle—
+  (a) before the person, item, substance, or vehicle enters a security enhanced area:
+  (b) present in a security enhanced area.
+(2) A search undertaken under subsection (1) must be carried out in accordance with the requirements for searches specified in section 12(2) to (8) of the Aviation Crimes Act 1972.
+(3) If an item or substance specified in section 11(1) of the Aviation Crimes Act 1972 or a direction under section 77A(1) or 77B(1) is detected in a search undertaken under subsection (1) or section 80 of this Act or section 12 of the Aviation Crimes Act 1972, and the aviation security officer has reasonable grounds to believe that there is no lawful authority or reasonable excuse for the item or substance to be carried into or remain in the security enhanced area, the aviation security officer may seize and detain the item or substance for the purpose of determining whether there is lawful authority or reasonable excuse for the item or substance to be carried into or remain in the security enhanced area.
+(4) If the aviation security officer determines that there is no lawful authority or reasonable excuse for the item or substance to be carried into or remain in the security enhanced area, the aviation security officer—
+  (a) must—
+    (i) detain the item or substance until it is delivered to a member of the police or, if the Director agrees, destroyed or otherwise disposed of; or
+    (ii) deny entry into the security enhanced area to any person in possession of the item or substance; or
+    (iii) direct the person in possession of the item to leave the security enhanced area, with or without—
+      (A) the item or substance:
+      (B) any vehicle used to transport the item or substance; and
+  (b) must make a record of the item or substance and the person from whom the item or substance was seized (if any).
+(5) If the aviation security officer determines that the item or substance may be lawfully carried into or remain in the security enhanced area, the aviation security officer must, if practicable, return the item or substance to the person from whom the item or substance was seized.
+(6) Despite anything in this section, if the aviation security officer has reasonable grounds to believe that the item or substance poses an imminent risk to safety, the aviation security officer may destroy or otherwise dispose of the item or substance.
+
+### 80D Consent to be screened or searched
+(1) The powers specified in section 80C(1) may only be exercised with respect to—
+  (i) a person to be screened or searched with the consent of the person:
+  (ii) an item, substance, or vehicle to be screened or searched with the consent of the person in possession of the item, substance, or vehicle.
+(2) To avoid doubt, an item, substance, or vehicle may be screened or searched without consent if it is unattended.
+
+### 80E Persons who refuse to consent to be screened or searched
+(1) If a person refuses to consent to the screening or searching under section 80C(1), an aviation security officer may—
+  (a) deny that person entry into the security enhanced area:
+  (b) require that person to—
+    (i) leave the security enhanced area:
+    (ii) remove any item, substance, or vehicle in that person's possession from the security enhanced area.
+(2) An aviation security officer may—
+  (a) prevent a person from entering a security enhanced area if the person is denied entry:
+  (b) remove a person from a security enhanced area if the person is required to leave.
+(3) An aviation security officer may detain a person who—
+  (a) refuses to leave when required to leave (or attempts to enter when denied entry) and persists in his or her refusal (or attempt) after being warned that he or she commits an offence by not complying:
+  (b) refuses to be screened or searched if the aviation security officer has reasonable grounds to suspect that—
+    (i) an offence against the Aviation Crimes Act 1972 has been, is being, or is likely to be committed, whether by that person or by any other person; or
+    (ii) a search of the person refusing to consent is likely to disclose evidence that an offence against the Aviation Crimes Act 1972 has been, is being, or is likely to be, committed, whether by that person or any other person.
+(4) A person detained under subsection (3) must be delivered to a member of the police as soon as practicable.
+(5) An aviation security officer, or any person assisting an aviation security officer, may use reasonable force, or any assistance that is reasonably necessary in the circumstances, to—
+  (a) prevent a person from entering a security enhanced area under subsection (2)(a):
+  (b) remove a person from a security enhanced area under subsection (2)(b):
+  (c) detain a person under subsection (3).
+
+### 80F Searches of persons refusing consent to be searched
+(1) If a person refuses to consent to the screening or searching under section 80C(1), a member of the police may, without a warrant, search the person and any item, substance, or vehicle in the person's possession, and may detain the person for the purposes of the search, and may take possession of any item or substance found in the course of the search that is specified in section 11(1) of the Aviation Crimes Act 1972, if the member of the police has reasonable grounds to suspect that—
+  (a) an offence against the Aviation Crimes Act 1972 has been, is being, or is likely to be committed, whether by that person or by any other person; and
+  (b) a search of the person refusing to consent, or any item, substance, or vehicle in the person's possession, is likely to disclose evidence that an offence against the Aviation Crimes Act 1972 has been, is being, or is likely to be, committed, whether by that person or any other person.
+(2) The refusal of a person to consent to the searching of his or her person, or any item, substance, or vehicle in the person's possession, does not of itself constitute reasonable grounds for suspecting that an offence against the Aviation Crimes Act 1972 has been, is being, or is likely to be, committed.
+(3) A member of the police exercising the power of search under subsection (1) must, before the search is conducted, and on any subsequent request,—
+  (a) provide evidence of his or her identity to the person to be searched; and
+  (b) inform the person to be searched that the search is authorised under this section; and
+  (c) if not in uniform, provide evidence, if asked, that he or she is a member of the police to the person to be searched.
+(4) If a member of the police exercises the power of search under subsection (1), he or she must, within 3 days after the day on which he or she exercises the power, furnish to the Commissioner of Police a written report on the exercise of the power and the circumstances in which it came to be exercised.
+
+### 80G Searches of persons
+(1) With respect to a search made under section 80C(1),—
+  (a) a person must, if directed to do so by an aviation security officer,—
+    (i) remove, raise, lower, or open any outer clothing, including (but not limited to) any coat, jacket, jumper, cardigan, or similar article that the person is wearing to enable the search to be carried out, except where the person has no other clothing, or only underclothing, under the outer clothing:
+    (ii) remove any gloves, footwear (including socks or stockings), head coverings, belts, jewellery, or other accessories:
+    (iii) allow an aviation security officer to carry out a pat down search:
+  (b) a female may only be searched by a female unless the search is made by means of a mechanical or electrical or electronic or other similar device.
+(2) For the purposes of this section, pat down search—
+  (a) means a search of a clothed person in which the person conducting the search may do all or any of the following:
+    (i) run or pat his or her hand over the body of the person being searched, whether outside or inside the clothing (other than any underclothing) of that person:
+    (ii) insert his or her hand inside any pocket or pouch in the clothing (other than any underclothing) of the person being searched:
+    (iii) for the purpose of permitting a visual inspection, require the person being searched to do all or any of the following, namely:
+      (A) open his or her mouth:
+      (B) display the palms of his or her hands:
+      (C) display the soles of his or her feet:
+      (D) lift or rub his or her hair; and
+  (b) includes the authority to search—
+    (i) any item or substance carried by, or in the possession of, the person; and
+    (ii) any outer clothing removed, raised, lowered, or opened for the purposes of the search; and
+    (iii) any head covering, gloves, or footwear (including socks or stockings) removed for the purposes of the search.
+
+### 80H Power to require drivers to stop vehicles in security enhanced areas for screening or searching
+(1) An aviation security officer who is in uniform, or wearing a distinctive cap, hat, or helmet, with a badge of authority affixed to it, may signal or request the driver of a vehicle in a security enhanced area to stop the vehicle as soon as is practicable for the purpose of screening or searching the vehicle, and any item, substance, or person in the vehicle.
+(2) The driver of a vehicle that is stopped by an aviation security officer must remain stopped for as long as is reasonably necessary for the aviation security officer to screen or search the vehicle, and any item, substance, or person in the vehicle.
+(3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000, who, without lawful authority or reasonable excuse, fails to—
+  (a) stop a vehicle in a security enhanced area as soon as is practicable when required to do so by an aviation security officer; or
+  (b) remain stopped for as long as is reasonably necessary for the aviation security officer to screen or search the vehicle, and any item, substance, or person in the vehicle.
+
+### 80I Protection of aviation security officers
+Nothing done by an aviation security officer under sections 80B(3) to (7) and 80C(3) to (6) may subject the aviation security officer to personal liability if done in—
+  (a) good faith; and
+  (b) the exercise of powers or the performance of duties under this Act.
+
 ### 81 Functions and duties of other aviation security service providers
 (1) Aviation security service providers (other than the Aviation Security Service) shall have such functions and duties as may be prescribed by rules made under this Act.
 (2) Such aviation security service providers shall designate employees to be aviation security officers; and every such officer shall have and may exercise, in relation to the aerodrome or navigation installation at which he or she is employed, all the powers of an aviation security officer under this Part of this Act, except the powers to arrest and detain any person.
@@ -2054,14 +2179,18 @@ Without limiting the powers, functions, duties, or responsibilities of the Polic
 (3) Where the Police have taken command of any situation at an aerodrome or navigation installation, the rights of aviation security officers to enter any part thereof or any aircraft, building, or place shall be subject to such limitations as the senior member of the Police present at the aerodrome or navigation installation specifies.
 (4) Where an aircraft or vehicle is not being used for commercial purposes, subsection (1) of this section shall not apply unless the aviation security officer believes on reasonable grounds that there is in that vehicle or aircraft a person or thing likely to endanger the aerodrome or installation or any of its facilities or any person.
 
-### 84 Security areas
-(1) The Director may declare, by a sign or signs affixed at the perimeter thereof, that an area within any security designated aerodrome or security designated navigation installation is a security area.
-(2) No person other than a member of the Police on official duties or an aviation security officer shall enter or remain in any security area unless authorised by the Director or the airport manager or other person having control thereof.
-(3) Every person in a security area shall, on the request of an aviation security officer, state his or her name, address, the purpose of his or her presence in the security area, and his or her authority to enter it, and shall produce satisfactory evidence of the correctness of his or her stated name and address.
-(4) Where a person who fails or refuses to provide an aviation security officer with satisfactory evidence of his or her name and address when requested by the aviation security officer, or where a person fails to satisfy the aviation security officer that he or she is authorised to be there, the aviation security officer may order that person to leave the aviation security area.
-(5) An aviation security officer, and any person whom he or she calls to his or her assistance, may use such force as may be reasonably necessary to remove from any security area any person who fails or refuses forthwith to leave the security area after having been ordered by an aviation security officer to do so under subsection (4) of this section.
+### 84 Security areas and security enhanced areas
+(1) The Director may declare, by a sign or signs affixed at the perimeter of the area, that an area within any security designated aerodrome or security designated navigation installation is a security area.
+(1A) The Director may declare, by appropriate notification, that an area within a security area is a security enhanced area.
+(2) No person other than a member of the police on official duties or an aviation security officer on official duties may enter or remain in any security area or security enhanced area unless the person is—
+  (a) wearing an airport identity card issued under the rules (or other identity document approved by the Director under the rules) and worn in accordance with the rules; and
+  (b) authorised by the Director or the airport manager or other person having control of the area.
+(3) Every person in a security area or security enhanced area shall, on the request of an aviation security officer, state his or her name, address, the purpose of his or her presence in the security area or security enhanced area, and his or her authority to enter it, and shall produce satisfactory evidence of the correctness of his or her stated name and address.
+(4) Where a person who fails or refuses to provide an aviation security officer with satisfactory evidence of his or her name and address when requested by the aviation security officer, or where a person fails to satisfy the aviation security officer that he or she is authorised to be there, the aviation security officer may order that person to leave the security area or security enhanced area.
+(5) An aviation security officer, and any person whom he or she calls to his or her assistance, may use such force as may be reasonably necessary to remove from any security area or security enhanced area any person who fails or refuses forthwith to leave the security area or security enhanced area after having been ordered by an aviation security officer to do so under subsection (4) of this section.
 (6) Any person who refuses to comply with subsection (3) or subsection (4) of this section and, after having been warned that he or she commits an offence, persists in its commission, may be detained by an aviation security officer and in that case he or she shall as soon as may be practicable be delivered to a member of the Police.
-(7) A passenger embarking or disembarking directly through gateways or thoroughfares in an airport approved for that purpose by the licensee of the airport shall be deemed to be authorised by the Director to pass through any security area forming part of those gateways or thoroughfares.
+(7) Despite subsection (2), a passenger embarking or disembarking directly through a gateway or thoroughfare in an airport approved for that purpose by the airport manager may pass through a security area or security enhanced area fanning part of the gateway or thoroughfare without an airport identity card.
+(8) Despite subsection (2), a person allowed under the rules may pass through a security area or security enhanced area without an airport identity card.
 
 ### 85 Powers of arrest and seizure of items or substances
 (1) Every aviation security officer is justified in arresting without warrant any person on or in the vicinity of any security designated aerodrome or security designated navigation installation if he or she has reasonable grounds to believe that an offence has been or is being committed by that person against any of the following enactments:
