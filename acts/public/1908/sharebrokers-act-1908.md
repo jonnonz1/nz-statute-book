@@ -1,5 +1,5 @@
 # Sharebrokers Act 1908
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-02-29_
 
 > An Act to consolidate certain enactments of the General Assembly relating to sharebrokers and stock exchanges
 
@@ -40,7 +40,7 @@ In this Act, if not inconsistent with the context,—
 (1) Where—a District Court Judge, exercising jurisdiction in the District Court in which the licence was granted, may suspend or cancel the sharebroker's licence.
   (a) A sharebroker has been convicted of any crime involving dishonesty as defined in section 2(1) of the Crimes Act 1961; or
   (b) A sharebroker has, within the preceding 3 years, been guilty of misconduct or any improper practice; or
-  (c) A judgment has been obtained against a sharebroker in a proceeding under Part 1 of the Securities Market Act 1988 as an insider (within the meaning of that Part of that Act),—
+  (c) a sharebroker has been convicted of an offence against Part 1 (dealing misconduct) of the Securities Markets Act 1988 or a pecuniary penalty order has been made against the person for a contravention of that Part,—
 (2) Any person may apply under this section to have a sharebroker's licence suspended or cancelled.
 (3) Not less than 10 days' notice of intention to apply shall be given to the sharebroker.
 (4) At the hearing of the application the applicant and the sharebroker may give evidence and call witnesses.
