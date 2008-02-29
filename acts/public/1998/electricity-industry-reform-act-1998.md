@@ -1,5 +1,5 @@
 # Electricity Industry Reform Act 1998
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-02-29_
 
 > An Act to reform the electricity industry
 
@@ -177,9 +177,9 @@ A person exceeds the 10% threshold in respect of an electricity business if the 
 
 ### 9 Meaning of control rights
 (1) For the purposes of this Act, a control right means a voting right attaching to a voting security.
-(2) A person has a control right under this Act if the person would have a relevant interest, under section 5 of the Securities Markets Act 1988, in the voting securities that confer that right,—
+(2) A person has a control right under this Act if the person would have a relevant interest, under sections 5 to 5B of the Securities Markets Act 1988, in the voting securities that confer that right,—
   (a) If voting security, in relation to a body, meant a security of the body which confers a right to vote at meetings of members (whether or not there is any restriction or limitation on the number of votes that may be cast by or on behalf of the holder of the security); and includes a security which, in accordance with the terms of the security, is convertible into a security of that kind; and
-  (b) If references in that section to a number or percentage of voting securities were a reference to the number or percentage of the votes conferred by those securities.
+  (b) If references in those sections to a number or percentage of voting securities were a reference to the number or percentage of the votes conferred by those securities.
 
 ### 10 Meaning of equity return rights
 (1) For the purposes of this Act, a person has an equity return right in relation to a business if the person has a right or entitlement or expectancy to receive equity returns, directly or indirectly, of the business.
@@ -219,7 +219,7 @@ A person exceeds the 10% threshold in respect of an electricity business if the 
 (1) For the purposes of this Act, person A is an associate of person B (and vice versa) if—
   (a) Person A is a body corporate, and person B is—
     (i) A director of that body corporate; or
-    (ii) A related body corporate of that body corporate (within the meaning of section 5(7) of the Securities Markets Act 1988); or
+    (ii) A related body corporate of that body corporate (within the meaning of section 5B(2) of the Securities Markets Act 1988); or
     (iii) A director of a related body corporate of that body corporate (within that same meaning); or
   (b) Person A is a spouse, civil union partner, de facto partner, child, or parent of person B; or
   (c)
@@ -742,7 +742,7 @@ No person may at any time do anything to defeat the purposes of Parts 1 to 5.
   (e) The maintenance of files of notices or registers of involvements or interests and access to those files or registers and limitations on access to those files or registers:
   (f) Exemptions from the requirements of the regulations:
   (g) A method of ascertaining percentages for the purpose of the 10% and 20% thresholds:
-  (h) The consequences of any failure to make disclosure in accordance with the regulations, including providing for any matter currently referred to in sections 30 to 35A of the Securities Markets Act 1988.
+  (h) The consequences of any failure to make disclosure in accordance with the regulations, including providing for the Court to make orders directing disclosure, compensatory orders, or other orders described in section 42ZF of the Securities Markets Act 1988, who may apply for the orders, and related matters.
 (3) Subsection (2) does not limit the generality of section 87(2)(f).
 
 **Matters relevant to implementation of Part 2**
