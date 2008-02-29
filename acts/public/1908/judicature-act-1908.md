@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2008-02-29_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -278,7 +278,7 @@ The Governor-General in Council may from time to time appoint special sittings o
   (b) Applications to the Court under the Arbitration Act 1908:
   (c) Appeals against determinations of the Commerce Commission:
   (d) Proceedings under any of the provisions of sections 80, 81, 82, and 89 of the Commerce Act 1986:
-  (e) Cases stated by the Securities Commission and civil proceedings under the Securities Act 1978:
+  (e) Cases stated by the Securities Commission and civil proceedings under the Securities Act 1978 or the Securities Markets Act 1988:
   (f) The following proceedings in relation to companies registered under the Companies Act 1955 or the Companies Act 1993, as the case may be:
     (i) Applications for directions by liquidators and receivers:
     (ii) Defended applications under section 209ZG of the Companies Act 1955 or section 174 of the Companies Act 1993:
@@ -1142,7 +1142,7 @@ A co-surety, co-contractor, or co-debtor shall not be entitled to recover from a
     (b) Apply in relation to any debt upon which interest is payable as of right, whether by virtue of any agreement, enactment, or rule of law, or otherwise; or
     (c) Affect the damages recoverable for the dishonour of a bill of exchange.
 (2) In any proceedings in the High Court, the Court of Appeal, or the Supreme Court for the recovery of any debt upon which interest is payable as of right, and in respect of which the rate of interest is not agreed upon, prescribed, or ascertained under any agreement, enactment, or rule of law or otherwise, there shall be included in the sum for which judgment is given interest at such rate, not exceeding the prescribed rate, as the Court thinks fit for the period between the date as from which the interest became payable and the date of the judgment.
-(3) In this section the term the prescribed rate means the rate of 7 percent per annum, or such other rate as may from time to time be prescribed for the purposes of this section by the Governor-General by Order in Council.
+(3) In this section the term the prescribed rate means the rate of 7.5% per annum, or such other rate as may from time to time be prescribed for the purposes of this section by the Governor-General by Order in Council.
 
 **Lost instruments**
 
