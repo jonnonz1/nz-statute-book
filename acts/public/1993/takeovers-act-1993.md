@@ -1,5 +1,5 @@
 # Takeovers Act 1993
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-02-29_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Takeovers Act 1993.
@@ -742,16 +742,25 @@ The proceedings under this subpart are civil proceedings and the usual rules of 
 **False or misleading statement or information**
 
 ### 44B False or misleading statement or information
-[Repealed]
+(1) A person must not make a statement or disseminate information, in relation to any transaction or event regulated by the takeovers code or incidental or preliminary to a transaction or event that is or is likely to be regulated by the takeovers code, if—
+  (a) a material aspect of the statement or information is false or the statement or information is materially misleading; and
+  (b) the statement or information is likely to—
+    (i) induce a person to trade, or hold, the securities of a specified company; or
+    (ii) have the effect of increasing, reducing, maintaining, or stabilising the price for trading in those securities; or
+    (iii) induce a person to vote for, or to vote against, a transaction that is or is likely to be regulated by the takeovers code, or to abstain from voting in respect of that transaction.
+(2) In this section, trade means to acquire or dispose of securities.
 
 ### 44C Criminal liability for false or misleading statement or information
-[Repealed]
+(1) A person who contravenes section 44B commits an offence if the person has actual knowledge that the statement or information is false in a material aspect or is materially misleading.
+(2) A person who commits an offence against subsection (1) is liable on conviction on indictment to,—
+  (a) in the case of an individual, imprisonment for a term not exceeding 5 years or a fine not exceeding $300,000, or to both:
+  (b) in the case of a body corporate, a fine not exceeding $1,000,000.
 
 ### 44D Exception for disclosure by investment advisers or brokers
-[Repealed]
+Section 44B does not apply to conduct in relation to a disclosure under Part 4 of the Securities Markets Act 1988 or to conduct in relation to an advice advertisement, a broker advertisement, or a product advertisement to the extent that that conduct is regulated by Part 4 of that Act.
 
 ### 44E Fair Trading Act 1986 excluded
-[Repealed]
+The Fair Trading Act 1986 does not apply to conduct in relation to any transaction or event regulated by the takeovers code or incidental or preliminary to a transaction or event that is or is likely to be regulated by the takeovers code.
 
 ### Subpart 4 — Other Court orders
 
@@ -955,3 +964,27 @@ The Governor-General may from time to time, by Order in Council, make regulation
 
 ### 10 Remuneration and travelling allowances
 [Repealed]
+
+### 1 Title
+This Act is the Takeovers Amendment Act 2006.
+
+### 2 Commencement
+(1) This Act comes into force on the day after the date on which it receives the Royal assent.
+(2) However, the following provisions only come into force on a date to be appointed by the Governor-General by Order in Council:
+  (a) new sections 44B, 44C, 44D, and 44E of the Takeovers Act 1993 as inserted by section 24:
+  (b) section 29.
+(3) For the purposes of subsection (2), 1 or more orders may be made bringing different provisions into force on different dates.
+
+**Transitional provisions**
+
+### 31 Transitional provision for acquisitions made or committed to before commencement of this section
+No amendment made by this Act requires a person to comply with the principal Act or the code—
+  (a) by reason only of the fact that, on the commencement of this section, a particular proportion of securities have been acquired in a specified company, whether by that person or any other person before the commencement of this section; or
+  (b) by reason of the acquisition of securities in a specified company, whether by that person or any other person, on or after the commencement of this section, if the acquisition arises from the performance of a contractual obligation incurred, or the exercise of a right acquired, before the commencement of this section.
+
+### 32 Transitional provision for existing offences and contraventions
+(1) The principal Act and the code continue to have effect as if they were not amended by this Act for the purpose of—
+  (a) investigating an existing offence or contravention:
+  (b) commencing or completing proceedings for an existing offence or contravention:
+  (c) imposing a penalty or other remedy, or making an order, in relation to an existing offence or contravention.
+(2) In this section, existing offence or contravention means an offence under, or contravention of, the principal Act or the code that was committed or done before the commencement of this Act.
