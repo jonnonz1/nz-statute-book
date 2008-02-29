@@ -1,5 +1,5 @@
 # Securities Act 1978
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2008-02-29_
 
 > An Act to establish a Securities Commission; and to consolidate and amend the law relating to the offering of securities to the public, and to extend the application thereof
 
@@ -323,7 +323,7 @@ _Consolidation as at 2007-10-01_
     (a) the giving of investment advice:
     (b) the receiving of investment money:
     (c) the receiving of investment property
-  - **investment advice** has the same meaning as in section 2(1) of the Investment Advisers (Disclosure) Act 1996
+  - **investment advice** has the same meaning as in section 2(1) of the Securities Markets Act 1988
   - **investment money** means any money received from, or on account of, a member of the public in relation to buying or selling securities
   - **investment property** means security certificates or other valuable property received from, or on account of, a member of the public in relation to buying or selling securities.
 (2CG) The Governor-General, by Order in Council, may make regulations for all or any of the following purposes:
@@ -576,7 +576,7 @@ This Act shall bind the Crown.
 ### 27 Restrictions on delegation
 (1) The Commission may not delegate the powers in—
   (a) sections 5(5), 38B, 38F, 44, 44B(2), 67, 69, and 69N:
-  (b)
+  (b) sections 34, 36ZO, 48, 48C, and subpart 2 of Part 5, of the Securities Markets Act 1988.
 (2) In other respects, section 73 of the Crown Entities Act 2004 applies.
 
 ### 28 Protection from liability for Commission and members, officers, and employees
@@ -1931,8 +1931,8 @@ The Commission must not provide any information, evidence, or documents obtained
   (d) at a meeting for the purposes of section 44B(2)(b) or (c), the contributory mortgage broker concerned:
   (e) at a meeting for the purposes of section 44B(2)(d), the contributory mortgage broker concerned and any director or secretary of the nominee company of that contributory mortgage broker:
   (f) at a meeting for the purposes of section 69, the person whose appeal is being considered:
-  (g) at a meeting for the purposes of section 19ZC of the Securities Markets Act 1988, the person to whom the order is directed:
-  (h) at a meeting for the purposes of section 36ZB of the Securities Markets Act 1988, the person to whom the order is directed:
+  (g) at a meeting for the purposes of section 42F of the Securities Markets Act 1988, the persons to whom notice of the order must be given under that section:
+  (h)
   (i) at a meeting for the purposes of section 36ZT of the Securities Markets Act 1988, the registered exchange and public issuer or issuers concerned:
   (j) at a meeting for the purposes of any of those sections, a person who, in the Commission's opinion, ought to be heard or whose appearance or representation will assist the Commission in its consideration of the matter before it.
 (2) At least 1 person who is a barrister or solicitor of not less than 7 years' practice must attend at every meeting for the purposes of any of the sections to which subsection (1) applies.
@@ -2297,3 +2297,25 @@ Registration as a dentist under the Health Practitioners Competence Assurance Ac
 
 ### 13
 Registration as a patent attorney under the Patents Act 1953.
+
+### 1 Title
+This Act is the Securities Amendment Act 2006.
+
+### 2 Commencement
+(1) This Act comes into force on the day after the date on which it receives the Royal assent.
+(2) However, the following provisions only come into force on a date to be appointed by the Governor-General by Order in Council:
+  (a) new section 27(1)(b) of the Securities Act 1978 as substituted by section 5:
+  (b) section 19:
+  (c) in the Schedule, the repeal of sections 382(1)(c) and 383(1)(d) of the Companies Act 1993.
+(3) For the purposes of subsection (2), 1 or more orders may be made bringing different provisions into force on different dates.
+
+## Part  — Transitional provisions
+
+### 24 Transitional provision for existing offences and contraventions
+(1) The principal Act continues to have effect as if it were not amended by this subpart for the purpose of—
+  (a) investigating an existing offence or contravention:
+  (b) commencing or completing proceedings for an existing offence or contravention:
+  (c) imposing a penalty or other remedy, or making an order, in relation to an existing offence or contravention.
+(2) In this section, existing offence or contravention means—
+  (a) an offence under, or contravention of, the principal Act that was committed or done in respect of a prospectus that was registered, or an advertisement that was distributed, before the commencement of this subpart; and
+  (b) in any other case, an offence under, or contravention of, the principal Act that was committed or done before the commencement of this subpart.
