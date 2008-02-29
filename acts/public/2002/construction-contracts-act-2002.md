@@ -1,5 +1,5 @@
 # Construction Contracts Act 2002
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-02-29_
 
 ### 1 Title
 This Act is the Construction Contracts Act 2002.
@@ -52,7 +52,7 @@ In this Act, unless the context otherwise requires,—
     (b) includes any variation to the construction contract; but
     (c) does not include a lease or licence under which a party undertakes to fit out, alter, repair, or reinstate the leased or licensed premises unless the principal purpose of the lease or licence is the carrying out of construction work
   - **construction site** means the land on which the claimant has been carrying out construction work under the relevant construction contract
-  - **construction work or work** has the meaning set out in section 6
+  - **construction work** or has the meaning set out in section 6
   - **contract price** , in relation to a construction contract,—
     (a) means the total amount payable under the contract for carrying out the construction work to which the contract relates; and
     (b) includes, for the avoidance of doubt, any variations to that amount agreed to between the parties to the contract
@@ -92,7 +92,7 @@ In this Act, unless the context otherwise requires,—
     (a) an arbitral tribunal; or
     (b) a Disputes Tribunal established under section 4 of the Disputes Tribunals Act 1988
   - **working day** means a day of the week (irrespective of whether or not work is actually carried out on that day) other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's Birthday, Labour Day, and Waitangi Day; and
+    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, and Waitangi Day; and
     (b) the day observed in the appropriate area as the anniversary of the province of which the area forms a part; and
     (c) for the purposes of sections 18, 22, 33, 35 to 37, 46, 59, 66, and 72, a day in the period commencing on 24 December in any year and ending with the close of 5 January in the following year; and
     (d) for the purposes of sections 53, 74, and 75, a day in the period commencing on 25 December in any year and ending with the close of 15 January in the following year.
@@ -103,7 +103,7 @@ In this Act, unless the context otherwise requires,—
   (b) the construction, erection, installation, carrying out, alteration, repair, restoration, renewal, maintenance, extension, demolition, removal, or dismantling of any works forming, or to form, part of land; including—
     (i) any road, motorway, aircraft runway, wharf, docks, harbour works, railway, cableway, or tramway:
     (ii) any canal, inland waterway, pipeline, reservoir, aqueduct, water main, well, or sewer:
-    (iii) any electricity, water, gas, or telephone reti- culation:
+    (iii) any electricity, water, gas, or telephone reticulation:
     (iv) any telecommunication apparatus or industrial plant:
     (v) any installation for the purposes of land drainage or coast protection:
   (c) the installation in any building or structure of fittings forming, or to form, part of land; including heating, lighting, air conditioning, ventilation, power supply, drainage, sanitation, water supply or fire protection, security, and communications systems:
@@ -124,7 +124,7 @@ In this Act, unless the context otherwise requires,—
 (1) In this Act, person A is an associate of person B (and vice versa) if—
   (a) person A is a body corporate and person B is—
     (i) a director of that body corporate; or
-    (ii) a related body corporate of that body corporate (within the meaning of section 5(7) of the Securities Markets Act 1988); or
+    (ii) a related body corporate of that body corporate (within the meaning of section 5B(2) of the Securities Markets Act 1988); or
     (iii) a director of a related body corporate of that body corporate (within that same meaning); or
   (b) person A is a spouse, civil union partner, de facto partner, child, or parent of person B; or
   (c)
@@ -150,9 +150,9 @@ In this Act, unless the context otherwise requires,—
     (a) an expectancy or a contingent or unvested right to equity returns of the business or person; or
     (b) a right to equity returns of the business or person that does not confer on the holder a certain or defined share of the equity returns available to all or to any class of persons having equity return rights in the business or person
   - **person** includes the trustees of a trust acting in that capacity.
-(3) For the purposes of this section, a person has a control right if the person would have a relevant interest, under section 5 of the Securities Markets Act 1988, in the voting securities that confer that right,—
+(3) For the purposes of this section, a person has a control right if the person would have a relevant interest, under sections 5 to 5B of the Securities Markets Act 1988, in the voting securities that confer that right,—
   (a) if voting security, in relation to a body, meant a security of the body that confers a right to vote at meetings of members (whether or not there is any restriction or limitation on the number of votes that may be cast by, or on behalf of, the holder of the security); and includes a security that, in accordance with the terms of the security, is convertible into a security of that kind; and
-  (b) if references in that section to a number or percentage of voting securities were a reference to the number or percentage of the votes conferred by those securities.
+  (b) if references in those sections to a number or percentage of voting securities were a reference to the number or percentage of the votes conferred by those securities.
 
 **Application**
 
@@ -180,9 +180,9 @@ This Act does not apply to—
   (b) a construction contract to the extent that it contains—
     (i) provisions under which a party undertakes to carry out construction work as a condition of a loan agreement with any person; or
     (ii) provisions under which a party undertakes—
-    (A) to lend money or to repay money lent; or
-    (B) to guarantee payment of money owing or repayment of money lent; or
-    (C) to provide an indemnity for construction work carried out under the construction contract.
+      (A) to lend money or to repay money lent; or
+      (B) to guarantee payment of money owing or repayment of money lent; or
+      (C) to provide an indemnity for construction work carried out under the construction contract.
 
 **No contracting out**
 
