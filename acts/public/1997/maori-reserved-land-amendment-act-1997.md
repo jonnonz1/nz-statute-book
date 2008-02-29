@@ -1,5 +1,5 @@
 # Maori Reserved Land Amendment Act 1997
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2008-02-29_
 
 > An Act to amend the Maori Reserved Land Act 1955
 
@@ -68,7 +68,7 @@ Where land that is subject to a lease to which this Act applies, or a lessee's i
 (5) In this section,—
   (a) Company includes any body corporate with voting securities; but does not include a company that is a party to a listing agreement with a stock exchange:
   (b) Preferred alienee means a person that comes within the preferred classes of alienees under Te Ture Whenua Maori Act 1993:
-  (c) Relevant interest has the meaning assigned to that term by section 5 of the Securities Markets Act 1988:
+  (c) Relevant interest has the meaning assigned to that term by sections 5 to 5B of the Securities Markets Act 1988:
   (d) Specified assignee has the same meaning as in clause 2 of Schedule 1, as if reference in that definition to an interest in a lease were reference to a relevant interest in the voting securities of a lessee that is a company:
   (e) Voting security has the same meaning as in section 2 of the Securities Markets Act 1988, as if references in that definition to public issuer or other body and public issuer or body were references to company.
 
