@@ -1,5 +1,5 @@
 # Companies Amendment Act (No 2) 2006
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-02-29_
 
 ### 1 Title
 This Act is the Companies Amendment Act (No 2) 2006.
@@ -130,11 +130,7 @@ Section 383(1) is amended by inserting the following paragraph after paragraph (
 
 ### 16 Consequential amendments to Securities Markets Act 1988
 (1) This section amends the Securities Markets Act 1988.
-(2) Section 26 (that is in force on the day on which this Act receives the Royal assent) is amended by repealing subsection (1) and substituting the following subsection:
-  (1) Every public issuer that is a company (but not an overseas company) must send a note stating the following matters to each shareholder with the annual report or notice sent under section 209 of the Companies Act 1993:
-    (a) the names of all persons who, according to the file kept under section 25 of this Act, are substantial security holders in the public issuer, as at a date not earlier than 3 months before the annual report or notice is sent under section 209 of the Companies Act 1993; and
-    (b) the number of voting securities of the public issuer in which, according to the file, each substantial security holder has a relevant interest as at that date; and
-    (c) the total number of issued voting securities of the public issuer as at that date.
+(2)
 (3) Section 35F(2)(a) (as substituted by the Securities Markets Amendment Act 2006) is amended by repealing subparagraph (ii) and substituting the following subparagraph:.
   (ii) the notice sent under that section; and
 (4) Subsection (2) is repealed when subsection (3) comes into force.
