@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2007-12-20_
+_Consolidation as at 2008-02-29_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
@@ -2953,6 +2953,15 @@ The enactments specified in Schedule 3 to this Act are hereby amended in the man
 | Securities Act 1978 | 60C | offence of contravening management banning order |
 |  | 60E | persons automatically banned from management |
 |  | 60K | offence of contravening order to preserve assets |
+| Securities Markets Act 1988 | 8F | criminal liability for insider conduct |
+|  | 11A | criminal liability for false or misleading statement or information |
+|  | 11D | criminal liability for false or misleading appearance of trading, etc |
+|  | 39 | dealers in futures contracts must be authorised |
+|  | 43H | offence of contravening management banning order |
+|  | 43I | persons automatically banned from management |
+|  | 43M | offence of contravening investment adviser or broker banning order |
+|  | 43N | persons automatically banned from investment adviser or broker activities |
+|  | 43T | offence of contravening order to preserve assets |
 | The Serious Fraud Office Act 1990 | 45 | Offences as to obstructing investigation, etc |
 |  | 46 | Offence to destroy, alter, or conceal records, etc |
 | The Shipping and Seamen Act 1952 |  |  |
