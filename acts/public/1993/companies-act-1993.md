@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2008-02-29_
 
 > An Act to reform the law relating to companies, and, in particular,—aTo reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbTo provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcTo define the relationships between companies and their directors, shareholders, and creditors; anddTo encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeTo provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -5604,7 +5604,7 @@ Any person who, not being incorporated with limited liability, whether alone or 
 (1) Where—that person shall not, during the period of 5 years after the conviction or the judgment, be a director or promoter of, or in any way, whether directly or indirectly, be concerned or take part in the management of, a company, unless that person first obtains the leave of the Court which may be given on such terms and conditions as the Court thinks fit.
   (a) A person has been convicted on indictment of any offence in connection with the promotion, formation, or management of a company; or
   (b) A person has been convicted of an offence under any of sections 377 to 380 of this Act or of any crime involving dishonesty as defined in section 2(1) of the Crimes Act 1961; or
-  (c) A judgment has been obtained in an action under Part 1 of the Securities Markets Act 1988 against a person as an insider (within the meaning of that Part of that Act),—
+  (c)
 (2) A person intending to apply for the leave of the Court under this section shall give to the Registrar not less than 10 days' notice of that person's intention to apply.
 (3) The Registrar, and such other persons as the Court thinks fit, may attend and be heard at the hearing of any application under this section.
 (4) A person who acts in contravention of this section, or of any order made under this section, commits an offence and is liable on conviction to the penalty set out in section 373(4) of this Act.
@@ -5619,7 +5619,7 @@ Any person who, not being incorporated with limited liability, whether alone or 
     (ii) Been guilty of fraud in relation to the company or of a breach of duty to the company or a shareholder; or
     (iii) Acted in a reckless or incompetent manner in the performance of his or her duties as director; or
   (ca) a person has been prohibited in a country, State, or territory outside New Zealand from carrying on activities that the Court is satisfied are substantially similar to being a director or promoter of or being concerned or taking part in the management of a body corporate; or
-  (d) A judgment has been obtained in an action under Part 1 of the Securities Markets Amendment Act 1988 against a person as an insider (within the meaning of that Part of that Act); or
+  (d)
   (e) A person has become of unsound mind,—
 (2) A person intending to apply for an order under this section must give not less than 10 days' notice of that intention to the person against whom the order is sought, and on the hearing of the application the last-mentioned person may appear and give evidence or call witnesses.
 (3) An application for an order under this section may be made by the Registrar, the Official Assignee, or by the liquidator of the company, or by a person who is, or has been, a shareholder or creditor of the company; and on the hearing of—the Registrar, Official Assignee, or liquidator must appear and call the attention of the Court to any matters which seem to him or her to be relevant, and may give evidence or call witnesses.
