@@ -1,5 +1,5 @@
 # Investment Advisers (Disclosure) Amendment Act 1998
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-02-29_
 
 > An Act to amend the Investment Advisers (Disclosure) Act 1996
 
