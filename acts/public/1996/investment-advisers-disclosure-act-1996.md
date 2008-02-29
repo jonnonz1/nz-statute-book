@@ -1,5 +1,5 @@
 # Investment Advisers (Disclosure) Act 1996
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-02-29_
 
 > An Act to require the disclosure of certain information by persons who—aGive investment advice to the public; orbReceive money or property for investment from the public as intermediaries
 
