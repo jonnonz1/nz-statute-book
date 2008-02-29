@@ -1,5 +1,5 @@
 # Fair Trading Act 1986
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-02-29_
 
 > An Act to prohibit certain conduct and practices in trade, to provide for the disclosure of consumer information relating to the supply of goods and services and to promote product safety and also to repeal the Consumer Information Act 1969 and certain other enactments
 
@@ -82,10 +82,12 @@ This Act extends to the engaging in conduct outside New Zealand by any person re
 (2) Notwithstanding any enactment or rule of law, proceedings under Part 5 of this Act may be brought against a body corporate referred to in subsection (1) of this section.
 
 ### 5A No liability under Act if not liable under Securities Act 1978 or Securities Markets Act 1988
-[Repealed]
+A court hearing a proceeding brought against a person under this Act must not find that person liable for conduct—
+  (a) that is regulated by the Securities Act 1978 if that person would not be liable for that conduct under that Act:
+  (b) that is regulated by the Securities Markets Act 1988 if that person would not be liable for that conduct under that Act.
 
 ### 5B Act does not apply to certain conduct regulated by takeovers code
-[Repealed]
+Nothing in this Act applies to conduct in relation to any transaction or event regulated by the takeovers code that is in force under the Takeovers Act 1993 or incidental or preliminary to a transaction or event that is or is likely to be regulated by that code.
 
 ### 6 Functions of Commission in relation to dissemination of information
 In addition to the functions conferred on the Commission by this Act, the Commission shall—
