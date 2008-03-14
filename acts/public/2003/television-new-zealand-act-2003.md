@@ -1,5 +1,5 @@
 # Television New Zealand Act 2003
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-03-14_
 
 ### 1 Title
 This Act is the Television New Zealand Act 2003.
