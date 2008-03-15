@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2007-08-29_
+_Consolidation as at 2008-03-15_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -20,7 +20,7 @@ This Act is the Building Act 2004.
   (f) Part 5 (except sections 414 and 415, 429 to 448, and 450):
   (g) Schedule 3.
 (2) The rest of this Act comes into force on 31 March 2005 (except sections 45(1)(e) and 45(2) to 45(4) and 84 to 89).
-(3) Sections 45(1)(e) and 45(2) to 45(4) and 84 to 89 come into force on 30 November 2009.
+(3) Sections 45(1)(e) and 45(2) to 45(4) and 84 to 89 come into force on 30 November 2010.
 
 **Purpose and principles**
 
@@ -54,7 +54,7 @@ The purpose of this Act is to provide for the regulation of building work, the e
     (i) household units (whether on the same land or on other property); and
     (ii) other property:
   (j) the need to provide for the protection of other property from physical damage resulting from the construction, use, and demolition of a building:
-  (k) the need to provide, both to and within buildings to which section 118 applies, facilities that ensure that reasonable and adequate provision is made for people with disabilities to enter and carry out normal activities and processes in a building:
+  (k) the need to provide, both to and within buildings to which section 118 applies, facilities that ensure that reasonable and adequate provision is made for persons with disabilities to enter and carry out normal activities and processes in a building:
   (l) the need to facilitate the preservation of buildings of significant cultural, historical, or heritage value:
   (m) the need to facilitate the efficient use of energy and energy conservation and the use of renewable sources of energy in buildings:
   (n) the need to facilitate the efficient and sustainable use in buildings of—
@@ -144,13 +144,14 @@ In this Act, unless the context otherwise requires,—
   - **code compliance certificate** means a certificate issued by a building consent authority under section 95
   - **compliance document** has the meaning given to it by section 22
   - **compliance schedule** means a compliance schedule required under section 100
+  - **consideration** , in relation to estimated value, has the meaning given to it in section 2(1) of the Goods and Service Tax Act 1985
   - **construct** , in relation to a building, includes to design, build, erect, prefabricate, and relocate the building
   - **Crown organisation** has the meaning given to it by section 4 of the Crown Organisations (Criminal Liability) Act 2002
   - **dam** —
     (a) means an artificial barrier, and its appurtenant structures, that—
       (i) is constructed to hold back water or other fluid under constant pressure so as to form a reservoir; and
       (ii) is used for the storage, control, or diversion of water or other fluid; and
-      (iii) retains 3 or more metres depth, and holds 20 000 or more cubic metres volume, of water or other fluid; and
+      (iii)
     (b) includes—
       (i) a flood control dam; and
       (ii) a natural feature that has been significantly modified to function as a dam; and
@@ -167,7 +168,7 @@ In this Act, unless the context otherwise requires,—
     (b) prescribed electrical work
   - **energy work certificate** means a certificate of the kind referred to in section 19(1)(e)
   - **enforcement officer** means an officer of a territorial authority who is authorised, under section 229, to issue infringement notices under section 372
-  - **estimated value** , in relation to building work, means the estimated aggregate of the values, determined in accordance with section 10 of the Goods and Services Tax Act 1985, of all goods and services to be supplied for the building work
+  - **estimated value** , in relation to building work, means the estimated aggregate of the consideration, determined in accordance with section 10 of the Goods and Services Tax Act 1985, of all goods and services to be supplied for the building work
   - **falsework** , in relation to building work or the maintenance of a building,—
     (a) means any temporary structure or framework used to support materials, equipment, or an assembly; and
     (b) includes steel tubes, adjustable steel props, proprietary frames, or other means used to support a permanent structure until it becomes self-supporting; but
@@ -189,6 +190,7 @@ In this Act, unless the context otherwise requires,—
       (ii) normal maintenance:
       (iii) activities undertaken in response to fire or any other reasonably foreseeable emergency; but
     (b) does not include any other maintenance and repairs or rebuilding
+  - **large dam** means a dam that retains 3 or more metres depth, and holds 20 000 or more cubic metres volume, of water or other fluid
   - **licensed building practitioner** means a building practitioner whose name is, for the time being, entered in the register established and maintained under section 298(1)
   - **means of escape from fire** , in relation to a building that has a floor area,—
     (a) means continuous unobstructed routes of travel from any part of the floor area of that building to a place of safety; and
@@ -217,7 +219,7 @@ In this Act, unless the context otherwise requires,—
       (ii) would be so entitled if the land were let to a tenant at a rack rent; and
     (b) includes—
       (i) the owner of the fee simple of the land; and
-      (ii) any person who has agreed in writing, whether conditionally or unconditionally, to purchase the land or any leasehold estate or interest in the land or to take a lease of the land and who is bound by the agreement because the agreement is still in force
+      (ii) for the purposes of sections 32, 44, 92, 96, and 97, any person who has agreed in writing, whether conditionally or unconditionally, to purchase the land or any leasehold estate or interest in the land, or to take a lease of the land, and who is bound by the agreement because the agreement is still in force
   - **performance criteria** , in relation to a building, means qualitative or quantitative criteria that the building is required to satisfy in performing its functional requirements
   - **person** includes—
     (a) the Crown; and
@@ -234,6 +236,7 @@ In this Act, unless the context otherwise requires,—
       (ii) the specified systems that the applicant for building consent considers will be required to be included in a compliance schedule required under section 100; and
       (iii) the proposed procedures for inspection and routine maintenance for the purposes of the compliance schedule for those specified systems
   - **prescribed electrical work** has the meaning given to it by section 2(1) of the Electricity Act 1992
+  - **prescribed fee** includes a fee calculated in accordance with a rate or method prescribed for this purpose in regulations made under this Act
   - **product certification accreditation body** means the person referred to in section 261(2)
   - **property** —
     (a) includes land, buildings, and goods; but
@@ -254,14 +257,11 @@ In this Act, unless the context otherwise requires,—
     (b) arranges for the household unit to be built; or
     (c) acquires the household unit from a person who built it or arranged for it to be built
   - **restricted building work** —
-    (a) means building work that—
-      (i) requires a building consent; and
-      (ii) relates to an element of a building that is critical to the integrity of the building and the health and safety of its occupants; and
-      (iii) is building work of a kind declared by the Governor-General by Order in Council to be a restricted building work for the purposes of this Act; and
-    (b) includes building work on—
-      (i) the building envelope of a building; or
-      (ii) the structural support of a building; and
-    (c) includes design work (relating to building work) that is design work of a kind declared by the Governor-General by Order in Council to be restricted building work for the purposes of this Act
+    (a) means building work that is—
+      (i) critical to the integrity of a building, for example, its envelope and structure; and
+      (ii) of a kind declared by the Governor-General by Order in Council to be building work that must be carried out or supervised by a licensed building practitioner who is licensed to carry out or supervise that work; and that Order in Council may relate, without limitation, to certain types or categories of buildings, or parts of buildings specified in the Order in Council; and
+    (b) includes design work (relating to building work) that is design work of a kind declared by the Governor-General by Order in Council to be restricted building work for the purposes of this Act; and
+    (c) does not include any building work for which, in accordance with section 41, a building consent is not required
   - **rules** means any rules made under section 353
   - **scaffolding used in the course of the construction process** —
     (a) means a structure, framework, swinging stage, suspended scaffolding, or boatswain's chair, that is of a temporary nature and that is used or intended to be used for—
@@ -326,6 +326,7 @@ In this Act, building does not include—
     (i) is external to the building; and
     (ii) is connected to, or is intended to be connected to, the building to provide for the successful functioning of the NUO system in accordance with the system's intended design and purpose; and
     (iii) is not a mast pole or a telecommunication aerial that is on, or forms part of, a building; or
+  (ab) a pylon, free-standing communication tower, power pole, or telephone pole that is a NUO system or part of a NUO system; or
   (b) cranes (including any cranes as defined in regulations made under the Health and Safety in Employment Act 1992); or
   (c) any of the following, whether or not incorporated within another structure:
     (i) ski tows:
@@ -427,8 +428,8 @@ Under this Act, a regional authority—
   (b) the building consent authority and territorial authority are responsible for performing functions under this Act relating to the parts of the building that are not a dam.
 (3) For the purposes of subsection (1),—
   (a) sections 31 to 39 apply (with all necessary modifications) as if every reference in them to a building consent authority or territorial authority included a reference to a regional authority; and
-  (b) sections 40 to 116, 220 to 232, and 276 to 281 apply (with all necessary modifications) as if every reference in them to a building consent authority or territorial authority were a reference to a regional authority.
-(4) For the purposes of subsection (2), sections 31 to 116, 220 to 232, and 276 to 281 apply (with all necessary modifications) as if every reference in them to a building consent authority or territorial authority included a reference to a regional authority.
+  (b) sections 40 to 116 (except section 114(2)(c)), 216 to 218, 220 to 232, 276 to 281, 363A, and 374 apply (with all necessary modifications) as if every reference in them to a building consent authority or territorial authority were a reference to a regional authority.
+(4) For the purposes of subsection (2), sections 31 to 116 (except section 114(2)(c)), 216 to 218, 220 to 232, 276 to 281, 363A, and 374 apply (with all necessary modifications) as if every reference in them to a building consent authority or territorial authority included a reference to a regional authority.
 (5) The building consent authority and territorial authority must do everything reasonably practicable to liaise with the regional authority in performing functions or duties, or exercising powers, in relation to a building that includes a dam.
 
 ## Part 2 — Building
@@ -530,14 +531,8 @@ A person may comply with a compliance document in order to comply with the provi
   (c) promptly after a compliance document is amended, there are publicly available on the Ministry's website—
     (i) a digital copy of the amendment; and
     (ii) a digital copy of the document in its up-to-date form.
-(2) The digital copy in its original form of a compliance document that has been amended—
-  (a) must indicate that it has been amended; and
-  (b) must give references, or provide links, to digital copies of all amendments; and
-  (c) must give a reference, or provide a link, to the digital copy of the document in its up-to-date form.
-(3) The digital copy in its original form of a compliance document that has been revoked—
-  (a) must indicate that it has been revoked; and
-  (b) must state when it was revoked; and
-  (c) if it has been replaced by another compliance document, must give a reference, or provide a link, to a digital copy of the replacement document in its up-to-date form.
+(2)
+(3)
 (4) The digital copies must be available free of charge.
 
 **Warnings and bans**
@@ -672,7 +667,10 @@ An owner may apply to a territorial authority for a project information memorand
   (g) either—
     (i) confirmation, subject to this Act, that building work may be carried out subject to the requirements of a building consent and subject also to all other necessary authorisations being obtained; or
     (ii) notification that building work may not be carried out because any necessary authorisation has been refused, despite the issue of any building consent; and
-  (h) if section 75 applies, the statement referred to in section 75(2).
+  (h) if section 75 applies, the statement referred to in section 75(2); and
+  (i) if the building is one that is intended to be used for, or associated with, 1 or more of the purposes specified in Schedule 2, a statement that the building must comply with—
+    (i) section 118 (relating to access and facilities for persons with disabilities to and within buildings); and
+    (ii) the provisions of the building code that relate to providing for persons with disabilities to have access to buildings and to facilities within buildings.
 (2) In this section,—
   - **land concerned** —
     (a) means the land on which the proposed building work is to be carried out; and
@@ -757,13 +755,14 @@ If a project information memorandum contains information previously supplied to 
       (A) altered in the course of the building work:
       (B) added to the building in the course of the building work:
       (C) removed from the building in the course of the building work.
-(2) If an application for a building consent relates to restricted building work, any plans and specifications referred to in subsection (1) that accompany the application must—
+(2) If an application for a building consent relates to design work (relating to building work) that is design work of a kind declared by the Governor-General by Order in Council to be restricted building work for the purposes of this Act, any plans and specifications referred to in subsection (1) that accompany the application must—
   (a) be prepared by, or under the supervision of, 1 or more licensed building practitioners; and
-  (b) be certified by 1 or more licensed building practitioners.
-(3) For the purposes of subsection (2), the licensed building practitioners concerned must be licensed building practitioners—
-  (a) whose licences authorise them to certify the plans and specifications; and
-  (b) who, between them, certified the plans and specifications.
-(4) The certification under subsection (2)(b) must state, if the restricted building work was to be properly completed in accordance with the plans and specifications that accompanied the application,—
+  (b) be the subject of a memorandum—
+    (i) prepared by 1 or more licensed building practitioners who carried out or supervised the restricted building work; and
+    (ii) that identifies that work; and
+    (iii) that is provided with the plans and specifications.
+(3)
+(4) The memorandum under subsection (2)(b) must state, if the restricted building work was to be properly completed in accordance with the plans and specifications that accompanied the application,—
   (a) that the restricted building work will comply with the building code; or
   (b) whether waivers or modifications are required to the building code and, if so, what those waivers or modifications are.
 (5) An application for an amendment to a building consent must be made as if it were an application for a building consent, and this section applies with any necessary modifications.
@@ -933,7 +932,7 @@ If a territorial authority grants a building consent subject to a waiver or modi
 ### 69 Waiver or modification may only be granted by chief executive in certain cases
 (1) This section applies to a waiver or modification of the building code that relates to—
   (a) an existing building to which section 118 applies; and
-  (b) access and facilities for use by people with disabilities.
+  (b) access and facilities for use by persons with disabilities.
 (2) If this section applies, the chief executive may grant a waiver or modification only in a determination issued under subpart 1 of Part 3.
 (3) This section does not apply to a waiver or modification of the building code that relates to a new building.
 
@@ -971,13 +970,13 @@ If a territorial authority grants a building consent subject to a waiver or modi
   (e) slippage.
 
 ### 72 Building consent for building on land subject to natural hazards must be granted in certain cases
-Despite section 71, a building consent authority must grant a building consent if the building consent authority considers that—
+Despite section 71, a building consent authority that is a territorial authority must grant a building consent if the building consent authority considers that—
   (a) the building work to which an application for a building consent relates will not accelerate, worsen, or result in a natural hazard on the land on which the building work is to be carried out or any other property; and
   (b) the land is subject or is likely to be subject to 1 or more natural hazards; and
   (c) it is reasonable to grant a waiver or modification of the building code in respect of the natural hazard concerned.
 
 ### 73 Conditions on building consents granted under section 72
-(1) A building consent authority that grants a building consent under section 72 must include, as a condition of the consent, that the building consent authority will, on issuing the consent, notify the consent to,—
+(1) A building consent authority that is a territorial authority that grants a building consent under section 72 must include, as a condition of the consent, that the building consent authority will, on issuing the consent, notify the consent to,—
   (a) in the case of an application made by, or on behalf of, the Crown, the appropriate Minister and the Surveyor-General; and
   (b) in the case of an application made by, or on behalf of, the owners of Maori land, the Registrar of the Maori Land Court; and
   (c) in any other case, the Registrar-General of Land.
@@ -1077,13 +1076,13 @@ If an entry referred to in section 78(1) is recorded on the certificates of titl
 **Restricted building work must be carried out or supervised by licensed building practitioners**
 
 ### 84 Licensed building practitioner must carry out or supervise restricted building work
-All restricted building work must be carried out or supervised by a licensed building practitioner whose licence authorises him or her to carry out or supervise the work.
+All restricted building work must be carried out or supervised by a licensed building practitioner who is licensed to carry out or supervise the work.
 
 ### 85 Offences relating to carrying out or supervising restricted building work
-(1) A person who is not a licensed building practitioner commits an offence if he or she carries out restricted building work while not supervised by a licensed building practitioner whose licence authorises the practitioner to carry out or supervise the carrying out of restricted building work of that kind.
+(1) A person who is not a licensed building practitioner commits an offence if he or she carries out restricted building work while not supervised by a licensed building practitioner who is licensed to carry out or supervise the carrying out of restricted building work of that kind.
 (1A) A licensed building practitioner commits an offence if he or she—
-  (a) carries out restricted building work of a kind that his or her licence does not authorise him or her to carry out or supervise the carrying out of; or
-  (b) supervises the carrying out of restricted building work of a kind that his or her licence does not authorise him or her to carry out or supervise the carrying out of.
+  (a) carries out restricted building work of a kind that he or she is not licensed to carry out or supervise the carrying out of; or
+  (b) supervises the carrying out of restricted building work of a kind that he or she is not licensed to carry out or supervise the carrying out of.
 (2) A person who commits an offence under this section is liable to a fine not exceeding $20,000.
 
 ### 86 Offence to engage another person to carry out or supervise restricted building work if person is not licensed building practitioner
@@ -1091,7 +1090,7 @@ All restricted building work must be carried out or supervised by a licensed bui
   (a) engages another person to carry out or supervise restricted building work; and
   (b) knows that the other person is not—
     (i) a licensed building practitioner; or
-    (ii) a licensed building practitioner whose licence authorises him or her to carry out or supervise the restricted building work.
+    (ii) a licensed building practitioner who is licensed to carry out or supervise the restricted building work.
 (2) A person who commits an offence under this section is liable to a fine not exceeding $20,000.
 
 ### 87 Owner must notify names of licensed building practitioners engaged in restricted building work
@@ -1106,17 +1105,17 @@ All restricted building work must be carried out or supervised by a licensed bui
   (b) be given as soon as practicable; and
   (c) name the other licensed building practitioner concerned (if any).
 
-### 88 Licensed building practitioner to certify restricted building work
-(1) Each licensed building practitioner who carries out or supervises restricted building work under a building consent must, on completion of the restricted building work, give to the persons specified in subsection (2) a certificate, in the prescribed form, stating that—
-  (a) the restricted building work complies with the building consent; and
-  (b) if applicable, any specified systems in the building to which the restricted building work relates are capable of performing to the performance standards set out in the compliance schedule attached to the building consent.
+### 88 Licensed building practitioner to certify or provide memorandum about restricted building work
+(1) Each licensed building practitioner who carries out or supervises restricted building work under a building consent must, on completion of the restricted building work,—
+  (a) provide the persons specified in subsection (2) with a memorandum, in the prescribed form, stating what restricted building work the licensed building practitioner carried out or supervised; and
+  (b) if applicable, give to the persons specified in subsection (2) a certificate, in the prescribed form, stating that any specified systems in the building to which the restricted building work relates are capable of performing to the performance standards set out in the building consent.
 (2) The persons are—
   (a) the owner; and
   (b) the territorial authority for the district in which the restricted building work is situated.
 (3) A licensed building practitioner who carries out or supervises restricted building work that relates only to part of a specified system may give a certificate under subsection (1) that is qualified to the effect that the restricted building work on the other parts of the specified system must meet the requirements in subsection (1)(a) and (b).
-(4) A certificate given under subsection (1) does not, of itself,—
-  (a) create any liability in relation to any matter to which the certificate relates; or
-  (b) give rise to any civil liability to the owner that would not otherwise exist if the licensed building practitioner was not required to provide the certificate.
+(4) A memorandum provided or certificate given under subsection (1) does not, of itself,—
+  (a) create any liability in relation to any matter to which the memorandum or certificate relates; or
+  (b) give rise to any civil liability to the owner that would not otherwise exist if the licensed building practitioner was not required to provide the memorandum or certificate.
 (5) Subsection (4) does not limit section 397(c).
 
 **Other provisions relating to building work generally**
@@ -1160,6 +1159,7 @@ All restricted building work must be carried out or supervised by a licensed bui
   (c) either—
     (i) to the building consent authority that granted the building consent for the building work; or
     (ii) if section 91(2) applies, to the building consent authority that it is proposed will issue the code compliance certificate.
+(2A) If applicable, the owner must include with the application any memoranda provided by licensed building practitioners under section 88(1)(a).
 (3) If applicable, the owner must include with the application all certificates issued by licensed building practitioners under section 88 that state, when those certificates are considered together, that—
   (a) in a case where a compliance schedule is required as a result of restricted building work, the specified systems in the building are capable of performing to the performance standards set out in the building consent; or
   (b) in a case where an amendment to an existing compliance schedule is required as a result of the building work, the specified systems that are being altered in, or added to, the building in the course of the restricted building work are capable of performing to the performance standards set out in the building consent.
@@ -1195,6 +1195,11 @@ A code compliance certificate must be issued—
   (a) by a building consent authority; and
   (b) in the prescribed form; and
   (c) on payment of any charge fixed by the building consent authority.
+
+### 95A Refusal to issue code compliance certificate
+If a building consent authority refuses to issue a code compliance certificate, the building consent authority must give the applicant written notice of—
+  (a) the refusal; and
+  (b) the reasons for the refusal.
 
 **Certificates of acceptance**
 
@@ -1246,6 +1251,11 @@ An application for a certificate of acceptance must—
 (2) A certificate of acceptance may, if a territorial authority inspected the building work, be qualified to the effect that only parts of the building work were able to be inspected.
 (3) A territorial authority's liability for the issue of a certificate of acceptance is limited to the same extent that the territorial authority was able to inspect the building work in question.
 
+### 99A Refusal of application for certificate of acceptance
+If a territorial authority refuses to grant an application for a certificate of acceptance, the territorial authority must give the applicant written notice of—
+  (a) the refusal; and
+  (b) the reasons for the refusal.
+
 **Compliance schedules**
 
 ### 100 Requirement for compliance schedule
@@ -1276,7 +1286,7 @@ An application for a certificate of acceptance must—
 (1) A compliance schedule must state—
   (a) the specified systems that are covered by the compliance schedule; and
   (b) the performance standards for the specified systems; and
-  (c) the inspection, maintenance, and reporting procedures to be followed by licensed building practitioners in respect of the specified systems to ensure that those systems are capable of, and are, performing to the performance standards; and
+  (c) the inspection, maintenance, and reporting procedures to be followed by licensed building practitioners or other persons in respect of the specified systems to ensure that those systems are capable of, and are, performing to the performance standards; and
   (d) if applicable, the specified systems that relate to—
     (i) means of escape from fire; and
     (ii) safety barriers; and
@@ -1292,6 +1302,9 @@ An application for a certificate of acceptance must—
 
 ### 104 Building consent authority must notify territorial authority of issue of compliance schedule
 If a building consent authority issues a compliance schedule under section 102, the building consent authority must, within 5 working days after issuing the compliance schedule, provide a copy of it to the territorial authority in whose district the building is situated.
+
+### 104A Territorial authority must issue statement in relation to compliance schedule
+A territorial authority that receives a copy under section 104 of a compliance schedule must, within 5 working days after receiving the compliance schedule, provide the owner of the building for which the compliance schedule was issued with the statement in relation to the compliance schedule described in section 105(e).
 
 ### 105 Obligations of owner if compliance schedule is issued
 An owner of a building for which a compliance schedule has been issued must ensure—
@@ -1347,6 +1360,7 @@ An owner of a building for which a compliance schedule has been issued must ensu
   (f) contain the prescribed information.
 (4) The owner must publicly display a copy of the building warrant of fitness in a place in the building to which users of the building have ready access.
 (5) A person commits an offence if the person—
+  (aa) fails to supply to the territorial authority the building warrant of fitness in accordance with subsection (1); or
   (a) fails to display a building warrant of fitness that is required to be displayed under this section; or
   (b) displays a false or misleading building warrant of fitness; or
   (c) displays a building warrant of fitness otherwise than in accordance with this section.
@@ -1364,7 +1378,7 @@ A territorial authority must, in relation to a recommendation made by a licensed
 
 ### 110 Owner must obtain reports on compliance schedule
 An owner of a building for which a compliance schedule has been issued must—
-  (a) obtain annual written reports relating to the inspection, maintenance, and reporting procedures of the compliance schedule signed by each licensed building practitioner who carried out 1 or more of those procedures; and
+  (a) obtain annual written reports relating to the inspection, maintenance, and reporting procedures of the compliance schedule signed by each licensed building practitioner or other person who carried out 1 or more of those procedures; and
   (b) keep those reports, together with the compliance schedule, for a period of 2 years; and
   (c) produce those reports for inspection, when required, by—
     (i) the territorial authority; and
@@ -1396,7 +1410,7 @@ An owner of a building for which a compliance schedule has been issued must—
   (c) the improvements referred to in paragraph (b) outweigh any detriment that is likely to arise as a result of the building not complying with the relevant provisions of the building code.
 
 ### 113 Buildings with specified intended lives
-(1) This section applies if a proposed building, or an existing building proposed to be altered, is intended to have a life of 50 years or less.
+(1) This section applies if a proposed building, or an existing building proposed to be altered, is intended to have a life of less than 50 years.
 (2) A territorial authority may grant a building consent only if the consent is subject to—
   (a) the condition that the building must be altered, removed, or demolished on or before the end of the specified intended life; and
   (b) any other conditions that the territorial authority considers necessary.
@@ -1474,8 +1488,8 @@ In sections 118 to 120, unless the context otherwise requires, building includes
   (b) decide not to make a recommendation.
 (5) In this section, Standards Council means the Standards Council continued in existence under section 3 of the Standards Act 1988.
 
-### 120 Access symbol must be displayed
-If any provision required by section 118 is made at a building in compliance with that section, a notice or sign that indicates in accordance with the international access symbol that provision is made for the needs of persons with disabilities must be displayed outside the building or so as to be visible from outside it.
+### 120 Symbols of access must be displayed
+If any provision required by section 118 is made at a building in compliance with that section, a notice or sign that indicates in accordance with the international symbols of access that provision is made for the needs of persons with disabilities must be displayed outside the building or so as to be visible from outside it.
 
 ### Subpart 6 — Special provisions for certain categories of buildings
 
@@ -1606,6 +1620,12 @@ This subpart does not apply to—
 
 ### Subpart 7 — Safety of dams
 
+**Dams to which provisions of this subpart apply**
+
+### 133A Dams to which subpart 7 provisions apply
+(1) Sections 157 to 159 apply to all dams.
+(2) The other provisions in this subpart apply only to large dams.
+
 **Classification of dams**
 
 ### 134 Owner must classify dam
@@ -1732,9 +1752,11 @@ Despite sections 140 to 143,—
   (b) in the case of a dam that has been classified as a medium potential impact dam,—
     (i) within 10 years after the date on which the regional authority approves, or is deemed to approve, the dam safety assurance programme; and
     (ii) after the first review, at intervals of not more than 5 years.
-(2) The owner must also review the dam safety assurance programme if, at any time,—
-  (a) building work that requires a building consent is carried out on the dam; and
-  (b) the building work results, or could result, in a change to the potential impact of the dam on persons, property, or the environment.
+(2) The owner must also review the dam safety assurance programme—
+  (a) if, at any time,—
+    (i) building work that requires a building consent is carried out on the dam; and
+    (ii) the building work results, or could result, in a change to the potential impact of the dam on persons, property, or the environment; or
+  (b) when requested by the regional authority to do so, if the dam is an earthquake-prone dam or a flood-prone dam.
 (3) Sections 142 and 143 apply, with all necessary modifications, to a reviewed dam safety assurance programme.
 
 ### 147 Requirements of sections 140 to 142 relate to amendments to dam safety assurance programme
@@ -1788,6 +1810,9 @@ An owner of a dam for which a dam safety assurance programme has been approved, 
   (c) displays a dam compliance certificate otherwise than in accordance with this section.
 (5) A person who commits an offence under this section is liable to a fine not exceeding $5,000.
 
+### 150A Annual dam compliance certificate requirements not to apply to accredited dam owner
+Section 150 does not apply to an accredited dam owner.
+
 ### 151 Register of dams
 Each regional authority must establish and maintain a register of dams in its district.
 
@@ -1799,11 +1824,19 @@ Each regional authority and each owner of a dam must provide information to the 
 ### 153 Meaning of dangerous dam
 A dam is dangerous for the purposes of this Act if the dam—
   (a) is a high potential impact dam or a medium potential impact dam; and
-  (b) is likely to collapse—
+  (b) is likely to fail—
     (i) in the ordinary course of events; or
     (ii) in a moderate earthquake (as defined in the regulations); or
-    (iii) in a moderate flood (as defined in the regulations); or
-  (c) is a leaky dam.
+    (iii) in a moderate flood (as defined in the regulations).
+  (c)
+
+### 153A Meaning of earthquake-prone dam and flood-prone dam
+(1) A dam is an earthquake-prone dam for the purposes of this Act if the dam—
+  (a) is a high potential impact dam or a medium potential impact dam; and
+  (b) is likely to fail in an earthquake threshold event (as defined in the regulations).
+(2) A dam is a flood-prone dam for the purposes of this Act if the dam—
+  (a) is a high potential impact dam or a medium potential impact dam; and
+  (b) is likely to fail in a flood threshold event (as defined in the regulations).
 
 ### 154 Powers of regional authorities in respect of dangerous dams
 (1) If a regional authority is satisfied that a dam is dangerous, the regional authority may—
@@ -1866,8 +1899,8 @@ The provisions of sections 154 to 159 are in addition to, and do not limit, the 
 
 **Policy on dangerous dams**
 
-### 161 Regional authority must adopt policy on dangerous dams
-(1) A regional authority must, within 18 months after the commencement of this Part, adopt a policy on dangerous dams within its district.
+### 161 Regional authority must adopt policy on dangerous dams, earthquake-prone dams, and flood-prone dams
+(1) A regional authority must, within 18 months after the commencement of this Part, adopt a policy on dangerous dams , earthquake-prone dams, and flood-prone dams within its region.
 (2) The policy must state—
   (a) the approach that the regional authority will take in performing its functions under this Part; and
   (b) the regional authority's priorities in performing those functions; and
@@ -1915,15 +1948,15 @@ In this subpart, unless the context otherwise requires,—
   (c) if it relates to building work that is being or has been carried out without a building consent, it may require the making of an application for a certificate of acceptance for the work:
   (d) if it requires building work to be carried out, it may require the making of an application for a building consent, or for an amendment to an existing building consent, for the work:
   (e) if it requires building work to be carried out, it must require the territorial authority, the regional authority, or both to be contacted when the work is completed:
-  (f) if it relates to building work, it may direct that all or any building work cease immediately until the responsible authority is satisfied that the person carrying it out is able and willing to resume operations in compliance with this Act and the regulations.
+  (f) if it relates to building work, it may direct that the site be made safe immediately and that all or any building work cease immediately (except any building work necessary to make the site safe) until the responsible authority is satisfied that the person carrying out the work is able and willing to resume operations in compliance with this Act and the regulations.
 (2) Nothing in subsection (1) limits or affects the generality of section 164.
 
 ### 166 Special provisions for notices to fix from building consent authority
-(1) If section 164 applies because a building consent authority that is not a territorial authority or a regional authority that granted a building consent for building work considers that the building work has not been, or is not being, carried out in accordance with this Act or the building consent, a notice to fix applies only—
+(1) If section 164 applies because a building consent authority that granted a building consent for building work considers that the building work has not been, or is not being, carried out in accordance with this Act or the building consent, a notice to fix applies only—
   (a) to building work required during the period in which a building consent is operative; or
   (b) in respect of building work for which a building consent should have been obtained; or
   (c) in respect of building work for which a building consent was not required but where there was a requirement that the work meet the building code.
-(2) A building consent authority that is not a territorial authority that issues a notice to fix must, within 5 working days after issuing it, give a copy of it to—
+(2) A building consent authority that is not a territorial authority or a regional authority that issues a notice to fix must, within 5 working days after issuing it, give a copy of it to—
   (a) the territorial authority; or
   (b) if the territorial authority has transferred, under section 233, any of its functions, duties, or powers under this Act to another territorial authority, the territorial authority to whom the functions, duties, or powers have been transferred.
 
@@ -2048,12 +2081,13 @@ A party may apply to the chief executive for a determination in relation to 1 or
   (c) a territorial authority's decision to—
     (i) grant or refuse a waiver or modification of the building code under section 67; or
     (ii) issue, or refuse to issue, a certificate of acceptance under section 96; or
+    (iia) grant or refuse an exemption from building consent requirements under paragraph (k) of Schedule 1; or
     (iii) amend a compliance schedule under section 106 or section 107; or
     (iiia) issue or refuse to issue a certificate for public use under section 363A; or
     (iv) issue, amend, or impose a condition on a notice to fix:
   (d) the exercise by a territorial authority of its powers under sections 112 and 115 to 116 (which relate to alterations to, or changes in the use of, a building) and the issue by a territorial authority of a certificate under section 224(f) of the Resource Management Act 1991:
   (e) the exercise by a territorial authority of its powers under section 124 or section 129 (which relate to dangerous, earthquake-prone, and insanitary buildings) or the failure to exercise those powers:
-  (f) the exercise by a regional authority of its powers under subpart 5 of Part 2 in relation to a dam or the failure to exercise those powers.
+  (f) the exercise by a regional authority of its powers in relation to a dam or the failure to exercise those powers.
 
 ### 178 Requirements for application for determination
 (1) An application for a determination must—
@@ -2170,7 +2204,7 @@ The chief executive may, within 20 working days after making a determination, am
 (3) A party in whose favour a direction under subsection (2) is given may enforce that direction by filing it in the prescribed form (if any) in a District Court.
 (4) A direction that is filed in the District Court under subsection (3) is enforceable as a judgment of the District Court in its civil jurisdiction.
 
-**Power of chief executive to register persons as building consent authorities or regional authorities for purposes of this Act**
+**Power of chief executive to register persons as building consent authorities for purposes of this Act**
 
 ### 191 Chief executive may enter person's name in register of building consent authorities
 The chief executive may, on the application of a person made in accordance with section 194, enter the person's name in the register of building consent authorities kept under section 273(1)(a).
@@ -2219,9 +2253,9 @@ The chief executive must, as soon as practicable after receiving an application 
 (4) If subsection (3) applies, sections 277 to 281 apply with all necessary modifications.
 
 ### 198 Effect of suspension
-(1) An authority is not registered, for the purposes of this Part and Part 2, for the period for which the authority's registration is suspended under section 197(2).
+(1) A building consent authority is not registered, for the purposes of this Part and Part 2, for the period for which the authority's registration is suspended under section 197(2).
 (2) At the end of the period of suspension, the authority's registration is immediately revived (unless there is some other ground to suspend or revoke that authority's registration).
-(3) Despite subsection (1), the chief executive may authorise an authority to perform limited functions as a building consent authority during the period of suspension if the chief executive is satisfied that doing so is necessary in the public interest (for example, to enable code compliance certificates to be issued by the person in respect of building consents that were granted before the date of suspension).
+(3) Despite subsection (1), the chief executive may authorise a building consent authority to perform limited functions as a building consent authority during the period of suspension if the chief executive is satisfied that doing so is necessary in the public interest (for example, to enable code compliance certificates to be issued by the authority in respect of building consents that were granted before the date of suspension).
 (4) An authority given under subsection (3) may—
   (a) be subject to any conditions that the chief executive thinks fit; and
   (b) be revoked by the chief executive at any time.
@@ -2333,14 +2367,14 @@ An authorised person supplied with a warrant under section 206—
 (1) The persons referred to in subsection (2) may appeal to a District Court against—
   (a) a determination by the chief executive under section 188; or
   (b) the chief executive's decision to—
-    (i) decline to register the person as a building consent authority or, as the case may be, a regional authority; or
+    (i) decline to register the person as a building consent authority; or
     (ii) take any action referred to in section 203.
 (2) The persons are,—
   (a) in the case of an appeal under subsection (1)(a),—
     (i) the applicant for the determination; or
     (ii) any other party; or
   (b) in the case of an appeal under subsection (1)(b)(i), the applicant for registration; or
-  (c) in the case of an appeal under subsection (1)(b)(ii), the building consent authority or, as the case may be, the regional authority concerned.
+  (c) in the case of an appeal under subsection (1)(b)(ii), the building consent authority concerned.
 
 ### 209 Procedure for commencing appeal
 (1) An appeal under section 208 must be made—
@@ -2418,6 +2452,7 @@ A territorial authority must, for the purpose of ensuring that it complies with 
     (ii) building consents:
     (iii) if applicable, the specified intended life of the building:
     (iv) code compliance certificates:
+    (iva) memoranda provided by licensed building practitioners under section 45(2) or 88(1)(a):
     (v) compliance schedules:
     (vi) building warrants of fitness:
     (vii) energy work certificates relating to building work:
@@ -2603,7 +2638,7 @@ A territorial authority from whom functions, duties, or powers are to be transfe
   (b) may, unless the agreement in respect of the transfer provides otherwise, cancel, at any time, the transfer in accordance with that agreement.
 (2) A territorial authority from whom a function, duty, or power is transferred may, at any time, change or revoke the transfer by written notice to the other territorial authority concerned.
 
-### Subpart 3 — Responsibilities of building consent authority that is not territorial authority
+### Subpart 3 — Responsibilities of building consent authority that is not territorial authority or regional authority
 
 ### 237 Application of subpart
 This subpart applies to a building consent authority that—
@@ -2719,10 +2754,15 @@ The chief executive must, by notice in the Gazette, specify—
   (a) the minimum frequency of audits that the building consent accreditation body must conduct on accredited building consent authorities (which must be at least once every 3 years); and
   (b) any other matters the chief executive considers necessary or appropriate.
 
+**Audit fees**
+
+### 249A Fees for audits
+A building consent accreditation body may charge an accredited building consent authority the prescribed fee (if any) for an audit conducted under section 249(a) by the building consent accreditation body on the building consent authority.
+
 **Accreditation of building consent authorities or regional authorities**
 
 ### 250 Accreditation
-The building consent accreditation body may, on the application of a person made in accordance with section 253, accredit that person to perform the functions of a building consent authority under this Part and Part 2.
+The building consent accreditation body may, on the application of a person made in accordance with section 253, and on payment by the person of the prescribed fee (if any), accredit that person to perform the functions of a building consent authority under this Part and Part 2.
 
 ### 251 Criteria for accreditation
 Before granting accreditation, the building consent accreditation body must be satisfied that the applicant meets the prescribed criteria and standards for accreditation.
@@ -2737,8 +2777,8 @@ Before granting accreditation, the building consent accreditation body must be s
 An application for accreditation under section 250 must—
   (a) be made in writing; and
   (b) be given in the prescribed manner (if any); and
-  (c) contain the prescribed information (if any); and
-  (d) be accompanied by the prescribed fee (if any).
+  (c) contain the prescribed information (if any).
+  (d)
 
 ### 254 Revocation of accreditation
 (1) An accreditation under section 250 may be revoked, or the scope of accreditation may be amended, by—
@@ -2777,16 +2817,21 @@ The chief executive must, by notice in the Gazette, specify—
   (a) the minimum frequency of audits that the dam owner accreditation body must conduct on accredited dam owners; and
   (b) any other matters that the chief executive considers necessary or appropriate.
 
+**Audit fees**
+
+### 257A Fees for audits
+A dam owner accreditation body may charge an accredited dam owner the prescribed fee (if any) for an audit conducted under section 257(a) by the dam owner accreditation body on the accredited dam owner.
+
 **Accreditation of dam owners**
 
 ### 258 Accreditation
-(1) The dam owner accreditation body may, on the application of an owner of a dam made in accordance with subsection (3), accredit that person under this subpart.
+(1) The dam owner accreditation body may, on the application of an owner of a dam made in accordance with subsection (3), and on payment by the person of the prescribed fee (if any), accredit that person under this subpart.
 (2) Before granting accreditation, the dam owner accreditation body must be satisfied that the applicant meets the prescribed criteria and standards.
 (3) An application for accreditation under subsection (1) must—
   (a) be made in writing; and
   (b) be given in the prescribed manner (if any); and
-  (c) contain the prescribed information (if any); and
-  (d) be accompanied by the prescribed fee (if any).
+  (c) contain the prescribed information (if any).
+  (d)
 
 ### 259 Revocation of accreditation
 (1) An accreditation under section 258(1) may be revoked by—
@@ -2830,10 +2875,15 @@ The chief executive must, by notice in the Gazette, specify—
 (2) The chief executive may, by notice in the Gazette, specify certifications of building methods or products provided by persons outside New Zealand that are to be treated as product certifications for the purposes of this subpart.
 (3) Subsection (2) applies only if the chief executive is satisfied that the building methods and products concerned meet the prescribed criteria and standards for certification.
 
+**Audit fees**
+
+### 262A Fees for audits
+A product certification accreditation body may charge an accredited product certification body the prescribed fee (if any) for an audit conducted under section 262(1)(a) by the product certification accreditation body on the accredited product certification body.
+
 **Accreditation of product certification bodies**
 
 ### 263 Accreditation
-The product certification accreditation body may, on the application of a person or body made in accordance with section 265, accredit that person or body to perform the functions of a product certification body under this subpart.
+The product certification accreditation body may, on the application of a person or body made in accordance with section 265, and on payment by the person or body of the prescribed fee (if any), accredit that person or body to perform the functions of a product certification body under this subpart.
 
 ### 264 Criteria for accreditation
 Before granting accreditation, the product certification accreditation body must be satisfied that the applicant—
@@ -2846,26 +2896,27 @@ Before granting accreditation, the product certification accreditation body must
 An application for accreditation under section 263 must—
   (a) be made in writing; and
   (b) be given in the prescribed manner (if any); and
-  (c) contain the prescribed information (if any); and
-  (d) be accompanied by the prescribed fee (if any).
+  (c) contain the prescribed information (if any).
+  (d)
 
-### 266 Revocation of accreditation
-(1) An accreditation under section 263 may be revoked by—
-  (a) the product certification accreditation body that granted the accreditation; or
-  (b) the chief executive.
-(2) An accreditation may be revoked only if the product certification accreditation body or the chief executive—
+### 266 Suspension or revocation of accreditation
+(1) A product certification accreditation body or the chief executive may, at any time, suspend or revoke the accreditation under section 263 of a product certification body, if the product certification accreditation body or chief executive—
   (a) is satisfied that the product certification body no longer meets the prescribed criteria and standards for accreditation; and
   (b) has first given the product certification body concerned a reasonable opportunity to be heard.
-(3) Despite subsection (2)(a), the product certification accreditation body or the chief executive must not revoke the accreditation of a product certification body if—
+(2) A product certification accreditation body that, or chief executive who, suspends the accreditation of a product certification body must—
+  (a) give the product certification body a reasonable period to meet the criteria and standards prescribed for accreditation; and
+  (b) lift the suspension if it or he or she is satisfied that the product certification body meets those standards and criteria within that period.
+(3) A product certification accreditation body or the chief executive may revoke the accreditation of a product certification body at the expiry of the period given in subsection (2), if the product certification body has not met the criteria and standards prescribed for accreditation within that period.
+(4) Despite subsections (1) and (3), the product certification accreditation body or the chief executive must not suspend or revoke the accreditation of a product certification body if—
   (a) the prescribed criteria and standards for accreditation are amended; and
   (b) the product certification body no longer meets those criteria and standards solely as a result of the amendments.
-(4) The limit in subsection (3) applies only during the period of 3 months after the date on which the amendments come into force.
+(5) The limit in subsection (4) applies only during the period of 3 months after the date on which the amendments come into force.
 
-### 267 Product certification accreditation body must notify chief executive of grant or revocation of accreditation
-(1) A product certification accreditation body must notify the chief executive when it grants or revokes an accreditation of a product certification body.
+### 267 Product certification accreditation body must notify chief executive of grant, suspension, lifting of suspension, or revocation of accreditation
+(1) A product certification accreditation body must notify the chief executive when it grants, suspends, lifts the suspension of, or revokes an accreditation of a product certification body.
 (2) The notification must be given—
   (a) in the manner notified by the chief executive to the product certification accreditation body from time to time; and
-  (b) within 7 days after the grant or revocation to which it relates.
+  (b) within 7 days after the grant, suspension, lifting of suspension, or revocation to which it relates.
 
 **Certification of building methods or products**
 
@@ -2884,26 +2935,26 @@ An application for accreditation under section 263 must—
 (4) A person commits an offence if the person fails to provide any information or matter that the product certification body requires under subsection (3).
 (5) A person who commits an offence under this section is liable to a fine not exceeding $5,000.
 
-### 271 Revocation of product certificate
-(1) A product certificate may, at any time, be revoked by—
-  (a) the product certification body that performed the certification; or
-  (b) the chief executive.
-(2) A product certificate may be revoked only if—
+### 271 Suspension or revocation of product certificate
+(1) A product certification body that performed the certification of a building method or product, or the chief executive, may, at any time, suspend or revoke that product certificate if the product certification body or chief executive has first given the proprietor of the building method or product a reasonable opportunity to be heard, and the product certification body or chief executive is satisfied that—
   (a) the certificate has been obtained by fraud, misrepresentation, or concealment of facts; or
   (b) the building method or product no longer meets the prescribed criteria and standards for certification (whether this becomes apparent as a result of an annual review of a product certificate under section 270 or otherwise); or
   (c) any certification, or similar authorisation issued or granted in respect of that building method or product, has been revoked or cancelled for any reason; or
   (d) the building code no longer applies to the building method or product because of an amendment to the code.
-(3) The product certification body or chief executive, as the case may be, may not revoke a product certificate unless the product certification body or chief executive has first given the proprietor of the building method or product a reasonable opportunity to be heard.
-(4) The product certification body or the chief executive must not revoke a product certificate if—
+(2) A product certification body that, or chief executive who, suspends a product certificate must—
+  (a) give the proprietor of the building method or product a reasonable period to rectify the matter that led to the suspension of the product certificate; and
+  (b) lift the suspension if it or he or she is satisfied that the product certification body has rectified the matter within that period.
+(3) A product certification body or the chief executive may revoke the product certificate at the expiry of the period given in subsection (2) if, within that period, the proprietor of the building method or product has not rectified the matter that led to the suspension of the product certificate.
+(4) Despite subsections (1) and (3), the product certification body or the chief executive must not suspend or revoke a product certificate if—
   (a) the prescribed criteria and standards for certification are amended; and
-  (b) the building method or product to which the product certificate relates no longer meets those criteria and standards solely as a result of the amendments.
+  (b) the building method or product to which the certificate relates no longer meets those criteria and standards solely as a result of the amendments.
 (5) The limit in subsection (4) applies only during the period of 3 months after the date on which the amendments come into force.
 
-### 272 Product certification body must notify chief executive of issue and revocation of certificate
-(1) A product certification body must notify the chief executive when it issues or revokes a certificate under this subpart.
+### 272 Product certification body must notify chief executive of issue, suspension, lifting of suspension, and revocation of certificate
+(1) A product certification body must notify the chief executive when it issues, suspends, lifts the suspension of, or revokes a certificate under this subpart.
 (2) The notification must be given—
   (a) in the manner notified from time to time by the chief executive to the product certification body; and
-  (b) within 7 days after the issue or revocation to which it relates.
+  (b) within 7 days after the issue, suspension, lifting of suspension, or revocation to which it relates.
 
 ### Subpart 8 — Miscellaneous responsibilities
 
@@ -3007,7 +3058,7 @@ In this Part, unless the context otherwise requires,—
     (a) in relation to an appeal against a decision of the Registrar under section 330(1), means the Board; and
     (b) in relation to an appeal against a decision of the Board under section 330(2), means the District Court
   - **applicable minimum standards for licensing** means the minimum standards for licensing that—
-    (a) apply to the class of licence in question; and
+    (a) apply to the licensing class in question; and
     (b) are contained in the rules
   - **Board** means the Building Practitioners Board established by section 341
   - **building inspection work** means any of the following
@@ -3015,7 +3066,7 @@ In this Part, unless the context otherwise requires,—
     (b) the undertaking of inspections of building work:
     (c) the issuing of building consents:
     (d) determining compliance with a building consent:
-    (e) inspection of maintenance and reporting procedures stated in a compliance schedule
+    (e) inspection, maintenance, or reporting procedures stated in a compliance schedule
   - **decision** includes—
     (a) any action taken under section 318; and
     (b) an order
@@ -3024,6 +3075,13 @@ In this Part, unless the context otherwise requires,—
   - **LBP standards** has the meaning set out in section 353
   - **register** means the register of building practitioners established and maintained under section 298
   - **Registrar** means the officer appointed under section 310.
+
+**Purposes of licensing**
+
+### 282A Purposes of licensing building practitioners
+The purposes of licensing building practitioners under this Act are—
+  (a) to assess and record building practitioners as having certain skills and knowledge relevant to building work; and
+  (b) to license building practitioners so that, in regard to restricted building work, licensed building practitioners can carry it out or supervise it.
 
 **General procedure of Board and Registrar under this Part**
 
@@ -3039,29 +3097,29 @@ Except as otherwise provided in this Act, the Board and the Registrar may regula
 
 ### Subpart 2 — Licensing and disciplining of building practitioners
 
-**Classes of licences**
+**Licensing classes**
 
-### 285 Classes of licences may be designated by regulations
-The Governor-General may, by Order in Council made on the recommendation of the Minister, designate a class or classes of licences that may be issued under this subpart to persons who carry out—
+### 285 Licensing classes may be designated by regulations
+The Governor-General may, by Order in Council made on the recommendation of the Minister, designate a licensing class or classes for carrying out or supervising particular types of—
   (a) building work:
   (b) building inspection work.
 
 **How to become licensed**
 
-### 286 Entitlement to licence
+### 286 Entitlement to be licensed
 An individual is entitled to be licensed as a building practitioner if the individual satisfies the Registrar—
   (a) that he or she meets the applicable minimum standards for licensing; and
-  (b) that he or she is not precluded from holding a licence because of any action taken by the Board under section 318; and
+  (b) that he or she is not precluded from being licensed because of any action taken by the Board under section 318; and
   (c) that his or her registration, licence, or other recognition under another enactment in respect of any substantially equivalent occupation has not been suspended or cancelled in respect of a disciplinary matter at any time within the last 5 years; and
   (d) that he or she has paid the prescribed fee.
 
-### 287 Applications for licence
-An application for a licence under this subpart must be made to the Registrar in accordance with the rules.
+### 287 Applications to become licensed
+An application to become licensed under this subpart must be made to the Registrar in accordance with the rules.
 
 ### 288 Registrar to license applicant or decline application
 (1) If the Registrar is satisfied that the applicant is entitled, under section 286, to be licensed as a building practitioner, the Registrar must—
-  (a) issue to the applicant a particular class of licence; and
-  (b) send to the applicant evidence of the issue of that licence, in a form specified in the rules; and
+  (a) license the applicant; and
+  (b) send to the applicant evidence that he or she has been licensed, in a form specified in the rules; and
   (c) enter that person's name in the register; and
   (d) issue a unique identifier (for example, a registration number) to the applicant, and notify the applicant what that identifier is.
 (2) If the Registrar is not satisfied that the applicant is entitled to be licensed as a building practitioner, the Registrar must notify the applicant of—
@@ -3071,69 +3129,69 @@ An application for a licence under this subpart must be made to the Registrar in
 
 **Provisions relating to licences**
 
-### 289 Duty to produce evidence of issue of licence
+### 289 Duty to produce evidence of being licensed
 A licensed building practitioner must, if asked by any person, produce for inspection by the person either—
-  (a) the evidence of the issue of a licence sent to that person under section 288(1)(b); or
+  (a) the evidence of being licensed sent to the licensed building practitioner under section 288(1)(b); or
   (b) a copy of that evidence.
 
-### 290 Term of licence
-A licence continues in force until it is cancelled or suspended under this subpart.
+### 290 Term of being licensed
+Licensing continues in force until it is cancelled or suspended under this subpart.
 
 **Automatic licensing of certain professions**
 
 ### 291 Automatic licensing of people registered under other enactments
 (1) This section applies to a person who is registered, licensed, or otherwise recognised under any other enactment (for example, a registered architect), but does not apply at any time when that registration, licence, or other recognition is suspended or cancelled.
-(2) An order made under section 285 may treat the person as if they hold a licence of a class or classes specified in the order.
-(3) A person who is treated as holding a licence of a particular class or classes under subsection (2) may not apply under this Act for a licence of another class that is substantially equivalent to the licence that he or she is treated as holding.
-(4) The licensing provisions of this subpart do not apply to a person who is treated under this section and the rules as if he or she holds a licence (for example, he or she need not apply for a licence or pay any fees under this subpart).
+(2) An order made under section 285 may treat the person as if they were licensed in a class or classes specified in the order.
+(3) A person who is treated as being licensed in a particular class or classes under subsection (2) may not apply under this Act to be licensed in another class that is substantially equivalent to the class of licensing in which he or she is treated as being licensed.
+(4) The licensing provisions of this subpart do not apply to a person who is treated under this section and the rules as if he or she were licensed (for example, he or she need not apply to become licensed or pay any fees under this subpart).
 
 **Continuation of licensing**
 
-### 292 Licensed building practitioner must meet applicable minimum standards for licensing to continue to be licensed
+### 292 Licensed building practitioner must meet applicable minimum standards for licensing to continue
 (1) The Registrar must assess at the frequency required by the rules, and may assess at any other time, whether a licensed building practitioner continues to meet the applicable minimum standards for licensing.
 (2) That assessment must be made in the manner required by the rules.
-(3) A licensed building practitioner who continues to meet those standards is entitled to the continuation of his or her licence, subject to section 303.
+(3) A licensed building practitioner who continues to meet those standards is entitled to the continuation of his or her licensing, subject to section 303.
 
 ### 293 Consequences of failure to meet applicable minimum standards for licensing
 (1) If, after making an assessment under section 292, the Registrar determines that the licensed building practitioner no longer meets the applicable minimum standards for licensing, the Registrar must—
-  (a) suspend the person's licence until the person satisfies the Registrar that he or she meets those standards; and
+  (a) suspend the person's licensing until the person satisfies the Registrar that he or she meets those standards; and
   (b) record the suspension in the register.
 (2) If the person does not so satisfy the Registrar within 12 months after the suspension, or any further period that the Registrar may determine, the Registrar must—
-  (a) cancel the person's licence; and
+  (a) cancel the person's licensing; and
   (b) remove the person's name from the register.
 
-**Cancellation and suspension of licence**
+**Licensing cancellation and suspension**
 
-### 294 Cancellation of licence
-The Registrar must cancel a person's licence and remove the person's name from the register—
-  (a) if the person, by written notice, requests the Registrar to cancel his or her licence; or
+### 294 Cancellation of licensing
+The Registrar must cancel a person's licensing and remove the person's name from the register—
+  (a) if the person, by written notice, requests the Registrar to cancel his or her licensing; or
   (b) in accordance with section 293(2) (consequences of failure to meet applicable minimum standards for licensing); or
   (c) in accordance with section 318 (disciplinary penalties); or
   (d) in accordance with section 319 (non-payment of fines or costs).
 
-### 295 Mandatory suspension of licence
-(1) The Registrar must suspend a person's licence and record the suspension in the register in accordance with section 293(1) (consequences of failure to meet applicable minimum standards for licensing).
+### 295 Mandatory licensing suspension
+(1) The Registrar must suspend a person's licensing and record the suspension in the register in accordance with section 293(1) (consequences of failure to meet applicable minimum standards for licensing).
 (2) The Registrar must, in the case of a person who is the subject of disciplinary proceedings under this subpart,—
-  (a) suspend the person's licence until an order is made under section 318 or until those disciplinary proceedings are otherwise finished if, in the opinion of the Registrar, suspension of the person's licence is necessary for the purpose of protecting the public; and
+  (a) suspend the person's licensing until an order is made under section 318 or until those disciplinary proceedings are otherwise finished if, in the opinion of the Registrar, suspension of the person's licensing is necessary for the purpose of protecting the public; and
   (b) record that suspension in the register.
-(3) The Board must suspend a person's licence and direct the Registrar to record the suspension in the register in accordance with—
+(3) The Board must suspend a person's licensing and direct the Registrar to record the suspension in the register in accordance with—
   (a) section 318 (disciplinary penalties); or
   (b) section 319 (non-payment of fines or costs).
 
-### 296 Voluntary suspension of licence
-(1) A licensed building practitioner may, by written notice, request the Registrar to suspend his or her licence for a period specified in the notice.
-(2) The Registrar must then suspend that person's licence, and record the suspension in the register, for that specified period (subject to the rules).
-(3) A person whose licence is suspended under this section may, by written notice to the Registrar, request the Registrar to revive the person's licence.
-(4) The Registrar must then revive that person's licence (unless there is some other ground to suspend or cancel that person's licence under this subpart).
+### 296 Voluntary licensing suspension
+(1) A licensed building practitioner may, by written notice, request the Registrar to suspend his or her licensing for a period specified in the notice.
+(2) The Registrar must then suspend that person's licensing, and record the suspension in the register, for that specified period (subject to the rules).
+(3) A person whose licensing is suspended under this section may, by written notice to the Registrar, request the Registrar to revive the person's licensing.
+(4) The Registrar must then revive that person's licensing (unless there is some other ground to suspend or cancel that person's licensing under this subpart).
 
-### 297 Effect of suspension of licence
-(1) A person is not a licensed building practitioner, for the purposes of this Act, for the period for which his or her licence is suspended.
-(2) At the end of the period of suspension, the person's licence is immediately revived (unless there is some other ground to suspend or cancel that person's licence under this subpart).
+### 297 Effect of licensing suspension
+(1) A person is not a licensed building practitioner, for the purposes of this Act, for the period for which his or her licensing is suspended.
+(2) At the end of the period of suspension, the person's licensing is immediately revived (unless there is some other ground to suspend or cancel that person's licensing under this subpart).
 
 **Register of licensed building practitioners**
 
 ### 298 Register of licensed building practitioners
-(1) The Registrar must establish and maintain, in accordance with this Act and the rules, a register of licensed building practitioners.
+(1) The Registrar must establish and maintain, in accordance with this Act and the regulations, a register of licensed building practitioners.
 (2) The Registrar must enter in the register—
   (a) the name of every licensed building practitioner; and
   (b) the information about that person that is specified in section 301 to the extent that the information is relevant to that person.
@@ -3142,7 +3200,7 @@ The Registrar must cancel a person's licence and remove the person's name from t
 ### 299 Purpose of register
 The purpose of the register is—
   (a) to enable members of the public to—
-    (i) determine whether a person is a licensed building practitioner and, if so, the status and relevant history of the person's licence; and
+    (i) determine whether a person is a licensed building practitioner and, if so, the status and relevant history of the person's licensing; and
     (ii) choose a suitable building practitioner from a list of licensed building practitioners; and
     (iii) know how to contact the building practitioner; and
     (iv) know which licensed building practitioners have been disciplined within the last 3 years; and
@@ -3155,7 +3213,7 @@ The purpose of the register is—
 (2) The register must be operated at all times unless—
   (a) the Registrar suspends the operation of the register, in whole or in part, in accordance with subsection (3); or
   (b) otherwise provided in the regulations.
-(3) The Registrar may refuse access to the register or otherwise suspend the operation of the register, in whole or in part, if the Registrar considers that it is not practical to provide access to the register.
+(3) The Registrar may refuse access to the register or otherwise suspend the operation of the register, in whole or in part, if the Registrar considers that it is not necessary or practical or appropriate to provide access to the register.
 
 ### 301 Matters to be contained in register
 (1) The register must contain all of the following information, to the extent that the information is relevant, for each licensed building practitioner whose name is entered in the register:
@@ -3170,13 +3228,13 @@ The purpose of the register is—
   (i) fax number:
   (j) any unique identifier issued by the Registrar (for example, a registration number):
   (k) any other prescribed information:
-  (l) information about the status and history of the person's licence, particularly—
-    (i) the class of licence held by the person; and
+  (l) information about the status and history of the person's licensing, particularly—
+    (i) the class in which the person is licensed; and
     (ii) the date on which the person's name was entered in the register; and
     (iii) any action taken under section 318 on a disciplinary matter in respect of the person in the last 3 years:
   (m) any other information that the Registrar considers necessary or desirable for the purpose of the register.
 (2) The register must also show—
-  (a) whether a licence was suspended in the last 3 years; and
+  (a) whether a person’s licensing was suspended in the last 3 years; and
   (b) if paragraph (a) applies,—
     (i) the ground under this Act for the suspension (for example, whether for non-payment of a levy that was required from the licensed building practitioner, or on another ground); and
     (ii) the period of suspension; and
@@ -3185,7 +3243,7 @@ The purpose of the register is—
 **Updates of register**
 
 ### 302 Obligation to notify Registrar of change in circumstances
-(1) Each applicant for a licence, and each licensed building practitioner, must give written notice to the Registrar of any change in circumstances within 10 working days after the change.
+(1) Each person applying to become licensed, and each licensed building practitioner, must give written notice to the Registrar of any change in circumstances within 10 working days after the change.
 (2) Change of circumstances—
   (a) means any change in the information that the person has provided to the Registrar under this subpart; and
   (b) includes any change that may be prescribed (if any).
@@ -3198,12 +3256,12 @@ The purpose of the register is—
 (2) The licensed building practitioner must, within 20 working days of being contacted,—
   (a) reply to both questions, and supply any information necessary to ensure that the information shown on the register is correct; and
   (b) pay to the Registrar the prescribed levy.
-(3) If a licensed building practitioner does not comply with subsection (2), the Registrar must contact the licensed building practitioner, in a manner provided for in the rules, and advise the licensed building practitioner that his or her licence will be suspended unless the person complies with subsection (2), and pays a late fee, within the period, provided for in the rules.
+(3) If a licensed building practitioner does not comply with subsection (2), the Registrar must contact the licensed building practitioner, in a manner provided for in the rules, and advise the licensed building practitioner that his or her licensing will be suspended unless the person complies with subsection (2), and pays a late fee, within the period, provided for in the rules.
 (4) If the licensed building practitioner does not do so, the Registrar must—
-  (a) suspend the person's licence until the person does so; and
+  (a) suspend the person's licensing until the person does so; and
   (b) record the suspension in the register.
 (5) If the licensed building practitioner does not comply with subsection (2), and pay the late fee, within 12 months after the date on which the person is contacted under subsection (3), the Registrar must—
-  (a) cancel the person's licence; and
+  (a) cancel the person's licensing; and
   (b) remove the person's name from the register.
 
 ### 304 Alterations to register
@@ -3237,7 +3295,7 @@ The chief executive must appoint, under the State Sector Act 1988, a Registrar o
 ### 311 Functions of Registrar
 The functions of the Registrar are—
   (a) to establish and maintain the register; and
-  (b) to make decisions about whether persons meet the requirements for licensing or continued licensing, to issue, cancel, and suspend licences as part of the licensing system, and to perform the other functions relating to licensing under this subpart; and
+  (b) to make decisions about whether persons meet the requirements for licensing or continued licensing, to issue, cancel, and suspend persons’ licensing as part of the licensing system, and to perform the other functions relating to licensing under this subpart; and
   (c) to help the Board to receive and investigate complaints under sections 315 and 316; and
   (d) to provide other administrative support for the Board sufficient to enable the Board to perform its functions efficiently and effectively; and
   (e) to perform any other function conferred on the Registrar by this Act or any other enactment.
@@ -3257,7 +3315,7 @@ The functions of the Registrar are—
 (2) The matters are—
   (a) that any person was or was not a licensed building practitioner at any particular time or during any period specified in the certificate; or
   (b) that any entry in the register is as stated in the certificate; or
-  (c) that the description of building work and building inspection work that a person is authorised to carry out or supervise is as stated in the certificate.
+  (c) that the description of building work and building inspection work that a person is licensed to carry out or supervise is as stated in the certificate.
 (3) The certificate must be dated.
 
 **Offences relating to licensing**
@@ -3266,7 +3324,7 @@ The functions of the Registrar are—
 (1) A person commits an offence if the person holds himself or herself out as a person who is licensed to carry out or supervise building work or building inspection work, or building work or building inspection work of a certain type, while not being so licensed.
 (2) A person who commits an offence under subsection (1) is liable to a fine not exceeding $20,000.
 (3) A person commits an offence if the person—
-  (a) fails to produce evidence of the issue of a licence as required by section 289; or
+  (a) fails to produce evidence of being licensed as required by section 289; or
   (b) fails to give written notice of a change in circumstances in accordance with section 302.
 (4) A person who commits an offence under subsection (3) is liable to a fine not exceeding $5,000.
 
@@ -3279,7 +3337,7 @@ The functions of the Registrar are—
 ### 316 Board must investigate complaints
 (1) The Board must, as soon as practicable after receiving a complaint, investigate the complaint and determine whether or not to proceed with it.
 (2) However, subsection (3) applies if the Board receives a complaint about a licensed building practitioner—
-  (a) who is a licensed building practitioner only because he or she is treated under section 291 and the rules as if he or she holds a licence because he or she is registered, licensed, or otherwise recognised under any other enactment (for example, a registered architect); and
+  (a) who is a licensed building practitioner only because he or she is treated under section 291 and the rules as if he or she is licensed because he or she is registered, licensed, or otherwise recognised under any other enactment (for example, a registered architect); and
   (b) who is, in the opinion of the Board, subject to a substantially similar or more stringent disciplinary regime by or under that other enactment.
 (3) The Board may not investigate or proceed with the complaint, but must refer it to the body that is responsible for dealing with complaints under that other enactment.
 
@@ -3289,9 +3347,13 @@ The functions of the Registrar are—
     (i) a licensed building practitioner has been convicted, whether before or after he or she is licensed, by any court in New Zealand or elsewhere of any offence punishable by imprisonment for a term of 6 months or more; and
     (ii) the commission of the offence reflects adversely on the person's fitness to carry out or supervise building work or building inspection work; or
   (b) a licensed building practitioner has carried out or supervised building work or building inspection work in a negligent or incompetent manner; or
-  (c) a licensed building practitioner has carried out or supervised building work or building inspection work of a type that cannot be carried out or supervised by persons who hold the class of licence that the licensed building practitioner holds; or
+  (c) a licensed building practitioner has carried out or supervised restricted building work or building inspection work of a type that he or she is not licensed to carry out or supervise; or
   (d) a licensed building practitioner has carried out or supervised building work or building inspection work that does not comply with a building consent; or
-  (e) a licensed building practitioner has, for the purpose of obtaining a licence (either for himself or herself or for any other person),—
+  (da) a licensed building practitioner has failed, without good reason, in respect of a building consent that relates to restricted building work that he or she is to carry out or supervise, or has carried out or supervised, (as the case may be),—
+    (i) to provide a memorandum, in accordance with section 45(2)(b), about any plans and specifications required to accompany the building consent application; or
+    (ii) to provide the persons specified in section 88(2) with a memorandum, on completion of the restricted building work, in accordance with section 88(1); or
+  (db) a licensed building practitioner has held himself or herself out as being licensed to carry out or supervise building work or building inspection work of a type that, at that time, he or she was not licensed to carry out or supervise; or
+  (e) a licensed building practitioner has, for the purpose of becoming licensed himself or herself, or for the purpose of any other person becoming licensed,—
     (i) either orally or in writing, made any declaration or representation, knowing it to be false or misleading in a material particular; or
     (ii) produced to the Registrar or made use of any document, knowing it to contain a declaration or representation referred to in subparagraph (i); or
     (iii) produced to the Registrar or made use of any document, knowing that it was not genuine.
@@ -3300,10 +3362,10 @@ The functions of the Registrar are—
 ### 318 Disciplinary penalties
 (1) In any case to which section 317 applies, the Board may—
   (a) do both of the following things:
-    (i) cancel the person's licence and direct the Registrar to remove the person's name from the register; and
+    (i) cancel the person's licensing and direct the Registrar to remove the person's name from the register; and
     (ii) order that the person may not apply to be relicensed before the expiry of a specified period:
-  (b) suspend the person's licence for a period of no more than 12 months or until the person meets specified conditions relating to the licence (but, in any case, not for a period of more than 12 months) and direct the Registrar to record the suspension in the register:
-  (c) restrict the type of building work or building inspection work that the person may carry out or supervise under the class of licence that he or she holds and direct the Registrar to record the restriction in the register:
+  (b) suspend the person's licensing for a period of no more than 12 months or until the person meets specified conditions relating to the licensing (but, in any case, not for a period of more than 12 months) and direct the Registrar to record the suspension in the register:
+  (c) restrict the type of building work or building inspection work that the person may carry out or supervise under the person’s licensing class or classes and direct the Registrar to record the restriction in the register:
   (d) order that the person be censured:
   (e) order that the person undertake training specified in the order:
   (f) order that the person pay a fine not exceeding $10,000.
@@ -3314,8 +3376,8 @@ The functions of the Registrar are—
 
 ### 319 Non-payment of fines or costs
 If money payable by a person under section 318(1)(f) or (4) remains unpaid for 60 days or more after the date of the order, the Board may—
-  (a) cancel the person's licence and direct the Registrar to remove the person's name from the register; or
-  (b) suspend the person's licence until the person pays the money and, if he or she does not do so within 12 months, cancel his or her licence and direct the Registrar to remove his or her name from the register.
+  (a) cancel the person's licensing and direct the Registrar to remove the person's name from the register; or
+  (b) suspend the person's licensing until the person pays the money and, if he or she does not do so within 12 months, cancel his or her licensing and direct the Registrar to remove his or her name from the register.
 
 ### 320 Payment and application of charges, fines, and other money
 (1) All charges, fines, and other money payable by a person under this subpart—
@@ -3389,8 +3451,10 @@ A written certificate signed by any person authorised by the Board is for all pu
 ### 330 Right of appeal
 (1) A person may appeal to the Board against any decision of the Registrar to—
   (a) decline to license the person as a building practitioner; or
-  (b) suspend or cancel his or her licence.
-(2) A person may appeal to a District Court against any decision of the Board to take any action referred to in section 318.
+  (b) suspend or cancel his or her licensing.
+(2) A person may appeal to a District Court against any decision of the Board—
+  (a) made by it on an appeal brought under subsection (1); or
+  (b) to take any action referred to in section 318.
 
 ### 331 Time in which appeal must be brought
 An appeal must be lodged—
@@ -3490,7 +3554,7 @@ The Board must prepare an annual report on its operations for each period ending
 ### 348 Form and content of annual report
 (1) An annual report must contain the following information and reports in respect of the period to which it relates:
   (a) a report on operations, including the information that is necessary to enable an informed assessment to be made of the Board's performance during the period; and
-  (b) the number of persons in each class of licence against whom the Board took disciplinary action during the period.
+  (b) the number of persons in each licensing class against whom the Board took disciplinary action during the period.
 (2) An annual report must be in writing, dated, and signed on behalf of the Board by 2 members.
 
 ### 349 Obligation for Board to provide annual report to Minister
@@ -3517,12 +3581,12 @@ The Minister must present a copy of the annual report given to him or her under 
 
 ### 353 Rules relating to licensed building practitioners
 (1) There must be made, and there must always be, rules containing the following minimum standards (LBP standards):
-  (a) minimum standards of competence (including standards relating to knowledge and skills) that must be met for each class of licence; and
-  (b) minimum standards for demonstrating current competence for each class of licence that must be met for continued licensing, and for the frequency at which assessments of current competence must be carried out.
+  (a) minimum standards of competence (including standards relating to knowledge and skills) that must be met for each licensing class; and
+  (b) minimum standards for demonstrating current competence for each licensing class that must be met for continued licensing, and for the frequency at which assessments of current competence must be carried out.
 (2) There must be made, and there must always be, rules that govern all of the following matters:
-  (a) the information that must be provided by an applicant for a licence, and the way in which this information must be evaluated and decisions on the information must be made and implemented; and
+  (a) the information that must be provided by an applicant for licensing, and the way in which this information must be evaluated and decisions on the information must be made and implemented; and
   (b) the information that must be provided by a licensed building practitioner to demonstrate his or her current competence, and the way in which this information must be evaluated and decisions on the information must be made and implemented; and
-  (c) the way in which a proposed cancellation or suspension of a licence (that does not relate to a disciplinary matter) is to be considered, decided on, and implemented, and any minimum and maximum periods for suspension.
+  (c) the way in which a proposed cancellation or suspension of licensing (that does not relate to a disciplinary matter) is to be considered, decided on, and implemented, and any minimum and maximum periods for suspension.
 (3) The rules must be consistent with this Act.
 
 ### 354 Chief executive to prepare proposed rules
@@ -3736,7 +3800,7 @@ The continued existence of anything, or the intermittent repetition of any actio
 
 ### 381 District Court may grant injunctions for certain continuing breaches
 (1) On the application of any person referred to in subsection (2), a District Court may grant an injunction or make some other appropriate order if it appears to the District Court that—
-  (a) a person is committing or is about to commit a breach of section 40 or section 165; or
+  (a) a person is committing or is about to commit a breach of section 40 or section 168; or
   (b) a building is dangerous, earthquake prone, or insanitary in terms of subpart 6 of Part 2 and the territorial authority has failed to take appropriate action; or
   (c) a dam is dangerous in terms of subpart 7 of Part 2 and the regional authority has failed to take appropriate action.
 (2) The persons are—
@@ -3944,8 +4008,8 @@ A provision of an agreement or instrument that purports to restrict or remove th
   (c) providing for the payment and collection of the levy:
   (d) prescribing the fees or charges payable in respect of the performance of the Registrar's functions under Part 4, including the fees and charges for—
     (i) an application to be licensed as a building practitioner; and
-    (ii) the issue of that licence; and
-    (iii) the renewal of that licence:
+    (ii) the issue of that evidence of being licensed; and
+    (iii) the renewal of that evidence of being licensed:
   (e) providing for the following matters relating to the levy payable by licensed building practitioners under section 303 for, or in connection with, the costs of the operation and administration of the Board:
     (i) different levies for different classes of licensed building practitioners; and
     (ii) the amount of the levy; and
@@ -3973,9 +4037,14 @@ A provision of an agreement or instrument that purports to restrict or remove th
     (ii) regional authorities and owners of dams in relation to dams:
   (m) prescribing time limits for the purposes of this Act:
   (n) prescribing building work that amounts to restricted building work:
+  (na) designating a licensing class or classes for carrying out or supervising particular types of—
+    (i) building work; or
+    (ii) building inspection work:
   (o) prescribing systems that amount to specified systems for the purposes of this Act:
   (p) defining moderate earthquake for the purposes of sections 122 and 153:
   (q) defining moderate flood for the purposes of section 153:
+  (qa) defining earthquake threshold event for the purposes of section 153A:
+  (qb) defining flood threshold event for the purposes of section 153A:
   (r) prescribing the minimum terms and conditions of an insurance policy for the purposes of section 192(2)(a):
   (s) providing for the approval of schemes of insurance for the purposes of section 192(2)(b):
   (t) prescribing the criteria and standards that an applicant must meet to be accredited as—
@@ -3983,9 +4052,12 @@ A provision of an agreement or instrument that purports to restrict or remove th
     (ii)
     (iii) a dam owner; or
     (iv) a product certification body:
+  (ta) prescribing the fees payable for an audit under section 249(a), 257(a), or 262(1)(a), or the rate at which, or method by which, those fees are to be calculated:
   (u) prescribing the criteria and standards that a product certification body must apply in determining applications for a product certificate under section 269 (which must include, without limitation, criteria and standards about the effects on human health of particular building methods or products):
   (v) determining or fixing scales of charges or other criteria for the purpose of fixing charges by the chief executive under Part 3:
-  (w) providing for matters for which fees are payable under this Act and the amount of those fees:
+  (w) prescribing—
+    (i) the matters in respect of which fees are payable under this Act, and the amount of those fees; or
+    (ii) the rate at which, or method by which, fees are to be calculated for the purposes of this Act:
   (x) specifying criteria and standards that a dam owner must apply in—
     (i) classifying dams; or
     (ii) preparing a dam safety assurance programme:
@@ -4015,8 +4087,8 @@ Any regulations made under section 402(1)(n) must not come into force earlier th
 
 **Incorporation of material by reference**
 
-### 405 Incorporation of material by reference into regulations and compliance document
-(1) The following material may be incorporated by reference into any regulations or compliance document (instruments) made or issued under this Act:
+### 405 Incorporation of material by reference into regulations, certain Orders in Council, and compliance document
+(1) The following material may be incorporated by reference into any instrument:
   (a) standards, requirements, or recommended practices of national or international organisations:
   (b) any other written material that, in the opinion of the Minister or, as appropriate, the chief executive, is too large or is impractical to include in, or print as part of, the instrument concerned.
 (2) Material may be incorporated by reference in an instrument—
@@ -4025,6 +4097,10 @@ Any regulations made under section 402(1)(n) must not come into force earlier th
 (3) The incorporated material—
   (a) is the material as it exists at the time that the instrument is made or issued; and
   (b) forms part of the instrument for all purposes and has legal effect accordingly.
+(4) In this section and in sections 406 to 413, instrument means—
+  (a) any regulations; and
+  (b) any compliance document; and
+  (c) any Order in Council made under section 41 or 285.
 
 ### 406 Effect of amendments to, or replacement of, material incorporated by reference
 An amendment to, or replacement of, material incorporated by reference in an instrument has legal effect as part of the instrument only if—
@@ -4135,7 +4211,7 @@ The enactments specified in Schedule 4 are amended in the manner indicated in th
   (d) between 30 November 2004 and 31 May 2006, persons who held an approval as a building certifier under the former Act may apply to be registered as a building consent authority under section 191; and
   (e) between 30 November 2004 and 31 May 2006, territorial authorities and regional authorities must apply to be registered under section 191; and
   (f) on and after the date specified in section 450(3)(b)(ii), only building consent authorities that are registered under section 191 may perform functions relating to building control; and
-  (g) on 30 November 2009,—
+  (g) on 30 November 2010,—
     (i) the requirement that restricted building work must be carried out or supervised by a licensed building practitioner comes into force; and
     (ii) the transitional period ends.
 (2) This section is a guide only to the general scheme and effect of these provisions.
@@ -4284,14 +4360,14 @@ If, before the commencement of this section, a person is liable to pay a levy un
 (1) On the commencement of this section,—
   (a) a code compliance certificate issued under section 43 of the former Act has effect as if it had been issued under section 95 of this Act; and
   (b) a compliance schedule issued under section 44 of the former Act has effect as if it had been issued under section 102 of this Act.
-(2) Before 30 November 2009,—
+(2) Before 30 November 2010,—
   (a) the reference in sections 103(1)(c) and 108(7) to licensed building practitioners, in relation to a territorial authority, includes a reference to independently qualified people accepted by the authority as being qualified to carry out the inspection, maintenance, and reporting procedures required for a specified system stated in a compliance schedule:
   (b) the references in sections 108(3)(c), 108(3)(d), 108(7), 109, and 110(a) to a licensed building practitioner, in relation to a territorial authority, include references to an independently qualified person accepted by the authority as being qualified to carry out the inspection, maintenance, and reporting procedures required for a specified system stated in a compliance schedule.
 (3) A person who immediately before the commencement of this section was accepted by a territorial authority as being qualified to carry out the inspection, maintenance, and reporting procedures required for a specified system stated in a compliance schedule continues to be accepted until the authority withdraws its acceptance.
-(4) Before 30 November 2009, a territorial authority—
+(4) Before 30 November 2010, a territorial authority—
   (a) may accept any person as being qualified to carry out the inspection, maintenance, and reporting procedures required for a specified system stated in a compliance schedule:
   (b) may withdraw its acceptance of any person as being qualified to carry out the inspection, maintenance, and reporting procedures required for a specified system stated in a compliance schedule (whether the acceptance occurred before or after the commencement of this section).
-(5) If not earlier withdrawn, a territorial authority's acceptance of a person as being qualified to carry out the inspection, maintenance, and reporting procedures required for a specified system stated in a compliance schedule expires on 30 November 2009.
+(5) If not earlier withdrawn, a territorial authority's acceptance of a person as being qualified to carry out the inspection, maintenance, and reporting procedures required for a specified system stated in a compliance schedule expires on 30 November 2010.
 
 ### 439 Transitional provision for document used in establishing compliance with building code
 (1) This section applies if, before the commencement of this section,—
@@ -4577,7 +4653,7 @@ A meeting of the Board may be held—
 
 ### 33 Unanimous written resolutions
 (1) A resolution signed or assented to in writing (whether sent by post, delivery, or electronic communication) by all members is as valid and effectual as if it had been passed at a meeting of the Board duly called and constituted.
-(2) The resolution may consist of several documents containing the same resolution, each signed or assented to in writing by 1 or more members.
+(2) Thyoue resolution may consist of several documents containing the same resolution, each signed or assented to in writing by 1 or more members.
 
 ## Schedule 4 — Enactments amended
 
@@ -4599,3 +4675,34 @@ Any provision that is made for the fencing of swimming pools that is in accordan
 (1) The chief executive of the department of State responsible for the administration of the Building Act 2004 may, in writing, and for any period that the chief executive specifies, exempt any specific gas installation, gas appliance, fittings, person, or thing from any requirement imposed by regulation 12 if the exemption is required as a result of the grant of a waiver or modification of the building code, or a compliance document (within the meaning of the Building Act 2004), in relation to an application for a building consent that is referred to the chief executive under section 70 of that Act.
 (2) The chief executive may amend or withdraw an exemption granted under this regulation in order to prevent a gas hazard.
 (3) The chief executive may grant the exemption subject to any conditions that the chief executive thinks fit.
+
+### 1 Title
+This Act is the Building Amendment Act 2008.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 2 — Validation and transitional provisions
+
+### 92 Validation in respect of levies on estimated value of building work
+(1) For the purpose of determining the calculation of any relevant levy on building work, the principal Act must be read as if at all material times it contained the definition of estimated value in section 7 of the Act, as amended by section 6 of this Act.
+(2) In this section, relevant levy means a levy—
+  (a) imposed under section 53 of the principal Act; and
+  (b) calculated in accordance with section 53(2)(a) of the principal Act; and
+  (c) prescribed in the Building Levy Order 2005; and
+  (d) paid to the chief executive by the applicant for a building consent.
+
+### 93 Transitional provision for content of project information memorandum
+A territorial authority that issues a project information memorandum need not comply with section 35(1)(i) of the principal Act in respect of that project information memorandum, as inserted by this Act, unless 6 months have elapsed since the commencement of this Act.
+
+### 94 Transitional provision for refusal of application for code compliance certificate
+(1) This section applies to a code compliance certificate application—
+  (a) made under section 92 of the principal Act or to which section 436 of the principal Act applies; and
+  (b) in respect of which a building consent authority has not made a decision under section 93 of the principal Act before the commencement of this Act.
+(2) A building consent authority that refuses to issue a code compliance certificate in respect of an application to which this section applies need not comply with section 95A of the principal Act, as inserted by this Act, in respect of that refusal unless 3 months have elapsed since the commencement of this Act.
+
+### 95 Transitional provision for refusal of application for certificate of acceptance
+(1) This section applies to an application for a certificate of acceptance—
+  (a) made under section 97 of the principal Act or to which section 437 of the principal Act applies; and
+  (b) in respect of which a territorial authority has not granted or refused a certificate of acceptance before the commencement of this Act.
+(2) A territorial authority that refuses to issue a certificate of acceptance in respect of an application to which this section applies need not comply with section 99A of the principal Act, as inserted by this Act, in respect of that refusal unless 3 months have elapsed since the commencement of this Act.
