@@ -1,5 +1,5 @@
 # National Parks Act 1980
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-03-27_
 
 > An Act to consolidate and amend the law relating to national parks
 
@@ -435,7 +435,7 @@ The Department shall, subject to this Act, and in accordance with—administer a
 (7) In exercising their functions, duties, and powers under this section, the Board, the Director-General, and the Authority shall have regard to any relevant concessions for the time being in force.
 
 ### 48 Approval of management plans
-(1) The Authority shall consider the plan and the matters referred to it under section 47(4) of this Act and, after modifying the plan in such manner as it thinks fit, shall refer the plan to the Minister.
+(1) The Authority shall consider the plan and the matters referred to it under section 47(6) of this Act and, after modifying the plan in such manner as it thinks fit, shall refer the plan to the Minister.
 (2) Before approving any management plan, the Authority shall, without limiting section 19 of this Act, have regard to the views of the Minister.
 (3) Every management plan shall have effect on the date on which it is approved by the Authority, or such later date as may be specified by the Authority.
 (4) Every approved management plan shall be available for public inspection during ordinary office hours, free of charge, at places decided by the Board, and at the office of the Director-General at Wellington.
