@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2008-03-27_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -390,7 +390,7 @@ Every officer or other person, not being a constable, who is authorised by any e
 
 ### 35 Arrest of persons found committing certain crimes
 Every one is justified in arresting without warrant—
-  (a) Any person whom he finds committing any offence against this Act that is punishable by death or for which the maximum punishment is not less than 3 years' imprisonment:
+  (a) Any person whom he finds committing any offence against this Act for which the maximum punishment is not less than 3 years' imprisonment:
   (b) Any person whom he finds by night committing any offence against this Act.
 
 ### 36 Arrest of person believed to be committing crime by night
