@@ -1,5 +1,5 @@
 # Cadastral Survey Act 2002
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-03-27_
 
 ### 1 Title
 This Act is the Cadastral Survey Act 2002.
@@ -35,7 +35,7 @@ In this Act, unless the context otherwise requires,—
   - **land** includes—
     (a) subsoil, airspace, and water and marine areas; and
     (b) interests in or over land
-  - **licensed cadastral surveyor or cadastral surveyor** means a person—
+  - **licensed cadastral surveyor** or means a person—
     (a) licensed as a cadastral surveyor under Part 3; or
     (b) deemed to be licensed as a cadastral surveyor under that Part
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
@@ -150,11 +150,11 @@ For the purposes of this Act, the functions of the chief executive are—
     (ii) both have been nominated by a body or bodies representing licensed cadastral surveyors; and
   (b) 2 persons who are or have been licensed cadastral surveyors and who have not been nominated by a body or bodies representing licensed cadastral surveyors; and
   (c) 1 person who is not and never has been a licensed cadastral surveyor and who is not employed in, and does not represent, the surveying profession.
-(3) The Board must elect 1 of the persons appointed under subsection (1)(a) to be the chairperson of the Board.
+(3) The Board must elect one of the persons appointed under subsection (1)(a) to be the chairperson of the Board.
 (4) In this section, licensed cadastral surveyor includes a person who, immediately before the commencement of this Act, was a registered surveyor under the Survey Act 1986.
 
 ### 14 Further provisions relating to Board and its members
-Schedule 1 applies to the board and its members.
+Schedule 1 applies to the Board and its members.
 
 ### 15 Liability of members and employees
 No member or employee of the Board is personally liable for any—
@@ -282,8 +282,10 @@ Every person commits an offence and is liable on summary conviction to imprisonm
 
 ## Part 4 — Discipline
 
-### 34 Professional Misconduct
-For the purposes of this Part, professional misconduct means the professional misconduct described in Schedule 2.
+### 34 Interpretation
+In this Part, unless the context otherwise requires,—
+  - **licensed cadastral surveyor** or includes a former licensed cadastral surveyor and a person who was a registered surveyor under the Survey Act 1986
+  - **professional misconduct** means the professional misconduct described in Schedule 2.
 
 ### 35 Complaints of professional misconduct
 (1) The Board may receive complaints alleging that—
@@ -295,7 +297,7 @@ For the purposes of this Part, professional misconduct means the professional mi
 (3) On receipt of a complaint, the Board—
   (a) must inform the cadastral surveyor concerned of the complaint; and
   (b) may proceed to investigate the complaint.
-(4) For the purposes of an investigation, the Surveyor-General must provide to the Board any information he or she holds that is relevant to the complaint.
+(4) For the purposes of an investigation, the Surveyor-General or the chief executive must provide to the Board any information he or she holds that is relevant to the complaint.
 (5) As soon as practicable after receiving the complaint or completing an investigation of the complaint, as the case may be, the Board must decide whether to accept or decline the complaint.
 (6) The Board must, immediately after making a decision under subsection (5), give written notice of the decision to the person who made the complaint and the cadastral surveyor concerned.
 
@@ -360,10 +362,10 @@ The Board is not required to investigate, and may decline to accept, a complaint
   (b) any decision by the Board under section 35 or section 36 to decline to accept a complaint:
   (c) any order of the Board under section 39 relating to him or her.
 (2) The person may, within 28 days after notice of the decision or order has been communicated to him or her by the Board or within any further time that the District Court may allow on application made before or after the expiration of that period, appeal to the District Court against the decision or order, as the case may be.
-(3) The Court must, as soon as practicable, hear the appeal, and may confirm, reverse, or modify the decision of the Board, or may refer the matter back to the Board in accordance with rules of Court, and may give any decision that the Board could have given in respect of the matter.
-(4) This section does not give the Court power to review any part of the Board's decision other than the part against which the appellant has appealed.
-(5) Subject to any order of the Court, every decision or order of the Board against which an appeal is lodged continues in force and has effect according to its tenor pending the determination of the appeal.
-(6) On any appeal under this section, the Court may make an order for the payment by the Board, or by the appellant, of the costs incurred in respect of the appeal by the other party to the appeal.
+(3) The court must, as soon as practicable, hear the appeal, and may confirm, reverse, or modify the decision of the Board, or may refer the matter back to the Board in accordance with rules of court, and may give any decision that the Board could have given in respect of the matter.
+(4) This section does not give the court power to review any part of the Board's decision other than the part against which the appellant has appealed.
+(5) Subject to any order of the court, every decision or order of the Board against which an appeal is lodged continues in force and has effect according to its tenor pending the determination of the appeal.
+(6) On any appeal under this section, the court may make an order for the payment by the Board, or by the appellant, of the costs incurred in respect of the appeal by the other party to the appeal.
 (7) The decision of the District Court on any such appeal is final.
 
 ### 42 Suspensions and conditions must be entered in register
@@ -401,6 +403,7 @@ Complaints, investigations, hearings, proceedings, and other matters begun but n
 ### 48 Regulations
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations requiring cadastral surveyors to provide cadastral survey datasets, or specified parts or classes of cadastral survey datasets, to the chief executive as digital cadastral survey datasets.
 (2) The Minister must not make a recommendation under subsection (1) unless the Minister has consulted the body or bodies representing cadastral surveyors.
+(2A) A cadastral surveyor must comply with regulations made under subsection (1) unless the chief executive has determined that it is impractical or unreasonable to provide or receive a cadastral survey dataset, or specified parts or classes of cadastral survey datasets, as digital cadastral survey datasets for the purposes of subsection (1).
 (3) The Governor-General may, by Order in Council, make regulations prescribing—
   (a) the matters in respect of which fees or charges are payable for—
     (i) the exercise of the functions, duties, and powers of the Surveyor-General under this Act:
@@ -436,24 +439,18 @@ Complaints, investigations, hearings, proceedings, and other matters begun but n
   (b) supply, on request for a reasonable fee, a copy of rules made under this section.
 
 ### 50 Transitional provision: Surveyor-General's rules
-(1) On and from the commencement of this Act, the provisions specified in subsection (2)—
-  (a) have effect as if they—
-    (i) were rules made under section 49; and
-    (ii) had been amended in the manner specified in Schedule 3; and
-  (b) may be amended or replaced under section 49.
-(2) The provisions are—
-  (a) sections 57, 58, and 60 of the Survey Act 1986; and
-  (b) the Survey Regulations 1998.
+[Repealed]
 
 ### 51 Expiry of section 50
 Section 50 expires at the end of 12 months after the commencement of this Act.
 
 ### 52 Correction of errors in survey
-(1) If an error is found in a cadastral survey dataset affecting any title under the Land Transfer Act 1952 or any title or tenure under any other Act, the Surveyor-General may, in writing, require the cadastral surveyor responsible for the error to undertake the work necessary to correct the error.
+(1) If an error is found in a cadastral survey dataset affecting any title under the Land Transfer Act 1952 or any title or tenure under any other Act, the Surveyor-General may, in writing, require the cadastral surveyor responsible for the error to undertake, or arrange to be undertaken, the work necessary to correct the error within a time that the Surveyor-General considers reasonable.
 (2) Subsection (1) does not limit—
   (a) the powers granted in sections 7 and 46 of the Crown Grants Act 1908:
   (b) the powers of the Registrar under sections 80 and 81 of the Land Transfer Act 1952, or the provisions of section 170 of that Act:
   (c) the powers of any court under any enactment.
+(3) In subsection (1), cadastral surveyor includes a former licensed cadastral surveyor and a person who was a registered surveyor under the Survey Act 1986.
 
 ### 53 Powers of entry for cadastral survey purposes
 (1) A cadastral surveyor authorised either generally or specifically by the Surveyor-General may, for the purpose of conducting a cadastral survey or the installation of a survey mark,—
@@ -532,14 +529,14 @@ If any person is alleged to have committed an infringement offence, the person m
 (5) If an infringement notice has been issued under this section, proceedings in respect of the offence to which the notice relates may be commenced in accordance with section 21 of the Summary Proceedings Act 1957; and, in that case, the provisions of that section apply with all necessary modifications.
 
 ### 62 Payment of infringement fees
-All infringement fees paid in respect of infringement offences must be paid into the Crown Bank Account.
+All infringement fees paid in respect of infringement offences must be paid into a Crown Bank Account.
 
 ### 63 Regulations
 The Governor-General may, by Order in Council, make regulations prescribing the form of infringement notices, and any other particulars to be contained in infringement notices.
 
 ## Part 7 — Dissolution of Survey Board of New Zealand and New Zealand Institute of Surveyors
 
-### 64 Dissolution of survey board of New Zealand
+### 64 Dissolution of Survey Board of New Zealand
 (1) In this section,—
   - **new Board** means the Cadastral Surveyors Licensing Board of New Zealand established by section 10
   - **old Board** means the Survey Board of New Zealand constituted by the Survey Act 1986.
@@ -592,7 +589,7 @@ A certificate given by or on behalf of the Board to the effect that a person was
   (c) a reference to a plan deposited under the Land Transfer Act 1952:
   (d) a reference to a plan to be noted, notified, registered, or recorded in the register under the Land Transfer Act 1952.
 
-## Schedule 1 — Further provisions applying to board
+## Schedule 1 — Further provisions applying to Board
 
 ### 1 Term of appointment
 (1) A member of the Board appointed by the Minister holds office for the term, not exceeding 3 years, specified in his or her notice of appointment.
@@ -619,7 +616,7 @@ A certificate given by or on behalf of the Board to the effect that a person was
 (6) No member of the Board is entitled to be present or vote or otherwise participate in his or her capacity as a member of the Board at any part of a meeting of the Board if the member has a conflict of interest.
 (7) The chairperson has a deliberative vote and, in the case of an equality of votes, also has a casting vote.
 (8) The chairperson must preside at all meetings of the Board at which he or she is present.
-(9) In the absence of the chairperson from any meeting of the Board, the members present must elect 1 of their number to preside at the meeting, and the member presiding has all the powers of the chairperson for the purposes of the meeting.
+(9) In the absence of the chairperson from any meeting of the Board, the members present must elect one of their number to preside at the meeting, and the member presiding has all the powers of the chairperson for the purposes of the meeting.
 (10) Subject to this Act and any regulations made under this Act, the Board may regulate its procedure as it thinks fit.
 
 ### 4 Substitute for members
@@ -641,54 +638,26 @@ A certificate given by or on behalf of the Board to the effect that a person was
 
 ## Schedule 2 — Professional misconduct
 
-### 1
-A licensed cadastral surveyor is guilty of professional misconduct if the cadastral surveyor is found in any proceedings or appeal under Part 4—
+###
+(1) A licensed cadastral surveyor is guilty of professional misconduct if the cadastral surveyor is found in any proceedings or appeal under Part 4—
   (a) to have been negligent in the conduct of, or failure to conduct, any cadastral survey:
   (b) to have certified to the accuracy of any cadastral survey or cadastral survey dataset without having personally carried out or directed the cadastral survey and the related field operations:
   (c) to have certified to the accuracy of any cadastral survey or cadastral survey dataset without having carried out sufficient checks to ensure the accuracy of the entries in any field book and the accuracy of all calculations, working plans, and other cadastral survey records that may have been made by any person employed by him or her in relation to the cadastral survey:
   (d) to have certified to the accuracy of any cadastral survey carried out by the cadastral surveyor or under his or her personal direction if the operation of pegging and ground marking, and all other requirements of the cadastral survey, have not been carried out in accordance with standards set under Part 5:
   (e) to have certified to the accuracy of any cadastral survey or cadastral survey dataset, knowing it to be defective:
   (f) to have made any entry in any field book or other record that purports to have been derived from actual observation or measurement in the field, if in fact it has not been so derived:
-  (g) to have supplied to the Surveyor-General any erroneous information in relation to any cadastral survey, cadastral survey mark, or boundary, knowing the information to be erroneous in any material particular:
+  (g) to have supplied to the Surveyor-General or the chief executive any erroneous information in relation to any cadastral survey, cadastral survey mark, or boundary, knowing the information to be erroneous in any material particular:
   (h) to have been convicted of any offence against section 31 or section 58(b) or (c):
   (i) to have failed to comply with any conditions imposed by the Board under section 39(2)(c) or (7) or the High Court on any appeal against an order under section 39:
   (j) to have failed to comply with any requirement imposed under section 52:
   (k) to have persistently exercised the powers of entry conferred by section 53 in an unreasonable manner:
   (l) to have failed, without reasonable cause, to perform any duty imposed on licensed cadastral surveyors by standards set by rules made under section 49.
 
-### 2
-For the purposes of determining whether or not a licensed cadastral surveyor is guilty of professional misconduct, the fact that a cadastral survey or cadastral survey dataset may have been approved by or on behalf of the Surveyor-General or the subject of a determination by the chief executive that it complies with standards specified in rules made under section 49 is not relevant.
+###
+(2) For the purposes of determining whether or not a licensed cadastral surveyor is guilty of professional misconduct, the fact that a cadastral survey or cadastral survey dataset may have been approved by or on behalf of the Surveyor-General or the subject of a determination by the chief executive that it complies with standards specified in rules made under section 49 is not relevant.
 
-## Schedule 3 — Amendments to Survey Act 1986 and Survey Regulations 1998 for purposes of section 50(1)(a)(II)
-
-### 57 Measures of length and area
-(1) All measurements of length in cadastral surveys and cadastral survey datasets must be expressed in metres and decimals of metres.
-(2) All measurements of area in cadastral surveys and cadastral survey datasets must be expressed in hectares and decimals of a hectare, or, where the area is less than 1 hectare, must be expressed in square metres.
-
-### 4 Cadastral survey datasets
-A cadastral survey dataset and any related cadastral survey data required by these regulations must be submitted to the chief executive before they can be incorporated in the cadastre.
+## Schedule 3 — Amendments to Survey Act 1986 and Survey Regulations 1998 for purposes of section 50(1)(a)(ii)
 
 ## Schedule 4 — Acts amended
-
-### 24AA Commissioner of Crown Lands
-(1) A person must be appointed under the State Sector Act 1988 to hold office as the Commissioner of Crown Lands.
-(2) The Commissioner must report directly to the Minister on the exercise and performance of the Commissioner's statutory powers and functions.
-
-### 24AB Delegation of Commissioner's functions, duties, and powers—
-The Commissioner may, under section 41 of the State Sector Act 1988, delegate to the employees of the department, in the same manner and to the same extent as if the Commissioner were the chief executive of the department, any power—
-  (a) conferred by statute on the Commissioner; or
-  (b) delegated under statute to the Commissioner by a Minister of the Crown.
-
-### 184A Regulations for fees—
-(1) The Governor-General may, by Order in Council, make regulations prescribing—
-  (a) the matters in respect of which fees or charges are payable for functions of, or facilities or services provided by, the chief executive:
-  (b) the amounts of those fees or charges, or the method or rates by which they are to be assessed:
-  (c) the persons liable for payment of those fees or charges:
-  (d) the circumstances in which the payment of the whole or any part of those fees or charges may be remitted or waived:
-  (e) the manner in which the fees or charges are to be paid.
-(2) This section does not apply to functions of, or facilities or services provided by, the chief executive under the Cadastral Survey Act 2002.
-(3) The Survey (Departmental Fees and Charges) Regulations 1998, to the extent applicable,—
-  (a) continue in force as if they had been made under subsection (1); and
-  (ba) may be amended or revoked as if they had been made under subsection (1).
 
 ## Schedule 5 — Enactments repealed or revoked
