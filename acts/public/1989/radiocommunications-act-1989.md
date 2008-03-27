@@ -1,5 +1,5 @@
 # Radiocommunications Act 1989
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-03-27_
 
 > An Act to provide for the management of the radio frequency spectrum
 
@@ -430,7 +430,7 @@ If any notice of transfer purports to transfer management rights in respect of a
     (i) the same power floors; and
     (ii) the same protection limits; and
     (iii) the same adjacent frequencies emission limits; and
-    (iv) spectrum licences relating to the same range of frequencies, with the same conditions applying to those spectrum licences; and
+    (iv) the same conditions applying to spectrum licences created in relation to those records; and
   (d) the commencement date of the record of management rights relating to the successive management rights is no more than 1 day after the expiry date applying to the record of management rights relating to the current management rights.
 (2) A manager to whom this section applies may request that the Registrar cancel the records of management rights of both the current management rights and the successive management rights, and create 1 record of management rights relating to the range of frequencies concerned.
 (3) If, upon receipt of a request under subsection (2), the Registrar is satisfied that subsection (1) applies, the Registrar must record on the records of management rights to which the request relates that the records of management rights are cancelled, and that recording of the cancellation has the effect of cancelling the records of management rights.
