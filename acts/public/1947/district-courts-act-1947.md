@@ -1,5 +1,5 @@
 # District Courts Act 1947
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2008-03-27_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to District Courts and the jurisdiction of District Court Judges in civil proceedings, and to make provision for the exercise of criminal jurisdiction under the Summary Proceedings Act 1957 in District Courts
 
@@ -1334,8 +1334,6 @@ Where under any Act any power, authority, or jurisdiction is given to Judges, th
 | 129(1) | Attempted sexual violation |
 | 129(2) | Assault with intent to commit sexual violation |
 | 132(1) | Sexual connection with child under 12 |
-| 132(2) | Attempted sexual connection with child under 12 |
-| 132(3) | Indecent act on child under 12 |
 | 144A | Sexual conduct with children outside New Zealand |
 | 144C | Organising or promoting child sex tours |
 |  | Part 8—Crimes Against the Person |
