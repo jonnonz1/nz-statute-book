@@ -1,5 +1,5 @@
 # Criminal Investigations (Bodily Samples) Act 1995
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2008-03-27_
 
 > An Act—aTo make provision for the taking of bodily samples for use in criminal investigations; andbTo authorise—iThe establishment of a databank of information derived from the analysis of bodily samples taken from certain persons; andiiThe use of information from that databank in criminal investigations; andcTo provide for matters incidental thereto
 
@@ -87,6 +87,7 @@ _Consolidation as at 2007-10-01_
   - **Suspect compulsion order** means an order made under section 16 of this Act
   - **Suspect request** means a request made pursuant to section 6 of this Act
   - **Venous sample** means a sample of venous blood taken in accordance with normal medical procedures.
+  - **video record** has the same meaning as in section 4 of the Evidence Act 2006
 (2) For the purposes of this Act, 2 offences are related to one another if the elements of the 2 offences comprise substantially the same act or omission.
 (3)
 
@@ -203,9 +204,9 @@ Subject to section 8 of this Act, every notice given pursuant to section 6(2)(a)
 ### 9 Consent to taking of bodily sample
 (1) No consent to the taking of a bodily sample in response to a suspect request shall be valid unless—
   (a) It is in writing and signed by the person giving the consent; or
-  (b) It is given orally and recorded on a videotape.
+  (b) It is given orally and recorded on a video record.
 (2) Where any such consent is in writing, the consent shall be signified on the notice required by section 6(2)(a) of this Act to be handed to the suspect at the time of the making of the suspect request, or on a copy of that notice.
-(3) Where any such consent is recorded on a videotape, the videotape must clearly show,—
+(3) Where any such consent is recorded on a video record, the video record must clearly show,—
   (a) In the case of a consent given by a suspect,—
     (i) The making of the suspect request to the suspect; and
     (ii) The handing to the suspect of the notice required by section 6(2)(a) of this Act; and
@@ -486,9 +487,9 @@ A notice given under section 24E(a) must—
 ### 24G Consent to taking of buccal sample
 (1) A consent to the taking of a buccal sample as a result of a Part 2A request is valid if the consent—
   (a) is in writing and signed by the person giving the consent; or
-  (b) is given orally and recorded on a videotape.
+  (b) is given orally and recorded on a video record.
 (2) If consent is given in writing, the consent must be signified on the notice required by section 24E(a) to be handed to the suspect at the time of the making of the request, or on a copy of that notice.
-(3) If consent is recorded on a videotape, the videotape must clearly show,—
+(3) If consent is recorded on a video record, the video record must clearly show,—
   (a) in the case of a consent given by a suspect,—
     (i) the making of the request to the suspect; and
     (ii) the handing to the suspect of the notice required by section 24E(a); and
@@ -593,9 +594,9 @@ A databank request made to any person may be made in conjunction with a suspect 
 ### 34 Consent to taking of bodily sample
 (1) No consent to the taking of a bodily sample in response to a databank request shall be valid unless—
   (a) It is in writing and signed by the person giving the consent; or
-  (b) It is given orally and recorded on a videotape.
+  (b) It is given orally and recorded on a video record.
 (2) Where any such consent is in writing, the consent shall be signified on the notice required by section 30(2)(a) of this Act to be handed to the person at the time of the making of the databank request, or on a copy of that notice.
-(3) Where any such consent is recorded on a videotape, the videotape must clearly show—
+(3) Where any such consent is recorded on a video record, the video record must clearly show—
   (a) The making of the databank request to the person concerned; and
   (b) The handing to that person of the notice required by section 30(2)(a) of this Act; and
   (c) The giving of consent to the taking of the sample.
