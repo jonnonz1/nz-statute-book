@@ -1,5 +1,5 @@
 # Misuse of Drugs Act 1975
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-03-27_
 
 > An Act to consolidate and amend the Narcotics Act 1965 and to make further provision for the prevention of misuse of drugs
 
@@ -594,8 +594,8 @@ Without prejudice to subsection (8) of section 67 of the Summary Proceedings Act
   - **member of the police** includes the following persons
     (a) a member of the Royal New Zealand Naval Police:
     (b) a member of the New Zealand Army Military Police:
-    (c) a member of the Air Security Branch of the Royal New Zealand Air Force:
-    (d) an officer of the Air Security specialisation of the Administrative Branch of the Royal New Zealand Air Force.
+    (c) a member of the Senior Air Security Specialist trade, or of the Air Security Specialist trade, of the Royal New Zealand Air Force:
+    (d) an officer of the Air Security specialisation of the Operational Support Branch of the Royal New Zealand Air Force
   - **Served** means served in accordance with sections 24 to 29 of the Summary Proceedings Act 1957.
 (6) Any notice given by the Minister in the Gazette for the purposes of subsection (1) of this section shall be deemed to be a regulation for the purposes of the Regulations (Disallowance) Act 1989 and the Acts Interpretation Act 1924.
 
