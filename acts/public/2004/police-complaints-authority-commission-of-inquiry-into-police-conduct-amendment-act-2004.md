@@ -1,5 +1,5 @@
 # Police Complaints Authority (Commission of Inquiry into Police Conduct) Amendment Act 2004
-_Consolidation as at 2007-11-29_
+_Consolidation as at 2008-03-27_
 
 ### 1 Title
 (1) This Act is the Police Complaints Authority (Commission of Inquiry into Police Conduct) Amendment Act 2004.
