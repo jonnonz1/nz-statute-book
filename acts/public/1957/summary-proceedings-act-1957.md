@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2008-02-29_
+_Consolidation as at 2008-03-27_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
@@ -2745,7 +2745,7 @@ The enactments specified in Schedule 3 to this Act are hereby amended in the man
 | 231 | Burglary |
 | 233 | Being disguised or in possession of instrument for burglary |
 | 234 | Robbery |
-| 236 | Assault with intent to rob |
+| 236(2) | Assault with intent to rob |
 | 239 | Demanding with intent to steal, etc |
 | 240 | Obtaining by deception |
 | 242 | False statement by promoter, etc |
@@ -2870,8 +2870,7 @@ The enactments specified in Schedule 3 to this Act are hereby amended in the man
 |  | 296ZC(3)(b) or (c) | Approved service delivery organisation knowingly supplying false or misleading information, or knowingly omitting material particular in information supplied to Minister |
 | The Food Act 1981 | 11AA | Contravention of Act, etc, knowing that will create risk to human health |
 | The Friendly Societies Act 1909 | 75 | Wrongful supply of rules of society or branch |
-| The Gambling Act 2003 | 351 | Cheating |
-|  | 353 | Offences involving counterfeit chips |
+| The Gambling Act 2003 | 353 | Offences involving counterfeit chips |
 | The Harbours Act 1950 |  |  |
 | Human Assisted Reproductive Technology Act 2004 | 8(1) | Taking an action described in Schedule 1 |
 |  | 8(2) | Importing or exporting an in vitro gamete, any kind of in vitro embryo or in vitro foetus, or in vitro being formed by an action described in Schedule 1 |
