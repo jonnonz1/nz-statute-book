@@ -1,5 +1,5 @@
 # Veterinarians Act 2005
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-03-27_
 
 ### 1 Title
 This Act is the Veterinarians Act 2005.
@@ -72,7 +72,7 @@ This Act binds the Crown.
 ### Subpart 1 — Registration
 
 ### 6 Entitlement to registration
-(1) A person, on payment of the prescribed fee, is entitled to be registered if the person satisfies the Council that he or she has—
+(1) A person, on payment of the prescribed fee, is entitled to be registered if the person satisfies the Council that he or she is a fit and proper person to be registered and has, or is eligible to have,—
   (a) a recognised veterinary science degree or diploma from a recognised institution; or
   (b) a veterinary science degree or diploma of not less than 4 years of study and 1 or more of the following:
     (i) a pass mark in prescribed examinations:
@@ -81,9 +81,9 @@ This Act binds the Crown.
 (2) Despite subsection (1), no person is entitled to be registered unless the Council is satisfied that the person can communicate in and understand English to an appropriate standard for practising as a veterinarian in New Zealand.
 
 ### 7 Entitlement to registration as specialist
-(1) The Council may, by notice in the Gazette,—
+(1) The Council may—
   (a) designate any branch of veterinary science as a branch in respect of which a veterinarian may practise as a specialist:
-  (b) amend or revoke any notice under paragraph (a).
+  (b) amend or revoke any designation under paragraph (a).
 (2) A veterinarian, on payment of the prescribed fee, is entitled to be registered as a specialist if the veterinarian satisfies the Council that, in relation to the branch of veterinary science in respect of which he or she seeks to be registered as a specialist, he or she—
   (a) is appropriately qualified; and
   (b) has had sufficient training and experience to justify practising as a specialist in that branch of veterinary science.
@@ -104,9 +104,9 @@ This Act binds the Crown.
 ### 9 Disqualification from registration
 A person is not entitled to be registered—
   (a) if he or she—
-    (i) has been convicted by any court in New Zealand or elsewhere, within the last 7 years, of any offence punishable by imprisonment for a term of 3 months or longer; and
+    (i) has been convicted by any court in New Zealand or elsewhere of any offence punishable by imprisonment for a term of 3 months or longer; and
     (ii) does not satisfy the Council that, having regard to all the circumstances, including the time that has elapsed since the conviction, the offence does not reflect adversely on his or her fitness to practise as a veterinarian; or
-  (b) if the Council is satisfied that registration of the person would be inappropriate because, in another country, he or she—
+  (b) if the Council is satisfied that registration of the person would be inappropriate because, in New Zealand or elsewhere, he or she—
     (i) is the subject of professional disciplinary proceedings; or
     (ii) is under investigation, or has been struck off the relevant register of veterinarians, or has been otherwise disciplined by a veterinary professional organisation; or
   (c) if the Council is satisfied that the person cannot practise satisfactorily as a veterinarian because of a mental or physical condition.
@@ -114,9 +114,10 @@ A person is not entitled to be registered—
 **Procedure for registration**
 
 ### 10 Application for registration
-An application for registration must be made to the Council and must be—
-  (a) in the prescribed form; and
-  (b) accompanied by the prescribed fee.
+An application for registration must be made to the Council and must—
+  (a) be made in a form determined by the Council; and
+  (b) contain the information determined by the Council; and
+  (c) be accompanied by the prescribed fee.
 
 ### 11 Consideration of application
 When considering an application for registration, the Council may, in relation to the application,—
@@ -167,6 +168,7 @@ When considering an application for registration, the Council may, in relation t
 (1) A person may apply to the Council for limited registration in terms of 1 or more scopes of practice notified under section 13.
 (2) Subsection (3) applies if the Council is satisfied that the applicant—
   (a) is appropriately qualified to practise within the scope or scopes of practice in the notice; and
+  (ab) is a fit and proper person to be registered; and
   (b) can communicate in and understand English to an appropriate standard for practising as a veterinarian in New Zealand; and
   (c) has paid the prescribed application fee.
 (3) The Council must—
@@ -292,9 +294,10 @@ A person whose registration is cancelled or suspended must deliver his or her ce
 (1) The following people may apply to the Council for a practising certificate:
   (a) a registered person who wishes to practise as a veterinarian:
   (b) a veterinarian or a specialist who wishes to renew his or her practising certificate.
-(2) An application under subsection (1) must be—
-  (a) in the prescribed form; and
-  (b) accompanied by the prescribed fee.
+(2) An application under subsection (1) must—
+  (a) be made in a form determined by the Council; and
+  (b) contain the information determined by the Council; and
+  (c) be accompanied by the prescribed fee.
 
 ### 25 Consideration of application
 When considering an application for a practising certificate, the Council may, in relation to the application,—
@@ -448,6 +451,10 @@ In the performance and exercise of its decision-making functions and powers unde
     (i) the complaint was settled between the parties and, if not, the matters on which agreement was reached between the parties (if any); or
     (ii) conciliation occurred between the parties, and the result of the conciliation; and
   (b) recommending what, if any, further action the Council should take under this Part in relation to the specified person who was the subject of the complaint.
+(2A) Despite subsections (1) and (2), the complaints assessment committee may make a recommendation to the Council without investigating, or fully investigating, a complaint or referral if the committee considers that the complaint or referral—
+  (a) relates to the competence of the specified person; or
+  (b) relates to a medical issue; or
+  (c) requires urgent action by the Council.
 (3) The Council may determine a matter referred to it under this section—
   (a) in accordance with the committee's statement; or
   (b) if it thinks fit, in any other way using its powers under this Part.
@@ -646,7 +653,7 @@ If money payable by a specified person under section 51(1)(i), (1)(j), or (3) re
 **Competence assessments**
 
 ### 58 Competence assessments
-(1) The Council may by notice, on the recommendation of a complaints assessment committee, require a specified person to undergo an assessment of the specified person's competence at the Council's expense.
+(1) The Council may by notice, on the recommendation of a complaints assessment committee or of its own motion, require a specified person to undergo an assessment of the specified person's competence at the Council's expense.
 (2) An assessment must follow the procedure set out in section 55(2) to (5), and those provisions apply with all necessary modifications, as if the medical examination were an examination by a person qualified to assess the specified person's competence.
 
 ### 59 Council may require specified person to make practice records available
@@ -797,7 +804,9 @@ The Council's functions are—
   (d) to consider reciprocal arrangements with registration bodies in other countries:
   (e) to register persons, issue practising certificates, assess whether persons meet the requirements for continued registration or eligibility for a practising certificate, and perform the other functions relating to registration and practising requirements in accordance with Part 2, including—
     (i) to determine the institutions and the degrees and diplomas offered by those institutions that are recognised for the purposes of section 6(1)(a); and
-    (ii) to approve assessment programmes, post-graduate study, and post-graduate training for the purposes of section 6(1)(b)(ii) and (iii):
+    (ii) to approve assessment programmes, post-graduate study, and post-graduate training for the purposes of section 6(1)(b)(ii) and (iii); and
+    (iii) to designate branches of veterinary science as branches in which veterinarians may practise as specialists for the purposes of section 7(1); and
+    (iv) to determine the form and content of applications for the purposes of sections 10(a) and (b) and 24(2)(a) and (b):
   (f) to keep and maintain the register and carry out the other functions relating to the register in accordance with Part 2:
   (g) to receive, investigate, and hear complaints about, inquire into the conduct of, make assessments of, and discipline specified persons under Part 3:
   (h) to investigate offences and bring prosecutions under the Act:
@@ -806,9 +815,9 @@ The Council's functions are—
     (ii) the maintenance, examination, or improvement of the overall competence of a veterinarian to practise:
   (j) to prescribe—
     (i) examinations for the purposes of section 6(1)(b)(i):
-    (ii) the form of application for registration under section 10(a):
+    (ii)
     (iii) the form of the register and the information to be contained in the register under section 22:
-    (iv) the form of application for a practising certificate under section 24(2)(a):
+    (iv)
   (k) to prescribe fees payable for the matters referred to in section 97 in accordance with sections 98 to 100.
 
 ### 76 Capacity and powers
@@ -1147,7 +1156,7 @@ Except as otherwise provided in this Act, the Council may regulate its own proce
 
 ### 17 Ability to delegate
 (1) The Council may delegate (either generally or specifically) any of the functions, duties, and powers of the Council to a committee or the Registrar.
-(2) However, the Council may delegate its powers under Part 3 only to a judicial committee.
+(2) However, the Council may delegate its powers to hold a hearing, suspend or revoke a practising certificate or registration, or impose penalties or conditions under Part 3 only to a judicial committee.
 
 ### 18 Effect of delegation
 (1) If any functions, duties, or powers are delegated under clause 17, the delegate may, unless the delegation provides otherwise, perform the function or duty, or exercise the power, in the same manner, subject to the same restrictions and duties, and with the same effect as if the delegate were the Council.
