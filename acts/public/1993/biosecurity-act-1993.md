@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2008-03-27_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -1475,7 +1475,7 @@ A management agency must not spend funds to meet the costs of implementing a pes
 ### 102 Deputy chief technical officers
 (1) The Director-General and the chief executive of any other department may appoint, in respect of any chief technical officer appointed by the Director-General or that chief executive, 1 or more deputy chief technical officers who must in each case be a person with appropriate experience, technical competence, and qualifications relevant to the area of responsibilities allocated by the chief executive to that person.
 (lA) A person appointed as a deputy chief technical officer must be employed under the State Sector Act 1988.
-(2) Subject to the direction of the chief technical officer concerned, a deputy chief technical officer shall have and may exercise all of the powers, duties, and functions of a chief technical officer under this Act.
+(2) Subject to the direction of the chief technical officer concerned, a deputy chief technical officer shall have and may exercise all of the powers, duties, and functions of a chief technical officer under this Act , including the power to appoint inspectors, authorised persons, and accredited persons.
 (3) The chief executive (including the Director-General) may not delegate to any person the power to appoint deputy chief technical officers.
 
 ### 103 Inspectors, authorised persons, and accredited persons
