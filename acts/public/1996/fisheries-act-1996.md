@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-03-27_
 
 > An Act—aTo reform and restate the law relating to fisheries resources; andbTo recognise New Zealand's international obligations relating to fishing; andcTo provide for related matters
 
@@ -551,8 +551,8 @@ All persons exercising or performing functions, duties, or powers under this Act
   (a) the Minister may make a determination under subsection (2), regardless of whether or not the Minister is satisfied of the matters specified in subsection (1); and
   (b) if the Minister determines not to make the stock or species concerned subject to the quota management system,—
     (i) the Minister must notify that fact in the Gazette ; and
-    (ii) from the date of that notification, the moratorium on the issue of fishing permits for that stock or species under section 93 ceases to apply; and
-    (iii) the stock or species concerned must be removed from Schedule 4C from the date of that notification, and the notice must amend Schedule 4C (including any appropriate consequential amendments) accordingly.
+    (ii) the moratorium on the issue of fishing permits for that stock or species under section 93 ceases to apply with effect on and from the first day of the fishing year for that stock or species that follows the date of that notification; and
+    (iii) the stock or species concerned must be removed from Schedule 4C from the first day of that fishing year following the date of the notification, and the notice must amend Schedule 4C (including any appropriate consequential amendments) accordingly.
 (6) Despite subsection (2), the Minister may not determine under that subsection to make subject to the quota management system any stock of highly migratory species outside New Zealand fisheries waters except to give effect to—
   (a) a national allocation to New Zealand by an international fisheries organisation in relation to that stock; or
   (b) any other management measures to which New Zealand has agreed, made by an international fisheries organisation in relation to that stock.
@@ -580,7 +580,7 @@ If the Minister determines under section 17B to make a stock subject to the quot
   (a) The Minister varying, by notice in the Gazette, any date set under section 18 of this Act, if the variation is published before that date; or
   (b) Any alteration under section 25 of this Act; or
   (c) Any amendment to a notice under section 18 of this Act that involves a minor or technical correction only.
-(5A) Without limiting subsection (5)(c), the Minister may amend a declaration under section 18 at any time before the allocation of provisional catch history under section 36 or section 41, if the declaration was made on the basis of incorrect or misleading information, or as a result of a mistake.
+(5A) Without limiting subsection (5)(c), the Minister may amend a declaration under section 18 at any time before the allocation of provisional catch history under section 36, if the declaration was made on the basis of incorrect or misleading information, or as a result of a mistake.
 (6) A provision in a regulation made under this Act, or in a notice given under section 15 or section 16 or a regulation made under section 186(2)(b) of this Act, shall not be construed as altering a quota management area merely because it prohibits, limits, or restricts fishing in the quota management area.
 (7) Before making a declaration under section 18 or amending a declaration under subsection (5A), the Minister must consult the persons or organisations considered by the Minister to be representative of those classes of persons having an interest in the matters referred to in subsection (1).
 (8)
@@ -850,7 +850,7 @@ For the purposes of this Part of this Act, the qualifying year or qualifying yea
   (ea) The date by which objections must be lodged (which date must be at least 60 working days after the date specified under paragraph (e)):
   (f) Such other matters as the chief executive thinks relevant.
 (3) Within 10 working days after the date specified in subsection (2)(e), the chief executive must publicly notify—
-  (a) that provisional catch history has been allocated for the stock; and
+  (a) that eligibility for provisional catch history for the stock has been determined and notified under subsection (2); and
   (b) the location where information on the criteria of eligibility for an allocation of provisional catch history and quota can be found; and
   (c) the location where information on the process for notifying the chief executive of an objection to the non-allocation of provisional catch history can be found; and
   (d) the date by which a person to whom subsection (5) applies must lodge their notification under that subsection with the chief executive.
@@ -1254,7 +1254,7 @@ An interest in fishing quota that is forfeited under section 58 or section 58A m
   (a) any person who is in partnership with the person:
   (b) any person who is a director or employee of any company of which the person is a director or employee:
   (c) any person who is a relative of the person as defined in paragraphs (c) and (d) of the definition of that term in section OB 1 of the Income Tax Act 2004:
-  (d) any person who would be an associated person under the test provided in section OD 7 of the Income Tax Act 2004, except that paragraph (e) of the definition of market value circumstance in section OB 1 of that Act does not apply:
+  (d) any person who would be an associated person under the test provided in section OD 7 of the Income Tax Act 2004, except that paragraph (e) of the definition of “market value circumstance” in section OB 1 of that Act does not apply:
   (e) any beneficiary or trustee of any trust of which the person is a trustee or beneficiary.
 (10A) For the purposes of subsection (10)(b) and (e), a person is not a person referred to in that subsection solely because the person is—
   (a) in the case of subsection (10)(b), a director of Te Ohu Kai Moana Trustee Limited, Te Putea Whakatupu Trustee Limited, or Te Wai Maori Trustee Limited; or
@@ -5241,7 +5241,7 @@ Without limiting the generality of section 297 of this Act, the Governor-General
 
 ### 303 Certain notices to have status of regulations
 (1) Subject to subsection (2) of this section, every notice given under this Act and required to be published in the Gazette is hereby deemed for the purposes of the Acts Interpretation Act 1924 and the Acts and Regulations Publication Act 1989 to be a regulation.
-(2) Subsection (1) does not apply to any notice given under any of sections 11, 13, 14, 16, 20, 60, 175, 186K, 186Q, 188, 283, 295, 296P, 307, 341, 350, 368, and 369.
+(2) Subsection (1) does not apply to any notice given under any of sections 11, 13, 14, 16, 20, 60, 175, 186K, 186Q, 186ZE, 188, 265A, 283, 295, 296P, 307, 341, 350, 368, and 369.
 (3) Any notice given under section 11(4)(b)(i) is a regulation for the purposes of the Regulations (Disallowance) Act 1989.
 
 ### 304 Circulars
