@@ -1,5 +1,5 @@
 # Animal Products Act 1999
-_Consolidation as at 2007-12-15_
+_Consolidation as at 2008-04-01_
 
 > An Act to replace the Meat Act 1981 and the Dairy Industry Act 1952, and to reform and restate the law relating to the processing of animal material into products for use, trade, and export
 
@@ -414,7 +414,7 @@ The register of risk management programmes must contain the following particular
     (i) Complies with the requirements imposed by or under this Act; and
     (ii) Ensures that, as far as practicable, the animal product to be produced under the programme will be fit for intended purpose; and
   (b) The applicant is a fit and proper person to operate an animal product business, taking into account whether the applicant or any directors or managers of the business concerned have been convicted, whether in New Zealand or overseas, of any offence relating to fraud or dishonesty, or relating to management control or business activities in respect of businesses of a kind (whether in New Zealand or elsewhere) that are regulated under this Act; and
-  (c) The business, or its operator, is resident in New Zealand within the meaning of section OE 1 or section OE 2 of the Income Tax Act 2004.
+  (c) The business, or its operator, is resident in New Zealand within the meaning of section YD 1 or YD 2 (excluding section YD 2(2)) of the Income Tax Act 2007.
 (1A) Nothing in subsection (1) requires the Director-General to register a risk management programme that purports to apply to a business or part-business of a person other than the applicant if the Director-General has not approved the programme's coverage of that business or part-business under section 17A.
 (2) Registration may be subject to such reasonable conditions as the Director-General may specify, including conditions relating to the commencement of operations under the programme.
 (3) The Director-General must, as soon as practicable after registering a risk management programme, supply the applicant with—
@@ -826,7 +826,7 @@ The register of exporters must contain the following particulars in relation to 
   (c) There are other good grounds for considering that the applicant is likely in the future to fail to comply with the duties specified in section 51; or
   (d) Subsection (3) applies to disqualify the person.
 (3) No person may be registered as an exporter unless—
-  (a) They are a New Zealand resident within the meaning of section OE 1 or section OE 2 of the Income Tax Act 2004; or
+  (a) They are a New Zealand resident within the meaning of section YD 1 or YD 2 (excluding section YD 2(2)) of the Income Tax Act 2007; or
   (b) They have an agent who is a New Zealand resident within the meaning of those sections.
 (4) For the purpose of assessing the matters specified in subsection (2), the Director-General may require an applicant to supply information additional to that contained in the application.
 (5) If the applicant fails to supply the information within 3 months after the request, or within such further time as the Director-General may allow, the application lapses.
