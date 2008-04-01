@@ -1,5 +1,5 @@
 # Insolvency Act 2006
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2008-04-01_
 
 ### 1 Title
 This Act is the Insolvency Act 2006.
@@ -19,13 +19,13 @@ In this Part and Parts 2 to 7, unless the context otherwise requires,—
     (b) a society incorporated under the Incorporated Societies Act 1908:
     (c) a registered society within the meaning of the Industrial and Provident Societies Act 1908:
     (d) a society incorporated or registered overseas that is similar to any society in paragraphs (a) to (c)
-  - **Court** means the High Court
+  - **court** means the High Court
   - **current summary instalment order** has the meaning set out in section 355
   - **document** means a document in any form; and includes—
     (a) any writing on any material; and
     (b) information recorded or stored by means of a tape recorder, computer, or other device; and material subsequently derived from information so recorded or stored; and
     (c) a book, graph, or drawing; and
-    (d) a photograph, film, negative, tape, or other device in which one or more visual images are embodied so as to be capable (with or without the aid of equipment) of being reproduced
+    (d) a photograph, film, negative, tape, or other device in which 1 or more visual images are embodied so as to be capable (with or without the aid of equipment) of being reproduced
   - **goods** has the same meaning as in section 16(1) of the Personal Property Securities Act 1999
   - **Judge** means a Judge of the High Court
   - **lawyer** has the same meaning as in section 6 of the Lawyers and Conveyancers Act 2006
@@ -35,7 +35,7 @@ In this Part and Parts 2 to 7, unless the context otherwise requires,—
   - **prescribed** means prescribed by this Act or by regulations made under this Act or by rules
   - **property** means property of every kind, whether tangible or intangible, real or personal, corporeal or incorporeal, and includes rights, interests, and claims of every kind in relation to property however they arise
   - **provable debt** has the meaning given to it in section 231(1)
-  - **registrar** means a Registrar of the Court; and includes a Deputy Registrar
+  - **Registrar** means a Registrar of the court; and includes a Deputy Registrar
   - **relative** , in relation to any person (), means—
     (a) A's parent, spouse, child, brother, or sister; or
     (b) the parent, child, brother, or sister of A's spouse; or
@@ -55,7 +55,7 @@ This Act does not affect—
     (i) to obtain a judgment of unpaid rates:
     (ii) to enforce payment of rates by selling or leasing the land for which the rates are payable:
   (b) the provisions of the Joint Family Homes Act 1964:
-  (c) except where this Act expressly provides, a secured creditor's power to realise or otherwise deal, with the charge as if this Act had not been passed.
+  (c) except where this Act expressly provides, a secured creditor's power to realise or otherwise deal with the charge as if this Act had not been passed.
 
 ### 5 Act binds the Crown
 This Act binds the Crown.
@@ -96,14 +96,14 @@ A corporation, association, or company incorporated or registered under any Act 
 ### 10 Adjudication
 (1) Adjudication occurs when a debtor is adjudicated bankrupt.
 (2) A debtor is adjudicated bankrupt if either—
-  (a) a creditor of the debtor applies to the Court for an order of adjudication, and the Court makes the order; or
+  (a) a creditor of the debtor applies to the court for an order of adjudication, and the court makes the order; or
   (b) the debtor files an application with the Assignee for adjudication.
 
-### 11 Adjudication by Court
-(1) A Court may adjudicate the debtor bankrupt if—
+### 11 Adjudication by court
+(1) A court may adjudicate the debtor bankrupt if—
   (a) a creditor of the debtor has applied under section 13 for the debtor's adjudication; and
   (b) the debtor has committed an act of bankruptcy.
-(2) The Court's options in dealing with a creditor's application are set out in sections 36 to 44.
+(2) The court's options in dealing with a creditor's application are set out in sections 36 to 44.
 (3) What is an act of bankruptcy is set out in sections 17 to 28.
 
 ### 12 Adjudication on debtor's initiative
@@ -121,10 +121,10 @@ A creditor may apply for a debtor to be adjudicated bankrupt if—
   (d) the debt is payable either immediately or at a date in the future that is certain.
 
 ### 14 Application by secured creditor
-The Court must not make an order of adjudication on the application of a secured creditor unless the creditor has established that the amount of the debt exceeds the value of the charge by at least $1,000.
+The court must not make an order of adjudication on the application of a secured creditor unless the creditor has established that the amount of the debt exceeds the value of the charge by at least $1,000.
 
 ### 15 Court's permission required for withdrawal of application
-A creditor may only withdraw an application for adjudication with the permission of the Court.
+A creditor may only withdraw an application for adjudication with the permission of the court.
 
 **Acts of bankruptcy**
 
@@ -139,14 +139,14 @@ A creditor may only withdraw an application for adjudication with the permission
   (c) the debtor has been served with a bankruptcy notice; and
   (d) the debtor has not, within the time limit specified in subsection (4),—
     (i) complied with the requirements of the notice; or
-    (ii) satisfied the Court that he or she has a cross claim against the creditor.
+    (ii) satisfied the court that he or she has a cross claim against the creditor.
 (2) The form that the bankruptcy notice must take is set out in section 29.
-(3) The debtor must have been served with the bankruptcy notice in New Zealand, unless the Court gave permission for the service of the notice on the debtor outside New Zealand.
+(3) The debtor must have been served with the bankruptcy notice in New Zealand, unless the court gave permission for the service of the notice on the debtor outside New Zealand.
 (4) The time limit referred to in subsection (1)(d) is,—
   (a) if the debtor is served with the bankruptcy notice in New Zealand, 10 working days after service; or
-  (b) if the debtor is served outside New Zealand, the time specified in the order of the Court permitting service outside New Zealand.
+  (b) if the debtor is served outside New Zealand, the time specified in the order of the court permitting service outside New Zealand.
 (5) In this section, a creditor who has obtained a final judgment or a final order includes a person who is for the time being entitled to enforce a final judgment or final order.
-(6) In this section, if a Court has given permission for enforcing an arbitration award that the debtor pay money to the creditor,—
+(6) In this section, if a court has given permission for enforcing an arbitration award that the debtor pay money to the creditor,—
   (a) final order includes the arbitration award; and
   (b) proceedings includes the arbitration proceedings in which the award was made.
 (7) In subsection (1)(d)(ii), cross claim means a counterclaim, set-off, or cross demand that—
@@ -205,7 +205,7 @@ A debtor commits an act of bankruptcy if the debtor notifies any of the debtor's
 A debtor commits an act of bankruptcy if, under an execution process issued against the debtor or the debtor's property, a return is made that sufficient goods and chattels of the debtor could not be found on which to levy the debt.
 
 ### 27 Removal or concealment of property
-A debtor commits an act of bankruptcy if the debtor takes any of the following steps with intent to prejudice his or her creditors, or to give 1 creditor an advantage over another:
+A debtor commits an act of bankruptcy if the debtor takes any of the following steps with intent to prejudice his or her creditors, or to give one creditor an advantage over another:
   (a) removes or attempts to remove any of the debtor's property from any place:
   (b) conceals or attempts to conceal any of his or her property.
 
@@ -222,8 +222,8 @@ A debtor commits an act of bankruptcy if—
   (a) be in the prescribed form; and
   (b) require the debtor, in relation to the judgment debt or the sum ordered to be paid under a final order,—
     (i) to pay the amount owing, plus costs; or
-    (ii) to give security for the amount owing that satisfies the Court or the creditor; or
-    (iii) to compromise the amount owing on terms that satisfy the Court or the creditor; and
+    (ii) to give security for the amount owing that satisfies the court or the creditor; or
+    (iii) to compromise the amount owing on terms that satisfy the court or the creditor; and
   (c) state what are the consequences if the debtor does not comply with the notice; and
   (d) be served on the debtor in the prescribed manner.
 (2) The bankruptcy notice may name an agent to act on behalf of the creditor in so far as the notice requires—
@@ -231,7 +231,7 @@ A debtor commits an act of bankruptcy if—
   (b) any other step to be taken that involves the creditor.
 (3) In this section,—
   (a) creditor includes a person entitled to enforce a final judgment or final order; and
-  (b) final order includes an arbitration award that the debtor pay money to the creditor, if the Court has given permission to enforce the award.
+  (b) final order includes an arbitration award that the debtor pay money to the creditor, if the court has given permission to enforce the award.
 
 ### 30 Effect of overstatement of amount owing
 (1) Overstatement in a bankruptcy notice of the amount owing by the debtor does not invalidate the notice, unless—
@@ -246,16 +246,16 @@ A debtor commits an act of bankruptcy if—
 ### 31 Creditor's execution process must not be issued or continued
 (1) A creditor who applies for a debtor to be adjudicated bankrupt must not issue an execution process against the debtor in respect of the debtor's property or person to recover a debt on which the application is based.
 (2) If the creditor has already issued the execution process, the creditor must not continue it.
-(3) However, the creditor may apply to the Court for permission to issue or continue the execution process, as the case may be.
+(3) However, the creditor may apply to the court for permission to issue or continue the execution process, as the case may be.
 
 ### 32 Execution processes by other creditors
-(1) After a creditor's application for adjudication has been filed, the debtor or any creditor may apply to the Court for an order halting the issue or continuance of an execution process against the debtor in respect of the debtor's property or person by any other creditor.
-(2) On an application under subsection (1), the Court may—
-  (a) halt the execution process, on the terms and conditions (if any) that the Court thinks appropriate; or
-  (b) allow the execution process to continue, on the terms and conditions (if any) that the Court thinks appropriate.
+(1) After a creditor's application for adjudication has been filed, the debtor or any creditor may apply to the court for an order halting the issue or continuance of an execution process against the debtor in respect of the debtor's property or person by any other creditor.
+(2) On an application under subsection (1), the court may—
+  (a) halt the execution process, on the terms and conditions (if any) that the court thinks appropriate; or
+  (b) allow the execution process to continue, on the terms and conditions (if any) that the court thinks appropriate.
 
 ### 33 Execution process issued by another court
-(1) This section applies if an execution process has been issued out of a court (Court 1) other than the Court (Court 2) where the application for adjudication was filed.
+(1) This section applies if an execution process has been issued out of a court (Court 1) other than the court (Court 2) where the application for adjudication was filed.
 (2) If it is proved to Court 1 that an application for the adjudication of the debtor has been filed in Court 2, Court 1 may—
   (a) halt the execution process, subject to the terms and conditions (if any) that Court 1 thinks appropriate; or
   (b) allow the execution process to continue, but on the terms and conditions (if any) that Court 1 thinks appropriate.
@@ -268,8 +268,8 @@ In sections 31 to 34, execution process means any of the following:
   (a) issuing or proceeding with any of the following writs or warrants under a judgment or order obtained against the debtor in any court in its civil jurisdiction (except a judgment or order for possession of any land or building obtained on the ground that the debtor is a trespasser or that the debtor's tenancy has expired):
     (i) a writ or warrant for the possession, seizure, or sale of any property:
     (ii) a writ of attachment:
-  (b) obtaining a garnishee order in favour of a judgment creditor under rule 270 of the District Courts Rules 1948:
-  (c) obtaining an order that a judgment creditor may sue a subdebtor under rule 271(2)(c) of the District Courts Rules 1948;
+  (b) obtaining a garnishee order in favour of a judgment creditor under rule 638 of the District Courts Rules 1992:
+  (c) obtaining an order that a judgment creditor may sue a subdebtor under rule 639(2)(c) of the District Courts Rules 1992:
   (d) having a charging order nisi made absolute under rule 585 of the High Court Rules:
   (e) beginning or continuing proceedings in any court for the appointment of a receiver of any property, except an application for the appointment of the Assignee as receiver and manager under section 50:
   (f) exercising any power of re-entry under a lease, or any power terminating a lease:
@@ -278,25 +278,25 @@ In sections 31 to 34, execution process means any of the following:
 **Court's options when hearing creditor's application**
 
 ### 36 Court may adjudicate debtor bankrupt
-The Court may, at its discretion, adjudicate the debtor bankrupt if the creditor has established the requirements set out in section 13.
+The court may, at its discretion, adjudicate the debtor bankrupt if the creditor has established the requirements set out in section 13.
 
 ### 37 Court may refuse adjudication
-The Court may, at its discretion, refuse to adjudicate the debtor bankrupt if—
+The court may, at its discretion, refuse to adjudicate the debtor bankrupt if—
   (a) the applicant creditor has not established the requirements set out in section 13; or
   (b) the debtor is able to pay his or her debts; or
-  (c) it is just and equitable that the Court does not make an order of adjudication; or
+  (c) it is just and equitable that the court does not make an order of adjudication; or
   (d) for any other reason an order of adjudication should not be made.
 
 ### 38 Court may halt application
-(1) The Court may at any time halt the creditor's application for adjudication.
-(2) The Court may halt the application on the terms and conditions (if any), and for the period, that the Court thinks appropriate.
+(1) The court may at any time halt the creditor's application for adjudication.
+(2) The court may halt the application on the terms and conditions (if any), and for the period, that the court thinks appropriate.
 
 ### 39 Orders if more than 1 application
-(1) If there is more than 1 application for adjudication, and 1 application has been halted by a court order, the Court may, if there is a good reason, make an order of adjudication on the application that has not been halted.
-(2) If the Court makes an order of adjudication under subsection (1), the Court must dismiss the application that has been halted, on the terms and conditions (if any) that the Court thinks appropriate.
+(1) If there is more than 1 application for adjudication, and 1 application has been halted by a court order, the court may, if there is a good reason, make an order of adjudication on the application that has not been halted.
+(2) If the court makes an order of adjudication under subsection (1), the court must dismiss the application that has been halted, on the terms and conditions (if any) that the court thinks appropriate.
 
 ### 40 Orders if more than 1 debtor
-If a creditor's application for adjudication relates to more than 1 debtor, the Court may refuse adjudication of 1 or some of the debtors without affecting the application in relation to the remaining debtor or debtors.
+If a creditor's application for adjudication relates to more than 1 debtor, the court may refuse adjudication of 1 or some of the debtors without affecting the application in relation to the remaining debtor or debtors.
 
 ### 41 Order that disposition or proposal not act of bankruptcy
 (1) This section applies if the debtor—
@@ -304,19 +304,19 @@ If a creditor's application for adjudication relates to more than 1 debtor, the 
   (b) has made a proposal under Part 5; or
   (c) has applied for a summary instalment order under Part 5.
 (2) The debtor or the trustee or any creditor may apply for an order under this section.
-(3) On the application, the Court may make any of the following orders:
+(3) On the application, the court may make any of the following orders:
   (a) order that the disposition or proposal is not an act of bankruptcy:
   (b) halt or refuse the application for adjudication:
   (c) order that any other application for adjudication must not be filed:
-  (d) make any order as to costs that the Court thinks appropriate:
+  (d) make any order as to costs that the court thinks appropriate:
   (e) if it orders that costs must be paid to the creditor who has applied for adjudication, order that the costs must be paid out of the debtor's estate.
-(4) This section does not limit the powers of the Court under section 37.
+(4) This section does not limit the powers of the court under section 37.
 
 ### 42 Halt or refusal of application when judgment under appeal
-(1) This section applies if the creditor's application for adjudication relies on 1 of the following acts of bankruptcy:
+(1) This section applies if the creditor's application for adjudication relies on one of the following acts of bankruptcy:
   (a) the debtor failed to comply with a bankruptcy notice (see section 17):
   (b) a judgment against the debtor for non-payment of trust money is not satisfied within 5 working days after the date of the judgment (see section 28).
-(2) If the debtor has appealed against the judgment or order underlying the bankruptcy notice or the judgment for nonpayment of trust money, as the case may be, and the appeal is still to be decided, then the Court may—
+(2) If the debtor has appealed against the judgment or order underlying the bankruptcy notice or the judgment for nonpayment of trust money, as the case may be, and the appeal is still to be decided, then the court may—
   (a) halt the creditor's application for adjudication; or
   (b) refuse the application.
 
@@ -324,11 +324,11 @@ If a creditor's application for adjudication relates to more than 1 debtor, the 
 (1) This section applies if the debtor appears in opposition to a creditor's application and the debtor says either—
   (a) that he or she does not owe a debt to the creditor; or
   (b) that he or she does owe a debt to the creditor, but the debt is less than $1,000.
-(2) The Court may, instead of refusing the application, halt the application so that the question of whether the debt is owed, or how much of the debt is owed, can be resolved at a trial.
-(3) As a condition of halting the application, the Court may require the debtor to give security to the creditor for any debt that may be established as owing by the debtor to the creditor, and for the costs of establishing the debt.
+(2) The court may, instead of refusing the application, halt the application so that the question of whether the debt is owed, or how much of the debt is owed, can be resolved at a trial.
+(3) As a condition of halting the application, the court may require the debtor to give security to the creditor for any debt that may be established as owing by the debtor to the creditor, and for the costs of establishing the debt.
 
 ### 44 Substitution of creditor
-(1) The Court may substitute another creditor (Creditor 2) for the creditor making the application for adjudication (Creditor 1), if—
+(1) The court may substitute another creditor (Creditor 2) for the creditor making the application for adjudication (Creditor 1), if—
   (a) Creditor 1 has not proceeded with due diligence or at the hearing of the application offers no evidence; and
   (b) the debtor owes Creditor 2 $1,000 or more.
 (2) In that case, Creditor 2 must file another application for adjudication, but can rely on the act of bankruptcy to which Creditor 1's application related.
@@ -344,7 +344,7 @@ A debtor may file an application with the Assignee to have himself or herself ad
 
 ### 47 Debtor automatically adjudicated bankrupt
 (1) A debtor who files an application with the Assignee to have himself or herself adjudicated bankrupt is automatically adjudicated bankrupt when the application is filed.
-(2) That adjudication has the same consequences as if the debtor had been adjudicated bankrupt by the Court.
+(2) That adjudication has the same consequences as if the debtor had been adjudicated bankrupt by the court.
 
 ### 48 Debtors' joint application
 (1) Two or more debtors who are partners in a business partnership may file a joint application.
@@ -358,19 +358,19 @@ A debtor may file an application with the Assignee to have himself or herself ad
 
 ### Subpart 3 — Appointment of receiver
 
-**Power of Court to appoint Assignee as receiver**
+**Power of court to appoint Assignee as receiver**
 
 ### 50 Application for appointment of Assignee as receiver
-(1) After a creditor's application for adjudication has been filed, a creditor of the debtor may apply to the Court for an order appointing the Assignee as receiver and manager of all or part of the debtor's property.
-(2) The Court may make the order at any time before it makes an order of adjudication.
-(3) As part of the order, the Court may authorise the Assignee to take all or any of the following steps:
+(1) After a creditor's application for adjudication has been filed, a creditor of the debtor may apply to the court for an order appointing the Assignee as receiver and manager of all or part of the debtor's property.
+(2) The court may make the order at any time before it makes an order of adjudication.
+(3) As part of the order, the court may authorise the Assignee to take all or any of the following steps:
   (a) take possession of any property:
   (b) sell any perishable property or property that is likely to fall rapidly in value:
-  (c) control the debtor's business or property as directed by the Court.
-(4) An order for the Assignee's control of the debtor's business must be confined to what is necessary, in the Court's opinion, for conserving the debtor's property.
+  (c) control the debtor's business or property as directed by the court.
+(4) An order for the Assignee's control of the debtor's business must be confined to what is necessary, in the court's opinion, for conserving the debtor's property.
 
 ### 51 Additional orders after receiver's appointment
-After the appointment of the Assignee as receiver and manager, the Court may, on an application by a creditor or the Assignee, make additional orders under section 50.
+After the appointment of the Assignee as receiver and manager, the court may, on an application by a creditor or the Assignee, make additional orders under section 50.
 
 ### 52 Appointment of Assignee as receiver and manager must be advertised
 The appointment of the Assignee as receiver and manager of the debtor's property must be advertised in accordance with regulations made under this Act for that purpose.
@@ -378,7 +378,7 @@ The appointment of the Assignee as receiver and manager of the debtor's property
 ### 53 Execution process halted
 (1) A creditor of the debtor must not issue an execution process of the kind referred to in section 35 after the appointment of the Assignee as receiver and manager has been advertised.
 (2) A creditor must not continue an execution process already issued before the advertisement.
-(3) However, a creditor or any other person interested may apply to the Court for an order allowing the issue or continuation of an execution process, and the Court may make an order on the terms and conditions that it thinks appropriate.
+(3) However, a creditor or any other person interested may apply to the court for an order allowing the issue or continuation of an execution process, and the court may make an order on the terms and conditions that it thinks appropriate.
 
 ### 54 Effect when execution process halted
 If the execution process is halted under section 53, then sections 77, 108 to 112, and 115 apply as if the order halting the execution process were an adjudication.
@@ -392,15 +392,15 @@ The bankruptcy commences on the date and at the time when the debtor is adjudica
 
 ### 56 Date of adjudication
 In this Act, date of adjudication means,—
-  (a) if the debtor is adjudicated bankrupt on a creditor's application, the date and time when the Court made the order of adjudication; or
+  (a) if the debtor is adjudicated bankrupt on a creditor's application, the date and time when the court made the order of adjudication; or
   (b) if the debtor is adjudicated bankrupt on the debtor's application, the date and time when the debtor filed the application (see section 49(2)).
 
 ### 57 Date and time of adjudication must be recorded
-(1) If the debtor is adjudicated bankrupt on a creditor's application, the Court must record the date and time when the order was made.
+(1) If the debtor is adjudicated bankrupt on a creditor's application, the court must record the date and time when the order was made.
 (2) If the debtor is adjudicated bankrupt on the debtor's application, the Assignee must record on the application the date and time when the debtor filed the application.
 
-### 58 Registrar must notify Assignee of adjudication by Court
-The registrar must notify the Official Assignee as soon as possible after the Court makes an order of adjudication.
+### 58 Registrar must notify Assignee of adjudication by court
+The Registrar must notify the Official Assignee as soon as possible after the court makes an order of adjudication.
 
 ### 59 Official Assignee must nominate Assignee
 The Official Assignee must nominate an Assignee to be the Assignee of the debtor's property, and may at any time direct that another Assignee is the Assignee of the debtor's property.
@@ -440,7 +440,7 @@ In this Act, a debtor who has been adjudicated bankrupt is called the bankrupt.
 (3) Subsection (1) is subject to section 66.
 
 ### 66 Order that Assignee must not advertise pending appeal or application for annulment
-The Court may order that the Assignee must not advertise the adjudication if the bankrupt has appealed against an order of adjudication or if the bankrupt has applied for an annulment of the adjudication.
+The court may order that the Assignee must not advertise the adjudication if the bankrupt has appealed against an order of adjudication or if the bankrupt has applied for an annulment of the adjudication.
 
 **Bankrupt's statement of affairs**
 
@@ -503,9 +503,9 @@ The Assignee's notice to creditors under section 73(1)(b) must—
 
 **Court proceedings are halted**
 
-### 76 Effect of adjudication on Court proceedings
+### 76 Effect of adjudication on court proceedings
 (1) On adjudication, all proceedings to recover any debt provable in the bankruptcy are halted.
-(2) However, on the application by any creditor or other person interested in the bankruptcy, the Court may allow proceedings that had already begun before the date of adjudication to continue on the terms and conditions that the Court thinks appropriate.
+(2) However, on the application by any creditor or other person interested in the bankruptcy, the court may allow proceedings that had already begun before the date of adjudication to continue on the terms and conditions that the court thinks appropriate.
 
 **Execution process**
 
@@ -541,13 +541,13 @@ The role of the creditors in the bankruptcy is primarily to—
 (3) The Assignee must call the meeting by taking the steps set out in section 71(2) and (3).
 
 ### 82 Meeting and resolution not defective for lack of notice
-A creditors' meeting, and the resolutions passed at the meeting, are valid even if some creditors did not receive the notice of the meeting, unless a Court orders otherwise.
+A creditors' meeting, and the resolutions passed at the meeting, are valid even if some creditors did not receive the notice of the meeting, unless a court orders otherwise.
 
 **Conduct of creditors' meetings**
 
 ### 83 Chairperson
 (1) The chairperson of a creditors' meeting is the Assignee or a person appointed by the Assignee to be the chairperson.
-(2) However, if neither the Assignee nor the person (if any) appointed by the Assignee to be the chairperson attends the meeting, the creditor or creditors may elect 1 of themselves to act as chairperson for the purpose of the meeting, but only if that person is entitled to vote at the meeting.
+(2) However, if neither the Assignee nor the person (if any) appointed by the Assignee to be the chairperson attends the meeting, the creditor or creditors may elect one of themselves to act as chairperson for the purpose of the meeting, but only if that person is entitled to vote at the meeting.
 (3) A person appointed by the Assignee or elected by the creditors to act as chairperson may administer any oath that the Assignee could have administered if the Assignee had attended the meeting.
 
 ### 84 Chairperson may adjourn meeting
@@ -620,7 +620,7 @@ A person who is not a creditor of the bankrupt may attend a creditors' meeting w
 Creditors of the bankrupt who are entitled to vote, or their representatives, may vote at a creditors' meeting, but this rule is qualified by the provisions of sections 95 to 97.
 
 ### 95 When secured creditor may vote
-A debt that is secured does not entitle the creditor to vote unless the creditor has taken 1 of the following steps under this Act:
+A debt that is secured does not entitle the creditor to vote unless the creditor has taken one of the following steps under this Act:
   (a) surrendered the charge; or
   (b) valued the charge; or
   (c) realised the charge.
@@ -650,7 +650,7 @@ The adjudication of a partner in a firm who is indebted to a creditor jointly wi
 (1) A creditors' meeting may pass an ordinary resolution—
   (a) appointing an expert to assist the Assignee in the administration of the bankrupt's estate; and
   (b) providing for the expert's remuneration out of the estate.
-(2) A creditors' meeting may pass an ordinary resolution appointing a committee of any persons to assist the Assignee in the administration of the bankrupt's estate, but in that case the Court must approve any remuneration of the members of the committee out of the estate.
+(2) A creditors' meeting may pass an ordinary resolution appointing a committee of any persons to assist the Assignee in the administration of the bankrupt's estate, but in that case the court must approve any remuneration of the members of the committee out of the estate.
 
 **Documents**
 
@@ -692,10 +692,10 @@ Property held by the bankrupt in trust for another person does not vest in the A
 (2) Sections 101 to 104 do not affect the operation of any other law that prevents any property from vesting in the Assignee.
 
 ### 106 Court may order that money due to bankrupt is assigned to Assignee
-(1) The Court may, on the application of the Assignee, order that any money due to the bankrupt, or any money to become due or payable to the bankrupt, is assigned or charged to, or in favour of, the Assignee.
+(1) The court may, on the application of the Assignee, order that any money due to the bankrupt, or any money to become due or payable to the bankrupt, is assigned or charged to, or in favour of, the Assignee.
 (2) The assignment or charge is a discharge to the person who pays the Assignee.
 
-### 107 Application of section 274 to payments by bankrupt or assignments by Court
+### 107 Application of section 274 to payments by bankrupt or assignments by court
 The Assignee must apply the following payments in accordance with section 274:
   (a) any amount paid by the bankrupt under section 147:
   (b) any amount paid to the Assignee under an order made under section 106.
@@ -734,7 +734,7 @@ The Assignee must apply the following payments in accordance with section 274:
 A purchaser in good faith of a debtor's property, on which execution has been levied and which is sold by the sheriff, acquires a good title to the property as against the Assignee.
 
 ### 112 Court may set aside rights conferred on Assignee
-The Court may set aside the rights conferred on the Assignee under sections 109 and 110 in favour of the execution creditor, to the extent and on the terms and conditions (if any) that the Court thinks appropriate.
+The court may set aside the rights conferred on the Assignee under sections 109 and 110 in favour of the execution creditor, to the extent and on the terms and conditions (if any) that the court thinks appropriate.
 
 **Validity of property transactions with bankrupt**
 
@@ -788,10 +788,10 @@ A disclaimer by the Assignee—
 
 ### 119 Position of person who suffers loss as result of disclaimer
 (1) A person suffering loss or damage as a result of disclaimer by the Assignee may—
-  (a) claim as a creditor in the bankruptcy for the amount of the loss or damage, taking account of the effect of an order made by the Court under paragraph (b):
-  (b) apply to the Court for an order that the disclaimed property be delivered to, or vested in, that person.
+  (a) claim as a creditor in the bankruptcy for the amount of the loss or damage, taking account of the effect of an order made by the court under paragraph (b):
+  (b) apply to the court for an order that the disclaimed property be delivered to, or vested in, that person.
 (2) The bankrupt may also apply for an order that the disclaimed property be delivered to, or vested in, the bankrupt.
-(3) The Court may make an order under subsection (1)(b) or (2) if it is satisfied that it is fair that the property should be delivered to, or vested in, the applicant.
+(3) The court may make an order under subsection (1)(b) or (2) if it is satisfied that it is fair that the property should be delivered to, or vested in, the applicant.
 
 ### 120 Assignee may be required to elect whether to disclaim
 The Assignee loses the right to disclaim if—
@@ -820,7 +820,7 @@ The Assignee loses the right to disclaim if—
   (a) was in possession of the interest at the time of adjudication; and
   (b) remained in possession until discharge from bankruptcy.
 (2) Subsection (1) applies whether or not the Assignee gave a notice under section 122(2)(b).
-(3) However, the Assignee may apply to the Court for an order that the Assignee is entitled, after discharge, to claim the bankrupt's interest in the land, and the Court must have regard to—
+(3) However, the Assignee may apply to the court for an order that the Assignee is entitled, after discharge, to claim the bankrupt's interest in the land, and the court must have regard to—
   (a) the good faith of the bankrupt; and
   (b) the time that has elapsed since adjudication; and
   (c) the value of any improvements made by the bankrupt; and
@@ -852,7 +852,7 @@ The Assignee loses the right to disclaim liability under shares if—
 (2) If that person refuses to accept the transfer or if no person has an interest in them, the Assignee may transfer the shares to the bankrupt if the bankrupt consents, and in that case the bankrupt is entitled as against the Assignee to retain the shares and the proceeds if the bankrupt sells them.
 (3) If the Assignee does not transfer the shares to a person who has an interest in them or to the bankrupt, the board of the company may—
   (a) sell the shares; or
-  (b) with the Court's approval and whatever any other Act may say, cancel the shares as it thinks appropriate.
+  (b) with the court's approval and whatever any other Act may say, cancel the shares as it thinks appropriate.
 (4) The Assignee is a director of the company for the purposes of transferring, selling, or cancelling the shares under this section if—
   (a) immediately before adjudication the bankrupt was a director of the company; and
   (b) the number of directors is less than the minimum number of directors required by law or the company's constitution as a result of the bankrupt's disqualification as a director.
@@ -862,7 +862,7 @@ The Assignee loses the right to disclaim liability under shares if—
 (2) The company may prove in the bankruptcy for—
   (a) the amount of unpaid calls made before adjudication in respect of the bankrupt's shares; and
   (b) the value of calls to be made in respect of the bankrupt's shares within 1 year after adjudication.
-(3) The Court must determine the value of the calls to be made if the Assignee and the company cannot agree.
+(3) The court must determine the value of the calls to be made if the Assignee and the company cannot agree.
 
 **Consumer goods on hire purchase**
 
@@ -911,8 +911,8 @@ In sections 130 to 133,—
 ### 134 Status of bankrupt's property on second bankruptcy
 (1) Notwithstanding section 102, the rules in subsections (2) to (4) apply if a bankrupt, before discharge, is adjudicated bankrupt for a second time.
 (2) Property that is acquired by, or has passed to, the bankrupt since the first adjudication, including property acquired or that has passed since the second adjudication, vests in the Assignee in the second bankruptcy.
-(3) However, the Court may, if it thinks it appropriate, order that all or part of the following assets or their proceeds vest in the Assignee in the first bankruptcy:
-  (a) assets in the second bankruptcy that, in the Court's opinion, were acquired independently of the creditors in the second bankruptcy:
+(3) However, the court may, if it thinks it appropriate, order that all or part of the following assets or their proceeds vest in the Assignee in the first bankruptcy:
+  (a) assets in the second bankruptcy that, in the court's opinion, were acquired independently of the creditors in the second bankruptcy:
   (b) assets in the second bankruptcy that devolved upon the bankrupt.
 (4) A surplus in the second bankruptcy is an asset in the estate in the first bankruptcy, and must be paid to the Assignee in the first bankruptcy.
 
@@ -955,8 +955,8 @@ The bankrupt must as soon as practicable after acquisition notify the Assignee o
 (1) The bankrupt must take all the steps (including the steps specified in subsection (2)) in relation to the bankrupt's property, and the distribution of the proceeds to the creditors, that are—
   (a) required by the Assignee; or
   (b) prescribed by rules or regulations made under this Act; or
-  (c) directed to be done by the Court by an order made in reference to a particular bankruptcy; or
-  (d) directed to be done by the Court on an application by the Assignee or a creditor.
+  (c) directed to be done by the court by an order made in reference to a particular bankruptcy; or
+  (d) directed to be done by the court on an application by the Assignee or a creditor.
 (2) The steps referred to in subsection (1) include the execution by the bankrupt of powers of attorney, conveyances, transfers, deeds, assurances, and instruments.
 
 **Duties to provide information**
@@ -1001,8 +1001,8 @@ The bankrupt must immediately notify the Assignee of any change in the bankrupt'
 (3) Before the Assignee may require the bankrupt to make the payment or payments, the Assignee must—
   (a) have regard to all the circumstances of the bankruptcy and the bankrupt's conduct, earning power, responsibilities, and prospects; and
   (b) make reasonable allowance for the maintenance of the bankrupt and his or her relatives and dependants.
-(4) The Court may, on the application of the Assignee, order the bankrupt to pay the amount or amounts required by the Assignee.
-(5) The Court may, on the application of the Assignee, the bankrupt, or any creditor,—
+(4) The court may, on the application of the Assignee, order the bankrupt to pay the amount or amounts required by the Assignee.
+(5) The court may, on the application of the Assignee, the bankrupt, or any creditor,—
   (a) vary, suspend, or cancel the bankrupt's obligations to make the payments under this section:
   (b) vary, suspend, or discharge any order made under subsection (4):
   (c) remit any arrears owing by the bankrupt.
@@ -1011,14 +1011,14 @@ The bankrupt must immediately notify the Assignee of any change in the bankrupt'
 If the bankrupt defaults in making a payment required under section 147, the onus is on the bankrupt in any proceedings arising out of the default to show that the default was not wilful.
 
 ### 149 Prohibition of bankrupt entering business
-(1) An undischarged bankrupt must not, without the consent of the Assignee or the Court, either directly or indirectly,—
+(1) An undischarged bankrupt must not, without the consent of the Assignee or the court, either directly or indirectly,—
   (a) enter into, carry on, or take part in the management or control of any business:
   (b) be employed by a relative of the bankrupt:
   (c) be employed by a company, trust, trustee, or incorporated society that is owned, managed, or controlled by a relative of the bankrupt.
 (2) Nothing in this section restricts section 151 of the Companies Act 1993.
 
 ### 150 Warrant to search for and seize bankrupt's property
-(1) The Court may issue a search warrant to the Assignee or any other person if there is reason to believe that any relevant property is concealed in a locality.
+(1) The court may issue a search warrant to the Assignee or any other person if there is reason to believe that any relevant property is concealed in a locality.
 (2) The warrant may authorise the Assignee or other person named in the warrant, together with any assistants that may be necessary, to—
   (a) enter and search the locality; and
   (b) seize and take possession of any relevant property; and
@@ -1031,7 +1031,7 @@ If the bankrupt defaults in making a payment required under section 147, the onu
     (b) any document relating to the bankrupt's property, conduct, or dealings.
 
 ### 151 Seizure of bankrupt's property
-(1) If authorised by a warrant issued by the Court, the Assignee or any other person, together with any assistants that may be necessary,—
+(1) If authorised by a warrant issued by the court, the Assignee or any other person, together with any assistants that may be necessary,—
   (a) may seize any part of the bankrupt's property in the custody or possession of the bankrupt or of any other person; and
   (b) with a view to seizing the bankrupt's property, may—
     (i) break open any building or room of the bankrupt where the bankrupt is believed to be; and
@@ -1083,7 +1083,7 @@ If the bankrupt defaults in making a payment required under section 147, the onu
   (a) as soon as possible, notify the Assignee of any account that the customer holds with the bank; and
   (b) not pay any money out of the account, unless subsection (2) applies.
 (2) The bank may pay money out of the account if—
-  (a) the bank is authorised by an order of the Court or instructed by the Assignee to do so; or
+  (a) the bank is authorised by an order of the court or instructed by the Assignee to do so; or
   (b) the bank has notified the Assignee of the account and has not, within 1 month of notification, received any instructions from the Assignee.
 (3) At the same time that the bank notifies the Assignee under subsection (1)(a), the bank must as soon as possible notify the customer that it has notified the Assignee.
 
@@ -1115,7 +1115,7 @@ The retention of an asset by the bankrupt under section 158 or 159 does not affe
 The fact that the net value of the assets that the bankrupt retains is less than the maximum values specified in section 158 does not give the bankrupt rights in relation to other assets in the bankrupt's estate.
 
 ### 162 Relative or dependant may exercise bankrupt's right to retain assets
-If the bankrupt has died, a relative or dependant of the bankrupt, who has been approved by the Assignee or the Court for this purpose, may exercise the right to retain assets under section 158 or 159 for the benefit of the bankrupt's relatives and dependants.
+If the bankrupt has died, a relative or dependant of the bankrupt, who has been approved by the Assignee or the court for this purpose, may exercise the right to retain assets under section 158 or 159 for the benefit of the bankrupt's relatives and dependants.
 
 ### 163 Assignee may make allowance to bankrupt
 The Assignee may make an allowance out of the property of the bankrupt to the bankrupt or any relative or dependant of the bankrupt for the support of the bankrupt and his or her relatives and dependants.
@@ -1124,7 +1124,7 @@ The Assignee may make an allowance out of the property of the bankrupt to the ba
 (1) The Assignee may allow the bankrupt to retain, for the immediate maintenance of the bankrupt and his or her relatives and dependants, any money up to a maximum of $1,000 that the bankrupt has in the bankrupt's possession or in a bank account at the time of adjudication.
 (2) The Governor-General may, by Order in Council, amend subsection (1) by increasing the maximum amount that the Assignee may allow the bankrupt to retain, to take account of any rise in the Consumer Price Index.
 
-### Subpart 5 — Powers of Assignee and Court to examine bankrupt and others
+### Subpart 5 — Powers of Assignee and court to examine bankrupt and others
 
 **Examination of persons summoned by Assignee**
 
@@ -1146,8 +1146,8 @@ The Assignee may make an allowance out of the property of the bankrupt to the ba
 (1) The Assignee or District Court Judge before whom a person (A) is summoned to appear under section 165 may examine A on oath.
 (2) The examination must be recorded in writing, and A must sign the written record if required to do so.
 (3) If A does not appear at the appointed time and has no reasonable excuse,—
-  (a) the District Court Judge or the Court may, on the Assignee's application, by warrant, have A arrested and brought for examination by the Court; and
-  (b) the Court may order A to pay all the expenses arising out of A's arrest and examination before the Court, if the Court thinks that A's evidence was necessary for the purposes of the bankrupt's estate.
+  (a) the District Court Judge or the court may, on the Assignee's application, by warrant, have A arrested and brought for examination by the court; and
+  (b) the court may order A to pay all the expenses arising out of A's arrest and examination before the court, if the court thinks that A's evidence was necessary for the purposes of the bankrupt's estate.
 
 ### 167 Expenses of person summoned by Assignee
 A person who is summoned by the Assignee for examination—
@@ -1155,13 +1155,13 @@ A person who is summoned by the Assignee for examination—
   (b) does not default in attending if those expenses have not been paid or tendered to him or her before the examination.
 
 ### 168 Creditor may inspect record of examination
-A creditor or his or her lawyer may at any reasonable time inspect the record of the examination of a person by a District Court Judge or by the Court under section 166.
+A creditor or his or her lawyer may at any reasonable time inspect the record of the examination of a person by a District Court Judge or by the court under section 166.
 
-### 169 Report of examination must not be published unless Court consents
-(1) A person must not, without the Court's permission under subsection (2), publish a report of—
+### 169 Report of examination must not be published unless court consents
+(1) A person must not, without the court's permission under subsection (2), publish a report of—
   (a) any examination of a person summoned by the Assignee; or
   (b) any matter arising in the course of that examination.
-(2) On the Assignee's application, the Court may permit publication of a report under the conditions that the Court imposes.
+(2) On the Assignee's application, the court may permit publication of a report under the conditions that the court imposes.
 (3) A person who contravenes subsection (1) commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $5,000 or both.
 
 ### 170 Examination provisions also apply when Assignee appointed receiver and manager of debtor's property
@@ -1183,12 +1183,12 @@ In addition to the power contained in section 165(1)(b), the Assignee may, by no
 **Bankrupt's public examination**
 
 ### 173 Court must hold public examination if Assignee or creditors require
-(1) The Court must hold a public examination of the bankrupt if, before an absolute order for the bankrupt's discharge is made, there is filed with the Court either a statement by the Assignee, or a copy of a creditors' ordinary resolution, that the bankrupt should be publicly examined.
+(1) The court must hold a public examination of the bankrupt if, before an absolute order for the bankrupt's discharge is made, there is filed with the court either a statement by the Assignee, or a copy of a creditors' ordinary resolution, that the bankrupt should be publicly examined.
 (2) The copy of the resolution must be certified by the Assignee or the chairperson of the meeting at which it was passed.
 
 ### 174 Notice of examination
 (1) If a public examination of the bankrupt is required, the Assignee must serve the bankrupt with a notice that states—
-  (a) that the Assignee's statement or the creditors' resolution has been filed with the Court; and
+  (a) that the Assignee's statement or the creditors' resolution has been filed with the court; and
   (b) that the bankrupt is required to be publicly examined; and
   (c) the time and place of the examination.
 (2) At least 5 working days before the examination, the Assignee must—
@@ -1196,36 +1196,36 @@ In addition to the power contained in section 165(1)(b), the Assignee may, by no
   (b) send a notice of the examination to each creditor.
 
 ### 175 Time for holding examination
-The Court must hold the public examination of the bankrupt as soon as practicable, but not before 5 working days have elapsed after the Assignee has sent the bankrupt a notice under section 174.
+The court must hold the public examination of the bankrupt as soon as practicable, but not before 5 working days have elapsed after the Assignee has sent the bankrupt a notice under section 174.
 
 ### 176 Assignee must file report before examination
-Before the public examination of the bankrupt, the Assignee must file in the Court a report on—
+Before the public examination of the bankrupt, the Assignee must file in the court a report on—
   (a) the bankrupt's estate; and
   (b) the bankrupt's conduct; and
-  (c) all other matters of which the Court should be informed.
+  (c) all other matters of which the court should be informed.
 
 ### 177 Conduct of examination
 (1) The bankrupt must attend the examination, and may be examined as to the bankrupt's conduct, dealings, and property.
-(2) The bankrupt must be examined on oath and must answer all questions that the Court asks the bankrupt, or allows the bankrupt to be asked.
+(2) The bankrupt must be examined on oath and must answer all questions that the court asks the bankrupt, or allows the bankrupt to be asked.
 (3) The following persons may examine the bankrupt:
   (a) the Assignee, or counsel for the Assignee:
   (b) any creditor who has proved a claim, or counsel for that creditor.
 (4) The bankrupt is not entitled to notice beforehand of who will ask the questions or what the questions will be.
 
 ### 178 Record of examination
-(1) The examination must be recorded in writing as the Court directs.
+(1) The examination must be recorded in writing as the court directs.
 (2) The record of the examination must be—
   (a) read over to, and signed by, the bankrupt; and
   (b) available for inspection by any creditor or that creditor's lawyer at all reasonable times.
 
 ### 179 When examination ends
-(1) The public examination of a bankrupt ends when the Court makes an order that the examination is ended.
-(2) The Court must not make an order that the examination is ended unless it is satisfied that the bankrupt's conduct, dealings, and property have been sufficiently investigated and that the investigation is finished.
+(1) The public examination of a bankrupt ends when the court makes an order that the examination is ended.
+(2) The court must not make an order that the examination is ended unless it is satisfied that the bankrupt's conduct, dealings, and property have been sufficiently investigated and that the investigation is finished.
 
 ### 180 Bankrupt's failure to attend examination
 If the bankrupt does not appear for the examination at the appointed time and has no reasonable excuse,—
-  (a) a District Court Judge or the Court may, on the Assignee's application, by warrant, cause the bankrupt to be arrested and brought up for examination by the Court; and
-  (b) the Court may order the bankrupt to pay all the expenses arising out of the arrest and examination before the Court, if the Court thinks that the bankrupt's evidence was necessary for the purposes of the bankrupt's estate.
+  (a) a District Court Judge or the court may, on the Assignee's application, by warrant, cause the bankrupt to be arrested and brought up for examination by the court; and
+  (b) the court may order the bankrupt to pay all the expenses arising out of the arrest and examination before the court, if the court thinks that the bankrupt's evidence was necessary for the purposes of the bankrupt's estate.
 
 ### 181 Bankrupt's expenses in attending examination
 (1) A bankrupt who attends a public examination is entitled to be paid the prescribed expenses of attending.
@@ -1234,7 +1234,7 @@ If the bankrupt does not appear for the examination at the appointed time and ha
 **Investigation of company controlled by bankrupt and associate**
 
 ### 182 Assignee may examine company documents, personnel, and shareholders
-(1) If authorised by the Court, the Assignee or a person appointed by the Assignee may exercise the powers set out in subsection (2) in relation to a company that is deemed to be controlled by the bankrupt and an associate or associates according to the criteria listed in section OD 1 of the Income Tax Act 2004.
+(1) If authorised by the court, the Assignee or a person appointed by the Assignee may exercise the powers set out in subsection (2) in relation to a company that is deemed to be controlled by the bankrupt and an associate or associates according to the criteria listed in section YC 1 of the Income Tax Act 2007.
 (2) The Assignee may—
   (a) examine the documents of the company:
   (b) examine any past or present director, employee, or shareholder of the company on oath about the company's affairs.
@@ -1251,7 +1251,7 @@ In section 182, associate means any of the following:
 **Privilege and representation of persons examined**
 
 ### 184 No privilege against self-incrimination
-(1) A person who is examined or questioned under any power under this Act must answer all questions relating to the bankrupt' s conduct, dealings, and property.
+(1) A person who is examined or questioned under any power under this Act must answer all questions relating to the bankrupt's conduct, dealings, and property.
 (2) A person is not excused from answering a question because the question may incriminate or tend to incriminate that person.
 
 ### 185 Statement made by person examined or questioned not generally admissible in criminal proceedings against that person
@@ -1275,7 +1275,7 @@ If the bankrupt is a party to a contract, the Assignee may—
 
 ### 188 Contract terminated by other contracting party
 (1) This section applies if a contract to which the bankrupt is a party is terminated on the bankrupt's adjudication by the other contracting party in accordance with the contract.
-(2) Whatever the contract may say, the Assignee may recover an amount from the other contracting party that the Court thinks is just and equitable in all the circumstances, but the amount must not be greater than the amount set out in subsection (3).
+(2) Whatever the contract may say, the Assignee may recover an amount from the other contracting party that the court thinks is just and equitable in all the circumstances, but the amount must not be greater than the amount set out in subsection (3).
 (3) The amount that the Assignee may recover must not be greater than C under the formula A − B = C, where—
   (a) A is the amount payable to the bankrupt under the contract; and
   (b) B is the total of—
@@ -1294,7 +1294,7 @@ If the bankrupt is a party to a contract, the Assignee may—
   (e) to the order of an assignee from B or C.
 (2) The payment or delivery is a good discharge to A if—
   (a) the payment or delivery was made before the adjudication of B or C, as the case may be, was advertised; and
-  (b) A satisfies the Court that—
+  (b) A satisfies the court that—
     (i) A had no knowledge of the adjudication or that an application for adjudication had been filed; and
     (ii) the payment or delivery was made in the ordinary course of business or was otherwise made in good faith.
 
@@ -1404,7 +1404,7 @@ A gift that is made within 2 years immediately before the bankrupt's adjudicatio
   (c) an insolvent gift:
   (d) a disposition of property to which subpart 6 of Part 6 (setting aside of dispositions that prejudice creditors) of the Property Law Act 2007 applies.
 (2) The Assignee who wishes to cancel an irregular transaction to which this section applies must—
-  (a) file a notice with the Court that meets the requirements set out in subsection (3); and
+  (a) file a notice with the court that meets the requirements set out in subsection (3); and
   (b) serve the notice on—
     (i) the other party to the transaction; and
     (ii) any other party from whom the Assignee intends to recover.
@@ -1416,20 +1416,20 @@ A gift that is made within 2 years immediately before the bankrupt's adjudicatio
   (e) state that the person named in the notice may object to the cancellation of the transaction by sending to the Assignee a written notice of objection that is received by the Assignee at his or her postal, email, or street address within 20 working days after the Assignee's notice has been served on that person; and
   (f) state that the written notice of objection must contain the reasons for objecting; and
   (g) state that the transaction will be cancelled as against the person named in the notice if that person does not object; and
-  (h) state that if the person named in the notice does object, the Assignee may apply to the Court for the transaction to be cancelled.
+  (h) state that if the person named in the notice does object, the Assignee may apply to the court for the transaction to be cancelled.
 (4) The irregular transaction is automatically cancelled as against the person on whom the Assignee has served the Assignee's notice, if that person has not objected by sending to the Assignee a written notice of objection that is received by the Assignee at his or her postal, email, or street address within 20 working days after the Assignee's notice has been served on that person.
 (5) The notice of objection must state the reasons for objecting.
-(6) An irregular transaction that is not automatically cancelled may still be cancelled by the Court on the Assignee's application.
+(6) An irregular transaction that is not automatically cancelled may still be cancelled by the court on the Assignee's application.
 
 ### 207 Court may order retransfer of property or payment of value
-(1) On the cancellation of an irregular transaction under which property of the bankrupt, or an interest in property of the bankrupt, was transferred the Court may make an order for—
+(1) On the cancellation of an irregular transaction under which property of the bankrupt, or an interest in property of the bankrupt, was transferred the court may make an order for—
   (a) the retransfer to the Assignee of the property or interest in the property; or
-  (b) payment to the Assignee of a sum of money that the Court thinks appropriate, but the sum must not be greater than the value of the property or interest in the property when the transaction was cancelled.
-(2) The Court may make any other order for the purpose of giving effect to an order under subsection (1).
+  (b) payment to the Assignee of a sum of money that the court thinks appropriate, but the sum must not be greater than the value of the property or interest in the property when the transaction was cancelled.
+(2) The court may make any other order for the purpose of giving effect to an order under subsection (1).
 (3) An order under subsection (1) is in addition to any other rights and remedies available to the Assignee, and this section does not restrict those rights.
 
 ### 208 Limits on recovery
-The Court must not make an order under section 207 against a person (A) if A proves that when A received the property or interest in the property—
+The court must not make an order under section 207 against a person (A) if A proves that when A received the property or interest in the property—
   (a) A acted in good faith; and
   (b) a reasonable person in A's position would not have suspected, and A did not have reasonable grounds for suspecting, that the bankrupt was, or would become, unable to pay his or her due debts; and
   (c) A gave value for the property or interest in the property or altered A's position in the reasonably held belief that the transfer of the property or interest in the property to A was valid and would not be cancelled.
@@ -1458,8 +1458,8 @@ The Assignee may recover the difference in value (that is, C in the formula in s
 **Bankrupt's contribution to another person's property**
 
 ### 213 Court may order recipient to pay value to Assignee
-(1) On the application of the Assignee, the Court may order the recipient of a contribution by the bankrupt to the recipient's property to pay the value of the contribution to the Assignee.
-(2) The Court may make the order if—
+(1) On the application of the Assignee, the court may order the recipient of a contribution by the bankrupt to the recipient's property to pay the value of the contribution to the Assignee.
+(2) The court may make the order if—
   (a) the bankrupt was not paid an adequate amount in money or money's worth for the contribution; and
   (b) the value of the bankrupt's assets was reduced by the contribution; and
   (c) the bankrupt made the contribution—
@@ -1469,14 +1469,14 @@ The Assignee may recover the difference in value (that is, C in the formula in s
   (a) erected buildings on, or otherwise improved, land or any other property of the recipient; or
   (b) bought land or any other property in the recipient's name; or
   (c) provided money to buy land or any other property in the recipient's name or on the recipient's behalf; or
-  (d) paid instalments for the purchase of, or towards the purchase of, land or any other property in the recipient' s name or on the recipient's behalf.
+  (d) paid instalments for the purchase of, or towards the purchase of, land or any other property in the recipient's name or on the recipient's behalf.
 
 ### 214 Court's powers in relation to bankrupt's contribution to recipient's property
-(1) The Court may ascertain the value of the bankrupt's contribution (including any payments of legal expenses, interest, rates, and other expenses or charges) for the purposes of section 213, and order the recipient to pay it to the Assignee.
-(2) The Court may order the recipient to pay less than the value of the contribution, or refuse to order the recipient to pay anything, if—
+(1) The court may ascertain the value of the bankrupt's contribution (including any payments of legal expenses, interest, rates, and other expenses or charges) for the purposes of section 213, and order the recipient to pay it to the Assignee.
+(2) The court may order the recipient to pay less than the value of the contribution, or refuse to order the recipient to pay anything, if—
   (a) the recipient acted in good faith and has altered the recipient's position in the reasonably held belief that the bankrupt's contribution was valid and that the recipient would not be liable to repay it in full or in part; or
-  (b) in the Court's opinion, it is unfair that the recipient should repay all or part of the contribution.
-(3) If the Court orders that the recipient must repay the bankrupt's contribution, the Court may also (in the same or a subsequent order)—
+  (b) in the court's opinion, it is unfair that the recipient should repay all or part of the contribution.
+(3) If the court orders that the recipient must repay the bankrupt's contribution, the court may also (in the same or a subsequent order)—
   (a) direct the Assignee to sell the whole or part of the relevant property, and to convey or transfer it to the buyer; and
   (b) make vesting and other orders that are necessary for the sale and conveyance or transfer of the property.
 
@@ -1515,15 +1515,15 @@ The title of a purchaser of the bankrupt's property from the Assignee under a do
 (2) The Assignee may invest money that is not immediately required to be paid out in the administration of a particular estate in an investment of a type approved by the Auditor-General, and must credit to that estate the interest or dividends that accrue on the investment.
 
 ### 221 Assignee may assign right to sue under this Act
-(1) The Assignee may, if the Court has first approved it, assign any right to sue that is conferred on the Assignee by this Act.
+(1) The Assignee may, if the court has first approved it, assign any right to sue that is conferred on the Assignee by this Act.
 (2) The application for approval may be—
   (a) made by the Assignee or the person to whom it is proposed to assign the right to sue; and
   (b) opposed by a person who is a defendant to the Assignee's action, if already begun, or a proposed defendant.
 
 ### 222 Proceedings by Assignee when bankrupt is partner in business partnership
-(1) If a member of a business partnership is adjudicated bankrupt, the Court may authorise the Assignee to bring a proceeding in the names of the Assignee and the bankrupt's partner (P).
+(1) If a member of a business partnership is adjudicated bankrupt, the court may authorise the Assignee to bring a proceeding in the names of the Assignee and the bankrupt's partner (P).
 (2) The Assignee must serve notice on P of the application for authority to bring the proceeding, and P may oppose the application.
-(3) P may apply to the Court for a direction that—
+(3) P may apply to the court for a direction that—
   (a) P must be paid P's proper share of the proceeds of the proceeding; or
   (b) P must be indemnified by the Assignee against any costs incurred in the proceeding, on the condition that P does not claim any benefit from the proceeding.
 (4) Any release by P of the debt or demand to which the proceeding relates is void.
@@ -1544,26 +1544,26 @@ Any requirement under this Act that the Assignee give notice to a creditor is sa
 
 ### 224 Assignee's discretion
 (1) The Assignee may use his or her own discretion in the administration of the bankrupt's property, but must have regard to the resolutions of the creditors at creditors' meetings.
-(2) The Assignee or a creditor may apply to the Court for directions if the Assignee or creditor believes that a resolution of the creditors—
+(2) The Assignee or a creditor may apply to the court for directions if the Assignee or creditor believes that a resolution of the creditors—
   (a) conflicts with this Act or any legal rule; or
   (b) is unjust or unfair.
 
-### 225 Assignee may apply for directions by Court
-(1) The Assignee may apply to the Court for directions on any question concerning the operation of this Act.
-(2) An Assignee who acts under a direction of the Court discharges his or her duty in relation to the question for which a direction was sought, and it does not matter that subsequently the direction is invalidated, overruled, or set aside or becomes ineffective.
-(3) However, the Assignee is not protected by subsection (2) if, in obtaining or following the Court's direction, the Assignee was guilty of—
+### 225 Assignee may apply for directions by court
+(1) The Assignee may apply to the court for directions on any question concerning the operation of this Act.
+(2) An Assignee who acts under a direction of the court discharges his or her duty in relation to the question for which a direction was sought, and it does not matter that subsequently the direction is invalidated, overruled, or set aside or becomes ineffective.
+(3) However, the Assignee is not protected by subsection (2) if, in obtaining or following the court's direction, the Assignee was guilty of—
   (a) fraud; or
   (b) deliberate concealment or misrepresentation.
 
 ### 226 Appeal from Assignee's decision
-(1) A person (including the bankrupt or a creditor) whose interests, monetary or otherwise, are detrimentally affected by an act or decision to which this section applies may apply to the Court to reverse or modify the act or decision.
+(1) A person (including the bankrupt or a creditor) whose interests, monetary or otherwise, are detrimentally affected by an act or decision to which this section applies may apply to the court to reverse or modify the act or decision.
 (2) This section applies to—
   (a) an act or decision of the Assignee; or
   (b) a decision of a District Court Judge in carrying out an examination under section 165.
 (3) The application must be made—
   (a) within 15 working days of the act or decision; or
-  (b) within the additional time that the Court allows.
-(4) The Court may confirm, reverse, or modify the act or decision.
+  (b) within the additional time that the court allows.
+(4) The court may confirm, reverse, or modify the act or decision.
 (5) A creditor who is aggrieved by a decision of the Assignee rejecting the creditor's claim may make an application under section 239.
 
 **Assignee's accounting records**
@@ -1571,7 +1571,7 @@ Any requirement under this Act that the Assignee give notice to a creditor is sa
 ### 227 Assignee must keep proper accounting records
 (1) Every Assignee must—
   (a) keep proper accounting records for each bankruptcy, in the prescribed form; and
-  (b) verify those records by statutory declaration, when required by the Court.
+  (b) verify those records by statutory declaration, when required by the court.
 (2) A creditor or any person who has an interest may inspect the Assignee's accounting records for a particular bankruptcy.
 
 ### 228 Assignee's final statement of receipts and payments
@@ -1614,11 +1614,11 @@ After 1 year after the discharge of the bankrupt, the Assignee may dispose of th
 **Procedure for proving debt**
 
 ### 233 Creditor must submit creditor's claim form
-(1) A creditor, including a creditor who has a preferential claim, who wishes to claim in the bankruptcy must submit a creditor's claim four to the Assignee within the specified time.
+(1) A creditor, including a creditor who has a preferential claim, who wishes to claim in the bankruptcy must submit a creditor's claim form to the Assignee within the specified time.
 (2) In subsection (1), specified time means the time for submitting the claim form that is specified by the Assignee by notice to the creditor or that is specified by the Assignee by advertisement in the prescribed manner.
 (3) The claim form must comply with the prescribed formalities.
 (4) A creditor must submit the claim form in accordance with the prescribed procedure.
-(5) The creditor must bear the costs of proving the debt, unless the Court makes an order as to the creditor's costs under section 242.
+(5) The creditor must bear the costs of proving the debt, unless the court makes an order as to the creditor's costs under section 242.
 (6) The creditor may amend or withdraw the claim form, but an amended form must comply with the formalities prescribed for the original claim form.
 
 **Role of Assignee in examining creditor's claim form**
@@ -1638,9 +1638,9 @@ If the Assignee rejects a creditor's claim, or part of it, the Assignee must as 
   (a) a person who has submitted a creditor's claim:
   (b) a person who has made a declaration or statement as part of a creditor's claim:
   (c) a person who is capable of giving evidence concerning a creditor's claim or the debt to which the claim relates.
-(2) If a person (A) who has been summoned under this section fails to attend, or attends but refuses to be sworn or give evidence, and has no reasonable excuse, the Court may—
-  (a) on the Assignee's application, by warrant have A arrested and brought for examination by the Court; and
-  (b) order A to pay all the expenses arising out of A's arrest and examination, if the Court thinks that A's evidence was necessary for deciding whether the creditor's claim in question should be admitted or rejected.
+(2) If a person (A) who has been summoned under this section fails to attend, or attends but refuses to be sworn or give evidence, and has no reasonable excuse, the court may—
+  (a) on the Assignee's application, by warrant have A arrested and brought for examination by the court; and
+  (b) order A to pay all the expenses arising out of A's arrest and examination, if the court thinks that A's evidence was necessary for deciding whether the creditor's claim in question should be admitted or rejected.
 
 ### 237 Notice to Assignee to admit or reject creditor's claim
 (1) The bankrupt or any creditor may give the Assignee notice to admit or reject a creditor's claim.
@@ -1691,7 +1691,7 @@ On an application under section 237, 238, or 239, the court hearing the applicat
 
 ### 244 Assignee may require secured creditor to choose option
 (1) The Assignee may at any time, by notice in writing, require a secured creditor, within 20 working days after receipt of the notice, to—
-  (a) choose 1 of the options in section 243(1); and
+  (a) choose one of the options in section 243(1); and
   (b) if the creditor chooses Option 2 or Option 3, exercise that option within the 20-working day period.
 (2) A secured creditor who has been served with a notice under subsection (1) and fails to comply—
   (a) is treated as having surrendered the charge to the Assignee under Option 3 in section 243(1) for the general benefit of the creditors; and
@@ -1736,7 +1736,7 @@ The Assignee may, but is not required to, carry out any duty or exercise any pow
 
 ### 250 Secured creditor who surrenders charge may withdraw surrender or submit new creditor's claim
 (1) This section applies to a secured creditor who has surrendered a charge under Option 3 in section 243(1)(c) or under section 244(2).
-(2) The creditor may, with the leave of the Court or the Assignee and subject to the terms and conditions that the Court or the Assignee imposes,—
+(2) The creditor may, with the leave of the court or the Assignee and subject to the terms and conditions that the court or the Assignee imposes,—
   (a) withdraw the surrender and rely on the charge; or
   (b) submit a new creditor's claim under section 243(1)(c) or 244(2)(b).
 (3) Subsection (2) does not apply if the Assignee has already realised the property subject to the charge.
@@ -1746,8 +1746,8 @@ The Assignee may, but is not required to, carry out any duty or exercise any pow
 ### 251 Assignee may estimate amount of uncertain creditor's claim
 If a creditor's claim is subject to a contingency or is for damages, or if, for some other reason, the amount of the claim is uncertain, the Assignee may estimate the amount of the claim.
 
-### 252 Application to Court to determine amount of uncertain creditor's claim
-The Court must determine the amount of an uncertain creditor's claim on the application of—
+### 252 Application to court to determine amount of uncertain creditor's claim
+The court must determine the amount of an uncertain creditor's claim on the application of—
   (a) the Assignee, if the Assignee chooses not to estimate the amount:
   (b) a creditor, if the Assignee has estimated the amount and the creditor is aggrieved by the estimate.
 
@@ -1770,9 +1770,9 @@ The Court must determine the amount of an uncertain creditor's claim on the appl
 **Set-off under netting agreement**
 
 ### 255 Definitions relating to set-off under netting agreement
-In this section and in sections 256 to 263, unless the context otherwise requires,—but does not include any bilateral netting agreement that is part of a multilateral netting agreement
+In this section and in sections 256 to 263, unless the context otherwise requires,—
   - **Bank** means the Reserve Bank of New Zealand
-  - **bilateral netting agreement** means an agreement that provides in respect of 2 transactions between 2 persons to which the agreement applies—
+  - **bilateral netting agreement** means an agreement that provides in respect of 2 transactions between 2 persons to which the agreement applies—but does not include any bilateral netting agreement that is part of a multilateral netting agreement
     (a) that on the occurrence of an event specified in the agreement, all or any of those transactions must (or may, at the option of a party) be terminated and—
       (i) an account must be taken of all money due between the parties in respect of the terminated transactions; and
       (ii) all obligations in respect of that money must be satisfied by payment of the net amount due from or on behalf of the party having a net debit to or on behalf of the party having a net credit; or
@@ -1788,7 +1788,7 @@ In this section and in sections 256 to 263, unless the context otherwise require
   - **recognised multilateral netting agreement** means a multilateral netting agreement that is contained in, or is subject to, the rules of a recognised clearing house.
 
 ### 256 Application of set-off under netting agreement
-(1) Sections 255 to 263 apply
+(1) Sections 255 to 263 apply—
   (a) to a netting agreement—
     (i) made in or evidenced by writing; and
     (ii) in respect of which the application of sections 255 to 263 has not been expressly excluded; and
@@ -1874,7 +1874,7 @@ A person who obtained an order for costs against the bankrupt before adjudicatio
   (b) the value of the liability to calls to be made in the period of 1 year after adjudication.
 (3) The value referred to in subsection (2)(b) must be estimated—
   (a) as agreed by the Assignee and the company; or
-  (b) if the Assignee and the company cannot agree, as directed by the Court.
+  (b) if the Assignee and the company cannot agree, as directed by the court.
 (4) This section does not affect the provisions of sections 103 and 268 of the Companies Act 1993 in the event that the company is put into liquidation.
 
 ### 272 When guarantor for bankrupt may prove
@@ -1922,9 +1922,9 @@ A person who obtained an order for costs against the bankrupt before adjudicatio
 (4) After paying the claims referred to in subsection (3), the Assignee must next pay the amount of any costs referred to in section 333(4)(c).
 (5) After paying the claims referred to in subsection (4), the Assignee must next pay, to the extent that it remains unpaid to the Commissioner of Inland Revenue or to the Collector of Customs, as the case may require, the amount of—
   (a) tax payable by the bankrupt in the manner required by Part 3 of the Goods and Services Tax Act 1985; and
-  (b) tax deductions made by the bankrupt under the PAYE rules of the Income Tax Act 2004; and
-  (c) non-resident withholding tax deducted by the bankrupt under the NRWT rules of the Income Tax Act 2004; and
-  (d) resident withholding tax deducted by the bankrupt under the RWT rules of the Income Tax Act 2004; and
+  (b) tax deductions made by the bankrupt under the PAYE rules of the Income Tax Act 2007; and
+  (c) non-resident withholding tax deducted by the bankrupt under the NRWT rules of the Income Tax Act 2007; and
+  (d) resident withholding tax deducted by the bankrupt under the RWT rules of the Income Tax Act 2007; and
   (e) duty payable within the meaning of section 2(1) of the Customs and Excise Act 1996.
 
 ### 275 Conditions to priority of payments to preferential creditors
@@ -2014,7 +2014,7 @@ Public Trust may pay undistributed money out of the bankruptcy surplus account u
 Public Trust may pay undistributed money out of the bankruptcy surplus account under section 286(d) only with the approval of the Official Assignee and subject to any conditions he or she may impose.
 
 ### 289 Matters concerning bankruptcy surplus account
-(1) Subject to sections 285 to 288, the investment, realisation; and disposition of undistributed money held in the bankruptcy surplus account, and any profits accruing from that money, are subject to the provisions of the Public Trust Act 2001.
+(1) Subject to sections 285 to 288, the investment, realisation, and disposition of undistributed money held in the bankruptcy surplus account, and any profits accruing from that money, are subject to the provisions of the Public Trust Act 2001.
 (2) Undistributed money may be paid out of the bankruptcy surplus account under section 286(c) or (d) without further appropriation than this Act.
 (3) Public Trust may make a payment out of the bankruptcy surplus account without being concerned to see or inquire whether Public Trust received any undistributed money or sufficient undistributed money on account of the bankrupt in respect of whom the application for payment relates whenever an application for a payment out of that account is made to Public Trust under section 286—
   (a) by requisition of the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act; or
@@ -2035,10 +2035,10 @@ Public Trust may pay undistributed money out of the bankruptcy surplus account u
   (c) the bankrupt is undischarged from an earlier bankruptcy.
 
 ### 291 Effect of automatic discharge
-The automatic discharge of the bankrupt has the same effect as if the Court made an order for the bankrupt's discharge.
+The automatic discharge of the bankrupt has the same effect as if the court made an order for the bankrupt's discharge.
 
 ### 292 Objection to automatic discharge
-(1) The Assignee or, with the permission of the Court, a creditor may object to the bankrupt's automatic discharge.
+(1) The Assignee or, with the permission of the court, a creditor may object to the bankrupt's automatic discharge.
 (2) The objection must be made in the prescribed manner.
 
 ### 293 Objection may be withdrawn
@@ -2051,14 +2051,14 @@ The automatic discharge of the bankrupt has the same effect as if the Court made
 **Application for discharge from bankruptcy**
 
 ### 294 Bankrupt may apply for discharge
-(1) The bankrupt may at any time apply to the Court for an order of discharge from bankruptcy.
-(2) However, if the Court has previously refused an application by the bankrupt for a discharge, and has specified the earliest date when the bankrupt may again apply, the bankrupt must not apply before that date.
+(1) The bankrupt may at any time apply to the court for an order of discharge from bankruptcy.
+(2) However, if the court has previously refused an application by the bankrupt for a discharge, and has specified the earliest date when the bankrupt may again apply, the bankrupt must not apply before that date.
 (3) The hearing of the application must be in accordance with section 177.
 
 **Examination concerning discharge from bankruptcy**
 
 ### 295 When bankrupt must be examined concerning discharge
-(1) The Assignee must summon the bankrupt to be publicly examined by the Court concerning his or her discharge, and the Court must conduct the examination, if—
+(1) The Assignee must summon the bankrupt to be publicly examined by the court concerning his or her discharge, and the court must conduct the examination, if—
   (a) the Assignee or a creditor has objected to the bankrupt's automatic discharge and the objection has not been withdrawn; or
   (b) the bankrupt is due for automatic discharge but is still undischarged from an earlier bankruptcy; or
   (c) the bankrupt has been required to be publicly examined under section 173 and has not completed that examination.
@@ -2066,16 +2066,16 @@ The automatic discharge of the bankrupt has the same effect as if the Court made
 (3) Sections 173 to 181, so far as they are applicable and with the necessary modifications, apply to a public examination under this section.
 
 ### 296 Assignee's report
-(1) The Assignee must prepare a report and file it in the Court when—
+(1) The Assignee must prepare a report and file it in the court when—
   (a) the bankrupt has applied under section 294 for a discharge; or
   (b) the Assignee has summoned the bankrupt to be examined under section 295.
 (2) The Assignee must report as to—
   (a) the bankrupt's affairs; and
   (b) the causes of the bankruptcy; and
   (c) the bankrupt's performance of his or her duties under this Act; and
-  (d) the manner in which the bankrupt has obeyed orders of the Court; and
+  (d) the manner in which the bankrupt has obeyed orders of the court; and
   (e) the bankrupt's conduct before and after adjudication; and
-  (f) any other matter that would assist the Court in making a decision as to the bankrupt's discharge.
+  (f) any other matter that would assist the court in making a decision as to the bankrupt's discharge.
 
 ### 297 When creditor must give notice of opposition to discharge
 (1) A creditor must give notice to the Assignee and the bankrupt if the creditor intends to oppose the bankrupt's discharge on a ground that is not mentioned in the Assignee's report.
@@ -2084,38 +2084,38 @@ The automatic discharge of the bankrupt has the same effect as if the Court made
   (b) be given within the prescribed time.
 
 ### 298 Court may grant or refuse discharge
-(1) When the Court hears an application under section 294 for discharge, or conducts the examination of the bankrupt under section 295, the Court may, having regard to all the circumstances of the case,—
+(1) When the court hears an application under section 294 for discharge, or conducts the examination of the bankrupt under section 295, the court may, having regard to all the circumstances of the case,—
   (a) immediately discharge the bankrupt; or
   (b) discharge the bankrupt on conditions (which may include a condition that the bankrupt consents to any judgment or order for the payment of any sum of money); or
   (c) discharge the bankrupt but suspend the order for a period; or
   (d) discharge the bankrupt, with or without conditions, at a specified future date; or
-  (e) refuse an order of discharge, in which case the Court may specify the earliest date when the bankrupt may apply again for discharge.
-(2) If the Court discharges the bankrupt on the condition that the bankrupt consents to any judgment, and the bankrupt does consent, the Court may vary the judgment as it thinks appropriate.
+  (e) refuse an order of discharge, in which case the court may specify the earliest date when the bankrupt may apply again for discharge.
+(2) If the court discharges the bankrupt on the condition that the bankrupt consents to any judgment, and the bankrupt does consent, the court may vary the judgment as it thinks appropriate.
 
 ### 299 Court may restrict bankrupt from engaging in business after discharge
-(1) The Court, when it makes an order of discharge or at any earlier time, may prohibit the bankrupt after discharge from doing any or all of the following things without the Court's permission:
+(1) The court, when it makes an order of discharge or at any earlier time, may prohibit the bankrupt after discharge from doing any or all of the following things without the court's permission:
   (a) entering into, carrying on, or taking part in the management or control of any business or class of business:
   (b) being a director of any company:
   (c) directly or indirectly being concerned, or taking part, in the management of any company:
   (d) being employed by a relative of the bankrupt:
   (e) being employed by a company, trust, trustee, or incorporated society that is managed or controlled by a relative of the bankrupt.
-(2) The Court may—
+(2) The court may—
   (a) prohibit the bankrupt for a specified period, or without a time limit:
   (b) at any time vary or cancel the prohibition.
 
 ### 300 Court may reverse order of discharge
-(1) The Court may, on the application of the Assignee or a creditor, reverse the discharge of a bankrupt at any time before—
+(1) The court may, on the application of the Assignee or a creditor, reverse the discharge of a bankrupt at any time before—
   (a) 2 years after the discharge, in the case of an absolute discharge; or
   (b) 2 years after the discharge takes effect, in the case of a discharge that is conditional or suspended.
-(2) When the Court reverses a discharge, the Court may then, or at any time after, make a new order of discharge, whether absolute, suspended, or conditional.
+(2) When the court reverses a discharge, the court may then, or at any time after, make a new order of discharge, whether absolute, suspended, or conditional.
 
 ### 301 Grounds for reversing discharge
-(1) The Court may reverse a discharge if—
+(1) The court may reverse a discharge if—
   (a) the bankrupt has been given notice of the application (including the grounds relied on by the applicant); and
-  (b) the Court is satisfied that facts have been established that—
-    (i) were not known to the Court when it made the order of discharge; and
-    (ii) had the Court known of them, would have justified the Court in refusing a discharge or discharging the bankrupt on conditions.
-(2) The Court must not reverse a discharge if the facts relied on by the applicant, at the time when the Court made an order discharging the bankrupt,—
+  (b) the court is satisfied that facts have been established that—
+    (i) were not known to the court when it made the order of discharge; and
+    (ii) had the court known of them, would have justified the court in refusing a discharge or discharging the bankrupt on conditions.
+(2) The court must not reverse a discharge if the facts relied on by the applicant, at the time when the court made an order discharging the bankrupt,—
   (a) were known to the applicant; or
   (b) could have been known if the applicant had inquired with reasonable diligence.
 
@@ -2126,8 +2126,8 @@ The automatic discharge of the bankrupt has the same effect as if the Court made
   (b) must be applied by the Assignee to pay debts that the bankrupt has incurred since the date of discharge.
 
 ### 303 Bankrupt may apply for absolute discharge if conditions of discharge too onerous
-(1) A bankrupt who cannot comply with any or all of the conditions of his or her discharge may apply to the Court for an absolute discharge.
-(2) The Court may discharge the bankrupt absolutely if the Court is satisfied that the bankrupt's inability is due to circumstances for which the bankrupt should not reasonably be held responsible.
+(1) A bankrupt who cannot comply with any or all of the conditions of his or her discharge may apply to the court for an absolute discharge.
+(2) The court may discharge the bankrupt absolutely if the court is satisfied that the bankrupt's inability is due to circumstances for which the bankrupt should not reasonably be held responsible.
 
 ### 304 Debts from which bankrupt is released on discharge
 (1) On discharge, the bankrupt is released from all debts provable in the bankruptcy except those listed in subsection (2).
@@ -2149,28 +2149,28 @@ A discharge does not release any person who, at the date of adjudication, was—
   (d) a guarantor or in the nature of a guarantor of the bankrupt.
 
 ### 307 Discharged bankrupt must assist Assignee
-A discharged bankrupt must assist the Assignee, as required by the Court or the Assignee, in the realisation and distribution of the bankrupt's property that is vested in the Assignee.
+A discharged bankrupt must assist the Assignee, as required by the court or the Assignee, in the realisation and distribution of the bankrupt's property that is vested in the Assignee.
 
 ### 308 Information regarding bankrupt's discharge must be contained in public register maintained under section 62
-If the Court has refused a bankrupt a discharge or discharged the bankrupt but suspended the discharge, that information must be contained in the public register maintained under section 62.
+If the court has refused a bankrupt a discharge or discharged the bankrupt but suspended the discharge, that information must be contained in the public register maintained under section 62.
 
 ### Subpart 2 — Annulment
 
 ### 309 Court may annul adjudication
-(1) The Court may, on the application of the Assignee or any person interested, annul the adjudication if—
-  (a) the Court considers that the bankrupt should not have been adjudicated bankrupt; or
-  (b) the Court is satisfied that the bankrupt's debts have been fully paid or satisfied and that the Assignee's fees and costs incurred in the bankruptcy have been paid; or
-  (c) the Court considers that the liability of the bankrupt to pay his or her debts should be revived because there has been a substantial change in the bankrupt's financial circumstances since the date of adjudication; or
-  (d) the Court has approved a composition under subpart 1 of Part 5.
+(1) The court may, on the application of the Assignee or any person interested, annul the adjudication if—
+  (a) the court considers that the bankrupt should not have been adjudicated bankrupt; or
+  (b) the court is satisfied that the bankrupt's debts have been fully paid or satisfied and that the Assignee's fees and costs incurred in the bankruptcy have been paid; or
+  (c) the court considers that the liability of the bankrupt to pay his or her debts should be revived because there has been a substantial change in the bankrupt's financial circumstances since the date of adjudication; or
+  (d) the court has approved a composition under subpart 1 of Part 5.
 (2) In the case of an application on one of the grounds specified in subsection (1)(a) to (c) by an applicant who is not the Assignee,—
-  (a) a copy of the application must be served on the Assignee in the manner and within the time that the Court directs; and
+  (a) a copy of the application must be served on the Assignee in the manner and within the time that the court directs; and
   (b) the Assignee may appear on the hearing of the application as if the Assignee were a party to the proceeding.
 (3) The adjudication is annulled—
   (a) from the date of adjudication, in the case of an application on the ground specified in subsection (1)(a):
-  (b) from the date of the Court's order of annulment, in the case of an application on one of the grounds specified in subsection (1)(b) to (d).
-(4) In the case of an application for annulment on the ground that the adjudication should not have been made because of a defect in form or procedure, the Court may, in addition to annulling the adjudication, exercise its powers under section 418 to correct the defect and order that the application for adjudication be reheard as if no adjudication had been made.
-(5) If the Court annuls the adjudication on one of the grounds specified in subsection (1)(a) to (c),—
-  (a) the Court may, on the Assignee's application, fix an amount as reasonable remuneration for the Assignee's services and order that it be paid, in addition to any costs that may be awarded:
+  (b) from the date of the court's order of annulment, in the case of an application on one of the grounds specified in subsection (1)(b) to (d).
+(4) In the case of an application for annulment on the ground that the adjudication should not have been made because of a defect in form or procedure, the court may, in addition to annulling the adjudication, exercise its powers under section 418 to correct the defect and order that the application for adjudication be reheard as if no adjudication had been made.
+(5) If the court annuls the adjudication on one of the grounds specified in subsection (1)(a) to (c),—
+  (a) the court may, on the Assignee's application, fix an amount as reasonable remuneration for the Assignee's services and order that it be paid, in addition to any costs that may be awarded:
   (b) that amount must be paid into a Crown Bank Account:
   (c) the Assignee is not entitled to remuneration under section 406 for those services.
 
@@ -2180,7 +2180,7 @@ If the Court has refused a bankrupt a discharge or discharged the bankrupt but s
   (a) the Assignee considers that the bankrupt should not have been adjudicated bankrupt; or
   (b) the Assignee is satisfied that the bankrupt's debts have been fully paid or satisfied and that the Assignee's fees and costs incurred in the bankruptcy have been paid; or
   (c) the Assignee considers that the liability of the bankrupt to pay his or her debts should be revived because there has been a substantial change in the bankrupt's financial circumstances since the date of adjudication; or
-  (d) the Court has approved a composition under subpart 1 of Part 5.
+  (d) the court has approved a composition under subpart 1 of Part 5.
 (3) The Assignee may annul the adjudication on the application of any person interested or on the Assignee's own initiative.
 (4) The adjudication is annulled—
   (a) from the date of adjudication, in the case of an application on the ground specified in subsection (2)(a):
@@ -2198,7 +2198,7 @@ If the Court has refused a bankrupt a discharge or discharged the bankrupt but s
 
 ### 312 Creditors may accept composition by passing preliminary resolution
 (1) The creditors of a bankrupt may accept a composition in satisfaction of the debts due to them from the bankrupt by passing a special resolution (the preliminary resolution) that contains the terms of the composition.
-(2) If there is more than 1 class of creditor, the delay of 1 class in accepting, or the failure of 1 class to accept, does not prevent any other of the classes from accepting the composition.
+(2) If there is more than 1 class of creditor, the delay of one class in accepting, or the failure of one class to accept, does not prevent any other of the classes from accepting the composition.
 
 ### 313 Confirming resolution
 (1) The composition is ineffective unless the creditors confirm the composition by passing a special resolution (the confirming resolution).
@@ -2210,39 +2210,39 @@ If the Court has refused a bankrupt a discharge or discharged the bankrupt but s
 
 ### 314 Compositions with members of partnership
 (1) If the members of a partnership have been adjudicated bankrupt, the joint creditors and each class of separate creditors may make separate compositions.
-(2) In that case, the majorities of creditors required for passing the confirming resolution are the separate majorities of each class, but otherwise the joint and separate creditors must be counted as 1 body for voting.
+(2) In that case, the majorities of creditors required for passing the confirming resolution are the separate majorities of each class, but otherwise the joint and separate creditors must be counted as one body for voting.
 
 ### 315 Court must approve composition
-(1) The Court must approve the composition if it is to be binding.
-(2) The composition approved by the Court binds all the creditors in respect of provable debts due to them by the bankrupt.
-(3) The Court may refuse to approve the composition if it considers that—
+(1) The court must approve the composition if it is to be binding.
+(2) The composition approved by the court binds all the creditors in respect of provable debts due to them by the bankrupt.
+(3) The court may refuse to approve the composition if it considers that—
   (a) section 312 or 313 has not been complied with; or
   (b) the terms of the composition are not reasonable or are not calculated to benefit the general body of creditors; or
-  (c) the bankrupt is guilty of misconduct that justifies the Court in refusing, qualifying, or suspending the bankrupt's discharge; or
+  (c) the bankrupt is guilty of misconduct that justifies the court in refusing, qualifying, or suspending the bankrupt's discharge; or
   (d) for any other reason it should not approve the composition.
-(4) The Court must not approve the composition if the composition does not provide for the payment, before any other debts are paid, of those debts that have priority under subpart 10 of Part 3.
-(5) The Court's approval is conclusive as to the validity of the composition.
+(4) The court must not approve the composition if the composition does not provide for the payment, before any other debts are paid, of those debts that have priority under subpart 10 of Part 3.
+(5) The court's approval is conclusive as to the validity of the composition.
 
-### 316 Procedure for Court approval of composition
-(1) The bankrupt or the Assignee may apply to the Court to approve the composition.
+### 316 Procedure for court approval of composition
+(1) The bankrupt or the Assignee may apply to the court to approve the composition.
 (2) Notice of the application must be given to each creditor.
-(3) Before approving the composition, the Court must—
+(3) Before approving the composition, the court must—
   (a) receive a report by the Assignee as to the terms of the composition and the bankrupt's conduct; and
   (b) hear any objection by or on behalf of a creditor.
-(4) When it approves the composition, the Court may correct any formal or accidental error or omission, but must not alter the substance of the composition.
+(4) When it approves the composition, the court may correct any formal or accidental error or omission, but must not alter the substance of the composition.
 
 ### 317 Deed of composition
-(1) As soon as practicable after the Court has approved a composition,—
+(1) As soon as practicable after the court has approved a composition,—
   (a) the bankrupt and the Assignee must execute a deed of composition for putting the proposal into effect; and
-  (b) the Assignee must apply to the Court for confirmation of the deed.
-(2) If it is satisfied that the deed conforms with the composition that it has earlier approved, the Court must—
-  (a) direct that the deed is entered and filed in the Court; and
+  (b) the Assignee must apply to the court for confirmation of the deed.
+(2) If it is satisfied that the deed conforms with the composition that it has earlier approved, the court must—
+  (a) direct that the deed is entered and filed in the court; and
   (b) annul the adjudication.
-(3) The deed must not be entered and filed in the Court unless the prescribed commission has been paid to the Assignee.
+(3) The deed must not be entered and filed in the court unless the prescribed commission has been paid to the Assignee.
 (4) The annulment under subsection (2) does not revest the bankrupt's property in the bankrupt in accordance with section 311(1).
 
 ### 318 Effect of deed
-When the Court has confirmed the deed and annulled the adjudication,—
+When the court has confirmed the deed and annulled the adjudication,—
   (a) the deed binds all the creditors in all respects as if they had each executed the deed; and
   (b) subject to the provisions of the Land Transfer Act 1952, the bankrupt's property to which the deed relates vests and must be dealt with as provided in the deed.
 
@@ -2257,35 +2257,35 @@ When the Court has confirmed the deed and annulled the adjudication,—
 ### 320 Deadlines for steps to approve composition and execute deed
 (1) The deadlines for steps to approve the composition and execute the deed are—
   (a) the confirming resolution must be passed within 1 month after the preliminary resolution is passed; and
-  (b) the Court must approve the composition within 1 month after the confirming resolution is passed; and
-  (c) the bankrupt must execute the deed of composition within 5 working days after the Court approves the composition or, if the Court allows the bankrupt additional time, within that time.
+  (b) the court must approve the composition within 1 month after the confirming resolution is passed; and
+  (c) the bankrupt must execute the deed of composition within 5 working days after the court approves the composition or, if the court allows the bankrupt additional time, within that time.
 (2) If any of the deadlines is not kept,—
   (a) immediately on the expiry of the deadline, the proceedings in the bankruptcy resume as if there had been no confirming resolution; and
   (b) none of the periods specified in subsection (1) counts in the calculation of a period of time for any purpose of this Act.
 
-### 321 Procedure following Court approval of composition
-(1) The Registrar of the Court must, after entering the deed of composition,—
-  (a) endorse on the deed that it has been entered and filed in the Court; and
+### 321 Procedure following court approval of composition
+(1) The Registrar of the court must, after entering the deed of composition,—
+  (a) endorse on the deed that it has been entered and filed in the court; and
   (b) if requested by the Assignee, deliver the deed to the Assignee.
 (2) The Assignee, as soon as practicable after the deed has been entered,—
-  (a) must take all steps necessary to have any vesting provided for in the deed registered or recorded in the appropriate registry or office, and must then return the deed to the file of the Court; and
+  (a) must take all steps necessary to have any vesting provided for in the deed registered or recorded in the appropriate registry or office, and must then return the deed to the file of the court; and
   (b) must, subject to the provisions of the deed, give possession to the bankrupt or the trustee under the composition, as the case may be, of—
     (i) the bankrupt's property; or
     (ii) so much of the bankrupt's property as the Assignee possesses and that under the composition revests in the bankrupt or the trustee.
 
 ### 322 Enforcement of composition
-The Court may,—
-  (a) on the application of an aggrieved person, order that any default in payment of any composition approved by the Court be remedied:
-  (b) on the application of a person interested, enforce the provisions of any composition approved by the Court.
+The court may,—
+  (a) on the application of an aggrieved person, order that any default in payment of any composition approved by the court be remedied:
+  (b) on the application of a person interested, enforce the provisions of any composition approved by the court.
 
 ### 323 Court's exclusive jurisdiction
-(1) After the preliminary resolution has been passed, the Court continues to have exclusive jurisdiction in relation to the composition and the deed of composition, and their administration.
-(2) On an application in relation to the composition, the deed of composition, or their administration, the Court may,—
+(1) After the preliminary resolution has been passed, the court continues to have exclusive jurisdiction in relation to the composition and the deed of composition, and their administration.
+(2) On an application in relation to the composition, the deed of composition, or their administration, the court may,—
   (a) for the purpose of summoning and examining the bankrupt and witnesses, direct the proceeding as if it were a proceeding under subpart 5 of Part 3:
   (b) make the order or orders that it thinks appropriate, including an order as to the costs of the application.
 
 ### 324 Law and practice in bankruptcy applies to deed
-The Court must decide a question arising under the deed of composition according to the law and practice of bankruptcy, if the law and practice of bankruptcy is relevant.
+The court must decide a question arising under the deed of composition according to the law and practice of bankruptcy, if the law and practice of bankruptcy is relevant.
 
 ### Subpart 2 — Proposals
 
@@ -2318,13 +2318,13 @@ The Court must decide a question arising under the deed of composition according
   (b) have endorsed on it the name of a person (A) who is willing to act as a trustee for the creditors; and
   (c) include a statement by A that A is willing to act.
 
-### 328 Proposal must be filed in Court
-(1) The proposal must be filed in the office of the Court nearest to where the insolvent lives.
-(2) The insolvent may not, while waiting for the decision of the creditors and the Court, withdraw the proposal or any charge or guarantee tendered with it, unless the insolvent obtains the permission of the Court.
-(3) The time when the proposal is filed in Court is the time when the claims of creditors are determined.
+### 328 Proposal must be filed in court
+(1) The proposal must be filed in the office of the court nearest to where the insolvent lives.
+(2) The insolvent may not, while waiting for the decision of the creditors and the court, withdraw the proposal or any charge or guarantee tendered with it, unless the insolvent obtains the permission of the court.
+(3) The time when the proposal is filed in court is the time when the claims of creditors are determined.
 (4) If the creditors at a meeting under section 331 do not accept the proposal,—
-  (a) the chairperson of the meeting must return the proposal to the Court with his or her signed endorsement Not accepted by creditors ; and
-  (b) the registrar must cancel the proposal.
+  (a) the chairperson of the meeting must return the proposal to the court with his or her signed endorsement Not accepted by creditors; and
+  (b) the Registrar must cancel the proposal.
 
 ### 329 Provisional trustee
 The trustee named in the proposal becomes the provisional trustee when the proposal is filed.
@@ -2348,47 +2348,47 @@ The trustee named in the proposal becomes the provisional trustee when the propo
 (3) The resolution accepting the proposal must be decided by a majority in number and three-quarters in value of the creditors who—
   (a) vote; and
   (b) are personally present or are represented at the meeting by a person specified in section 332 or have voted by postal vote.
-(4) If the insolvent consents, the creditors may include in the proposal teams for the supervision of the insolvent's affairs.
+(4) If the insolvent consents, the creditors may include in the proposal terms for the supervision of the insolvent's affairs.
 
 ### 332 Who may represent creditors
 A person who may represent a creditor under section 91 may represent a creditor at a meeting to consider a proposal.
 
 ### 333 Court must approve proposal
 (1) After the proposal has been accepted by the creditors, the trustee must, as soon as practicable,—
-  (a) apply to the Court for approval of the proposal; and
+  (a) apply to the court for approval of the proposal; and
   (b) send notice of the hearing of the application in the prescribed form to the insolvent and to each known creditor.
-(2) The Court must, before approving a proposal, hear any objection that is made by or on behalf of a creditor.
-(3) The Court may refuse to approve the proposal if it considers that—
+(2) The court must, before approving a proposal, hear any objection that is made by or on behalf of a creditor.
+(3) The court may refuse to approve the proposal if it considers that—
   (a) the provisions of this subpart have not been complied with; or
   (b) the terms of the proposal are not reasonable or are not calculated to benefit the general body of creditors; or
   (c) for any reason it is not expedient that the proposal be approved.
-(4) The Court must not approve a proposal if it does not provide for the payment, before any other debts are paid, of—
+(4) The court must not approve a proposal if it does not provide for the payment, before any other debts are paid, of—
   (a) those debts that would have priority under this Act if the insolvent was adjudicated bankrupt; and
   (b) the trustee's fees and expenses that are properly incurred by the trustee in respect of the proposal; and
   (c) costs incurred by a person other than the insolvent in organising and conducting a meeting of creditors for the purpose of voting on a proposal.
 (5) Subsection (4)(a) does not apply to the extent that a creditor waives the priority that the debt of that person would otherwise have had.
-(6) When it approves the proposal, the Court may correct any formal or accidental error or omission, but must not alter the substance of the proposal.
+(6) When it approves the proposal, the court may correct any formal or accidental error or omission, but must not alter the substance of the proposal.
 
-### 334 Effect of Court approval
-(1) A proposal that is approved by the Court is binding on all the creditors whose debts are provable under this subpart and are affected by the team of the proposal.
-(2) The Court's approval is conclusive as to the validity of the proposal.
+### 334 Effect of court approval
+(1) A proposal that is approved by the court is binding on all the creditors whose debts are provable under this subpart and are affected by the terms of the proposal.
+(2) The court's approval is conclusive as to the validity of the proposal.
 
-### 335 Creditor must not take enforcement steps without Court's permission
+### 335 Creditor must not take enforcement steps without court's permission
 (1) A creditor whose debt is provable under this subpart must not take any of the steps listed in subsection (2) in respect of the debt—
-  (a) after the Court has approved the proposal; and
+  (a) after the court has approved the proposal; and
   (b) while the proposal remains in force.
 (2) The steps referred to in subsection (1) are—
   (a) filing a creditor's application for the insolvent's adjudication:
   (b) proceeding with a creditor's application for the insolvent's adjudication that was filed before the proposal was filed:
   (c) enforcing any civil remedy against the insolvent's person or property:
   (d) beginning any legal proceedings in respect of the debt.
-(3) However, a creditor may take any of the steps listed in subsection (2) with the permission of the Court given on the terms that the Court thinks appropriate.
+(3) However, a creditor may take any of the steps listed in subsection (2) with the permission of the court given on the terms that the court thinks appropriate.
 
 ### 336 Duty of insolvent
-After the Court has approved the proposal, the insolvent must do everything that is necessary to put the proposal into effect.
+After the court has approved the proposal, the insolvent must do everything that is necessary to put the proposal into effect.
 
 ### 337 Duties of trustee
-(1) After the Court has approved the proposal, the trustee must—
+(1) After the court has approved the proposal, the trustee must—
   (a) take control of the property that is the subject of the proposal; and
   (b) administer and distribute that property according to the terms of the proposal; and
   (c) generally give effect to the proposal.
@@ -2397,9 +2397,9 @@ After the Court has approved the proposal, the insolvent must do everything that
   (b) in accordance with Schedule 1, if the proposal does not specify the method of sale.
 
 ### 338 Trustee must file 6-monthly summary of receipts and payments
-(1) The trustee must file with the registrar a summary of receipts and payments.
+(1) The trustee must file with the Registrar a summary of receipts and payments.
 (2) The trustee must file the summary,—
-  (a) for each 6-month period following Court approval of the proposal, within 1 month after the end of the period; and
+  (a) for each 6-month period following court approval of the proposal, within 1 month after the end of the period; and
   (b) for the period between the end of the last 6-month period and the date when the trustee stops acting as trustee, within 1 month after the trustee has stopped acting.
 (3) The summary must—
   (a) be in the prescribed form; and
@@ -2407,7 +2407,7 @@ After the Court has approved the proposal, the insolvent must do everything that
   (c) show the total amount of the trustee's receipts and payments for all the preceding 6-month periods after the trustee's appointment.
 
 ### 339 Cancellation or variation of proposal
-(1) At any time after it has approved the proposal, the Court may, if it is satisfied that 1 or more of the grounds listed in subsection (2) apply,—
+(1) At any time after it has approved the proposal, the court may, if it is satisfied that 1 or more of the grounds listed in subsection (2) apply,—
   (a) on the application of the trustee or any creditor, vary or cancel the proposal:
   (b) if asked to do so by the applicant or any other creditor, adjudicate the insolvent bankrupt.
 (2) The grounds referred to in subsection (1) are—
@@ -2415,11 +2415,11 @@ After the Court has approved the proposal, the insolvent must do everything that
   (b) the insolvent has failed to carry out or comply with the terms of the proposal:
   (c) the creditors generally will suffer injustice or undue delay if the proposal proceeds:
   (d) for any other reason the proposal ought to be varied or cancelled.
-(3) On cancellation of the proposal, unless the Court orders otherwise, all property of the insolvent vested in the trustee and not sold or disposed of by the trustee vests, without the necessity for any conveyance, transfer, or assignment,—
+(3) On cancellation of the proposal, unless the court orders otherwise, all property of the insolvent vested in the trustee and not sold or disposed of by the trustee vests, without the necessity for any conveyance, transfer, or assignment,—
   (a) in the insolvent; or
-  (b) if the Court cancels the proposal and adjudicates the insolvent bankrupt, in the Assignee.
+  (b) if the court cancels the proposal and adjudicates the insolvent bankrupt, in the Assignee.
 (4) An order cancelling the proposal, or cancelling the proposal and adjudicating the insolvent bankrupt, does not prejudice or affect the validity of any contract, sale, disposition, or payment duly made or anything duly done under the proposal while it was in force.
-(5) If the insolvent files an application for his or her own adjudication, the proposal is cancelled as if it was cancelled by the Court.
+(5) If the insolvent files an application for his or her own adjudication, the proposal is cancelled as if it was cancelled by the court.
 
 ### Subpart 3 — Summary instalment orders
 
@@ -2639,7 +2639,7 @@ A debtor who has applied for entry to the no asset procedure must not obtain cre
   (c) enters into a hire purchase agreement under which A is liable to pay $1,000 or more.
 (2) It is a defence if A proves,—
   (a) in a case to which subsection (1)(a) applies, that before obtaining the credit of $1,000 A informed the person giving the credit that A was admitted to the no asset procedure:
-  (b) in a case to which subsection (1)(b) applies, that before A incurred the liability of $1,000 the person giving the credit was informed that A was admitted to the no asset Procedure.
+  (b) in a case to which subsection (1)(b) applies, that before A incurred the liability of $1,000 the person giving the credit was informed that A was admitted to the no asset procedure.
 (3) A person who commits an offence under this section is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $5,000 or both.
 (4) Despite anything that section 14 of the Summary Proceedings Act 1957 says, an information for an offence under this section may be laid at any time within 2 years after the date of the offence.
 
@@ -2660,8 +2660,8 @@ A debtor's participation in the no asset procedure terminates when—
 (3) The Assignee must as soon as practicable send a written notice of the termination to each creditor of the debtor known to the Assignee.
 
 ### 374 Assignee may apply for preservation order
-(1) If the Assignee terminates a debtor's participation in the no asset procedure on the ground that the debtor has concealed assets or misled the Assignee, the Court on the application of the Assignee may make an order for the preservation of the debtor's assets pending an application for the debtor's adjudication.
-(2) The Court may make an order under subsection (1) on the terms and conditions that it sees fit.
+(1) If the Assignee terminates a debtor's participation in the no asset procedure on the ground that the debtor has concealed assets or misled the Assignee, the court on the application of the Assignee may make an order for the preservation of the debtor's assets pending an application for the debtor's adjudication.
+(2) The court may make an order under subsection (1) on the terms and conditions that it sees fit.
 
 ### 375 Effect of termination
 Except in the case of termination by discharge under section 377, the debtor's debts that became unenforceable on the debtor's entry to the no asset procedure become again enforceable on termination of the debtor's participation in the no asset procedure.
@@ -2695,50 +2695,50 @@ Except in the case of termination by discharge under section 377, the debtor's d
 **Application and order that estate be administered under this Part**
 
 ### 379 Court may order that estate be administered under this Part
-(1) The Court may order that the estate of a deceased debtor be administered under this Part on the application,—
-  (a) under section 380, of the administrator or a person who is applying to the Court for a grant of administration:
+(1) The court may order that the estate of a deceased debtor be administered under this Part on the application,—
+  (a) under section 380, of the administrator or a person who is applying to the court for a grant of administration:
   (b) under section 381, of—
     (i) a creditor who has produced evidence establishing a debt due to the creditor; or
     (ii) a beneficiary.
-(2) The Court may refuse to make the order if it is satisfied that—
+(2) The court may refuse to make the order if it is satisfied that—
   (a) there is a reasonable probability that the estate will be enough for payment of the deceased's debts; and
   (b) the creditors will not be prejudiced by the estate being administered in the normal way.
 
 ### 380 Application by administrator, etc
-(1) The administrator, or a person who is applying to the Court for a grant of administration, may apply to the Court for an order that the estate be administered under this Part if the administrator or person applying ascertains that the money in the estate, together with the proceeds of any assets in the estate that can conveniently be converted into money, will not be, or is not likely to be, enough to meet the several claims on the estate.
+(1) The administrator, or a person who is applying to the court for a grant of administration, may apply to the court for an order that the estate be administered under this Part if the administrator or person applying ascertains that the money in the estate, together with the proceeds of any assets in the estate that can conveniently be converted into money, will not be, or is not likely to be, enough to meet the several claims on the estate.
 (2) The application may be—
   (a) joined with an application for a grant of administration in respect of the deceased's will or of the deceased's property that does not form part of his or her estate; or
   (b) made at any time after that grant of administration.
-(3) An applicant under this section, in addition to the application, must file in the Court an account that shows the assets, debts, and liabilities of the deceased, to the extent that the applicant knows what they are.
+(3) An applicant under this section, in addition to the application, must file in the court an account that shows the assets, debts, and liabilities of the deceased, to the extent that the applicant knows what they are.
 (4) The account—
   (a) must be verified by affidavit; and
   (b) may be amended from time to time; and
   (c) must be filed—
     (i) when the application is filed; or
     (ii) within the prescribed time after the application is filed; or
-    (iii) within the additional time that the Court allows.
+    (iii) within the additional time that the court allows.
 
 ### 381 Application by creditor or beneficiary for order under this Part
-(1) The following persons may also apply to the Court for an order under this Part:
+(1) The following persons may also apply to the court for an order under this Part:
   (a) a creditor of the deceased's estate, if the creditor's debt has reached the threshold for a creditor's application for adjudication:
   (b) a beneficiary.
 (2) A creditor or beneficiary may apply for an order if—
   (a) the administrator has not applied under this Part, and after being requested in writing to apply, fails to apply within 15 working days after receiving the request; or
-  (b) after 4 months from the date of the debtor's death, no administrator has been appointed and no application has been filed in the Court under section 380.
-(3) In the case of an application under subsection (2)(a) for an order that the estate be administered under this Part, the Court must not make the order before 2 months have expired after the date when the administration was granted, but this restriction does not apply if—
+  (b) after 4 months from the date of the debtor's death, no administrator has been appointed and no application has been filed in the court under section 380.
+(3) In the case of an application under subsection (2)(a) for an order that the estate be administered under this Part, the court must not make the order before 2 months have expired after the date when the administration was granted, but this restriction does not apply if—
   (a) the administrator has consented; or
   (b) the applicant proves that—
     (i) the deceased committed an act of bankruptcy within 3 months before his or her death; or
     (ii) the administrator has favoured or is about to favour any creditor; or
-  (c) in the Court's opinion the administrator is not properly administering the estate.
-(4) The Court may allow an application under subsection (2)(b) to be filed before 4 months after the date of the debtor's death have expired if the Court is satisfied that—
+  (c) in the court's opinion the administrator is not properly administering the estate.
+(4) The court may allow an application under subsection (2)(b) to be filed before 4 months after the date of the debtor's death have expired if the court is satisfied that—
   (a) the deceased committed an act of bankruptcy within 3 months before his or her death; or
   (b) the estate that should have been available for the deceased's creditors is reducing.
 
 ### 382 Notice of application by creditor or beneficiary
 If an application has been filed by a creditor or beneficiary under section 381, the applicant must give notice of the application in the prescribed manner to—
   (a) the administrator; or
-  (b) if there is no administrator, to the person specified by the Court.
+  (b) if there is no administrator, to the person specified by the court.
 
 ### 383 When Registrar may hear application
 (1) A Registrar may hear an application for administration of the estate of a deceased person under this Part if—
@@ -2747,33 +2747,33 @@ If an application has been filed by a creditor or beneficiary under section 381,
 (2) A Registrar may hear the application even if a Judge is available to hear it.
 
 ### 384 Costs of application
-The Court, on hearing an application under this Part, may—
+The court, on hearing an application under this Part, may—
   (a) make the order or refuse the application with or without costs; and
   (b) in either case, order costs to be paid by one party to another, or out of the estate.
 
 ### 385 Court may order administration by Assignee or Public Trust
-(1) This section applies if an application has been filed for an order to administer an estate under this Part, and the Court thinks that the estate is likely to be better administered by one of the persons mentioned in subsection (2)(b) than by the person who is or may become the administrator.
-(2) The Court may, as part of its original order on the application or by any subsequent order, order that—
+(1) This section applies if an application has been filed for an order to administer an estate under this Part, and the court thinks that the estate is likely to be better administered by one of the persons mentioned in subsection (2)(b) than by the person who is or may become the administrator.
+(2) The court may, as part of its original order on the application or by any subsequent order, order that—
   (a) the administrator (if there is one) must no longer administer the estate; and
-  (b) the Assignee, Public Trust, or some other person, as the Court thinks appropriate, must administer the estate.
+  (b) the Assignee, Public Trust, or some other person, as the court thinks appropriate, must administer the estate.
 
 ### 386 Certificate filed by Public Trust or Maori Trustee has effect as application and order
 (1) Public Trust or the Maori Trustee may file a certificate under this section if Public Trust or the Maori Trustee (as the case may be) is the administrator of, or would be entitled to obtain a grant of administration for, an apparently insolvent estate.
 (2) The filing of the certificate in the prescribed form has the effect both of an application and an order that the estate be administered under this Part.
 (3) The certificate must be filed in the registry of—
-  (a) the Court out of which the grant of administration issued; or
-  (b) the Court in which Public Trust or the Maori Trustee has filed an election to administer under—
+  (a) the court out of which the grant of administration issued; or
+  (b) the court in which Public Trust or the Maori Trustee has filed an election to administer under—
     (i) Part 4 of the Public Trust Office Act 1957 or Part 6 of the Public Trust Act 2001, in the case of Public Trust; or
     (ii) section 12A or section 12B of the Maori Trustee Act 1953, in the case of the Maori Trustee; or
-  (c) if no grant of administration has been issued or no election to administer has been filed, the Court that Public Trust or the Maori Trustee thinks appropriate.
+  (c) if no grant of administration has been issued or no election to administer has been filed, the court that Public Trust or the Maori Trustee thinks appropriate.
 (4) An election to administer an estate under this Part may be combined with an election to administer the estate under Part 6 of the Public Trust Act 2001 or section 12A or section 12B of the Maori Trustee Act 1953.
 (5) Powers conferred on Public Trust or the Maori Trustee under this Part are in addition to the powers conferred on either of them by any other enactment or law.
 
 **Effect of order that estate be administered under this Part**
 
 ### 387 Estate vests in appointee
-(1) The whole of the estate at the date when the application for the order under this Part was filed vests in the person appointed by the Court to administer it (the appointee).
-(2) The Court, in its order that the estate be administered under this Part or in a subsequent order, may appoint as appointee—
+(1) The whole of the estate at the date when the application for the order under this Part was filed vests in the person appointed by the court to administer it (the appointee).
+(2) The court, in its order that the estate be administered under this Part or in a subsequent order, may appoint as appointee—
   (a) the administrator; or
   (b) the Assignee; or
   (c) Public Trust; or
@@ -2819,8 +2819,8 @@ The appointee has, in relation to the estate, the same authority, powers, and fu
   (c) any other money that would be payable in a case of bankruptcy.
 (2) The surplus must be—
   (a) paid to, or retained by, the administrator of the deceased's property that does not form part of the deceased's estate under this Part, if there is one; or
-  (b) if there is no administrator of the deceased's property that does not form part of the deceased's estate under this Part, distributed as approved by the Court, having regard to the persons who are entitled to it.
-(3) The Court may make an order approving the distribution of the surplus as part of the order that the estate be administered under this Part, or at any time after, and the order may be varied in respect of the surplus that remains in the appointee's hands at the date of each variation.
+  (b) if there is no administrator of the deceased's property that does not form part of the deceased's estate under this Part, distributed as approved by the court, having regard to the persons who are entitled to it.
+(3) The court may make an order approving the distribution of the surplus as part of the order that the estate be administered under this Part, or at any time after, and the order may be varied in respect of the surplus that remains in the appointee's hands at the date of each variation.
 
 ### 395 Creditor's notice to administrator
 (1) If a creditor applies for an order that the deceased's estate be administered under this Part, and the order is made, notice to the deceased's administrator that the application has been filed is treated as an act of bankruptcy.
@@ -2829,8 +2829,8 @@ The appointee has, in relation to the estate, the same authority, powers, and fu
 ### 396 Appointee may act in relation to deceased's irregular transactions
 (1) An appointee may take a step that the Assignee could have taken under subpart 7 of Part 3 (for example, the cancellation of an irregular transaction) as if the deceased had been bankrupt at the time of death.
 (2) However, there are 2 additional restrictions when an appointee takes a step under subpart 7 of Part 3:
-  (a) the appointee must not issue a notice cancelling a gift or voluntary settlement without first obtaining the permission of the Court; and the Court must not give permission unless it appears that recovery of the gift or settlement is necessary to pay the debts of the estate in full (including interest); and
-  (b) the Court must not make an order under section 213 unless it is satisfied that recovery of the deceased's contribution to the property of another is necessary to pay the debts of the estate in full (including interest).
+  (a) the appointee must not issue a notice cancelling a gift or voluntary settlement without first obtaining the permission of the court; and the court must not give permission unless it appears that recovery of the gift or settlement is necessary to pay the debts of the estate in full (including interest); and
+  (b) the court must not make an order under section 213 unless it is satisfied that recovery of the deceased's contribution to the property of another is necessary to pay the debts of the estate in full (including interest).
 
 ### 397 Appointee may cancel execution
 The appointee may cancel an execution against the deceased debtor's estate unless it was completed more than 3 months before the date of the order that the estate be administered under this Part.
@@ -2848,7 +2848,7 @@ Nothing in this Act invalidates any payment made, or any act or thing done, in g
   (b) the Deputy Official Assignee for New Zealand:
   (c) Official Assignees:
   (d) as required, Deputy Assignees to help in the administration of estates.
-(2) Assignees and Deputy Assignees are officers of the Court.
+(2) Assignees and Deputy Assignees are officers of the court.
 (3) The Deputy Official Assignee must discharge his or her duties and exercise his or her powers under the control and direction of the Official Assignee for New Zealand.
 (4) Assignees and Deputy Assignees must discharge their duties under the control and direction of the Official Assignee for New Zealand and the Deputy Official Assignee for New Zealand.
 (5) Nothing in this section affects section 59 or section 404(3).
@@ -2857,10 +2857,10 @@ Nothing in this Act invalidates any payment made, or any act or thing done, in g
 An Assignee or Deputy Assignee may act for, or in the place of, another Assignee or Deputy Assignee, and in that capacity has all the authority and powers of the Assignee or Deputy Assignee for whom, or in whose place, he or she acts.
 
 ### 401 Assignee's use of name, seal, etc
-(1) An Assignee may sue and be sued in the name of The Official Assignee in Bankruptcy of the property of [ bankrupt's name inserted ], and in that name may do anything that must be done or should be done as part of his or her functions as Assignee.
+(1) An Assignee may sue and be sued in the name of The Official Assignee in Bankruptcy of the property of [bankrupt's name inserted], and in that name may do anything that must be done or should be done as part of his or her functions as Assignee.
 (2) An Assignee may—
   (a) administer oaths and take statutory declarations; and
-  (b) appear in Court and examine the bankrupt in any proceedings.
+  (b) appear in court and examine the bankrupt in any proceedings.
 (3) An Assignee must have a seal of office, which the Assignee must keep and use when required in the administration of the estates in the Assignee's charge.
 (4) An Assignee may execute all documents by signing the Assignee's own name over the official name, and need not affix a seal to any document, although he or she may do so.
 
@@ -2896,12 +2896,12 @@ An Assignee is not liable in any action or proceeding for any thing the Assignee
   (e) rates by reference to any other criteria that may be specified.
 
 ### 408 Assignee must apply for order of release
-(1) After advertising the filing of the final statement of accounts and statement of financial position for the estate of a bankrupt (see section 228), the Assignee must apply to the Court for an order releasing the Assignee from the administration of that estate.
+(1) After advertising the filing of the final statement of accounts and statement of financial position for the estate of a bankrupt (see section 228), the Assignee must apply to the court for an order releasing the Assignee from the administration of that estate.
 (2) The Assignee must advertise his or her intention to apply for an order of release, and the time when the application will be heard.
-(3) The Court must hear the application not earlier than 10 working days before, and not later than 20 working days after, the Assignee advertises the application under subsection (2).
-(4) On hearing the application, the Court—
+(3) The court must hear the application not earlier than 10 working days before, and not later than 20 working days after, the Assignee advertises the application under subsection (2).
+(4) On hearing the application, the court—
   (a) must take into account any objection to the Assignee's release by any creditor or other person interested in the bankruptcy; and
-  (b) if the Court refuses the order, may, on the application of any creditor or other person interested in the bankruptcy, make any order it thinks fit to remedy any breach of duty by the Assignee.
+  (b) if the court refuses the order, may, on the application of any creditor or other person interested in the bankruptcy, make any order it thinks fit to remedy any breach of duty by the Assignee.
 
 ### 409 Effect of order
 (1) An order of release made under section 408 discharges the Assignee, from the date of the order, from all liability for any act or omission by the Assignee—
@@ -2914,55 +2914,55 @@ An Assignee is not liable in any action or proceeding for any thing the Assignee
 (2) The Assignee must, after realising or otherwise dealing with that property, apply for an order of release in respect of the Assignee's administration of it.
 (3) Sections 408 and 409 apply to an application for a subsequent order of release.
 
-### Subpart 2 — The Court
+### Subpart 2 — The court
 
-### 411 Jurisdiction and powers of Court
-(1) A Judge may exercise all the powers and jurisdiction given to the Court under this Act.
-(2) A Judge may hear a proceeding under this Act, or any aspect of it, in Chambers or in open Court, except that the following must be heard and dealt with in open Court:
+### 411 Jurisdiction and powers of court
+(1) A Judge may exercise all the powers and jurisdiction given to the court under this Act.
+(2) A Judge may hear a proceeding under this Act, or any aspect of it, in Chambers or in open court, except that the following must be heard and dealt with in open court:
   (a) the public examination of a bankrupt:
   (b) an application for annulment of a bankruptcy or the discharge of a bankrupt.
 
 ### 412 Court may look at real nature of transaction
-In considering a transaction, the Court may look at its real nature, and it does not matter that the transaction appears to be, or is described by the parties to it as being, something different.
+In considering a transaction, the court may look at its real nature, and it does not matter that the transaction appears to be, or is described by the parties to it as being, something different.
 
-### 413 When Registrar or District Court Judge may exercise powers and jurisdiction of Court
-(1) A Registrar or a District Court Judge has, with the exception of the powers listed in subsection (2), all the powers and jurisdiction of the Court under this Act during—
-  (a) a Court vacation; or
+### 413 When Registrar or District Court Judge may exercise powers and jurisdiction of court
+(1) A Registrar or a District Court Judge has, with the exception of the powers listed in subsection (2), all the powers and jurisdiction of the court under this Act during—
+  (a) a court vacation; or
   (b) the illness of a Judge; or
-  (c) any period when there is no Judge at the place where the office of the Court is situated.
+  (c) any period when there is no Judge at the place where the office of the court is situated.
 (2) A Registrar or a District Court Judge does not have the power under subsection (1) to—
   (a) make an order of discharge or annulment; or
-  (b) commit for contempt of Court; or
+  (b) commit for contempt of court; or
   (c) exercise any jurisdiction conferred by subpart 3 of Part 7; or
   (d) conduct a public examination under subpart 5 of Part 3.
 (3) A Registrar or a District Court Judge may, if in doubt as to the proper order to be made on an application, refer it to a Judge at the next convenient opportunity, and a Judge may hear and decide the application.
-(4) A Judge may vary or discharge any decision by a Registrar or District Court Judge, and the decision of the Judge under this subsection can be reviewed, rescinded, or varied by the Court under section 414.
+(4) A Judge may vary or discharge any decision by a Registrar or District Court Judge, and the decision of the Judge under this subsection can be reviewed, rescinded, or varied by the court under section 414.
 (5) There is no appeal directly to the Court of Appeal from the decision of a Registrar or a District Court Judge.
 (6) Nothing in this section affects the specific powers of a District Court Judge under this Act, for example, in section 165.
 
 ### 414 Rehearings and appeals
-(1) The Court may review, rescind, or vary any decision of the Court or a Judge under this Act.
-(2) An aggrieved person may appeal to the Court of Appeal from a decision of the Court or a Judge under this Act.
+(1) The court may review, rescind, or vary any decision of the court or a Judge under this Act.
+(2) An aggrieved person may appeal to the Court of Appeal from a decision of the court or a Judge under this Act.
 
 ### 415 Proceedings not halted pending appeal
-A notice of appeal does not halt proceedings under the decision under appeal unless the Court or the Court of Appeal makes an order halting the proceedings.
+A notice of appeal does not halt proceedings under the decision under appeal unless the court or the Court of Appeal makes an order halting the proceedings.
 
 ### 416 Suspension of adjudication pending appeal
-(1) If an appeal has been filed against an order of adjudication, the bankrupt or any other interested person may apply to the Court or the Court of Appeal for an order suspending the adjudication until the appeal is decided.
-(2) The Court or Court of Appeal may suspend the adjudication on the conditions that it thinks appropriate, including conditions as to anything done or decided, or that ought to have been done or decided, by any person in the period between the adjudication and the order suspending adjudication.
-(3) The Court or the Court of Appeal may at any time make an order as it thinks appropriate as to anything done or decided, or that ought to have been done or decided, by any person in the period between the adjudication and the date when the appeal is decided if—
+(1) If an appeal has been filed against an order of adjudication, the bankrupt or any other interested person may apply to the court or the Court of Appeal for an order suspending the adjudication until the appeal is decided.
+(2) The court or Court of Appeal may suspend the adjudication on the conditions that it thinks appropriate, including conditions as to anything done or decided, or that ought to have been done or decided, by any person in the period between the adjudication and the order suspending adjudication.
+(3) The court or the Court of Appeal may at any time make an order as it thinks appropriate as to anything done or decided, or that ought to have been done or decided, by any person in the period between the adjudication and the date when the appeal is decided if—
   (a) the adjudication has been suspended and the appeal fails; or
   (b) the adjudication has not been suspended and the appeal succeeds.
 
 ### 417 Court may extend time
-(1) The Court may extend any time limit imposed by this Act, or by rules or regulations made under this Act, for doing any act or thing.
-(2) The Court may extend the time limit—
+(1) The court may extend any time limit imposed by this Act, or by rules or regulations made under this Act, for doing any act or thing.
+(2) The court may extend the time limit—
   (a) before or after the time limit has expired:
   (b) on the conditions it thinks appropriate.
 
 ### 418 Defects in proceedings
 (1) A proceeding under this Act must not be invalidated or set aside for a defect (which includes misdescription, misnomer, or omission) in a step that must be taken as part of, or in connection with, the proceeding, unless a person is prejudiced by the defect.
-(2) The Court may order the defect to be corrected, and may order the proceeding to continue, on the conditions that the Court thinks appropriate in the interests of everyone who has an interest in the proceeding.
+(2) The court may order the defect to be corrected, and may order the proceeding to continue, on the conditions that the court thinks appropriate in the interests of everyone who has an interest in the proceeding.
 
 ### Subpart 3 — Offences by bankrupt
 
@@ -3129,7 +3129,7 @@ No action may be taken against the Assignee for malicious prosecution in relatio
   (j) prescribing the manner of advertising under this Act:
   (k) providing for the appointment, retirement, removal, discharge, and control of trustees under subpart 2 of Part 5, and for the accounts that must be kept by them, and for the audit of those accounts:
   (l) providing for any matters contemplated by subpart 3 of Part 5, necessary for its administration, or necessary for giving it full effect:
-  (m) prescribing the scale of fees of the Court and the Court of Appeal for proceedings under this Act:
+  (m) prescribing the scale of fees of the court and the Court of Appeal for proceedings under this Act:
   (n) prescribing the form of—
     (i) a statement of affairs that is filed under section 46, 67, or 362:
     (ii) an application that is made under section 49, 342, or 362:
@@ -3149,11 +3149,11 @@ No action may be taken against the Assignee for malicious prosecution in relatio
 
 ### 442 Rules
 (1) Rules may be made from time to time under the Judicature Act 1908—
-  (a) relating to the procedure of the Court under this Act:
+  (a) relating to the procedure of the court under this Act:
   (b) relating to appeals to the Court of Appeal under this Act:
   (c) to give effect to this Act.
 (2) Matters that may be dealt with by the rules include the following:
-  (a) how proceedings are started and transferred from one registry of the Court to another:
+  (a) how proceedings are started and transferred from one registry of the court to another:
   (b) where proceedings may be started:
   (c) the forms to be used in proceedings:
   (d) the service of documents filed or issued in proceedings:
@@ -3182,7 +3182,7 @@ No action may be taken against the Assignee for malicious prosecution in relatio
 (1) In this section,—
   - **1967 Act** means the Insolvency Act 1967 as if it had not been repealed by this Act, and any rules or regulations made under that Act
   - **commencement** means the commencement of Parts 1 to 7 of this Act
-  - **past event** means any of the following that has occurred before commencement
+  - **past event** means any of the following that has occurred before commencement:
     (a) issuing a bankruptcy notice:
     (b) filing a petition for adjudication:
     (c) filing an application for a summary instalment order:
@@ -3228,13 +3228,13 @@ This subpart applies to a public register maintained under section 62 or 354 or 
   (c) the bankruptcy, summary instalment order, or no asset procedure number, as the case may be:
   (d) P's address as contained in P's statement of affairs, or application for adjudication, or application for a summary instalment order, or application for admission to the no asset procedure or, if P has notified the Assignee of a change of address, that address, or in the case of adjudication on a creditor's application, P's address contained in that application:
   (e) P's occupation and current employment status, if known:
-  (f) in the case of an adjudication by the Court, which Court, and the time and date of the adjudication:
+  (f) in the case of an adjudication by the court, which court, and the time and date of the adjudication:
   (g) in the case of an automatic adjudication, a statement that P was automatically adjudicated bankrupt under section 47, and the time and date of the adjudication:
   (h) if P is admitted to the no asset procedure, the date of admission:
   (i) if P is a discharged bankrupt, the date, type, and conditions (if any) of discharge:
   (j) if the bankruptcy was annulled under section 309(1)(b) or (c) or section 310(2)(b) or (c), under which of those provisions it was annulled:
-  (k) if the Court has refused to discharge P from bankruptcy, that information:
-  (l) if the Court has suspended P's discharge from bankruptcy, that information:
+  (k) if the court has refused to discharge P from bankruptcy, that information:
+  (l) if the court has suspended P's discharge from bankruptcy, that information:
   (m) the place of the office of the Assignee dealing with P's bankruptcy or admission to the no asset procedure and that office's contact number for enquiries:
   (n) in the case of a person subject to a current summary instalment order, the full name and business postal address of the supervisor:
   (o) any other prescribed information or documents.
@@ -3294,6 +3294,9 @@ A person who searches a public register for a purpose that is not a purpose set 
 The Crown and the Assignee cannot be sued for any act or omission in relation to the maintenance of a public register under this subpart done or omitted to be done in good faith and with reasonable care.
 
 ## Schedule 1 — Assignee's general powers
+
+| Compare: 1967 No 54 s 71 |
+| --- |
 
 ## Schedule 2 — Consequential amendments to other enactments
 
