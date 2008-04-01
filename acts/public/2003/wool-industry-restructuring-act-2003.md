@@ -1,5 +1,5 @@
 # Wool Industry Restructuring Act 2003
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 ### 1 Title
 This Act is the Wool Industry Restructuring Act 2003.
@@ -11,10 +11,10 @@ This Act is the Wool Industry Restructuring Act 2003.
 (2) The rest of this Act comes into force on the day after the date on which this Act receives the Royal assent.
 
 ### 3 Interpretation
-In this Act, unless the context otherwise requires,—wool—
+In this Act, unless the context otherwise requires,—
   - **assets of the Board** —
     (a) means property of the Board of all kinds, both real and personal, of whatever nature and wherever situated; and
-    (b) without limiting paragraph (a), includes-
+    (b) without limiting paragraph (a), includes—
       (i) property over which the Board has a power of disposition or appointment; and
       (ii) copyright, patents, registered designs, trade marks, know-how, service marks, trade secrets, or other intellectual or industrial property owned by the Board; and
       (iii) applications pending for patents, trade marks, copyright, and other intellectual or industrial property of the Board; and
@@ -31,9 +31,9 @@ In this Act, unless the context otherwise requires,—wool—
   - **company** means the Wool Board Disestablishment Company Limited into which the Board converts under section 5
   - **financial year of the company** means the period from 1 July in one year to 30 June in the following year
   - **grower** means a person engaged, in New Zealand, in the business of farming sheep, whether in conjunction with another business or not
-  - **levy** means the levy imposed under section 43 of this Act
+  - **levy** means the levy imposed under section 43
   - **levy money** means the money paid or payable in respect of levy
-  - **levy return** means the return required to be made under section 44 of this Act
+  - **levy return** means the return required to be made under section 44
   - **liabilities of the Board** means liabilities, debts, charges, duties, and obligations of the Board of every description, whether present or future, actual or contingent, and whether payable or to be observed or performed in New Zealand or elsewhere
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **non-merino grower** means a grower of sheep other than merino sheep
@@ -46,8 +46,9 @@ In this Act, unless the context otherwise requires,—wool—
   - **sheep** includes lambs that are 6 months old or older
   - **SheepCo** means Sheep Incorporated or a successor body established for meat and wool industry good purposes
   - **specified activities** means the activities specified in section 42
-  (a) means the wool of sheep, whether greasy, scoured, washed, carbonised, fellmongered, or sliped; and
-  (b) includes dag wool, wool on the skin (whether tanned or not), processed wool, and manufactured wool (including wool noils and wool waste).
+  - **wool** —
+    (a) means the wool of sheep, whether greasy, scoured, washed, carbonised, fellmongered, or sliped; and
+    (b) includes dag wool, wool on the skin (whether tanned or not), processed wool, and manufactured wool (including wool noils and wool waste).
 
 ### 4 Act binds the Crown
 This Act binds the Crown.
@@ -71,7 +72,7 @@ Before the restructuring day, the Board must deliver the following information a
 
 ### 7 Certificate of incorporation by Registrar
 (1) The Registrar of Companies must issue a certificate of incorporation for the company as soon as practicable after being satisfied that the information required by section 6(a) to (e) is in order and the fee required by section 6(f) is paid.
-(2) The certificate of incorporation referred to in subsection (1)-
+(2) The certificate of incorporation referred to in subsection (1)—
   (a) may be issued on or after the restructuring day; and
   (b) is, on issue, conclusive evidence that the Board is a company incorporated under the Companies Act 1993 from the restructuring day.
 
@@ -121,7 +122,7 @@ The things authorised and achieved by this Act and the restructuring plan, in pa
 
 ### 13 Appointment of directors
 (1) The Board must appoint 3, 4, or 5 directors of the Board, immediately before its conversion, as directors of the company.
-(2) The directors of the company appointed under subsection (1) must include-
+(2) The directors of the company appointed under subsection (1) must include—
   (a) at least 2 persons who were elected to the Board by growers; and
   (b) at least 1 person who was appointed to the Board by the Minister on the recommendation of the Board under section 13(2)(b) of the Wool Board Act 1997.
 (3) The total number of directors of the company must not exceed 5.
@@ -152,9 +153,9 @@ No director of the Board is entitled to compensation for loss of office resultin
 (2) Before submitting the restructuring plan to the Minister, the Board must consult Wool Equities Limited, Merino Grower Investments Limited, and SheepCo.
 
 ### 18 Contents
-(1) The restructuring plan must-
+(1) The restructuring plan must—
   (a) specify a restructuring day; and
-  (b) estimate, as at the restructuring day,-
+  (b) estimate, as at the restructuring day,—
     (i) the assets of the Board and the liabilities of the Board; and
     (ii) the value of those assets and liabilities; and
   (c) provide and specify that a portion of the company's assets be allocated to merino wool growers; and
@@ -166,7 +167,7 @@ No director of the Board is entitled to compensation for loss of office resultin
     (ii) the amount of payments to SheepCo under paragraph (f); and
   (h) contain plans for the allocation and issue of shares in the company, Wool Equities Limited, and Merino Grower Investments Limited, including the criteria for eligibility for shares in the latter 2 companies; and
   (i) contain constitutions for Wool Equities Limited, Merino Grower Investments Limited, and the company that comply with the requirements of this Act.
-(2) The restructuring plan may specify 2 portions for allocation under subsection (1)(c) and (d), 1 that assumes that the condition attaching to the allocation of assets to SheepCo referred to in subsection (1)(e) is satisfied, and a second that assumes that that condition is not satisfied.
+(2) The restructuring plan may specify 2 portions for allocation under subsection (1)(c) and (d), one that assumes that the condition attaching to the allocation of assets to SheepCo referred to in subsection (1)(e) is satisfied, and a second that assumes that that condition is not satisfied.
 (3) The restructuring plan must specify that the percentage of the Board's assets, as at the restructuring day, that will be allocated to merino wool growers will be 7.2%, adjusted to account for the following items:
   (a) the liabilities of the Board on or after the restructuring day:
   (b) amounts held by the Board, on the day before the restructuring day, specifically for groups of growers identified by the Board who produce particular categories of wool:
@@ -203,31 +204,27 @@ The 3 share allocation plans are to restrict the allocation and issue of shares 
 
 ### 22 Size of entitlement for non-merino growers
 (1) The share allocation plan for non-merino growers must provide that the proportion, and therefore number, of shares in the company to be allocated to a non-merino grower must be the same proportion that the average number of non-merino sheep of that grower (calculated under subsection (2)) bears to the total average number of non-merino sheep of all growers entitled to an allocation of shares for non-merino growers.
-(2) The average number of non-merino sheep of a non-merino grower to be used in the calculation required by subsection (1) is to be calculated using the following formula:where—
-  (a) is the greater of the numbers derived from the following:
-    (a) the aggregate number of non-merino sheep farmed by a non-merino grower—
-      (i) as at 30 June 2000, 30 June 2001, and 30 June 2002, if the grower farmed non-merino sheep on all 3 of those dates; or
-      (ii) as at any 2 of the dates specified in subparagraph (i), if the grower farmed non-merino sheep on 2 of those 3 dates; or
-      (iii) as at I of the dates specified in subparagraph (i), if the grower farmed non-merino sheep on just I of those 3 dates; or
-    (b) the number of non-merino sheep farmed by a non-merino grower on 30 June 2002
-  (b) is—
-    (a) 3, if the grower farmed sheep on all 3 of the dates specified in paragraph (a)(i) of item a; or
-    (b) 2, if the grower farmed sheep on 2 of those 3 dates; or
-    (c) 1 , if the grower farmed sheep on just I of those 3 dates or if a is calculated according to paragraph (b) of the item relating to a.
+(2) The average number of non-merino sheep of a non-merino grower to be used in the calculation required by subsection (1) is to be calculated using the following formula:where—ais the greater of the numbers derived from the following:bis—
+  (a) the aggregate number of non-merino sheep farmed by a non-merino grower—
+    (i) as at 30 June 2000, 30 June 2001, and 30 June 2002, if the grower farmed non-merino sheep on all 3 of those dates; or
+    (ii) as at any 2 of the dates specified in subparagraph (i), if the grower farmed non-merino sheep on 2 of those 3 dates; or
+    (iii) as at one of the dates specified in subparagraph (i), if the grower farmed non-merino sheep on just 1 of those 3 dates; or
+  (b) the number of non-merino sheep farmed by a non-merino grower on 30 June 2002
+  (a) 3, if the grower farmed sheep on all 3 of the dates specified in paragraph (a)(i) of item a; or
+  (b) 2, if the grower farmed sheep on 2 of those 3 dates; or
+  (c) 1 , if the grower farmed sheep on just 1 of those 3 dates or if a is calculated according to paragraph (b) of the item relating to a.
 
 ### 23 Size of entitlement for merino wool growers
 (1) The share allocation plan for merino wool growers must provide that the proportion, and therefore number, of shares in the company to be allocated to a merino grower must be the same proportion that the average number of merino sheep of that grower (calculated under subsection (2)) bears to the total average number of merino sheep of all growers entitled to an allocation of shares for merino wool growers.
-(2) The average number of merino sheep of a merino grower to be used in the calculation required by subsection (1) is to be calculated using the following formula:where—
-  (a) is the greater of the numbers derived from the following:
-    (a) the aggregate number of merino sheep farmed by a merino grower-
-      (i) as at 30 June 2000, 30 June 2001, and 30 June 2002, if the grower farmed merino sheep on all 3 of those dates; or
-      (ii) as at any 2 of the dates specified in subparagraph (i), if the grower farmed merino sheep on 2 of those 3 dates; or
-      (iii) as at 1 of the dates specified in subparagraph (i), if the grower farmed merino sheep on just 1 of those 3 dates; or
-    (b) the number of merino sheep farmed by a merino grower on 30 June 2002.
-  (b) is—
-    (a) 3, if the grower farmed sheep on all 3 of the dates specified in paragraph (a)(i) of item a; or
-    (b) 2, if the grower farmed sheep on 2 of those 3 dates; or
-    (c) 1, if the grower farmed sheep on just 1 of those 3 dates or if a is calculated according to paragraph (b) of the item relating to a.
+(2) The average number of merino sheep of a merino grower to be used in the calculation required by subsection (1) is to be calculated using the following formula:where—ais the greater of the numbers derived from the following:bis—
+  (a) the aggregate number of merino sheep farmed by a merino grower—
+    (i) as at 30 June 2000, 30 June 2001, and 30 June 2002, if the grower farmed merino sheep on all 3 of those dates; or
+    (ii) as at any 2 of the dates specified in subparagraph (i), if the grower farmed merino sheep on 2 of those 3 dates; or
+    (iii) as at one of the dates specified in subparagraph (i), if the grower farmed merino sheep on just 1 of those 3 dates; or
+  (b) the number of merino sheep farmed by a merino grower on 30 June 2002
+  (a) 3, if the grower farmed sheep on all 3 of the dates specified in paragraph (a)(i) of item a; or
+  (b) 2, if the grower farmed sheep on 2 of those 3 dates; or
+  (c) 1, if the grower farmed sheep on just 1 of those 3 dates or if a is calculated according to paragraph (b) of the item relating to a.
 
 ### 24 Method of allocation for non-merino growers
 (1) The share allocation plan for non-merino growers will require the company, Wool Equities Limited and eligible non-merino growers to implement the transactions, and achieve the outcomes, specified in this section.
@@ -277,7 +274,7 @@ The share allocation plans—
 **Ministerial involvement with restructuring plan**
 
 ### 31 Approval of restructuring plan
-The Minister must, as soon as practicable after receiving a restructuring plan, by notice in writing to the Board,-
+The Minister must, as soon as practicable after receiving a restructuring plan, by notice in writing to the Board,—
   (a) approve it; or
   (b) decline to approve it.
 
@@ -298,7 +295,7 @@ If the Minister declines to approve the restructuring plan,—
 ### 34 Failure to submit restructuring plan
 (1) If the Board has not submitted a restructuring plan to the Minister within the time specified in section 17(1), or has not given the Minister a revised restructuring plan within the time specified by section 32, the Minister must arrange for a restructuring plan to be prepared and the Minister has the power necessary for that purpose.
 (2) Sections 18 to 28 and 32 apply to a restructuring plan prepared under subsection (1) as if the restructuring plan were a revised restructuring plan given to the Minister by the Board.
-(3) The Minister and the Department that is responsible for administering this Act are entitled to be reimbursed by the Board for the costs and expenses that they incur in taking action under subsection (1).
+(3) The Minister and the department that is responsible for administering this Act are entitled to be reimbursed by the Board for the costs and expenses that they incur in taking action under subsection (1).
 
 ### 35 Minister to notify restructuring day
 As soon as practicable after approving a restructuring plan or a revised restructuring plan, the Minister must notify the restructuring day in the Gazette.
@@ -308,32 +305,32 @@ As soon as practicable after approving a restructuring plan or a revised restruc
 ### 36 Tax treatment of issue of shares
 (1) The issue by the company, in accordance with the share allocation plan in the restructuring plan, of shares to a person who is a grower—
   (a) is not a dutiable gift for the purposes of the Estate and Gift Duties Act 1968; and
-  (b) is not a dividend for the purposes of the Income Tax Act 2004; and
-  (c) is not otherwise income of the person for the purposes of the Income Tax Act 2004.
-(2) For the purposes of the Income Tax Act 2004, if the company, in accordance with the share allocation plan in the approved restructuring plan, issues shares to a grower of sheep other than merino sheep, the grower is to be regarded as having, at all times prior to the restructuring day,—
+  (b) is not a dividend for the purposes of the Income Tax Act 2007; and
+  (c) is not otherwise income of the person for the purposes of the Income Tax Act 2007.
+(2) For the purposes of the Income Tax Act 2007, if the company, in accordance with the share allocation plan in the approved restructuring plan, issues shares to a grower of sheep other than merino sheep, the grower is to be regarded as having, at all times prior to the restructuring day,—
   (a) held those shares; and
-  (b) subject to section OD 5(5) of the Income Tax Act 1994, held any voting interest or market interest attributable to those shares.
-(3) For the purposes of the definition of available subscribed capital in section OB 1 of the Income Tax Act 2004, the company-
+  (b) subject to section YC 10 of the Income Tax Act 2007, held any voting interest or market interest attributable to those shares.
+(3) For the purposes of the definition of available subscribed capital in section YA 1 of the Income Tax Act 2007, the company—
   (a) is to be treated as having received an amount of $47,720,400 in consideration for the issue of shares on the restructuring day; and
   (b) the available subscribed capital that arises under paragraph (a) is to be treated as allocated, as available subscribed capital of and between the classes of shares of the company issued on the restructuring day to the growers, in the proportions nominated by the company if the company nominates the proportions by notice in writing to the Commissioner of Inland Revenue within 30 days after the restructuring day; and
   (c) if the amount of an allocation of available subscribed capital referred to in paragraph (b) is not valid or an election is not received within the specified time period, the amount is to be treated as available subscribed capital in respect of the classes of shares issued on the restructuring day to growers in the same proportion as the number of shares issued in each class.
-(4) For the purposes of the Income Tax Act 2004, if shares in Merino Grower Investments Limited are transferred, under the restructuring plan, by the Merino Distribution Trust to a person who is a grower of merino sheep, the person is to be treated as having, at all times prior to that transfer,-
+(4) For the purposes of the Income Tax Act 2007, if shares in Merino Grower Investments Limited are transferred, under the restructuring plan, by the Merino Distribution Trust to a person who is a grower of merino sheep, the person is to be treated as having, at all times prior to that transfer,—
   (a) held those shares; and
-  (b) subject to section OD 5(5) of the Income Tax Act 1994, held any voting interest or market interest attributable to those shares.
-(5) The proceeds from the sale, exchange, redemption, or other disposition of a share or other equity or similar instrument issued to, or distributed to, or acquired by, a grower as part of the restructuring process is not income for the purposes of the Income Tax Act 2004.
-(6) For the purposes of the Income Tax Act 2004, a person nominated to hold shares or rights on behalf of a grower in accordance with the approved restructuring plan, in the period between the restructuring day and the day that shares and cash are distributed by the nominee to a grower, is to be treated as a nominee.
+  (b) subject to section YC 10 of the Income Tax Act 2007, held any voting interest or market interest attributable to those shares.
+(5) The proceeds from the sale, exchange, redemption, or other disposition of a share or other equity or similar instrument issued to, or distributed to, or acquired by, a grower as part of the restructuring process is not income for the purposes of the Income Tax Act 2007.
+(6) For the purposes of the Income Tax Act 2007, a person nominated to hold shares or rights on behalf of a grower in accordance with the approved restructuring plan, in the period between the restructuring day and the day that shares and cash are distributed by the nominee to a grower, is to be treated as a nominee.
 
 ### 37 Net losses
-For the purposes of the Income Tax Act 2004, and as agreed between the Board and Merino Grower Investments Limited, 7.2% of the net losses to be carried forward by the Board immediately prior to the restructuring day is to be treated as a net loss incurred by Merino Grower Investments Limited prior to the restructuring day and not an amount incurred by the Board.
+For the purposes of the Income Tax Act 2007, and as agreed between the Board and Merino Grower Investments Limited, 7.2% of the net losses to be carried forward by the Board immediately prior to the restructuring day is to be treated as a net loss incurred by Merino Grower Investments Limited prior to the restructuring day and not an amount incurred by the Board.
 
 ### 38 Company treated as statutory producer board
-(1) The company is to be treated as a statutory producer board for the purposes of section OC 3 of the Income Tax Act 2004 for the period provided in section 40 in which the company is responsible for administering the levy on wool imposed by section 43.
-(2) Section OC 3 of the Income Tax Act 2004 applies to expenditure of levies by the company under section 40.
+(1) The company is to be treated as a statutory producer board for the purposes of section CV 5 of the Income Tax Act 2007 for the period provided in section 40 in which the company is responsible for administering the levy on wool imposed by section 43.
+(2) Section CV 5 of the Income Tax Act 2007 applies to expenditure of levies by the company under section 40.
 
 ### 39 Definitions
 (1) In section 28(4) the Merino Distribution Trust means the discretionary trust settled by the Board by a trust deed dated 24 October 2001, whose trustees are Hugh Alexander Cameron, Allan Kane, John Ernest Nicol, and Ronald Thomas Small.
-(2) In the application of the definition of shareholder decision making rights in section OB 1 of the Income Tax Act 2004, section 14 relating to the appointment of directors in the company in the period before the final report on the implementation of the restructuring plan is received by the Minister is not to be treated as being carried by shares.
-(3) In this subpart, net loss has the same meaning as in section OB 1 of the Income Tax Act 2004.
+(2) In the application of the definition of shareholder decision making rights in section YA 1 of the Income Tax Act 2007, section 14 relating to the appointment of directors in the company in the period before the final report on the implementation of the restructuring plan is received by the Minister is not to be treated as being carried by shares.
+(3) In this subpart, net loss has the same meaning as in section YA 1 of the Income Tax Act 2007.
 
 **Levy**
 
@@ -343,20 +340,20 @@ For the purposes of the Income Tax Act 2004, and as agreed between the Board and
   (b) 30 June 2004.
 (2) The company must consult SheepCo on spending the levy.
 (3) The levy may be spent on—
-  (a) research and development into sheep and wool, including research and development into-
+  (a) research and development into sheep and wool, including research and development into—
     (i) the rearing of sheep; and
     (ii) increasing the quantity or quality of the wool produced by sheep in New Zealand; and
     (iii) the harvesting, handling, preparation, and processing of wool; and
     (iv) the manufacture of New Zealand wool into wool products; and
     (v) the handling, packaging, and product development of New Zealand wool and wool products; and
-  (b) encouraging the adoption of more efficient processes and practices for-
+  (b) encouraging the adoption of more efficient processes and practices for—
     (i) the rearing of sheep in New Zealand; and
     (ii) increasing the quantity or quality of the wool produced by sheep in New Zealand; and
     (iii) the harvesting, handling, preparation, and processing of New Zealand wool; and
     (iv) the manufacture of New Zealand wool into wool products; and
     (v) the handling, packaging, and product development of New Zealand wool and wool products; and
   (c) activities that persons are committed to provide to or for the Board under contracts in force as at the restructuring day; and
-  (d) collecting, processing, maintaining, and making avail able, information for the purposes of assisting production, investment, processing, and product development decisions on matters relevant to the New Zealand sheep and wool industries; and
+  (d) collecting, processing, maintaining, and making available, information for the purposes of assisting production, investment, processing, and product development decisions on matters relevant to the New Zealand sheep and wool industries; and
   (e) administering the collection and spending of the levy by the company.
 (4) The levy must be on the basis and at the rate prescribed by the Board by the notice published in the Gazette on 17 April 2003.
 (5) Levy owing to the Board at the date this section comes into force is levy owing to the company.
@@ -369,7 +366,7 @@ For the purposes of the Income Tax Act 2004, and as agreed between the Board and
 (3) A designation takes effect—
   (a) on a day (more than a month after the company gives the notice to the person) specified in the notice, if the notice specifies that day:
   (b) a month after the company gives the notice to the person, in any other case.
-(4) The cancellation of a designation takes effect-
+(4) The cancellation of a designation takes effect—
   (a) on a day specified in the notice, if the notice specifies a day:
   (b) on the day the company gives the notice to the person, in any other case.
 (5) The company must—
@@ -391,7 +388,7 @@ The following activities are specified activities for the purpose of this Act:
 (3) The levy is payable in accordance with this Act.
 (4) In the following circumstances, the company may make a reasonable assessment of the value and weight of wool:
   (a) if the transaction that attracts the payment of the levy is not a sale; and
-  (b) if the basis for the calculation of the levy is or includes 1 or both of its value or weight.
+  (b) if the basis for the calculation of the levy is or includes one or both of its value or weight.
 
 ### 44 Levy returns
 (1) Every collection agent must complete returns of wool on which the levy is payable under section 43 and give those returns to the company.
@@ -407,7 +404,7 @@ The following activities are specified activities for the purpose of this Act:
   (b) if the wool is sold to the collection agent (but not through another collection agent):
   (c) if the wool is subjected to a specified activity by the collection agent.
 (2) A levy payable on wool that is exported must be paid by the exporter. If the exporter is not a collection agent, sections 44, 47, and 49 apply to the exporter as if the exporter were a collection agent.
-(3) A person who makes a levy return must pay the levy-
+(3) A person who makes a levy return must pay the levy—
   (a) by sending the levy amount with the levy return; or
   (b) by sending the amount to the company or paying it into the company's bank account on or before the day on which the levy return is due.
 
@@ -419,7 +416,7 @@ The following activities are specified activities for the purpose of this Act:
 (3) Within 15 days of receiving a notice of dispute, the company must—
   (a) consider the matters raised in it; and
   (b) undertake any audit of the operations of the person concerned that the company thinks appropriate and the person allows; and
-  (c) by written notice to the person,-
+  (c) by written notice to the person,—
     (i) withdraw the demand, and substitute another for it; or
     (ii) withdraw the demand, and indicate that no other demand will be substituted for it; or
     (iii) confirm the demand.
@@ -448,7 +445,7 @@ The following activities are specified activities for the purpose of this Act:
 ### 51 Power of inspection
 (1) An auditor appointed under section 52 may exercise the powers specified in subsection (2) at any reasonable time within business hours in order to ascertain whether the requirements of the levy provisions (sections 40 to 50) of this Act are being met.
 (2) The powers referred to in subsection (1) are the power to—
-  (a) enter a place of business of a collection agent (that is not a dwellinghouse) where a document relating to levy money, wool, or wool product is held or is likely to be held; and
+  (a) enter a place of business of a collection agent (that is not a dwelling house) where a document relating to levy money, wool, or wool product is held or is likely to be held; and
   (b) inspect a document referred to in paragraph (a); and
   (c) take or make copies of, or extracts from, a document inspected, and, for that purpose, the auditor may—
     (i) take possession of and remove a document from the place where it is held, for a reasonable period:
@@ -466,15 +463,16 @@ The following activities are specified activities for the purpose of this Act:
 (6) A person appointed as an auditor is entitled to remuneration paid by the company.
 
 ### 53 Duties of auditor
-(1) An auditor who exercises a power under section 51 must, at the time of initial entry and, if requested by the occupier of the place of business, at a subsequent time, produce-
+(1) An auditor who exercises a power under section 51 must, at the time of initial entry and, if requested by the occupier of the place of business, at a subsequent time, produce—
   (a) the auditor's warrant of appointment; and
   (b) evidence of the auditor's identity.
-(2) If an auditor inspects documents under section 51 when an occupier of the place inspected is not present, the auditor must leave prominently in the place a notice stating-
+(2) If an auditor inspects documents under section 51 when an occupier of the place inspected is not present, the auditor must leave prominently in the place a notice stating—
   (a) the day and time of entry; and
   (b) the purpose of entry; and
-  (c) the name and business telephone number of the auditor; and (d) an address at which enquiries can be made.
+  (c) the name and business telephone number of the auditor; and
+  (d) an address at which enquiries can be made.
 (3) If the auditor who inspects documents under section 51 takes a document, article, or thing from the place inspected, the auditor must, on completing the inspection, leave prominently in the place a schedule of all documents, articles, and things taken.
-(4) If it is not practicable to prepare the schedule on completing the inspection, or if an occupier of the place inspected consents, the auditor who conducts the inspection must,-
+(4) If it is not practicable to prepare the schedule on completing the inspection, or if an occupier of the place inspected consents, the auditor who conducts the inspection must,—
   (a) instead of leaving the schedule, leave a notice stating that—
     (i) a document, article, or thing has been taken; and
     (ii) the schedule will be delivered to, left for, or posted to an occupier within 7 days of the inspection; and
