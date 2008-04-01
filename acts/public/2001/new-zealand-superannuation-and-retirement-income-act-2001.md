@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2008-04-01_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -37,7 +37,7 @@ The purpose of this Act is—
     (a) enhancing or protecting the value of the Fund:
     (b) managing, or enabling the management of, the Fund
   - **Minister** means the Minister of Finance, or other Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of Parts 2 and 3 or particular provisions of this Act
-  - **net cost** is the cost of New Zealand superannuation entitlements net of any tax deduction made or required to be made under the PAYE rules in the Income Tax Act 2004
+  - **net cost** is the cost of New Zealand superannuation entitlements net of any amount of tax deducted or withheld, or required to be deducted or withheld under the PAYE rules in the Income Tax Act 2007
   - **New Zealand superannuation** —
     (a) means the entitlements to New Zealand superannuation under Part 1, including both the standard and non-standard entitlements; and
     (b) includes, for the avoidance of doubt in Part 2 and Schedule 3, entitlements to New Zealand superannuation under Part 1 as modified under section 19 of the Social Welfare (Transitional Provisions) Act 1990 (adoption of reciprocity agreement with other countries)
@@ -128,7 +128,7 @@ New Zealand superannuation commences on the date on which the applicant becomes 
 (1) In this section,—
   - **CPI** means the consumers price index-all groups published by the Department of Statistics
   - **earner premium**
-  - **standard tax** means the amount of tax reckoned on a weekly basis that would be deductible in accordance with the tax code M stated in section NC 8 of the Income Tax Act 2004.
+  - **standard tax** means the amount of tax reckoned on a weekly basis that would be deductible in accordance with the tax code M stated in section 24B of the Tax Administration Act 1994.
 (2) Subject to subsection (3), the rates of New Zealand superannuation stated in paragraphs (a), (b), and (c) of clause 1 and paragraph (b) of clause 2 of Schedule 1 must be adjusted, by Order in Council, as at 1 April each year so that in each case the new rate (after the deduction of standard tax) is the rate at that date (after the deduction of standard tax and before the adjustment under this section is made) adjusted by any percentage movement upwards in the CPI between the CPI for the quarter ended with 31 December 1 year before the immediately preceding 31 December and the CPI for the quarter ended with the immediately preceding 31 December.
 (3) Every Order in Council made under subsection (2) must adjust the rates of New Zealand superannuation, subject to subsection (4),—
   (a) so that the weekly amounts referred to in section 16 are set in accordance with that section; and
@@ -341,7 +341,7 @@ The Fund is the property of the Crown.
 (3) Part 2 of the Public Finance Act 1989 (including, without limitation, section 26W) applies to the matters that are included in the economic and fiscal update under this section as if they were required to be included under that Act.
 
 ### 43 Amount of required annual capital contribution
-The required annual capital contribution for each financial year is—where—a is the percentage of that year's GDP that, if the same percentage of the GDP that is projected for each of the next 40 years were contributed (by way of either or both of annual required capital contributions and annual expense payments under section 45) each year for the next 40 years, would be just sufficient, taking into account the Fund balance at the start of that year and projected Fund investment income over the next 40 years, to enable the Fund to meet the expected net cost of the New Zealand superannuation entitlements payable out of the Fund over the next 40 years GDP is the projected annual gross domestic product of New Zealand b is the expected net cost of the New Zealand superannuation entitlements payable out of the Fund in the year net cost is the cost of New Zealand superannuation entitlements net of any tax deduction made or required to be made under the PAYE rules in the Income Tax Act 2004 next 40 years means the financial year for which the required annual capital contribution is being calculated plus each of the following 39 financial years.
+The required annual capital contribution for each financial year is—where—a is the percentage of that year's GDP that, if the same percentage of the GDP that is projected for each of the next 40 years were contributed (by way of either or both of annual required capital contributions and annual expense payments under section 45) each year for the next 40 years, would be just sufficient, taking into account the Fund balance at the start of that year and projected Fund investment income over the next 40 years, to enable the Fund to meet the expected net cost of the New Zealand superannuation entitlements payable out of the Fund over the next 40 years GDP is the projected annual gross domestic product of New Zealand b is the expected net cost of the New Zealand superannuation entitlements payable out of the Fund in the year net cost is the cost of New Zealand superannuation entitlements net of any amount of tax deducted or withheld, or required to be deducted or withheld under the PAYE rules in the Income Tax Act 2007 next 40 years means the financial year for which the required annual capital contribution is being calculated plus each of the following 39 financial years.
 
 ### 44 Lesser amounts of annual capital contribution
 (1) If the Government intends to pay less into the Fund in any financial year than the required annual capital contribution, the Minister must include, in the fiscal strategy report prepared under Part 2 of the Public Finance Act 1989,—
@@ -565,10 +565,10 @@ The annual report of the Guardians prepared each financial year under Part 4 of 
 **Taxation**
 
 ### 76 Taxation of Fund and Guardians
-(1) The Fund is subject to income tax on any income derived from the Fund's investments, and that income is to be treated as income of the Fund under the Income Tax Act 2004.
-(2) The Fund may claim deductions under section BD 2 of the Income Tax Act 2004.
+(1) The Fund is subject to income tax on any income derived from the Fund's investments, and that income is to be treated as income of the Fund under the Income Tax Act 2007.
+(2) The Fund may claim deductions under section BD 2 of the Income Tax Act 2007.
 (3) The Fund is treated as if it were a body corporate for tax purposes.
-(4) The Fund is not required to establish and maintain an imputation credit account under section ME 1 of the Income Tax Act 2004.
+(4) The Fund is not required to establish and maintain an imputation credit account under section OB 1 of the Income Tax Act 2007.
 (5)
 (6)
 
@@ -653,14 +653,14 @@ Unless the context otherwise requires, any reference to the New Zealand Superann
 
 |  |  |  | $ |
 | --- | --- | --- | --- |
-| 1 | (a) | to a single person who has been granted a living alone payment under section 13 | $336.65 a week |
-|  | (b) | to a single person who has not been granted a living alone payment under section 13 | $309.66 a week |
-|  | (c) | to a person who is married or in a civil union or in a de facto relationship | $255.70 a week |
+| 1 | (a) | to a single person who has been granted a living alone payment under section 13 | $347.77 a week |
+|  | (b) | to a single person who has not been granted a living alone payment under section 13 | $320.11 a week |
+|  | (c) | to a person who is married or in a civil union or in a de facto relationship | $264.37 a week |
 | 2 | Alternative rate for a person who is married or in a civil union or in a de facto relationship and whose spouse or partner is not entitled to receive New Zealand superannuation or a veteran's pension |  |  |
-|  | (a) | to a person who is married or in a civil union or in a de facto relationship and who was receiving, or had applied for and was entitled to receive, New Zealand superannuation or a veteran's pension at the alternative rate before 1 October 1991 | $511.40 a week subject to Income Test 3, or the rate for the time being stated in paragraph (b) of this clause, whichever is the greater |
-|  | (b) | to any other person who is married or in a civil union or in a de facto relationship | $486.56 a week, subject to Income Test 3 |
-| 3 | Hospital rate payable under section 19 to a person who is married or in a civil union or in a de facto relationship and who has no dependent children, or a single person, who receives New Zealand superannuation |  | An amount that, after income tax is deducted under tax code M (as stated in section NC 8 of the Income Tax Act 2004) is equal to $32.69 a week |
-| 4 | Rate of special disability allowance under section 20 |  | $32.69 a week |
+|  | (a) | to a person who is married or in a civil union or in a de facto relationship and who was receiving, or had applied for and was entitled to receive, New Zealand superannuation or a veteran's pension at the alternative rate before 1 October 1991 | $528.74 a week subject to Income Test 3, or the rate for the time being stated in paragraph (b) of this clause, whichever is the greater |
+|  | (b) | to any other person who is married or in a civil union or in a de facto relationship | $502.84 a week, subject to Income Test 3 |
+| 3 | Hospital rate payable under section 19 to a person who is married or in a civil union or in a de facto relationship and who has no dependent children, or a single person, who receives New Zealand superannuation |  | An amount that, after income tax is deducted under tax code M (as stated in section 24B of the Tax Administration Act 1994) is equal to $33.73 a week |
+| 4 | Rate of special disability allowance under section 20 |  | $33.73 a week |
 
 ## Schedule 2 — Specified Pacific countries
 
