@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 1992
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2008-04-01_
 
 > An Act to provide for the assessment and collection of loan repayments under the Crown's student loan scheme and to otherwise facilitate the administration of that scheme
 
@@ -11,26 +11,18 @@ _Consolidation as at 2007-10-01_
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **Assessable income**
-  - **Base interest rate** —
-    (a) Means,—
-      (i) In respect of the tax year ending with the 31st day of March 1993, 6 percent:
-      (ii) In respect of each subsequent tax year, such rate as is prescribed in respect of that tax year by regulations made under section 87 of this Act in the last 6 months of the immediately preceding tax year; and
-    (b) Includes any interest rate specified in a loan contract as the real interest rate:
   - **Borrower** means any person who has received a student loan and who has not fully repaid that loan
   - **Challenge** , for the purposes of Part 5 of this Act, has the meaning given to it in section 3(1) of the Tax Administration Act 1994:.
   - **chief executive** means the chief executive of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Social Security Act 1964
   - **collection** includes administration of a zero loan balance by the Commissioner for the purposes of determining whether the borrower is entitled to an interest write-off or interest reduction or refund under this Act
   - **Commissioner** means the Commissioner of Inland Revenue as defined in the Tax Administration Act 1994
   - **Department** means the Inland Revenue Department
-  - **Employee** means an employee as defined in paragraph (a) of the definition of employee in section OB 1 of the Income Tax Act 2004
-  - **Employer** means an employer as defined in paragraphs (a) and (b) of the definition of employer in section OB 1 of the Income Tax Act 2004
-  - **extra emolument** , in relation to any person, has the meaning given to extra pay in section OB 1 of the Income Tax Act 2004.
-  - **gross income** has the meaning given to income in section OB 1 of the Income Tax Act 2004.
-  - **Income-tested benefit** means an income-tested benefit as defined in section OB 1 of the Income Tax Act 2004
+  - **Employee** means an employee as defined in paragraph (a) of the definition of employee in section YA 1 of the Income Tax Act 2007
+  - **Employer** means an employer as defined in paragraphs (a) and (b) of the definition of employer in section YA 1 of the Income Tax Act 2007
+  - **extra emolument** , in relation to any person, has the meaning given to extra pay in section YA 1 of the Income Tax Act 2007.
+  - **gross income** has the meaning given to income in section YA 1 of the Income Tax Act 2007.
+  - **Income-tested benefit** means an income-tested benefit as defined in section YA 1 of the Income Tax Act 2007
   - **Income year**
-  - **Interest adjustment rate** means,—
-    (a) In respect of the tax year ending with the 31st day of March 1993, 2.2 percent:
-    (b) In respect of each subsequent tax year, such rate as is prescribed in respect of that tax year by regulations made under section 87 of this Act in the last 6 months of the immediately preceding tax year:
   - **Interim repayment** means any repayment required to be made in accordance with sections 26 to 28 of this Act
   - **IRD loan balance** means the total amount outstanding under all loans—and includes any increase under section 103
     (a) obtained by the borrower under the student loan scheme; and
@@ -40,19 +32,19 @@ _Consolidation as at 2007-10-01_
   - **Loan contract** means any loan agreement or contract entered into by the lender and the borrower under the student loan scheme
   - **Loan manager** means any person who is appointed by the lender from time to time to establish and administer loan balances under the student loan scheme (other than any such loan balances that have been transferred to the Commissioner for collection)
   - **Loan year** means a period of 12 months commencing on the 1st day of January and ending with the 31st day of December
-  - **Net income** means net income as defined in section OB 1 of the Income Tax Act 2004
+  - **Net income** means net income as defined in section YA 1 of the Income Tax Act 2007
   - **New Zealand based** has the meaning set out in subsection (2)
-  - **Non-resident** means a person who is not resident in New Zealand in terms of section OE 1 of the Income Tax Act 2004
+  - **Non-resident** means a person who is not resident in New Zealand in terms of section YD 1 of the Income Tax Act 2007
   - **overseas based** has the meaning set out in subsection (3)
   - **overseas based repayment obligation** means a repayment obligation imposed under Part 3 of this Act
-  - **PAYE intermediary** means a PAYE intermediary as defined in section OB 1 of the Income Tax Act 2004.
+  - **PAYE intermediary** means a PAYE intermediary as defined in section YA 1 of the Income Tax Act 2007.
   - **Penal charge** means a charge imposed under section 86 of this Act
   - **Penal repayment obligation** means an obligation imposed under section 85 of this Act
   - **Penalty** means—
     (a) Any penalty chargeable under the loan contract for failure to pay any repayment obligation:
     (b) Any penalty or additional charge or other late payment charge chargeable under this Act or under the Tax Administration Act 1994 (as applied by this Act):
   - **Periodic payer** means a borrower who is obliged to make interim repayments in accordance with sections 26 to 28 of this Act
-  - **Primary employment earnings** , in relation to an employee and to any pay period, means primary employment earnings as defined in section OB 1 of the Income Tax Act 2004
+  - **Primary employment earnings** , in relation to an employee and to any pay period, means primary employment earnings as defined in section 3(1) of the Tax Administration Act 1994
   - **repayment code** means the repayment code specified in section 17B
   - **Repayment deduction** means any amount required to be deducted from salary or wages in accordance with Part 2 of this Act
   - **Repayment obligation** , in respect of any tax year, means,—
@@ -62,21 +54,19 @@ _Consolidation as at 2007-10-01_
   - **Repayment threshold** means,—
     (a) In respect of the tax year ending with the 31st day of March 1993, $12,670:
     (b) In respect of the tax year ending with the 31st day of March 1994 and each subsequent tax year, $13,104 or such other amount as may be determined by regulations made under section 87 of this Act:
-  - **Resident** means a person who is resident in New Zealand in terms of section OE 1 of the Income Tax Act 2004
+  - **Resident** means a person who is resident in New Zealand in terms of section YD 1 of the Income Tax Act 2007
   - **Residual repayment obligation** has the meaning given to that term by section 26(2) of this Act
-  - **Salary or wages** , in relation to any person, means salary or wages as defined in section OB 1 of the Income Tax Act 2004, except that, in this Act, it includes extra emoluments
-  - **Secondary employment earnings** , in relation to an employee and to any pay period, means secondary employment earnings as defined in section OB 1 of the Income Tax Act 2004
+  - **Salary or wages** , in relation to any person, means salary or wages as defined in section YA 1 of the Income Tax Act 2007, except that, in this Act, it includes extra emoluments
+  - **Secondary employment earnings** , in relation to an employee and to any pay period, means secondary employment earnings as defined in section 3(1) of the Tax Administration Act 1994
   - **Student loan** —
     (a) Means any money advanced under the student loan scheme to a borrower; and
     (b) Includes—
       (i) Any interest charged in respect of money advanced to a borrower under the student loan scheme; and
       (ii) Any administration fee payable, in accordance with a loan contract, by the borrower under that loan contract to the lender under that loan contract:
   - **Student loan scheme** means the scheme established by the lender on the 1st day of January 1992 to provide loan assistance to tertiary students; and includes the scheme so established as amended from time to time
-  - **tax year** , in respect of the income of a person, means a tax year as defined in section OB 1 of the Income Tax Act 2004
+  - **tax year** , in respect of the income of a person, means a tax year as defined in section YA 1 of the Income Tax Act 2007
   - **Terminal repayment obligation** has the same meaning as in section 29(2) of this Act
-  - **total interest rate** means,—
-    (a) in respect of any tax year ending on or before 31 March 2006, the sum of the base interest rate and the interest adjustment rate:
-    (b) in respect of each tax year ending after 31 March 2006, the rate prescribed in respect of that tax year by regulations made under section 87 in the last 6 months of the immediately preceding tax year.
+  - **total interest rate** means the rate prescribed in respect of a tax year by regulations made under section 87 in the last 6 months of the immediately preceding tax year.
 (2) For the purposes of this Act, a borrower is New Zealand based for each day on which that borrower is entitled to a full interest write-off under section 38AA.
 (3) For the purposes of this Act, a borrower is overseas based for each day on which that borrower is not entitled to a full interest write-off under section 38AA.
 
@@ -159,7 +149,7 @@ Notwithstanding section 4 of this Act or any provision of the loan contract, no 
 
 ### 14A Declaration of world-wide income by certain borrowers
 (1) This section applies to borrowers who, for the purposes of this Act, are New Zealand based but are not resident.
-(2) For each tax year and each part tax year in respect of which this section applies to a borrower, that borrower must furnish to the Commissioner details of all amounts of that borrower's gross income that are not treated as having a source in New Zealand under section OE 4 of the Income Tax Act 2004.
+(2) For each tax year and each part tax year in respect of which this section applies to a borrower, that borrower must furnish to the Commissioner details of all amounts of that borrower's gross income that are not treated as having a source in New Zealand under section YD 4 of the Income Tax Act 2007.
 (3) The borrower must furnish the information to the Commissioner at the time when the borrower would have furnished his or her return of income for a tax year under the Tax Administration Act 1994 if he or she was resident.
 (4) The Commissioner may require the borrower to provide evidence of that borrower's gross income.
 
@@ -174,10 +164,10 @@ Notwithstanding section 4 of this Act or any provision of the loan contract, no 
   (c) The sum of all amounts of gross income known to the Commissioner for a borrower not required to furnish a return of income or receive an income statement under the Tax Administration Act 1994; or
   (d) the details of all amounts of a borrower's gross income provided to the Commissioner under section 14A.
 (4) The Commissioner shall, as soon as practicable after making any such assessment, give notice to the borrower of the amount assessed.
-(5) In this section, income statement has the same meaning as in section OB 1 of the Income Tax Act 2004.
+(5) In this section, income statement has the same meaning as in section YA 1 of the Income Tax Act 2007.
 
-### 16 Sections of Tax Administration Act 1994 and Income Tax Act 2004 relating to returns and assessments to apply
-Sections 21, 33, 34, 36 to 39, 41 to 44, 63, 79, 80, 92, 92A, 106 to 111, 113, and 114 of the Tax Administration Act 1994 and section KB 2 and paragraph (b) of the definition of applicable basic tax rate in section OB 1 of the Income Tax Act 2004 shall, as far as applicable and with all necessary modifications, apply for the purposes of this Act as if—
+### 16 Sections of Tax Administration Act 1994 and Income Tax Act 2007 relating to returns and assessments to apply
+Sections 21, 33, 34, 36 to 39, 41 to 44, 63, 79, 80, 92, 92A, 106 to 111, 113, and 114 of the Tax Administration Act 1994 and section LC 10 and paragraph (b) of the definition of basic tax rate in section YA 1 of the Income Tax Act 2007 shall, as far as applicable and with all necessary modifications, apply for the purposes of this Act as if—
   (a) Every reference to a taxpayer were a reference to a borrower; and
   (b) Every reference to the assessment and levy of income tax or tax were a reference to the assessment and levy of a repayment obligation; and
   (c) Every reference to income tax were a reference to a repayment obligation.
@@ -188,14 +178,14 @@ Sections 21, 33, 34, 36 to 39, 41 to 44, 63, 79, 80, 92, 92A, 106 to 111, 113, a
 (1) Sections 17B to 25 of this Act apply to any borrower—
   (a) Who reasonably expects that his or her gross income from salary or wages that are primary employment earnings for any tax year will exceed the repayment threshold for that tax year; or
   (b) Who is issued with a special repayment deduction rate certificate under section 21 of this Act.
-(2) Earnings from employment—(as those terms are defined in section OB 1 of the Income Tax Act 2004) shall not be taken into account under subsection (1)(a) of this section.
+(2) Earnings from employment—(as those terms are defined in section YA 1 of the Income Tax Act 2007) shall not be taken into account under subsection (1)(a) of this section.
   (a)
   (b)
   (c) As a casual agricultural worker; or
   (d) As an election day worker,—
 
 ### 17B Repayment codes for application of PAYE rules
-For the purpose of the application of the PAYE rules of the Income Tax Act 2004 under section 25 of this Act, the repayment code of any borrower in relation to any salary or wages is SL.
+For the purpose of the application of the PAYE rules of the Income Tax Act 2007 under section 25 of this Act, the repayment code of any borrower in relation to any salary or wages is SL.
 
 ### 18 Borrower's notice to employer of requirement for repayment deductions
 (1) A person who is a borrower and is in the employment of an employer (including an employer from whom secondary employment earnings are received) must give written notice under this section to the employer as soon as practicable after the later of—
@@ -203,12 +193,12 @@ For the purpose of the application of the PAYE rules of the Income Tax Act 2004 
   (b) the time at which the person becomes a borrower.
 (2) A notice under this section must inform the employer that—
   (a) the borrower is required to have repayment deductions made under this Part from any amount paid to the borrower by way of salary or wages; and
-  (b) the tax code prescribed by section NC 8(1) of the Income Tax Act 2004 for the borrower should be followed by the repayment code SL for the purpose of making a repayment deduction from salary or wages paid to the borrower.
+  (b) the tax code prescribed by section 24B(3) of the Tax Administration Act 1994 for the borrower should be followed by the repayment code SL for the purpose of making a repayment deduction from salary or wages paid to the borrower.
 
 ### 19 Employer or PAYE intermediary to make repayment deductions
 (1) If a borrower has given a notice under section 18 to an employer, each time the employer, or a person acting as a PAYE intermediary for the employer, pays an amount to the borrower by way of salary or wages for an tax year, the employer or the person must make a deduction from that amount.
 (2) The deduction shall be made at the standard deduction rate or, if the employer is aware that a special deduction rate applies, at that rate.
-(3) The repayment deductions made under this section shall be in addition to any tax deductions required to be made under the PAYE rules of the Income Tax Act 2004.
+(3) The repayment deductions made under this section shall be in addition to any tax deductions required to be made under the PAYE rules of the Income Tax Act 2007.
 
 ### 20 Standard deduction rate
 (1) The standard deduction rate shall be the rate of 10 cents in each complete dollar from—
@@ -227,8 +217,8 @@ For the purpose of the application of the PAYE rules of the Income Tax Act 2004 
 (1) If a borrower wishes to vary the standard deduction rate, the borrower may apply by notice in writing to the Commissioner for the issue of a special repayment deduction rate certificate that takes into account the greater of—
   (a) The borrower's estimated repayment obligation for the tax year; or
   (b) Some other amount required by the borrower.
-(2) Any borrower who has been issued with a special tax code certificate under section NC 14 of the Income Tax Act 2004 and whose net income for the tax year will exceed the repayment threshold shall be deemed to have made such an application.
-(3) Section NC 14 of the Income Tax Act 2004 shall apply, with all necessary modifications, to any special deduction rate certificate issued under this section.
+(2) Any borrower who has been issued with a special tax code certificate under section 24F of the Tax Administration Act 1994 and whose net income for the tax year will exceed the repayment threshold shall be deemed to have made such an application.
+(3) Section 24F of the Tax Administration Act 1994 shall apply, with all necessary modifications, to any special deduction rate certificate issued under this section.
 
 ### 22 Commissioner may assess amount of repayment deductions
 (1) If any question is raised as to the amount, if any, of any repayment deduction that ought to be made from any salary or wages, or any part thereof, it shall, subject to any regulations made for the purposes of this Part of this Act, be determined by the Commissioner.
@@ -241,13 +231,13 @@ Notwithstanding section 20 of this Act, where a repayment deduction is required 
 (1) Every employer or PAYE intermediary who makes a repayment deduction under this Part of this Act from the salary or wages of an employee for any period shall supply the Commissioner with such information, and in such manner, as the Commissioner may reasonably require in order to establish the amount of that repayment deduction.
 (2) The information required pursuant to subsection (1) of this section shall be given in such manner as the Commissioner may reasonably require.
 
-### 25 PAYE rules of Income Tax Act 2004 to apply to repayment deductions
-(1) Subject to this section, the PAYE rules as defined in section OB 1 of the Income Tax Act 2004 shall, as far as applicable and with the necessary modifications, apply as if—and every employer, PAYE intermediary, and employee shall comply with the requirements of the PAYE rules of the Income Tax Act 2004 to the extent to which those rules apply by virtue of this section.
+### 25 PAYE rules of Income Tax Act 2007 to apply to repayment deductions
+(1) Subject to this section, the PAYE rules as defined in section YA 1 of the Income Tax Act 2007 shall, as far as applicable and with the necessary modifications, apply as if—and every employer, PAYE intermediary, and employee shall comply with the requirements of the PAYE rules of the Income Tax Act 2007 to the extent to which those rules apply by virtue of this section.
   (a) Every reference to income tax were a reference to a borrower's repayment obligation; and
-  (b) Every reference to tax deductions were a reference to repayment deductions; and
+  (b) Every reference to withholding or deducting an amount of tax were a reference to repayment deductions; and
   (c) every reference to a tax code were a reference to a repayment code,—
-(2) Notwithstanding subsection (1) of this section, sections BC 1, LD 1(2) and (3), NC 2(1), NC 6, NC 7, NC 16, and NC 17 of the Income Tax Act 2004 shall not apply to any amount required to be deducted under this Part of this Act.
-(3) Any repayment deduction made under this Part of this Act shall not be treated as part of or included in any tax deduction made under the PAYE rules of the Income Tax Act 2004 on account of income tax.
+(2) Notwithstanding subsection (1) of this section, sections BC 1, LD 1(2) and (3), RC 2(1), RC 6, RC 7, RC 16, and RC 17 of the Income Tax Act 2007 shall not apply to any amount required to be deducted under this Part of this Act.
+(3) Any repayment deduction made under this Part of this Act shall not be treated as part of or included in any tax deduction made under the PAYE rules of the Income Tax Act 2007 on account of income tax.
 
 **Interim repayments**
 
@@ -259,24 +249,24 @@ Notwithstanding section 20 of this Act, where a repayment deduction is required 
 
 ### 27 Amount of interim repayments
 (1) The amount payable by a periodic payer by way of interim payments in respect of the net income for any tax year shall be, subject to subsection (2) of this section, an amount equal to 105 percent of the amount of the payer's residual repayment obligation for the immediately preceding tax year.
-(2) The amount payable under subsection (1) of this section, may be varied in accordance with this Act and the provisions of the Income Tax Act 2004 (as applied by section 28 of this Act).
+(2) The amount payable under subsection (1) of this section, may be varied in accordance with this Act and the provisions of the Income Tax Act 2007 (as applied by section 28 of this Act).
 
 ### 28 Interim repayments to be paid in same manner as provisional tax
 (1) Subject to this section, interim repayments shall be payable in the same manner as provisional tax.
-(2) The provisional tax rules of the Income Tax Act 2004 and of the Tax Administration Act 1994 shall, as far as applicable and with all necessary modifications, apply as if—and every periodic payer shall comply with the requirements of that Part to the extent to which the Part applies by virtue of this section.
+(2) The provisional tax rules of the Income Tax Act 2007 and of the Tax Administration Act 1994 shall, as far as applicable and with all necessary modifications, apply as if—and every periodic payer shall comply with the requirements of that Part to the extent to which the Part applies by virtue of this section.
   (a) Every reference to provisional tax were a reference to the amount of interim repayments payable by a periodic payer; and
-  (b) Every reference to a provisional taxpayer were a reference to a periodic payer; and
+  (b) Every reference to a provisional taxpayer or a person liable to pay provisional tax were a reference to a periodic payer; and
   (c) Every reference to residual income tax were a reference to the amount of residual repayment obligation; and
   (d) Every reference to income tax were a reference to the repayment obligation,—
 (3) Notwithstanding subsection (1) of this section,—
-  (a) sections MB 2(3) and MB 4(3)(a) of the Income Tax Act 2004 (which determine the amount of provisional tax payable) and section LD 7 of that Act (which provides that provisional tax is to be credited against a taxpayer's income tax liability) shall not apply to any amount of interim repayments; and
-  (b) section MB 4(3)(b) of the Income Tax Act 2004 (which relates to amounts of instalments where return not furnished)—
+  (a) sections RC 3 and RC 5(2) of the Income Tax Act 2007 and section LB 2 of that Act (which provides that provisional tax is to be credited against a taxpayer's income tax liability) shall not apply to any amount of interim repayments; and
+  (b) section RC 5(3) of the Income Tax Act 2007 (which relates to amounts of instalments where return not furnished)—
     (i) Shall apply only where the periodic payer's residual repayment obligation for the second preceding tax year exceeds $1,000; and
     (ii) Shall apply as if, where the return for the immediately preceding tax year, or an estimate of the residual repayment obligation, is not furnished by the due date for payment of the third instalment, the periodic payer is deemed to have furnished a statement showing an estimate of the residual repayment obligation for that tax year equal to the amount of any interim repayments paid by the periodic payer on or before that date; and
-  (c) section MB 7 of the Income Tax Act 2004 (under which a provisional taxpayer may use the GST ratio method to determine an amount of provisional tax payable) shall not apply to any amount of interim payments; and
-  (d) section MB 8(3)(a)(i) and (ii) and (b)(i) of the Income Tax Act 2004 (which provide for exceptions to the requirements of section MB 8(2) of that Act) shall not apply to any amount of interim payments; and
-  (e) section MB 8(4) of the Income Tax Act 2004 (which provides for payments of provisional tax by a provisional taxpayer who pays GST on a 6-monthly basis) shall not apply to any amount of interim payments; and
-  (f) sections MB 10, MB 15, MB 17, MB 18, MB 23, and MB 32 of the Income Tax Act 2004 (which provide for the use by a provisional taxpayer of the GST ratio method) shall not apply to any amount of interim payments.
+  (c) section RC 8 of the Income Tax Act 2007 (under which a provisional taxpayer may use the GST ratio method to determine an amount of provisional tax payable) shall not apply to any amount of interim payments; and
+  (d) section RC 9(4)(a)(i) and (ii) and (b)(i) of the Income Tax Act 2007 (which provide for exceptions to the requirements of section RC 9(3) of that Act) shall not apply to any amount of interim payments; and
+  (e) section RC 9(5) of the Income Tax Act 2007 (which provides for payments of provisional tax by a provisional taxpayer who pays GST on a 6-monthly basis) shall not apply to any amount of interim payments; and
+  (f) sections RC 11, RC 16 to RC 19, RC 24, and RC 31 of the Income Tax Act 2007 (which provide for the use by a provisional taxpayer of the GST ratio method) shall not apply to any amount of interim payments.
 
 **Terminal repayments**
 
@@ -288,7 +278,7 @@ Notwithstanding section 20 of this Act, where a repayment deduction is required 
 (2) The amount by which the borrower's repayment obligation exceeds the sum of those amounts for any tax year is referred to as the borrower's terminal repayment obligation.
 
 ### 30 Payment of terminal repayment obligation
-(1) A terminal repayment obligation for a tax year that is not previously due and payable is due and payable on the borrower's terminal tax date, as defined in section OB 1 of the Income Tax Act 2004, for the tax year.
+(1) A terminal repayment obligation for a tax year that is not previously due and payable is due and payable on the borrower's terminal tax date, as defined in section YA 1 of the Income Tax Act 2007, for the tax year.
 (2) Notwithstanding subsection (1) of this section, where an assessment is not made until after the due date of the terminal repayment obligation, or is increased after the due date of the terminal repayment obligation, the Commissioner may, having regard to the circumstances of the case and if the Commissioner thinks it equitable to do so, fix a new date for the payment of the terminal repayment obligation, or part thereof, or of the increase, as the case may be, and the date so fixed shall be deemed to be the due date for the purposes of this Part of this Act.
 
 ## Part 3 — Collection of repayments from overseas based borrowers
@@ -472,7 +462,7 @@ An applicant under section 38AE(1)(e) must—
   (a) have been a resident during the time in question; and
   (b) have a permanent place of abode only in New Zealand; and
   (c) provide proof that the applicant receives either—
-    (i) a source deduction payment, as defined in section OB 2(1) of the Income Tax Act 2004, derived from New Zealand; or
+    (i) a PAYE income payment as defined in section RD 3(1) of the Income Tax Act 2007, derived from New Zealand; or
     (ii) income from a business that has a permanent place of business in New Zealand; and
   (d) provide proof that the majority of the applicant's personal absences from New Zealand are because of the applicant's employment or occupation.
 
@@ -588,8 +578,8 @@ An applicant under section 38AE(1)(f) must—
     (c) The amount of any instalment of an interim repayment due after the third instalment date not paid by the due date:
     (d) In respect of an overseas based repayment obligation, the amount of any overseas based repayment obligation not paid by the last day of the tax year;—
   - **Due date** means—
-    (a) For a terminal repayment obligation, the date specified in schedule 13 of the Income Tax Act 2004 or any later date specified in the notice of assessment:
-    (b) For any instalment of an interim repayment due on or before the third instalment date, the date specified in schedule 13 of the Income Tax Act 2004 as the date for payment of the third instalment:
+    (a) For a terminal repayment obligation, the date specified in schedule 3 of the Income Tax Act 2007 or any later date specified in the notice of assessment:
+    (b) For any instalment of an interim repayment due on or before the third instalment date, the date specified in schedule 3 of the Income Tax Act 2007 as the date for payment of the third instalment:
     (c) For any instalment of an interim repayment due after the third instalment date, the date specified in the notice of assessment as the due date:
     (d) For an overseas based repayment obligation, the last day of the tax year.
 
@@ -603,12 +593,12 @@ An applicant under section 38AE(1)(f) must—
     (i) The amount of the periodic payer's estimate, being that estimate applying at the due date for payment of the third instalment; and
     (ii) The amount of the interim repayments paid on or before the due date for payment of the third instalment.
 (3) If the Commissioner is satisfied that a periodic payer has become liable for underestimation penalty for a tax year under this section by reason of—the Commissioner shall, to the extent that the penalty is higher than it would otherwise have been, write off the penalty or a part thereof.
-  (a) The enactment of any Act amending the Income Tax Act 2004 or the making of any regulation or Order in Council relating to income tax, on or after 1 March in that tax year and on or before 20 April in the immediately succeeding tax year; or
-  (b) The Commissioner making public, on or after 1 March in that tax year and on or before 20 April in the immediately succeeding tax year, any ruling in relation to any provision of the Income Tax Act 2004 and that ruling is different from that previously made public by the Commissioner in relation to that provision; or
+  (a) The enactment of any Act amending the Income Tax Act 2007 or the making of any regulation or Order in Council relating to income tax, on or after 1 March in that tax year and on or before 20 April in the immediately succeeding tax year; or
+  (b) The Commissioner making public, on or after 1 March in that tax year and on or before 20 April in the immediately succeeding tax year, any ruling in relation to any provision of the Income Tax Act 2007 and that ruling is different from that previously made public by the Commissioner in relation to that provision; or
   (c) The adoption by the person of an incorrect tax position which is corrected for the tax year,
 (4) A penalty imposed under this section is deemed to be due and payable on—
   (a) The 7th day of the month specified in Schedule 13 Part A of the Income Tax Act 1994 as the month for payment of the borrower's terminal tax, unless the month is January; and
-  (b) The 15th day of January, when January is the month specified in schedule 13, part A, of the Income Tax Act 2004.
+  (b) The 15th day of January, when January is the month specified in schedule 3, part A of the Income Tax Act 2007.
 
 ### 44B No interest on portion of loan balance subject to penalty
 (1) No interest may be charged on any portion of a loan balance on which a borrower is liable to pay a penalty.
@@ -738,7 +728,7 @@ If an application has been made under section 54, the Commissioner may, for any 
   (c) reduce that borrower's repayment obligation under section 34 in accordance with the Commissioner's decision under section 55(b).
 (2) If the Commissioner reduces the amount to be deducted from, or paid by, a borrower to zero, section 18 does not apply to that borrower for the period for which that reduction applies.
 (3) If a borrower has given his or her employer notice in accordance with section 18 and the Commissioner subsequently reduces the amount to be deducted from, or paid by, a borrower to zero, the borrower must give a copy of the special repayment deduction rate certificate to his or her employer as soon as practicable after it is issued.
-(4) Section NC 14 of the Income Tax Act 2004 applies, with all necessary modifications, to any special deduction rate certificate issued under this section.
+(4) Section 24F of the Tax Administration Act 1994 applies, with all necessary modifications, to any special deduction rate certificate issued under this section.
 
 ### 55C Effect of Commissioner's decision under section 55
 (1) Any amount that, as a result of a decision under section 55, the Commissioner has refunded to, or not collected from, a borrower is subject to interest at the total interest rate on the daily amount outstanding (except to the extent that this Act otherwise requires).
@@ -1061,14 +1051,8 @@ If any borrower evades, or attempts to evade, or does any act with intent to eva
     (ii)
     (iii)
     (iv) The repayment percentage,—
-  (ab) specifying a formula or methodology, and other requirements, in accordance with which the following interest rates must be set or reset for the purposes of this Act:
-    (i) the base interest rate; and
-    (ii) the interest adjustment rate; and
-    (iii) the total interest rate:
-  (ac) determining, in accordance with the formula or methodology and requirements specified under paragraph (ab), the following interest rates that are to apply in respect of any tax year:
-    (i) the base interest rate; and
-    (ii) the interest adjustment rate; and
-    (iii) the total interest rate:
+  (ab) specifying a formula or methodology, and other requirements, in accordance with which the total interest rate must be set or reset for the purposes of this Act:
+  (ac) determining, in accordance with the formula or methodology and requirements specified under paragraph (ab), the total interest rate that is to apply in respect of any tax year
   (b) Amending any amount specified in section 32 of this Act:
   (ba)
   (bb) specifying a list of charitable organisations for the purposes of section 38AE(1)(b):
