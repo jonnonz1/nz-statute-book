@@ -1,5 +1,5 @@
 # Hop Industry Restructuring Act 2003
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 ### 1 Title
 This Act is the Hop Industry Restructuring Act 2003.
@@ -8,10 +8,10 @@ This Act is the Hop Industry Restructuring Act 2003.
 
 ### 2 Commencement
 (1) Sections 12 and 13 come into force on 1 August 2003.
-(2) The rest of this Act comes into force on the day after the day on which it receives the Royal assent.
+(2) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
 
 ### 3 Purpose
-The purpose of this Act is−
+The purpose of this Act is—
   (a) to convert the New Zealand Hop Marketing Board into a co-operative company; and
   (b) to remove the regulatory controls on the sale and export of hops by—
     (i) repealing the Agriculture (Emergency Powers) Act 1934 and the Marketing Act 1936; and
@@ -21,14 +21,14 @@ The purpose of this Act is−
 In this Act, unless the context otherwise requires,—
   - **Board** means the New Zealand Hop Marketing Board established by the Hop Marketing Regulations 1939
   - **chairperson** means the person who held office as the chairperson of the Board immediately before the restructuring day
-  - **company** means the company deemed to be registered under the Companies Act 1993 and the Co-operative companies Act 1996 with the name New Zealand Hop Marketers Limited
+  - **company** means the company deemed to be registered under the Companies Act 1993 and the Co-operative Companies Act 1996 with the name New Zealand Hop Marketers Limited
   - **hop plant** means the plant with the scientific name Humulus lupulus
   - **hops** means the fruit of hop plants that are grown and produced within New Zealand
   - **liabilities** means liabilities, debts, charges, duties, and obligations of every description (whether present or future, whether actual or contingent, and whether payable, to be observed, or performed in New Zealand or elsewhere)
   - **producer** means a person—
     (a) who has signed a Hop Supplier Agreement with the Board as at 31 July 2003; and
     (b) who has supplied hops from the 2003 harvesting season
-  - **property** means property of every kind whether tangible or intangible, corporeal or incorporeal; and, without limitation, includes—
+  - **property** means property of every kind whether tangible or intangible, real or personal, corporeal or incorporeal; and, without limitation, includes—
     (a) choses in action or money:
     (b) goodwill:
     (c) any copyright, patent, registered design, trademark, know-how, service marks, trade secrets, or other intellectual or industrial property and any applications pending for patents, trademarks, registered designs, and other intellectual or industrial property:
@@ -75,7 +75,7 @@ This Act binds the Crown.
 
 ### 10 Final report of Board
 (1) As soon as reasonably practicable after the restructuring day, the chairperson must arrange for a final report of the Board to be completed.
-(2) The report must-
+(2) The report must—
   (a) contain audited financial statements and an annual report for the financial year ending on 31 July 2003; and
   (b) comply with regulations 18 and 19 of the Hop Marketing Regulations 1939 as if those regulations had not been revoked by this Act.
 (3) The chairperson must send a copy of the report to every producer.
@@ -83,20 +83,19 @@ This Act binds the Crown.
 **Other matters**
 
 ### 11 Taxation
-(1) The issue by the company of shares on the restructuring day to a person who was a producer on 31 July 2003-
+(1) The issue by the company of shares on the restructuring day to a person who was a producer on 31 July 2003—
   (a) is not a dutiable gift for the purposes of the Estate and Gift Duties Act 1968; and
-  (b) is not a dividend derived by the person for the purposes of the Income Tax Act 2004; and
-  (c) is not otherwise income of the person for the purposes of the Income Tax Act 2004.
-(2) For the purposes of the Income Tax Act 2004, if the company issues shares on the restructuring day to a person who was a producer on 31 July 2003, the person must be treated as having-
+  (b) is not a dividend derived by the person for the purposes of the Income Tax Act 2007; and
+  (c) is not otherwise income of the person for the purposes of the Income Tax Act 2007.
+(2) For the purposes of the Income Tax Act 2007, if the company issues shares on the restructuring day to a person who was a producer on 31 July 2003, the person must be treated as having—
   (a) held those shares at all times before the restructuring day; and
-  (b) subject to section OD 5(5) of the Income Tax Act 2004, held any voting interest or market value interest attributable to those shares at all times before the restructuring day.
-(3) For the purposes of the definition of available subscribed capital in section OB 1 of the Income Tax Act 2004, the company—
+  (b) subject to section YC 10 of the Income Tax Act 2007, held any voting interest or market value interest attributable to those shares at all times before the restructuring day.
+(3) For the purposes of the definition of available subscribed capital in section YA 1 of the Income Tax Act 2007, the company—
   (a) must be treated as having received on the restructuring day an amount of $160,000 for the issue of ordinary shares on the restructuring day to producers; and
   (b) must not be treated as having received any other amount of consideration for the issue of shares to producers on the restructuring day.
 
 ### 12 Consequential amendments
-(1) Schedule 1 of the Official Information Act 1982 is amended by omitting the item relating to the New Zealand Hop Marketing Board.
-(2) Section 8 of the Finance Act 1941 (1941 No 1) is repealed.
+Amendment(s) incorporated in the Act(s).
 
 ### 13 Repeals and revocation
 (1) The following Acts are repealed:
@@ -104,7 +103,7 @@ This Act binds the Crown.
   (b) Marketing Act 1936 (1936 No 5).
 (2) The Hop Marketing Regulations 1939 (SR 1939/96) are revoked.
 
-## Schedule Schedule — Provisions relating to restructuring of Board
+## Schedule  — Provisions relating to restructuring of Board
 
 ### 1 Consequential provisions on restructuring as company
 (1) Without limiting the generality of section 9, the following provisions have effect on and after the restructuring day:
@@ -117,7 +116,7 @@ This Act binds the Crown.
 (2) Subclause (1)(f) applies as if the company, instead of the Board, had been the person by whom the contract, agreement, conveyance, deed, lease, instrument, or undertaking was entered into, made, given, or addressed (as the case may be).
 
 ### 2 Certain matters not affected by transfer to company
-Nothing effected or authorised by this Act-
+Nothing effected or authorised by this Act—
   (a) must be regarded as placing the Board or the company, or any other person, in breach of contract or confidence or as otherwise making any of them liable of a civil wrong; or
   (b) must be regarded as giving rise to a right for any person to terminate or cancel a contract or arrangement, or to accelerate the performance of any obligation; or
   (c) must be regarded as placing the Board or the company, or any other person, in breach of an enactment, rule of law, or contractual provision prohibiting, restricting, or regulating the assignment or transfer of property or the disclosure of information; or
@@ -126,7 +125,7 @@ Nothing effected or authorised by this Act-
 
 ### 3 Initial directors of company
 (1) The initial directors of the company are the existing members of the Board who consent to be directors of the company.
-(2) The term of office of an initial director expires on the date on which the director's term on the Board would have expired had the Board not converted into the company.
+(2) The term of office of an initial director expires on the date on which the director’s term on the Board would have expired had the Board not converted into the company.
 
 ### 4 Employees of Board
 (1) Despite any other provision of this Act,—
