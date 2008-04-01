@@ -1,5 +1,5 @@
 # Takeovers Act 1993
-_Consolidation as at 2008-02-29_
+_Consolidation as at 2008-04-01_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Takeovers Act 1993.
@@ -806,7 +806,7 @@ If conduct by a person constitutes grounds for making an order under any 1 or mo
 (3) In this section and section 44M,—
   - **aggrieved person** means any person to whom a relevant person is liable
   - **associated persons** are—
-    (a) persons who are relatives within the meaning of the Income Tax Act 2004 or de facto partners; or
+    (a) persons who are relatives within the meaning of the Income Tax Act 2007 or de facto partners; or
     (b) persons who are partners to whom the Partnership Act 1908 applies; or
     (c) bodies corporate that consist of substantially the same shareholders or are under the control of the same persons; or
     (d) a body corporate and a person who has the power, directly or indirectly, to exercise, or control the exercise of, the right to vote attached to 25% or more of the voting securities of the body corporate; or
