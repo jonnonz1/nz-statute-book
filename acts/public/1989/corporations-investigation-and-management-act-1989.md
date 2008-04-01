@@ -1,5 +1,5 @@
 # Corporations (Investigation and Management) Act 1989
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2008-04-01_
 
 > An Act to enable the Registrar of Companies to determine whether corporations are at risk, to enable action to be taken in relation to such corporations in appropriate cases, and to repeal the Companies Special Investigations Act 1958
 
@@ -565,11 +565,11 @@ Every person who commits an offence against this Act for which no penalty is pro
 (4)
 (5) Nothing in sections 120, 196 to 209B, and 214 of the Companies Act 1993 shall apply to a company that is subject to statutory management.
 (6) Nothing in the Receiverships Act 1993 shall apply to a company that is subject to statutory management.
-(7) Nothing in any enactment other than the Income Tax Act 2004 or the Statistics Act 1975 shall require a corporation that is subject to statutory management or a statutory manager to file any annual or other return.
+(7) Nothing in any enactment other than the Income Tax Act 2007 or the Statistics Act 1975 shall require a corporation that is subject to statutory management or a statutory manager to file any annual or other return.
 
 ### 71A Application of reporting requirements in other Acts
 (1) The Governor-General may, from time to time, by Order in Council, declare that the provisions of any enactment that require a corporation that is subject to statutory management, or a statutory manager, to file any annual or other return shall not apply to that corporation or statutory manager.
-(2) No such order shall exclude the application of any provision of the Statistics Act 1975 or the Income Tax Act 2004.
+(2) No such order shall exclude the application of any provision of the Statistics Act 1975 or the Income Tax Act 2007.
 (3) Any such order may apply—
   (a) To any particular corporation or statutory manager; or
   (b) To any class of corporations or statutory managers; or
