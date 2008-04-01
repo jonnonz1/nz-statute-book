@@ -1,5 +1,5 @@
 # Health Sector (Transfers) Act 1993
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 > An Act to enact provisions that are consequential upon the enactment of the Health and Disability Services Act 1993
 
@@ -172,11 +172,11 @@ This Act binds the Crown.
 (1)
 (2) No gift duty shall be payable under the Estate and Gift Duties Act 1968 in respect of any dutiable gift from a transferor to a transferee under an agreement entered into under section 4 of this Act, or a proposal approved under section 5 of this Act.
 (3) A transfer of assets or liabilities from a transferor to a transferee pursuant to an agreement entered into under section 4 of this Act, or a proposal approved under section 5 of this Act, shall be deemed not to be a supply of goods or services for the purposes of the Goods and Services Tax Act 1985.
-(4) Nothing in sections CB 5 to CB 21 or EE 37 to EE 44 of the Income Tax Act 2004 shall apply in respect of any asset transferred by a transferor to a transferee under an agreement entered into under section 4 of this Act, or a proposal approved under section 5 of this Act.
-(5) For the purposes of the Income Tax Act 2004, assets and liabilities acquired by a transferee from a transferor under an agreement entered into under section 4 of this Act, or a proposal approved under section 5 of this Act, shall be deemed to have been acquired—
+(4) Nothing in sections CB 6 to CB 23 or EE 44 to EE 52 of the Income Tax Act 2007 shall apply in respect of any asset transferred by a transferor to a transferee under an agreement entered into under section 4 of this Act, or a proposal approved under section 5 of this Act.
+(5) For the purposes of the Income Tax Act 2007, assets and liabilities acquired by a transferee from a transferor under an agreement entered into under section 4 of this Act, or a proposal approved under section 5 of this Act, shall be deemed to have been acquired—
   (a) On the date on which such assets or liabilities are transferred to the transferee under the agreement or the proposal; and
   (b) For a consideration equal, in the case of transfer by an agreement under section 4 of this Act, to the consideration specified in the agreement, and in the case of transfer by a proposal approved under section 5 of this Act for a consideration equal to the value attributed to such asset or liability in the proposal.
-(6) Nothing in sections EE 34 to EE 36 of the Income Tax Act 2004 shall apply in respect of any asset acquired by a transferee from a transferor under an agreement entered into under section 4 of this Act, or a proposal approved under section 5 of this Act.
+(6) Nothing in sections EE 41 to EE 43 of the Income Tax Act 2007 shall apply in respect of any asset acquired by a transferee from a transferor under an agreement entered into under section 4 of this Act, or a proposal approved under section 5 of this Act.
 
 ### 9 Further provisions applying to transfer of assets and liabilities
 The provisions set out in Schedule 1 to this Act shall apply in respect of:
