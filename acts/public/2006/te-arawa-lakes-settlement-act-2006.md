@@ -1,5 +1,5 @@
 # Te Arawa Lakes Settlement Act 2006
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 ## Preamble
 BackgroundTreaty of Waitangi claim and settlement negotiationsTe Arawa Lakes Trust
@@ -978,7 +978,7 @@ The chief executive of the Ministry of Justice must make copies of the deed of s
   (c) the Trustees must be treated as having held, at all times since the interests were acquired by the Arawa Maori Trust Board, the voting interests and market value interests, as the case may be, that they receive from the Arawa Maori Trust Board under section 83.
 (2) In this section,—
   - **Inland Revenue Acts** has the same meaning as in section 3(1) of the Tax Administration Act 1994
-  - **market value interest** and have the same meanings as in section OB 1 of the Income Tax Act 2004.
+  - **market value interest** and have the same meanings as in section YA 1 of the Income Tax Act 2007.
 
 **Reporting requirements**
 
