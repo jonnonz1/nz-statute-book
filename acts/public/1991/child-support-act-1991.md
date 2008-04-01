@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 > An Act—aTo assess the minimum level of financial support payable by certain parents in respect of their children; andbTo provide for the collection and payment of child support and spousal maintenance payments; andcTo make transitional arrangements relating to maintenance liabilities under the Social Security Act 1964 and the Family Proceedings Act 1980
 
@@ -26,8 +26,8 @@ _Consolidation as at 2007-09-03_
   - **Election period** , in relation to a child support year and to an election made by a person under section 40 of this Act that complies with that section, means the period in that child support year in which that election applies in accordance with section 41 of this Act
   - **Eligible applicant** , in relation to a qualifying child, means a person who is entitled to apply for a formula assessment of child support under section 8 or section 10 of this Act
   - **Eligible custodian** has the same meaning as in section 8 of this Act
-  - **Employee** has the same meaning as in paragraph (a) of the definition of employee in section OB 1 of the Income Tax Act 2004
-  - **Employer** has the same meaning as in paragraphs (a) and (b) of the definition of employer in section OB 1 of the Income Tax Act 2004
+  - **Employee** has the same meaning as in paragraph (a) of the definition of employee in section YA 1 of the Income Tax Act 2007
+  - **Employer** has the same meaning as in paragraphs (a) and (b) of the definition of employer in section YA 1 of the Income Tax Act 2007
   - **Family Court** means a division of a District Court known, in accordance with section 4 of the Family Courts Act 1980, as a Family Court
   - **Financially independent** , in relation to a person, means—
     (a) In full employment; or
@@ -44,7 +44,7 @@ _Consolidation as at 2007-09-03_
     (b) Self-employment of the person in any business, profession, trade, manufacture, or undertaking carried on for pecuniary profit for not less than an average of 30 hours per week; or
     (c) Employment of the person for any number of hours which is regarded as full-time employment for the purposes of any award, agreement, or contract relating to that employment:
   - **Income amount order** , in relation to a liable parent, means a determination under Part 5A, 6A, or 6B or an order under Part 7, being a determination or an order varying the child support income amount of the liable parent or making provision with respect to the calculation of that amount
-  - **Income from employment** has the same meaning as in paragraph (a) of the definition of that term in section OB1 of the Income Tax Act 2004, and includes a payment made to a specified office holder (as defined in section OB1 of the Income Tax Act 2004) in respect of the activities of a specified office.
+  - **Income from employment** has the same meaning as in paragraph (a) of the definition of that term in section YA 1 of the Income Tax Act 2007 in respect of the activities of a specified office.
   - **Income year**
   - **Inflation percentage** has the meaning given to it by section 29 of this Act
   - **Last relevant tax year** means,—
@@ -89,7 +89,7 @@ _Consolidation as at 2007-09-03_
       (iv) a sickness benefit:
       (v)
     (d) Where the person is a sole parent within the meaning of the Social Security Act 1964 and the application for the benefit was made on or after the 1st day of August 1991, an emergency benefit granted under section 61 of that Act,—
-  - **Source deduction payment** has the same meaning as in section OB 2 of the Income Tax Act 2004
+  - **source deduction payment** means a PAYE income payment (as defined in section RD 3 of the Income Tax Act 2007)
   - **Spousal maintenance**
   - **Step-parent** , in relation to any child, means, in applying any provision of this Act relating to the liability of a person to pay child support, any person who has been declared to be a step-parent of the child by a Family Court under section 99 of this Act
   - **Substantially equal sharing of ongoing daily care** , in respect of a child, has the meaning given to it by section 13 of this Act
@@ -99,8 +99,8 @@ _Consolidation as at 2007-09-03_
     (b) A joint venture:
     (c) The trustees of a trust.
   - **Withholding income** means—
-    (a) income from employment that has a New Zealand source that is subject to the PAYE rules (as defined in section OB 1 of the Income Tax Act 2004):
-    (b) interest or a dividend that has a New Zealand source that is subject to the RWT rules (as defined in section OB 1 of the Income Tax Act 2004).
+    (a) income from employment that has a New Zealand source that is subject to the PAYE rules (as defined in section YA 1 of the Income Tax Act 2007):
+    (b) interest or a dividend that has a New Zealand source that is subject to the RWT rules (as defined in section YA 1 of the Income Tax Act 2007).
 (2) Unless otherwise specified, the application of any provision of this Act to a person, assessment, payment, or other matter shall be determined in respect of each day in a child support year, and any assessment or other calculation shall be made on the basis of the circumstances existing in relation to that day.
 (3) For the purposes of this Act, a tax year corresponds with a child support year if,—
   (a) In relation to a person whose income is assessed under the Tax Administration Act 1994, the tax year ends on the last day of the child support year:
@@ -227,7 +227,7 @@ Where there is disagreement as to who is the principal provider of ongoing daily
   (c) It requires the payment of child support by a person to whom section 6 of this Act applies in respect of that child; and
   (d) It is made to the Commissioner in the appropriate approved form; and
   (e) It contains such proof as the Commissioner may require that the person from whom child support is sought is a parent of the qualifying child; and
-  (ea) The tax file number (as defined in section OB 1 of the Income Tax Act 2004) of the qualifying child is provided; and
+  (ea) The tax file number (as defined in section YA 1 of the Income Tax Act 2007) of the qualifying child is provided; and
   (f)
   (g) It is verified as required by the form of application; and
   (h) It is accompanied by such documents (if any) as are required by the form of application to accompany the application.
@@ -379,8 +379,8 @@ Where—the liability of the liable parent to pay money towards the support of t
   - **Last relevant income year**
   - **Living allowance** has the meaning set out in section 30 of this Act
   - **Relevant average weekly earnings amount** , in relation to the most recent tax year, means the ordinary time average weekly earnings (for males and females combined), as at mid-February in the tax year immediately preceding the most recent tax year, as published by the Department of Statistics
-  - **tax year** has the same meaning as in section OB 1 of the Income Tax Act 2004.
-  - **Taxable income** has the meaning provided in section OB 1 of the Income Tax Act 2004 and—
+  - **tax year** has the same meaning as in section YA 1 of the Income Tax Act 2007.
+  - **Taxable income** has the meaning provided in section YA 1 of the Income Tax Act 2007 and—
     (a) If a liable parent's taxable income for a tax year has not been assessed and no income statement has been issued, the taxable income for the income year may be determined on the basis of the income and any other particulars known to the Commissioner; and
     (b) The taxable income of a liable parent who receives an income statement in respect of a tax year for which taxable income has not been assessed is the amount of taxable income shown on the income statement:
   - **Yearly equivalent of the relevant average weekly earnings amount** , in relation to a child support year, means 52 times the relevant average weekly earnings amount in relation to the child support year.
@@ -408,9 +408,9 @@ Where—the liability of the liable parent to pay money towards the support of t
     (e) Who is under 19 years of age; and
     (f) who is not living with another person in a marriage, civil union or de facto relationship
   - **Gross married rate of community wage**
-  - **Gross married rate of invalid's benefit** , in relation to any child support year, means the rate (as specified in paragraph (f) of Schedule 6 to the Social Security Act 1964 and before any diminution based on income) of invalid's benefit in force on the 1st day of January in the immediately preceding child support year, increased by the total amount of income tax deductions that would be required to make the rate a gross, rather than a net rate (as determined in accordance with section NC 6(1D) of the Income Tax Act 2004)
-  - **gross married rate of unemployment benefit** , in relation to any child support year, means the rate specified in clause (1)(e) of Schedule 9 of the Social Security Act 1964 and before any diminution based on income, in force on 1 January in the immediately preceding child support year, increased by the total amount of income tax deductions that would be required to make the rate a gross, rather than a net, rate (as determined in accordance with section NC 6(1D) of the Income Tax Act 2004).
-  - **Gross single rate of invalid's benefit** , in relation to any child support year, means the rate (as specified in paragraph (b) of Schedule 6 to the Social Security Act 1964 and before any diminution based on income) of invalid's benefit in force on the 1st day of January in the immediately preceding child support year, increased by the total amount of income tax deductions that would be required to make the rate a gross, rather than a net rate (as determined in accordance with section NC 6(1D) of the Income Tax Act 2004).
+  - **Gross married rate of invalid's benefit** , in relation to any child support year, means the rate (as specified in paragraph (f) of Schedule 6 to the Social Security Act 1964 and before any diminution based on income) of invalid's benefit in force on the 1st day of January in the immediately preceding child support year, increased by the total amount of income tax deductions that would be required to make the rate a gross, rather than a net rate (as determined in accordance with section RD 11(3) of the Income Tax Act 2007)
+  - **gross married rate of unemployment benefit** , in relation to any child support year, means the rate specified in clause (1)(e) of Schedule 9 of the Social Security Act 1964 and before any diminution based on income, in force on 1 January in the immediately preceding child support year, increased by the total amount of income tax deductions that would be required to make the rate a gross, rather than a net, rate (as determined in accordance with section RD 11(3) of the Income Tax Act 2007).
+  - **Gross single rate of invalid's benefit** , in relation to any child support year, means the rate (as specified in paragraph (b) of Schedule 6 to the Social Security Act 1964 and before any diminution based on income) of invalid's benefit in force on the 1st day of January in the immediately preceding child support year, increased by the total amount of income tax deductions that would be required to make the rate a gross, rather than a net rate (as determined in accordance with section RD 11(3) of the Income Tax Act 2007).
 
 ### 31 Changes of circumstances that determine amount of living allowance
 (1) Where, at any time during any child support year,—the change shall be deemed not to have occurred until the day on which the person notifies the Commissioner thereof.
@@ -542,7 +542,7 @@ Where—the annual rate of child support payable by the liable parent under a fo
   (b) An income amount order is in force in relation to the person and to any months in the child support year in respect of which the election is to apply; or
   (ba) The person—
     (i) Made an election under section 40 in respect of an earlier child support year; and
-    (ii) Was required to furnish a return of income under the Income Tax Act 2004 or the Tax Administration Act 1994 in respect of the tax year that corresponds with that earlier child support year; and
+    (ii) Was required to furnish a return of income under the Income Tax Act 2007 or the Tax Administration Act 1994 in respect of the tax year that corresponds with that earlier child support year; and
     (iii) At the time the notice is given under subsection (2), is in breach of the requirement to furnish a return of income in respect of that tax year; or
   (c) The person is subject to an order of the Court under section 187 of this Act.
 
@@ -584,7 +584,7 @@ Where—the annual rate of child support payable by the liable parent under a fo
   (b) A person making a further election under section 40 of this Act.
 
 ### 44 Reconciliation of estimated and actual taxable income after end of child support year
-(1) This section applies where, under any provision of the Income Tax Act 1976 (other than section 21) or the Income Tax Act 2004 or the Tax Administration Act 1994 (other than section 106), an assessment of taxable income of a person for a tax year (being a tax year that corresponds with a child support year in which at least 1 election made by that person under section 40 has applied) has been made.
+(1) This section applies where, under any provision of the Income Tax Act 1976 (other than section 21) or the Income Tax Act 2007 or the Tax Administration Act 1994 (other than section 106), an assessment of taxable income of a person for a tax year (being a tax year that corresponds with a child support year in which at least 1 election made by that person under section 40 has applied) has been made.
 (1A) The person's child support income amount that is to be used in a formula assessment for that child support year is to be taken to be, and always to have been, the lesser of—
   (a) The amount of the taxable income derived by that person in that child support year; or
   (b) The child support income amount that would have been used for the purposes of a formula assessment for that child support year if the person had not made any election under section 40.
@@ -594,7 +594,7 @@ Where—the annual rate of child support payable by the liable parent under a fo
 ### 44A Reconciliation of estimated income where no tax return filed
 (1) This section applies if a person—
   (a) Makes an election under section 40 in respect of a child support year; and
-  (b) Is or was required to furnish a return of income under the Income Tax Act 1976 or the Income Tax Act 2004 or the Tax Administration Act 1994 in respect of the tax year that corresponds with that child support year; and
+  (b) Is or was required to furnish a return of income under the Income Tax Act 1976 or the Income Tax Act 2007 or the Tax Administration Act 1994 in respect of the tax year that corresponds with that child support year; and
   (c) Does not furnish a return of income within 28 days of the date the return was required to be furnished under those Acts.
 (2) Despite section 41, the person's child support income amount that is to be used in a formula assessment for that child support year is to be taken to be, and always to have been, the child support income amount that would have been used for the purposes of a formula assessment for that child support year if that person had not made any election under section 40.
 (3) Subsection (2) has effect subject to any applicable income amount order.
@@ -616,9 +616,9 @@ Where—the annual rate of child support payable by the liable parent under a fo
   (a) is the sum of the amounts of child support that are payable by the person for the child support year under one or more formula assessments made in accordance with the provisions of section 44 or section 44A of this Act:
   (b) is the sum of the amounts of child support that would, but for the provisions of section 44 or section 44A of this Act, have been payable by the person for that child support year under one or more formula assessments made under this Act.
 (3) Where the Commissioner is satisfied that the person, in relation to an election period in a child support year, has become liable to pay a penalty under this section as the result of the taxable income derived by the person in the child support year being higher than it would otherwise have been by reason of—the Commissioner shall, to the extent that the penalty is higher than it would otherwise have been, write-off the penalty or any part thereof.
-  (a) The enactment of any Act amending the Income Tax Act 2004 or the making of any regulation or Order in Council relating to income tax, during the period commencing on the 1st day of the last month in that child support year and ending with the due date for payments in respect of that month; or
-  (b) The Commissioner making public, during the period commencing on the 1st day of the last month in that child support year and ending with the due date for payments in respect of that month, any ruling in relation to any provision of the Income Tax Act 2004 and that ruling is different from a ruling previously made public by the Commissioner in relation to that provision; or
-  (c) The adoption by the person of an incorrect interpretation of any provision of this Act or of the Income Tax Act 1976 or the Income Tax Act 2004, being an interpretation which, although incorrect, is reasonable having regard to the circumstances of the case,—
+  (a) The enactment of any Act amending the Income Tax Act 2007 or the making of any regulation or Order in Council relating to income tax, during the period commencing on the 1st day of the last month in that child support year and ending with the due date for payments in respect of that month; or
+  (b) The Commissioner making public, during the period commencing on the 1st day of the last month in that child support year and ending with the due date for payments in respect of that month, any ruling in relation to any provision of the Income Tax Act 2007 and that ruling is different from a ruling previously made public by the Commissioner in relation to that provision; or
+  (c) The adoption by the person of an incorrect interpretation of any provision of this Act or of the Income Tax Act 1976 or the Income Tax Act 2007, being an interpretation which, although incorrect, is reasonable having regard to the circumstances of the case,—
 (4)
 (5) Subject to the other provisions of this Part of this Act, the other Parts of this Act shall apply with respect to any penalty payable under this section as if it were a penalty payable under section 134 of this Act.
 
@@ -704,7 +704,7 @@ Nothing in this Part of this Act shall affect the operation of a voluntary agree
     (ii) In any other case, by both the person by whom any money is to be paid under the agreement and the person to whom that money is to be so paid; and
   (c) The person by whom any money is to be paid, and the person to whom that money is to be paid, are both either New Zealand citizens or persons who are ordinarily resident in New Zealand; and
   (d) It is made to the Commissioner in the appropriate approved form; and
-  (da) The tax file number (as defined in section OB 1 of the Income Tax Act 2004) of the qualifying child is provided; and
+  (da) The tax file number (as defined in section YA 1 of the Income Tax Act 2007) of the qualifying child is provided; and
   (e)
   (f) It is verified as required by the form of application; and
   (g) It is accompanied by such documents (if any) as are required by the form of application to accompany the application.
@@ -902,7 +902,7 @@ Any money payable under this Act in accordance with an order to which this Part 
 **Provisions relating to making of assessments**
 
 ### 77 Assessment on basis of information supplied to Commissioner
-In making an assessment of child support or domestic maintenance payable under this Act, the Commissioner may act on the basis of the documents and information in his or her possession, and is not required to conduct any enquiries or investigations into the matter or to require (under this Act or the Income Tax Act 2004 or the Tax Administration Act 1994 or otherwise) the supply of any information or the production of any document.
+In making an assessment of child support or domestic maintenance payable under this Act, the Commissioner may act on the basis of the documents and information in his or her possession, and is not required to conduct any enquiries or investigations into the matter or to require (under this Act or the Income Tax Act 2007 or the Tax Administration Act 1994 or otherwise) the supply of any information or the production of any document.
 
 ### 78 Assessment to relate to all children for whom child support payable
 (1) If child support is payable by a liable parent for 2 or more children, any assessment of the child support is to relate to all of the children and not to any of the children separately.
@@ -1009,8 +1009,8 @@ In this Part, unless the context otherwise requires,—
     (a) a patient in a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001; or
     (b) a resident of an institution certified under the Alcoholism and Drug Addiction Act 1966
   - **income** —
-    (a) has the same meaning as in section OB 1 of the Income Tax Act 2004; and
-    (b) includes gross income (within the meaning of section OB 1 of the Income Tax Act 1994) and assessable income (within the meaning of the Income Tax Act 1976)
+    (a) has the same meaning as in section YA 1 of the Income Tax Act 2007; and
+    (b) includes gross income (within the meaning of section OB 1 of the Income Tax Act 1994 and the Income Tax Act 2004) and assessable income (within the meaning of the Income Tax Act 1976)
   - **long-term** means a period of 13 weeks or more
   - **period of hospitalisation** —
     (a) means the continuous period during which a person is a hospital patient; and
@@ -1323,7 +1323,7 @@ A person to whom an exemption has been granted in respect of a part or parts of 
   (a) A decision under section 17(1) of this Act to accept an application for formula assessment of child support:
   (b) A decision under section 17(2) of this Act to refuse to accept an application for formula assessment of child support:
   (c) A decision not to accept an election made under section 40 of this Act:
-  (ca) A decision under section 44A to reconcile estimated income where no return of income is furnished under the Income Tax Act 2004 and the Tax Administration Act 1994:
+  (ca) A decision under section 44A to reconcile estimated income where no return of income is furnished under the Income Tax Act 2007 and the Tax Administration Act 1994:
   (d) A decision under section 45 or section 134 of this Act in relation to the charging of a penalty:
   (e)
   (f) A decision under section 57(1) of this Act to accept an application for acceptance of an agreement:
@@ -2541,7 +2541,7 @@ Where a payer deducts an amount under this Part of this Act from any money payab
   (b) The payer is discharged from liability to pay the amount to any person other than the Commissioner.
 
 ### 165 Protected net earnings rate
-(1) Notwithstanding anything in this Part of this Act, the employer of a liable person, or a PAYE intermediary for the employer, shall not in making deductions under a deduction notice reduce the net earnings of the liable person in respect of any pay period (within the meaning of section OB 1 of the Income Tax Act 2004) to an amount that is less than 60 percent of the residue that remains after deducting from the source deduction payment the amount of any tax deduction made therefrom under the PAYE rules of the Income Tax Act 2004.
+(1) Notwithstanding anything in this Part of this Act, the employer of a liable person, or a PAYE intermediary for the employer, shall not in making deductions under a deduction notice reduce the net earnings of the liable person in respect of any pay period (within the meaning of section YA 1 of the Income Tax Act 2007) to an amount that is less than 60 percent of the residue that remains after deducting from the source deduction payment the amount of any tax withheld or deducted under the PAYE rules of the Income Tax Act 2007.
 (2) This section is subject to any instruction received by an employer or a PAYE intermediary under section 166.
 (3) In this section, PAYE intermediary means a PAYE intermediary as defined in section OB 1 of the Income Tax Act 1994.
 
@@ -2549,7 +2549,7 @@ Where a payer deducts an amount under this Part of this Act from any money payab
 (1) Where a liable person is in receipt of source deduction payments from 2 or more employers, the Commissioner may—
   (a) Treat any one of the employers as the only employer for the purposes of this Part of this Act; or
   (b) Apply this Part of this Act in relation to any 2 or more of the employers with such modifications as the Commissioner considers appropriate, being modifications made for the purpose of ensuring that the amounts collected under this Part in relation to the liability are, in the aggregate, the same as those that would be collected in relation to the liability if the liable person had only one employer.
-(2) Without limiting the generality of subsection (1)(b), where a liable person has more than 1 employer, the Commissioner may, under that subsection and on the request of the liable person, disregard, and instruct an employer of the liable person, or a PAYE intermediary for the employer, to disregard, the provisions of section 165(1) provided that the total deductions made under deduction notices by all employers of the liable person and all PAYE intermediaries must not reduce the person's total net earnings in respect of a pay period to an amount that is less than 60% of the residue that remains after deducting from the source deduction payments the amount of any tax deductions made under the PAYE rules of the Income Tax Act 2004.
+(2) Without limiting the generality of subsection (1)(b), where a liable person has more than 1 employer, the Commissioner may, under that subsection and on the request of the liable person, disregard, and instruct an employer of the liable person, or a PAYE intermediary for the employer, to disregard, the provisions of section 165(1) provided that the total deductions made under deduction notices by all employers of the liable person and all PAYE intermediaries must not reduce the person's total net earnings in respect of a pay period to an amount that is less than 60% of the residue that remains after deducting from the source deduction payments the amount of any tax withheld under the PAYE rules of the Income Tax Act 2007.
 (3) In this section, PAYE intermediary has the same meaning as in section OB 1 of the Income Tax Act 1994.
 
 ### 167 Deductions to be held on trust
@@ -2934,7 +2934,7 @@ For the purposes of this Part of this Act, unless the context otherwise requires
   (a) All of the excess financial support if the person neither has, nor is known to have at some future time, liability to make further payments of financial support under this Act; or
   (b) In any other case, so much of the excess financial support as has not been paid to the payee.
 (4) The Commissioner may refund so much of the excess financial support as has not been paid to the payee without receiving a request from the person if the person neither has, nor is known to have at some future time, any liability to make further payments of financial support under this Act.
-(5) If the person is entitled to a refund not exceeding $5 but does not request it within 12 months of first becoming entitled to it, the Commissioner must transfer the refund to the person's tax credit account for the purposes of the Income Tax Act 2004.
+(5) If the person is entitled to a refund not exceeding $5 but does not request it within 12 months of first becoming entitled to it, the Commissioner must transfer the refund to the person's tax credit account for the purposes of the Income Tax Act 2007.
 (6) This section and sections 216A to 216D are subject to section 89J.
 
 ### 216A Method of application for refund of excess financial support paid
