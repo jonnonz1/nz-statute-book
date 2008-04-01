@@ -1,5 +1,5 @@
 # Health (Drinking Water) Amendment Act 2007
-_Consolidation as at 2007-11-05_
+_Consolidation as at 2008-04-01_
 
 ### 1 Title
 This Act is the Health (Drinking Water) Amendment Act 2007.
@@ -210,7 +210,7 @@ The following Part is inserted above the Part 3 heading:Drinking waterPurposeApp
       (iv) the current state of knowledge about the means available to achieve the result, and about the likely efficacy of each.
   (2) To avoid doubt, a person required by this Part to take all practicable steps is required to take those steps only in respect of circumstances that the person knows or ought reasonably to know about.
   (3) A person who wishes to rely on subsection (1)(a)(ii) as a reason for not taking any step or steps to achieve a result—
-    (a) must keep a full and complete record of that person's financial position and those of any associated person (as defined in section OB 1 of the Income Tax Act 2004); and
+    (a) must keep a full and complete record of that person's financial position and those of any associated person (as defined in section YA 1 of the Income Tax Act 2007); and
     (b) if a drinking-water assessor or designated officer asks why the person has failed to take that step or steps, must, as soon as practicable and in any event not more than 28 days later,—
       (i) tell the assessor or officer that the step or steps are not affordable in light of the person's financial position; and
       (ii) give a copy of the records referred to in paragraph (a) to the officer or assessor.
