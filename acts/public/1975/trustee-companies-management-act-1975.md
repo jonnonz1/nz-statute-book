@@ -1,5 +1,5 @@
 # Trustee Companies Management Act 1975
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2008-04-01_
 
 > An Act to make special provision for the protection of persons who have beneficial interests, or interests as depositors or contributors, in property or funds administered by trustee companies and their associated companies to which this Act is applied, and for matters incidental thereto
 
@@ -17,7 +17,7 @@ _Consolidation as at 2008-01-01_
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Trustee** means a trustee within the meaning of section 2(1) of the Trustee Act 1956
   - **Trustee company** means a trustee company within the meaning of section 2 of the Trustee Companies Act 1967.
-(2) For the purposes of section 3 of this Act a company shall be deemed to be associated with another company if, under section OD 1 of the Income Tax Act 2004, the 2 companies are deemed to be under the control of substantially the same persons or to consist of substantially the same shareholders.
+(2) For the purposes of section 3 of this Act a company shall be deemed to be associated with another company if, under section YC 1 of the Income Tax Act 2007, the 2 companies are deemed to be under the control of substantially the same persons or to consist of substantially the same shareholders.
 
 ### 3 Application of Act
 (1) This Act shall apply to—
