@@ -1,5 +1,5 @@
 # Injury Prevention, Rehabilitation, and Compensation Act 2001
-_Consolidation as at 2008-01-17_
+_Consolidation as at 2008-04-01_
 
 ### 1 Title
 This Act is the Injury Prevention, Rehabilitation, and Compensation Act 2001.
@@ -73,7 +73,7 @@ This Act binds the Crown.
   - **clinical dental technician** means a health practitioner who—
     (a) is, or is deemed to be, registered with the Dental Council established by section 114(2) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of clinical dental technology; and
     (b) holds a current practising certificate
-  - **close company** has the same meaning as in section OB 1 of the Income Tax Act 2004
+  - **close company** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **Code** —
     (a) means the Code of ACC Claimants' Rights approved under section 44; and
     (b) includes any amendments to the Code approved under section 47
@@ -112,13 +112,13 @@ This Act binds the Crown.
   - **earnings as a self-employed person** has the meaning set out in section 14
   - **earnings as a shareholder-employee** has the meaning set out in section 15
   - **employee** means a natural person who receives, or is entitled to receive,—
-    (a) any amount that is treated as income from employment, as defined in paragraph (a) of the definition of income from employment in section OB 1 of the Income Tax Act 2004; or
-    (b) any salary, wages, or other income to which section OB 2(2) of the Income Tax Act 2004 applies
+    (a) any amount that is treated as income from employment, as defined in paragraph (a) of the definition of income from employment in section YA 1 of the Income Tax Act 2007; or
+    (b) any salary, wages, or other income to which section RD 3(2) to (4) of the Income Tax Act 2007 applies
   - **employer** —
-    (a) means a person, other than a person acting for an employer as a PAYE intermediary as defined in section OB 1 of the Income Tax Act 2004, who pays, or is liable to pay,—
-      (i) any amount that, in relation to any other person, is treated as income from employment, as defined in paragraph (a) of the definition of income from employment in section OB 1 of the Income Tax Act 2004; and
-      (ii) any salary, wages, or other gross income to which section OB 2(2) of the Income Tax Act 2004 applies; but
-    (b) does not include, for the purpose of Part 6, a person who is an employer solely by reason of any of paragraph (b)(ix) or (xi) to (xvi) of the definition of salary or wages in section OB 1 of the Income Tax Act 2004
+    (a) means a person, other than a person acting for an employer as a PAYE intermediary as defined in section YA 1 of the Income Tax Act 2007, who pays, or is liable to pay,—
+      (i) any amount that, in relation to any other person, is treated as income from employment, as defined in paragraph (a) of the definition of income from employment in section YA 1 of the Income Tax Act 2007; and
+      (ii) any salary, wages, or other gross income to which section RD 3(2) to (4) of the Income Tax Act 2007 applies; but
+    (b) does not include, for the purpose of Part 6, a person who is an employer solely by reason of any of section RD 5(1)(b)(iii), (6)(b), or (c) of the Income Tax Act 2007
   - **Employers' Account**
   - **employment** —
     (a) means work engaged in or carried out for the purposes of pecuniary gain or profit; and
@@ -210,6 +210,7 @@ This Act binds the Crown.
   - **overpayment** means an overpayment of the type described in section 248(1)(a)
   - **parental leave** has the same meaning as in section 2(1) of the Parental Leave and Employment Protection Act 1987
   - **partner** , in the phrase spouse or partner and in related contexts, has the meaning set out in section 18A(1) to (3); and, in relation to a deceased claimant, has the meaning set out in section 18A(4) to (6)
+  - **PAYE income payment** has the same meaning as in section RD 3(1) of the Income Tax Act 2007
   - **personal injury** has the meaning set out in section 26
   - **personal injury caused by a work-related gradual process, disease, or infection** has the meaning set out in section 30
   - **personal injury caused by medical misadventure**
@@ -256,7 +257,7 @@ This Act binds the Crown.
       (ii) the employment is for the performance of work in or about the dwellinghouse or premises or the garden or grounds belonging to the dwellinghouse or premises; and
       (iii) the employment is not in relation to any business carried on by the employer or to any occupation or calling of the employer; and
       (iv) the employment is not regular full-time employment; and
-    (b) to whom section NC 16 of the Income Tax Act 2004 (obligation to make own tax deductions) applies
+    (b) to whom section RD 4 of the Income Tax Act 2007 (obligation to make own tax deductions) applies
   - **public health acute services** means services (as defined in regulations made under section 322(2)) that are purchased through the Minister of Health and provided by a publicly funded provider
   - **registered health professional** —
     (a) means a chiropractor, clinical dental technician, dental technician, dentist, medical laboratory technologist, medical practitioner, medical radiation technologist, midwife, nurse, occupational therapist, optometrist, pharmacist, physiotherapist, or podiatrist; and
@@ -274,7 +275,6 @@ This Act binds the Crown.
   - **self-employed person** means a natural person who has earnings as a self-employed person
   - **Self-Employed Work Account**
   - **shareholder-employee** means a natural person who is a shareholder in, and an employee of, a close company
-  - **source deduction payment** has the same meaning as in section OB 2(1) of the Income Tax Act 2004
   - **specified maximum** , in relation to earnings, means the relevant prescribed maximum amount of earnings on which a levy is payable by or in respect of any person
   - **specified registry** , in relation to an appeal under Part 5, means a registry of a District Court that is for the time being specified in regulations made under this Act for the purposes of sending or filing notices of appeal
   - **speech therapist** means a member of the New Zealand Speech Language Therapists Association (Incorporated)
@@ -283,7 +283,7 @@ This Act binds the Crown.
     (a) section 36 and clause 55 of Schedule 1, when it is used in relation to mental injury:
     (b) section 37 and clause 55 of Schedule 1, when it is used in relation to personal injury caused by a work-related gradual process, disease, or infection:
     (c) section 38 and clause 55 of Schedule 1, when it is used in relation to treatment injury or personal injury caused by medical misadventure
-  - **tax year** , in relation to any person, has the same meaning as in section OB 1 of the Income Tax Act 2004 for the purposes of furnishing a return of income under the Tax Administration Act 1994.
+  - **tax year** , in relation to any person, has the same meaning as in section YA 1 of the Income Tax Act 2007 for the purposes of furnishing a return of income under the Tax Administration Act 1994.
   - **trade plate** means a trade plate issued under section 22 of the Transport Act 1962 or section 34 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986
   - **treatment** includes—
     (a) physical rehabilitation:
@@ -319,37 +319,37 @@ This Act binds the Crown.
 (2) When this Act says that an injury is covered by this Act, it means that the injury is a personal injury for which a claimant has cover.
 
 ### 9 Earnings as an employee: what it means
-(1) Earnings as an employee, in relation to any person and any tax year, means all source deduction payments of the person for the tax year.
+(1) Earnings as an employee, in relation to any person and any tax year, means all PAYE income payments of the person for the tax year.
 (2) This section is subject to sections 10 to 13.
 
 ### 10 Earnings as an employee: payments to spouse or partner
 (1) Earnings as an employee, in relation to any person and any tax year, does not include any amount paid to the person (person A) for services he or she performs for his or her spouse or partner (person B), as person B's employee or otherwise.
-(2) However, subsection (1) does not apply if person B, in order to calculate his or her income for the purposes of the Income Tax Act 2004, has made a written application for, and obtained, the Commissioner's consent to a deduction being made for any amounts paid by person B to person A for the services person A performs.
+(2) However, subsection (1) does not apply if person B, in order to calculate his or her income for the purposes of the Income Tax Act 2007, has made a written application for, and obtained, the Commissioner's consent to a deduction being made for any amounts paid by person B to person A for the services person A performs.
 (3) If subsection (2) applies, account must be taken of the following in determining person A's weekly earnings for as long as the Commissioner's consent relates to the services and to the amounts paid:
   (a) the services performed by person A after the date on which the Commissioner receives person B's application; and
   (b) any amounts paid after the date on which the Commissioner receives person B's application.
 (4) The Corporation may accept that there has been sufficient compliance with subsection (2), and levies are payable accordingly, if—
   (a) person A provides services to person B; and
   (b) person B submits or has submitted a return of income to the Commissioner; and
-  (c) person B shows the amounts paid to person A for such services in the return as an expense incurred in the production of income for the purposes of the Income Tax Act 2004; and
+  (c) person B shows the amounts paid to person A for such services in the return as an expense incurred in the production of income for the purposes of the Income Tax Act 2007; and
   (d) person A includes the amounts paid to him or her by person B for such services in a return of income submitted to the Commissioner; and
   (e) person A pays or has paid tax (if appropriate) on such amounts.
 
 ### 11 Earnings as an employee: what it does not include
 (1) Earnings as an employee, in relation to any person and any tax year, does not include—
-  (a) any income-tested benefit, veteran's pension, New Zealand superannuation, living alone payment, or withholding payment; or
+  (a) any income-tested benefit, veteran's pension, New Zealand superannuation, living alone payment, or schedular payment; or
   (aa) any parental leave payments paid under Part 7A of the Parental Leave and Employment Protection Act 1987; or
   (b) any student allowance established in accordance with regulations made under section 303 of the Education Act 1989; or
-  (c) any amount allocated to a person or persons, other than the person who is the employee in question, under section GD 3 of the Income Tax Act 2004; or
-  (d) any amount deemed to be a dividend paid by any person, to the person who is the employee in question, under section GD 5 of the Income Tax Act 2004; or
+  (c) any amount allocated to a person or persons, other than the person who is the employee in question, under sections CD 11, CW 63, DB 58, GB 23, and GB 24 of the Income Tax Act 2007; or
+  (d) any amount deemed to be a dividend paid by any person, to the person who is the employee in question, under section GB 25 of the Income Tax Act 2007; or
   (e) any redundancy payment; or
   (f) any retiring allowance; or
   (g) any pension from a superannuation scheme or pension fund not registered under the Superannuation Schemes Act 1989; or
   (h) any pension that is paid in the circumstances set out in any of the following provisions:
-    (i) section DF 4 of the Income Tax Act 1994 or section DC 2 of the Income Tax Act 2004:
-    (ii) section DF 8A or section DF 8B of the Income Tax Act 1994 or section DC 3 of the Income Tax Act 2004:
+    (i) section DF 4 of the Income Tax Act 1994 or section DC 2 of the Income Tax Act 2004 or section DC 2 of the Income Tax Act 2007:
+    (ii) section DF 8A or section DF 8B of the Income Tax Act 1994 or section DC 3 of the Income Tax Act 2004 or section DC 3 of the Income Tax Act 2007:
     (iii) section FF 17 of the Income Tax Act 1994.
-(2) In this section, income-tested benefit, veteran's pension, New Zealand superannuation, living alone payment, and withholding payment have the same meanings as in section OB 1 of the Income Tax Act 1994.
+(2) In this section, income-tested benefit, veteran's pension, New Zealand superannuation, living alone payment, and schedular payment have the same meanings as in section YA 1 of the Income Tax Act 2007.
 
 ### 12 Earnings as an employee: Work Account levy payable under section 168 and Residual Claims levy payable under section 193
 For the purpose of calculating the Work Account levy payable under section 168 and the Residual Claims levy payable under section 193, earnings as an employee does not include any payment of—
@@ -364,17 +364,17 @@ The Corporation must treat the earnings of a private domestic worker as earnings
   (a) means A minus B, A being the amount described in subsection (2) and B being the amount described in subsection (3); and
   (b) does not include any earnings as an employee or earnings as a shareholder-employee.
 (2) A is the amount of income (if any)—
-  (a) that the person derives in the tax year for the purposes of the Income Tax Act 2004; and
+  (a) that the person derives in the tax year for the purposes of the Income Tax Act 2007; and
   (b) that is dependent on the person's personal exertions.
-(3) B is all amounts that the person is allowed as deductions for the purposes of the Income Tax Act 2004 because of the person deriving the income described in subsection (2).
+(3) B is all amounts that the person is allowed as deductions for the purposes of the Income Tax Act 2007 because of the person deriving the income described in subsection (2).
 
 ### 15 Earnings as a shareholder-employee
 (1) Earnings as a shareholder-employee, in relation to a person who is a shareholder-employee and any tax year, means—
   (a) the amount described in subsection (2) (the subsection (2) amount); or
   (b) the amount described in subsection (3) (the subsection (3) amount), if the Corporation decides that the subsection (2) amount is not a reasonable representation of the person's earnings as a shareholder-employee in the tax year.
 (2) The subsection (2) amount is—
-  (a) all source deduction payments of the person for the income year derived from a company of which the person is a shareholder-employee; and
-  (b) all income of the person that is deemed to be income derived otherwise than from source deduction payments under section OB 2(2) of the Income Tax Act 2004.
+  (a) all PAYE income payments of the person for the income year derived from a company of which the person is a shareholder-employee; and
+  (b) all income of the person that is deemed to be income derived otherwise than from PAYE income payments under section RD 3(2) to (4) of the Income Tax Act 2007.
 (3) The subsection (3) amount is an amount determined by the Corporation in the following way:
   (a) first, determine each of the following amounts:
     (i) an amount that represents reasonable remuneration for the services that the person provides to the company as an employee of the company in the tax year; and
@@ -1302,7 +1302,7 @@ An occupational assessment must be undertaken by an assessor whom the Corporatio
 ### 99 First week compensation is salary or wages for certain purposes
 First week compensation is salary or wages payable to the employee for the purposes of—
   (a) section 131 of the Employment Relations Act 2000:
-  (b) the Income Tax Act 2004:
+  (b) the Income Tax Act 2007:
   (c) the Tax Administration Act 1994:
   (d) this Act:
   (e) the laws relating to insolvency, receivership, and the liquidation of companies.
@@ -2004,8 +2004,8 @@ An appeal under section 149 is dealt with in accordance with the District Courts
 
 ### 169A Limit on offsets in case of earnings as self-employed person
 (1) In determining a person's earnings as a self-employed person, no offset may be allowed for the amount of—
-  (a) any net loss of the person for an earlier tax year that might otherwise be offset by the person under section IE 1 of the Income Tax Act 2004; or
-  (b) any part of the net loss of a loss attributing qualifying company (as defined in section OB 1 of the Income Tax Act 2004) attributable to the person as a shareholder of that company under section HG 16 of the Income Tax Act 2004.
+  (a) any net loss of the person for an earlier tax year that might otherwise be offset by the person under sections IA 1 to IA 4, IA 7(9) and IA 9 of the Income Tax Act 2007; or
+  (b) any part of the net loss of a loss attributing qualifying company (as defined in section YA 1 of the Income Tax Act 2007) attributable to the person as a shareholder of that company under sections HA 20, HA 24, HA 26, HA 27, and IA 7(2) of the Income Tax Act 2007.
 (2) If the result of the calculation of a person's earnings as a self-employed person is a negative amount and the person also derives earnings as an employee, the person's earnings as an employee must not be reduced by the negative amount.
 
 ### 170 Classification of industries or risks
@@ -2251,14 +2251,14 @@ The objectives of sections 181 to 189 are to—by allowing accredited employers 
   (b) if the Commissioner is acting as an agent of the Corporation, by 31 May in each year.
 (5) A self-employed person or employer of a shareholder-employee must pay the levy in accordance with the following provisions:
   (a) a self-employed person must pay the levy by the date specified for payment, whether in an invoice or other appropriate document given to the self-employed person by the Corporation or an agent of the Corporation:
-  (b) however, if the Commissioner is acting as an agent of the Corporation, a self-employed person or employer of a shareholder-employee must pay the levy on or before the date for payment on which income tax not previously due and payable is due and payable as specified in section MC 1 of the Income Tax Act 2004.
+  (b) however, if the Commissioner is acting as an agent of the Corporation, a self-employed person or employer of a shareholder-employee must pay the levy on or before the date for payment on which income tax not previously due and payable is due and payable as specified in section RA 3 of the Income Tax Act 2007.
 (6) If the Commissioner is acting as an agent of the Corporation, an employer must file a statement with the Commissioner by 31 May in each year setting out the total amount of earnings as an employee paid by the employer.
 (7) If the Commissioner is acting as an agent of the Corporation, a self-employed person must, within the time in which the person is required to furnish a return of income under the Tax Administration Act 1994, deliver to the Commissioner a statement of the person's earnings as a self-employed person for the tax year.
 (8)
 (9) For the purposes of this section, employer includes—
-  (a) an employer to whom section NC 2(1) of the Income Tax Act 2004 applies; and
+  (a) an employer to whom section RD 16 of the Income Tax Act 2007 applies; and
   (b)
-  (c) an employer who makes a payment of an amount to which section OB 2(2) of the Income Tax Act 2004 applies; and
+  (c) an employer who makes a payment of an amount to which section RD 3(2) to (4) of the Income Tax Act 2007 applies; and
   (d) a private domestic worker.
 (10) Sections 195 and 196 apply to private domestic workers as if they were both the employer and the employee.
 
@@ -2492,7 +2492,7 @@ Regulations made under this Act may establish a system for differential levies i
   (a) when an employer or a PAYE intermediary for an employer makes a payment to an employee that is included in the earnings of the person as an employee of the employer, the employer or person must, at the time of making that payment, make a deduction in accordance with this section from that amount on account of the levy payable:
   (b) when a private domestic worker receives earnings that are earned in that person's capacity as a private domestic worker, the private domestic worker must, at the time of receiving that payment, make a deduction in accordance with this section from that amount on account of the levy payable.
 (2) Schedule 4 applies to any deduction under subsection (1), and applies to private domestic workers with any necessary modifications.
-(3) In this section, PAYE intermediary means a PAYE intermediary as defined in section OB 1 of the Income Tax Act 2004.
+(3) In this section, PAYE intermediary means a PAYE intermediary as defined in section YA 1 of the Income Tax Act 2007.
 
 ### 222 Payment of Earners' Account levy and Earners' Account Residual levy by self-employed persons
 (1) A self-employed person must pay the levies payable under section 219 by the date specified for payment, whether in an invoice or other appropriate document given to the self-employed person by the Corporation or an agent of the Corporation.
@@ -2632,7 +2632,7 @@ Regulations made under this Act may establish a system for differential levies i
 
 ### 236 Challenges to levies
 (1) Any person who is dissatisfied with any decision of the Corporation in respect of any levy paid or payable or claimed to be payable under this Part by that person may seek a review by the Corporation of that decision within 3 months after the person is notified of the decision.
-(2) However, no right of review exists under this Act in respect of the calculation for the purposes of the Income Tax Act 2004 of the taxable income of any person or in respect of the levy payable under section 213(2)(c).
+(2) However, no right of review exists under this Act in respect of the calculation for the purposes of the Income Tax Act 2007 of the taxable income of any person or in respect of the levy payable under section 213(2)(c).
 (3) The entitlements that have been given or are to be given to any person under this Act may not be challenged in any review under subsection (1).
 (4) A review brought under subsection (1) must be dealt with by the Corporation under Part 5, and that Part (including the provisions relating to appeals) applies with any necessary modifications.
 
@@ -2699,10 +2699,10 @@ For the purposes of this Part, the Corporation may determine—
 (5) This section does not prevent the Corporation from using any other agent for the purposes of levy collection.
 
 ### 246 Information available to Corporation
-(1) The purpose of this section is to enable the Corporation to establish liability for levies under this Part effectively in relation to employers, self-employed persons, and private domestic workers, and to shareholder-employees to whom section OB 2(2) of the Income Tax Act 2004 applies.
+(1) The purpose of this section is to enable the Corporation to establish liability for levies under this Part effectively in relation to employers, self-employed persons, and private domestic workers, and to shareholder-employees to whom section RD 3(2) to (4) of the Income Tax Act 2007 applies.
 (2) The Corporation may, for the purposes of this section, from time to time request the Commissioner to provide a list of all those employers, self-employed persons, private domestic workers, and shareholder-employees, or of any category of those employers, self-employed persons, private domestic workers, and shareholder-employees as the Corporation may specify.
-(3) The list is to include the names of the employers, self-employed persons, and private domestic workers, and shareholder-employees to whom section OB 2(2) of the Income Tax Act 2004 applies, their addresses and ACC file numbers, and (if available) the time at which the employers, self-employed persons, private domestic workers, and shareholder-employees became or ceased to be employers, self-employed persons, private domestic workers, or shareholder-employees.
-(4) The Corporation may request the Commissioner to provide any information relating to an employer's, self-employed person's, or private domestic worker's industry classification and the total amount paid by an employer or a private domestic worker as earnings as an employee, or as earnings as a shareholder-employee to whom section OB 2(2) of the Income Tax Act 2004 applies, or (in the case of a self-employed person) the earnings as a self-employed person that the Corporation may specify for the purposes of this section.
+(3) The list is to include the names of the employers, self-employed persons, and private domestic workers, and shareholder-employees to whom section RD 3(2) to (4) of the Income Tax Act 2007 applies, their addresses and ACC file numbers, and (if available) the time at which the employers, self-employed persons, private domestic workers, and shareholder-employees became or ceased to be employers, self-employed persons, private domestic workers, or shareholder-employees.
+(4) The Corporation may request the Commissioner to provide any information relating to an employer's, self-employed person's, or private domestic worker's industry classification and the total amount paid by an employer or a private domestic worker as earnings as an employee, or as earnings as a shareholder-employee to whom section RD 3(2) to (4) of the Income Tax Act 2007 applies, or (in the case of a self-employed person) the earnings as a self-employed person that the Corporation may specify for the purposes of this section.
 (5) The Commissioner, as agent for the Corporation, is authorised to comply with requests made under this section.
 (6) Any information provided by the Commissioner under this section must be provided under an agreement between the chief executive of the Corporation and the Commissioner.
 (7) If a determination of a levy payable to the Corporation is based on information received from the Commissioner under this section, and the notice of the determination given to the individual concerned specifies the particular information received from the Commissioner, and that notice advises the individual of a right to show why that information should not be used as the Corporation is using it in the determination, then that notice satisfies the requirements of section 103 of the Privacy Act 1993.
@@ -3338,7 +3338,7 @@ A person who commits an offence against this Act or any regulations made under i
   (a) the first time the person is convicted in relation to a particular type of offence, to a fine not exceeding $25,000:
   (b) on every other occasion the person is convicted for the same type of offence, to a fine not exceeding $50,000.
 (5) No person may be convicted of an offence under this section in respect of any deduction required to be made on account of the levy payable under this Act (levy deduction) if the person is convicted of an offence under section 143A(1) of the Tax Administration Act 1994 in respect of any deduction required to be made under the PAYE rules, being a deduction which, if the levy deduction were a deduction on account of income tax for the purposes of the PAYE rules, would have included the amount of the levy deduction.
-(6) In this section, PAYE intermediary means a PAYE intermediary as defined in section OB 1 of the Income Tax Act 2004.
+(6) In this section, PAYE intermediary means a PAYE intermediary as defined in section YA 1 of the Income Tax Act 2007.
 
 **Proceedings**
 
@@ -4567,7 +4567,7 @@ An occupational assessment must be undertaken by an assessor whom the Corporatio
 (3) The Corporation must provide a copy of the report to the claimant.
 
 ### 30 Meaning of relevant year
-(1) In this Part, relevant year means the most recent tax year (as defined in section OB 1 of the Income Tax Act 2004) last ended before the commencement of the period of incapacity.
+(1) In this Part, relevant year means the most recent tax year (as defined in section YA 1 of the Income Tax Act 2007) last ended before the commencement of the period of incapacity.
 (2) However, in the case of a self-employed person or a shareholder-employee, the relevant year is the most recent year ending with the balance date (whether 31 March or another date) of the self-employed person or shareholder-employee before the commencement of the period of incapacity.
 
 ### 31 Use of income tax returns in determining earnings
@@ -5263,29 +5263,29 @@ Vitiligo diagnosed as caused by para-tertiary-butylphenol, para-tertiary-butylca
 ## Schedule 4 — Deductions on account of earner levies
 
 ### 1
-Subject to this schedule, the PAYE rules of the Income Tax Act 2004 (the PAYE rules) apply, with all necessary modifications, with respect to—and every employer, PAYE intermediary, and employee must comply with the requirements of the PAYE rules, to the extent to which the PAYE rules apply by virtue of this schedule.
-  (a) any amount included in the earnings as an employee of an employer as if such amount were a source deduction payment (or, as the case may require, salary or wages) of the employee for the purposes of the PAYE rules; and
+Subject to this schedule, the PAYE rules of the Income Tax Act 2007 (the PAYE rules) apply, with all necessary modifications, with respect to—and every employer, PAYE intermediary, and employee must comply with the requirements of the PAYE rules, to the extent to which the PAYE rules apply by virtue of this schedule.
+  (a) any amount included in the earnings as an employee of an employer as if such amount were a PAYE income payment (or, as the case may require, salary or wages under section RD 5 of the Income Tax Act 2007) of the employee for the purposes of the PAYE rules; and
   (b) the levy payable by any employee under this Act as if such levy were income tax; and
-  (c) the deduction required to be made under section 221 as if such deduction were a tax deduction, which tax deduction is—
+  (c) the deduction required to be made under section 221 as if such deduction were an amount of tax, amount of tax is—
     (i) on account of income tax; and
     (ii) made or required to be made for the purposes of the PAYE rules; and
   (d) any employer under this Act as if such employer were an employer for the purposes of the PAYE rules; and
-  (db) a PAYE intermediary as defined in section OB 1 of the Income Tax Act 2004; and
+  (db) a PAYE intermediary as defined in section YA 1 of the Income Tax Act 2007; and
   (e) any employee under this Act as if such employee were an employee for the purposes of the PAYE rules;—
 
 ### 2
-Any deduction made must not be treated as part of or included in any tax deduction made under the PAYE rules on account of income tax.
+Any deduction made must not be treated as part of or included in any amount of tax withheld under the PAYE rules on account of income tax.
 
 ### 3
-If the earnings of any employee include a benefit to which section NC 4 of the Income Tax Act 2004 applies, that section applies for the purposes of determining the amount of the deduction required to be made from the benefit under this schedule by the employer providing the benefit.
+If the earnings of any employee include a benefit to which section RD 6 of the Income Tax Act 2007 applies, that section applies for the purposes of determining the amount of the deduction required to be made from the benefit under this schedule by the employer providing the benefit.
 
 ### 4
 If an employer or a PAYE intermediary makes a deduction under section 221(1) and fails to deal with the deduction or any part of it in the manner required by this Act, the deduction, to the extent to which the employer or the PAYE intermediary has not made payment of the deduction to the Corporation or an agent of the Corporation, in the application of the assets of the employer or the PAYE intermediary, ranks—
-  (a) equally with the amount of any tax deduction not paid by the employer or the PAYE intermediary, as provided for in section 167(2) of the Tax Administration Act 1994; or
-  (b) if there are no such unpaid tax deductions, in accordance with section 167(2) of the Tax Administration Act 1994, as if the deduction were a tax deduction not paid by the employer or the PAYE intermediary.
+  (a) equally with any amount of tax not paid by the employer or the PAYE intermediary, as provided for in section 167(2) of the Tax Administration Act 1994; or
+  (b) if there are no such unpaid amounts of tax, in accordance with section 167(2) of the Tax Administration Act 1994, as if the deduction were an amount of tax withheld and not paid by the employer or the PAYE intermediary.
 
 ### 5
-In relation to an employee who is a private domestic worker, neither the employer of that employee nor a PAYE intermediary is obliged to make any deduction under section 221(1) from amounts paid or provided by the employer in respect of the employment of that employee as a private domestic worker; and section NC 16 of the Income Tax Act 2004 applies to that employee in respect of such amounts.
+In relation to an employee who is a private domestic worker, neither the employer of that employee nor a PAYE intermediary is obliged to make any deduction under section 221(1) from amounts paid or provided by the employer in respect of the employment of that employee as a private domestic worker; and section RD 4 of the Income Tax Act 2007 applies to that employee in respect of such amounts.
 
 ### 6
 For the purpose of section 221(1), the employer of a shareholder-employee is deemed to make payment to the shareholder-employee of the earnings as an employee for a tax year on the date that the employer finally determines the amount of the earnings as an employee of the shareholder employee tax year.
@@ -5293,13 +5293,13 @@ For the purpose of section 221(1), the employer of a shareholder-employee is dee
 ### 7
 An employer who makes a payment to a shareholder-employee must,—
   (a) within the time within which the employer is required to furnish a return of income under section 33 of the Tax Administration Act 1994, deliver a statement of the total amount of shareholder-employee earnings paid or payable by the employer for the tax year to which the return relates; and
-  (b) pay, by the date that income tax not previously due and payable is due and payable by the employer as specified in section MC 1 of the Income Tax Act 2004, the Residual Claims levy payable on such shareholder-employee earnings by virtue of section 193 or Part 11 calculated at the rate prescribed in regulations made under this Act, and the earner levy payable by virtue of section 219 calculated at the rates prescribed by regulations made under this Act.
+  (b) pay, by the date that income tax not previously due and payable is due and payable by the employer as specified in section RA 3 of the Income Tax Act 2007, the Residual Claims levy payable on such shareholder-employee earnings by virtue of section 193 or Part 11 calculated at the rate prescribed in regulations made under this Act, and the earner levy payable by virtue of section 219 calculated at the rates prescribed by regulations made under this Act.
 
 ### 8
-Neither an employer of any person referred to in section KC 2 of the Income Tax Act 2004 nor a PAYE intermediary is obliged to make any deduction under section 221(1) from amounts paid or provided by the employer to that person, unless the employer or the PAYE intermediary makes a tax deduction on account of income tax under the PAYE rules from any such amount.
+Neither an employer of any person referred to in section LC 3 of the Income Tax Act 2007 nor a PAYE intermediary is obliged to make any deduction under section 221(1) from amounts paid or provided by the employer to that person, unless the employer or the PAYE intermediary withholds an amount of tax on account of income tax under the PAYE rules from any such amount.
 
 ### 9
-Despite clause 1, sections LD 1(2), LD 1(3), NC 2(1), NC 6, NC 7, NC 8, NC 9, NC 13, and NC 14 of the Income Tax Act 2004, and section 33A of the Tax Administration Act 1994 do not apply to any such amount required to be deducted.
+Despite clause 1, sections LA 3, LA 6, RA 2, RD 10, RD 11, RD 16, RD 18 of the Income Tax Act 2007 and sections 24B to 24P of the Tax Administration Act 1994, and section 33A of the Tax Administration Act 1994 do not apply to any such amount required to be deducted.
 
 ### 10
 Except to the extent specified in clause 11, the following Parts of the Tax Administration Act 1994 (those provisions) apply to earner levies payable under section 219, namely,—and as if they were set out in full in this Act, but with—
@@ -5328,7 +5328,7 @@ A deduction is deemed to have been made under this schedule and under section 22
 In this schedule, deduction includes all or part of a deduction required to be made under section 221(1).
 
 ### 14
-No person is chargeable with a penalty under this schedule in respect of any deduction or earner levy payable to the Commissioner as part of a combined tax and earner levy deduction.
+No person is chargeable with a penalty under this schedule in respect of any deduction or earner levy payable to the Commissioner as part of a combined tax and earner-related payment.
 
 ### 15
 Nothing in clause 14 limits the application of the remission, relief, and refunds component of Part 6.
@@ -5358,7 +5358,7 @@ If the Corporation is satisfied that the amount of levy payable by a person unde
 The Corporation may not refund or give credit for any amount under clause 20 more than 4 years after the end of the tax year in respect of which the levy is payable, unless written application for a refund or credit is made to the Corporation by or on behalf of the person concerned before the end of the 4-year period.
 
 ### 22
-For the purposes of this schedule, combined tax and earner levy deduction, Commissioner, employee, employer, income tax, PAYE intermediary, salary or wages, shareholder-employee, source deduction payment, and tax deduction have the same meanings as in the Income Tax Act 2004.
+For the purposes of this schedule, combined tax and earner-related payment, Commissioner, employee, employer, income tax, PAYE intermediary, PAYE income payment, salary or wages, and shareholder-employee have the same meanings as in the Income Tax Act 2007.
 
 ## Schedule 5 — Provisions relating to Corporation
 
