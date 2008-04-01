@@ -1,5 +1,5 @@
 # Housing Restructuring and Tenancy Matters Act 1992
-_Consolidation as at 2007-12-19_
+_Consolidation as at 2008-04-01_
 
 > An Act to—aProvide for the acquisition by the Crown of shares in the capital of a company incorporated under the Companies Act 1955; andbProvide for the vesting in that company of State housing land held by the Crown under the Housing Act 1955 and assets and liabilities of the Housing Corporation of New Zealand; andcProvide for related matters, income-related rents, information matching, and other tenancy matters
 
@@ -301,7 +301,7 @@ The enactments specified in the Schedule to this Act are hereby amended in the m
       (i) is already a person to whom HNZ housing is let or to be let; but
       (ii) has applied to the company (alone or together with some other person or people) to become a tenant of some other HNZ housing and has not yet had the application accepted or declined, or withdrawn it
   - **rent period** , in relation to any HNZ housing, means a period in respect of which the tenant is required by the tenancy agreement to pay rent for it
-  - **standard tax** means the amount of tax reckoned on a weekly basis that would be deductible in accordance with tax code M specified in section NC 8 of the Income Tax Act 2004
+  - **standard tax** means the amount of tax reckoned on a weekly basis that would be deductible in accordance with tax code M specified in section 24B of the Tax Administration Act 1994
   - **study grant** means a basic grant or independent circumstances grant under regulations under section 303 of the Education Act 1989 (or an allowance, award, bursary, grant, or scholarship that the company considers to have been established under that section in place of a basic grant or independent circumstances grant)
   - **tenant** ,—
     (a) in relation to HNZ housing in general,—
@@ -355,12 +355,12 @@ The enactments specified in the Schedule to this Act are hereby amended in the m
 (2) A rent calculated by reference to household income is the sum of—
   (a) the prescribed proportion of the sum of the assessable incomes of the applicable persons concerned, up to the prescribed threshold (or the threshold prescribed for tenants of a category to which the tenant belongs); and
   (b) the prescribed proportion of any amount by which that sum is greater than that threshold; and
-  (c) if any of the applicable persons is eligible to receive family tax credits under subpart KD of the Income Tax Act 2004, the prescribed proportion of the lesser of—
+  (c) if any of the applicable persons is eligible to receive family tax credits under subparts MA to MF and MZ of the Income Tax Act 2007, the prescribed proportion of the lesser of—
     (i) the total of the amounts that the applicable persons are eligible to receive as family tax credits under that Subpart; and
     (ii) a prescribed amount (or an amount calculated by a prescribed means).
 (3) A rent calculated by reference to benefit levels is the sum of—
   (a) the prescribed proportion of the rate (before abatement) stated in paragraphs (a) to (j) of clause 1 of Schedule 9 of the Social Security Act 1964 that would be appropriate if the tenant were a beneficiary; and
-  (b) if any of the applicable persons is eligible to receive family tax credits under subpart KD of the Income Tax Act 2004, the prescribed proportion of the lesser of—
+  (b) if any of the applicable persons is eligible to receive family tax credits under subparts MA to MF and MZ of the Income Tax Act 2007, the prescribed proportion of the lesser of—
     (i) the total of the amounts that the applicable persons are eligible to receive as family tax credits under that Subpart; and
     (ii) a prescribed amount (or an amount calculated by a prescribed means).
 (4) The income-related rent for any HNZ housing must not exceed its market rent for the time being.
@@ -663,7 +663,7 @@ The proportion of 50% is prescribed for the purposes of section 46(2)(b).
 The proportion of 25% is prescribed for the purposes of sections 46(2)(c) and 46(3)(b).
 
 ### 5 Prescribed amount of family tax credit
-The maximum rate of family tax credit payable under subpart KD of the Income Tax Act 2004 in respect of an eldest dependent child who is under 16 is prescribed for the purposes of sections 46(2)(c)(ii) and 46(3)(b)(ii).
+The maximum rate of family tax credit payable under subparts MA to MF and MZ of the Income Tax Act 2007 in respect of an eldest dependent child who is under 16 is prescribed for the purposes of sections 46(2)(c)(ii) and 46(3)(b)(ii).
 
 ### 6 Proportion of benefit
 The proportion of 25% is prescribed for the purposes of section 46(3)(a).
@@ -686,13 +686,13 @@ For the purposes of section 49(1)(a), a person's weekly income includes—
     (ii) New Zealand superannuation under the New Zealand Superannuation and Retirement Income Act 2001 or a veteran's pension under Part 6 of the War Pensions Act 1954; or
     (iii) a study grant; and
   (b) amounts received from the Corporation or an insurer under the Injury Prevention, Rehabilatation, and Compensation Act 2001 as weekly compensation for loss of earnings or potential earning capacity; and
-  (c) any minimum family tax credit the person is eligible for under subpart KD of the Income Tax Act 2004.
+  (c) any minimum family tax credit the person is eligible for under subparts MA to MF and MZ of the Income Tax Act 2007.
 
 ### 10 Certain payments not to be income
 For the purposes of section 49(1)(b), a person's weekly income does not include—
   (a) an amount or payment—
     (i) received as a benefit, allowance, or other payment under the Social Security Act 1964 not referred to in clause 9(a); or
-    (ii) received as a parental tax credit, child tax credit, or in-work tax credit under subpart KD of the Income Tax Act 2004; or
+    (ii) received as a parental tax credit, child tax credit, or in-work tax credit under subparts MA to MF and MZ of the Income Tax Act 2007; or
     (iii) of a kind stated in any of subparagraphs (ii) to (xv) of paragraph (f) of the definition of income in section 3(1) of the Social Security Act 1964; or
   (b) in the case of a person with a disability, the value of any regular disability support services supplied to the person; or
   (c) the value of any regular disability support services supplied to any dependent child of the person who—
