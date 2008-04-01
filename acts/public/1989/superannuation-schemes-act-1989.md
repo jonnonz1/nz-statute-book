@@ -1,5 +1,5 @@
 # Superannuation Schemes Act 1989
-_Consolidation as at 2007-12-19_
+_Consolidation as at 2008-04-01_
 
 > An Act to provide for the registration of superannuation schemes, and to provide a procedure to enable both benefits payable from superannuation schemes and annuities to be reduced as a result of changes in taxation
 
@@ -351,7 +351,7 @@ The trustees of any registered superannuation scheme that is not constituted und
 ## Part 2 — Miscellaneous provisions
 
 ### 23 Objections and appeals against decisions of Government Actuary
-(1) Any person who is dissatisfied with a decision made by the Government Actuary in the exercise of his or her powers, functions, and discretions under this Act or under section GD 8 of the Income Tax Act 2004 may object to that decision by notice in writing to the Government Actuary.
+(1) Any person who is dissatisfied with a decision made by the Government Actuary in the exercise of his or her powers, functions, and discretions under this Act or under section EY 11 of the Income Tax Act 2007 may object to that decision by notice in writing to the Government Actuary.
 (2) Every such objection shall be made within 28 days after notice of the decision is given, or within such extended time as the Government Actuary may allow on application made either before or after the expiration of the 28 day period.
 (3) The Government Actuary shall, if the person objecting so requests, afford that person an opportunity of being heard by him or her within 28 days after receiving that request.
 (4) The Government Actuary shall, within 28 days after receiving the objection or holding any hearing requested under subsection (3) of this section, give notice in writing of his or her decision to the person who made the objection.
@@ -402,7 +402,7 @@ Where any fee is payable in accordance with any regulations made under this Act,
 
 ### 30 Regulations
 The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) Prescribing the fees payable, or the rate at which fees are to be calculated, for applications for registration of schemes, for the lodging of amendments to schemes, for applications under section GD 8 of the Income Tax Act 2004, and for the making of statements, requests, returns, certificates, reports, applications and the giving of notices required under this Act, or any regulations made under this Act:
+  (a) Prescribing the fees payable, or the rate at which fees are to be calculated, for applications for registration of schemes, for the lodging of amendments to schemes, for applications under section EY 11 of the Income Tax Act 2007, and for the making of statements, requests, returns, certificates, reports, applications and the giving of notices required under this Act, or any regulations made under this Act:
   (b) Providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and the full administration thereof.
 
 ### 31 Consequential amendments
@@ -458,6 +458,37 @@ Notwithstanding the repeal of the Superannuation Schemes Act 1976 (as amended by
   (c) the Commissioner of Inland Revenue.
 (3) Revocation notified under subsection (2) is effective on and after the date the Government Actuary revokes approval under subsection (1). The notices must contain the date on and after which approval is revoked, under this subsection.
 (4) A registered scheme that is notified that approval is revoked must immediately notify that revocation to each member who may be affected, and to their employers. At the same time, the registered scheme must notify the Commissioner of each member who may be affected, and of their employers.
+
+### 37 Duty to notify changes about complying superannuation funds to Government Actuary
+(1) The trustees of a complying superannuation fund must give notice to the Government Actuary of any changes to—
+  (a) any of the information referred to in section 161(1B) of the KiwiSaver Act 2006; or
+  (b) any information required to be contained in the register under section 161(2) of that Act.
+(2) This section does not apply if the change has been notified in an annual report sent or delivered under section 14 of this Act before the notice is required to be given under this section.
+
+### 38 Form of notice under section 37
+(1) A notice under section 37 must—
+  (a) be in the prescribed form (if any); and
+  (b) contain, or be accompanied by, any other prescribed information or documentation; and
+  (c) specify the effective date of the change; and
+  (d) be given to the Government Actuary within 3 months of the later of—
+    (i) the effective date of the change; or
+    (ii) the trustees of the complying superannuation fund first becoming aware of the change.
+(2) References in this section to a prescribed form, or to prescribed information or documentation, are references—
+  (a) to matters prescribed under section 30(b); or
+  (b) if the matter is not prescribed under that section, to the equivalent matter prescribed under section 228(b) of the KiwiSaver Act 2006 in respect of notices under section 164 of that Act, with all necessary modifications.
+
+### 39 Duty to give notice to Government Actuary about fee increases
+Any person referred to in clause 2 of the KiwiSaver scheme rules who increases a fee to which that clause applies in relation to a complying superannuation fund must give notice of the increase to the Government Actuary as soon as reasonably practicable after the increase takes effect.
+
+### 40 Powers of High Court in relation to unreasonable fees
+(1) If the High Court is satisfied, on the application of a member or the Government Actuary, that any of the persons referred to in section 39 have charged a fee in relation to a complying superannuation fund that is unreasonable, it may order that the fee be annulled or reduced.
+(2) The High Court may make any other order it thinks fit for the purpose of giving effect to an order under subsection (1).
+(3) An application for an order may be made within 1 year of the day that the fee is imposed or debited.
+(4) In determining whether a fee is unreasonable for the purposes of this section, the High Court—
+  (a) must have regard to any prescribed matter under the KiwiSaver Act 2006; and
+  (b) may, to the extent it thinks fit, have regard to any guidelines published by the Government Actuary under section 127 of that Act; and
+  (c) may have regard to any other matter it thinks fit.
+(5) This section does not limit section 20 of this Act and, to avoid doubt, a breach of clause 2 of the KiwiSaver scheme rules as applied by the complying fund rules is a breach of this Act.
 
 ### 41 Transitional provision relating to lodging of participation agreements
 The trustees of every scheme that has been approved as a complying superannuation fund before the date of commencement of this section must send to the Government Actuary, within 28 days after that commencement date, a copy of any participation agreements that have been ratified by employers of employees in the scheme as applicable to the complying superannuation fund.
