@@ -1,5 +1,5 @@
 # Health and Safety in Employment Act 1992
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 > An Act to reform the law relating to the health and safety of employees, and other people at work or affected by the work of other people
 
@@ -1091,7 +1091,7 @@ No person shall—
 (2) For the purpose of recovering the expected cost to the Crown of the administration of this Act, there is payable—
   (a) by every employer, on the amount of earnings paid or deemed to have been paid by the employer to the employer's employees, a levy at a rate or rates prescribed by regulations made, on the recommendation of the Minister, under this Act; and
   (b) by every earner who has earnings as a self-employed person, on the amount of earnings as a self-employed person derived or deemed to have been derived by the earner, a levy at a rate or rates prescribed by regulations made, on the recommendation of the Minister, under this Act; and
-  (c) by every shareholder-employee to whom section OB 2(2) of the Income Tax Act 2004 applies, on the amount of earnings derived or deemed to have been derived by the shareholder-employee, a levy at a rate or rates prescribed by regulations made, on the recommendation of the Minister, under this Act.
+  (c) by every shareholder-employee to whom section RD 3(2) to (4) of the Income Tax Act 2007 applies, on the amount of earnings derived or deemed to have been derived by the shareholder-employee, a levy at a rate or rates prescribed by regulations made, on the recommendation of the Minister, under this Act.
 (3) The funding levy must be added to, and is deemed part of, the Residual Claims levy; and—
   (a) the funding levy is payable, collected, and remitted, and penalties are payable in respect of it, as if it were the Residual Claims levy; and
   (b) the Corporation and the Commissioner of Inland Revenue have all the powers in respect of the funding levy that they have in respect of the Residual Claims levy; and
