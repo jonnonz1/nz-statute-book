@@ -1,5 +1,5 @@
 # Misuse of Drugs Act 1975
-_Consolidation as at 2008-03-27_
+_Consolidation as at 2008-04-01_
 
 > An Act to consolidate and amend the Narcotics Act 1965 and to make further provision for the prevention of misuse of drugs
 
@@ -798,6 +798,30 @@ Substances containing any proportion of a substance mentioned in clause 1, claus
 ## Schedule 3 — Class C controlled drugs
 
 ### 1
+CANNABIS FRUIT.CANNABIS PLANT (whether fresh, dried, or otherwise)—That is, any part of any plant of the genus Cannabis except a part from which all the resin has been extracted.CANNABIS SEED.CATHA EDULIS PLANT.COCA LEAF—That is, the leaf of any plant of any species of the genus Erythroxylon, except a leaf from which all ecgonine, cocaine, and any other ecgonine alkaloids have been removed.
+
+### 2
+The following substances:
+- **BZP** (1-benzylpiperazine or A2 benzylpiperazine or N-benzylpiperazine (1-benzyl-1,4-diazacyclohexane))
+- **TFMPP** (1-(3-trifluoromethylphenyl)piperazine or N-(3-trifluoromethylphenyl)piperazine)
+- **pFPP** (1-(4-fluorophenyl)piperazine)
+- **MeOPP** (1-(4-methoxyphenyl)piperazine)
+- **mCPP** (1-(meta-chlorophenyl)piperazine) or 1-(3-chlorophenyl)piperazine)
+- **MBZP** (1-methyl-4-benzylpiperazine).
+
+### 3
+The isomers of the substances mentioned in clause 2 whenever the existence of such isomers is possible within the specific chemical designation.
+
+### 4
+The esters and ethers of the substances mentioned in clause 2 and the esters and the ethers of the isomers mentioned in clause 3 whenever the existence of such esters or ethers is possible.
+
+### 5
+The salts of the substances mentioned in clause 2 and the salts of the isomers, esters, and ethers mentioned in clause 3 or 4.
+
+### 6
+Substances containing any proportion of a substance mentioned in clause 2, 3, 4, or 5.
+
+### 1
 The following substances, namely:ACETYLDIHYDROCODEINE.ETHYLMORPHINE (3-ethylmorphine).NICOCODINE (6-nicotinylcodeine).NICODICODINE (6-nicotinyldihydrocodeine or nicotinic acid ester of dihydrocodeine.NORCODEINE (N -demethylcodeine).PHOLCODINE (morpholinylethylmorphine).PROPIRAM (N -(1-methyl-2-piperidinoethyl)-N -2-pyridylpropionamide).
 
 ### 2
@@ -875,3 +899,26 @@ The following substances:EPHEDRINEPSEUDOEPHEDRINE
 The salts of the substances listed in clause 1 whenever the existence of such salts is possible.
 
 ## Schedule 5 — Amount, level, or quantity at and over which controlled drugs are presumed to be for supply
+
+### 1
+The controlled drugs listed in the first column are presumed to be for supply at and over the amount, level, or quantity listed in the second column.Amphetamine5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMorphine5 grams, whether or not contained in a substance, preparation, or mixtureCocainehalf a gram, whether or not contained in a substance, preparation, or mixtureHeroinhalf a gram, whether or not contained in a substance, preparation, or mixtureLysergide2 and a half milligrams or 25 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugDOB (2-amino-l-(4-bromo-2.5-dimethoxyphenyl) propane) (also known as bromo-DMA)100 milligrams or 25 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMDMA (2-methylamino-1-(3,4-methylenedioxyphenyl) propane)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugN-ETHYL MDA (2-ethylamino-l-(3,4-methylenedioxyphenyl) propane)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMDA (2-amino-l-(3,4-methylenedioxyphenyl) propane)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugTetrahydrocannabinol (as described in Schedule 2)250 milligrams, whether or not contained in a substance, preparation, or mixtureAny cannabis preparation (as described in Schedule 2)5 grams or 100 cigarettes containing the drugCannabis plant (as described in Schedule 3)28 grams or 100 cigarettes containing the drugBZP (1-benzylpiperazine or A2 benzylpiperazine or N-benzylpiperazine (1-benzyl-1,4-diazacyclohexane))5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugTFMPP (1-(3-trifluoromethylphenyl)piperazine or N-(3-trifluoromethylphenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugpFPP (1-(4-fluorophenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMeOPP (1-(4-methoxyphenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugmCPP (1-(meta-chlorophenyl)piperazine) or 1-(3-chlorophenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMBZP (1-methyl-4-benzylpiperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMethamphetamine5 grams, whether or not contained in a substance, preparation, or mixture
+
+### 2
+Any controlled drug not specified in clause 1 is presumed to be for supply at and over the level of 56 grams.
+
+### 1 Title
+This Act is the Misuse of Drugs (Classification of BZP) Amendment Act 2008.
+
+### 2 Commencement
+This Act comes into force on 1 April 2008.
+
+## Part 1 — Amendments to principal Act and amnesty provision
+
+**Amnesty provision**
+
+### 6 Amnesty in relation to use and possession for personal use of BZP
+(1) Despite section 4 of this Act and section 7 of the principal Act, it is not an offence for a person, in relation to any of the controlled drugs added by section 4 of this Act to Part 1 of Schedule 3 of the principal Act, to do either or both of the following before 1 October 2008:
+  (a) to possess for his or her own use an amount of that controlled drug that is less than the amount, level, or quantity at and over which that controlled drug is presumed to be for supply, as specified in Schedule 5 of the principal Act (as amended by section 5 of this Act):
+  (b) to use that controlled drug.
+(2) This section is subject to section 6 of the principal Act and to section 5 of this Act.
+(3) This section expires at the close of 30 September 2008.
