@@ -1,5 +1,5 @@
 # Charities Act 2005
-_Consolidation as at 2007-11-20_
+_Consolidation as at 2008-04-01_
 
 ### 1 Title
 This Act is the Charities Act 2005.
@@ -164,10 +164,10 @@ This section establishes the Charities Commission.
   (d) all of the officers of the entity are qualified to be officers of a charitable entity under section 16.
 (2) The trustees of a trust must be treated as complying with subsection (1)(a) if,—
   (a) in accordance with a ruling made under Part 5A of the Tax Administration Act 1994,—
-    (i) an amount of income derived by the trustees in trust is treated as having been derived by the trustees in trust for charitable purposes for the purposes of section CW 34 of the Income Tax Act 2004; or
-    (ii) income is treated as having been derived directly or indirectly from a business carried on by, or for, or for the benefit of the trustees in trust for charitable purposes for the purposes of section CW 35 of the Income Tax Act 2004; or
+    (i) an amount of income derived by the trustees in trust is treated as having been derived by the trustees in trust for charitable purposes for the purposes of section CW 41 of the Income Tax Act 2007; or
+    (ii) income is treated as having been derived directly or indirectly from a business carried on by, or for, or for the benefit of the trustees in trust for charitable purposes for the purposes of section CW 42 of the Income Tax Act 2007; or
   (b) the income derived by the trustees is deemed to be income derived by trustees in trust for charitable purposes under section 24B of the Maori Trust Boards Act 1955.
-(3) A society or an institution must be treated as complying with subsection (1)(b) if, in accordance with a ruling made under Part 5A of the Tax Administration Act 1994, that society or institution is treated as being a society or institution that is established and maintained exclusively for charitable purposes and not carried on for the private pecuniary profit of any individual for the purposes of section CW 34 or section CW 35 of the Income Tax Act 2004.
+(3) A society or an institution must be treated as complying with subsection (1)(b) if, in accordance with a ruling made under Part 5A of the Tax Administration Act 1994, that society or institution is treated as being a society or institution that is established and maintained exclusively for charitable purposes and not carried on for the private pecuniary profit of any individual for the purposes of section CW 41 or CW 42 of the Income Tax Act 2007.
 (4) Subsections (2) and (3) cease to apply in relation to an entity if—
   (a) the period for which the ruling applies has expired; or
   (b) the ruling has ceased to apply because of section 91G of the Tax Administration Act 1994; or
@@ -248,7 +248,7 @@ The name of an entity complies with this section if—
   (a) in the case of a trust, society, or an institution referred to in section 73(1) of the Estate and Gift Duties Act 1968 created or established by a gift after the commencement of this section, be earlier than the time that the gift was made; and
   (b) in any other case, be earlier than the time that the Commission received a properly completed application for registration of the entity as a charitable entity.
 (3) Before the Commission exercises its powers under subsection (1), the Commission must be satisfied that the entity was qualified for registration as a charitable entity at all times during the period between the effective registration time and the time at which the entity actually became registered as a charitable entity.
-(4) If the Commission exercises its powers under subsection (1) in relation to an entity, the entity must be treated as having become registered as a charitable entity at the effective registration time for the purposes of this Act, the Income Tax Act 2004, and the Estate and Gift Duties Act 1968.
+(4) If the Commission exercises its powers under subsection (1) in relation to an entity, the entity must be treated as having become registered as a charitable entity at the effective registration time for the purposes of this Act, the Income Tax Act 2007, and the Estate and Gift Duties Act 1968.
 
 **Register of charitable entities established**
 
@@ -331,7 +331,7 @@ A search of the register for personal information that has not been carried out 
 
 ### 30 Commission may supply register information or documents for purposes of Inland Revenue Acts
 (1) The Commission may supply any register information or documents to a person for the purpose of assisting the person in the exercise of the person's powers under any of the Inland Revenue Acts or in the performance of the person's functions under any of the Inland Revenue Acts if, in the opinion of the Commission, it is in all the circumstances appropriate to do so.
-(2) For the purposes of this section, register information or documents means—ExampleA society has become registered as a charitable entity.Members of the public donate money to the society and claim rebates of income tax in respect of those gifts under section KC 5 of the Income Tax Act 2004.In order to determine whether a rebate can properly he claimed, the Inland Revenue Department needs to consider whether the society is of a kind referred to in section KC 5 of the Income Tax Act 2004. The information contained in the application for registration of the society as a charitable entity could assist in this process.The Commission may supply a copy of the application for registration of the society as a charitable entity to the Inland Revenue Department.
+(2) For the purposes of this section, register information or documents means—ExampleA society has become registered as a charitable entity.Members of the public donate money to the society and claim rebates of income tax in respect of those gifts under subpart LD of the Income Tax Act 2007.In order to determine whether a rebate can properly he claimed, the Inland Revenue Department needs to consider whether the society is of a kind referred to in subpart LD of the Income Tax Act 2007. The information contained in the application for registration of the society as a charitable entity could assist in this process.The Commission may supply a copy of the application for registration of the society as a charitable entity to the Inland Revenue Department.
   (a) information or documents that are contained in the register:
   (b) information or documents that would have been contained in the register but for the exercise of a power under section 25 to omit or remove that information or those documents from the register.
 
@@ -520,7 +520,7 @@ If a collector who acts on behalf of a charitable entity is requesting funds, ca
 If a single entity is registered as a charitable entity, then, unless the terms and conditions referred to in section 46 otherwise provide,—
   (a) each entity that forms part of the single entity under section 44(1) must be treated as being registered under this Act as a charitable entity for the purposes of—
     (i) the provisions of this Act (including section 37); and
-    (ii) the provisions of the Income Tax Act 2004; and
+    (ii) the provisions of the Income Tax Act 2007; and
     (iii) the provisions of the Estate and Gift Duties Act 1968; and
   (b) the register—
     (i) must contain the information and documents referred to in section 24 in relation to the single entity; and
@@ -772,7 +772,7 @@ Section 73(1) of the Estate and Gift Duties Act 1968 is amended by adding the wo
     (iii) the location of, and hours of access to, that register:
   (f) declaring any class or classes of persons to be, or not to be, officers for the purposes of this Act:
   (g) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
-(2) Without limiting subsection (1)(a), forms prescribed under this section may require the inclusion in, or attachment to, forms of information or documents for the purpose of assisting any person in the exercise of the person's powers in connection with section KC 5 of the Income Tax Act 2004 or in the performance of the person's functions in connection with that section (regardless of whether or not that information or documentation is collected for the purposes of this Act).
+(2) Without limiting subsection (1)(a), forms prescribed under this section may require the inclusion in, or attachment to, forms of information or documents for the purpose of assisting any person in the exercise of the person's powers in connection with subpart LD of the Income Tax Act 2007 or in the performance of the person's functions in connection with that section (regardless of whether or not that information or documentation is collected for the purposes of this Act).
 (3) The Commission may refuse to perform a function or exercise a power until the prescribed fee is paid.
 (4) Any Order in Council made under subsection (1) may authorise the Commission to refund or waive, in whole or in part and on any conditions as may be prescribed, payment of any fee or amount payable in relation to any person or class of persons.
 (5) Any fee or amount payable to the Commission is recoverable by the Commission in any court of competent jurisdiction as a debt due to the Commission.
