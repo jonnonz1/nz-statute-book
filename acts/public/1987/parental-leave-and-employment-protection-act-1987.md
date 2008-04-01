@@ -1,5 +1,5 @@
 # Parental Leave and Employment Protection Act 1987
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Parental Leave and Employment Protection Act 1987.
@@ -16,57 +16,52 @@ The purpose of this Act is to—
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **chief executive** means the chief executive of the department
-  - **Company** has the same meaning as in the Companies Act 1955 or the Companies Act 1993, as the case may be; and includes an overseas company within the meaning of the Companies Act 1993
-  - **Contract of employment**
+  - **company** has the same meaning as in the Companies Act 1955 or the Companies Act 1993, as the case may be; and includes an overseas company within the meaning of the Companies Act 1993
   - **Court** means the Employment Court constituted under the Employment Relations Act 2000
   - **department** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **Employee** has the meaning given in section 5 of the Employment Relations Act 2000
-  - **Employer** means any person employing any employee or employees
+  - **employee** has the meaning given in section 5 of the Employment Relations Act 2000
+  - **employer** means any person employing any employee or employees
   - **employment agreement** has the meaning given to that term in section 5 of the Employment Relations Act 2000 and, for the avoidance of doubt, includes any employment contract that continues in force under section 242 of the Employment Relations Act 2000
   - **Employment Relations Authority** means the Employment Relations Authority established under the Employment Relations Act 2000
-  - **Employment Tribunal**
   - **expected date of delivery** , in respect of a pregnant woman, means the date certified in writing by a medical practitioner or midwife as being the date on which that medical practitioner or midwife diagnoses that the pregnant woman may give birth to a child
-  - **Extended leave** —
-    (a) Means extended leave to which an employee is entitled in accordance with this Act; and
-    (b) Includes, for the purposes of Parts 6 to 7A of this Act, rights and benefits in the nature of extended leave to which an employee is entitled by virtue of—
-      (i) Any Act other than this Act; or
-      (ii) Any employment agreement:
-  - **Maternity leave** —
-    (a) Means maternity leave to which a female employee is entitled in accordance with this Act; and
-    (b) Includes, for the purposes of Parts 6 to 7A of this Act, rights and benefits in the nature of maternity leave to which a female employee is entitled by virtue of—
-      (i) Any Act other than this Act; or
-      (ii) Any employment agreement:
+  - **extended leave** —
+    (a) means extended leave to which an employee is entitled in accordance with this Act; and
+    (b) includes, for the purposes of Parts 6 to 7A of this Act, rights and benefits in the nature of extended leave to which an employee is entitled by virtue of—
+      (i) any Act other than this Act; or
+      (ii) any employment agreement:
+  - **maternity leave** —
+    (a) means maternity leave to which a female employee is entitled in accordance with this Act; and
+    (b) includes, for the purposes of Parts 6 to 7A of this Act, rights and benefits in the nature of maternity leave to which a female employee is entitled by virtue of—
+      (i) any Act other than this Act; or
+      (ii) any employment agreement:
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
   - **midwife** means a health practitioner who is, or is deemed to be, registered with the Midwifery Council established by section 114(3) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of midwifery.
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **Parental leave** —
+  - **parental leave** —
     (a) means, for an employee,—
       (i) maternity leave to which the employee is entitled in accordance with this Act:
       (ii) partner's/paternity leave to which the employee is entitled in accordance with this Act:
       (iii) extended leave to which the employee is entitled in accordance with this Act:
     (ab) means, for a self-employed person, a period during which the self-employed person temporarily does not work because of the birth of a child or the assumption of care of a child by the person or the person's spouse or partner (subject to section 71CD):
     (b) Includes, for the purposes of Parts 6 to 7A of this Act, rights and benefits in the nature of any of the kinds of leave described in paragraph (a) of this definition to which an employee is entitled by virtue of—
-      (i) Any Act other than this Act; or
-      (ii) Any employment agreement:
+      (i) any Act other than this Act; or
+      (ii) any employment agreement:
   - **partner** , in the phrase spouse or partner and in related contexts, means a civil union partner or a de facto partner
   - **partner's/paternity leave** —
     (a) means partner's/paternity leave to which an employee is entitled in accordance with this Act; and
-    (b) includes, for the purposes of Parts VI to 7A, rights and benefits in the nature of partner's/paternity leave to which an employee is entitled by virtue of—
+    (b) includes, for the purposes of Parts 6 to 7A, rights and benefits in the nature of partner's/paternity leave to which an employee is entitled by virtue of—
       (i) any Act other than this Act; or
       (ii) any employment agreement
-  - **Paternity leave**
   - **self-employed** means working in 1 or more of the following, other than as an employee
     (a) providing goods or services for hire or reward under a contract for services:
     (b) carrying on a business (including a profession, trade, manufacture, or undertaking carried on for pecuniary profit), including in partnership with another person:
     (c) working for a trust in a business (as defined in paragraph (b)) carried on by the trust
   - **self-employed person** means a person who is self-employed.
   - **spouse** means a husband or wife
-  - **State employee**
-  - **State services**
-  - **Union** means a union registered under the Employment Relations Act 2000.
+  - **union** means a union registered under the Employment Relations Act 2000.
 (2) Where it is necessary, for the purpose of applying any of the provisions of sections 7(b), 8(1)(b), 17(c), 18(1)(b), 23(b), 24(1)(b), and 43 of this Act, to ascertain, in relation to any of the circumstances mentioned in clauses 1 to 5 of the Schedule to this Act,—the provisions of the Schedule to this Act shall apply.
-  (a) Whether any employee has remained in the employment of the same employer during any period of time; or
-  (b) Whether any employee has resumed service with the same employer—
+  (a) whether any employee has remained in the employment of the same employer during any period of time; or
+  (b) whether any employee has resumed service with the same employer—
 (3) Section 72A applies if it is necessary, for the purpose of applying any of the provisions of sections 7(b), 8(1)(b), 17(c), 18(1)(b), 23(b), and 24(1)(b), to ascertain whether an employee will have been in the employment of the same employer for at least an average of 10 hours a week during a 12-month period or 6-month period, as the case may be.
 
 ### 2A multiple employments generally
@@ -85,14 +80,14 @@ An employee's entitlement to rights and benefits in respect of parental leave an
 (2) In subsection (1),—
   - **Board of Trustees** means a Board of Trustees constituted under Part 9 of the Education Act 1989
   - **integrated school** has the same meaning as in section 145 of the Education Act 1989
-  - **State school** has the same meaning as in section 2(1) of the Education Act 1989
+  - **state school** has the same meaning as in section 2(1) of the Education Act 1989
   - **teacher** has the same meaning as in section 91A of the Education Act 1989.
 (3) This section overrides section 2A.
 
 ### 2AD Concurrent employment and self-employment
-(1) This section applies to a person who is an employee and a self-employed person.
-(2) The person's entitlement to rights and benefits in respect of parental leave and parental leave payment must be determined by treating the person's employment and self-employment separately.
-(3) This section is subject to sections 2A and 71CC.
+(1) this section applies to a person who is an employee and a self-employed person.
+(2) the person's entitlement to rights and benefits in respect of parental leave and parental leave payment must be determined by treating the person's employment and self-employment separately.
+(3) this section is subject to sections 2A and 71CC.
 
 ### 2B multiple births or adoptions
 (1) This section applies for the purpose of—
@@ -126,10 +121,10 @@ Nothing in this Act shall entitle an employee otherwise entitled to any period o
 
 ### 6 Restriction on taking of parental leave within 6 months of end of previous period of parental leave in respect of another child
 An employee shall not be entitled to parental leave in respect of a child by virtue of this Act if—
-  (a) That employee has previously taken, in respect of another child, a period of leave, being—
-    (i) Parental leave under this Act; or
-    (ii) A period of leave in the nature of parental leave under any Act other than this Act, or any employment agreement; and
-  (b) Less than 6 months have elapsed since the day after the date on which the most recent period of leave referred to in paragraph (a) of this section ended.
+  (a) that employee has previously taken, in respect of another child, a period of leave, being—
+    (i) parental leave under this Act; or
+    (ii) a period of leave in the nature of parental leave under any Act other than this Act, or any employment agreement; and
+  (b) less than 6 months have elapsed since the day after the date on which the most recent period of leave referred to in paragraph (a) of this section ended.
 
 ### 6A Treatment of employment with same employer for purposes of determining subsequent parental leave entitlements
 (1) This section applies if an employee resumes service with the same employer—
@@ -142,40 +137,40 @@ An employee shall not be entitled to parental leave in respect of a child by vir
 
 ### 7 Entitlement of female employee to maternity leave
 Except as otherwise provided in this Act, every female employee—shall be entitled to maternity leave in accordance with this Act.
-  (a) Who becomes pregnant; and
+  (a) who becomes pregnant; and
   (b) who, at the expected date of delivery, will have been in the employment of the same employer for at least an average of 10 hours a week over—
     (i) the immediately preceding 12 months; or
     (ii) the immediately preceding 6 months,—
 
 ### 8 Entitlement of adoptive mother to maternity leave
 (1) Except as otherwise provided in this Act, every female employee—shall be entitled to maternity leave in accordance with this Act.
-  (a) Who assumes (with a view to adoption by her or by her and her spouse or partner jointly) the care of a child who is not more than 5 years of age; and
+  (a) who assumes (with a view to adoption by her or by her and her spouse or partner jointly) the care of a child who is not more than 5 years of age; and
   (b) who, at the date on which she, with a view to adoption, first assumes the care of the child, will have been in the employment of the same employer for at least an average of 10 hours a week over—
     (i) the immediately preceding 12 months; or
     (ii) the immediately preceding 6 months,—
 (2) A female employee shall not be entitled to maternity leave in respect of a child by virtue of subsection (1) of this section if she has previously taken, in respect of that child, a period of leave, being—
-  (a) Maternity leave under this Act; or
-  (b) A period of leave in the nature of maternity leave under any Act other than this Act, or any employment agreement.
+  (a) maternity leave under this Act; or
+  (b) a period of leave in the nature of maternity leave under any Act other than this Act, or any employment agreement.
 
 ### 9 Duration of maternity leave
 (1) Maternity leave must be taken in 1 continuous period not exceeding 14 weeks, subject to subsection (2).
 (2) If a female employee begins her maternity leave—the female employee shall be entitled to take at least 8 weeks of her maternity leave after the expected date of delivery and, if necessary for that purpose, to extend the duration of her maternity leave.
-  (a) On a date specified, pursuant to section 13(1) of this Act, in a certificate; or
-  (b) On a date appointed, pursuant to section 14 of this Act, by her employer,—
+  (a) on a date specified, pursuant to section 13(1) of this Act, in a certificate; or
+  (b) on a date appointed, pursuant to section 14 of this Act, by her employer,—
 (3) A period of maternity leave in excess of 14 weeks taken by a female employee under subsection (2) is to be treated as maternity leave for the purposes of this Act, but must not be taken into account in assessing under section 26 any period of extended leave to which the female employee or her spouse or partner may be entitled under this Act.
 
 ### 10 Date of commencement of maternity leave
 Maternity leave shall begin—
-  (a) On the date of confinement; or
-  (b) In the case of adoption, on the date on which the female employee first assumes (with a view to adoption by her or by her and her spouse or partner jointly) the care of the child; or
-  (c) On such earlier date—
-    (i) As is determined in accordance with section 11 or section 12 or section 13 of this Act; or
-    (ii) As is appointed by the employer pursuant to section 14 of this Act.
+  (a) on the date of confinement; or
+  (b) in the case of adoption, on the date on which the female employee first assumes (with a view to adoption by her or by her and her spouse or partner jointly) the care of the child; or
+  (c) on such earlier date—
+    (i) as is determined in accordance with section 11 or section 12 or section 13 of this Act; or
+    (ii) as is appointed by the employer pursuant to section 14 of this Act.
 
 ### 11 Right of employee to determine date of commencement of maternity leave
 Maternity leave may, at the option of the female employee and subject to compliance with section 37 of this Act, begin on a date which is earlier, by not more than 6 weeks,—
-  (a) Than the expected date of delivery; or
-  (b) In the case of adoption, than the date applicable under section 10(b) of this Act.
+  (a) than the expected date of delivery; or
+  (b) in the case of adoption, than the date applicable under section 10(b) of this Act.
 
 ### 12 Right of employer and employee to determine date of commencement of maternity leave by agreement
 Maternity leave may, by agreement between the female employee and her employer, begin on any date before the date of confinement.
@@ -200,21 +195,21 @@ Where, by reason of pregnancy, a female employee is unable to perform her work t
 
 ### 17 Entitlement of employee to partner's/paternity leave
 Except as otherwise provided in this Act, every employee—shall be entitled to partner's/paternity leave in accordance with this Act.
-  (a) Who is the spouse or partner of a pregnant woman; and
-  (b) Who assumes or intends to assume the care of the child of the pregnancy; and
+  (a) who is the spouse or partner of a pregnant woman; and
+  (b) who assumes or intends to assume the care of the child of the pregnancy; and
   (c) who, at the expected date of delivery for that child, will have been in the employment of the same employer for at least an average of 10 hours a week over—
     (i) the immediately preceding 12 months; or
     (ii) the immediately preceding 6 months,—
 
 ### 18 Entitlement of other adoptive parent to partner's/paternity leave
 (1) Except as otherwise provided by this Act, every employee—shall be entitled to partner's/paternity leave in accordance with this Act.
-  (a) Who assumes (with a view to adoption by that employee or by that employee and that employee's spouse or partner jointly) the care of a child who is not more than 5 years of age; and
+  (a) who assumes (with a view to adoption by that employee or by that employee and that employee's spouse or partner jointly) the care of a child who is not more than 5 years of age; and
   (b) who, at the date on which he or she, with a view to adoption, first assumes the care of the child, will have been in the employment of the same employer for at least an average of 10 hours a week over—
     (i) the immediately preceding 12 months; or
     (ii) the immediately preceding 6 months,—
 (2) An employee shall not be entitled to partner's/paternity leave in respect of a child by virtue of subsection (1) of this section if he or she has previously taken, in respect of that child, a period of leave, being—
-  (a) Partner's/paternity leave under this Act; or
-  (b) A period of leave in the nature of partner's/paternity leave under any Act other than this Act, or any employment agreement.
+  (a) partner's/paternity leave under this Act; or
+  (b) a period of leave in the nature of partner's/paternity leave under any Act other than this Act, or any employment agreement.
 
 ### 19 Duration of partner's/paternity leave
 Partner's/paternity leave must be taken in 1 continuous period not exceeding—
@@ -249,16 +244,16 @@ Partner's/paternity leave must be taken in 1 continuous period not exceeding—
 
 ### 20 Date of commencement of partner's/paternity leave
 Partner's/paternity leave shall begin—
-  (a) On the date of confinement of the employee's spouse or partner; or
-  (b) In the case of adoption, on the date on which the employee first assumes (with a view to adoption by that employee or by that employee and that employee's spouse or partner jointly) the care of the child; or
-  (c) On such earlier or later date as is determined in accordance with section 21 or section 22 of this Act.
+  (a) on the date of confinement of the employee's spouse or partner; or
+  (b) in the case of adoption, on the date on which the employee first assumes (with a view to adoption by that employee or by that employee and that employee's spouse or partner jointly) the care of the child; or
+  (c) on such earlier or later date as is determined in accordance with section 21 or section 22 of this Act.
 
 ### 21 Right of employee to determine date of commencement of partner's/paternity leave
 Partner's/paternity leave may, at the option of the employee, begin—
-  (a) On any date in the period—
-    (i) Beginning on the 21st day before the expected date of delivery; and
-    (ii) Ending with the close of the 21st day after the actual date of delivery or, where the child is discharged from a hospital or a similar establishment more than 21 days after the actual date of delivery, the close of the day on which the child is discharged from that hospital or establishment; or
-  (b) In the case of adoption, on any date in the period beginning on the 21st day before the date applicable under section 18(1)(b) of this Act and ending with the close of the 21st day after the date so applicable.
+  (a) on any date in the period—
+    (i) beginning on the 21st day before the expected date of delivery; and
+    (ii) ending with the close of the 21st day after the actual date of delivery or, where the child is discharged from a hospital or a similar establishment more than 21 days after the actual date of delivery, the close of the day on which the child is discharged from that hospital or establishment; or
+  (b) in the case of adoption, on any date in the period beginning on the 21st day before the date applicable under section 18(1)(b) of this Act and ending with the close of the 21st day after the date so applicable.
 
 ### 22 Right of employer and employee to determine date of commencement of partner's/paternity leave by agreement
 Partner's/paternity leave may, by agreement between the employee and his or her employer, begin on any date.
@@ -267,18 +262,18 @@ Partner's/paternity leave may, by agreement between the employee and his or her 
 
 ### 23 Entitlement of employee to extended leave
 Except as otherwise provided in this Act, and subject to sections 25 to 30 of this Act, every employee—shall be entitled to extended leave in accordance with this Act.
-  (a) Who—
-    (i) Gives birth to a child and assumes or intends to assume the care of that child; or
-    (ii) Assumes or intends to assume the care of a child to whom his spouse or partner gives birth; and
-  (b) Who, at the expected date of delivery of that child, will have been for the immediately preceding 12 months in the employment of the same employer for at least an average of 10 hours a week during that period,—
+  (a) who—
+    (i) gives birth to a child and assumes or intends to assume the care of that child; or
+    (ii) assumes or intends to assume the care of a child to whom his spouse or partner gives birth; and
+  (b) who, at the expected date of delivery of that child, will have been for the immediately preceding 12 months in the employment of the same employer for at least an average of 10 hours a week during that period,—
 
 ### 24 Entitlement of adoptive parent to extended leave
 (1) Except as otherwise provided in this Act, and subject to sections 25 to 30 of this Act, every employee—shall be entitled to extended leave in accordance with this Act.
-  (a) Who assumes (with a view to adoption by that employee or by that employee and that employee's spouse or partner jointly) the care of a child who is not more than 5 years of age; and
-  (b) Who, at the date on which that employee, with a view to adoption, first assumes the care of the child, has been for the immediately preceding 12 months in the employment of the same employer for at least an average of 10 hours a week during that period,—
+  (a) who assumes (with a view to adoption by that employee or by that employee and that employee's spouse or partner jointly) the care of a child who is not more than 5 years of age; and
+  (b) who, at the date on which that employee, with a view to adoption, first assumes the care of the child, has been for the immediately preceding 12 months in the employment of the same employer for at least an average of 10 hours a week during that period,—
 (2) An employee shall not be entitled to extended leave in respect of a child by virtue of subsection (1) of this section if that employee has previously taken, in respect of that child, a period of leave, being—
-  (a) Extended leave under this Act; or
-  (b) A period of leave in the nature of extended leave under any Act other than this Act, or any employment agreement.
+  (a) extended leave under this Act; or
+  (b) a period of leave in the nature of extended leave under any Act other than this Act, or any employment agreement.
 
 ### 25 Restriction where two or more children born or adopted at one time
 [Repealed]
@@ -294,31 +289,31 @@ Except as otherwise provided in this Act, and subject to sections 25 to 30 of th
 ### 27 Extended leave to be shared between parents
 (1) Subject to the provisions of this Act, where an employee and that employee's spouse or partner are both entitled to extended leave pursuant to section 23 or section 24 of this Act, the combined entitlements of that employee and that employee's spouse or partner to extended leave under this Act shall be a total period or periods not exceeding 52 weeks which shall be shared between them in accordance with subsection (2) of this section.
 (2) Subject to the provisions of this Act, the period or periods of extended leave provided by section 26(1) of this Act shall be shared between an employee and that employee's spouse or partner in one of the following ways:
-  (a) By either the employee or the employee's spouse or partner taking the full period of extended leave, or any lesser period, in a continuous period not exceeding 52 weeks, and by the other of them not taking any period of maternity or extended leave under this Act:
-  (b) By both the employee and the employee's spouse or partner each taking one period of extended leave in such a manner that the total period formed by adding together the 2 periods of extended leave does not exceed 52 weeks, and by neither the employee nor the employee's spouse or partner taking any period of maternity leave under this Act:
-  (c) By either the employee or the employee's spouse or partner taking a period of maternity leave and by either or both of the employee and the employee's spouse or partner each taking one period of extended leave in such a manner that the total period formed by adding together the period or periods of extended leave and the period of maternity leave (excluding any period of maternity leave in excess of 14 weeks taken under section 9(2) of this Act) does not exceed 52 weeks:
-  (d) In such a manner as may be agreed on by the employee and the employee's spouse or partner and their respective employers.
+  (a) by either the employee or the employee's spouse or partner taking the full period of extended leave, or any lesser period, in a continuous period not exceeding 52 weeks, and by the other of them not taking any period of maternity or extended leave under this Act:
+  (b) by both the employee and the employee's spouse or partner each taking one period of extended leave in such a manner that the total period formed by adding together the 2 periods of extended leave does not exceed 52 weeks, and by neither the employee nor the employee's spouse or partner taking any period of maternity leave under this Act:
+  (c) by either the employee or the employee's spouse or partner taking a period of maternity leave and by either or both of the employee and the employee's spouse or partner each taking one period of extended leave in such a manner that the total period formed by adding together the period or periods of extended leave and the period of maternity leave (excluding any period of maternity leave in excess of 14 weeks taken under section 9(2) of this Act) does not exceed 52 weeks:
+  (d) in such a manner as may be agreed on by the employee and the employee's spouse or partner and their respective employers.
 
 ### 28 Extended leave may be taken consecutively or concurrently with other parent's leave or parental leave payments
 Subject to the provisions of this Act, where an employee takes a period of extended leave in accordance with section 27 of this Act, the period of leave so taken may be taken consecutively or concurrently with any period of maternity leave, partner's/paternity leave, or extended leave taken by the employee or the employee's spouse or partner or any period for which the employee's spouse or partner receives a parental leave payment, as the case may be, under this Act.
 
 ### 29 Date of commencement of extended leave
 Except as otherwise provided by section 27 or section 30 of this Act, extended leave shall begin,—
-  (a) In the case of a female employee who has taken maternity leave in relation to the birth or adoption of the child, on any date in the period beginning with the expiry or earlier determination of the employee's maternity leave, and ending,—
-    (i) In the case of a child born to the employee, with the date on which the child attains the age of 12 months; or
-    (ii) In the case of a child adopted by the employee, with the date that is the first anniversary of the date on which the employee first assumed the care of the child with a view to adoption:
-  (b) In the case of an employee who has taken partner's/paternity leave in relation to the birth or adoption of the child, on any date in the period beginning with the expiry or earlier determination of the employee's partner's/paternity leave, and ending,—
-    (i) In the case of a child born to the employee's spouse or partner, with the date on which the child attains the age of 12 months; or
-    (ii) In the case of a child adopted by the employee, with the date that is the first anniversary of the date on which the employee first assumed the care of the child with a view to adoption:
-  (c) In the case of an employee who is entitled to take maternity leave or partner's/paternity leave in relation to the birth of a child and who has not taken any such leave, on any date in the period beginning with the date of confinement and ending with the date on which the child attains the age of 12 months:
-  (d) In the case of an employee who is entitled to take maternity leave or partner's/paternity leave in relation to the adoption of a child and who has not taken any such leave, on any date in the period beginning with the date on which the employee first assumes (with a view to adoption by that employee or by that employee and that employee's spouse or partner jointly) the care of the child and ending with the date that is the first anniversary of the date on which the employee first assumed the care of the child with a view to adoption:
-  (e) On such other date as may be agreed on by the employee and that employee's employer.
+  (a) in the case of a female employee who has taken maternity leave in relation to the birth or adoption of the child, on any date in the period beginning with the expiry or earlier determination of the employee's maternity leave, and ending,—
+    (i) in the case of a child born to the employee, with the date on which the child attains the age of 12 months; or
+    (ii) in the case of a child adopted by the employee, with the date that is the first anniversary of the date on which the employee first assumed the care of the child with a view to adoption:
+  (b) in the case of an employee who has taken partner's/paternity leave in relation to the birth or adoption of the child, on any date in the period beginning with the expiry or earlier determination of the employee's partner's/paternity leave, and ending,—
+    (i) in the case of a child born to the employee's spouse or partner, with the date on which the child attains the age of 12 months; or
+    (ii) in the case of a child adopted by the employee, with the date that is the first anniversary of the date on which the employee first assumed the care of the child with a view to adoption:
+  (c) in the case of an employee who is entitled to take maternity leave or partner's/paternity leave in relation to the birth of a child and who has not taken any such leave, on any date in the period beginning with the date of confinement and ending with the date on which the child attains the age of 12 months:
+  (d) in the case of an employee who is entitled to take maternity leave or partner's/paternity leave in relation to the adoption of a child and who has not taken any such leave, on any date in the period beginning with the date on which the employee first assumes (with a view to adoption by that employee or by that employee and that employee's spouse or partner jointly) the care of the child and ending with the date that is the first anniversary of the date on which the employee first assumed the care of the child with a view to adoption:
+  (e) on such other date as may be agreed on by the employee and that employee's employer.
 
 ### 30 Termination of extended leave
 Notwithstanding anything contained in any other provision of this Act, no employee shall be entitled to commence or continue any period of extended leave under this Act after—
-  (a) The date on which the child in respect of whom the extended leave is taken (other than a child to whom paragraph (b) of this section applies) attains the age of 12 months; or
-  (b) In the case of an adopted child, the first anniversary of the date on which the employee first assumed the care of the child with a view to the adoption of that child by that employee, or by that employee and that employee's spouse or partner jointly; or
-  (c) The date on which the employee ceases to have care of the child in respect of whom the extended leave is taken.
+  (a) the date on which the child in respect of whom the extended leave is taken (other than a child to whom paragraph (b) of this section applies) attains the age of 12 months; or
+  (b) in the case of an adopted child, the first anniversary of the date on which the employee first assumed the care of the child with a view to the adoption of that child by that employee, or by that employee and that employee's spouse or partner jointly; or
+  (c) the date on which the employee ceases to have care of the child in respect of whom the extended leave is taken.
 
 ## Part 4 — Requirements concerning notice
 
@@ -326,36 +321,36 @@ Notwithstanding anything contained in any other provision of this Act, no employ
 (1) An employee who wishes to take parental leave under this Act shall give written notice to the employee's employer of the employee's wish to take that leave.
 (2) The notice under subsection (1) of this section shall state the proposed date on which the employee wishes to commence leave, and the duration of the leave.
 (3) Except where the employee is proposing to adopt a child, the notice under subsection (1) of this section—
-  (a) Shall be given at least 3 months before the expected date of delivery; and
-  (b) If given by a pregnant employee, shall be accompanied by a certificate from a medical practitioner or a midwife—
-    (i) Certifying that the female employee is pregnant; and
-    (ii) Stating the expected date of delivery; or
-  (c) If given by the pregnant woman's spouse or partner shall be accompanied by—
-    (i) A certificate or a copy of a certificate from a medical practitioner or a midwife certifying that the woman named in the certificate is pregnant and stating the expected date of delivery; and
-    (ii) A written assurance from the woman named in the medical certificate that the employee is her spouse or partner and that the employee intends to assume care of the child to be born to her.
+  (a) shall be given at least 3 months before the expected date of delivery; and
+  (b) if given by a pregnant employee, shall be accompanied by a certificate from a medical practitioner or a midwife—
+    (i) certifying that the female employee is pregnant; and
+    (ii) stating the expected date of delivery; or
+  (c) if given by the pregnant woman's spouse or partner shall be accompanied by—
+    (i) a certificate or a copy of a certificate from a medical practitioner or a midwife certifying that the woman named in the certificate is pregnant and stating the expected date of delivery; and
+    (ii) a written assurance from the woman named in the medical certificate that the employee is her spouse or partner and that the employee intends to assume care of the child to be born to her.
 
 ### 32 Requirements where extended leave sought
 Where any notice is given in accordance with section 31 of this Act by an employee wishing to take any period of extended leave under this Act, that notice shall, in addition to the matters required by that section or by section 33 of this Act,—
-  (a) State whether the employee's spouse or partner is proposing to take any period of extended leave or maternity leave under this Act:
-  (b) State the name of the employee's spouse or partner and the name and address of the employer of the employee's spouse or partner:
-  (c) State the proposed dates of commencement and expiry of each period of leave proposed to be taken in respect of the child by—under this Act or under any provision contained in any Act other than this Act or in any employment agreement:
-    (i) The employee; and
-    (ii) The employee's spouse or partner,—
-  (d) Contain an assurance by the employee that the aggregate periods of—that are proposed to be taken in respect of the child by the employee and the employee's spouse or partner will not exceed 52 weeks.
-    (i) All maternity leave (other than maternity leave in excess of 14 weeks taken under section 9(2) of this Act) and extended leave under this Act; and
-    (ii) All leave (other than partner's/paternity leave) to which the employee or the employee's spouse or partner is entitled by or under any Act other than this Act or under any employment agreement,—
+  (a) state whether the employee's spouse or partner is proposing to take any period of extended leave or maternity leave under this Act:
+  (b) state the name of the employee's spouse or partner and the name and address of the employer of the employee's spouse or partner:
+  (c) state the proposed dates of commencement and expiry of each period of leave proposed to be taken in respect of the child by—under this Act or under any provision contained in any Act other than this Act or in any employment agreement:
+    (i) the employee; and
+    (ii) the employee's spouse or partner,—
+  (d) contain an assurance by the employee that the aggregate periods of—that are proposed to be taken in respect of the child by the employee and the employee's spouse or partner will not exceed 52 weeks.
+    (i) all maternity leave (other than maternity leave in excess of 14 weeks taken under section 9(2) of this Act) and extended leave under this Act; and
+    (ii) all leave (other than partner's/paternity leave) to which the employee or the employee's spouse or partner is entitled by or under any Act other than this Act or under any employment agreement,—
 
 ### 33 Requirements where child to be adopted
 Where the employee is proposing to adopt a child, the notice required to be given by section 31(1) of this Act shall,—
-  (a) Where the placing of the child in the home of the employee has been approved by a Social Worker under section 6(1)(a) of the Adoption Act 1955,—
-    (i) Be given within 14 days after the date on which the employee receives notice that a child will be placed with the employee within the next 3 months with a view to adoption by the employee, or by the employee and the employee's spouse or partner jointly; and
-    (ii) Be accompanied by a letter from a Social Worker (as defined in section 2 of the Adoption Act 1955) stating that the employee is keeping or will be keeping a child in the employee's home with a view to adoption:
-  (b) Where a Court has made an interim order under section 6(1)(b) of the Adoption Act 1955,—
-    (i) Be given within 14 days after the date on which the order is made; and
-    (ii) Be accompanied by a certified copy of the order:
-  (c) Where the child is otherwise lawfully in the employee's home under section 6(4) of the Adoption Act 1955,—
-    (i) Be given within 14 days after the date on which the employee makes a statutory declaration to the effect that the employee has assumed the care of the child with a view to adoption by the employee, or by the employee and the employee's spouse or partner jointly; and
-    (ii) Be accompanied by a copy of the declaration.
+  (a) where the placing of the child in the home of the employee has been approved by a Social Worker under section 6(1)(a) of the Adoption Act 1955,—
+    (i) be given within 14 days after the date on which the employee receives notice that a child will be placed with the employee within the next 3 months with a view to adoption by the employee, or by the employee and the employee's spouse or partner jointly; and
+    (ii) be accompanied by a letter from a Social Worker (as defined in section 2 of the Adoption Act 1955) stating that the employee is keeping or will be keeping a child in the employee's home with a view to adoption:
+  (b) where a Court has made an interim order under section 6(1)(b) of the Adoption Act 1955,—
+    (i) be given within 14 days after the date on which the order is made; and
+    (ii) be accompanied by a certified copy of the order:
+  (c) where the child is otherwise lawfully in the employee's home under section 6(4) of the Adoption Act 1955,—
+    (i) be given within 14 days after the date on which the employee makes a statutory declaration to the effect that the employee has assumed the care of the child with a view to adoption by the employee, or by the employee and the employee's spouse or partner jointly; and
+    (ii) be accompanied by a copy of the declaration.
 
 ### 34 Incomplete notification
 (1) Where any employee gives a written notice to the employee's employer stating that the employee wishes to take parental leave under this Act and any of the provisions of sections 31 to 33 of this Act that apply in respect of any information or assurance to be stated or given in, or any document required to accompany, that notice are not complied with, that notice shall be an incomplete notice for the purposes of subsection (2) of this section and sections 35(2) and 36(2) of this Act.
@@ -364,43 +359,43 @@ Where the employee is proposing to adopt a child, the notice required to be give
 
 ### 35 Failure to notify employer
 (1) Subject to section 68 of this Act, where an employee fails to give notice under section 31(1) of this Act within the time required by section 31(3) or section 33 of this Act, that employee shall not be entitled to take extended leave under this Act unless—
-  (a) That employee gives a written notice under section 31(1) of this Act to his or her employer and a period of 3 months beginning with the date of the giving of that notice has expired; or
-  (b) The employer of that employee agrees that the employee may take extended leave under this Act.
+  (a) that employee gives a written notice under section 31(1) of this Act to his or her employer and a period of 3 months beginning with the date of the giving of that notice has expired; or
+  (b) the employer of that employee agrees that the employee may take extended leave under this Act.
 (2) Nothing in subsection (1) of this section shall apply to an employee who gives an incomplete notice to that employee's employer within the time required by section 31(3) or section 33 of this Act.
 
 ### 36 Obligation to notify employee
 (1) Subject to subsection (2) of this section, every employer who receives a notice under section 31(1) of this Act shall, within 21 days after the receipt of the notice, give to the employee who gave that notice a written notice in the prescribed form—
-  (a) Stating whether the employee is entitled to take parental leave; and
-  (b) Where an employer states that the employee is not entitled to take parental leave, stating the reasons why the employee is not so entitled; and
-  (c) Stating that, until the end of the employee's parental leave, the employee's position in the employment of the employer—
-    (i) Can be kept open; or
-    (ii) Cannot be kept open; and
-  (d) Where the employer states that the employee's position cannot be kept open, informing the employee—
-    (i) That the employee may dispute the employer's statement that the employee's position cannot be kept open; and
-    (ii) That the employer will, for the period of 26 weeks beginning with the day after the date on which the parental leave ends, give the employee preference over other applicants for any position which is vacant and which is substantially similar to the position held by the employee at the beginning of the parental leave; and
-  (e) Informing the employee of the substance of Parts 1 to 3 and of section 45 of this Act, and, in particular, of the employee's rights and obligations under sections 11, 21, and 29 of this Act.
+  (a) stating whether the employee is entitled to take parental leave; and
+  (b) where an employer states that the employee is not entitled to take parental leave, stating the reasons why the employee is not so entitled; and
+  (c) stating that, until the end of the employee's parental leave, the employee's position in the employment of the employer—
+    (i) can be kept open; or
+    (ii) cannot be kept open; and
+  (d) where the employer states that the employee's position cannot be kept open, informing the employee—
+    (i) that the employee may dispute the employer's statement that the employee's position cannot be kept open; and
+    (ii) that the employer will, for the period of 26 weeks beginning with the day after the date on which the parental leave ends, give the employee preference over other applicants for any position which is vacant and which is substantially similar to the position held by the employee at the beginning of the parental leave; and
+  (e) informing the employee of the substance of Parts 1 to 3 and of section 45 of this Act, and, in particular, of the employee's rights and obligations under sections 11, 21, and 29 of this Act.
 (2) Where an employer receives a notice that is an incomplete notice that employer shall, within 21 days after the date of the receipt by the employer of the additional information, documentation, or assurance specified in the notice given under section 34(2) of this Act, give to the employee a notice complying with subsection (1) of this section.
 (3) Where any employee receives a notice given under subsection (1) of this section or under subsection (1) of this section (as applied by subsection (2) of this section) and the employee disputes any statement given in that notice, that employee may invoke any procedure set out in Part 7 of this Act.
 
 ### 37 Requirement where female employee wishes to commence maternity leave early
 A female employee,—shall give to her employer not less than 21 days' notice in writing of the day on which she wishes her maternity leave to begin.
-  (a) Who has given a notice that she wishes to take parental leave under this Act; and
-  (b) Who intends to exercise the option conferred by section 11 of this Act by beginning her maternity leave early,—
+  (a) who has given a notice that she wishes to take parental leave under this Act; and
+  (b) who intends to exercise the option conferred by section 11 of this Act by beginning her maternity leave early,—
 
 ### 38 Employer's notice in relation to return to work and preference for appointment
 Within 21 days after the beginning of an employee's parental leave, the employer of the employee shall give to the employee written notice stating—
-  (a) The date on which the employee's parental leave will end; and
-  (b) Either—
-    (i) Where the employer is able to keep the employee's position open until the end of the employee's parental leave, the date on which, if the employee decides to return to work at the end of the parental leave, the employee will be required to return to work, being the date of the next working day after the date on which the employee's parental leave ends; or
-    (ii) In any other case, the period of 26 weeks during which the employer will give the employee preference over other applicants for any position which is vacant and which is substantially similar to the position held by the employee at the beginning of the employee's parental leave; and
-  (c) Where paragraph (b)(i) of this section applies, the employee's obligations under section 39 of this Act; and
-  (d) The employee's rights under section 45 of this Act.
+  (a) the date on which the employee's parental leave will end; and
+  (b) either—
+    (i) where the employer is able to keep the employee's position open until the end of the employee's parental leave, the date on which, if the employee decides to return to work at the end of the parental leave, the employee will be required to return to work, being the date of the next working day after the date on which the employee's parental leave ends; or
+    (ii) in any other case, the period of 26 weeks during which the employer will give the employee preference over other applicants for any position which is vacant and which is substantially similar to the position held by the employee at the beginning of the employee's parental leave; and
+  (c) where paragraph (b)(i) of this section applies, the employee's obligations under section 39 of this Act; and
+  (d) the employee's rights under section 45 of this Act.
 
 ### 39 Employee's notice in relation to return to work
-(1) Every employee who is on parental leave and whose position is being kept open by the employer, shall, not later than 21 days before the date on which the employee's parental leave ends, give to the employer written notice stating whether or not the employee will be returning to work at the end of the employee's parental leave.
-(2) Where an employee chooses,—the employee shall give to the employer not less than 21 days' notice in writing of the date on which the employee intends to return to work or begin the period of preference, as the case may be.
-  (a) Pursuant to section 45(1)(f) of this Act, to return to work before the date on which the employee is required to return to work at the end of the parental leave; or
-  (b) Pursuant to section 45(1)(g) of this Act, to end any period of parental leave and begin the period of preference before the date on which the period of preference would otherwise begin,—
+(1) every employee who is on parental leave and whose position is being kept open by the employer, shall, not later than 21 days before the date on which the employee's parental leave ends, give to the employer written notice stating whether or not the employee will be returning to work at the end of the employee's parental leave.
+(2) where an employee chooses,—the employee shall give to the employer not less than 21 days' notice in writing of the date on which the employee intends to return to work or begin the period of preference, as the case may be.
+  (a) pursuant to section 45(1)(f) of this Act, to return to work before the date on which the employee is required to return to work at the end of the parental leave; or
+  (b) pursuant to section 45(1)(g) of this Act, to end any period of parental leave and begin the period of preference before the date on which the period of preference would otherwise begin,—
 
 ### 39A Succession to employee's entitlements
 [Repealed]
@@ -409,25 +404,25 @@ Within 21 days after the beginning of an employee's parental leave, the employer
 
 ### 40 Presumption that employee's position can be kept open in the case of first period of parental leave not exceeding 4 weeks
 (1) Where an employee takes a continuous period of parental leave—the employer shall be presumed, in any proceedings under this Act, to be able to keep open for the employee, until the end of that period of parental leave, the employee's position in the employment of the employer unless the employer proves that the employee's position cannot be kept open because of the occurrence of a redundancy situation.
-  (a) That does not exceed 4 weeks (inclusive of any public or statutory holiday falling within the period); and
-  (b) That is the first period of parental leave taken by the employee in respect of the child; and
-  (c) Of which the employee's employer has had no less notice than the period of notice required by section 31(3) or section 33 of this Act, as the case may be,—
+  (a) that does not exceed 4 weeks (inclusive of any public or statutory holiday falling within the period); and
+  (b) that is the first period of parental leave taken by the employee in respect of the child; and
+  (c) of which the employee's employer has had no less notice than the period of notice required by section 31(3) or section 33 of this Act, as the case may be,—
 (2) For the purposes of determining under subsection (1) of this section whether an employer has had no less notice of a period of parental leave than the period of notice required by section 31(3) or section 33 of this Act, as the case may be, it shall be sufficient if the employer had notice that a period of parental leave not exceeding 4 weeks would be taken by the employee, notwithstanding that the employer did not have the requisite notice of the exact date on which the period of parental leave would commence, and the exact date on which it would cease.
 (3) The reference in subsection (1) of this section to the employee's position in the employment of the employer shall be a reference to the position ordinarily held by the employee, and shall not include any position to which the employee was temporarily transferred under section 16 of this Act.
 
 ### 41 Presumption that employee's position can be kept open in the case of other periods of parental leave
 (1) Where an employee takes a period of parental leave (other than a period of parental leave referred to in section 40 of this Act) the employer shall be presumed in any proceedings under this Act, to be able to keep open for the employee, until the end of the employee's parental leave, the employee's position in the employment of the employer unless the employer proves that the employee's position cannot be kept open—
-  (a) Because a temporary replacement is not reasonably practicable due to the key position occupied within the employer's enterprise by the employee; or
-  (b) Because of the occurrence of a redundancy situation.
+  (a) because a temporary replacement is not reasonably practicable due to the key position occupied within the employer's enterprise by the employee; or
+  (b) because of the occurrence of a redundancy situation.
 (2) In determining whether or not a position is a key position for the purposes of subsection (1)(a) of this section, regard may be had, among other things, to—
-  (a) The size of the employer's enterprise; and
-  (b) The training period or skills required in the job.
+  (a) the size of the employer's enterprise; and
+  (b) the training period or skills required in the job.
 (3) The reference in subsection (1) of this section to the employee's position in the employment of the employer shall be a reference to the position ordinarily held by the employee, and shall not include any position to which the employee was temporarily transferred under section 16 of this Act.
 
 ### 42 Employer's obligations in respect of remuneration and holiday pay
 (1) Subject to subsections (2) and (3) of this section, the employer of an employee who takes any form of parental leave in accordance with this Act shall not be obliged to pay that employee any remuneration for—
-  (a) Any period of the employee's parental leave under this Act; or
-  (b) Any period during which the employee is entitled under this Act, following any period of parental leave, to preference in obtaining employment with the employer.
+  (a) any period of the employee's parental leave under this Act; or
+  (b) any period during which the employee is entitled under this Act, following any period of parental leave, to preference in obtaining employment with the employer.
 (2) If an employee becomes entitled to an annual holiday on pay during—the employee is, despite anything in section 21 of the Holidays Act 2003, entitled to holiday pay for that holiday only at the rate of the employee's average weekly earnings for the 12 months immediately before the end of the last pay period before the annual holiday.
   (a) a period of parental leave under this Act; or
   (b) a period of preference in obtaining employment; or
@@ -436,88 +431,88 @@ Within 21 days after the beginning of an employee's parental leave, the employer
 
 ### 43 Continuity of employment
 Where an employee resumes service with the same employer at the end of a period of parental leave or while the employee is entitled, following parental leave, to preference in obtaining employment with the employee's employer—
-  (a) The employee's service, for the purpose of any rights and benefits that are conditional on unbroken service, shall not be broken—
-    (i) By the taking of parental leave; or
-    (ii) By the employee being without a position in the employer's service during part of the period of preference; or
-    (iii) By both; and
-  (b) Any period during which the employee was on parental leave and any period during which the employee was entitled, following parental leave, to preference in obtaining employment with the employer shall count,—
-    (i) Subject to section 42 of this Act, as time served under the employee's employment agreement; and
-    (ii) Subject to section 44 of this Act, as service for the purpose of any superannuation scheme to which the employee belongs in the employee's capacity as an employee of the employer.
+  (a) the employee's service, for the purpose of any rights and benefits that are conditional on unbroken service, shall not be broken—
+    (i) by the taking of parental leave; or
+    (ii) by the employee being without a position in the employer's service during part of the period of preference; or
+    (iii) by both; and
+  (b) any period during which the employee was on parental leave and any period during which the employee was entitled, following parental leave, to preference in obtaining employment with the employer shall count,—
+    (i) subject to section 42 of this Act, as time served under the employee's employment agreement; and
+    (ii) subject to section 44 of this Act, as service for the purpose of any superannuation scheme to which the employee belongs in the employee's capacity as an employee of the employer.
 
 ### 44 Contributions to superannuation schemes
 Nothing in section 43(b)(ii) of this Act shall—
-  (a) Entitle an employee to have any period counted as service for the purposes of a superannuation scheme if the employee is required to pay contributions in respect of that period and has not done so; or
-  (b) Relieve an employee from any obligation under a superannuation scheme to pay contributions in respect of any period during which the employee is on parental leave or during which the employee is entitled, following parental leave, to preference in obtaining employment with the employee's employer.
+  (a) entitle an employee to have any period counted as service for the purposes of a superannuation scheme if the employee is required to pay contributions in respect of that period and has not done so; or
+  (b) relieve an employee from any obligation under a superannuation scheme to pay contributions in respect of any period during which the employee is on parental leave or during which the employee is entitled, following parental leave, to preference in obtaining employment with the employee's employer.
 
 ### 45 Early ending and extension of parental leave
 (1) Subject to compliance with section 39(2) of this Act, an employee who is on parental leave may,—choose—
-  (a) If the employee or the employee's spouse or partner suffers a miscarriage; or
-  (b) If the child is stillborn or dies; or
-  (c) If the employee or the employee's spouse or partner has consented to the adoption of the child and some other person has the care of the child with a view to its adoption; or
-  (d) If the employee ceases to have care of the child in respect of whom the parental leave is taken; or
-  (e) If the employer consents,—
-  (f) Where the employee's position is being kept open by the employer, to end the parental leave by returning to work before the date on which the employee is required to return to work at the end of the parental leave; or
-  (g) In any other case, to end the parental leave and begin the period of preference.
+  (a) if the employee or the employee's spouse or partner suffers a miscarriage; or
+  (b) if the child is stillborn or dies; or
+  (c) if the employee or the employee's spouse or partner has consented to the adoption of the child and some other person has the care of the child with a view to its adoption; or
+  (d) if the employee ceases to have care of the child in respect of whom the parental leave is taken; or
+  (e) if the employer consents,—
+  (f) where the employee's position is being kept open by the employer, to end the parental leave by returning to work before the date on which the employee is required to return to work at the end of the parental leave; or
+  (g) in any other case, to end the parental leave and begin the period of preference.
 (2) Where a female employee is on maternity leave under section 7 of this Act, an employer may, in giving consent under subsection (1)(e) of this section, make it conditional on the female employee giving to the employer, before the female employee ends her maternity leave under subsection (1)(f) or subsection (1)(g) of this section, a certificate from a medical practitioner to the effect that the female employee is fit to return to work.
 (3) Subject to subsection (4) of this section, an employee who is on parental leave may, if the employer consents, extend the parental leave until a specified date which shall thereafter be the date on which the employee's parental leave will end.
 (4) Without limiting any right of an employee to take a period of leave otherwise than by virtue of this Act, and subject to section 9(2) of this Act, nothing in subsection (3) of this section shall entitle an employee to extend any period of parental leave with the result that,—
-  (a) In the case of a period of maternity leave, the period of maternity leave exceeds 14 weeks:
+  (a) in the case of a period of maternity leave, the period of maternity leave exceeds 14 weeks:
   (b) in the case of a period of partner's/paternity leave, the duration of partner's/paternity leave exceeds—
     (i) 2 weeks if section 17(c)(i) or section 18(1)(b)(i) applies to the employee; or
     (ii) 1 week if section 17(c)(ii) or section 18(1)(b)(ii) applies to the employee.
-  (c) In the case of a period of extended leave, the period of extended leave, when aggregated with—exceeds 52 weeks.
-    (i) All maternity leave (other than maternity leave in excess of 14 weeks taken under section 9(2) of this Act) and extended leave taken or proposed to be taken by the employee or the employee's spouse or partner under this Act; and
-    (ii) All leave (excluding partner's/paternity leave) taken or proposed to be taken by the employee or the employee's spouse or partner under any other Act or under any employment agreement,—
+  (c) in the case of a period of extended leave, the period of extended leave, when aggregated with—exceeds 52 weeks.
+    (i) all maternity leave (other than maternity leave in excess of 14 weeks taken under section 9(2) of this Act) and extended leave taken or proposed to be taken by the employee or the employee's spouse or partner under this Act; and
+    (ii) all leave (excluding partner's/paternity leave) taken or proposed to be taken by the employee or the employee's spouse or partner under any other Act or under any employment agreement,—
 
 ### 46 Failure to return to work
 If an employee who takes up parental leave and whose position is kept open by the employer—the employee's employment shall, subject to any agreement between the employer and the employee, be deemed to have been at an end as from the day on which the period of parental leave began.
-  (a) Fails, without good cause, to return to work at the end of that period of parental leave; or
-  (b) Informs the employer, before the end of that period of parental leave, that the employee has decided not to return to work at the end of the period of parental leave,—
+  (a) fails, without good cause, to return to work at the end of that period of parental leave; or
+  (b) informs the employer, before the end of that period of parental leave, that the employee has decided not to return to work at the end of the period of parental leave,—
 
 ### 47 Failure to accept employment
 If an employee who has taken parental leave fails, without reasonable excuse, to take up, on the date specified by the employer or within 7 days thereafter, any position substantially similar to the position ordinarily held by the employee before taking parental leave that is offered to the employee by the employee's employer during the period of 26 weeks beginning with the day after the date on which the period of parental leave ends, that employee's employment shall be deemed to have been at an end as from the day on which the period of parental leave began.
 
 ### 48 Workers employed to replace employees on parental leave
 Where a temporary employee is employed to replace an employee who is on parental leave, the employer shall, before employing the temporary employee, inform the temporary employee in writing—
-  (a) That the temporary employee is being employed on a temporary basis in the place of an employee who is on parental leave; and
-  (b) That the employee may return to work, in accordance with section 45 of this Act, before the date on which the employee is required to return to work at the end of the parental leave.
+  (a) that the temporary employee is being employed on a temporary basis in the place of an employee who is on parental leave; and
+  (b) that the employee may return to work, in accordance with section 45 of this Act, before the date on which the employee is required to return to work at the end of the parental leave.
 
 ## Part 6 — Protection of employment
 
 ### 49 Dismissal by reason of pregnancy or parental leave prohibited
 (1) No employer shall terminate the employment of any employee—
-  (a) By reason of, in the case of a female employee,—
-    (i) Her pregnancy; or
-    (ii) Her state of health during her pregnancy, unless her state of health during her pregnancy is materially affected by causes not related to her pregnancy; or
+  (a) by reason of, in the case of a female employee,—
+    (i) her pregnancy; or
+    (ii) her state of health during her pregnancy, unless her state of health during her pregnancy is materially affected by causes not related to her pregnancy; or
   (b) By reason of, in the case of any employee,—
-    (i) The employee indicating that the employee wishes to take parental leave under this Act or rights and benefits in the nature of parental leave under any provision other than this Act; or
-    (ii) The employee assuming, with a view to adoption by the employee or by the employee and the employee's spouse or partner jointly, the care of a child; or
-  (c) During the employee's absence on parental leave or during the period of 26 weeks beginning with the day after the date on which any period of parental leave ends.
+    (i) the employee indicating that the employee wishes to take parental leave under this Act or rights and benefits in the nature of parental leave under any provision other than this Act; or
+    (ii) the employee assuming, with a view to adoption by the employee or by the employee and the employee's spouse or partner jointly, the care of a child; or
+  (c) during the employee's absence on parental leave or during the period of 26 weeks beginning with the day after the date on which any period of parental leave ends.
 (2) It shall not be a contravention of subsection (1) of this section for an employer to terminate the employment of an employee—the employee absents himself or herself from work (other than with the agreement of the employee's employer or in accordance with section 13 or section 14 of this Act) for any period which the employee is not entitled to take as leave by reason of any provision of this Act or any entitlement to parental leave contained in any provision other than this Act.
-  (a) With the employee's consent; or
-  (b) Where solely on account of—
-    (i) The pregnancy of a female employee or the employee's spouse or partner; or
-    (ii) The employee assuming, with a view to adoption, the care of a child,—
+  (a) with the employee's consent; or
+  (b) where solely on account of—
+    (i) the pregnancy of a female employee or the employee's spouse or partner; or
+    (ii) the employee assuming, with a view to adoption, the care of a child,—
 
 ### 50 Special defences relating to dismissal
 Where—the defences set out in sections 51 and 52 of this Act shall be available to the employer.
-  (a) It is alleged in any proceedings under this Act that an employer has, in contravention of section 49(1) of this Act, terminated the employment of an employee; and
-  (b) It is proved in those proceedings that the employer terminated the employee's employment either—
-    (i) During the employee's absence on parental leave; or
-    (ii) During the period of 26 weeks beginning with the day after the date on which any period of the employee's parental leave ended,—
+  (a) it is alleged in any proceedings under this Act that an employer has, in contravention of section 49(1) of this Act, terminated the employment of an employee; and
+  (b) it is proved in those proceedings that the employer terminated the employee's employment either—
+    (i) during the employee's absence on parental leave; or
+    (ii) during the period of 26 weeks beginning with the day after the date on which any period of the employee's parental leave ended,—
 
 ### 51 Special defences relating to dismissal during parental leave
 Where the termination is proved to have taken place during the employee's absence on parental leave, it shall be a defence for the employer to prove—
-  (a) That—
-    (i) In the case of a period of parental leave to which section 40(1) of this Act applies, on the ground of the occurrence of a redundancy situation that occurred in the employer's business after the employer gave the employee notice in terms of section 36(1)(c)(i) of this Act, the employer was unable to keep the employee's position open; or
-    (ii) In the case of other periods of parental leave, on the ground of circumstances (of the type referred to in section 41 of this Act) that occurred in the employer's business after the employer gave the employee notice in terms of section 36(1)(c)(i) of this Act, the employer was unable to keep the employee's position open; and
-  (b) That the employer terminated the employee's employment on account of a redundancy situation of such nature that there was no prospect of the employer being able to appoint the employee to a position which was vacant and which was substantially similar to the position held by the employee at the beginning of the employee's parental leave; and
-  (c) That the employer had not, in the period commencing with the beginning of the employee's parental leave and ending with the termination of the employee's employment, prejudicially affected either the employee's seniority or the employee's superannuation rights.
+  (a) that—
+    (i) in the case of a period of parental leave to which section 40(1) of this Act applies, on the ground of the occurrence of a redundancy situation that occurred in the employer's business after the employer gave the employee notice in terms of section 36(1)(c)(i) of this Act, the employer was unable to keep the employee's position open; or
+    (ii) in the case of other periods of parental leave, on the ground of circumstances (of the type referred to in section 41 of this Act) that occurred in the employer's business after the employer gave the employee notice in terms of section 36(1)(c)(i) of this Act, the employer was unable to keep the employee's position open; and
+  (b) that the employer terminated the employee's employment on account of a redundancy situation of such nature that there was no prospect of the employer being able to appoint the employee to a position which was vacant and which was substantially similar to the position held by the employee at the beginning of the employee's parental leave; and
+  (c) that the employer had not, in the period commencing with the beginning of the employee's parental leave and ending with the termination of the employee's employment, prejudicially affected either the employee's seniority or the employee's superannuation rights.
 
 ### 52 Special defence relating to dismissal during the 26 weeks following parental leave
 Where the termination of employment is proved to have taken place during the period of 26 weeks beginning with the day after the date on which any period of the employee's parental leave ended, it shall be a defence for the employer to prove—
-  (a) The matters set out in paragraphs (b) and (c) of section 51 of this Act; and
-  (b) That, during the period between the end of the period of the employee's parental leave and the termination of the employee's employment, the employer had (despite being prepared to accord the employee preference over other applicants) been unable to appoint the employee to a position which was vacant and which was substantially similar to the position held by the employee at the beginning of the employee's period of parental leave.
+  (a) the matters set out in paragraphs (b) and (c) of section 51 of this Act; and
+  (b) that, during the period between the end of the period of the employee's parental leave and the termination of the employee's employment, the employer had (despite being prepared to accord the employee preference over other applicants) been unable to appoint the employee to a position which was vacant and which was substantially similar to the position held by the employee at the beginning of the employee's period of parental leave.
 
 ### 53 Redundancy payments not affected
 Nothing in this Act shall affect any redundancy payment payable pursuant to the provisions of any Act or of any order or employment agreement.
@@ -525,33 +520,33 @@ Nothing in this Act shall affect any redundancy payment payable pursuant to the 
 ### 54 Dismissal for cause not affected
 Nothing in this Act shall affect any right of an employer to dismiss an employee for a substantial reason not related to—
   (a) the pregnancy of the employee or the pregnancy of the employee's spouse or partner; or
-  (b) The employee assuming, with a view to adoption by the employee or by the employee and the employee's spouse or partner jointly, the care of a child; or
-  (c) The employee's rights under this Act.
+  (b) the employee assuming, with a view to adoption by the employee or by the employee and the employee's spouse or partner jointly, the care of a child; or
+  (c) the employee's rights under this Act.
 
 ## Part 7 — Remedies available to employees
 
 ### 55 Interim order
 (1) Where any employee alleges that the employee's employer has, within the preceding 2 months and in contravention of section 49(1) of this Act, terminated the employee's employment or given the employee notice terminating the employee's employment, the employee may apply ex parte to the Employment Relations Authority for an interim order reinstating the employee in the employee's position or cancelling the notice terminating the employee's employment.
 (2) Subject to subsection (3) of this section, every interim order made under subsection (1) of this section shall expire on a date to be specified in the order, being the later of—
-  (a) A date not later than 26 weeks after the date on which the order is made; or
-  (b) A date not later than 26 weeks after—
-    (i) The expected date of delivery; or
-    (ii) In the case of adoption, the date on which, with a view to adoption, the employee first assumes or expects to first assume the care of the child.
+  (a) a date not later than 26 weeks after the date on which the order is made; or
+  (b) a date not later than 26 weeks after—
+    (i) the expected date of delivery; or
+    (ii) in the case of adoption, the date on which, with a view to adoption, the employee first assumes or expects to first assume the care of the child.
 (3) An interim order made under subsection (1) of this section may be renewed by the Employment Relations Authority from time to time on the ex parte application of the employee in whose favour it was made if the Employment Relations Authority is satisfied that the employee is taking reasonable steps to use the procedures available to the employee under sections 57 to 67 of this Act.
 (4) An officer of the Employment Relations Authority shall send a copy of the interim order and of every decision renewing the interim order to the employer by registered letter.
 
 ### 56 Parental leave complaints
 (1) Where any employee alleges that the employee's employer—that allegation shall be a parental leave complaint to which this section applies, and the employee may use, in respect of that parental leave complaint, the procedures provided in sections 57 to 67 of this Act.
-  (a) Is not justified in stating, in the notice given to the employee under section 36 of this Act, that the employee is not entitled to take any period of parental leave or that the employee's position cannot be kept open; or
-  (b) Has, in contravention of section 49(1) of this Act, terminated the employee's employment or given the employee notice terminating the employee's employment; or
+  (a) is not justified in stating, in the notice given to the employee under section 36 of this Act, that the employee is not entitled to take any period of parental leave or that the employee's position cannot be kept open; or
+  (b) has, in contravention of section 49(1) of this Act, terminated the employee's employment or given the employee notice terminating the employee's employment; or
   (c) has taken other action, or has omitted to do something, that affects, to the employee's disadvantage, the employee's rights and benefits in respect of parental leave or a parental leave payment; or
-  (d) Has exercised, without reasonable justification, the powers conferred on the employer by section 14 or section 16 of this Act,—
+  (d) has exercised, without reasonable justification, the powers conferred on the employer by section 14 or section 16 of this Act,—
 (2) A parental leave complaint to which this section applies shall not be made—whichever is the later.
-  (a) After the expiration of 26 weeks from the date on which the subject-matter of the complaint arose; or
-  (b) After the expiration of 26 weeks from—
-    (i) The expected date of delivery; or
-    (ii) In the case of adoption, the date on which the employee, with a view to adoption, first assumed the care of the child; or
-  (c) After the expiration of 8 weeks from the expiry of any period of parental leave taken by the employee,—
+  (a) after the expiration of 26 weeks from the date on which the subject-matter of the complaint arose; or
+  (b) after the expiration of 26 weeks from—
+    (i) the expected date of delivery; or
+    (ii) in the case of adoption, the date on which the employee, with a view to adoption, first assumed the care of the child; or
+  (c) after the expiration of 8 weeks from the expiry of any period of parental leave taken by the employee,—
 (3) The procedures provided in sections 57 to 67 of this Act may be used before or after the making of an interim order under section 55 of this Act.
 (4) A parental leave complaint to which this section applies is not a personal grievance within the meaning of section 103 of the Employment Relations Act 2000.
 
@@ -559,8 +554,8 @@ Nothing in this Act shall affect any right of an employer to dismiss an employee
 (1) The procedures for the settlement of a parental leave complaint shall be in accordance with this section and sections 58 to 67 of this Act.
 (2) As soon as practicable after a parental leave complaint arises, the employee shall submit the complaint to the employee's immediate supervisor, affording the immediate supervisor an opportunity to remedy the cause of the complaint, the intent being that it is desirable, if the circumstances permit it, to settle the complaint rapidly and as near as possible to the point of origin.
 (3) Where any such attempt at settlement has failed, or where the complaint is of such a nature that a direct discussion between the employee and the employee's immediate supervisor would be inappropriate, the employee shall either—
-  (a) Notify the branch secretary or secretary or a duly authorised representative of any union to which the employee belongs or could belong; or
-  (b) Where the employee elects to act on his or her own behalf or to appoint an agent or barrister or solicitor to act on his or her behalf, forthwith take the matter up, or arrange for that agent, barrister, or solicitor, as the case may be, to take up the matter on his or her behalf, with the employer or the representative of the employer.
+  (a) notify the branch secretary or secretary or a duly authorised representative of any union to which the employee belongs or could belong; or
+  (b) where the employee elects to act on his or her own behalf or to appoint an agent or barrister or solicitor to act on his or her behalf, forthwith take the matter up, or arrange for that agent, barrister, or solicitor, as the case may be, to take up the matter on his or her behalf, with the employer or the representative of the employer.
 (4) Where the person notified under subsection (3)(a) of this section considers that there is some substance in the parental leave complaint, that person shall forthwith take the matter up with the employer or the representative of the employer.
 (5) If the matter is not disposed of in discussion with the employer or the representative of the employer, the complaint shall be reduced to writing in a statement setting out all the facts relied on. The statement shall establish the nature of the employee's complaint, and of the issues, for all subsequent consideration of the case.
 
@@ -588,14 +583,14 @@ Where any parental leave complaint comes before the Employment Relations Authori
 
 ### 64 Duty to promote settlement
 It shall be the duty of every party to a parental leave complaint—
-  (a) To promote the settlement of the complaint under the procedures provided in sections 57 to 67 of this Act; and
-  (b) To abstain from any action that might impede the effective functioning of the procedures.
+  (a) to promote the settlement of the complaint under the procedures provided in sections 57 to 67 of this Act; and
+  (b) to abstain from any action that might impede the effective functioning of the procedures.
 
 ### 65 Remedies
 In the case of any alleged breach of any of the provisions of this Act, any decision made for the purposes of this Act may, if it includes a finding that any of the provisions of this Act have been breached by the employer, provide for any one or more of the following:
-  (a) The reinstatement of the employee in the employee's former position or in a position not less advantageous to the employee:
-  (b) The reimbursement to the employee of a sum equal to the whole or any part of any wages lost by the employee:
-  (c) The payment to the employee of compensation by the employer.
+  (a) the reinstatement of the employee in the employee's former position or in a position not less advantageous to the employee:
+  (b) the reimbursement to the employee of a sum equal to the whole or any part of any wages lost by the employee:
+  (c) the payment to the employee of compensation by the employer.
 
 ### 66 Reinstatement
 Where the remedy of reinstatement is provided by the Employment Relations Authority or the Employment Court, the employee must be reinstated immediately or on such date as is specified by the Employment Relations Authority or the Employment Court and, despite any appeal against the determination of the Employment Relations Authority or the Employment Court, the provisions for reinstatement remain in full force pending the determination of the appeal.
@@ -692,7 +687,7 @@ The purpose of this Part is to entitle certain employees and self-employed perso
 
 ### 71B Overview
 (1) Section 71A and this section are preliminary provisions relating to the parental leave scheme.
-(2) Sections 71C to 71 CD are interpretation provisions for this Part.
+(2) Sections 71C to 71CDare interpretation provisions for this Part.
 (3) Sections 71D and 71DA confer entitlements to parental leave payments, primarily on female employees and self-employed persons respectively.
 (4) Sections 71E and 71EA enable employees and self-employed persons to transfer their entitlements under sections 71D and 71DA, in certain circumstances, to their spouse or partner.
 (5) Sections 71F to 71H contain restrictions on entitlements to parental leave payments.
@@ -712,7 +707,7 @@ In this Part, unless the context otherwise requires,—
       (i) section 7(b)(i), 8(1)(b)(i), 17(c)(i), or 18(1)(b)(i) applies, it means one fifty-second of the employee's gross earnings during the year ending with the expected date of delivery (or, in the case of adoption, the date on which the employee assumes the care of the child with a view to adoption); or
       (ii) section 7(b)(ii), 8(1)(b)(ii), 17(c)(ii), or 18(1)(b)(ii) applies, it means one twenty-sixth of the employee's gross earnings during the 6 months ending with the expected date of delivery (or, in the case of adoption, the date on which the employee assumes the care of the child with a view to adoption); but
     (b) if section 72A also applies to the employee, the divisor of 52 or 26 must be reduced by the number of complete weeks during which the employee was absent from work on leave without pay in a circumstance described in subsection (2) of that section
-  - **net income** has the same meaning as in section OB 1 of the Income Tax Act 2004, and includes a distribution from a trust
+  - **net income** has the same meaning as in section YA 1 of the Income Tax Act 2007, and includes a distribution from a trust
   - **non-statutory parental leave** means any rights and benefits in the nature of parental leave for which provision is made otherwise than by this Act
   - **ordinary weekly pay** means the total of the amounts of ordinary weekly pay in respect of all the employments from which the employee takes parental leave as an eligible employee and is determined on the basis of section 8 of the Holidays Act 2003
   - **parental leave** , in relation to an employee, includes non-statutory parental leave.
@@ -1011,7 +1006,7 @@ The department may not recover any payment or part of a payment under this Part 
 
 ### 72A Eligibility criteria based on average hours of work and allowing for periods of authorised leave
 (1) An employee is treated as being in the employment of the same employer for at least an average of 10 hours a week during a 12-month period (or 6-month period, as the case may be) if the employee is in the employment of that employer—
-  (a) No less than an average of 10 hours a week during that period; and
+  (a) no less than an average of 10 hours a week during that period; and
   (b) either no less than 1 hour in every week during that period or no less than 40 hours in every month during that period.
 (2) An employee is treated as being in the employment of an employer for an hour, despite being absent from work, if the employee would normally have been at work for that employer for that hour but is—
   (a) absent on leave with pay for that hour; or
@@ -1023,7 +1018,7 @@ The department may not recover any payment or part of a payment under this Part 
 (3) The hours that the employee would normally have been at work must be calculated—
   (a) in accordance with the terms of the employee's employment; or
   (b) by reference to the employee's hours of work before any period of leave without pay began, in the case of a period of leave without pay that started longer than 12 months ago.
-(4) Week means the employee's ordinary working week.
+(4) week means the employee's ordinary working week.
 
 ### 72B Succession to spouse's or partner's entitlements
 (1) A spouse or partner of an employee may succeed to the employee's rights to parental leave and to a parental leave payment under this Act if, at any time after the employee gives notice to his or her employer of a wish to take parental leave,—
@@ -1050,7 +1045,7 @@ Part 10 of the Employment Relations Act 2000 applies to the extent applicable an
 
 ### 73 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) Prescribing forms for the purposes of this Act:
+  (a) prescribing forms for the purposes of this Act:
   (aa) prescribing the manner in which an application for, or other notices relating to, a parental leave payment must be made:
   (ab) prescribing the information that employees and employers must give in, or the documents that employees or employers must attach to, an application for, or other notice relating to, a parental leave payment:
   (aba) prescribing the information that self-employed persons must give in, or the documents that self-employed persons must attach to, an application for, or other notices relating to, a parental leave payment:
@@ -1058,8 +1053,8 @@ Part 10 of the Employment Relations Act 2000 applies to the extent applicable an
   (ad) increasing the amount under section 71O:
   (ada) setting the amount under section 71OA, including the amount that applies on 1 July 2006:
   (ae) extending the class or classes of person entitled to a parental leave payment under Part 7A:
-  (b) Prescribing procedures and practices for the implementation of this Act:
-  (c) Providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration thereof.
+  (b) prescribing procedures and practices for the implementation of this Act:
+  (c) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration thereof.
 (2) No regulations may be made under this section about parental leave payments unless they are made in accordance with a recommendation of the Minister.
 (3) The Minister must not make that recommendation without first consulting with any persons or organisations that the Minister considers appropriate, having regard to the subject matter of the proposed regulations.
 (4) Regulations made under subsection (1)(ad) or (ae),—
@@ -1082,51 +1077,51 @@ The Maternity Leave and Employment Protection Act 1980 is hereby repealed.
 
 ### 77 Savings provisions
 (1) Notwithstanding the repeal of the Maternity Leave and Employment Protection Act 1980 by section 74 of this Act a female employee shall be entitled after the commencement of this Act to take maternity leave in accordance with that Act in respect of a child—and the female employee shall be entitled to the same rights and benefits as the rights and benefits to which the female employee would have been entitled if the maternity leave had been taken before the repeal of the Maternity Leave and Employment Protection Act 1980.
-  (a) The expected date of delivery of whom is on or after the 1st day of October 1987 but before the 1st day of January 1988; or
-  (b) Of whom the employee assumes care on or after the 1st day of October 1987 but before the 1st day of January 1988 with a view to adoption by that employee or by that employee and that employee's spouse jointly,—
+  (a) the expected date of delivery of whom is on or after the 1st day of October 1987 but before the 1st day of January 1988; or
+  (b) of whom the employee assumes care on or after the 1st day of October 1987 but before the 1st day of January 1988 with a view to adoption by that employee or by that employee and that employee's spouse jointly,—
 (2) The repeal of the Maternity Leave and Employment Protection Act 1980 by section 74 of this Act shall not affect, reduce, or extinguish—
-  (a) Any rights or entitlements conferred, or any obligations imposed, by that Act on a female employee who—
-    (i) Is on maternity leave under that Act on the 1st day of October 1987; or
-    (ii) Is absent on the 1st day of October 1987 during a period of preference in obtaining employment in the employment of that employee's employer following any period of maternity leave taken under that Act; or
-    (iii) Commences, after the 1st day of October 1987, maternity leave under that Act in accordance with subsection (1) of this section:
-  (b) Any obligations imposed, or any rights conferred, by that Act on an employer of a female employee referred to in paragraph (a) of this subsection.
+  (a) any rights or entitlements conferred, or any obligations imposed, by that Act on a female employee who—
+    (i) is on maternity leave under that Act on the 1st day of October 1987; or
+    (ii) is absent on the 1st day of October 1987 during a period of preference in obtaining employment in the employment of that employee's employer following any period of maternity leave taken under that Act; or
+    (iii) commences, after the 1st day of October 1987, maternity leave under that Act in accordance with subsection (1) of this section:
+  (b) any obligations imposed, or any rights conferred, by that Act on an employer of a female employee referred to in paragraph (a) of this subsection.
 (3) All matters and proceedings—may be continued and determined in accordance with the provisions of the Maternity Leave and Employment Protection Act 1980.
-  (a) Commenced before the repeal of the Maternity Leave and Employment Protection Act 1980:
-  (b) Commenced after the repeal of the Maternity Leave and Employment Protection Act 1980 in relation to—
-    (i) The rights, entitlements, or obligations of any female employee to whom subsection (2)(a) of this section relates; or
-    (ii) The obligations or rights of any employer to whom subsection (2)(b) of this section relates,—
+  (a) commenced before the repeal of the Maternity Leave and Employment Protection Act 1980:
+  (b) commenced after the repeal of the Maternity Leave and Employment Protection Act 1980 in relation to—
+    (i) the rights, entitlements, or obligations of any female employee to whom subsection (2)(a) of this section relates; or
+    (ii) the obligations or rights of any employer to whom subsection (2)(b) of this section relates,—
 
 ## Schedule Schedule — Change of employer
 
 ### 1
 If a trade or business or an undertaking (whether or not it is an undertaking established by or under an Act) is transferred from one person to another (whether before or after the date of the commencement of this Act),—
-  (a) The period of employment of an employee in the trade or business or undertaking at the time of the transfer shall count as a period of employment with the transferee; and
-  (b) The transfer shall not break the continuity of the period of employment of any employee in the trade or business or undertaking; and
-  (c) Any employer who employed any employee in the trade or business or undertaking at any time before the transfer and the transferee shall be deemed, in relation to the employee, to be the same employer.
+  (a) the period of employment of an employee in the trade or business or undertaking at the time of the transfer shall count as a period of employment with the transferee; and
+  (b) the transfer shall not break the continuity of the period of employment of any employee in the trade or business or undertaking; and
+  (c) any employer who employed any employee in the trade or business or undertaking at any time before the transfer and the transferee shall be deemed, in relation to the employee, to be the same employer.
 
 ### 2
 If by or under any Act, whether passed before or after the date of the commencement of this Act, a employment agreement between any body corporate and an employee is modified and some other body corporate is substituted as the employer,—
-  (a) The employee's period of employment at the time when the substitution takes effect shall count as a period of employment with the second-mentioned body corporate; and
-  (b) The substitution shall not break the continuity of the period of employment of the employee; and
-  (c) The first-mentioned body corporate and the second-mentioned body corporate shall be deemed, in relation to the employee, to be the same employer.
+  (a) the employee's period of employment at the time when the substitution takes effect shall count as a period of employment with the second-mentioned body corporate; and
+  (b) the substitution shall not break the continuity of the period of employment of the employee; and
+  (c) the first-mentioned body corporate and the second-mentioned body corporate shall be deemed, in relation to the employee, to be the same employer.
 
 ### 3
 If on the death of an employer an employee is taken into the employment of the personal representatives or trustees of the deceased (whether before or after the commencement of this Act),—
-  (a) The employee's period of employment at the time of the death shall count as a period of employment with the employer's personal representatives or trustees; and
-  (b) The death shall not break the continuity of the period of employment of the employee; and
-  (c) The employer and the employer's personal representatives or trustees shall be deemed, in relation to the employee, to be the same employer.
+  (a) the employee's period of employment at the time of the death shall count as a period of employment with the employer's personal representatives or trustees; and
+  (b) the death shall not break the continuity of the period of employment of the employee; and
+  (c) the employer and the employer's personal representatives or trustees shall be deemed, in relation to the employee, to be the same employer.
 
 ### 4
 If there is a change (whether before or after the commencement of this Act) in the partners, personal representatives, or trustees who employ any employee,—
-  (a) The employee's period of employment at the time of the change shall count as a period of employment with the partners, personal representatives, or trustees after the change; and
-  (b) The change shall not break the continuity of the period of employment of the employee; and
-  (c) The partners, personal representatives, or trustees who employed the employee before the change and the partners, personal representatives, or trustees who employ the employee after the change shall be deemed, in relation to the employee, to be the same employers.
+  (a) the employee's period of employment at the time of the change shall count as a period of employment with the partners, personal representatives, or trustees after the change; and
+  (b) the change shall not break the continuity of the period of employment of the employee; and
+  (c) the partners, personal representatives, or trustees who employed the employee before the change and the partners, personal representatives, or trustees who employ the employee after the change shall be deemed, in relation to the employee, to be the same employers.
 
 ### 5
 If (whether before or after the commencement of this Act) an employee of an employer is taken into the employment of another employer who, at the time when the employee enters that other employer's employment is an associated employer of the first-mentioned employer,—
-  (a) The employee's period of employment at that time shall count as a period of employment with the associated employer; and
-  (b) The taking of the employee into the employment of the associated employer shall not break the continuity of the period of employment; and
-  (c) The first-mentioned employer and the associated employer shall be deemed, in relation to the employee, to be the same employer.
+  (a) the employee's period of employment at that time shall count as a period of employment with the associated employer; and
+  (b) the taking of the employee into the employment of the associated employer shall not break the continuity of the period of employment; and
+  (c) the first-mentioned employer and the associated employer shall be deemed, in relation to the employee, to be the same employer.
 
 ### 6
 For the purposes of clause 5 of this Schedule, any 2 employers are to be treated as associated if one is a company of which the other (directly or indirectly) has control, or if both are companies of which a third person (directly or indirectly) has control; and the expression associated employer shall be construed accordingly.
