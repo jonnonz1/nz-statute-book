@@ -1,5 +1,5 @@
 # Housing Corporation Act 1974
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2008-04-01_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Housing Corporation Act 1974.
@@ -446,7 +446,7 @@ On and after the vesting day,—
   (c) the company must be treated as an amalgamating company; and
   (d) the company must be treated as having ceased to exist on the vesting day.
 (2) If the assets and liabilities of an existing company vest in the Corporation under section 53,—
-  (a) sections FE 6(5)(a)(v) and (vi) and FE 7(1)(a)(iv) and (v) of the Income Tax Act 2004 must be treated as having been satisfied; and
+  (a) section FO 12(1)(b) and (d) of the Income Tax Act 2007 must be treated as having been satisfied; and
   (b) for the purposes of section FE 10 of that Act, the company must be treated as having been solvent immediately before the vesting day.
 (3) For the purposes of the Financial Reporting Act 1993, the vesting of the assets and liabilities of an existing company under section 53 is an amalgamation under the Companies Act 1993 of the company and the Corporation.
 (4) Subsections (1) to (3) apply as if the Corporation were a company within the meaning of the Companies Act 1993.
