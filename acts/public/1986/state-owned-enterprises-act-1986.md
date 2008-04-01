@@ -1,5 +1,5 @@
 # State-Owned Enterprises Act 1986
-_Consolidation as at 2007-11-29_
+_Consolidation as at 2008-04-01_
 
 > An Act to promote improved performance in respect of Government trading activities and, to this end, to—aSpecify principles governing the operation of State enterprises; andbAuthorise the formation of companies to carry on certain Government activities and control the ownership thereof; andcEstablish requirements about the accountability of State enterprises, and the responsibility of Ministers
 
@@ -83,7 +83,7 @@ Nothing in this Act shall permit the Crown to act in a manner that is inconsiste
 (2) Every Order in Council made under subsection (1) of this section shall, and is hereby empowered to,—
   (a) Amend Part 2 of Schedule 1 to the Ombudsmen Act 1975 by including the name of the company or body corporate in that Schedule:
   (b) Amend Schedule 1 to the Official Information Act 1982 by including the name of the company or body corporate in that Schedule:
-  (c) Amend Schedule 18 to the Income Tax Act 2004 by including the name of the company or body corporate in that Schedule.
+  (c) Amend schedule 36 of the Income Tax Act 2007 by including the name of the company or body corporate in that Schedule.
 (3) Any Order in Council made under this section may be expressed to come into force on a date specified in the order and different dates may be specified for the coming into force of different provisions.
 (4) Nothing in section 32 of the Ombudsmen Act 1975 or section 49 of the Official Information Act 1982 limits or affects this section.
 
@@ -101,9 +101,9 @@ Nothing in this Act shall permit the Crown to act in a manner that is inconsiste
   (a) The bonds shall not confer any rights to vote at meetings of shareholders:
   (b) The bonds shall be transferable in the manner provided by the rules:
   (c) For the purposes of the Companies Act 1955, the Companies Act 1993, and the Securities Act 1978 the bonds shall be deemed to be ordinary shares, and the holder of any bonds shall be deemed to be a shareholder:
-  (d) For the purposes of the Income Tax Act 2004—
+  (d) For the purposes of the Income Tax Act 2007—
     (i) The bonds shall be deemed to be ordinary shares and the holder of any bonds shall be deemed to be a shareholder:
-    (ii) Every sum distributed by a company named in Schedule 2 to this Act in any manner and under any name to a holder of bonds shall be deemed to be a dividend for the purposes of subpart CD of the Income Tax Act 2004:
+    (ii) Every sum distributed by a company named in Schedule 2 to this Act in any manner and under any name to a holder of bonds shall be deemed to be a dividend for the purposes of subpart CD of the Income Tax Act 2007:
     (iii) No deduction shall be allowed to such a company for any such distribution:
   (e) Such other terms as are specified in the authorising resolution or as are determined by the shareholding Ministers for the company issuing the bonds.
 
