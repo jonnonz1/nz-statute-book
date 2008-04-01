@@ -1,5 +1,5 @@
 # Government Superannuation Fund Act 1956
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 > An Act to consolidate and amend the law relating to superannuation
 
@@ -272,7 +272,7 @@ The following must from time to time be paid out of the Fund:
 
 ### 15D Functions
 (1) The functions of the Authority are to manage and administer the Fund and the schemes in accordance with this Act.
-(2) The Authority is not a trustee, or a constructive trustee, in relation to the exercise of its functions or to any other matter (except as otherwise provided in section HJ 1 of the Income Tax Act 2004 for tax purposes).
+(2) The Authority is not a trustee, or a constructive trustee, in relation to the exercise of its functions or to any other matter (except as otherwise provided in section HR 4 of the Income Tax Act 2007 for tax purposes).
 (3) The functions of the Authority include, if the Minister so directs in accordance with section 112 of the Crown Entities Act 2004, the provision of services in respect of any fund or superannuation scheme that is—
   (a) managed by the Crown or a Crown entity or an entity whose board is appointed by the Crown; and
   (b) approved by the Minister for that purpose.
