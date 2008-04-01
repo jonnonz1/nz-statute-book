@@ -1,5 +1,5 @@
 # Local Government Act 1974
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 > An Act to consolidate and amend the law relating to the reorganisation of the districts and functions of local authorities, to make better provision for the administration of those functions which can most effectively be carried out on a regional basis, and to make provision for the establishment of united councils, regional councils, district councils, district community councils, and community councils, and to consolidate and amend the Municipal Corporations Act 1954, the Counties Act 1956, the Local Authorities (Petroleum Tax) Act 1970, and provisions of other Acts of the Parliament of New Zealand relating to the powers and functions of regional councils, united councils, and territorial local authorities
 
@@ -8185,7 +8185,7 @@ The council may compound, compromise, or submit to arbitration any claim, debt, 
   (o) Must give written notice to all shareholders of any proposed modifications of its then current statement of corporate intent and consider comments on the proposed modifications made by any of them.
 (2) Nothing in subsection (1)(c) or (d)—
   (a) Limits the right of any person who is both a customer and a shareholder to participate in any surplus returned to customers pursuant to subsection (1)(d):
-  (b) Prevents Watercare Services Limited from making a taxable bonus issue (as defined in section OB 1 of the Income Tax Act 2004).
+  (b) Prevents Watercare Services Limited from making a taxable bonus issue (as defined in section YA 1 of the Income Tax Act 2007).
 (2A) Watercare Services Limited may only enter into an agreement under subsection (1)(ea) if that agreement is supported by territorial authorities that hold 75% or more of the shares in Watercare Services Limited.
 (3) Watercare Services Limited is deemed to be a local authority for the purposes of Parts 1 to 6 and Part 8 of the Local Government Official Information and Meetings Act 1987.
 (4) Parts 1 to 6 and Part 8 of the Local Government Official Information and Meetings Act 1987 apply, for the purposes of subsection (3), with all necessary modifications and as if—
@@ -8195,9 +8195,7 @@ The council may compound, compromise, or submit to arbitration any claim, debt, 
 (5) Notwithstanding section 594ZP, a shareholder may give a guarantee, indemnity, or security in respect of the performance of any obligation by Watercare Services Limited.
 
 ### 707ZZZT Auckland Regional Council allowed certain deductions for tax purposes
-For the purposes of the Income Tax Act 2004, the Auckland Regional Council—
-  (a) Is allowed a deduction for interest on money borrowed for the purpose of acquiring assets sold to Watercare Services Limited under Part 34A of this Act; and
-  (b) May offset or receive payments for any losses arising from those deductions to Watercare Services Limited under sections IG 1 and IG 2 of the Income Tax Act 2004, as if the Auckland Regional Council and Watercare Services Limited were a wholly-owned group of companies.
+[Repealed]
 
 ### 707ZZZU Expiry
 Section 707ZZZT expires and is repealed on the close of 31 March 2007.
