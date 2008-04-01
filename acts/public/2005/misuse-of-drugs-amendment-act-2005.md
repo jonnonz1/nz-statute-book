@@ -1,5 +1,5 @@
 # Misuse of Drugs Amendment Act 2005
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 ### 1 Title
 (1) This Act is the Misuse of Drugs Amendment Act 2005.
@@ -262,13 +262,14 @@ If a person is detained under section 13A of the amendment Act when this Act com
 ## Part 3 — Restricted substances
 
 ### 31 Interpretation
-In this Part, unless the context otherwise requires,—manufacturer includes any company with which a manufacturer is associated within the meaning of section OD 7 of the Income Tax Act 2004
+In this Part, unless the context otherwise requires,—
   - **advertising** —
     (a) means any words, whether written, printed, or spoken, and any pictorial representation or design, used or appearing to be used to promote the sale of a substance (including, without limitation, any sign, publication, or leaflet); and
     (b) includes any matter referred to in paragraph (a) that is represented in an electronic or digital medium
   - **code of manufacturing practice** means a code of practice for the manufacturing of restricted substances issued or approved under section 63
   - **distributor** means a person engaged in the business of selling restricted substances, otherwise than at retail only
   - **enforcement officer** means an officer appointed under section 55
+  - **manufacturer** includes any company with which a manufacturer is associated within the meaning of subpart YB of the Income Tax Act 2007 (to the extent to which those rules apply for the whole of that Act excluding the 1973, 1988, and 1990 version provisions)
   - **restricted substance** means a substance specified or described in Schedule 4 that is not in a preparation, concentration, form, or use exempted from being a restricted substance by regulations made under this Part
   - **retailer** means a person engaged in any business that includes the sale of restricted substances, at retail
   - **sale** , in relation to a restricted substance, includes every method of disposition for valuable consideration, including, without limitation,—
