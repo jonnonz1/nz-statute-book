@@ -1,5 +1,5 @@
 # Maori Reserved Land Amendment Act 1997
-_Consolidation as at 2008-02-29_
+_Consolidation as at 2008-04-01_
 
 > An Act to amend the Maori Reserved Land Act 1955
 
@@ -189,7 +189,7 @@ If the annual rent of the lease is, at the commencement of this Act, no longer d
 
 ### 22 Compensation payable by the Crown
 (1) Compensation payable to a lessor or lessee under this Act must be paid by the Crown as soon as the amount of the compensation is determined in accordance with this Act.
-(2) Payments of compensation made under the Maori Reserved Land Amendment Act 1998 are deemed, for the purposes of this section and section 30 of this Act and section CW 28(1)(g) of the Income Tax Act 2004, to be payments of compensation made under this Act.
+(2) Payments of compensation made under the Maori Reserved Land Amendment Act 1998 are deemed, for the purposes of this section and section 30 of this Act and section CW 34(1)(g) of the Income Tax Act 2007, to be payments of compensation made under this Act.
 
 ### 23 Interest payable on compensation
 (1) Where the compensation to which a person is entitled under section 13 or section 15 or section 16 or section 4 of the Maori Reserved Land Amendment Act 1998 is not paid to that person, within the period of 3 months after the date on which that person becomes entitled to be paid that compensation, and the delay, after the expiration of that period, in making payment is attributable to the Crown, the Crown must, on paying that compensation, pay it together with interest in respect of the period beginning with the expiration of that period of 3 months and ending with the date of payment.
