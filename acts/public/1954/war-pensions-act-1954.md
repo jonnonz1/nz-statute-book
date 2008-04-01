@@ -1,5 +1,5 @@
 # War Pensions Act 1954
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 > An Act to consolidate and amend the law relating to war pensions and allowances.
 
@@ -689,10 +689,10 @@ The Secretary may, in determining the rate of any pension payable in respect of 
     (d) who is not a child in respect of whom payments are being made under section 363 of the Children, Young Persons, and Their Families Act 1989
   - **employment income** means any salary, wage, allowance, bonus, gratuity, extra salary, compensation for loss of office or employment, emolument (of whatever kind), or other benefit in money, for, or in connection with, the employment or service of the person; and—
     (a) includes-
-      (i) subject to paragraph (b), any expenditure on account of an employee (within the meaning of section OB 1 of the Income Tax Act 2004); and
-      (ii) any benefit of a kind referred to in section CE 1(d) of the Income Tax Act 2004; and
+      (i) subject to paragraph (b), any expenditure on account of an employee (within the meaning of section YA 1 of the Income Tax Act 2007); and
+      (ii) any benefit of a kind referred to in section CE 1(d) of the Income Tax Act 2007; and
       (iii) in the case of a person who, in the relevant period, has been provided, in respect of any office or position held by the person, with board or lodging, or the use of a house or quarters, or has been paid an allowance instead of being provided with board or lodging, or with the use of a house or quarters, the value of those benefits (and the value of the benefits is to be determined, in the case of a dispute, by the Secretary); but
-    (b) does not include any employer's superannuation contribution (within the meaning of section OB 1 of the Income Tax Act 2004)
+    (b) does not include any employer's superannuation contribution (within the meaning of section YA 1 of the Income Tax Act 2007)
   - **income** has the same meaning as in section 3(1) of the Social Security Act 1964
   - **Income Test 3** means that the applicable rate of veterans' pension must be reduced by 70 cents for every $1 of the combined income of the person in receipt of a veteran's pension and his or her spouse or civil union partner or de facto partner in excess of $80 per week
   - **New Zealand superannuation** means New Zealand superannuation paid or payable under the New Zealand Superannuation and Retirement Income Act 2001
@@ -797,7 +797,7 @@ On the death of any person who is ordinarily resident in New Zealand on the date
 (1) In this section,-
   - **CPI** means the consumers price index-all groups published by Statistics New Zealand
   - **earner levy** means the levy payable under section 219(1) and (2) of the Injury Prevention, Rehabilitation, and Compensation Act 2001
-  - **standard tax** means the amount of tax reckoned on a weekly basis that would be deductible in accordance with tax code ‘M' specified in section NC 8 of the Income Tax Act 2004.
+  - **standard tax** means the amount of tax reckoned on a weekly basis that would be deductible in accordance with tax code ‘M' specified in section 24B of the Tax Administration Act 1994.
 (2) Subject to subsection (3), the rates of veterans' pensions specified in clauses 1 and 2(b) of Schedule 11 must be adjusted, by Order in Council, as at 1 April each year so that in each case the new rate (after the deduction of standard tax) is the rate at that date (after the deduction of standard tax and before the adjustment under this section is made) adjusted by any percentage movement upwards in the CPI between the CPI for the quarter that ended with 31 December one year before the immediately preceding 31 December and the CPI for the quarter that ended with the immediately preceding 31 December.
 (3) Every Order in Council made under subsection (2) must adjust the annual rates of the veterans' pensions so that the weekly amount (before any abatement under section 74D but after the deduction of standard tax) payable to-
   (a) a couple who are married or in a civil union or in a de facto relationship and who are both qualified to receive a veteran's pension is not less than 65% or more than 72.5% of the average ordinary time weekly earnings (males and females combined) as determined by the last Quarterly Employment Survey of wages published by Statistics New Zealand before 1 March in each year (after the deduction of standard tax and the earner levy payable on those earnings):
@@ -1144,16 +1144,16 @@ The Governor-General may, by Order in Council, upon or subject to such condition
 | Part 1—Members of Forces |  |  |  |
 | --- | --- | --- | --- |
 | 1. Under section 20— |  |  |  |
-|  | In every case |  | $176.41 a week. |
+|  | In every case |  | $182.02 a week. |
 | 2. Under section 23— |  |  |  |
-|  | In certain cases of severe disablement (additional pension) |  | $105.83 a week. |
+|  | In certain cases of severe disablement (additional pension) |  | $109.20 a week. |
 | 3. Under section 28— |  |  |  |
 |  | Clothing allowance (additional pension) as follows— |  |  |
-|  |  | (a) Loss of 2 limbs or parts | $19.67 a week |
-|  |  | (b) Loss of leg or part | $18.99 a week. |
-|  |  | (c) Loss of arm or part | $13.75 a week. |
-|  |  | (d) Use of mechanical appliance, etc | $13.75 a week. |
-|  |  | (e) Soiling of clothing | $13.75 a week. |
+|  |  | (a) Loss of 2 limbs or parts | $20.30 a week |
+|  |  | (b) Loss of leg or part | $19.59 a week. |
+|  |  | (c) Loss of arm or part | $14.19 a week. |
+|  |  | (d) Use of mechanical appliance, etc | $14.19 a week. |
+|  |  | (e) Soiling of clothing | $14.19 a week. |
 | Part 2—Members of Mercantile Marine |  |  |  |
 | 4. Under section 62— |  |  |  |
 |  | The same rates as those specified in Part 1 of this Schedule. |  |  |
@@ -1166,7 +1166,7 @@ The Governor-General may, by Order in Council, upon or subject to such condition
 | Part 1—Members of Forces |  |  |
 | --- | --- | --- |
 | 1. Under section 29— |  |  |
-|  | In every case | $326.72 a week. |
+|  | In every case | $337.11 a week. |
 | Part 2—Members of Mercantile Marine |  |  |
 | 2. Under section 62— |  |  |
 |  | The same rate as that specified in Part 1 of this Schedule. |  |
@@ -1181,11 +1181,11 @@ The Governor-General may, by Order in Council, upon or subject to such condition
 | Part 1—Members of Forces |  |  |
 | --- | --- | --- |
 | 1. Under section 32(1)— |  |  |
-|  | To the surviving spouse or surviving partner in every case | $130.12 a week. |
+|  | To the surviving spouse or surviving partner in every case | $134.26 a week. |
 | 2. Under section 32(2)— |  |  |
 |  | Additional parent's allowance to a surviving spouse or surviving partner— |  |
-|  | (a) On account of first or only dependent child | $138.17 a week. |
-|  | (b) On account of each additional dependent child after the first | $22.00 a week. |
+|  | (a) On account of first or only dependent child | $142.56 a week. |
+|  | (b) On account of each additional dependent child after the first | $22.70 a week. |
 | Part 2—Members of Mercantile Marine |  |  |
 | 3. Under section 32(1) as applied by section 62— |  |  |
 |  | The same rate as that specified in clause 1 of Part 1 of this Schedule. |  |
@@ -1202,9 +1202,9 @@ The Governor-General may, by Order in Council, upon or subject to such condition
 | Part 1—Members of Forces |  |  |
 | --- | --- | --- |
 | 1. Under section 36— |  |  |
-|  | In ordinary cases | $8.15 a week. |
+|  | In ordinary cases | $8.41 a week. |
 | 2. Under section 40— |  |  |
-|  | In certain cases where parents dead, or child not under control of its mother | $108.98 a week |
+|  | In certain cases where parents dead, or child not under control of its mother | $112.45 a week |
 | Part 2—Members of Mercantile Marine |  |  |
 | 3. Under section 62— |  |  |
 |  | The same rates as those specified in Part 1 of this Schedule. |  |
@@ -1249,21 +1249,31 @@ The Governor-General may, by Order in Council, upon or subject to such condition
 
 |  |  |  | Entitlements under section 70(1)(b)(i) or or section 70(2) | Entitlements under section 70(1)(b)(ii) or section 71 |
 | --- | --- | --- | --- | --- |
-| 1 | (a) | to a single person who has been granted a living alone payment under section 74U | $336.65 per week | $336.65 per week, subject to section 74D |
-|  | (b) | to a single person who has not been granted a living alone payment under section 74U | $309.66 per week | $309.66 per week, subject to section 74D |
-|  | (c) | to a person who is married or in a civil union or in a de facto relationship | $255.70 per week | $255.70 per week, subject to section 74D |
+| 1 | (a) | to a single person who has been granted a living alone payment under section 74U | $347.77 per week | $347.77 per week, subject to section 74D |
+|  | (b) | to a single person who has not been granted a living alone payment under section 74U | $320.11 per week | $320.11 per week, subject to section 74D |
+|  | (c) | to a person who is married or in a civil union or in a de facto relationship | $264.37 per week | $264.37 per week, subject to section 74D |
 | 2 | Alternative rate for a person who is married or in a civil union or in a de facto relationship, and whose spouse or civil union partner or de facto partner is not entitled to receive New Zealand superannuation or a veteran's pension— |  |  |  |
-|  | (a) | to a person who is married or in a civil union or in a de facto relationship and who was receiving or had applied for, and was entitled to receive, New Zealand Superannuation or veteran's pension at the alternative rate before 1 October 1991 | $511.40 per week, subject to Income Test 3, or the rate specified in paragraph (b), whichever is the greater | $511.40 per week, subject to section 74D, or the rate specified in paragraph (b), a whichever is the greater |
-|  | (b) | to any other person who is married or in a civil union or in a de facto relationship | $486.56 per week, subject to Income Test 3 | $486.56 per week, subject to section 74D |
+|  | (a) | to a person who is married or in a civil union or in a de facto relationship and who was receiving or had applied for, and was entitled to receive, New Zealand Superannuation or veteran's pension at the alternative rate before 1 October 1991 | $528.74 per week, subject to Income Test 3, or the rate specified in paragraph (b), whichever is the greater | $528.74 per week, subject to section 74D, or the rate specified in paragraph (b), a whichever is the greater |
+|  | (b) | to any other person who is married or in a civil union or in a de facto relationship | $502.84 per week, subject to Income Test 3 | $502.84 per week, subject to section 74D |
 
 ## Schedule 12 — Payments on death of veteran or veteran's spouse or civil union partner
 
-| 1 | (a) | on the death of a person who,— |  | 12,467.26 to the surviving spouse or surviving civil union partner or surviving de facto partner of that person or, if there is no surviving spouse or surviving civil union partner or surviving de facto partner, to be apportioned equally any dependent children of that person |
+| 1 | (a) | on the death of a person who,— |  | 12,863.72 to the surviving spouse or surviving civil union partner or surviving de facto partner of that person or, if there is no surviving spouse or surviving civil union partner or surviving de facto partner, to be apportioned equally any dependent children of that person |
 | --- | --- | --- | --- | --- |
 |  |  | (i) | on the date of his or her death, was in receipt of a veteran's pension on account of his or her own service; and |  |
 |  |  | (ii) | before 1 April 1990, was in receipt of a war veteran's allowance under the War Pensions Act 1954 |  |
-|  | (b) | on the death of any person who, on the date of his or her death, was in receipt of a veteran's pension on account of his or her own service |  | 4,944.54 to the surviving spouse or surviving civil union partner or surviving de facto partner of that person or, if there is no surviving spouse or surviving civil union partner or surviving de facto partner, to be apportioned dsequally between any dependent children of that person |
-|  | (c) | on the death of the spouse or civil union partner or de facto partner of any person if that person is receiving a veteran's pension on account of his or her own service and if the spouse or civil union partner or de facto partner was in receipt of a veteran's pension |  | 3,770.35 to that person |
+|  | (b) | on the death of any person who, on the date of his or her death, was in receipt of a veteran's pension on account of his or her own service |  | 5,101.78 to the surviving spouse or surviving civil union partner or surviving de facto partner of that person or, if there is no surviving spouse or surviving civil union partner or surviving de facto partner, to be apportioned dsequally between any dependent children of that person |
+|  | (c) | on the death of the spouse or civil union partner or de facto partner of any person if that person is receiving a veteran's pension on account of his or her own service and if the spouse or civil union partner or de facto partner was in receipt of a veteran's pension |  | 3,890.25 to that person |
 | 2 | There is deductable from any amount payable under clause 1 the amount of any veteran's pension paid or payable in respect of the person who has died following their death. |  |  |  |
 
 ## Schedule 13 — Specified Pacific countries
+
+### 1 Title
+This order is the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2008.
+
+### 2 Commencement
+This order comes into force on 1 April 2008.
+
+### 3 Increasing rates of pensions, lump sum payments, and allowances to reflect changes in CPI
+(1) Amendments incorporated in the principal Act.
+(2) The amendments made by subclause (1) to Schedule 12 of the War Pensions Act 1954 apply in respect of persons who die on or after 1 April 2008.
