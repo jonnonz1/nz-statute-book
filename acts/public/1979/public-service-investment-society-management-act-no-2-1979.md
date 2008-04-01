@@ -1,5 +1,5 @@
 # Public Service Investment Society Management Act (No 2) 1979
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2008-04-01_
 
 > An Act to make further provision for the protection of depositors and creditors of the Public Service Investment Society Limited and its associated companies, and for matters incidental thereto
 
@@ -20,7 +20,7 @@ _Consolidation as at 2008-01-01_
   - **Property** means land, money, goods, things in action, goodwill, and every valuable thing, whether real or personal, and whether situated in New Zealand or elsewhere; and includes obligations, easements, and every description of estate, interest, and profit, present or future, vested or contingent, arising out of or incident to property
   - **Society** means the Public Service Investment Society Limited, a society registered under the Industrial and Provident Societies Act 1908
   - **Statutory manager** or in relation to any body corporate, means the manager appointed for the time being in respect of that body corporate by or under section 5 of this Act; and (subject to section 5(1) of this Act) includes a deputy statutory manager; and has a corresponding meaning.
-(2) For the purposes of section 4 of this Act a company shall be deemed to be associated with another company if, under section OD 1 of the Income Tax Act 2004, the 2 companies are deemed to be under the control of substantially the same persons or to consist of substantially the same shareholders.
+(2) For the purposes of section 4 of this Act a company shall be deemed to be associated with another company if, under section YC 1 of the Income Tax Act 2007, the 2 companies are deemed to be under the control of substantially the same persons or to consist of substantially the same shareholders.
 
 ### 3 Act to bind the Crown
 This Act binds the Crown.
