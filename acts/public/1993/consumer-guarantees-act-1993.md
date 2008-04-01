@@ -1,5 +1,5 @@
 # Consumer Guarantees Act 1993
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 > An Act to amend the law relating to—aThe guarantees given, or deemed to be given, to consumers upon the supply of goods or services; andbThe rights of redress against suppliers and manufacturers in respect of any failure of goods or services to comply with any such guarantees
 
@@ -99,7 +99,7 @@ This Act shall bind the Crown.
   (a) That the supplier has a right to sell the goods; and
   (b) That the goods are free from any undisclosed security; and
   (c) That the consumer has the right to undisturbed possession of the goods, except in so far as that right is varied pursuant to—
-    (i) A term of the agreement for supply in any case where that agreement is a hire purchase agreement within the meaning of the Income Tax Act 2004; or
+    (i) A term of the agreement for supply in any case where that agreement is a hire purchase agreement within the meaning of the Income Tax Act 2007; or
     (ii) A security, or a term of the agreement for supply, in respect of which the consumer has received—
       (A) Oral advice, acknowledged in writing by the consumer, as to the way in which the consumer's right to undisturbed possession of the goods could be affected, sufficient to enable a reasonable consumer to understand the general nature and effect of the variation; and
       (B) A written copy of the agreement for supply or security, or a written copy of the part thereof which provides for the variation.
