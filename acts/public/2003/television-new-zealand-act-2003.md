@@ -1,5 +1,5 @@
 # Television New Zealand Act 2003
-_Consolidation as at 2008-03-14_
+_Consolidation as at 2008-04-01_
 
 ### 1 Title
 This Act is the Television New Zealand Act 2003.
@@ -10,19 +10,17 @@ This Act is the Television New Zealand Act 2003.
 This Act comes into force on the day after the date on which it receives the Royal assent.
 
 ### 3 Purpose of Act
-The purpose of this Act is to-
+The purpose of this Act is to—
   (a) provide for the existing State enterprise Television New Zealand Limited to be split into a Crown entity conducting a television business and a State enterprise conducting a transmission business; and
   (b) ensure that the Crown entity responsible for the television business gives effect to its Charter while maintaining its commercial performance; and
   (c) provide for the governance of the Crown entity, including reporting requirements and the role of shareholding Ministers in addition to the provisions contained in the Crown Entities Act 2004.
 
 ### 4 Interpretation
-In this Act, unless the context otherwise requires,-
-  - **Crown entity**
-  - **equal employment opportunities programme**
+In this Act, unless the context otherwise requires,—
   - **GAAP** means generally accepted accounting practice (as defined in section 136 of the Crown Entities Act 2004)
-  - **good employer**
   - **shareholding Ministers** has the same meaning as in section 10 of the Crown Entities Act 2004.
-  - **State enterprise** means an organisation that is named in the First Schedule of the State-Owned Enterprises Act 1986; and includes a subsidiary of such an organisation
+  - **State enterprise** means an organisation that is named in Schedule 1 of the State-Owned Enterprises Act 1986; and includes a subsidiary of such an organisation
+  - **subsidiary** means a company within the meaning of section 5 of the Companies Act 1993
   - **THL** means the company Kordia Group Limited (formerly known as Transmission Holdings Limited)
   - **TVNZ** means the company Television New Zealand Limited.
 
@@ -41,20 +39,20 @@ This Act binds the Crown.
 On the day of commencement of this Act, TVNZ ceases to be a State enterprise subject to the State-Owned Enterprises Act 1986.
 
 ### 8 Separation of transmission business
-(1) TVNZ must prepare and submit to the shareholding Ministers, as soon as practicable after the commencement of this Act, a separation proposal providing for THL, or the transmission business that was owned and operated, directly or indirectly, by TVNZ at the commencement of this Act,-
+(1) TVNZ must prepare and submit to the shareholding Ministers, as soon as practicable after the commencement of this Act, a separation proposal providing for THL, or the transmission business that was owned and operated, directly or indirectly, by TVNZ at the commencement of this Act,—
   (a) to be separated from TVNZ; and
   (b) to become a new State enterprise subject to the State-Owned Enterprises Act 1986.
-(2) The separation proposal-
+(2) The separation proposal—
   (a) must specify a date on which the separation is to take effect, which must be no later than 31 December 2003; and
   (b) must identify how the separation of the transmission business is to take place, including the shares, property, rights, and liabilities of TVNZ, THL, or any other subsidiary or nominee of TVNZ that are to be transferred.
 
 ### 9 Implementation of separation proposal by Order in Council
 (1) The Governor-General may, by Order in Council made on the recommendation of the shareholding Ministers, approve the draft separation proposal.
-(2) The Order in Council-
+(2) The Order in Council—
   (a) must appoint an effective date for the separation (which must be on or before 31 December 2003); and
   (b) must identify the draft proposal approved, but need not incorporate it in the order; and
   (c) must ensure that the company that becomes a State enterprise becomes, at the same time, subject to the Official Information Act 1982 and the Ombudsmen Act 1975 and to Schedule 18 of the Income Tax Act 1994.
-(3) On the date appointed in the order,-
+(3) On the date appointed in the order,—
   (a) the company nominated in the separation proposal becomes a State enterprise subject to the State-Owned Enterprises Act 1986; and
   (b) all of the shares so nominated in the separation proposal are deemed to be transferred in equal parts to the Ministers who are to be the shareholding Ministers of the new State enterprise; and
   (c) all of the property, rights, and liabilities that are so nominated in the separation proposal are deemed to be transferred to the new State enterprise (or any subsidiary of the State enterprise that may be specified in the proposal).
@@ -68,7 +66,33 @@ The ceasing of TVNZ to be a State enterprise, and the separation of the transmis
 
 ### 12 Functions and objectives of TVNZ
 (1) TVNZ's principal function is to provide the television and other services that may be specified from time to time in its current statement of intent.
-(2) In carrying out its functions, TVNZ's principal objective is to give effect to its Charter (set out below) while maintaining its commercial performance:The following Charter shall apply to all those parts of TVNZ's operations that contribute to its broadcast content. It shall be predominantly fulfilled through free-to-air broadcasting. In programming for particular audiences, TVNZ is to consider all relevant provisions of the Charter.(a)TVNZ will—(i)feature programming across all genres that informs, entertains, and educates New Zealand audiences;(ii)strive always to set and maintain the highest standards of programme quality and editorial integrity;(iii)provide shared experiences that contribute to a sense of citizenship and national identity;(iv)ensure in its programmes and programme planning the participation of Maori and the presence of a significant Maori voice;(v)feature programming that serves the varied interests and informational needs and age groups within New Zealand society, including tastes and interests not generally catered for by other national television broadcasters;(vi)maintain a balance between programmes of general appeal and programmes of interest to smaller audiences;(vii)seek to extend the range of ideas and experiences available to New Zealanders;(viii)play a leading role in New Zealand television by setting standards of programme quality and encouraging creative risk-taking and experiment;(ix)play a leading role in New Zealand television by complying with free-to-air codes of broadcasting practice, in particular any code with provisions on violence;(x)support and promote the talents and creative resources of New Zealanders and of the independent New Zealand film and television industry.(b)In fulfilment of these objectives, TVNZ will—(i)provide independent, comprehensive, impartial, and in-depth coverage and analysis of news and current affairs in New Zealand and throughout the world and of the activities of public and private institutions;(ii)feature programming that contributes towards intellectual, scientific, cultural, and spiritual and ethical development that reflects the diverse beliefs of New Zealanders, promotes informed and many-sided debate, and stimulates critical thought, thereby enhancing opportunities for citizens to participate in community, national, and international life;(iii)in its programming enable all New Zealanders to have access to material that promotes Maori language and culture;(iv)feature programmes that reflect the regions to the nation as a whole;(v)promote understanding of the diversity of cultures making up the New Zealand population;(vi)feature New Zealand films, drama, comedy, and documentary programmes;(vii)feature programmes about New Zealand's history and heritage, and natural environment;(viii)feature programmes that serve the interests and informational needs of Maori audiences, including programmes promoting the Maori language and programmes addressing Maori history, culture, and current issues;(ix)include in programming intended for a mass audience material that deals with minority interests;(x)feature New Zealand and international programmes that provide for the informational, entertainment, and educational needs of children and young people and programmes that allow for the participation of children and young people;(xi)maintain and observe a code of ethics that addresses the level and nature of advertising to which children are exposed;(xii)feature programmes that encourage and support the arts, including programmes featuring New Zealand and international artists and arts companies;(xiii)reflect the role that sporting and other leisure interests play in New Zealand life and culture; and(xiv)feature programming of an educational nature that supports learning and the personal development of New Zealanders.
+(2) In carrying out its functions, TVNZ's principal objective is to give effect to its Charter (set out below) while maintaining its commercial performance:The following Charter shall apply to all those parts of TVNZ's operations that contribute to its broadcast content. It shall be predominantly fulfilled through free-to-air broadcasting. In programming for particular audiences, TVNZ is to consider all relevant provisions of the Charter.
+  (a) TVNZ will—
+    (i) feature programming across all genres that informs, entertains, and educates New Zealand audiences;
+    (ii) strive always to set and maintain the highest standards of programme quality and editorial integrity;
+    (iii) provide shared experiences that contribute to a sense of citizenship and national identity;
+    (iv) ensure in its programmes and programme planning the participation of Māori and the presence of a significant Māori voice;
+    (v) feature programming that serves the varied interests and informational needs and age groups within New Zealand society, including tastes and interests not generally catered for by other national television broadcasters;
+    (vi) maintain a balance between programmes of general appeal and programmes of interest to smaller audiences;
+    (vii) seek to extend the range of ideas and experiences available to New Zealanders;
+    (viii) play a leading role in New Zealand television by setting standards of programme quality and encouraging creative risk-taking and experiment;
+    (ix) play a leading role in New Zealand television by complying with free-to-air codes of broadcasting practice, in particular any code with provisions on violence;
+    (x) support and promote the talents and creative resources of New Zealanders and of the independent New Zealand film and television industry.
+  (b) In fulfilment of these objectives, TVNZ will—
+    (i) provide independent, comprehensive, impartial, and in-depth coverage and analysis of news and current affairs in New Zealand and throughout the world and of the activities of public and private institutions;
+    (ii) feature programming that contributes towards intellectual, scientific, cultural, and spiritual and ethical development that reflects the diverse beliefs of New Zealanders, promotes informed and many-sided debate, and stimulates critical thought, thereby enhancing opportunities for citizens to participate in community, national, and international life;
+    (iii) in its programming enable all New Zealanders to have access to material that promotes Māori language and culture;
+    (iv) feature programmes that reflect the regions to the nation as a whole;
+    (v) promote understanding of the diversity of cultures making up the New Zealand population;
+    (vi) feature New Zealand films, drama, comedy, and documentary programmes;
+    (vii) feature programmes about New Zealand's history and heritage, and natural environment;
+    (viii) feature programmes that serve the interests and informational needs of Māori audiences, including programmes promoting the Māori language and programmes addressing Māori history, culture, and current issues;
+    (ix) include in programming intended for a mass audience material that deals with minority interests;
+    (x) feature New Zealand and international programmes that provide for the informational, entertainment, and educational needs of children and young people and programmes that allow for the participation of children and young people;
+    (xi) maintain and observe a code of ethics that addresses the level and nature of advertising to which children are exposed;
+    (xii) feature programmes that encourage and support the arts, including programmes featuring New Zealand and international artists and arts companies;
+    (xiii) reflect the role that sporting and other leisure interests play in New Zealand life and culture; and
+    (xiv) feature programming of an educational nature that supports learning and the personal development of New Zealanders.
 (3) TVNZ also has the following further objectives in carrying out its functions:
   (a)
   (b)
@@ -130,18 +154,18 @@ In addition to the annual financial statements required to be prepared under sec
 ## Part 4 — Ministers and editorial independence
 
 ### 27 Powers of shareholding Ministers
-(1) The shareholding Ministers may, by written notice to the TVNZ board,-
+(1) The shareholding Ministers may, by written notice to the TVNZ board,—
   (a) direct the board to include in, or omit from, its statement of intent any provision or provisions of a kind referred to in section 23; and
   (b) determine the amount of dividend payable by TVNZ to the Crown in respect of any financial year or years.
 (2)
 (3) Before giving any notice under subsection (1), the shareholding Ministers must have regard to the objectives and functions of TVNZ, and section 115 of the Crown Entities Act 2004 applies.
 
 ### 28 Shareholding Ministers must not give certain directions
-(1) No shareholding Minister or any other Minister, and no person acting by or on behalf of or at the direction of a shareholding Minister or any other Minister, may give a direction to TVNZ or to any of its subsidiaries, or to any director or officer or employee of TVNZ or of any of its subsidiaries, in respect of-
+(1) No shareholding Minister or any other Minister, and no person acting by or on behalf of or at the direction of a shareholding Minister or any other Minister, may give a direction to TVNZ or to any of its subsidiaries, or to any director or officer or employee of TVNZ or of any of its subsidiaries, in respect of—
   (a) a particular programme or programmes or a particular allegation or a particular complaint; or
   (b) the gathering or presentation of news or the preparation or presentation of current affairs programmes; or
   (c) programme standards.
-(2) No director of TVNZ or of any of its subsidiaries may be removed for any reason relating to-
+(2) No director of TVNZ or of any of its subsidiaries may be removed for any reason relating to—
   (a) a particular programme or a particular allegation or a particular complaint relating to a particular programme; or
   (b) the gathering or presentation of news or the preparation or presentation of current affairs programmes; or
   (c) the responsibility of TVNZ or any of its subsidiaries for programme standards.
@@ -170,12 +194,12 @@ The State-Owned Enterprises Amendment Act (No 4) 1988 is repealed.
 ### 34 Transfer of land from TVNZ to THL
 (1) Despite any other enactment or rule of law, on any day on or after the commencement of this Act, TVNZ may transfer to THL or to any of its subsidiaries the areas of land listed in Schedule 2 for the consideration that is determined between TVNZ and THL.
 (2) Nothing in sections 40 to 42 of the Public Works Act 1981 applies to the transfer of land from TVNZ to THL or to any of its subsidiaries under this Act, but sections 40 to 42 of that Act will, after that transfer, apply to the land as if THL or any of its subsidiaries were the Crown and the land had not been transferred under this Act.
-(3) The Governor-General may, from time to time, by Order in Council,-
+(3) The Governor-General may, from time to time, by Order in Council,—
   (a) amend Schedule 2 by including additional areas of land in the list in that schedule:
   (b) otherwise amend Schedule 2, or revoke that schedule, and substitute a new schedule.
 
 ### 35 Shareholder continuity
-The structural changes to TVNZ and the transmission business set out in sections 7 to 9 do not constitute a breach in shareholder continuity for the purposes of the Income Tax Act 1994.
+The structural changes to TVNZ and the transmission business set out in sections 7 to 9 do not constitute a breach in shareholder continuity for the purposes of the Income Tax Act 2007.
 
 ### 36 Savings of certain transactions
 A failure by TVNZ to comply with section 12 or any statement of corporate intent or statement of intent does not affect the validity or enforceability of any deed, agreement, right, or obligation entered into, obtained, or incurred by TVNZ or any of its subsidiaries.
@@ -192,26 +216,26 @@ A failure by TVNZ to comply with section 12 or any statement of corporate intent
 | Part Lots 3 and 4, Deposited Plan 8837, allotment 566, Parish of Waipareira | 1.6890 hectares | Certificate of Title 9B/564 |
 | Allotment 550, Parish of Waipareira | 440 square metres | Certificate of Title 3A/1104 |
 | South Auckland Land District |  |  |
-| Part Rotomahana Parekarangi 3A 3B 5A block | 1184 square metres | Certificate of Title 12D/123 |
+| Part Rotomahana Parekarangi 3A 3B 5A block | 1 184 square metres | Certificate of Title 12D/123 |
 | Hawkes Bay Land District |  |  |
 | Blocks VII and XI, Te Mata Survey District, being Part Lot 24, Deeds Plan 107, more particularly described on Survey Office Plan 6486 | 2.3435 hectares | Certificate of Title F2/719 |
-| Block XI, Te Mata Survey District being Part Lot 4 and Parts of Lot 5, Deeds Plan 713, being part Block 12, Te Mata Crown Grant, District Part Te Wharau, and part Kohinurakau Blocks | 3.9337 hectares | Certificate of Title 114/1121 |
+| Block XI, Te Mata Survey District being Part Lot 4 and Parts of Lot 5, Deeds Plan 713, being part Block 12, Te Mata Crown Grant, District Part Te Wharau, and part Kohinurakau Blocks | 3.9337 hectares | Certificate of Title E4/1121 |
 | Wellington Land District |  |  |
-| Lot 1, Deposited Plan 61858 | 3350 square metres | Certificate of Title 31A/317 |
+| Lot 1, Deposited Plan 61858 | 3 350 square metres | Certificate of Title 31A/317 |
 | Situated partly in the City of Wellington and partly in Blocks III Port Nicholson Survey District and Block XI Belmont Survey District, being part section 135 Ohariu District and being also Lot 2 Deposited Plan 27542 | 29.29 hectares | Certificate of Title 10A/838 |
 | Situated in the City of Wellington, being Part Section 94, Ohariu District | 6.0275 hectares | Certificate of Title 13C/999 |
 | City of Wanganui, Section 351, Right Bank Wanganui River | 2.2763 hectares | Certificate of Title 12C/965 |
-| County of Masterton, Lot 1 Deposited Plan 59378 | 6999 square metres | Certificate of Title 32A/765 |
+| County of Masterton, Lot 1 Deposited Plan 59378 | 6 999 square metres | Certificate of Title 32A/765 |
 | Nelson Land District |  |  |
-| City of Nelson, Section 31 Block ‘D', Wakatu District | 1801 square metres | Certificate of Title 3C/881 |
+| City of Nelson, Section 31 Block ‘D', Wakatu District | 1 801 square metres | Certificate of Title 3C/881 |
 | Westland Land District |  |  |
-| Rural Section 5640, Block 1, Cobden Survey District | 600 square metres | Lease SC/829 |
+| Rural Section 5640, Block I, Cobden Survey District | 600 square metres | Lease 5C/829 |
 | Canterbury Land District |  |  |
 | Block VIII Part Run 284, Waihao Survey District | 11.5158 hectares | Certificate of Title 8F/956 |
 | Otago Land District |  |  |
 | Section 68 Block II, Cairnhill Survey District | 2.2210 hectares | Lease 10A/399 |
-| Section 48, Block IX, Tarras Survey District | 4800 square metres | Lease 9A/222 |
-| Section 1, Block IV, Naseby Survey District | 6650 square metres | Lease 8D/701 |
+| Section 48, Block IX, Tarras Survey District | 4 800 square metres | Lease 9A/222 |
+| Section 1, Block IV, Naseby Survey District | 6 650 square metres | Lease 8D/701 |
 | Sections 31 and 32, Block I and Section 31 Block IV, Kuriwao District | 51.3154 hectares | Certificate of Title 3B/435 |
 | Southland Land District |  |  |
 | Lot 2, Deposited Plan 8310, being Part Section 65 Block VI Waimumu Hundred | 13.0840 hectares | Certificate of Title 5A/398 |
