@@ -1,5 +1,5 @@
 # Tutae-Ka-Wetoweto Forest Act 2001
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 ## Preamble
 (1) Rakiura Maori Land Trust is an ahu whenua trust established under Te Ture Whenua Maori Act 1993 in respect of the sections of blocks IX and X Lords River Survey District that contain the Tutae-Ka-Wetoweto Forest:
@@ -17,8 +17,8 @@ _Consolidation as at 2007-09-03_
   (h) that the Crown will introduce legislation to ensure that Rakiura does not incur any liability for income tax arising out of the payment of money as provided for in the deed:
 (6) By a deed of covenant dated 9 October 1999, the Crown and Rakiura agreed that Rakiura would manage the Forest in perpetuity, in accordance with the covenant,—
   (a) to preserve the natural environment, landscape, amenities, wildlife, freshwater, and historic values of the Forest; and
-  (b) to recognise that the Forest contains scenery of such distinctive quality, and ecological systems and natural features so beautiful, unique, or scientifically important that the Forest should be preserved in perpetuity for its intrinsic worth and for the benefit, use, and enjoyment of not only members of Rakiura, but also the wider public, as if it were a national park;
-  (c) to provide, subject to a management plan to be prepared under the deed of covenant, freedom of access to the Forest for the New Zealand public:
+  (b) to recognise that the Forest contains scenery of such distinctive quality, and ecological systems and natural features so beautiful, unique, or scientifically important that the Forest should be preserved in perpetuity for its intrinsic worth and for the benefit, use, and enjoyment of not only members of Rakiura, but also the wider public, as if it were a national park; and
+  (c) to provide, subject to a management plan to be prepared under the deed of covenant, freedom of access to the Forest for the New Zealand public.
 
 ### 1 Title
 This Act is the Tutae-Ka-Wetoweto Forest Act 2001.
@@ -60,7 +60,7 @@ This Act binds the Crown.
 (2) Every covenant contained in the deed of covenant runs with and binds the land that is subject to the covenant and is deemed to be an interest in the land for the purposes of Te Ture Whenua Maori Act 1993.
 
 ### 10 Exemption from income tax
-Any money paid to Rakiura under the deed is exempt income for the purposes of the Income Tax Act 2004.
+Any money paid to Rakiura under the deed is exempt income for the purposes of the Income Tax Act 2007.
 
 ### 11 Rakiura must manage forest in accordance with deed of covenant
 Rakiura must manage the Forest—
@@ -72,17 +72,20 @@ For the purposes of clause 1 of Part 1 of Schedule 1 of the Local Government (Ra
 
 ### 13 Enforcement
 (1) This section applies while the deed of covenant is in force.
-(2) Sections 93 to 100 , 101, and 102(3) to 105 of the Reserves Act 1977 apply to the Forest as if it were a reserve under that Act.
+(2) Sections 93 to 100, 101, and 102(3) to 105 of the Reserves Act 1977 apply to the Forest as if it were a reserve under that Act.
 (3) Subsection (2) applies subject to the terms and conditions of the deed of covenant.
 
 ### 14 Amendment to Conservation Act 1987
-Schedule 1 of the Conservation Act 1987 is amended by inserting, in its appropriate alphabetical order, the item The Tutae-Ka-Wetoweto Forest Act 2001.
+Amendment(s) incorporated in the Act(s).
 
-## Schedule 1 — Tutae-Ka-Wetoweto forest land
+## Schedule 1 — Tutae-Ka-Wetoweto Forest land
 
 ## Schedule 2 — Conservation covenant
 
-### 1 INTERPRETATION
+| Section 77, Reserves Act 1977 |
+| --- |
+
+### 1. INTERPRETATION
 (1.1) In this Covenant unless the context other requires:
   - **Covenant** means this Deed of Covenant.
   - **Deed** means the Deed between the parties executed contemporaneously with this Covenant.
@@ -103,7 +106,7 @@ Schedule 1 of the Conservation Act 1987 is amended by inserting, in its appropri
   (1.2.10) The agreements contained in this Covenant bind and benefit the parties and their heirs, executors, successors and assigns in perpetuity and shall bind any lessee of the land for the term of any lease.
   (1.2.11) Where clauses in this Covenant require further agreement between the parties then such agreement must not be unreasonably withheld.
 
-### 2. MINISTER'S ACKNOWLEDGEMENT
+### 2. MINISTER’S ACKNOWLEDGEMENT
 (2.1) The Minister acknowledges that except as agreed in this Covenant:
   (2.1.1) Rakiura is and continues to be the kaitiaki and registered proprietor of the SILNA Sections.
   (2.1.2) Rakiura members are and continue to be the tangata whenua and beneficial owners of the SILNA Sections.
@@ -123,9 +126,9 @@ Schedule 1 of the Conservation Act 1987 is amended by inserting, in its appropri
   (4.1.2) Felling, removal or damage of any tree, shrub or other plant on the land;
   (4.1.3) The planting of any species of tree, shrub or other plant;
   (4.1.4) Except as provided by the management plan the erection of any fence, building, structure or other improvements whether for the purposes of Rakiura or the Minister or other private or public purpose;
-    (4.1.5) Any burning, top-dressing or sowing of seed;
+  (4.1.5) Any burning, top-dressing or sowing of seed;
   (4.1.6) Any cultivation, earthworks or other soil disturbance;
-    (4.1.7) Any archaeological or other scientific research involving disturbance of the soil.
+  (4.1.7) Any archaeological or other scientific research involving disturbance of the soil.
 (4.2) For avoidance of doubt livestock in clause 4.1.1 does not include wild deer.
 (4.3) In continuing to provide public access Rakiura:
   (4.3.1) may, subject to the management plan, require the public to register when entering the SILNA Sections;
@@ -136,12 +139,12 @@ Schedule 1 of the Conservation Act 1987 is amended by inserting, in its appropri
   (4.4.1) eradicate or control all weeds and pests on the SILNA Sections to the extent required by any enactment;
   (4.4.2) prevent any wildfire upon or threatening the SILNA Sections and not permit the wildfire to escape;
   (4.4.3) notify the Minister as soon as practical in the event of wildfire threatening land.
-  (4.5) Rakiura must comply with all requisite statutes, regulations and bylaws in relation to the SILNA Sections.
-  (4.6) Rakiura acknowledges that this Covenant does not affect the Minister's exercise of his powers under the Wild Animal Control Act 1977.
-  (4.7) Subject to clause 4.6 Rakiura must control the deer herds on the SILNA Sections by way of hunting.
+(4.5) Rakiura must comply with all requisite statutes, regulations and bylaws in relation to the SILNA Sections.
+(4.6) Rakiura acknowledges that this Covenant does not affect the Minister’s exercise of his powers under the Wild Animal Control Act 1977.
+(4.7) Subject to clause 4.6 Rakiura must control the deer herds on the SILNA Sections by way of hunting.
 
 ### 5. MANAGEMENT
-(5.1) If the Minister at Rakiura's request provides assistance and support to Rakiura in their management of the SILNA Sections Rakiura must manage the SILNA Sections in accordance with this clause.
+(5.1) If the Minister at Rakiura’s request provides assistance and support to Rakiura in their management of the SILNA Sections Rakiura must manage the SILNA Sections in accordance with this clause.
 (5.2) If requested by Rakiura the Minister may provide Rakiura with assistance and support in management of the SILNA Sections subject to:
   (5.1.1) the extent of such assistance and support being identified in the management plan;
   (5.1.2) the Minister agreeing to provide such assistance and support;
@@ -150,7 +153,7 @@ Schedule 1 of the Conservation Act 1987 is amended by inserting, in its appropri
 
 ### 6. MANAGEMENT PLAN
 (6.1) Rakiura must prepare the management plan.
-(6.2) If requested by Rakiura, the Minister may, subject to clause 5.2, assist Rakiura in the implementation of any matters identified in the plan as requiring the Minister's assistance.
+(6.2) If requested by Rakiura, the Minister may, subject to clause 5.2, assist Rakiura in the implementation of any matters identified in the plan as requiring the Minister’s assistance.
 (6.3) The management plan must implement the objectives in clause 3 and give effect to clause 4 as set out in Schedule 2.
 (6.4) The management plan may prescribe the responsibilities of the Minister in the management of the SILNA Sections.
 (6.5) The prior agreement of the Minister must be obtained before the Minister becomes responsible for implementation of any provisions of the management plan.
@@ -180,7 +183,7 @@ Schedule 1 of the Conservation Act 1987 is amended by inserting, in its appropri
 (10.6) Acceptance of Covenant: until this Covenant is registered and until the legislation referred to in clause 4 of the DEED is enacted, the parties agree to be bound by the provisions of the Covenant.
 
 ### 11. NOTICES
-(11.1) Any notice required to be given under this Covenant should be sufficiently given if made in writing and served as provided in section 152 of the Property Law Act 1952 and shall be sufficiently given if actually received by the party to whom it is addressed or that party's solicitor.
+(11.1) Any notice required to be given under this Covenant should be sufficiently given if made in writing and served as provided in section 152 of the Property Law Act 1952 and shall be sufficiently given if actually received by the party to whom it is addressed or that party’s solicitor.
 (11.2) Any notice required to be given by the Minister shall be sufficiently given if it is signed by the Director-General of Conservation, Wellington. Any notice required to be served upon the Minister shall be sufficiently served if delivered to the office for time being of the Director-General of Conservation at Wellington.
 (11.3) Any notice required to be given by Rakiura shall be sufficiently given if it is signed by the current Chairman of Rakiura or all the current trustees of Rakiura.
 (11.4) Any notice required to be served on Rakiura shall be sufficiently served if delivered to their current registered office at 88 Gore Street, Bluff.
@@ -198,12 +201,6 @@ Schedule 1 of the Conservation Act 1987 is amended by inserting, in its appropri
 (13.2) Resolve by the Minister and Chairperson: In the event a resolution is not agreed within one month of the date given in clause 12.2.3 then the matter will be referred directly to the Chairperson of Rakiura and to the Minister for the time being on behalf of the Crown for negotiation and/or resolution.
 (13.3) Mediation: If a resolution contemplated by the process provided in clause 13.2 is not agreed within (3 months) of the date given in clause 12.2.3 then the matter will be referred to formal mediation by the parties with a mediator agreed between them. Failing agreement between the parties as to an agreed mediator then such will be appointed by the President of the New Zealand Law Society.
 (13.4) Failure of mediation: In the even that the matter is not resolved by mediation within nine months of the date referred to in clause 12.2.3 then the parties agree that the provisions of the Arbitration Act 1996 shall apply. The parties further agree that the result of arbitration shall be binding upon the parties.
-
-### Schedule.Group
-
-#### Schedule 1 — Descriptions of SILNA Sections
-
-#### Schedule 2 — Management Plan
 
 | SIGNED by GRAHAM LLOYD a trustee of RAKIURA MAORI LAND TRUST | Graham Lloyd |
 | --- | --- |
@@ -230,7 +227,7 @@ Schedule 1 of the Conservation Act 1987 is amended by inserting, in its appropri
 | in the presence of: |  |
 | Witness: Sam Burridge |  |
 | Occupation: Director |  |
-| Address: 2 Latimer Sq Ch |  |
+| Address: 2 Latimer Sq Chch |  |
 | SIGNED by ADRIAN HART a trustee of RAKIURA MAORI LAND TRUST |  |
 | in the presence of: |  |
 | Witness: |  |
@@ -245,3 +242,37 @@ Schedule 1 of the Conservation Act 1987 is amended by inserting, in its appropri
 | Witness: B J Ford JP |  |
 | Occupation: Skipper |  |
 | Address: 5 Argyle Street Stewart Island |  |
+
+### 1 Title
+This Act is the Local Government (Rating) Act 2002.
+
+## Part Part 1 — Preliminary and key provisions
+
+### Subpart Subpart 1–– — Preliminary provisions
+
+### 2 Commencement
+(1) Section 137(1), so far as it relates to the item relating to section 122ZAA of the Local Government Act 1974 in Schedule 5, comes into force on the day after the date on which this Act receives the Royal assent.
+(2) The following provisions come into force on the day after the date on which this Act receives the Royal assent, but only for the purpose of rating in a financial year that begins on or after 1 July 2003:
+  (a) section 11, so far as it relates to district valuation rolls; and
+  (b) section 137(1), so far as it relates to—
+    (i) Schedule 4; and
+    (ii) items relating to the Rating Valuations Regulations 1998 in Schedule 5.
+(3) The following provisions come into force on 30 April 2003:
+  (a) section 11, so far as it relates to rating information databases; and
+  (b) sections 27 to 36.
+(4) The rest of this Act comes into force on 1 July 2003.
+
+## Part Part 5 — Replacement of rates and miscellaneous matters
+
+### Subpart Subpart 2–– — Miscellaneous matters
+
+### 137 Amendments to other enactments
+(1) The Acts and regulations specified in Schedules 4 and 5 are amended in the manner indicated in those schedules.
+(2) However, those Acts and regulations continue in force as if they had not been amended to the extent necessary for the levying and collection of rates made or levied for the financial year ending on 30 June 2003 or a previous financial year.
+
+## Schedule.Group
+
+### Schedule Schedule 5 — Amendments to other Acts and regulations
+
+### 12 Forest not to be treated as rateable land for purposes of Local Government (Rating) Act 2002
+For the purposes of clause 1 of Part 1 of Schedule 1 of the Local Government (Rating) Act 2002, the Forest is to be treated as if it were forming a national park within the meaning of the National Parks Act 1980.
