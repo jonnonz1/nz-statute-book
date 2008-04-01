@@ -1,5 +1,5 @@
 # Dairy Industry Restructuring Act 2001
-_Consolidation as at 2007-12-15_
+_Consolidation as at 2008-04-01_
 
 ### 1 Title
 This Act is the Dairy Industry Restructuring Act 2001.
@@ -1451,16 +1451,16 @@ Proceedings brought under this Part are in addition to any proceedings brought u
 ### Subpart 6 — Taxation
 
 ### 151 Shares issued on amalgamation neither dutiable gift nor dividend
-(1) The receipt by a person of shares issued by new co-op on the new co-op amalgamation in respect of shares held by the person in an amalgamating co-operative dairy company is neither a dutiable gift for the purposes of the Estate and Gift Duties Act 1968 nor a dividend for the purposes of the Income Tax Act 2004.
+(1) The receipt by a person of shares issued by new co-op on the new co-op amalgamation in respect of shares held by the person in an amalgamating co-operative dairy company is neither a dutiable gift for the purposes of the Estate and Gift Duties Act 1968 nor a dividend for the purposes of the Income Tax Act 2007.
 (2) Neither regulation 7 of the Co-operative Dairy Companies Income Tax Regulations 1955 nor regulation 7 of the Cooperative Milk Marketing Companies Income Tax Regulations 1960 applies to permit the Commissioner of Inland Revenue to deem any of the receipts referred to in subsection (1) to be gross income other than a dividend.
 
 ### 152 Available subscribed capital of new co-op
-For the purposes of the definition of the term available subscribed capital in section OB 1 of the Income Tax Act 1994, and despite anything in that definition,—
+For the purposes of the definition of the term available subscribed capital in section YA 1 of the Income Tax Act 2007, and despite anything in that definition,—
   (a) new co-op is deemed to receive, on the amalgamation date, an aggregate amount of consideration in respect of the issue of its shares equal to the total available subscribed capital of the Board at that date (before the application of paragraph (e)); and
   (b) new co-op is deemed to receive on each 1 June after the amalgamation date, up to and including 1 June 2006, an additional aggregate amount of consideration of $140,000,000 in respect of the issue of its shares; and
-  (c) the amounts of consideration new co-op is deemed to receive under paragraphs (a) and (b) are in addition to any other amount of consideration taken into account before the application of this section under the definition of available subscribed capital in the Income Tax Act 1994; and
+  (c) the amounts of consideration new co-op is deemed to receive under paragraphs (a) and (b) are in addition to any other amount of consideration taken into account before the application of this section under the definition of available subscribed capital in the Income Tax Act 2007; and
   (d) the total available subscribed capital of the Board referred to in paragraph (a) includes any amount of consideration that the Board is deemed to have received by virtue of section 15ZE(2) of the Dairy Board Act 1961; and
-  (e) the Board is deemed to have no available subscribed capital for the purposes of the Income Tax Act 1994 on the amalgamation date, but is from that time onwards to have the available subscribed capital that it has according to the definition of available subscribed capital in section OB 1 of the Income Tax Act 1994 as if it had never received any consideration in respect of the issue of its shares before that time.
+  (e) the Board is deemed to have no available subscribed capital for the purposes of the Income Tax Act 2007 on the amalgamation date, but is from that time onwards to have the available subscribed capital that it has according to the definition of available subscribed capital in section YA 1 of the Income Tax Act 2007 as if it had never received any consideration in respect of the issue of its shares before that time.
 
 ### 153 Class of shares in respect of which available subscribed capital is received
 (1) The consideration deemed to be received by new co-op—
@@ -1472,34 +1472,34 @@ For the purposes of the definition of the term available subscribed capital in s
 
 ### 154 Net losses and imputation credits of amalgamating co-ops
 (1) For the purpose of subsection (2), the holders of shares or options over shares in each company amalgamating in the new co-op amalgamation are deemed, at all times before the new co-op amalgamation, to be the same persons, holding in the same proportions, as the actual holders of shares or options over shares in new co-op immediately after the new co-op amalgamation.
-(2) Subsection (1) applies for the purpose of determining the voting interest or market value interest of any person in the companies amalgamating in the new co-op amalgamation (other than Fonterra Co-operative Group Limited), in the Board, and in all companies in which new co-op has a voting interest or market value interest (determined as if sections OD 3(3) and OD 4(3) of the Income Tax Act 2004 did not deem voting interests and market value interests held by new co-op not to be so held by new co-op).
-(3) For the purposes of sections IF 4 and IF 6 and subpart IG of the Income Tax Act 2004, new co-op and all the companies that amalgamate to form new co-op, and all the companies in the same group of companies as any company that amalgamates to form new co-op, including, for the avoidance of doubt, consolidated groups of companies (determined immediately before the new co-op amalgamation), are deemed to be in existence and in the same group of companies at all times before the new co-op amalgamation.
-(4) In this section, consolidated group, group of companies, market value interest, and voting interest have the same meanings as in the Income Tax Act 2004.
+(2) Subsection (1) applies for the purpose of determining the voting interest or market value interest of any person in the companies amalgamating in the new co-op amalgamation (other than Fonterra Co-operative Group Limited), in the Board, and in all companies in which new co-op has a voting interest or market value interest (determined as if sections YC 4 and YC 5 of the Income Tax Act 2007 did not deem voting interests and market value interests held by new co-op not to be so held by new co-op).
+(3) For the purposes of subpart IE of the Income Tax Act 2007 and the provisions relevant to section IA 6 of that Act, new co-op and all the companies that amalgamate to form new co-op, and all the companies in the same group of companies as any company that amalgamates to form new co-op, including, for the avoidance of doubt, consolidated groups of companies (determined immediately before the new co-op amalgamation), are deemed to be in existence and in the same group of companies at all times before the new co-op amalgamation.
+(4) In this section, consolidated group, group of companies, market value interest, and voting interest have the same meanings as in the Income Tax Act 2007.
 
 ### 155 Taxation of company into which Board converts
 (1) This section applies, for the purposes of the Inland Revenue Acts (within the meaning of section 3(1) of the Tax Administration Act 1994), if the Board becomes, under this Act, a company registered under the Companies Act 1993.
-(2) The company is not a statutory producer board for the purposes of the Income Tax Act 2004.
-(3) For the avoidance of doubt, and for the purposes of the Income Tax Act 2004, the unexpired portion of any amount of accrual expenditure of the Board for the tax year of the conversion is deemed to be the unexpired portion of an amount of accrual expenditure of the company for the tax year of the conversion.
-(4) Subject to section 154 and for the purposes of the Income Tax Act 2004 the voting interests and market value interests in the Board for the period up until the conversion of the Board into a company must be calculated as if section 15ZE(3) to (5) of the Dairy Board Act 1961 had not been repealed.
+(2) The company is not a statutory producer board for the purposes of the Income Tax Act 2007.
+(3) For the avoidance of doubt, and for the purposes of the Income Tax Act 2007, the unexpired portion of any amount of accrual expenditure of the Board for the tax year of the conversion is deemed to be the unexpired portion of an amount of accrual expenditure of the company for the tax year of the conversion.
+(4) Subject to section 154 and for the purposes of the Income Tax Act 2007 the voting interests and market value interests in the Board for the period up until the conversion of the Board into a company must be calculated as if section 15ZE(3) to (5) of the Dairy Board Act 1961 had not been repealed.
 (5) Subsections (1) to (3) apply on and after the conversion date.
 (6) Subsection (4) applies on and after the amalgamation date.
 
 ### 156 Gift duty and taxation in respect of Livestock Improvement Corporation Limited
-(1) The issue of shares by LIC under section 60 is not a dutiable gift for the purposes of the Estate and Gift Duties Act 1968 or a dividend for the purposes of the Income Tax Act 2004.
-(2) For the purposes of the Income Tax Act 2004, the available subscribed capital of the shares issued under section 60 is equal to the available subscribed capital of the shares which are cancelled under section 60.
-(3) For the purposes of the Income Tax Act 2004, if the constitution of LIC is altered on or after the day on which shares in LIC are issued under section 60 (or with effect as at or after that date) to allow any part of the funds of LIC to be used or be available to be used for the private pecuniary profit of any shareholder (referred to in section CW 35(5)(b) of that Act),—
-  (a) the income of LIC that is exempt income only by virtue of section CB 4(1)(g) of that Act immediately before the alteration that is derived in the tax year in which the alteration comes into effect is income of LIC and is not exempt income under section CB 4(1)(g) of that Act; and
+(1) The issue of shares by LIC under section 60 is not a dutiable gift for the purposes of the Estate and Gift Duties Act 1968 or a dividend for the purposes of the Income Tax Act 2007.
+(2) For the purposes of the Income Tax Act 2007, the available subscribed capital of the shares issued under section 60 is equal to the available subscribed capital of the shares which are cancelled under section 60.
+(3) For the purposes of the Income Tax Act 2007, if the constitution of LIC is altered on or after the day on which shares in LIC are issued under section 60 (or with effect as at or after that date) to allow any part of the funds of LIC to be used or be available to be used for the private pecuniary profit of any shareholder (referred to in section CW 42(5)(b) of that Act),—
+  (a) the income of LIC that is exempt income only by virtue of section CB 5(1)(g) of that Act immediately before the alteration that is derived in the tax year in which the alteration comes into effect is income of LIC and is not exempt income under section CB 5(1)(g) of that Act; and
   (b) the assets and rights of LIC are deemed to be disposed of to a person, not being an associated person of LIC, immediately before the beginning of the tax year in which the alteration is made, and to be re-acquired by LIC from that person for a consideration equal to their market value at the beginning of that tax year; and
-  (c) the alteration of the constitution may not be treated as altering or affecting in any way the status, as exempt income, of any income of LIC that is exempt income under section CW 43 of that Act, derived before the beginning of the tax year in which the alteration comes into effect.
+  (c) the alteration of the constitution may not be treated as altering or affecting in any way the status, as exempt income, of any income of LIC that is exempt income under section CW 51 of that Act, derived before the beginning of the tax year in which the alteration comes into effect.
 (4) Subsection (3)(c) does not apply if the Board retains any interest in LIC at the time that the constitution comes into effect so that any part of the funds of LIC is used or is available for use for the private pecuniary profit of the Board.
 (5) Subsection (4) does not apply to an interest that the Board retains in LIC by reason of the issue of shares under section 60 to a person.
-(6) The interpretation of the Income Tax Act 2004 is not affected by subsection (3)(a), except to the extent of the effect of the application of that subsection to LIC in the circumstances indicated in that subsection.
+(6) The interpretation of the Income Tax Act 2007 is not affected by subsection (3)(a), except to the extent of the effect of the application of that subsection to LIC in the circumstances indicated in that subsection.
 
 ### 157 Taxation of The New Zealand Dairy Research Institute
-(1) For the purposes of the Income Tax Act 2004, the company referred to in section 158(2)(a)—
+(1) For the purposes of the Income Tax Act 2007, the company referred to in section 158(2)(a)—
   (a) is deemed to acquire the assets, rights, and liabilities of the charitable trust known as The New Zealand Dairy Research Institute on the amalgamation date for their market values on that date; and
   (b) despite paragraph (a), is deemed to be the same person as that charitable trust.
-(2) For the purposes of the Income Tax Act 2004, nothing effected by section 158 may be treated as in any way altering or affecting the status, as exempt income under subpart CW of that Act, of any income of that charitable trust before the amalgamation date.
+(2) For the purposes of the Income Tax Act 2007, nothing effected by section 158 may be treated as in any way altering or affecting the status, as exempt income under subpart CW of that Act, of any income of that charitable trust before the amalgamation date.
 (3) Subsection (1)(b) also applies for the purposes of the other Inland Revenue Acts (within the meaning of section 3(1) of the Tax Administration Act 1994).
 (4) For the avoidance of doubt, the vesting that takes place under section 158(2)(a) is not a dutiable gift for the purposes of the Estate and Gift Duties Act 1968.
 
