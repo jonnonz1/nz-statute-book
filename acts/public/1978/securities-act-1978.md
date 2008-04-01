@@ -1,5 +1,5 @@
 # Securities Act 1978
-_Consolidation as at 2008-02-29_
+_Consolidation as at 2008-04-01_
 
 > An Act to establish a Securities Commission; and to consolidate and amend the law relating to the offering of securities to the public, and to extend the application thereof
 
@@ -13,7 +13,7 @@ _Consolidation as at 2008-02-29_
   - **Allot** includes sell, issue, assign, and convey; and has a corresponding meaning
   - **Approved superannuation scheme**
   - **Associated persons** or are—
-    (a) Persons who are relatives within the meaning of the Income Tax Act 2004; or
+    (a) Persons who are relatives within the meaning of the Income Tax Act 2007; or
     (b) Persons who are partners to whom the Partnership Act 1908 applies; or
     (c) Bodies corporate that consist substantially of the same members or shareholders or that are under the control of the same persons; or
     (d) A body corporate and a person who has the power, directly or indirectly, to exercise, or control the exercise of, the rights to vote attached to 25 percent or more of the voting securities of the body corporate; or
@@ -38,7 +38,7 @@ _Consolidation as at 2008-02-29_
   - **Contributory scheme** means any scheme or arrangement that, in substance and irrespective of the form thereof, involves the investment of money in such circumstances that—but does not include such a scheme or arrangement if the number of investors therein does not exceed 5, and neither a manager of the scheme nor any associated person is a manager of any other such scheme or arrangement
     (a) The investor acquires or may acquire an interest in or right in respect of property; and
     (b) Pursuant to the terms of investment that interest or right will or may be used or exercised in conjunction with any other interest in or right in respect of property acquired in like circumstances, whether at the same time or not;—
-  - **Convertible note** has the same meaning as in section OB 1 of the Income Tax Act 2004
+  - **Convertible note** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **Co-operative company** means—
     (a) A company registered as a co-operative company under the Co-operative Companies Act 1956 or the Co-operative Companies Act 1996; or
     (b) A company registered as a co-operative dairy company under the Co-operative Dairy Companies Act 1949 or Part 3 of the Co-operative Companies Act 1996; or
@@ -142,7 +142,7 @@ _Consolidation as at 2008-02-29_
     (a) In sections 67A to 68B , 68G, 68I, and 68K, a person for the time being holding the office of Registrar of Companies or Deputy Registrar of Companies in accordance with the Companies Act 1993:
     (b) In all other sections of this Act, the Registrar of Companies appointed in accordance with the Companies Act 1993 and, pursuant to sections 357 and 358 of that Act, includes every Deputy Registrar of Companies, District Registrar of Companies, and Assistant Registrar of Companies appointed in accordance with that Act:
   - **Regulations** means regulations made under section 70 of this Act
-  - **Relative** has the same meaning as in the Income Tax Act 2004
+  - **Relative** has the same meaning as in the Income Tax Act 2007
   - **Scheme** means,—
     (a) In relation to a participatory security, the arrangement or scheme to which the security relates; and
     (b) In relation to an interest in a superannuation scheme, that superannuation scheme; and
@@ -274,7 +274,7 @@ _Consolidation as at 2008-02-29_
   (e) Any interest or right to participate in the capital, assets, earnings, royalties, or other property of any company, partnership, or other person whose sole undertaking is the practice, conduct, or operation of any one or more of the professions, occupations, or businesses that may in law be practised, conducted, or operated only by persons having or possessing qualifications specified in Schedule 2 to this Act; or
   (f) A mortgage of land other than a contributory mortgage; or
   (g)
-  (h) a share purchased or subscribed for by an employee of a company under a share purchase scheme as defined in section OB 1 of the Income Tax Act 2004; or
+  (h) a share purchased or subscribed for by an employee of a company under a share purchase scheme as defined in section YA 1 of the Income Tax Act 2007; or
   (i) An interest in the Government Superannuation Fund; or
   (j)
   (k) an interest in a retirement village that is an interest exempted from this Act by section 107(1) of the Retirement Villages Act 2003.
