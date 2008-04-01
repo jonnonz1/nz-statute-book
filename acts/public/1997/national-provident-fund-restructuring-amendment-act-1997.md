@@ -1,5 +1,5 @@
 # National Provident Fund Restructuring Amendment Act 1997
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 > An Act to—aAmend the National Provident Fund Restructuring Act 1990; andbAuthorise the amendment of the trust deeds for existing schemes for various purposes; andcProvide for the establishment of a new scheme or schemes for the purpose of paying pensions; anddProvide for the amalgamation of 2 or more of the existing schemes; andeProvide for other incidental matters
 
@@ -306,13 +306,13 @@ For the purposes of the Acts specified in the Schedule to the Tax Administration
 
 ### 8
 Where property which is vested under an amalgamation proposal in the Board as trustee of a new scheme consists of shares or an interest in shares, those shares are not, by reason of that vesting, to be treated as having ceased to be held by or on behalf of the same persons for the purposes of determining whether—and, for the purposes of determining the application of those sections in relation to subsequent dealings in those shares, the shares (or interest in the shares) are to be treated as having been acquired by the Board as trustee of the new scheme at the time they were acquired by the Board as trustee of the existing scheme.
-  (a) Any taxpayer satisfies the requirements of section IF 1(1)(a) of the Income Tax Act 2004; or
-  (b) Any taxpayer is included in a group of companies or a wholly-owned group for the purposes of section IG 1 of the Income Tax Act 2004; or
-  (c) Any debit arises to be recorded in a taxpayer's imputation credit account, dividend withholding payment account, or branch equivalent tax account under section ME 5 or section MF 4 or section MG 5 of the Income Tax Act 2004;—
+  (a) Any taxpayer satisfies the requirements of section IA 5(2) of the Income Tax Act 2007; or
+  (b) Any taxpayer is included in a group of companies or a wholly-owned group for the purposes of section IA 6 of that Act; or
+  (c) Any debit arises to be recorded in a taxpayer's imputation credit account, FDP account, or branch equivalent tax account under OA 6(2), (3), or (5), as described in table O2, table O4, or table O8 of that Act;—
 
 ### 9
 The vesting in accordance with an amalgamation proposal of property or liabilities of the Board as trustee of an existing scheme in the Board as trustee of a new scheme, and any other steps taken to implement that amalgamation proposal,—
-  (a) Are not for the purposes of the Income Tax Act 2004 to be treated as or as giving rise to a sale or other disposition, distribution, transfer, or a receipt of any property or liability of the Board in any of its capacities:
+  (a) Are not for the purposes of the Income Tax Act 2007 to be treated as or as giving rise to a sale or other disposition, distribution, transfer, or a receipt of any property or liability of the Board in any of its capacities:
   (b) Are not, for the purposes of the Goods and Services Tax Act 1985, to be treated as a supply of any goods and services:
   (c) Are not, for the purposes of the Stamp and Cheque Duties Act 1971, to be treated as a conveyance of any property:
   (d) Are not, for the purposes of the Estate and Gift Duties Act 1968, to be treated as a dutiable gift.
