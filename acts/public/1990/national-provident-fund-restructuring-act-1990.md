@@ -1,5 +1,5 @@
 # National Provident Fund Restructuring Act 1990
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 > An Act to provide for—aThe continuation of the National Provident Fund Board as the Board of Trustees of the National Provident Fund; andbThe restructuring of the National Provident Fund and its superannuation schemes and investment arrangements; andcOther incidental matters; anddThe repeal of the National Provident Fund Act 1950
 
@@ -262,7 +262,7 @@ Nothing effected or authorised by any Part of this Act—
 (1) The global asset trust established in accordance with the proposal shall—
   (a) Be deemed for the purposes of any enactment to be registered under the Superannuation Schemes Act 1989 as a superannuation scheme; and
   (b) For the purposes of the Acts specified in the Schedule to the Tax Administration Act 1994 and any other enactment that imposes or provides for the collection of a tax, duty, levy, or other charge, be one superannuation scheme notwithstanding that it may have separate pools and different classes of units; and
-  (c) Be deemed to be a superannuation scheme for the purposes of section EW 5(14) or paragraph (b) of the definition of excepted financial arrangement in section EZ 45 of the Income Tax Act 2004.
+  (c) Be deemed to be a superannuation scheme for the purposes of section EW 5(14) or paragraph (b) of the definition of excepted financial arrangement in section EZ 48 of the Income Tax Act 2007.
 (2) Nothing in subsection (1)(b) of this section shall limit section 73 of this Act.
 
 ### 26 Interim management of global asset trust
@@ -328,9 +328,9 @@ On and after the transfer day, every reference in any enactment (other than this
     (ii) A GAT subsidiary (in relation to property that is vested in that GAT subsidiary under the proposal)—
   (e) Any liability for, or credit or other benefit in respect of, taxes, duties, levies, or other charges arising before the transfer day in respect of any defined benefit scheme shall with effect on and from the transfer day be deemed to be a liability or credit or other benefit of the DBP annuitants scheme or the DBP contributors scheme, as specified in the proposal.
 (2) Where any property which is vested under the proposal in the Board as trustee of the global asset trust or a GAT subsidiary consists of shares or an interest in shares, those shares shall not, by reason of that vesting, be treated as having ceased to be held by or on behalf of the same persons for the purposes of determining whether—and, for the purposes of determining the application of those sections in relation to any subsequent dealings in those shares, the shares (or interest therein) shall be treated as having been acquired by the Board as trustee of the global asset trust or the GAT subsidiary at the time they were acquired by the Board established under the National Provident Fund Act 1950.
-  (a) Any taxpayer satisfies the requirements of section IF 1(1)(a) of the Income Tax Act 2004; or
-  (b) Any taxpayer is included in a group of companies or a wholly-owned group for the purposes of section IG 1 of the Income Tax Act 2004; or
-  (c) Any debit arises to be recorded in a taxpayer's imputation credit account, dividend withholding payment account, or branch equivalent tax account under section ME 5 or section MF 4 or section MG 5 of the Income Tax Act 2004—
+  (a) Any taxpayer satisfies the requirements of section IA 5(2) of the Income Tax Act 2007; or
+  (b) Any taxpayer is included in a group of companies or a wholly-owned group for the purposes of section IA 6 of the Income Tax Act 2007; or
+  (c) Any debit arises to be recorded in a taxpayer's imputation credit account, FDP account, or branch equivalent tax account under section OA 6(2), (3), or (5), as described in table O2, table O4, or table O8 of the Income Tax Act 2007—
 (3) The vesting in accordance with the proposal of any property or liabilities of the Board established under the National Provident Fund Act 1950 in the Board as trustee of the global asset trust or in any GAT subsidiary, and any other steps taken to implement the proposal,—
   (a) Shall not for the purposes of the Income Tax Act 1976 be treated as or giving rise to a sale or other disposition, distribution, transfer, or a receipt of any property or any liability of the Board or of any property or liability of any existing scheme:
   (b) Shall not, for the purposes of the Goods and Services Tax Act 1985 be treated as a supply of any goods and services:
