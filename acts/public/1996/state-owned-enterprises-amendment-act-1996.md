@@ -1,5 +1,5 @@
 # State-Owned Enterprises Amendment Act 1996
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 > An Act to amend the State-Owned Enterprises Act 1986
 
@@ -31,8 +31,8 @@ The Ombudsmen Act 1975 is hereby amended by omitting from Part 2 of Schedule 1 (
 ### 5 Amendment to Official Information Act 1982
 The Official Information Act 1982 is hereby amended by omitting from Schedule 1 (as substituted by section 23(1) of the Official Information Amendment Act 1987 and amended by section 4 of the State-Owned Enterprises Amendment Act 1988) the item Works and Development Services Corporation (NZ) Limited.
 
-### 6 Amendment to Income Tax Act 2004
-The Income Tax Act 2004 is hereby amended by omitting from Schedule 18 the item Works and Development Services Corporation (NZ) Limited.
+### 6 Amendment to Income Tax Act 2007
+The Income Tax Act 2007 is hereby amended by omitting from schedule 36 the item Works and Development Services Corporation (NZ) Limited.
 
 ### 7 Repeal
 The State-Owned Enterprises Amendment Act 1988 is hereby consequentially repealed.
