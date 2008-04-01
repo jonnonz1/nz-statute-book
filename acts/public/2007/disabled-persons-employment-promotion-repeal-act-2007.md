@@ -1,5 +1,5 @@
 # Disabled Persons Employment Promotion Repeal Act 2007
-_Consolidation as at 2007-03-27_
+_Consolidation as at 2008-04-01_
 
 ### 1 Title
 This Act is the Disabled Persons Employment Promotion Repeal Act 2007.
@@ -40,7 +40,7 @@ Despite the repeal of the Act, an exemption granted to an organisation listed in
   (b) 30 November 2007.
 
 ### 9 Exemption from income tax
-Despite the repeal of the Act, any nominal amounts derived by a disabled person from therapeutic activities undertaken in a sheltered workshop must continue to be treated as exempt income for the purpose of section CB 6(a)(i) of the Income Tax Act 1994 and section CW 27(1)(d) of the Income Tax Act 2004.
+Despite the repeal of the Act, any nominal amounts derived by a disabled person from therapeutic activities undertaken in a sheltered workshop must continue to be treated as exempt income for the purpose of section CB 6(a)(i) of the Income Tax Act 1994 and section CW 27(1)(d) of the Income Tax Act 2004 and section CW 33(1)(d) of the Income Tax Act 2007.
 
 ### 10 Meaning of disabled person and sheltered workshop
 (1) Despite the repeal of the Act, the terms disabled person and sheltered workshop continue, for the purposes of any other enactment, to have the same meanings as in section 2 of the Act.
