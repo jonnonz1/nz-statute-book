@@ -1,64 +1,64 @@
 # Earthquake Commission Act 1993
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 > An Act to make provision with respect to the insurance of residential property against damage caused by certain natural disasters
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Earthquake Commission Act 1993.
-(2) This Act shall come into force on the 1st day of January 1994.
+(2) This Act shall come into force on 1 January 1994.
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **Board** means the Board of the Commission referred to in section 4B
+  - **board** means the board of the Commission referred to in section 4B
   - **Commission** means the Earthquake Commission constituted under this Act
-  - **Commissioner** means a member of the Board
-  - **Contract of fire insurance** means a contract whereby any property is insured against physical loss or damage by fire (other than natural disaster fire), whether the contract includes other risks or not; but does not include any contract of marine insurance or any contract of reinsurance
-  - **Contract of natural disaster insurance** means a contract whereby any property is insured against natural disaster damage, whether the contract includes other risks or not; but does not include any contract of marine insurance or any contract of reinsurance
-  - **Dwelling** means, subject to any regulations made under this Act, any self-contained premises which are the home or holiday home, or are capable of being and are intended by the owner of the premises to be the home or holiday home, of one or more persons
-  - **Erosion** means erosion by the normal action of the wind or sea or of a lake, river, or other body of water
+  - **Commissioner** means a member of the board
+  - **contract of fire insurance** means a contract whereby any property is insured against physical loss or damage by fire (other than natural disaster fire), whether the contract includes other risks or not; but does not include any contract of marine insurance or any contract of reinsurance
+  - **contract of natural disaster insurance** means a contract whereby any property is insured against natural disaster damage, whether the contract includes other risks or not; but does not include any contract of marine insurance or any contract of reinsurance
+  - **dwelling** means, subject to any regulations made under this Act, any self-contained premises which are the home or holiday home, or are capable of being and are intended by the owner of the premises to be the home or holiday home, of 1 or more persons
+  - **erosion** means erosion by the normal action of the wind or sea or of a lake, river, or other body of water
   - **Fund** means the Natural Disaster Fund continued in existence under this Act
-  - **Goods and services tax** means goods and services tax payable under the Goods and Services Tax Act 1985
-  - **Insurance company** means any person who undertakes liability under any contract of fire insurance or any contract of natural disaster insurance
-  - **Insured person** , in relation to any property insured under this Act, means the person for the time being entitled to the benefit of the contract of fire insurance in force in respect of that property or (in the case of property that is residential land) in respect of the residential building situated on that land; and, in relation to any contract of insurance made under this Act, means the person for the time being entitled to the benefit of that contract
-  - **Land** does not include improvements as defined in section 2 of the Valuation of Land Act 1951
+  - **goods and services tax** means goods and services tax payable under the Goods and Services Tax Act 1985
+  - **insurance company** means any person who undertakes liability under any contract of fire insurance or any contract of natural disaster insurance
+  - **insured person** , in relation to any property insured under this Act, means the person for the time being entitled to the benefit of the contract of fire insurance in force in respect of that property or (in the case of property that is residential land) in respect of the residential building situated on that land; and, in relation to any contract of insurance made under this Act, means the person for the time being entitled to the benefit of that contract
+  - **land** does not include improvements as defined in section 2 of the Valuation of Land Act 1951
   - **Minister** means the Minister of Finance
-  - **Natural disaster** means—
-    (a) An earthquake, natural landslip, volcanic eruption, hydrothermal activity, or tsunami; or
-    (b) Natural disaster fire; or
-    (c) In the case only of residential land, a storm or flood:
-  - **Natural disaster damage** means, in relation to property,—
-    (a) Any physical loss or damage to the property occurring as the direct result of a natural disaster; or
-    (b) Any physical loss or damage to the property occurring (whether accidentally or not) as a direct result of measures taken under proper authority to avoid the spreading of, or otherwise to mitigate the consequences of, any natural disaster, but does not include any physical loss or damage to the property for which compensation is payable under any other enactment:
-  - **Natural disaster fire** means fire occasioned by or through or in consequence of an earthquake, natural landslip, volcanic eruption, hydrothermal activity, tsunami, or (in the case only of residential land) a storm or flood
-  - **Natural landslip** means the movement (whether by way of falling, sliding, or flowing, or by a combination thereof) of ground-forming materials composed of natural rock, soil, artificial fill, or a combination of such materials, which, before movement, formed an integral part of the ground; but does not include the movement of ground due to below-ground subsidence, soil expansion, soil shrinkage, soil compaction, or erosion
-  - **Person** includes any individual person, a corporation sole, a corporate aggregate, an unincorporated body of persons, and any association or combination of individual persons or corporate or unincorporate bodies
-  - **Personal property** means property that is located in or on a residential building; and includes property that is usually so located but is temporarily removed from the building for any reason; but does not include any property used solely or principally for commercial purposes
-  - **Physical loss or damage** , in relation to property, includes any physical loss or damage to the property that (in the opinion of the Commission) is imminent as the direct result of a natural disaster which has occurred
-  - **Replacement value** means—
-    (a) In relation to a residential building, any costs which would be reasonably incurred in respect of—
-      (i) Demolition and removal of debris, to the extent that is essential to enable the building to be replaced or reinstated; and
-      (ii) Replacing or reinstating the building to a condition substantially the same as but not better or more extensive than its condition when new, modified as necessary to comply with any applicable laws; and
-      (iii) Complying with any applicable laws in relation to the replacement or reinstatement of the building; and
-      (iv) Other fees or costs payable in the course of replacing or reinstating the building, including architects' fees, surveyors' fees, and fees payable to local authorities; and
-    (b) In relation to any personal property, the lesser of—
-      (i) The cost of replacing the property with similar property, in a condition equal to but not better or more extensive than its condition when new:
-      (ii) The cost of reinstating the property to a condition substantially the same as but not better or more extensive than its condition when new:
-  - **Residential building** means—
-    (a) Any building, or part of a building, or other structure (whether or not fixed to land or to another building, part, or structure) in New Zealand which comprises or includes one or more dwellings, if the area of the dwelling or dwellings constitutes 50 percent or more of the total area of the building, part, or structure:
-    (b) Any building or part of a building (whether or not fixed to land, or to another building, part, or structure) in New Zealand which provides long-term accommodation for the elderly, if the area of the building which provides long-term accommodation for the elderly constitutes 50 percent or more of the total area of the building, part, or structure:
-    (c) Every building or structure appurtenant to a dwelling referred to in paragraph (a), or a building or part of a building referred to in paragraph (b), of this definition and that is used for the purposes of the household of the occupier of the dwelling or for the purposes of the residents of the building or part:
-    (d) All water supply, drainage, sewerage, gas, electrical, and telephone services, and structures appurtenant thereto—
-      (i) Serving a dwelling referred to in paragraph (a), or a building or part of a building referred to in paragraph (b), of this definition or surrounding land; and
-      (ii) Situated within 60 metres, in a horizontal line, of the dwelling or building or part; and
-      (iii) Owned by the owner of the dwelling or building or part, or by the owner of the land on which the dwelling or building or part is situated:
-  - **Residential land** means, in relation to any residential building, the following property situated within the land holding on which the residential building is lawfully situated
-    (a) The land on which the building is situated; and
-    (b) All land within 8 metres in a horizontal line of the building; and
-    (c) That part of the land holding which—
-      (i) Is within 60 metres, in a horizontal line, of the building; and
-      (ii) Constitutes the main access way or part of the main access way to the building from the boundary of the land holding or is land supporting such access way or part; and
-    (d) All bridges and culverts situated within any area specified in paragraphs (a) to (c) of this definition; and
-    (e) All retaining walls and their support systems within 60 metres, in a horizontal line, of the building which are necessary for the support or protection of the building or of any property referred to in any of paragraphs (a) to (c) of this definition.
+  - **natural disaster** means—
+    (a) an earthquake, natural landslip, volcanic eruption, hydrothermal activity, or tsunami; or
+    (b) natural disaster fire; or
+    (c) in the case only of residential land, a storm or flood
+  - **natural disaster damage** means, in relation to property,—
+    (a) any physical loss or damage to the property occurring as the direct result of a natural disaster; or
+    (b) any physical loss or damage to the property occurring (whether accidentally or not) as a direct result of measures taken under proper authority to avoid the spreading of, or otherwise to mitigate the consequences of, any natural disaster, but does not include any physical loss or damage to the property for which compensation is payable under any other enactment
+  - **natural disaster fire** means fire occasioned by or through or in consequence of an earthquake, natural landslip, volcanic eruption, hydrothermal activity, tsunami, or (in the case only of residential land) a storm or flood
+  - **natural landslip** means the movement (whether by way of falling, sliding, or flowing, or by a combination thereof) of ground-forming materials composed of natural rock, soil, artificial fill, or a combination of such materials, which, before movement, formed an integral part of the ground; but does not include the movement of ground due to below-ground subsidence, soil expansion, soil shrinkage, soil compaction, or erosion
+  - **person** includes any individual person, a corporation sole, a corporate aggregate, an unincorporated body of persons, and any association or combination of individual persons or corporate or unincorporate bodies
+  - **personal property** means property that is located in or on a residential building; and includes property that is usually so located but is temporarily removed from the building for any reason; but does not include any property used solely or principally for commercial purposes
+  - **physical loss or damage** , in relation to property, includes any physical loss or damage to the property that (in the opinion of the Commission) is imminent as the direct result of a natural disaster which has occurred
+  - **replacement value** means—
+    (a) in relation to a residential building, any costs which would be reasonably incurred in respect of—
+      (i) demolition and removal of debris, to the extent that is essential to enable the building to be replaced or reinstated; and
+      (ii) replacing or reinstating the building to a condition substantially the same as but not better or more extensive than its condition when new, modified as necessary to comply with any applicable laws; and
+      (iii) complying with any applicable laws in relation to the replacement or reinstatement of the building; and
+      (iv) other fees or costs payable in the course of replacing or reinstating the building, including architects' fees, surveyors' fees, and fees payable to local authorities; and
+    (b) in relation to any personal property, the lesser of—
+      (i) the cost of replacing the property with similar property, in a condition equal to but not better or more extensive than its condition when new:
+      (ii) the cost of reinstating the property to a condition substantially the same as but not better or more extensive than its condition when new
+  - **residential building** means—
+    (a) any building, or part of a building, or other structure (whether or not fixed to land or to another building, part, or structure) in New Zealand which comprises or includes 1 or more dwellings, if the area of the dwelling or dwellings constitutes 50% or more of the total area of the building, part, or structure:
+    (b) any building or part of a building (whether or not fixed to land, or to another building, part, or structure) in New Zealand which provides long-term accommodation for the elderly, if the area of the building which provides long-term accommodation for the elderly constitutes 50% or more of the total area of the building, part, or structure:
+    (c) every building or structure appurtenant to a dwelling referred to in paragraph (a), or a building or part of a building referred to in paragraph (b), and that is used for the purposes of the household of the occupier of the dwelling or for the purposes of the residents of the building or part:
+    (d) all water supply, drainage, sewerage, gas, electrical, and telephone services, and structures appurtenant thereto—
+      (i) serving a dwelling referred to in paragraph (a), or a building or part of a building referred to in paragraph (b), or surrounding land; and
+      (ii) situated within 60 metres, in a horizontal line, of the dwelling or building or part; and
+      (iii) owned by the owner of the dwelling or building or part, or by the owner of the land on which the dwelling or building or part is situated
+  - **residential land** means, in relation to any residential building, the following property situated within the land holding on which the residential building is lawfully situated:
+    (a) the land on which the building is situated; and
+    (b) all land within 8 metres in a horizontal line of the building; and
+    (c) that part of the land holding which—
+      (i) is within 60 metres, in a horizontal line, of the building; and
+      (ii) constitutes the main access way or part of the main access way to the building from the boundary of the land holding or is land supporting such access way or part; and
+    (d) all bridges and culverts situated within any area specified in paragraphs (a) to (c); and
+    (e) all retaining walls and their support systems within 60 metres, in a horizontal line, of the building which are necessary for the support or protection of the building or of any property referred to in any of paragraphs (a) to (c).
 (2) For the purposes of this Act, a renewal of a contract of insurance shall be deemed to be a new contract.
 
 ### 3 Act to bind the Crown
@@ -71,7 +71,7 @@ This Act shall bind the Crown.
 (2)
 (3)
 (4)
-(5) The persons holding office as members of the Board of the Earthquake and War Damage Commission immediately before the commencement of this Act shall, on the commencement of this Act, be deemed to have been appointed as members of the Board under this Act, but their term of office under this Act shall be deemed to have commenced on the date on which they were appointed or last reappointed to the first-mentioned Board.
+(5) The persons holding office as members of the board of the Earthquake and War Damage Commission immediately before the commencement of this Act shall, on the commencement of this Act, be deemed to have been appointed as members of the board under this Act, but their term of office under this Act shall be deemed to have commenced on the date on which they were appointed or last reappointed to the first-mentioned board.
 
 ### 4A Crown Entities Act 2004 to apply
 (1) The Commission is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
@@ -83,13 +83,13 @@ This Act shall bind the Crown.
 
 ### 5 Functions of Commission
 (1) The functions of the Commission are—
-  (a) To administer the insurance against natural disaster damage provided under this Act:
-  (b) To collect premiums payable for the insurance provided under this Act:
-  (c) To administer the Fund and, so far as is reasonably practicable, protect its value, including by the investment of money held in the Fund:
-  (d) To obtain reinsurance in respect of the whole or part of the insurance provided under this Act:
-  (e) To facilitate research and education about matters relevant to natural disaster damage, methods of reducing or preventing natural disaster damage, and the insurance provided under this Act:
-  (f) Such other functions as may be conferred on it by—
-    (i) This Act or any other Act; or
+  (a) to administer the insurance against natural disaster damage provided under this Act:
+  (b) to collect premiums payable for the insurance provided under this Act:
+  (c) to administer the Fund and, so far as is reasonably practicable, protect its value, including by the investment of money held in the Fund:
+  (d) to obtain reinsurance in respect of the whole or part of the insurance provided under this Act:
+  (e) to facilitate research and education about matters relevant to natural disaster damage, methods of reducing or preventing natural disaster damage, and the insurance provided under this Act:
+  (f) such other functions as may be conferred on it by—
+    (i) this Act or any other Act; or
     (ii) the Minister, in accordance with section 112 of the Crown Entities Act 2004.
 (2)
 
@@ -97,15 +97,15 @@ This Act shall bind the Crown.
 [Repealed]
 
 ### 7 Capital of Commission
-(1) The capital of the Commission shall be $1,500,000,000, in shares of $1 each, which shall be deemed to have been subscribed for and paid up in full from the Fund by the Minister on behalf of Her Majesty the Queen on the 1st day of October 1988.
-(2) The Governor-General, on the advice of the Minister given after consultation with the Board, may by Order in Council increase or reduce the share capital of the Commission to such amount as may be prescribed in the order.
-(3) The share capital of the Commission shall not be increased otherwise than in accordance with subsection (2) of this section.
+(1) The capital of the Commission shall be $1,500,000,000, in shares of $1 each, which shall be deemed to have been subscribed for and paid up in full from the Fund by the Minister on behalf of Her Majesty the Queen on 1 October 1988.
+(2) The Governor-General, on the advice of the Minister given after consultation with the board, may by Order in Council increase or reduce the share capital of the Commission to such amount as may be prescribed in the order.
+(3) The share capital of the Commission shall not be increased otherwise than in accordance with subsection (2).
 (4) The Commission shall not allot any shares in its capital to any person other than Her Majesty the Queen or a nominee holding shares on behalf of Her Majesty.
 (5) The Minister may, on behalf of Her Majesty the Queen,—
-  (a) Subscribe for or otherwise acquire any shares issued by the Commission on any increase of its share capital pursuant to subsection (2) of this section:
-  (b) Receive any money paid by the Commission on a reduction of its share capital pursuant to subsection (2) of this section:
-  (c) Exercise any of Her Majesty's rights and powers as the holder of any shares in the Commission.
-(6) All money required to be paid by the Minister in respect of the subscription for, or other acquisition of, shares in the Commission (other than the share capital of $1,500,000,000 referred to in subsection (1) of this section) shall be paid out of public money appropriated by Parliament for the purpose.
+  (a) subscribe for or otherwise acquire any shares issued by the Commission on any increase of its share capital pursuant to subsection (2):
+  (b) receive any money paid by the Commission on a reduction of its share capital pursuant to subsection (2):
+  (c) exercise any of Her Majesty's rights and powers as the holder of any shares in the Commission.
+(6) All money required to be paid by the Minister in respect of the subscription for, or other acquisition of, shares in the Commission (other than the share capital of $1,500,000,000 referred to in subsection (1)) shall be paid out of public money appropriated by Parliament for the purpose.
 (7) All sums paid or deemed to be paid by the Minister in respect of the subscription for, or other acquisition of, shares in the Commission shall be deemed to form part of the Fund.
 
 ### 8 Commission to be Crown entity
@@ -115,8 +115,8 @@ This Act shall bind the Crown.
 The Minister, by written notice to the Commission, after consultation with the Commission, may determine the amount of dividend payable by the Commission in respect of any financial year or years, and the Commission shall comply with the notice.
 
 ### 10 Exemption from income tax
-(1) The Commission is hereby declared to be exempt from the payment of income tax under the Income Tax Act 2004.
-(2) The Commission shall pay into the Crown Bank Account, from time to time, sums in lieu of income tax; and such sums shall be of such amount and shall be paid at such times as the Minister from time to time determines after consultation with the Commission.
+(1) The Commission is hereby declared to be exempt from the payment of income tax under the Income Tax Act 2007.
+(2) The Commission shall pay into a Crown Bank Account, from time to time, sums in lieu of income tax; and such sums shall be of such amount and shall be paid at such times as the Minister from time to time determines after consultation with the Commission.
 
 ### 11 Auditor-General to be auditor of Commission
 (1)
@@ -125,9 +125,9 @@ The Minister, by written notice to the Commission, after consultation with the C
 ### 12 Directions by Minister
 (1) In directing the entity in accordance with section 103 of the Crown Entities Act 2004, the Minister must, if practicable, first consult with those persons likely to be affected by the direction.
 (1A) The Minister may, in giving any written directions in relation to the exercise of the Commission's functions under section 5(1)(c) or section 5(1)(d), or both, take account not only of the objects and policy of this Act, but also of 1 or more of the following matters:
-  (a) The Crown's current and possible future overall financial position, having regard to the requirement in section 16 to grant or advance public money to meet any deficiency in the Commission's assets to meet its liabilities:
-  (b) The Crown's current and possible future overall financial position, taking into account the interests of the Crown in the bodies referred to in section 27(3)(a) to (f) of the Public Finance Act 1989:
-  (c) The Commission's current and possible future overall financial position.
+  (a) the Crown's current and possible future overall financial position, having regard to the requirement in section 16 to grant or advance public money to meet any deficiency in the Commission's assets to meet its liabilities:
+  (b) the Crown's current and possible future overall financial position, taking into account the interests of the Crown in the bodies referred to in section 27(3)(a) to (f) of the Public Finance Act 1989:
+  (c) the Commission's current and possible future overall financial position.
 (1B) Without limiting subsections (1) and (1A), written directions may specify detailed requirements or prohibitions, or both, to which the Commission must give effect in exercising its functions under section 5(1)(c) and section 5(1)(d).
 (2)
 (2A)
@@ -144,90 +144,90 @@ The Minister, by written notice to the Commission, after consultation with the C
 
 ### 14 Money payable into Fund
 (1) There shall from time to time be paid into the Fund—
-  (a) The proceeds of all premiums and other money payable to the Commission:
-  (b) All fines and penalties recovered under this Act or any regulations in force under this Act:
-  (c) All other money that is lawfully payable into the Fund.
+  (a) the proceeds of all premiums and other money payable to the Commission:
+  (b) all fines and penalties recovered under this Act or any regulations in force under this Act:
+  (c) all other money that is lawfully payable into the Fund.
 (2) All money in the Fund, and all money payable into the Fund by any person, and all debts and other money for the time being owing to the Commission by any person, whether on account of premiums or otherwise, and whether they are accrued due or not, are hereby declared to be the property of the Commission and recoverable accordingly by the Commission.
 
 ### 15 Money payable out of Fund
 There shall, from time to time, be paid out of the Fund—
-  (a) All claims admitted or sustained against the Commission in respect of the insurance of any property under this Act and all expenditure in connection with any such claims:
-  (b) All refunds of premiums or any part thereof made by the Commission:
-  (c) All premiums and other expenditure in connection with the reinsurance of any liability of the Commission:
-  (d) Such sums as the Commission may from time to time decide to grant to any person or body of persons engaged in research into any matter relevant to the Commission's functions:
-  (e) Such sums as the Commission may from time to time decide to spend for the purposes of informing or educating any persons about any matter relevant to the Commission's functions:
-  (f) All money required to repay any money borrowed by it under section 16 of this Act, or to pay any interest or fees in relation to any such money:
-  (g) All dividends payable under section 9 of this Act, sums payable under section 10(2) of this Act, and fees payable under section 17 of this Act:
-  (h) All salaries, remuneration, and allowances and other expenditure incurred, or other money payable by the Commission under, or in the administration of, this Act, or in the exercise of the Commission's functions or powers under this Act, or in accordance with regulations made under this Act.
+  (a) all claims admitted or sustained against the Commission in respect of the insurance of any property under this Act and all expenditure in connection with any such claims:
+  (b) all refunds of premiums or any part thereof made by the Commission:
+  (c) all premiums and other expenditure in connection with the reinsurance of any liability of the Commission:
+  (d) such sums as the Commission may from time to time decide to grant to any person or body of persons engaged in research into any matter relevant to the Commission's functions:
+  (e) such sums as the Commission may from time to time decide to spend for the purposes of informing or educating any persons about any matter relevant to the Commission's functions:
+  (f) all money required to repay any money borrowed by it under section 16, or to pay any interest or fees in relation to any such money:
+  (g) all dividends payable under section 9, sums payable under section 10(2), and fees payable under section 17:
+  (h) all salaries, remuneration, and allowances and other expenditure incurred, or other money payable by the Commission under, or in the administration of, this Act, or in the exercise of the Commission's functions or powers under this Act, or in accordance with regulations made under this Act.
 
 ### 16 Deficiency in Fund
 If the assets of the Commission (including the money for the time being in the Fund) are not sufficient to meet the liabilities of the Commission, the Minister shall, without further appropriation than this section, provide to the Commission out of public money such sums by way of grant or advance as may be necessary to meet the deficiency upon such terms and conditions as the Minister determines.
 
 ### 17 Fees payable to Crown by Commission
-There shall be payable by the Commission to the Crown each year, on such date as the Minister determines, a fee to be determined from time to time by the Minister in respect of the obligation imposed by section 16 of this Act.
+There shall be payable by the Commission to the Crown each year, on such date as the Minister determines, a fee to be determined from time to time by the Minister in respect of the obligation imposed by section 16.
 
 ## Part 2 — Insurance of residential property against natural disaster
 
 **Insurance**
 
 ### 18 Residential buildings
-(1) Subject to any regulations made under this Act and to Schedule 3 to this Act, where a person enters into a contract of fire insurance with an insurance company in respect of any residential building situated in New Zealand, the residential building shall, while that contract is in force, be deemed to be insured under this Act against natural disaster damage for its replacement value to the amount (exclusive of goods and services tax) which is the least of—
-  (a) If the contract of fire insurance specifies a replacement sum insured for which the building is insured against fire under that contract, the amount of that sum insured:
-  (b) If the contract of fire insurance does not specify such a replacement sum insured but does specify an amount to which the building is to be insured under this Act, that amount:
-  (c) The amount arrived at by multiplying the number of dwellings in the building (being the number determined in accordance with subsection (3) of this section) by $100,000 or such higher amount as may be fixed from time to time for the purposes of this paragraph by regulations made under this Act.
-(2) An amount specified for the purposes of subsection (1)(b) of this section shall not be less than the amount calculated by multiplying a sum of not less than $1,000, or such higher sum as is fixed from time to time for the purposes of this subsection by regulations made under this Act, by the area in square metres of the residential building. Where a contract specifies a lesser amount, the amount specified is deemed to be $1,000 or such higher sum as is fixed from time to time for the purposes of this subsection by regulations made under this Act, by the area in square metres of the residential building.
-(3) For the purposes of subsection (1)(c) of this section, a residential building is deemed to comprise one dwelling unless the existence of a higher number of dwellings in the building is disclosed to the insurance company at the time that the contract of fire insurance is entered into.
+(1) Subject to any regulations made under this Act and to Schedule 3, where a person enters into a contract of fire insurance with an insurance company in respect of any residential building situated in New Zealand, the residential building shall, while that contract is in force, be deemed to be insured under this Act against natural disaster damage for its replacement value to the amount (exclusive of goods and services tax) which is the least of—
+  (a) if the contract of fire insurance specifies a replacement sum insured for which the building is insured against fire under that contract, the amount of that sum insured:
+  (b) if the contract of fire insurance does not specify such a replacement sum insured but does specify an amount to which the building is to be insured under this Act, that amount:
+  (c) the amount arrived at by multiplying the number of dwellings in the building (being the number determined in accordance with subsection (3)) by $100,000 or such higher amount as may be fixed from time to time for the purposes of this paragraph by regulations made under this Act.
+(2) An amount specified for the purposes of subsection (1)(b) shall not be less than the amount calculated by multiplying a sum of not less than $1,000, or such higher sum as is fixed from time to time for the purposes of this subsection by regulations made under this Act, by the area in square metres of the residential building. Where a contract specifies a lesser amount, the amount specified is deemed to be $1,000 or such higher sum as is fixed from time to time for the purposes of this subsection by regulations made under this Act, by the area in square metres of the residential building.
+(3) For the purposes of subsection (1)(c), a residential building is deemed to comprise 1 dwelling unless the existence of a higher number of dwellings in the building is disclosed to the insurance company at the time that the contract of fire insurance is entered into.
 
 ### 19 Residential land
-Subject to any regulations made under this Act and to Schedule 3 to this Act, where a residential building is deemed to be insured under this Act against natural disaster damage, the residential land on which that building is situated shall, while that insurance of the residential building is in force, be deemed to be insured under this Act against natural disaster damage to the amount (exclusive of goods and services tax) which is the sum of, in the case of any particular damage,—
-  (a) The value, at the site of the damage, of—whichever is the smallest; and
-    (i) If there is a district plan operative in respect of the residential land, an area of land equal to the minimum area allowable under the district plan for land used for the same purpose that the residential land was being used at the time of the damage; or
-    (ii) An area of land of 4000 square metres; or
-    (iii) The area of land that is actually lost or damaged—
-  (b) The indemnity value of any property referred to in paragraphs (d) and (e) of the definition of the term residential land in section 2(1) of this Act that is lost or damaged.
+Subject to any regulations made under this Act and to Schedule 3, where a residential building is deemed to be insured under this Act against natural disaster damage, the residential land on which that building is situated shall, while that insurance of the residential building is in force, be deemed to be insured under this Act against natural disaster damage to the amount (exclusive of goods and services tax) which is the sum of, in the case of any particular damage,—
+  (a) the value, at the site of the damage, of—whichever is the smallest; and
+    (i) if there is a district plan operative in respect of the residential land, an area of land equal to the minimum area allowable under the district plan for land used for the same purpose that the residential land was being used at the time of the damage; or
+    (ii) an area of land of 4 000 square metres; or
+    (iii) the area of land that is actually lost or damaged—
+  (b) the indemnity value of any property referred to in paragraphs (d) and (e) of the definition of the term residential land in section 2(1) that is lost or damaged.
 
 ### 20 Personal property
-Subject to any regulations made under this Act and to Schedule 3 to this Act, where a person enters into a contract of fire insurance with an insurance company in respect of any personal property situated in New Zealand, the property shall, while that contract is in force, be deemed to be insured under this Act against natural disaster damage for its replacement value (or, if it is insured against fire on any less favourable basis, that basis) to the amount (exclusive of goods and services tax) which is the lesser of—
-  (a) If the contract of fire insurance specifies a maximum amount to which property is insured against fire under the contract, that amount:
-  (b) The sum of $20,000 or such greater amount as may be fixed from time to time for the purposes of this section by regulations made under this Act.
+Subject to any regulations made under this Act and to Schedule 3, where a person enters into a contract of fire insurance with an insurance company in respect of any personal property situated in New Zealand, the property shall, while that contract is in force, be deemed to be insured under this Act against natural disaster damage for its replacement value (or, if it is insured against fire on any less favourable basis, that basis) to the amount (exclusive of goods and services tax) which is the lesser of—
+  (a) if the contract of fire insurance specifies a maximum amount to which property is insured against fire under the contract, that amount:
+  (b) the sum of $20,000 or such greater amount as may be fixed from time to time for the purposes of this section by regulations made under this Act.
 
 ### 21 Property not insured under this Act
-(1) Sections 18 to 20 of this Act shall not apply to—
-  (a) Any property of a kind specified in Schedule 2 to this Act; or
-  (b) Any property of a kind specified for the purposes of this section in regulations made under this Act.
-(2) Nothing in subsection (1) of this section shall limit—
-  (a) Either of paragraphs (c) and (d) of the definition of the term residential building in section 2(1) of this Act; or
-  (b) Either of paragraphs (d) and (e) of the definition of the term residential land in section 2(1) of this Act.
+(1) Sections 18 to 20 shall not apply to—
+  (a) any property of a kind specified in Schedule 2; or
+  (b) any property of a kind specified for the purposes of this section in regulations made under this Act.
+(2) Nothing in subsection (1) shall limit—
+  (a) either of paragraphs (c) and (d) of the definition of the term residential building in section 2(1); or
+  (b) either of paragraphs (d) and (e) of the definition of the term residential land in section 2(1).
 
 ### 22 Voluntary insurance against natural disaster damage
-(1) On application made by any person having an insurable interest in any residential building, residential land, or personal property, the Commission may enter into a contract to insure that building, land, or personal property under this Act against natural disaster damage for such period and to such amount (not exceeding the amount which would apply if the property were insured under any of sections 18 to 20 of this Act) and upon or subject to such conditions as the Commission thinks fit.
+(1) On application made by any person having an insurable interest in any residential building, residential land, or personal property, the Commission may enter into a contract to insure that building, land, or personal property under this Act against natural disaster damage for such period and to such amount (not exceeding the amount which would apply if the property were insured under any of sections 18 to 20) and upon or subject to such conditions as the Commission thinks fit.
 (2) A contract may be made under this section—
-  (a) For the insurance of any residential building, residential land, or personal property that is not insured under any of sections 18 to 20 of this Act; or
-  (b) For the insurance of any residential building, residential land, or personal property in substitution for the insurance of that building, land, or personal property under any of sections 18 to 20 of this Act.
+  (a) for the insurance of any residential building, residential land, or personal property that is not insured under any of sections 18 to 20; or
+  (b) for the insurance of any residential building, residential land, or personal property in substitution for the insurance of that building, land, or personal property under any of sections 18 to 20.
 (3) Upon the making of a contract under this section, a premium at the rate prescribed for the purposes of this section or, where no such rate is prescribed, at such rate as the Commission thinks fit shall be payable to the Commission by the applicant.
 
 **Premiums**
 
 ### 23 Premiums payable to Commission
-(1) When a contract of fire insurance of a kind referred to in any of sections 18 to 20 of this Act is made, there shall be payable by the insurance company to the Commission a premium, at the rate prescribed by regulations made under this Act, for the insurance against natural disaster damage provided by this Act.
+(1) When a contract of fire insurance of a kind referred to in any of sections 18 to 20 is made, there shall be payable by the insurance company to the Commission a premium, at the rate prescribed by regulations made under this Act, for the insurance against natural disaster damage provided by this Act.
 (2) The amount of a premium for which any insurance company becomes liable under this section in respect of any contract of fire insurance shall, upon the making of the contract, become a debt due by the insured person to the insurance company, and may be recovered by the company accordingly. If at any time before the debt is fully discharged any other person becomes an insured person under the contract of fire insurance the amount remaining unpaid shall thereupon become a debt due by him or her to the insurance company, without prejudice to the liability of any other person. Where 2 or more persons are liable for any amount under this subsection their liability shall be joint and several.
-(3) Notwithstanding subsection (2) of this section, where a premium is payable by an insurance company pursuant to subsection (1) of this section and the insurance company does not carry on business in New Zealand—
-  (a) The premium shall be a debt due by the insured person to the Commission jointly and severally with the insurance company, and may be recovered by the Commission accordingly:
-  (b) If at any time before the debt is fully discharged any other person becomes an insured person under the contract of fire insurance, the amount remaining unpaid shall become a debt due by him or her to the Commission, without prejudice to the liability of any other person:
-  (c) Where 2 or more persons are liable for any amount under this subsection their liability shall be joint and several.
+(3) Notwithstanding subsection (2), where a premium is payable by an insurance company pursuant to subsection (1) and the insurance company does not carry on business in New Zealand—
+  (a) the premium shall be a debt due by the insured person to the Commission jointly and severally with the insurance company, and may be recovered by the Commission accordingly:
+  (b) if at any time before the debt is fully discharged any other person becomes an insured person under the contract of fire insurance, the amount remaining unpaid shall become a debt due by him or her to the Commission, without prejudice to the liability of any other person:
+  (c) where 2 or more persons are liable for any amount under this subsection their liability shall be joint and several.
 (4) Subject to any regulations made under this Act, the Commission may from time to time—
-  (a) Allow to insurance companies such discounts as the Commission thinks fit in respect of premiums payable by them under this section:
-  (b) Upon or subject to such conditions as the Commission thinks fit, release any insurance company wholly or partly from its liability in respect of any premium or part of a premium under this section which, in the opinion of the Commission, is irrecoverable by the insurance company from the insured person.
+  (a) allow to insurance companies such discounts as the Commission thinks fit in respect of premiums payable by them under this section:
+  (b) upon or subject to such conditions as the Commission thinks fit, release any insurance company wholly or partly from its liability in respect of any premium or part of a premium under this section which, in the opinion of the Commission, is irrecoverable by the insurance company from the insured person.
 
 ### 24 Payment of premiums by insurance companies
-(1) The amount of the premiums for which any insurance company becomes liable under section 23 of this Act in any month shall be paid by the company to the Commission within 2 months after the end of that month.
-(2) Each payment to the Commission under subsection (1) of this section shall be accompanied by a certificate by an officer or agent of the insurance company, stating that, according to the books of the company, and to the best of his or her knowledge and belief, the payment is correct.
+(1) The amount of the premiums for which any insurance company becomes liable under section 23 in any month shall be paid by the company to the Commission within 2 months after the end of that month.
+(2) Each payment to the Commission under subsection (1) shall be accompanied by a certificate by an officer or agent of the insurance company, stating that, according to the books of the company, and to the best of his or her knowledge and belief, the payment is correct.
 
 ### 25 Secrecy of information
-(1) The amount of every payment under section 24 of this Act, and all certificates under that section, and all information obtained, and all extracts made in order to verify the certificates, shall be kept secret by the Commission and by every commissioner and employee of the Commission.
-(2) Nothing in subsection (1) of this section shall prohibit—
-  (a) The publication of the amounts of premiums received, and cover provided, by the Commission during or in respect of any period in a manner which does not enable the premiums or amounts of cover attributable to a particular insurance company or companies to be identified; or
-  (b) The use of any of the information referred to in subsection (1) of this section for the purposes of this Act or any regulations made under this Act.
+(1) The amount of every payment under section 24, and all certificates under that section, and all information obtained, and all extracts made in order to verify the certificates, shall be kept secret by the Commission and by every commissioner and employee of the Commission.
+(2) Nothing in subsection (1) shall prohibit—
+  (a) the publication of the amounts of premiums received, and cover provided, by the Commission during or in respect of any period in a manner which does not enable the premiums or amounts of cover attributable to a particular insurance company or companies to be identified; or
+  (b) the use of any of the information referred to in subsection (1) for the purposes of this Act or any regulations made under this Act.
 
 ### 26 Insurance companies to keep records
 Every insurance company shall at all times keep in safe custody all records of contracts of fire insurance in respect of which it becomes liable to pay a premium under this Act, including full particulars of each contract, the amount of the premium, and the date of its payment to the Commission.
@@ -236,167 +236,167 @@ Every insurance company shall at all times keep in safe custody all records of c
 
 ### 27 Conditions of insurance in Schedule 3
 In addition to all other conditions imposed by this Act or by regulations made under this Act—
-  (a) The insurance of any residential building, residential land, or personal property under sections 18 to 20 of this Act shall be subject to the conditions set out in Schedule 3 to this Act; and
-  (b) The insurance of any residential building, residential land, or personal property under section 22 of this Act shall, except as otherwise provided in the contract of insurance under that section, be subject to the conditions set out in Schedule 3 to this Act.
+  (a) the insurance of any residential building, residential land, or personal property under sections 18 to 20 shall be subject to the conditions set out in Schedule 3; and
+  (b) the insurance of any residential building, residential land, or personal property under section 22 shall, except as otherwise provided in the contract of insurance under that section, be subject to the conditions set out in Schedule 3.
 
 ### 28 Certificates of certain events to be registered against land
 (1) If—the Commission shall forward a certificate to that effect to the appropriate District Land Registrar who shall, without fee, register it against the title to the land on which the residential building is or was situated or the residential land, as the case may be.
-  (a) The insurance of any residential building or residential land is cancelled under clause 4 of Schedule 3 to this Act; or
-  (b) The Commission issues a limitation of liability notice under subclause (1) or subclause (2) of clause 5 of Schedule 3 to this Act in respect of any residential building or residential land—
+  (a) the insurance of any residential building or residential land is cancelled under clause 4 of Schedule 3; or
+  (b) the Commission issues a limitation of liability notice under subclause (1) or subclause (2) of clause 5 of Schedule 3 in respect of any residential building or residential land—
 (2) Every such certificate shall set out—
-  (a) The description of the land; and
-  (b) A statement of the provisions of subsection (4) of this section.
+  (a) the description of the land; and
+  (b) a statement of the provisions of subsection (4).
 (3) The validity of a certificate under this section shall not be affected by any misdescription in it of the land concerned, if sufficient information appears on the face of the certificate for the District Land Registrar to identify the land.
-(4) The Commission shall, on written application by any person affected by any action of the Commission referred to in subsection (1) of this section, supply to that person reasons in writing for that action.
-(5) If the Commission is satisfied, pursuant to clause 4(3) or clause 5(5) of Schedule 3 to this Act, that a certificate given under this section is no longer applicable to any land against which the certificate is registered, the Commission shall give notice of discharge of the certificate to the District Land Registrar, and the District Land Registrar shall, without fee, note the discharge against the title to the land.
+(4) The Commission shall, on written application by any person affected by any action of the Commission referred to in subsection (1), supply to that person reasons in writing for that action.
+(5) If the Commission is satisfied, pursuant to clause 4(3) or clause 5(5) of Schedule 3, that a certificate given under this section is no longer applicable to any land against which the certificate is registered, the Commission shall give notice of discharge of the certificate to the District Land Registrar, and the District Land Registrar shall, without fee, note the discharge against the title to the land.
 (6) Every certificate or notice of discharge under this section shall be signed by the Commission or by some person authorised by the Commission for that purpose.
 
 ### 29 Settlement of claims
 (1) Subject to any regulations made under this Act—
-  (a) A claim may be made in respect of any insurance under this Act only by a person who has an insurable interest in the property concerned; and
-  (b) Without limiting section 31 of this Act, where more than one person has such an insurable interest, the Commission shall in settling any claim have due regard to the respective insurable interests.
-(2) Subject to any regulations made under this Act and, where a contract has been entered into under section 22 of this Act, to the provisions of that contract, if, during the period for which any property is insured under this Act, the property suffers natural disaster damage, the Commission shall settle any claim (by payment, replacement, or reinstatement, at the option of the Commission) to the extent to which it is liable under this Act.
-(3) Where any property is insured under this Act for its replacement value and the Commission is satisfied that goods and services tax has been paid or will be payable by an insured in the course of replacing or reinstating the property, the amount of any payment under subsection (2) of this section shall be increased by the amount of goods and services tax paid or payable by the insured.
+  (a) a claim may be made in respect of any insurance under this Act only by a person who has an insurable interest in the property concerned; and
+  (b) without limiting section 31, where more than 1 person has such an insurable interest, the Commission shall in settling any claim have due regard to the respective insurable interests.
+(2) Subject to any regulations made under this Act and, where a contract has been entered into under section 22, to the provisions of that contract, if, during the period for which any property is insured under this Act, the property suffers natural disaster damage, the Commission shall settle any claim (by payment, replacement, or reinstatement, at the option of the Commission) to the extent to which it is liable under this Act.
+(3) Where any property is insured under this Act for its replacement value and the Commission is satisfied that goods and services tax has been paid or will be payable by an insured in the course of replacing or reinstating the property, the amount of any payment under subsection (2) shall be increased by the amount of goods and services tax paid or payable by the insured.
 (4) Subject to any regulations made under this Act and without limiting the liability of the Commission under this Act, any payments or expenditure for which the Commission may be liable under this section shall be made as soon as reasonably practicable, and in any event not later than 1 year after the amount of the damage has been duly determined (which determination shall be made as soon as reasonably practicable).
 (5) The Commission may make ex gratia payments in respect of natural disaster damage to property that is not insured under this Act where a premium has been paid under this Act in respect of that property in the belief that the property was insured under this Act.
 
 ### 30 Insurance otherwise than under this Act
-(1) Where on the occurrence to any property of natural disaster damage against which it is insured under any of sections 18 to 20, or section 22, of this Act, the property is also insured against that damage under any contract or contracts made otherwise than under this Act, the insurance of the property under this Act (to the amount to which it is so insured) shall be deemed to be in respect of so much of that natural disaster damage as exceeds the sum of—
-  (a) The total amount payable under that contract or those contracts in respect of that natural disaster damage; and
-  (b) The proportion of the natural disaster damage to be borne by the insured person under the conditions applying to the insurance of the property under this Act.
-(2) Subsection (1) of this section shall not apply with respect to any contract of insurance made otherwise than under this Act to the extent that the contract provides for cover in excess of the amount to which cover is provided under this Act.
-(3) Notwithstanding anything to the contrary in any contract whereby any property is insured against natural disaster damage otherwise than under this Act, where the property is or has at any time also been insured against that natural disaster damage under any of sections 18 to 20, or section 22, of this Act, the contract shall have effect in all respects as if the property were not and had never been insured under this Act.
+(1) Where on the occurrence to any property of natural disaster damage against which it is insured under any of sections 18 to 20, or section 22, the property is also insured against that damage under any contract or contracts made otherwise than under this Act, the insurance of the property under this Act (to the amount to which it is so insured) shall be deemed to be in respect of so much of that natural disaster damage as exceeds the sum of—
+  (a) the total amount payable under that contract or those contracts in respect of that natural disaster damage; and
+  (b) the proportion of the natural disaster damage to be borne by the insured person under the conditions applying to the insurance of the property under this Act.
+(2) Subsection (1) shall not apply with respect to any contract of insurance made otherwise than under this Act to the extent that the contract provides for cover in excess of the amount to which cover is provided under this Act.
+(3) Notwithstanding anything to the contrary in any contract whereby any property is insured against natural disaster damage otherwise than under this Act, where the property is or has at any time also been insured against that natural disaster damage under any of sections 18 to 20, or section 22, the contract shall have effect in all respects as if the property were not and had never been insured under this Act.
 
 ### 31 Application of conditions in other documents
-Where there is expressed or implied in any mortgage, lease, instrument, or document, whether executed before or after the commencement of this Act, any covenant, condition, or power relating to the insurance against loss or damage by fire of any property to which any of sections 18 to 20, or section 22, of this Act applies, then, subject to any regulations made under this Act and to the provisions of any express agreement to the contrary, the covenant, condition, or power shall be deemed to be extended so as to apply, so far as is applicable and with the necessary modifications, with respect to the insurance of the property against natural disaster damage under this Act.
+Where there is expressed or implied in any mortgage, lease, instrument, or document, whether executed before or after the commencement of this Act, any covenant, condition, or power relating to the insurance against loss or damage by fire of any property to which any of sections 18 to 20, or section 22, applies, then, subject to any regulations made under this Act and to the provisions of any express agreement to the contrary, the covenant, condition, or power shall be deemed to be extended so as to apply, so far as is applicable and with the necessary modifications, with respect to the insurance of the property against natural disaster damage under this Act.
 
 ## Part 3 — Miscellaneous provisions
 
 ### 32 Power to inspect property, obtain information, and enter land
 (1) For the purpose of obtaining any information that may be reasonably required by the Commission for the purposes of this Act, any person specifically or generally authorised in writing in that behalf by the Commission may from time to time—
-  (a) Inspect and examine any property and any books, accounts, vouchers, records, or documents:
-  (b) Require any person to produce any books, accounts, vouchers, records, or documents in his or her possession or under his or her control, and allow copies of or extracts from any such books, accounts, vouchers, records, or documents to be made or taken:
-  (c) Require any person to furnish, in a form to be approved by or acceptable to the Commission, any information or particulars that may be required by the Commission:
-  (d) Subject to the provisions of sections 33 and 34 of this Act, at any reasonable time enter any land, building, or place.
+  (a) inspect and examine any property and any books, accounts, vouchers, records, or documents:
+  (b) require any person to produce any books, accounts, vouchers, records, or documents in his or her possession or under his or her control, and allow copies of or extracts from any such books, accounts, vouchers, records, or documents to be made or taken:
+  (c) require any person to furnish, in a form to be approved by or acceptable to the Commission, any information or particulars that may be required by the Commission:
+  (d) subject to the provisions of sections 33 and 34, at any reasonable time enter any land, building, or place.
 (2) Every such written authorisation shall contain—
-  (a) A reference to this section; and
-  (b) The full name of the authorised person; and
-  (c) A statement of the powers conferred on the authorised person by subsection (1) of this section; and
-  (d) The purpose for which those powers may be exercised.
-(3) Every person shall have the same privileges in relation to—under this section as witnesses have in Courts of law.
-  (a) The production to any authorised person of any books, accounts, vouchers, records, or documents; and
-  (b) The furnishing to any authorised person of any information or particulars; and
-  (c) The answering of questions put by any authorised person—
-(4) A person authorised by the Commission for the purposes of subsection (1) of this section shall not make a record of, divulge, or communicate to any person, any information acquired in exercising the powers conferred by that subsection except—
-  (a) To the Commission; or
-  (b) For the purposes of this Act; or
-  (c) For the purposes of any Court proceedings; or
-  (d) For such purposes as may be specified in any other Act.
+  (a) a reference to this section; and
+  (b) the full name of the authorised person; and
+  (c) a statement of the powers conferred on the authorised person by subsection (1); and
+  (d) the purpose for which those powers may be exercised.
+(3) Every person shall have the same privileges in relation to—under this section as witnesses have in courts of law.
+  (a) the production to any authorised person of any books, accounts, vouchers, records, or documents; and
+  (b) the furnishing to any authorised person of any information or particulars; and
+  (c) the answering of questions put by any authorised person—
+(4) A person authorised by the Commission for the purposes of subsection (1) shall not make a record of, divulge, or communicate to any person, any information acquired in exercising the powers conferred by that subsection except—
+  (a) to the Commission; or
+  (b) for the purposes of this Act; or
+  (c) for the purposes of any court proceedings; or
+  (d) for such purposes as may be specified in any other Act.
 
 ### 33 Provisions applying in respect of entry
-(1) If practicable, before a power of entry conferred by section 32 of this Act is exercised, an officer of the Commission or any person authorised on behalf of the Commission shall give to the occupier of the land, building, or place affected reasonable written or oral notice specifying—
-  (a) That entry on or into the land, building, or place is authorised under section 32 of this Act; and
-  (b) The purpose for which entry is required; and
-  (c) How and when entry is to be made.
-(2) If entry is made on or into any land, building, or place under section 32 of this Act without notice and the occupier is not present during the period of entry, written advice of the making of entry and of the purpose of entry shall be given to the occupier as soon as practicable after entry.
-(3) Every person exercising any power of entry under section 32 of this Act shall have with him or her the appropriate written authorisation, and evidence of his or her identity, and shall produce them to the occupier of the land, building, or place—
-  (a) If practicable, on first entering the land, building, or place; and
-  (b) Whenever subsequently reasonably required to do so by the occupier.
+(1) If practicable, before a power of entry conferred by section 32 is exercised, an officer of the Commission or any person authorised on behalf of the Commission shall give to the occupier of the land, building, or place affected reasonable written or oral notice specifying—
+  (a) that entry on or into the land, building, or place is authorised under section 32; and
+  (b) the purpose for which entry is required; and
+  (c) how and when entry is to be made.
+(2) If entry is made on or into any land, building, or place under section 32 without notice and the occupier is not present during the period of entry, written advice of the making of entry and of the purpose of entry shall be given to the occupier as soon as practicable after entry.
+(3) Every person exercising any power of entry under section 32 shall have with him or her the appropriate written authorisation, and evidence of his or her identity, and shall produce them to the occupier of the land, building, or place—
+  (a) if practicable, on first entering the land, building, or place; and
+  (b) whenever subsequently reasonably required to do so by the occupier.
 
 ### 34 Power to issue warrant authorising entry
-(1) If entry on or into any land, building, or place under section 32 of this Act is required for the purpose of ascertaining whether an offence against this Act has been committed, the authorised person shall make an application in writing on oath to a District Court Judge, Justice of the Peace, Community Magistrate, or Registrar or Deputy Registrar of any Court who, if he or she has reason to believe that entry is necessary for that purpose, may issue a warrant directed to the authorised person by name authorising him or her to enter the land, building, or place; and in any such case the provisions of section 33 of this Act shall not apply.
+(1) If entry on or into any land, building, or place under section 32 is required for the purpose of ascertaining whether an offence against this Act has been committed, the authorised person shall make an application in writing on oath to a District Court Judge, Justice of the Peace, Community Magistrate, or Registrar or Deputy Registrar of any court who, if he or she has reason to believe that entry is necessary for that purpose, may issue a warrant directed to the authorised person by name authorising him or her to enter the land, building, or place; and in any such case the provisions of section 33 shall not apply.
 (2) A person who applies for a warrant under this section shall, having made reasonable inquiries, disclose in the application—
-  (a) Details of every previous application, made in the immediately preceding period of 28 days, for a warrant to search the land, building, or place specified in the application; and
-  (b) The result of each such previous application; and
-  (c) Details of the offence suspected.
+  (a) details of every previous application, made in the immediately preceding period of 28 days, for a warrant to search the land, building, or place specified in the application; and
+  (b) the result of each such previous application; and
+  (c) details of the offence suspected.
 (3) Every warrant issued under this section shall contain—
-  (a) A reference to this section; and
-  (b) The full name of the person authorised to enter; and
-  (c) A description of the land, building, or place in respect of which it was issued; and
-  (d) The date on which it was issued and the date on which it expires.
+  (a) a reference to this section; and
+  (b) the full name of the person authorised to enter; and
+  (c) a description of the land, building, or place in respect of which it was issued; and
+  (d) the date on which it was issued and the date on which it expires.
 (4) Every warrant issued under this section shall authorise the person named in it, at any reasonable time within 4 weeks after the date on which it is issued, to enter the land, building, or place described in the warrant and to do on or in the land, building, or place all such things as are necessary to ascertain whether an offence against this Act has been committed.
-(5) Every person exercising any power under subsection (4) of this section shall have with him or her the appropriate warrant, and evidence of his or her identity, and shall produce them to the occupier of the land, building, or place—
-  (a) If practicable, on first entering the land, building, or place; and
-  (b) Whenever subsequently reasonably required to do so by the occupier.
+(5) Every person exercising any power under subsection (4) shall have with him or her the appropriate warrant, and evidence of his or her identity, and shall produce them to the occupier of the land, building, or place—
+  (a) if practicable, on first entering the land, building, or place; and
+  (b) whenever subsequently reasonably required to do so by the occupier.
 (6) Every such warrant shall be executed in accordance with such reasonable conditions as may be specified in the warrant when it is issued.
 
 ### 35 Offences
 (1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $2,000 who—
-  (a) Intentionally makes any statement that is both incorrect and material in any information or particulars furnished (whether in writing or not) under section 32 of this Act or under any regulations in force under this Act; or
-  (b) Intentionally makes any material omission from any information or particulars so furnished; or
-  (c) Intentionally destroys or mutilates or renders illegible any entry in any record, book, or account required to be kept under or for the purposes of this Act or any regulations in force under this Act, or wilfully makes a false or fraudulent entry in or omission from any such record, book, or account.
+  (a) intentionally makes any statement that is both incorrect and material in any information or particulars furnished (whether in writing or not) under section 32 or under any regulations in force under this Act; or
+  (b) intentionally makes any material omission from any information or particulars so furnished; or
+  (c) intentionally destroys or mutilates or renders illegible any entry in any record, book, or account required to be kept under or for the purposes of this Act or any regulations in force under this Act, or wilfully makes a false or fraudulent entry in or omission from any such record, book, or account.
 (2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 and, if the offence is a continuing one, to a further fine not exceeding $100 for every day or part of a day during which the offence has continued who—
-  (a) Resists, obstructs, deceives, or attempts to deceive, any person who is exercising or attempting to exercise any power or function under section 32 or section 34 of this Act; or
-  (b) Without lawful excuse, fails to comply in any respect with any requirement under section 32 of this Act; or
-  (c) Without lawful excuse, acts in contravention of or fails to comply with either of sections 25 and 26 of this Act.
+  (a) resists, obstructs, deceives, or attempts to deceive, any person who is exercising or attempting to exercise any power or function under section 32 or section 34; or
+  (b) without lawful excuse, fails to comply in any respect with any requirement under section 32; or
+  (c) without lawful excuse, acts in contravention of or fails to comply with either of sections 25 and 26.
 (3) Any offence against this section committed by any employee or agent in the course of employment or agency shall be deemed to have been also committed by his or her employer or principal if it is proved that the act or omission constituting the offence occurred with the employer's or principal's authority, permission, or consent.
 
 ### 36 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) Specifying any kind of property for the purposes of section 21(1)(b) of this Act or exempting any class of residential buildings, residential land, or personal property from any or all of the provisions of this Act:
-  (b) Prescribing conditions (being contemplated by or additional to those specified in, and not inconsistent with, this Act) upon or subject to which any residential buildings, residential land, or personal property, or class of residential building, residential land, or personal property, are insured under any or all of sections 18 to 20 and 22 of this Act:
-  (c) Prescribing the rates of premiums payable under this Act; and different rates may be prescribed in different cases or classes of cases:
-  (d) Empowering the Commission to determine the method of calculation of premiums payable under this Act, but so that any such determination is subject to any regulation prescribing the rates of premiums:
-  (e) Providing for the apportionment of premiums payable under this Act among persons interested in any residential buildings, residential land, or personal property or class of residential buildings, residential land, or personal property, and for the partial indemnity of insured persons against their liability for premiums by persons so interested:
-  (f) Providing for the destination and apportionment of money payable by the Commission in settlement of claims:
-  (g) Providing for and regulating the collection, receipt, and payment of money under this Act:
-  (h) Requiring insurance companies to make returns and to keep books and accounts for the purposes of this Act:
-  (i) Providing for the audit and investigation of records, books, and accounts required to be kept by this Act or by regulations in force under this Act:
-  (j) Prescribing, or making provision for the Commission to prescribe or provide, forms for the purposes of this Act:
-  (k) Authorising the payment of money from the Fund:
-  (l) Prescribing offences in respect of the contravention of or non-compliance with any regulations in force under this Act, and the amounts of fines that may be imposed in respect of any such offences, which fines shall be an amount not exceeding $500:
-  (m) Providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
-(2) Subject to subsection (3) of this section, the Governor-General may from time to time, by Order in Council, in accordance with the recommendation of the Minister, make regulations which deem any class of premises to be, or not to be, a dwelling for the purposes of this Act.
-(3) The Minister shall not make a recommendation under subsection (2) of this section in relation to any class of premises unless the Commission has advised the Minister that doubts have arisen as to whether that class of premises is a dwelling for the purposes of this Act and that an Order in Council is desirable to clarify the matter.
+  (a) specifying any kind of property for the purposes of section 21(1)(b) or exempting any class of residential buildings, residential land, or personal property from any or all of the provisions of this Act:
+  (b) prescribing conditions (being contemplated by or additional to those specified in, and not inconsistent with, this Act) upon or subject to which any residential buildings, residential land, or personal property, or class of residential building, residential land, or personal property, are insured under any or all of sections 18 to 20 and 22:
+  (c) prescribing the rates of premiums payable under this Act; and different rates may be prescribed in different cases or classes of cases:
+  (d) empowering the Commission to determine the method of calculation of premiums payable under this Act, but so that any such determination is subject to any regulation prescribing the rates of premiums:
+  (e) providing for the apportionment of premiums payable under this Act among persons interested in any residential buildings, residential land, or personal property or class of residential buildings, residential land, or personal property, and for the partial indemnity of insured persons against their liability for premiums by persons so interested:
+  (f) providing for the destination and apportionment of money payable by the Commission in settlement of claims:
+  (g) providing for and regulating the collection, receipt, and payment of money under this Act:
+  (h) requiring insurance companies to make returns and to keep books and accounts for the purposes of this Act:
+  (i) providing for the audit and investigation of records, books, and accounts required to be kept by this Act or by regulations in force under this Act:
+  (j) prescribing, or making provision for the Commission to prescribe or provide, forms for the purposes of this Act:
+  (k) authorising the payment of money from the Fund:
+  (l) prescribing offences in respect of the contravention of or non-compliance with any regulations in force under this Act, and the amounts of fines that may be imposed in respect of any such offences, which fines shall be an amount not exceeding $500:
+  (m) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
+(2) Subject to subsection (3), the Governor-General may from time to time, by Order in Council, in accordance with the recommendation of the Minister, make regulations which deem any class of premises to be, or not to be, a dwelling for the purposes of this Act.
+(3) The Minister shall not make a recommendation under subsection (2) in relation to any class of premises unless the Commission has advised the Minister that doubts have arisen as to whether that class of premises is a dwelling for the purposes of this Act and that an Order in Council is desirable to clarify the matter.
 
 ### 37 Transitional provisions relating to staff
 (1) Every person employed by the Commission immediately before the commencement of this Act shall, on the commencement of this Act, be deemed to have been appointed as an employee of the reconstituted Commission on the same terms and conditions of employment (including those relating to salaries and allowances) as applied in respect of that person immediately before such commencement.
-(2) Any person who, immediately before the commencement of this Act, was an officer or employee of the Commission and was a contributor to the Government Superannuation Fund Act 1956 shall be deemed, for the purposes of the Government Superannuation Fund Act 1956, to be employed in the Government service so long as that person continues in the service of the reconstituted Commission; and the Government Superannuation Fund Act 1956 shall apply to that person in all respects as if the service with the reconstituted Commission were Government Service.
-(3) Subject to the Government Superannuation Fund Act 1956, nothing in subsection (2) of this section shall entitle any such person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
-(4) For the purposes of applying the Government Superannuation Fund Act 1956, in accordance with subsection (2) of this section, to a person who is in the service of the reconstituted Commission and is a contributor to the Government Superannuation Fund the term controlling authority, in relation to that person, means the reconstituted Commission.
+(2) Any person who, immediately before the commencement of this Act, was an officer or employee of the Commission and was a contributor to the Government Superannuation Fund Act 1956 shall be deemed, for the purposes of the Government Superannuation Fund Act 1956, to be employed in the Government service so long as that person continues in the service of the reconstituted Commission; and the Government Superannuation Fund Act 1956 shall apply to that person in all respects as if the service with the reconstituted Commission were Government service.
+(3) Subject to the Government Superannuation Fund Act 1956, nothing in subsection (2) shall entitle any such person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
+(4) For the purposes of applying the Government Superannuation Fund Act 1956, in accordance with subsection (2), to a person who is in the service of the reconstituted Commission and is a contributor to the Government Superannuation Fund the term controlling authority, in relation to that person, means the reconstituted Commission.
 
 ### 38 Amendment to Ombudsmen Act 1975
 [Repealed]
 
 ### 39 Repeals and revocations
-(1) The enactments specified in Part 1 of Schedule 4 to this Act are hereby repealed.
-(2) The regulations specified in Part 2 of Schedule 4 to this Act are hereby revoked.
+(1) The enactments specified in Part 1 of Schedule 4 are hereby repealed.
+(2) The regulations specified in Part 2 of Schedule 4 are hereby revoked.
 
 ### 40 Temporary continuation of existing earthquake and war damage cover
-(1) All property which was insured under or by virtue of section 14 of the Earthquake and War Damage Act 1944 and any regulations in force under that Act, immediately before the commencement of this Act, shall continue to be insured in accordance with the provisions of that Act and those regulations, as if that Act and those regulations had not been repealed and revoked, until the expiry of the policy of fire insurance by virtue of which the said section 14 applied to the property or the close of the 31st day of December 1994, whichever is the earlier.
-(2) Every contract of insurance entered into under section 15 of the Earthquake and War Damage Act 1944 and in force on the commencement of this Act shall continue in force, as if that Act and the regulations in force under that Act had not been repealed and revoked, until the contract expires or until the close of the 31st day of December 1994, whichever is the earlier.
+(1) All property which was insured under or by virtue of section 14 of the Earthquake and War Damage Act 1944 and any regulations in force under that Act, immediately before the commencement of this Act, shall continue to be insured in accordance with the provisions of that Act and those regulations, as if that Act and those regulations had not been repealed and revoked, until the expiry of the policy of fire insurance by virtue of which the said section 14 applied to the property or the close of 31 December 1994, whichever is the earlier.
+(2) Every contract of insurance entered into under section 15 of the Earthquake and War Damage Act 1944 and in force on the commencement of this Act shall continue in force, as if that Act and the regulations in force under that Act had not been repealed and revoked, until the contract expires or until the close of 31 December 1994, whichever is the earlier.
 
 ## Part 4 — Transitional provisions in respect of non-residential property
 
 ### 41 Insurance of non-residential property
 (1) Any person who—may apply to the Commission for the insurance against natural disaster damage of that property and, if the property is a building, of any associated land; and the Commission may agree to insure the property and any associated land under and in accordance with this section for a period not extending beyond the term of the contract of fire insurance.
-  (a) Has an insurable interest in any property that is not a residential building, personal property, or land (in this section called non-residential property); and
-  (b) Enters into, or obtains an assignment of, a contract of fire insurance in respect of that property—
-(2) No contract of natural disaster insurance entered into by the Commission under this section shall provide for cover exceeding 75 percent of the indemnity value of the property insured.
-(3) No contract of natural disaster insurance entered into by the Commission under this section shall provide for cover exceeding 50 percent of the indemnity value of the property insured after—whichever is the earlier.
-  (a) The 31st day of December 1994; or
-  (b) The date on which any contract of fire insurance in respect of that property entered into on or after the 1st day of January 1993 but before the 1st day of January 1994 expires or ceases to apply to the property—
-(4) No contract of natural disaster insurance entered into by the Commission under this section shall provide for cover exceeding 25 percent of the indemnity value of the property insured after—whichever is the earlier.
-  (a) The 31st day of December 1995; or
-  (b) The date on which any contract of fire insurance in respect of that property entered into on or after the 1st day of January 1994 but before the 1st day of January 1995 expires or ceases to apply to the property—
+  (a) has an insurable interest in any property that is not a residential building, personal property, or land (in this section called non-residential property); and
+  (b) enters into, or obtains an assignment of, a contract of fire insurance in respect of that property—
+(2) No contract of natural disaster insurance entered into by the Commission under this section shall provide for cover exceeding 75% of the indemnity value of the property insured.
+(3) No contract of natural disaster insurance entered into by the Commission under this section shall provide for cover exceeding 50% of the indemnity value of the property insured after—whichever is the earlier.
+  (a) 31 December 1994; or
+  (b) the date on which any contract of fire insurance in respect of that property entered into on or after 1 January 1993 but before 1 January 1994 expires or ceases to apply to the property—
+(4) No contract of natural disaster insurance entered into by the Commission under this section shall provide for cover exceeding 25% of the indemnity value of the property insured after—whichever is the earlier.
+  (a) 31 December 1995; or
+  (b) the date on which any contract of fire insurance in respect of that property entered into on or after 1 January 1994 but before 1 January 1995 expires or ceases to apply to the property—
 (5) Nothing in this section shall require any person to insure any non-residential property against natural disaster damage.
-(6) Subject to subsections (2) to (4) of this section, the Commission, in its discretion, shall determine the terms and conditions applicable to any contract of natural disaster insurance entered into under this section, including the period of cover and the premium payable.
+(6) Subject to subsections (2) to (4), the Commission, in its discretion, shall determine the terms and conditions applicable to any contract of natural disaster insurance entered into under this section, including the period of cover and the premium payable.
 (7) The Commission shall not—
-  (a) Accept any application for insurance made under this section after the 31st day of December 1995:
-  (b) Enter into any contract of insurance under this section which extends beyond the 31st day of December 1996.
+  (a) accept any application for insurance made under this section after 31 December 1995:
+  (b) enter into any contract of insurance under this section which extends beyond 31 December 1996.
 (8) Nothing in this Act shall prevent any person from entering into a contract of insurance with an insurance company that is limited to an excess over the value of the property already insured by the Commission.
 (9) For the purposes of this section, associated land means, in relation to any building, the following property situated within the land holding on which the building is lawfully situated:
-  (a) The land on which the building is situated; and
-  (b) All land within 8 metres in a horizontal line of the building; and
-  (c) That part of the land holding which—
-    (i) Is within 60 metres, in a horizontal line, of the building; and
-    (ii) Constitutes the main access way or part of the main access way to the building from the boundary of the land holding or is land supporting such access way or part; and
-  (d) All bridges and culverts situated within any area specified in paragraphs (a) to (c) of this subsection; and
-  (e) All retaining walls and their support systems within 60 metres, in a horizontal line, of the building which are necessary for the support or protection of any property referred to in any of paragraphs (a) to (c) of this subsection.
+  (a) the land on which the building is situated; and
+  (b) all land within 8 metres in a horizontal line of the building; and
+  (c) that part of the land holding which—
+    (i) is within 60 metres, in a horizontal line, of the building; and
+    (ii) constitutes the main access way or part of the main access way to the building from the boundary of the land holding or is land supporting such access way or part; and
+  (d) all bridges and culverts situated within any area specified in paragraphs (a) to (c); and
+  (e) all retaining walls and their support systems within 60 metres, in a horizontal line, of the building which are necessary for the support or protection of any property referred to in any of paragraphs (a) to (c).
 
-## Schedule 1 — Provisions relating to Board
+## Schedule 1 — Provisions relating to board
 
-### 1 Constitution of Board
+### 1 Constitution of board
 [Repealed]
 
 ### 2 Chairperson and deputy chairperson
@@ -408,7 +408,7 @@ Where there is expressed or implied in any mortgage, lease, instrument, or docum
 ### 4 Extraordinary vacancies
 [Repealed]
 
-### 5 Meetings of Board
+### 5 Meetings of board
 [Repealed]
 
 ### 6 Commissioners to disclose interest
@@ -477,17 +477,17 @@ Any animals, including livestock and pets.
 Any road, street, drive, path, bridge, or culvert other than a gangway, ladder, access platform, or other form of access, constructed in a residential building or being an integral part of a residential building.
 
 ### 11
-Any drain, channel, tunnel, or cutting, unless used to connect parts of one or more residential buildings.
+Any drain, channel, tunnel, or cutting, unless used to connect parts of 1 or more residential buildings.
 
 ### 12
 Any dam, breakwater, mole, groyne, fence, pole, or wall that does not constitute an integral part of a residential building.
 
 ### 13
 Any reservoir, swimming pool, bath, spa pool, tank, or water tower, other than—
-  (a) A reservoir, swimming pool, bath, spa pool, tank, or water tower that constitutes an integral part of, and that is within, a residential building; or
-  (b) A reservoir or tank used in a residential building as a storage vessel for any liquid product; or
-  (c) A water tank forming part of the water supply to a residential building; or
-  (d) A septic tank.
+(a) a reservoir, swimming pool, bath, spa pool, tank, or water tower that constitutes an integral part of, and that is within, a residential building; or
+(b) a reservoir or tank used in a residential building as a storage vessel for any liquid product; or
+(c) a water tank forming part of the water supply to a residential building; or
+(d) a septic tank.
 
 ### 14
 Any tennis court, whether inside or outside and whether lawn or not.
@@ -504,7 +504,7 @@ Any jewellery, precious stones, money, works of art, securities, documents, or s
 ## Schedule 3 — Conditions applying to insurance under this Act
 
 ### 1 Excess
-In respect of any natural disaster damage to any one property occurring during any period of—the Commission shall not be liable to pay or contribute more than the amount by which the amount payable under section 29 of this Act in respect of the natural disaster damage exceeds the excess specified in regulations made under this Act.
+In respect of any natural disaster damage to any one property occurring during any period of—the Commission shall not be liable to pay or contribute more than the amount by which the amount payable under section 29 in respect of the natural disaster damage exceeds the excess specified in regulations made under this Act.
   (a) 48 consecutive hours as the direct result of a natural disaster other than natural disaster fire; or
   (b) 7 consecutive days as the result of natural disaster fire—
 
@@ -513,88 +513,88 @@ No insurance under this Act covers any consequential loss (including loss by the
 
 ### 3 Circumstances where Commission may decline claim
 The Commission may decline (or meet part only of) a claim made under any insurance of any property under this Act where—
-  (a) The natural disaster damage to which the claim relates was caused or exacerbated by earlier natural disaster damage for which the Commission made payment and that payment was not used to repair the property; or
-  (b) The insured person has failed to comply with any law or bylaw, or any requirement pursuant to any law or bylaw, and that failure has caused or exacerbated the natural disaster damage; or
-  (c) In the case of any property of a kind referred to in—the property was not constructed in accordance with standards considered appropriate for that property at the time of construction, and the failure to meet those standards has caused or exacerbated the natural disaster damage; or
-    (i) Paragraph (c) or paragraph (d) of the definition of the term residential building in section 2(1) of this Act; or
-    (ii) Paragraph (d) or paragraph (e) of the definition of the term residential land in section 2(1) of this Act—
-  (d) The certificate of title for the land comprising the property, or on which the property is situated, contains an entry under section 36(2) of the Building Act 1991 or an entry under section 74 of the Building Act 2004; or
-  (e) There is or has been on the part of the insured person (whether to the Commission or its agents or to the insurance company concerned)—
-    (i) Any wilful and material misdescription of any of the property, or of any building or land in or on which the property is situated; or
-    (ii) Any misrepresentation as to any matter material for the purpose of estimating the value of the property; or
-  (f) The claim is in any respect fraudulent; or
-  (g) The natural disaster damage is caused or contributed to by the wilful act or negligence of the insured person, or of any previous owner or occupier of the property where the insured person was aware of that wilful act or negligence at the time the insured person acquired the property.
+  (a) the natural disaster damage to which the claim relates was caused or exacerbated by earlier natural disaster damage for which the Commission made payment and that payment was not used to repair the property; or
+  (b) the insured person has failed to comply with any law or bylaw, or any requirement pursuant to any law or bylaw, and that failure has caused or exacerbated the natural disaster damage; or
+  (c) in the case of any property of a kind referred to in—the property was not constructed in accordance with standards considered appropriate for that property at the time of construction, and the failure to meet those standards has caused or exacerbated the natural disaster damage; or
+    (i) paragraph (c) or paragraph (d) of the definition of the term residential building in section 2(1); or
+    (ii) paragraph (d) or paragraph (e) of the definition of the term residential land in section 2(1)—
+  (d) the certificate of title for the land comprising the property, or on which the property is situated, contains an entry under section 36(2) of the Building Act 1991 or an entry under section 74 of the Building Act 2004; or
+  (e) there is or has been on the part of the insured person (whether to the Commission or its agents or to the insurance company concerned)—
+    (i) any wilful and material misdescription of any of the property, or of any building or land in or on which the property is situated; or
+    (ii) any misrepresentation as to any matter material for the purpose of estimating the value of the property; or
+  (f) the claim is in any respect fraudulent; or
+  (g) the natural disaster damage is caused or contributed to by the wilful act or negligence of the insured person, or of any previous owner or occupier of the property where the insured person was aware of that wilful act or negligence at the time the insured person acquired the property.
 
 ### 4 Cancellation of insurance in certain circumstances
 (1) Where—the Commission may cancel the insurance under this Act by giving written notice to the insured person of such cancellation.
-  (a) The Commission settles a claim in respect of any property by payment of the full amount to which that property is insured under this Act; and
-  (b) The property in respect of which the claim is settled is neither replaced nor reinstated to the satisfaction of the Commission—
-(2) Subject to subclause (3) of this clause, every cancellation under subclause (1) of this clause shall remain in force notwithstanding—
-  (a) The subsequent renewal of the contract of fire insurance relating to the property, or (if the property is residential land) to the building situated on the land, as the case may be; or
-  (b) The subsequent issue of a new contract of fire insurance covering that property or building; or
-  (c) A subsequent change in the person in whom is vested any insurable interest in that property or building.
-(3) Where the Commission has cancelled any insurance under subclause (1) of this clause in respect of any property, the Commission may reinstate the insurance if—
-  (a) It receives written application for the reinstatement by any person affected by the cancellation; and
-  (b) It considers that the cancellation should no longer apply.
+  (a) the Commission settles a claim in respect of any property by payment of the full amount to which that property is insured under this Act; and
+  (b) the property in respect of which the claim is settled is neither replaced nor reinstated to the satisfaction of the Commission—
+(2) Subject to subclause (3), every cancellation under subclause (1) shall remain in force notwithstanding—
+  (a) the subsequent renewal of the contract of fire insurance relating to the property, or (if the property is residential land) to the building situated on the land, as the case may be; or
+  (b) the subsequent issue of a new contract of fire insurance covering that property or building; or
+  (c) a subsequent change in the person in whom is vested any insurable interest in that property or building.
+(3) Where the Commission has cancelled any insurance under subclause (1) in respect of any property, the Commission may reinstate the insurance if—
+  (a) it receives written application for the reinstatement by any person affected by the cancellation; and
+  (b) it considers that the cancellation should no longer apply.
 
 ### 5 Commission may limit its liability in certain circumstances
 (1) Where the Commission considers that any property is in imminent danger of suffering natural disaster damage, the Commission may, by written notice to the insured person, limit its liability for any such damage occurring after the time of receipt of the notice by the insured person to the amount for which the property is insured under this Act at that time.
 (2) Where—the Commission may give notice to the insured person to the effect that it may decline any further claim for any such loss or damage.
-  (a) Any natural disaster damage has occurred to—
-    (i) Any residential building, residential land, or personal property as the direct result of a natural landslip; or
-    (ii) Any residential land as the direct result of a storm or flood; and
-  (b) The Commission considers that—
-    (i) The property or any part of the property is likely to suffer the same, or substantially the same, loss or damage again; and
-    (ii) The likelihood of such loss or damage could reasonably be or have been avoided—
-(3) Where the Commission gives notice under subclause (2) of this clause, it may decline any claim in respect of any such loss or damage occurring after the date on which the notice is received by the insured person.
-(4) Subject to subclause (5) of this clause, every limitation of liability under subclause (1) or subclause (2) of this clause shall remain in force notwithstanding—
-  (a) The subsequent renewal of the contract of fire insurance relating to the property, or (if the property is residential land) to the building situated on the land, as the case may be; or
-  (b) The subsequent issue of a new contract of fire insurance covering that property; or
-  (c) A subsequent change in the person in whom is vested any insurable interest in the property.
-(5) Where the Commission has limited its liability under subclause (1) or subclause (2) of this clause in respect of any property, the Commission may remove the limitation if—
-  (a) It receives written application for removal of the limitation by any person affected by the limitation; and
-  (b) It considers that the limitation should no longer apply.
+  (a) any natural disaster damage has occurred to—
+    (i) any residential building, residential land, or personal property as the direct result of a natural landslip; or
+    (ii) any residential land as the direct result of a storm or flood; and
+  (b) the Commission considers that—
+    (i) the property or any part of the property is likely to suffer the same, or substantially the same, loss or damage again; and
+    (ii) the likelihood of such loss or damage could reasonably be or have been avoided—
+(3) Where the Commission gives notice under subclause (2), it may decline any claim in respect of any such loss or damage occurring after the date on which the notice is received by the insured person.
+(4) Subject to subclause (5), every limitation of liability under subclause (1) or subclause (2) shall remain in force notwithstanding—
+  (a) the subsequent renewal of the contract of fire insurance relating to the property, or (if the property is residential land) to the building situated on the land, as the case may be; or
+  (b) the subsequent issue of a new contract of fire insurance covering that property; or
+  (c) a subsequent change in the person in whom is vested any insurable interest in the property.
+(5) Where the Commission has limited its liability under subclause (1) or subclause (2) in respect of any property, the Commission may remove the limitation if—
+  (a) it receives written application for removal of the limitation by any person affected by the limitation; and
+  (b) it considers that the limitation should no longer apply.
 
 ### 6 Reinstatement of insurance on payment of claim
-Subject to clauses 4 and 5 of this Schedule, on the payment by the Commission of any amount for any natural disaster damage to any property, the insurance under this Act shall continue to the same extent as before the natural disaster damage occurred, but the Commission shall be entitled to charge the insured person (or deduct from that payment) for the continuation of the insurance an amount calculated in accordance with regulations made under this Act.
+Subject to clauses 4 and 5, on the payment by the Commission of any amount for any natural disaster damage to any property, the insurance under this Act shall continue to the same extent as before the natural disaster damage occurred, but the Commission shall be entitled to charge the insured person (or deduct from that payment) for the continuation of the insurance an amount calculated in accordance with regulations made under this Act.
 
 ### 7 Reporting of claims
 (1) On the occurrence of any natural disaster damage to any property insured under this Act, the insured person shall at his or her own expense—
-  (a) Within 30 days (or such longer time as may be prescribed by regulations made under this Act) give notice thereof, either orally or in writing, to the Commission; and
-  (b) As soon as practicable deliver to the Commission—
-    (i) A claim in writing for the natural disaster damage, including, in particular, such account as is reasonably practicable of all property lost or damaged, and of the respective amounts claimed in respect of each such item of property, having regard to their value at the time of the natural disaster damage; and
-    (ii) Particulars in writing of all other insurances covering that property (if any).
-(2) Notwithstanding subclause (1) of this clause, if natural disaster damage is not immediately apparent, or if the insured person is unable by his or her absence or incapacity, or by other disability suffered by him or her and proved to the satisfaction of the Commission, to give notice, or deliver a claim to the Commission, at or within the required time, it shall be sufficient compliance with this clause for notice to be given to the Commission as soon as the natural disaster damage is apparent or the insured person is able to do so, so long as the notice is given within 3 months (or such longer time as may be prescribed by regulations made under this Act) after the natural disaster damage has taken place, and the Commission is not prejudiced by the lapse of time.
+  (a) within 30 days (or such longer time as may be prescribed by regulations made under this Act) give notice thereof, either orally or in writing, to the Commission; and
+  (b) as soon as practicable deliver to the Commission—
+    (i) a claim in writing for the natural disaster damage, including, in particular, such account as is reasonably practicable of all property lost or damaged, and of the respective amounts claimed in respect of each such item of property, having regard to their value at the time of the natural disaster damage; and
+    (ii) particulars in writing of all other insurances covering that property (if any).
+(2) Notwithstanding subclause (1), if natural disaster damage is not immediately apparent, or if the insured person is unable by his or her absence or incapacity, or by other disability suffered by him or her and proved to the satisfaction of the Commission, to give notice, or deliver a claim to the Commission, at or within the required time, it shall be sufficient compliance with this clause for notice to be given to the Commission as soon as the natural disaster damage is apparent or the insured person is able to do so, so long as the notice is given within 3 months (or such longer time as may be prescribed by regulations made under this Act) after the natural disaster damage has taken place, and the Commission is not prejudiced by the lapse of time.
 (3) The insured person shall, at his or her own expense, give to the Commission—which relate to a claim and the origin and cause of the natural disaster damage, and the circumstances under which the damage occurred, as may be reasonably required by the Commission.
-  (a) Such particulars, plans, specifications, books, vouchers, invoices, duplicates, or copies thereof; and
-  (b) Such documents, proof, and information—
+  (a) such particulars, plans, specifications, books, vouchers, invoices, duplicates, or copies thereof; and
+  (b) such documents, proof, and information—
 (4) The insured person shall, at the request of the Commission, provide a statutory declaration of the truth of a claim and of any matter connected with it.
 (5) The Commission may appoint any person as its agent to receive any notices under this clause and to inquire into claims, but no settlement may be effected without the authority of the Commission. All expenses incurred by any such agent, with the approval of the Commission, shall be payable by the Commission.
 
 ### 8 Rights of Commission as to salvage
 (1) On the occurrence of any natural disaster damage to any property insured under this Act, the Commission or its agent may—
-  (a) Enter and take possession of the land or building or dwelling where the natural disaster damage occurred; or
-  (b) Take possession of or require to be delivered to it any of the property; or
-  (c) Keep possession of the property and examine, sort, arrange, remove, or otherwise deal with it; or
-  (d) Where the property is a residential building, or land insured in connection with that building, move the building to another site; or
-  (e) Sell or otherwise dispose of the property.
-(2) The powers conferred by subclause (1) of this clause may be exercised at any time until notice is given to the Commission by the insured person in writing that he or she makes no claim or, if any claim is made, until the claim is finally determined or withdrawn.
-(3) The Commission shall not by any act done in the exercise or purported exercise of its powers under subclause (1) of this clause incur any liability to the insured person or diminish its right to rely on any of the conditions of the insurance in answer to any claim.
+  (a) enter and take possession of the land or building or dwelling where the natural disaster damage occurred; or
+  (b) take possession of or require to be delivered to it any of the property; or
+  (c) keep possession of the property and examine, sort, arrange, remove, or otherwise deal with it; or
+  (d) where the property is a residential building, or land insured in connection with that building, move the building to another site; or
+  (e) sell or otherwise dispose of the property.
+(2) The powers conferred by subclause (1) may be exercised at any time until notice is given to the Commission by the insured person in writing that he or she makes no claim or, if any claim is made, until the claim is finally determined or withdrawn.
+(3) The Commission shall not by any act done in the exercise or purported exercise of its powers under subclause (1) incur any liability to the insured person or diminish its right to rely on any of the conditions of the insurance in answer to any claim.
 (4) If the insured person or any person on his or her behalf does not comply with the requirements of the Commission, or hinders or obstructs the Commission in the exercise of its powers, under this clause, the Commission may decline any claim made under the insurance under this Act.
 (5) The insured person shall not in any case be entitled to abandon any property to the Commission, whether or not possession of it is taken by the Commission.
 
 ### 9 Replacement of property
 (1) The Commission may at its option replace or reinstate any property that suffers natural disaster damage, or any part thereof, instead of paying the amount of the damage, but—
-  (a) The Commission shall not be bound to replace or reinstate exactly or completely, but only as circumstances permit and in a reasonably sufficient manner; and
-  (b) To the extent that the damage is to residential land and consists of or results from ground-forming materials or other debris on the land (including as a consequence of a natural landslip), the Commission shall not be bound to replace or reinstate other than by removal of the debris.
+  (a) the Commission shall not be bound to replace or reinstate exactly or completely, but only as circumstances permit and in a reasonably sufficient manner; and
+  (b) to the extent that the damage is to residential land and consists of or results from ground-forming materials or other debris on the land (including as a consequence of a natural landslip), the Commission shall not be bound to replace or reinstate other than by removal of the debris.
 (2) If the Commission elects to replace or reinstate any property or wishes to consider whether it shall so elect, the insured person shall furnish the Commission with such plans, specifications, measurements, quantities, and other particulars as the Commission may require. No acts done or caused to be done by the Commission with a view to replacement or reinstatement shall be deemed to be an election by the Commission to replace or reinstate.
 
 ### 10 Relocation of building
 (1) Instead of paying the amount of any natural disaster damage to, or reinstating, a residential building or residential land, the Commission may, at its option, relocate the building concerned on the same site or, where that site is unsuitable because of damage which it has suffered or is likely to suffer, to a different site determined by the Commission, being a site that is reasonably equivalent in all material respects to the existing site immediately before the damage occurred.
 (2) If the Commission elects to relocate a residential building, it shall—
-  (a) Pay all costs of relocation; and
-  (b) Reinstate the building to the same condition as the building was in immediately before the natural disaster damage occurred, except that the Commission shall not be bound to reinstate exactly or completely, but only as circumstances permit and in a reasonably sufficient manner; and
-  (c) Where the building is moved to a different site, provide the insured person with a legal right or interest in the different site of the same kind as the right or interest that the insured person had in the previous site; and, upon provision to him or her of this right or interest, the insured person shall transfer to the Commission his or her right or interest in the previous site.
+  (a) pay all costs of relocation; and
+  (b) reinstate the building to the same condition as the building was in immediately before the natural disaster damage occurred, except that the Commission shall not be bound to reinstate exactly or completely, but only as circumstances permit and in a reasonably sufficient manner; and
+  (c) where the building is moved to a different site, provide the insured person with a legal right or interest in the different site of the same kind as the right or interest that the insured person had in the previous site; and, upon provision to him or her of this right or interest, the insured person shall transfer to the Commission his or her right or interest in the previous site.
 
 ### 11 Subrogation of rights
 The insured person shall at the expense of the Commission, and whether before or after the Commission settles any claim under this Act, do and permit to be done all such acts and things as may be necessary or reasonably required by the Commission for the purpose of enforcing any rights and remedies, or of obtaining any relief or indemnity from other persons, to which the Commission is or would upon its settling any such claim be entitled or subrogated.
@@ -604,15 +604,13 @@ The insured person shall at all times take reasonable precautions for the safety
 
 ### 13 Amount payable for claims
 (1) Where any claim is made under this Act in respect of natural disaster damage to any property and, because of circumstances relating to the cause of the damage, the claim cannot be settled promptly, the Commission may in its discretion settle the claim on the basis of the value of the property at the time of the settlement of the claim notwithstanding the fact that the value is higher than the value at the time the natural disaster damage occurred.
-(2) Subject to subclause (1) of this clause, the Commission may settle any claim under this Act on the basis of the amount it would have cost to replace or reinstate the property at the time of the occurrence of the natural disaster damage to the property.
+(2) Subject to subclause (1), the Commission may settle any claim under this Act on the basis of the amount it would have cost to replace or reinstate the property at the time of the occurrence of the natural disaster damage to the property.
 
 ## Schedule 4
 
-| Title | Statutory Regulations Serial Number |
-| --- | --- |
-| The Earthquake and War Damage Regulations 1984 | 1984/71 |
-| The Earthquake and War Damage (Land Cover) Regulations 1984 | 1984/144 |
-| The Earthquake and War Damage Regulations 1984, Amendment No 1 | 1984/145 |
-| The Earthquake and War Damage (Land Cover) Regulations 1984, Amendment No 1 | 1985/267 |
-| The Earthquake and War Damage Regulations 1984, Amendment No 2 | 1988/72 |
-| The Earthquake and War Damage Regulations 1984, Amendment No 3 | 1992/194 |
+### 1 Short Title and commencement
+(1) This Act may be cited as the Earthquake Commission Amendment Act 1998, and is part of the Earthquake Commission Act 1993 (the principal Act).
+(2) This Act comes into force on the day on which it receives the Royal assent.
+
+### 3 Previous directions declared valid
+Every direction given, or deemed to be given, under section 12 of the principal Act before the commencement of this Act, and every action done or omitted by the Commission to give effect to such a direction, is and has always been valid.
