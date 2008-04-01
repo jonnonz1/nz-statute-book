@@ -1,5 +1,5 @@
 # Public Audit Act 2001
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 ### 1 Title
 This Act is the Public Audit Act 2001.
@@ -323,7 +323,7 @@ When appointing an auditor under section 32 or section 33, the Auditor-General m
 (5) If the Auditor-General and the public entity fail to agree as to the reasonableness of a fee, the matter must be submitted to arbitration and the provisions of the Arbitration Act 1996 apply.
 
 ### 43 Exemption from income tax
-For the purposes of sections CW 31 and CW 32 of the Income Tax Act 2004, the Auditor-General is a public authority.
+For the purposes of sections CW 38 and CW 39 of the Income Tax Act 2007, the Auditor-General is a public authority.
 
 ### 44 Amendments to Schedule 2
 (1) The Governor-General may from time to time, by Order in Council on the recommendation of the Minister of Finance, amend Schedule 2—
