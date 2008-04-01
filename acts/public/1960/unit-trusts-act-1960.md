@@ -1,5 +1,5 @@
 # Unit Trusts Act 1960
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-04-01_
 
 > An Act to provide for regulating the operations of unit trusts
 
@@ -35,7 +35,7 @@ _Consolidation as at 2007-12-03_
     (da) any group investment fund established under the Public Trust Office Act 1957 or the Public Trust Act 2001; or
     (e) Any friendly society or credit union registered or deemed to be registered under the Friendly Societies and Credit Unions Act 1982; or
     (f) Any superannuation scheme which is registered under the Superannuation Schemes Act 1989; or
-    (g) a share purchase scheme as defined in section OB 1 of the Income Tax Act 2004; or
+    (g) a share purchase scheme as defined in section YA 1 of the Income Tax Act 2007; or
     (h) Any trust fund or global asset trust or GAT subsidiary or pool within the meaning of the National Provident Fund Restructuring Act 1990.
 (2) Section 63 of the Companies Act 1955 shall apply to interests in a unit trust as if they were shares.
 
@@ -46,7 +46,7 @@ _Consolidation as at 2007-12-03_
   (b) Shall have the function (whether as principal or by an agent) of issuing or offering interests in the unit trust to the public for subscription or purchase, or of inviting the public to subscribe for or purchase such interests, or both of those functions; and
   (c) Shall have the same liability for its acts and omissions in the exercise of its powers and functions as manager of the unit trust as it would if it exercised those powers and functions as a trustee.
 (3) Subject to this Act, the trustee of a unit trust must have vested in it or in 1 or more nominated persons of the trustee or in 1 or more nominees of a nominated person of the trustee the investments and other property that are for the time being subject to the trusts governing the unit trust.
-(4) A trustee corporation or company or bank must not act as trustee of a unit trust, and a company must not act as manager of a unit trust if the persons who are deemed by section OD 1 of the Income Tax Act 2004 to control the manager or proposed manager, and the persons who are deemed by that section to control the trustee or proposed trustee are the same persons.
+(4) A trustee corporation or company or bank must not act as trustee of a unit trust, and a company must not act as manager of a unit trust if the persons who are deemed by section YC 1 of the Income Tax Act 2007 to control the manager or proposed manager, and the persons who are deemed by that section to control the trustee or proposed trustee are the same persons.
 
 ### 4 Restriction as to manager
 (1) Every manager of a unit trust shall be either—
@@ -72,7 +72,7 @@ Every trustee of a unit trust shall be—
 ### 6A Restrictions as to nominated person
 A person must not be nominated by a trustee under section 6 if—
   (a) The person is the manager or proposed manager of the unit trust in respect of which the nomination relates; or
-  (b) The persons who are deemed by section OD 1 of the Income Tax Act 2004 to control the manager or proposed manager and the persons who are deemed by that section to control the proposed nominated person are the same persons.
+  (b) The persons who are deemed by section YC 1 of the Income Tax Act 2007 to control the manager or proposed manager and the persons who are deemed by that section to control the proposed nominated person are the same persons.
 
 ### 6B Appointment of nominee by nominated person
 (1) A nominated person may, if authorised in writing by the trustee of a unit trust, appoint 1 or more nominees in which are vested any of the investments and other property referred to in section 3(3).
@@ -81,7 +81,7 @@ A person must not be nominated by a trustee under section 6 if—
 ### 6C Restrictions as to nominee
 A person must not be appointed nominee by a nominated person under section 6B if—
   (a) The person is the manager or proposed manager of the unit trust in respect of which the appointment relates; or
-  (b) The persons who are deemed by section OD 1 of the Income Tax Act 2004 to control the manager or proposed manager and the persons who are deemed by that section to control the proposed nominee are the same persons.
+  (b) The persons who are deemed by section YC 1 of the Income Tax Act 2007 to control the manager or proposed manager and the persons who are deemed by that section to control the proposed nominee are the same persons.
 
 ### 7 Application of Securities Act 1978
 The Securities Act 1978 applies to the offering to the public for subscription of interests in unit trusts.
