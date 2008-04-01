@@ -1,5 +1,5 @@
 # Taxation Review Authorities Act 1994
-_Consolidation as at 2007-12-19_
+_Consolidation as at 2008-04-01_
 
 > An Act to consolidate the law relating to Taxation Review Authorities
 
@@ -23,7 +23,7 @@ _Consolidation as at 2007-12-19_
     (c) Any other person who by order of Court administers the estate of any person:
   - **Taxation Review Authority** , or , means a Taxation Review Authority established or deemed to be established under this Act
   - **Widely-held company** is defined in section 17(4) for the purposes of that section.
-(2) As the context requires, words and phrases used in this Act have the same meanings as they have in the Tax Administration Act 1994 and the Income Tax Act 2004.
+(2) As the context requires, words and phrases used in this Act have the same meanings as they have in the Tax Administration Act 1994 and the Income Tax Act 2007.
 
 ### 4 Construction of statutory references
 Except where there is express provision to the contrary,—For example, a reference to paragraph (f) is to be construed as a reference to paragraph (f) of the section, subsection, definition, or clause in which that paragraph is contained.
@@ -121,7 +121,7 @@ Every Authority shall have a seal which shall be judicially noticed in all Court
   - **Co-operative company** means—
     (a) A co-operative company registered under the Co-operative Companies Act 1956 or the Co-operative Companies Act 1996; or
     (b) A co-operative dairy company within the meaning of the Co-operative Dairy Companies Act 1949 or Part 3 of the Co-operative Companies Act 1996:
-  - **Widely-held company** has the same meaning as in section OB 1 of the Income Tax Act 2004.
+  - **Widely-held company** has the same meaning as in section YA 1 of the Income Tax Act 2007.
 
 ### 18 Grounds of objection and burden of proof
 On the hearing and determination of any objection, the objector shall be limited to the grounds stated in the objector's objection, and, subject to section 190(2) of the Tax Administration Act 1994, the burden of proof shall be on the objector.
@@ -149,6 +149,9 @@ An Authority may at any time dismiss any objection or challenge, if the Authorit
   (a) The order were a determination of the Authority on an objection or challenge, or a part of any determination of the Authority on the objection or challenge in respect of which the costs were ordered; and
   (b) The amount of costs ordered were an amount of tax or duty,—
 (3) For the purpose of enforcing any order of an Authority made under this section, a duplicate of the order may be lodged in a District Court, and shall be enforceable in all respects as a final judgment of that Court in its civil jurisdiction.
+
+### 22B Power to order costs for filing fees
+An Authority may order the Commissioner to pay to an objector or a disputant an amount of costs not more than the filing fee paid by the objector or disputant under the relevant regulation
 
 ### 23 Proceedings not to abate by reason of death of objector
 Proceedings before an Authority shall not abate by reason of the death of the objector or the disputant, and the legal personal representative of the deceased objector or disputant shall be substituted.
