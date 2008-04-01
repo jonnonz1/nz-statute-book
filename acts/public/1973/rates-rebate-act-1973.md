@@ -1,5 +1,5 @@
 # Rates Rebate Act 1973
-_Consolidation as at 2007-12-19_
+_Consolidation as at 2008-04-01_
 
 > An Act to make provision for the granting of rebates of rates payable in respect of certain residential properties
 
@@ -20,14 +20,14 @@ _Consolidation as at 2007-12-19_
   - **Income** , in relation to any ratepayer and to any preceding tax year,—
     (a) Includes all money received by the ratepayer from any source for the use or advantage of the ratepayer; and
     (b) Includes all money received by the spouse of the ratepayer from any source (being a spouse who is ordinarily resident on the property in respect of which a rebate of rates is applied for under this Act) for the use or advantage of the spouse of the ratepayer; and
-    (c) Includes, in the case of a ratepayer who carries on any business as a self-employed person, the amount that would be the ratepayer's net income in the preceding tax year (within the meaning of the Income Tax Act 2004) if the only income for that year of the ratepayer was derived in carrying on that business; but
+    (c) Includes, in the case of a ratepayer who carries on any business as a self-employed person, the amount that would be the ratepayer's net income in the preceding tax year (within the meaning of the Income Tax Act 2007) if the only income for that year of the ratepayer was derived in carrying on that business; but
     (d) Does not include—
       (i) Any capital money received from any source:
       (ii) Any war widows' pensions or war disablement pension:
       (iii) Any pension or periodical allowance or any part thereof received by any person from the Government of any Commonwealth country (other than New Zealand) which the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 determines is analogous to a payment described in subparagraph (ii) of this paragraph:
       (iv) Any money received as a grant to meet funeral expenses:
       (v) Any money paid in respect of any military decoration and received by the recipient of such decoration:
-      (vi) Any family tax credit payable under the Income Tax Act 2004:
+      (vi) Any family tax credit payable under the Income Tax Act 2007:
       (vii) Any salary or wages of a person in receipt of a widow's, invalid's, domestic purposes, or related emergency benefit under the Social Security Act 1964 or a war veteran's pension under Part 6 of the War Pensions Act 1954 or a veteran's pension under the Social Welfare (Transitional Provisions) Act 1990, being salary or wages earned in respect of a period before the date of commencement of that benefit or pension:
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
   - **partner** , in relation to any ratepayer, means the civil union partner or de facto partner of the ratepayer, being a civil union partner or de facto partner who, at the commencement of the rating year in respect of which an application for a rebate under this Act is made, ordinarily resides on the property in respect of which the rates are payable.
@@ -44,7 +44,7 @@ _Consolidation as at 2007-12-19_
   - **Residential property** means a rating unit under the Local Government (Rating) Act 2002 that is used as the usual place of residence of the ratepayer at the commencement of the rating year in respect of which an application for a rebate under this Act is made; but does not include any unit that is also used principally for commercial or industrial or business or farming purposes
   - **spouse** , in relation to any ratepayer, means the wife or husband of the ratepayer, being a wife or husband who, at the commencement of the rating year in respect of which an application for a rebate under this Act is made, ordinarily resides on the property in respect of which the rates are payable
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002.
-(2) For the purposes of paragraph (c) of the definition of the term income in subsection (1) of this section, any income of any person allowed by any provision of the Income Tax Act 2004 to be spread back or forward or allowed to be apportioned to a financial year earlier or later than that in which it was derived shall be included in the income of that person for the financial year in which it was derived.
+(2) For the purposes of paragraph (c) of the definition of the term income in subsection (1) of this section, any income of any person allowed by any provision of the Income Tax Act 2007 to be spread back or forward or allowed to be apportioned to a financial year earlier or later than that in which it was derived shall be included in the income of that person for the financial year in which it was derived.
 (3) For the purposes of the rating year commencing on the 1st day of July 1990, the expression immediately preceding rating year shall refer—
   (a) In sections 3(1)(a)(ii) and 4 of this Act, to the period of 12 months ending on the 30th day of June 1990:
   (b) In section 8(1)(a)(i) and (ii), to the period of 12 months ending on the 31st day of March 1990.
