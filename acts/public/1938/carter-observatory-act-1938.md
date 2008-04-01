@@ -1,5 +1,5 @@
 # Carter Observatory Act 1938
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 > An Act to provide for the establishment in the City of Wellington of an astronomical observatory, and for the application of certain money bequeathed for that purpose by the late Charles Rooking Carter, and for matters incidental thereto
 
@@ -114,7 +114,7 @@ The Board may from time to time—
 
 ### 22 Exemption from rates and taxes
 (1) All lands for the time being vested in the Board and held by it as the site of the observatory, or in conjunction with that site, are not rateable under the Local Government (Rating) Act 2002.
-(2) The Board is declared to be exempt from the payment of income tax under the Income Tax Act 2004.
+(2) The Board is declared to be exempt from the payment of income tax under the Income Tax Act 2007.
 
 ### 22A Members of Board not personally liable
 No member of the Board shall be personally liable for any act or default done or made by the Board, or by any member of the Board in good faith in the course of the operations of the Board.
