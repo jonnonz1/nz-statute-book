@@ -1,5 +1,5 @@
 # State-Owned Enterprises (AgriQuality Limited and Asure New Zealand Limited) Act 2007
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 ### 1 Title
 This Act is the State-Owned Enterprises (AgriQuality Limited and Asure New Zealand Limited) Act 2007.
@@ -54,7 +54,7 @@ This Act binds the Crown.
 In this subpart, unless the context otherwise requires,—
   - **merger of AgriQuality and Asure** means any arrangement concerning AgriQuality Limited and Asure New Zealand Limited under which—
   (a) those 2 companies amalgamate and continue as 1 company, which may be AgriQuality Limited, Asure New Zealand Limited, or a new company (which must be a State enterprise); or
-  (b) 1 of those companies becomes a subsidiary of the other company; or
+  (b) one of those companies becomes a subsidiary of the other company; or
   (c) both of those companies become subsidiaries of another company (which must be a State enterprise)
   - **responsible Minister** means the Minister or (as the case may be) Ministers of the Crown for the time being responsible for AgriQuality Limited and Asure New Zealand Limited
   - **State enterprise** means an organisation named in Schedule 1 of the State-Owned Enterprises Act 1986
@@ -62,7 +62,7 @@ In this subpart, unless the context otherwise requires,—
 
 ### 8 Amendments and repeals to enactments resulting from merger of AgriQuality and Asure
 (1) The Governor-General may, by Order in Council made on the recommendation of the responsible Minister, do 1 or more of the following:
-  (a) amend Schedule 18 of the Income Tax Act 2004 by omitting either or both of the following items:
+  (a) amend Schedule 36 of the Income Tax Act 2006 by omitting either or both of the following items:
     (i) AgriQuality New Zealand Limited:
     (ii) Asure New Zealand Limited:
   (b) amend Part 2 of Schedule 1 of the Ombudsmen Act 1975 by omitting either or both of the following items:
@@ -90,15 +90,15 @@ In this subpart, unless the context otherwise requires,—
 Nothing in Part 3 of the Commerce Act 1986 applies to any merger of AgriQuality and Asure.
 
 ### 10 Certain matters not affected by merger of AgriQuality and Asure
-(1) A merger of AgriQuality and Asure, including any transfer sale of shares in AgriQuality Limited or Asure New Zealand Limited carried out as part of that merger, does not, by itself,—
+(1) A merger of AgriQuality and Asure, including any transfer or sale of shares in AgriQuality Limited or Asure New Zealand Limited carried out as part of that merger, does not, by itself,—
   (a) give rise to a right for any person to terminate or cancel any lease, contract, or arrangement or to accelerate the performance of any obligation; or
   (b) release any surety wholly or in part from any obligation; or
   (c) invalidate or discharge any contract or security; or
   (d) give rise to a claim for breach of contract; or
   (e) break any person's employment for the purposes of any provision of an employment contract relating to continuity of service; or
-  (f) give rise to a claim for, or entitle any person to, compensation for redundancy or any severance payment;
+  (f) give rise to a claim for, or entitle any person to, compensation for redundancy or any severance payment; or
   (g) break any person's Government service for the purposes of the Government Superannuation Fund Act 1956 (if that person is a contributor to the Government Superannuation Fund).
-(2) However, subsection (1)(e) to (g) does not apply to any termination of employment specifically agreed to by the board directors of AgriQuality Limited or Asure New Zealand Limited as part of a merger of AgriQuality and Asure.
+(2) However, subsection (1)(e) to (g) does not apply to any termination of employment specifically agreed to by the board of directors of AgriQuality Limited or Asure New Zealand Limited as part of a merger of AgriQuality and Asure.
 
 ### 11 Expiry of subpart 2 of Part 2
 This subpart expires on the close of the day that is 2 years after the date on which this Act receives the Royal assent.
@@ -130,6 +130,6 @@ The Commerce Commission must carry out its investigation and report to the Minis
 
 ### 15 Obligations concerning examination services
 (1) The Crown will continue to negotiate with New Zealand's international trading partners for the acceptance of international guidelines on meat hygiene as set out in the Codex Alimentarius's Code of Practice, Code of Hygienic Practice for Meat (CAC/RCP 58-2005) (the Code).
-(2) If more than 66.6% of the total value of New Zealand's postmortem red meat exports (of both ovine and bovine origin) are made to international trading partners of New Zealand who have agreed to accept the international guidelines on meat hygiene as set out in the Code, the Executive Government of New Zealand must permit—
+(2) If more than 66.6% of the total value of New Zealand's post-mortem red meat exports (of both ovine and bovine origin) are made to international trading partners of New Zealand who have agreed to accept the international guidelines on meat hygiene as set out in the Code, the Executive Government of New Zealand must permit—
   (a) competitive tendering for the provision of examination services to occur; and
   (b) examination services to be provided by persons who are not employed under the State Sector Act 1988.
