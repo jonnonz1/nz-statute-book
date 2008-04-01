@@ -1,5 +1,5 @@
 # Government Superannuation Fund Amendment Act 1990
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 > An Act to make miscellaneous amendments in relation to government superannuation
 
@@ -54,11 +54,11 @@ This Part of this Act does not apply to any retiring allowance, annual allowance
 ### 10 Reduction of pensions on return to New Zealand
 (1) Notwithstanding anything in section 9 of this Act, every retiring allowance, annual allowance, or annuity that is payable under the principal Act to any person—shall be reduced, as from the date on which the person becomes so resident, in accordance with this Part of this Act.
   (a) To whom section 9 of this Act refers, or who is the spouse or partner of any such person who becomes entitled to an annuity on the death of that person; and
-  (b) Who becomes resident in New Zealand within the meaning of the Income Tax Act 2004—
+  (b) Who becomes resident in New Zealand within the meaning of the Income Tax Act 2007—
 (2) Any reduction required to be made under this section shall be calculated—
   (a) As if, for the purposes of section 4 of this Act, the item P is the amount of the first full instalment of the retiring allowance, annual allowance, or annuity that would, but for this section, have been payable on and after the date on which the person becomes so resident; and
   (b) As if, for the purposes of calculating the item T in that section, the tax code G that was in force for the tax year commencing on the 1st day of April 1989 applied to that person.
-(3) Every person to whom subsection (1) of this section refers shall, within 20 days of becoming resident in New Zealand within the meaning of the Income Tax Act 2004, notify the board that that person has become so resident.
+(3) Every person to whom subsection (1) of this section refers shall, within 20 days of becoming resident in New Zealand within the meaning of the Income Tax Act 2007, notify the board that that person has become so resident.
 (4) The Board may deduct, from any payments due under the principal Act to any person who fails to comply with subsection (3) of this section, the amount of any overpayment caused by any reduction not having been made on time in accordance with this section.
 
 ## Part 2 — Amendments to principal Act in respect of allowances, annuities, and payments commencing on and after 1 April 1990
@@ -137,7 +137,7 @@ For the purpose of calculating any retiring allowance, annual allowance, annuity
 ### 32 Savings in respect of pensions that become payable before 1 October 1990 to overseas residents
 (1) This section applies to every retiring allowance, annual allowance, annuity, or other payment that commences, on or after the 1st day of April 1990 and before the 1st day of October 1990, to be payable under the principal Act to an address outside New Zealand in respect of a person—
   (a) Who was a contributor, or who is the surviving spouse or partner of any deceased contributor; and
-  (b) Who is not resident in New Zealand within the meaning of the Income Tax Act 2004.
+  (b) Who is not resident in New Zealand within the meaning of the Income Tax Act 2007.
 (2) Every retiring allowance, annual allowance, annuity, or other payment to which this section applies—
   (a) Shall be calculated in accordance with the provisions of the principal act as if those provisions had not been amended by this Part and as if Part 3 of this Act had not been enacted; and
   (b) Shall be payable at that rate as from the first payment date after the date on which the Board is notified that the payment is to be made to an address outside New Zealand.
@@ -145,11 +145,11 @@ For the purpose of calculating any retiring allowance, annual allowance, annuity
 ### 33 Reduction of pensions on return to New Zealand
 (1) Notwithstanding anything in section 32 of this Act, every retiring allowance, annual allowance, or annuity that is payable under the principal Act to any person—shall be reduced, as from the date on which the person becomes so resident, in accordance with the provisions of Part 1 of this Act.
   (a) To whom section 32 of this Act refers, or who is the spouse or partner of any such person who becomes entitled to an annuity of the death of that person; and
-  (b) Who becomes resident in New Zealand within the meaning of the Income Tax Act 2004—
+  (b) Who becomes resident in New Zealand within the meaning of the Income Tax Act 2007—
 (2) Any reduction required to be made under this section shall be calculated—
   (a) As if, for the purposes of section 4 of this Act, the item P is the amount of the first full instalment of the retiring allowance, annual allowance, or annuity that would, but for this section, have been payable on and after the date on which the person becomes so resident; and
   (b) As if, for the purposes of calculating the item T in that section, the tax code G that was in force for the tax year commencing on the 1st day of April 1989 applied to that person.
-(3) Every person to whom subsection (1) of this section refers shall, within 20 days of becoming resident in New Zealand within the meaning of the Income Tax Act 2004, notify the Board that that person has become so resident.
+(3) Every person to whom subsection (1) of this section refers shall, within 20 days of becoming resident in New Zealand within the meaning of the Income Tax Act 2007, notify the Board that that person has become so resident.
 (4) The Board may deduct, from any payments due under the principal Act to any person who fails to comply with subsection (3) of this section, the amount of any overpayment caused by any allowance or annuity not having been reduced on time in accordance with this section.
 
 ## Part 3 — Further variation of allowances and annuities commencing between 1 April 1990 and 31 March 1996
