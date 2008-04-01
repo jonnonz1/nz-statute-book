@@ -1,5 +1,5 @@
 # Income Tax Act 2004
-_Consolidation as at 2007-12-19_
+_Consolidation as at 2008-04-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2004.
@@ -5371,6 +5371,8 @@ Link with subpart DA
 ### DC 6 Contributions to employees' superannuation schemes
 Deduction
 (1) An employer is allowed a deduction for a contribution to an employees' superannuation scheme.
+Exclusion
+(1B) The employer is denied a deduction for a contribution, to the extent of the amount of the tax credit under section KJ 6 (Tax credits relating to employers contributing to KiwiSaver schemes and complying superannuation funds) for the PAYE period to which the contribution relates.
 Timing of deduction
 (2) The deduction is allocated to the income year in which the employer makes the contribution.
 Relationship with section EJ 19
@@ -20659,12 +20661,12 @@ When the Commissioner calculates the amounts making up the family tax credit, th
       (ii) each of the dependent children referred to in paragraph (b) is both resident and present in New Zealand;—
 (2) A person who does not have a spouse, civil union partner, or de facto partner during an eligible period is allowed a credit of tax for the tax year containing the eligible period of an amount calculated using the formula in subsection (3), subject to section KD 7A.
 (3) The formula is—where—
-  (amount) is $18,044 or a greater amount prescribed by the Governor-General by Order in Council under section KD 5C
+  (amount) is $18,460 or a greater amount prescribed by the Governor-General by Order in Council under section KD 5C
   (NSI) is the person's net specified income for the specified period containing the eligible period
   (1WPs) is the number of 1 week periods in the eligible period for which the person is a full-time earner.
 (4) If a person has a spouse, civil union partner, or de facto partner and is the principal caregiver during an eligible period, that person is allowed a credit of tax for the tax year containing the eligible period of an amount calculated using the formula in subsection (5).
 (5) The formula is—where—
-  (amount) is $18,044 or a greater amount prescribed by the Governor-General by Order in Council under section KD 5C
+  (amount) is $18,460 or a greater amount prescribed by the Governor-General by Order in Council under section KD 5C
   - **NSI** is the net specified income, for a specified period containing the eligible period, of the person, or of the person's spouse, civil union partner, or de facto partner, or of the person and the person's spouse, civil union partner, or de facto partner
   (1WPs) is the number of 1 week periods in the eligible period for which the person is a full-time earner.
 
@@ -21046,6 +21048,86 @@ Claw-back: permanent emigration
   (b) the payment described in paragraph (a) must be made to the Commissioner as soon as practicable.
 Recovery of claw-back
 (7) A fund provider has an amount of tax credit paid in excess of that properly payable to the extent to which they fail to comply with subsection (6)(b).
+
+### KJ 6 Tax credits relating to employers contributing to KiwiSaver schemes and complying superannuation funds
+Tax credit
+(1) An employer who meets the requirements in section KJ 7 for a PAYE period has an amount of tax credit for the PAYE period.
+Amount of tax credit
+(2) The amount of the tax credit is calculated under section KJ 8.
+Rules
+(3) Section KJ 9 provides some rules for using the tax credit. Section KJ 10 provides a special rule for certain shortpaid and unpaid amounts of compulsory employer contribution. Section KJ 11 provides a special rule for when employees opt out of a KiwiSaver scheme. Section KJ 12 provides a special rule to treat a group of persons as 1 employer.
+Treatment of private domestic workers
+(4) For the purposes of this section and sections KJ 7 to KJ 12, a private domestic worker who is an employer under paragraph (c) of the definition of employer in section 4 of the KiwiSaver Act 2006 is treated as making payments of salary or wages to themselves in the capacity of employee. Consequently, the private domestic worker may be both employer and employee, for the purposes of this section and sections KJ 7 to KJ 12.
+
+### KJ 7 Employer requirements
+For the purposes of section KJ 6(1), the requirements are that the employer—
+  (a) pays an amount of employer contribution, and the employee is—
+    (i) aged 18 or over; and
+    (ii) is not entitled to withdraw an amount from a fund or scheme under schedule 1, clause 4(3) (which relates to lock-in of funds) of the KiwiSaver scheme rules in the KiwiSaver Act 2006 or a rule the same as that clause; and
+  (b) claims the amount of their entitlement to a tax credit under this subpart for an employee, in an employer monthly schedule or remittance certificate they furnish, unless they meet a requirement in paragraph (c); and
+  (c) if paragraph (b) does not apply,—
+    (i) has an amount of compulsory employer contribution unpaid, specified in a notice under section 101I(5) of the KiwiSaver Act 2006; or
+    (ii) has an amount of short payment under Part 3, subpart 3 of that Act.
+  (d) meets 1 of the requirements in section 6(2) of that Act.
+
+### KJ 8 Tax credit amount
+Tax credit amount
+(1) For the PAYE period, the amount of the tax credit is equal to the lesser of—
+  (a) the employer contributions for the employee, to the extent to which the employee meets the requirements of section KJ 7(a) for the period; and
+  (b) the amount calculated using the following formula:$20 × weeks in PAYE period.
+Definition of item in formula
+(2) In the formula, weeks in PAYE period is the number of weeks (with fractions of a week expressed as a decimal) in the PAYE period that the employee meets the requirements of section KJ 7(a), including weeks in the PAYE period that the employer does not pay an amount of employer contribution.
+
+### KJ 9 Using the tax credit
+Timing
+(1) The tax credit arises—
+  (a) on the last day for the payment of tax deductions prescribed in section NC 15 for the PAYE period, if section KJ 7(b) applies to the employer and the employer is not a private domestic worker:
+  (b) on the last day for the payment of tax prescribed in section NC 16 for the PAYE period, if section KJ 7(b) applies to the employer and the employer is a private domestic worker:
+  (c) if section KJ 7(c) applies to the employer, on the day the Commissioner—
+    (i) receives the notice under section 101I(5) of the KiwiSaver Act 2006; or
+    (ii) decides that the employer has an amount of short payment under Part 3, subpart 3 of that Act.
+Use
+(2) The tax credit is used in the following order:
+  (a) first, either—
+    (i) used by the Commissioner to pay the amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006 that relates to a compulsory employer contribution for the PAYE period; or
+    (ii) paid by the Commissioner to the fund provider of the complying superannuation fund to meet the amount of compulsory employer contributions unpaid, specified in a notice under section 101I(5) of that Act:
+  (b) second, used by the Commissioner to pay employer contributions:
+  (c) third, used by the Commissioner to pay an amount that is payable by the employer to the Commissioner under an Inland Revenue Act for the PAYE period:
+  (d) fourth, used by the Commissioner to pay an amount that is payable by the employer to the Commissioner under an Inland Revenue Act:
+  (e) fifth, treated as tax paid in excess and refundable under section MD 1.
+Treatment of tax credit used
+(3) An amount of tax credit used or paid under subsection (2)(a) is treated as an amount of compulsory employer contribution—
+  (a) received by the Commissioner for the PAYE period, for the purposes of calculating an amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006:
+  (b) consequentially reducing a relevant amount of compulsory employer contributions remaining unpaid, for the purposes of section 101K of that Act:
+  (c) received by the Commissioner, for the purposes of section 74 of that Act.
+
+### KJ 10 Treatment when short payment and unpaid amount of compulsory employer contributions found after tax credit used
+When this section applies
+(1) This section applies, for an employer, if—
+  (a) the Commissioner has used an amount of tax credit, under 1 or both of section KJ 9(2)(c) and (d), to pay an amount payable that is described in those paragraphs; and
+  (b) after the amount of tax credit has been used by the Commissioner under those paragraphs, there is, for the PAYE period to which the amount of tax credit relates,—
+    (i) an amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006:
+    (ii) compulsory employer contributions unpaid, specified in a notice under section 101I(5) of that Act.
+Liability to pay for credits already used
+(2) The employer is liable to pay an amount equal to the lesser of—
+  (a) the amount of tax credit used that relates to the PAYE period; and
+  (b) the amounts described in subsections (1)(b)(i) and (ii) for that PAYE period.
+Treatment of liability
+(3) The employer's liability under subsection (2) is treated as a liability to pay a tax deduction for the PAYE period in which the relevant amounts in subsections (1)(b)(i) and (ii) are notified to the employer.
+New tax credit granted
+(4) An amount equal to the employer's liability under this section is treated as a tax credit to be used under section KJ 9(2)(a).
+
+### KJ 11 Employees who opt out
+When this section applies
+(1) This section applies when an employee opts out under the KiwiSaver Act 2006.
+Treatment of tax credits
+(2) The amount of tax credit for an employer contribution for the employee's salary or wages is treated as an amount of tax credit paid in excess of that properly payable under this subpart.
+
+### KJ 12 Group of persons 1 employer
+For the purposes of sections KJ 6 to KJ 11, a group of persons described in 1 of the following paragraphs is treated as 1 employer:
+  (a) 2 or more companies, if those companies are a group of companies; and
+  (b) all partners in a partnership; and
+  (c) all persons in whom property has become vested or to whom the control of property has passed in the case of each estate of a deceased person or each trust or each company in liquidation or each assigned estate or each other case where property is vested or controlled in a fiduciary capacity.
 
 ### Subpart KZ — Terminating provisions
 
@@ -25739,7 +25821,6 @@ If an employer makes a specified superannuation contribution on behalf of an emp
     (b) ending with when the employer makes the current specified superannuation contribution
   - **KiwiSaver contributions**
   - **KiwiSaver scheme**
-  - **salary or wages** means salary or wages, as defined in section 4 of the KiwiSaver Act 2006.
 
 ### NE 3B Calculation amounts in relation to current specified superannuation contribution for complying superannuation fund
 (1) For the current specified superannuation contribution, in section NE 3(2B)(c)(i) the amount is calculated using the formula—0.04 × total salary or wages − previous exempt contributions.
@@ -27009,10 +27090,11 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
     (b) a production stage equivalent to that described in paragraph (a)
   - **complying fund calculation period** is defined in section NE 3B(4) (Calculation amounts in relation to a current specified superannuation contribution for complying superannuation fund) for the purposes of that section
   - **complying fund rules** , for a superannuation fund, and for an employee's superannuation accumulation, means rules that—
-    (a) are the same as the rules for KiwiSaver schemes in schedule 1, clauses 4(1) to (4), 7, 9, and 17 of the KiwiSaver Act 2006 (with necessary modifications); and
+    (a) are the same as the rules for KiwiSaver schemes in schedule 1, clauses 2, 4(1) to (4), 7, 9, and 17 of the KiwiSaver Act 2006 (with necessary modifications); and
     (b) allow withdrawals in some or all of the circumstances described in regulations made under section 229(1) of the KiwiSaver Act 2006 and the rules for KiwiSaver schemes in schedule 1, clauses 8 and 10 to 14 of the KiwiSaver Act 2006 (with necessary modifications), or in none of those circumstances; and
     (c) do not allow withdrawals under any other circumstances except those described in paragraphs (a) and (b); and
     (cb) require that an employee's superannuation accumulation is used to fund benefits that are calculated only by reference to the amount of that accumulation; and
+    (cc) require the trustees, at the member's request, to pay any withdrawal that is allowed under the rules in paragraphs (a) to (c) as a lump sum, as if the withdrawal were a permitted withdrawal to which schedule 1, clause 5 of the KiwiSaver Act 2006 applied (with necessary modifications); and
     (d) require a transfer of all or part of an employee's superannuation accumulation to another complying superannuation fund, or to a KiwiSaver scheme, if the employee requests such a transfer and, in the case of a transfer to a KiwiSaver scheme, the requirements of the KiwiSaver Act 2006 are met; and
     (e) require that an employee's superannuation accumulation is subject to complying fund rules, if it is transferred to another complying superannuation fund in accordance with paragraph (d); and
     (eb) require that, for a transfer to another complying superannuation fund in accordance with paragraph (d), the new fund provider is given notice of—
@@ -27024,15 +27106,14 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
       (ii) may not remain a member for any reason except a transfer in accordance with paragraphs (d), (e), and (g), or a withdrawal of all or part of an employee's superannuation accumulation in accordance with complying fund rules; and
     (g) require a transfer of an employee's superannuation accumulation to a KiwiSaver scheme, if the Government Actuary revokes approval of the superannuation fund as a complying superannuation fund and the accumulation is not transferred to another complying superannuation fund and is not subject to complying fund rules; and
     (h) require that the Commissioner is notified that the employee's superannuation accumulation must be transferred in accordance with paragraphs (f) and (g), and the notice must include the name, address, and tax file number of the employee, the name and address of their employer, and the name and tax file number of the employee's complying superannuation fund; and
-    (i) require total minimum superannuation contributions to be deducted in relation to an employee, equal to at least the amount required to be contributed to a superannuation scheme under section 25(1)(d) of the KiwiSaver Act 2006; and
-    (j) for the purposes of calculating whether or not superannuation contributions count towards the total minimum superannuation contributions described in paragraph (i),—
-      (i) are the same as section 26 of the KiwiSaver Act 2006 (with necessary modifications); and
-      (ii) do not count a superannuation contribution unless the contribution is for the payment of future benefits to the employee, or for fees, under the superannuation fund; and
-    (k) require that any specified superannuation contribution that counts towards the total minimum superannuation contributions described in paragraph (i) vests completely in the employee, immediately after the contribution is made; and
-    (l) are the same as the rules in section 196 of the KiwiSaver Act 2006 for KiwiSaver schemes (with necessary modifications); and
+    (i) require, as a minimum, the same contributions to be deducted for an employee as those provided by section 66 or 66A of the KiwiSaver Act 2006 ignoring the 8% contribution rate; and
+    (j) prevent a person over the New Zealand superannuation qualification age from joining; and
+    (k)
+    (l) are the same as the rules in sections 101G and 196 of the KiwiSaver Act 2006 for KiwiSaver schemes (with necessary modifications); and
     (m) commit an employee to continue to be a member unless otherwise provided by rules described in paragraphs (a) to (l); and
     (n) do not derogate from rules described in paragraphs (a) to (m)
   - **complying superannuation fund** means a superannuation fund that is approved as a complying superannuation fund by the Government Actuary under section 35 of the Superannuation Schemes Act 1989
+  - **compulsory employer contribution** has the same meaning as in the KiwiSaver Act 2006.
   - **conduct** , in sections FF 18 (Land used in specified activity) and IE 2 (Specified activity net losses), and in the definitions of existing farmer and specified activity, means carry on or engage in or hold an interest in a specified activity, whether—
     (a) alone; or
     (b) in association with any other person or persons as—
@@ -27440,7 +27521,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
     (f) for an employer, means an employee of the employer
   - **employee share loan** is defined in section CX 29 (Meaning of employee share loan)
   - **employee's superannuation accumulation** means the total superannuation contributions, together with any return on them, that are subject to complying fund rules and are—
-    (a) specified superannuation contributions vested in an employee:
+    (a) employer contributions:
     (ab) the amount of tax credit under section KJ 1 (Tax credits relating to KiwiSaver scheme and complying superannuation fund members) that is treated as a Crown contribution for an employee under section KJ 5(2) (Rules):
     (b) deducted from the employee's salary or wages
   - **employer** —
@@ -27462,6 +27543,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
       (iv) the Crown:
     (e) is defined in section ND 1Q(6) (Unclassified benefits) for the purposes of that section:
     (f) for an employee, means the employer of the employee
+  - **employer contribution** has the same meaning as in the KiwiSaver Act 2006.
   - **employer monthly schedule** means a form that an employer must provide to the Commissioner in manual format or in electronic format, or that a PAYE intermediary must provide to the Commissioner in electronic format, showing—
     (a) the name and tax file number of the employer; and
     (b) the name of every person who was an employee of the employer at any time during the period to which the employer monthly schedule relates; and
@@ -28713,7 +28795,9 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
       (i) has ceased to satisfy paragraph (a); and
       (ii) has responsibilities under section NBA 8(3) (Termination of employer arrangements with PAYE intermediary)
       (iii) has entered agreements that have been approved by the Commissioner under section NBA 3 (Approval by Commissioner of employer arrangements with PAYE intermediary) with not less than 10 employers:
-  - **PAYE period** is defined in section NC 15(8) (Payment of tax deductions to Commissioner) for the purposes of that section
+  - **PAYE period** ,—
+    (a) for the purposes of subpart KJ (KiwiSaver scheme and complying superannuation fund tax credits) means the first PAYE period, the second PAYE period, or the month in which a deduction of PAYE is made or to which a payment of tax under section NC 16 relates, as the case may be:
+    (b) is defined in section NC 15(8) (Payment of tax deductions to Commissioner) for the purposes of that section
   - **PAYE rules** means—
     (a) the following provisions:
       (i) section BC 1 (Non-filing and filing taxpayers):
@@ -29307,7 +29391,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
       (ii) salary, wages, or other income to which section OB 2(2) (Meaning of source deduction payment: shareholder-employees of close companies) applies; or
       (iii) employer's superannuation contributions; or
       (iv) payments that are declared by regulations under this Act not to be salary or wages
-    (d) is defined in section NE 3(6) (Specified superannuation contribution withholding tax to be deducted) for the purposes of that section
+    (d) for the purposes of sections NE 3 and NE 3B (which relate to SSCWT) means salary or wages, as defined in section 4 of the KiwiSaver Act 2006
   - **schedular income** means income of any of the following types
     (a) policyholder income under section CR 1(4) (Income of life insurer):
     (b) income derived from a mining venture by a non-resident mining operator:
@@ -37052,6 +37136,88 @@ This Act is the Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007.
   (a) for a portfolio tax rate entity to which section HL 21 or HL 23 of the Income Tax Act 2004 applies, on and after 1 April 2008:
   (b) for a portfolio tax rate entity to which section HL 22 of the Income Tax Act 2004 applies, for the 2008–09 and later income years.
 (22) Subsection (18) applies for the 2008–09 and later income years.
+
+### A 1 Title
+This Act is the Income Tax Act 2007.
+
+### A 2 Commencement
+1 April 2008
+(1) This Act comes into force on 1 April 2008.
+Charitable entities
+(1B) Despite subsection (1), sections CW 41(2) and CW 42(1)(b) come into force on 1 July 2008.
+Act effective for 2008–09 income year and later
+(2) However, except when the context requires otherwise, this Act applies only with respect to the tax on income derived in the 2008–09 income year and later income years.
+
+## Part Z — Repeals, amendments, and savings
+
+### ZA 1 Repeals
+Schedule 48
+(1) Amendments incorporated into principal Act and regulations.
+Repeals effective only for 2008–09 income year and later
+(2) However, unless the context requires otherwise, the repeals listed in schedule 48 apply only in relation to the tax on income derived in the 2008–09 income year and later income years.
+
+### ZA 3 Transitional provisions
+When reference to this Act includes earlier Act
+(1) A reference in an enactment or document to this Act, or to a provision of it, is to be interpreted as a reference to the Income Tax Act 2004, or the Income Tax Act 1994, or the Income Tax Act 1976, or to the corresponding provision of the earlier Act, to the extent necessary to reflect sensibly the intent of the enactment or document.
+When reference to earlier Act includes this Act
+(2) A reference in an enactment or document to the Income Tax Act 2004, or the Income Tax Act 1994, or the Income Tax Act 1976, or to a provision of that earlier Act, is to be interpreted as a reference to this Act, or to the corresponding provision in this Act, to the extent necessary to reflect sensibly the intent of the enactment or document.
+Intention of new law
+(3) The provisions of this Act, including any amendments made by this Act to the Tax Administration Act 1994, are the provisions of the Income Tax Act 2004 in rewritten form, and are intended to have the same effect as the corresponding provisions of the Income Tax Act 2004. Subsection (5) overrides this subsection.
+Using old law as interpretation guide
+(4) Unless a limit in subsection (5) applies, in circumstances where the meaning of a taxation law that comes into force at the commencement of this Act (the new law) is unclear or gives rise to absurdity—
+  (a) the wording of a taxation law that is repealed by section ZA 1 and that corresponds to the new law (the old law) must be used to determine the correct meaning of the new law; and
+  (b) it can be assumed that a corresponding old law provision exists for each new law provision.
+Limits to subsections (3) and (4)
+(5) Subsections (3) and (4) do not apply in the case of—
+  (a) a new law listed in schedule 51 (Identified changes in legislation); or
+  (b) a new law that is amended after the commencement of this Act, with effect from the date on which the amendment comes into force.
+
+### ZA 4 Saving of binding rulings
+When, and extent to which, this section applies
+(1) This section applies when, and to the extent to which,—
+  (a) either—
+    (i) an applicant has applied for a private ruling, a product ruling, or a status ruling, before the beginning of the 2008–09 income year on an arrangement that is entered into, or that the applicant seriously contemplates will be entered into before the commencement of this Act; or
+    (ii) a public ruling is issued before the beginning of the 2008–09 income year; and
+  (b) the binding ruling is about—
+    (i) a taxation law that is repealed by section ZA 1 (the old law); or
+    (ii) a taxation law in the Income Tax Act 1994 that preceded and corresponded to the old law; and
+  (c) a new taxation law that corresponds to the old law (the new law) comes into force at the commencement of this Act; and
+  (d) in the absence of this section, the commencement of this Act would mean that the binding ruling would cease to apply because of section 91G of the Tax Administration Act 1994.
+Ruling about new law
+(2) The binding ruling is treated as if it were made about the new law, so that the effect of the ruling at the commencement of this Act is the same as its effect before the commencement.
+No confirmation rulings
+(3) To the extent to which a binding ruling continued by subsection (2) exists and applies to an arrangement, or to a person and an arrangement, the Commissioner must not make a binding ruling on how—
+  (a) the new law applies to the arrangement or to the person and the arrangement; or
+  (b) this subsection applies to the arrangement or to the person and the arrangement.
+
+### ZA 5 Saving of accrual determinations
+When, and extent to which, this section applies
+(1) This section applies when—
+  (a) a determination has been made before the beginning of the 2008–09 income year under—
+    (i) section 90 or 90AC of the Tax Administration Act 1994; or
+    (ii) section 64E of the Income Tax Act 1976; and
+  (b) the determination has not been cancelled before the beginning of the 2008–09 income year; and
+  (c) the determination is about—
+    (i) a taxation law that is repealed by section ZA 1 (the old law); or
+    (ii) a taxation law in the Income Tax Act 1994 or the Income Tax Act 1976 that preceded and corresponded to the old law; and
+  (d) a new taxation law that corresponds to the old law (the new law) comes into force at the commencement of this Act; and
+  (e) in the absence of this section, the commencement of this Act would mean that that determination would cease to apply because the taxation law to which it applied had ceased to exist.
+Determination about new law
+(2) The determination is treated as if it were made about the new law, so that the effect of the determination at the commencement of this Act is the same as its effect before the commencement.
+No confirmation determinations
+(3) To the extent to which a determination continued by subsection (2) applies, the Commissioner must not make a determination on how the new law applies.
+
+**Order**
+
+### 1 Title
+This order is the Income Tax (Family Tax Credit) Order 2007.
+
+### 2 Commencement
+This order comes into force on 1 April 2008.
+
+### 3 Increase of amount of family tax credit
+(1) Amendment incorporated in the principal Act
+(2) Subclause (1) applies in respect of the 2008-09 and later tax years.
 
 ### 1 Title
 This Act is the Taxation (Business Taxation and Remedial Matters) Act 2007.
