@@ -1,5 +1,5 @@
 # Smoke-free Environments Act 1990
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2008-04-01_
 
 > An Act—aTo reduce the exposure of people who do not themselves smoke to any detrimental effect on their health caused by smoking by others; andbTo regulate the marketing, advertising, and promotion of tobacco products, whether directly or through the sponsoring of other products, services, or events; andcTo monitor and regulate the presence of harmful constituents in tobacco products and tobacco smoke; anddTo establish a Health Sponsorship Council
 
@@ -69,7 +69,7 @@ _Consolidation as at 2007-10-01_
     (b) That commences from any place in New Zealand and is intended to terminate at that same place:
   - **licensed premises** means any premises, or any part of any premises, on which liquor may be sold pursuant to a licence under the Sale of Liquor Act 1989
   - **managers** , in relation to a school, or premises to which section 7A(4) applies, means all the people who control and manage the school or premises, whether or not they have a proprietary interest in the school or premises
-  - **Manufacturer** includes any company with which a manufacturer is associated within the meaning of section OD 7 of the Income Tax Act 2004
+  - **Manufacturer** includes any company with which a manufacturer is associated within the meaning of subpart YB of the Income Tax Act 2007 (to the extent to which those rules apply for the whole of that Act excluding the 1973, 1988, and 1990 version provisions)
   - **Minister** means the Minister of Health
   - **New Zealand continental waters** has the meaning given to it by section 222(1) of the Maritime Transport Act 1994
   - **New Zealand resident** means—
