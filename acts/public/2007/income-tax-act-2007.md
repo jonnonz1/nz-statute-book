@@ -7,6 +7,8 @@ This Act is the Income Tax Act 2007.
 ### A 2 Commencement
 1 April 2008
 (1) This Act comes into force on 1 April 2008.
+Charitable entities
+(1B) Despite subsection (1), sections CW 41(2) and CW 42(1)(b) come into force on 1 July 2008.
 Act effective for 2008–09 income year and later
 (2) However, except when the context requires otherwise, this Act applies only with respect to the tax on income derived in the 2008–09 income year and later income years.
 
@@ -204,6 +206,8 @@ Fringe benefits
 (4) A person who provides a fringe benefit to another person must pay fringe benefit tax under the FBT rules.
 Employer's superannuation contributions
 (5) A person who makes an employer's superannuation contribution to a superannuation fund must pay ESCT under the ESCT rules.
+Retirement scheme contributions
+(5B) A person who makes a retirement scheme contribution to a retirement savings scheme must pay RSCT under the RSCT rules.
 FDP
 (6) A person who receives dividends must pay FDP under the FDP rules.
 
@@ -416,7 +420,7 @@ Income
     (iii) the person, or another person for them, carries on development or division work on or relating to the land; and
     (iv) the development or division work involves significant expenditure on channelling, contouring, drainage, earthworks, kerbing, levelling, roading, or any other amenity, service, or work customarily undertaken or provided in major projects involving the development of land for commercial, industrial, or residential purposes.
 Exclusions
-(2) Subsection (1) is overridden by the exclusions for residential land in section CB 17 and for farm land in section CB 21.
+(2) Subsection (1) is overridden by the exclusions for residential land in section CB 17, for business premises in section CB 20, for farm land in section CB 21, and for investment land in section CB 23.
 Relationship with section DB 27
 (3) Section DB 27 (Amount from major development or division and not already in income) deals with a deduction for the value of the land.
 
@@ -477,7 +481,7 @@ Who exclusion does not apply to
 
 ### CB 17 Residential exclusion from sections CB 12 and CB 13
 Exclusion: developing or dividing land for residential use
-(1) Section CB 12 does not apply if—
+(1) Sections CB 12 and CB 13 do not apply if—
   (a) the work involved in the undertaking or scheme is to create or effect a development, division, or improvement; and
   (b) the development, division, or improvement is for use in, and for the purposes of, the residing on the land of the person or any member of their family living with them.
 Exclusion: dividing residential land
@@ -513,8 +517,8 @@ Meaning of land
   (a) is reserved, with the premises, for the use of the business; and
   (b) is of an area no greater than that required for the reasonable occupation of the premises and the carrying on of the business.
 
-### CB 20 Business exclusion from section CB 12
-Section CB 12 does not apply if—
+### CB 20 Business exclusion from sections CB 12 and CB 13
+Sections CB 12 and CB 13 do does not apply if—
   (a) the work involved in the undertaking or scheme is to create or effect a development, division, or improvement; and
   (b) the development, division, or improvement is for use in, and for the purposes of, the carrying on of a business by the person on the land; and
   (c) the business does not consist of the undertaking or scheme.
@@ -546,10 +550,16 @@ Purposes of acquisition for purposes of subsection (1)(b)
 
 **Exclusion for investment land**
 
-### CB 23 Investment exclusion from section CB 12
-Section CB 12 does not apply if—
+### CB 23 Investment exclusion from sections CB 12 and CB 13
+Sections CB 12 and CB 13 do does not apply if—
   (a) the work involved in the undertaking or scheme is to create or effect a development, division, or improvement; and
   (b) the development, division, or improvement is for use in, and for the purposes of, the person’s deriving from the land income of the kind described in section CC 1 (Land).
+
+### CB 23B Land partially sold or sold with other land
+Sections CB 6 to CB 23 apply to an amount derived from the disposal of land if the land is—
+  (a) part of the land to which the relevant section applies:
+  (b) the whole of the land to which the relevant section applies:
+  (c) disposed of together with other land.
 
 **Timber**
 
@@ -578,15 +588,23 @@ Income
 
 ### CB 26 Certain disposals by portfolio investment entities
 When this section applies
-(1) This section applies when a portfolio investment entity disposes of a share in a company and—
-  (a) section CX 55 (Proceeds from certain disposals by portfolio investment entities or New Zealand Superannuation Fund) applies to the income from the disposal; and
-  (b) a dividend from the share is—
+(1) This section applies when—
+  (a) a portfolio investment entity or the New Zealand Superannuation Fund (the entity) disposes of a share in a company; and
+  (b) section CX 55 (Proceeds from certain disposals by portfolio investment entities or New Zealand Superannuation Fund) applies to the income from the disposal; and
+  (c) a dividend from the share is—
     (i) declared before the disposal; and
-    (ii) paid to a holder of the share who after the disposal becomes entitled to the dividend.
+    (ii) paid to a holder of the share who, after the disposal, becomes entitled to the dividend.
 Income
-(2) The portfolio investment entity is treated as deriving an amount of income equal to,—
-  (a) for a share issued by a company that has an imputation credit account, the amount of the dividend that is not fully imputed as described in section RF 9(2) (When dividends fully imputed or credited); or
-  (b) the amount of the dividend, if paragraph (a) does not apply.
+(2) The entity is treated as deriving an amount calculated using the formula—(declaration shares − distribution shares) × distribution.
+Definition of items in formula
+(3) In the formula,—
+  (a) declaration shares is the number of shares held by the entity when the dividend is declared:
+  (b) distribution shares is the number of shares for which the entity derives a dividend:
+  (c) distribution is,—
+    (i) for a share issued by a company that has an imputation credit account, the amount of the dividend that is not fully imputed as described in section RF 9(2) (When dividends fully imputed or fully credited); or
+    (ii) otherwise, the amount of the dividend.
+Positive result
+(4) The amount calculated using the formula must be more than zero.
 
 **Farming, forestry, or fishing**
 
@@ -595,6 +613,18 @@ Income derived by a person, as timed and quantified under any of the following p
   (a) sections EH 11, EH 14, EH 16, EH 18, EH 20 to EH 22, EH 24, and EH 26 (which relate to the main income equalisation scheme):
   (b) sections EH 46, EH 48, EH 50 to EH 52, EH 54, and EH 56 (which relate to the adverse event income equalisation scheme):
   (c) sections EH 72, EH 74, and EH 76 (which relate to the thinning operations income equalisation scheme).
+
+### CB 27B Entering partners’ livestock income
+When this section applies
+(1) This section applies when section HG 10 (Disposal of livestock) applies, and—
+  (a) an entering partner acquires partner’s interests in livestock; and
+  (b) the relevant exiting partner has a net loss from the amount of consideration paid or payable by the entering partner for the livestock, ignoring other transactions.
+Income: default position
+(2) For the income year in which the entering partner acquires the livestock, the entering partner has income equal to the amount of loss described in subsection (4), unless they choose to apply subsection (3) in the return of income for the income year.
+Income: election to spread
+(3) If the entering partner chooses, for the income year in which the entering partner acquires the livestock, and in each of the following 4 years, the entering partner has income calculated using the following formula:loss5.
+Definition of item in formula
+(4) In the formula, loss is the net loss that the exiting partner has from the disposal of their partner’s interests in livestock, ignoring other transactions.
 
 **Environmental restoration**
 
@@ -609,7 +639,7 @@ Refund
 (4) Refund is the amount of the refund.
 Tax rate
 (5) Tax rate is the highest rate of income tax on taxable income that—
-  (a) is set out in schedule 1 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits); and
+  (a) is set out in schedule 1 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits); and
   (b) would apply to the person for the tax year if the person had sufficient taxable income.
 Transfer
 (6) Transfer is the amount in the environmental restoration account that is transferred.
@@ -678,6 +708,9 @@ Relationship with dividend rules
 (5) An association rebate—
   (a) is not a dividend to the extent to which it is a payment of the kind described in subsection (2) and is no more than the amount of the deduction the association is allowed under section DV 19; and
   (b) for an association that is not a company, and to the extent to which it is more than the amount of the deduction the association is allowed under section DV 19, is income of the member.
+
+### CB 35 Amounts of income for partners
+A person who is a partner has an amount of income to the extent to which an amount of income results from the application of subpart HG (Joint venturers, partners, and partnerships) to them and their partnership.
 
 ### Subpart CC — Income from holding property (excluding equity)
 
@@ -1014,7 +1047,7 @@ When this section applies
   (c) pays the income tax; and
   (d) provides to the Commissioner upon request, in the time allowed by the Commissioner, sufficient information to satisfy the Commissioner as to the amount of income tax paid.
 Amount of dividend reduced
-(2) The amount of the dividend is reduced by the greater of zero and the amount calculated using the formula—total tax paid &#8722; earlier reductions.
+(2) The amount of the dividend is reduced by the greater of zero and the amount calculated using the formula—total tax paid − earlier reductions.
 Definition of items in formula
 (3) In the formula,—
   (a) total tax paid is the total amount of income tax on income of the company that the person has paid in the country by the time that the person derives the dividend:
@@ -1289,7 +1322,14 @@ An amount derived by an amalgamated company on a resident’s restricted amalgam
 ### CD 36 Foreign investment fund income
 An amount paid by a company to a person is not a dividend if,—
   (a) at the time the person derives the amount, the person’s interest in the company is an attributing interest, or would have been if the company had not been liquidated; and
-  (b) the person calculates their foreign investment fund (FIF) income or loss in relation to the interest and the period in which the amount is paid under the comparative value method, the deemed rate of return method, the cost method, or the fair dividend rate method.
+  (b) the person calculates their foreign investment fund (FIF) income or loss in relation to the interest and the period in which the amount is paid under—
+    (i) the comparative value method:
+    (ii) the deemed rate of return method:
+    (iii) the cost method:
+    (iv) the fair dividend rate method; and
+  (c) for a calculation under paragraph (b)(iv),—
+    (i) the FIF is not a grey list company:
+    (ii) the person does not hold a direct income interest of 10% or more in the FIF at the beginning of the income year in which the period falls.
 
 ### CD 37 Maori authority distributions
 A Maori authority distribution is not a dividend except for the purposes of section CW 10 (Dividend within New Zealand wholly-owned group).
@@ -1298,7 +1338,7 @@ A Maori authority distribution is not a dividend except for the purposes of sect
 
 ### CD 38 General calculation rule for transfers of value
 Difference in value
-(1) The amount of a dividend that is a transfer of value from a company to a person is calculated using the formula—value from company &#8722; value from person.
+(1) The amount of a dividend that is a transfer of value from a company to a person is calculated using the formula—value from company − value from person.
 Definition of items in formula
 (2) In the formula,—
   (a) value from company is the market value of the money or money’s worth that the company provides to the person:
@@ -1412,7 +1452,7 @@ Accounts adjusted
 
 ### CD 43 Available subscribed capital (ASC) amount
 Formula for calculating amount of available subscribed capital
-(1) For a share (the share) in a company at any relevant time (the calculation time), the amount of available subscribed capital is calculated using the formula—1 July 1994 balance + subscriptions &#8722; returns.
+(1) For a share (the share) in a company at any relevant time (the calculation time), the amount of available subscribed capital is calculated using the formula—1 July 1994 balance + subscriptions – returns.
 Definition of items in formula
 (2) In the formula in subsection (1),—
   (a) 1 July 1994 balance is,—
@@ -1508,7 +1548,7 @@ Meaning of fully credited
 Definition of items in formula
 (27) In the formula in subsection (26),—
   (a) dividend excluding credits is the dividend excluding any attached imputation credit or FDP credit:
-  (b) actual ratio is the total of the imputation ratio and FDP ratio of the dividend:
+  (b) actual ratio is the total of the imputation ratio and FDP ratio of the dividend (section OZ 13 (Fully credited dividends: modifying actual ratio) may apply to modify this paragraph):
   (c) maximum ratio is the maximum imputation ratio specified in section OA 18 (Calculation of maximum permitted ratios).
 Meaning of qualifying share premium
 (28) In this section, qualifying share premium means an amount of premium paid to a company for the issue of a share by the company if—
@@ -1603,7 +1643,7 @@ Meaning of capital property
 General rule
 (1) A person has an amount of attributed repatriation from a controlled foreign company (CFC) if—
   (a) the person has an income interest under sections EX 8 to EX 13 (which relate to the calculation of a person’s income interest) in the CFC in 1 of the CFC’s accounting periods; and
-  (b) the person’s income interest is 10% or more for the accounting period, under sections EX 14 to EX 16 (which relate to the 10% threshold); and
+  (b) the person’s income interest is 10% or more for the accounting period, under sections EX 14 to EX 17 (which relate to the 10% threshold); and
   (c) at any time in the accounting period, the person is a New Zealand resident who is not a transitional resident; and
   (d) the CFC has a New Zealand repatriation amount for the accounting period, under sections CD 46 to CD 52.
 Formula
@@ -1617,7 +1657,7 @@ Definition of items in formula
 
 ### CD 46 New Zealand repatriation amount
 Formula
-(1) The New Zealand repatriation amount of a CFC for an accounting period is calculated using the formula—closing New Zealand property &#8722; opening New Zealand property.
+(1) The New Zealand repatriation amount of a CFC for an accounting period is calculated using the formula—closing New Zealand property − opening New Zealand property.
 Definition of items in formula
 (2) In the formula,—
   (a) closing New Zealand property is the amount of New Zealand property of the CFC at the end of the accounting period calculated under the rules in sections CD 47 to CD 51:
@@ -1751,7 +1791,7 @@ Calculation as if CFC holding property at the end of period
 
 ### CD 52 Unrepatriated income balance
 Formula
-(1) The unrepatriated income balance of a CFC for an accounting period is calculated using the formula—shareholders’ funds &#8722; available subscribed capital &#8722; previous New Zealand repatriation amounts.
+(1) The unrepatriated income balance of a CFC for an accounting period is calculated using the formula—shareholders’ funds − available subscribed capital − previous New Zealand repatriation amounts.
 Definition of items in formula
 (2) In the formula,—
   (a) shareholders’ funds is the total shareholders’ funds of the CFC at the end of the accounting period, measured under generally accepted accounting practice:
@@ -1787,7 +1827,7 @@ Subsection (3)(b): formula
 Definition of items in formula
 (5) In the formula,—
   (a) FDP withheld is any FDP that must be withheld from the dividend under section RG 4 (Calculating amount of FDP):
-  (b) tax rate is the basic rate of income tax for companies set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits), that applies for the tax year in which the dividend is paid.
+  (b) tax rate is the basic rate of income tax for companies set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits), that applies for the tax year in which the dividend is paid.
 Relationship of dividend exclusions to other provisions
 (6) Subject to subsection (2), the amount derived by the person from the company may be income of the person despite the fact that the amount is excluded from being a dividend by any of sections CD 22 to CD 27.
 Relationship with section FA 3
@@ -2126,11 +2166,13 @@ Timing of income
 
 **Finance leases**
 
-### CH 6 Adjustments under consecutive or successive finance leases
+### CH 6 Adjustments for certain finance and operating leases
 When this section applies
-(1) This section applies when an adjustment is made under section FA 11 (Consecutive or successive finance leases).
-Income
-(2) The amount of the adjustment is income of the lessor or the lessee, as applicable, in the income year in which the adjustment is made.
+(1) This section applies when an adjustment is made under section FA 11 or FA 11B (which relate to adjustments for leases that become finance leases and certain operating leases).
+Income: leases that become finance leases
+(2) The amount of a positive adjustment under section FA 11 is income of the lessor or the lessee, as applicable, in the income year in which the lease becomes a finance lease.
+Income: operating leases entered into before 20 June 2007
+(3) The amount of the adjustment under section FA 11B is income of the lessor in the income year after the income year in which 20 June 2007 falls.
 
 **Avoidance and non-market transactions**
 
@@ -2228,10 +2270,12 @@ General rule
     (xii) the exemption for a non-resident or transitional resident in section EX 41 (Income interest of non-resident or transitional resident):
     (xiii) the immigrant’s accrued superannuation entitlement exemption in section EX 42 (New resident’s accrued superannuation entitlement exemption):
     (xiv) the non-resident’s annuity or pension exemption in section EX 43 (Non-resident’s pension or annuity exemption); and
-  (d) if the person is a natural person and not acting as a trustee, the total cost, calculated under section EX 68 (Measurement of cost), of attributing interests in FIFs that the person holds at any time during the year when the person is a New Zealand resident is more than $50,000; and
-  (e) if the person is acting as trustee of a trust that meets the requirements of subsection (5), the total cost, calculated under section EX 68, of attributing interests in FIFs that the person holds at any time during the year is more than $50,000; and
+  (d) if the person is a natural person and not acting as a trustee, the total cost, calculated under section EX 68 (Measurement of cost), of attributing interests in FIFs that the person holds at any time in the year when the person is a New Zealand resident is more than $50,000; and
+  (e) if the person is acting as trustee of a trust that meets the requirements of subsection (5), the total cost, calculated under section EX 68, of attributing interests in FIFs that the person holds at any time in the year is more than $50,000; and
   (f) at any time in the year, the person is a New Zealand resident who is not a transitional resident and holds the attributing interest; and
   (g) under the relevant calculation method chosen by the person, an income amount is calculated for the year under sections EX 44 to EX 56 (which relate to the calculation of FIF income or loss), EX 60 or EX 61 (which relate to top-up FIF income).
+Treatment of transaction under section EX 63, EX 65, or EX 67
+(1B) If a person is treated under section EX 63(5), EX 65, or EX 67 (which relate to changes in method or application of FIF rules) as disposing of or acquiring rights in an income year, the disposal or acquisition is ignored for the purposes of subsection (1)(d) and (e).
 Look-through calculation methods
 (2) Despite subsection (1), if the calculation method is the accounting profits method or branch equivalent method,—
   (a) FIF income arises in the income year only if the relevant accounting period of the FIF ends during the year; and
@@ -2253,6 +2297,9 @@ Requirements for trustees
 
 ### CQ 6 Calculation of FIF income
 The amount of any FIF income is calculated, using the relevant calculation method, under sections EX 44 to EX 61 (which relate to the calculation of FIF income or loss).
+
+### CQ 7 Treatment of attributing interests subject to returning share transfer
+If an attributing interest in a FIF is an original share subject to a returning share transfer, for the purposes of a person using the fair dividend rate method to calculate FIF income or loss, the attributing interest is treated as held by the share supplier.
 
 ### Subpart CR — Income from life insurance
 
@@ -2333,7 +2380,7 @@ Withdrawal
 Other contributions
 (5) Other contributions is the part of the withdrawal that the trustee of the superannuation fund establishes is not employer-sourced superannuation savings.
 Tax rate
-(6) Tax rate is the basic rate of income tax set out in schedule 1, part A, clause 3 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits).
+(6) Tax rate is the basic rate of income tax set out in schedule 1, part A, clause 3 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
 Reduction of income
 (7) The superannuation fund may reduce the income by 25% for each income year to which both the following apply:
   (a) the income year is 1 of the 4 income years before the income year in which the withdrawal is made; and
@@ -2362,7 +2409,7 @@ Increase not treated as such
 Superannuation fund administration costs
 (4) Section CS 1 does not apply to a withdrawal for fees and expenses associated with the management and marketing of the superannuation fund.
 Withdrawals from KiwiSaver schemes to buy first home
-(5) Section CS 1 does not apply to a withdrawal from a KiwiSaver scheme under clause 8 of the KiwiSaver scheme rules in the KiwiSaver Act 2006.
+(5)
 Life, health, sickness, or accident insurance
 (6) Section CS 1 does not apply to—
   (a) a withdrawal for the payment of premiums for life insurance, health insurance, sickness insurance, or accident insurance held by or for a member of the superannuation fund, whether the insurance is group insurance or individual insurance; or
@@ -2495,6 +2542,9 @@ Related employer
     (i) a branch or division of employer A; or
     (ii) associated with employer A.
 
+### CS 10B Exclusion of permitted withdrawals from KiwiSaver schemes and complying superannuation funds
+Section CS 1 does not apply to a permitted withdrawal from a KiwiSaver scheme or a complying superannuation fund.
+
 **Transfers to or from superannuation funds and superannuation schemes**
 
 ### CS 11 Transfer by superannuation fund to another superannuation fund
@@ -2598,21 +2648,29 @@ This subpart, and sections CX 42 (Disposal of ownership interests in controlled 
 
 ### CT 6 Meaning of petroleum miner
 Meaning
-(1) Petroleum miner means a person who undertakes an activity described in subsection (3) in a permit area for which the person has a petroleum permit.
+(1) Petroleum miner, for a permit area, means a person who undertakes petroleum mining operations in the permit area.
 Exclusion
-(2) Petroleum miner does not include a person who undertakes an activity described in subsection (3) for consideration that is not in the form of, or contingent on,—
+(2) Petroleum miner does not include a person who undertakes petroleum mining operations for consideration that is not in the form of, or contingent on,—
   (a) the production of petroleum from the permit area; or
   (b) profits from the production of petroleum from the permit area; or
   (c) an interest or a right to an interest in the petroleum permit.
 Activities: inclusions
-(3) The activities are those carried out in connection with—
+(3)
+Activities: exclusions
+(4)
+
+### CT 6B Meaning of petroleum mining operations
+Meaning
+(1) Petroleum mining operations means an activity included in those described in subsection (2) and not excluded by subsection (3).
+Activities: inclusions
+(2) The activities are those carried out in connection with—
   (a) prospecting or exploring for petroleum:
   (b) developing a permit area for producing petroleum:
   (c) producing petroleum:
   (d) processing, storing, or transmitting petroleum before its dispatch to a buyer, consumer, processor, refinery, or user:
   (e) removal or restoration operations.
 Activities: exclusions
-(4) The activities do not include further treatment to which all the following apply:
+(3) The activities do not include further treatment to which all the following apply:
   (a) it occurs after the well stream has been separated and stabilised into crude oil, condensate, or natural gas; and
   (b) it is done—
     (i) by liquefaction or compression; or
@@ -2794,7 +2852,7 @@ Mining company’s share or interest in asset
     (ii) the exploration expenditure or development expenditure referred to in section DZ 12(2)(a) (Mineral mining: 1954–2005); and
   (b) to the extent to which the mining company uses the share or interest for the purpose of deriving income from mining.
 Partner’s share or interest in asset
-(2) For the purposes of sections CU 3 to CU 10, a partner’s share or interest in each asset of the partnership is the same as the partner’s interest in the totality of the assets of the partnership.
+(2)
 Replaced or repaired asset
 (3) For the purposes of sections CU 3 to CU 10,—
   (a) an asset that a mining company acquires by incurring expenditure in replacing or repairing the asset is the same asset as the one that was lost, destroyed, or damaged:
@@ -2914,7 +2972,7 @@ Asset
 (6) For the purposes of subsections (3) to (5),—
   (a) a reference to an asset means the part of the asset that is disposed of, which may be some of it or all of it, and a reference to an amount received or receivable for an asset means the amount for the part that is disposed of:
   (b) a reference to an asset includes a reference to a share or interest in the asset:
-  (c) a partner’s share or interest in each asset of the partnership is the same as the partner’s interest in the totality of the assets of the partnership:
+  (c)
   (d) every member of any other association of persons who receive income jointly or carry on activities jointly has a share or interest in each asset of the association that is the same as the member’s interest in the totality of the assets of the association.
 Amount of net income
 (7) For the purposes of section CU 17, the prescribed proportion of the amount that would have been the net income of the mining company is treated as repayment by the mining company of the amount written off. The repayment is treated as having been made on the day following the end of the income year in which the mining company would have had net income.
@@ -3372,7 +3430,7 @@ Some definitions
   - **foreign exempt entity** means a person who—
     (a) is established as a legal entity under the laws of a territory that is approved for the purposes of this section by the Governor-General by an Order in Council or under the laws of a part of such a territory; and
     (b) has persons (the members) who hold interests in the capital of the legal entity and who are entitled to shares of the income of the legal entity; and
-    (c) is treated by the taxation laws of the territory referred to in paragraph (a), or by the taxation laws of the part of the territory, as not being subject to a tax on income other than as a body that handles income of the members; and
+    (c) under the laws of the territory, or part of the territory, is not subject to a tax on income other than as a body that handles income of the members; and
     (d) is resident in no territory that has laws that treat the legal entity as being subject to a tax on income other than as a body that handles income of the members; and
     (e) does not have a member who—
       (i) has, when treated as holding the interests of any person who is associated with the member under the 1990 version provisions, an interest of 10% or more in the capital of the legal entity; and
@@ -3380,11 +3438,14 @@ Some definitions
     (f) does not have a member who, when treated as holding the interests of any person who is associated with the member under the 1990 version provisions, has an interest of 10% or more in the capital of the legal entity and who—
       (i) would be entitled to receive an amount derived from a disposal to which this section would apply; and
       (ii) would receive an amount referred to in subparagraph (i) that, in the absence of this section, would have been reduced by a tax imposed by the Act on the amount or on the proceeds of the disposal in the hands of the legal entity; and
-      (iii) would in any circumstances, under the taxation laws of the territory in which the member is resident or under the taxation laws of part of the territory, be entitled to receive from the government of the territory or of the part of the territory a financial benefit in the form of a payment, credit, rebate, forgiveness or other compensation for the reduction referred to in subparagraph (ii)
+      (iii) would in any circumstances, under the laws of the territory in which the member is resident or under the laws of part of the territory, be entitled to receive from the government of the territory or of the part of the territory a financial benefit in the form of a payment, credit, rebate, forgiveness or other compensation for the reduction referred to in subparagraph (ii); and
+    (g) does not have a holder of a direct or indirect interest in the capital of the legal entity who,—
+      (i) is resident in New Zealand:
+      (ii) when treated as holding the voting interests of a person associated under the 1990 version provisions with the resident, holds a voting interest of 10% or more
   - **foreign exempt partnership** means an unincorporated body that—
     (a) is established under the laws of a territory that is approved for the purposes of this section by the Governor-General by an Order in Council or under the laws of a part of such a territory; and
     (b) consists of persons (the partners); and
-    (c) is treated by the taxation laws of the territory, or by the taxation laws of the part of the territory, as not being subject to a tax on income other than as a body that handles income of the partners; and
+    (c) under the laws of the territory, or part of the territory, is not subject to a tax on income other than as a body that handles income of the members; and
     (d) has at least 1 partner (the general partner) who is liable for all debts of the unincorporated body and who has significant involvement in, and control of, the business activities of the unincorporated body; and
     (e) has at least 1 partner (the special partner) whose liability for debts of the unincorporated body is limited and who has limited involvement in, and control of, the business activities of the unincorporated body; and
     (f) does not have a general partner who is resident in no territory that is approved for the purposes of this section by the Governor-General by an Order in Council; and
@@ -3393,23 +3454,29 @@ Some definitions
       (ii) is resident in no territory that is approved for the purpose of this section by the Governor-General by an Order in Council; and
     (h) does not have a partner who, when treated as holding the interests of any person who is associated with the partner under the 1990 version provisions, has an interest of 10% or more in the capital of the unincorporated body and who—
       (i) would, under the Act in the absence of this section, be subject to tax on an amount derived from a disposal to which this section would apply; and
-      (ii) would in any circumstances, under the taxation laws of the territory in which the partner is resident or under the taxation laws of part of the territory, be entitled to receive from the government of the territory or of the part of the territory a financial benefit in the form of a payment, credit, rebate, forgiveness or other compensation for a payment of the tax referred to in subparagraph (i)
+      (ii) would in any circumstances, under the laws of the territory in which the partner is resident or under the laws of part of the territory, be entitled to receive from the government of the territory or of the part of the territory a financial benefit in the form of a payment, credit, rebate, forgiveness or other compensation for a payment of the tax referred to in subparagraph (i); and
+    (i) does not have a holder of a direct or indirect interest in the capital of the legal entity who,—
+      (i) is resident in New Zealand:
+      (ii) when treated as holding the voting interests of a person associated under the 1990 version provisions with the resident, holds a voting interest of 10% or more
   - **foreign exempt person** means a person who—
     (a) is resident in a territory that is approved for the purposes of this section by the Governor-General by an Order in Council; and
     (b) is not part of an unincorporated body that meets the requirements of paragraphs (a) to (c) of the definition of foreign exempt partnership; and
     (c) is not a legal entity that meets the requirements of paragraphs (a) to (c) of the definition of foreign exempt entity; and
-    (d) is treated by the taxation laws of the territory, or by the taxation laws of a part of the territory, as the person who derives the proceeds from a disposal of shares or options that are held by the person; and
+    (d) under the laws of the territory, or part of the territory, derives the proceeds from a disposal of shares or options that are held by the person; and
     (e) is not a person who—
       (i) would, under the Act in the absence of this section, be subject to tax on an amount derived from a disposal to which this section would apply; and
-      (ii) would in any circumstances, under the taxation laws of the territory in which the person is resident or under the taxation laws of part of the territory, be entitled to receive from the government of the territory or of the part of the territory a financial benefit in the form of a payment, credit, rebate, forgiveness or other compensation for a payment of the tax referred to in subparagraph (i)
+      (ii) would in any circumstances, under the laws of the territory in which the person is resident or under the laws of part of the territory, be entitled to receive from the government of the territory or of the part of the territory a financial benefit in the form of a payment, credit, rebate, forgiveness or other compensation for a payment of the tax referred to in subparagraph (i); and
+    (f) does not have a holder of a direct or indirect interest in the capital of the legal entity who,—
+      (i) is resident in New Zealand:
+      (ii) when treated as holding the voting interests of a person associated under the 1990 version provisions with the resident, holds a voting interest of 10% or more
   - **qualifying foreign equity investor** means a person who is not resident in New Zealand and who is 1 or more of the following
     (a) a foreign exempt entity:
     (b) a person who is part of a foreign exempt partnership:
     (c) a foreign exempt person.
 Residency of territory
 (5) For the purpose of this section, whether a person is resident in a territory other than New Zealand is determined—
-  (a) in the presence of a double tax agreement between New Zealand and the territory that is in force under the terms of the double tax agreement, under the double tax agreement:
-  (b) in the absence of a double tax agreement between New Zealand and the territory that is in force under the terms of the double tax agreement, under the laws of the territory.
+  (a) under a double tax agreement that is in force between New Zealand and the territory, if there is an agreement and it provides for the residency of the person; or
+  (b) otherwise, under the laws of the territory.
 Approval and withdrawal of approval for territory
 (6) The Governor-General may by Order in Council—
   (a) approve a territory for the purpose of this section:
@@ -3752,7 +3819,7 @@ Exclusion: certain amounts from commercial undertakings
   (a) is derived by a local authority; and
   (b) is not rates; and
   (c) is derived from—
-    (i) a council-controlled organisation; or
+    (i) a council-controlled organisation, other than a council-controlled organisation operating a hospital as a charitable activity on behalf of the local authority; or
     (ii) an organisation that is a port company, a subsidiary of a port company, or an energy company and that would be a council-controlled organisation in the absence of section 6(4) of the Local Government Act 2002.
 Exclusion: local authority as port operator
 (5) Subsection (2) does not apply to an amount of income derived by a local authority in its capacity as a port operator from a port-related commercial undertaking. Port operator and port-related commercial undertaking are defined in section 38(4) of the Port Companies Act 1988.
@@ -3781,9 +3848,9 @@ Exclusion: trustees, society, or institution not registered
 Exclusion: business income
 (3) This section does not apply to an amount of income derived from a business carried on by, or for, or for the benefit of a trust, society, or institution of a kind referred to in subsection (1).
 Exclusion: council-controlled organisation income
-(4) This section does not apply to income derived by—
-  (a) a council-controlled organisation; or
-  (b) a local authority from a council-controlled organisation.
+(4) This section does not apply to an amount of income derived by—
+  (a) a council-controlled organisation, other than a council-controlled organisation operating a hospital as a charitable activity:
+  (b) a local authority from a council-controlled organisation, other than from a council-controlled organisation operating a hospital as a charitable activity on behalf of the local authority.
 
 ### CW 42 Charities: business income
 Exempt income
@@ -3792,9 +3859,9 @@ Exempt income
   (b) the trustee or trustees of the trust, the society, or the institution is or are, at the time that the income is derived, registered as a charitable entity; and
   (c) no person with some control over the business is able to direct or divert, to their own benefit or advantage, an amount derived from the business. Subsections (3) to (8) expand on this subsection.
 Exclusion
-(2) This section does not apply to income derived by—
-  (a) a council-controlled organisation; or
-  (b) a local authority from a council-controlled organisation.
+(2) This section does not apply to an amount of income derived by—
+  (a) a council-controlled organisation, other than a council-controlled organisation operating a hospital as a charitable activity:
+  (b) a local authority from a council-controlled organisation, other than from a council-controlled organisation operating a hospital as a charitable activity on behalf of the local authority.
 Carrying on a business: trustee
 (3) For the purposes of subsection (1), a trustee is treated as carrying on a business if—
   (a) the trustee derives rents, fines, premiums, or other revenues from an asset of the trust; and
@@ -3931,6 +3998,9 @@ To the extent to which section HC 26 (Foreign-sourced amounts: resident trustees
 ### CW 55 Maori authority distributions
 A distribution from a Maori authority to a member, to the extent to which it is not income under section CV 11 (Maori authorities) is exempt income.
 
+### CW 55B Amounts of exempt income for partners
+A person who is a partner has an amount of exempt income to the extent to which an amount of exempt income results from the application of subpart HG (Joint venturers, partners, and partnerships) to them and their partnership.
+
 **Income from certain activities**
 
 ### CW 56 Non-resident aircraft operators
@@ -3993,6 +4063,16 @@ Order in Council declaring Niue development project
 (7) The Governor-General may make an Order in Council declaring a business or enterprise to be a development project for the purposes of this section if satisfied that the business or enterprise—
   (a) has been or will be entered upon wholly or mainly for the purpose of developing Niue; or
   (b) is or will be important in the development of Niue.
+
+### CW 59B Income of and distributions by certain international funds
+Trustees
+(1) An amount derived by a person is exempt income of the person if they are—
+  (a) the trustee of the Niue International Trust Fund:
+  (b) the trustee of the Tokelau International Trust Fund.
+Distributions
+(2) An amount derived by a person is exempt income of the person if the income is a distribution by—
+  (a) the trustee of the Niue International Trust Fund:
+  (b) the trustee of the Tokelau International Trust Fund.
 
 ### CW 60 Stake money
 Stake or prize money for a dog race, horse race, or trotting race is exempt income if—
@@ -4506,7 +4586,7 @@ When this section applies
     (ii) before the date that is 18 months after the end of the state of emergency; and
   (e) the amount of the remitted liability is income of the person under section CG 2 (Remitted amounts).
 Excluded income
-(2) The remitted liability is excluded income of the person to the extent to which it is the greater of zero and the amount calculated using the formula—remitted amount &#8722; current loss &#8722; loss balance &#8722; other loss.
+(2) The remitted liability is excluded income of the person to the extent to which it is the greater of zero and the amount calculated using the formula—remitted amount − current loss − loss balance − other loss.
 Definition of items in formula
 (3) In the formula,—
   (a) remitted amount is the amount of the remitted liability:
@@ -4541,6 +4621,19 @@ An employer’s superannuation contribution is excluded income of—
 ### CX 50 Tax credits for KiwiSaver and complying superannuation funds
 An amount paid as a tax credit under subpart MK (Tax credits for KiwiSaver schemes and complying superannuation funds) is excluded income of the person deriving the amount.
 
+### CX 50B Contributions to retirement savings schemes
+Excluded income
+(1) A retirement scheme contribution is excluded income of a person if they are—
+  (a) the person for whose benefit the contribution is made to the extent to which the contribution is an amount of—
+    (i) money:
+    (ii) an imputation credit or a Maori authority credit that is used to meet the liability of the retirement scheme contributor for RSCT on the contribution:
+  (b) the retirement savings scheme.
+Exclusions
+(2) Subsection (1)(a) does not apply if the person for whose benefit the contribution is made—
+  (a) is non-resident, and the contribution is non-resident passive income:
+  (b) supplies to the retirement scheme contributor or the retirement savings scheme, a tax rate applying to the amount of tax withheld that is less than the retirement scheme prescribed rate for the person:
+  (c) includes the amount of the contribution in a return of income for the income year in which the contribution is made.
+
 **Farming, forestry, or fishing**
 
 ### CX 51 Income equalisation schemes
@@ -4570,28 +4663,36 @@ An amount of share-lending collateral derived by a person under a share-lending 
 **Portfolio investment income**
 
 ### CX 55 Proceeds from certain disposals by portfolio investment entities or New Zealand Superannuation Fund
-When this section applies
-(1) This section applies to an amount of income derived by a portfolio investment entity or the New Zealand Superannuation Fund from the disposal of a share when—
-  (a) the share is issued by a company resident in New Zealand and is not treated under a double tax agreement as not being resident in New Zealand or by a company—
-    (i) resident in Australia and not treated under a double tax agreement between Australia and another country as being resident in a country other than Australia or New Zealand; and
-    (ii) included in an index that is an approved index under the ASX Market Rules, made under Chapter 7 of the Corporations Act 2001 (Aust); and
-    (iii) required under the Income Tax Assessment Act 1997 (Aust) and the Income Tax Assessment Act 1936 (Aust) to maintain a franking account; and
-  (b) the share is not a non-participating redeemable share.
+What this section applies to
+(1) This section applies to an amount of income derived by an entity referred to in subsection (1B) from the disposal of a share, other than a non-participating redeemable share, issued by a company—
+  (a) resident in New Zealand and not treated under a double tax agreement as not resident in New Zealand; or
+  (b) resident in Australia and not treated as resident in a country other than Australia under an agreement that—
+    (i) is between Australia and that other country; and
+    (ii) would be a double tax agreement if negotiated between New Zealand and that other country.
+Entities
+(1B) The entities referred to in subsection (1) are—
+  (a) a portfolio investment entity:
+  (b) the New Zealand Superannuation Fund:
+  (c) a life insurer in relation to that part of the life insurer that is a portfolio investment-linked life fund.
+When this section does not apply
+(1C) This section does not apply if the entity is assured, under an arrangement with another person, of having a gain on the disposal.
 Excluded income
-(2) The amount is excluded income of the portfolio investment entity or the New Zealand Superannuation Fund, as applicable.
+(2) The amount is excluded income of the portfolio investment entity or the New Zealand Superannuation Fund or life insurer, as applicable.
 
 ### CX 56 Portfolio investor allocated income and distributions of income by portfolio investment entities
 Portfolio investor allocated income
-(1) Portfolio investor allocated income derived in an income year under section CP 1 (Portfolio investor allocated income) by an investor in a portfolio tax rate entity is excluded income of the investor if—
-  (a) the prescribed investment rate for the investor is more than 0%; and
-  (b) the investor does not, before the last day of the income year, provide a portfolio investor rate for the income year that is less than the prescribed investor rate for the income year; and
-  (c) for a portfolio tax rate entity paying tax under section HL 22 (Payments of tax by portfolio tax rate entity making no election), the portfolio investor allocated income is not allocated to a portfolio allocation period that includes part of a portfolio investor exit period for the investor.
+(1) Portfolio investor allocated income derived under section CP 1 (Portfolio investor allocated income) in a portfolio calculation period in an income year by an investor in a portfolio tax rate entity is excluded income of the investor if—
+  (a) the prescribed investor rate for the investor and the portfolio calculation period is more than zero; and
+  (b) the prescribed investor rate for the investor and the portfolio calculation period is not more than the portfolio investor rate for the investor and the portfolio calculation period when the entity calculates in relation to the portfolio investor allocated income—
+    (i) the portfolio entity tax liability of the entity; or
+    (ii) the amount of a payment under section HL 25 (Optional payments of tax by portfolio tax rate entities) that the entity intends to be a final payment of the portfolio entity tax liability of the entity in relation to the portfolio investor allocated income; and
+  (c) for a portfolio tax rate entity making payments of tax under section HL 22 (Payments of tax by portfolio tax rate entity making no election), the portfolio investor allocated income is not allocated to a portfolio allocation period that includes part of a portfolio investor exit period for the investor.
 Distribution by portfolio tax rate entities
-(2) An amount of income derived by an investor as a distribution by a portfolio tax rate entity is excluded income of the investor.
+(2) An amount of income derived by an investor as a distribution or dividend of a portfolio tax rate entity is excluded income of the investor.
 Distribution by portfolio investment entity that is not portfolio tax rate entity
-(3) An amount of income derived in an income year by an investor as a distribution by a portfolio listed company is—
+(3) An amount of income derived in an income year by an investor as a distribution or dividend of a portfolio listed company is—
   (a) excluded income of the investor, if the investor is a New Zealand resident who—
-    (i) is a natural person other than a trustee; and
+    (i) is a natural person or a trustee; and
     (ii) does not include the amount as income in a return of income for the income year:
   (b) excluded income of the investor, if paragraph (a) does not apply, to the extent to which the amount of the distribution is more than the total of the following:
     (i) the amount of the distribution that is fully imputed as described in section RF 9(2) (When dividends fully imputed or fully credited):
@@ -4625,6 +4726,9 @@ Excluded income
 An amount is excluded income if it is treated as excluded income under—
   (a) section GA 1 (Commissioner’s power to adjust):
   (b) section GB 23 (Excessive remuneration to relatives).
+
+### CX 62 Amounts of excluded income for partners
+A person who is a partner has an amount of excluded income to the extent to which an amount of excluded income results from the application of subpart HG (Joint venturers, partners, and partnerships) to them and their partnership.
 
 ### Subpart CZ — Terminating provisions
 
@@ -5221,7 +5325,7 @@ Deduction
 (1) A person is allowed a deduction for expenditure that they incur as the cost of revenue account property.
 Portfolio investment entities
 (2) Despite subsection (1), a person is denied a deduction for expenditure incurred as the cost of revenue account property if—
-  (a) the person is a portfolio investment entity; and
+  (a) the person is a portfolio investment entity or a life insurer in relation to that part of the life insurer that is a portfolio investment-linked life fund; and
   (b) section CX 55 (Proceeds from certain disposals by portfolio investment entities or New Zealand Superannuation Fund) applies to income derived by the person from the disposal of the revenue account property.
 Link with subpart DA
 (3) Subsection (1) overrides the capital limitation but the general permission must still be satisfied. Subsection (2) overrides the general permission. The other general limitations still apply.
@@ -5397,19 +5501,17 @@ Link with subpart DA
 Deduction
 (1) A person is allowed a deduction for expenditure they incur on research or development. This subsection applies only to a person described in any of subsections (2) to (5) and does not apply to the expenditure described in subsection (6).
 Person recognising expenditure as expense
-(2) Subsection (1) applies to a person who recognises the expenditure as an expense for financial reporting purposes under paragraph 5.1 or 5.2 of the reporting standard.
+(2) Subsection (1) applies to a person who recognises the expenditure as an expense for financial reporting purposes under paragraph 68(a) of the reporting standard, applying, for the purposes of that paragraph, paragraphs 54 to 67 of the reporting standard.
 Person not recognising expenditure as asset
-(3) Subsection (1) also applies to a person who does not recognise the expenditure as an asset for financial reporting purposes because of paragraph 5.4 of the reporting standard.
+(3)
 Person recognising expenditure otherwise
 (4) Subsection (1) also applies to a person who—
-  (a) recognises the expenditure as an expense for financial reporting purposes because of paragraph 2.3 of the reporting standard; and
-  (b) would be required to recognise the expenditure as an expense for financial reporting purposes under paragraph 5.1 or 5.2, or because of paragraph 5.4, of the standard if—
-    (i) any 1 of those paragraphs were applied to the expenditure; and
-    (ii) the expenditure were material.
+  (a) recognises the expenditure as an expense for financial reporting purposes because it is an amount written off as an immaterial amount for financial reporting purposes; and
+  (b) would be required, if the expenditure were material, to recognise it for financial reporting purposes under paragraph 68(a) of the reporting standard, applying, for the purposes of that paragraph, paragraphs 54 to 67 of the reporting standard.
 Person with minor expenditure
 (5) Subsection (1) also applies to a person who—
   (a) incurs expenditure of $10,000 or less, in total, on research and development in an income year; and
-  (b) has not treated the expenditure as material, as described in paragraph 2.3 of the reporting standard; and
+  (b) has written off the expenditure as an immaterial amount for financial reporting purposes; and
   (c) has recognised the expenditure as an expense for financial reporting purposes.
 Exclusion
 (6) Subsection (1) does not apply to expenditure that the person incurs on property to which all the following apply:
@@ -5434,10 +5536,10 @@ Link with subpart DA
 
 ### DB 35 Some definitions
 Definitions
-(1) In this section, and in sections DB 34, EE 1, EJ 22, and EJ 23 (which relate to expenditure on research and development),—
-  - **development** is defined in paragraphs 4.1 and 4.2 of the reporting standard as interpreted by paragraphs 4.3 to 4.7
-  - **reporting standard** means Financial Reporting Standard No 13 1995 (Accounting for Research and Development Activities) or an equivalent standard issued in its place, that applies in the income year in which the expenditure is incurred
-  - **research** is defined in paragraphs 4.1 and 4.2 of the reporting standard, as interpreted by paragraphs 4.3 to 4.7.
+(1) In this section, and in section DB 34,—
+  - **development** is defined in paragraph 8 of the reporting standard
+  - **reporting standard** means the New Zealand Equivalent to International Accounting Standard 38, approved by the Accounting Standards Review Board, as amended from time to time, or an equivalent standard issued in its place
+  - **research** is defined in paragraph 8 of the reporting standard.
 Meaning of research or development: modification by Order in Council
 (2) The Governor-General may make an Order in Council specifying—
   (a) a kind of expenditure that is not expenditure on research or development for the purposes of section DB 34:
@@ -5491,7 +5593,7 @@ When this section applies
 Deduction
 (2) The person is allowed a deduction on the sale of the patent application with a complete specification or patent rights.
 Amount of deduction
-(3) The amount is calculated using the formula—total cost &#8722; total amounts of depreciation loss.
+(3) The amount is calculated using the formula—total cost − total amounts of depreciation loss.
 Definition of items in formula
 (4) In the formula,—
   (a) total cost is the total cost to the person of the patent application with a complete specification or of the patent rights, excluding any expenditure for which the person has been allowed a deduction under section DZ 15 (Patent applications before 1 April 2005):
@@ -5503,13 +5605,11 @@ Link with subpart DA
 
 ### DB 41 Charitable or other public benefit gifts by company
 Who this section applies to
-(1) This section applies to—
-  (a) a company that is not a close company:
-  (b) a close company that has its shares quoted on the official list of a recognised exchange.
+(1)
 Deduction
-(2) The company is allowed a deduction for a charitable or other public benefit gift that it makes to a society, institution, association, organisation, trust, or fund of any of the kinds set out in schedule 32 (Recipients of charitable or other public benefit gifts).
+(2) A company is allowed a deduction for a charitable or other public benefit gift that it makes to a society, institution, association, organisation, trust, or fund of any of the kinds described in section LD 3(2) (Meaning of charitable or other public benefit gift) or set out in schedule 32 (Recipients of charitable or other public benefit gifts).
 Amount of deduction
-(3) The deduction for the total of all gifts made in an income year is limited to 5% of the amount that would be the company’s net income in the corresponding tax year in the absence of this section.
+(3) The deduction for the total of all gifts made in an income year is limited to the amount that would be the company’s net income in the corresponding tax year in the absence of this section.
 Link with subpart DA
 (4) This section supplements the general permission. The general limitations still apply.
 
@@ -5691,6 +5791,16 @@ Deduction
 Link with subpart DA
 (3) This section supplements the general permission. The general limitations still apply, but not to the extent to which any relevant general limitation was overridden by a provision that initially allowed a deduction for the expenditure, whether in this Act or an earlier Act.
 
+**Adjustments for leases that become finance leases**
+
+### DB 51B Adjustments for leases that become finance leases
+When this section applies
+(1) This section applies when an adjustment made under section FA 11 (Adjustments for leases that become finance leases) is negative.
+Deduction
+(2) The amount of the adjustment is a deduction of the lessor or the lessee, as applicable, in the income year in which the lease becomes a finance lease.
+Link with subpart DA
+(3) This section supplements the general permission. The general limitations still apply.
+
 **Change to accounting practice**
 
 ### DB 52 Adjustment for change to accounting practice
@@ -5711,7 +5821,7 @@ When this section applies
   (c) the period includes a portfolio allocation period for which the investor is allocated an amount of portfolio investor allocated loss under subpart HL (Portfolio investment entities).
 Deduction
 (2) The investor is allowed a deduction for the income year for the amount of portfolio investor allocated loss if—
-  (a) the portfolio tax rate entity pays tax under section HL 22 or HL 23 (Payments of tax by portfolio tax rate entity choosing to pay provisional tax) and the investor’s income year includes the end of the portfolio calculation period:
+  (a) the portfolio tax rate entity pays tax under section HL 22 and the investor’s income year includes the end of the portfolio tax rate entity's income year:
   (b) the portfolio tax rate entity pays tax under section HL 24 (Payments of tax by portfolio tax rate entity choosing to make payments when investor leaves) and the investor’s income year includes the end of the tax year in which the portfolio calculation period occurs.
 Link with subpart DA
 (3) This section supplements the general permission. The general limitations still apply.
@@ -5732,7 +5842,7 @@ Link with subpart DA
 Deduction
 (1) A company that derives a dividend that is exempt income of the company under section CW 9 (Dividend derived by company from overseas) is allowed a deduction of—
   (a) the amount of the expenditure incurred by the company in deriving the dividend, if the company is not a conduit tax relief (CTR) company:
-  (b) the amount calculated using the following formula, if the company is a CTR company:expenditure × (1 &#8722; non-resident shareholding).
+  (b) the amount calculated using the following formula, if the company is a CTR company:expenditure × (1 − non-resident shareholding).
 Definition of items in formula
 (2) In the formula,—
   (a) expenditure is the amount of the expenditure incurred by the company in deriving the dividend:
@@ -5895,6 +6005,8 @@ Link with subpart DA
 ### DC 7 Contributions to employees’ superannuation schemes
 Deduction
 (1) An employer is allowed a deduction for a contribution to an employees’ superannuation scheme.
+Exclusion
+(1B) The employer is denied a deduction for a contribution, to the extent of the amount of a tax credit under section MK 9 (Eligibility requirements) for the payment period to which the contribution relates.
 Timing of deduction
 (2) The deduction is allocated to the income year in which the employer makes the contribution.
 Relationship with section EJ 21
@@ -6439,10 +6551,12 @@ General rule
     (xii) the exemption for a non-resident or transitional resident, in section EX 41 (Income interest of non-resident or transitional resident):
     (xiii) the immigrant’s accrued superannuation entitlement exemption in section EX 42 (New resident’s accrued superannuation entitlement exemption):
     (xiv) the annuity or pension exemption in section EX 43 (Non-resident’s pension or annuity exemption); and
-  (d) if the person is a natural person and not acting as a trustee, the total cost, calculated under section EX 68 (Measurement of cost), of attributing interests in FIFs that the person holds at any time during the income year when the person is a New Zealand resident is more than $50,000:
-  (e) if the person is acting as trustee of a trust that meets the requirements of subsection (4), the total cost, calculated under section EX 68, of attributing interests in FIFs that the person holds at any time during the year is more than $50,000; and
+  (d) if the person is a natural person and not acting as a trustee, the total cost, calculated under section EX 68 (Measurement of cost), of attributing interests in FIFs that the person holds at any time in the year when the person is a New Zealand resident is more than $50,000:
+  (e) if the person is acting as trustee of a trust that meets the requirements of subsection (4), the total cost, calculated under section EX 68, of attributing interests in FIFs that the person holds at any time in the year is more than $50,000; and
   (f) at any time in the year, the person is a New Zealand resident who is not a transitional resident and holds the attributing interest; and
   (g) under the relevant calculation method chosen by the person, a loss amount is calculated for the income year or relevant accounting period under sections EX 44 to EX 56 (which relate to the calculation of FIF income or loss), EX 60 or EX 61 (which relate to top-up FIF income).
+Treatment of transaction under section EX 63, EX 65, or EX 67
+(1B) If a person is treated under section EX 63(5), EX 65 or EX 67 (which relate to changes in method or application of FIF rules) as disposing of or acquiring rights in an income year, the disposal or acquisition is ignored for the purposes of subsection (1)(d) and (e).
 Look-through calculation methods
 (2) Despite subsection (1), if the calculation method is the accounting profits method or branch equivalent method,—
   (a) FIF loss arises in the income year only if the relevant accounting period of the FIF ends during the year; and
@@ -6674,6 +6788,19 @@ Deduction: diminished value of expenditure
 (2) The person is allowed a deduction of the amount of the diminished value, for the income year, of the expenditure on the improvement.
 Link with subpart DA
 (3) This section overrides the general permission and the capital limitation. The other general limitations still apply.
+
+### DO 11B Entering partners’ livestock deduction
+When this section applies
+(1) This section applies when section HG 10 (Disposal of livestock) applies, and—
+  (a) an entering partner acquires partner’s interests in livestock; and
+  (b) the relevant exiting partner has net income from the amount of consideration paid or payable by the entering partner for the livestock, ignoring other transactions; and
+  (c) the amount paid or payable is not exempt or excluded income of the exiting partner.
+Deduction: default position
+(2) For the income year in which the entering partner acquires the livestock, the entering partner has a deduction equal to the amount of income described in subsection (4), unless they choose to apply subsection (3) in the return of income for the income year.
+Deduction: election to spread
+(3) If the entering partner chooses, for the income year in which the entering partner acquires the livestock, and in each of the following 4 years, the entering partner is allowed a deduction calculated using the following formula:income5.
+Definition of item in formula
+(4) In the formula, income is the net income that the exiting partner has from the disposal of their partner’s interests in livestock, ignoring other transactions.
 
 **Aquaculture**
 
@@ -6991,11 +7118,12 @@ Exclusion
 (2) This section does not apply to expenditure that a person incurs in acquiring a film right if—
   (a) the person operates a television station, a television network, or a cable television system, and the film right is acquired mainly to enable the film to be broadcast in New Zealand; or
   (b) the film is intended to be shown as an advertisement; or
-  (c) the expenditure is film production expenditure.
+  (c) the expenditure is film production expenditure; or
+  (c) section DS 2B applies to the expenditure.
 Timing of deduction
 (3) The deduction is allocated under section EJ 4 (Expenditure incurred in acquiring film rights in feature films) or EJ 5 (Expenditure incurred in acquiring film rights in films other than feature films).
 No other deduction
-(4) No other deduction for expenditure incurred in acquiring a film right is allowed under any other provision of this Act.
+(4) No other deduction for expenditure incurred in acquiring a film right is allowed under a provision of this Act other than section DS 2B.
 Avoidance arrangements
 (5) The amount of the deduction may be reduced under—
   (a) section GB 17 (Excessive amounts for film rights or production expenditure):
@@ -7016,14 +7144,16 @@ Inclusions
   (a) if a person (person A) reimburses another person (person B) for film production expenditure that person B incurs, and does it before the film is completed, the reimbursement is treated as film production expenditure incurred by person A; and
   (b) if a person (person A) reimburses another person (person B) for expenditure on interest incurred by person B in producing the film, person A may treat the reimbursement as film production expenditure incurred by person A.
 Exclusion
-(3) This section does not apply to film production expenditure if—
-  (a) the film is produced mainly for broadcast in New Zealand by a person who operates a television station, a television network, or a cable television system; or
-  (b) the film is intended to be shown as an advertisement; or
-  (c) the film is one for which a large budget screen production grant is made.
+(3) This section does not apply to film production expenditure if the film—
+  (a) is produced mainly for broadcast in New Zealand by a person who operates a television station, a television network, or a cable television system:
+  (b) is intended to be shown as an advertisement:
+  (c) section DS 2B applies to the film production expenditure.
 Timing of deduction
-(4) The deduction is allocated under section EJ 7 (Film production expenditure for New Zealand films) or EJ 8 (Film production expenditure for films other than New Zealand films).
+(4) The deduction is allocated under—
+  (a) section EJ 4 (Expenditure incurred in acquiring film rights in feature films) or EJ 5 (Expenditure incurred in acquiring film rights in films other than feature films) if the film is one for which a large budget screen production grant is made; or
+  (b) section EJ 7 (Film production expenditure for New Zealand films having no large budget screen production grant) or EJ 8 (Film production expenditure for other films having no large budget screen production grant) if the film is not one for which a large budget screen production grant is made.
 No other deduction
-(5) No other deduction for film production expenditure is allowed under any other provision of this Act.
+(5) No other deduction for film production expenditure is allowed under a provision of this Act other than section DS 2B.
 Avoidance arrangements
 (6) The amount of the deduction may be reduced or the timing of the deduction may be delayed under—
   (a) section GB 17 (Excessive amounts for film rights or production expenditure):
@@ -7037,6 +7167,16 @@ Link with subpart DA
     (i) the general permission must be satisfied; or
     (ii) a provision that supplements the general permission must be satisfied.
 
+### DS 2B Expenditure when film or film right intended for disposal
+When this section applies
+(1) This section applies when—
+  (a) a person incurs film production expenditure or expenditure in acquiring a film right; and
+  (b) at the time of incurring the expenditure, the person intends to dispose of the film or film right.
+Deduction
+(2) The person is allowed a deduction for the amount of the expenditure allocated under section EA 2 (Other revenue account property).
+Link with subpart DA
+(3) This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
+
 ### DS 3 Clawback of deductions for film reimbursement schemes
 Reduction of deductions
 (1) A person who disposes of property under a film reimbursement scheme must use the formula in subsection (3) to reduce—
@@ -7045,7 +7185,7 @@ Reduction of deductions
 Order of reduction
 (2) Deductions must be reduced in the same order as they have been allowed or would be allowed.
 Formula
-(3) The total deductions must be reduced to an amount equal to the greater of zero and the amount calculated using the formula—total deductions &#8722; total consideration.
+(3) The total deductions must be reduced to an amount equal to the greater of zero and the amount calculated using the formula—total deductions − total consideration.
 Definition of items in formula
 (4) In the formula,—
   (a) total deductions is the total amount of deductions that—
@@ -7104,9 +7244,9 @@ What this section applies to
     (ii) a prospecting permit for petroleum; or
     (iii) an exploration permit for petroleum.
 Amount of deduction
-(2) The person is allowed a deduction in an income year for the expenditure described in subsection (1)(a) but only to the extent of an amount equal to the greater of zero and the amount calculated using the formula—expenditure &#8722; (consideration &#8722; lesser amount).
+(2) The person is allowed a deduction in an income year for the expenditure described in subsection (1)(a) but only to the extent of an amount equal to the greater of zero and the amount calculated using the formula—expenditure − (consideration − lesser amount).
 Exclusion
-(3) If consideration for the property is derived in an income year, the person’s deductions in earlier income years for the expenditure described in subsection (1)(a) are reduced so that the total of those deductions is equal to the greater of zero and the amount calculated using the formula—previous expenditure &#8722; consideration.
+(3) If consideration for the property is derived in an income year, the person’s deductions in earlier income years for the expenditure described in subsection (1)(a) are reduced so that the total of those deductions is equal to the greater of zero and the amount calculated using the formula—previous expenditure − consideration.
 Definition of items in formulas
 (4) In the formulas in subsections (2) and (3),—
   (a) expenditure is the amount of expenditure for which the person would be allowed a deduction in the income year under section DT 1(1):
@@ -7428,13 +7568,13 @@ Limit
 Amount of deduction
 (2) The limit is the lesser of—
   (a) two-thirds of the mining outgoing excess; and
-  (b) the greater of zero and the amount calculated using the formula—non-mining income &#8722; non-mining expenditure.
+  (b) the greater of zero and the amount calculated using the formula—non-mining income − non-mining expenditure.
 Definition of items in formula
 (3) In the formula in subsection (2),—
   (a) non-mining income is the income other than income from mining of the mining company allocated to the income year:
   (b) non-mining expenditure is all the expenditure or loss that the mining company incurs in the income year relating to deriving non-mining income and for which it is allowed a deduction that is allocated to the income year.
 Meaning of mining outgoing excess
-(4) Mining outgoing excess means the greater of zero and the amount that a mining company calculates for an income year using the formula—mining expenditure &#8722; income from mining.
+(4) Mining outgoing excess means the greater of zero and the amount that a mining company calculates for an income year using the formula—mining expenditure − income from mining.
 Definition of items in formula
 (5) In the formula in subsection (4),—
   (a) mining expenditure is an amount consisting of—
@@ -7450,7 +7590,7 @@ Mining company’s share or interest in asset
     (ii) the exploration expenditure or development expenditure referred to in section DZ 12(2)(a) (Mineral mining: 1954–2005); and
   (b) to the extent to which the mining company uses the share or interest for the purpose of deriving income from mining.
 Partner’s share or interest in asset
-(2) For the purposes of sections DU 1 to DU 7, a partner’s share or interest in each asset of the partnership is the same as the partner’s interest in the totality of the assets of the partnership.
+(2)
 Replaced or repaired asset
 (3) For the purposes of sections DU 1 to DU 7,—
   (a) an asset that a mining company acquires by incurring expenditure in replacing or repairing the asset is the same asset as the one that was lost, destroyed, or damaged; and
@@ -7571,7 +7711,7 @@ Link with subpart DA
 
 ### DV 3 Formula for calculating maximum deduction
 Formula
-(1) The formula referred to in section DV 2(8) is—taxable income &#8722; non-resident passive income.
+(1) The formula referred to in section DV 2(8) is—taxable income − non-resident passive income.
 Definition of items in formula
 (2) The items in the formula are defined in subsections (3) and (4).
 Taxable income
@@ -7654,7 +7794,7 @@ Link with subpart DA
 
 ### DV 6 Formula for calculating maximum deduction
 Formula used to calculate maximum deduction
-(1) The formula referred to in section DV 5(7) is—taxable income &#8722; non-resident passive income.
+(1) The formula referred to in section DV 5(7) is—taxable income − non-resident passive income.
 Definition of items in formula
 (2) The items in the formula are defined in subsections (3) and (4).
 Taxable income
@@ -7720,9 +7860,9 @@ Link with subpart DA
 Deduction
 (1) A Maori authority is allowed a deduction for—
   (a) a donation that it makes to a Maori association, as defined in the Maori Community Development Act 1962, for the purposes of the Act:
-  (b) a charitable or other public benefit gift that it makes to a society, institution, association, organisation, trust, or fund of any of the kinds listed in schedule 32 (Recipients of charitable or other public benefit gifts).
+  (b) a charitable or other public benefit gift that it makes to a society, institution, association, organisation, trust, or fund to which section LD 3(2) (Meaning of charitable or other public benefit gift) or schedule 32 (Recipients of charitable or other public benefit gifts) applies.
 Amount of deduction
-(2) The deduction for the total of all donations and gifts made in an income year is limited to 5% of the amount that would be the Maori authority’s net income in the corresponding tax year in the absence of this section.
+(2) The deduction for the total of all donations and gifts made in an income year is limited to of the amount that would be the Maori authority’s net income in the corresponding tax year in the absence of this section.
 Link with subpart DA
 (3) This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
 
@@ -7804,7 +7944,7 @@ Allocation
 Amount paid
 (4) The amount referred to in subsection (2)(a) is the total amount that the association pays as association rebates to members for those mutual transactions that arise in the income year and which the association takes into account in determining its net income or net loss. In the calculation of the total amount, it is irrelevant that the amount paid may be limited or reduced because a member of the association has a share or interest in the capital of the association.
 Amount under formula
-(5) The amount is calculated using the formula—assessable income &#8722; (deductions + amount distributed).
+(5) The amount is calculated using the formula—assessable income − (deductions + amount distributed).
 Definition of items in formula
 (6) In the formula,—
   (a) assessable income is the total amount of the association’s assessable income attributable to the mutual transactions:
@@ -7816,6 +7956,9 @@ Statutory producer boards’ deductions
   (b) the board may choose whether the rebate is a deduction in the income year in which the amount is paid, or in the income year in which the mutual transaction giving rise to the amount is made.
 Link with subpart DA
 (8) This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
+
+### DV 20 Partners
+A person who is a partner is allowed a deduction for expenditure or loss to the extent to which the deduction results from the application of subpart HG (Joint venturers, partners, and partnerships) to them and their partnership.
 
 ### Subpart DW — Expenditure specific to certain industries
 
@@ -8340,9 +8483,15 @@ When company stops being part of group
 
 ### EB 6 Cost
 Valuation at cost
-(1) A person may determine the value of their closing stock at cost. If the person chooses this method, they must include and allocate costs under generally accepted accounting practice.
+(1) A person may determine the value of their closing stock at cost. If the person chooses this method, they must include and allocate costs under generally accepted accounting practice or as described in subsection (1B)(b).
+Valuation at cost: agricultural produce
+(1B) Despite subsection (1), a person who uses NZIAS 41 for their trading stock in their financial statements must—
+  (a) value their closing stock at cost; and
+  (b) include and allocate costs so that the value of their closing stock is not materially different from the value of the closing stock obtained by applying NZIAS 2, ignoring paragraph 20 of NZIAS 2.
 Whether valuation correct
-(2) For the purposes of subsection (1), the person has not complied with generally accepted accounting practice if the value of closing stock is materially different from the value obtained by applying, to the closing stock, Financial Reporting Standard No 4 (Accounting for Inventories) approved under the Financial Reporting Act 1993 or an equivalent standard issued in its place.
+(2) For the purposes of subsection (1), the person has not complied with generally accepted accounting practice if the value of closing stock is materially different from the value obtained by applying, to the closing stock, NZIAS 2 or an equivalent standard issued in its place.
+Definition
+(3) In this section, NZIAS 41 means New Zealand Equivalent to International Accounting Standard 41, approved by the Accounting Standards Review Board as amended from time to time, or an equivalent standard issued in its place.
 
 ### EB 7 Cost allocation: cost-flow method
 When this section applies: first case
@@ -8379,7 +8528,7 @@ Retailers
 (2) If the person is a retailer, the discounted selling price for each department or category of goods is the total of the retail selling prices of the goods minus the normal gross profit margin for the department or category of goods. This subsection is overridden by subsection (4).
 Normal gross profit margin for purposes of subsection (2)
 (3) For the purposes of subsection (2), the person must—
-  (a) calculate the normal gross profit margin for the department or category of goods under Financial Reporting Standard No 4 (Accounting for Inventories) approved under the Financial Reporting Act 1993 or an equivalent standard issued in its place; and
+  (a) calculate the normal gross profit margin for the department or category of goods under NZIAS 2 or an equivalent standard issued in its place; and
   (b) calculate the normal gross profit margin for each income year for each department or category of goods; and
   (c) include all costs that sections EB 6 to EB 8 require to be included.
 Retailers with turnover of $1,000,000 or less
@@ -8425,7 +8574,7 @@ Substantiating market selling value
   (c) replacement price, as described in section EB 10 or EB 20.
 
 ### EB 12 Valuing closing stock consistently
-In determining the value of closing stock at cost, discounted selling price, or replacement price, a person must comply with the consistency and disclosure requirements of Financial Reporting Standard No 1 (Disclosure of Accounting Policies) approved under the Financial Reporting Act 1993 or an equivalent standard issued in its place.
+In determining the value of closing stock at cost, discounted selling price, or replacement price, a person must comply with the consistency and disclosure requirements of NZIAS 8 or an equivalent standard issued in its place.
 
 **Low-turnover valuation**
 
@@ -8497,7 +8646,7 @@ Retailers with turnover of more than $1,000,000
 (3) If the low-turnover trader is a retailer whose turnover is more than $1,000,000, the discounted selling price for each department or category of goods is the total of the retail selling prices of the goods minus the normal gross profit margin for the department or category of goods.
 Normal gross profit margin for purposes of subsection (3)
 (4) For the purposes of subsection (3), the low-turnover trader must—
-  (a) calculate the normal gross profit margin for the department or category of goods under Financial Reporting Standard No 4 (Accounting for Inventories) approved under the Financial Reporting Act 1993 or an equivalent standard issued in its place; and
+  (a) calculate the normal gross profit margin for the department or category of goods under NZIAS 2 or an equivalent standard issued in its place; and
   (b) calculate the normal gross profit margin for each income year for each department or category of goods; and
   (c) include all costs that sections EB 16 to EB 18 require to be included.
 Not retailers
@@ -8525,7 +8674,7 @@ Establishing market selling value
 
 ### EB 22 Valuing closing stock consistently for low-turnover traders
 Traders complying with generally accepted accounting practice
-(1) In determining the value of closing stock at cost, discounted selling price, or replacement price, a low-turnover trader who complies with generally accepted accounting practice must comply with the consistency and disclosure requirements of Financial Reporting Standard No 1 (Disclosure of Accounting Policies) approved under the Financial Reporting Act 1983 or an equivalent standard issued in its place.
+(1) In determining the value of closing stock at cost, discounted selling price, or replacement price, a low-turnover trader who complies with generally accepted accounting practice must comply with the consistency and disclosure requirements of NZIAS 8 or an equivalent standard issued in its place.
 Other traders
 (2) A low-turnover trader who does not comply with generally accepted accounting practice must be consistent from 1 income year to the next in—
   (a) their choice of valuing closing stock at cost, discounted selling price, or replacement price; and
@@ -8859,7 +9008,7 @@ When this section applies
     (i) to return the livestock to the person who made it available; or
     (ii) to pay the person full compensation for it.
 Closing livestock numbers
-(2) Person A is treated as owning, and must take into account at the end of an income year, the total number for all classes calculated using the formula—total livestock &#8722; bailed livestock.
+(2) Person A is treated as owning, and must take into account at the end of an income year, the total number for all classes calculated using the formula—total livestock - bailed livestock.
 Definition of items in formula
 (3) In the formula,—
   (a) total livestock is all the livestock that person A has on hand in a class at the end of the income year, including—
@@ -9011,13 +9160,19 @@ Closing value not previously taken into account
 Determination of reduction
 (4) The reduction that applies is determined under section EC 41, EC 42, EZ 5, or EZ 6 (which relate to bloodstock).
 
-### EC 41 Reduction: bloodstock not previously used for breeding in New Zealand
+### EC 41 Reduction: bloodstock not previously used for breeding in New Zealand other than as shuttle stallions
 Bloodstock to which this section applies
 (1) This section applies to bloodstock that—
   (a) was not used for breeding in New Zealand before 16 December 1991; and
-  (b) before a person (person A) acquired it, was not used for breeding in New Zealand by any other person, unless—
-    (i) the other person transferred the bloodstock to person A under a matrimonial agreement to which section FB 18 (Bloodstock) applies; or
-    (ii) the other person and person A were companies in the same wholly-owned group at the time person A acquired the bloodstock from the other person.
+  (b) before a person (person A) acquired it, was not used for breeding in New Zealand by any other person.
+Further bloodstock to which this section applies
+(1B) This section also applies to bloodstock that, before person A acquired it, was used by another person for breeding in New Zealand if—
+  (a) the other person transferred the bloodstock to person A under a matrimonial agreement to which section FB 18 (Bloodstock) applies:
+  (b) the other person was a company in the same wholly-owned group as person A at the time person A acquired the bloodstock from the other person:
+  (c) the bloodstock is a stallion that, for each year in which the stallion was used for breeding in New Zealand before being acquired by person A, was—
+    (i) owned by a non-resident; and
+    (ii) removed from New Zealand after the breeding season; and
+    (iii) not subject to a reduction under this section.
 Stallion
 (2) For the purposes of sections EC 39 and EC 40, the reduction applying to the value of a stallion is 50% of the cost price of the stallion unless person A chooses to value the stallion by the reducing value method.
 Stallion valued by reducing value method
@@ -9085,7 +9240,7 @@ When this section applies
 Amount determined
 (2) The bloodstock owner may apply to the Commissioner to determine the amount that the bloodstock owner has applied in buying replacement breeding stock.
 Maximum amount
-(3) The amount must not be more than the net gain calculated using the formula—gross proceeds &#8722; value of breeding stock.
+(3) The amount must not be more than the net gain calculated using the formula—gross proceeds - value of breeding stock.
 Definition of items in formula
 (4) In the formula,—
   (a) gross proceeds is—
@@ -9117,7 +9272,7 @@ Cost-flow methods
   (a) the first-in first-out cost method; or
   (b) the weighted average cost method.
 Persons complying with generally accepted accounting practice
-(6) A person who complies with generally accepted accounting practice must comply with the consistency and disclosure requirements of Financial Reporting Standard No 1 (Disclosure of Accounting Policies) approved under the Financial Reporting Act 1993 or an equivalent standard issued in its place.
+(6) A person who complies with generally accepted accounting practice must comply with the consistency and disclosure requirements of NZIAS 8 or an equivalent standard issued in its place.
 Other persons
 (7) A person who does not comply with generally accepted accounting practice—
   (a) must be consistent from 1 income year to the next in their choice of 1 of the cost-flow methods described in subsection (5); and
@@ -9707,6 +9862,8 @@ No special rate for excluded depreciable property
 (2) A special rate may not be set for an item of excluded depreciable property.
 No provisional rate for fixed life intangible property or excluded depreciable property
 (3) A provisional rate may not be set for an item of fixed life intangible property or an item of excluded depreciable property.
+Exception
+(4) Section FA 11B(7) (Adjustments for certain operating leases) overrides this section.
 
 ### EE 36 Using economic rate or provisional rate instead of special rate
 Allowed to use economic or provisional rate
@@ -10110,13 +10267,16 @@ Cost increased: output tax
 **Adjusted tax value**
 
 ### EE 55 Meaning of adjusted tax value
+(1)
   - **Adjusted tax value** means,—
     (a) for an item of depreciable property, the amount calculated using the formula in section EE 56:
     (b) for a pool, the total of the adjusted tax values of the items in the pool.
+Exception
+(2) Section FA 11B(6) (Adjustments for certain operating leases) overrides this section.
 
 ### EE 56 Formula
 Formula
-(1) The formula referred to in section EE 55 is—base value &#8722; total deductions.
+(1) The formula referred to in section EE 55 is—base value – total deductions.
 Definition of items in formula
 (2) In the formula,—
   (a) base value has the applicable meaning in sections EE 57, EE 58, EE 59, and EZ 22(1) (Base value and total deductions in EE 56: before 1 April 1995):
@@ -10231,6 +10391,8 @@ Patents, applications: complete specification before 1 April 2005
   (c) the item is not an item of excluded depreciable property.
 Excluded depreciable property
 (7) The rate is the rate set by section EZ 15 (Annual rate for excluded depreciable property: 1992–93 tax year) if the item is an item of excluded depreciable property.
+Exception
+(8) Section FA 11B(7) (Adjustments for certain operating leases) overrides this section.
 
 ### EE 62 Meaning of depreciable intangible property
 Meaning
@@ -10452,7 +10614,7 @@ Some definitions
   - **accrual accounting method** means a method of accounting that is regarded as accrual accounting under generally accepted accounting practice
   - **cash accounting method** means a method of accounting by which the income tax liability of a person is calculated by reference to cash receipts or outgoings.
 
-### EG 3 Allocation of income and deductions by portfolio tax rate entity
+### EG 3 Allocation of income, deductions, and tax credits by portfolio tax rate entity
 When this section applies
 (1) This section applies for the calculation of a portfolio tax rate entity’s liability for income tax for a tax year.
 Allocation shown in accounts
@@ -10463,6 +10625,8 @@ Allocation shown in accounts
   (b) to portfolio investor classes and investors as—
     (i) reflected in the entity’s valuations of portfolio investor interests, if the entity makes such valuations; or
     (ii) shown in the entity’s financial statements, if subparagraph (i) does not apply.
+Tax credits
+(3) A tax credit received by a portfolio tax rate entity is allocated to the portfolio allocation period under subsection (2) of the income year to which the credit relates.
 
 ### Subpart EH — Income equalisation schemes
 
@@ -11510,7 +11674,9 @@ Personal representative
 
 ### EJ 4 Expenditure incurred in acquiring film rights in feature films
 Feature films
-(1) A deduction under section DS 1 (Acquiring film rights) for expenditure that a person incurs in acquiring a film right is allocated under this section, if the film is a feature film.
+(1) A deduction for expenditure that a person incurs in acquiring a film right is allocated under this section if the film is a feature film and—
+  (a) the deduction is allowed under section DS 1 (Acquiring film rights):
+  (b) the deduction is allowed under section DS 2 (Film production expenditure) and the film is one for which a large budget screen production grant is made.
 Timing of deduction: retention of film right
 (2) If the person has the film right at the end of an income year, the deduction that is allocated to the income year is the lesser of—
   (a) the greater of—
@@ -11533,7 +11699,9 @@ Meaning of remaining deduction
 
 ### EJ 5 Expenditure incurred in acquiring film rights in films other than feature films
 Films other than feature films
-(1) A deduction under section DS 1 (Acquiring film rights) for expenditure that a person incurs in acquiring a film right is allocated under this section, if the film is not a feature film.
+(1) A deduction for expenditure that a person incurs in acquiring a film right is allocated under this section if the film is not a feature film and—
+  (a) the deduction is allowed under section DS 1 (Acquiring film rights):
+  (b) the deduction is allowed under section DS 2 (Film production expenditure) and the film is one for which a large budget screen production grant is made.
 Timing of deduction: retention of film right
 (2) If the person has the film right at the end of an income year,—
   (a) the deduction that is allocated to the income year in which the film right is acquired or the film is completed, whichever is later, is—
@@ -11563,17 +11731,21 @@ Effect of revocation
 Notice of revocation to Commissioner
 (7) The New Zealand Film Commission must give notice to the Commissioner immediately after revoking a provisional certificate or a final certificate.
 
-### EJ 7 Film production expenditure for New Zealand films
+### EJ 7 Film production expenditure for New Zealand films having no large budget screen production grant
 New Zealand films
-(1) A deduction under section DS 2 (Film production expenditure) for film production expenditure is allocated under this section, if the film has a final certificate under section EJ 6.
+(1) A deduction under section DS 2 (Film production expenditure) for film production expenditure is allocated under this section if—
+  (a) the film is not one for which a large budget screen production grant is made; and
+  (b) the film has a final certificate under section EJ 6.
 Timing of deduction: up to completion of film
 (2) A deduction for film production expenditure incurred in or before the income year in which the film is completed is allocated to the income year in which the film is completed.
 Timing of deduction: after completion of film
 (3) A deduction for film production expenditure incurred after the film is completed is allocated to the income year in which it is incurred.
 
-### EJ 8 Film production expenditure for films other than New Zealand films
+### EJ 8 Film production expenditure for other films having no large budget screen production grant
 Films other than New Zealand films
-(1) A deduction under section DS 2 (Film production expenditure) is allocated under this section, if the film does not have a final certificate under section EJ 6.
+(1) A deduction under section DS 2 (Film production expenditure) for film production expenditure is allocated under this section if—
+  (a) the film is not one for which a large budget screen production grant is made; and
+  (b) the film does not have a final certificate under section EJ 6.
 Timing of deduction: up to completion of film
 (2) If the person has a film right at the end of the income year in which the film is completed, the deduction for film production expenditure incurred in or before the income year is allocated as follows:
   (a) to the income year in which the film is completed,—
@@ -11874,7 +12046,7 @@ Payment
   (b) the person’s maximum payment for the income year.
 Tax rate
 (5) Tax rate is the highest rate of income tax on taxable income that—
-  (a) is set out in schedule 1 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits); and
+  (a) is set out in schedule 1 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits); and
   (b) would apply to the person for the tax year if the person had sufficient taxable income.
 Timing of deduction
 (6) The person is allowed the deduction for the income year for which the payment is made.
@@ -11890,7 +12062,7 @@ Transfer
 (4) Transfer is the amount of the transfer to the person’s environmental restoration account that is treated as a payment by the person under section EK 15(3), EK 16, or EK 19.
 Tax rate
 (5) Tax rate is the highest rate of income tax on taxable income that—
-  (a) is set out in schedule 1 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits); and
+  (a) is set out in schedule 1 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits); and
   (b) would apply to the person for the tax year if the person had sufficient taxable income.
 Timing of deduction
 (6) The person is allowed the deduction for the income year for which the transfer is made.
@@ -11940,7 +12112,7 @@ Definition of items in formula
 (4) In the formula,—
   (a) amount is the amount of the refund:
   (b) tax rate is the highest rate of income tax on taxable income that—
-    (i) is set out in schedule 1 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits); and
+    (i) is set out in schedule 1 ( Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits); and
     (ii) would apply to the person for the tax year if the person had sufficient taxable income.
 Amount of refund if expenditure incurred
 (5) If a person is entitled to a refund under subsection (2)(a), the amount that the Commissioner must refund to the person is the smallest of—
@@ -12046,7 +12218,7 @@ Amount of maximum payment
   (a) the amount by which the maximum account balance for the income year for the environmental restoration account is more than the amount in the environmental restoration account at the end of the income year:
   (b) the amount, if any, calculated under subsection (3) for the person and the income year.
 Maximum payment for first 5 years of environmental restoration funds scheme
-(3) If a person has a maximum account balance for the 2005–06 income year that is more than zero, the amount referred to in subsection (2)(b) for the person and for that income year, and for each of the later income years before the 2010–11 income year, is the amount calculated using the formula—level increase + (year × 0.2 × initial level) &#8722; contents.
+(3) If a person has a maximum account balance for the 2005–06 income year that is more than zero, the amount referred to in subsection (2)(b) for the person and for that income year, and for each of the later income years before the 2010–11 income year, is the amount calculated using the formula—level increase + (year × 0.2 × initial level) - contents.
 Definition of items in formula
 (4) In the formula,—
   (a) level increase is the greater of zero and the amount by which the maximum account balance for the income year is more than the maximum account balance for the 2005–06 income year:
@@ -12065,7 +12237,7 @@ Definition of items in formula
     (i) is of a kind listed in schedule 19, part B (Expenditure in avoiding, remedying, or mitigating detrimental effects of discharge of contaminant); and
     (ii) is not of a kind listed in schedule 19, part C:
   (b) tax rate is the highest rate of income tax on taxable income that—
-    (i) is set out in schedule 1 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits); and
+    (i) is set out in schedule 1 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits); and
     (ii) would apply to the person for the tax year if the person had sufficient taxable income.
 Meaning of environmental restoration account
 (3) In this subpart, environmental restoration account, for a person, means the account that the Commissioner keeps in the person’s name under section EK 4.
@@ -12304,11 +12476,12 @@ Description
 (1) The spreading methods are methods of calculating and allocating income and expenditure under a financial arrangement over the arrangement’s term.
 Methods
 (2) A spreading method is 1 of the following:
+  (aa) a method for IFRS, to which sections EW 15B to EW 15I relate; or
   (a) the yield to maturity method or an alternative, to which sections EW 16, EW 19, and EW 23 are relevant; or
   (b) the straight-line method, to which sections EW 17 and EW 19 are relevant; or
   (c) a market valuation method, to which sections EW 18, EW 19, and EW 23 are relevant; or
   (d) a determination method or an alternative, to which sections EW 20 and EW 23 are relevant; or
-  (e) a financial reporting method, to which sections EW 21 and EW 23 are relevant; or
+  (e)
   (f) a default method, to which section EW 22 is relevant.
 Result
 (3) The amount calculated for and allocated to the income year under a spreading method is—
@@ -12318,18 +12491,141 @@ Result
 ### EW 15 What is included when spreading methods used
 Consideration and amounts
 (1) A person using a spreading method must include, for the purpose of calculating and allocating income and expenditure under the financial arrangement,—
-  (a) all consideration that has been paid, and all consideration that is or will be payable, to the person for or under the financial arrangement, ignoring non-contingent fees; and
-  (b) all consideration that has been paid, and all consideration that is or will be payable, by the person for or under the financial arrangement, ignoring non-contingent fees; and
+  (a) all consideration that has been paid, and all consideration that is or will be payable, to the person for or under the financial arrangement, ignoring—
+    (i) non-contingent fees, if the relevant method is not the IFRS financial reporting method in section EW 15D:
+    (ii) non-integral fees, if the relevant method is the IFRS financial reporting method in section EW 15D; and
+  (b) all consideration that has been paid, and all consideration that is or will be payable, by the person for or under the financial arrangement, ignoring—
+    (i) non-contingent fees, if the relevant method is not the IFRS financial reporting method in section EW 15D:
+    (ii) non-integral fees, if the relevant method is the IFRS financial reporting method in section EW 15D; and
   (c) all amounts that have been remitted, and all amounts that are to be remitted, by the person under the financial arrangement; and
   (d) all amounts that would have been payable to the person under the financial arrangement if the amounts had not been remitted by law.
 Consideration in particular cases
 (2) If any of sections EW 32 to EW 48 applies, the consideration referred to in subsection (1)(a) and (b) is adjusted under the relevant section.
 
+### EW 15B Applying IFRSs to financial arrangements
+When sections EW 15C to EW 15I apply
+(1) Sections EW 15C to EW 15I apply when a person who is a party to a financial arrangement uses IFRSs to prepare financial statements and to report for financial arrangements.
+Certain methods available for use and certain mandatory
+(2) Sections EW 15C to EW 15I set out—
+  (a) the methods available to the person to use for calculating and allocating income and expenditure under a financial arrangement:
+  (b) the circumstances in which a person must use certain other methods.
+
+### EW 15C Preparing and reporting methods
+Who this section applies to
+(1) A person who uses IFRSs to prepare financial statements and to report for financial arrangements must use 1 of the following methods for the financial arrangement:
+  (a) the IFRS financial reporting method in section EW 15D:
+  (b) a determination alternative in section EW 15E:
+  (c) the expected value method in section EW 15F:
+  (d) the modified fair value method in section EW 15G.
+Exclusions
+(2) Subsection (1) does not apply in the circumstances set out in sections EW 15H and EW 15I.
+
+### EW 15D IFRS financial reporting method
+General IFRS rules
+(1) Under the IFRS financial reporting method, a person must allocate an amount to an income year under IFRS rules modified, as applicable, under subsection (2).
+Modifications
+(2) The allocation is modified as follows:
+  (a) if the financial arrangement is a financial asset, an amount arising from an impaired credit adjustment under IFRSs is not allocated to an income year:
+  (b) even though an amount arising from the use of the fair value method may be allocated to equity reserves under IFRSs, the amount must be allocated to an income year for tax purposes.
+Meaning of impaired credit adjustment
+(3) For the purposes of this section, impaired credit adjustment means—
+  (a) for a financial arrangement accounted for under the fair value method, the movement in fair value through the decline in credit quality of the arrangement:
+  (b) for a financial arrangement not accounted for under the fair value method, credit impairment adjustments made under IFRSs.
+
+### EW 15E Determination alternatives
+When this section applies
+(1) This section applies when—
+  (a) a person chooses in a return of income to use a determination alternative to IFRS for a financial arrangement; and
+  (b) the method is available under its terms for the person to use; and
+  (c) the financial arrangement is not treated under IFRSs as a hedge of a financial arrangement (financial arrangement A), and—
+    (i) section EW 15D applies or has applied to financial arrangement A; and
+    (ii) the method used for financial arrangement A is or was the fair value method or a method that accounts for gains and losses related to the hedge.
+General IFRS rules
+(2) The person must use 1 of the following methods modified, as applicable, under subsection (3):
+  (a) Determination G9C: Financial arrangements that are denominated in a currency other than New Zealand dollars: an expected value approach:
+  (b) Determination G14B: Forward contracts for foreign exchange and commodities: an expected value approach:
+  (c) Determination G27: Swaps:
+  (d) a determination made by the Commissioner under section 90AC(1)(bb) of the Tax Administration Act 1994:
+  (e) a method other than those set out in paragraphs (a) to (d) if the alternative—
+    (i) has regard to the purposes of the financial arrangements rules under section EW 1(3); and
+    (ii) is for a financial arrangement similar to 1 to which the methods set out in paragraphs (a) to (d) may apply; and
+    (iii) results in the allocation to each income year of amounts that are not materially different from those that would have been allocated using 1 of the methods set out in paragraphs (a) to (d).
+Modifications
+(3) For a determination alternative that is Determination G9C or G14B, the allocation is modified as follows:
+  (a) the term forward contract is treated as including a conditional or unconditional agreement to pay or be paid an amount calculated by reference to the price of property or services, without the property being delivered or the services being performed:
+  (b) a requirement that all companies in a group of companies to which the person belongs choose to use the determination alternative is treated as met if—
+    (i) all companies in the group choose Determination G9C or G14B in writing on or before the 63rd day after the person enters into the financial arrangement, or a later time as the Commissioner allows; and
+    (ii) the financial arrangement is the first financial arrangement of the group for which Determination G9C or G14B may be used.
+Succeeding determinations
+(4) For the purposes of this section, the determinations set out in subsection (2)(a) to (c) include a determination that succeeds the determination.
+
+### EW 15F Expected value method
+When this section applies
+(1) This section applies when—
+  (a) a person has entered into a financial arrangement in the ordinary course of their business and the person is not in the business of dealing in relation to the financial arrangement; and
+  (b) the financial arrangement is denominated in a currency other than New Zealand dollars or is a derivative instrument; and
+  (c) the financial arrangement is not treated under IFRSs as a hedge of a financial arrangement (financial arrangement A), and—
+    (i) section EW 15D applies or has applied to financial arrangement A; and
+    (ii) the method used for financial arrangement A is or was the fair value method or a method that accounts for gains and losses related to the hedge; and
+  (d) the person and all companies in a group of companies to which the person belongs have chosen to use the expected value method by notifying the Commissioner at the time of filing a return of income.
+Method chosen
+(2) The person must use a method that—
+  (a) has the features of an expected value approach described in Determinations G9C and G14B; and
+  (b) allocates a reasonable amount for each income year of the term of the financial arrangement, having regard to the purposes of the financial arrangements rules under section EW 1(3).
+Meaning of derivative instrument
+(3) For the purposes of this section and section EW 15G, derivative instrument has the same meaning as in NZIAS 39.
+
+### EW 15G Modified fair value method
+When this section applies
+(1) This section applies when—
+  (a) a person has entered into a financial arrangement in the ordinary course of their business and the person is not in the business of dealing in relation to the financial arrangement; and
+  (b) the financial arrangement is denominated in a currency other than New Zealand dollars or is a derivative instrument; and
+  (c) the financial arrangement is not treated under IFRSs as a hedge of a financial arrangement (financial arrangement A), and—
+    (i) section EW 15D applies or has applied to financial arrangement A; and
+    (ii) the method used for financial arrangement A is or was the fair value method or a method that accounts for gains and losses related to the hedge; and
+  (d) the person and all companies in a group of companies to which the person belongs have chosen to use the fair value method by notifying the Commissioner at the time of filing a return of income.
+Method chosen
+(2) The person must use a method that is the fair value method under IFRSs. However an amount allocated to equity reserves under IFRSs must not be allocated to an income year.
+
+### EW 15H Mandatory use of some determinations
+Required methods
+(1) Section EW 15C(1) does not apply when any of the following determinations apply to a person and a financial arrangement:
+  (a) Determination G5C: Mandatory conversion convertible notes:
+  (b) Determination G22: Optional conversion convertible notes denominated in New Zealand dollars convertible at the option of the holder:
+  (c) Determination G22A: Optional convertible notes denominated in New Zealand dollars:
+  (d) Determination G29: Agreements for sale and purchase of property denominated in foreign currency: exchange rate to determine the acquisition price and method for spreading income and expenditure:
+  (e) a method other than those set out in paragraphs (a) to (d) if the alternative—
+    (i) has regard to the purposes of the financial arrangements rules under section EW 1(3); and
+    (ii) is for a financial arrangement similar to 1 to which the methods set out in paragraphs (a) to (d) may apply; and
+    (iii) results in the allocation to each income year of amounts that are not materially different from those that would have been allocated using 1 of the methods set out in paragraphs (a) to (d).
+Succeeding determinations
+(2) For the purposes of this section, the determinations set out in subsection (1)(a), (c), and (d) include a determination that succeeds the determination.
+
+### EW 15I Mandatory use of yield to maturity method for some arrangements
+When this section applies
+(1) This section applies and section EW 15C(1) does not apply when—
+  (a) a person is not required to use a method under section EW 15H for a financial arrangement; and
+  (b) the financial arrangement—
+    (i) includes in part an excepted financial arrangement; or
+    (ii) is treated by the person or its issuer, all or in part, as an equity instrument under IFRSs; or
+    (iii) is an agreement for the sale and purchase of property or services.
+Methods
+(2) The person must use 1 of the following methods to allocate an amount to an income year if the method is available under its terms for the person to use:
+  (a) the yield to maturity method:
+  (b) Determination G26: Variable rate financial arrangements or a determination that succeeds it:
+  (c) a determination made by the Commissioner under section 90AC(1)(bb) of the Tax Administration Act 1994:
+  (d) a method other than those set out in paragraphs (a) to (c) if the alternative—
+    (i) has regard to the purposes of the financial arrangements rules under section EW 1(3); and
+    (ii) is for a financial arrangement similar to 1 to which the methods set out in paragraphs (a) to (c) may apply; and
+    (iii) results in the allocation to each income year of amounts that are not materially different from those that would have been allocated using 1 of the methods set out in paragraphs (a) to (c).
+Meaning of equity instrument
+(3) For the purposes of this section, equity instrument has the same meaning as in NZIAS 32.
+
 ### EW 16 Yield to maturity method or alternative
 Who may use yield to maturity method
-(1) A person who is a party to a financial arrangement may use the yield to maturity method.
+(1) A person who is a party to a financial arrangement may use the yield to maturity method, if the person is not required to use a method under section EW 15B.
 Who may use alternative
-(2) A person who is a party to a financial arrangement may use an alternative to the yield to maturity method, but may do so only if the alternative—
+(2) A person who is a party to a financial arrangement may use an alternative to the yield to maturity method, if the person is not required to use a method under section EW 15B, but may do so only if the alternative—
   (a) has regard to the principles of accrual accounting; and
   (b) conforms with commercially acceptable practice; and
   (c) results in the allocation to each income year of amounts that are not materially different from those that would have been allocated using the yield to maturity method; and
@@ -12339,7 +12635,8 @@ Who may use alternative
 Who may use straight-line method
 (1) A person who is a party to a financial arrangement may use the straight-line method if—
   (a) the total value of all the financial arrangements to which the person is a party in an income year has been $1,500,000 or less on every day in the income year; and
-  (b) the person complies with section EW 25(1).
+  (b) the person complies with section EW 25(1); and
+  (c) the person is not required to use a method under section EW 15B.
 Calculation of total value of financial arrangements
 (2) When calculating total value, the person must—
   (a) include every one of their financial arrangements, whether the financial arrangements rules or the old financial arrangements rules apply to it; and
@@ -12362,12 +12659,13 @@ Who may use market valuation method
     (ii) the person can demonstrate market prices that are reliable; and
   (d) the method conforms with commercially acceptable practice; and
   (e) the person complies with section EW 25(4); and
-  (f) the method is also used by the person for financial reporting purposes for financial arrangements that are the same as, or similar to, the arrangements, although section EW 23 may apply if the method is not used in this way.
+  (f) the method is also used by the person for financial reporting purposes for financial arrangements that are the same as, or similar to, the arrangements, although section EW 23 may apply if the method is not used in this way; and
+  (g) the person is not required to use a method under section EW 15B.
 Application of Tax Administration Act 1994
 (2) Section 22A(1) of the Tax Administration Act 1994 applies to a person to whom subsection (1)(c)(ii) applies.
 
-### EW 19 Choice among first 3 spreading methods
-A person who may use the yield to maturity method or an alternative, the straight-line method, or a market valuation method for a financial arrangement may choose to use whichever of those methods the person can use for the arrangement.
+### EW 19 Choice among some spreading methods
+A person who is not required to use a method under section EW 15B and who may use the yield to maturity method or an alternative, the straight-line method, or a market valuation method for a financial arrangement may choose to use whichever of those methods the person can use for the arrangement.
 
 ### EW 20 Determination method or alternative
 Who may use determination method
@@ -12375,28 +12673,22 @@ Who may use determination method
   (a) the person cannot use the yield to maturity method or an alternative; and
   (b) the person—
     (i) may not use the straight-line method or a market valuation method; or
-    (ii) may use the straight-line method or a market valuation method but chooses not to do so.
+    (ii) may use the straight-line method or a market valuation method but chooses not to do so; and
+  (c) the person is not required to use a method under section EW 15B.
 Who may use alternative
 (2) A person who is a party to a financial arrangement may use an alternative to a determination method, but may do so only if—
   (a) the person cannot use the yield to maturity method or an alternative; and
   (b) the person—
     (i) may not use the straight-line method or a market valuation method; or
     (ii) may use the straight-line method or a market valuation method but chooses not to do so; and
+  (bb) the person is not required to use a method under section EW 15B; and
   (c) the alternative has regard to the principles of accrual accounting; and
   (d) the alternative conforms with commercially acceptable practice; and
   (e) the alternative results in the allocation to each income year of amounts that are not materially different from those that would have been allocated using the determination method; and
   (f) the alternative is also used by the person for financial reporting purposes for financial arrangements that are the same as, or similar to, the arrangements although section EW 23 may apply if the alternative is not used in this way.
 
 ### EW 21 Financial reporting method
-A person who is a party to a financial arrangement may use a financial reporting method if—
-  (a) the person cannot use the yield to maturity method or an alternative; and
-  (b) the person—
-    (i) may not use the straight-line method or a market valuation method; or
-    (ii) may use the straight-line method or a market valuation method but chooses not to do so; and
-  (c) the Commissioner has not made a determination for the financial arrangement under section 90AC(1)(d) of the Tax Administration Act 1994; and
-  (d) the method conforms with commercially acceptable practice; and
-  (e) the method is also used by the person for financial reporting purposes for financial arrangements that are the same as, or similar to, the arrangements, although section EW 23 may apply if the method is not used in this way; and
-  (f) the method allocates a reasonable amount to each income year over the financial arrangement’s term.
+[Repealed]
 
 ### EW 22 Default method
 A person who is a party to a financial arrangement may use a default method if—
@@ -12404,30 +12696,32 @@ A person who is a party to a financial arrangement may use a default method if�
   (b) the person—
     (i) may not use the straight-line method or a market valuation method; or
     (ii) may use the straight-line method or a market valuation method but chooses not to do so; and
-  (c) the person may not use a determination method or an alternative, or a financial reporting method; and
-  (d) the person—
-    (i) does not prepare financial accounts; or
-    (ii) does not report the income derived or expenditure incurred under a financial arrangement for financial reporting purposes; and
+  (c) the person may not use a determination method or an alternative; and
+  (d)
   (e) the method conforms with commercially acceptable practice; and
   (f) the method allocates a reasonable amount to each income year over the financial arrangement’s term.
 
 ### EW 23 Failure to use method for financial reporting purposes
 When this section applies
-(1) This section applies when a person would be allowed to use a method but for the fact that the person does not comply with whichever is relevant of sections EW 16(2)(d), EW 18(1)(f), EW 20(2)(f), and EW 21(e).
+(1) This section applies when a person would be allowed to use a method but for the fact that the person does not comply with whichever is relevant of sections EW 16(2)(d), EW 18(1)(f), and EW 20(2)(f).
 Person treated as complying
-(2) The person is treated as complying with whichever is relevant of sections EW 16(2)(d), EW 18(1)(f), EW 20(2)(f), and EW 21(e) if the method that the person uses for each financial arrangement—
+(2) The person is treated as complying with whichever is relevant of sections EW 16(2)(d), EW 18(1)(f), and EW 20(2)(f) if the method that the person uses for each financial arrangement—
   (a) is used for the financial arrangement, and each financial arrangement that is the same as, or similar to, the arrangements, for every income year over its term for the purposes of the financial arrangements rules; and
   (b) appropriately reflects the dominant purpose for which the person entered into the financial arrangement; and
   (c) is not used for the purpose of tax avoidance; and
   (d) has been approved for use in circumstances applying to the person by the Commissioner, either by giving notice to the person or by making a determination under section 90AC(1)(f) of the Tax Administration Act 1994.
 Qualification on subsection (2)(a)
 (3) A method complies with subsection (2)(a), even if it is a change from a previous method, as long as the Commissioner approves the change in method under the circumstances or conditions specified in a determination under 90AC(1)(g) of the Tax Administration Act 1994.
+IFRS financial reporting
+(4) This section is modified by section EZ 32B (Transitional rule for IFRS reporting).
 
 ### EW 24 Consistency of use of spreading method
 Consistency required
 (1) A person must use the same spreading method for financial arrangements that are the same as, or similar to, the arrangements for every income year. This subsection is overridden by subsection (3).
 Straight-line method and market valuation method
 (2) Section EW 25 sets out particular consistency requirements for the straight-line method and a market valuation method.
+IFRS method
+(2B) Section EW 25B sets out a particular consistency requirement for a method for IFRS preparers.
 Change of spreading method
 (3) Section EW 26 sets out the circumstances in which a person may change their spreading method.
 
@@ -12445,6 +12739,18 @@ Market valuation method
 Increase in specified sum
 (5) The Governor-General may make an Order in Council under section EW 17(3) increasing the sum specified in subsection (3).
 
+### EW 25B Consistency of use of IFRS method
+Consistency
+(1) A person who uses a method for IFRS under section EW 15C for a financial arrangement must use the method for—
+  (a) the remaining term of the arrangement until section EW 29 requires them to calculate a base price adjustment for the arrangement:
+  (b) other financial arrangements that are the same as, or similar to, the arrangement unless a different accounting treatment under IFRSs is used.
+Exception
+(2) Despite subsection (1)(a), a person may change a method for IFRS if—
+  (a) the new method is available to them to use; and
+  (b) the accounting treatment for the financial arrangement under IFRSs is changed in the same income year in which the method is changed for tax purposes.
+Spreading method adjustment
+(3) For the purposes of subsection (2), section EW 26(3), (4), and EW 27 apply as if the change in method were a change under section EW 26(2). However, those sections do not apply if the change is from the fair value method, in which case section EW 29(13) applies.
+
 ### EW 26 Change of spreading method
 Change of straight-line or market valuation method
 (1) A person may change from the straight-line method or the market valuation method with the Commissioner’s written authorisation.
@@ -12460,6 +12766,12 @@ Positive or negative spreading method adjustment
   (b) if negative, expenditure incurred by the person in the income year for which the calculation is made.
 Application of Tax Administration Act 1994
 (5) Section 22A(2) of the Tax Administration Act 1994 applies to a person to whom subsection (2) applies.
+Exception for fair value method
+(6) Subsection (3) and (4) and section EW 27 do not apply to a financial arrangement if the person's change of spreading method involves a change from the fair value method, in which case section EW 29(13) applies.
+Meaning of sound commercial reason
+(7) In this section, sound commercial reason includes—
+  (a) starting or stopping the use of IFRSs to prepare financial statements:
+  (b) starting to use a method for IFRS under section EW 15B for a financial arrangement for the first time.
 
 ### EW 27 Spreading method adjustment formula
 Calculation of spreading method adjustment
@@ -12469,7 +12781,7 @@ What formula applies to
   (a) are a party at the end of the income year in which they change their spreading method; and
   (b) were a party at the end of the previous income year.
 Formula
-(3) The formula is—income (new method) &#8722; expenditure (new method) &#8722; income (old method) + expenditure (old method).
+(3) The formula is—income (new method) - expenditure (new method) - income (old method) + expenditure (old method).
 Definition of items in formula
 (4) The items in the formula are defined in subsections (5) to (8).
 Income (new method)
@@ -12513,6 +12825,8 @@ Composition with creditors
 (11) A party to a financial arrangement must calculate a base price adjustment as at the date on which a party to the arrangement is released from making all remaining payments under the arrangement by a deed or agreement of composition with the party’s creditors.
 Lapse of time
 (12) A party to a financial arrangement must calculate a base price adjustment as at the date on which all remaining payments under the arrangement become irrecoverable or unenforceable through the lapse of time.
+Changing from fair value method
+(13) A party to the financial arrangement who changes from the fair value method to another method must calculate a base price adjustment at the date of the change.
 
 ### EW 30 When calculation of base price adjustment not required
 Cash basis person who ceases to be temporary New Zealand resident
@@ -12542,11 +12856,13 @@ Positive base price adjustment
 Negative base price adjustment
 (4) A base price adjustment, if negative, is expenditure incurred by the person in the income year for which the calculation is made. The person is allowed a deduction for the expenditure under section DB 11 (Negative base price adjustment).
 Formula
-(5) The formula is—consideration &#8722; income + expenditure + amount remitted.
+(5) The formula is—consideration - income + expenditure + amount remitted.
 Definition of items in formula
 (6) The items in the formula are defined in subsections (7) to (11).
 Consideration
-(7) Consideration is all consideration that has been paid, and all consideration that is or will be payable, to the person for or under the financial arrangement, ignoring non-contingent fees, minus all consideration that has been paid, and all consideration that is or will be payable, by the person for or under the financial arrangement, ignoring non-contingent fees.
+(7) Consideration is all consideration that has been paid, and all consideration that is or will be payable, to the person for or under the financial arrangement, ignoring non-contingent fees, minus all consideration that has been paid, and all consideration that is or will be payable, by the person for or under the financial arrangement, ignoring—
+  (a) non-contingent fees, if the relevant method is not the IFRS financial reporting method in section EW 15D:
+  (b) non-integral fees, if the relevant method is the IFRS financial reporting method in section EW 15D.
 Consideration in particular cases
 (8) If any of sections EW 32 to EW 48 applies, the consideration referred to in subsection (7) is adjusted under the relevant section.
 Income
@@ -12777,7 +13093,7 @@ When this section applies
     (ii) before the date that is 18 months after the end of the state of emergency; and
   (e) in the absence of this section, the amount of the remitted liability would be income of the person.
 Consideration
-(2) The person is treated as having paid, on the date on which the liability is forgiven or remitted, the part of the amount owing that is the greater of zero and the amount calculated using the formula—remitted amount &#8722; current loss &#8722; loss balance &#8722; other loss.
+(2) The person is treated as having paid, on the date on which the liability is forgiven or remitted, the part of the amount owing that is the greater of zero and the amount calculated using the formula—remitted amount - current loss - loss balance - other loss.
 Definition of items in formula
 (3) In the formula,—
   (a) remitted amount is the amount of the remitted liability:
@@ -12801,6 +13117,14 @@ Loss incurred by associated person from business or land
   (d) is included in the calculation in subsection (3) to an extent to which the Commissioner determines, having regard to the interests of the associated person that are separate from those of the person.
 Notice to associated person
 (5) The Commissioner must give the associated person notice of a determination under subsection (4)(d).
+
+### EW 46B Consideration when party changes from fair value method
+When this section applies
+(1) This section applies when a party to a financial arrangement—
+  (a) changes from the fair value method to another method; and
+  (b) is required under section EW 29(13) to calculate a base price adjustment at the date of the change.
+Consideration
+(2) The person is treated as having been paid an amount equal to the market value of the financial arrangement on the date of the change.
 
 **Consideration when legal defeasance has occurred**
 
@@ -12977,7 +13301,7 @@ Absolute value threshold
 Deferral threshold
 (3) For the purposes of section EW 56(1)(b), this subsection applies if the result of applying the formula in subsection (4) to each financial arrangement to which the person is a party at the end of the income year and adding the outcomes together is $40,000 or less.
 Formula
-(4) The formula is—(accrual income &#8722; cash basis income) + (cash basis expenditure &#8722; accrual expenditure).
+(4) The formula is—(accrual income - cash basis income) + (cash basis expenditure - accrual expenditure).
 Definition of items in formula
 (5) The items in the formula are defined in subsections (6) to (9).
 Accrual income
@@ -13001,9 +13325,7 @@ Inclusions in and exclusions from thresholds
   (a) the calculations include an arrangement, or income and expenditure, to which subsection (2) or (3) applies only to the extent of the person’s interest in it, as described in each subsection; and
   (b) the calculations exclude the value of an arrangement, and income and expenditure, in which the person has the interest described in subsection (4) or (5).
 Natural person who is partner
-(2) This subsection applies when a partnership required to make a joint return of income under section 42(1) of the Tax Administration Act 1994 is a party to a financial arrangement. A natural person who is a partner in the partnership—
-  (a) is a party to the arrangement to the extent of the partner’s share in the arrangement; and
-  (b) derives income or incurs expenditure under the arrangement to the extent of the partner’s share in the income or expenditure of the partnership.
+(2)
 Natural person who is beneficiary of bare trust
 (3) This subsection applies when the trustee of a bare trust is a party to a financial arrangement. A natural person who is a beneficiary of the bare trust—
   (a) is treated as a party to the arrangement to the extent of the beneficiary’s share of the beneficial interest in the arrangement; and
@@ -13080,7 +13402,7 @@ Positive or negative cash basis adjustment
 
 ### EW 63 Cash basis adjustment formula
 Formula
-(1) A person calculates a cash basis adjustment using the formula—adjusted income &#8722; adjusted expenditure &#8722; previous income + previous expenditure.
+(1) A person calculates a cash basis adjustment using the formula—adjusted income - adjusted expenditure - previous income + previous expenditure.
 Definition of items in formula
 (2) The items in the formula are defined in subsections (3) to (6).
 Adjusted income
@@ -13112,7 +13434,7 @@ Tests of control
     (iii) the other person is not associated with the New Zealand resident:
   (c) there is a group of 5 or fewer New Zealand residents who can control the exercise of the shareholder decision-making rights for the company and, as a result, control the company’s affairs.
 Exception
-(2) Even if 1 of the tests in subsection (1) is met, a foreign company is not a CFC if—
+(2) Even if a test in subsection (1) is met, a foreign company is not a CFC if—
   (a) the foreign company is a foreign investment vehicle; and
   (b) 1 of the New Zealand residents is—
     (i) a portfolio investment entity:
@@ -13275,7 +13597,7 @@ Entitlement to acquire
 Actual holder outside CFC rules attribution
 (3) For this section to apply, the actual holder of the thing subject to the option must not be—
   (a) another CFC:
-  (b) a New Zealand resident, unless they are a New Zealand resident whose income interest in the first CFC for the accounting period in question is less than 10%.
+  (b) a New Zealand resident, unless they are a New Zealand resident whose income interest in the first CFC for the accounting period in question is less than 10% under sections EX 14 to EX 17.
 Terms of option indicating economic ownership
 (4) For this section to apply, the option must have 1 of the following features:
   (a) in the absence of this section, the effect of the option would be to defeat the intent and application of subpart CQ (Attributed income from foreign equity) or DN (Attributed losses from foreign equity) or this subpart, taking into account the economic benefit that the person gets as a result of the CFC deriving income:
@@ -13291,10 +13613,7 @@ Proportional reduction
 (2) Each person’s income interest for the period is reduced to the amount calculated using the formula—
 
 ### EX 13 Income interests of partners
-When this section applies
-(1) This section applies when a partnership holds rights that would be an income interest in a CFC if the partnership were an individual.
-Partners’ proportions
-(2) When income interests in the CFC are calculated, each partner is treated as holding a share of anything held by the partnership, in proportion to the partner’s interest in the partnership.
+[Repealed]
 
 **Ten percent threshold and variations in income interest level**
 
@@ -13303,7 +13622,7 @@ A person has attributed CFC income or attributed CFC loss from a CFC only if the
 
 ### EX 15 Associates and 10% threshold
 Associates included
-(1) Solely for the purpose of applying the 10% threshold in section EX 14, and the equivalent test in sections EX 34(b) and EX 58(1)(a), a person’s income interest in a CFC is increased by each income interest in the CFC for the accounting period of a person associated with the person.
+(1) For the purpose of applying the 10% threshold in section EX 14, a person's income interest in a CFC is increased by each income interest in the CFC, for the relevant accounting period, of a person associated with the person.
 Exception
 (2) Despite subsection (1), the income interest of an associate is not counted if the associate is a CFC.
 
@@ -13349,7 +13668,7 @@ Additional attributed CFC income
 Calculation of additional attributed CFC income
 (3) The amount of the additional attributed CFC income is calculated using the formula—person’s income interest in CFC for accounting period × taxable distribution.
 Non-complying trust tax rate
-(4) The person is liable for income tax on the additional attributed CFC income at the rate in schedule 1 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) that applies to amounts under HC 19 (Taxable distributions from non-complying trusts).
+(4) The person is liable for income tax on the additional attributed CFC income at the rate in schedule 1 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) that applies to amounts under HC 19 (Taxable distributions from non-complying trusts).
 Disclosure restrictions on grey list CFCs
 (5) No additional attributed CFC income arises under this section to the extent to which section EZ 31 (Disclosure restrictions on grey list CFCs before 2011–12) applies.
 
@@ -13405,7 +13724,7 @@ Opening cost base: tangible assets: later periods
 Opening cost base: financial arrangements: first period
 (11) If the taxpayer had no attributed CFC income or loss from the CFC for the previous accounting period, the taxpayer must choose to calculate the consideration under the financial arrangements rules for a financial arrangement at the start of an accounting period, at—
   (a) the market value of the financial arrangement; or
-  (b) the absolute value calculated using the formula—consideration paid to the CFC + expenditure &#8722; consideration paid by the CFC &#8722; income.
+  (b) the absolute value calculated using the formula—consideration paid to the CFC + expenditure - consideration paid by the CFC - income.
 Definition of items in formula
 (12) In the formula,—
   (a) consideration paid to the CFC is the consideration paid to the CFC for all periods before the accounting period:
@@ -13628,40 +13947,65 @@ Partnerships
 (8) In this section, if a partnership holds any rights, each partner is treated as holding a share of those rights in proportion to the partner’s interest in the partnership.
 
 ### EX 31 Exemption for ASX-listed Australian companies
-A person’s rights in a FIF in an income year are not an attributing interest if—
-  (a) the rights are a direct income interest; and
-  (b) the FIF is a company that, at all times in the year, is resident in Australia and not treated under a double tax agreement between Australia and another country as resident in a country other than Australia or New Zealand; and
-  (c) shares in the company are, at all times in the year, included in an index that is an approved index under the ASX Market Rules made under Chapter 7 of the Corporations Act 2001 (Aust); and
-  (d) the company is, at all times in the year, not an entity described in schedule 25, part B (Foreign investment funds); and
-  (e) the company is, at all times in the year, required to maintain a franking account under the Income Tax Assessment Act 1997 (Aust) and Income Tax Assessment Act 1936 (Aust).
-
-### EX 32 Exemption for Australian unit trusts with 25% turnover
 Exemption
-(1) A person’s rights in a FIF in an income year are not an attributing interest if—
+(1) A person's rights in a FIF in an income year are not an attributing interest if—
+  (a) the rights are a share; and
+  (b) the share is not a share that may not, or ordinarily may not, be disposed of unless together with rights in another company; and
+  (c) the FIF is a company that meets the requirements of subsection (2).
+Australian listed company on approved index
+(2) The company must—
+  (a) at all times in the year when the person holds a right in the company, be resident in Australia; and
+  (b) at all times in the year when the person holds a right in the company, not be treated as resident in a country other than Australia under an agreement that—
+    (i) is between Australia and that other country; and
+    (ii) would be a double tax agreement if negotiated between New Zealand and that other country; and
+  (c) have shares included in an index that is an approved index under the ASX Market Rules, made under Chapter 7 of the Corporations Act 2001 (Aust),—
+    (i) at the beginning of an income year, if subparagraph (ii) does not apply; or
+    (ii) when the person acquires the shares, if the person does not own shares in the company earlier in the year; and
+  (d) at all times in the year when the person holds a right in the company, not be an entity described in schedule 25, part B (Foreign investment funds); and
+  (e) at all times in the year when the person holds a right in the company, be required under the Income Tax Assessment Act 1997 (Aust) and Income Tax Assessment Act 1936 (Aust) to maintain a franking account.
+
+### EX 32 Exemption for Australian unit trusts with adequate turnover or distributions
+Exemption
+(1) A person's rights in a FIF in an income year are not an attributing interest if—
   (a) the rights are a direct income interest; and
   (b) the FIF is a unit trust; and
-  (c) the unit trust is, at all times in the year, resident in Australia and not treated under a double tax agreement between Australia and another country as resident in a country other than Australia or New Zealand; and
-  (d) the unit trust is, at all times in the year, not an entity described in schedule 25, part B (Foreign investment funds); and
-  (e) at all times in the year, an RWT proxy exists under section 15T of the Tax Administration Act 1994 for the unit trust and payments by the unit trust to the person; and
-  (f) for the year, the 25% minimum turnover test contained in subsection (2) is satisfied.
+  (c) at all times in the year when the person holds a right in the unit trust, the unit trust is resident in Australia; and
+  (d) at all times in the year when the person holds a right in the unit trust, the unit trust is not treated as resident in a country other than Australia under an agreement that—
+    (i) is between Australia and that other country; and
+    (ii) would be a double tax agreement if negotiated between New Zealand and that other country; and
+  (e) the unit trust is, at all times in the year, not an entity described in schedule 25, part B (Foreign investment funds); and
+  (f) at all times in the year when the unit trust makes a distribution to investors, there is an RWT proxy under section 15T of the Tax Administration Act 1994 for the unit trust and payments by the unit trust to the person; and
+  (g) for the trust's accounting year (the trust's year) that ends in the person's income year, the unit trust meets—
+    (i) the 25% minimum share turnover test in subsection (2):
+    (ii) the 70% minimum distribution test in subsection (7).
 25% minimum turnover test
-(2) The 25% minimum turnover test is that, for the year, the amount of total net realised gains calculated under subsection (3) must be 25% or more of the amount of total net unrealised gains at the end of the year calculated under subsection (5).
+(2) The 25% minimum turnover test requires that, for the trust's year, the amount of total net realised gains calculated under subsection (3) must be 25% or more of the amount of total net unrealised gains at the end of the year calculated under subsection (5).
 Calculation of total net realised gains
-(3) The amount of total net realised gains is calculated using the formula—total disposal gain &#8722; total cost.
+(3) The amount of total net realised gains is calculated using the formula—total disposal gain − total cost
 Definition of items in formula
-(4) In the formula,—
-  (a) total disposal gain is the total of amounts derived from disposal of assets by the unit trust during the year:
-  (b) total cost is the total cost to the unit trust of those assets.
+(4) In the formula in subsection (3),—
+  (a) total disposal gain is the total of amounts derived from disposal of shares by the unit trust during the trust's year:
+  (b) total cost is the total cost to the unit trust of those shares.
 Calculation of total net unrealised gains
-(5) The amount of total net unrealised gains is calculated using the formula—total profitable assets &#8722; total cost.
+(5) The amount of total net unrealised gains is calculated using the formula—total profitable shares − total cost.
 Definition of items in formula
-(6) In the formula,—
-  (a) total profitable assets is the total of the market values of assets of the unit trust that are—
-    (i) held at the end of the year; and
+(6) In the formula in subsection (5),—
+  (a) total profitable shares is the total of the market values of shares of the unit trust that are—
+    (i) held at the end of the trust's year; and
     (ii) have a market value greater than or equal to their cost to the unit trust:
-  (b) total cost is the total of the cost to the unit trust of those assets.
+  (b) total cost is the total cost to the unit trust of those shares.
+70% minimum distribution test
+(7) The 70% minimum distribution test requires that, for the trust's year, the total amount of distributions by the unit trust during the trust's year must be 70% or more of the total distributable gains for the trust's year calculated under subsection (8).
+Calculation of total distributable gains
+(8) The amount of total distributable gains is calculated using the formula—closing equity + distributions − opening equity − contributions.
+Definition of items in formula
+(9) In the formula in subsection (8),—
+  (a) closing equity is the amount by which, at the end of the trust's year, the market value of the unit trust's assets is more than the market value of the unit trust's liabilities:
+  (b) distributions is the total amount of distributions to investors by the unit trust during the trust's year:
+  (c) opening equity is the amount by which, at the beginning of the trust's year, the market value of the unit trust's assets is more than the market value of the unit trust's liabilities:
+  (d) contributions is the total amount of contributions by investors by the unit trust during the trust's year.
 Currency
-(7) The calculations must be done in the currency of the FIF’s financial accounts.
+(10) The calculations must be done in the currency of the unit trust's financial accounts.
 
 ### EX 33 Exemption for Australian regulated superannuation savings
 A person’s rights in a FIF are not an attributing interest if—
@@ -13694,33 +14038,40 @@ A person’s rights in a FIF in an income year are not an attributing interest i
   (a) the rights are a direct income interest; and
   (b) the FIF is a grey list company; and
   (c) the FIF is not an entity described in schedule 25, part B (Foreign investment funds); and
-  (d) the person acquired the shares when—
+  (d) the person has held shares in the company at all times after a time when—
     (i) the company was resident in New Zealand; and
     (ii) the shares were not listed on a recognised exchange; and
   (e) the company became a grey list company immediately after having, for 12 months or more,—
-    (i) been resident in New Zealand; and
+    (i) carried on business in New Zealand; and
     (ii) had in New Zealand more than 50% of its assets; and
     (iii) had in New Zealand more than 50% of its employees; and
   (f) the year begins less than 10 years after the company became a grey list company; and
   (g) at all times in the year, the company has a fixed establishment in New Zealand; and
   (h) the company through the fixed establishment—
-    (i) incurs expenditure other than interest of $1,000,000 in the income year:
-    (ii) at all times in the year, engages 10 or more fulltime employees or contractors.
+    (i) incurs in the year, expenditure other than interest of at least $1,000,000 or, if less than $1,000,000, at least 25% of the total expenditure, other than interest, incurred by the company in the year; and
+    (ii) at all times in the year, engages at least 10 fulltime employees or contractors or, if less than 10, at least 25% of the total number engaged by the company.
 
 ### EX 37 Grey list company owning New Zealand venture capital company: 10-year exemption
 A person’s rights in a FIF in an income year are not an attributing interest if—
   (a) the rights are a direct income interest; and
   (b) the FIF is a grey list company; and
   (c) the FIF is not an entity described in schedule 25, part B (Foreign investment funds); and
-  (d) the person acquired the shares when the shares were not listed on a recognised exchange; and
-  (e) at all times in the year, the grey list company directly or indirectly owns a company (the resident company) that, for 12 months or more, has—
-    (i) been resident in New Zealand; and
-    (ii) had in New Zealand more than 50% of its assets; and
-    (iii) had in New Zealand more than 50% of its employees; and
+  (d) the person has held shares in the grey list company at all times after a time when the shares were not listed on a recognised exchange; and
+  (e) at all times in the year, the grey list company holds more than 50% of the voting interests in a company (the resident company) that, for 12 months or more, has—
+    (i) carried on a business in New Zealand; and
+    (ii) had in New Zealand more than 50% of the resident company's assets; and
+    (iii) had in New Zealand more than 50% of the resident company's employees; and
   (f) the year begins less than 10 years after the grey list company first owned the resident company; and
   (g) the resident company through a fixed establishment in New Zealand—
-    (i) incurs expenditure other than interest of $1,000,000 in the year:
-    (ii) at all times in the year, engages 10 or more fulltime employees or contractors.
+    (i) incurs in the year expenditure, other than interest, of at least $1,000,000 or, if less than $1,000,000, at least 25% of the total expenditure, other than interest, incurred by the company in the year:
+    (ii) at all times in the year, engages at least 10 fulltime employees or contractors or, if less than 10, at least 25% of the total number engaged by the company.
+
+### EX 37B Share in grey list company acquired under venture investment agreement
+A person's rights in a FIF in an income year are not an attributing interest if—
+  (a) the FIF is a grey list company; and
+  (b) the person first acquires a share or option to buy a share in the company—
+    (i) under a venture investment agreement; and
+    (ii) at the same time and on the same terms as an acquisition of an interest in the FIF by the Venture Investment Fund or a company owned by the Venture Investment Fund.
 
 ### EX 38 Exemption for employee share purchase scheme of grey list company
 A person’s rights in a FIF in an income year are not an attributing interest if—
@@ -13732,22 +14083,27 @@ A person’s rights in a FIF in an income year are not an attributing interest i
     (i) employs the person:
     (ii) owns, directly or indirectly, the person’s employer; and
   (f) the person acquires the shares under a share purchase agreement; and
-  (g) the share purchase agreement includes a restriction on the disposal of the shares that affects the value under section CE 3 (Restrictions on disposal of shares under share purchase agreements) of the benefit to the person under the agreement; and
+  (g) the share purchase agreement includes a restriction on the disposal of the shares that affects for the income year the value of the benefit to the person under the agreement; and
   (h) at the beginning of the year, the period of the restriction—
     (i) has not expired:
     (ii) has expired for a period of less than 6 months.
 
 ### EX 39 Terminating exemption for grey list company with numerous New Zealand shareholders
 Qualifying requirements
-(1) A person’s rights in a FIF are not an attributing interest if the rights are a direct income interest in a grey list company that, on 17 May 2006—
-  (a) was not an entity described in schedule 25, part B (Foreign investment funds); and
-  (b) was listed on a recognised exchange in New Zealand; and
-  (c) was listed on a recognised exchange in a grey list country; and
-  (d) had more than 20,000 shareholders who have addresses in New Zealand on the company’s share register; and
-  (e) had shareholders referred to in paragraph (c) who between them hold shares in the company carrying voting interests of more than 50%; and
-  (f) had assets of which more than 50% in total value are shares in other companies carrying voting interests of more than 50%.
+(1) A person's rights in a FIF are not an attributing interest if—
+  (a) the rights are a direct income interest; and
+  (b) the FIF is a grey list company; and
+  (c) on 17 May 2006, the company—
+    (i) was a grey list company; and
+    (ii) was not an entity described in schedule 25, part B (Foreign investment funds); and
+    (iii) had more than 20,000 shareholders who had addresses in New Zealand on the company's share register; and
+    (iv) had shareholders referred to in subparagraph (iii) who between them held shares in the company carrying voting interests of more than 50%; and
+    (v) had assets of which more than 50% in total value were shares in other companies carrying voting interest of more than 50%; and
+  (d) on 17 May 2006, the shares were listed—
+    (i) on a recognised exchange in New Zealand; and
+    (ii) on a recognised exchange in a grey list country.
 Notification requirement
-(2) The exemption in subsection (1) does not apply unless the grey list company notified the Commissioner, by 17 January 2007, that the company met the requirements of subsection (1)(a) to (f) on 17 May 2006.
+(2) The exemption in subsection (1) does not apply unless the grey list company notified the Commissioner, by 17 January 2007, that the company met the requirements of subsection (1)(b) and (c) on 17 May 2006.
 Exemption terminating after 2011–12 year
 (3) The exemption in subsection (1) does not apply to the 2012–13 income year and later income years.
 Choosing not to apply exemption
@@ -13785,7 +14141,7 @@ Rights accruing before or after becoming resident
     (i) begins when the person becomes a New Zealand resident; and
     (ii) ends before the first day of the fifth income year following the income year in which the person becomes a New Zealand resident.
 Calculation of rights accruing
-(3) The extent to which the rights have accrued during a period referred to in subsection (2) is calculated using the formula—closing value &#8722; opening value.
+(3) The extent to which the rights have accrued during a period referred to in subsection (2) is calculated using the formula—closing value - opening value.
 Definition of items in formula
 (4) In the formula,—
   (a) closing value is the market value of the rights on the day that ends the period:
@@ -13903,10 +14259,9 @@ Comparative value method: shares in foreign companies
 (6) A person may use the comparative value method to calculate FIF income or loss from an attributing interest in a FIF that is a share in a foreign company for an income year only if—
   (a) the person is a natural person:
   (b) the person is the trustee of a trust that—
-    (i) is a complying trust; and
-    (ii) is established mainly for the benefit of a natural person for whom the settlor has natural love or affection or mainly for the benefit of an organisation with income that is exempt income under section CW 41 or CW 42 (which relate to charities); and
-    (iii) has no settlor who is not a natural person; and
-    (iv) is not a superannuation scheme:
+    (i) has no gifting settlor who is not a natural person or deceased person; and
+    (ii) at all times in the income year, is a complying trust for a distribution made at the time; and
+    (iii) is, at all times in the income year, mainly for the benefit of a natural person for whom the gifting settlors of the trust have natural love and affection (or had natural love and affection when alive) or is mainly for the benefit of an organisation or trust with income that is exempt income under section CW 41 or CW 42 (which relate to the income of charities):
   (c) the person’s direct income interest in the FIF, increased for the purposes of this paragraph by each direct income interest of a person associated with them, is 10% or more at any time in the income year:
   (d) the share is treated under subsection (10) as equivalent to debt.
 Fair dividend rate method: shares in foreign companies
@@ -13931,13 +14286,21 @@ Shares treated as debt
 (10) A share in a foreign company is treated as debt, for the purposes of subsections (6)(d) and (8)(a), if it is—
   (a) a fixed-rate share under section LL 9 (Some definitions):
   (b) a non-participating redeemable share:
-  (c) an interest in a non-resident having assets of which 80% by value consist of financial arrangements denominated in New Zealand dollars:
+  (c) an interest in a non-resident holding directly or indirectly assets of which 80% or more by value at a time in the income year—
+    (i) consist of fixed-rate shares, or financial arrangements providing funds to a person; and
+    (ii) are denominated in New Zealand dollars or, under NZIAS 39, are hedged items having a value in New Zealand dollars governed by a hedging instrument that is highly effective:
   (d) a share that involves an obligation—
     (i) of another person to provide to the investor, directly or indirectly through an arrangement, an amount that is more than the issue price of the share; and
     (ii) that is non-contingent or subject to a contingency that is sufficiently remote to be immaterial:
   (e) a share of a kind that the Commissioner determines under section 91AAO of the Tax Administration Act 1994 to be an interest for which the fair dividend rate method is not available.
-Commissioner’s determination overriding subsection (10)(d)
-(11) Subsection (10)(d) does not apply to a share if the Commissioner determines under section 91AAO of the Tax Administration Act 1994 that the share is an interest for which the fair dividend rate is available.
+Commissioner’s determination overriding subsection (10)(a) to (d)
+(11) Subsection (10)(a) to (d) does not apply to a share if the Commissioner determines under section 91AAO of the Tax Administration Act 1994 that the share is an interest for which the fair dividend rate is available.
+Meaning of gifting settlor
+(12) A gifting settlor, for a trust (the relevant trust), means a person who—
+  (a) makes a transfer of value, by disposing of property, to the trustee of—
+    (i) the relevant trust:
+    (ii) a trust with a trustee who settles property on the relevant trust, directly or through the trustees of other trusts; and
+  (b) is not the trustee of a trust.
 
 ### EX 47 Method required for share treated as debt
 A person must calculate FIF income or loss for an income year from an attributing interest that is a share treated under section EX 46(10) as debt using—
@@ -13961,7 +14324,7 @@ Default choice for direct income interests in FIF of less than 10%
 
 ### EX 49 Accounting profits method
 Formula
-(1) If a person is using the accounting profits method to calculate FIF income or loss from an attributing interest in a FIF, the total FIF income or loss from all their attributing interests in the FIF for the relevant accounting period is calculated using the formula—(accounting profits or losses &#8722; foreign tax) × income interest.
+(1) If a person is using the accounting profits method to calculate FIF income or loss from an attributing interest in a FIF, the total FIF income or loss from all their attributing interests in the FIF for the relevant accounting period is calculated using the formula—(accounting profits or losses - foreign tax) × income interest.
 Definition of items in formula
 (2) The items in the formula are defined in subsections (3) to (5).
 Accounting profits or losses
@@ -14010,7 +14373,7 @@ Taxable distributions
 (5) If the FIF derives a taxable distribution from a non-complying trust in the accounting period,—
   (a) the taxable distribution is excluded when calculating the FIF’s branch equivalent income or loss, due to the combined effect of subsection (1) and section EX 21(32); and
   (b) the person has additional attributed CFC income calculated by multiplying the taxable distribution by the person’s income interest in the FIF; and
-  (c) the person is liable for income tax on the additional attributed CFC income at the rate in schedule 1 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) that applies to amounts under section HC 22 (Use of tax losses to reduce taxable distributions from non-complying trusts).
+  (c) the person is liable for income tax on the additional attributed CFC income at the rate in schedule 1 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) that applies to amounts under section HC 22 (Use of tax losses to reduce taxable distributions from non-complying trusts).
 Calculation of additional FIF income or loss
 (6) If the FIF itself has an income interest, calculated under subsection (4), in a foreign company for the accounting period, the person has additional FIF income or loss calculated using the formula—interest × FIF’s FIF income or loss.
 Definition of items in formula
@@ -14036,13 +14399,13 @@ Application of subsection (10): FIF loss excessive
 
 ### EX 51 Comparative value method
 Formula
-(1) If a person is using the comparative value method to calculate FIF income or loss from an attributing interest in a FIF, the FIF income or loss from that interest for the relevant income year is calculated using the formula—(closing value + gains) &#8722; (opening value + costs).
+(1) If a person is using the comparative value method to calculate FIF income or loss from an attributing interest in a FIF, the FIF income or loss from that interest for the relevant income year is calculated using the formula—(closing value + gains) - (opening value + costs).
 Definition of items in formula
 (2) The items in the formula are defined in subsections (3) to (6).
 Closing value
 (3) Closing value is the market value of the person’s interest in the FIF at the end of the income year. The value is zero if the person has disposed of the interest or is then applying another calculation method to it.
 Gains
-(4) Gains is the total of all amounts that the person derives during the income year from holding or disposing of the interest. The amounts include any foreign withholding tax or other tax that the person is allowed as a credit under section LJ 2 (Tax credits for foreign income tax).
+(4) Gains is the total of all amounts that the person derives during the income year from holding or disposing of the interest. The amounts include any foreign withholding tax or other amount that the person is allowed as a credit under section LE 1 (Tax credits for imputation credits) or LJ 2 (Tax credits for foreign income tax).
 Opening value
 (5) Opening value is the market value of the person’s interest in the FIF at the end of the previous income year. The value is zero if the person did not hold the interest then or was then applying another calculation method to it.
 Costs
@@ -14062,7 +14425,9 @@ No total FIF loss from portfolio interests
 When this section applies
 (1) This section applies when a person—
   (a) calculates FIF income or loss from an attributing interest in a FIF for an income year under the fair dividend rate method; and
-  (b) is not a unit-valuing fund that is subject to section EX 53.
+  (b) is neither—
+    (i) a unit-valuing fund that is subject to section EX 53; nor
+    (ii) another person that determines the market value of the attributing interest for each period of a day in the income year and that chooses to apply the method in section EX 53.
 FIF income
 (2) The person’s total FIF income from their attributing interests in the FIF for the income year is calculated using the formula in subsection (3).
 FIF income formula
@@ -14070,7 +14435,9 @@ FIF income formula
 Definition of items in FIF income formula
 (4) The items in the FIF income formula in subsection (3) are defined in subsections (5) to (7).
 Opening value
-(5) Opening value is the total of the market values of the attributing interests in the FIF that the person holds at the start of the income year.
+(5) Opening value is the total of the market values of the attributing interests in the FIF that—
+  (a) the person holds at the start of the income year; and
+  (b) are not, at the beginning of the income year, included in a direct income interest of 10% or more in a grey list company.
 When quick sale adjustment required
 (6) The quick sale adjustment is required only if, in the income year, the person disposes of or reduces their attributing interest in the FIF after acquiring it or increasing it. The quick sale adjustment is zero in any other case.
 Quick sale adjustment
@@ -14089,41 +14456,53 @@ Peak holding differential
   (b) if a share reorganisation occurs in the income year, the amount calculated under section EX 54 for the year.
 Average cost
 (11) Average cost is—
-  (a) if no share reorganisation occurs in the income year, the total amount of expenditure that the person incurs during the year in acquiring or increasing the attributing interest in the FIF divided by the total for the year of the shareholding increase in the attributing interest in the FIF for each acquisition or increase; or
+  (a) if no share reorganisation occurs in the income year, the total amount of expenditure that the person incurs in acquiring or increasing during the income year the attributing interest in the FIF divided by the total for the year of the shareholding increase in the attributing interest in the FIF for each acquisition or increase; or
   (b) if a share reorganisation occurs in the income year, the amount calculated under section EX 54 for the year.
 Quick sale gain amount formula
-(12) The formula, for each acquisition or increase in the attributing interest that is disposed of or reduced in the income year, is—gain &#8722; cost.
+(12) The formula, for each acquisition or increase in the attributing interest that is disposed of or reduced in the income year, is—gain - (interest × average cost).
 Definition of items in formula
 (13) In the formula in subsection (12),—
   (a) gain is the total amount that the person derives during the income year from holding or disposing of the acquisition or increase:
-  (b) cost is the total amount that the person incurs during the income year on the acquisition or increase.
+  (b) interest is the amount of the shareholding acquisition or increase:
+  (c) average cost is the total amount of expenditure that the person incurs during the year in acquiring or increasing the attributing interest in the FIF divided by the total for the income year of the shareholding increase in the interest for each acquisition or increase.
 LIFO for identifying attributing interests disposed of
 (14) For the purposes of subsection (12), attributing interests in a FIF are treated as being disposed of in the reverse order of their acquisition (last in-first out).
+Treatment of transaction under section EX 63 or EX 67
+(14B) For the purposes of subsection (7), if the person is treated as disposing of or acquiring an attributing interest in an income year under section EX 63(5) or EX 67, the disposal or acquisition is ignored.
 Meaning of shareholding
 (15) In this section, shareholding means the number of shares or units in an attributing interest.
 
-### EX 53 Fair dividend rate method for funds that value investors’ units
-When this section applies
+### EX 53 Fair dividend rate method for unit-valuing funds and others by choice
+When this section applies: first case
 (1) This section applies when a person—
   (a) calculates FIF income or loss from an attributing interest in a FIF for an income year under the fair dividend rate method; and
   (b) is a unit trust or other entity (the fund) that—
     (i) makes investments for the benefits of other persons (the investors); and
     (ii) assigns each investor an interest (the unit) in a proportion of the net returns from the investments; and
     (iii) determines the value of the investor’s units for each of a number of periods (the unit valuation periods) making up the income year.
+When this section applies: second case
+(1B) This section applies also when a person—
+  (a) calculates FIF income or loss from an attributing interest in a FIF for an income year under the fair dividend rate method; and
+  (b) the person is not subject to subsection (1); and
+  (c) the person—
+    (i) determines the market value of the attributing interest for each period of a day (the unit valuation period) in the income year; and
+    (ii) chooses that this section applies.
 FIF income
-(2) The fund’s total FIF income from its attributing interests in the FIF for the income year is the total of the amounts calculated using the formula in subsection (3) for each unit valuation period.
+(2) The total FIF income of the fund or person (the interest holder) from their attributing interests in the FIF for the income year is the total of the amounts calculated using the formula in subsection (3) for each unit valuation period.
 Formula
 (3) The formula is—
 Definition of items in formula
 (4) The items in the formula in subsection (3) are defined in subsections (5) to (15).
 Opening value
-(5) Opening value is the total of the market values of the attributing interests in the FIF that the fund holds at the start of the unit valuation period.
+(5) Opening value is the total of the market values of the attributing interests in the FIF that—
+  (a) the interest holder holds at the start of the unit valuation period; and
+  (b) are not, at the beginning of the income year, included in a direct income interest of 10% or more in a grey list company.
 Period
 (6) Period is the number of days in the unit valuation period.
 Year
 (7) Year is the number of days in the income year.
 When quick sale adjustment required
-(8) The quick sale adjustment is required only if the unit valuation period is more than 1 day and, in the period, the fund disposes of or reduces its attributing interest in the FIF after acquiring it or increasing it. The quick sale adjustment is zero in any other case.
+(8) The quick sale adjustment is required only if the unit valuation period is more than 1 day and, in the period, the interest holder disposes of or reduces its attributing interest in the FIF after acquiring it or increasing it. The quick sale adjustment is zero in any other case.
 Quick sale adjustment
 (9) Quick sale adjustment is the lesser of—
   (a) the amount (the peak holding method amount) calculated using the formula in subsection (10):
@@ -14140,16 +14519,19 @@ Peak holding differential
   (b) if a share reorganisation occurs in the period, the amount calculated under section EX 54 for the period.
 Average cost
 (13) Average cost is—
-  (a) if no share reorganisation occurs in the unit valuation period, the total amount of expenditure that the person incurs during the period in acquiring or increasing the attributing interest in the FIF divided by the total for the period of the shareholding increase in the attributing interest in the FIF for each acquisition or increase; or
+  (a) if no share reorganisation occurs in the unit valuation period, the total amount of expenditure that the interest holder incurs in acquiring or increasing during the period the attributing interest in the FIF divided by the total for the period of the shareholding increase in the attributing interest in the FIF for each acquisition or increase; or
   (b) if a share reorganisation occurs in the period, the amount calculated under section EX 54 for the period.
 Quick sale gain amount formula
-(14) The formula, for each acquisition or increase in the attributing interest that is disposed of or reduced in the unit valuation period, is—gain &#8722; cost.
+(14) The formula, for each acquisition or increase in the attributing interest that is disposed of or reduced in the unit valuation period, is—gain - (interest × average cost).
 Definition of items in formula
 (15) In the formula in subsection (14),—
-  (a) gain is the total amount that the person derives during the unit valuation period from holding or disposing of the acquisition or increase:
-  (b) cost is the total amount that the person incurs during the period on the acquisition or increase.
+  (a) gain is the total amount that the interest holder derives during the unit valuation period from holding or disposing of the acquisition or increase:
+  (b) interest is the amount of the shareholding acquisition or increase:
+  (c) average cost is the total amount of expenditure that the interest holder incurs during the period in acquiring or increasing the attributing interest in the FIF divided by the total for the period of the shareholding increase in the interest for each acquisition or increase.
 LIFO for identifying attributing interests disposed of
 (16) For the purposes of subsection (14), attributing interests in a FIF are treated as being disposed of in the reverse order of their acquisition (last in-first out).
+Deemed transaction under section EX 67 ignored
+(16B) For the purposes of subsection (9), if the person is treated as disposing of or acquiring an attributing interest in an income year under section EX 67, the disposal or acquisition is ignored.
 Meaning of shareholding
 (17) In this section, shareholding means the number of shares or units in an attributing interest.
 
@@ -14206,7 +14588,7 @@ Definition of items in part-year formula
   (c) deemed rate is the rate set by the Governor-General by Order in Council for this section for the relevant income year:
   (d) days is the number of days in the part of the income year; and for this purpose, an acquisition or increase is treated as occurring at the start of a day, and a disposition or reduction is treated as occurring at the end of a day.
 Closing book value formula
-(7) The book value, at the end of an income year or, in a case in which subsection (5) applies, a part of an income year, of an attributing interest of a person in a FIF under the deemed rate of return method is, unless subsection (9) applies, calculated using the formula (the closing book value formula)—(opening book value + costs + deemed income + top-up amounts) &#8722; gains.
+(7) The book value, at the end of an income year or, in a case in which subsection (5) applies, a part of an income year, of an attributing interest of a person in a FIF under the deemed rate of return method is, unless subsection (9) applies, calculated using the formula (the closing book value formula)—(opening book value + costs + deemed income + top-up amounts) - gains.
 Definition of items in closing book value formula
 (8) In the closing book value formula,—
   (a) opening book value is the book value, if any, of the interest at the end of the previous income year or the part of the income year, calculated under subsection (7):
@@ -14248,12 +14630,19 @@ Definition of items in formula
 Opening value
 (3) Opening value is the total of the market values of the person’s attributing interests in the FIF, being—
   (a) zero, if the relevant income year is the year in which the person acquires an attributing interest in the FIF; or
-  (b) the amount of an independent valuation of the market value of the interest at the start of the relevant income year, if the person holds the interest at the start of the relevant income year, and—
-    (i) the interest was not an attributing interest for the income year before the relevant income year:
+  (ab) the amount that is shown as the net asset value of the interest in audited financial statements of the person for the relevant income year made available to the general public, if—
+    (i) paragraph (a) does not apply; and
+    (ii) the FIF makes available to the general public audited financial statements for its accounting year ending in the relevant income year; and
+    (iii) the person chooses that this paragraph applies; or
+  (ac) the amount of the cost of the interest, if—
+    (i) paragraphs (a) and (ab) do not apply; and
+    (ii) the person acquires the interest in the 2005–06 or 2006–07 income year; or
+  (b) the amount of an independent valuation of the market value of the interest at the start of the relevant income year, if paragraphs (a), (ab) and (ac) do not apply and the person holds the interest at the start of the relevant income year, and—
+    (i) the interest was not an attributing interest for which the person has FIF income or loss for the income year before the relevant income year:
     (ii) the person has used the cost method for the interest for a period of 4 or more income years ending before the relevant income year and has not applied this paragraph to the interest for any of those income years; or
-  (c) the amount calculated using the formula in subsection (4), if the person’s shareholding (the current opening shareholding) at the start of the relevant income year is the same as the person’s shareholding (the preceding opening shareholding) at the start of the preceding income year; or
-  (d) the amount calculated using the formula in subsection (5), if the person’s current opening shareholding is more than the preceding opening shareholding; or
-  (e) the amount calculated using the formula in subsection (6), if the person’s current opening shareholding is less than the preceding opening shareholding.
+  (c) the amount calculated using the formula in subsection (4), if paragraphs (a), (ab), (ac), and (b) do not apply and the person’s shareholding (the current opening shareholding) at the start of the relevant income year is the same as the person’s shareholding (the preceding opening shareholding) at the start of the preceding income year; or
+  (d) the amount calculated using the formula in subsection (5), if paragraphs (a), (ab), (ac), and (b) do not apply and the person’s current opening shareholding is more than the preceding opening shareholding; or
+  (e) the amount calculated using the formula in subsection (6), if paragraphs (a), (ab), (ac), and (b) do not apply and the person’s current opening shareholding is less than the preceding opening shareholding.
 Opening value formula: no shareholding change
 (4) The formula referred to in subsection (3)(c) is—preceding opening + FIF income.
 Opening value formula: shareholding increase
@@ -14272,7 +14661,7 @@ Increase
   (b) if a share reorganisation occurs in the preceding income year, the amount calculated under section EX 54 for the preceding income year.
 Average cost
 (11) Average cost is,—
-  (a) if no share reorganisation occurs in the preceding income year, the total amount of expenditure that the person incurs during the preceding income year in acquiring or increasing the attributing interest in the FIF divided by the total for the preceding income year of the increase in the attributing interest in the FIF for each acquisition or increase; or
+  (a) if no share reorganisation occurs in the preceding income year, the total amount of expenditure that the person incurs in acquiring or increasing during the preceding income year the attributing interest in the FIF divided by the total for the preceding income year of the increase in the attributing interest in the FIF for each acquisition or increase; or
   (b) if a share reorganisation occurs in the preceding income year, the amount calculated under section EX 54 for the preceding income year.
 Opening shareholding
 (12) Opening shareholding is the amount of the person’s shareholding at the start of the relevant income year.
@@ -14292,7 +14681,7 @@ Peak holding differential
   (b) if a share reorganisation occurs in the relevant income year, the amount calculated under section EX 54 for the year.
 Average cost
 (18) Average cost is,—
-  (a) if no share reorganisation occurs in the relevant income year, the total amount of expenditure that the person incurs during the year in acquiring or increasing the attributing interest in the FIF divided by the total for the year of the shareholding increase in the attributing interest in the FIF for each acquisition or increase; or
+  (a) if no share reorganisation occurs in the relevant income year, the total amount of expenditure that the person incurs in acquiring or increasing during the relevant income year the attributing interest in the FIF divided by the total for the year of the shareholding increase in the attributing interest in the FIF for each acquisition or increase; or
   (b) if a share reorganisation occurs in the relevant income year, the amount calculated under section EX 54 for the year.
 Meaning of shareholding
 (19) In this section, shareholding means the number of shares or units in an attributing interest.
@@ -14343,7 +14732,9 @@ When this section applies
 (1) This section applies when a person has an attributing interest in a FIF and calculates their FIF income or loss from the interest for a period using—
   (a) the comparative value method:
   (b) the deemed rate of return method:
-  (c) the fair dividend rate method:
+  (c) the fair dividend rate method, if—
+    (i) the FIF is not a grey list company:
+    (ii) the person does not hold a direct income interest of 10% or more in the FIF at the beginning of the income year of the period:
   (d) the cost method.
 No income other than FIF income
 (2) The person is treated as not having any income from the interest for the period other than FIF income and, in particular, any dividends derived in the period from the interest and any income gained from disposing of the interest in the period are disregarded.
@@ -14359,7 +14750,7 @@ When this section applies
   (b) is calculating the FIF income or loss from the interest using the deemed rate of return method; and
   (c) derives in the period, from holding or disposing of the interest, an amount that would have been income if section EX 59(2) had not applied.
 Formula
-(2) The gain is FIF income to the extent to which the amount calculated using the following formula is positive:total income gains &#8722; total FIF income.
+(2) The gain is FIF income to the extent to which the amount calculated using the following formula is positive:total income gains - total FIF income.
 Definition of items in formula
 (3) In the formula,—
   (a) total income gains is the total of amounts, including the amount in question, derived by the person until that time from holding or disposing of the interest that would have been income if EX 59(2) had not applied:
@@ -14376,7 +14767,7 @@ When this section applies
   (d) was treated as having reacquired the interest on 1 April 1993 for an uplifted cost under section CG 23(1)(d) of the Income Tax Act 1994 or EZ 7 of the Income Tax Act 2004; and
   (e) derives in the period, from holding or disposing of the interest, an amount that would have been income if section EX 59(2) had not applied.
 Formula
-(2) The gain is FIF income to the extent to which the amount calculated using the following formula is positive:total income gains &#8722; total FIF income.
+(2) The gain is FIF income to the extent to which the amount calculated using the following formula is positive:total income gains - total FIF income.
 Definition of items in formula
 (3) In the formula,—
   (a) total income gains is the total of amounts, including the amount in question, that the person derived until that time from holding or disposing of the interest that would have been income if EX 59(2) had not applied:
@@ -14426,11 +14817,11 @@ Repeated changes to or from branch equivalent method
   (b) altering their income tax liability is not the principal purpose or effect of the change.
 Repeated changes between fair dividend rate method and comparative value method
 (8) A person may change more than once from the fair dividend rate method to the comparative value method and from the comparative value method to the fair dividend rate method if the person is a natural person or the trustee of a trust that—
-  (a) is a complying trust; and
-  (b) is established mainly for the benefit of—
-    (i) a natural person for whom the settlor has natural love or affection:
-    (ii) an organisation or trust with income that is exempt income under section CW 41 or CW 42 (which relate to charitable trusts); and
-  (c) has no settlor who is not a natural person; and
+  (a) has no gifting settlor who is not a natural person or deceased person; and
+  (b) at all times in the income year, is a complying trust for a distribution made at the time; and
+  (c) is—
+    (i) at all times in the income year, mainly for the benefit of a natural person for whom the gifting settlors of the trust have natural love and affection, or had natural love and affection when alive:
+    (ii) mainly for the benefit of an organisation or trust with income that is exempt income under section CW 41 or CW 42 (which relate to the income of charities); and
   (d) is not a superannuation scheme.
 
 ### EX 63 Consequences of changes in method
@@ -14455,6 +14846,11 @@ Changes from cost method or deemed rate of return method to comparative value me
   (c) received for the disposal and paid for the reacquisition an amount equal to,—
     (i) for a person changing from the cost method, what would have been the interest’s opening value under section EX 56 if the person had applied the cost method for the income year; or
     (ii) for a person changing from the deemed rate of return method, the interest’s closing book value under section EX 55(7) for the preceding income year.
+Changes between comparative value method and fair dividend rate method
+(5) If a person holding an attributing interest in a FIF changes from either of the comparative value method and the fair dividend rate method to the other of the comparative value method and the fair dividend rate method for calculating the FIF income or loss from the interest, the person is treated as having—
+  (a) disposed of the interest to an unrelated person immediately before the start of the first income year to which the new method applies; and
+  (b) reacquired the interest at the start of the income year; and
+  (c) received for the disposal and paid for the reacquisition an amount equal to the market value of the interest at the time of the disposal.
 
 **Cases of entry into and exit from FIF rules**
 
@@ -14553,26 +14949,24 @@ Definition of items in formula
 
 ### EX 67 FIF rules first applying to interest on or after 1 April 2007
 When this section applies
-(1) This section applies when—
-  (a) a person has rights in a FIF—
-    (i) on the day (the preceding day) before an income year; and
-    (ii) on the day (the application day) that begins the income year; and
-  (b) for the period ending on the preceding day,—
-    (i) the rights are not an attributing interest:
-    (ii) the rights are an attributing interest for which the person does not have FIF income or loss; and
-  (c) for the period beginning on the application day, the rights are an attributing interest for which the person has FIF income or loss.
+(1) This section applies when a person has rights in a FIF that—
+  (a) for the period ending on a day (the preceding day) are—
+    (i) not an attributing interest:
+    (ii) an attributing interest for which the person does not have FIF income or loss:
+    (iii) rights for which the person is a share supplier in a returning share transfer; and
+  (b) for the period beginning on the day (the application day) following the preceding day are an attributing interest for which the person has FIF income or loss.
 Treatment as disposal and acquisition
 (2) The person is treated as having—
   (a) disposed of the interest immediately before the application day to an unrelated person; and
   (b) reacquired it immediately at the start of the application day; and
   (c) received for the disposal and paid for the reacquisition an amount equal to the market value of the interest at the time of the disposal.
 Payment of tax liability arising from transition
-(3) A person who is liable to pay an amount of income tax (the amount of tax) because of the disposal and acquisition referred to in subsection (2)—
+(3) A person who is liable to pay an amount of income tax (the amount of tax) because of the disposals in an income year, and related acquisitions, treated as occurring under this section—
   (a) may satisfy the liability by paying the Commissioner at least—
-    (i) one third of the amount of tax in the income year following the income year in which the disposal is treated as occurring; and
-    (ii) one half of the balance of the amount of tax remaining owing after payment made under subparagraph (i), in the second income year following the income year in which the disposal is treated as occurring; and
-    (iii) the balance of the amount of tax remaining owing after payments made under subparagraphs (i) and (ii), in the third income year following the income year in which the disposal is treated as occurring:
-  (b) is not liable to pay any penalty or interest for which the person would otherwise be liable for an inaccuracy in an estimate, or shortfall in the payment, of provisional tax to the extent to which the inaccuracy or shortfall arises because of the disposal.
+    (i) one third of the amount of tax in the income year following the income year in which the disposals are treated as occurring; and
+    (ii) one half of the balance of the amount of tax remaining owing after payment made under subparagraph (i), in the second income year following the income year in which the disposals are treated as occurring; and
+    (iii) the balance of the amount of tax remaining owing after payments made under subparagraphs (i) and (ii), in the third income year following the income year in which the disposals are treated as occurring:
+  (b) is not liable to pay any penalty or interest for which the person would otherwise be liable for an inaccuracy in an estimate, or shortfall in the payment, of provisional tax to the extent to which the inaccuracy or shortfall arises because of the disposals.
 
 **Measurement of cost**
 
@@ -14584,12 +14978,10 @@ When this section applies
   (c) the deemed rate of return method:
   (d) the fair dividend rate method:
   (e) the cost method.
-Cost flow using average cost
-(2) The cost of an attributing interest in a FIF acquired by a person in an income year is treated as being the amount calculated using the formula—
+FIFO cost flow identification
+(2) If sections EX 52(14) and EX 53(16) do not apply and it is not possible to specifically identify the cost of the interest because of multiple acquisitions or dispositions or both by the person, the first-in-first-out (the FIFO) method of identifying cost flows is applied.
 Definition of items in formula
-(3) In the formula,—
-  (a) total cost is the total cost of all attributing interests in the FIF acquired by the person in the income year of the same class as the attributing interest:
-  (b) number of interests is the number of the attributing interests referred to in paragraph (a).
+(3)
 Share splits or similar
 (4) If the person acquires the interest as the result of a share split, non-taxable bonus issue, or similar event, and the acquisition is not income for the person, subsections (5) and (6) apply.
 Allocation of original cost
@@ -14928,7 +15320,7 @@ Steps
 
 ### EY 18 Premium loading formulas
 Premium loading formula (life)
-(1) The premium loading formula (life) is—0.2 × claim probability × (opening sum assured &#8722; opening actuarial reserves).
+(1) The premium loading formula (life) is—0.2 × claim probability × (opening sum assured - opening actuarial reserves).
 Premium loading formula (active annuities)
 (2) The premium loading formula (active annuities) is—0.01 × claim probability × opening actuarial reserves.
 Definition of items in formulas
@@ -15021,7 +15413,7 @@ Steps
 
 ### EY 28 Mortality profit formula
 Formula
-(1) The mortality profit formula is—claim probability × (opening sum assured &#8722; opening actuarial reserves) &#8722; (closing sum assured &#8722; opening actuarial reserves).
+(1) The mortality profit formula is—claim probability × (opening sum assured - opening actuarial reserves) - (closing sum assured - opening actuarial reserves).
 Definition of items in formula
 (2) The items in the formula are defined in subsections (3) to (8).
 Claim probability
@@ -15118,7 +15510,7 @@ Steps
 
 ### EY 37 Discontinuance profit formula (existing policies)
 Formula
-(1) The discontinuance profit formula (existing policies) is—pre-termination actuarial reserves &#8722; post-termination actuarial reserves &#8722; termination payment.
+(1) The discontinuance profit formula (existing policies) is—pre-termination actuarial reserves - post-termination actuarial reserves - termination payment.
 Definition of items in formula
 (2) The items in the formula are defined in subsections (3) to (5).
 Pre-termination actuarial reserves
@@ -15130,7 +15522,7 @@ Termination payment
 
 ### EY 38 Discontinuance profit formula (new policies)
 Formula
-(1) The discontinuance profit formula (new policies) is—premium &#8722; termination payment.
+(1) The discontinuance profit formula (new policies) is—premium - termination payment.
 Definition of items in formula
 (2) The items in the formula are defined in subsections (3) and (4).
 Premium
@@ -15164,7 +15556,7 @@ Section EY 43 sets out the policyholder income formula that a life insurer uses 
 
 ### EY 43 Policyholder income formula
 Formula
-(1) The policyholder income formula is—
+(1) The policyholder income formula is—claim due + (closing actuarial reserves – opening actuarial reserves) – (FDR adjustment + PILF adjustment) – (premium – underwriting result)(1 – tax rate).
 Definition of items in formula
 (2) The items in the formula are defined in subsections (3) to (8).
 Claim due
@@ -15177,6 +15569,10 @@ Closing actuarial reserves
 (4) Closing actuarial reserves is the life insurer’s actuarial reserves, determined at the end of the income year. A variation to closing actuarial reserves is in section EY 45(2).
 Opening actuarial reserves
 (5) Opening actuarial reserves is the life insurer’s actuarial reserves, determined at the start of the income year. A variation to opening actuarial reserves is in section EY 45(3).
+FDR adjustment
+(5B) FDR adjustment is the amount set out in section EY 43B to the extent to which it applies.
+PILF adjustment
+(5C) PILF adjustment is the amount set out in section EY 43C to the extent to which it applies.
 Premium
 (6) Premium is all the premiums due and payable to the life insurer in the income year. Premium does not include a premium due and payable to the life insurer in an earlier income year. A variation to premium is in section EY 44.
 Underwriting result
@@ -15185,17 +15581,73 @@ Underwriting result
   (b) the mortality profit; and
   (c) the discontinuance profit.
 Tax rate
-(8) Tax rate is the basic rate of income tax set out in schedule 1, part A, clause 8 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits).
+(8) Tax rate is the basic rate of income tax set out in schedule 1, part A, clause 8 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
 Positive result
 (9) A positive result from using the policyholder income formula is policyholder income in the income year.
 Negative result
 (10) A negative result from using the policyholder income formula is policyholder net loss for the income year, and is dealt with under section IT 1 (Life insurers’ policyholder net losses).
 
+### EY 43B Policyholder income formula: FDR adjustment
+What this section applies to
+(1) This section applies for the purposes of section EY 43(5B) to property that supports only actuarial reserves to the extent to which—
+  (a) property is an attributing interest in a FIF held by a life insurer or by a portfolio tax rate entity that the life insurer has invested in, directly or indirectly; and
+  (b) the life insurer or the portfolio tax rate entity uses the fair dividend rate method for the property; and
+  (c) section EY 43C does not apply.
+When has life insurer indirectly invested in portfolio tax rate entity?
+(2) For the purposes of subsection (1), a life insurer is treated as investing indirectly in a portfolio tax rate entity (PTRE A) when a portfolio tax rate entity has invested in PTRE A and the investment may be traced through an unbroken chain of investments in portfolio tax rate entities to a direct investment by the life insurer in a portfolio tax rate entity.
+FDR adjustment
+(3) In using the policyholder income formula, the life insurer may calculate the item FDR adjustment —
+  (a) using the formula in subsection (5); or
+  (b) by calculating, using a reasonable method for the information available to the life insurer, the amount credited to actuarial reserves in relation to the property, but excluding amounts that are related to FIF income under the fair dividend rate method.
+Consistency requirement
+(4) (4) In using the policyholder income formula, the life insurer must calculate the item FDR adjustment by always applying whichever of subsection (3)(a) or (b) is first used.
+Formula
+(5) The formula referred to in subsection (3)(a) is—0.6 × (FIF result − FDR income).
+Definition of items in formula
+(6) The items in the formula are defined in subsections (7) and (8).
+FIF result
+(7) FIF result is the life insurer's gains and losses for the income year, for the property, calculated using accepted accounting practice.
+FDR income
+(8) FDR income is the amount for the income year of the life insurer's income related to FIF income under the fair dividend rate method for the property, calculated using a reasonable method for the information available to the life insurer.
+
+### EY 43C Policyholder income formula: PILF adjustment
+What this section applies to
+(1) This section applies for the purposes of section EY 42(5C) to property that supports only actuarial reserves for a portfolio investment-linked life fund to the extent to which the property is—
+  (a) an attributing interest in a FIF,—
+    (i) held by the life insurer or a portfolio tax rate entity that the life insurer has invested in directly or indirectly; and
+    (ii) for which the life insurer or portfolio tax rate entity uses the fair dividend rate method for the property:
+  (b) shares described in section CX 55 (Proceeds from certain disposals by portfolio investment entities or New Zealand Superannuation Fund) held by the life insurer.
+When has life insurer indirectly invested in portfolio tax rate entity?
+(2) For the purposes of subsection (1), a life insurer is treated as investing indirectly in a portfolio tax rate entity (PTRE A) when a portfolio tax rate entity has invested in PTRE A and the investment may be traced through an unbroken chain of investments in portfolio tax rate entities to a direct investment by the life insurer in a portfolio tax rate entity.
+PIE adjustment
+(3) In using the policyholder income formula, the life insurer may calculate the item PILF adjustment —
+  (a) using the formula in subsection (5); or
+  (b) by calculating, using a reasonable method for the information available to the life insurer, the amount credited to actuarial reserves in relation to the property, but excluding amounts that are—
+    (i) related to FIF income under the fair dividend rate method:
+    (ii) dividends or distributions for shares described in subsection (1)(b) other than a distribution from a portfolio tax rate entity to which section CX 56(2) (Portfolio investor allocated income and distributions of income by portfolio investment entities) applies.
+Consistency requirement
+(4) In using the policyholder income formula, the life insurer must calculate the item PILE adjustment by always applying whichever of subsection (3)(a) or (b) is first used.
+Formula
+(5) In using the policyholder income formula, the life insurer must calculate the item PILF adjustment using the following formula:0.9 × (FIF result − FDR income) + 0.9 × excluded shares.
+Definition of items in formula
+(6) The items in the fonnula are defined in subsections (7) to (9).
+FIF result
+(7) FIF result is the life insurer's gains or losses for the income year, for the property described in subsection (1)(a), calculated using accepted accounting practice.
+FDR income
+(8) FDR income is the amount for the income year of the life insurer's income related to FIF income under the fair dividend rate method for the property described in subsection (1)(a), calculated using a reasonable method for the information available to the life insurer.
+Excluded shares
+(9) Excluded shares is the total for the life insurer, for shares described in subsection (1)(b), of—
+  (a) the positive amount of income excluded by section CX 55(2):
+  (b) the negative amount of a deduction not allowed by section DB 23(3)(b) (Cost of revenue account property):
+  (c) the gains and losses for the shares, calculated using accepted accounting practice, but excluding—
+    (i) amounts already accounted for under paragraphs (a) and (b) or under subsection (7); and
+    (ii) dividends and distributions for the shares, other than distributions from a portfolio tax rate entity to which section CX 56(2) applies.
+
 ### EY 44 Policyholder income formula: when partial reinsurance exists
 When this section applies
 (1) This section applies when a life insurer has partial reinsurance.
 Premium
-(2) In using the policyholder income formula, the life insurer must reduce premium by an amount calculated using the formula—reinsurance premium &#8722; reinsurance claim.
+(2) In using the policyholder income formula, the life insurer must reduce premium by an amount calculated using the formula—reinsurance premium - reinsurance claim.
 Definition of items in formula
 (3) The items in the formula are defined in subsections (4) and (5).
 Reinsurance premium
@@ -15432,7 +15884,7 @@ If a person chooses the pool method for an item of property of a kind described 
 
 ### EZ 10 Pool items accounted for by globo method for 1992–93 income year
 Limit on amount of income
-(1) If a person’s pool consists solely of items of depreciable property accounted for at the end of the person’s 1992–93 income year using, with the Commissioner’s permission, the globo accounting method, the amount of income under section EE 22(5)(a) (Cases affecting pool) is no more than the amount calculated using the formula—depreciation allowed &#8722; income.
+(1) If a person’s pool consists solely of items of depreciable property accounted for at the end of the person’s 1992–93 income year using, with the Commissioner’s permission, the globo accounting method, the amount of income under section EE 22(5)(a) (Cases affecting pool) is no more than the amount calculated using the formula—depreciation allowed - income.
 Definition of items in formula
 (2) In the formula,—
   (a) depreciation allowed is the total of deductions for amounts of depreciation loss that the person has been allowed in all earlier income years for all items in the pool, including amounts allowed before the person’s 1993–94 income year under the globo accounting method:
@@ -15692,7 +16144,7 @@ Meaning
   (a) for a qualifying asset that a person owns, the amount calculated for the income year using the formula in subsection (2); or
   (b) for an item that a person owns that is not a qualifying asset but to which they have made a qualifying improvement, the amount calculated for the income year using the formula in subsection (7).
 Formula
-(2) The formula referred to in subsection (1)(a) is—(acquisition cost + improvement cost) &#8722; item’s depreciation.
+(2) The formula referred to in subsection (1)(a) is—(acquisition cost + improvement cost) - item’s depreciation.
 Definition of items in formula
 (3) The items in the formula in subsection (2) are defined in subsections (4) to (6).
 Acquisition cost
@@ -15702,7 +16154,7 @@ Improvement cost
 Item’s depreciation
 (6) Item’s depreciation is the amount of depreciation loss for which the person has been allowed a deduction for the qualifying capital value of the asset or item in earlier income years, not including an amount of depreciation loss calculated using the straight-line method.
 Formula
-(7) The formula referred to in subsection (1)(b) is—capital expenditure &#8722; improvement’s depreciation.
+(7) The formula referred to in subsection (1)(b) is—capital expenditure - improvement’s depreciation.
 Definition of items in formula
 (8) The items in the formula in subsection (7) are defined in subsections (9) and (10).
 Capital expenditure
@@ -15741,9 +16193,9 @@ When this section applies
   (b) claims that are expected to be made with the insurer in relation to events that the insurer knows about; and
   (c) an estimate of claims that have not been reported to the insurer in relation to events that the insurer does not know about.
 Adjustment to deduction
-(2) When the closing value of the reserve for a tax year is more than the opening value, the deduction that the insurer is allowed is adjusted by an amount equal to the amount calculated using the formula—closing value &#8722; opening value.
+(2) When the closing value of the reserve for a tax year is more than the opening value, the deduction that the insurer is allowed is adjusted by an amount equal to the amount calculated using the formula—closing value - opening value.
 Adjustment to income
-(3) When the opening value of the reserve for a tax year is more than the closing value, the income of the insurer is adjusted by an amount equal to the amount calculated using the formula—opening value &#8722; closing value.
+(3) When the opening value of the reserve for a tax year is more than the closing value, the income of the insurer is adjusted by an amount equal to the amount calculated using the formula—opening value - closing value.
 Amount
 (4) The reserve at the end of the tax year is—
   (a) an amount calculated by an actuary applying subsection (5) and adopted by the insurer for financial reporting purposes; or
@@ -15795,16 +16247,17 @@ Section terminates after 2010–11 income year
 
 ### EZ 32 Terminating exemption for grey list FIF investing in Australasian listed equities
 Initial qualifying requirements
-(1) A person’s rights in a FIF in an income year are not an attributing interest if the rights are a direct income interest in a company that, on 17 May 2006—
-  (a) was a grey list company; and
-  (b) was not an entity described in schedule 25, part B (Foreign investment funds); and
-  (c) was listed on a recognised exchange in New Zealand; and
-  (d) was listed on a recognised exchange in a grey list country; and
-  (e) had shareholders of which more than 40% have addresses in New Zealand on the company’s share register; and
-  (f) had assets of which more than 50% in total value are shares in other companies that are resident in New Zealand; and
-  (g) had assets of which more than 90% in total value are shares in other companies that are—
-    (i) resident in New Zealand or Australia; and
-    (ii) listed on a recognised exchange in New Zealand or Australia.
+(1) A person's rights in a FIF are not an attributing interest if—
+  (a) the rights are a direct income interest (the shares); and
+  (b) on 17 May 2006, the company—
+    (i) was a grey list company; and
+    (ii) was not an entity described in schedule 25, part B (Foreign investment funds); and
+    (iii) had shareholders of which more than 40% had addresses in New Zealand on the company's share register; and
+    (iv) had shareholders referred to in subparagraph (iii) who between them held shares in the company carrying voting interests of more than 50%; and
+    (v) had assets of which more than 50% in total value were shares in other companies that were resident in New Zealand or Australia and were listed on a recognised exchange in New Zealand or Australia; and
+  (c) on 17 May 2006, the shares were listed —
+    (i) on a recognised exchange in New Zealand; and
+    (ii) on a recognised exchange in a grey list country.
 Ongoing qualifying requirements
 (2) The exemption in subsection (1) does not apply unless, at all times in the income year, the company—
   (a) is a grey list company; and
@@ -15813,11 +16266,20 @@ Ongoing qualifying requirements
     (i) resident in New Zealand or Australia; and
     (ii) listed on a recognised exchange in New Zealand or Australia.
 Notification requirement
-(3) The exemption in subsection (1) does not apply unless the grey list company notified the Commissioner, by 17 January 2007, that the company met the requirements of subsection (1)(b) to (g) on 17 May 2006.
+(3) The exemption in subsection (1) does not apply unless the grey list company notified the Commissioner, by 17 January 2007, that the company met the requirements of subsection (1)(b) and (c) on 17 May 2006.
 Exemption terminating after 2008–09 year
 (4) The exemption in subsection (1) does not apply to the 2009–10 income year and later income years.
 Choosing not to apply exemption
 (5) The exemption in subsection (1) does not apply for a person, for an income year (the initial year) and for later income years, if the person completes a return of income for the initial year on the basis that the exemption does not apply for the person and the initial income year.
+
+### EZ 32B Transitional rule for IFRS reporting
+When this section applies
+(1) (1) This section applies for an income year before the 2007–08 income year when—
+  (a) a person who is a party to a financial arrangement starts to use a spreading method in section EW 16, EW 18, or EW 20 for the financial arrangement before they adopt IFRSs for the purposes of financial reporting; and
+  (b) the person is not required to use a method under section EW 15B (Preparing and reporting methods); and
+  (c) as a result of adopting IFRSs, the method chosen does not comply with sections EW 16(2)(d), EW 18(f), and EW 20(2)(f), as applicable.
+Treatment
+(2) For the purposes of the financial arrangements rules, the person is treated as complying with the relevant section.
 
 **Old financial arrangements rules**
 
@@ -15846,7 +16308,7 @@ Despite section EZ 33, a person may elect to apply the financial arrangements ru
   (b) where the straight-line method is used under paragraph (a), that method must be used by the person in respect of all financial arrangements of which the person was the holder or issuer during that income year; and
   (c) where the person has in accordance with this subsection calculated income or expenditure using the straight-line method in respect of a financial arrangement for any income year, the person must, unless otherwise authorised in writing by the Commissioner, continue to use that method in respect of that financial arrangement for any subsequent income year, until the maturity, remittance, sale, or other transfer of the arrangement, notwithstanding that the total value of all financial arrangements of which the person is holder or issuer may at any time in any such subsequent income year exceed $1,500,000 or such other amount as may be declared for the purposes of this section,—
 (4) For the purposes of subsection (3), a person must take into account financial arrangements to which subpart EW applies.
-(5) For the purposes of subsection (3),—the amount of income or expenditure of the person in respect of that financial arrangement for that first income year is an amount calculated in accordance with the following formula:a &#8722; b &#8722; c + dwhere—and any amount so calculated is, if a positive amount, deemed to be income derived by the person in that first income year and, if a negative amount, deemed to be expenditure incurred by the person in that first income year.
+(5) For the purposes of subsection (3),—the amount of income or expenditure of the person in respect of that financial arrangement for that first income year is an amount calculated in accordance with the following formula:a - b - c + dwhere—and any amount so calculated is, if a positive amount, deemed to be income derived by the person in that first income year and, if a negative amount, deemed to be expenditure incurred by the person in that first income year.
   (a) the value of any financial arrangement to be taken into account in determining whether the total value of all financial arrangements of which a person is the holder or issuer on any day exceeds $1,500,000 or such other amount as may be declared for the purposes of this section is,—
     (i) in the case of a fixed principal financial arrangement, the nominal or face value of the arrangement; and
     (ii) in the case of a variable principal debt instrument, the amount owing by or to the person under the arrangement on the relevant day; and
@@ -15911,12 +16373,12 @@ The amount of the income deemed to be derived or the expenditure deemed to be in
 (3) Notwithstanding anything in subsection (1), the Commissioner may,—
   (a) where the Commissioner is satisfied, having regard to the tenor of section EZ 35(2), that treatment of a class of financial arrangements other than under section EZ 35 results in a fair and reasonable allocation of income or expenditure among income years, deem natural persons to be cash basis holders in respect of such financial arrangements; and
   (b) where the Commissioner is satisfied that a class of financial arrangements has been structured and promoted with the objective of postponing any liability to income tax which would have arisen had those financial arrangements not been so structured, deem natural persons not to be cash basis holders in respect of such financial arrangements.
-(4) In any income year where a person who was a cash basis holder in the previous income year ceases to be a cash basis holder, the person must take into account, in calculating income or deductions for the income year, an accruals basis adjustment, in respect of every financial arrangement (other than arrangements that are already dealt with according to section EZ 35 or in respect of which the Commissioner has exercised the discretion given under subsection (3)(a)) acquired in a previous income year and held by the person at the end of the income year equal to an amount calculated in accordance with the following formula:a &#8722; b &#8722; c + dwhere—and the person must not take into account in the income year any other amount in respect of any such financial arrangement except those calculated under the accruals basis adjustment.
+(4) In any income year where a person who was a cash basis holder in the previous income year ceases to be a cash basis holder, the person must take into account, in calculating income or deductions for the income year, an accruals basis adjustment, in respect of every financial arrangement (other than arrangements that are already dealt with according to section EZ 35 or in respect of which the Commissioner has exercised the discretion given under subsection (3)(a)) acquired in a previous income year and held by the person at the end of the income year equal to an amount calculated in accordance with the following formula:a - b - c + dwhere—and the person must not take into account in the income year any other amount in respect of any such financial arrangement except those calculated under the accruals basis adjustment.
   (a) is the sum of all amounts which would have been income derived by the person in respect of the financial arrangement from the date it was acquired to the end of the income year if the person had not been a cash basis holder at any time during that period
   (b) is the sum of all amounts that would have been deductions of the person in respect of the financial arrangement from the date the financial arrangement was acquired to the end of the income year if the person had not been a cash basis holder at any time during the period
   (c) is the sum of all amounts of income of the person in respect of the financial arrangement since it was acquired to the end of the previous income year
   (d) is the sum of all amounts that have been deductions of the person in respect of the financial arrangement since it was acquired to the end of the previous income year;—
-(5) In any income year where a person who was not a cash basis holder in the previous income year becomes a cash basis holder, that person may take into account, in calculating income or deductions for the income year, a cash basis adjustment, in respect of every financial arrangement (other than arrangements already treated on a cash basis) acquired in a previous income year and held by the person at the end of the income year, equal to an amount calculated in accordance with the following formula:a &#8722; b &#8722; c + dwhere—and, where the cash basis adjustment has been taken into account, the person must not take into account any other amount in respect of any such financial arrangement in the income year except those calculated under the cash basis adjustment:
+(5) In any income year where a person who was not a cash basis holder in the previous income year becomes a cash basis holder, that person may take into account, in calculating income or deductions for the income year, a cash basis adjustment, in respect of every financial arrangement (other than arrangements already treated on a cash basis) acquired in a previous income year and held by the person at the end of the income year, equal to an amount calculated in accordance with the following formula:a - b - c + dwhere—and, where the cash basis adjustment has been taken into account, the person must not take into account any other amount in respect of any such financial arrangement in the income year except those calculated under the cash basis adjustment:
   (a) is the sum of all amounts which would have been income derived by the person in respect of the financial arrangement from the date it was acquired to the end of the income year if the person had been a cash basis holder in respect of the financial arrangement for the whole of that period
   (b) is the sum of all amounts which would have been deductions of the person in respect of the financial arrangement from the date the financial arrangement was acquired to the end of the income year if the person had been a cash basis holder in respect of the financial arrangement for the whole of the period
   (c) is the sum of all amounts treated as income of the person in respect of the financial arrangement since it was acquired to the end of the previous income year
@@ -15932,12 +16394,10 @@ The amount of the income deemed to be derived or the expenditure deemed to be in
 (9) Where a deceased person was at the time of his or her death a cash basis holder,—and for the purposes of subsections (4) and (5), any trustee of an estate who is a cash basis holder under this subsection is deemed to be the same person as the deceased cash basis holder.
   (a) nothing in subsection (7) or in any requirement under this section that a cash basis holder be a natural person, in respect of the income year in which the death occurred and in each of the 4 immediately succeeding income years, applies to prevent the trustee of the estate of the deceased person from being a cash basis holder for the purposes of this Act in respect of financial arrangements issued or held by the estate, where the estate would otherwise qualify as a cash basis holder under this section; but
   (b) if at any time during those income years the estate ceases to so otherwise qualify as a cash basis holder, it does not again qualify to become a cash basis holder by operation of paragraph (a);—
-(10) For the purposes of subsection (1),—by a partnership is treated as being held or, as the case may be, derived by each partner to the extent of the partner’s share in the financial arrangements held by the partnership or, as the case may be, the income of the partnership in respect of financial arrangements.
-  (a) financial arrangements held; and
-  (b) income required to be returned in respect of those financial arrangements under section 42(1) of the Tax Administration Act 1994—
+(10)
 
 ### EZ 38 Income and expenditure where financial arrangement redeemed or disposed of
-(1) Subject to subsection (2), where, in relation to any person, a financial arrangement matures or is remitted (other than by way of being written off as a bad debt), sold, or otherwise transferred by the person in any income year, the amount of the base price adjustment in relation to that income year, that person, and that financial arrangement is an amount calculated in accordance with the following formula:a &#8722; (b + c)where—
+(1) Subject to subsection (2), where, in relation to any person, a financial arrangement matures or is remitted (other than by way of being written off as a bad debt), sold, or otherwise transferred by the person in any income year, the amount of the base price adjustment in relation to that income year, that person, and that financial arrangement is an amount calculated in accordance with the following formula:a - (b + c)where—
   (a) is,—in relation to the financial arrangement
     (i) in the case of a holder, the sum of—
       (A) the amount of all consideration that has been paid, and all further consideration that has or will become payable, to the person; and
@@ -15952,7 +16412,7 @@ The amount of the income deemed to be derived or the expenditure deemed to be in
       (A) all amounts that are income deemed to be derived under section EZ 35 or EZ 37 or EZ 42 by the person in respect of the financial arrangement in all previous income years since the issue of the financial arrangement; and
       (B) all amounts that are dividends derived by the person from the release of the obligation to repay the amount lent; and
       (C) all amounts that are income of the person under section CF 2 in respect of the financial arrangement.
-(2) Where, in relation to a financial arrangement, a person is a cash basis holder, and the financial arrangement matures or is remitted (other than by way of being written off as a bad debt), sold, or otherwise transferred by that person in any income year, the amount of the cash base price adjustment in relation to that income year, that person, and that financial arrangement is an amount calculated in accordance with the following formula:a &#8722; (b + c)where—
+(2) Where, in relation to a financial arrangement, a person is a cash basis holder, and the financial arrangement matures or is remitted (other than by way of being written off as a bad debt), sold, or otherwise transferred by that person in any income year, the amount of the cash base price adjustment in relation to that income year, that person, and that financial arrangement is an amount calculated in accordance with the following formula:a - (b + c)where—
   (a) is the sum of all consideration derived in respect of the financial arrangement by the person, and amounts remitted by the person
   (b) is the acquisition price of the financial arrangement
   (c) is the sum of all amounts that are income derived by the person, less the aggregate of amounts of expenditure deemed to be incurred under sections EZ 35 and EZ 42 or deemed to be a deduction under section EZ 37.
@@ -16106,7 +16566,7 @@ The old financial arrangements rules do not apply—
 ### EZ 48 Definitions
 For the purposes of the old financial arrangements rules, each of the following terms has the meaning given to it, despite any other meaning given to the term in section YA 1 for any other purpose and unless the context otherwise requires:
   - **acquisition price** ,—
-    (a) in relation to a financial arrangement and a holder of the financial arrangement, means an amount calculated in accordance with the following formula:y &#8722; zwhere—
+    (a) in relation to a financial arrangement and a holder of the financial arrangement, means an amount calculated in accordance with the following formula:y - zwhere—
       (y) is the core acquisition price of the financial arrangement
       (z) is the smaller of—
         (i) the amount of consideration provided in relation to the financial arrangement by the holder that is not contingent on the implementation of the financial arrangement; and
@@ -16291,7 +16751,7 @@ For the purposes of the old financial arrangements rules, each of the following 
 (3) Despite subsections (1) and (2), a person must apply section EZ 38 if that section applies to a financial arrangement in the income year in which the election is made.
 (4) Once an election is made, the financial arrangement is subject to the financial arrangements rules and is treated in the same way as a financial arrangement that was entered into on or after 20 May 1999.
 (5) A person who makes an election must calculate a transitional adjustment for the income year of election and return the resulting income or expenditure.
-(6) The transitional adjustment is calculated using the formula—income (financial arrangements rules) &#8722; expenditure (financial arrangements rules) &#8722; income (old financial arrangements rules) + expenditure (old financial arrangements rules)where—
+(6) The transitional adjustment is calculated using the formula—income (financial arrangements rules) - expenditure (financial arrangements rules) - income (old financial arrangements rules) + expenditure (old financial arrangements rules)where—
   - **income (financial arrangements rules)** is the total amount of income that would be derived by the person from the financial arrangement if the financial arrangements rules were applied to the financial arrangement for the period beginning on the date the person acquires the arrangement and ending on the last day of the income year in which this calculation is made
   - **expenditure (financial arrangements rules)** is the total amount of expenditure that would be incurred by the person under the financial arrangement if the financial arrangements rules were applied to the financial arrangement for the period beginning on the date the person acquires the arrangement and ending on the last day of the income year in which this calculation is made
   - **income (old financial arrangements rules)** is the total amount of income of the person from the financial arrangement in all income years before the income year in which this calculation is made
@@ -16475,7 +16935,7 @@ When consideration more than notional sale price
 When consideration less than notional sale price
 (5) If the consideration is less than the notional sale price, and the lessee is required to pay the amount of the deficit to the lessor, the notional sale price is reduced by that amount.
 Acquisition by lessor when lease ends early
-(6) If the lease is terminated before the end of its term and the lessee does not acquire the lease asset, the lessor is treated as acquiring it for an amount calculated using the formula—outstanding balance &#8722; release payment.
+(6) If the lease is terminated before the end of its term and the lessee does not acquire the lease asset, the lessor is treated as acquiring it for an amount calculated using the formula—outstanding balance − release payment.
 Definition of items in formula
 (7) In the formula,—
   (a) outstanding balance is the amount of the outstanding balance of the loan on the date on which the lease is terminated:
@@ -16483,27 +16943,50 @@ Definition of items in formula
 Relationship with section EE 45
 (8) Subsections (2) to (6) override section EE 45 (Consideration for purposes of section EE 44).
 
-### FA 11 Consecutive or successive finance leases
+### FA 11 Adjustments for leases that become finance leases
 When this section applies
-(1) This section applies for the purposes of sections FA 6 to FA 10 if—
-  (a) the lease is a consecutive or a successive lease that, under the definition of lease, is treated as part of the original lease because the same personal property lease asset is leased to the same lessee; and
-  (b) the total lease runs for more than 75% of the lease asset’s estimated useful life, although the lessor and lessee did not contemplate at the start of the term of the original lease that it would.
+(1) This section applies when a lease is entered into on or after 20 May 1999 and—
+  (a) the lease is a consecutive or a successive lease—
+    (i) that is treated as 1 lease under the definition of lease ; and
+    (ii) with a term of the lease that the lessor and lessee do not contemplate, at the start of the term, will be more than 75% of the personal property lease asset's estimated useful life; and
+    (iii) with a term of the lease that is more than 75% of the asset's estimated useful life:
+  (b) the lease is an operating lease that becomes a finance lease under paragraph (c) of the definition of finance lease.
 Adjustment required
-(2) The lessor and lessee must each adjust their income and expenditure calculated for the lease, and include the adjustment in a return of income for the tax year corresponding to the income year in which the adjustment is made.
+(2) The lessor and lessee must each adjust their income and expenditure calculated for the lease by including an adjustment in a return of income for the tax year corresponding to the income year in which the lease becomes a finance lease.
 Amount of adjustment
-(3) The amount of the adjustment is calculated in relation to the period described in subsection (5) using the formula—finance lease income &#8722; finance lease expenditure &#8722; operating lease income + operating lease expenditure.
+(3) The amount of the adjustment is calculated for the relevant person in relation to the period described in subsection (5) using the formula—finance income − finance expenditure − unadjusted income + unadjusted expenditure.
 Definition of items in formula
 (4) In the formula,—
-  (a) finance lease income is the income that would have been derived under the lease if the lease were a finance lease:
-  (b) finance lease expenditure is the expenditure that would have been incurred under the lease if the lease were a finance lease:
-  (c) operating lease income is the income derived under the lease as if the lease were an operating lease:
-  (d) operating lease expenditure is the sum of deductions allowed if the lease were an operating lease.
+  (a) finance income is the income that would have been derived by the person under the lease if the lease were a finance lease for the period:
+  (b) finance expenditure is the expenditure that would have been incurred by the person under the lease if the lease were a finance lease for the period:
+  (c) unadjusted income is the income derived by the person under the lease:
+  (d) unadjusted expenditure is the expenditure incurred by the person under the lease.
 Adjustment period
 (5) The period starts on the date on which the lease starts and ends on the last day of the income year in which the lease becomes a finance lease.
 Adjustment positive
-(6) If the adjustment is positive, the amount is income of the lessor or the lessee under section CH 6 (Adjustments under consecutive or successive finance leases).
+(6) If the adjustment is positive, the amount is income of the relevant person under section CH 6 (Adjustments for certain finance and operating leases).
 Adjustment negative
-(7) If the adjustment is negative, the amount is expenditure incurred by the lessor or the lessee in the income year in which the adjustment is made.
+(7) If the adjustment is negative, the amount is a deduction of the relevant person under section DB 51B (Adjustments for leases that become finance leases).
+
+### FA 11B Adjustments for certain operating leases
+When this section applies
+(1) This section applies when a lease is an operating lease that—
+  (a) is entered into on or after 20 May 1999 and before 20 June 2007; and
+  (b) is an arrangement, or part of an arrangement that, on 20 June 2007, meets the requirements of paragraph (c)(i) to (iii) of the definition of finance lease; and
+  (c) has a term of the lease ending after the end of the income year in which 20 June 2007 falls (the adjustment year); and
+  (d) does not meet the requirements of section FA 11(1) before the end of the income year after the adjustment year.
+Adjustment required
+(2) The lessor must adjust their income and expenditure calculated for the lease asset by including an adjustment in a return of income for the tax year corresponding to the income year after the adjustment year.
+Amount of adjustment
+(3) The amount of the adjustment is calculated using the formula—total depreciation losses6.
+Definition of item in formula
+(4) In the formula, total depreciation losses is the total amount of depreciation loss for the lease asset for which the lessor is allowed a deduction in the period that begins with the start of the term of the lease and ends with the end of the adjustment year.
+Income
+(5) The amount of the adjustment is income of the lessor under the lease under section CH 6 (Adjustments for certain finance and operating leases) in the income year after the adjustment year.
+Adjusted tax value
+(6) The adjusted tax value of the lease asset at the beginning of the income year after the adjustment year is the total of the amount of the adjustment and the adjusted tax value that the lease asset would have in the absence of this section.
+Depreciation loss
+(7) For an income year beginning after 20 June 2007 in which the lease is an operating lease, the amount of depreciation loss allowed for the lease asset other than under section EE 48 (Effect of disposal or event) is five-sixths of the amount of depreciation loss that would be allowed for the lease asset in the absence of this subsection.
 
 **Hire purchase agreements**
 
@@ -16538,7 +17021,7 @@ When this section applies
 Sale of property
 (2) The seller is treated as buying the property from the buyer for an amount equal to the outstanding balance calculated under subsection (3), and the buyer is treated as selling the property to the seller for that amount. The date of the sale is the date the agreement ends.
 Outstanding balance
-(3) The outstanding balance is the amount calculated using the formula—net balance due on termination &#8722; buyer’s termination payment + seller’s termination payment.
+(3) The outstanding balance is the amount calculated using the formula—net balance due on termination − buyer’s termination payment + seller’s termination payment.
 Definition of items in formula
 (4) In the formula,—
   (a) net balance due on termination is the net balance due under the hire purchase agreement on the date the agreement ends less any costs and expenses referred to in section 31(2)(c) and (d) of the Credit (Repossession) Act 1997:
@@ -16557,7 +17040,7 @@ Base price adjustment
 When this section applies
 (1) This section applies for the purposes of section FA 15 when the seller is a cash basis person.
 Reduction
-(2) The amount treated as the seller’s purchase price in section FA 15(2) is reduced by an amount for accrued but unpaid interest on the hire purchase agreement calculated using the formula—accrual income &#8722; income.
+(2) The amount treated as the seller’s purchase price in section FA 15(2) is reduced by an amount for accrued but unpaid interest on the hire purchase agreement calculated using the formula—accrual income − income.
 Definition of items in formula
 (3) In the formula,—
   (a) accrual income is the amount of income that would have been derived under 1 of the spreading methods for payments under the hire purchase agreement if—
@@ -16569,7 +17052,7 @@ Definition of items in formula
 When this section applies
 (1) This section applies for the purposes of section FA 15 when the buyer is a cash basis person.
 Reduction
-(2) The amount treated as the buyer’s sale price in section FA 15(2) is reduced by an amount for accrued but unpaid interest on the hire purchase agreement calculated using the formula—prepaid expenditure &#8722; expenditure.
+(2) The amount treated as the buyer’s sale price in section FA 15(2) is reduced by an amount for accrued but unpaid interest on the hire purchase agreement calculated using the formula—prepaid expenditure − expenditure.
 Definition of items in formula
 (3) In the formula,—
   (a) prepaid expenditure is the amount of prepaid expenditure that would have been incurred under 1 of the spreading methods for payments under the hire purchase agreement if—
@@ -17169,7 +17652,7 @@ Default percentage
 
 ### FE 19 Banking group’s equity threshold
 Requirement for New Zealand banking group: formula
-(1) A reporting bank must calculate the equity threshold of its New Zealand banking group for a tax year using the formula—0.04 × (risk-weighted exposures &#8722; deductions from equity value).
+(1) A reporting bank must calculate the equity threshold of its New Zealand banking group for a tax year using the formula—0.04 × (risk-weighted exposures − deductions from equity value).
 Definition of items in formula
 (2) In the formula,—
   (a) risk-weighted exposures is the sum of the following values:
@@ -17191,7 +17674,7 @@ Regulatory value
 
 ### FE 21 Banking group’s New Zealand net equity
 Formula
-(1) A reporting bank must calculate the New Zealand net equity of its New Zealand banking group for an income year using the formula—equity value &#8722; adjustments 1 to 11.
+(1) A reporting bank must calculate the New Zealand net equity of its New Zealand banking group for an income year using the formula—equity value − adjustments 1 to 11.
 Definition of items in formula
 (2) The items in the formula are defined in subsections (3) to (14).
 Equity value
@@ -17275,7 +17758,7 @@ Definition of items in formula
     (i) the amount set by the Governor-General by Order in Council as the threshold amount for the purposes of this subsection; or
     (ii) $416,667 multiplied by the number of months beginning on or after 1 July 2005 in the income year that includes that date, if no threshold is set under subparagraph (i):
   (iii) $5,000,000 if no threshold amount is set under subparagraph (i) or (ii):
-  (c) tax rate is the rate of tax for companies set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) for the tax year corresponding to the income year referred to in subsection (1):
+  (c) tax rate is the rate of tax for companies set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the tax year corresponding to the income year referred to in subsection (1):
   (d) interest rate of return is—
     (i) the percentage amount set by the Governor-General by Order in Council as the interest rate of return for the purposes of this subsection; or
     (ii) 7%, if no interest rate of return is set under subparagraph (i):
@@ -17664,7 +18147,7 @@ Definition of items in formula
     (i) an amount that the conduit company is able to credit under section OE 7(3) (BETA payment of income tax) against its income tax liability for the corresponding tax year, determined as if the amount of the tax credit calculated under section LQ 1 were zero; and
     (ii) an amount that another company that is part of the same group of companies is able to credit under section OE 7(3) against the conduit company’s income tax liability for the corresponding tax year, determined as if the amount of the tax credit calculated under section LQ 1 were zero:
   (c) apportionment percentage is the amount calculated for the tax year corresponding to the income year referred to in paragraph (a) under subsection (5):
-  (d) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) for the corresponding tax year.
+  (d) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the corresponding tax year.
 Apportionment percentage: formula
 (4) An apportionment percentage for an income year is the lesser of 1 and the amount calculated using the formula—
 Definition of items in formula
@@ -17689,7 +18172,7 @@ Surplus amount as percentage: formula
 Definition of items in formula
 (4) In the formula in subsection (3),—
   (a) surplus amount is the amount that is the difference between the results of the calculations made under sections FF 5(2) and FF 6(4) as described in subsection (1):
-  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) for the corresponding tax year:
+  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the corresponding tax year:
   (c) group FDP is the total amount of FDP—
     (i) calculated after taking into account an amount of a tax loss component that the conduit company chooses to use to satisfy a liability to pay some or all of a payment of FDP under section RA 6 (Withholding and payment obligations for passive income), but before taking into account a reduction in liability under section RG 7 (Reduction of payments for conduit tax relief); and
     (ii) required to be withheld from dividends paid during the income year to a company that is a member of the conduit company’s foreign group at the end of the income year.
@@ -18117,7 +18600,7 @@ Maximum reduction
 Definition of items in formula
 (3) In the formula,—
   (a) payment is the amount determined under section RG 4 (Calculating amount of FDP):
-  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) for the tax year in which the dividend is paid.
+  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the tax year in which the dividend is paid.
 Relationship with section RG 6
 (4) For the purposes of this section, section RG 6(6) (Using loss balances) applies, modified as necessary.
 
@@ -18153,7 +18636,7 @@ Tax loss component reduced
 Definition of items in formula
 (4) In the formula,—
   (a) amount of refund is the amount of the refund paid to the company:
-  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) for the tax year that corresponds to the income year.
+  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the tax year that corresponds to the income year.
 Relationship with section RM 21
 (5) This section overrides section RM 21 (Refunds when loss balances used to reduce net income).
 
@@ -18647,7 +19130,7 @@ When borrower insolvent
 
 ### FO 19 Calculation of outstanding accrued balance: consideration for discharge
 Formula
-(1) In section FO 18(2)(a), the outstanding accrued balance is calculated using the formula—consideration + prior expenditure + expenditure accrued in year &#8722; income accrued in year &#8722; consideration paid.
+(1) In section FO 18(2)(a), the outstanding accrued balance is calculated using the formula—consideration + prior expenditure + expenditure accrued in year − income accrued in year − consideration paid.
 Definition of items in formula
 (2) In the formula,—
   (a) consideration is the consideration paid to the amalgamating company under the financial arrangement:
@@ -18660,7 +19143,7 @@ Definition of items in formula
 
 ### FO 20 Calculation of outstanding accrued balance: amounts remitted
 Formula
-(1) In section FO 18(3), the outstanding accrued balance is calculated using the formula—consideration + prior income + income accrued in year &#8722; expenditure accrued in year &#8722; consideration paid.
+(1) In section FO 18(3), the outstanding accrued balance is calculated using the formula—consideration + prior income + income accrued in year − expenditure accrued in year − consideration paid.
 Definition of items in formula
 (2) In the formula,—
   (a) consideration is the consideration paid by the party under the financial arrangement:
@@ -18710,7 +19193,7 @@ Consideration more than amount determined under subsection (4)
 Associated persons
 (8) If the lessee under a specified lease, or another person who is associated with the lessee, at any time acquires the personal property lease asset, and disposes of the asset, and the value of the consideration for the disposal is more than the value of the consideration for which the lessee or other person acquired it, an amount equal to the excess is income under section CZ 20.
 Meaning of outstanding balance
-(9) In this section, and in section FZ 3, outstanding balance means the amount calculated using the formula—(loans advanced + interest payable) &#8722; instalments.
+(9) In this section, and in section FZ 3, outstanding balance means the amount calculated using the formula—(loans advanced + interest payable) − instalments.
 Definition of items in formula
 (10) In the formula,—
   (a) loans advanced is the total amount of all loans advanced under the lease by the lessor for the period—
@@ -19246,6 +19729,11 @@ Exemptions
   (b) if the associated entity is a natural person and is neither a partner of a partnership nor a trustee of a trust:
   (c) to the extent to which the services personally performed by the working person are essential support for a product supplied by the associated entity:
   (d) if the total amount to be attributed to the working person, for the associated entity and the income year, is less than $5,000, unless this paragraph applies to prevent income being attributed to the working person for the income year in relation to another associated entity.
+Treatment of certain dividends
+(4) If a company that is required to attribute an amount to the working person under this section pays a dividend, sections HA 14 to HA 19 (which relate to qualifying companies) are treated as applying to the company and the dividend if the company—
+  (a) has no net income for the tax year in which it pays the dividend other than income attributed under this section, ignoring interest income that is incidental to the company's business; and
+  (b) is not a qualifying company; and
+  (c) chooses to have the dividend treated as if it were paid by a qualifying company.
 
 ### GB 28 Interpretation of terms used in section GB 27
 When this section applies
@@ -19286,7 +19774,7 @@ Amount attributed
 Calculation for trustee or partnership
 (2) For the purposes of calculating the associated entity’s net income for the corresponding tax year in the application of subsection (1),—
   (a) if the associated entity is a trustee of a trust, the trustees are treated as not having made a distribution of beneficiary income out of the year’s income:
-  (b) if the associated entity is a partnership, the associated entity is treated as a taxpayer and section HR 1 (Partnerships and joint ventures) does not apply.
+  (b) if the associated entity is a partnership, the associated entity is treated as a taxpayer and section HG 2 (Partnerships are transparent) does not apply.
 Salary paid or fringe benefits treated as deductions
 (3) For the purposes of calculating the associated entity’s net income for the corresponding tax year in the application of subsection (1),—
   (a) the associated entity is allowed a deduction for employment income paid to the working person during the income year:
@@ -19532,9 +20020,7 @@ Some definitions
   - **account advantage** means a credit arising to a Maori authority credit account under sections OK 2 to OK 9 (which relate to credits arising to Maori authority credit accounts)
   - **tax credit advantage** means a tax credit allowed under section LO 1 (Tax credits for Maori authority credits).
 
-**Arrangements involving family support credits**
-
-### GB 44 Arrangements involving family support credits
+### GB 44 Arrangements involving tax credits for families
 When this section applies
 (1) This section applies if both of the following paragraphs are met:
   (a) a person (the claimant) enters into an arrangement with another person:
@@ -19650,6 +20136,15 @@ Arrangement treated as returning share transfer
 (2) The Commissioner may treat—
   (a) the arrangement as a returning share transfer; and
   (b) a person affected by the arrangement as a share user or a share supplier, under the returning share transfer.
+
+### GB 50 Arrangements involving partners
+When this section applies
+(1) This section applies when—
+  (a) a partner of a partnership enters into an arrangement; and
+  (b) the arrangement involves an amount of consideration (the arrangement amount of consideration) that is not a market value amount of consideration; and
+  (c) the arrangement has a purpose or effect of defeating the intent and application of subpart HG (Joint venturers, partners, and partnerships).
+Market value amount substituted
+(2) A market value amount of consideration is substituted for the arrangement amount of consideration.
 
 ### Subpart GC — Market value substituted
 
@@ -20031,14 +20526,14 @@ Definition of items in formula
 (3) In the formula in subsection (2), —
   (a) attached imputation credit is the amount determined under subsection (4), and the amount is zero if no imputation credit is attached:
   (b) attached FDP credit is the amount determined under subsection (5), and the amount is zero if no FDP credit is attached:
-  (c) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) for the income year of the shareholder in which the dividend is derived.
+  (c) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) at the time the shareholder derives the dividend, modified as applicable by section OZ 14 (Dividends from qualifying companies).
 ICA companies
 (4) A qualifying company that is an imputation credit account (ICA) company is treated as having attached an imputation credit to the dividend. The amount of the imputation credit is the lesser of—
-  (a) the maximum imputation credit that may be attached to the dividend under section OA 18 (Calculation of maximum permitted ratios); and
+  (a) the maximum imputation credit that may be attached to the dividend under section OA 18 (Calculation of maximum permitted ratios) modified as applicable by section OZ 14; and
   (b) an amount calculated using the formula in subsection (6).
 FDPA companies
 (5) A qualifying company that is a foreign dividend payment account (FDPA) company is treated as having attached a FDP credit to the dividend. The amount of the FDP credit is the lesser of—
-  (a) the maximum FDP credit that may be attached to the dividend under section OA 18, taking into account any imputation credit attached to the dividend under subsection (4); and
+  (a) the maximum FDP credit that may be attached to the dividend under section OA 18, taking into account any imputation credit attached to the dividend under subsection (4) modified as applicable by section OZ 14; and
   (b) an amount calculated using the formula in subsection (6).
 Formula
 (6) The formula referred to in subsections (4) and (5) is—
@@ -20306,7 +20801,7 @@ Balances
 Assessable income
 (5) Assessable income is the total assessable income that the company would derive by taking the actions described in subsection (3)(a) and (b) less the amount of any deduction that the company would have for taking those actions.
 Tax rate
-(6) Tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) for the relevant income year of the company.
+(6) Tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the relevant income year of the company.
 Relevant date
 (7) In subsections (3) to (5), the relevant date for measuring items in the formula is the date just before the company became a qualifying company or, as applicable, at the time the company ended its existence.
 Income tax and refund
@@ -20615,7 +21110,7 @@ Reducing taxable distribution
 Definition of items in formula
 (3) In the formula,—
   (a) tax loss is the amount of a tax loss component or loss balance that the person chooses to use:
-  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 3 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits):
+  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 3 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits):
   (c) distribution rate is the basic rate of income tax set out in schedule 1, part A, clause 4.
 Loss no longer available
 (4) If a person takes an amount of a tax loss or a loss balance into account under this section, the amount cannot be subtracted from their net income for the corresponding tax year for the purposes of section IA 2(2) (Tax losses).
@@ -20808,7 +21303,7 @@ Establishing cost of trust property
 Consideration for financial arrangements
 (4) For the purposes of this Act, the consideration for a financial arrangement of the trust at the date of the change in circumstances is either—
   (a) the market value of the financial arrangement on that date; or
-  (b) the value calculated using the formula—consideration paid to person + expenditure &#8722; consideration paid by person &#8722; income.
+  (b) the value calculated using the formula—consideration paid to person + expenditure − consideration paid by person − income.
 Definition of items in formula
 (5) In the formula,—
   (a) consideration paid to person is the consideration that is paid to the person before the date:
@@ -20842,7 +21337,7 @@ Time of providing election
 
 ### HC 34 Taxable distributions from non-complying trusts
 Rate of tax
-(1) Income tax is imposed on a taxable distribution derived by a person in an income year from a non-complying trust under section BF 1(b) (Other obligations) at the basic rate set out in schedule 1, part A, clause 4 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits).
+(1) Income tax is imposed on a taxable distribution derived by a person in an income year from a non-complying trust under section BF 1(b) (Other obligations) at the basic rate set out in schedule 1, part A, clause 4 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
 Due date
 (2) The income tax is payable on the person’s payment date for terminal tax under section RA 13 (Payment dates for terminal tax) for the corresponding tax year.
 
@@ -21101,10 +21596,14 @@ Meaning of absentee
 ### HD 19 Persons receiving absentees’ income
 A person is treated as an agent if they receive, control, or dispose of income derived by a principal who is an absentee.
 
-### HD 20 Persons carrying on business for or with absentees
-A person is treated as an agent if they carry on in New Zealand—
-  (a) a business for an absentee, whether or not the income is received by the agent:
-  (b) a business in partnership with an absentee, in relation to the amount that would be the taxable income of the absentee derived from the business in a tax year.
+### HD 20 Persons carrying on business for absentees
+A person is treated as an agent if they carry on in New Zealand a business for an absentee, whether or not the income is received by the agent.
+
+### HD 20B General partners and partners carrying on with or managing business involving absentees
+(1) This section applies to a person who—
+  (a) in New Zealand carries on a business in a partnership that is not a limited partnership:
+  (b) is a general partner of a limited partnership that carries on a business in New Zealand ignoring section HG 2 (Partnerships are transparent).
+(2) If the person carries on the business with an absentee or, as a general partner, is responsible for the management of a limited partnership in which a limited partner is an absentee, the person is treated as the agent of the relevant absentee in relation to the absentee’s partnership share of the partnership’s income under section HG 2.
 
 ### HD 21 Companies
 Paying dividends
@@ -21225,7 +21724,7 @@ Maori authority rules
   (c) sections LA 4, LA 6, LO 1, LO 4, and LO 5 (which relate to Maori authority credits):
   (d) subpart OK (Maori authority credit accounts (MACA)):
   (e) section RM 22 to RM 27 (which relate to limits on refunds of tax in relation to Maori authorities):
-  (f) schedule 1, part A, clause 6 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits):
+  (f) schedule 1, part A, clause 6 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits):
   (g) sections 31, 57, 68B, 69B, 70B, 97B, 140CB, 140DB, and 181B of the Tax Administration Act 1994.
 
 ### HF 2 Who is eligible to be a Maori authority?
@@ -21353,6 +21852,212 @@ When election no longer effective
   (a) notifies the Commissioner that the election is cancelled, and the election no longer has effect from the date set out in the notice:
   (b) stops being a Maori authority.
 
+### Subpart HG — Joint venturers, partners, and partnerships
+
+### HG 1 Joint venturers
+When this section applies
+(1) This section applies when 2 or more people derive income jointly or have deductions jointly, and they are not partners in the same partnership.
+Separate shares
+(2) Each person must calculate their net income for a tax year taking into account their share of the joint income and deductions.
+Exclusion
+(3) This section does not apply to the income derived by and the deductions of an airport operator from activities that are activities undertaken as an airport operator.
+
+### HG 2 Partnerships are transparent
+Look-through in accordance with share
+(1) For the purposes of a partner’s liabilities and obligations under this Act in their capacity of partner of a partnership, unless the context requires otherwise,—
+  (a) the partner is treated as carrying on an activity carried on by the partnership, and having a status, intention, and purpose of the partnership, and the partnership is treated as not carrying on the activity or having the status, intention, or purpose:
+  (b) the partner is treated as holding property that a partnership holds, in proportion to the partner’s partnership share, and the partnership is treated as not holding the property:
+  (c) the partner is treated as being party to an arrangement to which the partnership is a party, in proportion to the partner’s partnership share, and the partnership is treated as not being a party to the arrangement:
+  (d) the partner is treated as doing a thing and being entitled to a thing that the partnership does or is entitled to, in proportion to the partner’s partnership share, and the partnership is treated as not doing the thing or being entitled to the thing.
+No streaming
+(2) Despite subsection (1), for a partner in their capacity of partner of a partnership, the amount of income, tax credit, rebate, gain, expenditure, or loss that they have from a particular source, or of a particular nature, is calculated by multiplying the total income, tax credit, rebate, gain, expenditure, or loss of the partners of the partnership from the particular source or of the particular nature by the partner’s partnership share in the partnership’s income.
+Expenditure or loss previously incurred
+(3) A partner of a partnership may be treated as incurring an expenditure or loss which the partnership incurs ignoring this section, despite the partner not being a partner at the time the expenditure or loss is incurred. This subsection does not allow 2 deductions for 1 expenditure or loss.
+Excluded amounts
+(4) Subsection (2) does not apply to the following amounts:
+  (a) expenditure or loss that relates to a person entering a partnership by acquiring partner’s interests disposed of by another partner, to the extent to which sections HG 5 to HG 10 do not apply to the partner’s interests:
+  (b) supplementary dividends, to the extent to which subpart LP (Tax credits for supplementary dividends) applies:
+  (c) CTR additional dividends, to the extent to which subpart LQ (Tax credits of conduit tax relief companies) applies:
+  (d) imputation credits, to the extent to which section LE 6 (Partners in partnerships) applies:
+  (e) FDP credits, to the extent to which section LF 4 (Partners in partnerships) applies.
+
+### HG 3 General provisions relating to disposals
+Relationship between disposal upon dissolution and disposal safe harbours
+(1) Section HG 4 overrides sections HG 5 to HG 10.
+Election out of disposal safe harbours for small partnerships
+(2) Sections HG 5 to HG 9 do not apply for the partners of a small partnership if they choose that those sections do not apply by the small partnership furnishing a joint return of income that ignores the sections.
+Election out for livestock disposals
+(3) Section HG 10 does not apply for the partners of a partnership if they choose that it does not apply, by the partnership furnishing a joint return of income that ignores the section.
+
+### HG 4 Disposal upon final dissolution
+When this section applies
+(1) This section applies immediately before a partnership is finally dissolved by agreement of the partners, court order, or otherwise, and the partnership’s business ignoring section HG 2 will not continue to be carried on in partnership.
+Disposal
+(2) Each partner of the partnership is treated as disposing of all of their partner’s interests in the partnership to a single third party for a payment equal to the interests’ market value.
+Receipts upon dissolution
+(3) Anything received by a partner in relation to the dissolution of the partnership described in subsection (1) is ignored.
+Relationship with subject matter
+(4) This section overrides sections HG 4 to HG 10.
+
+### HG 5 Disposal of partner’s interests
+When this section applies
+(1) This section applies when a person (the exiting partner) disposes of some or all of their partner’s interests (the current interests) in a partnership, if the amount calculated using the following formula is less than zero:disposal payment+previous payments−(gross tax value − liabilities)−$50,000.
+Definition of items in formula
+(2) In the formula,—
+  (a) disposal payment is the total amount of consideration paid or payable to the exiting partner for the current interests:
+  (b) previous payments is the total amount of consideration paid or payable to the exiting partner for other disposals of some or all of their partner’s interests (the other interests) that have occurred in the year before the disposal of the current interests:
+  (c) gross tax value is the value for the purposes of this Act of the current interest and other interests at the time the relevant interest is disposed of, treating any interest that has no value for the purposes of this Act as having a value equal to its accounting book value at the time it is disposed of:
+  (d) liabilities is the amount of liabilities under generally accepted accounting practice at the time the relevant interest is disposed of, calculated by reference to the exiting partner’s partnership share for the relevant interest.
+Exiting partner: excluded payment
+(3) The disposal payment described in subsection (2)(a) is excluded income of the exiting partner.
+Exiting partner: no deduction
+(4) The exiting partner is denied any deduction in relation to the current interests for the income year in which the disposal of the interests occurs and later income years to the extent to which the entering partner is allowed a deduction because of subsection (6).
+Entering partner: no deduction
+(5) An entering partner is denied any deduction for the disposal payment described in subsection (2)(a).
+Entering partner: stepping in
+(6) For the purposes of calculating the income and deductions of an entering partner for the part of the income year after the disposal of the interests occurs and later income years (the post-disposal periods), the entering partner is treated for the post-disposal periods as if they had originally acquired and held the current interests, not the exiting partner. However, this subsection does not apply to a deduction carried forward under section HG 12.
+Exclusion by election
+(7) This section does not apply for the partners of a small partnership if they choose that it does not apply, by the small partnership furnishing a joint return of income that ignores sections HG 5 to HG 9.
+Relationship with section HG 4
+(8) Section HG 4 overrides this section.
+
+### HG 6 Disposal of trading stock
+When this section applies
+(1) This section applies when a person (the exiting partner) disposes of some or all of their partner’s interests in a partnership, to the extent to which those interests include trading stock that is not livestock, and, for the income year of disposal, the total turnover of the partnership, ignoring section HG 2, is $3,000,000 or less.
+Exiting partner: excluded payment
+(2) The amount of consideration paid or payable to the exiting partner for the trading stock is excluded income of the exiting partner.
+Exiting partner: no deduction
+(3) The exiting partner is denied any deduction in relation to the trading stock for the income year in which the disposal of the trading stock occurs and later income years, to the extent to which the entering partner is allowed a deduction because of subsection (5).
+Entering partner: no deduction
+(4) The entering partner is denied any deduction for the amount of consideration paid or payable to the exiting partner for the trading stock.
+Entering partner: stepping in
+(5) For the purposes of calculating the income tax liability of an entering partner, the entering partner is treated as if they had acquired and held the trading stock, not the exiting partner.
+Exclusion by election
+(6) This section does not apply for the partners of a small partnership if they choose that it does not apply, by the small partnership furnishing a joint return of income that ignores sections HG 5 to HG 9.
+Relationship with section HG 4
+(7) Section HG 4 overrides this section.
+
+### HG 7 Disposal of depreciable property
+When this section applies
+(1) This section applies when a person (the exiting partner) disposes of some or all of their partner’s interests in a partnership, to the extent to which those interests include an item of depreciable property that is not depreciable intangible property, and the total cost of the item when it was first acquired by the partners of the partnership is $200,000 or less.
+Exiting partner: excluded payment
+(2) The amount of consideration paid or payable to the exiting partner for the depreciable property is excluded income of the exiting partner.
+Exiting partner: no deduction
+(3) The exiting partner is denied any deduction in relation to the depreciable property for the income year in which the disposal of the depreciable property occurs and later income years, to the extent to which the entering partner is allowed a deduction because of subsection (5).
+Entering partner: no deduction
+(4) The entering partner is denied any deduction for the amount of consideration paid or payable to the exiting partner for the depreciable property.
+Entering partner: stepping in
+(5) For the purposes of calculating the income tax liability of an entering partner for the part of the income year after the disposal of the depreciable property occurs and later income years (the post-disposal periods), the entering partner is treated for the post-disposal periods as if they had originally acquired and held the depreciable property, not the exiting partner.
+Exclusion by election
+(6) This section does not apply for the partners of a small partnership if they choose that it does not apply, by the small partnership furnishing a joint return of income that ignores sections HG 5 to HG 9.
+Relationship with section HG 4
+(7) Section HG 4 overrides this section.
+
+### HG 8 Disposal of financial arrangements and certain excepted financial arrangements
+When this section applies
+(1) This section applies when a person (the exiting partner) disposes of some or all of their partner’s interests in a partnership, to the extent to which those interests include a financial arrangement or an excepted financial arrangement described in section EW 5(10) (What is an excepted financial arrangement?) and, ignoring section HG 2—
+  (a) the purpose for which the financial arrangement or excepted financial arrangement was entered into was necessary and incidental to the business of the partnership; and
+  (b) the partnership does not derive income from a business of holding financial arrangements.
+Exiting partner: excluded payment
+(2) The amount of consideration paid or payable to the exiting partner for the relevant financial arrangement or excepted financial arrangement is excluded income of the exiting partner. The exiting partner is, for the relevant financial arrangement, a party that is not required to calculate a base price adjustment, despite section EW 29 (When calculation of base price adjustment required).
+Exiting partner: no deduction
+(3) The exiting partner is denied any deduction in relation to the relevant financial arrangement or excepted financial arrangement for the income year in which the disposal of the financial arrangement or excepted financial arrangement occurs and later income years.
+Entering partner: no deduction
+(4) The entering partner is denied any deduction for the amount of consideration paid or payable to the exiting partner for the relevant financial arrangement or excepted financial arrangement.
+Entering partner: stepping in
+(5) For the purposes of calculating the income tax liability of an entering partner for the part of the income year after the disposal of the relevant financial arrangement or excepted financial arrangement occurs and later income years (the post-disposal periods), the entering partner is treated for the post-disposal periods as if they had acquired and held the financial arrangement or excepted financial arrangement, not the exiting partner.
+Exclusion by election
+(6) This section does not apply for the partners of a small partnership if they choose that it does not apply, by the small partnership furnishing a joint return of income that ignores sections HG 5 to HG 9.
+Relationship with section HG 4
+(7) Section HG 4 overrides this section.
+
+### HG 9 Disposal of short-term agreements for the sale and purchase of property or services
+When this section applies
+(1) This section applies when a person (the exiting partner) disposes of some or all of their partner’s interests in a partnership, to the extent to which those interests include a short-term agreement for the sale and purchase of property or services.
+Exiting partner: excluded payment
+(2) The amount of consideration paid or payable to the exiting partner for the short-term agreement for the sale and purchase of property or services is excluded income of the exiting partner.
+Exiting partner: no deduction
+(3) The exiting partner is denied any deduction in relation to the short-term agreement for the sale and purchase of property or services, to the extent to which the entering partner is allowed a deduction because of subsection (5).
+Entering partner: no deduction
+(4) The entering partner is denied any deduction for the amount of consideration paid or payable to the exiting partner for the short-term agreement for the sale and purchase of property or services.
+Entering partner: stepping in
+(5) For the purposes of calculating the income tax liability of an entering partner for the part of the income year after the disposal of the short-term agreement for the sale and purchase of property or services occurs and later income years (the post-disposal periods), the entering partner is treated for the post-disposal periods as if they had originally acquired and held the short-term agreement for the sale and purchase of property or services, not the exiting partner.
+Exclusion by election
+(6) This section does not apply for the partners of a small partnership if they choose that it does not apply, by the small partnership furnishing a joint return of income that ignores sections HG 5 to HG 9.
+Relationship with section HG 4
+(7) Section HG 4 overrides this section.
+
+### HG 10 Disposal of livestock
+When this section applies
+(1) This section applies when a person (the exiting partner) disposes of some or all of their partner’s interests in a partnership, to the extent to which those interests include livestock that is not valued using—
+  (a) the herd scheme:
+  (b) 1 of the cost price, replacement price, or market value methods described in section EC 25 (Cost price, replacement price, or market value).
+Entering partner: stepping in
+(2) For the purposes of calculating the income tax liability of an entering partner for the income year in which the disposal of the relevant non-specified or specified livestock occurs and later income years, the entering partner is treated as if they had originally acquired and held the non-specified or specified livestock, not the exiting partner.
+Exclusion
+(3) This section does not apply for the partners of a partnership if they choose that it does not apply, by the partnership furnishing a joint return of income that ignores this section.
+Relationship with section HG 4
+(4) Section HG 4 overrides this section.
+
+### HG 11 Limitation on deductions by partners in limited partnerships
+When this section applies
+(1) This section applies for a limited partnership and an income year when, but for this section, a deduction by virtue of section HG 2 or HG 12 is allowed to—
+  (a) a limited partner of the limited partnership:
+  (b) a general partner of the partnership who—
+    (i) was a limited partner of the limited partnership within 60 days of the last day of the income year; and
+    (ii) is or will be a limited partner of the limited partnership within 60 days after the last day of the income year.
+No deduction
+(2) The partner is denied the deduction for an income year to the extent to which their limited partnership deduction for the income year is greater than the amount (the partner’s basis) calculated using the formula in subsection (3) on the last day of the income year.
+Partner’s basis
+(3) For the purposes of subsection (2), the amount that is the partner’s basis is calculated using the following formula:investments − distributions + income − deductions − disallowed amount.
+Definition of items in formula
+(4) The items in the formula are defined in subsections (5) to (9).
+Investments
+(5) Investments is the total of—
+  (a) the market value of capital contributions made by the partner to the limited partnership at the time the relevant contribution is contributed or agreed to be contributed by them:
+  (b) the amount paid by the partner for the assignment of capital contributions to them:
+  (c) the secured amounts.
+Distributions
+(6) Distributions is the total of—
+  (a) the market value of distributions to the partner from the limited partnership:
+  (b) the amount paid to the partner for the assignment of capital contributions by them.
+Income
+(7) Income is the total of—
+  (a) income that the partner has by virtue of section HG 2 in the income year and previous income years, excluding dividends paid by a FIF for which the partner has FIF income to the extent to which those dividends are equal to or less than the partner’s FIF income for the relevant income year:
+  (b) capital gain amounts under section CD 44(7)(a) (Available capital distribution amount) that the partner would have by virtue of section HG 2 in the income year and previous income years, if the partner were treated as a company for the purposes of section CD 44(7)(a), unless the gain is accounted for under paragraph (a):
+  (c) assessable income that the partner has in previous income years from goods and services they contributed to the limited partnership, if the income is not accounted for under subsection (5) or paragraph (a) or (b) of this subsection.
+Deductions
+(8) Deductions is the total of—
+  (a) expenditure or loss in previous income years, to the extent to which the expenditure or loss is incurred by virtue of section HG 2 in the partner deriving income by virtue of section HG 2, excluding any deductions denied in those previous years under this section:
+  (b) capital loss amounts under section CD 44(9) that the partner would have by virtue of section HG 2 in the income year and previous income years under section HG 2, if the partner is treated as a company for the purposes of section CD 44(9), unless the loss is accounted for under paragraph (a):
+  (c) deductions that the partner is allowed in previous income year in relation to assessable income described in subsection (7)(c), if the deduction is not accounted for under subsection (6) or paragraphs (a) or (b) of this section.
+Disallowed amounts
+(9) Disallowed amount is the amount of investments, as defined in subsection (5), made by the partner within 60 days of the last day of the income year, if those investments are or will be distributed or reduced within 60 days after the last day of the income year.
+Exclusion
+(10) This section does not deny a partner (the exiting partner) a deduction that is equal to or less than the amount of net income that the exiting partner has for the amount paid or payable to the exiting partner for the disposal of their partner’s interests, ignoring other transactions.
+Relationship with subject matter
+(11) This section is modified by sections HZ 3 and HZ 4 (which relate to transitions to limited partnerships).
+Some definitions
+(12) In this section,—
+  - **capital contribution** includes a capital contribution for the purposes of the Limited Partnerships Act 2008
+  - **limited partnership deduction** means, for the partner and the income year, the amount of any deductions that the partner would be allowed if the partner is treated as having no income or deductions other than those that arise by virtue of sections HG 2 and HG 12
+  - **partner’s associate** means, for a partner, a person who is not a partner of the relevant limited partnership, and who is—
+    (a) a relative of the partner:
+    (b) a company in the same wholly-owned group as the partner
+  - **secured amounts** means, for the partner, the lesser of—
+    (a) the amount of the limited partnership’s debt ignoring section HG 2 (the debt) that the partner or the partner’s associate secures by a guarantee or indemnity:
+    (b) the amount that results from dividing the amount described in paragraph (a) by the number of partners who are jointly and severally liable for the debt:
+    (c) the amount that is the market value of property against which the guarantee or indemnity may be enforced, treating the partner’s interests as having a market value of zero:
+    (d) the proportion of the amount described in paragraph (c) that is attributable to the partner in the case of the partners being jointly and severally liable for the debt.
+
+### HG 12 Limitation on deductions by partners in limited partnerships: carry-forward
+When this section applies
+(1) This section applies when, for an income year, a partner is denied a deduction under section HG 11.
+Carry-forward
+(2) The partner is allowed a deduction, for an amount for which the partner is denied a deduction under section HG 11, for the income year after the one for which it is denied under section HG 11.
+Relationship with subject matter
+(3) The deduction allowed under this section is subject to section HG 11, to the extent to which that section applies to the deduction and the relevant partner.
+
 ### Subpart HL — Portfolio investment entities
 
 **Introductory provisions**
@@ -21376,8 +22081,20 @@ Intended effect on investor in portfolio tax rate entity
 ### HL 2 Scheme of subpart
 Eligibility to be portfolio investment entity
 (1) The eligibility of an entity to be a portfolio investment entity is determined by sections HL 3 to HL 10.
-Election to be portfolio investment entity
-(2) An entity who is eligible to be a portfolio investment entity may choose under section HL 11 to be a portfolio investment entity.
+Election to be type of portfolio investment entity
+(2) An entity may choose under section HL 11 to be a portfolio investment entity and—
+  (a) portfolio tax rate entity if the entity is—
+    (i) a company, superannuation fund, or group investment fund; and
+    (ii) eligible under section HL 3(1) to make an election; or
+  (b) portfolio listed company if the entity is—
+    (i) a company listed on a recognised exchange in New Zealand; and
+    (ii) eligible under section HL 3(3) to make an election; or
+  (c) portfolio defined benefit fund if the entity is—
+    (i) a defined benefit fund; and
+    (ii) eligible under section HL 3(5) to make an election; or
+  (d) portfolio investment-linked life fund if the entity is—
+    (i) a separate identifiable fund, forming part of a life insurer, holding investments subject to life insurance policies under which benefits are directly linked to the value of the investments held in the fund; and
+    (ii) eligible under section HL 3(7) to make an election.
 Becoming a portfolio investment entity
 (3) The time at which an entity becomes a portfolio investment entity and the effects of the change are given by sections HL 13 and HL 14.
 Ceasing to be a portfolio investment entity
@@ -21398,7 +22115,10 @@ Portfolio entity tax liability
     (ii) from the portfolio class net income or portfolio class net loss for the class and the period and, if appropriate, any portfolio entity formation loss under section HL 30, and any portfolio class taxable loss under section HL 31 that is portfolio class land loss under section HL 32:
   (c) the portfolio entity tax liability calculated under section HL 21—
     (i) for each portfolio investor class of the entity and each portfolio allocation period in the tax year:
-    (ii) from the portfolio class taxable income for the period, the portfolio investor interest fraction and portfolio investor rate for each investor in the class for the period.
+    (ii) from the portfolio class taxable income for the period, the portfolio investor interest fraction and portfolio investor rate for each investor in the class for the period:
+  (d) the amount of fees paid to the entity by the investor on the day:
+  (e) the amount of rebates of fees credited to the investor by the entity on the day:
+  (f) the amount of expenditure, for the income year ending with the day, transferred under subpart DV (Expenditure specific to certain entities) to the entity by the investor.
 Payments of tax by portfolio tax rate entity
 (8) A portfolio tax rate entity is liable to pay tax equal to the amount of the entity’s portfolio entity tax liability for a tax year by the payments required by sections HL 22 to HL 24, depending on the entity’s portfolio allocation period and portfolio calculation period.
 Portfolio investor allocated income and portfolio investor allocated loss
@@ -21417,30 +22137,38 @@ Portfolio investor proxies
 **Eligibility requirements: portfolio investment entities and foreign investment vehicles**
 
 ### HL 3 Eligibility requirements for entities
-Eligibility requirements for portfolio tax rate entity and entity
-(1) A portfolio tax rate entity and an entity that is choosing under section HL 11 to be a portfolio investment entity and a portfolio tax rate entity must meet the eligibility requirements described in subsections (7), (8), and (10).
-Further eligibility requirements for portfolio tax rate entity
-(2) A portfolio tax rate entity must meet the further eligibility requirements described in subsection (9) and sections HL 6, HL 7, HL 9, and HL 10.
-Eligibility requirements for portfolio listed company and entity
-(3) A portfolio listed company and an entity that is choosing under section HL 11 to be a portfolio investment entity and a portfolio listed company must meet the eligibility requirements described in subsections (7), (8), and (10).
-Further eligibility requirements for portfolio listed company
-(4) A portfolio listed company must meet the further eligibility requirements described in subsection (9) and sections HL 6, HL 8, HL 9, and HL 10.
-Eligibility requirements for portfolio defined benefit fund and entity
-(5) A portfolio defined benefit fund and an entity that is choosing under section HL 11 to be a portfolio investment entity and a portfolio defined benefit fund must meet the eligibility requirements described in subsections (7), (8), and (10).
-Further eligibility requirements for portfolio defined benefit fund
-(6) A portfolio defined benefit fund must meet the further eligibility requirements described in sections HL 6, HL 9, and HL 10.
-Form and business requirement
-(7) The form and business requirement is that the entity—
-  (a) must be a company, superannuation fund, or group investment fund; and
-  (b) must not carry on a business of life insurance.
+Eligibility requirements for entity electing to be portfolio tax rate entity
+(1) An entity that is choosing under section HL 11 to be a portfolio investment entity and portfolio tax rate entity must meet the eligibility requirements described in subsections (9), (10), and (11).
+Eligibility requirements for portfolio tax rate entity
+(2) A portfolio tax rate entity must meet—
+  (a) the eligibility requirements described in subsections (9), (10), and (11); and
+  (b) the further eligibility requirements described in sections HL 5C, HL 6, HL 7, HL 9, and HL 10.
+Eligibility requirements for entity electing to be portfolio listed company
+(3) An entity that is choosing under section HL 11 to be a portfolio investment entity and portfolio listed company must meet the eligibility requirements described in subsections (9), (10), and (11).
+Eligibility requirements for portfolio listed company
+(4) A portfolio listed company must meet—
+  (a) the eligibility requirements described in subsections (9), (10), and (11); and
+  (b) the further eligibility requirements described in sections HL 5C, HL 6, HL 8, HL 9, and HL 10.
+Eligibility requirements for entity electing to be portfolio defined benefit fund
+(5) An entity that is choosing under section HL 11 to be a portfolio investment entity and portfolio defined benefit fund must meet the eligibility requirements described in subsections (9), (10), and (11).
+Eligibility requirements for portfolio defined benefit fund
+(6) A portfolio defined benefit fund must meet—
+  (a) the eligibility requirements described in subsections (9), (10), and (11); and
+  (b) the further eligibility requirements described in sections HL 5C, HL 6, HL 9, and HL 10.
+Eligibility requirements for separate identifiable fund electing to be portfolio investment-linked life fund
+(7) An entity that is choosing under section HL 11 to be a portfolio investment entity and portfolio investment-linked life fund must meet the eligibility requirements described in subsections (10) and (11).
+Eligibility requirements for portfolio investment-linked life fund
+(8) A portfolio investment-linked life fund must meet—
+  (a) the eligibility requirements described in subsections (10) and (11); and
+  (b) the further eligibility requirements described in sections HL 6, HL 9, and HL 10.
+Business requirement
+(9) The business requirement is that the entity must not carry on a business of life insurance.
 Residence requirement
-(8) The residence requirement is that the entity must be—
+(10) The residence requirement is that the entity must be—
   (a) resident in New Zealand; and
   (b) not treated under a double tax agreement as not being resident in New Zealand.
-Income interest requirement
-(9) The income interest requirement is that all portfolio investor interests in the entity that give rights in relation to proceeds from a portfolio entity investment give the rights in relation to all the proceeds from the investment that are not category B income.
 Entity history requirement
-(10) The entity history requirement is that the entity must not, before the day on which the election to be a portfolio investment entity is to be effective, have ceased to be a portfolio investment entity under section HL 15(1), unless the cessation occurred more than 5 years before the day on which the election is to be effective.
+(11) The entity history requirement is that the entity must not, before the day on which the election to be a portfolio investment entity is to be effective, have ceased to be a portfolio investment entity under section HL 14(1), unless the cessation occurred more than 5 years before the day on which the election is effective.
 
 ### HL 4 Effect of failure to meet eligibility requirements for entities
 Failure to meet certain requirements
@@ -21449,7 +22177,7 @@ Failure to meet certain requirements
   (b) not referred to in subsection (2)(a).
 Failure to meet other requirements
 (2) An entity ceases under this section to be eligible to be a portfolio investment entity if—
-  (a) the entity fails to meet a requirement under section HL 6, HL 9, or HL 10 on the last day of a quarter—
+  (a) a portfolio investor class of the entity fails to meet a requirement of section HL 6 or HL 9, or the entity fails to meet a requirement of section HL 10 on the last day of a quarter—
     (i) beginning 6 months or more after the date on which the entity becomes a portfolio investment entity; and
     (ii) ending more than 3 months before an announcement by the entity to its investors that the entity is winding up within 12 months of the announcement; and
   (b) the entity’s failure—
@@ -21471,9 +22199,36 @@ When entity ceases to be foreign investment vehicle
     (i) on the last day of a quarter; and
     (ii) on the last day of the quarter following the quarter referred to in subparagraph (i).
 
+### HL 5B Meaning of investor and portfolio investor class
+Meaning of investor
+(1) An investor, in relation to a portfolio investment entity or foreign investment vehicle (the entity), means,—
+  (a) if the entity is a company and paragraph (d) does not apply, a shareholder in the company:
+  (b) if the entity is not a company and paragraphs (c) and (d) do not apply, a person who is entitled to a proportion of the funds available for distribution by the entity—
+    (i) by reason of the rules of the entity or the terms of the trust under which the entity is established; and
+    (ii) as if the entity were a company and the person were a shareholder in the company:
+  (c) if the entity is a portfolio investment-linked life fund and paragraph (d) does not apply, a person whose benefits under the relevant life insurance policy are directly linked to the value of investments held in the portfolio investment-linked life fund:
+  (d) for a share, entitlement, or life insurance policy held through a portfolio investor proxy by a person, the portfolio investor proxy.
+Meaning of portfolio investor class
+(2) A portfolio investor class for a portfolio investment entity means a group of 1 or more investors in the entity with each investor having an entitlement to a distribution by the entity of proceeds from portfolio entity investments such that—
+  (a) the portfolio entity investments are the same for all the investors in the group; and
+  (b) each investor's interest in a portfolio entity investment represents a proportion (the investment proportion) of the value of the investor's entitlement; and
+  (c) the investment proportion for each investor and each portfolio entity investment differs from the average value of the investment proportion, for the investors in the group and the portfolio entity investment, by less than 2.5% of that average value except if subsection (3) applies.
+Exception to requirement of subsection (2)(c)
+(3) The investment proportion for an investor in a group referred to in subsection (2) and a portfolio entity investment may differ by 2.5% or more from the average value for the group and the investment if—
+  (a) the portfolio entity investment is an arrangement under which the entity is assured of receiving, from investments, sufficient proceeds for the entity to repay each investor in the group an amount contributed to the entity; and
+  (b) the excess in difference between the investment proportion for the investor and the average value for the group arises from differences between the portfolio investor rates of members of the group.
+
+### HL 5C Income interest requirement
+What this section applies to
+(1) This section applies to a portfolio investment entity that is not a portfolio investment-linked life fund.
+Requirement
+(2) The income interest requirement is that all portfolio investor interests in the entity that give rights in relation to proceeds from a portfolio entity investment give the rights in relation to all the proceeds from the investment that are not category B income.
+
 ### HL 6 Investor membership requirement
-Investor membership requirement for entity other than listed company
-(1) The investor membership requirement for a portfolio investor class of an entity that is not a company listed on a recognised exchange in New Zealand and does not meet the requirements of subsection (3) is that the portfolio investor class must include—
+General investor membership requirement
+(1A) The investor membership requirement for an entity that is not a company listed on a recognised exchange in New Zealand and does not meet the requirements of subsection (3) is that each portfolio investor class of the entity must meet the requirements of subsection (1).
+Investor membership requirement for portfolio investor class
+(1) The investor membership requirement for a portfolio investor class is that the class must include—
   (a) 20 persons, treating all interests held by persons associated under the 1988 version provisions and included by subsection (4) as being held by 1 person:
   (b) a portfolio investment entity:
   (c) a foreign investment vehicle:
@@ -21488,22 +22243,28 @@ Investor membership requirement for entity other than listed company
   (j) less than 20 persons, as determined under paragraph (a), if—
     (i) the entity has 1 or more other portfolio investor classes that satisfy paragraph (a); and
     (ii) no investor in the class, other than the entity’s manager or trustee, can control the investment decisions relating to that class; and
-    (iii) investors for which the entity would not meet the investor membership requirement in the absence of this paragraph have portfolio investor interests with a total value of less than 10% of the total value of portfolio investor interests in the entity.
+    (iii) investors for which the entity would not meet the investor membership requirement in the absence of this paragraph have portfolio investor interests with a total value of less than 10% of the total value of portfolio investor interests in the entity:
+  (k) Auckland Regional Holdings.
 Investor membership requirement for listed company
 (2) The investor membership requirement for an entity that is a company listed on a recognised exchange in New Zealand is that—
   (a) the company must not have more than 1 portfolio investor class of investors holding portfolio investor interests in the company; and
   (b) each investor must be a member of the portfolio investor class; and
   (c) each portfolio investor interest in the company must be a share traded on the recognised exchange.
 No investor membership requirement for entities similar to unit trusts and certain superannuation funds
-(3) There is no investor membership requirement for an entity that,—
+(3) There is no investor membership requirement for a portfolio investor class that,—
   (a) if treated as a unit trust, would meet the requirements of 1 or more of paragraphs (a) and (c) to (e) of the definition of public unit trust:
   (b) is a superannuation fund established under the proposal for the restructuring of the National Provident Fund required by the National Provident Fund Restructuring Act 1990:
-  (c) is the fund established by the Government Superannuation Fund Act 1956.
+  (c) is the fund established by the Government Superannuation Fund Act 1956:
+  (d) is a superannuation fund that—
+    (i) existed before 17 May 2006; and
+    (ii) on or after 17 May 2006, if treated as a unit trust, would have met the requirements of 1 or more of paragraphs (a) and (c) to (e) of the definition of public unit trust ; and
+    (iii) has no investor, other than the fund's manager or trustee, that can control the investment decisions relating to that class.
 Interests of some associated investors included with interests of investor for some purposes
 (4) For the purposes of subsection (1), the portfolio investor interests of persons associated with an investor in a portfolio investor class are included with the portfolio investor interests of the investor if—
   (a) the investor is not listed in subsection (1)(b) to (i); and
   (b) the associated person is not listed in subsection (1)(b) to (i); and
-  (c) the associated person has a portfolio investor interest fraction of 5% or more.
+  (c) the investor has a portfolio investor interest fraction of 5% or more; and
+  (d) the associated person has a portfolio investor interest fraction of 5% or more.
 
 ### HL 7 Investor return adjustment requirement: portfolio tax rate entity
 When this section applies
@@ -21513,18 +22274,21 @@ Investor return adjustment requirement
   (a) the amount of the entity’s portfolio entity tax liability for the portfolio investor class; and
   (b) the amount of a tax credit under section HL 28 or HL 29 allocated to the investor as a member of the portfolio investor class.
 Nature of adjustment
-(3) An adjustment reflecting the effect of the investor’s portfolio investor rate must be made to—
-  (a) the investor’s portfolio investor interest in the portfolio investor class or another portfolio investor class—
-    (i) before the end of the 2nd month after the portfolio calculation period, if the entity has made an election under section HL 22; or
-    (ii) within 3 months of the end of the tax year, if the entity has made an election under section HL 23; or
-    (iii) within 2 months of the end of the tax year, if the entity has made an election under section HL 24:
-  (b) the amount of each distribution to the investor as a member of the portfolio investor class or another portfolio investor class.
+(3) An adjustment reflecting the effect of the investor's portfolio investor rate must be made to—
+  (a) the investor's portfolio investor interest in the portfolio investor class or another portfolio investor class—
+    (i) before the end of the second month after the portfolio calculation period, if the entity has made an election under section HL 22; or
+    (ii) before the end of the third month after the end of the income year, if the entity has made an election under section HL 23; or
+    (iii) before the end of the second month after the end of the tax year, if the entity has made an election under section HL 24:
+  (b) the amount of each distribution to the investor as a member of the portfolio investor class or another portfolio investor class:
+  (c) the amount of each payment required from the investor as a member of the portfolio investor class towards satisfying the entity's portfolio entity tax liability.
 Investor may be offered choice of method
 (4) A portfolio tax rate entity may offer an investor a choice of the method of adjustment.
 
 ### HL 8 Imputation credit distribution requirement: portfolio listed company
-When this section applies
-(1) This section applies to a portfolio investment entity that is a portfolio listed company.
+What this section applies to
+(1) This section applies to a portfolio investment entity that—
+  (a) is an imputation credit account company; and
+  (b) is not a portfolio investment-linked life fund.
 Imputation credit requirement
 (2) The imputation credit distribution requirement is that when the entity makes a distribution to the members of a portfolio investor class, the distribution must be fully credited for the purposes of section CD 43 (Available subscribed capital (ASC) amount) to the extent permitted by the imputation credits that the directors of the entity determine are available.
 
@@ -21532,10 +22296,14 @@ Imputation credit requirement
 Investor interest size requirement
 (1) The investor interest size requirement for a portfolio investment entity is that an investor in a portfolio investor class may not hold more than 20% of the total portfolio investor interests of investors in the class.
 No investor interest size requirement for entities similar to unit trusts and certain superannuation funds
-(2) There is no investor interest size requirement for an entity that,—
+(2) There is no investor interest size requirement for an investor in a portfolio investor class that,—
   (a) if treated as a unit trust, would meet the requirements of 1 or more of paragraphs (a) and (c) to (e) of the definition of public unit trust:
   (b) is a superannuation fund established under the proposal for the restructuring of the National Provident Fund required by the National Provident Fund Restructuring Act 1990:
-  (c) is the fund established by the Government Superannuation Fund Act 1956.
+  (c) is the fund established by the Government Superannuation Fund Act 1956:
+  (d) is a superannuation fund that—
+    (i) existed before 17 May 2006; and
+    (ii) on or after 17 May 2006, if treated as a unit trust, would have met the requirements of 1 or more of paragraphs (a) and (c) to (e) of the definition of public unit trust ; and
+    (iii) has no investor, other than the fund's manager or trustee, that can control the investment decisions relating to that class.
 Exception for certain investors
 (3) An entity with an investor holding more than 20% of the total portfolio investor interests in a class does not breach the investor interest size requirement if—
   (a) the entity is not a portfolio listed company and the investor is listed in subsection (4):
@@ -21552,18 +22320,20 @@ Investors to which exception applies
   (f) the Accident Compensation Corporation:
   (g) a Crown entity subsidiary of the Accident Compensation Corporation:
   (h) the Earthquake Commission:
-  (i) a person who meets the requirements of subsection (5).
+  (i) a person who meets the requirements of subsection (5):
+  (j) Auckland Regional Holdings.
 Exception for shares in portfolio listed company held from 17 May 2006
 (5) An investor who is not listed in subsection (4)(a) to (h) may on a date after 30 September 2007 hold portfolio investor interests in a portfolio listed company that are more than 20% and not more than 40% of the total interests of investors in a portfolio investor class if the investor holds portfolio interests that are more than 20% and not more than 40% of the total interests of investors on each day in the period beginning on 17 May 2006 and ending before the date.
 Interests of some associated investors included with interests of investor for some purposes
 (6) For the purposes of subsections (1) and (5), the portfolio investor interests of persons associated with an investor in a portfolio investor class are included with the portfolio investor interests of the investor if—
   (a) the investor is not listed in subsection (4)(a) to (h); and
   (b) the associated person is not listed in subsection (4)(a) to (h); and
-  (c) the associated person has a portfolio investor interest fraction of 5% or more.
+  (c) the investor has a portfolio investor interest fraction of 5% or more; and
+  (d) the associated person has a portfolio investor interest fraction of 5% or more.
 
 ### HL 10 Further eligibility requirements relating to investments
 Investment type requirement
-(1) The investment type requirement is that the entity must use, or have available to use, 90% or more by value of the entity’s assets in deriving income from the owning or trading of—
+(1) The investment type requirement is that 90% or more by value of the entity's assets must be—
   (a) an interest in land:
   (b) a financial arrangement:
   (c) an excepted financial arrangement:
@@ -21573,9 +22343,10 @@ Income type requirement
   (a) be derived from property referred to in subsection (1); and
   (b) consist of the following:
     (i) dividends:
+    (ib) replacement payments:
     (ii) income treated under subpart EW (Financial arrangements rules) as being derived by the entity:
-    (iii) rent from an interest in land:
-    (iv) proceeds from the disposal of property:
+    (iii) income under a lease of land:
+    (iv) proceeds from the disposal of property referred to in subsection (1)(a) to (d):
     (v) foreign investment fund (FIF) income:
     (vi) portfolio investor allocated income:
     (vii) distributions from superannuation funds.
@@ -21588,7 +22359,7 @@ Entity shareholding investment requirement
     (i) shares in a company that is not a unit trust that carry voting interests of more than 20% in the company:
     (ii) shares in a company that is a unit trust that have a market value of more than 20% of the total market value of all shares in the company.
 Investments not affected by shareholding investment requirement
-(4) The investments referred to in subsection (3) do not include shares in—
+(4) The requirements of subsection (3)(a) and (b) do not apply to an investment consisting of shares in—
   (a) a portfolio investment entity:
   (b) a foreign investment vehicle:
   (c) an entity that—
@@ -21615,6 +22386,11 @@ When election effective
   (b) the date of formation of the entity:
   (c) the date nominated in the notice:
   (d) the date 30 days before the day of receipt.
+Exception to when election effective: certain elections relating to portfolio investment-linked life funds
+(2B) Despite subsection (2), an election received by the Commissioner is effective on 1 October 2007 if—
+  (a) the election is in relation to an electing entity choosing to be a portfolio investment-linked life fund; and
+  (b) the date of receipt is before 1 April 2008; and
+  (c) 1 October 2007 is nominated in the notice.
 Notice of cancellation
 (3) An entity may choose at any time to cease being a portfolio investment entity by giving a notice in the prescribed form to the Commissioner.
 When cancellation effective
@@ -21626,7 +22402,7 @@ When cancellation effective
 ### HL 12 Unlisted company choosing to become portfolio listed company
 Election
 (1) A company that is not listed on a recognised exchange in New Zealand may choose under section HL 11 to become a portfolio investment entity that is a portfolio listed company if it—
-  (a) would meet the requirements of paragraph (a) of the definition of public unit trust if it were a unit trust; and
+  (a) has 100 shareholders; and
   (b) has resolved to become a company listed on a recognised exchange in New Zealand if it were to obtain the required consents; and
   (c) has applied to the Securities Commission for an exemption to disclose in a prospectus its intention to become a listed company; and
   (d) satisfies the Commissioner that the company would apply to become a listed company if it were to obtain the required consents.
@@ -21644,19 +22420,23 @@ Income year for entity
   (b) the next 31 March after the day on which the election is effective were a new balance date approved by the Commissioner for the entity.
 Entity treated as disposing of, and reacquiring, property
 (3) If an entity becomes a portfolio investment entity, the entity is treated for the purposes of this Act as, on the day before the day on which the election is effective,—
-  (a) transferring to another person all shares held by the entity that—
+  (a) transferring to another person all shares held by the entity, or for which the entity is a share lender in a returning share transfer, that—
     (i) satisfy section CX 55(1)(a) and (b) (Proceeds from certain disposals by portfolio investment entities or New Zealand Superannuation Fund); and
     (ii) are shares in a company that is not a portfolio investment entity and does not become a portfolio investment entity within the period of 6 months beginning from the day on which the entity becomes a portfolio investment entity; and
   (b) receiving for the shares referred to in paragraph (a) an amount of consideration equal to the market value of the shares at that time; and
   (c) acquiring the shares referred to in paragraph (a) from the other person for an amount of consideration equal to the amount referred to in paragraph (b).
+Refund of FDP made before election
+(3B) If an FDPA company becomes a portfolio investment entity on a day in a tax year other than the end of the tax year, the balance of the company's FDP account at the end of the tax year for the purposes of section RM 21(2)(c) (Refunds when loss balances used to reduce net income) is equal to the balance of the FDP account immediately before the company becomes a portfolio investment entity.
 New Zealand Superannuation Fund
 (4) The New Zealand Superannuation Fund is treated for the purposes of subsection (3) as if it made an election that would be effective on 1 October 2007.
 
 ### HL 14 Tax consequences from transition
+When subsection (1B) applies
+(1) Subsection (1B) applies when an entity chooses to become a portfolio investment entity in an income year and has an increased liability for provisional tax for the income year because of the election.
 No penalty or interest arising from transition
-(1) An entity that becomes a portfolio investment entity is not liable to pay any penalty or interest for which the entity would otherwise be liable for an inaccuracy in an estimate, or shortfall in the payment, of provisional tax to the extent that the inaccuracy or shortfall arises because of—
-  (a) the effect of the election on the length of the entity’s income year under section HL 13(2):
-  (b) the disposal and acquisition referred to in section HL 13(3).
+(1B) The entity is not liable to pay any penalty or interest for which the entity would otherwise be liable for an inaccuracy, arising from the increased liability for provisional tax, in—
+  (a) an estimate of provisional tax made before the entity chooses to become a portfolio investment entity:
+  (b) a payment of provisional tax due before the end of the 2-month period beginning after the entity becomes a portfolio investment entity.
 Payment of tax liability arising from transition
 (2) An entity that becomes a portfolio investment entity in a tax year and is liable to pay an amount of income tax (the tax amount) because of the disposal and acquisition referred to in section HL 13(3) may satisfy the liability by making payments to the Commissioner of at least—
   (a) one third of the tax amount, in the tax year in which the entity becomes a portfolio investment entity; and
@@ -21713,9 +22493,10 @@ Treatment of income from interest when entitlement conditional
   (b) under an agreement between the investor and the investor’s employer, subject to any contingencies, the investor will have an unconditional entitlement to the interest in or before the end of a period (the vesting period) beginning with the creation of the interest; and
   (c) the agreement exists before the portfolio allocation period; and
   (d) the vesting period ends after the portfolio allocation period; and
-  (e) the vesting period,—
-    (i) if the entity exists on 17 May 2006, does not exceed the longest vesting period allowed by the entity on 17 May 2006 for an interest created on 17 May 2006; or
-    (ii) if the entity does not exist on 17 May 2006, does not exceed 5 years.
+  (e) for an entity that exists on 17 May 2006, the vesting period does not exceed the longest vesting period allowed by the entity on 17 May 2006 for an interest created on that date; and
+  (f) for an entity that does not exist on 17 May 2006,—
+    (i) the portfolio investor interest is transferred to the entity by a superannuation scheme that exists on 17 May 2006 and without significant change to the portfolio investor interest; or
+    (ii) the vesting period does not exceed 5 years, if subparagraph (i) does not apply.
 
 ### HL 18 Certain new investors treated as part of existing portfolio investor class
 A person who becomes an investor in a portfolio tax rate entity may be treated by the entity as a member of an existing portfolio investor class, of which the investor would not be a member in the absence of this section, if—
@@ -21735,7 +22516,7 @@ Portfolio class net loss for portfolio allocation period
   (a) the amount by which zero exceeds the amount calculated for the period under subsection (3), if the calculated amount is less than zero; or
   (b) zero, if paragraph (a) does not apply.
 Calculation of amount for portfolio allocation period
-(3) The amount calculated under this subsection for the portfolio allocation period is the amount calculated using the formula—class assessable income &#8722; class deductions.
+(3) The amount calculated under this subsection for the portfolio allocation period is the amount calculated using the formula—class assessable income − class deductions.
 Definition of items in formula
 (4) In the formula,—
   (a) class assessable income is the total amount of the entity’s assessable income allocated by the entity to—
@@ -21756,7 +22537,7 @@ Portfolio class taxable loss for portfolio allocation period
   (a) the amount by which zero exceeds the amount calculated for the period under subsection (3), if the calculated amount is less than zero; or
   (b) zero, if paragraph (a) does not apply.
 Calculation of amount for portfolio allocation period
-(3) The amount calculated under this subsection for the portfolio investor class and the portfolio allocation period is calculated using the formula—class net income &#8722; class net loss × other loss used.
+(3) The amount calculated under this subsection for the portfolio investor class and the portfolio allocation period is calculated using the formula—class net income − class net loss × other loss used.
 Definition of items in formulas
 (4) The items in the formula are defined in subsections (5) to (7).
 Class net income
@@ -21784,7 +22565,7 @@ Calculation of amount for calculation period
   (a) each day of a portfolio allocation period in the calculation period; and
   (b) each portfolio allocation period in the calculation period.
 Formula
-(4) The formula is—
+(4) The formula is—investor fraction × (income – loss) × rate– (expenses – credits) × rate.days in allocation period
 Definition of items in formula
 (5) The items in the formula are defined in subsections (6) to (12).
 Investor fraction
@@ -21799,8 +22580,10 @@ Rate
   (b) 30%, if the entity is treated as the sole investor under section HL 17.
 Days in allocation period
 (10) Days in allocation period is the number of days in the portfolio allocation period.
-Fees
-(11) Fees is the amount of fees for ongoing management and administration services paid from or charged to the account of the investor as a member of the portfolio investor class on the day in the portfolio allocation period.
+Expenses
+(11) Expenses is the total amount for the day in the portfolio allocation period of—
+  (a) fees for ongoing management and administration services paid from or charged to the account of the investor as a member of the portfolio investor class:
+  (b) expenditure of the investor transferred under subpart DV (Expenditure specific to certain entities) to the entity.
 Credits
 (12) Credits is the amount of credits for fees paid or credited by the entity to the account of the investor as a member of the portfolio investor class on the day in the portfolio allocation period.
 
@@ -21811,9 +22594,11 @@ When this section applies
 (1) This section applies to a portfolio tax rate entity for a tax year if the entity does not make an election under section HL 23 or HL 24 for the tax year.
 Portfolio calculation period
 (2) The portfolio calculation period of the entity for the tax year must be a quarter.
+Income tax liability
+(2B) The income tax liability of the entity for a tax year is equal to the total portfolio entity tax liability of the entity for the portfolio calculation periods in the tax year.
 Amount of payments
 (3) After each portfolio calculation period for the tax year, the entity must make a payment to the Commissioner—
-  (a) of an amount of income tax equal to the part of the portfolio entity tax liability of the entity for the portfolio calculation period that does not relate to a payment by the entity under section HL 25; and
+  (a) of an amount of income tax for the tax year equal to the part of the portfolio entity tax liability of the entity for the portfolio calculation period that does not relate to a payment by the entity under section HL 25; and
   (b) within the period of 1 month beginning from the end of the portfolio calculation period.
 Entity not required to pay provisional tax
 (4) The entity is not required to pay provisional tax under subpart RC (Provisional tax) for the tax year.
@@ -21837,12 +22622,16 @@ When this section applies
 (1) This section applies to a portfolio tax rate entity for a tax year if—
   (a) the portfolio allocation period and the portfolio calculation period of the entity for the tax year are 1 day; and
   (b) the entity chooses to be subject to this section for the tax year.
+Income tax liability
+(1B) The income tax liability of the entity for a tax year is equal to the total portfolio entity tax liability of the entity for the portfolio calculation periods in the tax year.
 Amount of payment for withdrawing investor
 (2) After each portfolio investor exit period for an investor in a portfolio investor class, the entity must make a payment to the Commissioner—
-  (a) of an amount of income tax equal to the portfolio entity tax liability of the entity for—
+  (a) of an amount of income tax for the tax year equal to the portfolio entity tax liability of the entity for—
     (i) the portfolio investor exit period; and
     (ii) the investor as a member of the portfolio investor class; and
-  (b) within the period of 1 month beginning from the end of the month in which the portfolio investor exit period ends.
+  (b) by the day that is—
+    (i) the end of the month beginning from the end of the month in which the portfolio investor exit period ends, if subparagraph (ii) does not apply; or
+    (ii) the 15 January following the end of the portfolio investor exit period, if the portfolio investor exit period ends in November.
 Amount of payment for investors remaining at end of tax year
 (3) After each tax year, the entity must make a payment to the Commissioner—
   (a) of an amount of income tax equal to the entity’s portfolio entity tax liability for the tax year for the investors in the entity at the end of the tax year, allowing for any payment made under subsection (2) or section HL 25 by the entity for any of the investors; and
@@ -21856,13 +22645,13 @@ Notice of election
 
 ### HL 25 Optional payments of tax by portfolio tax rate entities
 When this section applies
-(1) This section applies when a portfolio tax rate entity pays an amount of tax under section HL 22 or HL 24 and an investor reduces their portfolio investor interest in the entity.
+(1) This section applies when a portfolio tax rate entity pays an amount of tax under section HL 22 or HL 24 and an investor reduces the portfolio investor interest for which the investor is a member of a portfolio investor class of the entity.
 Optional payment
 (2) The entity may pay an amount of income tax to the Commissioner that represents an amount of its portfolio entity tax liability for the investor and the investor’s portfolio investor interest for the tax year.
-Timing of payment
-(3) A payment under this section must be made by the end of the month after—
-  (a) the portfolio calculation period in which the reduction of the investor’s portfolio investor interest occurs, if the entity pays tax under section HL 22; or
-  (b) the month in which the reduction of the investor’s portfolio investor interest occurs, if the entity pays tax under section HL 24.
+Time of optional payment
+(3) A payment under this section must be made by—
+  (a) the end of the month beginning from the end of the month in which the portfolio calculation period ends, if paragraph (b) does not apply; or
+  (b) the 15 January following the end of the portfolio calculation period, if the portfolio calculation period ends in November.
 
 **Results for investors**
 
@@ -21883,14 +22672,16 @@ Amount
   (b) each day of the portfolio allocation period; and
   (c) each portfolio investor class to which the investor belongs on the day.
 Formula
-(5) The formula is—
+(5) The formula is—investor fraction × (income – loss)– (expenses – credits).days in allocation period
 Definition of items in formula
 (6) In the formula,—
   (a) investor fraction is the portfolio investor interest fraction of the investor as part of the portfolio investor class on the day:
   (b) income is the amount under section HL 20 of the portfolio class taxable income for the portfolio allocation period:
   (c) loss is the amount under section HL 20 of the portfolio class taxable loss for the portfolio investor class for the portfolio allocation period:
   (d) days in period is the number of days in the portfolio allocation period:
-  (e) fees is the amount of fees for ongoing management and administration services paid from or charged to the account of the investor as a member of the portfolio investor class on the day in the portfolio allocation period:
+  (e) expenses is the total amount for the day in the portfolio allocation period of—
+    (i) fees for ongoing management and administration services paid from or charged to the account of the investor as a member of the portfolio investor class:
+    (ii) expenditure of the investor incurred in the investor's income year ending with the day and transferred under subpart DV (Expenditure specific to certain entities) to the entity:
   (f) credits is the amount of credits for fees paid or credited by the entity to the account of the investor as a member of the portfolio investor class on the day in the portfolio allocation period.
 
 ### HL 27 Treatment of portfolio investor allocated loss for zero-rated portfolio investors and investors with portfolio investor exit period
@@ -21899,7 +22690,7 @@ When this section applies
   (a) the investor is a zero-rated portfolio investor and the period is a tax year:
   (b) the entity makes payments of income tax under section HL 22 and the period is a portfolio investor exit period for the investor.
 Deduction for excess of portfolio investor allocated loss
-(2) The investor is allowed a deduction under section DB 53(1) (Portfolio investment entities: zero-rated portfolio investors and allocated losses) in the income year corresponding to the tax year of an amount equal to the total amount of portfolio investor allocated loss under section HL 26 for the period.
+(2) The investor is allowed a deduction under section DB 53(1) (Portfolio investment entities: zero-rated portfolio investors and allocated losses) in the income year including the end of the portfolio tax rate entity's income year of an amount equal to the total amount of portfolio investor allocated loss under section HL 26 for the period.
 
 **Tax credits for entity**
 
@@ -21930,33 +22721,39 @@ Definition of items in formula
   (b) class fraction is the portfolio class fraction, of the investor’s portfolio investor class, in relation to the portfolio entity investment:
   (c) investor fraction is the portfolio investor interest fraction of the investor:
   (d) days in period is the number of days in the portfolio allocation period.
-Application of subsections (7) to (13)
-(6) For an investor in a portfolio tax rate entity who is allocated under subsection (3) a credit for a portfolio allocation period in a portfolio calculation period,—
-  (a) subsections (7) and (8) apply—
-    (i) to the income year in which the tax year ends, if the investor is a zero-rated portfolio investor; or
-    (ii) to the income year corresponding to the tax year, if the entity pays tax under section HL 22 and the portfolio allocation period includes part of a portfolio investor exit period for the investor:
-  (b) subsection (9) applies to credits that are allocated to a portfolio allocation period in a portfolio investor exit period and are not treated as a credit against tax payable by the entity, if the entity makes payments of tax under section HL 24 and the investor is not a zero-rated portfolio investor:
-  (c) subsections (10) and (13) apply if subsections (7) and (9) do not apply.
-Zero-rated portfolio investor or investor with portfolio investor exit period for interest in entity that makes payments under section HL 22
-(7) The investor is treated as receiving for the tax year corresponding to the income year for the allocated credits,—
-  (a) if the investor is not a portfolio tax rate entity and the credits are under subpart LJ (Tax credits for foreign income tax), a credit against income tax payable by the investor of the amount set out in subsection (8):
-  (b) if the investor is a portfolio tax rate entity or the credits are not under subpart LJ, the allocated amount of each type of credit.
-Amount of credit for foreign tax: certain zero-rated portfolio investors and withdrawing investors
+Application of subsections (7) to (11)
+(6) For an investor in a portfolio tax rate entity who is allocated under subsection (3) credits for a portfolio calculation period in an income year of the entity,—
+  (a) subsections (7) and (8) apply to the credits, and the credits are allocated to the income year in which the entity's income year ends, if—
+    (i) the investor is a zero-rated portfolio investor:
+    (ii) the investor is not a zero-rated portfolio investor and the entity makes payments of tax under section HL 21 and the portfolio calculation period includes part of a portfolio investor exit period:
+  (b) subsections (10) and (11) apply to the credits if paragraph—
+  (a) does not apply.
+Zero-rated portfolio investors and certain investors having portfolio investor exit period: credit
+(7) The investor is treated as receiving for the allocated credits, for the tax year corresponding to the investor's income year,—
+  (a) a credit against income tax payable by the investor of the amount given by subsection (8) if—
+    (i) the credits are under subpart LJ (Tax credits for foreign income tax); and
+    (ii) the investor is not a portfolio tax rate entity or portfolio investor proxy; or
+  (b) the allocated amount of each type of credit if—
+    (i) the credits are not under subpart LJ:
+    (ii) the investor is a portfolio tax rate entity or portfolio investor proxy.
+Amount of credit for foreign tax: zero-rated portfolio investors, other than portfolio tax rate entities and portfolio investor proxies, and investors having portfolio investor exit period
 (8) An investor to whom subsection (7)(a) applies is treated as receiving for the tax year, for credits under subpart LJ, a credit that is the lesser of—
   (a) the amount of the allocated credits:
   (b) the amount calculated by multiplying the amount of portfolio investor allocated income for the investor for the tax year by,—
     (i) for an investor other than a zero-rated portfolio investor, the investor’s portfolio investor rate for the portfolio allocation period ending before the investor’s portfolio investor exit period; or
-    (ii) for a zero-rate portfolio investor, the basic rate of tax for the investor for the tax year under schedule 1 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits).
+    (ii) for a zero-rate portfolio investor, the basic rate of tax for the investor for the tax year under schedule 1 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
 Investor with portfolio investor exit period for interest in entity that makes payments under section HL 24
-(9) The investor is treated as receiving for the tax year of the portfolio calculation period, for credits other than under subpart LJ, the unused allocated amount of each type of credit.
+(9)
 Other investors: credit for entity for foreign tax credits
 (10) The entity is treated as receiving for the tax year of the portfolio calculation period, for credits under subpart LJ allocated to a portfolio investor class and an investor other than a zero-rated portfolio investor as a member of the portfolio investor class, a credit of an amount set out in subsection (12) against income tax payable by the entity as described in subsection (11).
 Use of credit
 (11) The credit is against income tax payable by the entity for—
   (a) the portfolio calculation period and portfolio calculation periods—
     (i) late in the tax year, if the entity pays tax under section HL 22; or
-    (ii) earlier or later in the tax year, if the entity pays tax under section HL 23 or HL 24; and
-  (b) the investor as a member of the portfolio investor class or another portfolio investor class.
+    (ii) earlier or later in the tax year, if the entity pays tax under section HL 24; and
+  (b) the investor as a member of—
+    (i) the portfolio investor class:
+    (ii) another portfolio investor class, if the entity chooses such a use for the credit.
 Amount of credit
 (12) The amount of the credit is the lesser of the following:
   (a) the total of—
@@ -21970,7 +22767,7 @@ Other investor: credit for entity for other credits
 (13) The amount of the credits not under subpart LJ allocated to the investor under subsection (3) is treated as—
   (a) a credit against tax payable by the entity of the amount that is the lesser of the following:
     (i) the amount of the credits:
-    (ii) the amount referred to in subsection (11)(b), reduced by the amount of the credit given by subsection (11):
+    (ii) the amount referred to in subsection (12)(b):, reduced by the amount of the credit given by subsection (12):
   (b) a tax credit under section LS 1 (Tax credits for portfolio tax rate entities relating to certain investors), for the entity and the portfolio calculation period, of the amount of the credits that is not used under paragraph (a).
 
 **Treatment of losses for entity**
@@ -22017,7 +22814,7 @@ Portfolio class taxable loss for tax year
   (a) the amount by which zero exceeds the amount calculated for the tax year under subsection (3), if the calculated amount is less than zero; or
   (b) zero, if paragraph (a) does not apply.
 Calculation of amount for tax year
-(3) The amount calculated under this subsection for the portfolio investor class and the tax year is the total of the amounts calculated for each portfolio allocation period in the tax year using the formula—class tax income &#8722; class tax loss.
+(3) The amount calculated under this subsection for the portfolio investor class and the tax year is the total of the amounts calculated for each portfolio allocation period in the tax year using the formula—class tax income − class tax loss.
 Definition of items in formula
 (4) The items in the formula are defined in subsections (5) and (6).
 Class tax income
@@ -22070,18 +22867,7 @@ Responsibilities of portfolio investor proxy
 **Partnerships and joint ventures**
 
 ### HR 1 Partnerships and joint ventures
-Partnership joint return
-(1) The partners in a partnership are treated, in their capacity as partners, as if the partnership were a separate person. The partners must—
-  (a) calculate the net income of the partnership for a tax year; and
-  (b) for that tax year, provide a joint return of income for the partnership under section 42(1)(b) of the Tax Administration Act 1994, in addition to the partners’ individual returns of income.
-Partner’s separate income tax obligations
-(2) Despite subsection (1), each partner in a partnership has a separate obligation under section BB 2 (Main obligations) for calculating and satisfying their income tax liability, including an obligation in relation to their share of income derived by the partnership.
-Joint income
-(3) A person (person A), other than a partner or co-trustee, who derives income or has a deduction jointly with another person must—
-  (a) calculate the net income of person A for a tax year, taking into account their share of the joint income or deduction; and
-  (b) for that tax year, provide a separate return of income under section 42(1)(c) of the Tax Administration Act 1994.
-Airport operators excluded
-(4) Subsection (3) does not apply to an amount derived or incurred by an airport operator in relation to activities carried on as an airport operator.
+[Repealed]
 
 **Funds**
 
@@ -22255,6 +23041,30 @@ Trustee income derived in earlier tax years
 Trustee’s obligations
 (3) The trustee’s obligations in relation to their income tax liability on the trustee income are treated as having been satisfied.
 
+### HZ 3 Special partnerships: transition into limited partnerships and limited partnerships deduction rules
+When this section applies
+(1) This section applies when a special partnership under Part 2 of the Partnership Act 1908—
+  (a) is in existence on 1 April 2008; and
+  (b) is terminated and a limited partnership registered under the Limited Partnerships Act 2008 (the new limited partnership) succeeds to that special partnership.
+No disposal: same partnership
+(2) No partners’ interests are disposed of merely because of the termination and succession described in subsection (1)(b). The partners of the special partnership are treated as the same partners of the new limited partnership.
+Initial basis
+(3) For the purposes of applying sections HG 11 and HG 12 (which relate to limited partnerships deduction rules) to the partners of the new limited partnership, all of the partners must choose one of the 2 following methods for calculating their partner’s basis under section HG 11(3):
+  (a) they may choose to use the market value or the accounting book value of the amounts described in section HG 11(3), as at the day the calculation is first performed, namely the last day of the first income year in which they are subject to sections HG 11 and HG 12; or
+  (b) they may choose to apply section HG 11(3) as if the special partnership had always been a limited partnership and all relevant rules relating to limited partnerships had always existed (applying those rules with any necessary modifications).
+Initial basis not less than zero
+(4) If the application of sections HG 11 and HG 12, as modified by this section, calculates a partner’s basis as less than zero, then the partner’s basis is treated as being zero.
+
+### HZ 4 Overseas limited partnerships: transition into limited partnerships deduction rules
+When this section applies
+(1) This section applies when a limited partnership described in paragraphs (a) and (b) of the definition of limited partnership (the overseas limited partnership) existed before 1 April 2008, and a partner of that partnership (a relevant partner) is a member of the partnership on 1 April 2008 and is subject to sections HG 11 and HG 12 (which relate to limited partnerships deduction rules) on or after 1 April 2008.
+Initial basis
+(2) For the purposes of applying sections HG 11 and HG 12 to the relevant partners of the overseas limited partnership, all relevant partners must choose one of the 2 following methods for calculating their partner’s basis under section HG 11:
+  (a) they may choose to use the market value or the accounting book value of the amounts described in section HG 11, as at the day the calculation is first performed, namely the last day of the first income year in which they are subject to sections HG 11 and HG 12; or
+  (b) they may choose to apply section HG 11 as if the overseas limited partnership had always been a limited partnership and all relevant rules relating to limited partnerships had always existed (applying those rules with any necessary modifications).
+Initial basis not less than zero
+(3) If the application of sections HG 11 and HG 12, as modified by this section, calculates a partner’s basis as less than zero, then the partner’s basis is treated as being zero.
+
 ## Part I — Treatment of tax losses
 
 ### Subpart IA — General rules for tax losses
@@ -22425,6 +23235,10 @@ Meaning
   (b) if a market value circumstance exists for a company that is part of a group of companies, common market value interests that add up to at least 66%.
 Part of group at time or for period
 (2) A company is treated as part of a group of companies at a particular time or for a particular period if the minimum common interests referred to in subsection (1) exist at the relevant time or are kept for the whole of the relevant period. But it is not necessary that the group of persons holding the interests stays the same for the whole of the relevant period.
+When portfolio tax rate entities included in group
+(2B) In relation to 2 or more companies of which 1 is a portfolio tax rate entity, the companies are treated as a group of companies at a particular time or for a particular period if—
+  (a) the portfolio tax rate entity owns 100% of the voting interests in the other companies; and
+  (b) the other companies in the group are portfolio land companies.
 Measuring common voting interests
 (3) In subsection (1)(a), if the percentage interests are the same for each company, a person’s common voting interest in the relevant companies at a particular time is the percentage of their voting interests under section YC 2 (Voting interests) in each of the companies at that time. If the percentage interests in the companies differ, the percentage that counts is the lowest percentage voting interest in each of the companies for the period.
 Measuring common market value interests
@@ -22595,7 +23409,7 @@ Financial statements
   (a) relate to the part of the tax year when the company was part of the consolidated group; and
   (b) disclose the amount that would be the net income attributable to the part of the tax year when the company was part of the consolidated group, determined on a fair and reasonable basis of attribution.
 Formula
-(4) The amount that may be made available under section ID 2(2) and referred to in subsection (2) is calculated using the formula—unused amount &#8722; (part-year net income + part-year net loss).
+(4) The amount that may be made available under section ID 2(2) and referred to in subsection (2) is calculated using the formula—unused amount − (part-year net income + part-year net loss).
 Definition of items in formula
 (5) In the formula,—
   (a) unused amount is the loss balance carried forward from an earlier tax year or years that would be subtracted from the consolidated group’s net income for the tax year in the absence of ID 3 or this section:
@@ -23167,7 +23981,9 @@ What this section applies to
   (a) section LB 1 (Tax credits for PAYE income payments):
   (b) section LB 2 (Tax credits for provisional tax payments):
   (c) section LB 3 (Tax credits for resident withholding tax):
+  (cb) section LB 6 (Tax credits for RSCT):
   (d) subpart LF (Tax credits for foreign dividend payment (FDP) credits):
+  (db) subpart LH (Tax credits for expenditure on research and development), although modified by section LH 2(6) (Tax credits relating to expenditure on research and development):
   (e) subpart LO (Tax credits for Maori authority credits).
 Use of credits
 (2) The Commissioner must—
@@ -23179,9 +23995,9 @@ Use of credits
 Time bar
 (3) The Commissioner may amend an assessment or a determination to give effect to this section despite the time bar.
 
-### LA 7 Remaining refundable credits: family scheme income
+### LA 7 Remaining refundable credits: tax credits for families
 What this section applies to
-(1) This section applies to a person’s tax credit remaining for a tax year under section LA 5(5), if it is a tax credit under section LB 4 (Tax credits for family scheme income).
+(1) This section applies to a person’s tax credit remaining for a tax year under section LA 5(5), if it is a tax credit under section LB 4 (Tax credits for families).
 Use of credits
 (2) The Commissioner must treat the person’s tax credit as transferable under Part 10B of the Tax Administration Act 1994 or refundable under sections RB 4, RM 2 to RM 8, and RM 10 (which relate to refunds and their use), as applicable.
 
@@ -23194,12 +24010,12 @@ Use of credits
   (b) second, refund the tax credit under sections RB 4, RM 2 to RM 8, and RM 10 (which relate to refunds and their use), as applicable.
 
 ### LA 9 Use of tax credits
-An amount of a tax credit is used once, so far as it extends.
+An amount of a tax credit is used once, so far as it extends. Section OZ 11 (Tax credits for imputation credits and FDP credits) may apply to modify this section.
 
 ### LA 10 Meaning of tax credit
 An amount is a tax credit of a person if it is their tax credit under a provision in this Part.
 
-### Subpart LB — Tax credits for payments, deductions, and family income assistance
+### Subpart LB — Tax credits for payments, deductions, and family payments
 
 ### LB 1 Tax credits for PAYE income payments
 Amount of credit
@@ -23222,23 +24038,24 @@ Exclusion
 Portfolio tax rate entities and investors in entities
 (3) For a portfolio tax rate entity and an investor in a portfolio tax rate entity, the amount of a tax credit is limited to the extent allowed under subpart HL (Portfolio investment entities).
 
-### LB 4 Tax credits for family scheme income
-A person has a tax credit for a tax year equal to the total amount of their family assistance credit under subpart MD (Family assistance credit) and their family tax credit under subpart ME (Family tax credit) for the tax year.
+### LB 4 Tax credits for families
+A person has a tax credit for a tax year equal to the total amount of their tax credit under subpart MD (Abating WFF tax credits) and their minimum family tax credit under subpart ME (Minimum family tax credit) for the tax year.
 
 ### LB 5 Tax credits for non-resident withholding tax
 A person has a tax credit for a tax year equal to the amount of tax withheld and paid in relation to their non-resident passive income for the tax year.
 
-### LB 6 Tax credits for caregivers
+### LB 6 Tax credits for RSCT
 When this section applies
-(1) This section applies when a person—
-  (a) receives a schedular payment that is an accident compensation payment for attendant care from which an amount of tax has been withheld and paid under section RD 4 (Payment of amounts of tax to Commissioner); and
-  (b) pays an amount to a caregiver for providing attendant care to the person for a period.
-Tax credit
-(2) The caregiver has a tax credit for the tax year corresponding to their income year in which the payment is received equal to the lesser of—
-  (a) the amount of tax for the schedular payment under subsection (1)(a):
-  (b) the amount paid under subsection (1)(b).
-Accident compensation payment for attendant care
-(3) For the purposes of this section, accident compensation payment for attendant care means a payment under section 81(1)(b) of the Injury Prevention, Rehabilitation, and Compensation Act 2001 paid by the Corporation, as defined in that Act, for attendant care as defined in schedule 1, clause 12 of that Act.
+(1) This section applies when—
+  (a) a person derives income as a retirement scheme contribution in an income year; and
+  (b) the retirement scheme contributor pays RSCT for the contribution; and
+  (c) the income is not excluded income of the person under section CX 50B (Contributions to retirement savings schemes).
+Tax credit: New Zealand resident
+(2) If the person is resident in New Zealand, they have a tax credit for the tax year corresponding to the income year of an amount equal to the RSCT withheld.
+Tax credit: non-resident
+(3) If the person is not resident in New Zealand, they have a tax credit for the tax year corresponding to the income year of an amount equal to the excess of RSCT withheld over NRWT paid in relation to the contribution.
+When contribution is taxable Maori authority distribution
+(4) If the person is not resident in New Zealand and the retirement scheme contribution is a taxable Maori authority distribution, they have a tax credit for the tax year corresponding to the income year of an amount equal to the RSCT withheld.
 
 ### Subpart LC — Tax credits for natural persons
 
@@ -23246,11 +24063,11 @@ Accident compensation payment for attendant care
 
 ### LC 1 When net income under low income amount
 When this section applies
-(1) This section applies to a natural person who is not an absentee and whose net income for a tax year is equal to or less than the low income amount set out in schedule 1, part B (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits).
+(1) This section applies to a natural person who is not an absentee and whose net income for a tax year is equal to or less than the low income amount set out in schedule 1, part B (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
 New Zealand superannuation and veteran’s pensions
 (2) A New Zealand superannuitant or a person receiving a veteran’s pension has a tax credit equal to an amount calculated using the formula—person’s net income × 0.045.
 Other persons
-(3) A person who is not a New Zealand superannuitant or a person receiving a veteran’s pension has a tax credit equal to an amount calculated using the formula—(person’s net income &#8722; (total assessable income &#8722; total deductions)) × 0.045.
+(3) A person who is not a New Zealand superannuitant or a person receiving a veteran’s pension has a tax credit equal to an amount calculated using the formula—(person’s net income − (total assessable income − total deductions)) × 0.045.
 Definition of items in formulas
 (4) In the formulas in subsections (2) and (3),—
   (a) person’s net income is the person’s net income for the tax year in complete dollars:
@@ -23261,11 +24078,11 @@ Definition of items in formulas
 
 ### LC 2 When net income in low income abatement range
 When this section applies
-(1) This section applies to a natural person who is not an absentee and whose net income for a tax year is in the low income abatement range set out in schedule 1, part B (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits).
+(1) This section applies to a natural person who is not an absentee and whose net income for a tax year is in the low income abatement range set out in schedule 1, part B (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
 New Zealand superannuation and veteran’s pensions
-(2) A New Zealand superannuitant or a person receiving a veteran’s pension has a tax credit equal to an amount calculated using the formula—$427.50 &#8722; ((person’s net income &#8722; $9,500) × 0.015).
+(2) A New Zealand superannuitant or a person receiving a veteran’s pension has a tax credit equal to an amount calculated using the formula—$427.50 − ((person’s net income − $9,500) × 0.015).
 Other persons
-(3) A person who is not a New Zealand superannuitant or a person receiving a veteran’s pension has a tax credit equal to an amount calculated using the formula—regulated amount &#8722; ((person’s net income &#8722; $9,500) × 0.015).
+(3) A person who is not a New Zealand superannuitant or a person receiving a veteran’s pension has a tax credit equal to an amount calculated using the formula—regulated amount − ((person’s net income − $9,500) × 0.015).
 Definition of items in formulas in subsections (2) and (3)
 (4) In the formulas in subsections (2) and (3),—
   (a) person’s net income is the person’s net income for the tax year in complete dollars:
@@ -23273,7 +24090,7 @@ Definition of items in formulas in subsections (2) and (3)
     (i) $427.50; and
     (ii) an amount calculated using the formula in subsection (5) in complete dollars.
 Formula
-(5) The formula referred to in subsection (4)(a)(ii) is—(person’s net income &#8722; (total assessable income &#8722; total deductions)) × 0.045.
+(5) The formula referred to in subsection (4)(a)(ii) is—(person’s net income − (total assessable income − total deductions)) × 0.045.
 Definition of items in formula
 (6) In the formula in subsection (5),—
   (a) person’s net income is the person’s net income for the tax year in complete dollars:
@@ -23327,7 +24144,7 @@ Definition of items in formula
     (ii) an amount calculated using the formula in subsection (4), if the net income of the person for the tax year is $6,241 or more:
   (b) weekly periods is the number of periods of 1 week for which the person is engaged in full-time work.
 Formula
-(4) The formula referred to in subsection (3)(a)(ii) is—$728 &#8722; ((person’s net income &#8722; $6,240) × 0.020).
+(4) The formula referred to in subsection (3)(a)(ii) is—$728 − ((person’s net income − $6,240) × 0.020).
 Definition of item in formula
 (5) In the formula in subsection (4), person’s net income means the person’s net income for the tax year in complete dollars.
 
@@ -23374,7 +24191,7 @@ Formula
 Definition of item in formula
 (3) In the formula, housekeeping payments is the amount of housekeeping payments that the person makes during the tax year in complete dollars.
 Refundable credits
-(4) A credit under this section is a refundable tax credit under section LA 7 (Remaining refundable credits: family scheme income) and excluded from the application of sections LA 2 to LA 6 (which relate to a person’s income tax liability).
+(4) A credit under this section is a refundable tax credit under section LA 7 (Remaining refundable credits: tax credits for families) and excluded from the application of sections LA 2 to LA 6 (which relate to a person’s income tax liability).
 
 ### LC 7 Meaning of housekeeper
 Definition
@@ -23473,11 +24290,9 @@ Fairness of determination
 
 ### LD 1 Tax credits for charitable or other public benefit gifts
 Amount of credit
-(1) A person who makes a charitable or other public benefit gift in a tax year and who meets the requirements of section 41A of the Tax Administration Act 1994 has a tax credit for the tax year equal to the lesser of—
-  (a) $630; and
-  (b) an amount calculated using the formula in subsection (2).
+(1) A person who makes a charitable or other public benefit gift in a tax year and who meets the requirements of section 41A of the Tax Administration Act 1994 has a tax credit for the tax year equal to the amount calculated using the formula in subsection (2).
 Formula
-(2) The formula referred to in subsection (1)(b) is—total gifts × 33&#8531;%.
+(2) The formula referred to in subsection (1) is—total gifts × 3313%.
 Definition of item in formula
 (3) In the formula, total gifts means the total amount of all charitable or other public benefit gifts made by the person in the tax year.
 Administrative requirements
@@ -23485,7 +24300,7 @@ Administrative requirements
   (a) the tax agent sees the receipt for the person’s charitable or other public benefit gift; and
   (b) the person retains the receipt for 4 tax years after the tax year to which the claim relates.
 Refundable credits
-(5) A credit under this section is a refundable tax credit under section LA 7 (Remaining refundable credits: family scheme income) and is excluded from the application of sections LA 2 to LA 6 (which relate to a person’s income tax liability).
+(5) A credit under this section is a refundable tax credit under section LA 7 (Remaining refundable credits: tax credits for families) and is excluded from the application of sections LA 2 to LA 6 (which relate to a person’s income tax liability).
 
 ### LD 2 Exclusions
 This subpart does not apply to any of the following persons:
@@ -23520,6 +24335,8 @@ When amount altered
 (3) The amount of the person’s credit in subsection (1) may be reduced or increased if any of sections LE 4 to LE 10 apply.
 Portfolio tax rate entities and investors in entities
 (4) For a portfolio tax rate entity and an investor in a portfolio tax rate entity, the amount of a tax credit is limited to the extent allowed under subpart HL (Portfolio investment entities).
+FIF income
+(4B) For the purposes of this section, an amount that would, in the absence of section EX 59 (Codes: comparative value method, deemed rate of return method, fair dividend rate method, and cost method), be income of a person from an attributing interest in a FIF is treated as if it were assessable income of the person.
 Arrangements for tax advantage
 (5) A person’s credit under this section is extinguished if any of the following sections apply:
   (a) section GB 36 (Reconstruction of imputation arrangements to obtain tax advantage):
@@ -23539,7 +24356,7 @@ Calculating amount of tax loss component
 Definition of items in formula
 (4) In the formula,—
   (a) person’s remaining credit is the amount of the tax credit remaining for the tax year under section LA 5(4):
-  (b) tax rate is the basic rate of income tax set out in schedule 1, part A (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits).
+  (b) tax rate is the basic rate of income tax set out in schedule 1, part A (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
 
 ### LE 3 Use of remaining credits by others
 When this section applies
@@ -23589,9 +24406,19 @@ When this section applies
 Amount of reduction
 (2) The person’s credit is limited to the amount shown in the credit transfer notice.
 
+### LE 7B Credit of RSCT for imputation credit
+Retirement scheme contributions
+(1) A retirement scheme contributor who attaches an imputation credit to a retirement scheme contribution for a person in an income year has a tax credit for the corresponding tax year of an amount equal to the lesser of—
+  (a) the amount of the imputation credit:
+  (b) the liability of the contributor for RSCT on the contribution.
+When credit more than liability
+(2) If the amount of the imputation credit is more than the liability of the contributor for RSCT on the contribution,—
+  (a) the amount of the excess is treated as an imputation credit attached to a distribution from the contributor to the person; and
+  (b) the person responsible for withholding the RSCT must, within 30 days of the contribution, notify the person of the amount of the excess credit.
+
 ### LE 8 Application of imputation ratio
 When this section applies
-(1) This section applies when a person who has a tax credit under section LE 1 receives an imputation credit attached to a dividend, and the dividend has an imputation ratio greater than the maximum permitted ratio calculated under section OA 18 (Calculation of maximum permitted ratios).
+(1) This section applies when a person who has a tax credit under section LE 1 receives an imputation credit attached to a dividend, and the dividend has an imputation ratio greater than the maximum permitted ratio calculated under section OA 18 (Calculation of maximum permitted ratios). Section OZ 10 (Modifying ratios for imputation credits and FDP credits) may apply to modify this section.
 Amount of reduction
 (2) The person’s credit is reduced by an amount equal to the amount by which the credit is greater than the maximum permitted ratio.
 
@@ -23602,7 +24429,9 @@ When this section applies
   (b) an excess credit amount arises in relation to the dividend; and
   (c) the FDP credit is equal to or less than the excess credit amount.
 Amount of reduction
-(2) The person’s credit for the dividend is reduced by an amount calculated using the formula—excess credit amount for dividend &#8722; attached FDP credit.
+(2) The person’s credit for the dividend is reduced by an amount calculated using the formula—excess credit amount for dividend − attached FDP credit.
+Relationship with section OZ 10
+(3) Section OZ 10 (Modifying ratios for imputation credits and FDP credits) may apply to modify this section.
 
 ### LE 10 When income tax unpaid
 When this section applies
@@ -23622,7 +24451,7 @@ If a person who has a tax credit under section LE 1 does not meet the evidential
 
 ### LF 1 Tax credits for FDP credits
 Amount of credit
-(1) A person whose assessable income for an income year includes a foreign dividend payment (FDP) credit has a tax credit equal to the amount of the FDP credit for the tax year corresponding to the income year.
+(1) A person whose assessable income for an income year includes a foreign dividend payment (FDP) credit has a tax credit equal to the amount of the FDP credit for the tax year corresponding to the income year. Section OZ 11 (Tax credits for imputation credits and FDP credits) may apply to modify this section.
 Exclusion
 (2) For a returning share transfer, a share user does not have a tax credit for an imputation credit attached to a dividend derived in a period in which they hold a share acquired under the transfer. However, a person providing a share under a returning share transfer is allowed a tax credit for the amount of an imputation credit recorded in the credit transfer notice, seesection LF 5.
 When amount adjusted
@@ -23678,7 +24507,7 @@ Amount of reduction
 
 ### LF 6 Application of FDP ratio
 When this section applies
-(1) This section applies when a person who has a tax credit under section LF 1 receives an FDP credit attached to a dividend, and the dividend has an FDP ratio greater than the maximum permitted ratio calculated under section OA 18 (Calculation of maximum permitted ratios).
+(1) This section applies when a person who has a tax credit under section LF 1 receives an FDP credit attached to a dividend, and the dividend has an FDP ratio greater than the maximum permitted ratio calculated under section OA 18 (Calculation of maximum permitted ratios). Section OZ 10 (Modifying ratios for imputation credits and FDP credits) may apply to modify this section.
 Amount of reduction
 (2) The person’s credit is reduced by an amount equal to the amount by which the credit is greater than the maximum permitted ratio.
 
@@ -23689,7 +24518,9 @@ When this section applies
   (b) an excess credit amount arises in relation to the dividend; and
   (c) the FDP credit is equal to or less than the excess credit amount.
 Amount of reduction
-(2) The person’s credit is reduced by an amount calculated using the formula—excess credit amount for dividend &#8722; FDP credit attached.
+(2) The person’s credit is reduced by an amount calculated using the formula—excess credit amount for dividend − FDP credit attached.
+Relationship with section OZ 10
+(3) Section OZ 10 (Modifying ratios for imputation credits and FDP credits) may apply to modify this section.
 
 ### LF 8 Credits for persons who are non-resident or who receive exempt income
 When this section applies
@@ -23720,6 +24551,296 @@ When failure to pay remedied
 
 ### LF 10 Evidential requirements
 If a person who has a tax credit under section LF 1 does not meet the evidential requirements of section 78D of the Tax Administration Act 1994, the person’s credit may be reduced.
+
+### Subpart LH — Tax credits for expenditure on research and development
+
+### LH 1 Who this subpart applies to
+Persons included
+(1) This subpart provides for a tax credit for eligible expenditure on research and development activities incurred by a person who—
+  (a) carries on a business in New Zealand as a resident or through a fixed establishment in New Zealand:
+  (b) is an industry research co-operative.
+Persons excluded
+(2) Subsection (1) does not apply to—
+  (a) a person who is a Crown Research Institute, a tertiary institution, or a district health board:
+  (b) a person associated with an entity referred to in paragraph (a):
+  (c) a person controlled by 1 or more of the entities referred to in paragraph (a) or (b).
+
+### LH 2 Tax credits relating to expenditure on research and development
+When this section applies
+(1) This section applies when—
+  (a) a person to whom section LH 1(1) applies meets the requirements of section LH 3 for an income year or for a period in an income year; and
+  (b) the income year is the 2008–09 income year or a later income year; and
+  (c) the person incurs in the income year or period an amount of expenditure or depreciation loss on research and development activities that—
+    (i) meets the requirements of subsection (3); and
+    (ii) is an amount related to research and development activities performed on their own behalf and not on behalf of another person; and
+  (d) the person meets the requirements of section 68D or 68E of the Tax Administration Act 1994.
+Tax credit
+(2) The person has a tax credit for the tax year corresponding to the income year calculated under section LH 4.
+Minimum requirements for expenditure
+(3) For the purposes of this subpart, the eligible expenditure referred to in section LH 4 incurred by the person in the income year must be an amount—
+  (a) of $20,000 or more, or the part-year equivalent amount calculated under subsection (4):
+  (b) paid under an agreement between the person (person A) and another person who, at the time of making the agreement, is a listed research provider who is not associated with person A.
+Part-year calculations
+(4) For the purposes of subsection (3)(a), if the person meets the requirements of section LH 1 for only part of an income year, the minimum amount is calculated using the formula—$20,000 × days in part-year365.
+When expenditure treated as incurred in income year
+(5) In subsections (1)(c) and (3) and sections LH 3(1)(e) and LH 5(2), for the purposes of a tax credit under this subpart, the following amounts are treated as expenditure incurred in the income year:
+  (a) the opening value of trading stock in the income year under section DB 49 (Adjustment for opening values of trading stock, livestock, and excepted financial arrangements):
+  (b) an unexpired amount of expenditure in the income year under section DB 50 (Adjustment for prepayments):
+  (c) an unpaid amount of expenditure on employment income in the income year under section DB 51 (Adjustment for deferred payment of employment income) in relation to research and development activities performed in the 2008–09 income year or a later income year:
+  (d) an amount of overseas eligible expenditure under section LH 6(5).
+Dealing with remaining tax credits: relationship with sections LA 5 and LA 6
+(6) If the person has a tax credit under this section remaining for the tax year under section LA 5(5) (Treatment of remaining credits), section LA 6(2) (Remaining refundable credits: PAYE, RWT, and certain other items) applies to the use of that credit, but is modified by treating the following paragraph as inserted after subsection (2)(c):
+  (cb) pay an amount that is payable by the person under an Inland Revenue Act.
+
+### LH 3 Requirements
+What is required of person?
+(1) For the purposes of section LH 2, the person must, for the income year or period in the income year,—
+  (a) perform on their own behalf, or have another person perform, research and development activities related to—
+    (i) the business referred to in section LH 1(1)(a), or an intended business of the person:
+    (ii) for an industry research co-operative, the business of a person who is an industry member under section LH 16; and
+  (b) control the research and development activities; and
+  (c) bear the financial risk of the research and development activities; and
+  (d) effectively own the results of the research and development activities, if any; and
+  (e) have—
+    (i) incurred expenditure described in schedule 21, part A (Expenditure and activities related to research and development) and not excluded under schedule 21, part B, for which they are allowed a deduction in the income year, or would be allowed a deduction if they derived income other than exempt income:
+    (ii) an amount of depreciation loss described in schedule 21, part A and not excluded under schedule 21, part B, for depreciable property used in the research and development activities, for which they are allowed a deduction in the income year, or would be allowed a deduction if they derived income other than exempt income.
+What is excluded
+(2) For the purposes of section LH 2, the person must not, for the income year, perform or have another person perform the research and development activities as a person in partnership with an entity referred to in section LH 1(2).
+Partners in partnerships
+(3) If 2 or more persons perform research and development activities as partners in a partnership, a partner is treated as—
+  (a) meeting the business requirements of subsection (1)(a)(i) and section LH 1(1)(a) and the threshold set out in section LH 2(3) if the partnership, treated as an entity performing the research and development activities, would meet those requirements:
+  (b) meeting the control and ownership requirements of subsection (1)(b) to (d) and section LH 6(4)(a) and (d) if—
+    (i) the partnership, treated as an entity performing the research and development activities, would meet those requirements; and
+    (ii) each partner meets the requirements of section LH 1.
+Joint ventures
+(4) If 2 or more persons perform research and development activities as partners in a joint venture, a partner is treated as meeting the control and ownership requirements of subsection (1)(b) to (d) and section LH 6(4)(a) and (d) if the joint venture, treated as an entity performing the research and development activities, would meet those requirements.
+Activities performed on person's behalf
+(5) In subsections (3) and (4), the performance of research and development activities by a person includes the circumstances where the activities are performed on behalf of the person.
+
+### LH 4 Calculation of amount of credit
+Formula
+(1) The amount of a tax credit under section LH 2(2) is calculated using the formula—0.15 × eligible expenditure.
+Definition of item in formula
+(2) Eligible expenditure is the amount of expenditure or depreciation loss that meets the requirements of section LH 3(1)(e) in an income year, adjusted as required under sections LH 5 and LH 6.
+
+### LH 5 Adjustments to eligible expenditure
+Cases when adjustment may apply
+(1) An amount of eligible expenditure under section LH 4 is adjusted in the cases set out in subsections (2), (4), (5), and (6).
+Treatment of prepayments and other timed amounts
+(2) If an amount of expenditure or depreciation loss is incurred in an income year and subpart CH (Adjustments) applies, or would apply, to the expenditure or depreciation loss, the amount of eligible expenditure is adjusted in the same way.
+Trading stock and livestock
+(3) Despite subsection (2), no adjustment under section CH 1 (Adjustment for closing values of trading stock, livestock, and excepted financial arrangements) applies if—
+  (a) the expenditure or amount of depreciation loss is incurred in acquiring or producing an item that has a market value and that has been subjected to a process or transformation as part of the research and development activities; and
+  (b) schedule 21, part A, clause 8 (Expenditure and activities related to research and development) applies to the expenditure or amount of depreciation loss.
+Capital expenditure
+(4) The requirements of section LH 3(1)(e) do not apply to an amount of expenditure described in schedule 21, part A and not excluded under schedule 21, part B incurred by a person in an income year if—
+  (a) the capital limitation applies to the amount; and
+  (b) the amount is not a deduction under section DB 34 (Research and development), or would not be a deduction under the section if the person derived income other than exempt income; and
+  (c) the expenditure is incurred by the person in the intended development of depreciable property that is—
+    (i) intangible property:
+    (ii) tangible property not intended for use other than in the research and development activities.
+Deferred expenditure
+(5) If a deduction for an amount of expenditure or depreciation loss incurred in an income year is allocated under section EJ 23 (Allocation of deductions for research, development, and resulting market development), the amount is treated as if it were a deduction allowed in the income year in which it is incurred, and not allowed in the income year to which it is allocated.
+Internal software development
+(6) If the expenditure or amount of depreciation loss relates to internal software development, the amount of eligible expenditure is adjusted under sections LH 9 to LH 13.
+
+### LH 6 Research and development activities outside New Zealand
+Expenditure not part of research and development project
+(1) If a person incurs expenditure or an amount of depreciation loss in research and development activities performed outside New Zealand other than as part of a research and development project, the expenditure or amount is excluded from the calculation of eligible expenditure under section LH 4.
+Overseas expenditure on research and development project
+(2) If a person incurs expenditure or an amount of depreciation loss in research and development activities performed outside New Zealand as part of a research and development project, the expenditure or amount is excluded from the calculation of eligible expenditure under section LH 4 unless it is overseas eligible expenditure.
+Activities performed on person's behalf
+(3) In subsections (1) and (2), the performance of research and development activities by a person includes the circumstances where the activities are performed on behalf of the person.
+Meaning of research and development project
+(4) A research and development project, for a person, means a process—
+  (a) consisting of co-ordinated research and development activities controlled by the person; and
+  (b) having start and finish dates; and
+  (c) undertaken collectively to achieve a specified objective within constraints of time, cost, and other resources; and
+  (d) for which the person bears the financial risk and effectively owns the results, if any; and
+  (e) for which the person incurs on research and development activities performed in New Zealand more than half of the total amount of expenditure and depreciation loss that would be eligible expenditure under section LH 4 in the absence of subsection (2).
+Meaning of overseas eligible expenditure
+(5) Overseas eligible expenditure, for a person and an income year, means expenditure or an amount of depreciation loss that—
+  (a) would, in the absence of this subsection, be eligible expenditure under section LH 4; and
+  (b) is incurred by the person in research and development activities performed outside New Zealand in the 2008–09 income year or a later income year as part of a research and development project; and
+  (c) is limited to a maximum amount of 10% of the total eligible expenditure under section LH 4 incurred in or before the income year on research and development activities performed in New Zealand in the 2008–09 income year or a later income year as part of the research and development project.
+
+### LH 7 Research and development activities and related terms
+Research and development activities
+(1) In this subpart, research and development activities of a person are—
+  (a) systematic, investigative, and experimental activities that are performed for the purposes of acquiring new knowledge or creating new or improved materials, products, devices, processes, or services and that—
+    (i) are intended to achieve an advance in science or technology by resolving scientific or technological uncertainty:
+    (ii) involve an appreciable element of novelty:
+  (b) other activities that are wholly or mainly for the purpose of, required for, and integral to, the performing of the activities referred to in paragraph (a).
+Systematic, investigative, and experimental activities
+(2) In this subpart, systematic, investigative, and experimental activities of a person are activities that—
+  (a) are planned activities directed towards a particular purpose and following a logical progression of work involving hypothesis, experiment, observation, and evaluation; and
+  (b) are not excluded under schedule 21, part C (Expenditure and activities related to research and development).
+Scientific or technological uncertainty
+(3) In this subpart, scientific or technological uncertainty means uncertainty concerning the scientific or technological possibility of a thing, or the achievement of the thing in practice, created by an absence of relevant knowledge from the knowledge that is publicly available or deducible by a competent professional working in the field.
+Novelty
+(4) In this subpart, novelty means a development of technology or a new use of existing technology, by comparison with the knowledge of the technology that is publicly available on a reasonably accessible worldwide basis.
+Technology
+(5) In this subpart, technology means the practical application of scientific principles and knowledge.
+
+### LH 8 Orders in Council
+The Governor-General may make an Order in Council—
+  (a) providing that a kind of expenditure included in the kinds of expenditure referred to in schedule 21, part A, clauses 5 and 6 (Expenditure and activities related to research and development) does not give rise to a tax credit under this subpart:
+  (b) setting the date from which the exclusion applies.
+
+### LH 9 Internal software development: general
+When sections LH 10 to LH 13 apply
+(1) Sections LH 10 to LH 13 apply for a person and an income year if, in the absence of those sections, the person would have eligible expenditure relating to internal software development.
+Eligible expenditure
+(2) The amount of eligible expenditure is adjusted to the following:
+  (a) the amount determined under section LH 10 for the income year if the person has no associated internal software developer in the income year; or
+  (b) the amount determined under section LH 11 for the income year if the person has throughout the income year an associated internal software developer with the same income year as the person, and no associated internal software developer with an income year that is different; or
+  (c) the amount determined under section LH 12 for the income year if the person has throughout the income year an associated internal software developer with an income year that is different from the person's income year; or
+  (d) the total of amounts determined under sections LH 10 to LH 12 for each of the periods making up the income year, if paragraphs (a) to (c) do not apply.
+
+### LH 10 Internal software development: no associated internal software developer
+Eligible expenditure
+(1) If the person referred to in section LH 9(1) has no associated internal software developer in a period that is all or part of their income year, the person has eligible expenditure related to internal software development under section LH 4 for the period equal to the smaller of—
+  (a) the eligible expenditure related to internal software development that the person would have for the period in the absence of this section:
+  (b) the amount for the period calculated using the formula—limit ×days365.
+Definition of items in formula
+(2) In the formula,—
+  (a) limit is the amount set out in section LH 13:
+  (b) days is the number of days in the period.
+
+### LH 11 Internal software development: associated internal software developer with same income year
+Who this section applies to
+(1) This section applies to a person referred to in section LH 9(1) if, throughout a period that is part or all of their income year, they have an associated internal software developer with the same income year as the person and have no associated internal software developer with a different income year.
+Eligible expenditure
+(2) The person has eligible expenditure related to internal software development under section LH 4 for the period equal to the smallest of—
+  (a) the eligible expenditure related to internal software development that the person would have for the period in the absence of this section:
+  (b) the amount calculated under subsection (3) for the person for the period:
+  (c) the part, allocated by the internal software development group to the person, of the amount determined under subsection (5) as available for allocation by the internal software development group for the tax year.
+Maximum amount for period
+(3) The amount referred to in subsection (2)(b) is calculated using the formula—limit ×days365.
+Definition of items in formula
+(4) In the formula in subsection (3),—
+  (a) limit is the amount set out in section LH 13:
+  (b) days is the number of days in the period.
+Amount available for allocation
+(5) The amount referred to in subsection (2)(c) that may be allocated by the internal software development group to members of the group for the tax year corresponding to the person's income year is the lesser of—
+  (a) the total eligible expenditure related to internal software development that the members of the group would have in the absence of this section for income years corresponding to the tax year:
+  (b) the amount for the tax year calculated using the formula—group limit ×days365.
+Definition of items in formula
+(6) In the formula in subsection (5)(b),—
+  (a) group limit is the amount set out in section LH 13:
+  (b) days is the number of days in the person's income year for which there are 2 or more members of the internal software development group.
+
+### LH 12 Internal software development: associated internal software developer with different income year
+When this section applies
+(1) This section applies to a person referred to in section LH 9(1) if, throughout a period that is all or part of their income year, the person has an associated internal software developer with a different income year from the person.
+Eligible expenditure for period less than year
+(2) If the period is less than the person's income year, the person has no eligible expenditure related to internal software development under section LH 4 for the period.
+Eligible expenditure for income year
+(3) If the period is the person's income year, the person has eligible expenditure related to internal software development under section LH 4 for the period equal to the lesser of—
+  (a) the eligible expenditure related to internal software development that the person would have for the period in the absence of this section:
+  (b) the part, allocated by the internal software development group to the person, of the amount determined under subsection (4) as available for allocation by the internal software development group for the tax year.
+Amount available for allocation
+(4) The amount referred to in subsection (3)(b) that may be allocated by the internal software development group to members of the group for the tax year corresponding to the person's income year is the lesser of—
+  (a) the total eligible expenditure related to internal software development that the members of the group would have in the absence of this section for income years corresponding to the tax year:
+  (b) an amount equal to the limit set out in section LH 13.
+
+### LH 13 Internal software development: limit
+Amount
+(1) The item limit referred to in sections LH 10(2)(a), LH 11(4)(a), and LH 12(4)(b) and the item group limit in section LH 11(6)(a) is the amount of $3,000,000 unless subsection (2) applies to increase the amount.
+Determination of amount by Minister
+(2) The Minister may, by notice published in the Gazette, determine an amount of more than $3,000,000 to be appropriate for the purposes of subsection (1) for a person or internal software development group who need not be named in the notice and an income year or period, if the Minister is satisfied that—
+  (a) the internal software development will be exploited mainly for the benefit of the New Zealand economy; and
+  (b) New Zealand will derive a substantial net benefit from the intended completion of the internal software development; and
+  (c) the person or the internal software development controller of the group has a commitment to retain the value of their business in New Zealand.
+Requirements in determination
+(3) A determination under subsection (2)—
+  (a) may include requirements that the Minister thinks are appropriate for the application of the determination; and
+  (b) does not apply to a person who does not meet a requirement of the determination.
+
+### LH 14 Treatment of depreciation loss for certain depreciable property
+What this section applies to
+(1) This section applies to a person who owns an item of depreciable property for which no deduction has been allowed for an amount of depreciation loss because the person derives exempt income. This section applies only for the purposes of calculating eligible expenditure under this subpart.
+Depreciation loss for tax credit
+(2) For the purposes of calculating the amount of depreciation loss the person has for the item under section EE 1(2) (What this subpart does), the person is treated as—
+  (a) acquiring the item on the later of the 2 following days:
+    (i) the first day of the 2008–09 income year:
+    (ii) the day on which they acquire the item; and
+  (b) allowed a deduction for depreciation loss for the item for the income years ending after the day on which the person is treated as acquiring it under this section.
+Marketvalue and 20% loading
+(3) An item treated as acquired by a person under subsection (2)(a)(i) is treated as—
+  (a) acquired for its market value; and
+  (b) meeting the requirements of section EE 31(2)(b)(i) to (iv) (Annual rate for item acquired in person's 1995–96 or later income year) for using the 1.2 factor, unless the item—
+    (i) did not meet those requirements when, but for subsection (2)(a)(i), the person acquired the item; or
+    (ii) was acquired by the person, but for subsection (2)(a)(i), before the first day of the 1995–96 income year.
+
+### LH 15 Listed research providers
+Application
+(1) A person may apply to be a listed research provider by notifying the Commissioner that they—
+  (a) meet the 2 start-up requirements of subsection (2); and
+  (b) undertake to meet the continuing requirements of subsection (3).
+Start-up requirements
+(2) The start-up requirements are that the person—
+  (a) is capable of performing research and development activities on behalf of other persons; and
+  (b) has in New Zealand the facilities needed to perform the research and development activities.
+Continuing requirements
+(3) The continuing requirements are that the person—
+  (a) charges market prices for performing the research and development activities; and
+  (b) is available to perform research and development activities on behalf of persons not associated with them; and
+  (c) keeps records as required by section 22(2)(kd) of the Tax Administration Act 1994.
+Published listing of applicants
+(4) The Commissioner may list the person as a listed research provider if the Commissioner is satisfied that they meet the requirements of subsection (2). The Commissioner must publish the names of the listed research providers appropriately. Subsection (10) applies in relation to an application to list when the person applying has previously been listed under this subsection and later been removed from the list.
+Period of listing
+(5) A person listed under subsection (4) continues to be a listed research provider until removed from the list—
+  (a) under subsection (6), following a request by the person:
+  (b) under subsection (7), by notice of the Commissioner.
+Request for removal from list
+(6) If a listed research provider notifies the Commissioner that they wish to be removed from the list, they are removed from the list from the later of the following:
+  (a) the date set out in the notice:
+  (b) the date on which the Commissioner receives the notice.
+Removal from list by Commissioner
+(7) If the Commissioner is satisfied that a person is not meeting a requirement of subsection (2) or (3), the Commissioner may notify the person that they are no longer a listed research provider, giving the reasons for the decision for removal. The person is then removed from the list from the later of the following:
+  (a) the date set out in the notice:
+  (b) the date that is 1 month after the date of the notice.
+No challenge
+(8) No challenge to a decision by the Commissioner under subsection (7) is available.
+When subsection (10) applies
+(9) Subsection (10) applies when a person—
+  (a) has been listed under subsection (4); and
+  (b) has been removed from the list under subsection (6) or (7); and
+  (c) reapplies under subsection (1) to be a listed research provider.
+Conditions for relisting
+(10) If the Commissioner is satisfied that the person meets the requirements of subsection (2) and will meet the requirements of subsection (3), the Commissioner may list the person as a listed research provider.
+
+### LH 16 Industry research co-operatives
+An industry research co-operative is a person who performs or commissions research and development activities mainly on behalf of other persons (the industry members), each of whom—
+  (a) carries on a business activity in New Zealand as a resident or through a fixed establishment in New Zealand; and
+  (b) would meet the requirements of section LH 2 if—
+    (i) the person performed the research and development activities, or had the research and development activities performed on the person's behalf; and
+    (ii) section LH 2(3)(a) did not apply; and
+  (c) contributes to the financing of the research and development activities by payments made—
+    (i) to the industry research co-operative:
+    (ii) as a levy imposed under section 4 of the Commodity Levies Act 1990:
+    (iii) as a levy imposed under section 5 of the Building Research Levy Act 1969.
+
+### LH 17 Some definitions
+In this subpart,—
+  - **associated internal software developer** , for a person (person A) who is performing, or having another person perform, internal software development at a time, means another person—
+    (a) who is performing, or having another person perform, internal software development at the time; and
+    (b) for whom the internal software development controller is the same as the internal software development controller of person A
+  - **internal software development** , for a person, means a research and development activity of developing software with—
+    (a) a purpose of having the software used in—
+      (i) the internal administration of business activities of the person or of another person associated with them:
+      (ii) providing services to customers of the person or another person associated with them whose main reason for using the services is to obtain a service other than the use of the person's computer technology or software:
+    (b) the main purpose that is neither—
+      (i) selling, renting, licensing, hiring, or leasing the software by the person to customers of which 2 or more are not associated with the person nor with each other:
+      (ii) including the software as an integral part of an electrical or mechanical device for which the software is developed and that has for the person the main purpose of being sold, rented, licensed, hired, or leased to customers as part of the person's business
+  - **internal software development controller** , for a person (person A) who is performing, or having another person perform, internal software development, means a group of 1 or more persons—
+    (a) having the power to govern, directly or indirectly, the financial and operating policies of person A to obtain benefits from person A's activities; and
+    (b) having no other person or persons with the power to govern, directly or indirectly, the financial and operating policies of the group to obtain benefits from the group's activities
+  - **internal software development group** , for an internal software development controller (the ) and a tax year, means a group of entities of which each entity is a member at a time, in the entity's income year corresponding to the tax year, when—
+    (a) the controller is the internal software development controller of the entity; and
+    (b) the entity is performing, or having another person perform, internal software development; and
+    (c) the entity has an associated internal software developer.
 
 ### Subpart LJ — Tax credits for foreign income tax
 
@@ -23769,12 +24890,12 @@ Definition of items in formula
 Modification to results of formula for single segment
 (4) The amount referred to in subsection (2) is modified if the net income that the person would have if their only income were from their segments of foreign-sourced income for the tax year is greater than their actual net income for the tax year. The result of the calculation in subsection (2) is adjusted for each segment by multiplying the individual amounts by the following ratio:
 Person’s notional income tax liability
-(5) For the purposes of this section, a person’s notional income tax liability for a tax year is calculated using the formula—(person’s net income &#8722; losses) × tax rate.
+(5) For the purposes of this section, a person’s notional income tax liability for a tax year is calculated using the formula—(person’s net income − losses) × tax rate.
 Definition of items in formula
 (6) In the formula in subsection (5),—
   (a) person’s net income is the person’s net income for the tax year:
   (b) losses is an amount of tax loss component that the person has subtracted from their net income under section IA 3 (Using tax losses in tax year) determined before the use of any loss balance carried forward to the tax year:
-  (c) tax rate is the basic rate of income tax set out in schedule 1, part A (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits).
+  (c) tax rate is the basic rate of income tax set out in schedule 1, part A (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
 
 ### LJ 6 Taxable distributions and NRWT rules
 When this section applies
@@ -23821,7 +24942,7 @@ Tax withheld
 
 ### LK 2 Calculation of amount of credit
 Amount of credit
-(1) For the purposes of section LK 1(1), the amount of a tax credit for a tax year for a person is equal to an amount calculated using the formula—section EX 18 income interest × (tax paid &#8722; excluded foreign tax).
+(1) For the purposes of section LK 1(1), the amount of a tax credit for a tax year for a person is equal to an amount calculated using the formula—section EX 18 income interest × (tax paid − excluded foreign tax).
 Definition of items in formula
 (2) In the formula,—
   (a) section EX 18 income interest is the income interest of the person used to calculate attributed CFC income under section EX 18 (Formula for calculating attributed CFC income or loss) for the accounting period corresponding to the tax year:
@@ -23922,7 +25043,7 @@ Limitation on amount
   (b) the amount of the credit calculated using the formula in subsection (3):
   (c) the amount referred to in section LK 10(2).
 Formula
-(3) The amount referred to in subsection (2)(b) is calculated using the formula—amount carried forward &#8722; (part-year credits + pre-consolidation credits).
+(3) The amount referred to in subsection (2)(b) is calculated using the formula—amount carried forward − (part-year credits + pre-consolidation credits).
 Definition of items in formula
 (4) In the formula,—
   (a) amount carried forward is the amount of the credit carried forward under section LK 9(2) before applying section LK 10 and this section:
@@ -23987,7 +25108,7 @@ Grey list dividends
 Definition of items in formula
 (4) In the formula in subsection (3),—
   (a) grey list dividend is the amount of the foreign dividend of the person to the extent to which it is a grey list dividend under section LL 3:
-  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) for the tax year in which the foreign dividend is derived.
+  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the tax year in which the foreign dividend is derived.
 Non-grey list dividends
 (5) For an accounting year and for a dividend other than a grey list dividend, the person has a tax credit equal to an amount calculated using the formula—
 Definition of items in formula
@@ -24067,7 +25188,7 @@ Definition
     (i) a dividend derived by the person that is a non-creditable dividend or a grey list dividend; and
     (ii) a dividend that would be a non-creditable dividend or would be a grey list dividend, if derived by the person.
 Calculation of amount
-(2) The formula referred to in subsection (1)(a) is—after-tax earnings &#8722; after-tax losses &#8722; excluded dividends.
+(2) The formula referred to in subsection (1)(a) is—after-tax earnings − after-tax losses − excluded dividends.
 Definition of items in formula
 (3) In the formula,—
   (a) after-tax earnings is the total after-income tax earnings of the foreign dividend company for the company’s UFTC accounting period:
@@ -24089,13 +25210,13 @@ Amount of UFTC
 Limitation on amount
 (3) The amount under subsection (2) is limited to the lesser of—
   (a) the imputation credits attached to the standard dividend if the company is resident in New Zealand and is an imputation credit account (ICA) company; and
-  (b) an amount calculated using the formula—((relevant standard dividend + lower tier UFTC + tax withheld) × company rate) &#8722; tax withheld.
+  (b) an amount calculated using the formula—((relevant standard dividend + lower tier UFTC + tax withheld) × company rate) − tax withheld.
 Definition of items in formula
 (4) In the formula,—
   (a) relevant standard dividend is the amount of the standard dividend after the subtraction of tax withheld in relation to the dividend:
   (b) lower tier UFTC is the amount of the foreign dividend company lower tier UFTC under subsection (2) for the standard dividend:
   (c) tax withheld means the tax withheld and paid in relation to the standard dividend:
-  (d) company rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) for the tax year in which the standard dividend is paid.
+  (d) company rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the tax year in which the standard dividend is paid.
 
 ### LL 7 Conduit financing arrangements
 When this section applies
@@ -24111,7 +25232,7 @@ When this section applies
     (ii) foreign company B is not a CFC, if a payment is made to foreign company B:
     (iii) a non-resident has voting interests of 50% or more in foreign company A and in foreign company B, if applicable or, if a market value circumstance exists, market value interests of 50% or more in foreign company A and in foreign company B, if applicable.
 Limited deduction
-(2) For the purposes of subsection (1)(c), and despite sections DB 6 to DB 8 (which relate to deductions for interest expenditure), the company is allowed a deduction for the expenditure for a tax year only to the extent to which the expenditure is greater than an amount calculated using the formula—grey list UFTC dividends &#8722; (earlier expenditure + financial arrangements income).
+(2) For the purposes of subsection (1)(c), and despite sections DB 6 to DB 8 (which relate to deductions for interest expenditure), the company is allowed a deduction for the expenditure for a tax year only to the extent to which the expenditure is greater than an amount calculated using the formula—grey list UFTC dividends − (earlier expenditure + financial arrangements income).
 Definition of items in formula
 (3) In the formula,—
   (a) grey list UFTC dividends is the total amount of dividends, before subtracting the tax withheld, that is derived from foreign company A for the tax year or an earlier tax year to the extent to which the dividends give rise to an amount of credit under section LL 2(3) for the company or the associated person:
@@ -24196,6 +25317,16 @@ Definition of items in formula
   (c) total beneficiary credits is the total Maori authority credits attached to taxable Maori authority distributions and total supplementary dividends for the tax year made to all beneficiaries of the trust in their capacity as beneficiaries:
   (d) person’s supplementary dividend is the total supplementary dividends for the tax year paid to the person in their capacity as beneficiary of the trust.
 
+### LO 2B Credit of RSCT for Maori authority credit
+Retirement scheme contributions
+(1) A retirement scheme contributor who attaches a Maori authority credit to a retirement scheme contribution for a person in an income year has a credit of RSCT equal to the lesser of—
+  (a) the amount of the Maori authority credit:
+  (b) the liability of the contributor for RSCT on the contribution.
+When credit more than liability
+(2) If the amount of the Maori authority credit is more than the liability of the contributor for RSCT on the contribution,—
+  (a) the amount of the excess is treated as a Maori authority credit attached to a taxable Maori authority distribution from the contributor to the person; and
+  (b) the person responsible for withholding the RSCT must, within 30 days of the contribution, notify the person of the amount of the excess credit.
+
 ### LO 3 Application of Maori authority distribution ratio
 When this section applies
 (1) This section applies when a person who has a tax credit under section LO 1 derives a taxable Maori authority distribution that has a Maori authority credit ratio greater than the maximum permitted ratio calculated under section OA 18 (Calculation of maximum permitted ratios).
@@ -24234,7 +25365,7 @@ When this section applies
   (a) a non-resident; or
   (b) a supplementary dividend holding company that is not part of the same consolidated group as the company.
 Amount of credit
-(2) For the year of payment, the company has a tax credit equal to an amount calculated using the formula—
+(2) For the year of payment, the company has a tax credit equal to an amount calculated using the formula—attached imputation credit ×710.
 Definition of item in formula
 (3) In the formula, attached imputation credit is the imputation credit that would, in the absence of this subpart, be attached to the dividend.
 Limitation on use of credit
@@ -24245,6 +25376,7 @@ Meaning of year of payment
   (b) if the company and the supplementary dividend holding company are associated and, because their balance dates do not match, the supplementary dividend holding company derives the dividend in an income year that is later than the income year of the company in which it pays the dividend, the tax year corresponding to the income year in which the supplementary dividend holding company derives the dividend.
 Associated persons test
 (6) For the purposes of the definition of year of payment in subsection (5), the test of association for the company and the supplementary dividend holding company is set out in subpart YB (Associated persons and nominees) but on the basis that a reference there to 50% or more is treated as a reference to more than 50%.
+(7) Section OZ 12 (Tax credits for non-resident investors) may apply to modify subsection (2).
 
 ### LP 3 Use of remaining credits
 When this section applies
@@ -24280,6 +25412,7 @@ Applying benchmark dividend rules
 (1) The benchmark dividend rules in sections OB 61 and OC 28 (which relate to the allocation of imputation and FDP credits) and sections GB 35 and GB 36 (which relate to imputation arrangements to obtain a tax advantage) apply as if the company had never paid the supplementary dividend.
 Increase in imputation credit
 (2) The maximum permitted ratio referred to in section OB 60(5) (Imputation credits attached to dividends) and sections GB 35 and GB 36 apply to a dividend as if the imputation credit attached to the dividend were increased by an amount equal to the related supplementary dividend.
+(3) Section OZ 12 (Tax credits for non-resident investors) may apply to modify this section.
 
 ### LP 6 Deriving supplementary dividend and breach of terms of trust
 Class of shares
@@ -24309,9 +25442,10 @@ Definition of items in formula
 (3) In the formula,—
   (a) attached credit is the imputation credit attached to the dividend:
   (b) dividend is the supplementary dividend related to the dividend:
-  (c) tax rate is the basic rate of income tax set out in schedule 1, part A (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits).
+  (c) tax rate is the basic rate of income tax set out in schedule 1, part A (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
 Treatment of imputation credit
 (4) The imputation credit referred to in subsection (3) is assessable income of the supplementary dividend holding company for the income year for the purposes of section LE 1 (Tax credits for imputation credits).
+(5) Section OZ 12 (Tax credits for non-resident investors) may apply to modify subsection (3)(c).
 
 ### LP 9 Relationship with RWT rules
 When this section applies
@@ -24327,7 +25461,7 @@ Definition of items in formula
   (a) company’s income is the supplementary dividend holding company’s income for the income year that corresponds to the tax year:
   (b) company’s total credits is the supplementary dividend holding company’s total amount of tax credits that are non-refundable tax credits, tax credits for imputation credits, and tax credits for foreign dividend payment (FDP) credits for the income year that corresponds to the tax year:
   (c) supplementary amount is the total amount of supplementary dividends derived by the supplementary dividend holding company for the income year that corresponds to the tax year:
-  (d) tax rate is the basic rate of income tax set out in schedule 1, part A (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits).
+  (d) tax rate is the basic rate of income tax set out in schedule 1, part A (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
 Tax loss components
 (3) A deduction that would, in the absence of subsection (1), be allocated to the tax year is a tax loss component that may be carried forward under Part I (Treatment of tax losses) if the relevant requirements of that Part are met.
 Calculating credits under this Part
@@ -24339,11 +25473,11 @@ Calculating credits under this Part
 When this section applies
 (1) This section applies for a tax year to a conduit tax relief (CTR) company that remains a CTR company when it provides its return of income for the tax year.
 Amount of credit
-(2) The company has a tax credit equal to an amount calculated using the formula—percentage of shareholders × ((tax rate × (company’s income &#8722; company’s losses &#8722; excess interest allocation)) &#8722; company’s credits &#8722; amounts credited).
+(2) The company has a tax credit equal to an amount calculated using the formula—percentage of shareholders × ((tax rate × (company’s income − company’s losses − excess interest allocation)) − company’s credits − amounts credited).
 Definition of items in formula
 (3) In the formula,—
   (a) percentage of shareholders is the percentage of the company’s shareholders who are not resident in New Zealand determined under section LQ 3:
-  (b) tax rate is the basic rate of income tax set out in schedule 1, part A (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits):
+  (b) tax rate is the basic rate of income tax set out in schedule 1, part A (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits):
   (c) company’s income is the company’s foreign attributed income for the tax year:
   (d) company’s losses is the amount of the company’s tax loss components referred to in section IA 7(5) and (6) (Restrictions relating to ring-fenced tax losses) for the tax year:
   (e) excess interest allocation is the excess interest allocation for the tax year calculated under section FF 6 (Conduit tax relief):
@@ -24577,9 +25711,10 @@ Withdrawals
 ### Subpart MA — General provisions
 
 ### MA 1 What this Part does
-This Part identifies the tax credits to which a person is entitled under—
-  (a) the family scheme for a tax year:
-  (b) the superannuation savings scheme for a year beginning on 1 July and ending on 30 June.
+This Part identifies the tax credits to which a person is entitled—
+  (a) under the family scheme for a tax year, see subparts MA to MF and MZ (which relate to working for families tax credits):
+  (b) under the superannuation savings scheme for a year beginning on 1 July and ending on 30 June, see subpart MK (Tax credits for KiwiSaver schemes and complying superannuation funds):
+  (c) for a redundancy payment, see subpart ML (Tax credits for redundancy payments).
 
 ### MA 2 Relationship with core provisions
 Section BC 8 (Satisfaction of income tax liability) deals with how a tax credit arising under this Part is applied.
@@ -24594,7 +25729,7 @@ If a calculation under this Part produces a result that is negative for the amou
 In determining a person’s entitlement to a tax credit under subparts MB to MF and MZ, the Commissioner may obtain the advice of the chief executive or, as applicable, the person appointed under section 61A of the Defence Act 1990 for the purposes of the War Pensions Act 1954.
 
 ### MA 6 Avoidance arrangements
-Section GB 44 (Arrangements involving family support credits) may apply to reduce a tax credit under subparts MB to MF and MZ.
+Section GB 44 (Arrangements involving tax credits for families) may apply to reduce a tax credit under subparts MB to MF and MZ.
 
 ### MA 7 Meaning of full-time earner for family scheme
 Weekly employment
@@ -24611,26 +25746,15 @@ Incapacity
 
 ### MA 8 Some definitions for family scheme
 In subparts MB to MF and MZ,—
+  - **abating WFF tax credit** means a tax credit under section MD 1 (Abating WFF tax credit)
   - **chief executive** means the chief executive of the department currently responsible for administering the Social Security Act 1964
-  - **child tax credit** means the component of the family assistance credit that is calculated using the formula in section MZ 2 (Calculation of child tax credit)
-  - **family assistance credit** means a tax credit under section MD 1 (Family assistance credit)
-  - **family credit abatement** means the component of the family assistance credit that is calculated using the formula in section MD 13 (Calculation of family credit abatement)
-  - **family plus** means the total of—
-    (a) the amount for an entitlement period, after abatement, if any, under section MD 13, of whichever is appropriate of—
-      (i) the in-work payment calculated using the formula in section MD 10 (Calculation of in-work payment):
-      (ii) the child tax credit calculated using the formula in section MZ 2; and
-    (b) the parental tax credit for an entitlement period calculated using the formula in section MD 12 (Calculation of parental tax credit) after abatement, if any, under section MD 13; and
-    (c) the family tax credit calculated using the formula in section ME 1 (Family tax credit)
+  - **child tax credit** means the component of the WFF tax credit that is calculated using the formula in section MZ 2 (Calculation of child tax credit)
+  - **family credit abatement** means the component of the abating WFF tax credit that is calculated using the formula in section MD 13 (Calculation of family credit abatement)
   - **family scheme** means all the entitlements and tax credits arising under subparts MB to MF and MZ
   - **family scheme income** means an amount calculated under subpart MB (Adjustment of net income for family scheme) on which an entitlement and a tax credit under the family scheme is based
-  - **family support** means the component of the family assistance credit calculated using the formula in section MD 3 (Calculation of family support)
-  - **family tax credit** means a tax credit under section ME 1
-  - **in-work payment** means the component of the family assistance credit calculated using the formula in section MD 10
-  - **net family scheme income** means the amount of the difference between—
-    (a) the amount of a person’s net income for the tax year in which the relationship period falls that is attributable to the weeks in the relationship period in which the person is a full-time earner multiplied by the fraction that is the number of weeks in the year divided by the number of weeks in the relationship period in which the person is a full-time earner; and
-    (b) the amount that would be the person’s income tax liability,—
-      (i) treating the amount under paragraph (a) as if it were the person’s net income:
-      (ii) taking into account any tax credit under section LC 1 or LC 2 (which relate to tax credits for persons on low incomes)
+  - **family tax credit** means the component of the abating WFF tax credit calculated using the formula in section MD 3 (Calculation of family tax credit)
+  - **in-work tax credit** means the component of the abating WFF tax credit calculated using the formula in section MD 10 (Calculation of in-work tax credit)
+  - **minimum family tax credit** means a tax credit under section ME 1 (Minimum family tax credit)
   - **New Zealand resident** —
     (a) means ordinarily resident; and
     (b) does not include being unlawfully resident in New Zealand; and
@@ -24638,7 +25762,7 @@ In subparts MB to MF and MZ,—
       (i) a visitor’s permit; or
       (ii) a temporary work permit; or
       (iii) a permit to be in New Zealand for the purposes of study at a New Zealand school or university or other tertiary educational establishment
-  - **parental tax credit** means the component of the family assistance credit calculated using the formula in section MD 12
+  - **parental tax credit** means the component of the abating WFF tax credit calculated using the formula in section MD 12
   - **social assistance payment** means—
     (a) an income-tested benefit; or
     (b) a veteran’s pension; or
@@ -24647,6 +25771,7 @@ In subparts MB to MF and MZ,—
     (e) an accident compensation earnings-related payment, when the compensation relates to a day forming part of a continuous period of eligibility for the compensation and the day falls after the earlier of—
       (i) the day with the same date as the first day of the continuous period of eligibility for compensation and occurring in the third calendar month after that first day; and
       (ii) the last day of the third calendar month after the first day of the continuous period of eligibility for compensation.
+  - **WFF tax credit** means a tax credit under either section MD 1 (Abating WFF tax credit) or ME 1 (Minimum family tax credit)
 
 ### Subpart MB — Adjustment of net income for family scheme
 
@@ -24667,7 +25792,9 @@ Deduction
 Tax loss of qualifying company
 (4) For the purposes of subsection (1), an amount of a tax loss of a qualifying company that is attributed to the person as a shareholder of the qualifying company under sections HA 20 and HA 24 (which relate to the treatment of tax losses of LAQCs) is not included in family scheme income.
 Portfolio investor allocated income
-(5) For the purposes of subsection (1), an amount of portfolio investor allocated income that is not excluded income of the person and would be their excluded income in the absence of section CX 56(1)(b) (Portfolio investor allocated income and distributions of income by portfolio investment entities) is not included in family scheme income.
+(5) For the purposes of subsection (1), an amount of portfolio investor allocated income that is not excluded income of the person and would be their excluded income in the absence of section CX 56(1)(b) and (c) (Portfolio investor allocated income and distributions of income by portfolio investment entities) is not included in family scheme income.
+Retirement scheme contributions
+(5B) For the purposes of subsection (1), an amount of retirement scheme contribution that is not excluded income of the person and would be their excluded income in the absence of section CX 50B(2) (Contributions to retirement savings schemes) is not included in family scheme income.
 All known income sources
 (6) The Commissioner must have regard to—
   (a) the income from all sources known to the Commissioner; and
@@ -24721,22 +25848,34 @@ When this section does not apply
 Assessable income
 (3) For the purposes of calculating family scheme income, the distribution referred to in subsection (1) is assessable income of the person derived in the tax year or years that corresponds to the income year or years in which the contributions were made. The amount does not include an amount attributable to a contribution by the person as a member of the superannuation scheme.
 
+### MB 6 Treatment of distributions from retirement savings schemes
+When this section applies
+(1) This section applies when—
+  (a) a person receives a distribution of a retirement scheme contribution from a retirement savings scheme in an income year; and
+  (b) RSCT has been withheld from the contribution; and
+  (c) at the time of the distribution, the person is—
+    (i) not eligible for New Zealand superannuation; and
+    (ii) eligible for a distribution of a retirement scheme contribution from a retirement scheme contributor.
+Assessable income
+(2) For the purposes of calculating family scheme income, the distribution is assessable income of the person derived in the income year in which the distribution is made.
+
 ### Subpart MC — Entitlements under family scheme
 
 ### MC 1 What this subpart does
 Rules about entitlements under family scheme
-(1) This subpart provides the rules for determining whether a person and their spouse, civil union partner, or de facto partner are entitled to family support and family plus as entitlements and tax credits under the family scheme.
-Family support
-(2) Family support is the amount of a person’s entitlement and tax credit calculated under section MD 3 (Calculation of family support).
-Family plus
-(3) Family plus is made up of—
-  (a) the in-work payment, seesections MD 4 to MD 10 (which relate to the entitlement to and calculation of the in-work payment), or the child tax credit continued under section MZ 1 (Entitlement to child tax credit); and
-  (b) the parental tax credit, seesections MD 11 and MD 12 (which relate to the entitlement to and calculation of the parental tax credit); and
-  (c) the family tax credit, seesection ME 1 (Family tax credit).
+(1) This subpart provides the rules for determining whether a person and their spouse, civil union partner, or de facto partner are entitled to WFF tax credits as entitlements and tax credits under the family scheme.
+WFF tax credits
+(2) The WFF tax credit is the amount of a person's entitlement and tax credit made up of—
+  (a) the family tax credit calculated under section MD 3 (Calculation of family tax credit):
+  (b) the in-work tax credit, see sections MD 4 to MD 10 (which relate to the entitlement to and calculation of the in-work tax credit), or the child tax credit continued under section MZ 1 (Entitlement to child tax credit):
+  (c) the parental tax credit, see sections MD 11 and MD 12 (which relate to the entitlement to and calculation of the parental tax credit):
+  (d) the minimum family tax credit, see section ME 1 (Minimum family tax credit).
 Classification of credits
-(4) For the purposes of the calculation of the amount of a tax credit, entitlements and tax credits under the family scheme are divided into—
-  (a) family assistance credits, made up of family support, the in-work payment or child tax credit, and the parental tax credit; and
-  (b) family tax credits.
+(3) For the purposes of the calculation of an amount of a WFF tax credit, entitlements and tax credits under the family scheme are divided into—
+  (a) abating WFF tax credits, made up of the family tax credit, in-work tax credit or child tax credit, and the parental tax credit:
+  (b) the minimum family tax credit.
+Classification of credits
+(4)
 
 ### MC 2 Who qualifies for entitlements under family scheme?
 A person qualifies for an entitlement under the family scheme if, for an entitlement period, they meet—
@@ -24754,15 +25893,15 @@ Third requirement
 (1) The third requirement is that the person referred to in section MC 2 and child referred to in section MC 4 meets the residence requirements of subsections (2) and (3).
 When person meets residence requirements
 (2) The person meets the residence requirements of subsection (1) if the person—
-  (a) is a New Zealand resident who has been both resident and present in New Zealand for a continuous period of 12 months at any time, and is tax resident and resident in New Zealand on the date on which a tax credit arises under section MD 1 (Family assistance credit) or ME 1 (Family tax credit); and
+  (a) is a New Zealand resident who has been both resident and present in New Zealand for a continuous period of 12 months at any time, and is tax resident and resident in New Zealand on the date on which a tax credit arises under section MD 1 (Abating WFF tax credit) or ME 1 (Minimum family tax credit); and
   (b) is not a transitional resident, and has not made an election under section HR 8(4) (Transitional residents), and is not the spouse, civil union partner, or de facto partner of a transitional resident.
 When child meets residence requirements
 (3) The child meets the residence requirements of subsection (1) if the child is both resident and present in New Zealand for the entitlement period.
 
 ### MC 6 When person does not qualify
 Despite sections MC 3 to MC 5, a person does not qualify for—
-  (a) a family assistance credit if, during the relationship period, they receive a parent’s allowance under section 32(2) of the War Pensions Act 1954:
-  (b) a family tax credit if, during the relationship period, they receive—
+  (a) an abating WFF tax credit if, during the relationship period, they receive a parent’s allowance under section 32(2) of the War Pensions Act 1954:
+  (b) an in-work tax credit, parental tax credit, or minimum family tax credit if, during the relationship period, they receive—
     (i) an income-tested benefit; or
     (ii) a veteran’s pension; or
     (iii) a parent’s allowance.
@@ -24778,7 +25917,7 @@ Single person
   (a) this section applies as if—
     (i) the person or their spouse or partner meets the qualifying criteria in relation to all those children; and
     (ii) the other person does not meet the qualifying criteria in relation to any of the children; and
-  (b) the Commissioner must determine which of the persons referred to in paragraph (a) meets the qualifying criteria.
+  (b) for all WFF tax credits other than the in-work tax credit, the Commissioner must determine which of the persons referred to in paragraph (a) meets the qualifying criteria.
 
 ### MC 8 Continuing requirements
 To receive entitlements and tax credits under the family scheme, a person who meets the qualifying criteria set out in sections MC 3 to MC 7 must also meet the following requirements throughout the entitlement period:
@@ -24786,16 +25925,16 @@ To receive entitlements and tax credits under the family scheme, a person who me
   (b) another person does not on any day start or stop being a spouse, civil union partner, or de facto partner of the person; and
   (c) the person does not start or stop being the principal caregiver of a dependent child other than on the first or, as applicable, the last day; and
   (d) a child for whom the person is the principal caregiver does not stop being a dependent child other than on the first or, as applicable, the last day; and
-  (e) the composition of a family assistance credit does not change, other than on the first, or as applicable, the last day; and
-  (f) the person does not start or stop being a person receiving protected family support, other than on the first, or as applicable, the last day.
+  (e) the composition of a WFF tax credit does not change, other than on the first, or as applicable, the last day; and
+  (f) the person does not start or stop being a person receiving protected family tax credit, other than on the first, or as applicable, the last day.
 
 ### MC 9 Credits for person aged 18
 For person aged 18
-(1) A person is entitled to a tax credit under sections MD 1 (Family assistance credit) and ME 1 (Family tax credit) for a person aged 18 who—
+(1) A person is entitled to a tax credit under sections MD 1 (Abating WFF tax credit) and ME 1 (Minimum family tax credit) for a person aged 18 who—
   (a) is not financially independent; and
   (b) is attending school or a tertiary educational establishment.
 Determining period
-(2) The Commissioner must determine the period for which a person is entitled to a family assistance credit or a family tax credit for a person who is 18 years of age.
+(2) The Commissioner must determine the period for which a person is entitled to an abating WFF tax credit or a minimum family tax credit for a person who is 18 years of age.
 When period expires
 (3) The period determined by the Commissioner ends on or before the first day fixed by the Commissioner for payments of instalments of tax credits under section 80KI of the Tax Administration Act 1994 in the calendar year following that in which the person turns 18 years of age.
 
@@ -24807,19 +25946,19 @@ General meaning
     (i) a body of persons, incorporated or otherwise:
     (ii) the spouse, civil union partner, or de facto partner of a person eligible to be a transitional resident who has not made an election under section HR 8(4) (Transitional residents):
     (iii) a person who is the proprietor of, or employed in, a residence established under the Children, Young Persons, and Their Families Act 1989, or a residential disability care institution as defined in section 58(4) of the Health and Disability Services (Safety) Act 2001, or another institution in which a child is cared for.
-Meaning for family assistance credit, family support, child tax credit
-(2) For the purposes of sections MD 3 and MZ 1 (which relate to family support and the child tax credit), a person is a principal caregiver of a dependent child if the person—
+Meaning for abating WFF tax credit, family tax credit, child tax credit
+(2) For the purposes of sections MD 3 and MZ 1 (which relate to family tax credit and the child tax credit), a person is a principal caregiver of a dependent child if the person—
   (a) lives apart from another person who qualifies under section MC 2 in relation to the dependent child; and
   (b) has the dependent child in their exclusive care for periods totalling at least one-third of—
     (i) a 4-month period:
     (ii) the tax year:
     (iii) the entitlement period, in the case of the parental tax credit.
-Meaning for in-work payment
+Meaning for in-work tax credit
 (3) For the purposes of section MD 6 (Second requirement: principal care), a person is a principal caregiver of a dependent child for an entitlement period if the person—
   (a) lives apart from another person who qualifies under section MC 2 in relation to the dependent child; and
   (b) has the dependent child in their exclusive care for periods, whether or not they coincide with the entitlement period, totalling at least one-third of a 4-month period or the tax year.
-Entitlement to in-work payment
-(4) If subsection (2) applies, section MD 10(3) (Calculation of in-work payment) is to be read as applying to the periods during which the principal caregiver has exclusive care of the dependent child.
+Entitlement to in-work tax credit
+(4) If subsection (2) applies, section MD 10(3) (Calculation of in-work tax credit) is to be read as applying to the periods during which the principal caregiver has exclusive care of the dependent child.
 Meaning for parental tax credit
 (5) For the purposes of section MD 11 (Entitlement to parental tax credit), a person is a principal caregiver of a dependent child if the person—
   (a) lives apart from another person who qualifies under section MC 2 in relation to the dependent child; and
@@ -24835,43 +25974,47 @@ Meaning
 When day included in more than 1 period
 (2) If a day is part of more than 1 entitlement period or 1 relationship period, the day is treated as part only of the particular period that the Commissioner determines is fair in the circumstances.
 
-### Subpart MD — Family assistance credit
+### Subpart MD — Abating WFF tax credits
 
 **Calculating amount of credit**
 
-### MD 1 Family assistance credit
+### MD 1 Abating WFF tax credit
 Tax credit
-(1) A person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?) is entitled to a tax credit (the family assistance credit) equal to an amount calculated using the formula in subsection (2).
+(1) A person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?) is entitled to a tax credit (the abating WFF tax credit) equal to an amount calculated using the formula in subsection (2).
 Formula
-(2) The formula is—family support + (payment or credit) + parental tax credit &#8722; family credit abatement.
+(2) The formula is—family tax credit + (in-work tax credit or child tax credit) + parental tax credit – credit abatement.
 Definition of items in formula
 (3) In the formula,—
-  (a) family support is the family support for the entitlement period calculated using the formula in section MD 3:
-  (b) payment or credit is 1 of the following, as applicable:
-    (i) the in-work payment for the entitlement period calculated using the formula in section MD 10, if the person is entitled to the in-work payment for the entitlement period:
-    (ii) the amount of child tax credit for the entitlement period calculated using the formula in section MZ 2 (Calculation of child tax credit), if the person is not entitled to the in-work payment for the entitlement period, and is entitled to the child tax credit for the entitlement period under section MZ 1 (Entitlement to child tax credit):
+  (a) family tax credit is the family tax credit for the entitlement period calculated using the formula in section MD 3:
+  (b) in-work tax credit or child tax credit is 1 of the following, as applicable:
+    (i) the in-work tax credit for the entitlement period calculated using the formula in section MD 10, if the person is entitled to the in-work tax credit for the entitlement period:
+    (ii) the amount of child tax credit for the entitlement period calculated using the formula in section MZ 2 (Calculation of child tax credit), if the person is not entitled to the in-work tax credit for the entitlement period, and is entitled to the child tax credit for the entitlement period under section MZ 1 (Entitlement to child tax credit):
   (c) parental tax credit is the amount of parental tax credit for the entitlement period calculated using the formula in section MD 12:
-  (d) family credit abatement is the amount of family credit abatement for the entitlement period calculated using the formula in section MD 13.
+  (d) credit abatement is the total amount, for the entitlement period, of—
+    (i) a family credit abatement calculated using the formula in section MD 13(2) other than an amount used as described in section MD 16(3)(b); and
+    (ii) a parental tax credit abatement calculated using the formula in section MD 16(2).
 Extra instalment
 (4) This section is overridden by section 80KW of the Tax Administration Act 1994.
 
 ### MD 2 Calculating net contributions to credits
 When this section applies
-(1) This section applies when the Commissioner calculates the amounts making up the family support, the in-work payment, the child tax credit, and the parental tax credit that relate to a period under this subpart.
+(1) This section applies when the Commissioner calculates the amounts making up the family tax credit, the in-work tax credit, the child tax credit, and the parental tax credit that relate to a period under this subpart.
 Calculating net contributions
 (2) The Commissioner must—
-  (a) treat the family support, in-work payment, the child tax credit, and the parental tax credit as tax credits corresponding to the period; and
+  (a) treat the family tax credit, the in-work tax credit, the child tax credit, and the parental tax credit as tax credits corresponding to the period; and
   (b) treat as a debit the amount of family credit abatement corresponding to the period; and
   (c) apply the amount of the family credit abatement corresponding to the period,—
-    (i) first, to reduce the amount of the family support corresponding to the period; and
-    (ii) second, to reduce the amount of the in-work payment or, as applicable, the child tax credit corresponding to the period; and
+    (i) first, to reduce the amount of the family tax credit corresponding to the period; and
+    (ii) second, to reduce the amount of the in-work tax credit or, as applicable, the child tax credit corresponding to the period; and
     (iii) third, to reduce the amount of the parental tax credit corresponding to the period.
+Credit abatements
+(3) Section MD 16 overrides this section in relation to the amount of the family credit abatement and the parental tax credit abatement.
 
-**Family support**
+**Family tax credit**
 
-### MD 3 Calculation of family support
+### MD 3 Calculation of family tax credit
 Entitlement
-(1) A person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?) is entitled to an amount of family support calculated using the formula in subsection (2).
+(1) A person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?) is entitled to an amount of family tax credit calculated using the formula in subsection (2).
 Formula
 (2) The formula is—
 Definition of items in formula
@@ -24893,28 +26036,28 @@ Days
 Order in Council increasing amount
 (6) In subsection (4)(a)(i) and (ii), and (b)(i) to (iii), the amount referred to may be increased as prescribed by the Governor-General by Order in Council under section MF 7 (Orders in Council).
 When another person cares for dependent child
-(7) Family support must be reduced in proportion to the time in the entitlement period that a dependent child spends in the exclusive care of another person who qualifies under section MC 2.
+(7) A family tax credit must be reduced in proportion to the time in the entitlement period that a dependent child spends in the exclusive care of another person who qualifies under section MC 2.
 
-**In-work payment**
+**In-work tax credit**
 
-### MD 4 Entitlement to in-work payment
+### MD 4 Entitlement to in-work tax credit
 Requirements
-(1) A person is entitled to an in-work payment for a child if, for an entitlement period, the person meets the 5 requirements of sections MD 5 to MD 9.
-When another person entitled to in-work payment or child tax credit
-(2) If 2 persons are entitled to an in-work payment or a child tax credit for a child for an entitlement period, the entitlement of each is not affected by the entitlement of the other person.
+(1) A person is entitled to an in-work tax credit for a child if, for an entitlement period, the person meets the 5 requirements of sections MD 5 to MD 9.
+When another person entitled to in-work tax credit or child tax credit
+(2) If 2 persons are entitled to an in-work tax credit or a child tax credit for a child for an entitlement period, the entitlement of each is not affected by the entitlement of the other person.
 
 ### MD 5 First requirement: person’s age
-The first requirement for an entitlement to an in-work payment is that the person referred to in section MD 4 is 16 or older.
+The first requirement for an entitlement to an in-work tax credit is that the person referred to in section MD 4 is 16 or older.
 
 ### MD 6 Second requirement: principal care
 When child financially dependent
-(1) The second requirement for an entitlement to an in-work payment is that the person referred to in section MD 4 is the principal caregiver for a child who is financially dependent on them.
+(1) The second requirement for an entitlement to an in-work tax credit is that the person referred to in section MD 4 is the principal caregiver for a child who is financially dependent on them.
 Inclusions
 (2) A child for whom payments are made under section 363 of the Children, Young Persons, and Their Families Act 1989, or a child for whom a benefit is paid under section 28 or 29 of the Social Security Act 1964, is treated as financially dependent on the person.
 
 ### MD 7 Third requirement: residence
 Third requirement
-(1) The third requirement for an entitlement to an in-work payment is that the person or child referred to in section MD 4 meets the residence requirements of subsections (2) and (3).
+(1) The third requirement for an entitlement to an in-work tax credit is that the person or child referred to in section MD 4 meets the residence requirements of subsections (2) and (3).
 When person meets residence requirements
 (2) The person meets the residence requirements of subsection (1) if the person—
   (a) is a New Zealand resident who has been both resident and present in New Zealand for a continuous period of 12 months at any time, and is tax resident and resident in New Zealand on the date on which a tax credit arises under section MD 1; and
@@ -24923,14 +26066,14 @@ When child meets residence requirements
 (3) The child meets the residence requirements of subsection (1) if the child is both resident and present in New Zealand for the entitlement period.
 
 ### MD 8 Fourth requirement: person not receiving benefit
-The fourth requirement for an entitlement to an in-work payment is that the person referred to in section MD 4 and their spouse, civil union partner, or de facto partner, do not receive—
+The fourth requirement for an entitlement to an in-work tax credit is that the person referred to in section MD 4 and their spouse, civil union partner, or de facto partner, do not receive—
   (a) an income-tested benefit; or
   (b) a basic grant and an independent circumstances grant made under regulations made under section 193 of the Education Act 1964, section 303 of the Education Act 1989, or an enactment substituted for those sections; or
   (c) a parent’s allowance under section 32(2) of the War Pensions Act 1954.
 
 ### MD 9 Fifth requirement: full-time earner
 Income from employment or compensation
-(1) The fifth requirement for an entitlement to an in-work payment is that either or both the person referred to in section MD 4 and their spouse, civil union partner, or de facto partner, is normally a full-time earner receiving income from a work activity, and derives—
+(1) The fifth requirement for an entitlement to an in-work tax credit is that either or both the person referred to in section MD 4 and their spouse, civil union partner, or de facto partner, is normally a full-time earner receiving income from a work activity, and derives—
   (a) income as set out in subsections (2) and (3) as a fulltime earner; or
   (b) an amount of compensation described in subsection (4).
 Income
@@ -24952,9 +26095,9 @@ Compensation payments for personal injury
 Absence from work due to birth of child
 (5) Despite subsection (1), a person also meets the fifth requirement if they are normally a full-time earner as described in subsection (1)(a) but, in a 1-week period, they do not work, or work less than, the number of hours required to be a full-time earner because of the birth of a child. However, this subsection applies only if the person is entitled to receive the parental tax credit for the child.
 
-### MD 10 Calculation of in-work payment
+### MD 10 Calculation of in-work tax credit
 Entitlement
-(1) A person who meets the requirements of section MD 4 is entitled to an in-work payment calculated using the formula in subsection (2).
+(1) A person who meets the requirements of section MD 4 is entitled to an in-work tax credit calculated using the formula in subsection (2).
 Formula
 (2) The formula is—
 Definition of items in formula
@@ -24963,7 +26106,7 @@ Definition of items in formula
   (b) amount B is $780:
   (c) children is the greater of—
     (i) 3; and
-    (ii) the number of children for whom the person is allowed the in-work payment:
+    (ii) the number of children for whom the person is allowed the in-work tax credit:
   (d) weekly periods—
     (i) for 2 or more entitlement periods forming 1 continuous period, is the number of whole periods of 1 week in the continuous period for which the person or their spouse, civil union partner, or de facto partner has, from the work activity, income to which MD 9(2) refers:
     (ii) for an entitlement period to which paragraph (a) does not apply, is the number of whole periods of 1 week in the entitlement period for which the person or their spouse, civil union partner, or de facto partner has, from the work activity, income to which section MD 9(2) refers.
@@ -25010,7 +26153,7 @@ Definition of items in formula
 Order in Council increasing amount
 (4) In subsection (3)(a), the amount referred to may be increased as prescribed by the Governor-General by Order in Council under section MF 7 (Orders in Council).
 
-**Family credit abatement**
+**Credit abatement**
 
 ### MD 13 Calculation of family credit abatement
 When this section applies
@@ -25022,7 +26165,7 @@ Definition of items in formula
   (a) full-year abatement is,—
     (i) if the person has no spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income for the relationship period containing the entitlement period is more than $35,000, 20 cents for each complete dollar of the excess; or
     (ii) if the person has a spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for the relationship period containing the entitlement period is more than $35,000, 20 cents for each complete dollar of the excess:
-  (b) days is the number of days in the entitlement period excluding the days of any calendar months in which the person receives protected family support as described in section MD 14.
+  (b) days is the number of days in the entitlement period excluding the days of any calendar months in which the person receives protected family tax credit as described in section MD 14.
 When 56-day period includes 31 March
 (4) If a person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?) receives fortnightly instalments of the parental tax credit in a 56-day period that includes 31 March, the formula is applied so that—
   (a) instalments of the parental tax credit received in the first tax year are abated against the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for that tax year; and
@@ -25030,9 +26173,9 @@ When 56-day period includes 31 March
 Order in Council increasing amount
 (5) In subsection (3)(a), the amounts referred to may be increased as prescribed by the Governor-General by Order in Council under section MF 7 (Orders in Council).
 
-### MD 14 Person receiving protected family support
+### MD 14 Person receiving protected family tax credit
 Requirements
-(1) For the purposes of section MD 13(3)(b), a person who receives protected family support for a calendar month in an entitlement period, is a person who, in the calendar month,—
+(1) For the purposes of section MD 13(3)(b), a person who receives protected family tax credit for a calendar month in an entitlement period, is a person who, in the calendar month,—
   (a) has no spouse, civil union partner, or de facto partner, receives an income-tested benefit, and derives family scheme income that is less than the amount set out in section MD 13(3)(a)(i):
   (b) has a spouse, civil union partner, or de facto partner, receives an income-tested benefit, and derives family scheme income that together with the family scheme income of their spouse is less in total than the amount set out in section MD 13(3)(a)(ii).
 Annualised equivalent
@@ -25044,17 +26187,30 @@ For the purposes of section MD 14, in the calculation of family scheme income,�
   (b) any income from employment that is derived in the calendar month as a result of an extra pay period that occurs in that month is disregarded; and
   (c) for a person who derives, for part of an income year, income to which section RD 3(2) to (4) (PAYE income payments) applies, or income from a business, the assessable income and any expenditure incurred in deriving that income that is allowed as a deduction are treated as derived and incurred, respectively, at a uniform daily rate throughout that part of the income year.
 
-### Subpart ME — Family tax credit
+### MD 16 Calculation of parental tax credit abatement
+When this section applies
+(1) This section applies when—
+  (a) a person is entitled under section MD 11 to a parental tax credit for a parental entitlement period; and
+  (b) they choose to have the credit paid in a lump sum; and
+  (c) the birth occurs within 56 days of the end of the tax year.
+Amount of abatement
+(2) Despite section MD 2, the amount of the person's parental tax credit abatement for the parental entitlement period is calculated using the formula—full-year abatement ×56– amount used.365
+Definition of items in formula
+(3) In the formula,—
+  (a) full-year abatement has the same meaning as the item full-year abatement in section MD 13(3)(a):
+  (b) amount used means an amount of family credit abatement under section MD 13 for an entitlement period that ends on the last day of the tax year to the extent to which the abatement would be applied under section MD 2(2)(c)(i) and (ii) in calculating a net contribution.
 
-### ME 1 Family tax credit
+### Subpart ME — Minimum family tax credit
+
+### ME 1 Minimum family tax credit
 Tax credit
-(1) A person who qualifies under sections MC 3 to MC 6 (which relate to the qualifying criteria) is entitled to a tax credit (the family tax credit) for an entitlement period equal to an amount calculated using the formula in subsection (2).
+(1) A person who qualifies under sections MC 3 to MC 6 (which relate to the qualifying criteria) is entitled to a tax credit (the minimum family tax credit) for an entitlement period equal to an amount calculated using the formula in subsection (2).
 Formula
 (2) The formula is—
 Definition of items in formula
 (3) In the formula,—
   (a) prescribed amount is $18,044:
-  (b) net family scheme income is the net family scheme income, for a relationship period containing the entitlement period, of—
+  (b) net family scheme income is the net family scheme income, calculated using the formula in section ME 3, for a relationship period containing the entitlement period, of—
     (i) the person; or
     (ii) their spouse, civil union partner, or de facto partner; or
     (iii) the person and their spouse, civil union partner, or de facto partner:
@@ -25066,7 +26222,7 @@ Relationship with section 80KW of the Tax Administration Act 1994
 
 ### ME 2 Meaning of employment for this subpart
 Meaning
-(1) For the purposes of the calculation of a family tax credit, employment in the definition of full-time earner, means the activity of a person that gives rise, or will give rise, to an entitlement to a PAYE income payment other than—
+(1) For the purposes of the calculation of a minimum family tax credit, employment in the definition of full-time earner, means the activity of a person that gives rise, or will give rise, to an entitlement to a PAYE income payment other than—
   (a) a payment of any of the kinds referred to in section RD 5(3) and (6)(b) and (c) (Salary or wages):
   (b) a schedular payment that is a contract payment for a contract activity or service of a non-resident contractor:
   (c) a payment made by a close company to a person who is a major shareholder of the close company:
@@ -25087,12 +26243,29 @@ Considerations
   (c) the circumstances giving rise to the PAYE income payment; and
   (d) any other matters that the Commissioner considers relevant.
 
+### ME 3 Meaning of net family scheme income
+When this section applies
+(1) This section applies for the purposes of this subpart.
+Formula
+(2) Net family scheme income, for a person and a relationship period, means the amount calculated using the formula—adjusted×52–adjusted+amount–amountincomeweeksliabilityreceivedpaid.
+Definition of items in formula
+(3) In the formula,—
+  (a) adjusted income is—
+    (i) the amount of the person's net income under section MB 1 (Adjustments for calculation of family scheme income) for the tax year in which the relationship period falls to the extent to which the amount is attributable to the weeks in the relationship period for which the person is a fulltime earner; and
+    (ii) calculated without reference to the amounts referred to in section MB 1(2) and (3):
+  (b) weeks is the number of weeks in the relationship period for which the person is a full-time earner:
+  (c) adjusted liability is the amount that would be the person's income tax liability—
+    (i) treating the amount of adjusted income under paragraph (a) as if it were the person's net income; and
+    (ii) taking into account any tax credit under section LC 1 or LC 2 (which relate to tax credits for persons on low incomes):
+  (d) amount received is the amount referred to in section MB 1(2) for the tax year:
+  (e) amount paid is the amount of the deduction referred to in section MB 1(3) for the tax year.
+
 ### Subpart MF — Payment of credits
 
 ### MF 1 Application for payment of tax credit by instalment
 When this section applies
 (1) This section applies when—
-  (a) a person who is a principal caregiver expects to be entitled, throughout a selected period, to a tax credit under section MD 1 (Family assistance credit) or, as applicable, sections MD 1 and ME 1 (Family tax credit); and
+  (a) a person who is a principal caregiver expects to be entitled, throughout a selected period, to a tax credit under section MD 1 (Abating WFF tax credit) or, as applicable, sections MD 1 and ME 1 (Minimum family tax credit); and
   (b) section MF 2 does not apply to the person; and
   (c) the person wants the tax credit to be paid by instalment before the end of the tax year that contains the selected period.
 Application
@@ -25107,19 +26280,19 @@ When this section applies
     (i) expects that in a relationship period they will be entitled to receive an income-tested benefit; or
     (ii) applies under section 80KP of the Tax Administration Act 1994 to the chief executive for payment of a tax credit for a period after an income-tested benefit has ended; and
   (b) the chief executive—
-    (i) is authorised by section 80KN of that Act to pay a family assistance credit to the person; and
+    (i) is authorised by section 80KN of that Act to pay an abating WFF tax credit to the person; and
     (ii) does not ask the Commissioner under section 80KQ of that Act to accept from the person an application for a notice of entitlement.
 No entitlement
 (2) The person is not entitled to apply under section MF 1 for the payment of the tax credit by instalment for the relationship period, and section 80KN applies.
 
-### MF 3 Calculating amount of interim family assistance credit
+### MF 3 Calculating amount of interim WFF tax credit
 When this section applies
 (1) This section applies when the Commissioner receives an application under section MF 1 and is required under section 80KD(2) of the Tax Administration Act 1994 to determine the amount of the tax credit to which the person applying would be entitled.
 Method for determining family assistance credit
 (2) The Commissioner must—
   (a) calculate an amount (the annual amount) using the formula in subsection (3); and
   (b) ascertain the amount (amount A) that, in schedule 31, column 2 (Annualised equivalent amount for Part M) is the equivalent of the annual amount represented in schedule 31, column 1; and
-  (c) calculate the family assistance credit that the person would be entitled to for the tax year in which the calculation period falls if the family scheme income of the person for the calculation period were equal to amount A.
+  (c) calculate the WFF tax credit that the person would be entitled to for the tax year in which the calculation period falls if the family scheme income of the person for the calculation period were equal to amount A.
 Formula
 (3) The formula is—
 Definition of items in formula
@@ -25129,17 +26302,17 @@ Definition of items in formula
 
 ### MF 4 Requirements for calculating instalment of tax credit
 How to calculate instalment
-(1) The Commissioner must calculate the amount of an instalment by way of tax credit under section MD 1 (Family assistance credit) or, as applicable, sections MD 1 and ME 1 (Family tax credit)—
+(1) The Commissioner must calculate the amount of an instalment by way of tax credit under section MD 1 (Abating WFF tax credit) or, as applicable, sections MD 1 and ME 1 (Minimum family tax credit)—
   (a) as if the calculation period referred to in section MF 3 were a relationship period; and
   (b) using—
     (i) a value for family scheme income as directed by section MF 3(2)(c); and
-    (ii) the amounts of family support, in-work payment, child tax credit, parental tax credit, family credit abatement, and family tax credit set out in sections MD 3, MD 4, MD 11, MD 12, and ME 1 (which relate to credits).
+    (ii) the amounts of family tax credit, in-work tax credit, child tax credit, parental tax credit, family credit abatement, and minimum family tax credit set out in sections MD 3, MD 4, MD 11, MD 12, and ME 1 (which relate to credits).
 Instalment shown in complete dollars
 (2) An instalment of a tax credit under section MD 1 or, as applicable, sections MD 1 and ME 1, is to be shown in a notice of entitlement in complete dollars.
 
 ### MF 5 Recovery of overpaid tax credit
 When this section applies
-(1) This section applies when the Commissioner considers that the amount of a tax credit under section MD 1 (Family assistance credit) or ME 1 (Family tax credit) set off or refunded to a person for a tax year is more than the proper amount.
+(1) This section applies when the Commissioner considers that the amount of a tax credit under section MD 1 (Abating WFF tax credit) or ME 1 (Minimum family tax credit) set off or refunded to a person for a tax year is more than the proper amount.
 Recovery of overpayment
 (2) The Commissioner may recover the excess as if it were income tax payable by—
   (a) the person; or
@@ -25153,7 +26326,7 @@ Shortfall penalties
 ### MF 6 Overpayment of tax credit
 When this section applies
 (1) This section applies when—
-  (a) an entitlement to a tax credit arises under section MD 1 (Family assistance credit) or ME 1 (Family tax credit) in a tax year; and
+  (a) an entitlement to a tax credit arises under section MD 1 (Abating WFF tax credit) or ME 1 (Minimum family tax credit) in a tax year; and
   (b) the instalment of the estimated tax credit, or the total of those instalments, is more than the tax credit, or the total of all tax credits, to which the person is entitled for the tax year under the family scheme; and
   (c) the Commissioner—
     (i) gives a person a notice of entitlement for the tax year because an instalment of the estimated tax credit has been paid to the person during the tax year; or
@@ -25166,12 +26339,12 @@ Tax payable
 ### MF 7 Orders in Council
 What may be done by Order in Council
 (1) The Governor-General may, by Order in Council,—
-  (a) increase the amounts appearing as items in the formulas for family support listed in section MD 3(3) (Calculation of family support) and the amount of the threshold set out in MD 13(3) (Calculation of family credit abatement) by amounts that—
+  (a) increase the amounts appearing as items in the formulas for family tax credit listed in section MD 3(3) (Calculation of family tax credit) and the amount of the threshold set out in MD 13(3) (Calculation of family credit abatement) by amounts that—
     (i) correspond to the movement in the quarterly all groups index number of the New Zealand Consumers Price Index:
     (ii) are rounded up to the nearest whole dollar, without affecting the calculation of later increases made under this paragraph:
-  (b) increase the amounts appearing as items in the formula for the in-work payment set out in section MD 10(3) (Calculation of in-work payment):
+  (b) increase the amounts appearing as items in the formula for the in-work tax credit set out in section MD 10(3) (Calculation of in-work tax credit):
   (c) increase the amount appearing as an item in the formula for the parental tax credit set out in section MD 12(3) (Calculation of parental tax credit):
-  (d) increase the amount appearing as an item in the formula for the family tax credit in section ME 1(3) (Family tax credit):
+  (d) increase the amount appearing as an item in the formula for the minimum family tax credit in section ME 1(3) (minimum family tax credit):
   (e) replace schedule 31 (Annualised equivalent amount for Part M).
 Order in Council under subsection (1)(a): requirements
 (2) An Order in Council under subsection (1)(a),—
@@ -25179,8 +26352,8 @@ Order in Council under subsection (1)(a): requirements
   (b) in the case of a subsequent Order in Council under subsection (1)(a), must be made when the total percentage increase in the movements in the quarterly all groups index number of the New Zealand Consumers Price Index measured from that applying on the date when the requirement to make the immediately preceding adjustment arose is 5% or more.
 Timing of Order in Council
 (3) An Order in Council made under this section must be made no later than 1 December in each year and must apply from 1 April following that date.
-Review of in-work payment and parental tax credit
-(4) The Minister responsible for the Inland Revenue Department, in consultation with the Minister responsible for the department currently responsible for administering the Social Security Act 1964, must cause a review to be undertaken of the amounts of the in-work payment and the parental tax credit allowable under subparts MB to MF and MZ.
+Review of in-work tax credit and parental tax credit
+(4) The Minister responsible for the Inland Revenue Department, in consultation with the Minister responsible for the department currently responsible for administering the Social Security Act 1964, must cause a review to be undertaken of the amounts of the in-work tax credit and the parental tax credit allowable under subparts MB to MF and MZ.
 Timing of review
 (5) A review undertaken under subsection (4) must occur,—
   (a) in the case of the first review, not later than 30 June 2008; and
@@ -25188,17 +26361,21 @@ Timing of review
 
 ### Subpart MK — Tax credits for KiwiSaver schemes and complying superannuation funds
 
-### MK 1 What this subpart does
-Tax credits
-(1) This subpart sets out the tax credits that the trustees of a KiwiSaver scheme or a complying superannuation fund have for the amount of a person’s superannuation contributions to the scheme or fund. For the subpart to apply, the person must meet the requirements of MK 2.
-Calculation for year
-(2) A tax credit under this subpart is calculated for a year that begins on 1 July and ends on 30 June.
+### MK 1 Tax credits for superannuation contributions
+Tax credits for members paid to fund providers
+(1) A fund provider of a person's KiwiSaver scheme or a complying superannuation fund has a tax credit equal to an amount calculated under section MK 4 for a member credit contribution to the scheme or fund. Section MK 2 imposes some eligibility requirements in relation to the person.
+Tax credits for employers
+(2) An employer who makes an employer contribution on behalf of an employee to a KiwiSaver scheme or a complying superannuation fund for a payment period has a tax credit for the period equal to an amount calculated under section MK 10 for the amount of their contribution. The employer must meet the requirements of section MK 9.
+Calculations: fund providers
+(3) A tax credit referred to in subsection (1) is calculated for a year that begins on 1 July and ends on 30 June.
+Calculations: employers
+(4) A tax credit referred to in subsection (2) is calculated for a payment period.
 
 ### MK 2 Eligibility requirements
-Requirements
-(1) The person referred to in section MK 1 must meet the following requirements at the time the tax credit is calculated:
+Requirements for person
+(1) For the purposes of section MK 1(1), the requirements for the person at the time the tax credit is calculated are the following:
   (a) they must be 18 years or older; and
-  (b) they must be a member of a KiwiSaver scheme or a complying superannuation fund to which they have made a contribution described in section MK 3(1); and
+  (b) they must have a creditable membership of a complying superannuation fund or a KiwiSaver scheme; and
   (c) they must not be entitled under schedule 1, clause 4(3) of the KiwiSaver Act 2006 or an equivalent provision to withdraw an amount from the scheme or fund; and
   (d) they must reside mainly in New Zealand, or otherwise they must—
     (i) be an employee of the State services under the State Sector Act 1988 serving outside New Zealand; or
@@ -25208,31 +26385,39 @@ Evidence
 
 ### MK 3 Payment of tax credits
 When this section applies
-(1) This section applies when a person contributes an amount as a superannuation contribution to a KiwiSaver scheme or a complying superannuation fund, other than—
-  (a) an employer’s superannuation contribution; or
-  (b) a contribution withdrawn under a mortgage diversion facility provided for in regulations made under section 229 of the KiwiSaver Act 2006.
+(1) This section applies when a member credit contribution is made to a KiwiSaver scheme or a complying superannuation fund.
 Payment
-(2) The Commissioner must pay a tax credit to the trustees of the scheme or fund (the fund provider) to which the person has contributed. The amount of the tax credit is calculated under section MK 4.
+(2) The Commissioner must pay a tax credit to the trustees of the scheme or fund (the fund provider) to which the person has contributed. The amount of the tax credit is calculated under section MK 4. Subsection (5) overrides this subsection.
 Full amount paid
-(3) The Commissioner must pay the full amount of the tax credit by direct credit to the fund provider without subtracting any amount that the person or fund provider may be obliged to pay to the Commissioner.
-When more than 1 fund provider
-(4) If the person has more than 1 fund provider, the tax credit must be paid on a pro rata basis.
+(3) The Commissioner must pay the full amount of the tax credit by direct credit to the fund provider without subtracting any amount that the person or fund provider may be obliged to pay to the Commissioner. Subsection (5) overrides this subsection.
+Payment
+(4) The Commissioner must pay the amount of the tax credit to the fund provider within 30 working days of the provider filing a claim form under section 68C(3) or (4) of the Tax Administration Act 1994.
+Exception: payment to person or another provider
+(5) Despite subsections (2) and (3), the Commissioner may pay the amount of the tax credit as follows:
+  (a) to the person, if it would be impossible or impractical to pay it to the person's fund provider because either the person has no fund provider, or because the person has died or has suffered a serious illness as defined in schedule 1, clause 12(3) of the KiwiSaver Act 2006; or
+  (b) to a fund provider (provider B) other than the fund provider referred to in subsections (2) and (3), if the fund provider asks for the payment to be made to provider B because the person is transferring or has transferred to provider B.
 
 ### MK 4 Amount of tax credit
-Amount
-(1) The amount of a tax credit paid under section MK 3(2) is calculated using the formula—
-Definition of items in formula
-(2) In the formula,—
-  (a) base amount is the lesser of—
-    (i) the total amount of a person’s contributions under this subpart to all KiwiSaver schemes and complying superannuation funds for the year beginning on 1 July and ending on 30 June:
-    (ii) $1,042.86:
-  (b) days is the number of days in the year referred to in paragraph (a)(i) on which the person meets the requirements of section MK 2.
+What this section does
+(1) This section sets out how to calculate the amount of a tax credit paid to a fund provider under section MK 3(2) for a year described in section MK 1(3).
+Amount of credit for year
+(2) The amount of the tax credit is an amount equal to a person's total member credit contributions for the year for all of their complying superannuation funds and KiwiSaver schemes up to a maximum amount of $1042.86.
+Part-year equivalents: amount of tax credit
+(3) Despite subsection (2), if the person meets the requirements of section MK 2 for only part of the year, the amount of the tax credit is,—
+  (a) for a person whose member credit contributions for the year are equal to or less than the part-year maximum amount calculated under subsection (4), an amount equal to their total contributions for the year; or
+  (b) for a person whose member credit contributions for the year are greater than the part-year maximum amount calculated under subsection (4), the part-year maximum amount.
+Part-year equivalents: maximum amount
+(4) The part-year maximum amount referred to in subsection (3) is calculated using the formula—$1042.86 ×days365.
+Definition of item in formula
+(5) In the formula, days is the number of days in the year in which the person meets the requirements of section MK 2.
+Parts of years
+(6) In subsection (3), a part of the year may include 1 or more periods of the year in which the person meets the relevant requirements and, if there are several periods, for the purposes of the item days in the formula, the days in those periods are added together.
 
 ### MK 5 Crown contributions for members
 A tax credit paid to a person’s fund provider under section MK 3 is treated as a Crown contribution for the person, and the KiwiSaver scheme rules and complying fund rules, as applicable, apply to the amount.
 
 ### MK 6 Credit given by fund providers
-A fund provider who receives a tax credit under section MK 3 must credit the relevant person with the amount which must vest in the person immediately after it is paid to the fund provider. The amount must be credited on a pro rata basis across the investment products to which the person has subscribed or been allocated as a member of a KiwiSaver scheme or complying superannuation fund.
+A fund provider who receives a tax credit under section MK 3 must credit the relevant person with the amount which must vest in the person immediately after it is paid to the fund provider. The provider must use the contribution allocation for a member to credit the amount of the tax credit on a pro rata basis across the investment products to which the person has subscribed or been allocated as a member of a KiwiSaver scheme or complying superannuation fund.
 
 ### MK 7 Amounts paid in excess
 Despite section MK 6, a fund provider is treated as having the amount of a tax credit paid under section MK 3 for the purposes of recovering any amount paid in excess of that properly payable. For the purposes of this section, the fund provider may subtract an amount from a person’s account to pay the Commissioner the excess amount.
@@ -25242,11 +26427,110 @@ When this section applies
 (1) This section applies in the case of a permanent emigration from New Zealand when a person for whom a tax credit has been paid asks their fund provider after their emigration to withdraw or transfer from their KiwiSaver scheme or complying superannuation fund under schedule 1, clause 14 of the KiwiSaver Act 2006 or an equivalent provision.
 Payment to Commissioner
 (2) The fund provider must pay to the Commissioner as soon as practicable the lesser of—
-  (a) the amount of the tax credit for the person:
+  (a) the amount of the tax credit paid for the person and held by the provider:
   (b) the amount of member’s accumulation, as defined in the KiwiSaver Act 2006 for the person for a KiwiSaver scheme:
   (c) the amount of employee’s superannuation accumulation for the person for a complying superannuation fund.
 Recovery
 (3) If the fund provider does not pay the amount under subsection (2) as soon as practicable, they are treated as having an amount of tax credit paid in excess of that properly payable.
+
+### MK 9 Eligibility requirements
+What is required
+(1) For the purposes of section MK 1(2), an employer must—
+  (a) pay an amount of employer contribution in relation to an employee who—
+    (i) is aged 18 or over; and
+    (ii) is not entitled to withdraw an amount from a fund or scheme under schedule 1, clause 4(3) of the KiwiSaver scheme rules in the KiwiSaver Act 2006 or a rule that is the same as that clause; and
+  (b) provide details of the amount of the tax credit relating to the employee in an employer monthly schedule or PAYE payment form; and
+  (c) meet 1 of the requirements of section 6(2) of the KiwiSaver Act 2006.
+When details not required
+(2) Subsection (1)(b) does not apply if the employer has—
+  (a) an unpaid amount of compulsory employer contribution referred to in a notice under section 101I(5) of the KiwiSaver Act 2006; or
+  (b) an amount of short payment under Part 3, subpart 3 of that Act.
+
+### MK 10 Amount of credit
+Amount of contributions or calculation
+(1) For a payment period, the amount of a tax credit under section MK 1(2) is equal to the lesser of—
+  (a) the amount of the employer contributions for the employee for the period; and
+  (b) the amount calculated using the formula—$20 × weeks in payment period.
+Definition of item in formula
+(2) In the formula, weeks in payment period is the number of weeks in the payment period for the payment of the employee's salary or wages, in which the employee meets the requirements of section MK 9(1)(a), including weeks in the payment period in which the employer does not pay an amount of employer contribution. Parts of a week are expressed as a decimal.
+Meaning of payment period
+(3) In this section and in sections MK 11 to MK 13, payment period means a first payment period, a second payment period, or a month, as applicable, in which PAYE is withheld in relation to the employee.
+
+### MK 11 When tax credits arise
+A tax credit referred to in section MK 10 arises—
+  (a) for an employer who provides details of the amount of the credit under section MK 9(1)(b),—
+    (i) on the end date for the payment period under section RA 15(3)(a) (Payment dates for interim and other tax payments) if the employer is not a private domestic worker:
+    (ii) on the date referred to in section RA 10(3) (When obligations not met) if the employer is a private domestic worker:
+  (b) for an employer to whom section MK 9(2) applies, on the day the Commissioner—
+    (i) receives the notice referred to in section 101I(5) of the KiwiSaver Act 2006; or
+    (ii) determines that the employer has an amount of short payment under Part 3, subpart 3 of that Act.
+
+### MK 12 Using tax credits
+Commissioner's use of credits
+(1) The Commissioner must use a tax credit referred to in section MK 10—
+  (a) first, to pay—
+    (i) an amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006 relating to a compulsory employer contribution for a payment period; or
+    (ii) to the fund provider of the complying superannuation fund, an amount equal to an unpaid amount of a compulsory employer contribution referred to in a notice under section 101I(5) of that Act:
+  (b) second, to pay an employer contribution:
+  (c) third, to pay an amount payable for the payment period by the employer to the Commissioner under an Inland Revenue Act:
+  (d) fourth, to pay an amount that is payable by the employer to the Commissioner under an Inland Revenue Act:
+  (e) fifth, to treat a tax credit as overpaid tax refundable under section RM 2 (Refunds for overpaid tax).
+Treatment of tax credit used
+(2) An amount of tax credit used or paid under subsection (1)(a) is treated as an amount of compulsory employer contribution—
+  (a) received by the Commissioner for a payment period, for the purposes of calculating an amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006:
+  (b) consequentially reducing a relevant amount of a compulsory employer contribution remaining unpaid, for the purposes of section 101K of that Act:
+  (c) received by the Commissioner for the purposes of section 74 of that Act.
+
+### MK 13 When short payment and unpaid compulsory employer contributions found after tax credit used
+When this section applies
+(1) This section applies when—
+  (a) the Commissioner uses an amount of a tax credit under either or both section MK 12(1)(b) and (c); and
+  (b) following that use, for the payment period to which the amount of tax credit relates, there arises—
+    (i) an amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006:
+    (ii) an unpaid amount of compulsory employer contribution referred to in a notice under section 101I(5) of that Act.
+Employer's liability
+(2) The employer is liable to pay an amount equal to the lesser of—
+  (a) the amount of the tax credit used:
+  (b) the amount described in subsection (1)(b).
+Treatment as amount of tax
+(3) The amount is treated as an amount of tax for the payment period in which notification of the amount described in subsection (1)(b) is given to the employer, and an equal amount is treated as a tax credit for use under section MK 12(1)(a).
+
+### MK 14 Employees opting out
+When an employee opts out under the KiwiSaver Act 2006, the amount of a tax credit for an employer contribution for the employee's salary or wages is treated as an amount of a tax credit paid in excess of that properly payable under this subpart.
+
+### MK 15 Groups of persons
+For the purposes of this subpart, a group of persons described in 1 of the following paragraphs is treated as 1 employer:
+  (a) 2 or more companies, if the companies are a group of companies; and
+  (b) all partners in a partnership; and
+  (c) all persons in whom property has become vested, or to whom the control of property has passed in the case of an estate of a deceased person, or a trust, or a company in liquidation, or an assigned estate, or other case in which property is vested or controlled in a fiduciary capacity.
+
+### MK 16 Private domestic workers
+For the purposes of this subpart, a private domestic worker who is an employer under paragraph (c) of the definition of employer in section 4 of the KiwiSaver Act 2006 is treated as paying salary or wages to themselves in the capacity of employee.
+
+### Subpart ML — Tax credits for redundancy payments
+
+### ML 1 What this subpart does
+Redundancy payments
+(1) This subpart provides a tax credit for a person who derives a redundancy payment for loss of employment.
+Exclusions
+(2) Despite subsection (1), no tax credit arises for a redundancy payment—
+  (a) related to—
+    (i) retirement from employment:
+    (ii) loss of seasonal employment arising from the normal seasonal work cycle:
+    (iii) a contract of employment for a fixed term or for the duration of a project:
+    (iv) employment for a period following notice of termination of employment:
+  (b) paid—
+    (i) to a director of a company by the company or a person associated with the company under the 1988 version provisions:
+    (ii) to a person by a person associated with them under the 1988 version provisions:
+    (iii) by a person to an employee who has been paid a redundancy payment by a person associated with the person under the 1988 version provisions.
+
+### ML 2 Tax credit for redundancy payments
+A person who derives a redundancy payment for loss of employment has a tax credit for a tax year of an amount equal to the lesser of—
+  (a) $3600:
+  (b) an amount of 6 cents for every complete dollar of the total amount of the redundancy payment derived by the person.
+
+### ML 3 Payment by Commissioner
+The person referred to in section ML 2 must apply under section 41B of the Tax Administration Act 1994 to the Commissioner for payment of the tax credit.
 
 ### Subpart MZ — Terminating provisions
 
@@ -25254,11 +26538,11 @@ Recovery
 When this section applies
 (1) This section applies when—
   (a) a person is claiming or receiving a child tax credit for a child for an entitlement period ending on 31 March 2006; and
-  (b) the person is not entitled to an in-work payment under section MD 4 (Entitlement to in-work payment).
+  (b) the person is not entitled to an in-work tax credit under section MD 4 (Entitlement to in-work tax credit).
 Entitlement
 (2) If the person maintains continuously their entitlement after 31 March 2006, they remain entitled to receive the child tax credit for entitlement periods after that date.
 When another person entitled to credit
-(3) If 2 persons are entitled to an in-work payment or a child tax credit for a child for an entitlement period, the amount to which each is entitled is not affected by the entitlement of the other person.
+(3) If 2 persons are entitled to an in-work tax credit or a child tax credit for a child for an entitlement period, the amount to which each is entitled is not affected by the entitlement of the other person.
 
 ### MZ 2 Calculation of child tax credit
 Entitlement
@@ -25619,7 +26903,9 @@ When this section applies
 Maximum permitted ratio
 (2) A dividend or distribution with a credit attached must not have a ratio for the amount of the credit to the amount of the dividend or distribution that is more than the maximum permitted ratio calculated using the formula—
 Definition of item in formula
-(3) In the formula, tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) for the income year corresponding to the tax year in which the dividend or distribution is paid.
+(3) In the formula, tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the income year corresponding to the tax year in which the dividend or distribution is paid.
+Relationship with sections OZ 8 and OZ 9
+(4) Sections OZ 8 and OZ 9 (which relate to the calculation of maximum permitted ratios in certain income years) may apply to modify this section.
 
 ### Subpart OB — Imputation credit accounts (ICA)
 
@@ -25650,8 +26936,8 @@ When this section applies
 Ineligibility
 (2) Despite meeting the residency requirements, a company is not eligible to make an election referred to in subsection (1) if—
   (a) the company—
-    (i) is a company referred to in section OB 1(2)(a)(ii) to (iv), and (c) to (e); or
-    (ii) is treated by a double tax agreement as resident in a country other than New Zealand or Australia for a taxation purpose in New Zealand or Australia; or
+    (i) is a company referred to in section OB 1(2)(a)(ii) to (iv), and (b) to (f); or
+    (ii) is treated as resident in a country other than Australia under an agreement between Australia and the other country that would be a double tax agreement if negotiated between New Zealand and that other country; or
   (b) an earlier election has been revoked by the Commissioner under subsection (7)(b), and the company has not shown the Commissioner that it has taken adequate steps to prevent the grounds of revocation occurring again.
 Election, and when status starts
 (3) The election is made by notifying the Commissioner, and the company must maintain an imputation credit account from the following date, as applicable:
@@ -25700,6 +26986,7 @@ No credit
   (c) income tax paid by a life insurer subject to section EY 48 (Non-resident life insurers with life insurance policies in New Zealand) to satisfy its policyholder base income tax liability; or
   (d) income tax paid under sections LA 2 and LE 1 (which relate to tax credits for imputation credits and their use) by crediting an imputation credit; or
   (e) income tax paid under sections LA 2 and LF 1 (which relate to tax credits for FDP credits and their use) by crediting a foreign dividend payment (FDP) credit; or
+  (eb) income tax paid by a tax credit under LA 2 and LH 2 (which relate to tax credits for research and development and their use); or
   (f) income tax paid by a tax credit under subpart LP (Tax credits for supplementary dividends); or
   (g) further income tax applied under section OB 69 to pay income tax or provisional tax; or
   (h) income tax paid under section OE 7 (BETA payment of income tax) by crediting a branch equivalent tax credit; or
@@ -25734,6 +27021,22 @@ Table reference
 (2) The imputation credit in subsection (1) is referred to in table O1: imputation credits, row 5 (payment of further income tax).
 Credit date
 (3) The credit date is the day the further income tax is paid.
+
+### OB 7B ICA payment of qualifying company election tax
+Credit
+(1) An ICA company has an imputation credit for an amount of qualifying company election tax paid under section HA 40 (Liability for qualifying company election tax).
+Table reference
+(2) The imputation credit in subsection (1) is referred to in table O1: imputation credits, row 5B (payment of qualifying company election tax).
+Credit date
+(3) The credit date is the day the qualifying company election tax is paid.
+
+### OB 7C ICA expenditure on research and development
+Credit
+(1) An ICA company has an imputation credit for an amount of a tax credit that the company has under section LH 2 (Tax credits relating to expenditure on research and development).
+Table reference
+(2) The imputation credit in subsection (1) is referred to in table O1: imputation credits, row 5C (tax credit for research and development expenditure).
+Credit date
+(3) The credit date is the day the Commissioner is notified in the company's return of income of the entitlement to the credit.
 
 ### OB 8 ICA resident withholding tax withheld
 Credit
@@ -25820,7 +27123,7 @@ Credit date
 
 ### OB 16 ICA attribution for personal services
 Credit
-(1) An ICA company that is not a qualifying company has an imputation credit for an amount equal to 49.25% of the personal services attribution under section GB 29 (Attribution rule: calculation).
+(1) An ICA company that is not a qualifying company has an imputation credit for an amount equal to 42.86% of the personal services attribution under section GB 29 (Attribution rule: calculation).
 Table reference
 (2) The imputation credit in subsection (1) is referred to in table O1: imputation credits, row 14 (attribution for personal services).
 Credit date
@@ -25848,7 +27151,7 @@ Credit
 Definition of items in formula
 (2) In the formula,—
   (a) expenditure transferred is the amount of expenditure transferred under sections DV 5 to DV 7 (which relate to the expenditure of investment funds) to the company as a master fund:
-  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits).
+  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
 Table reference
 (3) The imputation credit in subsection (1) is referred to in table O1: imputation credits, row 17 (transfer to master fund).
 Credit date
@@ -26113,11 +27416,11 @@ Avoidance arrangements
 
 ### OB 42 ICA on-market cancellation
 Debit
-(1) When an ICA company acquires its shares in an on-market cancellation, it has an imputation debit for an amount calculated using the formula—
+(1) When an ICA company acquires its shares in an on-market cancellation, it has an imputation debit for an amount calculated using the formula—ASC per share excess ×tax rate1 – tax rate.
 Definitions of items in formula
 (2) In the formula,—
   (a) ASC per share excess is the amount distributed on the on-market cancellation that is more than the amount of the available subscribed capital per share calculated under the ordering rule:
-  (b) RWT rate is the basic rate set out in schedule 1, part D (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) applying at the time of the acquisition.
+  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the tax year in which the acquisition occurs.
 Table reference
 (3) The imputation debit in subsection (1) is referred to in table O2: imputation debits, row 15 (on-market cancellation).
 Negative result
@@ -26127,7 +27430,7 @@ Debit date
 
 ### OB 43 ICA breach of imputation ratio
 Debit
-(1) An ICA company has an imputation debit for a breach of the benchmark dividend rules in section OB 61(5) for an amount calculated using the formula—(net dividends × imputation ratio) &#8722; attached credits.
+(1) An ICA company has an imputation debit for a breach of the benchmark dividend rules in section OB 61(5) for an amount calculated using the formula—(net dividends × imputation ratio) – attached credits.
 Definition of items in formula
 (2) In the formula,—
   (a) net dividends is the total amount of all dividends paid by the company during the tax year, excluding the amount of imputation credits and FDP credits attached to the dividends:
@@ -26164,7 +27467,7 @@ When redemption debit arises
 Calculating amount
 (3) The debit is for the greater of the amounts described in subsections (4) and (6) calculated for the income year in which the company derived the dividend referred to in subsection (2)(b).
 First amount
-(4) The first amount is calculated using the formula—credits attached &#8722; imputation debits.
+(4) The first amount is calculated using the formula—credits attached – imputation debits.
 Definition of items in formula
 (5) In the formula in subsection (4), —
   (a) credits attached is the total amount of all imputation credits and FDP credits attached to dividends derived in the circumstances set out in subsection (2) by the company for the income year:
@@ -26197,7 +27500,7 @@ Debit
 Definition of items in formula
 (2) In the formula,—
   (a) expenditure transferred is the amount of expenditure transferred under sections DV 5 to DV 7 (which relate to expenditure related to investment funds) by the company, as a member fund, to a master fund:
-  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits).
+  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
 Table reference
 (3) The imputation debit in subsection (1) is referred to in table O2: imputation debits, row 19 (transfer from member fund).
 Debit date
@@ -26469,7 +27772,9 @@ Due date
 Liability
 (1) An ICA company is liable to pay further income tax for a debit balance in the company’s imputation credit account when the company stops being an ICA company.
 Due date
-(2) The company must pay the further income tax to the Commissioner by the day the company stops being an ICA company.
+(2) The company must pay the further income tax to the Commissioner—
+  (a) by the day the company stops being an ICA company; or
+  (b) for a company that is no longer an ICA company because it becomes a portfolio investment entity, by the end of the tax year in which it stops being an ICA company.
 Paramount section
 (3) A company that stops being an ICA company on the last day of a tax year is liable to pay further income tax under this section and not under section OB 65.
 
@@ -26484,7 +27789,7 @@ Amount of reduction
 Qualifying companies
 (3) The liability of an ICA company that is a qualifying company for further income tax under sections OB 65 and OB 66 may be reduced under subsection (4) if an imputation debit arises under section OB 32 (table O2: imputation debits, row 4 (refund of income tax)) in the company’s imputation credit account before the end of the tax year for which the liability arises.
 Amount of reduction
-(4) The liability of the qualifying company for further income tax at the end of the tax year referred to in subsection (3) is reduced by an amount calculated using the formula—refunds &#8722; credits.
+(4) The liability of the qualifying company for further income tax at the end of the tax year referred to in subsection (3) is reduced by an amount calculated using the formula—refunds – credits.
 Definition of items in formula
 (5) In the formula,—
   (a) refunds is the total amount of all refunds of income tax paid to the company before the debit balance creating the liability for further income tax referred to in subsection (3) arises:
@@ -26520,7 +27825,7 @@ Tax loss
 Definition of items in formula
 (8) In the formula,—
   (a) further income tax paid is the amount of further income tax paid that is not credited against an income tax liability:
-  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) at the time the further income tax is paid.
+  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) at the time the further income tax is paid.
 Benefit of the loss
 (9) For the purposes of subsection (5), the company may choose that the tax loss is attributed to itself or to another company that is part of the same wholly-owned group of companies.
 When loss is attributed
@@ -26617,7 +27922,7 @@ Total credits attached
 Definition of items in formula
 (5) In the formula in subsection (4),—
   (a) total net dividend is the total amount of the distribution excluding the amount of imputation credit:
-  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) for the income year.
+  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the income year.
 Member’s credits
 (6) The amount of a member’s share of an imputation credit attached under subsection (4) is calculated using the formula—
 Definition of items in formula
@@ -26627,6 +27932,8 @@ Definition of items in formula
   (c) total imputation credit attached is total amount of imputation credit attached to the distribution calculated under subsection (4).
 When producer board chooses not to have deduction
 (8) If a producer board chooses to treat a distribution as a dividend, it is denied a deduction for the amount of the distribution under section DV 18 (Statutory producer boards and co-operative companies).
+Relationship with section OZ 15
+(9) Section OZ 15 (Attaching imputation credits and notional distributions: modifying amounts) may apply to modify subsection (4).
 
 ### OB 74 Statutory producer boards attaching imputation credits to notional distributions
 Election
@@ -26667,13 +27974,15 @@ Calculation of amount
 Definitions of items in formula
 (3) In the formula,—
   (a) credit attached is the amount of imputation credit attached to the member’s distribution:
-  (b) tax rate is the basic rate of income tax for companies set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) for the income year.
+  (b) tax rate is the basic rate of income tax for companies set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the income year.
 When derived
 (4) The member derives the dividend on the date the statutory producer board chooses under section OB 74 to make a notional distribution.
 Returns and information
 (5) For the purposes of this section, the producer board must—
   (a) include the details of the dividend with the return of income filed for the tax year corresponding to the income year in relation to which the distribution was made; and
   (b) retain relevant information to enable the Commissioner to determine whether a later distribution is not a dividend under section CD 26(3) or CD 33(1) (which relate to capital distributions on liquidation or emigration and payments that correspond to notional distributions).
+Relationship with section OZ 15
+(6) Section OZ 15 (Attaching imputation credits and notional distributions: modifying amounts) may apply to modify subsection (2).
 
 ### OB 76 Statutory producer boards attaching FDP credits
 FDP credits attached
@@ -26705,7 +28014,7 @@ Total credit attached
 Definition of items in formula
 (4) In the formula in subsection (3),—
   (a) total net dividend is the total amount of the distribution excluding the amount of imputation credit:
-  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) for the income year.
+  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the income year.
 Shareholder’s credit
 (5) The amount of a shareholder’s share of the imputation credit attached as described in subsection (3) is calculated using the formula—
 Definition of items in formula
@@ -26715,6 +28024,8 @@ Definition of items in formula
   (c) total imputation credit attached is the total amount of imputation credit attached to the distribution calculated under subsection (3).
 When co-operative company chooses not to have deduction
 (7) If a co-operative company chooses to treat a distribution as a dividend, it is denied a deduction under section DV 18 (Statutory producer boards and co-operative companies). The company must notify the Commissioner of an election under this subsection under section OB 82(3) for the election to be effective.
+Relationship with section OZ 15
+(8) Section OZ 15 (Attaching imputation credits and notional distributions: modifying amounts) may apply to modify subsection (3).
 
 ### OB 79 Co-operative companies attaching imputation credits to notional distributions
 Election
@@ -26739,9 +28050,11 @@ Amount
 Definition of items in formula
 (3) In the formula,—
   (a) credit attached is the amount of imputation credit attached to the shareholder’s distribution:
-  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) for the income year.
+  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the income year.
 When derived
 (4) The shareholder derives the dividend on the date the co-operative company chooses under section OB 79 to make a notional distribution.
+Relationship with section OZ 15
+(5) Section OZ 15 (Attaching imputation credits and notional distributions: modifying amounts) may apply to modify subsection (2).
 
 ### OB 81 Co-operative companies attaching FDP credits
 Election
@@ -27029,7 +28342,7 @@ Debit date
 
 ### OC 22 FDPA breach of FDP ratio
 Debit
-(1) An FDPA company has an FDP debit for a breach of the benchmark dividend rules in section OC 28(4) for an amount calculated using the formula—net dividends × FDP ratio &#8722; credits attached.
+(1) An FDPA company has an FDP debit for a breach of the benchmark dividend rules in section OC 28(4) for an amount calculated using the formula—net dividends × FDP ratio – credits attached.
 Definition of items in formula
 (2) In the formula,—
   (a) net dividends is the total amount of all dividends paid by the company during the tax year, excluding imputation credits and FDP credits attached to the dividends:
@@ -27142,12 +28455,14 @@ Definition of items in formula
 Maximum permitted ratio
 (4) A dividend with combined credits attached must not have a combined imputation and FDP ratio that is more than the maximum permitted ratio calculated under section OA 18(2) (Calculation of maximum permitted ratios).
 Breach of combined ratio breach
-(5) A breach of the maximum ratio referred to in subsection (4) gives rise to an excess credit amount that is calculated using the formula—net dividends × (combined ratio &#8722; maximum ratio).
+(5) A breach of the maximum ratio referred to in subsection (4) gives rise to an excess credit amount that is calculated using the formula—net dividends × (combined ratio – maximum ratio).
 Definition of items in formula
 (6) In the formula in subsection (5),—
   (a) net dividends is the amount of dividends paid, excluding FDP credits and the imputation credits:
   (b) combined ratio is the combined imputation and FDP ratio of the dividend:
   (c) maximum ratio is the maximum combined imputation and FDP ratio permitted under subsection (4).
+Relationship with section OZ 8
+(7) Section OZ 8 (Attaching imputation credits and FDP credits: maximum permitted ratio) may apply to modify this section.
 
 **Further FDP**
 
@@ -27215,14 +28530,14 @@ Meaning
 When this section applies
 (1) This section applies for the purposes of section OC 23.
 Meaning
-(2) Maximum deficit debit means the amount calculated using the formula—(shareholder ratio &#8722; policyholder ratio) × net result × (1 &#8722; tax rate).
+(2) Maximum deficit debit means the amount calculated using the formula—(shareholder ratio – policyholder ratio) × net result × (1 – tax rate).
 Definition of items in formula
 (3) In the formula,—
   (a) shareholder ratio is an FDPA company’s shareholder FDP ratio for the FDP reference period:
   (b) policyholder ratio is the company’s policyholder FDP ratio for the FDP reference period:
   (c) net result is the amount of the company’s policyholder income less its policyholder net losses for the FDP reference period under the policyholder base calculation for each tax year:
   (d) tax rate is the basic rate of income tax set out in—
-    (i) schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) if the company is not a Maori authority; or
+    (i) schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) if the company is not a Maori authority; or
     (ii) schedule 1, part A, clause 7 if the company is a Maori authority.
 
 ### OC 37 Meaning of policyholder FDP ratio
@@ -27235,7 +28550,7 @@ Definition of items in formula
   (a) total credits is the total policyholder credits under section OJ 4 (PCA transfer from FDP account) (table O13: policyholder credits, row 3 (transfer from FDP account)) in an FDPA company’s policyholder credit account during the FDP reference period:
   (b) net result is the amount of the company’s policyholder income less the amount of policyholder net losses for the FDP reference period under the policyholder base calculation for each tax year:
   (c) tax rate is the basic rate of income tax set out in—
-    (i) schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) if the company is not a Maori authority; or
+    (i) schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) if the company is not a Maori authority; or
     (ii) schedule 1, part A, clause 7 if the company is a Maori authority.
 
 ### OC 38 Meaning of reduced deficit debit
@@ -27251,7 +28566,7 @@ Definition of items in formula
   (d) PCAC is the total amount of policyholder credits under section OJ 4 (PCA transfer from FDP account) (table O13: policyholder credits, row 3 (transfer from FDP account)) in the company’s policyholder credit account during the FDP reference period:
   (e) net result is the amount of the company’s policyholder income less the amount of policyholder net losses for the FDP reference period under the policyholder base calculation for each tax year:
   (f) tax rate is the basic rate of income tax set out in—
-    (i) schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) if the company is not a Maori authority; or
+    (i) schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) if the company is not a Maori authority; or
     (ii) schedule 1, part A, clause 7 if the company is a Maori authority.
 
 ### OC 39 Meaning of shareholder FDP ratio
@@ -27285,6 +28600,8 @@ Group accounts
 (5) A consolidated group must maintain a group CTR account if a group company is a CTR company.
 Resident shareholder continuity requirements
 (6) The carrying forward of a credit in the company’s CTR account is subject to the resident shareholder continuity requirements of section OD 16.
+Relationship with section OZ 17
+(7) Section OZ 17 (CTRA reductions) may apply to modify the credits and debits arising under this subpart.
 
 ### OD 2 CTR accounts
 General rules
@@ -27495,7 +28812,7 @@ Debit date
 
 ### OD 17 CTRA breach of CTR ratio
 Debit
-(1) A CTR company has a CTR debit for a tax year for a breach of the benchmark dividend rules in section OD 21 for an amount calculated using the formula—(net dividends × CTR ratio) &#8722; credits attached.
+(1) A CTR company has a CTR debit for a tax year for a breach of the benchmark dividend rules in section OD 21 for an amount calculated using the formula—(net dividends × CTR ratio) – credits attached.
 Definition of items in formula
 (2) In the formula,—
   (a) net dividends is the total amount of all dividends paid by the company during the tax year, excluding imputation credits and CTR credits attached to the dividends:
@@ -27580,12 +28897,14 @@ Definition of items in formula
 Maximum permitted ratio
 (4) A dividend with combined credits attached must not have a combined imputation and CTR ratio that is more than the maximum permitted ratio calculated under section OA 18(2) (Calculation of maximum permitted ratios).
 Combined ratio breach
-(5) A breach of the maximum ratio set out in subsection (4) gives rise to an excess credit amount that is calculated using the formula—net dividends × (combined ratio &#8722; maximum ratio).
+(5) A breach of the maximum ratio set out in subsection (4) gives rise to an excess credit amount that is calculated using the formula—net dividends × (combined ratio – maximum ratio).
 Definition of items in formula
 (6) In the formula in subsection (5),—
   (a) net dividends is the amount of the dividend paid, excluding the amount of CTR credit and imputation credit:
   (b) combined ratio is the combined imputation and CTR ratio of the dividend:
   (c) maximum ratio is the maximum combined imputation and CTR ratio permitted under subsection (4).
+Relationship with section OZ 8
+(7) Section OZ 8 (Attaching imputation credits and FDP credits: maximum permitted ratio) may apply to modify this section.
 
 **Payment of FDP and refunds**
 
@@ -27662,6 +28981,8 @@ Group credits and debits
 (5) Certain credits and debits arise in the branch equivalent tax account of a consolidated group and not in the account of a group company.
 Shareholder continuity requirement
 (6) The carrying forward of a credit or a debit in the company’s branch equivalent tax account is subject to the shareholder continuity requirement of section OA 8 (Shareholder continuity requirements for memorandum accounts).
+Relationship with section OZ 16
+(7) Section OZ 16 (BETA reductions) may apply to modify the application of sections OE 6 to OE 16.
 
 ### OE 3 Choosing to become BETA company
 Election
@@ -27694,7 +29015,7 @@ This subpart applies to a person with an attributing interest in a foreign inves
 
 ### OE 6 BETA payment of income tax on foreign income
 Credit
-(1) A BETA company has a branch equivalent tax credit for an amount calculated using the formula—((CFC income for year &#8722; deductions for year) × tax rate) &#8722; foreign tax credits &#8722; debit balances.
+(1) A BETA company has a branch equivalent tax credit for an amount calculated using the formula—((CFC income for year – deductions for year) × tax rate) – foreign tax credits – debit balances.
 Definition of items in formula
 (2) In the formula,—
   (a) CFC income for year is the amount of attributed CFC income derived during the income year corresponding to the tax year referred to in subsection (3):
@@ -27704,7 +29025,7 @@ Definition of items in formula
     (iii) FIF loss; and
     (iv) FIF net loss:
   (c) tax rate is the basic rate of income tax set out in—
-    (i) schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) if the company is not a Maori authority; or
+    (i) schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) if the company is not a Maori authority; or
     (ii) schedule 1, part A, clause 7 if the company is a Maori authority:
   (d) foreign tax credits is the amount of foreign tax credits allowed for the income year corresponding to the tax year referred to in subsection (3) under sections LK 1 to LK 7 (which relate to foreign tax credits of CFCs), as applicable:
   (e) debit balances is the total amount of all debit balances in a branch equivalent tax account applied to satisfy the company’s income tax liability for the income year corresponding to the tax year referred to in subsection (3).
@@ -27723,18 +29044,20 @@ When this section applies
     (ii) by reducing a tax loss; or
     (iii) to reduce an FDP liability under section RG 7 (Reduction of payments for conduit tax relief).
 Group companies
-(2) This section also applies in relation to a BETA company if another company (company B) that is part of the same consolidated group has a debit balance in its branch equivalent tax account that arises in the circumstances set out in subsection (1).
+(2) This section also applies in relation to a BETA company if another company (company B) that is part of the same group of companies has a debit balance in its branch equivalent tax account that arises in the circumstances set out in subsection (1).
 Election
 (3) The company or company B may choose to apply some or all of the debit balance under section BC 8 (Satisfaction of income tax liability) to satisfy an income tax liability in relation to the attributed CFC income. The election is made by recording a credit in the branch equivalent tax account with the debit balance.
+Maximum amount
+(3B) Despite subsection (3) and section OP 101(2) (Consolidated BETA payment of income tax), the amount that may be applied to satisfy the income tax liability must be no more than the amount calculated for the company that has the attributed CFC income under section OE 6(1), treating the item debit balances as zero.
 Credit
-(4) The amount that is applied to satisfy the income tax liability is a branch equivalent tax credit in the company’s branch equivalent tax account.
+(4) The amount that is applied to satisfy the income tax liability is a branch equivalent tax credit in the branch equivalent tax account of the company that made the election under subsection (3).
 Table reference
 (5) The branch equivalent tax credit in subsection (4) is referred to in table O7: branch equivalent tax credits, row 3 (payment of income tax).
 Unused portion treated as tax loss component
 (6) If the amount that is applied to satisfy the income tax liability for attributed CFC income calculated under subsection (8) is more than the total income tax liability, the unused portion is treated as a tax loss component of the company of an amount calculated using the formula—
 Definition of item in formula
 (7) In the formula, tax rate is the basic rate of income tax set out in—
-  (a) schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits), if the company is not a Maori authority; or
+  (a) schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits), if the company is not a Maori authority; or
   (b) schedule 1, part A, clause 7, if the company is a Maori authority.
 Income tax paid
 (8) For the purposes of this section, the income tax liability —
@@ -27745,14 +29068,14 @@ Credit date
 
 ### OE 8 BETA unused amount of debit balance
 When this section applies
-(1) This section applies for the purposes of section OE 7 when an income tax liability of a BETA company is satisfied by applying a debit balance in the company’s branch equivalent tax account, or in the account of another company in the same consolidated group, and an unused portion of the debit balance remains after the income tax liability is satisfied.
+(1) This section applies for the purposes of section OE 7 when an income tax liability of a BETA company is satisfied by applying a debit balance in the company’s branch equivalent tax account, or in the account of another company in the same group of companies, and an unused portion of the debit balance remains after the income tax liability is satisfied.
 Conversion to tax loss
 (2) The unused amount is converted into a tax loss component for the purposes of sections IA 2 to IA 10 (which relate to the treatment of tax losses). The amount of the tax loss component is calculated using the formula—
 Definition of items in formula
 (3) In the formula,—
   (a) unused amount is the amount of the debit balance remaining in the branch equivalent tax account:
   (b) tax rate is the basic rate of income tax set out in—
-    (i) schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) if the company is not a Maori authority; or
+    (i) schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) if the company is not a Maori authority; or
     (ii) schedule 1, part A, clause 7 if the company is a Maori authority.
 Company’s tax loss
 (4) The company that has the tax loss is the company whose income tax liability is satisfied as set out in section OE 7(3).
@@ -27968,7 +29291,7 @@ Effect of election
 
 ### OF 4 ASCA redemption credit
 Credit
-(1) An ASC account company has an ASC credit when the company redeems a share in the company for an amount calculated using the formula—ASC amount &#8722; redemption proceeds.
+(1) An ASC account company has an ASC credit when the company redeems a share in the company for an amount calculated using the formula—ASC amount – redemption proceeds.
 Definition of items in formula
 (2) In the formula,—
   (a) ASC amount is the amount of the available subscribed capital for the redemption calculated under section CD 22(4) (Returns of capital: off-market share cancellations):
@@ -28315,6 +29638,7 @@ No credit
   (a) income tax paid for a tax year before the 2004–05 tax year; or
   (b) income tax paid for income derived when the Maori authority was not a Maori authority; or
   (c) income tax paid by a credit under section LE 1 (Tax credits for imputation credits); or
+  (cb) income tax paid by a tax credit under sections LA 2 and LH 2 (which relate to tax credits for research and development and their use); or
   (d) further income tax applied under section OK 23 to pay income tax or provisional tax.
 Credit date
 (4) The credit date is the day the tax is paid.
@@ -28334,6 +29658,14 @@ Table reference
 (2) The Maori authority credit in subsection (1) is referred to in table O17: Maori authority credits, row 4 (payment of further income tax).
 Credit date
 (3) The credit date is the day the further income tax is paid.
+
+### OK 4B MACA expenditure on research and development
+Credit
+(1) A Maori authority has a Maori authority credit for an amount of a tax credit that the authority has under section LH 2 (Tax credits relating to expenditure on research and development).
+Table reference
+(2) The Maori authority credit in subsection (1) is referred to in table O17: Maori authority credits, row 4B (tax credit for research and development expenditure).
+Credit date
+(3) The credit date is the day the authority's return of income is filed.
 
 ### OK 5 MACA distribution with Maori authority credit
 Credit
@@ -28445,7 +29777,7 @@ Debit date
 
 ### OK 16 MACA breach of Maori authority credit ratio
 Debit
-(1) A Maori authority has a Maori authority debit for a breach in a tax year of the Maori authority credit ratio under section OK 20(3) for an amount calculated using the formula—(net distributions × Maori authority credit ratio) &#8722; credits attached.
+(1) A Maori authority has a Maori authority debit for a breach in a tax year of the Maori authority credit ratio under section OK 20(3) for an amount calculated using the formula—(net distributions × Maori authority credit ratio) – credits attached.
 Definition of items in formula
 (2) In the formula,—
   (a) net distributions is the total amount of all taxable Maori authority distributions made by the Maori authority during the tax year, excluding the amount of Maori authority credits attached to the distributions:
@@ -28620,6 +29952,7 @@ Particular credits
 (2) The credit referred to in subsection (1) is a credit under the following sections and described in the following rows of table O19: imputation credits of consolidated imputation groups:
   (a) section OP 7, row 2 (payment of tax):
   (b) section OP 8, row 3 (deposit in tax pooling account):
+  (bb) section OP 11B, row 6B (tax credit for research and development expenditure):
   (c) section OP 12, row 7 (dividend derived with imputation credit):
   (d) section OP 13, row 8 (dividend derived with FDP credit):
   (e) section OP 14, row 9 (payment of FDP).
@@ -28666,6 +29999,7 @@ No credit
   (d) income tax paid by a life insurer subject to section EY 48 (Non-resident life insurers with life insurance policies in New Zealand) to satisfy the tax year’s policyholder base income tax liability; or
   (e) income tax paid under section LE 1 (Tax credits for imputation credits) by crediting an imputation credit; or
   (f) income tax paid under section LF 1 (Tax credits for FDP credits) by crediting a foreign dividend payment (FDP) credit; or
+  (fb) income tax paid by a tax credit under sections LA 2 and LH 2 (which relate to tax credits for research and development and their use); or
   (g) income tax paid by crediting an amount under subpart LP (Tax credits for supplementary dividends); or
   (h) further income tax applied under section OB 65 or OB 66 (which relate to further income tax) to pay income tax or provisional tax; or
   (i) income tax paid by crediting further income tax under section OB 69(3) (Further income tax paid satisfying liability for income tax).
@@ -28705,6 +30039,14 @@ Table reference
 (2) The imputation credit in subsection (1) is referred to in table O19: imputation credits of consolidated imputation groups, row 6 (payment of further income tax).
 Credit date
 (3) The credit date is the day the further income tax is paid.
+
+### OP 11B Consolidated ICA expenditure on research and development
+Credit
+(1) A consolidated imputation group has an imputation credit for an amount of a tax credit that a group company has under section LH 2 (Tax credits relating to expenditure on research and development).
+Table reference
+(2) The imputation credit in subsection (1) is referred to in table O19: imputation credits of consolidated groups, row 6B (tax credit for research and development expenditure).
+Credit date
+(3) The credit date is the day the return of income relating to the amount, is filed.
 
 ### OP 12 Consolidated ICA dividend derived with imputation credit
 Credit
@@ -29083,7 +30425,7 @@ When redemption debit arises
 Calculating amount
 (3) The debit is for the greater of the amounts described in subsections (4) and (6) calculated for the income year referred to in subsection (8) in which the group company derives the dividend referred to in subsection (2)(b).
 First amount
-(4) The first amount is calculated using the formula—credits attached &#8722; imputation debits.
+(4) The first amount is calculated using the formula—credits attached – imputation debits.
 Definition of items in formula
 (5) In the formula in subsection (4),—
   (a) credits attached is the total amount of all imputation credits and FDP credits attached to dividends derived by the group company in the income year in the circumstances set out in subsection (2):
@@ -29441,6 +30783,8 @@ Consolidated group accounts
 (1) A consolidated group has a group CTR account for a tax year if a group company is a CTR company at a time during the tax year.
 Group company’s status
 (2) Every company that is part of a consolidated group with a CTR account is a CTR company, despite the absence of an election under section OD 1(1) (General rules for companies with CTR accounts) by a group company.
+Relationship with section OZ 17
+(3) Section OZ 17 (CTRA reductions) may apply to modify the credits and debits arising under sections OP 81 to OP 96.
 
 ### OP 79 When credits and debits arise only in CTR group accounts
 Credits only in the group accounts
@@ -29735,12 +31079,14 @@ Particular debits
 (4) The debit referred to in subsection (3) is a debit under the following sections and described in the following rows of table O26: branch equivalent tax debits of consolidated BETA groups:
   (a) section OP 105, row 2 (payment of FDP); and
   (b) section OP 107, row 4 (refund of income tax).
+Relationship with section OZ 16
+(5) Section OZ 16 (BETA reductions) may apply to modify the application of sections OP 100 to OP 108.
 
 **Branch equivalent tax credits of consolidated BETA groups**
 
 ### OP 100 Consolidated BETA payment of income tax on foreign income
 Credit
-(1) A consolidated BETA group has a branch equivalent tax credit for an income year for an amount calculated using the formula—((group CFC income &#8722; group deductions) × tax rate) &#8722; foreign tax &#8722; debit balances.
+(1) A consolidated BETA group has a branch equivalent tax credit for an income year for an amount calculated using the formula—((group CFC income – group deductions) × tax rate) – foreign tax – debit balances.
 Definition of items in formula
 (2) In the formula,—
   (a) group CFC income is the amount of attributed foreign income derived by the consolidated BETA group during the income year:
@@ -29750,7 +31096,7 @@ Definition of items in formula
     (iii) foreign investment fund (FIF) loss; and
     (iv) FIF net loss:
   (c) tax rate is the basic rate of income tax set out in—
-    (i) schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) if the company is not a Maori authority; or
+    (i) schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) if the company is not a Maori authority; or
     (ii) schedule 1, part A, clause 7 if the company is a Maori authority:
   (d) foreign tax is the amount of foreign tax credits allowed under sections LK 1 to LK 7 (which relate to tax credits relating to attributed CFC income), as applicable, relating to the group’s income tax liability for the income year:
   (e) debit balances is the amount of all debit balances in a branch equivalent tax account applied to satisfy the group’s income tax liability for the income year.
@@ -29771,8 +31117,10 @@ When this section applies
     (iii) to reduce an FDP liability under section RG 7 (Reduction of payments for conduit tax relief).
 Election
 (2) The nominated company of the consolidated BETA group may choose to apply some or all of the debit balance to satisfy an income tax liability of the group or of group company B for a tax year that corresponds to the income year referred to in subsection (1).
+Maximum amount
+(2B) Despite subsection (2) and section OE 7(3) (BETA payment of income tax), the amount that may be applied to satisfy the income tax liability must be no more than the amount calculated under section OE 6(1) for the company that has the attributed CFC income or under section OP 100(1) for the consolidated group, in both cases treating the item debit balances as zero.
 Credit
-(3) The amount that is applied to satisfy the income tax liability referred to in subsection (2) is a branch equivalent tax credit in the group’s branch equivalent tax account.
+(3) The amount that is applied to satisfy the income tax liability referred to in subsection (2) is a branch equivalent tax credit in the branch equivalent tax account of the group or group company B, as applicable.
 Table reference
 (4) The branch equivalent tax credit in subsection (3) is referred to in table O25: branch equivalent tax credits of consolidated BETA groups, row 3 (payment of income tax).
 Income tax paid
@@ -29800,7 +31148,7 @@ Definition of items in formula
 (3) In the formula,—
   (a) balance is the amount of the debit balance remaining in the branch equivalent tax account:
   (b) tax rate is the basic rate of income tax set out in—
-    (i) schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) if the company is not a Maori authority; or
+    (i) schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) if the company is not a Maori authority; or
     (ii) schedule 1, part A, clause 7 if the company is a Maori authority.
 Group’s tax loss
 (4) The tax loss belongs to the consolidated group.
@@ -30063,6 +31411,124 @@ Election
 Closing balance
 (3) An opening balance under subsection (2) is treated as the closing balance of the account.
 
+### OZ 7 Memorandum accounts in transitional period
+Sections OZ 8 to OZ 15 apply for a period (the transitional period)—
+  (a) beginning the first day of a person's 2008-09 income year; and
+  (b) ending on 31 March 2010.
+
+### OZ 8 Attaching imputation credits and FDP credits: maximum permitted ratio
+When this section applies
+(1) This section applies when—
+  (a) a company pays a dividend in the transitional period; and
+  (b) the company has a credit balance in its imputation credit account and FDP account from income, expenditure, memorandum account debits, credits, and balances, refunds, tax, tax credits, transfers, amounts withheld, or other items dealt with, arising, or calculated using an old company tax rate.
+Rate applying for transitional period
+(2) If the amount of the imputation credit or FDP credit attached to the dividend is limited by the maximum permitted ratio set out in section OA 18 (Calculation of maximum permitted ratios), the company may choose to treat the item tax rate in the formula in section OA 18(2) as 33%.
+
+### OZ 9 Benchmark dividends: ratio change
+When this section applies
+(1) This section applies when—
+  (a) a company pays a dividend in the transitional period; and
+  (b) the dividend is a later dividend for the purposes of sections OB 61(4) and OC 28(4) (which relate to the benchmark dividend rules), as applicable; and
+  (c) the relevant benchmark dividend—
+    (i) was 1 to which section OZ 8 applied; or
+    (ii) has a ratio of 33/67, for a reason other than the application of section OZ 8.
+When ratio treated as same as ratio for benchmark dividend
+(2) If, in the cases set out in subsection (3), the imputation ratio or FDP ratio of the later dividend is less than that of the relevant benchmark dividend, the ratio is treated as the same as that of the relevant benchmark dividend.
+Cases
+(3) The cases referred to in subsection (2) are the following:
+  (a) in the case of a benchmark dividend described in subsection (1)(c)(i), section OZ 8 does not apply to the later dividend through the lack of a relevant credit balance described in section OZ 8 (1)(b):
+  (b) in the case of a benchmark dividend described in subsection (1)(c)(ii), the later dividend has a ratio of 30/70.
+
+### OZ 10 Modifying ratios for imputation credits and FDP credits
+When this section applies
+(1) This section applies when—
+  (a) a person derives a dividend in the period from 1 October 2007 to 31 March 2010; and
+  (b) the dividend and the imputation credits and FDP credits attached to the dividend, as applicable, have —
+  (i) an imputation ratio greater than 30/70 and less than or equal to 33/67; or
+  (ii) an FDP ratio greater than 30/70 and less than or equal to 33/67; or
+  (iii) a combined imputation and FDP ratio greater than 30/70 and less than or equal to 33/67.
+Ratio applying
+(2) For the purposes of section OA 5(2) and (3) (Credits), if the amount of the imputation credit or FDP credit, as applicable, is limited by the maximum permitted ratio set out in section OA 18 (Calculation of maximum permitted ratios), the relevant ratio is treated as 33/67.
+
+### OZ 11 Tax credits for imputation credits and FDP credits
+When this section applies
+(1) This section applies when—
+  (a) a person derives a dividend in the transitional period; and
+  (b) the dividend, and the imputation credits and FDP credits attached to the dividend, as applicable, have—
+    (i) an imputation ratio greater than 30/70 and less than or equal to 33/67; or
+    (ii) an FDP ratio greater than 30/70 and less than or equal to 33/67; or
+    (iii) a combined imputation and FDP ratio greater than 30/70 and less than or equal to 33/67; and
+  (c) the person is a new tax rate person in the period for the dividend.
+Imputation ratio and FDP ratio
+(2) For a ratio described in subsection (1)(b)(i) or (ii), the amount of the tax credit that the person has is calculated using the formuladividend and credits × 0.30.
+Definition of item in formula
+(3) In the formula in subsection (2), dividend and credits is the amount of the imputation credit or FDP credit, as applicable, included in the person's assessable income for the purposes of section LE 1(1) or LF 1(1) (which relate to tax credits for imputation credits and FDP credits), together with the amount of dividend to which the relevant credit is attached.
+Combined imputation and FDP ratio
+(4) For a ratio described in subsection (1)(b)(iii), the total amount of tax credit that the person has is calculated using the formula—dividend and credits × 0.30.
+Definition of item in formula
+(5) In the formula in subsection (4), dividend and credits is the total amount of the imputation credit and FDP credit included in the person's assessable income for the purposes of section LE 1(1) and LF 1(1), together with the amount of the dividend to which the credits are attached. For the purposes of the calculation of the total tax credit, imputation credits are reduced before FDP credits.
+
+### OZ 12 Tax credits for non-resident investors
+When this section applies
+(1) This section applies when—
+  (a) a company pays or derives a dividend with an imputation credit attached in the transitional period; and
+  (b) the dividend and imputation credit, to the extent to which, in the absence of subpart LP (Tax credits for supplementary dividends),—
+  (i) the combined imputation and FDP ratio is greater than 30/70 and less than or equal to 33/67; or
+  (ii) the imputation ratio is greater than 30/70 and less than or equal to 33/67; and
+  (c) section LP 2(1) (Tax credits for supplementary dividends) applies to the company, or the company is a supplementary dividend holding company.
+When ratio equal to old rate
+(2) For a ratio described in subsection (1)(b)(i) or (ii) that is equal to 33/67, then any tax credit that the company has is calculated using the formula in section LP 2(2), treating 7/10 as 67/120.
+When ratio less than old rate
+(3) For a ratio described in subsection (1)(b)(i) or (ii) that is less than 33/67, then, to the extent to which a part of the amount of the dividend and imputation credit has a ratio of 33/67 through the application of section OZ 8, any tax credit that the company has is calculated using the formula in section LP 2(2), treating 7/10 as 67/120.
+Benchmark calculations
+(4) In the application of sections GB 35, GB 36, OA 18, OB 60, OB 61, OC 28 (which relate to imputation and FDP credit ratios) under section LP 5 (Application of benchmark dividend rules and imputation credit ratio), the provisions apply using the ratio 33/67 and the old company tax rates.
+Relationship with exempt income rules
+(5) If the company derives a dividend to which this section applies, item tax rate in the formula in section LP 8(2) (Relationship with exempt income rules) is treated as 33%, to the extent to which a part of the supplementary dividend was calculated as described in subsection (2) or (3).
+
+### OZ 13 Fully credited dividends: modifying actual ratio
+What this section applies to
+(1) This section applies in the transitional period to a dividend for which, in the absence of this section, the actual ratio under section CD 43(26) (Available subscribed capital (ASC) amount) is greater than 30/70 and less than or equal to 33/67.
+Ratio for calculation
+(2) In the calculation under section CD 43(26), the part of the dividend that is fully credited, the actual ratio is treated as 30/70.
+
+### OZ 14 Dividends from qualifying companies
+When this section applies
+(1) This section applies when—
+  (a) a qualifying company pays a dividend in the transitional period; and
+  (b) section OZ 8 applies to the dividend.
+Exempt income
+(2) In the calculation under section HA 14 (Dividends paid by qualifying companies) the extent to which the dividend is exempt income of the person, item tax rate in the formula in section HA 15(2) (Fully imputed dividends) is treated as 0.33.
+
+### OZ 15 Attaching imputation credits and notional distributions: modifying amounts
+When this section applies
+(1) This section applies when—
+  (a) a statutory producer board or a co-operative company determines to pay a cash distribution or make a notional distribution in the transitional period; and
+  (b) the board or company has a credit balance in its imputation credit account from income, expenditure, memorandum account debits, credits, and balances, refunds, tax, tax credits, transfers, amounts withheld, or other items dealt with, arising, or calculated using an old company tax rate.
+Statutory producer boards' imputation credits
+(2) In the calculation under section OB 73(4) (Statutory producer boards attaching imputation credits to cash distributions), the board may choose to treat item tax rate in the formula as 33%.
+Statutory producer boards' notional distributions
+(3) In the calculation under section OB 75(2) (Statutory producer boards' notional distributions that are dividends), the board may choose to treat item tax rate in the formula as 33%.
+Co-operative companies' imputation credits
+(4) In the calculation under section OB 78(3) (Co-operative companies attaching imputation credits to cash distributions), the company may choose to treat item tax rate in the formula as 33%. This subsection does not apply to a Maori authority.
+Co-operative companies' notional distributions
+(5) In the calculation under section OB 80(2) (Co-operative companies' notional distributions that are dividends), the company may choose to treat item tax rate in the formula as 33%. This subsection does not apply to a Maori authority.
+
+### OZ 16 BETA reductions
+What this section applies to
+(1) This section applies to—
+  (a) a credit and a debit in the branch equivalent tax account of a company or a consolidated group before the first day of their 2008–09 income year:
+  (b) a credit and a debit arising to the branch equivalent tax account of a company or a consolidated group on or after the first day of their 2008–09 income year, if the credit and debit relate to their 2007–08 or earlier income years.
+Reduction
+(2) The amount of the credit and debit are reduced by multiplying the amount by 30/33.
+
+### OZ 17 CTRA reductions
+What this section applies to
+(1) This section applies to—
+  (a) a credit and a debit in the CTR account of a company or a consolidated group before the first day of their 2008–09 income year:
+  (b) a credit and a debit arising to the CTR account of a company or a consolidated group on or after the first day of their 2008–09 income year, if the credit and debit relate to their 2007–08 or earlier income years.
+Reduction
+(2) The amount of the credit and debit are reduced by multiplying the amount by 30/33.
+
 ## Part R — General collection rules
 
 ### Subpart RA — General withholding and payment obligations
@@ -30081,6 +31547,7 @@ This Part provides the rules to require a person to pay to the Commissioner inte
   (e) the payment of resident withholding tax (RWT), seesubpart RE; and
   (f) the payment of non-resident withholding tax (NRWT), seesubpart RF; and
   (g) the payment of a foreign dividend payment (FDP), seesubpart RG; and
+  (gb) the payment of retirement scheme contribution tax (RSCT), see subpart RH; and
   (h) the treatment of refunds by the Commissioner, seesubpart RM; and
   (i) the use of intermediaries in the tax system, seesubpart RP.
 
@@ -30109,6 +31576,9 @@ Non-resident passive income
 Foreign dividends
 (3) A company that receives a foreign dividend must pay FDP for the dividend to the Commissioner under subpart RG (Payments for foreign dividends (FDP)) by the due date.
 
+### RA 6B Withholding and payment obligations for retirement scheme contributions
+A person who makes a contribution to a retirement savings scheme must withhold and pay RSCT for the contribution to the Commissioner under subpart RH (Withholding tax on retirement scheme contributions) by the due dates.
+
 ### RA 7 Payment of tax by public authorities
 A public authority that pays an amount under this Act acts within its capacity, whether further appropriation is made or not.
 
@@ -30129,7 +31599,7 @@ Exclusion
 ### RA 10 When obligations not met
 When this section applies
 (1) This section applies when—
-  (a) a person liable to withhold an amount of tax for a PAYE income payment, an employer’s superannuation contribution, a payment of resident passive income, or a payment of non-resident passive income, does not withhold and pay the amount to the Commissioner; or
+  (a) a person liable to withhold an amount of tax for a PAYE income payment, an employer’s superannuation contribution, a retirement scheme contribution, a payment of resident passive income, or a payment of non-resident passive income, does not withhold and pay the amount to the Commissioner; or
   (b) a person liable to pay an amount of tax to the Commissioner for a fringe benefit does not pay the amount; or
   (c) a person liable to pay FDP does not pay the amount to the Commissioner.
 Debt payable to Commissioner
@@ -30207,7 +31677,8 @@ A person must pay their provisional tax for a tax year under section RC 9 (Provi
 When this section applies
 (1) This section applies when a person is required—
   (a) to withhold under section RA 5 an amount of tax for a payment and pay it to the Commissioner; or
-  (b) to withhold and pay, or pay, under section RA 6 an amount to the Commissioner for a payment received or benefit provided by them.
+  (b) to withhold and pay, or pay, under section RA 6 an amount to the Commissioner for a payment received or benefit provided by them; or
+  (c) to withhold and pay under section RA 6B an amount of tax to the Commissioner for a retirement scheme contribution.
 When payment due
 (2) The person must pay the amount to the Commissioner by the following dates:
   (a) when the period for which the payment is made is shorter than a month, by the 5th day after the relevant end date:
@@ -30219,7 +31690,7 @@ Relevant end dates
   (a) for PAYE and ESCT payable for 2 payment periods in a month under section RD 4(1)(b) or RD 65(3) (which set out the basis for payment of PAYE and ESCT),—
     (i) for the first payment period, the 15th day of the month; and
     (ii) for the second payment period, the last day of the month:
-  (b) for PAYE, RWT, and NRWT payable monthly under sections RD 4(1)(a), RE 21(2) and (7), or RF 13(3) (which set out the basis for payment of PAYE, RWT, and NRWT), as applicable, the last day of a month:
+  (b) for PAYE, RWT, NRWT, and RSCT payable monthly under section RD 4(1)(a), RE 21(2) and (7), RF 13(3), or RH 2(2) (which set out the basis for payment of PAYE, RWT, NRWT, and RSCT), as applicable, the last day of a month:
   (c) for FBT and FDP payable quarterly under sections RD 58 to RD 59 and RD 62, or RG 3 (which set out the basis for payment of FBT and FDP), as applicable, the last day of a quarter:
   (d) for RWT and NRWT payable by instalment under section RE 21(3) or RF 13(2) (which set out the basis for payment of RWT and NRWT)—
     (i) for the first instalment, the last day of September; and
@@ -30326,6 +31797,11 @@ References
   (c) a reference to the PAYE rules were a reference to the ESCT rules or the NRWT rules.
 Exclusion
 (2) Sections 121 and 122 of the Tax Administration Act 1994 do not apply to an amount of tax for an employer’s superannuation contribution.
+
+### RA 24 Application of other provisions for purposes of RSCT rules
+For the purposes of the RSCT rules, sections 170(2), 171, and 172 of the Tax Administration Act 1994, modified as necessary, apply as if—
+  (a) a reference to an amount of tax withheld were a reference to RSCT:
+  (b) a reference to the RWT rules were a reference to the RSCT rules.
 
 ### Subpart RB — Terminal tax
 
@@ -30451,7 +31927,9 @@ Reasonable care in making and maintaining assessment
 Estimation higher than provisional tax payable
 (5) If a person’s estimate is more than the provisional tax that is payable for the tax year, they are treated as having taken reasonable care in making the estimate.
 Changing calculation method from GST ratio
-(6) If, under section RC 18(5), a person changes the way they determine the amount of provisional tax after the date of an instalment, they must estimate their residual income tax for the corresponding income year, and must pay provisional tax on whichever of instalment dates B, D, and F for their income year occur after 30 days from their last ratio instalment date.
+(6) If, under section RC 18(5), a person changes the way they determine the amount of provisional tax after the date of an instalment, they must estimate their residual income tax for their corresponding income year, and must pay provisional tax on whichever of the following instalment dates for the income year occur after 30 days from their last ratio instalment date:
+  (a) C and F for changes to a 6-monthly GST taxable period:
+  (b) B, D, and F for other changes.
 Disaster relief
 (7) A person who is significantly affected by a self-assessed adverse event or qualifying event may make an estimate of their provisional tax under section RC 36, and that section overrides this section.
 
@@ -30462,6 +31940,15 @@ Meaning of GST ratio
 (2) The person’s GST ratio is the percentage figure that is obtained by dividing their residual income tax for the preceding tax year by their total taxable supplies for the corresponding income year. The amount of residual income tax and the amount of total taxable supplies are called base amounts for the purposes of this section.
 When amounts based on tax year before preceding tax year
 (3) If a base amount for the preceding tax year or corresponding income year is not known, the GST ratio is the percentage based on the assessment for the tax year and corresponding income year that are just before the preceding tax year and corresponding income year.
+When no assessment for tax year before preceding tax year
+(3B) Subsection (3) does not apply and the GST ratio is the percentage based on the assessments of the base amounts for the year that is 2 years before the preceding tax year if—
+  (a) for the year before the preceding tax year—
+    (i) an assessment of a base amount has not been made and the absence of an assessment arises because of an extension of time for filing a return for the year, or a period in the year:
+    (ii) an assessment of a base amount is the subject of a dispute or challenge under the Tax Administration Act 1994:
+    (iii) the year is a transitional year; and
+  (b) for the year that is 2 years before the preceding tax year—
+    (i) the base amounts have been assessed; and
+    (ii) the circumstances in paragraph (a)(ii) and (iii) do not exist.
 Commissioner’s calculation
 (4) The Commissioner must calculate a person’s GST ratio, informing them by—
   (a) including the percentage figure on the person’s preprinted GST return form; or
@@ -30478,6 +31965,15 @@ Transitional years
 (7) If a person has paid instalments of provisional tax in a transitional year, for the tax year that follows the transitional year, for the purposes of this section and section RC 11, they must—
   (a) ignore the transitional year when determining their residual income tax or total taxable supplies; and
   (b) base their determination of residual income tax and total taxable supplies on the tax year preceding the transitional year.
+When no assessment for tax year before preceding tax year
+(7B) Subsection (7) does not apply and the GST ratio is the percentage based on the assessments of the base amounts for the year that is 2 years before the transitional year if—
+  (a) for the year before the transitional year—
+    (i) an assessment of a base amount has not been made and the absence of an assessment arises because of an extension of time for filing a return for the year, or a period in the year:
+    (ii) an assessment of a base amount is the subject of a dispute or challenge under the Tax Administration Act 1994:
+    (iii) the year is a transitional year; and
+  (b) for the year that is 2 years before the transitional year—
+    (i) the base amounts have been assessed; and
+    (ii) the circumstances in paragraph (a)(ii) and (iii) do not exist.
 Total taxable supplies
 (8) In subsections (2), (5), and (7), and in sections RC 11, RC 19, and RC 31, total taxable supplies, for a person and a period, means the amount that is the total value of taxable supplies by the person for the period. The amount includes the GST charged on the supplies.
 Modification
@@ -30508,15 +32004,15 @@ Provisional tax when GST paid on 6-monthly basis
 Provisional tax determined using GST ratio
 (6) A person liable to pay provisional tax who uses a GST ratio to determine the amount of provisional tax payable for a tax year, must pay provisional tax on the 6 ratio instalment dates in the months set out in schedule 3, part A, columns A to F for their corresponding income year. The amount of each instalment is calculated under section RC 11.
 Changing calculation method
-(7) A person who is unable or who decides not to use a GST ratio, changing their calculation method under section RC 18, must pay the provisional tax payable for the tax year on the relevant instalment dates under the replacement method. The amount of each instalment is calculated under section RC 7 or RC 10, as applicable.
+(7) A person who is unable or who decides not to use a GST ratio, changing their calculation method under section RC 18, must pay the provisional tax payable for the tax year on the relevant instalment dates under the replacement method. The amount of each instalment is calculated under section RC 10.
 Changing cycle of taxable periods
 (8) A person who changes the cycle of their taxable periods under section 15C of the Goods and Services Tax Act 1985 must pay provisional tax for the tax year on the instalment dates set out in section RC 27 after the change in taxable period takes effect. The amount of each instalment is calculated under section RC 10.
 Persons with initial provisional tax liability
-(9) A person with an initial provisional tax liability who starts a taxable activity in a tax year in relation to which they pay GST must pay provisional tax for the tax year—
+(9) A person with a new provisional tax liability who starts a taxable activity in a tax year is liable to pay interest calculated under section 120KC of the Tax Administration Act 1994 as if they were liable to pay provisional tax for the tax year—
   (a) in 3 instalments under subsection (3) if they start a taxable activity at some time in the period that starts at the beginning of the corresponding income year and ends 30 days before the date of instalment B:
   (b) in 2 instalments—
     (i) in a case to which section RC 13 applies; or
-    (ii) if they start a taxable activity at some time in the period that starts at the beginning of the corresponding income year and ends 30 days before the date of instalment C:
+    (ii) if they pay GST on a 6-monthly basis and start a taxable activity at some time in the period that starts at the beginning of the corresponding income year and ends 30 days before the date of instalment C:
   (c) in 1 instalment in a case to which section RC 14 applies.
 Extension of time for return
 (10) A person who has not provided a return of income for a preceding tax year and whose residual income tax for the tax year before the preceding tax year was $2,500 or less must pay provisional tax for the tax year on the instalment dates set out in section RC 13 or RC 14, as applicable.
@@ -30529,7 +32025,7 @@ Voluntary payments
 When this section applies
 (1) This section applies for the purposes of—
   (a) section RC 5(2), (3), and (5) (which relates to the calculation of a provisional tax liability); and
-  (b) section RC 9(3) and (7) (which relates to payment of instalments); and
+  (b) section RC 9(3) and (5) (which relates to payment of instalments); and
   (c) sections RC 13 and RC 14 (which relate to persons with an initial provisional tax liability and those with an extension of time for providing a return); and
   (d) sections RC 26 and RC 27 (which relate to changes in taxable periods).
 Calculation
@@ -30600,16 +32096,16 @@ A person who meets the requirements of section RC 16(2) and (3) for a tax year m
 General eligibility
 (1) A person liable to pay provisional tax may choose to use a GST ratio to determine under section RC 5(6) the amount of provisional tax payable for a tax year only if they meet all the requirements of subsections (2) and (3) in relation to the same entity.
 Requirements for preceding tax year
-(2) For the purposes of determining their eligibility for a tax year, the person must meet the following requirements in the preceding tax year:
+(2) For the purposes of determining their eligibility for a tax year, the person must meet the following requirements in the preceding tax year and corresponding income year::
   (a) their residual income tax, as calculated, was more than $2,500 but no more than $150,000; and
-  (b) they were a registered person for the whole tax year, and provided a return under the Goods and Services Tax Act 1985 for an entity whose taxable activity did not begin operations in that tax year; and
+  (b) they were a registered person for the whole income year, and provided a return under the Goods and Services Tax Act 1985 for an entity whose taxable activity did not begin operations in that tax year; and
   (c) the ratio of their residual income tax to total taxable supplies, as calculated under section RC 11 and expressed as a percentage, is between zero and 100%.
 Requirement for current year
 (3) For the tax year in which the person uses a GST ratio, they must be liable to file a return under the Goods and Services Tax Act 1985 for a 2-month or a 1-month period under section 15(1)(b) and (c) of that Act.
 When election applies
 (4) A person’s election under section RC 15 to use a GST ratio applies for the tax year for which the election is made and in later tax years, unless the person changes their calculation method under RC 18.
 References to preceding tax year
-(5) In this section, a reference to a preceding tax year includes a reference to the tax year before the preceding tax year if that earlier tax year is used for the purposes of calculating a GST ratio.
+(5) In this section, a reference to a preceding tax year includes a reference to a tax year earlier than the preceding tax year if that earlier tax year is used for the purposes of calculating a GST ratio.
 
 ### RC 17 When GST ratio must not be used
 Requirement to discontinue use of GST ratio
@@ -30625,7 +32121,7 @@ Instalments following default
 (3) A person who is required by subsection (2) to stop using a GST ratio must pay the provisional tax instalments required under section RC 18 for an instalment period beginning on or after the due date for filing the return referred to in subsection (2) that is not the subject of notification under subsection (4).
 Further use of GST ratio
 (4) Despite subsections (2) and (3), a person may use a GST ratio for an instalment period referred to in subsection (3) if—
-  (a) they apply to the Commissioner; and
+  (a) they apply in writing or by telephone to the Commissioner; and
   (b) the Commissioner considers—
     (i) the failure to file the return is caused by an event or circumstance beyond the person’s control; and
     (ii) the event or circumstance provides reasonable justification or excuse for the failure; and
@@ -30644,7 +32140,7 @@ When this section applies
   (a) chooses another way to calculate the amount of provisional tax payable for the tax year; or
   (b) is required under section RC 17(1) or (2) to stop using a GST ratio for the corresponding income year.
 Informing Commissioner of decision to change
-(2) The person must inform the Commissioner of their decision under subsection (1)(a), and may do this either in writing or by telephone. Subsection (3) or (4) then applies for the remaining instalments of provisional tax for the tax year.
+(2) The person must inform the Commissioner of their decision under subsection (1)(a), and may do this either in writing or by telephone. Subsection (4) or (5) then applies for the remaining instalments of provisional tax for the tax year.
 Date on which use of GST ratio stopped
 (3) For the purposes of subsection (1)(b), the date on which the person stops using a GST ratio is, as applicable,—
   (a) the date their GST registration ends; or
@@ -30652,7 +32148,7 @@ Date on which use of GST ratio stopped
   (c) the effective date of a change in taxable period; or
   (d) the last day of the period in which a return is liable to be provided under the Goods and Services Tax Act 1985.
 Changing method before date of instalment A
-(4) If the person is unable or decides not to use a GST ratio before the date of instalment A, they may choose to determine the amount of provisional tax payable under section RC 5(2), (3) or (5), as if the election to use the GST ratio had not been made.
+(4) If the person is unable or decides not to use a GST ratio before the date of instalment A, they may choose to determine the amount of provisional tax payable under section RC 5(2), (3) or (5). The person is treated as never having chosen to use the GST ratio method and, for the purposes of section 120KE(5) of the Tax Administration Act 1994, as never having changed the way they determine an amount of provisional tax under this section.
 Changing method after instalment date
 (5) If the person is unable or decides not to use the GST ratio after an instalment date, they must determine the amount of provisional tax payable on instalment for the remainder of the income year under section RC 5(5) using the estimation method. For this purpose, the person may provide the estimate in writing or by telephone.
 Date of application when method changed
@@ -30675,9 +32171,9 @@ When this section applies
     (i) an amount equal to 5% of the total taxable supplies of the business for the previous 12 months; or
     (ii) $1,000.
 Adjustment to GST ratio for current and next income year
-(2) The person may choose to take the disposal of the asset into account by adjusting their taxable supplies for the relevant taxable period and income year. The adjustment must be made to both—
-  (a) the amount of their total taxable supplies for the purposes of the formula in section RC 11(1), by subtracting an amount that equals the value of the supply of the asset (as determined under 10 of the Goods and Services Tax Act 1985) plus the GST on the supply from the amount of taxable supplies for the relevant income year or taxable period; and
-  (b) the base amount of the their total taxable supplies for the next income year, by subtracting the amount that equals the value of the supply of the asset and the GST on the supply referred to in paragraph (a) from total taxable supplies in working out the GST ratio under section RC 8(2).
+(2) The person may choose to take the disposal of the asset into account in adjusting their taxable supplies for the relevant taxable period and income year, by subtracting the value, including GST, of the asset from—
+  (a) the total taxable supplies for a taxable period for the purposes of the formula in section RC 11(1), in proportion to the output tax which is attributed under section 20(4) of that Act to that taxable period for the supply of the asset:
+  (b) the base amount of total taxable supplies for the corresponding income year under section RC 8(2), in proportion to the output tax which is attributed under section 20(4) of that Act to a taxable period in that income year for the supply of the asset.
 Informing Commissioner
 (3) For the purposes of subsection (2), the person must inform the Commissioner of both the disposal of the asset and the value of its supply, and may do this either in writing or by telephone.
 Rounding percentages
@@ -30708,12 +32204,14 @@ Total amount payable
 (1) A person liable to pay provisional tax in a transitional year must pay the sum of all instalments of provisional tax payable for the transitional year, both interim instalments under subsection (2) and a final instalment under subsection (3).
 When instalments payable
 (2) The person must pay an instalment other than a final instalment on—
-  (a) the 28th day of the months set out in schedule 3, part B (Payment of provisional tax and terminal tax) unless paragraph (b) applies:
-  (b) the 15th day of January, when the month set out in schedule 3, part A is December.
+  (a) the 28th day of the months set out in schedule 3 part B (Payment of provisional tax and terminal tax) unless paragraph (b) or (c) applies:
+  (b) 15 January, when the month set out in schedule 3, part B is December and the year is a transitional year:
+  (c) 7 May, when the month set out in schedule 3, part B is April and the year is a transitional year.
 When final instalment payable
 (3) The person must pay the final instalment on—
   (a) the 28th day of the month following the final month in the transitional year; or
-  (b) the 15th day of January, when November is the final month.
+  (b) the 15th day of January, when November is the final month; or
+  (c) 7 May, when March is the final month and the year is a transitional year.
 Modifications to instalment dates
 (4) For the purposes of subsection (2), provisional tax is not payable on—
   (a) the date of instalment B, if section RC 13 would have applied if the year were not a transitional year; or
@@ -30787,7 +32285,12 @@ GST ratio method
   (a) a set of instalment dates in even-numbered months to a set of instalment dates in odd-numbered months; or
   (b) a set of instalment dates in odd-numbered months to a set of instalment dates in even-numbered months.
 Adjustment to liability
-(6) The person must adjust their provisional tax liability for the income year for the part-period of 1 month before the start of the new income year. The part-period is their final taxable period, and the instalment of provisional tax is payable 28 days after the end of that period.
+(6) The person must—
+  (a) adjust their provisional tax liability for the part-period of 1 month before the start of the new income year; and
+  (b) pay the instalment of provisional tax for the part-period as their final taxable period—
+  (i) 28 days after the end of the part period, unless subparagraph (ii) or (iii) applies; or
+  (ii) by 15 January if the part-period falls in November; or
+  (iii) by 7 May if the part period falls in March.
 Aligning taxable periods
 (7) For a registered person, if a change in balance date means that their taxable period is not aligned with the balance date, an adjustment must be made to their taxable period under section 15B(3) or 15C of the Goods and Services Tax Act 1985.
 
@@ -30806,7 +32309,9 @@ Starting GST registration: 6-monthly basis
 Ending GST registration: 6-monthly basis
 (4) A person liable to pay provisional tax who pays GST on a 6-monthly basis and cancels their GST registration or has their registration cancelled, must pay their instalments of provisional tax on whichever dates of instalments B, D, and F for their corresponding income year occur after 30 days from the date of cancellation.
 Date of cancellation
-(5) For the purposes of subsection (4) and the provisional tax rules, the date of cancellation is the date on which the cancellation of GST registration is notified.
+(5) For the purposes of subsection (4) and the provisional tax rules, the date of cancellation is the later of the date on which—
+  (a) the cancellation of GST registration is notified:
+  (b) the person's liability under section 52 of the Goods and Services Tax Act 1985 stops.
 Formula for amount of instalment
 (6) The amount of each instalment is calculated under section RC 10.
 
@@ -31009,7 +32514,7 @@ This subpart establishes and measures an employer’s liability under—
     (ii) attributing certain fringe benefits to employees:
     (iii) setting out the taxable value of certain fringe benefits:
     (iv) providing options for the payment of FBT to the Commissioner:
-  (c) the ESCT rules by setting out the payments to which the rules apply and calculating the amounts of tax that must be withheld and paid to the Commissioner under the rules.
+  (c) the ESCT rules and RSCT rules by setting out the payments to which the rules apply and calculating the amounts of tax that must be withheld and paid to the Commissioner under the rules.
 
 **PAYE rules and PAYE income payments**
 
@@ -31079,7 +32584,8 @@ Meaning
     (iii) a schedular payment:
     (iv) an amount of income described in section RD 3(3) and (4):
     (v) an employer’s superannuation contribution:
-    (vi) a payment excluded by regulations made under this Act.
+    (vi) a payment excluded by regulations made under this Act; and
+  (d) is defined in section RD 65(13) for the purposes of that section.
 Employees’ expenditure on account
 (2) A payment of expenditure on account of an employee is included in their salary or wages.
 Payments to working partners
@@ -31712,10 +33218,10 @@ Amending thresholds
 When this section applies
 (1) This section applies when an employer is required to attribute the value of a fringe benefit to an employee under sections RD 47 and RD 49.
 Tax liability
-(2) The employer’s FBT liability in relation to the employee is the amount calculated using the formula—tax on all-inclusive pay &#8722; tax on cash pay.
+(2) The employer’s FBT liability in relation to the employee is the amount calculated using the formula—tax on all-inclusive pay – tax on cash pay.
 Definition of items in formula
 (3) In the formula,—
-  (a) tax on all-inclusive pay is the amount determined at the rate set out in schedule 1, part C, table 1 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) on the amount of the employee’s all-inclusive pay calculated using the formula in section RD 51(2):
+  (a) tax on all-inclusive pay is the amount determined at the rate set out in schedule 1, part C, table 1 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) on the amount of the employee’s all-inclusive pay calculated using the formula in section RD 51(2):
   (b) tax on cash pay is the amount calculated under section RD 51(3)(b) or (4)(b).
 Exception for shareholder-employees and persons with attributed income
 (4) If the employer has an exception for an employee under section RD 52 in a tax year, and the employer pays FBT at the rate of 49% of the taxable value of the attributed fringe benefits under RD 52(3)(a), the employer must deduct the FBT payable in the tax year from the result of the formula in subsection (2).
@@ -31726,13 +33232,13 @@ Further option
 When this section applies
 (1) This section applies to determine the amount of an employee’s all-inclusive pay for the purposes of section RD 50.
 Calculation
-(2) The amount of an employee’s all-inclusive pay is calculated using the formula—cash pay &#8722; tax on cash pay + taxable value of all fringe benefits.
+(2) The amount of an employee’s all-inclusive pay is calculated using the formula—cash pay – tax on cash pay + taxable value of all fringe benefits.
 Definition of items in formula for major shareholder
 (3) If the employee is a major shareholder, the items in the formula are—
   (a) cash pay is the cash pay of the employee for the income year in which the fringe benefit is attributed that is paid to the employee or applied on their account by the employer or a related employer, and includes—
     (i) a dividend and interest derived by the employee from their employer; and
     (ii) a dividend and interest derived by the employee from a related employer:
-  (b) tax on cash pay is the tax on the cash pay of the employee calculated using the basic rate of income tax set out in schedule 1, part A, clause 1 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits),—
+  (b) tax on cash pay is the tax on the cash pay of the employee calculated using the basic rate of income tax set out in schedule 1, part A, clause 1 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits),—
     (i) treating the cash pay as if it were the only taxable income of the employee; and
     (ii) taking into account a tax credit under sections LC 1 and LC 2 (which relate to tax credits for persons on low incomes), applying the sections as if the employee were resident in New Zealand for the whole income year:
   (c) taxable value of all fringe benefits is—
@@ -31807,14 +33313,14 @@ If a fringe benefit is provided by making available a motor vehicle to an employ
 
 ### RD 56 Private use of motor vehicle: when schedular value not used
 When this section applies
-(1) This section applies when the employer has not valued the motor vehicle using schedule 5, clause 5 (Fringe benefit values for motor vehicles).
+(1) This section applies when the employer has not valued the motor vehicle using schedule 5, clause 9 (Fringe benefit values for motor vehicles).
 Reduction
-(2) In the calculation of the taxable value of the fringe benefit, the value of the benefit determined under sections RD 28 to RD 30 is reduced by an amount that is the applicable percentage of the cost (determined including GST under schedule 5, clause 4(a)) of the motor vehicle to the employee or the associated person as follows:
+(2) In the calculation of the taxable value of the fringe benefit, the value of the benefit determined under sections RD 28 to RD 30 is reduced by an amount that is the applicable percentage of the cost (determined including GST under schedule 5, clause 8(a)) of the motor vehicle to the employee or the associated person as follows:
   (a) if FBT is paid quarterly, 2.5%:
   (b) if FBT is paid on an annual basis, 2.5% for each quarter in which the vehicle was part-owned by the employee or the associated person:
   (c) if FBT is paid on an income year basis, 10%.
 When period longer or shorter than income year
-(3) In subsection (2)(c) and section RD 57(2)(c) and (3), if the period for which the employer accounts for FBT differs from a normal income year for the reasons described in subsection (4), the amount by which the taxable value of the fringe benefit is reduced is a percentage of the cost (determined including GST under schedule 5, clause 4(a)) of the motor vehicle to the employer or the associated person equal to the amount calculated using the formula—
+(3) In subsection (2)(c) and section RD 57(2)(c) and (3), if the period for which the employer accounts for FBT differs from a normal income year for the reasons described in subsection (4), the amount by which the taxable value of the fringe benefit is reduced is a percentage of the cost (determined including GST under schedule 5, clause 8(a)) of the motor vehicle to the employer or the associated person equal to the amount calculated using the formula—
 Reasons for difference
 (4) The period for which the employer has accounted may be longer or shorter than the normal income year because the employer has either—
   (a) started or ceased business during that income year; or
@@ -31824,7 +33330,7 @@ When vehicle owned less than whole year
 
 ### RD 57 Private use of motor vehicle: when schedular value used
 When this section applies
-(1) This section applies when an employer has valued the motor vehicle using schedule 5, clause 5 (Fringe benefit values for motor vehicles).
+(1) This section applies when an employer has valued the motor vehicle using schedule 5, clause 9 (Fringe benefit values for motor vehicles).
 Reduction
 (2) In the calculation of the taxable value of the fringe benefit, the value of the benefit determined under sections RD 28 to RD 30 is reduced by an amount that is the applicable percentage of the cost, determined excluding GST, under schedule 5, clause 6(a) in the following way:
   (a) when FBT is paid quarterly, by a percentage calculated using the formula—2.5 + (2.5 × schedule 5 rate):
@@ -31951,9 +33457,9 @@ Contributions to KiwiSaver schemes
     (i) an amount calculated under subsection (5):
     (ii) an amount calculated under subsection (6).
 Formula: subsection (4)(b)(i)
-(5) The amount referred to in subsection (4)(b)(i) is calculated using the formula—0.04 × total salary or wages &#8722; previous exempt contributions.
+(5) The amount referred to in subsection (4)(b)(i) is calculated using the formula—0.04 × total salary or wages – previous exempt contributions.
 Formula: subsection (4)(b)(ii)
-(6) The amount referred to in subsection (4)(b)(ii) is calculated using the formula—total KiwiSaver contributions &#8722; previous exempt KiwiSaver contributions.
+(6) The amount referred to in subsection (4)(b)(ii) is calculated using the formula—total KiwiSaver contributions – previous exempt KiwiSaver contributions.
 Definition of items in formulas
 (7) In the formulas in subsections (5) and (6),—
   (a) total salary or wages is the total amount of salary or wages paid to the employee in the KiwiSaver calculation period, excluding salary or wages for which there are no KiwiSaver contributions:
@@ -31972,9 +33478,9 @@ Contributions to complying superannuation funds
     (i) an amount calculated under subsection (9):
     (ii) an amount calculated under subsection (10).
 Formula: subsection (8)(c)(i)
-(9) The amount referred to in subsection (8)(c)(i) is calculated using the formula—0.04 × total salary or wages &#8722; previous exempt contributions.
+(9) The amount referred to in subsection (8)(c)(i) is calculated using the formula—0.04 × total salary or wages – previous exempt contributions.
 Formula: subsection (8)(c)(ii)
-(10) The amount referred to in subsection (8)(c)(ii) is calculated using the formula—total complying fund contributions &#8722; previous exempt complying fund contributions.
+(10) The amount referred to in subsection (8)(c)(ii) is calculated using the formula—total complying fund contributions – previous exempt complying fund contributions.
 Definition of items in formulas
 (11) In the formulas in subsections (9) and (10),—
   (a) total salary or wages is the total amount of salary or wages paid to the employee in the complying fund calculation period, excluding salary or wages for which there are no superannuation contributions for the employee’s complying superannuation fund to which the complying fund rules apply:
@@ -32002,49 +33508,9 @@ Some definitions
   - **salary or wages** has the meaning given in section 4 of the KiwiSaver Act 2006.
 
 ### RD 66 Complying fund rules
-Rules for complying superannuation funds
-(1) The complying fund rules, for a superannuation fund and an employee’s superannuation accumulation, means rules that—
-  (a) meet all the requirements of subsections (2) to (11); and
+The complying fund rules, for a superannuation fund and an employee's superannuation accumulation, means rules that—
+  (a) meet all the requirements set out in schedule 28 (Requirements for complying fund rules); and
   (b) do not detract from those requirements.
-First requirement: KiwiSaver rules
-(2) The first requirement is that the rules are the same, though modified as necessary, as the rules for KiwiSaver schemes set out in—
-  (a) section 196 of the KiwiSaver Act 2006; and
-  (b) schedule 1, clauses 4(1) to (4), 7, 9, and 17 of that Act.
-Second requirement: withdrawals
-(3) The second requirement is that the rules—
-  (a) allow a withdrawal in some or all of the circumstances described in the rules for KiwiSaver schemes in schedule 1, clauses 8 and 10 to 14 of the KiwiSaver Act 2006, modified as necessary, or in none of those circumstances; and
-  (b) do not allow a withdrawal under any circumstances other than those described in paragraph (a) or subsection (2).
-Third requirement: transfers
-(4) The third requirement is that the rules require—
-  (a) a transfer, if the employee asks, of some or all of an employee’s superannuation accumulation to another complying superannuation fund or to a KiwiSaver scheme, and for the latter when the requirements of the KiwiSaver Act 2006 are met; and
-  (b) that the complying fund rules apply to an employee’s superannuation accumulation if it is transferred to another complying superannuation fund under paragraph (a); and
-  (c) a transfer of an employee’s superannuation accumulation to a KiwiSaver scheme, if the employee does not ask for a transfer under paragraphs (a) and (b), and the employee—
-    (i) is no longer eligible to be a member of their complying superannuation fund:
-    (ii) may not remain a member for any reason, but this paragraph does not apply to a transfer under paragraphs (a), (b), and (d), or a withdrawal of some or all of an employee’s superannuation accumulation under these rules; and
-  (d) a transfer of an employee’s superannuation accumulation to a KiwiSaver scheme, if the Government Actuary revokes approval of the superannuation fund as a complying superannuation fund and the accumulation is not transferred to another complying superannuation fund and is not subject to these rules.
-Fourth requirement: notification
-(5) The fourth requirement is that the rules require that—
-  (a) the Commissioner is notified if the employee’s superannuation accumulation must be transferred under subsection (4)(c) and (d):
-  (b) the fund provider is notified if the employee’s superannuation accumulation is transferred to another complying superannuation fund under subsection (4)(a).
-Notification details
-(6) For the purposes of subsection (5),—
-  (a) notification under subsection (5)(a) must include the name, address, and tax file number of the employee, the name and address of their employer, and the name and tax file number of the employee’s complying superannuation fund:
-  (b) notification under subsection (5)(b) must include—
-    (i) notice of any written evidence given to the old fund provider under section MK 2(2) (Eligibility requirements):
-    (ii) the amount of tax credits received by the old fund provider under subpart MK (Tax credits for KiwiSaver schemes and complying superannuation funds):
-    (iii) information held by the old fund provider that would be relevant to the new provider in making a claim under section 68C of the Tax Administration Act 1994, such as information about the periods for which claims have already been made.
-Fifth requirement: minimum contributions
-(7) The fifth requirement is that the rules require total minimum superannuation contributions in relation to the employee of an amount equal to at least the amount required to be contributed to a superannuation scheme under section 25(1)(d) of the KiwiSaver Act 2006.
-Calculating minimum contributions
-(8) For the purposes of calculating whether or not superannuation contributions count towards the total minimum contributions under subsection (7), the rules—
-  (a) are the same as section 26 of the KiwiSaver Act 2006, modified as necessary; and
-  (b) do not count a superannuation contribution unless the contribution is for the payment of future benefits to the employee, or for fees, under the superannuation fund.
-Sixth requirement: vesting in employee
-(9) The sixth requirement is that the rules require that any employer’s superannuation contribution that counts towards the total minimum superannuation contributions described in subsection (7) vests completely in the employee immediately after the contribution is made.
-Seventh requirement: funding benefits
-(10) The seventh requirement is that the rules require that an employee’s superannuation accumulation is used to fund benefits that are calculated only by reference to the amount of the accumulation.
-Eighth requirement: continuation as member
-(11) The eighth requirement is that the rules commit an employee to continue to be a member unless otherwise provided by subsections (2) to (10).
 
 **Calculating amounts of tax**
 
@@ -32058,7 +33524,7 @@ With the agreement of their employer who makes an employer’s superannuation co
 
 ### RD 69 Choosing different rates for employer’s superannuation contributions
 ESCT rate threshold amounts
-(1) An employer who makes an employer’s superannuation contribution on behalf of an employee may choose to pay the amount of tax for the contribution at the rate set out in schedule 1, part D, clause 1 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) for the ESCT rate threshold amount for the employee.
+(1) An employer who makes an employer’s superannuation contribution on behalf of an employee may choose to pay the amount of tax for the contribution at the rate set out in schedule 1, part D, clause 1 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the ESCT rate threshold amount for the employee.
 PAYE intermediaries
 (2) For the purposes of subsection (1), an employer includes a PAYE intermediary.
 
@@ -32069,7 +33535,7 @@ Calculation of amount of tax
 (2) The amount of tax is calculated using the formula—
 Definition of items in formula
 (3) In the formula,—
-  (a) tax rate is the basic rate set out in schedule 1, part D (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) at the time the contribution was made:
+  (a) tax rate is the basic rate set out in schedule 1, part D (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) at the time the contribution was made:
   (b) contribution to fund is the amount of the contribution received by the superannuation fund excluding the amount of tax:
   (c) tax already paid is any amount of tax for the contribution that has already been paid.
 
@@ -32088,7 +33554,7 @@ Amount of recovery
 (2) The trustee of the fund may subtract from the amount of the withdrawal an amount calculated using the formula—tax rate × superannuation fund’s income.
 Definition of items in formula
 (3) In the formula,—
-  (a) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 3 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits):
+  (a) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 3 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits):
   (b) superannuation fund’s income is the income of the superannuation fund calculated under section CS 1.
 
 ### Subpart RE — Withholding tax on resident passive income (RWT)
@@ -32109,7 +33575,7 @@ Interest, dividends, and certain distributions
 (1) Resident passive income means an amount paid to a person resident in New Zealand to the extent to which it consists of—
   (a) interest:
   (b) a dividend:
-  (c) a taxable Maori authority distribution:
+  (c) a taxable Maori authority distribution other than a retirement scheme contribution:
   (d) a replacement payment paid to a person under a share-lending arrangement.
 Exclusions and inclusions
 (2) Subsections (3) to (5) override subsection (1).
@@ -32142,7 +33608,11 @@ Exclusions from dividends
   (d) a dividend derived by a person who holds an RWT exemption certificate issued under section RE 27:
   (e) a dividend that is non-resident passive income:
   (f) a dividend derived by a non-resident other than a dividend derived from New Zealand:
-  (g) a dividend paid by a company and derived by another company when both are part of the same group of companies at the time of the payment.
+  (g) a dividend paid by a company and derived by another company when both are part of the same group of companies at the time of the payment:
+  (h) a dividend that is excluded income under section CX 50B (Contributions to retirement savings schemes) or would be excluded income under that section in the absence of subsection (2)(a) and (b):
+  (i) a dividend other than a non-cash dividend that—
+    (i) has an imputation ratio, FDP ratio, or combined imputation and FDP ratio of 30/70 or more; and
+    (ii) is paid by a unit trust or group investment fund (or RWT proxy on their behalf) that has not withheld RWT from any earlier dividend.
 Beneficiary income
 (6) If a person derives an amount described in this section in their capacity as trustee and the amount is beneficiary income, the amount is treated as not derived by the trustee.
 
@@ -32268,7 +33738,7 @@ When this section applies
 Notification required
 (2) The company must notify the person making the payment that they are a company.
 Withholding rate
-(3) The person making the payment must withhold RWT for the payment at the relevant rate set out in schedule 1, part D, clause 5 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) for a payment made on or after the date of notification.
+(3) The person making the payment must withhold RWT for the payment at the relevant rate set out in schedule 1, part D, clause 5 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for a payment made on or after the date of notification.
 Consequence of failure to notify
 (4) If the company does not notify the person making the payment, the person must apply the higher withholding rate set out in section RE 19(3).
 
@@ -32278,10 +33748,10 @@ Consequence of failure to notify
 When this section applies
 (1) This section applies when a person makes a payment of resident passive income that consists of interest.
 Calculation of amount of tax
-(2) The amount of tax for the payment that the person must withhold and pay to the Commissioner is calculated using the formula—(tax rate × (interest paid + foreign withholding tax)) &#8722; foreign withholding tax.
+(2) The amount of tax for the payment that the person must withhold and pay to the Commissioner is calculated using the formula—(tax rate × (interest paid + foreign withholding tax)) – foreign withholding tax.
 Definition of items in formula
 (3) In the formula,—
-  (a) tax rate is the basic rate set out in schedule 1, part D, clause 4 or 5 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits):
+  (a) tax rate is the basic rate set out in schedule 1, part D, clause 4 or 5 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits):
   (b) interest paid is the interest paid before the amount of tax is determined:
   (c) foreign withholding tax is the amount of foreign withholding tax paid or payable on the interest paid.
 
@@ -32289,10 +33759,10 @@ Definition of items in formula
 When this section applies
 (1) This section applies when a person makes a payment of resident passive income that consists of a dividend other than a non-cash dividend.
 Calculation of amount of tax
-(2) The amount of tax for the payment that the person must withhold and pay to the Commissioner is calculated using the formula—(tax rate × (dividend paid + tax paid or credit attached)) &#8722; tax paid or credit attached.
+(2) The amount of tax for the payment that the person must withhold and pay to the Commissioner is calculated using the formula—(tax rate × (dividend paid + tax paid or credit attached)) – tax paid or credit attached.
 Definition of items in formula
 (3) In the formula,—
-  (a) tax rate is the basic rate set out in schedule 1, part D, clause 6 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits):
+  (a) tax rate is the basic rate set out in schedule 1, part D, clause 6 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits):
   (b) dividend paid is the amount of the dividend paid before the amount of tax is determined:
   (c) tax paid or credit attached is the total of the following amounts:
     (i) if the dividend is paid in relation to shares issued by an imputation credit account (ICA) company, the amount of an imputation credit attached to the dividend:
@@ -32306,7 +33776,7 @@ Calculation of amount of tax
 (2) The amount of tax for the payment that the person must pay under subsection (4) to the Commissioner is calculated using the formula—
 Definition of items in formula
 (3) In the formula,—
-  (a) tax rate is the basic rate set out in schedule 1, part D, clause 5 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits):
+  (a) tax rate is the basic rate set out in schedule 1, part D, clause 5 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits):
   (b) dividend paid is the amount of the dividend paid before the amount of tax is determined:
   (c) tax paid or credit attached is the total of the following amounts:
     (i) if the dividend is paid in relation to shares issued by an ICA company, the amount of an imputation credit attached to the dividend:
@@ -32319,10 +33789,10 @@ Treatment as if amount of tax withheld
 When this section applies
 (1) This section applies when a person makes a payment of resident passive income that consists of a dividend that is a bonus issue in lieu.
 Calculation of amount of tax
-(2) The amount of tax for the payment is calculated using the formula—(tax rate × (alternative amount + tax paid or credit attached)) &#8722; tax paid or credit attached.
+(2) The amount of tax for the payment is calculated using the formula—(tax rate × (alternative amount + tax paid or credit attached)) – tax paid or credit attached.
 Definition of items in formula
 (3) In the formula,—
-  (a) tax rate is the basic rate set out in schedule 1, part D, clause 5 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits):
+  (a) tax rate is the basic rate set out in schedule 1, part D, clause 5 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits):
   (b) alternative amount is the amount of money offered as an alternative to the bonus issue before the amount of tax is determined:
   (c) tax paid or credit attached is the total of the following amounts:
     (i) if the dividend is paid in relation to shares issued by an ICA company, the amount of an imputation credit attached to the dividend:
@@ -32333,12 +33803,12 @@ Definition of items in formula
 When this section applies
 (1) This section applies when a Maori authority makes a payment of resident passive income that consists of a taxable Maori authority distribution in the form of a sum of money or an amount of a credit in the balance of an account with the Maori authority.
 Calculation of amount of tax
-(2) The amount of tax for the payment that the Maori authority must withhold and pay to the Commissioner is calculated using the formula—(tax rate × (distribution amount + credit attached)) &#8722; credit attached.
+(2) The amount of tax for the payment that the Maori authority must withhold and pay to the Commissioner is calculated using the formula—(tax rate × (distribution amount + credit attached)) – credit attached.
 Non-cash amounts
 (3) Despite subsection (2), if the resident passive income is not paid in cash, the amount of tax for the payment that the Maori authority must pay to the Commissioner is calculated using the formula—
 Definition of items in formulas
 (4) In the formulas in subsections (2) and (3),—
-  (a) tax rate is the basic rate set out in schedule 1, part D, clause 6 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits):
+  (a) tax rate is the basic rate set out in schedule 1, part D, clause 6 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits):
   (b) distribution amount is the amount of the distribution before the amount of tax is determined:
   (c) credit attached is the amount of the Maori authority credit attached to the distribution.
 
@@ -32349,7 +33819,7 @@ Calculation of amount of tax
 (2) The amount of tax for the payment is calculated using the formula—
 Definition of items in formula
 (3) In the formula,—
-  (a) tax rate is the basic rate set out in schedule 1, part D, clause 5 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits):
+  (a) tax rate is the basic rate set out in schedule 1, part D, clause 5 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits):
   (b) payment is the amount of the replacement payment excluding an imputation credit attached under section OB 64 (Replacement payments):
   (c) credit attached is the amount of an imputation credit attached to the replacement payment under section OB 64:
   (d) credit transferred is the amount of an imputation credit shown in a credit transfer notice relating to the replacement payment:
@@ -32360,14 +33830,14 @@ Calculation of amount of tax
 (1) A person who is an RWT proxy for a person paying resident passive income that consists of a dividend must withhold an amount of tax for the payment calculated using the formula—
 Definition of items in formula
 (2) In the formula,—
-  (a) tax rate is the basic rate set out in schedule 1, part D, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits):
+  (a) tax rate is the basic rate set out in schedule 1, part D, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits):
   (b) amount paid is the amount of the dividend paid.
 
 ### RE 19 Choosing higher rates
 When this section applies
 (1) This section applies when a person (person A) is entitled to receive resident passive income other than a replacement payment under a share-lending arrangement.
 Person choosing rate
-(2) Person A may notify the person who is required to withhold the amount of tax for the payment to use 1 of the rates set out in schedule 1, part D, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits).
+(2) Person A may notify the person who is required to withhold the amount of tax for the payment to use 1 of the rates set out in schedule 1, part D, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
 Company choosing rate
 (3) Despite subsection (1), if person A is a company, they may notify the person making the payment to withhold the amount of tax for the payment at the rate set out in schedule 1, part D, clause 3.
 Application of rate
@@ -32408,7 +33878,7 @@ Payment derived by non-resident
 When this section applies
 (1) This section applies when a company withholds RWT for resident passive income consisting of a dividend other than a dividend treated as interest.
 FDP credit
-(2) The amount is treated as an FDP credit attached to the dividend by the company which is treated as a FDPA company for the purposes of sections LE 6, LE 9, LF 1, LF 3, LF 4, and LF 6 to LF 9 (which relate to the amount and treatment of FDP credits), and section 185 of the Tax Administration Act 1994.
+(2) The amount is treated as an FDP credit attached to the dividend by the company which is treated as a FDPA company for the purposes of sections LE 6, LF 1, LF 3, LF 4, and LF 9 (which relate to the amount and treatment of FDP credits), and section 185 of the Tax Administration Act 1994.
 
 ### RE 24 When amount of tax treated as Maori authority credit
 When this section applies
@@ -32497,7 +33967,6 @@ Changes in membership
 Some definitions
 (10) In this section,—
   - **member** means a partner, joint venturer, a trustee, or a member of a body
-  - **partnership** and have the meanings given in the Partnership Act 1908.
 
 ### Subpart RF — Withholding tax on non-resident passive income (NRWT)
 
@@ -32601,7 +34070,7 @@ Definition of items in formula
 (3) In the formula in subsection (2),—
   (a) imputation credit amount is the amount of an imputation credit attached to the dividend:
   (b) supplementary dividend amount is the amount of a supplementary dividend payable under subpart LP (Tax credits for supplementary dividends) for the dividend:
-  (c) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2, (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) for the tax year in which the dividend is paid.
+  (c) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2, (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the tax year in which the dividend is paid.
 Fully credited for FDP
 (4) The extent to which a dividend is fully credited for FDP is calculated using the formula—
 Definition of items in formula
@@ -32654,7 +34123,7 @@ Dividend derived
 
 ### RF 12 Certain amounts of interest
 When payment derived jointly with resident
-(1) If a person makes a payment of non-resident passive income that consists of interest derived by 2 or more persons jointly and at least 1 person is a New Zealand resident, the amount of tax for the payment is calculated using the formula—(tax rate × (interest paid + foreign withholding tax)) &#8722; foreign withholding tax.
+(1) If a person makes a payment of non-resident passive income that consists of interest derived by 2 or more persons jointly and at least 1 person is a New Zealand resident, the amount of tax for the payment is calculated using the formula—(tax rate × (interest paid + foreign withholding tax)) – foreign withholding tax.
 Definition of items in formula
 (2) In the formula,—
   (a) tax rate is the basic rate set out in schedule 1, part D, clause 3 or 4 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits):
@@ -32701,6 +34170,16 @@ Exclusion for certain payments of interest
 NRWT rules apply as if amended
 (3) On the exercise of a power under subsection (1), the NRWT rules apply in the particular case as if they were amended in the way in which the power is exercised.
 
+### RF 16 Relationship with RSCT rules
+When this section applies
+(1) This section applies when a retirement scheme contributor makes a retirement scheme contribution for a person who is non-resident and pays RSCT for the contribution.
+NRWT
+(2) The contributor is treated as having withheld from the contribution an amount of NRWT equal to the lesser of—
+  (a) the amount of RSCT paid:
+  (b) the NRWT payable in relation to the contribution.
+Treatment of balance
+(3) Section LB 6 (Tax credits for RSCT) applies to any balance of RSCT paid.
+
 ### Subpart RG — Payments for foreign dividends (FDP)
 
 **Introductory provisions**
@@ -32745,7 +34224,7 @@ A company resident in New Zealand that receives a foreign dividend in a quarter 
 
 ### RG 4 Calculating amount of FDP
 Calculation of amount to pay
-(1) An amount of FDP is calculated using the formula—((dividend amount + foreign tax + underlying credit) × tax rate) &#8722; foreign tax &#8722; underlying credit.
+(1) An amount of FDP is calculated using the formula—((dividend amount + foreign tax + underlying credit) × tax rate) – foreign tax – underlying credit.
 Definition of items in formula
 (2) In the formula,—
   (a) dividend amount is the amount of the foreign dividend after subtracting any foreign withholding tax paid in relation to the dividend:
@@ -32754,7 +34233,7 @@ Definition of items in formula
     (i) an underlying foreign tax credit calculated in relation to the dividend under section LL 2 (Tax credits for underlying foreign tax) if it is a positive amount; or
     (ii) an imputation credit attached to the dividend, if subparagraph (i) does not apply:
   (d) tax rate is the basic rate of income tax set out in—
-    (i) schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits), if the company is not a Maori authority; or
+    (i) schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits), if the company is not a Maori authority; or
     (ii) schedule 1, part A, clause 7, if the company is a Maori authority.
 
 **Adjustments to payments**
@@ -32783,7 +34262,7 @@ Maximum reduction
 Definition of items in formula
 (3) In the formula,—
   (a) payment is the amount determined under section RF 2(5) and (6) (Non-resident passive income):
-  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) for the tax year in which the dividend is paid.
+  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the tax year in which the dividend is paid.
 Time for making election
 (4) The company must make the election by the relevant due date after the end date set out in section RA 15(3)(c) (Payment dates for interim and other tax payments), or by a later date if the Commissioner allows.
 No actual tax loss
@@ -32833,6 +34312,82 @@ Treasury stock and determination of residence
 (9) For the purposes of this section,—
   (a) treasury stock is disregarded:
   (b) the rules for determining residence in sections YD 9 to YD 11 (which relate to CTR companies) apply.
+
+### Subpart RH — Withholding tax on retirement scheme contributions
+
+### RH 1 RSCT rules and their application
+Meaning
+(1) The RSCT rules means—
+  (a) this subpart; and
+  (b) section BE 1(5B) (Withholding liabilities); and
+  (c) section CX 50B (Contributions to retirement savings schemes); and
+  (d) section LB 6 (Tax credits for RSCT); and
+  (e) section LE 7B (Credit of RSCT for imputation credit); and
+  (f) section LO 2B (Credit of RSCT for Maori authority credit); and
+  (g) section MB 1(5B) (Adjustments for calculation of family scheme income); and
+  (h) section MB 6 (Treatment of distributions from retirement savings schemes); and—
+  (i) schedule 1, part D, clause 7; and
+  (j) sections 28C and 48B and Part 9 of the Tax Administration Act 1994.
+Application
+(2) (2) The RSCT rules apply to a retirement scheme contributor who makes a retirement scheme contribution.
+
+### RH 2 Retirement scheme contributions
+Contribution for benefit of members
+(1) A retirement scheme contribution means a contribution in money by a retirement scheme contributor to a retirement savings scheme for the benefit of a person who is a member of, or who has an ownership interest in, the contributor.
+Tax credits
+(2) For the purposes of subsection (1), money includes an amount of an imputation credit or a Maori authority credit.
+Determining amount of contribution
+(3) The amount of a retirement scheme contribution is the sum of—
+  (a) the amount of the contribution received by the retirement savings scheme and not withheld under subsection (5) on behalf of the retirement scheme contributor; and
+  (b) the amount of tax for the retirement scheme contribution.
+Payment of amount of tax
+(4) A retirement scheme contributor who pays an amount that represents a retirement scheme contribution must withhold and pay to the Commissioner the amount of tax for the contribution. The amount is payable monthly under section RA 15 (Payment dates for interim and other tax payments).
+Appointment of agent
+(5) For the purposes of subsection (4), a contributor may appoint the retirement savings scheme as agent in relation to the calculation and payment of the amount of tax.
+
+### RH 3 Retirement savings schemes
+Requirements for entity
+(1) An entity is a retirement savings scheme for a person if the entity—
+  (a) is a portfolio investment entity; and
+  (b) holds funds from a retirement scheme contribution for the person; and
+  (c) has rules (the distribution rules) governing the distribution by the entity of funds in which the person has an interest that—
+    (i) are approved by the Commissioner as fair and reasonable; and
+    (ii) meet the requirements of subsection (2).
+Requirements for rules
+(2) The rules must provide that—
+  (a) the availability of a distribution to the person is restricted before the person reaches an age of retirement set out in the rules:
+  (b) the person is not permitted to make a withdrawal before the age of retirement other than a withdrawal—
+    (i) to repay a student loan under the Student Loan Scheme Act 1992:
+    (ii) to pay fees and expenses related to tertiary education:
+    (iii) to buy a home if the person does not own one:
+    (iv) that the person would be permitted to make if the scheme were a KiwiSaver scheme under the KiwiSaver Act 2006:
+    (v) in circumstances set out in the distribution rules that have been approved under subsection (1)(c)(i):
+  (c) the entity may require the person to provide information to ensure that the requirements relating to a withdrawal are met.
+
+### RH 4 Retirement scheme contributors
+An entity is a retirement scheme contributor for a person for an income year if—
+  (a) the entity is—
+    (i) the trustee of a widely-held trust that is a unit trust:
+    (ii) a company other than a close company:
+    (iii) a Maori authority; and
+  (b) the person is a unit holder, shareholder, or member of the entity:
+  (c) in or before the income year, the entity makes a payment intended to be a retirement scheme contribution for the person.
+
+**Calculating amounts of tax**
+
+### RH 5 Calculating amounts of tax for retirement scheme contribution
+The amount of tax for a retirement scheme contribution is the amount determined under schedule 1, part D, clause 7 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
+
+### RH 6 Calculating amounts of tax on failure to withhold
+When this section applies
+(1) This section applies when a retirement scheme contributor or retirement savings scheme does not withhold an amount of tax for a retirement scheme contribution under section RH 2(4).
+Calculation of amount
+(2) The amount is calculated using the formula—tax rate× contribution to scheme – tax already paid.1 – tax rate
+Definition of items in formula
+(3) In the formula,—
+  (a) tax rate is the rate of RSCT for the person set out in schedule 1, part D, clause 7 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits):
+  (b) contribution to scheme is the amount of the retirement scheme contribution received by the retirement savings scheme excluding the amount of tax:
+  (c) tax already paid is any amount of tax for the contribution that has already been paid.
 
 ### Subpart RM — Refunds
 
@@ -32929,7 +34484,7 @@ Request for particular application
 Commissioner applying refund
 (3) If no request is made under subsection (2), the Commissioner may apply the amount of the refund to satisfy a liability that the person has under the Inland Revenue Acts.
 Exclusion
-(4) Despite subsection (3), the Commissioner must not apply the amount of a refund under section LA 7 (Remaining refundable credits: family scheme income) or RM 8 to satisfy a liability of the person.
+(4) Despite subsection (3), the Commissioner must not apply the amount of a refund under section LA 7 (Remaining refundable credits: tax credits for families) or RM 8 to satisfy a liability of the person.
 
 ### RM 11 Using GST refund to pay instalment of provisional tax
 When this section applies
@@ -33040,7 +34595,7 @@ When subsection (2) applies
 Refund
 (2) The company is entitled to a refund of an amount equal to the least of the following, as applicable:
   (a) the amount of FDP that the company pays in the income year in which the foreign dividend is paid; or
-  (b) the amount of the loss balance multiplied by the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) for the income year in which the foreign dividend is paid; or
+  (b) the amount of the loss balance multiplied by the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the income year in which the foreign dividend is paid; or
   (c) the credit balance of the company’s FDP account at the end of the tax year that has just ended.
 Group company’s tax loss
 (3) This section also applies, treating the group of companies as the company, when—
@@ -33394,8 +34949,8 @@ For the purposes of sections MB 4 and MB 5 other than section MB 5(3) and (4) of
 
 ### RZ 3 Standard method: 2008–09 and 2009–10 income years
 When this section applies
-(1) This section applies to the calculation of a portfolio tax rate entity’s provisional tax liability for the 2008–09 and 2009–10 income years when—
-  (a) the entity uses a 30% basic tax rate; and
+(1) This section applies to the calculation of a persons provisional tax liability for the 2008–09 and 2009–10 income years when—
+  (a) the person is a new tax rate person; and
   (b) section RC 5 (Methods for calculating provisional tax liability) applies.
 Standard method modified: for 5% uplift
 (2) In the application of the standard method under section RC 5(2), the amount of provisional tax payable for the 2008–09 income year is equal to 95% of the residual income tax for the preceding tax year.
@@ -33404,8 +34959,8 @@ Standard method modified: for 10% uplift
 
 ### RZ 4 GST ratio method: 2008–09 and 2009–10 income years
 When this section applies
-(1) This section applies to the calculation of a portfolio tax rate entity’s provisional tax liability for the 2008–09 and 2009–10 income years when—
-  (a) the entity uses a 30% basic tax rate:
+(1) This section applies to the calculation of a persons provisional tax liability for the 2008–09 and 2009–10 income years when—
+  (a) the person is a new tax rate person:
   (b) section RC 8 (GST ratio method) applies and requires an amount of residual income tax or an assessment of income tax for the calculation of the GST ratio:
   (c) the amount referred to in paragraph (b) is the amount for the 2007–08 income year.
 GST ratio method modified
@@ -33413,8 +34968,8 @@ GST ratio method modified
 
 ### RZ 5 Calculating amounts under standard method: 2008–09 and 2009–10 income years
 When this section applies
-(1) This section applies to the calculation of a portfolio tax rate entity’s provisional tax liability for the 2008–09 and 2009–10 income years when—
-  (a) the entity uses a 30% basic tax rate; and
+(1) This section applies to the calculation of a persons provisional tax liability for the 2008–09 and 2009–10 income years when—
+  (a) the person is a new tax rate person; and
   (b) section RC 10 (Calculating amount of instalment under standard and estimation methods) applies.
 Calculation modified: 2008–09 income year
 (2) In the calculation of the amount of an instalment under section RC 10(2) for the 2008–09 income year, the item residual income tax in the formula is—
@@ -33474,6 +35029,7 @@ In this Act, unless the context requires otherwise,—
   - **1973 version provisions** is defined in section YB 20 (Some definitions) for the purposes of sections YB 1 to YB 19 (which relate to associated persons)
   - **1988 version provisions** is defined in section YB 20 (Some definitions) for the purposes of sections YB 1 to YB 19 (which relate to associated persons)
   - **1990 version provisions** is defined in section YB 20 (Some definitions) for the purposes of sections YB 1 to YB 19 (which relate to associated persons)
+  - **abating WFF tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
   - **absentee** —
     (a) means a person other than a person who is resident in New Zealand during any part of the tax year:
     (b) is defined in section HD 18 (Agency in relation to absentees generally) for the purposes of subpart HD (Agents)
@@ -33588,8 +35144,8 @@ In this Act, unless the context requires otherwise,—
     (g) is defined in section RD 37(2) (Contributions to superannuation schemes) for the purposes of that section:
     (h) is defined in section RD 41(4) (Services) for the purposes of that section
   - **amount of all consideration** is defined in section EZ 48 (Definitions) for the purposes of the old financial arrangements rules
-  - **amount of tax** , for a payment, means the amount of tax that must be withheld and paid, or paid to the Commissioner under the PAYE rules, ESCT rules, RWT rules, or NRWT rules
-  - **ancillary tax means** —
+  - **amount of tax** , for a payment, means the amount of tax that must be withheld and paid, or paid to the Commissioner under the PAYE rules, ESCT rules, RSCT rules, RWT rules, or NRWT rules
+  - **ancillary tax** means—
     (a) provisional tax:
     (b) further income tax:
     (c) imputation penalty tax:
@@ -33601,6 +35157,7 @@ In this Act, unless the context requires otherwise,—
     (i) PAYE:
     (j) FBT:
     (k) ESCT:
+    (kb) RSCT:
     (l) RWT:
     (m) NRWT:
     (n) withdrawal tax
@@ -33636,6 +35193,7 @@ In this Act, unless the context requires otherwise,—
     (c) section YB 14(5) (Trusts: trusts with common settlor) for the purposes of that section:
     (d) section YB 15(5) (Trusts: trustee and settlor: 1988 version provisions) for the purposes of that section:
     (e) section YB 17(3) (Partnerships: partnership and associate of partner) for the purposes of that section
+  - **associated internal software developer** is defined in section LH 17 (Some definitions) for the purposes of subpart LH (Tax credits for expenditure on research and development)
   - **associated mining operations** is defined in section CU 29 (Other definitions)
   - **association** , in subpart HE (Mutual associations), and sections CB 33, CB 34, and DV 19, (which relate to mutual associations), means a body or association of persons, whether incorporated or not
   - **association rebate** is defined in section HE 3 (Association rebates) for the purposes of subpart HE (Mutual associations) and sections CB 34 and DV 19 (which relate to mutual associations)
@@ -33664,7 +35222,7 @@ In this Act, unless the context requires otherwise,—
   - **base amount** is defined in section RC 8(2) (GST ratio method) for the purposes of that section
   - **base premium for the 1998–99 premium year** is defined in section EZ 30(3) (Base premium for 1998–99 premium year under Accident Insurance Act 1998) for the purposes of that section
   - **basic tax rate** , for a person,—
-    (a) means the basic rate of income tax for the person set out in schedule 1 (Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits) and schedule 2 (Basic tax rates for PAYE income payments); and
+    (a) means the basic rate of income tax for the person set out in schedule 1 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) and schedule 2 (Basic tax rates for PAYE income payments); and
     (b) in the case of a transitional year, resulting from a change in a person’s balance date, has the meaning given in section 39(5) of the Tax Administration Act 1994
   - **benchmark distribution** means the first taxable Maori authority distribution by a Maori authority in a tax year
   - **benchmark dividend** , means the first dividend paid by a company in a tax year that is not 1 of the following kinds
@@ -33709,6 +35267,7 @@ In this Act, unless the context requires otherwise,—
   - **business use** , for a motor vehicle and for a person, means travel undertaken by the vehicle wholly in deriving the person’s income
   - **calculation method** , for the calculation of FIF income or FIF loss, means any of the accounting profits method, the branch equivalent method, the comparative value method, the deemed rate of return method, the fair dividend rate method, and the cost method
   - **cancellation** , for a company and for a share, means the acquisition, redemption, or other cancellation of the whole share by the company, including on the liquidation of the company
+  - **capital contribution** is defined in section HG 11(12) (Limitation on deductions by partners in limited partnerships) for the purposes of that section
   - **capital limitation** is defined in section DA 2(1) (General limitations)
   - **capital property** is defined in section CD 44(18) (Available capital distribution amount) for the purposes of that section
   - **car** ,—
@@ -33732,7 +35291,7 @@ In this Act, unless the context requires otherwise,—
   - **CFC** has the same meaning as
   - **charitable or other public benefit gift** is defined in section LD 3 (Meaning of charitable or other public benefit gift) for the purposes of subpart LD (Tax credits for charitable or other public benefit gifts)
   - **charitable organisation** —
-    (a) means, for a quarter or an income year, an association, fund, institution, organisation, society, or trust listed in schedule 32 (Recipients of charitable or other public benefit gifts)—
+    (a) means, for a quarter or an income year, an association, fund, institution, organisation, society, or trust to which section LD 3(2) (Meaning of charitable or other public benefit gift) or schedule 32 (Recipients of charitable or other public benefit gifts) applies—
       (i) in the quarter; or
       (ii) in the income year, if fringe benefit tax is payable on an income year basis under section RD 60 (Close company option); and
     (b) does not include a local authority, a public authority, or a university
@@ -33749,7 +35308,7 @@ In this Act, unless the context requires otherwise,—
   - **child** in subparts MA to MF and MZ (which relate to tax credits for families), and in the definition of , means a person who is not in a marriage, civil union, or de facto relationship between a man and a woman, and who—
     (a) is aged 15 years or less; or
     (b) is aged 16 or 17 years and is not financially independent; or
-    (c) is aged 18 years and is a person for whom a tax credit is allowed under section MD 1 (Family assistance credit) or both sections MD 1 and ME 1 (Family tax credit)
+    (c) is aged 18 years and is a person for whom a tax credit is allowed under section MD 1 (Abating WFF tax credit) or both sections MD 1 and ME 1 (Minimum family tax credit)
   - **child tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
   - **civil union partner** , in subparts MA to MF and MZ (which relate to tax credits for families) and section LC 4 (Tax credits for transitional circumstances) and in the definitions of , , and , does not include a separated person
   - **claim** , in the life insurance rules, is defined in section EY 7 (Meaning of claim)
@@ -33817,6 +35376,9 @@ In this Act, unless the context requires otherwise,—
   - **community trust** is defined in section 4 of the Community Trusts Act 1999
   - **company** —
     (a) means a body corporate or other entity that has a legal existence separate from that of its members, whether it is incorporated or created in New Zealand or elsewhere:
+    (ab) does not include a partnership:
+    (ac) includes a listed limited partnership:
+    (ad) includes a foreign corporate limited partnership:
     (b) includes a unit trust:
     (c) includes a group investment fund that is not a designated group investment fund, but only to the extent to which the fund results from investments made into it that are—
       (i) not from a designated source, as defined in section HR 3(5) (Definitions for section HR 2: group investment funds); and
@@ -33838,6 +35400,7 @@ In this Act, unless the context requires otherwise,—
   - **complying fund rules** is defined in section RD 66 (Complying fund rules)
   - **complying superannuation fund** means a superannuation fund that is approved as a complying superannuation fund by the Government Actuary under section 35 of the Superannuation Schemes Act 1989
   - **complying trust** is defined in section HC 10 (Complying trusts)
+  - **compulsory employer contribution** has the same meaning as in the KiwiSaver Act 2006
   - **conduct** is defined in section IZ 1(12) (Use of specified activity net losses) for the purposes of that section
   - **conduit company** is a company that meets the requirements of section FF 2 (When interest apportionment rule applies)
   - **consideration** —
@@ -33960,6 +35523,12 @@ In this Act, unless the context requires otherwise,—
     (c) sections OE 10 and OE 15 (which relate to BETA credits and debits for loss of shareholder continuity)
   - **credit of tax** has the same meaning as
   - **credit transfer notice** means a credit transfer notice issued under section 30C of the Tax Administration Act 1994
+  - **creditable membership** , for a person,—
+    (a) means membership of a KiwiSaver scheme or a complying superannuation fund; and
+    (b) includes the following periods:
+      (i) the period beginning on the first day of a month in which a KiwiSaver contribution for the person is first deducted or first received by the Commissioner and ending on the day on which securities are first allotted by the scheme for the person:
+      (ii) the days in the month in which securities are first allotted by the scheme or fund for the person:
+      (iii) for the period beginning on 1 July 2007 and ending on the day on which securities are first allotted by the scheme for the person, and for a person who contributes to the scheme before 1 November 2007, the days in the month on which the scheme receives a valid application for membership from the person and the days remaining in the period
   - **Crown Research Institute** is defined in section 2 of the Crown Research Institutes Act 1992
   - **CTR** means conduit tax relief
   - **CTR account** means the account referred to in section OA 2(1)(c) (Memorandum accounts)
@@ -34006,11 +35575,12 @@ In this Act, unless the context requires otherwise,—
   - **depreciation recovery income** —
     (a) means income that a person has in the circumstances set out in section EE 1(3) (What this subpart does); and
     (b) includes income that a person had under the corresponding provision of an earlier Act
+  - **derivative instrument** is defined in section EW 15F (Expected value method) for the purposes of that section and section EW 15G (Modified fair value method)
   - **derived from New Zealand** means having a source in New Zealand described in sections YD 4 (Classes of income treated as having New Zealand source) and YZ 1 (Source rule for interest)
   - **designated group investment fund** is defined in section HR 3(6) (Definitions for section HR 2: group investment funds) for the purposes of section HR 2 (Group investment funds)
   - **designated source investments** is defined in section HR 3(7) (Definitions for section HR 2: group investment funds) for the purposes of section HR 2 (Group investment funds)
   - **designated sources** is defined in section HR 3(5) (Definitions for section HR 2: group investment funds) for the purposes of section HR 2 (Group investment funds)
-  - **development** is defined in section DB 35 (Some definitions) for the purposes of sections DB 34, EE 1, EJ 22, and EJ 23 (which relate to deductions and allocation of deductions for development expenditure)
+  - **development** is defined in section DB 35 (Some definitions) for the purposes of that section and section DB 34 (Research or development)
   - **development investments** is defined in section LZ 5 (Some definitions) for the purposes of sections LZ 2 to LZ 4 (which relate to credits for certain development projects)
   - **diminished value** , for an income year, means the value established by subtracting from the amount of expenditure described in sections DO 4 and DO 5, DO 12, or DP 3 (which relate to certain businesses on land) the following amounts
     (a) the total income derived under section CB 28(8) (Environmental restoration accounts) in relation to the expenditure; and
@@ -34055,7 +35625,10 @@ In this Act, unless the context requires otherwise,—
     (f) for depreciable property, includes destroy, withdraw, or let lapse, but does not include the following:
       (i) for a patent application, conclude the patent application because a patent is granted in relation to the patent application:
       (ii) for a geothermal well, have the well stop being available for use because section EE 6(4) (What is depreciable property) no longer applies:
-    (g) in subpart FC (Distribution, transmission, and gifts of property) means a disposal of property in the manner provided for in that subpart
+    (g) in subpart FC (Distribution, transmission, and gifts of property) means a disposal of property in the manner provided for in that subpart:
+    (h) for a partner,—
+      (i) includes surrendering or extinguishing some or all of their partner’s interests:
+      (ii) does not include when their partner’s interests may be treated as disposed of by operation of law because another partner disposes of that partner’s interests, unless section HG 4 (Disposal upon final dissolution) applies
   - **disposition of property** in the trust rules, and in the definition of , but not for a unit trust,—
     (a) means an assignment, conveyance, delivery, payment, settlement, transfer, or other alienation of property, whether at law or in equity; and
     (b) without limiting the generality of paragraph (a), includes—
@@ -34069,6 +35642,7 @@ In this Act, unless the context requires otherwise,—
     (e) does not include a disclaimer of an interest under an intestacy
   - **distinctive work clothing** is defined in section CX 30(2) (Distinctive work clothing) for the purposes of that section
   - **distribution** is defined in section HC 14 (Distributions from trusts) for the purposes of the trust rules
+  - **district health board** means a district health board established by or under section 19 of the New Zealand Public Health and Disability Act 2000
   - **dividend** —
     (a) is defined in sections CD 3 to CD 21 (which relate to income from equity) for the purposes of this Act, except for the definition of investment society dividend:
     (b) in the RWT rules, does not include any dividend of the kind listed in section RE 2(1)(b), (5) and (6) (Resident passive income):
@@ -34107,13 +35681,13 @@ In this Act, unless the context requires otherwise,—
     (a) means a person who receives or is entitled to receive a PAYE income payment:
     (b) in sections CW 17 (Expenditure on account, and reimbursement, of employees) and CW 18 (Allowance for additional transport costs) includes a person to whom section RD 3(2) to (4) (PAYE income payments) applies:
     (c) in the FBT rules, and in the definition of shareholder-employee (paragraph (b)), does not include a person if the only PAYE income payment received or receivable is—
-      (i) a payment referred to in section RD 5(1)(b)(iii), (2), (6)(b) and (c) and (7) (Salary or wages):
+      (i) a payment referred to in section RD 5(1)(b)(iii), (3), (6)(b) and (c) and (7) (Salary or wages):
       (ii) a schedular payment referred to in schedule 4 (Rates of tax for schedular payments) for which the person is liable for income tax under section BB 1 (Imposition of income tax):
     (d) is defined in section DC 15 (Some definitions) for the purposes of sections DC 12 to DC 14 (which relate to share purchase schemes):
     (e) for an employer, means an employee of the employer
   - **employee share loan** is defined in section CX 35 (Meaning of employee share loan)
   - **employee’s superannuation accumulation** means the total superannuation contributions, together with any return on them, to which the complying fund rules apply, and are—
-    (a) employer’s superannuation contributions vested in an employee:
+    (a) employer contributions:
     (b) the amount of a tax credit under section MK 3 (Payment of tax credits) that is treated as a Crown contribution for an employee under section MK 5 (Crown contributions for members):
     (c) withheld from the employee’s salary or wages
   - **employer** —
@@ -34128,6 +35702,7 @@ In this Act, unless the context requires otherwise,—
       (ii) a schedular payment referred to in schedule 4 (Rates of tax for schedular payments):
     (d) is defined in section RD 45(6) (Unclassified benefits) for the purposes of that section:
     (e) for an employee, means the employer of the employee
+  - **employer contribution** has the same meaning as in the KiwiSaver Act 2006
   - **employer monthly schedule** means a form that an employer must provide to the Commissioner in manual format or in electronic format, or that a PAYE intermediary must provide to the Commissioner in electronic format, showing—
     (a) the name and tax file number of the employer; and
     (b) the name of every person who was an employee of the employer at any time during the period to which the employer monthly schedule relates; and
@@ -34151,17 +35726,20 @@ In this Act, unless the context requires otherwise,—
       (ii) for all other superannuation funds, reserves
   - **employer’s superannuation contribution** is defined in section RD 65(1) (Employer’s superannuation contributions)
   - **employing company** is defined in section DC 15 (Some definitions) for the purposes of sections DC 12 to DC 14 (which relate to share purchase schemes)
-  - **employment** has a meaning corresponding to the meaning of
-  - **employee** , and—
+  - **employment** has a meaning corresponding to the meaning of , and—
     (a) includes the activities performed by a member of Parliament or a judicial officer that give rise to an entitlement to receive a PAYE income payment for the activities:
-    (b) is defined in section ME 2(1) (Meaning of employment for this subpart) for the purposes of subpart ME (Family tax credit) and the definition of full-time earner
+    (b) is defined in section ME 2(1) (Meaning of employment for this subpart) for the purposes of subpart ME (Minimum family tax credit) and the definition of full-time earner
   - **employment income** means an amount that is income under section CE 1 (Amounts derived in connection with employment)
   - **employment limitation** is defined in section DA 2(4) (General limitations)
   - **employment-related loan** means a loan that is a fringe benefit
   - **end date** is defined in section RA 15(3) (Payment dates for interim and other tax payments) for the purposes of that section
   - **engaged in full-time work** is defined in section LC 5 (Meaning of engaged in full-time work) for the purposes of section LC 4 (Tax credits for transitional circumstances)
+  - **entering partner** —
+    (a) means a person who acquires a partner’s interests in a partnership:
+    (b) includes a person who is already a partner in the partnership when they acquire another partner’s interests
   - **entitlement period** is defined in section MC 11(1) (Relationship periods and entitlement periods) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
   - **environmental restoration account** is defined in section EK 23(3) (Other definitions) for the purposes of subpart EK (Environmental restoration accounts)
+  - **equity instrument** is defined in section EW 15I(3) (Mandatory use of yield to maturity method for some arrangements) for the purposes of that section
   - **ESCT** means and refers to an amount payable as income tax under the ESCT rules
   - **ESCT rate threshold amount** , for an employer’s superannuation contribution, means—
     (a) for an employee employed by an employer for the whole of a tax year immediately before the tax year in which the employer’s superannuation contribution is paid, the total amount of—
@@ -34257,12 +35835,10 @@ In this Act, unless the context requires otherwise,—
   - **extended return date** is defined in section IC 9(3) (Date for payment and notice to Commissioner) for the purposes of Part I (Treatment of tax losses)
   - **extra pay** is defined in section RD 7 (Extra pay)
   - **fair dividend rate method** means the method of calculating FIF income or FIF loss under section EX 52 (Fair dividend rate method: usual method)
-  - **family assistance credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
+  - **fair value method** means a method of calculating income or expenditure for an income year that takes into account movements in fair value as determined under IFRSs
   - **family credit abatement** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
-  - **family plus** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
   - **family scheme** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
   - **family scheme income** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
-  - **family support** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
   - **family tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
   - **farmer** is defined in section EH 3(1)(a) (Persons to whom main income equalisation scheme applies) for the purposes of the main income equalisation scheme
   - **farm-in expenditure** means expenditure that a farm-in party under a farm-out arrangement agrees that they will incur
@@ -34333,7 +35909,11 @@ In this Act, unless the context requires otherwise,—
       (i) the transfer of the ownership of the asset to the lessee or an associate of the lessee during or at the end of the term of the lease:
       (ii) the lessee or an associate of the lessee having the option of acquiring the asset for an amount that is likely to be substantially lower than the asset’s market value on the date of acquisition:
       (iii) a right of an associate of the lessee to acquire the asset, or a right of the lessor to require an associate of the lessee to acquire the asset, during the term of the lease under an arrangement that does not entitle the associate to receive all of the personal property lease payments that may fall due after the acquisition:
-    (b) when the person enters the lease or from a later time, involves a term of the lease that is more than 75% of the asset’s estimated useful life as defined in section EE 63 (Meaning of estimated useful life)
+    (b) when the person enters the lease or from a later time, involves a term of the lease that is more than 75% of the asset’s estimated useful life as defined in section EE 63 (Meaning of estimated useful life):
+    (c) the person enters on or after 20 June 2007 and is, or is part of, an arrangement that, when the person enters the lease or when a change in the terms of the arrangement changes the allocation or size of the risks and rewards incidental to ownership of the lease asset,—
+      (i) involves the use of the asset outside New Zealand for all or most of the term of the lease; and
+      (ii) involves income of any person who is not the lessor, arising from the use of the asset by any person, that is exempt income, or excluded income, or non-residents' foreign sourced income; and
+      (iii) is a finance lease under NZIAS 17 for the lessor, or for a company that is in the same group of companies as the lessor and derives assessable income from the arrangement, or is an arrangement under which persons who do not include the lessor bear substantially all the risks and rewards incidental to ownership of the lease asset, determined as at the time the person enters the lease and taking into account later changes to the arrangement
   - **finance-related deduction** means a deduction of a company that is part of a consolidated group, calculated as if the company were not part of the group and determined under section FM 3 (Liability of consolidated groups and group companies) for an amount, other than an amount that arises only from movement in currency exchange rates, of—
     (a) interest incurred:
     (b) expenditure under the financial arrangements rules or the old financial arrangements rules
@@ -34342,7 +35922,7 @@ In this Act, unless the context requires otherwise,—
     (b) is defined in section EZ 48 (Definitions) for the purposes of the old financial arrangements rules
   - **financial arrangements rules** is defined in section EW 1(2) (What this subpart does)
   - **financial assistance** is defined in section HC 36(5) (Trusts and minor beneficiary rule) for the purposes of that section
-  - **financial statements** , in subpart EB (Valuation of trading stock (including dealer’s livestock)) and sections EG 3 (Allocation of income and deductions by portfolio tax rate entity) and OB 40 (ICA attribution for personal services), is defined in section 8 of the Financial Reporting Act 1993, but the references in the definition to an and to a are to be read as references to a person
+  - **financial statements** , in subparts EB (Valuation of trading stock (including dealer's livestock)) and EW (Financial arrangements rules) and sections EG 3 (Allocation of income and deductions by portfolio tax rate entity) and OB 40 (ICA attribution for personal services), is defined in section 8 of the Financial Reporting Act 1993, but the references in the definition to an and to a are to be read as references to a person
   - **financial value** is defined in section FE 20(1) (Financial value and regulatory value) for the purposes of sections FE 7, FE 19, and FE 21 to FE 23 (which relate to a New Zealand banking group’s equity threshold)
   - **financially independent** means—
     (a) in full employment—
@@ -34399,6 +35979,9 @@ In this Act, unless the context requires otherwise,—
   - **foreign company** means a company that—
     (a) is not resident in New Zealand; or
     (b) is treated under a double tax agreement as not being resident in New Zealand
+  - **foreign corporate limited partnership** means an entity or group of persons that—
+    (a) meets the definition of overseas limited partnership in section 4 of the Limited Partnerships Act 2008; and
+    (b) is treated as a separate legal entity under the laws (other than taxation laws) of the country, territory, or jurisdiction where it is established
   - **foreign country** is defined in section DB 45(4) (Bribes paid to public officials) for the purposes of that section
   - **foreign dividend** is defined in section RG 2(1) (Foreign dividends)
   - **foreign dividend company** is defined in section LL 9 (Some definitions) for the purposes of subpart LL (Underlying foreign tax credits (UFTC))
@@ -34454,6 +36037,9 @@ In this Act, unless the context requires otherwise,—
   - **gaming-machine venue licence** means a class 4 venue licence as defined in section 4 of the Gambling Act 2003
   - **general insurance** means insurance that is not life insurance
   - **general limitation** means a rule described in any of section DA 2(1) to (6) (General limitations)
+  - **general partner** —
+    (a) means a general partner of a limited partnership:
+    (b) includes a general partner of an overseas limited partnership as defined in section 4 of the Limited Partnerships Act 2008
   - **general permission** is defined in section DA 1(1) (General permission)
   - **general power of appointment** —
     (a) includes a power or authority that—
@@ -34470,6 +36056,7 @@ In this Act, unless the context requires otherwise,—
       (i) deriving assessable income:
       (ii) carrying on a business for the purposes of deriving assessable income
   - **geothermal well** means a bore or well solely for the purpose of investigating or exploiting geothermal energy in New Zealand
+  - **gifting settlor** is defined in section EX 46(12) (Limits on choice of calculation methods)
   - **goods** , in sections CX 1 (Goods and services tax), DB 2 (Goods and services tax), and EA 3 (Prepayments), and in the definition of , is defined in section 2 of the Goods and Services Tax Act 1985
   - **government stock** is defined in section DZ 11(3) (Film reimbursement scheme on or before 30 June 2001) for the purposes of that section
   - **Government Superannuation Fund** means the fund established under the Government Superannuation Fund Act 1956
@@ -34495,7 +36082,7 @@ In this Act, unless the context requires otherwise,—
     (a) Public Trust Act 2001 ; or
     (b) Trustee Companies Act 1967 ; or
     (c) Public Trust Office Act 1957
-  - **group of companies** is defined in section IC 3(1) (Common ownership: group of companies)
+  - **group of companies** is defined in section IC 3 (Common ownership: group of companies)
   - **group of persons** includes 1 person
   - **GST** means goods and services tax under the Goods and Services Tax Act 1985
   - **GST charged** means GST charged under section 8(1) of the Goods and Services Tax Act 1985
@@ -34558,6 +36145,8 @@ In this Act, unless the context requires otherwise,—
   - **ICA company** means a company referred to in section OB 1(1) (General rules for companies with imputation credit accounts)
   - **identical goods** , for the purposes of the FBT rules, for any goods, means other goods that are the same in terms of physical characteristics, quality, and reputation, except for minor differences in appearance that do not affect the value of the goods
   - **identical share** means a share that confers the same rights and imposes the same obligations on a holder as an original share
+  - **IFRS** means a New Zealand Equivalent to International Financial Reporting Standard, approved by the Accounting Standards Review Board, and as amended from time to time or an equivalent standard issued in its place
+  - **impaired credit adjustment** is defined in section EW 15D(3) (IFRS financial reporting method) for the purposes of that section.
   - **implementation date** is defined in section EZ 48 (Definitions) for the purposes of the old financial arrangements rules
   - **improvement** , for an item of depreciable property, is defined in section EE 67 (Other definitions)
   - **improvements** , in sections CB 7 (Disposal: land acquired for purposes of business relating to land) and CB 11 (Disposal within 10 years of improvement: building business), means improvements to land that—
@@ -34612,6 +36201,7 @@ In this Act, unless the context requires otherwise,—
     (g) widows’ benefit
   - **increase in savings** is defined in section LZ 12 (Meaning of increase in savings) for the purposes of sections LZ 9 to LZ 11 (which relate to credits for savings in special accounts)
   - **indirect income interest** is defined in section EX 10 (Indirect income interests)
+  - **industry research co-operative** means a person who is an industry research co-operative under section LH 16 (Industry research co-operatives).
   - **initial period** is defined in section FZ 3(4) (Income of lessor under specified lease) for the purposes of that section
   - **initial provisional tax liability** , means—
     (a) for a person who is not a natural person, or a person who is a natural person and a trustee of a trust, a provisional tax liability for a tax year in which the person starts to derive income from a taxable activity, when they did not derive income from a taxable activity in any of the 4 previous tax years; and
@@ -34658,6 +36248,9 @@ In this Act, unless the context requires otherwise,—
     (b) after which, except in a case to which section 120KC(1) of the Tax Administration Act 1994 applies, an instalment amount that is overpaid or underpaid attracts use of money interest, a late payment penalty, or a shortfall penalty, as applicable
   - **interested shareholder** is defined in section HD 15(9) (Asset stripping of companies) for the purposes of that section
   - **intermediary** means a person described in section RP 2 or RP 17 (which relate to PAYE intermediaries and tax pooling intermediaries) for the purposes of subpart RP (Intermediaries)
+  - **internal software development** is defined in section LH 17 (Some definitions) for the purposes of subpart LH (Tax credits for expenditure on research and development)
+  - **internal software development controller** is defined in section LH 17 (Some definitions) for the purposes of subpart LH (Tax credits for expenditure on research and development)
+  - **internal software development group** is defined in section LH 17 (Some definitions) for the purposes of subpart LH (Tax credits for expenditure on research and development)
   - **international aircraft** is defined in section EE 67 (Other definitions)
   - **international organisation** is defined in section CW 22(3) (Amounts derived by overseas experts and trainees in New Zealand by government arrangement) for the purposes of that section
   - **international tax rules** means—
@@ -34687,9 +36280,9 @@ In this Act, unless the context requires otherwise,—
       (ii) some tangible or intangible benefit that a member or a shareholder receives for disposing to the society of a share in the society; the benefit may or may not be relief from an obligation and may or may not be convertible into money
   - **investor** means,—
     (a) for a group investment fund, a person who is entitled, by reason of the terms of the trust under which the group investment fund is established, to the income from the money, investments, and other property of the group investment fund:
-    (b) for a portfolio investment entity that is a company, a shareholder in the company:
-    (c) for a portfolio investment entity that is not a company, a person who is entitled, by reason of the rules of the portfolio investment entity or the terms of the trust under which the portfolio investment entity is established, to a proportion of the funds available for distribution by the entity as if the entity were a company and the investor were a shareholder in the company
-  - **in-work payment** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
+    (b) for a portfolio investment entity is defined in section HL 5B (Meaning of investor and portfolio investor class)
+    (c)
+  - **in-work tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
   - **issue** ,—
     (a) for a financial arrangement, means the act of creating the financial arrangement:
     (b) is defined in section YZ 1 (Source rule for interest) for the purposes of that section
@@ -34785,6 +36378,12 @@ In this Act, unless the context requires otherwise,—
     (c) a listed company:
     (d) a widely-held company:
     (e) a foreign company that is not a closely-held company
+  - **limited partner** means a limited partner of a limited partnership or an as defined in section 4 of the Limited Partnerships Act 2008
+  - **limited partnership** —
+    (a) means a limited partnership registered under the Limited Partnerships Act 2008; and
+    (b) includes an overseas limited partnership as defined in section 4 of that Act; and
+    (c) despite paragraph (a) or (b), does not include a listed limited partnership or a foreign corporate limited partnership
+  - **limited partnership net deduction** is defined in section HG 11(12) (Limitation on deductions by partners in limited partnerships) for the purposes of that section
   - **limited-recourse amount** is defined in section GB 48(2) (Defined terms for sections GB 45 and GB 46) for the purposes of sections GB 45 and GB 46 (which relate to arrangements involving money not at risk)
   - **limited-recourse loan** is defined in section GB 48(3) (Defined terms for sections GB 45 and GB 46) for the purposes of sections GB 45 and GB 46 (which relate to arrangements involving money not at risk)
   - **liquidation** , for a company,—
@@ -34801,7 +36400,11 @@ In this Act, unless the context requires otherwise,—
       (i) a tree planted mainly for the purposes of timber production:
       (ii) a tree or other similar plant planted mainly for the purposes of ornamentation:
       (iii) a vine planted mainly for the purposes of producing grapes for wine production
+  - **listed limited partnership** means an entity or group of persons that is listed on a recognised exchange, and that entity or group of persons—
+    (a) is a limited partnership registered under the Limited Partnerships Act 2008; or
+    (b) meets the definition of overseas limited partnership in section 4 of that Act
   - **listed PAYE intermediary** means a person which the Commissioner may list as an intermediary under section 15G of the Tax Administration Act 1994
+  - **listed research provider** means a person who is listed as a listed research provider under section LH 15 (Listed research providers).
   - **livestock on the Chatham Islands** means livestock that are on hand on the Chatham Islands at the end of an income year
   - **living alone payment** means a living alone payment under—
     (a) section 74U of the War Pensions Act 1954; or
@@ -34925,6 +36528,14 @@ In this Act, unless the context requires otherwise,—
     (e) in the Maori authority rules, means a person, or group of persons, who is—
       (i) a shareholder of a Maori authority that is a company:
       (ii) a beneficiary of a Maori authority that is the trustees of a trust
+  - **member credit contribution** , for a person, means the total of the following amounts
+    (a) an amount of a superannuation contribution to the person's KiwiSaver scheme or complying superannuation fund that is subject to the KiwiSaver scheme rules or complying fund rules, as applicable, other than—
+      (i) an employer's superannuation contribution for the person:
+      (ii) a contribution withdrawn under a mortgage diversion facility provided for in regulations made under section 229 of the KiwiSaver Act 2006:
+      (iii) an amount accounted for under paragraph (b):
+    (b) an amount received and held for the person by the Commissioner to which section 73, 74, or 75 of the KiwiSaver Act 2006 applies, other than—
+      (i) an employer's superannuation contribution for the person:
+      (ii) an amount never paid by the Commissioner to the provider of the person's KiwiSaver scheme unless the amounts are not paid because of the person's death or because of a refund under section 113 of the KiwiSaver Act 2006
   - **member’s contribution** , in relation to a superannuation fund,—
     (a) means a member’s contribution to the fund; and
     (b) includes any return on the contribution
@@ -34941,6 +36552,7 @@ In this Act, unless the context requires otherwise,—
       (i) designed for the seating of 2 or more adult persons; and
       (ii) permanently affixed to the motor vehicle; and
       (iii) neither collapsible nor capable of being folded down
+  - **minimum family tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
   - **minimum market value interest** —
     (a) is defined in section IA 5(6) (Restrictions on companies’ loss balances carried forward) for the purposes of Part I (Treatment of tax losses):
     (b) is defined in section LP 4(3) (Continuity rules for carrying credits forward) for the purposes of that section
@@ -35005,7 +36617,7 @@ In this Act, unless the context requires otherwise,—
     (i) a living organism, whether naturally or artificially generated:
     (j) an ecosystem:
     (k) a right to or interest in an item referred to in any of the preceding paragraphs
-  - **net family scheme income** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
+  - **net family scheme income** is defined in section ME 3 (Meaning of net family scheme income) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
   - **net gambling proceeds** means net proceeds as defined in section 4 of the Gambling Act 2003
   - **net income** means net income for a tax year calculated under section BC 4 (Net income and net loss)
   - **net loss** means a net loss for a tax year calculated under section BC 4 (Net income and net loss) and reduced by the amount extinguished by the Commissioner under section 177C(5) of the Tax Administration Act 1994
@@ -35013,6 +36625,9 @@ In this Act, unless the context requires otherwise,—
   - **new start grant** means a grant of money that is designated by the Minister of Agriculture as a new start grant and is paid by the Government of New Zealand to a person in relation to—
     (a) an adverse event:
     (b) an event that is a qualifying event
+  - **new tax rate person** ,—
+    (a) means a person who uses a 30% basic tax rate for 2008–09 and later income years:
+    (b) includes a portfolio tax rate entity
   - **New Zealand** includes—
     (a) the continental shelf:
     (b) the water and the air space above any part of the continental shelf that is beyond New Zealand’s territorial sea, as defined in section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977, if and to the extent to which—
@@ -35022,6 +36637,10 @@ In this Act, unless the context requires otherwise,—
   - **New Zealand business** , in relation to a life insurer not resident in New Zealand, means the part of the business of the life insurer that consists of life insurance policies or life reinsurance policies offered or entered into in New Zealand
   - **New Zealand net equity** , for a New Zealand banking group is the amount referred to in section FE 21 (Banking group’s New Zealand net equity) for the purposes of subpart FE (Interest apportionment on thin capitalisation)
   - **New Zealand-new asset** is defined in section EZ 25 (Meaning of New Zealand-new asset)
+  - **New Zealand partnership** means a partnership that—
+    (a) is a limited partnership registered under the Limited Partnerships Act 2008; or
+    (b) has 50% or more of its partners’ interests in capital, by value, held by New Zealand residents; or
+    (c) has its centre of management in New Zealand ignoring section HG 2
   - **New Zealand repatriation amount** is defined in section CD 46 (New Zealand repatriation amount)
   - **New Zealand resident** —
     (a) means a person resident in New Zealand under—
@@ -35043,6 +36662,7 @@ In this Act, unless the context requires otherwise,—
       (i) schedule 1, clause 2 of the New Zealand Superannuation and Retirement Income Act 2001; or
       (ii) schedule 1, clause 2 of the Social Welfare (Transitional Provisions) Act 1990
   - **New Zealand tax** means income tax imposed by this Act or any earlier Act
+  - **Niue International Trust Fund** means the trust governed by the Deed concerning the Niue International Trust Fund dated 25 October 2006 and signed by Her Majesty the Queen in right of New Zealand and the Governments of Niue and Australia
   - **nominated company** ,—
     (a) for a consolidated group, means the company described in section FM 34 (Nominated companies) for the time being nominated as agent of the group under section FM 35 (Forming consolidated group):
     (b) for an imputation group, means the company described in section FN 6 (Nominated companies) for the time being nominated as agent of the group under section FN 7 (Forming imputation groups)
@@ -35065,6 +36685,7 @@ In this Act, unless the context requires otherwise,—
       (iii) the Commissioner is prohibited from sending them an income statement for a tax year; or
     (b) a person who chooses not to file a return for a tax year for specified payments derived in the person’s capacity as a non-resident entertainer; or
     (c) a person who, in the relevant tax year, derives only non-resident passive income to which section RB 3 (Schedular income tax liability for filing taxpayers for non-resident passive income) applies
+  - **non-integral fee** means a fee or transaction cost that, for the purposes of financial reporting under IFRSs, is not an integral part of the effective interest rate of a financial arrangement
   - **non-listed horticultural plant** , in section DO 4 (Improvements to farm land) and schedule 20, part A, item 8 (Expenditure on farming, horticultural, aquacultural, and forestry improvements)—
     (a) means—
       (i) a horticultural plant, tree, vine, bush, cane, or similar plant that is cultivated on land, that is not a listed horticultural plant:
@@ -35121,8 +36742,15 @@ In this Act, unless the context requires otherwise,—
   - **notify** means to give notice
   - **notional offshore investment amount** , for a reporting bank, is the amount referred to in section FE 22(2) (Notional offshore investment) for the purposes of FE 21(14) (Banking group’s New Zealand net equity)
   - **notional sale price** is defined in section FA 10(2) (Treatment when lease ends: lessor acquiring asset) for the purposes of that section
+  - **novelty** is defined in section LH 7(4) (Research and development activities and related terms) for the purposes of subpart LH (Tax credits for expenditure on research and development)
   - **NRWT** means non-resident withholding tax and refers to an amount payable as income tax under the NRWT rules
   - **NRWT rules** means the provisions listed in section RF 1 (NRWT rules and their application)
+  - **NZIAS 2** means New Zealand Equivalent to International Accounting Standard 2, approved by the Accounting Standards Review Board and as amended from time to time, or an equivalent standard issued in its place
+  - **NZIAS 8** means New Zealand Equivalent to International Accounting Standard 8, approved by the Accounting Standards Review Board and as amended from time to time, or an equivalent standard issued in its place
+  - **NZIAS 17** means New Zealand Equivalent to International Accounting Standard 17, approved by the Accounting Standards Review Board and as amended from time to time, or an equivalent standard issued in its place
+  - **NZIAS 32** means New Zealand Equivalent to International Accounting Standard 32, approved by the Accounting Standards Review Board and as amended from time to time, or an equivalent standard issued in its place
+  - **NZIAS 39** means New Zealand Equivalent to International Accounting Standard 39, approved by the Accounting Standards Review Board and as amended from time to time, or an equivalent standard issued in its place
+  - **NZIAS 41** is defined in section EB 6(3) (Cost) for the purposes of that section
   - **offered or entered into in New Zealand** , for an insurance contract, a reinsurance contract, and a life insurance policy, means a contract or policy offered or entered into in New Zealand, whether or not—
     (a) the contract or policy is executed in New Zealand; or
     (b) the insurer under the contract or policy—
@@ -35133,6 +36761,7 @@ In this Act, unless the context requires otherwise,—
   - **off-market cancellation** means a share cancellation that is not an on-market cancellation
   - **offshore development** is defined in section EJ 19 (Meaning of offshore development) for the purposes of section EJ 12 (Petroleum development expenditure)
   - **offshore permit area** is defined in section CW 57 (Non-resident company involved in exploration and development activities) for the purposes of that section
+  - **old company tax rate** means a 33% basic tax rate applying before the 2008–09 income year
   - **old financial arrangements rules** means—
     (a) the following provisions:
       (i) sections EZ 33 to EZ 52 (which relate to the old financial arrangements rules):
@@ -35160,6 +36789,7 @@ In this Act, unless the context requires otherwise,—
   - **outstanding balance** ,—
     (a) in section FA 10 (Treatment when lease ends: lessor acquiring asset), includes principal, interest, and penalties that are owing by the lessee to the lessor on the date that the lease is terminated
     (b) is defined in section FZ 2(9) (Effect of specified lease on lessor and lessee) for the purposes of sections FZ 2 and FZ 3 (which relate to specified leases)
+  - **overseas eligible expenditure is** defined in section LH 6(5) (Research and development activities outside New Zealand) for the purposes of subpart LH (Tax credits for expenditure on research and development)
   - **overseas pension** is defined in section CW 28(2) (Pensions) for the purposes of that section
   - **own** ,—
     (a) for land, means to have an estate or interest in the land, alone or jointly or in common with any other person:
@@ -35170,8 +36800,20 @@ In this Act, unless the context requires otherwise,—
   - **parental tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
   - **partial reinsurance** is defined in section EY 12(3) (Meaning of life reinsurance)
   - **participating share** is defined in section CD 22(9) (Returns of capital: off-market share cancellations) for the purposes of that section
-  - **partner** is defined in section RE 30(10) (When unincorporated bodies hold certificates) for the purposes of that section
-  - **partnership** is defined in section RE 30(10) (When unincorporated bodies hold certificates) for the purposes of that section
+  - **partner** , in relation to a partnership,—
+    (a) means a person who is a member of the partnership:
+    (b) includes—
+      (i) a limited partner of a limited partnership:
+      (ii) a general partner of a limited partnership:
+      (iii) a joint venturer or a co-owner, if they make the relevant choice to be treated as partnership:
+  - **partner’s associate** is defined in section HG 11(12) (Limitation on deductions by partners in limited partnerships) for the purposes of that section
+  - **partner’s interests** means the relevant interests in rights and obligations and other property, status, and things that a partner has as a result of applying section HG 2 (Partnerships are transparent)
+  - **partnership** means—
+    (a) a group of 2 or more persons who have, between themselves, the relationship described in section 4(1) of the Partnership Act 1908:
+    (b) a joint venture, if the joint venturers all choose to be treated as a partnership for the purposes of this Act and the Tax Administration Act 1994:
+    (c) co-owners of property, other than persons who are co-owners only because they are shareholders of the same company, or settlors, trustees, or beneficiaries of the same trust, if the co-owners all choose to be treated as a partnership for the purposes of this Act and the Tax Administration Act 1994:
+    (d) a limited partnership
+  - **partnership share** means, for a particular right, obligation, or other property, status, or thing, the share that a partner has in respect of it
   - **patent right** means the right to do or authorise anything that would, but for the right, be an infringement of a patent
   - **pay** ,—
     (a) for an amount and a person, includes—
@@ -35225,6 +36867,12 @@ In this Act, unless the context requires otherwise,—
     (a) means any personal property subject to a lease; and
     (b) does not include any livestock or bloodstock
   - **personal property lease payment** means a payment made by a lessee to a lessor, in money or money’s worth, in relation to, or in consideration for, a personal property lease asset
+  - **personal service rehabilitation payment** , for a person, means an amount paid for the person's benefit—
+    (a) under section 81(3) of the Injury Prevention, Rehabilitation, and Compensation Act 2001; and
+    (b) by the Accident Compensation Corporation or an employer that is an accredited employer as defined in section 181 of that Act; and
+    (c) in providing to the person a key aspect of social rehabilitation referred to in—
+      (i) section 81(1)(b), (c), (e), or (g) (relating to attendant care, child care, home help, and training for independence) of that Act:
+      (ii) section 81(1)(h) (relating to transport for independence) of that Act to the extent provided by paragraph (a)(i) of the definition of transport for independence in schedule 1, clause 12 of that Act
   - **petroleum** is defined in section 2 of the Crown Minerals Act 1991
   - **petroleum development expenditure** —
     (a) means expenditure incurred by a petroleum miner that—
@@ -35246,16 +36894,7 @@ In this Act, unless the context requires otherwise,—
   - **petroleum mining asset** is defined in section CT 7 (Meaning of petroleum mining asset)
   - **petroleum mining company** means a company to which sections IZ 2 and IZ 3 (which relate to companies engaged in exploring for, searching for, or mining petroleum) apply
   - **petroleum mining development expenditure** is defined in section DZ 3(4) (Petroleum mining: development expenditure from 1 October 1990 to 15 December 1991) for the purposes of that section
-  - **petroleum mining operations** —
-    (a) means any of the following activities:
-      (i) developing a permit area for producing petroleum:
-      (ii) producing petroleum:
-      (iii) processing, storing, or transmitting petroleum before its dispatch to a buyer, consumer, processor, refinery, or user:
-      (iv) removal or restoration operations; and
-    (b) does not include further treatment to which all the following apply:
-      (i) it occurs after the well stream has been separated and stabilised into crude oil, condensate, or natural gas; and
-      (ii) it is done by liquefaction or compression or for the extraction of constituent products or for the production of derivative products; and
-      (iii) it is not treatment at the production facilities
+  - **petroleum mining operations** is defined in section CT 6B (Meaning of petroleum mining operations)
   - **petroleum mining permit** is defined in section 2 of the Crown Minerals Act 1991
   - **petroleum permit** means—
     (a) a prospecting permit:
@@ -35302,18 +36941,16 @@ In this Act, unless the context requires otherwise,—
     (b) has become a portfolio investment entity under section HL 13 (Becoming portfolio investment entity); and
     (c) has not ceased to be a portfolio investment entity under section HL 15 (Ceasing to be portfolio investment entity)
   - **portfolio entity formation loss** is defined in section HL 30 (Portfolio entity formation loss)
-  - **portfolio entity investment** means an investment of a portfolio investment entity in an item of property of a type to which section HL 10(1) (Further eligibility requirements relating to investments) refers
+  - **portfolio entity investment** means an investment of an entity in an item of property of a type to which section HL 10(1) (Further eligibility requirements relating to investments) refers
   - **portfolio entity tax liability** , for a portfolio tax rate entity for a period, is defined in section HL 21 (Portfolio entity tax liability and tax credits of portfolio tax rate entity for period)
   - **portfolio investment entity** means—
     (a) a portfolio tax rate entity:
     (b) a portfolio listed company:
-    (c) a portfolio defined benefit fund
+    (c) a portfolio defined benefit fund:
+    (d) portfolio investment-linked life fund
   - **portfolio investor allocated income** is defined in section HL 26 (Portfolio investor allocated income and portfolio investor allocated loss)
   - **portfolio investor allocated loss** is defined in section HL 26 (Portfolio investor allocated income and portfolio investor allocated loss)
-  - **portfolio investor class** means 1 or more investors in a portfolio investment entity, each investor having an entitlement to a distribution by the entity of proceeds from portfolio entity investments such that—
-    (a) the portfolio entity investments are the same for all the investors in the group; and
-    (b) each investor’s interest in a portfolio entity investment represents a proportion (the investment proportion) of the value of the investor’s entitlement; and
-    (c) the investment proportion for each investor and each portfolio entity investment differs from the average value of the investment proportion for the investors in the group and the portfolio entity investment by less than 2.5% of that average value
+  - **portfolio investor class** is defined in section HL 5B (Meaning of investor and portfolio investor class)
   - **portfolio investor exit period** , for an investor in a portfolio investor class of a portfolio tax rate entity and a tax year, means,—
     (a) for an entity that makes payments of tax under section HL 22 (Payments of tax by portfolio tax rate entity making no election), a period—
       (i) beginning with the beginning of a portfolio calculation period and ending with the fifth working day after the portfolio calculation period; and
@@ -35321,36 +36958,37 @@ In this Act, unless the context requires otherwise,—
       (iii) the amount of the portfolio entity tax liability referred to in subparagraph (ii) is not paid under section HL 25 (Optional payments of tax by portfolio tax rate entities); or
     (b) for an entity that makes payments of tax under section HL 24 (Payments of tax by portfolio tax rate entity choosing to make payments when investor leaves), a period—
       (i) beginning with the later of the beginning of the tax year and the day on which the investor last became an investor in the portfolio investor class; and
-      (ii) ending on a day in the tax year on which the entity’s portfolio entity tax liability under section HL 21 for the investor and the portfolio investor class and any other portfolio investor classes for the period equals or is more than the value of the investor’s portfolio investor interest for the portfolio investor class and any other portfolio investor classes
+      (ii) ending on a day in the tax year on which the amount of the entity's portfolio tax liability under section HL 21 reduced by any tax credits allocated to the investor, for the investor for the period equals or is more than the value of the investor's portfolio investor interest; and
   - **portfolio investor interest** means an interest in a portfolio investment entity that gives the holder an entitlement to a distribution of proceeds from a portfolio entity investment of the entity
   - **portfolio investor interest fraction** , for an investor in a portfolio investor class of a portfolio investment entity, means the fraction to which the investor is entitled of the amount of a distribution by the entity to the investors in the portfolio investor class
   - **portfolio investor proxy** is defined in section HL 33 (Portfolio investor proxies)
-  - **portfolio investor rate** , for an investor in a portfolio tax rate entity and a portfolio calculation period, means—
-    (a) 30%, if paragraphs (b) and (c) do not apply; or
-    (b) the rate, if paragraph (c) does not apply, that the investor notifies to the entity as the prescribed investor rate for the investor and the period—
-      (i) before the end of the portfolio calculation period, if the entity makes payments of tax under section HL 22 (Payments of tax by portfolio tax rate entity making no election); and
-      (ii) before the end of the tax year in which the portfolio calculation period occurs, if the entity makes payment of tax under section HL 24 (Payments of tax by portfolio tax rate entity choosing to make payments when investor leaves); and
-      (iii) before the entity has calculated the portfolio investor allocated income or portfolio investor allocated loss for the investor and the period; and
-      (iv) by a notice meeting the requirements of section 28B of the Tax Administration Act 1994; or
+  - **portfolio investor rate** , for an investor in a portfolio tax rate entity and for a portfolio calculation period, means—
+    (a) 33%, if paragraphs (b) and (c) do not apply; or
+    (b) the rate, if paragraph (c) does not apply, that the investor notifies—
+      (i) to the entity as the prescribed investor rate for the investor and the period; and
+      (ii) in the latest notice before the time; or
     (c) 0%, if—
       (i) the entity makes payments of tax under section HL 22 (Payments of tax by portfolio tax rate entity making no election); and
       (ii) the portfolio investor rate for the investor for the portfolio calculation period would, in the absence of this paragraph, be more than 0%; and
       (iii) the portfolio calculation period includes part of a portfolio investor exit period for the investor
   - **portfolio land company** means, for a tax year, a company that—
     (a) is not a portfolio investment entity in the tax year; and
-    (b) on 80% of the days in the corresponding income year on which the 78 company has property with a market value equal to or more than $100,000, owns property that—
+    (b) on 80% or more of the days in the corresponding income year on which the company has property with a market value equal to or more than $100,000, owns property that—
       (i) consists of interests in land or shares in a portfolio land company that does not own, directly or indirectly, shares in the company; and
-      (ii) has a market value equal to or more than 90% of the market value of all the property of the company
+      (ii) has a market value equal to or more than 90% of the market value of all the property of the company; and
+    (c) meets the requirements of section HL 10(2) (Further eligibility requirements relating to investments) for the tax year
   - **portfolio listed company** means a company that—
     (a) is listed on a recognised exchange in New Zealand or meets the requirements of section HL 12 (Unlisted company may choose to become portfolio listed company); and
     (b) has become a portfolio investment entity under section HL 13 (Becoming portfolio investment entity); and
     (c) has not ceased to be a portfolio listed company under section HL 12; and
-    (d) has not ceased to be a portfolio investment entity under section HL 15 (Ceasing to be portfolio investment entity)
+    (d) has not ceased to be a portfolio investment entity under section HL 15 (Ceasing to be portfolio investment entity); and
+    (e) is not a portfolio investment-linked life fund
   - **portfolio tax rate entity** means a company, superannuation fund, or group investment fund that—
     (a) has become a portfolio tax rate entity under section HL 13 (Becoming portfolio investment entity); and
     (b) has not ceased to be a portfolio tax rate entity under section HL 15 (Ceasing to be portfolio investment entity); and
     (c) is not a company listed on a recognised exchange in New Zealand; and
-    (d) is not a portfolio defined benefit fund
+    (d) is not a portfolio defined benefit fund; and
+    (e) is not a portfolio investment-linked life fund
   - **possession** includes a use that is in fact or effect substantially exclusive
   - **pre-1983 investments** is defined in section HR 3(8) (Definitions for section HR 2: group investment funds) for the purposes of section HR 2 (Group investment funds)
   - **pre-1991 budget security** means a fixed-rate share, or a debenture to which section FA 2 (Recharacterisation of certain debentures) applies, that—
@@ -35395,7 +37033,7 @@ In this Act, unless the context requires otherwise,—
     (b) is defined in section RD 41(4) (Services) for the purposes of that section:
     (c) in sections RD 42 and RD 43 (which relate to goods provided with staff discount), for a registered person who may claim input tax for goods provided to an employee, means the GST-inclusive price
   - **primary producer co-operative company** is defined in section CZ 7(4) (Primary producer co-operative companies: 1987–88 income year) for the purposes of that section
-  - **principal caregiver** is defined in section MC 10 (Principal caregiver) for the purposes of the child tax credit, family assistance credit, family support, in-work payment, and parental tax credit
+  - **principal caregiver** is defined in section MC 10 (Principal caregiver) for the purposes of the child tax credit, WFF tax credit, in-work tax credit, and parental tax credit
   - **private domestic worker** means a person employed by any other person if—
     (a) the employer is the occupier, or 1 of the occupiers, of a dwellinghouse or other premises used exclusively for residential purposes; and
     (b) the employment is for the performance of work in or about the dwellinghouse or premises or the garden or grounds belonging to the dwellinghouse or premises; and
@@ -35437,7 +37075,7 @@ In this Act, unless the context requires otherwise,—
     (b) includes prospecting for petroleum by electrical, geochemical, gravimetric, magnetic, radioactive, seismic, or other geological methods; and
     (c) does not include residual expenditure
   - **prospecting permit** is defined in section 2 of the Crown Minerals Act 1991
-  - **protected family support** , for a person, means an amount of family scheme income derived in the way set out in section MD 14 (Person receiving protected family support)
+  - **protected family tax credit** , for a person, means an amount of family scheme income derived in the way set out in section MD 14 (Person receiving protected family tax credit)
   - **protective right** is defined in section CD 22(9) (Returns of capital: off-market share cancellations) for the purposes of that section
   - **provisional rate** is defined in section EE 67 (Other definitions)
   - **provisional tax** means an amount payable as provisional tax under the provisional tax rules
@@ -35510,9 +37148,13 @@ In this Act, unless the context requires otherwise,—
       (vi) any discrimination on the basis of quantity bought and sold unless based on the risks involved, the transaction costs, or economies of scale
   - **redemption payment** means the amount by which a payment made on the redemption of a commercial bill by the person who issued it is more than the money lent to the person, , in this definition, having the meaning given to it by section 2 of the Bills of Exchange Act 1908
   - **reduced deficit debit** is defined in section OC 38 (Meaning of reduced deficit debit) for the purposes of section OC 23 (FDPA breach of FDP ratio by PCA company)
+  - **redundancy payment** means a PAYE income payment paid—
+    (a) to a person whose employment is terminated because their employer no longer needs an employee to perform the duties performed by the person as an employee; and
+    (b) in compensation for the loss of the employment
   - **refundable tax credit** means—
-    (a) a tax credit under subpart LB (Tax credits for payments, deductions, and family income assistance):
+    (a) a tax credit under subpart LB (Tax credits for payments, deductions, and family payments):
     (b) a tax credit under subpart LF (Tax credits for foreign dividend payment (FDP) credits), excluding section LF 8 (Credits for persons who are non-resident or who receive exempt income):
+    (bb) a tax credit under subpart LH (Tax credits for expenditure on research and development)
     (c) a tax credit under subpart LO (Tax credits for Maori authority credits):
     (d) a tax credit under section HL 22(5) (Payments of tax by portfolio tax rate entity making no election)
   - **registered as a charitable entity** means registered as a charitable entity under the Charities Act 2005
@@ -35534,7 +37176,7 @@ In this Act, unless the context requires otherwise,—
     (b) an order under section 25 of the Property (Relationships) Act 1976 that is made by a court on or after 28 July 1983 in relation to the person and another person
   - **relationship period** is defined in section MC 11(1) (Relationship periods and entitlement periods) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
   - **relative** ,—
-    (a) in sections CX 19 (Benefits provided instead of allowances), EX 4 (Limits to requirement to include associated person interests), GB 27 (Attribution rule for income from personal services), and the 1988 version provisions, means a person connected with another person by—
+    (a) in sections CX 19 (Benefits provided instead of allowances), EX 4 (Limits to requirement to include associated person interests), GB 27 (Attribution rule for income from personal services), HG 11(12) (Limitation on deductions by partners in limited partnerships), and the 1988 version provisions, means a person connected with another person by—
       (i) being within the second degree of blood relationship to the other:
       (ii) being in a marriage, civil union, or de facto relationship with the other:
       (iii) being in a marriage, civil union, or de facto relationship with a person who is within the second degree of blood relationship to the other:
@@ -35567,9 +37209,11 @@ In this Act, unless the context requires otherwise,—
     (b) includes a sequential series of replacement permits to the extent to which each permit in the series replaces the previous permit in the series
   - **replacement plant** , in sections DO 6, DO 7, and DO 9 (which relate to horticultural plants) means a listed horticultural plant that replaces a listed horticultural plant, whether or not it is of the same type of listed horticultural plant
   - **reporting bank** is defined in section FE 4 (Some definitions) for the purposes of subpart FE (Interest apportionment on thin capitalisation)
-  - **reporting standard** is defined in section DB 35 (Some definitions) for the purposes of section DB 34 (Research or development)
+  - **reporting standard** is defined in section DB 35 (Some definitions) for the purposes of that section and section DB 34 (Research or development)
   - **required interest** is defined in section LL 9 (Some definitions) for the purposes of subpart LL (Underlying foreign tax credits (UFTC))
-  - **research** is defined in section DB 35 (Some definitions) for the purposes of sections DB 34, EE 1, EJ 22, and EJ 23 (which relate to deductions and allocation of deductions for development expenditure)
+  - **research** is defined in section DB 35 (Some definitions) for the purposes of that section and section DB 34 (Research or development)
+  - **research and development activities** is defined in section LH 7(1) (Research and development activities and related terms) for the purposes of subpart LH (Tax credits for expenditure on research and development)
+  - **research and development project** is defined in section LH 6(3) (Research and development activities outside New Zealand)
   - **resident foreign trustee** is defined in section 3(1) of the Tax Administration Act 1994
   - **resident imputation subgroup** has the meaning given in section FN 8(2) (Trans-Tasman imputation groups and resident imputation subgroups)
   - **resident in Australia** , for a company, means being resident under section YD 2(1) (Residence of companies) if Australia were treated as being New Zealand for the purposes of that provision
@@ -35596,8 +37240,10 @@ In this Act, unless the context requires otherwise,—
       (i) section LB 1 (Tax credits for PAYE income payments):
       (ii) section LB 3 (Tax credits for resident withholding tax):
       (iii) section LB 5 (Tax credits for non-resident withholding tax):
+      (iiib) section LB 6 (Tax credits for RSCT):
       (iv) section LE 1 (Tax credits for imputation credits):
       (v) section LF 1 (Tax credits for FDP credits):
+      (vb) section LH 2 (Tax credits relating to expenditure on research and development):
       (vi) section LJ 2 (Tax credits for foreign income tax):
       (vii) section LK 1 (Tax credits relating to attributed CFC income):
       (viii) section LK 6 (Use of tax credits by group companies):
@@ -35608,6 +37254,17 @@ In this Act, unless the context requires otherwise,—
   - **resource consent** means a resource consent as defined in section 2 of the Resource Management Act 1991
   - **restitution** is defined in section DB 44(3) (Restitution of stolen property) for the purposes of that section
   - **retained earnings** is defined in section LL 9 (Some definitions) for the purposes of subpart LL (Underlying foreign tax credits (UFTC))
+  - **retirement savings scheme** for a person means an entity eligible under section RH 3 (Retirement savings schemes)
+  - **retirement scheme contribution** is defined in section RH 2 (Retirement scheme contributions)
+  - **retirement scheme contributor** means an entity eligible under section RH 4 (Retirement scheme contributors)
+  - **retirement scheme prescribed rate** , for a person and a retirement scheme contribution made for the person at a time in an income year, means a rate of—
+    (a) 0% if the person is a non-resident at the time and the contribution is non-resident passive income; or
+    (b) 19.5% if the person—
+      (i) has, in either of the 2 income years immediately before the year in which the contribution is made, taxable income of $38,000 or less:
+      (ii) is a non-resident and the retirement scheme contributor is a Maori authority, and the distribution is $200 or less:
+      (iii) is a non-resident and the retirement scheme contributor is a Maori authority and the person supplies the Maori authority with a notice under section 28C of the Tax Administration Act 1994; or
+    (c) 33% if the person has, in either of the 2 income years immediately before the year in which the contribution is made, taxable income of $60,000 or less; or
+    (d) 39%
   - **return** , for a person’s income, has the same meaning as
   - **return of income** means a return of income required under section 33 of the Tax Administration Act 1994
   - **returning share transfer** means an arrangement—
@@ -35634,6 +37291,8 @@ In this Act, unless the context requires otherwise,—
   - **rolling average value** is defined in section EZ 4(5) (Valuation of livestock bailed or leased as at 2 September 1992) for the purposes of that section
   - **routine government action** is defined in section DB 45(4) (Bribes paid to public officials) for the purposes of that section
   - **royalty** is defined in section CC 9(2) and (3) (Royalties)
+  - **RSCT** means retirement scheme contribution tax
+  - **RSCT rules** is defined in section RH 1 (RSCT rules and their application)
   - **RWT** means resident withholding tax and refers to an amount payable as income tax under the RWT rules
   - **RWT exemption certificate** means a certificate described in section 32E of the Tax Administration Act 1994
   - **RWT proxy** is defined in section 15T of the Tax Administration Act 1994
@@ -35655,6 +37314,7 @@ In this Act, unless the context requires otherwise,—
   - **schedular income tax liability** means the amount determined under section BC 7 (Income tax liability of person with schedular income)
   - **schedular payment** is defined in section RD 8 (Schedular payments)
   - **schedular taxable income** , for a tax year and a person who has schedular income of a particular kind for the tax year, means the amount of taxable income that the person has in calculating the schedular income tax liability for the kind for the tax year
+  - **scientific or technological uncertainty** is defined in section LH 7(3) (Research and development activities and related terms) for the purposes of subpart LH (Tax credits for expenditure on research and development)
   - **seal and abandonment** means the seal and abandonment of an exploratory well when a petroleum miner files a statutory declaration with the Commissioner stating that the miner has no intention of utilising the well in petroleum mining operations or of applying for a petroleum mining permit in relation to the area in which the well is located
   - **second payment period** means the period starting on the 16th day of a month and ending with the last day of the month
   - **section 200** is defined in section CZ 7(4) (Primary producer co-operative companies: 1987–88 income year) for the purposes of that section
@@ -35728,7 +37388,7 @@ In this Act, unless the context requires otherwise,—
       (i) a holder of a share; and
       (ii) a member of a company, whether the company’s capital is divided into shares or not:
     (b) does not include a holder of a withdrawable share in a building society, except in the definitions of investment society dividend and withdrawable share:
-    (c) in subparts HA (Qualifying companies (QC) and loss-attributing qualifying companies (LAQC)) and OE (Branch equivalent tax accounts (BETA)) and OJ (Policyholder credit accounts (PDA)), in the FDP rules and the imputation rules, and in the definition of shareholder dividend statement, includes a sharemilker (as defined in section 2 of the Sharemilking Agreements Act 1937), to the extent to which the sharemilker derives payment for produce transactions directly from a co-operative dairy or milk company
+    (c) in subparts HA (Qualifying companies (QC) and loss-attributing qualifying companies (LAQC)) and OE (Branch equivalent tax accounts (BETA)) and OJ (Policyholder credit accounts (PCA)), in the FDP rules and the imputation rules, and in the definition of shareholder dividend statement, includes a sharemilker (as defined in section 2 of the Sharemilking Agreements Act 1937), to the extent to which the sharemilker derives payment for produce transactions directly from a co-operative dairy or milk company
   - **shareholder decision-making right** means a right, carried by a share issued by a company or an option over a share issued by a company, to vote or participate in any decision-making concerning—
     (a) a dividend or other distribution to be paid or made by the company, whether on a liquidation of the company or otherwise, excluding decision-making undertaken by directors acting only in their capacity as directors; or
     (b) the constitution of the company; or
@@ -35784,8 +37444,10 @@ In this Act, unless the context requires otherwise,—
   - **significant financial hardship** is defined in section CS 3(2) (Exclusion of withdrawal on grounds of hardship) for the purposes of that section
   - **slice rule** means the rule set out in section CD 23(3) (Ordering rule and slice rule) for calculating the amount of available subscribed capital per share
   - **small-business person** is defined in section RC 40 (Some definitions) for the purposes of subpart RC (Provisional tax)
+  - **small partnership** means a partnership that is not a limited partnership and has 5 or less partners, none of whom are companies or partnerships
   - **social assistance payment** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
   - **social assistance suspensory loan** is defined in section EZ 48 (Definitions) for the purposes of the old financial arrangements rules
+  - **sound commercial reason** is defined in section EW 26(7) (Change of spreading method) for the purposes of that section.
   - **sound recording** is defined in the Copyright Act 1994
   - **source in New Zealand** , for income, means a source described in section YD 4 (Classes of income treated as having New Zealand source)
   - **special account** means a special home ownership account
@@ -35893,7 +37555,7 @@ In this Act, unless the context requires otherwise,—
   - **superannuation scheme** —
     (a) means—
       (i) a trust or unit trust established by its trust deed mainly for the purposes of providing retirement benefits to beneficiaries who are natural persons or paying benefits to superannuation funds; or
-      (ii) a KiwiSaver scheme that is registered under the KiwiSaver Act 2006; or
+      (ii)
       (iii) a company that is not a unit trust, is not resident in New Zealand, and is established mainly for the purpose of providing retirement benefits to members or relatives of members who are natural persons; or
       (iv) an arrangement constituted under an Act of the Parliament of New Zealand, other than the Social Security Act 1964, mainly for the purpose of providing retirement benefits to natural persons; or
       (v) an arrangement constituted under the legislation of a country, territory, state, or local authority outside New Zealand mainly for the purpose of providing retirement benefits to natural persons; and
@@ -35911,6 +37573,7 @@ In this Act, unless the context requires otherwise,—
     (d) in which 1 or more voting interests are held by non-residents; and
     (e) that derives dividends that are not excluded income or exempt income other than income under sections CW 9 to CW 11 (which relate to income from equity)
   - **supply** is defined in section GC 14 (Definitions for sections GC 6 to GC 13) for the purposes of sections GC 6, GC 9 and GC 10 (which relate to transfer pricing arrangements)
+  - **systematic, investigative, and experimental activities** is defined in section LH 7(2) (Research and development activities and related terms) for the purposes of subpart LH (Tax credits for expenditure on research and development)
   - **tax** means income tax, but in the provisions in which the term income tax has an extended or limited meaning, tax has a corresponding meaning
   - **tax account with the Commissioner** , for a person, means an account dealing with the person’s transactions with the Commissioner in relation to income tax
   - **tax advantage** , in sections GB 35 and GB 36 (which relate to imputation arrangements to obtain a tax advantage), GB 42 and GB 43 (which relate to Maori authority credit arrangements to obtain a tax advantage) and sections OB 61, OC 28, OD 21, and OK 20 (which relate to memorandum accounts), means—
@@ -35970,6 +37633,7 @@ In this Act, unless the context requires otherwise,—
     (b) includes a provision of the Income Tax Act 1994 and the Income Tax Act 2004
   - **taxicab** is defined in section 2(1) of the Transport Act 1962
   - **taxpayer** means a person who is, or may be, liable to perform or comply with an obligation imposed by this Act
+  - **technology** is defined in section LH 7(5) (Research and development activities and related terms) for the purposes of subpart LH (Tax credits for expenditure on research and development)
   - **temporary building** means—
     (a) a building that—
       (i) is erected under a permit issued by a local authority or a public authority; and
@@ -35991,6 +37655,7 @@ In this Act, unless the context requires otherwise,—
   - **terminating share** means a share in a building society that is included in a group of shares, if the group is to terminate—
     (a) at the end of a period specified on the issue of the shares; or
     (b) on the attainment of a result specified on the issue of the shares
+  - **tertiary institution** means a body established under section 162 of the Education Act 1989
   - **thinning operations** is defined in section EH 79 (Other definitions)
   - **thinning operations deposit** is defined in section EH 79 (Other definitions)
   - **thinning operations income equalisation account** is defined in section EH 79 (Other definitions)
@@ -36006,6 +37671,7 @@ In this Act, unless the context requires otherwise,—
   - **time bar** means the provisions of sections 108 and 108B of the Tax Administration Act 1994
   - **time of emigration** for an emigrating company, is the time at which the emigrating company becomes a non-resident for the purposes of subpart FL (Emigration of resident companies)
   - **time of the sale** , in sections DC 10 (Sale of business: transferred employment income obligations) and EA 4 (Deferred payment of employment income), means the date on which the agreement for sale of the business or part of the business is settled by the exchange of the seller’s business or the part for the buyer’s consideration
+  - **Tokelau International Trust Fund** means the trust governed by the Deed concerning the Tokelau International Trust Fund dated 10 November 2004 and signed by Her Majesty the Queen in right of New Zealand and the Government of Tokelau
   - **total group assets** , for a New Zealand group, is defined in section FE 16 (Total group assets) for the purposes of subpart FE (Interest apportionment on thin capitalisation)
   - **total group debt** , for a New Zealand group, is defined in section FE 15 (Total group debt) for the purposes of subpart FE (Interest apportionment on thin capitalisation)
   - **total tax credit** , for a person, means the total amount of their tax credits under Part L (Tax credits and other credits)
@@ -36041,6 +37707,7 @@ In this Act, unless the context requires otherwise,—
     (a) is defined in section CZ 8(2) (Farm-out arrangements for petroleum mining before 16 December 1991) for the purposes of that section:
     (b) is defined in section DZ 5(6) (Farm-out arrangements for petroleum mining before 16 December 1991) for the purposes of that section:
     (c) in subpart FB (Transfers of relationship property), for property transferred under a relationship agreement, means the person from whom the property is transferred under the agreement
+  - **transitional period** is defined in section OZ 7 (Memorandum accounts in transitional period) for the purposes of sections OZ 8 to OZ 15
   - **transitional resident** is defined in section HR 8(2) (Transitional residents)
   - **transitional year** , in relation to provisional tax, means the period for which a person files a return under section 39 of the Tax Administration Act 1994
   - **trans-Tasman imputation group** means the group described in section FN 8(1) (Trans-Tasman imputation groups and resident imputation subgroups)
@@ -36064,7 +37731,7 @@ In this Act, unless the context requires otherwise,—
     (e) for a superannuation scheme that is a trust or that is treated by this Act as a trust, includes a person by whom the investments of the scheme, or a part of the scheme, are managed or controlled:
     (f) is defined in section DC 15 (Some definitions) for the purposes of sections DC 12 to DC 15 (which relate to share purchase schemes)
   - **trustee income** is defined in section HC 7 (Trustee income)
-  - **turnover** , in subpart EB (Valuation of trading stock (including dealer’s livestock)),—
+  - **turnover** , in subpart EB (Valuation of trading stock (including dealer’s livestock)) and section HG 6 (Disposal of trading stock),—
     (a) means the total income that a business derives in an income year as a result of trading by that business; and
     (b) does not include the value of closing stock
   - **type** , in subparts EC (Valuation of livestock) and FB (Transfers of relationship property), and in the definitions of and , means a category of livestock listed in schedule 17, column 1 (Types and classes of livestock)
@@ -36102,7 +37769,7 @@ In this Act, unless the context requires otherwise,—
       (i) advance further amounts to the other party; or
       (ii) require the return of all amounts advanced to the other party, if the other party’s rights and obligations under the financial arrangement are expressed in a foreign currency:
     (b) in the old financial arrangements rules, is defined in section EZ 48 (Definitions)
-  - **venture investment agreement** is defined in section CW 13(6) (Proceeds from share or option acquired under venture investment agreement) for the purposes of that section
+  - **venture investment agreement** is defined in section CW 13(6) (Proceeds from share or option acquired under venture investment agreement)
   - **Venture Investment Fund** means the company called New Zealand Venture Investment Fund Limited that is listed in schedules 4, 5, and 6 of the Public Finance Act 1989
   - **veteran’s pension** means a veteran’s pension, other than a portable veteran’s pension, paid or payable under—
     (a) Part 6 of the War Pensions Act 1954; or
@@ -36112,6 +37779,7 @@ In this Act, unless the context requires otherwise,—
     (a) means, for a person and a company and a time, the percentage voting interest that the person is treated as holding in the company at the time under sections YC 2 to YC 20 (which relate to the measurement of control and ownership interests):
     (b) in subpart HA (Qualifying companies (QC) and loss-attributing qualifying companies (LAQC)), and in the definition of effective interest, is described in section HA 44 (Measuring effective interests):
     (c) in section YC 13(4) and (5) (Corporate spin-outs), means, for a person and a company and a time, the percentage voting interest that the person is treated as holding in the company under section YC 2 (Voting interests), as modified by section YC 13(7)
+  - **WFF tax credit** means Working for Families tax credit and is defined in section MA 8 (Some definitions for family scheme)
   - **wholly-owned group** has the same meaning as
   - **wholly-owned group of companies** is defined in section IC 4(1) (Common ownership: wholly-owned groups of companies)
   - **widely-held company** means, at any time, a company that, at the time,—
@@ -36271,6 +37939,8 @@ Exception for international tax rules
 (2) In the international tax rules, except sections CD 45 to CD 52 and CZ 10 (which relate to calculation of attributed repatriation dividends), 2 companies are not associated persons if 1, but not both, is a non-resident.
 Application: 1988 version provisions
 (3) This section applies for the purposes of the 1988 version provisions (which are the international tax rules and other miscellaneous rules).
+Exclusion: subpart LH
+(3B) Despite subsection (3), this section does not apply for the purposes of section LH 1(2) (Who this subpart applies to).
 Meaning of associated
 (4) In this section, the term associated has the meaning that it has for the purposes of the 1988 version provisions (which are the international tax rules and other miscellaneous rules).
 
@@ -36446,19 +38116,24 @@ Meaning of associated person
 ### YB 16 Partnerships: partnership and partner
 Partnership and partner
 (1) A partnership and a partner in the partnership are associated persons.
+Exception: limited partners
+(1B) Subsection (1) does not apply if the partner is a limited partner. Instead, a limited partnership and a limited partner are associated persons if the limited partner has a partnership share of 25% or more in a right, obligation, or other property, status, or thing of the limited partnership.
 Application: whole Act
 (2) This section applies for the purposes of the whole Act.
 
 ### YB 17 Partnerships: partnership and associate of partner
 Partnership and associate of partner
 (1) A partnership and a person associated with a partner are associated persons.
+Exception: limited partners
+(1B) Subsection (1) does not apply if the partner is a limited partner. Instead, a limited partnership and a person associated with a limited partner are associated persons if the limited partner has a partnership share of 25% or more in a right, obligation, or other property, status, or thing of the limited partnership.
 Application: whole Act
 (2) This section applies for the purposes of the whole Act.
 When associated
 (3) In this section, a person is treated as associated with a partner if—
   (a) the person is associated with the partner other than under this section; and
   (b) for the purposes of the 1973 version provisions (which relate to taxation of transactions involving land), the term associated has the meaning that it has for the purposes of those provisions; and
-  (c) for the purposes of the 1988 version provisions (which are the international tax rules and other miscellaneous rules), the term associated has the meaning that it has for the purposes of those provisions.
+  (c) for the purposes of the 1988 version provisions (which are the international tax rules and other miscellaneous rules), the term associated has the meaning that it has for the purposes of those provisions; and
+  (d) for the purposes of the 1990 version provisions (which are certain provisions relating to petroleum mining and some other miscellaneous rules), the term associated has the meaning that it has for the purposes of those provisions.
 
 ### YB 18 Persons habitually acting together: 1988 version provisions
 Persons habitually acting together
@@ -36508,10 +38183,12 @@ Application: 1990 version provisions
   (m) section HC 15 (Taxable distributions from non-complying and foreign trusts):
   (n) section HD 15 (Asset stripping of companies):
   (o) sections HL 6 (Investor membership requirement) and HL 9 (Investor interest size requirement):
+  (ob) subpart LH (Tax credits for expenditure on research and development):
   (p) sections LJ 1 to LJ 3, LJ 6, and LJ 7 (which relate to tax credits for tax paid outside New Zealand):
   (q) subpart LL (Underlying foreign tax credits (UFTC)):
   (r) section LP 2 (Tax credits for supplementary dividends):
   (s) sections LQ 3, LQ 4, RG 7, YD 7, and YD 8 (which relate to conduit tax relief):
+  (sb) sections ML 1 to ML 3 (which relates to tax credits for redundancy payments):
   (t) the definitions in section YA 1 (Definitions) of returning share transfer and share-lending arrangement:
   (u) section YD 8 (Apportionment of premiums derived by non-resident general insurers).
 1990 version provisions
@@ -36996,6 +38673,8 @@ Non-resident general insurers
 (16) A premium for general insurance paid to a non-resident general insurer of the type described in section YD 8 has a source in New Zealand to the extent set out in section YD 8(2).
 Non-resident life insurers: policies in New Zealand
 (17) Income of a non-resident life insurer calculated under section EY 48 (Non-resident life insurers with life insurance policies in New Zealand) has a source in New Zealand.
+Income from New Zealand partnerships
+(17B) Income has a source in New Zealand if, treating all of the partners of a New Zealand partnership as resident in New Zealand, the income is treated as having a source in New Zealand under another provision of this section. The application of the other provisions of this section is unaffected if this subsection does not apply.
 Any other source in New Zealand
 (18) Income derived directly or indirectly from any other source in New Zealand has a source in New Zealand.
 
@@ -37275,7 +38954,7 @@ Parts of schedule
 Purpose of schedule
 (3) The schedule is provided to assist readers to identify corresponding provisions but must not be interpreted as a definitive guide to the correspondence of provisions.
 
-## Schedule 1 — Basic tax rates: income tax, ESCT, RWT, and attributed fringe benefits
+## Schedule 1 — Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits
 
 ### 1 Taxable income: general
 To the extent to which a person does not have a basic rate under clauses 2 to 8, the basic rate of income tax for the person on each dollar of the person’s taxable income is calculated using the formula—
@@ -37296,7 +38975,7 @@ The basic rate of income tax on each dollar of a taxable distribution made by a 
 ### 5 Schedular taxable income: category A income
 The basic rate of income tax for a trustee on each dollar of the trustee’s schedular taxable income that is for category A income is 0.30.
 
-### 6
+### 6 Taxable income: trustees of certain funds
 To the extent to which a trustee does not have a basic rate under clause 4 or 5, the basic rate of income tax on each dollar of taxable income is 0.30 if the income is of a trustee of—
   (a) an approved unit trust to which the Income Tax Act (Exempt Unit Trusts) Order 1990 applies:
   (b) a widely-held GIF:
@@ -37388,7 +39067,7 @@ If an employee has notified their employer that the employee’s tax code is CAE
 | --- | --- | --- |
 | 1 | Rows 2 and 3 do not apply | 0.21 |
 | 2 | Section RD 10(2)(a) or RD 17(2) applies | 0.33 |
-| 3 | Section RD 11(2)(b) or RD 18(3) applies | 0.39 |
+| 3 | Section RD 10(2)(b) or RD 17(3) applies | 0.39 |
 
 | How to use this table |
 | --- |
@@ -37588,6 +39267,9 @@ In this part,—
     (b) eel:
     (c) whitebait:
     (d) sphagnum moss.
+
+### 1
+A personal service rehabilitation payment for a person under the Injury Prevention, Rehabilitation, and Compensation Act 2001 has a 0.15 rate of tax for each dollar of the payment.
 
 ## Schedule 5 — Fringe benefit values for motor vehicles
 
@@ -38066,6 +39748,8 @@ expenditure related to the acquisition of land
 | 11 | construction on the land of fences, including the purchase of wire or wire netting for the purpose of making new or existing fences rabbit-proof | 12 |
 | 12 | erection on the land of electric power lines or telephone lines | 12 |
 
+## Schedule 21 — Expenditure and activities related to research and development
+
 ## Schedule 24 — International tax rules: grey list countries
 
 | 1 | Australia, excluding the Territory of Norfolk Island |
@@ -38172,6 +39856,8 @@ expenditure related to the acquisition of land
 
 | Country or territory | Types of income |
 | --- | --- |
+
+## Schedule 28 — Requirements for complying fund rules
 
 ## Schedule 31 — Annualised equivalent amount for Part M
 
@@ -45164,3 +46850,119 @@ For the purposes of determining a person’s liability to pay a late payment pen
 | TAA 166B | HK 18 |
 | TAA 225AA | OC 4 |
 | TAA 225B | LC 1A(1), (2) |
+
+### 1 Title
+This Act is the Taxation (Limited Partnerships) Act 2008.
+
+### 2 Commencement
+This Act comes into force on 1 April 2008.
+
+## Part 1 — Amendments to Income Tax Act 2007
+
+### 4 New section CB 27B
+(1) Amendment incorporated in the principal Act.
+(2) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
+
+### 5 New heading and section CB 35 added
+(1) Amendments incorporated in the principal Act.
+(2) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
+
+### 6 Meaning of asset for sections CU 3 to CU 10
+(1) Amendment incorporated in the principal Act.
+(2) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
+
+### 7 Amount treated as repayment for purposes of section CU 17: net income
+(1) Amendment incorporated in the principal Act.
+(2) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
+
+### 8 New heading and section CW 55B added
+(1) Amendments incorporated in the principal Act.
+(2) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
+
+### 9 New heading and section CX 62 added
+(1) Amendments incorporated in the principal Act.
+(2) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
+
+### 10 New heading and section DV 20 added
+(1) Amendments incorporated in the principal Act.
+(2) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
+
+### 11 New section DO 11B inserted
+(1) Amendment incorporated in the principal Act.
+(2) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
+
+### 12 Meaning of asset for sections DU 1 to DU 7
+(1) Amendment incorporated in the principal Act.
+(2) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
+
+### 13 Financial arrangements, income, and expenditure relevant to criteria
+(1) Amendment incorporated in the principal Act.
+(2) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
+
+### 14 Section EX 13 repealed
+(1) Amendment incorporated in the principal Act.
+(2) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
+
+### 15 Cash basis holder
+(1) Amendment incorporated in the principal Act.
+(2) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
+
+### 16 Attribution rule: calculation
+(1) Amendment incorporated in the principal Act.
+(2) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
+
+### 17 New heading and section GB 50 added
+(1) Amendments incorporated in the principal Act.
+(2) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
+
+### 18 Section HD 20 replaced
+(1) Amendments incorporated in the principal Act.
+(2) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
+
+### 19 New subpart HG
+(1) Amendments incorporated in the principal Act.
+(2) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
+
+### 20 Section HR 1 repealed
+(1) Amendment incorporated in the principal Act.
+(2) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
+
+### 21 New sections HZ 3 and HZ 4
+(1) Amendments incorporated in the principal Act.
+(2) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
+
+### 22 When unincorporated bodies hold certificates
+(1) Amendment incorporated in the principal Act.
+(2) For a person who is not a limited partner in a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
+
+### 23 Definitions
+(1) This section amends section YA 1.
+(2) Amendment incorporated in the principal Act.
+(3) Amendments incorporated in the principal Act.
+(4) Amendments incorporated in the principal Act.
+(5) Amendment incorporated in the principal Act.
+(6) Amendment incorporated in the principal Act.
+(7) Amendment incorporated in the principal Act.
+(8) Amendments incorporated in the principal Act.
+(9) Amendment incorporated in the principal Act.
+(10) Amendment incorporated in the principal Act.
+(11) Amendments incorporated in the principal Act.
+(12) Amendment incorporated in the principal Act.
+(13) Amendments incorporated in the principal Act.
+(14) Amendment incorporated in the principal Act.
+(15) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsections (2) to (14) apply for income years starting on and after 1 April 2008.
+
+### 24 Partnerships: partnership and partner
+(1) Amendments incorporated in the principal Act.
+(2) Amendments incorporated in the principal Act.
+(3) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsections (1) and (2) apply for income years starting on and after 1 April 2008.
+
+### 25 Partnerships: partnership and associate of partner
+(1) Amendments incorporated in the principal Act.
+(2) Amendments incorporated in the principal Act.
+(3) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsections (1) and (2) apply for income years starting on and after 1 April 2008.
+
+### 26 Classes of income treated as having New Zealand source
+(1) Amendments incorporated in the principal Act.
+(2) Amendments incorporated in the principal Act.
+(3) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsections (1) and (2) apply for income years starting on and after 1 April 2008.
