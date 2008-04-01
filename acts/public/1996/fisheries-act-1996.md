@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2008-03-27_
+_Consolidation as at 2008-04-01_
 
 > An Act—aTo reform and restate the law relating to fisheries resources; andbTo recognise New Zealand's international obligations relating to fishing; andcTo provide for related matters
 
@@ -1253,8 +1253,8 @@ An interest in fishing quota that is forfeited under section 58 or section 58A m
 (10) For the purposes of this section and sections 60(4) and 61, the term person, in relation to a particular person, includes—
   (a) any person who is in partnership with the person:
   (b) any person who is a director or employee of any company of which the person is a director or employee:
-  (c) any person who is a relative of the person as defined in paragraphs (c) and (d) of the definition of that term in section OB 1 of the Income Tax Act 2004:
-  (d) any person who would be an associated person under the test provided in section OD 7 of the Income Tax Act 2004, except that paragraph (e) of the definition of “market value circumstance” in section OB 1 of that Act does not apply:
+  (c) any person who is a relative of the person as defined in paragraphs (c) and (d) of the definition of that term in section YA 1 of the Income Tax Act 2007:
+  (d) any person who would be an associated person under the test provided in subpart YB of the Income Tax Act 2007 (to the extent to which those rules apply for the whole of that Act excluding the 1973, 1988, and 1990 version provisions), except that paragraph (e) of the definition of market value circumstance in section YA 1 of that Act does not apply:
   (e) any beneficiary or trustee of any trust of which the person is a trustee or beneficiary.
 (10A) For the purposes of subsection (10)(b) and (e), a person is not a person referred to in that subsection solely because the person is—
   (a) in the case of subsection (10)(b), a director of Te Ohu Kai Moana Trustee Limited, Te Putea Whakatupu Trustee Limited, or Te Wai Maori Trustee Limited; or
@@ -6546,6 +6546,20 @@ All positions and directions described in this Schedule are based on a geographi
 | Blue shark (Prionace glauca) | All New Zealand fisheries waters | A commercial fisher may return any blue shark to the waters from which it was taken if— |  |
 |  |  |  | (a) that blue shark is likely to survive on return; and |
 |  |  |  | (b) the return takes place as soon as practicable after the blue shark is taken. |
+| Chatham Islands scallops (Pecten novaezelandiae) | Chatham Islands scallop fishery | A commercial fisher must immediately return a Chatham Islands scallop to the waters from which it was taken if the scallop is taken— |  |
+|  |  |  | (a) during any closed season in the Chatham Islands scallop fishery; or |
+|  |  |  | (b) in any area in which the taking of Chatham Islands scallops is, at that time, prohibited. |
+| Cockle (Austrovenus stutchburyi) | All New Zealand fisheries waters except fisheries management area 10 |  | A commercial fisher may return any cockle to the waters from which it is taken if— |
+|  |  |  | (a) the cockle is likely to survive the return; and |
+|  |  |  | (b) the return takes place as soon as practicable after the cockle is taken. |
+| Coromandel scallops (Pecten novaezelandiae) | Coromandel scallop fishery | A commercial fisher must immediately return a Coromandel scallop to the waters from which it was taken if the scallop is taken— |  |
+|  |  |  | (a) During any closed season in the Coromandel scallop fishery; or |
+|  |  |  | (b) In any area in which the taking of Coromandel scallops is, at that time, prohibited. |
+| Deepwater crab (Chaceon bicolor, Lithodes murrayi, Neolithodes brodiei, and Jacquinotia edwardsii) | All New Zealand fisheries waters | A commercial fisher may return any deepwater crab to the waters from which it was taken if that deepwater crab—ais taken using potting gear; andbis likely to survive; andcthe return takes place as soon as practicable after the deepwater crab is taken. |  |
+| Dredge oyster (Ostrea chilensis) | All New Zealand fisheries waters except quota management area OYU5 and fisheries management area 10 | A commercial fisher may return a dredge oyster of legal size to the waters from which it was taken if the oyster is likely to survive on return. |  |
+| Freshwater eel (Anguilla australis, Anguilla dieffenbachii, and Anguilla reinhardtii) | All New Zealand fisheries waters |  | A commercial fisher may return any freshwater eel of legal size to the waters from which it is taken if— |
+|  |  |  | (a) That eel is likely to survive on return; and |
+|  |  |  | (b) The return takes place as soon as practicable after the eel is taken. |
 | Green-lipped mussel (Perna canaliculus) | Quota Management Areas GLM1, GLM2, GLM3, GLM7A, GLM7B, GLM8, and GLM10 | A commercial fisher may return any green-lipped mussel to the sea if that green-lipped mussel is likely to survive on return. |  |
 | Green-lipped mussel (Perna canaliculus) | Quota Management Area GLM9 | A commercial fisher may return any green-lipped mussel to the sea. |  |
 | Kingfish (Seriola lalandi) | All New Zealand fisheries waters | A commercial fisher may return a kingfish of legal size to the waters from which it was taken if that fish— |  |
@@ -6560,12 +6574,19 @@ All positions and directions described in this Schedule are based on a geographi
 | Mako shark (Isurus oxyrinchus) | All New Zealand fisheries waters | A commercial fisher may return any mako shark to the waters from which it was taken if— |  |
 |  |  |  | (a) that mako shark is likely to survive on return; and |
 |  |  |  | (b) the return takes place as soon as practicable after the mako shark is taken. |
+| Northern scallops (Pecten novaezelandiae) | Northland scallop fishery | A commercial fisher shall immediately return any Northland scallop to the waters from which it was taken if the scallop is taken— |  |
+|  |  |  | (a) During any closed season in the Northland scallop fishery; or |
+|  |  |  | (b) In any area in which the taking of northern scallops is, at the time, prohibited. |
+| Paddle crab (Ovalipes catharus) | All New Zealand fisheries waters | A commercial fisher may return any paddle crab to the waters from which it was taken if that paddle crab—ais taken using potting gear; andbis likely to survive; andcthe return takes place as soon as practicable after the paddle crab is taken. |  |
 | Pipi (Paphies australis) | All New Zealand fisheries waters except fisheries management area 10 | A commercial fisher may return any pipi to the seabed from which it was taken if- |  |
 |  |  |  | (a) that pipi is likely to survive on return; and |
 |  |  |  | (b) the return takes place as soon as practicable after the pipi is taken. |
 | Porbeagle shark (Lamna nasus) | All New Zealand fisheries waters | A commercial fisher may return any porbeagle shark to the waters from which it was taken if— |  |
 |  |  |  | (a) that porbeagle shark is likely to survive on return; and |
 |  |  |  | (b) the return takes place as soon as practicable after the porbeagle shark is taken. |
+| Queen scallop (Zygochlamys delicatula) | All New Zealand fisheries waters |  | A commercial fisher may return any queen scallop to the waters from which it is taken if— |
+|  |  |  | (a) the queen scallop is likely to survive the return: and |
+|  |  |  | (b) the return takes place as soon as practicable after the queen scallop is taken. |
 | Rock lobster (Jasus verreauxi, Jasus edwardsii) | All New Zealand fisheries waters | 1. A commercial fisher may return any rock lobster of legal size to the waters from which it is taken if— |  |
 |  |  |  | (a) That rock lobster is likely to survive on return; and |
 |  |  |  | (b) The return takes place as soon as practicable after the rock lobster is taken. |
@@ -6574,39 +6595,20 @@ All positions and directions described in this Schedule are based on a geographi
 |  |  |  | (b) The lobster is in the soft-shell stage, being the stage following moulting when the exoskeleton of the lobster has not reached full hardness; or |
 |  |  |  | (c) The calcified bar or any part of the exoskeleton (the outer shell of the tail) of the first abdominal segment of the tail is in such a state that its tail cannot properly be measured in the manner required under regulations made under section 297 of this Act; or |
 |  |  |  | (d) In the case of spiny rock lobster, the calcified bar or any part of the exoskeleton (the outer shell of the tail) of the second abdominal segment of the tail is fractured; or any part of any pleural spine of the second abdominal segment is broken. |
-| Southern scallops (Pecten novaezelandiae) | Southern scallop fishery | A commercial fisher may return a southern scallop of legal size to the waters from which it was taken if the scallop is likely to survive on return. |  |
-| Coromandel scallops (Pecten novaezelandiae) | Coromandel scallop fishery | A commercial fisher must immediately return a Coromandel scallop to the waters from which it was taken if the scallop is taken— |  |
-|  |  |  | (a) During any closed season in the Coromandel scallop fishery; or |
-|  |  |  | (b) In any area in which the taking of Coromandel scallops is, at that time, prohibited. |
-| Chatham Islands scallops (Pecten novaezelandiae) | Chatham Islands scallop fishery | A commercial fisher must immediately return a Chatham Islands scallop to the waters from which it was taken if the scallop is taken— |  |
-|  |  |  | (a) during any closed season in the Chatham Islands scallop fishery; or |
-|  |  |  | (b) in any area in which the taking of Chatham Islands scallops is, at that time, prohibited. |
-| Northern scallops (Pecten novaezelandiae) | Northland scallop fishery | A commercial fisher shall immediately return any Northland scallop to the waters from which it was taken if the scallop is taken— |  |
-|  |  |  | (a) During any closed season in the Northland scallop fishery; or |
-|  |  |  | (b) In any area in which the taking of northern scallops is, at the time, prohibited. |
-| Dredge oyster (Ostrea chilensis) | All New Zealand fisheries waters except quota management area OYU5 and fisheries management area 10 | A commercial fisher may return a dredge oyster of legal size to the waters from which it was taken if the oyster is likely to survive on return. |  |
-| Freshwater eel (Anguilla australis, Anguilla dieffenbachii, and Anguilla reinhardtii) | All New Zealand fisheries waters |  | A commercial fisher may return any freshwater eel of legal size to the waters from which it is taken if— |
-|  |  |  | (a) That eel is likely to survive on return; and |
-|  |  |  | (b) The return takes place as soon as practicable after the eel is taken. |
-| Cockle (Austrovenus stutchburyi) | All New Zealand fisheries waters except fisheries management area 10 |  | A commercial fisher may return any cockle to the waters from which it is taken if— |
-|  |  |  | (a) the cockle is likely to survive the return; and |
-|  |  |  | (b) the return takes place as soon as practicable after the cockle is taken. |
-| Queen scallop (Zygochlamys delicatula) | All New Zealand fisheries waters |  | A commercial fisher may return any queen scallop to the waters from which it is taken if— |
-|  |  |  | (a) the queen scallop is likely to survive the return: and |
-|  |  |  | (b) the return takes place as soon as practicable after the queen scallop is taken. |
 | Rough skate (Dipturus nasutus) | All New Zealand fisheries waters | A commercial fisher may return any rough skate to the waters from which it was taken if— |  |
 |  |  |  | (a) that rough skate is likely to survive on return; and |
 |  |  |  | (b) the return takes place as soon as practicable after the rough skate is taken. |
 | Scallop (Pecten novaezelandiae) | SCA1A, SCA2A, SCA3, SCA5, SCA7A, SCA7B, SCA7C, SCA8A, SCA9A | A commercial fisher may return a scallop of legal size to the waters from which it was taken if the scallop is likely to survive on return. |  |
-| Smooth skate (Dipturus innominatus) | All New Zealand fisheries waters | A commercial fisher may return any smooth skate to the waters from which it was taken if— |  |
-|  |  |  | (a) that smooth skate is likely to survive on return; and |
-|  |  |  | (b) the return takes place as soon as practicable after the smooth skate is taken |
 | Sea cucumber (Stichopus mollis) | All New Zealand fisheries waters | A commercial fisher may return any sea cucumber to the waters from which it was taken if— |  |
 |  |  |  | (a) that sea cucumber is likely to survive on return; and |
 |  |  |  | (b) the return takes place as soon as practicable after the sea cucumber is taken. |
-| Southern bluefin tuna(Thunnus maccoyii) | All New Zealand fisheries waters and all waters outside the outer boundary of the exclusive economic zone | A person who is a New Zealand national fishing against New Zealand's national allocation of southern bluefin tuna may return any southern bluefin tuna to the waters from which it was taken if— |  |
+| Smooth skate (Dipturus innominatus) | All New Zealand fisheries waters | A commercial fisher may return any smooth skate to the waters from which it was taken if— |  |
+|  |  |  | (a) that smooth skate is likely to survive on return; and |
+|  |  |  | (b) the return takes place as soon as practicable after the smooth skate is taken |
+| Southern bluefin tuna (Thunnus maccoyii) | All New Zealand fisheries waters and all waters outside the outer boundary of the exclusive economic zone | A person who is a New Zealand national fishing against New Zealand's national allocation of southern bluefin tuna may return any southern bluefin tuna to the waters from which it was taken if— |  |
 |  |  |  | (a) that southern bluefin tuna is likely to survive on return; and |
 |  |  |  | (b) the return takes place as soon as practicable after the southern bluefin tuna is taken. |
+| Southern scallops (Pecten novaezelandiae) | Southern scallop fishery | A commercial fisher may return a southern scallop of legal size to the waters from which it was taken if the scallop is likely to survive on return. |  |
 | Spiny dogfish (Squalus acanthias) | All New Zealand fisheries waters | A commercial fisher may return any spiny dogfish (whether live or dead) to the waters from which it was taken. |  |
 | Surf clams (Bassina yatei, Dosinia anus, Dosinia subrosea, Mactra discors, Mactra murchisoni, Paphies donacina, Spisula aequilatera) | All New Zealand fisheries waters except fisheries management areas 6 and 10 | A commercial fisher may return any surf clam to the waters from which it was taken if— |  |
 |  |  |  | (a) the surf clam is likely to survive on return; and |
