@@ -1,5 +1,5 @@
 # Electricity Industry Reform Act 1998
-_Consolidation as at 2008-02-29_
+_Consolidation as at 2008-04-01_
 
 > An Act to reform the electricity industry
 
@@ -658,7 +658,7 @@ Subject to their express provisions, sections 62 to 67 are intended—
   (a) To exempt from liability for gift duty, any gift component on a transfer by a company of assets and liabilities comprising all or part of an electricity lines business or an electricity supply business, being a co-operative company or a company in respect of which at least one electricity trust holds all of the voting interests and market value interests (if any), to a mirror co-operative or a company in respect of which an electricity trust's mirror trust holds, or more than one electricity trusts' mirror trusts hold in the same proportions, all of the voting interests and market value interests (if any); and
   (b) To modify the application of the consolidation rules to electricity companies that use those rules to separate their electricity lines business and their electricity supply business; and
   (c) To exempt from liability for stamp duty certain instruments executed to enable or assist a person to comply with Part 2; and
-  (d) To specify that shares acquired and sold for the purpose of enabling or assisting a person to comply with Part 2 are not acquired for the purpose of resale within the meaning of a specific limb of a section of the Income Tax Act 2004.
+  (d) To specify that shares acquired and sold for the purpose of enabling or assisting a person to comply with Part 2 are not acquired for the purpose of resale within the meaning of a specific limb of a section of the Income Tax Act 2007.
 
 ### 61 Mirror co-operatives
 (1) This section applies if a customer co-operative establishes a mirror company (mirror co-operative) and, for the purpose of using the mirror trust option in section 37, transfers assets and liabilities that would (alone or together with other assets and liabilities) comprise all or part of an electricity lines business or electricity supply business for a consideration less than their market value.
@@ -679,7 +679,7 @@ Subject to their express provisions, sections 62 to 67 are intended—
   (b) Where any gift in respect of a transfer referred to in subsection (1)(d) would, but for this provision, have formed part of or contributed to the capital gain amounts of the relevant mirror trust company available for distribution to its shareholders upon liquidation, the capital gain amounts are deemed to be reduced to zero or by the amount of the gift, whichever is the smaller reduction.
 
 ### 63 Consolidation rules modified generally for purposes of corporate ownership split and ownership split
-(1) Section FD 10(9) of the Income Tax Act 2004 is deemed not to apply to a company in a consolidated group where and to the extent that it can be concluded that the consolidation rules were utilised by the company for the purpose of complying with its obligations, or the obligations of any other company in the consolidated group, under Part 2.
+(1) Section FM 22 of the Income Tax Act 2007 is deemed not to apply to a company in a consolidated group where and to the extent that it can be concluded that the consolidation rules were utilised by the company for the purpose of complying with its obligations, or the obligations of any other company in the consolidated group, under Part 2.
 (2) In addition to any provision of the consolidation rules that applies in respect of a company ceasing, or that requires a company to cease, to be a member of a consolidated group, every transferee company is deemed to cease to be a member of the consolidated group when a transferring company ceases to be a member of the consolidated group.
 (3) Notwithstanding any provision of the consolidation rules, when subsection (2) applies, every transferee company is treated as having ceased to be a member of the consolidated group with effect from the beginning of the day on which the cessation of membership occurred.
 
@@ -691,14 +691,14 @@ Subject to their express provisions, sections 62 to 67 are intended—
 [Repealed]
 
 ### 66 Shares not acquired for resale
-(1) If, on or after 21 May 1998 and before 31 December 2003,—the shareholder is deemed not to have acquired the relevant shares for the purpose of selling them (within the meaning of sections CB 3 and CB 4 of the Income Tax Act 2004).
+(1) If, on or after 21 May 1998 and before 31 December 2003,—the shareholder is deemed not to have acquired the relevant shares for the purpose of selling them (within the meaning of sections CB 4 and CB 5 of the Income Tax Act 2007).
   (a) A person (the shareholder) acquires shares in a company (the relevant shares); and
   (b) While the shareholder holds the relevant shares, the company purchases or otherwise acquires all or part of the assets and liabilities of an electricity lines business or an electricity supply business; and
   (c) After such purchase or other acquisition by the company, the shareholder sells all or some of the relevant shares so as to enable or assist a person to comply with that person's obligations under Part 2,—
-(2) Nothing in subsection (1) is taken to imply that sections CB 3 and CB 4 of the Income Tax Act 2004 necessarily applies to a sale of shares in a company where that sale is to enable or assist a person to comply with that person's obligations under Part 2.
+(2) Nothing in subsection (1) is taken to imply that sections CB 4 and CB 5 of the Income Tax Act 2007 necessarily applies to a sale of shares in a company where that sale is to enable or assist a person to comply with that person's obligations under Part 2.
 
 ### 67 Definitions for tax sections
-(1) For the purposes of this section and sections 60 to 66, the following words have the meanings given to them in section OB 1 of the Income Tax Act 2004:
+(1) For the purposes of this section and sections 60 to 66, the following words have the meanings given to them in section YA 1 of the Income Tax Act 2007:
   (a)
   (b) Consolidated group:
   (c) Consolidation rules:
