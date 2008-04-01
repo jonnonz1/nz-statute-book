@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2007-11-17_
+_Consolidation as at 2008-04-01_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -1992,7 +1992,7 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
     (a) a hire purchase agreement:
     (b) a leasing agreement:
     (c) any other agreement entered into between the offender and another party under which the other party obtains or retains any interest in the motor vehicle
-  - **hire purchase agreement** means a hire purchase agreement within the meaning of section OB 1 of the Income Tax Act 2004
+  - **hire purchase agreement** means a hire purchase agreement within the meaning of section YA 1 of the Income Tax Act 2007
   - **interest** means any proprietary interest, whether legal or equitable, and whether vested or contingent
   - **leasing agreement** does not include any agreement entered into between the offender and the holder of a rental service licence under the Transport Services Licensing Act 1989
   - **motor vehicle** means a motor vehicle within the meaning of section 2(1) of the Land Transport Act 1998; but does not include a trailer.
