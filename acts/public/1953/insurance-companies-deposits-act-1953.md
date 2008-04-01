@@ -1,5 +1,5 @@
 # Insurance Companies' Deposits Act 1953
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 > An Act to consolidate and amend the law relating to deposits required from companies and persons carrying on various classes of insurance business
 
@@ -279,7 +279,7 @@ In sections 22A to 22I,—
     (a) a company registered in New Zealand under the Companies Act 1993:
     (b) an association within the meaning of the Mutual Insurance Act 1955:
     (c) an incorporated or unincorporated body established in New Zealand:
-    (d) a New Zealand resident within the meaning of section OE 1 of the Income Tax Act 2004
+    (d) a New Zealand resident within the meaning of section YD 1 of the Income Tax Act 2007
   - **overseas company** means an overseas company registered on the overseas register kept under the Companies Act 1993
   - **specified insurance business** means any of the following
     (a) business for which a person is liable to pay a deposit under this Act:
