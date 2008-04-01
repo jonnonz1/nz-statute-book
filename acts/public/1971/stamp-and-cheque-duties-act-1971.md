@@ -1,5 +1,5 @@
 # Stamp and Cheque Duties Act 1971
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 > An Act to consolidate and amend the law relating to stamp duties
 
@@ -414,12 +414,12 @@ All money payable by way of refunding any cheque duty shall be paid out of the C
 
 ### 86F Interpretation
 In this Part of this Act, unless the context otherwise requires,—
-  - **Approved issuer** has the meaning assigned to that term by section OB 1 of the Income Tax Act 2004
+  - **Approved issuer** has the meaning assigned to that term by section YA 1 of the Income Tax Act 2007
   - **Approved issuer levy** means the levy referred to in section 86J of this Act
-  - **Interest** has the meaning assigned to that term by paragraphs (a) and (c) of the definition of interest in section OB 1 of the Income Tax Act 2004 for the purposes of the NRWT rules of that Act
+  - **Interest** has the meaning assigned to that term by paragraphs (a) and (b) of the definition of “interest” in section YA 1 of the Income Tax Act 2007 for the purposes of the NRWT rules of that Act
   - **Leviable value** means, in respect of any registered security at the time of any payment of interest in respect of that registered security, the amount of that payment of interest
-  - **Money lent** has the meaning assigned to that term by section OB 1 of the Income Tax Act 2004; and has a corresponding meaning
-  - **paid** and each has the meaning corresponding to paragraph (c) of the definition of pay in section OB 1 of the Income Tax Act 2004.
+  - **Money lent** has the meaning assigned to that term by section YA 1 of the Income Tax Act 2007; and has a corresponding meaning
+  - **paid** and each has the meaning corresponding to paragraph (c) of the definition of pay in section YA 1 of the Income Tax Act 2007.
   - **Registered security** means at any time any transaction involving money lent to an approved issuer that is—
     (a) Registered by the Commissioner under section 86H of this Act on the application of the approved issuer; or
     (b) One of a class of transactions so registered.
@@ -438,7 +438,7 @@ Any approved issuer may apply to the Commissioner, in writing and in such form a
 (2) Registration of any transaction or class of transactions under this section shall take effect from the date upon which the Commissioner received the duly completed application for registration made by the approved issuer in accordance with section 86G of this Act.
 
 ### 86I Application of approved issuer levy and zero-rating
-For the purposes of the NRWT rules of the Income Tax Act 2004 and section 86J of this Act, and notwithstanding any provision of the NRWT rules of the Income Tax Act 2004, a payment of interest shall be treated as being paid by an approved issuer in respect of a registered security only where and to the extent that payment is made by or on behalf of the approved issuer of approved issuer levy on the leviable value of the registered security at the time of the payment of interest—
+For the purposes of the NRWT rules of the Income Tax Act 2007 and section 86J of this Act, and notwithstanding any provision of the NRWT rules of the Income Tax Act 2007, a payment of interest shall be treated as being paid by an approved issuer in respect of a registered security only where and to the extent that payment is made by or on behalf of the approved issuer of approved issuer levy on the leviable value of the registered security at the time of the payment of interest—
   (a) At the rate specified in section 86J of this Act; and
   (b) by the date specified in either section 86K or section 86KA, or by a later date upon the payment of any interest or penalties imposed under Parts 7 or 9 of the Tax Administration Act 1994 respectively.
 
@@ -475,7 +475,7 @@ Approved issuer levy shall be computed in respect of any registered security at 
 ### 86L Refund of levy paid in error or in excess
 (1) Where, at any time within 8 years after the date of payment, or if application for the refund is made in writing within that period, the Commissioner is satisfied that any amount of approved issuer levy has been paid in error or excess, the Commissioner may refund the amount paid in error or the excess to the person entitled.
 (1A) A refund under subsection (1) must be made in accordance with the requirements of section 184A of the Tax Administration Act 1994.
-(2) Where the Commissioner is satisfied that the requirements of this section have been met, the Commissioner shall refund that amount and the relevant payment of interest shall be deemed, for the purposes of the NRWT rules of the Income Tax Act 2004, not to have been paid in respect of a registered security.
+(2) Where the Commissioner is satisfied that the requirements of this section have been met, the Commissioner shall refund that amount and the relevant payment of interest shall be deemed, for the purposes of the NRWT rules of the Income Tax Act 2007, not to have been paid in respect of a registered security.
 (3) All money payable by the Commissioner under this section by way of refund of levy shall be paid without further appropriation than this section.
 
 ### 86M Relief in cases of serious hardship
