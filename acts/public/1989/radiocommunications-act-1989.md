@@ -1,5 +1,5 @@
 # Radiocommunications Act 1989
-_Consolidation as at 2008-03-27_
+_Consolidation as at 2008-04-01_
 
 > An Act to provide for the management of the radio frequency spectrum
 
@@ -1381,7 +1381,7 @@ Without limiting sections 140 and 141 of this Act, any document made or any thin
 
 ### 153 Transferee liable for payments
 (1) Where the rightholder's rights pursuant to a spectrum licence granted to an incumbent pursuant to section 145 of this Act are transferred to any other person, any payment that would have been required by section 149 of this Act to be made in respect of that spectrum licence by the incumbent if those rights had not been transferred shall be payable by the transferee, and sections 149 to 152 of this Act shall apply accordingly as if the transferee were the incumbent.
-(2) Notwithstanding anything in subsection (1) of this section, where the rightholder's rights pursuant to a spectrum licence granted to an incumbent pursuant to section 145 of this Act are transferred to any other person, and the incumbent and the transferee are associated persons within the meaning of section OD 7 of the Income Tax Act 2004, any payment that would have been required by subsection (1) of this section to be made in respect of that spectrum licence by the transferee shall be payable by the incumbent as if those rights had not been transferred.
+(2) Notwithstanding anything in subsection (1) of this section, where the rightholder's rights pursuant to a spectrum licence granted to an incumbent pursuant to section 145 of this Act are transferred to any other person, and the incumbent and the transferee are associated persons within the meaning of subpart YB of the Income Tax Act 2007 (to the extent to which those rules apply for the whole of that Act excluding the 1973, 1988, and 1990 version provisions), any payment that would have been required by subsection (1) of this section to be made in respect of that spectrum licence by the transferee shall be payable by the incumbent as if those rights had not been transferred.
 
 **Transitional rights in relation to AMPS B band**
 
@@ -1442,7 +1442,7 @@ In sections 155 to 161 of this Act, unless the context otherwise requires, the t
 
 ### 161 Transferee liable for payments
 (1) Where the management rights in relation to any frequency in respect of which an incumbent is registered as manager pursuant to section 155 of this Act are transferred to any other person, any payment that would have been required by section 157(1) of this Act to be made in respect of the incumbent's registration as manager if those management rights had not been transferred shall be payable by the transferee, and sections 157 to 160 of this Act shall apply accordingly as if the transferee were the incumbent.
-(2) Notwithstanding anything in subsection (1) of this section, where the management rights in relation to any frequency in respect of which an incumbent is registered as manager pursuant to section 155 of this Act are transferred to any other person, and the incumbent and the transferee are associated persons within the meaning of section OD 7 of the Income Tax Act 2004, any payment that would have been required by subsection (1) of this section to be made in respect of the transferee's registration as manager shall be payable by the incumbent as if those management rights had not been transferred.
+(2) Notwithstanding anything in subsection (1) of this section, where the management rights in relation to any frequency in respect of which an incumbent is registered as manager pursuant to section 155 of this Act are transferred to any other person, and the incumbent and the transferee are associated persons within the meaning of subpart YB of the Income Tax Act 2007 (to the extent to which those rules apply for the whole of that Act excluding the 1973, 1988, and 1990 version provisions), any payment that would have been required by subsection (1) of this section to be made in respect of the transferee's registration as manager shall be payable by the incumbent as if those management rights had not been transferred.
 
 **Transitional rights in relation to 2 frequency land mobile**
 
