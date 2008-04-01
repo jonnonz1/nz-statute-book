@@ -1,5 +1,5 @@
 # Local Government Amendment Act 1989
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 > An Act to amend the Local Government Act 1974
 
@@ -263,7 +263,7 @@ Any person who commences employment on or after the 1st day of November 1989 wit
 A transitional committee may, with the agreement of every local authority that is entitled to appoint a member of the transitional committee, recommend to the new local authority that it close off the accounts of the abolished local authorities as from the close of the 31st day of October 1989.
 
 ### 29A Special provisions in relation to taxation
-For the purposes of the Income Tax Act 2004, the Accident Compensation Act 1982, and the Goods and Services Tax Act 1985, every local authority constituted pursuant to a final reorganisation scheme shall be deemed to be the same local authority as each of the local authorities whose district, region, or functions are wholly transferred to that local authority.
+For the purposes of the Income Tax Act 2007, the Accident Compensation Act 1982, and the Goods and Services Tax Act 1985, every local authority constituted pursuant to a final reorganisation scheme shall be deemed to be the same local authority as each of the local authorities whose district, region, or functions are wholly transferred to that local authority.
 
 ### 30 Protection for persons acting in relation to transitional matters
 (1) A person who does any act, whether before or after the commencement of this Act, in pursuance or intended pursuance of—shall not be under any civil or criminal liability in respect thereof, whether on the ground of want of jurisdiction, or mistake of law or fact, or on any other ground, unless that person has acted in bad faith or without reasonable care.
