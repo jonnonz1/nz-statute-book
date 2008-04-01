@@ -1,5 +1,5 @@
 # Estate and Gift Duties Act 1968
-_Consolidation as at 2007-12-19_
+_Consolidation as at 2008-04-01_
 
 > An Act to consolidate and amend the law relating to estate duty and gift duty
 
@@ -470,8 +470,8 @@ Where the Commissioner is satisfied that any gift is made for or towards the mai
     (i) the proceeds of the sale of shares or equity securities referred to in that section; or
     (ii) any income derived from or capital gain arising on such proceeds, if that income or gain is paid to that community trust before a date set by the Governor-General by Order in Council for the purposes of this subparagraph either in relation to that community trust or to community trusts generally:
   (l) Any gift to the New Zealand Antarctic Institute for the purposes of the New Zealand Antarctic Institute Act 1996:
-  (m) any gift to the trustee of the Tokelau International Trust Fund, as defined in section OB 1 of the Income Tax Act 2004, for the purposes of that trust:
-  (n) any gift to the trustee of the Niue International Trust Fund, as defined in section OB 1 of the Income Tax Act 2004, for the purposes of that trust.
+  (m) any gift to the trustee of the Tokelau International Trust Fund, as defined in section YA 1 of the Income Tax Act 2007, for the purposes of that trust.
+  (n) any gift to the trustee of the Niue International Trust Fund, as defined in section YA 1 of the Income Tax Act 2007, for the purposes of that trust.
 
 ### 74 Exemption for certain elections by members of group superannuation schemes
 Where a member of or a participant in any group superannuation scheme makes an election to accept from the group superannuation scheme a reduced retirement allowance or pension in consideration of the payment—the election shall not constitute a dutiable gift.
@@ -479,32 +479,32 @@ Where a member of or a participant in any group superannuation scheme makes an e
   (b) Commencing before his or her death, of a pension from the group superannuation scheme to the spouse, civil union partner or de facto partner of the member or participant,—
 
 ### 74A Exemption for gifts between members of consolidated group
-No gift shall constitute a dutiable gift where the donor and the donee are at the time the gift is made members of the same consolidated group within the meaning of the consolidation rules of the Income Tax Act 2004.
+No gift shall constitute a dutiable gift where the donor and the donee are at the time the gift is made members of the same consolidated group within the meaning of the consolidation rules of the Income Tax Act 2007.
 
 ### 74B Exemption for dividends
-No payment, distribution, or transaction (whether in money or money's worth) made by a donor being a company, unit trust, or group investment fund (as each of those terms are defined in the Income Tax Act 2004) to or with a donee being a company, unit trust, or group investment fund (as so defined) shall constitute a dutiable gift by the donor to the donee to the extent that the payment, distribution, or transaction constitutes a dividend derived by the donee for the purposes of the Income Tax Act 2004, or would constitute such a dividend but for the application of section CD 19 of that Act .
+No payment, distribution, or transaction (whether in money or money's worth) made by a donor being a company, unit trust, or group investment fund (as each of those terms are defined in the Income Tax Act 2007) to or with a donee being a company, unit trust, or group investment fund (as so defined) shall constitute a dutiable gift by the donor to the donee to the extent that the payment, distribution, or transaction constitutes a dividend derived by the donee for the purposes of the that Act, or would constitute such a dividend but for the application of section CD 27 of that Act.
 
 ### 74C Exemption for gifts in respect of amalgamating companies
-(1) No gift shall constitute a dutiable gift where the donor is an amalgamating company (as defined in section OB 1 of the Income Tax Act 2004), the donee is the amalgamated company (as so defined), and the gift occurs as part of the amalgamation (as so defined).
+(1) No gift shall constitute a dutiable gift where the donor is an amalgamating company (as defined in section YA 1 of the Income Tax Act 2007), the donee is the amalgamated company (as so defined), and the gift occurs as part of the amalgamation (as so defined).
 (2) No gift shall constitute a dutiable gift where the donor is a shareholder in an amalgamating company, the donee is the amalgamated company or a company which directly or indirectly wholly owns the amalgamated company, the gift occurs as part of the amalgamation, and the amalgamation occurs under section 222 of the Companies Act 1993 or section 209D of the Companies Act 1955.
 
 ### 74D Exemption for gifts in respect of distribution by co-operative company or company owned by co-operative company
-No gift shall constitute a dutiable gift if the donor is a co-operative company or a company owned by a co-operative company, the donee is a member of the co-operative company, and the gift is an amount of a distribution that is excluded from being a dividend by section CD 24B of the Income Tax Act 2004.
+No gift shall constitute a dutiable gift if the donor is a co-operative company or a company owned by a co-operative company, the donee is a member of the co-operative company, and the gift is an amount of a distribution that is excluded from being a dividend by section CD 34 of the Income Tax Act 2007.
 
 ### 75 Exemption for certain payments by employers
 (1) The following classes of payments, to the extent that they are gifts, shall not constitute dutiable gifts:
   (a) Contributions to a group superannuation scheme by an employer in respect of his employees or any class or classes of his employees:
   (b) Payments made by an employer to an employee in consequence of the retirement of that employee from the service of the employer, and any gratuity or bonus paid by an employer to an employee during the continuance of the employment in recognition of special or faithful services rendered, if—
     (i) The employer is a body corporate other than an incorporated company; or
-    (ii) The employer is an incorporated company and the Commissioner is satisfied that more than 50 percent of the issued shares (measured by reference to their available subscribed capital (as defined in section OB 1 of the Income Tax Act 2004) per share ) in the employer company, or in a company which controls the voting power of the employer company, is held for the benefit of a person or persons other than the employee, the spouse, civil union partner or de facto partner of the employee, and relatives of the employee of or within the second degree of relationship; or
+    (ii) The employer is an incorporated company and the Commissioner is satisfied that more than 50 percent of the issued shares (measured by reference to their available subscribed capital (as defined in section YA 1 of the Income Tax Act 2007) per share ) in the employer company, or in a company which controls the voting power of the employer company, is held for the benefit of a person or persons other than the employee, the spouse, civil union partner or de facto partner of the employee, and relatives of the employee of or within the second degree of relationship; or
     (iii) The employer is an unincorporated firm or an individual, and the Commissioner is satisfied that the employee is not a relative of or within the second degree of relationship or a spouse, civil union partner or de facto partner of the employer or any of the employers:
   (c) Payments made by an employer to the widow or the widower or the surviving civil union partner or de facto partner of a deceased employee or to any infant child of that employee, if—
     (i) The employer is a body corporate other than an incorporated company; or
-    (ii) The employer is an incorporated company and the Commissioner is satisfied that more than 50 percent of the issued shares (measured by reference to their available subscribed capital (as defined in section OB 1 of the Income Tax Act 2004) per share) in the employer company, or in a company which controls the voting power of the employer company, is held for the benefit of a person or persons other than the widow or the widower or the surviving civil union partner or de facto partner and the relatives of or within the second degree of relationship of the widow, or widower or the surviving civil union partner or de facto partner or of her or his deceased spouse or civil union partner or de facto partner; or
+    (ii) The employer is an incorporated company and the Commissioner is satisfied that more than 50 percent of the issued shares (measured by reference to their available subscribed capital (as defined in section YA 1 of the Income Tax Act 2007) per share) in the employer company, or in a company which controls the voting power of the employer company, is held for the benefit of a person or persons other than the widow or the widower or the surviving civil union partner or de facto partner and the relatives of or within the second degree of relationship of the widow, or widower or the surviving civil union partner or de facto partner or of her or his deceased spouse or civil union partner or de facto partner; or
     (iii) The employer is an unincorporated firm or an individual, and the Commissioner is satisfied that the widow or widower or surviving civil union partner or de facto partner is not, and her or his deceased spouse or civil union partner or de facto partner was not, a relative of or within the second degree of relationship of the employer or any of the employers:
   (d)
-  (e) Any payment made by an employer to the extent to which it is allowed as a deduction under section DC 1 of the Income Tax Act 2004.
-(2) Any issue or sale of shares under a share purchase scheme as defined in section OB 1 of the Income Tax Act 2004 made by a company or by the trustee of the scheme to any employee, to the extent that it is a gift, shall not constitute a dutiable gift.
+  (e) Any payment made by an employer to the extent to which it is allowed as a deduction under section DC 1 of the Income Tax Act 2007.
+(2) Any issue or sale of shares under a share purchase scheme as defined in section YA 1 of the Income Tax Act 2007 made by a company or by the trustee of the scheme to any employee, to the extent that it is a gift, shall not constitute a dutiable gift.
 
 ### 75A Exemption for certain dispositions of relationship property
 (1) In this section,—
@@ -529,11 +529,11 @@ No gift shall constitute a dutiable gift if the donor is a co-operative company 
   (a) section 7(2) of the Estate and Gift Duties Amendment Act 1983:
   (b) section 3(2) of the Estate and Gift Duties Amendment Act 1993.
 
-### 75B Exemption for base price adjustment under financial arrangements rules in Income Tax Act 2004
+### 75B Exemption for base price adjustment under financial arrangements rules in Income Tax Act 2007
 (1) For the purposes of this section,—
-  (a) financial arrangements rules is defined in section OB 1 of the Income Tax Act 2004:
+  (a) financial arrangements rules is defined in section YA 1 of the Income Tax Act 2007:
   (b) dividend means a dividend derived by a person from the release of an obligation to repay an amount lent:
-  (c) financial arrangement is defined in section EW 3(3)(a) or (b) of the Income Tax Act 2004.
+  (c) financial arrangement is defined in section EW 3(3)(a) or (b) of the that Act.
 (2) The forgiveness or remission of a liability, in whole or in part, under a financial arrangement is not a gift under this Act if and to the extent that the forgiveness or remission must be taken into account under the financial arrangements rules when a person calculates their income because it—
   (a) reduces the deduction that the person is allowed; or
   (b) Increases the person's income.
