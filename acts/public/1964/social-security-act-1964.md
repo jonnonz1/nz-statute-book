@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2007-12-19_
+_Consolidation as at 2008-04-01_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -168,7 +168,7 @@ Every person exercising or performing a function, duty or power under this Act m
         (B) To pay any essential costs arising as a consequence of the applicant's health or disability (being costs arising from the contingency in respect of which the payment was made) to the extent that assistance towards those costs is not available under this Act or any other Act:
       (xvi) any income-related rent within the meaning of section 42(1) of the Housing Restructuring and Tenancy Matters Act 1992:
       (xvii) any specified item or amount of income, or income from a specified source, that is declared not to be income for the purposes of this Act by regulations made under section 132.
-      (xviii) any tax credit or amount received under subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994 or under Part 11A of the Income Tax Act 1976
+      (xviii) any tax credit or amount received under subparts MA to MF and MZ of the Income Tax Act 2007 or subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994 or under Part 11A of the Income Tax Act 1976
   - **Income-related insurance payment** , in relation to a person, means a payment, or the value of any credit or service, that, in the opinion of the chief executive, having regard to the matters specified in subsection (4) of this section, is—
     (a) Made or provided on the occurrence of a contingency under a contract of insurance or by reason of the person's membership of any society, organisation, or body whether corporate or unincorporate; and
     (b) Made or provided to the person or to some other person on behalf of or for the benefit of the person or a member of his or her family; and
@@ -178,7 +178,7 @@ Every person exercising or performing a function, duty or power under this Act m
     (b) Maintaining the person or a member of his or her family; or
     (c) Purchasing goods or services for the person or a member of his or her family, being goods or services of a kind that are commonly paid for from income; or
     (d) Enabling the person to make payments that he or she is liable to make and that are commonly made from income:
-  - **Income tax** means income tax under the Income Tax Act 2004
+  - **Income tax** means income tax under the Income Tax Act 2007
   - **Income Test 1** means that the applicable rate of benefit shall be reduced—
     (a) By 30 cents for every $1 of the total income of the beneficiary and his or her spouse or partner which is more than $80 a week but not more than $180 a week; and
     (b) By 70 cents for every $1 of that income which is more than $180 a week:
@@ -327,8 +327,8 @@ Every person exercising or performing a function, duty or power under this Act m
   (a) meets the residential qualification for New Zealand superannuation set out in the New Zealand Superannuation and Retirement Income Act 2001; and
   (b) Is aged 60 years or more and whose spouse (if any), being a spouse or partner whose age is less than that of the person whose income is being determined, is aged 60 years or more; and
   (c) Is in receipt of a pension under a superannuation scheme registered under the Superannuation Schemes Act 1989 or of payments under an annuity paid in respect of a policy of life insurance—
-    (i) Offered or entered into in New Zealand by a life insurer (as that term is defined in paragraph (a) of the definition of life insurer in section OB 1 of the Income Tax Act 2004); or
-    (ii) Offered or entered into outside of New Zealand by a life insurer (as so defined) that is resident in New Zealand within the meaning of section OE 1 or section OE 2(1) of the Income Tax Act 2004; and
+    (i) Offered or entered into in New Zealand by a life insurer (as that term is defined in paragraph (a) of the definition of life insurer in section YA 1 of the Income Tax Act 2007); or
+    (ii) Offered or entered into outside of New Zealand by a life insurer (as so defined) that is resident in New Zealand within the meaning of section YD 1 or YD 2 (excluding section YD 2(2)) of the Income Tax Act 2007; and
   (d) Commenced to receive payments of that pension or under that annuity—
     (i) Before the 1st day of April 1992; and
     (ii) When that person was aged not less than 55 years nor more than 59 years and when that person's spouse (if any), being a spouse or partner whose age is less than that of the person whose income is being determined, was aged 55 years or more,—
@@ -452,7 +452,7 @@ Every person exercising or performing a function, duty or power under this Act m
 (7) Where the chief executive fails to comply, in relation to any individual, with subsection (4) of this section or with any of the provisions of the sections or rules applied by subsection (6) of this section, the failure shall, for the purposes of Part 8 of the Privacy Act 1993, be deemed to constitute a failure to comply with the provisions of Part 10 of that Act.
 (8) In this section, information matching programme means the comparison of information obtained pursuant to subsection (1) of this section with other personal information held by the Department for the purpose of producing or verifying information about an identifiable individual; and expressions otherwise defined in section 97 of the Privacy Act 1993 shall have the meanings so defined, with any necessary modifications.
 (9) Nothing in this section shall limit or affect the provisions of section 103(1A) of the Privacy Act 1993.
-(10) In this section, tax file number has the same meaning as in section OB 1 of the Income Tax Act 2004.
+(10) In this section, tax file number has the same meaning as in section YA 1 of the Income Tax Act 2007.
 
 ### 11B Code of conduct applying to obtaining information under section 11
 (1) The chief executive, in consultation with the Privacy Commissioner appointed under the Privacy Act 1993, must, within 3 months after the commencement of this section, issue a code of conduct that applies in respect of requirements to supply information or documents under section 11(1), and the chief executive, and every officer of the Department acting under the delegation of the chief executive must comply with that code of conduct in relation to making any such requirement.
@@ -1740,7 +1740,7 @@ Funeral grants shall not be payable under section 61DB or section 61DC or sectio
   (d) The deceased person, including a deceased child, was not ordinarily resident in New Zealand on the date of death.
 
 ### 61DB Payment of funeral grants where there is a surviving spouse or partner or children
-If a person, other than a child, dies and the deceased person is survived by—the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,706.31 to meet the deceased person's reasonable funeral expenses if—
+If a person, other than a child, dies and the deceased person is survived by—the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,760.57 to meet the deceased person's reasonable funeral expenses if—
   (a) A spouse or partner; or
   (b) A child or children whom he or she is liable in law to maintain; or
   (c) Any other dependent child or dependent children (whether dependent on the deceased or any other person) aged 16 years or 17 years of whom the deceased person was the parent—
@@ -1750,10 +1750,10 @@ If a person, other than a child, dies and the deceased person is survived by—t
   (e) The annual income of any spouse or partner who survives the deceased is less than 52 times the appropriate amount in Part 2 of Schedule 31.
 
 ### 61DC Payment of funeral grants where there is no surviving spouse or partner or children
-If a person, other than a child, dies and section 61DB of this Act does not apply, the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,706.31 to meet the deceased person's reasonable funeral expenses if those funeral expenses cannot be paid from the deceased's assessable estate before the payment of any other debts.
+If a person, other than a child, dies and section 61DB of this Act does not apply, the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,760.57 to meet the deceased person's reasonable funeral expenses if those funeral expenses cannot be paid from the deceased's assessable estate before the payment of any other debts.
 
 ### 61DD Children's funeral grants
-If a child dies the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,706.31 to meet the deceased child's reasonable funeral expenses if—
+If a child dies the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,760.57 to meet the deceased child's reasonable funeral expenses if—
   (a) Those funeral expenses cannot be paid from the aggregate of—
     (i) The deceased child's assessable estate before the payment of any other debts; and
     (ii) The combined assets of the parents, or any other person or persons, who were liable in law to maintain the deceased child on the date of death, other than non-assessable assets, in excess of the amount in clause 2 of Part 1 of Schedule 31; and
@@ -1914,7 +1914,7 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
   - **chargeable income** has the meaning prescribed in regulations made under section 132AB
   - **essential costs** means the sum of a person's allowable costs and standard costs
   - **standard costs** has the same meaning as in section 132AB(1)(b)
-  - **tax credit** means a credit of tax or amount received under subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994.
+  - **tax credit** means a credit of tax or amount received under subparts MA to MF and MZ of the Income Tax Act 2007 or subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994.
 
 **Childcare assistance**
 
@@ -2181,7 +2181,7 @@ It is the duty of the chief executive to take all reasonable steps to assist any
   (b) Be made the subject of any set-off, charge, or assignment:
   (c) Be claimed or deducted under any notice or other instrument issued under any enactment (other than under regulations made under section 132C).
 (3C) If the benefit referred to in an arrangement made under subsection (3)(a) is New Zealand superannuation, the chief executive must pay any amount received from the overseas pensioner under the arrangement into the New Zealand Superannuation Fund established under the New Zealand Superannuation and Retirement Income Act 2001, in accordance with arrangements made from time to time by the chief executive with the Guardians of New Zealand Superannuation.
-(4) For the purposes of this Act and section CW 23 of the Income Tax Act 2004, a payment under subsection (3)(b) of this section shall, in respect of the period to which the payment relates, be deemed to be payment of—
+(4) For the purposes of this Act and section CW 28 of the Income Tax Act 2007, a payment under subsection (3)(b) of this section shall, in respect of the period to which the payment relates, be deemed to be payment of—
   (a) The benefit or benefits that are payable to that overseas pensioner in that period under this Act or the Social Welfare (Transitional Provisions) Act 1990 or Part 6 of the War Pensions Act 1954 or under the New Zealand Superannuation and Retirement Income Act 2001, at the rate at which that benefit or those benefits are so payable but reduced in accordance with subsection (1) of this section; and
   (b) The amount of the overseas pension that that overseas pensioner is entitled to receive or has received in that period.
 (5) Subsections (3) and (4) of this section shall come into force on a date to be appointed by the Governor-General by Order in Council.
@@ -2456,7 +2456,7 @@ In this section and in sections 80BA to 80BC of this Act and in Schedule 28 to t
       (xi) An accommodation supplement under section 61EA of this Act;
       (xii)
       (xiii)
-    (b) The amount of any tax deduction on any of those benefits under the fourth proviso to section NC 6(1) of the Income Tax Act 2004:
+    (b) The amount of any tax withheld or deducted for any of those benefits under section RD 11(3) of the Income Tax Act 2007:
   - **Redundancy payment** means a payment (before the deduction of income tax) made in relation to the termination of a person's employment if—but does not include—
     (a) The main reason for the termination is that the person's position is or will be superfluous to the employer's needs, and the person is not a seasonal worker; or
     (b) The person's usual seasonal employment is not made available by the employer mainly because the person's position, or usual position, is or will be superfluous to the employer's needs;
@@ -2591,12 +2591,12 @@ If—the chief executive may, in the chief executive's discretion, treat an appl
 (2) The chief executive may refuse to grant a benefit and must suspend payment of a benefit if satisfactory evidence of the tax file number of the applicant or the beneficiary is not received within 10 working days after the date on which the chief executive requests the evidence.
 (3) The chief executive may extend to a date to be specified in writing the time for delivery of the evidence referred to in subsection (1) if an applicant or a beneficiary provides a reasonable explanation for not providing the evidence within the time prescribed in subsection (2).
 (4) This section does not apply to a beneficiary who is unable to provide satisfactory evidence of the beneficiary's tax file number within the time specified because of sickness, injury, or disability.
-(5) In this section, tax file number has the same meaning as in section OB 1 of the Income Tax Act 2004.
+(5) In this section, tax file number has the same meaning as in section YA 1 of the Income Tax Act 2007.
 
 ### 83 Apportionment of benefit between spouses or partners
 (1) Subject to subsection (2) of this section, where any person is entitled to a benefit at a rate prescribed in respect of a person who is married or in a civil union or in a de facto relationship, 50 percent of that benefit and any other benefit payable under this Act shall be paid to the person so entitled and 50 percent shall be paid to the spouse or partner or other person who qualifies the beneficiary to be paid at that rate.
 (2) Subject to section 12(2) of the New Zealand Superannuation and Retirement Income Act 2001, in any case where the chief executive determines that it would not be appropriate for any benefit to be paid as provided in subsection (1) of this section, the whole of the benefit may be paid to the person entitled to the benefit or the benefit may be allocated in such proportions as the chief executive determines between the beneficiary and the spouse or partner or other person who qualifies the beneficiary to be paid at the rate referred to in subsection (1).
-(3) In any case where a benefit is apportioned under subsection (1) or subsection (2) of this section, the proportion of the benefit paid to each person shall be deemed for the purposes of the Income Tax Act 2004 to be the income of the person to whom it is paid.
+(3) In any case where a benefit is apportioned under subsection (1) or subsection (2) of this section, the proportion of the benefit paid to each person shall be deemed for the purposes of the Income Tax Act 2007 to be the income of the person to whom it is paid.
 
 ### 83A Tax on benefits
 (1) This section applies where any instalment or a payment of an income-tested benefit is a source deduction payment.
@@ -2607,18 +2607,20 @@ If—the chief executive may, in the chief executive's discretion, treat an appl
   (b) for the purposes of—
     (i) the Income Tax Act 1976, be considered to be assessable income of the person; or
     (ii) the Income Tax Act 1994, be considered to be gross income of the person; or
-    (iii) the Income Tax Act 2004, be considered to be income of the person.
+    (iii) the Income Tax Act 2004, be considered to be income of the person; or
+    (iv) the Income Tax Act 2007, be considered to be income of the person.
 (5) If, as a result of the review, suspension, cancellation, or termination of an income-tested benefit, the chief executive determines that an amount for tax on the benefit has been paid in accordance with this section to the Commissioner in excess of the amount that is properly payable under this section, the chief executive may not recover the excess amount as a debt due to the Crown within the meaning of section 85A, but may recover that amount by—
   (a) making an adjustment to any amount subsequently payable to the Commissioner under subsection (2) in respect of the source deduction payments for that or any other benefit payable to that beneficiary; or
   (b) making such other arrangements for its refund as are agreed with the Commissioner.
 (6) In this section,—
-  - **income-tested benefit** has the meaning given to that term by section 2 of the Income Tax Act 1976 or section OB 1 of the Income Tax Act 1994 or section OB 1 of the Income Tax Act 2004 (whichever is applicable) and not the meaning in section 3(1) of this Act
-  - **source deduction payment** has the meaning given to that term by section 2 of the Income Tax Act 1976 or section OB 1 of the Income Tax Act 1994 or section OB 1 of the Income Tax Act 2004 (whichever is applicable)
+  - **income-tested benefit** has the meaning given to that term by section 2 of the Income Tax Act 1976 or section OB 1 of the Income Tax Act 1994 or section OB 1 of the Income Tax Act 2004 or section YA 1 of the Income Tax Act 2007 (whichever is applicable) and not the meaning in section 3(1) of this Act
+  - **source deduction payment** has the meaning given to that term by section 2 of the Income Tax Act 1976 or section OB 1 of the Income Tax Act 1994 or section OB 1 of the Income Tax Act 2004 (whichever is applicable) and includes a PAYE income payment, as that term is defined in section RD 3 of the Income Tax Act 2007 (if applicable)
   - **specified provision** , in relation to a source deduction payment, means (as the case requires)—
     (a) the fourth proviso to section 343(1) of the Income Tax Act 1976; or
     (b) the fourth proviso to section NC 6(1) of the Income Tax Act 1994; or
     (c) section NC 6(1D) of the Income Tax Act 1994; or
-    (d) section NC 6(1D) of the Income Tax Act 2004.
+    (d) section NC 6(1D) of the Income Tax Act 2004; or
+    (e) section RD 11(3) of the Income Tax Act 2007.
 
 ### 84 Benefits to be inalienable
 (1) Subject to the provisions of the Family Benefits (Home Ownership) Act 1964, or the Child Support Act 1991 or the Student Loan Scheme Act 1992 and of section 82 of this Act, no benefit shall be capable of being assigned or charged or of passing to any other person by operation of law.
@@ -2744,7 +2746,7 @@ Every person commits an offence and shall be liable on summary conviction to a f
 
 ### 86G Protected earnings
 (1) Notwithstanding anything in sections 86A to 86F and 86H and 86I of this Act, where a deduction notice is issued to an employer of a debtor, the employer shall not, in making deductions under the deduction notice, reduce the amount paid to the debtor by way of salary or wages in respect of any week to an amount that is less than 60 percent of the amount calculated as being the debtor's net ordinary weekly pay for a week.
-(2) For the purposes of this section, the debtor's ordinary weekly pay for a week is the balance left after deducting from the debtor's ordinary weekly pay (as defined in section 8 of the Holidays Act 2003) the tax deductions that would be required to be made in accordance with the PAYE rules of the Income Tax Act 2004 if that ordinary weekly pay were the only salary or wages paid to the debtor by the employer in respect of a week.
+(2) For the purposes of this section, the debtor's ordinary weekly pay for a week is the balance left after deducting from the debtor's ordinary weekly pay (as defined in section 8 of the Holidays Act 2003) the amount of tax required to be withheld or deducted in accordance with the PAYE rules of the Income Tax Act 2007 if that ordinary weekly pay were the only salary or wages paid to the debtor by the employer in respect of a week.
 
 ### 86H Variation or discharge of deduction notice
 (1) If a person to whom a deduction notice is issued or a debtor considers that a deduction notice has been issued in error, or contains an error, that person or the debtor may bring the matter to the notice of the office of the Department from which the notice was issued.
@@ -3514,7 +3516,7 @@ Without limiting the general power to make regulations conferred by section 132,
   (h) the extent (if any) to which, and circumstances in which, either or both of the following are to be treated as income:
     (i) distributions from a company:
     (ii) retained profits of a company:
-  (i) the treatment of loss attributing qualifying companies (within the meaning of the Income Tax Act 2004).
+  (i) the treatment of loss-attributing qualifying companies (within the meaning of the Income Tax Act 2007).
 (3) Subsection (2)(d) applies to businesses and trades however they are carried on.
 (4) Subsection (3) does not limit or affect the generality of subsection (1).
 (5) This section does not limit or affect the generality of section 132.
@@ -3801,34 +3803,34 @@ A person who has been means assessed as to assets may apply for a loan under the
 
 ## Schedule 3 — Rates of widows' benefits
 
-| 1 | To a beneficiary with 1 or more dependent children | $255.65 a week, subject to Income Test 1 |
+| 1 | To a beneficiary with 1 or more dependent children | $263.78 a week, subject to Income Test 1 |
 | --- | --- | --- |
-| 2 | To a beneficiary without any dependent children | $185.92 a week, subject to Income Test 1 |
+| 2 | To a beneficiary without any dependent children | $191.83 a week, subject to Income Test 1 |
 | 3 | For the purposes of clause 1, the chief executive may, in his or her discretion, disregard up to $20 a week of the beneficiary's personal earnings used to meet the cost of child care for any of the beneficiary's dependent children. |  |
 
 ## Schedule 4 — Maximum rates of orphans' benefits and unsupported childs' benefits
 
-| 1. (a) In respect of a child aged 14 years or over | $153.05 a week |
+| 1. (a) In respect of a child aged 14 years or over | $157.92 a week |
 | --- | --- |
-| (b) In respect of a child aged over 10 years and under 14 years | $144.24 a week |
-| (c) In respect of a child aged over 5 years and under 10 years | $135.42 a week |
-| (d) In respect of a child aged under 5 years | $117.76 a week |
+| (b) In respect of a child aged over 10 years and under 14 years | $148.83 a week |
+| (c) In respect of a child aged over 5 years and under 10 years | $139.73 a week |
+| (d) In respect of a child aged under 5 years | $121.50 a week |
 | 2. The amount specified in clause 1 of this Schedule shall be diminished by $1 for every complete $1 of the annual income of the child (other than personal earnings of the child) in excess of 50 percent of the appropriate amount specified under that clause. |  |
 
 ## Schedule 5 — Rates of family benefits
 
 ## Schedule 6 — Rates of invalids' benefits
 
-| 1. (a) To a single beneficiary under the age of 18 years without dependent children | $180.54 a week, subject to Income Test 1. |
+| 1. (a) To a single beneficiary under the age of 18 years without dependent children | $186.28 a week, subject to Income Test 1. |
 | --- | --- |
-| (b) To any other single beneficiary without dependent children | $223.10 a week, subject to Income Test 1. |
-| (c) To a single beneficiary with 1 or more dependent children | $293.08 a week subject to Income Test 1 |
+| (b) To any other single beneficiary without dependent children | $230.19 a week, subject to Income Test 1. |
+| (c) To a single beneficiary with 1 or more dependent children | $302.40 a week subject to Income Test 1 |
 | (d) |  |
-| (e) To a beneficiary (with or without dependent children) who is married or in a civil union, or in a de facto relationship whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) | $185.92 a week, subject to Income Test 2. |
-| (f) To a beneficiary (with or without dependent children) who is married or in a civil union, or in a de facto relationship whose spouse or partner is not granted a benefit in his or her own right | $185.92 a week, increased by $185.92 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 1. |
-| (g) To a beneficiary (with or without dependent children) who is married or in a civil union, or in a de facto relationship whose spouse or partner is granted, in his or her own right, a veteran's pension | $185.92 a week, subject to Income Test 1. |
+| (e) To a beneficiary (with or without dependent children) who is married or in a civil union, or in a de facto relationship whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) | $191.83 a week, subject to Income Test 2. |
+| (f) To a beneficiary (with or without dependent children) who is married or in a civil union, or in a de facto relationship whose spouse or partner is not granted a benefit in his or her own right | $191.83 a week, increased by $191.83 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 1. |
+| (g) To a beneficiary (with or without dependent children) who is married or in a civil union, or in a de facto relationship whose spouse or partner is granted, in his or her own right, a veteran's pension | $191.83 a week, subject to Income Test 1. |
 | Provided that, in computing the income of any beneficiary for the purpose of this Schedule, the chief executive shall—aDisregard that part of the beneficiary's income (not exceeding $20 a week) earned by the beneficiary's own efforts; andbDisregard all of the income of a totally blind beneficiary earned by the beneficiary's own efforts. |  |
-| 2. Maximum amount from all sources where subsidy paid on earnings of blind invalid, in every case | $295.92 a week, increased by $37.18 a week if the beneficiary is a single person. |
+| 2. Maximum amount from all sources where subsidy paid on earnings of blind invalid, in every case | $301.83 a week, increased by $38.36 a week if the beneficiary is a single person. |
 
 ## Schedule 7 — Rates of miners' benefits and miners' widows' benefits
 
@@ -3847,22 +3849,22 @@ A person who has been means assessed as to assets may apply for a loan under the
 
 ## Schedule 9 — Rates of unemployment benefits and sickness benefits
 
-| 1. | (aa) | To a single beneficiary under the age of 20 who is—iLiving with a parent (as that term is defined in section 3(1)); andiiWhose benefit commenced on or after 1 July 1998. | $118.98 a week, subject to Income Test 3. |
+| 1. | (aa) | To a single beneficiary under the age of 20 who is—iLiving with a parent (as that term is defined in section 3(1)); andiiWhose benefit commenced on or after 1 July 1998. | $122.77 a week, subject to Income Test 3. |
 | --- | --- | --- | --- |
-|  | (a) | To any other single beneficiary under the age of 25 years without dependent children | $148.73 a week, subject to Income Test 3. |
-|  | (b) | To any other single beneficiary without dependent children | $178.49 a week, subject to Income Test 3. |
-|  | (c) | To a single beneficiary with 1 or more dependent children | $255.65 a week, subject to Income Test 3 |
-|  | (d) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) | $148.73 a week, subject to Income Test 4 |
-|  | (e) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is not granted a benefit in his or her own right | $148.73 a week, increased by $148.73 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 3 |
-|  | (f) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a veteran's pension | $148.73 a week, subject to Income Test 3 |
+|  | (a) | To any other single beneficiary under the age of 25 years without dependent children | $153.46 a week, subject to Income Test 3. |
+|  | (b) | To any other single beneficiary without dependent children | $184.17 a week, subject to Income Test 3. |
+|  | (c) | To a single beneficiary with 1 or more dependent children | $263.78 a week, subject to Income Test 3 |
+|  | (d) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) | $153.46 a week, subject to Income Test 4 |
+|  | (e) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is not granted a benefit in his or her own right | $153.46 a week, increased by $153.46 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 3 |
+|  | (f) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a veteran's pension | $153.46 a week, subject to Income Test 3 |
 |  | (g) |  |  |
 |  | (h) |  |  |
 |  | (i) |  |  |
 |  | (j) |  |  |
-| 2. | Maximum increase in respect of a housekeeper |  | $148.73 a week. |
+| 2. | Maximum increase in respect of a housekeeper |  | $153.46 a week. |
 | 3. |  |  |  |
 | 4. |  |  |  |
-| 5. | Special rate of benefit for persons to whom section 99(4) applies |  | $148.73 a week, subject to Income Test 4 |
+| 5. | Special rate of benefit for persons to whom section 99(4) applies |  | $153.46 a week, subject to Income Test 4 |
 
 ## Schedule 10 — Special income exemption in respect of sick benefits from friendly or like society (New Zealand Superannuation payable under section 16 of this Act, invalids', widows', domestic purposes, and sickness benefits only)
 
@@ -3884,22 +3886,22 @@ A person who has been means assessed as to assets may apply for a loan under the
 
 ## Schedule 16 — Rates of domestic purposes benefits
 
-| 1 | To a beneficiary with 1 or more dependent children | $255.65 a week, subject to Income Test 1 |
+| 1 | To a beneficiary with 1 or more dependent children | $263.78 a week, subject to Income Test 1 |
 | --- | --- | --- |
-| 2 | To a beneficiary without any dependent children | $185.92 a week, subject to Income Test 1 |
+| 2 | To a beneficiary without any dependent children | $191.83 a week, subject to Income Test 1 |
 | 3 | For the purposes of clause 1, the chief executive may, in his or her discretion, disregard up to $20 a week of the beneficiary's personal earnings used to meet the cost of child care for any of the beneficiary's dependent children. |  |
 
 ## Schedule 17 — Rates of domestic purposes benefits
 
-| 1. To a single beneficiary under the age of 18 years without dependent children | $180.54 a week, subject to Income Test 1. |
+| 1. To a single beneficiary under the age of 18 years without dependent children | $186.28 a week, subject to Income Test 1. |
 | --- | --- |
-| 2. To any other single beneficiary without dependent children | $223.10 a week, subject to Income Test 1. |
-| 3. To a single beneficiary with 1 or more dependent children | $293.08 a week, subject to Income Test 1 |
+| 2. To any other single beneficiary without dependent children | $230.19 a week, subject to Income Test 1. |
+| 3. To a single beneficiary with 1 or more dependent children | $302.40 a week, subject to Income Test 1 |
 | 4. |  |
-| 5. To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a benefit (other than New Zealand superannuation or a veteran's pension) | $185.92 a week, subject to Income Test 2. |
-| 6. To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is not granted a benefit in his or her own right | $185.92 a week, subject to Income Test 1. |
-| 7. To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, New Zealand superannuation or a veteran's pension) | $185.92 a week, subject to Income Test 1. |
-| 8. Notwithstanding anything in clauses 5 to 7 of this Schedule, the rate of the domestic purposes benefit paid to a beneficiary under any provision of those clauses shall not be less than the aggregate of the rates of domestic purposes benefits that would be payable if the beneficiary and the spouse or partner of the beneficiary were both entitled to receive a domestic purposes benefit; but the rate of benefit payable by virtue of this clause shall not exceed $185.92 a week. |  |
+| 5. To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a benefit (other than New Zealand superannuation or a veteran's pension) | $191.83 a week, subject to Income Test 2. |
+| 6. To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is not granted a benefit in his or her own right | $191.83 a week, subject to Income Test 1. |
+| 7. To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, New Zealand superannuation or a veteran's pension) | $191.83 a week, subject to Income Test 1. |
+| 8. Notwithstanding anything in clauses 5 to 7 of this Schedule, the rate of the domestic purposes benefit paid to a beneficiary under any provision of those clauses shall not be less than the aggregate of the rates of domestic purposes benefits that would be payable if the beneficiary and the spouse or partner of the beneficiary were both entitled to receive a domestic purposes benefit; but the rate of benefit payable by virtue of this clause shall not exceed $191.83 a week. |  |
 
 ## Schedule 18 — Accommodation supplement
 
@@ -3912,17 +3914,17 @@ For the purposes of this Schedule—
   - **Auckland**
   - **Base rate** means—
     (a) In relation to a single beneficiary under the age of 25 years, the maximum weekly rate of benefit he or she would have been entitled to receive, before any abatement or deduction, if he or she had attained the age of 25 years:
-    (b) In relation to a single beneficiary with a dependent child or dependent children, the maximum weekly rate of benefit he or she is entitled to receive, before any abatement or deduction, plus the maximum annual rate of family tax credit (divided by 52) that is payable in respect of an eldest dependent child who is under 16 child under subpart KD of the Income Tax Act 2004:
+    (b) In relation to a single beneficiary with a dependent child or dependent children, the maximum weekly rate of benefit he or she is entitled to receive, before any abatement or deduction, plus the maximum annual rate of family tax credit (divided by 52) that is payable in respect of an eldest dependent child who is under 16 child under subparts MA to MF and MZ of the Income Tax Act 2007:
     (c) In relation to any other single beneficiary, the maximum weekly rate of benefit he or she would be entitled to receive before any abatement or deduction:
-    (d) In relation to a beneficiary who is married or in a civil union or in a de facto relationship (not being a beneficiary to whom paragraph (da) of this definition applies), the maximum weekly rate of benefit he or she is entitled to receive, before any abatement or deduction, plus (where he or she has 1 or more dependent children) the maximum annual rate of family tax credit (divided by 52) that is paid in respect of an eldest dependent child who is under 16 (if any) under subpart KD of the Income Tax Act 2004, plus the maximum weekly rate of benefit paid in respect of his or her spouse or partner:
+    (d) In relation to a beneficiary who is married or in a civil union or in a de facto relationship (not being a beneficiary to whom paragraph (da) of this definition applies), the maximum weekly rate of benefit he or she is entitled to receive, before any abatement or deduction, plus (where he or she has 1 or more dependent children) the maximum annual rate of family tax credit (divided by 52) that is paid in respect of an eldest dependent child who is under 16 (if any) under subparts MA to MF and MZ of the Income Tax Act 2007, plus the maximum weekly rate of benefit paid in respect of his or her spouse or partner:
     (da) In relation to a beneficiary who is married or in a civil union or in a de facto relationship whose spouse or partner in not entitled to an accommodation supplement under section 80C of this Act, the rate specified in paragraph (d) of this definition as if a rate of benefit were paid in respect of that spouse or partner:
     (e) in relation to a single non-beneficiary with 1 or more dependent children,—
       (i) the appropriate maximum weekly rate of unemployment benefit; plus
-      (ii) the annual rate of family tax credit (divided by 52) that is payable in respect of a first dependent child who is under 16 years under subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994 (whichever is applicable):
+      (ii) the annual rate of family tax credit (divided by 52) that is payable in respect of a first dependent child who is under 16 years under subparts MA to MF and MZ of the Income Tax Act 2007 or subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994 (whichever is applicable):
     (f) in relation to any other single non-beneficiary, the weekly rate of unemployment benefit at the rate in clause 1(b) of the Schedule 9 before any abatement or deduction:
     (g) in relation to a non-beneficiary who is married or in a civil union or in a de facto relationship,—
       (i) the appropriate maximum weekly rate of unemployment benefit; plus
-      (ii) (if he or she has 1 or more dependent children) the maximum annual rate of family tax credit (divided by 52) that is payable in respect of a first dependent child who is under 16 years under subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994 (whichever is applicable); plus
+      (ii) (if he or she has 1 or more dependent children) the maximum annual rate of family tax credit (divided by 52) that is payable in respect of a first dependent child who is under 16 years under subparts MA to MF and MZ of the Income Tax Act 2007 or subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994 (whichever is applicable); plus
       (iii) the maximum weekly rate of unemployment benefit that would have been payable in respect of his or her, spouse or partner
   - **Wellington**
 
@@ -3949,10 +3951,10 @@ Every accommodation supplement assessed under this Schedule shall be rounded up 
 
 ## Schedule 19 — Rates of child disability allowance and disability allowance
 
-| 1. Rate of child disability allowance | $39.47 a week. |
+| 1. Rate of child disability allowance | $40.73 a week. |
 | --- | --- |
-| 2. Maximum rate of disability allowance under section 69C(1) | $52.38 a week. |
-| 3. Rate of special disability allowance under section 69C(5) | $32.69 a week. |
+| 2. Maximum rate of disability allowance under section 69C(1) | $54.05 a week. |
+| 3. Rate of special disability allowance under section 69C(5) | $33.73 a week. |
 
 ## Schedule 20 — Rates of contribution by liable parents to cost of domestic purposes benefit
 
@@ -3960,9 +3962,9 @@ Every accommodation supplement assessed under this Schedule shall be rounded up 
 
 ## Schedule 22 — Rates of benefits payable to long-term hospital patients
 
-| 1. To a person without dependent children who is married or in a civil union or in a de facto relationship, or a single person, who is in receipt of a benefit (other than New Zealand superannuation, a veteran's pension, an orphan's benefit, or an unsupported child's benefit) | $32.69 a week. |
+| 1. To a person without dependent children who is married or in a civil union or in a de facto relationship, or a single person, who is in receipt of a benefit (other than New Zealand superannuation, a veteran's pension, an orphan's benefit, or an unsupported child's benefit) | $33.73 a week. |
 | --- | --- |
-| 2. To a person without dependent children who is married or in a civil union or in a de facto relationship, or a single person, who is in receipt of New Zealand superannuation under Part 1 of the Social Welfare (Transitional Provisions) Act 1990 | An amount which, after income tax is deducted pursuant to tax code G (as specified in section NC 8 of the Income Tax Act 2004) is equal to $32.69 a week. |
+| 2. To a person without dependent children who is married or in a civil union or in a de facto relationship, or a single person, who is in receipt of New Zealand superannuation under Part 1 of the Social Welfare (Transitional Provisions) Act 1990 | An amount which, after income tax is withheld pursuant to tax code “M” (as specified in section 24B(3) of the Tax Administration Act 1994) is equal to $33.73 a week. |
 
 ## Schedule 23 — Transition to work allowance
 
@@ -3972,10 +3974,10 @@ Every accommodation supplement assessed under this Schedule shall be rounded up 
 
 ## Schedule 26 — Rates of independent youth benefits
 
-| 1. To a single beneficiary | $148.73 a week, subject to Income Test 3. |
+| 1. To a single beneficiary | $153.46 a week, subject to Income Test 3. |
 | --- | --- |
-| 2. To a beneficiary who is married or in a civil union or in a de facto relationship and whose spouse or partner is granted, in his or her own right, an independent youth benefit | $148.73 a week, subject to Income Test 4. |
-| 3. To any other beneficiary who is married or in a civil union or in a de facto relationship and | $148.73 a week, subject to Income Test 3. |
+| 2. To a beneficiary who is married or in a civil union or in a de facto relationship and whose spouse or partner is granted, in his or her own right, an independent youth benefit | $153.46 a week, subject to Income Test 4. |
+| 3. To any other beneficiary who is married or in a civil union or in a de facto relationship and | $153.46 a week, subject to Income Test 3. |
 
 ## Schedule 27 — Means assessment under Part 4
 
@@ -4108,24 +4110,34 @@ The chief executive must convert an assessment made under clauses 3 to 5 to a we
 
 ## Schedule 31 — Asset and income limits that may be applied to certain assistance
 
-| 1 | For a single person without dependent children | $892.69 |
+| 1 | For a single person without dependent children | $921.08 |
 | --- | --- | --- |
-| 2 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $1487.46 |
-| 3 | For a sole parent with 1 dependent child | $1172.13 |
-| 4 | For any other sole parent | $1259.12 |
+| 2 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $1534.76 |
+| 3 | For a sole parent with 1 dependent child | $1209.40 |
+| 4 | For any other sole parent | $1299.16 |
 
 |  |  | Per week |
 | --- | --- | --- |
-| 5 | For a single person aged 16 or 17 years without dependent children | $407.75 |
-| 6 | For any other single person without dependent children | $468.64 |
-| 7 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $680.66 |
-| 8 | For a sole parent with 1 dependent child | $568.66 |
-| 9 | For any other sole parent | $599.11 |
+| 5 | For a single person aged 16 or 17 years without dependent children | $420.72 |
+| 6 | For any other single person without dependent children | $483.54 |
+| 7 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $702.30 |
+| 8 | For a sole parent with 1 dependent child | $586.74 |
+| 9 | For any other sole parent | $618.16 |
 
 |  |  | Per week |
 | --- | --- | --- |
-| 10 | For a single person aged 16 or 17 years without dependent children | $440.65 |
-| 11 | For any other single person without dependent children | $510.01 |
-| 12 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $742.05 |
-| 13 | For a sole parent with 1 dependent child | $614.57 |
-| 14 | For any other sole parent | $647.48 |
+| 10 | For a single person aged 16 or 17 years without dependent children | $454.66 |
+| 11 | For any other single person without dependent children | $526.23 |
+| 12 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $765.65 |
+| 13 | For a sole parent with 1 dependent child | $634.11 |
+| 14 | For any other sole parent | $688.07 |
+
+### 1 Title
+This order is the Social Security (Rates of Benefits and Allowances) Order 2008.
+
+### 2 Commencement
+This order comes into force on 1 April 2008.
+
+### 3 Increasing amount of funeral grants
+(1) Amendment incorporated in principal Act
+(2) The amendments made by subclause (1) apply only in respect of persons who die on or after 1 April 2008.
