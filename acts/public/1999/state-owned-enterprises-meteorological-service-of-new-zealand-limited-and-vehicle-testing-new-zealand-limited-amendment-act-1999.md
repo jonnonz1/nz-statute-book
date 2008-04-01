@@ -1,5 +1,5 @@
 # State-Owned Enterprises (Meteorological Service of New Zealand Limited and Vehicle Testing New Zealand Limited) Amendment Act 1999
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 > An Act to amend the State-Owned Enterprises Act 1986 in relation to Meteorological Service of New Zealand Limited and Vehicle Testing New Zealand Limited
 
@@ -27,7 +27,7 @@ This Act expires and is deemed to have been repealed on the close of the day tha
 (6) Each Minister of the Crown who holds shares in the meteorological service company on behalf of Her Majesty the Queen may exercise all or any of Her Majesty's rights and powers as the holder of those shares.
 (7) The Ombudsmen Act 1975 is amended by omitting from Part 2 of Schedule 1 the item Meteorological Service of New Zealand Limited.
 (8) The Official Information Act 1982 is amended by omitting from Schedule 1 the item Meteorological Service New Zealand Limited.
-(9) The Income Tax Act 2004 is amended by omitting from Schedule 18 the item The Meteorological Service of New Zealand Limited.
+(9) The Income Tax Act 2007 is amended by omitting from schedule 36 the item The Meteorological Service of New Zealand Limited.
 (10) The State-Owned Enterprises Order 1992 (SR 1992/181) is consequentially revoked.
 
 ### 4 Provision for Vehicle Testing New Zealand Limited to cease to be State enterprise
