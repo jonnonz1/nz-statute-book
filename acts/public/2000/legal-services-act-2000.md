@@ -1,5 +1,5 @@
 # Legal Services Act 2000
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2008-04-01_
 
 ### 1 Title
 This Act is the Legal Services Act 2000.
@@ -1356,7 +1356,7 @@ In this schedule, unless the context otherwise requires,—
     (vi) a special benefit fixed under section 61G of that Act; or
     (vii) a disability allowance payable under section 69C of that Act; and
   (d) excludes any payment payable under a welfare programme approved by the Minister under section 124(1)(d) of the Social Security Act 1964; but
-  (e) includes any tax credit or amount received under subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994 or under Part 11A of the Income Tax Act 1976.
+  (e) includes any tax credit or amount received under subparts MA to MF and MZ of the Income Tax Act 2007 or subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994 or under Part 11A of the Income Tax Act 1976.
 (2) Subclause (1) is subject to clauses 4 and 5.
 
 ### 3 Meaning of disposable capital
