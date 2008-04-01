@@ -1,5 +1,5 @@
 # Companies (Bondholders Incorporation) Act 1934-35
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 > An Act to make provision for the incorporation of the holders of bonds issued by certain afforestation and other companies incorporated for the purpose of making or maintaining plantations, for facilitating the realisation of the land or produce affected by such bonds, and for matters incidental thereto
 
@@ -193,7 +193,7 @@ Any shares in a bondholders company surrendered in pursuance of an order of the 
 [Repealed]
 
 ### 37 Proportionate part of cost of bonds to be included in cost of timber for income tax purposes
-For the purpose of calculating the taxable income for an income year of any bondholders company that has acquired any bonds affecting timber , the cost of such timber, for the purposes of Part D of the Income Tax Act 2004, shall be deemed to include such part of the cost to the bondholders company of the bonds as, in the opinion of the Commissioner of Inland Revenue, is attributable to the timber.
+For the purpose of calculating the taxable income for an income year of any bondholders company that has acquired any bonds affecting timber , the cost of such timber, for the purposes of Part D of the Income Tax Act 2007, shall be deemed to include such part of the cost to the bondholders company of the bonds as, in the opinion of the Commissioner of Inland Revenue, is attributable to the timber.
 
 ### 38 Extension of application of Act to bonds wholly or partly extinguished
 The Commission, on the application of any bond-issuing company or of the trustee or trustees for its bondholders, may order that the provisions of this Act shall, with the necessary modifications, apply to such company and to the bonds issued by or on account of it, notwithstanding that such bonds have before the passing of this Act been extinguished either wholly or in part by reason of the vesting of any land or property in a trustee for the bondholders.
