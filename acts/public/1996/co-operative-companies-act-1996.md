@@ -1,5 +1,5 @@
 # Co-operative Companies Act 1996
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 > An Act to reform the law relating to co-operative companies and, in particular—aTo reaffirm the value of the co-operative company as a means of facilitating its shareholders carrying on business on a mutual basis; andbTo provide for the registration of co-operative companies and regulate the relationship between co-operative companies and their shareholders; andcTo provide for the registration of existing co-operative companies and existing companies as co-operative companies under this Act at the same time as they reregister as companies under the Companies Act 1993; anddTo modify the application of the Companies Act 1993 to co-operative companies registered under this Act—and to repeal the Co-operative Companies Act 1956 and certain other Acts
 
@@ -253,7 +253,7 @@ The consideration for the issue of shares or any class of shares in a company re
   (b) The share may be reissued as a share having a nominal value in accordance with this Act and the Companies Act 1993 or, in any other case, may be reissued in accordance with the Companies Act 1993.
 
 ### 24 Co-operative company may hold its own shares
-(1) For the purposes of this Act and the Income Tax Act 2004, shares in a company registered under this Act that are surrendered under section 20 or section 21 of this Act shall not be deemed to be cancelled under section 23 of this Act if—
+(1) For the purposes of this Act and the Income Tax Act 2007, shares in a company registered under this Act that are surrendered under section 20 or section 21 of this Act shall not be deemed to be cancelled under section 23 of this Act if—
   (a) The constitution of the company expressly permits the company to hold its own shares; and
   (b) The board of the company resolves that the shares concerned shall not be cancelled on surrender; and
   (c) The number of shares surrendered, when aggregated with shares held by the company pursuant to this section at the time of the surrender which are of the same class, does not exceed 20 percent of the number of shares of that class previously issued by the company, excluding shares previously deemed to be cancelled under section 23 of this Act; and
