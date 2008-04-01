@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2007-10-14_
+_Consolidation as at 2008-04-01_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -3842,7 +3842,7 @@ The following provisions apply to each reorganisation scheme unless amended or d
 (3) For the purpose of deciding an application to the Commission under subclause (2), the Commission must consult with the Auditor-General and with the local authorities directly affected, may make the enquiries that it thinks fit, and may obtain advice from any other person who, in the opinion of the Commission, has expert knowledge concerning any aspect of the matter to be decided.
 (4) In the exercise of its powers under subclause (2), the Commission may identify the assets and liabilities to be transferred, which assets and liabilities must include all amounts and items that properly ought to be treated as being of the same character irrespective of how they may be described in the accounts or records of any local authority.
 (5) An order of the Commission under subclause (2) may be enforced as if it were an agreement between the local authorities concerned.
-(6) For the purposes of the Income Tax Act 2004, the Goods and Services Tax Act 1985, and the Injury Prevention, Rehabilitation, and Compensation Act 2001, a local authority constituted under a reorganisation scheme is deemed to be the same local authority as each of the local authorities whose district, region, or functions are wholly transferred to that local authority.
+(6) For the purposes of the Income Tax Act 2007, the Goods and Services Tax Act 1985, and the Injury Prevention, Rehabilitation, and Compensation Act 2001, a local authority constituted under a reorganisation scheme is deemed to be the same local authority as each of the local authorities whose district, region, or functions are wholly transferred to that local authority.
 
 ### 70 Apportionment of petroleum tax revenue
 (1) This clause applies if, under an Order in Council giving effect to a proposal in a final reorganisation scheme under this Act,—
@@ -4696,10 +4696,10 @@ A transfer of liabilities in relation to an undertaking from a local authority t
   (b) does not abrogate the right of any person to cancel or amend any contract or agreement pertaining to the undertaking; and
   (c) does not release any surety or guarantor from any obligation with respect to the undertaking.
 
-### 6 Application of Income Tax Act 2004 and Goods and Services Tax Act 1985
-(1) Nothing in sections CB 5 to CB 21 of the Income Tax Act 2004 applies to any land or asset disposed of by the local authority to a council-controlled organisation under this Act.
-(2) For the purposes of sections CB 5 to CB 21 of the Income Tax Act 2004, if any land or asset is acquired by a council-controlled organisation from a local authority, that land or asset is deemed to have been acquired by the council-controlled organisation on the date on which it was acquired by that local authority.
-(3) Nothing in sections EE 34(1) to (3) and EZ 11 of the Income Tax Act 2004 applies to any property acquired by a council-controlled organisation from a local authority under this schedule.
+### 6 Application of Income Tax Act 2007 and Goods and Services Tax Act 1985
+(1) Nothing in sections CB 6 to CB 23 of the Income Tax Act 2007 applies to any land or asset disposed of by the local authority to a council-controlled organisation under this Act.
+(2) For the purposes of sections CB 6 to CB 23 of the Income Tax Act 2007, if any land or asset is acquired by a council-controlled organisation from a local authority, that land or asset is deemed to have been acquired by the council-controlled organisation on the date on which it was acquired by that local authority.
+(3) Nothing in sections EE 41(1) to (3) and EZ 12 of the Income Tax Act 2007 applies to any property acquired by a council-controlled organisation from a local authority under this schedule.
 (4) For the purposes of the Goods and Services Tax Act 1985, a transfer of an undertaking from a local authority to a council-controlled organisation under this schedule is deemed to be a transfer of a part of a taxable activity as a going concern that is capable of separate operation.
 
 ## Schedule 10 — Council plans and reports
