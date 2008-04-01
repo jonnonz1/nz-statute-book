@@ -1,5 +1,5 @@
 # Port Companies Act 1988
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 > An Act to promote and improve efficiency, economy, and performance in the management and operation of the commercial aspects of ports and, to this end,—aTo provide for the formation of port companies to carry out port related commercial activities and control the ownership thereof; andbTo establish requirements concerning the accountability and ownership of such companies and the responsibilities of Harbour Boards; andcTo repeal the New Zealand Ports Authority Act 1968 and certain other enactments relating to ports and harbours
 
@@ -327,7 +327,7 @@ No stamp duty shall be payable under the Stamp and Cheque Duties Act 1971 in res
   (c) From a port operator to a port company that operates at the same port.
 (3) For the purposes of the Goods and Services Tax Act 1985, every transfer of an undertaking from a Harbour Board to a port company pursuant to a port company plan before the 1st day of October 1989, or such later date in any particular case as the Minister, after consultation with the Minister of Finance, may allow, shall be deemed to be the transfer of a part of a taxable activity as a going concern that is capable of separate operation.
 (4) For the purposes of this section,—
-  (a) The term port operator means any local authority (as defined in section OB 1 of the Income Tax Act 2004) which operates a port related commercial undertaking; but does not include a port company or a local authority (as so defined) to the extent that it operates a port related commercial undertaking through a port company; and
+  (a) The term port operator means any local authority (as defined in section YA 1 of the Income Tax Act 2007) which operates a port related commercial undertaking; but does not include a port company or a local authority (as so defined) to the extent that it operates a port related commercial undertaking through a port company; and
   (b) In relation to a port operator, the definition of the term port related commercial undertaking in section 2 of this Act shall apply as if the references in that definition to a Harbour Board were references to the port operator.
 
 ### 39
