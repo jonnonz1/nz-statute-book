@@ -1,5 +1,5 @@
 # Local Government (Auckland) Amendment Act 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-01_
 
 ### 1 Title
 (1) This Act is the Local Government (Auckland) Amendment Act 2004.
@@ -296,7 +296,7 @@ ARH must ensure that its administration costs in any financial year do not excee
   (a) the parties to a disposition are, in relation to the shares or the assets and liabilities transferred by the disposition, to be treated as the same person; and all transactions entered into by, or all acts of, the party making the disposition before the date on which the disposition takes effect are to be treated as having been entered into or performed by the party receiving the disposition on the date on which they were entered into or performed by the party making the disposition; and
   (b) if a disposition is the transfer from ARTNL to ARH of shares in a subsidiary company of ARTNL, ARH and its members and directors must be treated as having held, at all times since the shares were acquired by ARTNL, the voting interests in and market value interests of the shares.
 (4) If, as a result of a disposition, ARTNL or a subsidiary company of ARTNL becomes a subsidiary company of ARH, then any income derived by ARH from ARTNL or the subsidiary company of ARTNL is to be treated as income derived as if ARH were a local authority and ARTNL or the subsidiary company of ARTNL were a council-controlled organisation.
-(5) Subsection (4) prevails over paragraph (b)(viii) of the definition of local authority in section OB 1 of the Income Tax Act 1994 and of the Income Tax Act 2004.
+(5) Subsection (4) prevails over paragraph (b)(viii) of the definition of local authority in section YA 1 of the Income Tax Act 2007 and in section OB 1 of the Income Tax Act 1994 and of the Income Tax Act 2004.
 (6) In this section,—
   - **ARTNL** means Auckland Regional Transport Network Limited
   - **disposition** means a disposition to ARH, ARTA, or an Auckland territorial authority of all or some of—
