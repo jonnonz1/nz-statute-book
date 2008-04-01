@@ -1,5 +1,5 @@
 # Motor Vehicle Sales Act 2003
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-04-01_
 
 ### 1 Title
 This Act is the Motor Vehicle Sales Act 2003.
@@ -79,7 +79,7 @@ This Act binds the Crown.
   - **former Act** means the Motor Vehicle Dealers Act 1975
   - **full name** , in relation to an individual, includes any aliases of that individual
   - **Fund** means the Motor Vehicle Dealers Fidelity Guarantee Fund established under section 30 of the former Act
-  - **hire purchase agreement** has the meaning given to it by section OB 1 of the Income Tax Act 2004
+  - **hire purchase agreement** has the meaning given to it by section YA 1 of the Income Tax Act 2007
   - **importer** means a person who carries on the business of importing motor vehicles into New Zealand
   - **infringement offence** means an offence against any of the provisions listed in section 116(2)
   - **Institute** means the Motor Vehicle Dealers Institute Incorporated referred to in the former Act
