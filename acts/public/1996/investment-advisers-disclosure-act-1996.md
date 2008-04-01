@@ -1,5 +1,5 @@
 # Investment Advisers (Disclosure) Act 1996
-_Consolidation as at 2008-02-29_
+_Consolidation as at 2008-04-01_
 
 > An Act to require the disclosure of certain information by persons who—aGive investment advice to the public; orbReceive money or property for investment from the public as intermediaries
 
@@ -65,7 +65,7 @@ _Consolidation as at 2008-02-29_
     (b) The display of words by any form of electronic or other means of communication in a manner that enables the words to be readily stored in a permanent form and, with or without the aid of any equipment, to be retrieved and read;—
 (2) For the purposes only of determining whether investment advice is given to the public or investment money or investment property is received from the public, section 3 of the Securities Act 1978 (which relates to the construction of references to offering securities to the public) shall apply as if every reference in that section to an offer of securities were a reference to the giving of investment advice or receiving of investment money or investment property, as the case may be.
 (3) For the purposes of this Act, unless the context otherwise requires, associated persons or persons associated with each other are—
-  (a) Persons who are relatives within the meaning of the Income Tax Act 2004; or
+  (a) Persons who are relatives within the meaning of the Income Tax Act 2007; or
   (b) Persons who are partners to whom the Partnership Act 1908 applies; or
   (c) Bodies corporate that consist substantially of the same shareholders or are under the control of the same persons; or
   (d) A body corporate and a person who has the power, directly or indirectly, to exercise, or control the exercise of, the right to vote attached to 25 percent or more of the voting securities of the body corporate; or
