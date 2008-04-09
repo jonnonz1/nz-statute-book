@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2008-04-09_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—aTo establish certain principles with respect to—iThe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiAccess by each individual to information relating to that individual and held by public and private sector agencies; andbTo provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcTo provide for matters incidental thereto
 
@@ -1134,7 +1134,7 @@ Where a specified agency derives or receives information produced by an authoris
   (c) For any other reason,—
 
 ### 103 Notice of adverse action proposed
-(1) Subject to subsections (1A) to (2A) of this section, a specified agency shall not take adverse action against any individual on the basis (whether wholly or in part) of a discrepancy produced by an authorised information matching programme—
+(1) Subject to subsections (1A) to (2A) of this section and to section 180C(1) of the Corrections Act 2004, a specified agency shall not take adverse action against any individual on the basis (whether wholly or in part) of a discrepancy produced by an authorised information matching programme—
   (a) Unless that agency has given that individual written notice—
     (i) Specifying particulars of the discrepancy and of the adverse action that it proposes to take; and
     (ii) Stating that the individual has 5 working days from the receipt of the notice in which to show cause why the action should not be taken; and
@@ -1499,7 +1499,7 @@ The income of the Commissioner shall be exempt from income tax.
 | Accident Insurance Act 1998 | Sections 370 and 371 (as saved by section 343 of the Injury Prevention, Rehabilitation, and Compensation Act 2001) |
 | Births, Deaths, and Marriages Registration Act 1995 | Section 78A |
 | Citizenship Act 1977 | Section 26A |
-| Corrections Act 2004 | Sections 180, 181, 182, and 204 |
+| Corrections Act 2004 | Sections 180 to 180D, 181, 182, and 204 |
 | Customs and Excise Act 1996 | Sections 280 to 280D and 280H |
 | Education Act 1989 | Sections 226A, 238B, and 307D |
 | Electoral Act 1993 | Section 263A and 263B |
