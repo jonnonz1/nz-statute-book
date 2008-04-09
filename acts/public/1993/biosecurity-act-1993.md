@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2008-03-27_
+_Consolidation as at 2008-04-09_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -49,6 +49,7 @@ _Consolidation as at 2008-03-27_
   - **Import** , subject to section 4 of this Act, means bring within New Zealand territory from outside that territory; and has a corresponding meaning
   - **Import health permit**
   - **Import health standard** means a document issued under section 22
+  - **incidentally imported new organism** has the same meaning as in section 2(1) of the Hazardous Substances and New Organisms Act 1996
   - **Inspector** means a person who is appointed an inspector under section 103 of this Act
   - **Local authority** means a regional council or territorial authority
   - **Management agency** means the Department, authority, or body corporate specified in a pest management strategy as the agency given the task of implementing the strategy
@@ -380,6 +381,7 @@ The purpose of this Part of this Act is to provide for the effective management 
 
 ### 22 Import health standards
 (1) The Director-General may, following the recommendation of a chief technical officer, issue an import health standard specifying the requirements to be met for the effective management of risks associated with the importation of risk goods before those goods may be imported, moved from a biosecurity control area or a transitional facility, or given a biosecurity clearance; and may, in a like manner, amend or revoke any import health standard so issued.
+(1A) An import health standard issued under this section applies to goods the importation of which involves, or might involve, an incidentally imported new organism.
 (2) If an import health standard requires a permit to be obtained from the Director-General before the goods can be imported, moved from a biosecurity control area or a transitional facility, or given a biosecurity clearance, the Director-General may, if he or she thinks fit, issue the permit.
 (3) Nothing in this Act obliges the Director-General to have an import health standard in force for goods of any kind or description if, in the Director-General's opinion, the requirements that could be imposed on the importation of those goods would not be sufficient to enable the purpose of this Part to be met if the importation of those goods were permitted.
 (4) An import health standard issued under this section may apply to goods of a certain kind or description imported from—
@@ -397,6 +399,18 @@ The purpose of this Part of this Act is to provide for the effective management 
 (8) Before making a recommendation to the Director-General in accordance with this section the chief technical officer must give notice of the intention to make the recommendation to the chief executive of every department of State whose responsibilities for natural resources or human health may be adversely affected by the issue, amendment, or revocation of the relevant standard.
 (9) The Director-General must maintain a register of the import health standards (as amended from time to time) issued under this section.
 (10) The register must be available for public information and inspection at the office of the Director-General during normal office hours.
+
+### 22A Process for independent review panel to be established
+(1) The Director-General must, by notice in the Gazette, set out the process by which an independent review panel is to be established to review whether, in developing an import health standard, there has been sufficient regard to the scientific evidence about which a person consulted under section 22(6) has raised a significant concern.
+(2) The notice required by subsection (1) must cover the following matters:
+  (a) the criteria for setting up an independent review panel; and
+  (b) how the Director-General will appoint an independent review panel, including the knowledge and experience required for appointees; and
+  (c) the procedures to be followed by—
+    (i) a person eligible to seek a review under subsection (1); and
+    (ii) an independent review panel, in undertaking its review; and
+  (d) the reporting requirements for an independent review panel.
+(3) The Director-General must receive any report from an independent review panel and, as soon as is reasonably practicable, determine the issue in dispute after taking into account the findings and recommendations of the independent review panel, giving reasons for that determination.
+(4) The Director-General must issue a notice under subsection (1) not later than 1 July 2008.
 
 ### 23 Revocation and variation of import health permits
 [Repealed]
@@ -429,6 +443,7 @@ An inspector shall not give a biosecurity clearance for any goods unless satisfi
 
 ### 28 Restrictions on giving clearances
 (1) An inspector must not give a biosecurity clearance for goods that are or contain an organism specified in Schedule 2 of the Hazardous Substances and New Organisms Act 1996 or for a new organism.
+(1A) However, subsection (1) does not prohibit an inspector from giving a biosecurity clearance for goods the importation of which involves, or might involve, an incidentally imported new organism.
 (2) Where any new organism is an organism for which—any inspector may authorise that organism to go to that containment facility.
   (a) The Authority has given approval for importation into containment in accordance with sections 42 or 45 of the Hazardous Substances and New Organisms Act 1996: and
   (b) There is in existence a containment facility approved as meeting the standard set by the Authority; and
@@ -2650,3 +2665,25 @@ A board of inquiry shall—
 | Wellington |  |
 
 ## Schedule 9 — Designated as approved, or approved, ports
+
+### 1 Title
+This Act is the Biosecurity Amendment Act (No 2) 2008.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+### 8 Validation of import health standards
+(1) Every import health standard issued before the commencement of this Act (including, but not limited to, the Import Health Standard for the Importation into New Zealand of Specified Bee Products from Australia, dated 2 August 2006) is, and has always been, as valid and effectual as if this Act had come into force on 29 July 1998.
+(2) However, a validation of an import health standard under subsection (1) only applies if, and to the extent that, the import health standard is invalid because it applies to goods the importation of which involves, or might involve, an incidentally imported new organism.
+
+### 9 Suspension of power to give biosecurity clearance
+Despite section 8, no biosecurity clearance may be given under section 26 of the principal Act for any goods to which the Import Health Standard for the Importation into New Zealand of Specified Bee Products from Australia, dated 2 August 2006 applies, until the Director-General has—
+  (a) received a report from an independent review panel set up in consultation with the National Beekeepers Association of New Zealand to consider the scientific evidence in dispute in relation to that import health standard; and
+  (b) determined whether any amendment to that import health standard is necessary to achieve the purpose of Part 3 of the principal Act; and
+  (c) publicly notified that determination.
+
+### 10 Validation of biosecurity clearances, etc
+(1) Any biosecurity clearances or the exercise of other powers under Part 3 of the principal Act before the commencement of this Act (including, but not limited to, biosecurity clearances given in accordance with the Import Health Standard for the Importation into New Zealand of Specified Bee Products from Australia, dated 2 August 2006) are, and always have been, as valid and effectual as if this Act had come into force on 29 July 1998.
+(2) However, a validation under subsection (1) only applies to a biosecurity clearance or exercise of other power if, and to the extent that, the clearance or exercise of other powers is invalid because it applies to goods—
+  (a) the importation of which involves, or might involve, an incidentally imported new organism; and
+  (b) whose movement and use includes any new organisms incidentally imported while they remain in or on those goods.
