@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2008-04-09_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -43,12 +43,19 @@ _Consolidation as at 2007-09-20_
   - **Crown entity** —
     (a) has the same meaning as in section 7(1) of the Crown Entities Act 2004; and
     (b) includes an organisation named or described in Schedule 4 of the Public Finance Act 1989.
-  - **develop** , in relation to organisms,—
-    (a) means—
-      (i) genetic modification of an organism:
-      (ii) regeneration of a new organism from biological material of the organism that cannot, without human intervention, be used to reproduce the organism:
-      (iii) fermentation of a micro-organism that is a new organism; but
-    (b) does not include field testing
+  - **department** has the same meaning as in section 2 of the State Sector Act 1988
+  - **develop** ,—
+    (a) in relation to organisms other than incidentally imported new organisms,—
+      (i) means—
+        (A) genetic modification of an organism:
+        (B) regeneration of a new organism from biological material of the organism that cannot, without human intervention, be used to reproduce the organism:
+        (C) fermentation of a micro-organism that is a new organism; but
+      (ii) does not include field testing; and
+    (b) in relation to incidentally imported new organisms,—
+      (i) means—
+        (A) the activities referred to in paragraph (a)(i); and
+        (B) the deliberate isolation, aggregation, multiplication, or other use of the organism; but
+      (ii) does not include field testing
   - **Disposal** means,—
     (a) In relation to a hazardous substance,—
       (i) Treating the substance in such a way that it is no longer a hazardous substance; or
@@ -117,6 +124,10 @@ _Consolidation as at 2007-09-20_
     (e) Identifies and specifies the means of contacting any person knowledgeable in the management of the substance:
   - **Import** , in relation to new organisms, has the same meaning as in section 2(1) of the Biosecurity Act 1993
   - **Importation** , in relation to hazardous substances, has the same meaning as in section 47 of the Customs Act 1966; and , in relation to those substances, has a corresponding meaning
+  - **incidentally imported new organism** means a new organism that is imported in or on goods, but is not—
+    (a) an essential or constituent part of those goods:
+    (b) imported in or on the goods with the intention of concealing the presence of the new organism:
+    (c) a genetically modified organism
   - **Inseparable organism** means any organism which is unable to be separated from any other organism
   - **Intrinsic values** , in relation to ecosystems, means those aspects of ecosystems and their constituent parts which have value in their own right, including—
     (a) Their biological and genetic diversity; and
@@ -217,7 +228,8 @@ _Consolidation as at 2007-09-20_
   (c) the new organism was deemed to be a new organism under section 255 and other organisms of the same taxonomic classification were lawfully present in New Zealand before the commencement of that section and in a place that was not registered as a circus or zoo under the Zoological Gardens Regulations 1977.
 (2A) A new organism does not cease to be a new organism because—
   (a) it is subject to a conditional release approval; or
-  (b) it is a qualifying organism approved for release with controls.
+  (b) it is a qualifying organism approved for release with controls; or
+  (c) it is an incidentally imported new organism.
 (3) Despite the provisions of this section, an organism present in New Zealand before 29 July 1998 in contravention of the Animals Act 1967 or the Plants Act 1970 is a new organism.
 (4) Subsection (3) does not apply to the organism known as rabbit haemorrhagic disease virus, or rabbit calicivirus.
 
@@ -455,14 +467,18 @@ The Authority must, at intervals of not more than 3 years, review the terms of r
 ### 25AA This Part subject to Part 5A
 [Repealed]
 
-### 25 Prohibition of import, manufacture, development, field testing, or release
+### 25 Restriction of import, manufacture, development, field testing, or release
 (1) No—otherwise than in accordance with an approval issued under this Act or in accordance with Parts 11 to 16 of this Act.
   (a) Hazardous substance shall be imported, or manufactured:
   (b) New organism shall be imported, developed, field tested, or released—
+(1A) Subsection (1)(b) does not apply to—
+  (a) the importation of an incidentally imported new organism, if it is imported in or on goods lawfully imported under the Biosecurity Act 1993; or
+  (b) the movement or use of those goods, together with any new organisms incidentally imported while they remain in or on those goods, after their importation.
+(1B) The department responsible for administering the Biosecurity Act 1993 or its agents, and any other departments recognised by the responsible Minister under section 101(2) of that Act or their agents may, despite subsection (1)(b), isolate, aggregate, multiply, or use an incidentally imported new organism for the purpose of identifying, managing, or eradicating that organism.
 (2) No approval shall be issued to import, develop, field test, or release any new organism specified in Schedule 2.
 (3) If an organism has a conditional release approval, no further approvals are required for the conditional release of the organism on the same conditions.
 (4) If an organism has an approval for importation into containment, no further approvals are required for the importation into containment of the organism.
-(5) The prohibition on the importation of a new organism does not apply to biological material of the organism that cannot, without human intervention, be used to reproduce the organism.
+(5) The restriction on the importation of a new organism does not apply to biological material of the organism that cannot, without human intervention, be used to reproduce the organism.
 (6) No person may do any of the things specified in subsection (1)(a) or (b) in relation to any hazardous substance or new organism that is the subject of an innovative agricultural compound application or an innovative medicine application unless the person has applied for and been granted an approval to do that thing.
 (7) Subsection (6) ceases to apply in respect of a hazardous substance or new organism on the date that section 55(3) to (4B) ceases to apply either to the Authority or to any information held by the Authority in relation to the hazardous substance or new organism concerned.
 (8) In this section,—
