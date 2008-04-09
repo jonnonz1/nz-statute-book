@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2008-04-09_
 
 > An Act to—aReform the law relating to customs, excise, and other duties; andbProvide for the administration and enforcement of Customs controls at the border; andcRepeal the Customs Act 1966; anddProvide for related matters
 
@@ -3379,14 +3379,15 @@ The Customs may, for the purposes of monitoring the movement of craft and person
   (a) Details of craft movements including the craft name, and registration number or identifier, estimated date and time of arrival or departure and place of origin and destination; and
   (b) Personal information including the person's name, date of birth, gender, passport number, nationality, and travel movements.
 
-### 280 Supply of arrival and departure information for benefit purposes
+### 280 Supply of arrival and departure information for benefit and benefit debt recovery purposes
 (1) In this section, unless the context otherwise requires, the term benefit has the same meaning as in section 3(1) of the Social Security Act 1964; and includes—
   (a) A lump sum payable under section 61DA or section 61DC or section 61DD of that Act:
   (b) Any special assistance granted out of the Crown Bank Account from money appropriated by Parliament under section 124(1)(d) or (da) of that Act.
   (c) an allowance established by regulations made under section 303 of the Education Act 1989.
-(2) The purpose of this section is to facilitate the exchange of information between the Customs and the department for the time being responsible for the administration of the Social Security Act 1964 for the purposes of verifying—
-  (a) The entitlement or eligibility of any individual to or for any benefit; or
-  (b) The amount of any benefit to which an individual is or was entitled or for which an individual is or was eligible.
+(2) The purpose of this section is to facilitate the exchange of information between the Customs and the department for the time being responsible for the administration of the Social Security Act 1964 for all or any of the following purposes:
+  (a) to verify the entitlement or eligibility of any person to or for any benefit:
+  (b) to verify the amount of any benefit to which a person is or was entitled or for which a person is or was eligible:
+  (c) to enable the recovery of any debt due to the Crown in respect of any benefit.
 (3) For the purposes of this section, the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 may from time to time, in accordance with arrangements made from time to time between that chief executive and the Chief Executive of the Customs, request the supply, in respect of persons who depart from New Zealand or persons who arrive in New Zealand from another country, or both, of the information specified in subsection (5).
 (4) Nothing in subsection (3) applies in respect of persons who are exempted, by regulations made under the Immigration Act 1987 or by virtue of any special direction under that Act, from the requirement to surrender an arrival card pursuant to section 126(1)(a) of that Act, or, as the case may be, a departure card pursuant to section 126(2) of that Act.
 (5) The information referred to in subsection (3) is as follows:
