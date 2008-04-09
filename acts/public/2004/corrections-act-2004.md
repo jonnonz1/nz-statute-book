@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-04-09_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -2019,17 +2019,66 @@ No person is deemed to be employed in the service of the Crown for the purposes 
   (b) that the person has entered into a contract under section 4A of the Penal Institutions Act 1954; or
   (c) that the person has entered into a security contract under section 166.
 
-**Disclosure of information**
+**Disclosure of prisoner information**
 
-### 180 Prisoner information may be disclosed for social security purposes
-(1) The purpose of this section is to facilitate the disclosure of information by the chief executive to the department for the time being responsible for the administration of the Social Security Act 1964 (the requesting department), to enable the chief executive of the requesting department to exercise, in respect of any prisoner, the power conferred by section 76 of that Act (which provides for the withdrawal of a benefit during detention in a prison).
-(2) For the purpose of this section, the chief executive of the requesting department may, from time to time, in accordance with arrangements made from time to time between the chief executive and the chief executive of the requesting department, request the chief executive to supply the information specified in subsection (4) in respect of prisoners who are received in any prison during the period that is specified in the request.
-(3) Every request made under subsection (2) must be in writing.
-(4) The information referred to in subsection (2) is as follows:
-  (a) a sufficient amount of biographical information to identify the prisoner:
-  (b) the name of the prison in which the prisoner is or was detained:
-  (c) the date on which the prisoner was received in the prison.
-(5) On receipt of a request made under subsection (2), the chief executive may supply the information requested to any officer or employee of the requesting department who is authorised in that behalf by the chief executive of that department.
+### 180 Purpose of section 180A
+(1) The purpose of section 180A is to facilitate the disclosure of information, by the chief executive to the requesting department, for the purposes of the operation of all or any of the following provisions:
+  (a) section 76(1) of the Social Security Act 1964 (under which a benefit is, in general, not payable in respect of any period during which a beneficiary is imprisoned or detained in, or is an escaper from, a prison, pursuant to a sentence of imprisonment):
+  (b) sections 86 and 86A of the Social Security Act 1964 (which provide for the recovery of debts due to the Crown within the meaning of section 85A of that Act):
+  (c) section 307B of the Education Act 1989 (which provides for the recovery of debts in respect of the payment to a person of allowances, student loans, or other money to which he or she was not, or is no longer, entitled):
+  (d) regulation 28 of the Student Allowances Regulations 1998 (under which a student imprisoned or detained in a prison, pursuant to a sentence of imprisonment is not entitled to receive any payment under those regulations in respect of any period of any such imprisonment):
+  (e) section 180C.
+(2) Requesting department, in subsection (1) and sections 180A and 180C, means—
+  (a) the department for the time being responsible for the administration of the Social Security Act 1964, in relation to information requested for the purposes of the operation of a provision of that Act:
+  (b) the department for the time being responsible for the administration of Part 25 of the Education Act 1989, in relation to information requested for the purposes of the operation of section 307B of that Act, or regulation 28 of the Student Allowances Regulations 1998.
+
+### 180A Prisoner information may be disclosed for social assistance purposes
+(1) For the purpose stated in section 180, the chief executive of the requesting department may from time to time request the chief executive to supply all or any information specified in section 180B in respect of prisoners detained in a prison during the period specified in the request.
+(2) A request under subsection (1) must be made in writing and in accordance with arrangements made from time to time between—
+  (a) the chief executive; and
+  (b) the chief executive of the requesting department.
+(3) On receipt of a request made under subsection (1) the chief executive may supply the information requested to any person who is—
+  (a) an officer or employee of the requesting department; and
+  (b) authorised for the purpose by the chief executive of the requesting department.
+
+### 180B Information that may be requested and disclosed
+The information referred to in section 180A(1) is, for each prisoner detained in a prison during the period specified in the request,—
+  (a) a sufficient amount of biographical information to identify the prisoner; and
+  (b) the name of the prison in which the prisoner is or was detained during that period; and
+  (c) details of each period of detention of the prisoner in the prison during the period specified in the request.
+
+### 180C Social assistance may be suspended immediately if discrepancy discovered
+(1) The chief executive of the requesting department may suspend immediately the payment to a person of the benefits, allowances, and student loans, or any of them, payable to the person if—
+  (a) information has been disclosed to the requesting department under section 180A; and
+  (b) a discrepancy relating or apparently relating to the person arises, or is identified in that information; and
+  (c) that chief executive wishes, on the basis of that discrepancy, to effect the suspension; and
+  (d) immediately after the suspension is effected, the requesting department gives the person written notice of the kind specified in section 180D.
+(2) In this section and section 180D,—
+  - **adverse action** has the same meaning as in section 97 of the Privacy Act 1993
+  - **allowance** means an allowance established (whether established for the first time or continued) by regulations made under section 303 of the Education Act 1989
+  - **benefit** has the same meaning as in section 3(1) of the Social Security Act 1964
+  - **discrepancy** has the same meaning as in section 97 of the Privacy Act 1993
+  - **student loan** has the meaning given to it by section 2 of the Student Loan Scheme Act 1992
+  - **working day** has the same meaning as in section 2(1) of the Privacy Act 1993.
+(3) A notice under subsection (1) may also be used to give the person concerned notice under section 103(1) of the Privacy Act 1993 in relation to some proposed adverse action other than the suspension or suspensions concerned; but in that case that section applies to the taking of that action.
+(4) Subsection (1) overrides section 103(1) of the Privacy Act 1993.
+(5) Nothing in this section prevents any adverse action from being taken in respect of benefits, allowances, or student loans in accordance with section 103(1) of the Privacy Act 1993 instead of this section.
+
+### 180D Notice required by section 180C(1)(d)
+(1) A notice required by section 180C(1)(d)—
+  (a) must specify particulars of—
+    (i) the discrepancy or discrepancies concerned; and
+    (ii) the suspension or suspensions concerned; and
+  (b) must state that the person concerned may, after the receipt of the notice, show cause why payments of any benefit, allowance, or student loan should not have been suspended.
+(2) A notice required by section 180C(1)(d) must be delivered to the person concerned—
+  (a) personally; or
+  (b) by leaving it at the person’s usual or last known place of residence or business or at the address specified by the person in any application or other document received from the person; or
+  (c) by posting it in a letter addressed to the person at that place of residence or business or at that address.
+(3) If a notice required to be given under section 180C(1)(d) is sent to a person by post,—
+  (a) the notice must, in the absence of proof to the contrary, be taken to have been delivered to that person on the fourth day after the day on which it was posted; and
+  (b) in proving the delivery it is sufficient to prove that the letter was properly addressed and posted.
+
+**Disclosure of offender information**
 
 ### 181 Offender information may be disclosed for immigration purposes
 (1) The purpose of this section is to facilitate the disclosure of information by the department to the Department of Labour, for the purpose of assisting—
