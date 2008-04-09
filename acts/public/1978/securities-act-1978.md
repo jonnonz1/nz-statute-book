@@ -1,5 +1,5 @@
 # Securities Act 1978
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2008-04-09_
 
 > An Act to establish a Securities Commission; and to consolidate and amend the law relating to the offering of securities to the public, and to extend the application thereof
 
@@ -93,7 +93,7 @@ _Consolidation as at 2008-04-01_
   - **Life insurance policy** means a policy of life or endowment insurance, or a policy securing an annuity; and includes—but does not include any such policy, or a security referred to in paragraph (b) of this definition, or a term life insurance policy (within the meaning of regulations) that is declared by regulations not to be a life insurance policy for the purposes of this Act
     (a) A policy of insurance that is declared by regulations to be a life insurance policy for the purposes of this Act; and
     (b) A renewal or variation of the terms or conditions of any such policy or a security referred to in paragraph (a) of this definition;—
-  - **local authority**
+  - **local authority** has the meaning set out in section 5(1) of the Local Government Act 2002
   - **Manager** ,—
     (a) in relation to a participatory security,—
       (i) means a person—
@@ -343,6 +343,14 @@ _Consolidation as at 2008-04-01_
   (d) The Reserve Bank of New Zealand constituted under the Reserve Bank of New Zealand Act 1964; or
   (e) Housing New Zealand Corporation established by the Housing Corporation Act 1974; or
   (f)
+(3A) Nothing in sections 37, 37A(1)(c) and (d) and (1A), and 39 to 44 applies in respect of a debt security the issuer of which is a local authority.
+(3B) The exemption in subsection (3A) is subject to the conditions that—
+  (a) the investment statement relating to the debt securities refers to the most recent audited financial statements, and audited consolidated financial statements, for the local authority; and
+  (b) if the date of allotment of the debt securities would be more than 9 months after the balance date of the financial statements referred to in paragraph (a), the investment statement relating to the debt securities refers to interim financial statements, and interim consolidated financial statements, for the local authority that have been prepared in accordance with generally accepted accounting practice (within the meaning of section 5(1) of the Local Government Act 2002) for a period beginning on the day after that balance date and ending on a date that is not more than 9 months later; and
+  (c) it is a term of the offer of the debt securities to the public that the local authority will, upon the request of a security holder or a prospective investor for a copy of any financial statements referred to in paragraph (a) or (b), without fee, send, or cause to be sent, to that security holder or prospective investor, a copy of those statements; and
+  (d) the investment statement relating to the debt securities contains, unless the debt securities are expressly guaranteed by the Crown under the Public Finance Act 1989, a statement that the debt securities being offered are not guaranteed by the Crown.
+(3C) The conditions in subsection (3B) apply despite anything to the contrary in any regulations made under this Act.
+(3D) The financial statements referred to in subsection (3B)(a) and (b) must, for the purposes of this Act, be treated as forming part of the investment statement relating to the debt securities.
 (4) Nothing in sections 6, 33(3), 37, 37A, 38C to 38F, 39 to 44, and 45 to 53 of this Act shall apply in respect of an interest in a contributory mortgage that is offered to the public for subscription by a contributory mortgage broker.
 (4A) Nothing in sections 33, 37, and 37A(1)(a) of this Act shall apply in respect of an adjustment under section HL 7(3) of the Income Tax Act 2004 of the portfolio investor interest of an investor by a portfolio investment entity.
 (4B) The exemption in subsection (4A) does not apply if the portfolio investment entity has under section HL 7(4) of the Income Tax Act 2004 offered the investor a choice of the method of adjustment.
@@ -704,7 +712,7 @@ Section 37(4) to (6) does not apply to the allotment of a security if a relief o
   (c) the issuer, if the subscriber consents in writing to the making of the relief order; or
   (d) the issuer, if the security holder consents in writing to the making of the relief order; or
   (e) the issuer, if—
-    (i) the contravention of section 37 was caused by a failure to comply with a condition of an exemption granted under section 5(5) or provided under section 5A; and
+    (i) the contravention of section 37 was caused by a failure to comply with a condition of an exemption granted under section 5(5) or provided under section 5(3A) or 5A; and
     (ii) the issuer has given notice of that contravention to the subscriber in accordance with sections 37AE and 37AF; and
     (iii) the subscriber has not objected to the Court making a relief order by—
       (A) notifying the issuer in writing within 30 working days after the day on which the notice is given that the subscriber objects to the making of the relief order; and
@@ -718,7 +726,7 @@ Section 37(4) to (6) does not apply to the allotment of a security if a relief o
   (b) a notice that contains, or has attached to it, the following is sent by the issuer to the person:
     (i) any information that is necessary to enable a reasonable person to understand the nature and implications of the contravention that has occurred:
     (ii) a statement to the effect that the notice concerns the legal rights of the person and that, if there is anything about the person's legal rights that the person does not understand, then the person should seek legal advice before giving their consent to the making of a relief order:
-    (iii) any information, documents, or copies of documents required to be sent, delivered, or provided to the person in accordance with an exemption granted under section 5(5) or provided under section 5A, if the contravention of section 37 was caused by a failure to send, deliver, or provide that information, those documents, or those copies to the person in accordance with that exemption:
+    (iii) any information, documents, or copies of documents required to be sent, delivered, or provided to the person in accordance with an exemption granted under section 5(5) or provided under section 5(3A) or 5A, if the contravention of section 37 was caused by a failure to send, deliver, or provide that information, those documents, or those copies to the person in accordance with that exemption:
     (iv) an investment statement relating to the security, unless an exemption from section 37A(1)(a) granted or provided under section 5 applies to the security or to the issuer in respect of the security (or would have applied but for a failure to comply with a condition of that exemption):
     (v) a statement to the effect that there is a registered prospectus in relation to the security and that, at the request of the person and on payment of any prescribed fee, the issuer will send the registered prospectus to the person:
     (vi) a statement that describes the effect of section 363 of the Companies Act 1993 (as applied by section 66) in relation to that prospectus.
