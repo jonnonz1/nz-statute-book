@@ -1,5 +1,5 @@
 # Civil Aviation Act 1990
-_Consolidation as at 2008-01-18_
+_Consolidation as at 2008-04-11_
 
 > An Act—aTo establish rules of operation and divisions of responsibility within the New Zealand civil aviation system in order to promote aviation safety; andbTo ensure that New Zealand's obligations under international aviation agreements are implemented; andcTo consolidate and amend the law relating to civil aviation in New Zealand
 
@@ -8,7 +8,7 @@ _Consolidation as at 2008-01-18_
 (2) This Act shall come into force on the 1st day of September 1990.
 
 ### 2 Interpretation
-In this Act, unless the context otherwise requires,—
+(1) In this Act, unless the context otherwise requires,—
   - **Accident** means an occurrence that is associated with the operation of an aircraft and takes place between the time any person boards the aircraft with the intention of flight and such time as all such persons have disembarked and the engine or any propellers or rotors come to rest, being an occurrence in which—
     (a) A person is fatally or seriously injured as a result of—except when the injuries are self-inflicted or inflicted by other persons, or when the injuries are to stowaways hiding outside the areas normally available to passengers and crew; or
       (i) Being in the aircraft; or
@@ -125,6 +125,7 @@ In this Act, unless the context otherwise requires,—
   - **unruly passenger offence** —
     (a) means an offence against Part 5A; and
     (b) includes an offence to which section 65C applies.
+(2) For the purposes of this Act, an aviation identity card issued or approved by the Director under any regulations or rules made under this Act is not an aviation document.
 
 ### 3 Act to bind the Crown
 (1) Subject to subsection (2) of this section, this Act shall bind the Crown.
@@ -375,7 +376,7 @@ An employee of the Authority may, subject to any directions from the Director of
 
 ### 12 General requirements for participants in civil aviation system
 (1) Every person who does anything for which an aviation document is required (in the succeeding provisions of this section called a participant) shall ensure that the appropriate aviation documents and all the necessary qualifications and other documents are held by that person.
-(2) Every participant shall comply with this Act, the relevant rules made under this Act, and the conditions attached to the relevant aviation documents.
+(2) Every participant shall comply with this Act, the relevant rules or regulations made under this Act, and the conditions attached to the relevant aviation documents.
 (3) Every participant shall ensure that the activities or functions for which the aviation document has been granted are carried out by the participant, and by all persons for whom the participant is responsible, safely and in accordance with the relevant prescribed safety standards and practices.
 (4) Every participant who holds an aviation document that authorises the provision of a service within the civil aviation system—
   (a) Shall, if so required by rules made under this Act, establish and follow a management system that will ensure compliance with the relevant prescribed safety standards and the conditions attached to the document; and
