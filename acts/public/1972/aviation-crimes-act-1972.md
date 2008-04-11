@@ -1,5 +1,5 @@
 # Aviation Crimes Act 1972
-_Consolidation as at 2007-09-26_
+_Consolidation as at 2008-04-11_
 
 > An Act to give effect to the provisions of the Hague Convention for the Suppression of Unlawful Seizure of Aircraft, the Montreal Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation, the Montreal Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation, and the Tokyo Convention on Offences and Certain Other Acts Committed on Board Aircraft, and for matters incidental thereto
 
@@ -183,14 +183,15 @@ Nothing in section 8 of the Crimes Act 1961 (which relates to jurisdiction in re
     (iii) any head covering, gloves, or footwear (including socks or stockings) removed for the purposes of the search.
 
 ### 13 Search of persons declining to allow search
-(1) Where—the member of the Police may, without warrant, search that first-mentioned person and his baggage, and may detain him for the purposes of that search, and may take possession of any article referred to in paragraph (a), paragraph (b), paragraph (c), or paragraph (d) of section 11 of this Act found in the course of that search.
+(1) Where—the member of the Police may, without warrant, search that first-mentioned person and his baggage, and may detain him for the purposes of that search, and may take possession of any article referred to in paragraph (a), (b), (c), (d), or (e) of section 11(1) found in the course of that search.
   (a) Pursuant to subsection (2) of section 12 of this Act a carrier refuses to carry a person who has declined to allow himself or his baggage to be searched; and
   (b) A member of the New Zealand Police has reasonable grounds to suspect that a crime against this Act in relation to the aircraft on which that person was to be carried has been, is being, or is likely to be, committed, whether by that person or by any other person,—
 (2) The refusal of any person to allow himself or his baggage to be searched pursuant to section 12 of this Act shall not of itself constitute reasonable grounds for suspecting that a crime against this Act in relation to the aircraft has been, is being, or is likely to be, committed.
 (3) Every member of the New Zealand Police exercising the power of search conferred by subsection (1) of this section shall identify himself to the person searched, and shall also tell him that the search is being made pursuant to that subsection. He shall also, if not in uniform and if so required, produce evidence that he is a member of the New Zealand Police.
+(4) With respect to a search made under subsection (1), a member of the police may use any aid or device that is reasonably necessary to facilitate the search, including (but not limited to) a dog, chemical substance, or x-ray or imaging equipment, or some other mechanical, electrical, or electronic device.
 
 ### 14 Evidence of offences
-(1) Nothing found in the course of a search or examination made pursuant to section 12 or section 13 of this Act shall be admissible as evidence in any criminal proceedings against the person who, or whose baggage, has been searched, or, as the case may be, the consignor of any cargo that has been examined, other than proceedings in respect of a crime against this Act or the crime of treason or any crime punishable by imprisonment for life or for a term of 3 years or more, or in respect of an offence against section 16 of the Arms Act 1958 (which relates to the unlawful carriage or possession of firearms, ammunition, or explosives), or in respect of an offence against the Misuse of Drugs Act 1975.
+(1) Nothing found in the course of a search or examination made pursuant to section 12 or section 13 of this Act or sections 80, 80B, and 80C of the Civil Aviation Act 1990 shall be admissible as evidence in any criminal proceedings against the person who, or whose baggage, has been searched, or, as the case may be, the consignor of any cargo that has been examined, other than proceedings in respect of a crime against this Act or the crime of treason or any crime punishable by imprisonment for life or for a term of 3 years or more, or in respect of an offence against section 16 of the Arms Act 1958 (which relates to the unlawful carriage or possession of firearms, ammunition, or explosives), or in respect of an offence against the Misuse of Drugs Act 1975.
 (2) For the purposes of this section, if any dangerous goods (as defined in section 2 of the Civil Aviation Act 1990) are found in the course of a search or examination made under this Act, the dangerous goods must be regarded as having been detected in the exercise of the powers conferred by sections 80(a) and (ab) and 80A of the Civil Aviation Act 1990 and not found under this Act.
 
 ## Part  — Powers of Aircraft Commander
