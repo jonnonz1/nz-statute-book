@@ -1,5 +1,5 @@
 # Copyright Act 1994
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-04-12_
 
 > An Act to consolidate and amend the law relating to copyright
 
@@ -538,7 +538,7 @@ The broadcasting of a work or its inclusion in a cable programme service is a re
   (c) is not the licensee of the copyright in New Zealand; and
   (d) imports the film into New Zealand other than for that person's private and domestic use.
 (4) For the purposes of subsection (3), a film is first made available to the public (as set out in section 23(2)) by any authorised act whether in New Zealand or elsewhere.
-(5) Subsection (3) expires with the close of the period of 5 years beginning on the date of commencement of this Act.
+(5) Subsections (3) and (4) are repealed on 31 October 2013.
 (6) This subsection applies to the following sound recordings, films, and computer programs:
   (a) a sound recording stored in a material form that is separate from any device or apparatus capable of playing sound recordings:
   (b) a film produced principally for cinematic release, or a copy of that film, or a copy of a substantial part of that film:
