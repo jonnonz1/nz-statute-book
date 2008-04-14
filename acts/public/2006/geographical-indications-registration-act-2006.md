@@ -1,5 +1,5 @@
 # Geographical Indications (Wine and Spirits) Registration Act 2006
-_Consolidation as at 2006-11-21_
+_Consolidation as at 2008-04-14_
 
 ### 1 Title
 This Act is the Geographical Indications (Wine and Spirits) Registration Act 2006.
@@ -21,12 +21,12 @@ In this Act, unless the context requires otherwise,—
   - **bottled** means placed or contained in a bottle or other container used for wine or spirits
   - **committee** means a geographical indications committee established under section 53
   - **country** includes a member of the World Trade Organization established by Article 1 of the WTO Agreement
-  - **Court** means the High Court
+  - **court** means the High Court
   - **foreign geographical indication** has the meaning given to it in section 6(3)
   - **foreign registered geographical indication** has the meaning given to it in section 7(3)
   - **geographical indication** has the meaning given to it in section 6(1)
   - **international agreement** means any bilateral or multilateral treaty, convention, or agreement to which New Zealand is a party, and any arrangement between New Zealand and any other country, concerning the protection of geographical indications
-  - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
+  - **ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **New Zealand Geographic Board** means the New Zealand Geographic Board established under section 3 of the New Zealand Geographic Board Act 1946
   - **New Zealand geographical indication** has the meaning given to it in section 6(2)
   - **New Zealand registered geographical indication** has the meaning given to it in section 7(2)
@@ -39,7 +39,7 @@ In this Act, unless the context requires otherwise,—
   - **Surveyor-General** means the Surveyor-General appointed under section 5 of the Cadastral Survey Act 2002
   - **trade** means any trade, business, industry, profession, occupation, activity of commerce, or undertaking relating to the supply or acquisition of goods
   - **TRIPS Agreement** means the Agreement on Trade-Related Aspects of Intellectual Property set out in Annex 1C to the WTO Agreement
-  - **wine** has the same meaning as grape wine in section 4(1) of the Wine Act 2003
+  - **wine** has the same meaning as in section 4(1) of the Wine Act 2003
   - **working day** means a day of the week other than—
     (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's Birthday, and Labour Day; and
     (b) the day observed in the appropriate area as the anniversary of the province of which the area forms part; and
@@ -171,9 +171,11 @@ The Registrar must not register a foreign geographical indication that is not, o
 
 ### 20 Registrar may impose conditions when registering homonymous geographical indication
 (1) For the purposes of section 19, the Registrar may register the homonymous geographical indication with conditions, or alter the register under sections 46 and 47 to include conditions for the use of the earlier registered geographical indication, or both.
-(2) In deciding what conditions (if any) to impose under subsection (1), the Registrar must take into account—Restrictions on use of registered geographical indications
+(2) In deciding what conditions (if any) to impose under subsection (1), the Registrar must take into account—
   (a) the need for the equitable treatment of the producers of the wines or spirits to which the geographical indications relate; and
   (b) the need to ensure that consumers are not misled.
+
+**Restrictions on use of registered geographical indications**
 
 ### 21 Restriction on use of New Zealand registered geographical indication for wine
 A person may use a New Zealand registered geographical indication or indications in trade in New Zealand in relation to a wine only if—
@@ -211,7 +213,7 @@ For the purposes of sections 21 to 25, the use by a person (A) of any or all of 
 ### 27 Wine or spirit never in New Zealand or in transit only
 The restrictions on the use of a registered geographical indication in sections 21 to 24 do not apply in respect of a wine or spirit that is—
   (a) never in New Zealand; or
-  (b) in New Zealand only for the purpose of transit from 1 country to another, neither of which is New Zealand.
+  (b) in New Zealand only for the purpose of transit from one country to another, neither of which is New Zealand.
 
 ### 28 Bottling pre-dating registration of registered geographical indication
 The restrictions on the use of a registered geographical indication in sections 21 to 24 do not apply in respect of a wine or spirit that was bottled or was being bottled before the registered geographical indication relating to the wine or spirit was registered under this Act.
@@ -252,7 +254,7 @@ A person who contravenes any of sections 21 to 24 contravenes section 9 of the F
 
 ### 34 Registrar
 (1) There must be a Registrar of Registered Geographical Indications appointed under the State Sector Act 1988.
-(2) The Registrar must be an officer or employee of the Ministry, and his or her appointment may be held either separately or in conjunction with any other office in the Ministry.
+(2) The Registrar must be an officer or employee of the ministry, and his or her appointment may be held either separately or in conjunction with any other office in the ministry.
 
 ### 35 Registrar's seal
 (1) The Registrar must have and use a seal of office bearing the impression of the New Zealand Coat of Arms and having inscribed in the margin the words Registrar of Registered Geographical Indications, New Zealand.
@@ -344,25 +346,25 @@ If satisfied that there is an obvious error in, or omission from, the register, 
 **Appeals**
 
 ### 48 Appeals in relation to Registrar's decisions
-A person who is aggrieved by a decision of the Registrar under this Act may appeal to the Court.
+A person who is aggrieved by a decision of the Registrar under this Act may appeal to the court.
 
 ### 49 Notice of appeal
-Notice of an appeal under section 48 must be filed in the Court and served on the Registrar within 20 working days after the date on which the decision appealed against was given.
+Notice of an appeal under section 48 must be filed in the court and served on the Registrar within 20 working days after the date on which the decision appealed against was given.
 
 ### 50 Hearing of appeal
-(1) On an appeal, the Court must hear the Registrar and the parties.
-(2) An appeal must be heard only on the materials stated by the Registrar unless a party, either in the manner prescribed or by leave of the Court, brings forward further material for the consideration of the Court.
+(1) On an appeal, the court must hear the Registrar and the parties.
+(2) An appeal must be heard only on the materials stated by the Registrar unless a party, either in the manner prescribed or by leave of the court, brings forward further material for the consideration of the court.
 (3) In the case of an appeal against the acceptance of an application for registration of a geographical indication, or the registration of a geographical indication,—
-  (a) no further grounds are permitted by the person opposing the application or registration, other than those stated by the person opposing, except with the permission of the Court; and
+  (a) no further grounds are permitted by the person opposing the application or registration, other than those stated by the person opposing, except with the permission of the court; and
   (b) if further grounds of objection are permitted, the applicant for registration may, on giving notice as prescribed in regulations made under section 57, withdraw the application without paying the costs of the person opposing.
 
 ### 51 Determination of appeal
-In determining an appeal, the Court may—
+In determining an appeal, the court may—
   (a) confirm, modify, or reverse the Registrar's decision or any part of it:
   (b) exercise any of the powers that could have been exercised by the Registrar in relation to the matter to which the appeal relates.
 
 ### 52 Provisions pending determination of appeal
-The decision to which an appeal under this Act relates remains in full force pending the determination of the appeal unless the Court orders otherwise.
+The decision to which an appeal under this Act relates remains in full force pending the determination of the appeal unless the court orders otherwise.
 
 **Geographical indications committees**
 
