@@ -1,5 +1,5 @@
 # Geographical Indications Act 1994
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-04-14_
 
 > An Act to provide for the registration and protection of geographical indications in relation to goods
 
