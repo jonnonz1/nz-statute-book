@@ -1,5 +1,5 @@
 # Financial Reporting Act 1993
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-05-02_
 
 > An Act to—aRequire issuers of securities to the public to file financial statements that comply with generally accepted accounting practice and give a true and fair view of their affairs; andbPrescribe requirements for financial reporting by other entities; andcEstablish an Accounting Standards Review Board and define its functions and powers; anddGive legal force to accounting standards approved by the Board; andeProvide for related matters
 
@@ -26,9 +26,9 @@ _Consolidation as at 2007-09-03_
   - **Department** has the same meaning as in section 2 of the Public Finance Act 1989
   - **Director** means,—
     (a) In relation to a company, a person occupying the position of a director of the company by whatever name called:
-    (b) In relation to a partnership (other than a special partnership), a partner:
-    (c) In relation to a special partnership, any general partner:
-    (d) In relation to a body corporate or unincorporate, other than a company or a partnership or a special partnership, a person occupying a position in the body that is comparable with that of a director of a company:
+    (b) In relation to a partnership (other than a special partnership or limited partnership), a partner:
+    (c) In relation to a special partnership or limited partnership, any general partner:
+    (d) In relation to a body corporate or unincorporate, other than a company or a partnership or a special partnership or limited partnership, a person occupying a position in the body that is comparable with that of a director of a company:
     (e) In relation to a unit trust (within the meaning of section 2 of the Unit Trusts Act 1960), the manager of the unit trust and, where the manager is a company, every director of that company:
     (f) In relation to any other person, that person:
   - **Entity** means—
