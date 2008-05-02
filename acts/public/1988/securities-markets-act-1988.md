@@ -1,5 +1,5 @@
 # Securities Markets Act 1988
-_Consolidation as at 2008-02-29_
+_Consolidation as at 2008-05-02_
 
 ### 1 Short Title and commencement
 (1) This Act is the Securities Markets Act 1988.
@@ -65,9 +65,9 @@ _Consolidation as at 2008-02-29_
     (c) excludes any dealings exempted by regulations made under section 49D
   - **director** means—
     (a) in relation to a company, any person occupying the position of a director of the company by whatever name called:
-    (b) in relation to a partnership (other than a special partnership), any partner:
-    (c) in relation to a special partnership, any general partner:
-    (d) in relation to a body corporate or unincorporate, other than a company, partnership, or special partnership, any person occupying a position in the body that is comparable with that of a director of a company:
+    (b) in relation to a partnership (other than a special partnership or limited partnership), any partner:
+    (c) in relation to a special partnership or limited partnership, any general partner:
+    (d) in relation to a body corporate or unincorporate, other than a company, partnership, or special partnership or limited partnership, any person occupying a position in the body that is comparable with that of a director of a company:
     (e) in relation to any other person, that person
   - **directors' and officers' disclosure obligation** means any of sections 19T to 19V and any regulations with which those sections require compliance
   - **dispose of** —
@@ -1214,7 +1214,7 @@ If a direction is given under section 36ZO, the Commission—
     (ii) the terms of the direction; and
     (iii) the reasons for its opinion; and
   (b) must give those persons an opportunity to be heard and represented by counsel at a meeting of the Commission after the direction is given; and
-  (c) may also give notice to any other person of the matters in paragraph
+  (c) may also give notice to any other person of the matters in paragraph (a).
 
 ### 36ZU Effect of directions to exchanges
 (1) A direction under section 36ZO has effect for the period specified in it (which may be up to 21 days) and, during that period, the registered exchange must comply with the direction and must not allow any trading to take place contrary to it.
