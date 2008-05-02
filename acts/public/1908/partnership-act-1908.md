@@ -1,5 +1,5 @@
 # Partnership Act 1908
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-05-02_
 
 > An Act to consolidate certain enactments of the General Assembly relating to the law of partnership
 
@@ -227,75 +227,74 @@ In settling accounts between the partners after a dissolution of partnership the
 ## Part 2 — Special partnerships
 
 ### 48 Part 1 not to affect special partnerships
-Part 1 of this Act shall not affect special partnerships except in so far as the general law relating to partners is declared by the succeeding provisions hereof to be applicable to special partnerships.
+[Repealed]
 
 ### 49 Special partnerships may be formed, except for banking and insurance
-Special partnerships may be formed for the transaction of agricultural, mining, mercantile, mechanical, manufacturing, or other business, by any number of persons, upon the terms and subject to the conditions and liabilities hereinafter prescribed:
-  Provided that nothing herein shall authorise any such partnership for the purpose either of banking or insurance.
+[Repealed]
 
 ### 50 General and special partners, and their liabilities
-Every special partnership may consist of general partners, who shall be jointly and severally responsible as general partners are now by law, and of persons, to be called special partners, who shall contribute to the common stock specific sums in money as capital, beyond which they shall not be responsible for any debt of the partnership except in cases hereinafter provided for.
+[Repealed]
 
 ### 51 Certificates to be signed by partners
-All the persons forming any special partnership shall, before commencing business, sign a certificate containing—
-  (a) The style of the firm under which the partnership is to be conducted;
-  (b) The names and places of residence of all the partners, distinguishing the general from the special partners;
-  (c) The amount of capital which each special partner contributes, and also (if any) the amount contributed by the general partners to the common stock;
-  (d) The general nature of the business to be transacted;
-  (e) The principal or only place at which it is to be transacted; and
-  (f) The time when such partnership is to commence and when it is to terminate.
+[Repealed]
 
 ### 52 Style of partnership
-Such style or firm shall contain the names of general partners only, or the name of one such partner, with (in either case) the addition of the words and Company, and the general partners only shall transact the business of the partnership.
+[Repealed]
 
 ### 53 When special partner deemed general partner
-If in carrying on such business or in any contract connected therewith the name of any special partner is used with his consent or privity, or if he personally makes any contract respecting the concerns of the partnership, he shall be deemed to be a general partner with respect to the contract or matter in which his name has been so used or as to which he so contracted.
+[Repealed]
 
 ### 54 Certificates to be acknowledged and registered
-(1) A special partnership shall not be deemed formed until such certificate as aforesaid is acknowledged by each partner before some Justice, and registered in the office of the High Court in a book to be kept for that purpose by the Registrar of such Court, open to public inspection.
-(2) Every such certificate shall be so registered at the High Court office at or nearest to the principal or only place at which the business of the partnership is to be transacted.
+[Repealed]
 
 ### 55 False statement in certificate: partners liable as general partners
-If any false statement is made in any such certificate, all the persons interested in the special partnership shall be liable for all the engagements thereof as general partners:
-  Provided that no clerical error or matter not of substance shall be deemed false within the meaning of this section unless some person is prejudiced thereby, in which case the special partners shall be liable to the person so prejudiced.
+[Repealed]
 
 ### 56 Copy of certificate to be published
-(1) A copy of such certificate shall be published once at least in the Gazette and twice in some newspaper published at the intended principal place of business of the special partnership, or at the nearest place to such place of business where a newspaper is published.
-(2) If such publication is not so made, the partnership shall be deemed general.
+[Repealed]
 
 ### 57 Duration of partnerships
-A special partnership shall not be entered into for a longer period than 7 years, but any such partnership may be renewed at the end of that period or at the termination of any shorter period for which it was formed.
+[Repealed]
 
 ### 58 Certificate to be signed on renewal
-(1) Upon every renewal or continuation beyond the time originally agreed on for the duration of a special partnership a certificate thereof shall be signed, acknowledged, registered, and published in like manner as the original certificate.
-(2) Every partnership renewed or continued otherwise than in conformity with the provisions of this section shall be deemed general.
+[Repealed]
 
 ### 59 Capital stock not to be withdrawn
-During the continuance of any special partnership no part of the certified capital thereof shall be withdrawn, nor shall any division of interest or profit be made so as to reduce such capital below the aggregate amount stated in the certificate.
+[Repealed]
 
 ### 60 When special partners liable to refund capital withdrawn
-(1) If any part of such capital is withdrawn, or any such division is made, so that at any time during the continuance or at the termination of the special partnership the assets are insufficient to pay the partnership debts, the special partners shall be severally liable to refund every sum received by them respectively in diminution of such capital or by way of such interest or profit.
-(2) All such sums may be recovered as money had and received by them respectively to the use of the general partners; and may in the case of any judgment being obtained against the general partners, be recovered by the plaintiff against the special partners, or any of them, by process of execution issued under such judgment by leave of the High Court.
+[Repealed]
 
 ### 61 Suits to be by and against general partners
-All suits respecting the business of any special partnership shall be prosecuted by and against the general partners only, except in the cases in which it is provided by this Act that special partners shall or may be deemed general partners, in which cases every special partner who beomes liable as a general partner may be joined or not in the action as a defendant, at the discretion of the party suing.
+[Repealed]
 
 ### 62 Dissolution, how effected
-A dissolution of a special partnership shall not take place, except by operation of law, before the time specified in the certificate, unless a notice of such dissolution is signed, acknowledged, registered, and published in like manner as the original certificate.
+[Repealed]
 
 ### 63 Cases not specially provided for
-In all cases not hereinbefore otherwise provided for all the members of a special partnership shall be subject to the liabilities and entitled to the rights of general partners.
+[Repealed]
 
 ### 64 Accounting
-The general partners shall be liable to account to each other and to the special partners for their management of the partnership concerns as other partners are by law.
+[Repealed]
 
 ### 65 Frauds by partners
-Every partner guilty of any fraud in the affairs of the partnership shall be liable civilly to the party injured to the extent of his damage, and shall also be liable to an indictment for a crime punishable by fine or imprisonment, or both, at the discretion of the Court by which he is tried.
+[Repealed]
 
 ### 66 Books of account to be kept, and to be open to inspection
-If the general partners do not at all times cause regular books of account to be kept, or do not have the same open at all reasonable times to the inspection of the special partners, such special partners shall be entitled to have the special partnership dissolved and the accounts thereof taken by the High Court.
+[Repealed]
 
 ### 67 Liability of special partners if books not kept, etc
-If the books of any special partnership are, with the knowledge or privity of the special partners or any of them, kept incorrectly, or contain any false or deceptive entries, whereby the ascertainment of the matters mentioned in sections 59 and 60 hereof are or may be affected, the certified capital of such special partners or such one or more of them having such knowledge or privity shall as against creditors be deemed to have been withdrawn, and they or he shall be liable accordingly under the provisions of the said section 60.
+[Repealed]
 
 ## Schedule Schedule — Enactments consolidated
+
+### 1 Title
+This Act is the Limited Partnerships Act 2008.
+
+### 2 Commencement
+This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+
+## Part 4 — Miscellaneous
+
+### 122 Transitional provision for special partnerships
+Part 2 of the Partnerships Act 1908 continues to apply to a special partnership in existence on the commencement of this Act as if that Part had not been repealed, except that a special partnership must not be renewed under section 57 of that Part.
