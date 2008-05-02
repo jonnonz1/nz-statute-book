@@ -1,5 +1,5 @@
 # Securities Act 1978
-_Consolidation as at 2008-04-09_
+_Consolidation as at 2008-05-02_
 
 > An Act to establish a Securities Commission; and to consolidate and amend the law relating to the offering of securities to the public, and to extend the application thereof
 
@@ -58,9 +58,9 @@ _Consolidation as at 2008-04-09_
     (e) Any such interest or right or a security referred to in paragraph (a) or paragraph (c) of this definition that is declared by regulations not to be a debt security for the purposes of this Act:
   - **Director** means—
     (a) In relation to a company, any person occupying the position of a director of the company by whatever name called:
-    (b) In relation to a partnership (other than a special partnership), any partner:
-    (c) In relation to a special partnership, any general partner:
-    (d) In relation to a body corporate or unincorporate, other than a company, partnership, or special partnership, any person occupying a position in the body that is comparable with that of a director of a company:
+    (b) In relation to a partnership (other than a special partnership or limited partnership), any partner:
+    (c) In relation to a special partnership or limited partnership, any general partner:
+    (d) In relation to a body corporate or unincorporate, other than a company, partnership, or special partnership or limited partnership, any person occupying a position in the body that is comparable with that of a director of a company:
     (e) In relation to any other person, that person:
   - **Distribute** includes—
     (a) Make available, publish, and circulate; and
