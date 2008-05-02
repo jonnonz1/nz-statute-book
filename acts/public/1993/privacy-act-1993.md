@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2008-04-09_
+_Consolidation as at 2008-05-02_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—aTo establish certain principles with respect to—iThe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiAccess by each individual to information relating to that individual and held by public and private sector agencies; andbTo provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcTo provide for matters incidental thereto
 
@@ -1428,69 +1428,70 @@ The income of the Commissioner shall be exempt from income tax.
 
 | Enactment | Public Register Provision |
 | --- | --- |
-| Deeds Registration Act 1908 | Sections 21, 22, and 30 |
-| Industrial and Provident Societies Act 1908 | Section 3D |
-| Incorporated Societies Act 1908 | Section 33 |
-| Occupational Therapy Act 1949 |  |
-| Physiotherapy Act 1949 |  |
-| Dietitians Act 1950 |  |
-| Births and Deaths Registration Act 1951 |  |
-| Valuation of Land Act 1951 |  |
-| Industrial and Provident Societies Amendment Act 1952 |  |
-| Land Transfer Act 1952 | Sections 33 and 50 |
-| Patents Act 1953 | Sections 83 and 84 |
-| Designs Act 1953 | Sections 25 and 27 |
-| Companies Act 1955 | Sections 7, 105, 111, 118, 119, 128, and 200 |
-| Marriage Act 1955 | Section 7 |
-| Electoral Act 1956 |  |
-| Building Societies Act 1965 | section 121A |
-| Land Transfer Regulations 1966 | Regulation 5 |
-| Medical Auxiliaries Act 1966 |  |
-| Insolvency Act 2006 | Sections 62, 368 |
-| Pharmacy Act 1970 |  |
-| Local Government Act 1974 |  |
-| Local Elections and Polls Act 1976 |  |
-| Optometrists and Dispensing Opticians Act 1976 |  |
-| Plumbers, Gasfitters, and Drainlayers Act 1976 | Section 20 |
-| Nurses Act 1977 |  |
-| Securities Act 1978 | Section 51 |
-| Psychologists Act 1981 |  |
-| Chiropractors Act 1982 |  |
-| Dog Control and Hydatids Act 1982 |  |
-| Friendly Societies and Credit Unions Act 1982 | Sections 5, 40, and 130 |
-| Transport (Vehicle and Driver Registration and Licensing) Act 1986 | Section 18 |
-| Dental Act 1988 |  |
-| Rating Powers Act 1988 |  |
-| Motor Vehicle Securities Act 1989 |  |
-| Radiocommunications Act 1989 | Section 5, 6, and 28 |
-| Sale of Liquor Act 1989 | Sections 220 and 221 |
-| Building Act 1991 |  |
-| Companies Act 1993 | Sections 87, 88, 189, and 360 |
-| Electoral Act 1993 | Sections 100, 101, 103, 104, 105, 106, 107, 108, 109, 211, and 212 |
-| Te Ture Whenua Maori Act 1993 | Section 263 |
-| Births, Deaths, and Marriages Registration Act 1995 | Sections 5, 7(2), 8, 24, 25, 34, 36, 48(3), 50, 53, 56, 58, 62D |
-| Medical Practitioners Act 1995 |  |
-| Dog Control Act 1996 | Section 34 |
-| Fisheries Act 1996 | Sections 98, 124 |
-| Land Transport Act 1998 | Section 199 |
-| Rating Valuations Act 1998 | Section 7 |
 | Animal Products Act 1999 | Sections 18, 52, 73, and 112 |
-| Personal Property Securities Act 1999 | Sections 139 and 171 to 174 |
-| Local Electoral Act 2001 | Sections 38 and 109 |
-| Chartered Professional Engineers of New Zealand Act 2002 | Sections 16 to 19 |
-| Climate Change Response Act 2002 | Sections 18, 20, 26, 27, and 28 |
-| Local Government (Rating) Act 2002 | Section 27 |
-| Trade Marks Act 2002 | Section 181 |
-| Motor Vehicle Sales Act 2003 | Sections 52 to 73 |
-| Social Workers Registration Act 2003 | Part 7 |
-| Health Practitioners Competence Assurance Act 2003 | section 137 |
-| Gambling Act 2003 | section 204 |
-| Wine Act 2003 | Sections 17, 47, and 73 |
+| Births and Deaths Registration Act 1951 |  |
+| Births, Deaths, and Marriages Registration Act 1995 | Sections 5, 7(2), 8, 24, 25, 34, 36, 48(3), 50, 53, 56, 58, 62D |
+| Building Act 1991 |  |
 | Building Act 2004 | Sections 216, 273, and 298 |
+| Building Societies Act 1965 | section 121A |
+| Chartered Professional Engineers of New Zealand Act 2002 | Sections 16 to 19 |
+| Chiropractors Act 1982 |  |
 | Civil Union Act 2004 | section 29 |
-| Secondhand Dealers and Pawnbrokers Act 2004 | Section 78 |
-| Veterinarians Act 2005 | Section 22 |
+| Climate Change Response Act 2002 | Sections 18, 20, 26, 27, and 28 |
+| Companies Act 1955 | Sections 7, 105, 111, 118, 119, 128, and 200 |
+| Companies Act 1993 | Sections 87, 88, 189, and 360 |
+| Deeds Registration Act 1908 | Sections 21, 22, and 30 |
+| Dental Act 1988 |  |
+| Designs Act 1953 | Sections 25 and 27 |
+| Dietitians Act 1950 |  |
+| Dog Control Act 1996 | Section 34 |
+| Dog Control and Hydatids Act 1982 |  |
+| Electoral Act 1956 |  |
+| Electoral Act 1993 | Sections 100, 101, 103, 104, 105, 106, 107, 108, 109, 211, and 212 |
+| Fisheries Act 1996 | Sections 98, 124 |
+| Friendly Societies and Credit Unions Act 1982 | Sections 5, 40, and 130 |
+| Gambling Act 2003 | section 204 |
+| Health Practitioners Competence Assurance Act 2003 | section 137 |
+| Incorporated Societies Act 1908 | Section 33 |
+| Industrial and Provident Societies Act 1908 | Section 3D |
+| Industrial and Provident Societies Amendment Act 1952 |  |
+| Insolvency Act 2006 | Sections 62, 368 |
+| Land Transfer Act 1952 | Sections 33 and 50 |
+| Land Transfer Regulations 1966 | Regulation 5 |
+| Land Transport Act 1998 | Section 199 |
+| Limited Partnerships Act 2008 | Section 54 |
+| Local Elections and Polls Act 1976 |  |
+| Local Electoral Act 2001 | Sections 38 and 109 |
+| Local Government Act 1974 |  |
+| Local Government (Rating) Act 2002 | Section 27 |
+| Marriage Act 1955 | Section 7 |
+| Medical Auxiliaries Act 1966 |  |
+| Medical Practitioners Act 1995 |  |
+| Motor Vehicle Sales Act 2003 | Sections 52 to 73 |
+| Motor Vehicle Securities Act 1989 |  |
+| Nurses Act 1977 |  |
+| Occupational Therapy Act 1949 |  |
+| Optometrists and Dispensing Opticians Act 1976 |  |
+| Patents Act 1953 | Sections 83 and 84 |
+| Personal Property Securities Act 1999 | Sections 139 and 171 to 174 |
+| Pharmacy Act 1970 |  |
+| Physiotherapy Act 1949 |  |
+| Plumbers, Gasfitters, and Drainlayers Act 1976 | Section 20 |
+| Psychologists Act 1981 |  |
+| Radiocommunications Act 1989 | Section 5, 6, and 28 |
+| Rating Powers Act 1988 |  |
+| Rating Valuations Act 1998 | Section 7 |
 | Registered Architects Act 2005 | sections 18 to 23 |
+| Sale of Liquor Act 1989 | Sections 220 and 221 |
+| Secondhand Dealers and Pawnbrokers Act 2004 | Section 78 |
+| Securities Act 1978 | Section 51 |
+| Social Workers Registration Act 2003 | Part 7 |
+| Te Ture Whenua Maori Act 1993 | Section 263 |
+| Trade Marks Act 2002 | Section 181 |
+| Transport (Vehicle and Driver Registration and Licensing) Act 1986 | Section 18 |
+| Valuation of Land Act 1951 |  |
+| Veterinarians Act 2005 | Section 22 |
+| Wine Act 2003 | Sections 17, 47, and 73 |
 
 ## Schedule 3 — Information matching provisions
 
