@@ -1,5 +1,5 @@
 # Limited Partnerships Act 2008
-_Consolidation as at 2008-03-13_
+_Consolidation as at 2008-05-02_
 
 ### 1 Title
 This Act is the Limited Partnerships Act 2008.
