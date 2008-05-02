@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2008-02-29_
+_Consolidation as at 2008-05-02_
 
 > An Act to reform the law relating to companies, and, in particular,—aTo reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbTo provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcTo define the relationships between companies and their directors, shareholders, and creditors; anddTo encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeTo provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -5226,8 +5226,8 @@ A company must not apply to be removed from the New Zealand register under secti
 ### 357 Registrar and Deputy Registrars of Companies
 (1) There must be—each of whom must be appointed under the State Sector Act 1988.
   (a) A Registrar of Companies; and
-  (b) As many Deputy Registrars of Companies as may be necessary for the purposes of this Act,—
-(2) Subject to the control of the Registrar a Deputy Registrar has and may exercise the powers, duties and functions of the Registrar under this Act.
+  (b) As many Deputy Registrars of Companies as may be necessary for the purposes of this Act and the Limited Partnerships Act 2008,—
+(2) Subject to the control of the Registrar a Deputy Registrar has and may exercise the powers, duties and functions of the Registrar under this Act and the Limited Partnerships Act 2008.
 (3) The fact that a Deputy Registrar exercises those powers, duties, or functions is conclusive evidence of the authority to do so.
 (4) The person holding office as Registrar of Companies under the Companies Act 1955 and every person holding office as a Deputy Registrar of Companies under that Act, immediately before the commencement of this Act, shall be deemed to have been appointed as Registrar of Companies or as a Deputy Registrar of Companies, as the case may be, in accordance with this section.
 
