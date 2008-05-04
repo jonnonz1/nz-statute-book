@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2008-05-02_
+_Consolidation as at 2008-05-04_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—aTo establish certain principles with respect to—iThe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiAccess by each individual to information relating to that individual and held by public and private sector agencies; andbTo provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcTo provide for matters incidental thereto
 
@@ -1452,6 +1452,7 @@ The income of the Commissioner shall be exempt from income tax.
 | Friendly Societies and Credit Unions Act 1982 | Sections 5, 40, and 130 |
 | Gambling Act 2003 | section 204 |
 | Health Practitioners Competence Assurance Act 2003 | section 137 |
+| Immigration Advisers Licensing Act 2007 | section 77 |
 | Incorporated Societies Act 1908 | Section 33 |
 | Industrial and Provident Societies Act 1908 | Section 3D |
 | Industrial and Provident Societies Amendment Act 1952 |  |
