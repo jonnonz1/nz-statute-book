@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2008-03-27_
+_Consolidation as at 2008-05-04_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
@@ -2885,6 +2885,11 @@ The enactments specified in Schedule 3 to this Act are hereby amended in the man
 |  | 142(1)(eb) | Assisting person to enter New Zealand unlawfully |
 |  | 142(1)(ec) | Assisting completion of arrival card in false or misleading manner |
 |  | 142(2) | Modifying form after completion and signing |
+| Immigration Advisers Licensing Act 2007 | 63(1)(a) | Provision of immigration advice unless licensed or exempt |
+| 64(1) | Holding out as immigration adviser unless licensed or exempt |  |
+| 65(1) | Holding out as licensed immigration adviser |  |
+| 67(1)(a) | Asking for or receiving fee or reward for immigration advice when neither licensed nor exempt |  |
+| 68(1)(a) | Employing or contracting unlicensed or non-exempt person as immigration adviser. |  |
 | Insolvency Act 2006 | 419 to 428, 430 | Offences by bankrupt |
 | The Inspector-General of Intelligence and Security Act 1996 | 28 | Unauthorised making or disclosure of records. |
 | The Intelligence and Security Committee Act 1996 | 20 | Unauthorised making or disclosure of records |
