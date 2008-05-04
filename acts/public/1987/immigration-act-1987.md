@@ -1,5 +1,5 @@
 # Immigration Act 1987
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-05-04_
 
 > An Act generally to reform the law relating to immigration, and in particular to remove the need for persons who are in New Zealand unlawfully to be dealt with by way of criminal prosecution
 
@@ -3270,7 +3270,7 @@ In any proceedings or process of a kind referred to in section 141B(2) in relati
   (g) Resists or intentionally obstructs any visa officer or immigration officer or member of the Police in the exercise of the powers of that officer or member under this Act; or
   (h) Not being a visa officer or an immigration officer or a refugee status officer, personates or pretends to be a visa officer or immigration officer or refugee status officer; or
   (i) For the purpose of encouraging, inducing, deterring, or preventing immigration to New Zealand of any person or class of persons, publishes, disseminates, or causes or procures the publication of any information or representations knowing that the information is, or the representations are, false or misleading; or
-  (j) wilfully misleads any person or acts negligently or unprofessionally (including charging excessively) while assisting a person, for financial reward, in any application for a permit or visa, or in any expression of interest in residence under section 13D, or in any proceedings before the Removal Review Authority or the Residence Review Board, or in any claim for refugee status.
+  (j)
 (2) Every person commits an offence against this Act who, not being a visa officer, an immigration officer, or a refugee status officer,—
   (a) after the person to whom a form required to be completed for the purposes of this Act relates has signed it and declared its contents to be true,—
     (i) alters information entered on it; or
