@@ -1,5 +1,5 @@
 # Ngai Tahu Claims Settlement Act 1998
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2008-05-23_
 
 > An Act—aTo record the apology given by the Crown to Ngai Tahu in the deed of settlement executed on 21 November 1997 by the then Prime Minister the Right Honourable James Brendan Bolger, for the Crown, and Te Runanga o Ngai Tahu; andbTo give effect to certain provisions of that deed of settlement, being a deed that settles the Ngai Tahu claims
 
@@ -3367,15 +3367,7 @@ The date on which the matters provided for in this Part take effect is the settl
 (5) This section does not limit the jurisdiction of the Maori Land Court in the implementation of sections 14 and 15 of the deed of settlement.
 
 ### 462 Jurisdiction of Tribunal to consider claims
-Section 6 of the Treaty of Waitangi Act 1975 is amended by adding the following subsections:
-  (9) Despite anything in this Act or in any other Act or rule of law, on and from the settlement date, the Tribunal does not have jurisdiction to inquire or further inquire into, or to make any finding or recommendation in respect of,—
-    (a) Any or all of the Ngai Tahu claims, as defined in section 9 of the Ngai Tahu Claims Settlement Act 1998; or
-    (b) The deed of settlement, as defined in section 8 of the Ngai Tahu Claims Settlement Act 1998; or
-    (c) The benefits provided to Ngai Tahu under that deed of settlement or the Ngai Tahu Claims Settlement Act 1998; or
-    (d) The Ngai Tahu Claims Settlement Act 1998.
-  (10) Subsection (9) does not exclude the jurisdiction of the Tribunal in respect of the interpretation or implementation of the deed of settlement or the Ngai Tahu Claims Settlement Act 1998.
-  (11) Without limiting subsection (9), the Tribunal does not have jurisdiction, in relation to licensed land (within the meaning of the Crown Forest Assets Act 1989) in the takiwa of Ngai Tahu Whanui, to make a recommendation for compensation or for the return to Maori ownership of the land.
-  (12) In this section, settlement date has the meaning given to it in section 8 of the Ngai Tahu Claims Settlement Act 1998.
+[Repealed]
 
 ### 463 Enactments relating to resumptive memorials on land within Ngai Tahu claim area no longer to apply
 (1) Nothing in—applies in relation to any land within the Ngai Tahu claim area.
