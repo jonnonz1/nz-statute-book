@@ -1,27 +1,29 @@
 # Te Arawa Lakes Settlement Act 2006
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2008-05-23_
 
 ## Preamble
-BackgroundTreaty of Waitangi claim and settlement negotiationsTe Arawa Lakes Trust
 (1) Recitals (2) to (12) of this Preamble present, in summary form, the background to the Te Arawa lakes claims that is set out in Part 7 of the deed of settlement:
-(2) In 1840, lakes Ngahewa, Ngapouri, Okareka, Okaro, Okataina, Rerewhakaaitu, Rotoehu, Rotoiti, Rotoma, Rotomahana, Rotorua, Tarawera, Tikitapu, and Tutaeinanga provided food, shelter, economic resources, and primary transport routes for Te Arawa. To Te Arawa, the lakes were taonga, and their relationship with the lakes and environs was, and continues to be, the foundation of their identity, cultural integrity, wairua, tikanga, and kawa:
-(3) Between 1840 and 1880, Te Arawa played a major role in the developing tourism industry in the area, retaining a significant degree of control over access and transport to the attractions of the area. Te Arawa considered that the Crown's initiatives such as the Fenton agreement of 1880 and the Thermal-Springs Districts Act 1881 protected and acknowledged their relationship with the lakes:
+Background
+(2) In 1840, lakes Ngāhewa, Ngāpouri, Ōkareka, Ōkaro, Ōkataina, Rerewhakaaitu, Rotoehu, Rotoiti, Rotomā, Rotomahana, Rotorua, Tarawera, Tikitapu, and Tutaeinanga provided food, shelter, economic resources, and primary transport routes for Te Arawa. To Te Arawa, the lakes were taonga, and their relationship with the lakes and environs was, and continues to be, the foundation of their identity, cultural integrity, wairua, tikanga, and kawa:
+(3) Between 1840 and 1880, Te Arawa played a major role in the developing tourism industry in the area, retaining a significant degree of control over access and transport to the attractions of the area. Te Arawa considered that the Crown’s initiatives such as the Fenton agreement of 1880 and the Thermal-Springs Districts Act 1881 protected and acknowledged their relationship with the lakes:
 (4) Over time, however, a number of Crown actions and omissions in relation to the lakes have caused grievance to Te Arawa:
 (5) Trout and other exotic fish were introduced into the lakes from the 1870s, seriously depleting the indigenous fisheries and forcing Te Arawa to rely increasingly on the introduced species. The introduction of a fishing licence regime in 1888 and the ongoing propagation of trout drew protests and petitions from Te Arawa in the late 19th and early 20th centuries:
-(6) In 1908, the Government legislated to address issues Te Arawa had raised regarding the depletion of indigenous fish, the introduction of fishing licence fees, and the resulting hardship experienced by some Te Arawa. The Fisheries Amendment Act 1908 provided Te Arawa with 20 fishing licences at a nominal fee. At the second reading of that Bill, Premier Ward stated that there were Maori in the thermal-springs district whose condition required natural food to be provided to them:
-(7) In 1909, following what Te Arawa regarded as a series of challenges to their customary rights to the lakes, Te Arawa decided to seek clarification from the courts as to the ownership of the lakes. The Crown disputed Te Arawa's claim to ownership of the lakes:
-(8) In 1912, the Supreme Court upheld Te Arawa's rights to have their claims to ownership of the lakes investigated by the Native Land Court. Te Arawa filed an application for a title investigation in 1913. Delays, including those caused by the Crown's refusal to provide the necessary survey plan to the Court, meant that the Native Land Court did not begin hearing Te Arawa's application for title until 1918. The proceeding was adjourned after several weeks of hearing. In 1920, on the eve of the hearings being resumed, the Crown approached Te Arawa to negotiate a settlement of their respective claims to ownership of the lakes:
+(6) In 1908, the Government legislated to address issues Te Arawa had raised regarding the depletion of indigenous fish, the introduction of fishing licence fees, and the resulting hardship experienced by some Te Arawa. The Fisheries Amendment Act 1908 provided Te Arawa with 20 fishing licences at a nominal fee. At the second reading of that Bill, Premier Ward stated that there were Māori in the thermal-springs district whose condition required natural food to be provided to them:
+(7) In 1909, following what Te Arawa regarded as a series of challenges to their customary rights to the lakes, Te Arawa decided to seek clarification from the courts as to the ownership of the lakes. The Crown disputed Te Arawa’s claim to ownership of the lakes:
+(8) In 1912, the Supreme Court upheld Te Arawa’s rights to have their claims to ownership of the lakes investigated by the Native Land Court. Te Arawa filed an application for a title investigation in 1913. Delays, including those caused by the Crown’s refusal to provide the necessary survey plan to the court, meant that the Native Land Court did not begin hearing Te Arawa’s application for title until 1918. The proceeding was adjourned after several weeks of hearing. In 1920, on the eve of the hearings being resumed, the Crown approached Te Arawa to negotiate a settlement of their respective claims to ownership of the lakes:
 (9) In 1922, Te Arawa and the Crown reached an out-of-court agreement on the ownership question. Under the agreement, Te Arawa admitted that the fee simple of the lakes was vested in the Crown. In return, the Crown admitted the rights of Te Arawa to the burial reserves in all the lakes and their ancient fishing rights. The agreement also included provision by the Crown to Te Arawa of 40 licences to fish for trout at a nominal fee, together with an annuity of £6,000:
-(10) There was no provision in the 1922 agreement for the annuity to be reviewed. The value of the annuity paid to the Arawa Maori Trust Board diminished over time, to the point where it did not make a significant contribution to the affairs of the Board:
+(10) There was no provision in the 1922 agreement for the annuity to be reviewed. The value of the annuity paid to the Arawa Māori Trust Board diminished over time, to the point where it did not make a significant contribution to the affairs of the Board:
 (11) Both before and after the 1922 agreement, the Crown and local government, acting under legislation, increasingly assumed responsibility for regulating activities, including discharges, impacting on the lakes:
 (12) From the late 19th century, native timber around the edges of Lakes Rotorua and Rotoiti was milled and vegetation cleared for farming. Later, septic tanks were installed. These developments resulted in an increased nutrient load flowing into the lakes. Excess nitrogen and phosphorus led to the growth of blue-green algae in the lakes. Te Arawa state that environmental degradation of the lakes has affected the mana and wairua of the lakes for Te Arawa:
-(13) The Arawa Maori Trust Board, on behalf of Te Arawa, registered a claim (Wai 240) in relation to the annuity issue and other lakes-related grievances with the Waitangi Tribunal in April 1987, after the legislation was amended to allow the hearing of claims dating back to 1840:
-(14) In 1989, the Arawa Maori Trust Board entered into preliminary discussions about direct negotiations with the Crown to settle Te Arawa's claims. In September 1997 the Crown agreed to negotiate Te Arawa's lakes claims separately from their other historical claims:
-(15) In December 1998, the Crown recognised the mandate of the Arawa Maori Trust Board to represent Te Arawa in negotiations for a settlement with the Crown. Terms of negotiation specifying the scope, objectives, and general procedures for negotiations were signed by the negotiators appointed to represent the Board in March 1999:
-(16) In May 2001, the Crown made an offer to the Arawa Maori Trust Board in settlement of Te Arawa's historical Treaty grievances in relation to the Te Arawa lakes. The Crown's offer was rejected by the Board:
-(17) New terms of negotiation were signed by the Crown and the Arawa Maori Trust Board in July 2001. At that time the parties agreed that the settlement would address both Te Arawa's historical Treaty grievances in relation to the lakes and any remaining annuity issues. In December 2003 the Crown made a second settlement offer to the Board. The Board accepted the offer in principle:
-(18) The Crown and the Arawa Maori Trust Board initialled a draft deed of settlement on 15 October 2004. Te Arawa ratified the Crown's settlement offer and entered into a deed of settlement on 18 December 2004. The deed records the matters that give effect to the final settlement of all Te Arawa's historical lakes claims and remaining annuity issues:
-(19) On 11 July 2005, Te Arawa ratified a proposal to set up a new governance arrangement to succeed to the Arawa Maori Trust Board. Te Arawa chose to establish a private trust administered by trustees as the replacement governance structure. The Te Arawa Lakes Trust was established by trust deed dated 22 August 2005 and signed by the following persons, who, as the members of the Arawa Maori Trust Board holding office at the date of the trust deed, are the initial trustees of the Te Arawa Lakes Trust:Andrew Wharehuia RangiheueaHare WiremuPoiti Arama Karaka PirikaPenengaru Delaney-MokeDonald BennettWilliam EmeryCathy DewesRuka HughesSamuel HahungaJoseph MalcolmPutu MihakaNiwa NuriWiari RauhinaGeorge RehuJames SchusterKaiawhiti TahanaTiakiawa TahuriorangiPetera Tapsell:
+Treaty of Waitangi claim and settlement negotiations
+(13) The Arawa Māori Trust Board, on behalf of Te Arawa, registered a claim (Wai 240) in relation to the annuity issue and other lakes-related grievances with the Waitangi Tribunal in April 1987, after the legislation was amended to allow the hearing of claims dating back to 1840:
+(14) In 1989, the Arawa Māori Trust Board entered into preliminary discussions about direct negotiations with the Crown to settle Te Arawa’s claims. In September 1997 the Crown agreed to negotiate Te Arawa’s lakes claims separately from their other historical claims:
+(15) In December 1998, the Crown recognised the mandate of the Arawa Māori Trust Board to represent Te Arawa in negotiations for a settlement with the Crown. Terms of negotiation specifying the scope, objectives, and general procedures for negotiations were signed by the negotiators appointed to represent the Board in March 1999:
+(16) In May 2001, the Crown made an offer to the Arawa Māori Trust Board in settlement of Te Arawa’s historical Treaty grievances in relation to the Te Arawa lakes. The Crown’s offer was rejected by the Board:
+(17) New terms of negotiation were signed by the Crown and the Arawa Māori Trust Board in July 2001. At that time the parties agreed that the settlement would address both Te Arawa’s historical Treaty grievances in relation to the lakes and any remaining annuity issues. In December 2003 the Crown made a second settlement offer to the Board. The Board accepted the offer in principle:
+(18) The Crown and the Arawa Māori Trust Board initialled a draft deed of settlement on 15 October 2004. Te Arawa ratified the Crown’s settlement offer and entered into a deed of settlement on 18 December 2004. The deed records the matters that give effect to the final settlement of all Te Arawa’s historical lakes claims and remaining annuity issues:
+Te Arawa Lakes Trust
+(19) On 11 July 2005, Te Arawa ratified a proposal to set up a new governance arrangement to succeed to the Arawa Māori Trust Board. Te Arawa chose to establish a private trust administered by trustees as the replacement governance structure. The Te Arawa Lakes Trust was established by trust deed dated 22 August 2005 and signed by the following persons, who, as the members of the Arawa Māori Trust Board holding office at the date of the trust deed, are the initial trustees of the Te Arawa Lakes Trust:Andrew Wharehuia RangiheueaHare WiremuPoiti Arama Karaka PirikaPenengaru Delaney-MokeDonald BennettWilliam EmeryCathy DewesRuka HughesSamuel HahungaJoseph MalcolmPutu MihakaNiwa NuriWiari RauhinaGeorge RehuJames SchusterKaiawhiti TahanaTiakiawa TahuriorangiPetera Tapsell.
 
 ### 1 Title
 This Act is the Te Arawa Lakes Settlement Act 2006.
@@ -42,8 +44,8 @@ This Act is the Te Arawa Lakes Settlement Act 2006.
 ### 3 Purpose
 The purpose of this Act is—
   (a) to record the acknowledgements and apology given by the Crown to Te Arawa in the deed of settlement dated 18 December 2004 and signed by—
-    (i) the Minister in charge of Treaty of Waitangi Negotiations, the Honourable Margaret Wilson, and the Minister of Maori Affairs, the Honourable Parekura Horomia, for the Crown; and
-    (ii) Andrew Wharehuia Rangiheuea, Poiti Arama Karaka Pirika, and Roku Adrian Mihinui, by affixing the common seal of the Arawa Maori Trust Board for the Board and for and on behalf of Te Arawa; and
+    (i) the Minister in charge of Treaty of Waitangi Negotiations, the Honourable Margaret Wilson, and the Minister of Māori Affairs, the Honourable Parekura Horomia, for the Crown; and
+    (ii) Andrew Wharehuia Rangiheuea, Poiti Arama Karaka Pirika, and Roku Adrian Mihinui, by affixing the common seal of the Arawa Māori Trust Board for the Board and for and on behalf of Te Arawa; and
   (b) to give effect to certain provisions of the deed of settlement, which is a deed that settles the Te Arawa lakes historical claims and the Te Arawa lakes remaining annuity issues.
 
 ### 4 Act to bind the Crown
@@ -74,10 +76,10 @@ This Act binds the Crown.
   (c) an acknowledgement by the Crown of the statement made by Te Arawa of its cultural, spiritual, historical, and traditional association with the statutory area (the Crown stratum), together with provisions as to the effect of the statutory acknowledgement; and
   (d) the amendment of certain existing place names associated with certain Rotorua lakes, the assignment of specified new place names, or the restoration of certain traditional names; and
   (e) the making of regulations to provide for the Trustees of the Te Arawa Lakes Trust to manage the non-commercial taking of certain indigenous species (defined as included species) from the Te Arawa lakes.
-(6) Part 4 has 4 subparts. Subpart 1 sets out provisions relevant to the incorporation of parts of the deed of settlement by reference into this Act. Subpart 2 provides for the dissolution of the Arawa Maori Trust Board and the transition to the Trustees of the Te Arawa Lakes Trust. Subpart 3 sets out transitional matters relevant to employees and agents of the Arawa Maori Trust Board. Subpart 4 provides for consequential repeals, revocation, and amendments.
-(7) The schedules to this Act set out—
+(6) Part 4 has 4 subparts. Subpart 1 sets out provisions relevant to the incorporation of parts of the deed of settlement by reference into this Act. Subpart 2 provides for the dissolution of the Arawa Māori Trust Board and the transition to the Trustees of the Te Arawa Lakes Trust. Subpart 3 sets out transitional matters relevant to employees and agents of the Arawa Māori Trust Board. Subpart 4 provides for consequential repeals, revocation, and amendments.
+(7) The schedules of this Act set out—
   (a) the legal descriptions of the Te Arawa lakebeds vested in the Trustees of the Te Arawa Lakes Trust and the encumbrances to which each vesting is subject; and
-  (b) a list of the iwi and hapu of Te Arawa; and
+  (b) a list of the iwi and hapū of Te Arawa; and
   (c) the reserve sites affected by the vesting of the Te Arawa lakebeds in the Trustees of the Te Arawa Lakes Trust; and
   (d) the place names associated with the Rotorua lakes that are to be changed, assigned, or restored by the Act.
 
@@ -86,7 +88,7 @@ Sections 7 to 9 record the acknowledgements and the apology based on those ackno
 
 ### 7 Text of acknowledgements
 The text of the acknowledgements, as set out in the deed of settlement, is as follows:
-(1) The Crown recognises that Te Arawa value the Te Arawa lakes and the lakes' resources as taonga. The Crown acknowledges the spiritual, cultural, economic, and traditional importance to Te Arawa of the lakes and the lakes' resources.
+(1) The Crown recognises that Te Arawa value the Te Arawa lakes and the lakes’ resources as taonga. The Crown acknowledges the spiritual, cultural, economic, and traditional importance to Te Arawa of the lakes and the lakes’ resources.
 (2) The Crown acknowledges that—
   (a) the introduction of exotic fish species significantly depleted the indigenous species upon which Te Arawa depended for food, hospitality, trade, and koha; and
   (b) Te Arawa petitioned the Crown for several years concerning the depletion of the indigenous species and access to the new species; and
@@ -97,22 +99,22 @@ The text of the acknowledgements, as set out in the deed of settlement, is as fo
 (5) The Crown acknowledges that—
   (a) Te Arawa has honoured its obligations and responsibilities under te Tiriti o Waitangi (the Treaty of Waitangi), especially, but not exclusively, in its war service overseas and the gifting of portions of the annuity for the national good in the 1930s and 1940s; and
   (b) Te Arawa has demonstrated a record of co-operation with the Crown in relation to the lakes, but the benefits that Te Arawa expected to flow from its relationship with the Crown were not always realised; and
-  (c) past Crown actions in relation to the Te Arawa lakes have had a negative impact on Te Arawa's tino rangatiratanga over the lakes and their usage of the resources of the lakes; and
+  (c) past Crown actions in relation to the Te Arawa lakes have had a negative impact on Te Arawa’s tino rangatiratanga over the lakes and their usage of the resources of the lakes; and
   (d) the pollution and degradation of several of the lakes have caused a sense of grievance within Te Arawa.
 (6) The Crown acknowledges the significant contribution that the Te Arawa lakes have made to tourism and the wealth of New Zealand and of the Rotorua district in particular.
-(7) The Crown also recognises the longstanding grievances of Te Arawa in relation to Crown acts and omissions concerning the Te Arawa lakes, expressed through petitions to the Government and the Stout-Ngata Commission. The Crown acknowledges that it has failed to deal with those grievances in an appropriate way and that recognition of Te Arawa's grievances is long overdue.
+(7) The Crown also recognises the longstanding grievances of Te Arawa in relation to Crown acts and omissions concerning the Te Arawa lakes, expressed through petitions to the Government and the Stout-Ngata Commission. The Crown acknowledges that it has failed to deal with those grievances in an appropriate way and that recognition of Te Arawa’s grievances is long overdue.
 (8) The Crown accordingly makes the following apology to Te Arawa.
 
-### 8 Text of apology in Maori: he kupu pouri
-E tuku ana e te Karauna i tenei kupu pouri ki a Te Arawa nui tonu, ki o ratau tupuna, ki nga whakatupuranga, ki nga iwi me nga hapu hoki o Te Arawa.
-E arohanuitia ana e te Karauna me te tuku kupu pouri kaore nei he aukati o te korero, ki a Te Arawa, mo nga takahanga i te Tiriti o Waitangi tae atu ki ona matapono kua mihia i runga ake nei.
-E arohanuitia ana te Karauna mo ana mahi i runga i nga moana i papa kino ai ki te rangatiratanga o Te Arawa, ki o ratau moana me nga taonga o roto, e mapu tonu nei a Te Arawa i roto i te hinengaro.
-No reira, ka wawata te Karauna, ma tenei kupu pouri ka mahea aua he, a, kia timatahia i konei te whakaora i nga mamae. Ko te titiro whakamua te Karauna i tenei wa ki te whakatu i tetehi tikanga tumanako, whakahoahoa ki a Te Arawa mo nga moana.
+### 8 Text of apology in Māori: he kupu pouri
+E tuku ana e te Karauna i tēnei kupu pouri ki a Te Arawa nui tonu, ki ō rātau tūpuna, ki ngā whakatupuranga, ki ngā iwi me ngā hapū hoki o Te Arawa:
+E arohanuitia ana e te Karauna me te tuku kupu pouri kāore nei he aukati o te kōrero, ki a Te Arawa, mō ngā takahanga i te Tiriti o Waitangi tae atu ki ōna mātāpono kua mihia i runga ake nei.
+E arohanuitia ana te Karauna mō āna mahi i runga i ngā moana i papā kino ai ki te rangatiratanga o Te Arawa, ki ō rātau moana me ngā taonga o roto, e mapu tonu nei a Te Arawa i roto i te hinengaro.
+Nō reira, ka wawata te Karauna, mā tēnei kupu pouri ka mahea aua hē, ā, kia tīmatahia i konei te whakaora i ngā mamae. Ko te titiro whakamua te Karauna i tēnei wā ki te whakatū i tētehi tikanga tūmanako, whakahoahoa ki a Te Arawa mō ngā moana.
 
 ### 9 Text of apology in English
-The Crown makes this apology to Te Arawa, to their ancestors, to their descendants and to the people and hapu of Te Arawa:
+The Crown makes this apology to Te Arawa, to their ancestors, to their descendants and to the people and hapū of Te Arawa:
 The Crown profoundly regrets and unreservedly apologises to Te Arawa for the breaches of te Tiriti o Waitangi (the Treaty of Waitangi) and its principles acknowledged above.
-The Crown profoundly regrets that past Crown actions in relation to the lakes have had a negative impact on Te Arawa's rangatiratanga over the lakes and their use of lake resources, and have caused significant grievance within Te Arawa.
+The Crown profoundly regrets that past Crown actions in relation to the lakes have had a negative impact on Te Arawa’s rangatiratanga over the lakes and their use of lake resources, and have caused significant grievance within Te Arawa.
 Accordingly, with this apology, the Crown seeks to atone for these wrongs and begin the process of healing. The Crown looks forward to building a relationship of mutual trust and co-operation with Te Arawa in respect of the lakes.
 
 ### Subpart 2 — Interpretation matters
@@ -121,16 +123,16 @@ Accordingly, with this apology, the Crown seeks to atone for these wrongs and be
 It is the intention of Parliament that the provisions of this Act are interpreted in a manner that best furthers the agreements expressed in the deed of settlement.
 
 ### 11 Interpretation
-In this Act, unless the context otherwise requires,—fisheries protocol area means—
+In this Act, unless the context otherwise requires,—
   - **1922 agreement** means the agreement entered into by Te Arawa and the Crown in 1922 in relation to the Te Arawa lakes and implemented in part by section 27 of the Native Land Amendment and Native Land Claims Adjustment Act 1922
   - **1922 arrangements** —
     (a) means the 1922 agreement and its subsequent implementation; but
     (b) does not include matters in that agreement relating to Lake Rotokakahi
-  - **annuity** means the annuity originating under the 1922 arrangements and paid to the Arawa Maori Trust Board under section 4(2) of the Maori Trust Boards Act 1955
+  - **annuity** means the annuity originating under the 1922 arrangements and paid to the Arawa Māori Trust Board under section 4(2) of the Maori Trust Boards Act 1955
   - **aquatic life** , except as defined in section 72(2), has the same meaning as in section 2(1) of the Conservation Act 1987
-  - **Arawa Maori Trust Board** and mean the Board referred to in section 4(1) of the Maori Trust Boards Act 1955
+  - **Arawa Māori Trust Board** and mean the Board referred to in section 4(1) of the Maori Trust Boards Act 1955
   - **business day** means the period of 9 am to 5 pm on any day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's Birthday, Labour Day, and Waitangi Day; and
+    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Labour Day, and Waitangi Day; and
     (b) a day in the period commencing on 25 December in any year and ending with the close of 15 January in the following year; and
     (c) the days observed as the anniversaries of the provinces of Wellington and Auckland
   - **cadastral survey dataset** has the same meaning as in section 4 of the Cadastral Survey Act 2002
@@ -143,15 +145,15 @@ In this Act, unless the context otherwise requires,—fisheries protocol area me
   - **customary rights** has the meaning set out in section 12(3)
   - **deed of settlement** and —
     (a) mean the deed of settlement dated 18 December 2004 and signed by—
-      (i) the Minister in charge of Treaty of Waitangi Negotiations, the Honourable Margaret Wilson, and the Minister of Maori Affairs, the Honourable Parekura Horomia, for the Crown; and
-      (ii) Andrew Wharehuia Rangiheuea, Poiti Arama Karaka Pirika, and Roku Adrian Mihinui, by affixing the common seal of the Arawa Maori Trust Board for the Board and for and on behalf of Te Arawa; and
+      (i) the Minister in charge of Treaty of Waitangi Negotiations, the Honourable Margaret Wilson, and the Minister of Māori Affairs, the Honourable Parekura Horomia, for the Crown; and
+      (ii) Andrew Wharehuia Rangiheuea, Poiti Arama Karaka Pirika, and Roku Adrian Mihinui, by affixing the common seal of the Arawa Māori Trust Board for the Board and for and on behalf of Te Arawa; and
     (b) include—
       (i) the schedules, comprising the Relationship Schedule, Cultural Redress Schedule, Deed of Covenant, and Schedule of Attached Plans; and
       (ii) any attachments; and
       (iii) the deed to amend the deed of settlement dated 15 February 2006 and signed by—
-        (A) the Minister in charge of Treaty of Waitangi Negotiations, the Honourable Mark Burton, and the Minister of Maori Affairs, the Honourable Parekura Horomia, for the Crown; and
+        (A) the Minister in charge of Treaty of Waitangi Negotiations, the Honourable Mark Burton, and the Minister of Māori Affairs, the Honourable Parekura Horomia, for the Crown; and
         (B) Andrew Wharehuia Rangiheuea, William Emery, and Putu Mihaka, as Trustees of the Te Arawa Lakes Trust, for and on behalf of Te Arawa; and
-        (C) Andrew Wharehuia Rangiheuea, Poiti Arama Karaka Pirika, and Roku Adrian Mihinui, by affixing the common seal of the Arawa Maori Trust Board for the Board; and
+        (C) Andrew Wharehuia Rangiheuea, Poiti Arama Karaka Pirika, and Roku Adrian Mihinui, by affixing the common seal of the Arawa Māori Trust Board for the Board; and
       (iv) subject to section 81, any other amendments to the deed, its schedules, or its attachments
   - **DOC protocol** means a protocol issued under section 52 by the Minister of Conservation that—
     (a) sets out how the Department of Conservation and the Trustees of the Te Arawa Lakes Trust will interact on the matters specified in the protocol; and
@@ -176,11 +178,12 @@ In this Act, unless the context otherwise requires,—fisheries protocol area me
   - **fisheries protocol** means the protocol issued by the Minister of Fisheries under section 52 that—
     (a) sets out how the Ministry of Fisheries and the Trustees of the Te Arawa Lakes Trust will interact on the matters specified in the protocol; and
     (b) is in the form set out in Part 2 of the Relationship Schedule or as the protocol is amended under section 52
+  - **fisheries protocol area** means—
   (a) the Te Arawa lakes, as identified in attachment A of the fisheries protocol set out in Part 2 of the Relationship Schedule; and
   (b) the streams and rivers flowing into the Te Arawa lakes, to the extent specifically provided for in clauses 6 to 8 of the fisheries protocol
   - **Historic Places Trust** means the New Zealand Historic Places Trust (Pouhere Taonga) continued by section 38 of the Historic Places Act 1993
   - **included species** has the meaning set out in section 72(1)
-  - **initial trustees** means the members of the Arawa Maori Trust Board holding office at the date of the trust deed
+  - **initial trustees** means the members of the Arawa Māori Trust Board holding office at the date of the trust deed
   - **local authority** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **member of Te Arawa** means an individual referred to in section 12(1)(b)
   - **protected New Zealand objects protocol** means a protocol issued under section 52 by the Minister for Arts, Culture and Heritage that—
@@ -195,22 +198,23 @@ In this Act, unless the context otherwise requires,—fisheries protocol area me
   - **Relationship Schedule** means Schedule 1 of the deed, comprising—
     (a) the Rotorua Lakes Strategy Group agreement; and
     (b) the protocols; and
-    (c) the Relationship agreement representative entity means—
+    (c) the Relationship agreement
+  - **representative entity** means—
     (a) the Trustees of the Te Arawa Lakes Trust:
     (b) a person appointed as an agent for Te Arawa under clause 3.7 of the deed:
     (c) a person (including a trustee) acting for, or on behalf of,—
       (i) the collective group referred to in section 12(1)(a):
-      (ii) 1 or more of the iwi, hapu, groups, families, or whanau referred to in section 12(1)(b):
+      (ii) 1 or more of the iwi, hapū, groups, families, or whānau referred to in section 12(1)(b):
       (iii) 1 or more members of Te Arawa
   - **reserve site** has the meaning set out in section 20(1)
   - **resource consent** has the same meaning as in section 2(1) of the Resource Management Act 1991
-  - **responsible Minister** means, in subpart 2 of Part 3, 1 of the following Ministers
+  - **responsible Minister** means, in subpart 2 of Part 3, one of the following Ministers:
     (a) the Minister of Conservation:
     (b) the Minister of Fisheries:
     (c) the Minister for Arts, Culture and Heritage:
     (d) the Minister for the Environment:
     (e) any other Minister of the Crown who is authorised by the Prime Minister to exercise powers and perform functions and duties under subpart 2 of Part 3
-  - **responsible Ministry** means, in subpart 2 of Part 3, 1 of the following departments of State
+  - **responsible Ministry** means, in subpart 2 of Part 3, one of the following departments of State:
     (a) the Department of Conservation:
     (b) the Ministry of Fisheries:
     (c) the Ministry for Culture and Heritage:
@@ -218,21 +222,22 @@ In this Act, unless the context otherwise requires,—fisheries protocol area me
     (e) any other department of State authorised by the Prime Minister to exercise powers and perform functions and duties under subpart 2 of Part 3
   - **Rotorua lakes** has the meaning set out in section 47
   - **Rotorua Lakes Strategy Group** and have the meaning set out in section 47
-  - **Rotorua Lakes Strategy Group** agreement means the agreement dated 8 October 2004 and set out in Part 1 of the Relationship Schedule, or as amended in the manner provided for in the agreement
+  - **Rotorua Lakes Strategy Group agreement** means the agreement dated 8 October 2004 and set out in Part 1 of the Relationship Schedule, or as amended in the manner provided for in the agreement
   - **settlement date** means the date that is 20 business days after the date on which this Act comes into force
   - **statement of association** has the meaning set out in section 59
   - **statutory acknowledgement** has the meaning set out in section 59
-  - **statutory area** has the meaning set out in section 59 has the meaning set out in section 59
+  - **statutory area** has the meaning set out in section 59
+  - **statutory plan** has the meaning set out in section 59
   - **submerged land** means land that, at the settlement date,—
     (a) would be covered by the waters of the relevant lake—
-      (i) at that lake's highest level without exceeding its margin, in the case of a lake not controlled by artificial means; or
-      (ii) at that lake's maximum operating level, as prescribed from time to time by any resource consent or rule of a regional plan or proposed plan, in the case of a lake controlled by artificial means; and
+      (i) at that lake’s highest level without exceeding its margin, in the case of a lake not controlled by artificial means; or
+      (ii) at that lake’s maximum operating level, as prescribed from time to time by any resource consent or rule of a regional plan or proposed plan, in the case of a lake controlled by artificial means; and
     (b) has not been reclaimed from the relevant lake (by any method of displacing lake water with soil, sand, or other material), whether or not that reclamation was lawful
   - **sustainable utilisation** has the meaning set out in section 72(1)
   - **Te Arawa** has the meaning set out in section 12(1)
-  - **Te Arawa ancestor** and mean an individual who, at any time after 6 February 1840, exercised customary rights in relation to the Te Arawa lakes by reason of being descended from a recognised ancestor of an iwi or hapu of Te Arawa
+  - **Te Arawa ancestor** and mean an individual who, at any time after 6 February 1840, exercised customary rights in relation to the Te Arawa lakes by reason of being descended from a recognised ancestor of an iwi or hapū of Te Arawa
   - **Te Arawa fisheries area** has the meaning set out in section 72(1)
-  - **Te Arawa lakebed** means, in respect of each Te Arawa lake except Lake Okaro, the stratum comprising the land defined by the legal description for that lakebed, as set out in the second column of Schedule 1, including the subsoil beneath that land and plants attached to that land, but excluding—
+  - **Te Arawa lakebed** means, in respect of each Te Arawa lake except Lake Ōkaro, the stratum comprising the land defined by the legal description for that lakebed, as set out in the second column of Schedule 1, including the subsoil beneath that land and plants attached to that land, but excluding—
     (a) the Crown stratum; and
     (b) any submerged land not owned by the Crown; and
     (c) any land that is not submerged land, whether or not owned by the Crown, including any island in the relevant lake; and
@@ -240,7 +245,7 @@ In this Act, unless the context otherwise requires,—fisheries protocol area me
     (e) any existing structure situated in or on that lakebed (or in the Crown stratum); and
     (f) the Ohau Channel between Lakes Rotorua and Rotoiti
   - **Te Arawa lakes** —
-    (a) means Lakes Ngahewa, Ngapouri (also known as Opouri), Okareka, Okaro (also known as Ngakaro), Okataina, Rerewhakaaitu, Rotoehu, Rotoiti, Rotoma, Rotomahana, Rotorua, Tarawera, Tikitapu, and Tutaeinanga; and
+    (a) means Lakes Ngāhewa, Ngāpouri (also known as Ōpouri), Ōkareka, Ōkaro (also known as Ngākaro), Ōkataina, Rerewhakaaitu, Rotoehu, Rotoiti, Rotomā, Rotomahana, Rotorua, Tarawera, Tikitapu, and Tutaeinanga; and
     (b) includes the water, fisheries, and aquatic life in those lakes; but
     (c) does not include the islands in those lakes or the land abutting or surrounding those lakes
   - **Te Arawa lakes historical claims** has the meaning set out in section 13
@@ -256,11 +261,11 @@ In this Act, unless the context otherwise requires,—fisheries protocol area me
   (a) means the collective group composed of individuals and groups referred to in paragraph (b); and
   (b) means every individual who is—
     (i) descended from a Te Arawa ancestor:
-    (ii) a member of an iwi, hapu, group, family, or whanau referred to in paragraph (c); and
+    (ii) a member of an iwi, hapū, group, family, or whānau referred to in paragraph (c); and
   (c) includes—
-    (i) the iwi and hapu of Te Arawa listed in Schedule 2; and
-    (ii) any iwi, hapu, group, family, or whanau composed of individuals referred to in paragraph (b).
-(2) In this section and section 13, Te Arawa ancestor means an individual who, at any time after 6 February 1840, exercised customary rights in relation to the Te Arawa lakes by reason of being descended from a recognised ancestor of an iwi or hapu of Te Arawa.
+    (i) the iwi and hapū of Te Arawa listed in Schedule 2; and
+    (ii) any iwi, hapū, group, family, or whānau composed of individuals referred to in paragraph (b).
+(2) In this section and section 13, Te Arawa ancestor means an individual who, at any time after 6 February 1840, exercised customary rights in relation to the Te Arawa lakes by reason of being descended from a recognised ancestor of an iwi or hapū of Te Arawa.
 (3) In this section, customary rights means rights according to Te Arawa tikanga (customary values and practices of Te Arawa), including—
   (a) rights of occupation and use; and
   (b) rights in relation to the use of natural or physical resources.
@@ -273,7 +278,7 @@ In this Act, unless the context otherwise requires,—fisheries protocol area me
       (B) under legislation or at common law (including aboriginal title and customary law); or
       (C) from fiduciary duty; or
       (D) otherwise; and
-    (ii) arises from, or relates to, acts or omissions before 21 September 1992
+    (ii) arises from, or relates to, acts or omissions before 21 September 1992—
       (A) by, or on behalf of, the Crown; or
       (B) by or under legislation; and
   (b) every claim to the Waitangi Tribunal, to the extent that—
@@ -284,16 +289,16 @@ In this Act, unless the context otherwise requires,—fisheries protocol area me
     (ii) the claim relates to Te Arawa (or a representative entity), including—
       (A) Wai 275 (Tahunaroa and Waitahanui Blocks claim); and
       (B) Wai 363 (Tuhourangi Taonga Tukuiho claim); and
-      (C) Wai 675 (Lake Okataina and Surrounding Lands claim); and
+      (C) Wai 675 (Lake Ōkataina and Surrounding Lands claim); and
       (D) Wai 791 (Volcanic Interior Plateau claim); and
-      (E) Wai 837 (Ngati Whaoa Rohe claim); and
-      (F) Wai 911 (Ngati Tahu and Ngati Whaoa Lands and Resources claim); and
+      (E) Wai 837 (Ngāti Whaoa Rohe claim); and
+      (F) Wai 911 (Ngāti Tahu and Ngāti Whaoa Lands and Resources claim); and
       (G) Wai 918 (Lake Rotorua and Rotorua Airport claim); and
-      (H) Wai 936 (Ngati Rangiteaorere Lake Rotorua claim); and
-      (I) Wai 996 (Ngati Rangitihi Inland and Coastal Land Blocks claim); and
-      (J) Wai 1103 (Ngati Hinemihi Te Ariki and Punaromia Land claim).
+      (H) Wai 936 (Ngāti Rangiteaorere Lake Rotorua claim); and
+      (I) Wai 996 (Ngāti Rangitihi Inland and Coastal Land Blocks claim); and
+      (J) Wai 1103 (Ngāti Hinemihi Te Ariki and Punaromia Land claim).
 (2) However, Te Arawa lakes historical claims does not include—
-  (a) a claim that a member of Te Arawa, or an iwi, hapu, group, family, or whanau referred to in section 12(1)(c) may have that is founded on a right arising as a result of being descended from an ancestor who is not a Te Arawa ancestor; or
+  (a) a claim that a member of Te Arawa, or an iwi, hapū, group, family, or whānau referred to in section 12(1)(c) may have that is founded on a right arising as a result of being descended from an ancestor who is not a Te Arawa ancestor; or
   (b) any claim that Te Arawa has or may have to the extent that the claim does not arise from or relate to all or any of the Te Arawa lakes, the 1922 arrangements, or the annuity, including (but not limited to) any claim relating to—
     (i) the land abutting or surrounding the Te Arawa lakes; or
     (ii) the islands in those lakes; or
@@ -311,11 +316,11 @@ In this Act, Te Arawa lakes remaining annuity issues—
       (B) under legislation or at common law (including aboriginal title and customary law); or
       (C) from fiduciary duty; or
       (D) otherwise; and
-    (ii) arises from, or relates to, acts or omissions on or after 21 September 1992
+    (ii) arises from, or relates to, acts or omissions on or after 21 September 1992—
       (A) by, or on behalf of, the Crown; or
       (B) by or under legislation; and
     (iii) arises from or relates to the annuity; and
-  (b) includes any right of the Arawa Maori Trust Board to receive the annuity for the period on and from the date of the deed.
+  (b) includes any right of the Arawa Māori Trust Board to receive the annuity for the period on and from the date of the deed.
 
 ### Subpart 3 — Settlement of claims
 
@@ -336,14 +341,7 @@ In this Act, Te Arawa lakes remaining annuity issues—
 **Treaty of Waitangi Act 1975 amended**
 
 ### 16 Jurisdiction of Tribunal to consider claims
-Section 6 of the Treaty of Waitangi Act 1975 is amended by adding the following subsections:
-  (29) Despite anything in this Act or in any other enactment or rule of law, on and from the settlement date (as defined in section 11 of the Te Arawa Lakes Settlement Act 2006), the Tribunal does not have jurisdiction (including, but not limited to, jurisdiction to inquire or further inquire into, or make a finding or recommendation) in respect of—
-    (a) any or all of the Te Arawa lakes historical claims, as defined in section 13 of the Te Arawa Lakes Settlement Act 2006; or
-    (b) any or all of the Te Arawa lakes remaining annuity issues, as defined in section 14 of the Te Arawa Lakes Settlement Act 2006; or
-    (c) the deed of settlement, as defined in section 11 of the Te Arawa Lakes Settlement Act 2006; or
-    (d) the redress provided under the deed of settlement or under the Te Arawa Lakes Settlement Act 2006; or
-    (e) the Te Arawa Lakes Settlement Act 2006.
-  (30) Subsection (29) does not exclude the jurisdiction of the Tribunal in respect of the interpretation or implementation of the deed of settlement or the Te Arawa Lakes Settlement Act 2006.
+[Repealed]
 
 ### Subpart 4 — Miscellaneous matters
 
@@ -370,7 +368,7 @@ Section 6 of the Treaty of Waitangi Act 1975 is amended by adding the following 
 (1) Subject to subsection (2), actions or matters occurring under this Act occur or take effect on and from the settlement date.
 (2) If a provision of this Act requires an action or matter to occur or take effect on a date other than the settlement date, that action or matter occurs or takes effect on and from that other date.
 
-## Part 2 — Cultural redress: vesting of Te Arawa lakebeds
+## Part 2 — Cultural redress: Vesting of Te Arawa lakebeds
 
 ### Subpart 1 — Revocation and vesting provisions, and definition of boundaries
 
@@ -407,7 +405,7 @@ Any part of a Te Arawa lakebed or the Crown stratum that is a conservation area 
 (2) To avoid doubt, subsection (1) does not prevent a transfer or transmission, as appropriate, to a Trustee, so long as the instrument of transfer or transmission is accompanied by a certificate given by the Trustees or their solicitor verifying that the transfer or transmission does not contravene subsection (1).
 (3) The Trustees of the Te Arawa Lakes Trust may grant—
   (a) a leasehold estate in all or part of a Te Arawa lakebed for a term of not more than 35 years, including renewals (or any longer term that the Trustees and the Crown may agree):
-  (b) a licence, easement, or profit á prendre over all or part of a Te Arawa lakebed for any term.
+  (b) a licence, easement, or profit à prendre over all or part of a Te Arawa lakebed for any term.
 (4) The terms and conditions on which any interests are granted are subject to this Part and any other relevant enactment or rule of law.
 
 **Limitations on rights and obligations**
@@ -509,7 +507,7 @@ The Trustees of the Te Arawa Lakes Trust are not liable for an existing structur
 **Existing commercial activities**
 
 ### 36 Existing commercial activities
-(1) In this section and sections 40 and 45, existing commercial activity means a commercial activity that, immediately before the settlement date, is or may have been capable of being conducted lawfully in or on, or so as otherwise to affect, the relevant Te Arawa lakebed (whether or not it was in fact conducted at any time before the settlement date)
+(1) In this section and sections 40 and 45, existing commercial activity means a commercial activity that, immediately before the settlement date, is or may have been capable of being conducted lawfully in or on, or so as otherwise to affect, the relevant Te Arawa lakebed (whether or not it was in fact conducted at any time before the settlement date)—
   (a) including, but not limited to, an activity of a kind described in subpart C of Part 1 of the Cultural Redress Schedule; but
   (b) not including the modification or erection of a structure in or on a Te Arawa lakebed, or the attachment of a structure to a lakebed.
 (2) The definition of existing commercial activity applies to an activity whether or not, at any time, that activity may require or have required—
@@ -583,7 +581,7 @@ If a public utility authority has a right or authorisation by or under an enactm
 (1) Despite an enactment or rule of law to the contrary,—
   (a) the consent of the Trustees of the Te Arawa Lakes Trust as owners of the Te Arawa lakebeds is not required for a structure, activity, or other matter in, on, or otherwise affecting, a Te Arawa lakebed, except as set out in sections 38, 39, and 41; and
   (b) the consent of an occupier is not required for a structure, activity, or other matter in, on, or otherwise affecting, a Te Arawa lakebed or the Crown stratum.
-(2) In subsection (1), occupier means a person lawfully occupying or exercising rights over all or part of a Te Arawa lakebed under a lease, licence, easement, or profit á prendre granted by the Trustees.
+(2) In subsection (1), occupier means a person lawfully occupying or exercising rights over all or part of a Te Arawa lakebed under a lease, licence, easement, or profit à prendre granted by the Trustees.
 
 **Status of lakebeds under Local Government (Rating) Act 2002**
 
@@ -615,7 +613,7 @@ A public utility authority must reimburse the Trustees of the Te Arawa Lakes Tru
 ### 47 Interpretation
 In this subpart,—
   - **organisations** means the Rotorua District Council, the Bay of Plenty Regional Council, and the Trustees of the Te Arawa Lakes Trust
-  - **Rotorua lakes** means Lakes Okareka, Okaro, Okataina, Rerewhakaaitu, Rotoehu, Rotoiti, Rotokakahi, Rotoma, Rotomahana, Rotorua, Tarawera, and Tikitapu
+  - **Rotorua lakes** means Lakes Ōkareka, Ōkaro, Ōkataina, Rerewhakaaitu, Rotoehu, Rotoiti, Rotokakahi, Rotomā, Rotomahana, Rotorua, Tarawera, and Tikitapu
   - **Rotorua Lakes Strategy Group** and mean the group established in accordance with this subpart.
 
 **Establishment**
@@ -661,10 +659,11 @@ Each of the organisations, and the Group jointly, must comply with the terms of 
   (a) the Trustees of the Te Arawa Lakes Trust; or
   (b) the Minister who issued the protocol.
 
-### 53 Protocols subject to rights, functions, and obligations Protocols do not restrict—
+### 53 Protocols subject to rights, functions, and obligations
+Protocols do not restrict—
   (a) the legal rights of Te Arawa or a representative entity; or
   (b) the ability of the Crown to perform its functions and duties and exercise its powers in accordance with the law and government policy, including the ability to introduce legislation into the House of Representatives and change government policy; or
-  (c) the ability of the Crown to interact or consult with a person the Crown considers appropriate, including any iwi, hapu, marae, whanau, or other representative of tangata whenua; or
+  (c) the ability of the Crown to interact or consult with a person the Crown considers appropriate, including any iwi, hapū, marae, whānau, or other representative of tāngata whenua; or
   (d) the responsibilities of the responsible Minister and the responsible Ministry.
 
 ### 54 Enforceability of protocols
@@ -697,8 +696,8 @@ Each of the organisations, and the Group jointly, must comply with the terms of 
 **Protected New Zealand objects protocol**
 
 ### 57 Effect of protected New Zealand objects protocol
-(1) The protected New Zealand objects protocol does not have the effect of granting, creating, or providing evidence of an estate or interest in, or rights relating to, protected New Zealand objects or nga taonga tuturu.
-(2) In this section, protected New Zealand object and nga taonga tuturu have the same meanings as in section 2 of the Protected Objects Act 1975.
+(1) The protected New Zealand objects protocol does not have the effect of granting, creating, or providing evidence of an estate or interest in, or rights relating to, protected New Zealand objects or ngā taonga tūturu.
+(2) In this section, protected New Zealand object and ngā taonga tūturu have the same meanings as in section 2 of the Protected Objects Act 1975.
 
 **Environment protocol**
 
@@ -731,7 +730,7 @@ In this subpart,—
 (2) This section does not limit the operation of sections 68 and 69.
 
 ### 62 Relevant consent authorities must have regard to statutory acknowledgement
-(1) From the effective date, a relevant consent authority must have regard to the statutory acknowledgement in fanning an opinion in accordance with sections 93 to 94C of the Resource Management Act 1991 as to whether the Trustees of the Te Arawa Lakes Trust are persons who may be adversely affected by the grant of a resource consent for activities within, adjacent to, or impacting directly on the statutory area.
+(1) From the effective date, a relevant consent authority must have regard to the statutory acknowledgement in forming an opinion in accordance with sections 93 to 94C of the Resource Management Act 1991 as to whether the Trustees of the Te Arawa Lakes Trust are persons who may be adversely affected by the grant of a resource consent for activities within, adjacent to, or impacting directly on the statutory area.
 (2) Subsection (1) does not limit the obligations of a relevant consent authority under Part 2 of the Resource Management Act 1991.
 
 ### 63 Environment Court must have regard to statutory acknowledgement
@@ -798,7 +797,7 @@ Schedule 11 of the Resource Management Act 1991 is amended by inserting, in its 
 (1) The existing place names (if any) recorded in the first column of Schedule 4 are changed, in each case, to the corresponding name recorded in the second column of that schedule, which applies to the place described by the topographic map reference and grid reference in the relevant columns of that schedule.
 (2) If there is no existing place name recorded in the first column of Schedule 4, the place name recorded in the second column of that schedule is either a new name for the relevant place or it restores a traditional name.
 (3) The changes recorded under subsection (1) and the new names recorded under subsection (2) are to be treated as having been recorded—
-  (a) with the approval of the New Zealand Geographic Board Nga Pou Taunaha o Aotearoa; and
+  (a) with the approval of the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa; and
   (b) in accordance with the New Zealand Geographic Board Act 1946.
 
 ### Subpart 5 — Fisheries redress
@@ -935,7 +934,7 @@ No person may engage in commercial fishing in the Te Arawa fisheries area.
 ### 80 Access to deed of settlement
 The chief executive of the Ministry of Justice must make copies of the deed of settlement available—
   (a) for inspection free of charge and for purchase at a reasonable price, at the Head Office of the Ministry of Justice in Wellington during working hours; and
-  (b) free of charge on an internet site maintained by or on behalf of the Ministry of Justice.
+  (b) free of charge on an Internet site maintained by or on behalf of the Ministry of Justice.
 
 ### 81 Effect of amendments to material
 (1) In this section, material means—
@@ -949,92 +948,92 @@ The chief executive of the Ministry of Justice must make copies of the deed of s
     (ii) in the case of material referred to in subsection (1)(c), in the manner provided in that material.
 (3) The Trustees of the Te Arawa Lakes Trust must provide to the chief executive of the Ministry of Justice copies of any amendments to the Rotorua Lakes Strategy Group agreement as soon as is reasonably practicable after the amendments have been made.
 
-### Subpart 2 — Transitional provisions relating to Arawa Maori Trust Board
+### Subpart 2 — Transitional provisions relating to Arawa Māori Trust Board
 
 **Dissolution and transfer provisions**
 
-### 82 Dissolution of Arawa Maori Trust Board
+### 82 Dissolution of Arawa Māori Trust Board
 (1) On and from the commencement of this Act,—
-  (a) the Arawa Maori Trust Board continued by section 4 of the Maori Trust Boards Act 1955 is dissolved; and
-  (b) the term of office of members of the Arawa Maori Trust Board expires; and
-  (c) proceedings by or against the Arawa Maori Trust Board may be continued, completed, and enforced by or against the Trustees of the Te Arawa Lakes Trust; and
-  (d) a reference to the Arawa Maori Trust Board (express or implied) in any enactment (other than this Act), or in any instrument, register, agreement, deed (other than the deed of settlement), lease, application, notice, or other document in force immediately before the commencement of this Act must, unless the context otherwise requires, be read as a reference to the Trustees of the Te Arawa Lakes Trust.
-(2) A person holding office as a member of the Arawa Maori Trust Board at any time before the commencement of this Act is not entitled to compensation as a result of the expiry under this section of his or her term of office.
+  (a) the Arawa Māori Trust Board continued by section 4 of the Maori Trust Boards Act 1955 is dissolved; and
+  (b) the term of office of members of the Arawa Māori Trust Board expires; and
+  (c) proceedings by or against the Arawa Māori Trust Board may be continued, completed, and enforced by or against the Trustees of the Te Arawa Lakes Trust; and
+  (d) a reference to the Arawa Māori Trust Board (express or implied) in any enactment (other than this Act), or in any instrument, register, agreement, deed (other than the deed of settlement), lease, application, notice, or other document in force immediately before the commencement of this Act must, unless the context otherwise requires, be read as a reference to the Trustees of the Te Arawa Lakes Trust.
+(2) A person holding office as a member of the Arawa Māori Trust Board at any time before the commencement of this Act is not entitled to compensation as a result of the expiry under this section of his or her term of office.
 
 ### 83 Transfer of assets and liabilities
-(1) On and from the commencement of this Act, the assets and liabilities of the Arawa Maori Trust Board vest in the Trustees of the Te Arawa Lakes Trust and become the assets and liabilities of the Trustees, subject to any trusts, covenants, or conditions affecting an asset or liability.
-(2) In this subpart, assets and liabilities—wholly or in part, immediately before the commencement of this Act, by the Arawa Maori Trust Board; and
-  (a) means assets and liabilities owned, controlled, or held,—
+(1) On and from the commencement of this Act, the assets and liabilities of the Arawa Māori Trust Board vest in the Trustees of the Te Arawa Lakes Trust and become the assets and liabilities of the Trustees, subject to any trusts, covenants, or conditions affecting an asset or liability.
+(2) In this subpart, assets and liabilities—
+  (a) means assets and liabilities owned, controlled, or held, wholly or in part, immediately before the commencement of this Act, by the Arawa Māori Trust Board; and
   (b) includes—
-    (i) all assets of any kind, whether in the faint of real or personal property, money, shares, securities, rights, or interests; and
+    (i) all assets of any kind, whether in the form of real or personal property, money, shares, securities, rights, or interests; and
     (ii) all liabilities, including debts, charges, duties, contracts, or other obligations (whether present, future, actual, contingent, payable, or to be observed or performed in New Zealand or elsewhere).
 
 **Transitional taxation provision**
 
 ### 84 Taxes and duties
 (1) On and from the commencement of this Act, for the purposes of the Inland Revenue Acts and any other enactment that imposes or provides for the collection of a tax, duty, levy, or other charge,—
-  (a) the Arawa Maori Trust Board and the Trustees of the Te Arawa Lakes Trust are the same person; and
-  (b) a transaction entered into, or an act performed, by the Arawa Maori Trust Board before the commencement of this Act is to be treated as having been entered into or performed by the Trustees at the time it was entered into or performed by the Arawa Maori Trust Board; and
-  (c) the Trustees must be treated as having held, at all times since the interests were acquired by the Arawa Maori Trust Board, the voting interests and market value interests, as the case may be, that they receive from the Arawa Maori Trust Board under section 83.
+  (a) the Arawa Māori Trust Board and the Trustees of the Te Arawa Lakes Trust are the same person; and
+  (b) a transaction entered into, or an act performed, by the Arawa Māori Trust Board before the commencement of this Act is to be treated as having been entered into or performed by the Trustees at the time it was entered into or performed by the Arawa Māori Trust Board; and
+  (c) the Trustees must be treated as having held, at all times since the interests were acquired by the Arawa Māori Trust Board, the voting interests and market value interests, as the case may be, that they receive from the Arawa Māori Trust Board under section 83.
 (2) In this section,—
   - **Inland Revenue Acts** has the same meaning as in section 3(1) of the Tax Administration Act 1994
   - **market value interest** and have the same meanings as in section YA 1 of the Income Tax Act 2007.
 
 **Reporting requirements**
 
-### 85 Final report of Arawa Maori Trust Board
+### 85 Final report of Arawa Māori Trust Board
 (1) In this section, final report means—
-  (a) a statement of the financial position of the Arawa Maori Trust Board and other information required by subsections (2) and (3); and
+  (a) a statement of the financial position of the Arawa Māori Trust Board and other information required by subsections (2) and (3); and
   (b) an audit report prepared by the Auditor-General on the statement and information referred to in paragraph (a).
-(2) As soon as is reasonably practicable after the commencement of this Act, the Trustees of the Te Arawa Lakes Trust must prepare a final report (as if the report were an annual report) to show fully the financial results of the operations of the Arawa Maori Trust Board for the period beginning on the date of the previous annual report and ending with the close of the day immediately before the commencement of this Act.
-(3) The final report must consist of a statement of the financial position of the Arawa Maori Trust Board and other statements of accounts necessary to provide the information required by subsection (2).
-(4) As soon as is reasonably practicable after the completion of the final report required by subsection (2), the Trustees of the Te Arawa Lakes Trust must provide the final report to the Minister of Maori Affairs, who must present the final report to the House of Representatives as soon as is reasonably practicable after receiving it from the Trustees.
+(2) As soon as is reasonably practicable after the commencement of this Act, the Trustees of the Te Arawa Lakes Trust must prepare a final report (as if the report were an annual report) to show fully the financial results of the operations of the Arawa Māori Trust Board for the period beginning on the date of the previous annual report and ending with the close of the day immediately before the commencement of this Act.
+(3) The final report must consist of a statement of the financial position of the Arawa Māori Trust Board and other statements of accounts necessary to provide the information required by subsection (2).
+(4) As soon as is reasonably practicable after the completion of the final report required by subsection (2), the Trustees of the Te Arawa Lakes Trust must provide the final report to the Minister of Māori Affairs, who must present the final report to the House of Representatives as soon as is reasonably practicable after receiving it from the Trustees.
 
 **Other transitional matters**
 
 ### 86 Matters not affected by transfer
 Nothing effected or authorised by this subpart—
-  (a) places the Arawa Maori Trust Board or the Trustees of the Te Arawa Lakes Trust, the Crown, or any other person or body in breach of a contract or confidence, or makes them guilty of a civil wrong; or
+  (a) places the Arawa Māori Trust Board or the Trustees of the Te Arawa Lakes Trust, the Crown, or any other person or body in breach of a contract or confidence, or makes them guilty of a civil wrong; or
   (b) gives rise to a right for any person to terminate or cancel any contract or arrangement, to accelerate the performance of an obligation, to impose a penalty, or to increase a charge; or
-  (c) places the Arawa Maori Trust Board, the Trustees of the Te Arawa Lakes Trust, the Crown, or any other person or body in breach of an enactment, rule of law, or contract that prohibits, restricts, or regulates the assignment or transfer of an asset or liability or the disclosure of information; or
+  (c) places the Arawa Māori Trust Board, the Trustees of the Te Arawa Lakes Trust, the Crown, or any other person or body in breach of an enactment, rule of law, or contract that prohibits, restricts, or regulates the assignment or transfer of an asset or liability or the disclosure of information; or
   (d) releases a surety wholly or in part from an obligation; or
   (e) invalidates or discharges a contract.
 
 ### 87 Status of contracts and other instruments
-(1) In subsection (2), contracts and other instruments means contracts, agreements, conveyances, deeds, leases, licences, other instruments, undertakings, notices entered into by, made with, given to or by, or addressed to, the Arawa Maori Trust Board (whether alone or with another person) before the commencement of this Act and having effect immediately before that date.
-(2) Contracts and other instruments are binding on, and enforceable by, against, or in favour of, the Trustees of the Te Arawa Lakes Trust as if the contracts or other instruments had been entered into by, made with, given to or by, or addressed to or by, the Trustees and not the Arawa Maori Trust Board.
+(1) In subsection (2), contracts and other instruments means contracts, agreements, conveyances, deeds, leases, licences, other instruments, undertakings, notices entered into by, made with, given to or by, or addressed to, the Arawa Māori Trust Board (whether alone or with another person) before the commencement of this Act and having effect immediately before that date.
+(2) Contracts and other instruments are binding on, and enforceable by, against, or in favour of, the Trustees of the Te Arawa Lakes Trust as if the contracts or other instruments had been entered into by, made with, given to or by, or addressed to or by, the Trustees and not the Arawa Māori Trust Board.
 
 ### 88 Status of existing securities
-(1) A security held by the Arawa Maori Trust Board as security for a debt or other liability to that Board incurred before the commencement of this Act—
+(1) A security held by the Arawa Māori Trust Board as security for a debt or other liability to that Board incurred before the commencement of this Act—
   (a) is available to the Trustees of the Te Arawa Lakes Trust as security for the discharge of that debt or liability; and
   (b) if the security extends to future or prospective debts or liabilities, is available as security for the discharge of debts or liabilities to the Trustees incurred on or after the commencement of this Act.
-(2) The Trustees of the Te Arawa Lakes Trust are entitled to the same rights and priorities, and are subject to the same liabilities, in relation to the security as the Arawa Maori Trust Board would be if this Act had not been passed.
+(2) The Trustees of the Te Arawa Lakes Trust are entitled to the same rights and priorities, and are subject to the same liabilities, in relation to the security as the Arawa Māori Trust Board would be if this Act had not been passed.
 
 ### 89 Books and documents to remain evidence
-(1) A document, matter, or thing that would have been admissible in evidence for or against the Arawa Maori Trust Board is, on and after the commencement of this Act, admissible in evidence for or against the Trustees of the Te Arawa Lakes Trust.
+(1) A document, matter, or thing that would have been admissible in evidence for or against the Arawa Māori Trust Board is, on and after the commencement of this Act, admissible in evidence for or against the Trustees of the Te Arawa Lakes Trust.
 (2) For the purpose of this section, document has the same meaning as in section 48G of the Evidence Act 1908.
 
 ### 90 Registers
-(1) The Registrar-General or any other person charged with keeping books or registers is not required to change the name of the Arawa Maori Trust Board to the names of the Trustees of the Te Arawa Lakes Trust in the books or registers or in a document, solely because of the provisions of this subpart.
+(1) The Registrar-General or any other person charged with keeping books or registers is not required to change the name of the Arawa Māori Trust Board to the names of the Trustees of the Te Arawa Lakes Trust in the books or registers or in a document, solely because of the provisions of this subpart.
 (2) If the Trustees of the Te Arawa Lakes Trust present an instrument referred to in subsection (3) to a registrar or other person, the presentation of that instrument is, in the absence of evidence to the contrary, sufficient proof that the property is vested in the Trustees, as specified in the instrument.
 (3) For the purposes of this section, the instrument need not be an instrument of transfer, but must—
   (a) be executed or purport to be executed by the Trustees of the Te Arawa Lakes Trust; and
-  (b) relate to assets or liabilities held, managed, or controlled by the Arawa Maori Trust Board or any entity wholly or partly owned or controlled by the Board immediately before the commencement of this Act; and
+  (b) relate to assets or liabilities held, managed, or controlled by the Arawa Māori Trust Board or any entity wholly or partly owned or controlled by the Board immediately before the commencement of this Act; and
   (c) be accompanied by a certificate given by the Trustees or their solicitor that the property was vested in the Trustees by or under this Act.
 
 ### Subpart 3 — Transitional provisions relating to employees and agents
 
 ### 91 Liability of employees and agents
 (1) In this subpart,—
-  - **transferred employee** means a person employed by the Arawa Maori Trust Board immediately before the commencement of this Act who becomes an employee of the Trustees of the Te Arawa Lakes Trust on the commencement of this Act
-  - **Arawa Maori Trust Board** includes any entity wholly or partly owned or controlled by the Arawa Maori Trust Board before the commencement of this Act.
-(2) A person who, at any time before the commencement of this Act, held office as a member of the Arawa Maori Trust Board or who was an officer, employee, agent, or representative of that Board, is not personally liable in respect of an act or thing done or omitted to be done by him or her before the commencement of this Act in the exercise or bona fide purported exercise of an authority conferred by or under the Maori Trust Boards Act 1955 or any other enactment.
+  - **Arawa Māori Trust Board** includes any entity wholly or partly owned or controlled by the Arawa Māori Trust Board before the commencement of this Act
+  - **transferred employee** means a person employed by the Arawa Māori Trust Board immediately before the commencement of this Act who becomes an employee of the Trustees of the Te Arawa Lakes Trust on the commencement of this Act.
+(2) A person who, at any time before the commencement of this Act, held office as a member of the Arawa Māori Trust Board or who was an officer, employee, agent, or representative of that Board, is not personally liable in respect of an act or thing done or omitted to be done by him or her before the commencement of this Act in the exercise or bona fide purported exercise of an authority conferred by or under the Maori Trust Boards Act 1955 or any other enactment.
 (3) This section applies only—
   (a) in the absence of actual fraud; and
   (b) if the act or omission does not amount to an offence under any enactment or rule of law.
 
 ### 92 Transfer of employees
-On and from the commencement of this Act, each employee of the Arawa Maori Trust Board ceases to be an employee of the Board and becomes an employee of the Trustees of the Te Arawa Lakes Trust.
+On and from the commencement of this Act, each employee of the Arawa Māori Trust Board ceases to be an employee of the Board and becomes an employee of the Trustees of the Te Arawa Lakes Trust.
 
 ### 93 Protection of terms and conditions of employment
 (1) The employment of a transferred employee must be on terms and conditions no less favourable to the transferred employee than those applying to the employee immediately before the commencement of this Act.
@@ -1043,11 +1042,11 @@ On and from the commencement of this Act, each employee of the Arawa Maori Trust
   (b) does not apply to a transferred employee who receives any subsequent appointment with the Trustees of the Te Arawa Lakes Trust.
 
 ### 94 Continuity of employment
-For the purposes of an enactment, rule of law, determination, contract, or agreement relating to the employment of a transferred employee, the transfer of the employee from the Arawa Maori Trust Board to the Trustees of the Te Arawa Lakes Trust does not, of itself, break the employment of that person, and the period of his or her employment by the Board is to be regarded as having been a period of service with the Trustees.
+For the purposes of an enactment, rule of law, determination, contract, or agreement relating to the employment of a transferred employee, the transfer of the employee from the Arawa Māori Trust Board to the Trustees of the Te Arawa Lakes Trust does not, of itself, break the employment of that person, and the period of his or her employment by the Board is to be regarded as having been a period of service with the Trustees.
 
 ### 95 No compensation for technical redundancy
 A transferred employee is not entitled to receive any payment or any other benefit solely on the ground that—
-  (a) the position held by the employee with the Arawa Maori Trust Board has ceased to exist; or
+  (a) the position held by the employee with the Arawa Māori Trust Board has ceased to exist; or
   (b) the employee has ceased, as a result of his or her transfer to the Trustees of the Te Arawa Lakes Trust, to be an employee of the Board.
 
 ### Subpart 4 — Repealed provisions, revocation, and other consequential amendments
@@ -1070,7 +1069,7 @@ Section 88(1) of the Maori Purposes Act 1931 does not apply to any Te Arawa lake
 
 ### 99 Amendments to Acts
 (1) Section 8(4)(b) of the Maori Purposes Act 1934 is amended by omitting the words Arawa Maori Trust Board, and substituting the words Trustees of the Te Arawa Lakes Trust.
-(2) Schedule 7 of the Radiocommunications Act 1989 is amended by omitting from the second column of the item relating to the Arawa Maori Trust Board, the words Te Arawa Maori Trust Board, and substituting the words Trustees of the Te Arawa Lakes Trust.
+(2) Schedule 7 of the Radiocommunications Act 1989 is amended by omitting from the second column of the item relating to the Arawa Māori Trust Board, the words Te Arawa Māori Trust Board, and substituting the words Trustees of the Te Arawa Lakes Trust.
 
 ### 100 Amendments to regulations
 (1) Schedules 1 and 2 of the Maori Trust Boards Regulations 1985 are amended by omitting the item relating to the Arawa Maori Trust Board.
@@ -1095,103 +1094,103 @@ Section 88(1) of the Maori Purposes Act 1931 does not apply to any Te Arawa lake
 
 ## Schedule 1 — Te Arawa lakebeds
 
-| Lakebed site | Legal description (all in South Auckland Land District-Rotorua District) | Encumbrances |
+| Lakebed site | Legal description (all in South Auckland Land District–Rotorua District) | Encumbrances |
 | --- | --- | --- |
-| Bed of Lake Rotorua | 8088.0000 hectares, more or less, being Section 1 SO 338985. Part Gazette 1955 page 1377 | Hamurana Wildlife Refuge. Gazette 1958 page 466. |
+| Bed of Lake Rotorua | 8 088.0000 hectares, more or less, being Section 1 SO 338985. Part Gazette 1955, page 1377 | Hamurana Wildlife Refuge. Gazette 1958, page 466. |
 |  |  | Lake Rotorua (Motutara) Wildlife Refuge. (SR 1993/135). |
 |  |  | The right of the Rotorua District Council to disturb the lakebed and remove sediment at Ruapeka Bay, Ohinemutu (Bay of Plenty Regional Council resource consent No 51136). |
-| Bed of Lake Rotoiti | 3418.5000 hectares, more or less, being Section 1 SO 338986 |  |
+| Bed of Lake Rotoiti | 3 418.5000 hectares, more or less, being Section 1 SO 338986 |  |
 | Bed of Lake Rotoehu | 798.5100 hectares, more or less, being Section 1 SO 338988 |  |
-| Bed of Lake Rotoma | 1105.2700 hectares, more or less, being Section 1 SO 338987 |  |
-| Bed of Lake Okataina | 1067.8400 hectares, more or less, being Section 1 SO 338989. Part Proclamation 8001. |  |
+| Bed of Lake Rotomā | 1 105.2700 hectares, more or less, being Section 1 SO 338987 |  |
+| Bed of Lake Ōkataina | 1 067.8400 hectares, more or less, being Section 1 SO 338989. Part Proclamation 8001. |  |
 | Bed of Lake Tikitapu | 145.9500 hectares, more or less, being Section 1 SO 338994 |  |
-| Bed of Lake Okareka | 340.4600 hectares, more or less, being Section 1 SO 338992. Part Gazette notice H. 515184 |  |
-| Bed of Lake Tarawera | 4148.4000 hectares, more or less, being Section 1 SO 338996. Part Gazette notice S. 643146 |  |
-| Bed of Lake Rotomahana | 755.3350 hectares, more or less, being Sections 1 and 2 SO 338995. Part Gazette 1908 page 612 and Part Gazette notice H. 306305 | Lake Rotomahana Wildlife Refuge being the entire lakebed. Lake Rotomahana Wildlife Refuge Order 1967 (SR 1967/198). |
+| Bed of Lake Ōkareka | 340.4600 hectares, more or less, being Section 1 SO 338992. Part Gazette notice H. 515184 |  |
+| Bed of Lake Tarawera | 4 148.4000 hectares, more or less, being Section 1 SO 338996. Part Gazette notice S. 643146 |  |
+| Bed of Lake Rotomahana | 755.3350 hectares, more or less, being Sections 1 and 2 SO 338995. Part Gazette 1908, page 612 and Part Gazette notice H. 306305 | Lake Rotomahana Wildlife Refuge being the entire lakebed. Lake Rotomahana Wildlife Refuge Order 1967 (SR 1967/198). |
 | Bed of Lake Rerewhakaaitu | 589.7900 hectares, more or less, being Section 1 SO 338990. Part Gazette notice H. 581685 | The right of the Rotorua District Council to dam the inlet to Awaatua Bay, to control water levels (Bay of Plenty Regional Council resource consent No 21600/2). |
-| Bed of Lake Ngahewa | 8.8300 hectares, more or less, being Section 1 SO 338991 |  |
-| Bed of Lake Ngapouri | 23.8700 hectares, more or less, being Section 2 SO338993. Part Gazette 1988 page 2728 |  |
+| Bed of Lake Ngāhewa | 8.8300 hectares, more or less, being Section 1 SO 338991 |  |
+| Bed of Lake Ngāpouri | 23.8700 hectares, more or less, being Section 2 SO 338993. Part Gazette 1988, page 2728 |  |
 | Bed of Lake Tutaeinanga | 3.9400 hectares, more or less, being Section 1 SO 338993. Part Gazette notice H. 641893 |  |
 
-## Schedule 2 — Iwi and hapu of Te Arawa
+## Schedule 2 — Iwi and hapū of Te Arawa
 
-| Ngati Hinekura | Ngati Rangitihi | Ngati Tunohopu |
+| Ngāti Hinekura | Ngāti Rangitihi | Ngāti Tūnohopu |
 | --- | --- | --- |
-| Ngati Hinemihi | Ngati Rangiwewehi | Ngati Tuohonoa |
-| Ngati Hinerangi | Ngati Rehu | Ngati Tura |
-| Ngati Hurunga Te Rangi | Ngati Rereamanu | Ngati Tutaki-a-Hani |
-| Ngati Kahuupoko | Ngati Ririu | Ngati Tutaki-a-Koti |
-| Ngati Karenga | Ngati Rongomai | Ngati Tuteniu |
-| Ngati Kawiti | Ngati Taeotu | Ngati Uenukukopako |
-| Ngati Kearoa | Ngati Tahu | Ngati Wahanui |
-| Ngati Kereru | Ngati Tamakari | Ngati Wahiao |
-| Ngati Kuri | Ngati Tamateatutahi | Ngati Waoku |
-| Ngati Makino | Ngati Taoi | Ngati Whakahemo |
-| Ngati Marukukere | Ngati Tarawhai | Ngati Whakakeu |
-| Ngati Moemiti | Ngati Tawhaki | Ngati Whakaokorau |
-| Ngati Moko | Ngati Te Ngakau | Ngati Whakaue |
-| Ngati Ngararanui | Ngati Te Purei | Ngati Whaoa |
-| Ngati Ngata | Ngati Te Rangiunuora | Tapuika |
-| Ngati Paruaharanui | Ngati Te Takinga | Te Roro o Te Rangi |
-| Ngati Pikiao | Ngati Tu | Tuhourangi |
-| Ngati Pukaki | Ngati Tuara | Waitaha |
-| Ngati Rangiiwaho | Ngati Tuheke |  |
-| Ngati Rangiteaorere | Ngati Tumatawera |  |
+| Ngāti Hinemihi | Ngāti Rangiwewehi | Ngāti Tūohonoa |
+| Ngāti Hinerangi | Ngāti Rehu | Ngāti Tura |
+| Ngāti Hurunga Te Rangi | Ngāti Rereāmanu | Ngāti Tūtaki-a-Hani |
+| Ngāti Kahuupoko | Ngāti Ririu | Ngāti Tūtaki-a-Koti |
+| Ngāti Kārenga | Ngāti Rongomai | Ngāti Tūteniu |
+| Ngāti Kawiti | Ngāti Taeōtu | Ngāti Uenukukōpako |
+| Ngāti Kearoa | Ngāti Tahu | Ngāti Wahanui |
+| Ngāti Kereru | Ngāti Tamakari | Ngāti Wāhiao |
+| Ngāti Kuri | Ngāti Tamateatutahi | Ngāti Waoku |
+| Ngāti Mākino | Ngāti Tāōi | Ngāti Whakahemo |
+| Ngāti Marukukere | Ngāti Tarāwhai | Ngāti Whakakeu |
+| Ngāti Moemiti | Ngāti Tāwhaki | Ngāti Whakaokorau |
+| Ngāti Moko | Ngāti Te Ngākau | Ngāti Whakaue |
+| Ngāti Ngāraranui | Ngāti Te Purei | Ngāti Whaoa |
+| Ngāti Ngata | Ngāti Te Rangiunuora | Tapuika |
+| Ngāti Pāruaharanui | Ngāti Te Tākinga | Te Roro o Te Rangi |
+| Ngāti Pikiao | Ngāti Tu | Tuhourangi |
+| Ngāti Pūkāki | Ngāti Tuara | Waitaha |
+| Ngāti Rangiiwaho | Ngāti Tūheke |  |
+| Ngāti Rangiteaorere | Ngāti Tūmatawera |  |
 
 ## Schedule 3 — Reserve sites
 
 | Lake | Reserve site | Gazette notice declaring site to be reserve |
 | --- | --- | --- |
-| Lake Ngapouri | Lake Ngapouri Wildlife Management Reserve | Gazette 1988 page 2728 |
-| Lake Okareka | Lake Okareka Scenic Reserve | Gazette 1930 page 3616 (noted on Gazette Notice H. 515184) |
-| Lake Okataina (parts) | Lake Okataina Scenic Reserve | Gazette 1931 page 1685 (registered as Proclamation 8001) |
-| Lake Rerewhakaaitu (part) | Lake Rerewhakaaitu Recreation Reserve | Gazette 1985 page 1237 (Part Gazette Notice H. 581685) |
-| Lake Rotomahana (parts) | Waimangu Scenic Reserve | Gazette 1910 page 3825 (Part Gazette Notice H. 306305) |
-|  | Unnamed scenic reserve | Gazette 1908 page 612 |
-| Lake Tarawera (eastern part) | Lake Tarawera Scenic Reserve | Gazette 1974 page 13 (registered as Gazette Notice S. 643146) |
-| Lake Tutaeinanga | Lake Tutaeinanga Wildlife Management Reserve | Gazette 1986 page 458 (registered as Gazette Notice H. 641893) |
+| Lake Ngāpouri | Lake Ngapouri Wildlife Management Reserve | Gazette 1988, page 2728 |
+| Lake Ōkareka | Lake Okareka Scenic Reserve | Gazette 1930, page 3616 (noted on Gazette Notice H. 515184) |
+| Lake Ōkataina (parts) | Lake Okataina Scenic Reserve | Gazette 1931, page 1685 (registered as Proclamation 8001) |
+| Lake Rerewhakaaitu (part) | Lake Rerewhakaaitu Recreation Reserve | Gazette 1985, page 1237 (Part Gazette Notice H. 581685) |
+| Lake Rotomahana (parts) | Waimangu Scenic Reserve | Gazette 1910, page 3825 (Part Gazette Notice H. 306305) |
+|  | Unnamed scenic reserve | Gazette 1908, page 612 |
+| Lake Tarawera (eastern part) | Lake Tarawera Scenic Reserve | Gazette 1974, page 13 (registered as Gazette Notice S. 643146) |
+| Lake Tutaeinanga | Lake Tutaeinanga Wildlife Management Reserve | Gazette 1986, page 458 (registered as Gazette Notice H. 641893) |
 
 ## Schedule 4 — Place names
 
 | Existing place name (if any) | Amended, new, or restored place name* | Topographic map reference | Grid reference (NZMG) | Feature type |
 | --- | --- | --- | --- | --- |
 | Lake Rotorua |  |  |  |  |
-| Lake Rotorua | Lake Rotorua/Te Rotorua nui a Kahumatamomoe† | 260-U15 and 260-U16 | GR 970 433 and GR 970 383 | lake |
-|  | Kaikaitahuna Bay | 260-U15 | GR 962 469 | bay |
-|  | Mataikotare | 260-U15 | GR 017 416 | locality |
+| Lake Rotorua | Lake Rotorua/Te Rotorua nui ā Kahumatamomoe† | 260-U15 and 260-U16 | GR 970 433 and GR 970 383 | lake |
+|  | Kaikaitāhuna Bay | 260-U15 | GR 962 469 | bay |
+|  | Mātaikōtare | 260-U15 | GR 017 416 | locality |
 |  | Moanarua | 260-U15 | GR 019 440 | locality |
-|  | Owhatiura Bay | 260-U16 | GR 980 365 | bay |
+|  | Ōwhatiura Bay | 260-U16 | GR 980 365 | bay |
 |  | Parawai Bay | 260-U15 | GR 925 418 | bay |
-|  | Pourakau Bay | 260-U16 | GR 943 383 | bay |
+|  | Pourākau Bay | 260-U16 | GR 943 383 | bay |
 |  | Puhirua Bay | 260-U15 | GR 935 457 | bay |
 | Awahou Point | Te Awahou Point | 260-U15 | GR 931 452 | point |
-|  | Te Karamuramu Bay | 260-U16 | GR 006 390 | bay |
+|  | Te Kāramuramu Bay | 260-U16 | GR 006 390 | bay |
 |  | Te Matawera Bay | 260-U16 | GR 012 397 | bay |
-| Pohue Bay | Te Pohue Bay | 260-U15 | GR 017 426 | bay |
-|  | Te Rauporoa Beach | 260-U15 and 260- U16 | From GR 924 415 to GR 942 393 | beach |
+| Pohue Bay | Te Pōhue Bay | 260-U15 | GR 017 426 | bay |
+|  | Te Raupōroa Beach | 260-U15 and 260-U16 | From GR 924 415 to GR 942 393 | beach |
 |  | Te Ruapeka Bay | 260-U16 | GR 947 367 | bay |
-|  | Tuarahiwiroa Point | 260-U15 | GR 017 422 | point |
+|  | Tuarāhiwiroa Point | 260-U15 | GR 017 422 | point |
 | Mission Bay | Waerenga/Mission Bay | 260-U15 | GR 005 461 | bay |
 | Hannahs Bay | Waikawau/Hannahs Bay | 260-U16 | GR 995 379 | bay |
 |  | Waikuta | 260-U15 | GR 930 402 | locality |
 |  | Waimihia Bay | 260-U15 | GR 926 440 | bay |
 | Holdens Bay | Waingaehe/Holdens Bay | 260-U16 | GR 990 374 | bay |
-|  | Waiohewa Beach | 260-U15 | From GR 015 414 to GR 016 403 | beach |
-|  | Waiteti Bay | 260-U15 | GR 925 426 | bay |
+|  | Waiōhewa Beach | 260-U15 | From GR 015 414 to GR 016 403 | beach |
+|  | Waitetī Bay | 260-U15 | GR 925 426 | bay |
 | Lake Rotoiti |  |  |  |  |
-| Lake Rotoiti | Lake Rotoiti/Te Roto kite a Ihenga i ariki ai Kahu† | 260-U15 and 260-V15 | GR 080 476 and GR 130 458 | lake |
+| Lake Rotoiti | Lake Rotoiti/Te Roto kite ā Ihenga i ariki ai Kahu† | 260-U15 and 260-V15 | GR 080 476 and GR 130 458 | lake |
 | Hauparu Bay | Hauparu Bay | 260-U15 | GR 099 449 | bay |
 | Korokitewao Bay | Korokitewao Bay | 260-V15 | GR 160 463 | bay |
-| Kuharua Point | Kuharua Point | 260-U15 | GR 049 464 | point |
-|  | Manupirua Bay | 260-U15 | GR 072 461 | bay |
-|  | Ngapuka Bay | 260-V15 | GR 105 481 | bay |
+| Kuharua Point | Kūhārua Point | 260-U15 | GR 049 464 | point |
+|  | Manupīrua Bay | 260-U15 | GR 072 461 | bay |
+|  | Ngāpuka Bay | 260-V15 | GR 105 481 | bay |
 | Ngongoahi Bay | Ngongoahi Bay | 260-V15 | GR 122 469 | bay |
-|  | Okahutoroa Bay | 260-U15 | GR 086 462 | bay |
-| Okawa Bay | Okawa Bay | 260-U15 | GR 028 450 | bay |
-| Okere Inlet | Okere Inlet | 260-U15 | GR 040 473 | bay |
+|  | Ōkahutoroa Bay | 260-U15 | GR 086 462 | bay |
+| Okawa Bay | Ōkawa Bay | 260-U15 | GR 028 450 | bay |
+| Okere Inlet | Ōkere Inlet | 260-U15 | GR 040 473 | bay |
 |  | Onepoto Bay | 260-U15 | GR 065 483 | bay |
-|  | Otairoa Beach | 260-V15 | GR 113 473 | beach |
-|  | Otaramarae Bay | 260-U15 | GR 062 485 | bay |
+|  | Ōtairoa Beach | 260-V15 | GR 113 473 | beach |
+|  | Ōtaramarae Bay | 260-U15 | GR 062 485 | bay |
 |  | Paripari te tai Bay | 260-U15 | GR 094 484 | bay |
 |  | Pounamunui Bay | 260-U15 | GR 061 487 | bay |
 |  | Puketapu Bay | 260-V15 | GR 120 468 | bay |
@@ -1200,17 +1199,17 @@ Section 88(1) of the Maori Purposes Act 1931 does not apply to any Te Arawa lake
 |  | Tapuaeharuru Bay | 260-V15 | GR 159 452 | bay |
 |  | Tapuaekura Bay | 260-U15 | GR 095 456 | bay |
 |  | Tauarau Bay | 260-U15 | GR 089 468 | bay |
-|  | Tawhakarere Bay | 260-V15 | GR 155 445 | bay |
-| Te Arero Bay | Te Arero Bay | 260-U15 | GR 077 487 | bay |
+|  | Tāwhakarere Bay | 260-V15 | GR 155 445 | bay |
+| Te Arero Bay | Te Ārero Bay | 260-U15 | GR 077 487 | bay |
 | Te Karaka Bay | Te Karaka Bay | 260-U15 | GR 062 486 | bay |
-|  | Te Kopiha Bay | 260-V15 | GR 140 470 | bay |
-|  | Te Koutu Wetland | 260-U15 | GR 028 458 | swamp |
+|  | Te Kōpiha Bay | 260-V15 | GR 140 470 | bay |
+|  | Te Koutū Wetland | 260-U15 | GR 028 458 | swamp |
 | Te Ruato Bay | Te Ruato Bay | 260-V15 | GR 113 440 | bay |
-| Te Ti Bay | Te Ti Bay | 260-U15 | GR 064 478 | bay |
+| Te Ti Bay | Te Tī Bay | 260-U15 | GR 064 478 | bay |
 |  | Te Waiiti Point | 260-V15 | GR 148 441 | point |
 | Te Weta Bay | Te Weta Bay | 260-U15 | GR 043 465 | bay |
-|  | Tumoana Bay | 260-U15 | GR 050 456 | bay |
-| Tumoana Point | Tumoana Point | 260-U15 | GR 049 460 | point |
+|  | Tūmoana Bay | 260-U15 | GR 050 456 | bay |
+| Tumoana Point | Tūmoana Point | 260-U15 | GR 049 460 | point |
 |  | Waipuna Bay | 260-U15 | GR 031 465 | bay |
 | Wairau Bay | Wairau Bay | 260-U15 | GR 038 448 | bay |
 |  | Whangamarino Bay | 260-U15 | GR 038 474 | bay |
@@ -1219,58 +1218,58 @@ Section 88(1) of the Maori Purposes Act 1931 does not apply to any Te Arawa lake
 | Lake Rotoehu | Lake Rotoehu | 260-V15 | GR 203 475 | lake |
 |  | Haupapa Bay | 260-V15 | GR 200 500 | bay |
 | Matawhaura Bay | Matawhaura Bay | 260-V15 | GR 187 471 | bay |
-| Kennedy Bay | Ngamimiro Bay | 260-V15 | GR 212 472 | bay |
-| Omarupoto Bay | Omarupoto Bay | 260-V15 | GR 192 490 | bay |
-| Otautu Bay | Otautu Bay | 260-V15 | GR 210 487 | bay |
-| Te Pohue Bay | Te Pohue Bay | 260-V15 | GR 185 460 | bay |
+| Kennedy Bay | Ngāmimiro Bay | 260-V15 | GR 212 472 | bay |
+| Omarupoto Bay | Ōmarupoto Bay | 260-V15 | GR 192 490 | bay |
+| Otautu Bay | Ōtautū Bay | 260-V15 | GR 210 487 | bay |
+| Te Pohue Bay | Te Pōhue Bay | 260-V15 | GR 185 460 | bay |
 | Te Wairoa Bay | Te Wairoa Bay | 260-V15 | GR 212 460 | bay |
-| Wainikau Bay | Wainikau Bay | 260-V15 | GR 195 495 | bay |
+| Wainikau Bay | Wainīkau Bay | 260-V15 | GR 195 495 | bay |
 | Wharenareke Bay | Wharenareke Bay | 260-V15 | GR 190 480 | bay |
-| Lake Rotoma |  |  |  |  |
-| Lake Rotoma | Lake Rotoma | 260-V15 | GR 250 445 | lake |
-|  | Otumarokura Bay | 260-V15 | GR 249 467 | bay |
-| Otumarokura Point | Otumarokura Point | 260-V15 | GR 242 461 | point |
+| Lake Rotomā |  |  |  |  |
+| Lake Rotoma | Lake Rotomā | 260-V15 | GR 250 445 | lake |
+|  | Ōtūmarokura Bay | 260-V15 | GR 249 467 | bay |
+| Otumarokura Point | Ōtūmarokura Point | 260-V15 | GR 242 461 | point |
 | Pangopangoa Bay | Pangopangoa Bay | 260-V15 | GR 239 444 | bay |
-|  | Tahunaroa Beach | 260-V15 | GR 247 473 | beach |
-| Matahi Lagoon | Te Matahi Lagoon | 260-V15 | GR 265 426 | lake |
+|  | Tāhunaroa Beach | 260-V15 | GR 247 473 | beach |
+| Matahi Lagoon | Te Matahī Lagoon | 260-V15 | GR 265 426 | lake |
 |  | Te Oneroa Bay | 260-V15 | GR 252 422 | bay |
 | Onewhero Lagoon | Te Onewhero Lagoon | 260-V15 | GR 261 451 | lake |
 |  | Te Rotoiti Bay | 260-V15 | GR 235 460 | bay |
 | Whakarewarewa Lagoon | Whakarewa Lagoon | 260-V15 | GR 258 456 | lake |
 | Whangaroa Bay | Whangaroa Inlet | 260-V15 | GR 230 442 | bay |
-| Lake Okataina |  |  |  |  |
-| Lake Okataina | Lake Okataina/Te Moana i kataina a Te Rangitakaroro† | 260-U16 and 260-V16 | GR 090 353 and GR 105 378 | lake |
+| Lake Ōkataina |  |  |  |  |
+| Lake Okataina | Lake Ōkataina/Te Moana i kataina ā Te Rangitakaroro† | 260-U16 and 260-V16 | GR 090 353 and GR 105 378 | lake |
 | Haumingi Bay | Haumingi Bay | 260-U16 | GR 082 339 | bay |
-| Kaikakahi Bay | Kaikakahi Bay | 260-U16 | GR 077 360 | bay |
-|  | Ngahaua Bay | 260-V16 | GR 108 382 | bay |
-|  | Oruaroa Bay | 260-V16 | GR 104 341 | bay |
-| Oruaroa Point | Oruaroa Point | 260-V16 | GR 103 341 | point |
-| Otangimoana Bay | Otangimoana Bay | 260-V16 | GR 107 333 | bay |
+| Kaikakahi Bay | Kaikākahi Bay | 260-U16 | GR 077 360 | bay |
+|  | Ngāhauā Bay | 260-V16 | GR 108 382 | bay |
+|  | Ōruaroa Bay | 260-V16 | GR 104 341 | bay |
+| Oruaroa Point | Ōruaroa Point | 260-V16 | GR 103 341 | point |
+| Otangimoana Bay | Ōtangimoana Bay | 260-V16 | GR 107 333 | bay |
 | Parimata Bay | Paremata Bay | 260-U16 | GR 082 365 | bay |
-| Tahunapo Bay | Tahunapo Bay | 260-U16 | GR 095 385 | bay |
-|  | Tauranganui Bay | 260-V 16 | GR 106 386 | bay |
-| Waikereru Bay | Waikereru Bay | 260-U16 | GR 099 366 | bay |
+| Tahunapo Bay | Tahunapō Bay | 260-U16 | GR 095 385 | bay |
+|  | Tauranganui Bay | 260-V16 | GR 106 386 | bay |
+| Waikereru Bay | Waikererū Bay | 260-U16 | GR 099 366 | bay |
 | Lake Tarawera |  |  |  |  |
 | Lake Tarawera | Lake Tarawera | 260-U16 and 260-V16 | GR 090 285 and GR 115 285 | lake |
 | Hawaiki Bay | Hawaiki Bay | 260-U16 | GR 078 263 | bay |
 |  | Kanaehapa Bay | 260-V16 | GR 128 269 | bay |
-| Kotukutuku Bay | Kotukutuku Bay | 260-U16 | GR 062 275 | bay |
-|  | Moura Bay | 260-V16 | GR 105 257 | bay |
-| Moura Point | Moura Point | 260-V16 | GR 112 261 | point |
-|  | Ngahereta Bay | 260-V16 | GR 125 304 | bay |
+| Kotukutuku Bay | Kōtukutuku Bay | 260-U16 | GR 062 275 | bay |
+|  | Mourā Bay | 260-V16 | GR 105 257 | bay |
+| Moura Point | Mourā Point | 260-V16 | GR 112 261 | point |
+|  | Ngāheretā Bay | 260-V16 | GR 125 304 | bay |
 |  | Punaromia Beach | 260-U16 | GR 057 274 | beach |
-| Rahuiroa Bay | Rahuiroa Bay | 260-U16 | GR 072 298 | bay |
+| Rahuiroa Bay | Rāhuiroa Bay | 260-U16 | GR 072 298 | bay |
 | Rangiuru Bay | Rangiuru Bay | 260-U16 | GR 076 287 | bay |
-| Rapatu Bay | Rapatu Bay | 260-V16 | GR 121 230 | bay |
-|  | Ruakopu Bay | 260-V16 | GR 146 296 | bay |
-| Te Hirau Bay | Te Hinau Bay | 260-U16 | GR 084 255 | bay |
+| Rapatu Bay | Rāpatu Bay | 260-V16 | GR 121 230 | bay |
+|  | Ruakōpū Bay | 260-V16 | GR 146 296 | bay |
+| Te Hirau Bay | Te Hīnau Bay | 260-U16 | GR 084 255 | bay |
 | Te Karamea Bay | Te Karamea Bay | 260-U16 | GR 072 309 | bay |
 |  | Te Puna Bay | 260-V16 | GR 121 253 | bay |
-|  | Te Rata Bay | 260-V16 | GR 110 232 | bay |
+|  | Te Rātā Bay | 260-V16 | GR 110 232 | bay |
 | Te Tapahoro Bay | Te Tapahoro Bay | 260-V16 | GR 163 293 | bay |
 | Waitangi Bay | Waitangi Bay | 260-U16 | GR 071 304 | bay |
 | Tikitapu/Blue Lake |  |  |  |  |
 | Lake Tikitapu (Blue Lake) | Tikitapu/Blue Lake | 260-U16 | GR 019 288 | lake |
-| Lake Okareka |  |  |  |  |
-| Lake Okareka | Lake Okareka | 260-U16 | GR 045 315 | lake |
-|  | Taumaihi Point | 260-U 16 | GR 040 313 | point |
+| Lake Ōkareka |  |  |  |  |
+| Lake Okareka | Lake Ōkareka | 260-U16 | GR 045 315 | lake |
+|  | Taumaihi Point | 260-U16 | GR 040 313 | point |
