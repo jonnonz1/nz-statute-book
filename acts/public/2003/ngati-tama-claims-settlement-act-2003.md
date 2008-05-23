@@ -1,44 +1,53 @@
 # Ngati Tama Claims Settlement Act 2003
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-05-23_
 
 ## Preamble
-Taranaki warsConfiscationCompensation CourtParihakaWest Coast Commissions and West Coast Settlement ReservesNgati Tama landsNgati Tama have long sought to have their grievances redressedClaims under Treaty of Waitangi Act 1975Interim views of Waitangi TribunalSettlement negotiations
 (1) The Treaty of Waitangi, as set out in English and in Maori in Schedule 1 of the Treaty of Waitangi Act 1975, was signed in 1840:
 (2) Recitals (3) to (13) of this Preamble present, in summary form, the background to the Ngati Tama Taranaki historical claims that is set out in Part 6 of the deed of settlement entered into by Ngati Tama and the Crown:
-(3) The Crown proclaimed martial law throughout Taranaki on 22 February 1860. The Taranaki wars of 1860-61 and 1863-69 followed. During the course of the wars, the Crown built redoubts at Pukearuhe and Waiiti to secure military occupation of the land. These also provided security for military settlements that were established on confiscated land. Both redoubts were built on wahi tapu:
+Taranaki wars
+(3) The Crown proclaimed martial law throughout Taranaki on 22 February 1860. The Taranaki wars of 1860–61 and 1863–69 followed. During the course of the wars, the Crown built redoubts at Pukearuhe and Waiiti to secure military occupation of the land. These also provided security for military settlements that were established on confiscated land. Both redoubts were built on wahi tapu:
+Confiscation
 (4) In 1863, the New Zealand Settlements Act 1863 was enacted. This Act provided for the confiscation, by the Crown, of lands of Maori whom the Crown assessed to have been in rebellion against the authority of the Queen. On 30 January 1865, the Governor declared Middle Taranaki to be a confiscation district, and set aside blocks at Oakura and Waitara South as eligible Sites for settlements for colonisation. On 2 September 1865, the Governor declared 2 further confiscation districts, Ngatiawa and Ngatiruanui. The Governor also designated Ngatiawa Coast and Ngatiruanui Coast as eligible sites for settlement. These eligible sites took in a substantial part of the land in the rohe of Ngati Tama. All the Ngati Tama land that could be confiscated within the declared confiscation districts was confiscated, despite the declaration that land of loyal inhabitants would be taken only where absolutely necessary for the security of the country:
+Compensation Court
 (5) A Compensation Court was set up under the New Zealand Settlements Act 1863 to compensate some of those whose land was confiscated by the Crown. The compensation process and its outcomes added to the uncertainty, distress, and confusion among the people of Ngati Tama as to where they were to live and whether they had security of title. Those considered to be rebels could not make claims. All of the Compensation Court awards within the rohe of Ngati Tama were based on out-of-court settlements. By the time these were made, most of the readily usable land in the north had already been disposed of by the Crown. These settlements were not properly investigated by the Compensation Court. All of the awards made by the Compensation Court on the basis of these settlements were made to individuals, rather than to hapu. Often awards did not include traditional whanau and hapu land. The awards did not reflect customary forms of land tenure. Out of some 74 000 acres confiscated from Ngati Tama, 3 458 acres were awarded to Ngati Tama individuals. By 1880, title had not been issued to this land. Some claimants were informally aware of the location of their awards and believed they had a right to occupy the land, only to find that it was classified as Crown land. In 1867, the Crown promised awards of land to the absentee owners from each iwi. By 1880, these awards were still undefined on the ground:
-(6) The prophets Te Whiti o Rongomai and Tohu Kakahi introduced a policy of passive resistance to the surveyors and the European settlers who followed. Prior to the Crown's attack on Parihaka, this policy was supported by the people of Ngati Tama and other iwi. Such resistance in 1879-80 led to more than 420 ploughmen and 216 fencers being arrested. Most were denied a trial and many prisoners were held in the South Island. Prison conditions were harsh and included hard labour:
+Parihaka
+(6) The prophets Te Whiti o Rongomai and Tohu Kakahi introduced a policy of passive resistance to the surveyors and the European settlers who followed. Prior to the Crown’s attack on Parihaka, this policy was supported by the people of Ngati Tama and other iwi. Such resistance in 1879–80 led to more than 420 ploughmen and 216 fencers being arrested. Most were denied a trial and many prisoners were held in the South Island. Prison conditions were harsh and included hard labour:
 (7) On 5 November 1881, more than 1 500 Crown troops invaded and occupied the settlement of Parihaka. Over the following days, some 1 600 Maori were forcibly expelled from Parihaka and made to return to their own settlements. Houses and crops were systematically destroyed, and stock was driven away or killed. Taranaki Maori report that women were raped and otherwise molested by soldiers:
 (8) The leaders of Parihaka, Te Whiti o Rongomai and Tohu Kakahi, were arrested, and special legislation provided for their imprisonment without trial:
+West Coast Commissions and West Coast Settlement Reserves
 (9) Two West Coast Commissions were appointed in 1880. The first was established to inquire into the Compensation Court awards and specific promises made by the Crown to Maori in Taranaki concerning confiscated lands. The second was established to implement the recommendations of the first. Almost all of the productive land confiscated within the rohe of Ngati Tama had already been provided to military settlers. Ngati Tama were left with insufficient agricultural land for their present and future needs:
 (10) Of the land that was returned to Ngati Tama, all was returned under individualised title. Many of the reserves were protected against sale when granted, but those restrictions were later removed and much of this land was permanently alienated:
 (11) The reserves made by the West Coast Commission were vested in the Public Trustee in trust for Maori owners, with Maori thereby losing legal ownership and control of their lands. The Public Trustee had full power to sell the alienable reserves and lease the inalienable ones under terms imposed by statute. The West Coast Settlement Reserves Act 1881 provided for perpetually renewable leases with rent based on the unimproved value of the land:
-(12) In 1926, the Sim Commission was set up to investigate confiscations under the New Zealand Settlements Act 1863 and subsequent legislation. The Commission's recommendations for an annuity of £5,000 for all the Taranaki confiscations and a single payment of £300 for the loss of property at Parihaka were not discussed with the iwi concerned and were never accepted as adequate. The timing of the payment of the annuity was uncertain, and the sums due in the early 1930s were not fully paid:
-(13) In 1882, the titles to 2 large blocks totalling more than 120 000 acres on the northern side of the confiscation line (Mohakatino-Paraninihi) were investigated by the Native Land Court. Although the area was part of Ngati Tama's ancestral lands, Chief Judge Fenton awarded full ownership of both blocks to Ngati Maniapoto claimants, citing conquest and possession, although admitting that occupation prior to 1840 was sparse. The Judge subsequently refused to hear an appeal by Ngati Tama. This outcome magnified the impact of any adverse consequences of decisions by the Compensation Court regarding Ngati Tama lands, and meant that in the future the Crown did not recognise Ngati Tama as being able to speak for these blocks. It also meant that Ngati Tama considered it futile to make further claims to land in this area through the Native Land Court. The Crown has acquired Ngati Tama land under Public Works legislation. Land taken includes wahi tapu of particular significance to Ngati Tama. As a result of these actions by the Crown, and the decisions of the Compensation and Native Land Courts, Ngati Tama in Taranaki were left with very little land and none in tribal ownership:
-(14) Taranaki Maori, including Ngati Tama, have longstanding claims against the Crown. Those claims have been expressed through petitions and protests made by Taranaki Maori, including Ngati Tama. Those petitions and protests contributed to the establishment, in the 19th and 20th centuries, of various committees of inquiry into lands confiscated from Taranaki Maori:
+(12) In 1926, the Sim Commission was set up to investigate confiscations under the New Zealand Settlements Act 1863 and subsequent legislation. The Commission’s recommendations for an annuity of £5,000 for all the Taranaki confiscations and a single payment of £300 for the loss of property at Parihaka were not discussed with the iwi concerned and were never accepted as adequate. The timing of the payment of the annuity was uncertain, and the sums due in the early 1930s were not fully paid:
+Ngati Tama lands
+(13) In 1882, the titles to 2 large blocks totalling more than 120 000 acres on the northern side of the confiscation line (Mohakatino–Paraninihi) were investigated by the Native Land Court. Although the area was part of Ngati Tama’s ancestral lands, Chief Judge Fenton awarded full ownership of both blocks to Ngati Maniapoto claimants, citing conquest and possession, although admitting that occupation prior to 1840 was sparse. The Judge subsequently refused to hear an appeal by Ngati Tama. This outcome magnified the impact of any adverse consequences of decisions by the Compensation Court regarding Ngati Tama lands, and meant that in the future the Crown did not recognise Ngati Tama as being able to speak for these blocks. It also meant that Ngati Tama considered it futile to make further claims to land in this area through the Native Land Court. The Crown has acquired Ngati Tama land under Public Works legislation. Land taken includes wahi tapu of particular significance to Ngati Tama. As a result of these actions by the Crown, and the decisions of the Compensation and Native Land Courts, Ngati Tama in Taranaki were left with very little land and none in tribal ownership:
+Ngati Tama have long sought to have their grievances redressed
+(14) Taranaki Maori, including Ngati Tama, have long-standing claims against the Crown. Those claims have been expressed through petitions and protests made by Taranaki Maori, including Ngati Tama. Those petitions and protests contributed to the establishment, in the 19th and 20th centuries, of various committees of inquiry into lands confiscated from Taranaki Maori:
+Claims under Treaty of Waitangi Act 1975
 (15) The enactment of the Treaty of Waitangi Amendment Act 1985 made it possible for Maori to bring claims before the Waitangi Tribunal in respect of acts or omissions on or after 6 February 1840 by, or on behalf of, the Crown that were inconsistent with the principles of the Treaty of Waitangi:
 (16) Between 1990 and 1995, the Waitangi Tribunal investigated 21 claims concerning Taranaki Maori, including Ngati Tama:
+Interim views of Waitangi Tribunal
 (17) On 11 June 1996, the Waitangi Tribunal released its interim report on the collective Taranaki Maori claims (Wai 143) entitled The Taranaki Report: Kaupapa Tuatahi:
 (18) This report contained the preliminary views of the Waitangi Tribunal and was issued—
-  (a) based on the Tribunal's inquiry up to the date of the report (noting, in particular, that the Crown was yet to be heard on many matters raised); and
+  (a) based on the Tribunal’s inquiry up to the date of the report (noting, in particular, that the Crown was yet to be heard on many matters raised); and
   (b) in order to expedite intended negotiations for a settlement in relation to the Taranaki claims:
 (19) The Waitangi Tribunal expressed some preliminary views concerning the Taranaki claims, including that—
   (a) the claims stood on 2 major foundations, land deprivation and disempowerment, with the latter being the main one. By disempowerment, the Waitangi Tribunal meant the denigration and destruction of Maori autonomy or self-government:
-  (b) the Waitangi Tribunal's Interim Report had introduced the historical claims of the Taranaki hapu and shown the need for a settlement:
-  (c) generous reparation policies were needed to remove the prejudice to Maori, to restore the honour of the Government, to ensure cultural survival, and to reestablish effective interaction between the Treaty partners:
+  (b) the Waitangi Tribunal’s Interim Report had introduced the historical claims of the Taranaki hapu and shown the need for a settlement:
+  (c) generous reparation policies were needed to remove the prejudice to Maori, to restore the honour of the Government, to ensure cultural survival, and to re-establish effective interaction between the Treaty partners:
 (20) The Crown acknowledged to the Waitangi Tribunal, in its interim response to the Taranaki claims, that—
   (a) the Waitara purchase and the wars constituted an injustice and were therefore in breach of the principles of the Treaty of Waitangi:
   (b) the confiscation of land, as it occurred in Taranaki, also constituted an injustice and was therefore in breach of the principles of the Treaty of Waitangi:
   (c) confiscation had a severe impact on the welfare, economy, and development of Taranaki iwi:
   (d) in general terms, the delays in setting aside reserves contributed to the adverse effects of the confiscations:
   (e) events relating to the implementation of the confiscations leading to the invasion of Parihaka in 1881, the invasion itself, and its aftermath constituted a breach of the principles of the Treaty of Waitangi:
+Settlement negotiations
 (21) In November 1996, the Crown recognised the mandate of the Ngati Tama Iwi Development Trust to represent Ngati Tama in negotiations for a settlement with the Crown:
 (22) The mandated negotiators for Ngati Tama and the Crown entered into—
   (a) terms of negotiation on 18 August 1997 specifying the scope, objectives, and general procedures for the negotiations:
-  (b) a heads of agreement on 24 September 1999 recording that Ngati Tama and the Crown were, in principle, willing to enter into a deed of settlement on the basis of the Crown's settlement proposal set out in the heads of agreement:
-(23) A deed of settlement was agreed to by the Crown and the Ngati Tama Mandated Negotiators in a Letter of Exchange on 5 November 2001. The people of Ngati Tama then ratified the Crown's offer:
-(24) The Crown and Ngati Tama entered into a deed of settlement on 20 December 2001 recording matters required to give effect to a comprehensive settlement of all Ngati Tama's historical claims in Taranaki:
+  (b) a heads of agreement on 24 September 1999 recording that Ngati Tama and the Crown were, in principle, willing to enter into a deed of settlement on the basis of the Crown’s settlement proposal set out in the heads of agreement:
+(23) A deed of settlement was agreed to by the Crown and the Ngati Tama Mandated Negotiators in a Letter of Exchange on 5 November 2001. The people of Ngati Tama then ratified the Crown’s offer:
+(24) The Crown and Ngati Tama entered into a deed of settlement on 20 December 2001 recording matters required to give effect to a comprehensive settlement of all Ngati Tama’s historical claims in Taranaki.
 
 ### 1 Title
 This Act is the Ngati Tama Claims Settlement Act 2003.
@@ -97,14 +106,17 @@ The text of the acknowledgements made by the Crown, as set out in the deed of se
   (5) The Crown acknowledges that—
     (a) the West Coast Commissions were inadequate in their scope and therefore did not fully address the injustices perpetrated by the confiscations:
     (b) the reserves created by the Commissions in the 1880s were not sufficient for the present and future needs of Ngati Tama:
-    (c) the Crown's actions with respect to the West Coast Settlement Reserves Act 1881, considered cumulatively (including the imposition of a regime of perpetually renewable leases and the sale of large quantities of land by the Public and Maori Trustee),—
-    (i) ultimately deprived Ngati Tama of the control and ownership of the lands reserved for them in Taranaki; and
-    (ii) were in breach of the Treaty of Waitangi and the principles of the Treaty of Waitangi.
+    (c) the Crown’s actions with respect to the West Coast Settlement Reserves Act 1881, considered cumulatively (including the imposition of a regime of perpetually renewable leases and the sale of large quantities of land by the Public and Maori Trustee),—
+      (i) ultimately deprived Ngati Tama of the control and ownership of the lands reserved for them in Taranaki; and
+      (ii) were in breach of the Treaty of Waitangi and the principles of the Treaty of Waitangi.
   (6) The Crown acknowledges that despite previous efforts made in the twentieth century, including those of the Sim Commission, it has failed to deal in an appropriate way with the grievances of Ngati Tama. In particular, the payments made under the Taranaki Maori Claims Settlement Act 1944 did not sufficiently address the grievances of Ngati Tama.
   (7) The Crown recognises the efforts and struggles of Ngati Tama in pursuit of their claims for redress and compensation against the Crown for over 130 years.
 
 ### 7 Apology by the Crown
-The text of the apology made by the Crown to Ngati Tama, to their ancestors, and to their descendants, as set out in the deed of settlement, is as follows:The Crown profoundly regrets and unreservedly apologises to Ngati Tama for its actions, which have resulted in the virtual landlessness of Ngati Tama in Taranaki, and which have caused suffering and hardship to Ngati Tama over the generations to the present day.The Crown profoundly regrets, and unreservedly apologises for—the destructive and demoralising effects of its unconscionable actions on Ngati Tama, which have undermined the basis of their society and autonomy; andits actions at Parihaka; andits failure to acknowledge the mana and rangatiratanga of Ngati Tama.The Crown apologises to Ngati Tama for all the breaches of the Treaty of Waitangi and its principles acknowledged by the Crown.Accordingly, the Crown atones for these wrongs, and seeks to assist the process of healing with this Settlement and looks forward to building a relationship of mutual trust and co operation with Ngati Tama.
+The text of the apology made by the Crown to Ngati Tama, to their ancestors, and to their descendants, as set out in the deed of settlement, is as follows:The Crown profoundly regrets and unreservedly apologises to Ngati Tama for its actions, which have resulted in the virtual landlessness of Ngati Tama in Taranaki, and which have caused suffering and hardship to Ngati Tama over the generations to the present day.The Crown profoundly regrets, and unreservedly apologises for—The Crown apologises to Ngati Tama for all the breaches of the Treaty of Waitangi and its principles acknowledged by the Crown.Accordingly, the Crown atones for these wrongs, and seeks to assist the process of healing with this Settlement and looks forward to building a relationship of mutual trust and co-operation with Ngati Tama.
+  (•) the destructive and demoralising effects of its unconscionable actions on Ngati Tama, which have undermined the basis of their society and autonomy; and
+  (•) its actions at Parihaka; and
+  (•) its failure to acknowledge the mana and rangatiratanga of Ngati Tama.
 
 ## Part 2 — Interpretation
 
@@ -113,11 +125,9 @@ It is the intention of Parliament that the provisions of this Act are interprete
 
 ### 9 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **antiquities protocol**
-  - **antiquities protocol area**
   - **archaeological site** has the meaning given to it in section 2 of the Historic Places Act 1993
   - **business day** means the period of 9 am to 5 pm on any day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's Birthday, Labour Day, and Waitangi Day; and
+    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Labour Day, and Waitangi Day; and
     (b) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year; and
     (c) the days observed as the anniversaries of the provinces of Wellington and Taranaki
   - **consent authority** has the meaning given to it in section 2(1) of the Resource Management Act 1991
@@ -177,14 +187,14 @@ In this Act, unless the context otherwise requires,—
   - **protocol** means a protocol entered into in accordance with the provisions of subpart 1 of Part 5
   - **Registrar-General** means the Registrar-General of Land appointed in accordance with section 4 of the Land Transfer Act 1952
   - **resource consent** has the meaning given to it in section 87 of the Resource Management Act 1991
-  - **responsible Minister** , in subpart 1 of Part 5, means any of the following Ministers
+  - **responsible Minister** , in subpart 1 of Part 5, means any of the following Ministers:
     (a) the Minister of Conservation:
     (b) the Minister of Fisheries:
     (c) the Minister of Energy:
     (d) the Minister for Arts, Culture and Heritage:
     (e) the Minister for Land Information:
     (f) any other Minister of the Crown authorised by the Prime Minister to perform functions and duties, and exercise powers, under subpart 1 of Part 5
-  - **responsible Ministry** , in subpart 1 of Part 5, means any of the following departments of State
+  - **responsible Ministry** , in subpart 1 of Part 5, means any of the following departments of State:
     (a) the Department of Conservation:
     (b) the Ministry of Fisheries:
     (c) the Ministry of Economic Development:
@@ -243,7 +253,7 @@ In this Act, unless the context otherwise requires,—
     (iv) a claim that a representative entity may have, to the extent that the claim is, or is based on, a claim referred to in subparagraph (i) or subparagraph (ii).
 (2) Subsection (1)(a) is not limited by subsection (1)(b) or (c).
 (3) In this section,—
-  - **land area outside Taranaki** means land in New Zealand that is outside the area of land encompassed within the outermost extent of the claimants' boundaries as set out in figure 4 of the interim report by the Waitangi Tribunal, The Taranaki Report: Kaupapa Tuatahi (1996)
+  - **land area outside Taranaki** means land in New Zealand that is outside the area of land encompassed within the outermost extent of the claimants’ boundaries as set out in figure 4 of the interim report by the Waitangi Tribunal, The Taranaki Report: Kaupapa Tuatahi (1996)
   - **land in New Zealand** means land within the baseline described in sections 5, 6, and 6A of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977 (being the low-water mark along the coast of New Zealand, including all islands, except as otherwise provided in section 6 or section 6A of that Act)
   - **representative entity** means—
     (a) the governance entity; and
@@ -271,13 +281,7 @@ In this Act, unless the context otherwise requires,—
 **Treaty of Waitangi Act 1975 amended**
 
 ### 13 Jurisdiction of Tribunal to consider claims
-Section 6 of the Treaty of Waitangi Act 1975 is amended by inserting, after subsection (20), the following subsections:
-  (21) Despite anything in this Act or in any other enactment or rule of law, on and from the settlement date (as defined in section 9 of the Ngati Tama Claims Settlement Act 2003), the Tribunal does not have jurisdiction (including, without limitation, the jurisdiction to inquire or further inquire into, or to make a finding or recommendation) in respect of—
-    (a) any or all of the Ngati Tama historical claims, as defined in section 11 of the Ngati Tama Claims Settlement Act 2003; or
-    (b) the deed of settlement, as defined in section 9 of the Ngati Tama Claims Settlement Act 2003; or
-    (c) the redress provided to the governance entity (as defined in section 9 of the Ngati Tama Claims Settlement Act 2003) under the deed of settlement or under the Ngati Tama Claims Settlement Act 2003; or
-    (d) the Ngati Tama Claims Settlement Act 2003.
-  (22) Subsection (21) does not exclude the jurisdiction of the Tribunal in respect of the interpretation or enforcement of the deed of settlement or the Ngati Tama Claims Settlement Act 2003.
+[Repealed]
 
 **Resumptive memorials no longer apply**
 
@@ -335,12 +339,12 @@ If an action is required to be undertaken by the Registrar-General under this Ac
   (a) identify all registrable or notifiable encumbrances to which the land is subject or that benefit the land; and
   (b) specify that the land should be identified by a memorial on the computer freehold register, recording that,—
     (i) if any part of the Tongaporutu RFR site ceases to be classified as a reserve under the Reserves Act 1977, that part will vest in the Crown as Crown land under the Land Act 1948; and
-    (ii) the Crown's obligations under the RFR deed apply in relation to the site.
+    (ii) the Crown’s obligations under the RFR deed apply in relation to the site.
 (4) If the Crown transfers any part of the Tongaporutu RFR site—
   (a) to the governance entity, the Registrar-General must cancel the memorial referred to in subsection (3)(b) in relation to that part:
   (b) to a third party, and the obligations under the RFR deed no longer apply,—
     (i) the Crown must apply to the Registrar-General to cancel the memorial referred to in subsection (3)(b) in relation to that part; and
-    (ii) the Registrar-General must take the Crown's application under subparagraph (i) as conclusive proof that the Crown's obligations under the RFR deed no longer apply, and must cancel the memorial in relation to that part.
+    (ii) the Registrar-General must take the Crown’s application under subparagraph (i) as conclusive proof that the Crown’s obligations under the RFR deed no longer apply, and must cancel the memorial in relation to that part.
 (5) In this section, Tongaporutu RFR site means all that land situated in the Taranaki Land District—New Plymouth District, comprising 2.6526 hectares, more or less, being Lot 9 DP 8357. All Transfer 100397. And Section 35 Block IV Mimi Survey District. All Gazette Notice 177072. And Section 39 Block IV Mimi Survey District. All Gazette Notice 229988 and All Computer Freehold Register TND2/757.
 
 ## Part 5 — Cultural redress
@@ -358,7 +362,7 @@ If an action is required to be undertaken by the Registrar-General under this Ac
   (b) the Minister who issued the protocol.
 (3) The Minister who issued the protocol may amend or cancel that protocol only after consulting with, and having particular regard to the views of, the governance entity.
 
-### 21 Protocols subject to the Crown's obligations
+### 21 Protocols subject to the Crown’s obligations
 Protocols do not restrict—
   (a) the ability of the Crown to perform its functions and duties and exercise its powers in accordance with the law and government policy, which includes (without limitation) the ability to—
     (i) introduce legislation and change government policy; and
@@ -380,9 +384,9 @@ Protocols do not restrict—
   (b) the statutes listed in Schedule 1 of that Act.
 (2) The fisheries protocol does not have the effect of granting, creating, or providing evidence of an estate or interest in, or rights relating to, assets or property rights held, managed, or administered under fisheries legislation or under the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992 (including fish, aquatic life, and seaweed).
 (3) The MED protocol does not have the effect of granting, creating, or providing evidence of, an estate or interest in, or rights relating to Crown owned minerals.
-(4) The protected New Zealand objects protocol does not have the effect of granting, creating, or providing evidence of an estate or interest in, or rights relating to, protected New Zealand objects or nga taonga tuturu.
+(4) The protected New Zealand objects protocol does not have the effect of granting, creating, or providing evidence of an estate or interest in, or rights relating to, protected New Zealand objects or ngā taonga tūturu.
 (5) The LINZ protocol does not have the effect of granting, creating, or providing evidence of property rights.
-(6) In this section, protected New Zealand object and taonga tuturu have the meanings they are given in section 2 of the Protected Objects Act 1975.
+(6) In this section, protected New Zealand object and taonga tūturu have the meanings they are given in section 2 of the Protected Objects Act 1975.
 
 **Noting of certain protocols**
 
@@ -490,7 +494,7 @@ The vesting of each cultural redress property is subject to the encumbrances (if
 (5) The vesting in the governance entity of a fee simple estate in a cultural redress property under this subpart is a disposition for the purposes of Part 4A of the Conservation Act 1987, but sections 24(2A), 24A, and 24AA of that Act do not apply to the disposition.
 
 ### 39 Covenants under Conservation Act 1987
-The conservation covenants required by sections 30(2)(b), 32(2), and 33(3) (to the extent that section 33(3) relates to the part of the Mount Messenger site described as the Mount Messenger conservation area in column 2 of Part 1 of Schedule 1) must be treated as conservation covenants for the purposes of section 27 of the Conservation Act 1987.
+The conservation covenants required by sections 30(2), 32(2), and 33(3) (to the extent that section 33(3) relates to the part of the Mount Messenger site described as the Mount Messenger conservation area in column 2 of Part 1 of Schedule 1) must be treated as conservation covenants for the purposes of section 27 of the Conservation Act 1987.
 
 ### 40 Covenant under Reserves Act 1977
 The conservation covenant required by section 33(3) (to the extent that it relates to the part of the Mount Messenger site described as the Mount Messenger scenic reserve in column 2 of Part 1 of Schedule 1) must be treated as a conservation covenant for the purposes of section 77 of the Reserves Act 1977.
@@ -504,9 +508,9 @@ In this subpart, unless the context otherwise requires,—
   - **Minister** means the Minister of Conservation
   - **Mount Messenger site** means the land described by that name in Part 1 of Schedule 1
   - **Parininihi marine reserve** means the marine area that lies to the north of Pariokariwa Point and to the west of Whitecliffs and that is the area subject to the application notified by the Director-General under section 5 of the Marine Reserves Act 1971
-  - **Taranaki/Wanganui conservation board** and mean the conservation board of that name established under section 6L of the Conservation Act 1987
+  - **Taranaki/Wanganui conservation Board** and mean the conservation board of that name established under section 6L of the Conservation Act 1987
   - **Uruti site** means the land described by that name in Part 1 of Schedule 1
-  - **Whitecliffs conservation area** means the following land in the Taranaki Land District—New Plymouth District
+  - **Whitecliffs conservation area** means the following land in the Taranaki Land District—New Plymouth District:
     (a) 45.7400 hectares, more or less, being Section 1 SO 313261. Part Gazette 1899 page 164; and
     (b) 122.8920 hectares, more or less, being Section 6 SO 313250. And Section 5 SO 313259. Part Gazette 1906 page 829; and
     (c) 75.0590 hectares, more or less, being Section 3 SO 313260. Part Gazette 1906 page 829 and Part Gazette Notice 300730.1; and
@@ -518,7 +522,7 @@ In this subpart, unless the context otherwise requires,—
 ### 42 Appointment of members of joint advisory committee
 (1) The Minister must appoint the members of the joint advisory committee in accordance with section 43.
 (2) Every member of the committee, including the member appointed as chairperson, is appointed under section 56(1) of the Conservation Act 1987 by notice published in the Gazette.
-(3) The notice of appointment must specify each member's term of office.
+(3) The notice of appointment must specify each member’s term of office.
 (4) A member takes office from the date stated in the notice of appointment.
 (5) A member may be appointed for a term of up to 5 years and may be reappointed.
 
@@ -559,7 +563,7 @@ If section 46 applies, the Minister, the Director-General, the Conservation Auth
   (b) the chairperson of the committee has a casting vote.
 
 ### 49 Vacancy in membership of committee
-No act or proceeding of the joint advisory committee is invalid merely because of a failure of the governance entity, the Director-General, or the Taranaki/Wanganui Conservation Board to nominate persons as members of the committee under section 42.
+No act or proceeding of the joint advisory committee is invalid merely because of a failure of the governance entity, the Director-General, or the Taranaki/Wanganui conservation board to nominate persons as members of the committee under section 42.
 
 **Funding provisions**
 
@@ -706,7 +710,7 @@ Except as expressly provided in this subpart, neither a statutory acknowledgemen
 **Amendment to Resource Management Act 1991**
 
 ### 71 Amendment to Resource Management Act 1991
-Schedule 11 of the Resource Management Act 1991 is amended by adding the following item:Ngati Tama Claims Settlement Act 2003.
+Amendment(s) incorporated in the Act(s).
 
 ### Subpart 5 — Acknowledgement of Ngati Tama customary non-commercial interest in paua fishery
 
@@ -740,7 +744,7 @@ In this subpart,—
 
 ### 77 Consent to holding excess quota
 The Minister is to be treated as—
-  (a) having consented under section 60(1) of the Fisheries Act 1996 to the governance entity owning excess shellfish quota; and .
+  (a) having consented under section 60(1) of the Fisheries Act 1996 to the governance entity owning excess shellfish quota; and
   (b) complying with the requirements of section 60 of the Fisheries Act 1996 in relation to the consent referred to in paragraph (a).
 
 ### Subpart 7 — Coastal tendering
@@ -783,26 +787,32 @@ Except as expressly provided in this subpart,—
 
 | Name of site | Description | Encumbrances |
 | --- | --- | --- |
-| Pukearuhe site | Taranaki Land District—New Plymouth District 4.1450 hectares, more or less, being Section 1 SO 313237. All Gazette Notice 294836.1 and Part Proclamation 349. | Subject to: Grazing Permit Concession (WA 071) dated 5 March 2001 issued under Part 3B of the Conservation Act 1987 to Michael J Kuriger: Pipeline Easement Certificate 171845. |
-| Tongaporutu site | Taranaki Land District—New Plymouth District 6.8240 hectares, more or less. being Section 1 SO 313240. Part Gazette 1898 page 442. |  |
-| Whitecliffs site | Taranaki Land District—New Plymouth District 1310.7777 hectares, more or less, being Lot 3 LT 316317, Section 2 SO 313261 and Section 12 Block VIII Mimi Survey District. Part Gazette 1899 page 164 and All Gazette Notice 257614. | Subject to: Pipeline Easement Certificate 270025: Pipeline Easement Certificate 269142: Conservation covenant, walkway easement, and easements to protect the existing pipeline referred to in section 30(2). |
-| Additional Whitecliffs sites | Taranaki Land District—New Plymouth District 1.3820 hectares, more or less, being Section 1 SO 313260. Part Gazette 1981 page 2919, Part Gazette Notice 300730.1 and Part Gazette 1906 page 829; and | Subject to: Informal grazing right of N G and C H Hagenson: Informal right of the Ahititi School to continue to convey water. |
-|  | 2.2100 hectares, more or less, being Section 2 SO 313260. Part Gazette 1906 page 829: and | Subject to: Informal grazing right of T and R J Whitehead. |
-|  | 17.9985 hectares, more or less, being Sections 1, 2, 3, 4, and 5 SO 313250 and Sections 1, 2, 3, and 4 SO 313259. Part Gazette 1906 page 829; and | Subject to: Grazing Permit Concession (WA 069) dated 30 May 2002 issued under Part 3B of the Conservation Act 1987 to David George and Faye Betty Innes: |
-|  | 13.4560 hectares, more or less, being Lots 1 and 2 LT 316317. Part Gazette 1899 page 164. | Subject to: Grazing licence No 123 dated 1 August 1986 issued by NZ Forest Service to Ralph Noel Bryant and Moreen Fay Bryant: An easement to protect the existing pipeline on the terms and conditions set out in Part 3 of the Cultural Redress Schedule: Pipeline Easement Certificate 165781: An easement to protect existing walkway on the terms and conditions set out in Part 3 of the Cultural Redress Schedule. |
-| Uruti site | Taranaki Land District—New Plymouth District 252.9285 hectares, more or less, being Section 9 Block VII and Section 16 Block XI Mimi Survey District. Part Gazette 1893 page 891. | Subject to: Informal grazing right of J H & C A Cawley: Conservation covenant referred to in section 32(3). |
-| Mount Messenger site | Taranaki Land District—New Plymouth District Mount Messenger scenic reserve 13.7660 hectares, more or less. being Section 1 SO 313244. Balance Gazette Notice 302208.1: and 24.1800 hectares, more or less, being Section 1 SO 313245. Balance Gazette Notice 256256; and 29.5420 hectares, more or less, being Lot 1 DP 5188. Part Gazette Notice 294693.1. Part Mount Messenger conservation area 44.2683 hectares, more or less, being Section 1 SO 313243. Part Gazette 1900 page 160. | Subject to: Informal grazing right of T J Pascoe: Conservation covenant and walkway easement referred to in section 33(3). |
+| Pukearuhe site | Taranaki Land District—New Plymouth District4.1450 hectares, more or less, being Section 1 SO 313237. All Gazette Notice 294836.1 and Part Proclamation 349. | Subject to:Grazing Permit Concession (WA 071) dated 5 March 2001 issued under Part 3B of the Conservation Act 1987 to Michael J Kuriger:Pipeline Easement Certificate 171845. |
+| Tongaporutu site | Taranaki Land District—New Plymouth District6.8240 hectares, more or less, being Section 1 SO 313240. Part Gazette 1898 page 442. |  |
+| Whitecliffs site | Taranaki Land District—New Plymouth District1310.7777 hectares, more or less, being Lot 3 LT 316317, Section 2 SO 313261 and Section 12 Block VIII Mimi Survey District. Part Gazette 1899 page 164 and All Gazette Notice 257614. | Subject to:Pipeline Easement Certificate 270025:Pipeline Easement Certificate 269142:Conservation covenant, walkway easement, and easements to protect the existing pipeline referred to in section 30(2). |
+| Additional Whitecliffs sites | Taranaki Land District—New Plymouth District1.3820 hectares, more or less, being Section 1 SO 313260. Part Gazette 1981 page 2919, Part Gazette Notice 300730.1 and Part Gazette 1906 page 829; and | Subject to:Informal grazing right of N G and C H Hagenson:Informal right of the Ahititi School to continue to convey water. |
+|  | 2.2100 hectares, more or less, being Section 2 SO 313260. Part Gazette 1906 page 829; and | Subject to:Informal grazing right of T and R J Whitehead. |
+|  | 17.9985 hectares, more or less, being Sections 1, 2, 3, 4, and 5 SO 313250 and Sections 1, 2, 3, and 4 SO 313259. Part Gazette 1906 page 829; and | Subject to:Grazing Permit Concession (WA 069) dated 30 May 2002 issued under Part 3B of the Conservation Act 1987 to David George and Faye Betty Innes: |
+|  | 13.4560 hectares, more or less, being Lots 1 and 2 LT 316317. Part Gazette 1899 page 164. | Subject to:Grazing licence No 123 dated 1 August 1986 issued by NZ Forest Service to Ralph Noel Bryant and Moreen Fay Bryant:An easement to protect the existing pipeline on the terms and conditions set out in Part 3 of the Cultural Redress Schedule:Pipeline Easement Certificate 165781:An easement to protect existing walkway on the terms and conditions set out in Part 3 of the Cultural Redress Schedule. |
+| Uruti site | Taranaki Land District—New Plymouth District252.9285 hectares, more or less, being Section 9 Block VII and Section 16 Block XI Mimi Survey District. Part Gazette 1893 page 891. | Subject to:Informal grazing right of J H & C A Cawley:Conservation covenant referred to in section 32(3). |
+| Mount Messenger site | Taranaki Land District—New Plymouth District | Subject to:Informal grazing right of T J Pascoe:Conservation covenant and walkway easement referred to in section 33(3). |
+|  | Mount Messenger scenic reserve |  |
+|  | 13.7660 hectares, more or less, being Section 1 SO 313244. Balance Gazette Notice 302208.1; and |  |
+|  | 24.1800 hectares, more or less, being Section 1 SO 313245. Balance Gazette Notice 256256; and |  |
+|  | 29.5420 hectares, more or less, being Lot 1 DP 5188. Part Gazette Notice 294693.1. |  |
+|  | Part Mount Messenger conservation area |  |
+|  | 182.7400 hectares, more or less, being Section 1 SO 313242. Part Gazette Notice 342563.1; and |  |
+|  | 44.2683 hectares, more or less, being Section 1 SO 313243. Part Gazette 1900 page 160. |  |
 
 | Name of site | Description | Encumbrances |
 | --- | --- | --- |
-| Umukaha Point recreation reserve | Taranaki Land District—New Plymouth District 2.8834 hectares, more or less, being Section 25 Tongaporutu Village. All Transfer 176209. | Recreation reserve subject to Reserves Act 1977: Subject to: Grazing Permit Concession (WA 075) dated 9 April 2002 issued under Part 3B of the Conservation Act 1987 to D C and A W O'Sullivan. |
+| Umukaha Point recreation reserve | Taranaki Land District—New Plymouth District2.8834 hectares, more or less, being Section 25 Tongaporutu Village. All Transfer 176209. | Recreation reserve subject to Reserves Act 1977:Subject to:Grazing Permit Concession (WA 075) dated 9 April 2002 issued under Part 3B of the Conservation Act 1987 to D C and A W O’Sullivan. |
 
 ## Schedule 2 — Statutory acknowledgements and deeds of recognition
 
-| Taranaki Land District |  |
-| --- | --- |
 | Area | Location |
-| Part of Mimi-Pukearuhe coast marginal strip | As shown on SO 14705 |
+| --- | --- |
+| Part of Mimi–Pukearuhe coast marginal strip | As shown on SO 14705 |
 | Part of Mount Messenger conservation area in the Ngati Tama area of interest | As shown on SO 14706 |
 | Moki conservation area | As shown on SO 14707 |
 | Tongaporutu conservation area | As shown on SO 14708 |
@@ -811,166 +821,33 @@ Except as expressly provided in this subpart,—
 | Mohakatino River | As shown on SO 14718 |
 | Tongaporutu River | As shown on SO 14719 |
 
-| Taranaki Land District |  |
+| Area | Description |
 | --- | --- |
-| Area | Location |
 | Mohakatino River (No 1) marginal strip | As shown on SO 14713 |
 | Mohakatino River (No 2) marginal strip | As shown on SO 14715 |
 | Mohakatino coastal marginal strip | As shown on SO 14749 |
 | Coastal marine area adjoining the Ngati Tama area of interest | As shown on SO 14716 |
 
-## Schedule 3 — Statutory acknowledgement for part of Mimi-Pukearuhe coast marginal strip
-
-### 1
-Except as expressly provided in subpart 4 of Part 5,—
-  (a) this statutory acknowledgement does not—
-    (i) affect, and must not be taken into account by, a person exercising a power or performing a function or duty under a statute, regulation, or bylaw:
-    (ii) affect the lawful rights or interests of a person who is not a party to the deed of settlement:
-    (iii) have the effect of granting, creating, or giving evidence of an estate or interest in, or rights relating to, part of the Mini-Pukearuhe coast marginal strip; and
-  (b) no person, in considering a matter or making a decision or recommendation under a statute, regulation, or bylaw, may give greater or lesser weight to the association of Ngati Tama with the part of the Minti-Pukearuhe coast marginal strip described in this statutory acknowledgement than that person would give under the relevant statute, regulation, or bylaw if this statutory acknowledgement did not exist in respect of that part of the Mimi-Pukearuhe coast marginal strip.
-
-### 2
-Clause 1(b) does not limit clause 1(a).
+## Schedule 3 — Statutory acknowledgement for part of Mimi–Pukearuhe coast marginal strip
 
 ## Schedule 4 — Statutory acknowledgement for part of Mount Messenger conservation area in Ngati Tama area of interest
 
-### 1
-Except as expressly provided in subpart 4 of Part 5,—
-  (a) this statutory acknowledgement does not—
-    (i) affect, and must not be taken into account by, a person exercising a power or performing a function or duty under a statute, regulation, or bylaw:
-    (ii) affect the lawful rights or interests of a person who is not a party to the deed of settlement:
-    (iii) have the effect of granting, creating, or giving evidence of an estate or interest in, or rights relating to, the part of the Mount Messenger conservation area in the Ngati Tama area of interest; and
-  (b) no person, in considering a matter or making a decision or recommendation under a statute, regulation, or bylaw, may give greater or lesser weight to the association of Ngati Tama with the part of the Mount Messenger conservation area in the Ngati Tama area of interest described in this statutory acknowledgement than that person would give under the relevant statute, regulation, or bylaw if this statutory acknowledgement did not exist in respect of the part of the Mount Messenger conservation area in the Ngati Tama area of interest.
-
-### 2
-Clause 1(b) does not limit clause 1(a).
-
 ## Schedule 5 — Statutory acknowledgement for Moki conservation area
-
-### 1
-Except as expressly provided in subpart 4 of Part 5,—
-  (a) this statutory acknowledgement does not—
-    (i) affect, and must not be taken into account by, a person exercising a power or performing a function or duty under a statute, regulation, or bylaw:
-    (ii) affect the lawful rights or interests of a person who is not a party to the deed of settlement:
-    (iii) have the effect of granting, creating, or giving evidence of an estate or interest in, or rights relating to, the Moki conservation area; and
-  (b) no person, in considering a matter or making a decision or recommendation under a statute, regulation, or bylaw, may give greater or lesser weight to the association of Ngati Tama with the Moki conservation area described in this statutory acknowledgement than that person would give under the relevant statute, regulation, or bylaw, if this statutory acknowledgement did not exist in respect of the Moki conservation area.
-
-### 2
-Clause 1(b) does not limit clause 1(a).
 
 ## Schedule 6 — Statutory acknowledgement for Tongaporutu conservation area
 
-### 1
-Except as expressly provided in subpart 4 of Part 5,—
-  (a) this statutory acknowledgement does not—
-    (i) affect, and must not be taken into account by, a person exercising a power or performing a function or duty under a statute, regulation, or bylaw:
-    (ii) affect the lawful rights or interests of a person who is not a party to the deed of settlement:
-    (iii) have the effect of granting, creating, or giving evidence of an estate or interest in, or rights relating to, the Tongaporutu conservation area; and
-  (b) no person, in considering a matter or making a decision or recommendation under a statute, regulation, or bylaw, may give greater or lesser weight to the association of Ngati Tama with the Tongaporutu conservation area described in this statutory acknowledgement than that person would give under the relevant statute, regulation, or bylaw, if this statutory acknowledgement did not exist in respect of the Tongaporutu conservation area.
-
-### 2
-Clause 1(b) does not limit clause 1(a).
-
 ## Schedule 7 — Statutory acknowledgement for Mohakatino swamp conservation area
-
-### 1
-Except as expressly provided in subpart 4 of Part 5,—
-  (a) this statutory acknowledgement does not—
-    (i) affect, and must not be taken into account by, a person exercising a power or performing a function or duty under a statute, regulation, or bylaw:
-    (ii) affect the lawful rights or interests of a person who is not a party to the deed of settlement:
-    (iii) affect the lawful rights or interests of a person who is not a party to the deed of settlement:
-  (b) no person, in considering a matter or making a decision or recommendation under a statute, regulation, or bylaw, may give greater or lesser weight to the association of Ngati Tama with the Mohakatino swamp conservation area described in this statutory acknowledgement than that person would give under the relevant statute, regulation, or bylaw, if this statutory acknowledgement did not exist in respect of the Mohakatino swamp conservation area.
-
-### 2
-Clause 1(b) does not limit clause 1(a).
 
 ## Schedule 8 — Statutory acknowledgement for Pou Tehia historic reserve
 
-### 1
-Except as expressly provided in subpart 4 of Part 5,—
-  (a) this statutory acknowledgement does not—
-    (i) affect, and must not be taken into account by, a person exercising a power or performing a function or duty under a statute, regulation, or bylaw:
-    (ii) affect the lawful rights or interests of a person who is not a party to the deed of settlement:
-    (iii) have the effect of granting, creating, or giving evidence of an estate or interest in, or rights relating to, the Pou Tehia historic reserve; and
-  (b) no person, in considering a matter or making a decision or recommendation under a statute, regulation, or bylaw, may give greater or lesser weight to the association of Ngati Tama with the Pou Tehia historic reserve described in this statutory acknowledgement than that person would give under the relevant statute, regulation, or bylaw, if this statutory acknowledgement did not exist in respect of the Pou Tehia historic reserve.
-
-### 2
-Clause 1(b) does not limit clause 1(a).
-
 ## Schedule 9 — Statutory acknowledgement for Mohakatino River
-
-### 1
-Except as expressly provided in subpart 4 of Part 5,—
-  (a) this statutory acknowledgement does not—
-    (i) affect, and must not be taken into account by, a person exercising a power or performing a function or duty under a statute, regulation, or bylaw:
-    (ii) affect the lawful rights or interests of a person who is not a party to the deed of settlement:
-    (iii) have the effect of granting, creating, or giving evidence of an estate or interest in, or rights relating to, the Mohakatino River; and
-  (b) no person, in considering a matter or making a decision or recommendation under a statute, regulation, or bylaw, may give greater or lesser weight to the association of Ngati Tama with the Mohakatino River described in this statutory acknowledgement than that person would give under the relevant statute, regulation, or bylaw, if this statutory acknowledgement did not exist in respect of the Mohakatino River.
-
-### 2
-Clause 1(b) does not limit clause 1(a).
 
 ## Schedule 10 — Statutory acknowledgement for Tongaporutu River
 
-### 1
-Except as expressly provided in subpart 4 of Part 5,—
-  (a) this statutory acknowledgement does not—
-    (i) affect, and must not be taken into account by, a person exercising a power or performing a function or duty under a statute, regulation, or bylaw:
-    (ii) affect the lawful rights or interests of a person who is not a party to the deed of settlement:
-    (iii) have the effect of granting, creating, or giving evidence of an estate or interest in, or rights relating to, the Tongaporutu River; and
-  (b) no person, in considering a matter or making a decision or recommendation under a statute, regulation, or bylaw, may give greater or lesser weight to the association of Ngati Tama with the Tongaporutu River described in this statutory acknowledgement than that person would give under the relevant statute, regulation, or bylaw, if this statutory acknowledgement did not exist in respect of the Tongaporutu River.
-
-### 2
-Clause 1(b) does not limit clause 1(a).
-
 ## Schedule 11 — Statutory acknowledgement for Mohakatino River (No 1) marginal strip
-
-### 1
-Except as expressly provided in subpart 4 of Part 5,—
-  (a) this statutory acknowledgement does not—
-    (i) affect, and must not be taken into account by, a person exercising a power or performing a function or duty under a statute, regulation, or bylaw:
-    (ii) affect the lawful rights or interests of a person who is not a party to the deed of settlement:
-    (iii) have the effect of granting, creating, or giving evidence of an estate or interest in, or rights relating to, the Mohakatino River (No 1) marginal strip; and
-  (b) no person, in considering a matter or making a decision or recommendation under a statute, regulation, or bylaw, may give greater or lesser weight to the association of Ngati Tama with the Mohakatino River (No 1) marginal strip described in this statutory acknowledgement than that person would give under the relevant statute, regulation, or bylaw, if this statutory acknowledgement did not exist in respect of the Mohakatino River (No 1) marginal strip.
-
-### 2
-Clause 1(b) does not limit clause 1(a).
 
 ## Schedule 12 — Statutory acknowledgement for Mohakatino River (No 2) marginal strip
 
-### 1
-Except as expressly provided in subpart 4 of Part 5,—
-  (a) this statutory acknowledgement does not—
-    (i) affect, and must not be taken into account by, a person exercising a power or performing a function or duty under a statute, regulation, or bylaw:
-    (ii) affect the lawful rights or interests of a person who is not a party to the deed of settlement:
-    (iii) have the effect of granting, creating, or giving evidence of an estate or interest in, or rights relating to, the Mohakatino River (No 2) marginal strip; and
-  (b) no person, in considering a matter or making a decision or recommendation under a statute, regulation, or bylaw, may give greater or lesser weight to the association of Ngati Tama with the Mohakatino River (No 2) marginal strip described in this statutory acknowledgement than that person would give under the relevant statute, regulation, or bylaw, if this statutory acknowledgement did not exist in respect of the Mohakatino River (No 2) marginal strip.
-
-### 2
-Clause 1(b) does not limit clause 1(a).
-
 ## Schedule 13 — Statutory acknowledgement for Mohakatino coastal marginal strip
 
-### 1
-Except as expressly provided in subpart 4 of Part 5,—
-  (a) this statutory acknowledgement does not—
-    (i) affect, and must not be taken into account by, a person exercising a power or performing a function or duty under a statute, regulation, or bylaw:
-    (ii) affect the lawful rights or interests of a person who is not a party to the deed of settlement:
-    (iii) have the effect of granting, creating, or giving evidence of an estate or interest in, or rights relating to, the Mohakatino coastal marginal strip; and
-  (b) no person, in considering a matter or making a decision or recommendation under a statute, regulation, or bylaw, may give greater or lesser weight to the association of Ngati Tama with the Mohakatino coastal marginal strip described in this statutory acknowledgement than that person would give under the relevant statute, regulation, or bylaw if this statutory acknowledgement did not exist in respect of the Mohakatino coastal marginal strip.
-
-### 2
-Clause 1(b) does not limit clause 1(a).
-
 ## Schedule 14 — Statutory acknowledgement for coastal marine area adjoining the Ngati Tama area of interest
-
-### 1
-Except as expressly provided in subpart 4 of Part 5,—
-  (a) this statutory acknowledgement does not—
-    (i) affect, and must not be taken into account by, a person exercising a power or performing a function or duty under a statute, regulation, or bylaw:
-    (ii) affect the lawful rights or interests of a person who is not a party to the deed of settlement:
-    (iii) have the effect of granting, creating, or giving evidence of an estate or interest in, or rights relating to, the coastal marine area adjoining the Ngati Tama area of interest; and
-  (b) no person, in considering a matter or making a decision or recommendation under a statute, regulation, or bylaw, may give greater or lesser weight to the association of Ngati Tama with the coastal marine area adjoining the Ngati Tama area of interest described in this statutory acknowledgement than that person would give under the relevant statute, regulation, or bylaw, if this statutory acknowledgement did not exist in respect of the coastal marine area adjoining the Ngati Tama area of interest.
-
-### 2
-Clause 1(b) does not limit clause 1(a).
