@@ -1,12 +1,11 @@
 # Ngaa Rauru Kiitahi Claims Settlement Act 2005
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-05-23_
 
 ## Preamble
-Kupu Whakataki
 (1) I hainatia te Tiriti o Waitangi, teeraa e whakaatahia ana i roto i te reo Paakehaa me te reo Maaori i te Waahanga Tuatahi o te Ture Tiriti o Waitangi 1975, i te tau 1840:
-(2) Kei ngaa whiff (3) ki te (21) o teenei Kupu Whakataki ka kitea he whakaraapopototanga o ngaa koorero o muri i ngaa kereeme o nehe o Ngaa Rauru Kiitahi, kua whakatakotoria ki roto i te whakaaetanga whakataunga i uru tahi ai a Ngaa Rauru Kiitahi me te Karauna:
+(2) Kei ngaa whiti (3) ki te (21) o teenei Kupu Whakataki ka kitea he whakaraapopototanga o ngaa koorero o muri i ngaa kereeme o nehe o Ngaa Rauru Kiitahi, kua whakatakotoria ki roto i te whakaaetanga whakataunga i uru tahi ai a Ngaa Rauru Kiitahi me te Karauna:
 Ko Ngaa Rohe o Ngaa Rauru Kiitahi
-(3) E ai ki ngaa kaawai koorero o Ngaa Rauru Kiitahi i te tau 1840, ko te rohe o Ngaa Rauru Kiitahi ka tiimata i te Kaihaua-Kupe (ko te wahapuu o te Awa o Whanganui). Ko ngaa papa kaainga i nohoia mai ki te Kaihau-a-Kupe, ko Kaihokahoka (ki tai) ko Kokohuia (te waahi repo kei Castlecliff), ko Te Whare Kakaho (ko te waahi o te Tiriti o Wordsworth), ko Pungarehu/Te Ahi Tuatini (ko te Arahanga o Cobham), ko Te Oneheke (kei waenga i te Awa iti o Karamu me te Kiriki o Churton), ko Patupuhou, ko Nukuiro, ko Kaieerau (St Johns Hill):
+(3) E ai ki ngaa kaawai koorero o Ngaa Rauru Kiitahi i te tau 1840, ko te rohe o Ngaa Rauru Kiitahi ka tiimata i te Kaihau-a-Kupe (ko te wahapuu o te Awa o Whanganui). Ko ngaa papa kaainga i nohoia mai ki te Kaihau-a-Kupe, ko Kaihokahoka (ki tai) ko Kokohuia (te waahi repo kei Castlecliff), ko Te Whare Kakaho (ko te waahi o te Tiriti o Wordsworth), ko Pungarehu/Te Ahi Tuatini (ko te Arahanga o Cobham), ko Te Oneheke (kei waenga i te Awa iti o Karamu me te Kiriki o Churton), ko Patupuhou, ko Nukuiro, ko Kaieerau (St Johns Hill):
 (4) Mai i Kaieerau ka toro whaanui atu ki te wharau haupuu-wai ki Motuhou, ki Kaihokahoka (ki uta), ki Taurangapiopio, ki Taumatarata, ki Matai, ki Taurangakawa ka huri ki te hau whakarunga ki ngaa Paemaunga o Matemateaonga ki te waahi e kiia nei ko Tawhiwhi:
 (5) Whai muri iho i ngaa Paemaunga o Matemateaonga, e rere mai ana ko te Awa o Mangaehu, i koonaa te Paa o Mangaehu e tuu mai ana, e paa tata atu ki te puutake o Te Awanui-a-Taikehu (Te Awa o Paatea). I waenganui i ngaa paa o Maipuu me Hawaiki i Te Awa-nui-a-Taikehu me te Awa o Whenuakura:
 (6) He maha ngaa paa me ngaa kaainga o Ngaa Rauru Kiitahi i whakanohoia ki te nukuroa o Te Awa-nui-a-Taikehu, inaa ko Oowhio, ko Kaiwaka, ko Arakirikiri, ko Ngaa-papa-tara-iwi, ko Tutumaahoe me Parikaarangaranga. I te ngutu awa ko ngaa kaainga me ngaa marae o Rangitaawhi, me Te Wai-o-Turi, e tuu tonu mai ana i teenei raa. E takoto mai ana Te Kiri o Rauru ki te nukuroa o te aakau ki waenganui i Rangitaawhi me Tuaropaki:
@@ -14,8 +13,7 @@ Ko Ngaa Rohe o Ngaa Rauru Kiitahi
 (8) Ko ngaa whakaahuatanga mai i te rohe o Ngaa Rauru Kiitahi. E ai ki teetehi taatai mahere iamati i te tau 2003, i te tau 1840, aahua 210 000 heketea (e 520 000 eka) te rahi o te rohe o Ngaa Rauru Kiitahi e whakaahuatia ana i runga ake nei:
 Ko Ngaa Ara Hononga o Ngaa Rauru Kiitahi ki te Awa o Whanganui
 (9) He paanga whakapapa too Ngaa Rauru Kiitahi ki te Awa o Whanganui. Ko taa Ngaa Rauru Kiitahi, ka awhiawhi tuu ka tokotoko i te mana me te rangatiratanga o te iwi o Whanganui ki te Awa o Whanganui:
-Koorero Taahuhu ki te Whakaaetanga Whakataunga
-Ka whakatakoto taapaetanga a Ngaa Rauru Kiitahi ki te Taraipiunara o Waitangi
+Koorero Taahuhu ki te Whakaaetanga WhakataungaKa whakatakoto taapaetanga a Ngaa Rauru Kiitahi ki te Taraipiunara o Waitangi
 (10) Kua roa kee a Ngaa Rauru Kiitahi me aana kereeme e ngau ana ki te Karauna. Kua whakaaria mai ngaa kereeme ki te Karauna maa ngaa petihana, maa ngaa tautohenga i ara ake i ngaa ukinga o Taranaki, tae atu ki a Ngaa Rauru Kiitahi. I roto i ngaa rautau tekau maa iwa, rua tekau hoki, naa eenei kano hiikaka i ahu mai ai eetehi whakatuuranga koomihana uiui hei tirotiro ki ngaa whenua i murua i ngaa Maaori o Taranaki (ko Ngaa Rauru Kiitahi hoki eeraa):
 (11) Ko taa te waahanga 6 o te Ture o te Tiriti o Waitangi 1975, e taea ana e ngaa Maaori (e Ngaa Rauru Kiitahi hoki) ngaa kereeme te whakatakoto ki te Taraipiunara o Waitangi, e paa ana ki ngaa mahi, ki ngaa whakarerenga raanei i mahia e te Karauna, moo te Karauna raanei, i 6 Pepuere 1840, i muri raanei. Koia i maiorooro eeraa whakaritenga a te Karauna ki ngaa maataapono o Te Tiriti o Waitangi:
 (12) I waenganui i ngaa tau 1990 ki 1995 i aata tirohia e te Taraipiunara o Waitangi ngaa kereeme e 21 te nui moo Taranaki i tukuna ai ki te Taraipuinara o Waitangi i raro i waahanga 6 o te Ture o te Tiriti o Waitangi 1975 (araa ko ngaa Taranaki Claims). I whai kuhunga hoki a Ngaa Rauru Kiitahi ki aua kereeme. He maha ngaa taapaetanga koorero me ngaa puurongo rangahau i whakatakotoria e ngaa Maaori o Taranaki (e Ngaa Rauru Kiitahi hoki) ki te Taraipiunara o Waitangi e paa ana ki ngaa kereeme o ngaa Maaori o Taranaki (ko Ngaa Rauru Kiitahi hoki):
@@ -44,8 +42,7 @@ Ngaa whiriwhiringa whakatau me Ngaa Rauru Kiitahi
 (20) Ka noho ngaatahi te Nga Rauru Iwi Authority me te Karauna ki roto ki—
   (a) teetehi taatai whiriwhiringa i te 11 o Oketopa 2000 i tohua ai te whaanui, ngaa whaainga me ngaa haatepe whaanui moo ngaa whiriwhiringa; aa
   (b) teetehi whakatuunga whakaaetanga noo te 16 Mei 2002 e puu whakatakoto ana, ka whakaae te Nga Rauru Iwi Authority me te Karauna, hei take matua, kia kuhu ki roto ki te mahi whakatau i runga i te kaupapa i whakatakotoria hei whakataunga whakaaetanga:
-(21) Ka whakamana a Ngaa Rauru Kiitahi i te whakataunga whakamutunga rawa o te Karauna, aa kaatahi ka urutahi ki te tuhinga whaimana i te 27 Noema 2003. He mea whakapurongo taa te tuhinga whaimana i ngaa whakaaetanga o Ngaa Rauru Kiitahi me te Karauna, hei whakatau i ngaa koorero taahuhu moo ngaa kereme o Ngaa Rauru Kiitahi:
-Background
+(21) Ka whakamana a Ngaa Rauru Kiitahi i te whakataunga whakamutunga rawa o te Karauna, aa kaatahi ka urutahi ki te tuhinga whaimana i te 27 Noema 2003. He mea whakapurongo taa te tuhinga whaimana i ngaa whakaaetanga o Ngaa Rauru Kiitahi me te Karauna, hei whakatau i ngaa koorero taahuhu moo ngaa kereme o Ngaa Rauru Kiitahi.
 (1) The Treaty of Waitangi (Te Tiriti o Waitangi), as set out in English and Maori in Schedule 1 of the Treaty of Waitangi Act 1975, was signed in 1840:
 (2) Recitals (3) to (21) of this Preamble present, in summary form, the background to the Ngaa Rauru Kiitahi historical claims that is set out in the deed of settlement entered into by Ngaa Rauru Kiitahi and the Crown:
 Rohe of Ngaa Rauru Kiitahi
@@ -57,14 +54,13 @@ Rohe of Ngaa Rauru Kiitahi
 (8) The area of the Ngaa Rauru Kiitahi rohe in 1840, as described above, was approximately 210 000 hectares (520 000 acres), according to a digital map calculation in 2003:
 Relationship of Ngaa Rauru Kiitahi with Whanganui River
 (9) Ngaa Rauru Kiitahi has whakapapa interests in the Whanganui River. Ngaa Rauru Kiitahi recognises that Whanganui iwi has mana and rangatiratanga on the Whanganui River:
-Background to the deed of settlement
-Ngaa Rauru Kiitahi makes submissions to the Waitangi Tribunal
+Background to the deed of settlementNgaa Rauru Kiitahi makes submissions to the Waitangi Tribunal
 (10) Ngaa Rauru Kiitahi has longstanding claims against the Crown. Claims against the Crown have been expressed through petitions and protests made by Taranaki Maori, including Ngaa Rauru Kiitahi. Those petitions and protests contributed to the establishment, in the 19th and 20th centuries, of various commissions of inquiry into lands confiscated from Taranaki Maori (including Ngaa Rauru Kiitahi):
 (11) Section 6 of the Treaty of Waitangi Act 1975 enabled Maori (including Ngaa Rauru Kiitahi) to submit claims to the Waitangi Tribunal in respect of acts or omissions on or after 6 February 1840 by or on behalf of the Crown that were inconsistent with the principles of the Treaty of Waitangi (Te Tiriti o Waitangi):
 (12) The Waitangi Tribunal between 1990 and 1995 investigated 21 claims concerning Taranaki made to the Waitangi Tribunal under section 6 of the Treaty of Waitangi Act 1975 (the Taranaki Claims). The Taranaki Claims included claims of Ngaa Rauru Kiitahi. A considerable number of submissions and research reports were filed by Taranaki Maori (including Ngaa Rauru Kiitahi) with the Waitangi Tribunal in relation to the claims of Taranaki Maori (including Ngaa Rauru Kiitahi):
-The Crown's acknowledgements to Waitangi Tribunal
-(13) The Crown advised the Waitangi Tribunal, after hearing the claimants' evidence, that it considered there was a basis for negotiation with claimants and that the Crown had invited claimants to meet with it for that purpose. The Crown asked the Waitangi Tribunal to issue an interim report in order to assist the negotiation process between the Crown and claimants (including Ngaa Rauru Kiitahi):
-(14) The Waitangi Tribunal asked the Crown to indicate those matters upon which it would not wish to give evidence before the Tribunal. The Crown provided this advice to the Waitangi Tribunal on 28 December 1995 in its Interim Response (which is Document 2.108 on the Waitangi Tribunal's Record of Inquiry for Taranaki):
+The Crown’s acknowledgements to Waitangi Tribunal
+(13) The Crown advised the Waitangi Tribunal, after hearing the claimants’ evidence, that it considered there was a basis for negotiation with claimants and that the Crown had invited claimants to meet with it for that purpose. The Crown asked the Waitangi Tribunal to issue an interim report in order to assist the negotiation process between the Crown and claimants (including Ngaa Rauru Kiitahi):
+(14) The Waitangi Tribunal asked the Crown to indicate those matters upon which it would not wish to give evidence before the Tribunal. The Crown provided this advice to the Waitangi Tribunal on 28 December 1995 in its Interim Response (which is Document 2.108 on the Waitangi Tribunal’s Record of Inquiry for Taranaki):
 (15) The Crown acknowledged to the Waitangi Tribunal in its Interim Response that—
   (a) the Waitara purchase and the wars that followed constituted an injustice and were, therefore, in breach of the Treaty of Waitangi (Te Tiriti o Waitangi) and its principles; and
   (b) the confiscation of land, as it occurred in Taranaki, also constituted an injustice and was, therefore, in breach of the Treaty of Waitangi (Te Tiriti o Waitangi) and its principles; and
@@ -74,20 +70,20 @@ The Crown's acknowledgements to Waitangi Tribunal
 Interim Taranaki Report of Waitangi Tribunal
 (16) The Waitangi Tribunal issued in June 1996 an interim report called The Taranaki Report: Kaupapa Tuatahi (the Interim Taranaki Report) giving its preliminary views on the Taranaki Claims:
 (17) The Waitangi Tribunal issued the Interim Taranaki Report—
-  (a) based on the Waitangi Tribunal's inquiry up to the date of the report (and noted that the Crown had yet to be heard on many matters raised); and
+  (a) based on the Waitangi Tribunal’s inquiry up to the date of the report (and noted that the Crown had yet to be heard on many matters raised); and
   (b) in order to expedite negotiations for a settlement of the Taranaki Claims (including the claims of Ngaa Rauru Kiitahi):
 Views of the Waitangi Tribunal in the Interim Tribunal Report
 (18) The Waitangi Tribunal, in the Interim Report, expressed some preliminary views concerning the Taranaki Claims including that—
   (a) the claims could be the largest in the country. There may be no others where as many Treaty breaches had equivalent force and effect over a comparable time (section 1.1); and
   (b) the claims stood on two major foundations, land deprivation and disempowerment, with the latter being the main foundation. By disempowerment, the Waitangi Tribunal meant the denigration and destruction of Maori autonomy or self-government (section 1.4); and
-  (c) the Tribunal's Interim Report has introduced the historical claims of the Taranaki hapuu. It has shown the need for a settlement (section 12.3.1); and
+  (c) the Tribunal’s Interim Report has introduced the historical claims of the Taranaki hapuu. It has shown the need for a settlement (section 12.3.1); and
   (d) generous reparation policies were needed to remove the prejudice to Maori, to restore the honour of the Government, to ensure cultural survival, and to re-establish effective interaction between the Treaty partners (section 12.2):
 The settlement negotiations with Ngaa Rauru Kiitahi
 (19) The Nga Rauru Iwi Authority received in 1999 a mandate from Ngaa Uki o Ngaa Rauru Kiitahi to negotiate a deed of settlement with the Crown. The Crown recognised the mandate of the Nga Rauru Iwi Authority in April 2000:
 (20) The Nga Rauru Iwi Authority and the Crown entered into—
   (a) a terms of negotiation dated 11 October 2000, which specified the scope, objectives, and general procedures for the negotiations; and
   (b) an agreement in principle dated 16 May 2002 recording that the Nga Rauru Iwi Authority and the Crown were, in principle, willing to enter into a deed of settlement on the basis set out in the agreement in principle:
-(21) Ngaa Rauru Kiitahi ratified the Crown's final settlement offer and entered into a deed of settlement on 27 November 2003. The deed records the agreement between Ngaa Rauru Kiitahi and the Crown to settle the historical claims of Ngaa Rauru Kiitahi:
+(21) Ngaa Rauru Kiitahi ratified the Crown’s final settlement offer and entered into a deed of settlement on 27 November 2003. The deed records the agreement between Ngaa Rauru Kiitahi and the Crown to settle the historical claims of Ngaa Rauru Kiitahi.
 
 ### 1 Title
 This Act is the Ngaa Rauru Kiitahi Claims Settlement Act 2005.
@@ -142,12 +138,12 @@ The text of the acknowledgments in Maori as set out in the deed of settlement is
   (b) kiihai ngaa whakatuunga hokohoko haere i tika ki Waitootara i te waa tonu o ngaa pakanga, koia i kino ake ngaa wehewehenga o roto tonu o Ngaa Rauru Kiitahi; aa
   (c) naa te mau tonu mai o ngaa aahuatanga i Taranaki i ngaa tau 1859 ki 1863 i ara mai ngaa takahii o ngaa hokohoko ki Waitootara e whati ana i te tino koorero o Te Tiriti o Waitangi me aoona maataapono.
 (3) E whaaki ana te Karauna:
-  (a) i paanuitia te ture taua ki Taranaki i te tau 1860 aa, nawhai aa, i te tau 1864-1865 ka rewa te whakaariki ki te hau whakararo o Taranaki; aa
+  (a) i paanuitia te ture taua ki Taranaki i te tau 1860 aa, nawhai aa, i te tau 1864–1865 ka rewa te whakaariki ki te hau whakararo o Taranaki; aa
   (b) hinga hinga haere a Ngaa Rauru Kiitahi i ngaa hii pakanga o eeraa waa, inaa hoki ko te patunga mai o ngaa tamariki kore mau puu e ngaa hoia ki te wharau o Handley. He whakaeke tukikore i te hunga kua kore hara; aa
-  (c) moo Ngaa Rauru Kiitahi, turakina katoatia oona kaainga, oona rawa, oona maara, oona taaonga e te ringa maaro o te Karauna, i te waa o ngaa pakanga, naa, koinei te whakakaupapa mai a te Karauna ki te hau whakararo o Taranaki ara, ko te scorched earth policy ; aa
+  (c) moo Ngaa Rauru Kiitahi, turakina katoatia oona kaainga, oona rawa, oona maara, oona taaonga e te ringa maaro o te Karauna, i te waa o ngaa pakanga, naa, koinei te whakakaupapa mai a te Karauna ki te hau whakararo o Taranaki ara, ko te scorched earth policy; aa
   (d) ko eeraa Uki o Ngaa Rauru Kiitahi i panaia i oo raatou whenua, i whirinakitia ki te ngaakau o iwi kee atu hei whai nohoanga; aa
   (e) ka kaawhakina ngaa uki a Ngaa Rauru Kiitahi, ka noho manene te iwi i toona rohe, kua kore oona whare mai i ngaa tau 1869 tae noa atu ki 1873. Ka tokatuu teenei aahua kaaore oo raatou kaainga tae atu ki te waa i riro ngaa whenua raahui e tika ana hei hoatu ki a raatou. I puta eenei whainga moo ngaa whenua raahui i ngaa uiuitanga o te Komihana o te tai hauauru i te tau 1880 ki 1881; aa
-  (f) he mea whakawiri te mauheretanga o Ngaa Rauru Kiitahi i ngaa pakanga o 1860 neke atu, peenei i eeraa Maaori i Weraroa i te tau 1865, ka noho whakawiringa eeraa Maaori me oo raatou whaanau, hapuu hoki i 1879-1880 anoo hoki; aa
+  (f) he mea whakawiri te mauheretanga o Ngaa Rauru Kiitahi i ngaa pakanga o 1860 neke atu, peenei i eeraa Maaori i Weraroa i te tau 1865, ka noho whakawiringa eeraa Maaori me oo raatou whaanau, hapuu hoki i 1879–1880 anoo hoki; aa
   (g) naa ngaa pakanga te tuukino i whakauu, aa, i whati i ngaa tikanga o te Tiriti o Waitangi me oona maataapono.
 (4) E whaaki ana te Karauna:
   (a) kaaore aana tapanga i pai ki eetehi Ngaa Rauru Kiitahi, e mea atu ana he tangata tautohe, koiraa he putanga tuukino moo te iwi katoa me oona whenua i murua i te otinga atu; aa
@@ -162,11 +158,11 @@ The text of the acknowledgments in Maori as set out in the deed of settlement is
   (a) he mea takarepa te mahi maatorohanga a te Komihana o te Tai Hauauru, kiihai i aro tika atu ki ngaa tuukino i whakaaria mai e ngaa mahi murunga; aa
   (b) ko ngaa whenua i raahuitia e te Komihana, kiihai i tau ngahuetia mai moo ngaa hiahiatanga o ngaa uki o Ngaa Rauru Kiitahi ki roto ki ngaa waahi whenua i raahuitia; aa
   (c) i runga i aana mahi e paa ana ki ngaa whakatikatikatanga a ngaa whenua raahui o te Tai Hauauru, me ngaa kawenga o teetehi tikanga whakahaere. Naa teeraa aahua i puta ai ngaa whenua riihi whakapuumau, i puta ai te hokonga atu o ngaa whenua ki te tangata ki te Kaitiaki Tumatanui me ngaa Kaitiaki Maaori i te rau tau rua tekau:
-  (i) kua unuhia te mana whakahaere, te mana whenua o ngaa hapuu katoa o Ngaa Rauru Kiitahi moo ngaa whenua pakupaku i whakaritea moo raatou; aa
-  (ii) naa eenei whakatoopuutanga, i whati mai i ngaa tikanga o te Tiriti o Waitangi me oona maataapono.
+    (i) kua unuhia te mana whakahaere, te mana whenua o ngaa hapuu katoa o Ngaa Rauru Kiitahi moo ngaa whenua pakupaku i whakaritea moo raatou; aa
+    (ii) naa eenei whakatoopuutanga, i whati mai i ngaa tikanga o te Tiriti o Waitangi me oona maataapono.
 (7) E whaaki ana te Karauna:
   (a) ko eetehi o ngaa kaupapa o te Karauna e paa ana ki ngaa whenua Maaori, kua noho whakararuraru ki eeraa uki o Ngaa Rauru Kiitahi e hiahia ana ki te puriti tonu ki ngaa whenua. I whakaitia te kaha kia whakauu i too raatou Ngaa Raurutanga moo aua whenua; aa
-  (b) i ngaa raa o mua, ko te taaone o Wairoaiti, ko te rohe o Nukumaru, ko ngaa waahi whakakitekite, me eetehi atu waahi e noho ana hei papa atawhai, koinei ngaa waahi i te noho i raro i te taumarumaru o Ngaa Rauru Kiitahi, ko is tonu te Kaitiaki moo aua whenua; aa
+  (b) i ngaa raa o mua, ko te taaone o Wairoaiti, ko te rohe o Nukumaru, ko ngaa waahi whakakitekite, me eetehi atu waahi e noho ana hei papa atawhai, koinei ngaa waahi i te noho i raro i te taumarumaru o Ngaa Rauru Kiitahi, ko ia tonu te Kaitiaki moo aua whenua; aa
   (c) kua noho whaihua ngaa taangata kee o Taranaki me Aotearoa puta noa, ki ngaa whenua ki ngaa rawa hoki i murua i a Ngaa Rauru Kiitahi. Kua noho raawaho a Ngaa Rauru Kiitahi i toona ake whenua. Waihoki ko te whakahuinga o eenei aahua kua noho whenua kore a Ngaa Rauru Kiitahi; aa
   (d) kiihai te Karauna i aronui atu moo Ngaa Rauru Kiitahi kia taea e taua iwi te pupuri ki ngaa whenua rawe hei whaawhaatanga moo naianei, moo aapoopoo hoki. Koia e whawhati mai i ngaa tikanga o te Tiriti o Waitangi me oona maataapono.
 (8) E whaaki ana te Karauna kia whaia ngaa take e Ngaa Rauru Kiitahi e paa ana ki ngaa mahi takahii a te Karauna i ngaa rautau tekau ma iwa, rua tekau anoo hoki. Ina hoki ko taa te Karauna kua whaaki mai kua whawhati mai i ngaa tikanga o te Tiriti o Waitangi me oona maataapono. E whai utu ana a Ngaa Rauru Kiitahi moo ngaa takahiitanga i takaia ki runga ki a raatou i ngaa tau 150 kua paahure nei. Ahakoa te whakapou kaha a te Karauna ki te maatoro ki eenei nawe ki teenei rautau, kua kore mai aana aro ki ngaa take a Ngaa Rauru Kiitahi naa, kaaore i uu kia tika. Kua roa te waa te whaakinga mai o eenei whatinga. E ngaua tonu nei a Ngaa Rauru Kiitahi ki ngaa poouri, ki ngaa mokemoke aa takoto tonu ki eenei rangi.
@@ -180,8 +176,8 @@ The text of the acknowledgements in English as set out in the deed of settlement
   (c) because of the circumstances prevailing in Taranaki between 1859 and 1863, elements of the Waitotara purchase constituted a breach of the Treaty of Waitangi and its principles.
 (3) The Crown acknowledges that:
   (a) it proclaimed martial law in Taranaki in 1860 and that later in 1864–1865 it launched an offensive in south Taranaki; and
-  (b) Ngaa Rauru Kiitahi suffered loss of life during the wars, including the lives of unarmed children killed by government militia at Handley's Woolshed in an unprovoked attack; and
-  (c) Ngaa Rauru Kiitahi suffered the destruction of their homes, property, cultivations, and taonga at the Crown's hands during the wars and as a result of the Crown's scorched earth policy in south Taranaki; and
+  (b) Ngaa Rauru Kiitahi suffered loss of life during the wars, including the lives of unarmed children killed by government militia at Handley’s Woolshed in an unprovoked attack; and
+  (c) Ngaa Rauru Kiitahi suffered the destruction of their homes, property, cultivations, and taonga at the Crown’s hands during the wars and as a result of the Crown’s scorched earth policy in south Taranaki; and
   (d) during the wars those Ngaa Rauru Kiitahi who were driven off their land had to rely on the goodwill of other iwi for refuge; and
   (e) Ngaa Uki o Ngaa Rauru Kiitahi were forced into exile from their rohe and rendered homeless from 1869 until 1873, and remained without permanent homes until they received the reserves to which they were entitled after the West Coast Commissions of Inquiry in 1880 and 1881; and
   (f) its treatment of Ngaa Rauru Kiitahi taken prisoner during the wars of the 1860s, such as those who were at Weraroa in 1865, resulted in hardships for those imprisoned and their whaanau and hapuu and that these hardships were suffered again in 1879–1880; and
@@ -192,7 +188,7 @@ The text of the acknowledgements in English as set out in the deed of settlement
   (c) as a result of the confiscation in 1865, Ngaa Rauru Kiitahi was dispossessed of land and resources and unable to exercise Ngaa Raurutanga over them, which had a devastating effect on the economic development and the social and cultural well-being of Ngaa Rauru Kiitahi; and
   (d) the prejudicial effect of the confiscation was compounded by the inadequacies in the Compensation Court process, by which reserves were to be granted to Ngaa Rauru Kiitahi; and
   (e) delays in the implementation of the Compensation Court awards and systematic Crown acquisition of Ngaa Rauru Kiitahi interests meant that ultimately Ngaa Rauru Kiitahi received only 3 000 of the 17 000 acres granted to south Taranaki Maori by the Compensation Court; and
-  (f) when land was finally returned, Ngaa Rauru Kiitahi found that its customary title to this land had been compulsorily extinguished by the Crown's confiscation, and this was a breach of the Treaty of Waitangi and its principles; and
+  (f) when land was finally returned, Ngaa Rauru Kiitahi found that its customary title to this land had been compulsorily extinguished by the Crown’s confiscation, and this was a breach of the Treaty of Waitangi and its principles; and
   (g) the confiscation was unjust, compulsorily extinguished Ngaa Rauru Kiitahi customary title to land, and was a breach of the Treaty of Waitangi and its principles.
 (5) The Crown acknowledges that the treatment of those Ngaa Rauru Kiitahi and Taranaki Maori imprisoned and exiled as a result of the passive resistance campaign from 1879 to 1880 deprived those people of basic human rights, inflicted unwarranted hardships on them and their whaanau and hapuu, and this was a breach of the Treaty of Waitangi and its principles.
 (6) The Crown acknowledges that:
@@ -204,7 +200,7 @@ The text of the acknowledgements in English as set out in the deed of settlement
 (7) The Crown acknowledges that:
   (a) some Crown policies relating to Maori land have had a prejudicial effect on those Ngaa Rauru Kiitahi who wished to retain their land and diminished their ability to exercise Ngaa Raurutanga over that land; and
   (b) the town of Waverley, the Nukumaru Domain, the vast scenic reserves, and other tracts of land now making up the conservation estate, were once under the protection of Ngaa Rauru Kiitahi as kaitiaki; and
-  (c) the people of Taranaki and New Zealand generally have benefited from the land and other resources confiscated and otherwise alienated from Ngaa Rauru Kiitahi, while the cumulative effect of the Crown's actions has been to leave Ngaa Rauru Kiitahi virtually landless; and
+  (c) the people of Taranaki and New Zealand generally have benefited from the land and other resources confiscated and otherwise alienated from Ngaa Rauru Kiitahi, while the cumulative effect of the Crown’s actions has been to leave Ngaa Rauru Kiitahi virtually landless; and
   (d) the Crown has failed to ensure that sufficient land was retained by Ngaa Rauru Kiitahi for their present and future needs and this failure was a breach of the Treaty of Waitangi and its principles.
 (8) The Crown acknowledges that Ngaa Rauru Kiitahi has pursued grievances that relate to Crown action in the 19th and 20th centuries in addition to those grievances the Crown acknowledges are in breach of the Treaty of Waitangi and its principles. Ngaa Rauru Kiitahi has sought redress for its grievances for the last 150 years and, despite efforts made in the 20th century, the Crown has failed to deal with the grievances of Ngaa Rauru Kiitahi and its breaches of the Treaty of Waitangi and its principles in an appropriate way. The recognition of these grievances and breaches is long overdue. The sense of grief and loss suffered by Ngaa Rauru Kiitahi remains today.
 
@@ -235,11 +231,9 @@ It is the intention of Parliament that the provisions of this Act are interprete
 
 ### 12 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **antiquities protocol**
-  - **antiquities protocol area**
   - **archaeological site** has the meaning given to it in section 2 of the Historic Places Act 1993
   - **business day** means the period of 9 am to 5 pm on any day of the week other than—
-    (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, ANZAC Day, the Sovereign's Birthday, and Labour Day; and
+    (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, ANZAC Day, the Sovereign’s birthday, and Labour Day; and
     (b) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year; and
     (c) the days observed as the anniversaries of the provinces of Wellington and Taranaki
   - **chief executive** means the chief executive of Land Information New Zealand
@@ -266,7 +260,7 @@ In this Act, unless the context otherwise requires,—
     (c) is in the form set out in Part 2 of Schedule 1 of the deed of settlement, or as the protocol is amended under section 21
   - **DOC protocol area** means the area shown on the map attached to the DOC protocol
   - **effective date** means the date that is 6 months after the settlement date
-  - **umbrance** enc means, in respect of a cultural redress property, a lease, tenancy, licence to occupy, easement, covenant, or other right affecting that property listed in column 3 of Schedule 1
+  - **encumbrance** means, in respect of a cultural redress property, a lease, tenancy, licence to occupy, easement, covenant, or other right affecting that property listed in column 3 of Schedule 1
   - **fisheries legislation** means—
     (a) the Fisheries Act 1983:
     (b) the Fisheries Act 1996:
@@ -305,13 +299,13 @@ In this Act, unless the context otherwise requires,—
       (ii) any 1 or more members of Ngaa Rauru Kiitahi; or
       (iii) any 1 or more of the hapuu, groups, family, or whaanau of individuals referred to in section 13(1)(b)(ii)
   - **resource consent** has the meaning given to it in section 87 of the Resource Management Act 1991
-  - **responsible Minister** means, in subpart 1 of Part 4, 1 of the following Ministers
+  - **responsible Minister** means, in subpart 1 of Part 4, one of the following Ministers:
     (a) the Minister of Conservation:
     (b) the Minister for Economic Development:
     (c) the Minister of Fisheries:
     (d) the Minister for Arts, Culture and Heritage:
     (e) any other Minister of the Crown who is authorised by the Prime Minister to exercise powers and perform functions and duties under subpart 1 of Part 4
-  - **responsible Ministry** means, in subpart 1 of Part 4, 1 of the following departments of State
+  - **responsible Ministry** means, in subpart 1 of Part 4, one of the following departments of State:
     (a) the Department of Conservation:
     (b) the Ministry for Economic Development:
     (c) the Ministry of Fisheries:
@@ -365,7 +359,7 @@ In this Act, unless the context otherwise requires,—
     (ii) other natural or physical resources.
 
 ### 14 Meaning of Ngaa Rauru Kiitahi historical claims
-(1) In this Act, Ngaa Rauru Kiitahi historical claims —
+(1) In this Act, Ngaa Rauru Kiitahi historical claims—
   (a) means every claim (whether or not the claim has arisen or been considered, researched, registered, or notified on or before the settlement date) that Ngaa Rauru Kiitahi (or a representative entity) had at, or at any time before, the settlement date, or may have at any time after the settlement date, and that—
     (i) is, or is founded on, a right arising—
       (A) from the Treaty of Waitangi or the principles of the Treaty of Waitangi; or
@@ -390,7 +384,7 @@ In this Act, unless the context otherwise requires,—
   (d) does not include the following claims:
     (i) a claim that Ngaa Uki o Ngaa Rauru Kiitahi, or a whaanau, hapuu, or group of individuals referred to in section 13(1)(c) may have that is, or is founded on, a right arising as a result of being descended from an ancestor who is not a Ngaa Rauru Kiitahi tupuna; or
     (ii) a claim that a representative entity may have to the extent that the claim is, or is based on, a claim referred to in subparagraph (i).
-(2) Subsection (1)(a) is not limited by subsection (1)(b) or subsection (l)(c).
+(2) Subsection (1)(a) is not limited by subsection (1)(b) or subsection (1)(c).
 
 ## Part 3 — Settlement of historical claims and miscellaneous matters
 
@@ -411,13 +405,7 @@ In this Act, unless the context otherwise requires,—
 **Treaty of Waitangi Act 1975 amended**
 
 ### 16 Jurisdiction of Tribunal to consider claims
-Section 6 of the Treaty of Waitangi Act 1975 is amended by adding the following subsections:
-  (27) Despite anything in this Act or in any other enactment or rule of law, on and from the settlement date (as defined in section 12 of the Ngaa Rauru Kiitahi Claims Settlement Act 2005), the Tribunal does not have jurisdiction (including, without limitation, the jurisdiction to inquire or further inquire into, or to make a finding or recommendation) in respect of—
-    (a) any or all of the Ngaa Rauru Kiitahi historical claims, as defined in section 14 of the Ngaa Rauru Kiitahi Claims Settlement Act 2005; or
-    (b) the deed of settlement, as defined in section 12 of the Ngaa Rauru Kiitahi Claims Settlement Act 2005; or
-    (c) the redress provided to the governance entity (as defined in section 12 of the Ngaa Rauru Kiitahi Claims Settlement Act 2005); or
-    (d) the Ngaa Rauru Kiitahi Claims Settlement Act 2005.
-  (28) Subsection (27) does not exclude the jurisdiction of the Tribunal in respect of the interpretation or implementation of the deed of settlement or the Ngaa Rauru Kiitahi Claims Settlement Act 2005.
+[Repealed]
 
 **Protections no longer apply**
 
@@ -474,7 +462,7 @@ Section 6 of the Treaty of Waitangi Act 1975 is amended by adding the following 
   (b) the Minister who issued the protocol.
 (3) The Minister who issued the protocol may amend or cancel that protocol only after consulting with, and having particular regard to the views of, the governance entity.
 
-### 22 Protocols subject to the Crown's obligations
+### 22 Protocols subject to the Crown’s obligations
 Protocols do not restrict—
   (a) the ability of the Crown to perform its functions and duties and exercise its powers in accordance with the law and government policy, which includes (without limitation) the ability to—
     (i) introduce legislation and change government policy; and
@@ -496,8 +484,8 @@ Protocols do not restrict—
   (b) the statutes listed in Schedule 1 of that Act.
 (2) The fisheries protocol does not have the effect of granting, creating, or providing evidence of an estate or interest in, or rights relating to, assets or other property rights held, managed, or administered under fisheries legislation or under the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992 (including fish, aquatic life, and seaweed) or under the Maori Fisheries Act 2004.
 (3) The MED protocol does not have the effect of granting, creating, or providing evidence of an estate or interest in, or rights relating to, Crown owned minerals.
-(4) The protected New Zealand objects protocol does not have the effect of granting, creating, or providing evidence of an estate or interest in, or rights relating to, protected New Zealand objects or nga taonga tuturu.
-(5) In this section, protected New Zealand object and taonga tuturu have the meanings they are given in section 2 of the Protected Objects Act 1975.
+(4) The protected New Zealand objects protocol does not have the effect of granting, creating, or providing evidence of an estate or interest in, or rights relating to, protected New Zealand objects or ngā taonga tūturu.
+(5) In this section, protected New Zealand object and taonga tūturu have the meanings they are given in section 2 of the Protected Objects Act 1975.
 
 **Noting of certain protocols**
 
@@ -553,7 +541,7 @@ In this subpart,—
 (5) The vesting of the Bed of Lake Moumahaki under subsection (1) does not give any rights to, or impose any obligations on, the governance entity in relation to—
   (a) the waters of Lake Moumahaki; or
   (b) the aquatic life of Lake Moumahaki (other than plants attached to the Bed of Lake Moumahaki).
-(6) The boundary of the Bed of Lake Moumahaki will be a move-able natural boundary as defined by the mean high water level of the lake.
+(6) The boundary of the Bed of Lake Moumahaki will be a moveable natural boundary as defined by the mean high water level of the lake.
 (7) If any future changes in the position of the mean high water level are sudden or caused by unnatural means, those changes will not alter the position of the boundary of the Bed of Lake Moumahaki.
 (8) If the position of the mean high water level changes gradually and imperceptibly over a period of time, the normal rules of accretion and erosion apply.
 
@@ -566,7 +554,7 @@ In this subpart,—
 (4) The reservation under the Reserves Act 1977 over the Nukumaru site is revoked.
 (5) On revocation of the reserve status of the Nukumaru site, the site vests in the Crown as Crown land and is subject to section 82 of the Reserves Act 1977 before it vests in the governance entity.
 (6) The fee simple estate in the Nukumaru site vests in the governance entity.
-(7) Despite section 38(5), the marginal strip arising under section 24 of the Conservation Act 1987 in relation to the disposition of the Nukumaru site is reduced to a marginal strip of 15 m between peg 10B and peg 10C as shown in diagram A on SO 339326.
+(7) Despite section 38(5), the marginal strip arising under section 24 of the Conservation Act 1987 in relation to the disposition of the Nukumaru site is reduced to a marginal strip of 15 metres between peg 10B and peg 10C as shown in diagram A on SO 339326.
 (8) Each grazing lease noted as an encumbrance in relation to the Nukumaru site in Schedule 1 (the Nukumaru encumbrances) binds successors in title to the Nukumaru site until the expiry or termination of the encumbrance, whichever is the earlier.
 (9) On the creation of the computer freehold register for the Nukumaru site, the Registrar-General of Land must note that the register is subject to subsection (8).
 (10) The Registrar-General must remove the note made under subclause (9) from the computer freehold register on receipt of a written request from the registered proprietor of the Nukumaru site, subject to subsection (11).
@@ -772,7 +760,7 @@ Except as expressly provided in this subpart, neither a statutory acknowledgemen
 **Amendment to Resource Management Act 1991**
 
 ### 57 Amendment to Resource Management Act 1991
-Schedule 11 of the Resource Management Act 1991 is amended by inserting, in the appropriate alphabetical order, the following item:Ngaa Rauru Kiitahi Claims Settlement Act 2005.
+Amendment(s) incorporated in the Act(s).
 
 ### Subpart 4 — Uukaipoo entitlements
 
@@ -842,11 +830,11 @@ An Uukaipoo entitlement is granted to the governance entity for the purpose of p
 ### 67 Activities on Uukaipoo sites
 (1) This section applies subject to section 65.
 (2) The governance entity may, with the written consent of the land holding agent, permit members of Ngaa Rauru Kiitahi to undertake other activities on Uukaipoo sites that are reasonably necessary for the Uukaipoo entitlement to be used for the purpose set out in section 62.
-(3) When applying for the land holding agent's consent, the governance entity must provide to the land holding agent full details of the proposed activities, including (but not limited to)—
+(3) When applying for the land holding agent’s consent, the governance entity must provide to the land holding agent full details of the proposed activities, including (but not limited to)—
   (a) the effect of the proposed activities—
     (i) on the Uukaipoo sites; and
     (ii) if the Uukaipoo site is held under the Conservation Act 1987 or an Act listed in Schedule 1 of that Act, on the surrounding land and associated flora and fauna; and
-  (b) any measures that the governance entity proposes to take (if the land holding agent's consent is given) to avoid, remedy, or mitigate adverse effects.
+  (b) any measures that the governance entity proposes to take (if the land holding agent’s consent is given) to avoid, remedy, or mitigate adverse effects.
 (4) In considering whether to give consent in relation to land held under the Conservation Act 1987 or an Act listed in Schedule 1 of that Act, the land holding agent may require the governance entity to obtain, at the expense of the governance entity, an environmental impact report about the proposed activities and an audit of that report.
 (5) The giving of consent is at the complete discretion of the land holding agent.
 (6) The land holding agent may give consent subject to any conditions that he or she thinks fit to impose.
@@ -861,18 +849,18 @@ The grant and exercise of an Uukaipoo entitlement must not impede access by memb
 ### 69 Crown functions to continue
 The grant and exercise of an Uukaipoo entitlement does not prevent agents of the Crown or persons exercising statutory powers from undertaking their functions in relation to the land over which an Uukaipoo entitlement is granted.
 
-### 70 Uukaipoo entitlement does not restrict the Crown's right to dispose of land
-The grant and exercise of an Uukaipoo entitlement does not restrict the Crown's right to dispose of an Uukaipoo site, land adjacent to an Uukaipoo site, or land adjacent to a waterway.
+### 70 Uukaipoo entitlement does not restrict the Crown’s right to dispose of land
+The grant and exercise of an Uukaipoo entitlement does not restrict the Crown’s right to dispose of an Uukaipoo site, land adjacent to an Uukaipoo site, or land adjacent to a waterway.
 
 ### 71 Governance entity may enforce rights against other persons
 While members of Ngaa Rauru Kiitahi are occupying an Uukaipoo site under an Uukaipoo entitlement, the governance entity may enforce its rights under the Uukaipoo entitlement against persons who are not parties to the deed of settlement as if the governance entity were the owner of the Uukaipoo site.
 
-### 72 Crown's obligation to provide lawful access
+### 72 Crown’s obligation to provide lawful access
 (1) If an event described in subsection (2) occurs during the term of an Uukaipoo entitlement, the Crown must ensure that the governance entity continues, for the rest of the term, to have the same type of access to the Uukaipoo site as it had before the event occurred.
 (2) The events are—
   (a) the Crown disposing of land adjacent to an Uukaipoo site:
   (b) a change in the classification or status of land adjacent to an Uukaipoo site.
-(3) The Crown's obligation in subsection (1) is subject to compliance with all applicable provisions in or under any other enactment.
+(3) The Crown’s obligation in subsection (1) is subject to compliance with all applicable provisions in or under any other enactment.
 
 ### 73 Compliance with laws, bylaws, and land and water management practices
 (1) The governance entity, members of Ngaa Rauru Kiitahi permitted to occupy an Uukaipoo site under section 63, and activities carried out on that Uukaipoo site by them are subject to the laws, regulations, bylaws, and land and water management practices that apply to that Uukaipoo site.
@@ -962,7 +950,7 @@ The site described in Schedule 12 has Ngaa Rauru Kiitahi values and is a Toopuni
   (c) enable the taking of action under sections 93 to 96.
 (2) This section does not limit sections 100 to 102.
 
-### 88 Crown's acknowledgement of Ngaa Rauru Kiitahi values
+### 88 Crown’s acknowledgement of Ngaa Rauru Kiitahi values
 The Crown acknowledges Ngaa Rauru Kiitahi values in relation to the Toopuni.
 
 ### 89 Agreement on protection principles
@@ -1013,7 +1001,7 @@ The Minister of Conservation may make bylaws for the following purposes:
     (ii) for a continuing offence, an amount not exceeding $50 for every day during which the offence continues.
 
 ### 97 Notification of actions in Gazette
-(1) The Minister of Conservation must notify in the Gazette —
+(1) The Minister of Conservation must notify in the Gazette—
   (a) the declaration of each Toopuni; and
   (b) any principles agreed under section 89, and any agreed changes to those principles.
 (2) The Director-General may, at his or her discretion, notify in the Gazette any action taken or intended to be taken under any of sections 93 to 95.
@@ -1033,7 +1021,7 @@ The purpose or classification of an area as a national park, conservation area, 
   (b) there is a change in the statutory management regime that applies to all or part of the Toopuni.
 (4) If this subsection applies, the Crown must take reasonable steps to ensure that the governance entity continues to have input into the management of that part of the Toopuni affected by the alienation, or change in management responsibility, through negotiation with the governance entity by—
   (a) the Minister of the Crown responsible for the new management or the management regimes; or
-  (b) the Commissioner of Crown lands; or
+  (b) the Commissioner of Crown Lands; or
   (c) any other responsible official.
 
 ### 100 Exercise of powers, duties, and functions
@@ -1104,8 +1092,7 @@ Except as expressly provided in this subpart,—
 **Amendment to Resource Management Act 1991**
 
 ### 112 Amendment to section 165R of Resource Management Act 1991
-Section 165R(2) of the Resource Management Act 1991 is amended by adding the following paragraph:
-  (d) section 106 of the Ngaa Rauru Kiitahi Claims Settlement Act 2005.
+Amendment(s) incorporated in the Act(s).
 
 ### Subpart 8 — Place name
 
@@ -1119,49 +1106,34 @@ Section 165R(2) of the Resource Management Act 1991 is amended by adding the fol
 
 | Name of site | Description | Encumbrances |
 | --- | --- | --- |
-| Nukumaru site | Wellington Land District—South Taranaki District | Subject to an unregistered grazing lease to David Vater Pearce and John Vater Pearce. |
-|  | 108.1900 hectares, more or less, being Section 1 SO 339326. Part Gazette 1895 page 1249. | Subject to an unregistered grazing lease to Harvey Emerson Wilson. |
-|  |  | Together with a right of way easement referred to in clause 10.3 of the deed of settlement. |
-| Puau site | Wellington District Land—South Taranaki District | Subject to an informal grazing right to John Keith Belton. |
-|  | 4.4110 hectares, more or less, being Section 8 Block 1 Nukumaru Survey District. Part Proclamation 5006. |  |
-| Waiinu Beach site | Wellington Land District—South Taranaki District | Subject to an informal right grazing to David Vater Pearce and John Vater Pearce. |
-|  | 4.9133 hectares, more or less, being Section 1 SO 338218. Part Gazette Notice B059352.1 and Part Gazette Notice B059352.3. |  |
-| Bed of Lake Moumahaki | Wellington Land District—South Taranaki District |  |
-|  | 34.3000 hectares, more or less, being Section 1 SO 345090 Part Gazette 1865 page 266. |  |
-| Rehu Village site | Taranaki Land District—South Taranaki District | Subject to an easement for water storage and release in favour of Trustpower Limited referred to in clause 10.8.4 of the deed of settlement. |
-|  | 8.8010 hectares, more or less, being Sections 1 and 2 SO 338793. Part Gazette 1877 page 773, Part Gazette 1935 page 627, and Part Gazette 1951 page 1824. |  |
+| Nukumaru site | Wellington Land District—South Taranaki District108.1900 hectares, more or less, being Section 1 SO 339326. Part Gazette 1895 page 1249. | Subject to an unregistered grazing lease to David Vater Pearce and John Vater Pearce.Subject to an unregistered grazing lease to Harvey Emerson Wilson.Together with a right of way easement referred to in clause 10.3 of the deed of settlement. |
+| Puau site | Wellington District Land—South Taranaki District4.4110 hectares, more or less, being Section 8 Block 1 Nukumaru Survey District. Part Proclamation 5006. | Subject to an informal grazing right to John Keith Belton. |
+| Waiinu Beach site | Wellington Land District—South Taranaki District4.9133 hectares, more or less, being Section 1 SO 338218. Part Gazette Notice B059352.1 and Part Gazette Notice B059352.3. | Subject to an informal grazing right to David Vater Pearce and John Vater Pearce. |
+| Bed of Lake Moumahaki | Wellington Land District—South Taranaki District34.3000 hectares, more or less, being Section 1 SO 345090 Part Gazette 1865 page 266. |  |
+| Rehu Village site | Taranaki Land District—South Taranaki District8.8010 hectares, more or less, being Sections 1 and 2 SO 338793. Part Gazette 1877 page 773, Part Gazette 1935 page 627, and Part Gazette 1951 page 1824. | Subject to an easement for water storage and release in favour of Trustpower Limited referred to in clause 10.8.4 of the deed of settlement. |
 
 ## Schedule 2 — Uukaipoo sites
 
-| Wellington Land District—South Taranaki District |  |  |
-| --- | --- | --- |
 | Waterway | Name | Description |
-| Lake Mangawhio | Mangawhio Lake | 2944 m2, as shown marked A on SO 345792. |
+| --- | --- | --- |
+| Lake Mangawhio | Mangawhio Lake | 2944 square metres, as shown marked A on SO 345792. |
 | Waitotara River | Tapuarau | 1.00 hectare, as shown marked A, B, and C on SO 339072. |
 
 ## Schedule 3 — Statutory areas for statutory acknowledgements
 
 | Area | Description |
 | --- | --- |
-| Nukumaru Recreation Reserve | Wellington Land District |
-|  | As shown on SO 314760. |
-| Ototoka Scenic Reserve | Wellington Land District |
-|  | As shown on SO 314764. |
-| Coastal Marine Area adjoining the Ngaa | Wellington Land District |
-| Rauru Kiitahi area of interest | As shown on SO 314770. |
+| Nukumaru Recreation Reserve | Wellington Land DistrictAs shown on SO 314760. |
+| Ototoka Scenic Reserve | Wellington Land DistrictAs shown on SO 314764. |
+| Coastal Marine Area adjoining the Ngaa Rauru Kiitahi area of interest | Wellington Land DistrictAs shown on SO 314770. |
 
 | Area | Description |
 | --- | --- |
-| Hawkens Lagoon Conservation Area | Wellington Land District |
-| (to be renamed Tapuarau Conservation Area) | As shown on SO 314758. |
-| Lake Beds Conservation Area | Wellington Land District |
-|  | As shown on SO 314762. |
-| Patea River | Taranaki Land District |
-|  | As shown on SO 314766. |
-| Whenuakura River | Taranaki Land District and Wellington Land District |
-|  | As shown on SO 314767. |
-| Waitotara River | Taranaki Land District and Wellington Land District |
-|  | As shown on SO 314768. |
+| Hawkens Lagoon Conservation Area (to be renamed Tapuarau Conservation Area) | Wellington Land DistrictAs shown on SO 314758. |
+| Lake Beds Conservation Area | Wellington Land DistrictAs shown on SO 314762. |
+| Patea River | Taranaki Land DistrictAs shown on SO 314766. |
+| Whenuakura River | Taranaki Land District and Wellington Land DistrictAs shown on SO 314767. |
+| Waitotara River | Taranaki Land District and Wellington Land DistrictAs shown on SO 314768. |
 
 ## Schedule 4 — Statutory acknowledgement for Nukumaru Recreation Reserve
 
@@ -1181,7 +1153,7 @@ Section 165R(2) of the Resource Management Act 1991 is amended by adding the fol
 
 ## Schedule 12 — Toopuni site
 
-| Te reo: | Waiata and koorero relating to Toopuni were preserved in te reo. |
+| Te reo: | Waiata and koorero relating to Toopuni are preserved in te reo. |
 | --- | --- |
 | Wairuatanga: | The relationship between Ngaa Rauru Kiitahi and Toopuni is expressed in waiata, koorero, and karakia. Karakia, in particular, have always been used when harvesting kai. Wairua impacts upon the way in which individuals conduct themselves around kai, the harvesting of kai and the tikanga around the eating of kai. |
 | Maatauranga: | Maatauranga was passed on from one generation to another through karakia, waananga, and mihimihi. The knowledge that has been passed on includes the history of Toopuni and conservation methods exercised by Ngaa Rauru Kiitahi as kaitiaki of Toopuni. |
