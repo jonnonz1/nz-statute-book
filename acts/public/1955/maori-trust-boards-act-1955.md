@@ -1,5 +1,5 @@
 # Maori Trust Boards Act 1955
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-05-23_
 
 > An Act to make better provision for the administration of certain Maori Trust Boards
 
@@ -8,12 +8,14 @@ _Consolidation as at 2007-09-03_
 (2) This Act shall come into force on the 1st day of January 1956.
 
 ### 2 Interpretation
-In this Act, unless the context otherwise requires,—
+(1) In this Act, unless the context otherwise requires,—
+  - **adult beneficiary** means a beneficiary who is 18 years of age or over
   - **Beneficiary** means any person for whose benefit the assets of a Board are administered under this Act
   - **Committee** means a Committee appointed by a Board under section 20 of this Act
   - **Maori** means a person belonging to the aboriginal race of New Zealand; and includes any descendant of a Maori
   - **Maori Trust Board** or means any Maori Trust Board referred to in Part 1 of this Act; and includes any body that is declared by any enactment to be a Maori Trust Board within the meaning of this Act
   - **Minister** means the Minister of Maori Affairs.
+(2) The definition of adult beneficiary applies to a Maori Trust Board in relation to the first election conducted under Part 3 after the commencement of this subsection.
 
 ## Part 1 — Constitution of Maori Trust Boards
 
@@ -98,12 +100,9 @@ Whereas the Urewera Lands Act 1921-22 authorised the appointment of Commissioner
 **Tuwharetoa Maori Trust Board**
 
 ### 10 Tuwharetoa Maori Trust Board
-(1) The body corporate constituted by section 16 of the Maori Land Amendment and Maori Land Claims Adjustment Act 1926 under the name of the Tuwharetoa Trust Board and continued in existence by section 55 of the Maori Purposes Act 1931 shall continue to exist and shall henceforth be known as the Tuwharetoa Maori Trust Board.
-(2) There shall, without further appropriation than this section, be paid out of public money to the Board on the 1st day of April in each year, the sum of $9,000.
-(3) There shall, from time to time, be paid to the Board:
-  (a) Half the total amount of all fees over and above the sum of $6,000 received for licences issued during the preceding financial year for fishing or in respect of boats or vessels in the district constituted under section 14 of the Maori Land Amendment and Maori Land Claims Adjustment Act 1926;
-  (b) Half the amount of the revenue received for camp sites located upon the rights of way created under the said section 14; and
-  (c) Half the amount of all fines and penalties recovered for breaches or infringements of the Fisheries Act 1908, or of the Harbours Act 1950, or of section 14 of the Maori Land Amendment and Maori Land Claims Adjustment Act 1926, or of any regulations under any of those Acts, committed within the district constituted under the said section 14.
+(1) The body corporate constituted by section 16 of the Maori Land Amendment and Maori Land Claims Adjustment Act 1926 under the name of the Tuwharetoa Trust Board and continued in existence by section 55 of the Maori Purposes Act 1931 shall continue to exist and shall henceforth be known as the Tuwharetoa Maori Trust Board (the Board).
+(2) Without further appropriation than this section, the sum of $1,500,000, or a greater or lesser sum that is agreed between the Crown and the Board, in accordance with the deed defined in subsection (3), must be paid out of public money to the Board on the first day of July in each year.
+(3) In subsection (2), deed means the deed entered into on 10 September 2007 by Her Majesty the Queen in right of New Zealand acting by and through the Minister of Conservation (the Crown) and the Board established under subsection (1).
 (4) The beneficiaries of the Board are hereby declared to be the members of the Tuwharetoa tribe and their descendants.
 
 **Wairoa-Waikaremoana Maori Trust Board**
@@ -245,7 +244,7 @@ Any Board may from time to time, in its discretion—whether or not any such gra
 
 ### 24B Trusts for charitable purposes
 (1) Any Board may from time to time, in its discretion, execute under its seal a declaration of trust declaring that it shall stand possessed of any of its property, whether real or personal, upon trust for charitable purposes.
-(2) Any income derived by the Board from any property to which the declaration relates shall be applied for such purposes referred to in section 24 or section 24A of this Act as may be specified in the declaration of trust; and, for the purposes of the Income Tax Act 2004, any such income shall be deemed to be income derived by trustees in trust for charitable purposes.
+(2) Any income derived by the Board from any property to which the declaration relates shall be applied for such purposes referred to in section 24 or section 24A of this Act as may be specified in the declaration of trust; and, for the purposes of the Income Tax Act 2007, any such income shall be deemed to be income derived by trustees in trust for charitable purposes.
 (3) No declaration of trust under this section shall have any force or effect unless it has been approved by the Commissioner of Inland Revenue.
 
 ### 24C Boards may accept trusts
@@ -369,7 +368,7 @@ Nothing in the Maori Affairs Act 1953 shall prevent the alienation, assignment, 
 (2) Each Board may pay to its members remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951 and the provisions of that Act shall apply accordingly.
 
 ### 41A Payments to Maori Trust Boards by Crown not to constitute income for taxation purposes
-(1) No money paid to a Maori Trust Board from public money pursuant to any provision contained in Part 1 of this Act, and no money so paid under the corresponding provisions of any Act repealed by this Act, shall, for the purposes of the Income Tax Act 2004, or the Social Security Act 1964, or any other enactment, be deemed to be income of that Board.
+(1) No money paid to a Maori Trust Board from public money pursuant to any provision contained in Part 1 of this Act, and no money so paid under the corresponding provisions of any Act repealed by this Act, shall, for the purposes of the Income Tax Act 2007, or the Social Security Act 1964, or any other enactment, be deemed to be income of that Board.
 (2) The provisions of subsection (1) of this section shall apply to all money paid or payable to the Tuwharetoa Maori Trust Board pursuant to section 10 of this Act.
 
 ## Part 3 — Elections
