@@ -1,87 +1,103 @@
-# Ngati Turangitukua Claims Settlement Act 1999
-_Consolidation as at 2007-09-03_
+# Ngāti Tūrangitukua Claims Settlement Act 1999
+_Consolidation as at 2008-05-23_
 
-> An Act—aTo record the apology given by the Crown to Ngati Turangitukua in the deed of settlement executed on 26 September 1998 by the Minister in Charge of Treaty of Waitangi Negotiations, the Right Honourable Sir Douglas Arthur Montrose Graham, for the Crown, and Ngati Turangitukua; andbTo give effect to certain provisions of that deed of settlement, being a deed that settles the Ngati Turangitukua claims
+> An Act—ato record the apology given by the Crown to Ngāti Tūrangitukua in the deed of settlement executed on 26 September 1998 by the Minister in Charge of Treaty of Waitangi Negotiations, the Right Honourable Sir Douglas Arthur Montrose Graham, for the Crown, and Ngāti Tūrangitukua; andbto give effect to certain provisions of that deed of settlement, being a deed that settles the Ngāti Tūrangitukua claims
 
 ## Preamble
-HE KORERO TAHUHUWhakatakotohia ana e te Karauna tana Kaupapa Whanake Hiko i TongariroKa hui te Karauna ki a Ngati TurangitukuaKa timata nga mahiHoko ana te Karauna i nga rawaTe tono i raro i te Ture Tiriti o Waitangi, 1975Nga whakataunga a te Taraipiunara o WaitangiTe whakahaerenga o te take kimi rongoaNga whiriwhiritanga i waenganui i a Ngati Turangitukua me te KaraunaTe whakatatutanga o nga tono
-(A.) E mau eke nei te Rarangi Tapiri Tuatahi mo tenei ture, e whakaupoko ana i roto i te reo Maori me te reo Pakeha i nga tikanga o Te Tiriti o Waitangi.
-(B.) Ko Ngati Turangitukua he hapu no te iwi o Ngati Tuwharetoa, a, i heke mai i to ratou tipuna i a Turangitukua. Ko ratou te tangata whenua o te wahi e tu nei te Taone o Turangi, a, no ratou hoki te mana whenua mai ra ano a mohoa nei.
-(C.) I te tekau tau i muri mai i te tau 1950, hei whakaea noa i te hiahia o muri mai i te Pakanga Tuarua o te Ao kia wawe tonu te whakawhanuitia o nga rawa pungao kia taea ai te whakatutuki te whakaahumahitanga o Aotearoa e horapa haere ana i taua wa ra, ka whakatakotohia e te Karauna tana kaupapa Whanake Hiko i Tongariro (WHT). E tutuki pai ai te WHT me nui tonu nga kaimahi me te wahi whakanoho i aua kaimahi a tutuki noa te kaupapa.
-(D.) E wha nga wahi i whakaarotia ake hei tunga mo te taone e noho ai nga kaimahi, ara, ko Rotoaira, ko Rangipo, ko Turangai-ki-te-uru me Turangi-ki-te- rawhiti. I whakaarotia ake ano kia whakaturia he taone taupua ki Rotoaira me Rangipo. Heoi ano ko ta te Karauna i pai ke ai ko te whakatu taone pumau kia puta ano ai he hua i tana i whakapau ai kia tu ai taua taone. Ko nga wahi i whakaarotia ake hei tunga mo te taone pumau ko Turangi-ki-te-uru, e tu tata ra ki te taone o Turangi o enei ra nei, a, no Ngati Turangitukua nei taua whenua, tae atu hoki ki te whenua o te Karauna i Turangi-ki-te-rawhiti.
-(E.) Ko te hua e ahu mai ana i te Moana o Taupo i te hunga haere mai ki te torotoro, ki te matakitaki hoki i te mohiotia tae atu ki nga hua a-putea ka puta ina whakaturia he taone pumau mena ra ki te kitea he whenua kaore i te herea e te rihi. I whakaarotia ake anonga ara e mama ai te tae atu o te tangata ki taua taone, te ahua o nga rangi, me te rawaka ano o te whenua kia taea ai tetahi taone te whakatu, me te whakanui atu a tona wa. Ko ta te Karauna i pai ai ko te whenua i Turangi-ki-te-uru. I te marama o Hui-tanguru i te tau 1964 ka timata te Karauna i tana mahi, ara, te riro atu o nga whenua ahua nui tonu o Ngati Turangitukua kaore nei i te herea e te rihi (i a ia). Kaore i whakaarotia ake e te Karauna nga ahuatanga kikino ka pa ki a Ngati Turangitukua i te rironga kau noa o o ratou whenua.
-(F.) I mua atu i tenei i hui te Karauna ki etahi o nga mema o Te Poari Kaitiaki Maori o Tuwharetoa me etahi o te iwi o Ngati Turangitukua ki te whakamarama i te ahua o te WHT ki a ratou me te riro ano pea i a ratou o etahi o nga whenua o Ngati Turangitukua i Turangi-ki-te-uru. I te marama o Mahuru i te tau 1964 ko te hui tuatahi a te Karauna ki te katoa o Ngati Turangitukua ki te whiriwhiri i te whanui o te kaupapa e pa ana ki te WHT me te nui o te whenua e hiahiatia ana hei whakatu i te taone. I taua hui ra i whakaae a Ngati Turangitukua, hei tona wa ano nei ata whakamanatia ai, kia whakaturia te taone ki runga i nga whenua o Ngati Turangitukua. Heoi ano i a Ngati Turangitukua e whakaae atu ra i te whakapono ratou ki nga kupu taurangi atu a te Karauna mo te ahua o te riro atu o te whenua hei tunga mo te taone.
-(G.) I muri tonu mai o taua hui o Mahuru ra ka timata nga mahi e pa ana ki te WHT tae atu hoki ki te whakatunga o te taone. Ina ke noa atu te nui o te kaimahi i tau mai. Riro ana ma tenei ahua e whakaporearea te noho maori a Ngati Turangitukua, a, takahia ana te mana o nga kaumatua o Ngati Turangitukua e te Manatu Mahi. Haere ana nga mahi a te Karauna, ara, te tango whenua, te whakatu hoki i te taone; aro koretia ake ana nga panga mai o enei mahi ki a Ngati Turangitukua me nga kupu taurangi i puta i a ia, i te Karauna. Nui ke noa ake te whenua i riro i tera i whakaritea i te timatanga, a, i tohe te Karauna kia kaua aua whenua katoa e herea e te rihi ahakoa ana korero o mua atu ko te wahanga ahumahi o te taone ka noho tonu hei whenua rihi. Ukuukutia ana nga wahi tapu e te Karauna, a, korekore ana i paku taea te aha e Ngati Turangitukua, nga kaitiaki o aua wahi ra.
-(H.) No te tutukitanga o te kaupapa i nga tau whakapaunga o te tekau tau atu i 1970 ka timata te Manatu Mahi me etahi atu tari Kawanatanga ki te hokohoko i nga rawa o roto mai i te taone o Turangi. Tae rawa mai ki tenei whakatatutanga i te take nei kaore a Ngati Turangitukua me ona whanau i whai wahi atu ki te rironga mai ano o o ratou whenua tipuna.
-(I.) Ko te tono a Ngati Turangitukua, i rehitatia nei ki te Taraipiunaro o Waitangi i te tau 1989 i raro i te tau Wai 84, kia takoto he utu mo nga mahi kino i noho nei ko ratou te papa. Wawe tonu ana te whakahaeretia o te take i waenganui i nga marama o Paenga-whawha me Whiringa-a-nuku o te tau 1984, a, i puta te Purongo a te Taraipiunara i te marama o Mahuru o te tau 1995.
-(J.) I whakatau te Taraipiunara he nui tonu nga takatakahitanga a te Karauna i nga matapono o te Tiriti o Waitangi—
-  (i) I riro i te Karauna tetahi whenua Maori i Turangi-ki-te-uru i te wa he whenua tonu to te Karauna i Turangi-ki-te-rawhiti:
-  (ii) Kaore i rawaka nga huihuinga a te Karauna ki a Ngati Turangitukua mo te ahua ki te whakatunga o te taone:
-  (iii) Ko te whenua i riro hei tunga mo te taone i neke atu te nui i tera i oatitia e te Karauna ka riro i a ia:
-  (iv) Ko te whenua i whakaae te Karauna ka rihitia monga ahuatanga ahumahi, a, ka whakahokia mai ki te iwi i te ekenga o te 10-12 tau i ata tangohia kehia atu, kore rawa nei i whakahokia mai:
-  (v) Ukuukutia ana, tukinotia ana nga wahi tapu i te wa i whakaturia ai te taone:
-  (vi) Kaore i rawaka te utu mo nga whenua i riro:
-  (vii) Kore rawa atu te Karauna i aro ake ki te taha tiaki i te taiao:
-  (viii) Kaore i kauanuanutia e te Karauna te mana tangata whenua o Ngati Turangitukua:
-  (ix) Ko nga whakarite o roto i te Ture Mahi Tumatanui 1928 me te Ture Taone o Turangi 1964, i waiho nei e te Karauna hei tautoko i ta ratou urutomo, tango kau noa i te whenua o Ngati Turangitukua kei te noho taupatupatu ki te Ture II o te Tiriti e ki ra e ahei ana te Maori ki te pupuri i ona whenua a eke noa ki te wa e hiahia ai ia ki te hoko.
-(K.) Ko te whakatau a te Taraipiunara na nga mahi takatakahi a te Karauna i nga matapono o te Tiriti he nui tonu nga whenua tipuna o Ngati Turangitukua i ngaro atu. Noho ana ko te tuapapa ohaoha, iwi ano hoki hei papa mo tenei mahi, a, me te aha ano mate ana ko te taha wairua, taha tikanga, taha ohaoha o Ngati Turangitukua.
-(L.) No muri i te putanga o te purongo a te Taraipiunara ka noho te Karauna raua ko Ngati Turangitukua ki te whiriwhiri, ki te kimi rongoa ano hoki mo nga mate i pa ki a Ngati Turangitukua.
-(M.) Ko nga whiriwhiritanga i waenganui i te Karauna me Ngati Turangitukua i mutu noa iho ki te takiwa i te marama o Pipiri i te tau 1996. I te marama o Hongongoi i te tau 1996, i whakaaetia a Ngati Turangitukua kia whakahaeretia tana take kimi rongoa ki mua i te aroaro o te Taraipiunara o Waitangi kia ata whakatauhia ai me tino aha nga ahuatanga whakatatu mo roto o Wai 84, tae atu ki te whakahokinga mai o nga whenua me nga whakapainga i aua whenua i runga ano i ta te Tekiona 27B te Ture Hinonga Kawanatanga i ki ai. Ko te whakahaeretanga o tenei take i tu ki te marae o Hirangi i te marama o Hongongoi o te tau 1997.
-(N.) No muri mai i te putanga o te purongo a te Taraipiunara o Waitangi e kiia nei ko Te Purongo Kimi Rongoa e Pa Ana ki te Taone o Turangi i te marama o Hongongoi o te tau 1998, ka noho ano te Karauna raua ko Ngati Turangitukua ki te kimi, ki te whakaae i tetahi whakatatutanga whakamutunga o nga tono a Ngati Turangitukua, a, ki te whakakore ano hoki i te mamae e pa tonu ana ki a Ngati Turangitukua.
-(O.) Ko te Karauna, i runga ano i tana whakaae he nui nga mate i pa ki a Ngati Turangitukua, a, takea mai ana i reira te ngoi kore haere o te taha ohaoha, taha iwi, taha tikanga o Ngati Turangitukua, i whakaotia tetahi Puka Whakatatu, i te 26 o nga ra o Mahuru 1998, a, ki reira takoto mai ai nga ahuatanga katoa e taea ai nga tono katoa a Ngati Turangitukua te whakatatu, te whakaae mo ake tonu atu, a, e penei ana ano hoki te hiahia o Ngati Turangitukua.
-BACKGROUND IN ENGLISHThe Crown Develops the TPD ProposalThe Crown Meets Ngati TurangitukuaConstruction BeginsThe Crown Sells AssetsClaim Under the Treaty of Waitangi Act 1975Findings of the Waitangi TribunalThe Remedies HearingNegotiations Between Ngati Turangitukua and the CrownSettlement of Claims
-(A.) The Treaty of Waitangi is set out, in Maori and English, in Schedule 1.
-(B.) Ngati Turangitukua, a hapu of the tribe Ngati Tuwharetoa, are descended from their tupuna, Turangitukua. They are the tangata whenua of the area now comprised in the Turangi Township, and have had the manawhenua of that land since time immemorial.
-(C.) In the 1950s, in response to post World War II needs for rapid expansion of energy resources to meet the growing industrialisation in New Zealand, the Crown developed the Tongariro Power Development (TPD) proposal. At that time, it was the largest hydro development to be undertaken in New Zealand. The TPD would require a large construction force, and accommodation for that force, for the duration of the project.
-(D.) Four sites were considered for the township to accommodate the project workers: Rotoaira, Rangipo, Turangi West, and Turangi East. Temporary townships were considered at the sites of Rotoaira and Rangipo. However, the Crown favoured the provision of a permanent township which would ensure a return on its investment. Sites for a permanent township were considered at Turangi West, adjacent to the existing Turangi village and owned by Ngati Turangitukua, as well as Crown-owned land at Turangi East.
-(E.) The tourist potential of Lake Taupo was appreciated, as well as the economic benefits that could be captured by creating a permanent township, if a suitable freehold site were available. Having regard to accessibility, climate, and adequacy of suitable land for development of a township, the Crown preferred the Turangi West site. In February 1964, the Crown began the process which was to see the acquisition of the freehold interest in a significant portion of Ngati Turangitukua's ancestral land. It did not take into account the negative effects for Ngati Turangitukua of compulsorily acquiring its land.
-(F.) At an earlier stage, the Crown had met with members of the Tuwharetoa Maori Trust Board and some members of Ngati Turangitukua to advise them of the nature of the TPD project and to discuss the possibility of acquiring land owned by Ngati Turangitukua at the Turangi West site. In September 1964, the Crown met with Ngati Turangitukua as a whole for the first time to discuss the scope of the TPD including the land required for the township. Ngati Turangitukua there agreed in principle that the township be constructed on Ngati Turangitukua land. However, in so agreeing, Ngati Turangitukua relied on various assurances and undertakings given to it by the Crown as to the acquisition of land for the township.
-(G.) The construction of the TPD and the township began almost immediately after the September meeting. There was a large influx of construction workers. This disrupted the traditional lifestyles of Ngati Turangitukua people, and the Ministry of Works undermined the authority of Ngati Turangitukua kaumatua. The Crown had proceeded to acquire land and develop the township without proper regard for the interests of Ngati Turangitukua or for the assurances and undertakings given to it by the Crown. Considerably more land was acquired than had originally been outlined, and the Crown insisted on acquiring the freehold of all the land, notwithstanding earlier statements that the industrial area of the town would be leased. Wahi tapu were destroyed by the Crown, and the people of Ngati Turangitukua, their kaitiaki, were powerless to protect them.
-(H.) Following the completion of the project in the late 1970s, the Ministry of Works and other government departments began a process of selling assets within the Turangi township. Until the present settlement, Ngati Turangitukua and its constituent whanau were effectively denied the opportunity to regain ownership of their ancestral lands.
-(I.) The Ngati Turangitukua claim, registered with the Waitangi Tribunal as Wai 84 in 1989, sought compensation for these grievances. The claim was heard under urgency between April and October 1994, and the Tribunal's Report was released in September 1995.
-(J.) The Tribunal found that the Crown had breached the principles of the Treaty of Waitangi in a number of ways—
-  (i) The Crown acquired Maori land at Turangi West when Crown land at Turangi East was available:
-  (ii) The Crown did not adequately consult with Ngati Turangitukua regarding the construction of the township:
-  (iii) The land taken for the township was in excess of the maximum area that the Crown promised it would take:
-  (iv) The land the Crown undertook to lease for industrial purposes and return to the people after 10 to 12 years was compulsorily acquired and not returned:
-  (v) Wahi tapu were destroyed or damaged in the construction of the township:
-  (vi) Adequate compensation was not paid for land acquired:
-  (vii) The Crown did not give full effect to conservation values:
-  (viii) The Crown did not pay Ngati Turangitukua the respect due its mana as tangata whenua:
-  (ix) The provisions of the Public Works Act 1928 and the Turangi Township Act 1964, relied on by the Crown in entering and taking the claimants' land, are inconsistent with the basic guarantee in Article II of the Treaty that Maori may keep their land until such time as they wish to sell it.
-(K.) The Tribunal found that, as a result of the Crown's breaches of the principles of the Treaty, Ngati Turangitukua lost much of its ancestral land. Its social and economic base was seriously eroded causing spiritual, cultural, and economic prejudice to Ngati Turangitukua.
-(L.) Following the release of the Tribunal report, the Crown and Ngati Turangitukua entered into negotiations to seek resolution of Ngati Turangitukua's grievances.
-(M.) Negotiations between the Crown and Ngati Turangitukua broke down in June 1996. In July 1996, Ngati Turangitukua was granted a remedies hearing before the Waitangi Tribunal to identify with more specificity the contents of any settlement package for Wai 84, including the resumption of properties subject to section 27B of the State-Owned Enterprises Act 1986. That hearing was held at Hirangi Marae in July 1997.
-(N.) Following the release of the Waitangi Tribunal's Turangi Township Remedies Report in July 1998, the Crown and Ngati Turangitukua again negotiated to achieve a full and final settlement of Ngati Turangitukua's Treaty claims and to remove the continuing sense of grievance.
-(O.) The Crown, having acknowledged that Ngati Turangitukua suffered injustices which impaired Ngati Turangitukua's economic, social, and cultural development, entered into a deed of settlement on 26 September 1998 recording the matters required to give effect to a full and final settlement of Ngati Turangitukua's Treaty claims relating to the development and construction of the Turangi Township and its after effects, and Ngati Turangitukua also entered into that deed of settlement.
+(A) E mau ake nei te Rārangi Tāpiri Tuatahi mō tēnei ture, e whakaupoko ana i roto i te reo Māori me te reo Pākehā i ngā tikanga o Te Tiriti o Waitangi.
+(B) Ko Ngāti Tūrangitukua he hapū nō te iwi o Ngāti Tūwharetoa, ā, i heke mai i tō rātou tipuna i a Tūrangitukua. Ko rātou te tangata whenua o te wāhi e tū nei te Tāone o Tūrangi, ā, nō rātou hoki te mana whenua mai rā anō ā mohoa nei.
+Whakatakotohia ana e te Karauna tana Kaupapa Whanake Hiko i Tongariro
+(C) I te tekau tau i muri mai i te tau 1950, hei whakaea noa i te hiahia o muri mai i te Pakanga Tuarua o te Ao kia wawe tonu te whakawhānuitia o ngā rawa pūngao kia taea ai te whakatutuki te whakaahumahitanga o Aotearoa e hōrapa haere ana i taua wā rā, ka whakatakotohia e te Karauna tana kaupapa Whanake Hiko i Tongariro (WHT). E tutuki pai ai te WHT me nui tonu ngā kaimahi me te wāhi whakanoho i aua kaimahi ā tutuki noa te kaupapa.
+(D) E whā ngā wahi i whakaarotia ake hei tūnga mō te tāone e noho ai ngā kaimahi, arā, ko Rotoaira, ko Rangipō, ko Tūrangai-ki- te-uru me Tūrangi-ki-te-rāwhiti. I whakaarotia ake anō kia whakatūria he tāone taupua ki Rotoaira me Rangipō. Heoi anō ko tā te Karauna i pai kē ai ko te whakatū tāone pūmau kia puta anō ai he hua i tāna i whakapau ai kia tū ai taua tāone. Ko ngā wāhi i whakaarotia ake hei tūnga mō te tāone pūmau ko Tūrangi-ki-te-uru, e tū tata rā ki te tāone o Tūrangi o ēnei rā nei, ā, nō Ngāti Tūrangitukua nei taua whenua, tae atu hoki ki te whenua o te Karauna i Tūrangi-ki-te-rāwhiti.
+(E) Ko te hua e ahu mai ana i te Moana o Taupō i te hunga haere mai ki te torotoro, ki te mātakitaki hoki i te mōhiotia tae atu ki ngā hua ā-pūtea ka puta inā whakatūria he tāone pūmau mēnā rā ki te kitea he whenua kāore i te herea e te rīhi. I whakaarotia ake anōngā ara e māmā ai te tae atu o te tangata ki taua tāone, te āhua o ngā rangi, me te rawaka anō o te whenua kia taea ai tētahi tāone te whakatū, me te whakanui atu ā tōna wā. Ko tā te Karauna i pai ai ko te whenua i Tūrangi-ki-te-uru. I te marama o Hui-tanguru i te tau 1964 ka tīmata te Karauna i tāna mahi, arā, te riro atu o ngā whenua āhua nui tonu o Ngāti Tūrangitukua kāore nei i te herea e te rīhi (i a ia). Kāore i whakaarotia ake e te Karauna ngā āhuatanga kikino ka pā ki a Ngāti Tūrangitukua i te rironga kau noa o ō rātou whenua.
+Ka hui te Karauna ki a Ngāti Tūrangitukua
+(F) I mua atu i tēnei i hui te Karauna ki ētahi o ngā mema o Te Poari Kaitiaki Māori o Tūwharetoa me ētahi o te iwi o Ngāti Tūrangitukua ki te whakamārama i te āhua o te WHT ki a rātou me te riro anō pea i a rātou o ētahi o ngā whenua o Ngāti Tūrangitukua i Tūrangi-ki-te-uru. I te marama o Mahuru i te tau 1964 ko te hui tuatahi a te Karauna ki te katoa o Ngāti Tūrangitukua ki te whiriwhiri i te whānui o te kaupapa e pā ana ki te WHT me te nui o te whenua e hiahiatia ana hei whakatū i te tāone. I taua hui rā i whakaae a Ngāti Tūrangitukua, hei tōna wā anō nei āta whakamanatia ai, kia whakatūria te tāone ki runga i ngā whenua o Ngāti Tūrangitukua. Heoi anō i a Ngāti Tūrangitukua e whakaae atu rā i te whakapono rātou ki ngā kupu taurangi atu a te Karauna mō te āhua o te riro atu o te whenua hei tūnga mō te tāone.
+Ka tīmata ngā mahi
+(G) I muri tonu mai o taua hui o Mahuru rā ka tīmata ngā mahi e pā ana ki te WHT tae atu hoki ki te whakatūnga o te tāone. Inā kē noa atu te nui o te kaimahi i tau mai. Riro ana mā tēnei āhua e whakapōrearea te noho māori a Ngāti Tūrangitukua, ā, takahia ana te mana o ngā kaumātua o Ngāti Tūrangitukua e te Manatū Mahi. Haere ana ngā mahi a te Karauna, arā, te tango whenua, te whakatū hoki i te tāone; aro koretia ake ana ngā pānga mai o ēnei mahi ki a Ngāti Tūrangitukua me ngā kupu taurangi i puta i a ia, i te Karauna. Nui kē noa ake te whenua i riro i tērā i whakaritea i te tīmatanga, ā, i tohe te Karauna kia kaua aua whenua katoa e herea e te rīhi ahakoa āna kōrero o mua atu ko te wāhanga ahumahi o te tāone ka noho tonu hei whenua rīhi. Ukuukutia ana ngā wāhi tapu e te Karauna, ā, korekore ana i paku taea te aha e Ngāti Tūrangitukua, ngā kaitiaki o aua wāhi rā.
+Hoko ana te Karauna i ngā rawa
+(H) Nō te tutukitanga o te kaupapa i ngā tau whakapaunga o te tekau tau atu i 1970 ka tīmata te Manatū Mahi me ētahi atu tari Kāwanatanga ki te hokohoko i ngā rawa o roto mai i te tāone o Tūrangi. Tae rawa mai ki tēnei whakatatūtanga i te take nei kāore a Ngāti Tūrangitukua me ōna whānau i whai wāhi atu ki te rironga mai anō o ō rātou whenua tīpuna.
+Te tono i raro i te Ture Tiriti o Waitangi, 1975
+(I) Ko te tono a Ngāti Tūrangitukua, i rēhitatia nei ki te Taraipiunaro o Waitangi i te tau 1989 i raro i te tau Wai 84, kia takoto he utu mō ngā mahi kino i noho nei ko rātou te papa. Wawe tonu ana te whakahaeretia o te take i waenganui i ngā marama o Paenga-whāwhā me Whiringa-ā-nuku o te tau 1984, ā, i puta te Pūrongo a te Taraipiunara i te marama o Mahuru o te tau 1995.
+Ngā whakataunga a te Taraipiunara o Waitangi
+(J) I whakatau te Taraipiunara he nui tonu ngā takatakahitanga a te Karauna i ngā mātāpono o te Tiriti o Waitangi—
+  (i) i riro i te Karauna tētahi whenua Māori i Tūrangi-ki-te-uru i te wā he whenua tonu tō te Karauna i Tūrangi-ki-te-rāwhiti:
+  (ii) kāore i rawaka ngā huihuinga a te Karauna ki a Ngāti Tūrangitukua mō te āhua ki te whakatūnga o te tāone:
+  (iii) ko te whenua i riro hei tūnga mō te tāone i neke atu te nui i tērā i oatitia e te Karauna ka riro i a ia:
+  (iv) ko te whenua i whakaae te Karauna ka rīhitia mōngā āhuatanga ahumahi, ā, ka whakahokia mai ki te iwi i te ekenga o te 10–12 tau i āta tangohia kēhia atu, kore rawa nei i whakahokia mai:
+  (v) ukuukutia ana, tūkinotia ana ngā wāhi tapu i te wā i whakatūria ai te tāone:
+  (vi) kāore i rawaka te utu mō ngā whenua i riro:
+  (vii) kore rawa atu te Karauna i aro ake ki te taha tiaki i te taiao:
+  (viii) kāore i kauanuanutia e te Karauna te mana tangata whenua o Ngāti Tūrangitukua:
+  (ix) ko ngā whakarite o roto i te Ture Mahi Tūmatanui 1928 me te Ture Tāone o Tūrangi 1964, i waiho nei e te Karauna hei tautoko i tā rātou urutomo, tango kau noa i te whenua o Ngāti Tūrangitukua kei te noho taupatupatu ki te Ture II o te Tiriti e kī rā e āhei ana te Māori ki te pupuri i ōna whenua ā eke noa ki te wā e hiahia ai ia ki te hoko.
+(K) Ko te whakatau a te Taraipiunara nā ngā mahi takatakahi a te Karauna i ngā mātāpono o te Tiriti he nui tonu ngā whenua tipuna o Ngāti Tūrangitukua i ngaro atu. Noho ana ko te tūāpapa ohaoha, iwi anō hoki hei papa mō tēnei mahi, ā, me te aha anō mate ana ko te taha wairua, taha tikanga, taha ohaoha o Ngāti Tūrangitukua.
+Te whakahaerenga o te take kimi rongoā
+(L) Nō muri i te putanga o te pūrongo a te Taraipiunara ka noho te Karauna rāua ko Ngāti Tūrangitukua ki te whiriwhiri, ki te kimi rongoā anō hoki mō ngā mate i pā ki a Ngāti Tūrangitukua.
+(M) Ko ngā whiriwhiritanga i waenganui i te Karauna me Ngāti Tūrangitukua i mutu noa iho ki te takiwā i te marama o Pipiri i te tau 1996. I te marama o Hōngongoi i te tau 1996, i whakaaetia a Ngāti Tūrangitukua kia whakahaeretia tana take kimi rongoā ki mua i te aroaro o te Taraipiunara o Waitangi kia āta whakatauhia ai me tino aha ngā āhuatanga whakatatū mō roto o Wai 84, tae atu ki te whakahokinga mai o ngā whenua me ngā whakapainga i aua whenua i runga anō i tā te Tekiona 27B te Ture Hinonga Kāwanatanga i kī ai. Ko te whakahaeretanga o tēnei take i tū ki te marae o Hīrangi i te marama o Hōngongoi o te tau 1997.
+Ngā whiriwhiritanga i waenganui i a Ngāti Tūrangitukua me te Karauna
+(N) Nō muri mai i te putanga o te pūrongo a te Taraipiunara o Waitangi e kiia nei ko Te Pūrongo Kimi Rongoā e Pā Ana ki te Tāone o Tūrangi i te marama o Hōngongoi o te tau 1998, ka noho anō te Karauna rāua ko Ngāti Tūrangitukua ki te kimi, ki te whakaae i tētahi whakatatūtanga whakamutunga o ngā tono a Ngāti Tūrangitukua, ā, ki te whakakore anō hoki i te mamae e pā tonu ana ki a Ngāti Tūrangitukua.
+Te whakatatūtanga o ngā tono
+(O) Ko te Karauna, i runga anō i tana whakaae he nui ngā mate i pā ki a Ngāti Tūrangitukua, ā, takea mai ana i reira te ngoi kore haere o te taha ohaoha, taha iwi, taha tikanga o Ngāti Tūrangitukua, i whakaotia tētahi Puka Whakatatū, i te 26 o ngā rā o Mahuru 1998, ā, ki reira takoto mai ai ngā āhuatanga katoa e taea ai ngā tono katoa a Ngāti Tūrangitukua te whakatatū, te whakaae mō ake tonu atu, ā, e pēnei ana anō hoki te hiahia o Ngāti Tūrangitukua.
+(A) The Treaty of Waitangi is set out, in Māori and English, in Schedule 1.
+(B) Ngāti Tūrangitukua, a hapū of the tribe Ngāti Tūwharetoa, are descended from their tūpuna, Tūrangitukua. They are the tangata whenua of the area now comprised in the Turangi Township, and have had the mana whenua of that land since time immemorial.
+The Crown develops the TPD proposal
+(C) In the 1950s, in response to post World War II needs for rapid expansion of energy resources to meet the growing industrialisation in New Zealand, the Crown developed the Tongariro Power Development (TPD) proposal. At that time, it was the largest hydro development to be undertaken in New Zealand. The TPD would require a large construction force, and accommodation for that force, for the duration of the project.
+(D) Four sites were considered for the township to accommodate the project workers: Rotoaira, Rangipo, Turangi West, and Turangi East. Temporary townships were considered at the sites of Rotoaira and Rangipo. However, the Crown favoured the provision of a permanent township which would ensure a return on its investment. Sites for a permanent township were considered at Turangi West, adjacent to the existing Turangi village and owned by Ngāti Tūrangitukua, as well as Crown-owned land at Turangi East.
+(E) The tourist potential of Lake Taupo was appreciated, as well as the economic benefits that could be captured by creating a permanent township, if a suitable freehold site were available. Having regard to accessibility, climate, and adequacy of suitable land for development of a township, the Crown preferred the Turangi West site. In February 1964, the Crown began the process which was to see the acquisition of the freehold interest in a significant portion of Ngāti Tūrangitukua’s ancestral land. It did not take into account the negative effects for Ngāti Tūrangitukua of compulsorily acquiring its land.
+The Crown meets Ngāti Tūrangitukua
+(F) At an earlier stage, the Crown had met with members of the Tuwharetoa Maori Trust Board and some members of Ngāti Tūrangitukua to advise them of the nature of the TPD project and to discuss the possibility of acquiring land owned by Ngāti Tūrangitukua at the Turangi West site. In September 1964, the Crown met with Ngāti Tūrangitukua as a whole for the first time to discuss the scope of the TPD including the land required for the township. Ngāti Tūrangitukua there agreed in principle that the township be constructed on Ngāti Tūrangitukua land. However, in so agreeing, Ngāti Tūrangitukua relied on various assurances and undertakings given to it by the Crown as to the acquisition of land for the township.
+Construction begins
+(G) The construction of the TPD and the township began almost immediately after the September meeting. There was a large influx of construction workers. This disrupted the traditional lifestyles of Ngāti Tūrangitukua people, and the Ministry of Works undermined the authority of Ngāti Tūrangitukua kaumātua. The Crown had proceeded to acquire land and develop the township without proper regard for the interests of Ngāti Tūrangitukua or for the assurances and undertakings given to it by the Crown. Considerably more land was acquired than had originally been outlined, and the Crown insisted on acquiring the freehold of all the land, notwithstanding earlier statements that the industrial area of the town would be leased. Wāhi tapu were destroyed by the Crown, and the people of Ngāti Tūrangitukua, their kaitiaki, were powerless to protect them.
+The Crown sells assets
+(H) Following the completion of the project in the late 1970s, the Ministry of Works and other government departments began a process of selling assets within the Turangi township. Until the present settlement, Ngāti Tūrangitukua and its constituent whānau were effectively denied the opportunity to regain ownership of their ancestral lands.
+Claim under the Treaty of Waitangi Act 1975
+(I) The Ngāti Tūrangitukua claim, registered with the Waitangi Tribunal as Wai 84 in 1989, sought compensation for these grievances. The claim was heard under urgency between April and October 1994, and the Tribunal’s Report was released in September 1995.
+Findings of the Waitangi Tribunal
+(J) The Tribunal found that the Crown had breached the principles of the Treaty of Waitangi in a number of ways—
+  (i) the Crown acquired Māori land at Turangi West when Crown land at Turangi East was available:
+  (ii) the Crown did not adequately consult with Ngāti Tūrangitukua regarding the construction of the township:
+  (iii) the land taken for the township was in excess of the maximum area that the Crown promised it would take:
+  (iv) the land the Crown undertook to lease for industrial purposes and return to the people after 10 to 12 years was compulsorily acquired and not returned:
+  (v) wāhi tapu were destroyed or damaged in the construction of the township:
+  (vi) adequate compensation was not paid for land acquired:
+  (vii) the Crown did not give full effect to conservation values:
+  (viii) the Crown did not pay Ngāti Tūrangitukua the respect due its mana as tangata whenua:
+  (ix) the provisions of the Public Works Act 1928 and the Turangi Township Act 1964, relied on by the Crown in entering and taking the claimants’ land, are inconsistent with the basic guarantee in Article 2 of the Treaty that Māori may keep their land until such time as they wish to sell it.
+(K) The Tribunal found that, as a result of the Crown’s breaches of the principles of the Treaty, Ngāti Tūrangitukua lost much of its ancestral land. Its social and economic base was seriously eroded causing spiritual, cultural, and economic prejudice to Ngāti Tūrangitukua.
+The remedies hearing
+(L) Following the release of the Tribunal report, the Crown and Ngāti Tūrangitukua entered into negotiations to seek resolution of Ngāti Tūrangitukua’s grievances.
+(M) Negotiations between the Crown and Ngāti Tūrangitukua broke down in June 1996. In July 1996, Ngāti Tūrangitukua was granted a remedies hearing before the Waitangi Tribunal to identify with more specificity the contents of any settlement package for Wai 84, including the resumption of properties subject to section 27B of the State-Owned Enterprises Act 1986. That hearing was held at Hirangi Marae in July 1997.
+Negotiations between Ngāti Tūrangitukua and the Crown
+(N) Following the release of the Waitangi Tribunal’s Turangi Township Remedies Report in July 1998, the Crown and Ngāti Tūrangitukua again negotiated to achieve a full and final settlement of Ngāti Tūrangitukua’s Treaty claims and to remove the continuing sense of grievance.
+Settlement of claims
+(O) The Crown, having acknowledged that Ngāti Tūrangitukua suffered injustices which impaired Ngāti Tūrangitukua’s economic, social, and cultural development, entered into a deed of settlement on 26 September 1998 recording the matters required to give effect to a full and final settlement of Ngāti Tūrangitukua’s Treaty claims relating to the development and construction of the Turangi Township and its after-effects, and Ngāti Tūrangitukua also entered into that deed of settlement.
 
 ### 1 Short Title and commencement
-(1) This Act may be cited as the Ngati Turangitukua Claims Settlement Act 1999.
+(1) This Act may be cited as the Ngāti Tūrangitukua Claims Settlement Act 1999.
 (2) This Act comes into force on the day after the date on which it receives the Royal assent.
 
 ### 2 Act to bind the Crown
 This Act binds the Crown.
 
-## Part 1 — Apology by the Crown to Ngati Turangitukua
+## Part 1 — Apology by the Crown to Ngāti Tūrangitukua
 
 ### 3 Apology
-This Part records the apology given by the Crown to Ngati Turangitukua in the deed of settlement.
+This Part records the apology given by the Crown to Ngāti Tūrangitukua in the deed of settlement.
 
-### 4 Text in Maori
-The text of the apology in Maori is as follows:
-  (1.) E whakaae ana te Karauna mo te ahua ki te whakatunga o te taone o Turangi kaore ia i u ki nga matapono o te Tiriti o Waitangi i roto i ana mahi ki a Ngati Turangitukua. Na te ahua i waenganui i nga iwi e rua i haina nei i te Tiriti e tika ana te Karauna kia aronui ki nga hiahia o te Maori, a, e ki ana te Karauna i he ia he kore nona i aronui atu ki nga hiahia o te hapu.
-  (2.) E whakaae ana te Karauna kaore ia i ata whiriwhiri, i rawaka ranei ana whiriwhiritanga ki a Ngati Turangitukua i te katoa o te wa e whakaturia ana te taone o Turangi i muri mai hoki i tera, a, e ki ana a ia na tenei he ona kaore i aronuitia, kaore hoki i kauanuanutia a Ngati Turangitukua me tona mana tangata whenua tee atu hoki ki nga kaumatua me o ratou na mana.
-  (3.) E whakaae ana te Karauna na te mea no Ngati Turangitukua te whenua e tika ana kia manaakitia ratou i raro ano i te Tiriti, a, na te mea i whakapono ratou ki nga kupu taurangi atu a te Karauna ka whakaae atu a Ngati Turangitukua ki te whakawatea i to ratou whenua i Turangi hei wahi tunga mo te taone, a, na te korenga o te Karauna i u ki tana i ki ai kaore i whaia nga matapono o te Tiriti.
-  (4.) E tino papouri ana te ngakau o te Karauna mo tana i mahi ai ki te katoa o Ngati Turangitukua i te wa o te whakatunga o te taone, a, i muri mai i tera kaore te Karauna i ata tiaki i nga wahi tapu, a, noho ana ko te taha wairua me te taha tikanga o Ngati Turangitukua hei papa.
-  (5.) E tino papouri ana te Karauna mo ana mahi he i mahi ai, na reira e whakaae nei ki te whakatatutanga o nga tono kua roa nei e takoto ana a Ngati Turangitukua e rarangi mai nei i te Whakatatutanga i hainahia nei i te 26 o nga ra o Mahuru 1998.
+### 4 Text in Māori
+The text of the apology in Māori is as follows:
+  (1) E whakaae ana te Karauna mō te āhua ki te whakatūnga o te tāone o Tūrangi kāore ia i ū ki ngā mātāpono o te Tiriti o Waitangi i roto i āna mahi ki a Ngāti Tūrangitukua. Nā te āhua i waenganui i ngā iwi e rua i haina nei i te Tiriti e tika ana te Karauna kia aronui ki ngā hiahia o te Māori, ā, e kī ana te Karauna i hē ia he kore nōna i aronui atu ki ngā hiahia o te hapū.
+  (2) E whakaae ana te Karauna kāore ia i āta whiriwhiri, i rawaka rānei āna whiriwhiritanga ki a Ngāti Tūrangitukua i te katoa o te wā e whakatūria ana te tāone o Tūrangi i muri mai hoki i tērā, ā, e kī ana a ia nā tēnei hē ōna kāore i aronuitia, kāore hoki i kauanuanutia a Ngāti Tūrangitukua me tōna mana tangata whenua tae atu hoki ki ngā kaumātua me ō rātou nā mana.
+  (3) E whakaae ana te Karauna nā te mea nō Ngāti Tūrangitukua te whenua e tika ana kia manaakitia rātou i raro anō i te Tiriti, ā, nā te mea i whakapono rātou ki ngā kupu taurangi atu a te Karauna ka whakaae atu a Ngāti Tūrangitukua ki te whakawātea i tō rātou whenua i Tūrangi hei wāhi tūnga mō te tāone, ā, nā te korenga o te Karauna i ū ki tāna i kī ai kāore i whāia ngā mātāpono o te Tiriti.
+  (4) E tino pāpōuri ana te ngākau o te Karauna mō tāna i mahi ai ki te katoa o Ngāti Tūrangitukua i te wā o te whakatūnga o te tāone, ā, i muri mai i tērā kāore te Karauna i āta tiaki i ngā wāhi tapu, ā, noho ana ko te taha wairua me te taha tikanga o Ngāti Tūrangitukua hei papa.
+  (5) E tino pāpōuri ana te Karauna mō āna mahi hē i mahi ai, nā reira e whakaae nei ki te whakatatūtanga o ngā tono kua roa nei e takoto ana a Ngāti Tūrangitukua e rārangi mai nei i te Whakatatūtanga i hainahia nei i te 26 o ngā rā o Mahuru 1998.
 
 ### 5 Text in English
 The text of the apology in English is as follows:
-  (1.) The Crown acknowledges that, in relation to the construction of the Turangi township, it failed to act towards Ngati Turangitukua in a manner consistent with the principles of the Treaty of Waitangi. The relationship between the Treaty partners obliges the Crown actively to protect Maori interests and the Crown apologises that it did not actively protect the interests of the hapu.
-  (2.) The Crown acknowledges that it failed to consult fully or adequately with Ngati Turangitukua throughout the process of the construction of the Turangi Township and after that process, and apologises that in this failure it did not accord to Ngati Turangitukua the respect due their mana as tangata whenua and in particular failed to accord to kaumatua the respect due their mana.
-  (3.) The Crown acknowledges that Ngati Turangitukua, as landowners and entitled to be protected under the Treaty, relied on the assurances and undertakings given to them by the Crown in return for which the people of Ngati Turangitukua agreed to make their land at Turangi available for the township, and that in failing to honour those assurances and undertakings, the Crown did not act in accordance with Treaty principles.
-  (4.) The Crown expresses its profound regret to all members of Ngati Turangitukua that, during the course of construction of the township, and subsequently, the Crown failed actively to protect wahi tapu, and that this has been to the detriment of Ngati Turangitukua's spiritual and cultural well-being.
-  (5.) The Crown apologises unreservedly for these acknowledged injustices and accordingly settles with Ngati Turangitukua the claims set out in the deed of settlement signed on 26 September 1998.
+  (1) The Crown acknowledges that, in relation to the construction of the Turangi township, it failed to act towards Ngāti Tūrangitukua in a manner consistent with the principles of the Treaty of Waitangi. The relationship between the Treaty partners obliges the Crown actively to protect Māori interests and the Crown apologises that it did not actively protect the interests of the hapū.
+  (2) The Crown acknowledges that it failed to consult fully or adequately with Ngāti Tūrangitukua throughout the process of the construction of the Turangi Township and after that process, and apologises that in this failure it did not accord to Ngāti Tūrangitukua the respect due their mana as tangata whenua and in particular failed to accord to kaumātua the respect due their mana.
+  (3) The Crown acknowledges that Ngāti Tūrangitukua, as landowners and entitled to be protected under the Treaty, relied on the assurances and undertakings given to them by the Crown in return for which the people of Ngāti Tūrangitukua agreed to make their land at Turangi available for the township, and that in failing to honour those assurances and undertakings, the Crown did not act in accordance with Treaty principles.
+  (4) The Crown expresses its profound regret to all members of Ngāti Tūrangitukua that, during the course of construction of the township, and subsequently, the Crown failed actively to protect wāhi tapu, and that this has been to the detriment of Ngāti Tūrangitukua’s spiritual and cultural well-being.
+  (5) The Crown apologises unreservedly for these acknowledged injustices and accordingly settles with Ngāti Tūrangitukua the claims set out in the deed of settlement signed on 26 September 1998.
 
 ## Part 2 — Interpretation
 
@@ -90,96 +106,90 @@ It is the intention of Parliament that the provisions of this Act are interprete
 
 ### 7 Interpretation of terms
 In this Act, unless the context otherwise requires,—
-  - **Ancillary claimant** means a person listed in Schedule 1 of the ancillary claims deed
-  - **Ancillary claims deed** means the deed concluded under section 8 of the deed of settlement and executed on 21 December 1998
-  - **Business day** means the period of 9 am to 5 pm on any day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's Birthday, Labour Day, and Waitangi Day; and
-    (b) A day in the period commencing with 25 December in any year, and ending with the close of 5 January in the following year; and
-    (c) The days observed as the anniversaries of the provinces of Wellington and Auckland:
-  - **Chief executive** means the chief executive of Land Information New Zealand
+  - **ancillary claimant** means a person listed in Schedule 1 of the ancillary claims deed
+  - **ancillary claims deed** means the deed concluded under section 8 of the deed of settlement and executed on 21 December 1998
+  - **business day** means the period of 9 am to 5 pm on any day of the week other than—
+    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Labour Day, and Waitangi Day; and
+    (b) a day in the period commencing with 25 December in any year, and ending with the close of 5 January in the following year; and
+    (c) the days observed as the anniversaries of the provinces of Wellington and Auckland
+  - **chief executive** means the chief executive of Land Information New Zealand
   - **Council** means the Taupo District Council
-  - **Council reserves** means the land described in Parts 4, 5, 6, and 7 of Schedule 3
+  - **council reserves** means the land described in Parts 4, 5, 6, and 7 of Schedule 3
   - **Crown** means Her Majesty the Queen in right of New Zealand and includes, where appropriate, the Ministers and departments of the Crown that are involved in, or bound by the terms of the deed of settlement to participate in, any aspect of redress under the deed of settlement
   - **Crown body** means the Crown (whether acting through a Minister of the Crown or otherwise), or a Crown entity (as defined in section 2(1) of the Public Finance Act 1989), or a State enterprise (as defined in section 2 of the State-Owned Enterprises Act 1986), or any company which is wholly-owned by a Crown entity or a State enterprise
   - **Crown reserves** means the land described in Part 3 of Schedule 3
-  - **Deed of settlement** —
-    (a) Means the deed of settlement executed on 26 September 1998 by the Minister in Charge of Treaty of Waitangi Negotiations the Right Honourable Sir Douglas Arthur Montrose Graham, for the Crown, and Ngati Turangitukua; and
-    (b) Includes the attachments to the deed of settlement and any amendments to the deed or the attachments:
-  - **Encumbrance** means a lease, licence, permit, easement, access arrangement, consent, or third party right, whether registered or unregistered at the date of the deed of settlement
-  - **Natural and physical resources** has the same meaning as in section 2 of the Resource Management Act 1991
-  - **Ngati Turangitukua** means the collective of individuals, being a hapu of Ngati Tuwharetoa, who descend from the tupuna Turangitukua
-  - **Ngati Turangitukua Charitable Trust** means the charitable trust known by that name, established by a trust deed dated 9 November 1997 and registered as a board under the Charitable Trusts Act 1957
-  - **Ngati Turangitukua claimant** means—
-    (a) One or more of the trustees or beneficiaries of the Ngati Turangitukua Charitable Trust; or
-    (b) One or more individuals, whanau, or marae of Ngati Turangitukua, acting individually or collectively; or
-    (c) An ancillary claimant; or
-    (d) The claimants in respect of Wai 84; or
-    (e) A person acting on behalf of the person or persons specified in any of paragraphs (a) to (d) of this definition:
-  - **Ngati Turangitukua claims** has the meaning set out in section 8
+  - **deed of settlement** —
+    (a) means the deed of settlement executed on 26 September 1998 by the Minister in Charge of Treaty of Waitangi Negotiations the Right Honourable Sir Douglas Arthur Montrose Graham, for the Crown, and Ngāti Tūrangitukua; and
+    (b) includes the attachments to the deed of settlement and any amendments to the deed or the attachments
+  - **encumbrance** means a lease, licence, permit, easement, access arrangement, consent, or third party right, whether registered or unregistered at the date of the deed of settlement
+  - **natural and physical resources** has the same meaning as in section 2 of the Resource Management Act 1991
+  - **Ngāti Tūrangitukua** means the collective of individuals, being a hapū of Ngāti Tūwharetoa, who descend from the tūpuna Tūrangitukua
+  - **Ngāti Tūrangitukua Charitable Trust** means the charitable trust known by that name, established by a trust deed dated 9 November 1997 and registered as a board under the Charitable Trusts Act 1957
+  - **Ngāti Tūrangitukua claimant** means—
+    (a) 1 or more of the trustees or beneficiaries of the Ngāti Tūrangitukua Charitable Trust; or
+    (b) 1 or more individuals, whānau, or marae of Ngāti Tūrangitukua, acting individually or collectively; or
+    (c) an ancillary claimant; or
+    (d) the claimants in respect of Wai 84; or
+    (e) a person acting on behalf of the person or persons specified in any of paragraphs (a) to (d)
+  - **Ngāti Tūrangitukua claims** has the meaning set out in section 8
   - **Registrar** means the Registrar-General of Land
-  - **Reserve** has the same meaning as in section 2 of the Reserves Act 1977
-  - **Settlement** means the settlement to be effected pursuant to the deed of settlement
-  - **Settlement date** means the date which is 20 business days after the date on which this Act comes into force
-  - **Settlement property** means a property to be transferred under section 4 of the deed of settlement
+  - **reserve** has the same meaning as in section 2 of the Reserves Act 1977
+  - **settlement** means the settlement to be effected pursuant to the deed of settlement
+  - **settlement date** means the date which is 20 business days after the date on which this Act comes into force
+  - **settlement property** means a property to be transferred under section 4 of the deed of settlement
   - **Turangi Township** means the land described in SO 38104
   - **Turangitukua Nominees Limited** means a company of that name incorporated under the Companies Act 1993
-  - **Wai 84** means the claim filed in the Waitangi Tribunal relating to the acquisition of the land by the Crown for the construction of the Turangi Township, being the claim to which the Waitangi Tribunal's Turangi Township Report 1995 and Turangi Township Remedies Report 1998 relate.
+  - **Wai 84** means the claim filed in the Waitangi Tribunal relating to the acquisition of the land by the Crown for the construction of the Turangi Township, being the claim to which the Waitangi Tribunal’s Turangi Township Report 1995 and Turangi Township Remedies Report 1998 relate.
 
-### 8 Meaning of Ngati Turangitukua claims
-(1) In this Act, Ngati Turangitukua claims—
-  (a) Means all claims (whether or not researched, registered, or notified) made at any time by a Ngati Turangitukua claimant and—
-    (i) Founded on rights arising in or by the Treaty of Waitangi, the principles of the Treaty of Waitangi, statute, common law (including customary law and aboriginal title), fiduciary duty, or otherwise; and
-    (ii) Arising out of or relating to any loss of interests in land, water, rivers, harbours, minerals, forests, or any natural and physical resources, caused by acts or omissions by or on behalf of the Crown or by or under legislation, being a loss that occurred in the period between 31 January 1964 and 21 September 1992; and
-  (b) Includes—
-    (i) All of the claims made by Ngati Turangitukua against the Crown arising from those historical grievances of Ngati Turangitukua which are referred to in Wai 84; and
-    (ii) The ancillary claims; but
-  (c) Excludes the claims (other than the ancillary claims) relating to land and other resources outside the Turangi Township in respect of losses also suffered by other hapu of Ngati Tuwharetoa.
+### 8 Meaning of Ngāti Tūrangitukua claims
+(1) In this Act, Ngāti Tūrangitukua claims—
+  (a) means all claims (whether or not researched, registered, or notified) made at any time by a Ngāti Tūrangitukua claimant and—
+    (i) founded on rights arising in or by the Treaty of Waitangi, the principles of the Treaty of Waitangi, statute, common law (including customary law and aboriginal title), fiduciary duty, or otherwise; and
+    (ii) arising out of or relating to any loss of interests in land, water, rivers, harbours, minerals, forests, or any natural and physical resources, caused by acts or omissions by or on behalf of the Crown or by or under legislation, being a loss that occurred in the period between 31 January 1964 and 21 September 1992; and
+  (b) includes—
+    (i) all of the claims made by Ngāti Tūrangitukua against the Crown arising from those historical grievances of Ngāti Tūrangitukua which are referred to in Wai 84; and
+    (ii) the ancillary claims; but
+  (c) excludes the claims (other than the ancillary claims) relating to land and other resources outside the Turangi Township in respect of losses also suffered by other hapū of Ngāti Tūwharetoa.
 (2) In subsection (1),—
-  - **Ancillary claims** means all claims made at any time by any person, arising out of an alleged act or omission of the Crown during the acquisition and construction of Turangi Township and the construction of the Tongariro Power Development Scheme
-  - **Interest** includes any legal or equitable right, title, power, privilege, or benefit
-  - **Loss** , in relation to any of the interests referred to in subsection (1)(a)(ii), includes extinguishment of, diminution of, or adverse effect on, any such interest.
+  - **ancillary claims** means all claims made at any time by any person, arising out of an alleged act or omission of the Crown during the acquisition and construction of Turangi Township and the construction of the Tongariro Power Development Scheme
+  - **interest** includes any legal or equitable right, title, power, privilege, or benefit
+  - **loss** , in relation to any of the interests referred to in subsection (1)(a)(ii), includes extinguishment of, diminution of, or adverse effect on, any such interest.
 
 ## Part 3 — Settlement of claims
 
-### 9 Settlement of Ngati Turangitukua claims to be final
-(1) The settlement of the Ngati Turangitukua claims to be effected pursuant to the deed of settlement, the ancillary claims deed, and this Act is final, and the Crown is released and discharged in respect of those claims.
+### 9 Settlement of Ngāti Tūrangitukua claims to be final
+(1) The settlement of the Ngāti Tūrangitukua claims to be effected pursuant to the deed of settlement, the ancillary claims deed, and this Act is final, and the Crown is released and discharged in respect of those claims.
 (2) Subsection (1) does not limit the deed of settlement or the ancillary claims deed.
 (3) Despite any other enactment or rule of law, no court or tribunal has jurisdiction to inquire or further inquire into, or to make any finding or recommendation in respect of,—
-  (a) Any or all of the Ngati Turangitukua claims; or
-  (b) The validity of the deed of settlement or the ancillary claims deed; or
-  (c) The adequacy of the redress provided to Ngati Turangitukua and others under this Act, the deed of settlement, or the ancillary claims deed; or
-  (d) This Act.
+  (a) any or all of the Ngāti Tūrangitukua claims; or
+  (b) the validity of the deed of settlement or the ancillary claims deed; or
+  (c) the adequacy of the redress provided to Ngāti Tūrangitukua and others under this Act, the deed of settlement, or the ancillary claims deed; or
+  (d) this Act.
 (4) Subsection (3) does not exclude the jurisdiction of a court or tribunal in respect of the interpretation or implementation of the deed of settlement, the ancillary claims deed, or this Act.
 
 ### 10 Jurisdiction of Tribunal to consider claims
-Section 6 of the Treaty of Waitangi Act 1975 is amended by adding the following subsections:
-  (13) Despite anything in this Act or in any other Act or rule of law, on and from the commencement of the Ngati Turangitukua Claims Settlement Act 1999, the Tribunal does not have jurisdiction to inquire or further inquire into, or to make any finding or recommendation in respect of,—
-    (a) Any or all of the Ngati Turangitukua claims, as defined in section 8 of the Ngati Turangitukua Claims Settlement Act 1999; or
-    (b) The deed of settlement or ancillary claims deed, as defined in section 7 of the Ngati Turangitukua Claims Settlement Act 1999; or
-    (c) The redress provided to Ngati Turangitukua under the deed of settlement, the ancillary claims deed, or the Ngati Turangitukua Claims Settlement Act 1999; or
-    (d) The Ngati Turangitukua Claims Settlement Act 1999.
-  (14) Subsection (13) does not exclude the jurisdiction of the Tribunal in respect of the interpretation or implementation of the deed of settlement, the ancillary claims deed, or the Ngati Turangitukua Claims Settlement Act 1999.
+[Repealed]
 
-### 11 Enactments relating to resumptive memorials on land subject to Ngati Turangitukua claims no longer to apply
+### 11 Enactments relating to resumptive memorials on land subject to Ngāti Tūrangitukua claims no longer to apply
 (1) Nothing in the following enactments applies in relation to any land in the Turangi Township:
-  (a) Sections 8A to 8H of the Treaty of Waitangi Act 1975; or
-  (b) The amendments made to the Treaty of Waitangi Act 1975 by Part 4 of the New Zealand Railways Corporation Restructuring Act 1990; or
-  (c) Sections 27A to 27C of the State-Owned Enterprises Act 1986; or
-  (d) Sections 211 to 213 of the Education Act 1989; or
+  (a) sections 8A to 8H of the Treaty of Waitangi Act 1975; or
+  (b) the amendments made to the Treaty of Waitangi Act 1975 by Part 4 of the New Zealand Railways Corporation Restructuring Act 1990; or
+  (c) sections 27A to 27C of the State-Owned Enterprises Act 1986; or
+  (d) sections 211 to 213 of the Education Act 1989; or
   (e) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990.
 (2) Subsection (1)(c) does not apply to the land comprised in certificate of title 34C/191 (Wellington Registry).
 
 ### 12 Removal of resumptive memorials
 (1) The chief executive must, as soon as reasonably practicable after the settlement date, issue to the Registrar 1 or more certificates that identify each certificate of title relating to land in the Turangi Township that contains a resumptive memorial entered under any of the enactments referred to in section 11.
 (2) Each certificate must state that it is issued under this section.
-(3) The Registrar must, as soon as reasonably practicable after receiving a certificate issued under subsection (1), and without fee to the registered proprietor or to the Ngati Turangitukua Charitable Trust,—
-  (a) Register the certificate against each certificate of title identified in the certificate; and
-  (b) Cancel each resumptive memorial that, under any of the enactments referred to in section 11, is entered on a certificate of title identified in the certificate.
+(3) The Registrar must, as soon as reasonably practicable after receiving a certificate issued under subsection (1), and without fee to the registered proprietor or to the Ngāti Tūrangitukua Charitable Trust,—
+  (a) register the certificate against each certificate of title identified in the certificate; and
+  (b) cancel each resumptive memorial that, under any of the enactments referred to in section 11, is entered on a certificate of title identified in the certificate.
 (4) Subsection (3) does not require the Registrar to note any duplicate certificate of title.
 (5) This section does not apply to the land comprised in certificate of title 34C/191 (Wellington Registry).
 
-### 13 Settlement for benefit of Ngati Turangitukua collectively
-(1) The settlement is for the benefit of Ngati Turangitukua collectively, and not for the benefit of any individual or single whanau.
+### 13 Settlement for benefit of Ngāti Tūrangitukua collectively
+(1) The settlement is for the benefit of Ngāti Tūrangitukua collectively, and not for the benefit of any individual or single whānau.
 (2) Subsection (1) does not apply to section 8 of the deed of settlement.
 
 ### 14 Rule against perpetuities not to apply
@@ -189,34 +199,34 @@ The rule against perpetuities or any relevant provisions of the Perpetuities Act
 
 ### 15 Transfer of settlement properties
 (1) Despite any other enactment or rule of law, for the purposes of giving effect to the deed of settlement, the Crown (acting through the Commissioner of Crown Lands) is authorised to do 1 or more of the following:
-  (a) Purchase or otherwise acquire any settlement property from a Crown body:
-  (b) Grant or take a lease of any settlement property to or from a Crown body:
-  (c) Transfer any settlement property to the Ngati Turangitukua Charitable Trust or its nominee:
-  (d) Sign any memorandum of transfer or lease, or any other document, or do any other thing for the purposes of any such purchase, acquisition, lease, or transfer.
+  (a) purchase or otherwise acquire any settlement property from a Crown body:
+  (b) grant or take a lease of any settlement property to or from a Crown body:
+  (c) transfer any settlement property to the Ngāti Tūrangitukua Charitable Trust or its nominee:
+  (d) sign any memorandum of transfer or lease, or any other document, or do any other thing for the purposes of any such purchase, acquisition, lease, or transfer.
 (2) Section 40 of the Public Works Act 1981 (but not sections 41 and 42 of that Act), and that section as applied by any other Act, applies to the transfer of any settlement property under subsection (1)(c).
 (3) Except as expressly provided otherwise in, or by operation of, this Act, nothing in subsection (1) limits—
-  (a) Subsection (4); or
-  (b) Sections 10 and 11 of the Crown Minerals Act 1991; or
-  (c) Any other reservation made by any enactment or statutory instrument; or
-  (d) Any other enactment which must be complied with before any disposal.
-(4) Nothing in the Land Act 1948 applies to any settlement property that is to be transferred from a Crown body to another Crown body or to the Ngati Turangitukua Charitable Trust or its nominee, or vested in the Ngati Turangitukua Charitable Trust or its nominee, for the purposes of giving effect to the deed of settlement.
+  (a) subsection (4); or
+  (b) sections 10 and 11 of the Crown Minerals Act 1991; or
+  (c) any other reservation made by any enactment or statutory instrument; or
+  (d) any other enactment which must be complied with before any disposal.
+(4) Nothing in the Land Act 1948 applies to any settlement property that is to be transferred from a Crown body to another Crown body or to the Ngāti Tūrangitukua Charitable Trust or its nominee, or vested in the Ngāti Tūrangitukua Charitable Trust or its nominee, for the purposes of giving effect to the deed of settlement.
 (5) Nothing in the Land Act 1948 restricts the period for which a lease may be granted under subsection (1)(b).
 
 ### 16 Issue of certificates of title
 (1) In this section, settlement property means a settlement property—
-  (a) For which no certificate of title has been issued under the Land Transfer Act 1952; and
-  (b) The fee simple estate in which—
-    (i) Is vested in, or held by, the Crown; and
-    (ii) Is to be acquired by, or transferred to, the Ngati Turangitukua Charitable Trust or its nominee, under the deed of settlement.
+  (a) for which no certificate of title has been issued under the Land Transfer Act 1952; and
+  (b) the fee simple estate in which—
+    (i) is vested in, or held by, the Crown; and
+    (ii) is to be acquired by, or transferred to, the Ngāti Tūrangitukua Charitable Trust or its nominee, under the deed of settlement.
 (2) Despite any other enactment or rule of law, the Registrar must, at the request of the Commissioner of Crown Lands and after the completion of such survey (if any) as may be necessary, issue a certificate of title under the Land Transfer Act 1952 for the fee simple estate in a settlement property in the name of the Crown.
 (3) The certificate of title is subject to, and has the benefit of, any relevant easements, encumbrances, restrictions, and other interests, details of which must be set out in the request of the Commissioner of Crown Lands.
 
 ## Part 5 — Department of Conservation protocol
 
 ### 17 Interpretation
-In this Part, protocol means a statement in writing issued, in accordance with section 18(1), by the Crown through the Minister of Conservation to Ngati Turangitukua, which sets out—
-  (a) How the Department of Conservation will exercise its functions, powers, and duties in relation to specified matters in or in the vicinity of Turangi Township; and
-  (b) How the Department of Conservation will, on a continuing basis, interact with Ngati Turangitukua and provide for Ngati Turangitukua's input into its decision-making process.
+In this Part, protocol means a statement in writing issued, in accordance with section 18(1), by the Crown through the Minister of Conservation to Ngāti Tūrangitukua, which sets out—
+  (a) how the Department of Conservation will exercise its functions, powers, and duties in relation to specified matters in or in the vicinity of Turangi Township; and
+  (b) how the Department of Conservation will, on a continuing basis, interact with Ngāti Tūrangitukua and provide for Ngāti Tūrangitukua’s input into its decision-making process.
 
 ### 18 Authority to issue, amend, or cancel protocol
 (1) The Crown, acting by and through the Minister of Conservation may, issue a protocol in the form set out in attachment 6.2 of the deed of settlement.
@@ -227,8 +237,8 @@ In this Part, protocol means a statement in writing issued, in accordance with s
 
 ### 19 Protocol subject to Crown obligations
 The protocol is issued and amended subject to, and without restriction upon,—
-  (a) The obligations of the Minister of Conservation and the Department of Conservation to discharge their respective functions, powers, and duties in accordance with existing law and government policy from time to time; and
-  (b) The Crown's powers to amend policy, and introduce legislation amending existing law.
+  (a) the obligations of the Minister of Conservation and the Department of Conservation to discharge their respective functions, powers, and duties in accordance with existing law and government policy from time to time; and
+  (b) the Crown’s powers to amend policy, and introduce legislation amending existing law.
 
 ### 20 Noting of protocol
 (1) The existence of the protocol, once issued, and as amended from time to time, including the definition of a protocol as set out in section 17 and a summary of the terms of issue of the protocol, must be noted in conservation management strategies, conservation management plans, and national park management plans affecting the area covered by the protocol.
@@ -249,17 +259,17 @@ Except as expressly provided in sections 19 to 21 or the protocol, the protocol 
 ### 23 Effective date of matters set out in this Part
 The revocation of reserves by sections 25(3), 26(2), and 27(3) and the vesting of the fee simple estate in those reserves in accordance with sections 25(4), 26(3), and 27(4) takes effect on the settlement date.
 
-### 24 Intermediate vesting of certain reserves in the Crown before fee simple estate vests in Ngati Turangitukua Charitable Trust
+### 24 Intermediate vesting of certain reserves in the Crown before fee simple estate vests in Ngāti Tūrangitukua Charitable Trust
 (1) This section applies to the revocation of a reserve as a reserve under section 25(3), section 26(2), or section 27(3) if the reserve is—
-  (a) A Crown reserve; or
-  (b) A Council reserve that, immediately before it was vested in the Council, was owned by the Crown.
-(2) Before the fee simple estate in a reserve vests in the Ngati Turangitukua Charitable Trust under section 25(4), section 26(3), or section 27(4), the reserve vests in the Crown.
+  (a) a Crown reserve; or
+  (b) a council reserve that, immediately before it was vested in the Council, was owned by the Crown.
+(2) Before the fee simple estate in a reserve vests in the Ngāti Tūrangitukua Charitable Trust under section 25(4), section 26(3), or section 27(4), the reserve vests in the Crown.
 
 ### 25 Kutai Street reserves
 (1) In this section, Kutai Street reserves means the land described in Parts 1 and 2 of Schedule 3.
 (2) The land described in Part 2 of Schedule 3 is declared a reserve and classified as a recreation reserve under the Reserves Act 1977.
 (3) The reservation of the Kutai Street reserves as reserves are revoked.
-(4) The fee simple estates in the Kutai Street reserves are vested in the Ngati Turangitukua Charitable Trust, subject to all encumbrances.
+(4) The fee simple estates in the Kutai Street reserves are vested in the Ngāti Tūrangitukua Charitable Trust, subject to all encumbrances.
 (5) Subsection (4) is subject to section 24.
 (6) The vesting under subsection (4) is—
   (a) subject to a public pedestrian right of way that is 3 m in width and immediately adjacent to the Tongariro River; and
@@ -268,38 +278,38 @@ The revocation of reserves by sections 25(3), 26(2), and 27(3) and the vesting o
 
 ### 25A Notation on title
 (1) The Registrar-General of Land is authorised and directed to make entries in the register under the Land Transfer Act 1952 and on the certificates of title for the Kutai Street reserves, and generally do what is necessary to give effect to the provisions of section 25(6) and (7) of this Act.
-(2) The Registrar must enter on the certificates of title for the Kutai Street reserves the following words:Subject to a public pedestrian right of way that is 3 m in width and immediately adjacent to the Tongariro River, as provided for by section 25(6) and (7) of the Ngati Turangitukua Claims Settlement Act 1999.
+(2) The Registrar must enter on the certificates of title for the Kutai Street reserves the following words:Subject to a public pedestrian right of way that is 3 m in width and immediately adjacent to the Tongariro River, as provided for by section 25(6) and (7) of the Ngāti Tūrangitukua Claims Settlement Act 1999.
 (3) Subsection (2) does not limit subsection (1).
 (4) Section 37 does not apply in respect of the right of way created under section 25(6).
 
 ### 26 Crown reserves
 (1) The appointment of the Council to control and manage the Crown reserves as reserves is revoked.
 (2) The reservation of the Crown reserves as reserves is revoked.
-(3) The fee simple estates in the Crown reserves are vested in the Ngati Turangitukua Charitable Trust, subject to all encumbrances.
+(3) The fee simple estates in the Crown reserves are vested in the Ngāti Tūrangitukua Charitable Trust, subject to all encumbrances.
 (4) Subsection (3) is subject to section 24.
 
 ### 27 Council reserves
 (1) The land described in Part 6 of Schedule 3 is declared a reserve and classified as a recreation reserve under the Reserves Act 1977.
 (2) The land described in Part 7 of Schedule 3 is declared a reserve and classified as a local purpose (water supply) reserve under the Reserves Act 1977.
 (3) The reservation of the council reserves as reserves is revoked.
-(4) The fee simple estates in the council reserves are vested in the Ngati Turangitukua Charitable Trust, subject to all encumbrances.
+(4) The fee simple estates in the council reserves are vested in the Ngāti Tūrangitukua Charitable Trust, subject to all encumbrances.
 (5) Subsection (4) is subject to section 24.
 
 ### 28 Management of Crown reserves and council reserves
-(1) The agreement of Ngati Turangitukua in clause 7.2.5 of the deed of settlement to the Council controlling and managing the Crown reserves and the council reserves is sufficient for the purposes of section 38(1) of the Reserves Act 1977.
+(1) The agreement of Ngāti Tūrangitukua in clause 7.2.5 of the deed of settlement to the Council controlling and managing the Crown reserves and the council reserves is sufficient for the purposes of section 38(1) of the Reserves Act 1977.
 (2) The approval of the Minister of Conservation to the Council controlling and managing the Crown reserves and the council reserves is deemed to have been given for the purposes of section 38(1) of the Reserves Act 1977.
 (3) Each Crown reserve or council reserve may be controlled and managed by the Council—
-  (a) As if it were classified as a local purpose reserve under the Reserves Act 1977 for the purpose of community buildings or drainage or waterworks where that purpose is specified in column 4 of Parts 5 and 7 of Schedule 3:
-  (b) As if it were classified as a recreation reserve under the Reserves Act 1977 where that purpose is specified in column 4 of Parts 3 to 6 of Schedule 3.
+  (a) as if it were classified as a local purpose reserve under the Reserves Act 1977 for the purpose of community buildings or drainage or waterworks where that purpose is specified in column 4 of Parts 5 and 7 of Schedule 3:
+  (b) as if it were classified as a recreation reserve under the Reserves Act 1977 where that purpose is specified in column 4 of Parts 3 to 6 of Schedule 3.
 (4) The control and management by the Council of the Crown reserves and council reserves is subject to the restrictions, terms, and conditions set out in attachment 7.4 of the deed of settlement (and recorded in Schedule 2) as if those restrictions, terms, or conditions were approved under section 38(1) of the Reserves Act 1977.
 (5) The quoting in Schedule 2 of the restrictions, terms, and conditions referred to in subsection (4) is a matter of record only and does not give them any greater force or effect than they have as terms and conditions under section 38(1) of the Reserves Act 1977.
-(6) Despite subsection (3), the council may, in accordance with the Reserves Act 1977, change the purpose of any reserve in Part 3, Part 4, Part 5, Part 6, or Part 7 of Schedule 3 by changing the reserve classification specified in column 4 of that part of that schedule.
+(6) Despite subsection (3), the Council may, in accordance with the Reserves Act 1977, change the purpose of any reserve in Part 3, Part 4, Part 5, Part 6, or Part 7 of Schedule 3 by changing the reserve classification specified in column 4 of that part of that schedule.
 (7) The control and management by the Council of the council reserves in Part 5, Part 6, or Part 7 of Schedule 3 continues in perpetuity in accordance with this section or until the Council decides, by resolution, that all or any part of the land is no longer required for a reserve.
 
 ### 29 Power to make bylaws
 Sections 106 to 108 of the Reserves Act 1977 apply in respect of the Crown reserves and council reserves as if—
-  (a) The Crown reserves and council reserves were reserves under that Act; and
-  (b) The Council were the administering body of the Crown reserves and council reserves as reserves under that Act.
+  (a) the Crown reserves and council reserves were reserves under that Act; and
+  (b) the Council were the administering body of the Crown reserves and council reserves as reserves under that Act.
 
 ### 30 Exemption from rates
 The Council may exempt a Crown reserve or a council reserve from rates so long as that reserve is controlled and managed for the purpose specified in section 28(3) and column 4 of Part 3, Part 4, Part 5, Part 6, or Part 7 of Schedule 3, as specified in the restrictions, terms, and conditions referred to in section 28(4), or for a purpose changed in accordance with section 28(6).
@@ -317,80 +327,68 @@ The Registrar must, when issuing a certificate of title for a Crown reserve or a
 
 ### 33 Public access rights
 (1) The vesting of the fee simple estate in the Crown reserves and the council reserves by section 25, section 26, or section 27 does not affect lawful rights of public access to and use and enjoyment of the Crown reserves and the council reserves and the reserve assets.
-(2) Subsection (1) applies to lawful rights of public access, use, and enjoyment whether existing on or created after the date on which the fee simple estate in the Crown reserves and council reserves vests in the Ngati Turangitukua Charitable Trust.
+(2) Subsection (1) applies to lawful rights of public access, use, and enjoyment whether existing on or created after the date on which the fee simple estate in the Crown reserves and council reserves vests in the Ngāti Tūrangitukua Charitable Trust.
 (3) Subsection (1) is subject to any regulation by the Council of public access, use, and enjoyment in accordance with—
-  (a) Any other enactment; or
-  (b) The terms of the Council's appointment to control and manage the Crown reserves and council reserves.
+  (a) any other enactment; or
+  (b) the terms of the Council’s appointment to control and manage the Crown reserves and council reserves.
 
 ### 34 Issue of title to reserves
-(1) Where the fee simple estate in a reserve specified in Schedule 3 is vested in the Ngati Turangitukua Charitable Trust by this Act and the reserve is land that is registered under the Land Transfer Act 1952, the Registrar must, upon written application by any person authorised by the chief executive, register the Ngati Turangitukua Charitable Trust as the proprietor of the fee simple estate in the reserve in substitution for the Crown or the Council, as the case may be, who held the land immediately before that vesting and make such entries in the register and on any outstanding documents of title and generally do all such things as may be necessary to give effect to this.
-(2) When the fee simple estate in a reserve specified in Schedule 3 is vested in the Ngati Turangitukua Charitable Trust by this Act and the reserve is land other than land registered under the Land Transfer Act 1952, the Registrar must, upon written application by any person authorised by the chief executive, issue a certificate of title for the fee simple estate in that reserve under the Land Transfer Act 1952 and register the Ngati Turangitukua Charitable Trust as the proprietor of the fee simple estate in the reserve in substitution for the Crown or the Council, as the case may be, who held the land immediately before that vesting and make such entries in the register and on any outstanding documents of title and generally do all such things as may be necessary to give effect to this.
+(1) Where the fee simple estate in a reserve specified in Schedule 3 is vested in the Ngāti Tūrangitukua Charitable Trust by this Act and the reserve is land that is registered under the Land Transfer Act 1952, the Registrar must, upon written application by any person authorised by the chief executive, register the Ngāti Tūrangitukua Charitable Trust as the proprietor of the fee simple estate in the reserve in substitution for the Crown or the Council, as the case may be, who held the land immediately before that vesting and make such entries in the register and on any outstanding documents of title and generally do all such things as may be necessary to give effect to this.
+(2) When the fee simple estate in a reserve specified in Schedule 3 is vested in the Ngāti Tūrangitukua Charitable Trust by this Act and the reserve is land other than land registered under the Land Transfer Act 1952, the Registrar must, upon written application by any person authorised by the chief executive, issue a certificate of title for the fee simple estate in that reserve under the Land Transfer Act 1952 and register the Ngāti Tūrangitukua Charitable Trust as the proprietor of the fee simple estate in the reserve in substitution for the Crown or the Council, as the case may be, who held the land immediately before that vesting and make such entries in the register and on any outstanding documents of title and generally do all such things as may be necessary to give effect to this.
 (3) Without limiting subsection (4), an application made in accordance with subsection (1) or subsection (2) must be made as soon as reasonably practicable after settlement date and must—
-  (a) Specify the Ngati Turangitukua Charitable Trust as the recipient and describe the reserve sufficiently to identify it; and
-  (b) If the application is made under subsection (2), include a certificate by the chief executive or the Chief Surveyor for the district concerned as to the correctness of that description, including a description of any registrable encumbrances subject to which, or with the benefit of which, the property is settled.
-(4) A certificate of title for each reserve must be issued in accordance with this section as soon as reasonably practicable after an application has been made under this section, and in any event, no later than 12 months after the vesting of the reserves (or such later date as may be agreed in writing by the Ngati Turangitukua Charitable Trust and the Crown).
+  (a) specify the Ngāti Tūrangitukua Charitable Trust as the recipient and describe the reserve sufficiently to identify it; and
+  (b) if the application is made under subsection (2), include a certificate by the chief executive or the Chief Surveyor for the district concerned as to the correctness of that description, including a description of any registrable encumbrances subject to which, or with the benefit of which, the property is settled.
+(4) A certificate of title for each reserve must be issued in accordance with this section as soon as reasonably practicable after an application has been made under this section, and in any event, no later than 12 months after the vesting of the reserves (or such later date as may be agreed in writing by the Ngāti Tūrangitukua Charitable Trust and the Crown).
 (5) The certificate given in accordance with this section must be filed by the Registrar in the Land Registry Office and is conclusive proof of the matters required to be stated in it.
 
 ### 35 Exclusions
-(1) Sections 24 and 25 of the Reserves Act 1977 do not apply to the revocation of a reserve vested in the Ngati Turangitukua Charitable Trust in accordance with section 25, section 26, or section 27.
-(2) Sections 78(1)(a), 79, 80, and 81 of the Reserves Act 1977 do not apply to any reserve vested in the Ngati Turangitukua Charitable Trust in accordance with section 25, section 26 or section 27.
-(3) Section 11 and Part 10 of the Resource Management Act 1991 do not apply to a reserve vested in the Ngati Turangitukua Charitable Trust in accordance with section 25, section 26, or section 27.
+(1) Sections 24 and 25 of the Reserves Act 1977 do not apply to the revocation of a reserve vested in the Ngāti Tūrangitukua Charitable Trust in accordance with section 25, section 26, or section 27.
+(2) Sections 78(1)(a), 79, 80, and 81 of the Reserves Act 1977 do not apply to any reserve vested in the Ngāti Tūrangitukua Charitable Trust in accordance with section 25, section 26, or section 27.
+(3) Section 11 and Part 10 of the Resource Management Act 1991 do not apply to a reserve vested in the Ngāti Tūrangitukua Charitable Trust in accordance with section 25, section 26, or section 27.
 
 ### 36 Encumbrances
 (1) Except as expressly provided in this Act, an encumbrance which is not registrable under the Land Transfer Act 1952 is not required by virtue of this Act to be registered against the certificate of title for a reserve vested in accordance with section 25, section 26, or section 27 of this Act.
-(2) Except as expressly provided in this Act, the fee simple estate of a reserve that is land under the Land Transfer Act 1952 and that is vested in accordance with section 25, section 26, or section 27 of this Act, is vested subject to any encumbrances in existence on 26 September 1998 and notified to the Ngati Turangitukua Charitable Trust by the Crown in accordance with clause 7.2.17(a) of the deed of settlement.
+(2) Except as expressly provided in this Act, the fee simple estate of a reserve that is land under the Land Transfer Act 1952 and that is vested in accordance with section 25, section 26, or section 27 of this Act, is vested subject to any encumbrances in existence on 26 September 1998 and notified to the Ngāti Tūrangitukua Charitable Trust by the Crown in accordance with clause 7.2.17(a) of the deed of settlement.
 
 ### 37 Certification of registrable interests
-(1) Where the fee simple estate in a reserve is vested in the Ngati Turangitukua Charitable Trust subject to the reservation of, or having the benefit of, any easement (not being an easement previously registered under the Land Transfer Act 1952) or any other registrable or notable encumbrance under this or any other Act, the chief executive, or the Chief Surveyor for the district concerned, must include in the certificate given under subsection (1) or subsection (2) of section 34, a sufficient description of the easement or encumbrance and particulars as to the rights, powers, terms, covenants, conditions, and restrictions attached to it.
+(1) Where the fee simple estate in a reserve is vested in the Ngāti Tūrangitukua Charitable Trust subject to the reservation of, or having the benefit of, any easement (not being an easement previously registered under the Land Transfer Act 1952) or any other registrable or notable encumbrance under this or any other Act, the chief executive, or the Chief Surveyor for the district concerned, must include in the certificate given under subsection (1) or subsection (2) of section 34, a sufficient description of the easement or encumbrance and particulars as to the rights, powers, terms, covenants, conditions, and restrictions attached to it.
 (2) The Registrar must enter a notation of the easement or encumbrance upon the relevant certificate of title by reference to the certificate in which it is described as if that certificate were the instrument creating the easement or encumbrance.
 (3) Where a notation of an easement or encumbrance is entered upon the relevant certificate of title in accordance with this section, the easement or encumbrance is deemed for all purposes (including all subsequent dealings) to be created under the Land Transfer Act 1952.
 
 ### 38 Successors bound
-Where the fee simple estate in a reserve is vested in the Ngati Turangitukua Charitable Trust by this Act, the terms on which the reserve is vested in the Ngati Turangitukua Charitable Trust bind any successor in title to the Ngati Turangitukua Charitable Trust.
+Where the fee simple estate in a reserve is vested in the Ngāti Tūrangitukua Charitable Trust by this Act, the terms on which the reserve is vested in the Ngāti Tūrangitukua Charitable Trust bind any successor in title to the Ngāti Tūrangitukua Charitable Trust.
 
 ### 39 Change of name of reserve
 (1) The recreation reserve described in Gazette 1984, Vol III, at page 3385 as 55.6617 hectares, more or less, being Section 8, situated in Block III, Pihanga Survey District is, in accordance with section 16(10) of the Reserves Act 1977, known as Waikari Recreation Reserve.
 (2) The recreation reserve described in the Gazette 1984, Vol IV, at page 4520 as 3686 square metres, more or less, being Sections 36, 37, 38, and 39, Block VI, Turangi Suburban, situated in Block III, Pihanga Survey District is, in accordance with section 16(10) of the Reserves Act 1977, known as Waikari Recreation Reserve.
 (3) The classification and name of the Admirals Scenic Reserve (classified and named by notice in the Gazette 1986, Vol V, at page 4520), is—
-  (a) Changed, to a recreation reserve subject to section 17(1) of the Reserves Act 1977; and
-  (b) Changed, to Waikari Recreation Reserve.
+  (a) changed, to a recreation reserve subject to section 17(1) of the Reserves Act 1977; and
+  (b) changed, to Waikari Recreation Reserve.
 (4) The requirements of section 24 and 16(10) of the Reserves Act 1977 are to be treated as having been complied with for the purposes of subsections (3)(a) and (3)(b).
 
 ## Schedule 1 — The Treaty of Waitangi
 
-### Ko te Tuatahi
-Ko nga Rangatira o te Wakaminenga me nga Rangatira katoa hoki kihai i uru ki taua wakaminenga ka tuku rawa atu ki te Kuini o Ingarani ake tonu atu-te Kawanatanga katoa o o ratou wenua.
+| (Signed) William Hobson,Consul and Lieutenant-Governor. |
+| --- |
 
-### Ko te Tuarua
-Ko te Kuini o Ingarani ka wakarite ka wakaae ki nga Rangatira ki nga hapu-ki nga tangata katoa o Nu Tirani te tino Rangatiratanga o o ratou wenua o ratou kainga me o ratou taonga katoa. Otiia ko nga Rangatira o te Wakaminenga me nga Rangatira katoa atu ka tuku ki te Kuini te hokonga o era wahi wenua e pai ai te tangata nona te Wenua-ki te ritenga o te utu e wakaritea ai e ratou ko te kaihoko e meatia nei e te Kuini hei kaihoko mona.
+| Ko ngā Rangatira o te wakaminenga. |
+| --- |
 
-### Ko te Tuatoru
-Hei wakaritenga mai hoki tenei mo te wakaaetanga ki te Kawanatanga o te Kuini-Ka tiakina e te Kuini o Ingarani nga tangata Maori katoa o Nu Tirani. Ka tukua ki a ratou nga tikanga katoa rite tahi ki ana mea ki nga tangata o Ingarani.
-
-### Article the First
-The Chiefs of the Confederation of the United Tribes of New Zealand and the separate and independent Chiefs who have not become members of the Confederation cede to Her Majesty the Queen of England absolutely and without reservation all the rights and powers of Sovereignty which the said Confederation of Individual Chiefs respectively exercise or possess, or may be supposed to exercise or to possess over their respective Territories as the sole Sovereigns thereof.
-
-### Article the Second
-Her Majesty the Queen of England confirms and guarantees to the Chiefs and Tribes of New Zealand and to the respective families and individuals thereof the full exclusive and undisturbed possession of their Lands and Estates Forests Fisheries and other properties which they may collectively or individually possess so long as it is their wish and desire to retain the same in their possession; but the Chiefs of the United Tribes and the individual Chiefs yield to Her Majesty the exclusive right of Preemption over such lands as the proprietors thereof may be disposed to alienate at such prices as may be agreed upon between the respective Proprietors and persons appointed by Her Majesty to treat with them in that behalf.
-
-### Article the Third
-In consideration thereof Her Majesty the Queen of England extends to the Natives of New Zealand Her royal protection and imparts to them all the Rights and Privileges of British Subjects.
-
-## Schedule 2 — Attachment 7.4 of deed of settlement
+## Schedule 2 — Attachment 7.4 of Deed of Settlement
 
 ## Schedule 3 — Description of reserves
 
 | Address | Certificate of title/Gazette notice | Legal description |
 | --- | --- | --- |
-| 46-52 Kutai Street | Gazette 1984, p 4520 | Sections 36-39, Block VI, Turangi Suburban |
-| 33-51 Kutai Street | Gazette notice B432400.1 | Sections 1 and 2, SO Plan 37359 |
+| 46–52 Kutai Street | Gazette 1984, p 4520 | Sections 36–39, Block VI, Turangi Suburban |
+| 33–51 Kutai Street | Gazette notice B432400.1 | Sections 1 and 2, SO Plan 37359 |
 
 | Address | Certificate of title/Gazette notice | Legal description |
 | --- | --- | --- |
-| 1 Tahawai Street | Certificate of title Vol 446 Folio 293 | 1763m2, Section 1, Block V, Turangi Suburban |
-| 5 Tahawai Street | Certificate of title Vol 458 Folio 13 | 1184m2, Section 2, Block V, Turangi Suburban |
-| 7 Tahawai Street | Certificate of title, Vol 464 Folio 218 | 1392m2, Section 3, Block V, Turangi Suburban |
-| 9 Tahawai Street | Certificate of title, Vol 464 Folio 219 | 1600m2, Section 4, Block V, Turangi Suburban |
+| 1 Tahawai Street | Certificate of title Vol 446 Folio 293 | 1763 m2, Section 1, Block V, Turangi Suburban |
+| 5 Tahawai Street | Certificate of title Vol 458 Folio 13 | 1184 m2, Section 2, Block V, Turangi Suburban |
+| 7 Tahawai Street | Certificate of title, Vol 464 Folio 218 | 1392 m2, Section 3, Block V, Turangi Suburban |
+| 9 Tahawai Street | Certificate of title, Vol 464 Folio 219 | 1600 m2, Section 4, Block V, Turangi Suburban |
 
 | Reserve name | Legal description | Vesting details | Purpose |
 | --- | --- | --- | --- |
@@ -401,7 +399,7 @@ In consideration thereof Her Majesty the Queen of England extends to the Natives
 | --- | --- | --- | --- |
 | D Reserve | 1.1253 hectares, Lot 1, DP 29123, Gazette 1971, p 155 | Vested in Council, Land Act 1948 and Reserves and Domains Act 1953 | Recreation Reserve |
 | E Reserve | 0.8096 hectares, Lot 39, DP 28407, Gazette 1971, p 155 | Vested in Council, Land Act 1948 and Reserves and Domains Act 1953 | Recreation Reserve |
-| Kaheke Street Reserve | 0.5696 hectares, Lot 1, DP 30051, Gazette 1970, p 1380 1.3782 hectares, Lot 8, DP 30051, Gazette 1970, p 1380 | Vested in Council, Land Act 1948 and Reserves and Domains Act 1953 | Recreation Reserve |
+| Kaheke Street Reserve | 0.5696 hectares, Lot 1, DP 30051, Gazette 1970, p 13801.3782 hectares, Lot 8, DP 30051, Gazette 1970, p 1380 | Vested in Council, Land Act 1948 and Reserves and Domains Act 1953 | Recreation Reserve |
 | Fire Break Reserve | 0.1083 hectares, Sec 39 Town of Turangi, Gazette 1996, p 2465, B 543710.1 | Vested in Council, Reserves Act 1977 | Recreation Reserve |
 | Cherry Grove Reserve | 0.2492 hectares, Sec 1 Blk 1 Turangi Suburban, Gazette 1996, p 2465 B543710.1 | Vested in Council, Reserves Act 1977 | Recreation Reserve |
 
@@ -409,10 +407,10 @@ In consideration thereof Her Majesty the Queen of England extends to the Natives
 | --- | --- | --- | --- |
 | McLaren Park Reserve | 0.8087 hectares, Pt Lot 34, DP 31159, Gazette 1984, p 1236 | Classified as a local purpose reserve, Reserves Act 1977 | Local purpose reserve (Community buildings) |
 | McLaren Park Reserve | 3.3880 hectares, Lot 36, DP 28083, Gazette 1969, p 1852 | Vested in Council, Land Act 1948 and Reserves and Domains Act 1953 | Recreation Reserve |
-| A Reserve | 1.1352 hectares, Lot 19, DP 58050, Certificate of title 24D/633 0.6020 hectares, Lot 16, DP 71220, Certificate of title 27D/351 | Vested in Council, section 306(4) Local Government Act 1974 | Recreation Reserve |
+| A Reserve | 1.1352 hectares, Lot 19, DP 58050, Certificate of title 24D/6330.6020 hectares, Lot 16, DP 71220, Certificate of title 27D/351 | Vested in Council, section 306(4) Local Government Act 1974 | Recreation Reserve |
 | B Reserve | 1.1260 hectares, Lot 10, DP 61544 | Local purpose reserve to vest | Local Purpose Reserve (Drainage) |
 | C Reserve | 3.9600 hectares, Lot 9, DP 61544 | Local purpose reserve to vest | Local Purpose Reserve (Drainage) |
-| Part Turangi Park Reserve | 2.8657 hectares, Lot 67, DP 50585, Gazette 1996, p 823, GN B509442.1 | Vested in Council, section 20(1), Public Works Act 1981 | Recreations Reserve |
+| Part Turangi Park Reserve | 2.8657 hectares, Lot 67, DP 50585, Gazette 1996, p 823, GN B509442.1 | Vested in Council, section 20(1), Public Works Act 1981 | Recreation Reserve |
 
 | Reserve name | Legal description | Vesting details | Purpose |
 | --- | --- | --- | --- |
@@ -420,12 +418,12 @@ In consideration thereof Her Majesty the Queen of England extends to the Natives
 
 | Reserve name | Legal description | Vesting details | Purpose |
 | --- | --- | --- | --- |
-| Water Supply Reserve | 13.6201 hectares, Part Waipapa 1F, Gazette 1985, p 251 | Vested in Council, sections 20 Reserve and 50, Public Works Act 1981 | Local Purpose Reserve (Waterworks) |
-| Water Supply Reserve | 18.3601 hectares, Pt Waipapa 1K, Gazette 1985, p 251 | Vested in Council, sections 20 Reserve and 50, Public Works Act 1981 | Local Purpose Reserve (Waterworks) |
-| Water Supply Reserve | 89.8781 hectares, Pt Waipapa 1L, Gazette 1985, p 251 | Vested in Council, sections 20 Reserve and 50, Public Works Act 1981 | Local Purpose Reserve (Waterworks) |
-| Water Supply Reserve | 43.9083 hectares, Pt Waipapa 1M, Gazette 1985, p 251 | Vested in Council, sections 20 Reserve and 50, Public Works Act 1981 | Local Purpose Reserve (Waterworks) |
+| Water Supply Reserve | 13.6201 hectares, Part Waipapa 1F, Gazette 1985, p 251 | Vested in Council, sections 20 and 50, Public Works Act 1981 | Local Purpose Reserve (Waterworks) |
+| Water Supply Reserve | 18.3601 hectares, Pt Waipapa 1K, Gazette 1985, p 251 | Vested in Council, sections 20 and 50, Public Works Act 1981 | Local Purpose Reserve (Waterworks) |
+| Water Supply Reserve | 89.8781 hectares, Pt Waipapa 1L, Gazette 1985, p 251 | Vested in Council, sections 20 and 50, Public Works Act 1981 | Local Purpose Reserve (Waterworks) |
+| Water Supply Reserve | 43.9083 hectares, Pt Waipapa 1M, Gazette 1985, p 251 | Vested in Council, sections 20 and 50, Public Works Act 1981 | Local Purpose Reserve (Waterworks) |
 | Water Supply Reserve | 40.5621 hectares, Pt Waipapa 2A2, Gazette 1985, p 251 | Vested in Council, sections 20 and 50, Public Works Act 1981 | Local Purpose Reserve (Waterworks) |
 | Water Supply Reserve | 8.9890 hectares, Pt Waipapa 2A2B2, Gazette 1985, p 251 | Vested in Council, sections 20 and 50, Public Works Act 1981 | Local Purpose Reserve (Waterworks) |
-| Water Supply Reserve | 0.3827 hectares, Pt Waipapa, Gazette 1985, p 251 | Vested in Council sections 20 and 50, Public Works Act 1981 | Local Purpose Reserve (Waterworks) |
+| Water Supply Reserve | 0.3827 hectares, Pt Waipapa, Gazette 1985, p 251 | Vested in Council, sections 20 and 50, Public Works Act 1981 | Local Purpose Reserve (Waterworks) |
 | Water Supply Reserve | 0.0405 hectares, Pt Waipapa, Gazette 1985, p 251 | Vested in Council, sections 20 and 50, Public Works Act 1981 | Local Purpose Reserve (Waterworks) |
 | Water Supply Reserve | 2.2207 hectares, Pt Waipapa, Gazette 1985, p 251 | Vested in Council, sections 20 and 50, Public Works Act 1981 | Local Purpose Reserve (Waterworks) |
