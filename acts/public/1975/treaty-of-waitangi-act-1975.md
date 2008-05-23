@@ -1,5 +1,5 @@
 # Treaty of Waitangi Act 1975
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-05-23_
 
 > An Act to provide for the observance, and confirmation, of the principles of the Treaty of Waitangi by establishing a Tribunal to make recommendations on claims relating to the practical application of the Treaty and to determine whether certain matters are inconsistent with the principles of the Treaty
 
@@ -27,7 +27,7 @@ This Act shall bind the Crown.
 (1) There is hereby established a tribunal to be known as the Waitangi Tribunal.
 (2) The Tribunal shall consist of—
   (a) A Judge or retired Judge of the High Court or the Chief Judge of the Maori Land Court; and the Judge is both a member of the Tribunal and its Chairperson, and is appointed by the Governor-General on the recommendation of the Minister of Maori Affairs made after consultation with the Minister of Justice:
-  (b) Not less than 2 other members and not more than 16 other members to be appointed by the Governor-General on the recommendation of the Minister of Maori Affairs made after consultation with the Minister of Justice.
+  (b) Not less than 2 other members and not more than 20 other members to be appointed by the Governor-General on the recommendation of the Minister of Maori Affairs made after consultation with the Minister of Justice.
 (2A) In considering the suitability of persons for appointment to the Tribunal, the Minister of Maori Affairs—
   (a) Shall have regard to the partnership between the 2 parties to the Treaty; and
   (b) Shall have regard not only to a person's personal attributes but also to a person's knowledge of and experience in the different aspects of matters likely to come before the Tribunal.
@@ -79,81 +79,33 @@ The appointment of a Judge as Chairperson, the deputy of the Chairperson, or as 
   (a) Commercial fishing or commercial fisheries (within the meaning of the Fisheries Act 1983 ); or
   (b) The Deed of Settlement between the Crown and Maori dated the 23rd day of September 1992; or
   (c) Any enactment, to the extent that it relates to such commercial fishing or commercial fisheries.
-(8) Notwithstanding anything in this Act or in any other Act or rule of law, as from the commencement of this subsection, the Tribunal shall not have jurisdiction to inquire or further inquire into, or to make any finding or recommendation in respect of,—
-  (a) Any or all of the Raupatu claims, as defined in sections 7 and 8 of the Waikato Raupatu Claims Settlement Act 1995 ; or
-  (b) The deed of settlement, as defined in section 7 of the Waikato Raupatu Claims Settlement Act 1995 ; or
-  (c) The benefits provided to Waikato under that deed of settlement or the Waikato Raupatu Claims Settlement Act 1995.
-(9) Despite anything in this Act or in any other Act or rule of law, on and from the settlement date, the Tribunal does not have jurisdiction to inquire or further inquire into, or to make any finding or recommendation in respect of,—
-  (a) Any or all of the Ngai Tahu claims, as defined in section 10 of the Ngai Tahu Claims Settlement Act 1998 ; or
-  (b) The deed of settlement, as defined in section 8 of the Ngai Tahu Claims Settlement Act 1998 ; or
-  (c) The benefits provided to Ngai Tahu under that deed of settlement or the Ngai Tahu Claims Settlement Act 1998 ; or
-  (d) The Ngai Tahu Claims Settlement Act 1998.
-(10) Subsection (9) does not exclude the jurisdiction of the Tribunal in respect of the interpretation or implementation of the deed of settlement or the Ngai Tahu Claims Settlement Act 1998.
-(11) Without limiting subsection (9), the Tribunal does not have jurisdiction, in relation to licensed land (within the meaning of the Crown Forest Assets Act 1989 ) in the takiwa of Ngai Tahu Whanui, to make a recommendation for compensation or for the return to Maori ownership of the land.
-(12) In this section, settlement date has the meaning given to it in section 8 of the Ngai Tahu Claims Settlement Act 1998.
-(13) Despite anything in this Act or in any other Act or rule of law, on and from the commencement of the Ngati Turangitukua Claims Settlement Act 1999, the Tribunal does not have jurisdiction to inquire or further inquire into, or to make any finding or recommendation in respect of,—
-  (a) Any or all of the Ngati Turangitukua claims, as defined in section 8 of the Ngati Turangitukua Claims Settlement Act 1999 ; or
-  (b) The deed of settlement or ancillary claims deed, as defined in section 7 of the Ngati Turangitukua Claims Settlement Act 1999 ; or
-  (c) The redress provided to Ngati Turangitukua under the deed of settlement, the ancillary claims deed, or the Ngati Turangitukua Claims Settlement Act 1999 ; or
-  (d) The Ngati Turangitukua Claims Settlement Act 1999.
-(14) Subsection (13) does not exclude the jurisdiction of the Tribunal in respect of the interpretation or implementation of the deed of settlement, the ancillary claims deed, or the Ngati Turangitukua Claims Settlement Act 1999.
-(15) Despite anything in this Act or in any other Act or rule of law, on and from the settlement date (as defined in section 9 of the Pouakani Claims Settlement Act 2000), the Tribunal does not have jurisdiction to inquire or further inquire into, or to make any finding or recommendation in respect of,—
-  (a) any or all of the Pouakani boundary claims and the Pouakani historical claims, as defined in section 9 of the Pouakani Claims Settlement Act 2000; or
-  (b) the validity of the deed of settlement, as defined in section 9 of the Pouakani Claims Settlement Act 2000; or
-  (c) the adequacy of the redress provided to the Pouakani governance entity and others under the deed of settlement or the Pouakani Claims Settlement Act 2000; or
-  (d) the Pouakani Claims Settlement Act 2000.
-(16) Subsection (15) does not exclude the jurisdiction of the Tribunal in respect of the interpretation or implementation of the deed of settlement or the Pouakani Claims Settlement Act 2000.
-(17) Despite anything in this Act or in any other Act or rule of law, on and from the settlement date (as defined in section 12 of the Te Uri o Hau Claims Settlement Act 2002), the Tribunal does not have jurisdiction to inquire or further inquire into, or to make any finding or recommendation in respect of,—
-  (a) any or all of Te Uri o Hau historical claims, as defined in section 15 of Te Uri o Hau Claims Settlement Act 2002; or
-  (b) the deed of settlement, as defined in section 12 of Te Uri o Hau Claims Settlement Act 2002; or
-  (c) the redress provided to Te Uri o Hau governance entity (as defined in section 12 of Te Uri o Hau Claims Settlement Act 2002) and others under the deed of settlement or Te Uri o Hau Claims Settlement Act 2002; or
-  (d) Te Uri o Hau Claims Settlement Act 2002.
-(18) Subsection (17) does not exclude the jurisdiction of the Tribunal in respect of the interpretation or implementation of the deed of settlement or Te Uri o Hau Claims Settlement Act 2002.
-(19) Despite anything in this Act or in any other enactment or rule of law, on and from the settlement date (as defined in section 12 of the Ngati Ruanui Claims Settlement Act 2003), the Tribunal does not have jurisdiction (including, without limitation, the jurisdiction to inquire or further inquire into, or to make a finding or recommendation) in respect of—
-  (a) any or all of the Ngati Ruanui historical claims, as defined in section 14 of the Ngati Ruanui Claims Settlement Act 2003; or
-  (b) the deed of settlement, as defined in section 12 of the Ngati Ruanui Claims Settlement Act 2003; or
-  (c) the redress provided under the deed of settlement or under the Ngati Ruanui Claims Settlement Act 2003; or
-  (d) the Ngati Ruanui Claims Settlement Act 2003.
-(20) Subsection (19) does not exclude the jurisdiction of the Tribunal in respect of the interpretation or implementation of the deed of settlement or the Ngati Ruanui Claims Settlement Act 2003.
-(21) Despite anything in this Act or in any other enactment or rule of law, on and from the settlement date (as defined in section 9 of the Ngati Tama Claims Settlement Act 2003), the Tribunal does not have jurisdiction (including, without limitation, the jurisdiction to inquire or further inquire into, or to make a finding or recommendation) in respect of—
-  (a) any or all of the Ngati Tama historical claims, as defined in section 11 of the Ngati Tama Claims Settlement Act 2003; or
-  (b) the deed of settlement, as defined in section 9 of the Ngati Tama Claims Settlement Act 2003; or
-  (c) the redress provided to the governance entity (as defined in section 9 of the Ngati Tama Claims Settlement Act 2003) under the deed of settlement or under the Ngati Tama Claims Settlement Act 2003; or
-  (d) the Ngati Tama Claims Settlement Act 2003.
-(22) Subsection (21) does not exclude the jurisdiction of the Tribunal in respect of the interpretation or enforcement of the deed of settlement or the Ngati Tama Claims Settlement Act 2003.
-(23) Despite anything in this Act or in any other enactment or rule of law, on and from the settlement date (as defined in section 12 of the Ngati Awa Claims Settlement Act 2005), the Tribunal does not have jurisdiction (including, without limitation, the jurisdiction to inquire or further inquire into, or to make a finding or recommendation) in respect of—
-  (a) all or any of the Ngati Awa historical claims, as defined in section 14 of the Ngati Awa Claims Settlement Act 2005; or
-  (b) the Pukaahu historical claims, the Rangitaiki 60C historical claims, or the Waiohau historical claims, as defined in section 162 of the Ngati Awa Claims Settlement Act 2005; or
-  (c) the Ngati Awa deed of settlement, as defined in section 12 of the Ngati Awa Claims Settlement Act 2005; or
-  (d) the ancillary deeds of settlement, as defined in section 161 of the Ngati Awa Claims Settlement Act 2005; or
-  (e) the redress provided under the Ngati Awa deed of settlement, under the ancillary deeds of settlement, or under the Ngati Awa Claims Settlement Act 2005; or
-  (f) the Ngati Awa Claims Settlement Act 2005.
-(24) Subsection (23) does not exclude the jurisdiction of the Tribunal in respect of the interpretation or implementation of the Ngati Awa deed of settlement, the ancillary deeds of settlement, or the Ngati Awa Claims Settlement Act 2005.
-(25) Despite anything in this Act or in any other enactment or rule of law, on and from the settlement date (as defined in section 12 of the Ngati Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005), the Tribunal does not have jurisdiction (including, without limitation, the jurisdiction to inquire or further inquire into, or to make a finding or recommendation) in respect of—
-  (a) any or all of the Ngati Tuwharetoa (Bay of Plenty) historical claims, as defined in section 14 of the Ngati Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005; or
-  (b) the deed of settlement, as defined in section 12 of the Ngati Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005; or
-  (c) the redress provided to the governance entity (as defined in section 12 of the Ngati Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005) under the deed of settlement or under the Ngati Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005; or
-  (d) the Ngati Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005.
-(26) Subsection (25) does not exclude the jurisdiction of the Tribunal in respect of the interpretation or enforcement of the deed of settlement or the Ngati Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005.
-(27) Despite anything in this Act or in any other enactment or rule of law, on and from the settlement date (as defined in section 12 of the Ngaa Rauru Kiitahi Claims Settlement Act 2005), the Tribunal does not have jurisdiction (including, without limitation, the jurisdiction to inquire or further inquire into, or to make a finding or recommendation) in respect of—
-  (a) any or all of the Ngaa Rauru Kiitahi historical claims, as defined in section 14 of the Ngaa Rauru Kiitahi Claims Settlement Act 2005; or
-  (b) the deed of settlement, as defined in section 12 of the Ngaa Rauru Kiitahi Claims Settlement Act 2005; or
-  (c) the redress provided to the governance entity (as defined in section 12 of the Ngaa Rauru Kiitahi Claims Settlement Act 2005); or
-  (d) the Ngaa Rauru Kiitahi Claims Settlement Act 2005.
-(28) Subsection (27) does not exclude the jurisdiction of the Tribunal in respect of the interpretation or implementation of the deed of settlement or the Ngaa Rauru Kiitahi Claims Settlement Act 2005.
-(29) Despite anything in this Act or in any other enactment or rule of law, on and from the settlement date (as defined in section 11 of the Te Arawa Lakes Settlement Act 2006), the Tribunal does not have jurisdiction (including, but not limited to, jurisdiction to inquire or further inquire into, or make a finding or recommendation) in respect of—
-  (a) any or all of the Te Arawa lakes historical claims, as defined in section 13 of the Te Arawa Lakes Settlement Act 2006; or
-  (b) any or all of the Te Arawa lakes remaining annuity issues, as defined in section 14 of the Te Arawa Lakes Settlement Act 2006; or
-  (c) the deed of settlement, as defined in section 11 of the Te Arawa Lakes Settlement Act 2006; or
-  (d) the redress provided under the deed of settlement or under the Te Arawa Lakes Settlement Act 2006; or
-  (e) the Te Arawa Lakes Settlement Act 2006.
-(30) Subsection (29) does not exclude the jurisdiction of the Tribunal in respect of the interpretation or implementation of the deed of settlement or the Te Arawa Lakes Settlement Act 2006.
-(31) Despite anything in this Act or in any other enactment or rule of law, on and from the settlement date (as defined in section 12 of the Ngati Mutunga Claims Settlement Act 2006), the Tribunal does not have jurisdiction (including, without limitation, the jurisdiction to inquire or further inquire into, or to make a finding or recommendation) in respect of—
-  (a) any or all of the Ngati Mutunga historical claims, as defined in section 14 of the Ngati Mutunga Claims Settlement Act 2006; or
-  (b) the deed of settlement, as defined in section 12 of the Ngati Mutunga Claims Settlement Act 2006; or
-  (c) the redress provided to the trustees, as defined in section 12 of the Ngati Mutunga Claims Settlement Act 2006, under the deed of settlement or under the Ngati Mutunga Claims Settlement Act 2006; or
-  (d) the Ngati Mutunga Claims Settlement Act 2006.
-(32) Subsection (31) does not exclude the jurisdiction of the Tribunal in respect of the interpretation or implementation of the deed of settlement or the Ngati Mutunga Claims Settlement Act 2006.
+(8) Despite anything in this Act or in any other Act or rule of law,—
+  (a) the jurisdiction of the Tribunal is subject to the enactments listed in Schedule 3; and
+  (b) without limiting paragraph (a), the Tribunal does not have jurisdiction, in relation to licensed land (within the meaning of the Crown Forest Assets Act 1989) in the takiwā of Ngāi Tahu Whānui, to make a recommendation for compensation or for the return of the land to Māori ownership.
+(9)
+(10)
+(11)
+(12)
+(13)
+(14)
+(15)
+(16)
+(17)
+(18)
+(19)
+(20)
+(21)
+(22)
+(23)
+(24)
+(25)
+(26)
+(27)
+(28)
+(29)
+(30)
+(31)
+(32)
 
 ### 6AA Limitation of Tribunal's jurisdiction in relation to historical Treaty claims
 (1) Despite section 6(1), after 1 September 2008 no Maori may—
@@ -581,3 +533,5 @@ The person to whom a claim is referred under clause 9A of this Schedule shall us
 
 ### 10 Seal of Tribunal
 The Tribunal shall have a seal which shall be appended to all reports and recommendations made by it.
+
+## Schedule 3 — Enactments to which jurisdiction of Tribunal is subject
