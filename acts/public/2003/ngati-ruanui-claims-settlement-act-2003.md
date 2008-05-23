@@ -1,26 +1,35 @@
 # Ngati Ruanui Claims Settlement Act 2003
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-05-23_
 
 ## Preamble
-Pre-1860Taranaki warsConfiscationCompensation CourtLate purchasesParihakaWest Coast Commissions and the West Coast Settlement Reserves Act 1881Ngati Ruanui have long sought to have their grievances redressedClaims under the Treaty of Waitangi Act 1975Interim views of the Waitangi TribunalThe settlement negotiationsKupu WhakatakiI mua atu i te tau 1860Ko nga Pakanga i TaranakiKo te Muru RaupatuKo te Koti KapeneihanaKo nga Hokonga o MuriParihakaKo nga Komihana me te Ture mo nga Rahui a te Whakataunga o te Tai Hauauru 1881 (West Coast Settlement Reserves Act 1881)He roa noa a Ngati Ruanui e totohe ana ki tenei take, kia whakaeangiaKo nga Kereme i raro i te Ture o te Tiriti o Waitangi 1975Ko nga Whakatau mo tenei wa o te Ropu Whakamana i te Tiriti o WaitangiKo nga Whiriwhiringa mo te Whakataunga
-(1) The Treaty of Waitangi, as set out in English and in Maori in the Schedule 1 of the Treaty of Waitangi Act 1975, was signed in 1840:
+(1) The Treaty of Waitangi, as set out in English and in Maori in Schedule 1 of the Treaty of Waitangi Act 1975, was signed in 1840:
 (2) Recitals (3) to (15) of this Preamble present, in summary form, the background to the Ngati Ruanui historical claims that is set out in Part 6 of the deed of settlement entered into by Ngati Ruanui and the Crown:
+Pre-1860
 (3) Ngati Ruanui were prosperous and economically successful in the 1840s and 1850s, and traded extensively with European settlements and overseas traders. Following the signing of the Treaty of Waitangi, Ngati Ruanui consistently opposed the sale of Maori land in Taranaki. By the mid-1860s, Ngati Ruanui and other iwi of Taranaki and elsewhere had entered into a compact to oppose further land sales. By 1860, no Ngati Ruanui land had been sold to the Crown:
-(4) In 1860, Ngati Ruanui continued to support the people of Te Atiawa and Nga Rauru who opposed land sale, specifically with respect to the Pekapeka and Waitotara blocks. The Crown proclaimed martial law throughout Taranaki on 22 February 1860 in response to Maori opposition to the Crown's attempts to acquire the Pekapeka block at Waitara. The Taranaki wars of 1860-61 and 1863-69 followed. Ngati Ruanui suffered much loss of life and property during these wars:
+Taranaki wars
+(4) In 1860, Ngati Ruanui continued to support the people of Te Atiawa and Nga Rauru who opposed land sale, specifically with respect to the Pekapeka and Waitotara blocks. The Crown proclaimed martial law throughout Taranaki on 22 February 1860 in response to Maori opposition to the Crown’s attempts to acquire the Pekapeka block at Waitara. The Taranaki wars of 1860–61 and 1863–69 followed. Ngati Ruanui suffered much loss of life and property during these wars:
 (5) At the end of the war in 1869, some 233 Pakakohi men, women, and children of Ngati Ruanui surrendered, following promises that they would not be killed. Many of these people were tried for treason, and 74 were subsequently sentenced to death. These sentences were commuted to terms of imprisonment of 3 and 7 years. The prisoners were sent to South Island jails. At least 18 of the 74 imprisoned died before release. The remaining prisoners were released in 1872. Following their release, the Government would not permit them to return to their previous homes:
+Confiscation
 (6) In 1863, the New Zealand Settlements Act 1863 was enacted. This Act was used to effect the confiscation of lands of Maori whom the Crown assessed to have been engaged in rebellion against the authority of the Queen. It was under this Act that, in 1865, the Governor of New Zealand confiscated much of the land of Ngati Ruanui. The confiscation proclamation of 2 September 1865 declared all of southern Taranaki an eligible site, liable to be used for the purposes of European settlement:
+Compensation Court
 (7) A Compensation Court was set up under the New Zealand Settlements Act 1863 to compensate some of those whose land was confiscated by the Crown. Maori who, for the purposes of the New Zealand Settlements Act 1863, had been found to be in arms against the Crown since 1 January 1863, or to have supported those found to be in arms, could not receive compensation. Claimants had to establish both that they had an interest in the land and that they had been loyal to the Crown. Almost all of the resident claimants within the rohe of Ngati Ruanui were rejected for one reason or another. Only 40 people out of 997 were assessed to be resident loyals and awarded a full share of the entitlement assessed by the Compensation Court for the middle section of the Ngati Ruanui Coast District. None of the awards was properly implemented and by 1880, when the West Coast Commission began its investigations, none of the people of Ngati Ruanui had received grants for the land:
-(8) In the period 1874-81, the Crown claimed to acquire Ngati Ruanui lands situated both outside and inside the confiscation area by means of purchase effected through deeds of cession. In purchasing this land, the Crown did not properly investigate the customary title. Purchases both inside and outside the confiscation boundary were further flawed in that negotiations were not conducted openly, minimal consideration was paid, and very few reserves were promised. Of those reserves that were promised, none had been created by 1880, leaving Ngati Ruanui with very limited land for their support and maintenance:
+Late purchases
+(8) In the period 1874–81, the Crown claimed to acquire Ngati Ruanui lands situated both outside and inside the confiscation area by means of purchase effected through deeds of cession. In purchasing this land, the Crown did not properly investigate the customary title. Purchases both inside and outside the confiscation boundary were further flawed in that negotiations were not conducted openly, minimal consideration was paid, and very few reserves were promised. Of those reserves that were promised, none had been created by 1880, leaving Ngati Ruanui with very limited land for their support and maintenance:
+Parihaka
 (9) Following the Taranaki wars, a number of Ngati Ruanui people joined the passive resistance settlement of Parihaka, which had been established before the Taranaki wars ended and, which was under the leadership of Tohu Kakahi and Te Whiti o Rongomai. This settlement was established on land in central Taranaki, the confiscation of which was widely perceived as having been abandoned. The passive resistance campaigns included the removal of survey pegs and fencing, and the ploughing of settler land throughout Taranaki, and led to more than 636 people from throughout Taranaki being arrested and imprisoned. Few of these people received a trial, and special legislation was passed to first defer the remainder of the trials and to then dispense with them altogether. Many prisoners, including people of Ngati Ruanui, were held in prisons in the South Island where conditions were harsh and included hard labour:
 (10) In 1881, more than 1 500 Crown troops invaded and occupied the settlement of Parihaka. Over the following days, some 1 600 men, women, and children, not originally from Parihaka, were forcibly expelled from the settlement. Houses and cultivations in the vicinity were systematically destroyed, and stock was driven away or killed. Maori of Taranaki report that women were raped and otherwise molested by their attackers:
 (11) The leaders of Parihaka, Tohu Kakahi and Te Whiti o Rongomai, were arrested, and special legislation provided for their imprisonment without trial:
-(12) Two West Coast Commissions were appointed in 1880. The first was established to inquire into the Compensation Court awards and specific promises made by the Crown to Maori in Taranaki concerning confiscated lands. The second was established to implement the recommendations of the first. The North and South of Taranaki had already been substantially settled by European settlers. This meant that land was not available for adequate reserves. A small amount of land was returned in South Taranaki. Most of Ngati Ruanui's productive coastal land was retained by the Crown, and they were left with insufficient agricultural land for their existence and future development:
+West Coast Commissions and the West Coast Settlement Reserves Act 1881
+(12) Two West Coast Commissions were appointed in 1880. The first was established to inquire into the Compensation Court awards and specific promises made by the Crown to Maori in Taranaki concerning confiscated lands. The second was established to implement the recommendations of the first. The North and South of Taranaki had already been substantially settled by European settlers. This meant that land was not available for adequate reserves. A small amount of land was returned in South Taranaki. Most of Ngati Ruanui’s productive coastal land was retained by the Crown, and they were left with insufficient agricultural land for their existence and future development:
 (13) Virtually all of the land that was returned was returned under individualised title, overriding the customary forms of land tenure and providing no protection against future alienation:
 (14) The reserves made by the West Coast Commission were vested in the Public Trustee in trust for Maori owners, so that Maori lost their legal ownership. The Public Trustee had full power to sell the alienable reserves and lease the inalienable ones under terms imposed by statute. A substantial proportion of the land was subsequently leased to settlers subject to perpetually renewable leases. This imposed system denied Ngati Ruanui control over their lands and control of the income from their lands:
-(15) In 1926, the Sim Commission was set up to investigate confiscations under the New Zealand Settlements Act 1863 and subsequent legislation. The Commission's recommendations for an annuity of £5,000 for all the Taranaki confiscations and a single payment of £300 for the loss of property at Parihaka were not discussed with the iwi concerned and were never accepted as adequate. The timing of the payment of the annuity was uncertain, and the sums due in the early 1930s were not fully paid:
+(15) In 1926, the Sim Commission was set up to investigate confiscations under the New Zealand Settlements Act 1863 and subsequent legislation. The Commission’s recommendations for an annuity of £5,000 for all the Taranaki confiscations and a single payment of £300 for the loss of property at Parihaka were not discussed with the iwi concerned and were never accepted as adequate. The timing of the payment of the annuity was uncertain, and the sums due in the early 1930s were not fully paid:
+Ngati Ruanui have long sought to have their grievances redressed
 (16) Taranaki Maori, including Ngati Ruanui, have longstanding claims against the Crown. Those claims have been expressed through petitions and protests made by Taranaki Maori, including Ngati Ruanui. Those petitions and protests contributed to the establishment, in the nineteenth and twentieth centuries, of various commissions of inquiry into lands confiscated from Taranaki Maori:
+Claims under the Treaty of Waitangi Act 1975
 (17) The enactment of the Treaty of Waitangi Amendment Act 1985 made it possible for Maori to bring claims before the Waitangi Tribunal in respect of acts or omissions on or after 6 February 1840 by, or on behalf of, the Crown that were inconsistent with the principles of the Treaty of Waitangi:
 (18) Between 1990 and 1995, the Waitangi Tribunal investigated 21 claims concerning Taranaki Maori, including Ngati Ruanui:
+Interim views of the Waitangi Tribunal
 (19) The Crown acknowledged to the Waitangi Tribunal, in its interim response to the Taranaki claims, that—
   (a) the Waitara purchase and the wars constituted an injustice and were therefore in breach of the principles of the Treaty of Waitangi:
   (b) the confiscation of land, as it occurred in Taranaki, also constituted an injustice and was therefore in breach of the principles of the Treaty of Waitangi:
@@ -29,36 +38,47 @@ Pre-1860Taranaki warsConfiscationCompensation CourtLate purchasesParihakaWest Co
   (e) events relating to the implementation of the confiscations leading to the invasion of Parihaka in 1881, the invasion itself, and its aftermath constituted a breach of the principles of the Treaty of Waitangi:
 (20) On 11 June 1996, the Waitangi Tribunal released its interim report on the collective Taranaki Maori claims (Wai 143) entitled The Taranaki Report: Kaupapa Tuatahi:
 (21) This report contained the preliminary views of the Waitangi Tribunal and was issued—
-  (a) based on the Tribunal's inquiry up to the date of the report (noting, in particular, that the Crown was yet to be heard on many matters raised); and
+  (a) based on the Tribunal’s inquiry up to the date of the report (noting, in particular, that the Crown was yet to be heard on many matters raised); and
   (b) in order to expedite intended negotiations for a settlement in relation to the Taranaki claims:
 (22) The Waitangi Tribunal expressed some preliminary views concerning the Taranaki claims, including that—
   (a) the claims stood on 2 major foundations, land deprivation and disempowerment, with the latter being the main one. By disempowerment, the Waitangi Tribunal meant the denigration and destruction of Maori autonomy or self-government:
-  (b) the Tribunal's Interim Report had introduced the historical claims of the Taranaki hapu and shown the need for a settlement:
+  (b) the Tribunal’s Interim Report had introduced the historical claims of the Taranaki hapu and shown the need for a settlement:
   (c) generous reparation policies were needed to remove the prejudice to Maori, to restore the honour of the Government, to ensure cultural survival, and to re-establish effective interaction between the Treaty partners:
+The settlement negotiations
 (23) In April 1998, the Crown recognised the mandate of the Ngati Ruanui Muru Me Te Raupatu Working Party to represent Ngati Ruanui (including Tangahoe and Pakakohi) in negotiations for a settlement with the Crown:
-  (a) terms of negotiation on 31 August 1998 that specified the scope, objectives, and general procedures for the negotiations:
-  (b) a heads of agreement on 7 September 1999, recording that Ngati Ruanui and the Crown were, in principle, willing to enter into a deed of settlement on the basis of the Crown's settlement proposal set out in the heads of agreement:
 (24) The Ngati Ruanui Muru Me Te Raupatu Working Party and the Crown entered into—
+  (a) terms of negotiation on 31 August 1998 that specified the scope, objectives, and general procedures for the negotiations:
+  (b) a heads of agreement on 7 September 1999, recording that Ngati Ruanui and the Crown were, in principle, willing to enter into a deed of settlement on the basis of the Crown’s settlement proposal set out in the heads of agreement:
 (25) The Crown and the Ngati Ruanui Muru Me Te Raupatu Working Party initialled a deed of settlement on 1 March 2001:
-(26) Ngati Ruanui ratified the Crown's settlement offer and entered into a deed of settlement on 12 May 2001 that records the matters required to give effect to a full and final settlement of all of Ngati Ruanui's historical claims:
+(26) Ngati Ruanui ratified the Crown’s settlement offer and entered into a deed of settlement on 12 May 2001 that records the matters required to give effect to a full and final settlement of all of Ngati Ruanui’s historical claims.
 (1) Ko te Tiriti o Waitangi, e whakatauria atu nei i te Apitihanga Tuatahi ki te Ture o te Tiriti o Waitangi 1975, i nga reo e rua, i hainatia i te tau 1840:
 (2) Kei nga whiti (3) ki te (15) o tenei kupu whakataki ka horaina atu tetehi whakarapopototanga mo nga whakamarama i nga kereme o nehe o Ngati Ruanui, e tuhia ana i te Wahanga 6 o te whakaaetanga whakataunga i whakataturia e Ngati Ruanui me te Karauna:
+I mua atu i te tau 1860
 (3) I nga tau mai i 1840 ki 1860 he taurikura te noho o Ngati Ruanui, ka hua he oranga nui ki a ratou, he nui nga mahi hokohoko ki nga taone a te Pakeha, me nga kaihokohoko ano hoki o tawahi. Heoti ano, no muri i te hainatanga o te Tiriti o Waitangi, kihai tonu i mutu te whakahe a Ngati Ruanui ki nga hoko whenua Maori i Taranaki. Kia tae ki waenganui o nga tekau tau mai i 1860 kua oti tetehi kawenata na Ngati Ruanui me etehi atu iwi, kia kaua rawa e tukuna he whenua kia hokona. I te taenga ki te tau 1860 kaore ano i hokona tetehi wahi kotahi o nga whenua o Ngati Ruanui ki te Karauna:
+Ko nga Pakanga i Taranaki
 (4) I te tau 1860 kaore i nuku a Ngati Ruanui, ka tautoko pumau i nga whanaunga i a Te Atiawa, i a Nga Rauru, i whakahe ki nga hoko whenua. Ko nga poraka i whakahengia ra te hoko ko Pekapeka me Waitotara. Ka panuitia e te Karauna ka mana te ture hoia puta noa i te rohe o Taranaki i te 22 o nga ra o Pepuere i te tau 1860. He whakautu tenei ki nga whakakahore a ngai Maori ki nga whainga a te Karauna kia riro mai i a ia te poraka i Pekapeka, ki Waitara. Ka whai mai ko nga pakanga o Taranaki o nga tau 1860 ki 1861, me nga pakanga o nga tau 1863 ki 1869. He nui tonu te mate o te tangata me te rironga o nga rawa o Ngati Ruanui i enei pakanga:
 (5) I te mutunga o te pakanga i te tau 1869 e 233 nga tane, nga wahine me nga tamariki o Te Pakakohi o Ngati Ruanui i tuku i o ratou patu, i muri i nga ki taurangi kore rawa ratou e whakamatea. He nui tonu i whakawatia mo te kaikaiwaiu, e 74 i whakawhiua kia whakamatea rawatia. Heoi ano, ka whakangawaritia aua whakawhiu, me mauhere ratou mo te 3 ki te 7 tau. Ka tonoa ki nga whare herehere i Te Waipounamu. 18 o te 74, neke atu pea, e mohiotia ana, i mate i mua i te tukunga ki waho. I muri i te putanga ki waho i te herehere kaore i tukua e te Kawanatanga kia hoki ki o ratou kainga ake:
+Ko te Muru Raupatu
 (6) No te tau 1863 ka whakamanaia te Ture mo te Whakanoho i te Hunga Marie 1863 (New Zealand Settlements Act 1863). Whakamahia ai tenei ture hei muru i nga whenua o nga Maori i kiia, he whakakeke ta ratou ki te mana o te Kuini o Ingarangi mai i te tau 1863. I raro ano i taua ture i te tau 1865, ka murua e te Kawana o Niu Tireni te maha o nga whenua o Ngati Ruanui. Na te panuitanga raupatu o te 2 o nga ra o Hepetema 1865 i whakapuaki, ko te katoa o te rohe o Taranaki ki te Tonga he wahi ka ahei te tango hei whakanohonoho i te iwi Pakeha:
+Ko te Koti Kapeneihana
 (7) Ka whakaturia he Koti Kapeneihana i raro i te Ture Whakanoho o 1863, hei utu whakaeatanga ki etehi o te hunga i murua o ratou whenua e te Karauna. Ko nga Maori i kitea—e ai ki te Ture Whakanoho o 1863—kua hapai rakau ki te Karauna mai i te 1 o nga ra o Hanuere 1863, ko te hunga hoki i tautoko i aua Maori hapai rakau, kaore tonu i ahei kia whiwhi whakaeatanga. Ko te ture ia, me matua whakapumau e te kaikereme ona panga ki taua whenua, a, i piripono ratou ki te Karauna i mua. Tata ki te katoa o nga kaikereme e noho ana i roto i te rohe o Ngati Ruanui, i whakakahoretia a ratou tono whakaeatanga. E 40 noa iho o nga tangata 997, i whakatuturutia he tangata noho i reira, he piripono, i whakawhiwhia ki te katoa o te whakaeatanga a te Koti Kapeneihana, mo te wahanga o waenganui o te Rohe Takutai o Ngati Ruanui. Kaore kau i tika te whakatinanatanga o nga whiwhinga. No te taenga ki te tau 1880, i te timatatanga o nga mahi tirotiro a te Komihana mo te Tai Hauauru, kaore ano tetehi o nga tangata o Ngati Ruanui kia whiwhi whakaeatanga:
+Ko nga Hokonga o Muri
 (8) I nga tau 1874 ki te 1881, ka taunahatia e te Karauna nga whenua o Ngati Ruanui i waho, i roto hoki i te rohe raupatu, na runga i nga hokonga i whakatinanatia i nga whakaaetanga tuku whenua. I te hokonga o enei whenua, kaore te Karauna i ata tirotiro ki nga take pupuru whenua. Tetehi mate ano i he ai nga hokonga i roto, i waho i te whaitua raupatu, kaore i whitikia e te ra nga whiriwhiringa, he mea huna. Waihoki te utu, he iti rawa, a, i tino iti rawa nga rahui i kiia tera e whakamanaia. Kaore i whakaoti tetehi o aua rahui i te takanga o te tau 1880, no reira ka raruraru a Ngati Ruanui, he tino iti rawa te whenua, a, he iti noa ano hoki te oranga mo ratou:
+Parihaka
 (9) I muri i nga pakanga o Taranaki ka tuhono a Ngati Ruanui ki nga mahi atete ririkore o Parihaka, i raro i te mana o Tohu Kakahi raua ko Te Whiti o Rongomai. Ka whakaturia taua kainga i etehi whenua i Taranaki ki waenganui, a, ko te murunga o enei whenua e ai ki nga tirohanga, i waiho noa, kihai i oti. Kei raro i tenei kaupapa atete ririkore, ka haere nga mahi tangotango i nga tirau me nga taiapa a nga kairuri, me te parau i te whenua o nga Pakeha nohonoho i te whenua puta noa i te rohe o Taranaki. Neke atu i te 636 nga tangata mai i Taranaki whanui i hopukina, i mauheretia hoki. He torutoru noa enei tangata i whakawatia e te tiati. Ka whakamanaia he ture motuhake, te take tuatahi o taua ture he whakatarewa i te roanga atu o nga whakawa, te take tuarua he whakakore i aua whakawatanga. He nui tonu nga mauhere, ko nga tangata tonu o Ngati Ruanui etehi, i purutia atu ki nga whare herehere i Te Waipounamu, a, he whakawiri te noho, he mahi pakeke te whiu i etehi:
-(10) I te tau 1881 ka whakaekea te kainga o Parihaka e nga hoia a te Karauna , neke atu i 1 500 te ope, ka nohoia te pa. I nga ra i muri, neke atu i te 1 600 nga tane, nga wahine me nga tamariki, ehara no Parihaka taketake enei tangata, i panaia i te kainga. Ka horoa nga whare me nga mara i te takiwa, ka aia atu nga kararehe, ka patua ranei. E ai ki nga Maori o Taranaki i pawheratia etehi wahine, i takakinotia ranei e nga kaiwhakaeke:
+(10) I te tau 1881 ka whakaekea te kainga o Parihaka e nga hoia a te Karauna, neke atu i 1 500 te ope, ka nohoia te pa. I nga ra i muri, neke atu i te 1 600 nga tane, nga wahine me nga tamariki, ehara no Parihaka taketake enei tangata, i panaia i te kainga. Ka horoa nga whare me nga mara i te takiwa, ka aia atu nga kararehe, ka patua ranei. E ai ki nga Maori o Taranaki i pawheratia etehi wahine, i takakinotia ranei e nga kaiwhakaeke:
 (11) Ko nga tino kaihautu o Parihaka, ko Tohu Kakahi raua ko Te Whiti o Rongomai, ka mauheretia, ka haere hoki he ture motuhake mo te mauheretanga, kaore he whakawatanga:
+Ko nga Komihana me te Ture mo nga Rahui a te Whakataunga o te Tai Hauauru 1881 (West Coast Settlement Reserves Act 1881)
 (12) E rua nga Komihana mo Te Tai Hauauru i tohua i te tau 1880. Ko ta te tuatahi he tirotiro ki nga whakawhiwhinga a te Koti Kopureihana, me nga ki taurangi a te Karauna ki nga tangata Maori o Taranaki mo nga whenua raupatu. Ko te tuarua, i whakaturia hei whakatinana i nga tohutohu a te tuatahi. Kua oti ke a Taranaki ki te raki, me Taranaki ki te tonga te whakanohonoho i te Pakeha. Na konei kaore i watea he whenua nui hei rahui totika. Iti noa te whenua i whakahokia, i Taranaki ki te tonga. Ko te nuinga o o Ngati Ruanui whenua momona o te takutai i purutia ketia e te Karauna. Heoti ano te whenua i whakahokia ki a ratou he whenua moroiti, kaore i nui rawa hei oranga, hei whanaketanga ranei mo nga ra o muri:
 (13) Tata ki te katoa o nga whenua i whakahokia, he taitara takitahi, na, ka raru nga tikanga me te mana pupuru whenua o te hapu, kaore he arainga atu i nga hoko whai i muri:
 (14) Ko nga rahui i wehea mai e te Komihana mo Te Tai Hauauru ka whakaritea atu ma te Kaitiaki Matua (Public Trustee) e whakahaere, ma nga rangatira Maori o aua whenua, a, ka ngaro i konei o ratou whainga tika hei rangatira o aua whenua. I te Kaitiaki ano te tino mana hei hoko i nga rahui i ahei ai te hoko, me te rihi i nga rahui kaore i whakaaetia kia hokona i raro ano i nga whakaritenga o te ture. Ko tetehi wahi nui o aua whenua i rihitia ki nga tangata nohonoho i aua whenua, he rihi i ahei te whakahou mo ake tonu atu. Na tenei whakaritenga, kaore i whakaaetia e Ngati Ruanui, i whakaporaru te mana o Ngati Ruanui ki o ratou whenua, me te kaha o Ngati Ruanui ki te tango moni rihi hoki i o ratou whenua:
 (15) No te tau 1926 ka noho te Komihana a Te Himi (Sim Commission) ki te ata tirotiro i nga murunga raupatu i raro i te Ture Whakanoho o te tau 1863 (New Zealand Settlements Act 1863), me nga ture whai i muri. Ko nga whakaritenga a te Komihana mo tetehi putea a-tau, e 5 000 pauna mo nga whenua raupatu katoa o Taranaki, me tetehi moni e 300 pauna, mo nga rironga taonga i Parihaka, kaore i ata korerotia ki te iwi whai panga, kaore hoki i whakaaetia e te iwi he totika tenei utu. Kaore i ata tau nga wa e utua ai, na konei kaore i utua te katoa o nga moni e tika ana kia utua i nga tau tuatahi o te tekau tau mai i 1930:
+He roa noa a Ngati Ruanui e totohe ana ki tenei take, kia whakaeangia
 (16) He roa tonu nga kereme a nga Maori o Taranaki, tae atu ki a Ngati Ruanui, ki te Karauna. Ko enei take i whakaputaina ma roto i nga pitihana me nga whakahe a nga Maori o Taranaki, tae atu ki a Ngati Ruanui. Na enei pitihana me enei whakahe, ka whakaturia etehi komihana uiui mo nga whenua Maori i murua i nga Maori o Taranaki, i nga rau tau tekau ma iwa, me te rau tau rua tekau ano hoki:
+Ko nga Kereme i raro i te Ture o te Tiriti o Waitangi 1975
 (17) Na te whakamananga o te Ture Whakatikatika i te Ture mo te Tiriti o Waitangi 1985 i ahei ai te tangata Maori ki te whakatakoto kereme ki mua i te aroaro o te Ropu Whakamana i te Tiriti o Waitangi mo nga mahi, mo nga hapanga i mahia e te Karauna, mo te Karauna ranei, i te ra 6 o te marama o Pepuere 1840, i muri mai ranei, kaore i hangai ki nga matapono o te Tiriti o Waitangi:
 (18) Mai i te tau 1990 ki te tau 1995, ka tirohia e te Ropu Whakamana i te Tiriti o Waitangi nga take 21 mo nga iwi Maori o Taranaki, ko Ngati Ruanui tetehi wahanga o enei:
+Ko nga Whakatau mo tenei wa o te Ropu Whakamana i te Tiriti o Waitangi
 (19) Ka whakaae te Karauna ki te Ropu Whakamana i te Tiriti o Waitangi, i tona urupare tuatahi ki nga kereme o Taranaki:
   (a) I tino he te hokonga o Waitara me nga pakanga i whai muri, a, he mahi enei i takahi i nga matapono o te Tiriti o Waitangi:
   (b) I he hoki te murunga whenua, pera i nga raupatu o Taranaki, na konei i takahia ai nga matapono o te Tiriti o Waitangi:
@@ -73,12 +93,13 @@ Pre-1860Taranaki warsConfiscationCompensation CourtLate purchasesParihakaWest Co
   (a) e rua nga pou matua o enei kereme, ara, ko te rironga o te whenua, ko te turakitanga o te mana, a, ko to muri te mea nui atu. Ko te turakitanga o te mana, e ai ki te Ropu Whakamana i te Tiriti o Waitangi ko te whakahaweatanga me te whakamotitanga o te mana motuhake me te tino rangatiratanga a te Maori:
   (b) na tenei purongo tuatahi a te Ropu Whakamana i te Tiriti o Waitangi i whakauru nga kereme o nehe o Taranaki, nana hoki i waitohu he mea tika kia kitea he whakatau:
   (c) he tika tonu kia hangaia he kaupapa whakahoki taonga, hei whakaea i nga hara o mua, hei whakaora i te mana o te Kawanatanga, hei whakapiki i te oranga o te ahurea Maori, hei whakanoho hoki i te wairua whakawhanaunga i waenganui i nga hoa Tiriti:
+Ko nga Whiriwhiringa mo te Whakataunga
 (23) No te marama o Aperira 1998, ka whakaae te Karauna ki te mana o te ropu e kiia nei, ko Ngati Ruanui Muru Me Te Raupatu hei kanohi mo Ngati Ruanui (kei roto nei a Tangahoe me Te Pakakohi) i roto i nga whiriwhiringa ki te Karauna:
 (24) Na konei ka whakatauria e te ropu mahi a Ngati Ruanui Muru Me Te Raupatu me te Karauna:
   (a) nga Whakaritenga o nga Whiriwhiringa i te 31 o nga ra o Akuhata 1998, i whakatakotoria ai te whanui o te titiro, nga whainga me nga tikanga whakahaere mo enei whiriwhiringa:
   (b) he Whakaaetanga Taketake i te 7 o nga ra o Hepetema 1999, e whakaatu ana i te hiahia ngatahi o Ngati Ruanui me te Karauna ki te tatu i tetehi Whakaaetanga o nga Whakataunga, i runga ano i te kaupapa whakataunga a te Karauna i tatau ai i roto i taua Whakaaetanga Taketake:
 (25) Ka hainatia e te Karauna me te ropu mahi a Ngati Ruanui Muru Me Te Raupatu tetehi tauira o te Whakaaetanga Whakataunga i te 1 o nga ra o Maehe 2001. Na ka whakapumautia e te iwi o Ngati Ruanui te marohitanga a te Karauna mo te whakataunga kereme:
-(26) Ka tatu i te Karauna me Ngati Ruanui tetehi Whakaaetanga o nga Whakataunga i te 12 o nga ra o Mei 2001, e whakatatu ana i nga take katoa e tika ana kia whakatauria tuturutia te katoa o nga kereme o nehe o te iwi o Ngati Ruanui:
+(26) Ka tatu i te Karauna me Ngati Ruanui tetehi Whakaaetanga o nga Whakataunga i te 12 o nga ra o Mei 2001, e whakatatu ana i nga take katoa e tika ana kia whakatauria tuturutia te katoa o nga kereme o nehe o te iwi o Ngati Ruanui.
 
 ### 1 Title
 This Act is the Ngati Ruanui Claims Settlement Act 2003.
@@ -116,8 +137,8 @@ This Act binds the Crown.
   (g) an acknowledgement by the Crown of the statements by Ngati Ruanui of their cultural, spiritual, historical, and traditional association with Nga Taonga a Tane raua ko Tangaroa (the indigenous species and certain species of fish and other aquatic life in the DOC and fisheries protocol areas respectively) and purangi in the Ngati Ruanui area of interest; and
   (h) an acknowledgement by the Crown of the customary non-commercial interest of Ngati Ruanui in the paua fishery within the fisheries protocol area; and
   (i) a right of first refusal in favour of the governance entity for certain shellfish quota; and
-  (j) a preferential right to purchase authorisations if the Minister of Conservation offers, by public tender under Part 8 of the Resource Management Act 1991, authorisations for any part of the specified coastal area.
-(7) There are 11 Schedules providing—
+  (j) a preferential right to purchase authorisations if the Minister of Conservation offers, by public tender under Part 7 of the Resource Management Act 1991, authorisations for any part of the specified coastal area.
+(7) There are 11 schedules providing—
   (a) a description of the cultural redress properties; and
   (b) a description of the Ukaipo sites; and
   (c) the Taki Poipoia o Ngati Ruanui and Ngati Ruanui values relating to Wai-Ariki; and
@@ -130,43 +151,43 @@ This Part records the acknowledgements and the apology given by the Crown to Nga
 
 ### 7 Acknowledgements by the Crown
 The text of the acknowledgements made by the Crown is set out in the deed of settlement as follows:
-(1) The Crown acknowledges that:
-  (a) the cumulative effect of the Crown's actions in purchasing land in Taranaki created tensions that led to the outbreak of war; and
-  (b) Ngati Ruanui suffered loss of life and destruction of property during the Taranaki wars; and
-  (c) the Taranaki wars constituted an injustice and were in breach of the Treaty of Waitangi and the principles of the Treaty of Waitangi; and
-  (d) it acted unfairly in labelling Ngati Ruanui as rebels.
-(2) The Crown sincerely regrets that Ngawaka Taurua and his people suffered a heavy punishment due to a decision of the Government of the day to make an example of them in order to deter other Maori from taking up arms against the Queen's authority. The Crown acknowledges that:
-  (a) this punishment deprived Pakakohi of Ngati Ruanui of a significant number of their leaders; and
-  (b) the exile of those leaders from their lands, and the death of 18 of the men imprisoned, had a severe impact on the well-being of Pakakohi of Ngati Ruanui.
-(3) The Crown acknowledges that:
-  (a) the confiscations were indiscriminate in extent and application and had a devastating effect on the welfare, economy and development of Ngati Ruanui in Taranaki; and
-  (b) the prejudice created by the confiscations was compounded by the inadequacies in the Compensation Court process; and
-  (c) as a result of the confiscations in 1865, Ngati Ruanui were deprived of access to their wahi tapu and sites of ancestral significance, traditional sources of food, and other resources on that land; and
-  (d) the confiscations were wrongful and in breach of the Treaty of Waitangi and the principles of the Treaty of Waitangi.
-(4) The Crown recognises that the lands and other resources confiscated from Ngati Ruanui have made a significant contribution to the wealth and development of New Zealand.
-(5) The Crown acknowledges that its conduct in acquiring Ngati Ruanui land outside the confiscation boundary was unreasonable and improper, and contributed to Ngati Ruanui being left with insufficient lands for their present and future needs. This was in breach of the Treaty of Waitangi and the principles of the Treaty of Waitangi.
-(6) The Crown acknowledges that its treatment of Ngati Ruanui and Taranaki Maori involved in the passive resistance campaign of 1879-1880:
-  (a) deprived them of basic human rights and inflicted unwarranted hardships on them through imprisonment and exile; and
-  (b) was in breach of the Treaty of Waitangi and the principles of the Treaty of Waitangi.
-(7) The Crown acknowledges:
-  (a) the serious damage it inflicted on the prosperous Maori village of Parihaka and the people of Ngati Ruanui residing there, its forcible dispersal of many of the inhabitants and its assault on the human rights of the people; and
-  (b) that these actions caused great distress and were a complete denial of the Maori right to develop and sustain autonomous communities in a peaceful manner; and
-  (c) that its treatment of the people of Ngati Ruanui residing at Parihaka was unconscionable and unjust and that these actions constituted a breach of the Treaty of Waitangi and the principles of the Treaty of Waitangi.
-(8) The Crown acknowledges that:
-  (a) the West Coast Commissions were inadequate in their scope and did not fully address the injustices perpetrated by the confiscations; and
-  (b) the reserves created by the Commissions in the 1880s were not sufficient for the present and future needs of Ngati Ruanui; and
-  (c) the Crown's actions with respect to the West Coast Settlement Reserves, considered cumulatively, (including the imposition of a regime of perpetually renewable leases and the sale of large quantities of land by the Public and Maori Trustee):
-    (i) have ultimately deprived Ngati Ruanui of the control and ownership of most of the lands set aside for them in Taranaki; and
-    (ii) were in breach of the Treaty of Waitangi and the principles of the Treaty of Waitangi.
-(9) The Crown acknowledges that:
-  (a) despite previous efforts made in the twentieth century, including those of the Sim Commission, it has failed to deal in an appropriate way with the grievances of Ngati Ruanui; and
-  (b) the sense of grief and loss suffered by Ngati Ruanui remains today.
-(10) The Crown:
-  (a) recognises the efforts and struggles of Ngati Ruanui in pursuit of their claims for redress and compensation against the Crown for over 130 years; and
-  (b) acknowledges the legitimacy of those efforts and struggles of Ngati Ruanui; and
-  (c) acknowledges that recognition by the Crown of the grievances of Ngati Ruanui is overdue.
+  (1) The Crown acknowledges that:
+    (a) the cumulative effect of the Crown’s actions in purchasing land in Taranaki created tensions that led to the outbreak of war; and
+    (b) Ngati Ruanui suffered loss of life and destruction of property during the Taranaki wars; and
+    (c) the Taranaki wars constituted an injustice and were in breach of the Treaty of Waitangi and the principles of the Treaty of Waitangi; and
+    (d) it acted unfairly in labelling Ngati Ruanui as rebels.
+  (2) The Crown sincerely regrets that Ngawaka Taurua and his people suffered a heavy punishment due to a decision of the Government of the day to make an example of them in order to deter other Maori from taking up arms against the Queen’s authority. The Crown acknowledges that:
+    (a) this punishment deprived Pakakohi of Ngati Ruanui of a significant number of their leaders; and
+    (b) the exile of those leaders from their lands, and the death of 18 of the men imprisoned, had a severe impact on the well-being of Pakakohi of Ngati Ruanui.
+  (3) The Crown acknowledges that:
+    (a) the confiscations were indiscriminate in extent and application and had a devastating effect on the welfare, economy and development of Ngati Ruanui in Taranaki; and
+    (b) the prejudice created by the confiscations was compounded by the inadequacies in the Compensation Court process; and
+    (c) as a result of the confiscations in 1865, Ngati Ruanui were deprived of access to their wahi tapu and sites of ancestral significance, traditional sources of food, and other resources on that land; and
+    (d) the confiscations were wrongful and in breach of the Treaty of Waitangi and the principles of the Treaty of Waitangi.
+  (4) The Crown recognises that the lands and other resources confiscated from Ngati Ruanui have made a significant contribution to the wealth and development of New Zealand.
+  (5) The Crown acknowledges that its conduct in acquiring Ngati Ruanui land outside the confiscation boundary was unreasonable and improper, and contributed to Ngati Ruanui being left with insufficient lands for their present and future needs. This was in breach of the Treaty of Waitangi and the principles of the Treaty of Waitangi.
+  (6) The Crown acknowledges that its treatment of Ngati Ruanui and Taranaki Maori involved in the passive resistance campaign of 1879–1880:
+    (a) deprived them of basic human rights and inflicted unwarranted hardships on them through imprisonment and exile; and
+    (b) was in breach of the Treaty of Waitangi and the principles of the Treaty of Waitangi.
+  (7) The Crown acknowledges:
+    (a) the serious damage it inflicted on the prosperous Maori village of Parihaka and the people of Ngati Ruanui residing there, its forcible dispersal of many of the inhabitants and its assault on the human rights of the people; and
+    (b) that these actions caused great distress and were a complete denial of the Maori right to develop and sustain autonomous communities in a peaceful manner; and
+    (c) that its treatment of the people of Ngati Ruanui residing at Parihaka was unconscionable and unjust and that these actions constituted a breach of the Treaty of Waitangi and the principles of the Treaty of Waitangi.
+  (8) The Crown acknowledges that:
+    (a) the West Coast Commissions were inadequate in their scope and did not fully address the injustices perpetrated by the confiscations; and
+    (b) the reserves created by the Commissions in the 1880s were not sufficient for the present and future needs of Ngati Ruanui; and
+    (c) the Crown’s actions with respect to the West Coast Settlement Reserves, considered cumulatively, (including the imposition of a regime of perpetually renewable leases and the sale of large quantities of land by the Public and Maori Trustee):
+      (i) have ultimately deprived Ngati Ruanui of the control and ownership of most of the lands set aside for them in Taranaki; and
+      (ii) were in breach of the Treaty of Waitangi and the principles of the Treaty of Waitangi.
+  (9) The Crown acknowledges that:
+    (a) despite previous efforts made in the twentieth century, including those of the Sim Commission, it has failed to deal in an appropriate way with the grievances of Ngati Ruanui; and
+    (b) the sense of grief and loss suffered by Ngati Ruanui remains today.
+  (10) The Crown:
+    (a) recognises the efforts and struggles of Ngati Ruanui in pursuit of their claims for redress and compensation against the Crown for over 130 years; and
+    (b) acknowledges the legitimacy of those efforts and struggles of Ngati Ruanui; and
+    (c) acknowledges that recognition by the Crown of the grievances of Ngati Ruanui is overdue.
 
-### 8 Text of acknowledgements in Maori/He Whakaaetanga na te Karauna
+### 8 Text of acknowledgements in Maori—He Whakaaetanga na te Karauna
 E rarangi iho nei te kaupapa o nga whakaaetanga a te Karauna kua oti nei te tuhi ki te whakaaetanga o nga whakataunga:
 (1) E whakaae ana te Karauna:
   (a) ko te hua i puta i nga mahi hokohoko whenua a te Karauna i Taranaki he wene, he mauahara, a, na konei i timata te pakanga; a
@@ -183,7 +204,7 @@ E rarangi iho nei te kaupapa o nga whakaaetanga a te Karauna kua oti nei te tuhi
   (d) i he nga murunga whenua, a, he mahi enei i takahi i te Tiriti o Waitangi me nga matapono o te Tiriti o Waitangi.
 (4) E whakaae ana te Karauna, tena ko nga whenua me nga rawa i murua i a Ngati Ruanui i tino whaiwahi ki te whairawatanga me te whanaketanga o Niu Tireni.
 (5) E whakaae ana te Karauna, he kutikuti, he he hoki tana kaitaonga i nga whenua o Ngati Ruanui i waho atu i te rohe o nga murunga whenua. Koinei ano he take e iti rawa nei nga whenua o Ngati Ruanui e tutuki ai o ratou hiahia o te wa, o muri ake nei hoki. He takahanga tenei i te Tiriti o Waitangi me nga matapono o te Tiriti o Waitangi.
-(6) E whakaae ana te Karauna, ko tana karawhiu i a Ngati Ruanui me nga Maori o Taranaki i whaiwahi ki te kaupapa atete ririkore i nga tau 1879-1880:
+(6) E whakaae ana te Karauna, ko tana karawhiu i a Ngati Ruanui me nga Maori o Taranaki i whaiwahi ki te kaupapa atete ririkore i nga tau 1879–1880:
   (a) he mahi i hone ai i to ratou mana tangata, he mahi i whakawhiu i te taimahatanga take kore ki runga i a ratou ma te whakaherehere me te pana i a ratou ki whenua ke; a
   (b) he mahi enei i takahi i te Tiriti o Waitangi me nga matapono o te Tiriti o Waitangi.
 (7) E whakaae ana te Karauna:
@@ -192,12 +213,12 @@ E rarangi iho nei te kaupapa o nga whakaaetanga a te Karauna kua oti nei te tuhi
   (c) ko tana karawhiu i nga tangata o Ngati Ruanui i noho ai ki Parihaka, he he, he anuanu hoki. He takahanga enei mahi i te Tiriti o Waitangi me nga matapono o te Tiriti o Waitangi.
 (8) E whakaae ana te Karauna:
   (a) he takarepa te whanuitanga o nga Komihana Taihauauru, a, kahore i aro ki te katoa o nga tukinotanga i puta ake i nga murunga whenua; a
-  (b) kahore i rite te nui o nga rahui i whakataua e nga Komihana o nga tau 1880-1890 e tutuki ai nga hiahia o Ngati Ruanui o te wa, o muri ake nei hoki; a
+  (b) kahore i rite te nui o nga rahui i whakataua e nga Komihana o nga tau 1880–1890 e tutuki ai nga hiahia o Ngati Ruanui o te wa, o muri ake nei hoki; a
   (c) ko nga mahi a te Karauna e pa ana ki nga Rahui a Te Whakataunga o te Taihauauru, ina ka whakaarohia kotahitia (tae atu ki te whakatakotoranga mai o tetahi tikanga rihi mutunga kore me te hokohokonga o te maha o nga whenua e te Kaitiaki o te Katoa me te Kaitiaki Maori);
     (i) i tango i a Ngati Ruanui te mana me te rangatiratanga o te nuinga o nga whenua i rahuitia mo ratou i Taranaki; a
     (ii) i takahi i te Tiriti o Waitangi me nga matapono o te Tiriti o Waitangi.
 (9) E whakaae ana te Karauna:
-  (a) ahakoa ano nga whakamatau o mua i te rau tau 1900-2000, tae atu ki te Komihana a Te Himi, kahore i oti te whakatau totika i nga take a Ngati Ruanui; a
+  (a) ahakoa ano nga whakamatau o mua i te rau tau 1900–2000, tae atu ki te Komihana a Te Himi, kahore i oti te whakatau totika i nga take a Ngati Ruanui; a
   (b) e mau tonu nei i a Ngati Ruanui te mamae me te pouri mo enei ahuatanga.
 (10) Ko te Karauna ka:
   (a) whakamihi ki nga mahi me nga nonoke a Ngati Ruanui ki te whai i a ratou take ki te Karauna kia puretumuhia i roto i te 130 tau, neke atu; a
@@ -207,13 +228,8 @@ E rarangi iho nei te kaupapa o nga whakaaetanga a te Karauna kua oti nei te tuhi
 ### 9 Apology by the Crown
 The text of the apology made by the Crown to Ngati Ruanui (including Tangahoe and Pakakohi), to their ancestors, to their descendants, and to nga uri o nga hapu o Ngati Ruanui is set out in the deed of settlement as follows:The Crown profoundly regrets, and unreservedly apologises to Ngati Ruanui, for its actions which have resulted in the loss of life during the Taranaki wars and the virtual landlessness of Ngati Ruanui in Taranaki and have caused suffering and hardship to Ngati Ruanui over the generations to the present day.The Crown profoundly regrets, and unreservedly apologises for, the destructive and demoralising effects of its unconscionable actions on Ngati Ruanui which, over the generations to the present day, have undermined the basis of their society and autonomy and have had a devastating impact on their economy and development.The Crown profoundly regrets its failure to acknowledge the mana, manawhenua, and rangatiratanga of Ngati Ruanui.The Crown apologises to Ngati Ruanui for all the breaches of the Treaty of Waitangi and its principles acknowledged by the Crown in Part 7 of the deed of settlement.Accordingly, the Crown seeks to atone for these wrongs, and to begin the process of healing with the Settlement, and looks forward to building a relationship of mutual trust and co-operation with Ngati Ruanui.
 
-### 10 Text of apology in Maori/Ko Te Whakapaha a te Karauna
-E rarangi iho nei te whakapaha a te Karauna ki a Ngati Ruanui (apiti atu ko Tangahoe me Pakakohi), ki o ratou tupuna, ki o ratou uri, ki nga uri o nga hapu o Ngati Ruanui e takoto nei ki te whakaaetanga o nga whakataunga:
-E whakamomori ana, e whakapaha tuturu ana te Karauna mo ana mahi i nga pakanga ki Taranaki i hua ko te ngaro o te tangata ki te po, ko te whenua koretanga o Ngati Ruanui i Taranaki, ko te mamae me te whakawiringa i tau ki nga whakatipuranga o Ngati Ruanui, a, e mau tonu nei tae mai ki tenei ra.
-E whakamomori ana, e whakapaha tuturu ana te Karauna mo nga hua patu taonga, patu wairua hoki o ana mahi anuanu ki a Ngati Ruanui, me te mohio ano na enei mahi i tukituki te kaupapa me te mana motuhake o te iwi, i pakino hoki ki te taha ohaoha me te whanaketanga o te iwi i roto i nga whakatipuranga, a, tae mai nei ki tenei ra.
-E whakamomori ana te Karauna mo tana kore i aro ki te mana, ki te manawhenua, ki te rangatiratanga ano hoki o Ngati Ruanui.
-E whakapaha ana te Karauna ki a Ngati Ruanui mo ana mahi i takahi ai i te Tiriti o Waitangi me ana matapono e whakaaetia nei e te Karauna.
-Na runga i enei ahuatanga, e hiahia ana te Karauna ki te muru i ona hara, ki te timata i nga mahi whakaora ma te whakataunga. Na konei a te Karauna ka titiro whakamua ki te wa ka whiriwhiria he taura tangata ki a Ngati Ruanui i runga i te whakawhirinaki me te mahi ngatahi.
+### 10 Text of apology in Maori—Ko Te Whakapaha a te Karauna
+E rarangi iho nei te whakapaha a te Karauna ki a Ngati Ruanui (apiti atu ko Tangahoe me Pakakohi), ki o ratou tupuna, ki o ratou uri, ki nga uri o nga hapu o Ngati Ruanui e takoto nei ki te whakaaetanga o nga whakataunga:E whakamomori ana, e whakapaha tuturu ana te Karauna mo ana mahi i nga pakanga ki Taranaki i hua ko te ngaro o te tangata ki te po, ko te whenua koretanga o Ngati Ruanui i Taranaki, ko te mamae me te whakawiringa i tau ki nga whakatipuranga o Ngati Ruanui, a, e mau tonu nei tae mai ki tenei ra.E whakamomori ana, e whakapaha tuturu ana te Karauna mo nga hua patu taonga, patu wairua hoki o ana mahi anuanu ki a Ngati Ruanui, me te mohio ano na enei mahi i tukituki te kaupapa me te mana motuhake o te iwi, i pakino hoki ki te taha ohaoha me te whanaketanga o te iwi i roto i nga whakatipuranga, a, tae mai nei ki tenei ra.E whakamomori ana te Karauna mo tana kore i aro ki te mana, ki te manawhenua, ki te rangatiratanga ano hoki o Ngati Ruanui.E whakapaha ana te Karauna ki a Ngati Ruanui mo ana mahi i takahi ai i te Tiriti o Waitangi me ana matapono e whakaaetia nei e te Karauna.Na runga i enei ahuatanga, e hiahia ana te Karauna ki te muru i ona hara, ki te timata i nga mahi whakaora ma te whakataunga. Na konei a te Karauna ka titiro whakamua ki te wa ka whiriwhiria he taura tangata ki a Ngati Ruanui i runga i te whakawhirinaki me te mahi ngatahi.
 
 ## Part 2 — Interpretation
 
@@ -222,11 +238,9 @@ It is the intention of Parliament that the provisions of this Act are interprete
 
 ### 12 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **antiquities protocol**
-  - **antiquities protocol area**
   - **archaeological site** has the meaning given to it in section 2 of the Historic Places Act 1993
   - **business day** means the period of 9 am to 5 pm on any day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's Birthday, Labour Day, and Waitangi Day; and
+    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Labour Day, and Waitangi Day; and
     (b) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year; and
     (c) the days observed as the anniversaries of the provinces of Wellington and Taranaki
   - **chief executive** means the chief executive of Land Information New Zealand
@@ -249,7 +263,7 @@ In this Act, unless the context otherwise requires,—
   - **Director-General** has the meaning given to it in section 2(1) of the Conservation Act 1987
   - **DOC protocol** means a protocol issued under section 26 by the Minister of Conservation that—
     (a) sets out how the Department of Conservation will, on a continuing basis, interact with the governance entity in relation to the matters specified in that protocol; and
-    (b) provides for Ngati Ruanui's input into certain Department of Conservation processes in relation to the matters specified in the DOC protocol; and
+    (b) provides for Ngati Ruanui’s input into certain Department of Conservation processes in relation to the matters specified in the DOC protocol; and
     (c) includes provisions in relation to the management by the Department of Conservation of the indigenous species; and
     (d) is in the form set out in Part 1 of the Cultural Redress Schedule, or as the protocol is amended under section 26
   - **DOC protocol area** means the area shown on the map attached to the DOC protocol
@@ -289,13 +303,13 @@ In this Act, unless the context otherwise requires,—
   - **protocol** means a protocol entered into in accordance with the provisions of subpart 1 of Part 5
   - **Registrar-General** means the Registrar-General of Land appointed in accordance with section 4 of the Land Transfer Act 1952
   - **resource consent** has the meaning given to it in section 87 of the Resource Management Act 1991
-  - **responsible Minister** , in subpart 1 of Part 5, means 1 of the following Ministers
+  - **responsible Minister** , in subpart 1 of Part 5, means one of the following Ministers:
     (a) the Minister of Conservation:
     (b) the Minister of Fisheries:
     (c) the Minister of Energy:
     (d) the Minister for Arts, Culture and Heritage:
     (e) any other Minister of the Crown who is authorised by the Prime Minister to exercise powers and perform functions and duties under subpart 1 of Part 5
-  - **responsible Ministry** , in subpart 1 of Part 5, means 1 of the following departments of State
+  - **responsible Ministry** , in subpart 1 of Part 5, means one of the following departments of State:
     (a) the Department of Conservation:
     (b) the Ministry of Fisheries:
     (c) the Ministry of Economic Development:
@@ -318,18 +332,17 @@ In this Act, unless the context otherwise requires,—
     (c) does not include an artificial water course such as an irrigation canal, water supply race, canal for the supply of water for electricity power generation, and farm drainage canal.
 
 ### 13 Meaning of Ngati Ruanui
-(1)
-  - **Ngati Ruanui** In this Act, —
-    (a) means the iwi, or collective group, composed of individuals referred to in paragraph (b); and
-    (b) means every individual—
-      (i) who is descended from 1 or more Ngati Ruanui ancestors; or
-      (ii) who is a member of a hapu, group, family, or whanau referred to in paragraph (c); or
-      (iii) who is a taurima of Ngati Ruanui; and
-    (c) includes—
-      (i) the following hapu, namely, Araukuku, Ahitahi, Hamua, Hapotiki, Kotuku, Nga Ariki, Ngati Hawe, Ngati Hine, Ngati Ringi, Ngati Takou, Ngati Tanewai, Ngati Tupaea, Ngati Tupito, Rangitawhi, Tutahi, and Tuwhakaehu; and
-      (ii) Tangahoe; and
-      (iii) Pakakohi; and
-      (iv) a family, whanau, or group of individuals composed of individuals referred to in paragraph (b).
+(1) In this Act, Ngati Ruanui—
+  (a) means the iwi, or collective group, composed of individuals referred to in paragraph (b); and
+  (b) means every individual—
+    (i) who is descended from 1 or more Ngati Ruanui ancestors; or
+    (ii) who is a member of a hapu, group, family, or whanau referred to in paragraph (c); or
+    (iii) who is a taurima of Ngati Ruanui; and
+  (c) includes—
+    (i) the following hapu, namely, Araukuku, Ahitahi, Hamua, Hapotiki, Kotuku, Nga Ariki, Ngati Hawe, Ngati Hine, Ngati Ringi, Ngati Takou, Ngati Tanewai, Ngati Tupaea, Ngati Tupito, Rangitawhi, Tutahi, and Tuwhakaehu; and
+    (ii) Tangahoe; and
+    (iii) Pakakohi; and
+    (iv) a family, whanau, or group of individuals composed of individuals referred to in paragraph (b).
 (2) In this section,—
   - **customary rights** means rights according to Maori customary law, including—
     (a) rights to occupy land; and
@@ -371,20 +384,21 @@ In this Act, unless the context otherwise requires,—
     (vi) Wai 552 (Ahitahi and Araukuku Lands, Forest and Fisheries); and
     (vii) Wai 859 (Waimate Plain Block).
 (2) Subsection (1)(a) is not limited by subsection (1)(b) or subsection (1)(c).
-(3) In this Act , Ngati Ruanui historical claims does not include—
+(3) In this Act, Ngati Ruanui historical claims does not include—
   (a) a claim that an individual referred to in section 13(1)(b) may have as a result of being descended from an ancestor who is not a Ngati Ruanui ancestor; or
   (b) a claim that a hapu, group, family, or whanau referred to in section 13(1)(c) may have as a result of being descended from an ancestor who is not a Ngati Ruanui ancestor; or
   (c) a claim that Ngati Ruanui may have as a result of loss of interest in land, or natural or physical resources, in the land area outside Taranaki; or
   (d) a claim that a representative entity may have, to the extent that the claim is, or is based on, a claim referred to in paragraph (a), paragraph (b), or paragraph (c).
-(4) In this section,—representative entity means—
-  - **land area outside Taranaki** means land in New Zealand that is outside the area of land encompassed within the outermost extent of the claimants' boundaries as set out in figure 4 of the interim report by the Waitangi Tribunal entitled The Taranaki Report: Kaupapa Tuatahi (1996)
+(4) In this section,—
+  - **land area outside Taranaki** means land in New Zealand that is outside the area of land encompassed within the outermost extent of the claimants’ boundaries as set out in figure 4 of the interim report by the Waitangi Tribunal entitled The Taranaki Report: Kaupapa Tuatahi (1996)
   - **land in New Zealand** means land within the baseline described in sections 5, 6, and 6A of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977 (being the low-water mark along the coast of New Zealand, including all islands, except as otherwise provided in section 6 or section 6A of that Act)
-  (a) the governance entity; and
-  (b) a person appointed as an agent for Ngati Ruanui under clause 3.4 of the deed of settlement; and
-  (c) a person (including a trust or trustees) acting for, or on behalf of,—
-    (i) the iwi or collective group referred to in section 13(1)(a):
-    (ii) 1 or more of the individuals referred to in section 13(1)(b):
-    (iii) 1 or more of the hapu, groups, families, or whanau referred to in section 13(1)(c).
+  - **representative entity** means—
+    (a) the governance entity; and
+    (b) a person appointed as an agent for Ngati Ruanui under clause 3.4 of the deed of settlement; and
+    (c) a person (including a trust or trustees) acting for, or on behalf of,—
+      (i) the iwi or collective group referred to in section 13(1)(a):
+      (ii) 1 or more of the individuals referred to in section 13(1)(b):
+      (iii) 1 or more of the hapu, groups, families, or whanau referred to in section 13(1)(c).
 
 ## Part 3 — Settlement of historical claims and miscellaneous matters
 
@@ -405,13 +419,7 @@ In this Act, unless the context otherwise requires,—
 **Treaty of Waitangi Act 1975 amended**
 
 ### 16 Jurisdiction of Tribunal to consider claims
-Section 6 of the Treaty of Waitangi Act 1975 is amended by adding, after subsection (18), the following subsections:
-  (19) Despite anything in this Act or in any other enactment or rule of law, on and from the settlement date (as defined in section 12 of the Ngati Ruanui Claims Settlement Act 2003), the Tribunal does not have jurisdiction (including, without limitation, the jurisdiction to inquire or further inquire into, or to make a finding or recommendation) in respect of—
-    (a) any or all of the Ngati Ruanui historical claims, as defined in section 14 of the Ngati Ruanui Claims Settlement Act 2003; or
-    (b) the deed of settlement, as defined in section 12 of the Ngati Ruanui Claims Settlement Act 2003; or
-    (c) the redress provided under the deed of settlement or under the Ngati Ruanui Claims Settlement Act 2003; or
-    (d) the Ngati Ruanui Claims Settlement Act 2003.
-  (20) Subsection (19) does not exclude the jurisdiction of the Tribunal in respect of the interpretation or implementation of the deed of settlement or the Ngati Ruanui Claims Settlement Act 2003.
+[Repealed]
 
 **Resumptive memorials no longer apply**
 
@@ -442,7 +450,7 @@ Section 6 of the Treaty of Waitangi Act 1975 is amended by adding, after subsect
   (a) prescribe or restrict the period during which the governance entity—
     (i) may exist in law; or
     (ii) may deal with property (including income from property); or
-  (b) apply to a document entered into to give effect to the deed of settlement (including the deeds that grant a right of first refusal referred to in clauses 8.7 and 9.7 of the deed of settlement) if the application of that rule or the provisions of that Act would otherwise make the document or a right conferred by the document, invalid or ineffective.,
+  (b) apply to a document entered into to give effect to the deed of settlement (including the deeds that grant a right of first refusal referred to in clauses 8.7 and 9.7 of the deed of settlement) if the application of that rule or the provisions of that Act would otherwise make the document, or a right conferred by the document, invalid or ineffective.
 (2) Subsection (1)(a) does not apply if the governance entity is, or becomes, a charitable trust.
 
 **Date when actions or matters required under Act occur**
@@ -505,7 +513,7 @@ The permission of a council under section 348 of the Local Government Act 1974 i
   (b) the Minister who issued the protocol.
 (3) The Minister who issued the protocol may amend or cancel that protocol only after consulting with, and having particular regard to the views of, the governance entity.
 
-### 27 Protocols subject to the Crown's obligations
+### 27 Protocols subject to the Crown’s obligations
 Protocols do not restrict—
   (a) the ability of the Crown to perform its functions and duties and exercise its powers in accordance with the law and government policy, which includes (without limitation) the ability to—
     (i) introduce legislation and change government policy; and
@@ -527,7 +535,7 @@ Protocols do not restrict—
   (b) the statutes listed in Schedule 1 of that Act.
 (2) The fisheries protocol does not have the effect of granting, creating, or providing evidence of, an estate or interest in, or rights relating to, assets or other property rights held, managed, or administered under fisheries legislation (including fish, aquatic life, and seaweed).
 (3) The MED protocol does not have the effect of granting, creating, or providing evidence of, an estate or interest in, or rights relating to, Crown owned minerals held, managed, or administered under the Crown Minerals Act 1991 or other relevant legislation.
-(4) The protected New Zealand objects protocol does not have the effect of granting, creating, or providing evidence of, an estate or interest in, or rights relating to, protected New Zealand objects or nga taonga tuturu held, managed, or administered under the Protected Objects Act 1975.
+(4) The protected New Zealand objects protocol does not have the effect of granting, creating, or providing evidence of, an estate or interest in, or rights relating to, protected New Zealand objects or ngā taonga tūturu held, managed, or administered under the Protected Objects Act 1975.
 (5) In this section,—
   - **protected New Zealand object** and have the meaning given to them in section 2 of the Protected Objects Act 1975.
 
@@ -692,11 +700,11 @@ An Ukaipo entitlement is granted to the governance entity for the purpose of per
 ### 54 Activities on Ukaipo sites
 (1) This section applies subject to section 52.
 (2) The governance entity may, with the consent of the land holding agent, undertake other activities on Ukaipo sites that are reasonably necessary for the Ukaipo entitlement to be used for the purpose set out in section 49.
-(3) When applying for the land holding agent's consent, the governance entity must provide to the land holding agent details relating to the proposed activities, including (but not limited to)—
+(3) When applying for the land holding agent’s consent, the governance entity must provide to the land holding agent details relating to the proposed activities, including (but not limited to)—
   (a) the effect of the activities—
     (i) on the Ukaipo sites; and
     (ii) if an Ukaipo site is held under the Conservation Act 1987 or an Act listed in Schedule 1 of that Act, on the surrounding land and wildlife; and
-  (b) measures that the governance entity proposes to take (if the land holding agent's consent is given) to avoid, remedy, or mitigate adverse effects.
+  (b) measures that the governance entity proposes to take (if the land holding agent’s consent is given) to avoid, remedy, or mitigate adverse effects.
 (4) In considering whether to give consent in relation to land held under the Conservation Act 1987 or an Act listed in Schedule 1 of that Act, the land holding agent may require the governance entity to obtain, at the expense of the governance entity, an environmental impact report about the proposed activities and an audit of that report.
 (5) The giving of consent is at the complete discretion of the land holding agent.
 (6) The land holding agent may give consent subject to any conditions that he or she thinks fit to impose.
@@ -711,18 +719,18 @@ The grant and exercise of an Ukaipo entitlement must not impede access by member
 ### 56 Crown functions to continue
 The grant and exercise of an Ukaipo entitlement does not prevent agents of the Crown or persons exercising statutory powers from undertaking their functions in relation to the land over which an Ukaipo entitlement is granted.
 
-### 57 Ukaipo entitlement does not restrict the Crown's right to alienate land
-The grant and exercise of an Ukaipo entitlement does not restrict the Crown's right to alienate an Ukaipo site, land adjacent to an Ukaipo site, or land adjacent to a waterway.
+### 57 Ukaipo entitlement does not restrict the Crown’s right to alienate land
+The grant and exercise of an Ukaipo entitlement does not restrict the Crown’s right to alienate an Ukaipo site, land adjacent to an Ukaipo site, or land adjacent to a waterway.
 
 ### 58 Governance entity may enforce rights against other persons
 While members of Ngati Ruanui are occupying an Ukaipo site under an Ukaipo entitlement, the governance entity may enforce its rights under the Ukaipo entitlement against persons who are not parties to the deed of settlement as if the governance entity were the owner of the Ukaipo site.
 
-### 59 Crown's obligation to provide lawful access
+### 59 Crown’s obligation to provide lawful access
 (1) If an event described in subsection (2) occurs during the term of an Ukaipo entitlement, the Crown must ensure that the governance entity continues, for the rest of the term, to have the same type of access to the Ukaipo site as it had before the event occurred.
 (2) The events are—
   (a) the alienation by the Crown of land adjacent to an Ukaipo site:
   (b) a change in the classification or status of land adjacent to an Ukaipo site.
-(3) The Crown's obligation in subsection (1) is subject to compliance with all applicable provisions in or under any other enactment.
+(3) The Crown’s obligation in subsection (1) is subject to compliance with all applicable provisions in or under any other enactment.
 
 ### 60 Compliance with laws, bylaws, and land and water management practices
 (1) The governance entity, members of Ngati Ruanui permitted to occupy an Ukaipo site under section 50, and activities carried out on that Ukaipo site by them are subject to the laws, regulations, bylaws, and land and water management practices that apply to that Ukaipo site.
@@ -804,11 +812,11 @@ The grant of an Ukaipo entitlement is not a subdivision for the purposes of sect
 ### 72 Declaration of Taki Poipoia o Ngati Ruanui
 The site described in Schedule 3 is a Taki Poipoia o Ngati Ruanui.
 
-### 73 Crown's acknowledgement of Ngati Ruanui values
+### 73 Crown’s acknowledgement of Ngati Ruanui values
 The Crown acknowledges the statement by Ngati Ruanui of Ngati Ruanui values, the text of which is set out in Schedule 3.
 
 ### 74 Purposes of Taki Poipoia o Ngati Ruanui
-(1) The only purposes of the declaration of a Taki Poipoia o Ngati Ruanui under section 72 and of the Crown's acknowledgement of Ngati Ruanui values in relation to the site are—
+(1) The only purposes of the declaration of a Taki Poipoia o Ngati Ruanui under section 72 and of the Crown’s acknowledgement of Ngati Ruanui values in relation to the site are—
   (a) to enable agreement on protection principles under section 75:
   (b) to give effect to the requirement that the New Zealand Conservation Authority and relevant conservation boards must have particular regard to Ngati Ruanui values and the protection principles, as provided in section 76:
   (c) to enable the taking of action under section 78 or section 81.
@@ -860,7 +868,7 @@ The Minister of Conservation may make bylaws for the following purposes:
   (c) to create offences for breaches of bylaws made under paragraph (b) and to provide for the imposition of fines not exceeding $1,000 for those offences.
 
 ### 82 Notification of actions in Gazette
-(1) The Minister of Conservation must notify in the Gazette —
+(1) The Minister of Conservation must notify in the Gazette—
   (a) the declaration of the Taki Poipoia o Ngati Ruanui; and
   (b) the protection principles.
 (2) The Director-General may, at his or her discretion, notify in the Gazette any action taken or intended to be taken under any of sections 78 to 80.
@@ -886,7 +894,7 @@ The purpose or classification of an area as a national park, reserve, or conserv
 ### 85 Exercise of powers, functions, and duties
 (1) Except as expressly provided in this subpart,—
   (a) the declaration under section 72 and the acknowledgement under section 73 do not affect, and may not be taken into account by, a person exercising a power or performing a function or duty under a statute, regulation, or bylaw:
-  (b) No person, in considering a matter or making a decision or recommendation under a statute, regulation, or bylaw, may give greater or lesser weight to Ngati Ruanui values than that person would give under the relevant statute, regulation, or bylaw if the site had not been declared a Taki Poipoia o Ngati Ruanui and Ngati Ruanui values had not been acknowledged.
+  (b) no person, in considering a matter or making a decision or recommendation under a statute, regulation, or bylaw, may give greater or lesser weight to Ngati Ruanui values than that person would give under the relevant statute, regulation, or bylaw if the site had not been declared a Taki Poipoia o Ngati Ruanui and Ngati Ruanui values had not been acknowledged.
 (2) Subsection (1)(b) does not limit subsection (1)(a).
 
 ### 86 Rights not affected
@@ -982,9 +990,11 @@ A deed of recognition terminates in respect of a statutory area if—
   (c) there is a change in the Minister or the department of State responsible for the management of the area concerned.
 
 ### 100 Crown management
-The entry into a deed of recognition does not, in relation to a statutory area to which the deed of recognition applies,—Application of statutory acknowledgements and deeds of recognition to rivers
+The entry into a deed of recognition does not, in relation to a statutory area to which the deed of recognition applies,—
   (a) require the Crown to increase or resume management or administrative functions; or
   (b) preclude the Crown from undertaking only limited management or administrative functions.
+
+**Application of statutory acknowledgements and deeds of recognition to rivers**
 
 ### 101 Statutory acknowledgements in relation to rivers
 If a statutory acknowledgement relates to a river, the river does not include—
@@ -1008,7 +1018,7 @@ Neither the provision of a statutory acknowledgement nor the entry into a deed o
 ### 104 Exercise of powers, functions, and duties not affected
 (1) Except as expressly provided in sections 89 to 92, 95, 97, and 98,—
   (a) neither a statutory acknowledgement nor a deed of recognition affects, or may be taken into account by, a person exercising a power or performing a function or duty under a statute, regulation, or bylaw:
-  (b) No person, in considering a matter or making a decision or recommendation under a statute, regulation, or bylaw, may give greater or lesser weight to the association of Ngati Ruanui with a statutory area (as described in the relevant statutory acknowledgement) than that person would give under the relevant statute, regulation, or bylaw if no statutory acknowledgement or deed of recognition existed in respect of the statutory area.
+  (b) no person, in considering a matter or making a decision or recommendation under a statute, regulation, or bylaw, may give greater or lesser weight to the association of Ngati Ruanui with a statutory area (as described in the relevant statutory acknowledgement) than that person would give under the relevant statute, regulation, or bylaw if no statutory acknowledgement or deed of recognition existed in respect of the statutory area.
 (2) Subsection (1)(b) does not limit subsection (1)(a).
 
 ### 105 Rights not affected
@@ -1020,13 +1030,13 @@ Except as expressly provided in this subpart, neither a statutory acknowledgemen
 **Amendment to Resource Management Act 1991**
 
 ### 107 Amendment to Resource Management Act 1991
-Schedule 11 of the Resource Management Act 1991 is amended by inserting, in its correct alphabetical order, the following item:Ngati Ruanui Claims Settlement Act 2003.
+Amendment(s) incorporated in the Act(s).
 
 ### Subpart 6 — Place names
 
 ### 108 Change of place names
-(1) The existing place name in column 1 of Part 1 of Schedule 10 is altered to the corresponding name in column 2 of that part of the Schedule.
-(2) Each place name in column 1 of Part 2 of Schedule 10 is assigned to the corresponding location set out in column 2 of that part of the Schedule.
+(1) The existing place name in column 1 of Part 1 of Schedule 10 is altered to the corresponding name in column 2 of that part of the schedule.
+(2) Each place name in column 1 of Part 2 of Schedule 10 is assigned to the corresponding location set out in column 2 of that part of the schedule.
 (3) The changes made under subsections (1) and (2) are to be treated as made—
   (a) with the approval of the New Zealand Geographic Board; and
   (b) in accordance with the New Zealand Geographic Board Act 1946.
@@ -1062,7 +1072,7 @@ The only purpose of the acknowledgement given in relation to the indigenous spec
 ### 113 Exercise of powers, functions, and duties
 (1) Except as expressly provided in this subpart,—
   (a) the acknowledgements given under sections 109, 111, and 112 do not affect, and must not be taken into account by, a person exercising a power or performing a function or duty under a statute, regulation, or bylaw:
-  (b) No person, in considering a matter or making a decision under a statute, regulation, or bylaw, may give greater or lesser weight to the association of Ngati Ruanui with Nga Taonga a Tane raua ko Tangaroa, purangi, or the interest of Ngati Ruanui in the paua fishery, as acknowledged in sections 109, 111, and 112, than the person would give under the statute, regulation, or bylaw if no acknowledgement of that association existed.
+  (b) no person, in considering a matter or making a decision under a statute, regulation, or bylaw, may give greater or lesser weight to the association of Ngati Ruanui with Nga Taonga a Tane raua ko Tangaroa, purangi, or the interest of Ngati Ruanui in the paua fishery, as acknowledged in sections 109, 111, and 112, than the person would give under the statute, regulation, or bylaw if no acknowledgement of that association existed.
 (2) Subsection (1)(b) does not limit subsection (1)(a).
 
 ### 114 Rights not affected
@@ -1128,48 +1138,40 @@ Except as expressly provided in this subpart,—
 
 ## Schedule 1 — Cultural redress properties
 
-| Name of site | Description | Encumbrances |
-| --- | --- | --- |
-| Turuturu Mokai | Taranaki Land District- | Subject to an easement over Section 329 to provide access to that section for the South section for the South Taranaki District Council and the public, and protection of a memorial cairn on that section. As referred to in clause 9.2.4 of the deed of settlement. |
-| Site | South Taranaki District |  |
-|  | Derived from Crown |  |
-|  | 9874 square metres, more or less, being Sections 719 and 720, Patea District, All Gazette Notice 147331. |  |
-|  | 1.2242 hectares, more or less, being Section 329 Patea District. All Computer Freehold Register TN 136/107 |  |
-|  | 5.8098 hectares, more or less, being Lot 1 DP 2257. All Computer Freehold Register TN 264/10. |  |
-|  | Derived from South Taranaki District Council |  |
-|  | 3.7795 hectares, more or less, being Part Section 177 Patea District. All Computer Freehold Register TN B1/614. |  |
-| Pukemoko Pa | Taranaki Land District- |  |
-| Site | South Taranaki District |  |
-|  | 2.1175 hectares, more or less, being Sections 1 and 2 SO 307659. Part Proclamation 200A. |  |
-| Whakaahurangi | Taranaki Land District, | Subject to the rights to construct and maintain a tunnel and use that tunnel as a water race for the free passage and running of water. Created by Transfer 9284. |
-| Marae Site | Stratford District |  |
-|  | 9337 square metres, more or less, being Section 1 SO 13312, Sections 146 and 149 Block II Ngaere Survey District, and Lots 1 and 2 LT 307658. Part Computer Freehold Register TN 94/239 |  |
-|  |  | Subject to an unregistered lease to Whakaahurangi Marae (Incorporated) over Section 146 expiring on 31 March 2005. |
-|  |  | Subject to an unregistered lease to Whakaahurangi Marae (Incorporated) over Section 149 expiring on 31 March 2005. |
-| Kaikura Site | Taranaki Land District- |  |
-|  | South Taranaki District |  |
-|  | 2.5000 hectares more or less, being Section 1 SO 307661. Part Gazette 1864 page 461. |  |
-| Maben Site | Taranaki Land District- | Subject to an easement for water storage and release in favour of Taranaki Generation Limited. As referred to in clause 9.2.10(d) of the deed of settlement. |
-|  | South Taranaki District |  |
-|  | 4.7551 hectares, more or less, being Section 8 Block II Opaku Survey District. Part Gazette 1877 pages 733. |  |
-| Tarere Site | Taranaki Land District- |  |
-|  | South Taranaki District |  |
-|  | 1.0050 hectares, more or less, being Section 1 SO 307660. Part Gazette 1956 page 301. |  |
+| Name of site |  | Description | Encumbrances |
+| --- | --- | --- | --- |
+| Turuturu Mokai Site |  | Taranaki Land District-South Taranaki District | Subject to an easement over Section 329 to provide access to that section for the South Taranaki District Council and the public, and protection of a memorial cairn on that section. As referred to in clause 9.2.4 of the deed of settlement. |
+|  | Derived from Crown |  |  |
+|  |  | 9874 square metres, more or less, being Sections 719 and 720, Patea District, All Gazette Notice 147331. |  |
+|  |  | 1.2242 hectares, more or less, being Section 329 Patea District. All Computer Freehold Register TN 136/107. |  |
+|  |  | 5.8098 hectares, more or less, being Lot 1 DP 2257. All Computer Freehold Register TN 264/10. |  |
+|  |  | Derived from South Taranaki District Council |  |
+|  |  | 3.7795 hectares, more or less, being Part Section 177 Patea District. All Computer Freehold Register TN B1/614. |  |
+| Pukemoko Pa Site |  | Taranaki Land District-South Taranaki District |  |
+|  | 2.1175 hectares, more or less, being Sections 1 and 2 SO 307659. Part Proclamation 200A. |  |  |
+| Whakaahurangi Marae Site |  | Taranaki Land District, Stratford District | Subject to the rights to construct and maintain a tunnel and use that tunnel as a water race for the free passage and running of water. Created by Transfer 9284.Subject to an unregistered lease to Whakaahurangi Marae (Incorporated) over Section 146 expiring on 31 March 2005.Subject to an unregistered lease to Whakaahurangi Marae (Incorporated) over Section 149 expiring on 31 March 2005. |
+|  | 9337 square metres, more or less, being Section 1 SO 13312, Sections 146 and 149 Block II Ngaere Survey District, and Lots 1 and 2 LT 307658. Part Computer Freehold Register TN 94/239 |  |  |
+| Kaikura Site |  | Taranaki Land District-South Taranaki District |  |
+|  | 2.5000 hectares, more or less, being Section 1 SO 307661. Part Gazette 1864 page 461. |  |  |
+| Maben Site |  | Taranaki Land District-South Taranaki District | Subject to an easement for water storage and release in favour of Taranaki Generation Limited. As referred to in clause 9.2.10(d) of the deed of settlement. |
+|  | 4.7551 hectares, more or less, being Section 8 Block II Opaku Survey District. Part Gazette 1877 page 733. |  |  |
+| Tarere Site |  | Taranaki Land District-South Taranaki District |  |
+|  | 1.0050 hectares, more or less, being Section 1 SO 307660. Part Gazette 1956 page 301. |  |  |
 
-| Name of site | Description | Encumbrances |
-| --- | --- | --- |
-| Makino scenic reserve | Taranaki Land District- South Taranaki District | Scenic reserve subject to the Reserves Act 1977. |
-|  | 1.9600 hectares, more or less, being Section 10 Block IV Hawera Survey District. Balance Gazette Notice 305526.1. |  |
-|  | 5.6680 hectares, more or less, being Lot 1 DP 14035. All Transfer 306150.3. |  |
+| Name of site |  | Description | Encumbrances |
+| --- | --- | --- | --- |
+| Makino scenic reserve |  | Taranaki Land District-South Taranaki District | Scenic reserve subject to the Reserves Act 1977. |
+|  | 1.9600 hectares, more or less, being Section 10 Block IV Hawera Survey District. Balance Gazette Notice 305526.1. |  |  |
+|  |  | 5.6680 hectares, more or less, being Lot 1 DP 14035. All Transfer 306150.3. |  |
 
 ## Schedule 2 — Ukaipo sites
 
-| Name of site | Description |
-| --- | --- |
-| Tarere Ukaipo | Taranaki Land District-South Taranaki District |
-| site 1 | 1 hectare as shown marked A on SO 307662. |
-| Tarere Ukaipo | Taranaki Land District-South Taranaki District |
-| site 2 | 1 hectare as shown marked B on SO 307662. |
+| Name of site |  | Description |
+| --- | --- | --- |
+| Tarere Ukaipo site 1 |  | Taranaki Land District-South Taranaki District |
+|  | 1 hectare as shown marked A on SO 307662. |  |
+| Tarere Ukaipo site 2 |  | Taranaki Land District-South Taranaki District |
+|  | 1 hectare as shown marked B on SO 307662. |  |
 
 ## Schedule 3 — Taki Poipoia o Ngati Ruanui
 
@@ -1179,18 +1181,16 @@ Except as expressly provided in this subpart,—
 
 ## Schedule 4 — Statutory acknowledgements and deeds of recognition
 
-| Taranaki Land District |  |
-| --- | --- |
 | Area | Location |
-| Otoki Gorge Scenic Reserve | As shown on SO 14738 |
-| Te Moananui A Kupe O Ngati Ruanui (Coastal Area) | As shown on SO 14739 |
-| Tangahoe River | As shown on SO 14740 |
+| --- | --- |
+| Otoki Gorge Scenic Reserve | As shown on SO 14738. |
+| Te Moananui A Kupe O Ngati Ruanui (Coastal Area) | As shown on SO 14739. |
+| Tangahoe River | As shown on SO 14740. |
 | Whenuakura River | As shown on SO 14741. |
 | Patea River | As shown on SO 14742. |
 
-| Taranaki Land District |  |
-| --- | --- |
 | Area | Location |
+| --- | --- |
 | Otoki Gorge Scenic Reserve | As shown on SO 14738. |
 | Tangahoe River | As shown on SO 14740. |
 | Whenuakura River | As shown on SO 14741. |
@@ -1219,16 +1219,12 @@ Except as expressly provided in this subpart,—
 
 ## Schedule 10 — Place names
 
-| Part 1 |  |
-| --- | --- |
-| Name to be altered |  |
 | Existing name | New name |
+| --- | --- |
 | Mangimangi Stream | Mangemange Stream |
 
-| Part 2 |  |
-| --- | --- |
-| Name to be assigned |  |
 | Names to be assigned | Location NZMS 260 Q21 |
+| --- | --- |
 | Whitikau | Grid Reference 336 610 |
 | Maraeroa | Grid Reference 445 817 |
 | Te Ramanui | Grid Reference 188 790 |
