@@ -1,39 +1,45 @@
 # Te Uri o Hau Claims Settlement Act 2002
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-05-23_
 
 ## Preamble
-Land Claims CommissionTe Kopuru landPre-1865 purchasesOperations of Native land laws and purchases 1865-1900Desecration of urupa and other Wahi Tapu20th century land administrationSettlement of claim
 (1) The Treaty of Waitangi is set out, in Maori and English, in Schedule 1:
+Land Claims Commission
 (2) Te Uri o Hau participated in several transactions that were claimed to have been purchases made by individual Europeans in the Kaipara area in 1839 and 1840. Te Uri o Hau participants in these transactions sought to promote settlement and trade opportunities by entering into these transactions:
 (3) The Land Claims Commission was established to investigate land transactions that occurred in New Zealand prior to 14 January 1840, in order to determine whether they were equitable. Between 1841 and 1844, the Commission heard claims relating to land in which Te Uri o Hau had interests. The Land Claims Commission inquired into whether a transaction occurred or not, and generally validated those claims where Maori supported the transaction, but did not explore possible broader Maori expectations regarding the transactions:
 (4) Four of these claims were further considered by the Bell Commission in the 1850s. Two of those claims were not pursued by the settler claimants, but the Crown provided some compensation to the settlers for previous outlay and made further payments to Maori. In respect of the 2 claims that were pursued, the Commissioner made awards of land to the European claimants. Approximately 6 000 acres of the land under claim was retained by the Crown as surplus. Of this 6 000 acres, the Crown later purchased approximately 5 400 acres of the same area from Maori:
+Te Kopuru land
 (5) In 1842, the Protector of Aborigines prevailed on chiefs of Te Uri o Hau and Nga Puhi to cede an area of land as restitution for the plunder of the store of a local resident. Maori suspected that the store owner had desecrated an urupa and removed human remains. Representative chiefs selected an area of land at Te Kopuru for this purpose. The Crown made no payment for the land and retained the area as punishment for the plunder. Uncertainty surrounded the boundaries of the ceded block and the area does not appear to have been surveyed until 1857, when land to the south of Te Kopuru was purchased by the Crown. It is estimated that the block contained 6 000 to 8 000 acres:
+Pre-1865 purchases
 (6) The first Crown purchases involving Te Uri o Hau land occurred in 1854. By 1865, approximately 300 000 acres in the northern Kaipara area had been alienated:
 (7) These early Crown purchases were characterised by the following features:
   (a) inter-iwi rivalry between the groups of Nga Puhi/Te Parawhau and Te Uri o Hau/Ngati Whatua with regard to the ownership of blocks that the Crown sought to purchase:
   (b) approximately 60% of land in the northern Kaipara area in which Te Uri o Hau had interests was purchased before 1865:
   (c) a small number of areas, including Paraheke (which was reserved from the purchase of the Oruawharo Block), were reserved from purchases made in the Otamatea area in which Te Uri o Hau had interests. The 2 areas reserved from purchases on the Pouto peninsula were almost entirely alienated within a few years of their exclusion from the purchases:
-(8) The Crown's purchase in 1854 of the Mangawhai block was notable in that the Deed stated that ten per cent of the proceeds of the sale of this block of land by the Queen is to be expended for the benefit of the Natives. There was performance of this clause up to 1874. No further payments were made after this date:
+(8) The Crown’s purchase in 1854 of the Mangawhai block was notable in that the Deed stated that ten per cent of the proceeds of the sale of this block of land by the Queen is to be expended for the benefit of the Natives. There was performance of this clause up to 1874. No further payments were made after this date:
+Operations of Native land laws and purchases 1865–1900
 (9) The Native Land Court began title investigation in the Kaipara area from 1864 onwards. A number of mostly small blocks in which Te Uri o Hau had an interest were heard by the Court in the late 1860s and early 1870s in the Otamatea region. Little land was alienated during this time and revenue was generated through leasing the land:
 (10) By the late 1870s/early 1880s, use of the Court by Te Uri o Hau was restricted to blocks of land that they intended to sell. Te Uri o Hau subsequently introduced to the Court, and sold, large areas of land:
-(11) The complexity of the Native Land Laws was an issue in the sale of the Okahukura block. Te Uri o Hau non-seller Hemana Whiti agreed to the transfer of the block after reaching an agreement with the private purchaser. The witnessed and signed agreement documented that 100 acres was to be reconveyed to Hemana Whiti subsequent to the block's sale. The Court's inability to give legal recognition to this agreement due to a provision in the Native Land Act 1873, however, saw Hemana Whiti evicted from his land and his property destroyed. Successive governments did not intervene in this legal dispute:
+(11) The complexity of the Native Land Laws was an issue in the sale of the Okahukura block. Te Uri o Hau non-seller Hemana Whiti agreed to the transfer of the block after reaching an agreement with the private purchaser. The witnessed and signed agreement documented that 100 acres was to be reconveyed to Hemana Whiti subsequent to the block’s sale. The Court’s inability to give legal recognition to this agreement due to a provision in the Native Land Act 1873, however, saw Hemana Whiti evicted from his land and his property destroyed. Successive Governments did not intervene in this legal dispute:
 (12) Advance payments were made by the Crown to rangatira of Te Uri o Hau prior to title investigation by the Native Land Court, in an attempt to secure the purchase of blocks following the determination of title. Such payments occurred, for example, in Crown purchases of the Tikinui block and Pouto Point:
 (13) Reserves set aside in land purchases in which Te Uri o Hau had an interest often included Wahi Tapu sites and several reserves were made inalienable but were subsequently alienated. Additionally, some of the reserves were awarded exclusively to individual Maori, thus leaving the reserves subject to partition and succession. The consequence of this was fragmentation:
 (14) The Validation Court, which was established to hear claims from those seeking to validate incomplete dealings in Maori land, investigated the alleged purchase of 2 200 acres of Pouto land in 1893 and 1897. The operative land legislation enabled the Validation Court to rule in favour of a provisional and disputed purchase agreement between a settler and Te Uri o Hau, and allowed it to be validated despite strong objections from Te Uri o Hau:
-(15) Taonga were taken from Wahi Tapu in the Wairoa-Kaipara district and the Pouto peninsula without the permission of the tangata whenua, despite Maori concerns about the violation of Wahi Tapu:
+Desecration of urupa and other Wahi Tapu
+(15) Taonga were taken from Wahi Tapu in the Wairoa–Kaipara district and the Pouto peninsula without the permission of the tangata whenua, despite Maori concerns about the violation of Wahi Tapu:
 (16) Specific legislation to provide some protection for taonga did not exist until 1901. This legislation restricted the export of Maori antiquities:
+20th century land administration
 (17) The Taitokerau District Maori Land Board was created under the Maori Land Settlement Act 1905. Some Te Uri o Hau land was compulsorily vested in the Land Board, after 1905, for lease. Later legislation allowed some land to be sold by the Board without the permission of the owners. The mandate of the owners was required in other cases:
 (18) Due to the existing private and State lending criteria, attempts to obtain development finance by some Te Uri o Hau landowners were unsuccessful. State funding was provided after 1929 to assist in the economic development of the land in Kaipara:
 (19) The operative land administration legislation gave the Minister of Maori Affairs, followed by the Board of Maori Affairs, substantial powers, leaving the landowners with few, if any, legal powers over their own land:
-(20) In 1930, all land owned by Maori within the Kaipara area was brought under the provisions of Maori land development legislation. Maori could enter into land development schemes either through station development or smaller individual unit schemes. From the 1940s, Maori owners were progressively distanced from the schemes' administration, due to a number of political and economic changes:
+(20) In 1930, all land owned by Maori within the Kaipara area was brought under the provisions of Maori land development legislation. Maori could enter into land development schemes either through station development or smaller individual unit schemes. From the 1940s, Maori owners were progressively distanced from the schemes’ administration, due to a number of political and economic changes:
 (21) Administrative and economic difficulties, with little immediate prospect of land being released from State control, may have encouraged some landowners to sell their interests in scheme land to the Crown. The Crown actively promoted such sales with legislation to foster live buying of Maori land interests. These interests were retained by the Crown in many instances and later became available for repurchase by the remaining owners:
-(22) The long-term benefits of the schemes have been variable. Some of the schemes have had positive outcomes. However, some of the individual unit schemes, in particular, were of limited economic benefit and failed to fulfil the owners' expectations:
+(22) The long-term benefits of the schemes have been variable. Some of the schemes have had positive outcomes. However, some of the individual unit schemes, in particular, were of limited economic benefit and failed to fulfil the owners’ expectations:
+Settlement of claim
 (23) Through enactment of the Treaty of Waitangi Amendment Act 1985, the Crown made it possible for Maori to bring claims before the Waitangi Tribunal in respect of historic grievances arising after 6 February 1840:
 (24) Claims were registered on behalf of Te Uri o Hau with the Waitangi Tribunal that sought redress for Te Uri o Hau historical grievances, including WAI 229 and WAI 271 lodged by Russell Kemp in August 1991 and Ross Wright in November 1991 respectively:
 (25) Most of Te Uri o Hau claims were heard before the Waitangi Tribunal from June 1997 to July 1998 as part of the Kaipara Stage One Hearings. The Tribunal has not reported on the Kaipara hearings as it has yet to hear all of the claims in the Kaipara area:
 (26) On 14 June 1999 the Crown recognised the mandate of the mandated negotiators to represent Te Uri o Hau in negotiations with the Crown for a final and comprehensive settlement of the Te Uri o Hau historical claims:
 (27) The 2 parties then entered into negotiations that resulted in the mandated negotiators for Te Uri o Hau and the Crown entering into a Heads of Agreement dated 20 November 1999. The Heads of Agreement recorded in principle that Te Uri o Hau and the Crown were willing to settle Te Uri o Hau historical claims by entering into a deed of settlement:
-(28) The Crown and Te Uri o Hau executed a deed of settlement on 13 December 2000. The deed of settlement acknowledged that Te Uri o Hau suffered injustices that impaired the economic, social and cultural development of Te Uri o Hau and recorded the matters required to give effect to a settlement of all the historical claims of Te Uri o Hau:
+(28) The Crown and Te Uri o Hau executed a deed of settlement on 13 December 2000. The deed of settlement acknowledged that Te Uri o Hau suffered injustices that impaired the economic, social and cultural development of Te Uri o Hau and recorded the matters required to give effect to a settlement of all the historical claims of Te Uri o Hau.
 
 ### 1 Title
 This Act is Te Uri o Hau Claims Settlement Act 2002.
@@ -127,7 +133,7 @@ It is the intention of Parliament that the provisions of this Act are interprete
 ### 12 Interpretation of terms
 In this Act, unless the context otherwise requires,—
   - **business day** means the period of 9 am to 5 pm on any day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's Birthday, Labour Day, and Waitangi Day; and
+    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Labour Day, and Waitangi Day; and
     (b) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year; and
     (c) the days observed as the anniversaries of the provinces of Wellington and Northland
   - **chief executive** means the chief executive of Land Information New Zealand
@@ -158,7 +164,7 @@ In this Act, unless the context otherwise requires,—
   - **Te Uri o Hau governance entity** means Te Uri o Hau Settlement Trust established by deed of trust dated 3 May 2001 in accordance with clause 2.1 of the deed of settlement.
 
 ### 13 Meaning of Te Uri o Hau
-(1) In this Act, Te Uri o Hau means every individual who can trace descent from 1 or more ancestors who exercised customary rights —
+(1) In this Act, Te Uri o Hau means every individual who can trace descent from 1 or more ancestors who exercised customary rights—
   (a) arising from descent from 1 or more of the following:
     (i) Haumoewaarangi:
     (ii) the tribal groups of Te Uri o Hau, Ngai Tahuhu, Ngati Tahinga, Ngati Rangi, Ngati Mauku, Ngati Kauae, Ngati Kaiwhare, and Ngati Kura; and
@@ -231,13 +237,7 @@ In this Act, unless the context otherwise requires,—
 (4) Subsection (3) does not exclude the jurisdiction of a court, judicial body, or tribunal in respect of the interpretation or implementation of the deed of settlement or this Act.
 
 ### 18 Treaty of Waitangi Act 1975 amended
-Section 6 of the Treaty of Waitangi Act 1975 is amended by adding the following subsections:
-  (17) Despite anything in this Act or in any other Act or rule of law, on and from the settlement date (as defined in section 12 of the Te Uri o Hau Claims Settlement Act 2002), the Tribunal does not have jurisdiction to inquire or further inquire into, or to make any finding or recommendation in respect of,—
-    (a) any or all of Te Uri o Hau historical claims, as defined in section 15 of Te Uri o Hau Claims Settlement Act 2002; or
-    (b) the deed of settlement, as defined in section 12 of Te Uri o Hau Claims Settlement Act 2002; or
-    (c) the redress provided to Te Uri o Hau governance entity (as defined in section 12 of Te Uri o Hau Claims Settlement Act 2002) and others under the deed of settlement or Te Uri o Hau Claims Settlement Act 2002; or
-    (d) Te Uri o Hau Claims Settlement Act 2002.
-  (18) Subsection (17) does not exclude the jurisdiction of the Tribunal in respect of the interpretation or implementation of the deed of settlement or Te Uri o Hau Claims Settlement Act 2002.
+[Repealed]
 
 ### 19 Enactments relating to resumptive memorials on land subject to Te Uri o Hau historical claims no longer to apply
 (1) Nothing in the enactments listed in subsection (2) applies in relation to the land shown on SO Plan 70103 (being the same land as the land defined in clause 13.1 of the deed of settlement as the RFR Area).
@@ -316,7 +316,7 @@ The rule against perpetuities or any relevant provisions of the Perpetuities Act
 
 ### 30 Part Humuhumu lake bed
 (1) The fee simple estate in the part Humuhumu lake bed vests in Te Uri o Hau governance entity.
-(2) An effect of section 35(3) is that a marginal strip of land (20 metres wide extending along and abutting the landward margin of the part Humuhumu lake bed) is created under Part 4A of the Conservation Act 1987 on the vesting under sub- section (1).
+(2) An effect of section 35(3) is that a marginal strip of land (20 metres wide extending along and abutting the landward margin of the part Humuhumu lake bed) is created under Part 4A of the Conservation Act 1987 on the vesting under subsection (1).
 (3) The vesting under subsection (1)—
   (a) does not confer rights or impose obligations on Te Uri o Hau governance entity in respect of ownership, management, or control of the waters of Lake Humuhumu or aquatic life of Lake Humuhumu; and
   (b) does, however, impose obligations on Te Uri o Hau governance entity as owner of the fee simple estate in the part Humuhumu lake bed; and
@@ -341,8 +341,8 @@ The rule against perpetuities or any relevant provisions of the Perpetuities Act
 (4) Pou Tu o Te Rangi is declared a reserve and classified as a historic reserve under section 18 of the Reserves Act 1977.
 (5) Despite subsection (3), the Minister of Conservation must—
   (a) appoint a joint administering body for Pou Tu o Te Rangi comprising 3 persons nominated by Te Uri o Hau governance entity and 3 persons nominated by the Kaipara District Council; and
-  (b) appoint 1 of the 3 persons appointed by Te Uri o Hau governance entity as chairperson of the joint administering body and with a casting vote.
-(6) The joint administering body appointed under subsection (5) is to be named Pou Tu o Te Rangi joint management committee and is an administering body as defined in section 2(1) of the Reserves Act 1977.
+  (b) appoint one of the 3 persons appointed by Te Uri o Hau governance entity as chairperson of the joint administering body and with a casting vote.
+(6) The joint administering body appointed under subsection (5) is to be named Pou Tu o Te Rangi joint management committee and is an administering body as defined in section 2(1) of the Reserves Act 1977 .
 (7) In this section, Pou Tu o Te Rangi means the land described by that name in Schedule 2.
 
 **Provision facilitating vesting**
@@ -385,7 +385,7 @@ If an action is required to be undertaken by the Registrar-General under this Ac
 
 ## Part 5 — Cultural redress
 
-**Subpart 1---Kirihipi overlay areas**
+### Subpart 1 — Kirihipi overlay areas
 
 ### 39 Interpretation
 In this subpart,—
@@ -407,7 +407,7 @@ Each area described in Schedule 3 or Schedule 4 has Te Uri o Hau values and is a
   (c) enable the taking of action under section 47 or section 48.
 (2) This section does not limit sections 54 to 56.
 
-### 42 Crown's acknowledgement of Te Uri o Hau values
+### 42 Crown’s acknowledgement of Te Uri o Hau values
 The Crown acknowledges Te Uri o Hau values in relation to each Kirihipi overlay area.
 
 ### 43 Minister of Conservation may agree on principles in relation to Kirihipi overlay areas
@@ -438,7 +438,7 @@ The New Zealand Conservation Authority or relevant conservation board must consu
 
 ### 48 Amendments to strategies and plans
 (1) The Director-General may initiate an amendment of any relevant conservation management strategy, conservation management plan, or national park management plan to incorporate objectives relating to the specific principles agreed under section 43 (including a recommendation to make bylaws or promulgate regulations).
-(2) The Director-General must consult with all affected conservation boards before initiating an amendment under sub- section (1).
+(2) The Director-General must consult with all affected conservation boards before initiating an amendment under subsection (1).
 (3) An amendment initiated under subsection (1) is an amendment for the purposes of section 17I(1) to (3) of the Conservation Act 1987, or section 46(1) to (4) of the National Parks Act 1980, as the case may be.
 (4) This section does not limit section 47(2).
 
@@ -492,7 +492,7 @@ The purpose or classification of an area as a national park, conservation area, 
 (1) Nothing in section 40 or section 42 has the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind relating to, a Kirihipi overlay area.
 (2) This section applies subject to the other express provisions of this subpart.
 
-**Subpart 2---Statutory acknowledgements and deeds of recognition**
+### Subpart 2 — Statutory acknowledgements and deeds of recognition
 
 **Interpretation**
 
@@ -538,12 +538,12 @@ From the effective date, the Historic Places Trust and the Environment Court mus
   (a) all regional policy statements, regional coastal plans, other regional plans, district plans, and proposed plans (as defined in section 2 of the Resource Management Act 1991) that—
     (i) cover, wholly or partly, the statutory area; and
     (ii) are prepared under the Resource Management Act 1991; and
-  (b) all proposed policy statements of the kind referred to in the 1 Schedule of the Resource Management Act 1991 that—
+  (b) all proposed policy statements of the kind referred to in Schedule 1 of the Resource Management Act 1991 that—
     (i) cover, wholly or partly, the statutory area; and
     (ii) are prepared under the Resource Management Act 1991.
 (2) The attachment of information under subsection (1) to a document referred to in that subsection—
   (a) may be by way of reference to this Part or by setting out the statutory acknowledgement in full; and
-  (b) is for the purpose of public information only, and the information is neither part of the document (unless adopted by the relevant regional council or district council) nor subject to the provisions of the First Schedule of the Resource Management Act 1991.
+  (b) is for the purpose of public information only, and the information is neither part of the document (unless adopted by the relevant regional council or district council) nor subject to the provisions of Schedule 1 of the Resource Management Act 1991.
 
 ### 64 Distribution of applications to Te Uri o Hau governance entity
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister for the Environment, make regulations, as contemplated by clause 5.2.8 of the deed of settlement,—
@@ -613,9 +613,9 @@ Neither the provision of a statutory acknowledgement to Te Uri o Hau governance 
 **Amendment to Resource Management Act 1991**
 
 ### 74 Amendment to Resource Management Act 1991
-Schedule 11 of the Resource Management Act 1991 is amended by adding the following item:Te Uri o Hau Claims Settlement Act 2002.
+Amendment(s) incorporated in the Act(s).
 
-**Subpart 3---Nohoanga entitlements**
+### Subpart 3 — Nohoanga entitlements
 
 ### 75 Interpretation
 In this subpart, unless the context otherwise requires,—
@@ -674,24 +674,24 @@ A Nohoanga entitlement is granted to Te Uri o Hau governance entity for the sole
 
 ### 82 Activities on entitlement land
 (1) Te Uri o Hau governance entity may, with the consent of the land holding agent, undertake activities on entitlement land that are reasonably necessary for the entitlement land to be used for the purpose of a Nohoanga entitlement as set out in section 76.
-(2) When applying for the land holding agent's consent, Te Uri o Hau governance entity must provide to the land holding agent details relating to the proposed activities, including (but not limited to)—
+(2) When applying for the land holding agent’s consent, Te Uri o Hau governance entity must provide to the land holding agent details relating to the proposed activities, including (but not limited to)—
   (a) the effect of the activities on—
     (i) the entitlement land; and
-    (ii) if the entitlement land is held under the Conservation Act 1987 or any Act in the First Schedule of that Act, the surrounding land and any wildlife; and
-  (b) any measures that Te Uri o Hau governance entity proposes to take (if the land holding agent's consent is given) to avoid, remedy, or mitigate any adverse effects.
-(3) In considering whether to give consent in relation to land held under the Conservation Act 1987 or any Act in the First Schedule of that Act, the land holding agent may require Te Uri o Hau governance entity to obtain, at its expense, an environmental impact report about the proposed activities and an audit of that report.
+    (ii) if the entitlement land is held under the Conservation Act 1987 or any Act in Schedule 1 of that Act, the surrounding land and any wildlife; and
+  (b) any measures that Te Uri o Hau governance entity proposes to take (if the land holding agent’s consent is given) to avoid, remedy, or mitigate any adverse effects.
+(3) In considering whether to give consent in relation to land held under the Conservation Act 1987 or any Act in Schedule 1 of that Act, the land holding agent may require Te Uri o Hau governance entity to obtain, at its expense, an environmental impact report about the proposed activities and an audit of that report.
 (4) The giving of consent is at the complete discretion of the land holding agent.
 (5) The land holding agent may give consent subject to such conditions as he or she thinks fit to impose.
-(6) Without limiting subsection (5), in giving consent in relation to land held under the Conservation Act 1987 or any Act in the First Schedule of that Act, the land holding agent may impose reasonable conditions so as to avoid, remedy, or mitigate any adverse effects of the proposed activities on the entitlement land, surrounding land, or wildlife.
+(6) Without limiting subsection (5), in giving consent in relation to land held under the Conservation Act 1987 or any Act in Schedule 1 of that Act, the land holding agent may impose reasonable conditions so as to avoid, remedy, or mitigate any adverse effects of the proposed activities on the entitlement land, surrounding land, or wildlife.
 (7) If the Crown has complied with its obligations under the Nohoanga entitlement, the Crown is not liable to compensate Te Uri o Hau governance entity (whether on termination of a Nohoanga entitlement or at any other time) for any activities undertaken by Te Uri o Hau governance entity on the entitlement land concerned.
 (8) This section applies subject to section 80.
 
-### 83 Crown's obligation to provide lawful access
+### 83 Crown’s obligation to provide lawful access
 (1) If an event described in subsection (2) occurs during the term of a Nohoanga entitlement, the Crown must ensure that Te Uri o Hau governance entity continues, for the rest of the term, to have the same type of access to the entitlement land as it had before the event occurred.
 (2) The events are—
   (a) the transfer of land adjacent to the entitlement land:
   (b) a change in the classification or status of land adjacent to the entitlement land.
-(3) The Crown's obligation in subsection (1) is subject to compliance with any applicable provisions in or under any other enactment.
+(3) The Crown’s obligation in subsection (1) is subject to compliance with any applicable provisions in or under any other enactment.
 
 ### 84 Nohoanga entitlement not to restrict public access
 The grant and exercise of a Nohoanga entitlement must not impede access by members of the public along the waterway that the entitlement relates to.
@@ -708,8 +708,8 @@ The grant and exercise of a Nohoanga entitlement must not impede access by membe
 ### 86 Rights of Te Uri o Hau governance entity under Nohoanga entitlement not assignable
 The rights of Te Uri o Hau governance entity under a Nohoanga entitlement are not assignable.
 
-### 87 Nohoanga entitlement not to restrict the Crown's right to alienate land
-The grant and exercise of a Nohoanga entitlement does not restrict the Crown's right to alienate the entitlement land, land adjacent to the entitlement land, or land adjacent to the waterway concerned.
+### 87 Nohoanga entitlement not to restrict the Crown’s right to alienate land
+The grant and exercise of a Nohoanga entitlement does not restrict the Crown’s right to alienate the entitlement land, land adjacent to the entitlement land, or land adjacent to the waterway concerned.
 
 ### 88 Te Uri o Hau governance entity may enforce rights against other persons
 While Te Uri o Hau governance entity is occupying entitlement land in accordance with this subpart, Te Uri o Hau governance entity may enforce its rights under the Nohoanga entitlement against persons who are not parties to the deed of settlement, as if Te Uri o Hau governance entity were the owner of the entitlement land.
@@ -764,7 +764,7 @@ Part 3B of the Conservation Act 1987 does not apply to the grant of a Nohoanga e
 Section 44 of the Reserves Act 1977 does not apply in relation to a Nohoanga entitlement granted over land subject to that Act.
 
 ### 95 Section 11 and Part 10 of Resource Management Act 1991 not to apply
-The grant of a Nohoanga entitlement is not a subdivision for the purposes of Section 11 and Part 10 of the Resource Management Act 1991.
+The grant of a Nohoanga entitlement is not a subdivision for the purposes of section 11 and Part 10 of the Resource Management Act 1991.
 
 ### 96 Rights of other parties not affected
 (1) The grant and exercise of a Nohoanga entitlement does not affect the lawful rights or interests of a person who is not a party to the deed of settlement.
@@ -774,18 +774,18 @@ The grant of a Nohoanga entitlement is not a subdivision for the purposes of Sec
 (1) The grant and exercise of a Nohoanga entitlement does not grant, create, or provide evidence of an estate or interest in, or rights of any kind relating to, entitlement land.
 (2) Subsection (1) applies subject to the other express provisions of this subpart.
 
-**Subpart 4---Permission for right of way not required**
+### Subpart 4 — Permission for right of way not required
 
 ### 98 Permission of council not required
 The permission of a council under section 348 of the Local Government Act 1974 is not required for the granting of the right of way referred to in clause 5.5.1 of the deed of settlement.
 
-**Subpart 5---Shellfish quota and oyster reserves**
+### Subpart 5 — Shellfish quota and oyster reserves
 
 ### 99 Consent to excess holding of quota
 (1) The Minister is to be treated as having consented under section 60(1) of the Fisheries Act 1996 or section 28W(3) of the Fisheries Act 1983, as the case may be, to Te Uri o Hau governance entity owning excess shellfish quota.
 (2) If subsection (1) applies, the Minister is to be treated as complying with the requirements of section 60 of the Fisheries Act 1996 or section 28W of the Fisheries Act 1983, as the case may be.
 (3) In this section,—
-  - **excess shellfish quota** is the following aggregate shellfish quota that exceeds the quota permitted by section 59 of the Fisheries Act 1996 or section 28W of the Fisheries Act 1983, as the case may be
+  - **excess shellfish quota** is the following aggregate shellfish quota that exceeds the quota permitted by section 59 of the Fisheries Act 1996 or section 28W of the Fisheries Act 1983, as the case may be:
     (a) shellfish quota purchased by Te Uri o Hau under the deed granting a right of first refusal over shellfish quota that is to be delivered by the Crown to Te Uri o Hau and executed by Te Uri o Hau under clauses 5.8.2 and 5.8.5 of the deed of settlement:
     (b) shellfish quota received by Te Uri o Hau governance entity from the Treaty of Waitangi Fisheries Commission
   - **Minister** has the same meaning as in section 2(1) of the Fisheries Act 1996
@@ -794,11 +794,11 @@ The permission of a council under section 348 of the Local Government Act 1974 i
 ### 100 Oyster reserves
 Regulations may be made under clause 5.10.3 of the deed of settlement despite section 10(d) of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992.
 
-**Subpart 6---Indigenous species**
+### Subpart 6 — Indigenous species
 
 ### 101 Interpretation
 In this section and sections 102 to 106,—
-  - **DOC and Department of Conservation** mean the department of state known as the Department of Conservation established by section 5 of the Conservation Act 1987
+  - **DOC** and mean the department of State known as the Department of Conservation established by section 5 of the Conservation Act 1987
   - **indigenous species** means the indigenous fish, flora, and fauna species found within Te Uri o Hau DOC protocol area, in relation to which the Department of Conservation performs statutory duties
   - **Te Uri o Hau DOC protocol area** means the area shown on the map that is attachment 5.1 to the deed of settlement.
 
@@ -823,12 +823,10 @@ The Crown acknowledges the statement by Te Uri o Hau of the cultural, spiritual,
 (1) The acknowledgement by section 102 does not have the effect of granting, creating, or providing evidence of an estate or interest in, or any rights of any kind relating to, an indigenous species.
 (2) Subsection (1) applies subject to the other express provisions of this subpart.
 
-**Subpart 7---Protocols**
+### Subpart 7 — Protocols
 
 ### 107 Interpretation
 In this subpart,—
-  - **antiquity**
-  - **artifact**
   - **Crown-owned mineral** means a mineral (as that term is defined in section 2 of the Crown Minerals Act 1991) that is the property of the Crown under sections 10 and 11 of the Crown Minerals Act 1991 and over which the Crown has jurisdiction under the Continental Shelf Act 1964
   - **protected New Zealand object** has the same meaning as in the Protected Objects Act 1975
   - **protocol** means a statement in writing, issued by a responsible Minister to Te Uri o Hau governance entity, that sets out—
@@ -840,30 +838,30 @@ In this subpart,—
     (b) how—
       (i) the Department of Conservation, the Ministry of Fisheries, or the Ministry for Culture and Heritage, will, on a continuing basis, interact with Te Uri o Hau and provide for the input of Te Uri o Hau into their decision-making processes:
       (ii) the Ministry of Economic Development will, on a continuing basis, consult with Te Uri o Hau and provide for the input of Te Uri o Hau into the decision-making processes of that Ministry
-  - **responsible Minister** means any of the following Ministers
+  - **responsible Minister** means any of the following Ministers:
     (a) the Minister of Conservation:
     (b) the Minister of Fisheries:
     (c) the Minister of Energy:
     (d) the Minister for Arts, Culture and Heritage:
     (e) any other Minister of the Crown authorised by the Prime Minister to exercise powers, duties, and functions under this subpart
-  - **responsible Ministry** means any of the following departments of State
+  - **responsible Ministry** means any of the following departments of State:
     (a) the Department of Conservation:
     (b) the Ministry of Fisheries:
     (c) the Ministry of Economic Development:
     (d) the Ministry for Culture and Heritage:
     (e) any other department of State authorised by the Prime Minister to exercise powers, functions, or duties under this subpart
-  - **taonga tuturu** has the same meaning as in the Protected Objects Act 1975
-  - **Te Uri o Hau protected New Zealand objects protocol area** means the area shown on the map that is attachment 5.1 to the deed of settlement together with—
-    (a) the Mangawhai Harbour; and
-    (b) the Kaipara Harbour and its tributaries; and
-    (c) the waters (including the foreshore and seabed) of the coastal areas adjacent to the coastal boundary of the area shown on that map extending to the outer limit of the territorial sea (as defined in the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977)
+  - **taonga tūturu** has the same meaning as in the Protected Objects Act 1975
   - **Te Uri o Hau DOC protocol area** has the same meaning as in section 101
   - **Te Uri o Hau Fisheries protocol area** means the area shown on the map that is attachment 5.1 to the deed of settlement together with the waters (including foreshore and seabed) of the coastal areas adjacent to the coastal boundary of the area shown on that map—
     (a) within the Kaipara Harbour and Mangawhai Harbour; and
     (b) extending to the outer limit of the Exclusive Economic Zone (as defined in section 2 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977)
   - **Te Uri o Hau MED protocol area** means the area shown on the map that is attachment 5.1 to the deed of settlement together with the waters (including foreshore and seabed) of the coastal areas adjacent to the coastal boundary of the area shown on that map—
     (a) within the Kaipara Harbour and Mangawhai Harbour; and
-    (b) extending to the outer limit of the Exclusive Economic Zone (as defined in the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977).
+    (b) extending to the outer limit of the Exclusive Economic Zone (as defined in the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977)
+  - **Te Uri o Hau protected New Zealand objects protocol area** means the area shown on the map that is attachment 5.1 to the deed of settlement together with—
+    (a) the Mangawhai Harbour; and
+    (b) the Kaipara Harbour and its tributaries; and
+    (c) the waters (including the foreshore and seabed) of the coastal areas adjacent to the coastal boundary of the area shown on that map extending to the outer limit of the territorial sea (as defined in the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977).
 
 ### 108 Authority to issue, amend, or cancel protocols
 (1) Each responsible Minister may—
@@ -874,10 +872,10 @@ In this subpart,—
   (b) Te Uri o Hau governance entity.
 (3) A responsible Minister may amend or cancel a protocol issued by that Minister under subsection (1) only after consulting with Te Uri o Hau governance entity, and having particular regard to its views.
 
-### 109 Protocols subject to Crown's obligations
+### 109 Protocols subject to Crown’s obligations
 Protocols are issued and amended subject to, and without restriction on,—
   (a) the obligations of each responsible Minister and each responsible Ministry to discharge their respective powers, duties, and functions in accordance with existing law and government policy:
-  (b) the Crown's powers to amend policy and to introduce legislation.
+  (b) the Crown’s powers to amend policy and to introduce legislation.
 
 ### 110 Noting of conservation protocol
 (1) The existence of the protocol referred to in Schedule 5.18 of the deed of settlement, as amended from time to time, together with the definition of protocol in section 107 and a summary of the terms of issue of protocols, must be noted in all conservation management plans, conservation management strategies, and national park management plans affecting the area covered by the protocol.
@@ -901,17 +899,17 @@ Protocols are issued and amended subject to, and without restriction on,—
 ### 113 Limitation of rights
 (1) A protocol referred to in clause 5.12.2(a) of the deed of settlement does not have the effect of granting, creating, or providing evidence of an estate or interest in, or any rights of any kind relating to, land held, managed, or administered, or flora or fauna managed or administered, under—
   (a) the Conservation Act 1987; or
-  (b) the statutes listed in the First Schedule of that Act.
+  (b) the statutes listed in Schedule 1 of that Act.
 (2) A protocol referred to in clause 5.12.2(b) of the deed of settlement does not have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind relating to, any assets or other property rights held, managed, or administered under fisheries legislation (including fish, aquatic life, or seaweed).
 (3) A protocol referred to in clause 5.12.2(c) of the deed of settlement does not have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind relating to any Crown-owned mineral held, managed, or administered under the Crown Minerals Act 1991.
-(4) A protocol referred to in clause 5.12.2(d) of the deed of settlement does not have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind relating to, protected New Zealand objects or nga taonga tuturu, held, managed, or administered under the Antiquities Act 1975.
+(4) A protocol referred to in clause 5.12.2(d) of the deed of settlement does not have the effect of granting, creating, or providing evidence of any estate or interest in, or any rights of any kind relating to, protected New Zealand objects or ngā taonga tūturu, held, managed, or administered under the Protected Objects Act 1975.
 (5) In this section,—
   - **fisheries legislation** means—
     (a) the Fisheries Act 1983:
     (b) the Fisheries Act 1996:
     (c) all regulations made under either, or both, of those Acts.
 
-**Subpart 8---Changes of name**
+### Subpart 8 — Changes of name
 
 ### 114 Changes of place names on official maps
 (1) Each place name in column 1 of Schedule 14 is changed to the corresponding name in column 2 of that schedule.
@@ -944,7 +942,7 @@ The Crown must incorporate the changes made by sections 114 and 115 to official 
 
 ### 119 Creation of computer register
 (1) This section applies to a commercial redress property to the extent that 1 or more allotments of the property are not included in a certificate of title or computer freehold register.
-(2) The Registrar-General must, on written application by a person authorised by the chief executive, comply with sub- section (3).
+(2) The Registrar-General must, on written application by a person authorised by the chief executive, comply with subsection (3).
 (3) The Registrar-General must, in accordance with the application, create 1 or more computer freehold registers in the name of the Crown subject to, and together with, any encumbrances that are registrable or notifiable and that are described in the written application.
 (4) If, immediately before the creation of a computer freehold register, the allotments of the property are held for different purposes, the register may be created without a statement of purpose.
 (5) The Crown may grant a covenant to arrange for the later creation of 1 or more computer freehold registers for a property that is to be transferred to Te Uri o Hau governance entity.
@@ -982,31 +980,30 @@ The deed relating to continued public access in respect of the Mangawhai license
 
 | Property | Land description | Encumbrances |
 | --- | --- | --- |
-| Pukekaroro site | North Auckland Land District - Kaipara District |  |
+| Pukekaroro site | North Auckland Land District – Kaipara District |  |
 |  | 11.1700 hectares, more or less, being Section 1 SO 70762. Part Certificate of Title 1123/287. 1.3000 hectares, more or less, being Sections 2 and 3 SO 70762. Part Gazette Notice 764049.1. | Subject to a protected private land agreement as set out in Schedule 4.2 of the deed of settlement. |
-| Pukeareinga site | North Auckland Land District - Kaipara District |  |
+| Pukeareinga site | North Auckland Land District – Kaipara District |  |
 |  | 283 square metres, more or less, being Section 1 SO 70764. Part Proclamation 5362. | Subject to a conservation convenant as set out in Schedule 4.3 of the deed of settlement. |
 | First Whakahuranga Pa site | North Auckland Land District – Rodney District |  |
-|  | 3 191 square metres, more or less, being Lot 1 DP 211035. All Transfer D692397.5. | Subject to a right of way as set out in Schedule 4.4 of the deed of settlement; Together with: a right of way created by Transfer D 036844.1; right of way specified in Easement Certificate D194200.1; a right of way shown marked A on DP 211035. |
+|  | 3 191 square metres, more or less, being Lot 1 DP 211035. All Transfer D692397.5. | Subject to a right of way as set out in Schedule 4.4 of the deed of settlement;Together with:a right of way created by Transfer D 036844.1;a right of way specified in Easement Certificate D194200.1;a right of way shown marked A on DP 211035. |
 | Second Whakahuranga Pa site | North Auckland Land District – Rodney District |  |
 |  | 617 square metres, more or less, being Lot 2 DP 211035. All Certificate of Title 139A/858. | Subject to a right of way as set out in Schedule 4.4 of the deed of settlement. |
 | Oteono site | North Auckland Land District – Kaipara District |  |
-|  | 1 955 square metres, more or less, being Section 1 SO 70271. Part New Zealand Gazette 1899 page 1359 |  |
+|  | 1 955 square metres, more or less, being Section 1 SO 70271. Part New Zealand Gazette 1899 page 1359. |  |
 | Whakapirau site | North Auckland Land District – Kaipara District |  |
 |  | 2.1640 hectares, more or less, being Sections 1 and 2 SO 70276. Part New Zealand Gazette 1862 page 276. |  |
 | Okahukura site | North Auckland Land District – Rodney District |  |
 |  | 2.0000 hectares, more or less, being Section 1 SO 70275. Part Document K 29667. |  |
-| Hokarako stewardship area | North Auckland Land District – Kaipara District | 8 600 square metres, more or less, being Section 48 Block 1 Otamatea Survey District. Part Certificate of Title 87/243. |
+| Hokarako stewardship area | North Auckland Land District – Kaipara District |  |
+|  | 8 600 square metres, more or less, being Section 48 Block 1 Otamatea Survey District. Part Certificate of Title 87/243. |  |
 | Part Humuhumu lake bed | North Auckland Land District – Kaipara District |  |
 |  | 38.5000 hectares, more or less, being Section 1 SO 70763. Part Transfer 507388. | Subject to easement in favour of the Pouto Licensed Land for power supply, water supply, and electric fence earth site. |
-| Pouto Road end | North Auckland Land District – Kaipara District | 6 526 square metres, more or less, being Section 1 SO 38503. Part New Zealand Gazette 1955 page 403. |
+| Pouto Road end | North Auckland Land District – Kaipara District |  |
+|  | 6 526 square metres, more or less, being Section 1 SO 38503. Part New Zealand Gazette 1955 page 403. |  |
 | Wahi tapu sites in the Pouto Forest | North Auckland Land District – Kaipara District |  |
-|  | 471 square metres, more or less, being Section 1 SO 65781. Part Certificate of Title 238/105; and | All subject to a wildlife refuge by New Zealand Gazette 1957 page 1639 for the purposes of the Wildlife Act 1953 |
-|  | 429 square metres, more or less, being Section 2 SO 65781. Part Certificate of Title 238/105; and |  |
-|  | 441 square metres, more or less, being Section 3 SO 65781. Part Certificate of Title 238/105; and |  |
-|  | 693 square metres, more or less, being Section 4 SO 65781. Part Certificate of Title 238/105; and |  |
-|  | 3032 square metres, more or less, being Section 5 SO 65781. Part Certificate of Title 238/105. |  |
-| Pou Tu o Te Rangi | North Auckland Land District – Kaipara District | 5 793 square metres, more or less, being Lot 1 DP 79437. All Certificate of Title 36B/229. |
+|  | 471 square metres, more or less, being Section 1 SO 65781. Part Certificate of Title 238/105; and429 square metres, more or less, being Section 2 SO 65781. Part Certificate of Title 238/105; and441 square metres, more or less, being Section 3 SO 65781. Part Certificate of Title 238/105; and693 square metres, more or less, being Section 4 SO 65781. Part Certificate of Title 238/105; and3 032 square metres, more or less, being Section 5 SO 65781. Part Certificate of Title 238/105. | All subject to a wildlife refuge by New Zealand Gazette 1957 page 1639 for the purposes of the Wildlife Act 1953. |
+| Pou Tu o Te Rangi | North Auckland Land District – Kaipara District |  |
+|  | 5 793 square metres, more or less, being Lot 1 DP 79437. All Certificate of Title 36B/229. |  |
 
 ## Schedule 3 — Kirihipi overlay area for Manukapua Government Purpose (Wildlife Management) Reserve
 
@@ -1028,14 +1025,86 @@ The deed relating to continued public access in respect of the Mangawhai license
 
 | Waterway | Nohoanga site | Description | Special conditions |
 | --- | --- | --- | --- |
-| Lake Whakaneke | Lake Whakaneke | North Auckland Land District – Kaipara District | (1) No domestic animal permitted |
-|  |  | 3 563 square metres, more or less, being Section 3 SO 70272 Part Certificate of Title 238/105. | (2) The Department of Conservation and Te Uri o Hau recognise the fragile dune environment of the Pouto Stewardship Area. The Department of Conservation will, after consultation with Te Uri o Hau governance entity, set conditions for vehicle access on an annual basis |
-| Kaipara Harbour | Te Taa Hinga | North Auckland Land District – Kaipara District |  |
-|  |  | 1.0000 hectares, more or less, being Section 4 SO 70272. Part New Zealand Gazette 1955, page 403. |  |
-| Lake Mokeno | Lake Mokeno | North Auckland Land District – Kaipara District | (1) No domestic animal permitted |
-|  |  | 1.0520 hectares, more or less, being Section 2 SO 70272 Part Certificate of Title 238/105. | (2) The Department of Conservation and Te Uri o Hau recognise the fragile dune environment of the Pouto Stewardship Area. The Department of Conservation will, after consultation with Te Uri o Hau governance entity set conditions for vehicle access on an annual basis. |
+| Lake Whakaneke | Lake Whakaneke | North Auckland Land District – Kaipara District3 563 square metres, more or less, being Section 3 SO 70272. Part Certificate of Title 238/105. | 1No domestic animal permitted2The Department of Conservation and Te Uri o Hau recognise the fragile dune environment of the Pouto Stewardship Area. The Department of Conservation will, after consultation with Te Uri o Hau governance entity, set conditions for vehicle access on an annual basis. |
+| Kaipara Harbour | Te Taa Hinga | North Auckland Land District – Kaipara District1.0000 hectares, more or less, being Section 4 SO 70272. Part New Zealand Gazette 1955, page 403. |  |
+| Lake Mokeno | Lake Mokeno | North Auckland Land District – Kaipara District1.0520 hectares, more or less, being Section 2 SO 70272. Part Certificate of Title 238/105. | 1No domestic animal permitted2The Department of Conservation and Te Uri o Hau recognise the fragile dune environment of the Pouto Stewardship Area. The Department of Conservation will, after consultation with Te Uri o Hau governance entity, set conditions for vehicle access on an annual basis. |
 
 ## Schedule 12 — Form of Nohoanga entitlement
+
+### 1 Interpretation
+(1.1) Definitions from Act
+Terms defined in the deed of settlement and Te Uri o Hau Claims Settlement Act 2002 will have the same meaning in this Nohoanga entitlement.
+(1.2) Other definitions
+[Insert other definitions as required by specific Nohoanga entitlements.]
+
+### 2 Entitlement land
+The area which is the subject of this Nohoanga entitlement is [insert description of site and/or attach plans/map] (the entitlement land) being adjacent to [insert name of lake/river] (the waterway).
+
+### 3 Creation of Nohoanga entitlement
+The Crown hereby creates and grants in favour of Te Uri o Hau governance entity a Nohoanga entitlement to occupy temporarily and exclusively the entitlement land on a non-commercial basis for the purposes of permitting members of Te Uri o Hau to have access to the waterway for lawful fishing and lawful gathering of other natural resources in the vicinity, on the terms and conditions set out in this Nohoanga entitlement.
+
+### 4 Terms of Nohoanga entitlement
+(4.1) Length of Nohoanga entitlement
+The initial term of this Nohoanga entitlement shall be a period of 10 years from the settlement date.
+(4.2) Nohoanga entitlement must be renewed
+Unless terminated under clause 5, this Nohoanga entitlement must be renewed at the expiry of its term at the option of Te Uri o Hau governance entity for further terms of 10 years each.
+(4.3) Nohoanga entitlement period
+Te Uri o Hau governance entity may occupy the entitlement land to the exclusion of any other person (other than agents of the Crown or other persons empowered by statute undertaking their normal functions in relation to the entitlement land) for up to 210 days in any calendar year (such days to exclude any day from 1 May to 15 August inclusive).
+(4.4) Temporary camping shelters
+Te Uri o Hau governance entity may erect camping shelters or similar temporary dwellings during the period or periods that the right to occupy the entitlement land under clause 4.3 is being exercised, provided that Te Uri o Hau governance entity must—
+  (a) remove such camping shelters or temporary dwellings at any time when the right to temporarily occupy the entitlement land is not being exercised under clause 4.3; and
+  (b) leave the entitlement land in substantially the same condition as it was in at the beginning of the period in each year when occupation may commence under clause 4.3, except for temporary effects normally associated with this type of occupation.
+(4.5) Activities on entitlement land
+Notwithstanding clause 4.4, but subject to clause 4.5(a) to 4.5(d) and 4.7, Te Uri o Hau governance entity may, with the consent of the landholding agent, undertake such activities on the entitlement land as may be reasonably necessary to enable the entitlement land to be used for the purposes set out in clause 4, provided that—
+  (a) the giving of consent by the landholding agent under this clause shall be completely at his or her discretion and subject to such conditions, as he or she thinks fit; and
+  (b) where the entitlement land is land held under the Conservation Act 1987 or any Act, in the First Schedule to that Act, the landholding agent may, in considering whether to give consent under this clause, require an environmental impact report in relation to the proposed activities, and an audit of that report at Te Uri o Hau governance entity’s expense, and impose reasonable conditions to avoid, remedy, or mitigate any adverse effects of the activity on the entitlement land, the surrounding land, or any wildlife; and
+  (c) when applying for any consent under this clause, Te Uri o Hau governance entity shall provide to the landholding agent details of the proposed activity, including but not limited to—
+    (i) the effect of the activity on the entitlement land and, where the entitlement land is land held under the Conservation Act 1987 or any Act in the First Schedule to that Act, on the surrounding land and upon any wildlife; and
+    (ii) any proposed measures by Te Uri o Hau governance entity to avoid, remedy, or mitigate any adverse effects; and
+  (d) if the Crown has complied with its obligations under this Nohoanga entitlement, it shall not be obliged to compensate Te Uri o Hau governance entity for any activities undertaken by Te Uri o Hau governance entity under this clause, whether on termination of this Nohoanga entitlement or at any other time.
+(4.6) Continuing public access along waterway
+The creation and granting by the Crown, and exercise by Te Uri o Hau governance entity, of this Nohoanga entitlement shall not impede public access along the waterway.
+(4.7) Compliance with law
+Te Uri o Hau governance entity, and any activity carried on by Te Uri o Hau governance entity on the entitlement land, (including any work undertaken on the entitlement land under clause 4.5) is subject to all laws, bylaws, regulations, and land and water management practices relating to the entitlement land including the need, as required, to apply for resource consent under the Resource Management Act 1991.
+(4.8) Notification of activities
+In carrying out land and water management and practices relating to the entitlement land, the landholding agent must have regard to the existence of this Nohoanga entitlement and will notify Te Uri o Hau governance entity of any activity which may affect Te Uri o Hau governance entity, and will avoid unreasonable disruption to Te Uri o Hau governance entity.
+(4.9) Nohoanga entitlement non-assignable
+Te Uri o Hau governance entity’s rights under this Nohoanga entitlement are not assignable.
+(4.10) Enforceability
+(4.10.1) During the term of this Nohoanga entitlement and while Te Uri o Hau governance entity is occupying the entitlement land under the terms of this Nohoanga entitlement, it shall be enforceable by Te Uri o Hau governance entity against persons who are not parties to the deed of settlement as if it were the owner of the entitlement land.
+(4.10.2) The Crown is not obliged to enforce the rights of Te Uri o Hau governance entity under this Nohoanga entitlement against persons who are not parties to the deed of settlement on behalf of Te Uri o Hau governance entity.
+(4.11) Rights to alienate adjacent land
+The existence and exercise of this Nohoanga entitlement will not restrict the Crown’s right to alienate either the entitlement land or land adjacent to the entitlement land or land adjacent to the waterway next to which the entitlement land is situated.
+(4.12) Access ensured
+If the Crown alienates, or changes the classification or status of land adjacent to the entitlement land, with the result that lawful access to the entitlement land no longer exists, the Crown will, subject to its obligations to comply with any statutory or regulatory requirements, ensure that Te Uri o Hau governance entity continues to have the same type of access to the entitlement land as existed prior to such alienation or change of classification or status, unless and until this Nohoanga entitlement is terminated under clause 5.
+(4.13) Suspension of Nohoanga entitlement
+Subject to clause 4.8, this Nohoanga entitlement may be suspended at any time at the discretion of the landholding agent, after consulting with Te Uri o Hau governance entity and having particular regard to its views, if thought necessary for reasons of management in accordance with the purposes for which the entitlement land is held. Notwithstanding clause 4.3, if this Nohoanga entitlement is suspended, the rights under this Nohoanga entitlement may be exercised by Te Uri o Hau governance entity outside the entitlement period described in clause 4.3 for a time equal to the period of suspension.
+(4.14) Service charges
+Te Uri o Hau governance entity is liable to pay rates, charges, and fees payable under section 7 of the Rating Powers Act 1988 in respect of the entitlement land, in proportion to the period for which Te Uri o Hau governance entity is entitled to occupy the entitlement land under clause 4.3.
+
+### 5 Termination
+(5.1) Breach of terms of Nohoanga entitlement
+(5.1.1) Subject to clause 5.1.4, if Te Uri o Hau governance entity defaults in performing any of its obligations under this Nohoanga entitlement, and such default is capable of remedy, the Crown may give written notice to Te Uri o Hau governance entity specifying the default and the remedy which the Crown requires (which remedy must be reasonable in the relevant circumstances).
+(5.1.2) Unless within 41 business days after the giving of notice under clause 5.1.1 the default specified in the notice has been remedied or appropriate action has been taken to remedy the default as required in the notice, the Crown may immediately terminate this Nohoanga entitlement by notice in writing to Te Uri o Hau governance entity.
+(5.1.3) If the default is not one which is capable of remedy, the Crown may immediately terminate this Nohoanga entitlement by notice in writing to Te Uri o Hau governance entity.
+(5.1.4) On termination of this Nohoanga entitlement under clauses 5.1.2 or 5.1.3, Te Uri o Hau governance entity shall be entitled to apply to the Minister of Maori Affairs for a replacement Nohoanga entitlement meeting the criteria set out in clause 5.4.3 of the deed of settlement after the expiry of 2 years from the date of termination of this Nohoanga entitlement.
+(5.1.5) Clause 5.1.4 shall survive the termination of this Nohoanga entitlement.
+(5.2) Termination for other reasons
+(5.2.1) The Crown may terminate this Nohoanga entitlement by giving written notice to Te Uri o Hau governance entity if:
+  (a) the Crown alienates the entitlement land; or
+  (b) the entitlement land is destroyed or permanently detrimentally affected by any natural cause; or
+  (c) it is a condition of this Nohoanga entitlement set out in clause 7 that the entitlement land is reserve land which may be required by the Crown for the specific purpose for which it was originally set apart as a reserve and it becomes so required, or it is unformed legal road which becomes formed; or
+  (d) subject to clause 4.12, if lawful access to the entitlement land no longer exists.
+(5.2.2) Te Uri o Hau governance entity and the Crown may terminate this Nohoanga entitlement by agreement in writing.
+
+### 6 Other matters
+(6.1) Rights not affected
+Under section 96 of Te Uri o Hau Claims Settlement Act 2002 except as expressly provided in this Nohoanga entitlement, the grant and exercise of this Nohoanga entitlement will not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
+(6.2) Limitation of rights
+Under section 97 of Te Uri o Hau Claims Settlement Act 2002 except as expressly provided in this Nohoanga entitlement, the grant and exercise of this Nohoanga entitlement will not have the effect of granting, creating or providing evidence of any estate or interest in, or any rights of any kind whatsoever relating to, the entitlement land.
+
+### 7 Special conditions
+(As set out in Schedule 5.13 of the deed of settlement for Nohoanga sites)[insert appropriate attestations]
 
 ## Schedule 13 — Statement by Te Uri o Hau of association with indigenous species
 
@@ -1044,17 +1113,17 @@ The deed relating to continued public access in respect of the Mangawhai license
 | Current name | New name | Topographical map 260 reference |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  | Latitude | Longitude | Map | GR |
-| Rocky Point | Whakapirau/ Rocky Point | 36o 12.8'S | 174o 17.8' E | Q 08 | 271 535 |
-| Pukearenga | Pukeareinga | 36o 07.4' S | 174o 23.5' E | Q 08 | 359 634 |
-| Lake Mathews | Lake Karoro/ Mathews | 36o 23.1' S | 174o 04.5' E | P 09 | 070 349 |
-| Boar Hill | Puroa/Boar Hill | 36o 05.7' S | 174o 26.2' E | Q 08 | 400 665 |
-| Bald Rock | Pukepohatu/Bald Rock | 36o 07.2' S | 174o 26.8' E | Q 08 | 408 638 |
-| N/A | Pou Tu o Te Rangi | 35o 57.6' S | 173o 52' E | P 07 | 888 822 |
-| Tapu Bush | Whakapaingarara/Tapu Bush | 36o 18.9' S | 174o 04.5' E | P 09 | 071 426 |
-| Waikere Creek | Waikeri Creek | 36o 19' S | 174o 09.1' E | Q 09 | 139 423 |
-| N/A | Manukapua Island | 36o 23.1' S | 174o 14.6' E | Q 09 | 221 346 |
-| N/A | Rangitane Pa | 36o 17.7' S | 174o 04.7' E | P 09 | 073 449 |
-| N/A | Mahipatua Pa | 36o 18.4' S | 174o 06 E' | P 09 | 093 436 |
-| N/A | Lake Wairere | 36o 16.6' S | 174o 00.9' E | P 09 | 018 470 |
-| N/A | Lake Otapuiti | 36o 21.7' S | 174o 04.4' E | P 09 | 069 375 |
-| N/A | Rotopouri | 36o 18.3' S | 174o 05.3' E | P 09 | 083 438 |
+| Rocky Point | Whakapirau/ Rocky Point | 36° 12.8´S | 174° 17.8´ E | Q 08 | 271 535 |
+| Pukearenga | Pukeareinga | 36° 07.4´ S | 174° 23.5´ E | Q 08 | 359 634 |
+| Lake Mathews | Lake Karoro/ Mathews | 36° 23.1´ S | 174° 04.5´ E | P 09 | 070 349 |
+| Boar Hill | Puroa/Boar Hill | 36° 05.7´ S | 174° 26.2´ E | Q 08 | 400 665 |
+| Bald Rock | Pukepohatu/Bald Rock | 36° 07.2´ S | 174° 26.8´ E | Q 08 | 408 638 |
+| N/A | Pou Tu o Te Rangi | 35° 57.6´ S | 173° 52´ E | P 07 | 888 822 |
+| Tapu Bush | Whakapaingarara/ Tapu Bush | 36° 18.9´ S | 174° 04.5´ E | P 09 | 071 426 |
+| Waikere Creek | Waikeri Creek | 36° 19´ S | 174° 09.1´ E | Q 09 | 139 423 |
+| N/A | Manukapua Island | 36° 23.1´ S | 174° 14.6´ E | Q 09 | 221 346 |
+| N/A | Rangitane Pa | 36° 17.7´ S | 174° 04.7´ E | P 09 | 073 449 |
+| N/A | Mahipatua Pa | 36° 18.4´ S | 174° 06 E´ | P 09 | 093 436 |
+| N/A | Lake Wairere | 36° 16.6´ S | 174° 00.9´ E | P 09 | 018 470 |
+| N/A | Lake Otapuiti | 36° 21.7´ S | 174° 04.4´ E | P 09 | 069 375 |
+| N/A | Rotopouri | 36° 18.3´ S | 174° 05.3´ E | P 09 | 083 438 |
