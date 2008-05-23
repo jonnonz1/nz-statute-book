@@ -1,51 +1,49 @@
 # Pouakani Claims Settlement Act 2000
-_Consolidation as at 2007-09-10_
+_Consolidation as at 2008-05-23_
 
 ## Preamble
-He korero tahuhu
-(1) E mau ake nei te Rarangi Tapiri Tuatahi mo tenei ture, e whakaupoko ana i roto i te reo Maori me te reo Pakeha i nga tikanga o te Tiriti o Waitangi:
-Te tono i raro i te ture o te Tiriti o Waitangi 1975
-(2) Ko te tono a te iwi o Pouakani, he mea rehita ki te Ropu Whakamana i te Tiriti, i te tau 1987, i raro i te Wai 33, ka mutu, ko tana, e whai utunga ana mo nga mamae i pa ki te iwi. Ko te tono nei i whakatakotoria e John Hanita Paki mona, mo nga Kaitiaki, mote hunga hoki e whai panga atu ana ki nga whenua topu e kiia nei ko Titiraupenga raua ko Pouakani B9B. I rongohia te tono i waenganui i nga marama o Mei, o Oketopa o te tau 1989, a, i putaina e te Ropu Whakamana i te Tiriti tana purongo i te tau 1993.
-Nga kitenga a te ropu whakamana i te Tiriti
-(3) I kitea e te Ropu Whakamana i te Tiriti—
-  (a) i te tau 1889, kaore ano kia whakataungia e te Koti Whenua Maori te ripa tauarai o te poraka whenua o Maraeroa 1887, na te mea kaore i whaia nga tikanga o te Ture Whenua Maori 1880 i te wa o te whakahau nei. Na reira i whakatauhia e te Ropu Whakamana i te Tiriti, ko te ruri whenua a Stubbing i te tau 1892 mo te ripa tauarai i waenganui o nga poraka whenua o Maraeroa me Pouakani, he mea ata takoto ki te mahere ML6406 me nga mahere i whai, koia te mea tika:
-  (b) he rahi te whenua (tae atu ki te Poraka 1 o Pouakani) i riro e te Karauna hei ea i nga utu ruri, a, tapiri atu ki enei whenua, i riro ngapanga whenua a tena, a tena tangata kotahi. Ko te mate ke, i etahi wa, kaore i tika te ruri, a, kaore i whiwhi nga Maori ki te taitara tika:
-  (c) i ta ratou whakatau, ara, kaore he he i raro i te ture, kaore hoki he mahi rereke i roto i nga kaupapa whitiwhiti o te wa e pa ana ki nga mahi hokohoko o nga Poraka o Pouakani me Maraeroa i nga tekau tau 1880-89 me 1890-99, i rangona tonu e te Ropu Whakamana i te Tiriti nga mamae me ngakomuhumuhu o nga Maori:
-  (d) he nui noa atu terai utua e te iwi Maori i te whakanohotanga i te Pakeha ki konei, engari, iti noa te wahi i whakaritea mona i te taha ki nga painga tera ka hua i te urunga mai o nga manene me aratou haupu rawa. Ka tika te korero, he nui nga raruraru i hau mai i nga mahi a te Koti Whenua Maori, i ta ratou momo rangahau ko wai te hunga e whai panga atu ana ki nga whenua, i ta ratou turaki i te mana o nga whanau, hapu, iwi, ka hoatu ki te tangata kotahi. Ma enei mahi, e taea ai nga whenua te hokona, penei i te manu e timo nei i te kai. Ko nga raruraru maha i pa ki te hapu, ki te iwi, ara, ko nga tohetohe mana whenua, roherohe whenua, ko te nui o nga utu i utaina, ko te he o etahi mahi ruri, ko te kore ruria o etahi whenua, ko te nui o te utu ki nga tono ki te ture:
-  (e) kua takotoria he take tumatanui e ki ana he nui rawa te whenua i murua e te Karauna hei ea i nga utu ruri me etahi atu utu i roto i te Rohe Potae. I whakaae ano te Ropu Whakamana i te Tiriti ma te rangahau tonu i te take nei, ka kitea tona tino korero:
-  (f) no te mea kaore i ruria nga ripa tauarai i raro i nga Whakahau Taitara 1891 i turia ai nga poraka whenua o Pouakani B9 (Pureora) raua ko Pouakani C1 (Kaiwha), ko te tikanga, kaore aua tono roherohenga whenua e taea te whakaurua ki te Tari Whiti Whenua (Land Transfer Office), a, kaore hoki e taea aua whenua te rehitatia. I te tau 1899, i runga i te tono a te Karauna, i ruria etahi ripa tauarai hou e te Koti Whenua Maori, katahi ka wehea nga whenua ki te Karauna me nga Maori kaore i hoko i o ratou panga whenua. I te tau 1899, i utua e nga tangata no ratou te whenua e 343 eka hei ea i nga mahi ruri o nga tau ki muri. Engari, na te mea kaore i oti pai taua mahi ruri, i te roanga ake o te wa, i kitea te hua kore o te tuku whenua mo te ruri. E tika ana te korero whanui e ki ana, he kawenga ta te Karauna kia oti pai nga mahi ruri i nga ripa tauarai; i tua atu, me utu paremata te Karauna ki nga tangata Maori no ratou te whenua, mo te ngoikore o nga mahi ruri a Te Tari Ruri o Akarana (Auckland Survey Office) i te tekau tau 1890-99; ana, na enei mahi, i uru atu nga Maori no ratou te whenua o Pouakani B9B ki nga tautohe koti nui rawa atu te utu:
-  (g) i kitea i roto i nga tau ki muri, kaore i whakaaro nuitia te taha Maori i roto i nga whakahaere a te Karauna i te ngahere e kiia nei inaianei ko Te Ngahere Paka o Pureora, ahakoa hei ta nga iwi kainga ki ai, he taonga te ngahere nei:
-Nga kitenga a te Koti Whenua Maori
-(4) I te tau 1996, i puta te whakatau a te Koti Whenua Maori e ki ana, he mea takahia e te whakahau a te Koti Whenua Maori o te tau 1891 e pa ana ki te ripa tauarai o Pouakani / Maraeroa, i te Ture Whakatikatika i Nga Ture a te Koti Whenua Maori 1889. Na reira, ko te ripa tauarai i tohua e te Koti Whenua Maori, ko tera kei roto i te ture o 1889:
-Nga koreorero i waenga i nga tangata o Pouakani me te Karauna
-(5) I muri o te whakatau nei a te Koti Whenua Maori, e tautoko ana i a Mr Paki me ngatangata o Pouakani, i hikina e te Koti te tono, kia taea ai e nga taha e rua te whitiwhiti korero menakoina te hiahia, kia taea ranei te whakatakoto i etahi atu Whakahau a-ture e pa ana ki te tono:
-(6) No te marama o Tihema o te tau 1997, i whakautia e te Runanga Kawanatanga te Whakaaetanga o te Mana Kokiri o Pouakani; matenei i whai mana ai nga kaiwhakarite o Pouakani ki te whitiwhiti korero me te Karauna kia taea te whakatau korero pumau, tuturu hoki, kia ea ai nga tono a Pouakani i roto i nga tau, a, kia makere mai hoki nga mamae e rangona nei e ngatangata o Pouakani:
-(7) I hainahia Nga Whakaritenga mo nga Whitiwhiti Korero e nga kaiwhakarite o te Karauna me te hunga o Pouakani i te 9 o Hune o te tau 1998:
-(8) E whakamihi ana te Karauna i te mea kua 23 tau a John Hanita Paki e mahi ana kia whakatauhia te tono mo Pouakani, me te mea ano, kua pau tana kaha me te wa i ana whitiwhiti korero me te Karauna:
-Whakamutunga o nga kereme
-(9) I te 19 o Noema o te tau 1999, i uru atu te Karauna ratou ko nga tangata o Pouakani ki tetahi whakataunga whakaaetanga, e whakaae ana te Karauna, na nga mahi me nga panga mai o nga Ture Whenua Maori, i pehi i nga tangata o Pouakani i to ratou rohe. Ko tetahi ano mea o te whakataunga whakaaetanga, e mau ana i a ia nga korero tika e tareka ai he whakataunga e tutuki pu ai nga tono a Pouakani i roto i nga tau, me nga tono e pa ana ki nga ripa tauarai o Pouakani.
-Background in English
-(1) The Treaty of Waitangi is set out, in Maori and English, in Schedule 1:
+(1) E mau ake nei te Rārangi Tāpiri Tuatahi mō tēnei ture, e whakaūpoko ana i roto i te reo Māori me te reo Pākehā i ngā tikanga o te Tiriti o Waitangi:
+Te tono i raro i te Ture o te Tiriti o Waitangi 1975
+(2) Ko te tono a te iwi o Pouakani, he mea rēhita ki te Rōpū Whakamana i te Tiriti, i te tau 1987, i raro i te Wai 33, ka mutu, ko tāna, e whai utunga ana mō ngā mamae i pā ki te iwi. Ko te tono nei i whakatakotoria e John Hanita Paki mōna, mō ngā Kaitiaki, mōte hunga hoki e whai pānga atu ana ki ngā whenua tōpū e kīia nei ko Titiraupenga rāua ko Pouakani B9B. I rongohia te tono i waenganui i ngā marama o Mei, o Oketopa o te tau 1989, ā, i putaina e te Rōpū Whakamana i te Tiriti tana pūrongo i te tau 1993.
+Ngā kitenga a te Rōpū Whakamana i te Tiriti
+(3) I kitea e te Rōpū Whakamana i te Tiriti—
+  (a) i te tau 1889, kāore anō kia whakataungia e te Kōti Whenua Māori te ripa tauārai o te poraka whenua o Maraeroa 1887, nā te mea kāore i whāia ngā tikanga o te Ture Whenua Māori 1880 i te wā o te whakahau nei. Nā reira i whakatauhia e te Rōpū Whakamana i te Tiriti, ko te rūri whenua a Stubbing i te tau 1892 mō te ripa tauārai i waenganui o ngā poraka whenua o Maraeroa me Pouakani, he mea āta takoto ki te mahere ML6406 me ngā mahere i whai, koia te mea tika:
+  (b) he rahi te whenua (tae atu ki te Poraka 1 o Pouakani) i riro e te Karauna hei ea i ngā utu rūri, ā, tāpiri atu ki ēnei whenua, i riro ngāpānga whenua a tēnā, a tēnā tangata kotahi. Ko te mate kē, i ētahi wā, kāore i tika te rūri, ā, kāore i whiwhi ngā Māori ki te taitara tika:
+  (c) i tā rātou whakatau, arā, kāore he hē i raro i te ture, kāore hoki he mahi rerekē i roto i ngā kaupapa whitiwhiti o te wā e pā ana ki ngā mahi hokohoko o ngā Poraka o Pouakani me Maraeroa i ngā tekau tau 1880–89 me 1890–99, i rangona tonu e te Rōpū Whakamana i te Tiriti ngā mamae me ngākōmuhumuhu o ngā Māori:
+  (d) he nui noa atu tērāi utua e te iwi Māori i te whakanohotanga i te Pākehā ki konei, engari, iti noa te wāhi i whakaritea mōna i te taha ki ngā painga tērā ka hua i te urunga mai o ngā manene me ārātou haupū rawa. Ka tika te kōrero, he nui ngā raruraru i hau mai i ngā mahi a te Kōti Whenua Māori, i tā rātou momo rangahau ko wai te hunga e whai pānga atu ana ki ngā whenua, i tā rātou turaki i te mana o ngā whānau, hapū, iwi, ka hoatu ki te tangata kotahi. Mā ēnei mahi, e taea ai ngā whenua te hokona, pēnei i te manu e timo nei i te kai. Ko ngā raruraru maha i pā ki te hapū, ki te iwi, arā, ko ngā tohetohe mana whenua, roherohe whenua, ko te nui o ngā utu i ūtaina, ko te hē o ētahi mahi rūri, ko te kore rūria o ētahi whenua, ko te nui o te utu ki ngā tono ki te ture:
+  (e) kua takotoria he take tūmatanui e kī ana he nui rawa te whenua i murua e te Karauna hei ea i ngā utu rūri me ētahi atu utu i roto i te Rohe Pōtae. I whakaae anō te Rōpū Whakamana i te Tiriti mā te rangahau tonu i te take nei, ka kitea tōna tino kōrero:
+  (f) nō te mea kāore i rūria ngā ripa tauārai i raro i ngā Whakahau Taitara 1891 i tūria ai ngā poraka whenua o Pouakani B9 (Pureora) rāua ko Pouakani C1 (Kaiwha), ko te tikanga, kāore aua tono roherohenga whenua e taea te whakaurua ki te Tari Whiti Whenua (Land Transfer Office), ā, kāore hoki e taea aua whenua te rēhitatia. I te tau 1899, i runga i te tono a te Karauna, i rūria ētahi ripa tauārai hou e te Kōti Whenua Māori, kātahi ka wehea ngā whenua ki te Karauna me ngā Māori kāore i hoko i ō rātou pānga whenua. I te tau 1899, i utua e ngā tāngata nō rātou te whenua e 343 eka hei ea i ngā mahi rūri o ngā tau ki muri. Engari, nā te mea kāore i oti pai taua mahi rūri, i te roanga ake o te wā, i kitea te hua kore o te tuku whenua mō te rūri. E tika ana te kōrero whānui e kī ana, he kawenga tā te Karauna kia oti pai ngā mahi rūri i ngā ripa tauārai; i tua atu, me utu paremata te Karauna ki ngā tāngata Māori nō rātou te whenua, mō te ngoikore o ngā mahi rūri a Te Tari Rūri o Ākarana (Auckland Survey Office) i te tekau tau 1890–99; anā, nā ēnei mahi, i uru atu ngā Māori nō rātou te whenua o Pouakani B9B ki ngā tautohe kōti nui rawa atu te utu:
+  (g) i kitea i roto i ngā tau ki muri, kāore i whakaaro nuitia te taha Māori i roto i ngā whakahaere a te Karauna i te ngahere e kīia nei ināianei ko Te Ngahere Pāka o Pureora, ahakoa hei tā ngā iwi kāinga kī ai, he taonga te ngahere nei:
+Ngā kitenga a te Kōti Whenua Māori
+(4) I te tau 1996, i puta te whakatau a te Kōti Whenua Māori e kī ana, he mea takahia e te whakahau a te Kōti Whenua Māori o te tau 1891 e pā ana ki te ripa tauārai o Pouakani / Maraeroa, i te Ture Whakatikatika i Ngā Ture a te Kōti Whenua Māori 1889. Nā reira, ko te ripa tauārai i tohua e te Kōti Whenua Māori, ko tērā kei roto i te ture o 1889:
+Ngā kōreorero i waenga i ngā tāngata o Pouakani me te Karauna
+(5) I muri o te whakatau nei a te Kōti Whenua Māori, e tautoko ana i a Mr Paki me ngātāngata o Pouakani, i hikina e te Kōti te tono, kia taea ai e ngā taha e rua te whitiwhiti kōrero mēnākoinā te hiahia, kia taea rānei te whakatakoto i ētahi atu Whakahau ā-ture e pā ana ki te tono:
+(6) Nō te marama o Tihema o te tau 1997, i whakaūtia e te Rūnanga Kāwanatanga te Whakaaetanga o te Mana Kōkiri o Pouakani; mātēnei i whai mana ai ngā kaiwhakarite o Pouakani ki te whitiwhiti kōrero me te Karauna kia taea te whakatau kōrero pūmau, tūturu hoki, kia ea ai ngā tono a Pouakani i roto i ngā tau, ā, kia makere mai hoki ngā mamae e rangona nei e ngātāngata o Pouakani:
+(7) I hainahia Ngā Whakaritenga mō ngā Whitiwhiti Kōrero e ngā kaiwhakarite o te Karauna me te hunga o Pouakani i te 9 o Hune o te tau 1998:
+(8) E whakamihi ana te Karauna i te mea kua 23 tau a John Hanita Paki e mahi ana kia whakatauhia te tono mō Pouakani, me te mea anō, kua pau tana kaha me te wā i ana whitiwhiti kōrero me te Karauna:
+Whakamutunga o ngā Kerēme
+(9) I te 19 o Noema o te tau 1999, i uru atu te Karauna rātou ko ngā tāngata o Pouakani ki tētahi whakataunga whakaaetanga, e whakaae ana te Karauna, nā ngā mahi me ngā pānga mai o ngā Ture Whenua Māori, i pēhi i ngā tāngata o Pouakani i tō rātou rohe. Ko tētahi anō mea o te whakataunga whakaaetanga, e mau ana i a ia ngā kōrero tika e tareka ai he whakataunga e tutuki pū ai ngā tono a Pouakani i roto i ngā tau, me ngā tono e pā ana ki ngā ripa tauārai o Pouakani.
+(1) The Treaty of Waitangi is set out, in Māori and English, in Schedule 1:
 Claim under the Treaty of Waitangi Act 1975
 (2) The Pouakani claim, registered with the Waitangi Tribunal as Wai 33 in 1987, sought compensation for the Pouakani grievances. The claim was lodged by John Hanita Paki on behalf of himself, the trustees, and the beneficial owners of the lands in the Titiraupenga and Pouakani B9B Trusts. The claim was heard between May and October 1989, and the Tribunal issued its report in 1993:
 Findings of the Waitangi Tribunal
 (3) The Tribunal found that—
   (a) in 1889, the boundaries of the 1887 Maraeroa block had not been fixed by the Native Land Court because the requirements of the Native Land Act 1880, under which the order had been made, had not been complied with. The Tribunal concluded, therefore, that the boundary between the Maraeroa and Pouakani blocks as surveyed by Stubbing in 1892, and drawn on ML6406 and on subsequent plans, is correct:
-  (b) significant areas of land, including Pouakani No 1 Block, were acquired by the Crown in payment of survey costs, in addition to the purchase of individual interests, but Maori did not always receive in return a properly surveyed title:
-  (c) in reaching the conclusion that there was nothing illegal or unacceptable in contemporary practice in the transactions on the Maraeroa and Pouakani blocks in the 1880s and 1890s, the Tribunal was still left with a strong sense of Maori grievance and frustration:
-  (d) Maori paid a disproportionate cost for Pakeha settlement, but little provision was made for Maori participation in the suggested benefits of the introduction of capital and settlers. The system of Native Land Court investigation of title and individualisation of interests in land, which could be sold piecemeal, contributed largely to social disruption, dissension over issues of mana and territory, massive debts, costly mistakes in survey boundaries in some cases, and failure to survey in others, and costly litigation:
+  (b) significant areas of land, including Pouakani No 1 Block, were acquired by the Crown in payment of survey costs, in addition to the purchase of individual interests, but Māori did not always receive in return a properly surveyed title:
+  (c) in reaching the conclusion that there was nothing illegal or unacceptable in contemporary practice in the transactions on the Maraeroa and Pouakani blocks in the 1880s and 1890s, the Tribunal was still left with a strong sense of Māori grievance and frustration:
+  (d) Māori paid a disproportionate cost for Pakeha settlement, but little provision was made for Māori participation in the suggested benefits of the introduction of capital and settlers. The system of Native Land Court investigation of title and individualisation of interests in land, which could be sold piecemeal, contributed largely to social disruption, dissension over issues of mana and territory, massive debts, costly mistakes in survey boundaries in some cases, and failure to survey in others, and costly litigation:
   (e) a prima facie case was presented that the Crown acquired excessive amounts of land in payment of survey costs and other charges in the Rohe Potae. The Tribunal also acknowledged that further investigation would be required to determine this matter definitively:
-  (f) because not all the boundaries of the lands in the 1891 Title Orders creating Pouakani B9 (Pureora) and Pouakani C1 (Kaiwha) blocks had been surveyed, those orders would not have been registrable in the Land Transfer Office and registered titles could not have been issued for them. The Native Land Court created fresh boundaries in 1899 when, on the application of the Crown, the Court divided the lands between the Crown and the Maori owners who had not sold. Because not all the boundaries were surveyed, with the passage of time the survey work, for which the owners had paid 343 acres of their land in 1899, became almost valueless. The Crown in general does have an obligation to ensure the completion of surveys of agreed boundaries, and to compensate Maori owners for the deficiencies of the Auckland Survey Office in the 1890s which led the Maori owners of Pouakani B9B block into costly litigation:
-  (g) in past Crown administration of the forest that is now the Pureora Forest Park, there has been inadequate concern for Maori perspectives in the management of a forest which is regarded as a taonga by local tribes:
-Findings of the Maori Land Court
-(4) In 1996, the Maori Land Court issued a decision that the 1891 Native Land Court order regarding the Pouakani/Maraeroa boundary was in contravention of the Native Land Court Acts Amendment Act 1889. The boundary was therefore found by the Maori Land Court to be that contained in the 1889 legislation:
+  (f) because not all the boundaries of the lands in the 1891 Title Orders creating Pouakani B9 (Pureora) and Pouakani C1 (Kaiwha) blocks had been surveyed, those orders would not have been registrable in the Land Transfer Office and registered titles could not have been issued for them. The Native Land Court created fresh boundaries in 1899 when, on the application of the Crown, the court divided the lands between the Crown and the Māori owners who had not sold. Because not all the boundaries were surveyed, with the passage of time the survey work, for which the owners had paid 343 acres of their land in 1899, became almost valueless. The Crown in general does have an obligation to ensure the completion of surveys of agreed boundaries, and to compensate Māori owners for the deficiencies of the Auckland Survey Office in the 1890s which led the Māori owners of Pouakani B9B block into costly litigation:
+  (g) in past Crown administration of the forest that is now the Pureora Forest Park, there has been inadequate concern for Māori perspectives in the management of a forest which is regarded as a taonga by local tribes:
+Findings of the Māori Land Court
+(4) In 1996, the Māori Land Court issued a decision that the 1891 Native Land Court order regarding the Pouakani/Maraeroa boundary was in contravention of the Native Land Court Acts Amendment Act 1889. The boundary was therefore found by the Māori Land Court to be that contained in the 1889 legislation:
 Negotiations between the Pouakani people and the Crown
-(5) After the Maori Land Court decision, which was in favour of Mr Paki and the Pouakani people, the Court adjourned the application sine die to permit the parties to negotiate, or to seek any further orders with regard to the application:
+(5) After the Māori Land Court decision, which was in favour of Mr Paki and the Pouakani people, the court adjourned the application sine die to permit the parties to negotiate, or to seek any further orders with regard to the application:
 (6) In December 1997, Cabinet accepted the Pouakani Deed of Mandate, which authorised the Pouakani negotiators to enter into negotiations with the Crown for a full and final settlement of the Pouakani historical claims and to remove the sense of grievance felt by the Pouakani people:
 (7) The Terms of Negotiations were signed for and on behalf of the Crown and the Pouakani negotiators on 9 June 1998:
 (8) The Crown acknowledges that John Hanita Paki has worked on settling the Pouakani claim for 23 years and that negotiations with the Crown have consumed his energy and time:
 Settlement of claims
-(9) On 19 November 1999, the Crown and the Pouakani people entered into a deed of settlement in which the Crown acknowledged that the operation and impact of the Native Land Laws caused the Pouakani people to suffer prejudice in their rohe and which recorded the matters required to give effect to a full and final settlement of the Pouakani historical claims and the Pouakani boundary claims:
+(9) On 19 November 1999, the Crown and the Pouakani people entered into a deed of settlement in which the Crown acknowledged that the operation and impact of the Native Land Laws caused the Pouakani people to suffer prejudice in their rohe and which recorded the matters required to give effect to a full and final settlement of the Pouakani historical claims and the Pouakani boundary claims.
 
 ### 1 Title
 This Act is the Pouakani Claims Settlement Act 2000.
@@ -66,15 +64,15 @@ This Act binds the Crown.
 ### 5 Acknowledgements and apology
 This Part records the acknowledgements and apology given by the Crown to the Pouakani people in the deed of settlement.
 
-### 6 Text in Maori
-The text of the acknowledgements and apology in Maori is as follows:
-  (1) E rongo ana te Karauna i te mamae o nga tangata o Pouakani i te whakahaere o nga Ture Whenua Maori i roto i to ratou rohe.
-  (2) E whakaae ana a te Karauna i he te mahi me te pa mai o nga Ture Whenua Maori ki nga tangata o Pouakani. Ko enei he, e pa ana ki te ahua o te whakatakoto, o te whakatikatika me te hoko i nga taitara ki o ratou whenua, a, e hangai ana ki—
-    (a) Te Ripa Tauarai Whakateuru o te Poraka Whenua o Pouakani: Ko te whakatoihara i kitea i te whakataunga e te Koti Whenua Maori i te tau 1891, i te ripa tauarai whakateuru o te Poraka o Pouakani. Ko te tukunga iho o tenei, he rahi tonu te whenua i mahue ki waho o te Poraka o Pouakani, ahakoa i whakaurua katoatia i te roherohenga e te Ture Whakarereke i te Koti Whenua Maori 1889.
-    (b) Te He o Nga Ruri: Ko te whakatoihara i pupu ake i te he o ngamahi ruri o nga wahanga o te Poraka o Pouakani. Ko te tukunga iho o enei mahi, ko te riro pokanoa o nga whenua o etahi o nga tangata whai panga, me te kore riro mai o nga taitara o etahi o nga whenua.
-  (3) E whakaae ana te Karauna, na runga i te mea kaore i tiakina e ia ngapanga whenua e hiahiatia ana e nga tangata o Pouakani kia pupuritia, i takahia e ia nga matapono o te Tiriti o Waitangi.
-  (4) E mea ana te Karauna, kaore he arikarika o tona pouri mo tana kore tiaki pai i nga panga whenua i hiahia nei nga tangata kainga kia pupuritia.
-  (5) Ka noho pouri te Karauna mo nga mahi he e whakaaetia ana i mahia, ka mutu, ka whakataungia te take i waenganui i a ia me nga tangata o Pouakani, kia pai ai te ahu atu ki tetahi wa mahi tahi, mahi pai, tetahi ki tetahi.
+### 6 Text in Māori
+The text of the acknowledgements and apology in Māori is as follows:
+  (1) E rongo ana te Karauna i te mamae o ngā tāngata o Pouakani i te whakahaere o ngā Ture Whenua Māori i roto i tō rātou rohe.
+  (2) E whakaae ana a te Karauna i hē te mahi me te pā mai o ngā Ture Whenua Māori ki ngā tāngata o Pouakani. Ko ēnei hē, e pā ana ki te āhua o te whakatakoto, o te whakatikatika me te hoko i ngā taitara ki ō rātou whenua, ā, e hāngai ana ki—
+    (a) Te Ripa Tauārai Whakateuru o te Poraka Whenua o Pouakani: Ko te whakatoihara i kitea i te whakataunga e te Kōti Whenua Māori i te tau 1891, i te ripa tauārai whakateuru o te Poraka o Pouakani. Ko te tukunga iho o tēnei, he rahi tonu te whenua i mahue ki waho o te Poraka o Pouakani, ahakoa i whakaurua katoatia i te roherohenga e te Ture Whakarerekē i te Kōti Whenua Māori 1889.
+    (b) Te Hē o Ngā Rūri: Ko te whakatoihara i pupū ake i te hē o ngāmahi rūri o ngā wāhanga o te Poraka o Pouakani. Ko te tukunga iho o ēnei mahi, ko te riro pokanoa o ngā whenua o ētahi o ngā tāngata whai pānga, me te kore riro mai o ngā taitara o ētahi o ngā whenua.
+  (3) E whakaae ana te Karauna, nā runga i te mea kāore i tiakina e ia ngāpānga whenua e hiahiatia ana e ngā tāngata o Pouakani kia pupuritia, i takahia e ia ngā mātāpono o te Tiriti o Waitangi.
+  (4) E mea ana te Karauna, kāore he ārikarika o tōna pōuri mō tana kore tiaki pai i ngā pānga whenua i hiahia nei ngā tāngata kāinga kia pupuritia.
+  (5) Ka noho pōuri te Karauna mō ngā mahi hē e whakaaetia ana i mahia, ka mutu, ka whakataungia te take i waenganui i a ia me ngā tāngata o Pouakani, kia pai ai te ahu atu ki tētahi wā mahi tahi, mahi pai, tētahi ki tētahi.
 
 ### 7 Text in English
 The text of the acknowledgements and apology in English is as follows:
@@ -94,7 +92,7 @@ It is the intention of Parliament that the provisions of this Act are interprete
 ### 9 Interpretation of terms
 In this Act, unless the context otherwise requires,—
   - **business day** means the period of 9 am to 5 pm on any day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's Birthday, Labour Day, and Waitangi Day; and
+    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Labour Day, and Waitangi Day; and
     (b) a day in the period commencing with 25 December in any year, and ending with the close of 15 January in the following year; and
     (c) the days observed as the anniversaries of the provinces of Wellington and Auckland
   - **chief executive** means the chief executive of Land Information New Zealand
@@ -108,14 +106,14 @@ In this Act, unless the context otherwise requires,—
       (i) the attachments and schedules to the deed of settlement; and
       (ii) any amendments from time to time to the deed or to the attachments or to the schedules
   - **encumbrance** means a lease, licence, permit, easement, access arrangement, consent, or third party right, whether registered or unregistered as at 19 November 1999
-  - **Maori freehold land** has the same meaning as in section 4 of Te Ture Whenua Maori Act 1993
+  - **Māori freehold land** has the same meaning as in section 4 of Te Ture Whenua Maori Act 1993
   - **Minister** means the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Pouakani B9B Trust** —
-    (a) means the trust known by that name created by an order of the Maori Land Court on 4 June 1986 (as substituted by a new trust order made by that Court on 3 December 1991); and
+    (a) means the trust known by that name created by an order of the Māori Land Court on 4 June 1986 (as substituted by a new trust order made by that court on 3 December 1991); and
     (b) includes that trust under any other name
   - **Pouakani Block** means the Pouakani Block, South Auckland Land District
   - **Pouakani boundary claims** has the meaning set out in section 11
-  - **Pouakani claimant** means any of the following
+  - **Pouakani claimant** means any of the following:
     (a) the Pouakani people:
     (b) 1 or more individuals, whanau, marae, or hapu of the Pouakani people:
     (c) the Pouakani governance entity:
@@ -127,10 +125,10 @@ In this Act, unless the context otherwise requires,—
   - **Pouakani Forest** has the same meaning as in clause 5.1 of the deed of settlement
   - **Pouakani governance entity** means the entity to be established under clause 7.5 of the deed of settlement
   - **Pouakani historical claims** has the meaning set out in section 10
-  - **Pouakani people** means all of the individuals who are the descendants, as determined by the Maori Land Court, of the original owners of the Pouakani Block, being—
-    (a) the owners included in Schedule 1 of the deed of settlement, as identified by that Court in a judgment dated 4 August 1891 and recorded in Waikato Minute Book, Volume 27, Folio 177 to 184 inclusive, Volume 28, Folio 2 to 27 and 32 to 34 inclusive; and
-    (b) the descendants included in Schedule 2 of the deed of settlement, as identified by that Court in an order dated 11 May 1959; and
-    (c) any other person accepted by that Court as being a descendant of the original owners of the Pouakani Block
+  - **Pouakani people** means all of the individuals who are the descendants, as determined by the Māori Land Court, of the original owners of the Pouakani Block, being—
+    (a) the owners included in Schedule 1 of the deed of settlement, as identified by that court in a judgment dated 4 August 1891 and recorded in Waikato Minute Book, Volume 27, Folio 177 to 184 inclusive, Volume 28, Folio 2 to 27 and 32 to 34 inclusive; and
+    (b) the descendants included in Schedule 2 of the deed of settlement, as identified by that court in an order dated 11 May 1959; and
+    (c) any other person accepted by that court as being a descendant of the original owners of the Pouakani Block
   - **Pouakani recipient** means the Pouakani governance entity or the Pouakani Claims Trust or the Pouakani B9B Trust, as the case may be,—
     (a) to whom redress is provided, or property is transferred, under the deed of settlement; or
     (b) in whom property is vested under this Act
@@ -171,13 +169,7 @@ In this Act, Pouakani boundary claims means all claims (whether or not researche
 (4) Subsection (3) does not exclude the jurisdiction of a court, judicial body, or tribunal in respect of the interpretation or implementation of the deed of settlement or this Act.
 
 ### 13 Jurisdiction of Waitangi Tribunal to consider claims
-Section 6 of the Treaty of Waitangi Act 1975 is amended by adding the following subsections:
-  (15) Despite anything in this Act or in any other Act or rule of law, on and from the settlement date (as defined in section 9 of the Pouakani Claims Settlement Act 2000), the Tribunal does not have jurisdiction to inquire or further inquire into, or to make any finding or recommendation in respect of,—
-    (a) any or all of the Pouakani boundary claims and the Pouakani historical claims, as defined in section 9 of the Pouakani Claims Settlement Act 2000; or
-    (b) the validity of the deed of settlement, as defined in section 9 of the Pouakani Claims Settlement Act 2000; or
-    (c) the adequacy of the redress provided to the Pouakani governance entity and others under the deed of settlement or the Pouakani Claims Settlement Act 2000; or
-    (d) the Pouakani Claims Settlement Act 2000.
-  (16) Subsection (15) does not exclude the jurisdiction of the Tribunal in respect of the interpretation or implementation of the deed of settlement or the Pouakani Claims Settlement Act 2000.
+[Repealed]
 
 ### 14 Enactments relating to protections for land subject to Pouakani historical claims and Pouakani boundary claims no longer to apply
 (1) Nothing in the enactments listed in subsection (2) applies in relation to any land (other than the land described in subsection (3))—
@@ -255,7 +247,7 @@ The rule against perpetuities or any relevant provisions of the Perpetuities Act
 (1) Despite any enactment or rule of law, the covenant granted under paragraph 3.3 of attachment 5.4 of the deed of settlement—
   (a) must be registered by the Registrar under section 126A of the Property Law Act 1952 if the Registrar receives a copy of that covenant certified by the Minister; and
   (b) whether registered or not, has effect and is enforceable even if the covenant is positive and there is no dominant tenement.
-(2) Despite anything in the Land Transfer Act 1952, even though the covenant granted under paragraph 3.3 of attachment 5.4 of the deed of settlement is in respect of land for which no certificate of title has been issued under that Act,
+(2) Despite anything in the Land Transfer Act 1952, even though the covenant granted under paragraph 3.3 of attachment 5.4 of the deed of settlement is in respect of land for which no certificate of title has been issued under that Act,—
   (a) the Minister may request the Registrar to register the covenant under that Act by constituting it a folium in the register book; and
   (b) the Registrar must register the covenant accordingly.
 
@@ -300,7 +292,7 @@ The permission of a council (within the meaning of Part 21 of the Local Governme
 (2) In this section and in section 30, Block B9B means Pouakani B9B Block (South Auckland Land District).
 
 ### 30 Issue of certificate of title for Block B9B
-(1) The Registrar must issue a certificate of title under the Land Transfer Act 1952 for the fee simple estate in Block B9B in the name of Pouakani B9B Trust as Maori freehold land, the boundaries of which are shown on ML Plan 22432.
+(1) The Registrar must issue a certificate of title under the Land Transfer Act 1952 for the fee simple estate in Block B9B in the name of Pouakani B9B Trust as Māori freehold land, the boundaries of which are shown on ML Plan 22432.
 (2) The certificate of title must be issued as soon as reasonably practicable after the date of vesting under section 31(1)(b), and, in any event, no later than—
   (a) 12 months after the date of vesting under section 31(1)(b); or
   (b) such later date as may be agreed to in writing between the Pouakani governance entity and the Crown.
@@ -319,11 +311,11 @@ The permission of a council (within the meaning of Part 21 of the Local Governme
 ### 31 Stewardship land vested in Pouakani governance entity
 (1) On the settlement date or on the date that the Chief Surveyor approves the plan of the boundaries of the stewardship land, whichever occurs later,—
   (a) the stewardship land ceases to be a conservation area for the purposes of the Conservation Act 1987; and
-  (b) the fee simple estate in the stewardship land is vested in the Pouakani governance entity as Maori freehold land, subject to those encumbrances disclosed by the Crown to the Pouakani Claims Trust under clause 6.5.10(a) of the deed of settlement.
-(2) In this section and in section 32, stewardship land means the land that, on the completion of survey, is comprised in sections 1 and 2 of SO Plan 61501.
+  (b) the fee simple estate in the stewardship land is vested in the Pouakani governance entity as Māori freehold land, subject to those encumbrances disclosed by the Crown to the Pouakani Claims Trust under clause 6.5.10(a) of the deed of settlement.
+(2) In this section and in section 32, stewardship land means the land that, on the completion of survey, is comprised in sections 1 and 2 of S.O. Plan 61501.
 
 ### 32 Issue of certificate of title for stewardship land
-(1) The Registrar must issue a certificate of title under the Land Transfer Act 1952 for the fee simple estate in the stewardship land as Maori freehold land.
+(1) The Registrar must issue a certificate of title under the Land Transfer Act 1952 for the fee simple estate in the stewardship land as Māori freehold land.
 (2) The certificate of title must be issued as soon as reasonably practicable after the date of vesting under section 31(1)(b), and, in any event, no later than—
   (a) 12 months after the date of vesting under section 31(1)(b); or
   (b) such later date as may be agreed to in writing between the Pouakani governance entity and the Crown.
@@ -388,7 +380,7 @@ From the effective date, and without derogating from its obligations under Part 
 (2) In this section, archaeological site has the same meaning as in section 2 of the Historic Places Act 1993.
 
 ### 41 Use of statutory acknowledgement with submissions
-(1) The Pouakani governance entity and any member of the Pouakani people may, as evidence of the Pouakani people's association with the Crown-owned area of Titiraupenga, cite the statutory acknowledgement in submissions to, and in proceedings before, a consent authority, the Environment Court, or the Historic Places Trust concerning activities within, adjacent to, or impacting directly on the Crown-owned area of Titiraupenga.
+(1) The Pouakani governance entity and any member of the Pouakani people may, as evidence of the Pouakani people’s association with the Crown-owned area of Titiraupenga, cite the statutory acknowledgement in submissions to, and in proceedings before, a consent authority, the Environment Court, or the Historic Places Trust concerning activities within, adjacent to, or impacting directly on the Crown-owned area of Titiraupenga.
 (2) The content of the statement of association, as recorded in the statutory acknowledgement, is not, by virtue of the statutory acknowledgement, binding as deemed fact on—
   (a) consent authorities; and
   (b) the Environment Court; and
@@ -398,7 +390,7 @@ From the effective date, and without derogating from its obligations under Part 
 (3) Despite subsection (2) the statutory acknowledgement may be taken into account by the bodies and persons specified in that subsection.
 (4) Subsections (2) and (3) are for the avoidance of doubt.
 (5) Neither the Pouakani governance entity nor any member of the Pouakani people is precluded from stating that the Pouakani people have an association with the Crown-owned area of Titiraupenga that is not described in the statutory acknowledgement.
-(6) The content and existence of the statutory acknowledgement do not derogate from a statement made under subsection
+(6) The content and existence of the statutory acknowledgement do not derogate from a statement made under subsection (5).
 
 ### 42 Recording of statutory acknowledgement on statutory plans
 (1) Local authorities with jurisdiction in respect of the Crown-owned area of Titiraupenga must attach information recording the statutory acknowledgement to—
@@ -428,8 +420,8 @@ From the effective date, and without derogating from its obligations under Part 
 
 ### 45 Memorandum of understanding subject to Crown obligations
 The memorandum of understanding and any amendments to it are entered into subject to, and without restriction on,—
-  (a) the obligations of the Minister of Conservation, the Director-General of Conservation, and the Department of Conservation to discharge their respective powers, duties, and functions in accordance with existing law and Government policy from time to time; and
-  (b) the Crown's powers to amend policy and to introduce legislation amending existing law.
+  (a) the obligations of the Minister of Conservation, the Director-General of Conservation, and the Department of Conservation to discharge their respective powers, duties, and functions in accordance with existing law and government policy from time to time; and
+  (b) the Crown’s powers to amend policy and to introduce legislation amending existing law.
 
 ### 46 Enforceability of memorandum of understanding
 (1) The Minister of Conservation must comply with the memorandum of understanding as long as it remains in force.
@@ -445,7 +437,7 @@ The memorandum of understanding and any amendments to it are entered into subjec
 ### 48 Exercise of powers, duties, and functions
 Except as expressly provided in sections 36 and 38 to 41,—
   (a) neither the statutory acknowledgement nor the statement of joint aspirations affects, or may be taken into account in, the exercise of a power, duty, or function by a person or entity under a statute, regulation, or bylaw; and
-  (b) without limiting paragraph (a), no person or entity, in considering a matter or making a decision or recommendation under a statute, regulation, or bylaw, may give greater or lesser weight to the Pouakani people's association with the Crown-owned area of Titiraupenga or aspirations for Titiraupenga (as described in the statutory acknowledgement or the statement of joint aspirations, as the case may be) than that person or entity would give under the relevant statute, regulation, or bylaw if—
+  (b) without limiting paragraph (a), no person or entity, in considering a matter or making a decision or recommendation under a statute, regulation, or bylaw, may give greater or lesser weight to the Pouakani people’s association with the Crown-owned area of Titiraupenga or aspirations for Titiraupenga (as described in the statutory acknowledgement or the statement of joint aspirations, as the case may be) than that person or entity would give under the relevant statute, regulation, or bylaw if—
     (i) no statutory acknowledgement existed in respect of the Crown-owned area of Titiraupenga; and
     (ii) no statement of joint aspirations existed in respect of Titiraupenga.
 
@@ -458,10 +450,48 @@ Except as expressly provided in sections 34 to 49, the statutory acknowledgement
 **Amendment to Resource Management Act 1991**
 
 ### 51 Amendment to Resource Management Act 1991
-Schedule 11 of the Resource Management Act 1991 is amended by adding the following item:Pouakani Claims Settlement Act 2000.
+Amendment(s) incorporated in the Act(s).
 
-## Schedule 1
+## Schedule 1 — The Treaty of Waitangi
+
+| (Signed) William Hobson,Consul and Lieutenant-Governor. |
+| --- |
+
+| Ko ngā Rangatira o te wakaminenga. |
+| --- |
 
 ## Schedule 2 — Statement of joint aspirations for Titiraupenga
 
 ## Schedule 3 — Statutory acknowledgement for the Crown-owned area of Titiraupenga
+
+| TITIRAUPENGA |
+| --- |
+| TĒNEI TAKU MANU |
+| KA EKE KI TE TAUMATA |
+| O TŌKU MAUNGA TAPU TITIRAUPENGA |
+| TITIRO ARORANGI ATU |
+| KI A PUREORA E TU MAI RĀ |
+| EEEEE! |
+| KEI RARO RĀ |
+| KO TE HORA-ARUHE |
+| KI TE POU-A-KANI |
+| TIHEI MAURI ORA |
+| TITIRAUPENGA |
+| MY BIRD |
+| THAT SOARS TO THE SUMMITS |
+| OF MY SACRED MOUNTAIN TITIRAUPENGA |
+| AND SURVEYS |
+| PUREORA THAT STANDS MAJESTIC |
+| EEEEE! |
+| OVERLOOKING |
+| THE ANCESTRAL GARDENS AND THE CELESTIAL |
+| DECLARATION OF MINE (TE POU A KANI) |
+| TIHEI MAURI ORA |
+
+| MA TE MEA NGARO |
+| --- |
+| TATAU E TIAKI MANAKI |
+| NA TO KOUTOU MOKAI TAMAITI |
+| LET THE DIVINE ONE |
+| PROTECT AND GUIDE US ALL |
+| FROM YOUR MOKAI – TAMAITI |
