@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2008-05-29_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -134,6 +134,7 @@ This Act is the KiwiSaver Act 2006.
   - **salary or wages** , in relation to any person, means salary or wages as defined in section RD 5(1)(a) to (c) of the Income Tax Act 2007 (whether the salary or wages are primary or secondary employment earnings) except that, in this Act,—
     (a) it excludes—
       (i) salary or wages described in sections RD 5(4), (6)(b), and (6)(c) and RD 68 of the Income Tax Act 2007; and
+      (ib) allowances paid in place of a benefit under section CE 1(c) of that Act; and
       (ii) payments that are income under section CF (1)(b) to (e), (g), or (h) of that Act; and
       (iii) expenditure on account of an employee and allowances calculated by reference to reasonable actual costs, if the expenditure or allowances are for accommodation overseas or other costs of living overseas; and
       (iv) for the purposes of contributions to complying superannuation funds, bonuses, commissions, and other amounts not included in an employee's gross base salary or wages by the relevant complying superannuation fund; and
