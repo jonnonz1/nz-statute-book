@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2008-05-29_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -892,7 +892,7 @@ A person who meets the requirements of section 15T may apply under section 15S t
 (1C) For the purpose of subsection (1B) and sections 143(2) and 143A(2)—
   (a) in determining whether a non-resident is controlled by a New Zealand resident—
     (i) anything held by a person who is resident in New Zealand, or is a controlled foreign company, and is associated with the New Zealand resident is treated as being held by the New Zealand resident; and
-    (ii) a person is treated as being associated with the New Zealand resident if the person and the New Zealand resident are associated under subpart YB of the Income Tax Act 2007 (to the extent to which those rules apply for the whole of that Act excluding the 1973, 1988, and 1990 version provisions), interpreted as if “relative” had the meaning set out in paragraph (b) of the definition in section YA 1, or the rules for the 1988 version provisions of that Act; and
+    (ii) a person is treated as being associated with the New Zealand resident if the person and the New Zealand resident are associated under subpart YB of the Income Tax Act 2007 (to the extent to which those rules apply for the whole of that Act excluding the 1973, 1988, and 1990 version provisions), interpreted as if “relative? had the meaning set out in paragraph (b) of the definition in section YA 1, or the rules for the 1988 version provisions of that Act; and
   (b) a law of a foreign country that relates to the secrecy of information must be ignored.
 (1D) If information in writing is required, or books and documents must be produced, the Commissioner may require that the information be furnished, or the books and documents be produced, to a particular office of the Department.
 (2) Without limiting subsection (1), the information in writing which may be required under this section shall include lists of shareholders of companies, with the amount of capital contributed by and dividends paid to each shareholder, copies of balance sheets and of profit and loss accounts and other accounts, and statements of assets and liabilities.
@@ -1504,6 +1504,7 @@ A share user under a share-lending arrangement who pays a replacement payment to
   (a) by the 30 June after the end of the tax year, if paragraph (b) does not apply; or
   (b) by the end of the second month following the month in which the corresponding income year for the portfolio tax rate entity ends, if the corresponding income year ends after the tax year.
 (4) A portfolio tax rate entity must at least once in each tax year give a notice to an investor in the entity requesting that the investor provide the entity with the investor's prescribed investor rate.
+(5) A portfolio tax rate entity must, as soon as practicable after an investor joins, give a notice to the investor requesting that the investor provide the entity with the investor's tax file number.
 
 ### 32 Records of specified charitable, benevolent, philanthropic, or cultural bodies
 (1) All gift-exempt bodies must keep in New Zealand sufficient records in the English language to enable the Commissioner to determine both the sources of donations made to them and the application, within New Zealand or within a country or territory outside New Zealand, of their funds.
@@ -1692,16 +1693,22 @@ For the purposes of section 32E(2)(i), when the person is part of a group of com
     (ii) income that is subject to the PAYE rules and to a student loan repayment deduction under sections 19 and 20 of the Student Loan Scheme Act 1992, in relation to which the person's obligations under those rules are not met; and
     (iii) Income from employment from which the earner premium or earner levy is not withheld or deducted correctly; and
     (iv) interest or a dividend that is resident passive income to which section RE 3(1)(c) of the Income Tax Act 2007 applies (other than interest for which an RWT withholding certificate did not have to be prepared under section 25(7)), from which RWT has been withheld at a rate other than that specified in—
-      (A) schedule 1, part D, table 1, row 3 of the Income Tax Act 2007 if that person’s annual gross income is more than $38,000 but not more than $60,000; or
-      (B) schedule 1, part D, table 1, row 4 or 5 of the Income Tax Act 2007 if that person’s annual gross income is more than $60,000; and
+      (AA) schedule 1, part D, table 2, row 1, 2 or 3 of the Income Tax Act 2007 if that person's annual gross income is more than $38,000 but not more than $40,000; or
+      (A) schedule 1, part D, table 2, row 3 of the Income Tax Act 2007 if that person’s annual gross income is more than $40,000 but not more than $60,000; or
+      (BA) schedule 1, part D, table 2, row 3, 4, or 5 of the Income Tax Act 2007 if that person's annual gross income is more than $60,000 but not more than $70,000; or
+      (B) schedule 1, part D, table 2, row 4 or 5 of the Income Tax Act 2007 if that person’s annual gross income is more than $70,000; and
     (v) Income from employment being extra emoluments from which tax has been withheld at a rate other than that specified in—
-      (A) schedule 2, part B, table 1, row 2 of the Income Tax Act 2007 if that person's annual gross income is more than $38,000 but not more than $60,000; or
-      (B) schedule 2, part B, table 1, row 3 of the Income Tax Act 2007 if that person's annual gross income is more than $60,000; and
+      (AA) schedule 2, part B, table 1, row 1 or 2 of the Income Tax Act 2007 if that person's annual gross income is more than $38,000 but not more than $40,000; or
+      (A) schedule 2, part B, table 1, row 2 of the Income Tax Act 2007 if that person's annual gross income is more than $40,000 but not more than $60,000; or
+      (BA) schedule 2, part B, table 1, row 2 or 3 of the Income Tax Act 2007 if that person's annual gross income is more than $60,000 but not more than $70,000; or
+      (B) schedule 2, part B, table 1, row 3 of the Income Tax Act 2007 if that person's annual gross income is more than $70,000; and
     (vi) Income from employment being secondary employment earnings from which tax has been withheld at a rate other than that specified in—
-      (A) schedule 2, part A, clause 5 of the Income Tax Act 2007 if that person's annual gross income is more than $38,000 but not more than $60,000; or
-      (B) schedule 2, part A, clause 6 of the Income Tax Act 2007 if that person's annual gross income is more than $60,000; and
-    (via) Dividends if that person's annual gross income is more than $60,000; and
-    (vib) taxable Maori authority distributions if the person's annual gross income is more than $38,000; and
+      (AA) schedule 2, part A, clause 4 or 5 of the Income Tax Act 2007 if that person's annual gross income is more than $38,000 but not more than $40,000; or
+      (A) schedule 2, part A, clause 5 of the Income Tax Act 2007 if that person's annual gross income is more than $40,000 but not more than $60,000; or
+      (BA) schedule 2, part A, clause 5 or 6 of the Income Tax Act 2007 if that person's annual gross income is more than $60,000 but not more than $70,000; or
+      (B) schedule 2, part A, clause 6 of the Income Tax Act 2007 if that person's annual gross income is more than $70,000; and
+    (via) Dividends if that person's annual gross income is more than $70,000; and
+    (vib) taxable Maori authority distributions if the person's annual gross income is more than $40,000; and
     (vii) interest, dividends, or taxable Maori authority distributions, if the person is required to pay financial support in the tax year under the Child Support Act 1991; and
     (viii) interest, dividends, or taxable Maori authority distributions, if the person has an IRD loan balance (as defined in section 2 of the Student Loan Scheme Act 1992), other than a balance of nil on the last day of the tax year, and income that is more than the student loan repayment threshold (as defined in section 2 of the Student Loan Scheme Act 1992) for that tax year; and
     (ix) Salary or wages from employment as an election day worker, if the worker has used the EDW tax code; and
