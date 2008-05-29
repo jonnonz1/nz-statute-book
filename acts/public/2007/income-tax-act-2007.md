@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2008-05-29_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -24062,42 +24062,10 @@ When contribution is taxable Maori authority distribution
 **Tax credits for persons on low incomes**
 
 ### LC 1 When net income under low income amount
-When this section applies
-(1) This section applies to a natural person who is not an absentee and whose net income for a tax year is equal to or less than the low income amount set out in schedule 1, part B (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
-New Zealand superannuation and veteran’s pensions
-(2) A New Zealand superannuitant or a person receiving a veteran’s pension has a tax credit equal to an amount calculated using the formula—person’s net income × 0.045.
-Other persons
-(3) A person who is not a New Zealand superannuitant or a person receiving a veteran’s pension has a tax credit equal to an amount calculated using the formula—(person’s net income − (total assessable income − total deductions)) × 0.045.
-Definition of items in formulas
-(4) In the formulas in subsections (2) and (3),—
-  (a) person’s net income is the person’s net income for the tax year in complete dollars:
-  (b) total assessable income is the total amount of the person’s assessable income that consists of interest, dividends, royalties, rents, beneficiary income, taxable distributions under sections HC 17 to HC 23 (which relate to income of beneficiaries), and taxable Maori authority distributions allocated to the tax year referred to in paragraph (a):
-  (c) total deductions is the total amount of deductions—
-    (i) allowed for expenditure incurred in deriving the person’s assessable income as described in paragraph (b) to the extent to which it is no more than the amount of the assessable income; and
-    (ii) allocated to the tax year referred to in paragraph (a).
+[Repealed]
 
 ### LC 2 When net income in low income abatement range
-When this section applies
-(1) This section applies to a natural person who is not an absentee and whose net income for a tax year is in the low income abatement range set out in schedule 1, part B (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
-New Zealand superannuation and veteran’s pensions
-(2) A New Zealand superannuitant or a person receiving a veteran’s pension has a tax credit equal to an amount calculated using the formula—$427.50 − ((person’s net income − $9,500) × 0.015).
-Other persons
-(3) A person who is not a New Zealand superannuitant or a person receiving a veteran’s pension has a tax credit equal to an amount calculated using the formula—regulated amount − ((person’s net income − $9,500) × 0.015).
-Definition of items in formulas in subsections (2) and (3)
-(4) In the formulas in subsections (2) and (3),—
-  (a) person’s net income is the person’s net income for the tax year in complete dollars:
-  (b) regulated amount is the lesser of—
-    (i) $427.50; and
-    (ii) an amount calculated using the formula in subsection (5) in complete dollars.
-Formula
-(5) The formula referred to in subsection (4)(a)(ii) is—(person’s net income − (total assessable income − total deductions)) × 0.045.
-Definition of items in formula
-(6) In the formula in subsection (5),—
-  (a) person’s net income is the person’s net income for the tax year in complete dollars:
-  (b) total assessable income is the total amount of the person’s assessable income that consists of interest, dividends, royalties, rents, beneficiary income, taxable distributions under sections HC 17 to HC 23 (which relate to income of beneficiaries), and taxable Maori authority distributions allocated to the tax year referred to in paragraph (a):
-  (c) total deductions is the total amount of deductions—
-    (i) allowed for expenditure incurred in deriving the person’s assessable income as described in paragraph (b) to the extent to which it is no more than the amount of the assessable income; and
-    (ii) allocated to the tax year referred to in paragraph (a).
+[Repealed]
 
 **Tax credits for children**
 
@@ -24117,10 +24085,10 @@ Exclusion
 (2) Despite subsection (1), if the person has a tax credit under section LC 4, they are not allowed a credit under this section.
 Amount of credit
 (3) The person has a tax credit equal to an amount that is the lesser of—
-  (a) $351; and
+  (a) $321.75; and
   (b) an amount calculated using the formula in subsection (4).
 Formula
-(4) The formula referred to in subsection (3)(b) is—
+(4) The formula referred to in subsection (3)(b) is—(net income resident passive − income) ×13.75100.
 Definition of items in formula
 (5) In the formula,—
   (a) net income is the person’s net income for the tax year:
@@ -24227,7 +24195,7 @@ For the purposes of sections LC 6 and LC 7,—
 When this section applies
 (1) This section applies when—
   (a) an absentee has derived assessable income from their personal services while they are personally present in New Zealand in a tax year; and
-  (b) the absentee would have a tax credit under any of sections LC 2 to LC 6 if they were not an absentee.
+  (b) the absentee would have a tax credit under any of sections LC 3 to LC 6 if they were not an absentee.
 Amount of tax credit under applicable section
 (2) The absentee has a tax credit under the applicable section equal to an amount calculated using the formula—
 Definition of items in formula
@@ -24248,13 +24216,13 @@ Adjustment
 (2) The amount of the total tax credits that the person has under this subpart is adjusted using the formula—
 Definition of items in formula
 (3) In the formula,—
-  (a) person’s total credits is the total of the person’s tax credits under sections LC 1 to LC 6:
+  (a) person’s total credits is the total of the person’s tax credits under sections LC 3 to LC 6:
   (b) days is the number of days in the period in relation to which the person provides the return.
 
 ### LC 11 Adjustment when person is non-resident for part of tax year
 When this section applies
 (1) This section applies—
-  (a) for the purposes of sections LC 1, LC 2, and LC 4; and
+  (a) for the purposes of section LC 4; and
   (b) when a person is a non-resident for part of a tax year.
 Amount of tax credit under applicable section
 (2) The person’s tax credit under the applicable section is calculated—
@@ -24276,7 +24244,7 @@ Relationship with section LC 12
 ### LC 12 Assessment when person is non-resident
 When this section applies
 (1) This section applies—
-  (a) for the purposes of sections LC 1, LC 2, and LC 4; and
+  (a) for the purposes of section LC 4; and
   (b) when a person derives for a tax year assessable income from New Zealand during the part of the tax year when the person is a non-resident.
 Determination of net income
 (2) The Commissioner may determine the amount of the net income of the person for the tax year.
@@ -24284,7 +24252,7 @@ Fairness of determination
 (3) A determination under subsection (2) must be fair, having regard to—
   (a) the kind of assessable income derived by the person; and
   (b) the circumstances in which the assessable income is derived; and
-  (c) any other matters the Commissioner considers relevant to the intended meaning of section LC 1, LC 2, or LC 4, as applicable.
+  (c) any other matters the Commissioner considers relevant to the intended meaning of section LC 4, as applicable.
 
 ### Subpart LD — Tax credits for charitable or other public benefit gifts
 
@@ -25365,7 +25333,7 @@ When this section applies
   (a) a non-resident; or
   (b) a supplementary dividend holding company that is not part of the same consolidated group as the company.
 Amount of credit
-(2) For the year of payment, the company has a tax credit equal to an amount calculated using the formula—attached imputation credit ×710.
+(2) For the year of payment, the company has a tax credit equal to an amount calculated using the formula—attached imputation credit ×717.
 Definition of item in formula
 (3) In the formula, attached imputation credit is the imputation credit that would, in the absence of this subpart, be attached to the dividend.
 Limitation on use of credit
@@ -26022,13 +25990,13 @@ Definition of items in formula
 Prescribed amount
 (4) Prescribed amount is the sum of the following amounts:
   (a) for the eldest dependent child for whom the person is a principal caregiver during the entitlement period, 1 of the following, as applicable:
-    (i) $4,264, if the child is younger than 16:
-    (ii) $4,940, if the child is 16 or older:
+    (i) $4,376, if the child is younger than 16:
+    (ii) $5,069, if the child is 16 or older:
     (iii) a weighted average of the amounts in subparagraphs (i) and (ii) that reflects the proportion of the period for which those subparagraphs apply to the child, if the child turns 16 during the entitlement period; and
   (b) for each dependent child for whom the person is a principal caregiver during the entitlement period, other than the eldest dependent child, 1 of the following, as applicable:
-    (i) $2,964, if the child is younger than 13:
-    (ii) $3,380, if the child is 13, 14, or 15:
-    (iii) $4,420, if the child is 16 or older:
+    (i) $3,042, if the child is younger than 13:
+    (ii) $3,469, if the child is 13, 14, or 15:
+    (iii) $4,536, if the child is 16 or older:
     (iv) a weighted average of the amounts in subparagraphs (i) and (ii) that reflects the proportion of the period for which those subparagraphs apply to the child, if the child turns 13 during the entitlement period:
     (v) a weighted average of the amounts in subparagraphs (ii) and (iii) that reflects the proportion of the entitlement period for which those subparagraphs apply to the child, if the child turns 16 during the entitlement period.
 Days
@@ -26163,8 +26131,8 @@ Formula
 Definition of items in formula
 (3) In the formula,—
   (a) full-year abatement is,—
-    (i) if the person has no spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income for the relationship period containing the entitlement period is more than $35,000, 20 cents for each complete dollar of the excess; or
-    (ii) if the person has a spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for the relationship period containing the entitlement period is more than $35,000, 20 cents for each complete dollar of the excess:
+    (i) if the person has no spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income for the relationship period containing the entitlement period is more than $35,914, 20 cents for each complete dollar of the excess; or
+    (ii) if the person has a spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for the relationship period containing the entitlement period is more than $35,914, 20 cents for each complete dollar of the excess:
   (b) days is the number of days in the entitlement period excluding the days of any calendar months in which the person receives protected family tax credit as described in section MD 14.
 When 56-day period includes 31 March
 (4) If a person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?) receives fortnightly instalments of the parental tax credit in a 56-day period that includes 31 March, the formula is applied so that—
@@ -26255,8 +26223,8 @@ Definition of items in formula
     (ii) calculated without reference to the amounts referred to in section MB 1(2) and (3):
   (b) weeks is the number of weeks in the relationship period for which the person is a full-time earner:
   (c) adjusted liability is the amount that would be the person's income tax liability—
-    (i) treating the amount of adjusted income under paragraph (a) as if it were the person's net income; and
-    (ii) taking into account any tax credit under section LC 1 or LC 2 (which relate to tax credits for persons on low incomes):
+    (i) treating the amount of adjusted income under paragraph (a) as if it were the person's net income:
+    (ii)
   (d) amount received is the amount referred to in section MB 1(2) for the tax year:
   (e) amount paid is the amount of the deduction referred to in section MB 1(3) for the tax year.
 
@@ -26310,6 +26278,82 @@ How to calculate instalment
 Instalment shown in complete dollars
 (2) An instalment of a tax credit under section MD 1 or, as applicable, sections MD 1 and ME 1, is to be shown in a notice of entitlement in complete dollars.
 
+### MF 4B Calculation of instalments: 1 April 2008 to 30 September 2008
+When this section applies
+(1) This section applies for calculating the amount of an instalment by way of tax credit under section MD 1, or as applicable, sections MD 1 and ME 1 for the period starting on 1 April 2008 and finishing on 30 September 2008.
+Family tax credit formula: section MD 3
+(2) The instalments for the relevant tax credit are calculated using, for the calculation of the family tax credit, the following formula:prescribed amount ×days365.
+Definition of items in formula
+(3) The items in the formula are defined in subsections (4) and (5).
+Prescribed amount
+(4) Prescribed amount is the sum of the following amounts:
+  (a) for the eldest dependent child for whom the person is a principal caregiver during the entitlement period, 1 of the following, as applicable:
+    (i) $4,264, if the child is younger than 16:
+    (ii) $4,940, if the child is 16 or older:
+    (iii) a weighted average of the amounts in subparagraphs (i) and (ii) that reflects the proportion of the period for which those subparagraphs apply to the child, if the child turns 16 during the entitlement period; and
+  (b) for each dependent child for whom the person is a principal caregiver during the entitlement period, other than the eldest dependent child, 1 of the following, as applicable:
+    (i) $2,964, if the child is younger than 13:
+    (ii) $3,380, if the child is 13, 14, or 15:
+    (iii) $4,420, if the child is 16 or older:
+    (iv) a weighted average of the amounts in subparagraphs (i) and (ii) that reflects the proportion of the period for which those subparagraphs apply to the child, if the child turns 13 during the entitlement period:
+    (v) a weighted average of the amounts in subparagraphs (ii) and (iii) that reflects the proportion of the entitlement period for which those subparagraphs apply to the child, if the child turns 16 during the entitlement period.
+Days
+(5) Days is the number of days in the entitlement period.
+When another person cares for dependent child
+(6) A family tax credit must be reduced in proportion to the time in the entitlement period that a dependent child spends in the exclusive care of another person who qualifies under section MC 2.
+Family credit abatement formula: section MD 13
+(7) The instalments for the relevant tax credit are calculated using, for the calculation of the family credit abatement, the following formula:full-year abatement ×days365.
+Definition of items in formula
+(8) In the formula,—
+  (a) full-year abatement is,—
+    (i) if the person has no spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income for the relationship period containing the entitlement period is more than $35,000, 20 cents for each complete dollar of the excess; or
+    (ii) if the person has a spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for the relationship period containing the entitlement period is more than $35,000, 20 cents for each complete dollar of the excess:
+  (b) days is the number of days in the entitlement period excluding the days of any calendar months in which the person receives protected family tax credit as described in section MD 14.
+When 56-day period includes 31 March
+(9) If a person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?) receives instalments of the parental tax credit in a 56-day period that includes 31 March, the formula is applied so that—
+  (a) instalments of the parental tax credit received in the first tax year are abated against the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for that tax year; and
+  (b) instalments of the parental tax credit received in the second tax year are abated against the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for that tax year.
+Relationship with subject matter
+(10) Sections MD 14 to MD 16, with necessary modifications, apply to the calculation of the family credit abatement in subsection (7).
+
+### MF 4C Calculation of instalments: 1 October 2008 to 31 March 2009
+When this section applies
+(1) This section applies for calculating the amount of an instalment by way of tax credit under section MD 1, or as applicable, sections MD 1 and ME 1 for the period starting on 1 October 2008 and finishing on 31 March 2009.
+Family tax credit formula: section MD 3
+(2) The instalments for the relevant tax credit are calculated using, for the calculation of the family tax credit, the following formula:prescribed amount ×days365.
+Definition of items in formula
+(3) The items in the formula are defined in subsections (4) and (5).
+Prescribed amount
+(4) Prescribed amount is the sum of the following amounts:
+  (a) for the eldest dependent child for whom the person is a principal caregiver during the entitlement period, 1 of the following, as applicable:
+    (i) $4,487, if the child is younger than 16:
+    (ii) $5,198, if the child is 16 or older:
+    (iii) a weighted average of the amounts in subparagraphs (i) and (ii) that reflects the proportion of the period for which those subparagraphs apply to the child, if the child turns 16 during the entitlement period; and
+  (b) for each dependent child for whom the person is a principal caregiver during the entitlement period, other than the eldest dependent child, 1 of the following, as applicable:
+    (i) $3,119, if the child is younger than 13:
+    (ii) $3,557, if the child is 13, 14, or 15:
+    (iii) $4,651, if the child is 16 or older:
+    (iv) a weighted average of the amounts in subparagraphs (i) and (ii) that reflects the proportion of the period for which those subparagraphs apply to the child, if the child turns 13 during the entitlement period:
+    (v) a weighted average of the amounts in subparagraphs (ii) and (iii) that reflects the proportion of the entitlement period for which those subparagraphs apply to the child, if the child turns 16 during the entitlement period.
+Days
+(5) Days is the number of days in the entitlement period.
+When another person cares for dependent child
+(6) A family tax credit must be reduced in proportion to the time in the entitlement period that a dependent child spends in the exclusive care of another person who qualifies under section MC 2.
+Family credit abatement formula: section MD 13
+(7) The instalments for the relevant tax credit are calculated using, for the calculation of the family credit abatement, the following formula:full-year abatement ×days365.
+Definition of items in formula
+(8) In the formula,—
+  (a) full-year abatement is,—
+    (i) if the person has no spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income for the relationship period containing the entitlement period is more than $36,827, 20 cents for each complete dollar of the excess; or
+    (ii) if the person has a spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for the relationship period containing the entitlement period is more than $36,827, 20 cents for each complete dollar of the excess:
+  (b) days is the number of days in the entitlement period excluding the days of any calendar months in which the person receives protected family tax credit as described in section MD 14.
+When 56-day period includes 31 March
+(9) If a person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?) receives instalments of the parental tax credit in a 56-day period that includes 31 March, the formula is applied so that—
+  (a) instalments of the parental tax credit received in the first tax year are abated against the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for that tax year; and
+  (b) instalments of the parental tax credit received in the second tax year are abated against the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for that tax year.
+Relationship with subject matter
+(10) Sections MD 14 to MD 16, with necessary modifications, apply to the calculation of the family credit abatement in subsection (7).
+
 ### MF 5 Recovery of overpaid tax credit
 When this section applies
 (1) This section applies when the Commissioner considers that the amount of a tax credit under section MD 1 (Abating WFF tax credit) or ME 1 (Minimum family tax credit) set off or refunded to a person for a tax year is more than the proper amount.
@@ -26348,7 +26392,7 @@ What may be done by Order in Council
   (e) replace schedule 31 (Annualised equivalent amount for Part M).
 Order in Council under subsection (1)(a): requirements
 (2) An Order in Council under subsection (1)(a),—
-  (a) in the case of the first Order in Council made under subsection (1)(a), must be made when the total percentage increase in the movements in the quarterly all groups index number of the New Zealand Consumers Price Index measured from that applying on 1 April 2007 is 5% or more:
+  (a) in the case of the first Order in Council made under subsection (1)(a), must be made when the total percentage increase in the movements in the quarterly all groups index number of the New Zealand Consumers Price Index measured from that applying on 1 October 2008 is 5% or more:
   (b) in the case of a subsequent Order in Council under subsection (1)(a), must be made when the total percentage increase in the movements in the quarterly all groups index number of the New Zealand Consumers Price Index measured from that applying on the date when the requirement to make the immediately preceding adjustment arose is 5% or more.
 Timing of Order in Council
 (3) An Order in Council made under this section must be made no later than 1 December in each year and must apply from 1 April following that date.
@@ -26903,7 +26947,7 @@ When this section applies
 Maximum permitted ratio
 (2) A dividend or distribution with a credit attached must not have a ratio for the amount of the credit to the amount of the dividend or distribution that is more than the maximum permitted ratio calculated using the formula—
 Definition of item in formula
-(3) In the formula, tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the income year corresponding to the tax year in which the dividend or distribution is paid.
+(3) In the formula, tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the income year in which the dividend or distribution is paid.
 Relationship with sections OZ 8 and OZ 9
 (4) Sections OZ 8 and OZ 9 (which relate to the calculation of maximum permitted ratios in certain income years) may apply to modify this section.
 
@@ -31477,9 +31521,9 @@ When this section applies
   (ii) the imputation ratio is greater than 30/70 and less than or equal to 33/67; and
   (c) section LP 2(1) (Tax credits for supplementary dividends) applies to the company, or the company is a supplementary dividend holding company.
 When ratio equal to old rate
-(2) For a ratio described in subsection (1)(b)(i) or (ii) that is equal to 33/67, then any tax credit that the company has is calculated using the formula in section LP 2(2), treating 7/10 as 67/120.
+(2) For a ratio described in subsection (1)(b)(i) or (ii) that is equal to 33/67, then any tax credit that the company has is calculated using the formula in section LP 2(2), treating 7/17 as 67/187.
 When ratio less than old rate
-(3) For a ratio described in subsection (1)(b)(i) or (ii) that is less than 33/67, then, to the extent to which a part of the amount of the dividend and imputation credit has a ratio of 33/67 through the application of section OZ 8, any tax credit that the company has is calculated using the formula in section LP 2(2), treating 7/10 as 67/120.
+(3) For a ratio described in subsection (1)(b)(i) or (ii) that is less than 33/67, then, to the extent to which a part of the amount of the dividend and imputation credit has a ratio of 33/67 through the application of section OZ 8, any tax credit that the company has is calculated using the formula in section LP 2(2), treating 7/17 as 67/187.
 Benchmark calculations
 (4) In the application of sections GB 35, GB 36, OA 18, OB 60, OB 61, OC 28 (which relate to imputation and FDP credit ratios) under section LP 5 (Application of benchmark dividend rules and imputation credit ratio), the provisions apply using the ratio 33/67 and the old company tax rates.
 Relationship with exempt income rules
@@ -31656,7 +31700,7 @@ Overpayment through payee’s act or omission
 When payment due
 (1) A person must pay their terminal tax for a tax year by—
   (a) the 7th day of the month in schedule 3, part A, column G or H (Payment of provisional tax and terminal tax) for the person’s corresponding income year, unless paragraph (b) applies; and
-  (b) the 15th day of January, if December is the month in schedule 3, part A, column G or H, for the person’s corresponding income year.
+  (b) the 15th day of January, if January is the month in schedule 3, part A, column G or H, for the person’s corresponding income year.
 Columns G and H
 (2) For the purposes of subsection (1), the month in schedule 3, part A, column G or H, for the person’s corresponding income year is—
   (a) the month in column H, if—
@@ -33239,7 +33283,7 @@ Definition of items in formula for major shareholder
     (i) a dividend and interest derived by the employee from their employer; and
     (ii) a dividend and interest derived by the employee from a related employer:
   (b) tax on cash pay is the tax on the cash pay of the employee calculated using the basic rate of income tax set out in schedule 1, part A, clause 1 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits),—
-    (i) treating the cash pay as if it were the only taxable income of the employee; and
+    (i) treating the cash pay as if it were the only taxable income of the employee, and section RD 51(3)(b)(ii) is repealed.
     (ii) taking into account a tax credit under sections LC 1 and LC 2 (which relate to tax credits for persons on low incomes), applying the sections as if the employee were resident in New Zealand for the whole income year:
   (c) taxable value of all fringe benefits is—
     (i) the taxable value of all fringe benefits attributed to the employee in the tax year; and
@@ -33248,7 +33292,7 @@ Definition of items in formula for person who is not major shareholder
 (4) If the employee is not a major shareholder, the items in the formula are—
   (a) cash pay is the cash pay of the employee for the tax year in which the fringe benefit is attributed that is paid to the employee by the employer or a related employer:
   (b) tax on cash pay is the tax on the cash pay of the employee calculated using the basic rate of income tax set out in schedule 1, part A, clause 1,—
-    (i) treating the cash pay as if it were the only taxable income of the employee; and
+    (i) treating the cash pay as if it were the only taxable income of the employee, and section RD 51(4)(b)(ii) is repealed.
     (ii) taking into account a tax credit under sections LC 1 and LC 2, applying the sections as if the employee were resident in New Zealand for the whole tax year:
   (c) taxable value of all fringe benefits is the taxable value of all fringe benefits attributed to the employee in the tax year.
 Timing of amounts
@@ -33604,6 +33648,7 @@ Exclusions from dividends
   (b) an amount treated as a dividend under—
     (i) section CB 34(5)(a) (Amounts derived by members from mutual associations); or
     (ii) sections GB 23 to GB 25 (which relate to excessive remuneration):
+  (bb) a dividend from a portfolio investment entity:
   (c) an amount of attributed repatriation:
   (d) a dividend derived by a person who holds an RWT exemption certificate issued under section RE 27:
   (e) a dividend that is non-resident passive income:
@@ -33762,7 +33807,7 @@ Calculation of amount of tax
 (2) The amount of tax for the payment that the person must withhold and pay to the Commissioner is calculated using the formula—(tax rate × (dividend paid + tax paid or credit attached)) – tax paid or credit attached.
 Definition of items in formula
 (3) In the formula,—
-  (a) tax rate is the basic rate set out in schedule 1, part D, clause 6 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits):
+  (a) tax rate is the basic rate set out in schedule 1, part D, clause 5 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits):
   (b) dividend paid is the amount of the dividend paid before the amount of tax is determined:
   (c) tax paid or credit attached is the total of the following amounts:
     (i) if the dividend is paid in relation to shares issued by an imputation credit account (ICA) company, the amount of an imputation credit attached to the dividend:
@@ -33837,9 +33882,9 @@ Definition of items in formula
 When this section applies
 (1) This section applies when a person (person A) is entitled to receive resident passive income other than a replacement payment under a share-lending arrangement.
 Person choosing rate
-(2) Person A may notify the person who is required to withhold the amount of tax for the payment to use 1 of the rates set out in schedule 1, part D, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
+(2) Person A may notify the person who is required to withhold the amount of tax for the payment to use 1 of the rates set out in schedule 1, part D, clause 3 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
 Company choosing rate
-(3) Despite subsection (1), if person A is a company, they may notify the person making the payment to withhold the amount of tax for the payment at the rate set out in schedule 1, part D, clause 3.
+(3) Despite subsection (1), if person A is a company, they may notify the person making the payment to withhold the amount of tax for the payment at the rate set out in schedule 1, part D, clause 4.
 Application of rate
 (4) The rate chosen under subsection (2) or (3) applies to amounts of tax withheld from the date on which notice is given.
 
@@ -36622,6 +36667,7 @@ In this Act, unless the context requires otherwise,—
   - **net income** means net income for a tax year calculated under section BC 4 (Net income and net loss)
   - **net loss** means a net loss for a tax year calculated under section BC 4 (Net income and net loss) and reduced by the amount extinguished by the Commissioner under section 177C(5) of the Tax Administration Act 1994
   - **new asset** is defined in section EZ 24 (Meaning of new asset)
+  - **new personal tax rate person** means a person whose basic rate of income tax is calculated under schedule 1, part A, clause 1 for the 2008–09 income year or a later income year
   - **new start grant** means a grant of money that is designated by the Minister of Agriculture as a new start grant and is paid by the Government of New Zealand to a person in relation to—
     (a) an adverse event:
     (b) an event that is a qualifying event
@@ -36963,8 +37009,8 @@ In this Act, unless the context requires otherwise,—
   - **portfolio investor interest fraction** , for an investor in a portfolio investor class of a portfolio investment entity, means the fraction to which the investor is entitled of the amount of a distribution by the entity to the investors in the portfolio investor class
   - **portfolio investor proxy** is defined in section HL 33 (Portfolio investor proxies)
   - **portfolio investor rate** , for an investor in a portfolio tax rate entity and for a portfolio calculation period, means—
-    (a) 33%, if paragraphs (b) and (c) do not apply; or
-    (b) the rate, if paragraph (c) does not apply, that the investor notifies—
+    (a) 30%, if paragraphs (b) and (c) do not apply; or
+    (b) if paragraph (c) does not apply, the rate that an investor who has provided their tax file number to the entity under section 28B of the Tax Administration Act 1994 notifies—
       (i) to the entity as the prescribed investor rate for the investor and the period; and
       (ii) in the latest notice before the time; or
     (c) 0%, if—
@@ -37869,7 +37915,7 @@ Provisions
   (f) sections GB 9 to GB 14:
   (g) sections HC 1, HC 4, HC 7, HC 8, HC 10, HC 15 to HC 26, HC 29, HC 31 to HC 37, HD 12, HD 13, HD 16, HD 17, HR 2 to HR 4, and HZ 2:
   (h) sections IA 3 to IA 7, and IC 1:
-  (i) sections LC 1 to LC 9, LC 11, LC 12, LD 1 to LD 3, LK 1 to LK 11, LL 2, LL 9, and LZ 6 to LZ 12:
+  (i) sections LC 3 to LC 9, LC 11, LC 12, LD 1 to LD 3, LK 1 to LK 11, LL 2, LL 9, and LZ 6 to LZ 12:
   (j) sections OP 3 to OP 50, OP 64 to OP 77, OP 97 to OP 108, and OP 110 to OP 116:
   (k) sections RC 28 to RC 31:
   (l) sections YA 2(2)(a) to (c) and (g), YD 2, YD 3, and YD 5 to YD 8:
@@ -38960,8 +39006,7 @@ Purpose of schedule
 To the extent to which a person does not have a basic rate under clauses 2 to 8, the basic rate of income tax for the person on each dollar of the person’s taxable income is calculated using the formula—
   (a) tax under table 1 means the total tax, calculated for each dollar in the person’s taxable income, using table 1:
   (b) taxable income means the number of dollars in the person’s taxable income.
-Row Tax rate Range of dollars in taxable income 10.195$0 – $38,00020.330$38,001 – $60,00030.390$60,001 upwards
-How to use this table Apply a tax rate in the second column to each dollar in the person’s taxable income, according to the range for the dollar in the third column.
+Table 1RowRange of dollar in taxable incomeTax rate1$0 – $9,5000.13752$9,501 – $14,0000.16753$14,001 – $38,0000.21004$38,001 – $40,0000.27005$40,001 – $60,0000.33006$60,001 – $70,0000.36007$70,001 upwards0.3900How to use this table:Find the range in the second column for each dollar in the person's taxable income, and apply the relevant rate for the dollar in the third column.
 
 ### 2 Taxable income: companies
 To the extent to which a company does not have a basic rate under clauses 3 to 8, the basic rate of income tax for the company on each dollar of the company’s taxable income is 0.30.
@@ -38987,36 +39032,27 @@ The basic rate of income tax for a Maori authority on each dollar of the Maori a
 ### 8 Schedular taxable income: policyholder income
 The basic rate of income tax for a person on each dollar of the person’s schedular taxable income that is for policyholder income is 0.30.
 
-| Row | Range of amount | Term |
+| Row | Range of dollar in all-inclusive pay | Tax rate |
 | --- | --- | --- |
-| 1 | Not more than $9,500 | low income amount |
-| 2 | More than $9,500 and not more than $38,000 | low income abatement range |
-
-| How to use this table |
-| --- |
-| Find the range in the second column for an amount in order to find the relevant term in the third column. |
-
-| Row | Tax rate | Range of dollars in all-inclusive pay |
-| --- | --- | --- |
-| 1 | 0.1765 | $0 – $8,075 |
-| 2 | 0.2658 | $8,076 – $30,590 |
-| 3 | 0.4925 | $30,591 – $45,330 |
-| 4 | 0.6393 | $45,331 upwards |
-
-| How to use this table |
-| --- |
-| Apply a tax rate in the second column to each dollar in the person’s all-inclusive pay, according to the range for the dollar in the third column. |
+| 1 | $0 – $8,194 | 0.1594 |
+| 2 | $8,195 – $11,940 | 0.2012 |
+| 3 | $11,941 – $30,900 | 0.2658 |
+| 4 | $30,901 – $32,360 | 0.3699 |
+| 5 | $32,361 – $45,760 | 0.4925 |
+| 6 | $45,761 – $52,160 | 0.5625 |
+| 7 | $52,161 upwards | 0.6393 |
+| How to use this table:Find the range in the second column for each dollar in the person's all-inclusive pay under section RD 51, and apply the relevant rate for the dollar in the third column. |  |  |
 
 ### 1 Amount of tax for section RD 67(a)
 If section RD 67(a) applies, the amount of tax is determined by applying the relevant rate given by table 1 to each dollar of an employer’s superannuation contribution.
-Row ESCT rate threshold amount Tax rate 1$0 – $11,4000.152$9,501 – $45,6000.213$45,600 upwards0.33
-How to use this table Find the range, in the second column, for the last dollar of the amount of salary or wages under section RD 69(2) in order to find the relevant rate to apply, in the third column.
+Row ESCT rate threshold amount Tax rate 1$0 – $11,4000.152$11,401 – $45,6000.213$45,601 upwards0.33
+How to use this table Find the range, in the second column, for the last dollar of the amount of salary or wages under section RD 69(1) in order to find the relevant rate to apply, in the third column.
 
 ### 2 Amount of tax for section RD 67(b)
 If section RD 67(b) applies, the amount of tax is determined by applying the rate of 0.33 to each dollar of an employer’s superannuation contribution.
 
 ### 3 Interest: general
-If clause 5 does not apply, the payment rate for a payment of passive resident income that consists of interest is set out in table 2.
+If clause 4 does not apply does not apply, the payment rate for a payment of passive resident income that consists of interest is set out in table 2.
 Row Conditions Payment rate 1The payer of the interest:(a)has been supplied with the tax file number of a person who is paid the interest; and(b)has not received a payment rate election from the recipient of the interest.0.1952The payer of the interest:(a)has been supplied with the tax file number of a person who is paid the interest; and(b)has received a payment rate election from the recipient of the interest, choosing the 0.195 payment rate.0.1953The payer of the interest:(a)has been supplied with the tax file number of a person who is paid the interest; and(b)has received a payment rate election from the recipient of the interest, choosing the 0.33 payment rate.0.3304The payer of the interest:(a)has been supplied with the tax file number of a person who is paid the interest; and(b)has received a payment rate election from the recipient of the interest, choosing the 0.39 payment rate.0.3905The payer of the interest has not been supplied with the tax file number of a person who is paid the interest.0.390
 How to use this table Find the applicable condition, in the middle column, in order to find the relevant rate to apply, in the right column.
 
@@ -39034,6 +39070,9 @@ The payment rate for a payment of passive resident income that consists of a div
 The payment rate for a payment of passive resident income that consists of a taxable Maori authority distribution is set out in table 4.
 Row Conditions Payment rate 1The Maori authority makes a taxable Maori authority distribution and does not meet the condition for the 0.39 payment rate in row 2.0.1952The Maori authority:(a)makes a taxable Maori authority distribution that is more than $200; and(b)does not have a record of the tax file number of the member to whom the distribution is made.0.390
 How to use this table Find the applicable condition, in the middle column, in order to find the relevant rate to apply, in the right column.
+
+### 7 Retirement scheme contributions
+The payment rate for an amount of a retirement scheme contribution made by a retirement scheme contributor for a person is set out in table 5.Table 5RowConditionsPayment rate1The person responsible for withholding RSCT—(a)has been notified under section 28C of the Tax Administration Act 1994 that 19.5 cents in the dollar is the person's retirement scheme prescribed rate; and(b)has been supplied with the tax file number of the person0.1952The person—(a)is a non-resident; and(b)the retirement scheme contributor is a Maori authority; and(c)the distribution is $200 or less0.1953The person responsible for withholding RSCT—(a)has been notified under section 28C of the Tax Administration Act 1994 that 33 cents in the dollar is equal to or greater than the person's retirement scheme prescribed rate(b)has been supplied with the tax file number of the person0.3304When rows 1, 2, and 3 do not apply.0.390How to use this tableFind the applicable condition, in the middle column, in order to find the relevant rate to apply, in the right column.
 
 ## Schedule 2 — Basic tax rates for PAYE income payments
 
@@ -46966,3 +47005,123 @@ This Act comes into force on 1 April 2008.
 (1) Amendments incorporated in the principal Act.
 (2) Amendments incorporated in the principal Act.
 (3) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsections (1) and (2) apply for income years starting on and after 1 April 2008.
+
+### 1 Title
+This Act is the Taxation (Personal Tax Cuts, Annual Rates, and Remedial Matters) Act 2008.
+
+### 2 Commencement
+(1) This Act comes into force on the date on which it receives the Royal assent, except as provided in this section.
+(2) In Part 1, other than sections 3, 4, 9 and 11,—
+  (a) the subsections (1) of the sections are treated as coming into force on 1 April 2008:
+  (b) the subsections (2) of the sections come into force on 1 April 2009:
+  (c) the subsections (3) of the sections come into force on 1 April 2010:
+  (d) the subsections (4) of the sections come into force on 1 April 2011.
+(3) In Part 1, 11,—
+  (a) subsection (1) comes into force on 1 July 2008:
+  (b) subsection (2) comes into force on 1 April 2009:
+  (c) subsection (3) comes into force on 1 April 2010:
+  (d) subsection (4) comes into force on 1 April 2011.
+(4) In Part 2, other than sections 12 and 17,—
+  (a) the subsections (1) of the sections come into force on 1 October 2008:
+  (b) the subsections (2) of the sections come into force on 1 April 2010:
+  (c) the subsections (3) of the sections come into force on 1 April 2011.
+(5) In Part 3,––
+  (a) Sections 59 and 60 are treated as coming into force on 19 December 2007:
+  (b) Sections 24, 25, 26(1), 27, 28, 29, 30, 32, 33, 34, 35, 36, 37, 38, 43, 44, 45, 46, 48(2) and (3)(a), 49, 50, 56, and 58are treated as coming into force on 1 April 2008:
+  (c) Sections 20, 21, 22, 23, 31, 48(4) and (5), 55, and 57 come into force on 1 July 2008:
+  (d) Sections 39, 40, 41, 42, 47, 51, and 52 come into force on 1 October 2008:
+  (e) Section 26(2) comes into force on 1 April 2009.
+
+## Part 1 — Personal tax cuts and Working for Families tax credit increase: 2008–09 start
+
+### 3 Application
+In this Part, other than sections 4 and 9,—
+  (a) the subsections (1) of the sections apply for the 2008–09 income year and later income years:
+  (b) the subsections (2) of the sections apply for the 2009–10 income year and later income years:
+  (c) the subsections (3) of the sections apply for the 2010–11 income year and later income years:
+  (d) the subsections (4) of the sections apply for the 2011–12 income year and later income years.
+
+## Part 3 — Annual rates, consequential personal tax cuts amendments, and remedial matters
+
+**Amendments to Income Tax Act 2007**
+
+### 24 Heading and section LC 1 repealed
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies for the 2008–09 income year and later income years.
+
+### 25 Section LC 2 repealed
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for the 2008–09 income year and later income years.
+
+### 26 Child's income
+(1) Amendments incorporated in the principal Act.
+(2) In section LC 3,—
+  (a) in subsection (3)(a), $321.75 is replaced by $292.50:
+  (b) in subsection (4), in the formula, 13.75 is replaced by 12.5.
+(3) Subsection (1) applies for the 2008–09 income year and later income years.
+(4) Subsection (2) applies for the 2009–10 income year and later income years.
+
+### 27 Tax credits for absentees
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for the 2008–09 income year and later income years.
+
+### 28 Adjustment for change in return date
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for the 2008–09 income year and later income years.
+
+### 29 Adjustment when person is non-resident for part of tax year
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for the 2008–09 income year and later income years.
+
+### 30 Adjustment when person is non-resident
+(1) Amendment incorporated in the principal Act.
+(2) Amendment incorporated in the principal Act.
+(3) Subsections (1) and (2) apply for the 2008–09 income year and later income years.
+
+### 32 Tax credits for supplementary dividends
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies for the 2008–09 income year and later income years.
+
+### 33 New sections MF 4B and MF 4C
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies for the 2008–09 income year.
+
+### 34 Meaning of net family scheme income
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for the 2008–09 income year and later income years.
+
+### 36 Calculation of maximum permitted ratios
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for the 2008–09 income year and later income years.
+
+### 37 Tax credits for non-resident investors
+(1) Amendment incorporated in the principal Act.
+(2) Amendment incorporated in the principal Act.
+(3) Subsections (1) and (2) apply for the 2008–09 income year and later income years.
+
+### 38 Payment dates for terminal tax
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for the 2008–09 income year and later income years.
+
+### 43 Calculation of all-inclusive pay
+(1) Amendments incorporated in the principal Act.
+(2) Amendments incorporated in the principal Act.
+(3) Subsections (1) and (2) apply for the 2008–09 income year and later income years.
+
+### 44 Resident passive income
+(1) Amendment incorporated in the principal Act.
+(2) Amendment incorporated in the principal Act.
+(3) Subsections (1) and (2) apply for the 2008–09 income year and later income years.
+
+### 48 Definitions
+(1) This section amends section YA 1.
+(2) Amendments incorporated in the principal Act.
+(3) Amendments incorporated in the principal Act.
+(4) The definition of registered as a charitable entity is repealed.
+(5) After the definition of tax-base property, the following is inserted:.
+  - **tax charity** is defined in section CW 41(5) for the purposes of that section and sections CW 42 and CW 43
+(6) Subsections (2) and (3)(a) apply for the 2008–09 income year and later income years.
+
+### 49 Treatment of qualifying company election tax, FBT, FDP penalty tax, imputation penalty tax, and withdrawal tax
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for the 2008–09 income year and later income years.
