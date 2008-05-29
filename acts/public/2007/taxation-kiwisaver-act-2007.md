@@ -1,5 +1,5 @@
 # Taxation (KiwiSaver) Act 2007
-_Consolidation as at 2008-01-24_
+_Consolidation as at 2008-05-29_
 
 ### 1 Title
 This Act is the Taxation (KiwiSaver) Act 2007.
@@ -8,10 +8,10 @@ This Act is the Taxation (KiwiSaver) Act 2007.
 (1) This Act comes into force on the date on which it receives the Royal assent, except as provided in this section.
 (2) Section 108(1) is treated as coming into force on 1 April 2007.
 (3) Sections 119, 120, and 121 are treated as coming into force on 17 May 2007.
-(4) Sections 4, 6 to 9, 12(2)(b), (4), and (7), 18(1) and (2), 27(4), (8)(d), (11), and (13)(a), 28, 34(1), 35, 36(1), 37, 38(1), 40, 42, 43, 44, 46, 47, 48, 49, 51, 52, 53, 54, 59, 63(1), 73, 74, 90, 92(1), 95, 96, 98(1) and (3), 102(8), and 109 are treated as coming into force on 1 July 2007.
+(4) Sections 4, 6 to 9, 12(2)﻿(b), (4), and (7), 18(1) and (2), 27(4), (8)﻿(d), (11), and (13)﻿(a), 28, 34(1), 35, 36(1), 37, 38(1), 40, 42, 43, 44, 46, 47, 48, 49, 51, 52, 53, 54, 59, 63(1), 73, 74, 90, 92(1), 95, 96, 98(1) and (3), 102(8), and 109 are treated as coming into force on 1 July 2007.
 (5) Section 78 is treated as coming into force on 1 October 2007.
 (6) Section 137 is treated as coming into force on 1 November 2007.
-(7) Sections 5, 10, 11, 12(2)(a), (c) to (f), (3), (5), (6), (8), and (9), 14, 16, 18(3), 17, 19, 22, 27(1), (2), (3), (5), (6), (7), (9), (10), (12), (13)(b), and (14), 29, 30, 33, 34(2), 36(2), 38(2), 50, 57, 60, 61, 62, 63(2) and (3), 65, 69, 71(1), 75, 76, 78(2), 79 to 82, 84, 85, 86, 87, 93(1), (2), (3), and (5), 94, 102(3) and (9), 103, 110(2), and 122 to 136 come into force on 1 April 2008.
+(7) Sections 5, 10, 11, 12(2)﻿(a), (c) to (f), (3), (5), (6), (8), and (9), 14, 16, 18(3), 17, 19, 22, 27(1), (2), (3), (5), (6), (7), (9), (10), (12), (13)﻿(b), and (14), 29, 30, 33, 34(2), 36(2), 38(2), 50, 57, 60, 61, 62, 63(2) and (3), 65, 69, 71(1), 75, 76, 78(2), 79 to 82, 84, 85, 86, 87, 93(1), (2), (3), and (5), 102(3) and (9), 103, 110(2), and 122 to 136 come into force on 1 April 2008.
 (8) Sections 15, 20, 21, 23 to 25, 56(2), 66, 91, 92(3), 94, and 111(2) come into force on 1 April 2009.
 
 ## Part  — KiwiSaver-related amendments to Income Tax Act 2004
@@ -38,7 +38,7 @@ Section KJ 3 is replaced by the following:Tax credit amountTax credit amountFirs
     (a) equal to the total amount of a person's member credit contributions for all of the person's complying superannuation funds and KiwiSaver schemes for the member credit year, if the first formula in subsection (2) calculates an amount that is less than $1042.86 / 365:
     (b) equal to the amount calculated using the second formula in subsection (3), if the first formula in subsection (2) calculates an amount that is equal to or greater than $1042.86 / 365.
   (2) For the purposes of subsection (1), an amount is calculated using the following formula:
-  (3) For the purposes of subsection (1)(b), the amount of the tax credit for the member credit year is calculated using the following formula:
+  (3) For the purposes of subsection (1)﻿(b), the amount of the tax credit for the member credit year is calculated using the following formula:
   (4) In the formulas,—
     (a) member credit contributions is the total amount of a person's member credit contributions for all of the person's complying superannuation funds and KiwiSaver schemes for the member credit year:
     (b) included days are the number of days in the member credit year on which the person meets the requirements in section KJ 2.
@@ -55,7 +55,7 @@ Section KJ 3 is replaced by the following:Tax credit amountTax credit amountFirs
 
 ### 9 Rules
 (1) In section KJ 5(3), The fund provider must credit the amount of the tax credit on a pro rata basis is replaced by The fund provider must use the contribution allocation for a member to credit the amount of tax credit.
-(2) In section KJ 5(6)(a)(i), person is replaced by person and are held by the fund provider.
+(2) In section KJ 5(6)﻿(a)﻿(i), person is replaced by person and are held by the fund provider.
 
 ### 10 New sections KJ 6 to KJ 12 added
 In subpart KJ, the following is added:Tax credits relating to employers contributing to KiwiSaver schemes and complying superannuation fundsTax creditAmount of tax creditRulesTreatment of private domestic workersamountcomplying superannuation fundcompulsory employer contributionemployeeemployerKiwiSaver schemePAYE periodprivate domestic worker Employer requirementsamountcompulsory employer contributionemployeeemployeremployer contributionemployer monthly scheduleremittance certificate Tax credit amountTax credit amountDefinition of item in formulaamountemployeeemployeremployer contributionPAYE period Using the tax creditTimingUseTreatment of tax credit usedamountCommissionercompulsory employer contributionemployerPAYE periodtax deduction Treatment when short payment and unpaid amount of compulsory employer contributions found after tax credit usedWhen this section appliesLiability to pay for credits already usedTreatment of liabilityNew tax credit grantedamountCommissionercompulsory employer contributionemployerPAYE periodtax deduction Employees who opt outWhen this section appliesTreatment of tax creditsemployeesalary or wages Group of persons 1 employercompanyemployergroup of companies .
@@ -90,20 +90,20 @@ In subpart KJ, the following is added:Tax credits relating to employers contribu
     (c) third, used by the Commissioner to pay an amount that is payable by the employer to the Commissioner under an Inland Revenue Act for the PAYE period:
     (d) fourth, used by the Commissioner to pay an amount that is payable by the employer to the Commissioner under an Inland Revenue Act:
     (e) fifth, treated as tax paid in excess and refundable under section MD 1.
-  (3) An amount of tax credit used or paid under subsection (2)(a) is treated as an amount of compulsory employer contribution—
+  (3) An amount of tax credit used or paid under subsection (2)﻿(a) is treated as an amount of compulsory employer contribution—
     (a) received by the Commissioner for the PAYE period, for the purposes of calculating an amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006:
     (b) consequentially reducing a relevant amount of compulsory employer contributions remaining unpaid, for the purposes of section 101K of that Act:
     (c) received by the Commissioner, for the purposes of section 74 of that Act.
   (1) This section applies, for an employer, if—
-    (a) the Commissioner has used an amount of tax credit, under 1 or both of section KJ 9(2)(c) and (d), to pay an amount payable that is described in those paragraphs; and
+    (a) the Commissioner has used an amount of tax credit, under 1 or both of section KJ 9(2)﻿(c) and (d), to pay an amount payable that is described in those paragraphs; and
     (b) after the amount of tax credit has been used by the Commissioner under those paragraphs, there is, for the PAYE period to which the amount of tax credit relates,—
       (i) an amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006:
       (ii) compulsory employer contributions unpaid, specified in a notice under section 101I(5) of that Act.
   (2) The employer is liable to pay an amount equal to the lesser of—
     (a) the amount of tax credit used that relates to the PAYE period; and
-    (b) the amounts described in subsections (1)(b)(i) and (ii) for that PAYE period.
-  (3) The employer's liability under subsection (2) is treated as a liability to pay a tax deduction for the PAYE period in which the relevant amounts in subsections (1)(b)(i) and (ii) are notified to the employer.
-  (4) An amount equal to the employer's liability under this section is treated as a tax credit to be used under section KJ 9(2)(a).
+    (b) the amounts described in subsections (1)﻿(b)﻿(i) and (ii) for that PAYE period.
+  (3) The employer's liability under subsection (2) is treated as a liability to pay a tax deduction for the PAYE period in which the relevant amounts in subsections (1)﻿(b)﻿(i) and (ii) are notified to the employer.
+  (4) An amount equal to the employer's liability under this section is treated as a tax credit to be used under section KJ 9(2)﻿(a).
   (1) This section applies when an employee opts out under the KiwiSaver Act 2006.
   (2) The amount of tax credit for an employer contribution for the employee's salary or wages is treated as an amount of tax credit paid in excess of that properly payable under this subpart.
   For the purposes of sections KJ 6 to KJ 11, a group of persons described in 1 of the following paragraphs is treated as 1 employer:
@@ -156,7 +156,7 @@ In section NE 3(6), the definition of salary or wages is omitted.
     (b) is defined in section NC 15(8) (Payment of tax deductions to Commissioner) for the purposes of that section
 (9) In the definition of salary or wages, paragraph (d) is replaced by the following:.
   (d) for the purposes of sections NE 3 and NE 3B (which relate to SSCWT) means salary or wages, as defined in section 4 of the KiwiSaver Act 2006
-(10) In the definition of superannuation scheme, paragraph (a)(ib) is repealed.
+(10) In the definition of superannuation scheme, paragraph (a)﻿(ib) is repealed.
 
 ## Part  — KiwiSaver-related amendments to Tax Administration Act 1994
 
@@ -165,31 +165,31 @@ Sections 14 to 25 amend the Tax Administration Act 1994.
 
 ### 14 Interpretation
 In section 3(1), in the definition of tax—
-  (a) the following is inserted after paragraph (a)(iii)(CB)::
+  (a) the following is inserted after paragraph (a)﻿(iii)﻿(CB)::
     (CC) an amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006 that relates to a compulsory employer contribution:
     (CD) an amount of compulsory employer contributions unpaid, specified in a notice under section 101I(5) of the KiwiSaver Act 2006:
-  (b) the following is inserted after paragraph (a)(vii)::
+  (b) the following is inserted after paragraph (a)﻿(vii)::
     (viii) an amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006 that does not relate to a compulsory employer contribution:
-  (c) the following is inserted after paragraph (d)(iii)(C)::
+  (c) the following is inserted after paragraph (d)﻿(iii)﻿(C)::
     (CB) an amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006 that relates to a compulsory employer contribution:
     (CC) an amount of compulsory employer contributions unpaid, specified in a notice under section 101I(5) of the KiwiSaver Act 2006:
-  (d) the following is inserted after paragraph (d)(viii):
+  (d) the following is inserted after paragraph (d)﻿(viii):
     (viiib) an amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006 that does not relate to a compulsory employer contribution:
 
 ### 15 Interpretation
 In section 3(1), in the definition of civil penalty, in paragraph (e), or 216 is omitted.
 
 ### 16 Construction of certain provisions
-After section 4A(3)(bb), the following is inserted:.
+After section 4A(3)﻿(bb), the following is inserted:.
   (bc) amounts of compulsory employer contributions that must be paid under Part 3, subpart 3A of the KiwiSaver Act 2006 to the Commissioner, including an amount of compulsory employer contributions unpaid, specified in a notice under section 101I(5) of that Act; or
 
 ### 17 Keeping of business records
-In section 22(2)(1), and the occasion of making it, is replaced by , the occasion of making it, and any related tax credit under section MK 1(2) of the Income Tax Act 2007.
+In section 22(2)﻿(1), and the occasion of making it, is replaced by , the occasion of making it, and any related tax credit under section MK 1(2) of the Income Tax Act 2007.
 
 ### 18 Tax credit relating to KiwiSaver and complying superannuation fund members: member credit form
-(1) In section 68C(3)(a), and tax file number is replaced by and (if known) tax file number.
+(1) In section 68C(3)﻿(a), and tax file number is replaced by and (if known) tax file number.
 (2) Section 68C(4) is replaced by the following:
-  (4) The fund provider may claim an amount of a tax credit under section KJ 1 of the Income Tax Act 2004 for the person if the provider meets the requirements of subsections (2)(b) and (c), and is satisfied that the amount of tax credit has not previously been claimed. A claim under this subsection may be supplementary to or included in a claim under subsection (3), and must be in the form prescribed under subsection (3).
+  (4) The fund provider may claim an amount of a tax credit under section KJ 1 of the Income Tax Act 2004 for the person if the provider meets the requirements of subsections (2)﻿(b) and (c), and is satisfied that the amount of tax credit has not previously been claimed. A claim under this subsection may be supplementary to or included in a claim under subsection (3), and must be in the form prescribed under subsection (3).
 (3) In section 68C(4), as inserted by subsection (2), section KJ 1 of the Income Tax Act 2004 is replaced by section MK 1(1) of the Income Tax Act 2007.
 
 ### 19 Persons excluded
@@ -197,10 +197,10 @@ After section 120B(b), the following is inserted:.
   (bb) an employer in relation to amounts of compulsory employer contributions that must be paid under Part 3, subpart 3A of the KiwiSaver Act 2006 to the Commissioner, including an amount of compulsory employer contributions unpaid, specified in a notice under section 101I(5) of that Act:
 
 ### 20 Challenging civil penalties
-In section 138L(2)(ab), or 216 is omitted.
+In section 138L(2)﻿(ab), or 216 is omitted.
 
 ### 21 Knowledge offences
-In section 143A(5)(g), tax. is replaced by tax:, and the following is added:
+In section 143A(5)﻿(g), tax. is replaced by tax:, and the following is added:
   (h) amounts of compulsory employer contributions that must be paid under Part 3, subpart 3A of the KiwiSaver Act 2006 to the Commissioner, including an amount of compulsory employer contributions unpaid, specified in a notice under section 101I(5) of that Act.
 
 ### 22 Deduction of tax from payments due to defaulters
@@ -209,13 +209,13 @@ In section 157(10), in the definition of income tax, after paragraph (g), the fo
   (i) an amount of compulsory employer contributions unpaid, specified in a notice under section 101I(5) of the KiwiSaver Act 2006.
 
 ### 23 Remission for reasonable cause
-In section 183A(1)(h), or 216 is omitted.
+In section 183A(1)﻿(h), or 216 is omitted.
 
 ### 24 Remission in circumstances of qualifying event
 In section 183ABA(3A), or 216 is omitted.
 
 ### 25 Remission consistent with collection of highest net revenue over time
-In section 183D(1)(bc), or 216 is omitted.
+In section 183D(1)﻿(bc), or 216 is omitted.
 
 ## Part  — Amendments to KiwiSaver Act 2006
 
@@ -255,11 +255,11 @@ Sections 27 to 103 amend the KiwiSaver Act 2006.
 (7) After the definition of employer's chosen KiwiSaver scheme, the following is inserted:
   - **employer's superannuation contribution** has the same meaning as in section YA 1 of the Income Tax Act 2007.
 (8) In the definition of independent trustee,—
-  (a) in paragraph (a)(i), , administration manager, or investment manager is omitted:
-  (b) paragraph (a)(ii) and (iii) is replaced by the following::
+  (a) in paragraph (a)﻿(i), , administration manager, or investment manager is omitted:
+  (b) paragraph (a)﻿(ii) and (iii) is replaced by the following::
     (ii) is not a related company of a corporate trustee that is an investment manager, promoter, or another trustee of the scheme; and
-  (c) in paragraph (a)(viii), does not have a director to whom any of subparagraphs (i) to (vii) would apply is replaced by has no director that would fail to meet any of the requirements described in subparagraphs (i) to (vii)
-  (d) in paragraph (b), does not have a director to whom any of paragraph (a)(i) to (vii) would apply is replaced by has a director that would meet any of the requirements described in paragraph (a)(i) to (vii).
+  (c) in paragraph (a)﻿(viii), does not have a director to whom any of subparagraphs (i) to (vii) would apply is replaced by has no director that would fail to meet any of the requirements described in subparagraphs (i) to (vii)
+  (d) in paragraph (b), does not have a director to whom any of paragraph (a)﻿(i) to (vii) would apply is replaced by has a director that would meet any of the requirements described in paragraph (a)﻿(i) to (vii).
 (9) In the definition of KiwiSaver scheme, section 137 is replaced by section 137 or a scheme that is included in the register only under section 161.
 (10) The definition of PAYE period is replaced by the following:.
   - **PAYE period** has the same meaning as in paragraph (a) of the definition of payment period in section MK 10 of the Income Tax Act 2007
@@ -271,15 +271,15 @@ Sections 27 to 103 amend the KiwiSaver Act 2006.
   (a) paragraph (a) is replaced by the following::
     (a) it excludes—
       (i) salary or wages described in subparagraphs (iv), (v), (ix), or (xi) of paragraph (b) of that definition in that Act; and
-      (ii) payments that are income under section CF (1)(b) to (e), (g), or (h) of that Act:
+      (ii) payments that are income under section CF (1)﻿(b) to (e), (g), or (h) of that Act:
   (b) paragraph (a), as amended, and paragraph (b) are both replaced by the following:
   (a) it excludes—
-    (i) salary or wages described in sections RD 5(4), (6)(b), and (6)(c) and RD 68 of the Income Tax Act 2007; and
-    (ii) payments that are income under section CF (1)(b) to (e), (g), or (h) of that Act; and
+    (i) salary or wages described in sections RD 5(4), (6)﻿(b), and (6)﻿(c) and RD 68 of the Income Tax Act 2007; and
+    (ii) payments that are income under section CF (1)﻿(b) to (e), (g), or (h) of that Act; and
     (iii) expenditure on account of an employee and allowances calculated by reference to reasonable actual costs, if the expenditure or allowances are for accommodation overseas or other costs of living overseas; and
     (iv) for the purposes of contributions to complying superannuation funds, bonuses, commissions, and other amounts not included in an employee's gross base salary or wages by the relevant complying superannuation fund; and
     (v) for the purposes of subpart 3A of Part 3 of this Act,—
-      (A) salary or wages described in section RD 5(1)(b)(iii) and (7) of the Income Tax Act 2007; and
+      (A) salary or wages described in section RD 5(1)﻿(b)﻿(iii) and (7) of the Income Tax Act 2007; and
       (B) payments of weekly compensation, as defined in the Injury Prevention, Rehabilitation, and Compensation Act 2001, made by an employer, unless the employer chooses to not exclude the payments from this definition of salary or wages:
   (b) it includes extra pay (as defined in section YA 1 of the Income Tax Act 2007), unless—
     (i) otherwise excluded under paragraph (a) of this definition; or
@@ -291,8 +291,8 @@ Sections 27 to 103 amend the KiwiSaver Act 2006.
 In section 5(1), provider of a scheme is replaced by provider of a KiwiSaver scheme or a complying superannuation fund.
 
 ### 29 Application
-(1) In section 6(1)(a), personally present is replaced by living.
-(2) In section 6(2)(b), 2007). is replaced by 2007); or, and the following is added:
+(1) In section 6(1)﻿(a), personally present is replaced by living.
+(2) In section 6(2)﻿(b), 2007). is replaced by 2007); or, and the following is added:
   (c) the employer does not meet the requirements in subsections (a) and (b), and the employer chooses to apply this Act.
 
 ### 30 Outline
@@ -304,16 +304,16 @@ In section 10, in the words before the paragraphs, who is replaced by who is not
 
 ### 32 Meaning of new employment
 (1) In the heading to section 11, new employment is replaced by new employment and secondee.
-(2) In section 11(1)(c), employment. is replaced by employment; and, and the following is inserted:
+(2) In section 11(1)﻿(c), employment. is replaced by employment; and, and the following is inserted:
   (d) does not include employment, at the end of a secondment, by the employer from which a secondee was seconded.
 (3) After section 11(2), the following is inserted:
   (2B) Secondee means an employee seconded from an employer to the employment of another employer (employer B), in respect of which the employee is on employer B's payroll.
 
 ### 33 Temporary employment
-(1) In section 12(1)(b), or less. is replaced by or less; or, and the following is added:
-  (c) the employment is described in section 28(1)(a)(ii) of the Holidays Act 2003.
-(2) Section 12(2)(b) is replaced by the following:
-  (b) in the case of employment which was temporary under subsection (1)(b), on the 28th day after the employee started the employment.
+(1) In section 12(1)﻿(b), or less. is replaced by or less; or, and the following is added:
+  (c) the employment is described in section 28(1)﻿(a)﻿(ii) of the Holidays Act 2003.
+(2) Section 12(2)﻿(b) is replaced by the following:
+  (b) in the case of employment which was temporary under subsection (1)﻿(b), on the 28th day after the employee started the employment.
 
 ### 34 How to opt out
 (1) The following is added to section 17:
@@ -322,7 +322,7 @@ In section 10, in the words before the paragraphs, who is replaced by who is not
   (6) For the purposes of sections 17 to 20, a PAYE intermediary (within the meaning of section YA 1 of the Income Tax Act 2007) acting under sections RP 2 and RP 6 to RP 16 of that Act is treated as an employer.
 
 ### 35 Extension of opt-out period
-(1) In section 18(1)(b)(iv), accepted. is replaced by accepted; or, and the following is added:
+(1) In section 18(1)﻿(b)﻿(iv), accepted. is replaced by accepted; or, and the following is added:
   (v) a mistake described in section 59A(b) has occurred.
 (2) In section 18(2), opt-out notice is replaced by opt-out notice, if it is received by the Commissioner or the employer.
 
@@ -344,13 +344,13 @@ In section 28(b), scheme. is replaced by scheme; and, and the following is added
 
 ### 39 Effect of opting in by employees
 In section 36(1),—
-  (a) in the words before paragraph (a), opts in is replaced by opts in under section 34(1)(a) or (b):
+  (a) in the words before paragraph (a), opts in is replaced by opts in under section 34(1)﻿(a) or (b):
   (b) in paragraph (a),—
     (i) in the words before subparagraph (i), becomes is replaced by is:
     (ii) in the words before subparagraph (i), automatic is omitted:
     (iii) in subparagraph (i), the employer to whom the opting in relates is replaced by the employee's employer:
   (c) after subsection (1), the following is added:
-  (1B) If an employee to whom subsection (1)(a)(i) applies has more than 1 employer who pays salary or wages to them, then, despite subsection (1)(a)(i), they may choose 1 or more employers who must make deductions of contributions from salary or wages in accordance with subpart 1 of Part 3.
+  (1B) If an employee to whom subsection (1)﻿(a)﻿(i) applies has more than 1 employer who pays salary or wages to them, then, despite subsection (1)﻿(a)﻿(i), they may choose 1 or more employers who must make deductions of contributions from salary or wages in accordance with subpart 1 of Part 3.
 
 ### 40 Commissioner must supply information pack
 (1) In section 40(1), must supply is replaced by must initially supply.
@@ -358,7 +358,7 @@ In section 36(1),—
 
 ### 41 Employer may choose scheme for employees
 (1) In section 46(2), new is omitted.
-(2) In section 46(3)(b), would apply, is replaced by apply, or would apply.
+(2) In section 46(3)﻿(b), would apply, is replaced by apply, or would apply.
 
 ### 42 Effect of employer choice of KiwiSaver scheme
 Sections 48(1) and (2) are replaced by the following:
@@ -367,7 +367,7 @@ Sections 48(1) and (2) are replaced by the following:
     (b) an employee of the employer has not directly contracted to be a member of a KiwiSaver scheme with the provider of a scheme; and
     (c) the employee is an employee—
       (i) to whom the automatic enrolment rules apply; or
-      (ii) who opted in under section 34(1)(b); and
+      (ii) who opted in under section 34(1)﻿(b); and
     (d) more than 3 months have passed since the Commissioner received the first contribution in respect of the employee; and
     (e) there is no relevant dispute under section 212 or 213 in relation to Part 2 or 3.
   (2) On the first day that this section applies, the employee is treated as having—
@@ -378,15 +378,15 @@ Sections 48(1) and (2) are replaced by the following:
 (1) Section 50(1) is replaced by the following:
   (1) This section applies, in respect of a person who is an employee of an employer and their employment with that employer, when the Commissioner has received from the employer,—
     (a) notice under section 23 of the person's automatic enrolment; or
-    (b) notice under section 34(3) of a person's opt-in under section 34(1)(b).
+    (b) notice under section 34(3) of a person's opt-in under section 34(1)﻿(b).
 (2) In section 50(3), the words before the paragraphs are replaced by As soon as practicable, the Commissioner must, in respect of the person's employment with the employer,—.
 
 ### 44 Completion of allocation to default KiwiSaver scheme if person does not choose KiwiSaver scheme
-(1) In section 51(4)(a), 3 months is replaced by as soon as practicable after 3 months.
+(1) In section 51(4)﻿(a), 3 months is replaced by as soon as practicable after 3 months.
 (2) In section 51(5), Part 1 or 2 is replaced by Part 2 or 3.
 
 ### 45 Notification of transfers and requirement to transfer funds and information
-Sections 56(3)(c)(iv) and (v) are replaced by the following:
+Sections 56(3)﻿(c)﻿(iv) and (v) are replaced by the following:
   (iv) as to whether the Crown contribution under section 226 is included in the member's accumulation transferred to the new scheme.
 
 ### 46 Involuntary transfer
@@ -427,10 +427,10 @@ After subpart 3 of Part 2, the following is added:Initial and confirmed back-dat
       (ii) the amounts paid out by the provider to the person as permitted withdrawals, excluding the amount of Crown contributions included in the permitted withdrawals:
       (iii) Crown contributions:
     (b) the contributions held in respect of the person in the holding account described in section 72, net of interest under section 84:
-    (c) the total amount of interest that the Commissioner would be liable for under section 84 on contributions described in paragraphs (a) and (b), excluding amounts described in paragraph (a)(i) to (iii) on a first-in first-out basis. For the purposes of calculating the amount of interest payable on the relevant contributions, the interest period in section 87 is treated as the number of days in the period—
+    (c) the total amount of interest that the Commissioner would be liable for under section 84 on contributions described in paragraphs (a) and (b), excluding amounts described in paragraph (a)﻿(i) to (iii) on a first-in first-out basis. For the purposes of calculating the amount of interest payable on the relevant contributions, the interest period in section 87 is treated as the number of days in the period—
       (i) beginning on the day the Commissioner received the contribution or the provider received the contribution (if the contribution was not via the Commissioner):
       (ii) ending with the day that the Commissioner pays the refund amount under this section.
-  (4) The refund amount must be paid to the person, their employer, the Crown, and any other person making a contribution in respect of the person, in proportion to the Commissioner's best estimate of what they contributed, taking into account amounts described in paragraph (a)(i) and (ii).
+  (4) The refund amount must be paid to the person, their employer, the Crown, and any other person making a contribution in respect of the person, in proportion to the Commissioner's best estimate of what they contributed, taking into account amounts described in paragraph (a)﻿(i) and (ii).
   (5) When the Commissioner has paid the refund amount, the amount of member's accumulation for the person previously paid to the Commissioner (the accumulation money), and the contributions held by the Commissioner in respect of the person in the holding account described in section 72 including interest under section 84 (the holding account money) are treated in the following ways:
     (a) the accumulation money and the holding account money are public money, and are not trust money for the purposes of sections 66 to 68 of the Public Finance Act 1989:
     (b) Subpart 2 of Part 3 does not apply to the accumulation money and holding account money, and the Commissioner must pay the money into the Crown Bank account.
@@ -498,7 +498,7 @@ Section 93 is replaced by the following:Employer contributions paid via Commissi
   (6) For the purposes of the Tax Administration Act 1994, to the extent to which an employer fails to comply with subsection (5) in respect of an amount of employer contribution that the employer must pay to the Commissioner, that amount is treated as a short payment for the PAYE period for which the failure occurs.
 
 ### 61 Short payments by employers if not enough money remitted to Commissioner to cover all of employees' deductions and employer contributions
-In section 98(3)(d), subpart 1. is replaced by subpart 1; and, and the following is added:
+In section 98(3)﻿(d), subpart 1. is replaced by subpart 1; and, and the following is added:
   (e) employer contributions that are not compulsory employer contributions.
 
 ### 62 New section 98A inserted
@@ -535,7 +535,7 @@ After subpart 3 of Part 3, the following is inserted:Compulsory employer contrib
     (a) parties to an employment relationship are free to agree contractual terms and conditions that ignore the purpose of this section described in subsection (1); and
     (b) to the extent of such agreement described in subparagraph (a), subsections (1) to (3) do not apply.
   (5) For the avoidance of doubt, the duty of good faith described in section 4 of the Employment Relations Act 2000 always applies when parties to an employment relationship bargain for terms and conditions relating to compulsory contributions and associated matters.
-  (6) In this section, compulsory contributions means an amount of employer contributions equal to the amount of compulsory employer contributions that would be required by this subpart in the absence of section 101D(5)(a).
+  (6) In this section, compulsory contributions means an amount of employer contributions equal to the amount of compulsory employer contributions that would be required by this subpart in the absence of section 101D(5)﻿(a).
   For the purposes of section 101A(1), the requirements are that the employee—
     (a) is paid salary or wages from which the employer deducts or is required to deduct an amount for the employee's KiwiSaver scheme or complying superannuation fund; and
     (b) is aged 18 or over; and
@@ -561,7 +561,7 @@ After subpart 3 of Part 3, the following is inserted:Compulsory employer contrib
     (c) employer's superannuation contributions or superannuation subsidies in relation to an employee—
       (i) whose employment is as a member of Parliament, a judicial officer, or a sworn member of the police:
       (ii) who is in a class of employees prescribed in regulations made under section 230A.
-  (6) Hybrid schemes amount is the amount given by subsection (7) for a registered superannuation scheme, employer and employee described in subsection (5)(b)(i) to (iii)—
+  (6) Hybrid schemes amount is the amount given by subsection (7) for a registered superannuation scheme, employer and employee described in subsection (5)﻿(b)﻿(i) to (iii)—
     (a) which do not have an amount of other contributions for the period to which the payment of gross salary or wages relates; and
     (b) for which relevant retirement benefits are calculated by adding to the employee's total contributions a percentage of those contributions.
   (7) For the purposes of subsection (6), the amount is calculated using the following formula:member's contribution × vesting percentage.
@@ -603,7 +603,7 @@ After section 101H, the following is inserted:Failure to pay: Government Actuary
     (f) specify the pay periods and relevant amounts for the employees to whom the failure to pay relates; and
     (g) inform the employer that failure to comply with the notice will result in the Commissioner receiving notice of the failure to comply; and
     (h) show other information required by the Commissioner.
-  (5) If the employer does not pay the liable amount in the period specified in subsection (4)(c) and the employer has not objected to the Government Actuary's decision under subsection (1) within the time allowed under section 186, the Government Actuary must immediately—
+  (5) If the employer does not pay the liable amount in the period specified in subsection (4)﻿(c) and the employer has not objected to the Government Actuary's decision under subsection (1) within the time allowed under section 186, the Government Actuary must immediately—
     (a) give to the Commissioner a notice showing the information described in subsection (6); and
     (b) send to the provider a copy of the notice.
   (6) A notice under subsection (5) must—
@@ -618,7 +618,7 @@ After section 101H, the following is inserted:Failure to pay: Government Actuary
   An amount of compulsory employer contribution for an employee's complying superannuation fund that is received by the Government Actuary or the Commissioner by virtue of this subpart must be paid by them to the relevant provider. The relevant amount of compulsory employer contributions remaining unpaid for the relevant liable amount is consequentially reduced.
 
 ### 67 Who may apply for contributions holiday
-In section 102(b)(ii), scheme. is replaced by scheme; or, and the following is added:
+In section 102(b)﻿(ii), scheme. is replaced by scheme; or, and the following is added:
   (iii) the date that the person is first a member of a complying superannuation fund.
 
 ### 68 Refund of initial contributions
@@ -644,13 +644,13 @@ After section 117, the following is inserted:Restrictions on transactions
       (ii) a person associated (under the 1988 version provisions of the Income Tax Act 2007) with a provider or member.
 
 ### 70 Further modifications to application of sections 8 to 11 of Superannuation Schemes Act 1989
-In section 121(3)(a), registered superannuation scheme is replaced by KiwiSaver scheme.
+In section 121(3)﻿(a), registered superannuation scheme is replaced by KiwiSaver scheme.
 
 ### 71 Requirement for annual report
-(1) In section 123(4)(b), in force. is replaced by in force; and and the following is added:
+(1) In section 123(4)﻿(b), in force. is replaced by in force; and and the following is added:
   (c) if there has been an increase in a fee referred to in clause 2 of the KiwiSaver scheme rules during the year, the fee as increased is not unreasonable, after having regard to any matters prescribed under section 228(p) and any guidelines published by the Government Actuary under section 127.
-(2) In section 123(5)(a), KiwSaver is replaced by KiwiSaver.
-(3) In section 123(5)(e), report. is replaced by report:, and the following is added:
+(2) In section 123(5)﻿(a), KiwSaver is replaced by KiwiSaver.
+(3) In section 123(5)﻿(e), report. is replaced by report:, and the following is added:
   (f) the total amount of each type of contribution received by the provider for the year, and the number of members credited with each type:
   (g) the total amount of members' accumulations at the end of the year, and the number of members with accumulations:
   (h) the total amounts of fee subsidies credited to members for the year, and the number of members credited.
@@ -762,10 +762,10 @@ After section 205, the following is inserted:Investment statements must contain 
 In section 206, in the words before paragraph (a), investment advice is replaced by investment advice and is not an investment broker or a broker,.
 
 ### 89 Certain sections of Securities Act 1978 modified in relation to KiwiSaver scheme
-In section 210(2)(b)(ii), member's interest is replaced by member's accumulation in each place where it appears.
+In section 210(2)﻿(b)﻿(ii), member's interest is replaced by member's accumulation in each place where it appears.
 
 ### 90 Duty of Commissioner under section 50 modified in certain cases in which section 210 applies
-(1) In section 211(1)(b), member's interest is replaced by member's accumulation.
+(1) In section 211(1)﻿(b), member's interest is replaced by member's accumulation.
 (2) In section 211(2), member's interest is replaced by member's accumulation.
 
 ### 91 Application of sections 215 and 216
@@ -776,7 +776,7 @@ In section 210(2)(b)(ii), member's interest is replaced by member's accumulation
 (3) Section 214(2) is repealed.
 
 ### 92 Penalty for employer to fail to provide information
-(1) Section 215(2)(a) is replaced by the following:.
+(1) Section 215(2)﻿(a) is replaced by the following:.
   (a) nil if the Commissioner has not given notice to the employer, within the preceding 12 months, that—
     (i) a penalty may be imposed on the employer if the employer does not provide information as required by Part 2 or 3:
     (ii) the employer has been liable under subsection (1) in the preceding 12 months; and
@@ -785,9 +785,9 @@ In section 210(2)(b)(ii), member's interest is replaced by member's accumulation
 
 ### 93 Penalty for employer to fail to make deductions or to incorrectly make deductions
 (1) In the heading to section 216, to make deductions or to incorrectly make deductions is replaced by or incorrectly make deductions, or to short pay compulsory employer contributions.
-(2) In section 216(1)(b), this Act. is replaced by this Act; or, and the following is added:
+(2) In section 216(1)﻿(b), this Act. is replaced by this Act; or, and the following is added:
   (c) has an amount (a short paid amount) of short payment under subpart 3 of Part 3 that relates to a compulsory employer contribution.
-(3) In section 216(2)(a), this Act is replaced by this Act or if they have short paid amounts.
+(3) In section 216(2)﻿(a), this Act is replaced by this Act or if they have short paid amounts.
 (4) In section 216(3), to which any employer monthly schedule relates is omitted.
 (5) In section 216(4), in which the failure or incorrect deduction occurred is replaced by in which the failure to deduct, incorrect deduction, or short paid amount occurred.
 
@@ -822,19 +822,19 @@ In section 225(2), or of section 226 is omitted.
 ### 99 Regulations relating to mortgage diversion facility
 (1) In section 229(1), a mortgage diversion facility that allows contributions to be withdrawn from KiwiSaver schemes and applied towards the payment of amounts secured by mortgages is replaced by mortgage diversion facilities that allow contributions in respect of a person to be withdrawn from the person's KiwiSaver scheme and complying superannuation funds to pay amounts secured by certain mortgages relating to that person.
 (2) In section 229(2), in the words before the paragraphs, the mortgage diversion facility that is provided for in the regulations is replaced by any mortgage diversion facility provided for in regulations.
-(3) In section 229(2)(b), KiwiSaver is replaced by KiwiSaver and complying superannuation fund.
-(4) Section 229(2)(c)(ii) is replaced by the following:.
+(3) In section 229(2)﻿(b), KiwiSaver is replaced by KiwiSaver and complying superannuation fund.
+(4) Section 229(2)﻿(c)﻿(ii) is replaced by the following:.
   (ii) the date that the relevant KiwiSaver scheme provider or complying superannuation fund provider received the first contribution in respect of that person's membership to the relevant scheme or fund:
-(5) In section 229(2)(e), made available is replaced by made available, but only to the extent to which the mortgage continues to be over the person's principal residence.
-(6) In section 229(2)(f), are retained automatically in the person's KiwSaver account is replaced by are not diverted from the person's KiwiSaver scheme and complying superannuation funds.
-(7) Section 229(2)(i) is replaced by the following:.
+(5) In section 229(2)﻿(e), made available is replaced by made available, but only to the extent to which the mortgage continues to be over the person's principal residence.
+(6) In section 229(2)﻿(f), are retained automatically in the person's KiwSaver account is replaced by are not diverted from the person's KiwiSaver scheme and complying superannuation funds.
+(7) Section 229(2)﻿(i) is replaced by the following:.
   (i) the amount diverted from a person's KiwiSaver scheme and complying superannuation funds is a fixed dollar amount, and is capped at not more than the total of—
     (i) half of the total contributions deducted for or contributed by the person, received by their KiwiSaver scheme provider; and
     (ii) half of the person's contributions to their complying superannuation funds, but limited to 4% of their annual gross base salary or wages for each complying superannuation fund:
 
 ### 100 New section 230A inserted
 After section 230, the following is inserted:Regulations relating to compulsory employer contributions
-  (1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Finance, make regulations prescribing a class of employees, for the purposes of the calculation of compulsory employer contributions, under section 101D(5)(c)(ii).
+  (1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Finance, make regulations prescribing a class of employees, for the purposes of the calculation of compulsory employer contributions, under section 101D(5)﻿(c)﻿(ii).
   (2) The Minister of Finance may make a recommendation under subsection (1) only if the Minister is satisfied that an employer may not prevent compulsory employer contributions increasing their employer contributions in relation to the class of employees because terms relating to their employer contributions are imposed independently of the employer and the class of employees.
 
 ### 101 New section 234
@@ -846,7 +846,7 @@ After section 233, the following is added:Protection from non-compliance: Taxati
 (2) In clause 4(3), equal to that is replaced by not more than the.
 (3) In clause 8(8), employer vested contributions is replaced by employer vested contributions that are not compulsory employer contributions.
 (4) In clause 12(2), the words after member's accumulation are omitted.
-(5) In clause 12(3)(a), being unable is replaced by being totally and permanently unable.
+(5) In clause 12(3)﻿(a), being unable is replaced by being totally and permanently unable.
 (6) In clause 13(1), the words after the trustees are omitted.
 (7) After clause 13(1), the following is inserted:
   (1B) The application for a withdrawal under clause 10 must include a completed statutory declaration in respect of the member's assets and liabilities.
@@ -889,13 +889,13 @@ After section 9C, the following is inserted:Implied term as to reduction of sche
   (3) The application must include a copy of any participation agreements that have been ratified by employers of employees in the scheme as applicable to the registered scheme.
 
 ### 109 Dealing with applications for complying superannuation funds
-(1) In section 35(1)(a), evidence is replaced by contain.
-(2) Section 35(1)(e) is replaced by the following:
+(1) In section 35(1)﻿(a), evidence is replaced by contain.
+(2) Section 35(1)﻿(e) is replaced by the following:
   (e) any relevant participation agreement is—
     (i) an agreement entered into on or before 1 July 2007:
     (ii) an agreement (the successor participation agreement) entered into after 1 July 2007, if it succeeds and replaces a participation agreement (the prior agreement) entered into on or before 1 July 2007 or entered into after 1 July 2007 as a successor participation agreement for an earlier prior agreement.
 (3) After section 35(4), the following is added:
-  (5) For the purposes of subsection (1)(e),—
+  (5) For the purposes of subsection (1)﻿(e),—
     (a) participation agreement includes a trust deed:
     (b) a participation agreement (agreement A) succeeds and replaces another participation agreement if—
       (i) agreement A succeeds and replaces the other participation agreement due to the merger or acquisition of a party to the other participation agreement; or
@@ -931,7 +931,7 @@ After section 9C, the following is inserted:Implied term as to reduction of sche
 
 ### 111 Schedule 2—Matters to be specified in annual report
 (1) In schedule 2, clause 1(o), in the words before the subparagraphs, for the purposes of the Income Tax Act 2004 is omitted.
-(2) In schedule 2, clause 1(o)(iii), rules. is replaced by rules; and, and the following is added:
+(2) In schedule 2, clause 1(o)﻿(iii), rules. is replaced by rules; and, and the following is added:
   (iv) if there has been an increase in a fee referred to in clause 2 of the KiwiSaver scheme rules during the year, a certificate signed by the trustees of the fund that the fee as increased is not unreasonable, after having regard to any matters prescribed under section 228(p) of the KiwiSaver Act 2006 and any guidelines published by the Government Actuary under section 127 of that Act.
 
 ## Part  — KiwiSaver Regulations 2006
@@ -943,8 +943,8 @@ Sections 113 to 118 amend the KiwiSaver Regulations 2006.
 Regulation 6 is replaced by the following:Purpose of annual return regulations
   Regulations 8 and 9 provide for the annual return required under section 125 of the Act.
 
-### 114 Regulation 7 repealed
-Regulation 7 is repealed.
+### 114 Regulation 7 revoked
+Regulation 7 is revoked.
 
 ### 115 Fee subsidy
 In regulation 20(4), The provider must credit each instalment of the fee subsidy on a pro rata basis is replaced by The provider must use the contribution allocation for the member to credit each instalment of the fee subsidy.
@@ -959,7 +959,7 @@ In regulation 27(b), (which requires the amount to be capped at no more than hal
 
 ### 118 New heading and regulations 30 and 31 added
 After regulation 29, the following is added:Qualifying person for withdrawal for purpose of purchase of first homeQualifying personNotice
-  For the purposes of clause 8(3)(c)(ii) of schedule 1 of the KiwiSaver Act 2006, a person is a qualifying person if they hold a notice that complies with regulation 31 and they have given their KiwiSaver scheme provider a copy of that notice.
+  For the purposes of clause 8(3)﻿(c)﻿(ii) of schedule 1 of the KiwiSaver Act 2006, a person is a qualifying person if they hold a notice that complies with regulation 31 and they have given their KiwiSaver scheme provider a copy of that notice.
   For the purposes of regulation 30, a notice complies with this regulation if the notice—
     (a) is in the name of the person:
     (b) is signed by the Minister of Housing or a delegate:
@@ -968,15 +968,15 @@ After regulation 29, the following is added:Qualifying person for withdrawal for
 ## Part  — Holidays Act 2003
 
 ### 119 Meaning of ordinary weekly pay
-In section 8(1)(c)(iv) of the Holidays Act 2003, employee. is replaced by employee:, and the following is added:
+In section 8(1)﻿(c)﻿(iv) of the Holidays Act 2003, employee. is replaced by employee:, and the following is added:
   (v) any payment of any employer contribution to a superannuation scheme for the benefit of the employee.
 
 ### 120 Meaning of relevant daily pay
-In section 9(1)(b)(iii) of the Holidays Act 2003, employee. is replaced by employee; but, and the following is added:
+In section 9(1)﻿(b)﻿(iii) of the Holidays Act 2003, employee. is replaced by employee; but, and the following is added:
   (c) excludes any payment of any employer contribution to a superannuation scheme for the benefit of the employee.
 
 ### 121 Meaning of gross earnings
-In section 14(c)(ii) of the Holidays Act 2003, employment. is replaced by employment:, and the following is added:
+In section 14(c)﻿(ii) of the Holidays Act 2003, employment. is replaced by employment:, and the following is added:
   (iii) any payment of any employer contribution to a superannuation scheme for the benefit of the employee.
 
 ## Part  — KiwiSaver-related amendments to Income Tax Act 2007
@@ -1039,7 +1039,7 @@ Section MK 4 is replaced by the following:Amount of tax creditWhat this section 
 In section MK 6, The amount must be credited is replaced by The provider must use the contribution allocation for a member to credit the amount of the tax credit.
 
 ### 131 Treatment of tax credits on permanent emigration
-In section MK 8(2)(a), for the person is replaced by paid for the person and held by the provider.
+In section MK 8(2)﻿(a), for the person is replaced by paid for the person and held by the provider.
 
 ### 132 New sections MK 9 to MK 16 inserted
 After section MK 8, the following is inserted:Tax credits for employersEligibility requirementsWhat is requiredWhen details not requiredamountcompulsory employer contributionemployeeemployeremployer contributionemployer monthly schedulePAYE payment formtax credit 2004 No 35 s KJ 7Amount of creditAmount of contributions or calculationDefinition of item in formulaMeaning of payment periodamountemployeeemployer contributionfirst payment periodsalary or wagessecond payment period 2004 No 35 s KJ 8When tax credits arise2004 No 35 s KJ 9(1)Using tax creditsCommissioner's use of creditsTreatment of tax credit usedamountCommissionercomplying superannuation fundcompulsory employer contributionemployerfund providerInland Revenue Actstaxtax credit 2004 No 35 s KJ 9(2), (3)When short payment and unpaid compulsory employer contributions found after tax credit usedWhen this section appliesEmployer's liabilityTreatment as amount of taxamountCommissionercompulsory employer contributionemployernotifytax credit 2004 No 35 s KJ 10Employees opting outemployeeemployer contributionsalary or wages 2004 No 35 s KJ 11Groups of personscompanyemployergroup of companiesgroup of persons 2004 No 35 s KJ 12Private domestic workersemployeeprivate domestic workersalary or wages 2004 No 35 s KJ 6(4).
@@ -1049,17 +1049,17 @@ After section MK 8, the following is inserted:Tax credits for employersEligibili
       (ii) is not entitled to withdraw an amount from a fund or scheme under schedule 1, clause 4(3) of the KiwiSaver scheme rules in the KiwiSaver Act 2006 or a rule that is the same as that clause; and
     (b) provide details of the amount of the tax credit relating to the employee in an employer monthly schedule or PAYE payment form; and
     (c) meet 1 of the requirements of section 6(2) of the KiwiSaver Act 2006.
-  (2) Subsection (1)(b) does not apply if the employer has—
+  (2) Subsection (1)﻿(b) does not apply if the employer has—
     (a) an unpaid amount of compulsory employer contribution referred to in a notice under section 101I(5) of the KiwiSaver Act 2006; or
     (b) an amount of short payment under Part 3, subpart 3 of that Act.
   (1) For a payment period, the amount of a tax credit under section MK 1(2) is equal to the lesser of—
     (a) the amount of the employer contributions for the employee for the period; and
     (b) the amount calculated using the formula—$20 × weeks in payment period.
-  (2) In the formula, weeks in payment period is the number of weeks in the payment period for the payment of the employee's salary or wages, in which the employee meets the requirements of section MK 9(1)(a), including weeks in the payment period in which the employer does not pay an amount of employer contribution. Parts of a week are expressed as a decimal.
+  (2) In the formula, weeks in payment period is the number of weeks in the payment period for the payment of the employee's salary or wages, in which the employee meets the requirements of section MK 9(1)﻿(a), including weeks in the payment period in which the employer does not pay an amount of employer contribution. Parts of a week are expressed as a decimal.
   (3) In this section and in sections MK 11 to MK 13, payment period means a first payment period, a second payment period, or a month, as applicable, in which PAYE is withheld in relation to the employee.
   A tax credit referred to in section MK 10 arises—Defined in this Act: amount, Commissioner, employer, notice, private domestic worker, tax credit
-    (a) for an employer who provides details of the amount of the credit under section MK 9(1)(b),—
-      (i) on the end date for the payment period under section RA 15(3)(a) (Payment dates for interim and other tax payments) if the employer is not a private domestic worker:
+    (a) for an employer who provides details of the amount of the credit under section MK 9(1)﻿(b),—
+      (i) on the end date for the payment period under section RA 15(3)﻿(a) (Payment dates for interim and other tax payments) if the employer is not a private domestic worker:
       (ii) on the date referred to in section RA 10(3) (When obligations not met) if the employer is a private domestic worker:
     (b) for an employer to whom section MK 9(2) applies, on the day the Commissioner—
       (i) receives the notice referred to in section 101I(5) of the KiwiSaver Act 2006; or
@@ -1072,19 +1072,19 @@ After section MK 8, the following is inserted:Tax credits for employersEligibili
     (c) third, to pay an amount payable for the payment period by the employer to the Commissioner under an Inland Revenue Act:
     (d) fourth, to pay an amount that is payable by the employer to the Commissioner under an Inland Revenue Act:
     (e) fifth, to treat a tax credit as overpaid tax refundable under section RM 2 (Refunds for overpaid tax).
-  (2) An amount of tax credit used or paid under subsection (1)(a) is treated as an amount of compulsory employer contribution—
+  (2) An amount of tax credit used or paid under subsection (1)﻿(a) is treated as an amount of compulsory employer contribution—
     (a) received by the Commissioner for a payment period, for the purposes of calculating an amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006:
     (b) consequentially reducing a relevant amount of a compulsory employer contribution remaining unpaid, for the purposes of section 101K of that Act:
     (c) received by the Commissioner for the purposes of section 74 of that Act.
   (1) This section applies when—
-    (a) the Commissioner uses an amount of a tax credit under either or both section MK 12(1)(b) and (c); and
+    (a) the Commissioner uses an amount of a tax credit under either or both section MK 12(1)﻿(b) and (c); and
     (b) following that use, for the payment period to which the amount of tax credit relates, there arises—
       (i) an amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006:
       (ii) an unpaid amount of compulsory employer contribution referred to in a notice under section 101I(5) of that Act.
   (2) The employer is liable to pay an amount equal to the lesser of—
     (a) the amount of the tax credit used:
-    (b) the amount described in subsection (1)(b).
-  (3) The amount is treated as an amount of tax for the payment period in which notification of the amount described in subsection (1)(b) is given to the employer, and an equal amount is treated as a tax credit for use under section MK 12(1)(a).
+    (b) the amount described in subsection (1)﻿(b).
+  (3) The amount is treated as an amount of tax for the payment period in which notification of the amount described in subsection (1)﻿(b) is given to the employer, and an equal amount is treated as a tax credit for use under section MK 12(1)﻿(a).
   When an employee opts out under the KiwiSaver Act 2006, the amount of a tax credit for an employer contribution for the employee's salary or wages is treated as an amount of a tax credit paid in excess of that properly payable under this subpart.
   For the purposes of this subpart, a group of persons described in 1 of the following paragraphs is treated as 1 employer:
     (a) 2 or more companies, if the companies are a group of companies; and
@@ -1093,7 +1093,7 @@ After section MK 8, the following is inserted:Tax credits for employersEligibili
   For the purposes of this subpart, a private domestic worker who is an employer under paragraph (c) of the definition of employer in section 4 of the KiwiSaver Act 2006 is treated as paying salary or wages to themselves in the capacity of employee.
 
 ### 133 Salary or wages
-In section RD 5(1)(c)(vi), this Act. is replaced by this Act; and and the following is added:
+In section RD 5(1)﻿(c)﻿(vi), this Act. is replaced by this Act; and and the following is added:
   (d) is defined in section RD 65(13) for the purposes of that section.
 
 ### 134 Complying fund rules
