@@ -1,5 +1,5 @@
 # Electronic Transactions Act 2002
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-06-06_
 
 ### 1 Title
 This Act is the Electronic Transactions Act 2002.
@@ -291,23 +291,12 @@ Section 29 of the Interpretation Act 1999 is amended by repealing the definition
 | Citizenship Regulations 1978 (SR 1978/181) |  |
 | Citizenship Regulations 2002 (SR 2002/73) | Regulation 10 |
 | Civil Aviation Act 1990 (1990 No 98) | Section 11(2) and (6)(b) |
+| Corrections Regulations 2005 (SR 2005/53) | Regulation 133 |
 | Credit (Repossession) Act 1997 (1997 No 85) | Sections 8, 9, 17, 20, 21, 29(2)(a), 33, and 38 |
 | Criminal Justice Regulations 1985 (SR 1985/232) |  |
-| Dental Act 1988 (1988 No 150) | Sections 37(2) and (6) and 38(4) |
-| Dietitians Act 1950 (1950 No 44) | Section 23(6) |
 | Disabled Persons Community Welfare Act 1975 (1975 No 122) | Section 25F(4) |
 | Door to Door Sales Act 1967 (1967 No 126) | Section 6(1) |
 | Fisheries Act 1996 (1996 No 88) | Part VIII |
-| Health Act 1956 (1956 No 65) | Section 89 |
-| Human Tissue Act 1964 (1964 No 19) | Section 3 |
-| Medical Practitioners Act 1995 (1995 No 95) | Sections 80(1), (2), and (5) and 81(4) |
 | Medicines Regulations 1984 (SR 1984/143) | Regulations 41 and 42 |
-| Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46) | Sections 31, 59 to 61, and 64 |
 | Misuse of Drugs Amendment Act 1978 (1978 No 65) | Section 13C |
-| Occupational Therapy Act 1949 (1949 No 9) | Section 23(6) |
 | Passports Act 1992 (1992 No 92) | Section 12 |
-| Penal Institutions Regulations 2000 (SR 2000/81) | Regulation 161 |
-| Pharmacy Act 1970 (1970 No 143) | Sections 26(1) and (4) and 26A(4) |
-| Physiotherapy Act 1949 (1949 No 8) | Section 22(6) |
-| Tuberculosis Act 1948 (1948 No 36) | Sections 9, 10, and 16 |
-| Venereal Diseases Regulations 1982 (SR 1982/215) | Regulations 7(4) and 8 |
