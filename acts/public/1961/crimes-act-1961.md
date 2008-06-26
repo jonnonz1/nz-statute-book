@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2008-03-27_
+_Consolidation as at 2008-06-26_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -3566,9 +3566,11 @@ Where any accused person is not defended by counsel, then, on the completion of 
 (2) Nothing in this section shall limit the provisions of section 369 of this Act.
 
 ### 367 Evidence and addresses
-(1) Upon the trial of any accused person, counsel for the prosecution may open his case and after such opening (if any) shall be entitled to examine such witnesses as he thinks fit; and the accused person, whether he is defended by counsel or not, shall be allowed at the end of the case for the prosecution, if he thinks fit, to open his case, and after such opening (if any) shall be entitled to examine such witnesses as he thinks fit.
+(1) Upon the trial of any accused person, counsel for the prosecution may open his case and after such opening (if any) shall be entitled to call such witnesses as he thinks fit; and the accused person, whether he is defended by counsel or not, shall be allowed at the end of the case for the prosecution, if he thinks fit, to open his case, and after such opening (if any) shall be entitled to call such witnesses as he thinks fit.
 (1A) Without limiting subsection (1), the Court may give an accused person leave to make an opening statement, after any opening by the prosecution and before any evidence is adduced, for the purposes only of identifying the issue or issues at the trial.
 (1B) Nothing in an opening statement made under subsection (1A) limits the rights of an accused person to raise any other issue or issues at the trial.
+(1C) The Court may give an accused person (whether defended by counsel or not) leave to call 1 or more expert witnesses immediately after counsel for the prosecution has called 1 or more expert witnesses.
+(1D) Leave under subsection (1C) overrides subsection (1), but does not affect the calling of expert or other witnesses who are not the subject of the leave, or prevent cross-examination or re-examination of any expert witness.
 (2) When all the evidence (including any evidence given on cross-examination, re-examination, or in rebuttal) is concluded, counsel for the prosecution may make a closing address to the jury.
 (3) After the closing address (if any) on behalf of the prosecution the accused or his counsel may make a closing address to the jury and the prosecution shall have no right of reply in any case.
 
@@ -3691,6 +3693,111 @@ The taking of the verdict of the jury or other proceeding of the Court shall not
 ### 378 Stay of proceedings
 The Attorney-General may at any time after any person has been committed for trial or for sentence, or after an indictment has been filed against any person for any crime, and before judgment is given, direct that an entry be made in the Crown Book that the proceedings are stayed by his direction, and on that entry being made the proceedings shall be stayed accordingly.
 
+**Retrials of previously acquitted persons**
+
+### 378A Order for retrial may be granted if acquittal tainted
+(1) In this section,—
+  - **acquittal** —
+    (a) includes—
+      (i) the dismissal of an information on the merits; and
+      (ii) a discharge under section 347 or 369A; and
+      (iii) the setting aside of a conviction on appeal, without an order for a retrial; and
+      (iv) the quashing of a count under section 345(4) or (5); but
+    (b) does not include a discharge without conviction
+  - **acquitted person** means a person who has previously been acquitted of a specified offence, and who has, since that acquittal, been convicted of an administration of justice offence
+  - **administration of justice offence** means an offence against any of sections 101, 104, 109, 113, 116, and 117
+  - **prosecution** means—
+    (a) an informant acting with the prior consent of the Solicitor-General; or
+    (b) the Solicitor-General
+  - **retrial** includes, in relation to any summary proceedings that led to an acquittal, a rehearing of those proceedings
+  - **specified offence** , in relation to an acquitted person,—
+    (a) means an offence that is punishable by a term of imprisonment and for which the person has previously been acquitted; and
+    (b) includes any offence for which the person may not be tried because of that acquittal.
+(2) The High Court may, on the application of the prosecution made in accordance with rules of Court, order that an acquitted person be retried for a specified offence, if the High Court is satisfied that—
+  (a) it is more likely than not that the commission of the administration of justice offence was a significant contributing factor in the person's acquittal for the specified offence; and
+  (b) no appeal or application in relation to the administration of justice offence is pending before any court; and
+  (c) the retrial is in the interests of justice.
+(3) In determining whether the retrial sought by the prosecution is in the interests of justice, the High Court is to have particular regard to the following matters:
+  (a) the length of time since the acquitted person is alleged to have committed the specified offence:
+  (b) whether the prosecution acted with reasonable speed since discovering evidence of the administration of justice offence:
+  (c) the interests of any victim of the specified offence alleged to have been committed:
+  (d) whether the retrial for which leave is sought can be conducted fairly.
+(4) If the prosecution makes an application under this section,—
+  (a) the prosecution must take all reasonable steps to serve a copy of the application on the acquitted person, and must file in the office of the Court notice that the copy has been served or that a copy has not been served but all reasonable steps to do so have been taken:
+  (b) the defendant is entitled to be heard at the hearing of the application, which must not be held less than 14 days after notice is filed in the office of the Court under paragraph (a):
+  (c) if the application is granted, and the acquitted person is again acquitted at the retrial, the prosecution may not make any further application for an order for the retrial of the acquitted person for the specified offence that was the subject of the application.
+(5) This section does not apply if the acquitted person was acquitted of the specified offence before the commencement of this section.
+
+### 378B Meaning of terms used in sections 378C and 378D
+(1) In sections 378C and 378D,—
+  - **acquittal** —
+    (a) includes—
+      (i) a discharge under section 347 or 369A; and
+      (ii) the setting aside of a conviction on appeal, without an order for retrial; and
+      (iii) the quashing of a count under section 345(4) or (5); but
+    (b) does not include a discharge without conviction
+  - **acquitted person** means a person who has previously been acquitted of a specified serious offence
+  - **specified serious offence** , in relation to an acquitted person,—
+    (a) means an offence that is punishable by a term of imprisonment of 14 years or more and for which the person has previously been acquitted; and
+    (b) includes any offence for which the person may not be tried because of that acquittal.
+(2) For the purposes of sections 378C and 378D, evidence is new if—
+  (a) it was not given in the proceedings that resulted in the acquittal of the acquitted person; and
+  (b) it could not, with the exercise of reasonable diligence, have been given in those proceedings.
+(3) For the purposes of sections 378C and 378D, evidence is compelling if—
+  (a) it is a reliable and substantial addition to the evidence given in the proceedings that resulted in the acquittal of the acquitted person; and
+  (b) it implicates the acquitted person with a high degree of probability in the commission of the specified serious offence.
+
+### 378C Consent of Solicitor-General required in certain circumstances for exercise of powers in relation to acquitted person
+(1) Subsection (2) applies if a member of the police has good cause to suspect that information obtained, or likely to be obtained as a result of an investigation, will tend to implicate an acquitted person in the commission of a specified serious offence.
+(2) If this subsection applies, a member of the police may exercise any of the powers referred to in subsection (3) in the course of a further investigation of whether the acquitted person has committed a specified serious offence only if a member of the police first obtains the consent of the Solicitor-General.
+(3) The powers in respect of which subsection (2) applies are the following:
+  (a) questioning the acquitted person or any other person:
+  (b) searching the acquitted person or any other person:
+  (c) searching any premises or vehicles:
+  (d) seizing any thing:
+  (e) taking fingerprints or samples:
+  (f) conducting or commissioning forensic tests or analyses.
+(4) The acquitted person does not need to be notified of any proposal to seek the Solicitor-General's consent under subsection (2) or of the fact that the consent is being, or has been, sought.
+(5) The Solicitor-General may consent under subsection (2) only if he or she has reasonable grounds to believe that there is, or that a further investigation is likely to reveal, or confirm the existence of, new and compelling evidence to implicate the acquitted person in the commission of the specified serious offence.
+(6) This section does not prevent a member of the police from taking any action if—
+  (a) the action is necessary as a matter of urgency to prevent substantial prejudice to an investigation or to the administration of justice; and
+  (b) it is not reasonably practicable to obtain the consent of the Solicitor-General; and
+  (c) the Solicitor-General's consent is sought as soon as reasonably practicable after the action is taken.
+
+### 378D Order for retrial may be granted by Court of Appeal if new and compelling evidence discovered
+(1) The Court of Appeal may, on the application of the Solicitor-General made in accordance with rules of Court, order that an acquitted person be retried for a specified serious offence, if the Court of Appeal is satisfied that—
+  (a) there is new and compelling evidence to implicate the acquitted person in the commission of the specified serious offence; and
+  (b) a further trial of the acquitted person is in the interests of justice.
+(2) In determining whether a retrial of the acquitted person is in the interests of justice, the Court of Appeal is to have particular regard to the following matters:
+  (a) whether before or during the proceedings that led to the acquittal of the acquitted person for the specified serious offence all reasonable efforts were made to obtain and present all relevant evidence then available:
+  (b) the length of time since the acquitted person is alleged to have committed the specified serious offence:
+  (c) whether the police and the Solicitor-General acted with reasonable speed in making the application after obtaining new evidence against the acquitted person:
+  (d) the interests of any victim of the specified serious offence alleged to have been committed:
+  (e) whether the retrial for which leave is sought can be conducted fairly.
+(3) The Court of Appeal may, if it thinks it just to do so, exclude from its consideration any evidence against the acquitted person that has been obtained in contravention of section 378C.
+(4) The Solicitor-General may apply under this section only if satisfied of the matters stated in subsection (1)(a) and (b).
+(5) If the Solicitor-General makes an application under this section,—
+  (a) the Solicitor-General must take all reasonable steps to serve a copy of the application on the acquitted person, and must file in the office of the Court notice that the copy has been served or that a copy has not been served but all reasonable steps to do so have been taken:
+  (b) the defendant is entitled to be heard at the hearing of the application, which must not be held less than 14 days after notice is filed in the office of the Court under paragraph (a):
+  (c) if the application is granted, and the acquitted person is again acquitted, the Solicitor-General may not make any further application for an order for the retrial of the person for the specified serious offence that was the subject of the application.
+(6) This section does not apply if the acquitted person was acquitted of the specified serious offence before the commencement of this section.
+
+### 378E Orders to safeguard fairness of retrial
+(1) An order for a retrial under section 378A or 378D may be granted subject to—
+  (a) any conditions that the court considers are required to safeguard the fairness of the retrial:
+  (b) any other directions as to the conduct of the retrial.
+(2) A court may, if it considers that the interests of justice so require, exclude any person from the hearing of an application under section 378A or 378D, or forbid any report or account of any evidence given or referred to at such a hearing or prohibit the publication of the name of the acquitted person or of any other person connected with a retrial for which leave is sought or has been granted.
+(3) For the purposes of subsection (2), sections 138 and 140 of the Criminal Justice Act 1985, so far as they are applicable, apply with all necessary modifications.
+
+### 378F Effect of order for retrial
+(1) If an order for a retrial is granted under section 378A or 378D,—
+  (a) the order of the Court must be certified by the Judge or, as the case requires, the presiding Judge to the Registrar of the Court before which the person was tried, and the order must be carried into effect:
+  (b) the acquitted person may be arrested or summoned to appear before a court:
+  (c) the retrial must be conducted in the same manner as a retrial ordered following a successful appeal by a defendant against conviction:
+  (d) the provisions of any enactment that enable a defendant who successfully appeals against conviction but in respect of whom a retrial is ordered, to be arrested, summoned to appear, remanded in custody, or released on bail, pending his or her retrial, apply with any necessary modifications to the acquitted person.
+(2) Subsection (1) overrides sections 357 to 359 and any other enactment or rule of law.
+(3) In this section, retrial includes, in relation to summary proceedings that led to an acquittal, a rehearing of those proceedings.
+
 ## Part 13 — Appeals
 
 ### 379 Interpretation
@@ -3717,6 +3824,7 @@ In this Part of this Act, unless the context otherwise requires,—
   (e) Against the granting of leave on an application under section 109(1)(d) of the Evidence Act 2006 relating to the identity of a witness, or against the refusal of a Judge to grant such leave:
   (f) Against the making of an anonymity order under sections 112 and 113 of the Evidence Act 2006, or against the refusal of a Judge to make an anonymity order under that section.
   (g) against the making of an order under section 44 of the Evidence Act 2006 relating to the cross examination of a complainant, or against the refusal to make such an order.
+  (ga) against the making of an order under section 378A for a person to be retried or against the refusal to make such an order:
 (2) At any time before the trial, the accused person, with the leave of the court appealed to, may appeal to the Court of Appeal or the Supreme Court—
   (a) Against the making of an order under subsection (1) of section 322 of this Act, or against the imposition by a Judge of any condition under subsection (3) of that section:
   (b) Against a refusal to make an order under the proviso to section 331 of this Act.
@@ -3724,6 +3832,10 @@ In this Part of this Act, unless the context otherwise requires,—
 (4) Where a person desires to obtain the leave of the Court of Appeal to appeal to that Court under this section, he shall give notice of his application for leave to appeal in such manner as may be directed by rules of Court within 10 days after the decision of the Court or Judge is given, irrespective of whether reasons for the decision are given at a later date and irrespective of whether any formal steps to sign, enter, or otherwise perfect the decision are necessary or are afterwards taken.
 (5) The time within which notice of an application for leave to appeal to the Court of Appeal under this section may be given may be extended at any time by the Court of Appeal.
 (6) Notwithstanding that an application for leave to appeal under subsection (1)(aa) of this section has been made, the Court may, if it is satisfied that it is in the interests of justice to do so, proceed with the trial without awaiting the determination of the application.
+
+### 379AB Appeal against decision of Court of Appeal on appeal against certain orders
+(1) With the leave of the Supreme Court, an accused person may appeal to the Supreme Court against a decision of the Court of Appeal on appeal under section 379A(1) or (2).
+(2) With the leave of the Supreme Court, the Solicitor-General may appeal to the Supreme Court against a decision of the Court of Appeal on appeal under section 379A(1).
 
 **Appeal on question of bail**
 
@@ -3769,11 +3881,20 @@ In this Part of this Act, unless the context otherwise requires,—
 (3A) The decision of the Court of Appeal to refuse to grant leave is final.
 (4) If the Court has arrested judgment, and refused to pass any sentence, the prosecutor may without leave move the Court of Appeal to pass a proper sentence.
 
+### 381A Question of law arising out of discharge under section 347 or stay of prosecution may be referred to Court of Appeal
+(1) A Judge who directs that an accused be discharged under section 347 or for any reason that a prosecution be stayed may, on the application of the prosecutor, refer for the opinion of the Court of Appeal any question of law arising out of that direction.
+(2) The prosecutor must apply as soon as reasonably practicable after the Judge gives his or her reasons for the direction, and in no case later than 10 days after the reasons for the direction are given.
+(3) When a question is referred to the Court of Appeal, the accused who has been discharged or whose prosecution has been stayed is subject to again being arrested or summoned to appear if the Court of Appeal orders a new trial.
+(4) The Judge who refers a question to the Court of Appeal must approve and sign the form of the question.
+(5) If the Judge refuses to refer a question to the Court of Appeal, the prosecutor may apply to the Court of Appeal for leave to appeal against that refusal.
+(6) The Court of Appeal may, on considering any evidence it requires, grant or refuse leave.
+(7) If leave to appeal is granted, a case must be stated for the opinion of the Court of Appeal as if the question had been referred under subsection (1).
+
 ### 382 Powers of Court of Appeal where appeal is on question of law
 (1) The Court of Appeal may, in its discretion, send back any case to the Court by which it was stated to be amended or restated.
 (2) Upon the hearing of any appeal under the foregoing provisions of this Part of this Act, other than section 379A, the Court of Appeal may—
   (a) Confirm the ruling appealed from; or
-  (b) If of opinion that the ruling was erroneous, and that there has been a mistrial in consequence, direct a new trial; or
+  (b) If of opinion that the ruling was erroneous, and that there has been a mistrial or that the accused has been wrongly discharged or that the prosecution has been wrongly stayed in consequence, direct a new trial; or
   (c) If it considers the sentence erroneous or the arrest of judgment erroneous, pass such a sentence as ought to have been passed, or set aside any sentence passed by the Court below, and remit the case to the Court below with a direction to pass the proper sentence; or
   (d) If of opinion, where the accused has been convicted, that the ruling was erroneous, and that the accused ought to have been acquitted, order that the conviction be set aside, which order shall be deemed to be an acquittal; or
   (e) In any case, whether the appeal is on behalf of the prosecutor or of the accused, direct a new trial; or
@@ -3790,9 +3911,11 @@ In this Part of this Act, unless the context otherwise requires,—
   (a) The conviction; or
   (b) The sentence passed on the conviction (unless the sentence is one fixed by law); or
   (c) Both.
+(1A) Any person sentenced under section 28F(4) of the District Courts Act 1947 to a term of imprisonment or to a fine that exceeds the maximum term of imprisonment or the maximum fine that may be imposed by a District Court under section 7 of the Summary Proceedings Act 1957 (which is a term of imprisonment not exceeding 5 years or a fine not exceeding $10,000 or both), may appeal to the Court of Appeal against that sentence.
 (2) The Solicitor-General, with the leave of the court appealed to, may appeal to the Court of Appeal or the Supreme Court against the sentence passed on the conviction of any person on indictment, unless the sentence is one fixed by law.
-(3) Every appeal under subsection (2) of this section against a sentence of detention which is not heard before the date on which the person convicted has completed serving that sentence shall lapse on that date, and thereupon the appeal shall be deemed to have been dismissed by the court concerned for non-prosecution.
-(4) For the purposes of an appeal under subsection (2) of this section, the term sentence shall include any method of disposing of a case following conviction.
+(2A) The Solicitor-General, with the leave of the Court of Appeal, may appeal to the Court of Appeal against a sentence imposed under section 28F(4) of the District Courts Act 1947 if the sentence appealed against is a term of imprisonment or a fine that exceeds the maximum term of imprisonment or the maximum fine that may be imposed by a District Court under section 7 of the Summary Proceedings Act 1957 (which is a term of imprisonment not exceeding 5 years or a fine not exceeding $10,000 or both).
+(3) Every appeal under subsection (2) or (2A) against a sentence of detention which is not heard before the date on which the person convicted has completed serving that sentence shall lapse on that date, and thereupon the appeal shall be deemed to have been dismissed by the court concerned for non-prosecution.
+(4) For the purposes of an appeal under subsection (2) or (2A), the term sentence shall include any method of disposing of a case following conviction.
 
 ### 383A Appeal against decision of Court of Appeal on appeal against conviction or sentence
 (1) With the leave of the Supreme Court, a convicted person may appeal to the Supreme Court against a decision of the Court of Appeal on appeal under section 383.
@@ -3810,6 +3933,18 @@ In this Part of this Act, unless the context otherwise requires,—
 (5) With the leave of the Supreme Court, a person convicted of contempt of Court may appeal to the Supreme Court against a decision of the Court of Appeal on appeal under this section.
 (6) This section is subject to section 14 of the Supreme Court Act 2003 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
 
+### 384A Jurisdiction in certain cases where appeals lie to different Courts
+(1) This section applies if—
+  (a) a person to whom section 383(1) or (1A) applies also has a right of appeal (a related right of appeal) to the High Court against conviction or sentence in respect of—
+    (i) an offence arising from the same incident or series of incidents as the conviction or sentence to which the right of appeal under section 383(1) or (1A) relates; or
+    (ii) an offence for which the person was sentenced on the same occasion as the imposition of the sentence to which the right of appeal under section 383(1) or (1A) relates:
+  (b) the Solicitor-General has a right of appeal under section 383(2) or (2A) against a sentence imposed on a person against whom the informant also has a right of appeal (a related right of appeal) to the High Court in respect of the sentence imposed on that person for—
+    (i) an offence arising from the same incident or series of incidents as the sentence to which the right of appeal under section 383(2) or (2A) relates; or
+    (ii) an offence for which the person was sentenced on the same occasion as the imposition of the sentence to which the right of appeal under section 383(2) or (2A) relates.
+(2) If this section applies, and any person or, as the case may be, the Solicitor-General appeals to the Court of Appeal under section 383 or 384,—
+  (a) all other appeals by the person or the Solicitor-General arising from the exercise of a related right of appeal must also be heard and determined in the Court of Appeal instead of the High Court, unless one or more of those appeals is to the Supreme Court; and
+  (b) the provisions of this Part apply to those appeals with any necessary modifications.
+
 ### 385 Determination of appeals in ordinary cases
 (1AA) This subsection applies to—
   (a) an appeal to the Supreme Court or the Court of Appeal against conviction:
@@ -3824,7 +3959,12 @@ In this Part of this Act, unless the context otherwise requires,—
 (2A) This subsection applies to—
   (a) an appeal to the Supreme Court or the Court of Appeal against sentence:
   (b) an appeal to the Supreme Court against a decision of the Court of Appeal on appeal under section 383 against sentence.
-(3) On any appeal to which subsection (2A) applies, the Court of Appeal or the Supreme Court, if it thinks that a different sentence should have been passed, shall either quash the sentence passed and pass such other sentence warranted in law (whether more or less severe) in substitution therefor as the Court thinks ought to have been passed or vary, within the limits warranted in law, the sentence or any part of it or any condition imposed in it; and in any other case the Court shall dismiss the appeal.
+(3) On any appeal to which subsection (2A) applies, the Court of Appeal or the Supreme Court must—
+  (a) dismiss the appeal; or
+  (b) if it thinks that a different sentence should have been passed,—
+    (i) quash the sentence and replace it with another sentence warranted in law (whether more or less severe) that the Court thinks ought to have been passed; or
+    (ii) vary, within the limits warranted in law, the sentence or any part of it or any condition imposed in it; or
+  (c) remit the case to the Court that imposed the sentence with a direction that such Court take an action of the kind described in paragraph (b)(i) or (ii) in accordance with any directions given by the Court of Appeal or the Supreme Court as the case may be.
 
 ### 386 Powers of appellate courts in special cases
 (1) If on any appeal under section 383 of this Act it appears to the Court of Appeal or the Supreme Court that an appellant, though not properly convicted on some count or part of the indictment, has been properly convicted on some other count or part of the indictment, the Court may either affirm the sentence passed on the appellant or pass such sentence in substitution therefor as it thinks proper and as may be warranted in law by the verdict on the count or part of the indictment on which the Court considers that the appellant has been properly convicted.
@@ -3931,7 +4071,7 @@ For the purposes of any appeal or application for leave to appeal against convic
   (a) the rules of Court provide that he or she has the right to be present; or
   (b) the Court of Appeal gives leave for him or her to be present.
 (2) The power of the Court of Appeal to pass any sentence under this Act may be exercised, notwithstanding that the appellant is for any reason not present.
-(3) Subsections (1) to (2) do not apply to—
+(3) Subsections (1A) and (2) do not apply to—
   (a) an appeal to the Supreme Court; or
   (b) an application for leave to appeal to the Supreme Court.
 
@@ -3942,7 +4082,7 @@ For the purposes of any appeal or application for leave to appeal against convic
 [Repealed]
 
 ### 398 Judgment of Court of Appeal
-(1) Unless the Court of Appeal directs to the contrary in cases where, in the opinion of the Court, the question is a question of law on which it would be convenient that separate judgments should be pronounced by the members of the Court, the judgment of the Court of Appeal on any appeal or motion under this Act, and the opinion of the Court of Appeal on any point referred to it or question of law reserved under this Act, shall be pronounced by the presiding Judge or such other member of the Court hearing the case as the presiding Judge directs, and no judgment with respect to the determination of any question shall be separately pronounced by any other member of the Court.
+(1)
 (2) Every judgment of the Court of Appeal on an appeal or application under this Part (other than one relating to a preliminary or incidental matter) must be accompanied by reasons.
 
 ### 399 Intermediate effects of appeal
@@ -4010,7 +4150,7 @@ No civil remedy for any act or omission shall be suspended by reason that such a
 
 ### 406 Prerogative of mercy
 Nothing in this Act shall affect the prerogative of mercy, but the Governor-General in Council, on the consideration of any application for the exercise of the mercy of the Crown having reference to the conviction of any person by any Court or to the sentence (other than a sentence fixed by law) passed on any person, may at any time if he thinks fit, whether or not that person has appealed or had the right to appeal against the conviction or sentence, either—
-  (a) Refer the question of the conviction or sentence to the Court of Appeal or, where the person was convicted or sentenced by a District Court acting in its summary jurisdiction or under section 28F(2) of the District Courts Act 1947, to the High Court, and the question so referred shall then be heard and determined by the Court to which it is referred as in the case of an appeal by that person against conviction or sentence or both, as the case may require; or
+  (a) Refer the question of the conviction or sentence to the Court of Appeal or, where the person was convicted or sentenced by a District Court acting in its summary jurisdiction or under section 28F(4) of the District Courts Act 1947, to the High Court, and the question so referred shall then be heard and determined by the Court to which it is referred as in the case of an appeal by that person against conviction or sentence or both, as the case may require; or
   (b) If he desires the assistance of the Court of Appeal on any point arising in the case with a view to the determination of the application, refer that point to the Court of Appeal for its opinion thereon, and the Court shall consider the point so referred and furnish the Governor-General with its opinion thereon accordingly.
 
 ### 406A Appeals against decisions made on references
@@ -4051,6 +4191,25 @@ This Act shall bind the Crown.
 ### 412 Repeals and savings
 (1) As from the commencement of this Act the enactments specified in Schedule 4 to this Act shall cease to have effect as part of the law of New Zealand.
 (2) The enactments specified in Schedule 5 to this Act are hereby repealed.
+
+### 413 Enactment creating offence is repealed and replaced or consolidated
+Section 414 applies if—
+  (a) an enactment that forms a part of this Act and that creates an offence is repealed and is replaced by, or is consolidated in, a new enactment, whether in the same or a different form; and
+    (i) proceedings are commenced for an offence contrary to the repealed enactment in reliance on section 19 of the Interpretation Act 1999; or
+    (ii) proceedings are commenced for an offence contrary to the new enactment; or
+    (iii) proceedings are commenced for an offence contrary to the repealed enactment in reliance on section 19 of the Interpretation Act 1999 and, in the alternative, for an offence contrary to the new enactment; and
+  (b) the date of the act or omission by the defendant constituting the alleged offence cannot be established with sufficient certainty to determine whether it occurred before the repeal of the repealed enactment or after the commencement of the new enactment.
+
+### 414 Repealed enactment continues to have effect
+(1) The repealed enactment referred to in section 413(a) continues to have effect for the purposes of the proceedings.
+(2) The defendant may be found guilty or convicted of the offence created by the repealed enactment if the defendant’s act or omission—
+  (a) would have constituted an offence under both the repealed enactment and the new enactment referred to in section 413(a); and
+  (b) occurred on a date that cannot be established with certainty but that is established to have occurred either after the commencement of the repealed enactment and before its repeal or after the commencement of the new enactment and before its repeal.
+(3) If subsection (1) applies, the defendant is entitled to raise any defence to the repealed enactment that the defendant would be entitled to raise under the new enactment, if that defence is relevant to the repealed enactment.
+(4) A defendant found guilty or convicted, in accordance with this section, of an offence created by the repealed enactment is liable to a maximum penalty which is the lesser of that prescribed for the offence of which the defendant is found guilty or convicted and that prescribed for the corresponding offence created under the new enactment.
+
+### 415 Inconsistency with other enactment or rule of law
+If sections 413 and 414 are inconsistent with any other enactment or rule of law, sections 413 and 414 prevail over that enactment or rule of law.
 
 ## Schedule 1 — Carrying out sentence of death
 
@@ -4167,3 +4326,20 @@ This Act shall bind the Crown.
 ## Schedule 5 — New Zealand enactments repealed
 
 ## Schedule 6 — Interception warrant
+
+### 1 Title
+This Act is the Crimes Amendment Act (No 2) 2008.
+
+### 2 Commencement
+(1) Section 4 comes into force on the day that is 6 months after the date on which this Act receives the Royal assent.
+(2) The rest of this Act comes into force on the day after the date on which this Act receives the Royal assent.
+
+### 5 Evidence and addresses
+(1) Amendment incorporated in the principal Act.
+(2) Amendment incorporated in the principal Act.
+(3) This section applies in respect of an accused person only if—
+  (a) the accused person is committed for trial on or after the date on which this section comes into force; or
+  (b) the accused person is committed for trial before the date on which this section comes into force and the trial has not commenced before that date.
+
+### 19 Transitional provision
+Despite section 384A of the Crimes Act 1961, every appeal filed before the commencement of that section must be heard and determined as if section 384A had not been enacted.
