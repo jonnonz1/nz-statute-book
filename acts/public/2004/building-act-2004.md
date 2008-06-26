@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2008-03-15_
+_Consolidation as at 2008-06-26_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -4436,7 +4436,7 @@ A territorial authority or a regional authority must, by 31 May 2006, apply to b
   (a) begins on the date of commencement of Part 2; and
   (b) ends on the earlier of—
     (i) the date on which an application for registration by the territorial authority under section 191 is granted or refused; or
-    (ii) 30 June 2008
+    (ii) 31 March 2009
 (3A) A territorial authority that is registered under section 191 must, until the time specified in subsection (3B), act as a building consent authority in relation to a dam within the territorial authority's district.
 (3B) The time is the earlier of the following:
   (a) the close of the day before the date specified in subsection (3)(b)(ii); and
