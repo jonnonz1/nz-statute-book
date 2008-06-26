@@ -1,5 +1,5 @@
 # Summary Offences Act 1981
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-06-26_
 
 > An Act to reform and restate the law relating to summary offences, and to replace the Police Offences Act 1927 and its amendments
 
@@ -23,6 +23,9 @@ _Consolidation as at 2007-09-03_
   - **Prison officer** means an officer within the meaning of section 3(1) of the Corrections Act 2004; and includes a security officer within the meaning of that section
   - **Public place** means a place that, at any material time, is open to or is being used by the public, whether free or on payment of a charge, and whether any owner or occupier of the place is lawfully entitled to exclude or eject any person from that place; and includes any aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle carrying or available to carry passengers for reward
   - **Serious drug offence** means an offence against any of the provisions listed in Schedule 4
+  - **spraycan** means a container (made of any material or materials) that—
+    (a) contains paint, dye, ink, or some other pigment; and
+    (b) is so designed that the pigment it contains can be propelled from it (whether by a compressed or liquefied gas, or by mechanical means)
   - **Traffic officer** means a traffic officer who is an officer of the Ministry of Transport or of a local authority; and includes any other person whose appointment as a traffic officer has been approved by the Minister of Transport
   - **Unlawful weapon**
 (2) Without limiting the definition of the term public place in subsection (1) of this section, for the purposes of this Act, a person is in a public place if he is in any aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle, which is in a public place.
@@ -135,6 +138,14 @@ Every person is liable to a fine not exceeding $2,000 who, being a parent or gua
 (3) The fact that the person charged had an interest in the property at the material time shall not prevent his act constituting an offence against this section if he did it with intent to defraud or to cause loss to any other person.
 (4) For the purposes of subsection (3) of this section, where any property is subject to any mortgage or charge, each of the parties to the mortgage or charge shall be deemed to have an interest in the property.
 
+### 11A Graffiti vandalism, tagging, defacing, etc
+A person is liable to a community-based sentence (within the meaning of section 4(1) of the Sentencing Act 2002) or a fine not exceeding $2,000, or to both, if he or she damages or defaces any building, structure, road, tree, property, or other thing by writing, drawing, painting, spraying, or etching on it, or otherwise marking it,—
+  (a) without lawful authority; and
+  (b) without the consent of the occupier or owner or other person in lawful control.
+
+### 11B Possession of graffiti implements
+A person is liable to a sentence of community work or a fine not exceeding $500, or to both, if without reasonable excuse he or she has in his or her possession a thing capable of being used to commit an offence against section 11A in circumstances in which it can reasonably be inferred that he or she intends to use it to commit such an offence.
+
 ### 12 Acts endangering safety
 Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who, in any public place, without reasonable excuse and in circumstances likely to cause injury,—
   (a) Places or makes any obstruction; or
@@ -150,6 +161,32 @@ Every person is liable to imprisonment for a term not exceeding 3 months or a fi
 
 ### 14 Possession of burglary tools
 Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who, without reasonable excuse, has in his possession any instrument capable of being used for burglary in circumstances that prima facie show an intention to use it for burglary.
+
+**Spraycans**
+
+### 14A Sale of spraycans to people under 18 prohibited
+(1) A person who sells a spraycan to a person under the age of 18 years is liable to a fine not exceeding $1,500.
+(2) In any proceedings for an offence against subsection (1) in respect of selling a spraycan to a person (the buyer), it is a defence if the defendant proves that—
+  (a) the defendant is—
+    (i) a Board (within the meaning of section 2(1) of the Education Act 1989), or an employee of a Board; or
+    (ii) the governing body of a tertiary education provider (within the meaning of section 159(1) of the Education Act 1989), or an employee of a tertiary education provider; and
+  (b) when the spraycan was sold, the buyer was enrolled at a school or institution managed by the Board or tertiary education provider; and
+  (c) the spraycan was sold to the buyer to enable him or her to undertake the work of his or her course at the school or institution, or to complete an assignment or project for the school or institution.
+(3) In any proceedings for an offence against subsection (1) in respect of selling a spraycan to a person (the buyer), it is a defence if the defendant proves that,—
+  (a) before or at the time of the sale of the spraycan, there was produced to the defendant a document purporting to be an evidence of age document; and
+  (b) the defendant believed on reasonable grounds that the document—
+    (i) was in fact an evidence of age document; and
+    (ii) related to the buyer; and
+    (iii) indicated that the buyer was of or over the age of 18 years.
+(4) For the purposes of subsection (3), evidence of age document means a document that—
+  (a) contains—
+    (i) a photograph of the person to whom it is issued; and
+    (ii) information enabling the person's age to be determined; and
+  (b) is—
+    (i) a New Zealand passport; or
+    (ii) an overseas passport; or
+    (iii) a driver licence issued under the Land Transport Act 1998; or
+    (iv) a document of the kind described in section 2A(2)(d) of the Sale of Liquor Act 1989.
 
 ## Part  — Offences Resembling Forgery or Fraud
 
@@ -305,10 +342,10 @@ Every person is liable to a fine not exceeding $500 who (not being a member of t
 (1) Every person is liable to a fine not exceeding $200 who urinates or defecates in any public place other than a public lavatory.
 (2) It is a defence in a prosecution under this section if the defendant proves that he had reasonable grounds for believing that he would not be observed.
 
-### 33 Billsticking, defacing, etc
+### 33 Billsticking
 Every person is liable to a fine not exceeding $200 who, without the consent of the owner or occupier,—
   (a) Affixes any placard, banner, poster, or other material bearing any writing or pictorial representation to any structure, or to or from any tree; or
-  (b) Writes, paints, sprays, or etches on, or otherwise marks, any structure.
+  (b)
 
 ### 34 Throwing stones
 Every person is liable to a fine not exceeding $200 who throws or discharges any stone or other object in a manner that is likely to cause injury or damage.
