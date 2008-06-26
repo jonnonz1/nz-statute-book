@@ -1,5 +1,5 @@
 # Crimes Amendment Act 2005
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-06-26_
 
 ### 1 Title
 (1) This Act is the Crimes Amendment Act 2005.
@@ -287,7 +287,7 @@ The enactments specified in Schedule 2 are repealed.
 ### 12 Acts done before commencement of amending provisions
 (1) Every provision of the principal Act amended or repealed by a section of this Act applies to an act or omission occurring before the commencement of the section as if the section had not been enacted.
 (2) Every enactment amended or repealed by section 10 or section 11 applies to an act or omission occurring before the commencement of those sections as if those sections had not been enacted.
-(3) Subsections (1) and (2) are subject to section 13.
+(3) Subsections (1) and (2) are subject to section 13, the District Courts Amendment Act (No 2) 2008, and the Summary Proceedings Amendment Act (No 2) 2008.
 
 ### 13 Availability of new defences
 To the extent (if any) that, with or without modification, a provision of the principal Act substituted by a section of this Act replaces or corresponds to a provision of the principal Act repealed by that section, there are available to a person charged after the commencement of that section with an offence against the repealed provision, so far as they are applicable,—
