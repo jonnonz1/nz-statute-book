@@ -1,5 +1,5 @@
 # Victims' Rights Act 2002
-_Consolidation as at 2007-11-29_
+_Consolidation as at 2008-06-26_
 
 ### 1 Title
 This Act is the Victims' Rights Act 2002.
@@ -156,6 +156,9 @@ Information required to be given under section 11 or section 12 may be given to 
 (3) The judicial officer must not grant leave unless satisfied—
   (a) that the information is directly relevant to the facts in issue in the proceedings; and
   (b) that the evidential value of the information (if any) outweighs any prejudice to the victim's interests, or any harm to the victim, that is likely to be caused by the giving of the information.
+
+### 16A Criminal proceedings to which section 16 does not apply
+Nothing in section 16 applies to a criminal proceeding if it is necessary to disclose the information in the charge in order to ensure that the defendant is fully and fairly informed of the nature of the charge.
 
 **Victim impact statements**
 
