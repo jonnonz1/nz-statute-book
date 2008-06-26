@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2008-05-04_
+_Consolidation as at 2008-06-26_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
@@ -749,6 +749,12 @@ Where at the hearing of any charge both the informant and the defendant appear, 
 (3) Where a corporation is charged with an offence in respect of which an individual would be entitled under this section to elect to be tried by a jury, an election to be so tried may be made on behalf of the corporation by its representative; and, where the corporation does not appear by a representative or no such election is made on behalf of the corporation, the Court may, subject to the provisions of this section, deal with the case summarily as if the offence were an offence to which subsection (1) of this section did not apply.
 (4) Where a defendant who is charged under this Part of this Act with an indictable offence elects under this section to be tried by a jury, the proceedings shall continue as if he had been charged on an information in form 2 in Schedule 2 to this Act.
 (5) Where a defendant who is charged with a summary offence elects under this section to be tried by a jury, the proceedings shall continue as if the offence were an indictable offence not punishable summarily, and, if he is committed for trial or for sentence, he may be dealt with accordingly.
+(5A) If a defendant who is an individual is present in Court and deliberately refuses to elect to be tried either by a jury or the Court, or fails to make an election, after being addressed in the manner provided in subsection (2) and being warned, after refusing or failing to make an election, of the consequences of failing to make an election,—
+  (a) the Court must, unless it considers that the defendant may be under a disability, order—
+    (i) that the defendant be tried by the Court instead of by a jury; or
+    (ii) if any defendant who is a co-accused is to be tried by a jury, that the defendant be tried by a jury instead of the Court; and
+  (b) an order of the Court under paragraph (a) is to be treated subsequently as an election by the defendant to be tried by the Court or, as the case requires, a jury.
+(5B) Subsection (5A) is subject to subsection (7).
 (6) A defendant who has elected under this section to be tried by a jury may, by leave of the Court at any time before he is committed for trial or for sentence, withdraw his election, and thereupon the Court may, notwithstanding anything in section 153A or section 168 of this Act, deal summarily with the case in all respects as if no such election had been made, and the foregoing provisions of this section shall no longer apply:
   Provided that where the Court is presided over by 2 or more Justices or one or more Community Magistrates and the defendant has pleaded guilty to an offence which the Court does not have jurisdiction to deal with summarily by reason of its constitution, the Court shall record the plea and shall adjourn the proceedings for the defendant to be sentenced or otherwise dealt with by a Court presided over by a District Court Judge.
 (6A) Where a defendant who has elected under this section to be tried by a jury has pleaded guilty pursuant to the provisions of section 168 of this Act and he is not represented by a barrister or solicitor, the Court, unless it considers that leave should not be granted to the defendant to withdraw his election, shall draw to his attention the provisions of subsection (6) of this section.
@@ -1572,11 +1578,13 @@ A defendant who appeals by way of case stated against any determination shall no
     (ii) An order declining an application for the payment for such costs; or
     (iii) An order for the estreat of a bond,—
 (2) In the case of a conviction, the appeal may be against the conviction and the sentence passed on the conviction, or against the conviction only, or against the sentence only; and, in the case of an order for the payment of money, the appeal may be against the order and the amount of the sum ordered to be paid, or only against the amount of the sum ordered to be paid.
+(2A) A person sentenced under section 28F(4) of the District Courts Act 1947 to a term of imprisonment or to a fine that does not exceed the maximum term of imprisonment or the maximum fine that may be imposed by a District Court under section 7 may appeal to the High Court against the sentence.
 (3) No appeal against conviction shall be brought until the person convicted has been sentenced or otherwise dealt with.
 (4) Every appeal under this section, or under any of sections 115A to 115DA, is a general appeal.
 
 ### 115A Informant's right of appeal against sentence
 (1) Where on the determination by a District Court of any information the defendant is convicted and sentenced, the informant may appeal to the High Court against the sentence passed on the conviction, unless the sentence is one fixed by law.
+(1A) The informant may appeal to the High Court against a sentence imposed under section 28F(4) of the District Courts Act 1947 if the sentence appealed against is a term of imprisonment or a fine that does not exceed the maximum term of imprisonment or the maximum fine that may be imposed by a District Court under section 7 (which is a term of imprisonment not exceeding 5 years or a fine not exceeding $10,000, or both).
 (2) No appeal shall be brought under this section unless the consent of the Solicitor-General has first been obtained and is lodged with the notice of appeal:
   Provided that any document evidencing the Solicitor-General's consent may be signed on his behalf by a person purporting to be a Crown Counsel.
 (2A) If the defendant is the Crown Law Office,—
@@ -1601,6 +1609,9 @@ Any person against whom an order (other than an order to the effect only that a 
 
 ### 115DA Right of appeal against order for costs
 An informant may appeal to the High Court against an order for the payment of costs made by a District Court in favour of the defendant.
+
+### 115DB Rights of appeal subject to Crimes Act 1961
+Sections 115 to 115DA are subject to section 384A of the Crimes Act 1961.
 
 ### 115E Procedural provisions applying to appeals under section 115D
 [Repealed]
@@ -1902,11 +1913,11 @@ Section 46, with the necessary modifications, applies with respect to proceeding
 (5) If the defendant does not plead guilty, or if he (or where the defendant is a corporation, a representative of the defendant) does not personally attend the proceedings, he shall be treated in all respects as if he had not made any request to plead guilty, and no comment shall be made at the preliminary hearing or any subsequent proceedings on the fact that such a request has been made, nor shall the request be admissible in evidence against him in any proceedings.
 (6) If the defendant pleads guilty, then, subject to section 66(6) of this Act,—
   (a) Where—the Court shall record the plea and adjourn the proceedings for the sentencing of the defendant in accordance with section 28F of the District Courts Act 1947, and section 47 of this Act and section 50 of the Bail Act 2000 shall apply on every such adjournment; or
-    (i) The offence is an indictable offence referred to in section 6(2) of this Act; or
-    (ii) The offence is an indictable offence described in any of the enactments referred to in Schedule 1 to this Act; or
-    (iii) The defendant elected under section 66 of this Act to be tried by a jury; or
-    (iv) The offence is an indictable offence referred to in Part 1 of Schedule 1A to the District Courts Act 1947; or
-    (v) The offence is an indictable offence referred to in Part 2 of Schedule 1A to the District Courts Act 1947,—
+    (i) the defendant elected under section 66 to be tried by a jury; or
+    (ii) the offence is an indictable offence under any enactment (other than an offence referred to in Part 2 of Schedule 1A of the District Courts Act 1947); or
+    (iii) the offence is an offence to which section 28A(1)(d), (e), or (f) of the District Courts Act 1947 applies,—
+    (iv)
+    (v)
   (b) In any other case, the Court shall commit the defendant to the High Court for sentence.
 (6A)
 (6B)
@@ -2002,7 +2013,7 @@ When all the evidence has been given, if the Court is of opinion that the eviden
 
 ### 168A Court to which defendant to be committed
 (1) Subject to subsection (2), the Court to which a defendant must be committed for trial under section 168 or section 172 is as follows:
-  (a) In respect of any offence that a District Court has jurisdiction to try by virtue of any of paragraphs (a) to (d) of section 28A(1) of the District Courts Act 1947, either—
+  (a) In respect of any offence that a District Court has jurisdiction to try by virtue of any of paragraphs (a), (b), and (d) to (f) of section 28A(1) of the District Courts Act 1947, either—
     (i) The District Court exercising that jurisdiction nearest to the committing Court; or
     (ii) Such other District Court exercising that jurisdiction as may be specified in regulations made under this Act as being a Court to which the defendant may be committed for trial (even if not nearest to the committing Court):
   (b) In respect of any other offence, either—
@@ -2017,7 +2028,7 @@ When all the evidence has been given, if the Court is of opinion that the eviden
 (4) Nothing in this section shall affect the provisions of section 28J of the District Courts Act 1947.
 
 ### 168AA High Court Judge to determine Court of trial in certain cases
-(1) This section applies to every case in which a defendant is committed to the High Court for trial for any offence referred to in Part 2 of Schedule 1A to the District Courts Act 1947.
+(1) This section applies to every case in which a defendant is committed to the High Court for trial for any offence referred to in Part 1 of Schedule 1A to the District Courts Act 1947.
 (2) In each case to which this section applies, a Judge of the High Court shall determine on the papers whether it is more appropriate for the trial to be held in a District Court; and, if the Judge determines that the trial would be more appropriately held in a District Court, the Judge shall, by order, transfer the case to the District Court exercising jurisdiction under Part 2A of the District Courts Act 1947 nearest to the committing Court. No party to the proceedings shall be entitled to be heard by, or to make submissions to, the Judge under this subsection.
 (3) In determining the appropriate Court under subsection (2) of this section in any case, the Judge shall have regard to the following matters:
   (a) The gravity of the offence charged:
@@ -2649,6 +2660,8 @@ Except as expressly provided in the Children, Young Persons, and Their Families 
   (e) Prescribing the procedure for the taking of the evidence of witnesses under sections 31, 32, and 174 of this Act, including provisions for requiring the attendance of witnesses, the answering of questions, and the production of documents:
   (ea) Prescribing the factors to be taken into account in deciding, for the purposes of Part 3 of this Act, whether or not a defendant has or has had sufficient means to pay a sum adjudged to be paid by a conviction:
   (eb) Providing for information about proceedings under this Act to be transferred between courts, where that information is relevant to proceedings under the Domestic Violence Act 1995 or the Harassment Act 1997, including (without limitation) provision for such information to be transferred between different courts, or between different divisions of the same court, or between courts exercising civil jurisdiction and courts exercising criminal jurisdiction, or between courts exercising original jurisdiction and courts exercising appellate jurisdiction:
+  (ec) amending Schedule 1 by adding offences to, or removing offences from, Part 1 or Part 2 of that schedule:
+  (ed) prescribing transitional arrangements for the trial and sentencing of persons charged with offences that are added to or removed from Part 1 or Part 2 of Schedule 1
   (f) Providing for any other matters in respect of which regulations are contemplated under this Act.
 (3)
 
@@ -2669,6 +2682,7 @@ The enactments specified in Schedule 3 to this Act are hereby amended in the man
 | 86 | Unlawful assembly |
 | 87 | Riot |
 | 91 | Forcible entry and detainer |
+| 98A | Participation in organised criminal group |
 | Part 6—Crimes Affecting the Administration of Law and Justice |  |
 | 107 | Contravention of statute |
 | 110, 111 | Making false oath or statement or declaration |
@@ -2681,17 +2695,16 @@ The enactments specified in Schedule 3 to this Act are hereby amended in the man
 | Part 7—Crimes Against Religion, Morality, and Public Welfare |  |
 | 124 | Distribution or exhibition of indecent matter |
 | 125, 126 | Indecent acts |
+| 129A(2) | Inducing indecent act by threat |
 | 130(2) | Incest |
 | 131(1) | Sexual connection with dependent family member |
 | 131(2) | Attempted sexual connection with dependent family member |
 | 131(3) | Indecent act with dependent family member |
 | 131B(1) | Meeting young person under 16 following sexual grooming, etc |
-| 132(2) | Attempted sexual connection with child under 12 |
-| 132(3) | Indecent act on child under 12 |
 | 134(1) | Sexual connection with young person under 16 |
 | 134(2) | Attempted sexual connection with young person under 16 |
 | 134(3) | Indecent act on young person under 16 |
-| 135(1) | Indecent assault |
+| 135 | Indecent assault |
 | 138(1) | Exploitative sexual connection with person with significant impairment |
 | 138(2) | Attempted exploitative sexual connection with person with significant impairment |
 | 138(4) | Exploitative indecent act with person with significant impairment |
@@ -2732,27 +2745,33 @@ The enactments specified in Schedule 3 to this Act are hereby amended in the man
 | 216B | Prohibition on use of listening devices |
 | 216C | Prohibition on disclosure of private communications unlawfully intercepted |
 | 216D | Prohibition on dealing with listening device |
+| 216F | Unlawful disclosure |
 | 216H | Prohibition on making intimate visual recording |
 | 216I | Prohibition on possessing intimate visual recording in certain circumstances |
 | 216J | Prohibition on publishing, importing, exporting, or selling intimate visual recording |
 | Part 10—Crimes against rights of property |  |
-| 219 | Theft or stealing |
+| 219, 223(a) to (c) | Theft or stealing |
+| 220, 223(a) to (c) | Theft by person in special relationship |
+| 221, 223(a) to (c) | Theft of animals |
 | 226 | Conversion of vehicle or other conveyance |
 | 227 | Being in possession of instrument for conversion |
 | 228 | Dishonestly taking or using document |
 | 229 | Criminal breach of trust |
 | 230 | Taking, obtaining, or copying trade secrets |
 | 231 | Burglary |
+| 232(2) | Aggravated burglary |
 | 233 | Being disguised or in possession of instrument for burglary |
 | 234 | Robbery |
 | 236(2) | Assault with intent to rob |
-| 239 | Demanding with intent to steal, etc |
-| 240 | Obtaining by deception |
+| 239(2) | Demanding with intent to steal, etc |
+| 240, 241(a) and (b) | Obtaining by deception |
 | 242 | False statement by promoter, etc |
 | 243 | Money laundering |
-| 246 | Receiving |
+| 246, 247(a) and (b) | Receiving |
 | 249 | Accessing computer system for dishonest purpose |
 | 250 | Damaging or interfering with computer system |
+| 251 | Making, selling, or distributing, or possessing software for committing crime |
+| 252 | Accessing computer system without authorisation |
 | 256 | Forgery |
 | 257 | Using forged documents |
 | 258 | Altering, concealing, destroying, or reproducing document with intent to deceive |
@@ -2766,8 +2785,7 @@ The enactments specified in Schedule 3 to this Act are hereby amended in the man
 | 266 | Offences involving coinage |
 | 267(2) and (3) | Arson |
 | 268 | Attempted arson |
-| 269 | Intentional damage |
-| 270 | Endangering transport |
+| 269(2) and (3) | Intentional damage |
 | 271 | Waste or diversion of electricity, gas, or water |
 | 272 | Providing explosive to commit crime |
 | Part 11—Threatening, Conspiring, and Attempting to Commit Offences |  |
@@ -2795,6 +2813,7 @@ The enactments specified in Schedule 3 to this Act are hereby amended in the man
 |  | 54 | Use or attempted use of firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive to resist or prevent an arrest or commit offence |
 |  | 55 | Carrying firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive with criminal intent. |
 | The Auctioneers Act 1928 | 38 | Misappropriation, or falsifying accounts |
+| The Aviation Crimes Act 1972 | 11 | Taking firearms, explosives, etc, on to aircraft |
 | The Bankruptcy Act 1908 |  |  |
 | Biosecurity Act 1993 | 154(f), (g), (h), (i), (j), (k), (l), (m) | Offences relating to dealings with goods in contravention of the Biosecurity Act 1993 and failure to comply with specified provisions of that Act |
 | The Births and Deaths Registration Act 1951 | 48 | Making false statement |
@@ -2808,6 +2827,8 @@ The enactments specified in Schedule 3 to this Act are hereby amended in the man
 | The Civil Union Act 2004 | 30 | Offence to issue licence or solemnise civil union contrary to Act |
 |  | 31 | Offence to purport to solemnise civil union |
 |  | 32 | Offences in connection with false statements relating to civil union |
+| The Citizens Initiated Referenda Act 1993 | 43(4)(a) | Making false returns |
+|  | 43(4)(b) | Illegal practice regarding returns |
 | The Commerce Act 1975 | 81F | Offences in relation to monopolies, mergers, and takeovers |
 |  | 81H(4) | Contravention of order restraining proposed transaction or sale of assets |
 | The Companies Act 1955 | 188A | Certain persons prohibited from managing companies |
@@ -2834,7 +2855,18 @@ The enactments specified in Schedule 3 to this Act are hereby amended in the man
 | The Compulsory Retirement Savings Scheme Referendum Act 1997 | 54 | Voting papers |
 | Copyright Act 1964 |  |  |
 | Copyright Act 1994 | 131 | Offences relating to making or dealing with infringing objects |
+| Corporations (Investigation and Management) Act 1989 | 9 | Information offences |
+|  | 17 | Hindering inspection |
+|  | 20(1) | Hindering investigation |
+|  | 20(2) | Information offences |
+|  | 23 | Information offences |
+|  | 35(1) | Contravening Registrar |
+|  | 35(2) | Obstruction |
+|  | 36 | Unauthorised disclosure |
+|  | 43 | Unauthorised removal of assets |
+|  | 68 | Destroying, altering, or concealing records |
 | The Cornish Companies Management Act 1974 |  |  |
+| The Coroners Act 1988 | 43(4) | False statement |
 | Credit Contracts and Consumer Finance Act 2003 | 103(2) | Dealing with land without leave of the High Court |
 | Criminal Investigations (Bodily Samples) Act 1995 | 77(2) | Offences in respect of DNA profile databank |
 | Customs and Excise Act 1996 | 182 | Unauthorised access to or improper use of Customs computerised entry processing system |
@@ -2885,11 +2917,13 @@ The enactments specified in Schedule 3 to this Act are hereby amended in the man
 |  | 142(1)(eb) | Assisting person to enter New Zealand unlawfully |
 |  | 142(1)(ec) | Assisting completion of arrival card in false or misleading manner |
 |  | 142(2) | Modifying form after completion and signing |
+| The Industrial and Provident Societies Act 1908 | 15(c)(iii) | False declaration |
 | Immigration Advisers Licensing Act 2007 | 63(1)(a) | Provision of immigration advice unless licensed or exempt |
 | 64(1) | Holding out as immigration adviser unless licensed or exempt |  |
 | 65(1) | Holding out as licensed immigration adviser |  |
 | 67(1)(a) | Asking for or receiving fee or reward for immigration advice when neither licensed nor exempt |  |
 | 68(1)(a) | Employing or contracting unlicensed or non-exempt person as immigration adviser. |  |
+| Insolvency Act 1967 | 128A | Offence by undischarged bankrupt |
 | Insolvency Act 2006 | 419 to 428, 430 | Offences by bankrupt |
 | The Inspector-General of Intelligence and Security Act 1996 | 28 | Unauthorised making or disclosure of records. |
 | The Intelligence and Security Committee Act 1996 | 20 | Unauthorised making or disclosure of records |
@@ -2897,6 +2931,7 @@ The enactments specified in Schedule 3 to this Act are hereby amended in the man
 | The Land Drainage Act 1908 | 82 | Wilful damage to works |
 | The Land Transfer Act 1952 | 225 | Fraudulently procuring certificate of title, etc |
 |  | 226 | Forging seal of Registrar, etc |
+|  | 228A | Fraudulent removal of records |
 | The Land Transport Act 1998 | 32(4) | Driving while disqualified or contrary to limited licence or while licence suspended or revoked |
 |  | 36(1) | Reckless or dangerous driving causing injury or death, or failing to stop and render assistance after person injured or killed |
 |  | 36A(1) (a) and (2) | Operating a motor vehicle in a race or unnecessary exhibition of speed or acceleration in contravention of section 22A(1), and by that act or omission causing an injury to or the death of another person |
@@ -2909,6 +2944,7 @@ The enactments specified in Schedule 3 to this Act are hereby amended in the man
 |  | 62(1) | Causing injury or death while carelessly driving vehicle and under influence of drink or drug (other than an offence against section 61) |
 | The Licensing Act 1908 |  |  |
 | The Local Elections and Polls Act 1976 |  |  |
+| The Life Insurance Act 1908 | 29 | Falsifying statements, etc |
 | The Local Electoral Act 2001 | 123 and 124 | Offences in respect of official documents and voting offences |
 | The Local Government Act 1974 |  |  |
 | The Local Government Act 2002 | 232(2) | Wilful or malicious destruction, damage, stopping, obstruction, or interference with works or property vested in, or under the control of, a local authority |
@@ -2948,10 +2984,12 @@ The enactments specified in Schedule 3 to this Act are hereby amended in the man
 | The Proceeds of Crime Act 1991 | 58 | Contravention of restraining orders |
 |  | 84 | Dealings with forfeited property. |
 | The Prostitution Reform Act 2003 | 23 | Offence to breach prohibitions on use in prostitution of persons under 18 years |
+| The Protection of Personal and Property Rights Act 1988 | 45(3) | False statement |
 | The Public Service Investment Society Management Act (No 2) 1979 | 22 | Destroying or altering records |
 | The Real Estate Agents Act 1976 | 59 | Rendering false account |
 | The Referenda (Postal Voting) Act 2000 | 68(2) | Voting papers |
-| The Reserve Bank of New Zealand Act 1989 |  |  |
+| The Reserve Bank of New Zealand Act 1989 | 29 | Making or issuing of other bank notes or coins |
+|  | 176 | Offence against Act |
 | Residential Tenancies Act 1986 | 106 | Giving false evidence |
 | The Sales Tax Act 1974 |  |  |
 | Securities Act 1978 | 60C | offence of contravening management banning order |
@@ -2966,6 +3004,14 @@ The enactments specified in Schedule 3 to this Act are hereby amended in the man
 |  | 43M | offence of contravening investment adviser or broker banning order |
 |  | 43N | persons automatically banned from investment adviser or broker activities |
 |  | 43T | offence of contravening order to preserve assets |
+| The Secret Commissions Act 1910 | 3 | Gifts to agent without consent of principal an offence |
+|  | 4 | Acceptance of such gifts by agent an offence |
+|  | 5 | Duty of agent to disclose pecuniary interest in contract |
+|  | 6 | Giving false receipt, invoice, etc, to agent an offence |
+|  | 7 | Delivery of false receipt, etc, to principal an offence |
+|  | 8 | Receiving secret reward for procuring contracts an offence |
+|  | 9 | Aiding and abetting offences |
+|  | 10 | Offences by person acting on behalf of agents |
 | The Serious Fraud Office Act 1990 | 45 | Offences as to obstructing investigation, etc |
 |  | 46 | Offence to destroy, alter, or conceal records, etc |
 | The Shipping and Seamen Act 1952 |  |  |
@@ -2986,6 +3032,7 @@ The enactments specified in Schedule 3 to this Act are hereby amended in the man
 |  | 45(1) | Unlawful possession of specimen of endangered or threatened species |
 | The Trade Marks Act 1953 |  |  |
 | Trade Marks Act 2002 | 120 to 124 | Offences relating to counterfeiting or falsely using registered trade marks |
+| The Trade Unions Act 1908 | 29 | Circulating false copies of rules, etc |
 | The Transport Act 1962 |  |  |
 | The Trustee Companies Management Act 1975 | 20 | Destroying or altering records |
 | The Veterinary Surgeons Act 1956 | 22 | Offences as to registration |
@@ -3060,3 +3107,22 @@ The Registrar who receives the notice of appeal—
 ## Schedule 3 — Enactments amended
 
 ## Schedule 4 — Enactments repealed
+
+### 1 Title
+This Act is the Summary Proceedings Amendment Act (No 2) 2008.
+
+### 2 Commencement
+(1) This Act (other than this section and sections 3, 8 to 11, 13, and 14) comes into force on a date to be appointed by the Governor-General by Order in Council.
+(2) This section and sections 3, 8 to 11, 13, and 14 come into force on the day after the date on which this Act receives the Royal assent.
+
+### 20 Transitional provision
+(1) If, before the commencement of section 12 of this Act, an information has been laid indictably or a defendant has elected trial by jury under section 66, the preliminary hearing must proceed as if this Act had not been passed.
+(2) Despite subsection (1), proceedings against a defendant who has elected trial by jury under section 66 or in respect of whom an information has been laid indictably, must be conducted in accordance with the principal Act as amended by section 12 of this Act if,—
+  (a) before the preliminary hearing has begun, the defendant named in the information absconds and he or she is not located until more than 1 month after the commencement of this Act; or
+  (b) after the commencement of section 12 of this Act,—
+    (i) the information or one of the informations is withdrawn and another information is substituted; or
+    (ii) an additional information, arising from the same transaction, or set of circumstances, or incident, or series of incidents, is laid; or
+    (iii) an information is laid against another person, charging him or her with an offence arising from the same transaction, or set of circumstances, or incident, or series of incidents, specified in the first information, and the prosecutor wishes the charges against both defendants to be heard together.
+(3) No hearing or other proceeding is invalid only because—
+  (a) it was conducted in accordance with subsection (1) when it ought to have been conducted in accordance with subsection (2); or
+  (b) it was conducted in accordance with subsection (2) when it ought to have been conducted in accordance with subsection (1).
