@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2008-05-29_
+_Consolidation as at 2008-07-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -1572,6 +1572,8 @@ A share user under a share-lending arrangement who pays a replacement payment to
     (ii) whose annual gross income for the tax year in which they last filed a return of income is more than $2,000,000:
   (j) a person in an accounting year who reasonably believes their annual gross income for the tax year that corresponds to the next accounting year will be more than $2,000,000:
   (k) a person who derives in a tax year an amount that is exempt income under sections CW 38(2), CW 39(2), CW 40 to CW 52, and CW 63 of the Income Tax Act 2007 in relation to their activities in the capacity in which they derive the exempt income:
+  (kb) a Board of Trustees that is constituted under Part 9 of the Education Act 1989 and is not carried on for the private pecuniary profit of any individual:
+  (kc) a tertiary education institution that is established under Part 14 of the Education Act 1989 and is not carried on for the private pecuniary profit of any individual:
   (l) a person to whom section DV 8 of the Income Tax Act 2007 applies and who would, but for that section, have net income of an amount less than the amount set out in the section for their most recently ended accounting year.
 (3) The person must apply in writing to the Commissioner, and the application must—
   (a) state the basis of exemption under subsection (2); and
@@ -1685,8 +1687,8 @@ For the purposes of section 32E(2)(i), when the person is part of a group of com
     (ii) Interest or a dividend that is subject to the RWT rules; or
     (iii) Interest or a dividend that does not have a New Zealand source; or
     (iiib) a taxable Maori authority distribution; or
-    (iiic)
-    (iv) a source or sources other than those listed in subparagraphs (i) to (iiib) and the total amount derived is $200 or less; and
+    (iiic) a personal service rehabilitation payment for a claimant under the Injury Prevention, Rehabilitation, and Compensation Act 2001; or
+    (iv) a source or sources other than those listed in subparagraphs (i) to (iiic) and the total amount derived is $200 or less; and
     (iv)
   (b) Derives a total of $200 or less of—
     (i) income that is subject to the PAYE rules in relation to which the person's obligations under those rules are not met; and
@@ -1730,7 +1732,9 @@ For the purposes of section 32E(2)(i), when the person is part of a group of com
   (c) Is not a cash basis person; or
   (cb)
   (d) received total income of more than $200 that included—
-    (i) a schedular payment, not being an amount or proportion of a schedular payment for which the Commissioner has made a determination under section RD 8(3) of the Income Tax Act 2007:
+    (i) a schedular payment, if it is not—
+      (A) an amount or proportion of a schedular payment for which the Commissioner has made a determination under section RD 8(3) of the Income Tax Act 2007:
+      (B) income that is a personal service rehabilitation payment for a claimantunder the Injury Prevention, Rehabilitation, and Compensation Act 2001:
     (ii) beneficiary income; or
   (d)
   (db)
@@ -1760,6 +1764,13 @@ For the purposes of section 32E(2)(i), when the person is part of a group of com
 
 ### 33B Return not required for certain scheduler gross income
 [Repealed]
+
+### 33C Return not required for certain providers of personal services
+A natural person who derives income in an income year for providing personal services to a person who is a claimant under the Injury Prevention, Rehabilitation, and Compensation Act 2001 is not required to furnish a return of income for the corresponding tax year if—
+  (a) a personal service rehabilitation payment is made for the claimant and for the personal services; and
+  (b) the taxable income of the person does not exceed $14,000 for the tax year; and
+  (c) tax is withheld at the rate of 15% or 12.5% from the personal service rehabilitation payment; and
+  (d) the person is not required to furnish a return of income under section 33A(1) for the tax year, ignoring for the purposes of that section income from providing personal services for which personal service rehabilitation payments are made.
 
 ### 34 Presumption as to authority of person making return
 A return purporting to be made by or on behalf of any person shall for all purposes be deemed to have been made by that person or by that person's authority, as the case may be, unless the contrary is proved.
@@ -7722,13 +7733,9 @@ This Act is the Taxation (Business Taxation and Remedial Matters) Act 2007.
 (7) Subsections (1) to (6) apply for the 2008–09 and later income years.
 
 ### 197 Annual returns of income not required
-(1) After section 33A(1)(a)(iiib), the following is inserted:.
-  (iiic) a personal service rehabilitation payment for a claimant under the Injury Prevention, Rehabilitation, and Compensation Act 2001; or
-(2) In section 33A(1)(a)(iv), (iiib) is replaced by (iiic).
-(3) Section 33A(2)(d)(i) is replaced by the following:.
-  (i) a schedular payment, if it is not—
-    (A) an amount or proportion of a schedular payment for which the Commissioner has made a determination under section RD 8(3) of the Income Tax Act 2007:
-    (B) income that is a personal service rehabilitation payment for a claimantunder the Injury Prevention, Rehabilitation, and Compensation Act 2001:
+(1) Amendment incorporated in the principal Act
+(2) Amendment incorporated in the principal Act
+(3) Amendment incorporated in the principal Act
 (4) Amendment incorporated in the principal Act
 (5) Subsection (4) applies for the 2008–09 and later income years.
 
