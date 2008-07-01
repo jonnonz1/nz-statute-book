@@ -1,5 +1,5 @@
 # Injury Prevention, Rehabilitation, and Compensation Act 2001
-_Consolidation as at 2008-04-09_
+_Consolidation as at 2008-07-01_
 
 ### 1 Title
 This Act is the Injury Prevention, Rehabilitation, and Compensation Act 2001.
@@ -4737,11 +4737,11 @@ If the Corporation is determining earnings under this Part in relation to a self
 (2) For the purpose of calculating weekly compensation for loss of earnings payable to the claimant for any period after the 5-week period, the claimant is deemed to have had, immediately before his or her incapacity commenced, the minimum weekly earnings as determined under subclause (3).
 (3) The minimum weekly earnings are—
   (a) for a person under 18 years of age, the amount as at 1 July each year which is the greater of—
-    (i) the minimum weekly wage for a person under the age of 18 years under the Minimum Wage Act 1983; or
+    (i) the minimum weekly wage under the Minimum Wage Act 1983 for a person aged 18 years or older to whom section 4(1)(c) of that Act does not apply; or
     (ii) 125% of the rate for a single person under the age of 18 years of invalid's benefit under the Social Security Act 1964; or
     (iii) the higher of the amounts calculated under subparagraphs (i) and (ii) as at 1 July in the preceding year.
-  (b) for a person over 18 years of age, the amount as at 1 July each year which is the greater of—
-    (i) the minimum weekly wage for a person over the age of 18 years under the Minimum Wage Act 1983; or
+  (b) for a person 18 years of age or over, the amount as at 1 July each year which is the greater of—
+    (i) the minimum weekly wage under the Minimum Wage Act 1983 for a person aged 18 years or older to whom section 4(1)(c) of that Act does not apply; or
     (ii) 125% of the rate for a single person over the age of 18 years of invalid's benefit under the Social Security Act 1964; or
     (iii) the higher of the amounts calculated under subparagraphs (i) and (ii) as at 1 July in the preceding year.
 (4)
