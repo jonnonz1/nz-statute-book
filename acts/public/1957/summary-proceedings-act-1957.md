@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2008-06-26_
+_Consolidation as at 2008-07-01_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
@@ -2904,6 +2904,8 @@ The enactments specified in Schedule 3 to this Act are hereby amended in the man
 | The Friendly Societies Act 1909 | 75 | Wrongful supply of rules of society or branch |
 | The Gambling Act 2003 | 353 | Offences involving counterfeit chips |
 | The Harbours Act 1950 |  |  |
+| Health Act 1956 | 69ZZR(1) | Offences against sections in Part 2A |
+|  | 69ZZT | Offences involving deception |
 | Human Assisted Reproductive Technology Act 2004 | 8(1) | Taking an action described in Schedule 1 |
 |  | 8(2) | Importing or exporting an in vitro gamete, any kind of in vitro embryo or in vitro foetus, or in vitro being formed by an action described in Schedule 1 |
 |  | 8(3) | Possessing a gamete, any kind of embryo or foetus, or being formed by an action described in Schedule 1 |
