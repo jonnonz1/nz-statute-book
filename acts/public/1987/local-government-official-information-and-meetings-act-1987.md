@@ -1,5 +1,5 @@
 # Local Government Official Information and Meetings Act 1987
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-07-01_
 
 > An Act to make official information held by local authorities more freely available, to provide for proper access by each person to official information relating to that person which is held by local authorities, to provide for the admission of the public to meetings of local authorities, to protect official information held by local authorities and the deliberations of local authorities to the extent consistent with the public interest and the preservation of personal privacy, and to establish procedures for the achievement of those purposes
 
@@ -451,6 +451,11 @@ Except as expressly provided in this Act, nothing in this Act shall derogate fro
     (i) Is known to the territorial authority; but
     (ii) Is not apparent from the district scheme under the Town and Country Planning Act 1977 or a district plan under the Resource Management Act 1991:
   (b) Information on private and public stormwater and sewerage drains as shown in the territorial authority's records:
+  (ba) any information that has been notified to the territorial authority by a drinking-water supplier under section 69ZH of the Health Act 1956:
+  (bb) information on—
+    (i) whether the land is supplied with drinking water and if so, whether the supplier is the owner of the land or a networked supplier:
+    (ii) if the land is supplied with drinking water by a networked supplier, any conditions that are applicable to that supply:
+    (iii) if the land is supplied with water by the owner of the land, any information the territorial authority has about the supply:
   (c) Information relating to any rates owing in relation to the land:
   (d) Information concerning any consent, certificate, notice, order, or requisition affecting the land or any building on the land previously issued by the territorial authority (whether under the Building Act 1991, the Building Act 2004, or any other Act):
   (e) Information concerning any certificate issued by a building certifier pursuant to the Building Act 1991 or the Building Act 2004:
