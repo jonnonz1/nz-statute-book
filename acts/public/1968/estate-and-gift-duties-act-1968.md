@@ -1,5 +1,5 @@
 # Estate and Gift Duties Act 1968
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2008-07-01_
 
 > An Act to consolidate and amend the law relating to estate duty and gift duty
 
@@ -449,7 +449,7 @@ Where the Commissioner is satisfied that a gift, together with all other gifts m
 Where the Commissioner is satisfied that any gift is made for or towards the maintenance of the wife, husband, civil union partner, de facto partner, or any relative of the donor, or for or towards the education of any such relative, and is not excessive in amount, having regard to the legal or moral obligation of the donor to provide that maintenance or means of education, the gift shall not constitute a dutiable gift.
 
 ### 73 Exemption for gifts to charities and certain bodies
-(1) Any gift creating a charitable trust, or establishing any society or institution exclusively for charitable purposes, or any gift in aid of any such trust, society, or institution, shall not constitute a dutiable gift.
+(1) Any gift creating a charitable trust, or establishing any society or institution exclusively for charitable purposes, or any gift in aid of any such trust, society, or institution, shall not constitute a dutiable gift if, at the time that the gift is made, the society, institution, or trustees of the trust is or are a tax charity, as that term is defined under section CW 41(5) of the Income Tax Act 2007
 (2) Without limiting the provisions of subsection (1) of this section, the following classes of gifts shall not constitute dutiable gifts:
   (a) Any gift to the New Zealand Historic Places Trust for the purposes of the Historic Places Act 1993:
   (b) Any gift of a protected New Zealand object, as defined in the Protected Objects Act 1975, to the Minister of Internal Affairs on behalf of the Crown, or to any library, museum, or other public institution for the benefit of the public:
@@ -463,6 +463,8 @@ Where the Commissioner is satisfied that any gift is made for or towards the mai
   (h) Any gift to the New Zealand Council for Educational Research for the purposes of the New Zealand Council for Educational Research Act 1972:
   (i)
   (j) Any gift to the Queen Elizabeth the Second National Trust for the purposes of the Queen Elizabeth the Second National Trust Act 1977.
+  (jb) any gift to a Board of Trustees that is constituted under Part 9 of the Education Act 1989 and is not carried on for the private pecuniary profit of any individual:
+  (jc) any gift to a tertiary education institution that is established under Part 14 of the Education Act 1989 and is not carried on for the private pecuniary profit of any individual:
   (k) Any gift made by a local authority under section 225C(d) of the Local Government Act 1974 to a community trust established in accordance with section 225D of that Act where that gift constitutes—
     (i) The proceeds of the sale of shares or equity securities referred to in section 225C of the Local Government Act 1974; or
     (ii) Any income derived from or capital gain arising on such proceeds, if that income or gain is paid to the community trust before a date set by the Governor-General by Order in Council for the purposes of this paragraph either in relation to that community trust or to community trusts generally.
