@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2008-07-01_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -2177,11 +2177,10 @@ A person who is supplied with reticulated water by, or on behalf of, a local aut
   (c) fails or refuses to do anything that he or she has undertaken or agreed to do in respect of the water supply to his or her land or building; or
   (d) refuses entry to, or obstructs, an enforcement officer under section 182.
 (2) Restriction of the water supply under subsection (1) must not create unsanitary conditions in, or associated with, the land or building.
+(3) Restriction of the water supply under subsection (1) is subject to section 69S of the Health Act 1956.
 
 ### 194 Power to stop water services
-A local government organisation may stop water services temporarily if that is necessary to enable the local government organisation—
-  (a) to undertake repairs to any part of a water service:
-  (b) to respond appropriately to a situation or an event that is or may become a nuisance or danger to public health.
+[Repealed]
 
 **Discharge of sewage and trade wastes**
 
