@@ -1,5 +1,5 @@
 # Charities Act 2005
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2008-07-01_
 
 ### 1 Title
 This Act is the Charities Act 2005.
@@ -45,7 +45,7 @@ The purpose of this Act is to—
   - **rules** means,—
     (a) in relation to the trustees of a trust, the rules, trust deeds, and instruments constituting, or defining the constitution of, that trust; and
     (b) in relation to any other entity, the rules, constitution, and instruments constituting, or defining the constitution of, that entity
-  - **serious wrongdoing** , in relation to an entity, includes any serious wrongdoing of any of the following types
+  - **serious wrongdoing** , in relation to an entity, includes any serious wrongdoing of any of the following types:
     (a) an unlawful or a corrupt use of the funds or resources of the entity; or
     (b) an act, omission, or course of conduct that constitutes a serious risk to the public interest in the orderly and appropriate conduct of the affairs of the entity; or
     (c) an act, omission, or course of conduct that constitutes an offence; or
@@ -331,7 +331,7 @@ A search of the register for personal information that has not been carried out 
 
 ### 30 Commission may supply register information or documents for purposes of Inland Revenue Acts
 (1) The Commission may supply any register information or documents to a person for the purpose of assisting the person in the exercise of the person's powers under any of the Inland Revenue Acts or in the performance of the person's functions under any of the Inland Revenue Acts if, in the opinion of the Commission, it is in all the circumstances appropriate to do so.
-(2) For the purposes of this section, register information or documents means—ExampleA society has become registered as a charitable entity.Members of the public donate money to the society and claim rebates of income tax in respect of those gifts under subpart LD of the Income Tax Act 2007.In order to determine whether a rebate can properly he claimed, the Inland Revenue Department needs to consider whether the society is of a kind referred to in subpart LD of the Income Tax Act 2007. The information contained in the application for registration of the society as a charitable entity could assist in this process.The Commission may supply a copy of the application for registration of the society as a charitable entity to the Inland Revenue Department.
+(2) For the purposes of this section, register information or documents means—ExampleA society has become registered as a charitable entity.Members of the public donate money to the society and claim rebates of income tax in respect of those gifts under subpart LD of the Income Tax Act 2007.In order to determine whether a rebate can properly be claimed, the Inland Revenue Department needs to consider whether the society is of a kind referred to in subpart LD of the Income Tax Act 2007. The information contained in the application for registration of the society as a charitable entity could assist in this process.The Commission may supply a copy of the application for registration of the society as a charitable entity to the Inland Revenue Department.
   (a) information or documents that are contained in the register:
   (b) information or documents that would have been contained in the register but for the exercise of a power under section 25 to omit or remove that information or those documents from the register.
 
@@ -398,7 +398,7 @@ The entity and any officer of the entity may send or deliver to the Commission a
 
 ### 37 No holding out unless registered under this Act
 (1) A person must not—
-  (a) use a style or title including the words registered charitable entity ; or
+  (a) use a style or title including the words registered charitable entity; or
   (b) state or imply, or permit a statement or implication, that—
     (i) the person is registered as a charitable entity under this Act; or
     (ii) an entity that the person acts on behalf of is registered as a charitable entity under this Act.
@@ -611,7 +611,7 @@ In considering whether to revoke an entity's status as forming part of a single 
   (d) a summary of the grounds for the Commission's opinion.
 (3) However,—
   (a) before the Commission exercises its powers under subsection (2), the Commission must give to the charitable entity or person notice of—
-    (i) the Commission's decision to publish a notice under this section; and.
+    (i) the Commission's decision to publish a notice under this section; and
     (ii) the reasons for the Commission's decision; and
     (iii) the entity's or person's right to appeal the decision under section 59; and
   (b) the Commission must not exercise its powers under subsection (2) earlier than 20 working days after the date on which the notice referred to in paragraph (a) is given to the charitable entity or person.
@@ -676,8 +676,8 @@ In considering whether to revoke an entity's status as forming part of a single 
 (5) If the High Court refuses to make an interim order, the person or persons who applied for the order may, within 1 month after the date of the refusal, appeal to the Court of Appeal against the decision.
 (6) If an interim order is made under subsection (1), the Commission must,—
   (a) amend the register of charitable entities in accordance with the order as soon as is reasonably practicable after receiving the order; and
-  (b) include a copy of the order in the register of charitable entities, unless the Court orders otherwise.
-(7) To enable the Commission to fulfil the duties imposed by this section, the Registrar of the Court in which the interim order is made must send a copy of the order to the Commission as soon as practicable.
+  (b) include a copy of the order in the register of charitable entities, unless the court orders otherwise.
+(7) To enable the Commission to fulfil the duties imposed by this section, the Registrar of the court in which the interim order is made must send a copy of the order to the Commission as soon as practicable.
 
 ### 61 Determination of appeal
 (1) In determining an appeal, the High Court may—
@@ -719,22 +719,16 @@ Despite section 195 of the Crown Entities Act 2004, the following apply to the C
 In this subpart, the Income Tax Act 2004 is called the principal Act.
 
 ### 65 Charities: non-business income
-Section CW 34 of the principal Act is amended by inserting, after subsection (1), the following heading and subsection:Exclusion: trustees, society, or institution not registered
-  (1B) This section does not apply to an amount of income if, at the time that the amount of income is derived, the trustee or trustees of the trust, the society, or the institution is not, or are not, registered as a charitable entity.
+Amendment(s) incorporated in the Act(s).
 
 ### 66 Charities: business income
-Section CW 35(1) of the principal Act is amended by inserting, after paragraph (a), the following paragraph:.
-  (ab) the trustee or trustees of the trust, the society, or the institution is or are, at the time that the income is derived, registered as a charitable entity; and.
+Amendment(s) incorporated in the Act(s).
 
 ### 67 Charitable bequests
-Section CW 36 of the principal Act is amended by adding the following heading and subsections:Registration as charitable entity not required until end of income year that follows income year in which deceased died
-  (4) An amount of income derived by a deceased's executor or administrator that is derived during the period beginning on the deceased's date of death and ending at the end of the income year that follows the income year in which the deceased died is not prevented from being exempt income under this section merely because the trustee or trustees of the trust, the society, or the institution is not, or are not, registered as a charitable entity.
-  (5) For the purposes of subsection (4), until the end of the income year that follows the income year in which the deceased died, the requirements in sections CW 34 and CW 35 for the trustee or trustees of the trust, the society, or the institution to be registered as a charitable entity must be disregarded when applying those sections for the purposes of this section.
-  (6) This section does not apply to an amount of income derived after the end of the income year that follows the income year in which the deceased died if, at the time that the amount of income is derived, the trustee or trustees of the trust, the society, or the institution is not, or are not, registered as a charitable entity.
+Amendment(s) incorporated in the Act(s).
 
 ### 68 Definitions
-Section OB 1 of the principal Act is amended by inserting, in its appropriate alphabetical order, the following definition:.
-  - **registered as a charitable entity** means registered as a charitable entity under the Charities Act 2005.
+Amendment(s) incorporated in the Act(s).
 
 ### Subpart 3 — Amendments to Tax Administration Act 1994
 
@@ -742,19 +736,15 @@ Section OB 1 of the principal Act is amended by inserting, in its appropriate al
 In this subpart, the Tax Administration Act 1994 is called the principal Act.
 
 ### 70 Interpretation
-Section 3(1) of the principal Act is amended by inserting, after the definition of challenge, the following definition:.
-  - **Charities Commission** means the Charities Commission established under Part 1 of the Charities Act 2005.
+Amendment(s) incorporated in the Act(s).
 
 ### 71 Officers to maintain secrecy
-Section 81(4) of the principal Act is amended by inserting, after paragraph (fa), the following paragraph:.
-  (fb) communicating to any person, being a member, an employee, or an agent of the Charities Commission, any information, being information—
-    (i) that the person is authorised by the Charities Commission to receive; and
-    (ii) that the Commissioner considers is not undesirable to disclose and is reasonably necessary to enable that person to carry out any duty lawfully conferred on that person relating to the exercise of the Charities Commission's powers or the performance of its functions and duties:
+Amendment(s) incorporated in the Act(s).
 
 ### Subpart 4 — Amendment to Estate and Gift Duties Act 1968
 
 ### 72 Exemption for gifts to charities and certain bodies
-Section 73(1) of the Estate and Gift Duties Act 1968 is amended by adding the words.if, at the time that the gift is made, the society, institution, or trustees of the trust is or are registered as a charitable entity under the Charities Act 2005
+Amendment(s) incorporated in the Act(s).
 
 ### Subpart 5 — Miscellaneous provisions
 
@@ -793,3 +783,12 @@ This Act does not impose on the Commission or any other person any duty or oblig
 The enactments in the Schedule are amended in the manner indicated in that schedule.
 
 ## Schedule Schedule — Amendments to other Acts
+
+### A 1 Title
+This Act is the Income Tax Act 2007.
+
+### A 2 Commencement
+1 April 2008
+(1) This Act comes into force on 1 April 2008.
+Act effective for 2008–09 income year and later
+(2) However, except when the context requires otherwise, this Act applies only with respect to the tax on income derived in the 2008–09 income year and later income years.
