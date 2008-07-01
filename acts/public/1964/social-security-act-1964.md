@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2008-07-01_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -4034,9 +4034,9 @@ For the purpose of a person's means assessment as to income under section 147,â€
     (j) any amount paid by a funder in respect of the cost of contracted care services provided to the person or his or her spouse or partner:
     (k) any amount or type of income, or amount of a certain type of income, specified in regulations made under section 155
   - **income-from-assets exemption** means the amount of income derived from assets each year not exceeding the following (or such other amount or amounts as may be prescribed by regulations made under section 155)
-    (a) $826, if the person is single; or
-    (b) $1,651, if the person's spouse or partner is a resident assessed as requiring care; or
-    (c) $2,477 if the person's spouse or partner is not a resident assessed as requiring care
+    (a) $854, if the person is single; or
+    (b) $1,707, if the person's spouse or partner is a resident assessed as requiring care; or
+    (c) $2,560 if the person's spouse or partner is not a resident assessed as requiring care
   - **personal allowance**
 
 ### 6 Annual income
