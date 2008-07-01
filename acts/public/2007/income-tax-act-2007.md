@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2008-05-29_
+_Consolidation as at 2008-07-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -1982,11 +1982,11 @@ Income
 
 **Tax credits**
 
-### CE 12 Tax credits added to caregiver’s income
+### CE 12 Tax credits for personal service rehabilitation payments
 When this section applies
-(1) This section applies when a person has under section LB 6 (Tax credits for caregivers) a tax credit for an accident compensation payment for attendant care, as described in paragraph (g) of the definition of accident compensation payment in section CF 1(2) (Benefits, pensions, compensation, and government grants) for a period in an income year.
+(1) This section applies when a person has a tax credit in a tax year under section LB 7 (Tax credits related to personal service rehabilitation payments: providers).
 Income
-(2) An amount equal to the tax credit is income of the person in the income year.
+(2) An amount equal to the credit is income of the person in the corresponding income year.
 
 ### Subpart CF — Income from living allowances, compensation, and government grants
 
@@ -2015,7 +2015,7 @@ Some definitions
     (d) a payment under the Accident Insurance Act 1998 of weekly compensation that is not recovered or recoverable:
     (e) a payment under a policy of personal accident or sickness insurance under section 188(1)(a) of the Accident Insurance Act 1998, as it was immediately before its repeal by section 7 of the Accident Insurance Amendment Act 2000, of compensation for loss of earnings or loss of potential earning capacity as it relates to work-related personal injury:
     (f) a payment under the Injury Prevention, Rehabilitation, and Compensation Act 2001 by the Corporation of weekly compensation that is not recovered or recoverable under section 248 of that Act:
-    (g) a payment under section 81(1)(b) of the Injury Prevention, Rehabilitation, and Compensation Act 2001 paid by the Corporation, as defined in that Act, for attendant care as defined in schedule 1, clause 12 of that Act
+    (g) a personal service rehabilitation payment for a person under the Injury Prevention, Rehabilitation, and Compensation Act 2001.
   - **education grant** means a basic grant or an independent circumstances grant under regulations made under section 303 of the Education Act 1989
   - **pension** —
     (a) includes a gratuitous payment made to a person in return for services that the person, or their parent, child, spouse, civil union partner or de facto partner, former spouse, civil union partner or de facto partner, or dependant, provided to the payer when the payment would not have been made if the services had not been provided; and
@@ -3776,11 +3776,11 @@ Some definitions
     (b) a payment from a sickness, accident, or death benefit fund to which the person was a contributor when the period of incapacity began, but not a payment referred to in paragraph (d) or (e) of the definition of accident compensation payment in section CF 1(2):
     (c) a payment under a policy of personal sickness or accident insurance, or an accident insurance contract, but neither a payment referred to in paragraph (d) or (e) or (f) of the definition of accident compensation payment in section CF 1(2) nor a payment calculated according to loss of earnings or profits.
 
-### CW 35 Payment to claimant of certain accident compensation payments
-When this section applies
-(1) This section applies when a person receives a payment referred to in paragraph (g) of the definition of the term accident compensation payment in section CF 1(2) (Benefits, pensions, compensation, and government grants).
-Exempt income
-(2) The payment is exempt income of the person if the total amount of payments referred to in subsection (1) paid for the income year to the person is equal to or less than the total amount of payments paid for the income year by the person for attendant care, as defined in schedule 1, clause 12 of the Injury Prevention, Rehabilitation, and Compensation Act 2001.
+### CW 35 Personal service rehabilitation payments
+An amount paid to a person for an income year as a personal service rehabilitation payment is exempt income of the person if—
+  (a) they are paid the amount under the Injury Prevention, Rehabilitation, and Compensation Act 2001; and
+  (b) they pay an amount to another person for providing them in the income year a key aspect of social rehabilitation referred to in the definition of personal service rehabilitation payment; and
+  (c) the amount paid is equal to or more than the amount of personal service rehabilitation payment for the income year after taking into account any amount of tax withheld.
 
 ### CW 36 Scholarships and bursaries
 A basic grant or an independent circumstances grant under regulations made under section 303 of the Education Act 1989 is not exempt income, but any other scholarship or bursary for attendance at an educational institution is exempt income.
@@ -3844,19 +3844,27 @@ Exempt income
   (a) an amount of income derived by a trustee in trust for charitable purposes:
   (b) an amount of income derived by a society or institution established and maintained exclusively for charitable purposes and not carried on for the private pecuniary profit of any individual.
 Exclusion: trustees, society, or institution not registered
-(2) This section does not apply to an amount of income if, at the time that the amount of income is derived, the trustee or trustees of the trust, the society, or the institution is not, or are not, registered as a charitable entity.
+(2) This section does not apply to an amount of income if, at the time that the amount of income is derived, the trustee or trustees of the trust, the society, or the institution is not, or are not, a tax charity.
 Exclusion: business income
 (3) This section does not apply to an amount of income derived from a business carried on by, or for, or for the benefit of a trust, society, or institution of a kind referred to in subsection (1).
 Exclusion: council-controlled organisation income
 (4) This section does not apply to an amount of income derived by—
   (a) a council-controlled organisation, other than a council-controlled organisation operating a hospital as a charitable activity:
   (b) a local authority from a council-controlled organisation, other than from a council-controlled organisation operating a hospital as a charitable activity on behalf of the local authority.
+Definition
+(5) In this section and sections CW 42 and CW 43, tax charity means,—
+  (a) a trustee or trustees of a trust, a society, or an institution, registered as a charitable entity under the Charities Act 2005:
+  (b) a trustee or trustee of a trust, a society, or an institution (the entity), that––
+    (i) has started, before 1 July 2008, to take reasonable steps in the process of preparing an application for registering the entity as a charitable entity under the Charities Act 2005; and
+    (ii) intends to complete the process of preparing an application described in subparagraph (i); and
+    (iii) has not been notified by the Commissioner that the entity is not a tax charity:
+  (c) a trustee or trustee of a trust, a society, or an institution, that is or are non-resident and carrying out its or their charitable purposes outside New Zealand, and which is approved as a tax charity by the Commissioner in circumstances where registration as a charitable entity under the Charities Act 2005 is unavailable.
 
 ### CW 42 Charities: business income
 Exempt income
 (1) Income derived directly or indirectly from a business carried on by, or for, or for the benefit of a trust, society, or institution of a kind referred to in section CW 41(1) is exempt income if—
   (a) the trust, society, or institution carries out its charitable purposes in New Zealand; and
-  (b) the trustee or trustees of the trust, the society, or the institution is or are, at the time that the income is derived, registered as a charitable entity; and
+  (b) the trustee or trustees of the trust, the society, or the institution is or are, at the time that the income is derived, a tax charity; and
   (c) no person with some control over the business is able to direct or divert, to their own benefit or advantage, an amount derived from the business. Subsections (3) to (8) expand on this subsection.
 Exclusion
 (2) This section does not apply to an amount of income derived by—
@@ -3922,11 +3930,11 @@ Gift to charity
 Exempt in hands of charity
 (3) The second requirement is that the amount, if derived by the trust, society, or institution or by a business carried on by, or for, or for the benefit of it, would be exempt income under section CW 41 or CW 42.
 Timing of registration as charitable entity
-(4) An amount of income derived by a deceased’s executor or administrator that is derived during the period beginning on the deceased’s date of death and ending at the end of the income year that follows the income year in which the deceased died is not prevented from being exempt income under this section merely because the trustee or trustees of the trust, the society, or the institution is not, or are not, registered as a charitable entity.
+(4) An amount of income derived by a deceased’s executor or administrator that is derived during the period beginning on the deceased’s date of death and ending at the end of the income year that follows the income year in which the deceased died is not prevented from being exempt income under this section merely because the trustee or trustees of the trust, the society, or the institution is not, or are not, a tax charity.
 Requirements of sections CW 41 and CW 42 disregarded
-(5) For the purposes of subsection (4), until the end of the income year that follows the income year in which the deceased died, the requirements of sections CW 41 and CW 42 for the trustee or trustees of the trust, the society, or the institution to be registered as a charitable entity must be disregarded when applying those sections for the purposes of this section.
+(5) For the purposes of subsection (4), until the end of the income year that follows the income year in which the deceased died, the requirements of sections CW 41 and CW 42 for the trustee or trustees of the trust, the society, or the institution to be a tax charity must be disregarded when applying those sections for the purposes of this section.
 Amounts derived after end of certain period
-(6) This section does not apply to an amount of income derived after the end of the income year that follows the income year in which the deceased died if, at the time that the amount of income is derived, the trustee or trustees of the trust, the society, or the institution is not, or are not, registered as a charitable entity.
+(6) This section does not apply to an amount of income derived after the end of the income year that follows the income year in which the deceased died if, at the time that the amount of income is derived, the trustee or trustees of the trust, the society, or the institution is not, or are not, a tax charity.
 
 ### CW 44 Friendly societies
 An amount of income derived by a friendly society is exempt income, except to the extent to which the amount is derived from—
@@ -3997,6 +4005,9 @@ To the extent to which section HC 26 (Foreign-sourced amounts: resident trustees
 
 ### CW 55 Maori authority distributions
 A distribution from a Maori authority to a member, to the extent to which it is not income under section CV 11 (Maori authorities) is exempt income.
+
+### CW 55BA Tertiary education institutions
+An amount of income derived by a tertiary education institution that is established under Part 14 of the Education Act 1989 and is not carried on for the private pecuniary profit of any individual is exempt income.
 
 ### CW 55B Amounts of exempt income for partners
 A person who is a partner has an amount of exempt income to the extent to which an amount of exempt income results from the application of subpart HG (Joint venturers, partners, and partnerships) to them and their partnership.
@@ -6476,13 +6487,17 @@ Link with subpart DA
 ### DF 3 Identifying expenditure for purposes of sections DF 1 and DF 2
 For the purposes of sections DF 1 and DF 2, a statement by a person making a grant-related suspensory loan as to the expenditure that relates to the loan or to the repayment of the loan provides conclusive evidence on the questions.
 
-### DF 4 Accident compensation payment for attendant care
+### DF 4 Payments for social rehabilitation
 When this section applies
-(1) This section applies when a person receives an accident compensation payment for attendant care as described in paragraph (g) of the definition of that term in section CF 1(2) (Benefits, pensions, compensation, and government grants) that is assessable income of the person.
+(1) This section applies when a person is paid under the Injury Prevention, Rehabilitation, and Compensation Act 2001 a personal service rehabilitation payment for an income year and the amount is assessable income of the person.
 Deduction
-(2) The person is allowed a deduction for the amount paid to a caregiver for attendant care.
+(2) The person is allowed a deduction for an amount calculated using the formula—amount paid1 – tax rate.
+Definitions of items in formula
+(3) In the formula,—
+  (a) amount paid is the amount paid by the person for a key aspect of social rehabilitation provided to them for the income year, to the extent to which the amount is less than the amount of personal service rehabilitation payment paid to them for the income year after taking into account any amount of tax withheld:
+  (b) tax rate is the rate of tax applying to the personal service rehabilitation payment under schedule 4, part H, clause 1 (Rates of tax for schedular payments).
 Link with subpart DA
-(3) This section supplements the general permission and overrides the capital limitation and private limitation for the amount described in subsection (2). The other general limitations still apply.
+(4) This section supplements the general permission and overrides the capital limitation and private limitation for the amount described in subsection (2). The other general limitations still apply.
 
 ### Subpart DN — Attributed losses from foreign equity
 
@@ -24057,6 +24072,36 @@ Tax credit: non-resident
 When contribution is taxable Maori authority distribution
 (4) If the person is not resident in New Zealand and the retirement scheme contribution is a taxable Maori authority distribution, they have a tax credit for the tax year corresponding to the income year of an amount equal to the RSCT withheld.
 
+### LB 7 Tax credits related to personal service rehabilitation payments: providers
+When this section applies
+(1) This section applies when—
+  (a) a person—
+    (i) is paid under the Injury Prevention, Rehabilitation, and Compensation Act 2001 a personal service rehabilitation payment for a period for a key aspect of social rehabilitation referred to in the definition of personal service rehabilitation payment; and
+    (ii) pays another person (a provider) for providing the key aspect to them for the period; or
+  (b) the Accident Compensation Corporation pays a provider a personal service rehabilitation payment for a period for providing a key aspect of social rehabilitation to the person.
+Tax credit
+(2) The provider has a tax credit for the tax year corresponding to the income year in which the period falls.
+Amount
+(3) The amount of the tax credit is calculated using the formula—amount paid × tax rate1 – tax rate
+Definition of items in formula
+(4) In the formula,—
+  (a) amount paid is the amount paid to the provider for providing a key aspect of social rehabilitation to the person for the period, to the extent to which the amount is equal to or less than the amount of the personal service rehabilitation payment for the period after taking into account any amount of tax withheld:
+  (b) tax rate is the rate of tax applying to the personal service rehabilitation payment under schedule 4, part H, clause 1 (Rates of tax for schedular payments).
+
+### LB 8 Tax credits related to personal service rehabilitation payments: payers
+When this section applies
+(1) This section applies when—
+  (a) a person is paid under the Injury Prevention, Rehabilitation, and Compensation Act 2001 a personal service rehabilitation payment for a period for a key aspect of social rehabilitation referred to in the definition of personal service rehabilitation payment ; and
+  (b) the person pays another person (the provider) for providing the key aspect to them for the period; and
+  (c) the amount paid to the provider is less than the amount of the personal service rehabilitation payment to the person for the period after taking into account any amount of tax withheld.
+Tax credit
+(2) The person has a tax credit for the tax year corresponding to the income year in which the period falls to the extent of the amount calculated using the formula—total tax withheld —amount paid × tax rate1 – tax rate
+Definition of items in formula
+(3) In the formula,—
+  (a) total tax withheld is the total amount of tax withheld from the personal service rehabilitation payment paid to the person for the period:
+  (b) amount paid is the amount paid to the provider:
+  (c) tax rate is the rate of tax applying to the personal service rehabilitation payment under schedule 4, part H, clause 1 (Rates of tax for schedular payments).
+
 ### Subpart LC — Tax credits for natural persons
 
 **Tax credits for persons on low incomes**
@@ -24289,6 +24334,8 @@ Description of organisations
 (2) The following are the entities referred to in subsection (1)(a):
   (a) a society, institution, association, organisation, or trust that is not carried on for the private pecuniary profit of an individual, and whose funds are applied wholly or mainly to charitable, benevolent, philanthropic, or cultural purposes within New Zealand:
   (b) a public institution maintained exclusively for any 1 or more of the purposes within New Zealand set out in paragraph (a):
+  (bb) a Board of Trustees that is constituted under Part 9 of the Education Act 1989 and is not carried on for the private pecuniary profit of any individual:
+  (bc) a tertiary education institution that is established under Part 14 of the Education Act 1989 and is not carried on for the private pecuniary profit of any individual:
   (c) a fund established and maintained exclusively for the purpose of providing money for any 1 or more of the purposes within New Zealand set out in paragraph (a), by a society, institution, association, organisation, or trust that is not carried on for the private pecuniary profit of an individual:
   (d) a public fund established and maintained exclusively for the purpose of providing money for any 1 or more of the purposes within New Zealand set out in paragraph (a).
 
@@ -32586,7 +32633,8 @@ Meaning generally
     (iii) a schedular payment, seesection RD 8:
   (b) does not include—
     (i) an amount attributed under section GB 29 (Attribution rule: calculation):
-    (ii) an amount paid to a shareholder-employee in the circumstances set out in subsection (2).
+    (ii) an amount paid to a shareholder-employee in the circumstances set out in subsection (2):
+    (iii) a personal service rehabilitation payment under the Injury Prevention, Rehabilitation, and Compensation Act 2001.
 When subsections (3) and (4) apply: close companies
 (2) Subsections (3) and (4) apply for an income year when a person is a shareholder-employee of a close company, and—
   (a) they do not derive as an employee salary or wages of a regular amount for regular pay periods—
@@ -36994,6 +37042,10 @@ In this Act, unless the context requires otherwise,—
     (b) a portfolio listed company:
     (c) a portfolio defined benefit fund:
     (d) portfolio investment-linked life fund
+  - **portfolio investment-linked life fund** means a separate identifiable fund forming part of a life insurer, that—
+    (a) holds investments subject to life insurance policies under which benefits are directly linked to the value of the investments held in the fund; and
+    (b) has become a portfolio investment entity under section HL 13 (Becoming portfolio investment entity); and
+    (c) has not ceased to be a portfolio investment entity under section HL 15 (Ceasing to be portfolio investment entity)
   - **portfolio investor allocated income** is defined in section HL 26 (Portfolio investor allocated income and portfolio investor allocated loss)
   - **portfolio investor allocated loss** is defined in section HL 26 (Portfolio investor allocated income and portfolio investor allocated loss)
   - **portfolio investor class** is defined in section HL 5B (Meaning of investor and portfolio investor class)
@@ -37203,7 +37255,6 @@ In this Act, unless the context requires otherwise,—
     (bb) a tax credit under subpart LH (Tax credits for expenditure on research and development)
     (c) a tax credit under subpart LO (Tax credits for Maori authority credits):
     (d) a tax credit under section HL 22(5) (Payments of tax by portfolio tax rate entity making no election)
-  - **registered as a charitable entity** means registered as a charitable entity under the Charities Act 2005
   - **registered bank** means a registered bank as defined in section 2 of the Reserve Bank of New Zealand Act 1989
   - **registered person** is defined in section 2 of the Goods and Services Tax Act 1985
   - **registered security** is defined in section 86F of the Stamp and Cheque Duties Act 1971
@@ -37644,6 +37695,7 @@ In this Act, unless the context requires otherwise,—
     (a) has tax avoidance as its purpose or effect; or
     (b) has tax avoidance as 1 of its purposes or effects, whether or not any other purpose or effect is referable to ordinary business or family dealings, if the tax avoidance purpose or effect is not merely incidental
   - **tax-base property** is defined in section FC 1(2) (What this subpart does) for the purposes of subpart FC (Distribution, transmission, and gifts of property)
+  - **tax charity** is defined in section CW 41(5) for the purposes of that section and sections CW 42 and CW 43
   - **tax code** , for an employee, means the employee’s tax code under section 24B of the Tax Administration Act 1994
   - **tax credit** —
     (a) is defined in section LA 10 (Meaning of tax credit):
@@ -47117,9 +47169,8 @@ In this Part, other than sections 4 and 9,—
 (1) This section amends section YA 1.
 (2) Amendments incorporated in the principal Act.
 (3) Amendments incorporated in the principal Act.
-(4) The definition of registered as a charitable entity is repealed.
-(5) After the definition of tax-base property, the following is inserted:.
-  - **tax charity** is defined in section CW 41(5) for the purposes of that section and sections CW 42 and CW 43
+(4) Amendments incorporated in the principal Act.
+(5) Amendments incorporated in the principal Act.
 (6) Subsections (2) and (3)(a) apply for the 2008–09 income year and later income years.
 
 ### 49 Treatment of qualifying company election tax, FBT, FDP penalty tax, imputation penalty tax, and withdrawal tax
