@@ -1,5 +1,5 @@
 # Local Government Act 1974
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2008-07-02_
 
 > An Act to consolidate and amend the law relating to the reorganisation of the districts and functions of local authorities, to make better provision for the administration of those functions which can most effectively be carried out on a regional basis, and to make provision for the establishment of united councils, regional councils, district councils, district community councils, and community councils, and to consolidate and amend the Municipal Corporations Act 1954, the Counties Act 1956, the Local Authorities (Petroleum Tax) Act 1970, and provisions of other Acts of the Parliament of New Zealand relating to the powers and functions of regional councils, united councils, and territorial local authorities
 
@@ -6460,20 +6460,7 @@ The council may contribute such sum or sums as it thinks fit for the constructio
 Where any money is appropriated to the purposes of any recreation or other reserve, and there is a surplus of that money after defraying the cost of maintenance of the reserve and other charges and expenses in connection therewith, the council may expend all or any part of that surplus for or towards the maintenance or otherwise for the benefit of some other reserve or reserves vested in or under the management of the council.
 
 ### 619 Powers of Wellington Regional Council in relation to regional parks and reserves
-(1) In this section, unless the context otherwise requires, council means the Wellington Regional Council.
-(2) If a council is of the opinion that any piece of land (which is within, or reasonably close to, its region and which is not vested in any public body) should, in the interests of the region and by reason of—be held in perpetuity for the purpose of protecting and preserving its intrinsic worth or for the benefit, enjoyment, and use of the public (and, in particular, the public of the region), the council may purchase or otherwise acquire the piece of land or take the piece of land for a public work under the Public Works Act 1981 as a regional park or regional reserve.
-  (a) Its particular features, being—
-    (i) Natural features, landscape, native bush, or vegetation; or
-    (ii) Historic, scenic, archaeological, biological, educational, community, or cultural features or other special features or values; or
-  (b) Its recreational significance or potential; or
-  (c) Both,—
-(3) No council may, under subsection (1) of this section, take land outside its region, unless the territorial authority within whose district the land is situated consents to the taking.
-(4) Any land which is vested in a public body may, if a council and the public body controlling the land so agree, be transferred to the council upon such terms as may be agreed upon between the council and the public body, or, in default of agreement, on such terms as may be determined by the Commission on the application of either party. Any land so transferred shall be held by the council subject to the trusts (if any) affecting the land at the time of the transfer, and the council shall have and may exercise all the powers and authorities in respect of the land that were possessed by the public body from which the land was transferred.
-(5) A council may set aside as a regional park or part thereof any land vested in it, and shall, in respect of any land so set aside, and in respect of any regional park or part thereof or any other land owned or occupied by the council for any other purpose, other than a public reserve subject to the Reserves Act 1977, have in addition to, and not in substitution for, any other powers possessed by a council in respect of the park or other land the power to establish and maintain botanical gardens and all the powers vested in territorial authorities by section 601 of this Act.
-(6) A council may, on any regional park owned, administered, or controlled by it, provide buildings suitable for the purposes of conducting therein a shop or kiosk at which members of the public using such regional park may purchase such articles or commodities which they may reasonably require; and the council may grant a lease or licence of the same to any person or persons, whether incorporated or not, at such rental or other consideration and for such period (with or without any right of renewal) and upon such terms and conditions as it thinks fit.
-(7) In addition to any other powers vested in it a council may from time to time in its discretion, and upon and subject to such terms and conditions as it thinks fit, make monetary grants to a local authority in or towards payment of the cost of providing, improving, or maintaining public access, whether by the road or otherwise, to a regional park or part thereof.
-(8) Any territorial authority whose district is partly or wholly within the region of the council may contribute such amounts as it thinks fit towards the establishment, maintenance, development, or extension of regional parks or regional reserves or both.
-(9) Any amount contributed under subsection (8) of this section by a territorial authority shall be in addition to any amount contributed from the district of that territorial authority by way of rates towards the establishment, maintenance, development, or extension of regional parks or regional reserves or both.
+[Repealed]
 
 ### 619A Auckland catchment land
 (1) The Auckland Regional Council shall continue to own all the catchment land in the Hunua and Waitakere Ranges owned by the Auckland Regional Council on the 1st day of January 1992 (except the Hays Creek catchment land formerly owned by the former Papakura City Council).
@@ -6504,55 +6491,25 @@ The Auckland Regional Council shall continue to have responsibility for the foll
   (n) Wenderholm Regional Park.
 
 ### 619C Wellington regional parks
-The Wellington Regional Council shall continue to have responsibility for the following regional parks:
-  (a) Battle Hill Farm Forest Park:
-  (b) Belmont Regional Park:
-  (c) East Harbour Regional Park:
-  (d) Kaitoke Regional Park:
-  (e) Queen Elizabeth Park.
+[Repealed]
 
 ### 619D Management plans for regional parks
-As soon as practicable after the commencement of this section, the Wellington Regional Council—
-  (a) Shall each prepare and approve, and thereafter maintain, in accordance with this Act, a management plan for each regional park vested in it; and
-  (b) In the exercise of its functions in relation to a regional park, shall comply with the approved management plan for that regional park.
+[Repealed]
 
 ### 619E Contents of management plans
-Except in the case of Regional Botanic Gardens, each management plan prepared under section 619D of this Act—
-  (a) Shall provide for and ensure that the public is allowed the use, enjoyment, and benefit of the park to which it relates, and of any foreshore or water area adjoining it which is not used for water supply purposes, in a manner and to an extent that is consistent with the conservation and protection of the intrinsic worth of the park; and
-  (b) To that end, but without limitation, may provide, as appropriate,—
-    (i) For resource protection and management strategies; and
-    (ii) For the construction of roadways, paths, tracks, and lookouts; and
-    (iii) For parts of the regional park to be used for picnic grounds, parking places for vehicles and boats, camping grounds, launching and mooring places for boats, or for buildings and other facilities and amenities necessary for the public using the regional park or for the interpretation of the regional park to the public; and
-    (iv) For the planting of flora, whether indigenous or exotic, appropriate to the regional park and its functions or for soil conservation purposes; and
-    (v) For open parts of the regional park to be enclosed, laid down or renewed in grass and to be grazed; and
-    (vi) For public access to part or parts of the regional park to be restricted or prohibited.
+[Repealed]
 
 ### 619F Public notice of preparation of first management plan
-(1) Before preparing under section 619D of this Act in respect of any regional park the first management plan for that regional park, the regional council shall—
-  (a) Give public notice of its intention to do so; and
-  (b) In that notice, invite persons and organisations interested to send to it at its office, within a time, or not later than a date, specified in the notice, written comments or suggestions on the proposed plan.
-(2) In preparing the plan, the regional council shall give full consideration to any comments or suggestions received in response to the invitation contained in the public notice.
+[Repealed]
 
 ### 619G Public notice of draft management plan
-(1) Every management plan prepared under section 619D of this Act shall be prepared first in draft form.
-(2) When any management plan has been prepared in draft form, the regional council shall—
-  (a) Give public notice—
-    (i) Stating that the draft management plan is open for inspection at a place and at times specified in the notice; and
-    (ii) Calling upon persons and organisations interested to lodge with the regional council submissions on the contents of the draft plan by a specified date, being not less than 2 months after the first date of publication of the notice; and
-  (b) To the extent that it is practicable, send a copy of that public notice to all persons and organisations who or which had, pursuant to section 619F(1)(b) of this Act, sent written comments or suggestions to the regional council; and
-  (c) Make the draft plan available at its office for public inspection, free of charge, during ordinary office hours.
+[Repealed]
 
 ### 619H Obligation to consider submissions and make amendments
-The regional council—
-  (a) Shall, after the date specified pursuant to section 619G(2)(a)(ii) of this Act, give full consideration to any submissions received in relation to the draft management plan, and, to that end, shall give every person and organisation who or which lodged a submission the opportunity of appearing before the regional council or committee or a subcommittee thereof in support of the submission; and
-  (b) Shall thereafter make such amendments to the draft management plan as it considers appropriate before approving the plan.
+[Repealed]
 
 ### 619I Review and change of management plans
-(1) A regional council that is, under section 619D of this Act, maintaining a management plan for a regional park may at any time undertake a comprehensive review of that management plan.
-(2) The purpose of the review shall be to ensure that the management plan is adapted to changing circumstances or is in accordance with increased knowledge.
-(3) Where 5 years have elapsed since any such management plan was first approved, the regional council shall undertake under this section a comprehensive review of that management plan.
-(4) In conducting a comprehensive review under this section, the regional council shall follow the procedure specified in sections 619F to 619H of this Act.
-(5) If at any time the regional council considers that a change to an approved management plan is justified, it may make a change to that approved management plan by following the procedure specified in sections 619F to 619H of this Act.
+[Repealed]
 
 **Tree planting, gardens, and lawns**
 
