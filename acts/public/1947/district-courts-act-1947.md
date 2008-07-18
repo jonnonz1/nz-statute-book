@@ -1,5 +1,5 @@
 # District Courts Act 1947
-_Consolidation as at 2008-06-26_
+_Consolidation as at 2008-07-18_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to District Courts and the jurisdiction of District Court Judges in civil proceedings, and to make provision for the exercise of criminal jurisdiction under the Summary Proceedings Act 1957 in District Courts
 
@@ -1350,8 +1350,9 @@ Where under any Act any power, authority, or jurisdiction is given to Judges, th
 
 | Section | Offence |
 | --- | --- |
-| Section 6 | Dealing with controlled drugs (but only where the charge relates to a class B controlled drug) |
-| Section 12C | Commission of offences outside New Zealand (other than offences against subsection (1)(a)) |
+| Section 6 | Dealing with controlled drugs (where the charge relates to a class A or class B controlled drug) |
+| Section 10(1) | Aiding offences against corresponding law of another country |
+| Section 12C | Commission of offences outside New Zealand |
 
 | Section | Offence |
 | --- | --- |
@@ -1449,12 +1450,6 @@ Where under any Act any power, authority, or jurisdiction is given to Judges, th
 
 | Section | Offence |
 | --- | --- |
-| Section 6(2)(a) | Dealing with controlled drugs (Class A) |
-| Section 6(2A)(a) | Conspiring to deal with controlled drugs (Class A) |
-| Section 10(1) | Aiding offences against law of another country |
-
-| Section | Offence |
-| --- | --- |
 | Sections 5–8, 14 | Offences against Act |
 
 | Section | Offence |
@@ -1490,3 +1485,13 @@ This Act comes into force on the day after the date on which it receives the Roy
   (b) after the commencement of the District Courts Amendment Act (No 2) 2008, cannot be tried by a Court presided over by a trial Judge or can only be so tried after transfer to the Court by the High Court under the Summary Proceedings Act 1957.
 (2) If a defendant is committed for trial before the commencement of the District Courts Amendment Act (No 2) 2008 in respect of an offence to which this subsection applies, and the committal was to the District Court, that Court may try the offence, despite that Act.
 (3) This section does not affect the application of the Interpretation Act 1999 in respect of any transitional matter related to the District Courts Amendment Act (No 2) 2008 not provided for in this section.
+
+### 1 Title
+These regulations are the District Courts (Categorisation of Offences) Regulations 2008.
+
+### 2 Commencement
+These regulations come into force on 18 July 2008.
+
+### 4 Transitional provision
+(1) This regulation applies if a person charged with an offence under section 6(2)(a), 6(2A)(a), 10(1), or 12C(1)(a) of the Misuse of Drugs Act 1975 was, before the commencement of these regulations, committed to the High Court for trial and is awaiting the commencement of that trial.
+(2) Section 168AA(2) (or, when it is in force, section 184Q) of the Summary Proceedings Act 1957 applies in respect of a defendant in the circumstances referred to in subclause (1) as if at all material times the offence for which the defendant was committed for trial was an offence to which that section applied.
