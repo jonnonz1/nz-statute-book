@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2008-02-29_
+_Consolidation as at 2008-07-24_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -408,7 +408,7 @@ For the purpose of providing a superannuation fund or retiring allowance for per
   (i) Rules 41 and 43 of the Insolvency Rules 1970:
   (j) Any regulations relating to liquidations made under the Companies Act 1955 or under the Companies Act 1993.
   (k) sections 118, 128, 131, 167, 168, 170, 179, 181, 182, and 186 of the Personal Property Securities Act 1999.
-  (l)
+  (l) the Model Law on Cross-Border Insolvency as set out in Schedule 1 of the Insolvency (Cross-border) Act 2006.
 (3) An Associate Judge shall have and may exercise all the jurisdiction and powers of the Court to deal with costs and other matters incidental to the matters over which an Associate Judge has jurisdiction pursuant to subsection (1) or subsection (2) of this section.
 (4) Rules made under section 51C of this Act or rules made under any other Act in the manner provided in that section may contain such provisions as may be necessary
   (a) To enable the proper exercise by Associate Judges of the jurisdiction and powers conferred by this section; and
@@ -5209,7 +5209,7 @@ Unless in any particular case the Court otherwise directs, every order sanctioni
     (vi) sections 228(1)(d), 233(1)(c), 233(2)(c), 236, 290, 296(5), 295, and 299 of the Companies Act 1993:
     (via) section 239L of the Companies Act 1993 (application for the appointment of an administrator by the Court in a voluntary administration):
     (vii) Sections 58 and 59 of the Corporations (Investigation and Management) Act 1989:
-    (viiaa)
+    (viiaa) the Model Law on Cross-Border Insolvency as set out in Schedule 1 of the Insolvency (Cross-border) Act 2006:
     (viia) section 166E of the Customs and Excise Act 1996:
     (viii) section 43(6) of the District Courts Act 1947:
     (viiia) The Habeas Corpus Act 2001:
@@ -8927,25 +8927,32 @@ Unless the Court otherwise directs, the Official Assignee is not personally liab
 (1) If, under the Act, an application relating to bankruptcy may be filed in a District Court, the Registrar of that Court must forward to the nearest High Court a certified copy of the decision of that Court.
 (2) The certified copy of the decision of the District Court must be filed by the Registrar and forms part of the proceedings of the High Court.
 
-### 873 Appeals to Court of Appeal
-(1) The Court of Appeal (Civil) Rules 1997, so far as they are applicable and with any necessary modifications, apply to appeals to the Court of Appeal under section 8 of the Act.
-(2) The Official Assignee of the bankrupt's property is a party to any appeal.
+#### Subpart 15 — Cross-border proceedings
 
-**Official Assignee**
+### 873 Interpretation
+(1) In this subpart, unless the context otherwise requires, Act means the Insolvency (Cross-border) Act 2006.
+(2) Expressions defined in Schedule 1 of the Act have, in this subpart, the meanings so defined.
 
-### 874 Applications to Court by Official Assignee
-Applications by the Official Assignee to the Court may be made personally, by counsel, or by any agent duly appointed under section 71(p) of the Act.
+### 874 Applications for recognition of foreign proceedings
+(1) An application by a foreign representative under article 15(1) of chapter 3 of Schedule 1 of the Act must be made by originating application under Part 4A.
+(2) In addition to complying with the requirements of article 15, the application must—
+  (a) be supported by an affidavit verifying the statement referred to in article 15(3) (identifying all foreign proceedings in respect of the debtor that are known to the foreign representative) or by other sworn evidence acceptable to the Court:
+  (b) be served, in accordance with rules 192 to 202 and 205 to 212, on the debtor or a New Zealand agent or representative of the debtor unless a Judge directs that the application may in all the circumstances proceed without that service.
+(3) A New Zealand agent or representative of the debtor served under subclause (2) must, as a condition of being treated as a respondent to the application under Part 4A, provide evidence of that agency or representation to the Court's satisfaction.
+(4) The foreign representative must, when filing an application under subclause (1) or within 25 working days after the date of filing, file an application for directions as to service under rule 458H and the Judge may give directions as to service and make any incidental orders considered just.
+(5) An application for modification or termination of recognition under article 17(5) of chapter 3 of Schedule 1 of the Act must be made by originating application served on the parties and any other persons who were directed to be served before the recognition order under article 17(1) was made.
+(6) A foreign representative who has filed an application under subclause (1) may apply without notice for relief of a provisional nature under article 19(1) of chapter 3 of Schedule 1 of the Act.
 
-### 875 Official Assignee's liability for costs
-Unless the Court otherwise directs, the Official Assignee is not personally liable for costs if
-  (a) Proceedings are brought against the Official Assignee representing the estate of the bankrupt; or
-  (b) The Official Assignee is made a party to a proceeding on the application of any other party.
+### 875 Relief after recognition
+(1) The foreign representative may apply by interlocutory application for appropriate relief under article 21(1) of chapter 3 of Schedule 1 of the Act.
+(2) An application under subclause (1) must be served on—
+  (a) any other parties to the application under rule 874:
+  (b) persons directed to be served under rule 874:
+  (c) any judgment creditor carrying on business, or resident, or having a registered office, in New Zealand.
 
-**Miscellaneous**
-
-### 876 Filing decisions of District Court
-(1) If, under the Act, an application relating to bankruptcy may be filed in a District Court, the Registrar of that Court must forward to the nearest High Court a certified copy of the decision of the District Court.
-(2) The certified copy of the decision of the District Court must be filed by the Registrar and forms part of the proceedings of the High Court.
+### 876 Modification or termination
+(1) The foreign representative or a person affected by provisional relief granted under article 19 and rule 874(6), or under article 21 and rule 875, may apply by interlocutory application for an order modifying or terminating the relief granted.
+(2) The statutory manager may apply by interlocutory application under article 22(4) of chapter 3 of Schedule 1 of the Act to terminate relief granted under article 19 and rule 874(6), or under article 21 and rule 875.
 
 ### Part 17 — Arbitration Act 1996
 
