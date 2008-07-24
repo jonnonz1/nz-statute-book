@@ -1,5 +1,5 @@
 # Limited Partnerships Act 2008
-_Consolidation as at 2008-05-02_
+_Consolidation as at 2008-07-24_
 
 ### 1 Title
 This Act is the Limited Partnerships Act 2008.
@@ -890,7 +890,7 @@ A failure by an overseas limited partnership to comply with section 104 does not
   (b) receipt of a notice given by a liquidator in accordance with section 257(1)(a)(ii)(C) of the Companies Act 1993 as modified by section 114(3).
 
 ### 114 Liquidation of overseas limited partnership
-(1) Subject to subsection (3), Part 16 of the Companies Act 1993 (except sections 241(1) to (4), 268, and 313(4)) applies, with such modifications as may be necessary, in relation to the liquidation of the assets in New Zealand of an overseas limited partnership and as if references to—
+(1) Subject to subsection (3), Part 16 of the Companies Act 1993 (except sections 241(1) to (4), 268, and 313(4)) applies, with such modifications as may be necessary, in relation to the liquidation of an overseas limited partnership and as if references to—
   (a) a company registered under that Act were references to an overseas limited partnership:
   (b) a director were references to a general partner:
   (c) shareholders or persons entitled to surplus assets under the constitution of a company and the Companies Act 1993 were references to partners:
