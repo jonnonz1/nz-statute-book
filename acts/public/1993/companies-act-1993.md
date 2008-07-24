@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2008-05-02_
+_Consolidation as at 2008-07-24_
 
 > An Act to reform the law relating to companies, and, in particular,—aTo reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbTo provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcTo define the relationships between companies and their directors, shareholders, and creditors; anddTo encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeTo provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -5110,8 +5110,8 @@ A failure by an overseas company to comply with section 333 or section 334 of th
   (a) The date specified in the notice given in accordance with subsection (1)(b) of this section; or
   (b) Receipt of a notice given by a liquidator in accordance with the provisions of Schedule 9 to this Act.
 
-### 342 Liquidation of assets in New Zealand
-(1) An application may be made to the Court for the liquidation of the assets in New Zealand of an overseas company in accordance with Part 16 of this Act, subject to the modifications and exclusions set out in Schedule 9 to this Act.
+### 342 Liquidation of overseas company
+(1) An application may be made to the Court for the liquidation of an overseas company in accordance with Part 16 of this Act, subject to the modifications and exclusions set out in Schedule 9 to this Act.
 (2) An application may be made under subsection (1) of this section whether or not the overseas company—
   (a) Is registered under this Part of this Act; or
   (b) Has given public notice of an intention to cease to carry on business in New Zealand in accordance with section 341(1)(a) of this Act; or
@@ -6147,21 +6147,21 @@ A vacancy in the committee may be filled by the appointment by the committee of�
 ### 7 Committee with vacancy may act
 The continuing members of the committee, if not less than 2, may act even though a vacancy exists in the committee.
 
-## Schedule 9 — Liquidation of assets of overseas companies
+## Schedule 9 — Liquidation of overseas companies
 
 ### 1 Modified application of Part 16 of this Act
-Part 16 of this Act applies to the liquidation of the assets in New Zealand of an overseas company, with the following modifications and exclusions:
-  (a) References to assets are to be taken as references to assets in New Zealand:
+Part 16 of this Act applies to the liquidation of an overseas company, with the following modifications and exclusions:
+  (a)
   (b) References to a company are to be taken as references to an overseas company:
   (c) References to removal from the New Zealand register are to be taken as references to ceasing to carry on business in New Zealand:
   (d) The following provisions of that Part do not apply to such a liquidation:
     (i) Section 248(1)(d), (e), (f), and (g):
     (ii) Section 268:
-  (e) Section 248(1)(b) does not affect the tenure of directors of an overseas company, but the overseas company and its directors cease to have any powers, functions, or duties in relation to the company's assets in New Zealand, other than those required or permitted to be exercised by Part 16 of this Act:
+  (e)
   (f) Section 257 applies to such a liquidation, but instead of making the statement required by subsection (1)(a)(ii)(C) of that section, the liquidator must state that the company has ceased to carry on business in New Zealand and is ready to be removed from the overseas register.
 
 ### 2 Rights of action not affected
-Nothing in this Act excludes the right of a creditor of an overseas company in relation to the assets of which a liquidator has been appointed—
+Nothing in this Act excludes the right of a creditor of an overseas company in relation to which a liquidator has been appointed—
   (a) To bring proceedings outside New Zealand against the overseas company in relation to a debt not claimed in the liquidation or the balance of a debt remaining unpaid after the completion of a liquidation; or
   (b) To bring an action in New Zealand in relation to the balance of a debt remaining unpaid after the completion of a liquidation.
 
