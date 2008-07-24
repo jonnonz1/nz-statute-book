@@ -1,5 +1,5 @@
 # Insolvency (Cross-border) Act 2006
-_Consolidation as at 2008-07-23_
+_Consolidation as at 2008-07-24_
 
 ### 1 Title
 This Act is the Insolvency (Cross-border) Act 2006.
