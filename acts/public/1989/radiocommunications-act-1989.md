@@ -1,5 +1,5 @@
 # Radiocommunications Act 1989
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2008-07-29_
 
 > An Act to provide for the management of the radio frequency spectrum
 
@@ -1199,7 +1199,11 @@ Where any person is alleged to have committed an infringement offence, that pers
 (1A) Different fees and different forms may be prescribed for different infringement offences.
 (1B) The Governor-General may, by Order in Council, in accordance with a recommendation of the Minister, make regulations declaring receivers of any kind to be inappropriate receivers for the purposes of this Act.
 (1C) The Minister may only make a recommendation under subsection (1B) if the Minister is satisfied that the type of receiver concerned will or may compromise the optimal utilisation of the radio frequency spectrum.
+(1D) The power to regulate in relation to interfering equipment, susceptible equipment, or other equipment under subsection (1)(g) includes the power to regulate in relation to such equipment that is, or may be, exported from New Zealand pursuant to the Conformity Cooperation Agreement.
 (2) Without limiting the Acts Interpretation Act 1924, no regulation made under this section shall be invalid because it leaves any matter to the discretion of the Secretary or any other person or because it authorises the Secretary or any other person to give any consent or approval or to set any standard on or subject to conditions to be approved by the Secretary.
+(3) The Conformity Cooperation Agreement (including any amendments made to that agreement in accordance with it) and any standards or rules referred to in the Conformity Cooperation Agreement may be incorporated by reference in regulations made in reliance on subsection (1D).
+(4) The provisions of Schedule 8 apply to material incorporated by reference in regulations made in reliance on subsection (1D).
+(5) In this section, Conformity Cooperation Agreement means the Agreement between the Government of New Zealand and the Government of the People's Republic of China on Cooperation in the Field of Conformity Assessment in Relation to Electrical and Electronic Equipment and Components, which is Annex 14 of the Free Trade Agreement between the Government of New Zealand and the Government of the People's Republic of China done at Beijing on 7 April 2008.
 
 ### 134AA Secretary may prescribe forms
 (1) The Secretary by notice in the Gazette may prescribe any forms (including infringement and reminder notices) that are not otherwise specifically prescribed.
@@ -1718,3 +1722,49 @@ No person may transmit radio waves under a radio licence, a spectrum licence, or
 | 97.3 MHz | Otematata Televiewers Society | Otematata |
 | 98.3 MHz | University of Canterbury Students Association | Christchurch |
 | 99.4 MHz | Massey University Students Association | Palmerston North |
+
+## Schedule 8 — General provisions relating to material incorporated by reference in regulations
+
+### 1 Effect of material incorporated by reference in regulations
+(1) This clause and clauses 2 to 8 apply to material incorporated by reference in regulations made in reliance on section 134(1D).
+(2) Material incorporated by reference in regulations has effect as part of the regulations.
+
+### 2 Effect of amendments to, or replacement of, material incorporated by reference in regulations
+An amendment to, or replacement of, material incorporated by reference in regulations (regulations A) has legal effect as part of regulations A only if regulations made after the making of regulations A state that the particular amendment or replacement has that effect.
+
+### 3 Proof of material incorporated by reference
+(1) A copy of the material incorporated by reference in regulations, including any amendment to, or replacement of, the material, must be—
+  (a) certified as a correct copy of the material by the Secretary; and
+  (b) retained by the Secretary.
+(2) The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence of the incorporation in the regulations of the material.
+
+### 4 Effect of expiry or revocation of material incorporated by reference
+Material incorporated by reference in regulations that expires or is revoked, or that ceases to have effect, ceases to have legal effect as part of the regulations only if regulations state that the material is revoked or ceases to have legal effect.
+
+### 5 Access to material incorporated by reference
+(1) The Secretary—
+  (a) must make the material referred to in subclause (2) available for inspection during working hours free of charge at the head office of the Ministry of Economic Development and at any other places that the Secretary determines are appropriate; and
+  (b) must make copies available for purchase at a reasonable price; and
+  (c) may make copies of the material available in any other way that the Secretary considers appropriate in the circumstances (for example, on an Internet site); and
+  (d) must give notice in the Gazette stating that—
+    (i) the material is incorporated in the regulations and the date on which the regulations were made; and
+    (ii) the material is available for inspection during working hours, free of charge, and the location of the place or places at which it can be inspected; and
+    (iii) copies of the material can be purchased and the location of the place or places at which they can be purchased; and
+    (iv) if copies of the material are available under paragraph (c), the material is available in other ways, and giving the details of how and where it can be accessed and obtained.
+(2) In this clause, material is—
+  (a) material incorporated by reference in regulations:
+  (b) any amendment to, or replacement of,—
+    (i) that material that is incorporated in the regulations; or
+    (ii) the material referred to in paragraph (a) with the amendments or replacement material incorporated within it:
+  (c) if the material referred to in paragraph (a) or (b) is not in an official New Zealand language, as well as the material itself, an accurate translation of the material in an official New Zealand language.
+(3) A failure to comply with this clause does not invalidate regulations that incorporate material by reference.
+
+### 6 Acts and Regulations Publication Act 1989 not applicable to material incorporated by reference
+The Acts and Regulations Publication Act 1989 does not apply to material incorporated by reference in regulations or to an amendment to, or replacement of, that material.
+
+### 7 Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
+(1) Nothing in section 4 of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in regulations to be laid before the House of Representatives.
+(2) The Regulations (Disallowance) Act 1989, apart from the modification to the application of section 4 of that Act made by subclause (1) of this clause, applies to regulations that incorporate material by reference.
+
+### 8 Application of Standards Act 1988 not affected
+Clauses 1 to 7 do not affect the application of sections 22 to 25 of the Standards Act 1988.
