@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2008-07-01_
+_Consolidation as at 2008-07-29_
 
 > An Act to—aReform the law relating to customs, excise, and other duties; andbProvide for the administration and enforcement of Customs controls at the border; andcRepeal the Customs Act 1966; anddProvide for related matters
 
@@ -1143,6 +1143,26 @@ For the purposes of this Act, unless the context otherwise requires, the terms N
 (2) If any question arises as to the country to which any ship belongs for the purposes of subsection (1) of this section, the question shall be determined by the Chief Executive.
 (3) A person who is dissatisfied with a decision of the Chief Executive under this section may, within 20 working days after the date on which notice of the decision is given, appeal to the Customs Appeal Authority against that decision.
 
+### 64A New Zealand certificates of origin for goods for export to China
+(1) A body authorised by the chief executive under section 64B (a certification body) may issue a New Zealand certificate of origin in respect of goods for export to China.
+(2) A New Zealand certificate of origin, in respect of goods for export to China, is a document issued by a certification body that—
+  (a) identifies the goods to which it relates; and
+  (b) certifies that those goods originate in New Zealand.
+(3) Goods originate in New Zealand if, for the purposes of the China FTA, the goods satisfy the requirements of the rules of origin prescribed for the China FTA.
+(4) For the purposes of this section, China FTA means the Free Trade Agreement between the Government of New Zealand and the Government of the People's Republic of China done at Beijing on 7 April 2008.
+
+### 64B Bodies authorised to issue New Zealand certificates of origin
+((1)) The chief executive may designate a body as a certification body if the chief executive is satisfied that the body meets the prescribed criteria (if any).
+(2) A designation may be subject to any prescribed terms and conditions and any additional terms and conditions the chief executive thinks fit.
+
+### 64C Regulations relating to New Zealand certificates of origin and certification bodies
+Without limiting the power to make regulations conferred by section 286, the Governor-General may make regulations for any of the following purposes:
+  (a) prescribing forms for the purposes of sections 64A and 64B; and
+  (b) prescribing the manner in which applications for designation as a certification body must be made; and
+  (c) prescribing criteria for certification bodies; and
+  (d) prescribing terms and conditions subject to which designations as a certification body may be made; and
+  (e) prescribing fees.
+
 ### 65 Regulations for determining country of produce or manufacture
 Without limiting the power to make regulations conferred by section 286, the Governor-General may from time to time, by Order in Council, make regulations for all the following purposes:
   (a) prescribing the goods or any type or class of goods that are deemed to be the produce or manufacture of any country or group of countries—
@@ -1412,7 +1432,7 @@ For the purposes of this Part of this Act, goods are deemed to be removed for ho
 (2) Notwithstanding subsection (1) of this section, in any case where, in the opinion of the Chief Executive, the entry or any declaration made in relation to the goods was fraudulent or wilfully misleading, the Chief Executive may amend the assessment at any time so as to increase the amount of the assessment.
 
 ### 95 Keeping of business records
-(1) Every licensee, importer, and exporter must keep or cause to be kept in New Zealand such records, for such period of time not exceeding 7 years, as may be prescribed.
+(1) Every licensee, importer, exporter, and body authorised to issue a New Zealand certificate of origin under section 64B must keep or cause to be kept in New Zealand such records, for such period of time not exceeding 7 years, as may be prescribed.
 (2) Every such person must, as and when required by a Customs officer,—
   (a) Make the records available to the Customs; and
   (b) Provide copies of the records as required; and
