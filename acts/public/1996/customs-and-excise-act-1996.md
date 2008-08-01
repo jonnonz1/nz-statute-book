@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2008-07-29_
+_Consolidation as at 2008-08-01_
 
 > An Act to—aReform the law relating to customs, excise, and other duties; andbProvide for the administration and enforcement of Customs controls at the border; andcRepeal the Customs Act 1966; anddProvide for related matters
 
@@ -1295,28 +1295,22 @@ For the purposes of this Part of this Act, goods are deemed to be removed for ho
   - **Alcoholic beverages** means goods specified in headings 22.03, 22.04, 22.05, 22.06, 22.08, 99.10, 99.20, 99.25, 99.30, 99.45, and 99.50 of Schedule 3 to this Act, not being goods which are exempt from excise duty and excise-equivalent duty; and includes undenatured ethyl alcohol and other goods specified in headings21.05, 21.06, 22.07, 33.02, 99.05, 99.06, 99.35, 99.42, and 99.43 of that Schedule (also not being goods exempt from excise duty and excise-equivalent duty)
   - **Tobacco products** means goods specified in headings 24.02, 24.03, 99.60 and 99.65 of Schedule 3 to this Act.
 
-### 79A Indexation of rates of excise duty and excise-equivalent duty on motor spirits by reference to diversion amounts
-(1) The Governor-General may, by Order in Council, amend Schedule 3 to impose on motor spirits (as defined in subsection (4)) such rates of excise duty and excise-equivalent duty as—
-  (a) the Governor-General thinks fit; and
-  (b) are permitted by subsections (2) and (3).
-(2) Any change in the rates of excise duty and excise-equivalent duty made by Order in Council under subsection (1)—
-  (a) must be limited in accordance with subsection (3) having regard to the movements in the Consumers Price Index All Groups excluding credit services; and
-  (b) may come into force only on 1 April in any calendar year.
-(3) No new rate of excise duty or excise-equivalent duty imposed on any goods under subsection (1) may exceed a rate calculated in accordance with the following formula:where—
-  (a) is the Index number of the Consumers Price Index All Groups excluding credit services issued by the Government Statistician for the quarter ending on 31 December in the calendar year before the year in which the order is to come into force
-  (b) is the Index number of the quarterly Consumers Price Index All Groups excluding credit services issued by the Government Statistician for the quarter ending 12 months before, and expressed on the same base quarter as, the relevant quarter specified in item a of this formula
-  (c) is the diversion amount (as defined in subsection (4)) in respect of the rate of duty specified in item d of this formula
-  (d) is the existing rate of duty in respect of the goods to which the order relates.
-(4) In this section,—
-  - **diversion amount** , in relation to the existing rate of duty in respect of goods, means the amount of duty required by section 40 of the Land Transport Management Act 2003 to be paid to the national land transport fund
-  - **motor spirits** means goods specified in Excise item numbers 99.75.15C and 99.75.18H and Tariff items 2710.19.11 and 2710.19.29 set out in Schedule 3.
+### 79A Power to alter rates of excise duty and excise-equivalent duty on motor spirits by Order in Council
+(1) At any time during the second financial year, or the third financial year, that follows the financial year in which the current rates of excise duty and excise-equivalent duty on motor spirits came into force, the Governor-General may, by Order in Council, reduce or increase any or all of those rates of excise duty and excise-equivalent duty by amending Schedule 3.
+(2) In this section,—
+  - **financial year** means the 12 months ending on the close of 30 June or any other date determined for the entity by the Minister of Finance
+  - **motor spirits** means motor spirit and fuels containing motor spirit specified in Excise item numbers 99.75.05F, 99.75.23D, 99.75.29C, 99.75.37D, 99.75.51K, 99.75.59E, 99.75.73L, 99.75.81A, and 99.75.93E and Tariff items 2710.19.13, 2710.19.25, 2710.19.21, 2710.19.39, 2710.19.15, 2710.19.27, 2710.19.21, 2710.19.39, 2710.19.64, 2710.19.70, 2207.20.23, 2207.20.35, 3824.90.87, 3824.90.93, and 38.90.97 set out in Schedule 3.
 
 ### 80 Certain Orders in Council subject to confirmation
-(1) An Order in Council made under section 77(1) or section 79(1) or section 79A(1) shall,—
-  (a) If made on or before the 30th day of June in any year, expire on the close of the 31st day of December of that year except so far as it is expressly confirmed by Act of Parliament passed during that year; and
-  (b) If made on or after the 1st day of July in any year, expire on the close of the 31st day of December in the following year except so far as it is expressly confirmed by Act of Parliament passed before the end of that following year.
-(2) If any Order in Council or any provision of any Order in Council expires by virtue of subsection (1) of this section, any duty collected under that Order in Council or provision shall, except in so far as any other provision is made by an Act of Parliament in respect thereof, be refunded.
-(3) If the House of Representatives resolves that any Order in Council made under section 77(1) or section 79(1) or section 79A(1) should be revoked or varied, it shall thereupon be revoked or varied in accordance with the terms of the resolution, and any duty collected thereunder in excess of the duty otherwise payable shall, so far as such resolution provides, be refunded.
+(1) This section applies to the following Orders in Council:
+  (a) an Order in Council made under section 77(1); and
+  (b) an Order in Council made under section 79(1); and
+  (c) an Order in Council made under section 79A(1) that has the effect of increasing the rates of excise duty or excise-equivalent duty on motor spirits (as defined in section 79A(2)).
+(1A) An Order in Council to which this section applies must,—
+  (a) if made on or before 30 June in any year, expire on the close of 31 December of that year except so far as it is expressly confirmed by Act of Parliament passed during that year; and
+  (b) if made on or after 1 July in any year, expire on the close of 31 December in the following year except so far as it is expressly confirmed by Act of Parliament passed before the end of that following year.
+(2) If any Order in Council or any provision of any Order in Council expires by virtue of subsection (1A) of this section, any duty collected under that Order in Council or provision shall, except in so far as any other provision is made by an Act of Parliament in respect thereof, be refunded.
+(3) If the House of Representatives resolves that any Order in Council to which this section applies should be revoked or varied, it shall thereupon be revoked or varied in accordance with the terms of the resolution, and any duty collected thereunder in excess of the duty otherwise payable shall, so far as such resolution provides, be refunded.
 (4) The repeal of any Act of Parliament passed for the purpose of expressly validating or confirming any Orders in Council pursuant to subsection (1) of this section shall not, unless there is any express provision to the contrary, affect the validity or confirmation of those Orders in Council.
 
 ### 81 Power of Governor-General in Council to suspend, remit, refund, or create exemptions from excise duties and excise-equivalent duties on goods supplied to certain organisations and their members
@@ -2280,10 +2274,10 @@ A Customs officer may require a person acting or holding himself or herself out 
     (ii) A legal practitioner in his or her professional capacity and his or her client,—
   (b) It is made or brought into existence for the purpose of obtaining or giving legal advice or assistance; and
   (c) It is not made or brought into existence for the purpose of committing or furthering the commission of an illegal or wrongful act.
-(2) Where the information or document consists wholly of payments, income, expenditure, or financial transactions of a specified person (whether a legal practitioner, his or her client, or any other person), it shall not be privileged from disclosure if it is contained in, or comprises the whole or part of, any book, account, statement, or other record prepared or kept by the legal practitioner in connection with a trust account of the legal practitioner within the meaning of section 2 of the Law Practitioners Act 1982.
+(2) Where the information or document consists wholly of payments, income, expenditure, or financial transactions of a specified person (whether a legal practitioner, his or her client, or any other person), it shall not be privileged from disclosure if it is contained in, or comprises the whole or part of, any book, account, statement, or other record prepared or kept by the legal practitioner in connection with a trust account of the legal practitioner within the meaning of section 6 of the Lawyers and Conveyancers Act 2006.
 (3) Except as provided in subsection (1) of this section, no information or document shall, for the purposes of sections 160 and 161 of this Act, be privileged from disclosure on the ground that it is a communication passing between one legal practitioner and another legal practitioner or between a legal practitioner and his or her client.
 (4) Where a person refuses to disclose any information or document on the ground that it is privileged under this section, a Customs officer or that person may apply to a District Court Judge for an order determining whether or not the claim of privilege is valid; and, for the purposes of determining any such application, the District Court Judge may request the information or document to be produced to him or her.
-(5) For the purposes of this section, the term legal practitioner means a barrister or solicitor of the High Court, and references to a particular legal practitioner include a firm in which he or she is a partner or is held out to be a partner.
+(5) For the purposes of this section, the term legal practitioner means a barrister or solicitor of the High Court, and references to a legal practitioner include a firm or an incorporated law firm (within the meaning of the Lawyers and Conveyancers Act 2006) in which he or she is, or is held out to be, a partner, director, or shareholder.
 
 ### 163 Documents in foreign language
 Where a document in a foreign language is presented to a Customs officer in relation to the carrying out of any duty or the exercise of any power of the Customs under this Act or any other Act, the officer may require the person who presented the document to supply to the officer an English translation of the document prepared by such person as the officer may approve and at the expense of the person who presented it.
