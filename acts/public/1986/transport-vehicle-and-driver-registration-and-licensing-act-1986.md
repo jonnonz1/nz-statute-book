@@ -1,5 +1,5 @@
 # Transport (Vehicle and Driver Registration and Licensing) Act 1986
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-08-01_
 
 > An Act to consolidate and amend the law relating to the registration and licensing of motor vehicles, the licensing of drivers, and related matters, and to replace Parts 2 and 3 of the Transport Act 1962
 
@@ -10,9 +10,7 @@ _Consolidation as at 2007-09-03_
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **Articulated vehicle** means any motor vehicle with a semi-trailer attached so that part of the trailer is superimposed upon the motor vehicle and a substantial part of the weight of the trailer and of its load is borne by the motor vehicle
-  - **Authority** means Land Transport New Zealand established by section 66 of the Land Transport Management Act 2003
   - **Design** , in relation to a motor vehicle, refers to the construction of the motor vehicle, and not its use or intended use; and has a corresponding meaning
-  - **Director** means the Director of Land Transport appointed under section 186 of the Land Transport Act 1998
   - **Disabled person's vehicle**
   - **Driver** , in relation to any vehicle, includes the rider of a motor cycle or moped; and has a corresponding meaning
   - **Duplicate** , in relation to any original certificate issued under this Act, includes a document that is a substitute or replacement for that certificate
@@ -33,16 +31,15 @@ _Consolidation as at 2007-09-03_
     (e) A vehicle designed for amusement purposes and used exclusively within a place of recreation, amusement, or entertainment to which the public does not have access with motor vehicles; or
     (f) A pedestrian-controlled machine designed to perform some mechanical operation and not designed for the carriage of persons or goods; or
     (g) A pedestrian-controlled forklift; or
-    (h) a vehicle that the Director has declared is not a motor vehicle under section 168A of the Land Transport Act 1998; or
+    (h) a vehicle that the Agency has declared is not a motor vehicle under section 168A of the Land Transport Act 1998; or
     (i) a mobility device
-  - **Officer of the Authority** includes an employee of the Authority
   - **Owner** , in relation to a motor vehicle, means the person lawfully entitled to possession of the motor vehicle, except where—in which case means the person who, but for the bailment or letting on hire, would be lawfully entitled to possession of the motor vehicle
     (a) The motor vehicle is subject to a bailment that is for a period not exceeding 28 days; or
     (b) The motor vehicle is let on hire pursuant to the terms of a rental-service licence—
   - **Prescribed fees** means the applicable fees and charges prescribed for the purposes of Part 1 of this Act by regulations made under the Land Transport Act 1998
-  - **Registrar** means the Secretary, and includes, where appropriate,—
-    (a) Any person to whom the Secretary has delegated any of the powers, duties, or functions of the Registrar under this Act:
-    (b) Any person for the time being authorised by the Secretary to perform any specified function of the Registrar under this Act:
+  - **Registrar** means the person appointed by the Minister to be the Registrar of Motor Vehicles, and includes, where appropriate,—
+    (a) any person to whom the Registrar has delegated any of the powers, duties, or functions of the Registrar under this Act:
+    (b) any person for the time being authorised by the Registrar to perform any specified function of the Registrar under this Act
   - **Registration plate** means any registration plate issued under the Transport Act 1962 or this Act
   - **Road** includes a street; and also includes any place to which the public have access, whether as of right or not; and also includes all bridges, culverts, ferries, and fords forming part of any road, street, or place to which the public have access
   - **Sale** , in relation to any motor vehicle, includes disposition by way of hire-purchase; and , , and have corresponding meanings
@@ -435,8 +432,14 @@ Any person to whom section 30 of this Act applies may use on any road the type o
 
 **Fees and charges**
 
-### 36 Application of fees and charges
-All prescribed fees (not being fines or other penalties) received on behalf of the Crown under this Part of this Act shall be paid into the Crown Bank Account and credited to the National Roads Account.
+### 36 Land transport revenue to be paid into national land transport fund
+All fees and charges (excluding applicable refunds and goods and services tax) identified in regulations made for the purposes of Part 1 of this Act as land transport revenue for the purposes of the Land Transport Management Act 2003 must be paid into a Crown Bank Account and treated as land transport revenue.
+
+### 36AA Other prescribed fees received under this Act
+(1) This section applies to prescribed fees that are received under this Act and that are not referred to in section 36.
+(2) Prescribed fees to which this section applies must be paid to the relevant prescribed recipient.
+(3) However, if there is no prescribed recipient to whom any prescribed fees to which this section applies must be paid, those prescribed fees must be paid into a Crown Bank Account.
+(4) For the purposes of this section, prescribed recipient means the person who is specified in regulations made under the Land Transport Act 1998 as the person to whom any fees or charges, or both, are payable.
 
 ### 36A Exemption, waiver, or discount for fees or charges relating to supply of information from register
 Notwithstanding anything in section 19, or in any regulations made under section 35A or section 48, the Secretary may waive, or allow an exemption from or discount on, any fee or charge payable under this Part by any person or class of persons in respect of the supply of information from a register, where the Secretary considers that to do so would be commercially or otherwise advantageous to the Crown.
