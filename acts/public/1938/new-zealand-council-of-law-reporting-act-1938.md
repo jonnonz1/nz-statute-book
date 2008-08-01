@@ -1,10 +1,11 @@
 # New Zealand Council of Law Reporting Act 1938
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-08-01_
 
 > An Act to provide for the incorporation and reconstitution of the New Zealand Council of Law Reporting, and to define its powers and functions
 
 ## Preamble
-WHEREAS the New Zealand Council of Law Reporting is an unincorporated association, consisting of the Attorney-General, the Solicitor-General, the President of the New Zealand Law Society, and 8 other barristers representing the principal District Law Societies in New Zealand, and formed primarily for the purpose of publishing or arranging for the publication of the series of reports of legal decisions known as The New Zealand Law Reports: And whereas it is desirable that the Council should be incorporated, that its constitution should be altered, and that its powers and functions should be defined.
+Whereas the New Zealand Council of Law Reporting is an unincorporated association, consisting of the Attorney-General, the Solicitor-General, the President of the New Zealand Law Society, and 8 other barristers representing the principal District Law Societies in New Zealand, and formed primarily for the purpose of publishing or arranging for the publication of the series of reports of legal decisions known as The New Zealand Law Reports:
+And whereas it is desirable that the Council should be incorporated, that its constitution should be altered, and that its powers and functions should be defined.
 
 ### 1 Short Title
 This Act may be cited as the New Zealand Council of Law Reporting Act 1938.
@@ -34,33 +35,33 @@ In this Act, unless the context otherwise requires, the expression the Council m
 
 ### 7 Reconstitution of Council
 (1) As soon as the members first appointed by the Council of the New Zealand Law Society in accordance with the last preceding section have come into office in accordance with the terms of their appointment, the Council shall be reconstituted, and thereafter shall consist of—
-  (a) The person for the time being holding office as the Attorney-General:
-  (aa) A Judge of the High Court to be appointed by the Chief Justice:
-  (b) The person for the time being holding office as the Solicitor-General:
-  (c) The person for the time being holding office as the President of the New Zealand Law Society in accordance with the provisions of section 117 of the Law Practitioners Act 1955:
-  (d) The persons for the time being appointed as members of the Council by the Council of the New Zealand Law Society in accordance with the provisions of the last preceding section.
+  (a) the person for the time being holding office as the Attorney-General:
+  (aa) a Judge of the High Court to be appointed by the Chief Justice:
+  (b) the person for the time being holding office as the Solicitor-General:
+  (c) the person for the time being holding office as the President of the New Zealand Law Society in accordance with the provisions of section 117 of the Law Practitioners Act 1955:
+  (d) the persons for the time being appointed as members of the Council by the Council of the New Zealand Law Society in accordance with the provisions of the last preceding section.
 (2) The powers of the Council or the validity of its acts shall not be affected by any vacancy in the membership thereof or by any defect or irregularity in the appointment or qualification of any member.
 
-### 8 Provisions as to term of office of appointed members
+### 8 Term of office of appointed members
 (1)
 (1A) Every member appointed by the Chief Justice shall be appointed for such term, not exceeding 3 years, as the Chief Justice may from time to time determine.
 (2) Every member appointed by the Council of the New Zealand Law Society shall be appointed for such term, not exceeding 4 years, as that Council may from time to time determine.
 (3) Any member who retires from office on the expiration of the term of his appointment may be reappointed.
-(4) Notwithstanding anything in the foregoing provisions of this section, every appointed member of the Council, unless he sooner vacates his office in accordance with section 8A or section 9 of this Act, shall continue in office until his successor comes into office, notwithstanding that the term for which he was appointed may have expired.
+(4) Notwithstanding anything in the foregoing provisions of this section, every appointed member of the Council, unless he sooner vacates his office in accordance with section 8A or section 9, shall continue in office until his successor comes into office, notwithstanding that the term for which he was appointed may have expired.
 
-### 8A Extraordinary vacancies in appointments by Chief Justice
+### 8A Extraordinary vacancies
 The office of a member of the Council appointed by the Chief Justice shall become vacant in any of the following circumstances:
-  (a) If he dies; or
-  (b) If he ceases to be a Judge of the High Court; or
-  (c) If he resigns his office, by writing under his hand addressed to the Chairperson of the Council or to the principal administrative officer of the Council.
+  (a) if he dies; or
+  (b) if he ceases to be a Judge of the High Court; or
+  (c) if he resigns his office, by writing under his hand addressed to the Chairperson of the Council or to the principal administrative officer of the Council.
 
-### 9 Extraordinary vacancies in appointments by Council
-(1) The office of a member of the Council appointed by the Council of the New Zealand Law Society shall become vacant in any of the following circumstances—
-  (a) If he dies; or
-  (b) If he resigns his office, by writing under his hand addressed to the Chairperson of the Council or to the principal administrative officer of the Council; or
-  (c) If he becomes bankrupt, or makes any composition with his creditors for less than 100 cents in the dollar, or makes an assignment of his estate for the benefit of his creditors; or
-  (d) If he becomes of unsound mind; or
-  (e) If, in the opinion of the Council of the New Zealand Law Society, he has been guilty of any gross misconduct (in which case he may be removed from office by resolution of the Council of the said Society).
+### 9 Extraordinary vacancies
+(1) The office of a member of the Council appointed by the Council of the New Zealand Law Society shall become vacant in any of the following circumstances:
+  (a) if he dies; or
+  (b) if he resigns his office, by writing under his hand addressed to the Chairperson of the Council or to the principal administrative officer of the Council; or
+  (c) if he becomes bankrupt, or makes any composition with his creditors for less than 100 cents in the dollar, or makes an assignment of his estate for the benefit of his creditors; or
+  (d) if he becomes of unsound mind; or
+  (e) if, in the opinion of the Council of the New Zealand Law Society, he has been guilty of any gross misconduct (in which case he may be removed from office by resolution of the Council of the said Society).
 (2) On the vacation of office by any appointed member of the Council in accordance with the last preceding subsection, the Council of the New Zealand Law Society shall appoint a qualified person to hold office as his successor for the residue of the term for which the first-mentioned member was appointed.
 
 ### 10 Chairperson
@@ -71,10 +72,10 @@ The Attorney-General is the Chairperson of the Council and, when present, presid
 (2) The Deputy Chairperson, when present, presides at all meetings of the Council in the absence of the Chairperson.
 (3) Subject to subsection (4), the Deputy Chairperson holds office until a successor is elected under this section, and is eligible for re-election.
 (4) The office of Deputy Chairperson becomes vacant in any of the following circumstances:
-  (a) If the Deputy Chairperson dies; or
-  (b) If the Council removes the Deputy Chairperson from office; or
-  (c) If the Deputy Chairperson resigns, by writing addressed to the Chairperson of the Council, or to the principal administrative officer of the Council; or
-  (d) If the Deputy Chairperson ceases to be a member of the Council.
+  (a) if the Deputy Chairperson dies; or
+  (b) if the Council removes the Deputy Chairperson from office; or
+  (c) if the Deputy Chairperson resigns, by writing addressed to the Chairperson of the Council, or to the principal administrative officer of the Council; or
+  (d) if the Deputy Chairperson ceases to be a member of the Council.
 (5) Where the office of Deputy Chairperson becomes vacant, an election to fill the vacancy must be held as soon as is reasonably practicable after its occurrence.
 
 ### 10B Absence of Chairperson and Deputy Chairperson
@@ -113,12 +114,10 @@ The Council may from time to time, for such period and on such other terms and c
 The Council may out of its funds reimburse to any member of the Council the travelling and other expenses reasonably incurred by such member in attending any meeting of the Council or otherwise in connection with the business of the Council.
 
 ### 14 Council may make payments to New Zealand Law Society or to District Law Societies
-(1) The Council may from time to time, as it thinks fit, make grants in accordance with the provisions of this section to the New Zealand Law Society or to any District Law Society established under the Law Practitioners Act 1982.
-(2) Except in the case of contributions made to the New Zealand Law Society in respect of the salary of the Secretary to that Society, no grant shall be made under this section otherwise than out of the profits of the Council and with the concurrence of at least three-fourths of the members of the Council. In making any grant out of profits in accordance with this section, resort shall not be had to any profits accrued for more than 3 years prior to the date of such grant.
-(3) Section 70 of the Law Practitioners Act 1931 is hereby repealed.
+[Repealed]
 
-### 15 Investment of money not immediately required for purposes of Council
-Any money belonging to the Council that is not immediately required for expenditure by the Council may be invested in any manner in which trustees are for the time being authorised to invest trust funds.
+### 15 Investment of moneys not immediately required for purposes of Council
+Any moneys belonging to the Council that are not immediately required for expenditure by the Council may be invested in any manner in which trustees are for the time being authorised to invest trust funds.
 
 ### 16 Subsidiary powers of Council
-Nothing in the foregoing provisions of this Act shall be construed to restrict the power of the Council to expend any money belonging to the Council for any purpose that in its opinion is ancillary to the principal functions of the Council as defined in section 12 hereof.
+Nothing in the foregoing provisions of this Act shall be construed to restrict the power of the Council to expend any moneys belonging to the Council for any purpose that in its opinion is ancillary to the principal functions of the Council as defined in section 12.
