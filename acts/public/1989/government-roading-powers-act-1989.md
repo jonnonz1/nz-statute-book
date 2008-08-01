@@ -1,33 +1,28 @@
-# Transit New Zealand Act 1989
-_Consolidation as at 2007-09-03_
-
-> An Act to constitute Transit New Zealand and define its functions and powers
+# Government Roading Powers Act 1989
+_Consolidation as at 2008-08-01_
 
 ### 1 Short Title and commencement
-(1) This Act may be cited as the Transit New Zealand Act 1989.
+(1) This Act may be cited as the Government Roading Powers Act 1989.
 (2) This Act shall come into force on the 1st day of October 1989.
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **Administration**
+  - **Agency** means the New Zealand Transport Agency established under section 93 of the Land Transport Management Act 2003
   - **Approved**
   - **Approved safety (administration) programme**
-  - **Authority** means the body corporate called Transit New Zealand that is continued by section 75 of the Land Transport Management Act 2003
-  - **Board** means the body corporate called Transfund New Zealand that is continued by section 66 of the Land Transport Management Act 2003.
   - **Capital project**
   - **Commissioner** means the Commissioner of Police
   - **Competitive pricing procedure**
   - **council-controlled organisation** means a council-controlled organisation within the meaning of the Local Government Act 2002
   - **Crown Bank Account** has the same meaning as in the Public Finance Act 1989
-  - **Director of Land Transport** means the person appointed under section 186 of the Land Transport Act 1998
   - **Director of Land Transport Safety**
   - **District roading programme**
   - **Employee of the Board**
   - **Excise duty** means excise duty payable on motor spirits, compressed natural gas, and liquefied petroleum gas under the Customs and Excise Act 1996
   - **Fees and charges**
-  - **Financial year** , in relation to the Board and the Authority, means the period of 12 months commencing on the 1st day of July in any year and ending with the close of the 30th day of June in the next year
+  - **Financial year** , in relation to the Agency, means the period of 12 months commencing on the 1st day of July in any year and ending with the close of the 30th day of June in the next year
   - **land transport** has the same meaning as in section 5 of the Land Transport Management Act 2003
-  - **Land Transport Authority** means Land Transport New Zealand established by section 66 of the Land Transport Management Act 2003.
   - **Land Transport Safety Authority**
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
   - **Local authority trading enterprise**
@@ -38,7 +33,6 @@ _Consolidation as at 2007-09-03_
     (a) Means a motorway declared as such by the Governor-General in Council under section 138 of the Public Works Act 1981 or under section 71 of this Act; and
     (b) Includes all bridges, drains, culverts, or other structures or works forming part of any motorway so declared; but
     (c) Does not include any local road, access way, or service lane (or the supports of any such road, way, or lane) that crosses over or under a motorway on a different level:
-  - **National land transport strategy** or means a national land transport strategy completed and signed by the Minister under section 171 of the Land Transport Act 1998, as from time to time amended under section 173 of that Act
   - **National roading programme**
   - **National Roads Account** or
   - **Outputs**
@@ -49,14 +43,13 @@ _Consolidation as at 2007-09-03_
   - **Planning, design, and supervision**
   - **regional council** means a regional council within the meaning of the Local Government Act 2002
   - **Regional land transport committee** means a regional land transport committee established under section 178 of the Land Transport Act 1998
-  - **Regional land transport strategy** means a regional land transport strategy prepared under section 175 of the Land Transport Act 1998
   - **Regional programme**
   - **Registered service**
   - **Road** means, subject to sections 43(1), 51(1), 54(1), and 55 of this Act, any road as defined in section 315(1) of the Local Government Act 1974; and has a corresponding meaning
   - **Safety (administration)**
   - **Safety (administration) programme**
   - **Secretary** means the Secretary for Transport
-  - **State highway** means a State highway declared as such under section 11 of the National Roads Act 1953 or by the Authority under this Act; and, for the purposes of any payments from the Account, also includes any proposed State highway
+  - **State highway** has the same meaning as in section 5 of the Land Transport Management Act 2003
   - **State Highways Account**
   - **State highways programme**
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002
@@ -64,10 +57,10 @@ _Consolidation as at 2007-09-03_
   - **Year** means the financial year of the Board.
 (2)
 (3)
-(4) Every reference in this Act to a road or a State highway shall, unless the context otherwise requires, include the land on which the road or State highway exists, and shall also include all bridges, culverts, ferries, fords, or other structures forming or intended by the territorial authority or the Authority to form part of the road, State highway, or land.
-(5) For the purposes of exercising any function or performing any power in relation to the construction, maintenance, financial assistance, or control under this Act, the Authority or the Board (as the case may be within their respective jurisdictions) may from time to time determine, either generally or in relation to any specified road or to any portion or side of any specified road, what part of a road is a carriageway, footway, water table, drain, dividing strip, traffic island, safety zone, plantation, verge, shoulder, parking space, curb, channel, or other thing, and every such determination of the Authority or the Board shall be final but may at any time be amended or revoked by the Authority or the Board (as the case may be).
-(6) A determination by the Authority or the Board for the purposes of subsection (5) of this section in relation to any road or portion of a road may be made by express resolution of the Authority or the Board (as the case may be) or by way of approval of a plan that delineates the several parts of the road or portion of the road.
-(7) All references to a main highway in any other Act, or in any regulation, rule, bylaw, order, or other enactment, or in any contract, agreement, deed, instrument, application, licence, notice, declaration, or other document whatsoever shall, unless inconsistent with the context or with the provisions of this Act, be read as references to a State highway.
+(4) Every reference in this Act to a road or a State highway shall, unless the context otherwise requires, include the land on which the road or State highway exists, and shall also include all bridges, culverts, ferries, fords, signs, signals, barriers, or other structures forming or intended by the territorial authority or the Agency to form part of the road, State highway, or land.
+(5) For the purposes of exercising any function or performing any power in relation to the construction, maintenance, financial assistance, or control under this Act, the Agency may from time to time determine, either generally or in relation to any specified road or to any portion or side of any specified road, what part of a road is a carriageway, footway, water table, drain, dividing strip, traffic island, safety zone, plantation, verge, shoulder, parking space, curb, channel, or other thing, and every such determination of the Agency is final but may at any time be amended or revoked by the Agency.
+(6) A determination by the Agency for the purposes of subsection (5) of this section in relation to any road or portion of a road may be made by express resolution of the Agency or by way of approval of a plan that delineates the several parts of the road or portion of the road.
+(7) All references to a main highway in any other Act or the Land Transport Management Act 2003, or in any regulation, rule, bylaw, order, or other enactment, or in any contract, agreement, deed, instrument, application, licence, notice, declaration, or other document whatsoever shall, unless inconsistent with the context or with the provisions of this Act, be read as references to a State highway.
 
 ### 3 Act to bind the Crown
 This Act shall bind the Crown.
@@ -109,21 +102,18 @@ This Act shall bind the Crown.
 **Overview**
 
 ### 4 Overview
-In general terms, the scheme of the relevant legislation is as follows:
-  (a) this Act deals with the roading powers of Transit:
-  (b) Part 2 of the Land Transport Management Act 2003 deals with land transport funding:
-  (c) Part 3 of the Land Transport Management Act 2003 deals with governance matters relating to Transfund and Transit.
+[Repealed]
 
 **Governance**
 
 ### 5 Transfund
-Transfund New Zealand is the body corporate continued by section 66 of the Land Transport Management Act 2003.
+[Repealed]
 
 ### 6 Transit
-Transit New Zealand is the body corporate continued by section 75 of the Land Transport Management Act 2003.
+[Repealed]
 
 ### 7 Functions, duties, and powers
-Transfund and Transit each has the functions, duties, and powers conferred or imposed on them by the Land Transport Management Act 2003, this Act, and any other enactment.
+[Repealed]
 
 ### 7A Authority to have powers of natural person
 [Repealed]
@@ -143,7 +133,7 @@ Transfund and Transit each has the functions, duties, and powers conferred or im
 **Land transport funding**
 
 ### 8 Funding system
-Transfund funds land transport activities in accordance with Part 2 of the Land Transport Management Act 2003.
+[Repealed]
 
 ## Part 2 — Funding of capital projects and outputs
 
@@ -381,7 +371,7 @@ All Government roads declared as such under this Act, the Public Works Act 1981,
   (l) To enter on any land so as to gain access to other land for the purposes of this subsection:
   (m) To enter on any land and to remove from any culvert, river, stream, lake, or other water, any material which may be lodged in its bed or against its banks or against any bridge, dam, ford, or weir, and which may impede the free flow of water in its natural channel whereby any part of a road under the Minister's control may be damaged.
 (4) Entry shall not be made under subsection (3) of this section without the consent of the owner or occupier, if the land is within the curtilage of a dwelling or other building, or is within a stockyard, orchard, vineyard, plant nursery, shelter belt, airstrip, garden, or shrubbery.
-(5) Before entering on any land pursuant to any power conferred by subsection (3) of this section, the Minister or an officer of Land Transport New Zealand acting on the Minister's behalf shall (except in the case of any emergency or danger) give to the owner and to the occupier of the land not less than 10 working days' notice in writing of the intention to enter, and shall state in that notice—
+(5) Before entering on any land pursuant to any power conferred by subsection (3) of this section, the Minister or an officer of the Agency acting on the Minister's behalf shall (except in the case of any emergency or danger) give to the owner and to the occupier of the land not less than 10 working days' notice in writing of the intention to enter, and shall state in that notice—
   (a) A description of the land affected; and
   (b) The nature of any work to be carried out; and
   (c) The type of any material required; and
@@ -400,16 +390,16 @@ All Government roads declared as such under this Act, the Public Works Act 1981,
 For the purpose of erecting or removing any swing gate or cattle stop across any Government road, the provisions of section 344 of the Local Government Act 1974 shall apply as if references in that section to the council were references to the Minister.
 
 ### 50 Owner or occupier of land not to cause damage to bridge by removal of stone, etc
-(1) The Authority (in the case of a bridge or culvert under its control) and the Minister (in the case of a bridge or culvert under the Minister's control) may give to the owner or to the occupier of any land situated within 200 metres of any such bridge or culvert and abutting upon any river or stream, notice in writing not to remove or permit to be removed any stone, earth, or other material from any part of his or her land in such manner as may be likely to cause damage to the bridge or culvert.
+(1) The Agency (in the case of a bridge or culvert under its control) and the Minister (in the case of a bridge or culvert under the Minister's control) may give to the owner or to the occupier of any land situated within 200 metres of any such bridge or culvert and abutting upon any river or stream, notice in writing not to remove or permit to be removed any stone, earth, or other material from any part of his or her land in such manner as may be likely to cause damage to the bridge or culvert.
 (2) Nothing in subsection (1) of this section shall apply in respect of any mining operations carried out pursuant to a mining permit within the meaning of the Crown Minerals Act 1991.
 (3) Any person dissatisfied with the requirements of any such notice may, within 10 working days after receiving it, appeal against the requirements to a District Court.
-(4) Every person so appealing, and the Authority or Minister, either personally or by an officer of Land Transport New Zealand or by their counsel, shall be entitled to be present and to be heard at the hearing of the appeal.
+(4) Every person so appealing, and the Agency or Minister, either personally or by their counsel, shall be entitled to be present and to be heard at the hearing of the appeal.
 (5) On hearing the appeal the Court may confirm, cancel, or vary the notice as it thinks fit.
 (6) Any person who fails to comply with the requirements of a notice given under this section commits an offence and is liable on summary conviction to a fine not exceeding $500.
 
 ### 51 Penalties for damage to roads, bridges, etc
 (1) In this section the expression road means a State highway or a road under the control of the Minister; and includes any work or thing in, on, over, or under a road.
-(2) Every person commits an offence who, without the written permission of the Authority (in the case of a State highway) or of the Minister (in the case of a road under the Minister's control),—and is liable on summary conviction to a fine not exceeding $1,000 and to a further fine not exceeding $50 for each day or part of a day during which the offence is continued.
+(2) Every person commits an offence who, without the written permission of the Agency (in the case of a State highway) or of the Minister (in the case of a road under the Minister's control),—and is liable on summary conviction to a fine not exceeding $1,000 and to a further fine not exceeding $50 for each day or part of a day during which the offence is continued.
   (a) Encroaches on a road by making or erecting any building, fence, pole, ditch, or other obstacle or work of any kind upon, over, or under the road, or by planting any tree or shrub on it; or
   (b) Places or leaves on a road any machinery, timber, stones, earth, or other material; or
   (c) Digs up, removes, or alters in any way the soil or surface of a road; or
@@ -423,18 +413,18 @@ For the purpose of erecting or removing any swing gate or cattle stop across any
   (k) Digs up or removes any stone, gravel, sand, or other material from a riverbed within 50 metres of a bridge, dam, ford, or weir forming part of a road; or
   (l) Causes or negligently allows any foundation, retaining structure, wall, or fence erected on any land, or any earth batter or slope, or any building, erection, material or thing, to give way or fall so as to damage or obstruct a road; or
   (m) Does or causes or permits to be done any act whatever by which any damage or obstruction is caused to a road,—
-(3) Every person who commits an offence against this section may, in addition to any penalty for the offence, be ordered by the Court to pay the cost incurred by the Authority or the Minister in removing any such encroachment, obstruction, hazard, disfigurement, or matter, or in repairing any such damage.
+(3) Every person who commits an offence against this section may, in addition to any penalty for the offence, be ordered by the Court to pay the cost incurred by the Agency or the Minister in removing any such encroachment, obstruction, hazard, disfigurement, or matter, or in repairing any such damage.
 (4) A fine shall not be imposed, and an order for payment of costs incurred shall not be made, under this section unless the information or complaint is laid—
-  (a) By authority of the Authority or of the Minister or of the Commissioner; or
-  (b) By an officer of the Authority or an employee of the Ministry or a traffic officer or a constable.
-(5) Any permission under this section may be given subject to such conditions and payment of rent as the Authority or Minister thinks fit, and unless otherwise agreed may be revoked without compensation on not less than 3 months' notice in writing.
+  (a) By authority of the Agency or of the Minister or of the Commissioner; or
+  (b) By an officer of the Agency or an employee of the Ministry or a traffic officer or a constable.
+(5) Any permission under this section may be given subject to such conditions and payment of rent as the Agency or Minister thinks fit, and unless otherwise agreed may be revoked without compensation on not less than 3 months' notice in writing.
 
 ### 52 Notice to be given of local authority works
 (1) Any local authority or other person having lawful power to execute or maintain works on, under, or over any road shall not commence any works or maintenance—
-  (a) On any State highway, without the consent of the Authority; or
+  (a) On any State highway, without the consent of the Agency; or
   (b) On any Government road, without the consent of the Minister; or
   (c) On any road (including any State highway) under the control of a local authority, without the consent of the local authority.
-(2) Any consent under subsection (1) of this section may be given subject to such conditions as the Authority or the Minister or the local authority thinks fit for the protection and safety of the public or of the State highway, Government road, or road.
+(2) Any consent under subsection (1) of this section may be given subject to such conditions as the Agency or the Minister or the local authority thinks fit for the protection and safety of the public or of the State highway, Government road, or road.
 (3) Nothing in this section shall apply to—
   (a) The maintenance of any work on any part of the road other than the carriageway; or
   (b) The immediate repair to or reconstruction of any work if that repair or reconstruction is required as a result of an earthquake, flood, landslide, or other emergency.
@@ -446,13 +436,13 @@ For the purpose of erecting or removing any swing gate or cattle stop across any
   (c) The necessity of ensuring that any such line or transmission line is reasonably accessible for repair and maintenance:
   (d) The necessity of complying with any other enactment by which express provision is made as to the distance of any pole or tower from any other thing, or as to the distance between poles or towers that support different lines or transmission lines.
 (2) Subsection (1) of this section shall not apply in any case—
-  (a) When the Director of Land Transport determines (after consultation with the authority having control of the road and the authority proposing to erect or re-erect a pole or tower) that the proposed position of any pole or tower, although not complying with that subsection, is such that the pole or tower will not be dangerous to vehicles and persons in them using any road; or
+  (a) When the Agency determines (after consultation with the authority having control of the road and the authority proposing to erect or re-erect a pole or tower) that the proposed position of any pole or tower, although not complying with that subsection, is such that the pole or tower will not be dangerous to vehicles and persons in them using any road; or
   (b) If, in the public interest, it is essential that any pole or tower be re-erected without delay; or
   (c) If, because of technical difficulties or disproportionate costs, it is not practicable to re-erect a pole or tower otherwise than in its previous position.
 
 ### 54 Removal of roadside structures
 (1) In this section, unless the context otherwise requires,—
-  - **Controlling authority** , in relation to any road, means the authority in which is vested the control of the road; and includes the Minister or the Authority, as the case may be, where the control of the road is vested in the Minister or the Authority
+  - **Controlling authority** , in relation to any road, means the authority in which is vested the control of the road; and includes the Minister or the Agency, as the case may be, where the control of the road is vested in the Minister or the Agency
   - **Road** includes any motorway or service lane
   - **Structure** means any tower, pole, or post lawfully upon or in or over a road or any pipes, cables, chambers, drains, or other services lawfully under a road; and includes any equipment that must be removed with the structure if the structure is removed; but does not include—
     (a) Any part of a bridge or culvert:
@@ -532,42 +522,31 @@ The Minister may, by notice in the Gazette, declare that any access way or servi
 **State highways**
 
 ### 60 Authority may declare State highways
-(1) The Authority may from time to time, by resolution published in the Gazette and publicly notified, declare any road, whether then actually constructed or not and whether vested in the Crown or not, to be a State highway within the meaning and for the purposes of this Act, and shall by the same or a subsequent notice define the route of that State highway by town, road name, or route position, as the case may require.
-(2) Such State highway shall include all land along or contiguous with its route which, from time to time, is or becomes road; but where a State highway intersects another road, only that part of the intersection that is within the extension of the route of the State highway shall be part of the State highway.
-(3) Any declaration of a State highway made under this section may include land that was not previously constituted as part of a road.
-(4) A declaration under subsection (1) that affects or is likely to affect Maori land, land registered in the name of Pootatau Te Wherowhero under section 19 of the Waikato Raupatu Claims Settlement Act 1995, land subject to any other Maori claims settlement Act, or Maori historical, cultural, or spiritual interests, may not be made or revoked unless Transit has consulted,—
-  (a) in the case of land registered in the name of Pootatau Te Wherowhero or interests relating to that land, the land holding trustee (as defined in section 7 of the Waikato Raupatu Claims Settlement Act 1995):
-  (b) if any other Maori claims settlement Act requires consultation about the declaration or revocation, in accordance with that Act:
-  (c) in any other case, every iwi or hapu that in the opinion of Transit will or may be affected by the declaration or revocation.
-(4A) Transit must be satisfied after that consultation that the declaration should be made.
-(5) In defining the route of any State highway the Authority shall not be constrained to accept the route of any existing road, and may if it thinks fit declare either permanently or temporarily more than one State highway between any 2 places.
-(6) Every declaration made under this section may in like manner from time to time be varied or altered, or may be at any time in like manner revoked. Any such revocation shall constitute the road as a local road for the purposes of this or any other Act.
-(7) Every declaration under this section declaring any route to be a State highway shall come into force on a date to be fixed in that behalf by the Authority either in that declaration or in a subsequent declaration.
-(8) Every State highway declared as such by the National Roads Board under section 11 of the National Roads Act 1953 and having that status under that Act immediately before the commencement of this Act is hereby deemed to have been declared to be a State highway under this Act.
+[Repealed]
 
-### 61 Powers and duties of Authority in relation to State highways
-(1) Subject to section 62 of this Act, the Authority shall have the sole powers of control for all purposes, including construction and maintenance, of all State highways under this Act, and any such powers shall be exercisable only pursuant to this Act.
-(2) All rights and powers vested in any local authority under sections 331, 332, 334, 335, 337 to 341, and 353 of the Local Government Act 1974, and all rights and powers vested in any local authority in relation to roads under any other Act, may in respect of any State highway be exercised by the Authority.
-(2A) For the purpose of erecting any swing gate or cattle stop across any State highway, the provisions of section 344 of the Local Government Act 1974 shall apply as if references in that section to the council were references to the Authority.
-(2B) Any pilot of an overweight or over dimension vehicle for which a permit has been issued by the Authority under regulations made under the Transport Act 1962, or under regulations or rules made under the Land Transport Act 1998, who is authorised for the purpose by that permit, may stop other vehicles on any State highway under the control of the Authority where such action is necessary for the purposes of safety.
-(3) The Authority may from time to time, by notice in the Gazette, make bylaws with respect to any State highway on the subject-matters referred to in paragraphs (13) to (20), and (38) to (41A) of section 684(1) of the Local Government Act 1974.
-(4) The Authority shall have power to do all things necessary to construct and maintain in good repair any State highway, and in particular, but without limiting any power conferred on the Authority elsewhere in this Act, to do the following things:
-  (a) To alter the line of any State highway, but a new line shall not be laid out by the Authority without the written consent of those persons whose written consent would be required under section 114(2) of the Public Works Act 1981 if the land were to be declared to be a road:
+### 61 Powers and duties of Agency in relation to State highways
+(1) Subject to section 62 of this Act, the Agency shall have the sole powers of control for all purposes, including construction and maintenance, of all State highways under this Act, and any such powers shall be exercisable only pursuant to this Act.
+(2) All rights and powers vested in any local authority under sections 331, 332, 334, 335, 337 to 341, and 353 of the Local Government Act 1974, and all rights and powers vested in any local authority in relation to roads under any other Act, may in respect of any State highway be exercised by the Agency.
+(2A) For the purpose of erecting any swing gate or cattle stop across any State highway, the provisions of section 344 of the Local Government Act 1974 shall apply as if references in that section to the council were references to the Agency.
+(2B) Any pilot of an overweight or over dimension vehicle for which a permit has been issued by the Agency under regulations made under the Transport Act 1962, or under regulations or rules made under the Land Transport Act 1998, who is authorised for the purpose by that permit, may stop other vehicles on any State highway under the control of the Agency where such action is necessary for the purposes of safety.
+(3) The Agency may from time to time, by notice in the Gazette, make bylaws with respect to any State highway on the subject-matters referred to in paragraphs (13) to (20), and (38) to (41A) of section 684(1) of the Local Government Act 1974.
+(4) The Agency shall have power to do all things necessary to construct and maintain in good repair any State highway, and in particular, but without limiting any power conferred on the Agency elsewhere in this Act, to do the following things:
+  (a) To alter the line of any State highway, but a new line shall not be laid out by the Agency without the written consent of those persons whose written consent would be required under section 114(2) of the Public Works Act 1981 if the land were to be declared to be a road:
   (b) To increase or diminish the width of any State highway:
   (c) To determine what part of a State highway shall be a carriageway and what part a cycle track or footpath only:
-  (d) To construct, erect, dig, or grow on any State highway, or remove from it, such barriers, dividing strips, guide or sign posts, pillars, or other markers, trees, hedges, lawns, gardens, and other devices, as may in the opinion of the Authority be necessary or desirable:
+  (d) To construct, erect, dig, or grow on any State highway, or remove from it, such barriers, dividing strips, guide or sign posts, pillars, or other markers, trees, hedges, lawns, gardens, and other devices, as may in the opinion of the Agency be necessary or desirable:
   (e) To place or construct temporarily or permanently on any carriageway any reasonable device or thing for the purpose of controlling vehicle speeds, if it is desirable for the safety of road workers or users of the State highway, or members of the public, or to protect any part of the State highway:
   (f) To place or construct, or allow to be placed or constructed, on any State highway clear of the carriageway any road-making or maintenance materials, plant and equipment, traffic weigh stations, traffic control aids, and stations, facilities, and amenities for State highway users:
   (g) To alter the level of any State highway:
   (h) To stop, divert, or otherwise control the traffic upon any State highway temporarily while any work or investigation is being undertaken or for the structural protection of any part of the State highway:
-  (i) To close to traffic any State highway, or any part of it, for such period as the Authority considers necessary to execute repairs or to remove any obstruction:
-  (j) Subject to this section, to enter on any land and make such ditches, drains, and conduits as may be required to drain water from any State highway, and to keep such ditches, drains, and conduits open at all times for the flow of water; and to erect floodgates therein and to open or close them as the Authority thinks fit, doing as little damage as possible:
+  (i) To close to traffic any State highway, or any part of it, for such period as the Agency considers necessary to execute repairs or to remove any obstruction:
+  (j) Subject to this section, to enter on any land and make such ditches, drains, and conduits as may be required to drain water from any State highway, and to keep such ditches, drains, and conduits open at all times for the flow of water; and to erect floodgates therein and to open or close them as the Agency thinks fit, doing as little damage as possible:
   (k) To exercise the powers given by section 74 of this Act as if the State highway were a motorway:
   (l) Subject to this section, to enter on any land so as to gain access to other land for the purposes of this subsection:
   (m) Subject to this section, to enter on any land and to remove from any culvert, river, stream, lake, or other water, any material which may be lodged in its bed or against its banks or against any bridge, dam, ford, or weir, and which may impede the free flow of water in its natural channel whereby any part of a State highway may be damaged.
-(5) The Authority or any local authority may, in the construction and maintenance of any State highway, include such works for the preservation of any Maori historical, cultural, or spiritual interests affected or likely to be affected by the construction or maintenance as may be agreed between the Authority or local authority and the iwi or hapu to which those interests relate.
+(5) The Agency or any local authority may, in the construction and maintenance of any State highway, include such works for the preservation of any Maori historical, cultural, or spiritual interests affected or likely to be affected by the construction or maintenance as may be agreed between the Agency or local authority and the iwi or hapu to which those interests relate.
 (6) Entry shall not be made under subsection (4) of this section without the consent of the owner or occupier, if the land is within the curtilage of a dwelling or other building, or is within a stockyard, orchard, vineyard, plant nursery, shelter belt, airstrip, garden, or shrubbery.
-(7) Before entering on any land pursuant to any power conferred by subsection (4) of this section, the Authority or an officer of the Authority acting on the Authority's behalf shall (except in the case of any emergency or danger) give to the owner and to the occupier of the land not less than 10 working days' notice in writing of the intention to enter, and shall state in that notice—
+(7) Before entering on any land pursuant to any power conferred by subsection (4) of this section, the Agency or an officer of the Agency acting on the Authority's behalf shall (except in the case of any emergency or danger) give to the owner and to the occupier of the land not less than 10 working days' notice in writing of the intention to enter, and shall state in that notice—
   (a) A description of the land affected; and
   (b) The nature of any work to be carried out; and
   (c) The type of any material required; and
@@ -576,7 +555,7 @@ The Minister may, by notice in the Gazette, declare that any access way or servi
   (f) How and when entry is to be made; and
   (g) A statement of the owner's or occupier's rights under subsection (8) of this section; and
   (h) The estimated amount of compensation to which the owner or occupier would be entitled under this or any other Act.
-(8) The owner or occupier may, within 10 working days after receiving such a notice and after giving notice to the Authority or officer of the owner's intention to do so, apply to the District Court nearest to the land concerned, and the Court may thereupon summon the Authority, through any officer, or the officer, to appear before the Court at a time and place to be named in the summons.
+(8) The owner or occupier may, within 10 working days after receiving such a notice and after giving notice to the Agency or officer of the owner's intention to do so, apply to the District Court nearest to the land concerned, and the Court may thereupon summon the Agency, through any officer, or the officer, to appear before the Court at a time and place to be named in the summons.
 (9) If it appears to the Court that the use proposed to be made of the land is unreasonable or unnecessary, the Court may—
   (a) Order that the land in question shall not be occupied or used, or shall not be occupied or used in the manner proposed; or
   (b) Direct that the land be occupied and used or material taken from it in such manner and subject to such limitations and restrictions as it thinks fit.
@@ -594,64 +573,62 @@ The Minister may, by notice in the Gazette, declare that any access way or servi
 (5) The Minister for the time being responsible for the administration of section 45 of the Public Works Act 1981 or the controlling authority may at any time accept the surrender of any lease, tenancy, or licence to occupy granted under this section.
 
 ### 62 Delegation of powers and duties to territorial authorities
-(1) All or any of the functions, duties, and powers of construction, maintenance, and control conferred on the Authority by this Act with respect to any State highway or portion of a State highway may be delegated by the Authority to the territorial authority in whose district the State highway or portion of it is situated, or, where the boundary between the districts of any territorial authorities runs along any State highway, be delegated by the Authority to such of those territorial authorities as the Authority decides, as if the State highway were wholly in the district of that territorial authority.
-(2) Any State highway or part of it that is the subject of a delegation under subsection (1) of this section shall be included in the State highway part of a land transport programme; and the provisions of sections 26 and 28 of this Act shall apply as if it were both a State highway and a local road.
+(1) All or any of the functions, duties, and powers of construction, maintenance, and control conferred on the Agency by this Act with respect to any State highway or portion of a State highway may be delegated by the Agency to the territorial authority in whose district the State highway or portion of it is situated, or, where the boundary between the districts of any territorial authorities runs along any State highway, be delegated by the Agency to such of those territorial authorities as the Agency decides, as if the State highway were wholly in the district of that territorial authority.
+(2) Any activity relating to a State highway or part of it that is the subject of a delegation under subsection (1) may be proposed for inclusion in the relevant regional land transport programme by the territorial authority to which a delegation has been made under this section, and included in the programme as if it were a State highway activity.
 (3) Any delegation under subsection (1) of this section may be made only with the consent of the territorial authority concerned.
 (4)
 (5)
 (6)
 
 ### 63 Delegations
-(1) Any delegation by the Authority of its functions, duties, or powers under section 62 of this Act shall be effected by a resolution of the Authority, and may be either absolute or subject to such conditions as the Authority may by that or any subsequent resolution determine.
-(2) Any such delegation, and any such delegation made by the National Roads Board before the commencement of this Act, may at any time be revoked or varied by resolution of the Authority.
-(3) The fact that any territorial authority purports to perform any function or duty or exercise any power pursuant to any delegation by the Authority (or by the National Roads Board before the commencement of this Act) shall, in the absence of proof to the contrary, be sufficient evidence of its authority to do so.
-(4) While powers of the Authority are delegated to a territorial authority under this Act—
+(1) Any delegation by the Agency of its functions, duties, or powers under section 62 of this Act shall be effected by a resolution of the Agency, and may be either absolute or subject to such conditions as the Agency may by that or any subsequent resolution determine.
+(2) Any such delegation, and any such delegation made by the National Roads Board before the commencement of this Act, may at any time be revoked or varied by resolution of the Agency.
+(3) The fact that any territorial authority purports to perform any function or duty or exercise any power pursuant to any delegation by the Agency (or by the National Roads Board before the commencement of this Act) shall, in the absence of proof to the contrary, be sufficient evidence of its authority to do so.
+(4) While powers of the Agency are delegated to a territorial authority under this Act—
   (a) The territorial authority shall exercise the delegated powers in its own name and shall be liable accordingly; and
-  (b) Neither the Authority nor the Crown shall be answerable for any act or default of the territorial authority in the exercise of any powers so delegated; and
-  (c) The Authority shall not have power to exercise any of the powers so delegated without first revoking that delegation pursuant to subsection (2) of this section.
+  (b) Neither the Agency nor the Crown shall be answerable for any act or default of the territorial authority in the exercise of any powers so delegated; and
+  (c) The Agency shall not have power to exercise any of the powers so delegated without first revoking that delegation pursuant to subsection (2) of this section.
 (5) Any delegation by the National Roads Board to any person or body other than a territorial authority before the commencement of this Act is hereby revoked.
 
 ### 64 Territorial authority may surrender delegated powers and duties
-(1) A territorial authority to which a delegation of functions, duties, or powers has been made pursuant to section 62 of this Act may surrender all or any of such delegated functions, duties, or powers to the Authority by giving notice in writing to that effect not later than 6 months before the end of the financial year of the Authority; and such notice shall take effect on the commencement of the following financial year.
-(2) Nothing in subsection (1) of this section shall affect the right of the Authority to delegate, or a territorial authority to request delegation, under section 62 of this Act.
+(1) A territorial authority to which a delegation of functions, duties, or powers has been made pursuant to section 62 of this Act may surrender all or any of such delegated functions, duties, or powers to the Agency by giving notice in writing to that effect not later than 6 months before the end of the financial year of the Agency; and such notice shall take effect on the commencement of the following financial year.
+(2) Nothing in subsection (1) of this section shall affect the right of the Agency to delegate, or a territorial authority to request delegation, under section 62 of this Act.
 
-### 65 Authority may require territorial authority to relinquish property in State highway
-Where any delegation is revoked under section 63 of this Act or surrendered under section 64 of this Act the Authority may require the territorial authority to exercise the power conferred on it by section 316(2) of the Local Government Act 1974 and relinquish the property in any State highway concerned.
+### 65 Agency may require territorial authority to relinquish property in State highway
+Where any delegation is revoked under section 63 of this Act or surrendered under section 64 of this Act the Agency may require the territorial authority to exercise the power conferred on it by section 316(2) of the Local Government Act 1974 and relinquish the property in any State highway concerned.
 
-### 66 State highway policy to remain with Authority
-The Authority shall have full power and control over State highway policy notwithstanding any delegation pursuant to section 62 of this Act, and every territorial authority to which any delegation is so made shall comply with such policy as is communicated to it by the Authority from time to time.
+### 66 State highway policy to remain with Agency
+The Agency shall have full power and control over State highway policy notwithstanding any delegation pursuant to section 62 of this Act, and every territorial authority to which any delegation is so made shall comply with such policy as is communicated to it by the Agency from time to time.
 
 ### 67 Whole cost of construction and maintenance of State highways to be paid out of State Highways Account
-(1) Subject to subsections (2) and (3) of this section and section 17 of this Act, the whole of the cost of construction and maintenance of the carriageway of any State highway (including any part of a State highway that is the subject of a delegation pursuant to section 62 of this Act) in accordance with the standard prescribed by the Authority shall, as from the date of the designation of the State highway, be provided by the Authority out of the State Highways Account.
-(2) In respect of any State highway, the Authority may (subject to section 17 of this Act) undertake, or any territorial authority to which a delegation is made under section 62 of this Act may undertake, any work of construction or maintenance that is of a higher standard than the standard prescribed by the Authority or is in addition to the works required to be undertaken in order to comply with that standard. In any such case the Authority may, subject to such terms and conditions as it thinks fit and subject to section 16 of this Act, provide to the territorial authority out of the State Highways Account the whole or such part (if any) as the Authority thinks fit of the cost of the work in so far as, in the opinion of the Authority, it exceeds or is in addition to the cost that would have been incurred in carrying out works of the standard prescribed by the Authority. Except as provided in this subsection, the additional cost, or so much of it as is not provided by the Authority, shall be payable by the territorial authority concerned.
-(3) Nothing in this section shall be construed to relieve any territorial authority from any liability or obligation to which it may be subject in respect of any road at the time of the designation of the road as a State highway. In any case where, pursuant to an arrangement made between the Authority and a territorial authority before the designation of a road as a State highway, the territorial authority is liable for a contribution towards the cost of the construction or maintenance of the road, the Authority may, if it thinks fit, remit the contribution in whole or in part in so far as it relates to a period after the designation of the road as a State highway. If any amount so remitted has been paid it shall be refunded out of the State Highways Account.
+[Repealed]
 
 ### 68 Provision of other facilities
-(1) Subject to section 17 of this Act, the Authority may—
+(1) Subject to section 17 of this Act, the Agency may—
   (a) Construct any vehicle parking place or parking building on land adjacent to, over, or under any State highway:
-  (b) Construct and operate, or allow to be constructed and operated, on, over, under, or adjacent to any State highway, any building, facility, amenity, or service that the Authority considers to be desirable for the convenience of State highway users:
+  (b) Construct and operate, or allow to be constructed and operated, on, over, under, or adjacent to any State highway, any building, facility, amenity, or service that the Agency considers to be desirable for the convenience of State highway users:
   (c) Construct any facility of benefit or advantage to users of the land transport system or for improving public safety.
-(2) Notwithstanding anything to the contrary in this Act, the Authority may lease or let, or grant a licence in respect of, any such parking place, parking building, building, facility, amenity, or service for such period, at such rental, and on such terms and conditions as it thinks fit.
+(2) Notwithstanding anything to the contrary in this Act, the Agency may lease or let, or grant a licence in respect of, any such parking place, parking building, building, facility, amenity, or service for such period, at such rental, and on such terms and conditions as it thinks fit.
 (3) Any land may be acquired for the purposes of this section under Part 2 of the Public Works Act 1981 as for a public work, and any land so acquired shall be held for a public work.
 
 ### 69 Classification of State highways and roads
-Whenever any difference of opinion arises as to the class or classes of traffic for which any State highway or road should be available, the question may be submitted by either party to the Authority, and the decision of the Authority shall be final.
+Whenever any difference of opinion arises as to the class or classes of traffic for which any State highway or road should be available, the question may be submitted by either party to the Agency, and the decision of the Agency shall be final.
 
 ### 70 Bylaws
-Every bylaw in force in respect of any State highway on the commencement of this Act shall continue in force as if made by the Authority in respect of that State highway, unless and until it is revoked by the Authority or a territorial authority acting pursuant to a delegation under section 62 of this Act.
+Every bylaw in force in respect of any State highway on the commencement of this Act shall continue in force as if made by the Agency in respect of that State highway, unless and until it is revoked by the Agency or a territorial authority acting pursuant to a delegation under section 62 of this Act.
 
 **Motorways**
 
 ### 71 Governor-General may authorise and declare motorways
-(1) At the request of the Authority, the Governor-General may from time to time, by Order in Council published in the Gazette,—
+(1) At the request of the Agency, the Governor-General may from time to time, by Order in Council published in the Gazette,—
   (a) Authorise the construction of any motorway, and in doing so state as nearly as possible the route of the motorway, and its 2 termini:
   (b) Declare any land, or any part of the air space above or the subsoil below the surface of any land, or any road, whether then actually constructed as a motorway or not, to be a motorway.
 (2) Every Order in Council under this section may in the same manner from time to time be amended or revoked.
-(3) No request may be made under subsection (1) that affects or is likely to affect Maori land, land registered in the name of Pootatau Te Wherowhero under section 19 of the Waikato Raupatu Claims Settlement Act 1995, land subject to any other Maori claims settlement Act, or Maori historical, cultural, or spiritual interests, unless Transit has consulted,—
+(3) No request may be made under subsection (1) that affects or is likely to affect Maori land, land registered in the name of Pootatau Te Wherowhero under section 19 of the Waikato Raupatu Claims Settlement Act 1995, land subject to any other Maori claims settlement Act, or Maori historical, cultural, or spiritual interests, unless the Agency has consulted,—
   (a) in the case of land registered in the name of Pootatau Te Wherowhero or interests relating to that land, the land holding trustee (as defined in section 7 of the Waikato Raupatu Claims Settlement Act 1995):
   (b) if any other Maori claims settlement Act requires consultation about the request, in accordance with that Act:
   (c) in any other case, every iwi or hapu that, in the opinion of Transit, will or may be affected by the request.
-(3A) Transit must be satisfied after such consultation that the request should be made.
+(3A) The Agency must be satisfied after such consultation that the request should be made.
 (4) The Minister shall cause a copy of every Order in Council made under subsection (1)(b) of this section, and of every plan referred to in it, to be deposited in the office of the District Land Registrar; and on receipt of it the District Land Registrar shall note the Order in Council upon the appropriate folio of the proper register.
 (5) Where any land affected by any Order in Council made under subsection (1)(b) of this section is Maori land, the Minister shall cause a copy of that order to be deposited in the office of the Registrar of the Maori Land Court who shall record it in the records of the Court.
 (6) Every motorway declared as such by the Governor-General under section 138 of the Public Works Act 1981 and having that status under that Act immediately before the commencement of this Act is hereby deemed to have been declared to be a motorway under this Act.
@@ -660,7 +637,7 @@ Every bylaw in force in respect of any State highway on the commencement of this
 [Repealed]
 
 ### 73 Power to construct motorways
-Subject to the restrictions specified in this Part of this Act and subject to section 17 of this Act, the Authority may do the following things in respect of any motorway declared under this Act:
+Subject to the restrictions specified in this Part of this Act and subject to section 17 of this Act, the Agency may do the following things in respect of any motorway declared under this Act:
   (a) Construct works of every description and material necessary to the making of the motorway:
   (b) Take machinery and vehicles of any kind on to and across any land within the area set out in the notice defining the route of the motorway, and use the machinery and vehicles on that land:
   (c) Make any part of the motorway on and along any part of any road, access way, or service lane:
@@ -668,13 +645,13 @@ Subject to the restrictions specified in this Part of this Act and subject to se
   (e) Subject to compliance with the Harbours Act 1950 and the Resource Management Act 1991, make the motorway across any arm of the sea or any river, stream, lake, or water (whether navigable or not) by means of a bridge, causeway, or tunnel:
   (f) Subject to compliance with the Resource Management Act 1991, alter the course or the level of any river that is not navigable, or of any stream, watercourse, ditch, or drain:
   (g) Remove or alter any drain or sewer or any pipes, wire, cable, or duct, together with any associated equipment, belonging to any person, within or adjacent to the defined limits of the motorway:
-  (h) Make or construct all such buildings, bridges, roads, approaches, and other structures and works in connection with the motorway as the Authority thinks necessary:
-  (i) Construct such roads as the Authority thinks desirable for the purpose of giving access to any motorway:
-  (j) Construct such roads, service lanes, or access ways as the Authority thinks desirable for the purpose of giving access to any land whose access is severed by a motorway:
+  (h) Make or construct all such buildings, bridges, roads, approaches, and other structures and works in connection with the motorway as the Agency thinks necessary:
+  (i) Construct such roads as the Agency thinks desirable for the purpose of giving access to any motorway:
+  (j) Construct such roads, service lanes, or access ways as the Agency thinks desirable for the purpose of giving access to any land whose access is severed by a motorway:
   (k) Exercise the powers, rights, duties, and liabilities vested in or imposed on the Minister as if the motorway were a Government road for the purposes of section 48 of this Act.
 
 ### 74 Land may be temporarily occupied
-(1) Subject to the conditions specified in this section, the Authority may temporarily occupy or use any land for the purpose of constructing, reconstructing, or repairing a motorway, and may do the following things on the land:
+(1) Subject to the conditions specified in this section, the Agency may temporarily occupy or use any land for the purpose of constructing, reconstructing, or repairing a motorway, and may do the following things on the land:
   (a) Deposit any construction materials:
   (b) Deposit, permanently or temporarily, any material suitable for use in landscaping or restoration of that land or of the motorway:
   (c) Form and use drains and hard standings:
@@ -692,68 +669,68 @@ Subject to the restrictions specified in this Part of this Act and subject to se
   (b) Direct that the land be occupied and used in such manner and subject to such limitations and restrictions as it thinks fit,—
 
 ### 75 Compensation where road interfered with or wholly closed
-(1) Except as provided in section 63 of the Public Works Act 1981, compensation shall not be payable to any person in respect of—if reasonable and sufficient access to the nearest road crossing over or under the motorway is available by some other road, whether it has been provided or constructed by the Authority or not.
+(1) Except as provided in section 63 of the Public Works Act 1981, compensation shall not be payable to any person in respect of—if reasonable and sufficient access to the nearest road crossing over or under the motorway is available by some other road, whether it has been provided or constructed by the Agency or not.
   (a) Any road being wholly closed under the powers conferred by section 37 of the Public Works Act 1981; or
   (b) The use or occupation of any road for any motorway; or
   (c) Any inconvenience to the users of any land fronting or adjoining any such road—
-(2) If any question arises as to whether other reasonable and sufficient access is so available, it shall be determined in such manner as is agreed upon between the owners and occupiers of the land, the territorial authority having the control of roads in the district, and the Authority.
+(2) If any question arises as to whether other reasonable and sufficient access is so available, it shall be determined in such manner as is agreed upon between the owners and occupiers of the land, the territorial authority having the control of roads in the district, and the Agency.
 (3) If no such agreement is reached, all claims for compensation in respect of the matters referred to in subsection (1) of this section shall be determined in the manner provided by the Public Works Act 1981, but no compensation shall be awarded if in the opinion of the Land Valuation Tribunal other reasonable and sufficient access is so available.
 
 ### 76 Access to land cut off from road or separated by motorway
-(1) If the making of a motorway has—and the Authority has not provided access to the land so cut off or between the pieces of land so separated, the Authority shall provide access to the land so cut off or between the pieces of land so separated—
+(1) If the making of a motorway has—and the Agency has not provided access to the land so cut off or between the pieces of land so separated, the Agency shall provide access to the land so cut off or between the pieces of land so separated—
   (a) Cut off all access by road to any land other than Crown land; or
   (b) Separated one piece of the land of any person from another piece of land of that person—
   (c) By constructing a road, access way, or service lane; or
   (d) By constructing a crossing under or over the motorway between the pieces of land that have been separated.
 (2) No access need be provided under this section as a consequence of the land having been subdivided after the construction of the motorway.
-(3) Where the Authority is satisfied that alternative access has become available to any land that has been granted an access under this section, the Authority may close any access provided under this section on giving not less than 3 months' notice in writing to the owner and occupier of the land affected.
-(4) If the owner or occupier of the land to which subsection (1) of this section applies objects to any decision of the Authority under this section, the Authority shall appoint a competent person to confer with the owner and, if possible, to agree with the owner as to the matter in dispute; and if no agreement can be reached between the parties the matter shall be referred to the nearest District Court, and the decision of the Court thereon shall be final.
+(3) Where the Agency is satisfied that alternative access has become available to any land that has been granted an access under this section, the Agency may close any access provided under this section on giving not less than 3 months' notice in writing to the owner and occupier of the land affected.
+(4) If the owner or occupier of the land to which subsection (1) of this section applies objects to any decision of the Agency under this section, the Agency shall appoint a competent person to confer with the owner and, if possible, to agree with the owner as to the matter in dispute; and if no agreement can be reached between the parties the matter shall be referred to the nearest District Court, and the decision of the Court thereon shall be final.
 
 ### 77 Alterations to roads, drains, etc
 (1) Where it is found necessary for the construction of a motorway to alter any road, tramway, watercourse, or drain, or any other public work, or any water supply pipe or gas supply pipe, or any power supply or telecommunication link, the alterations shall be made in such manner as will—
   (a) Interfere as little as possible with the work altered; and
   (b) So far as practicable, provide the public and every person entitled to use the work altered with the equivalent use and convenience as they had before the alteration.
-(2) Before commencing any such alteration, the Authority shall cause a plan of it to be prepared and to be submitted to the local authority having the control of the work proposed to be altered, or to the owner of the water supply pipe or gas supply pipe, power supply, or link, or other work, as the case may be.
-(3) If the local authority or owner objects to the proposed alteration, the Authority shall appoint a competent person to confer with the local authority or owner, and, if possible, to agree with the local authority or the owner as to the manner in which the alteration shall be made; and if no agreement can be reached between the parties, the matter shall be referred to the District Court nearest to the work in question, and the decision of the Court thereon shall be final.
-(4) The Authority may at any time interfere with any such road, public work, pipe, power supply, or link so far as is necessary to effect all necessary repairs on any motorway lawfully constructed thereon, but shall give to such local authority or owner not less than 10 working days' notice of its intention to do so, except in the circumstances set out in subsection (5) of this section.
-(5) In any emergency or danger the Authority may carry out forthwith all such works as appear to it to be necessary, and shall as soon as possible give notice of doing so to such local authority or owner.
+(2) Before commencing any such alteration, the Agency shall cause a plan of it to be prepared and to be submitted to the local authority having the control of the work proposed to be altered, or to the owner of the water supply pipe or gas supply pipe, power supply, or link, or other work, as the case may be.
+(3) If the local authority or owner objects to the proposed alteration, the Agency shall appoint a competent person to confer with the local authority or owner, and, if possible, to agree with the local authority or the owner as to the manner in which the alteration shall be made; and if no agreement can be reached between the parties, the matter shall be referred to the District Court nearest to the work in question, and the decision of the Court thereon shall be final.
+(4) The Agency may at any time interfere with any such road, public work, pipe, power supply, or link so far as is necessary to effect all necessary repairs on any motorway lawfully constructed thereon, but shall give to such local authority or owner not less than 10 working days' notice of its intention to do so, except in the circumstances set out in subsection (5) of this section.
+(5) In any emergency or danger the Agency may carry out forthwith all such works as appear to it to be necessary, and shall as soon as possible give notice of doing so to such local authority or owner.
 
 ### 78 Restrictions on poles, etc, on motorways
-Neither the Crown nor any local authority nor any other person shall place any wire, cable, pipe, tower, pole, or other structure or thing on, over, or under any motorway or on, over, or under any land that has been taken, purchased, set apart, or acquired for the purpose of constructing a motorway, without the prior written consent of the Authority.
+Neither the Crown nor any local authority nor any other person shall place any wire, cable, pipe, tower, pole, or other structure or thing on, over, or under any motorway or on, over, or under any land that has been taken, purchased, set apart, or acquired for the purpose of constructing a motorway, without the prior written consent of the Agency.
 
 ### 79 Availability for traffic
-(1) No part of any motorway shall be opened for public traffic until it has been inspected by some proper person appointed by the Authority for the purpose, and until that person has reported to the Authority that he or she has inspected the whole of that part and that it is in good and efficient repair and may safely and conveniently be used for public traffic.
-(2) If, in the opinion of the Authority or of any officer of the Authority, any part of any motorway cannot safely be used for public traffic, the Authority or officer may temporarily close that part for public traffic by such means as are immediately available pending inspection and action by the Authority in accordance with subsection (3) of this section.
-(3) If any part of any motorway has been inspected by some proper person appointed by the Authority for the purpose, and that person has reported to the Authority that he or she has inspected the part and that it cannot safely and conveniently be used for public traffic, the Authority may fence off and close such part of the motorway as it may consider necessary or expedient, and thereafter the provisions of subsection (1) of this section shall apply as if the part of the motorway so closed had not been opened for public traffic.
-(4) The Authority may open for the use of traffic or any specified category of traffic any land held for motorway purposes notwithstanding that it has not been declared to be a motorway under section 71 of this Act.
+(1) No part of any motorway shall be opened for public traffic until it has been inspected by some proper person appointed by the Agency for the purpose, and until that person has reported to the Agency that he or she has inspected the whole of that part and that it is in good and efficient repair and may safely and conveniently be used for public traffic.
+(2) If, in the opinion of the Agency or of any officer of the Agency, any part of any motorway cannot safely be used for public traffic, the Agency or officer may temporarily close that part for public traffic by such means as are immediately available pending inspection and action by the Agency in accordance with subsection (3) of this section.
+(3) If any part of any motorway has been inspected by some proper person appointed by the Agency for the purpose, and that person has reported to the Agency that he or she has inspected the part and that it cannot safely and conveniently be used for public traffic, the Agency may fence off and close such part of the motorway as it may consider necessary or expedient, and thereafter the provisions of subsection (1) of this section shall apply as if the part of the motorway so closed had not been opened for public traffic.
+(4) The Agency may open for the use of traffic or any specified category of traffic any land held for motorway purposes notwithstanding that it has not been declared to be a motorway under section 71 of this Act.
 (5) While any land is open for the use of any traffic or category of traffic pursuant to subsection (4) of this section the land shall be deemed to be—
   (a) A road for the purposes of the Transport Act 1962 and the Land Transport Act 1998, and of any regulations or rules in force under either of those Acts; and
   (b) A motorway for the purposes of any regulations in force under this Act relating to motorways and of section 52 of the Transport Act 1962.
 
 ### 80 Maintenance and control of motorways
-(1) Subject to the provisions of this Part of this Act, the Authority shall have the sole powers of control for all purposes, including construction and maintenance, of all motorways, and for that purpose shall have all the powers and rights vested in it by this Act as if every motorway were a State highway.
-(2) For the avoidance of doubt it is declared that all the provisions of section 62 of this Act, except subsection (4) of that section, shall apply in respect of any motorway that is not a State highway.
+(1) Subject to the provisions of this Part of this Act, the Agency shall have the sole powers of control for all purposes, including construction and maintenance, of all motorways, and for that purpose shall have all the powers and rights vested in it by this Act as if every motorway were a State highway.
+(2) For the avoidance of doubt it is declared that all the provisions of section 62 of this Act, shall apply in respect of any motorway that is not a State highway.
 
 ### 81 Cost of motorways
 (1) Except as provided in this section, motorways shall, for the purposes of the provisions of this Act relating to the cost of constructing and maintaining State highways, be deemed to be State highways, and no local authority shall be required to contribute to the cost of any motorway.
-(2) Any local authority that desires to construct a motorway within its district may include as a project in its land transport programme submitted pursuant to this Act its proposals as to the general route proposed to be followed and for financing the motorway if authorised, and, if the Authority is satisfied that the proposals are reasonable and that the local authority is in a position to carry them into effect, the Authority may request that the motorway be authorised under section 71 of this Act.
-(3) If the motorway is so authorised before any work relating to the construction of the motorway is commenced, the Authority and the local authority or local authorities concerned shall agree upon the apportionment between them of the costs, powers, functions, duties, and liabilities relating to the construction, maintenance, and control of the motorway.
-(4) Every request by a local authority for financial assistance from the Authority in respect of a motorway referred to in subsection (2) of this section shall be included in the local roading part of the land transport programme of the local authority or local authorities proposing such motorway.
-(5) Every agreement made under this section shall be subject to the construction of the motorway being deferred or accelerated from time to time by the Authority or the local authority, as the Authority or any local authority that is contributing to the cost of it is able to provide money to pay for the work:
-  Provided that if any question arises as to whether any contributory other than the local authority at whose request the motorway was approved is able to find the whole or any part of its contribution in any year the question shall be determined by the Authority, whose decision shall be final.
+(2) Any local authority that desires to construct a motorway within its district may include as a project in its land transport programme submitted pursuant to this Act its proposals as to the general route proposed to be followed and for financing the motorway if authorised, and, if the Agency is satisfied that the proposals are reasonable and that the local authority is in a position to carry them into effect, the Agency may request that the motorway be authorised under section 71 of this Act.
+(3) If the motorway is so authorised before any work relating to the construction of the motorway is commenced, the Agency and the local authority or local authorities concerned shall agree upon the apportionment between them of the costs, powers, functions, duties, and liabilities relating to the construction, maintenance, and control of the motorway.
+(4) Every request by a local authority for financial assistance from the Agency in respect of a motorway referred to in subsection (2) of this section shall be included in the local roading part of the land transport programme of the local authority or local authorities proposing such motorway.
+(5) Every agreement made under this section shall be subject to the construction of the motorway being deferred or accelerated from time to time by the Agency or the local authority, as the Agency or any local authority that is contributing to the cost of it is able to provide money to pay for the work:
+  Provided that if any question arises as to whether any contributory other than the local authority at whose request the motorway was approved is able to find the whole or any part of its contribution in any year the question shall be determined by the Agency, whose decision shall be final.
 
 ### 82 Restrictions on use of motorways
 (1) Except as provided in this or any other enactment, a person shall not be on a motorway unless the person is—
   (a) In or on a vehicle that is entitled to be on the motorway; or
   (b) On the motorway as a result of any crash, breakdown, or other emergency; or
-  (c) On the motorway in connection with any work that is authorised by the Authority or under any enactment to be carried out on the motorway or any work that is being carried out pursuant to a delegation granted by the Authority under section 62 of this Act; or
+  (c) On the motorway in connection with any work that is authorised by the Agency or under any enactment to be carried out on the motorway or any work that is being carried out pursuant to a delegation granted by the Agency under section 62 of this Act; or
   (d) On the motorway for the purposes of enforcing any enactment.
 (2) No person shall cause or permit any animal or thing that is or ought to be under that person's control to be on any motorway unless—
   (a) It is a vehicle that is entitled to be on the motorway or is carried in or on such vehicle; or
   (b) It is on the motorway for the purposes of assisting at any crash, breakdown, or other emergency; or
   (c) It is on the motorway in connection with any work that is—
-    (i) Authorised by the Authority or under any enactment to be carried out on the motorway; or
-    (ii) Being carried out pursuant to a delegation by the Authority under section 62 of this Act; or
+    (i) Authorised by the Agency or under any enactment to be carried out on the motorway; or
+    (ii) Being carried out pursuant to a delegation by the Agency under section 62 of this Act; or
   (d) It is expressly authorised by any enactment to be on a motorway.
 (3) The owner or person in charge of any animal or thing which is on a motorway in breach of subsection (2) of this section shall be liable for any damage that may result from collision with or attempted avoidance of the animal or thing, unless the owner or person proves that the presence of the animal or thing on the motorway in breach of that subsection was not due to any negligence on his or her part.
 
@@ -765,8 +742,8 @@ A person may operate any vehicle or combination of vehicles on a motorway if—
   (b) The vehicle is a cycle being operated on a part of the motorway where such operation is approved.
 
 ### 84 Restrictions on access to motorways
-(1) A person driving a vehicle shall not enter, cross, or leave any motorway except at a motorway, State highway, or road from which vehicular access to the motorway has been constructed and is authorised by the Authority, and subject to such conditions as may be approved and publicly notified by the Minister on the recommendation of the Authority.
-(2) Notwithstanding subsection (1) of this section, the Authority may, in writing, subject to such conditions (whether as to payment or otherwise) as it thinks fit, authorise the construction and use of a special access to any property or any part of a property adjoining the motorway to which access is not reasonably available from another road.
+(1) A person driving a vehicle shall not enter, cross, or leave any motorway except at a motorway, State highway, or road from which vehicular access to the motorway has been constructed and is authorised by the Agency, and subject to such conditions as may be approved and publicly notified by the Minister on the recommendation of the Agency.
+(2) Notwithstanding subsection (1) of this section, the Agency may, in writing, subject to such conditions (whether as to payment or otherwise) as it thinks fit, authorise the construction and use of a special access to any property or any part of a property adjoining the motorway to which access is not reasonably available from another road.
 
 ### 85 Motorway deemed to be road
 (1) Except as expressly provided in this Act or in any other enactment, a motorway shall be deemed to be a road for the purposes of every enactment and all civil or criminal proceedings under any enactment.
@@ -786,53 +763,53 @@ The engineer in charge of the construction or maintenance of any motorway shall 
 **Limited access roads**
 
 ### 88 Creation and revocation of limited access roads
-(1) The Authority may from time to time, by notice in the Gazette and publicly notified, declare any State highway or part of a State highway to be a limited access road.
-(2) At the request of the Authority, any land contiguous with a State highway which is a limited access road may be purchased, set apart, or otherwise acquired for limited access road or may be declared limited access road, in the same manner as land may be purchased, set apart, or otherwise acquired for road or declared road; and such land shall thereupon become road, limited access road, and State highway. The document by which such land is so acquired or declared shall state that the land has become road, limited access road, and State highway.
+(1) The Agency may from time to time, by notice in the Gazette and publicly notified, declare any State highway or part of a State highway to be a limited access road.
+(2) At the request of the Agency, any land contiguous with a State highway which is a limited access road may be purchased, set apart, or otherwise acquired for limited access road or may be declared limited access road, in the same manner as land may be purchased, set apart, or otherwise acquired for road or declared road; and such land shall thereupon become road, limited access road, and State highway. The document by which such land is so acquired or declared shall state that the land has become road, limited access road, and State highway.
 (3) Every limited access road in existence under section 4(4) of the Public Works Amendment Act 1963 immediately before the commencement of the Public Works Act 1981 shall be deemed to be a road and State highway in addition, and shall be deemed to have been declared a limited access road under this Act.
 (4) Every limited access road declared as such by the National Roads Board under section 153 of the Public Works Act 1981 and having that status immediately before the commencement of this Act shall be deemed to have been declared to be a limited access road under this Act.
-(5) The Authority may from time to time, by notice in the Gazette and publicly notified, revoke the status of limited access road from any State highway or part of it—
+(5) The Agency may from time to time, by notice in the Gazette and publicly notified, revoke the status of limited access road from any State highway or part of it—
   (a) Which has been created a limited access road under either subsection (1) or subsection (2) of this section, but subject to section 96(1) of this Act; or
   (b) Which has been created a limited access road under section 4 of the Public Works Act Amendment Act 1963, but subject to section 96(1) of this Act; or
-  (c) Whose administration has passed to the Authority under section 96(2) of this Act.
+  (c) Whose administration has passed to the Agency under section 96(2) of this Act.
 (6) Where any land becomes State highway by virtue of section 238(1)(c) of the Resource Management Act 1991 and section 60 of this Act, and such State highway is a limited access road, such land shall thereupon become part of the limited access road.
 
 ### 89 Provisions of Acts relating to roads to apply to limited access roads
 Subject to the provisions of this Part of this Act, the provisions of this Act and of every other enactment relating to roads shall, so far as they are applicable and with the necessary modifications, apply to—
-  (a) All limited access roads, whether declared under section 88(1) of this Act, or purchased, set apart, acquired, or declared pursuant to section 88(2) of this Act, or created as such under section 4 of the Public Works Amendment Act 1963 or section 153 of the Public Works Act 1981, or whose administration has passed to the Authority under section 96(2) of this Act; and
+  (a) All limited access roads, whether declared under section 88(1) of this Act, or purchased, set apart, acquired, or declared pursuant to section 88(2) of this Act, or created as such under section 4 of the Public Works Amendment Act 1963 or section 153 of the Public Works Act 1981, or whose administration has passed to the Agency under section 96(2) of this Act; and
   (b) The purchase and acquisition of land for limited access road, and the setting apart or declaring of land as limited access road.
 
 ### 90 Access to and from land
-(1) Each parcel of land that adjoins or has legal access to a State highway or part of a State highway which is a limited access road and that does not have reasonably practicable alternative legal access to some other road, shall be entitled to at least 1 crossing place at which vehicles are permitted to proceed to and from the limited access road from and to the parcel of land. The location of each crossing place shall be specified by the Authority from time to time by notice issued to the owner under section 91 of this Act.
-(2) In this section and in section 91 of this Act, the expression parcel of land means a parcel of land that can legally be transferred to a person other than an owner of adjoining land without the dedication of any further land as public road and without the deposit of any further plan, but the Authority may deem 2 or more adjoining parcels of land in the same certificate of title to be a parcel of land for the purposes of this section and of section 91 of this Act.
+(1) Each parcel of land that adjoins or has legal access to a State highway or part of a State highway which is a limited access road and that does not have reasonably practicable alternative legal access to some other road, shall be entitled to at least 1 crossing place at which vehicles are permitted to proceed to and from the limited access road from and to the parcel of land. The location of each crossing place shall be specified by the Agency from time to time by notice issued to the owner under section 91 of this Act.
+(2) In this section and in section 91 of this Act, the expression parcel of land means a parcel of land that can legally be transferred to a person other than an owner of adjoining land without the dedication of any further land as public road and without the deposit of any further plan, but the Agency may deem 2 or more adjoining parcels of land in the same certificate of title to be a parcel of land for the purposes of this section and of section 91 of this Act.
 
 ### 91 Authorisation of crossing places
-(1) The Authority, in the case of any limited access road under its control, may from time to time—
+(1) The Agency, in the case of any limited access road under its control, may from time to time—
   (a) By notice to the owner of the parcel of land affected—
     (i) Authorise, subject to such conditions (if any) as it may impose, any crossing place, whether formed or not, at which vehicles may proceed to and from the limited access road from and to any specified parcel of land:
     (ii) Specify the location of any crossing place, whether authorised under section 90 of this Act or under this section:
     (iii) Cancel the right to use any crossing place, whether authorised under section 90 of this Act or under this section or located by a specification under subparagraph (ii) of this paragraph, if the parcel of land has reasonably practicable legal access to some other road or has another authorised crossing place:
     (iv) Cancel or vary all or any of the conditions imposed under this section, or impose further conditions, or vary the location of any authorised crossing place:
   (b) Construct any road or service lane that it may be expedient to construct to give access, whether additional or not, to any land adjoining or near the limited access road.
-(2) Any notice given by the Authority under this section may be registered by the Authority under the Land Transfer Act 1952 against every certificate of title, provisional register, or other instrument of title registered or lodged in the District Land Registrar's office that is affected by the notice by lodging with the District Land Registrar two copies of the notice.
+(2) Any notice given by the Agency under this section may be registered by the Agency under the Land Transfer Act 1952 against every certificate of title, provisional register, or other instrument of title registered or lodged in the District Land Registrar's office that is affected by the notice by lodging with the District Land Registrar two copies of the notice.
 (3) Each copy of any notice given under this section shall identify the land to which it relates, including the certificate of title reference for the land affected by the notice.
 (4) On receipt of 2 copies of any notice issued under this section and the prescribed fee (if any), the District Land Registrar shall, if everything is in order,—
   (a) Sign and seal on both copies a statement of the time and date of receipt; and
   (b) Record and file one of the copies in his or her office, and endorse on both copies the record reference; and
   (c) Enter on every certificate of title, provisional register, or other instrument of title registered or lodged in his or her office that is affected by the notice, the fact of the notice; and
-  (d) Return the remaining copy to the Authority.
+  (d) Return the remaining copy to the Agency.
 (5) The entry by the District Land Registrar on a certificate of title, provisional register, or other instrument of title registered or lodged in his or her office of the particulars of a notice is evidence of the existence of the notice but does not create any estate or interest under the Land Transfer Act 1952.
-(6) Any notice entered by the District Land Registrar under subsection (4)(c) of this section may be cancelled or varied upon production by the Authority of a notice of cancellation or notice of variation.
+(6) Any notice entered by the District Land Registrar under subsection (4)(c) of this section may be cancelled or varied upon production by the Agency of a notice of cancellation or notice of variation.
 
 ### 92 Restricting movement to or from limited access road
 Without restricting any provision of any other Act, it is hereby declared that a person shall not drive or move any vehicle or animal, or permit any vehicle or animal to be driven or moved, on to or from any limited access road, except—
   (a) At a motorway, road, or service lane from which vehicles might lawfully be driven or moved on to the State highway or part thereof immediately before its creation as a limited access road:
-  (b) At a motorway, road, or service lane from which vehicular access to the limited access road has been authorised by the Authority and subject to such conditions as it may approve:
-  (c) At a crossing place authorised and specified by the Authority and subject to such conditions as are for the time being imposed by the Authority in accordance with section 91 of this Act.
+  (b) At a motorway, road, or service lane from which vehicular access to the limited access road has been authorised by the Agency and subject to such conditions as it may approve:
+  (c) At a crossing place authorised and specified by the Agency and subject to such conditions as are for the time being imposed by the Agency in accordance with section 91 of this Act.
 
 ### 93 Limited access road not a road for certain purposes
-(1) Where any person wishes to exercise any right involving the subdivision or use of land, and that right is conditional upon the land having a frontage or access to a road, or is in any other way conditional upon the existence of a road, for those purposes a limited access road which is a State highway shall be deemed not to be a road, except for such purpose, to such extent, and on such conditions, as may be notified from time to time to the territorial authority or, as the case may require, to the District Land Registrar by the Minister at the request of the Authority.
+(1) Where any person wishes to exercise any right involving the subdivision or use of land, and that right is conditional upon the land having a frontage or access to a road, or is in any other way conditional upon the existence of a road, for those purposes a limited access road which is a State highway shall be deemed not to be a road, except for such purpose, to such extent, and on such conditions, as may be notified from time to time to the territorial authority or, as the case may require, to the District Land Registrar by the Minister at the request of the Agency.
 (2) Any person aggrieved at—may object in writing to the Environment Court within 30 days after being notified of such refusal or conditions.
-  (a) The refusal of the Authority to request the Minister to issue a notice under subsection (1) of this section or at the refusal of the Minister to issue such a notice; or
+  (a) The refusal of the Agency to request the Minister to issue a notice under subsection (1) of this section or at the refusal of the Minister to issue such a notice; or
   (b) Any condition subject to which any such notice is issued—
 (3) The provisions of section 24 of the Public Works Act 1981 shall, so far as they are applicable and with the necessary modifications, apply to the hearing of any objection under this section.
 
@@ -845,17 +822,17 @@ The following provisions shall apply in respect of the declaration under section
     (iv) The boundaries of all other types (if any) of legal access (whether rights of way, roadlines, private roads, or any other types whatever) connecting the road or part to any other parcel of land:
     (v) The title references of every parcel of land to which subparagraph (iii) or subparagraph (iv) of this paragraph applies:
   (b) Every such declaration shall indicate where the plan is held and may be inspected:
-  (c) The Authority shall cause to be forwarded to the District Land Registrar a copy of the declaration as gazetted, together with a certificate signed by a duly authorised officer of the Authority, setting out by sufficient descriptions and title references every parcel of land that is affected by that limited access road, either by reason of the parcel of land adjoining the limited access road or by reason of the legal access of the parcel of land to any other road being lost or adversely affected as a result of the creation of the limited access road; and the District Land Registrar shall record it against the titles to all the parcels of land described in it:
+  (c) The Agency shall cause to be forwarded to the District Land Registrar a copy of the declaration as gazetted, together with a certificate signed by a duly authorised officer of the Agency, setting out by sufficient descriptions and title references every parcel of land that is affected by that limited access road, either by reason of the parcel of land adjoining the limited access road or by reason of the legal access of the parcel of land to any other road being lost or adversely affected as a result of the creation of the limited access road; and the District Land Registrar shall record it against the titles to all the parcels of land described in it:
   (d) Where any land affected by the declaration is Maori land the authority shall cause to be deposited in the office of the Registrar of the Maori Land Court a copy of the declaration as gazetted, together with a certificate in the form and containing the details specified in paragraph (c) of this section, and the Registrar shall record the declaration and the certificate in the records of the Court:
-  (e) The Authority shall cause a copy of the declaration and plan to be sent to every territorial Authority in whose district the limited access road or part is situated:
-  (f) The Authority shall cause a copy of the declaration as published in the Gazette to be served on the owners and occupiers of all land which is affected by the declaration, so far as they can be ascertained.
+  (e) The Agency shall cause a copy of the declaration and plan to be sent to every territorial authority in whose district the limited access road or part is situated:
+  (f) The Agency shall cause a copy of the declaration as published in the Gazette to be served on the owners and occupiers of all land which is affected by the declaration, so far as they can be ascertained.
 
 ### 95 Certificate of land affected to be forwarded to District Land Registrar
-(1) Where any land is purchased, set apart, or otherwise acquired for, or declared to be, a limited access road under section 88(2) of this Act, there shall be forwarded to the District Land Registrar a certificate by a duly authorised officer of the Authority that the land referred to in it by sufficient descriptions and title references comprises every parcel of land that is affected by that limited access road, either by reason of—and the District Land Registrar shall record the certificate against the titles so specified.
+(1) Where any land is purchased, set apart, or otherwise acquired for, or declared to be, a limited access road under section 88(2) of this Act, there shall be forwarded to the District Land Registrar a certificate by a duly authorised officer of the Agency that the land referred to in it by sufficient descriptions and title references comprises every parcel of land that is affected by that limited access road, either by reason of—and the District Land Registrar shall record the certificate against the titles so specified.
   (a) The parcel of land adjoining the limited access road; or
   (b) The legal access of the parcel of land to any other road being lost or adversely affected as a result of the creation of the limited access road—
 (2) Where any land to which subsection (1) of this section applies is Maori land then the provisions of that subsection shall apply, in addition, as if the District Land Registrar were the Registrar of the Maori Land Court, who shall record the certificate in the records of that Court.
-(3) Where the Authority revokes the status of limited access road from any State highway or part, it shall cause a copy of the Gazette notice, together with a certificate signed by a duly authorised officer of the Authority setting out by sufficient descriptions and title references all parcels of land affected by the revocation, to be forwarded to—
+(3) Where the Agency revokes the status of limited access road from any State highway or part, it shall cause a copy of the Gazette notice, together with a certificate signed by a duly authorised officer of the Agency setting out by sufficient descriptions and title references all parcels of land affected by the revocation, to be forwarded to—
   (a) The District Land Registrar, who shall record the certificate against the titles to all the parcels of land so described; and
   (b) The Registrar of the Maori Land Court, if any of the land affected is Maori land, who shall record the certificate in the records of the Court; and
   (c) Every territorial authority in whose district the State highway or part is situated; and
@@ -863,7 +840,7 @@ The following provisions shall apply in respect of the declaration under section
 
 ### 96 Administration of limited access roads
 (1) If any limited access road which is a State highway ceases to be a State highway, it shall thereupon be deemed to be a limited access road created under the Local Government Act 1974; and the administration of that road shall pass to the territorial authority responsible for the control of roads in the district.
-(2) If any limited access road which is not a State highway becomes a State highway, it shall thereupon be deemed to be a limited access road created under this Part of this Act and the administration of that road shall pass to the Authority.
+(2) If any limited access road which is not a State highway becomes a State highway, it shall thereupon be deemed to be a limited access road created under this Part of this Act and the administration of that road shall pass to the Agency.
 
 ### 97 Offences
 Every person commits an offence who—and is liable on summary conviction to a fine not exceeding $500.
@@ -903,26 +880,26 @@ Every person having an estate or interest in land which is injuriously affected 
 [Repealed]
 
 ### 105 Public availability of documents
-Where the Authority, the Board, or any local authority is required under this Act to make any document or matter available to the public, it shall—
+Where the Agency or any local authority is required under this Act to make any document or matter available to the public, it shall—
   (a) Make sufficient copies of that document or matter available for public inspection, free of charge; and
-  (b) Make sufficient copies of that document or matter available for purchase, at a reasonable price, during normal office hours at the principal office of the Authority, the Board, or local authority; and
+  (b) Make sufficient copies of that document or matter available for purchase, at a reasonable price, during normal office hours at the principal office of the Agency or local authority; and
   (c) Notify that availability by advertisement in a newspaper circulating in the region or district, or regions or districts, to which the document or matter relates.
 
-### 106 Power of Board to direct roading work
-(1) If at any time the Board has reasonable cause to believe that any road, State highway, or motorway under the control of the Authority or a territorial authority is not in reasonable or satisfactory condition,—
+### 106 Power of Agency to direct roading work
+(1) If at any time the Agency has reasonable cause to believe that any road, State highway, or motorway under the control of the Agency or a territorial authority is not in reasonable or satisfactory condition,—
   (a) It may inquire into the circumstances; and
-  (b) If, in the opinion of the Board, the territorial authority in control of the road, State highway, or motorway has not carried out work which the Board considers necessary and justified in the interest of road users, having regard to the money available to the territorial authority, the Board may by notice require the Authority or the territorial authority to undertake such work as it may specify and within such period as may be stated in the notice.
-(2) In the event of the Authority or the territorial authority not undertaking the work as required and within the period specified in the notice under subsection (1)(b) of this section, the Board itself may arrange for the work to be carried out and may recover the costs of that work from the Authority or the territorial authority, either as a debt due to the Board or by deducting the amount from payments then due or becoming due to the Authority or the territorial authority from the National Roads Account.
+  (b) If, in the opinion of the Agency, the territorial authority in control of the road, State highway, or motorway has not carried out work which the Agency considers necessary and justified in the interest of road users, having regard to the money available to the territorial authority, the Agency may by notice require the Agency or the territorial authority to undertake such work as it may specify and within such period as may be stated in the notice.
+(2) In the event of the Agency or the territorial authority not undertaking the work as required and within the period specified in the notice under subsection (1)(b) of this section, the Agency itself may arrange for the work to be carried out and may recover the costs of that work from the Agency or the territorial authority, either as a debt due to the Agency or by deducting the amount from payments then due or becoming due to the Agency or the territorial authority from the National Roads Account.
 
 ### 107 Application of Act to Chatham Islands
 Except as otherwise expressly provided in this Act, this Act shall apply to the Chatham Islands as if the Chatham Islands Council were a territorial authority that is also a regional council.
 
 ### 108 Supply of information
-The Secretary, the Authority, the Board, and every local authority shall upon request by any of them supply such information as is requested for the purposes of enabling the Secretary, the Authority, the Board, or the local authority to perform any of its functions, duties, or powers under this Act.
+The Secretary, the Agency and every local authority shall upon request by any of them supply such information as is requested for the purposes of enabling the Secretary, the Agency or the local authority to perform any of its functions, duties, or powers under this Act.
 
 ### 109 Penalty for breach of bylaws
 (1) Every person who commits a breach of any bylaw made or deemed to have been made under this Act is liable to a fine not exceeding $500.
-(2) Where a person commits a continuing breach of any bylaw, then, notwithstanding anything in any other Act, a District Court, on application by the Authority or by a territorial authority where the bylaw was made by the territorial authority acting pursuant to a delegation under section 62 of this Act, may grant an injunction restraining the further continuance of the breach by that person.
+(2) Where a person commits a continuing breach of any bylaw, then, notwithstanding anything in any other Act, a District Court, on application by the Agency or by a territorial authority where the bylaw was made by the territorial authority acting pursuant to a delegation under section 62 of this Act, may grant an injunction restraining the further continuance of the breach by that person.
 (3) An injunction may be granted under subsection (2) of this section,—
   (a) Notwithstanding that proceedings for the offence constituted by the breach have not been taken; or
   (b) Where the person is convicted of such an offence, either,—
@@ -943,6 +920,7 @@ The Governor-General may from time to time, by Order in Council, make such regul
   (b) All money payable to the National Roads Board or the Urban Transport Council shall become payable to the Authority:
   (c) All liabilities, contracts, and engagements, and all rights and authorities of any nature whatever, of the National Roads Board or the Urban Transport Council shall become liabilities, contracts, engagements, rights, and authorities of the Authority:
   (d) All proceedings pending by or against the National Roads Board or the Urban Transport Council may be carried on, completed, and enforced by or against the Authority.
+(4) On and from 1 July 2008, the Agency has all the rights and obligations conferred on the Authority by subsection (3).
 
 ### 112 Matters pending to lapse
 Where, on the commencement of this Act, any matter is pending before the Urban Transport Council, the National Roads Board, or any other body established by or under the National Roads Act 1953 or the Urban Transport Act 1980, the matter shall lapse.
@@ -951,21 +929,16 @@ Where, on the commencement of this Act, any matter is pending before the Urban T
 Notwithstanding the abolition of the Urban Transport Council and the National Roads Board, the Secretary for Transport may, for the purpose of completing all matters relating to any loan made by that Council or that Board before its abolition, exercise or carry out all or any of the rights, authorities, duties, and powers that that Council had under section 35 of the Urban Transport Act 1980 or that Board had under section 38 of the National Roads Act 1953; and may execute all documents, receive repayments, and take proceedings and otherwise realise securities, relating to any such loan.
 
 ### 114 Transitional financial provisions
-(1) The budget of the National Roads Board recommended to the Minister pursuant to section 5A of the National Roads Act 1953 as it applies to the year ending with the 31st day of March 1990 and as approved by the Minister, and the national implementation programme of the Urban Transport Council provided to the Minister pursuant to section 34 of the Urban Transport Act 1980 for the year ended with the 31st day of March 1990 shall, for the purposes of this or any other Act, together constitute an approved national land transport programme, and any project contained therein shall be an approved project for the purposes of this Act.
-(2) The Authority shall, with the approval of the Minister, amend the approved national land transport programme constituted by subsection (1) of this section in order that it shall apply, in addition, to the period commencing on the 1st day of April 1990 and ending with the 30th day of June 1990.
-(3) The balance of monies held immediately before the commencement of this Act in the National Roads Fund established under the National Roads Act 1953 shall be paid into the Crown Bank Account and credited to the Land Transport Fund established under section 8 of this Act.
-(4) For the year ending on the 30th day of June 1990 there shall be paid out of the Fund, to the Ministry of Transport, in such instalments and on such conditions as are agreed between the Minister of Finance and the Minister of Transport from time to time, the amount of $54,960,000.
+[Repealed]
 
 ### 115 Regional advisory committees
-(1) For the purposes of orderly transition, the Authority may constitute regional advisory committees which may be in whole or in part any former District Roads Council established pursuant to the National Roads Act 1953 or urban transport committee established pursuant to the Urban Transport Act 1980. The function of every such committee shall be to provide such advice to the Authority as the Authority may request from time to time.
-(2) Every such committee may be reconstituted by the Authority from time to time and may be dissolved by the Authority.
-(3) Every such committee shall, unless sooner dissolved, be deemed to be dissolved on the 1st day of November 1989.
+[Repealed]
 
 ### 116 Repeals, savings, and consequential amendments
 (1) The enactments specified in Schedule 3 to this Act are hereby repealed.
 (2) The Transport (Refunds of Excise Duty) Order 1989 (SR 1989/140) is hereby revoked.
 (3) Every reference in any Act, regulation, order, or bylaw, or in any agreement, deed, instrument, application, notice, or document whatsoever to—
-  (a) The National Roads Board or the Urban Transport Council shall, unless the context otherwise requires, be hereafter read as a reference to the Authority:
+  (a) The National Roads Board or the Urban Transport Council shall, unless the context otherwise requires, be hereafter read as a reference to the Agency:
   (b) The National Roads Fund shall, unless the context otherwise requires, be hereafter read as a reference to the Land Transport Fund or, as appropriate, to the Land Transport Account.
 (4) The enactments specified in Schedule 4 to this Act are hereby amended in the manner indicated in that Schedule.
 
@@ -995,3 +968,325 @@ The Transport (Refunds of Excise Duty) Order 1989 (SR 1989/140) (as made pursuan
 | 1981, No 35-The Public Works Act 1981 | By omitting from section 2 the definition of the term National Roads Board and inserting, in its appropriate alphabetical order, the following definition:Transit New Zealand means Transit New Zealand established under the Transit New Zealand Act 1989. By omitting from section 2 in the definition of State highway the words section 11 of the National Roads Act 1953, and substituting the words section 60 of the Transit New Zealand Act 1989. By omitting from section 61(2) the words the National Road Board, and substituting the words Transit New Zealand. By omitting from section 62(1)(f) the words the National Roads Board of any power under section 156 of this Act, and substituting the words Transit New Zealand of any power under section 91 of the Transit New Zealand Act 1989. By omitting from section 62(2)(e) the expressions section 163 of this Act and section 153 of this Act, and substituting, respectively, the words section 99 of the Transit New Zealand Act 1989 and section 88 of the Transit New Zealand Act 1989. By omitting from section 114(1)(g) the words the National Roads Board, and substituting the words Transit New Zealand. By omitting from section 116(2)(c) the words the National Roads Board, and substituting the words Transit New Zealand. By omitting from section 122 the words National Roads Act 1953, and substituting the words Transit New Zealand Act 1989. |
 | 1985, No 141-The Goods and Services Tax Act 1985 (RS Vol 19, p 369) | By repealing subsection (13A) of section 5 (as inserted by section 5(6) of the Goods and Services Tax Amendment Act 1986), and substituting the following subsection:13AFor the purposes of this Act, where a registered person receives any refund of excise duty paid out of the Land Transport Fund pursuant to section 101 of the Transit New Zealand Act 1989 that refund shall, to the extent that it relates to excise duty incurred for the principal purpose of makin taxable supplies, be deemed to be consideration received for a supply of services by that registered person in the course or furtherance of that person's taxable activity. By repealing section 11(3) (as substituted by section 9(9) of the Goods and Services Tax Amendment Act 1986). |
 | 1986, No 127-The Environment Act 1986 | By omitting from the Schedule the item The National Roads Act 1953., and inserting in its appropriate alphabetical order the item The Transit New Zealand Act 1989.. |
+
+### 1 Title
+This Act is the Land Transport Management Amendment Act 2008.
+
+### 2 Commencement
+This Act comes into force on 1 August 2008.
+
+## Part 2 — Miscellaneous provisions
+
+### 47 Consequences of establishment of New Zealand Transport Agency
+(1) On 1 July 2008,—
+  (a) Land Transport New Zealand and Transit New Zealand are dissolved; and
+  (b) the office of the Director of Land Transport ceases to exist; and
+  (c) the Transit New Zealand Act 1989 is called the Government Roading Powers Act 1989.
+(2) Schedule 2 applies to this section.
+
+### 48 Transitional and savings provisions
+Other transitional and savings provisions relating to the coming into force of this Act are set out in Schedule 2.
+
+## Schedule.Group
+
+### Schedule 2 — Transitional and savings provisions
+
+**Interpretation**
+
+### 1 Interpretation
+(1) In this schedule, unless the context otherwise requires,—
+  - **Authority** has the same meaning as in section 5 of the Land Transport Management Act 2003 as in force immediately before 1 August 2008
+  - **board** , in relation to the new Agency, means the board specified in section 98 of the Land Transport Management Act 2003
+  - **Director** means the Director of Land Transport
+  - **former agency** means (as the case may require)—
+    (a) Land Transport New Zealand:
+    (b) Transit New Zealand
+  - **land transport programme** has the same meaning as in section 5 of the Land Transport Management Act 2003 as in force immediately before 1 August 2008
+  - **new Agency** means the New Zealand Transport Agency established under section 93 of the Land Transport Management Act 2003
+  - **property** —
+    (a) means every type of property; and
+    (b) includes—
+      (i) every type of estate and interest in property; and
+      (ii) money
+  - **suitable alternative position** , in relation to an employee, means a position—
+    (a) for which the employee has the appropriate skills and experience; and
+    (b) the pay and conditions of which are, in their overall effect, no less favourable to the employee than those applying to the employee immediately before the date of the employee’s transfer to that position
+  - **transferred employee** means a person who,—
+    (a) immediately before 1 August 2008, is employed by a former agency; and
+    (b) is transferred to the new Agency under clause 26(1)(h).
+(2) Any term or expression that is defined in the Land Transport Management Act 2003 and used, but not defined, in this schedule has, unless the context otherwise requires, the same meaning as in that Act.
+
+**National land transport fund**
+
+### 2 Treatment of certain land transport revenue
+(1) This clause applies to—
+  (a) all land transport revenue referred to in section 9(6) of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008) and held in the national land transport fund immediately before that date; and
+  (b) all amounts referred to in section 10(3)(a) of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008) and held by the Authority in the national land transport account immediately before that date.
+(2) On 1 August 2008, all land transport revenue and all amounts to which this clause applies must be treated as being part of the national land transport fund referred to in section 10(1) of the Land Transport Management Act 2003 (as in force on and from that date).
+
+### 3 Crown may pay new Agency for certain liabilities incurred before 1 August 2008
+(1) This clause applies to all land transport revenue referred to in section 9(6) (as in force immediately before 1 August 2008) that has not been paid to the Authority before that date, in respect of the 2007/08 financial year.
+(2) Without limiting clause 26(1)(d), the Crown may, without further appropriation than this clause, pay to the new Agency an amount equal to the land transport revenue to which this clause applies, as if the 2007/08 financial year ended on 31 July 2008.
+
+### 4 Crown’s authority to pay for certain expenditure using land transport revenue
+(1) The Crown may use land transport revenue to pay to—
+  (a) the Secretary the following amount in each of the following financial years for the purposes of Waikato rail works:Financial yearAmount ($)2008/095,000,0002009/105,000,000
+  (b) the Secretary to the Treasury the following amount in each of the following financial years for the purposes of upgrades and renewal of the below track Auckland rail infrastructure:Financial yearAmount ($)2008/09155,000,0002009/10130,000,000
+(2) In respect of the 2008/09 and 2009/10 financial years, the amount referred to in section 9(3) of the Land Transport Management Act 2003 is an amount equal to the land transport revenue for the relevant financial year less—
+  (a) any amounts that have been paid in respect of that year under subclause (1); and
+  (b) the amounts for that year that are referred to in section 9(1) and (2) of the Land Transport Management Act 2003.
+(3) In each of the 2008/09 and 2009/10 financial years, the amounts paid under subclause (1) must be deducted from the amount of land transport revenue that constitutes an inflow of the national land transport fund for the relevant financial year under section 10(2)(a) of the Land Transport Management Act 2003.
+(4) The Governor-General may, by Order in Council, reduce or increase any or all amounts or financial years specified in subclause (1), and this clause will apply or continue to apply (as the case may be), with the necessary modifications, in respect of any amended amount or financial year.
+
+**Land transport programmes**
+
+### 5 Completed land transport programmes for 2008/09 financial year to have effect until 1 July 2009
+(1) This clause applies to the following land transport programmes (as defined immediately before 1 August 2008):
+  (a) the land transport programme completed by an approved organisation for the 2008/09 financial year under section 12 of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008):
+  (b) the land transport programme completed by the Authority for the 2008/09 financial year under section 12A of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008).
+(2) A land transport programme to which this clause applies has effect until 1 July 2009.
+(3) Subject to clause 6, the relevant provisions of the Land Transport Management Act 2003 that were in force immediately before 1 August 2008 continue to apply, with all necessary modifications, to a land transport programme that is continued in effect by subclause (2) as if—
+  (a) a reference to the Authority were a reference to the new Agency; and
+  (b) the land transport programme completed by each of the former agencies for the 2008/09 financial year were completed by the new Agency.
+
+### 6 Treatment of police activities and combinations of police activities in Authority’s completed land transport programme for 2008/09 financial year
+(1) This clause applies to the land transport programme referred to in clause 5(1)(b).
+(2) Police activities and combinations of police activities that are included in the land transport programme to which this clause applies are to be treated as if they were recommendations of the new Agency that had been approved by the responsible Minister under section 18L(1) of the Land Transport Management Act 2003.
+(3) However, to avoid doubt, the police activities and combinations of police activities referred to in subclause (2) are not to be treated as if they were the first approval referred to in clause 9.
+
+### 7 Completion of draft land transport programmes for 2008/09 financial year
+(1) This clause applies to any draft land transport programme under section 12 or 12A of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008) that was in existence (but not completed) immediately before 1 August 2008.
+(2) Approved organisations must, unless it is impracticable to do so, comply with the relevant provisions of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008) when completing their land transport programmes for the 2008/09 financial year.
+(3) The new Agency must, unless it is impracticable to do so, comply with the relevant provisions of the Land Transport Management Act 2003 (as in force immediately before 1 July 2008) when completing the land transport programme for each former agency for the 2008/09 financial year.
+(4) A land transport programme that is completed under this clause continues to have effect until 30 June 2009.
+(5) Subject to clause 6, the relevant provisions of the Land Transport Management Act 2003 that were in force immediately before 1 August 2008 continue to apply, with all necessary modifications, to a land transport programme that is continued in effect by subclause (4) as if—
+  (a) a reference to the Authority were a reference to the new Agency; and
+  (b) the land transport programme completed by each of the former agencies for the 2008/09 financial year were completed by the new Agency.
+
+**First regional land transport programmes**
+
+### 8 First regional land transport programmes
+Each regional council and ARTA must ensure that their first regional land transport programmes are in place for the 3 financial years commencing on and from 1 July 2009.
+
+**Police activities or combinations of police activities**
+
+### 9 First approval of recommendations
+The Minister must ensure that the first approval under section 18L(1) is for the 3 financial years commencing on and from 1 July 2009.
+
+**National land transport programme**
+
+### 10 National land transport programme for 2008/09 financial year to have effect until 1 July 2009
+(1) This clause applies to the national land transport programme that has been prepared and adopted by the Authority for the 2008/09 financial year under section 19 of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008).
+(2) The national land transport programme to which this clause applies has effect until 1 July 2009.
+(3) The relevant provisions of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008) continue to apply, with all necessary modifications, to a national land transport programme that is continued in effect by subclause (2) as if—
+  (a) a reference to the Authority were a reference to the new Agency; and
+  (b) the national land transport programme prepared and adopted by Land Transport New Zealand for the 2008/09 financial year were prepared and adopted by the new Agency.
+
+### 11 First national land transport programme of new Agency
+The new Agency must ensure that its first national land transport programme is in place for the 3 financial years commencing on and from 1 July 2009.
+
+**Approval of activities or combinations of activities**
+
+### 12 Approvals in effect immediately before 1 August 2008
+Subject to clause 42, approvals in effect under sections 20 and 21 of the Land Transport Management Act 2003 immediately before 1 August 2008 continue to have effect.
+
+### 13 Approval of activities and combinations of activities for 2008/09 financial year
+Subject to clauses 12 and 14 to 17, the new Agency must, unless it is impracticable to do so (for example, because there is no GPS), comply with the relevant provisions of the Land Transport Management Act 2003 when approving activities and combinations of activities for the 2008/09 financial year.
+
+### 14 Approval of certain activities or combinations of activities
+(1) The new Agency must approve activities and combinations of activities as qualifying for payment from the national land transport fund up to the amount, which is subject to subclause (2), and by the financial year specified in the second column of the following table in order to fulfil the Crown’s commitment described in the first column of that table opposite that amount and financial year:The Crown’s commitmentAmount (which is subject to subclause (2)) and financial year by which amount is to be approved ($)Auckland Land Transport—contribution to implementing Auckland’s regional land transport strategy: the Crown’s commitment was originally $898,000,000 over 2004/05–2014/15, including rail funding130,000,000 by 2012/13Bay of Plenty—to address congestion and improve access and safety through investment in strategic roading, passenger transport, transport demand management, and walking and cycling: the Crown’s commitment was originally $150,000,000 over 2006/07–2014/15135,000,000 by 2015/16 Waikato Land Transport—contribution to implementing Waikato’s regional land transport strategy: the Crown’s commitment was originally $215,000,000 over 2007/08–2016/17, including rail funding188,000,000 by 2017/18 Wellington Land Transport—contribution to implementing Wellington's regional land transport strategy: the Crown's commitment was originally $225,000,000 over 2005/06–2014/15163,000,000 by 2015/16Wellington Land Transport (Western Corridor)—contribution to improve safety and access reliability of the Wellington Western Corridor: the Crown's commitment was originally $660,000,000 over 2006/07–2015/16640,000,000 by 2016/17 made up as follows:
+  (a) up to 405,000,000 to be applied to advance a long-term solution to address access reliability for State Highway 1 between Kapiti and Wellington
+  (b) up to 235,000,000 to be applied to passenger transport and roading to address congestion and to improve safety and access reliability of the Wellington Western Corridor.
+(2) The Governor-General may, by Order in Council, increase any or all of the amounts or periods specified in the second column of the table in subclause (1).
+(3) The new Agency must include in its annual report on the national land transport fund under section 11 of the Land Transport Management Act 2003 a statement of the total expenses or capital expenditure incurred from the 2008/09 financial year to date in fulfilling each of the Crown's commitments listed in subclause (1).
+(4) The reporting requirement in subclause (3) applies until all of the Crown's commitments listed in subclause (1) have been fulfilled.
+(5) To avoid doubt, compliance by the new Agency with this clause does not constitute a breach of section 95(2) of the Land Transport Management Act 2003.
+
+### 15 Approval of new Agency’s activities and combinations of activities (excluding those relating to State highways) for 2008/09 financial year
+(1) This clause applies to activities and combinations of activities (excluding those relating to State highways)―
+  (a) that the new Agency proposes to deliver, or to manage the delivery of, in the 2008/09 financial year; and
+  (b) for which funding is sought from the national land transport fund; and
+  (c) whether or not those activities or combinations of activities have been included in a land transport programme for the 2008/09 financial year that has been completed by the Authority under section 12A of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008).
+(2) Despite section 20(2)(a), (b), (e), and (f) of the Land Transport Management Act 2003, the new Agency may approve any activities or combinations of activities to which this clause applies as qualifying for payment from the national land transport fund.
+
+### 16 Treatment of certain costs and expenses of new Agency for 2008/09 financial year
+(1) This clause applies to costs and expenses of the new Agency for the 2008/09 financial year that arise out of the performance of its functions and duties under subpart 1 of Part 2 of the Land Transport Management Act 2003.
+(2) Despite section 20(2)(a), (b), (e), and (f) of the Land Transport Management Act 2003, the new Agency may approve any costs and expenses of the new Agency to which this clause applies as qualifying for payment from the national land transport fund.
+
+### 17 No Ministerial approval required for costs and expenses of new Agency for 2008/09 financial year
+(1) This clause applies despite anything to the contrary in the Land Transport Management Act 2003 (as in force immediately before 1 August 2008 and as in force on and from that date).
+(2) The Minister’s approval of the costs and expenses of the new Agency for the 2008/09 financial year is not required.
+
+### 18 Approved procurement procedures
+Subject to clause 42, approved procurement procedures in effect under section 25 or 95(1) of the Land Transport Management Act 2003 immediately before 1 August 2008 continue to have effect as approved procurement procedures under that Act.
+
+### 19 Reporting requirements for new Agency in 2008/09 and 2009/10 financial years
+Despite section 26(2)(a), the new Agency is required to report on the statement of inflows and expenses and capital expenditure of the national land transport fund as follows:
+  (a) for the 2008/09 financial year, for that financial year:
+  (b) for the 2009/10 financial year, for that financial year and the 2008/09 financial year.
+
+**Regional land transport committees and first regional transport committees**
+
+### 20 Temporary continuation of regional land transport committees (other than Auckland regional transport committee)
+(1) This clause applies to any regional land transport committee (other than the Auckland regional transport committee) that—
+  (a) was established under section 178 of the Land Transport Act 1998 (as in force immediately before 1 August 2008); and
+  (b) was in existence immediately before that date.
+(2) A regional land transport committee to which this clause applies continues in existence until whichever is the earlier of the following:
+  (a) a regional transport committee for the region concerned is established under section 105 of the Land Transport Management Act 2003:
+  (b) the close of 30 September 2008 or on a date, no later than 31 December 2008, that the Minister agrees.
+
+### 21 Establishment of first regional transport committees for each region (excluding Auckland region)
+(1) Every regional council, or unitary authority, must establish a regional transport committee, under section 105 of the Land Transport Management Act 2003, for its region before 1 October 2008 or on a date, no later than 31 December 2008, that the Minister agrees.
+(2) If section 105(11) of the Land Transport Management Act 2003 applies, the relevant territorial authority must decide which regional transport committee to join before 1 October 2008.
+
+### 22 Continuation of Auckland regional land transport committee
+The Auckland regional land transport committee established under section 178 of the Land Transport Act 1998 (as in force immediately before 1 August 2008), and in existence immediately before that date, continues in existence as the Auckland regional transport committee under clause 11 of Schedule 7 (as in force from 1 August 2008).
+
+**Regional land transport strategies**
+
+### 23 Existing regional land transport strategies
+(1) This clause applies to regional land transport strategies in force under Part 13 of the Land Transport Act 1998 immediately before the commencement of Part 3 of the Land Transport Management Act 2003.
+(2) Subject to subclause (3) and clause 42, a regional land transport strategy to which this clause applies continues to have effect until it would have ceased to be current under section 176 of the Land Transport Act 1998 (as in force immediately before the commencement of Part 3 of the Land Transport Management Act 2003).
+(3) The Minister may approve the extension of a regional land transport strategy to which this clause applies by a period of up to 18 months.
+
+### 24 First progress reports on regional land transport strategy
+Each regional transport committee must ensure that its first progress report on its regional land transport strategy is for the 3 consecutive financial years ending on 30 June 2011.
+
+**First GPS**
+
+### 25 First GPS
+(1) Despite section 86 of the Land Transport Management Act 2003, the first GPS must be issued with effect on and from 1 July 2009.
+(2) Despite section 87(1)(c) and (2) of the Land Transport Management Act 2003, in preparing the first GPS, the Minister may, but need not,—
+  (a) have regard to the views of Local Government New Zealand and representative groups of land transport users and providers (including representative groups of coastal shipping users and providers):
+  (b) consult with the new Agency.
+
+**Dissolution of Land Transport New Zealand and Transit New Zealand**
+
+### 26 Consequences of dissolution
+(1) On 1 August 2008,—
+  (a) the functions, duties, and powers of the former agencies under any enactment vest in the new Agency; and
+  (b) all property belonging to the former agencies vests in the new Agency; and
+  (c) all information held by the former agencies is held by the new Agency; and
+  (d) all money payable to or by the former agencies becomes payable to or by the new Agency; and
+  (e) all rights, liabilities, contracts, entitlements, and engagements of the former agencies become the rights, liabilities, contracts, entitlements, and engagements of the new Agency; and
+  (f) all directions to the former agencies in effect immediately before 1 August 2008 become directions to the new Agency; and
+  (g) any delegation by Transit under section 62 of the Transit New Zealand Act 1989 has effect as if it were a delegation by the new Agency; and
+  (h) subject to clause 31, every employee of the former agencies becomes an employee of the new Agency on the same terms and conditions as applied immediately before becoming an employee of the new Agency; and
+  (i) anything done, or omitted to be done, or that is to be done, by, or in relation to, the former agencies is to be treated as having been done, or having been omitted to be done, or to be done, by, or in relation to, the new Agency; and
+  (j) the commencement, continuation, or enforcement of proceedings by or against the former agencies may instead be commenced, continued, or enforced by or against the new Agency without amendment to the proceedings; and
+  (k) the completion of a matter or thing that would, but for this clause, have been completed by the former agencies, may be completed by the new Agency.
+(2) Despite anything in subclause (1), the board of the new Agency may appoint a new chief executive after 1 August 2008.
+(3) The transfer of information from the former agencies to the new Agency under subclause (1)(c) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(4) The dissolution of the former agencies does not, by itself, affect any of the following matters:
+  (a) any decision made, or anything done or omitted to be done, by a former agency in relation to the performance or the exercise of the former agency’s functions, duties, or powers under any enactment:
+  (b) any proceedings commenced by or against a former agency:
+  (c) any other matter or thing arising out of a former agency’s performance or exercise, or purported performance or exercise, of the former agency’s functions, duties, or powers under any enactment.
+
+### 27 Operating principles
+(1) Despite section 96(1)(b)(ii) of the Land Transport Management Act 2003, for the 2008/09 and 2009/10 financial years the new Agency must, but only if and to the extent that it is practicable and reasonable to do so, comply with the operating principle set out in that provision.
+(2) However, the Minister may extend the application of subclause (1) to the new Agency for the 2010/11 financial year.
+(3) Despite section 96(2) of the Land Transport Management Act 2003, the new Agency is only required to comply with that provision after 30 September 2008 or on a date, no later than 31 October 2008, that the Minister agrees.
+
+### 28 References to former agency
+(1) This clause applies to—
+  (a) things that are in force or existing on 1 August 2008 (whether coming into force, entered into, or created before or after the commencement of this clause); and
+  (b) references in any thing, including (without limitation) enactments, rules, bylaws, deeds, agreements, proceedings, instruments, documents and notices.
+(2) If this clause applies, every reference in any thing specified in subclause (1) to a former agency is, on or after 1 August 2008, to be read as a reference to the new Agency unless the context otherwise requires.
+
+### 29 New Agency replaces Transit New Zealand as requiring authority
+(1) This clause applies to any Order in Council, notice, or other instrument that approves of Transit New Zealand as a requiring authority and that was in effect immediately before 1 August 2008, including (without limitation)—
+  (a) the Resource Management (Approval of Transit New Zealand as Requiring Authority) Order 1992; and
+  (b) the Resource Management (Approval of Transit as Requiring Authority) Notice 1994.
+(2) Without limiting clauses 26 and 28, on 1 August 2008,—
+  (a) the new Agency replaces Transit New Zealand as a requiring authority under any Order in Council, notice, or other instrument to which this clause applies; and
+  (b) every reference to Transit New Zealand in any Order in Council, notice, or other instrument to which this clause applies, is, unless the context otherwise requires, to be read as a reference to the new Agency; and
+  (c) anything done, or omitted to be done, or that is to be or may be done (under or in relation to an Order in Council, notice, or other instrument to which this clause applies) by Transit New Zealand is to be treated as having been done, or having been omitted to be done, or to be or may be done, by the new Agency; and
+  (d) every notice of requirement and designation of Transit New Zealand is transferred to and held by the new Agency, with the same status and priority as if Transit New Zealand and the new Agency were the same entity.
+
+### 30 First members of new Agency
+In appointing the first members of the new Agency, the Minister may, but need not, consult in accordance with section 98(2) of the Land Transport Management Act 2003.
+
+### 31 Transferred employees
+(1) The terms and conditions of employment of a transferred employee immediately before 1 August 2008 continue to apply in relation to that employee until—
+  (a) those terms and conditions are varied by agreement between the transferred employee and the new Agency; or
+  (b) the transferred employee accepts a subsequent appointment with the new Agency.
+(2) For the purposes of every enactment, law, determination, contract, and agreement relating to the employment of a transferred employee,—
+  (a) the employment agreement of that employee is to be treated as unbroken; and
+  (b) the employee’s period of service with a former agency, and every other period of service of that employee that is recognised by a former agency as continuous service, is to be treated as a period of service with the new Agency.
+(3) To avoid doubt, the employment of a transferred employee by the new Agency does not constitute new employment for the purposes of the KiwiSaver Act 2006.
+(4) A transferred employee is not entitled to receive any payment or any other benefit because—
+  (a) the position held by the employee in a former agency has ceased to exist; or
+  (b) the employee has ceased (as a result of the transfer to the new Agency) to be an employee of a former agency; or
+  (c) the employee has been transferred to a suitable alternative position.
+
+### 32 Government Superannuation Fund
+(1) This clause applies to every person who, immediately before 1 August 2008, was an employee of a former agency.
+(2) Nothing in this Act affects any entitlement under the Government Superannuation Fund Act 1956 of a person to whom this clause applies.
+(3) This clause is for the avoidance of doubt.
+
+### 33 Final reports and accounts
+(1) As soon as practicable after the commencement of this Act, the new Agency must arrange for the final report of each former agency to be delivered to the Minister.
+(2) The report must—
+  (a) describe the former agency’s operation for the period beginning on 1 July 2007 and ending with 30 June 2008; and
+  (b) include—
+    (i) financial statements of that agency prepared, in accordance with Part 4 of the Crown Entities Act 2004, for that period; and
+    (ii) an audit report prepared by the Auditor-General and a statement of responsibility relating to those financial statements.
+(3) The Minister must present a copy of the final report of each former agency to the House of Representatives as soon as is reasonably practicable after receiving it from the new Agency.
+
+### 34 Responsibility for reports and accounts of former agencies from 1 July 2008
+(1) The new Agency must include in its initial annual report the information in respect of each former agency for the period commencing 1 July 2008 and ending on 31 July 2008 that each former agency would have had to include in the former agency's annual report under section 151 of the Crown Entities Act 2004 had it continued in existence.
+(2) To avoid doubt, the new Agency may, if it so decides, present the information referred to in subclause (1) in a combined form for the whole of the financial year ended 30 June 2009.
+(3) For the purposes of subclause (1), section 45J(1) of the Public Finance Act 1989 does not apply to each former agency in respect of the period commencing 1 July 2008 and ending on 31 July 2008.
+
+### 35 Statements of intent
+A former agency is not required to produce a statement of intent for the financial year commencing 1 July 2008.
+
+### 36 Directions to former agencies continue to have effect as directions to new Agency
+Subject to clause 42, directions to any former agency in effect immediately before 1 August 2008 under any enactment continue to have effect as directions to the new Agency.
+
+### 37 Delegations
+Subject to clause 42, delegations in effect immediately before 1 August 2008 under the Crown Entities Act 2004 or any other Act continue to have effect despite the dissolution of Land Transport New Zealand or Transit New Zealand or the disestablishment of the office of the Director of Land Transport.
+
+### 38 Continuation of certain appointments
+A person who holds office as an enforcement officer or a dangerous goods enforcement officer under section 208 of the Land Transport Act 1998 immediately before the commencement of this Act is to continue in office and holds office, until his or her appointment would have expired under the Land Transport Act 1998, as if this Act had not been passed.
+
+**Disestablishment of office of Director of Land Transport**
+
+### 39 Consequences of disestablishing office of Director of Land Transport
+(1) On 1 August 2008,—
+  (a) the functions, duties, and powers of the Director under any enactment vest in the new Agency; and
+  (b) all property belonging to the Director vests in the new Agency; and
+  (c) all information held by the Director is held by the new Agency; and
+  (d) all money payable to or by the Director becomes payable to or by the new Agency; and
+  (e) all rights, liabilities, contracts, entitlements, and engagements of the Director become the rights, liabilities, contracts, entitlements, and engagements of the new Agency; and
+  (f) anything done, or omitted to be done, or that is to be done, by, or in relation to, the Director is to be treated as having been done, or having been omitted to be done, or to be done, by, or in relation to, the new Agency; and
+  (g) the commencement, continuation, or enforcement of proceedings by or against the Director may instead be commenced, continued, or enforced by or against the new Agency without amendment to the proceedings; and
+  (h) the completion of a matter or thing that would, but for this clause, have been completed by the Director, may be completed by the new Agency.
+(2) The transfer of information from the Director to the new Agency under subclause (1)(c) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(3) The disestablishment of the office of the Director of Land Transport does not, by itself, affect any of the following matters:
+  (a) any decision made, or anything done, or omitted to be done, by the Director in relation to the performance or the exercise of the Director’s functions, duties, or powers under any enactment:
+  (b) any proceedings commenced by or against the Director:
+  (c) any other matter or thing arising out of the Director’s performance or exercise, or purported performance or exercise, of the Director’s functions, duties, or powers under any enactment.
+
+### 40 References to Director
+(1) This clause applies to—
+  (a) things that are in force or existing on 1 August 2008 (whether coming into force, entered into, or created before or after the commencement of this clause); and
+  (b) references in any thing, including (without limitation) enactments, rules, bylaws, deeds, agreements, proceedings, instruments, documents, and notices.
+(2) If this clause applies, every reference in any thing specified in subclause (1) to the Director (or to the Director of Land Transport) is, on and after 1 August 2008, to be read as a reference to the new Agency unless the context otherwise requires.
+
+**Miscellaneous**
+
+### 41 General savings provision
+Except as otherwise expressly provided in this Act, nothing in this Act affects the completion of a matter or thing, or the bringing or completion of proceedings, that relates to an existing right, liability, contract, entitlement, interest, title, immunity, or duty.
+
+### 42 Matters continued by this Act have effect until replaced or revoked
+If a matter or thing is continued with a specified effect by this Act, the matter or thing continues to have that effect until revoked or replaced under the relevant empowering enactment.
+
+### 43 Transitional regulations
+(1) The Governor-General may, by Order in Council, make regulations—
+  (a) prescribing transitional and savings provisions concerning the coming into force of this Act that may be in addition to, or in place of, the transitional and savings provisions in this Act:
+  (b) providing that, subject to such conditions as may be specified in the regulations, during a specified transitional period,—
+    (i) specified provisions of this Act (including definitions) do not apply:
+    (ii) specified terms have the meaning given to them by the regulations:
+    (iii) specified provisions repealed or amended or revoked by this Act are to continue to apply.
+(2) This clause expires on 1 January 2012.
