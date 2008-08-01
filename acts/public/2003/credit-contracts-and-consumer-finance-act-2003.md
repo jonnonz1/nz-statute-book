@@ -1,5 +1,5 @@
 # Credit Contracts and Consumer Finance Act 2003
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2008-08-01_
 
 ### 1 Title
 This Act is the Credit Contracts and Consumer Finance Act 2003.
@@ -103,7 +103,7 @@ In this Act, unless the context otherwise requires,—
     (b) does not include a person who indemnifies a creditor against any loss that the creditor may incur in connection with the contract under a contract of insurance
   - **information system** means a system for producing, sending, receiving, storing, displaying, or otherwise processing electronic communications
   - **interest charge** means a charge that accrues over time and is determined by applying a rate to an amount owing under a credit contract
-  - **lawyer** means a barrister or solicitor, as those terms are defined in section 2 of the Law Practitioners Act 1982
+  - **lawyer** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006
   - **lease** means a contract for the hire of goods
   - **occupier** has the meaning set out in section 8
   - **oppressive** has the meaning set out in section 118
