@@ -1,5 +1,5 @@
 # Patents Act 1953
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-08-01_
 
 > An Act to consolidate and amend certain enactments relating to patents
 
@@ -965,7 +965,7 @@ In all proceedings before the Court under this Act the costs of the Commissioner
   (a) Shall be entitled to prepare all documents, transact all business, and conduct all proceedings for the purposes of this Act; and
   (b) Shall have such other rights and privileges as may be prescribed.
 (2) Nothing in this section shall authorise a patent attorney to transact business or conduct proceedings in a Court.
-(3) A patent attorney shall not be guilty of an offence against section 18 of the Law Practitioners Act 1955 by reason only of the preparation by him of any document for use in proceedings under this Act before the Commissioner.
+(3) A person who is registered under section 100 as a patent attorney is not guilty of an offence against section 32 or section 33 or section 35 of the Lawyers and Conveyancers Act 2006 by reason only of exercising any of the powers conferred on patent attorneys by this section.
 
 ### 102 Cancellation of registration of patent attorneys
 (1) The Court, on application made by the Commissioner or by the New Zealand Institute of Patent Attorneys Incorporated with the leave in writing of the Attorney-General, may order the removal from the register of patent attorneys of the name of any patent attorney or the suspension from practice before the Patent Office of any patent attorney who—
