@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2008-04-09_
+_Consolidation as at 2008-08-01_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -1856,8 +1856,8 @@ If Parts 11 to 15 apply to a hazardous substance and a group standard is made un
 (1) The following persons shall ensure the provisions of this Act (including any controls imposed on approvals granted under this Act) are enforced in the following situations:
   (a) The chief executive of the department of State that is for the time being responsible for the administration of the Health and Safety in Employment Act 1992 shall ensure that the provisions of this Act are enforced in any place of work:
   (b) The chief executive of the department of State that is for the time being responsible for the administration of the Gas Act 1992 shall ensure that the provisions of this Act are enforced in, on, at, or around any distribution system, gas installation, or gas appliance:
-  (c) The Director of Land Transport may enforce the provisions of this Act in or on any motor vehicle, on any road, in or on any rail vehicle, or on any railway line:
-  (d) The Commissioner of Police (after consultation with the Director of Land Transport) shall ensure that the provisions of this Act are enforced in or on any motor vehicle, on any road, in or on any rail vehicle, or on any railway line:
+  (c) The New Zealand Transport Agency may enforce the provisions of this Act in or on any motor vehicle, on any road, in or on any rail vehicle, or on any railway line:
+  (d) The Commissioner of Police (after consultation with the New Zealand Transport Agency) shall ensure that the provisions of this Act are enforced in or on any motor vehicle, on any road, in or on any rail vehicle, or on any railway line:
   (e) The Director of the Civil Aviation Authority shall ensure that the provisions of this Act are enforced in, on, or at any aircraft or aerodrome:
   (f) The Director of Maritime Transport shall ensure that the provisions of this Act are enforced in or on any ship:
   (g) The chief executive of the Ministry of Health shall ensure that the provisions of this Act are enforced where it is necessary to protect public health:
