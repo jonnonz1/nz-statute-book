@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-08-01_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -2651,7 +2651,7 @@ A Gambling Commission is established.
 
 ### 222 Appointment criteria
 (1) All Gambling Commissioners must have, in the opinion of the Minister, the knowledge, skills, and experience to enable them to assist in undertaking the functions, powers, and responsibilities of the Gambling Commission.
-(2) Additionally, the Chief Gambling Commissioner must be, or have been, a barrister and solicitor of the High Court of New Zealand with at least 7 years' legal experience as defined in section 55(1) of the Law Practitioners Act 1982.
+(2) Additionally, the Chief Gambling Commissioner must be, or have been, a barrister and solicitor of the High Court of New Zealand with at least 7 years' legal experience that meets the requirements of rules made, under the Lawyers and Conveyancers Act 2006, for the purposes of section 30 of that Act.
 (3) A proposed Gambling Commissioner must disclose to the Minister, before appointment,—
   (a) any interest (direct or indirect) or other appointment that affects, or may affect, the discharge of the Gambling Commission's functions; and
   (b) the proposed appointee's financial position; and
