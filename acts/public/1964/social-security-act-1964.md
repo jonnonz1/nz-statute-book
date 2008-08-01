@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2008-07-01_
+_Consolidation as at 2008-08-01_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -425,8 +425,8 @@ Every person exercising or performing a function, duty or power under this Act m
 (6) Where any person refuses to disclose any information or document on the ground that it is privileged under subsection (4) or subsection (5) of this section, the chief executive or that person or any other person to whom the information or document relates may apply to a District Court Judge for an order determining whether or not the claim of privilege is valid; and, for the purposes of determining any such application, the Judge may require the information or document to be produced to the Court.
 (7)
 (8) In this section—
-  - **Law practitioner** means a barrister or solicitor of the High Court; and includes a firm in which any such law practitioner is a partner or is held out to be a partner
-  - **Trust account** , in relation to a law practitioner, has the same meaning as in section 2 of the Law Practitioners Act 1982.
+  - **law practitioner** means a barrister or solicitor of the High Court, and includes a firm or an incorporated law firm (within the meaning of the Lawyers and Conveyancers Act 2006) in which the law practitioner is, or is held out to be, a partner, director, or shareholder
+  - **trust account,** in relation to a law practitioner, has the same meaning as in section 6 of the Lawyers and Conveyancers Act 2006.
 
 ### 11A Power to obtain information for matching purposes
 (1) Where the chief executive has reason to suspect that there is, or may have been, any person or persons in the employ of any employer—that should not have been, the chief executive may, subject to this section, issue a notice under section 11(1) of this Act requiring that employer to provide the following information within a specified period:
