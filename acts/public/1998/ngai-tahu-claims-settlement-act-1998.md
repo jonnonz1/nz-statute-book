@@ -1,5 +1,5 @@
 # Ngai Tahu Claims Settlement Act 1998
-_Consolidation as at 2008-05-23_
+_Consolidation as at 2008-08-01_
 
 > An Act—aTo record the apology given by the Crown to Ngai Tahu in the deed of settlement executed on 21 November 1997 by the then Prime Minister the Right Honourable James Brendan Bolger, for the Crown, and Te Runanga o Ngai Tahu; andbTo give effect to certain provisions of that deed of settlement, being a deed that settles the Ngai Tahu claims
 
@@ -636,7 +636,7 @@ The purpose of this Part is to provide for the legislative matters contemplated 
       (iii) An institution established under Part 14 of the Education Act 1989; or
       (iv) Landcorp Farming Limited or a company that is wholly-owned by Landcorp Farming Limited; or
       (v) New Zealand Fire Service Commission; or
-      (vi) Transit New Zealand:
+      (vi) New Zealand Transport Agency:
     (d) Land forming the consideration or part consideration for a disposal referred to in section 50(g) or (k); and
     (e) Land included in the processes set out in sections 5 to 7 of the deed of settlement other than—
       (i) Land that Te Runanga o Ngai Tahu acquires pursuant to those processes; and
@@ -2941,7 +2941,7 @@ Except as expressly provided in sections 371 to 386, the existence of a customar
   (b) Bruce Bay site (No 3):
   (c) Bruce Bay site (No 4);—
 (4) The vesting by subsection (3)﻿(b) is subject to the encumbrance relating to the Bruce Bay site (No 3) described in Schedule 111.
-(5) Before the Maori Land Court makes a vesting order in relation to the Bruce Bay site (No 1) pursuant to subsection 346(1), the ancillary claims trustees must have granted an easement over the Bruce Bay site (No 1) providing access from the state highway to the river and to Bruce Bay site (No 2) and Bruce Bay site (No 3) in favour of the occupiers of those sites and Transit New Zealand in the form set out in attachment 14.8 of the deed of settlement.
+(5) Before the Maori Land Court makes a vesting order in relation to the Bruce Bay site (No 1) pursuant to subsection 346(1), the ancillary claims trustees must have granted an easement over the Bruce Bay site (No 1) providing access from the state highway to the river and to Bruce Bay site (No 2) and Bruce Bay site (No 3) in favour of the occupiers of those sites and New Zealand Transport Agency in the form set out in attachment 14.8 of the deed of settlement.
 (6) Before the Maori Land Court makes a vesting order in relation to the Bruce Bay site (No 3) pursuant to section 346(1), the ancillary claims trustees must have granted an easement over the Bruce Bay site (No 3) providing access from the structures on that site to the Bruce Bay site (No 1) in favour of the occupiers of the Bruce Bay site (No 3) in the form set out in attachment 14.9 of the deed of settlement.
 (7) Within one year of the vesting of the Bruce Bay site (No 1) by subsection (3), and before the Maori Land Court makes a vesting order in relation to that site pursuant to subsection 346(1), the ancillary claims trustees must have offered formal licences or leases for a period of not less than 5 years to the persons occupying the Bruce Bay site (No 1) on 21 November 1997.
 
@@ -3751,7 +3751,7 @@ For the purposes of section 21, Form A in Schedule 3 of the Public Works Act 198
 | --- | --- | --- |
 | Kahutara | All that land situated in Marlborough Land District, Kaikoura District, comprising— | Subject to grazing licence dated 27 November 1995 between the Minister of Conservation and Karl Robert Townsend over part Section 37 and part Section 36. |
 |  | (a) 13.2894 hectares, more or less, being Section 44, Block IX, Mt Fyffe Survey District (SO 5541) and Sections 38, 47 and Part Section 39, Block IX, Mt Fyffe Survey District (SO 4261 and 3912). All Gazette 1982, page 335 and Part Gazette 1982, page 661, respectively: | Subject to camping ground lease over parts (a), (b) and (c) for 5 years (plus 2 terms of renewal) from 11 October 1996 to RG Smithson and L Prenderville for 7.5 hectares of Section 38 and parts of Part 37, 47 and 39. |
-|  | (b) 5.5954 hectares, more or less, being Part Section 37, Block IX, Mt Fyffe Survey District (SO 4261). Part Gazette 1982, page 661: | Subject to right by Transit New Zealand to use road spoil dumping site on section 44. |
+|  | (b) 5.5954 hectares, more or less, being Part Section 37, Block IX, Mt Fyffe Survey District (SO 4261). Part Gazette 1982, page 661: | Subject to right by New Zealand Transport Agency to use road spoil dumping site on section 44. |
 |  | (c) 11.0016 hectares, more or less, being Parts Section 37, Block IX, Mt Fyffe Survey District (SO 4261). Part Gazette 1982, page 661: |  |
 |  | (d) 9.8310 hectares, more or less, being Section 36, Block IX, Mt Fyffe Survey District (SO 4261). Part Gazette 1982, page 661. |  |
 |  | Subject to survey, as shown on Allocation Plans MS 28/1, 28/2, 28/3, 28/4 and 28/5 (SO 7314, 7315, 7305, 7306 and 7316). |  |
