@@ -1,5 +1,5 @@
 # Te Ture Whenua Maori Act 1993/Maori Land Act 1993
-_Consolidation as at 2008-05-23_
+_Consolidation as at 2008-08-01_
 
 > An Act to reform the laws relating to Maori land in accordance with the principles set out in the Preamble to this Act
 
@@ -3212,7 +3212,7 @@ No partition of Maori land shall be effected (whether by the Court under this Pa
 (2) The Court shall not lay out roadways over any customary land without the consent of an agent appointed by the Court pursuant to Part 10 of this Act to represent the interests of those persons who may be entitled to apply for a freehold order in respect of the application for an order laying out roadways.
 (3) The Court shall not lay out roadways over any General land without the consent of each owner.
 (4) The Court shall not lay out roadways over any Crown land without the consent of the Commissioner of Crown Lands.
-(5) The Court shall not lay out roadways connecting with any State highway without the consent of Transit New Zealand and the territorial authority for the district in which the connection would be effected.
+(5) The Court shall not lay out roadways connecting with any State highway without the consent of the New Zealand Transport Agency and the territorial authority for the district in which the connection would be effected.
 (6) The Court shall not lay out roadways connecting with any public road without the consent of the territorial authority for the district in which the connection would be effected.
 (7) Notwithstanding anything in subsections (5) and (6) of this section, where a roadway is laid off as part of a partition to which section 301 of this Act applies, a separate consent to the laying out of the roadway shall not be required from the territorial authority for the district in which the land to be partitioned is situated.
 
@@ -3235,7 +3235,7 @@ No partition of Maori land shall be effected (whether by the Court under this Pa
 (2) No roadway shall be declared a road or street pursuant to this section except in accordance with a recommendation made by the Court to the Minister of Transport.
 (3) In making a recommendation for the purposes of this section, the Court shall describe the roadway with sufficient particularity to enable its boundaries to be accurately determined.
 (4) No roadway shall be declared a road or street pursuant to this section without the consent in writing of—
-  (a) Transit New Zealand and the territorial authority for the district in which the land is situated, in the case of a State highway or a proposed State highway; or
+  (a) the New Zealand Transport Agency and the territorial authority for the district in which the land is situated, in the case of a State highway or a proposed State highway; or
   (b) The territorial authority for the district in which the road or proposed road is situated.
 (5) On the date of the publication in the Gazette of a Proclamation issued under subsection (1) of this section, or on such later date as may be specified in that Proclamation as the date when it shall have effect, all land to which the Proclamation relates shall vest as a road in the territorial authority within whose district the land is situated, but otherwise free from all reservations, restrictions, trusts, rights, titles, estates, or interests of any kind.
 (6) The provisions of section 57 of the Public Works Act 1981 shall, as far as they are applicable and with any necessary modifications, apply to any Proclamation issued under this section.
