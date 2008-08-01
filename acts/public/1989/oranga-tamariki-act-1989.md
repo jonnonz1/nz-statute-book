@@ -1,5 +1,5 @@
 # Children, Young Persons, and Their Families Act 1989
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2008-08-01_
 
 > An Act to reform the law relating to children and young persons who are in need of care or protection or who offend against the law and, in particular,—aTo advance the wellbeing of families and the wellbeing of children and young persons as members of families, whanau, hapu, iwi, and family groups:bTo make provision for families, whanau, hapu, iwi, and family groups to receive assistance in caring for their children and young persons:cTo make provision for matters relating to children and young persons who are in need of care or protection or who have offended against the law to be resolved, wherever possible, by their own family, whanau, hapu, iwi, or family group:deTo repeal the Children and Young Persons Act 1974
 
@@ -2806,7 +2806,7 @@ Every order or decision made under any of the provisions of paragraphs (d) to (h
 ### 294 Demerit points
 Where—the young person is, unless the information is discharged under section 282 of this Act, deemed, for the purposes of sections 88 to 91 of the Land Transport Act 1998 and of any regulations made under section 167(1)(g) of that Act, to have been convicted of that offence, and the provisions of those sections of that Act and those regulations apply accordingly with all necessary modifications.
   (a) A charge against a young person is proved before a Youth Court; and
-  (b) The offence is such that, if the offender were convicted in a District Court, the Director of Land Transport would be obliged under section 88 of the Land Transport Act 1998 to record demerit points in respect of the offender,—
+  (b) The offence is such that, if the offender were convicted in a District Court, the New Zealand Transport Agency would be obliged under section 88 of the Land Transport Act 1998 to record demerit points in respect of the offender,—
 
 ### 295 Recall to come before Court
 (1) Where the Court makes an order under section 283(c) of this Act, the Court may, at any time during the duration of the order, direct, on the application of a Social Worker or member of the Police, the issue to the young person in respect of whom the order was made of a summons, in a form prescribed by rules of Court, to appear before the Court.
