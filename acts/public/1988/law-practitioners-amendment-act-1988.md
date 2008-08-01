@@ -1,5 +1,5 @@
 # Law Practitioners Amendment Act 1988
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-08-01_
 
 > An Act to amend the Law Practitioners Act 1982
 
