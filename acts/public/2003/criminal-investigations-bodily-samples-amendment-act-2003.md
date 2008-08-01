@@ -1,5 +1,5 @@
 # Criminal Investigations (Bodily Samples) Amendment Act 2003
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-08-01_
 
 ### 1 Title
 (1) This Act is the Criminal Investigations (Bodily Samples) Amendment Act 2003.
@@ -44,8 +44,7 @@ The Title of the principal Act is amended by omitting the word blood in both pla
     (c) if none of the persons referred to in paragraphs (a) and (b) is present, any person of or over the age of 17 years, who must not be a sworn or non-sworn member of the police—
       (i) chosen by the suspect; or
       (ii) if the suspect fails or refuses to choose, chosen by a member of the police
-(7) Section 2(1) of the principal Act is amended by inserting, after the definition of juvenile compulsion order, the following definition:.
-  - **lawyer** means a barrister or solicitor as those terms are defined in section 2 of the Law Practitioners Act 1982
+(7)
 (8) Section 2(1) of the principal Act is amended by omitting from paragraph (c) of the definition of parent the word blood, and substituting the word bodily.
 (9) Section 2(1) of the principal Act is amended by inserting, after the definition of parent, the following definitions:.
   - **Part 2A request** means a request made under section 24D
