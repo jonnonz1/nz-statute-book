@@ -1,5 +1,5 @@
 # Foreshore and Seabed Act 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-08-01_
 
 ### 1 Title
 This Act is the Foreshore and Seabed Act 2004.
@@ -83,7 +83,7 @@ In this Act, unless the context otherwise requires,—
   - **resource consent** has the same meaning as in section 2(1) of the Resource Management Act 1991
   - **road** —
     (a) has the same meaning as in section 315(1) of the Local Government Act 1974; and
-    (b) includes a motorway within the meaning of section 2(1) of the Transit New Zealand Act 1989
+    (b) includes a motorway within the meaning of section 2(1) of the Government Roading Powers Act 1989
   - **specified freehold interest** means an interest that, immediately before the commencement of this section, a person other than the Crown or a local authority has as the owner of—
     (a) an estate in fee simple for which a certificate of title or computer freehold register—
       (i) has, before that commencement, been issued; or
