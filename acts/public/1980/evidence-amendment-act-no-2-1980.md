@@ -1,5 +1,5 @@
 # Evidence Amendment Act (No 2) 1980
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-08-01_
 
 > An Act to amend the Evidence Act 1908
 
@@ -242,9 +242,11 @@ In any proceeding, either of two spouses may give evidence proving or tending to
   (b) Any other person acting judicially.
 
 ### 35A Limitation on professional privilege in respect of searches of solicitors' trust accounts
-(1) This section applies to books of account and accounting records kept by a solicitor in relation to—
-  (a) Any trust account money, being money that is subject to section 89 of the Law Practitioners Act 1982; or
-  (b) Any solicitors' nominee company operated by a solicitor with the consent of the relevant District Law Society as a nominee in respect of securities and documents of title held for clients.
+(1) This section applies to books of account and accounting records kept—
+  (a) by a practitioner (within the meaning of the Lawyers and Conveyancers Act 2006) or an incorporated firm (within the meaning of that Act) in relation to any trust account money, being money that is subject to section 112 of that Act; or
+  (b) by a nominee company that—
+    (i) is subject to practice rules made by the Council of the New Zealand Law Society pursuant to section 96 of the Lawyers and Conveyancers Act 2006; and
+    (ii) is operated by a barrister and solicitor or an incorporated law firm as a nominee in respect of securities and documents of title held for clients.
 (2) No rule of law conferring any privilege on communications of a professional character between a barrister or solicitor and his client shall prevent, limit, or affect—
   (a) The issue of a search warrant under section 198 of the Summary Proceedings Act 1957, or the execution of any such warrant issued by a District Court Judge, in respect of any document to which this section applies; or
   (b) The giving of any evidence relating to the contents of any such document obtained pursuant to such a warrant in any criminal proceedings for any offence described in the warrant, where the warrant was issued by a District Court Judge.
