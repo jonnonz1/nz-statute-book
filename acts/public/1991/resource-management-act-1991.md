@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2008-08-01_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -293,7 +293,7 @@ _Consolidation as at 2008-01-01_
     (b) For which the Minister of Conservation is the consent authority:
   - **restricted discretionary activity** means an activity described in section 77B(3)
   - **River** means a continually or intermittently flowing body of fresh water; and includes a stream and modified watercourse; but does not include any artificial watercourse (including an irrigation canal, water supply race, canal for the supply of water for electricity power generation, and farm drainage canal)
-  - **Road** has the same meaning as in section 315 of the Local Government Act 1974; and includes a motorway as defined in section 2(1) of the Transit New Zealand Act 1989
+  - **Road** has the same meaning as in section 315 of the Local Government Act 1974; and includes a motorway as defined in section 2(1) of the Government Roading Powers Act 1989
   - **Rule** means a district rule or a regional rule
   - **seaweed** has the same meaning as in section 2(1) of the Fisheries Act 1996
   - **Serve** means serve in accordance with section 352 or section 353
@@ -303,7 +303,7 @@ _Consolidation as at 2008-01-01_
   - **spat**
   - **spat catching**
   - **Special tribunal** means a special tribunal appointed under section 202 to hear an application for a water conservation order
-  - **State highway** has the same meaning as in section 2(1) of the Transit New Zealand Act 1989
+  - **State highway** has the same meaning as in section 2(1) of the Government Roading Powers Act 1989
   - **Structure** means any building, equipment, device, or other facility made by people and which is fixed to land; and includes any raft
   - **Subdivision consent** has the meaning set out in section 87(b)
   - **Subdivision of land** and have the meanings set out in section 218
@@ -3486,7 +3486,7 @@ An authorisation or any part of it may be transferred by its holder to any other
   (b) to preserve the ability of the Crown to give effect to any of its obligations under any agreement in principle or deed of settlement between the Crown and any group of Maori claimants or representative of any group of Maori claimants in relation to a claim arising from, or relating to, any act or omission by or on behalf of the Crown or by or under any enactment before 21 September 1992.
 (3) The matters referred to in subsection (1)(b) include—
   (a) the allocation method to be used:
-  (b) the maximum with of a coastal permit available for allocation:
+  (b) the maximum term of a coastal permit available for allocation:
   (c) the allocation of authorisations relating to specific spaces within a coastal marine area to the Crown.
 (4) If an Order in Council contains a direction under subsection (3)(a), the Order must be made before—
   (a) the relevant proposed plan is notified under clause 5 or clause 26 of Schedule 1; or
