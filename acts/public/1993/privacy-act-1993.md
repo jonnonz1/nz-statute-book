@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2008-05-04_
+_Consolidation as at 2008-08-01_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—aTo establish certain principles with respect to—iThe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiAccess by each individual to information relating to that individual and held by public and private sector agencies; andbTo provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcTo provide for matters incidental thereto
 
@@ -1084,7 +1084,7 @@ In this Part of this Act, unless the context otherwise requires,—
     (fa) the Housing New Zealand Corporation established (as the Housing Corporation of New Zealand) by section 3(1) of the Housing Corporation Act 1974:
     (g) the Inland Revenue Department:
     (ga) the Ministry of Transport:
-    (gb) Land Transport New Zealand:
+    (gb) the New Zealand Transport Agency:
     (gc) the Department of Internal Affairs:
     (gd) the Registrar-General appointed under section 79(1) of the Births, Deaths, and Marriages Registration Act 1995:
     (h) the New Zealand Customs Service:
@@ -1582,7 +1582,7 @@ Except as provided in any other enactment, unique identifiers shall not be used 
 |  |  | Legal Services Agency, limited only to finding out whether or not an applicant for criminal legal aid has any charges currently pending determination by the courts |
 | Details of hearings | Details of hearings of proceedings in respect of which an information has been laid, including convictions, sentences, and all other matters ancillary and subsequent to a determination | Police (access is limited so as to exclude details relating to young persons, being persons over 14 years but under 17 years, where the offence did not carry a liability to imprisonment) |
 |  |  | Legal Services Agency, for the purpose of determining an application for a grant of legal aid (access is limited so as to exclude details relating to young persons, being persons over 14 years but under 17 years, where the offence did not carry a liability to imprisonment) |
-|  |  | Land Transport New Zealand (access is limited to traffic cases only) |
+|  |  | New Zealand Transport Agency (access is limited to traffic cases only) |
 |  |  | Serious Fraud Office (access is limited so as to exclude details relating to young persons, being persons over 14 years but under 17 years, where the offence did not carry a liability to imprisonment) |
 |  |  | Department of Corrections |
 | Enforcement of fines and other orders | Particulars of writs, warrants, or orders in force and issued or made on default in the payment of fines or other monetary sums ordered in proceedings commenced by indictment or information; particulars of the persons to whom the writs, warrants, or orders relate; and particulars of fines, sentences, or orders imposed or made against those persons, including the amounts remaining payable thereunder and the arrangements for payment | Police |
@@ -1593,12 +1593,15 @@ Except as provided in any other enactment, unique identifiers shall not be used 
 | Subject | Description | Access Available to |
 | --- | --- | --- |
 | Details of hearings | Details of hearings of overseas proceedings before overseas courts, including convictions, sentences, and all other matters ancillary and subsequent to a determination | Ministry of Justice |
+|  |  | Ministry of Transport |
 |  |  | Department of Corrections |
 |  |  | Serious Fraud Office |
 | Police temporary file index | Details of active or recently closed Police files, including the file numbers and location of the files, and the names of complainants, victims, witnesses, suspects, and alleged offenders | Ministry of Justice (access is limited to— |
 |  |  | (a) Obtaining information about parties to offences for the purpose of processing cases before a court: |
 |  |  | (b) Updating Police records) |
+|  |  | Ministry of Transport |
 | Offender identity | Particulars of the identity of persons who have been charged with an offence | Ministry of Justice (access is limited to—aidentity details for the purposes of—ientering information relating to prosecutions initiated otherwise than by the Police; oriiproviding assistance to victims in accordance with the Criminal Justice Act 1985. the Sentencing Act 2002, the Parole Act 2002, the Victims' Rights Act 2002, and the Prisoners' and Victims' Claims Act 2005; oriiiupdating an existing database of court proceedings; orbobtaining information for the purpose of research conducted by the Ministry, and with the limitation that information so obtained must not be published in a form that could reasonably be expected to identify the individual concerned). |
+|  |  | Ministry of Transport |
 |  |  | Department of Corrections (access is limited to identity details for the purposes of— |
 |  |  | (a) Entering information relating to prosecutions initiated otherwise than by the Police; or |
 |  |  | (ab) undertaking criminal history checks of persons wishing to visit prisons who have consented to such a check; or |
@@ -1609,25 +1612,32 @@ Except as provided in any other enactment, unique identifiers shall not be used 
 |  |  | (ii) providing assistance to victims in accordance with the Criminal Justice Act 1985, the Sentencing Act 2002, the Parole Act 2002, the Victims' Rights Act 2002, and the Prisoners' and Victims' Claims Act 2005; or |
 |  |  | (iii) updating an existing database of court proceedings; or |
 |  |  | (b) obtaining information for the purpose of research conducted by the Ministry, and with the limitation that information so obtained must not be published in a form that could reasonably be expected to identify the individual concerned). |
+|  |  | Ministry of Transport |
 | Victim identity | The name, sex, date of birth, address, and telephone number of persons who are the victims of a criminal offence in respect of which another person has been charged | Ministry of Justice (access is limited to identity details for the purpose of providing assistance to victims in accordance with the Criminal justice Act 1985, the Sentencing Act 2002, the Parole Act 2002, the Victims' Rights Act 2002, and the Prisoners' and Victims' Claims Act 2005) |
-| Medical details | An indicator to identify persons who are or have been special patients under the Mental Health (Compulsory Assessment and Treatment) Act 1992 or any former Act and the hospitals at which those persons are or have been detained as special patients, or as committed patients, or as patients within the meaning of that Act) | Land Transport New Zealand (access is limited to obtaining information for the purposes of— |
+|  |  | Ministry of Transport |
+| Medical details | An indicator to identify persons who are or have been special patients under the Mental Health (Compulsory Assessment and Treatment) Act 1992 or any former Act and the hospitals at which those persons are or have been detained as special patients, or as committed patients, or as patients within the meaning of that Act) | New Zealand Transport Agency (access is limited to obtaining information for the purposes of— |
 |  |  | (a) subpart 2 of Part 4A of the Land Transport Act 1998; or |
 |  |  | (b) section 19 of the Land Transport Act 1998) |
 |  |  | Department of Corrections |
 |  |  | Ministry of Justice |
-| Traffic offence and infringement enforcement and document processing | Traffic offence and infringement enforcement processing, including infringement fees enforcement and preparation of documents | Land Transport New Zealand |
+|  |  | Ministry of Transport |
+| Traffic offence and infringement enforcement and document processing | Traffic offence and infringement enforcement processing, including infringement fees enforcement and preparation of documents | New Zealand Transport Agency |
 |  |  | Ministry of Justice (access is limited to obtaining information for the purpose of processing cases before a court) |
+|  |  | Ministry of Transport |
 |  |  | Legal Services Agency (access is limited to obtaining information for the purpose of processing cases before a court, and for determining an application for a grant of legal aid relating to a criminal matter) |
 | Vehicles of interest | Particulars of motor vehicles stolen, unlawfully taken, missing, abandoned, or found, or where location is for other reasons required to be known by the Police | Ministry of Transport (access is limited so as to exclude such particulars as the Police may determine in any case) |
-| Wanted persons | Particulars concerning persons wanted for arrest | Land Transport New Zealand |
+| Wanted persons | Particulars concerning persons wanted for arrest | New Zealand Transport Agency |
 |  |  | Ministry of Justice (access is limited to obtaining information for the purposes of— |
 |  |  | (a) subpart 2 of Part 4A of the Land Transport Act 1998: |
 |  |  | (b) Carrying out the functions conferred on the Authority by section 69(1) of the Land Transport Management Act 2003: |
 |  |  | (c) Carrying out the functions conferred on the Authority by the notice dated 22 August 1993 and published in the Gazette on 2 September 1993 at page 2626) |
+|  |  | Ministry of Transport |
 |  |  | Department for Courts (access is limited to persons wanted in connection with fines enforcement) |
-| Missing persons | Particulars concerning persons missing or required to be located | Land Transport New Zealand (access is limited so as to exclude such particulars as the Police may determine in any case) |
+| Missing persons | Particulars concerning persons missing or required to be located | New Zealand Transport Agency (access is limited so as to exclude such particulars as the Police may determine in any case) |
 |  |  | Ministry of Justice (access is limited to persons required to be located in connection with fines enforcement) |
+|  |  | Ministry of Transport |
 | Firearms licences | Particulars of persons authorised to possess firearms in accordance with the Arms Act 1983 | Ministry of Justice (access is limited to identity details of persons who possess firearms, where that information is required for the purpose of serving orders made under the Domestic Violence Act 1995) |
+|  |  | Ministry of Transport |
 | Protection orders | Details of protection | Department of Corrections orders made under the (access is limited to Domestic Violence Act obtaining information 1995 about any offender who is subject to a protection order while also subject to— |
 |  |  | (a) a full-time custodial sentence (including while released on parole or subject to conditions imposed under section 93 of the Sentencing Act 2002); or |
 |  |  | (b) a sentence of periodic detention, supervision, intensive supervision, community service, community programme, community work, or community detention; or |
@@ -1646,6 +1656,7 @@ Except as provided in any other enactment, unique identifiers shall not be used 
 | Driver Licence register (except photographic images on driver licences) | A national register of all driver licences |  |
 |  |  | Department of Corrections |
 |  |  | Ministry of Justice |
+|  |  | Ministry of Transport |
 |  |  | Police |
 |  |  | Local authorities authorised under section 112 of this Act |
 |  |  | Serious Fraud Office |
@@ -1659,16 +1670,17 @@ Except as provided in any other enactment, unique identifiers shall not be used 
 | Subject | Description | Access Available to |
 | --- | --- | --- |
 | Motor vehicles register | A national register of all motor vehicles | Ministry of Justice |
+|  |  | Ministry of Transport |
 |  |  | Police |
 |  |  | Local authorities authorised under section 112 of this Act |
 |  |  | Serious Fraud Office |
-|  |  | Land Transport New Zealand (access is limited to obtaining information for the purposes of carrying out the functions conferred on the Authority by— |
+|  |  | New Zealand Transport Agency (access is limited to obtaining information for the purposes of carrying out the functions conferred on the Authority by— |
 |  |  | (a) section 69(1) of the Land Transport Management Act 2003: |
 |  |  | (b) The notice dated 22 August 1993 and published in the Gazette on 2 September 1993 at page 2626). |
 |  |  | Legal Services Agency (access is limited to obtaining information for the purpose of determining financial eligibility of an applicant for a grant of legal aid in relation to a criminal matter) |
 |  |  | An enforcement authority under the Land Transport Management Act 2003. |
 | Road user charges | Details of licences issued under the Road User Charges Act 1977 and details of the corresponding licence holders | Police (access is limited to obtaining information for the purpose of enforcing the Road User Charges Act 1977) |
-|  |  | Land Transport New Zealand (access is limited to obtaining information for the purposes of carrying out the functions conferred on the Authority by— |
+|  |  | New Zealand Transport Agency (access is limited to obtaining information for the purposes of carrying out the functions conferred on the Authority by— |
 |  |  | (a) section 69(1) of the Land Transport Management Act 2003: |
 |  |  | (b) The notice dated 22 August 1993 and published in the Gazette on 2 September 1993 at page 2626). |
 
@@ -1678,6 +1690,7 @@ Except as provided in any other enactment, unique identifiers shall not be used 
 | (a) the person's area of reporting: |  |  |
 | (b) in the case of a person released from a prison, the conditions of the person's release (whether imposed on release or imposed or varied subsequently, and including any direction issued to that person by a probation officer) |  |  |
 |  |  | Ministry of Justice |
+|  |  | Ministry of Transport |
 | Records of prisoners | Particulars of prisoners in a prison, including the date of release from the prison | Police (access is limited to the location and the date of release of the prisoner) Ministry of Justice |
 
 ## Schedule 6 — Enactments amended
