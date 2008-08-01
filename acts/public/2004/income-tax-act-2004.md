@@ -1,5 +1,5 @@
 # Income Tax Act 2004
-_Consolidation as at 2008-07-01_
+_Consolidation as at 2008-08-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2004.
@@ -26303,9 +26303,9 @@ If a share user under a share-lending arrangement deducts resident withholding t
   (e) any person whose principal form of business is—or any person which is—
     (i) the borrowing of money or accepting of deposits, whether on demand or for a fixed term, or the receiving of credit or the selling of any credit instrument; and
     (ii) the lending of money or granting of credit or buying or discounting of any credit instrument:
-    (iii) a solicitors' nominee company to which rules made by the Council of the New Zealand Law Society under section 17(2)(g) of the Law Practitioners Act 1982 apply; or
+    (iii) a nominee company that is subject to practice rules made by the Council of the New Zealand Law Society pursuant to section 96 of the Lawyers and Conveyancers Act 2006 and is operated by a barrister and solicitor or an incorporated law firm; or
     (iv) a broker's nominee company to which the Securities Act (Contributory Mortgage) Regulations 1988 apply:
-  (f) any solicitor in relation to the operations of that solicitor's trust account, being a trust account maintained in accordance with section 89 of the Law Practitioners Act 1982:
+  (f) any practitioner (within the meaning of the Lawyers and Conveyancers Act 2006) or incorporated firm (within the meaning of that Act) in relation to the operation of that practitioner's or incorporated firm's trust account, being a trust account maintained in accordance with section 112 of that Act:
   (g) any person who has furnished all returns of income that that person is required to furnish under the Income Tax Act 1976, the Income Tax Act 1994, or the Tax Administration Act 1994 within the time period prescribed in the relevant Act (or within such further time as the Commissioner has allowed), and who has for the tax year to which that person's most recently furnished income tax return relates annual gross income in excess of $2,000,000:
   (h) any person in any accounting year who has reasonable grounds for believing that the annual gross income of that person for the next accounting year of that person will exceed $2,000,000:
   (i) any person who derives in any tax year amounts that are exempt income under any of sections CW 31(2) (and, for this purpose, the Reserve Bank of New Zealand is not a public authority), CW 32(2), and CW 33 to CW 44 and CW 50 in relation to the activities of that person in the capacity in which that person derived that exempt income:
