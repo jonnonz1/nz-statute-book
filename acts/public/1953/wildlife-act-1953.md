@@ -1,5 +1,5 @@
 # Wildlife Act 1953
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-08-01_
 
 > An Act to consolidate and amend the law relating to the protection and control of wild animals and birds, the regulation of game shooting seasons, and the constitution and powers of acclimatisation societies
 
