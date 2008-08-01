@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2008-07-01_
+_Consolidation as at 2008-08-01_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -3097,7 +3097,7 @@ All applications, actions, appeals, proceedings, and other matters under any Act
 (2) Subsection (1) does not limit the provisions of the Interpretation Act 1999.
 
 ### 310 Saving in respect of bylaws of Transit New Zealand
-The repeal of section 684(1)(38) to (40) and of section 684(2) of the Local Government Act 1974 by this Act does not affect any bylaws made by Transit New Zealand under section 61(3) of the Transit New Zealand Act 1989 or the power of Transit New Zealand to make further bylaws under section 61(3) of that Act.
+The repeal of section 684(1)(38) to (40) and of section 684(2) of the Local Government Act 1974 by this Act does not affect any bylaws made by Transit New Zealand under section 61(3) of the Transit New Zealand Act 1989 or the power of the New Zealand Transport Agency to make further bylaws under section 61(3) of Government Roading Powers Act 1989.
 
 ### 311 Savings in respect of bylaws made in respect of Government roads
 The repeal of section 684(1)(38) to (40) and of section 684(2) of the Local Government Act 1974 by this Act does not affect any bylaws made by the Minister of Transport under section 48(2) of the Transit New Zealand Act 1989 or the power of the Minister of Transport to make further bylaws under section 48(2) of that Act.
