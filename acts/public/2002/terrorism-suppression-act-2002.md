@@ -1,5 +1,5 @@
 # Terrorism Suppression Act 2002
-_Consolidation as at 2007-11-20_
+_Consolidation as at 2008-08-01_
 
 ### 1 Title
 This Act is the Terrorism Suppression Act 2002.
@@ -592,8 +592,8 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
     (ii) a lawyer in his or her professional capacity and his or her client,—
   (b) it is made or brought into existence for the purpose of obtaining or giving legal advice or assistance; and
   (c) it is not made or brought into existence for the purpose of committing or furthering the commission of some illegal or wrongful act.
-(2) However, where the information consists wholly or partly of, or relates wholly or partly to, the receipts, payments, income, expenditure, or financial transactions of a specified person (whether a lawyer, his or her client, or any other person), it is not a privileged communication if it is contained in, or comprises the whole or part of, any book, account, statement or other record prepared or kept by the lawyer in connection with a trust account of the lawyer within the meaning of section 2 of the Law Practitioners Act 1982.
-(3) For the purposes of this section, references to a lawyer include a firm in which he or she is a partner or is held out to be a partner.
+(2) However, where the information consists wholly or partly of, or relates wholly or partly to, the receipts, payments, income, expenditure, or financial transactions of a specified person (whether a lawyer, his or her client, or any other person), it is not a privileged communication if it is contained in, or comprises the whole or part of, any book, account, statement or other record prepared or kept by the lawyer in connection with a trust account of the lawyer within the meaning of section 6 of the Lawyers and Conveyancers Act 2006.
+(3) For the purposes of this section, references to a lawyer include a firm or an incorporated law firm (within the meaning of the Lawyers and Conveyancers Act 2006) in which he or she is, or is held out to be, a partner, director, or shareholder.
 
 ### 46 Protection of persons
 (1) A person has immunity from civil, criminal, or disciplinary proceedings under subsection (2) if the person—
