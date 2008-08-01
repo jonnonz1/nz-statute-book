@@ -1,5 +1,5 @@
 # Local Government Act 1974
-_Consolidation as at 2008-07-02_
+_Consolidation as at 2008-08-01_
 
 > An Act to consolidate and amend the law relating to the reorganisation of the districts and functions of local authorities, to make better provision for the administration of those functions which can most effectively be carried out on a regional basis, and to make provision for the establishment of united councils, regional councils, district councils, district community councils, and community councils, and to consolidate and amend the Municipal Corporations Act 1954, the Counties Act 1956, the Local Authorities (Petroleum Tax) Act 1970, and provisions of other Acts of the Parliament of New Zealand relating to the powers and functions of regional councils, united councils, and territorial local authorities
 
@@ -118,7 +118,7 @@ _Consolidation as at 2008-07-02_
   - **Ship** has the same meaning as it has in section 2(1) of the Maritime Transport Act 1994
   - **special consultative procedure** means the procedure set out in section 83 of the Local Government Act 2002
   - **Special order**
-  - **State highway** means a State highway declared under section 60 of the Transit New Zealand Act 1989
+  - **State highway** means a State highway declared under section 60 of the Government Roading Powers Act 1989
   - **Subdivision**
   - **territorial authority** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **Territorial authority district** means a district in respect of which a territorial authority is constituted; and, in relation to land in respect of which the Minister of Local Government is the territorial authority, means that land
@@ -3469,7 +3469,7 @@ Nothing in this Act entitles any local authority—
   - **Private road** means any roadway, place, or arcade laid out or formed within a district on private land, whether before or after the commencement of this Part of this Act, by the owner thereof, but intended for the use of the public generally
   - **Private way** means any way or passage whatsoever over private land within a district, the right to use which is confined or intended to be confined to certain persons or classes of persons, and which is not thrown open or intended to be open to the use of the public generally; and includes any such way or passage as aforesaid which at the commencement of this Part of this Act exists within any district
   - **Regional council**
-  - **Road** means the whole of any land which is within a district, and which—and includes—but, except as provided in the Public Works Act 1981 or in any regulations under that Act, does not include a motorway within the meaning of that Act
+  - **Road** means the whole of any land which is within a district, and which—and includes—but, except as provided in the Public Works Act 1981 or in any regulations under that Act, does not include a motorway within the meaning of that Act or the Government Roading Powers Act 1989
     (a) Immediately before the commencement of this Part of this Act was a road or street or public highway; or
     (b) Immediately before the inclusion of any area in the district was a public highway within that area; or
     (c) Is laid out by the council as a road or street after the commencement of this Part of this Act; or
@@ -3487,7 +3487,7 @@ Nothing in this Act entitles any local authority—
 
 ### 316 Property in roads
 (1) Subject to section 318 of this Act, all roads and the soil thereof, and all materials of which they are composed, shall by force of this section vest in fee simple in the council of the district in which they are situated. There shall also vest in the council all materials placed or laid on any road in order to be used for the purposes thereof.
-(2) At the request of Transit New Zealand, a council may accept or relinquish its property, or any part of its property, in a State highway.
+(2) At the request of the New Zealand Transport Agency, a council may accept or relinquish its property, or any part of its property, in a State highway.
 (3) If a council acts under subsection (2),—
   (a) the property in the State highway vests in the council or in the Crown (as the case may be) without any instrument of transfer; and
   (b) on presentation of an authenticated copy of the relevant resolution, the Registrar-General of Land must alter the register accordingly.
@@ -3500,11 +3500,11 @@ Nothing in this Act entitles any local authority—
 ### 317 Control of roads
 (1) Subject to section 318 of this Act, all roads in the district shall be under the control of the council:
   Provided that—
-    (a) A State highway or part thereof shall be under the control of the council only where Transit New Zealand has, under section 62 of the Transit New Zealand Act 1989, delegated that control to the council:
+    (a) A State highway or part thereof shall be under the control of the council only where the New Zealand Transport Agency has, under section 62 of the Government Roading Powers Act 1989, delegated that control to the council:
     (b) A Government road shall be under the control of the Minister of Transport:
     (c)
 (2) Any powers conferred on the council by this Part of this Act may be exercised—
-  (a) In relation to any State highway or part thereof, only if that State highway or part is under the control of the council or the exercise of that power by the council has been consented to by Transit New Zealand:
+  (a) In relation to any State highway or part thereof, only if that State highway or part is under the control of the council or the exercise of that power by the council has been consented to by the New Zealand Transport Agency:
   (b)
 
 ### 318 Control and maintenance of boundary roads
@@ -3624,7 +3624,7 @@ Where a building-line restriction has been imposed under this Act or any former 
 ### 331 Footpaths and channels
 (1) the council may, in such manner as it thinks fit, form or upgrade footpaths on one side or both sides of any road, and may construct those footpaths of such dimensions and of such materials and in such manner as it thinks fit, and may impose a charge not exceeding half the cost of those works upon the owners of lands and buildings fronting the road. The amount so imposed shall be payable to the council and until paid shall be in every case a charge on the land.
 (2) In forming or reforming any road or part thereof (not being a road in a rural area), the council shall ensure that reasonable and adequate provision is made for the kerb and channel of any footpath or part thereof to be formed or reformed so as to permit safe and easy passage from kerb to kerb of any mechanical conveyance normally and lawfully used by a disabled person:
-  Provided that the Director of Land Transport may at any time exempt in whole or in part the forming or reforming of any road or part thereof from any requirements of this subsection, if, having regard to all the circumstances, he considers that it is reasonable to grant the exemption.
+  Provided that the New Zealand Transport Agency may at any time exempt in whole or in part the forming or reforming of any road or part thereof from any requirements of this subsection, if, having regard to all the circumstances, the New Zealand Transport Agency considers that it is reasonable to grant the exemption.
 
 ### 332 Cycle tracks
 (1) The council may on any road, or on any land vested in or under the control of the council, form a public cycle track, and may make bylaws under section 684 of this Act regulating and controlling the use of that cycle track.
@@ -3965,7 +3965,7 @@ The council shall take all sufficient precautions for the general safety of the 
   (c) A category C vehicle is a motor vehicle that has affixed to it either—
     (i) A number plate and a current licence label; or
     (ii) A number plate and a licence label that expired not more than 6 months before the council took possession of the vehicle.
-(6) For the purposes of this section, council, in relation to a State highway that is under the control of Transit New Zealand, means Transit New Zealand.
+(6) For the purposes of this section, council, in relation to a State highway that is under the control of the New Zealand Transport Agency, means the New Zealand Transport Agency.
 (7) Nothing in this section limits or affects anything in section 239 of the Public Works Act 1981.
 
 ### 356A Further provision in relation to removal of vehicles from roads
@@ -4001,7 +4001,7 @@ The council shall take all sufficient precautions for the general safety of the 
   - **public place** means a place that is—
     (a) under the control of the territorial authority; and
     (b) open to, or being used by, the public, whether or not there is a charge for admission
-  - **territorial authority** , in relation to a State highway that is under the control of Transit New Zealand, means Transit New Zealand.
+  - **territorial authority** , in relation to a State highway that is under the control of the New Zealand Transport Agency, means the New Zealand Transport Agency.
 
 ### 356B Relationship between section 356 and section 356A
 In any circumstances where a territorial authority is authorised to remove a motor vehicle under both section 356 and 356A, the territorial authority may only exercise its powers under section 356A.
@@ -7086,8 +7086,8 @@ With respect to bylaws under this Act, the following provisions shall apply:
   (38)
   (39)
   (40)
-  (41) Subject in the case of a State highway to the prior consent of Transit New Zealand and to any conditions imposed by that Authority, permitting hawkers, pedlars, keepers of stalls (including vehicles used as stalls) and keepers of mobile or travelling shops to occupy stands in such roads, public places, and State highways as the council thinks fit, and fixing charges in respect of those permits:
-  (41A) Subject in the case of a State highway to the prior consent of Transit New Zealand, prohibiting hawkers, pedlars, keepers of stalls (including vehicles used as stalls), and keepers of mobile or travelling shops to occupy stands—
+  (41) Subject in the case of a State highway to the prior consent of the New Zealand Transport Agency and to any conditions imposed by the Agency, permitting hawkers, pedlars, keepers of stalls (including vehicles used as stalls) and keepers of mobile or travelling shops to occupy stands in such roads, public places, and State highways as the council thinks fit, and fixing charges in respect of those permits:
+  (41A) Subject in the case of a State highway to the prior consent of the New Zealand Transport Agency, prohibiting hawkers, pedlars, keepers of stalls (including vehicles used as stalls), and keepers of mobile or travelling shops to occupy stands—
     (a) In specified roads or State highways or parts of specified roads or State highways; or
     (b) Where the presence of the stall or stand is likely to cause an obstruction or a danger to traffic, in any public place adjoining specified roads or State highways or parts of specified roads or State highways:
   (42)
