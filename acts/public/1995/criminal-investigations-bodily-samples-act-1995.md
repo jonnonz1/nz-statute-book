@@ -1,5 +1,5 @@
 # Criminal Investigations (Bodily Samples) Act 1995
-_Consolidation as at 2008-03-27_
+_Consolidation as at 2008-08-01_
 
 > An Act—aTo make provision for the taking of bodily samples for use in criminal investigations; andbTo authorise—iThe establishment of a databank of information derived from the analysis of bodily samples taken from certain persons; andiiThe use of information from that databank in criminal investigations; andcTo provide for matters incidental thereto
 
@@ -50,7 +50,7 @@ _Consolidation as at 2008-03-27_
       (ii) if the suspect fails or refuses to choose, chosen by a member of the police
   - **Indictable offence** has the same meaning as it has in the Summary Proceedings Act 1957
   - **Juvenile compulsion order** means an order made under section 23 of this Act
-  - **lawyer** means a barrister or solicitor as those terms are defined in section 2 of the Law Practitioners Act 1982
+  - **lawyer** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **nurse** means a health practitioner who is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions.
   - **Parent** , in relation to a person who is under the age of 17 years,—
