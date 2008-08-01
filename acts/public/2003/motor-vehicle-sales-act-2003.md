@@ -1,5 +1,5 @@
 # Motor Vehicle Sales Act 2003
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2008-08-01_
 
 ### 1 Title
 This Act is the Motor Vehicle Sales Act 2003.
@@ -93,7 +93,7 @@ This Act binds the Crown.
   - **moped** has the meaning given to it by section 2(1) of the Transport (Vehicle and Driver Registration and Licensing) Act 1986
   - **motor cycle** —
     (a) means a motor vehicle running on 2 wheels, or on not more than 3 wheels when fitted with a sidecar; and
-    (b) includes any vehicle with motor cycle controls declared by the Director of Land Transport to be a motor cycle; but
+    (b) includes any vehicle with motor cycle controls declared by the New Zealand Transport Agency to be a motor cycle; but
     (c) does not include a moped
   - **motor vehicle** —
     (a) means any of the following:
