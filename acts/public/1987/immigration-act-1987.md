@@ -1,5 +1,5 @@
 # Immigration Act 1987
-_Consolidation as at 2008-05-04_
+_Consolidation as at 2008-08-01_
 
 > An Act generally to reform the law relating to immigration, and in particular to remove the need for persons who are in New Zealand unlawfully to be dealt with by way of criminal prosecution
 
@@ -3517,7 +3517,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
 | New Zealand Post Limited | Postal delivery records |
 | Telecom Corporation of Zealand Limited | Telephone subscriber records, other than confidential listings |
 | The department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Social Security Act 1964 |  |
-| Land Transport New Zealand |  |
+| New Zealand Transport Agency |  |
 | Power supply authorities | Customer names and addresses |
 | Local authorities | Customer names and addresses |
 | Energy companies under the Energy Companies Act 1992 | Customer names and addresses |
