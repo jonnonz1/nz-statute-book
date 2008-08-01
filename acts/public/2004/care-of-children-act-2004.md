@@ -1,5 +1,5 @@
 # Care of Children Act 2004
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2008-08-01_
 
 ### 1 Title
 This Act is the Care of Children Act 2004.
@@ -79,7 +79,7 @@ In this Act, unless the context otherwise requires,—
   - **faxed copy** , in relation to a warrant issued under this Act, means a copy of the warrant that is produced by a fax machine, computer, or other electronic device when the warrant is sent by facsimile transmission
   - **guardian** and have the meanings given to them by section 15
   - **High Court** includes a Judge of that Court
-  - **lawyer** means a barrister or solicitor, as those terms are defined in section 2 of the Law Practitioners Act 1982
+  - **lawyer** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006
   - **litigation guardian** —
     (a) has the same meaning as the expression guardian ad litem; and
     (b) in section 31(2)(e), includes a next friend
