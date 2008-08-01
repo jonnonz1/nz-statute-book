@@ -1,5 +1,5 @@
 # Births, Deaths, and Marriages Registration Act 1995
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-08-01_
 
 > An Act to provide for—aThe recording of information relating to births, citizenship by birth, names, adoptions, sexual assignment and reassignment, deaths, marriages, and civil unions; andbAccess to information recorded in respect of any such matter; andcThe provision and effect of certificates relating to information recorded in respect of any birth, death, marriage, or civil union
 
@@ -1034,7 +1034,7 @@ The enactments specified in the Second Schedule to this Act are hereby repealed.
 |  |  | (a) | the tax file number of the person: |
 |  |  | (b) | the details of an applicant for child support |
 |  | Death information | To identify deceased taxpayers and verify their details |  |
-| Land Transport New Zealand | Birth information and civil union information | To verify details supplied by an applicant for a driver licence |  |
+| New Zealand Transport Agency | Birth information and civil union information | To verify details supplied by an applicant for a driver licence |  |
 |  | Marriage information | To verify the change of name of the holder of a driver licence |  |
 |  | Death information | To identify deceased holders of driver licences |  |
 | Department of Labour | Birth information | To verify— |  |
