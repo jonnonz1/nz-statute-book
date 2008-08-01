@@ -1,5 +1,5 @@
 # Securities Transfer Act 1991
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2008-08-01_
 
 > An Act to consolidate and amend the law relating to the transfer of securities and to repeal the Securities Transfer Act 1977
 
@@ -11,7 +11,7 @@ In this Act, unless the context otherwise requires,—
   - **Authorised public securities dealer** means a person (including a body of persons, whether incorporated or not) for the time being approved by the Minister of Finance, by notice in the Gazette, as a public securities dealer for the purposes of this Act
   - **Authorised transaction** means a sale, gift, or other disposition of securities in which each of the parties is, or is acting through the agency of,—acting in the ordinary course of business as such
     (a) a person authorised to undertake trading activities on a stock exchange's market; or
-    (b) A solicitor (as defined in section 2 of the Law Practitioners Act 1982) in practice on his or her own account; or
+    (b) A solicitor (as defined in section 6 of the Lawyers and Conveyancers Act 2006) in practice on his or her own account; or
     (c) A chartered accountant (within the meaning of section 19 of the Institute of Chartered Accountants of New Zealand Act 1996); or
     (d) A trustee corporation (as defined in section 2 of the Trustee Act 1956); or
     (e) A registered bank (as defined in section 2 of the Reserve Bank of New Zealand Act 1989); or
