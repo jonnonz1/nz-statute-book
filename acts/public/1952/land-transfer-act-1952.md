@@ -1,5 +1,5 @@
 # Land Transfer Act 1952
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2008-08-01_
 
 > An Act to consolidate and amend certain enactments relating to the registration and transfer of title to land
 
@@ -35,7 +35,9 @@ In this Act, and in all instruments purporting to be made and executed under thi
   - **Mortgagee** means the proprietor of a mortgage
   - **Mortgagor** means the proprietor of any estate or interest charged with a mortgage
   - **paper instrument** means an instrument that is not an electronic instrument
-  - **practitioner**
+  - **practitioner** means—
+    (a) a practitioner within the meaning of section 6 of the Lawyers and Conveyancers Act 2006; or
+    (b) a landbroker licensed by the Registrar under section 229 of this Act
   - **Proprietor** means any person seised or possessed of any estate or interest in land, at law or in equity, in possession or expectancy
   - **register** includes a computer register
   - **Registrar** and
@@ -1247,7 +1249,7 @@ In any action for a breach of any implied covenant, the covenant alleged to be b
 Every paper instrument executed and registered under this Act is presumed to have been sufficiently executed in the absence of evidence to the contrary, and is sufficient evidence in any Court of the matters to which it relates.
 
 ### 164 Correctness of instrument to be certified
-(1) No Registrar shall receive any application for bringing land under this Act, or any instrument purporting to deal with or affect any estate or interest under the provisions hereof, unless there is endorsed thereon a certificate that the same is correct for the purposes of the Act, signed by the applicant or party claiming under or in respect of the instrument, or by a licensed landbroker or a solicitor of the High Court employed by that applicant or party:
+(1) No Registrar shall receive any application for bringing land under this Act, or any instrument purporting to deal with or affect any estate or interest under the provisions hereof, unless there is endorsed thereon a certificate that the same is correct for the purposes of the Act, signed by the applicant or party claiming under or in respect of the instrument, or by a practitioner employed by that applicant or party:
   Provided that where any instrument has not been certified as correct under the foregoing provisions of this subsection any other person who is a party to the instrument or claims any interest thereunder or in respect thereof or his legal personal representative may apply to the High Court for authority to certify that the instrument is correct for the purposes of this Act, and the Court may order accordingly if it is satisfied that it is just and expedient that the authority be granted; and, upon production of a sealed copy of the order, the Registrar may register the instrument if it is certified as correct for the purposes of this Act by the person so authorised.
 (2) A corporation may authorise any person to certify on its behalf.
 (3) Every person who falsely or negligently certifies to the correctness of any such application or other instrument commits an offence, and is liable on summary conviction before a District Court Judge to a fine not exceeding $100.
@@ -1265,7 +1267,7 @@ Every paper instrument executed and registered under this Act is presumed to hav
 (4) Regulations made under this Act may prescribe the form of certifications under this section.
 
 ### 164B Who may give certification
-(1) A certification under section 164A may be given only by a conveyancer.
+(1) A certification under section 164A may be given only by a practitioner.
 (2) The Registrar may revoke a person's right to give a certification under section 164A at any time if he or she believes on reasonable grounds that the person—
   (a) has given a fraudulent certification; or
   (b) has given a certification that is materially incorrect; or
@@ -1407,8 +1409,8 @@ If in any such action judgment is given in favour of the Crown, or the plaintiff
 (1) Where any sum of money has been lawfully paid out of the Crown Bank Account as compensation for any loss occasioned—the amount of that compensation, together with all costs incurred in testing or defending any claim or action in relation thereto, shall be deemed a debt due to the Crown from the person legally responsible for that fraud, fraudulent omission, misdescription, or misrepresentation, as the case may be, and may be recovered from him, or from his personal representatives, by action at law, in the name of the Registrar-General, or, in case of bankruptcy, may be proved as a debt due from his estate.
   (a) By fraud, or by fraudulent omission, misdescription, or misrepresentation of any kind on the part of any proprietor in bringing land under any of the Land Transfer Acts; or
   (b) By fraud on the part of any person causing or procuring himself to be registered as a proprietor under any of the Land Transfer Acts by virtue of any dealing with or transmission from a registered proprietor—
-(1A) Without limiting subsection (1) of this section, where any sum of money has been lawfully paid out of the Public Account as compensation for any loss or damage sustained in any case to which section 172A of this Act applies and that loss or damage was caused wholly or partly by the negligence of the purchaser's conveyancer, the amount of that compensation (together with all costs incurred in testing or defending any claim or action in relation to that compensation), to the extent that it may properly be attributed to that conveyancer's negligence, shall be deemed a debt due to the Crown from that conveyancer, and may be recovered from him, or from his personal representatives, by action at law, in the name of the Registrar-General, or, in case of bankruptcy, may be proved as a debt due from his estate.
-(1B) No conveyancer shall be held for the purposes of subsection (1A) of this section to have acted negligently merely because he relied on a search copy issued under and for the purposes of section 172A of this Act without also searching any journal or other record kept by the Registrar unless, in the special circumstances of the case, a prudent and competent conveyancer would have searched that journal or other record.
+(1A) Without limiting subsection (1) of this section, where any sum of money has been lawfully paid out of the Public Account as compensation for any loss or damage sustained in any case to which section 172A of this Act applies and that loss or damage was caused wholly or partly by the negligence of the purchaser's practitioner, the amount of that compensation (together with all costs incurred in testing or defending any claim or action in relation to that compensation), to the extent that it may properly be attributed to that practitioner's negligence, shall be deemed a debt due to the Crown from that practitioner, and may be recovered from him, or from his personal representatives, by action at law, in the name of the Registrar-General, or, in case of bankruptcy, may be proved as a debt due from his estate.
+(1B) No practitioner shall be held for the purposes of subsection (1A) of this section to have acted negligently merely because he relied on a search copy issued under and for the purposes of section 172A of this Act without also searching any journal or other record kept by the Registrar unless, in the special circumstances of the case, a prudent and competent practitioner would have searched that journal or other record.
 (2) A certificate signed by the Minister of Finance, verifying the fact of any payment out of the Crown Bank Account, shall be prima facie proof that such payment was made as aforesaid.
 (3) All moneys recovered in any action as aforesaid shall be paid to the credit of the Crown Bank Account.
 
