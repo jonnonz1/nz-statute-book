@@ -1,5 +1,5 @@
 # Law Practitioners Act 1982
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-08-01_
 
 > An Act to consolidate and amend the law relating to law practitioners
 
@@ -1816,3 +1816,281 @@ Every person who commits an offence against this Act for which no penalty is pro
 (3) Every reference in any other Act or in any regulation, rule, instrument, or other document to the taxation of a solicitor's costs shall, unless the context otherwise requires, be read as a reference to their revision.
 
 ## Schedule Schedule — Enactments Repealed
+
+### 1 Title
+This Act is the Lawyers and Conveyancers Act 2006.
+
+### 2 Commencement
+This Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more orders may be made appointing different dates for different provisions.
+
+## Part 11 — Miscellaneous provisions
+
+**Transitional provisions in respect of complaints and disciplinary proceedings**
+
+### 350 Prohibition on complaints and investigations under Law Practitioners Act 1982
+After the commencement of this section,—
+  (a) no complaint may be made under section 98(1) of the Law Practitioners Act 1982; and
+  (b) no complaint (other than a complaint received before the commencement of this section) may be referred, under section 98(2) of the Law Practitioners Act 1982, to a District Law Society; and
+  (c) no investigation into any matter may be commenced under section 99 of the Law Practitioners Act 1982.
+
+### 351 Complaints about conduct before commencement of section
+(1) If a lawyer or former lawyer or employee or former employee of a lawyer is alleged to have been guilty, before the commencement of this section, of conduct in respect of which proceedings of a disciplinary nature could have been commenced under the Law Practitioners Act 1982, a complaint about that conduct may be made, after the commencement of this section, to the complaints service established under section 121(1) by the New Zealand Law Society.
+(2) Despite subsection (1), no person is entitled to make under this Act—
+  (a) a complaint that has been disposed of under the Law Practitioners Act 1982; or
+  (b) a complaint in respect of—
+    (i) conduct that occurred more than 6 years before the commencement of this section; or
+    (ii) regulated services that were delivered more than 6 years before the commencement of this section; or
+    (iii) a bill of costs that was rendered more than 6 years before the commencement of this section.
+(3) For the purposes of subsection (2), a complaint is treated as having been disposed of under the Law Practitioners Act 1982—
+  (a) if a District Law Society, after considering the complaint, decided that the Society would not take any further steps or action on it and the complainant did not, within 3 months after the date on which the complainant was notified of the decision, refer to a Lay Observer, for examination, a written allegation concerning the District Law Society's treatment of the complaint; or
+  (b) if a Lay Observer, after examining a written allegation made by the complainant concerning the District Law Society's treatment of the complaint, has not indicated in his or her report that he or she would be taking further steps or making further inquiries with regard to the allegation; or
+  (c) if the New Zealand Law Society, after reviewing—decided not to refer the report or recommendation back to the District Law Society for further consideration; or
+    (i) the consideration given by the District Law Society to the report or recommendation of the Lay Observer; and
+    (ii) the action (if any) taken by the District Law Society in consequence of the report or recommendation of the Lay Observer,—
+  (d) if any charge laid against a barrister and solicitor before either a District Law Practitioners Disciplinary Tribunal or the New Zealand Law Practitioners Disciplinary Tribunal as a result of the complaint has been finally determined.
+
+### 352 Penalty
+(1) If a complaint is made under this Act about conduct that occurred before the commencement of this section, any penalty imposed in respect of that conduct must be a penalty that could have been imposed in respect of that conduct at the time when that conduct occurred.
+(2) Despite subsection (1), the penalties that may be imposed in respect of conduct that occurred before the commencement of this section may, with the consent of the person on whom 1 or more of those penalties may be imposed, include (either in substitution for, or in addition to, any of the penalties that could have been imposed in respect of that conduct at the time when the conduct occurred) any of the penalties that could have been imposed under this Act in respect of that conduct if it had occurred after the commencement of this section.
+
+### 353 Continuation of disciplinary proceedings and certain other proceedings
+(1) This section applies to the following proceedings:
+  (a) all proceedings in relation to all investigations, inquiries, applications, appeals, and other proceedings of a disciplinary nature under the Law Practitioners Act 1982 which have been commenced before the commencement of this section and which have not been determined or completed before the commencement of this section:
+  (b) all proceedings in relation to applications by practitioners for the restoration of their names to the roll which have been made before the commencement of this section under section 116 of the Law Practitioners Act 1982 and which have not been determined before the commencement of this section:
+  (c) all proceedings which relate to the revision of bills of costs and which have been commenced but not completed. under Part 8 of the Law Practitioners Act 1982 before the commencement of this section.
+(2) The proceedings to which this section applies are, subject to sections 354 to 361 of this Act, to be continued and completed as if the Law Practitioners Act 1982 had not been repealed.
+
+### 354 Continuation of Lay Observers
+(1) Despite the repeals effected by this Act, every person who, immediately before the commencement of this section, holds office under section 96 of the Law Practitioners Act 1982 as a Lay Observer is, unless he or she sooner vacates office under section 120(4) of that Act, to continue to hold office until the close of the period of 6 months beginning with the date of the commencement of this section for the purpose of discharging his or her functions or exercising his or her powers in relation to any complaints made or proceedings commenced before the commencement of this section.
+(2) For the purposes of subsection (1), each Lay Observer to whom that subsection applies has all necessary powers and may exercise, despite the repeals effected by this Act, the powers conferred on a Lay Observer by the repealed enactments, which apply accordingly with all necessary modifications.
+(3) Sections 120 to 122 of the Law Practitioners Act 1982 continue, despite the repeal of that Act, to have effect, until the close of the period of 6 months beginning with the date of the commencement of this section, in relation to any person continued in office by subsection (1) of this section.
+
+### 355 Exercise by Legal Complaints Review Officer of role of Lay Observer
+(1) If any proceedings to which section 353 of this Act applies have not been determined by the close of the period of 6 months beginning with the date of the commencement of this section or cannot be determined before the end of that period because a Lay Observer continued in office by section 354 has, before the end of that period, vacated office, then, from the end of that period or from any earlier date on which the Lay Observer vacates office, the Legal Complaints Review Officer has, despite the repeals effected by this Act, the duties and powers that a Lay Observer would have, under the Law Practitioners Act 1982, in relation to those proceedings if that Act had not been repealed.
+(2) Despite subsection (1), sections 97(5), 97(6), 97(9), and 97A of the Law Practitioners Act 1982 are to have effect, for the purposes of that subsection, as if, for the words District Law Society wherever they occur, there were substituted in each case the words complaints service established under section 121(1) of the Lawyers and Conveyancers Act 2006 by the New Zealand Law Society.
+
+### 356 Exercise by Lawyers Standards Committee of role of complaints committee
+If any proceedings to which section 353 of this Act applies have not been determined by the close of the period of 6 months beginning with the date of the commencement of this section, the New Zealand Law Society must, despite the repeals effected by this Act, appoint a Lawyers Standards Committee (not being a Lawyers Standards Committee that has under section 357 of this Act the powers of a District Disciplinary Tribunal in relation to those proceedings) to carry out the duties and exercise the powers that a complaints committee appointed pursuant to section 100 of the Law Practitioners Act 1982 would have had, under that Act, in relation to those proceedings if that Act had not been repealed and the relevant complaint or matter had been referred to it.
+
+### 357 Exercise by Lawyers Standards Committee of role of District Disciplinary Tribunal
+(1) If any proceedings to which section 353 of this Act applies have not been determined by the close of the period of 6 months beginning with the date of the commencement of this section, the New Zealand Law Society must, despite the repeals effected by this Act, appoint a Lawyers Standards Committee (not being a Lawyers Standards Committee that has, under section 356, the powers of a complaints committee in relation to those proceedings) to carry out the duties and exercise the powers that a District Disciplinary Tribunal within the meaning of the Law Practitioners Act 1982 would have had, under that Act, in relation to those proceedings if that Act had not been repealed.
+(2) Section 106(4) of the Law Practitioners Act 1982 has effect, for the purposes of subsection (1) of this section, as if, for the words District Law Society in both places where they appear, there were substituted in each case the words New Zealand Law Society.
+
+### 358 Exercise by New Zealand Lawyers and Conveyancers Disciplinary Tribunal of role of New Zealand Law Practitioners Disciplinary Tribunal
+(1) If any proceedings to which section 353 of this Act applies have not been determined by the close of the period of 6 months beginning with the date of the commencement of this section, then, from the close of that period, the New Zealand Lawyers and Conveyancers Disciplinary Tribunal has, despite the repeals effected by this Act, the duties and powers that the New Zealand Law Practitioners Disciplinary Tribunal established under the Law Practitioners Act 1982 would have had, under that Act, in relation to those proceedings if that Act had not been repealed.
+(2) Despite subsection (1), no conveyancer may sit as a member of the New Zealand Lawyers and Conveyancers Disciplinary Tribunal when it is carrying out the duties or exercising the powers of the New Zealand Law Practitioners Disciplinary Tribunal.
+
+### 359 Appeal from decision of District Disciplinary Tribunal or Lawyers Standards Committee exercising powers of District Disciplinary Tribunal
+(1) Despite the repeals effected by this Act, an appeal to the New Zealand Lawyers and Conveyancers Disciplinary Tribunal may be brought under section 107 of the Law Practitioners Act 1982 against any order or decision made under Part 7 of the Law Practitioners Act 1982 by a District Disciplinary Tribunal or by the Lawyers Standards Committee appointed under section 357 of this Act to carry out the duties and exercise the powers of a District Disciplinary Tribunal, not being a decision to refer a case to the New Zealand Law Practitioners Disciplinary Tribunal or the New Zealand Lawyers and Conveyancers Disciplinary Tribunal.
+(2) An appeal under section 107 of the Law Practitioners Act 1982 (as applied and modified by sections 356 and 357 of this Act and this section) may be brought only by—
+  (a) the practitioner to whom the order or decision relates; or
+  (b) the Standards Committee referred to in section 361(2) of this Act.
+(3) section 107(3) of the Law Practitioners Act 1982 has effect, for the purposes of subsection (1) of this section, as if, for the words New Zealand Disciplinary Tribunal, there were substituted the words New Zealand Lawyers and Conveyancers Disciplinary Tribunal.
+(4) The Law Practitioners Act 1982 is (subject to the modifications made to it by this Act) to have effect in relation to any appeal under section 107 of the Law Practitioners Act 1982 as if that Act had not been repealed.
+
+### 360 Appeal from decision of New Zealand Law Practitioners Disciplinary Tribunal or New Zealand Lawyers and Conveyancers Disciplinary Tribunal
+(1) Despite the repeals effected by this Act, an appeal to the High Court may be brought under section 118 of the Law Practitioners Act 1982 against any order or decision made under Part 7 of the Law Practitioners Act 1982 or under section 58 of that Act by the New Zealand Law Practitioners Disciplinary Tribunal or by the New Zealand Lawyers and Conveyancers Disciplinary Tribunal.
+(2) An appeal under section 118 of the Law Practitioners Act 1982 (as applied and modified by section 358 of this Act and this section) may be brought only by—
+  (a) the practitioner or person to whom the order or decision relates:
+  (b) the Standards Committee referred to in section 361(2) of this Act, where the proceedings before the New Zealand Law Practitioners Disciplinary Tribunal or the New Zealand Lawyers and Conveyancers Disciplinary Tribunal were—
+    (i) brought by a District Council (within the meaning of the Law Practitioners Act 1982) or a committee appointed under section 100 of that Act; or
+    (ii) commenced by the referral of a charge to the New Zealand Law Practitioners Disciplinary Tribunal or the New Zealand Lawyers and Conveyancers Disciplinary Tribunal by a District Disciplinary Tribunal within the meaning of the Law Practitioners Act 1982 or a Lawyers Standards Committee appointed under section 357 of this Act to carry out the duties and exercise the powers of such a District Disciplinary Tribunal;
+    (iii) or by way of appeal against an order or decision of a District Disciplinary Tribunal (within the meaning of the Law Practitioners Act 1982) or a Lawyers Standards Committee appointed under section 357 of this Act to carry out the duties and exercise the powers of such a District Disciplinary Tribunal:
+  (c) the Standards Committee referred to in section 361(2) of this Act, where the proceedings before the New Zealand Law Practitioners Disciplinary Tribunal or the New Zealand Lawyers and Conveyancers Disciplinary Tribunal were commenced by the referral to the Tribunal of a matter concerning the issue of a practising certificate under section 58 of the Law Practitioners Act 1982.
+(3) The Law Practitioners Act 1982 is (subject to the modifications made to it by this Act) to have effect in relation to any appeal under section 118 of the Law Practitioners Act 1982 as if that Act had not been repealed.
+
+### 361 Revision of practitioner's bill of costs
+(1) If a District Council within the meaning of the Law Practitioners Act 1982 has not completed, before the close of the period of 6 months beginning with the date of the commencement of this section, the revision under Part 8 of that Act of a practitioner's bill of costs, that revision must be undertaken by the Lawyers Standards Committee appointed under section 356 of this Act to carry out the duties and exercise the powers of a complaints committee appointed pursuant to section 100 of the Law Practitioners Act 1982.
+(2) Section 143 of the Law Practitioners Act 1982 has effect, for the purposes of subsection (1) of this section, as if, for the words A District Law Society, there were substituted the words The Lawyers Standards Committee appointed under section 356 of the Lawyers and Conveyancers Act 2006 to carry out the duties and exercise the powers of a complaints committee appointed pursuant to section 100 of the Law Practitioners Act 1982.
+(3) Despite the repeals effected by this Act, an appeal to the Registrar (within the meaning of the Law Practitioners Act 1982) may be brought under section 148 of the Law Practitioners Act 1982 against the decision of the Lawyers Standards Committee referred to in subsection (2) of this section if the decision could have been the subject of an appeal under section 148 of that Act if it had been made before the commencement of this section by a District Council.
+(4) section 148 of the Law Practitioners Act 1982 has effect, for the purposes of an appeal of the kind described in subsection (3) of this section, as if, for the words a District Council in both places where they occur, there were substituted in each case the words the Standards Committee referred to in section 361(2) of the Lawyers and Conveyancers Act 2006.
+(5) An appeal to the High Court against any decision of the Registrar under section 148 of the Law Practitioners Act 1982 (as applied and modified by this section) may be brought under section 149 of that Act as if that Act had not been repealed.
+
+**Transitional provision relating to Law Society inspectorate**
+
+### 362 Law Society inspectorate
+(1) Despite the repeal of the Law Practitioners Act 1982 by this Act, every person who, by virtue of an appointment under section 88A(2)(a) of that Act as an inspector, is, at the commencement of this section, a member of the Law Society inspectorate both—
+  (a) continues to be, subject to his or her terms and conditions of employment and to subsection (6) of this section, a member of that inspectorate; and
+  (b) is deemed to be, subject to his or her terms and conditions of employment and to subsection (6) of this section, a member of the Law Society inspectorate established by the New Zealand Law Society pursuant to regulations made under section 115 of this Act.
+(2) An inspector continued in office by subsection (1)(a) of this section may, in relation to any complaints made or proceedings commenced or reviews or investigations begun before the commencement of this Act, discharge his or her functions and duties under the Law Practitioners Act 1982 and any regulations made under section 91 of that Act.
+(3) For the purposes of subsection (2) of this section, each inspector to whom that subsection applies has all necessary powers and may exercise, despite the repeals effected by this Act, the rights and powers conferred on the Law Society inspectorate by any regulations made, before the commencement of this section, under section 91 of the Law Practitioners Act 1982.
+(4) Subsections (4) to (6) of section 88A of the Law Practitioners Act 1982 continue, despite the repeal of that Act, to have effect in relation to any person continued in office by subsection (1) of this section.
+(5) The Law Society inspectorate continued in office by subsection (1) of this section must report on its operations to the Council of the New Zealand Law Society at such times and in such form as may from time to time be required by that Council.
+(6) The New Zealand Law Society may remove from the office to which subsection (1)(a) of this section relates or from the office to which subsection (1)(b) of this section relates or from both any inspector continued in office by subsection (1) of this section.
+(7) The repeal of the Law Practitioners Act 1982 does not affect the liability of any person to pay any fee that, at the commencement of this section, is payable by that person pursuant to a resolution made under section 88A(7) of that Act.
+
+**Transitional provisions relating to barristers and solicitors**
+
+### 371 Persons deemed to have been admitted as barristers and solicitors
+Despite the repeal of the Law Practitioners Act 1982 by this Act, where any person deemed by that Act to have been admitted as a barrister and solicitor is, at the commencement of this section, a person who is entitled, while his or her qualification continues, to practise in or before any court or tribunal, that person is deemed to have been admitted as a barrister and solicitor under this Act.
+
+**Transitional provisions relating to dissolution of District Law Societies**
+
+### 372 Continuation and dissolution of District Law Societies
+Despite the repeal of the Law Practitioners Act 1982, every District Law Society constituted under that Act and existing at the commencement of this section—
+  (a) continues in being under its current rules until the close of the period of 6 months beginning with the date of the commencement of this section; but
+  (b) is dissolved as from the close of the period of 6 months beginning with the date of the commencement of this section.
+
+### 373 Assets and liabilities of District Law Societies
+(1) If the members of any District Law Society to which section 372 applies resolve, before the close of the period of 6 months beginning with the date of the commencement of this section, that the assets and liabilities of the society become those of a society which is incorporated under the Incorporated Societies Act 1908 and which is named in the resolution, those assets and liabilities become, as from the close of that period, assets and liabilities of that incorporated society if, as at the close of that period, the assets of the District Law Society exceed its liabilities.
+(2) If the assets and liabilities of a District Law Society to which section 372 applies do not, under subsection (1) of this section, become, as from the close of the period of 6 months beginning with the date of the commencement of this section, those of an incorporated society, those assets and liabilities become, as from the close of that period, assets and liabilities of the New Zealand Law Society.
+(3) The assets vested by subsection (1) in an incorporated society do not include any records of the kind referred to in section 379(1).
+
+### 374 Power to transfer assets of District Law Society library
+(1) A District Law Society to which section 372 applies may, before the close of the period of 6 months specified in section 373(1), transfer to any body specified in subsection (2) of this section any assets of the law library provided and maintained by that District Law Society under section 26(2) of the Law Practitioners Act 1982.
+(2) The bodies to which assets may be transferred under subsection (1) are as follows:
+  (a) a District Law Society to which section 372 applies:
+  (b) an incorporated society named in a resolution passed under section 373(1)—
+    (i) by the members of the District Law Society by which the transfer is made; or
+    (ii) by the members of any other District Law Society to which section 372 applies:
+  (c) the New Zealand Law Society.
+(3) Subject to subsections (4) and (5), a transfer made under subsection (1) by a District Law Society may be made—
+  (a) with or without consideration or for an inadequate consideration, and upon such terms and conditions as may be agreed upon between the District Law Society and the body to which the assets are being transferred; and
+  (b) whether or not the members of the District Law Society have passed a resolution under section 373(1).
+(4) A transfer may be made under subsection (1) by a District Law Society only if its assets—
+  (a) exceed its liabilities; and
+  (b) will, at the time when the transfer takes effect, exceed its liabilities.
+(5) A transfer made under subsection (1) does not operate to affect the rights existing at the time of the transfer of any creditor of the District Law Society, whether secured or unsecured, and such rights are, if necessary, to enure against the transferee.
+
+### 375 Power of incorporated society to provide law library
+(1) If the assets of a District Law Society that become, under section 373(1), the assets of an incorporated society named in a resolution made under section 373(1) include the assets of a law library provided and maintained by a District Law Society under section 26(2) of the Law Practitioners Act 1982, the incorporated society so named may continue to provide and maintain law libraries in such towns in New Zealand as the governing body of that incorporated society directs.
+(2) Every library provided and maintained under subsection (1) is to be for the use of the High Court and such other courts as the governing body of the incorporated society so named directs, and of lawyers, and must be managed as that governing body directs.
+
+### 376 Power to contribute to funding of law libraries
+(1) The New Zealand Law Society may from time to time, in the period of 5 years beginning with the close of the period of 6 months referred to in section 373(1), contribute to the funding of law libraries provided and maintained under section 375(1).
+(2) For the purposes of sections 67, 73(3), and 74, the exercise by the New Zealand Law Society in the period referred to in subsection (1) of the power conferred on that Society by that subsection is deemed to be the exercise by that Society of a regulatory power.
+
+### 377 Members to have no right to property on dissolution of incorporated society
+(1) If, under section 373(1), assets and liabilities of a District Law Society become assets and liabilities of an incorporated society, the members of that incorporated society may not divide between them, on the dissolution of that incorporated society, all or any of its property.
+(2) Nothing in the Incorporated Societies Act 1908 or the rules of an incorporated society limits subsection (1).
+
+### 378 Consequential provisions in relation to assets, money, and property
+(1) Where, under section 373, assets of a District Law Society become assets of an incorporated society or the New Zealand Law Society,—
+  (a) any real and personal property of that District Law Society that becomes, as from the close of the period of 6 months beginning with the date of the commencement of section 373, an asset of an incorporated society or the New Zealand Law Society, vests, as from the close of that period, in the incorporated society or the New Zealand Law Society, as the case may require, subject to all liabilities, charges, obligations, and trusts affecting that property; and
+  (b) all money payable to the District Law Society becomes, as from the close of the period of 6 months beginning with the date of the commencement of section 373, payable to the incorporated society or the New Zealand Law Society, as the case may require; and
+  (c) all proceedings pending by or against the District Law Society may, as from the close of the period of 6 months beginning with the date of the commencement of section 373, be carried on, completed, or enforced by or against the incorporated society or the New Zealand Law Society, as the case may require.
+(2) The property vested by subsection (1) in an incorporated society does not include any records of the kind referred to in section 379(1).
+
+### 379 Records relating to regulatory activities
+(1) Every District Law Society to which section 372 applies must, before it is dissolved by section 372(b), transfer to the New Zealand Law Society all records that are held by the District Law Society and relate to the regulatory activities of the District Law Society under the Law Practitioners Act 1982 or any corresponding former Act, including, in particular, all documents relating to—
+  (a) the admission and enrolment of barristers and solicitors:
+  (b) the striking off the roll, or the restoration to the roll, of the names of practitioners:
+  (c) the removal of the name of any practitioner from the roll of barristers and solicitors:
+  (d) the issue and currency of practising certificates as barristers, or as barristers and solicitors:
+  (e) the withholding of practising certificates as barristers, or as barristers and solicitors:
+  (f) the suspension from practice of practitioners practising within the District Law Society's district:
+  (g) the payment of practising fees:
+  (h) the commission of offences against the Law Practitioners Act 1982 or any corresponding former Act:
+  (i) the exercise under sections 70 to 78 of the Law Practitioners Act 1982, or the corresponding provisions of any former Act, of the powers of the Council of the District Law Society:
+  (j) the operation of Part 5 of the Law Practitioners Act 1982 (which relates to intervention in solicitor's practice) or the corresponding provisions of any former Act:
+  (k) the operation of Part 6 of the Law Practitioners Act 1982 (which relates to solicitors' trust accounts), or the corresponding provisions of any former Act:
+  (l) the operation of Part 7 of the Law Practitioners Act 1982 (which relates to discipline within the legal profession) or the corresponding provisions of any former Act:
+  (m) the operation of Part 8 of the Law Practitioners Act 1982 (which relates to practitioners' costs) or the corresponding provisions of any former Act:
+  (n) the operation of Part 9 of the Law Practitioners Act 1982 (which relates to the Solicitors' Fidelity Guarantee Fund).
+(2) Where any records of the kind referred to in subsection (1) are the property of a District Law Society, those records become the property of the New Zealand Law Society as from—
+  (a) the date on which they are transferred to the New Zealand Law Society pursuant to subsection (1); or
+  (b) if they are not transferred to the New Zealand Law Society before the dissolution of the District Law Society, as from the close of the period of 6 months beginning with the date of the commencement of section 372.
+(3) In this section, document means a document in any form, whether signed or initialled or otherwise authenticated by its maker or not, and includes—
+  (a) any writing on any material:
+  (b) any information recorded or stored by means of any tape-recorder, computer, or other device, and any material subsequently derived from information so recorded or stored:
+  (c) any label, marking, or other writing that identifies or describes any thing of which it forms part, or to which it is attached by any means:
+  (d) any book, map, plan, graph, or drawing:
+  (e) any photograph, film, negative, tape, or other device in which one or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced.
+
+### 380 Administration of solicitor's trust account
+(1) If a District Law Society to which section 372 applies holds, on the commencement of that section, any money received by that Society as the result of the exercise of its powers under section 82 of the Law Practitioners Act 1982, or receives, after the commencement of that section, any money paid to it as the result of the service, before or after the commencement of that section, of a notice under section 82(1) of that Act, that District Law Society, before it is dissolved under section 372(b), must, subject to any order of the High Court, pay that money to the New Zealand Law Society.
+(2) Any money paid to the New Zealand Law Society under subsection (1) is to be held by that Society on the same basis as it was held by the District Law Society, and section 82 and 84 of the Law Practitioners Act 1982 are to continue to apply, with all necessary modifications, to any such money.
+
+### 381 Solicitor's records and documents
+(1) If a District Law Society to which section 372 applies has in its possession, on the commencement of that section, any records, documents, or postal articles that have come into its possession through the exercise of its powers under section 83 of the Law Practitioners Act 1982, or if a District Law Society, to which section 372 applies, takes possession, after the commencement of that section, of any records, documents, or postal articles in the exercise of its powers under section 83 of the Law Practitioners Act 1982, that District Law Society, before it is dissolved under section 372(b), must, subject to subsections (5) and (6) of section 83 of the Law Practitioners Act 1982 and to any order of the High Court, transfer all of those records, documents, and postal articles to the New Zealand Law Society.
+(2) Any records, documents, or postal articles transferred to the New Zealand Law Society under subsection (1) are to be held by that Society on the same basis as they were held by the District Law Society, and section 83 and 84 of the Law Practitioners Act 1982 are to continue to apply with all necessary modifications to any such records, documents, or postal articles.
+
+### 382 Certain matters not affected by transfer of assets and liabilities
+Nothing effected or authorised by this Act—
+  (a) is to be regarded as placing a District Law Society, or an incorporated society, or the New Zealand Law Society, or any other person in breach of contract or confidence or as otherwise making any of them guilty of a civil wrong; or
+  (b) is to be regarded as giving rise to a right for any person to terminate or cancel any contract or arrangement or to accelerate the performance of any obligation; or
+  (c) is to be regarded as placing the District Law Society, or an incorporated society, or the New Zealand Law Society, or any other person in breach of any enactment or rule of law or contractual provision prohibiting, restricting, or regulating the assignment or transfer of any property or the disclosure of any information; or
+  (d) is to release any surety wholly or in part from any obligation; or
+  (e) is to invalidate or discharge any contract or security.
+
+### 383 Employees
+Where, under section 373, assets and liabilities of a District Law Society become assets and liabilities of an incorporated society or the New Zealand Law Society, then, despite any other provision of this Act,—
+  (a) as from the close of the period of 6 months beginning with the date of the commencement of section 373, each employee of the District Law Society ceases to be an employee of the District Law Society and becomes an employee of the incorporated society or the New Zealand Law Society, as the case may require, but, for the purposes of every enactment, law, determination, contract, and agreement relating to the employment of each such employee, his or her contract of employment is to be treated as unbroken and the period of his or her service with the District Law Society is to be treated as a period of service with the incorporated society or the New Zealand Law Society, as the case may require; and
+  (b) the terms and conditions of the employment of each transferred employee with the incorporated society or the New Zealand Law Society, as the case may require—
+    (i) are, as from the close of the period of 6 months beginning with the date of the commencement of section 373 (and thereafter until varied), to be identical with the terms and conditions of his or her employment with the District Law Society immediately before the close of that period and to be capable of variation in the same manner; and
+    (ii) are, subject to any enactment, law, or determination relating to those terms and conditions, also to be capable of variation in the same manner as the general terms and conditions of employment of other persons employed by the incorporated society or the New Zealand Law Society, as the case may require, are capable of variation; and
+  (c) a transferred employee is not entitled to receive any payment or other benefit by reason only of his or her ceasing by virtue of this Act to be an employee of the District Law Society; and
+  (d) nothing in this Act, other than paragraph (c), affects any rights or liabilities under any provident, benefit, superannuation, or retirement fund or scheme relating to employees of the District Law Society.
+
+### 384 Final accounts of District Law Societies
+(1) Where the assets and liabilities of a District Law Society become, by virtue of section 373, assets and liabilities of another body, that body must, as soon as practicable, after the close of the period of 6 months beginning with the date of the commencement of section 373, cause to be prepared final accounts of that District Law Society as at the close of that period.
+(2) If that body is an incorporated society, it must send a copy of the final accounts, together with a copy of the report of the auditor on those accounts, to the Minister and the New Zealand Law Society.
+(3) If that body is the New Zealand Law Society, it must send a copy of the final accounts, together with a copy of the report of the auditor on those accounts, to the Minister.
+
+### 385 References to President of District Law Society
+Unless the context otherwise requires, and subject to the provisions of this Act, every reference in any other enactment or in any deed or other document to the President of a District Law Society must, after the dissolution of that District Law Society, be read as if it were a reference to the President of the New Zealand Law Society.
+
+**Transitional provisions relating to New Zealand Law Society**
+
+### 386 Members of New Zealand Law Society
+Despite the repeal of the Law Practitioners Act 1982 by this Act, every person who, by virtue of section 3(2) of that Act, is, at the commencement of this section, a member of the New Zealand Law Society continues to be, subject to this Act and the constitution of that society, a member of that society.
+
+### 387 Officers of New Zealand Law Society
+Every person who, at the commencement of this section, holds office as President, Vice-President, President-elect, or Treasurer of the New Zealand Law Society, or as a member of the Council of the Society or as a member of any committee of the Council of the Society, continues, unless he or she sooner vacates office otherwise than by effluxion of time, to hold that office until his or her successor comes into office in accordance with the Society's constitution.
+
+**Transitional provisions relating to landbrokers**
+
+### 388 Rights of landbrokers
+(1) This section applies to every person who, immediately before the date on which this Act received the Royal assent, held a licence as a landbroker under section 229 of the Land Transfer Act 1952.
+(2) A person to whom this section applies is entitled to be registered as a conveyancer if, within the period of 12 months beginning with the date of the coming into force of the rules that, as required by section 82, provide for the registration of conveyancers, he or she makes an application under those rules for registration as a conveyancer and satisfies the person or body charged under those rules with considering that application that the applicant is both—
+  (a) a person to whom this section applies; and
+  (b) a fit and proper person to be registered as a conveyancer.
+(3) Every licence as a landbroker that is held under section 229 of the Land Transfer Act 1952 by a person to whom this section applies is, unless sooner revoked under section 232 of that Act, cancelled as from the earlier of—
+  (a) the registration of that person as a conveyancer; or
+  (b) the close of the period of 12 months referred to in subsection (2) of this section.
+(4) Nothing in this Act prevents a person to whom this section applies from acting as a landbroker in the period beginning with the date on which this Act received the Royal assent and ending with the earlier of—
+  (a) the registration of that person as a conveyancer; or
+  (b) the close of the period of 12 months referred to in subsection (2) of this section.
+(5) Nothing in sections 32, 33, and 35 prevents a person to whom this section applies from carrying out, in the period beginning with the date on which this Act received the Royal assent and ending with the close of the period of 12 months referred to in subsection (2) of this section, any of the following actions:
+  (a) providing conveyancing services in New Zealand and describing himself or herself as a conveyancing practitioner, conveyancer, or landbroker:
+  (b) using, in connection with his or her business, employment, or profession, any words, initials, abbreviations of words, symbols, or representations intended or likely to cause any other person to believe that the person is qualified to undertake conveyancing:
+  (c) providing conveyancing services to any other person for gain or reward.
+(6) A person to whom this section applies ceases to be such a person if his or her licence as a landbroker is revoked under section 232 of the Land Transfer Act 1952.
+
+### 389 Repeal
+(1) Section 67 of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 is repealed as from the close of the period of 12 months referred to in section 388(2).
+(2) Sections 229 to 234 of the Land Transfer Act 1952 cease to apply to a person to whom they were applied by section 67(2) of the Land Transfer (Computer Registers and Lodgement) Amendment Act 2002 on the earlier of—
+  (a) the registration of that person as a conveyancer under this Act; or
+  (b) the close of the period of 12 months referred to in section 388(2).
+
+**Transitional provision relating to New Zealand Society of Conveyancers**
+
+### 390 Exercise of regulatory functions of New Zealand Society of Conveyancers
+(1) The Governor-General may, in any Order in Council that appoints a date for the commencement of the provisions of sections 79, 81, and 82, provide that, for such period as is specified in the order, the New Zealand Law Society must, as if it were the New Zealand Society of Conveyancers, carry out the functions conferred on the New Zealand Society of Conveyancers by or under section 79.
+(2) For the purpose of performing the functions conferred on it by an order made under subsection (1), the New Zealand Law Society may, at any time in the period specified in the order, exercise any of the regulatory powers conferred on the New Zealand Society of Conveyancers by this Act (including, in particular, the powers conferred on that society by sections 81 and 82).
+(3) The period specified in the order made under subsection (1)—
+  (a) is to begin on the date appointed by that order for the commencement of sections 79, 81, and 82; and
+  (b) subject to subsection (4), is to end on such date as is specified in that order as the date on which that period is to end.
+(4) The Governor-General may, from time to time, alter any period specified in the Order in Council made under subsection (1) by appointing an earlier date or a later date for the end of that period.
+
+**Transitional provisions relating to Disciplinary Tribunal**
+
+### 391 Appointment of members of Disciplinary Tribunal
+(1) In respect of the period specified in subsection (2), section 233 is to have effect as if, for section 233(3), there were substituted the following subsection:
+  (3) The members appointed under section 228(e) are to be appointed by the Council of the New Zealand Law Society.
+(2) The period specified for the purposes of subsection (1) is the period—
+  (a) beginning with the date appointed for the commencement of section 233; and
+  (b) ending, subject to section 393, with the close of the period of 12 months beginning with the date specified in paragraph (a).
+(3) The expiry of the period specified for the purposes of subsection (1) does not affect the term for which any person who, at any time in that period, was appointed, under section 233(3) (as set out in subsection (1)) as a member of the Disciplinary Tribunal.
+
+### 392 Quorum
+(1) In respect of the period specified in subsection (2), this Act is to have effect, in relation to any proceedings before the Disciplinary Tribunal or a division of the Disciplinary Tribunal that relate to a conveyancing practitioner or former conveyancing practitioner or an incorporated conveyancing firm or former conveyancing firm or an employee or former employee of a conveyancing practitioner or an incorporated conveyancing firm, as if—
+  (a) in section 234(2), there were substituted for the words an even number that is not less than 4, the figure 2 ; and
+  (b) in section 235(1), there were substituted for the figure 5, the figure 3 ; and
+  (c) in section 244(2), there were substituted for the figure 5, the figure 3.
+(2) The period specified for the purposes of subsection (1) is the period—
+  (a) beginning with the date appointed for the commencement of section 234, 235, and 244; and
+  (b) ending, subject to section 393, with the close of the period of 12 months beginning with the date specified in paragraph (a).
+
+### 393 Power to alter period
+The Governor-General may from time to time by Order in Council alter the period specified for the purposes of section 391(1) or the period specified for the purposes of section 392(1) or both by appointing an earlier date or a later date for the end of the period.
