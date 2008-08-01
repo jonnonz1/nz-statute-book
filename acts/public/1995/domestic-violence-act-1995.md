@@ -1,5 +1,5 @@
 # Domestic Violence Act 1995
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-08-01_
 
 > An Act to provide greater protection from domestic violence
 
@@ -43,7 +43,7 @@ In this Act, unless the context otherwise requires,—
       (ii) An order of an interim nature; or
       (iii) An order made by a court in a prescribed foreign country that varies, discharges, or is made in substitution for, a New Zealand order that is registered or is otherwise enforceable in that country:
   - **Furniture order** means an order made under section 67 of this Act; and includes a temporary order made under that section
-  - **Lawyer** means a barrister or solicitor, as those terms are defined in section 2 of the Law Practitioners Act 1982
+  - **lawyer** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006
   - **Occupation order** means an order made under section 53 of this Act; and includes a temporary order made under that section
   - **partner** , in the phrase spouse or partner and in related contexts, means, in relation to a person,—
     (a) the person's civil union partner; or
