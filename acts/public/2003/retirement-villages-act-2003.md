@@ -1,5 +1,5 @@
 # Retirement Villages Act 2003
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-08-01_
 
 ### 1 Title
 This Act is the Retirement Villages Act 2003.
@@ -56,7 +56,7 @@ In this Act, unless the context otherwise requires,—
       (i) indicated to an operator of a retirement village or the operator's agent that he or she is interested in becoming a resident of the retirement village; or
       (ii) had discussions with the operator or the operator's agent about entering into an occupation right agreement; and
     (b) in respect of whom the operator or the operator's agent has a current address, or sufficient other contact details to enable the operator to send notices to that person
-  - **lawyer** means a barrister or solicitor, as those terms are defined in section 2 of the Law Practitioners Act 1982
+  - **lawyer** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006.
   - **Minister** means the Minister of the Crown who is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
   - **occupation right agreement** means any written agreement or other document or combination of documents that—
     (a) confers on any person the right to occupy a residential unit within a retirement village; and
