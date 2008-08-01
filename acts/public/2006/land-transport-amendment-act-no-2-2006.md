@@ -1,5 +1,5 @@
 # Land Transport Amendment Act (No 2) 2006
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-08-01_
 
 ### 1 Title
 This Act is the Land Transport Amendment Act (No 2) 2006.
@@ -36,4 +36,4 @@ Section 141 is amended by inserting the following subsection after subsection (3
 (1) The following provisions are repealed:
   (a) paragraphs (c) and (d) of the definition of enforcement authority in section 2(1) of the principal Act (as inserted by section 4 of this Act); and
   (b) section 141(3A) of the principal Act (as inserted by section 5 of this Act).
-(2) Subsection (1) does not affect any proceedings commenced by a local authority or Transit, or any infringement fees collected (or to be collected) by a local authority, before the commencement of this section.
+(2) Subsection (1) does not affect any proceedings commenced by a local authority or the New Zealand Transport Agency, or any infringement fees collected (or to be collected) by a local authority, before the commencement of this section.
