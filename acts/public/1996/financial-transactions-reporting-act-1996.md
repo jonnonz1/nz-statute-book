@@ -1,5 +1,5 @@
 # Financial Transactions Reporting Act 1996
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-08-01_
 
 > An Act to facilitate the prevention, detection, investigation, and prosecution of money laundering, and the enforcement of the Proceeds of Crime Act 1991, by—aImposing certain obligations on financial institutions in relation to the conduct of financial transactions; andbRequiring persons entering or leaving New Zealand to declare cash in excess of a prescribed amount;—and to provide for matters incidental thereto
 
@@ -23,7 +23,7 @@ _Consolidation as at 2007-09-03_
   - **Collector**
   - **Commissioner** means the Commissioner of Police
   - **Control of the Customs** has the same meaning as it has in section 20 of the Customs and Excise Act 1996, except that, for the purposes of this Act, references in that section to goods shall be read as if they were references to cash
-  - **conveyancing practitioner**
+  - **conveyancing practitioner** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006
   - **Customs officer** has the same meaning as it has in section 2(1) of the Customs and Excise Act 1996
   - **Document** has the same meaning as it has in section 2(1) of the Official Information Act 1982
   - **Facility** , subject to any regulations made under this Act,—
@@ -42,10 +42,10 @@ _Consolidation as at 2007-09-03_
     (c) In relation to a facility that is a life insurance policy, means any person who for the time being is the legal holder of that policy; and
     (d) In relation to a facility that consists of membership of a superannuation scheme, means any person who is a member of the scheme within the meaning of section 2(1) of the Superannuation Schemes Act 1989:
   - **Financial institution** has the meaning given to it by section 3 of this Act
-  - **incorporated conveyancing firm**
-  - **incorporated law firm**
+  - **incorporated conveyancing firm** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006
+  - **incorporated law firm** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006
   - **Industry organisation** means any organisation the purpose of which, or one of the purposes of which, is to represent the interests of any class or classes of financial institution
-  - **Lawyer** means a practitioner within the meaning of section 2 of the Law Practitioners Act 1982
+  - **lawyer** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006
   - **Life insurance policy** means a policy within the meaning of section 2 of the Life Insurance Act 1908
   - **Money laundering offence** means an offence against section 243 of the Crimes Act 1961
   - **Occasional transaction** , subject to any regulations made under this Act, means any transaction—
@@ -57,9 +57,12 @@ _Consolidation as at 2007-09-03_
     (b) In relation to Part 5 of this Act, means such amount as is for the time being prescribed for the purposes of that Part of this Act by regulations made under section 56 of this Act:
   - **Principal facility holder** , in relation to a facility provided by a financial institution, means the facility holder or facility holders whom that financial institution reasonably regards, for the time being, as principally responsible for the administration of that facility
   - **Real estate agent** has the same meaning as it has in section 3 of the Real Estate Agents Act 1976
-  - **Real estate transaction** means any matter that involves any work that, by virtue of section 65 of the Law Practitioners Act 1982, may be done only—
-    (a) By or under the supervision of a lawyer who holds a current practising certificate; or
-    (b) By a real estate agent who holds a licence in force under the Real Estate Agents Act 1976:
+  - **real estate transaction** means any matter that involves any work that, by virtue of sections 35 and 36(2) of the Lawyers and Conveyancers Act 2006, may be done only—
+    (a) by or under the supervision of a lawyer; or
+    (b) by an incorporated law firm; or
+    (c) by or under the supervision of a conveyancing practitioner; or
+    (d) by an incorporated conveyancing firm; or
+    (e) by a real estate agent who holds a licence in force under the Real Estate Agents Act 1976
   - **Search warrant** means a warrant issued under section 44 of this Act
   - **Superannuation scheme** means a superannuation scheme within the meaning of the Superannuation Schemes Act 1989; but does not include—
     (a) Any superannuation scheme established principally for the purpose of providing retirement benefits to employees (within the meaning of that Act), where—
@@ -103,10 +106,12 @@ _Consolidation as at 2007-09-03_
     (iii) Acting as trustee in respect of funds of other persons:
     (iv) Dealing in life insurance policies:
     (v) Providing financial services that involve the transfer or exchange of funds, including (without limitation) payment services, foreign exchange services, or risk management services (such as the provision of forward foreign exchange contracts); but not including the provision of financial services that consist solely of the provision of financial advice:
-  (l) A lawyer, but only to the extent that the lawyer receives funds in the course of that person's business—
-    (i) For the purposes of deposit or investment; or
-    (ii) For the purpose of settling real estate transactions:
-  (la)
+  (l) a lawyer or an incorporated law firm, but only to the extent that the lawyer or incorporated law firm receives funds in the course of his, her, or its business—
+    (i) for the purposes of deposit or investment; or
+    (ii) for the purpose of settling real estate transactions:
+  (la) a conveyancing practitioner or incorporated conveyancing firm, but only to the extent that the conveyancing practitioner or incorporated conveyancing firm receives funds in the course of his, her, or its business—
+    (i) for the purposes of deposit or investment; or
+    (ii) for the purpose of settling real estate transactions:
   (m) An accountant, but only to the extent that the accountant receives funds in the course of that person's business for the purposes of deposit or investment.
 (2) A person shall not be regarded as a financial institution for the purposes of this Act merely because that person carries on business as a security guard within the meaning of section 4 of the Private Investigators and Security Guards Act 1974.
 
