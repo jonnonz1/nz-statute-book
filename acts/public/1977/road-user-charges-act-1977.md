@@ -1,5 +1,5 @@
 # Road User Charges Act 1977
-_Consolidation as at 2008-07-01_
+_Consolidation as at 2008-08-01_
 
 > An Act to impose a charge for the use of roads by heavy vehicles and certain other vehicles; and to abolish mileage tax and heavy-traffic licensing
 
@@ -305,9 +305,14 @@ A District Court Judge may, instead of holding an inquiry and making an assessme
 (5) For the purposes of this section, the expression month means the period commencing on the first business day in any calendar month and ending with the close of the last business day of that month.
 (6) In subsection (5) of this section, the expression business day means any day that is not a Saturday, Sunday, or public holiday.
 
-### 22 Road user charges to be paid into Land Transport Fund
-(1) All road user charges, additional charges under section 21A of this Act, assessments under section 18C or section 18D of this Act, and other amounts received under this Act must, subject to section 9(3) of the Land Transport Management Act 2003, be paid into the Crown Bank Account and are land transport revenue within the meaning of section 6 of that Act.
-(2) All refunds of road user charges or additional charges payable under this Act shall be paid out of the Crown Bank Account and debited to that account without further appropriation than this section.
+### 22 Road user charges to be paid into national land transport fund
+All road user charges (excluding applicable refunds, and goods and services tax payable under the Goods and Services Tax Act 1985), any additional charges under section 21A, and any assessments under section 18C or 18D must be paid into a Crown Bank Account and treated as land transport revenue.
+
+### 22AA Other amounts received under this Act
+(1) This section applies to amounts that are received under this Act and that are not referred to in section 22.
+(2) Amounts to which this section applies must be paid to the relevant prescribed recipient.
+(3) However, if there is no prescribed recipient to whom any amounts to which this section applies must be paid, those amounts must be paid into the Crown Bank Account.
+(4) For the purposes of this section, prescribed recipient means the person who is specified in regulations made under this Act or any other enactment as the person to whom any amounts to which this section applies are payable.
 
 ### 22A Restrictions on fitting and repair of hubodometers
 (1) No person shall, without the written consent of the chief executive, fit a hubodometer to a motor vehicle for the purposes of this Act, if he knows or ought to know that the hubodometer has previously been fitted to the motor vehicle and that motor vehicle has been operated after the removal, loss, or displacement of the hubodometer from the motor vehicle.
@@ -386,7 +391,7 @@ A District Court Judge may, instead of holding an inquiry and making an assessme
   (a) The identity of the employer of that driver; or
   (b) Any matter that is by any enactment to be specified in any logbook—
 (2) Notwithstanding any enactment or rule of law, any statement that—may be given in evidence by that authorised employee and shall be admissible in any proceedings for an offence against this Act as evidence of the matters referred to in the statement.
-  (a) Is made to an employee of Land Transport New Zealand who is authorised in writing for the purpose by the Director of that Authority; and
+  (a) Is made to an employee of New Zealand Transport Agency who is authorised in writing for the purpose by the Agency; and
   (b) Is made by the driver of any vehicle to which this Act applies; and
   (c) Relates to any matter that is by any enactment required to be specified in any logbook—
 
