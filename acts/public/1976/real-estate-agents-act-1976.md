@@ -1,5 +1,5 @@
 # Real Estate Agents Act 1976
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-08-01_
 
 > An Act to make better provision for the licensing of real estate agents and for matters related thereto, and to consolidate and amend the law relating to the conduct of the business of real estate agents
 
@@ -41,7 +41,7 @@ _Consolidation as at 2007-09-03_
 ### 3 Meaning of real estate agent
 (1) For the purposes of this Act, every person shall be deemed to be a real estate agent who acts, or who holds himself or herself out to the public as ready to act, for reward as an agent in respect of the sale or other disposal of land or of businesses (either with or without any interest in land) or the purchase or other acquisition of land or of businesses (either with or without any interest in land), or in respect of the leasing or letting of land, whether or not that person carries on any other business.
 (2) Notwithstanding subsection (1) of this section, no person shall be deemed to be a real estate agent for the purposes of this Act by reason only of the fact that—
-  (a) Being a solicitor, he or she acts, in the course of his or her business as a solicitor, as agent in respect of the sale or purchase or other disposal or acquisition of land or of businesses (either with or without any interest in land) or in respect of the leasing or letting of land, unless he or she is remunerated for so acting by commission in addition to, or instead of, his or her professional charges:
+  (a)
   (b) He or she sells or offers to sell any land by auction:
   (c) He or she carries on business or enters into a transaction or series of transactions pursuant to a permit granted to him or her by the Board under section 34 of this Act.
   (d) Being the Landcorp Farming Limited or an employee thereof, he, she or it sells or otherwise deals with any lands of the Crown or any land of a State enterprise within the meaning of the State-Owned Enterprises Act 1986:
@@ -60,8 +60,18 @@ _Consolidation as at 2007-09-03_
 (6) Notwithstanding anything to the contrary in this Act, any salaried employee of a stock and station agent licensee who is primarily and predominantly employed in stock and station agency work and who also, in the course of that employment, engages in work relating to the business of a real estate agent but only to the extent of effecting introductions to persons interested in selling or purchasing or otherwise disposing of or acquiring or leasing or letting farm land, shall—
   (a) Be deemed not to be a real estate agent or salesman; and
   (b) Be deemed not to be carrying on the business of a real estate agent.
-(7)
-(8)
+(7) Despite anything to the contrary in this Act, any person who is—may undertake the work of a real estate agent but, in respect of the sale or other disposal of any land or business, is not entitled to be remunerated for that work by commission in addition to, or instead of, the professional charges of that lawyer or conveyancing practitioner.
+  (a) a lawyer within the meaning of the Lawyers and Conveyancers Act 2006 or a person acting under the supervision of such a lawyer; or
+  (b) a conveyancing practitioner within the meaning of the Lawyers and Conveyancers Act 2006 or a person acting under the supervision of such a conveyancing practitioner,—
+(8) When any person to whom subsection (7) applies is undertaking the work of a real estate agent, that person—
+  (a) is deemed not to be doing so as a real estate agent; and
+  (b) is not subject to any of the provisions of this Act; but
+  (c) is deemed to be acting in his or her capacity—
+    (i) as a lawyer within the meaning of the Lawyers and Conveyancers Act 2006; or
+    (ii) as a person acting under the supervision of a lawyer within the meaning of the Lawyers and Conveyancers Act 2006; or
+    (iii) as a conveyancing practitioner within the meaning of the Lawyers and Conveyancers Act 2006; or
+    (iv) as a person acting under the supervision of a conveyancing practitioner within the meaning of the Lawyers and Conveyancers Act 2006; and
+  (d) is subject accordingly to the provisions of the Lawyers and Conveyancers Act 2006.
 
 ## Part 1 — Real Estate Agents Licensing Board
 
@@ -589,8 +599,7 @@ Every person is liable on conviction on indictment to imprisonment for a term no
 **Miscellaneous duties**
 
 ### 61 Real estate agent not to act as land broker in connection with same transaction
-(1) A real estate agent who is also a licensed land broker under the Land Transfer Act 1952 shall not, without the request in writing of the purchaser, act as a land broker for the purchaser in connection with or in the completion of any transaction in which he or she is employed as a real estate agent.
-(2) Every real estate agent who acts in contravention of this section commits an offence.
+[Repealed]
 
 ### 62 Real estate agent to have written contract of agency
 No person shall be entitled to sue for or recover any commission, reward, or other valuable consideration in respect of any service or work performed by him or her as a real estate agent, unless—
