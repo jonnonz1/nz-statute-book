@@ -1,5 +1,5 @@
 # Major Events Management Act 2007
-_Consolidation as at 2008-05-23_
+_Consolidation as at 2008-08-01_
 
 ### 1 Title
 This Act is the Major Events Management Act 2007.
@@ -118,7 +118,7 @@ This Act binds the Crown.
 (2) In subsection (1), a person who makes a representation includes a person who—
   (a) pays for, commissions, or authorises the representation; or
   (b) receives consideration for the placement or the location of the representation.
-ExampleThe Football World Cup finals are to be held in New Zealand in 2007. The Football World Cup finals are declared to be a major event under section 7.Company A pays Company B to produce hats with writing on them that states Company A—proud to bring you the 2007 Football World Cup.Neither Company A nor Company B has the written authorisation of the major event organiser for Company A's representation of an association between itself and the Football World Cup.Both Company A and Company B are in breach of section 10.
+ExampleThe Football World Cup finals are to be held in New Zealand in 2007. The Football World Cup finals are declared to be a major event under section 7.Company A pays Company B to produce hats with writing on them that states “Company A—proud to bring you the 2007 Football World Cup”.Neither Company A nor Company B has the written authorisation of the major event organiser for Company A's representation of an association between itself and the Football World Cup.Both Company A and Company B are in breach of section 10.
 
 ### 11 Presumption if major event emblems or words are used
 (1) The court may presume that a representation is in breach of section 10 if it includes any of the following:
@@ -144,7 +144,7 @@ ExampleThe Football World Cup finals are to be held in New Zealand in 2007. The 
   (a) goods or services; or
   (b) a brand of goods or services; or
   (c) a person who provides goods or services.
-ExamplesThe Football World Cup finals are to be held in New Zealand in 2007. The Football World Cup finals are declared to be a major event under section 7.All combinations of the words Football, World, and Cup are declared to be major event words under section 8.Example 1The World's Best Cup Makers Limited is a New Zealand business that was established in 1982. For many years it has advertised itself with a slogan that states Maker of cups and trophies for all sporting events, from football to synchronised swimming! and a logo that shows a football player kicking a football. The World's Best Cup Makers Limited continues to operate and promote itself in this way during the period when the Football World Cup finals are held in New Zealand.The World's Best Cup Makers Limited does not have the written authorisation of the major event organiser for the use of its company name, its advertising, its slogan, or its logo.This is not a breach of section 10 because of the exception in section 12(1)(d)(ii).Example 2Daily Newspaper A produces a 20-page Football World Cup supplement. It contains a schedule of the games to be played during the Football World Cup finals, an explanation of the rules of football, and details about each of the teams and the players and coaches in each of those teams. The supplement also contains a lot of advertising, none of which breaches section 10. However, Company B has paid Daily Newspaper A for the right to state on the cover of the supplement Coverage of the Football World Cup finals is brought to you by Company B.Neither Daily Newspaper A nor Company B has the written authorisation of the major event organiser for Company B's statement on the cover of the supplement.The content of the supplement and the advertising within it does not breach section 10 because of the exception in section 12(1)(d)(iii). However, both Daily Newspaper A and Company B are in breach of section 10 because of Company B's statement on the cover of the supplement.
+ExamplesThe Football World Cup finals are to be held in New Zealand in 2007. The Football World Cup finals are declared to be a major event under section 7.All combinations of the words “Football”, “World”, and “Cup” are declared to be major event words under section 8.Example 1The World's Best Cup Makers Limited is a New Zealand business that was established in 1982. For many years it has advertised itself with a slogan that states “Maker of cups and trophies for all sporting events, from football to synchronised swimming!” and a logo that shows a football player kicking a football. The World's Best Cup Makers Limited continues to operate and promote itself in this way during the period when the Football World Cup finals are held in New Zealand.The World's Best Cup Makers Limited does not have the written authorisation of the major event organiser for the use of its company name, its advertising, its slogan, or its logo.This is not a breach of section 10 because of the exception in section 12(1)(d)(ii).Example 2Daily Newspaper A produces a 20-page Football World Cup supplement. It contains a schedule of the games to be played during the Football World Cup finals, an explanation of the rules of football, and details about each of the teams and the players and coaches in each of those teams. The supplement also contains a lot of advertising, none of which breaches section 10. However, Company B has paid Daily Newspaper A for the right to state on the cover of the supplement “Coverage of the Football World Cup finals is brought to you by Company B”.Neither Daily Newspaper A nor Company B has the written authorisation of the major event organiser for Company B's statement on the cover of the supplement.The content of the supplement and the advertising within it does not breach section 10 because of the exception in section 12(1)(d)(iii). However, both Daily Newspaper A and Company B are in breach of section 10 because of Company B's statement on the cover of the supplement.
 
 ### 13 Offences and penalty for breach of section 10
 (1) Every person commits an offence who knowingly breaches section 10.
@@ -187,7 +187,7 @@ ExamplesThe Football World Cup finals are to be held in New Zealand in 2007. The
 (4) A notice under subsection (1) may declare an area as a clean transport route for a clean period only to the extent that the area—
   (a) extends no more than 5 kilometres from the closest point of the boundary of a clean zone; and
   (b) consists of, or is directly proximate to, either—
-    (i) a motorway or State highway (as those terms are defined in section 2(1) of the Transit New Zealand Act 1989); or
+    (i) a motorway or State highway (as those terms are defined in section 2(1) of the Government Roading Powers Act 1989); or
     (ii) a railway line (as that term is defined in section 2(1) of the New Zealand Railways Corporation Act 1981); and
   (c) does not consist of excluded land or buildings; and
   (d) is likely to be used by a substantial number of people to travel to or from a clean zone (the relevant clean zone) during that clean period, although the clean period may include times before and after the clean period for the relevant clean zone that are reasonable in the circumstances.
@@ -195,7 +195,7 @@ ExamplesThe Football World Cup finals are to be held in New Zealand in 2007. The
   (a) billboards; or
   (b) the venue of a major event activity; or
   (c) land the public ordinarily has access to (for example, a railway station or a venue's car park).
-ExamplesThe Football World Cup finals are to be held in New Zealand in 2007. The Football World Cup finals are declared to be a major event under section 7.Example 1: Clean zone and clean periodThe final game of the Football World Cup is to be held at the rugby stadium located in Phillipstown in Christchurch between 3 pm and 7 pm on Saturday, 9 June 2007.The police and the Christchurch City Council have decided, in the particular circumstances of this major event activity, that in order to host safely the final game of the Football World Cup, it is necessary to close Stevens Street, Talfourd Place, and Lismore Street to vehicles from 12.01 am to 11.59 pm on Saturday, 9 June 2007. Falsgrove Street (between Lismore Street and Stevens Street) will also be closed for parts of that day.After taking into account the matters set out in section 16(2) and looking at the requirements of the particular event, the Economic Development Minister decides to declare a clean zone and a clean period for the final game of the Football World Cup in accordance with section 16(1).The Minister declares the clean zone to be the area bordered by, and including, the footpaths on the north side of Stevens Street, the west side of Wilsons Road North (between Stevens Street and Lismore Street), the south side of Lismore Street (between Wilsons Road North and Falsgrove Street), and the west side of Falsgrove Street (between Lismore Street and Stevens Street).The stadium and its surrounds, including the stadium car park, (all of which are within the area described above) are included in the clean zone. However, none of the private land or private buildings within the area described above is included in the clean zone.The Minister declares the clean period for this clean zone to start at 12.01 am on Saturday, 9 June 2007 and finish at 11.59 pm on Saturday, 9 June 2007.Example 2: Clean transport routes and clean periodsIn accordance with section 16(1), the Economic Development Minister also decides to declare 2 clean transport routes and a clean period for the final game of the Football World Cup.State Highway 73 and the Christchurch Southern Motorway 73 are declared to be a clean transport route from the point on the Christchurch Southern Motorway that is 5 km in a straight line (in a south-westerly direction) from the corner of Falsgrove and Lismore Street, to the point on State Highway 73 that is 5 km in a straight line (in a south-easterly direction) from the corner of Lismore Street and Wilsons Road North.All of State Highway 74A is within 5 km of the clean zone and therefore all of this highway is also declared to be a clean transport route.Both clean transport routes are declared to include the areas directly proximate to the highways and motorway that do not consist of private land or private buildings.It appears that very few people will be using the railway lines to the north of State Highway 73 to travel to or from the clean zone. Therefore, the Minister decides not to declare this railway line to be a clean transport route.The clean period for the clean transport routes is declared to start at 8 am on Saturday, 9 June 2007 and finish at 11 pm on Saturday, 9 June 2007.
+ExamplesThe Football World Cup finals are to be held in New Zealand in 2007. The Football World Cup finals are declared to be a major event under section 7.Example 1: Clean zone and clean periodThe final game of the Football World Cup is to be held at the rugby stadium located in Phillipstown in Christchurch between 3 pm and 7 pm on Saturday, 9 June 2007.The Police and the Christchurch City Council have decided, in the particular circumstances of this major event activity, that in order to host safely the final game of the Football World Cup, it is necessary to close Stevens Street, Talfourd Place, and Lismore Street to vehicles from 12.01 am to 11.59 pm on Saturday, 9 June 2007. Falsgrove Street (between Lismore Street and Stevens Street) will also be closed for parts of that day.After taking into account the matters set out in section 16(2) and looking at the requirements of the particular event, the Economic Development Minister decides to declare a clean zone and a clean period for the final game of the Football World Cup in accordance with section 16(1).The Minister declares the clean zone to be the area bordered by, and including, the footpaths on the north side of Stevens Street, the west side of Wilsons Road North (between Stevens Street and Lismore Street), the south side of Lismore Street (between Wilsons Road North and Falsgrove Street), and the west side of Falsgrove Street (between Lismore Street and Stevens Street).The stadium and its surrounds, including the stadium car park, (all of which are within the area described above) are included in the clean zone. However, none of the private land or private buildings within the area described above is included in the clean zone.The Minister declares the clean period for this clean zone to start at 12.01 am on Saturday, 9 June 2007 and finish at 11.59 pm on Saturday, 9 June 2007.Example 2: Clean transport routes and clean periodsIn accordance with section 16(1), the Economic Development Minister also decides to declare 2 clean transport routes and a clean period for the final game of the Football World Cup.State Highway 73 and the Christchurch Southern Motorway 73 are declared to be a clean transport route from the point on the Christchurch Southern Motorway that is 5 km in a straight line (in a south-westerly direction) from the corner of Falsgrove and Lismore Street, to the point on State Highway 73 that is 5 km in a straight line (in a south-easterly direction) from the corner of Lismore Street and Wilsons Road North.All of State Highway 74A is within 5 km of the clean zone and therefore all of this highway is also declared to be a clean transport route.Both clean transport routes are declared to include the areas directly proximate to the highways and motorway that do not consist of private land or private buildings.It appears that very few people will be using the railway lines to the north of State Highway 73 to travel to or from the clean zone. Therefore, the Minister decides not to declare this railway line to be a clean transport route.The clean period for the clean transport routes is declared to start at 8 am on Saturday, 9 June 2007 and finish at 11 pm on Saturday, 9 June 2007.
 
 ### 17 No street trading in clean zone without authorisation
 (1) No person may engage in street trading in a clean zone during a clean period without the written authorisation of the major event organiser.
@@ -437,14 +437,14 @@ An enforcement officer may not enter any place except in the following circumsta
 (1) This section applies to—
   (a) enforcement officers:
   (b) persons who assist enforcement officers in accordance with section 68(3):
-  (c) police officers who perform any of the functions of an enforcement officer under section 48.
+  (c) Police officers who perform any of the functions of an enforcement officer under section 48.
 (2) No action may be taken against a person to whom this section applies in relation to the exercise of his or her powers under this Act if he or she exercised those powers—
   (a) in good faith; and
   (b) in a reasonable manner; and
   (c) in the reasonably held belief that the prerequisites for the exercise of the power had been satisfied.
 
-### 48 Functions and powers of police
-Every member of the police—
+### 48 Functions and powers of Police
+Every member of the Police—
   (a) may perform any of the functions of an enforcement officer; and
   (b) has all, and may exercise any, of the powers of an enforcement officer.
 
@@ -599,7 +599,7 @@ If a body corporate is convicted of an offence against any of sections 13, 23, 2
   (e) to search for and cover any thing that the warrant authorises the person who is executing the warrant to search for and cover:
   (f) if necessary, to take copies of documents, or extracts from documents, that the warrant authorises the person who is executing the warrant to copy:
   (g) if necessary, to require a person to reproduce, or assist any person executing the warrant to reproduce in usable form, information recorded or stored in a document.
-(2) The power in subsection (1) to enter and search a place, vehicle, or thing must not be exercised by an enforcement officer unless, when exercising the power, the enforcement officer is accompanied by a member of the police.
+(2) The power in subsection (1) to enter and search a place, vehicle, or thing must not be exercised by an enforcement officer unless, when exercising the power, the enforcement officer is accompanied by a member of the Police.
 (3) A person assisting the person executing the warrant also has the powers referred to in subsection (1)(c) to (f).
 (4) The warrant must be executed in accordance with any reasonable conditions that may be specified in the warrant when it is issued.
 
@@ -607,8 +607,8 @@ If a body corporate is convicted of an offence against any of sections 13, 23, 2
 A search warrant must—
   (a) be in the prescribed form; and
   (b) be directed to—
-    (i) a member of the police by name; or
-    (ii) any member of the police; or
+    (i) a member of the Police by name; or
+    (ii) any member of the Police; or
     (iii) an enforcement officer; and
   (c) contain all of the following particulars:
     (i) the place, vehicle, or thing that may be searched in accordance with the warrant; and
@@ -654,7 +654,7 @@ The chief executive of the Ministry of Economic Development, or any person autho
 
 ### 76 Disposal of things seized
 (1) In any proceedings for an offence relating to any thing seized under warrant, a court may order, either at the trial or hearing or on an application, that it be delivered to the person appearing to the court to be entitled to it, or that it be otherwise disposed of in any manner that the court thinks fit.
-(2) Any member of the police or an enforcement officer may, at any time, unless an order has been made under subsection (1), return the thing to the person from whom it was seized, or apply to a Judge for an order for its disposal.
+(2) Any member of the Police or an enforcement officer may, at any time, unless an order has been made under subsection (1), return the thing to the person from whom it was seized, or apply to a Judge for an order for its disposal.
 (3) An application under subsection (2) must be made on notice to any person known to have an interest in the thing.
 (4) On an application under subsection (2), the Judge may make any order that a court may make under subsection (1).
 (5) If proceedings for an offence relating to the thing are not brought within 3 months of seizure, any person claiming to be entitled to it may, after the expiry of that period, apply to a Judge for an order that it be delivered to him or her.
@@ -664,13 +664,13 @@ The chief executive of the Ministry of Economic Development, or any person autho
 
 ### 77 Uncovering or disposal of things covered
 (1) In any proceeding for an offence relating to any thing covered under warrant, a court may order, either at the trial or hearing or on an application, that it be uncovered, or that it be otherwise disposed of in any manner that the court thinks fit.
-(2) Any member of the police or an enforcement officer may, at any time, unless an order has been made under subsection (1), uncover the thing, or apply to a Judge for an order for its disposal.
+(2) Any member of the Police or an enforcement officer may, at any time, unless an order has been made under subsection (1), uncover the thing, or apply to a Judge for an order for its disposal.
 (3) An application under subsection (2) must be made on notice to any person known to have an interest in the thing.
 (4) On an application under subsection (2), the Judge may make any order that a court may make under subsection (1).
 (5) If proceedings for an offence relating to the thing are not brought within 3 months of it having been covered, any person claiming to be entitled to it may, after the expiry of that period, apply to a Judge for any order that it be uncovered.
 (6) On any such application, the Judge may—
   (a) adjourn the application, on any terms that he or she thinks fit, for proceedings to be brought; or
-  (b) make any order that a court may make under subsection (1).
+  (b) make any order that a court may make under subsection 1).
 
 ### 78 Court order to be suspended on conviction
 (1) If any person is convicted in any proceedings for an offence relating to any thing for which a warrant has been issued, and any order is made under section 76 or 77, the operation of the order is suspended,—
