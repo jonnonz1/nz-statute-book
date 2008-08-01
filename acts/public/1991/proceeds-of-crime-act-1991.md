@@ -1,5 +1,5 @@
 # Proceeds of Crime Act 1991
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-08-01_
 
 > An Act—aTo provide for confiscation of the proceeds of serious criminal offending; andbTo provide for matters incidental thereto
 
@@ -965,9 +965,9 @@ Nothing in section 69 or section 72 of this Act overrides—
     (ii) A legal practitioner in his or her professional capacity and his or her client,—
   (b) It is made or brought into existence for the purpose of obtaining or giving legal advice or assistance; and
   (c) It is not made or brought into existence for the purpose of committing or furthering the commission of some illegal or wrongful act.
-(3) Where the information or document consists wholly of payments, income, expenditure, or financial transactions of a specified person (whether a legal practitioner, his or her client, or any other person), it shall not be a privileged communication if it is contained in, or comprises the whole or part of, any book, account, statement, or other record prepared or kept by the legal practitioner in connection with a trust account of the legal practitioner within the meaning of section 2 of the Law Practitioners Act 1982.
+(3) Where the information or document consists wholly of payments, income, expenditure, or financial transactions of a specified person (whether a legal practitioner, his or her client, or any other person), it shall not be a privileged communication if it is contained in, or comprises the whole or part of, any book, account, statement, or other record prepared or kept by the legal practitioner in connection with a trust account of the legal practitioner within the meaning of section 6 of the Lawyers and Conveyancers Act 2006.
 (4) Where any person refuses to disclose any information or document on the ground that it is a privileged communication under this section, the Commissioner of Police or that person may apply to a Judge of the High Court for an order determining whether or not the claim of privilege is valid; and, for the purposes of determining any such application, the Judge may require the information or document to be produced to him or her.
-(5) For the purposes of this section the term legal practitioner means a barrister or solicitor of the High Court, and references to a legal practitioner include a firm in which he or she is a partner or is held out to be a partner.
+(5) For the purposes of this section, the term legal practitioner means a barrister or solicitor of the High Court, and references to a legal practitioner include a firm or an incorporated law firm (within the meaning of the Lawyers and Conveyancers Act 2006) in which he or she is, or is held out to be, a partner, director, or shareholder.
 
 ### 75 Variation of production orders
 (1) Where a Judge of the High Court makes an order under section 69(1)(a) of this Act, the person against whom the order is made may apply to the Judge or to another Judge of the High Court for variation of the order.
