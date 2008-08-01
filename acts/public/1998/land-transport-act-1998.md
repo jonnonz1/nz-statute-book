@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2008-08-01_
 
 > An Act—aTo promote safe road user behaviour and vehicle safety; andbTo provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcTo consolidate and amend various enactments relating to road safety and land transport; anddTo enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -15,6 +15,7 @@ _Consolidation as at 2007-10-01_
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **Accompany** , in relation to the accompanying of an enforcement officer to a place, includes remaining with an enforcement officer at a place whether or not a journey is involved
+  - **Agency** means the New Zealand Transport Agency established under section 93 of the Land Transport Management Act 2003
   - **Alternative fuel system** means a fuel storage and conducting system that is used to provide liquid petroleum gas, compressed natural gas, or any other pressurised liquid or gaseous fuel (other than petrol or diesel) for the purpose of propulsion of a vehicle
   - **Ambulance** means a motor vehicle designed and used principally for the carriage of sick or injured persons
   - **Apparently younger than 20** has the same meaning as it has in section 71
@@ -23,10 +24,9 @@ _Consolidation as at 2007-10-01_
     (b) A person who works in an approved laboratory and who is authorised, by the analyst in charge of that laboratory, to act as an approved analyst, either generally or in a particular case:
   - **Approved health authority** means an institution approved by the Minister, with the agreement of the Minister of Health, for the purposes of section 209
   - **Approved laboratory** means a laboratory approved by the Science Minister, by notice in the Gazette, for the purposes of analysing blood specimens taken for the purposes of this Act
-  - **approved taxi organisation** means a taxi organisation approved or deemed to be approved by the Director under this Act, the regulations, or the rules
+  - **approved taxi organisation** means a taxi organisation approved or deemed to be approved by the Agency under this Act, the regulations, or the rules
   - **Approved vehicle surveillance equipment** means vehicle surveillance equipment of a kind approved by the Minister of Police, by notice in the Gazette
   - **Assessment Centre** means an establishment for the time being approved as an Assessment Centre for the purposes of this Act by the chief executive of the Ministry of Health
-  - **Authority** means Land Transport New Zealand established by section 66 of the Land Transport Management Act 2003
   - **Axle** means 1 or more shafts, spindles, or bearings in the same vertical transverse plane by means of which, in conjunction with wheels mounted on those shafts, spindles, or bearings, a portion of the weight of the vehicle is transmitted to the roadway; and, except as the provisions of this Act or of the rules otherwise provide, the following provisions apply for the purposes of this Act and the regulations and rules
     (a) If 2 or more wheels of a motor vehicle are substantially in the same line transversely and some or all of them have separate axles, the axles of all those wheels are to be treated as 1 axle:
     (b) If the longitudinal centre line of an axle of a motor vehicle is less than 1 metre distant from the longitudinal centre line of another axle, the 2 axles are to be treated as 1 axle (a dual axle):
@@ -55,17 +55,14 @@ _Consolidation as at 2007-10-01_
   - **Dangerous goods** means goods declared by rules made under this Act to be dangerous goods
   - **Dangerous goods enforcement officer** means a person appointed by warrant under section 208
   - **Design** , in relation to a motor vehicle, refers to the construction of the motor vehicle, and not its use or intended use; and has a corresponding meaning
-  - **Director** means the Director of Land Transport appointed under section 186
   - **Doctor's surgery** means a medical practitioner's surgery or any other place where a medical examination or medical care or treatment is carried out or given
   - **Drink** means alcoholic drink
   - **Driver** , in relation to a vehicle, includes the rider of the motor cycle or moped or bicycle; and has a corresponding meaning
   - **Driver licence** means a licence to drive that is issued or has effect under this Act; and includes an endorsement on a driver licence
   - **enforcement authority** , in relation to an infringement offence, means—
     (a) the New Zealand Police, in any case:
-    (b) the Authority, in the case of an infringement offence for which an infringement notice is issued by an employee of the Authority or on behalf of the Authority:
-    (c) Transit, in the case of an infringement offence—
-      (i) that relates to the use of a special vehicle lane; and
-      (ii) for which an infringement notice is issued by an employee of Transit or on behalf of Transit:
+    (b) the Agency, in the case of an infringement offence for which an infringement notice is issued by an employee of the Agency or on behalf of the Agency:
+    (c)
     (d) a local authority, in the case of an infringement offence—
       (i) that relates to the use of a special vehicle lane; and
       (ii) for which an infringement notice is issued by an employee of the local authority or on behalf of the local authority:
@@ -77,7 +74,7 @@ _Consolidation as at 2007-10-01_
   - **Evidence of vehicle inspection** , in relation to a vehicle, means any certificate, label, or document issued under this Act as evidence of the completion of the periodic vehicle inspection requirements in respect of that vehicle
   - **Evidential breath test** means a test carried out by means of an evidential breath-testing device in a manner prescribed in respect of that device by the Minister of Police, by notice in the Gazette
   - **Evidential breath-testing device** means a device of a kind approved for the purpose of evidential breath tests by the Minister of Police, by notice in the Gazette
-  - **Financial year** , in relation to the Authority, means the period of 12 months commencing on 1 July and ending with the close of 30 June
+  - **Financial year** , in relation to the Agency, means the period of 12 months commencing on 1 July and ending with the close of 30 June
   - **Fire brigade** includes—
     (a) A volunteer fire brigade, a defence fire brigade, and an industrial fire brigade (as those terms are defined in section 2 of the Fire Service Act 1975); and
     (b) An airport fire brigade; and
@@ -119,10 +116,10 @@ _Consolidation as at 2007-10-01_
     (d) Any other offence against this Act or any other enactment that is specified as an infringement offence against this Act (other than an offence that carries a penalty of imprisonment or mandatory disqualification from holding or obtaining a driver licence):
   - **Invalid carriage**
   - **Land transport** means transport on land by any means and the infrastructure facilitating such transport; and includes rail, surface-effect vehicles, and harbour ferries
-  - **Land transport documents** means licences, permits, approvals, authorisations, exemptions, certificates, and similar documents issued under the Transport Act 1962, the Road User Charges Act 1977, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Transit New Zealand Act 1989, the Transport Services Licensing Act 1989, or this Act
+  - **Land transport documents** means licences, permits, approvals, authorisations, exemptions, certificates, and similar documents issued under the Transport Act 1962, the Road User Charges Act 1977, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Government Roading Powers Act 1989, the Transport Services Licensing Act 1989, or this Act
   - **Land Transport Register** includes—
     (a) Registers kept under this Act, the Railways Act 2005, ; and
-    (b) Other information and records relating to vehicle and operator licensing kept by the Authority:
+    (b) Other information and records relating to vehicle and operator licensing kept by the Agency:
   - **large passenger service vehicle** means any passenger service vehicle that is designed or adapted to carry more than 12 persons (including the driver)
   - **Licensed** means,—
     (a) In relation to a driver,—
@@ -136,7 +133,7 @@ _Consolidation as at 2007-10-01_
     (b) Includes covers, ropes, ties, blocks, tackles, barrows, or other equipment or object used in the securing or containing of loads on vehicles or the loading or unloading of vehicles, whether or not any other load is on the vehicle; but
     (c) Does not include animal wastes discharged from animals being carried on a vehicle at the time:
   - **local authority** means any regional council or territorial authority within the meaning of the Local Government Act 2002
-  - **Logbook** means a logbook that is in a form approved by the Director in accordance with the rules, and includes any alternative means approved under section 30ZG
+  - **Logbook** means a logbook that is in a form approved by the Agency in accordance with the rules, and includes any alternative means approved under section 30ZG
   - **Mass** , in relation to a vehicle, means the quantity of material contained in or on that vehicle that, when subjected to acceleration due to gravity, will exert downwards on a level surface a force that can be measured as the weight of the vehicle
   - **medical officer** means—
     (a) a person acting in a hospital and who, in the normal course of the person's duties, takes blood specimens; or
@@ -145,7 +142,7 @@ _Consolidation as at 2007-10-01_
   - **medical laboratory technologist** means a health practitioner who is, or is deemed to be, registered with the Medical Laboratory Science Board continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medical laboratory science
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
-  - **Member** means a person appointed as a member of the Authority
+  - **Member** means a person appointed as a member of the Agency
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act or the relevant Part or provision of this Act
   - **Minister of Police** means, subject to any enactment, the Minister who, under authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the Police
   - **Ministry** means, subject to any enactment, the Ministry that is, with the approval of the Prime Minister, for the time being responsible for the administration of this Act
@@ -153,7 +150,7 @@ _Consolidation as at 2007-10-01_
     (a) a vehicle that—
       (i) is designed and constructed (not merely adapted) for use by persons who require mobility assistance due to a physical or neurological impairment; and
       (ii) is powered solely by a motor that has a maximum power output not exceeding 1 500 W; or
-    (b) a vehicle that the Director has declared under section 168A(1) to be a mobility device
+    (b) a vehicle that the Agency has declared under section 168A(1) to be a mobility device
   - **Motor vehicle** —
     (a) Means a vehicle drawn or propelled by mechanical power; and
     (b) Includes a trailer; but
@@ -164,14 +161,13 @@ _Consolidation as at 2007-10-01_
       (iv) A trailer running on 1 wheel and designed exclusively as a speed measuring device or for testing the wear of vehicle tyres; or
       (v) A vehicle designed for amusement purposes and used exclusively within a place of recreation, amusement, or entertainment to which the public does not have access with motor vehicles; or
       (vi) A pedestrian-controlled machine; or
-      (vii) a vehicle that the Director has declared under section 168A is not a motor vehicle; or
+      (vii) a vehicle that the Agency has declared under section 168A is not a motor vehicle; or
       (viii) a mobility device
   - **Moving vehicle offence** means an offence detected by approved vehicle surveillance equipment that is—
     (a) A speeding offence; or
     (b) An offence in respect of the failure to comply with the directions given by a traffic signal; or
     (c) Any offence against regulations made under this Act or the Transport (Vehicle and Driver Registration and Licensing) Act 1986, or against the Transport Act 1962 or any regulations or bylaws made under that Act, that is declared by regulations under this Act to be a moving vehicle offence for the purposes of this definition; or
     (d) a toll offence:
-  - **National land transport strategy** or means a national land transport strategy completed by the Minister under section 170 of this Act, as from time to time amended under section 173 of this Act
   - **Novice driver** has the meaning specified by the rules
   - **nurse** means a health practitioner who is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions
   - **Offence against this Act** includes an offence against or prescribed by the regulations
@@ -180,7 +176,7 @@ _Consolidation as at 2007-10-01_
   - **organised criminal activity** means an activity that—
     (a) involves 2 or more persons; and
     (b) has the acquisition of income or assets by means of a continuing course of criminal conduct as one of its objects
-  - **Outputs** means the goods and services that are produced by the Authority
+  - **Outputs** means the goods and services that are produced by the Agency
   - **Overloading offence** means an offence against any enactment that is specified as an overloading offence by the regulations
   - **Owner** , in relation to a motor vehicle, means the person lawfully entitled to possession of the vehicle, except where—in which case means the person who, but for the bailment or letting on hire, would be lawfully entitled to possession of the motor vehicle; and and have corresponding meanings
     (a) The motor vehicle is subject to a bailment that is for a period not exceeding 28 days; or
@@ -223,7 +219,6 @@ _Consolidation as at 2007-10-01_
   - **Rail service vehicle**
   - **rail vehicle** has the same meaning as in section 4(1) of the Railways Act 2005
   - **regional council** means a regional council within the meaning of the Local Government Act 2002
-  - **Regional land transport strategy** means a regional land transport strategy prepared under section 175
   - **Register of Motor Vehicles** means a register kept under section 18 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986
   - **Registered** , in relation to a vehicle, means registered under the Transport (Vehicle and Driver Registration and Licensing) Act 1986
   - **Registered medical practitioner**
@@ -260,7 +255,7 @@ _Consolidation as at 2007-10-01_
   - **Site** , in section 147, means a site where a dynamic axle weigher is used
   - **small passenger service vehicle** means any passenger service vehicle that is designed or adapted to carry 12 or fewer persons (including the driver)
   - **special vehicle lane** has the meaning given to it in clause 1.6 of the Land Transport (Road User) Rule 2004.
-  - **Speed limit** means a speed limit set by or under this Act, the Transport Act 1962, the Local Government Act 1974, the Transit New Zealand Act 1989, or the rules
+  - **Speed limit** means a speed limit set by or under this Act, the Transport Act 1962, the Local Government Act 1974, the Government Roading Powers Act 1989, or the rules
   - **Speeding offence** means an offence which consists solely of exceeding a speed limit
   - **Storage provider** means a person who stores vehicles impounded under this Act
   - **taxi** means a motor vehicle that is—
@@ -280,7 +275,6 @@ _Consolidation as at 2007-10-01_
     (b) Traffic calming device; or
     (c) Marking or road surface treatment—
   - **Transit New Zealand**
-  - **Transit** and mean the body corporate called Transit that is continued by section 75 of the Land Transport Management Act 2003.
   - **transport service** —
     (a) means any goods service, passenger service, rental service, or vehicle recovery service; but
     (b) does not include—
@@ -332,7 +326,7 @@ _Consolidation as at 2007-10-01_
         (B) the owner or employee of a garage or workshop who intends to carry out repairs to the vehicle; or
       (v) the removal of vehicles by New Zealand Defence Force tow trucks at the request of an enforcement officer; or
       (vi) routine towing services operated by New Zealand Defence Force personnel in areas where there is no suitable and available commercial towing service nearby; or
-      (vii) any service where the Director has provided the transport service operator with a written notice that—
+      (vii) any service where the Agency has provided the transport service operator with a written notice that—
         (A) must be carried in the vehicle used in the service; and
         (B) specifies that the nature of the service is such that the carriage of vehicles should be treated as the carriage of goods; or
       (viii) any service specified as an exempt vehicle recovery service in the regulations or the rules
@@ -373,7 +367,7 @@ This Act binds the Crown.
 (1) A participant in the land transport system must ensure that the appropriate land transport documents and all the necessary qualifications and other documents are held by the participant.
 (2) A participant must comply with this Act, the relevant regulations and rules, and the conditions attached to the relevant land transport documents.
 (3) A participant, other than a rail participant, must ensure that the activities or functions for which the land transport document has been granted are carried out by the participant, and by all persons for whom the participant is responsible, safely and in accordance with the relevant prescribed safety standards and practices.
-(4) A person who applies for a land transport document that authorises the provision of a service within the land transport system must, if so required by the rules, satisfy the Director that the person is a fit and proper person; and the Director must determine whether a person is a fit and proper person for the purposes of this subsection in accordance with subpart 2 of Part 4A, which applies with any necessary modifications.
+(4) A person who applies for a land transport document that authorises the provision of a service within the land transport system must, if so required by the rules, satisfy the Agency that the person is a fit and proper person; and the Agency must determine whether a person is a fit and proper person for the purposes of this subsection in accordance with subpart 2 of Part 4A, which applies with any necessary modifications.
 (5) A participant who holds a land transport document that authorises the provision of a service within the land transport system—
   (a) Must, if so required by the rules, establish and follow a safety management system that will ensure compliance with the relevant prescribed safety standards and the conditions attached to the document; and
   (b) Must provide training and supervision to all employees of the participant who are engaged in doing anything to which the document relates, so as to maintain compliance with the relevant prescribed safety standards and the conditions attached to the document and to promote safety; and
@@ -457,34 +451,34 @@ A person operating a heavy motor vehicle or combination of vehicles may not oper
 ### 17 Distance recorders not to be altered
 A person may not, with intent to cause a false record of the distance travelled by a motor vehicle to be shown or recorded, make or cause to be made any alteration to the distance recorder or to the vehicle.
 
-### 18 Doctors and optometrists to give Director medical reports of persons unfit to drive
+### 18 Doctors and optometrists to give Agency medical reports of persons unfit to drive
 (1) This section applies if a medical practitioner or optometrist, who has attended or been consulted in respect of a driver licence holder, considers that—
   (a) The mental or physical condition of the licence holder is such that, in the interests of public safety, the licence holder—
     (i) Should not be permitted to drive motor vehicles of a specified class or classes; or
     (ii) Should only be permitted to drive motor vehicles subject to such limitations as may be warranted by the mental or physical condition of the licence holder; and
   (b) The licence holder is likely to drive a motor vehicle.
-(2) If this section applies, the medical practitioner or optometrist must as soon as practicable give the Director written notice of the opinion under subsection (1)(a) and the grounds on which it is based.
+(2) If this section applies, the medical practitioner or optometrist must as soon as practicable give the Agency written notice of the opinion under subsection (1)(a) and the grounds on which it is based.
 (3) A medical practitioner or optometrist who gives a notice under subsection (2) in good faith is not liable to civil or professional liability because of any disclosure of personal medical information in that notice.
 (4) Nothing in section 32 or section 33 of the Evidence Amendment Act (No 2) 1980 applies to a notice given under this section.
 
 ### 19 Licences of certain persons subject to Mental Health (Compulsory Assessment and Treatment) Act 1992 to be suspended
 (1) If a person who holds a driver licence becomes subject to a compulsory treatment order that is an inpatient order or becomes a special patient under the Mental Health (Compulsory Assessment and Treatment) Act 1992,—
-  (a) The person in charge of the hospital to which the person is referred or at which the person is detained must notify the Director of Land Transport of the making of an inpatient order or that the person is a special patient (as the case may be); and
+  (a) The person in charge of the hospital to which the person is referred or at which the person is detained must notify the Agency of the making of an inpatient order or that the person is a special patient (as the case may be); and
   (b) The licence is suspended while the holder is subject to an inpatient order or is a special patient.
 (2) A person who has possession of the driver licence of a person referred to in subsection (1) must, on the request of the person in charge of the hospital at which the holder is an inpatient, deliver the licence to the person in charge of the hospital; and the person in charge must forward the licence to the Director of Area Mental Health Services.
 (3) The Director of Area Mental Health Services must retain a driver licence received under this section until it ceases to be subject to this section, and then,—
-  (a) In the case of a licence that applies to commercial vehicles, forward the licence to the Director of Land Transport; or
+  (a) In the case of a licence that applies to commercial vehicles, forward the licence to the Agency; or
   (b) In any other case, return the licence to the holder or to the person in possession referred to in subsection (2).
-(4) If a person to whom this section applies ceases to be a person referred to in subsection (1) and his or her responsible clinician considers that person to be unfit to hold a driver licence, the responsible clinician must advise the Director of Area Mental Health Services of that opinion and that Director must give the Director of Land Transport a certificate to that effect and (if it is in his or her possession) return the licence to the Director of Land Transport; and the licence has no effect unless it is returned to the holder under subsection (5).
-(5) A person referred to in subsection (4) may apply to the Director of Land Transport for the return of his or her driver licence and that Director must return the licence if satisfied the holder is fit to drive.
+(4) If a person to whom this section applies ceases to be a person referred to in subsection (1) and his or her responsible clinician considers that person to be unfit to hold a driver licence, the responsible clinician must advise the Director of Area Mental Health Services of that opinion and that Director must give the Agency a certificate to that effect and (if it is in his or her possession) return the licence to the Agency; and the licence has no effect unless it is returned to the holder under subsection (5).
+(5) A person referred to in subsection (4) may apply to the Agency for the return of his or her driver licence and the Agency must return the licence if satisfied the holder is fit to drive.
 (6) If—subsection (1)(b) does not apply to that person while that person is absent on leave from the hospital, and, if that person's driver licence is held by the Director of Area Mental Health Services, the licence must be returned to the holder.
   (a) A person to whom subsection (1) applies is, under any of sections 31, 50, and 52 of the Mental Health (Compulsory Assessment and Treatment) Act 1992, permitted to be absent on leave from a hospital under that Act; and
   (b) A responsible clinician certifies in writing that, in the clinician's opinion, that person is fit to hold a driver licence,—
-(7) In any case to which subsection (3)(a) applies, once the holder ceases to be subject to this section, the Director of Land Transport must, as soon as practicable after that Director is satisfied the holder is eligible to hold the licence, return the licence to the holder or to the person previously in possession referred to in subsection (2).
+(7) In any case to which subsection (3)(a) applies, once the holder ceases to be subject to this section, the Agency must, as soon as practicable after the Agency is satisfied the holder is eligible to hold the licence, return the licence to the holder or to the person previously in possession referred to in subsection (2).
 
-### 20 Traffic surveys not to be conducted unless approved by Director
-(1) A person may not, without the prior written consent of the Director, conduct on a road a traffic survey that is likely to involve the stopping, delay, or diversion of vehicles.
-(2) The Director may consent conditionally or unconditionally, and, if any condition is not complied with, the Director may direct that the survey be discontinued.
+### 20 Traffic surveys not to be conducted unless approved by Agency
+(1) A person may not, without the prior written consent of the Agency, conduct on a road a traffic survey that is likely to involve the stopping, delay, or diversion of vehicles.
+(2) The Agency may consent conditionally or unconditionally, and, if any condition is not complied with, the Agency may direct that the survey be discontinued.
 
 ### 21 Enforcement officers to ameliorate hazards
 If an enforcement officer, acting in the course of his or her official duties, becomes aware of the existence on a road of a hazard to the safety of traffic (whether arising from the nature or condition of a road or otherwise), the officer must—
@@ -542,30 +536,30 @@ If an enforcement officer, acting in the course of his or her official duties, b
 ## Part 4 — Driver licensing
 
 ### 23 Issue of driver licences
-(1) The Director must issue driver licences in accordance with the regulations and the rules.
+(1) The Agency must issue driver licences in accordance with the regulations and the rules.
 (2) Except as provided in subsection (3), a driver licence may be issued for a period not exceeding 10 years and, unless the licence is extended under that subsection or for any reason ceases to have effect on an earlier date, the licence expires on the expiry date specified on the licence.
-(3) The Director may—
+(3) The Agency may—
   (a) Issue licences for a period not exceeding 11 years in cases provided for by the rules:
   (b) Extend, in accordance with the rules, the term of a driver licence by 1 further period not exceeding 12 months.
 (4) All driver licences in force immediately before this subsection comes into force continue in force and expire on a date to be determined in accordance with the rules, even though they may have been valid for more than 10 years when issued.
 
-### 24 Director may issue temporary driver licences
-(1) If an applicant for a driver licence meets the requirements for the issue of a licence of the class sought and the Director is satisfied there will be some delay in issuing the licence, the Director may issue to the person a temporary driver licence which—
+### 24 Agency may issue temporary driver licences
+(1) If an applicant for a driver licence meets the requirements for the issue of a licence of the class sought and the Agency is satisfied there will be some delay in issuing the licence, the Agency may issue to the person a temporary driver licence which—
   (a) Must be in such form and contain such details as may be specified in the rules; and
   (b) Is valid for such period, not exceeding 21 days, as may be specified on the temporary licence.
 (2) A temporary driver licence issued under this section has the same effect as a driver licence of the same class issued under section 23.
-(3) Despite subsection (1), in the case of a person whose licence has expired or been revoked, the Director may issue a temporary licence, valid for a period not exceeding 1 year as specified on the temporary licence, as necessary to enable the person to continue to drive while his or her fitness to drive is assessed by the Director or a person authorised by the Director.
+(3) Despite subsection (1), in the case of a person whose licence has expired or been revoked, the Agency may issue a temporary licence, valid for a period not exceeding 1 year as specified on the temporary licence, as necessary to enable the person to continue to drive while his or her fitness to drive is assessed by the Agency or a person authorised by the Agency.
 
 ### 25 Minimum age for driver licensing
 A person who is younger than 15 may not hold or obtain a driver licence.
 
 ### 26 Drivers may be tested and examined
-The Director may require an applicant for a driver licence and holders of driver licences to—
-  (a) complete courses that are approved by the Director:
-  (b) pass tests and examinations that are approved by the Director.
+The Agency may require an applicant for a driver licence and holders of driver licences to—
+  (a) complete courses that are approved by the Agency:
+  (b) pass tests and examinations that are approved by the Agency.
 
 ### 27 Suspension and revocation of licences
-The Director may suspend or revoke a driver licence in accordance with the regulations and the rules.
+The Agency may suspend or revoke a driver licence in accordance with the regulations and the rules.
 
 ### 28 Photographic driver licence
 (1) A driver licence must be in the prescribed form and must have on it—
@@ -594,7 +588,7 @@ The Director may suspend or revoke a driver licence in accordance with the regul
   (b) in the case of a person who applies to convert an overseas licence or permit to a New Zealand full driver licence, the licence must show the date of issue of that person's first New Zealand driver licence; and
   (c) in the case of a learner licence or restricted licence issued under Part 4 of the Land Transport (Driver Licensing) Rule 1999, the original date of issue of the learner licence or restricted licence must be shown on that licence.
 (4C) Subsection (4B)(c) does not apply if the learner licence or the restricted licence adds a class to an existing licence.
-(5) The Authority must store the photographic image used for each licence until the licence expires.
+(5) The Agency must store the photographic image used for each licence until the licence expires.
 
 ### 28A Transitional provisions for photographic driver licences
 Despite section 28(1)(g) and (4), the date of issue of a driver licence continues to be shown on an existing licence until that licence is renewed or replaced under Part 12 of the Land Transport (Driver Licensing) Rule 1999.
@@ -612,7 +606,7 @@ Despite section 28(1)(g) and (4), the date of issue of a driver licence continue
 (2) A passenger endorsement is deemed to be expired and of no effect if held by a person who has been convicted of a specified serious offence on, before, or after the commencement of this section.
 (3) Despite subsection (1), a person may hold a passenger endorsement if—
   (a) the person has not, with respect to a conviction for a specified serious offence, been sentenced to imprisonment for a term exceeding 12 months; and
-  (b) the Director is, having regard to the criteria in section 29B(2)(b), satisfied that allowing the person to hold a passenger endorsement would not—
+  (b) the Agency is, having regard to the criteria in section 29B(2)(b), satisfied that allowing the person to hold a passenger endorsement would not—
     (i) be contrary to the public interest; and
     (ii) pose an undue risk to public safety or security.
 (4) For the purposes of this section,—
@@ -644,12 +638,12 @@ Despite section 28(1)(g) and (4), the date of issue of a driver licence continue
     (d) an offence committed outside New Zealand that, if committed in New Zealand, would constitute an offence specified in paragraphs (a) to (c).
 
 ### 29B Passenger endorsement may be reinstated in certain cases
-(1) A person who has a conviction for a specified serious offence may apply to the Director to have the passenger endorsement reinstated if—
+(1) A person who has a conviction for a specified serious offence may apply to the Agency to have the passenger endorsement reinstated if—
   (a) the person's passenger endorsement—
     (i) is deemed to be expired and of no effect under section 29A(2); or
     (ii) expired during the period beginning on 22 June 2005 and ending on the close of 15 January 2006; and
   (b) the person has not, with respect to a conviction for an offence specified in paragraph (a) or paragraph (b) of the definition of specified serious offence in section 29A(4), been sentenced to imprisonment for a term exceeding 12 months.
-(2) If an application is made under subsection (1), the Director—
+(2) If an application is made under subsection (1), the Agency—
   (a) may reinstate the applicant's passenger endorsement if satisfied that allowing the applicant to hold a passenger endorsement would not—
     (i) be contrary to the public interest; and
     (ii) pose an undue risk to public safety or security; and
@@ -659,26 +653,26 @@ Despite section 28(1)(g) and (4), the date of issue of a driver licence continue
     (iii) the nature and circumstances of each specified serious offence for which the applicant has been convicted; and
     (iv) any other convictions that the applicant has; and
     (v) the general safety criteria set out in section 30C; and
-    (vi) any other matters that the Director considers relevant, including (but not limited to) submissions by any affected party.
-(3) If the Director decides to reinstate the person's passenger endorsement under subsection (2) or allow a person to hold a passenger endorsement under section 29A(3), section 29A(1) does not apply with respect to the person unless the person commits a specified serious offence on or after the date of the Director's decision.
-(4) If the Director decides not to reinstate the person's passenger endorsement under subsection (2) or allow a person to hold a passenger endorsement under section 29A(3), the person may appeal to the High Court.
+    (vi) any other matters that the Agency considers relevant, including (but not limited to) submissions by any affected party.
+(3) If the Agency decides to reinstate the person's passenger endorsement under subsection (2) or allow a person to hold a passenger endorsement under section 29A(3), section 29A(1) does not apply with respect to the person unless the person commits a specified serious offence on or after the date of the Agency's decision.
+(4) If the Agency decides not to reinstate the person's passenger endorsement under subsection (2) or allow a person to hold a passenger endorsement under section 29A(3), the person may appeal to the High Court.
 (5) For the purposes of this section,—
   - **imprisonment** has the same meaning as in section 29A(4)
   - **specified serious offence** has the same meaning as in section 29A(4).
 
-### 30 Driver licences are property of Director and are to be surrendered in certain circumstances
-(1) Driver licences are the property of the Director and, except where section 19 applies, must be surrendered or forwarded to the Director in accordance with subsections (2) to (4A).
-(2) The holder of a driver licence must, immediately after receiving notice of the suspension or revocation, surrender his or her licence to the Director if—
+### 30 Driver licences are property of Agency and are to be surrendered in certain circumstances
+(1) Driver licences are the property of the Agency and, except where section 19 applies, must be surrendered or forwarded to the Agency in accordance with subsections (2) to (4A).
+(2) The holder of a driver licence must, immediately after receiving notice of the suspension or revocation, surrender his or her licence to the Agency if—
   (a) The licence is suspended or revoked under any Act; or
   (b) The suspension or revocation applies to any endorsement or class specified in the licence but not to the whole licence.
-(3) If the holder of a driver licence is disqualified by order of a court from holding or obtaining a driver licence, the holder must (whether or not a demand is made on him or her) immediately surrender the licence to the court where the order was made or to a member of the Police or at any office of the Authority.
+(3) If the holder of a driver licence is disqualified by order of a court from holding or obtaining a driver licence, the holder must (whether or not a demand is made on him or her) immediately surrender the licence to the court where the order was made or to a member of the Police or at any office of the Agency.
 (3A) If an enforcement officer has suspended a person's driver licence in accordance with section 90(2), the person must immediately surrender his or her licence to the officer.
-(4) A person who receives a driver licence under subsection (3), (3A), or (4A)(b) or (c) must immediately forward it to the Director.
+(4) A person who receives a driver licence under subsection (3), (3A), or (4A)(b) or (c) must immediately forward it to the Agency.
 (4A) The holder of a driver licence must, if that licence is superseded by another driver licence, surrender that driver licence to—
-  (a) the Director; or
-  (b) a person appointed by the Director; or
+  (a) the Agency; or
+  (b) a person appointed by the Agency; or
   (c) a member of the police.
-(5) When either—the Director must, subject to section 83 and as soon as practicable after being satisfied that the holder is eligible to hold such a licence, return the licence to the holder or issue a new licence.
+(5) When either—the Agency must, subject to section 83 and as soon as practicable after being satisfied that the holder is eligible to hold such a licence, return the licence to the holder or issue a new licence.
   (a) The disqualification or suspension expires or is removed; or
   (b) A court authorises the issue of a limited licence,—
 
@@ -690,9 +684,9 @@ Despite section 28(1)(g) and (4), the date of issue of a driver licence continue
 (1) A holder of a transport service licence must ensure that—
   (a) every vehicle to be used in connection with the service is maintained in a fit and proper condition and that the requirements of any Act, regulation, or rule made for this purpose are met:
   (b) no vehicle is used in connection with the service unless and until all fees payable in respect of the vehicle and the service under any Act, regulation, or bylaw have been duly paid or appropriate arrangements have been made for payment.
-(2) The holder of any transport service licence must, whenever required to do so by the Director, present for inspection any vehicle that is used in the service.
+(2) The holder of any transport service licence must, whenever required to do so by the Agency, present for inspection any vehicle that is used in the service.
 (3) No evidence of vehicle inspection may be issued in respect of a transport service vehicle unless the person issuing the evidence of vehicle inspection has been notified of the transport service licence number under which the vehicle is being operated.
-(4) No person may use a transport service vehicle if that vehicle has suffered serious damage until the vehicle has been inspected and passed as being safe by a person authorised by the Director, or the owner of the vehicle has been informed by such a person that the vehicle is not to be inspected.
+(4) No person may use a transport service vehicle if that vehicle has suffered serious damage until the vehicle has been inspected and passed as being safe by a person authorised by the Agency, or the owner of the vehicle has been informed by such a person that the vehicle is not to be inspected.
 
 ### 30B Provision of identification information in Braille
 The holder of a transport service licence under which a taxi is operated and the driver of that taxi must, in accordance with any regulations or rules, ensure that the following identification information is provided in Braille:
@@ -705,26 +699,26 @@ The holder of a transport service licence under which a taxi is operated and the
 **Assessment criteria**
 
 ### 30C General safety criteria
-(1) When assessing whether or not a person is a fit and proper person in relation to any transport service, the Director must consider, in particular, any matter that the Director considers should be taken into account—
+(1) When assessing whether or not a person is a fit and proper person in relation to any transport service, the Agency must consider, in particular, any matter that the Agency considers should be taken into account—
   (a) in the interests of public safety; or
   (b) to ensure that the public is protected from serious or organised criminal activity.
-(2) For the purpose of determining whether or not a person is a fit and proper person for any of the purposes of this Part, the Director may consider, and may give any relative weight that the Director thinks fit having regard to the degree and nature of the person's involvement in any transport service, to the following matters:
+(2) For the purpose of determining whether or not a person is a fit and proper person for any of the purposes of this Part, the Agency may consider, and may give any relative weight that the Agency thinks fit having regard to the degree and nature of the person's involvement in any transport service, to the following matters:
   (a) the person's criminal history (if any):
   (b) any offending by the person in respect of transport-related offences (including any infringement offences):
   (c) any history of serious behavioural problems:
   (d) any complaints made in relation to any transport service provided or operated by the person or in which the person is involved, particularly complaints made by users of the service:
   (e) any history of persistent failure to pay fines incurred by the person in respect of transport-related offences:
-  (f) any other matter that the Director considers it is appropriate in the public interest to take into account.
-(3) In determining whether or not a person is a fit and proper person for any of the purposes of this Part, the Director may consider—
+  (f) any other matter that the Agency considers it is appropriate in the public interest to take into account.
+(3) In determining whether or not a person is a fit and proper person for any of the purposes of this Part, the Agency may consider—
   (a) any conviction for an offence, whether or not—
     (i) the conviction was in a New Zealand court; or
     (ii) the offence was committed before the commencement of this Part or corresponding former enactment; or
     (iii) the person incurred demerit points under this Act or a corresponding former enactment in respect of the conviction; and
   (b) the fact that the person has been charged with any offence that is of such a nature that the public interest would seem to require that a person convicted of committing such an offence not be considered to be fit and proper for the purposes of this section.
-(4) Despite subsection (3), the Director may take into account any other matters and evidence as the Director considers relevant.
+(4) Despite subsection (3), the Agency may take into account any other matters and evidence as the Agency considers relevant.
 
 ### 30D Additional criteria for small passenger service vehicles and vehicle recovery service
-Without in any way limiting the matters that the Director may consider under section 30C(2), when the Director is assessing whether or not a person is a fit and proper person in relation to any passenger service involving the use of small passenger service vehicles, or to any vehicle recovery service, the Director must consider, in particular,—
+Without in any way limiting the matters that the Agency may consider under section 30C(2), when the Agency is assessing whether or not a person is a fit and proper person in relation to any passenger service involving the use of small passenger service vehicles, or to any vehicle recovery service, the Agency must consider, in particular,—
   (a) any history of serious behavioural problems:
   (b) any offending in respect of offences of violence, sexual offences, drugs offences, arms offences, or offences involving organised criminal activities:
   (c) any offending in respect of major transport-related offences, particularly offences relating to safety or to road user charges:
@@ -732,29 +726,29 @@ Without in any way limiting the matters that the Director may consider under sec
   (e) any complaints in respect of the person or any transport service operated by the person that are of a persistent or serious nature.
 
 ### 30E Additional criteria for large passenger service vehicles
-Without in any way limiting the matters that the Director may have regard to under section 30C(2), when the Director is assessing whether or not a person is a fit and proper person in relation to any passenger service involving the use of large passenger service vehicles, the Director must consider, in particular,—
+Without in any way limiting the matters that the Agency may have regard to under section 30C(2), when the Agency is assessing whether or not a person is a fit and proper person in relation to any passenger service involving the use of large passenger service vehicles, the Agency must consider, in particular,—
   (a) any history of serious behavioural problems that indicate a propensity for violence:
   (b) any offending in respect of offences of violence or sexual offences:
   (c) any offending in respect of major transport-related offences, particularly offences relating to safety or to road user charges.
 
 ### 30F Additional criteria for goods service
-Without in any way limiting the matters that the Director may have regard to under section 30C(2), when the Director is assessing whether or not a person is a fit and proper person in relation to any goods service, the Director must consider, in particular,—
+Without in any way limiting the matters that the Agency may have regard to under section 30C(2), when the Agency is assessing whether or not a person is a fit and proper person in relation to any goods service, the Agency must consider, in particular,—
   (a) any criminal activity conducted in the course of any transport service or transport-related business or employment:
   (b) any offending in respect of major transport-related offences, particularly offences relating to safety or to road user charges.
 
 **Information requirements**
 
-### 30G Director may require information for fit and proper person assessment
-The Director may, for the purpose of determining whether or not a person is a fit and proper person for any of the purposes of this Act,—
-  (a) seek and receive any information that the Director thinks fit; and
+### 30G Agency may require information for fit and proper person assessment
+The Agency may, for the purpose of determining whether or not a person is a fit and proper person for any of the purposes of this Act,—
+  (a) seek and receive any information that the Agency thinks fit; and
   (b) consider information obtained from any source.
 
-### 30H Director's duties concerning prejudicial information
-If the Director proposes to take into account any information that is or may be prejudicial to the person, the Director must, subject to section 30I(1) and to subpart 5, disclose that information to the person and, in accordance with subpart 5, give the person a reasonable opportunity to refute or comment on it.
+### 30H Agency’s duties concerning prejudicial information
+If the Agency proposes to take into account any information that is or may be prejudicial to the person, the Agency must, subject to section 30I(1) and to subpart 5, disclose that information to the person and, in accordance with subpart 5, give the person a reasonable opportunity to refute or comment on it.
 
-### 30I Non-disclosure by Director of information for safety reasons
-(1) Nothing in section 30H requires the Director to disclose any information the disclosure of which would be likely to endanger the safety of any person.
-(2) If the Director determines not to disclose any information in reliance on subsection (1), the Director must inform the person of the fact of non-disclosure and,—
+### 30I Non-disclosure by Agency of information for safety reasons
+(1) Nothing in section 30H requires the Agency to disclose any information the disclosure of which would be likely to endanger the safety of any person.
+(2) If the Agency determines not to disclose any information in reliance on subsection (1), the Agency must inform the person of the fact of non-disclosure and,—
   (a) in the case of non-disclosure to an individual of information about the individual,—
     (i) inform the individual that he or she may, under the Privacy Act 1993, complain to the Privacy Commissioner about that non-disclosure; and
     (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information has been withheld in reliance on section 27(1)(d) of that Act; and
@@ -778,16 +772,16 @@ A transport service operator may not carry on any of the following transport ser
 (2) A person may not hold or apply for a transport service licence while he or she is disqualified under this Act or any other Act from holding or obtaining a transport service licence.
 
 ### 30L Grant of licence
-(1) After considering an application for a transport service licence, the Director may grant the licence only if the Director is satisfied that—
+(1) After considering an application for a transport service licence, the Agency may grant the licence only if the Agency is satisfied that—
   (a) the applicant is a fit and proper person to hold a transport service licence; and
   (b) any person who is to have, or is likely to have, control or involvement in the operation of the transport service is a fit and proper person to have such control or involvement; and
   (c) the applicant or any person who is to have control of the service is the holder of the appropriate certificate (if any) required by the regulations or the rules; and
   (d) all relevant requirements of this Act, the regulations, and the rules have been complied with.
-(2) In determining whether or not a person is a fit and proper person to operate, control, or have an involvement in, a transport service, the Director must consider the matters specified in subpart 2.
+(2) In determining whether or not a person is a fit and proper person to operate, control, or have an involvement in, a transport service, the Agency must consider the matters specified in subpart 2.
 (3) Subpart 5 applies to a decision not to grant a transport service licence.
 
 ### 30M Conditions of transport service licences
-Despite section 30L(1) and (2), the Director may grant the licence on such conditions as the Director may specify on the licence or in writing to the holder if the applicant applies for a goods service licence and the Director—
+Despite section 30L(1) and (2), the Agency may grant the licence on such conditions as the Agency may specify on the licence or in writing to the holder if the applicant applies for a goods service licence and the Agency—
   (a) is not satisfied that the applicant is a fit and proper person to operate a goods service under the licence sought; but
   (b) is satisfied that—
     (i) the applicant is a fit and proper person to operate a goods service under a licence to carry the applicant's own goods, if specified conditions are imposed; and
@@ -804,22 +798,22 @@ Despite section 30L(1) and (2), the Director may grant the licence on such condi
   (a) surrendered under subsection (2); or
   (b) deemed to be surrendered under subsection (3); or
   (c) revoked under section 30S.
-(2) The holder of a transport service licence may surrender the transport service licence at any time by written notice to the Director.
+(2) The holder of a transport service licence may surrender the transport service licence at any time by written notice to the Agency.
 (3) If no vehicle has been operated under a transport service licence for a period of 2 years, the licence is deemed to have been surrendered.
 (4) No transport service licence for a transport service operated by any of the following may be suspended or revoked for any reason:
   (a) the Armed Forces; or
   (b) the Fire Services Commission; or
   (c) the police; or
-  (d) any emergency service organisation approved by the Director for the purposes of this section.
+  (d) any emergency service organisation approved by the Agency for the purposes of this section.
 
-### 30P Director may grant applications for approved taxi organisations
-(1) The Director may grant an application by a person or an organisation to be an approved taxi organisation.
+### 30P Agency may grant applications for approved taxi organisations
+(1) The Agency may grant an application by a person or an organisation to be an approved taxi organisation.
 (2) An application by a person or organisation to be an approved taxi organisation must be made in accordance with the regulations or the rules.
 (3) An approved taxi organisation must comply with the requirements relating to an approved taxi organisation specified in the regulations or the rules.
 (4) A holder of a passenger service licence may not operate a taxi service under that licence unless the licence holder is a member of an approved taxi organisation.
 
-### 30Q Circumstances in which Director must grant applications for approved taxi organisations
-(1) Despite section 30P(1), the Director must grant an application if the Director is satisfied that—
+### 30Q Circumstances in which Agency must grant applications for approved taxi organisations
+(1) Despite section 30P(1), the Agency must grant an application if the Agency is satisfied that—
   (a) the applicant is—
     (i) a person who holds, or has made an application for, a passenger service licence; or
     (ii) an organisation that represents operators of taxi services; and
@@ -832,11 +826,11 @@ Despite section 30L(1) and (2), the Director may grant the licence on such condi
 (2) Approval of an application includes approval of the proposed operating rules for the proposed taxi organisation.
 (3) Subpart 5 applies to a decision not to grant an application.
 
-### 30R Director may revoke approval
-(1) The Director may revoke any approval granted under section 30P(1) or section 30Q(1) if—
+### 30R Agency may revoke approval
+(1) The Agency may revoke any approval granted under section 30P(1) or section 30Q(1) if—
   (a) the person or organisation has been convicted 3 times or more of an offence against this Act or the regulations; or
   (b) the person or organisation no longer meets the criteria to be an approved taxi organisation; or
-  (c) the Director is satisfied that the person or organisation, or any person in control of the organisation,—
+  (c) the Agency is satisfied that the person or organisation, or any person in control of the organisation,—
     (i) is not a fit and proper person, within the meaning of subpart 2, to have control of an approved taxi organisation; or
     (ii) is not a fit and proper person to have control of an approved taxi organisation because the drivers within that approved taxi organisation have failed to maintain, in accordance with the regulations or the rules,—
       (A) an adequate area knowledge; or
@@ -848,27 +842,27 @@ Despite section 30L(1) and (2), the Director may grant the licence on such condi
 
 ### Subpart 4 — Revocation of transport service licences
 
-### 30S When Director may revoke transport service licence
-(1) The Director may revoke a transport service licence if the Director is satisfied that—
+### 30S When Agency may revoke transport service licence
+(1) The Agency may revoke a transport service licence if the Agency is satisfied that—
   (a) the holder of the transport service licence is not a fit and proper person to be the holder of a transport service licence; or
   (b) any person having control of the service, or any person who has an involvement in the operation of the service, is not a fit and proper person to have control of, or be involved in, the operation of the service.
 (2) Subpart 5 applies to a decision to revoke a transport service licence.
 
-### 30T Procedure Director must follow before revoking transport service licence
+### 30T Procedure Agency must follow before revoking transport service licence
 If the proposed revocation of a licence under this section is on the ground that a person other than the licence holder is not a fit and proper person,—
-  (a) the notice required to be given to the licence holder by section 30W must specify the steps that the Director will require to be taken if the licence is not to be revoked, which steps may include a requirement that the person concerned cease all involvement in the service within a specified period; and
-  (b) the licence must not be revoked where the licence holder complies with any such requirements of the Director.
+  (a) the notice required to be given to the licence holder by section 30W must specify the steps that the Agency will require to be taken if the licence is not to be revoked, which steps may include a requirement that the person concerned cease all involvement in the service within a specified period; and
+  (b) the licence must not be revoked where the licence holder complies with any such requirements of the Agency.
 
 ### 30U Suspension of transport service licence
-(1) If the holder of a transport service licence, or any person who has control of the service, does not hold a certificate required by the regulations or the rules, the Director may suspend the licence until the holder of the licence or the person who has control of the service is the holder of such a certificate.
-(2) Subject to subsection (1), any such suspension shall cease immediately upon the holder of the licence or any person having control of the service obtaining the appropriate certificate and notifying the Director accordingly.
+(1) If the holder of a transport service licence, or any person who has control of the service, does not hold a certificate required by the regulations or the rules, the Agency may suspend the licence until the holder of the licence or the person who has control of the service is the holder of such a certificate.
+(2) Subject to subsection (1), any such suspension shall cease immediately upon the holder of the licence or any person having control of the service obtaining the appropriate certificate and notifying the Agency accordingly.
 (3) Subpart 5 applies to a decision to suspend a transport service licence.
 
 ### Subpart 5 — Adverse decisions
 
 ### 30V Interpretation
 In sections 30W to 30Y, unless the context otherwise requires,—
-  - **adverse decision** means any decision of the Director—
+  - **adverse decision** means any decision of the Agency—
     (a) that a person is not a fit and proper person under subpart 2; or
     (b) to refuse to grant—
       (i) a transport service licence under section 30L; or
@@ -885,20 +879,20 @@ In sections 30W to 30Y, unless the context otherwise requires,—
       (ii) a transport service licence holder or person in control of a transport service under section 87B
   - **affected licence holder** , in relation to any person directly affected by an adverse decision, means the holder of or the applicant for the transport service licence for the transport service in which that person has or is to have control or is or will be involved, whether as a driver or otherwise
   - **person directly affected** , in relation to any adverse decision, means the person who would be entitled under section 106 to appeal against that adverse decision
-  - **person on the basis of whose character the adverse decision arises** , in relation to any adverse decision made or proposed to be made on the ground that any person is not a fit and proper person for the purposes of the relevant service, licence, or other matter to which the decision relates, means the person whom the Director assesses as not being a fit and proper person.
+  - **person on the basis of whose character the adverse decision arises** , in relation to any adverse decision made or proposed to be made on the ground that any person is not a fit and proper person for the purposes of the relevant service, licence, or other matter to which the decision relates, means the person whom the Agency assesses as not being a fit and proper person.
 
-### 30W Director to notify proposal to make adverse decision
-(1) If the Director proposes to make an adverse decision under this Part in respect of any person, the Director must, by notice in writing,—
+### 30W Agency to notify proposal to make adverse decision
+(1) If the Agency proposes to make an adverse decision under this Part in respect of any person, the Agency must, by notice in writing,—
   (a) notify the person directly affected of the proposed decision; and
   (b) subject to subsection (3), inform that person of the grounds for the proposed decision; and
-  (c) specify a date by which submissions may be made to the Director in respect of the proposed decision (which date must not be less than 21 days after the date on which the notice is given); and
-  (d) if appropriate, specify the date on which the proposed decision will, unless the Director otherwise determines, take effect, being a date not earlier than 28 days after the date the notice is given; and
-  (e) notify the person of the person's right of appeal under section 106, in the event of the Director proceeding with the proposed decision; and
+  (c) specify a date by which submissions may be made to the Agency in respect of the proposed decision (which date must not be less than 21 days after the date on which the notice is given); and
+  (d) if appropriate, specify the date on which the proposed decision will, unless the Agency otherwise determines, take effect, being a date not earlier than 28 days after the date the notice is given; and
+  (e) notify the person of the person's right of appeal under section 106, in the event of the Agency proceeding with the proposed decision; and
   (f) specify such other matters as in any particular case may be required by this Act or any other Act.
-(2) If the Director gives a notice under subsection (1), the Director—
+(2) If the Agency gives a notice under subsection (1), the Agency—
   (a) must also supply a copy of the notice to—
     (i) any person on the basis of whose character the adverse decision arises, where that person is not the person directly affected:
-    (ii) any affected licence holder, if the Director considers that the proposed adverse decision is likely to have a significant impact on the operations of that licence holder:
+    (ii) any affected licence holder, if the Agency considers that the proposed adverse decision is likely to have a significant impact on the operations of that licence holder:
   (b) may supply a copy of the notice to any other affected licence holder.
 (3) No notice or copy of a notice given under this section may include or be accompanied by any information referred to in section 30H except to the extent that—
   (a) the notice or copy is supplied to the person to whom the information relates; or
@@ -906,15 +900,15 @@ In sections 30W to 30Y, unless the context otherwise requires,—
 
 ### 30X Procedure for consideration of information
 If any notice or copy of a notice is given to any person under section 30W,—
-  (a) it is the responsibility of the person to ensure that all information that the person wishes to have considered by the Director in relation to the proposed adverse decision is received by the Director within the period specified in the notice under section 30W(1)(c), or within any further period that the Director may allow in any case:
-  (b) the Director may, but is not obliged to, consider any information supplied by the person after the expiry of the period referred to in paragraph (a), other than information requested by the Director and supplied by the person within such reasonable time as the Director may specify:
-  (c) the Director must consider any submissions made in accordance with paragraph (a), and any information supplied pursuant to a request referred to in paragraph (b), but is not obliged to hear any person on the matter.
+  (a) it is the responsibility of the person to ensure that all information that the person wishes to have considered by the Agency in relation to the proposed adverse decision is received by the Agency within the period specified in the notice under section 30W(1)(c), or within any further period that the Agency may allow in any case:
+  (b) the Agency may, but is not obliged to, consider any information supplied by the person after the expiry of the period referred to in paragraph (a), other than information requested by the Agency and supplied by the person within such reasonable time as the Agency may specify:
+  (c) the Agency must consider any submissions made in accordance with paragraph (a), and any information supplied pursuant to a request referred to in paragraph (b), but is not obliged to hear any person on the matter.
 
-### 30Y Director's determination
-After considering the matters referred to in section 30X(c), the Director must—
+### 30Y Agency’s determination
+After considering the matters referred to in section 30X(c), the Agency must—
   (a) finally determine whether or not to make the proposed adverse decision; and
   (b) as soon as practicable thereafter, notify in writing to the person directly affected, and any other person of a kind referred to in section 30W(2)(a), of—
-    (i) the Director's decision; and
+    (i) the Agency's decision; and
     (ii) if appropriate, the date on which the decision will take effect; and
     (iii) if appropriate, the right of appeal under section 106.
 
@@ -923,14 +917,14 @@ After considering the matters referred to in section 30X(c), the Director must�
 ### 30Z Application of Part
 Nothing in this Part applies in respect of any rail service vehicle.
 
-### 30ZA Director may grant exemptions or approve alternative fatigue management schemes
-(1) If the Director takes into account the criteria specified in section 166(2), the Director may, upon any conditions that he or she considers appropriate,—
+### 30ZA Agency may grant exemptions or approve alternative fatigue management schemes
+(1) If the Agency takes into account the criteria specified in section 166(2), the Agency may, upon any conditions that the Agency considers appropriate,—
   (a) with respect to subpart 1, grant written variations to work time requirements specified in subpart 1 or the rules:
   (b) with respect to subpart 2, grant partial or total written exemptions from some or all of the requirements to maintain logbooks:
   (c) approve, in accordance with the rules, an alternative fatigue management scheme that varies the work time restrictions or rest time requirements of any rule for all drivers covered by the relevant transport service licence.
-(2) A variation or exemption granted, or an approval given under subsection (1), in relation to work time or logbooks may be amended or revoked at any time by the Director in writing.
-(3) The Director may revoke, by notice in writing, any exemption from logbook use granted under the rules if the Director has reason to believe that the person has breached the rules or any conditions imposed under subsection (1).
-(4) Before approving an alternative fatigue management scheme under subsection (1)(c), the Director must be satisfied that the applicant has consulted any representatives of the drivers covered by the relevant transport licence (including, but not limited to, unions).
+(2) A variation or exemption granted, or an approval given under subsection (1), in relation to work time or logbooks may be amended or revoked at any time by the Agency in writing.
+(3) The Agency may revoke, by notice in writing, any exemption from logbook use granted under the rules if the Agency has reason to believe that the person has breached the rules or any conditions imposed under subsection (1).
+(4) Before approving an alternative fatigue management scheme under subsection (1)(c), the Agency must be satisfied that the applicant has consulted any representatives of the drivers covered by the relevant transport licence (including, but not limited to, unions).
 
 ### Subpart 1 — Work time
 
@@ -991,10 +985,10 @@ Nothing in this Part applies in respect of any rail service vehicle.
 ### 30ZF Drivers must maintain logbooks
 Unless exempted under section 30ZA(1), the regulations, or the rules, a driver must maintain a logbook in the—
   (a) manner prescribed by the rules; and
-  (b) form approved by the Director in accordance with the rules.
+  (b) form approved by the Agency in accordance with the rules.
 
-### 30ZG Director may approve or revoke alternative means of recording matters
-The Director may, in accordance with the rules, approve or revoke an alternative means of recording matters relevant to the monitoring of work time.
+### 30ZG Agency may approve or revoke alternative means of recording matters
+The Agency may, in accordance with the rules, approve or revoke an alternative means of recording matters relevant to the monitoring of work time.
 
 ### 30ZH Duties regarding logbooks
 (1) A driver must—
@@ -1032,7 +1026,7 @@ The Director may, in accordance with the rules, approve or revoke an alternative
     (ii) without an appropriate driver licence; or
   (b) Drives a motor vehicle contrary to the conditions of his or her driver licence; or
   (c) Is the driver of a motor vehicle and fails to produce his or her driver licence for inspection without delay after being required to do so by an enforcement officer; or
-  (d) Fails to return his or her driver licence to the Director, a person appointed by the Director, or a member of the police when required to do so by subsection (2) or subsection (3) or subsection (4A) of section 30.
+  (d) Fails to return his or her driver licence to the Agency, a person appointed by the Agency, or a member of the police when required to do so by subsection (2) or subsection (3) or subsection (4A) of section 30.
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $1,000.
 
 ### 32 Contravention of section 5(1)(c)
@@ -1041,7 +1035,7 @@ The Director may, in accordance with the rules, approve or revoke an alternative
   (b) Contrary to a limited licence; or
   (c) While his or her driver licence is suspended or revoked.
 (2) Nothing in subsection (1) applies to any person—
-  (a) Who has been ordered by a court to attend an approved driving improvement course under section 92(1) or a programme approved by the Director under section 99A or to undergo any test or examination prescribed for a driver licence or endorsement; and
+  (a) Who has been ordered by a court to attend an approved driving improvement course under section 92(1) or a programme approved by the Agency under section 99A or to undergo any test or examination prescribed for a driver licence or endorsement; and
   (b) Who, in the course of his or her attendance at that course or programme or while undergoing such a test or examination,—
     (i) in the case of a motorcyclist, drives under the supervision of a person who holds a driving instructor or testing officer endorsement under Part 5 of the Land Transport (Driver Licensing) Rule 1999 that is relevant to a class of licence for a motorcycle:
     (ii) in any other case, drives while accompanied by a person who holds a driving instructor or testing officer endorsement under Part 5 of the Land Transport (Driver Licensing) Rule 1999.
@@ -1181,7 +1175,7 @@ A court may impose a fine for an infringement offence, other than an overloading
 
 ### 46 Contravention of section 20
 (1) A person commits an offence if the person, without reasonable excuse,—
-  (a) Conducts a traffic survey to which section 20 applies without the prior written consent of the Director; or
+  (a) Conducts a traffic survey to which section 20 applies without the prior written consent of the Agency; or
   (b) Fails to comply with any condition or direction given under section 20.
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $2,000.
 
@@ -1349,7 +1343,7 @@ A court may impose a fine for an infringement offence, other than an overloading
 
 ### 65 Mandatory penalties for repeat offences involving use of alcohol or drugs
 (1) This section applies to offences against any of sections 56 to 62.
-(2) If—the court must (unless prevented by subsection (3)) make an order requiring the person to attend an Assessment Centre and disqualifying the person from holding or obtaining a driver licence until the Director removes that disqualification under section 100.
+(2) If—the court must (unless prevented by subsection (3)) make an order requiring the person to attend an Assessment Centre and disqualifying the person from holding or obtaining a driver licence until the Agency removes that disqualification under section 100.
   (a) A court convicts a person of an offence to which this section applies; and
   (b) The person convicted has previously been convicted of such an offence committed within 5 years of the date of the commission of the offence being dealt with by the court,—
 (3) The court may not make an order referred to in subsection (2) unless at least 1 of the offences was—
@@ -1357,7 +1351,7 @@ A court may impose a fine for an infringement offence, other than an overloading
     (i) The proportion of alcohol in the person's breath, as ascertained by an evidential breath test, exceeded 1,000 micrograms of alcohol per litre of breath; or
     (ii) The proportion of alcohol in the person's blood, as ascertained from an analysis of a blood specimen, exceeded 200 milligrams of alcohol per 100 millilitres of blood; or
   (b) An offence against section 59 or section 60 (which relate to failing to remain or to accompany or to permit a blood specimen to be taken for the purposes of the administration of breath tests and blood tests).
-(4) The court must make an order that requires a person to attend an Assessment Centre and that disqualifies that person from holding or obtaining a driver licence until the Director removes that disqualification under section 100 if—
+(4) The court must make an order that requires a person to attend an Assessment Centre and that disqualifies that person from holding or obtaining a driver licence until the Agency removes that disqualification under section 100 if—
   (a) the court convicts that person of a third or subsequent offence to which this section applies; and
   (b) the 2 or more previous offences were committed within 5 years of the date of the commission of the offence being dealt with by the court.
 (5) For the purposes of this section, a conviction for an offence against a provision of the Transport Act 1962 corresponding to an offence to which this section applies is to be treated as a conviction for an offence specified in subsection (1).
@@ -1578,18 +1572,18 @@ If a certificate referred to in section 143 is produced in proceedings for an of
 ### 79A Offence to carry on transport service without licence
 (1) A person commits an offence if the person carries on any transport service without the appropriate current licence.
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $10,000.
-(3) A person who is convicted of a second or subsequent offence against subsection (1) is liable on summary conviction to a fine not exceeding $25,000 and the court may, if it thinks appropriate, order any or every vehicle used under the transport service to be immediately impounded and held at a location that the Director specifies, at the expense of the convicted person (which is in addition to the fine and any other costs (if any) ordered by the court), for a period specified by the court that does not exceed 90 days.
+(3) A person who is convicted of a second or subsequent offence against subsection (1) is liable on summary conviction to a fine not exceeding $25,000 and the court may, if it thinks appropriate, order any or every vehicle used under the transport service to be immediately impounded and held at a location that the Agency specifies, at the expense of the convicted person (which is in addition to the fine and any other costs (if any) ordered by the court), for a period specified by the court that does not exceed 90 days.
 (4) Any fees and charges incurred with respect to an impoundment under subsection (3) are recoverable from the convicted person by the vehicle recovery service operator or storage provider.
 (5) Nothing in subsection (4) limits or affects any rights against the owner of the vehicle, or in respect of the vehicle, that may be exercised by the vehicle recovery service operator or storage provider.
 (6) A person may not remove or release from storage an impounded motor vehicle, unless allowed to do so under this Act.
 (7) The storage provider must immediately comply with a direction under this Act to release the vehicle to the owner or a person authorised for the purpose by the owner.
-(8) The Director, or a person authorised for the purpose by the Director, may enter into such arrangements with vehicle recovery service operators and storage providers as he or she thinks necessary for the purposes of this section.
+(8) The Agency, or a person authorised for the purpose by the Agency, may enter into such arrangements with vehicle recovery service operators and storage providers as the Agency considers necessary for the purposes of this section.
 
 ### 79B Provision of incorrect information
-A licence holder or person having control of a transport service who notifies the Director that the licence holder or person holds the appropriate certificate, knowing that the information is incorrect or being reckless as to whether or not it is correct, commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
+A licence holder or person having control of a transport service who notifies the Agency that the licence holder or person holds the appropriate certificate, knowing that the information is incorrect or being reckless as to whether or not it is correct, commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
 
 ### 79C Failure to present vehicle for inspection
-(1) A transport service licence holder commits an offence if he or she fails to present his or her transport service vehicle for inspection when required to do so by the Director.
+(1) A transport service licence holder commits an offence if he or she fails to present his or her transport service vehicle for inspection when required to do so by the Agency.
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $10,000.
 
 ### 79D Contravention of section 30K
@@ -1665,7 +1659,7 @@ Every person commits an offence who fails to comply with any work time restricti
       (A) requires a class 2, 3, 4, or 5 licence (as specified in the rules); and
       (B) is used in the relevant transport service; and
       (C) is used to carry goods for hire or reward; or
-    (ii) the person must complete a work time and log-book course approved by the Director:
+    (ii) the person must complete a work time and log-book course approved by the Agency:
   (b) in the case of a person exceeding the work time restrictions or failing to comply with the rest time requirements by 60 minutes or more in a cumulative work day, a fine not exceeding $2,000, and the person must, for a period of 1 calendar month or any greater period that the court thinks fit, be disqualified from holding or obtaining a licence to drive a vehicle that—
     (i) requires a class 2, 3, 4, or 5 licence (as specified in the rules); and
     (ii) is used in the relevant transport service; and
@@ -1763,10 +1757,10 @@ Every person commits an offence, and is liable on conviction to a fine not excee
 ### 83 Holder to undergo approved tests or courses if disqualified for more than 1 year
 (1) If a person is disqualified from holding or obtaining a driver licence for a period of more than 12 months or for 2 or more cumulative periods totalling more than 12 months,—
   (a) the licence continues to be of no effect after the disqualification ends until the person applies for the same class of licence and the person qualifies for the licence by any or all (as the case may be) of the following:
-    (i) completing any courses approved by the Director for that purpose:
-    (ii) passing the tests and examinations approved by the Director for that purpose; and
-  (b) The Director may issue a new licence or endorse the existing licence.
-(1A) If a person to whom subsection (1) applies has passed the appropriate theory test, the Director may—
+    (i) completing any courses approved by the Agency for that purpose:
+    (ii) passing the tests and examinations approved by the Agency for that purpose; and
+  (b) The Agency may issue a new licence or endorse the existing licence.
+(1A) If a person to whom subsection (1) applies has passed the appropriate theory test, the Agency may—
   (a) issue a new licence to that person with the supervisory condition (if any) applicable to a learner licence for that class of vehicle as specified in the rules; or
   (b) endorse that person's existing licence with the supervisory condition (if any) applicable to a learner licence for that class of vehicle as specified in the rules.
 (2) Subsection (1) applies to a person who has been authorised to obtain a limited licence by an order of a court made under section 105 only if the order was made not less than 12 months after the date the disqualification started or (in the case of a person disqualified for 2 or more cumulative periods) not less than 12 months after the date the first period of disqualification started.
@@ -1777,9 +1771,9 @@ Every person commits an offence, and is liable on conviction to a fine not excee
   (b) the person—
     (i) applies for a class of licence that the person held immediately before that person was disqualified; and
     (ii) qualifies for that class of licence by any or all of the following:
-      (A) completing any courses approved by the Director for that purpose:
-      (B) passing the tests and examinations approved by the Director for that purpose.
-(2) If this section applies, then the Director must—
+      (A) completing any courses approved by the Agency for that purpose:
+      (B) passing the tests and examinations approved by the Agency for that purpose.
+(2) If this section applies, then the Agency must—
   (a) issue a new licence to that person to authorise that person to drive the relevant class of motor vehicle and all lower classes of motor vehicles for which that person held a licence immediately before he or she was disqualified; or
   (b) endorse that person's existing licence to authorise that person to drive the relevant class of motor vehicle and all lower classes of motor vehicles for which that person held a licence immediately before he or she was disqualified.
 (3) A class of licence to drive a motorcycle does not entitle a person to drive a motor vehicle other than a motor vehicle authorised by that class of licence.
@@ -1795,17 +1789,17 @@ Every person commits an offence, and is liable on conviction to a fine not excee
   (b) At the time of the commission of the offence, the person was already disqualified or was the holder of a limited licence issued under section 105 (or the corresponding provisions of a former enactment),—
 (2) Nothing in subsection (1) restricts the power of the court to impose any other penalty specified for the offence, and the imposition of a penalty under that subsection does not limit or affect any duty or power of the court to order a longer period of disqualification.
 
-### 87 Particulars of court orders relating to disqualification to be sent to Director and offender
-(1) If a court makes an order disqualifying a person from holding or obtaining a driver licence or an order under section 99 (removing a disqualification) or an order under section 105 (authorising the issue of a limited licence), the Registrar of the court must notify the Director, and the offender in writing, of the particulars of the order.
+### 87 Particulars of court orders relating to disqualification to be sent to Agency and offender
+(1) If a court makes an order disqualifying a person from holding or obtaining a driver licence or an order under section 99 (removing a disqualification) or an order under section 105 (authorising the issue of a limited licence), the Registrar of the court must notify the Agency, and the offender in writing, of the particulars of the order.
 (2) A failure to comply with the notification requirements in subsection (1) does not affect the validity of the order concerned.
 
 **Disqualification of transport service driver and other persons**
 
 ### 87A Disqualification of transport service driver
-If the Director is satisfied that a transport service driver is not a fit and proper person within the meaning of subpart 2 of Part 4A to drive a transport service vehicle, the Director may disqualify that person, for a period not exceeding 10 years, from driving any vehicle being used in a transport service (other than a rental service) or a specified class of transport service.
+If the Agency is satisfied that a transport service driver is not a fit and proper person within the meaning of subpart 2 of Part 4A to drive a transport service vehicle, the Agency may disqualify that person, for a period not exceeding 10 years, from driving any vehicle being used in a transport service (other than a rental service) or a specified class of transport service.
 
 ### 87B Disqualification of holder of transport service licence from holding transport service licence
-If the Director revokes a transport service licence, the Director may disqualify, for a period not exceeding 10 years, the holder of the transport service licence, or any other person who was in control of or involved in the transport service and whose fitness and propriety was the basis of, or contributed to, a decision to revoke the transport service licence, from—
+If the Agency revokes a transport service licence, the Agency may disqualify, for a period not exceeding 10 years, the holder of the transport service licence, or any other person who was in control of or involved in the transport service and whose fitness and propriety was the basis of, or contributed to, a decision to revoke the transport service licence, from—
   (a) holding or obtaining a transport service licence:
   (b) having any form of control of a transport service.
 
@@ -1815,11 +1809,11 @@ Subpart 5 of Part 4A applies to a decision to disqualify a person under section 
 **Suspension of transport service driver and other persons**
 
 ### 87D Immediate suspension of transport service driver and other persons in interests of public safety
-(1) If the circumstances described in subsection (2) apply, the Director may, by notice in writing to the person concerned, suspend that person from—
+(1) If the circumstances described in subsection (2) apply, the Agency may, by notice in writing to the person concerned, suspend that person from—
   (a) driving any vehicle used in a transport service (other than a rental service) or a specified class of transport service:
   (b) being a driving instructor or testing officer, as the case may be.
 (2) The circumstances referred to in subsection (1) are—
-  (a) the Director considers that—
+  (a) the Agency considers that—
     (i) the person concerned is not a fit and proper person within the meaning of subpart 2 of Part 4A to drive a transport service vehicle or to be a driving instructor or testing officer, as the case may be; and
     (ii) the interests of public safety, or the need to ensure that the public is protected from serious or organised criminal activity, would seem to require immediate suspension of the person as a transport service driver, driving instructor, or testing officer, as the case may be; or
   (b) the person has been charged with any offence that is of such a nature that the interests of public safety, or the need to protect the public against serious or organised criminal activity, would require that a person convicted of committing such an offence not be a transport service driver, or driving instructor, or testing officer, as the case may be.
@@ -1831,8 +1825,8 @@ Subpart 5 of Part 4A applies to a decision to disqualify a person under section 
 Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D.
 
 ### 87F Term of suspension
-(1) A suspension under section 87D may take effect either immediately or from any date that the Director may specify.
-(2) The Director may at any time withdraw a suspension imposed under section 87D.
+(1) A suspension under section 87D may take effect either immediately or from any date that the Agency may specify.
+(2) The Agency may at any time withdraw a suspension imposed under section 87D.
 (3) If any suspension has been imposed in respect of a person to whom section 87D(2)(b) applies, the suspension ceases immediately if—
   (a) the charge is withdrawn in circumstances where it is not replaced with another charge based on the same circumstances; or
   (b) the person is found not guilty of the offence charged.
@@ -1840,17 +1834,17 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
 **Effect of disqualification or suspension of transport service driver and other persons**
 
 ### 87G Effect of disqualification or suspension of transport service driver and other persons
-(1) If the Director disqualifies or suspends any person from driving a transport service vehicle or being a driving instructor or testing officer under either section 87A or section 87D, the Director may, for the period of the disqualification or suspension,—
+(1) If the Agency disqualifies or suspends any person from driving a transport service vehicle or being a driving instructor or testing officer under either section 87A or section 87D, the Agency may, for the period of the disqualification or suspension,—
   (a) revoke or suspend any driver licence held by the person, not being a licence of a class that relates principally to the use of private motor vehicles, and disqualify the person from holding or obtaining any such licence; and
   (b) prohibit the person from driving any vehicle used in a transport service (other than a rental service vehicle) or a specified class of transport service, even though the person may obtain or continue to hold a driver licence of a class that, although it relates principally to the use of private motor vehicles, also entitles the person to drive a transport service vehicle; and
   (c) prohibit the person from carrying out duties or activities as a driving instructor or testing officer.
-(2) Nothing in this section or in any of sections 87A to 87F derogates from or affects any power of the Director under this Act, the regulations, or the rules, to revoke, suspend, or otherwise deal with any driver licence.
+(2) Nothing in this section or in any of sections 87A to 87F derogates from or affects any power of the Agency under this Act, the regulations, or the rules, to revoke, suspend, or otherwise deal with any driver licence.
 
 **Demerit points system**
 
-### 88 Demerit points to be recorded by Director
-(1) If a person is convicted of an offence (other than an offence detected by approved vehicle surveillance equipment) concerning the driving of a motor vehicle, the Director must record in respect of that person such number of points (demerit points) as may be prescribed for that offence.
-(2) The Registrar of the court must send to the Director particulars of convictions to which subsection (1) applies.
+### 88 Demerit points to be recorded by Agency
+(1) If a person is convicted of an offence (other than an offence detected by approved vehicle surveillance equipment) concerning the driving of a motor vehicle, the Agency must record in respect of that person such number of points (demerit points) as may be prescribed for that offence.
+(2) The Registrar of the court must send to the Agency particulars of convictions to which subsection (1) applies.
 (3) If a person is convicted of 2 or more offences arising out of the same set of circumstances,—
   (a) Demerit points must be recorded in relation to 1 offence only; and
   (b) If those offences do not carry the same number of points, points must be recorded for the offence or 1 of the offences that carries the greatest number of points.
@@ -1860,7 +1854,7 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
   (b) a summary conviction for the offence is to be treated as having been entered against the offender on the date of the payment of the infringement fee.
 
 ### 89 Notice of demerit points
-(1) If 50 or more demerit points have been recorded against a person, the Director must, when reasonably practicable, send that person a notice in writing telling the person—
+(1) If 50 or more demerit points have been recorded against a person, the Agency must, when reasonably practicable, send that person a notice in writing telling the person—
   (a) The number of demerit points recorded against that person; and
   (b) The consequences of further demerit points being recorded against that person.
 (2) No suspension imposed under section 90 in respect of a person's driver licence, or disqualification imposed under that section in respect of a person, is invalid merely because—
@@ -1869,10 +1863,10 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
 (3) If a notice given under subsection (1) is sent by ordinary post addressed to the defendant at the defendant's last known place of residence or business or postal address, then, unless the contrary is shown, the notice is served when the notice would have been delivered in the ordinary course of post, and in proving service it is sufficient to prove that the notice was properly addressed and posted.
 
 ### 90 Suspension of licence or disqualification from driving under demerit points system
-(1) If, in any 2-year period, a total of 100 or more demerit points have effect against a person, the Director must, by notice in writing given to that person, either—
+(1) If, in any 2-year period, a total of 100 or more demerit points have effect against a person, the Agency must, by notice in writing given to that person, either—
   (a) suspend that person's current driver licence for 3 months; or
   (b) if the person does not hold a current driver licence on the date of the giving of the notice, disqualify the person from holding or obtaining a driver licence for 3 months.
-(2) If the Director has been unsuccessful in giving notice to a person under subsection (1), an enforcement officer may, by notice in writing given to that person, either—
+(2) If the Agency has been unsuccessful in giving notice to a person under subsection (1), an enforcement officer may, by notice in writing given to that person, either—
   (a) suspend that person's current driver licence for 3 months; or
   (b) if the person does not hold a current driver licence on the date of the giving of the notice, disqualify the person from holding or obtaining a driver licence for 3 months.
 (3) A suspension or disqualification under subsection (1) or subsection (2) starts on the date the notice is given to the person.
@@ -1880,27 +1874,27 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
 
 ### 91 Cancellation and reinstatement of demerit points
 (1) When 2 years have elapsed since the commission of an offence in respect of which demerit points were recorded, the entry of the points made in respect of that offence ceases to have effect in relation to the person who committed that offence; but if demerit points were recorded in respect of 2 or more offences committed by that person, the entry ceases to have effect when 2 years have elapsed since the commission of the most recent of those offences.
-(2) If a suspension under section 90 is imposed in respect of a person's driver licence or a disqualification is imposed under that section in respect of a person, the Director must cancel all demerit points for the time being recorded in respect of that person.
-(3) The Director must cancel all demerit points for the time being recorded against a person if a court disqualifies the person from holding or obtaining a driver licence for a period of 6 months or more.
-(4) If a person's suspension or disqualification is removed on appeal, the Director must reinstate the demerit points cancelled under this section.
+(2) If a suspension under section 90 is imposed in respect of a person's driver licence or a disqualification is imposed under that section in respect of a person, the Agency must cancel all demerit points for the time being recorded in respect of that person.
+(3) The Agency must cancel all demerit points for the time being recorded against a person if a court disqualifies the person from holding or obtaining a driver licence for a period of 6 months or more.
+(4) If a person's suspension or disqualification is removed on appeal, the Agency must reinstate the demerit points cancelled under this section.
 
 **Other penalties**
 
 ### 92 Compulsory attendance at driving improvement course or dangerous goods course
-(1) If a person is convicted of an offence concerning the driving of a motor vehicle, the court may, whether or not it imposes any other penalty for the offence, order that person to attend an appropriate driving improvement course approved by the Director.
-(2) If a person is convicted of an offence against this Act involving dangerous goods, the court may, whether or not it imposes any other penalty for the offence, order the person to attend an appropriate dangerous goods course approved by the Director.
-(3) On the making of an order under subsection (1) or subsection (2), the Registrar of the court must notify the Director of the particulars of the order and the conviction for which it is made.
+(1) If a person is convicted of an offence concerning the driving of a motor vehicle, the court may, whether or not it imposes any other penalty for the offence, order that person to attend an appropriate driving improvement course approved by the Agency.
+(2) If a person is convicted of an offence against this Act involving dangerous goods, the court may, whether or not it imposes any other penalty for the offence, order the person to attend an appropriate dangerous goods course approved by the Agency.
+(3) On the making of an order under subsection (1) or subsection (2), the Registrar of the court must notify the Agency of the particulars of the order and the conviction for which it is made.
 (4) A person who has been ordered under subsection (1) or subsection (2) to attend a course must attend the course and must, within 21 days after being required to do so, pay to the person in charge of the course the fee usually charged for that course.
 
 ### 93 Court may order compulsory driving test
 (1) If the holder of a driver licence is convicted of an offence concerning the driving of a motor vehicle, the court may, whether or not it imposes any other penalty or makes any other order concerning the offence, order that person to undergo any tests and examinations prescribed for a driver licence or endorsement authorising the person to drive a motor vehicle of the class he or she was driving at the time of the offence.
-(2) On the making of an order under subsection (1), the Registrar of the court must notify the Director of the particulars of the order and the conviction for which it is made.
+(2) On the making of an order under subsection (1), the Registrar of the court must notify the Agency of the particulars of the order and the conviction for which it is made.
 (3) The following provisions apply to the tests and examinations:
-  (a) The Director must give the person who is to be tested or examined not less than 14 clear days' notice of the date, time, and place of each test and examination:
-  (b) The tests and examinations must be carried out under the supervision of the Director.
+  (a) The Agency must give the person who is to be tested or examined not less than 14 clear days' notice of the date, time, and place of each test and examination:
+  (b) The tests and examinations must be carried out under the supervision of the Agency.
 (4) The driver licence of a person who fails to pass the prescribed tests and examinations is suspended until the person passes the tests and examinations, and, if a person fails without reasonable excuse to attend on the date and at the time and place specified in a notice given under subsection (3)(a), the person's licence is to be treated as having been suspended until the person presents himself or herself for the purpose of undergoing the prescribed tests and examinations.
 (5) A person whose driver licence has been suspended under this section is disqualified from holding or obtaining a driver licence until such time as he or she passes the prescribed tests and examinations.
-(6) If a person passes the prescribed tests and examinations, the Director may issue a new licence to have effect in place of the suspended licence or endorse the suspended licence.
+(6) If a person passes the prescribed tests and examinations, the Agency may issue a new licence to have effect in place of the suspended licence or endorse the suspended licence.
 (7) If a person undergoes any tests and examinations under an order made under this section, that person is liable to pay the same fees as the person would be liable to pay if the person were an applicant for a licence.
 
 ### 94 Substitution of community-based sentences
@@ -2009,7 +2003,7 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
 (8) Nothing in subsection (1) applies to a person driving a vehicle if—
   (a) He or she has been ordered by a court to attend an approved course or programme; and
   (b) The driving occurs in the course of his or her attendance at that course or programme, either,—
-    (i) In the case of a motorcyclist, under the supervision of a person who holds a current certificate of approval as a driving instructor issued by the Director under the regulations or the rules:
+    (i) In the case of a motorcyclist, under the supervision of a person who holds a current certificate of approval as a driving instructor issued by the Agency under the regulations or the rules:
     (ii) In any other case, while accompanied by a person who holds a certificate referred to in subparagraph (i).
 (9) Nothing in subsection (1A) applies to a person operating a motor vehicle in a manner that is authorised by law within the meaning of section 22A(4).
 
@@ -2100,31 +2094,31 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
 (6) If a court makes an order under this section and the person to whom it applies is, before the end of the period for which the original order of disqualification was made, convicted of an offence for which the applicant is liable for disqualification, the court must, whether or not it imposes a penalty for that offence, order that the applicant be disqualified from holding or obtaining a driver licence for the balance of the disqualification period specified in the original order.
 (7) No application or order under this section may be made by or apply to a person who is subject to an order made under section 65 disqualifying the person from holding or obtaining a driver licence.
 
-### 99A Director may approve programmes
-(1) The Director may approve any programme for the purposes of sections 32 and 99.
-(2) When approving a programme, the Director may consult with any persons that the Director considers appropriate having regard to the nature of the programme and the persons to whom it is targeted.
+### 99A Agency may approve programmes
+(1) The Agency may approve any programme for the purposes of sections 32 and 99.
+(2) When approving a programme, the Agency may consult with any persons that the Agency considers appropriate having regard to the nature of the programme and the persons to whom it is targeted.
 
-### 100 Director to remove certain disqualifications
-(1) If an order has been made under section 65 in respect of a person (the applicant), the Director must make an order removing the disqualification of the applicant from holding or obtaining a driver licence, if satisfied that—
+### 100 Agency to remove certain disqualifications
+(1) If an order has been made under section 65 in respect of a person (the applicant), the Agency must make an order removing the disqualification of the applicant from holding or obtaining a driver licence, if satisfied that—
   (a) The applicant is a fit person to hold a driver licence, having regard to—
-    (i) A report which is from a medical practitioner attached to an Assessment Centre and which is made available to the Director by the applicant or the Assessment Centre; and
-    (ii) Any other evidence submitted by the applicant or otherwise available to the Director relating to the medical condition of the applicant; and
+    (i) A report which is from a medical practitioner attached to an Assessment Centre and which is made available to the Agency by the applicant or the Assessment Centre; and
+    (ii) Any other evidence submitted by the applicant or otherwise available to the Agency relating to the medical condition of the applicant; and
   (b)
-(2) If the Director makes an order under subsection (1), every order made under section 65 that applies to the applicant concerned must be treated as having expired.
+(2) If the Agency makes an order under subsection (1), every order made under section 65 that applies to the applicant concerned must be treated as having expired.
 (3) No order may be made under subsection (1) if the applicant concerned is subject to an order made under section 65 that has been in force less than 1 year and 1 day.
 
 **Removal of licence suspension and return of impounded vehicles**
 
-### 101 Appeal to Director against mandatory suspension of driver licence
-(1) A person whose driver licence has been suspended under section 95 may appeal to the Director against the suspension on the grounds that—
+### 101 Appeal to Agency against mandatory suspension of driver licence
+(1) A person whose driver licence has been suspended under section 95 may appeal to the Agency against the suspension on the grounds that—
   (a) The person was not the driver of the vehicle at the time of the act or omission to which that section applies; or
   (b) The enforcement officer did not have reasonable grounds of belief as required by section 95 or did not give a notice that complied with subsection (2) of that section.
 (2) An appeal under this section must be set out in a statutory declaration.
-(3) The Director must, within 5 working days after an appeal under this section is lodged, either—
+(3) The Agency must, within 5 working days after an appeal under this section is lodged, either—
   (a) Remove the suspension immediately, if satisfied that a ground referred to in subsection (1) has been established; or
   (b) Dismiss the appeal.
-(4) If a suspension is removed under subsection (3)(a), the suspension ceases to have effect when that decision is made and the Director must return the licence to the holder's last known place of residence or business or postal address, or to the holder at an office of the Authority.
-(5) The Director may refuse to consider an appeal under this section if satisfied that the appeal is frivolous or vexatious, or that the appellant has provided insufficient information.
+(4) If a suspension is removed under subsection (3)(a), the suspension ceases to have effect when that decision is made and the Agency must return the licence to the holder's last known place of residence or business or postal address, or to the holder at an office of the Agency.
+(5) The Agency may refuse to consider an appeal under this section if satisfied that the appeal is frivolous or vexatious, or that the appellant has provided insufficient information.
 
 ### 102 Appeal to Police against impoundment of vehicle
 (1) An owner whose motor vehicle has been seized and impounded under section 96 or section 96A may appeal to the Police against the seizure and impoundment on the grounds that—
@@ -2195,20 +2189,20 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
 (5) If an application under this section is refused,—
   (a) The court may accept a further application in respect of the same order if satisfied that the application is supported by relevant evidence that was not available when the previous application was heard; but
   (b) Otherwise, a further application in respect of the same order may not be considered until at least 3 months after the date of that refusal.
-(6) If the court makes an order under this section, the Director must, despite anything in this Act to the contrary but otherwise subject to the provisions of this Act, issue to the person entitled to it a limited licence in accordance with the terms of the order.
+(6) If the court makes an order under this section, the Agency must, despite anything in this Act to the contrary but otherwise subject to the provisions of this Act, issue to the person entitled to it a limited licence in accordance with the terms of the order.
 (7) If the holder of a limited licence, or a person who is authorised to obtain a limited licence but has not become the holder of such a licence, is convicted of an offence for which an order of disqualification is imposed,—
   (a) The limited licence must be revoked or may not be issued (as the case may be) and the original order of disqualification is revived and has effect for the balance of the term for which it was originally imposed; and
   (b) Unless the court orders otherwise, the period of disqualification under the revived order of disqualification runs concurrently with the order of disqualification in respect of the second offence.
-(8) The holder of a limited licence that is revoked under subsection (7) must immediately, and whether demand is made on the holder or not, surrender his or her licence to the court by which he or she is convicted or to an enforcement officer or at an office of the Authority.
+(8) The holder of a limited licence that is revoked under subsection (7) must immediately, and whether demand is made on the holder or not, surrender his or her licence to the court by which he or she is convicted or to an enforcement officer or at an office of the Agency.
 (9) Despite section 104(3)(b), the court may not make an order under this section unless the applicant satisfies the court that no more than 20 of the demerit points were accumulated while driving in a passenger service.
 
 **Rights of appeal**
 
 ### 106 General right of appeal to District Court
-(1) Any person who is dissatisfied with any decision made under this Act by the Director in respect of the grant, issue, revocation, or suspension of a land transport document sought or held by that person may appeal to a District Court against that decision.
+(1) Any person who is dissatisfied with any decision made under this Act by the Agency in respect of the grant, issue, revocation, or suspension of a land transport document sought or held by that person may appeal to a District Court against that decision.
 (2) The court may confirm, reverse, or modify the decision appealed against.
-(3) Every decision of the Director appealed against under this section continues in force pending the determination of the appeal, and no person is excused from complying with any of the provisions of this Act on the ground that any appeal is pending.
-(4) Even though an appeal under this section may have been determined in favour of the appellant, the Director may, subject to the like right of appeal, refuse to deal with in accordance with the provisions of this Act the matter of the grant, issue, revocation, or suspension of the land transport document concerned on any sufficient grounds supported by facts or evidence discovered since the hearing of the appeal.
+(3) Every decision of the Agency appealed against under this section continues in force pending the determination of the appeal, and no person is excused from complying with any of the provisions of this Act on the ground that any appeal is pending.
+(4) Even though an appeal under this section may have been determined in favour of the appellant, the Agency may, subject to the like right of appeal, refuse to deal with in accordance with the provisions of this Act the matter of the grant, issue, revocation, or suspension of the land transport document concerned on any sufficient grounds supported by facts or evidence discovered since the hearing of the appeal.
 (5) Subsection (1) does not apply if a right of appeal to a District Court against the decision concerned is conferred by some other section of this Act.
 
 ### 107 Appeals against court orders relating to disqualification or grant of limited licence, and deferral of disqualification
@@ -2222,22 +2216,22 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
   (a) Refusing to grant the person a limited licence; or
   (b) Refusing to remove the person's disqualification;—
 (4) If an application is made to the Court of Appeal for leave to appeal to that court against a sentence of a District Court or the High Court that is or includes an order of disqualification, the High Court may, if it thinks fit, defer the operation of the order pending the application for leave to appeal and, if leave is granted, pending the determination of the appeal.
-(5) If any such appeal to the High Court or Court of Appeal is allowed, whether in whole or in part, the Registrar of the High Court must notify the Director of the result of the appeal.
+(5) If any such appeal to the High Court or Court of Appeal is allowed, whether in whole or in part, the Registrar of the High Court must notify the Agency of the result of the appeal.
 (6) In determining the period for which a person is disqualified from holding or obtaining a licence, any time during which the operation of the disqualification order is deferred under this section must be disregarded.
 
-### 108 Appeal against Director's refusal to remove disqualification
-(1) If an order has been made under section 65 and the person in respect of whom the order was made—that person may appeal to a District Court against the refusal of the Director to make that order.
-  (a) Has unsuccessfully applied to the Director for an order under section 100; and
-  (b) Considers that the Director should have made an order under that section,—
+### 108 Appeal against Agency’s refusal to remove disqualification
+(1) If an order has been made under section 65 and the person in respect of whom the order was made—that person may appeal to a District Court against the refusal of the Agency to make that order.
+  (a) Has unsuccessfully applied to the Agency for an order under section 100; and
+  (b) Considers that the Agency should have made an order under that section,—
 (2) In determining the appeal, the court may—
-  (a) Direct the Director to make an order under section 100; or
+  (a) Direct the Agency to make an order under section 100; or
   (b) Dismiss the appeal.
 
-### 109 Appeal against refusal of Director to remove suspension of driver licence
-(1) A person who unsuccessfully appeals to the Director under section 101 may, on any grounds set out in subsection (1) of that section, appeal to a District Court against the decision under that section.
+### 109 Appeal against refusal of Agency to remove suspension of driver licence
+(1) A person who unsuccessfully appeals to the Agency under section 101 may, on any grounds set out in subsection (1) of that section, appeal to a District Court against the decision under that section.
 (2) The court must determine the appeal on 1 or more of the grounds set out in subsection (1) or subsection (5) of section 101 and may not consider any other grounds.
 (3) The court may—
-  (a) Direct that the suspension be removed, in which case that direction has effect as if it had been made under section 101 by the Director; or
+  (a) Direct that the suspension be removed, in which case that direction has effect as if it had been made under section 101 by the Agency; or
   (b) Dismiss the appeal.
 
 ### 110 Appeal against refusal of Police to direct release of impounded vehicle
@@ -2273,8 +2267,8 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
   (a) No demerit points may be recorded in relation to the offence pending the determination of the appeal:
   (b) A recording of demerit points made in relation to the offence before the filing of the notice of appeal and any disqualification imposed as a result is cancelled:
   (c) If on the determination of the appeal the conviction is upheld, or if the appeal is abandoned or is dismissed for want of prosecution, demerit points must be recorded in relation to the offence.
-(2) The Registrar of the court in which the appellant was convicted must notify the Director of the filing of the notice of appeal and of the result of the determination of the appeal, or of the abandonment or dismissal of the appeal.
-(3) If a conviction for an offence to which section 88 applies is quashed on an application for judicial review, demerit points may not be recorded for that offence or (if recorded) the Director must cancel the demerit points recorded and any disqualification imposed for that offence.
+(2) The Registrar of the court in which the appellant was convicted must notify the Agency of the filing of the notice of appeal and of the result of the determination of the appeal, or of the abandonment or dismissal of the appeal.
+(3) If a conviction for an offence to which section 88 applies is quashed on an application for judicial review, demerit points may not be recorded for that offence or (if recorded) the Agency must cancel the demerit points recorded and any disqualification imposed for that offence.
 
 ## Part 9 — Enforcement of responsibilities
 
@@ -2282,7 +2276,7 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
 
 ### 113 Enforcement officers may enforce transport legislation
 (1) An enforcement officer in uniform or in possession of a warrant or other evidence of his or her authority as an enforcement officer may enforce the provisions of—
-  (a) The Transport Act 1962, the Local Government Act 1974, the Local Government Act 2002, the Road User Charges Act 1977, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Transport Services Licensing Act 1989, the Transit New Zealand Act 1989, the Railways Act 2005, the Land Transport Management Act 2003, and this Act:
+  (a) The Transport Act 1962, the Local Government Act 1974, the Local Government Act 2002, the Road User Charges Act 1977, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Transport Services Licensing Act 1989, the Government Roading Powers Act 1989, the Railways Act 2005, the Land Transport Management Act 2003, and this Act:
   (b) Regulations and rules and bylaws in force under any Acts mentioned in paragraph (a).
 (2) Without limiting any other powers conferred on an enforcement officer, an enforcement officer, in enforcing any provisions referred to in subsection (1), may at any time—
   (a) Direct a person on a road (whether or not in charge of a vehicle) to give the person's name and address and date of birth, or such of those particulars as the enforcement officer may specify, and give any other particulars required as to the person's identity, and (unless the person is for the time being detained or under arrest under any enactment) give such information as is within the person's knowledge and as may lead to the identification of the driver or person in charge of a vehicle:
@@ -2322,24 +2316,24 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
 
 ### 115 Enforcement officers may give directions prohibiting driving of vehicles
 (1) An enforcement officer who believes on reasonable grounds that a vehicle does not comply with the regulations or the rules or a particular requirement of the regulations or the rules, may—
-  (a) affix or cause to be affixed to the vehicle a notice in the form approved by the Authority by notice in the Gazette directing that the vehicle must not be driven on a road; and
-  (b) give the driver or owner of the vehicle a notice in a form approved by the Authority by notice in the Gazette directing that the vehicle must not be driven on a road.
+  (a) affix or cause to be affixed to the vehicle a notice in the form approved by the Agency by notice in the Gazette directing that the vehicle must not be driven on a road; and
+  (b) give the driver or owner of the vehicle a notice in a form approved by the Agency by notice in the Gazette directing that the vehicle must not be driven on a road.
 (2) A notice given under subsection (1) continues in force until the vehicle—
-  (a) has been inspected by a person authorised by the Director; and
+  (a) has been inspected by a person authorised by the Agency; and
   (b) the person is satisfied that the vehicle has been made to comply with the regulations and the rules or with the particular requirement of the regulations or the rules; and
-  (c) new evidence of vehicle inspection has been issued for the vehicle by a person authorised by the Director and is displayed on that vehicle.
+  (c) new evidence of vehicle inspection has been issued for the vehicle by a person authorised by the Agency and is displayed on that vehicle.
 (2A) Despite subsection (2), the enforcement officer may specify that the notice in subsection (1) continues in force until—
   (a) the vehicle has been made to comply with the regulations and the rules or with the particular requirement of the regulations or the rules; and
   (b) the enforcement officer has been notified in writing that the vehicle complies with the regulations and the rules or with the particular requirement of the regulations or the rules.
 (3) An enforcement officer who believes on reasonable grounds that a vehicle on a road is not in a safe condition to be driven on the road, may—
-  (a) Affix or cause to be affixed to the vehicle a notice to that effect in a form approved by the Authority by notice in the Gazette; and
-  (b) Give the driver or owner of the vehicle a notice in a form approved by the Authority by notice in the Gazette stating that the vehicle must be removed from the road and may not be driven on a road until—
-    (i) It has been inspected by a person authorised by the Director; and
+  (a) Affix or cause to be affixed to the vehicle a notice to that effect in a form approved by the Agency by notice in the Gazette; and
+  (b) Give the driver or owner of the vehicle a notice in a form approved by the Agency by notice in the Gazette stating that the vehicle must be removed from the road and may not be driven on a road until—
+    (i) It has been inspected by a person authorised by the Agency; and
     (ii) The person is satisfied that the vehicle is in a safe condition for driving on the road; and
-    (iii) New evidence of vehicle inspection has been issued for the vehicle by a person authorised by the Director and is displayed on that vehicle.
+    (iii) New evidence of vehicle inspection has been issued for the vehicle by a person authorised by the Agency and is displayed on that vehicle.
 (4) A notice under subsection (1) may include a condition to the effect that the vehicle may continue to be driven to reach a specified place for repair or may continue to be driven for a given time or under limitations as to speed or route or otherwise.
 (5) A notice under subsection (3) may include a condition to the effect that the vehicle may continue to be driven to reach a specified place for repair.
-(6) A notice given by the Authority in the Gazette for any purpose specified in this section, and a corresponding notice given under any former enactment and continued in force by this Act, may be amended from time to time, or revoked, by the Authority in the same manner.
+(6) A notice given by the Agency in the Gazette for any purpose specified in this section, and a corresponding notice given under any former enactment and continued in force by this Act, may be amended from time to time, or revoked, by the Agency in the same manner.
 
 ### 116 Enforcement of directions
 (1) An enforcement officer may arrest without warrant a person whom the officer has good cause to suspect has failed to comply with a direction given under section 113 or section 115.
@@ -2504,7 +2498,7 @@ Any enforcement officer who is in uniform or who produces evidence of identity a
 (4) Every dangerous goods enforcement officer exercising any of the powers conferred under this section must, at the time of exercising that power, and subsequently on request, produce—
   (a) Evidence of that person's appointment as an enforcement officer; and
   (b) Evidence of that person's identity.
-(5) A dangerous goods enforcement officer may, if authorised (either generally or specifically) in writing for the purpose by the Director or the Commissioner, take a person or animal onto the premises to assist the officer with an inspection, and a person assisting the officer has the powers conferred on a dangerous goods enforcement officer by this section.
+(5) A dangerous goods enforcement officer may, if authorised (either generally or specifically) in writing for the purpose by the Agency or the Commissioner, take a person or animal onto the premises to assist the officer with an inspection, and a person assisting the officer has the powers conferred on a dangerous goods enforcement officer by this section.
 (6) Nothing in this section limits or affects the privilege against self incrimination.
 
 ### 131 Power to inspect premises used for loading and unloading of dangerous goods
@@ -2517,7 +2511,7 @@ Any enforcement officer who is in uniform or who produces evidence of identity a
 (3) Every dangerous goods enforcement officer exercising any of the powers conferred under this section must, at the time of exercising that power, and thereafter on request, produce—
   (a) Evidence of that person's appointment as an enforcement officer; and
   (b) Evidence of that person's identity.
-(4) A dangerous goods enforcement officer may, if authorised (either generally or specifically) in writing for the purpose by the Director or the Commissioner, take a person or animal onto the premises to assist the officer with an inspection, and a person assisting the officer has the powers conferred on a dangerous goods enforcement officer by this section.
+(4) A dangerous goods enforcement officer may, if authorised (either generally or specifically) in writing for the purpose by the Agency or the Commissioner, take a person or animal onto the premises to assist the officer with an inspection, and a person assisting the officer has the powers conferred on a dangerous goods enforcement officer by this section.
 (5) Nothing in this section limits or affects the privilege against self incrimination.
 
 ### 132 Inspection powers concerning dangerous goods
@@ -2562,14 +2556,14 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
   (b) A failure to ensure that the securing or containing of the load was in such a manner that it could not fall or escape from the vehicle occurred without fault on the defendant's part.
 (3) If the court is satisfied that a load has fallen or escaped from the vehicle or a vehicle being towed by the vehicle, it is to be presumed that the operator of the vehicle has not ensured that the load was secured or contained in such a manner that it could not fall or escape from the vehicle, unless the falling or escaping of the load occurred without fault on the defendant's part.
 (4) In proceedings for an offence against section 42, the court must, in determining whether or not the operator of a vehicle has been at fault, have regard to any of the following provisions if the court considers the operator was or should have been aware of them:
-  (a) Until the close of 30 June 2009, unless the provisions are sooner revoked, the provisions of any code of practice issued by the Authority (or any amendment or addition to any such code):
+  (a) Until the close of 30 June 2009, unless the provisions are sooner revoked, the provisions of any code of practice issued by the Agency (or any amendment or addition to any such code):
   (b) The provisions of the rules.
 
 **Commencement of proceedings**
 
 ### 135 Offences punishable summarily
 (1) Offences against this Act are punishable on summary conviction except where this Act otherwise provides.
-(1A) Every information for an offence against Part 6A or Part 6B must be laid by the Director or an enforcement officer.
+(1A) Every information for an offence against Part 6A or Part 6B must be laid by the Agency or an enforcement officer.
 (1B) In the absence of proof to the contrary it is presumed that every information for an offence against Part 6A or Part 6B has been laid by a person authorised to do so under subsection (1A).
 (2) A District Court presided over by 2 or more Justices of the Peace or 1 or more Community Magistrates has jurisdiction in respect of any summary offence under Part 5 or Part 6, or under any regulations made under this Act (other than regulations relating to heavy motor vehicles), that is not punishable by imprisonment.
 
@@ -2637,7 +2631,7 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
 (1) The infringement fee payable in respect of an infringement offence is the appropriate infringement fee prescribed in respect of the relevant offence by or under this Act or the Transport Act 1962.
 (2) If an infringement fee is paid to an enforcement authority other than the Police, the enforcement authority must give the Commissioner such particulars of the infringement and of the payment as the Commissioner requires.
 (3) All infringement fees received under this Act by an enforcement authority or recovered under the Summary Proceedings Act 1957 must be paid into the Crown Bank Account, except that the enforcement authority may retain such portion of the fees so received as the Minister of Finance from time to time approves as being the expenses incidental to their collection.
-(3A) However, an enforcement authority that is Transit or a local authority may also retain the portion of the infringement fees received by it under this Act—
+(3A) However, an enforcement authority that is the Agency or a local authority may also retain the portion of the infringement fees received by it under this Act—
   (a) that the Minister of Finance from time to time approves; and
   (b) that are fees received in respect of an infringement offence in relation to the use of a special vehicle lane.
 (4) For the purposes of subsection (3), the Minister of Finance may approve the retention of different portions of different infringement fees.
@@ -2645,17 +2639,17 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
 **Evidence**
 
 ### 142 Evidence of driver history relating to infringement fees
-(1) In proceedings against a person for an offence in connection with the driving of a motor vehicle, a certificate purporting to be signed by an employee of the Authority or a member of the Police to the effect described in subsection (2) that has annexed to it a printout of the record referred to in that subsection is, in the absence of evidence to the contrary, sufficient evidence of the matters contained in the certificate.
+(1) In proceedings against a person for an offence in connection with the driving of a motor vehicle, a certificate purporting to be signed by an employee of the Agency or a member of the Police to the effect described in subsection (2) that has annexed to it a printout of the record referred to in that subsection is, in the absence of evidence to the contrary, sufficient evidence of the matters contained in the certificate.
 (2) The certificate referred to in subsection (1) must be to the effect that the employee or member—
-  (a) Has checked the information stored in relation to driver history on such computer system as is for the time being maintained by the Police or the Authority or the Department for Courts for the purposes of storing law enforcement information; and
+  (a) Has checked the information stored in relation to driver history on such computer system as is for the time being maintained by the Police or the Agency or the Department for Courts for the purposes of storing law enforcement information; and
   (b) Either—
     (i) Has found a record to the effect that an infringement fee has been paid by that person in respect of an infringement offence; or
     (ii) Has found a record to the effect that a court has made an order in respect of an infringement offence or a minor offence.
 
 ### 143 Evidence of driver licence
 (1) This section applies to offences alleged against paragraph (a) or paragraph (b) of section 31(1).
-(2) In proceedings against a person for an offence to which this section applies, a certificate that meets the requirements of subsection (3) and purports to be signed by a sworn or non-sworn member of the Police or an employee of the Authority is, in the absence of proof to the contrary, sufficient evidence of the matters contained in the certificate.
-(3) A certificate referred to in subsection (2) must state that the member or employee has checked the register of driver licences kept by the Authority under section 199 and—
+(2) In proceedings against a person for an offence to which this section applies, a certificate that meets the requirements of subsection (3) and purports to be signed by a sworn or non-sworn member of the Police or an employee of the Agency is, in the absence of proof to the contrary, sufficient evidence of the matters contained in the certificate.
+(3) A certificate referred to in subsection (2) must state that the member or employee has checked the register of driver licences kept by the Agency under section 199 and—
   (a) Has found no record showing that, on or before the date of the alleged offence, the person had ever held a driver licence; or
   (b) Has found a record showing that the person has held a licence to drive a vehicle of the class referred to in the proceedings, and that, at the date of the alleged offence, the licence had expired; or
   (c) Has found a record showing that, at the date of the alleged offence, the person held a licence to drive a vehicle, but not a vehicle of the class referred to in the proceedings; or
@@ -2675,12 +2669,12 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
 ### 145A Evidence and proof
 In any proceedings for an offence against Part 6A,—
   (a) if it is proved that passengers or goods were carried in or on any motor vehicle, the passengers or goods are deemed to have been carried in such a manner as to bring the motor vehicle under the requirements of this Act unless the defendant satisfies the court to the contrary:
-  (b) evidence of the contents of the register maintained under section 199A may be given by a certificate signed by the Director or any officer of the Authority authorised for that purpose by the Director; and every such certificate is sufficient evidence of the matters stated in it, until the contrary is proved:
-  (c) the production of a certificate signed by the Director or by an officer of the Authority authorised for that purpose by the Director to the effect that on a specified date a person was or was not the holder of any transport service licence or any specified type of transport service licence is sufficient evidence of the matter certified, until the contrary is proved:
-  (d) it is to be presumed that every certificate purporting to have been certified or given under this section has been certified or given by the Director or by an officer of the Authority authorised by the Director to certify documents or give certificates under this section, until the contrary is proved.
+  (b) evidence of the contents of the register maintained under section 199A may be given by a certificate signed by any officer of the Agency authorised for that purpose by the Agency; and every such certificate is sufficient evidence of the matters stated in it, until the contrary is proved:
+  (c) the production of a certificate signed by an officer of the Agency authorised for that purpose by the Agency to the effect that on a specified date a person was or was not the holder of any transport service licence or any specified type of transport service licence is sufficient evidence of the matter certified, until the contrary is proved:
+  (d) it is to be presumed that every certificate purporting to have been certified or given under this section has been certified or given by an officer of the Agency authorised by the Agency to certify documents or give certificates under this section, until the contrary is proved.
 
 ### 146 Evidence of testing and accuracy of speed-measuring devices, etc
-(1) In proceedings for a speeding offence against any bylaws or enactment, any other offence against this Act, or an offence against the Road User Charges Act 1977, the production of a certificate (or a document purporting to be a copy of the certificate) purporting to be signed by a sworn or non-sworn member of the Police authorised for the purpose by the Commissioner or by a person authorised for the purpose by the Director, as to the testing and accuracy of any equipment or device to which this section applies that is referred to in the certificate, is, in the absence of proof to the contrary, sufficient proof that the equipment or device referred to was tested on the date specified in the certificate and was accurate on the date of the alleged offence.
+(1) In proceedings for a speeding offence against any bylaws or enactment, any other offence against this Act, or an offence against the Road User Charges Act 1977, the production of a certificate (or a document purporting to be a copy of the certificate) purporting to be signed by a sworn or non-sworn member of the Police authorised for the purpose by the Commissioner or by a person authorised for the purpose by the Agency, as to the testing and accuracy of any equipment or device to which this section applies that is referred to in the certificate, is, in the absence of proof to the contrary, sufficient proof that the equipment or device referred to was tested on the date specified in the certificate and was accurate on the date of the alleged offence.
 (2) Every document purporting to be a copy of a certificate issued under this section is, in the absence of proof to the contrary, to be presumed to be a true copy.
 (3) Every certificate issued under this section is, in the absence of proof to the contrary, to be presumed to have been signed by a person duly authorised to sign it; and it is not necessary for any such certificate to show on its face that the person signing it was so authorised.
 (4) This section applies to distance-measuring devices, speed-measuring devices, approved vehicle surveillance equipment, and tuning forks used to check such devices or equipment.
@@ -2696,7 +2690,7 @@ In any proceedings for an offence against Part 6A,—
     (iii) An employee of a laboratory for the time being approved for the purpose by the Science Minister, by notice in the Gazette; or
     (iv) Any other person who is approved for the purpose by the Minister, by notice in the Gazette; or
   (b) On a specified date, being a date not more than 5 years earlier than the date of the alleged offence, a site referred to in the certificate was tested or surveyed, and found to be accurate, by—
-    (i) An employee of the Authority; or
+    (i) An employee of the Agency; or
     (ii) A sworn or non-sworn member of the Police; or
     (iii) An employee or contractor of a laboratory for the time being approved for the purpose by the Science Minister, by notice in the Gazette.
 (3) A notice given by the Science Minister or the Minister in the Gazette for the purposes of subsection (2) may be in like manner amended or revoked at any time.
@@ -2718,22 +2712,22 @@ In any proceedings for an offence against Part 6A,—
 (4) With respect to subsection (3), the definition of load in section 2(1) must be read as if the references to a vehicle or vehicles in that definition were references to a rail vehicle or rail vehicles, as the case may be.
 
 ### 149 Admissibility of certain statements by drivers of certain vehicles
-(1) A statement made to an enforcement officer, or to an employee of the Authority authorised for the purpose by the Director, to the effect described in subsection (2) may be given in evidence by that officer or employee and is admissible in evidence in proceedings for an offence against this Act as evidence of the matters referred to in the statement.
+(1) A statement made to an enforcement officer, or to an employee of the Agency authorised for the purpose by the Agency, to the effect described in subsection (2) may be given in evidence by that officer or employee and is admissible in evidence in proceedings for an offence against this Act as evidence of the matters referred to in the statement.
 (2) A statement referred to in subsection (1) must be to the effect that the statement—
   (a) Was made by the driver of—
     (i) A vehicle that is or ought to be used in a transport service (other than a rental service); or
     (ii) A heavy motor vehicle; and
-  (b) Was made to an enforcement officer or to an employee of the Authority authorised for the purpose by the Director; and
+  (b) Was made to an enforcement officer or to an employee of the Agency authorised for the purpose by the Agency; and
   (c) Relates to the identity of the employer of that driver or a matter that is or ought to be specified in a logbook.
 
 ### 150 Evidence of certain documents
-(1) In proceedings for an offence against this Act, a document purporting to be issued by the Director, or an employee of the Authority authorised by the Director for the purpose, and certified by that person to be a true copy of a certificate or other document issued under this Act or the regulations or the rules is, in the absence of evidence to the contrary, sufficient evidence of the facts stated in the copy.
-(2) An employee of the Authority who certifies such a copy as a true copy is, in the absence of evidence to the contrary, to be presumed to be authorised to certify it.
+(1) In proceedings for an offence against this Act, a document purporting to be issued by an employee of the Agency authorised by the Agency for the purpose, and certified by that person to be a true copy of a certificate or other document issued under this Act or the regulations or the rules is, in the absence of evidence to the contrary, sufficient evidence of the facts stated in the copy.
+(2) An employee of the Agency who certifies such a copy as a true copy is, in the absence of evidence to the contrary, to be presumed to be authorised to certify it.
 
 ### 151 Evidence of rules
 Without limiting any other method of proof, the production in proceedings of a copy of—is, in the absence of evidence to the contrary, sufficient evidence of the rule and of the fact that it has been made in accordance with the provisions of this Act.
   (a) An ordinary rule purporting to have been made by the Minister under Part 11; or
-  (b) An emergency rule purporting to have been made by the Director under section 162—
+  (b) An emergency rule purporting to have been made by the Agency under section 162—
 
 ## Part 11 — Land transport subordinate legislation
 
@@ -2746,11 +2740,10 @@ The Minister may make rules (ordinary rules) for all or any of the following pur
   (e) protecting and promoting public health:
   (f) ensuring environmental sustainability:
   (g) any matter related, or reasonably incidental, to any of the following:
-    (i) the Minister's objectives under section 169:
-    (ii) the Minister's functions under section 169A:
-    (iii) the Director's functions and powers referred to in section 197:
-    (iv) the Authority's objectives under section 68 of the Land Transport Management Act 2003:
-    (v) the Authority's functions under section 69 of the Land Transport Management Act 2003:
+    (i) the Minister’s objectives under section 169:
+    (ii) the Minister’s functions under section 169A:
+    (iii) the Agency’s objective under section 94 of the Land Transport Management Act 2003:
+    (iv) the Agency’s functions under section 95 of the Land Transport Management Act 2003:
   (h) any other matter contemplated by a provision of this Act.
 
 ### 153 Rules concerning road user behaviour
@@ -2769,7 +2762,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (e) Provide for the theoretical, practical, and medical examination and testing of applicants and holders of driver licences, and set out standards for theoretical, practical, and medical examinations and tests:
   (f) Provide for the approval of persons who have functions under the rules, including persons who are to conduct the theoretical or practical or medical examination or testing of applicants for or holders of driver licences:
   (g) Provide for the use of aids or the driving of vehicles that are specially adapted or have particular features:
-  (h) Provide for the issue of driver identification cards; and provide for driver identification cards to remain the property of the Director:
+  (h) Provide for the issue of driver identification cards; and provide for driver identification cards to remain the property of the Agency:
   (i) Provide for the recognition of driver licences issued outside New Zealand:
   (j) Prescribe the form and content of temporary driver licences for the purposes of this Act:
   (k) Give effect to any international convention concerning the recognition of driver licences and permits issued outside New Zealand and the recognition of international driving permits.
@@ -2801,7 +2794,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (d) Set, or provide for the setting of, speed limits (including maximum, minimum, variable, and temporary speed limits) for roads throughout New Zealand or in a particular locality, which speed limits may vary according to vehicle classes, types of roads, locality, and time of year:
   (e) Empower road controlling authorities to set speed limits referred to in paragraph (d) for roads within their jurisdiction, and—
     (i) Set out criteria, requirements, and procedures to be complied with by road controlling authorities when setting speed limits:
-    (ii) Authorise the Director to change, or modify the application of, a speed limit that does not comply with the prescribed criteria, requirements, or procedures:
+    (ii) Authorise the Agency to change, or modify the application of, a speed limit that does not comply with the prescribed criteria, requirements, or procedures:
   (f) Provide that a road controlling authority may declare any of its roads or part of any such road to be a construction zone; prescribe the signs to be erected in a construction zone; and provide for the exemption from specified provisions of the rules of specified classes of motor vehicles while used within a construction zone:
   (g) Provide for the design, construction, maintenance, and operation of traffic control devices:
   (h) Regulate or prohibit the use of reflective material on signs, hoardings, and similar structures that may pose a traffic hazard on any road.
@@ -2833,8 +2826,8 @@ Without limiting the general power to make rules under section 152, ordinary rul
       (F) Requirements concerning logbooks; and
       (G) Requirements of a safety management system where required for the issue of land transport documents:
     (vii) set out categories of safety performance for transport service operators and approved taxi organisations and provide the means for assessing (and re-assessing) and publishing levels of safety performance in relation to those categories:
-    (viii) empower the Director to approve tests, courses, and course providers for the purpose of issuing certificates of knowledge of law and practice or area knowledge certificates or other certificates:
-    (ix) specify the circumstances in which the Director can require an applicant for, or the holder of, a certificate of knowledge of law and practice or an area knowledge certificate or other certificates to undergo such tests, including (but not limited to) a second or subsequent test:
+    (viii) empower the Agency to approve tests, courses, and course providers for the purpose of issuing certificates of knowledge of law and practice or area knowledge certificates or other certificates:
+    (ix) specify the circumstances in which the Agency can require an applicant for, or the holder of, a certificate of knowledge of law and practice or an area knowledge certificate or other certificates to undergo such tests, including (but not limited to) a second or subsequent test:
     (x) specify the drivers involved in transport services that must display or wear a photographic identification card and the details of such a card:
     (xi) specify the requirements for approved taxi organisations, including (but not limited to) those required by persons in control of the approved taxi organisation:
     (xii) provide for the notification of vehicles used in a transport service:
@@ -2861,18 +2854,18 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (h) Road controlling authorities:
   (i) Any other person who provides services in the land transport system (other than the rail transport system), and any vehicles, land transport related services, facilities, and equipment operated in support of the land transport system (other than the rail transport system), or classes of such persons, vehicles, land transport related services, facilities, and equipment operated in support of the land transport system (other than the rail transport system).
 (2) The rules may set out the requirements, standards, and application procedure for each land transport document, and the maximum period for which each document may be issued or recognised (as the case may be).
-(3) The rules may require a person who applies for or holds a land transport document that is required for the provision of a service that involves contact with the public (such as driving instruction or driver testing) to satisfy the Director that the person is a fit and proper person to hold that document, and—
+(3) The rules may require a person who applies for or holds a land transport document that is required for the provision of a service that involves contact with the public (such as driving instruction or driver testing) to satisfy the Agency that the person is a fit and proper person to hold that document, and—
   (a) Specify which of the criteria set out in subpart 2 of Part 4A are to be applied in determining whether a person is a fit and proper person:
   (b) Set out different fit and proper person assessments for different classes of land transport documents, applicants, or holders.
 (4) The rules may provide for the issue, endorsement, alteration, replacement, renewal, surrender, expiry, suspension, and revocation of land transport documents.
-(5) Subject to the rules, a land transport document may be issued or a document may be recognised as a land transport document, as the case may be, by the Director for such period and subject to such conditions as the Director considers appropriate in each particular case.
+(5) Subject to the rules, a land transport document may be issued or a document may be recognised as a land transport document, as the case may be, by the Agency for such period and subject to such conditions as the Agency considers appropriate in each particular case.
 
 ### 160 Other provisions concerning ordinary rules
 (1) An ordinary rule may apply generally or to different classes of person, vehicle, or land transport related service, or to the same class of person, vehicle, or land transport related service in different circumstances.
 (2) An ordinary rule may apply generally throughout New Zealand or within a specified part or parts of New Zealand.
 (3) The commencement of an ordinary rule may be wholly suspended until it is applied by the Minister, by notice in the Gazette.
 (4) An ordinary rule may—
-  (a) Require or provide for a matter to be determined, undertaken, or approved by the Authority, the Director, or any other person, and empower the Authority or Director or any other person to impose requirements or conditions as to the performance of activities:
+  (a) Require or provide for a matter to be determined, undertaken, or approved by the Agency or any other person, and empower the Agency or any other person to impose requirements or conditions as to the performance of activities:
   (b) Specify standards, procedures, and requirements for the purposes of the rules:
   (c) Impose conditions, restrictions, and prohibitions:
   (d) Specify the definitions, abbreviations, and units of measurement to apply within the land transport system:
@@ -2892,23 +2885,23 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (a) Publish in the Gazette, and in the daily newspapers published in Auckland, Hamilton, Wellington, Christchurch, and Dunedin, respectively, a notice of his or her intention to make the rule; and
   (b) Give interested persons a reasonable time, which must be specified in the notice published under paragraph (a), to make submissions on the proposal; and
   (c) Consult with such persons, representative groups within the land transport system or elsewhere, Government departments, and Crown entities as the Minister in each case considers appropriate.
-(3) Every ordinary rule must be notified in the Gazette and be made available by the Authority for purchase by members of the public at a reasonable price, and the notification must specify a place where the rule is available for inspection free of charge and for purchase.
+(3) Every ordinary rule must be notified in the Gazette and be made available by the Agency for purchase by members of the public at a reasonable price, and the notification must specify a place where the rule is available for inspection free of charge and for purchase.
 (4) Every ordinary rule comes into force 28 days after the date of its notification in the Gazette, or on such later day as may be specified in the rule or under section 163(3).
 
 **Emergency rules**
 
-### 162 Director may make emergency rules
-(1) The Director may from time to time, in accordance with section 163, make such emergency rules as may be necessary to alleviate or minimise any risk of the death of or a serious injury to a person, or of damage to property.
-(2) The Director may not make emergency rules unless it is impracticable in the circumstances of the particular case for the Minister to make ordinary rules to effectively alleviate or minimise the risk concerned.
+### 162 Agency may make emergency rules
+(1) The Agency may from time to time, in accordance with section 163, make such emergency rules as may be necessary to alleviate or minimise any risk of the death of or a serious injury to a person, or of damage to property.
+(2) The Agency may not make emergency rules unless it is impracticable in the circumstances of the particular case for the Minister to make ordinary rules to effectively alleviate or minimise the risk concerned.
 (3) The Minister may revoke any emergency rule made under subsection (1), and the revocation must be notified as if it were an emergency rule.
 (4) Every emergency rule is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but is not a regulation or an instrument for the purposes of the Acts and Regulations Publication Act 1989.
 
 ### 163 Procedure for making emergency rules
-(1) Before making an emergency rule, the Director must consult with such persons, representative groups within the land transport system or elsewhere, Government departments, and Crown entities as the Director in each case considers appropriate.
-(2) Every emergency rule must be notified in the Gazette and be made available by the Director for purchase by members of the public at a reasonable price, and the notification must specify a place where the rule is available for inspection free of charge and for purchase.
+(1) Before making an emergency rule, the Agency must consult with such persons, representative groups within the land transport system or elsewhere, Government departments, and Crown entities as the Agency in each case considers appropriate.
+(2) Every emergency rule must be notified in the Gazette and be made available by the Agency for purchase by members of the public at a reasonable price, and the notification must specify a place where the rule is available for inspection free of charge and for purchase.
 (3) Every emergency rule comes into force immediately on being notified in the Gazette, or, where notified by service on a person under subsection (4), immediately on service of notification upon that person and in respect of that person only.
 (4) If, for reasons of safety, it is impracticable or inappropriate to notify an emergency rule in accordance with subsection (2),—
-  (a) The Director must notify such persons as he or she considers appropriate or necessary in the circumstances and service of such notification may be effected by fax, telephone, or such other manner as the Director considers appropriate or necessary in the circumstances; and
+  (a) The Agency must notify such persons as the Agency considers appropriate or necessary in the circumstances and service of such notification may be effected by fax, telephone, or such other manner as the Agency considers appropriate or necessary in the circumstances; and
   (b) Subsection (2) does not apply.
 (5) An emergency rule may be in force for a period not exceeding 90 days, and may be renewed once only for a further period not exceeding 90 days.
 (6) So far as any emergency rule is inconsistent with or repugnant to any ordinary rule made under this Act, the emergency rule prevails.
@@ -2916,8 +2909,8 @@ Without limiting the general power to make rules under section 152, ordinary rul
 **General provisions concerning making of rules**
 
 ### 164 Matters to be taken into account in making rules
-(1) The ordinary rules made by the Minister and the emergency rules made by the Director may not be inconsistent with New Zealand's international obligations concerning land transport safety.
-(2) In making a rule, the Minister or the Director (as the case may be) must have regard to, and give such weight as he or she considers appropriate in each case to, the following:
+(1) The ordinary rules made by the Minister and the emergency rules made by the Agency may not be inconsistent with New Zealand's international obligations concerning land transport safety.
+(2) In making a rule, the Minister or the Agency (as the case may be) must have regard to, and give such weight as the Agency considers appropriate in each case to, the following:
   (a) The level of risk existing to land transport safety in each proposed activity or service:
   (b) The nature of the particular activity or service for which the rule is being established:
   (c) The level of risk existing to land transport safety in New Zealand in general:
@@ -2929,27 +2922,27 @@ Without limiting the general power to make rules under section 152, ordinary rul
     (iv) ensures environmental sustainability:
   (ea) the costs of implementing measures for which the rule is being proposed:
   (f) The international circumstances in respect of land transport safety:
-  (g) Such other matters as the Minister (in the case of ordinary rules) or the Director (in the case of emergency rules) considers appropriate in the circumstances.
+  (g) Such other matters as the Minister (in the case of ordinary rules) or the Agency (in the case of emergency rules) considers appropriate in the circumstances.
 
 ### 165 Incorporation by reference
-(1) The following may be incorporated by reference into a rule made by the Minister or the Director:
+(1) The following may be incorporated by reference into a rule made by the Minister or the Agency:
   (a) Standards, requirements, or recommended practices of another State or an international organisation:
   (b) Standards, requirements, or rules of the New Zealand Standards Association, or a body or organisation outside New Zealand that has functions corresponding to the functions of the New Zealand Standards Council:
   (c) Any other written material or document that, in the opinion of the Minister, is too large or impractical to be printed as part of the rule.
 (2) Material incorporated in a rule by reference under subsection (1) forms part of the rule for all purposes, and, if any of that material is amended or replaced by the person or organisation originating the material, the amendment or new version forms part of the rule unless the rules otherwise provide.
 (3) A rule may incorporate by reference different versions of any material referred to in subsection (1) and may specify the purposes for or extent to which each version applies.
-(4) The Director must make available for inspection free of charge, at the head office of the Authority, copies of all material incorporated in a rule by reference under subsection (1) and copies of all amendments deemed to be part of a rule.
+(4) The Agency must make available for inspection free of charge, at the head office of the Agency, copies of all material incorporated in a rule by reference under subsection (1) and copies of all amendments deemed to be part of a rule.
 (5) No material incorporated in a rule by reference under subsection (1), or an amendment to such material, has effect until it is made available for inspection in accordance with subsection (4).
 
-### 166 Director may grant exemptions
-(1) The Director may, if he or she considers it appropriate and upon such conditions as he or she considers appropriate, exempt a person, vehicle, rail vehicle, or land transport related service from a specified requirement in a rule made under this Part.
-(2) Before granting an exemption under this section, the Director must be satisfied in the circumstances of each case that the risk to safety will not be significantly increased by the granting of the exemption and that—
+### 166 Agency may grant exemptions
+(1) The Agency may, if the Agency considers it appropriate and upon such conditions as the Agency considers appropriate, exempt a person, vehicle, rail vehicle, or land transport related service from a specified requirement in a rule made under this Part.
+(2) Before granting an exemption under this section, the Agency must be satisfied in the circumstances of each case that the risk to safety will not be significantly increased by the granting of the exemption and that—
   (a) The requirement has been substantially complied with and that further compliance is unnecessary; or
   (b) The action taken or provision made in respect of the matter to which the requirement relates is as effective or more effective than actual compliance with the requirement; or
   (c) The prescribed requirements are clearly unreasonable or inappropriate in the particular case; or
   (d) Events have occurred that make the prescribed requirements unnecessary or inappropriate in the particular case.
 (3) The number and nature of exemptions granted under subsection (1) must be notified in the Gazette at intervals not longer than 3 months.
-(4) Nothing in this section applies in a case where a rule specifically provides that no exemptions are to be granted, but in other cases nothing in the rules limits or affects the Director's powers under this section.
+(4) Nothing in this section applies in a case where a rule specifically provides that no exemptions are to be granted, but in other cases nothing in the rules limits or affects the Agency’s powers under this section.
 
 **Regulations**
 
@@ -2998,8 +2991,8 @@ Without limiting the general power to make rules under section 152, ordinary rul
 
 ### 168 Regulations relating to fees and charges for land transport
 (1) Without limiting the generality of section 167(1)(j), regulations may be made under that provision prescribing, or providing for the fixing of, fees and charges payable for all or any of the following purposes:
-  (a) To provide funds for the establishment, maintenance, and operation of facilities, works, goods, and services under the Transport Act 1962, the Road User Charges Act 1977, Part 1 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Railways Act 2005, the Transit New Zealand Act 1989, the Land Transport Management Act 2003, this Act, or any other enactment relating to land transport:
-  (b) To meet, or assist in meeting, the costs and expenses incurred by the Authority, the Director, or the Crown in the exercise of functions or powers, or in the performance of duties, or the provision of services under any enactment specified in paragraph (a) or any other enactment relating to land transport.
+  (a) To provide funds for the establishment, maintenance, and operation of facilities, works, goods, and services under the Transport Act 1962, the Road User Charges Act 1977, Part 1 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Railways Act 2005, the Government Roading Powers Act 1989, the Land Transport Management Act 2003, this Act, or any other enactment relating to land transport:
+  (b) To meet, or assist in meeting, the costs and expenses incurred by the Agency or the Crown in the exercise of functions or powers, or in the performance of duties, or the provision of services under any enactment specified in paragraph (a) or any other enactment relating to land transport.
 (2) Different rates of fees or charges, or both, may be so prescribed or fixed in respect of different classes of persons, vehicles, products, or any other property or item, or on the basis of different times of use, or different distances, or on any other differential basis.
 (3) Regulations under section 167(1)(j) may authorise persons carrying out statutory functions concerning land transport (such as persons issuing evidence of vehicle inspection) to charge a reasonable fee for the service or work performed.
 (4) Any regulation under section 167(1)(j) may—
@@ -3013,16 +3006,25 @@ Without limiting the general power to make rules under section 152, ordinary rul
 (5)
 (6) Nothing in this section affects or limits the power under the Road User Charges Act 1977 to set rates of road user charges.
 
-### 168A Director may declare that vehicle is mobility device or is not motor vehicle
-(1) If a vehicle or type of vehicle is powered solely by a motor that has a maximum power output not exceeding 1 500 W, the Director may, by notice in the Gazette, declare that the vehicle or type of vehicle is a mobility device.
-(2) If a vehicle or type of vehicle is propelled by a motor that has a maximum power output not exceeding 300 W, the Director may, by notice in the Gazette, declare that the vehicle or type of vehicle is not a motor vehicle.
-(3) If a vehicle or type of vehicle is propelled by a motor that has a maximum power output greater than 300 W but not exceeding 600 W, the Director may, by notice in the Gazette, declare that the vehicle or type of vehicle is not a motor vehicle.
-(4) If the Director makes a declaration under subsection (3), the Director may—
+### 168A Agency may declare that vehicle is mobility device or is not motor vehicle
+(1) If a vehicle or type of vehicle is powered solely by a motor that has a maximum power output not exceeding 1 500 W, the Agency may, by notice in the Gazette, declare that the vehicle or type of vehicle is a mobility device.
+(2) If a vehicle or type of vehicle is propelled by a motor that has a maximum power output not exceeding 300 W, the Agency may, by notice in the Gazette, declare that the vehicle or type of vehicle is not a motor vehicle.
+(3) If a vehicle or type of vehicle is propelled by a motor that has a maximum power output greater than 300 W but not exceeding 600 W, the Agency may, by notice in the Gazette, declare that the vehicle or type of vehicle is not a motor vehicle.
+(4) If the Agency makes a declaration under subsection (3), the Agency may—
   (a) impose conditions with respect to—
     (i) the operation of the vehicle or type of vehicle; and
     (ii) the equipment required on the vehicle or type of vehicle; and
   (b) specify those conditions in the notice.
 (5) A notice given under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+
+### 168B Order in Council for certain land transport revenue
+(1) The Governor-General may, by Order in Council, prescribe, or provide for the fixing of, fees and charges for the purposes of Part 1 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 that are identified in the Order in Council as land transport revenue for the purposes of the Land Transport Management Act 2003.
+(2) An Order in Council made under subsection (1) must,—
+  (a) if made on or before 30 June in any year, expire on the close of 31 December of that year except so far as it is expressly confirmed by Act of Parliament passed during that year; and
+  (b) if made on or after 1 July in any year, expire on the close of 31 December in the following year except so far as it is expressly confirmed by Act of Parliament passed before the end of that following year.
+(3) If an Order in Council expires by virtue of subsection (2)(a) or (b), any fees and charges collected under that Order in Council in excess of the fees and charges otherwise payable must, except in so far as any other provision is made by an Act of Parliament, be refunded.
+(4) An Order in Council made under subsection (1) that the House of Representatives resolves should be revoked or varied is revoked or varied in accordance with the terms of the resolution, and any fees and charges collected under the Order in Council in excess of the fees and charges otherwise payable are, so far as that resolution provides, to be refunded.
+(5) The repeal of any Act of Parliament passed for the purpose of expressly validating or confirming an Order in Council under subsection (2) does not, unless there is any express provision to the contrary, affect the validity or confirmation of the Order in Council.
 
 ## Part 12 — The Crown and land transport
 
@@ -3042,159 +3044,50 @@ The functions of the Minister under this Act are—
 **National land transport strategy**
 
 ### 170 National land transport strategy
-(1) The Minister may from time to time, on behalf of the Crown, complete a national land transport strategy.
-(2) The national land transport strategy may include statements of—
-  (a) The Crown's goals in relation to land transport in New Zealand; and
-  (b) The policy objectives to be pursued to achieve the Crown's goals in relation to land transport in New Zealand; and
-  (c) The measurable targets to be met to achieve those policy objectives.
-(3) The national land transport strategy may not be inconsistent with any national policy statement for the time being in force under the Resource Management Act 1991.
+[Repealed]
 
 ### 171 Procedure for completing national land transport strategy
-(1) Before completing the national land transport strategy, the Minister must—
-  (a) Publish a notice of his or her proposal to complete the strategy in the daily newspapers published in Auckland, Hamilton, Hawke's Bay, Gisborne, Wellington, Christchurch, and Dunedin, respectively, and publish the notice in the Gazette; and
-  (b) Give interested persons a reasonable time, which must be specified in the notice published under paragraph (a), to make submissions on the proposal; and
-  (c) Consult such persons, representative groups within the land transport system or elsewhere, Government departments, and Crown entities as the Minister in each case considers appropriate.
-(2) The Minister may sign the completed national land transport strategy and, as soon as possible after signing the strategy, must,—
-  (a) By notice in the Gazette, state that the strategy has been made and specify the place or places where the strategy is available to members of the public for inspection free of charge and for purchase at a reasonable price; and
-  (b) Present a copy of the strategy to the House of Representatives; and
-  (c) Give a copy of the strategy to each of the following:
-    (i) The Authority:
-    (ii)
-    (iii) Transit New Zealand:
-    (iv) The Commissioner:
-    (v) The Secretary:
-    (vi) Every local authority that is required to prepare a regional land transport strategy:
-    (vii) Every territorial authority.
+[Repealed]
 
 ### 172 Currency of national land transport strategy
-(1) The national land transport strategy must—
-  (a) Take effect on the 28th day after the date of its notification in the Gazette or on any later date specified in the strategy; and
-  (b) Subject to section 173, remain current for 10 years or any lesser period specified in the strategy.
-(2) The Minister must ensure that, at all times after the completion of the first national land transport strategy, there is a current national land transport strategy.
+[Repealed]
 
 ### 173 Amendment or revocation of national land transport strategy
-The Minister may amend or revoke a national land transport strategy by following, with any necessary modifications, the procedure provided in section 171 for completing a strategy.
+[Repealed]
 
 ### 174 Effect of national land transport strategy
-(1) In exercising or performing their functions, duties, and powers, the Authority and Transit must ensure that they take into account any current national land transport strategy.
-(2) The Commissioner must, except to the extent that his or her statutory functions or duties or common law obligations in any particular case otherwise require, ensure that in exercising or performing his or her functions, duties, and powers he or she takes into account any current national land transport strategy.
-(3) The Secretary must ensure that the actions of the Ministry in relation to sections 28 and 34 of the Land Transport Management Act 2003 take into account any current national land transport strategy.
+[Repealed]
 
 **Regional land transport strategies**
 
 ### 175 Regional land transport strategies
-(1) Every regional council must prepare a land transport strategy for its region.
-(2) Every regional land transport strategy must—
-  (a) contribute to the overall aim of achieving an integrated, safe, responsive, and sustainable land transport system; and
-  (b) take into account how the strategy—
-    (i) assists economic development; and
-    (ii) assists safety and personal security; and
-    (iii) improves access and mobility; and
-    (iv) protects and promotes public health; and
-    (v) ensures environmental sustainability; and
-  (c) take into account any national land transport strategy and National Energy Efficiency and Conservation Strategy; and
-  (d) take into account the land transport funding likely to be available within the region during the period covered by the strategy; and
-  (e) avoid, to the extent reasonable in the circumstances, adverse effects on the environment; and
-  (f) take into account the views of affected communities; and
-  (g) take into account the views of land transport network providers; and
-  (h) take into account the need for persons and organisations preparing regional land transport strategies to give early and full consideration to land transport options and alternatives in a way that contributes to the objectives referred to in paragraphs (e) and (f) when preparing a regional land transport strategy; and
-  (i) take into account the need to encourage persons and organisations preparing regional land transport strategies to provide early and full opportunities for persons and organisations listed in section 179(1) to contribute to the development of those regional land transport strategies; and
-  (j) identify an appropriate role for each land transport mode in the region, including freight traffic, public passenger transport, cycling, and pedestrian traffic; and
-  (k) include any regional passenger transport plan (within the meaning of section 47 of the Transport Services Licensing Act 1989) that has been prepared by the regional council that has prepared the strategy; and
-  (l) identify land transport outcomes sought by the region and the strategic options for achieving those outcomes; and
-  (m) identify any strategic options for which co-operation is required with other regions; and
-  (n) identify persons or organisations who should be involved in the further development of strategic options; and
-  (o) include a demand management strategy that has targets and timetables appropriate for the region; and
-  (p) provide for the strategy to be independently audited; and
-  (q) take into account any guidelines issued by the Minister for the purposes of this section.
-(3) A regional land transport strategy may not be inconsistent with any regional policy statement or plan that is for the time being in force under the Resource Management Act 1991.
-(4) A regional land transport strategy may not be inconsistent with any national land transport strategy that is for the time being in force at the time of preparation of the regional land transport strategy.
-(5) For the purposes of this section, that part of the district of the Franklin District Council that is within the region of the Waikato Regional Council is to be treated—
-  (a) as not being part of the region of the Waikato Regional Council; but
-  (b) as being part of the region of the Auckland Regional Council.
+[Repealed]
 
 ### 176 Currency of regional land transport strategies
-(1) A regional land transport strategy prepared under section 175—
-  (a) must, at all times, be kept current for a period of not less than 3 years in advance but not more than 10 years; and
-  (b) may be renewed from time to time, but must be renewed at least once every 3 years.
-(2) The regional council that prepares a regional land transport strategy may amend it at any time during its currency to reflect any significant change in the circumstances that existed when the strategy was prepared or to include a regional passenger transport plan (within the meaning of section 47 of the Transport Services Licensing Act 1989) that has been prepared by it since the preparation of the strategy.
-(3) In reviewing its regional land transport strategy, a regional council must take into account any current national land transport strategy.
+[Repealed]
 
 ### 177 Copies of regional land transport strategy to be made available to certain persons
-(1) Once a regional land transport strategy or any amendment to a regional land transport strategy has been approved by the relevant regional council, that regional council must forthwith forward a copy of the strategy or amendment to each of the following:
-  (a) The Authority:
-  (b)
-  (c) Transit New Zealand:
-  (d) The Commissioner:
-  (e) The Secretary.
-(2) Every regional council that approves a regional land transport strategy or any amendment to a regional land transport strategy must make a copy of the strategy or amendment available during its usual business hours, at such place or places as the regional council appoints, for inspection by the public in the area to which the strategy or amendment applies.
+[Repealed]
 
 ### 178 Regional land transport committees
-(1) Every regional council must establish a land transport committee under this section for its region.
-(2) Each regional land transport committee consists of suitable persons appointed by the relevant regional council to represent—
-  (a) the objectives of economic development, safety and personal security, public health, access and mobility, and environmental sustainability; and
-  (b) cultural interests; and
-  (c) the council; and
-  (d) other territorial authorities in the region; and
-  (e) the Authority.
-  (f)
-(2A) Each regional council must appoint a sufficient number of persons to represent a balance of the objectives specified in subsection (2)(a).
-(2B) A person appointed with respect to subsection (2)(a) or (b)—
-  (a) must be from the wider regional community; and
-  (b) must not be a representative of that council, any other territorial authority in that region, or the Authority.
-(3) The functions of each regional land transport committee are to prepare for approval by the relevant regional council the regional land transport strategy prepared under section 175 for its region.
-(4) The provisions of the Local Government Act 2002 and the Local Government Official Information and Meetings Act 1987 concerning the meetings of committees of regional councils, so far as they are applicable and with the necessary modifications, apply in respect of meetings of the regional land transport committees.
-(5) This section does not apply to the Chatham Islands Council.
+[Repealed]
 
 ### 179 Consultation requirements for preparation of regional land transport strategies
-(1) When preparing a regional land transport strategy, a regional council must consult—
-  (a)
-  (b) Transit; and
-  (c) the Authority; and
-  (d) the Commissioner; and
-  (e) the territorial authorities in the region; and
-  (f) the adjoining regional councils and territorial authorities; and
-  (g) the Historic Places Trust of New Zealand; and
-  (h) land transport users and providers; and
-  (i) the public in the region; and
-  (j) the district health boards in the region; and
-  (k) every affected approved public organisation in the region; and
-  (l) affected communities; and
-  (m) Maori of the region; and
-  (n) the Accident Compensation Corporation.
-(2) In carrying out the consultation required by subsection (1), a regional council must use the special consultative procedure under section 83 of the Local Government Act 2002.
-(3) Section 83 of the Local Government Act 2002 applies for the purposes of this section with the necessary modifications.
-(4) A regional council need not consult any organisation or person referred to in subsection (1) about any matter if it has already consulted that organisation or person about the matter in the course of preparing its current long-term council community plan in accordance with the Local Government Act 2002.
-(5) A regional council that is preparing a regional land transport strategy may require from any territorial authority within its region such information as the council considers it requires in order to properly perform its functions under this Act in relation to that strategy, and the territorial authority must promptly comply with that requirement.
+[Repealed]
 
 ### 180 Regional councils to consider contracting out functions under this Act
-(1) Every regional council that is required to prepare a regional land transport strategy must consider whether it could most efficiently and effectively prepare its regional land transport strategy by means of its own operations or by contracting out those operations to appropriate persons selected after an appropriate competitive process.
-(2) Where a regional council considers that another person can more efficiently and effectively prepare its regional land transport strategy, the council—
-  (a) Must invite tenders for the preparation of the strategy; and
-  (b) If a tender is successful, must enter into an agreement setting out the terms on which the strategy is to be prepared by the other person.
-(3) Every regional council has and may exercise all such powers as are necessary or reasonably expedient to enable it to perform its duties under this section, and such powers and duties are in addition to, and not in substitution for, powers and duties conferred on regional councils by any other Act.
-(4) Where a regional council invites tenders under subsection (2), any other regional council or territorial authority may submit a tender and, if successful, enter into an agreement under that subsection.
+[Repealed]
 
 ### 181 Effect of regional land transport strategies
-(1) In exercising or performing their functions, duties, and powers, the Authority and Transit must ensure that they take into account any current regional land transport strategies.
-(2) The Commissioner must, except to the extent that his or her statutory functions or duties or common law obligations in any particular case otherwise require, ensure that in exercising or performing his or her functions, duties, and powers he or she takes into account any current regional land transport strategies.
-(3) The Secretary must ensure that the actions of the Ministry in relation to sections 28 to 34 of the Land Transport Management Act 2003 take into account any current regional land transport strategies.
+[Repealed]
 
 ### 182 Annual reports on regional land transport strategy
-(1) Every regional council that is required to prepare a regional land transport strategy must prepare an annual report as to the progress in implementing its regional land transport strategy.
-(2) A copy of every such report must be forwarded to—within 3 months after the close of the financial year to which it relates, and be made available to the public.
-  (a) The Authority; and
-  (b)
-  (c) Transit New Zealand; and
-  (d) The Commissioner; and
-  (e) The Secretary—
-(3) The Authority, Transit New Zealand, the Commissioner, and the Secretary must supply to the regional council such information within its or his or her possession or control as may be requested by the regional council for the purposes of complying with its obligations under this section.
+[Repealed]
 
 ### 183 Certain territorial authorities to prepare land transport strategy
-(1) A territorial authority must prepare a land transport strategy for its district if the functions, duties, and powers of a regional council under the Transit New Zealand Act 1989 and the Land Transport Management Act 2003 have been transferred to it.
-(2) The provisions of sections 175 to 182, with the necessary modifications, apply to any such territorial authority as if it were a regional council.
+[Repealed]
 
-## Part 14 — Director of Land Transport
+## Part 14 — Administrative provisions
 
 ### 184 Land Transport Safety Authority of New Zealand continued
 [Repealed]
@@ -3203,17 +3096,10 @@ The Minister may amend or revoke a national land transport strategy by following
 [Repealed]
 
 ### 186 Director of Land Transport
-(1) The Authority must from time to time appoint a Director of Land Transport.
-(2) The Director may, but need not, be the chief executive of the Authority.
-(3) The terms and conditions of employment of the Director are determined by the Authority.
-(4) Section 117 of the Crown Entities Act 2004 applies in determining the terms and conditions of employment of the Director if he or she is also the chief executive of the Authority.
-(5)
+[Repealed]
 
 ### 187 Acting Director
-(1) In the case of absence from duty of the Director (from whatever cause arising) or on the occurrence from any cause of a vacancy in that position (whether by reason of death, resignation, or otherwise) and from time to time while the absence or vacancy continues, all or any of the powers and duties of the Director or pertaining to the position may be exercised and performed by—whether the direction has been given or the appointment has been made before the absence or vacancy occurs or while the absence or vacancy continues.
-  (a) Any other employee for the time being directed by the Authority to exercise and perform them; or
-  (b) Any other person for the time being appointed by the Authority to exercise and perform them,—
-(2) No such direction or appointment, and no acts done by an employee or other person acting under any such direction or appointment, may in proceedings be questioned on the ground that the occasion for the direction or appointment had not arisen or had ceased, or on the ground that the employee or other person has not been appointed to a position to which the direction or appointment relates.
+[Repealed]
 
 ### 188 Use of words Land Transport Safety Authority
 [Repealed]
@@ -3247,35 +3133,18 @@ The Minister may amend or revoke a national land transport strategy by following
 [Repealed]
 
 ### 197 Functions and powers of Director
-(1) The Director has such functions and powers as may be conferred or imposed on the Director by or under this Act or any other Act, and such functions and powers as may be delegated to the Director by the Authority under section 73 of the Crown Entities Act 2004.
-(2) Without limiting subsection (1),—
-  (a) The Director must take such action as may be appropriate in the public interest to enforce the provisions of this Act and of any other enactment conferring functions or duties on the Director:
-  (b) The Director must exercise control over entry into the land transport system through the issuing of land transport documents under this Act or any other enactment.
-  (c) the Director must monitor adherence, within the land transport system, to any regulatory requirements relating to—
-    (i) safety and security, including (but not limited to) personal security:
-    (ii) access and mobility:
-    (iii) public health:
-    (iv) environmental sustainability:
-    (v) any other matter.
-(3) Without limiting subsection (1), the Director, and any person approved for the purpose by the Director, may—
-  (a) Issue, endorse, alter, replace, renew, suspend, or revoke any land transport document in accordance with the applicable enactment:
-  (b) Administer any fit and proper person test established by any enactment for the purposes of any class of land transport document, applicant, or holder.
-(4) In performing or exercising any functions or powers in relation to—in respect of a particular case, the Director must act independently and is not responsible to the Minister or the Authority for the performance or exercise of such functions or powers.
-  (a) The issue, endorsement, alteration, replacement, renewal, suspension, or revocation of any land transport document or other authorisation under any enactment; or
-  (b) The granting of exemptions under any enactment; or
-  (c) The enforcement of the provisions of any enactment conferring functions or duties on the Director,—
-(5) In this section, land transport document includes a rail document as defined in section 4(1) of the Railways Act 2005.
+[Repealed]
 
 ### 198 Inspections and audits
-(1) The Director may in writing require any person who holds a land transport document that authorises the provision of a service in the land transport system to undergo such inspections and audits as the Director reasonably considers necessary in the interests of land transport safety (including inspections and audits of vehicles operated by such persons).
-(2) The Director may carry out such inspections and audits as the Director reasonably considers necessary in the interests of land transport safety.
-(3) For the purposes of any inspection or audit carried out in respect of any person under this section, the Director may in writing require that person to provide such information as the Director reasonably considers relevant to the inspection or audit.
+(1) The Agency may in writing require any person who holds a land transport document that authorises the provision of a service in the land transport system to undergo such inspections and audits as the Agency reasonably considers necessary in the interests of land transport safety (including inspections and audits of vehicles operated by such persons).
+(2) The Agency may carry out such inspections and audits as the Agency reasonably considers necessary in the interests of land transport safety.
+(3) For the purposes of any inspection or audit carried out in respect of any person under this section, the Agency may in writing require that person to provide such information as the Agency reasonably considers relevant to the inspection or audit.
 (4) A person to whom a requirement is made under this section must comply with that requirement.
 
-### 199 Authority to maintain register of driver licences
-(1) The Authority must continue and maintain the national register of all driver licences that was established under section 45 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986.
+### 199 Agency to maintain register of driver licences
+(1) The Agency must continue and maintain the national register of all driver licences that was established under section 45 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986.
 (2) The national register must show for each driver licence the following information:
-  (a) The holder's full name, address, date of birth, place of birth (if known to the Director), and signature:
+  (a) The holder's full name, address, date of birth, place of birth (if known to the Agency), and signature:
   (b) The number of the licence:
   (c) the original date of issue of the licence and the date of issue of the current licence:
   (d) The date of expiry of the licence:
@@ -3293,18 +3162,18 @@ The Minister may amend or revoke a national land transport strategy by following
   (p) Information about demerit points recorded under this Act or any other enactment against the holder for any offence:
   (q) Organ donor information about the holder.
 (3) The national register must also show information identifying whether a person is specifically forbidden to drive a motor vehicle or is disqualified from holding or obtaining a driver licence.
-(4) A person who applies to the Director, pays the prescribed fee (if any), and obtains the consent of the holder of the driver licence concerned, is entitled to information about that driver licence that is referred to in subsection (2)(b).
+(4) A person who applies to the Agency, pays the prescribed fee (if any), and obtains the consent of the holder of the driver licence concerned, is entitled to information about that driver licence that is referred to in subsection (2)(b).
 (5) A medical practitioner is entitled (without payment of a fee) to information about any driver licence holder referred to in subsection (2)(q).
-(6) A person who applies to the Director and pays the prescribed fee (if any) is entitled to the following information stored in the national register in respect of a person named in the application:
+(6) A person who applies to the Agency and pays the prescribed fee (if any) is entitled to the following information stored in the national register in respect of a person named in the application:
   (a) Any information specified in paragraph (d) or paragraph (e) of subsection (2):
   (b) Any information specified in paragraphs (f) to (n) of subsection (2) that is current at the date of the application.
 (7) An application under any of subsections (4) to (6)—
   (a) May be made in writing or electronically or orally; and
-  (b) Must describe the person named with sufficient particularity to enable the Director to identify the person and the licences concerned.
+  (b) Must describe the person named with sufficient particularity to enable the Agency to identify the person and the licences concerned.
 (8) Information requested under any of subsections (4) to (6) may be given in writing or electronically or orally.
 
 ### 199A Register of transport service licences
-(1) The Authority must continue and maintain the register of transport service licences that was established under section 29 of the Transport Services Licensing Act 1989.
+(1) The Agency must continue and maintain the register of transport service licences that was established under section 29 of the Transport Services Licensing Act 1989.
 (2) The register must show for each licence the following information:
   (a) the holder's full name:
   (b) if the holder is a natural person, the holder's date of birth:
@@ -3327,26 +3196,26 @@ The Minister may amend or revoke a national land transport strategy by following
   (e) the date of approval; and
   (f) the status of the approval; and
   (g) the safety rating (if any) of the approved taxi organisation.
-(4) A person who applies to the Director and pays the prescribed fee (if any)—
+(4) A person who applies to the Agency and pays the prescribed fee (if any)—
   (a) is, with the consent of the holder of the transport service licence named in the application, entitled to the information stored in the register in respect of the licence holder; but
   (b) is, without the consent of the holder of the transport service licence named in the application, entitled only to the information stored in the register in respect of the licence holder that is—
     (i) specified in subsection (2)(a) and (g) to (1); and
     (ii) in the case of an approved taxi organisation, specified in subsection (3)(a) to (c) and (e) to (g).
 (5) An application under subsection (4)—
   (a) may be made in writing or electronically or orally; and
-  (b) must describe the person named with sufficient particularity to enable the Director to identify the person and the licences concerned.
+  (b) must describe the person named with sufficient particularity to enable the Agency to identify the person and the licences concerned.
 (6) Information requested under subsection (4) may be given in writing or electronically or orally.
 
 ### 200 Restrictions on access to photographic images of driver licence holders
-(1) Except as provided in this section, no person, other than a person acting in the course of the person's official duties as an employee of the Authority, may access any photographic image stored under section 28(5).
-(2) A member of the Police may, for the purpose of enforcing any enactment referred to in section 113(1), access any photographic image stored under section 28(5) on production to the Director of—
+(1) Except as provided in this section, no person, other than a person acting in the course of the person's official duties as an employee of the Agency, may access any photographic image stored under section 28(5).
+(2) A member of the Police may, for the purpose of enforcing any enactment referred to in section 113(1), access any photographic image stored under section 28(5) on production to the Agency of—
   (a) Written consent to such access given by the individual to whom the image relates; or
   (b) An appropriate warrant issued under section 198 of the Summary Proceedings Act 1957.
 (2A) A person who is the next of kin of a deceased individual to whom a photographic image stored under section 28(5) relates may access the photographic image—
-  (a) on production to the Director of—
+  (a) on production to the Agency of—
     (i) a death certificate (within the meaning of section 2 of the Births, Deaths, and Marriages Registration Act 1995) relating to the death of the individual; or
     (ii) the grant of probate of the will of the individual or of letters of administration to the individual's estate; and
-  (b) only if the person who is seeking access to the photographic image satisfies the Director that the person is the individual's next of kin.
+  (b) only if the person who is seeking access to the photographic image satisfies the Agency that the person is the individual's next of kin.
 (3) A person who has lawful access to a photographic image stored under section 28(5) may use that image only in the course, and for the purposes, of the person's official duties.
 (4) For the purposes of this section, next of kin includes a spouse, a civil union partner, and a de facto partner.
 
@@ -3364,36 +3233,23 @@ The Minister may amend or revoke a national land transport strategy by following
 [Repealed]
 
 ### 204 Director may delegate functions or powers to employees of Authority
-(1) The Director may from time to time, either generally or particularly, delegate to an employee of the Authority any of the Director's functions and powers, including functions or powers delegated to the Director under this Act or any other Act.
-(2) No delegation under this section may include the power to delegate under this section.
+[Repealed]
 
 ### 205 Director may delegate functions or powers to persons outside Authority
-(1)
-(2) The Director may from time to time, either generally or particularly, delegate to a person who is not an employee of the Authority any of the Director's functions and powers.
-(3) A person who exercises a function or power under a delegation made under this section may charge the person in respect of whom the function or power is exercised a reasonable fee in respect of the exercise of that function or power.
-(4) The Director may not delegate under this section the power to amend or revoke land transport documents.
+[Repealed]
 
 ### 206 General provisions concerning delegations under sections 204 and 205
-(1) A delegation under section 204 or section 205 must be in writing.
-(2) No delegation may be made under section 205 without the written consent of the Minister.
-(3) The person to whom authority is delegated may (with the prior written approval of the Minister in the case of a delegation under section 205 and in other cases with the prior written approval of the Director) delegate to another person such of those functions or powers as are so approved.
-(4) Subject to any general or special directions given or conditions imposed by the Director, a person may exercise any functions or powers delegated in the same manner and with the same effect as if they had been conferred or imposed on that person directly by this Act and not by delegation.
-(5) A delegation may be made to a specified person or persons of a specified class or to the holder or holders for the time being of a specified office or specified class of office.
-(6) A delegation must be given for a specified period but in any event is revocable at will.
-(7) A delegation does not affect or prevent the performance or exercise of any function or power by the Director, nor does the delegation affect the responsibility of the Director for the actions of a person acting under the delegation.
-(8) A person purporting to act under a delegation is, in the absence of proof to the contrary, to be presumed to be acting in accordance with the terms of the delegation.
-(9) Until it is revoked or expires, a delegation continues in force according to its tenor, even though the person by whom it was made may cease to hold office, and continues to have effect as if it were made by the person for the time being holding that office.
-(10) A person purporting to act under a delegation must, when reasonably requested to do so, produce evidence of his or her authority to so act.
+[Repealed]
 
-### 207 Delegation of Minister's functions or powers to Authority
-(1) The Minister may from time to time, either generally or particularly, delegate to the Authority all or any of the Minister's functions and powers under this Act or under any other enactment affecting land transport.
+### 207 Delegation of Minister's functions or powers to Agency
+(1) The Minister may from time to time, either generally or particularly, delegate to the Agency all or any of the Minister's functions and powers under this Act or under any other enactment affecting land transport.
 (2) A delegation under this section must be in writing.
 (3) No delegation under this section may include the power to delegate under this section.
 (4) The power of the Minister to delegate under this section—
   (a) Is subject to section 160(8) and to any prohibitions, restrictions, or conditions contained in any other Act in relation to the delegation of the Minister's functions or powers; but
   (b) Does not limit a power of delegation conferred on the Minister by any other Act.
-(5) Subject to any general or special directions given or conditions imposed by the Minister, the Authority may exercise any functions or powers so delegated to the Authority in the same manner and with the same effect as if they had been conferred on the Authority directly by this section and not by delegation.
-(6) If the Authority purports to act under a delegation made under this section, the Authority is, in the absence of proof to the contrary, to be presumed to be acting in accordance with the terms of the delegation.
+(5) Subject to any general or special directions given or conditions imposed by the Minister, the Agency may exercise any functions or powers so delegated to the Agency in the same manner and with the same effect as if they had been conferred on the Agency directly by this section and not by delegation.
+(6) If the Agency purports to act under a delegation made under this section, the Agency is, in the absence of proof to the contrary, to be presumed to be acting in accordance with the terms of the delegation.
 (7) A delegation under this section does not affect or prevent the performance or exercise of any function or power by the Minister, nor does the delegation affect the responsibility of the appropriate Minister for the actions of a person acting under the delegation.
 
 ## Part 15 — Miscellaneous provisions
@@ -3403,13 +3259,13 @@ The Minister may amend or revoke a national land transport strategy by following
   (a) An enforcement officer for the purposes of this Act or Part 2 of the Land Transport Management Act 2003; or
   (b) A dangerous goods enforcement officer.
 (2) The Commissioner may, by warrant, appoint any sworn member of the Police to be a dangerous goods enforcement officer.
-(3) The Director may, by warrant, appoint an employee of the Authority to be—
+(3) The Agency may, by warrant, appoint an employee of the Agency to be—
   (a) an enforcement officer for the purposes of any of Parts 4A, 4B, 6A, and 6B, including any rules or regulations made in relation to transport services, or sections 22B, 22C, 36B, 113(2)(f), 113A, 115, 118(6), 124, 128A, 128B, 135(1A), 138, and 139; or
   (b) A dangerous goods enforcement officer.
-(4) Only persons who, in the opinion of the Commissioner or the Director (as the case may be), are qualified by knowledge or experience to undertake enforcement of the functions specified in the warrant of appointment may be appointed under this section.
-(5) Each enforcement officer or dangerous goods enforcement officer appointed under this section is to be supplied by the Commissioner or the Director (as the case may be) with a warrant which specifies the functions that the officer is entitled or required to undertake.
-(6) In specifying the functions of an enforcement officer or dangerous goods enforcement officer under this section, the Commissioner or the Director (as the case may be) may specify which powers are or are not exercisable by the officer and impose conditions on the exercise of powers.
-(7) The Commissioner or the Director (as the case may be) may at any time revoke an appointment made by him or her under this section.
+(4) Only persons who, in the opinion of the Commissioner or the Agency (as the case may be), are qualified by knowledge or experience to undertake enforcement of the functions specified in the warrant of appointment may be appointed under this section.
+(5) Each enforcement officer or dangerous goods enforcement officer appointed under this section is to be supplied by the Commissioner or the Agency (as the case may be) with a warrant which specifies the functions that the officer is entitled or required to undertake.
+(6) In specifying the functions of an enforcement officer or dangerous goods enforcement officer under this section, the Commissioner or the Agency (as the case may be) may specify which powers are or are not exercisable by the officer and impose conditions on the exercise of powers.
+(7) The Commissioner or the Agency (as the case may be) may at any time revoke an appointment made by the Commissioner or the Agency under this section.
 
 ### 209 Taking of blood specimens for statistical or research purposes
 (1) Despite anything in any Act or rule of law, a medical practitioner or medical officer employed by an approved health authority—
@@ -3433,10 +3289,10 @@ The Minister may amend or revoke a national land transport strategy by following
 (4) In this section, traffic accident report means a written report prepared by an enforcement officer who is a sworn or non-sworn member of the Police that relates to an investigation of a traffic accident.
 
 ### 211A Payment of fees
-All fees and other money (not being fines, infringement fees, or other penalties) received or recovered for the purposes of Part 4A must be paid or credited to the Authority.
+All fees and other money (not being fines, infringement fees, or other penalties) received or recovered for the purposes of Part 4A must be paid or credited to the Agency.
 
-### 212 Authority to pay sum to Assessment Centres
-The Authority must pay each Assessment Centre, from money appropriated for the purpose by Parliament, such sum as may be prescribed for the first attendance of a person ordered under this Act to attend an Assessment Centre, if that person has not previously attended an Assessment Centre following the making of the order.
+### 212 Agency to pay sum to Assessment Centres
+The Agency must pay each Assessment Centre, from money appropriated for the purpose by Parliament, such sum as may be prescribed for the first attendance of a person ordered under this Act to attend an Assessment Centre, if that person has not previously attended an Assessment Centre following the making of the order.
 
 ### 213 Customs control over imported vehicles
 (1) If a regulation or rule specifies requirements for motor vehicles imported into New Zealand, a motor vehicle imported into New Zealand must remain subject to the control of Customs until those requirements are complied with.
@@ -3493,7 +3349,7 @@ Section 216 expires on the close of 1 July 2009 and on the close of that date is
   (f) The Transport (Ordering a Vehicle off the Road) Notice 1995 (SR 1995/156):
   (g) The Transport (Measurement of Weight) Notice 1997 (SR 1997/375).
 (3) The enactments specified in subsection (1) or subsection (2), which were made under the Transport Act 1962 or the Transport (Vehicle and Driver Registration and Licensing) Act 1986, may be amended from time to time under the corresponding empowering provision (if any) in this Act or (if there is no corresponding empowering provision in this Act) as if this section contained the relevant empowering provision (as it read immediately before the commencement of section 214).
-(4) Every regulation prescribing or providing for the fixing of fees and charges (other than rates of road user charges), which regulation is made under the Transport Act 1962, the Road User Charges Act 1977, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Transport Services Licensing Act 1989, or the Transit New Zealand Act 1989, and is in force immediately before the commencement of this section, continues to have effect and may be amended, revoked, or replaced under section 167.
+(4) Every regulation prescribing or providing for the fixing of fees and charges (other than rates of road user charges), which regulation is made under the Transport Act 1962, the Road User Charges Act 1977, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Transport Services Licensing Act 1989, or the Government Roading Powers Act 1989, and is in force immediately before the commencement of this section, continues to have effect and may be amended, revoked, or replaced under section 167.
 
 ### 219 Expiry of section 218
 Section 218 expires with close of 1 July 2009 and on the close of that date is repealed.
@@ -3502,9 +3358,9 @@ Section 218 expires with close of 1 July 2009 and on the close of that date is r
 All rules made under Part 2 of the Land Transport Act 1993 and in force immediately before the commencement of this section, and all rules made under that Part of that Act that are expressed to come into force on or after the commencement of this section, are to be treated as rules made under this Act.
 
 ### 221 Appointments
-(1) The person who held office as the Director of Land Transport Safety immediately before this section comes into force is to be treated as if he or she had been appointed under section 186.
+(1)
 (2) The warrants of traffic officers appointed under the Transport Act 1962 are revoked.
-(3) Every member of the Board of the Authority who holds office as such immediately before the commencement of section 184 is to continue in office as if appointed under that section and, subject to that section, holds office until his or her appointment would have expired under the Land Transport Act 1993 if this Act had not been passed.
+(3) Every member of the Board of the Agency who holds office as such immediately before the commencement of section 184 is to continue in office as if appointed under that section and, subject to that section, holds office until his or her appointment would have expired under the Land Transport Act 1993 if this Act had not been passed.
 (4) Every member of a regional land transport committee who holds office as such immediately before the commencement of section 178 is to continue in office as if appointed under that section and, subject to that section, holds office until his or her appointment would have expired under the Land Transport Act 1993 if this Act had not been passed.
 (5) Every person who, immediately before the commencement of this section, held office as a hazardous substances enforcement officer under section 70K of the Transport Act 1962 is deemed to have been appointed as a dangerous goods enforcement officer under section 208.
 
@@ -3512,20 +3368,20 @@ All rules made under Part 2 of the Land Transport Act 1993 and in force immediat
 (1) All certificates, permits, licences, warrants of fitness, exemptions, notices, and other documents issued under the Transport Act 1962 (other than those documents to which any other provision of this Part applies) and in force immediately before the commencement of this section have effect for the purposes of this Act as if issued under this Act.
 (2) Exemptions granted under section 13 of the Land Transport Act 1993 have effect as if granted under section 166.
 
-### 223 Transfer provisions for certain employees of Land Transport Safety Authority
+### 223 Transfer provisions for certain employees of Land Transport Safety Agency
 (1) This section applies to any person (the transferee) who,—
-  (a) As an employee of the Authority, is or was engaged principally on duties relating to any 1 or more of the following matters:
+  (a) As an employee of the Agency, is or was engaged principally on duties relating to any 1 or more of the following matters:
     (i) The administration of motor vehicle registration and licensing under Part 1 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or the administration of driver licensing under Part 2 of that Act or under this Act:
     (ii) The administration or enforcement of road user charges under the Road User Charges Act 1977 or Part 2 of the Land Transport Management Act 2003:
-    (iii) The administration of fuel excise duty refunds under Part 5 of the Transit New Zealand Act 1989:
-    (iv) The collection of revenue under the Road User Charges Act 1977, Part 1 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986, or Part 5 of the Transit New Zealand Act 1989; and
+    (iii) The administration of fuel excise duty refunds under Part 5 of the Government Roading Powers Act 1989:
+    (iv) The collection of revenue under the Road User Charges Act 1977, Part 1 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986, or Part 5 of the Government Roading Powers Act 1989; and
   (b) Becomes or is offered the opportunity to become an employee or director of—to which the responsibility for any of the matters specified in paragraph (a) has been or is delegated, contracted, or otherwise transferred (the employer).
     (i) Any Department or other part of the State services (as defined in section 2 of the State Sector Act 1988); or
     (ii) Any company, partnership, or person—
-(2) No transferee is entitled to any payment, benefit, or compensation, whether for redundancy or otherwise, by reason only of the transferee ceasing to be employed by the Authority if—
-  (a) The transferee has been or is offered terms and conditions of employment that are similar in overall effect to those of the transferee with the Authority; and
-  (b) The employer has agreed to treat the transferee's service with the Authority as if it were service with the employer and as if it were continuous; and
-  (c) The duties of the transferee are similar in overall effect to those of the transferee with the Authority or the transferee is willing to accept alternative duties.
+(2) No transferee is entitled to any payment, benefit, or compensation, whether for redundancy or otherwise, by reason only of the transferee ceasing to be employed by the Agency if—
+  (a) The transferee has been or is offered terms and conditions of employment that are similar in overall effect to those of the transferee with the Agency; and
+  (b) The employer has agreed to treat the transferee's service with the Agency as if it were service with the employer and as if it were continuous; and
+  (c) The duties of the transferee are similar in overall effect to those of the transferee with the Agency or the transferee is willing to accept alternative duties.
 (3) Any transferee who, immediately before the transfer, was a contributor to the Government Superannuation Fund under the Government Superannuation Fund Act 1956 is, for purposes of that Act, deemed to be employed in the Government service so long as that person continues to be employed with, or be a director of, the employer.
 (4) Subject to the Government Superannuation Fund Act 1956, nothing in subsection (3) entitles a transferee to become a contributor to the Government Superannuation Fund after that transferee has ceased to be a contributor.
 (5) For the purposes of applying the Government Superannuation Fund Act 1956, in accordance with subsection (3), the term controlling authority, in relation to a transferee, means the employer.
@@ -3554,8 +3410,8 @@ An application pending under any provision of the Transport Act 1962 that is rep
 (2) Any action taken by or on behalf of the Minister before the commencement of this section under section 29B of the Land Transport Act 1993, which action was taken in relation to any proposed national land transport strategy under that Act, is deemed to have been taken by the Minister under, and for the purposes of, section 171 of this Act before the making of the strategy.
 (3) Any national land transport strategy and regional land transport strategy in force under Part 3A of the Land Transport Act 1993 immediately before the commencement of Part 13 of this Act has effect as if made under that Part.
 
-### 230 Savings relating to functions of Authority
-(1) The notice published in the Gazette (1993, at page 2626) under section 17(2) of the Land Transport Act 1993, specifying additional functions of the Authority, has effect as if given under section 190(2) of this Act.
+### 230 Savings relating to functions of Agency
+(1) The notice published in the Gazette (1993, at page 2626) under section 17(2) of the Land Transport Act 1993, specifying additional functions of the Agency, has effect as if given under section 190(2) of this Act.
 (2) The Authority's performance agreement under section 21 of the Land Transport Act 1993, as it stood immediately before the commencement of sections 192 to 194 of this Act, has effect as if approved or determined or amended under those provisions.
 (3) The Authority's service charter under section 22 of the Land Transport Act 1993, as it stood immediately before the commencement of section 195 of this Act, has effect as if prepared and made available to the public, or amended, under section 195.
 
@@ -3782,3 +3638,325 @@ An application pending under any provision of the Transport Act 1962 that is rep
 
 ### 99 Transitional provision for notices given under section 96 of the principal Act
 If, after the commencement of section 50, an enforcement officer issues a notice under section 96 of the principal Act in any case to which subsection (1) of that section applies in a form used by enforcement officers before the commencement of section 50, that form does not of itself invalidate the notice.
+
+### 1 Title
+This Act is the Land Transport Management Amendment Act 2008.
+
+### 2 Commencement
+This Act comes into force on 1 August 2008.
+
+## Part 2 — Miscellaneous provisions
+
+### 47 Consequences of establishment of New Zealand Transport Agency
+(1) On 1 July 2008,—
+  (a) Land Transport New Zealand and Transit New Zealand are dissolved; and
+  (b) the office of the Director of Land Transport ceases to exist; and
+  (c) the Transit New Zealand Act 1989 is called the Government Roading Powers Act 1989.
+(2) Schedule 2 applies to this section.
+
+### 48 Transitional and savings provisions
+Other transitional and savings provisions relating to the coming into force of this Act are set out in Schedule 2.
+
+## Schedule.Group
+
+### Schedule 2 — Transitional and savings provisions
+
+**Interpretation**
+
+### 1 Interpretation
+(1) In this schedule, unless the context otherwise requires,—
+  - **Authority** has the same meaning as in section 5 of the Land Transport Management Act 2003 as in force immediately before 1 August 2008
+  - **board** , in relation to the new Agency, means the board specified in section 98 of the Land Transport Management Act 2003
+  - **Director** means the Director of Land Transport
+  - **former agency** means (as the case may require)—
+    (a) Land Transport New Zealand:
+    (b) Transit New Zealand
+  - **land transport programme** has the same meaning as in section 5 of the Land Transport Management Act 2003 as in force immediately before 1 August 2008
+  - **new Agency** means the New Zealand Transport Agency established under section 93 of the Land Transport Management Act 2003
+  - **property** —
+    (a) means every type of property; and
+    (b) includes—
+      (i) every type of estate and interest in property; and
+      (ii) money
+  - **suitable alternative position** , in relation to an employee, means a position—
+    (a) for which the employee has the appropriate skills and experience; and
+    (b) the pay and conditions of which are, in their overall effect, no less favourable to the employee than those applying to the employee immediately before the date of the employee’s transfer to that position
+  - **transferred employee** means a person who,—
+    (a) immediately before 1 August 2008, is employed by a former agency; and
+    (b) is transferred to the new Agency under clause 26(1)(h).
+(2) Any term or expression that is defined in the Land Transport Management Act 2003 and used, but not defined, in this schedule has, unless the context otherwise requires, the same meaning as in that Act.
+
+**National land transport fund**
+
+### 2 Treatment of certain land transport revenue
+(1) This clause applies to—
+  (a) all land transport revenue referred to in section 9(6) of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008) and held in the national land transport fund immediately before that date; and
+  (b) all amounts referred to in section 10(3)(a) of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008) and held by the Authority in the national land transport account immediately before that date.
+(2) On 1 August 2008, all land transport revenue and all amounts to which this clause applies must be treated as being part of the national land transport fund referred to in section 10(1) of the Land Transport Management Act 2003 (as in force on and from that date).
+
+### 3 Crown may pay new Agency for certain liabilities incurred before 1 August 2008
+(1) This clause applies to all land transport revenue referred to in section 9(6) (as in force immediately before 1 August 2008) that has not been paid to the Authority before that date, in respect of the 2007/08 financial year.
+(2) Without limiting clause 26(1)(d), the Crown may, without further appropriation than this clause, pay to the new Agency an amount equal to the land transport revenue to which this clause applies, as if the 2007/08 financial year ended on 31 July 2008.
+
+### 4 Crown’s authority to pay for certain expenditure using land transport revenue
+(1) The Crown may use land transport revenue to pay to—
+  (a) the Secretary the following amount in each of the following financial years for the purposes of Waikato rail works:Financial yearAmount ($)2008/095,000,0002009/105,000,000
+  (b) the Secretary to the Treasury the following amount in each of the following financial years for the purposes of upgrades and renewal of the below track Auckland rail infrastructure:Financial yearAmount ($)2008/09155,000,0002009/10130,000,000
+(2) In respect of the 2008/09 and 2009/10 financial years, the amount referred to in section 9(3) of the Land Transport Management Act 2003 is an amount equal to the land transport revenue for the relevant financial year less—
+  (a) any amounts that have been paid in respect of that year under subclause (1); and
+  (b) the amounts for that year that are referred to in section 9(1) and (2) of the Land Transport Management Act 2003.
+(3) In each of the 2008/09 and 2009/10 financial years, the amounts paid under subclause (1) must be deducted from the amount of land transport revenue that constitutes an inflow of the national land transport fund for the relevant financial year under section 10(2)(a) of the Land Transport Management Act 2003.
+(4) The Governor-General may, by Order in Council, reduce or increase any or all amounts or financial years specified in subclause (1), and this clause will apply or continue to apply (as the case may be), with the necessary modifications, in respect of any amended amount or financial year.
+
+**Land transport programmes**
+
+### 5 Completed land transport programmes for 2008/09 financial year to have effect until 1 July 2009
+(1) This clause applies to the following land transport programmes (as defined immediately before 1 August 2008):
+  (a) the land transport programme completed by an approved organisation for the 2008/09 financial year under section 12 of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008):
+  (b) the land transport programme completed by the Authority for the 2008/09 financial year under section 12A of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008).
+(2) A land transport programme to which this clause applies has effect until 1 July 2009.
+(3) Subject to clause 6, the relevant provisions of the Land Transport Management Act 2003 that were in force immediately before 1 August 2008 continue to apply, with all necessary modifications, to a land transport programme that is continued in effect by subclause (2) as if—
+  (a) a reference to the Authority were a reference to the new Agency; and
+  (b) the land transport programme completed by each of the former agencies for the 2008/09 financial year were completed by the new Agency.
+
+### 6 Treatment of police activities and combinations of police activities in Authority’s completed land transport programme for 2008/09 financial year
+(1) This clause applies to the land transport programme referred to in clause 5(1)(b).
+(2) Police activities and combinations of police activities that are included in the land transport programme to which this clause applies are to be treated as if they were recommendations of the new Agency that had been approved by the responsible Minister under section 18L(1) of the Land Transport Management Act 2003.
+(3) However, to avoid doubt, the police activities and combinations of police activities referred to in subclause (2) are not to be treated as if they were the first approval referred to in clause 9.
+
+### 7 Completion of draft land transport programmes for 2008/09 financial year
+(1) This clause applies to any draft land transport programme under section 12 or 12A of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008) that was in existence (but not completed) immediately before 1 August 2008.
+(2) Approved organisations must, unless it is impracticable to do so, comply with the relevant provisions of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008) when completing their land transport programmes for the 2008/09 financial year.
+(3) The new Agency must, unless it is impracticable to do so, comply with the relevant provisions of the Land Transport Management Act 2003 (as in force immediately before 1 July 2008) when completing the land transport programme for each former agency for the 2008/09 financial year.
+(4) A land transport programme that is completed under this clause continues to have effect until 30 June 2009.
+(5) Subject to clause 6, the relevant provisions of the Land Transport Management Act 2003 that were in force immediately before 1 August 2008 continue to apply, with all necessary modifications, to a land transport programme that is continued in effect by subclause (4) as if—
+  (a) a reference to the Authority were a reference to the new Agency; and
+  (b) the land transport programme completed by each of the former agencies for the 2008/09 financial year were completed by the new Agency.
+
+**First regional land transport programmes**
+
+### 8 First regional land transport programmes
+Each regional council and ARTA must ensure that their first regional land transport programmes are in place for the 3 financial years commencing on and from 1 July 2009.
+
+**Police activities or combinations of police activities**
+
+### 9 First approval of recommendations
+The Minister must ensure that the first approval under section 18L(1) is for the 3 financial years commencing on and from 1 July 2009.
+
+**National land transport programme**
+
+### 10 National land transport programme for 2008/09 financial year to have effect until 1 July 2009
+(1) This clause applies to the national land transport programme that has been prepared and adopted by the Authority for the 2008/09 financial year under section 19 of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008).
+(2) The national land transport programme to which this clause applies has effect until 1 July 2009.
+(3) The relevant provisions of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008) continue to apply, with all necessary modifications, to a national land transport programme that is continued in effect by subclause (2) as if—
+  (a) a reference to the Authority were a reference to the new Agency; and
+  (b) the national land transport programme prepared and adopted by Land Transport New Zealand for the 2008/09 financial year were prepared and adopted by the new Agency.
+
+### 11 First national land transport programme of new Agency
+The new Agency must ensure that its first national land transport programme is in place for the 3 financial years commencing on and from 1 July 2009.
+
+**Approval of activities or combinations of activities**
+
+### 12 Approvals in effect immediately before 1 August 2008
+Subject to clause 42, approvals in effect under sections 20 and 21 of the Land Transport Management Act 2003 immediately before 1 August 2008 continue to have effect.
+
+### 13 Approval of activities and combinations of activities for 2008/09 financial year
+Subject to clauses 12 and 14 to 17, the new Agency must, unless it is impracticable to do so (for example, because there is no GPS), comply with the relevant provisions of the Land Transport Management Act 2003 when approving activities and combinations of activities for the 2008/09 financial year.
+
+### 14 Approval of certain activities or combinations of activities
+(1) The new Agency must approve activities and combinations of activities as qualifying for payment from the national land transport fund up to the amount, which is subject to subclause (2), and by the financial year specified in the second column of the following table in order to fulfil the Crown’s commitment described in the first column of that table opposite that amount and financial year:The Crown’s commitmentAmount (which is subject to subclause (2)) and financial year by which amount is to be approved ($)Auckland Land Transport—contribution to implementing Auckland’s regional land transport strategy: the Crown’s commitment was originally $898,000,000 over 2004/05–2014/15, including rail funding130,000,000 by 2012/13Bay of Plenty—to address congestion and improve access and safety through investment in strategic roading, passenger transport, transport demand management, and walking and cycling: the Crown’s commitment was originally $150,000,000 over 2006/07–2014/15135,000,000 by 2015/16 Waikato Land Transport—contribution to implementing Waikato’s regional land transport strategy: the Crown’s commitment was originally $215,000,000 over 2007/08–2016/17, including rail funding188,000,000 by 2017/18 Wellington Land Transport—contribution to implementing Wellington's regional land transport strategy: the Crown's commitment was originally $225,000,000 over 2005/06–2014/15163,000,000 by 2015/16Wellington Land Transport (Western Corridor)—contribution to improve safety and access reliability of the Wellington Western Corridor: the Crown's commitment was originally $660,000,000 over 2006/07–2015/16640,000,000 by 2016/17 made up as follows:
+  (a) up to 405,000,000 to be applied to advance a long-term solution to address access reliability for State Highway 1 between Kapiti and Wellington
+  (b) up to 235,000,000 to be applied to passenger transport and roading to address congestion and to improve safety and access reliability of the Wellington Western Corridor.
+(2) The Governor-General may, by Order in Council, increase any or all of the amounts or periods specified in the second column of the table in subclause (1).
+(3) The new Agency must include in its annual report on the national land transport fund under section 11 of the Land Transport Management Act 2003 a statement of the total expenses or capital expenditure incurred from the 2008/09 financial year to date in fulfilling each of the Crown's commitments listed in subclause (1).
+(4) The reporting requirement in subclause (3) applies until all of the Crown's commitments listed in subclause (1) have been fulfilled.
+(5) To avoid doubt, compliance by the new Agency with this clause does not constitute a breach of section 95(2) of the Land Transport Management Act 2003.
+
+### 15 Approval of new Agency’s activities and combinations of activities (excluding those relating to State highways) for 2008/09 financial year
+(1) This clause applies to activities and combinations of activities (excluding those relating to State highways)―
+  (a) that the new Agency proposes to deliver, or to manage the delivery of, in the 2008/09 financial year; and
+  (b) for which funding is sought from the national land transport fund; and
+  (c) whether or not those activities or combinations of activities have been included in a land transport programme for the 2008/09 financial year that has been completed by the Authority under section 12A of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008).
+(2) Despite section 20(2)(a), (b), (e), and (f) of the Land Transport Management Act 2003, the new Agency may approve any activities or combinations of activities to which this clause applies as qualifying for payment from the national land transport fund.
+
+### 16 Treatment of certain costs and expenses of new Agency for 2008/09 financial year
+(1) This clause applies to costs and expenses of the new Agency for the 2008/09 financial year that arise out of the performance of its functions and duties under subpart 1 of Part 2 of the Land Transport Management Act 2003.
+(2) Despite section 20(2)(a), (b), (e), and (f) of the Land Transport Management Act 2003, the new Agency may approve any costs and expenses of the new Agency to which this clause applies as qualifying for payment from the national land transport fund.
+
+### 17 No Ministerial approval required for costs and expenses of new Agency for 2008/09 financial year
+(1) This clause applies despite anything to the contrary in the Land Transport Management Act 2003 (as in force immediately before 1 August 2008 and as in force on and from that date).
+(2) The Minister’s approval of the costs and expenses of the new Agency for the 2008/09 financial year is not required.
+
+### 18 Approved procurement procedures
+Subject to clause 42, approved procurement procedures in effect under section 25 or 95(1) of the Land Transport Management Act 2003 immediately before 1 August 2008 continue to have effect as approved procurement procedures under that Act.
+
+### 19 Reporting requirements for new Agency in 2008/09 and 2009/10 financial years
+Despite section 26(2)(a), the new Agency is required to report on the statement of inflows and expenses and capital expenditure of the national land transport fund as follows:
+  (a) for the 2008/09 financial year, for that financial year:
+  (b) for the 2009/10 financial year, for that financial year and the 2008/09 financial year.
+
+**Regional land transport committees and first regional transport committees**
+
+### 20 Temporary continuation of regional land transport committees (other than Auckland regional transport committee)
+(1) This clause applies to any regional land transport committee (other than the Auckland regional transport committee) that—
+  (a) was established under section 178 of the Land Transport Act 1998 (as in force immediately before 1 August 2008); and
+  (b) was in existence immediately before that date.
+(2) A regional land transport committee to which this clause applies continues in existence until whichever is the earlier of the following:
+  (a) a regional transport committee for the region concerned is established under section 105 of the Land Transport Management Act 2003:
+  (b) the close of 30 September 2008 or on a date, no later than 31 December 2008, that the Minister agrees.
+
+### 21 Establishment of first regional transport committees for each region (excluding Auckland region)
+(1) Every regional council, or unitary authority, must establish a regional transport committee, under section 105 of the Land Transport Management Act 2003, for its region before 1 October 2008 or on a date, no later than 31 December 2008, that the Minister agrees.
+(2) If section 105(11) of the Land Transport Management Act 2003 applies, the relevant territorial authority must decide which regional transport committee to join before 1 October 2008.
+
+### 22 Continuation of Auckland regional land transport committee
+The Auckland regional land transport committee established under section 178 of the Land Transport Act 1998 (as in force immediately before 1 August 2008), and in existence immediately before that date, continues in existence as the Auckland regional transport committee under clause 11 of Schedule 7 (as in force from 1 August 2008).
+
+**Regional land transport strategies**
+
+### 23 Existing regional land transport strategies
+(1) This clause applies to regional land transport strategies in force under Part 13 of the Land Transport Act 1998 immediately before the commencement of Part 3 of the Land Transport Management Act 2003.
+(2) Subject to subclause (3) and clause 42, a regional land transport strategy to which this clause applies continues to have effect until it would have ceased to be current under section 176 of the Land Transport Act 1998 (as in force immediately before the commencement of Part 3 of the Land Transport Management Act 2003).
+(3) The Minister may approve the extension of a regional land transport strategy to which this clause applies by a period of up to 18 months.
+
+### 24 First progress reports on regional land transport strategy
+Each regional transport committee must ensure that its first progress report on its regional land transport strategy is for the 3 consecutive financial years ending on 30 June 2011.
+
+**First GPS**
+
+### 25 First GPS
+(1) Despite section 86 of the Land Transport Management Act 2003, the first GPS must be issued with effect on and from 1 July 2009.
+(2) Despite section 87(1)(c) and (2) of the Land Transport Management Act 2003, in preparing the first GPS, the Minister may, but need not,—
+  (a) have regard to the views of Local Government New Zealand and representative groups of land transport users and providers (including representative groups of coastal shipping users and providers):
+  (b) consult with the new Agency.
+
+**Dissolution of Land Transport New Zealand and Transit New Zealand**
+
+### 26 Consequences of dissolution
+(1) On 1 August 2008,—
+  (a) the functions, duties, and powers of the former agencies under any enactment vest in the new Agency; and
+  (b) all property belonging to the former agencies vests in the new Agency; and
+  (c) all information held by the former agencies is held by the new Agency; and
+  (d) all money payable to or by the former agencies becomes payable to or by the new Agency; and
+  (e) all rights, liabilities, contracts, entitlements, and engagements of the former agencies become the rights, liabilities, contracts, entitlements, and engagements of the new Agency; and
+  (f) all directions to the former agencies in effect immediately before 1 August 2008 become directions to the new Agency; and
+  (g) any delegation by Transit under section 62 of the Transit New Zealand Act 1989 has effect as if it were a delegation by the new Agency; and
+  (h) subject to clause 31, every employee of the former agencies becomes an employee of the new Agency on the same terms and conditions as applied immediately before becoming an employee of the new Agency; and
+  (i) anything done, or omitted to be done, or that is to be done, by, or in relation to, the former agencies is to be treated as having been done, or having been omitted to be done, or to be done, by, or in relation to, the new Agency; and
+  (j) the commencement, continuation, or enforcement of proceedings by or against the former agencies may instead be commenced, continued, or enforced by or against the new Agency without amendment to the proceedings; and
+  (k) the completion of a matter or thing that would, but for this clause, have been completed by the former agencies, may be completed by the new Agency.
+(2) Despite anything in subclause (1), the board of the new Agency may appoint a new chief executive after 1 August 2008.
+(3) The transfer of information from the former agencies to the new Agency under subclause (1)(c) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(4) The dissolution of the former agencies does not, by itself, affect any of the following matters:
+  (a) any decision made, or anything done or omitted to be done, by a former agency in relation to the performance or the exercise of the former agency’s functions, duties, or powers under any enactment:
+  (b) any proceedings commenced by or against a former agency:
+  (c) any other matter or thing arising out of a former agency’s performance or exercise, or purported performance or exercise, of the former agency’s functions, duties, or powers under any enactment.
+
+### 27 Operating principles
+(1) Despite section 96(1)(b)(ii) of the Land Transport Management Act 2003, for the 2008/09 and 2009/10 financial years the new Agency must, but only if and to the extent that it is practicable and reasonable to do so, comply with the operating principle set out in that provision.
+(2) However, the Minister may extend the application of subclause (1) to the new Agency for the 2010/11 financial year.
+(3) Despite section 96(2) of the Land Transport Management Act 2003, the new Agency is only required to comply with that provision after 30 September 2008 or on a date, no later than 31 October 2008, that the Minister agrees.
+
+### 28 References to former agency
+(1) This clause applies to—
+  (a) things that are in force or existing on 1 August 2008 (whether coming into force, entered into, or created before or after the commencement of this clause); and
+  (b) references in any thing, including (without limitation) enactments, rules, bylaws, deeds, agreements, proceedings, instruments, documents and notices.
+(2) If this clause applies, every reference in any thing specified in subclause (1) to a former agency is, on or after 1 August 2008, to be read as a reference to the new Agency unless the context otherwise requires.
+
+### 29 New Agency replaces Transit New Zealand as requiring authority
+(1) This clause applies to any Order in Council, notice, or other instrument that approves of Transit New Zealand as a requiring authority and that was in effect immediately before 1 August 2008, including (without limitation)—
+  (a) the Resource Management (Approval of Transit New Zealand as Requiring Authority) Order 1992; and
+  (b) the Resource Management (Approval of Transit as Requiring Authority) Notice 1994.
+(2) Without limiting clauses 26 and 28, on 1 August 2008,—
+  (a) the new Agency replaces Transit New Zealand as a requiring authority under any Order in Council, notice, or other instrument to which this clause applies; and
+  (b) every reference to Transit New Zealand in any Order in Council, notice, or other instrument to which this clause applies, is, unless the context otherwise requires, to be read as a reference to the new Agency; and
+  (c) anything done, or omitted to be done, or that is to be or may be done (under or in relation to an Order in Council, notice, or other instrument to which this clause applies) by Transit New Zealand is to be treated as having been done, or having been omitted to be done, or to be or may be done, by the new Agency; and
+  (d) every notice of requirement and designation of Transit New Zealand is transferred to and held by the new Agency, with the same status and priority as if Transit New Zealand and the new Agency were the same entity.
+
+### 30 First members of new Agency
+In appointing the first members of the new Agency, the Minister may, but need not, consult in accordance with section 98(2) of the Land Transport Management Act 2003.
+
+### 31 Transferred employees
+(1) The terms and conditions of employment of a transferred employee immediately before 1 August 2008 continue to apply in relation to that employee until—
+  (a) those terms and conditions are varied by agreement between the transferred employee and the new Agency; or
+  (b) the transferred employee accepts a subsequent appointment with the new Agency.
+(2) For the purposes of every enactment, law, determination, contract, and agreement relating to the employment of a transferred employee,—
+  (a) the employment agreement of that employee is to be treated as unbroken; and
+  (b) the employee’s period of service with a former agency, and every other period of service of that employee that is recognised by a former agency as continuous service, is to be treated as a period of service with the new Agency.
+(3) To avoid doubt, the employment of a transferred employee by the new Agency does not constitute new employment for the purposes of the KiwiSaver Act 2006.
+(4) A transferred employee is not entitled to receive any payment or any other benefit because—
+  (a) the position held by the employee in a former agency has ceased to exist; or
+  (b) the employee has ceased (as a result of the transfer to the new Agency) to be an employee of a former agency; or
+  (c) the employee has been transferred to a suitable alternative position.
+
+### 32 Government Superannuation Fund
+(1) This clause applies to every person who, immediately before 1 August 2008, was an employee of a former agency.
+(2) Nothing in this Act affects any entitlement under the Government Superannuation Fund Act 1956 of a person to whom this clause applies.
+(3) This clause is for the avoidance of doubt.
+
+### 33 Final reports and accounts
+(1) As soon as practicable after the commencement of this Act, the new Agency must arrange for the final report of each former agency to be delivered to the Minister.
+(2) The report must—
+  (a) describe the former agency’s operation for the period beginning on 1 July 2007 and ending with 30 June 2008; and
+  (b) include—
+    (i) financial statements of that agency prepared, in accordance with Part 4 of the Crown Entities Act 2004, for that period; and
+    (ii) an audit report prepared by the Auditor-General and a statement of responsibility relating to those financial statements.
+(3) The Minister must present a copy of the final report of each former agency to the House of Representatives as soon as is reasonably practicable after receiving it from the new Agency.
+
+### 34 Responsibility for reports and accounts of former agencies from 1 July 2008
+(1) The new Agency must include in its initial annual report the information in respect of each former agency for the period commencing 1 July 2008 and ending on 31 July 2008 that each former agency would have had to include in the former agency's annual report under section 151 of the Crown Entities Act 2004 had it continued in existence.
+(2) To avoid doubt, the new Agency may, if it so decides, present the information referred to in subclause (1) in a combined form for the whole of the financial year ended 30 June 2009.
+(3) For the purposes of subclause (1), section 45J(1) of the Public Finance Act 1989 does not apply to each former agency in respect of the period commencing 1 July 2008 and ending on 31 July 2008.
+
+### 35 Statements of intent
+A former agency is not required to produce a statement of intent for the financial year commencing 1 July 2008.
+
+### 36 Directions to former agencies continue to have effect as directions to new Agency
+Subject to clause 42, directions to any former agency in effect immediately before 1 August 2008 under any enactment continue to have effect as directions to the new Agency.
+
+### 37 Delegations
+Subject to clause 42, delegations in effect immediately before 1 August 2008 under the Crown Entities Act 2004 or any other Act continue to have effect despite the dissolution of Land Transport New Zealand or Transit New Zealand or the disestablishment of the office of the Director of Land Transport.
+
+### 38 Continuation of certain appointments
+A person who holds office as an enforcement officer or a dangerous goods enforcement officer under section 208 of the Land Transport Act 1998 immediately before the commencement of this Act is to continue in office and holds office, until his or her appointment would have expired under the Land Transport Act 1998, as if this Act had not been passed.
+
+**Disestablishment of office of Director of Land Transport**
+
+### 39 Consequences of disestablishing office of Director of Land Transport
+(1) On 1 August 2008,—
+  (a) the functions, duties, and powers of the Director under any enactment vest in the new Agency; and
+  (b) all property belonging to the Director vests in the new Agency; and
+  (c) all information held by the Director is held by the new Agency; and
+  (d) all money payable to or by the Director becomes payable to or by the new Agency; and
+  (e) all rights, liabilities, contracts, entitlements, and engagements of the Director become the rights, liabilities, contracts, entitlements, and engagements of the new Agency; and
+  (f) anything done, or omitted to be done, or that is to be done, by, or in relation to, the Director is to be treated as having been done, or having been omitted to be done, or to be done, by, or in relation to, the new Agency; and
+  (g) the commencement, continuation, or enforcement of proceedings by or against the Director may instead be commenced, continued, or enforced by or against the new Agency without amendment to the proceedings; and
+  (h) the completion of a matter or thing that would, but for this clause, have been completed by the Director, may be completed by the new Agency.
+(2) The transfer of information from the Director to the new Agency under subclause (1)(c) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(3) The disestablishment of the office of the Director of Land Transport does not, by itself, affect any of the following matters:
+  (a) any decision made, or anything done, or omitted to be done, by the Director in relation to the performance or the exercise of the Director’s functions, duties, or powers under any enactment:
+  (b) any proceedings commenced by or against the Director:
+  (c) any other matter or thing arising out of the Director’s performance or exercise, or purported performance or exercise, of the Director’s functions, duties, or powers under any enactment.
+
+### 40 References to Director
+(1) This clause applies to—
+  (a) things that are in force or existing on 1 August 2008 (whether coming into force, entered into, or created before or after the commencement of this clause); and
+  (b) references in any thing, including (without limitation) enactments, rules, bylaws, deeds, agreements, proceedings, instruments, documents, and notices.
+(2) If this clause applies, every reference in any thing specified in subclause (1) to the Director (or to the Director of Land Transport) is, on and after 1 August 2008, to be read as a reference to the new Agency unless the context otherwise requires.
+
+**Miscellaneous**
+
+### 41 General savings provision
+Except as otherwise expressly provided in this Act, nothing in this Act affects the completion of a matter or thing, or the bringing or completion of proceedings, that relates to an existing right, liability, contract, entitlement, interest, title, immunity, or duty.
+
+### 42 Matters continued by this Act have effect until replaced or revoked
+If a matter or thing is continued with a specified effect by this Act, the matter or thing continues to have that effect until revoked or replaced under the relevant empowering enactment.
+
+### 43 Transitional regulations
+(1) The Governor-General may, by Order in Council, make regulations—
+  (a) prescribing transitional and savings provisions concerning the coming into force of this Act that may be in addition to, or in place of, the transitional and savings provisions in this Act:
+  (b) providing that, subject to such conditions as may be specified in the regulations, during a specified transitional period,—
+    (i) specified provisions of this Act (including definitions) do not apply:
+    (ii) specified terms have the meaning given to them by the regulations:
+    (iii) specified provisions repealed or amended or revoked by this Act are to continue to apply.
+(2) This clause expires on 1 January 2012.
