@@ -1,5 +1,5 @@
 # Housing Corporation Act 1974
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2008-08-01_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Housing Corporation Act 1974.
@@ -29,7 +29,7 @@ In this Act, unless the context otherwise requires,—
   - **Minister of Housing** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the Corporation
   - **Property** includes real or personal property, and any estate or interest in any real or personal property, and any debt, and any security and any thing in action, and any licence or authority, and any other right or interest
   - **Security** means a mortgage, submortgage, charge (whether legal or equitable), bond, stock, debenture, bill of exchange, promissory note, guarantee, indemnity, defeasance, hypothecation, instrument by way of security, lien, pledge, or other security for the payment of money or for the discharge of any other obligation or liability and in any case whether upon demand or otherwise, whether present or future and whether actual or contingent, and includes an acknowledgment of debt (whether or not otherwise secured) and an agreement or undertaking to give or execute whether upon demand or otherwise any of the foregoing
-  - **Solicitor** means a person who is duly enrolled as a barrister and solicitor under or by virtue of the Law Practitioners Act 1982 and who holds a current practising certificate as a solicitor or as a barrister and solicitor under that Act.
+  - **solicitor** means a person who is duly enrolled as a barrister and solicitor under or by virtue of the Lawyers and Conveyancers Act 2006 and who holds a current practising certificate as a barrister and solicitor under that Act
   - **statement of intent** means a statement of intent under section 139 of the Crown Entities Act 2004
   - **subsidiary** , in relation to the Corporation, means a body that would under the Companies Act 1993 be a subsidiary of the Corporation if the Corporation were a company within the meaning of that Act
   - **State Services Commissioner** means the State Services Commissioner appointed under section 3 of the State Sector Act 1988
@@ -350,8 +350,8 @@ So far as concerns any lender or holder,—
 (2) Nothing in subsection (1) of this section shall affect the right of the solicitor to act for the Corporation or any other person as well as the client.
 (3)
 (4) If, as a result of anything done or omitted to be done by the Corporation in the exercise of any of its powers under section 19(4)(c) of this Act, the client suffers any loss, the client shall have the same right (if any) to recover in damages as the client would have had if the Corporation were a solicitor acting on behalf of the client.
-(5) Nothing in section 64 of the Law Practitioners Act 1982 shall apply to anything done by the Corporation in the exercise of any of its powers under section 19(4)(c) of this Act.
-(6) Notwithstanding anything in section 67 of the Law Practitioners Act 1982, no solicitor shall be guilty of misconduct in the solicitor's professional capacity merely because that solicitor is acting in pursuance of the exercise by the Corporation of any of its powers under section 19(4)(c) of this Act.
+(5) Nothing in sections 21, 22, or 24 of the Lawyers and Conveyancers Act 2006 shall apply to anything done by the Corporation in the exercise of any of its powers under section 19(4)(c) of this Act.
+(6) Notwithstanding anything in section 9 of the Lawyers and Conveyancers Act 2006, no solicitor shall be guilty of misconduct in the solicitor's professional capacity merely because that solicitor is acting in pursuance of the exercise by the Corporation of any of its powers under section 19(4)(c) of this Act.
 (7) No solicitor employed, engaged, or instructed by the Corporation shall be personally liable for any act done or default made in good faith by the solicitor while acting for the Corporation in the exercise or purported exercise by the Corporation of any of its powers under section 19(4)(c) of this Act.
 
 ### 44 Prohibition of procuration fees
