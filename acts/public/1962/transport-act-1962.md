@@ -1,5 +1,5 @@
 # Transport Act 1962
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2008-08-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to motor vehicles, to road traffic, and to commercial transport services carried on by means of motor vehicles or harbour ferries
 
@@ -11,6 +11,7 @@ _Consolidation as at 2007-10-01_
 (1) In this Act, unless the context otherwise requires,—
   - **Accident compensation levy**
   - **Adjoining** means contiguous, or contiguous except for a separation by a river, stream, drain, canal, or other watercourse, or by a road, motorway, or railway
+  - **Agency** means the New Zealand Transport Agency established under section 93 of the Land Transport Management Act 2003
   - **Agricultural operation**
   - **Agricultural trailer** means a trailer designed exclusively for agricultural operations and used on a road only when proceeding to or from a farm or when being inspected, serviced, or repaired
   - **Alternative fuel system** means a fuel storage and conducting system that is used to provide liquid petroleum gas, compressed natural gas, or any other pressurised liquid or gaseous fuel (other than petrol or diesel) for the purposes of propulsion of a vehicle
@@ -21,7 +22,6 @@ _Consolidation as at 2007-10-01_
   - **Approved vehicle surveillance equipment**
   - **Articulated vehicle** means any motor vehicle with a trailer attached so that part of the trailer is superimposed upon the motor vehicle and a substantial part of the weight of the trailer and of its load is borne by the motor vehicle. Such a trailer shall be called a semi-trailer
   - **Assessment Centre**
-  - **Authority** means Land Transport New Zealand established by section 66 of the Land Transport Management Act 2003
   - **Axle** has the same meaning as it has in section 2(1) of the Land Transport Act 1998
   - **Cargo container** means an article of transport equipment of a type approved for the purposes of this Act by the Authority by notice in the Gazette, being a lift van, movable tank, or other similar structure; and includes the normal accessories and equipment of the container, when attached to and used exclusively with it; but does not include any vehicle, or any ordinary packing case, crate, box, or other similar article used for packing
   - **Carriage** includes haulage
@@ -36,7 +36,6 @@ _Consolidation as at 2007-10-01_
   - **Department**
   - **Department of State** means a department of the Public Service as defined in the State Sector Act 1988
   - **Design** , in relation to a motor vehicle, refers to the construction of the motor vehicle, and not its use or intended use; and has a corresponding meaning
-  - **Director** means the Director of Land Transport appointed under section 186 of the Land Transport Act 1998
   - **District**
   - **Driver** , in relation to any vehicle, includes the rider of a motor cycle or moped or bicycle; and has a corresponding meaning
   - **Driver licence** means a driver licence issued or having effect under the Land Transport Act 1998
@@ -140,7 +139,6 @@ _Consolidation as at 2007-10-01_
   - **Trailer** means a vehicle without motive power that is capable of being drawn or propelled by a motor vehicle from which it is readily detachable; but does not include—
     (a) A sidecar attached to a motor cycle; or
     (b) A vehicle normally propelled by mechanical power while it is being temporarily towed without the use of its own power:
-  - **Transit** means the body corporate called Transit that is continued by section 75 of the Land Transport Management Act 2003.
   - **Transit New Zealand**
   - **Transport service** , , and have the same meanings as in section 2 of the Land Transport Act 1998
   - **Trolley omnibus**
@@ -480,7 +478,7 @@ _Consolidation as at 2007-10-01_
 ### 52A Saving of existing speed limits
 (1) All speed limits fixed by any Act, regulation, bylaw, or notice in the Gazette before the date on which section 4 of the Transport Amendment Act 1997 comes into force continue to have effect in relation to any road or locality to which they applied before that date until superseded in respect of that road or locality by a speed limit fixed on or after that date by—
   (a) A controlling authority in accordance with any ordinary rule or emergency rule made under Part 2 of the Land Transport Act 1993; or
-  (b) The Director under any such rule; or
+  (b) The Agency under any such rule; or
   (c) A Minister of the Crown by bylaw made under section 72(1)(j) of this Act.
 
 ### 53 Exemption from speed limits of Police, traffic officers, and ambulance and fire-brigade drivers
@@ -652,7 +650,7 @@ _Consolidation as at 2007-10-01_
 [Repealed]
 
 ### 69D Removal and retention of hubodometers by authorised officers
-(1) Any constable, traffic officer who is a non-sworn member of the Police, or officer of the Department authorised by the Director to exercise any powers under this section (in this section each referred to as an authorised officer) may remove or require the removal from any motor vehicle on any road of any hubodometer for the purpose of inspection to determine whether the hubodometer has been modified or tampered with.
+(1) Any constable, traffic officer who is a non-sworn member of the Police, or officer of the Department authorised by the Secretary to exercise any powers under this section (in this section each referred to as an ‘authorised officer’) may remove or require the removal from any motor vehicle on any road of any hubodometer for the purpose of inspection to determine whether the hubodometer has been modified or tampered with.
 (2) Any authorised officer may seize and retain for the purposes of any criminal proceedings, or any proceedings under section 18A of the Road User Charges Act 1977, any hubodometer on any motor vehicle on any road, or any hubodometer removed from any such vehicle pursuant to subsection (1) of this section, where the authorised officer believes on reasonable grounds that the hubodometer has been modified or tampered with (otherwise than in accordance with section 22A of the Road User Charges Act 1977), or bears a serial number common to any other hubodometer of the same make.
 (3) Any authorised officer may seize and retain for the purposes of any criminal proceedings, or any proceedings under section 18A of the Road User Charges Act 1977, any licence carried or displayed in or on any motor vehicle on any road, or produced to the authorised officer by any person, where the authorised officer believes on reasonable grounds that the licence has been altered or is expired, invalid, or a forgery.
 (4) Where any hubodometer or licence is retained by an authorised officer under this section the operator of the vehicle from which the hubodometer is removed or to which the licence relates may cause the vehicle to be moved for such distance, not exceeding 100 kilometres, as may be necessary for the purpose of obtaining a replacement hubodometer or licence, or both; and the vehicle shall be deemed for the purposes of the Road User Charges Act 1977 to be fitted with a proper hubodometer or to have a valid licence displayed, or both, as the case may require, while it is being moved as permitted by this section.
@@ -665,7 +663,7 @@ _Consolidation as at 2007-10-01_
 [Repealed]
 
 ### 70AA Restriction of heavy traffic on roads
-(1) The Minister in the case of a Government road, Transit New Zealand in the case of a State highway the control of which has not been delegated to a territorial authority under Part 4 of the Transit New Zealand Act 1989, and the territorial authority in the case of any road under its control, may from time to time, by public notice, direct that any heavy traffic, or any specified kind of heavy traffic defined in the notice, shall not proceed between any 2 places by way of any road or roads specified in the notice.
+(1) The Minister in the case of a Government road, the Agency in the case of a State highway the control of which has not been delegated to a territorial authority under Part 4 of the Government Roading Powers Act 1989, and the territorial authority in the case of any road under its control, may from time to time, by public notice, direct that any heavy traffic, or any specified kind of heavy traffic defined in the notice, shall not proceed between any 2 places by way of any road or roads specified in the notice.
 (2) A copy of every notice under this section shall be displayed in at least 1 prominent position on every road to which the notice applies.
 (3) Every person commits an offence who contravenes the requirements of any notice under this section unless the person proves that there was no other way reasonably available for the traffic concerned.
 
@@ -746,7 +744,7 @@ _Consolidation as at 2007-10-01_
 (6A) Every person who—commits an offence, and (where no penalty is prescribed in respect thereof in the bylaws of the local authority) is liable to a fine not exceeding $20).
   (a) Parks in breach of a bylaw of a local authority in any portion of a road where parking is for the time being governed by the location of parking meters placed pursuant to a bylaw of the local authority; or
   (b) Parks in any other portion of a road in breach of a bylaw of a local authority prohibiting parking for a period in excess of the period fixed by the bylaw—
-(7) In this section and in sections 73 and 74 of this Act the expression local authority includes Transit New Zealand.
+(7) In this section and in sections 73 and 74 of this Act the expression local authority includes the Agency.
 
 ### 73 Publication and proof of bylaws
 (1) Where any bylaw made under section 72 of this Act has special reference to any bridge, a copy of the bylaw or a statement of its effect shall be conspicuously displayed and maintained in a clearly legible condition at each end of that bridge.
@@ -760,9 +758,9 @@ _Consolidation as at 2007-10-01_
 **General provisions**
 
 ### 74A Minister may ensure roading safety
-If at any time the Minister has cause to believe that any road is not in a safe condition the Minister may inquire into the circumstances, and if in the Minister's opinion Transit New Zealand or the territorial authority in control of the road has not carried out work which the Minister reasonably considers necessary and justified in the interests of public safety,—
-  (a) The Minister may in writing advise Transit New Zealand or the territorial authority of the need for such work; and
-  (b) Transit New Zealand, or the territorial authority as the case may be, shall upon being so advised exercise its powers under that Act to remove the cause of danger to public safety.
+If at any time the Minister has cause to believe that any road is not in a safe condition the Minister may inquire into the circumstances, and if in the Minister's opinion the Agency or the territorial authority in control of the road has not carried out work which the Minister reasonably considers necessary and justified in the interests of public safety,—
+  (a) The Minister may in writing advise the Agency or the territorial authority of the need for such work; and
+  (b) the Agency, or the territorial authority as the case may be, shall upon being so advised exercise its powers under that Act to remove the cause of danger to public safety.
 
 ### 75 Local authorities may arrange for enforcement of traffic laws by Transport Department
 [Repealed]
@@ -788,31 +786,31 @@ If at any time the Minister has cause to believe that any road is not in a safe 
   (da) Requiring the wearing or use of safety equipment by riders and passengers on vehicles:
   (e) Regulating the attaching and use of bells, alarms, reflectors, direction indicators, and other instruments for giving notice of the approach, position, or course of vehicles, or for assisting in their control; prescribing the kinds thereof to be used on different classes of vehicles; and prohibiting the use on any class of vehicle of any bell, alarm, reflector, direction indicator, or other instrument as aforesaid of a kind that is not prescribed for use on that class of vehicle or of a kind that is prescribed for use on any other class of vehicle:
   (ee) Prescribing for the safety of the public or of any person matters in relation to the design and construction of motor vehicles manufactured, assembled, or modified in New Zealand and intended to be used on roads, or of any specified classes of such motor vehicles, or of such motor vehicles manufactured, assembled, or modified by any specified classes of persons, or in relation to any components or equipment manufactured in New Zealand for use in motor vehicles:
-  (ef) Prescribing or authorising the Director to prescribe or approve matters in relation to the design, construction, equipment, condition, and inspection of vehicles that may be used in connection with transport services or any class of transport services; providing for and regulating the issue, duration, conditions, and revocation of certificates of fitness and permits for such vehicles; and generally prescribing the conditions upon or subject to which they may be used and regulating the use thereof:
+  (ef) Prescribing or authorising the Agency to prescribe or approve matters in relation to the design, construction, equipment, condition, and inspection of vehicles that may be used in connection with transport services or any class of transport services; providing for and regulating the issue, duration, conditions, and revocation of certificates of fitness and permits for such vehicles; and generally prescribing the conditions upon or subject to which they may be used and regulating the use thereof:
   (f) Prescribing the maximum weight and the maximum dimensions of any vehicle, and any load thereon, that may be used on any road, the maximum weight that may be transmitted to the road surface by the wheel or wheels on any one axle of a vehicle, and the maximum air pressure of the tyres of any heavy motor vehicle or specified kind of heavy motor vehicle:
   (fa) Providing that the local authority or other body or person having the control over any road may declare the road or part thereof to be a construction zone for the purposes of the regulations, prescribing the signs to be erected in such construction zones, and providing for the exemption from the provisions of any regulations made under this Act of specified classes of motor vehicles while used within such construction zones:
   (fb) Prescribing requirements as to devices, fittings, or equipment to be incorporated in the construction of, fitted to, or carried on motor vehicles or any specified class of motor vehicles, or to be used by the driver of or any person in or on a motor vehicle or any specified class of motor vehicles; and any such regulations may—
-    (i) Prescribe, or authorise the Director to prescribe, standards, specifications, or codes of practice for any such device, fitting, or equipment, or class thereof (whether such standards, specifications, or codes of practice are prescribed in relation to the device, fitting, or equipment as such or in relation to the function of that device, fitting, or equipment):
-    (ii) Require the approval of the Authority or Director to be obtained, in such way as may be prescribed, for any such device, fitting, or equipment, or class thereof, to be incorporated in, fitted to, or carried on a motor vehicle, or used by the driver of or any person in or on a motor vehicle:
-  (fc) Empowering the Director to order any—to recall a specified vehicle or component or vehicles or components of a specified class where the vehicle or component or class of vehicles or components does not comply with any requirement as to devices, fittings, or equipment that is prescribed for vehicles or components of the same class by regulations made under this Act; and empowering the Director to impose requirements for the purpose of ensuring that such vehicles and components comply with the relevant prescribed requirements:
+    (i) Prescribe, or authorise the Agency to prescribe, standards, specifications, or codes of practice for any such device, fitting, or equipment, or class thereof (whether such standards, specifications, or codes of practice are prescribed in relation to the device, fitting, or equipment as such or in relation to the function of that device, fitting, or equipment):
+    (ii) Require the approval of the Agency to be obtained, in such way as may be prescribed, for any such device, fitting, or equipment, or class thereof, to be incorporated in, fitted to, or carried on a motor vehicle, or used by the driver of or any person in or on a motor vehicle:
+  (fc) Empowering the Agency to order any—to recall a specified vehicle or component or vehicles or components of a specified class where the vehicle or component or class of vehicles or components does not comply with any requirement as to devices, fittings, or equipment that is prescribed for vehicles or components of the same class by regulations made under this Act; and empowering the Agency to impose requirements for the purpose of ensuring that such vehicles and components comply with the relevant prescribed requirements:
     (i) Manufacturer of a vehicle or agent of the manufacturer; or
     (ii) Importer of a vehicle; or
     (iii) Person or organisation responsible for certifying that a vehicle complies with any requirement as to devices, fittings, or equipment that is prescribed under this Act; or
     (iv) Any other person responsible for the presence of a vehicle on a road—
   (fd) Requiring vehicle identification numbers to be assigned to motor vehicles being operated in New Zealand; and—
     (i) Prescribing requirements relating to vehicle identification numbers or requiring compliance with any standard specified in the regulations, or both; and providing for the manner in which such numbers are to be assigned:
-    (ii) Empowering the Director to prescribe, by notice in the Gazette, a standard with which vehicle identification numbers must comply, including (but not limited to) the manner in which such numbers are to be affixed to vehicles:
-    (iii) Requiring importers and manufacturers of motor vehicles to furnish to the Director such information relating to vehicle identification numbers as may be prescribed:
-    (iv) Empowering the Director to authorise persons to carry out inspections of motor vehicles for the purpose of ensuring that vehicles comply with regulations made under this paragraph:
-    (v) Exempting or empowering the Director to exempt, upon and subject to such conditions as may be prescribed in the regulations, vehicles of any class from any requirements imposed by or under regulations made under this paragraph:
+    (ii) Empowering the Agency to prescribe, by notice in the Gazette, a standard with which vehicle identification numbers must comply, including (but not limited to) the manner in which such numbers are to be affixed to vehicles:
+    (iii) Requiring importers and manufacturers of motor vehicles to furnish to the Agency such information relating to vehicle identification numbers as may be prescribed:
+    (iv) Empowering the Agency to authorise persons to carry out inspections of motor vehicles for the purpose of ensuring that vehicles comply with regulations made under this paragraph:
+    (v) Exempting or empowering the Agency to exempt, upon and subject to such conditions as may be prescribed in the regulations, vehicles of any class from any requirements imposed by or under regulations made under this paragraph:
   (fe) Prescribing offences relating to—
     (i) The removal, erasure, alteration, defacing, obscuring, destruction, or obliteration of vehicle identification numbers, engine numbers, or chassis numbers:
     (ii) The affixing to any motor vehicle of a vehicle identification number, engine number, or chassis number that has been assigned to another vehicle or not lawfully assigned:
     (iii) The selling or offering for sale of any motor vehicle without a vehicle identification number, engine number, or chassis number, or any motor vehicle on which that number has been unlawfully erased, altered, defaced, obscured, destroyed, or obliterated:
-  (ff) Requiring specified vehicle characteristics to be recorded by any person carrying out an inspection for the issue of a warrant of fitness or certificate of fitness; and requiring such information to be transmitted to the Director:
+  (ff) Requiring specified vehicle characteristics to be recorded by any person carrying out an inspection for the issue of a warrant of fitness or certificate of fitness; and requiring such information to be transmitted to the Agency:
   (fg)
-  (g) Providing for the periodical or other examination of motor vehicles and the issue of warrants of fitness, certificates of fitness, certificates of loading, and permits by the Authority, local authorities, or persons approved by the Director; prescribing fees or maximum fees or authorising the charging of reasonable fees in respect of such examinations (and different fees may be prescribed or provided for in respect of different circumstances and different testing authorities); providing for the electronic transmission of information relating to such examinations; prescribing the persons to whom any fees are to be paid; providing for the refund or waiver of any fee payable under this Act in respect of an approval that authorises a person to issue warrants of fitness or certificates of fitness, in whole or in part, in any specified case or class of cases; and exempting specified motor vehicles or classes of motor vehicles from the provisions of the regulations:
-  (ga) Providing for or requiring any person or organisation approved for the purpose by the Director to issue in respect of any vehicle a certificate as to its vehicle identification number, chassis number, other identifiers, and details of any warrant of fitness, certificate of fitness, or any permit or authority issued in respect of the vehicle by that person or organisation; and providing for the revocation of any such approval; and prescribing or authorising the Director to prescribe the form of any such certificate:
+  (g) Providing for the periodical or other examination of motor vehicles and the issue of warrants of fitness, certificates of fitness, certificates of loading, and permits by the Agency, local authorities, or persons approved by the Agency; prescribing fees or maximum fees or authorising the charging of reasonable fees in respect of such examinations (and different fees may be prescribed or provided for in respect of different circumstances and different testing authorities); providing for the electronic transmission of information relating to such examinations; prescribing the persons to whom any fees are to be paid; providing for the refund or waiver of any fee payable under this Act in respect of an approval that authorises a person to issue warrants of fitness or certificates of fitness, in whole or in part, in any specified case or class of cases; and exempting specified motor vehicles or classes of motor vehicles from the provisions of the regulations:
+  (ga) Providing for or requiring any person or organisation approved for the purpose by the Agency to issue in respect of any vehicle a certificate as to its vehicle identification number, chassis number, other identifiers, and details of any warrant of fitness, certificate of fitness, or any permit or authority issued in respect of the vehicle by that person or organisation; and providing for the revocation of any such approval; and prescribing or authorising the Agency to prescribe the form of any such certificate:
   (h) Requiring any person who sells a motor vehicle intended to be used on the road, or any specified kind of any such motor vehicle, to deliver to the purchaser at the time of the sale a current certificate of fitness or warrant of fitness issued within a specified time before the sale and certifying that the vehicle has been inspected in accordance with the regulations made under this Act and complies with the requirements of the regulations concerning construction, equipment, and condition of motor vehicles:
   (i) Limiting the hours during which and regulating the conditions upon or subject to which any person may drive a vehicle not specially designed for the carriage of persons while it is in use for commercial purposes:
   (j) Providing for the classification of heavy motor vehicles according to their design, weight, and carrying capacity:
@@ -825,7 +823,7 @@ If at any time the Minister has cause to believe that any road is not in a safe 
   (p) Fixing, for the safety of the public or the better preservation of roads or the better regulation of traffic on roads, the maximum speeds of vehicles or of specified classes of vehicles on any specified road or in any locality or throughout New Zealand, or the maximum speeds or minimum speeds or both of vehicles on specified classes of roads; and—
     (i)
     (ii)
-    (iii) Authorising the Director, acting with the approval of Transit New Zealand, to grant exemptions relating to speed limits for specified heavy vehicles or classes of heavy vehicles and to impose conditions relating to such exemptions:
+    (iii) authorising the Agency to grant exemptions relating to speed limits for specified heavy vehicles or classes of heavy vehicles and to impose conditions relating to such exemptions:
   (q) Providing for the imposition by local authorities or by other bodies or persons having the control of roads of temporary maximum speed limits for motor vehicles (not exceeding the maximum in that regard for the time being fixed by any Act or regulation) where the local authority or other body or person concerned considers that a temporary risk of danger to the public or of damage to any road exists or is likely to arise, and prescribing the duration of and power to revoke any such temporary speed limit, the procedure for the imposition and notice to the public thereof, the erection of traffic signs in relation thereto, the fines to be imposed (not exceeding $1000) for the breach of any such speed limit, and such other matters as the Governor-General thinks necessary for the imposition and enforcement of every such temporary speed limit:
   (r) Providing for the erection and maintenance of uniform signs, lights, and notices, and the making and maintenance of road markings, for the guidance and direction of persons using roads; prescribing the size, colour, and design of such signs, lights, notices, and road markings, the materials of which they are to be made, and the manner in which and the persons by whom they are to be erected or made and maintained; and requiring local authorities or other persons to erect and maintain such signs, lights, and notices and to make and maintain such road markings or any class thereof; and providing for the phased replacement of uniform signs, lights, and notices:
   (rr) Prohibiting or restricting the use of reflective material on signs, hoardings, and similar structures used or intended to be used for the purposes of advertising in such a position that they are likely to reflect the lights of motor vehicles on any road:
@@ -840,18 +838,18 @@ If at any time the Minister has cause to believe that any road is not in a safe 
   (x)
   (y)
   (z) Prohibiting or regulating the driving of loose horses, cattle, sheep, pigs, or other animals along any road at night, being the period commencing half an hour after sunset and ending half an hour before sunrise on the following morning:
-  (za) Providing for the exemption of any person or vehicle or class of persons or vehicles, from any regulations made for any purpose specified in this subsection, either wholly or partially and either unconditionally or upon or subject to such conditions as may be prescribed by or in accordance with the regulations; and delegating to the Director or in the case of regulations made under the authority of paragraph (f) or paragraph (fa) of this subsection delegating to the Director, the local authority, or the person having control over the road, the power to grant any such exemption.
+  (za) Providing for the exemption of any person or vehicle or class of persons or vehicles, from any regulations made for any purpose specified in this subsection, either wholly or partially and either unconditionally or upon or subject to such conditions as may be prescribed by or in accordance with the regulations; and delegating to the Agency or in the case of regulations made under the authority of paragraph (f) or paragraph (fa) of this subsection delegating to the Agency, the local authority, or the person having control over the road, the power to grant any such exemption.
 (2) Without limiting the general power to make regulations conferred by section 199 of this Act, regulations may be made under that section for the purpose of regulating the fitting, inspection, or repair of alternative fuel systems, or components thereof, in vehicles, and the use of vehicles fitted with such systems, and, without limiting the generality of the foregoing provisions, for all or any of the following purposes:
-  (a) Prohibiting the fitting in any vehicle, or in any vehicle of a specified class, of an alternative fuel system, or a component thereof, that has not been approved for that purpose by the regulations or the Director (either specifically or as a system or component of a class of systems or components so approved):
-  (b) Prohibiting the fitting in any vehicle, or in any vehicle of a specified class, of an alternative fuel system, or a component thereof, or the inspection or repair of such a system or component, by a person who has not been authorised for that purpose by the regulations or the Director (either personally or as a member of a class of persons so authorised):
+  (a) Prohibiting the fitting in any vehicle, or in any vehicle of a specified class, of an alternative fuel system, or a component thereof, that has not been approved for that purpose by the regulations or the Agency (either specifically or as a system or component of a class of systems or components so approved):
+  (b) Prohibiting the fitting in any vehicle, or in any vehicle of a specified class, of an alternative fuel system, or a component thereof, or the inspection or repair of such a system or component, by a person who has not been authorised for that purpose by the regulations or the Agency (either personally or as a member of a class of persons so authorised):
   (c) Requiring the inspection, at specified times, of alternative fuel systems fitted in vehicles, or vehicles of a specified class; providing for the issue by specified persons of certificates to the effect that an alternative fuel system is in a safe and efficient working condition; and prohibiting the use of a vehicle where such an inspection has not been made or such a certificate has not been issued:
-  (d) Approving, or empowering the Director to approve (by notice in the Gazette), on such terms and conditions as are specified in the regulations or as the Director thinks fit, alternative fuel systems, and components thereof, and classes of such systems and components, for the purposes of fitting in vehicles:
-  (e) Authorising, or empowering the Director to authorise (by notice in the Gazette), on such terms and conditions as are specified in the regulations or as the Director thinks fit, persons or classes of persons, to fit, inspect, or repair alternative fuel systems or components thereof:
-  (f) Exempting, or empowering the Director to exempt (by notice in the Gazette), on such terms and conditions as are specified in the regulations or as the Director thinks fit, any person or vehicle, or class of persons or vehicles, from any of the provisions of regulations made for the purposes specified in this subsection:
-  (g) Empowering the Director to revoke or vary (by notice in the Gazette), in whole or in part, any approval, authorisation, or exemption given by him pursuant to regulations made for the purposes specified in this subsection, or the terms and conditions relating thereto.
+  (d) Approving, or empowering the Agency to approve (by notice in the Gazette), on such terms and conditions as are specified in the regulations or as the Agency thinks fit, alternative fuel systems, and components thereof, and classes of such systems and components, for the purposes of fitting in vehicles:
+  (e) Authorising, or empowering the Agency to authorise (by notice in the Gazette), on such terms and conditions as are specified in the regulations or as the Agency thinks fit, persons or classes of persons, to fit, inspect, or repair alternative fuel systems or components thereof:
+  (f) Exempting, or empowering the Agency to exempt (by notice in the Gazette), on such terms and conditions as are specified in the regulations or as the Agency thinks fit, any person or vehicle, or class of persons or vehicles, from any of the provisions of regulations made for the purposes specified in this subsection:
+  (g) Empowering the Agency to revoke or vary (by notice in the Gazette), in whole or in part, any approval, authorisation, or exemption given by the Agency pursuant to regulations made for the purposes specified in this subsection, or the terms and conditions relating thereto.
 (3) Any regulations made under paragraph (fb) or paragraph (fd) of subsection (1) of this section may incorporate by reference any standard, specification, or code of practice published by or on behalf of a standards authority in New Zealand or in any other country, and the following provisions shall apply in relation to such standards, specifications, and codes of practice:
   (a) The provisions of any standard, specification, or code of practice incorporated by reference in such regulations shall be deemed to form part of the regulations; and unless otherwise provided in the regulations, every amendment to any such standard, specification, or code of practice shall be deemed to be part of that standard, specification, or code of practice, as the case may be:
-  (b) The Director shall make available for inspection free of charge or purchase at a reasonable price at the head office of the Authority, copies of standards, specifications, and codes of practice, and any amendments thereto:
+  (b) The Agency shall make available for inspection free of charge or purchase at a reasonable price at the head office of the Agency, copies of standards, specifications, and codes of practice, and any amendments thereto:
   (c) No amendment to any such standard, code of practice, or specification shall have effect until it is made available for inspection or purchase in accordance with paragraph (b) of this subsection.
 
 ### 77A Regulations relating to seat belts and child restraints
@@ -864,17 +862,17 @@ If at any time the Minister has cause to believe that any road is not in a safe 
   (f) Exempting any person or class of persons from all or any of the requirements of regulations made under paragraph (e) of this subsection in all circumstances or in circumstances specified in the regulations.
 (2) Any regulations made under subsection (1) of this section shall not apply to or in respect of any owner of, or driver or other person in, any motor vehicle that was first registered before the 1st day of January 1955.
 
-### 77B Power of Director to approve child restraints and seat belts
-The Director may, by notice in the Gazette, approve seat belts and child restraints (including restraints to be used in conjunction with seat belts) for the purposes of regulations made under this Act, whether by reference to specified standards or otherwise, and subject to such conditions as to fitting, dates of manufacture or purchase, use by persons of, under, or over specified ages or weights, periods of use, and use generally, and otherwise as are specified in the notice.
+### 77B Power of Agency to approve child restraints and seat belts
+The Agency may, by notice in the Gazette, approve seat belts and child restraints (including restraints to be used in conjunction with seat belts) for the purposes of regulations made under this Act, whether by reference to specified standards or otherwise, and subject to such conditions as to fitting, dates of manufacture or purchase, use by persons of, under, or over specified ages or weights, periods of use, and use generally, and otherwise as are specified in the notice.
 
 ### 77C Manufacture or sale of devices, fittings, or equipment requiring approval
 (1) No person shall manufacture for the purposes of sale or import for sale or sell or offer or expose for sale or have in his possession for the purposes of sale any device or fitting or equipment which is or purports to be for use on or to be fitted to any motor vehicle or bicycle or for use by the driver of or any person in or on a motor vehicle or bicycle, if—
-  (a) Under any provision of this Act or of any regulations under this Act the device or fitting or equipment is of a kind that requires the approval of the Authority or the Director before it is used on or fitted to a motor vehicle or bicycle or, as the case may be, used by the driver of or any person in or on a motor vehicle or bicycle; and
+  (a) Under any provision of this Act or of any regulations under this Act the device or fitting or equipment is of a kind that requires the approval of the Agency before it is used on or fitted to a motor vehicle or bicycle or, as the case may be, used by the driver of or any person in or on a motor vehicle or bicycle; and
   (b) That approval has not been given.
-(2) Notwithstanding subsection (1) of this section and notwithstanding that regulations made under this Act may permit the use of seat belts and child restraints that have not been approved by the Director, no person shall manufacture for the purposes of sale, import for sale, sell, offer or expose for sale, or have in his possession for the purposes of sale any seat belt or child restraint which is or purports to be for use or fitting in any motor vehicle unless that seat belt or child restraint is for the time being approved by the Director by notice in the Gazette pursuant to section 77B of this Act.
+(2) Notwithstanding subsection (1) of this section and notwithstanding that regulations made under this Act may permit the use of seat belts and child restraints that have not been approved by the Agency, no person shall manufacture for the purposes of sale, import for sale, sell, offer or expose for sale, or have in his possession for the purposes of sale any seat belt or child restraint which is or purports to be for use or fitting in any motor vehicle unless that seat belt or child restraint is for the time being approved by the Agency by notice in the Gazette pursuant to section 77B of this Act.
 
 ### 78 Experimental traffic control signs, lights, notices, and markings
-(1) The Authority may, by notice in the Gazette, approve or require the erection, marking, and maintenance, subject to conditions imposed by the Authority, of signs, lights, notices, or road markings for experimental purposes (in this section called experimental signs, lights, notices, and markings) that are in substitution for uniform signs, lights, notices, or road markings provided for or prescribed in regulations made pursuant to section 77(1)(r) of this Act or are considered necessary to evaluate possible changes to traffic laws; and may by notice in the Gazette do, in relation to experimental signs, lights, notices, and markings, anything (other than the prescription of offences) that may be done by regulations made pursuant to that section in relation to uniform signs, lights, notices, and road markings.
+(1) The Agency may, by notice in the Gazette, approve or require the erection, marking, and maintenance, subject to conditions imposed by the Agency, of signs, lights, notices, or road markings for experimental purposes (in this section called experimental signs, lights, notices, and markings) that are in substitution for uniform signs, lights, notices, or road markings provided for or prescribed in regulations made pursuant to section 77(1)(r) of this Act or are considered necessary to evaluate possible changes to traffic laws; and may by notice in the Gazette do, in relation to experimental signs, lights, notices, and markings, anything (other than the prescription of offences) that may be done by regulations made pursuant to that section in relation to uniform signs, lights, notices, and road markings.
 (2) Every notice given under subsection (1) of this section shall specify—
   (a) The locations or localities in which the experimental signs, lights, notices, or markings are to be used:
   (b) The period within which the experimental signs, lights, notices, or markings are to be used:
@@ -883,7 +881,7 @@ The Director may, by notice in the Gazette, approve seat belts and child restrai
 (3) Every experimental sign, light, notice, or marking shall for all purposes (including offences) be of the same effect as any equivalent uniform sign, light, notice, or marking.
 
 ### 78A Piloting fees
-(1) In any case where the Director gives written permission under any regulations made under this Part of this Act for the use on any road of any motor vehicle which, or the load of which, exceeds any maximum dimension prescribed by the regulations, he may, as a condition of that permission, require that the motor vehicle be used only under the supervision of one or more constables or traffic officers who are non-sworn members of the Police and that the person to whom the permission is given pay to the Commissioner such fee as the Commissioner fixes to cover the costs incurred by the Police in providing that supervision.
+(1) In any case where the Agency gives written permission under any regulations made under this Part of this Act for the use on any road of any motor vehicle which, or the load of which, exceeds any maximum dimension prescribed by the regulations, he may, as a condition of that permission, require that the motor vehicle be used only under the supervision of one or more constables or traffic officers who are non-sworn members of the Police and that the person to whom the permission is given pay to the Commissioner such fee as the Commissioner fixes to cover the costs incurred by the Police in providing that supervision.
 (2) Any fee payable to the Commissioner under subsection (1) of this section shall constitute a debt due to the Crown and may be recovered accordingly in any Court of competent jurisdiction.
 
 **Vehicles used in licensed services**
@@ -898,13 +896,13 @@ The Director may, by notice in the Gazette, approve seat belts and child restrai
 [Repealed]
 
 ### 80 Inspection of vehicles required to have certificates of fitness or permits
-(1) Any employee of the Authority authorised by the Director, or any constable or any traffic officer (being a traffic officer who is a non-sworn member of the Police) authorised by the Commissioner, may, at any reasonable time,—
+(1) Any employee of the Agency authorised by the Agency, or any constable or any traffic officer (being a traffic officer who is a non-sworn member of the Police) authorised by the Commissioner, may, at any reasonable time,—
   (a) Require the owner or person for the time being in charge of any vehicle to which section 79 of this Act applies to produce any current certificate of fitness or permit in his possession in respect of that vehicle:
   (b) Stop, enter, and inspect any such vehicle while it is in use on any road:
   (c) Make any reasonable running test of the vehicle at the expense of the owner:
   (d) Require the owner or person for the time being in charge of the vehicle to provide reasonable assistance in the conduct of any such inspection or running test.
 (2) Every person commits an offence who—
-  (a) Obstructs or hinders, or incites any person to obstruct or hinder, any employee of the Authority or any constable or any traffic officer who is a non-sworn member of the Police in the exercise of his powers under subsection (1) of this section:
+  (a) Obstructs or hinders, or incites any person to obstruct or hinder, any employee of the Agency or any constable or any traffic officer who is a non-sworn member of the Police in the exercise of his powers under subsection (1) of this section:
   (b) Fails to comply with any requirement under subsection (1) of this section.
 
 ### 81 Notice of accidents to be given to Director
@@ -992,21 +990,21 @@ Every indemnity surcharge payment made by an owner under this Part of this Act i
 (1) All money received by a Deputy Registrar by way of indemnity surcharge under this Part of this Act shall be paid into the Public Account for the credit of the Consolidated Account.
 (2) From the amount of every indemnity surcharge so received there shall be deducted such proportion or amount as may from time to time be prescribed in respect of administration expenses, and the residue shall, without further appropriation than this section, be paid into the Fund.
 
-### 90O Statement to be supplied to Director by insurance companies
-(1) On or before the 31st day of August 1974 each insurance company to which this Part of this Act applies shall forward to the Director in respect of each claims year up to and including the claims year ending with the 31st day of March 1974 a statement showing:
+### 90O Statement to be supplied to Agency by insurance companies
+(1) On or before the 31st day of August 1974 each insurance company to which this Part of this Act applies shall forward to the Agency in respect of each claims year up to and including the claims year ending with the 31st day of March 1974 a statement showing:
   (a) The details of all claims for which it is or may be liable on the 1st day of April 1974 under a contract of insurance entered into under Part 6 of this Act and in respect of which liability for any payment is still outstanding:
   (b) An estimate of the amount which it may be liable to pay in respect of the claims referred to in paragraph (a) of this subsection:
   (c) The details of all claims for which it was liable on the 1st day of April 1974 under a contract of insurance entered into under Part 6 of this Act, and in respect of which full payment has subsequently been made by the insurance company pursuant to a final settlement or a final determination by a Court of competent jurisdiction.
-(2) On or before the 28th day of February 1975, and at the end of each period of 6 months thereafter until all claims made pursuant to all contracts of insurance under Part 6 of this Act have been settled, or finally determined by a Court of competent jurisdiction, and paid by the insurance company, each insurance company to which this Part of this Act applies shall send to the Director a further statement containing the details set out in subsection (1) of this section.
-(3) If in the opinion of the Director the amount finally paid in respect of any claim reported by an insurance company in accordance with the provisions of this section differs substantially from the estimate given by that insurance company in respect of that claim, the Director may require the insurance company to explain to his satisfaction the reason for that difference; and, pending such an explanation, payment of any money from the Fund to the insurance company may be withheld to the extent of the amount of that claim, if the Director thinks fit.
+(2) On or before the 28th day of February 1975, and at the end of each period of 6 months thereafter until all claims made pursuant to all contracts of insurance under Part 6 of this Act have been settled, or finally determined by a Court of competent jurisdiction, and paid by the insurance company, each insurance company to which this Part of this Act applies shall send to the Agency a further statement containing the details set out in subsection (1) of this section.
+(3) If in the opinion of the Agency the amount finally paid in respect of any claim reported by an insurance company in accordance with the provisions of this section differs substantially from the estimate given by that insurance company in respect of that claim, the Agency may require the insurance company to explain to his satisfaction the reason for that difference; and, pending such an explanation, payment of any money from the Fund to the insurance company may be withheld to the extent of the amount of that claim, if the Agency thinks fit.
 
 ### 90P Claims against and payments to Fund
 (1) In this section, unless the context otherwise requires,—
   - **Income** , in respect of any claims year, means the total of the premium income received by an insurance company together with the amount (less tax) of all money earned or saved from the investment or other use of the premium income or (if that amount cannot be ascertained) such amount as may be assessed by the Minister of Finance
   - **Payments** , in respect of any claims year, means the amounts paid out by an insurance company in payment or settlement of claims under any contract of insurance entered into by it under Part 6 of this Act for that year, together with an amount (in respect of administrative costs) equal to 5 percent of the premium income of that insurance company for that claims year
   - **Premium income** , in respect of any claims year, means the amount of the premiums paid to an insurance company by the Deputy Registrar pursuant to section 88 of this Act.
-(2) When all claims incurred by an insurance company in respect of a claims year have been finally settled, or determined by a Court of competent jurisdiction, and paid by that insurance company, or at such earlier time as the Minister may (by notice in writing to the company) require in relation to a specified claims year, that company shall, as soon as practicable, submit to the Director an audited statement setting out its income and the payments relating to that year.
-(3) Where a statement is submitted to the Director by an insurance company in accordance with subsection (2) of this section,—
+(2) When all claims incurred by an insurance company in respect of a claims year have been finally settled, or determined by a Court of competent jurisdiction, and paid by that insurance company, or at such earlier time as the Minister may (by notice in writing to the company) require in relation to a specified claims year, that company shall, as soon as practicable, submit to the Agency an audited statement setting out its income and the payments relating to that year.
+(3) Where a statement is submitted to the Agency by an insurance company in accordance with subsection (2) of this section,—
   (a) If the statement shows an excess of income over payments and the amount of that excess is greater than 2 ½ percent of the premium income for the year to which the statement relates, the amount by which that excess is greater than 2 ½ percent of the premium income shall forthwith be paid into the Fund by the insurance company:
     Provided that any payment which the insurance company is then entitled to receive from the Fund under the following provisions of this subsection may be set off against any payment which the insurance company is required to make into the Fund under this paragraph:
   (b) If the statement shows an excess of income over payments and the amount of that excess is 2 ½ percent or less of the premium income for the year to which the statement relates, no amount shall be paid out of the Fund to the insurance company:
@@ -1016,12 +1014,12 @@ Every indemnity surcharge payment made by an owner under this Part of this Act i
     (ii) If the insurance company, in any other claims year or claims years, has made or makes any payments into the Fund pursuant to paragraph (a) of this subsection, an amount not greater than 2 ½ percent of the premium income for the claims year to which the statement relates shall be paid to the insurance company from any amount derived from those payments and for the time being held in the Fund.
 (4) If in any claims year the amount in the Fund is insufficient to meet in full the payments to be made thereout under subsection (3) of this section, payment for that year shall be made to each insurance company in the proportion which its claim bears to the total claims made. If subsequently, after meeting the claims in any other year, there is a credit balance in the Fund, that balance shall be applied so far as it is available to meet underpayments in previous claims years in chronological order.
 (4A) Without in any way derogating from the provisions of this section, where all claims incurred by an insurance company in respect of a claims year have not been finally settled, or determined by a Court of competent jurisdiction, but the payments already made in respect of that year by the company exceed the income of the company in respect of that year,—Any amount paid to the company from the Fund pursuant to paragraph (b) of this subsection shall be taken into account in any later statement under this section relating to that year.
-  (a) The company may submit to the Director an audited statement setting out its income and the payments already made by it in respect of that year; and
-  (b) There shall be paid from the Fund to the company such part (if any) of the excess of payments over income disclosed in the statement as the Director, in his absolute discretion, determines.
+  (a) The company may submit to the Agency an audited statement setting out its income and the payments already made by it in respect of that year; and
+  (b) There shall be paid from the Fund to the company such part (if any) of the excess of payments over income disclosed in the statement as the Agency, in its absolute discretion, determines.
 (5) This section shall apply to every insurance company to which this Part of this Act applies, and to every claims year notwithstanding that any insurance company has paid all amounts for which it is liable in respect of that claims year before the 1st day of April 1974.
 
-### 90Q Director may inspect accounts
-The Director may from time to time inspect the accounts relating to any claims year of any insurance company to which this Part of this Act applies, and the insurance company shall make available to the Director all accounts and documents required by him for the inspection.
+### 90Q Agency may inspect accounts
+The Agency may from time to time inspect the accounts relating to any claims year of any insurance company to which this Part of this Act applies, and the insurance company shall make available to the Agency all accounts and documents required by him for the inspection.
 
 ### 90R Vesting of Motor Vehicles (Third-party Risks) Indemnity Fund in Accident Compensation Corporation
 (1) All money and investments standing to the credit of the Fund are hereby vested in the Accident Compensation Corporation (constituted under the Accident Compensation Act 1972 and continued under the Accident Compensation Act 1982), subject to all liabilities and charges affecting that money and those investments.
@@ -1030,7 +1028,7 @@ The Director may from time to time inspect the accounts relating to any claims y
 ### 90S Regulations
 (1) Without limiting the general power to make regulations conferred by section 199 of this Act, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) Prescribing the amount of the indemnity surcharge to be paid in respect of motor vehicles under this Part of this Act:
-  (b) Prescribing or authorising the Director to prescribe the forms of notices, accounts, or other forms required in relation to this Part of this Act.
+  (b) Prescribing or authorising the Agency to prescribe the forms of notices, accounts, or other forms required in relation to this Part of this Act.
 (2) Regulations prescribing indemnity surcharges payable for the purposes of this Part of this Act may differentiate between different classes of motor vehicles, and may differentiate between motor vehicles, having regard to the purposes for which they are used or are intended to be used.
 
 ## Part 7 — Road Traffic Safety Research Council
@@ -1439,15 +1437,15 @@ The Director may from time to time inspect the accounts relating to any claims y
     (i) A passenger service vehicle; or
     (ii) A heavy motor vehicle; or
     (iii) A goods service vehicle used for commercial purposes; and
-  (b) Is made to an employee of the Authority authorised for the purpose in writing by the Director; and
+  (b) Is made to an employee of the Agency authorised for the purpose in writing by the Agency; and
   (c) Relates to any matter that is or ought to be specified in any logbook—
 
 ### 196B Evidence of certain documents
-(1) In any proceedings for an offence against this Act or the Road User Charges Act 1977, or any regulations made under this Act or that Act, a document purporting to be issued by the Director, or an employee of the Authority authorised by the Director for the purpose, and certified by that person to be a true copy of—shall, in the absence of evidence to the contrary, be sufficient evidence of the facts stated in the copy.
+(1) In any proceedings for an offence against this Act or the Road User Charges Act 1977, or any regulations made under this Act or that Act, a document purporting to be issued by an employee of the Agency authorised by the Agency for the purpose, and certified by that person to be a true copy of—shall, in the absence of evidence to the contrary, be sufficient evidence of the facts stated in the copy.
   (a) An application for a road user licence; or
   (b) A road user licence; or
   (c) A certificate or other document issued under this Act or any regulations made under this Act—
-(2) Any employee of the Authority who certifies such a copy as a true copy shall, in the absence of proof to the contrary, be presumed to be authorised to certify it.
+(2) Any employee of the Agency who certifies such a copy as a true copy shall, in the absence of proof to the contrary, be presumed to be authorised to certify it.
 
 ### 197 Evidence of testing and accuracy of weighing devices and sites, and speed-measuring devices
 [Repealed]
@@ -1477,12 +1475,12 @@ The Director may from time to time inspect the accounts relating to any claims y
 [Repealed]
 
 ### 199B Transfer of functions and powers of Secretary
-(1) Notwithstanding anything in this Act or any other Act, but subject to this section, the Secretary may from time to time, either generally or particularly, after consultation with the Commissioner transfer to the Commissioner all or any of the functions or powers of the Secretary under this Act or the Transport (Vehicle and Driver Registration and Licensing) Act 1986, or under any regulations made under either of those Acts, and the Director may in like manner transfer to the Commissioner all or any of the functions or powers of the Director under this Act or that Act, or under any such regulations.
-(2) Every transfer under subsection (1) of this section shall be effected by an instrument in writing signed by the Secretary or the Director, as the case may be.
+(1) Notwithstanding anything in this Act or any other Act, but subject to this section, the Secretary may from time to time, either generally or particularly, after consultation with the Commissioner transfer to the Commissioner all or any of the functions or powers of the Secretary under this Act or the Transport (Vehicle and Driver Registration and Licensing) Act 1986, or under any regulations made under either of those Acts, and the Agency may in like manner transfer to the Commissioner all or any of the functions or powers of the Agency under this Act or that Act, or under any such regulations.
+(2) Every transfer under subsection (1) of this section shall be effected by an instrument in writing signed by the Secretary or the Agency, as the case may be.
 (3) Where a function or power has been transferred under subsection (1) of this section, the Commissioner or any sworn or non-sworn member of the Police authorised by the Commissioner for the purpose may carry out the function or exercise the power as if the function or power had been conferred or imposed on him or her directly by this Act and not by transfer.
-(4) After consultation with the Commissioner, the Secretary or the Director, as the case may be, may at any time, by an instrument in writing, resume on a date specified by the Secretary or the Director, as the case may be, all or any of the functions or powers transferred under subsection (1) of this section; and, in that case, neither the Commissioner nor any sworn or non-sworn member of the Police may carry out functions or exercise powers resumed under this subsection.
-(5) Except as otherwise provided in an instrument under subsection (1) of this section, the Secretary or the Director, as the case may be, shall not carry out any function or exercise any power that has been transferred under that subsection.
-(6) Any such transfer, until it is revoked, shall have effect according to its tenor, notwithstanding that the Secretary or the Director, as the case may be, by whom it was made may have ceased to hold office, and shall continue to have effect as if made by the successor in office of the Secretary or the Director, as the case may be.
+(4) After consultation with the Commissioner, the Secretary or the Agency, as the case may be, may at any time, by an instrument in writing, resume on a date specified by the Secretary or the Agency, as the case may be, all or any of the functions or powers transferred under subsection (1) of this section; and, in that case, neither the Commissioner nor any sworn or non-sworn member of the Police may carry out functions or exercise powers resumed under this subsection.
+(5) Except as otherwise provided in an instrument under subsection (1) of this section, the Secretary or the Agency, as the case may be, shall not carry out any function or exercise any power that has been transferred under that subsection.
+(6) Any such transfer, until it is revoked, shall have effect according to its tenor, notwithstanding that the Secretary or the Agency, as the case may be, by whom it was made may have ceased to hold office, and shall continue to have effect as if made by the successor in office of the Secretary or the Agency, as the case may be.
 (7) Nothing in this section limits or affects the functions, duties, or powers that may be carried out or are exercisable by any person appointed as an agent under section 42 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986.
 
 ### 199C Schedules referring to offences may be amended by Order in Council
@@ -1611,7 +1609,7 @@ Offences against Rental Service Rules (section 39(2) of Act and Part 3 of Schedu
 
 | Provision | Brief Description of Offence | Infringement Fee $ |
 | --- | --- | --- |
-| Section 87(1)(a), Transit New Zealand Act 1989 | Acts in contravention of or fails to comply in any respect with any provision of section 82 of the Transit New Zealand Act 1989 (restrictions on use of motorways). | 250 |
+| Section 87(1)(a), Government Roading Powers Act 1989 | Acts in contravention of or fails to comply in any respect with any provision of section 82 of the Government Roading Powers Act 1989 (restrictions on use of motorways). | 250 |
 | Section 5, Transport (Vehicle and Driver Registration and Licensing) Act 1986 | Using, etc, unlicensed motor vehicle or motor vehicle that does not have registration plates affixed in the prescribed manner | 200 |
 | Section 17, Transport (Vehicle and Driver Registration and Licensing) Act 1986 | Unauthorised, deceptive, or obscured registration plates or unauthorised licence, etc | 200 |
 | Regulations 11(1), (2), and (3) and 18, Goods Service Vehicle (Constructional) Regulations 1936 | Failure to comply with any provision of the regulations, and related offences | 280 |
@@ -1645,23 +1643,3 @@ The offence of operating a vehicle on a road without displaying current evidence
 ## Schedule 4 — Enactments repealed
 
 ## Schedule 5 — Regulations revoked
-
-### 1 Title
-(1) This Act is the Land Transport Amendment Act 2005.
-(2) In this Act, the Land Transport Act 1998 is called the principal Act.
-
-### 2 Commencement
-(1) Sections 11 to 16, 21, 24, 30(2), 31 to 34, 36, 43, 44, 46 to 50, 52 to 55, 65, 75, 81, 82(1), (3), (4), and (5), 84, 95(1), (2), and (9), 95(12), 98, and 99 come into force—
-  (a) on 16 January 2006; or
-  (b) on an earlier date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions.
-(2) Sections 4(1), 4(3), 4(5) to (8), 4(13), 5, 18, 19, 29, 38 to 40, 42, 45, 51, 56, 61 to 63, 66 to 69, 71 to 73, 77, 78(2), 79, 82(2), 83, 85, 86, 91(2) to (6), 91(8), 91(9), 93, 94(1), 95(3) and (4), 95(6), 95(8), 95(11), 96, 97, and 100 come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions.
-(3) The rest of this Act comes into force on the day after the date on which this Act receives the Royal assent.
-
-## Part 2 — Amendments to principal Act
-
-### Subpart 2 — Repeals, amendments, and transitional and savings provisions
-
-**Transitional and savings provisions**
-
-### 100 Transitional provision for holders of exemptions in respect of driving hours or logbooks
-Every variation or exemption granted under section 70B or section 70C of the Transport Act 1962 ceases to have effect 6 months after the date of commencement of this section.
