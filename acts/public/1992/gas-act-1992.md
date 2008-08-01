@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2008-08-01_
 
 > An Act to make better provision for the regulation, supply, and use of gas and the gas industry in New Zealand, and to repeal the Gas Act 1982
 
@@ -85,9 +85,9 @@ _Consolidation as at 2007-09-20_
   - **point of supply**
   - **Price** includes valuable consideration in any form, whether direct or indirect; and also includes any consideration that in effect relates to the acquisition of goods or services or the acquisition or disposition of any interest in land, although ostensibly relating to any other matter or thing
   - **Relocatable building** means any structure designed or adapted for human occupation that is designed to be relocatable; but does not include any tent
-  - **Road** has the same meaning as in section 315 of the Local Government Act 1974; and includes a road under the jurisdiction of any local authority; and also includes a public footpath; and also includes a State highway within the meaning of section 2(1) of the Transit New Zealand Act 1989; but does not include—
+  - **Road** has the same meaning as in section 315 of the Local Government Act 1974; and includes a road under the jurisdiction of any local authority; and also includes a public footpath; and also includes a State highway within the meaning of section 2(1) of the Government Roading Powers Act 1989; but does not include—
     (a) A private road within the meaning of section 315 of the Local Government Act 1974; or
-    (b) A motorway within the meaning of the Transit New Zealand Act 1989; or
+    (b) A motorway within the meaning of the Government Roading Powers Act 1989; or
     (c) Any roadway laid out by order of the Maori Land Court under Part 27 of the Maori Affairs Act 1953 or under any former Act, except where that order has been cancelled, or where the roadway has been declared under section 421 of that Act to be a road; or
     (d) Any level crossing:
   - **Roading structure** means any bridge, underpass, overpass, culvert, or tunnel
@@ -153,7 +153,7 @@ The functions of the Secretary under this Act are—
     (ii) Remove any gas appliance:
   (e) By notice in writing require any person whom the Secretary reasonably believes to be for the time being in charge of any place, or of any fittings or gas appliance in the place, to take any specified action in respect of that place or those fittings or that gas appliance that the Secretary reasonably believes is necessary to render that place or those fittings safe:
   (f) Require any person who has control of or who uses the distribution system, gas installation, or gas appliance to produce any document required by this Act or any regulations made under section 54 or section 55 of this Act to be kept by that person, and may examine and make copies of, or take extracts from, any such document.
-(5) This section shall apply notwithstanding anything to the contrary in section 52 of the Transit New Zealand Act 1989.
+(5) This section shall apply notwithstanding anything to the contrary in section 52 of the Government Roading Powers Act 1989.
 
 ### 8 Report to be compiled
 (1) Where any test is carried out under section 7 of this Act, the person who carries out the test shall—
@@ -180,7 +180,7 @@ The functions of the Secretary under this Act are—
   (b) That, because of anything done or omitted to be done, or intended to be done or not to be done, by any person, there would be a danger or potential danger to any persons or property should any gas be present or escape,—
 (3A)
 (3B)
-(4) This section shall apply notwithstanding anything to the contrary in section 52 of the Transit New Zealand Act 1989.
+(4) This section shall apply notwithstanding anything to the contrary in section 52 of the Government Roading Powers Act 1989.
 
 ### 10 Objections to Secretary's requirements
 (1) Every person who is affected by any notice given under section 7(4)(e) or section 9(1) or section 9(2) of this Act, or any requirement made under section 9(3) of this Act, may, within 15 working days after receiving the notice or being made subject to the requirement, object to that notice or requirement.
@@ -334,7 +334,7 @@ Any existing fittings, lawfully fixed to or lawfully installed over or under any
 ### 31 Charging for access to road reserve
 (1) Notwithstanding anything in this Act or any other enactment, no local authority or other body or person having jurisdiction over any road shall require the payment, by or on behalf of any gas operator, of any amount of or in the nature of rent in respect of any fittings constructed or placed in, on, along, over, across, or under that road.
 (2) Nothing in subsection (1) applies in respect of a rate assessed under the Local Government (Rating) Act 2002.
-(3) In this section, the term road has the meaning given to it in section 2 of this Act, but also includes a motorway within the meaning of the Transit New Zealand Act 1989.
+(3) In this section, the term road has the meaning given to it in section 2 of this Act, but also includes a motorway within the meaning of the Government Roading Powers Act 1989.
 
 ### 32 Rights of entry in respect of level crossings
 (1) Where—the gas operator may, upon giving the owner and occupier of the level crossing not less than 10 working days' notice of its intention to do so, apply to a District Court for an order under this section.
@@ -369,7 +369,7 @@ Any existing fittings, lawfully fixed to or lawfully installed over or under any
     (vii) Any regulations made under any enactment, or under any enactment of any of the classes of enactment, referred to in any of subparagraphs (ii) to (vi) of this paragraph; or
   (b) Are in a dangerous or unsafe condition,—
 (3) Where any person requires any work to be done under section 33(1) of this Act, no claim by or against that person for betterment shall be allowed in respect of that work.
-(4) Where a controlling authority within the meaning of section 54(1) of the Transit New Zealand Act 1989 requires any work to be done under section 33(1) of this Act in relation to any fittings, subsections (1) to (3) of this section shall apply subject to the following provisions:
+(4) Where a controlling authority within the meaning of section 54(1) of the Government Roading Powers Act 1989 requires any work to be done under section 33(1) of this Act in relation to any fittings, subsections (1) to (3) of this section shall apply subject to the following provisions:
   (a) In all cases the cost of materials (being fittings) that are used in the carrying out of the required work (other than fittings used only during the course of construction) shall be paid by the owner of the fittings:
   (b) Where—an amount equal to the amount by which the cost, to the controlling authority, of that construction or those alterations, as the case requires, is so increased shall be paid to the controlling authority by the owner of the fittings:
     (i) As a consequence of the requirement, the owner of the fittings elects to fix fittings to, or install fittings over, under, or through, a roading structure that is being, or is to be, constructed or altered; and
@@ -384,8 +384,8 @@ Any existing fittings, lawfully fixed to or lawfully installed over or under any
   (a) By agreement between the person liable for the payment and the person to whom it is payable; or
   (b) Failing such agreement, by arbitration under the Arbitration Act 1908, with one arbitrator to be appointed by each party and an umpire to be appointed by those arbitrators before entering upon their reference.
 
-### 35 Transit New Zealand Act 1989 not to apply
-Sections 33 and 34 of this Act shall apply notwithstanding anything to the contrary in section 54 of the Transit New Zealand Act 1989.
+### 35 Government Roading Powers Act 1989 not to apply
+Sections 33 and 34 of this Act shall apply notwithstanding anything to the contrary in section 54 of the Government Roading Powers Act 1989.
 
 ### 36 Owners and occupiers of private land and buildings may move fittings
 (1) Subject to subsection (2) of this section, the owner or occupier of any private land or buildings into, through, or against which fittings to which section 23 of this Act applies have been laid down or placed may, at that person's own expense, on giving written notice to the person that owns the fittings, move such fittings and re-lay or replace them, subject to the work being lawfully carried out and to such conditions as the person that owns the fittings may reasonably impose.
