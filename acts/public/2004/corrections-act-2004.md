@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2008-04-09_
+_Consolidation as at 2008-08-01_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -83,7 +83,7 @@ This Act is the Corrections Act 2004.
   - **inspector of corrections** or means a person appointed as an inspector of corrections under section 28
   - **investigating officer** means an officer (within the meaning of section 2(1) of the Defence Act 1990) or other duly authorised person investigating a complaint under section 49 of that Act
   - **legal adviser** —
-    (a) means a person holding a current practising certificate under section 57 of the Law Practitioners Act 1982 who represents a prisoner; and
+    (a) means a lawyer (within the meaning of the Lawyers and Conveyancers Act 2006) who represents a prisoner; and
     (b) includes, in relation to any member of the armed forces detained in a prison, any other member of the armed forces responsible for representing that member at a court-martial or other proceedings
   - **mail** means any letter, package, parcel, or postcard sent or delivered to or by a prisoner
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003, as a practitioner of the profession of medicine
