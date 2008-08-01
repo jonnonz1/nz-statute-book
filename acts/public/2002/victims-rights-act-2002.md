@@ -1,5 +1,5 @@
 # Victims' Rights Act 2002
-_Consolidation as at 2008-06-26_
+_Consolidation as at 2008-08-01_
 
 ### 1 Title
 This Act is the Victims' Rights Act 2002.
@@ -32,7 +32,7 @@ In this Act, unless the context otherwise requires,—
       (ii) has the capacity to understand the nature, and to foresee the consequences, of decisions in respect of matters relating to his or her personal care and welfare, but wholly lacks the capacity to communicate decisions in respect of matters of that kind; and
     (b) includes the person being in a state of continuing unconsciousness
   - **judicial officer** means a Judge, or other person who holds a judicial office (for example, a Justice of the Peace or Community Magistrate), exercising jurisdiction in criminal cases and, in relation to proceedings in court, means the judicial officer presiding over the proceedings
-  - **lawyer** means a barrister or solicitor, as those terms are defined in section 2 of the Law Practitioners Act 1982
+  - **lawyer** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006
   - **offence** , in relation to a victim,—
     (a) means an offence against an enactment—
       (i) committed against the victim (or committed against a child or young person of whom the victim is a parent or legal guardian); or
