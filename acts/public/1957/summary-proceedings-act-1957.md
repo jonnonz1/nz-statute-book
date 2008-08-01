@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2008-07-01_
+_Consolidation as at 2008-08-01_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
@@ -2360,9 +2360,11 @@ In any action brought against a Justice or Community Magistrate by a person clai
 (8) It is the duty of every one executing any search warrant to have it with him and to produce it if required to do so.
 
 ### 198A Procedure where certain documents seized from solicitors' offices
-(1) This section applies to books of account and accounting records kept by a solicitor in relation to—
-  (a) Any trust account money, being money that is subject to section 89 of the Law Practitioners Act 1982; or
-  (b) Any solicitors' nominee company operated by a solicitor with the consent of the relevant District Law Society as a nominee in respect of securities and documents of title held for clients.
+(1) This section applies to books of account and accounting records kept—
+  (a) by a practitioner (within the meaning of the Lawyers and Conveyancers Act 2006) or an incorporated firm (within the meaning of that Act) in relation to any trust account money, being money that is subject to section 112 of that Act; or
+  (b) by a nominee company that—
+    (i) is subject to practice rules made by the Council of the New Zealand Law Society pursuant to section 96 of the Lawyers and Conveyancers Act 2006; and
+    (ii) is operated by a barrister and solicitor or an incorporated law firm as a nominee in respect of securities and documents of title held for clients.
 (2) Where, on the execution of any warrant issued under section 198 of this Act, any document to which this section applies is seized, the following provisions shall apply:
   (a) The member of the Police who is executing the warrant shall, before leaving the premises on which the warrant is executed, prepare an inventory of all such documents so seized:
   (b) If any solicitor having possession of the documents is present at the time of the execution of the warrant, the member of the Police shall show the inventory of documents to the solicitor, and invite him to check the accuracy of the inventory:
