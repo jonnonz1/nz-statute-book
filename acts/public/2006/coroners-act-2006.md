@@ -1,5 +1,5 @@
 # Coroners Act 2006
-_Consolidation as at 2007-11-29_
+_Consolidation as at 2008-08-01_
 
 ### 1 Title
 This Act is the Coroners Act 2006.
@@ -136,7 +136,7 @@ In this Act, unless the context otherwise requires,—
     (f) the Health and Disability Commissioner appointed under section 8 of the Health and Disability Commissioner Act 1994:
     (g) the Director or an officer as defined in section 2 of the Food Act 1981:
     (h) an inspector appointed under section 29(1) of the Health and Safety in Employment Act 1992:
-    (i) Land Transport New Zealand established by section 66 of the Land Transport Management Act 2003:
+    (i) the New Zealand Transport Agency established by section 93 of the Land Transport Management Act 2003:
     (j) a Medical Officer of Health under the Health Act 1956:
     (k) the authority known as Maritime New Zealand continued by section 429 of the Maritime Transport Act 1994:
     (l) the Independent Police Conduct Authority established under section 4 of the Independent Police Conduct Authority Act 1988:
