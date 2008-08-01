@@ -1,5 +1,5 @@
 # Fencing Act 1978
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-08-01_
 
 > An Act to reform the law relating to the erection and repair of dividing fences, and in substitution for the Fencing Act 1908
 
@@ -29,7 +29,7 @@ In this Act, unless the context otherwise requires,—
   - **Owner** , in relation to any land, means the person for the time being entitled to receive the rack rent thereof, or who would be so entitled if the land were let to a tenant at a rack rent
   - **Public reserve** has the same meaning as in the Reserves Act 1977
   - **Repair** includes trimming, keeping, and maintaining a live fence, keeping an electric fence in working order, and cleaning, deepening, straightening, altering, or enlarging the course of a natural or artificial watercourse or any ditch or channel or raised ground that serves as a fence
-  - **Road** means a road within the meaning of section 43 of the Transit New Zealand Act 1989; and includes any motorway, limited access road, street, access way, service lane, and other public highway
+  - **Road** means a road within the meaning of section 43 of the Government Roading Powers Act 1989; and includes any motorway, limited access road, street, access way, service lane, and other public highway
   - **Work** and include the erection, replacement, repair, and maintenance of a fence in whole or in part, and the preparation of the land along or on either side of a boundary between adjoining occupiers for any such purpose; and include any survey work necessary to determine that boundary.
 
 ### 3 Application of Act
