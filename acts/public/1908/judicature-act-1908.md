@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2008-07-24_
+_Consolidation as at 2008-08-01_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -1593,7 +1593,7 @@ Numbers shall be expressed in figures and not in words.
 ### 41 Authority to file documents
 No solicitor may file a document on behalf of a party unless the solicitor is
   (a) authorised by, or on behalf of, the party to file the document; and
-  (b) the holder of a current practising certificate as a solicitor or as a barrister and solicitor issued under section 56 of the Law Practitioners Act 1982.
+  (b) the holder of a current practising certificate as a barrister and solicitor issued under section 39 of the Lawyers and Conveyancers Act 2006.
 
 ### 41A Adverse parties
 Where a solicitor or a solicitor's partner acts as solicitor for any party to a proceeding, or is a party to any proceeding, that solicitor shall not, without the leave of the Court, act for any other party to the proceeding not having the same interest in the subject-matter of the proceeding.
@@ -1979,7 +1979,7 @@ A failure to comply with rule 65A does not prevent a person speaking Maori at a 
 (15) Nothing in this rule shall affect any Act, regulations, or rules which contain express provisions of any kind in relation to the search of Court records, and this rule shall be subject to those provisions.
 
 ### 67 Search of rolls of barristers and solicitors
-The rolls of barristers and solicitors kept pursuant to section 49 of the Law Practitioners Act 1982 may be searched, inspected, and copied by any person during office hours without payment of any fee.
+The rolls of barristers and solicitors kept pursuant to section 56 of the Lawyers and Conveyancers Act 2006 may be searched, inspected, and copied by any person during office hours without payment of any fee.
 
 ### 68 Search of certain records
 (1) This rule applies to any proceeding, being
@@ -5217,8 +5217,9 @@ Unless in any particular case the Court otherwise directs, every order sanctioni
     (x) Section 10A of the Industrial and Provident Societies Act 1908:
     (xi) Section 56 of the Judicature Act 1908:
     (xii) Sections 132, 133, 140, 143, 145, 145A, 148, 216, and 217 of the Land Transfer Act 1952:
-    (xiii) Sections 46, 55, and 149 of the Law Practitioners Act 1982:
+    (xiii) section 149 of the Law Practitioners Act 1982 (as continued by section 361(5) of the Lawyers and Conveyancers Act 2006):
     (xiv) Section 9A(3) of the Law Reform Act 1936:
+    (xv) sections 30, 37, and 52 of the Lawyers and Conveyancers Act 2006:
     (xv)
     (xvi) Section 12(1) (a) of the Minors' Contracts Act 1969:
     (xvia) sections 128, 131, 167, 168, 179, 181, 182, and 186 of the Personal Property Securities Act 1999:
