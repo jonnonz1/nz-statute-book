@@ -1,5 +1,5 @@
 # Litter Act 1979
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-08-01_
 
 > An Act to make better provision for the abatement and control of litter
 
@@ -19,7 +19,7 @@ This Act may be cited as the Litter Act 1979.
   - **Occupier** , in relation to any land or premises, means any lessee, licensee, or other occupant of the land, and includes the owner or the agent of the owner where there is no apparent occupier
   - **Private land** means every place other than a public place
   - **Public authority** means—
-    (a) A territorial authority, Transit New Zealand, the Auckland Regional Authority, the Wellington Regional Water Board, the Auckland Harbour Bridge Authority, a harbour board, an airport authority within the meaning of section 2 of the Airport Authorities Act 1966, and an administering body within the meaning of section 2 of the Reserves Act 1977:
+    (a) A territorial authority, the New Zealand Transport Agency, the Auckland Regional Authority, the Wellington Regional Water Board, the Auckland Harbour Bridge Authority, a harbour board, an airport authority within the meaning of section 2 of the Airport Authorities Act 1966, and an administering body within the meaning of section 2 of the Reserves Act 1977:
     (b) In relation to any cemetery, any persons for the time being holding office as trustees of that cemetery under the Burial and Cremation Act 1964:
     (c) All other bodies or classes of bodies which by any Act, or by the Governor-General in Council, are from time to time declared to be public authorities for the purposes of this Act:
   - **Public place** includes—but does not include any site for the disposal of litter, or any receptacle installed in any such public place pursuant to this Act or any other Act
