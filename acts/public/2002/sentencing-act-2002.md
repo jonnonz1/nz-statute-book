@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2008-08-01_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -1977,7 +1977,7 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
   (c) section 84 (new licence or endorsement to be issued if disqualified driver qualifies for specified vehicle classes):
   (d) section 85 (when disqualification starts):
   (e) section 86 (term of disqualification if person already disqualified):
-  (f) section 87 (particulars of court orders relating to disqualification to be sent to Director of Land Transport and offender):
+  (f) section 87 (particulars of court orders relating to disqualification to be sent to New Zealand Transport Agency and offender):
   (g) section 99 (court may remove disqualification):
   (h) section 103 (persons who may apply to court for limited licence):
   (i) section 104 (issue of limited licence to be delayed or prohibited in certain cases):
