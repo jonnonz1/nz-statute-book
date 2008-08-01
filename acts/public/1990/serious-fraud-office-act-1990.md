@@ -1,5 +1,5 @@
 # Serious Fraud Office Act 1990
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-08-01_
 
 > An Act—aTo facilitate the detection and investigation by the Serious Fraud Office of cases of serious or complex fraud; andbTo enable proceedings relating to such fraud to be taken expeditiously; andcTo provide for matters incidental upon the establishment of the Serious Fraud Office
 
@@ -232,9 +232,9 @@ Any decision by the Director—shall not be challenged, reviewed, quashed, or ca
     (ii) A legal practitioner in his or her professional capacity and his or her client,—
   (b) It is made or brought into existence for the purpose of obtaining or giving legal advice or assistance; and
   (c) It is not made or brought into existence for the purpose of committing or furthering the commission of some illegal or wrongful act.
-(4) Where the information or document consists wholly of payments, income, expenditure, or financial transactions of a specified person (whether a legal practitioner, his or her client, or any other person), it shall not be a privileged communication if it is contained in, or comprises the whole or part of, any book, account, statement or other record prepared or kept by the legal practitioner in connection with a trust account of the legal practitioner within the meaning of section 2 of the Law Practitioners Act 1982.
+(4) Where the information or document consists wholly of payments, income, expenditure, or financial transactions of a specified person (whether a legal practitioner, his or her client, or any other person), it shall not be a privileged communication if it is contained in, or comprises the whole or part of, any book, account, statement or other record prepared or kept by the legal practitioner in connection with a trust account of the legal practitioner within the meaning of section 6 of the Lawyers and Conveyancers Act 2006.
 (5) Where any person refuses to disclose any information or document on the ground that it is a privileged communication under this section, the Director or that person may apply to a District Court Judge for an order determining whether or not the claim of privilege is valid; and, for the purposes of determining any such application, the District Court Judge may require the information or document to be produced to him or her.
-(6) For the purposes of this section the term legal practitioner means a barrister or solicitor of the High Court, and references to a legal practitioner include a firm in which he or she is a partner or is held out to be a partner.
+(6) For the purposes of this section, the term legal practitioner means a barrister or solicitor of the High Court, and references to a legal practitioner include a firm or incorporated law firm (within the meaning of the Lawyers and Conveyancers Act 2006) in which he or she is, or is held out to be, a partner, director, or shareholder.
 
 **Miscellaneous provisions**
 
