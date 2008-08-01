@@ -1,43 +1,43 @@
 # Environment Act 1986
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-08-01_
 
-> An Act to—aProvide for the establishment of the office of Parliamentary Commissioner for the Environment:bProvide for the establishment of the Ministry for the Environment:cEnsure that, in the management of natural and physical resources, full and balanced account is taken of—iThe intrinsic values of ecosystems; andiiAll values which are placed by individuals and groups on the quality of the environment; andiiiThe principles of the Treaty of Waitangi; andivThe sustainability of natural and physical resources; andvThe needs of future generations
+> An Act to—aprovide for the establishment of the office of Parliamentary Commissioner for the Environment:bprovide for the establishment of the Ministry for the Environment:censure that, in the management of natural and physical resources, full and balanced account is taken of—ithe intrinsic values of ecosystems; andiiall values which are placed by individuals and groups on the quality of the environment; andiiithe principles of the Treaty of Waitangi; andivthe sustainability of natural and physical resources; andvthe needs of future generations
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Environment Act 1986.
-(2) This Act shall come into force on the 1st day of January 1987.
+(2) This Act shall come into force on 1 January 1987.
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
   - **Commissioner** means the Parliamentary Commissioner for the Environment appointed under this Act
-  - **Consent** means an authorisation, permission, a licence, a permit, a right, and any other approval of any type whatsoever, capable of being granted under—and which it is necessary to obtain before the lawful commencement of any undertaking or activity which may affect the environment
-    (a) Any Act specified in the Schedule to this Act:
-    (b) Any regulation, rule, Order in Council, Proclamation, notice, or bylaw in force under any of those Acts:
-    (c) Any operative regional plan or district plan or proposed plan under the Resource Management Act 1991—
-  - **Contaminant** , means any substance (including gases, liquids, solids, and micro-organisms) or energy (including radioactivity and electromagnetic radiation but excluding noise) or heat, that either by itself or in combination with the same, similar, or other substances, energy, or heat—
-    (a) Changes or has the potential, when discharged into water, to change the physical, chemical, or biological condition of that water; or
-    (b) Changes or has the potential, when discharged onto or into land or into air, to change the physical, chemical, or biological condition of the land or air onto or into which it is discharged:
-  - **Ecosystem** means any system of interacting terrestrial or aquatic organisms within their natural and physical environment
-  - **Environment** includes—
-    (a) Ecosystems and their constituent parts including people and communities; and
-    (b) All natural and physical resources; and
-    (c) Those physical qualities and characteristics of an area that contribute to people's appreciation of its pleasantness, aesthetic coherence, and cultural and recreational attributes; and
-    (d) The social, economic, aesthetic, and cultural conditions which affect the matters stated in paragraphs (a) to (c) of this definition or which are affected by those matters:
-  - **Hazardous substance** means any substance which may impair human, plant, or animal health or may adversely affect the health or safety of any person or the environment, whether or not contained in or forming part of any other substance or thing
+  - **consent** means an authorisation, permission, a licence, a permit, a right, and any other approval of any type whatsoever, capable of being granted under—and which it is necessary to obtain before the lawful commencement of any undertaking or activity which may affect the environment
+    (a) any Act specified in the Schedule:
+    (b) any regulation, rule, Order in Council, Proclamation, notice, or bylaw in force under any of those Acts:
+    (c) any operative regional plan or district plan or proposed plan under the Resource Management Act 1991—
+  - **contaminant** , means any substance (including gases, liquids, solids, and micro-organisms) or energy (including radioactivity and electromagnetic radiation but excluding noise) or heat, that either by itself or in combination with the same, similar, or other substances, energy, or heat—
+    (a) changes or has the potential, when discharged into water, to change the physical, chemical, or biological condition of that water; or
+    (b) changes or has the potential, when discharged onto or into land or into air, to change the physical, chemical, or biological condition of the land or air onto or into which it is discharged
+  - **ecosystem** means any system of interacting terrestrial or aquatic organisms within their natural and physical environment
+  - **environment** includes—
+    (a) ecosystems and their constituent parts including people and communities; and
+    (b) all natural and physical resources; and
+    (c) those physical qualities and characteristics of an area that contribute to people's appreciation of its pleasantness, aesthetic coherence, and cultural and recreational attributes; and
+    (d) the social, economic, aesthetic, and cultural conditions which affect the matters stated in paragraphs (a) to (c) or which are affected by those matters
+  - **hazardous substance** means any substance which may impair human, plant, or animal health or may adversely affect the health or safety of any person or the environment, whether or not contained in or forming part of any other substance or thing
   - **local authority** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **Minister** means the Minister for the Environment
   - **Ministry** means the Ministry for the Environment established under this Act
-  - **Natural hazard** means any atmospheric or earth or water related occurrence (including erosion, volcanic activity, landslip, subsidence, sedimentation, fire, or flooding) the action of which adversely affects or may adversely affect human life, property, or the environment
-  - **Natural and physical resources** includes water, air, soil, minerals, hydrocarbons, and energy, all forms of flora and fauna (whether native to New Zealand or introduced) and any building, structure, machine, device, or other facility made by people
-  - **Pollution** means any process, whether natural or artificial, resulting in the introduction of any contaminant into the environment; and noise; and has a corresponding meaning
-  - **Public authority** means—
-    (a) A Minister of the Crown:
-    (b) A Government department:
-    (c) Any instrument of the Executive Government of New Zealand:
-    (d) Any local authority:
-  - **Secretary** means the Secretary for the Environment appointed in accordance with section 29 of this Act
-  - **Territorial sea** means the territorial sea of New Zealand as defined by section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
-  - **Treaty of Waitangi** means the Treaty of Waitangi as set out in Schedule 1 to the Treaty of Waitangi Act 1975.
+  - **natural hazard** means any atmospheric or earth or water related occurrence (including erosion, volcanic activity, landslip, subsidence, sedimentation, fire, or flooding) the action of which adversely affects or may adversely affect human life, property, or the environment
+  - **natural and physical resources** includes water, air, soil, minerals, hydrocarbons, and energy, all forms of flora and fauna (whether native to New Zealand or introduced) and any building, structure, machine, device, or other facility made by people
+  - **pollution** means any process, whether natural or artificial, resulting in the introduction of any contaminant into the environment; and noise; and has a corresponding meaning
+  - **public authority** means—
+    (a) a Minister of the Crown:
+    (b) a government department:
+    (c) any instrument of the Executive Government of New Zealand:
+    (d) any local authority
+  - **Secretary** means the Secretary for the Environment appointed in accordance with section 29
+  - **territorial sea** means the territorial sea of New Zealand as defined by section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
+  - **Treaty of Waitangi** means the Treaty of Waitangi as set out in Schedule 1 of the Treaty of Waitangi Act 1975.
 
 ### 3 Act to bind the Crown
 This Act shall bind the Crown.
@@ -48,7 +48,7 @@ This Act shall bind the Crown.
 
 ### 4 Parliamentary Commissioner for the Environment
 (1) There shall be appointed, as an officer of Parliament, a Parliamentary Commissioner for the Environment.
-(2) Subject to section 8 of this Act, the Commissioner shall be appointed by the Governor-General on the recommendation of the House of Representatives.
+(2) Subject to section 8, the Commissioner shall be appointed by the Governor-General on the recommendation of the House of Representatives.
 
 ### 5 Commissioner not to hold other offices
 The Commissioner shall not be capable of being a member of Parliament or of a local authority, and shall not, without the approval of the Speaker of the House of Representatives in each particular case, hold any office of trust or profit or engage in any occupation for reward outside the duties of the Commissioner's office.
@@ -56,28 +56,28 @@ The Commissioner shall not be capable of being a member of Parliament or of a lo
 ### 6 Term of office of Commissioner
 (1) Except as otherwise provided in this Act, the Commissioner shall hold office for a term of 5 years, but may be reappointed from time to time.
 (2) Where the term for which the Commissioner has been appointed expires, the Commissioner, unless sooner resigning from office or removed from office, shall continue to hold office, by virtue of the appointment for the term that has expired, until—
-  (a) The Commissioner is reappointed; or
-  (b) A successor to the Commissioner is appointed.
+  (a) the Commissioner is reappointed; or
+  (b) a successor to the Commissioner is appointed.
 (3) The Commissioner may at any time resign from office by writing addressed to the Speaker of the House of Representatives, or to the Prime Minister if there is no Speaker or if the Speaker is absent from New Zealand.
 
 ### 7 Removal or suspension from office
-(1) Subject to subsection (2) of this section, the Commissioner may be removed or suspended from office only by the Governor-General, upon an address from the House of Representatives, for inability to perform the functions of the office, bankruptcy, neglect of duty, or misconduct.
+(1) Subject to subsection (2), the Commissioner may be removed or suspended from office only by the Governor-General, upon an address from the House of Representatives, for inability to perform the functions of the office, bankruptcy, neglect of duty, or misconduct.
 (2) At any time when Parliament is not in session, the Commissioner may be suspended from office by the Governor-General in Council for inability to perform the functions of the office, bankruptcy, neglect of duty, or misconduct proved to the satisfaction of the Governor-General in Council; but any such suspension shall not continue in force beyond the end of the 24th sitting day of the next ensuing session of Parliament, and the salary of the Commissioner shall continue to be paid notwithstanding the suspension.
 
 ### 8 Filling of vacancy
 (1) If the Commissioner dies, or resigns from office, or is removed from office, the vacancy thereby created shall be filled as soon as practicable in accordance with this section.
-(2) Subject to subsection (3) of this section, a vacancy in the office of Commissioner shall be filled by the appointment of a Commissioner by the Governor-General on the recommendation of the House of Representatives.
+(2) Subject to subsection (3), a vacancy in the office of Commissioner shall be filled by the appointment of a Commissioner by the Governor-General on the recommendation of the House of Representatives.
 (3) If—the vacancy, at any time before the commencement of the next ensuing session of Parliament, may be filled by the appointment of a successor by the Governor-General in Council.
-  (a) A vacancy occurs while Parliament is not in session or exists at the close of a session; and
-  (b) The House of Representatives has not recommended an appointment to fill the vacancy—
-(4) Any appointment made under subsection (3) of this section shall lapse and the office shall again become vacant unless, before the end of the 24th sitting day of the House of Representatives following the date of the appointment, the House confirms the appointment.
+  (a) a vacancy occurs while Parliament is not in session or exists at the close of a session; and
+  (b) the House of Representatives has not recommended an appointment to fill the vacancy—
+(4) Any appointment made under subsection (3) shall lapse and the office shall again become vacant unless, before the end of the 24th sitting day of the House of Representatives following the date of the appointment, the House confirms the appointment.
 
 ### 9 Salary and allowances of Commissioner
 (1) There shall be paid to the Commissioner out of public money, without further appropriation than this section,—
-  (a) A salary at such rate as the Remuneration Authority from time to time determines; and
-  (b) Such allowances as are from time to time determined by the Remuneration Authority.
+  (a) a salary at such rate as the Remuneration Authority from time to time determines; and
+  (b) such allowances as are from time to time determined by the Remuneration Authority.
 (2) The salary of the Commissioner shall not be diminished during the continuance of the Commissioner's appointment.
-(3) Notwithstanding anything in subsection (1) of this section, there shall be paid to the Commissioner, in respect of time spent in travelling in the exercise of the Commissioner's functions, travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly as if the Commissioner were a member of a statutory Board and the travelling were in the service of a statutory Board.
+(3) Notwithstanding anything in subsection (1), there shall be paid to the Commissioner, in respect of time spent in travelling in the exercise of the Commissioner's functions, travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly as if the Commissioner were a member of a statutory board and the travelling were in the service of a statutory board.
 (4) The Commissioner shall be entitled to such annual leave, sick leave, and other leave as may be determined by the Speaker of the House of Representatives.
 (5) The Commissioner shall not be regarded as being employed in the service of Her Majesty for the purposes of the State Sector Act 1988 by reason of appointment as the Commissioner.
 
@@ -96,47 +96,47 @@ The Commissioner shall not be capable of being a member of Parliament or of a lo
 
 ### 13 Employment of consultants
 (1) The Commissioner may from time to time appoint any person with expert knowledge, or who is otherwise able to assist the Commissioner, to make such inquiries, conduct such research, and make such reports as the Commissioner considers will better enable the Commissioner to exercise and perform the Commissioner's powers and functions under this Act.
-(2) The Commissioner shall determine the terms and conditions under which any person is appointed under subsection (1) of this section.
+(2) The Commissioner shall determine the terms and conditions under which any person is appointed under subsection (1).
 
 ### 14 Speaker may require staff to be made available to select committees
-At the request of any select committee of the House of Representatives, the Speaker of the House of Representatives may require the Commissioner to make available any officer or employee holding office under section 11 or section 12 of this Act or (with the person's consent) any person appointed under section 13 of this Act to advise the select committee.
+At the request of any select committee of the House of Representatives, the Speaker of the House of Representatives may require the Commissioner to make available any officer or employee holding office under section 11 or section 12 or (with the person's consent) any person appointed under section 13 to advise the select committee.
 
 ### 15 Superannuation
-For the purposes of the Government Superannuation Fund Act 1956, service as the Commissioner or as an officer or employee appointed or seconded under section 11 or section 12 of this Act shall be deemed to be Government service.
+For the purposes of the Government Superannuation Fund Act 1956, service as the Commissioner or as an officer or employee appointed or seconded under section 11 or section 12 shall be deemed to be Government service.
 
 **Functions and powers**
 
 ### 16 Functions of Commissioner
 (1) The functions of the Commissioner shall be—
-  (a) With the objective of maintaining and improving the quality of the environment, to review from time to time the system of agencies and processes established by the Government to manage the allocation, use, and preservation of natural and physical resources, and to report the results of any such review to the House of Representatives and to such other bodies or persons as the Commissioner considers appropriate:
-  (b) Where the Commissioner considers it necessary, to investigate the effectiveness of environmental planning and environmental management carried out by public authorities, and advise them on any remedial action the Commissioner considers desirable:
-  (c) To—
-    (i) Investigate any matter in respect of which, in the Commissioner's opinion, the environment may be or has been adversely affected, whether through natural causes or as a result of the acts or omissions of any person or body, to an extent which the Commissioner considers warrants investigation; and
-    (ii) Advise, where necessary, the appropriate public authority and any other person or body the Commissioner thinks appropriate of the preventive measures or remedial action which the Commissioner considers should be taken; and
-    (iii) Report the results of the investigation to the House of Representatives:
-  (d) At the request of the House of Representatives or any select committee of the House of Representatives, to report to the House or committee on any petition, Bill, or other matter before the House or committee the subject-matter of which may have a significant effect on the environment:
-  (e) On the direction of the House of Representatives, to inquire into any matter that has had or may have a substantial and damaging effect on the environment, and to report the results of the inquiry to the House:
-  (f) To undertake and encourage the collection and dissemination of information relating to the environment:
-  (g) To encourage preventive measures and remedial actions for the protection of the environment.
-(2) For the purposes of any inquiry held under subsection (1)(e) of this section, the Commissioner shall have the same powers as are conferred on Commissions of Inquiry by section 4 and sections 4B to 9 of the Commissions of Inquiry Act 1908; and those sections shall apply to all persons involved in any capacity in any such inquiry as if it were an inquiry conducted by a Commission under that Act.
+  (a) with the objective of maintaining and improving the quality of the environment, to review from time to time the system of agencies and processes established by the Government to manage the allocation, use, and preservation of natural and physical resources, and to report the results of any such review to the House of Representatives and to such other bodies or persons as the Commissioner considers appropriate:
+  (b) where the Commissioner considers it necessary, to investigate the effectiveness of environmental planning and environmental management carried out by public authorities, and advise them on any remedial action the Commissioner considers desirable:
+  (c) to—
+    (i) investigate any matter in respect of which, in the Commissioner's opinion, the environment may be or has been adversely affected, whether through natural causes or as a result of the acts or omissions of any person or body, to an extent which the Commissioner considers warrants investigation; and
+    (ii) advise, where necessary, the appropriate public authority and any other person or body the Commissioner thinks appropriate of the preventive measures or remedial action which the Commissioner considers should be taken; and
+    (iii) report the results of the investigation to the House of Representatives:
+  (d) at the request of the House of Representatives or any select committee of the House of Representatives, to report to the House or committee on any petition, Bill, or other matter before the House or committee the subject matter of which may have a significant effect on the environment:
+  (e) on the direction of the House of Representatives, to inquire into any matter that has had or may have a substantial and damaging effect on the environment, and to report the results of the inquiry to the House:
+  (f) to undertake and encourage the collection and dissemination of information relating to the environment:
+  (g) to encourage preventive measures and remedial actions for the protection of the environment.
+(2) For the purposes of any inquiry held under subsection (1)(e), the Commissioner shall have the same powers as are conferred on commissions of inquiry by section 4 and sections 4B to 9 of the Commissions of Inquiry Act 1908; and those sections shall apply to all persons involved in any capacity in any such inquiry as if it were an inquiry conducted by a Commission under that Act.
 (3) The Commissioner shall have, in relation to any such inquiry, and any report on the results of the inquiry, the same immunities and privileges as are possessed by a District Court Judge in the exercise of the Judge's civil jurisdiction.
 
 ### 17 Matters to which regard to be given
 In the performance of the Commissioner's functions the Commissioner, where the Commissioner considers it appropriate, shall have regard, in particular but not exclusively, to—
-  (a) The maintenance and restoration of ecosystems of importance, especially those supporting habitats or rare, threatened, or endangered species of flora or fauna:
-  (b) Areas, landscapes, and structures of aesthetic, archaeological, cultural, historical, recreational, scenic, and scientific value:
-  (c) Any land, water, sites, fishing grounds, or physical or cultural resources, or interests associated with such areas, which are part of the heritage of the tangata whenua and which contribute to their wellbeing:
-  (d) The effects on communities of people of—
-    (i) Actual or proposed changes to natural and physical resources:
-    (ii) The establishment or proposed establishment of new communities:
-  (e) Whether any proposals, policies, or other matters, the consideration of which is within the Commissioner's functions, are likely to—
-    (i) Result in or increase pollution; or
-    (ii) Result in the occurrence, or increase the chances of occurrence, of natural hazards or hazardous substances; or
-    (iii) Result in the introduction of species or genotypes not previously present within New Zealand (including the territorial sea); or
-    (iv) Have features, the environmental effects of which are not certain, and the potential impact of which is such as to warrant further investigation in order to determine the environmental impact of the proposal, policy, or other matter; or
-    (v) Result in the allocation or depletion of any natural and physical resources in a way or at a rate that will prevent the renewal by natural processes of the resources or will not enable an orderly transition to other materials:
-  (f) All reasonably foreseeable effects of any such proposal, policy, or other matter on the environment, whether adverse or beneficial, short term or long term, direct or indirect, or cumulative:
-  (g) Alternative means or methods of implementing or providing for any such proposal, policy, or matter in all or any of its aspects, including the consideration, where appropriate, of alternative sites.
+  (a) the maintenance and restoration of ecosystems of importance, especially those supporting habitats or rare, threatened, or endangered species of flora or fauna:
+  (b) areas, landscapes, and structures of aesthetic, archaeological, cultural, historical, recreational, scenic, and scientific value:
+  (c) any land, water, sites, fishing grounds, or physical or cultural resources, or interests associated with such areas, which are part of the heritage of the tangata whenua and which contribute to their well-being:
+  (d) the effects on communities of people of—
+    (i) actual or proposed changes to natural and physical resources:
+    (ii) the establishment or proposed establishment of new communities:
+  (e) whether any proposals, policies, or other matters, the consideration of which is within the Commissioner's functions, are likely to—
+    (i) result in or increase pollution; or
+    (ii) result in the occurrence, or increase the chances of occurrence, of natural hazards or hazardous substances; or
+    (iii) result in the introduction of species or genotypes not previously present within New Zealand (including the territorial sea); or
+    (iv) have features, the environmental effects of which are not certain, and the potential impact of which is such as to warrant further investigation in order to determine the environmental impact of the proposal, policy, or other matter; or
+    (v) result in the allocation or depletion of any natural and physical resources in a way or at a rate that will prevent the renewal by natural processes of the resources or will not enable an orderly transition to other materials:
+  (f) all reasonably foreseeable effects of any such proposal, policy, or other matter on the environment, whether adverse or beneficial, short term or long term, direct or indirect, or cumulative:
+  (g) alternative means or methods of implementing or providing for any such proposal, policy, or matter in all or any of its aspects, including the consideration, where appropriate, of alternative sites.
 
 ### 18 Powers of Commissioner
 The Commissioner shall have such powers as may be necessary to enable the Commissioner to carry out the Commissioner's functions under this Act.
@@ -145,13 +145,13 @@ The Commissioner shall have such powers as may be necessary to enable the Commis
 (1) The Commissioner may from time to time require any person who in the Commissioner's opinion is able to give any information relating to any matter which is being investigated or inquired into by the Commissioner to furnish to the Commissioner any such information and to produce any documents or papers or things which in the Commissioner's opinion relate to any such matter and which may be in the possession or under the control of that person.
 (2) The Commissioner may summon before the Commissioner and examine on oath any person who in the Commissioner's opinion is able to give any such information, and for that purpose may administer an oath. Every such examination by the Commissioner shall be deemed to be a judicial proceeding within the meaning of section 108 of the Crimes Act 1961 (which relates to perjury).
 (3) Any person who is bound by the provisions of any enactment (other than the State Sector Act 1988 and the Official Information Act 1982) to maintain secrecy in relation to any matter or not to disclose any matter shall not be required to—if compliance with the requirement would be in breach of the obligation of secrecy or non-disclosure.
-  (a) Supply any information to the Commissioner; or
-  (b) Answer any question put by the Commissioner; or
-  (c) Produce any document, paper, or thing to the Commissioner—
-(4) Every person shall have the same privileges in relation to the giving of information, the answering of questions, and the production of documents and papers and things in accordance with this section as witnesses have in any Court.
-(5) Except on the trial of any person for perjury within the meaning of the Crimes Act 1961 in respect of his or her sworn testimony, no statement made or answer given by that or any other person in the course of any inquiry by or any proceedings before the Commissioner shall be admissible in evidence against any person in any Court or at any inquiry or in any other proceedings, and no evidence in respect of proceedings before the Commissioner shall be given against any person.
+  (a) supply any information to the Commissioner; or
+  (b) answer any question put by the Commissioner; or
+  (c) produce any document, paper, or thing to the Commissioner—
+(4) Every person shall have the same privileges in relation to the giving of information, the answering of questions, and the production of documents and papers and things in accordance with this section as witnesses have in any court.
+(5) Except on the trial of any person for perjury within the meaning of the Crimes Act 1961 in respect of his or her sworn testimony, no statement made or answer given by that or any other person in the course of any inquiry by or any proceedings before the Commissioner shall be admissible in evidence against any person in any court or at any inquiry or in any other proceedings, and no evidence in respect of proceedings before the Commissioner shall be given against any person.
 (6) No person shall be liable to prosecution for an offence against any enactment, other than this Act, by reason of compliance with any requirement of the Commissioner under this section.
-(7) Where any person is required by the Commissioner to attend before the Commissioner for the purposes of this section, that person shall be entitled to the same fees, allowances, and expenses as if he or she were a witness in a Court, and the provision of any regulations in force under the Summary Proceedings Act 1957 shall apply accordingly. For the purposes of this subsection the Commissioner shall have the powers of a Court under any such regulations to fix or disallow, in whole or in part, or increase the amounts payable thereunder.
+(7) Where any person is required by the Commissioner to attend before the Commissioner for the purposes of this section, that person shall be entitled to the same fees, allowances, and expenses as if he or she were a witness in a court, and the provision of any regulations in force under the Summary Proceedings Act 1957 shall apply accordingly. For the purposes of this subsection the Commissioner shall have the powers of a court under any such regulations to fix or disallow, in whole or in part, or increase the amounts payable thereunder.
 
 ### 20 Commissioner and staff to maintain secrecy, etc
 (1) The Commissioner and every person holding any office or appointment under the Commissioner shall be deemed for the purposes of sections 105 and 105A of the Crimes Act 1961 to be officials.
@@ -160,68 +160,68 @@ The Commissioner shall have such powers as may be necessary to enable the Commis
 
 ### 21 Commissioner's right to be heard in proceedings
 (1) In any proceedings in any way relating to or arising from the obtaining of, or any attempt to obtain, any consent, the Commissioner—but shall have no greater rights than parties to the proceedings in respect of the calling of evidence or evidence in rebuttal, or in respect of the examination, cross-examination, and re-examination of witnesses.
-  (a) Shall have the right to be present and be heard solely for the purpose of calling evidence on any matter (including evidence in rebuttal) that should be taken in account in determining the proceedings:
-  (b) May examine, cross-examine, and re-examine witnesses:
-  (c) May be represented by counsel or by any duly authorised representative—
-(2) Where the Commissioner appears in any proceedings pursuant to any of the provisions of subsection (1) of this section, the Court, Tribunal, or other body before which those proceedings are conducted, where it has power to award costs to or against parties to the proceedings, may make such order as it thinks just—
-  (a) As to the payment by any party to the proceedings of the costs incurred by the Commissioner in so doing; or
-  (b) As to the payment by the Commissioner of any costs incurred by any party to the proceedings by reason of the Commissioner's so doing.
+  (a) shall have the right to be present and be heard solely for the purpose of calling evidence on any matter (including evidence in rebuttal) that should be taken in account in determining the proceedings:
+  (b) may examine, cross-examine, and re-examine witnesses:
+  (c) may be represented by counsel or by any duly authorised representative—
+(2) Where the Commissioner appears in any proceedings pursuant to any of the provisions of subsection (1), the court, tribunal, or other body before which those proceedings are conducted, where it has power to award costs to or against parties to the proceedings, may make such order as it thinks just—
+  (a) as to the payment by any party to the proceedings of the costs incurred by the Commissioner in so doing; or
+  (b) as to the payment by the Commissioner of any costs incurred by any party to the proceedings by reason of the Commissioner's so doing.
 (3) Where any costs are so awarded to the Commissioner, the Commissioner may recover them in the same manner as parties to the proceedings may recover costs awarded to them.
 
 ### 22 Delegation of functions and powers
 (1) The Commissioner may from time to time, either generally or in respect of a specified matter or class of matters and subject to such conditions and restrictions as the Commissioner thinks fit, by writing, delegate any of the Commissioner's functions and powers to an officer or employee of the Commissioner.
-(2) The Commissioner shall keep at the Commissioner's office a copy of every instrument by which a delegation under subsection (1) of this section is effected, and shall permit any person to inspect that instrument.
-(3) Notwithstanding subsection (1) of this section, the Commissioner shall not delegate the following powers or functions:
-  (a) The power of delegation conferred by that subsection; or
+(2) The Commissioner shall keep at the Commissioner's office a copy of every instrument by which a delegation under subsection (1) is effected, and shall permit any person to inspect that instrument.
+(3) Notwithstanding subsection (1), the Commissioner shall not delegate the following powers or functions:
+  (a) the power of delegation conferred by that subsection; or
   (b)
   (c)
-  (d) The power to act as a Commission of Inquiry under section 16(2) of this Act; or
-  (e) The function of reporting to the House of Representatives.
+  (d) the power to act as a commission of inquiry under section 16(2); or
+  (e) the function of reporting to the House of Representatives.
 (4) Any delegation under this section may be made to—
-  (a) A specified person; or
-  (b) A person of a specified class; or
-  (c) The holder for the time being of a specified office or appointment; or
-  (d) The holders for the time being of offices or appointments of a specified class.
+  (a) a specified person; or
+  (b) a person of a specified class; or
+  (c) the holder for the time being of a specified office or appointment; or
+  (d) the holders for the time being of offices or appointments of a specified class.
 (5) Subject to any general or special directions given or conditions or restrictions imposed by the Commissioner, the person to whom any functions and powers are delegated may perform and exercise them in the same manner and with the same effect as if they had been conferred directly by this Act and not by delegation.
 (6) Where the Commissioner or any delegate of the Commissioner uses a written document to inform any other person of action taken by a delegate of the Commissioner, that written document—
-  (a) Shall state that the action was taken by a delegate of the Commissioner; and
-  (b) Shall give the delegate's name and office; and
-  (c) Shall inform that other person that a copy of the instrument of delegation may be inspected at the office of the Commissioner.
+  (a) shall state that the action was taken by a delegate of the Commissioner; and
+  (b) shall give the delegate's name and office; and
+  (c) shall inform that other person that a copy of the instrument of delegation may be inspected at the office of the Commissioner.
 (7) Every delegation under this section shall be revocable at will, but any such revocation shall not take effect until it has been communicated to the delegate.
 (8) A delegation under this section shall not prevent the performance or exercise of any function or power by the Commissioner.
 (9) Until any such delegation is revoked, it shall continue in force according to its tenor. If the Commissioner by whom it was made ceases to hold office, it shall continue to have effect as if made by the Commissioner's successor.
 
 ### 22A Proceedings privileged
 (1) This section applies to—
-  (a) The Commissioner; and
-  (b) Every person engaged or employed in connection with the work of the Commissioner.
-(2) Subject to subsection (3) of this section—
-  (a) No proceedings, civil or criminal, shall lie against any person to whom this section applies for anything he or she may do or report or say in the course of the exercise or intended exercise of his or her duties under this Act, unless it is shown that he or she acted in bad faith:
-  (b) No person to whom this section applies shall be required to give evidence in any court, or in any proceedings of a judicial nature, in respect of anything coming to his or her knowledge in the exercise of his or her functions.
-(3) Nothing in subsection (2) of this section applies in respect of proceedings for—
-  (a) An offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961; or
-  (b) The offence of conspiring to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961; or
-  (c) The offence of attempting to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961.
+  (a) the Commissioner; and
+  (b) every person engaged or employed in connection with the work of the Commissioner.
+(2) Subject to subsection (3)—
+  (a) no proceedings, civil or criminal, shall lie against any person to whom this section applies for anything he or she may do or report or say in the course of the exercise or intended exercise of his or her duties under this Act, unless it is shown that he or she acted in bad faith:
+  (b) no person to whom this section applies shall be required to give evidence in any court, or in any proceedings of a judicial nature, in respect of anything coming to his or her knowledge in the exercise of his or her functions.
+(3) Nothing in subsection (2) applies in respect of proceedings for—
+  (a) an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961; or
+  (b) the offence of conspiring to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961; or
+  (c) the offence of attempting to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961.
 (4) Anything said or information supplied or any document or thing produced by any person in the course of any inquiry by or proceedings before the Commissioner under this Act shall be privileged in the same manner as if the inquiry or proceedings were proceedings in a court.
-(5) For the purposes of clause 3 of Part 2 of Schedule 1 to the Defamation Act 1992, any report made under this Act by the Commissioner shall be deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
+(5) For the purposes of clause 3 of Part 2 of Schedule 1 of the Defamation Act 1992, any report made under this Act by the Commissioner shall be deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
 
 ### 23 Annual report
 Without limiting the right of the Commissioner to report at any other time, the Commissioner shall in each year make a report to the House of Representatives on the performance of the Commissioner's functions under this Act and on any other matter the Commissioner considers appropriate.
 
 ### 24 Offences
 Every person commits an offence against this Act and is liable on summary conviction to a fine not exceeding $1,000 who—
-  (a) Without lawful justification or excuse, wilfully obstructs, hinders, or resists the Commissioner or any other person in the exercise of his or her powers under this Part of this Act:
-  (b) Without lawful justification or excuse, refuses or wilfully fails to comply with any lawful requirement of the Commissioner or any other person under this Part of this Act:
-  (c) Wilfully makes any false statement to or wilfully misleads or attempts to mislead the Commissioner or any other person in the exercise of his or her powers under this Part of this Act:
-  (d) Represents directly or indirectly that he or she holds any authority under this Part of this Act when he or she does not hold that authority.
+  (a) without lawful justification or excuse, wilfully obstructs, hinders, or resists the Commissioner or any other person in the exercise of his or her powers under this Part:
+  (b) without lawful justification or excuse, refuses or wilfully fails to comply with any lawful requirement of the Commissioner or any other person under this Part:
+  (c) wilfully makes any false statement to or wilfully misleads or attempts to mislead the Commissioner or any other person in the exercise of his or her powers under this Part:
+  (d) represents directly or indirectly that he or she holds any authority under this Part when he or she does not hold that authority.
 
-### 25 Money to be appropriated by Parliament for purposes of this Part of Act
-Except as otherwise provided in this Part of this Act, all salaries and allowances and other expenditure payable or incurred under or in the administration of this Part of this Act shall be payable out of money to be appropriated by Parliament for the purpose.
+### 25 Money to be appropriated by Parliament for purposes of this Part
+Except as otherwise provided in this Part, all salaries and allowances and other expenditure payable or incurred under or in the administration of this Part shall be payable out of money to be appropriated by Parliament for the purpose.
 
 ### 26 Audit
 (1) The House of Representatives shall appoint an auditor to audit the accounts of the Office of the Parliamentary Commissioner for the Environment.
 (2)
-(3) In carrying out the functions conferred by this section, the auditor shall have the same functions, duties, and powers as the Audit Office.
+(3) In carrying out the functions conferred by this section, the auditor shall have the same functions, duties, and powers as the Auditor-General.
 
 ### 27 Amending Official Information Act 1982
 [Repealed]
@@ -240,24 +240,24 @@ There shall from time to time be appointed, under the State Sector Act 1988, suc
 
 ### 31 Functions of Ministry
 The Ministry shall have the following functions:
-  (a) To advise the Minister on all aspects of environmental administration, including—
-    (i) Policies for influencing the management of natural and physical resources and ecosystems so as to achieve the objectives of this Act:
-    (ii) Significant environmental impacts of public or private sector proposals, particularly those that are not adequately covered by legislative or other environmental assessment requirements currently in force:
-    (iii) Ways of ensuring that effective provision is made for public participation in environmental planning and policy formulation processes in order to assist decision making, particularly at the regional and local level:
-  (b) To solicit and obtain information from any source, and to conduct and supervise research, so far as it is necessary for the formulation of advice to the Government on environmental policies:
-  (c) To provide the Government, its agencies, and other public authorities with advice on—
-    (i) The application, operation, and effectiveness of the Acts specified in the Schedule to this Act in relation to the achievement of the objectives of this Act:
-    (ii) Procedures for the assessment and monitoring of environmental impacts:
-    (iii) Pollution control and the co-ordination of the management of pollutants in the environment:
-    (iv) The identification and likelihood of natural hazards and the reduction of the effects of natural hazards:
-    (v) The control of hazardous substances, including the management of the manufacture, storage, transport, and disposal of hazardous substances:
-  (d) To facilitate and encourage the resolution of conflict in relation to policies and proposals which may affect the environment:
-  (e) To provide and disseminate information and services to promote environmental policies, including environmental education and mechanisms for promoting effective public participation in environmental planning:
-  (f) Generally to provide advice on matters relating to the environment:
+  (a) to advise the Minister on all aspects of environmental administration, including—
+    (i) policies for influencing the management of natural and physical resources and ecosystems so as to achieve the objectives of this Act:
+    (ii) significant environmental impacts of public or private sector proposals, particularly those that are not adequately covered by legislative or other environmental assessment requirements currently in force:
+    (iii) ways of ensuring that effective provision is made for public participation in environmental planning and policy formulation processes in order to assist decision making, particularly at the regional and local level:
+  (b) to solicit and obtain information from any source, and to conduct and supervise research, so far as it is necessary for the formulation of advice to the Government on environmental policies:
+  (c) to provide the Government, its agencies, and other public authorities with advice on—
+    (i) the application, operation, and effectiveness of the Acts specified in the Schedule in relation to the achievement of the objectives of this Act:
+    (ii) procedures for the assessment and monitoring of environmental impacts:
+    (iii) pollution control and the co-ordination of the management of pollutants in the environment:
+    (iv) the identification and likelihood of natural hazards and the reduction of the effects of natural hazards:
+    (v) the control of hazardous substances, including the management of the manufacture, storage, transport, and disposal of hazardous substances:
+  (d) to facilitate and encourage the resolution of conflict in relation to policies and proposals which may affect the environment:
+  (e) to provide and disseminate information and services to promote environmental policies, including environmental education and mechanisms for promoting effective public participation in environmental planning:
+  (f) generally to provide advice on matters relating to the environment:
   (g) to carry out any other functions that may be conferred on the Ministry by any enactment.
 
 ### 32 Matters to which regard to be given
-In carrying out the Ministry's functions, every officer and employee of the Ministry, so far as is practicable, shall have regard to the matters set out in section 17(a) to (g) of this Act.
+In carrying out the Ministry's functions, every officer and employee of the Ministry, so far as is practicable, shall have regard to the matters set out in section 17(a) to (g).
 
 ### 33 Committees
 (1) The Minister may from time to time appoint such committees comprising 1 or more members as the Minister thinks fit to advise or otherwise assist the Minister or the Secretary on such matters relating to the functions of the Minister or the Ministry as the Minister may specify.
@@ -265,14 +265,14 @@ In carrying out the Ministry's functions, every officer and employee of the Mini
 (3) Subject to any directions given to it by the Minister, every committee may regulate its own procedure.
 (4) Every such committee is hereby declared to be a statutory Board within the meaning of the Fees and Travelling Allowances Act 1951.
 (5) There may, if the Minister so directs, be paid to any member of a committee, out of money appropriated by Parliament for the purpose,—and the provisions of that Act shall apply accordingly.
-  (a) Remuneration by way of fees, salary, or allowances in accordance with the Fees and Travelling Allowances Act 1951; and
-  (b) Travelling allowances and travelling expenses in accordance with that Act in respect of time spent travelling in the service of such committee—
+  (a) remuneration by way of fees, salary, or allowances in accordance with the Fees and Travelling Allowances Act 1951; and
+  (b) travelling allowances and travelling expenses in accordance with that Act in respect of time spent travelling in the service of such committee—
 (6) No person shall, by reason only of being a member of a committee, be regarded as being employed in the State services for the purposes of the State Sector Act 1988 or in the Government service for the purposes of the Government Superannuation Fund Act 1956.
 
 ### 34 Annual report
 [Repealed]
 
 ### 35 Ombudsmen Act 1975 amended
-Part 1 of Schedule 1 to the Ombudsmen Act 1975 is hereby amended by inserting, after the item relating to the Ministry of Energy, the following item:The Ministry for the Environment.
+Amendment(s) incorporated in the Act(s).
 
 ## Schedule Schedule — Acts under which consents may be granted
