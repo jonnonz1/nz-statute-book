@@ -1,5 +1,5 @@
 # Transport Accident Investigation Commission Act 1990
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-08-01_
 
 > An Act—aTo establish the Transport Accident Investigation Commission, and to define its functions, duties, and powers; andbTo regulate the disclosure and admissibility of certain transport accident or incident investigation information.
 
@@ -29,7 +29,7 @@ In this Part of this Act, unless the context otherwise requires,—
     (a) In relation to aviation, has the same meaning as in section 2 of the Civil Aviation Act 1990; and
     (b) in relation to rail transport, has the same meaning as in section 4(1) of the Railways Act 2005; and
     (c) In relation to maritime transport, has the same meaning as in section 2(1) of the Maritime Transport Act 1994:
-  - **Land Transport Authority** means Land Transport New Zealand established by section 66 of the Land Transport Management Act 2003
+  - **Land Transport Authority** means the New Zealand Transport Agency established by section 93 of the Land Transport Management Act 2003
   - **Maritime New Zealand** means the authority continued by section 429 of the Maritime Transport Act 1994
   - **Maritime product** has the same meaning as in section 2(1) of the Maritime Transport Act 1994
   - **Minister** means the Minister of Transport
@@ -86,7 +86,7 @@ The provisions of the Schedule to this Act shall apply in relation to the Commis
   (c) To prepare and publish findings and recommendations (if any) in respect of any such investigation:
   (d) If requested by the Minister, to deliver a written report on each investigation to the Minister, including any recommendations for changes and improvements that it considers will ensure the avoidance of accidents and incidents in the future:
   (e) To co-operate and co-ordinate with other accident investigation organisations overseas, including taking evidence on their behalf:
-  (f) Where—has not been received, to request from the Civil Aviation Authority, Land Transport New Zealand, or Maritime New Zealand, as the case may be, such further information as it considers appropriate regarding any accident that the Commission believes is required to be investigated under section 13(1) or section 13(2) of this Act:
+  (f) Where—has not been received, to request from the Civil Aviation Authority, the New Zealand Transport Agency, or Maritime New Zealand, as the case may be, such further information as it considers appropriate regarding any accident that the Commission believes is required to be investigated under section 13(1) or section 13(2) of this Act:
     (i) A notification under section 27 of the Civil Aviation Act 1990; or
     (ii) A notification under section 13(4) of the Railways Act 2005; or
     (iii) A notification under section 60 of the Maritime Transport Act 1994—
@@ -98,13 +98,13 @@ The provisions of the Schedule to this Act shall apply in relation to the Commis
 ### 9 Commission may make reports to Authority and give notice where appropriate
 (1) The Commission may make such preliminary reports and recommendations to—as the case may be, as may be necessary in the interests of transport safety.
   (a) The Civil Aviation Authority, in the case of aviation accidents and incidents; or
-  (b) Land Transport New Zealand, in the case of rail accidents and incidents; or
+  (b) the New Zealand Transport Agency, in the case of rail accidents and incidents; or
   (c) Maritime New Zealand, in the case of maritime accidents and incidents,—
 (2) The Commission may give such notice of any preliminary report or recommendation to such persons as may be appropriate in the interests of transport safety.
 (3) The Commission shall make available to the Secretary any preliminary report or recommendation that has major consequences for transport safety.
 
 ### 10 Commission to notify Authority of accidents and incidents not being investigated
-The Commission shall notify the Civil Aviation Authority, Land Transport New Zealand, or Maritime New Zealand, as the case may require, of every accident or incident that—
+The Commission shall notify the Civil Aviation Authority, the New Zealand Transport Agency, or Maritime New Zealand, as the case may require, of every accident or incident that—
   (a) Is reported to the Commission; and
   (b) Either—
     (i) Is outside the scope of the Commission's jurisdiction; or
@@ -153,13 +153,13 @@ The Commission shall notify the Civil Aviation Authority, Land Transport New Zea
 (6) Where an accident or incident has not been notified to the Commission in accordance with section 27 of the Civil Aviation Act 1990 or section 13(4) of the Railways Act 2005 or section 60 of the Maritime Transport Act 1994, the Minister may,—direct the Commission to investigate the accident or incident, and in any such case, the Commission shall do so.
   (a) Where the Commission has decided not to investigate the accident or incident under subsection (5) of this section; or
   (b) Where the accident is one that the Minister would direct the Commission to investigate under subsection (2) of this section if the accident had been notified to the Commission,—
-(7) Where the Commission intends to undertake an investigation under this section, the Commission shall notify the Civil Aviation Authority, Land Transport New Zealand, or Maritime New Zealand, as the case may require, of its intention as soon as practicable.
+(7) Where the Commission intends to undertake an investigation under this section, the Commission shall notify the Civil Aviation Authority, the New Zealand Transport Agency, or Maritime New Zealand, as the case may require, of its intention as soon as practicable.
 (8) For the purpose of subsection (3) of this section, military means with respect to any transport related thing, a transport related thing operated by the New Zealand Defence Force or a visiting force.
 
 ### 14 Conduct of investigation
 (1) When an accident or incident is under investigation by the Commission, the Commission shall be in charge of that investigation.
 (2) The Commission shall permit the participation or representation of such foreign organisations in any investigation as is provided for in the Convention.
-(3) Except with the consent of the Commission, which consent shall not be unreasonably withheld no other person (including the Civil Aviation Authority, Land Transport New Zealand, and Maritime New Zealand) shall—
+(3) Except with the consent of the Commission, which consent shall not be unreasonably withheld no other person (including the Civil Aviation Authority, the New Zealand Transport Agency, and Maritime New Zealand) shall—
   (a) Participate in any investigation being undertaken by the Commission; or
   (b) Undertake any independent investigation at the site of any accident or incident being investigated by the Commission; or
   (c) Examine or cause to be examined any material removed from the site of any accident or incident being investigated by the Commission; or
