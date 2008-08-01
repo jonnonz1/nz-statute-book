@@ -1,5 +1,5 @@
 # Juries Act 1981
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-08-01_
 
 > An Act to consolidate and reform the law relating to juries
 
@@ -71,7 +71,7 @@ The following persons shall not serve on any jury in any Court on any occasion:
   (c) Judges of the High Court, Masters of the High Court, Judges of the Employment Court, Judges and Commissioners of the Maori Land Court, District Court Judges and Community Magistrates:
   (d) Visiting Justices under the Corrections Act 2004, and members of the Parole Board:
   (e) Justices who have agreed to make themselves available from time to time to exercise the summary jurisdiction of District Courts:
-  (f) Barristers and solicitors holding current practising certificates under the Law Practitioners Act 1955:
+  (f) lawyers within the meaning of the Lawyers and Conveyancers Act 2006:
   (g) Members of the Police, and Traffic Officers:
   (h) an employee of the Public Service who is employed—
     (i) in the Ministry of Justice; or
