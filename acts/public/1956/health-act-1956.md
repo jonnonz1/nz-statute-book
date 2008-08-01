@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2008-07-01_
+_Consolidation as at 2008-08-01_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -248,7 +248,7 @@ In this section and sections 22C to 22H of this Act, unless the context otherwis
     (i) Administering this Act or the Hospitals Act 1957; or
     (ii) Compiling statistics for health purposes:
   (h) Any employee of the Ministry of Agriculture and Forestry authorised by the chief executive of that Ministry to receive the information, for the purposes of administering the Meat Act 1981 or the Animal Products Act 1999:
-  (i) Any employee of Land Transport New Zealand, for statistical or research purposes in relation to road safety or the environment:
+  (i) Any employee of the New Zealand Transport Agency, for statistical or research purposes in relation to road safety or the environment:
   (j) any employee of a district health board, for the purposes of exercising or performing any of that board's powers, duties, or functions under the New Zealand Public Health and Disability Act 2000.
 (3) For the purposes of principle 11(d) of the Privacy Act 1993, the disclosure of health information about an individual may be authorised—
   (a) By that individual personally, if he or she has attained the age of 16 years; or
