@@ -1,5 +1,5 @@
 # Health and Safety in Employment Act 1992
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2008-08-01_
 
 > An Act to reform the law relating to the health and safety of employees, and other people at work or affected by the work of other people
 
@@ -901,7 +901,7 @@ In a matter involving an infringement notice or in a prosecution for an offence 
 (2) The Secretary must ensure that the person who sent the notice is notified of—
   (a) any decision already made, or subsequently made, by an inspector as to whether or not to take enforcement action in respect of the matter, but not the reasons for the decision; and
   (b) any information that the Secretary is aware of relating to whether an enforcement authority has taken prosecution action as described in section 54A(2)(b).
-(3) In this section and section 54A, enforcement authority includes the New Zealand Police, the Civil Aviation Authority, Land Transport New Zealand, and Maritime New Zealand.
+(3) In this section and section 54A, enforcement authority includes the New Zealand Police, the Civil Aviation Authority, the New Zealand Transport Agency, and Maritime New Zealand.
 
 ### 54A Laying information
 (1) An inspector may lay an information in respect of an offence under this Act unless an infringement notice has been issued to the same defendant in respect of the same matter.
