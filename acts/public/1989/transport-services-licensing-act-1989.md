@@ -1,5 +1,5 @@
 # Transport Services Licensing Act 1989
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2008-08-01_
 
 > An Act to reform the law relating to land transport licensing
 
@@ -10,17 +10,18 @@ _Consolidation as at 2007-10-01_
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **Accident**
+  - **Agency** means the New Zealand Transport Agency established under section 93 of the Land Transport Management Act 2003
   - **Approved safety system**
-  - **Approved taxi organisation** means a taxi organisation approved or deemed to be approved by the Director under section 21 of this Act
-  - **Authority** means Land Transport New Zealand established by section 66 of the Land Transport Management Act 2003
+  - **Approved taxi organisation** means a taxi organisation approved or deemed to be approved by the Agency under section 21 of this Act
   - **Business location** , in relation to any matter required by this Act to be displayed on any vehicle, means—
     (a) In the case of a licence holder, operator, or approved taxi organisation which has its base location in an urban area, the location of that base by reference to the town or city, and the suburb (if any), in which it is situated:
     (b) In any other case, any description of location by which the base location of the licence holder, operator, or organisation can be easily identified, whether by reference to any road and area, or by reference to the nearest urban area:
   - **Control** , in relation to a transport service or a proposed or approved taxi organisation, means direct or indirect control of the management of the whole or part of the transport service or taxi organisation by shareholding or the holding of any position (however described) in the management of the whole or part of the transport service or taxi organisation that gives the person a significant influence on the operation of the whole or part of the service or organisation (whether or not other persons are also involved)
   - **Designated stand** means an area designated by a territorial authority as an area in which small passenger service vehicles, being vehicles that are identified by signs as taxis and that are indicating their availability for hire, may wait for hires
-  - **Director** means the Director of Land Transport appointed under section 186 of the Land Transport Act 1998
   - **Driver identification card** means the driver identification card required by section 19 of this Act to be held by the driver of a small passenger service vehicle or a vehicle recovery service vehicle
-  - **Enforcement officer** means the Director or any constable or traffic officer; and includes any officer of the Authority acting pursuant to a delegation from the Director. Any person claiming or appearing to be acting pursuant to any such delegation shall, in the absence of evidence to the contrary, be presumed to be so acting
+  - **enforcement officer** —
+    (a) means any constable or traffic officer; and
+    (b) includes any officer of the Agency acting pursuant to a delegation from the Agency, and any person claiming or appearing to be acting pursuant to any such delegation is, in the absence of evidence to the contrary, presumed to be so acting
   - **Goods service** —
     (a) Means—
       (i) The carriage of goods on any road, whether or not for hire or reward, by means of a motor vehicle whose gross laden weight is 6,000 kilograms or more; and
@@ -74,7 +75,6 @@ _Consolidation as at 2007-10-01_
   - **Small passenger service vehicle** means any passenger service vehicle that is designed or adapted to carry 12 or fewer persons (including the driver)
   - **Taxi** means a small passenger service vehicle that is being operated under a passenger service licence but is not for the time being exempt from the provisions of any of rules 3(1), 12(1), 16(1), and 19 of Part 1 of Schedule 3 to this Act
   - **Traffic officer** means an enforcement officer under the Land Transport Act 1998
-  - **Transit** means the body corporate called Transit that is continued by section 75 of the Land Transport Management Act 2003.
   - **Transit New Zealand**
   - **Transport service** —
     (a) Means any goods service, passenger service, rental service, or vehicle recovery service; but
@@ -94,7 +94,7 @@ _Consolidation as at 2007-10-01_
       (i) The towing or carrying is not carried out directly or indirectly for reward; and
       (ii) The towing or carrying vehicle is not designed or adapted for the purpose of towing or carrying motor vehicles; or
     (c) The towing or carrying of a vehicle by a person who owns the vehicle; or
-    (d) Any service where the Director has in writing notified the operator that the nature of the service is such that the carriage of vehicles should be treated as the carriage of goods; or
+    (d) Any service where the Agency has in writing notified the operator that the nature of the service is such that the carriage of vehicles should be treated as the carriage of goods; or
     (e) Any service specified as an exempt service in Part 1 of Schedule 1 to this Act or in regulations referred to in that Part:
   - **Vehicle recovery service licence** means a licence granted or deemed to be granted under section 8 or section 9 of this Act that authorises its holder to carry on a vehicle recovery service
   - **Vehicle recovery service vehicle** means a vehicle used or available for use in a vehicle recovery service for towing or carrying on a road any motor vehicle; but does not include any vehicle specified as an exempt vehicle in Part 2 of Schedule 1 to this Act or in regulations referred to in that Part.
@@ -107,7 +107,7 @@ _Consolidation as at 2007-10-01_
   (a) The Armed Forces; or
   (b) The Fire Services Commission; or
   (c) The Police; or
-  (d) Any emergency service organisation approved by the Director for the purposes of this section,—
+  (d) Any emergency service organisation approved by the Agency for the purposes of this section,—
 
 ### 3A Application of Act to rail service operators
 [Repealed]
@@ -364,7 +364,7 @@ _Consolidation as at 2007-10-01_
   (c) May specify any other matters the regional council or territorial authority thinks fit.
 
 ### 48 Passenger services operated on or after 1 July 1991 to be notified to regional council
-(1) Except as provided in subsection (4) of this section, every person who proposes to operate a passenger service on or after the 1st day of July 1991 shall, not later than 21 days before the service is to be commenced, and earlier if possible, notify details of the service, including routes or areas of operation, timetables or operating hours, fares, and such other matters as may be required by the Director or the regional council, to every regional council in whose region the service is to operate.
+(1) Except as provided in subsection (4) of this section, every person who proposes to operate a passenger service on or after the 1st day of July 1991 shall, not later than 21 days before the service is to be commenced, and earlier if possible, notify details of the service, including routes or areas of operation, timetables or operating hours, fares, and such other matters as may be required by the Agency or the regional council, to every regional council in whose region the service is to operate.
 (2) Except in the case of notices to which section 56(3A) of this Act applies, no notice under this section shall be given before the 1st day of December 1990.
 (3) With the consent of the regional council concerned, any notice required by this section to be given by any person may—
   (a) Be given by an organisation on behalf of the person; and
@@ -473,16 +473,16 @@ Every regional council that registers details of any service under this Part of 
 (2) Any notice or other document so sent by post or registered post shall be deemed to have been given, served, or received 7 days after the date on which it was posted, unless the person to whom it was posted proves that, otherwise than through that person's fault, the notice or document was not received.
 
 ### 62 Information for offences
-(1) Every information for an offence against Part 1 of this Act shall be laid by the Director or an enforcement officer.
+(1) Every information for an offence against Part 1 of this Act shall be laid by the Agency or an enforcement officer.
 (2) In the absence of proof to the contrary it shall be presumed that every information for an offence against Part 1 of this Act has been laid by a person authorised to do so under subsection (1) of this section.
 
 ### 63 Evidence and proof
 In any proceedings for an offence against this Act—
   (a) If it is proved that passengers or goods were carried in or on any motor vehicle, the passengers or goods shall be deemed to have been carried in such a manner as to bring the motor vehicle under the requirements of this Act unless the defendant satisfies the Court to the contrary:
-  (b) Any licence or other document issued under this Act or any regulations in force under this Act may be proved by the production of a copy of the licence or document certified to be correct and signed by the Director or by an officer of the Authority authorised in that behalf by the Director:
-  (c) Evidence of the contents of the register maintained under section 29 of this Act may be given by a certificate signed by the Director or any officer of the Authority authorised in that behalf by the Director; and every such certificate shall be sufficient evidence of the matters stated in it, until the contrary is proved:
-  (d) The production of a certificate signed by the Director or by an officer of the Authority authorised in that behalf by the Director to the effect that on a specified date a person was or was not the holder of any transport service licence or any specified type of transport service licence shall be sufficient evidence of the matter certified, until the contrary is proved:
-  (e) Until the contrary is proved, it shall be presumed that every certificate purporting to have been certified or given under this section has been certified or given by the Director or by an officer of the Authority authorised by the Director to certify documents or give certificates under this section.
+  (b) Any licence or other document issued under this Act or any regulations in force under this Act may be proved by the production of a copy of the licence or document certified to be correct and signed by an officer of the Agency authorised in that behalf by the Agency:
+  (c) Evidence of the contents of the register maintained under section 29 of this Act may be given by a certificate signed by an officer of the Agency authorised in that behalf by the Agency; and every such certificate shall be sufficient evidence of the matters stated in it, until the contrary is proved:
+  (d) The production of a certificate signed by an officer of the Agency authorised in that behalf by the Agency to the effect that on a specified date a person was or was not the holder of any transport service licence or any specified type of transport service licence shall be sufficient evidence of the matter certified, until the contrary is proved:
+  (e) Until the contrary is proved, it shall be presumed that every certificate purporting to have been certified or given under this section has been certified or given by an officer of the Agency authorised by the Agency to certify documents or give certificates under this section.
 
 ### 63A Power to inspect records
 (1) For the purpose of ascertaining whether the provisions of this Act have been or are being complied with by any person to whom this Act applies, any enforcement officer may require that person to produce for inspection any books or records in that person's possession or over which that person has control, including (but not limited to) logbooks, records associated with logbooks, financial records relating to expenditure on fuel, invoices, vehicle maintenance records, depreciation records for vehicles, time and wage records, and waybills.
@@ -492,7 +492,7 @@ In any proceedings for an offence against this Act—
 The provisions of this Act are in addition to and shall not derogate from the provisions of any other Act relating to the licensing, control, or taxation of vehicles or persons using vehicles.
 
 ### 65 Application of fees, etc
-All fees and other money (not being fines, infringement fees, or other penalties) received or recovered for the purposes of this Act shall be paid or credited to the Authority.
+All fees and other money (not being fines, infringement fees, or other penalties) received or recovered for the purposes of this Act shall be paid or credited to the Agency.
 
 ### 66 Regulations
 The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
@@ -558,7 +558,7 @@ The Governor-General may from time to time, by Order in Council, amend Schedule 
 (3) Subject to subsections (4) and (5) of this section and section 71 of this Act, all proceedings that at the commencement of this section are before the bodies abolished by subsection (1) of this section shall lapse.
 (4) Where any appeal before the Licensing Appeal Authority has not been determined before the 1st day of November 1989, that appeal shall stand referred to the District Court nearest to the place where the appeal was filed; and that Court and any other District Court to which the matter may be transferred shall have the same jurisdiction in the matter as the Licensing Appeal Authority would have had if it had not been abolished.
 (5) Any proceedings under section 140 or section 141 of the Transport Act 1962 that have not been completed before the 1st day of November 1989 shall stand referred to and may be continued before the Transitional Licensing Authority as if that Authority were the Licensing Authority before which the proceedings were commenced.
-(6) Nothing in subsection (4) or subsection (5) of this section shall derogate from or affect the power of the Director under this Act to revoke, suspend, or otherwise deal with in accordance with the provisions of this Act any licence that is the subject of proceedings referred to in those subsections.
+(6) Nothing in subsection (4) or subsection (5) of this section shall derogate from or affect the power of the Agency under this Act to revoke, suspend, or otherwise deal with in accordance with the provisions of this Act any licence that is the subject of proceedings referred to in those subsections.
 (7) This section shall come into force on the 1st day of November 1989.
 
 ### 71 Certain decisions of Licensing Authorities to continue to have effect
