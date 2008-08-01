@@ -1,5 +1,5 @@
 # Education Amendment Act 1990
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-08-01_
 
 > An Act to reform further the administration of education and, in particular, to reform tertiary education and training with a view to—aGiving tertiary institutions as much independence and freedom to make academic, operational, and management decisions as is consistent with the nature of the services they provide, the efficient use of national resources, the national interest and the demands of accountability; andbEstablishing a consistent approach to the recognition of qualifications in academic and vocational areas: andcEncouraging greater participation in tertiary education and training, in particular by removing barriers to access for those groups of persons who have previously been under-represented; anddContributing to a dynamic and satisfying society by promoting excellence in tertiary education, training, and research
 
