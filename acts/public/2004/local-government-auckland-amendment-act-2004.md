@@ -1,5 +1,5 @@
 # Local Government (Auckland) Amendment Act 2004
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2008-08-01_
 
 ### 1 Title
 (1) This Act is the Local Government (Auckland) Amendment Act 2004.
@@ -58,7 +58,7 @@ The purpose of this Act is—
   - **rights** includes powers, privileges, interests, leases, licences, approvals, consents, designations, permissions, dispensations, authorisations, benefits, and equities of any kind, whether actual, contingent, or prospective
   - **stormwater grant** means a legally enforceable agreement to give money to be used for stormwater purposes
   - **transport grant** means a legally enforceable agreement to give money to be used for land transport purposes.
-(2) In this Act, unless the context otherwise requires, activity, activity class, affected community, approved activity, approved organisation, land transport, land transport disbursement account, land transport options and alternatives, land transport programme, national land transport account, national land transport programme, public transport service, regional land transport strategy, Transfund, and Transit, have the same meaning as in section 5 of the Land Transport Management Act 2003.
+(2) In this Act, unless the context otherwise requires, activity, activity class, affected community, approved activity, approved organisation, balance of the fund, land transport, land transport disbursement account, land transport options and alternatives, land transport programme, national land transport fund, national land transport programme, public transport service, and regional land transport strategy, have the same meaning as in section 5 of the Land Transport Management Act 2003.
 
 ### 5 Act binds the Crown
 This Act binds the Crown.
@@ -107,14 +107,14 @@ The purpose of this Part is to—
     (iii) perform the functions of the regional council for the Auckland Region under the Transport Services Licensing Act 1989, as if it were a regional council for the purposes of that Act; and
     (iv) assume responsibility for the approved activities of ARC under the national land transport programme at that date other than activities relating to the exercise of ARC's powers under sections 175 to 182 of the Land Transport Act 1998; and
   (b) in relation to the financial year that commenced on 1 July 2004, to complete (as if it were ARC before the commencement of this section) the land transport programme for the Auckland land transport system under the Land Transport Management Act 2003 for the next financial year; and
-  (c) in relation to each financial year commencing on or after 1 July 2005, to prepare for the next financial year a land transport programme for the Auckland land transport system that includes all of ARTA' s activities under this Act in accordance with the Land Transport Management Act 2003; and
-  (d) to seek and receive funding for the Auckland regional land transport system from sources other than the national land transport account; and
+  (c) to prepare and approve a regional land transport programme for the Auckland land transport system that includes all of ARTA' s activities under this Act in accordance with the Land Transport Management Act 2003; and
+  (d) to seek and receive funding for the Auckland regional land transport system from sources other than the national land transport fund; and
   (e) on and from 1 January 2005, to make payments from the Auckland Regional Land Transport Fund as authorised by this Act or the Land Transport Management Act 2003; and
   (f) on and from 30 June 2007, to undertake and exercise any functions and powers of a road controlling authority that are delegated to it by an Auckland territorial authority under section 37; and
   (g) to carry out research, education, or training in relation to land transport in the Auckland Region; and
   (h) to undertake any other functions that are given to it by this Act or any other Act, or that are incidental and related to, or consequential upon, any of its functions under this Act or any other Act.
-(2) In determining whether to include a particular activity in its land transport programme, ARTA must exercise its judgment independently and in accordance with its statutory obligations.
-(3) Nothing in this Act, the principal Act, the Land Transport Act 1998, the Land Transport Management Act 2003, or any other Act authorises ARC to direct ARTA in relation to its land transport programme.
+(2) In determining whether to include a particular activity in its regional land transport programme, ARTA must exercise its judgment independently and in accordance with its statutory obligations.
+(3) Nothing in this Act, the principal Act, the Land Transport Act 1998, the Land Transport Management Act 2003, or any other Act authorises ARC to direct ARTA in relation to its regional land transport programme.
 
 ### 10 Board of ARTA
 (1) All decisions relating to the operation of ARTA are to be made by or under the authority of the board of ARTA in accordance with this Act and ARTA's statement of intent under section 64 of the principal Act.
@@ -316,8 +316,8 @@ ARH must ensure that its administration costs in any financial year do not excee
   (b) section 27(1) and (2) of the Land Transport Management Act 2003 applies as if ARTA and ARH were local authorities; and
   (c) section 27(3) of the Land Transport Management Act 2003 applies to all public service transport infrastructure and public transport service assets and liabilities vested in ARTA or ARH as if ARTA and ARH were regional councils.
 (2) However, subsection (1)(a) does not apply in relation to—
-  (a) the exercise of powers under sections 175 to 182 of the Land Transport Act 1998; or
-  (b) the raising of funds from sources other than the national land transport account for land transport purposes.
+  (a) the exercise of powers under Schedule 7 of the Land Transport Management Act 2003; or
+  (b) the raising of funds from sources other than the national land transport fund for land transport purposes.
 (3) ARC is not required to use the special consultative procedure in making amendments to its long-term council community plan to make the plan consistent with subsection (1) and section 31(1).
 
 ### 33 ARC to monitor ARTA's and ARH's administration costs
@@ -340,15 +340,12 @@ ARH must ensure that its administration costs in any financial year do not excee
 ARC must provide funds to ARTA to meet the liabilities vested in ARTA by section 29(1)(d).
 
 ### 36 Auckland regional land transport strategy
-From 1 July 2005, ARC's regional land transport strategy, prepared by ARC under section 175 of the Land Transport Act 1998, must not—
-  (a) include reference to activities or their prioritisation; or
-  (b) include any matters other than those specified in section 175(2); or
-  (c) include any regional passenger transport plan under section 175(2)(k).
+[Repealed]
 
 ### 37 Delegation of roading functions and powers to ARTA
 (1) An Auckland territorial authority may, at any time after 30 June 2007 and with the prior approval in writing of ARC and ARTA, delegate in writing to ARTA 1 or more of its functions, duties, and powers under—
   (a) Part 21 of the Local Government Act 1974; or
-  (b) Part 4 of the Transit New Zealand Act 1989, other than the power under section 62 to delegate.
+  (b) Part 4 of the Government Roading Powers Act 1989, other than the power under section 62 to delegate.
 (2) While functions, duties, or powers are delegated to ARTA under subsection (1),—
   (a) the territorial authority is not answerable for any act or default of ARTA in the performance or exercise of any of the delegated functions, duties, or powers; and
   (b) the territorial authority may not perform or exercise any of the delegated functions, duties, or powers without first revoking the delegation.
