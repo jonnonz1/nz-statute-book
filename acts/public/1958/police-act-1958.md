@@ -1,5 +1,5 @@
 # Police Act 1958
-_Consolidation as at 2007-11-29_
+_Consolidation as at 2008-08-01_
 
 > An Act to consolidate and amend the law relating to the establishment and regulation of the Police of New Zealand
 
@@ -852,7 +852,7 @@ The person designated under clause 5 is, in this schedule, referred to as the me
 (5) Where the parties to negotiations are notified under subclause (4), those negotiations lapse.
 
 ### 9 Negotiators
-(1) No barrister or solicitor who holds a practising certificate for the time being in force under the Law Practitioners Act 1982, whether that barrister or solicitor is acting under a power of attorney or otherwise, is allowed to act as a negotiator unless the parties agree.
+(1) No barrister or solicitor who holds a practising certificate for the time being in force under the Lawyers and Conveyancers Act 2006, whether that barrister or solicitor is acting under a power of attorney or otherwise, is allowed to act as a negotiator unless the parties agree.
 (2) Nothing in subclause (1) prevents a person acting as a negotiator where that person is acting substantially as an employer or employee rather than as a barrister or solicitor.
 (3) The mediator may permit any other person to act for a negotiator who is unable to attend any negotiations.
 (4) The powers and functions of the parties to negotiate the claim, and of the mediator, are not affected by any vacancy in the office of negotiator for either party.
