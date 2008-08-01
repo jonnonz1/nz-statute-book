@@ -1,5 +1,5 @@
 # Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-08-01_
 
 ### 1 Title
 This Act is the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003.
@@ -65,7 +65,7 @@ The purposes of this Act are—
   - **guardian** includes a welfare guardian
   - **inmate**
   - **intellectual disability** has the meaning given to it by section 7
-  - **lawyer** means a barrister or solicitor, as those terms are defined in section 2 of the Law Practitioners Act 1982
+  - **lawyer** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **mental disorder** has the same meaning as in the Mental Health (Compulsory Assessment and Treatment) Act 1992
   - **Minister** means the Minister of Health
