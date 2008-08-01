@@ -1,5 +1,5 @@
 # Trans-Tasman Mutual Recognition Act 1997
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-08-01_
 
 > An Act to provide for the recognition in New Zealand of regulatory standards adopted in Australia regarding goods and occupations
 
@@ -57,7 +57,7 @@ _Consolidation as at 2007-12-03_
       (ii) If more than 1 person has the function described in subparagraph (i) in relation to a particular occupation, includes each such person; and
     (b) In relation to barristers and solicitors, means,—
       (i) In relation to admission as a barrister and solicitor, a Registrar or Deputy Registrar of the High Court; and
-      (ii) In relation to the issue of a practising certificate, a District Law Society:
+      (ii) in relation to the issue of a practising certificate, the New Zealand Law Society
   - **The Minister** means the Minister of Commerce
   - **Ministerial council** means a council of Ministers of participating jurisdictions
   - **Occupation** —
@@ -786,32 +786,7 @@ This Act does not apply to any law, or any provision of any law, that relates to
 ## Part 6 — Amendments to Law Practitioners Act 1982
 
 ### 88 Amendments to Law Practitioners Act 1982
-(1) The Law Practitioners Act 1982 is amended by repealing section 44, and substituting the following section:Qualifications
-  (1) A person is qualified for admission as a barrister and solicitor if he or she is in at least 1 of the categories in this section.
-  (2) The first category is persons who—
-    (a) Are at least 20 years old; and
-    (b) Have passed, or been credited with passing, the examination in general knowledge and law prescribed by the Council of Legal Education; and
-    (c) Have all the other qualifications for admission (if any) prescribed by the Council of Legal Education.
-  (3) The second category is persons who—
-    (a) Are at least 20 years old; and
-    (b) Have been admitted as a barrister, solicitor, advocate, or attorney by a superior court in any other country; and
-    (c) Comply with the conditions, hold the qualifications, and pass the examinations required by the Council of the New Zealand Law Society in consultation with the Council of Legal Education.
-  (4) The third category is persons who have been issued with a certificate by a Registrar stating that the candidate has given notice under section 19 of the Trans-Tasman Mutual Recognition Act 1997 to the Registrar acting as a local registration authority under that Act.
-(2) The Law Practitioners Act 1982 is amended by repealing section 46, and substituting the following section:Admission
-  (1) A candidate seeking admission on the ground that he or she is qualified under section 44(2) or section 44(3) must apply to the Court in accordance with this Act and with any rules made under this Act.
-  (2) The Court or a Judge must make an order admitting the candidate as a barrister and solicitor of the Court if—
-    (a) The Court or Judge is satisfied that the candidate—
-      (i) Is qualified for admission under section 44(2) or section 44(3); and
-      (ii) Is of good character and a fit and proper person to be admitted; and
-    (b) The candidate has taken the following oath:I, AB, swear that I will truly and honestly conduct myself in the practice of a barrister and solicitor according to the best of my knowledge and ability.
-  (3) A candidate seeking admission on the ground that he or she is qualified under section 44(4) must apply to the Court.
-  (4) The Court or a Judge must make an order admitting the candidate as a barrister and solicitor of the Court if the Court or Judge is satisfied that the candidate is qualified for admission under section 44(4).
-(3) The Law Practitioners Act 1982 is amended by inserting, after section 51, the following section:Removal from roll if deemed registration ceases in some circumstances
-  (1) The Registrar must remove from the roll the name of a practitioner who—if the Registrar receives written notice from a Registrar acting as a local registration authority that the deemed registration has ceased for a reason set out in section 28(1)(a) or section 28(1)(c) to (e) of that Act.
-    (a) Was admitted under section 46(4); and
-    (b) Had deemed registration under the Trans-Tasman Mutual Recognition Act 1997 at the time he or she was admitted,—
-  (2) The Registrar must cause to be published in the Gazette a notice to the effect that the name has been removed from the roll under this section.
-  (3) The expenses incurred in publishing the notice must be paid by the practitioner.
+[Repealed]
 
 ## Schedule 1 — Exclusions
 
