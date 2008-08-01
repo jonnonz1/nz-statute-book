@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2008-08-01_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -120,7 +120,7 @@ In this Act, unless the context otherwise requires,—
       (ii) persons who are administrators of the estates of persons who, at the time of their death, were lawyers of the kind described in paragraph (b); and
     (d) has as its shareholders, in respect of shares that do not confer voting rights, no persons other than—
       (i) lawyers of the kind described in paragraph (b); or
-      (ii) persons who are relatives of lawyers of the kind described in paragraph (; or
+      (ii) persons who are relatives of lawyers of the kind described in paragraph (b); or
       (iii) persons who are administrators of the estates of persons who, at the time of their death, were shareholders of the kind described in subparagraph (i) or subparagraph (ii)
   - **investigator** means an investigator appointed under section 144
   - **Law Society inspectorate** means the inspectorate established by the New Zealand Law Society pursuant to regulations made under section 115
