@@ -1,5 +1,5 @@
 # Legal Services Act 2000
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2008-08-01_
 
 ### 1 Title
 This Act is the Legal Services Act 2000.
@@ -48,7 +48,7 @@ The purpose of this Act is to promote access to justice by—
   - **grant of legal aid** , and any similar expression, means a grant of legal aid under this Act or the former Act; and includes any amendments to that grant
   - **income** , in relation to a person, means that person's income as described in Schedule 1
   - **interim repayment** means the amount that an aided person is required to pay to the Agency under section 15(1) as a condition of a grant of legal aid
-  - **lawyer** means a barrister or solicitor, as those terms are defined in section 2 of the Law Practitioners Act 1982
+  - **lawyer** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006
   - **lead provider** , in relation to a grant of legal aid, means the listed provider identified in the grant as the lead provider for that matter
   - **legal aid scheme** means the scheme of that name administered by the Agency under Part 2
   - **legal service list** means the list of people approved by the Agency to provide legal services under 1 or more schemes
@@ -85,7 +85,7 @@ The purpose of this Act is to promote access to justice by—
     (b) the duty solicitor scheme:
     (c) the PDLA scheme:
     (d) an approved scheme
-  - **Special Fund** means the New Zealand Law Society Special Fund established under Part 6A of the Law Practitioners Act 1982
+  - **Special Fund** means the Lawyers and Conveyancers Special Fund continued by section 289(1) of the Lawyers and Conveyancers Act 2006
   - **transition date** means 1 February 2001
   - **victims' claims proceedings** means proceedings of the kind specified in section 7(1)(q).
 (2) In this Act, a reference to an application by a person, or a grant to a person includes a reference to an application made by one person on behalf of another, or a grant made in respect of a person other than the person to whom the grant is made.
