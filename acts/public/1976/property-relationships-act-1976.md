@@ -1,5 +1,5 @@
 # Property (Relationships) Act 1976
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-08-01_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Property (Relationships) Act 1976.
@@ -170,12 +170,12 @@ In this Act, unless the context otherwise requires,—
       (ii) because of the ownership of a specified share of any estate or interest in the land on which the dwellinghouse that comprises the family residence is situated and by reason of reciprocal agreements with the owners of the other shares; or
       (iii) in the case of a flat or town house that is part of a block of flats or town houses or is 1 of a number of flats or town houses situated on the same piece of land, under a lease or other arrangement that entitles the occupants of the flat or town house to exclusive possession of it
   - **joint family home** means land settled as a joint family home under the Joint Family Homes Act 1964
-  - **lawyer** ,—
-    (a) other than in Part 6 and section 65, means a barrister or solicitor, as those terms are defined in section 2 of the Law Practitioners Act 1982:
+  - **lawyer,—**
+    (a) other than in Part 6 and section 65, means a lawyer (as defined in section 6 of the Lawyers and Conveyancers Act 2006):
     (b) in Part 6 and section 65,—
-      (i) in the case of a document signed in New Zealand, means a barrister or solicitor, as those terms are defined in section 2 of the Law Practitioners Act 1982:
-      (ii) in the case of a document signed in a Commonwealth country outside New Zealand, means a barrister or solicitor (as those terms are so defined) who holds a current practising certificate, or a solicitor entitled to practise in that country, or a notary public:
-      (iii) in the case of a document signed in a country that is not a Commonwealth country, means a barrister or solicitor (as those terms are so defined) who holds a current practising certificate, or a notary public
+      (i) in the case of a document signed in New Zealand, means a lawyer (as defined in section 6 of the Lawyers and Conveyancers Act 2006):
+      (ii) in the case of a document signed in a Commonwealth country outside New Zealand, means a lawyer (as defined in section 6 of the Lawyers and Conveyancers Act 2006), or a solicitor entitled to practise in that country, or a notary public:
+      (iii) in the case of a document signed in a country that is not a Commonwealth country, means a lawyer (as defined in section 6 of the Lawyers and Conveyancers Act 2006), or a notary public
   - **life insurance policy** —
     (a) means a policy of assurance taken out by 1 spouse or partner (party A) on his or her own life or the life of his or her spouse or partner (party B), regardless of whether—
       (i) the policy is for the benefit of party A or party B:
