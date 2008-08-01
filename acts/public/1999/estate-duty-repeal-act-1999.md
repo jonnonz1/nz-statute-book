@@ -1,5 +1,5 @@
 # Estate Duty Repeal Act 1999
-_Consolidation as at 2002-02-01_
+_Consolidation as at 2008-08-01_
 
 > An Act to make amendments removing references to estate duty
 
@@ -182,7 +182,6 @@ The Estate Duty Repeal Act 1999 is added to the schedule listing Inland Revenue 
 |  | 5Nothing in this section affects the law that applies where the husband or the wife is acting as trustee under any deed or will. |
 | 1977, No 102—Queen Elizabeth the Second National Trust Act 1977 (RS Vol 27, p 815) | By repealing section 30(3). |
 | 1979, No 33—Civil List Act 1979 (RS Vol 38, p 415) | By repealing section 7(2)(b)(i). |
-| 1982, No 123—Law Practitioners Act 1982 (RS Vol 37, p 277) | By repealing section 73(4). |
 | 1987, No 13—Sport, Fitness, and Leisure Act 1987 (RS Vol 28, p 867) | By repealing section 35(4). |
 | 1993, No 4—Maori Land Act 1993 | By repealing section 105. |
 | 1996, No 39—Institute of Chartered Accountants of New Zealand Act 1996 | By repealing clause 10 of Schedule 1. |
