@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2007-11-29_
+_Consolidation as at 2008-08-01_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1579,7 +1579,6 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 | Health Research Council of New Zealand |  |  |  |  |  |
 | Health Sponsorship Council |  |  |  |  |  |
 | Housing New Zealand Corporation |  |  |  |  |  |
-| Land Transport New Zealand |  |  |  |  | ✓ |
 | Legal Services Agency |  |  |  |  |  |
 | Maritime Safety Authority of New Zealand |  |  |  |  | ✓ |
 | New Zealand Antarctic Institute |  |  |  |  |  |
@@ -1588,11 +1587,11 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 | New Zealand Qualifications Authority |  |  |  |  | ✓ |
 | New Zealand Tourism Board |  |  |  |  |  |
 | New Zealand Trade and Enterprise |  |  |  |  |  |
+| New Zealand Transport Agency |  |  |  |  |  |
 | Pharmaceutical Management Agency |  |  |  |  |  |
 | Social Workers Registration Board |  |  |  |  |  |
 | Sport and Recreation New Zealand |  |  |  |  | ✓ |
 | Tertiary Education Commission |  |  |  |  |  |
-| Transit New Zealand |  |  |  |  | ✓ |
 
 | Name | Exemption from acquisition of securities, borrowing, guarantee, and derivative rules |  |  |  | Exemption from section 165 (net surplus payable to Crown) |
 | --- | --- | --- | --- | --- | --- |
