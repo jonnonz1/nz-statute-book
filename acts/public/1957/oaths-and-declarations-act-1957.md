@@ -1,5 +1,5 @@
 # Oaths and Declarations Act 1957
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-08-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to oaths, affirmations, and declarations
 
@@ -63,7 +63,7 @@ Where by any law in force in New Zealand (whether made before or after the comme
   (h) a person who—
     (i) is a fellow of the body (incorporated under the Incorporated Societies Act 1908) that, immediately before the commencement of the Oaths and Declarations Amendment Act 2001, was called the New Zealand Institute of Legal Executives; and
     (ii) is acting in the employment of the holder of a practising certificate as a barrister and solicitor of the High Court; or
-  (i) an employee of Land Transport New Zealand, authorised for that purpose (by name, or as the holder for the time being of a specified office or title) by the Minister of Justice by notice in the Gazette; or
+  (i) an employee of the New Zealand Transport Agency, authorised for that purpose (by name, or as the holder for the time being of a specified office or title) by the Minister of Justice by notice in the Gazette; or
   (ia) an employee of Public Trust constituted under the Public Trust Act 2001, authorised for that purpose (by name, or as the holder for the time being of a specified office or title) by the Minister of Justice by notice in the Gazette; or.
   (j) an officer in the service of the Crown, or of a local authority within the meaning of the Local Government Act 2002, authorised for that purpose (by name, or as the holder for the time being of a specified office or title) by the Minister of Justice by notice in the Gazette
 (2) Despite subsection (1), if a te reo Maori equivalent of the declaration prescribed in Schedule 1 is prescribed by regulations made under section 30A, using that te reo Maori equivalent has the same effect as using the declaration prescribed in Schedule 1.
