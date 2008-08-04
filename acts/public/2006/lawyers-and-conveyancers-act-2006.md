@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-08-04_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -95,11 +95,19 @@ In this Act, unless the context otherwise requires,—
   - **employee** includes,—
     (a) in relation to the New Zealand Defence Force, a member of the Armed Forces; and
     (b) in relation to the Police of New Zealand, a member of the police
+  - **employer organisation** means an organisation—
+    (a) whose members consist of employers; and
+    (b) whose purpose is or includes the promotion of the interests of its members as employers
   - **executive director of the New Zealand Law Society** means the person for the time being appointed to hold that position by the Council of the New Zealand Law Society
   - **fundamental obligations** means,—
     (a) in relation to lawyers, the fundamental obligations set out in section 4; and
     (b) in relation to conveyancing practitioners, the fundamental obligations set out in section 5
   - **government-related organisation** has the meaning given to it by section 4 of the Crown Organisations (Criminal Liability) Act 2002
+  - **health professional organisation** means an organisation—
+    (a) whose members consist of health practitioners within the meaning of the Health Practitioners Competence Assurance Act 2003; and
+    (b) whose purpose is or includes the promotion of—
+      (i) the professional standards of its members; and
+      (ii) the interests of its members in their capacity as health practitioners
   - **High Court** means the High Court of New Zealand; and includes a Judge of that Court
   - **incorporated conveyancing firm** means, subject to sections 15 and 16, a company that—
     (a) provides to the public services that are, in relation to a conveyancing practitioner, regulated services; and
@@ -236,6 +244,12 @@ In this Act, unless the context otherwise requires,—
     (a) means records relating to a trust account; and
     (b) includes any information which relates to a trust account and which is recorded or stored by means of any tape-recorder, computer, or other device, and any material subsequently derived from information so recorded or stored
   - **trustee company** means a trustee company within the meaning of the Trustee Companies Act 1967
+  - **union** —
+    (a) has the same meaning as in section 5 of the Employment Relations Act 2000; and
+    (b) includes an organisation—
+      (i) whose members consist of unions; and
+      (ii) whose purpose is or includes the promotion of the interests of its members as unions; and
+    (c) includes a health professional organisation
   - **unsatisfactory conduct** has,—
     (a) in relation to a lawyer (whether in practice on his or her own account or not), the meaning given to it by section 12; and
     (b) in relation to an incorporated law firm, the meaning given to it by section 12; and
@@ -289,7 +303,26 @@ In this Act, unless the context otherwise requires,—
   (e) by the Legal Services Agency; or
   (f) by Public Trust; or
   (g) by the Maori Trustee; or
-  (h) by a trustee company.
+  (h) by a trustee company; or
+  (i) by an employer organisation; or
+  (j) by a union.
+(1A) Despite subsection (1), a lawyer is guilty of misconduct if, in the course of his or her employment—
+  (a) by an employer organisation, he or she provides—
+    (i) legal services to a person other than the organisation or a member of the organisation; or
+    (ii) legal services to a member of the organisation that are not relevant to his or her or its membership of the organisation; or
+    (iii) regulated services that are not legal services to any person; or
+  (b) by a union, he or she provides—
+    (i) legal services to a person other than the union or a member of the union; or
+    (ii) legal services to a member of the union that are not relevant to his or her or its membership of the union; or
+    (iii) regulated services that are not legal services to any person.
+(1B) For the purposes of subsection (1A), legal services provided to a member of an employer organisation or, as the case requires, a union are relevant to his or her or its membership of the employer organisation or union if the legal services relate to—
+  (a) the member's rights, obligations, or liabilities in his or her capacity—
+    (i) as a member of the employer organisation or union; or
+    (ii) as an employer or employee; or
+  (b) any matter concerning or arising out of any employment relationship (within the meaning of the Employment Relations Act 2000), including any former or prospective relationship of that kind; or
+  (c) any claim or action by or against the member under any enactment specified in section 236(4) of the Employment Relations Act 2000; or
+  (d) compliance with any enactment or other requirement governing the performance of the duties of the member in the conduct of the member's normal business or profession; or
+  (e) any question or matter concerning the member's professional liability, entitlement under any contract of insurance relating to professional liability, or compliance with professional standards.
 (2) A conveyancing practitioner is guilty of misconduct who, being an employee, provides regulated services to the public other than in the course of his or her employment—
   (a) by a conveyancing practitioner; or
   (b) by a partnership comprised entirely of conveyancing practitioners; or
@@ -304,9 +337,9 @@ In this Act, unless the context otherwise requires,—
 
 ### 10 Exceptions to section 9
 (1) Nothing in section 9 prevents—
-  (a) a lawyer from being employed by a person other than a person described in paragraphs (a) to (h) of section 9(1); or
+  (a) a lawyer from being employed by a person other than a person described in paragraphs (a) to (j) of section 9(1); or
   (b) a conveyancing practitioner from being employed by a person other than a person described in paragraphs (a) to (i) of section 9(2); or
-  (c) a lawyer who is employed by a person other than a person described in paragraphs (a) to (h) of section 9(1) from providing in the course of his or her employment regulated services to his or her employer; or
+  (c) a lawyer who is employed by a person other than a person described in paragraphs (a) to (j) of section 9(1) from providing in the course of his or her employment regulated services to his or her employer; or
   (d) a conveyancing practitioner who is employed by a person other than a person described in paragraphs (a) to (i) of section 9(2) from providing in the course of his or her employment regulated services to his or her employer; or
   (e) a lawyer to whom paragraph (c) of this subsection applies from assisting or enabling his or her employer to provide to the public regulated services that are not—
     (i) legal services that come within the definition of reserved areas of work; or
@@ -321,7 +354,7 @@ In this Act, unless the context otherwise requires,—
     (i) from providing regulated services to the public in the discharge of any duties, or in the exercise of any powers, of the Crown organisation or statutory officer under any enactment; or
     (ii) from doing any thing that is intended to facilitate, or is conducive or incidental to, the discharge of the functions conferred on the Crown organisation or statutory officer by any enactment.
 (3) Nothing in section 9 prevents a lawyer who is both an employee and a lawyer practising on his or her own account from providing regulated services to the public in his or her capacity as a lawyer practising on his or her own account.
-(4) Despite subsections (1) to (3), nothing in section 9 or this section permits a lawyer who is employed by a person other than a person described in paragraphs (a) to (h) of section 9(1) to assist or enable his or her employer to provide regulated services to a person with whom the lawyer has a lawyer and client relationship.
+(4) Despite subsections (1) to (3), nothing in section 9 or this section permits a lawyer who is employed by a person other than a person described in paragraphs (a) to (j) of section 9(1) to assist or enable his or her employer to provide regulated services to a person with whom the lawyer has a lawyer and client relationship.
 (5) Nothing in section 9 prevents a lawyer who is not an employee of a community law centre or citizens advice bureau from providing legal services to the public under the auspices of a community law centre or citizens advice bureau.
 (6) Nothing in section 9 or this section limits—
   (a) the application of section 7 to a lawyer who is an employee or statutory officer; or
@@ -457,6 +490,9 @@ This Act binds the Crown.
 (1) A person commits an offence—
   (a) who, for gain or reward (whether direct or indirect) and not being a lawyer or an incorporated law firm, carries out work of a kind described in paragraph (a) of the definition of reserved areas of work (as set out in section 6); or
   (b) who, not being a lawyer, carries out work of a kind described in paragraph (b) or paragraph (c) or paragraph (d) of the definition of reserved areas of work (as set out in section 6).
+(1A) For the purposes of subsection (1), an employer organisation or a union does not carry out work of the kind referred to in paragraph (a) or (b) of that subsection merely because—
+  (a) the employer organisation employs a lawyer who carries out work of that kind for members of the organisation, whether or not the organisation receives any gain or reward for that work:
+  (b) the union employs a lawyer who carries out work of that kind for members of the union, whether or not the union receives any gain or reward for that work.
 (2) This section is subject to the exceptions set out in sections 25(2) and 27.
 
 ### 25 Lawyers of other jurisdictions
@@ -1248,7 +1284,7 @@ The Council of the New Zealand Law Society or the Council of the New Zealand Soc
 The rules to which section 100 applies and amendments to any such rules are regulations for the purposes of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
 
 ### 107 Effect of practice rules
-(1) The practice rules of the New Zealand Law Society are binding on all lawyers and former lawyers, whether or not they are members of the New Zealand Law Society, but are not binding on other persons.
+(1) The practice rules of the New Zealand Law Society are binding on all lawyers and former lawyers, whether or not they are members of the New Zealand Law Society, and on all incorporated law firms and former incorporated law firms, but are not binding on other persons.
 (2) The practice rules of the New Zealand Society of Conveyancers are binding on all conveyancing practitioners and former conveyancing practitioners, whether or not they are members of the New Zealand Society of Conveyancers, but are not binding on other persons.
 (3) No partnership deed, employment agreement, or other legal arrangement governing the manner in which a practitioner is in practice, business, or employment may require a practitioner to act in breach of the practice rules and any part of a deed, condition of employment, agreement, or other legal arrangement that purports to require such conduct is void.
 
@@ -3054,7 +3090,9 @@ In this Part, unless the context otherwise requires,—
     (ii) legal services under a scheme within the meaning of the Legal Services Act 2000; or
   (b) acts as an employee of the Legal Services Agency; or
   (c) provides legal services to the public under a scheme within the meaning of the Legal Services Act 2000; or
-  (d) provides to the public, in his or her capacity as an employee of Public Trust or of the Maori Trustee or of a trustee company, regulated services that his or her employer is entitled to provide to the public.
+  (d) provides to the public, in his or her capacity as an employee of Public Trust or of the Maori Trustee or of a trustee company, regulated services that his or her employer is entitled to provide to the public; or
+  (e) provides, in his or her capacity as an employee of an employer organisation, regulated services to that organisation or to a member of that organisation; or
+  (f) provides, in his or her capacity as an employee of a union, regulated services to that union or to a member of that union.
 
 ### 308 Conveyancing practitioners to whom, and incorporated conveyancing firms to which, this Part applies
 (1) This Part applies to—
