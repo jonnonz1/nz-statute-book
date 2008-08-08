@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-08-08_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—aTo establish certain principles with respect to—iThe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiAccess by each individual to information relating to that individual and held by public and private sector agencies; andbTo provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcTo provide for matters incidental thereto
 
@@ -1145,6 +1145,7 @@ Where a specified agency derives or receives information produced by an authoris
 (1B) Nothing in subsection (1) prevents the Commissioner of Inland Revenue from immediately suspending payment to an individual of all or part of an interim instalment of a credit of tax under subparts MA to MF and MZ of the Income Tax Act 2007 when a discrepancy is identified in information supplied to the Commissioner under section 85G of the Tax Administration Act 1994 if, before or immediately after the decision to suspend, the Commissioner gives a written notice to the individual that—and the other adverse action must not be taken until expiration of those 5 working days.
   (a) provides details of the discrepancy and the suspension of payment of the credit of tax and any other adverse action which the Commissioner proposes to take; and
   (b) states that the individual has 5 working days from the receipt of the notice to show cause why payment of the credit of tax ought not to have been suspended or why the adverse action should not be taken, or both—
+(1C) Nothing in subsection (1) prevents the Commissioner of Inland Revenue from immediately taking action to recover amounts relating to financial support under the Child Support Act 1991 owed to the Commissioner by an individual who is identified in information supplied to the Commissioner under section 280K or 280L of the Customs and Excise Act 1996.
 (2) Nothing in subsection (1) or subsection (1A) or subsection (1B) of this section prevents an agency from taking adverse action against an individual if compliance with the requirements of that subsection would prejudice any investigation into the commission of an offence or the possible commission of an offence.
 (2A) Nothing in subsection (1) prevents any sworn member of the police or any bailiff from immediately executing a warrant to arrest an individual in respect of the non-payment of the whole or any part of a fine if the discrepancy arises in respect of arrival and departure information supplied under section 280D of the Customs and Excise Act 1996 and if, before executing the warrant, the individual concerned is—
   (a) informed of the intention to execute the warrant; and
@@ -1502,7 +1503,7 @@ The income of the Commissioner shall be exempt from income tax.
 | Births, Deaths, and Marriages Registration Act 1995 | Section 78A |
 | Citizenship Act 1977 | Section 26A |
 | Corrections Act 2004 | Sections 180 to 180D, 181, 182, and 204 |
-| Customs and Excise Act 1996 | Sections 280 to 280D and 280H |
+| Customs and Excise Act 1996 | Sections 280 to 280D, 280K, 280L and 280H |
 | Education Act 1989 | Sections 226A, 238B, and 307D |
 | Electoral Act 1993 | Section 263A and 263B |
 | Housing Restructuring and Tenancy Matters Act 1992 | Section 68 |
