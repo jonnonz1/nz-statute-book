@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-08-08_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -3097,6 +3097,10 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
   (fb) communicating to any person, being a member, an employee, or an agent of the Charities Commission, any information, being information—
     (i) that the person is authorised by the Charities Commission to receive; and
     (ii) that the Commissioner considers is not undesirable to disclose and is reasonably necessary to enable that person to carry out any duty lawfully conferred on that person relating to the exercise of the Charities Commission's powers or the performance of its functions and duties:
+  (fc) communicating to a person who is a member, employee, or agent, of the New Zealand Customs Service, information that—
+    (i) the person is authorised by the New Zealand Customs Service to receive; and
+    (ii) relates to a person who is liable to pay financial support under the Child Support Act 1991; and
+    (iii) the Commissioner considers is not undesirable to disclose and is reasonably necessary for the purposes specified in sections 280K and 280L of the Customs and Excise Act 1996:
   (g) Communicating to any authorised person under section 62 of the Student Loan Scheme Act 1992 any information required for the purpose specified in subsection (2), (2AA), or (2A) of that section:
   (gb) communicating to the chief executive of the New Zealand Customs Service under section 62A of the Student Loan Scheme Act 1992 any information specified in subsection (2) of that section for the purpose set out in subsection (1) of that section.
   (h) Communicating to any officer or employee or agent of any of the State Services any information in relation to the processing of information, data, documents, or any other matter necessary for the effective administration of the Inland Revenue Acts (including all Acts at any time administered by or in the Department) or any other function that may from time to time be lawfully conferred on the Commissioner:
