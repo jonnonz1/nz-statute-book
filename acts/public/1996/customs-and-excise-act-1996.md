@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-08-08_
 
 > An Act to—aReform the law relating to customs, excise, and other duties; andbProvide for the administration and enforcement of Customs controls at the border; andcRepeal the Customs Act 1966; anddProvide for related matters
 
@@ -3549,6 +3549,57 @@ In sections 280H and 280I, unless the context otherwise requires,—
     (ii) any information about a person who is not a borrower.
 (4) The Commissioner must take all reasonable steps to ensure that—
   (a) only persons who have had appropriate powers delegated to them by the Commissioner—
+    (i) have access to the database; and
+    (ii) use the database; and
+  (b) a record is kept of—
+    (i) every occasion on which persons access a database; and
+    (ii) the reason for accessing the database; and
+    (iii) the identity of the person who accessed the database; and
+  (c) every person who accesses a database for the purpose of this section complies with subsection (3).
+(5) In this section,—
+  - **access a database** includes remote access to a database
+  - **database** means any information recording system used by the Customs to store arrival or departure information.
+
+### 280J Defined terms for sections 280K and 280L
+In sections 280K and 280L, unless the context otherwise requires,—
+  - **Commissioner** means the Commissioner of Inland Revenue as defined in section 3(1) of the Tax Administration Act 1994
+  - **Department** means the Inland Revenue Department
+  - **financial support debt** means an amount owing to the Commissioner of—
+    (a) financial support as defined in section 2 of the Child Support Act 1991:
+    (b) a penalty or interest under the Child Support Act 1991
+  - **identifying information** means personal information that identifies an individual
+  - **officer of the Department** has the meaning given to it by section 3(1) of the Tax Administration Act 1994
+  - **serious default** means the state of having an amount of financial support debt due and owing to the Commissioner of Inland Revenue and satisfying criteria agreed by the Commissioner and the Privacy Commissioner in consultation with the Chief Executive.
+
+### 280K Disclosure of arrival and departure information for purposes of Child Support Act 1991
+(1) The purpose of this section is to facilitate the exchange of information between the Customs and the Department for the purpose of assisting the Commissioner to—
+  (a) locate any person who is in serious default in the payment of any financial support debt; and
+  (b) take appropriate debt recovery action against that person.
+(2) For the purpose of this section, the Commissioner may supply any identifying information to the Chief Executive.
+(3) If, in relation to a person who is in serious default, identifying information is supplied in accordance with subsection (2), the Chief Executive may compare that information with any arrival and departure information held by the Customs that may relate to that person.
+(4) If the Customs has arrival or departure information relating to a person who is in serious default, the Chief Executive may, for the purpose of this section, supply to the Commissioner any of the following information held by the Customs:
+  (a) the person's name:
+  (b) the person's date of birth:
+  (c) the person's tax file number:
+  (d) the time and date on which the person arrived in New Zealand or, as the case may be, departed from New Zealand:
+  (e) information provided by the person when arriving in New Zealand or, as the case may be, departing from New Zealand.
+(5) The Chief Executive and the Commissioner may, for the purpose of this section, determine by written agreement between them—
+  (a) the frequency with which information may be supplied:
+  (b) the form in which information may be supplied:
+  (c) the method by which information may be supplied.
+
+### 280L Direct access to arrival and departure information for purposes of Child Support Act 1991
+(1) The purpose of this section is to facilitate the Department's access to information stored in a database for the purpose of assisting the Commissioner to—
+  (a) locate any person who is in serious default in the payment of any financial support debt:
+  (b) take appropriate debt recovery action against that person.
+(2) The Chief Executive may, for the purpose of this section, allow the Commissioner to access a database in accordance with a written agreement entered into by the Chief Executive and the Commissioner.
+(3) In accessing a database for the purpose of this section, the Commissioner—
+  (a) may only search for arrival or departure information relating to preselected persons who are of interest to the Commissioner; and
+  (b) must not search for—
+    (i) any information other than arrival or departure information:
+    (ii) any information about a person who is not in serious default.
+(4) The Commissioner must take all reasonable steps to ensure that—
+  (a) only persons with appropriate powers delegated to them by the Commissioner—
     (i) have access to the database; and
     (ii) use the database; and
   (b) a record is kept of—
