@@ -1,5 +1,5 @@
 # Taxation (Business Taxation and Remedial Matters) Act 2007
-_Consolidation as at 2008-05-29_
+_Consolidation as at 2008-08-08_
 
 ### 1 Title
 This Act is the Taxation (Business Taxation and Remedial Matters) Act 2007.
