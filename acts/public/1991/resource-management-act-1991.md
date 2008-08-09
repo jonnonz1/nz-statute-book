@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-08-09_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -2647,13 +2647,48 @@ Except as provided in section 125,—
   (b) a new consent is declined and all appeals are determined.
 
 ### 124A When sections 124B and 124C apply and when they do not apply
-[Repealed]
+(1) Sections 124B and 124C apply to an application affected by section 124 if, when the application is made, the relevant plan has not allocated any of the natural resources used for the activity.
+(2) Sections 124B and 124C also apply to an application affected by section 124 as follows:
+  (a) they apply if, when the application is made,—
+    (i) the relevant plan has allocated some or all of the natural resources used for the activity to the same type of activity; and
+    (ii) the relevant plan does not expressly say that sections 124A to 124C do not apply; and
+  (b) they apply to the extent to which the amount of the resource sought by a person described in section 124B(1)(a) and (b) is equal to or smaller than the amount of the resource that—
+    (i) is allocated to the same type of activity; and
+    (ii) is left after the deduction of every amount allocated to every other existing resource consent.
+(3) Sections 124B and 124C do not apply to an application affected by section 124 if, when the application is made, the relevant plan expressly says that sections 124A to 124C do not apply.
 
 ### 124B Applications by existing holders of resource consents
-[Repealed]
+(1) This section applies when—
+  (a) a person holds an existing resource consent to undertake an activity under any of sections 12, 13, 14, and 15 using a natural resource; and
+  (b) the person makes an application affected by section 124; and
+  (c) the consent authority receives 1 or more other applications for a resource consent that—
+    (i) are to undertake an activity using some or all of the natural resource to which the existing consent relates; and
+    (ii) could not be fully exercised until the expiry of the existing consent.
+(2) The application described in subsection (1)(b) is entitled to priority over every application described in subsection (1)(c).
+(3) The consent authority must determine the application described in subsection (1)(b) before it determines any application described in subsection (1)(c).
+(4) The consent authority must determine an application described in subsection (1)(b) by applying all the relevant provisions of this Act and the following criteria:
+  (a) the efficiency of the person's use of the resource; and
+  (b) the use of industry good practice by the person; and
+  (c) if the person has been served with an enforcement order not later cancelled under section 321, or has been convicted of an offence under section 338,—
+    (i) how many enforcement orders were served or convictions entered; and
+    (ii) how serious the enforcement orders or convictions were; and
+    (iii) how recently the enforcement orders were served or the convictions entered.
 
 ### 124C Applications by persons who are not existing holders of resource consents
-[Repealed]
+(1) This section applies when—
+  (a) a person makes an application for a resource consent to undertake an activity under any of sections 12, 13, 14, and 15 using a natural resource; and
+  (b) the person does not hold an existing consent for the same activity using some or all of the same natural resource; and
+  (c) a consent granted as a result of the application could not be fully exercised until the expiry of the consent described in section 124B(1)(a); and
+  (d) the person makes the application more than 3 months before the expiry of the consent described in section 124B(1)(a).
+(2) The consent authority must—
+  (a) hold the application without processing it; and
+  (b) notify the holder of the existing consent—
+    (i) that the application has been received; and
+    (ii) that the holder may make an application affected by section 124.
+(3) If the holder of the existing consent notifies the consent authority in writing that the holder does not propose to make an application affected by section 124, the consent authority must process and determine the application described in subsection (1)(a).
+(4) If the holder of the existing consent does not make an application affected by section 124 more than 3 months before the expiry of the consent, the consent authority must process and determine the application described in subsection (1)(a).
+(5) If the holder of the existing consent makes an application affected by section 124 more than 3 months before the expiry of the consent, the consent authority must hold the application described in subsection (1)(a) until the determination of the holder's application and any appeal.
+(6) If the result of the determination of the holder's application and any appeal is that the holder's application affected by section 124 is granted, the application described in subsection (1)(a) lapses to the extent to which the use of the resource has been granted to the holder.
 
 ### 125 Lapsing of consent
 (1) A resource consent lapses on the date specified in the consent or, if no date is specified, 5 years after the date of commencement of the consent unless, before the consent lapses,—
