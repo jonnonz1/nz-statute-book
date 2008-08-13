@@ -1,5 +1,5 @@
 # Appropriation (2006/07 Financial Review) Act 2008
-_Consolidation as at 2008-04-02_
+_Consolidation as at 2008-08-13_
 
 ### 1 Title
 This Act is the Appropriation (2006/07 Financial Review) Act 2008.
