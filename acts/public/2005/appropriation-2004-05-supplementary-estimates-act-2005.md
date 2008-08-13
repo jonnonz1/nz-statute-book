@@ -1,5 +1,5 @@
 # Appropriation (2004/05 Supplementary Estimates) Act 2005
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-08-13_
 
 ## Preamble
 (1) Section 4(1) of the Public Finance Act 1989 provides that no expenditure of public money shall be made other than in accordance with an appropriation by Act of Parliament:
