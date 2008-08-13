@@ -1,5 +1,5 @@
 # Parliamentary Service Act 2000
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-08-13_
 
 ### 1 Title
 This Act is the Parliamentary Service Act 2000.
@@ -21,7 +21,7 @@ In this Act, unless the context otherwise requires,—
   - **General Manager** means the General Manager of the Parliamentary Service
   - **Leader of the House** means the Leader of the House of Representatives
   - **Parliamentary Corporation** or means the body corporate established by section 27
-  - **parliamentary precincts** means all of the following
+  - **parliamentary precincts** means all of the following:
     (a) the land described in Schedule 3:
     (b) land and premises that are subject to the Bowen House lease:
     (c) any other land or premises added to the parliamentary precincts by a resolution of the House of Representatives under section 25
@@ -48,7 +48,7 @@ This Act binds the Crown.
 
 ## Part 2 — Delivery of services and funding entitlements for House of Representatives and its members
 
-**Parliamentary service**
+**Parliamentary Service**
 
 ### 6 Parliamentary Service
 (1) There continues to be a service called the Parliamentary Service.
@@ -75,6 +75,45 @@ The principal duties of the Parliamentary Service are—
   (d) any department or other instrument of the Crown.
 (2) The Service has any other function, power, and duty that is conferred or imposed on it by or under an enactment.
 (3) This Act does not limit the provision to the House of Representatives or to members of Parliament of administrative and support services by any other department or other instrument of the Crown.
+
+### 9A Application of section 9C to electoral candidates
+(1) If a person vacates the office of member of Parliament under section 54(1)(b) or (2)(b) of the Electoral Act 1993 at the close of a polling day but is a candidate in the general election concerned, section 9C applies to him or her at any time if (and only if) the time is between the close of the polling day and—
+  (a) in the case of a person who is a candidate for a seat in the House of Representatives representing an electoral district, the day on which a person (whether that person or some other person) is, under section 179 of the Electoral Act 1993, declared elected to represent the district:
+  (b) in the case of a person whose name is specified in a party list, the day on which, under section 193(5) of the Electoral Act 1993, the Chief Electoral Officer declares candidates to be elected in the election.
+(2) If a candidate at a by-election is the former member of Parliament whose vacation of the seat concerned caused the by-election to be required, section 9C applies to him or her at any time if (and only if) the time is between the close of the polling day and the day on which a person (whether that person or some other person) is, under section 179 of the Electoral Act 1993, declared elected to represent the district concerned.
+(3) If a candidate at a general election for a seat in the House of Representatives representing an electoral district did not vacate the office of member of Parliament under section 54(1)(b) or (2)(b) of the Electoral Act 1993 at the close of the polling day for the election, section 9C applies to him or her at any time if (and only if)—
+  (a) the preliminary results made available by the Chief Electoral Officer on polling day or the day after indicate that—
+    (i) he or she received more votes than any other candidate for the seat; or
+    (ii) he or she is one of 2 or more candidates who received a number of votes that is equal, and greater than the number of votes received by any other candidate for the seat; and
+  (b) the time is between the close of polling day and the day on which a person (whether that person or some other person) is, under section 179 of the Electoral Act 1993, declared elected to represent the district.
+(4) If a candidate at a general election whose name is specified in a party list did not vacate the office of member of Parliament under section 54(1)(b) or (2)(b) of the Electoral Act 1993 at the close of the polling day for the election, section 9C applies to him or her at any time if (and only if)—
+  (a) the preliminary results made available by the Chief Electoral Officer on polling day or the day after indicate that the Chief Electoral Officer would under section 193(5) of the Electoral Act 1993 declare him or her to be elected in the election if the results of the official count were the same as those preliminary results; and
+  (b) the time is between the close of polling day and the day on which, under section 193(5) of the Electoral Act 1993, the Chief Electoral Officer declares candidates to be elected in the election.
+(5) If a candidate at a by-election is neither a member of Parliament nor the former member of Parliament whose vacation of the seat concerned caused the by-election to be required, section 9C applies to him or her at any time if (and only if)—
+  (a) the preliminary results made available by the Chief Electoral Officer on polling day or the day after indicate that—
+    (i) he or she received more votes than any other candidate for the seat; or
+    (ii) he or she is one of 2 or more candidates who received a number of votes that is equal, and greater than the number of votes received by any other candidate for the seat; and
+  (b) the time is between the close of polling day and the day on which a person (whether that person or some other person) is, under section 179 of the Electoral Act 1993, declared elected to represent the district.
+
+### 9B Speaker may give directions for provision of services and funding for parliamentary purposes in relation to certain electoral candidates
+(1) The Speaker may give directions on the extent to which administrative and support services are to be provided, and how the payment of funding entitlements for parliamentary purposes is to be administered, in relation to people to whom section 9C applies.
+(2) Directions—
+  (a) may apply to all people to whom section 9C applies, or may apply differently to—
+    (i) people of different descriptions:
+    (ii) the holders or former holders of different offices; and
+  (b) may state criteria to which the General Manager is to have regard in providing services and administering the payment of funding entitlements for parliamentary purposes.
+(3) A direction may provide that the General Manager is to determine whether some or all of the criteria stated in it have been met.
+
+### 9C Provision of services and funding for parliamentary purposes in relation to certain electoral candidates
+While (by virtue of section 9A) this section applies to a person,—
+  (a) administrative and support services must be provided in respect of him or her in accordance with directions under section 9B(1); and
+  (b) the payment of funding entitlements for parliamentary purposes must be administered accordingly.
+
+### 9D Speaker to take into account advice and recommendations of Commission
+(1) It is a function of the Parliamentary Service Commission to advise the Speaker on—
+  (a) the nature of the services to be provided under section 9C(a); and
+  (b) the objectives to be achieved by the Service by providing those services.
+(2) In giving directions under section 9B(1), the Speaker must take into account any relevant advice and any relevant recommendation given or made by the Parliamentary Service Commission under subsection (1).
 
 **General Manager of Parliamentary Service**
 
@@ -135,11 +174,11 @@ There is a commission called the Parliamentary Service Commission.
 (2) When there is a vacancy in the office of Speaker, or when the Speaker is (for whatever reason) absent from duty, the Deputy Speaker is the chairperson of the Commission.
 
 ### 17 Vacation of office by nominated or appointed members
-(1) A member of the Parliamentary Service Commission who holds office because of a nomination under section 15(1)(b) or (c) ceases to be a member of the Commission if 1 of the following events occurs:
+(1) A member of the Parliamentary Service Commission who holds office because of a nomination under section 15(1)(b) or (c) ceases to be a member of the Commission if one of the following events occurs:
   (a) the person by whom that member was nominated revokes the nomination of that member or nominates, instead of that member, another member of Parliament:
   (b) Parliament is dissolved or expires:
   (c) the member ceases to be a member of Parliament before Parliament is dissolved or expires.
-(2) A member of the Commission who holds office under section 15(1)(d) ceases to be a member of the Commission if 1 of the following events occurs:
+(2) A member of the Commission who holds office under section 15(1)(d) ceases to be a member of the Commission if one of the following events occurs:
   (a) the House of Representatives rescinds the resolution by which the member was appointed or resolves to appoint to the Commission, instead of that member, another member of Parliament:
   (b) the member is appointed as a Minister of the Crown or as a Parliamentary Under-Secretary:
   (c) Parliament is dissolved or expires:
@@ -195,7 +234,7 @@ Schedule 2 applies in relation to the Parliamentary Service Commission.
 ### 23 Parliament grounds
 The land described in Schedule 3 is declared—
   (a) to be vested in fee simple in Her Majesty the Queen for parliamentary purposes; and
-  (b) to be held under the Public works Act 1981 as if the whole of that land had been set apart for those purposes under that Act.
+  (b) to be held under the Public Works Act 1981 as if the whole of that land had been set apart for those purposes under that Act.
 
 ### 24 Leased premises in Bowen House
 (1) On the commencement of this Act, the interests, licences, and rights of the Parliamentary Service Commission under the Bowen House lease cease to be vested in the Parliamentary Service Commission, and vest instead in the Parliamentary Corporation.
@@ -232,8 +271,8 @@ The Parliamentary Corporation has the following functions:
 (1) The Parliamentary Corporation consists of the following:
   (a) the Speaker:
   (b) the General Manager:
-  (c) two members of the Parliamentary Service Commission (other than the Speaker) appointed by the Commission.
-(2) A member of the Corporation who holds office under subsection (1)(c) ceases to be a member if 1 of the following events occurs:
+  (c) 2 members of the Parliamentary Service Commission (other than the Speaker) appointed by the Commission.
+(2) A member of the Corporation who holds office under subsection (1)(c) ceases to be a member if one of the following events occurs:
   (a) the Parliamentary Service Commission revokes the appointment of the member or appoints, instead of that member, another person:
   (b) the member ceases to be a member of the Parliamentary Service Commission.
 (3) Despite subsection (2)(b), a member of the Corporation who holds office under subsection (1)(c) immediately before the dissolution or expiry of Parliament continues to hold office until the first meeting of the House of Representatives after the general election of its members.
@@ -284,16 +323,16 @@ When there is a vacancy in the office of Speaker or when the Speaker is (for wha
 **Amendments to other Acts**
 
 ### 36 Amendment to Ombudsmen Act 1975
-Part 2 of Schedule 1 of the Ombudsmen Act 1975 is amended by omitting the item The Parliamentary Service Commission., and substituting the item The Parliamentary Service.
+Amendment(s) incorporated in the Act(s).
 
 ### 37 Amendment to Higher Salaries Commission Act 1977
-Schedule 4 of the Higher Salaries Commission Act 1977 is amended by inserting, after the item relating to the Clerk of the House of Representatives and the Deputy Clerk of the House of Representatives, the item General Manager of the Parliamentary Service.
+Amendment(s) incorporated in the Act(s).
 
 ### 38 Amendment to Official Information Act 1982
-Section 2(1) of the Official Information Act 1982 is amended by omitting from paragraph (a) of the definition of organisation the words (other than the Parliamentary Service Commission), and substituting the words (other than the Parliamentary Service).
+Amendment(s) incorporated in the Act(s).
 
 ### 39 Amendment to Public Finance Act 1989
-Section 82(3) of the Public Finance Act 1989 is amended by omitting the expression 9(2)(i), and substituting the expression 9(2A)(f).
+Amendment(s) incorporated in the Act(s).
 
 **Repeals**
 
@@ -302,6 +341,8 @@ Section 82(3) of the Public Finance Act 1989 is amended by omitting the expressi
 (2) Without limiting the provisions of the Interpretation Act 1999, it is declared that the repeal of the Parliamentary Service Amendment Act 1991 does not affect the rights that any person has by virtue of section 9 of that Act.
 
 ## Schedule 1 — Provisions applying in respect of Parliamentary Service
+
+**General Manager and Acting General Manager**
 
 ### 1 Appointment of General Manager
 (1) The General Manager of the Parliamentary Service is appointed by the Governor-General on the recommendation of a committee consisting of—
@@ -340,6 +381,8 @@ The State Services Commissioner may, with the agreement of the Speaker, for just
 (3) The Speaker may give a direction before the occurrence of any vacancy or absence referred to in subclause (1) or while the vacancy or absence continues.
 (4) No direction and no act done by a person acting under a direction given under this clause may, in a proceeding, be questioned on the ground that the occasion for the direction had not arisen or had ceased or on the ground that the person had not been appointed to a position to which the direction relates.
 
+**Employment in Parliamentary Service**
+
 ### 7 Application of State Sector Act 1988
 (1) The provisions of Parts 5, 6, and 8 of the State Sector Act 1988 apply in respect of employment within the Parliamentary Service as if—
   (a) the Service were a department; and
@@ -369,6 +412,8 @@ The State Services Commissioner may, with the agreement of the Speaker, for just
 ### 10 Superannuation
 For the purposes of the Government Superannuation Fund Act 1956, service as an employee of the Parliamentary Service is Government service.
 
+**Parliamentary Library**
+
 ### 11 Parliamentary Library
 The Parliamentary Library forms part of the Parliamentary Service.
 
@@ -387,6 +432,8 @@ The Parliamentary Library forms part of the Parliamentary Service.
 (2) Before appointing a person to the position of Parliamentary Librarian, the General Manager must consult with any committee, established under clause 8 of Schedule 2, that is responsible for providing advice on the Parliamentary Library.
 (3) The holder of the position of Parliamentary Librarian is responsible to the General Manager.
 
+**Audits and reviews of Parliamentary Service**
+
 ### 14 Audit
 The Parliamentary Service Commission is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 
@@ -395,6 +442,8 @@ The Parliamentary Service Commission is a public entity as defined in section 4 
 (2) For the purposes of this clause, section 6 of the State Sector Act 1988 applies, with all necessary modifications, as if—
   (a) the Service were a department; and
   (b) the General Manager of the Service were the chief executive of that department.
+
+**Assets of Parliamentary Corporation notionally owned by Parliamentary Service**
 
 ### 16 Assets of Parliamentary Corporation owned by Parliamentary Service for certain purposes
 All assets and liabilities of the Parliamentary Corporation must be treated as the assets and liabilities of the Parliamentary Service for each of the following purposes:
@@ -405,13 +454,15 @@ All assets and liabilities of the Parliamentary Corporation must be treated as t
 
 ## Schedule 2 — Provisions applying in respect of Parliamentary Service Commission
 
+**Meetings of Commission**
+
 ### 1 Calling of meetings
 (1) Meetings of the Parliamentary Service Commission are held at times and places appointed from time to time by the Commission or its chairperson.
 (2) The chairperson, or any 3 members, may at any time call a special meeting. When the membership of the Commission consists of the persons specified in section 18, 1 member of the Commission may call a special meeting at any time.
 
 ### 2 Person presiding
 (1) At all meetings of the Parliamentary Service Commission, the chairperson, if present, presides.
-(2) If the chairperson is absent from a meeting and there is no deputy appointed under clause 7 attending for the chairperson, the members present must appoint 1 of their number to be the chairperson of that meeting.
+(2) If the chairperson is absent from a meeting and there is no deputy appointed under clause 7 attending for the chairperson, the members present must appoint one of their number to be the chairperson of that meeting.
 
 ### 3 Quorum
 (1) At all meetings of the Parliamentary Service Commission held during the term of a Parliament, the number of members required for a quorum is determined by the number of recognised parties represented in the House of Representatives, as follows:
@@ -445,6 +496,8 @@ At a meeting held while the Parliamentary Service Commission consists of the per
   (b) is to be regarded as a member of the Commission.
 (5) The powers conferred by this clause may not be exercised at any time while the Commission consists of the persons specified in section 18.
 
+**Committees and reports**
+
 ### 8 Committees
 (1) The Parliamentary Service Commission may from time to time appoint competent persons, whether members of the Commission or not, to be a committee or committees to assist the Commission on any matter within the scope of its functions.
 (2) Subject to the provisions of this Act and to any general or special directions of the Commission, any committee appointed under this clause may regulate its procedure in any manner it thinks fit.
@@ -461,23 +514,23 @@ As soon as practicable after the end of each year ending with 30 June, the Parli
 
 ## Schedule 3 — Description of land vested in Her Majesty the Queen for parliamentary purposes
 
-| Area |  | Former Description |
+| Area |  | Former description |
 | --- | --- | --- |
-| A | 423 m² | Part Section 505, Town of Wellington |
-| B | 19 m² | Part Section 505, Town of Wellington |
-| C | 2651 m² | Part Section 526, Town of Wellington |
-| D | 3616 m² | Part Section 527, Town of Wellington |
-| E | 60 m² | Part Section 528, Town of Wellington |
-| F | 79 m² | Closed road |
-| G | 737 m² | Part Section 1, SO Plan 20883 |
-| H | 1209 m² | Part Section 2, SO Plan 20883 |
-| I | 244 m² | Part Section 3, SO Plan 20883 |
-| J | 613 m² | Section 1, SO Plan 20910 |
+| A | 423 m2 | Part Section 505, Town of Wellington |
+| B | 19 m2 | Part Section 505, Town of Wellington |
+| C | 2651 m2 | Part Section 526, Town of Wellington |
+| D | 3616 m2 | Part Section 527, Town of Wellington |
+| E | 60 m2 | Part Section 528, Town of Wellington |
+| F | 79 m2 | Closed road |
+| G | 737 m2 | Part Section 1, S.O. Plan 20883 |
+| H | 1209 m2 | Part Section 2, S.O. Plan 20883 |
+| I | 244 m2 | Part Section 3, S.O. Plan 20883 |
+| J | 613 m2 | Section 1, S.O. Plan 20910 |
 | K | 1.1072 ha | Section 1210, Town of Wellington |
 | L | 2.2793 ha | Section 1211, Town of Wellington |
-| M | 13 m² | Section 1, SO Plan 28137 |
-| N | 30 m² | Section 2, SO Plan 28137 |
-| O | 2033 m² | Part Section 2, SO Plan 36836 |
+| M | 13 m2 | Section 1, S.O. Plan 28137 |
+| N | 30 m2 | Section 2, S.O. Plan 28137 |
+| O | 2033 m2 | Part Section 2, S.O. Plan 36836 |
 
 ## Schedule 4 — Provisions applying in respect of Parliamentary Corporation
 
@@ -494,11 +547,11 @@ As soon as practicable after the end of each year ending with 30 June, the Parli
 (2) Every meeting of the Corporation requires the presence of—
   (a) the chairperson or a deputy appointed, under clause 5, by the chairperson; and
   (b) the General Manager or a deputy appointed, under clause 5, by the General Manager; and
-  (c) one member appointed under section 29(1)(c) or a deputy appointed, under clause 5, by such a member.
+  (c) 1 member appointed under section 29(1)(c) or a deputy appointed, under clause 5, by such a member.
 
 ### 4 Person presiding
 (1) At all meetings of the Corporation, the chairperson, if present, presides.
-(2) If the chairperson is absent from a meeting and there is no deputy, appointed under clause 5 by the chairperson, the members present must appoint 1 of their number to be the chairperson of that meeting.
+(2) If the chairperson is absent from a meeting and there is no deputy, appointed under clause 5 by the chairperson, the members present must appoint one of their number to be the chairperson of that meeting.
 
 ### 5 Deputies
 (1) A member of the Corporation may, by notice in writing, appoint a person to attend 1 or more meetings of the Corporation as the deputy of that member.
