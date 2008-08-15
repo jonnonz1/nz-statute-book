@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-08-15_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1643,10 +1643,11 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 | Name | Exemption from acquisition of securities, borrowing, guarantee, and derivative rules |  |  |  | Exemption from section 165 (net surplus payable to Crown) |
 | --- | --- | --- | --- | --- | --- |
 |  | S 161 | S 162 | S 163 | S 164 |  |
-| Crown Research Institutes | ✓ | ✓ | ✓ | ✓ | ✓ |
-| New Zealand Venture Investment Fund Limited | ✓ | ✓ | ✓ |  | ✓ |
-| Radio New Zealand Limited |  |  |  |  | ✓ |
-| Television New Zealand Limited | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Crown Research Institutes |  |  |  |  |  |
+| New Zealand Venture Investment Fund Limited |  |  |  |  |  |
+| New Zealand Fast Forward Fund Limited |  |  |  |  |  |
+| Radio New Zealand Limited |  |  |  |  |  |
+| Television New Zealand Limited |  |  |  |  |  |
 
 ## Schedule 3 — Application of Crown Entities Act 2004 to School Boards of Trustees
 
