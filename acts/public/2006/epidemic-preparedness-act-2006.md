@@ -1,0 +1,239 @@
+# Epidemic Preparedness Act 2006
+_Consolidation as at 2008-09-02_
+
+### 1 Title
+This Act is the Epidemic Preparedness Act 2006.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+### 3 Purpose
+(1) The principal purpose of this Act is to ensure that there is adequate statutory power for government agencies—
+  (a) to try to prevent the outbreak of epidemics in New Zealand; and
+  (b) to respond to epidemics in New Zealand; and
+  (c) to respond to certain possible consequences of epidemics (whether occurring in New Zealand or overseas).
+(2) This Act also has the following purposes:
+  (a) to ensure that certain activities normally undertaken by people and agencies interacting with government agencies can continue to be undertaken during an epidemic in New Zealand:
+  (b) to enable the relaxation of some statutory requirements that might not be capable of being complied with, or complied with fully, during an epidemic.
+
+### 4 Interpretation
+(1) In this Act,—
+  - **enactment** does not include a rule of court
+  - **epidemic management notice** means a notice under section 8(1)
+  - **epidemic notice** means a notice under section 5(1)
+  - **immediate modification order** means a modification order made under section 14(1) or 15(1)
+  - **modification order** means an order made under section 11(1), 12(1), 14(1), or 15(1)
+  - **modify** includes suspend and waive
+  - **person** includes the Crown
+  - **prospective modification order** means a modification order made under section 11(1) or 12(1).
+(2) For the purposes of this Act,—
+  (a) the Minister of the Crown and department of State responsible for the administration of an enactment that is or forms part of subordinate legislation are the Minister of the Crown and department of State responsible for the administration of the enactment under whose authority the legislation was made; and
+  (b) the New Zealand Police is a department of State and the Commissioner of Police is its chief executive.
+
+**Epidemic notices and epidemic management notices**
+
+### 5 Prime Minister may enable use of special powers
+(1) With the agreement of the Minister of Health, the Prime Minister may, by notice in the Gazette, declare that he or she is satisfied that the effects of an outbreak of a stated quarantinable disease (within the meaning of the Health Act 1956) are likely to disrupt or continue to disrupt essential governmental and business activity in New Zealand (or stated parts of New Zealand) significantly.
+(2) Subsection (1) applies whether the outbreak is occurring within New Zealand or overseas.
+(3) If not renewed under section 7(1), the notice expires on the earliest of the following:
+  (a) the day 3 months after its commencement:
+  (b) a day stated in the notice:
+  (c) a day stated for the purpose by the Prime Minister by further notice in the Gazette.
+(4) The Prime Minister must not give the notice except on, and after considering, the written recommendation of the Director-General of Health.
+(5) As soon as is possible after giving the notice, the Prime Minister must present a copy to the House of Representatives.
+(6) While the notice is in force, further notices may be given modifying its effect—
+  (a) by lifting its application from stated parts of New Zealand; or
+  (b) in the case of an epidemic notice that applies to only stated parts of New Zealand,—
+    (i) by extending its application to other stated parts of New Zealand; or
+    (ii) by extending its application to the whole of New Zealand.
+(7) After the notice expires, a new notice can be given in respect of the same disease.
+
+### 6 Parliament must meet if epidemic notice given
+(1) This subsection applies to an epidemic notice if, when it is given,—
+  (a) Parliament has been prorogued until a day more than 7 days after the day on which the notice is given; or
+  (b) Parliament has been prorogued, and the date on which it is next to meet has not been determined; or
+  (c) Parliament has been dissolved or has expired, and no proclamation has been made summoning it to meet on a day not more than 7 days after the day on which the notice is given.
+(2) If subsection (1) applies to an epidemic notice,—
+  (a) a Proclamation must be made appointing a day for Parliament to meet; and
+  (b) the day must be—
+    (i) a day not more than 7 days after the day on which the notice was given; or
+    (ii) if the notice was given after Parliament had been dissolved or had expired and before the latest day appointed under the Electoral Act 1993 for the return of the writ for the election of members of Parliament, a day not more than 7 days after the latest day appointed for the return of the writ; and
+  (c) Parliament must meet and sit on the day appointed.
+(3) This subsection applies to an epidemic notice if, when it is given, the House of Representatives is adjourned until a day more than 7 days after the day on which it is given.
+(4) If subsection (3) applies to an epidemic notice,—
+  (a) the Speaker of the House of Representatives must, as soon as is practicable after it is made, by notice in the Gazette appoint a day and time for the House of Representatives to meet; and
+  (b) the day must be not more than 7 days after the day on which the notice was given; and
+  (c) the House of Representatives must meet and sit at the time and on the day appointed.
+
+### 7 Renewal and modification of epidemic notices
+(1) With the agreement of the Minister of Health, the Prime Minister may, by notice in the Gazette given before an epidemic notice expires, renew that notice.
+(2) The Prime Minister must not give a notice under subsection (1)—
+  (a) except on, and after considering, the written recommendation of the Director-General of Health; and
+  (b) unless he or she is satisfied that the effects of the outbreak concerned are likely to continue to disrupt essential governmental and business activity in New Zealand (or the parts of New Zealand concerned) significantly.
+(3) If renewed under subsection (1), an epidemic notice expires on the earliest of the following:
+  (a) the day 3 months after the commencement of the most recent notice renewing it:
+  (b) a day stated in the most recent notice renewing it:
+  (c) a day stated for the purpose by the Prime Minister by further notice in the Gazette.
+(4) As soon as is possible after the giving of a notice under subsection (1), the Prime Minister must present a copy to the House of Representatives.
+
+### 8 Activating other measures while epidemic notice in force
+(1) While an epidemic notice is in force (or in the Gazette in which an epidemic notice is given), the Prime Minister may, with the agreement of the Minister responsible for the administration of the enactment concerned, by notice in the Gazette (stating the name of the quarantinable disease stated in the epidemic notice), state—
+  (a) any matter that must be stated in order for action, or a particular action, to be taken under some other enactment referring to an epidemic management notice:
+  (b) any matter that must be stated in order for the application of some other enactment referring to an epidemic management notice, or a provision of such an enactment, to be modified (or modified with a particular effect) by virtue of the giving of the notice:
+  (c) that it activates—
+    (i) either or both of the following:
+      (A) one or more of the modifications made by one or more stated prospective modification orders:
+      (B) all the modifications made by one or more stated prospective modification orders; or
+    (ii) all the modifications made by all prospective modification orders.
+(2) The Prime Minister must not give a notice under subsection (1) unless satisfied that the effects of the outbreak concerned make it, or are likely to make it, reasonably necessary to do so.
+(3) A notice under subsection (1) expires when the epidemic notice concerned expires or is revoked.
+
+### 9 Review of epidemic notices
+(1) The Director-General of Health must keep under review, and keep the Prime Minister and the Minister of Health informed of, the situation out of which the making of an epidemic notice arose.
+(2) If no longer satisfied that the effects of the outbreak concerned are likely to disrupt or continue to disrupt essential governmental and business activity in New Zealand (or the parts of New Zealand concerned) significantly, the Prime Minister must promptly revoke the epidemic notice.
+
+### 10 Review of epidemic management notices
+(1) The chief executive of the department of State responsible for the administration of an enactment affected by an epidemic management notice must keep under review, and keep the Prime Minister and the Minister responsible for the administration of the enactment informed of, the operation of the enactment.
+(2) If no longer satisfied that it is necessary to state in the epidemic management notice a matter of a kind described in section 8(1) relating to the enactment, the Prime Minister must, by notice in the Gazette, revoke the part of the notice stating the matter (or, as the case requires, the notice).
+
+**Prospective modification of statutory requirements and restrictions**
+
+### 11 Prospective modification of statutory requirements and restrictions to facilitate management of serious outbreaks of disease
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Health, modify (with prospective effect as stated in section 13) any requirement or restriction imposed by any enactment administered by the Ministry of Health.
+(2) The Minister of Health must not recommend the making of an order except on a written recommendation of the Director-General of Health, stating that, in the Director-General’s opinion, the modifications it makes are likely to be necessary to enable the effective management of serious outbreaks of diseases affecting people or their effects (or both).
+(3) A modification of a requirement or restriction—
+  (a) may be absolute or subject to conditions; and
+  (b) may be made—
+    (i) by stating alternative means of complying with the requirement or restriction; or
+    (ii) by substituting a discretionary power for the requirement or restriction.
+(4) Subsection (3) does not limit subsection (1).
+
+### 12 Prospective modification of statutory requirements and restrictions to enable compliance during epidemic
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of the Crown responsible for the administration of an enactment, modify (with prospective effect as stated in section 13) any requirement or restriction imposed by the enactment.
+(2) The Minister must not recommend the making of the order unless he or she—
+  (a) has received from the chief executive of the department of State responsible for the administration of the enactment a written recommendation stating that, in the chief executive’s opinion,—
+    (i) if a serious outbreak of a disease affecting people occurred in New Zealand, the effects might well be such that the requirement or restriction would be impossible or impracticable to comply (or comply fully) with; and
+    (ii) the modification to be made goes no further than would be likely to be reasonably necessary in the circumstances; and
+  (b) is himself or herself satisfied that—
+    (i) the effects might well be such that the requirement or restriction would be impossible or impracticable to comply (or comply fully) with; and
+    (ii) the modification goes no further than would be likely to be reasonably necessary in the circumstances.
+(3) Subsection (1) does not authorise—
+  (a) a modification of a requirement—
+    (i) to release a person from custody or detention; or
+    (ii) to have any person’s detention reviewed by a court, Judge, or Registrar; or
+  (b) a modification of a restriction on keeping a person in custody or detention; or
+  (c) a modification of a requirement or restriction imposed by the Bill of Rights 1688, the Constitution Act 1986, the Electoral Act 1993, the Judicature Amendment Act 1972, or the New Zealand Bill of Rights Act 1990, or by this Act.
+(4) Subsection (3) does not prevent the modification of a procedural requirement or restriction relating to a person in custody or detention, even if the effect (direct or indirect) of the modification is that the person stays in custody or detention longer than he or she otherwise would have stayed.
+(5) A modification of a requirement or restriction—
+  (a) may be absolute or subject to conditions; and
+  (b) may be made—
+    (i) by stating alternative means of complying with the requirement or restriction; or
+    (ii) by substituting a discretionary power for the requirement or restriction.
+(6) Subsection (5) does not limit subsection (1).
+
+### 13 Application of prospective modifications
+A modification made by a prospective modification order—
+  (a) begins to apply (or to apply again) on the commencement of an epidemic management notice stating that it activates—
+    (i) the modification; or
+    (ii) all modifications made by the order; or
+    (iii) the modifications made by all modification orders; and
+  (b) ceases to apply on the earliest of—
+    (i) the expiry of the epidemic management notice that activated the modification:
+    (ii) the revocation of the epidemic management notice or part of an epidemic management notice that activated the modification:
+    (iii) the revocation of the order.
+
+**Immediate modification of statutory requirements and restrictions**
+
+### 14 Immediate modification of statutory requirements and restrictions to facilitate management of quarantinable disease
+(1) While an epidemic notice is in force, the Governor-General may, by Order in Council made on the recommendation of the Minister of Health, modify any requirement or restriction imposed by any enactment administered by the Ministry of Health.
+(2) The Minister of Health must not recommend the making of an order except on a written recommendation of the Director-General of Health, stating that, in the Director-General’s opinion, the modifications it makes are or are likely to be necessary to enable the effective management of the quarantinable disease stated in the epidemic notice or its effects (or both).
+(3) A modification of a requirement or restriction—
+  (a) may be absolute or subject to conditions; and
+  (b) may be made—
+    (i) by stating alternative means of complying with the requirement or restriction; or
+    (ii) by substituting a discretionary power for the requirement or restriction.
+(4) Subsection (3) does not limit subsection (1).
+
+### 15 Immediate modification of statutory requirements and restrictions to enable compliance during epidemic
+(1) While an epidemic notice is in force, the Governor-General may, by Order in Council made on the recommendation of the Minister of the Crown responsible for the administration of an enactment, modify any requirement or restriction imposed by the enactment.
+(2) The Minister must not recommend the making of an order unless he or she—
+  (a) has received from the chief executive of the department of State responsible for the administration of the enactment concerned a written recommendation stating that, in the chief executive’s opinion,—
+    (i) the effects of an epidemic of the quarantinable disease stated in the notice are, or are likely to be, such that the requirement or restriction is impossible or impracticable to comply (or comply fully) with; and
+    (ii) the modifications it makes go no further than is, or is likely to be, reasonably necessary in the circumstances; and
+  (b) is himself or herself satisfied that—
+    (i) the effects are, or are likely to be, such that the requirement or restriction is impossible or impracticable to comply (or comply fully) with; and
+    (ii) the modifications go no further than is, or is likely to be, reasonably necessary in the circumstances.
+(3) Subsection (1) does not authorise—
+  (a) a modification of a requirement—
+    (i) to release a person from custody or detention; or
+    (ii) to have any person’s detention reviewed by a court, Judge, or Registrar; or
+  (b) a modification of a restriction on keeping a person in custody or detention; or
+  (c) a modification of a requirement or restriction imposed by the Bill of Rights 1688, the Constitution Act 1986, the Electoral Act 1993, the Judicature Amendment Act 1972, or the New Zealand Bill of Rights Act 1990, or by this Act.
+(4) Subsection (3) does not prevent the modification of a procedural requirement or restriction relating to a person in custody or detention, even if the effect (direct or indirect) of the modification is that the person stays in custody or detention longer than he or she otherwise would have.
+(5) A modification of a requirement or restriction—
+  (a) may be absolute or subject to conditions; and
+  (b) may be made—
+    (i) by stating alternative means of complying with the requirement or restriction; or
+    (ii) by substituting a discretionary power for the requirement or restriction.
+(6) Subsection (5) does not limit subsection (1).
+
+**Parliamentary scrutiny of immediate modifications**
+
+### 16 Immediate modification orders to be presented to House of Representatives promptly
+Every immediate modification order must be presented to the House of Representatives as soon as is practicable after it is made.
+
+### 17 Disallowance of immediate modification orders
+(1) A member of Parliament may give a notice of motion under this section to disallow an immediate modification order within 6 sitting days after the day on which it was made.
+(2) Subsection (1) applies whether or not the order has been presented to the House of Representatives.
+
+### 18 When immediate modification orders disallowed
+An immediate modification order is disallowed if a notice of motion under section 17 to disallow it is agreed to within 6 sitting days after the day on which it was made.
+
+### 19 Disallowance has effect of revocation
+An immediate modification order that is disallowed under section 18 is revoked at the close of the day after the day on which the notice of motion to disallow it is agreed to.
+
+### 20 Lapse of notice of motion to disallow immediate modification order
+A notice of motion under section 17 to disallow an immediate modification order lapses if—
+  (a) it is not agreed to within 6 sitting days after the day on which the order was made; or
+  (b) the member of Parliament who gave it withdraws it; or
+  (c) Parliament is dissolved or expires.
+
+### 21 Notice of resolution to disallow immediate modification order
+(1) If a resolution disallowing an immediate modification order is agreed to by the House of Representatives, the Clerk of the House of Representatives must promptly give written notice of the disallowance to the Prime Minister and the Chief Parliamentary Counsel.
+(2) The notice must show the date on which the resolution was agreed to and be accompanied by the text of the resolution.
+(3) The notice is conclusive evidence of the day on which the resolution was agreed to.
+(4) The Chief Parliamentary Counsel must arrange for the notice to be printed and published under section 4 of the Acts and Regulations Publication Act 1989 as if it were a regulation.
+
+### 22 Application of Regulations (Disallowance) Act 1989
+An immediate modification order cannot be disallowed under the Regulations (Disallowance) Act 1989 if a notice of motion under section 17 to disallow it—
+  (a) has lapsed; or
+  (b) has not been agreed to.
+
+**Other matters**
+
+### 23 Areas within which modification orders operate
+(1) A modification order stating that it applies to the whole of New Zealand does so, even if the relevant epidemic notice applies to only stated parts of New Zealand.
+(2) A modification order not stating that it applies to the whole of New Zealand—
+  (a) applies to the whole of New Zealand if the relevant epidemic notice applies to the whole of New Zealand; and
+  (b) applies to only the parts of New Zealand to which the relevant epidemic notice applies if the notice applies to only stated parts of New Zealand.
+
+### 24 Judges may modify rules of court during epidemic
+(1) While an epidemic notice is in force, a Judge to whom subsection (2) applies (whether permanently appointed or temporary) may in any particular case modify any rule of court, and to any extent, that he or she thinks necessary in the interests of justice to take account of the effects of the quarantinable disease stated in the notice.
+(2) This subsection applies to—
+  (a) a Judge of the High Court (whether acting as a Judge of the High Court or a Judge of the Court of Appeal or the Supreme Court):
+  (b) an Associate Judge of the High Court:
+  (c) a Judge of the Employment Court:
+  (d) a Judge of the Maori Land Court.
+(3) A modification—
+  (a) may be absolute or subject to conditions; and
+  (b) may be made by stating alternative means of complying with a requirement or restriction imposed by the rules.
+(4) Subsection (3) does not limit subsection (1).
+
+### 25 Certain common law doctrines not affected
+(1) No doctrine, defence, or rule of impossibility or necessity (for example, those embodied in the maxims lex non cogit ad impossibilia and nemo tenetur ad impossibile) is limited or affected by—
+  (a) any thing in, or done under, this Act or an enactment stated in subsection (2); or
+  (b) the fact that any thing is not in, or has not been done under, this Act or an enactment stated in subsection (2).
+(2) The enactments referred to in subsection (1) are the Health Amendment Act 2006, the Immigration Amendment Act (No 2) 2006, the Parole Amendment Act 2006, the Sentencing Amendment Act (No 2) 2006, the Social Security Amendment Act 2006, and the Summary Proceedings Amendment Act (No 2) 2006.
+
+### 26 Effect of modification orders on requirements to tell people of their rights
+While a person’s rights, available remedies or courses of action, or legal situation under an enactment are affected by the effect of a modification order, a requirement in any enactment (whether that enactment or another) to the effect that a person must be told of those rights, those remedies or courses of action, or that situation, must be read as a requirement that he or she must be told of those rights, those remedies or courses of action, or that situation, as modified by the effect of the order.
