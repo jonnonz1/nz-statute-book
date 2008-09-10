@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-09-10_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -2318,8 +2318,8 @@ Notwithstanding anything to the contrary in this Act,—
 (2) Notwithstanding anything to the contrary in this Act or in the Social Welfare (Transitional Provisions) Act 1990 or Part 6 of the War Pensions Act 1954, if a person who is married or in a civil union or in a de facto relationship and who has no dependent children, or a single person, who is in receipt of a benefit (other than an unsupported child's benefit or an orphan's benefit), or who becomes entitled to receive such a benefit, is a patient in a hospital for a period of 13 weeks or less, the rate of the benefit shall not be affected.
 (3) If a person to whom subsection (2) of this section applies (other than a person in receipt of, or entitled to receive, a veteran's pension or a person who is a resident assessed as requiring care (as defined in section 136) in respect of whom a funder (as defined in that section) is paying some or all of the cost of contracted care services (as defined in that section) under section 141 or section 142) is a patient in a hospital for more than 13 weeks, the rate of benefit payable on and after the commencement of the 14th week of hospitalisation, subject to subsection (4) of this section, shall be the rate specified in Schedule 22 to this Act.
 (4) Notwithstanding the provisions of subsection (3) of this section, the chief executive may in the chief executive's discretion—
-  (a) Pay to any patient to whom that subsection applies a higher rate than the rate specified in the Twenty-second Schedule to this Act after having regard to the patient's personal financial circumstances; or
-  (b) Pay to any such patient a lower rate than the rate so specified after having regard to the patient's capacity to appreciate the payments.
+  (a) Pay to any patient to whom that subsection applies a higher rate than the rate specified in the Twenty-second Schedule to this Act after having regard to the patient's personal financial circumstances.
+  (b)
 (5) If, after 13 weeks' hospitalisation, the benefit of a person who is married or in a civil union or in a de facto relationship is reduced under subsection (3) or subsection (4), and that person's spouse or partner either is not in hospital or has been in hospital for less than 13 weeks, any benefit payable to or in respect of the spouse or partner must be increased, on the same date as the effective date of that reduction, by an amount equal to the difference between—
   (a) the maximum rate of benefit payable to a single person; and
   (b) the maximum rate of benefit payable in respect of a person who is married or in a civil union or in a de facto relationship and whose spouse or partner is receiving a benefit.
