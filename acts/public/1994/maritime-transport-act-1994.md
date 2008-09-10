@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-09-10_
 
 > An Act—aTo continue the Maritime Safety Authority of New Zealand; andbTo enable the implementation of New Zealand's obligations under international maritime agreements; andcTo ensure that participants in the maritime transport system are responsible for their actions; anddTo consolidate and amend maritime transport law; andefTo protect the marine environment; andgTo continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment
 
@@ -4307,8 +4307,11 @@ The person appointed as the Maritime Appeal Authority shall be appointed for a t
 ### 4
 The person appointed as the Maritime Appeal Authority shall cease to hold office if that person—and, if by reason of disability that person becomes incapable of performing the functions of the office, that person may be removed from office by the Minister.
   (a) Is adjudged bankrupt; or
-  (b) Is convicted of any offence punishable by imprisonment; or
-  (c) Becomes a mentally disordered person within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992,—
+  (b) Is convicted of any offence punishable by imprisonment,—
+  (c)
+
+### 4A
+For the purposes of clause 4, disability has the meaning given by section 21(1)(h) of the Human Rights Act 1993.
 
 ### 5
 The person appointed as the Maritime Appeal Authority may at any time resign by notice in writing to the Minister.
