@@ -1,5 +1,5 @@
 # Trustee Act 1956
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2008-09-10_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to trusts and trustees
 
@@ -254,7 +254,7 @@ Where—the security shall be deemed to be an investment that could properly be 
   (h) Make such inquiries, by way of advertisement or otherwise, as he deems necessary for the purpose of ascertaining the next-of-kin or beneficiaries entitled to the property, and charge the cost of the inquiries and advertisements against the property:
   (i) Where the property includes a life policy and there is no money or insufficient money available for the payment of premiums on the policy, surrender the policy for money, or accept instead of the policy a fully paid up policy, or vary the terms of the policy in such manner as the trustee thinks fit:
   (j) Appropriate any part of the property in or towards satisfaction of any legacy payable thereout or any share thereof (whether settled, contingent, or absolute) to which any person is entitled, and for that purpose value the whole or any part of the property in accordance with section 28 of this Act:
-    Provided that before any such appropriation is effectual notice thereof shall be given to all persons of full age and full mental capacity who are interested in the appropriation, and any such person may within one calendar month after receipt of the notice apply to the Court to vary the same, and the appropriation shall be conclusive save as otherwise directed by the Court:
+    Provided that before any such appropriation is effectual notice thereof shall be given to all persons who are interested in the appropriation, and any such person may within one calendar month after receipt of the notice apply to the Court to vary the same, and the appropriation shall be conclusive save as otherwise directed by the Court:
     Provided also that where the person interested is out of the jurisdiction the said period of one month may be extended by the Court for such period as the Court thinks fit, on the application of the trustee or of any person interested:
   (k) Where provision is made in any instrument creating a trust for payment of an annuity or other periodical payment, and notwithstanding that the annuity or payment may by the instrument be charged upon the trust property or upon any part thereof, set aside and appropriate out of property available for payment of the annuity and invest a sum sufficient in the opinion of the trustee at the time of the appropriation to provide out of the income thereof the amount required to pay the annuity or periodical payment, and, after the appropriation shall have been made, the residue of the trust property and the income thereof shall no longer be liable for the annuity, and may be distributed forthwith in accordance with the trusts declared of and concerning the same:
   (l) Do or omit all acts and things, and execute all instruments necessary to carry into effect the powers and authorities given by this Act or by or under the instrument creating the trust.
