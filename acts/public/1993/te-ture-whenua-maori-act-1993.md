@@ -1,5 +1,5 @@
 # Te Ture Whenua Maori Act 1993/Maori Land Act 1993
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-09-10_
 
 > An Act to reform the laws relating to Maori land in accordance with the principles set out in the Preamble to this Act
 
@@ -2182,7 +2182,7 @@ In this Part of this Act, unless the context otherwise requires,—
   - **Maori community purposes** , in relation to any trust constituted under this Part of this Act, means the purposes specified or authorised by section 218 of this Act
   - **Person under disability** means any person (not being a patient within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992)—
     (a) Who is a minor; or
-    (b) Who is mentally disordered within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
+    (b)
     (c) Who is detained in a prison; or
     (d) Who by reason of age or of physical or mental disablement, lacks, wholly or partly, in the opinion of the Court, the competence to manage his or her own affairs in relation to his or her property:
   - **Responsible trustee** , in relation to any trust constituted under this Part of this Act, means a trustee who is responsible for the administration of the trust, whether or not the trust property is vested in that trustee.
@@ -2757,9 +2757,15 @@ No shareholder in a Maori incorporation shall have any personal liability, wheth
 ### 272 Qualification, disqualification, and removal of members
 (1) It shall not be necessary in the case of any person elected or appointed to a committee of management of a Maori incorporation that the person be a shareholder in the incorporation.
 (2) Without limiting the powers of the Court under section 269(4) of this Act, no person shall be appointed or elected or shall continue to hold office as a member of a committee of management who is or becomes—
-  (a) A person who is, or is deemed to be, subject to a compulsory treatment order made under Part 2 of the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
+  (a) a person who is subject to a personal order or a property order made under the Protection of Personal and Property Rights Act 1988 or for whom a trustee corporation is acting as manager under section 32 or 33 of that Act; or
   (b) A bankrupt who has not obtained an order of discharge, or whose order of discharge is suspended for a term not yet expired or is subject to conditions not yet fulfilled; or
   (c) A person convicted of any offence punishable by imprisonment for a term of 6 months or more, unless that person has served the sentence or otherwise suffered the penalty imposed upon that person.
+(3) However, if a property order is made in respect of a member of a committee of management under section 30 of the Protection of Personal and Property Rights Act 1988,—
+  (a) the member does not cease to hold office as a member of the committee by virtue only of the making of that order; but
+  (b) while that order remains in force, the member is suspended from office.
+(4) A member who is suspended from office under subsection (3)—
+  (a) is deemed to have been granted leave of absence; and
+  (b) is not capable of acting as a member of the committee during the period of suspension.
 
 ### 273 Election of chairman of committee and appointment of secretary
 (1) The committee of management of a newly constituted Maori incorporation shall hold its first meeting within 1 month after the date of its appointment, and the members shall elect 1 of their number to be chairman and shall determine the period for which that person is to hold office.
@@ -3624,3 +3630,20 @@ The Limitation Act 1950 is hereby further amended by inserting, after section 7,
 | 1988, No 4-The Protection of Personal and Property Rights Act 1988 | By inserting in section 31(1), after the words of this section, the words and to sections 31A and 31B of this Act. By inserting, after section 31, the following sections:31AKai tiaki trustsWhere a kai tiaki trust is constituted under section 217 of Te Ture Whenua Maori Act 1993 in respect of any interests in Maori land or General land or any shares in a Maori incorporation or any personal property to which any person under disability (within the meaning of Part XII of that Act) is entitled, no property order made under section 31 of this Act and no declaration accepted by a trustee corporation and filed under section 32(3) or section 33(4) of this Act shall apply in respect of any such interests or shares or property.31BMaori land or shares in Maori incorporation1Where it appears to a Family Court that an application for the exercise of the Court's jurisdiction under this Part of this Act may result in an order appointing one or more persons to act as the manager of-aBeneficial interests in Maori freehold land (as defined in section 4 of Te Ture Whenua Maori Act 1993); orbShares in a Maori incorporation (as defined in section 246 of Te Ture Whenua Maori Act 1993),—the Court shall refer that application to the Maori Land Court.2Where an application is referred to the Maori Land Court under subsection (1) of this section, the Maori Land Court shall treat that application, to the extent that it relates to beneficial interests in Maori freehold land or shares in a Maori incorporation or both, as if it were an application under section 217 of Te Ture Whenua Maori Act 1993 for the constitution of a kai tiaki trust in respect of those interests or shares or both.3Where the Maori Land Court constitutes a kai tiaki trust in respect of any beneficial interests in Maori freehold land or shares in a Maori incorporation,—aNo order shall be made under section 31 of this Act in respect of those interests or shares; andbNo trustee corporation shall, under section 32(3) or section 33(4) of this Act, accept any application filed under section 33 or section 34 of this Act in respect of those interests or shares.4Where the Maori Land Court, after considering an application referred to that Court under subsection (1) of this section, declines to constitute a kai tiaki trust in respect of any beneficial interests in Maori freehold land or any shares in Maori incorporation to which that application relates, a Family Court may-aMake a property order under section 31 of this Act in respect of those interests or shares or any of them; orbOtherwise exercise its jurisdiction under this Part of this Act in respect of those interests or shares or any of them. By repealing section 115. |
 
 ## Schedule 2 — Enactments repealed
+
+### 1 Title
+This Act is the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 1 — Amendments to Statutes
+
+**Amendments to Te Ture Whenua Maori Act 1993**
+
+### 21 Amendments to Te Ture Whenua Maori Act 1993
+(1) This section amends Te Ture Whenua Maori Act 1993.
+(2) Amendment incorporated in the principal Act.
+(3) Amendment incorporated in the principal Act.
+(4) Amendments incorporated in the principal Act.
+(5) Subsection (2) of this section does not apply to a kai tiaki trust constituted under Part 12 of Te Ture Whenua Maori Act 1993 before the commencement of this section.
