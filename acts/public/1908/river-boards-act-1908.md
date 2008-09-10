@@ -1,5 +1,5 @@
 # River Boards Act 1908
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-09-10_
 
 > An Act to consolidate certain enactments of the General Assembly relating to the constitution of River Boards and the construction of river works
 
@@ -140,8 +140,8 @@ Every ratepayer, except as provided in section 112 of the Local Elections and Po
 ### 29 Disqualification of members
 (1) No person who—shall be capable of being elected to be a member of a Board or of remaining as a member of a Board.
   (a) Is convicted of any offence punishable by death or a term of imprisonment of 2 years or more, unless (in the case of a person seeking election) he has obtained a pardon or has served his sentence or otherwise suffered the penalty imposed on him:
-  (b) Is detained in a hospital under the Mental Health Act 1969—
-(2) In any case to which subsection (1)(a) of this section applies—
+  (b)
+(2) In any case to which subsection (1) of this section applies—
   (a) The disqualification shall not take effect until the expiration of the time for appealing against the conviction and, in the event of an appeal against the conviction, until the appeal is determined; and
   (b) The member concerned shall be deemed to have been granted leave of absence until the expiration of that time, and shall not be capable of acting as a member during the period of that leave of absence.
 
