@@ -1,5 +1,5 @@
 # Soil Conservation and Rivers Control Act 1941
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-09-10_
 
 > An Act to make provision for the conservation of soil resources and for the prevention of damage by erosion, and to make better provision with respect to the protection of property from damage by floods
 
@@ -8,36 +8,33 @@ This Act may be cited as the Soil Conservation and Rivers Control Act 1941.
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **Authority**
   - **Catchment Board** or means a Catchment Board constituted under this Act; and includes, in relation to any area which is not within a catchment district, the territorial authority with jurisdiction over that area or, if there is no such territorial authority, the Minister of Local Government
-  - **Catchment district** or means a catchment district constituted under this Act
-  - **Clerk**
-  - **Constituent district** , in relation to any catchment district, means—
-    (a) Any district of a territorial authority, within the meaning of the Local Government Act 2002, situated wholly or partly within the catchment district:
+  - **catchment district** or means a catchment district constituted under this Act
+  - **constituent district** , in relation to any catchment district, means—
+    (a) any district of a territorial authority, within the meaning of the Local Government Act 2002, situated wholly or partly within the catchment district:
     (b)
     (c)
-    (d) Any constituent district for the time being constituted by Order in Council under section 42A of this Act (as inserted by section 3 of the Soil Conservation and Rivers Control Amendment Act 1967):
-  - **Council**
-  - **Defence against water** includes any dam, weir, bank, carriageway, groyne, or reservoir, and any structure or appliance of whatsoever kind which has or may have the effect of stopping, diverting, controlling, restricting, or otherwise regulating the flow or spread or subsidence, in or out of a watercourse, of water including flood waters
-  - **Drainage district** and mean respectively a drainage district and a Board of Trustees for a drainage district constituted under the Land Drainage Act 1908
-  - **Internal drainage district** , in relation to a catchment district, means any drainage district or part of a drainage district situated within the catchment district
-  - **Internal Drainage Board** means the Drainage Board of an internal drainage district or of the drainage district of which an internal drainage district forms part
-  - **Internal river district** , in relation to a catchment district, means any river district or part of a river district situated within the catchment district
-  - **Internal River Board** means the River Board of an internal river district or of the river district of which an internal river district forms part
+    (d) any constituent district for the time being constituted by Order in Council under section 42A (as inserted by section 3 of the Soil Conservation and Rivers Control Amendment Act 1967)
+  - **defence against water** includes any dam, weir, bank, carriageway, groyne, or reservoir, and any structure or appliance of whatsoever kind which has or may have the effect of stopping, diverting, controlling, restricting, or otherwise regulating the flow or spread or subsidence, in or out of a watercourse, of water including flood waters
+  - **drainage district** and mean respectively a drainage district and a Board of Trustees for a drainage district constituted under the Land Drainage Act 1908
+  - **internal Drainage Board** means the Drainage Board of an internal drainage district or of the drainage district of which an internal drainage district forms part
+  - **internal drainage district** , in relation to a catchment district, means any drainage district or part of a drainage district situated within the catchment district
+  - **internal River Board** means the River Board of an internal river district or of the river district of which an internal river district forms part
+  - **internal river district** , in relation to a catchment district, means any river district or part of a river district situated within the catchment district
   - **local governing authority** means a territorial authority within the meaning of the Local Government Act 2002
-  - **Member** means a member of a Catchment Board
+  - **member** means a member of a Catchment Board
   - **Minister** means the Minister for the Environment
-  - **River district** and mean respectively a river district and a River Board constituted under the River Boards Act 1908
+  - **river district** and mean respectively a river district and a River Board constituted under the River Boards Act 1908
   - **Secretary** means the Secretary to a Catchment Board
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002
-  - **Tidal lands** means such parts of the bed, shore, or banks of a tidal water as are covered and uncovered by the flow and ebb of the tide at ordinary spring tides
-  - **Tidal water** means any part of the sea or of a river within the ebb and flow of the tide at ordinary spring tides
-  - **Watercourse** includes every river, stream, passage, and channel on or under the ground, whether natural or not, through which water flows, whether continuously or intermittently.
-(1A) For the purposes of the definition of the term Catchment Board in subsection (1) of this section, a territorial authority shall be deemed to have jurisdiction over any part of the territorial sea adjacent to its territorial authority district which is not within a catchment district.
+  - **tidal lands** means such parts of the bed, shore, or banks of a tidal water as are covered and uncovered by the flow and ebb of the tide at ordinary spring tides
+  - **tidal water** means any part of the sea or of a river within the ebb and flow of the tide at ordinary spring tides
+  - **watercourse** includes every river, stream, passage, and channel on or under the ground, whether natural or not, through which water flows, whether continuously or intermittently.
+(1A) For the purposes of the definition of the term Catchment Board in subsection (1), a territorial authority shall be deemed to have jurisdiction over any part of the territorial sea adjacent to its territorial authority district which is not within a catchment district.
 (2) When anything is required to be published, or publicly notified, or public notice of anything is to be given, it is meant that a notice thereof shall be published in some newspaper circulating in the district, or, where there is no such newspaper in general circulation, that printed placards containing the notice shall be affixed to public places in the district. A notice setting forth the object, purport, or general effect of a document shall in any case be sufficient notice of that document.
 (3) If an area of land is defined in any document for the purposes of this Act and the definition assigns to the area a distinguishing name, then, if the document is gazetted, it shall be sufficient definition of the area in future documents relating to the same area to refer to it by the name so assigned with the addition of a reference, by the date, page, and number of the Gazette, to the document by which the name was assigned and the area defined.
 
-## Part 1 — National Water and Soil Conservation Authority
+## Part 1 — Minister for the Environment
 
 ### 3 Soil Conservation and Rivers Control Council established
 [Repealed]
@@ -65,21 +62,21 @@ This Act may be cited as the Soil Conservation and Rivers Control Act 1941.
 
 ### 10 Objects of Act
 The objects of this Act are—
-  (a) The promotion of soil conservation:
-  (b) The prevention and mitigation of soil erosion:
-  (c) The prevention of damage by floods:
-  (d) The utilisation of lands in such a manner as will tend towards the attainment of the said objects.
+  (a) the promotion of soil conservation:
+  (b) the prevention and mitigation of soil erosion:
+  (c) the prevention of damage by floods:
+  (d) the utilisation of lands in such a manner as will tend towards the attainment of the said objects.
 
 ### 10A Relationship to Resource Management Act 1991
-Notwithstanding section 10 of this Act, nothing in this Act shall derogate from the provisions of sections 176 to 182 of the Harbours Act 1950 or the Resource Management Act 1991.
+Notwithstanding section 10, nothing in this Act shall derogate from the provisions of sections 176 to 182 of the Harbours Act 1950 or the Resource Management Act 1991.
 
-### 11 Functions of the authority
+### 11 Functions of the Authority
 [Repealed]
 
-### 12 Authority to have powers of commission of inquiry
+### 12 Authority to have powers of Commission of Inquiry
 [Repealed]
 
-### 13 Catchment territory, catchment areas, and catchment commissions
+### 13 Catchment territory, catchment areas, and Catchment Commissions
 [Repealed]
 
 ### 14 Regulation of certain operations in catchment areas
@@ -95,25 +92,24 @@ Notwithstanding section 10 of this Act, nothing in this Act shall derogate from 
 (4) Every soil conservation reserve shall be under the control and management of the Board within whose district it is situated, and the Board shall manage and control the reserve in such manner as in its opinion will best conserve the soil of the reserve and prevent injury to other land.
 (5) For the purposes of this section—
   - **Crown land** has the same meaning as in the Public Works Act 1981
-  - **Private land** means any land other than Crown land, and includes Maori land and any former Crown land reserved for any public purpose whatsoever, whether or not the land so reserved has been vested in any trustees or body corporate.
+  - **private land** means any land other than Crown land, and includes Maori land and any former Crown land reserved for any public purpose whatsoever, whether or not the land so reserved has been vested in any trustees or body corporate.
 
 ### 17 Offences in relation to soil conservation reserves
 (1) Every person is liable to a fine not exceeding $1,000 who, at any time while any land is a soil conservation reserve under this Act or at any time after the gazetting of any notice under section 23 of the Public Works Act 1981 describing any private land intended to be taken or acquired as a soil conservation reserve,—
-  (a) Lights a fire on any such land; or
-  (b) Without the written consent of the Board, or without other lawful authority, cuts, injures, destroys, or removes the whole or any part of any tree, shrub, plant, or grass, or any stone, mineral, or thing of any kind; or
-  (c) Is the owner of any cattle, horses, or other animals which trespass upon any such land; or
-  (d) In any way injuriously interferes with any such land.
+  (a) lights a fire on any such land; or
+  (b) without the written consent of the Board, or without other lawful authority, cuts, injures, destroys, or removes the whole or any part of any tree, shrub, plant, or grass, or any stone, mineral, or thing of any kind; or
+  (c) is the owner of any cattle, horses, or other animals which trespass upon any such land; or
+  (d) in any way injuriously interferes with any such land.
 (2) In addition to any penalty imposed under the last preceding subsection, there may be imposed a penalty equal to the value of all damage done together with twice the full market value of any timber unlawfully cut and removed, and every such penalty shall be recoverable as a fine.
 
 ### 18 Unbranded animals trespassing in soil conservation reserves
-All unbranded cattle, horses, or other animals above the age of 6 months, or apparently above that age, which are at any time depasturing in a soil conservation reserve on land not subject to a licence granted under section 20 of this Act, and which have no reputed owner, shall be deemed to be the property of the Board, and may be destroyed, sold, or otherwise disposed of as the Board thinks fit.
+All unbranded cattle, horses, or other animals above the age of 6 months, or apparently above that age, which are at any time depasturing in a soil conservation reserve on land not subject to a licence granted under section 20, and which have no reputed owner, shall be deemed to be the property of the Board, and may be destroyed, sold, or otherwise disposed of as the Board thinks fit.
 
 ### 19 Acquisition of other land
 (1)
 (2)
 (3)
-(4) Any land taken or otherwise acquired under this section shall be taken or otherwise acquired as for a public work under the Public Works Act 1981, and the provisions of that Act shall apply accordingly:
-  Provided that in determining the amount of compensation to be awarded in respect of any land taken under this section the Land Valuation Tribunal shall not take into account any effect on the value of the land caused by the operation of any bylaw made under section 150 hereof, or of any direction, requirement, prohibition, condition, limitation, or restriction given or imposed under any such bylaw.
+(4) Any land taken or otherwise acquired under this section shall be taken or otherwise acquired as for a public work under the Public Works Act 1981, and the provisions of that Act shall apply accordingly:provided that in determining the amount of compensation to be awarded in respect of any land taken under this section the Land Valuation Tribunal shall not take into account any effect on the value of the land caused by the operation of any bylaw made under section 150, or of any direction requirement, prohibition, condition, limitation, or restriction given or imposed under any such bylaw.
 
 ### 20 Disposal of land not required
 (1) Except as hereinafter provided in this section, every soil conservation reserve under this Act shall be inalienable.
@@ -121,70 +117,70 @@ All unbranded cattle, horses, or other animals above the age of 6 months, or app
 (3) The Board may from time to time upon or subject to such terms and conditions as it thinks fit grant licences to occupy any soil conservation reserve or any part thereof for pastoral purposes or for the purpose of cutting, felling, and removing timber or flax.
 (4) If the Board is of opinion that the whole or any part of any soil conservation reserve is no longer required for the purposes for which it is set aside, the Governor-General may, if he thinks fit, by Proclamation declare that the soil conservation reserve or part thereof shall thereafter be Crown lands within the meaning of the Land Act 1948, and any such lands may thereafter be dealt with or disposed of under that Act.
 (5) Any land taken or otherwise acquired under the last preceding section may be dealt with or disposed of under the Land Act 1948.
-(6) Such amounts as may be mutually agreed upon by the Board and the Minister of Lands in respect of any land which, pursuant to either of the last two preceding subsections may be dealt with or disposed of as Crown land shall be transferred from the Crown Bank Account to such other account as the Minister of Finance shall determine.
+(6) Such amounts as may be mutually agreed upon by the Board and the Minister of Lands in respect of any land which, pursuant to either of the last 2 preceding subsections, may be dealt with or disposed of as Crown land shall be transferred from a Crown Bank Account to such other account as the Minister of Finance shall determine.
 
 ### 21 Surveys and inspections
 (1) The provisions of sections 110, 111, and 112 of the Public Works Act 1981 shall apply in respect of works which the Minister is authorised to undertake and to the carrying out of any of the Minister's functions as if references in those sections to a Minister of the Crown were references to the Minister.
-(2) For the purposes of taking levels or making surveys or inspections, any person authorised under section 110 or section 111 of the Public Works Act 1981 (as applied by subsection (1) of this section) may examine any dam, weir, sluice, flood gate, or stopbank, or any other work erected in or upon any watercourse, and open or raise any flood gate or sluice, and make any soundings, or bore the bed or channel of any part of any watercourse.
+(2) For the purposes of taking levels or making surveys or inspections, any person authorised under section 110 or section 111 of the Public Works Act 1981 (as applied by subsection (1)) may examine any dam, weir, sluice, flood gate, or stopbank, or any other work erected in or upon any watercourse, and open or raise any flood gate or sluice, and make any soundings, or bore the bed or channel of any part of any watercourse.
 
-### 22 Powers of authority as to watercourses and defences against water
+### 22 Powers of Authority as to watercourses and defences against water
 [Repealed]
 
-### 23 Incidental powers of authority
+### 23 Incidental powers of Authority
 [Repealed]
 
 ### 23A Delegation of work
 [Repealed]
 
-### 23AA Delegation of powers and functions to catchment commission
+### 23AA Delegation of powers and functions to Catchment Commission
 [Repealed]
 
 ### 23B Administrative rates in catchment areas
 [Repealed]
 
-### 24 Local authorities may contribute towards cost of works
+### 24 Local authorities may contribute towards cost of constructing or maintaining works executed by Authority
 [Repealed]
 
-### 24A Financing local authority's share of cost of works it undertakes by agreement with authority
+### 24A Financing local authority's share of cost of works it undertakes by agreement with Authority
 [Repealed]
 
 ### 25 Contribution by landowners to cost of works
 [Repealed]
 
-### 26 Exercise by Minister of powers of catchment Board or other Authority in default
+### 26 Exercise by Minister of powers of Catchment Board or other authority in default
 [Repealed]
 
-### 27 Recovery by Authority of cost
+### 27 Recovery by Minister of cost
 [Repealed]
 
 ### 28 Minister may empower Valuer-General to raise the amount due by means of rates
 [Repealed]
 
 ### 29 Repeal
-The last 3 preceding sections are in substitution for the River Boards Amendment Act 1917, and that Act is hereby repealed.
+The last 3 preceding sections are in substitution for the River Boards Amendment Act 1917 and that Act is hereby repealed.
 
 ### 30 Grants and loans by Minister
 (1) The Minister may make grants or loans to any person or body for all or any of the following purposes:
-  (a) Fencing any land so as to protect vegetation thereon for the purpose of conserving the soil:
-  (b) Constructing defences against water and any other works for preventing the erosion of soil:
-  (c) Purchasing, planting, and maintaining trees, shrubs, plants, or grasses for the purpose of conserving the soil:
-  (d) Executing any other works or doing any other act or thing which in the opinion of the Minister it is necessary or expedient to execute or do for the attainment of any of the objects of this Act:
-  (e) Meeting the preliminary expenses in connection with the establishment of any catchment district and the expenses of the first election of any Catchment Board:
-  (f) Meeting the administration expenses of any Board for a period expiring not more than 2 years after the first meeting of the Board.
-  (g) Enabling any local authority, Catchment Board, Drainage Board, or River Board to purchase plant and machinery for use for soil conservation or river control purposes:
-  (h) Providing for the academic and practical training of the employees of any Catchment Board including any travelling incidental to such training:
-  (i) Enabling any Catchment Board to purchase or acquire land or buildings for public offices or to construct, add to, or improve any buildings for that purpose.
+  (a) fencing any land so as to protect vegetation thereon for the purpose of conserving the soil:
+  (b) constructing defences against water and any other works for preventing the erosion of soil:
+  (c) purchasing, planting, and maintaining trees, shrubs, plants, or grasses for the purpose of conserving the soil:
+  (d) executing any other works or doing any other act or thing which in the opinion of the Minister it is necessary or expedient to execute or do for the attainment of any of the objects of this Act:
+  (e) meeting the preliminary expenses in connection with the establishment of any catchment district and the expenses of the first election of any Catchment Board:
+  (f) meeting the administration expenses of any Board for a period expiring not more than 2 years after the first meeting of the Board:
+  (g) enabling any local authority, Catchment Board, Drainage Board, or River Board to purchase plant and machinery for use for soil conservation or river control purposes:
+  (h) providing for the academic and practical training of the employees of any Catchment Board including any travelling incidental to such training:
+  (i) enabling any Catchment Board to purchase or acquire land or buildings for public offices or to construct, add to, or improve any buildings for that purpose.
 (2) Any grant or loan made under this section shall be made upon or subject to such terms and conditions as the Minister thinks fit:
-  Provided that any loan to a local authority within the meaning of the Local Government Act 2002 shall be made only upon and subject to such terms and conditions as the Minister of Finance thinks fit.
+  provided that any loan to a local authority within the meaning of the Local Government Act 2002 shall be made only upon and subject to such terms and conditions as the Minister of Finance thinks fit.
 (2A) No grant or loan shall so be made by the Minister to the owner or occupier of any land except on terms or conditions which require him, within or during a specified period, to maintain or to construct and maintain works or do work on his land of value at least equal to the amount of the grant or loan or to apply specified farming practices to or on his land; and to repay the grant or loan or such proportion thereof as the Minister shall stipulate if he fails to comply with the terms or conditions.
 (3) Any grant or loan made under this section may be made directly by the Minister to the person or body; or by the Minister to a Catchment Board or local authority under an arrangement that the Catchment Board or local authority shall become at law the grantor or lender of the money to a person or body specified by the Minister, upon the terms and conditions required by this Act and by the Minister and, so far as they do not conflict with those terms and conditions, by the Board or local authority; and, except as expressly provided in this section, any such grant or loan may be made either without security or upon such security as the Minister thinks fit; and where security is required in respect of money to be expended in the improvement of land, it shall be by way of a land improvement agreement as hereinafter specified made between the person or body receiving the grant or loan and the Minister or Board or local authority from which it is received.
 (4) Notwithstanding anything to the contrary in any Act or rule of law, every local authority, Catchment Board, Drainage Board, and River Board shall have power to accept any loan made by the Minister and to agree with the Minister for the repayment of the amount thereof.
-(5) Any Catchment Board may repay any loan made under this section out of the proceeds of any separate rate levied under s 40 of the Rating Powers Act 1988, and the Board may make provision for repayment as aforesaid in any agreement made under the last preceding subsection.
+(5) Any Catchment Board may repay any loan made under this section out of the proceeds of any separate rate levied under section 40 of the Rating Powers Act 1988, and the Board may make provision for repayment as aforesaid in any agreement made under the last preceding subsection.
 
 ### 30A Land improvement agreements
-(1) Every land improvement agreement under subsection (3) of section 30 of this Act shall be in a form approved by the Minister, either for a specific transaction or generally for a particular class of transactions, specifying the obligations of the parties in respect of work and payment, and including a covenant by the owner or occupier binding himself and his successors in title to perform and observe the terms and conditions upon which the grant or loan was made.
+(1) Every land improvement agreement under subsection (3) of section 30 shall be in a form approved by the Minister, either for a specific transaction or generally for a particular class of transactions, specifying the obligations of the parties in respect of work and payment, and including a covenant by the owner or occupier binding himself and his successors in title to perform and observe the terms and conditions upon which the grant or loan was made.
 (2) Where in the opinion of the Minister such a course is appropriate, any land improvement agreement may relate portions of a grant to specified works, or to specified periods of maintenance, or to the application of particular farming practices during specified periods; and may provide for any sum repayable upon default to be diminished in proportion to the extent to which the agreement has been performed or observed.
-(3) Where the owner or occupier of any land has entered into a land improvement agreement, that agreement may be registered against the title of that owner or occupier to the whole or any part of the land to which the agreement relates. Registration of a land improvement agreement may be effected by depositing with the Registrar a duplicate of the agreement, certified under the hand of the authorised officer specified in subsection (14) of this section, together with an application for the registration of the agreement, which application shall be signed by the authorised officer and shall specify the land against which it is desired to register the agreement, and shall certify that the agreement is one that may be registered against the land under this section. On receipt of the duplicate agreement and application as aforesaid, and on payment of a fee of 50c, the Registrar shall enter a memorial of the agreement upon the register against the title to the land of the owner or occupier who is a party to the agreement specified in the application. In any such case it shall not be necessary for the Registrar to record the like memorial on the duplicate certificate of title or lease. The memorial may sufficiently describe the agreement as a land improvement agreement under the Soil Conservation and Rivers Control Act 1941.
+(3) Where the owner or occupier of any land has entered into a land improvement agreement, that agreement may be registered against the title of that owner or occupier to the whole or any part of the land to which the agreement relates. Registration of a land improvement agreement may be effected by depositing with the Registrar a duplicate of the agreement, certified under the hand of the authorised officer specified in subsection (14), together with an application for the registration of the agreement, which application shall be signed by the authorised officer and shall specify the land against which it is desired to register the agreement, and shall certify that the agreement is one that may be registered against the land under this section. On receipt of the duplicate agreement and application as aforesaid, and on payment of a fee of 50c, the Registrar shall enter a memorial of the agreement upon the register against the title to the land of the owner or occupier who is a party to the agreement specified in the application. In any such case it shall not be necessary for the Registrar to record the like memorial on the duplicate certificate of title or lease. The memorial may sufficiently describe the agreement as a land improvement agreement under the Soil Conservation and Rivers Control Act 1941.
 (4) Any land improvement agreement which varies or is in substitution for an earlier land improvement agreement (whether that agreement is registered or not) may be registered under this section.
 (5) On the expiration or termination, either in whole or in part, of a registered land improvement agreement the authorised officer shall sign a certificate to that effect and deposit it with the Registrar, who shall thereupon without fee enter a memorial of the expiration or termination on the register against the appropriate title.
 (6) While the land improvement agreement is registered against the title of any owner or occupier to any land, and until the expiry of the agreement by effluxion of time or (where the agreement is registered against the title of a lessee) the sooner determination of the lease and every renewal thereof by effluxion of time or otherwise, the agreement shall run at law with the land against the title to which it is registered, so as to confer and impose upon every person who at the date of registration of the agreement, or at any time thereafter, is for the time being the occupier of that land or of any part thereof, a right to enforce and an obligation to observe and perform the agreement during the period of his occupancy of the land or of any part thereof in the same manner as if the occupier had been a party to the agreement. Where there are 2 or more such occupiers, the obligation and liability so imposed on them shall be borne by them in such manner as the Minister and those occupiers may agree or in default of agreement shall be borne by those occupiers jointly.
@@ -192,21 +188,20 @@ The last 3 preceding sections are in substitution for the River Boards Amendment
 (8) Where the lessee for the time being under any lease of the land or any part thereof obtains a title in fee simple to the land or any part thereof, the land improvement agreement and the provisions of this Act shall continue to apply to the land to which the title in fee simple has been obtained as if the agreement, so far as it affects that land, had been made with the legal owner in fee simple of the land.
 (9) No land improvement agreement which runs with the land in accordance with this section shall confer any right or impose any obligation on any party to the agreement or any occupier of the land, except in respect of the period of his occupation of the land.
 (10) If at any time there is default in the observance or performance of any of the obligations in respect of the land which are specified in the land improvement agreement, the authorised officer may, on payment of a fee of 50c, deposit with the Registrar a certificate under his hand specifying the amount payable and unpaid under the agreement in respect of the default by any owner or occupier of the land and the registered estate or interest of that owner or occupier in any land against the title to which the agreement is registered, and the Registrar shall thereupon register the certificate in respect of the said estate or interest of that owner or occupier.
-(11) Upon registration of the certificate, the amount mentioned therein, and all money which after the signing of the certificate and before the release thereof accrues due by that owner or occupier under the land improvement agreement, shall, until payment thereof, be a charge on the said estate or interest in the land of that owner or occupier. Every charge in respect of which a certificate is registered under subsection (10) of this section shall have priority in relation to all other transactions affecting the land as if it had been registered at the time when the land improvement agreement was registered under subsection (3) of this section.
+(11) Upon registration of the certificate, the amount mentioned therein, and all money which after the signing of the certificate and before the release thereof accrues due by that owner or occupier under the land improvement agreement, shall, until payment thereof, be a charge on the said estate or interest in the land of that owner or occupier. Every charge in respect of which a certificate is registered under subsection (10) shall have priority in relation to all other transactions affecting the land as if it had been registered at the time when the land improvement agreement was registered under subsection (3).
 (12) Where any occupier has an interest in the land as lessee under a lease, the charge shall extend to the interest (if any) of the lessee in any improvements to the land and in any money that may be payable by the lessor and by an incoming tenant and otherwise for any such improvements, whether during the term of the lease or thereafter.
-(13) For the purpose of enforcing any charge under this section, the High Court or a Judge thereof may make such order as he or it thinks fit, either for the sale of the estate or interest which is subject to a charge, or for the appointment of a receiver or otherwise; and any order for sale shall be carried into effect by the Sheriff in the same manner as in the case of a writ for sale, with any modifications that may be necessary or may be provided by rules of Court in that behalf:
-  Provided that, in the case of Maori freehold land within the meaning of the Maori Affairs Act 1953, the charge shall be enforceable only by the appointment of a receiver in accordance with section 33 of that Act and subsections (3) to (5) of that section shall apply to the receiver so appointed.
+(13) For the purpose of enforcing any charge under this section, the High Court or a Judge thereof may make such order as he or it thinks fit, either for the sale of the estate or interest which is subject to a charge, or for the appointment of a receiver or otherwise; and any order for sale shall be carried into effect by the Sheriff in the same manner as in the case of a writ for sale, with any modifications that may be necessary or may be provided by rules of court in that behalf:provided that, in the case of Maori freehold land within the meaning of the Maori Affairs Act 1953, the charge shall be enforceable only by the appointment of a receiver in accordance with section 33 of that Act and subsections (3) to (5) of that section shall apply to the receiver so appointed.
 (14) For the purposes of this section, unless the context otherwise requires,—
-  (a) All land which is not otherwise occupied shall be deemed to be in the occupation of the owner in fee simple thereof:
+  (a) all land which is not otherwise occupied shall be deemed to be in the occupation of the owner in fee simple thereof:
   (b) authorised officer means—
     (i) the Minister; or
     (ii) the chief executive of the Catchment Board, or local authority, which is a party to the agreement:
-  (c) Lease means a registered lease and any lease or licence, registered or unregistered, from the Crown, including a registered or unregistered licence from the Crown to occupy any land pending the completion of the purchase of that land under a system of deferred payment:
-  (d) Registrar, in relation to any land (including the land comprised in a mining privilege that is registered under the Land Transfer Act 1952), means the District Land Registrar or the Registrar of Deeds, as the case may require, for the land registration district within which the land is situated; and, in relation to any land comprised in a mining privilege that is not registered under the Land Transfer Act 1952, or in relation to a coal-mining lease or coal-mining right under the Coal Mines Act 1979 that is recorded in the office of a Mining Registrar, means the Mining Registrar in whose office the mining privilege or lease or right is registered or recorded.
+  (c) lease means a registered lease and any lease or licence, registered or unregistered, from the Crown, including a registered or unregistered licence from the Crown to occupy any land pending the completion of the purchase of that land under a system of deferred payment:
+  (d) Registrar, in relation to any land (including the land comprised in a mining privilege that is registered under the Land Transfer Act 1952), means the District Land Registrar or the Registrar of Deeds, as the case may require, for the land registration district within which the land is situated; and, in relation to any land comprised in a mining privilege that is not registered under the Land Transfer Act 1952, or in relation to a coal mining lease or coal mining right under the Coal Mines Act 1925 that is recorded in the office of a Mining Registrar, means the Mining Registrar in whose office the mining privilege or lease or right is registered or recorded.
 
-### 31 Expenditure to be appropriated by Parliament and receipts to be paid to Public Account
+### 31 Expenditure to be appropriated by Parliament and receipts to be paid to Crown Bank Account
 (1) All money expended or advanced by the Minister under this Act shall be paid out of money appropriated by Parliament for the purpose.
-(2) All money received by the Minister under this Act shall be paid into the Crown Bank Account or such other account as may be approved by the Minister of Finance or the Secretary to the Treasury.
+(2) All money received by the Minister under this Act shall be paid into a Crown Bank Account or such other account as may be approved by the Minister of Finance or the Secretary to the Treasury.
 
 ### 32 Contracts and consents by Authority
 [Repealed]
@@ -222,60 +217,60 @@ The last 3 preceding sections are in substitution for the River Boards Amendment
 
 ### 33B Appeal on a question of law
 (1) Where any party to any proceedings before—is dissatisfied with any decision of the Minister or Tribunal or assessor as being erroneous in point of law, that party may appeal to the High Court on that question of law.
-  (a) The Minister under this Act; or
-  (b) Any Tribunal under section 33A of this Act; or
-  (c) Any assessor under section 137 of this Act or under section 11 of the Soil Conservation and Rivers Control Amendment Act 1948—
-(2) Subject to sections 33C to 33I of this Act, every appeal under this section shall be dealt with in accordance with the rules of Court.
+  (a) the Minister under this Act; or
+  (b) any Tribunal under section 33A; or
+  (c) any assessor under section 137 of this Act or under section 11 of the Soil Conservation and Rivers Control Amendment Act 1948—
+(2) Subject to sections 33C to 33I, every appeal under this section shall be dealt with in accordance with the rules of court.
 
 ### 33C Notice of appeal
-(1) Every appeal under section 33B of this Act shall be instituted by the appellant lodging a notice of appeal within one month after the date of the decision with—
-  (a) The Registrar of the High Court in Wellington; and
-  (b) The Minister, where the Minister or a Tribunal is the respondent; and
-  (c) The Secretary of the Board which appointed the assessor, where an assessor is the respondent.
+(1) Every appeal under section 33B shall be instituted by the appellant lodging a notice of appeal within 1 month after the date of the decision with—
+  (a) the Registrar of the High Court in Wellington; and
+  (b) the Minister, where the Minister or a Tribunal is the respondent; and
+  (c) the Secretary of the Board which appointed the assessor, where an assessor is the respondent.
 (2) Either before or immediately after the lodging of the notice of appeal, the appellant shall serve a copy of the notice of appeal, either personally or by post, on every other party to the inquiry held by the Minister, Tribunal, or assessor.
 (3) Every notice of appeal shall specify—
-  (a) The decision or the part of the decision appealed from;
-  (b) The error of law alleged by the appellant;
-  (c) The question of law to be resolved; and
-  (d) The grounds of the appeal, which grounds shall be specified with such reasonable particularity as to give full advice to both the Court and the other parties of the issues involved.
+  (a) the decision or the part of the decision appealed from;
+  (b) the error of law alleged by the appellant;
+  (c) the question of law to be resolved; and
+  (d) the grounds of the appeal, which grounds shall be specified with such reasonable particularity as to give full advice to both the court and the other parties of the issues involved.
 (4) The Minister or Secretary of the Board shall, as soon as is practicable after receiving a copy of the notice of appeal, send a copy of the whole of the decision appealed from to the Registrar of the High Court in Wellington.
 
 ### 33D Right to appear and be heard on appeals
 (1) Any party to the inquiry held by the Minister, Tribunal, or assessor who wishes to appear and be heard on the hearing of the appeal shall, within 10 days after the date of the service on him of a copy of the notice of appeal, give notice of that party's intention to appear and be heard.
 (2) Any party who gives notice of intention to appear and be heard, and the appellant, shall be parties to the appeal and shall be entitled—
-  (a) To be served with every document which is thereafter filed or lodged with the Registrar of the High Court in Wellington and which relates to the appeal; and
-  (b) To receive a notice of the date set down for the hearing of the appeal.
+  (a) to be served with every document which is thereafter filed or lodged with the Registrar of the High Court in Wellington and which relates to the appeal; and
+  (b) to receive a notice of the date set down for the hearing of the appeal.
 
 ### 33E Orders relating to determination of appeals
-(1) Subject to subsections (2) and (3) of this section, the High Court may, of its own motion or on the application of any party to the appeal, make all or any of the following orders:
-  (a) An order directing the Minister, Tribunal, or assessor to lodge with the Registrar of the High Court in Wellington any document or other written material or any exhibit in the possession or custody of the Minister, Tribunal, or assessor:
-  (b) An order directing the Minister, Tribunal, or assessor to lodge with the Registrar a report recording, in respect of any matter or issue which the Court may specify, any of the findings of fact of the Minister, Tribunal, or assessor which are not set out or fully set out in its decision:
-  (c) An order directing the Minister, Tribunal, or assessor to lodge with the Registrar a report setting out, in respect of any matter or issue which the Court may specify, any reasons or consideration of the Minister, Tribunal, or assessor to which the Minister, Tribunal, or assessor had regard but which are not set out in its decision.
-(2) An application under subsection (1) of this section shall be made—
-  (a) In the case of the appellant, within one month after the date of the lodging of the notice of appeal; or
-  (b) In the case of any other party to the appeal, within one month after the date of the service on him of a copy of the notice of appeal.
-(3) The High Court may make an order under subsection (1) of this section only if it is satisfied that a proper determination of the point of law in issue so requires; and the order may be made subject to such conditions as the High Court thinks fit.
+(1) Subject to subsections (2) and (3), the High Court may, of its own motion or on the application of any party to the appeal, make all or any of the following orders:
+  (a) an order directing the Minister, Tribunal, or assessor to lodge with the Registrar of the High Court in Wellington any document or other written material or any exhibit in the possession or custody of the Minister, Tribunal, or assessor:
+  (b) an order directing the Minister, Tribunal, or assessor to lodge with the Registrar a report recording, in respect of any matter or issue which the court may specify, any of the findings of fact of the Minister, Tribunal, or assessor which are not set out or fully set out in its decision:
+  (c) an order directing the Minister, Tribunal, or assessor to lodge with the Registrar a report setting out, in respect of any matter or issue which the court may specify, any reasons or consideration of the Minister, Tribunal, or assessor to which the Minister, Tribunal, or assessor had regard but which are not set out in its decision.
+(2) An application under subsection (1) shall be made—
+  (a) in the case of the appellant, within 1 month after the date of the lodging of the notice of appeal; or
+  (b) in the case of any other party to the appeal, within 1 month after the date of the service on him of a copy of the notice of appeal.
+(3) The High Court may make an order under subsection (1) only if it is satisfied that a proper determination of the point of law in issue so requires; and the order may be made subject to such conditions as the High Court thinks fit.
 
 ### 33F Dismissal of appeal
-The High Court may dismiss any appeal under section 33B of this Act—
-  (a) If the appellant does not appear at the time appointed for the hearing of the appeal; or
-  (b) If the appellant does not prosecute his appeal with all due diligence and any party applies to the Court for the dismissal of the appeal.
+The High Court may dismiss any appeal under section 33B—
+  (a) if the appellant does not appear at the time appointed for the hearing of the appeal; or
+  (b) if the appellant does not prosecute his appeal with all due diligence and any party applies to the court for the dismissal of the appeal.
 
 ### 33G Appeal in respect of additional point of law
-Where any party to an appeal under section 33B of this Act, other than the appellant, wishes to contend at the hearing of the appeal that the decision appealed from is erroneous on a point of law other than those set out in the notice of appeal he shall, within one month after the date of the service on him of a copy of the notice of appeal, lodge a notice to that effect with the Registrar of the High Court in Wellington. The provisions of sections 33B and 33C(2) and (3), 33E, 33F, 33H, and 33I of this Act shall, as far as they are applicable and with the necessary modifications, apply to any notice lodged under this section as if it were a notice of appeal.
+Where any party to an appeal under section 33B, other than the appellant, wishes to contend at the hearing of the appeal that the decision appealed from is erroneous on a point of law other than those set out in the notice of appeal he shall, within 1 month after the date of the service on him of a copy of the notice of appeal, lodge a notice to that effect with the Registrar of the High Court in Wellington. The provisions of sections 33B and 33C(2) and (3), 33E, 33F, 33H, and 33I shall, as far as they are applicable and with the necessary modifications, apply to any notice lodged under this section as if it were a notice of appeal.
 
 ### 33H Extension of time
-The High Court or a Judge thereof may, in its or his discretion, on the application of the appellant or intending appellant or any other party, extend any time prescribed or allowed under any of the provisions of sections 33C to 33G of this Act for the lodging of any notice, application, or other document.
+The High Court or a Judge thereof may, in its or his discretion, on the application of the appellant or intending appellant or any other party, extend any time prescribed or allowed under any of the provisions of sections 33C to 33G for the lodging of any notice, application, or other document.
 
 ### 33I Date of hearing
 When any party to the appeal notifies the Registrar of the High Court in Wellington—the appeal shall be, in all respects, ready for hearing and the Registrar shall arrange a date for the hearing as soon as is practicable.
-  (a) That the notice of appeal has been served on all parties to the proceedings; and
-  (b) Either—
-    (i) That no application has been lodged under section 33E of this Act and that no order has been made under that section; or
-    (ii) That any application lodged under section 33E of this Act has been heard and that any order under that section has been complied with,—
+  (a) that the notice of appeal has been served on all parties to the proceedings; and
+  (b) either—
+    (i) that no application has been lodged under section 33E and that no order has been made under that section; or
+    (ii) that any application lodged under section 33E has been heard and that any order under that section has been complied with,—
 
 ### 33J Appeals to Court of Appeal
-The provisions of section 144 of the Summary Proceedings Act 1957 shall apply in respect of any determination of the High Court under section 33B of this Act as if the determination were made under section 107 of the Summary Proceedings Act 1957.
+The provisions of section 144 of the Summary Proceedings Act 1957 shall apply in respect of any determination of the High Court under section 33B as if the determination were made under section 107 of the Summary Proceedings Act 1957.
 
 ## Part 2 — Catchment districts
 
@@ -284,59 +279,57 @@ The Governor-General may, if on the recommendation of the Minister he thinks fit
 
 ### 34A Extending jurisdiction of Catchment Boards
 Notwithstanding anything to the contrary in—any restrictions on the application of the provisions of this Act contained in any such Order in Council or notice shall cease to have any force or effect on and after the commencement of this section.
-  (a) Any Order in Council constituting any catchment district under section 34 of this Act (as amended pursuant to or to give effect to section 19 of the Water and Soil Conservation Act 1967); or
-  (b) Any notice defining any catchment area under section 13 of this Act (as amended pursuant to or to give effect to section 19 of the Water and Soil Conservation Act 1967)—
+  (a) any Order in Council constituting any catchment district under section 34 (as amended pursuant to or to give effect to section 19 of the Water and Soil Conservation Act 1967); or
+  (b) any notice defining any catchment area under section 13 (as amended pursuant to or to give effect to section 19 of the Water and Soil Conservation Act 1967)—
 
 ### 35 Union of districts
-(1) The Governor-General may, if on the recommendation of the Minister he thinks fit so to do, by Order in Council declare any 2 or more districts to be united, and to form one district, with such name as he thinks fit.
+(1) The Governor-General may, if on the recommendation of the Minister he thinks fit so to do, by Order in Council declare any 2 or more districts to be united, and to form 1 district, with such name as he thinks fit.
 (2) Every such united district shall be deemed to be a district constituted under this Act, and the provisions of this Act shall apply thereto accordingly.
 (3) Until the elective members of the Board elected at the first election for the united district come into office, the elective members of the several Boards of the districts so united shall be the elective members of the Board of the united district, notwithstanding that they may exceed in numbers the elective members prescribed for that Board under the provisions of this Act.
 (4) On the union of 2 or more districts as herein provided the Boards of the original districts shall be dissolved.
 
 ### 36 Property, etc, of original districts to vest in united district
 On the union of 2 or more districts as provided in the last preceding section, the following provisions shall have effect:
-  (a) All property, real or personal, belonging to the Board of any of the original districts shall become vested in the Board of the united district:
-  (b) All rates and other money payable to the Board of any of the original districts shall become payable to the Board of the united district:
-  (c) All liabilities and engagements of the Board of any of the original districts shall become liabilities and engagements of the Board of the united district:
-  (d) All proceedings pending by or against the Board of any of the original districts may be carried on or prosecuted by or against the Board of the united district.
+  (a) all property, real or personal, belonging to the Board of any of the original districts shall become vested in the Board of the united district:
+  (b) all rates and other moneys payable to the Board of any of the original districts shall become payable to the Board of the united district:
+  (c) all liabilities and engagements of the Board of any of the original districts shall become liabilities and engagements of the Board of the united district:
+  (d) all proceedings pending by or against the Board of any of the original districts may be carried on or prosecuted by or against the Board of the united district.
 
-### 37 Alteration or abolition of Districts
+### 37 Alteration or abolition of districts
 [Repealed]
 
 ### 37A Constitution, alteration, or abolition of districts
 In the constitution, alteration, or abolition of a catchment district, proper regard shall be had to the direct and indirect benefit that will accrue or is likely to accrue to any area in that district from the carrying out in that district of any soil conservation, river control, flood prevention, or drainage work, and the absence in any such area of the need for any such work shall not of itself justify the exclusion of the area from that district.
 
 ### 38 Financial arrangements on alteration or abolition of districts
-(1) Where the boundaries of any district are altered, whether by the inclusion of any area therein or the exclusion of any area therefrom, the Audit Office, or such other person as the Governor-General may appoint for the purpose, shall hold an inquiry and make an award for the adjustment of property, debts, liabilities, and engagements between the district and any boroughs, counties, road districts, town districts, river districts, drainage districts, or other catchment districts affected, as the case may require.
-(2) Where a catchment district is abolished, the Audit Office, or such other person as the Governor-General may appoint for the purpose, shall hold an inquiry and make an award apportioning the property of the Board, and the debts, liabilities, and engagements thereof, amongst the boroughs, counties, road districts, town districts, river districts, and drainage districts situated within, or partly within and partly outside, the catchment district so abolished.
-(3) Any such award may provide for all or any of the matters included in the subject for inquiry, and may declare in whom any property shall be vested and by whom any money shall be paid or other acts and things done, including the payment by any party of the whole or any part of the expenses of the inquiry; and the person making the award may make and give such directions generally as may be necessary for giving full effect to the objects of the inquiry.
+(1) Where the boundaries of any district are altered, whether by the inclusion of any area therein or the exclusion of any area therefrom, the Auditor-General, or such other person as the Governor-General may appoint for the purpose, shall hold an inquiry and make an award for the adjustment of property, debts, liabilities, and engagements between the district and any boroughs, counties, road districts, town districts, river districts, drainage districts, or other catchment districts affected, as the case may require.
+(2) Where a catchment district is abolished, the Auditor-General, or such other person as the Governor-General may appoint for the purpose, shall hold an inquiry and make an award apportioning the property of the Board, and the debts, liabilities, and engagements thereof, amongst the boroughs, counties, road districts, town districts, river districts, and drainage districts situated within, or partly within and partly outside, the catchment district so abolished.
+(3) Any such award may provide for all or any of the matters included in the subject for inquiry, and may declare in whom any property shall be vested and by whom any moneys shall be paid or other acts and things done, including the payment by any party of the whole or any part of the expenses of the inquiry; and the person making the award may make and give such directions generally as may be necessary for giving full effect to the objects of the inquiry.
 (4) Every such award shall be final, and shall from the date thereof have the operation of and be enforceable as and be held to be a judgment of the High Court.
 (5) Where, pursuant to any award under this section, any sum is payable by any Catchment Board, River Board, or Drainage Board, or by any local authority, the Board or local authority, as the case may be, may raise that sum or any part of that sum by way of loan, and may secure the repayment of the loan by a rate over the area included in or excluded from the catchment district, or formerly within the catchment district abolished, as the case may be.
-(6) Neither the Audit Office nor any other person appointed under the foregoing provisions of this section to hold an inquiry and make an award shall be deemed to be an arbitrator within the meaning of the Arbitration Act 1908, and nothing in that Act shall apply to any such inquiry or award.
+(6) Neither the Auditor-General nor any other person appointed under the foregoing provisions of this section to hold an inquiry and make an award shall be deemed to be an arbitrator within the meaning of the Arbitration Act 1908, and nothing in that Act shall apply to any such inquiry or award.
 
 ### 39 Creditors not affected by alteration or abolition of districts
 No action taken under the last preceding section shall in any way affect the rights or interests of any debenture holder or other creditor of the Board, or shall affect any special rate, and every such rate shall continue to be charged upon the whole of the area upon which it was charged before the action was taken and it shall not by reason thereof become a charge on any additional area.
 
-## Part 3 — Catchment boards
+## Part 3 — Catchment Boards
 
 ### 40 Catchment Boards
-(1) In every catchment district there shall be a Board, which shall be a body corporate, having perpetual succession and a common seal, with power to make, alter, and renew the same, to purchase, take, hold, and transfer property, real and personal, to sue and be sued in any Court, and to do and suffer all other acts and things which a body corporate may lawfully do and suffer.
-(2) Every such Board shall be known as The [Stating the name] Catchment Board.
+(1) In every catchment district there shall be a Board, which shall be a body corporate, having perpetual succession and a common seal, with power to make, alter, and renew the same, to purchase, take, hold, and transfer property, real and personal, to sue and be sued in any court, and to do and suffer all other acts and things which a body corporate may lawfully do and suffer.
+(2) Every such Board shall be known as The [name] Catchment Board.
 
 ### 41 Constitution of Boards
-(1) Every Board shall consist of elective members or of both elective and non-elective members, as may be prescribed by the Governor-General by Order in Council:
-  Provided that the number of elective members shall exceed the number of non-elective members.
-(2) The elective members shall consist of one or more representatives of each of the constituent districts within the catchment district.
+(1) Every Board shall consist of elective members or of both elective and non-elective members, as may be prescribed by the Governor-General by Order in Council:provided that the number of elective members shall exceed the number of non-elective members.
+(2) The elective members shall consist of 1 or more representatives of each of the constituent districts within the catchment district.
 (3) The number of representatives of each constituent district shall be such as is determined from time to time in each case by the Governor-General by Order in Council on the recommendation of the Minister, having regard, in such manner as he thinks fit, to the relative populations of those districts, to the relative values of the rateable property therein, to the amount of rates levied or proposed or likely to be levied therein, and to all other relevant considerations.
-(3A) The local authority of any constituent district may at any time, by written notice, require the Board to investigate whether, having regard to the matters set out in subsection (3) of this section, the number of representatives of any constituent district should be changed.
-(3B) On receiving a notice under subsection (3A) of this section the Board shall conduct the required investigation and forward a report of its findings and its recommendation to the Minister within 6 months after the date of receipt of the notice or within such longer period as the Minister may allow. A copy of the report and recommendation shall be forwarded to the local authority of every constituent district at the same time as they are forwarded to the Minister.
-(3C) After considering the report and recommendation, and after giving the local authority of every constituent district an opportunity to comment on them, and after having regard to the matters set out in subsection (3) of this section, the Minister may in the Minister's discretion decide whether or not to accept the Board's recommendation with or without modification. If the Minister considers that a change in the number of representatives of any constituent district is appropriate, the Minister may recommend to the Governor-General that an Order in Council be issued under subsection (3) of this section to give effect to the change.
+(3A) The local authority of any constituent district may at any time, by written notice, require the Board to investigate whether, having regard to the matters set out in subsection (3), the number of representatives of any constituent district should be changed.
+(3B) On receiving a notice under subsection (3A) the Board shall conduct the required investigation and forward a report of its findings and its recommendation to the Minister within 6 months after the date of receipt of the notice or within such longer period as the Minister may allow. A copy of the report and recommendation shall be forwarded to the local authority of every constituent district at the same time as they are forwarded to the Minister.
+(3C) After considering the report and recommendation, and after giving the local authority of every constituent district an opportunity to comment on them, and after having regard to the matters set out in subsection (3), the Minister may in the Minister's discretion decide whether or not to accept the Board's recommendation with or without modification. If the Minister considers that a change in the number of representatives of any constituent district is appropriate, the Minister may recommend to the Governor-General that an Order in Council be issued under subsection (3) to give effect to the change.
 (3D)
 (4) The total number of members of any Catchment Board shall in no case be less than 8 or more than 16.
 
 ### 42 Combined districts
-(1) In any case in which by reason of the number of constituent districts in any catchment district, or by reason of the smallness of the population of any such constituent district, or of the value of the rateable property in that district, it is, in the opinion of the Governor-General in Council, impracticable or inexpedient to give full effect to the intent of the last preceding section, the Governor-General may by Order in Council combine into one or more combined districts any number of the constituent districts (whether of the same or of different kinds) in the catchment district for the purpose of the election of representatives on the Board of the catchment district:
-  Provided that no borough or town district shall be combined with a county or road district unless the Council of each of them, by resolution, consents to the proposed combination and agrees with the others of them upon a formula which has regard to the matters prescribed in subsection (2) of this section, and provides an equitable basis for the election of the representative or representatives of the combined district. Every such agreement shall have effect according to the tenor thereof, except that no change in the formula shall become effective between the closing of nominations in respect of any election and the closing of the polling booths for that election.
+(1) In any case in which by reason of the number of constituent districts in any catchment district, or by reason of the smallness of the population of any such constituent district, or of the value of the rateable property in that district, it is, in the opinion of the Governor-General in Council, impracticable or inexpedient to give full effect to the intent of the last preceding section, the Governor-General may by Order in Council combine into 1 or more combined districts any number of the constituent districts (whether of the same or of different kinds) in the catchment district for the purpose of the election of representatives on the Board of the catchment district:provided that no borough or town district shall be combined with a county or road district unless the Council of each of them, by resolution, consents to the proposed combination and agrees with the others of them upon a formula which has regard to the matters prescribed in subsection (2), and provides an equitable basis for the election of the representative or representatives of the combined district. Every such agreement shall have effect according to the tenor thereof, except that no change in the formula shall become effective between the closing of nominations in respect of any election and the closing of the polling booths for that election.
 (2) In any such case the Governor-General shall, by the same or by any other Order in Council, from time to time prescribe the number of members to be elected in common as the representative or representatives of any such combined district, having regard, in such manner as he thinks fit, to the relative populations, to the relative values of the rateable property, and to the amount of rates levied or proposed or likely to be levied in the combined district and in every other combined district or separate constituent district within the catchment district, and to all other relevant considerations.
 (3) In any such case the Governor-General shall, by the same or any other Order in Council, from time to time select and appoint one of the local authorities of the combined district to be the principal local authority of that combined district within the meaning and for the purposes of this Act.
 (4) For all the purposes of this Act other than the election or appointment of representatives each of the constituent districts in a combined district shall be deemed to be a separate constituent district.
@@ -353,7 +346,7 @@ No action taken under the last preceding section shall in any way affect the rig
 (4) If by any Order in Council under this section representation on a Board is taken away from any constituent district or combined district, the representatives of that district shall retire from office on the day appointed in that behalf by the Order in Council.
 (5) If by any Order in Council under this section a reduction is made in the number of representatives to which any constituent district or combined district is entitled, a sufficient number of those representatives shall retire from office on the day appointed in that behalf by the Order in Council so that the representation of that district may conform to the Order in Council. The representatives so to retire from office shall, in default of agreement among all the representatives of the constituent district or combined district, be determined by lot in manner determined by the Board.
 
-**Appointments and elections of members of boards**
+**Appointments and elections of members of Boards**
 
 ### 44 Appointment of non-elective members
 (1) Every non-elective member of a Board shall be appointed by the Governor-General for such term, not exceeding 3 years, as the Governor-General may think fit, but may from time to time be reappointed.
@@ -361,77 +354,78 @@ No action taken under the last preceding section shall in any way affect the rig
 
 ### 45 Election of members for constituent districts
 (1) The representatives on a Catchment Board of any constituent district shall be elected by the electors of that district.
-(2) Every such election shall be held in the same manner, with all necessary modifications, as the elections of members of the local authority of the constituent district; and all the provisions of the Local Electoral Act 2001, and of all other Acts affecting the mode of election of members of that local authority (including the penal provisions thereof and the provisions relating to disputed elections), shall, so far as applicable and so far as consistent with this Act, apply accordingly.
+(2) Every such election shall be held in the same manner, with all necessary modifications, as the elections of members of the local authority of the constituent district; and all the provisions of the Local Electoral Act 2001 and of all other Acts affecting the mode of election of members of that local authority (including the penal provisions thereof and the provisions relating to disputed elections), shall, so far as applicable and so far as consistent with this Act, apply accordingly.
 (3)
 (4) In the application of the Local Electoral Act 2001 as aforesaid every reference therein to the local authority shall be construed as a reference to the local authority of the constituent district.
 (5) The electoral officer of the local authority of the constituent district must be the electoral officer for the purposes of elections of representatives of that constituent district under this Act.
 
 ### 46 Election of members for combined districts
 (1) The representatives on a Catchment Board of a combined district shall be elected by the electors of each of the constituent districts included in the combined district.
-(2) Every elector in a combined district shall have one vote only, notwithstanding that he may be an elector of more than one of the constituent districts included in the combined district.
+(2) Every elector in a combined district shall have 1 vote only, notwithstanding that he may be an elector of more than 1 of the constituent districts included in the combined district.
 (3)
 (3A)
 (4) Every such election shall be held in manner provided by regulations made by the Governor-General in Council, either generally or in respect of any specified combined district or districts.
 (5) By such regulations the Governor-General in Council may apply to any such election, with such modifications, exemptions, and additions as he thinks fit, the provisions of the Local Electoral Act 2001 and of any other Act affecting the election of members of the local authority of any of the constituent districts included in a combined district.
 
-### 47
+### 47 Expenses of elections
 [Repealed]
 
-### 48
+### 48 Deposits by candidates
 [Repealed]
 
 ### 49 Date of first election of Board
 The first election of the representatives of any constituent district or combined district shall be held on such day as the Governor-General by Order in Council appoints, and by the same or any subsequent Order in Council the Governor-General may make all such provisions as are deemed necessary for the purposes of that election.
 
-### 50
+### 50 Dates of general elections of Boards
 [Repealed]
 
 ### 51 In default of election Governor-General may appoint members
 If any constituent district or combined district fails, at the first or any subsequent election, to elect the required number of representatives, the Governor-General may appoint such qualified persons as he thinks fit to be the representatives of that district in lieu of those who ought to have been elected; and the persons so elected shall hold office in all respects as if they had been duly elected in conformity with this Act.
 
-### 52
+### 52 Members to come into office on date of election or appointment
 [Repealed]
 
 ### 53 Qualification of members
 Subject to section 57A of the Local Electoral Act 2001 and section 54 of this Act, every person who is a parliamentary elector shall be capable of being elected or appointed as a member of any Board.
 
-**Disqualification and vacancies**
-
 ### 54 Disqualification from election or appointment
 The following persons shall not be capable of being elected or appointed as a member of any Catchment Board:
   (a) any person who is not qualified under section 25 of the Local Electoral Act 2001 to be a candidate:
-  (b) Any person who is convicted of any offence punishable by death or imprisonment for a term of 2 years or more, unless (in the case of a person seeking election or appointment) the person has obtained a pardon, or has served the sentence or otherwise suffered the penalty imposed:
-  (c) Any person who is detained in a hospital under the Mental Health Act 1969.
+  (b) any person who is convicted of any offence punishable by death or imprisonment for a term of 2 years or more, unless (in the case of a person seeking election or appointment) the person has obtained a pardon, or has served the sentence or otherwise suffered the penalty imposed:
+  (c) any person who is subject to a property order made under section 30 or 31 of the Protection of Personal and Property Rights Act 1988.
 
 ### 55 Vacation of office by member
 (1) The office of a member shall become vacant, and the vacancy shall be an extraordinary vacancy, if the member—
-  (a) Dies; or
-  (b) Resigns the office by writing under the member's hand delivered to the Secretary or Chairman of the Board, or is ousted from office; or
-  (c) Is detained in a hospital under the Mental Health Act 1969; or
-  (d) Is convicted of any offence punishable by death or imprisonment for a term of 2 years or more; or
-  (e) Is absent without leave from 4 consecutive meetings of the Board.
-(2) In any case to which subsection (1)(d) of this section applies—
-  (a) The disqualification shall not take effect until the expiration of the time for appealing against conviction and, in the event of an appeal against conviction, until the appeal is determined; and
-  (b) The member concerned shall be deemed to have been granted leave of absence until the expiration of that time, and shall not be capable of acting as a member during the period of that leave of absence.
-(3) If any person does any act as a member after the person's office has become vacant under this section (other than under subsection (1)(c) of this section) or while on leave of absence under subsection (2) of this section, the person commits an offence and shall be liable on summary conviction to a fine not exceeding $100.
+  (a) dies; or
+  (b) resigns the office by writing under the member's hand delivered to the Secretary or Chairman of the Board, or is ousted from office; or
+  (c) is or becomes, due to disability, unable to carry out his or her duties as a member; or
+  (d) is convicted of any offence punishable by death or imprisonment for a term of 2 years or more; or
+  (e) is absent without leave from 4 consecutive meetings of the Board.
+(2) In any case to which subsection (1)(d) applies—
+  (a) the disqualification shall not take effect until the expiration of the time for appealing against conviction and, in the event of an appeal against conviction, until the appeal is determined; and
+  (b) the member concerned shall be deemed to have been granted leave of absence until the expiration of that time, and shall not be capable of acting as a member during the period of that leave of absence.
+(3) If any person does any act as a member after the person's office has become vacant under this section (other than under subsection (1)(c)) or while on leave of absence under subsection (2), the person commits an offence and shall be liable on summary conviction to a fine not exceeding $100.
+(4) For the purposes of subsection (1)—
+  (a) disability has the meaning given by section 21(1)(h) of the Human Rights Act 1993; and
+  (b) a person who becomes subject to a property order made under section 31 of the Protection of Personal and Property Rights Act 1988 is to be treated as falling within subsection (1)(c) (whether or not the person has a disability).
 
 ### 56 Filling of extraordinary vacancies
 (1) In the event of an extraordinary vacancy in the office of a representative of any constituent district on the Board, the local authority of that district shall forthwith appoint some person in his place as a representative of that district.
 (2) In the event of an extraordinary vacancy in the office of a representative of a combined district on the Board, the local authorities of the several constituent districts included in the combined district shall forthwith, by agreement among themselves, jointly appoint some qualified person in his place as a representative of that district.
 (3) If no appointment is made under the foregoing provisions of this section within 2 months after the happening of the vacancy, the Governor-General may make the required appointment.
 (4) Any member appointed under this section shall hold office only for the unexpired portion of the term of office of his predecessor.
-(5) Notwithstanding anything in subsections (1) to (4) of this section, if any such extraordinary vacancy occurs within 6 months before the date fixed for the next triennial election of members of Catchment Boards, the Board, with the written consent of—as the case may require, may by resolution determine that the vacancy shall not be filled; and in any such case, the provisions of the said subsections shall not apply in respect of the vacancy.
-  (a) The local authority of the constituent district whose representative has vacated office; or
-  (b) The local authorities of the constituent districts included in the combined district whose representative has vacated office—
+(5) Notwithstanding anything in subsections (1) to (4), if any such extraordinary vacancy occurs within 6 months before the date fixed for the next triennial election of members of Catchment Boards, the Board, with the written consent of—as the case may require, may by resolution determine that the vacancy shall not be filled; and in any such case, the provisions of the said subsections shall not apply in respect of the vacancy.
+  (a) the local authority of the constituent district whose representative has vacated office; or
+  (b) the local authorities of the constituent districts included in the combined district whose representative has vacated office—
 
 **Ouster of office**
 
 ### 57 Ouster of office
-(1) Upon proof in the first instance by affidavit or otherwise that any member of the Board is or has become incapable under this Act or any other Act of holding his office, any District Court in the district, or, if there is no such Court, then the District Court nearest to the public office of the Board, may grant a summons calling upon the person holding such office to show cause why he should not be adjudged to be ousted of the same.
-(2) If on the return of the summons it appears to the Court, on affidavit or oral evidence on oath, that the person is incapable under this Act or under any other Act of holding the said office, the Court may adjudge him to be ousted of the same, and he shall be ousted of such office accordingly.
-(3) In any proceedings under this section the District Court may exercise all the powers and authorities which it may exercise in its ordinary jurisdiction in civil cases; and the procedure of the Court shall, so far as applicable, apply generally to proceedings under this section.
+(1) Upon proof in the first instance by affidavit or otherwise that any member of the Board is or has become incapable under this Act or any other Act of holding his office, any District Court in the district, or, if there is no such court, then the District Court nearest to the public office of the Board, may grant a summons calling upon the person holding such office to show cause why he should not be adjudged to be ousted of the same.
+(2) If on the return of the summons it appears to the court, on affidavit or oral evidence on oath, that the person is incapable under this Act or under any other Act of holding the said office, the court may adjudge him to be ousted of the same, and he shall be ousted of such office accordingly.
+(3) In any proceedings under this section the District Court may exercise all the powers and authorities which it may exercise in its ordinary jurisdiction in civil cases; and the procedure of the court shall, so far as applicable, apply generally to proceedings under this section.
 (4) No matter in relation to a disputed election shall be heard by the District Court under this section.
-(5) No question which may be tried under this section shall be tried in the High Court and no proceedings in the District Court hereunder shall be removable into the High Court by certiorari or otherwise.
+(5) No question which may be tried under this section shall be tried in the High Court; and no proceedings in the District Court hereunder shall be removable into the High Court by certiorari or otherwise.
 
 **The Chairman**
 
@@ -445,7 +439,7 @@ The following persons shall not be capable of being elected or appointed as a me
 ### 59 Remuneration of Chairman
 [Repealed]
 
-## Part 4 — Proceedings of boards
+## Part 4 — Proceedings of Boards
 
 ### 60 Majority of Board to determine questions before the Board
 (1) All acts of any Board, and all questions coming or arising before any Board, may be done and decided by the majority of such members of the Board as are present and vote at a meeting held in pursuance of this Act.
@@ -460,7 +454,7 @@ Every question coming before the Board shall be decided by open voting.
 (1) The Chairman shall preside at every meeting of the Board at which he is present.
 (2) If at any meeting of the Board the Chairman for the time being is not present or there is no Chairman, the Deputy Chairman shall preside at the meeting; and in any such case, if the Deputy Chairman is not present at the meeting or there is no Deputy Chairman, the members present shall choose one of their number to be the Chairman of that meeting. The Deputy Chairman or person so chosen shall have and may exercise in any such case all the powers and functions of the Chairman for the purposes of the meeting.
 
-### 63
+### 63 Member not to vote on matter in which he has pecuniary interest
 [Repealed]
 
 ### 64 First meetings of Boards
@@ -478,7 +472,7 @@ The first meeting of any Board after the constitution of the catchment district 
 
 ### 67 Adjournment and postponement of meetings
 (1) Any meeting of a Board may be adjourned to another day not later than 7 days thereafter, and notice of the adjourned meeting shall be given to each member.
-(2) If a quorum is not present within half an hour of the time appointed for any meeting, the Chairman or members, or member if there is only one present, or the Secretary if no member is present, shall postpone the meeting either to a later hour on the same day or to the next day at the usual hour of meeting. No notice of any such postponement need be given.
+(2) If a quorum is not present within half an hour of the time appointed for any meeting, the Chairman or members, or member if there is only 1 present, or the Secretary if no member is present, shall postpone the meeting either to a later hour on the same day or to the next day at the usual hour of meeting. No notice of any such postponement need be given.
 (3) A postponed meeting may be adjourned, but not further postponed.
 
 ### 68 Meetings to be open
@@ -492,8 +486,7 @@ The ordinary meetings of a Board shall be held for transacting the ordinary busi
 (2) The Chairman shall determine what business shall be deemed to be extraordinary within the meaning of this section.
 
 ### 71 Revocation of resolutions
-Any resolution of a meeting of a Board may (save as to anything theretofore lawfully done thereunder) be revoked or altered at the same meeting by the unanimous vote of the members present when it was passed, or at a subsequent meeting by the vote of a majority of the members present thereat:
-  Provided that at least 7 days' notice of the subsequent meeting and of the proposal to revoke or alter the resolution shall be given to each member.
+Any resolution of a meeting of a Board may (save as to anything theretofore lawfully done thereunder) be revoked or altered at the same meeting by the unanimous vote of the members present when it was passed, or at a subsequent meeting by the vote of a majority of the members present thereat:provided that at least 7 days' notice of the subsequent meeting and of the proposal to revoke or alter the resolution shall be given to each member.
 
 ### 72 Committees
 (1) Any Board may from time to time appoint committees, including standing committees, for the regulation and management of, or for inquiring into and reporting upon, such matters as it thinks fit, and may fix and alter the quorum and appoint and remove the chairman of any such committee, and may discharge any such committee.
@@ -521,17 +514,17 @@ Subject to the provisions of this Act, any Board may from time to time by resolu
 
 ### 76 Making of special orders
 The power given by this or any other Act to a Board to do anything by special order shall be exercised only as follows:
-  (a) The resolution to do such thing shall be passed at a special meeting:
-  (b) The resolution shall be confirmed at a subsequent meeting (either ordinary or special) held not sooner than the 28th day and not later than the 70th day after the special meeting:
-  (c) Public notice of the place and date fixed for that subsequent meeting, and of the purport of the resolution shall be given twice during the period of 28 days immediately preceding the date of the subsequent meeting, with an interval of not less than 14 days between the 2 notifications:
-  (d) Written notice of the time and place of the subsequent meeting under the hand of the Secretary shall be given to each member of the Board 3 clear days before the subsequent meeting, which notice shall refer to the said resolution:
-  (e) The notice directed to be given by the last preceding paragraph shall suffice, even though the subsequent meeting is a special meeting.
+  (a) the resolution to do such thing shall be passed at a special meeting:
+  (b) the resolution shall be confirmed at a subsequent meeting (either ordinary or special) held not sooner than the 28th day and not later than the 70th day after the special meeting:
+  (c) public notice of the place and date fixed for that subsequent meeting, and of the purport of the resolution shall be given twice during the period of 28 days immediately preceding the date of the subsequent meeting, with an interval of not less than 14 days between the 2 notifications:
+  (d) written notice of the time and place of the subsequent meeting under the hand of the Secretary shall be given to each member of the Board 3 clear days before the subsequent meeting, which notice shall refer to the said resolution:
+  (e) the notice directed to be given by the last preceding paragraph shall suffice, even though the subsequent meeting is a special meeting.
 
 ### 77 Evidence of special orders
 A document purporting to be a copy of any special order, sealed with the common seal of the Board, shall be received as evidence for all purposes that the special order of which the document purports to be a copy has been duly made in accordance with this Act unless the contrary is proved.
 
 ### 78 Proceedings to quash special orders
-No special order shall be quashed by proceedings in any Court or otherwise unless such proceedings are commenced within 6 months from the making of the special order.
+No special order shall be quashed by proceedings in any court or otherwise unless such proceedings are commenced within 6 months from the making of the special order.
 
 **Public offices**
 
@@ -546,44 +539,54 @@ No special order shall be quashed by proceedings in any Court or otherwise unles
 (2) One person may hold 2 or more such offices.
 (3)
 (4)
-(5) Subsection (1) of this section shall be deemed to authorise and from its commencement to have authorised the payment to any officer of the Board of such salaries and allowances as the Board thinks reasonable in respect of his attendance at any conference, meeting, or course of study or training that in the opinion of the Board will render him better fitted to carry out his duties for the Board.
+(5) Subsection (1) shall be deemed to authorise and from its commencement to have authorised the payment to any officer of the Board of such salaries and allowances as the Board thinks reasonable in respect of his attendance at any conference, meeting, or course of study or training that in the opinion of the Board will render him better fitted to carry out his duties for the Board.
 
-### 81
+### 81 Board may contract with officers and servants as to tenure of office
 [Repealed]
 
 ### 82 Acting officers
 During the absence from duty of any officer of the Board by reason of illness, leave of absence, or other cause, the duties and powers of such officer may be performed and exercised by an acting officer appointed by resolution of the Board; and any such appointment may be either general or for some occasion only.
 
 ### 83 Certain officers to give security
-Before any officer entrusted by the Board with the custody or control of money by virtue of his office enters on the duties of his office, the Board shall take sufficient security from him for the faithful execution thereof.
+Before any officer entrusted by the Board with the custody or control of moneys by virtue of his office enters on the duties of his office, the Board shall take sufficient security from him for the faithful execution thereof.
 
 ## Part 5 — Rating and classification of lands for rating
+
+**Administrative rates**
 
 ### 84 Administrative rates
 [Repealed]
 
 **General rates**
 
-### 85 General Rates
+### 85 General rates
 [Repealed]
 
-### 86 Separate Rates
+**Separate rates**
+
+### 86 Separate rates
 [Repealed]
+
+**Special works rates**
 
 ### 87 Special works rate over whole of district
 [Repealed]
 
-### 88 Special works rate over portion of District
+### 88 Special works rate over portion of district
 [Repealed]
 
 ### 89 Maintenance rate in respect of special work
 [Repealed]
+
+**Special rates and maintenance rates**
 
 ### 90 Special rates in respect of loans
 [Repealed]
 
 ### 91 Maintenance rate in respect of works constructed out of special loan
 [Repealed]
+
+**General as to rates**
 
 ### 92 Valuation roll for the district
 [Repealed]
@@ -600,28 +603,30 @@ Before any officer entrusted by the Board with the custody or control of money b
 ### 96 Local authorities may collect rates within their respective jurisdictions
 [Repealed]
 
-### 97
+### 97 Annual value and capital value
 [Repealed]
 
-### 98 Rates to be handed to Board less cost of Collection
+### 98 Rates to be handed to Board less cost of collection
 [Repealed]
 
 ### 99 Liability if local authority neglects to collect rate
 [Repealed]
 
-### 100 Local Authority may pay amount of rate out of its general fund
+### 100 Local authority may pay amount of rate out of its general fund
 [Repealed]
 
-### 100A
+### 100A Liability of Catchment Boards for rates
 [Repealed]
 
 ### 100B Consolidated rate
 [Repealed]
 
+**Classification of lands for rating**
+
 ### 101 Rates to be levied on a graduated scale according to classification of lands affected
 [Repealed]
 
-### 102 General classification of land
+### 102 General classification of lands
 [Repealed]
 
 ### 103 Appeals
@@ -652,11 +657,11 @@ Before any officer entrusted by the Board with the custody or control of money b
 (3)
 (4) A loan may be raised by a Board for the benefit of defined parts of a catchment district although those parts may not together form one continuous area.
 
-### 108
+### 108 Advances out of general account for benefit of defined part of district
 [Repealed]
 
-### 108A Loans to meet emergency expenditure
-Notwithstanding anything to the contrary in any other enactment, where (before or after the commencement of this Act) a Board has raised or raises a loan under section 21 of the Local Authorities Loans Act 1956, the Board shall have and be deemed always to have had power to constitute a defined part of its district a special rating area to secure the repayment of the loan and of the interest thereon.
+### 108A Loans to meet emergency expenditure may be charged on defined part of district
+Notwithstanding anything to the contrary in any other enactment, where (before or after the commencement of this Act) a Board has raised or raises a loan under section 7 of the Local Bodies' Finance Act 1921–22, the Board shall have and be deemed always to have had power to constitute a defined part of its district a special rating area to secure the repayment of the loan and of the interest thereon.
 
 ### 109 Classification of lands before loan poll taken
 [Repealed]
@@ -666,47 +671,47 @@ Notwithstanding anything to the contrary in any other enactment, where (before o
 
 **Receipts and expenditure**
 
-### 111 Money to be paid into bank
-(1) All money belonging to any Board amounting to $10 and upwards shall within 7 days after it has come to the hand of the proper officer of the Board be paid into the account of the Board at such bank as the Board from time to time appoints.
+### 111 Moneys to be paid into bank
+(1) All moneys belonging to any Board amounting to $10 and upwards shall within 7 days after they have come to the hand of the proper officer of the Board be paid into the account of the Board at such bank as the Board from time to time appoints.
 (2) No money shall be withdrawn from the bank except by authority of the Board and by cheque or other instrument (not being a promissory note or bill) signed by the Treasurer and countersigned—
-  (a) By a member of the Board; or
-  (b) With the prior consent of the Audit Office, by any officer of the Board whom the Board, by resolution, from time to time appoints for the purpose.
+  (a) by a member of the Board; or
+  (b) with the prior consent of the Auditor-General, by any officer of the Board whom the Board, by resolution, from time to time appoints for the purpose.
 (3) Every payment of money by the Board shall be authorised by a prior resolution of the Board or shall be submitted to the Board for confirmation at its first ordinary meeting after the date of payment.
 
 ### 112 Board may establish an Imprest Account
 (1) Any Board may, pursuant to a resolution in that behalf, establish an Imprest Account, which shall be kept at such bank as the Board from time to time appoints.
-(2) The Imprest Account may be held jointly in the names of and be operated on by the Treasurer and one other person to be appointed in that behalf by the Board, or may with the express approval in writing of the Audit Office, but not otherwise, be in the sole name of and be operated on by the Treasurer or other approved officer of the Board. Where the Imprest Account is held jointly in the names of the Treasurer and of one other person as aforesaid, such last-mentioned person shall be either a responsible officer of the Board or a member of the Board.
-(3) The Board shall from time to time by resolution fix the maximum amount that may be held at any time in the Imprest Account, not exceeding $150 in any case where the Imprest Account may be operated on by one person acting alone, and not exceeding such amount as the Audit Office may approve in any other case.
-(4) Money in the Imprest Account shall be available only for the payment of wages and of emergency expenditure. A statement of all payments made from the Imprest Account shall be submitted to the Board for approval at its first ordinary meeting thereafter. The payment of money out of the Imprest Account for any purpose not hereby authorised shall be deemed to be the misappropriation of the funds of the Board.
+(2) The Imprest Account may be held jointly in the names of and be operated on by the Treasurer and 1 other person to be appointed in that behalf by the Board, or may with the express approval in writing of the Auditor-General, but not otherwise, be in the sole name of and be operated on by the Treasurer or other approved officer of the Board. Where the Imprest Account is held jointly in the names of the Treasurer and of 1 other person as aforesaid, such last-mentioned person shall be either a responsible officer of the Board or a member of the Board.
+(3) The Board shall from time to time by resolution fix the maximum amount that may be held at any time in the Imprest Account, not exceeding $150 in any case where the Imprest Account may be operated on by 1 person acting alone, and not exceeding such amount as the Auditor-General may approve in any other case.
+(4) Moneys in the Imprest Account shall be available only for the payment of wages and of emergency expenditure. A statement of all payments made from the Imprest Account shall be submitted to the Board for approval at its first ordinary meeting thereafter. The payment of moneys out of the Imprest Account for any purpose not hereby authorised shall be deemed to be the misappropriation of the funds of the Board.
 (5) The provisions of the last preceding section shall be read subject to the provisions of this section.
 
-### 113 Collectors to pay over money
-(1) Every collector appointed or employed by any Board under this Act to collect any rate shall, within 7 days after he has received any money on account of any such rate, pay over the same to the Board, or in such manner as the Board directs.
-(2) He shall also render to the Board, within such time and in such manner as it directs, true and faithful accounts in writing under his hand of all money received by him, and of all money paid over by him, under this Act, and also a list of the names of all persons who have failed to pay any rate or money owing to the Board, with a statement of the money due from such persons respectively, and of the several periods and rates for or on account of which the same is due respectively.
+### 113 Collectors to pay over moneys
+(1) Every collector appointed or employed by any Board under this Act to collect any rate shall, within 7 days after he has received any moneys on account of any such rate, pay over the same to the Board, or in such manner as the Board directs.
+(2) He shall also render to the Board, within such time and in such manner as it directs, true and faithful accounts in writing under his hand of all moneys received by him, and of all moneys paid over by him, under this Act, and also a list of the names of all persons who have failed to pay any rate or money owing to the Board, with a statement of the moneys due from such persons respectively, and of the several periods and rates for or on account of which the same are due respectively.
 (3) If any such collector fails to render such accounts as aforesaid, or to produce and deliver up the vouchers and receipts relating to the same in his possession or power, or to pay the balance owing by him when thereunto required, or fails, for 5 days after being thereunto required by any officer of the Board, to deliver up to the Board, or to any person appointed by it to receive the same, all papers and writings, property, matters, and things in his possession or power relating to the execution of this Act or belonging to the Board, any 2 Justices may hear and determine the matter in a summary way, and may order such collector to render such accounts, or to deliver up such vouchers and receipts as aforesaid, or to pay over the balance owing by him, or to deliver up all such papers, writings, property, matters, and things; and if such collector fails to obey such order he may by those Justices or any 2 other Justices be committed to prison for any period not exceeding 6 months.
 (4) No such proceeding against or dealing with any collector as aforesaid shall deprive the Board of any remedy it may otherwise have against the collector or any surety for the collector.
 
 ### 113A Remuneration, etc, of assessors
 (1) This section applies in respect of every assessor appointed under—
-  (a) Section 137 of this Act; or
-  (b) Section 11 of the Soil Conservation and Rivers Control Amendment Act 1948; or
-  (c) Section 34 or section 36 of the Soil Conservation and Rivers Control Amendment Act 1959.
+  (a) section 137; or
+  (b) section 11 of the Soil Conservation and Rivers Control Amendment Act 1948; or
+  (c) section 34 or section 36 of the Soil Conservation and Rivers Control Amendment Act 1959.
 (2) There shall be paid to every assessor, out of the Board's funds, remuneration by way of fees or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951; and the provisions of that Act shall apply accordingly as if the assessor were a member of a statutory Board within the meaning of that Act.
 (3) The Board shall provide, or pay the expenses of, all accommodation for the purpose of hearing and considering objections, and all secretarial and administrative services reasonably required by the assessor appointed by the Board.
 
 ### 114 Travelling expenses of members
 (1) Any Board may pay to its members travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly.
-(2) A member voting upon any such question shall not thereby become liable to any penalty under section 63 of this Act.
+(2) A member voting upon any such question shall not thereby become liable to any penalty under section 63.
 
 ### 114A Annual allowances and remuneration of Chairman, chairmen of standing committees, and members
 [Repealed]
 
-### 115 Insurance of members against personal accident
+### 115 Insurance of members against personal accident while engaged in duties
 It shall be lawful for any Board from time to time to enter into contracts of insurance insuring members of the Board against loss from personal accident arising out of and in the course of the exercise of their powers or duties as members, and to pay the premiums payable in respect of such contracts.
 
 ### 115A Subscriptions to Catchment Authorities' Association, etc
 (1) Any Catchment Board affiliated to the New Zealand Catchment Authorities' Association may from time to time, out of its administrative funds, pay the annual subscription of the Board to the Association and the actual and reasonable travelling expenses of its representatives incurred in attending meetings of the conferences of the Association.
-(2) This section shall be deemed to have come into force on the 1st day of April 1964.
+(2) This section shall be deemed to have come into force on 1 April 1964.
 
 ### 116 Unauthorised expenditure
 [Repealed]
@@ -718,42 +723,41 @@ It shall be lawful for any Board from time to time to enter into contracts of in
 (2) Any member of the Board and any elector may at all reasonable times inspect the books and take copies of or extracts from the same free of charge.
 (3) Every person having the custody of the books who does not, on the reasonable demand of any member or elector, permit him to inspect the books, or to take copies or extracts as aforesaid, is liable to a fine of $10.
 
-### 118 Accounts to be kept in accordance with requirements of Audit Office
-(1) Every Board shall keep such accounts and keep them in such manner as may be prescribed by the Audit Office, but so always that—
-  (a) A General Account shall be kept, and credited with all money not required by this Act to be carried to any other account, and debited with expenditure which is not required by or under this or any other Act to be charged, or which is not otherwise properly chargeable, against any other account; and
-  (b) Separate accounts shall be kept and credited with all money raised or levied for, or appropriated or allocated to, or held in trust or received for, any special purpose, and debited with expenditure properly chargeable against such accounts.
-(2) The decision of the Audit Office as to whether or not any expenditure is properly chargeable against any such account shall be final.
+### 118 Accounts to be kept in accordance with requirements of Auditor-General
+(1) Every Board shall keep such accounts and keep them in such manner as may be prescribed by the Auditor-General, but so always that—
+  (a) a General Account shall be kept, and credited with all moneys not required by this Act to be carried to any other account, and debited with expenditure which is not required by or under this or any other Act to be charged, or which is not otherwise properly chargeable, against any other account; and
+  (b) separate accounts shall be kept and credited with all moneys raised or levied for, or appropriated or allocated to, or held in trust or received for, any special purpose, and debited with expenditure properly chargeable against such accounts.
+(2) The decision of the Auditor-General as to whether or not any expenditure is properly chargeable against any such account shall be final.
 
 ### 119 Transfers from General Account to meet deficiencies
-(1) If the balance in any of the separate accounts is at any time insufficient to meet the lawful charges thereon, the Board may transfer such sums as are necessary from the General Account to meet the same, and may at any time repay any sum so transferred out of any excess in the receipts over the liabilities of such account:
-  Provided that nothing in this section shall authorise the Board to pay out of its General Account in a manner not otherwise lawful the interest, or interest and sinking fund, on any loan.
+(1) If the balance in any of the separate accounts is at any time insufficient to meet the lawful charges thereon, the Board may transfer such sums as are necessary from the General Account to meet the same, and may at any time repay any sum so transferred out of any excess in the receipts over the liabilities of such account:provided that nothing in this section shall authorise the Board to pay out of its General Account in a manner not otherwise lawful the interest, or interest and sinking fund, on any loan.
 (2) It shall not be lawful to make any transfer from any one to any other of the separate accounts, except as in this Act provided.
 
 ### 120 Establishment of renewal or replacement funds
-(1) Any Board may from time to time set aside any money to form a fund or funds for the repair, renewal, replacement, or improvement of any property, plant, fixtures, or appliances of the Board, or for the purpose of purchasing or paying for additional property, plant, fixtures, or appliances of the class for which the fund or funds is or are established.
-(2) The money so set aside and any other money payable into the fund or funds shall be paid into a separate bank account in the name of the Board.
+(1) Any Board may from time to time set aside any moneys to form a fund or funds for the repair, renewal, replacement, or improvement of any property, plant, fixtures, or appliances of the Board, or for the purpose of purchasing or paying for additional property, plant, fixtures, or appliances of the class for which the fund or funds is or are established.
+(2) The moneys so set aside and any other moneys payable into the fund or funds shall be paid into a separate bank account in the name of the Board.
 (3) The Board may from time to time apply the money forming the fund or funds only to the purposes aforesaid, or any of them, and the Board, until the money is required for any of those purposes, may invest any of the money in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds.
 (4) For the purposes of this section the property of a Board shall include every work and the results of every operation that is wholly or partly paid for by a Board, whether or not the Board has any estate or interest in the land on which the works exist or on which the operation has been undertaken.
 
 ### 121 Yearly statement of financial position and statements
-(1) On or before the 15th day of April in each year the Treasurer shall prepare and send to the Audit Office a yearly statement of financial position, being an abstract of all the transactions in each of the accounts above-mentioned during the preceding financial year ended the 31st day of March then last past, together with the statements following:
-  (a) A statement of the whole assets and liabilities of the Board at the end of that year:
-  (b) A statement of the public debt of the Board showing the total debt outstanding under the head of each loan raised, and the sinking fund in the bank or invested to provide for the repayment of each such loan:
-  (c) A statement of the reserves and other real estate belonging to the Board, showing the terms, conditions, and rents for which any parts thereof are let on lease or otherwise, and the amounts of the rents in arrear in each case:
-  (d) A statement of all the rates made and levied during the financial year and of the amounts collected during that year in respect of those rates and in respect of rates made and levied in previous years.
-(2) Such yearly statement of financial position and statements shall be audited by the Audit Office, which for that purpose shall have and may exercise all such powers as it has under the Public Finance Act 1977 in respect of public money.
+(1) On or before 15 April in each year the Treasurer shall prepare and send to the Auditor-General a yearly statement of financial position, being an abstract of all the transactions in each of the accounts above mentioned during the preceding financial year ended the 31 March then last past, together with the statements following:
+  (a) a statement of the whole assets and liabilities of the Board at the end of that year:
+  (b) a statement of the public debt of the Board showing the total debt outstanding under the head of each loan raised, and the sinking fund in the bank or invested to provide for the repayment of each such loan:
+  (c) a statement of the reserves and other real estate belonging to the Board, showing the terms, conditions, and rents for which any parts thereof are let on lease or otherwise, and the amounts of the rents in arrear in each case:
+  (d) a statement of all the rates made and levied during the financial year and of the amounts collected during that year in respect of those rates and in respect of rates made and levied in previous years.
+(2) Such yearly statement of financial position and statements shall be audited by the Auditor-General, which for that purpose shall have and may exercise all such powers as it has under the Public Audit Act 2001 in respect of public moneys.
 (3) A copy of the yearly statement of financial position and statements shall when duly audited be submitted to the Minister accompanied by a report as to the operations of the Board for the year, and a copy of the statement of financial position, statements, and report shall be submitted to each constituent local authority, Drainage Board, and River Board which so requests.
 
-## Part 7 — Powers and duties of boards
+## Part 7 — Powers and duties of Boards
 
 **Contracts**
 
-### 122 Boards may enter into contracts for purposes of Act. Tenders
+### 122 Boards may enter into contracts for purposes of Act
 (1) A Board may enter into any contract for any of the purposes of this Act.
 (2) If a contract is for the execution of any work it shall specify the work to be done, and the materials to be furnished, and the price to be paid for the same, and the time or times within which the work is to be completed, and the penalties to be suffered in case of the non-performance thereof.
 (3) Except in cases of urgent necessity, no contract the amount whereof exceeds $5,000 shall be made except after public tender of which due public notice shall be given; but the Board shall not be compelled to accept the lowest tender.
 
-### 123
+### 123 Mode of contracting
 [Repealed]
 
 ### 124 Boards may make compositions
@@ -761,7 +765,7 @@ Any Board may compound with any person for such sum of money or other recompense
 
 ### 125 Boards may contract with local authorities or Crown
 (1) Any Board may from time to time contract, upon such terms and conditions as it thinks fit, with any other Board or any local authority or body corporate empowered in that behalf, or with the Crown, for or with respect to the doing, control, conduct, management, or supervision by either or any of the contracting parties of any of the things provided for in this Act, or of any other matter or thing which the Board and the other Board, local authority, or body corporate are by law empowered to do, control, and manage.
-(2) By any such contract the parties may agree as to the mode and times of repaying the cost of constructing any works referred to therein and as to the manner in which the same shall be carried out, and any Board, local authority, or body corporate may give such security for the repayment of the cost together with interest, as may be agreed upon.
+(2) By any such contract the parties may agree as to the mode and times of repaying the cost of constructing any works referred to therein and as to the manner in which the same shall be carried out, and any Board, local authority, or body corporate may give such security for the repayment of the cost, together with interest, as may be agreed upon.
 (3)
 (4) Except as provided in the last preceding subsection, nothing in this section shall be deemed to affect the provisions of the said section 33.
 
@@ -770,12 +774,12 @@ Any Board may compound with any person for such sum of money or other recompense
 ### 126 General powers of Catchment Boards
 (1) It shall be a function of every Catchment Board to minimise and prevent damage within its district by floods and erosion.
 (2) Each Board shall have all such powers, rights, and privileges as may reasonably be necessary or expedient to enable it to carry out its functions, and in particular each Board shall have power to construct, reconstruct, alter, repair, and maintain all such works and do and execute all such other acts and deeds including the breaching of any stopbank as may in the opinion of the Board be necessary or expedient for—
-  (a) Controlling or regulating the flow of water towards and into watercourses:
-  (b) Controlling or regulating the flow of water in and from watercourses:
-  (c) Preventing or lessening any likelihood of the overflow or breaking of the banks of any watercourse:
-  (d) Preventing or lessening any damage which may be occasioned by any such overflow or breaking of the banks:
-  (e) Preventing or lessening erosion or the likelihood of erosion:
-  (f) Promoting soil conservation.
+  (a) controlling or regulating the flow of water towards and into watercourses:
+  (b) controlling or regulating the flow of water in and from watercourses:
+  (c) preventing or lessening any likelihood of the overflow or breaking of the banks of any watercourse:
+  (d) preventing or lessening any damage which may be occasioned by any such overflow or breaking of the banks:
+  (e) preventing or lessening erosion or the likelihood of erosion:
+  (f) promoting soil conservation.
 (2A)
 (3) Except as expressly provided in this Act, nothing hereinafter contained shall be held to derogate from or prejudice the generality of the provisions of this section and the powers, rights, and privileges conferred by this section.
 
@@ -806,15 +810,15 @@ Every Board in carrying out or executing any works it is empowered to undertake 
 
 ### 133 Maintenance and improvement of watercourses and defences against water, etc
 (1) Subject to the provisions of this section, every Board may for the purposes of this Act, by itself, its engineers, officers, agents, and workmen,—
-  (a) Cleanse, repair, or otherwise maintain in a due state of efficiency any watercourse or outfall for water, either within or outside its district, or any bank, dam, groyne, or other defence against water:
-  (b) Deepen, widen, straighten, divert, or otherwise improve any watercourse or outfall for water, either within or outside its district, or remove any groynes, stopbanks, dams, weirs, trees, plants, or debris, or any other obstructions whatsoever to watercourses or outfalls for water or to the free flow of flood waters in existing flood channels, or raise, widen, or otherwise improve any defence against water:
-  (c) In such manner and of such materials as it thinks necessary or proper, make any new watercourse or new outfall for water and cause the same to communicate with the sea or any arm thereof, or with any other watercourse or a lake, either within or outside its district, or erect any new defence against water, or carry out any other work it thinks necessary or desirable for the purpose of controlling or preventing damage by flood waters:
-  (d) Divert, impound, or take away any water from any watercourse.
+  (a) cleanse, repair, or otherwise maintain in a due state of efficiency any watercourse or outfall for water, either within or outside its district, or any bank, dam, groyne, or other defence against water:
+  (b) deepen, widen, straighten, divert, or otherwise improve any watercourse or outfall for water, either within or outside its district, or remove any groynes, stopbanks, dams, weirs, trees, plants, or debris, or any other obstructions whatsoever to watercourses or outfalls for water or to the free flow of flood waters in existing flood channels, or raise, widen, or otherwise improve any defence against water:
+  (c) in such manner and of such materials as it thinks necessary or proper, make any new watercourse or new outfall for water and cause the same to communicate with the sea or any arm thereof, or with any other watercourse or a lake, either within or outside its district, or erect any new defence against water, or carry out any other work it thinks necessary or desirable for the purpose of controlling or preventing damage by flood waters:
+  (d) divert, impound, or take away any water from any watercourse.
 (2) Except in the case of urgent work to meet an emergency, where a Catchment Board proposes to exercise any of the powers referred to in the last preceding subsection in any drainage district or river district, or in respect of any watercourse or defence against water which is under the control of any local authority or other public body, the following provisions shall apply:
-  (a) The Catchment Board shall give to the Drainage Board, River Board, local authority, or other public body as the case may be, not less than one month's notice in writing of its intention, and with such notice shall supply full particulars of its proposals:
-  (b) If the Catchment Board does not within the period of the notice receive any objection in writing from the Drainage Board, River Board, local authority, or other public body to which the notice was given, it may forthwith carry out its proposals:
-  (c) If any such objection is received and agreement cannot be reached between the Catchment Board and the Drainage Board, River Board, local authority, or other public body aforesaid, the Catchment Board shall refer the matter to the Minister, whose decision shall be final.
-(3) No Catchment Board shall be entitled to exercise any of its powers in any reserve or catchment area vested in any local authority or public body for water supply purposes or in respect of any watercourse adjacent to any such reserve or area as aforesaid without the consent of the local authority or public body:
+  (a) the Catchment Board shall give to the Drainage Board, River Board, local authority, or other public body, as the case may be, not less than 1 month's notice in writing of its intention, and with such notice shall supply full particulars of its proposals:
+  (b) if the Catchment Board does not within the period of the notice receive any objection in writing from the Drainage Board, River Board, local authority, or other public body to which the notice was given, it may forthwith carry out its proposals:
+  (c) if any such objection is received and agreement cannot be reached between the Catchment Board and the Drainage Board, River Board, local authority, or other public body aforesaid, the Catchment Board shall refer the matter to the Minister, whose decision shall be final.
+(3) No Catchment Board shall be entitled to exercise any of its powers in any reserve or catchment area vested in any local authority or public body for water supply purposes or in respect of any watercourse adjacent to any such reserve or area as aforesaid without the consent of the local authority or public body.
 
 ### 134 Afforestation, etc
 (1) Every Catchment Board may, wherever it considers it expedient for the carrying out of its functions so to do, either on land acquired by it or, subject to the consent of the owner, on any other land plant or sow and maintain trees, shrubs, plants, or grasses.
@@ -822,25 +826,24 @@ Every Board in carrying out or executing any works it is empowered to undertake 
 
 ### 135 Incidental powers of Boards
 Every Board shall, in addition to any other powers given to it by this Act, have and possess the following powers, that is to say, it may—
-  (a) Take, in manner provided by the Public Works Act 1981, or purchase, or otherwise acquire and hold any land, or any estate or interest therein, within or outside its district, which in its opinion may be necessary or convenient for the carrying out of any of those powers or functions:
-  (b) Without any previous payment, tender, or deposit, enter upon and use any land within its district for the purpose of taking therefrom any earth, clay, stone, boulders, gravel, sand, and other material:
-  (c) At all reasonable times, by itself, its engineers, officers, agents, and workmen, and with or without vehicles, loaded or unloaded, enter into and pass through and over any lands within its district for the purpose of constructing, reconstructing, altering, repairing, and maintaining any works under this or any other Act, and for that purpose may make on those lands temporary roads or approaches to the works, doing thereby no unnecessary or avoidable damage to the lands:
-  (d) Lay or deposit on any lands within its district any materials whatsoever to be used in connection with any works under this or any other Act, and erect on any such lands any temporary shelter for any workmen or other persons, causing thereby as little damage or inconvenience as may be:
-  (e) Deposit on any land within its district any spoil from any works constructed under this or any other Act, or removed from any watercourse in the cleansing, repairing, maintaining, or improving of the watercourse:
-  (f) Break up the soil of any roads, streets, ways, or footpaths and excavate and sink trenches, and do all such other matters and things as it deems expedient, necessary, or proper for making, cleansing, repairing, maintaining, or improving any watercourse or other works to be made, done, or provided by the Board.
+  (a) take, in manner provided by the Public Works Act 1981, or purchase, or otherwise acquire and hold any land, or any estate or interest therein, within or outside its district, which in its opinion may be necessary or convenient for the carrying out of any of those powers or functions:
+  (b) without any previous payment, tender, or deposit, enter upon and use any land within its district for the purpose of taking therefrom any earth, clay, stone, boulders, gravel, sand, and other material:
+  (c) at all reasonable times, by itself, its engineers, officers, agents, and workmen, and with or without vehicles, loaded or unloaded, enter into and pass through and over any lands within its district for the purpose of constructing, reconstructing, altering, repairing, and maintaining any works under this or any other Act, and for that purpose may make on those lands temporary roads or approaches to the works, doing thereby no unnecessary or avoidable damage to the lands:
+  (d) lay or deposit on any lands within its district any materials whatsoever to be used in connection with any works under this or any other Act, and erect on any such lands any temporary shelter for any workmen or other persons, causing thereby as little damage or inconvenience as may be:
+  (e) deposit on any land within its district any spoil from any works constructed under this or any other Act, or removed from any watercourse in the cleansing, repairing, maintaining, or improving of the watercourse:
+  (f) break up the soil of any roads, streets, ways, or footpaths and excavate and sink trenches, and do all such other matters and things as it deems expedient, necessary, or proper for making, cleansing, repairing, maintaining, or improving any watercourse or other works to be made, done, or provided by the Board.
 
 ### 136 Notice to authority concerned before interfering with roads, etc
-Before interfering with any road, street, or footpath, or any other public work of whatsoever kind under the control of any local authority or other public body, every Board shall give not less than one month's notice in writing to the local authority or other public body having control thereof:
-  Provided that this section shall not apply in respect of the carrying out by any Board of urgent work to meet an emergency.
+Before interfering with any road, street, or footpath, or any other public work of whatsoever kind under the control of any local authority or other public body, every Board shall give not less than 1 month's notice in writing to the local authority or other public body having control thereof:provided that this section shall not apply in respect of the carrying out by any Board of urgent work to meet an emergency.
 
 ### 137 Notice in respect of works to be undertaken on private land
 (1) Before constructing any work through or upon private land, every Board shall—
-  (a) Deposit for public inspection at the office of the Board, and, where that office is outside the district, also at some place within the district, a plan and description of the work, showing how it affects the land; and
-  (b) Give notice in writing to the occupier of the land, and also to the owner when known, of the Board's intention to construct the work, referring in the notice to the plan and description aforesaid and stating where they are on view, and calling upon him to lodge with the Board within one month after the date of the notice his objections (if any) in writing to the proposed work not being objections to the amount or payment of compensation.
-(2) If within that period of one month no such objection is lodged the Board may forthwith proceed with the work.
+  (a) deposit for public inspection at the office of the Board, and, where that office is outside the district, also at some place within the district, a plan and description of the work, showing how it affects the land; and
+  (b) give notice in writing to the occupier of the land, and also to the owner when known, of the Board's intention to construct the work, referring in the notice to the plan and description aforesaid and stating where they are on view, and calling upon him to lodge with the Board within 1 month after the date of the notice his objections (if any) in writing to the proposed work not being objections to the amount or payment of compensation.
+(2) If within that period of 1 month no such objection is lodged the Board may forthwith proceed with the work.
 (3) If any such objection is lodged and agreement cannot be reached between the Board and the objector, the Board, after consultation with the objector, shall appoint an independent assessor and refer the matter to that assessor.
 (3A) After giving the Board and the objector an opportunity to be heard, the assessor shall consider the matter fairly and without bias, make a decision on it, and supply the Board and the objector with a written copy of the decision and the reasons for it.
-(3B) Subject to section 33B of this Act, every decision under subsection (3A) of this section shall be final.
+(3B) Subject to section 33B, every decision under subsection (3A) shall be final.
 (4) Nothing in this section shall apply in respect of the carrying out by any Board of urgent work to meet an emergency.
 (5) This section shall not apply where the owner and the occupier of the land have entered into an agreement in writing with the Board as to the construction of the work, or where the entry on the land is for the purpose of the maintenance or repair of any existing work on the land and the Board has given to the occupier of the land notice in writing 48 hours before entering on the land.
 
@@ -851,21 +854,21 @@ In any case where any works are to be constructed by a Board, the Board may agre
 Any land purchased by a Board may, with the approval of the Minister, be paid for by the Board by instalments extending over a period not exceeding 20 years, and interest at such rate as the Minister approves may be paid by the Board in respect of any portion of the purchase money that may for the time being be unpaid.
 
 ### 140 Leasing powers of Boards
-In addition to any leasing powers conferred on a Board by any special Act, every Board is hereby declared to be a leasing authority within the meaning of the Public Bodies Leases Act 1969, and shall have and may exercise the powers conferred on leasing authorities by that Act.
+In addition to any leasing powers conferred on a Board by any special Act, every Board is hereby declared to be a leasing authority within the meaning of the Public Bodies Leases Act 1969 and shall have and may exercise the powers conferred on leasing authorities by that Act.
 
-**Supervision of drainage boards, river boards, and local authorities**
+**Supervision of Drainage Boards, River Boards, and local authorities**
 
 ### 141 Schemes for reorganisation or abolition of internal drainage and river districts
 (1) Every Catchment Board shall, as soon as may be after it has been constituted and not later than such date as may be appointed by the Minister of Local Government, prepare and submit to that Minister a report as to the advisability of—
-  (a) Altering the boundaries of, or abolishing, any internal drainage district or river district; or
-  (b) Uniting any 2 or more internal drainage districts or river districts; or
-  (c) Constituting any new internal drainage district or river district.
+  (a) altering the boundaries of, or abolishing, any internal drainage district or river district; or
+  (b) uniting any 2 or more internal drainage districts or river districts; or
+  (c) constituting any new internal drainage district or river district.
 (2) Any Catchment Board may at any subsequent time prepare and submit a further report to the Minister of Local Government as to any of the matters referred to in the last preceding subsection.
 (3) As soon as a Catchment Board has submitted any report to the Minister of Local Government under this section, the Board shall send a copy thereof to each local authority, Drainage Board, and River Board that may be affected thereby.
 (4) The Minister of Local Government after considering the report may, if that Minister thinks fit, require the Catchment Board to present a petition to the Governor-General under the Land Drainage Act 1908 or the River Boards Act 1908, as the case may require, containing such prayer as the Minister of Local Government shall direct.
 
 ### 142 Reorganisation and abolition of internal drainage and river districts
-(1) Notwithstanding anything to the contrary in the Land Drainage Act 1908, or the River Boards Act 1908, any internal drainage districts or river districts may be constituted, united, abolished, or altered upon the petition of a Catchment Board presented pursuant to the last preceding section.
+(1) Notwithstanding anything to the contrary in the Land Drainage Act 1908 or the River Boards Act 1908, any internal drainage districts or river districts may be constituted, united, abolished, or altered upon the petition of a Catchment Board presented pursuant to the last preceding section.
 (2) The Land Drainage Act 1908 and the River Boards Act 1908 shall, so far as applicable and with the necessary modifications, apply to any such petition, and proceedings may be taken thereon as if the petition were a petition to the like effect presented by a Drainage Board or River Board, or by persons entitled pursuant to either of those Acts to present such a petition.
 (3) Where any drainage district is abolished or where the boundaries of any drainage district are altered, any award made under the provisions of section 87 of the Land Drainage Act 1908 may, notwithstanding anything to the contrary in that section, apportion any of the property, debts, liabilities, and engagements of the Drainage Board to any Catchment Board, and thereupon the property, debts, liabilities, and engagements so apportioned shall be the property, debts, liabilities, and engagements of that Catchment Board.
 (4) Where any river district is abolished, any award made under the provisions of section 6 of the River Boards Amendment Act 1910 may, notwithstanding anything to the contrary in that section, apportion any of the property, debts, liabilities, and engagements of the River Board to any Catchment Board, and thereupon the property, debts, liabilities, and engagements so apportioned shall be the property, debts, liabilities, and engagements of that Catchment Board.
@@ -877,7 +880,7 @@ In addition to any leasing powers conferred on a Board by any special Act, every
 (3) Without prejudice to the generality of the foregoing provisions of this section, no Drainage Board, River Board, or local authority shall, in exercise or performance of any of the powers, functions, or duties referred to in the foregoing provisions of this section, construct or alter any watercourse or any other works in a catchment district otherwise than with the consent (not to be unreasonably withheld) of the Catchment Board of the district.
 (4) If a Drainage Board, River Board, or local authority acts in contravention of the last preceding subsection, the Catchment Board shall have power itself to execute any works and do any things which are in the opinion of the Catchment Board necessary in order to prevent or remedy any damage which may result or may have resulted from the action of the Drainage Board, River Board, or local authority, and shall be entitled to recover from that Board or local authority the amount of any expenses reasonably incurred in the exercise of the power conferred by this subsection.
 (5)
-(6) Nothing in subsection (3) of this section shall apply with respect to the carrying out of urgent work to meet an emergency.
+(6) Nothing in subsection (3) shall apply with respect to the carrying out of urgent work to meet an emergency.
 
 ### 144 Exercise by Catchment Board of powers of Drainage Board, River Board, or local authority in default
 [Repealed]
@@ -885,21 +888,20 @@ In addition to any leasing powers conferred on a Board by any special Act, every
 **Compensation**
 
 ### 145 Compensation for injury or damage
-(1) Every person having any estate or interest in any land taken by any Board for any of the purposes of this Act or injuriously affected thereby, or damaged or injuriously affected by the construction of any works by any Board, or suffering any damage or injurious affection from the exercise by any Board of any other power conferred on it (not being a power conferred by or under section 149 or paragraphs (b), (e), (f), and (g) of subsection (1) of section 150 of this Act), shall be entitled to full compensation for the same from the Board.
+(1) Every person having any estate or interest in any land taken by any Board for any of the purposes of this Act or injuriously affected thereby, or damaged or injuriously affected by the construction of any works by any Board, or suffering any damage or injurious affection from the exercise by any Board of any other power conferred on it (not being a power conferred by or under section 149 or paragraphs (b), (e), (f), and (g) of subsection (1) of section 150), shall be entitled to full compensation for the same from the Board.
 (2)
 
 ### 145A Compensation for acts of Catchment Commissions, local authorities, and Catchment Boards
 [Repealed]
 
 ### 145B Procedure in respect of compensation claims
-All claims under this Act for compensation shall be made and determined within the time and in the manner provided by the Public Works Act 1981 in respect of lands taken under that Act or in respect of damage suffered from the exercise of any powers conferred by that Act, and the provisions of that Act shall apply accordingly:
-  Provided that:
-    (a) In determining the amount of compensation to be awarded on a claim in respect of any work or operation under this Act (whether for land taken or injuriously affected or otherwise), being a work or operation in respect of which the land is or is proposed to be rated according to a system of differential rating based on benefit to that land from the work or operation, the Land Valuation Tribunal shall not take into account the matters referred to in paragraph (e) of subsection (1) of section 62 of the Public Works Act 1981:
-    (b) No compensation shall be payable in respect of the controlling of the lighting of fires, unless the owner or occupier of the land has applied in proper form for a permit to light a fire on the land and the application has been refused, and he has followed and exhausted every right of appeal given to him by any Act, regulation, or bylaw relating to applications which have been refused:
-    (c) No compensation shall be payable in respect of any measure designed to control soil erosion in any case where failure to apply that measure of control would leave insufficient vegetative coverage of the soil to control movement by natural agency of land surface materials.
+All claims under this Act for compensation shall be made and determined within the time and in the manner provided by the Public Works Act 1981 in respect of lands taken under that Act or in respect of damage suffered from the exercise of any powers conferred by that Act, and the provisions of that Act shall apply accordingly:provided that:
+  (a) in determining the amount of compensation to be awarded on a claim in respect of any work or operation under this Act (whether for land taken or injuriously affected or otherwise), being a work or operation in respect of which the land is or is proposed to be rated according to a system of differential rating based on benefit to that land from the work or operation, the Land Valuation Tribunal shall not take into account the matters referred to in paragraph (e) of subsection (1) of section 62 of the Public Works Act 1981:
+  (b) no compensation shall be payable in respect of the controlling of the lighting of fires, unless the owner or occupier of the land has applied in proper form for a permit to light a fire on the land and the application has been refused, and he has followed and exhausted every right of appeal given to him by any Act, regulation, or bylaw relating to applications which have been refused:
+  (c) no compensation shall be payable in respect of any measure designed to control soil erosion in any case where failure to apply that measure of control would leave insufficient vegetative coverage of the soil to control movement by natural agency of land surface materials.
 
 ### 146 Board may pay for private works used by it
-In any case where a Board is of opinion that any defence against water constructed by any person is likely to be required for or of substantial benefit to the efficient carrying out of the Board's scheme and the owner thereof is not entitled to claim compensation in respect thereof under sections 145 and 145B of this Act, the Board may pay to the owner of that defence against water a proportion of the cost thereof.
+In any case where a Board is of opinion that any defence against water constructed by any person is likely to be required for or of substantial benefit to the efficient carrying out of the Board's scheme and the owner thereof is not entitled to claim compensation in respect thereof under sections 145 and 145B, the Board may pay to the owner of that defence against water a proportion of the cost thereof.
 
 ### 147 Board may purchase land injuriously affected
 Any Board may purchase or otherwise acquire (but not by compulsory taking) any land which is in danger of being or is injuriously affected by any works or operations undertaken or intended to be undertaken by the Board, and the Board may dispose of or otherwise deal with that land or any part thereof as it thinks fit.
@@ -933,12 +935,12 @@ Any Board may purchase or otherwise acquire (but not by compulsory taking) any l
 **Offences**
 
 ### 153 Obstruction of Minister or Boards
-(1) Every person commits an offence and is liable to a fine not exceeding $100 who prevents the Minister or any Board or any member or officer of the Minister or of any Board or any other person duly authorised or employed by the Minister or by any Board, from carrying out any provision of this Act or doing any work or thing authorised thereby, or who obstructs or impedes the Minister or any Board, member, officer, or other person as aforesaid in carrying out any such provision or in doing any such work or thing.
+(1) Every person commits an offence and is liable to a fine not exceeding $100 who prevents the Minister or any Board, or any member or officer of the Minister or of any Board or any other person duly authorised or employed by the Minister or by any Board, from carrying out any provision of this Act or doing any work or thing authorised thereby, or who obstructs or impedes the Minister or any Board, member, officer, or other person as aforesaid in carrying out any such provision or in doing any such work or thing.
 (2) Every person commits an offence and is liable to a fine not exceeding $100 who wilfully destroys, removes, pulls down, injures, or defaces any board, placard, or notice set up, made, or published under this Act.
 
 ### 154 Damage to watercourses and works
 (1) Every person who, without the written approval of the Minister or Board concerned, wilfully destroys or damages any watercourse or defence against water which is in any district or is under the control of the Minister or of any Board, or is constructed, established, or maintained under this Act by the Minister or by any Board, or who, without the written approval of the Minister or Board concerned, wilfully destroys or damages any plantation or work under the control of the Minister or of any Board, commits an offence and is liable to a fine not exceeding $10,000.
-(2) Every person who, without the written approval of the Minister or Board concerned, destroys or damages any watercourse or defence against water which is in any district or is under the control of the Minister or of any Board or is constructed, established, or maintained under this Act by the Minister or by any Board, or who, without the written approval of the Minister or Board concerned, destroys or damages any plantation or work under the control of the Minister or of any Board, or who allows any animal which he owns or has under his control to damage or destroy any tree, shrub, or plant forming part of a defence against water, being a defence that is under the control of the Minister, or Board, whether or not he has been guilty of an offence against this section, shall be liable to pay to the Minister or to the Board, as the case may be, the whole cost of restoring or repairing the damage or injury; and the amount thereof shall be recoverable as a debt due to the Minister or to the Board, as the case may be.
+(2) Every person who, without the written approval of the Minister or Board concerned, destroys or damages any watercourse or defence against water which is in any district or is under the control of the Minister or of any Board or is constructed, established, or maintained under this Act by the Minister or by any Board, or who, without the written approval of the Minister or Board concerned, destroys or damages any plantation or work under the control of the Minister or of any Board or who allows any animal which he owns or has under his control to damage or destroy any tree, shrub, or plant forming part of a defence against water, being a defence that is under the control of the Minister, Board, whether or not he has been guilty of an offence against this section, shall be liable to pay to the Minister or to the Board, as the case may be, the whole cost of restoring or repairing the damage or injury; and the amount thereof shall be recoverable as a debt due to the Minister or to the Board as the case may be.
 
 ### 155 Interfering with watercourses
 [Repealed]
@@ -963,7 +965,7 @@ In the course of any legal proceedings instituted for enforcing any provision of
 ### 161 Service of legal proceedings on Boards
 Any summons, writ, or other legal proceeding requiring to be served on any Board may be served by being left at the public office of the Board or given personally to the Chairman or Secretary.
 
-### 162
+### 162 Notice to be given to Boards of proposed actions
 [Repealed]
 
 ## Part 10 — Miscellaneous
@@ -984,28 +986,27 @@ Every order, notice, or other document, requiring authentication by any Board sh
 Where anything is omitted to be done or cannot be done at the time required by or under this Act, or is done after such time, or is otherwise irregularly done in matter of form, or sufficient provision is not made by or under this Act, the Governor-General may, by Order in Council, at any time before or after the time within which such thing is required to be done, extend such time, or may validate anything so done after the time required, or so irregularly done in matter of form, or make such other provision for the case as he thinks fit.
 
 ### 165A Loss or destruction of records, etc
-Where any rate book, valuation roll or list, ratepayers roll, or any book or document of any sort belonging to a Board or the Minister is required for immediate use but is destroyed or lost, a copy thereof sworn to be accurate on the oath of a responsible person may be used in its place; and, if there is no such copy available, the Governor-General may do such acts and things as he thinks best for repairing the loss and for providing for making a new book, roll, list, or document in place of that which was destroyed or lost as aforesaid; and, by Order in Council gazetted, may validate any book, roll, list, or other document so made and may define the time during which the book, roll, list, or document shall remain in force.
+Where any rate records, valuation roll or list, ratepayers roll, or any book or document of any sort belonging to a Board or the Minister is required for immediate use but is destroyed or lost, a copy thereof sworn to be accurate on the oath of a responsible person may be used in its place; and, if there is no such copy available, the Governor-General may do such acts and things as he thinks best for repairing the loss and for providing for making a new book, roll, list, or document in place of that which was destroyed or lost as aforesaid; and, by Order in Council gazetted, may validate any book, roll, list, or other document so made and may define the time during which the book, roll, list, or document shall remain in force.
 
 ### 166 Regulations
 (1) The Governor-General from time to time, by Order in Council, may make regulations for any purpose for which regulations are contemplated by this Act, and may make all such other regulations as may in his opinion be necessary or expedient for giving full effect to the provisions of this Act and for the due administration thereof.
 (2) The Governor-General may, by any such regulations, prescribe fines for the breach of any regulation, not exceeding $10 for any one offence.
-(3) Nothing in this section shall prejudice or affect the powers contained in sections 14 and 15 of this Act.
+(3) Nothing in this section shall prejudice or affect the powers contained in sections 14 and 15.
 
 ### 167 Regulations to be laid before Parliament
 [Repealed]
 
-### 168 Board not to construct works on tidal waters without sanction of Minister of Transport
+### 168 Board not to construct works on tidal waters without Governor-General's sanction
 [Repealed]
 
 ### 169 Government works not to be interfered with
 (1) Nothing in this Act shall—
-  (a) Authorise any Board to interfere with any public work executed or carried on by, or under the control of, the Government without the previous written consent and approval of the Minister under whose control the work is being executed or carried on; or
-  (b) Prejudice or affect any power or authority vested in Her Majesty, or in the Governor-General, or in any Minister or other person on behalf of Her Majesty or the Governor-General, under any Act authorising the erection, construction, carrying on, or maintenance of any work.
-(2) In giving any consent and approval under the last preceding subsection the Minister, may impose such conditions as he thinks fit for the protection and safety of the public work.
+  (a) authorise any Board to interfere with any public work executed or carried on by, or under the control of, the Government without the previous written consent and approval of the Minister under whose control the work is being executed or carried on; or
+  (b) prejudice or affect any power or authority vested in Her Majesty, or in the Governor-General, or in any Minister or other person on behalf of Her Majesty or the Governor-General, under any Act authorising the erection, construction, carrying on, or maintenance of any work.
+(2) In giving any consent and approval under the last preceding subsection the Minister may impose such conditions as he thinks fit for the protection and safety of the public work.
 
 ### 170 Act not to affect property of the Crown
-Except as expressly provided in this Act, nothing in this Act or in any regulations or bylaws under this Act shall in any way affect the interest of Her Majesty in any property of any kind belonging to or vested in Her Majesty:
-  Provided that this Act and the regulations and bylaws thereunder shall apply to the interest of any lessee, licensee, or other person claiming an interest in any property of the Crown in the same manner as they apply to private property.
+Except as expressly provided in this Act, nothing in this Act or in any regulations or bylaws under this Act shall in any way affect the interest of Her Majesty in any property of any kind belonging to or vested in Her Majesty:provided that this Act and the regulations and bylaws thereunder shall apply to the interest of any lessee, licensee, or other person claiming an interest in any property of the Crown in the same manner as they apply to private property.
 
 ## Schedule 1
 
