@@ -1,5 +1,5 @@
 # Maori Trust Boards Act 1955
-_Consolidation as at 2008-05-23_
+_Consolidation as at 2008-09-10_
 
 > An Act to make better provision for the administration of certain Maori Trust Boards
 
@@ -53,7 +53,7 @@ _Consolidation as at 2008-05-23_
 
 ### 6 Te Runanga o Ngai Tahu
 (1)
-(2) There shall, without further appropriation than this section, be paid out of public money to Te Runanga o Ngai Tahu on the 1st day of April in each year the sum of $20,000.
+(2)
 (3)
 (4)
 (5)
@@ -128,7 +128,7 @@ Each Board shall be a body corporate with perpetual succession and a common seal
 (1) Each Board shall consist of such number of members as may be prescribed by regulations under this Act.
 (2) The members of each Board shall, from time to time, be appointed by the Governor-General who, subject to the provisions of this Act, shall appoint those members elected by the beneficiaries of the Board in accordance with this Act.
 (3) No person shall be appointed as a member of a Board who is—
-  (a) A person who is mentally disordered within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
+  (a) a person who is subject to a personal order or a property order made under the Protection of Personal and Property Rights Act 1988 or for whom a trustee corporation is acting as manager under section 32 or 33 of that Act; or
   (b) A bankrupt who has not obtained his order of discharge, or whose order of discharge is suspended for a term not yet expired, or is subject to conditions not yet fulfilled; or
   (c) A person convicted of any offence punishable by imprisonment for a term of 6 months or longer, unless he has received a free pardon or has served his sentence or otherwise suffered the penalty imposed upon him.
 (4) No person shall be capable of being elected or appointed to be, or of being, a member of a Board unless he is, in relation to that Board, a beneficiary.
