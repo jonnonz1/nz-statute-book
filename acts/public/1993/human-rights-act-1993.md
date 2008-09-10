@@ -1,5 +1,5 @@
 # Human Rights Act 1993
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-09-10_
 
 > An Act to consolidate and amend the Race Relations Act 1971 and the Human Rights Commission Act 1977 and to provide better protection of human rights in New Zealand in general accordance with United Nations Covenants or Conventions on Human Rights.
 
@@ -485,9 +485,16 @@ No employer shall be entitled, by virtue of any of the exceptions in this Part o
 (2) It shall be unlawful for a firm—by reason of any of the prohibited grounds of discrimination.
   (a) To deny any partner increased status in the firm or an increased share in the capital or profits of the firm; or
   (b) To expel any partner from the firm or to subject any partner to any other detriment,—
-(3) Nothing in subsection (1) or subsection (2) of this section shall prevent the fixing of reasonable terms and conditions in relation to a partner or prospective partner who, by reason of disability or age,—
-  (a) Has a restricted capacity to participate or to continue to participate in the partnership; or
-  (b) Requires special conditions if he or she is to participate or to continue to participate in the partnership.
+(2A) It is unlawful for a firm, or for persons jointly promoting the formation of a firm, to fail to provide special services or facilities that could reasonably be provided by the firm, or those persons, in the circumstances and that, if provided, would enable a person with a disability—
+  (a) to be accepted as a partner and remain in partnership; or
+  (b) to be offered the same terms and conditions as a partner (including terms and conditions as to status in the firm or entitlements to shares in capital or profits) that are made available to other members or prospective members of the firm.
+(3) Nothing in this section prevents the fixing of reasonable terms and conditions in relation to a partner or prospective partner, who by reason of disability or age—
+  (a) has a restricted capacity to participate or continue to participate in the partnership, that cannot be restored to normal by the provision of any special services or facilities required to be provided under subsection (2A); or
+  (b) requires special conditions if he or she is to participate or continue to participate in the partnership, even if any special services or facilities required to be provided under subsection (2A) are provided.
+(4) Nothing in this section applies in respect of a person with a disability, if the disability of the person is such that—
+  (a) there would be a risk of harm to that person or others, including the risk of infecting others with an illness if that person were to accept or remain in partnership or be given the same terms and conditions as a partner (including terms and conditions as to status in the firm or entitlement to shares in capital or profits) that were made available to other members or prospective members of the firm; and
+  (b) it is not reasonable to take that risk.
+(5) Subsection (4) does not apply if the firm, or persons jointly promoting the formation of a firm, could, without unreasonable disruption, take reasonable measures to reduce the risk to a normal level.
 
 **Discrimination by industrial and professional associations, qualifying bodies, and vocational training bodies**
 
@@ -496,7 +503,14 @@ No employer shall be entitled, by virtue of any of the exceptions in this Part o
   (a) To refuse or omit to accept any person for membership; or
   (b) To offer any person less favourable terms of membership and less favourable access to any benefits, facilities, or services, including the right to stand for election and hold office in the organisation, than would otherwise be made available; or
   (c) To deprive a person of membership, or suspend him or her, in circumstances in which other persons would not be deprived of membership or suspended,—
+(1A) It is unlawful for an organisation to which this section applies, or for any person acting or purporting to act on behalf of any such organisation, to fail to provide special services or facilities that could reasonably be provided by the organisation in the circumstances and that, if provided, would enable a person with a disability to—
+  (a) be accepted and remain in membership; or
+  (b) be given equal access to benefits, facilities, or services provided by the organisation (including the right to stand for election and hold office).
 (2) Nothing in this section shall prevent an organisation to which this section applies from charging different fees to persons in different age groups.
+(2A) Nothing in this section applies in respect of a person with a disability, if the disability of the person is such that—
+  (a) there would be a risk of harm to that person or others, including the risk of infecting others with an illness if that person were to accept or remain in membership or be given equal access to benefits, facilities, or services provided by the organisation (including the right to stand for election and hold office); and
+  (b) it is not reasonable to take that risk.
+(2B) Subsection (2A) does not apply if the organisation could, without unreasonable disruption, take reasonable measures to reduce the risk to a normal level.
 (3) This section applies to an organisation of employees, an organisation of employers, or any other organisation that exists for the purposes of members who carry on a particular profession, trade, or calling.
 
 ### 38 Qualifying bodies
@@ -512,6 +526,9 @@ No employer shall be entitled, by virtue of any of the exceptions in this Part o
   (a) The person seeking or holding the approval, authorisation, or qualification is not, by reason of that person's disability, able to perform the duties required of a person who holds the approval, authorisation, or qualification; or
   (b) The environment in which the duties required of a person who holds the approval, authorisation, or qualification are to be performed or the nature of those duties, or of some of them, are such that, if that approval, authorisation, or qualification were granted to or retained by the person with a disability, there would be a risk of harm to that person or others, including the risk of infecting others with an illness, and it is not reasonable to take that risk; or
   (c) Conditions placed on the granting of the approval, authorisation, or qualification to any person or on the retention of the approval, authorisation, or qualification by any person are reasonably related to the disability of that person.
+(2A) For the purposes of applying subsection (2)(a) and (b), an authority or body referred to in section 38 must,—
+  (a) in the case of subsection (2)(a), take account of whether a disabled person could perform the required duties if he or she was provided with special services or facilities that could reasonably be provided by an employer or by any other relevant person:
+  (b) in the case of subsection (2)(b), take account of whether the risk of harm referred to in that paragraph could be reduced to a normal level, without unreasonable disruption to an employer or to any other relevant person.
 (3) Nothing in section 38 of this Act shall apply where—
   (a) The authority or body imposes a reasonable and appropriate minimum age under which the approval, authorisation, or qualification will not be conferred; or
   (b) The authority or body imposes reasonable and appropriate terms and conditions on the grant or retention of the approval, authorisation, or qualification by reason of the age of the person seeking or holding it.
@@ -529,6 +546,11 @@ It shall be unlawful for any organisation or association which has as its functi
 (4) Nothing in section 40 of this Act shall prevent an organisation or association from providing training, or facilities or opportunities for training (including facilities or opportunities by way of financial grants), only for persons above a particular age or in a particular age group.
 (5) Nothing in section 40 of this Act shall prevent the making of financial grants by an organisation or association only to persons above a particular age or in a particular age group.
 (6) Nothing in section 40 of this Act shall prevent an organisation or association from charging different fees to persons in different age groups.
+(7) Nothing in section 40 makes it unlawful to fail to provide special services or facilities designed for a specified purpose if those special services or facilities cannot reasonably be provided in the circumstances.
+(8) In subsection (7), a specified purpose means 1 or more of the following purposes:
+  (a) to enable a person with a disability to undergo and remain in training; or
+  (b) to provide a person with a disability with facilities or opportunities for training; or
+  (c) to provide a person with a disability with facilities or opportunities for training on no less favourable terms and conditions than would otherwise be made available.
 
 **Discrimination in access to places, vehicles, and facilities**
 
@@ -620,6 +642,7 @@ Nothing in section 53 of this Act shall apply to accommodation in any hostel or 
 ### 56 Further exception in relation to disability
 (1) Subject to subsection (2) of this section, nothing in section 53 of this Act shall apply, in relation to any accommodation, if the disability of the person is such that there would be a risk of harm to that person or others, including the risk of infecting others with an illness, if that person were to live in that accommodation and it is not reasonable to take that risk.
 (2) Subsection (1) of this section shall not apply if the person in charge of the accommodation could, without unreasonable disruption, take reasonable measures to reduce the risk to a normal level.
+(3) Nothing in section 53 makes it unlawful to fail to provide special services or facilities designed to make accommodation suitable for occupation by a person with a disability, if those special services or facilities cannot reasonably be provided in the circumstances.
 
 **Discrimination in access to educational establishments**
 
@@ -642,7 +665,7 @@ Nothing in section 53 of this Act shall apply to accommodation in any hostel or 
 Nothing in section 57 of this Act shall prevent the holding or provision, at any educational establishment, of courses or counselling restricted to persons of a particular sex, race, ethnic or national origin, or sexual orientation, where highly personal matters, such as sexual matters or the prevention of violence, are involved.
 
 ### 60 Further exceptions in relation to disability
-(1) Nothing in section 57 of this Act makes it unlawful to refuse admission to an educational establishment to a person whose disability is such that that person requires special services or facilities that in the circumstances cannot reasonably be made available (being services or facilities that are required to enable the person to participate in the educational programme of that establishment or to enable the person to derive substantial benefits from that programme).
+(1) Nothing in section 57 applies to a person whose disability is such that that person requires special services or facilities that in the circumstances cannot reasonably be made available (being services or facilities that are required to enable the person to participate in the educational programme of an establishment referred to in that section or to enable the person to derive substantial benefits from that programme).
 (2) Subject to subsection (3) of this section, nothing in section 57 of this Act shall apply where the person's disability is such that there would be a risk of harm to that person or to others, including the risk of infecting others with an illness, if that person were to be admitted to an educational establishment and it is not reasonable to take that risk.
 (3) Nothing in subsection (2) of this section shall apply if the person in charge of the educational establishment could, without unreasonable disruption, take reasonable measures to reduce the risk to a normal level.
 
