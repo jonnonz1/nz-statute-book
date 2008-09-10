@@ -1,12 +1,12 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2008-05-29_
+_Consolidation as at 2008-09-10_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
 
 ### 2 Commencement
 (1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
-(2) One or more Orders in Council may be made bringing different provisions into force on different dates.
+(2) 1 or more Orders in Council may be made bringing different provisions into force on different dates.
 
 ## Part 1 — Preliminary provisions
 
@@ -16,7 +16,7 @@ This Act is the KiwiSaver Act 2006.
 
 ### 4 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **address** , in relation to a person, means all or any of the following
+  - **address** , in relation to a person, means all or any of the following:
     (a) the person's last known street address or post office box number:
     (b) the person's last known electronic address, if the person consents to notices under this Act being given to the person's electronic address
   - **automatic enrolment rules** means sections 10 to 21
@@ -25,7 +25,7 @@ This Act is the KiwiSaver Act 2006.
   - **contribution** means any contribution to a KiwiSaver scheme, including an employer contribution and a Crown contribution
   - **contribution rate** , in relation to an employer and a particular employee, has the meaning given by section 64
   - **contributions holiday** , in respect of an employee, means a period in respect of which the deduction of contributions is not required to be made from his or her salary or wages in accordance with subpart 4 of Part 3
-  - **Court** means, in relation to any matter, the court, tribunal, or arbitral tribunal by or before which the matter falls to be determined
+  - **court** means, in relation to any matter, the court, tribunal, or arbitral tribunal by or before which the matter falls to be determined
   - **Crown** , for the avoidance of doubt, includes a Minister of the Crown, a Government department, and the Commissioner
   - **Crown contribution** means—
     (a) the contribution made by the Crown under section 226:
@@ -118,7 +118,7 @@ This Act is the KiwiSaver Act 2006.
   - **opt out** means to opt out of the overall KiwiSaver scheme as provided in sections 16 to 21
   - **opt-out notice** means a notice given under section 17
   - **participation agreement** means an agreement or any instrument in writing related to an arrangement between an employer and a provider of a scheme that determines some of the conditions on which the employer's employees may be members of the scheme as amended from time to time
-  - **pay period** has the same meaning as in section YA 1 of the Income Tax Act 2007)
+  - **pay period** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **PAYE period** has the same meaning as in paragraph (a) of the definition of payment period in section MK 10 of the Income Tax Act 2007
   - **PAYE rules** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **permitted withdrawal** means a withdrawal that is permitted under the KiwiSaver scheme rules
@@ -133,7 +133,7 @@ This Act is the KiwiSaver Act 2006.
   - **remittance certificate** means a PAYE payment form as defined in section YA 1 of the Income Tax Act 2007
   - **salary or wages** , in relation to any person, means salary or wages as defined in section RD 5(1)(a) to (c) of the Income Tax Act 2007 (whether the salary or wages are primary or secondary employment earnings) except that, in this Act,—
     (a) it excludes—
-      (i) salary or wages described in sections RD 5(4), (6)(b), and (6)(c) and RD 68 of the Income Tax Act 2007; and
+      (i) salary or wages described in section RD 5(4), (6)(b), and (6)(c) and RD 68 of the Income Tax Act 2007; and
       (ib) allowances paid in place of a benefit under section CE 1(c) of that Act; and
       (ii) payments that are income under section CF (1)(b) to (e), (g), or (h) of that Act; and
       (iii) expenditure on account of an employee and allowances calculated by reference to reasonable actual costs, if the expenditure or allowances are for accommodation overseas or other costs of living overseas; and
@@ -143,7 +143,7 @@ This Act is the KiwiSaver Act 2006.
         (B) payments of weekly compensation, as defined in the Injury Prevention, Rehabilitation, and Compensation Act 2001, made by an employer, unless the employer chooses to not exclude the payments from this definition of salary or wages:
     (b) it includes extra pay (as defined in section YA 1 of the Income Tax Act 2007), unless—
       (i) otherwise excluded under paragraph (a) of this definition; or
-      (ii) the amount is a redundancy payment (as defined in section YA 1 of the Income Tax Act 2007)
+      (ii) the amount is a redundancy payment (as defined in section YA 1of the Income Tax Act 2007)
   - **tax file number** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **trust deed** includes—
     (a) a participation agreement and any other document that, under the terns of the relevant trust deed, forms part of or determines any of the terms of the trust deed; and
@@ -233,7 +233,7 @@ The automatic enrolment rules apply to every employee who is not a secondee and�
 (3) In this section,—
   - **board of trustees** means a board of trustees constituted under Part 9 of the Education Act 1989
   - **integrated school** has the same meaning as in section 145 of the Education Act 1989
-  - **state school** has the same meaning as in section 2(1) of the Education Act 1989.
+  - **state school** has the same meaning as in section 2(1) of the Education Act 1989 .
 
 ### 14 Other situations when automatic enrolment rules do not apply
 (1) Despite sections 10 to 13, the following are not new employment, and the automatic enrolment rules do not apply:
@@ -305,7 +305,7 @@ The Commissioner must, as soon as practicable after accepting an opt-out notice 
 (3) The employer may refund any deduction to the employee, rather than pay it to the Commissioner.
 
 ### 21 Opt-out only applies to employment that triggered automatic enrolment rules
-An opt-out notice given in respect of one employment terminates the application of the automatic enrolment rules only in respect of that 1 employment, and does not apply to any other new employment in respect of which the employee may become subject to the automatic enrolment rules in the future.
+An opt-out notice given in respect of 1 employment terminates the application of the automatic enrolment rules only in respect of that 1 employment, and does not apply to any other new employment in respect of which the employee may become subject to the automatic enrolment rules in the future.
 
 **Notice requirements for people who start new employment**
 
@@ -365,8 +365,8 @@ For the purposes of sections 22 and 23, a PAYE intermediary (within the meaning 
   (d) any amount contributed to the scheme by an employer in respect of an employee must be calculated, for the purposes of the minimum amount required by section 25(1)(d), before any ESCT payable under the ESCT rules is deducted.
 (2) Subsection (1)(b) does not limit subsection (1)(c) or (d).ExampleCompany A provides access to a superannuation scheme for its employees. The trust deed provides that employees, if they decide to become members, must contribute at either 1% or 3% of annual gross base salary. The employer is obliged to match the employee's contributions (eg, if employee contributes 1%, company must contribute 1%).The scheme complies with the rule as to the 4% minimum contribution as follows:Minimum amount employee member must contribute1%Maximum amount that employer must contribute in respect of employee member3%4%
 
-### 27 Eligibility of employers who provide access to more than one scheme
-An employer who provides access to more than 1 superannuation scheme for its employees is eligible to be approved as an exempt employer if the Government Actuary is satisfied that, if all of those schemes were considered as a whole (as if they were one scheme), the rules in section 25 would be complied with.
+### 27 Eligibility of employers who provide access to more than 1 scheme
+An employer who provides access to more than 1 superannuation scheme for its employees is eligible to be approved as an exempt employer if the Government Actuary is satisfied that, if all of those schemes were considered as a whole (as if they were 1 scheme), the rules in section 25 would be complied with.
 
 ### 28 Eligibility of employers who have schemes established under master trusts
 An employer who provides access to a superannuation scheme for its employees that is established under a master trust is eligible to be approved as an exempt employer if the Government Actuary is satisfied that the rules in section 25 would be complied with if the Government Actuary considered only—
@@ -518,7 +518,7 @@ A person may, at any time, choose the KiwiSaver scheme of which he or she will b
 (2) However, an employer may choose a KiwiSaver scheme under this section only if all permanent employees of the employer are eligible to be members of the scheme (to the extent that this Act applies to the employees).
 (3) In this section, permanent employees means employees—
   (a) who are not employed in temporary employment (as described in section 12); and
-  (b) to whom the automatic enrolment rules apply, or would apply but for the application of section 14.
+  (b) to whom the automatic enrolment rules apply, or would apply, but for the application of section 14.
 
 ### 47 When employer choice of KiwiSaver scheme is effective
 (1) The method by which an employer may choose a KiwiSaver scheme is—
@@ -628,7 +628,7 @@ A person may, at any time, choose the KiwiSaver scheme of which he or she will b
   (c) give notice to the provider of the new scheme—
     (i) of the date on which the member first became a member of a KiwiSaver scheme, if the old scheme is a KiwiSaver scheme; and
     (ii) as to whether the member has made a withdrawal for the purpose of the purchase of a first home under clause 8 of the KiwiSaver scheme rules; and
-    (iii) of any contribution holidays in force:
+    (iii) of any contribution holidays in force; and
     (iv) as to whether the Crown contribution under section 226 is included in the member's accumulation transferred to the new scheme.
     (v)
     (vi) of any information held by a provider of the old scheme that would be relevant to a provider of the new scheme making a claim under section 68C of the Tax Administration Act 1994, including information as to the periods for which claims have already been made.
@@ -705,7 +705,7 @@ This subpart applies when, because of a mistake,—
 (4) The refund amount must be paid to the person, their employer, the Crown, and any other person making a contribution in respect of the person, in proportion to the Commissioner's best estimate of what they contributed, taking into account amounts described in paragraph (a)(i) and (ii).
 (5) When the Commissioner has paid the refund amount, the amount of member's accumulation for the person previously paid to the Commissioner (the accumulation money), and the contributions held by the Commissioner in respect of the person in the holding account described in section 72 including interest under section 84 (the holding account money) are treated in the following ways:
   (a) the accumulation money and the holding account money are public money, and are not trust money for the purposes of sections 66 to 68 of the Public Finance Act 1989:
-  (b) Subpart 2 of Part 3 does not apply to the accumulation money and holding account money, and the Commissioner must pay the money into the Crown Bank account.
+  (b) subpart 2 of Part 3 does not apply to the accumulation money and holding account money, and the Commissioner must pay the money into the Crown Bank account.
 
 ## Part 3 — KiwiSaver contributions
 
@@ -729,7 +729,7 @@ The Commissioner may give a notice to an employer requiring the deduction of con
 This subpart does not apply to an employer in respect of an employee, or to a payment of salary or wages,—
   (a) if section 20(2) has required the employer to stop making deductions after an opt-out; or
   (b) if the employee has given or shown the employer a notice of a contributions holiday, or the Commissioner has notified the employer of a contributions holiday, that has been granted under subpart 4, for so long as the employer is satisfied that the employee is on that contributions holiday; or
-  (c) if, in accordance with the PAYE rules, no tax deduction is required to be made from the payment of salary or wages at the time the payment is made and the payment is not salary and wages for a private domestic worker..
+  (c) if, in accordance with the PAYE rules, no tax deduction is required to be made from the payment of salary or wages at the time the payment is made and the payment is not salary and wages for a private domestic worker.
 
 ### 63 Part also applies to PAYE intermediaries
 This Part applies to a PAYE intermediary (within the meaning of section YA 1 of the Income Tax Act 2007) who is acting under sections RP 1 to RP 16 of that Act as if references to the employer were a reference to the PAYE intermediary and with other necessary modifications.
@@ -829,7 +829,7 @@ Any amount that is held by the Commissioner under section 70(2) is treated, for 
 (1) This section applies to any amount of contribution that is received by the Commissioner other than an amount referred to in section 73.
 (2) As soon as practicable after receiving the amount, the Commissioner must enter that amount in the holding account in respect of the person to whom the contribution relates.
 (3) Subject to sections 75 to 77, as soon as practicable after entering an amount in the holding account under this section, the Commissioner must pay the amount to the provider of the relevant KiwiSaver scheme.
-(4) Money entered in the holding account under this section is trust money for the purposes of sections 66 to 68 of the Public Finance Act 1989.
+(4) Money entered in the holding account under this section is trust money for the purposes of sections 66 to 68 of the Public Finance Act 1989 .
 
 ### 75 Initial contributions stay in holding account for 3 months
 (1) This section applies to all contributions received by the Commissioner in respect of a person in the 3-month period starting on the earlier of—
@@ -899,7 +899,7 @@ Part 2 of the Trustee Act 1956 does not apply to the Commissioner in respect of 
 ### 86 Interest rate
 (1) The interest rate at which interest is payable under sections 84 to 91 is—Commissioner's paying rate × (1 − lowest tax rate)where—
   - **Commissioner's paying rate** is the rate of interest established and notified as the Commissioner's paying rate by an Order in Council made under section 120H of the Tax Administration Act 1994 as the Commissioner's paying rate applying on the day on which the contribution is received or treated as received
-  - **lowest tax rate** is the tax rate in schedule 1, part A, table 1, row 1, column 2 of the Income Tax Act 2007.
+  - **lowest tax rate** is the tax rate in Schedule 1, Part A, table 1, row 1, column 2 of the Income Tax Act 2007.
 (2) The interest rate calculated using the formula is expressed as a percentage, rounded to 2 decimal places, with numbers at the midpoint or greater being rounded up and other numbers being rounded down.
 
 ### 87 Amount of interest payable
@@ -914,7 +914,7 @@ Interest that is payable under section 84 on an amount of contribution that is o
 ### 89 How and when interest is paid on refunds
 (1) This section applies to interest that would be payable under section 84 in respect of an amount of contribution that is refunded under this Part (except section 81).
 (2) Interest must be paid with the refund.
-(3) However, no interest is payable if the amount of the interest in respect of that refund is less than $5:
+(3) However, no interest is payable if the amount of the interest in respect of that refund is less than $5.
 (4) The Governor-General may, by Order in Council, increase the amount in subsection (3).
 
 ### 90 Position if Commissioner's paying rate changes
@@ -987,7 +987,7 @@ For the purposes of the Income Tax Act 2007 and the Tax Administration Act 1994,
   (b) is the employer contribution shown on the employer monthly schedule for the relevant employee for the month to which the employer monthly schedule relates
   (c) is the total employer contributions shown on either or both of the remittance certificate or employer monthly schedule for all of the employer's employees for the month to which the employer monthly schedule relates.
 (3) Subsection (2) does not prevent the provider of a KiwiSaver scheme from crediting amounts on the basis provided for in the trust deed or other document governing employer contributions, rather than in accordance with the calculation under subsection (2).
-(4) For the purposes of this section, employer contribution does not include compulsory employer contribution to the extent of the employer's entitlement to a tax credit under section MK1(2)of the Income Tax Act 2007 in relation to the contribution.
+(4) For the purposes of this section, employer contribution does not include compulsory employer contribution to the extent of the employer's entitlement to a tax credit under section MK 1(2) of the Income Tax Act 2007 in relation to the contribution.
 
 ### 100 Refunds of employer contribution by Commissioner if employee opts out
 If an employee opts out after an employer contribution is paid to the Commissioner, the Commissioner may, if it is still in his or her possession, refund the employer contribution to the employer.
@@ -1012,7 +1012,9 @@ If an employee opts out after an employer contribution is paid to the Commission
 (4) However, on and after 13 December 2007,—
   (a) parties to an employment relationship are free to agree contractual terms and conditions that ignore the purpose of this section described in subsection (1); and
   (b) to the extent of such agreement described in subparagraph (a), subsections (1) to (3) do not apply.
-(5) For the avoidance of doubt, the duty of good faith described in section 4 of the Employment Relations Act 2000 always applies when parties to an employment relationship bargain for terms and conditions relating to compulsory contributions and associated matters.
+(5) For the avoidance of doubt,—
+  (a) the duty of good faith described in section 4 of the Employment Relations Act 2000 always applies when parties to an employment relationship bargain for terms and conditions relating to compulsory contributions and associated matters; and
+  (b) sections 103(1)(h) and 110A of the Employment Relations Act 2000 apply in relation to the contractual terms and conditions of the parties to an employment relationship, subject to section 5 of the Employment Relations (Breaks, Infant Feeding, and Other Matters) Amendment Act 2008.
 (6) In this section, compulsory contributions means an amount of employer contributions equal to the amount of compulsory employer contributions that would be required by this subpart in the absence of section 101D(5)(a).
 
 ### 101C Employee's requirements
@@ -1565,7 +1567,7 @@ A reference (express or implied) to the scheme or the trustees of the scheme in 
 **Establishment of KiwiSaver scheme under umbrella trust that also governs registered superannuation scheme**
 
 ### 148 Trustees may submit proposal to establish KiwiSaver scheme under umbrella trust that also governs registered superannuation scheme
-(1) The trustees of a registered superannuation scheme may submit to the Government Actuary a proposal to establish a KiwiSaver scheme under an umbrella trust that governs by one trust deed and the same trustees, as separate schemes,—
+(1) The trustees of a registered superannuation scheme may submit to the Government Actuary a proposal to establish a KiwiSaver scheme under an umbrella trust that governs by 1 trust deed and the same trustees, as separate schemes,—
   (a) a superannuation scheme registered under the Superannuation Schemes Act 1989; and
   (b) a KiwiSaver scheme registered under this Act.
 (2) The proposed KiwiSaver scheme must be eligible to be a KiwiSaver scheme under section 116.
@@ -1602,7 +1604,7 @@ The registration of a KiwiSaver scheme under section 150 must be treated as havi
 
 ### 153 Effect of registration of KiwiSaver scheme under section 150
 On the registration of a KiwiSaver scheme under section 150 taking effect,—
-  (a) there is an umbrella trust that governs by one trust deed and the same trustees, as separate schemes,—
+  (a) there is an umbrella trust that governs by 1 trust deed and the same trustees, as separate schemes,—
     (i) the superannuation scheme registered under the Superannuation Schemes Act 1989; and
     (ii) the KiwiSaver scheme registered under this Act:
   (b) no person who is a member of the registered superannuation scheme becomes a member of the KiwiSaver scheme:
@@ -1942,7 +1944,7 @@ Any person referred to in clause 2 of the KiwiSaver scheme rules who increases a
 ### 190 Secrecy
 The Government Actuary, or any person who has information, papers, documents, records, or things as a result of a delegation by the Government Actuary of any of his or her functions, duties, and powers under this Act, is not required to produce in any court or tribunal any information, paper, document, record, or thing, or to divulge or communicate to any court or tribunal any matter or thing coming under that person's notice in the performance of that person's duties, except when it is necessary to do so for the purposes of carrying into effect—
   (a) any provision of this Act or any regulations made under this Act; or
-  (b) any provision of the Inland Revenue Acts or regulations made under the Inland Revenue Acts (as defined in section 3(1) of the Tax Administration Act 1994) that is relevant to carrying into effect the provisions of this Act.
+  (b) any provision of the Inland Revenue Acts or regulations made under the Inland Revenue Acts (as defined in section 3(1) of the Tax Administration Act 1994 ) that is relevant to carrying into effect the provisions of this Act.
 
 ### 191 Duty of certain persons to disclose information to Government Actuary
 (1) This section applies if a person who holds office as an administration manager, investment manager, or auditor of a KiwiSaver scheme forms an opinion in the course of, or in connection with, the performance of the functions of that office that there is a serious problem with the KiwiSaver scheme.
@@ -1975,14 +1977,14 @@ Neither the Government Actuary, nor any person acting as a delegate of the Gover
 
 ### 196 Member's interest in KiwiSaver scheme not assignable
 (1) Except as expressly provided in this Act, a member's interest or any future benefits that will or may become payable to a member under the KiwiSaver scheme must not be assigned or charged or passed to any other person whether by way of security, operation of law, or any other means.
-(2) However, nothing in subsection (1) prevents a member's interest or any future benefits that will or may become payable to a member under the KiwiSaver scheme from being released, assigned, or charged, or from passing to any other person if it is required by the provisions of any enactment, including a requirement by order of the Court under any enactment (including an order made under section 31 of the Property (Relationships) Act 1976).
+(2) However, nothing in subsection (1) prevents a member's interest or any future benefits that will or may become payable to a member under the KiwiSaver scheme from being released, assigned, or charged, or from passing to any other person if it is required by the provisions of any enactment, including a requirement by order of the court under any enactment (including an order made under section 31 of the Property (Relationships) Act 1976).
 
 ### 197 Offence to fail to provide information under this Part
 (1) Every person commits an offence against this Part, and is liable on summary conviction to a fine not exceeding the amount set out in section 199, who fails without reasonable excuse, as and when required by this Part or any regulations made under section 228,—
   (a) to deliver any paper, document, record, report, copy, thing, or certificate; or
   (b) to allow a person to look at a paper, document, record, report, copy, or thing; or
   (c) to supply any return or to give any certificate or information.
-(2) For the purposes of sections 15A, 16, and 17 of the Superannuation Schemes Act 1989, as applied by section 122 of this Act,—
+(2) For the purposes of sections 15A, 16, and 17 of the Superannuation Schemes Act 1989 , as applied by section 122 of this Act,—
   (a) requests must be made to the trustees of the KiwiSaver scheme to which the request relates; and
   (b) if a person has a right to look at a document, report, or copy, the trustees of the KiwiSaver scheme to which the document, report, or copy relates have a duty to ensure that the person is allowed to look at, at any reasonable time, that document, report, or copy; and
   (c) if a person has a right to receive a document, statement, report, copy, certificate, or information, the trustees of the KiwiSaver scheme to which the document, statement, report, copy, certificate, or information relates have a duty to ensure that the document, statement, report, copy, certificate, or information is delivered or supplied to the person; and
@@ -2103,7 +2105,7 @@ For the avoidance of doubt, the Crown or any other person does not give investme
   (c) section 38F(9)(b) of the Securities Act 1978 (which relates to the distribution of an investment statement); or
   (d) section 44(6)(b) of the Securities Act 1978 (which relates to the cancellation of the registration of a registered prospectus).
 (2) If this section applies,—
-  (a) any resulting duty of the trustees (as issuer) or any other person to repay subscriptions or any other amount under section 37(5), 37(6), 37A(6), 37A(7), 38F(9)(b), 38F(13), 44(6)(b), or 44(7) of the Securities Act 1978 does not apply; but
+  (a) any resulting duty of the trustees (as issuer) or any other person to repay subscriptions or any other amount under section 37(5), 37(6), 37A(7), 38F(9)(b), 38F(13), 44(6)(b), or 44(7) of the Securities Act 1978 does not apply; but
   (b) the trustees must instead provide the Commissioner with a notice of—
     (i) the application of the relevant section or sections of the Securities Act 1978 in respect of the allotment of securities to that member; and
     (ii) if all or part of the consideration for the allotment of securities to that member was the transfer of the member's accumulation from another KiwiSaver scheme, the name of that scheme from which the member's accumulation was transferred; and
@@ -2152,8 +2154,8 @@ Part 8A of the Tax Administration Act 1994 applies to every notice of a disputab
   (b) in any other case,—
     (i) $50 if the employer is a small employer; and
     (ii) $250 if the employer is not a small employer.
-(3) However, an employer is not liable for more than one penalty per month.
-(4) In this section and section 216, a person is a small employer —
+(3) However, an employer is not liable for more than 1 penalty per month.
+(4) In this section and section 216, a person is a small employer—
   (a) if the person was an employer in the preceding tax year in respect of whom gross tax deductions or withholdings payable and ESCT payable in that preceding tax year were, in total, less than $100,000; or
   (b) if the person was not an employer in the preceding year, until the time when gross tax deductions payable and ESCT payable in the current tax year, in total, exceed $100,000.
 (5) The penalty is due and payable on the day on which the next tax deduction required to be made by the employer under the PAYE rules is due to be paid to the Commissioner after the end of the PAYE period in which the failure occurred.
@@ -2168,8 +2170,8 @@ Part 8A of the Tax Administration Act 1994 applies to every notice of a disputab
   (b) in any other case,—
     (i) $50 if the employer is a small employer; and
     (ii) $250 if the employer is not a small employer.
-(3) However, an employer is not liable for more than one penalty per month.
-(4) The penalty is due and payable on the day on which the next tax deduction required to be made by the employer under the PAYE rules is due to be paid to the Commissioner after the end of the PAYE period in which the failure to deduct, incorrect deduction, or short paid amount occurred..
+(3) However, an employer is not liable for more than 1 penalty per month.
+(4) The penalty is due and payable on the day on which the next tax deduction required to be made by the employer under the PAYE rules is due to be paid to the Commissioner after the end of the PAYE period in which the failure to deduct, incorrect deduction, or short paid amount occurred.
 
 **Giving of notices**
 
