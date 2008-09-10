@@ -1,5 +1,5 @@
 # Mutual Insurance Act 1955
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-09-10_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to mutual insurance associations
 
@@ -279,10 +279,13 @@ An association may, by special resolution passed in the manner prescribed by sec
   (a) Ceases to be a member of the association or to have property insured against fire with the association to the amount of $1,000 at least; or
   (b) Without the consent of the association in general meeting, holds any other office of profit under the association; or
   (c) Becomes bankrupt or makes any arrangement or composition with his creditors generally; or
-  (d) Becomes a mentally disordered person within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992, or becomes a person subject to a property order within the meaning of the Protection of Personal and Property Rights Act 1988; or
+  (d) Becomes a person subject to a property order within the meaning of the Protection of Personal and Property Rights Act 1988 (other than an order under section 30 of that Act); or
   (e) Resigns his office by notice in writing to the association; or
   (f) Fails to declare, in accordance with section 30B of this Act, the nature of his interest in a contract or proposed contract with the association.
   (g) Absents himself from 3 consecutive regular meetings of the Board without leave being granted by resolution recorded in the minutes.
+(10A) A person's office as director is suspended while the director is subject to a property order made under section 30 of the Protection of Personal and Property Rights Act 1988 (which relates to temporary orders) and, during that period,—
+  (a) the person is deemed to have been granted leave of absence by the Board; and
+  (b) the person is not capable of acting as a director.
 (11)
 (12) The remuneration of the directors shall from time to time be determined by the association in general meeting. That remuneration shall be deemed to accrue from day to day. The directors shall also be paid all travelling, hotel, and other expenses properly incurred by them in attending and returning from meetings of the Board or any committee of the Board or general meetings of the association or in connection with the business of the association.
 (13) The Board may appoint advisory directors under the following conditions:
