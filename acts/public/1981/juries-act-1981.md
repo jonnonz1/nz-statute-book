@@ -1,5 +1,5 @@
 # Juries Act 1981
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-09-10_
 
 > An Act to consolidate and reform the law relating to juries
 
@@ -12,6 +12,7 @@ _Consolidation as at 2008-08-01_
 In this Act, unless the context otherwise requires,—
   - **chief executive** means the chief executive of the Department for Courts
   - **chief registrar of electors** means the Chief Registrar of Electors holding office under section 21 of the Electoral Act 1993; and includes his or her deputy
+  - **disability** includes visual or aural impairment
   - **General electoral district** and
   - **intellectual disability** has the same meaning as in the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003
   - **jury district** means a district constituted under section 5 of this Act
@@ -24,7 +25,6 @@ In this Act, unless the context otherwise requires,—
   - **Panel** means a panel of jurors compiled under section 13 of this Act
   - **party** includes, in criminal cases, the Crown or other prosecutor
   - **penal institution**
-  - **physical disability** includes visual or aural impairment
   - **pre-release hostel**
   - **prison** has the same meaning as in section 3(1) of the Corrections Act 2004.
   - **probation officer** has the same meaning as in section 2(1) of the Criminal Justice Act 1985
@@ -80,7 +80,7 @@ The following persons shall not serve on any jury in any Court on any occasion:
     (iv) as an officer of the High Court or of a District Court; or
   (ha) a party to a management contract entered into under section 4A of the Penal Institutions Act 1954 or to a security contract entered into under section 166 of the Corrections Act 2004; or
   (hb) a security officer within the meaning of section 3(1) of the Corrections Act 2004.
-  (i) persons with a mental disorder:
+  (i)
   (j)
   (k) persons with an intellectual disability.
 
@@ -136,7 +136,7 @@ A jury list remains current until it is replaced by a new list provided by the C
 ### 15 Registrar may excuse from jury service
 (1) If the Registrar is satisfied, on written application made to him by or on behalf of any person summoned to attend as a juror on any occasion, that, because of—attendance on that occasion would cause or result in undue hardship or serious inconvenience to that person, or to any other person, or to the general public, the Registrar may excuse that person from attending on that occasion.
   (a) The nature of that person's occupation or business, or of any special and pressing commitment arising in the course of that person's occupation or business; or
-  (aa) That person's physical disability; or
+  (aa) That person's disability; or
   (b) That person's state of health, or family commitments, or other personal circumstances,—
 (2) A person summoned to attend as a juror on any occasion shall, on application to the Registrar, be excused by the Registrar from attending on that occasion if that person—
   (a) Is a practising member of a religious sect or order that holds service as a juror to be incompatible with its tenets; or
@@ -152,8 +152,8 @@ A Judge, on application made to him by or on behalf of any person summoned to at
   (b) Where the panel has been compiled in respect of 1 trial only, if the Judge is satisfied that the person is personally concerned in the facts of the case, or is closely connected with one of the parties or with one of the prospective witnesses:
   (c) If the Judge is satisfied that the person objects to jury service on grounds of conscience, whether or not of a religious character.
 
-### 16AA Judge may discharge summons of person with physical disability
-(1) On application in accordance with subsection (3), or on his or her own motion, a Judge may discharge the summons of a person if the Judge is satisfied that, because of physical disability, the person is not capable of acting effectively as a juror.
+### 16AA Judge may discharge summons of person with disability
+(1) On application in accordance with subsection (3), or on his or her own motion, a Judge may discharge the summons of a person if the Judge is satisfied that, because of disability, the person is not capable of acting effectively as a juror.
 (2) A discharge may apply to the whole period for which the person is summoned, or to a particular proceeding.
 (3) An application under this section must be made—
   (a) before the jury is constituted; and
@@ -187,7 +187,7 @@ After the jurors have been sworn but before the case is opened or the accused is
 ### 22 Judge may discharge juror who is not disinterested
 (1) The Judge may discharge a juror if, at any time after the jury is constituted but before the case is opened or the accused is given in charge, it is brought to the attention of the Judge that—
   (a) the juror is personally concerned with the facts of the case, or is closely connected with one of the parties or with one of the prospective witnesses; or
-  (b) the juror is not capable of acting effectively as a juror in the proceedings because of physical disability.
+  (b) the juror is not capable of acting effectively as a juror in the proceedings because of disability.
 (1A) When considering whether to discharge a juror, the Judge may conduct the hearing, and may consider such evidence, as he or she thinks fit.
 (1B) If a juror is discharged under this section, the Judge may require a further juror to be selected from the panel and be sworn in accordance with sections 18 and 20.
 (2) The discharge of a juror and his replacement by another under this section shall not affect the election of a foreman, where that has already taken place.
@@ -210,7 +210,7 @@ If any person selected as a juror is—he may be challenged, and shall be discha
 ### 25 Challenges for cause
 (1) In addition to the right to challenge under sections 23 and 24, each party to the proceedings is entitled to any number of challenges for cause on the ground that—
   (a) a juror is not indifferent between the parties; or
-  (b) a juror is not capable of acting effectively as a juror in the proceedings because of physical disability.
+  (b) a juror is not capable of acting effectively as a juror in the proceedings because of disability.
 (2) Except as provided in section 23 of this Act, no other ground of challenge for cause shall be allowed.
 (3) The Judge shall determine every challenge for cause in private, in such manner and on such evidence as he thinks fit.
 
