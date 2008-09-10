@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-09-10_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -4201,10 +4201,16 @@ In deciding whether or not to constitute a community, the territorial authority 
 (1) A member of a local authority may resign office by notice in writing addressed and delivered to the chief executive of the local authority.
 (2) The notice takes effect on the day on which it is delivered to the chief executive of the local authority.
 
+### 4A Suspension of members
+(1) A person's office as member of a local authority is suspended while the person is subject to a property order made under section 30 of the Protection of Personal and Property Rights Act 1988 (which relates to temporary orders).
+(2) If subclause (1) applies,—
+  (a) the person is deemed to have been granted leave of absence and is not capable of acting as a member during the period of suspension; and
+  (b) the person may not do an act as a member while on leave of absence under paragraph (a).
+
 ### 5 Extraordinary vacancies
 (1) The office of a member of a local authority becomes vacant, and the vacancy that is created is an extraordinary vacancy, if the member—
   (a) dies; or
-  (b) becomes a mentally disordered person within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
+  (b) becomes subject to a property order made under section 31 of the Protection of Personal and Property Rights Act 1988; or
   (c) is disqualified from, or is ousted from, office; or
   (d) is absent without leave of the local authority from 4 consecutive meetings (other than extraordinary meetings) of the local authority; or
   (e) resigns under clause 4.
