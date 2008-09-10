@@ -1,5 +1,5 @@
 # Motor Vehicle Sales Act 2003
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-09-10_
 
 ### 1 Title
 This Act is the Motor Vehicle Sales Act 2003.
@@ -344,7 +344,7 @@ An individual is disqualified from registration if he or she is—
   (i) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Securities Act 1978, or the Securities Markets Act 1988, or the Takeovers Act 1993; or
   (j) a person who has been convicted of a crime involving dishonesty within the preceding 5 years; or
   (k) a person who has been convicted of an offence against sections 17 to 22 or 24 to 26 of the Fair Trading Act 1986 within the preceding 5 years; or
-  (l) subject to a compulsory treatment order under Part 2 of the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
+  (l)
   (m) subject to a property order made under section 30 or section 31 of the Protection of Personal and Property Rights Act 1988.
 
 ### 25 Persons disqualified from registration: companies
@@ -498,6 +498,7 @@ The Registrar must remove a motor vehicle trader's name from the register if the
   (b) made an application for registration that was accompanied by an application fee or levy payment that has subsequently been dishonoured; or
   (c) is disqualified from registration under this Act; or
   (d) has ceased to carry on the business of motor vehicle trading.
+(1A) Subsection (1)(c) does not apply in respect of a motor vehicle trader who is disqualified from registration by virtue only of the making of a property order under section 30 of the Protection of Personal and Property Rights Act 1988 (which relates to temporary orders).
 (2) A motor vehicle trader has the right to appeal, under section 64, the Registrar's decision to cancel the trader's registration.
 
 ### 43 Process for cancellation
