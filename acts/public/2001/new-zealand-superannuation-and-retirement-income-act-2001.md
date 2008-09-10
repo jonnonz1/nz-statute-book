@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2008-09-10_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -166,8 +166,8 @@ However, every person to whom section 17(2)(a) or (b) applies is entitled to rec
 (4) The rate of New Zealand superannuation payable to a person who is a patient in a hospital for more than 13 weeks is, on and after the commencement of the 14th week of hospitalisation, the rate stated in clause 3 of Schedule 1.
 (5) Subsection (4) does not apply to a resident assessed as requiring care (as defined in section 136 of the Social Security Act 1964) who is a patient in a hospital and in respect of whom a funder (as defined in that section) is paying some or all of the cost of contracted care services (as defined in that section) under section 141 or section 142 of that Act.
 (6) However, the chief executive may, at the chief executive's discretion,—
-  (a) pay to any patient to whom subsection (4) applies a higher rate than the rate stated in clause 3 of Schedule 1 after having regard to the patient's personal financial circumstances; or
-  (b) pay to any of those patients a lower rate than the rate so stated after having regard to the patient's capacity to appreciate the payments.
+  (a) pay to any patient to whom subsection (4) applies a higher rate than the rate stated in clause 3 of Schedule 1 after having regard to the patient's personal financial circumstances.
+  (b)
 (7) If, after 13 weeks' hospitalisation, the New Zealand superannuation of a person who is married or in a civil union or in a de facto relationship is reduced under subsection (4) or subsection (6)(b), and that person's spouse or partner is either not in hospital or has been in hospital for less than 13 weeks, any New Zealand superannuation payable to or for the spouse or partner must be increased, on the same date as the effective date of that reduction, by an amount equal to the difference between—
   (a) the maximum rate of New Zealand superannuation payable to a single person; and
   (b) the maximum rate of New Zealand superannuation payable to a person who is married or in a civil union or in a de facto relationship and whose spouse or partner is receiving New Zealand superannuation.
