@@ -1,5 +1,5 @@
 # Juries Amendment Act 2008
-_Consolidation as at 2008-06-25_
+_Consolidation as at 2008-09-10_
 
 ### 1 Title
 This Act is the Juries Amendment Act 2008.
@@ -93,7 +93,7 @@ The following section is inserted after section 14:Restrictions on use of jury p
     (c) only if satisfied, on a written application for the purpose made by or on behalf of that person, that, because of 1 or more matters specified in subsection (3), attendance on that occasion would cause or result in undue hardship or serious inconvenience to that person, any other person, or the general public.
   (3) The matters referred to in subsection (2)(c) (and in section 15(1A)(a) and (c)) are—
     (a) the nature of that person's occupation or business, or of any special and pressing commitment arising in the course of that person's occupation or business:
-    (b) that person's physical disability:
+    (b) that person's disability:
     (c) that person's state of health, or family commitments, or other personal circumstances.
   (1) On or after accepting an application under section 14B, the Registrar must—
     (a) record in some manner the exercise of the power of deferral in respect of the summons concerned; and
@@ -130,9 +130,9 @@ The following section is inserted after section 14:Restrictions on use of jury p
 (3) Section 15(3) is amended by omitting he and substituting the Registrar.
 (4) Section 15(4) is amended by omitting he and substituting the applicant.
 
-### 13 Judge may discharge summons of person with physical disability
+### 13 Judge may discharge summons of person with disability
 (1) The heading to section 16AA is amended by adding or language difficulty.
-(2) Section 16AA(1) is amended by inserting or difficulties in understanding or communicating in the English language after physical disability.
+(2) Section 16AA(1) is amended by inserting or difficulties in understanding or communicating in the English language after disability.
 (3) Section 16AA(3)(b) is amended by omitting Registrar's, and substituting Court registry.
 
 ### 14 Foreman
