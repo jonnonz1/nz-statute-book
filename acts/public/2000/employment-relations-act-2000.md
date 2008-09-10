@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2008-07-01_
+_Consolidation as at 2008-09-10_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -1868,7 +1868,8 @@ An employee who believes that he or she has a personal grievance may pursue that
   (d) that the employee has been sexually harassed in the employee's employment; or
   (e) that the employee has been racially harassed in the employee's employment; or
   (f) that the employee has been subject to duress in the employee's employment in relation to membership or non-membership of a union or employees organisation; or
-  (g) that the employee's employer has failed to comply with a requirement of Part 6A.
+  (g) that the employee's employer has failed to comply with a requirement of Part 6A; or
+  (h) that the employee's employment has been adversely affected because the employee is a member of a KiwiSaver scheme within the meaning of section 4 of the KiwiSaver Act 2006 or a complying superannuation fund within the meaning of section YA 1 of the Income Tax Act 2007.
 (2) For the purposes of this Part, a representative, in relation to an employer and in relation to an alleged personal grievance, means a person—
   (a) who is employed by that employer; and
   (b) who either—
@@ -1973,6 +1974,18 @@ For the purposes of sections 103(1)(e) and 123(d), an employee is racially haras
     (vi) to participate in the formation of a union or employees organisation; or
     (vii) not to participate in the formation of a union or employees organisation.
 (2) In this section and in section 103(1)(f), employees organisation means any group, society, association, or other collection of employees other than a union, however described and whether incorporated or not, that exists in whole or in part to further the employment interests of the employees belonging to it.
+
+### 110A Membership of KiwiSaver scheme or complying superannuation fund
+(1) For the purposes of section 103(1)(h), an employee's employment is adversely affected if—
+  (a) the employee is a member of a KiwiSaver scheme within the meaning of section 4 of the KiwiSaver Act 2006 or a complying superannuation fund within the meaning of section YA 1 of the Income Tax Act 2007; and
+  (b) the employee's employer refuses or omits to offer or afford to that employee the same terms of employment, conditions of work, fringe benefits, or opportunities for training, promotion, and transfer as are made available for other employees of the same or substantially similar qualifications, experience, or skills (comparable employees) employed in the same or substantially similar circumstances; and
+  (c) the reason (wholly or in part) for the employer doing any of those things is that the employee is a member of a KiwiSaver scheme or a complying superannuation fund.
+(2) Without limiting subsection (1), an employee's employment is adversely affected if—
+  (a) the employee's salary or wages are less than the salary or wages of other comparable employees employed by the employee's employer; and
+  (b) the reason (wholly or in part) for the situation described in paragraph (a) is that the employer has taken into account the compulsory contributions (within the meaning of section 101B(6) of the KiwiSaver Act 2006) the employer is required to make in relation to the employee.
+(3) To avoid doubt, for the purposes of subsection (2)(a), an employee's salary or wages—
+  (a) do not include any amount that recognises (wholly or in part) compulsory contributions (within the meaning of section 101B(6) of the KiwiSaver Act 2006) made by the employer in relation to the employee; but
+  (b) do include deductions made by an employer on behalf of the employee, being the employee's contributions to a KiwiSaver scheme or a complying superannuation fund.
 
 ### 111 Definitions relating to personal grievances
 Each of the terms personal grievance, discrimination, sexual harassment, racial harassment, and duress have in any employment agreement the meanings given to those terms by sections 103, 104, 105, 106, 107, 108, 109, and 110 unless the employment agreement gives an extended meaning to the term.
@@ -4035,3 +4048,21 @@ Subject to section 6(2), nothing in this Act derogates from or makes it unlawful
   - **employment agreement** has the meaning given to it by section 5 of the Employment Relations Act 2000.
 
 ## Schedule 6 — Enactments repealed
+
+### 1 Title
+This Act is the Employment Relations (Breaks, Infant Feeding, and Other Matters) Amendment Act 2008.
+
+### 2 Commencement
+(1) This Act comes into force on the day after the date on which it receives the Royal assent.
+(2) However, sections 6 and 9 come into force on 1 April 2009.
+
+## Part 1 — Preliminary provisions
+
+### 5 Application
+(1) The amendments made by sections 7 and 8, to the extent that they relate to terms and conditions in employment agreements,—
+  (a) apply to employment agreements entered into on or after 2 September 2008; and
+  (b) do not apply to employment agreements entered into before 2 September 2008; and
+  (c) apply to variations of employment agreements entered into before 2 September 2008, if the variations were made on or after 2 September 2008.
+(2) The amendments made by sections 7 and 8, to the extent that they relate to other matters, apply—
+  (a) only to matters occurring on or after 2 September 2008; and
+  (b) whether or not an employee's employment agreement was entered into before 2 September 2008.
