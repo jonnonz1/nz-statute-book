@@ -1,5 +1,5 @@
 # Sale of Liquor Act 1989
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-09-10_
 
 > An Act to reform the law relating to the sale of liquor to the public
 
@@ -1867,7 +1867,7 @@ If on the day appointed for the first or any subsequent election of members of a
   (b)
   (c) A person who carries on the business of a brewer, wine or spirit merchant, maltster, or distiller, or of an importer for sale of or a dealer in fermented or spirituous liquors, or who is in partnership with any person carrying on any such business, or who is a member or employee or the husband or wife, civil union partner, or de facto partner of a member or employee of an incorporated company that carries on any such business as a substantial part of its undertaking:
   (d) A person who is the owner of an estate in fee simple or any less estate in any licensed premises, or who is a member or employee or the husband or wife or de facto partner (whether of the same or different sex) of a member or employee of an incorporated company that owns any such estate:
-  (e) A person who is mentally disordered within the meaning of the Mental Health Act 1969:
+  (e) a person who is subject to a property order made under section 30 or 31 of the Protection of Personal and Property Rights Act 1988:
   (f) A bankrupt who has not obtained an order of discharge, or whose order of discharge is suspended for a term not yet expired or is subject to conditions not yet fulfilled:
   (g) A person who is convicted of an offence punishable by imprisonment for a term of 2 years or more, unless (in the case of a person seeking election) that person has obtained a pardon or has served the sentence or otherwise suffered the sentence imposed on that person:
   (h) A person who is convicted of any offence punishable by imprisonment for a term of less than 2 years and is sentenced to imprisonment for that offence, unless (in the case of a person seeking election) that person has obtained a pardon or has served the sentence.
@@ -1883,11 +1883,14 @@ If on the day appointed for the first or any subsequent election of members of a
   (b) While on leave of absence pursuant to paragraph (g) or paragraph (h) of that subsection.
 
 ### 201 Vacation of office by members
-The office of a member of a licensing trust shall become vacant, and the vacancy shall be deemed to be an extraordinary vacancy, if the member—
+(1) The office of a member of a licensing trust shall become vacant, and the vacancy shall be deemed to be an extraordinary vacancy, if the member—
   (a) Dies; or
   (b) Resigns from office by written notice delivered to the secretary or president of the trust, or is ousted of office; or
   (c) Is absent without the leave of the trust from 4 consecutive meetings of the trust; or
   (d) Becomes incapable of continuing to hold office under section 200 of this Act.
+(2) If a property order is made in respect of a member under section 30 of the Protection of Personal and Property Rights Act 1988 (which relates to temporary orders),—
+  (a) subsection (1)(d) does not apply to the member by virtue only of the making of that order; but
+  (b) while the order remains in force, the member is deemed to have been granted leave of absence and is not capable of acting as a member of the licensing trust during that period.
 
 ### 202 Filling of extraordinary vacancies
 (1) In the event of an extraordinary vacancy in the office of an elected member of a licensing trust occurring within 12 months of the date fixed for the next triennial election of members, the trust may by resolution determine—
@@ -2172,6 +2175,9 @@ If, on the day appointed for the election of trustees of a community trust, no p
 (2) A trustee is eligible for re-election.
 (3) A trustee may resign office in the manner prescribed in the trust deed.
 (4) A trustee is to be treated as having resigned office as a trustee if at any time the trustee is, under section 219W, not capable of holding office as trustee of a community trust.
+(4A) If a property order is made in respect of a trustee under section 30 of the Protection of Personal and Property Rights Act 1988 (which relates to temporary orders),—
+  (a) subsection (4) does not apply to the trustee by virtue only of the making of that order; but
+  (b) while the order remains in force, the trustee is deemed to have been granted leave of absence and is not capable of acting as a trustee of the community trust during that period.
 (5) A trustee may be removed from office at any time by the Minister, by notice in writing,—
   (a) because the trustee is unable to perform his or her duties adequately; or
   (b) for neglect of duty, or misconduct, proved to the satisfaction of the Minister; or
@@ -2186,7 +2192,7 @@ The following persons are not capable of being elected or of holding office as a
   (b) a person who has been convicted within the last 3 years of a criminal offence punishable by imprisonment:
   (c) a person who would be subject to an order under section 189 of the Companies Act 1955 (as in force immediately before the commencement of the Companies Amendment Act 1993) but for the repeal of that section:
   (d) a person to whom an order made under section 199L of the Companies Act 1955 applies (or would apply but for the repeal of that Act) or to whom an order made under section 383 of the Companies Act 1993 applies:
-  (e) a patient within the meaning of paragraph (b) or paragraph (c) of the definition of patient in the Mental Health (Compulsory Assessment and Treatment) Act 1992:
+  (e)
   (f) any person who is the subject of an order under the Protection of Personal and Property Rights Act 1988.
 
 **Accountability**
