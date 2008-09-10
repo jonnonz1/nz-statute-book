@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2008-09-10_
 
 > An Act to reform the administration of education
 
@@ -2023,7 +2023,7 @@ At the same time as a Board gives the Secretary the annual report as required by
 ### 103 Certain persons ineligible to be trustees
 (1) A person who—may not become an elected, appointed, or co-opted trustee.
   (a)
-  (b) Is mentally disordered (within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992); or
+  (b)
   (c) is an undischarged bankrupt; or
   (d) is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Securities Act 1978, or the Securities Markets Act 1988, or the Takeovers Act 1993; or
   (da)
@@ -2073,6 +2073,9 @@ Before a person is elected, co-opted, or appointed as a trustee, the person must
   (b) Resigns by written notice to the Board; or
   (c) Without the prior leave of the Board, is absent from 3 consecutive meetings of the Board; or
   (d) Becomes a person who (in terms of section 103(1) of this Act) may not become an elected, appointed, or co-opted trustee,—
+(1A) If a property order is made in respect of a trustee under section 30 of the Protection of Personal and Property Rights Act 1988 (which relates to temporary orders),—
+  (a) subsection (1)(d) does not apply to the trustee by virtue only of the making of that order; but
+  (b) while the order remains in force, the trustee is deemed to have been granted leave of absence by the Board and is not capable of acting as a trustee during that period.
 (2) When a trustee elected by the Board staff ceases to be a member of the Board staff, the trustee's office becomes vacant.
 (3) On any day when—the second trustee's office becomes vacant.
   (a) Already one co-opted trustee is a member of the Board staff; and
@@ -4164,7 +4167,10 @@ If, after the constitution of a Council has been determined, the Council recomme
 (5) The Minister, when appointing members of a Council, and a Council, when co-opting or appointing members, shall have regard to subsection (4) of this section and shall strive to ensure that the Council has a sufficient number of members with expertise in management to enable the Council properly to perform its functions.
 (6) A person is not eligible for appointment, election, or co-option as a member of a Council, if,—
   (a)
-  (b) the person is subject to a compulsory treatment order that is an inpatient order, or becomes a special patient under the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
+  (b) the person is subject to a property order under the Protection of Personal and Property Rights Act 1988; or
+  (ba) the person is a person in respect of whom a personal order has been made under that Act that reflects adversely on his or her—
+    (i) competence to manage his or her own affairs in relation to his or her property; or
+    (ii) capacity to make or to communicate decisions relating to any particular aspect or aspects of his or her personal care and welfare; or
   (c) The person is a bankrupt who has not obtained his or her order of discharge or whose order of discharge has been suspended for a term not yet expired or is subject to conditions not yet fulfilled.
 (7) The constitution of a Council shall contain a provision limiting the number of occasions on which a person may be appointed, elected or co-opted as a member of the Council but, subject to any such provision, a person is not ineligible for appointment, election or co-option as a member of a Council merely because the person has previously been a member of that Council.
 (8)
@@ -4215,10 +4221,18 @@ If, after the constitution of a Council has been determined, the Council recomme
   (b) Being a member referred to in section 171(2)(d) of this Act, ceases to be a permanent member of the general staff of the institution.
 (3) The Council may, by resolution, dismiss a member of a Council (other than the chief executive) as a member if the member—
   (a) Is declared bankrupt; or
-  (b) Becomes mentally disordered within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
+  (b) becomes subject to a property order under the Protection of Personal and Property Rights Act 1988 (other than an order under section 30 of that Act); or
+  (ba) becomes subject to a personal order under that Act that reflects adversely on his or her—
+    (i) competence to manage his or her own affairs in relation to his or her property; or
+    (ii) capacity to make or to communicate decisions relating to any particular aspect or aspects of his or her personal care and welfare; or
   (c) Fails to attend 3 consecutive meetings of the Council without having given to the chief executive prior notice of his or her inability to attend the meeting concerned; or
   (d) Without reasonable excuse, fails to comply with section 175 of this Act.
-(4) The chief executive shall send to the member concerned a letter setting out the terms of the resolution dismissing the member.
+(3A) The Council may, by resolution, suspend a member of the Council (other than the chief executive) as a member if the member becomes subject to a property order made under section 30 of the Protection of Personal and Property Rights Act 1988 (which relates to temporary orders).
+(3B) If a member is suspended under subsection (3A),—
+  (a) the suspension has effect as if the member had been granted leave of absence; and
+  (b) the member is not capable of acting as a member during the period of suspension; and
+  (c) the suspension continues until the property order made under section 30 of the Protection of Personal and Property Rights Act 1988 ceases to be in force (but this does not affect any powers of the Council under subsection (3) in respect of the member).
+(4) The chief executive shall send to the member concerned a letter setting out the terms of the resolution dismissing or suspending the member.
 
 ### 175 Disclosure of interest
 (1) A member of, or of a committee of, a Council who has an interest in a matter being considered or about to be considered by the Council or committee, as the case may be, shall, as soon as possible after the relevant facts have come to the member's knowledge, disclose the nature of the interest at a meeting of the Council or committee.
