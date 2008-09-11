@@ -1,5 +1,5 @@
 # Telecommunications Act 2001
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-09-11_
 
 ### 1 Title
 This Act is the Telecommunications Act 2001.
@@ -84,7 +84,7 @@ In this Act, unless the context otherwise requires,—
   - **fixed radio station** means radio apparatus comprising transmitters or receivers, or a combination of transmitters and receivers, installed at a fixed location, for the purposes of carrying on a radiocommunications service
   - **Forum** means the Telecommunications Industry Forum, which is a group that consists of at least 75% of all persons who are, for the time being, registered with the Commission for the purpose of voting on a draft code under clause 4 of Schedule 2
   - **KSO** —
-    (a) means the obligations that were set out in clause 5 of Schedule 1 of the constitution of Telecom (as it read immediately before the commencement of this Act); and
+    (a) means the obligations that were set out in clause 5 of the First Schedule of the constitution of Telecom (as it read immediately before the commencement of this Act); and
     (b) includes—
       (i) the letter of 1 October 1997 headed TELECOM DIRECTORY ASSISTANCE PROPOSAL, from the Minister of Finance to Telecom; and
       (ii) the letter of 15 September 1999 headed TELECOM 0867 INITIATIVE, from the Minister of Finance to Telecom; and
@@ -94,7 +94,7 @@ In this Act, unless the context otherwise requires,—
     (b) a person—
       (i) whose network is interconnected with a fixed PSTN operated by Telecom; and
       (ii) who provides a telecommunications service in New Zealand to end-users by means of some component of a PSTN that is operated by the person
-  - **liable person's TSO-qualified revenue** means the amount of revenue that, during the financial year, each liable person receives for supplying all or any of the following
+  - **liable person's TSO-qualified revenue** means the amount of revenue that, during the financial year, each liable person receives for supplying all or any of the following:
     (a) telecommunications services by means of its PSTN:
     (b) telecommunications services by means that rely primarily on the existence of its PSTN or any other PSTN:
     (c) directory services in respect of PSTN numbers
@@ -104,7 +104,6 @@ In this Act, unless the context otherwise requires,—
       (i) any pole, insulator, casing, fixture, tunnel, or other equipment or material used or intended to be used for supporting, enclosing, surrounding, or protecting any of those wires or conductors; and
       (ii) any part of a line
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
-  - **local loop network**
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **net cost** means the unavoidable net incremental costs to an efficient service provider of providing the service required by the TSO instrument to commercially non-viable customers
   - **network** means a system comprising telecommunication links to permit telecommunication
@@ -121,17 +120,17 @@ In this Act, unless the context otherwise requires,—
     (a) for a determination made under section 27 or a residual terms determination made under section 30ZB, the access seeker and the access provider of the service; and
     (b) for a standard terms determination made under section 30M, a designated multinetwork service determination made under section 39, or an approved code under Schedule 2, all access seekers and all access providers of the service (whether they became an access seeker or an access provider before or after the determination was made or the code was approved); and
     (c) for a registered undertaking under Schedule 3A, the access provider of the service and the Commission
-  - **PDN or public data network** means a data network used, or intended for use, in whole or in part, by the public
+  - **PDN** or means a data network used, or intended for use, in whole or in part, by the public
   - **price** includes—
     (a) valuable consideration in any form, whether direct or indirect; and
     (b) any consideration that in effect relates to the acquisition of goods or services or the acquisition or disposition of any interest in land, even though it ostensibly relates to any other matter or thing
   - **proposed addition** has the meaning set out in clause 8(1)(b) of Schedule 3
   - **proposed alteration** has the meaning set out in clause 1(1) of Schedule 3
   - **proposed omission** has the meaning set out in clause 8(1)(a) of Schedule 3
-  - **PSTN or public switched telephone network** means a dial-up telephone network used, or intended for use, in whole or in part, by the public for the purposes of providing telecommunication between telephone devices
+  - **PSTN** or means a dial-up telephone network used, or intended for use, in whole or in part, by the public for the purposes of providing telecommunication between telephone devices
   - **public notice** has the meaning set out in section 6
   - **qualified auditor** means a person who is qualified for appointment as an auditor in accordance with any prescribed requirements or, if there are no prescribed requirements, any requirements of the Commission
-  - **radio frequency** means electromagnetic waves of frequencies between 9 kilohertz and 3000 gigahertz, propagated in space without artificial guide
+  - **radio frequency** means electromagnetic waves of frequencies between 9 kilohertz and 3 000 gigahertz, propagated in space without artificial guide
   - **registered undertaking** has the meaning set out in clause 1 of Schedule 3A
   - **road** includes—
     (a) a street and any other place to which the public have access, whether as of right or not; and
@@ -152,6 +151,7 @@ In this Act, unless the context otherwise requires,—
   - **telecommunications access code** has the meaning set out in section 7(1)
   - **Telecommunications Commissioner** means the Telecommunications Commissioner appointed under section 9(3)
   - **telecommunications service** means any goods, services, equipment, and facilities that enable or facilitate telecommunication
+  - **telephone device** means any terminal device capable of being used for transmitting or receiving any communications over a network designed for the transmission of voice frequency communication
   - **TSO** or means obligations in relation to a TSO instrument
   - **TSO cost allocation determination** means a determination prepared by the Commission in accordance with sections 87 to 91
   - **TSO cost calculation determination** means a determination prepared by the Commission in accordance with sections 92 to 93E
@@ -159,14 +159,12 @@ In this Act, unless the context otherwise requires,—
     (a) means an instrument that is declared to be a TSO instrument under section 70; and
     (b) to the extent that it applies, includes a deemed TSO instrument
   - **TSO provider** or means a provider of a telecommunications service under a TSO instrument
-  - **TSO provider's TSO-qualified revenue** means the amount of revenue that, during the financial year, each TSO provider receives for supplying all or any of the following
+  - **TSO provider's TSO-qualified revenue** means the amount of revenue that, during the financial year, each TSO provider receives for supplying all or any of the following:
     (a) telecommunications services by means of its PSTN:
     (b) telecommunications services by means that rely primarily on the existence of its PSTN or any other PSTN:
     (c) directory services in respect of PSTN numbers
-  - **TSP** or
-  - **telephone device** means any terminal device capable of being used for transmitting or receiving any communications over a network designed for the transmission of voice frequency communication
   - **working day** means a day of the week other than—
-    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's Birthday, Labour Day, and Waitangi Day; and
+    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, and Waitangi Day; and
     (b) the day observed in the appropriate area as the anniversary of the province of which the area forms part; and
     (c) a day in the period commencing with 25 December in any year and ending with 2 January in the following year; and
     (d) if 1 January in any year falls on a Friday, the following Monday; and
@@ -316,7 +314,7 @@ If the Commission or the Minister (as the case may be) is required under this Pa
 ### 19A Commission to have regard to economic policies of Government
 (1) In the exercise of its powers under Schedule 3, the Commission must have regard to any economic policies of the Government that are transmitted, in writing, to the Commission by the Minister.
 (2) The Minister must, as soon as practicable after transmitting a statement of economic policy of the Government to the Commission under subsection (1),—
-  (a) arrange for a copy of that statement to be published in the Gazette ; and
+  (a) arrange for a copy of that statement to be published in the Gazette; and
   (b) present a copy of that statement to the House of Representatives.
 (3) To avoid doubt, a statement of economic policy of the Government transmitted to the Commission under this section is not a direction for the purposes of Part 3 of the Crown Entities Act 2004.
 
@@ -467,7 +465,7 @@ The Commission must give public notice that it has initiated the standard terms 
   (a) a reasonable period of time within which an access provider must submit a standard terms proposal under section 30F; and
   (b) any additional requirements for that proposal under section 30F(2).
 (3) A scoping workshop must be—
-  (a) open to all parties to the standard tells determination; and
+  (a) open to all parties to the standard terms determination; and
   (b) conducted by an employee or agent of the Commission in a manner, and within the time, that the Commission thinks fit.
 (4) To avoid doubt, this section does not prevent the Commission from conducting a workshop in relation to any other matter, nor does it affect the matters that may be considered by the Commission in any other workshop.
 
@@ -660,7 +658,7 @@ An application made under section 30V must—
   (d) be accompanied by the prescribed fee, if any.
 
 ### 30Y Commission must notify parties
-On receiving an application made in accordance with section 30X must—
+On receiving an application made in accordance with section 30X, the Commission must—
   (a) notify the parties to the determination in writing that the application has been received; and
   (b) provide a copy of the application to the other party to the determination; and
   (c) request the parties to the determination to comment on the matter by written notice to the Commission not later than 10 working days after receipt of the notice from the Commission.
@@ -812,7 +810,7 @@ An application under section 42 must—
   (a) be in writing; and
   (b) be given to the Commission not later than 25 working days after,—
     (i) for a determination made under section 27, the date on which the person received the copy of the determination; and
-    (ii) for a standard terms determination made under section 30M, the date on which public notice of that determination is given under section 30M(c).
+    (ii) for a standard terms determination made under section 30M, the date on which public notice of that determination is given under section 30M(c):
   (c) be given in the prescribed manner, if any; and
   (d) contain the prescribed information, if any; and
   (e) be accompanied by the prescribed fee, if any.
@@ -830,10 +828,10 @@ On receiving an application made in accordance with section 43, the Commission m
 
 ### 45 Access provider to calculate price on request
 (1) On receiving an application made in accordance with section 43, the Commission may, by notice in writing, require an access provider to calculate the price payable for the designated access service.
-(2) If an access provider is requested, under subsection (1), to calculate the price payable for the designated access service, the access provider must, not later than the time specified by the Commission,—
+(2) If an access provider is requested, under subsection (1), to calculate the price payable for the designated access service, an access provider must, not later than the time specified by the Commission,—
   (a) calculate that price in accordance with—
     (i) the applicable final pricing principle (as affected, if at all, by clause 2 or clause 3 of Schedule 1); and
-    (ii) any regulations that relate to the applicable final pricing principle or, if there are no regulations, any requirements of the Commission.
+    (ii) any regulations that relate to the applicable final pricing principle or, if there are no regulations, any requirements of the Commission:
   (b) provide to the Commission—
     (i) a statement that sets out how the price was calculated; and
     (ii) all information on which the calculation of the price was based.
@@ -928,7 +926,7 @@ For a determination made under this Part, the Commission—
 (1) The Commission may amend a determination for the purpose of making a clarification if—
   (a) at any time the Commission, on its own initiative or on the application of any person, considers that a determination requires clarification; and
   (b)
-  (c) No appeal is pending in respect of the determination.
+  (c) no appeal is pending in respect of the determination.
 (2) The Commission must give public notice of an amendment to a determination made under subsection (1).
 
 ### 59 Reconsideration of determination
@@ -1108,7 +1106,7 @@ Section 69D(1)(f) requires equivalence of supply of wholesale telecommunications
     (ii) on an Internet website in an electronic form that is publicly accessible (at all reasonable times); and
   (b) for purchase at a reasonable price.
 (5) A determination is deemed to be a regulation for the purpose of the Regulations (Disallowance) Act 1989 but not for the purpose of the Acts and Regulations Publication Act 1989.
-(6) The Minister must present a copy of the determination to the House of Representatives in accordance with section 4 of the Regulations (Disallowance) Act 1989 (.
+(6) The Minister must present a copy of the determination to the House of Representatives in accordance with section 4 of the Regulations (Disallowance) Act 1989.
 
 **Process for settling separation plan**
 
@@ -1178,20 +1176,20 @@ As soon as practicable after the Minister approves the separation plan, Telecom 
 ### 69Q Enforcement and remedies under Part 4A
 Sections 156L, 156M, and sections 156O to 156R apply to a separation undertaking as provided in Part 4A.
 
-### 69R Power of Court to grant relief in respect of separation undertakings
-(1) If, on the application of the Commission, it appears to the High Court that Telecom intends to engage, or is engaging, or has engaged, in conduct that constitutes, or would constitute, a breach of the terms of a separation undertaking, the Court may make any orders on any terms and conditions that it thinks appropriate, including, without limitation,—
+### 69R Power of court to grant relief in respect of separation undertakings
+(1) If, on the application of the Commission, it appears to the High Court that Telecom intends to engage, or is engaging, or has engaged, in conduct that constitutes, or would constitute, a breach of the terms of a separation undertaking, the court may make any orders on any terms and conditions that it thinks appropriate, including, without limitation,—
   (a) an order to—
     (i) restrain Telecom from engaging in conduct that constitutes, or would constitute, the breach:
     (ii) require Telecom to do a particular act or thing:
     (iii) require Telecom to comply with the terms of the separation undertaking:
   (b) an interim order.
-(2) In any proceeding under this section, the Commission, on the order of the Court, may obtain discovery and administer interrogatories.
-(3) The Court may at any time rescind or vary an order made under this section.
+(2) In any proceeding under this section, the Commission, on the order of the court, may obtain discovery and administer interrogatories.
+(3) The court may at any time rescind or vary an order made under this section.
 
 ### 69S Interrelationship of remedies
 (1) Nothing in this Part or Part 4A limits or affects any right, duty, liability, or remedy in respect of a separation undertaking that exists or is available apart from this Part or Part 4A.
 (2) Any right of action or other remedy available under this Part or Part 4A in respect of a separation undertaking may be taken, proceeded with, or heard in conjunction with any other action or remedy available under this Act or otherwise.
-(3) However, in determining whether to order a person to pay a penalty, compensation, or damages in respect of a separation undertaking, the Court must have regard to—
+(3) However, in determining whether to order a person to pay a penalty, compensation, or damages in respect of a separation undertaking, the court must have regard to—
   (a) whether that person has already been ordered to pay a penalty, compensation, or damages for the same matter; and
   (b) if so, the amount and effect of that first order.
 
@@ -1233,7 +1231,7 @@ The Commission's requirements under this Part must be reasonable, having regard 
 ### 69ZA Interpretation
 In this Part, unless the context otherwise requires,—
   - **disclose** means to publish or make publicly available or otherwise supply, as may be required by the Commission
-  - **information and disclosed information** includes any statements, certificates, or other information required to be disclosed under this Act
+  - **information** and includes any statements, certificates, or other information required to be disclosed under this Act
   - **prescribed** means prescribed by the Commission.
 
 ### 69ZB Accounting separation of Telecom
@@ -1346,7 +1344,7 @@ The Commission must, as soon as practicable after the Commission is supplied wit
     (ii) is agreed, or consented to, before the commencement of this Act (even if the new KSO has effect after that date).
 
 ### 71A TSO instrument or deemed TSO instrument may specify total amount payable by all liable persons
-A TSO instrument or a deemed TSO instrument may specify the total amount payable by all liable persons and the TSO provider under the instrument for each financial year of the TSO provider (the specified amount)
+A TSO instrument or a deemed TSO instrument may specify the total amount payable by all liable persons and the TSO provider under the instrument for each financial year of the TSO provider (the specified amount).
 
 ### 72 New KSO does not alter or revoke constitution of Telecom
 To avoid doubt, the new KSO does not alter or revoke the constitution of Telecom.
@@ -1386,15 +1384,15 @@ Part 2 of the Commerce Act 1986 does not apply in respect of a TSO instrument or
 
 ### 79 When 2 or more bodies corporate must be treated as 1 person
 (1) For the purposes of this Part, any 2 or more bodies corporate must be treated as 1 person if—
-  (a) 1 of them is a body corporate of which the others are subsidiaries; or
+  (a) one of them is a body corporate of which the others are subsidiaries; or
   (b) all of them are subsidiaries of the same body corporate; or
   (c) all of them are associates of each other; or
-  (d) 1 of them owns or controls shares that in the aggregate carry the right to exercise or control the exercise of 20% or more of the voting power at meetings of the others; or
+  (d) one of them owns or controls shares that in the aggregate carry the right to exercise or control the exercise of 20% or more of the voting power at meetings of the others; or
   (e) a third person owns or controls shares in each of them that carry the right to exercise or control the exercise of 20% or more of the voting power at meetings of each of them.
 (2) For the purposes of subsection (1)(c), a body corporate is an associate of another if that body corporate is able, whether directly or indirectly, to exert a substantial degree of influence over the activities of the other.
 (3) A body corporate is not able to exert a substantial degree of influence over another body corporate for the purposes of subsection (2) just because—
   (a) those bodies corporate are in competition in the same market; or
-  (b) 1 of them supplies goods or services to the other.
+  (b) one of them supplies goods or services to the other.
 
 ### Subpart 2 — Annual procedure for determining amounts payable by liable persons
 
@@ -1483,7 +1481,7 @@ The Commission must make reasonable efforts to do the following things not later
 
 ### 89 Conferences on draft TSO cost allocation determination
 The Commission may—
-  (a) hold conferences in relation to a draft ISO cost allocation determination; and
+  (a) hold conferences in relation to a draft TSO cost allocation determination; and
   (b) invite to those conferences any person who has a material interest in a matter to be determined.
 
 ### 90 Commission to prepare final TSO cost allocation determination
@@ -1572,7 +1570,7 @@ The amount payable by a liable person in relation to a TSO instrument that must 
 
 **Calculation of amount payable by TSO provider**
 
-### 94A ISO provider must meet residual amount from calculation of TSO charge
+### 94A TSO provider must meet residual amount from calculation of TSO charge
 The TSO provider must meet any amount that remains after subtracting all of the amounts payable by liable persons under section 93F from the net cost to the TSO provider of complying with the TSO instrument during the TSO provider's financial year or, as the case may be, the specified amount.
 
 ### Subpart 3 — Remedies and miscellaneous
@@ -1583,21 +1581,21 @@ The TSO provider must meet any amount that remains after subtracting all of the 
 (1) Nothing in sections 96 to 98 applies in respect of a TSO instrument that is the constitution of a company in which the Crown is a shareholder.
 (2) Nothing in subsection (1) or sections 96 to 98 limits or affects any right, duty, liability, or remedy in respect of a TSO instrument that exists or is available apart from this Act.
 
-### 96 Power of Court to grant relief in respect of TSO instrument
-(1) If, on the application of the Crown, it appears to the High Court that a TSO provider intends to engage, or is engaging, or has engaged, in conduct that constitutes, or would constitute, a breach of the terms of a TSO instrument, the Court may make any orders on any terms and conditions that it thinks appropriate, including, without limitation,—
+### 96 Power of court to grant relief in respect of TSO instrument
+(1) If, on the application of the Crown, it appears to the High Court that a TSO provider intends to engage, or is engaging, or has engaged, in conduct that constitutes, or would constitute, a breach of the terms of a TSO instrument, the court may make any orders on any terms and conditions that it thinks appropriate, including, without limitation,—
   (a) an order to—
     (i) restrain the TSO provider from engaging in conduct that constitutes, or would constitute, the breach:
     (ii) require the TSO provider to do a particular act or thing:
     (iii) require the TSO provider to comply with the terms of the TSO instrument:
   (b) an interim order.
-(2) In any proceeding under this section, the Crown, on the order of the Court, may obtain discovery and administer interrogatories.
-(3) The Court may at any time rescind or vary an order made under this section.
+(2) In any proceeding under this section, the Crown, on the order of the court, may obtain discovery and administer interrogatories.
+(3) The court may at any time rescind or vary an order made under this section.
 
 ### 97 Court must take public interest into account
-In deciding whether to make an order under section 96, the Court must take into account whether or not it is in the public interest that the order be made.
+In deciding whether to make an order under section 96, the court must take into account whether or not it is in the public interest that the order be made.
 
 ### 98 Certain matters not to prevent making of order under section 96
-None of the following prevents the Court from making an order under section 96:
+None of the following prevents the court from making an order under section 96:
   (a) the fact that any benefit or advantage that the TSO provider obtains, or is likely to obtain, in connection with the TSO instrument is provided by a person other than the Crown:
   (b) the fact that services are provided under the TSO instrument to a person other than, or in addition to, the Crown.
 
@@ -1672,15 +1670,15 @@ For a determination made under this Part, the Commission—
 (1) The purpose of this section and sections 103 to 105 is to facilitate entry into, and competition in, telecommunications markets and broadcasting markets.
 (2) A person may apply to the Minister to be declared a network operator for the purposes of this Act or any provisions of this Act.
 (3) For the purposes of this section and sections 103 to 105, any 2 or more bodies corporate must be treated as 1 person if—
-  (a) 1 of them is a body corporate of which the others are subsidiaries; or
+  (a) one of them is a body corporate of which the others are subsidiaries; or
   (b) all of them are subsidiaries of the same body corporate; or
   (c) all of them are associates of each other; or
-  (d) 1 of them owns or controls shares that in the aggregate carry the right to exercise or control the exercise of 20% or more of the voting power at meetings of the others; or
+  (d) one of them owns or controls shares that in the aggregate carry the right to exercise or control the exercise of 20% or more of the voting power at meetings of the others; or
   (e) a third person owns or controls shares in each of them that carry the right to exercise or control the exercise of 20% or more of the voting power at meetings of each of them.
 (4) For the purposes of subsection (3)(c), a body corporate is an associate of another if that body corporate is able, whether directly or indirectly, to exert a substantial degree of influence over the activities of the other.
 (5) A body corporate is not able to exert a substantial degree of influence over another body corporate for the purposes of subsection (4) just because—
   (a) those bodies corporate are in competition in the same market; or
-  (b) 1 of them supplies goods or services to the other.
+  (b) one of them supplies goods or services to the other.
 
 ### 103 Ministerial requirements for declaration
 The Minister must declare an applicant to be a network operator for the purposes of this Act or any provisions of this Act if the Minister is satisfied that a declaration is necessary to enable the applicant to commence or carry on a business providing—
@@ -1873,7 +1871,7 @@ If a tree, shrub, or plant on any land or road interferes with, or is likely to 
 (2) The network operator must give the owner, occupier, local authority, or other person who fails to comply with the request at least 10 working days' notice of the operator's intention to apply to the District Court under subsection (1).
 
 ### 130 Court order
-On being satisfied that a tree, shrub, or plant on land interferes with, or is likely to interfere with, a line, the District Court may make an order on any terms and conditions (including those relating to notice and time of removal or trimming) that the Court thinks fit.
+On being satisfied that a tree, shrub, or plant on land interferes with, or is likely to interfere with, a line, the District Court may make an order on any terms and conditions (including those relating to notice and time of removal or trimming) that the court thinks fit.
 
 ### 131 Costs of removal or trimming of trees
 If a network operator removes or trims a tree, shrub, or plant on any land or road under the authority of an order made under section 130, the owner, occupier, local authority, or other person to whom notice of the application under section 129(2) was given is liable for the reasonable cost of the work of the network operator.
@@ -2019,7 +2017,7 @@ Section 156B applies to a person who commits any of the following breaches:
   (j) knowingly provides false or misleading information or documents under section 81:
   (k) fails, without reasonable excuse, to comply with section 83:
   (l) knowingly provides false or misleading information or documents under section 83:
-  (m) fails , without reasonable excuse, to comply with section 111A:
+  (m) fails, without reasonable excuse, to comply with section 111A:
   (n) fails, without reasonable excuse, to comply with any regulations made under section 157(ch) in relation to emergency call services.
 
 ### 156B Enforcement actions that Commission may take
@@ -2082,7 +2080,7 @@ In making a decision about what action to take under section 156B, the Commissio
   (b) fails to pay the whole, or any part, of the pecuniary penalty on or before the later of the time specified in that notice or in the notice under section 156F(1)(c).
 (2) The consequence is that the Commission may recover from the person, as a debt due to the Commission, in a District Court,—
   (a) the unpaid portion of the pecuniary penalty; and
-  (b) the actual and reasonable costs of recovery awarded against the person by that Court.
+  (b) the actual and reasonable costs of recovery awarded against the person by that court.
 (3) In any proceedings for the recovery of a debt under this section, the District Court must not enter judgment in favour of the Commission unless it is satisfied that the circumstances referred to in subsection (1) exist.
 
 ### 156I Right to appeal
@@ -2113,11 +2111,11 @@ In making a decision about what action to take under section 156B, the Commissio
 **Pecuniary penalty**
 
 ### 156L Pecuniary penalty
-(1) The High Court may order a person to pay to the Crown any pecuniary penalty that the Court determines to be appropriate if the High Court is satisfied, on the application of the Commission, that—
+(1) The High Court may order a person to pay to the Crown any pecuniary penalty that the court determines to be appropriate if the High Court is satisfied, on the application of the Commission, that—
   (a) the person has failed, without reasonable excuse, to comply with a separation undertaking under Part 2A; or
   (b) the person has committed a breach of any of the provisions set out in section 156A.
 (2) In determining an appropriate penalty to be imposed under this section, the High Court must have regard to all relevant matters, including the nature and extent of any commercial gain.
-(3) The amount of ally pecuniary penalty for each act or omission must not exceed—
+(3) The amount of any pecuniary penalty for each act or omission must not exceed—
   (a) $10 million for a breach referred to in subsection (1)(a); and
   (b) $1 million for a breach referred to in section 156A(g) in relation to the accounting separation requirements in section 69ZB; and
   (c) $300,000 in any other case.
@@ -2139,7 +2137,7 @@ In making a decision about what action to take under section 156B, the Commissio
 
 ### 156N Interpretation
 In sections 156O to 156R,—
-  - **enforceable matter** means any of the following
+  - **enforceable matter** means any of the following:
     (a) a determination made under section 27:
     (b) a standard terms determination made under section 30M:
     (c) a residual terms determination made under section 30ZB:
@@ -2175,78 +2173,14 @@ In sections 156O to 156R,—
 
 ### 156Q Remedies for breach of enforceable matter
 (1) This section applies if an enforceable matter is filed in the High Court under section 156P(1).
-(2) On the application of the Commission, the High Court may, in addition to any other remedies available to the Court, order any person to pay to the Crown any pecuniary penalty that the Court determines to be appropriate if satisfied that—
+(2) On the application of the Commission, the High Court may, in addition to any other remedies available to the court, order any person to pay to the Crown any pecuniary penalty that the court determines to be appropriate if satisfied that—
   (a) the person has committed a breach of the enforceable matter; and
-  (b) the amount of any compensatory damages that the Court can award against that person for the breach is less than the value of any commercial gain resulting from the breach.
+  (b) the amount of any compensatory damages that the court can award against that person for the breach is less than the value of any commercial gain resulting from the breach.
 (3) The standard of proof in any proceedings under this section is the standard of proof that applies in civil proceedings.
 (4) Proceedings under this section may be commenced within 3 years after the matter giving rise to the breach was discovered or ought reasonably to have been discovered.
 
 ### 156R Limit on amount of pecuniary penalty
-The amount of any pecuniary penalty imposed under section 156Q(2) must not exceed the value of any commercial gain resulting from the breach of the enforceable matter, less the amount of any compensatory damages that the Court decides to award against the person who has committed the breach.
-
-## Part 4B — Consumer complaints
-
-### Subpart 1 — Preliminary
-
-### 156S Commencement of this Part
-[Repealed]
-
-### 156T Process to apply before Part may be commenced
-[Repealed]
-
-### 156U Purpose of this Part
-[Repealed]
-
-### 156V Interpretation
-[Repealed]
-
-### 156W Power to exempt service providers from application of consumer complaints system
-[Repealed]
-
-### 156X Objectives of consumer complaints system
-[Repealed]
-
-### 156Y Requirements for consumer complaints system
-[Repealed]
-
-### Subpart 2 — Consumer complaints adjudicator
-
-### 156Z Appointment of consumer complaints adjudicator
-[Repealed]
-
-### 156ZA Qualification for appointment as consumer complaints adjudicator
-[Repealed]
-
-### 156ZB Revocation of appointment
-[Repealed]
-
-### 156ZC Functions and duties of consumer complaints adjudicator
-[Repealed]
-
-### 156ZD Powers of consumer complaints adjudicator in relation to complaints
-[Repealed]
-
-### 156ZE Consumer complaints adjudicator may seek agreed settlement or order compensation
-[Repealed]
-
-### 156ZF Right of appeal
-[Repealed]
-
-### Subpart 3 — Consumer complaints levy
-
-### 156ZG Purpose of subpart
-[Repealed]
-
-### 156ZH Consumer complaints levy
-[Repealed]
-
-### 156ZI Late payment of consumer complaints levy
-[Repealed]
-
-### Subpart 4 — Miscellaneous
-
-### 156ZJ Consultation requirements for making Order in Council or regulation under this Part
-[Repealed]
+The amount of any pecuniary penalty imposed under section 156Q(2) must not exceed the value of any commercial gain resulting from the breach of the enforceable matter, less the amount of any compensatory damages that the court decides to award against the person who has committed the breach.
 
 ## Part 5 — Miscellaneous
 
@@ -2269,10 +2203,9 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 The enactments specified in Schedule 4 are amended in the manner indicated in that schedule.
 
 ### 159 Certain provisions in 1987 Act repealed
-(1) The Long Title and sections 2A to 10 and 11 to 20D of the 1987 Act are repealed.
-(2) Section 2 of the 1987 Act (except any definition that applies to any of sections 10A to 10S of that Act) is repealed.
-(3) After the commencement of this Act, the 1987 Act is called the Telecommunications (Residual Provisions) Act 1987.
-(4) Section 1 of the 1987 Act is consequentially amended by inserting, after the word Telecommunications, the words (Residual Provisions).
+((1), (2)) Amendment(s) incorporated in the Act(s).
+((3)) After the commencement of this Act, the 1987 Act is called the Telecommunications (Residual Provisions) Act 1987.
+((4)) Amendment(s) incorporated in the Act(s).
 
 ### 160 Transitional provision for declarations made under section 2A of 1987 Act
 (1) Despite the repeal of section 2A of the 1987 Act by section 159, every declaration made under section 2A of the 1987 Act and in force immediately before the commencement of this Act continues in force and has full effect until the declaration is revoked,—
@@ -2319,13 +2252,13 @@ In this schedule, unless the context otherwise requires,—
 (2) Subclause (1) is for the avoidance of doubt.
 
 ### 4 Application of pricing principles for designated interconnection access services
-In applying an applicable initial pricing principle or an applicable final pricing principle, the Commission may choose different pricing principles for different call types of voice and data calls (including dial-up internet data calls) or calls with significantly different characteristics for designated interconnection access services.
+In applying an applicable initial pricing principle or an applicable final pricing principle, the Commission may choose different pricing principles for different call types of voice and data calls (including dial-up Internet data calls) or calls with significantly different characteristics for designated interconnection access services.
 
 ### 5 Standard access principles for designated access services and specified services
 The following standard access principles apply to designated access services and specified services:
   (a) principle 1: the access provider must provide the service to the access seeker in a timely manner:
   (b) principle 2: the service must be supplied to a standard that is consistent with international best practice:
-  (c) principle 3: the access provider must provide the service on terms and conditions (excluding price) that are consistent with those terms and conditions on which the access provider provides the service to itself.
+  (c) principle 3: the access provider must provide the service on terms and conditions (excluding price) that are consistent with those terms and conditions on which the access provider provides the service to itself:
   (d) principle 4: the access provider must, if requested, provide an access seeker with information about a designated access service or specified service at the same level of detail, and within the same time frame, that the access provider would provide that information had it been requested by one of its own business units.
 
 ### 6 Limits on application of standard access principles set out in clause 5
@@ -2339,300 +2272,195 @@ The following standard access principles apply to designated access services and
   (a) does not extend to any information about identifiable individual customers of the access provider; and
   (b) is subject to the requirement that any confidential information provided to the access seeker, in accordance with that principle, must be kept confidential to that access seeker.
 
-| Interconnection with Telecom's fixed PSTN |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Description of service: | Origination and termination (and their associated functions) of voice and data calls (including dial-up internet calls) on Telecom's fixed PSTN |  |  |  |
-| Conditions: | Nil |  |  |  |
-| Access provider: | Telecom |  |  |  |
-| Access seeker: | A service provider who seeks access to the service |  |  |  |
-| Access principles: | The standard access principles set out in clause 5 |  |  |  |
-| Limits on access principles: | The limits set out in clause 6 |  |  |  |
-| Initial pricing principle: | Benchmarking against interconnection prices in comparable countries that result from the application to networks that are similar to the access provider's fixed PSTN of— |  |  |  |
-|  | (a) | a forward-looking cost-based pricing method; or |  |  |
-|  | (b) | if the Commission considers that a forward-looking cost-based pricing method does not best give effect to the purpose set out in section 18, whichever of the following methods that the Commission considers best gives effect to that purpose: |  |  |
-|  |  | (i) | a pure bill and keep method; or |  |
-|  |  | (ii) | a pure bill and keep method applied to two-way traffic in balance (or to a specified margin of out-of-balance traffic) and a forward-looking cost-based pricing method applied to out-of-balance traffic (or traffic beyond a specified out-of-balance margin) |  |
-| Final pricing principle: | Either— |  |  |  |
-|  | (a) | TSLRIC; or |  |  |
-|  | (b) | if the Commission considers that TSLRIC does not best give effect to the purpose set out in section 18, whichever of the following methods that the Commission considers best gives effect to that purpose: |  |  |
-|  |  | (i) | a pure bill and keep method; or |  |
-|  |  | (ii) | a pure bill and keep method applied to two-way traffic in balance (or to a specified margin of out-of-balance traffic) and TSLRIC applied to out-of-balance traffic (or traffic beyond a specified out-of-balance margin) |  |
-| Requirement referred to in section 45 for final pricing principle: | If TSLRIC is the final pricing principle, the Commission must, by notice in writing, require the access provider to calculate the price payable for the service in accordance with TSLRIC and any regulations relating to that principle not later than the time specified in the notice |  |  |  |
-| Additional matters that must be considered regarding application of section 18: | In applying the initial pricing principle and final pricing principle, the Commission must consider— |  |  |  |
-|  | (a) | incentives to terminate dial-up internet traffic and other similar one-way traffic streams must be efficient; and |  |  |
-|  | (b) | the effect of any obligation under the TSO instrument to provide price-capped unlimited calls |  |  |
-| Interconnection with fixed PSTN other than Telecom's |  |  |  |  |
-| Description of service: | Origination and termination (and their associated functions) of voice and data calls (including dial-up internet calls) on a fixed PSTN other than Telecom's |  |  |  |
-| Conditions: | Any of the following: |  |  |  |
-|  | (a) | an application for a determination by the access provider of this service for interconnection with Telecom's fixed PSTN must be pending; or |  |  |
-|  | (b) | a standard terms development process has been initiated under subpart 2A of Part 2 in respect of interconnection with Telecom's fixed PSTN; or |  |  |
-|  | (c) | the access seeker of the service is a party to a determination under section 27 that has not expired, or is a party to a standard terms determination under section 30M, in respect of interconnection with Telecom's fixed PSTN. |  |  |
-| Access provider: | A person who provides, or who can provide, access to the service |  |  |  |
-| Access seeker: | Telecom |  |  |  |
-| Access principles: | The standard access principles set out in clause 5 |  |  |  |
-| Limits on access principles: | The limits set out in clause 6 |  |  |  |
-| Initial pricing principle: | Either— |  |  |  |
-|  | (a) | the price determined by the Commission (if any) for interconnection with a network of Telecom's that corresponds most closely in nature to the access provider's network; or |  |  |
-|  | (b) | benchmarking against interconnection prices in comparable countries that result from the application to networks that are similar to the access provider's fixed PSTN of— |  |  |
-|  |  | (i) | a forward-looking cost-based pricing method; or |  |
-|  |  | (ii) | if the Commission considers that a forward-looking cost-based pricing method does not best give effect to the purpose set out in section 18, whichever of the following methods that the Commission considers best gives effect to that purpose: |  |
-|  |  |  | (A) | a pure bill and keep method; or |
-|  |  |  | (B) | a pure bill and keep method applied to two-way traffic in balance (or to a specified margin of out-of-balance traffic) and a forward-looking cost-based pricing method applied to out-of-balance traffic (or traffic beyond a specified out-of-balance margin) |
-| Final pricing principle: | Either— |  |  |  |
-|  | (a) | the price determined by the Commission (if any) for interconnection with a network of Telecom's that corresponds most closely in nature to the access provider's network; or |  |  |
-|  | (b) | TSLRIC; or |  |  |
-|  | (c) | if the Commission considers that TSLRIC does not best give effect to the purpose set out in section 18, whichever of the following methods that the Commission considers best gives effect to that purpose: |  |  |
-|  |  | (i) | a pure bill and keep method; or |  |
-|  |  | (ii) | a pure bill and keep method applied to two-way traffic in balance (or to a specified margin of out-of-balance traffic) and TSLRIC applied to out-of-balance traffic (or traffic beyond a specified out-of-balance margin) |  |
-| Requirement referred to in section 45 for final pricing principle: | If TSLRIC is the final pricing principle, the Commission must, by notice in writing, require the access provider to calculate the price payable for the service in accordance with TSLRIC and any regulations relating to that principle not later than the time specified in the notice |  |  |  |
-| Additional matters that must be considered regarding application of section 18: | In applying the initial pricing principle and final pricing principle, the Commission must consider— |  |  |  |
-|  | (a) | incentives to terminate dial-up internet traffic and other similar one-way traffic streams must be efficient; and |  |  |
-|  | (b) | the effect of any obligation under the TSO instrument to provide price-capped unlimited calls |  |  |
-| Retail services offered by means of Telecom's fixed telecommunications network |  |  |  |  |
-| Description of service: | A non price-capped retail service offered by Telecom to end-users by means of its fixed telecommunications network in the following markets: |  |  |  |
-|  | (a) | all markets in which Telecom faces limited, or is likely to face lessened, competition for that service: |  |  |
-|  | (b) | all, some, or no markets in which Telecom does not face limited, or is not likely to face lessened, competition for that service as determined by the Commission |  |  |
-| Conditions: | That either— |  |  |  |
-|  | (a) | Telecom faces limited, or is likely to face lessened, competition in a market for the particular retail service offered by Telecom to end-users; or |  |  |
-|  | (b) | Telecom does not face limited, or is not likely to face lessened, competition in a market for that particular retail service, and the Commission has decided to require that particular retail service to be wholesaled in that market |  |  |
-| Access provider: | Telecom |  |  |  |
-| Access seeker: | A service provider who seeks access to the service |  |  |  |
-| Access principles: | The standard access principles set out in clause 5 |  |  |  |
-| Limits on access principles: | The limits set out in clause 6 |  |  |  |
-| Initial pricing principle: | Either— |  |  |  |
-|  | (a) | retail price less a discount benchmarked against discounts in comparable countries that apply retail price minus avoided costs saved pricing in respect of these services, in the case of a service offered by Telecom in markets in which Telecom faces limited, or is likely to face lessened, competition for that service; or |  |  |
-|  | (b) | retail price less a discount benchmarked against discounts in comparable countries that apply retail price minus actual costs saved pricing in respect of these services, in the case of a service offered by Telecom in markets in which Telecom does not face limited, or lessened, competition for that service |  |  |
-| Final pricing principle: | Either— |  |  |  |
-|  | (a) | average or best retail price minus a discount comprising avoided costs saved pricing, in the case of a service offered by Telecom in markets in which Telecom faces limited, or is likely to face lessened, competition for that service; or |  |  |
-|  | (b) | average or best retail minus a discount comprising actual costs saved, in the case of a service offered by Telecom in markets in which Telecom does not face limited, or lessened, competition for that service |  |  |
-| Requirement referred to in section 45 or final pricing principle: | Nil |  |  |  |
-| Additional matters that must be considered regarding application of section 18: | Nil |  |  |  |
-| Residential local access and calling service offered by means of Telecom's fixed telecommunications network |  |  |  |  |
-| Description of service: | A price-capped residential local access and calling service offered by Telecom to end-users by means of its fixed telecommunications network, in the following markets: |  |  |  |
-|  | (a) | all markets in which Telecom faces limited, or is likely to face lessened, competition for the service: |  |  |
-|  | (b) | all, some, or no markets in which Telecom does not face limited, or is not likely to face lessened, competition for price-capped residential local access and calling service as determined by the Commission |  |  |
-| Conditions: | That either— |  |  |  |
-|  | (a) | Telecom faces limited, or is likely to face lessened, competition in a market for price-capped residential local access and calling service offered by Telecom to end-users; or |  |  |
-|  | (b) | Telecom does not face limited, or is not likely to face lessened, competition for price-capped residential local access and calling service offered by Telecom to end-users, and the Commission has decided to require price-capped residential local access and calling service to be wholesaled |  |  |
-| Access provider: | Telecom |  |  |  |
-| Access seeker: | A service provider who seeks access to the service |  |  |  |
-| Access principles: | The standard access principles set out in clause 5 |  |  |  |
-| Limits on access principles: | The limits set out in clause 6 |  |  |  |
-| Initial pricing principle: | Telecom's standard price for its price-capped residential local access and calling service offered to end-users by means of its fixed telecommunications network in the relevant market, minus 2% |  |  |  |
-| Final pricing principle: | Telecom's standard price for its price-capped residential local access and calling service offered to end-users by means of its fixed telecommunications network in the relevant market, minus actual costs saved |  |  |  |
-| Requirement referred to in section 45 for final pricing principle: | Nil |  |  |  |
-| Additional matters that must be considered regarding application of section 18: | Nil |  |  |  |
-| Bundle of retail services offered by means of Telecom's fixed telecommunications network |  |  |  |  |
-| Description of service: | A bundle of retail services offered by Telecom to end-users by means of its fixed telecommunications network in the following markets: |  |  |  |
-|  | (a) | all markets in which Telecom faces limited, or is likely to face lessened, competition for that bundle of retail services: |  |  |
-|  | (b) | all, some, or no markets in which Telecom does not face limited, or is not likely to face lessened, competition for that bundle of retail services as determined by the Commission |  |  |
-| Conditions: | That either— |  |  |  |
-|  | (a) | Telecom faces limited, or is likely to face lessened, competition in a market for the particular bundle of retail services offered by Telecom to end-users by means of its fixed telecommunications network; or |  |  |
-|  | (b) | Telecom does not face limited, or is not likely to face lessened, competition in a market for that particular bundle of retail services, and the Commission has decided to require that particular bundle of retail services to be wholesaled in that market |  |  |
-| Access provider: | Telecom |  |  |  |
-| Access seeker: | A service provider who seeks access to the service |  |  |  |
-| Access principles: | The standard access principles set out in clause 5 |  |  |  |
-| Limits on access principles: | The limits set out in clause 6 |  |  |  |
-| Initial pricing principle: | The wholesale price for the bundle is the amount calculated in accordance with the following formula: |  |  |  |
-|  |  | where—ais the retail price for the bundlebis the discount (as a percentage) off the retail price for the bundle calculated in accordance with the following:aif a bundle includes non price-capped services, the discount applied to non price-capped services within the bundle must be benchmarked against discounts applied to comparable bundles that do not include price-capped residential access and calling service in comparable countries; orbif a bundle includes Telecom's price-capped residential access and calling service, the discount applied to Telecom's price capped residential access and calling service within the bundle is 2%; orcif a bundle includes non price-capped services and Telecom's price-capped residential access and calling service, the overall discount b must be determined by weighting the discounts for each non price-capped and price-capped service (determined in accordance with paragraphs (a) and (b)) in proportion to the standard retail price for that service when it is offered outside the bundleand any service within the bundles specified in paragraphs (a), (b), or (c) that is not a designated service under this Act must be weighted in proportion to the standard price of the service when it is offered outside the bundle and must not be discountedcis the wholesale price |  |  |
-| Final pricing principle: | The wholesale price for the bundle is the amount calculated in accordance with the following formula: |  |  |  |
-|  | a - b = cwhere—ais the retail price of the bundlebis a discount off the retail price.This discount must be determined by using,—ain the case of a non price-capped service offered by Telecom in markets in which Telecom faces limited, or is likely to face lessened, competition for that service, avoided costs saved pricing; orbin the case of a non price-capped service offered by Telecom in markets in which Telecom does not face limited, or is not likely to face lessened, competition for that service, actual costs saved pricing; orcin the case of Telecom's price-capped residential access and calling service, actual costs saved pricingcis the wholesale price |  |  |  |
-| Requirement referred to in section 45 for final pricing principle: | Nil |  |  |  |
-| Additional matters that must be considered regarding application of section 18: | Nil |  |  |  |
-| Retail services offered by means of Telecom's fixed telecommunications network as part of bundle of retail services |  |  |  |  |
-| Description of service: | A retail service that— |  |  |  |
-|  | (a) | is, or has previously been, offered separately by Telecom to end-users by means of its fixed telecommunications network; and |  |  |
-|  | (b) | is offered by Telecom to end-users as part of a bundle of retail services— |  |  |
-|  |  | (i) | in markets in which Telecom faces limited, or is likely to face lessened, competition for that service; and |  |
-|  |  | (ii) | if the effect of the bundled price is likely to significantly reduce the ability of an efficient rival to contest the market |  |
-| Conditions: | Nil |  |  |  |
-| Access provider: | Telecom |  |  |  |
-| Access seeker: | A service provider who seeks access to the service |  |  |  |
-| Access principles: | The standard access principles set out in clause 5 |  |  |  |
-| Limits on access principles: | The limits set out in clause 6 |  |  |  |
-| Initial pricing principle: | The wholesale price for the retail service is— |  |  |  |
-|  | (a) | in the case of Telecom's price-capped residential access and calling service, the amount calculated using the following formula: |  |  |
-|  |  | where—ais the imputed retail price for the service.The imputed retail price must—ibe based on the observed discount of the bundle relative to the total price of the services offered separately; andiitake into account any price difference that arises from the lower cost of providing the services as a bundle, the lower cost of quantity supply, any difference in the cost of providing the services between different markets, and from any other difference in costbis a 2% discountcis the wholesale price |  |  |
-|  | (b) | in the case of any other telecommunications service offered by Telecom in a bundle of retail services by means of its fixed telecommunications network, the amount calculated using the following formula: |  |  |
-|  |  | where—ais the imputed retail price for the service. The imputed retail price must—ibe based on the observed discount of the bundle relative to the total price of the services offered separately; andiitake into account any price difference that arises from the lower cost of providing the services as a bundle, the lower cost of quantity supply, any difference in the cost of providing the services between different markets, and from any other difference in costbis the discount (as a percentage) off the imputed retail price for the service. The discount must be benchmarked against discounts applied to comparable retail services in comparable countries that apply retail price minus avoided costs saved or equivalent pricingcis the wholesale price |  |  |
-| Final pricing principle: | The wholesale price for the retail service is the amount calculated using the following formula: |  |  |  |
-|  | a – b = cwhere—ais the imputed retail price for the service. The imputed retail price must—abe based on the observed discount of the bundle relative to the total price of the services offered separately; andbtake into account any price difference that arises from the lower cost of providing the services as a bundle, the lower cost of quantity supply, any difference in the cost of providing the services between different markets, and from any other difference in costbis the discount off the imputed retail price for the service. The discount must be determined by using,—ain the case of a non price-capped service offered by Telecom in markets in which Telecom faces limited, or is likely to face lessened, competition for that service, avoided costs saved pricing; orbin the case of Telecom's price-capped residential access and calling service in which Telecom faces limited, or is likely to face lessened, competition for that service, actual costs saved pricingcis the wholesale price |  |  |  |
-| Requirement referred to in section 45 for final pricing principle: | Nil |  |  |  |
-| Additional matters that must be considered regarding application of section 18: | Nil |  |  |  |
-| Telecom's unbundled bitstream access |  |  |  |  |
-| Description of service: | A digital subscriber line enabled service (and its associated functions, including the associated functions of Telecom's operational support systems) that enables access to, and interconnection with, that part of Telecom's fixed PDN that connects the end-user's building (or, where relevant, the building distribution frames) to Telecom's first data switch (or equivalent facility), other than a digital subscriber line access multiplexer (DSLAM) |  |  |  |
-|  | To avoid doubt, unless requested by the access seeker, the supply of this service must not be conditional on a requirement that the access seeker, the end-user, or any other person must purchase any other service from the access provider |  |  |  |
-| Conditions applicable before the expiry of 3 years from the date on which the Telecommunications Amendment Act (No 2) 2006 receives the Royal assent: | Nil |  |  |  |
-| Conditions applicable after the expiry of 3 years from the date on which the Telecommunications Amendment Act (No 2) 2006 receives the Royal assent: | That either— |  |  |  |
-|  | (a) | Telecom faces limited, or is likely to face lessened, competition in a relevant market; or |  |  |
-|  | (b) | Telecom does not face limited, or is not likely to face lessened, competition in a relevant market, and the Commission has decided to require Telecom's unbundled bitstream access to be wholesaled in that market |  |  |
-| Access provider: | Telecom |  |  |  |
-| Access seeker: | A service provider who seeks access to the service |  |  |  |
-| Access principles: | The standard access principles set out in clause 5 |  |  |  |
-| Limits on access principles: | The limits set out in clause 6 and the additional limit that Telecom is only required to provide access to the trunk side of Telecom's first data switch or equivalent facility (for which purpose a DSLAM is not an equivalent facility) |  |  |  |
-| Initial pricing principle: | Retail price (as imputed by the Commission having regard to the price of any other digital subscriber line enabled service, including the imputed price of any such service offered as part of a bundle of retail services) minus a discount benchmarked against discounts in comparable countries that apply retail price minus avoided costs saved pricing in respect of the service |  |  |  |
-|  | Plus, if no person is also purchasing a local access and calling service from the access provider in relation to the relevant subscriber line, all or any of the costs of Telecom's local loop network that would usually be recovered by the access provider from an end-user of its local access and calling service, as determined by benchmarking against comparable countries (unless the Commission considers that the price already takes into account all of the relevant costs) |  |  |  |
-| Final pricing principle: | Either— |  |  |  |
-|  | (a) | retail price (as imputed by the Commission having regard to the price of any other digital subscriber line enabled service including the imputed price of any such service offered as part of a bundle of retail services) minus a discount comprising avoided costs saved, in a case where Telecom faces limited, or is likely to face lessened, competition in a relevant market; or |  |  |
-|  | (b) | retail price (as imputed by the Commission having regard to the price of any other digital subscriber line enabled service including the imputed price of any such service offered as part of a bundle of retail services) minus a discount comprising actual costs saved, in a case where Telecom does not face limited or lessened competition in a relevant market |  |  |
-|  | Plus, in either case, if no person is also purchasing a local access and calling service from the access provider in relation to the relevant subscriber line, all or any of the costs of Telecom's local loop network that would usually be recovered by the access provider from an end-user of its local access and calling service, as determined by identifying the relevant costs (unless the account all of the relevant costs) |  |  |  |
-| Requirement referred to in section 45 for final pricing principle: | Nil |  |  |  |
-| Additional matters that must be considered regarding application of section 18: | The Commission must consider relativity between this service and Telecom's unbundled copper local loop network service (to the extent that terms and conditions have been determined for that service) |  |  |  |
-| Telecom's unbundled bitstream access backhaul |  |  |  |  |
-| Description of service: | A service (and its associated functions, including the associated functions of Telecom's operational support systems) that provides transmission capacity in Telecom's network (whether the transmission capacity is copper, fibre, or anything else) between the trunk side of Telecom's first data switch (or equivalent facility), other than a digital subscriber line access multiplexer (DSLAM), that is connected to the end-user's building (or, where relevant, the building distribution frames) and the access seeker's nearest available point of interconnection |  |  |  |
-| Conditions applicable before the expiry of 3 years from the date on which the Telecommunications Amendment Act (No 2) 2006 receives the Royal assent: | Any of the following: |  |  |  |
-|  | (a) | an application for a determination by the access seeker of the service is pending in respect of Telecom's unbundled bitstream access; or |  |  |
-|  | (b) | a standard terms development process has been initiated under subpart 2A of Part 2 in respect of Telecom's unbundled bitstream access; or |  |  |
-|  | (c) | the access seeker of the service is a party to a determination under section 27 that has not expired, or is a party to a standard terms determination under section 30M, in respect of Telecom's unbundled bitstream access; or |  |  |
-|  | (d) | an agreement for Telecom's unbundled bitstream access (or similar unbundled bitstream access service) is in force between the access seeker of the service and Telecom |  |  |
-| Conditions applicable after the expiry of 3 years from the date on which the Telecommunications Amendment Act (No 2) 2006 receives the Royal assent: | Both of the following: |  |  |  |
-|  | (a) | any of the following— |  |  |
-|  |  | (i) | an application for a determination by the access seeker of the service is pending in respect of Telecom's unbundled bitstream access; or |  |
-|  |  | (ii) | a standard terms development process has been initiated under subpart 2A of Part 2 in respect of Telecom's unbundled bitstream access; or |  |
-|  |  | (iii) | the access seeker of the service is a party to a determination under section 27 that has not expired, or is a party to a standard terms determination under section 30M, in respect of Telecom's unbundled bitstream access; or |  |
-|  |  | (iv) | an agreement for Telecom's unbundled bitstream access (or similar unbundled bitstream access service) is in force between the access seeker of the service and Telecom; and |  |
-|  | (b) | either— |  |  |
-|  |  | (i) | Telecom faces limited, or is likely to face lessened, competition in a market for transmission capacity between Telecom's first data switch (or equivalent facility) and the access seeker's nearest available point of interconnection; or |  |
-|  |  | (ii) | Telecom does not face limited, or is not likely to face lessened, competition in a market for transmission capacity between Telecom's first data switch (or equivalent facility) and the access seeker's nearest available point of interconnection, and the Commission has decided to require Telecom's unbundled bitstream access backhaul to be wholesaled in that market |  |
-| Access provider: | Telecom |  |  |  |
-| Access seeker: | A service provider who seeks access to the service |  |  |  |
-| Access principles: | The standard access principles set out in clause 5 |  |  |  |
-| Limits on access principles: | The limits set out in clause 6 |  |  |  |
-| Initial pricing principle: | Benchmarking against prices for similar services in comparable countries that use a forward-looking cost-based pricing method |  |  |  |
-| Final pricing principle: | TSLRIC |  |  |  |
-| Requirement referred to in section 45 for final pricing principle: | Nil |  |  |  |
-| Additional matters that must be considered regarding application of section 18 | Nil |  |  |  |
-| Telecom's unbundled copper local loop network |  |  |  |  |
-| Description of service: | A service (and its associated functions, including the associated functions of Telecom's operational support systems) that enables access to, and interconnection with, Telecom's copper local loop network (including any relevant line in the exchange or distribution cabinet) |  |  |  |
-| Conditions: | Nil |  |  |  |
-| Access provider: | Telecom |  |  |  |
-| Access seeker: | A service provider who seeks access to the service |  |  |  |
-| Access principles: | The standard access principles set out in clause 5 |  |  |  |
-| Limits on access principles: | The limits set out in clause 6 |  |  |  |
-| Initial pricing principle: | Benchmarking against prices for similar services in comparable countries that use a forward-looking cost-based pricing method |  |  |  |
-| Final pricing principle: | TSLRIC |  |  |  |
-| Requirement referred to in section 45 for final pricing principle: | Nil |  |  |  |
-| Additional matters that must be considered regarding application of section 18: | The Commission must consider relativity between this service and Telecom's unbundled bitstream access service (to the extent that terms and conditions have been determined for that service) |  |  |  |
-| Telecom's unbundled copper local loop network co-location |  |  |  |  |
-| Description of service: | A service (and its associated functions, including the associated functions of Telecom's operational support systems) that provides co-location facilities for an access seeker's equipment, and access to the handover point, at Telecom's local telephone exchange or distribution cabinet (or equivalent facility) for the purposes of providing access to, and interconnection with, Telecom's unbundled copper local loop network (including any necessary supporting equipment) |  |  |  |
-|  | To avoid doubt, access seeker's equipment includes the equipment of any person other than the access seeker (including any line) if that equipment is being used to support the provision of backhaul for the access seeker |  |  |  |
-|  | To avoid doubt, this service includes access to, and the use of, space in, on, or around Telecom's local telephone exchange or distribution cabinet (or equivalent facility) for the purposes of installing and maintaining the access seeker's equipment |  |  |  |
-| Conditions: | Any of the following: |  |  |  |
-|  | (a) | an application for a determination by the access seeker of the service is pending in respect of Telecom's unbundled copper local loop network; or |  |  |
-|  | (b) | a standard terms development process has been initiated under subpart 2A of Part 2 in respect of Telecom's unbundled copper local loop network; or |  |  |
-|  | (c) | the access seeker of the service is a party to a determination under section 27 that has not expired, or is a party to a standard terms determination under section 30M, in respect of Telecom's unbundled copper local loop network; or |  |  |
-|  | (d) | an agreement for Telecom's unbundled copper local loop network (or similar unbundled local loop network service) is in force between the access seeker of the service and Telecom |  |  |
-| Access provider: | Telecom |  |  |  |
-| Access seeker: | A service provider who seeks access to the service |  |  |  |
-| Access principles: | The standard access principles set out in clause 5 |  |  |  |
-| Limits on access principles: | The limits set out in clause 6 and the additional limit of the interests of other service providers who are co-located in the relevant facilities |  |  |  |
-| Initial pricing principle: | Benchmarking against prices for similar services in comparable countries that use a forward looking cost-based pricing method |  |  |  |
-| Final pricing principle: | TSLRIC |  |  |  |
-| Requirement referred to in section 45 for final pricing principle: | Nil |  |  |  |
-| Additional matters that must be considered regarding application of section 18: | Nil |  |  |  |
-| Telecom's unbundled copper local loop network backhaul (distribution cabinet to telephone exchange) |  |  |  |  |
-| Description of service: | A service (and its associated functions, including the associated functions of Telecom's operational support systems) that provides transmission capacity in Telecom's network (whether the transmission capacity is copper, fibre, or anything else) between the handover point in Telecom's distribution cabinet (or equivalent facility) and the handover point in Telecom's local telephone exchange (or equivalent facility), for the purposes of providing access to, and interconnection with, Telecom's unbundled copper local loop network (including any necessary supporting equipment) |  |  |  |
-| Conditions: | Any of the following: |  |  |  |
-|  | (a) | an application for a determination by the access seeker of the service is pending in respect of Telecom's unbundled copper local loop network; or |  |  |
-|  | (b) | a standard terms development process has been initiated under subpart 2A of Part 2 in respect of Telecom's unbundled copper local loop network; or |  |  |
-|  | (c) | the access seeker of the service is a party to a determination under section 27 that has not expired, or is a party to a standard terms determination under section 30M, in respect of Telecom's unbundled copper local loop network; or |  |  |
-|  | (d) | an agreement for Telecom's unbundled copper local loop network (or similar unbundled local loop network service) is in force between the access seeker of the service and Telecom |  |  |
-| Access provider: | Telecom |  |  |  |
-| Access seeker: | A service provider who seeks access to the service |  |  |  |
-| Access principles: | The standard access principles set out in clause 5 |  |  |  |
-| Limits on access principles: | The limits set out in clause 6 |  |  |  |
-| Initial pricing principle: | Benchmarking against prices for similar services in comparable countries that use a forward-looking cost-based pricing method |  |  |  |
-| Final pricing principle: | TSLRIC |  |  |  |
-| Requirement referred to in section 45 for final pricing principle: | Nil |  |  |  |
-| Additional matters that must be considered regarding application of section 18: | Nil |  |  |  |
-| Telecom's unbundled copper local loop network backhaul (telephone exchange to interconnect point) |  |  |  |  |
-| Description of service: | A service (and its associated functions, including the associated functions of Telecom's operational support systems) that provides transmission capacity in Telecom's network (whether the transmission capacity is copper, fibre, or anything else) between the handover point in Telecom's local telephone exchange (or equivalent facility) and the access seeker's nearest available point of interconnection, for the purposes of providing access to, and interconnection with, Telecom's unbundled copper local loop network (including any necessary supporting equipment) |  |  |  |
-| Conditions: | Both of the following: |  |  |  |
-|  | (a) | any of the following: |  |  |
-|  |  | (i) | an application for a determination by the access seeker of the service is pending in respect of Telecom's unbundled copper local loop network; or |  |
-|  |  | (ii) | a standard terms development process has been initiated under subpart 2A of Part 2 in respect of Telecom's unbundled copper local loop network; or |  |
-|  |  | (iii) | the access seeker of the service is a party to a determination under section 27 that has not expired, or is a party to a standard terms determination under section 30M, in respect of Telecom's unbundled copper local loop network; or |  |
-|  |  | (iv) | an agreement for Telecom's unbundled copper local loop network (or similar unbundled local loop network service) is in force between the access seeker of the service and Telecom; and |  |
-|  | (b) | either— |  |  |
-|  |  | (i) | Telecom faces limited, or is likely to face lessened, competition in a market for transmission capacity between Telecom's local telephone exchange (or equivalent facility) and the access seeker's nearest available point of interconnection; or |  |
-|  |  | (ii) | Telecom does not face limited, or is not likely to face lessened, competition in a market for transmission capacity between Telecom's local telephone exchange (or equivalent facility) and the access seeker's nearest available point of interconnection, and the Commission has decided to require Telecom's unbundled copper local loop network backhaul (telephone exchange to interconnect point) to be wholesaled in that market |  |
-| Access provider: | Telecom |  |  |  |
-| Access seeker: | A service provider who seeks access to the service |  |  |  |
-| Access principles: | The standard access principles set out in clause 5 |  |  |  |
-| Limits on access principles: | The limits set out in clause 6 |  |  |  |
-| Initial pricing principle: | Benchmarking against prices for similar services in comparable countries that use a forward-looking cost-based pricing method |  |  |  |
-| Final pricing principle: | TSLRIC |  |  |  |
-| Requirement referred to in section 45 for final pricing principles: | Nil |  |  |  |
-| Additional matters that must be considered regarding application of section 18: | Nil |  |  |  |
+|  | Interconnection with Telecom's fixed PSTN |
+| --- | --- |
+| Origination and termination (and their associated functions) of voice and data calls (including dial-up Internet calls) on Telecom's fixed PSTN | Description of service: |
+| Nil | Conditions: |
+| Telecom | Access provider: |
+| A service provider who seeks access to the service | Access seeker: |
+| The standard access principles set out in clause 5 | Access principles: |
+| The limits set out in clause 6 | Limits on access principles: |
+| Benchmarking against interconnection prices in comparable countries that result from the application to networks that are similar to the access provider's fixed PSTN of—aa forward-looking cost-based pricing method; orbif the Commission considers that a forward-looking cost-based pricing method does not best give effect to the purpose set out in section 18, whichever of the following methods that the Commission considers best gives effect to that purpose:ia pure bill and keep method; oriia pure bill and keep method applied to two-way traffic in balance (or to a specified margin of out-of-balance traffic) and a forward-looking cost-based pricing method applied to out-of-balance traffic (or traffic beyond a specified out-of-balance margin) | Initial pricing principle: |
+| Either—aTSLRIC; orbif the Commission considers that TSLRIC does not best give effect to the purpose set out in section 18, whichever of the following methods that the Commission considers best gives effect to that purpose:ia pure bill and keep method; oriia pure bill and keep method applied to two-way traffic in balance (or to a specified margin of out-of-balance traffic) and TSLRIC applied to out-of-balance traffic (or traffic beyond a specified out-of-balance margin) | Final pricing principle: |
+| If TSLRIC is the final pricing principle, the Commission must, by notice in writing, require the access provider to calculate the price payable for the service in accordance with TSLRIC and any regulations relating to that principle not later than the time specified in the notice | Requirement referred to in section 45 for final pricing principle: |
+| In applying the initial pricing principle and final pricing principle, the Commission must consider—aincentives to terminate dial-up Internet traffic and other similar one-way traffic streams must be efficient; andbthe effect of any obligation under the TSO instrument to provide price-capped unlimited calls | Additional matters that must be considered regarding application of section 18: |
+|  | Interconnection with fixed PSTN other than Telecom's |
+| Origination and termination (and their associated functions) of voice and data calls (including dial-up Internet calls) on a fixed PSTN other than Telecom's | Description of service: |
+| Any of the following:aan application for a determination by the access provider of this service for interconnection with Telecom's fixed PSTN must be pending; orba standard terms development process has been initiated under subpart 2A of Part 2 in respect of interconnection with Telecom's fixed PSTN; orcthe access seeker of the service is a party to a determination under section 27 that has not expired, or is a party to a standard terms determination under section 30M, in respect of interconnection with Telecom's fixed PSTN | Conditions: |
+| A person who provides, or who can provide, access to the service | Access provider: |
+| Telecom | Access seeker: |
+| The standard access principles set out in clause 5 | Access principles: |
+| The limits set out in clause 6 | Limits on access principles: |
+| Either—athe price determined by the Commission (if any) for interconnection with a network of Telecom's that corresponds most closely in nature to the access provider's network; orbbenchmarking against interconnection prices in comparable countries that result from the application to networks that are similar to the access provider's fixed PSTN of—ia forward-looking cost-based pricing method; oriiif the Commission considers that a forward-looking cost-based pricing method does not best give effect to the purpose set out in section 18, whichever of the following methods that the Commission considers best gives effect to that purpose:Aa pure bill and keep method; orBa pure bill and keep method applied to two-way traffic in balance (or to a specified margin of out-of-balance traffic) and a forward-looking cost-based pricing method applied to out-of-balance traffic (or traffic beyond a specified out-of-balance margin) | Initial pricing principle: |
+| Either—athe price determined by the Commission (if any) for interconnection with a network of Telecom's that corresponds most closely in nature to the access provider's network; orbTSLRIC; orcif the Commission considers that TSLRIC does not best give effect to the purpose set out in section 18, whichever of the following methods that the Commission considers best gives effect to that purpose:ia pure bill and keep method; oriia pure bill and keep method applied to two-way traffic in balance (or to a specified margin of out-of-balance traffic) and TSLRIC applied to out-of-balance traffic (or traffic beyond a specified out-of-balance margin) | Final pricing principle: |
+| If TSLRIC is the final pricing principle, the Commission must, by notice in writing, require the access provider to calculate the price payable for the service in accordance with TSLRIC and any regulations relating to that principle not later than the time specified in the notice | Requirement referred to in section 45 for final pricing principle: |
+| In applying the initial pricing principle and final pricing principle, the Commission must consider—aincentives to terminate dial-up Internet traffic and other similar one-way traffic streams must be efficient; andbthe effect of any obligation under the TSO instrument to provide price-capped unlimited calls | Additional matters that must be considered regarding application of section 18: |
+|  | Retail services offered by means of Telecom's fixed telecommunications network |
+| A non price-capped retail service offered by Telecom to end-users by means of its fixed telecommunications network in the following markets:aall markets in which Telecom faces limited, or is likely to face lessened, competition for that service:ball, some, or no markets in which Telecom does not face limited, or is not likely to face lessened, competition for that service as determined by the Commission | Description of service: |
+| That either—aTelecom faces limited, or is likely to face lessened, competition in a market for the particular retail service offered by Telecom to end-users; orbTelecom does not face limited, or is not likely to face lessened, competition in a market for that particular retail service, and the Commission has decided to require that particular retail service to be wholesaled in that market | Conditions: |
+| Telecom | Access provider: |
+| A service provider who seeks access to the service | Access seeker: |
+| The standard access principles set out in clause 5 | Access principles: |
+| The limits set out in clause 6 | Limits on access principles: |
+| Either—aretail price less a discount benchmarked against discounts in comparable countries that apply retail price minus avoided costs saved pricing in respect of these services, in the case of a service offered by Telecom in markets in which Telecom faces limited, or is likely to face lessened, competition for that service; orbretail price less a discount benchmarked against discounts in comparable countries that apply retail price minus actual costs saved pricing in respect of these services, in the case of a service offered by Telecom in markets in which Telecom does not face limited, or lessened, competition for that service | Initial pricing principle: |
+| Either—aaverage or best retail price minus a discount comprising avoided costs saved pricing, in the case of a service offered by Telecom in markets in which Telecom faces limited, or is likely to face lessened, competition for that service; orbaverage or best retail minus a discount comprising actual costs saved, in the case of a service offered by Telecom in markets in which Telecom does not face limited, or lessened, competition for that service | Final pricing principle: |
+| Nil | Requirement referred to in section 45 or final pricing principle: |
+| Nil | Additional matters that must be considered regarding application of section 18: |
+|  | Residential local access and calling service offered by means of Telecom's fixed telecommunications network |
+| A price-capped residential local access and calling service offered by Telecom to end-users by means of its fixed telecommunications network, in the following markets:aall markets in which Telecom faces limited, or is likely to face lessened, competition for the service:ball, some, or no markets in which Telecom does not face limited, or is not likely to face lessened, competition for price-capped residential local access and calling service as determined by the Commission | Description of service: |
+| That either—aTelecom faces limited, or is likely to face lessened, competition in a market for price-capped residential local access and calling service offered by Telecom to end-users; orbTelecom does not face limited, or is not likely to face lessened, competition for price-capped residential local access and calling service offered by Telecom to end-users, and the Commission has decided to require price-capped residential local access and calling service to be wholesaled | Conditions: |
+| Telecom | Access provider: |
+| A service provider who seeks access to the service | Access seeker: |
+| The standard access principles set out in clause 5 | Access principles: |
+| The limits set out in clause 6 | Limits on access principles: |
+| Telecom's standard price for its price-capped residential local access and calling service offered to end-users by means of its fixed telecommunications network in the relevant market, minus 2% | Initial pricing principle: |
+| Telecom's standard price for its price-capped residential local access and calling service offered to end-users by means of its fixed telecommunications network in the relevant market, minus actual costs saved | Final pricing principle: |
+| Nil | Requirement referred to in section 45 for final pricing principle: |
+| Nil | Additional matters that must be considered regarding application of section 18: |
+|  | Bundle of retail services offered by means of Telecom's fixed telecommunications network |
+| A bundle of retail services offered by Telecom to end-users by means of its fixed telecommunications network in the following markets:aall markets in which Telecom faces limited, or is likely to face lessened, competition for that bundle of retail services:ball, some, or no markets in which Telecom does not face limited, or is not likely to face lessened, competition for that bundle of retail services as determined by the Commission | Description of service: |
+| That either—aTelecom faces limited, or is likely to face lessened, competition in a market for the particular bundle of retail services offered by Telecom to end-users by means of its fixed telecommunications network; orbTelecom does not face limited, or is not likely to face lessened, competition in a market for that particular bundle of retail services, and the Commission has decided to require that particular bundle of retail services to be wholesaled in that market | Conditions: |
+| Telecom | Access provider: |
+| A service provider who seeks access to the service | Access seeker: |
+| The standard access principles set out in clause 5 | Access principles: |
+| The limits set out in clause 6 | Limits on access principles: |
+| The wholesale price for the bundle is the amount calculated in accordance with the following formula:where—ais the retail price for the bundlebis the discount (as a percentage) off the retail price for the bundle calculated in accordance with the following:aif a bundle includes non price-capped services, the discount applied to non price-capped services within the bundle must be benchmarked against discounts applied to comparable bundles that do not include price-capped residential access and calling service in comparable countries; orbif a bundle includes Telecom's price-capped residential access and calling service, the discount applied to Telecom's price capped residential access and calling service within the bundle is 2%; orcif a bundle includes non price-capped services and Telecom's price-capped residential access and calling service, the overall discount b must be determined by weighting the discounts for each non price-capped and price-capped service (determined in accordance with paragraphs (a) and (b)) in proportion to the standard retail price for that service when it is offered outside the bundleand any service within the bundles specified in paragraphs (a), (b), or (c) that is not a designated service under this Act must be weighted in proportion to the standard price of the service when it is offered outside the bundle and must not be discountedcis the wholesale price | Initial pricing principle: |
+| The wholesale price for the bundle is the amount calculated in accordance with the following formula:a − b = cwhere—ais the retail price of the bundlebis a discount off the retail price. This discount must be determined by using,—ain the case of a non price-capped service offered by Telecom in markets in which Telecom faces limited, or is likely to face lessened, competition for that service, avoided costs saved pricing; orbin the case of a non price-capped service offered by Telecom in markets in which Telecom does not face limited, or is not likely to face lessened, competition for that service, actual costs saved pricing; orcin the case of Telecom's price-capped residential access and calling service, actual costs saved pricingcis the wholesale price | Final pricing principle: |
+| Nil | Requirement referred to in section 45 for final pricing principle: |
+| Nil | Additional matters that must be considered regarding application of section 18: |
+|  | Retail services offered by means of Telecom's fixed telecommunications network as part of bundle of retail services |
+| A retail service that—ais, or has previously been, offered separately by Telecom to end-users by means of its fixed telecommunications network; andbis offered by Telecom to end-users as part of a bundle of retail services—iin markets in which Telecom faces limited, or is likely to face lessened, competition for that service; andiiif the effect of the bundled price is likely to significantly reduce the ability of an efficient rival to contest the market | Description of service: |
+| Nil | Conditions: |
+| Telecom | Access provider: |
+| A service provider who seeks access to the service | Access seeker: |
+| The standard access principles set out in clause 5 | Access principles: |
+| The limits set out in clause 6 | Limits on access principles: |
+| The wholesale price for the retail service is—ain the case of Telecom's price-capped residential access and calling service, the amount calculated using the following formula:where—ais the imputed retail price for the service. The imputed retail price must—ibe based on the observed discount of the bundle relative to the total price of the services offered separately; andiitake into account any price difference that arises from the lower cost of providing the services as a bundle, the lower cost of quantity supply, any difference in the cost of providing the services between different markets, and from any other difference in costbis a 2% discountcis the wholesale pricebin the case of any other telecommunications service offered by Telecom in a bundle of retail services by means of its fixed telecommunications network, the amount calculated using the following formula:where—ais the imputed retail price for the service. The imputed retail price must—ibe based on the observed discount of the bundle relative to the total price of the services offered separately; andiitake into account any price difference that arises from the lower cost of providing the services as a bundle, the lower cost of quantity supply, any difference in the cost of providing the services between different markets, and from any other difference in costbis the discount (as a percentage) off the imputed retail price for the service. The discount must be benchmarked against discounts applied to comparable retail services in comparable countries that apply retail price minus avoided costs saved or equivalent pricingcis the wholesale price | Initial pricing principle: |
+| The wholesale price for the retail service is the amount calculated using the following formula:a − b = cwhere—ais the imputed retail price for the service. The imputed retail price must—abe based on the observed discount of the bundle relative to the total price of the services offered separately; andbtake into account any price difference that arises from the lower cost of providing the services as a bundle, the lower cost of quantity supply, any difference in the cost of providing the services between different markets, and from any other difference in costbis the discount off the imputed retail price for the service. The discount must be determined by using,—ain the case of a non price-capped service offered by Telecom in markets in which Telecom faces limited, or is likely to face lessened, competition for that service, avoided costs saved pricing; orbin the case of Telecom's price-capped residential access and calling service in which Telecom faces limited, or is likely to face lessened, competition for that service, actual costs saved pricingcis the wholesale price | Final pricing principle: |
+| Nil | Requirement referred to in section 45 for final pricing principle: |
+| Nil | Additional matters that must be considered regarding application of section 18: |
+|  | Telecom's unbundled bitstream access |
+| A digital subscriber line enabled service (and its associated functions, including the associated functions of Telecom's operational support systems) that enables access to, and interconnection with, that part of Telecom's fixed PDN that connects the end-user's building (or, where relevant, the building distribution frames) to Telecom's first data switch (or equivalent facility), other than a digital subscriber line access multiplexer (DSLAM) | Description of service: |
+| To avoid doubt, unless requested by the access seeker, the supply of this service must not be conditional on a requirement that the access seeker, the end-user, or any other person must purchase any other service from the access provider |  |
+| Nil | Conditions applicable before the expiry of 3 years from the date on which the Telecommunications Amendment Act (No 2) 2006 receives the Royal assent: |
+| That either—aTelecom faces limited, or is likely to face lessened, competition in a relevant market; orbTelecom does not face limited, or is not likely to face lessened, competition in a relevant market, and the Commission has decided to require Telecom's unbundled bitstream access to be wholesaled in that market | Conditions applicable after the expiry of 3 years from the date on which the Telecommunications Amendment Act (No 2) 2006 receives the Royal assent: |
+| Telecom | Access provider: |
+| A service provider who seeks access to the service | Access seeker: |
+| The standard access principles set out in clause 5 | Access principles: |
+| The limits set out in clause 6 and the additional limit that Telecom is only required to provide access to the trunk side of Telecom's first data switch or equivalent facility (for which purpose a DSLAM is not an equivalent facility) | Limits on access principles: |
+| Retail price (as imputed by the Commission having regard to the price of any other digital subscriber line enabled service, including the imputed price of any such service offered as part of a bundle of retail services) minus a discount benchmarked against discounts in comparable countries that apply retail price minus avoided costs saved pricing in respect of the service | Initial pricing principle: |
+| Plus, if no person is also purchasing a local access and calling service from the access provider in relation to the relevant subscriber line, all or any of the costs of Telecom's local loop network that would usually be recovered by the access provider from an end-user of its local access and calling service, as determined by benchmarking against comparable countries (unless the Commission considers that the price already takes into account all of the relevant costs) |  |
+| Either—aretail price (as imputed by the Commission having regard to the price of any other digital subscriber line enabled service including the imputed price of any such service offered as part of a bundle of retail services) minus a discount comprising avoided costs saved, in a case where Telecom faces limited, or is likely to face lessened, competition in a relevant market; orbretail price (as imputed by the Commission having regard to the price of any other digital subscriber line enabled service including the imputed price of any such service offered as part of a bundle of retail services) minus a discount comprising actual costs saved, in a case where Telecom does not face limited or lessened competition in a relevant marketPlus, in either case, if no person is also purchasing a local access and calling service from the access provider in relation to the relevant subscriber line, all or any of the costs of Telecom's local loop network that would usually be recovered by the access provider from an end-user of its local access and calling service, as determined by identifying the relevant costs (unless the Commission considers that the price already takes into account all of the relevant costs) | Final pricing principle: |
+| Nil | Requirement referred to in section 45 for final pricing principle: |
+| The Commission must consider relativity between this service and Telecom's unbundled copper local loop network service (to the extent that terms and conditions have been determined for that service) | Additional matters that must be considered regarding application of section 18: |
+|  | Telecom's unbundled bitstream access backhaul |
+| A service (and its associated functions, including the associated functions of Telecom's operational support systems) that provides transmission capacity in Telecom's network (whether the transmission capacity is copper, fibre, or anything else) between the trunk side of Telecom's first data switch (or equivalent facility), other than a digital subscriber line access multiplexer (DSLAM), that is connected to the end-user's building (or, where relevant, the building distribution frames) and the access seeker's nearest available point of interconnection | Description of service: |
+| Any of the following:aan application for a determination by the access seeker of the service is pending in respect of Telecom's unbundled bitstream access; orba standard terms development process has been initiated under subpart 2A of Part 2 in respect of Telecom's unbundled bitstream access; orcthe access seeker of the service is a party to a determination under section 27 that has not expired, or is a party to a standard terms determination under section 30M, in respect of Telecom's unbundled bitstream access; ordan agreement for Telecom's unbundled bitstream access (or similar unbundled bitstream access service) is in force between the access seeker of the service and Telecom | Conditions applicable before the expiry of 3 years from the date on which the Telecommunications Amendment Act (No 2) 2006 receives the Royal assent: |
+| Both of the following:aany of the following—ian application for a determination by the access seeker of the service is pending in respect of Telecom's unbundled bitstream access; oriia standard terms development process has been initiated under subpart 2A of Part 2 in respect of Telecom's unbundled bitstream access; oriiithe access seeker of the service is a party to a determination under section 27 that has not expired, or is a party to a standard terms determination under section 30M, in respect of Telecom's unbundled bitstream access; orivan agreement for Telecom's unbundled bitstream access (or similar unbundled bitstream access service) is in force between the access seeker of the service and Telecom; andbeither—iTelecom faces limited, or is likely to face lessened, competition in a market for transmission capacity between Telecom's first data switch (or equivalent facility) and the access seeker's nearest available point of interconnection; oriiTelecom does not face limited, or is not likely to face lessened, competition in a market for transmission capacity between Telecom's first data switch (or equivalent facility) and the access seeker's nearest available point of interconnection, and the Commission has decided to require Telecom's unbundled bitstream access backhaul to be wholesaled in that market | Conditions applicable after the expiry of 3 years from the date on which the Telecommunications Amendment Act (No 2) 2006 receives the Royal assent: |
+| Telecom | Access provider: |
+| A service provider who seeks access to the service | Access seeker: |
+| The standard access principles set out in clause 5 | Access principles: |
+| The limits set out in clause 6 | Limits on access principles: |
+| Benchmarking against prices for similar services in comparable countries that use a forward-looking cost-based pricing method | Initial pricing principle: |
+| TSLRIC | Final pricing principle: |
+| Nil | Requirement referred to in section 45 for final pricing principle: |
+| Nil | Additional matters that must be considered regarding application of section 18: |
+|  | Telecom's unbundled copper local loop network |
+| A service (and its associated functions, including the associated functions of Telecom's operational support systems) that enables access to, and interconnection with, Telecom's copper local loop network (including any relevant line in the exchange or distribution cabinet) | Description of service: |
+| Nil | Conditions: |
+| Telecom | Access provider: |
+| A service provider who seeks access to the service | Access seeker: |
+| The standard access principles set out in clause 5 | Access principles: |
+| The limits set out in clause 6 | Limits on access principles: |
+| Benchmarking against prices for similar services in comparable countries that use a forward-looking cost-based pricing method | Initial pricing principle: |
+| TSLRIC | Final pricing principle: |
+| Nil | Requirement referred to in section 45 for final pricing principle: |
+| The Commission must consider relativity between this service and Telecom's unbundled bitstream access service (to the extent that terms and conditions have been determined for that service) | Additional matters that must be considered regarding application of section 18: |
+|  | Telecom's unbundled copper local loop network co-location |
+| A service (and its associated functions, including the associated functions of Telecom's operational support systems) that provides co-location facilities for an access seeker's equipment, and access to the handover point, at Telecom's local telephone exchange or distribution cabinet (or equivalent facility) for the purposes of providing access to, and interconnection with, Telecom's unbundled copper local loop network (including any necessary supporting equipment)To avoid doubt, access seeker's equipment includes the equipment of any person other than the access seeker (including any line) if that equipment is being used to support the provision of backhaul for the access seekerTo avoid doubt, this service includes access to, and the use of, space in, on, or around Telecom's local telephone exchange or distribution cabinet (or equivalent facility) for the purposes of installing and maintaining the access seeker's equipment | Description of service: |
+| Any of the following:aan application for a determination by the access seeker of the service is pending in respect of Telecom's unbundled copper local loop network; orba standard terms development process has been initiated under subpart 2A of Part 2 in respect of Telecom's unbundled copper local loop network; orcthe access seeker of the service is a party to a determination under section 27 that has not expired, or is a party to a standard terms determination under section 30M, in respect of Telecom's unbundled copper local loop network; ordan agreement for Telecom's unbundled copper local loop network (or similar unbundled local loop network service) is in force between the access seeker of the service and Telecom | Conditions: |
+| Telecom | Access provider: |
+| A service provider who seeks access to the service | Access seeker: |
+| The standard access principles set out in clause 5 | Access principles: |
+| The limits set out in clause 6 and the additional limit of the interests of other service providers who are co-located in the relevant facilities | Limits on access principles: |
+| Benchmarking against prices for similar services in comparable countries that use a forward looking cost-based pricing method | Initial pricing principle: |
+| TSLRIC | Final pricing principle: |
+| Nil | Requirement referred to in section 45 for final pricing principle: |
+| Nil | Additional matters that must be considered regarding application of section 18: |
+|  | Telecom's unbundled copper local loop network backhaul (distribution cabinet to telephone exchange) |
+| A service (and its associated functions, including the associated functions of Telecom's operational support systems) that provides transmission capacity in Telecom's network (whether the transmission capacity is copper, fibre, or anything else) between the handover point in Telecom's distribution cabinet (or equivalent facility) and the handover point in Telecom's local telephone exchange (or equivalent facility), for the purposes of providing access to, and interconnection with, Telecom's unbundled copper local loop network (including any necessary supporting equipment) | Description of service: |
+| Any of the following:aan application for a determination by the access seeker of the service is pending in respect of Telecom's unbundled copper local loop network; orba standard terms development process has been initiated under subpart 2A of Part 2 in respect of Telecom's unbundled copper local loop network; orcthe access seeker of the service is a party to a determination under section 27 that has not expired, or is a party to a standard terms determination under section 30M, in respect of Telecom's unbundled copper local loop network; ordan agreement for Telecom's unbundled copper local loop network (or similar unbundled local loop network service) is in force between the access seeker of the service and Telecom | Conditions: |
+| Telecom | Access provider: |
+| A service provider who seeks access to the service | Access seeker: |
+| The standard access principles set out in clause 5 | Access principles: |
+| The limits set out in clause 6 | Limits on access principles: |
+| Benchmarking against prices for similar services in comparable countries that use a forward-looking cost-based pricing method | Initial pricing principle: |
+| TSLRIC | Final pricing principle: |
+| Nil | Requirement referred to in section 45 for final pricing principle: |
+| Nil | Additional matters that must be considered regarding application of section 18: |
+|  | Telecom's unbundled copper local loop network backhaul (telephone exchange to interconnect point) |
+| A service (and its associated functions, including the associated functions of Telecom's operational support systems) that provides transmission capacity in Telecom's network (whether the transmission capacity is copper, fibre, or anything else) between the handover point in Telecom's local telephone exchange (or equivalent facility) and the access seeker's nearest available point of interconnection, for the purposes of providing access to, and interconnection with, Telecom's unbundled copper local loop network (including any necessary supporting equipment) | Description of service: |
+| Both of the following:aany of the following:ian application for a determination by the access seeker of the service is pending in respect of Telecom's unbundled copper local loop network; oriia standard terms development process has been initiated under subpart 2A of Part 2 in respect of Telecom's unbundled copper local loop network; oriiithe access seeker of the service is a party to a determination under section 27 that has not expired, or is a party to a standard terms determination under section 30M, in respect of Telecom's unbundled copper local loop network; orivan agreement for Telecom's unbundled copper local loop network (or similar unbundled local loop network service) is in force between the access seeker of the service and Telecom; andbeither—iTelecom faces limited, or is likely to face lessened, competition in a market for transmission capacity between Telecom's local telephone exchange (or equivalent facility) and the access seeker's nearest available point of interconnection; oriiTelecom does not face limited, or is not likely to face lessened, competition in a market for transmission capacity between Telecom's local telephone exchange (or equivalent facility) and the access seeker's nearest available point of interconnection, and the Commission has decided to require Telecom's unbundled copper local loop network backhaul (telephone exchange to interconnect point) to be wholesaled in that market | Conditions: |
+| Telecom | Access provider: |
+| A service provider who seeks access to the service | Access seeker: |
+| The standard access principles set out in clause 5 | Access principles: |
+| The limits set out in clause 6 | Limits on access principles: |
+| Benchmarking against prices for similar services in comparable countries that use a forward-looking cost-based pricing method | Initial pricing principle: |
+| TSLRIC | Final pricing principle: |
+| Nil | Requirement referred to in section 45 for final pricing principles: |
+| Nil | Additional matters that must be considered regarding application of section 18: |
 
-| Local telephone number portability service |  |  |
-| --- | --- | --- |
-| Description of service: | A service that enables an end-user of a fixed telephone network service to change providers of that service but to retain the same telephone number within a local calling area |  |
-| Conditions: | Nil |  |
-| Access provider: | Every person who operates— |  |
-|  | (a) | a PSTN to which numbers have been allocated; and |
-|  | (b) | a telephone service that relates to that number portability service |
-| Access seeker: | Any person who— |  |
-|  | (a) | operates a PSTN to which numbers have been allocated; and |
-|  | (b) | operates a telephone service that relates to that number portability service; and |
-|  | (c) | seeks access to that number portability service |
-| Cellular telephone number portability service |  |  |
-| Description of service: | A service that enables an end-user of a cellular telephone network service to change providers of that service but to retain the same telephone number (including the same cellular network access code) |  |
-| Conditions: | Nil |  |
-| Access provider: | Every person who operates— |  |
-|  | (a) | a PSTN to which numbers have been allocated; and |
-|  | (b) | a telephone service that relates to that number portability service |
-| Access seeker: | Any person who— |  |
-|  | (a) | operates a PSTN to which numbers have been allocated; and |
-|  | (b) | operates a telephone service that relates to that number portability service; and |
-|  | (c) | seeks access to that number portability service |
-| National toll-free telephone number portability service (Expired) |  |  |
-| Telecom's fixed PSTN to mobile carrier pre-selection service (Expired) |  |  |
+| Local telephone number portability service |  |
+| --- | --- |
+| Description of service: | A service that enables an end-user of a fixed telephone network service to change providers of that service but to retain the same telephone number within a local calling area |
+| Conditions: | Nil |
+| Access provider: | Every person who operates—aa PSTN to which numbers have been allocated; andba telephone service that relates to that number portability service |
+| Access seeker: | Any person who—aoperates a PSTN to which numbers have been allocated; andboperates a telephone service that relates to that number portability service; andcseeks access to that number portability service |
+| Cellular telephone number portability service |  |
+| Description of service: | A service that enables an end-user of a cellular telephone network service to change providers of that service but to retain the same telephone number (including the same cellular network access code) |
+| Conditions: | Nil |
+| Access provider: | Every person who operates—aa PSTN to which numbers have been allocated; andba telephone service that relates to that number portability service |
+| Access seeker: | Any person who—aoperates a PSTN to which numbers have been allocated; andboperates a telephone service that relates to that number portability service; andcseeks access to that number portability service |
+| National toll-free telephone number portability service |  |
+| Description of service: | A service that enables an end-user of a national toll-free telephone service to change providers of that service but to retain the same telephone number (including the same national toll-free access code) |
+| Conditions: | Nil |
+| Access provider: | Every person who operates—aa PSTN to which numbers have been allocated; andba telephone service that relates to that number portability service |
+| Access seeker: | Any person who—aoperates a PSTN to which numbers have been allocated; and boperates a telephone service that relates to that number portability service; and cseeks access to that number portability service |
+| Telecom's fixed PSTN to mobile carrier pre-selection service |  |
+| Description of service: | A service that enables an end-user who makes a telephone call originating on Telecom's fixed PSTN to an end-user on a cellular telephone network to use a service provider other than Telecom for a part of the fixed network segment of the telephone call without having to enter an additional number or prefix |
+| Conditions: | Nil |
+| Access provider: | Telecom |
+| Access seeker: | A service provider who seeks access to the service |
 
-| National Roaming |  |  |  |
-| --- | --- | --- | --- |
-| Description of service: | A service that enables an end-user who subscribes to a network operator's (operator A's) cellular mobile telephone service to use services (except value-added services) generally accepted internationally as second generation cellular mobile services that are provided to the public by another operator (operator B), within the area where operator B has a cellular mobile telephone network (which must not be a third generation cellular mobile telephone network), but which is outside the coverage area of operator A's cellular mobile telephone network |  |  |
-| Conditions: | All of the following: |  |  |
-|  | (a) | the access seeker must not already have the agreement that provides for national mobile roaming with any cellular mobile telephone network operator in New Zealand: |  |
-|  | (b) | there must be no separate determination (whether pending or existing) regarding roaming onto a network other than the network in respect of which the access seeker seeks access: |  |
-|  | (c) | the access seeker must have rolled-out a new cellular mobile network that covers no less than 10% of the area in which the New Zealand population normally lives or works. However, the access seeker may apply for a determination from the Commission before achieving the roll-out threshold as long as all the other applicable conditions set out in paragraphs (a), (b), (d), and (e) are met: |  |
-|  | (d) | the Commission must have approved a plan for the access seeker. That plan must include— |  |
-|  |  | (i) | the establishment of roll-out milestones to be met by the access seeker to continue to access the national roaming service; and |
-|  |  | (ii) | the provision for roll-out of a new national cellular mobile telephone network before the date on which the Commission must next consider, under clause 1(3) of Schedule 3, whether there are reasonable grounds for commencing an investigation into whether the national roaming service should be omitted from this schedule under section 66(b): |
-|  | (e) | the Commission must be satisfied that the access seeker has the capability to comply with the agreed network roll-out plan |  |
-| Access provider: | A cellular mobile telephone network operator who operates a cellular mobile telephone network |  |  |
-| Access seeker: | An existing or potential cellular mobile telephone network operator (except Telecom or Vodafone or their successors or subsidiaries) that holds sufficient radio spectrum rights to enable that operator to roll out a nationwide cellular mobile telephone network in New Zealand |  |  |
-| Access principles: | The standard access principles set out in clause 5 |  |  |
-| Limits on access principles: | The limits set out in clause 6 and additional limits, which must be set by taking the following matters into account: |  |  |
-|  | (a) | whether the access provider has, for each relevant cellsite within an area, sufficient available capacity to provide the service, taking into account its reasonable anticipated requirements for capacity at that cellsite: |  |
-|  | (b) | all legal requirements and all existing contractual obligations that the access provider has with third parties: |  |
-|  | (c) | the requirement on the access provider to provide the service to the access seeker will cease on the earlier of— |  |
-|  |  | (i) | any failure by the access seeker to comply with the agreed network roll-out plan, as determined by the Commission; or |
-|  |  | (ii) | any other events specified by the Commission in its determination |
-| Additional matters that must be considered regarding application of section 18: | The Commission must establish roll-out milestones and roll-out thresholds that ensure that the access seeker has strong incentives to roll-out its national cellular mobile network in an efficient and timely manner |  |  |
-| Co-location on cellular mobile transmission sites |  |  |  |
-| Description of service: | A service that enables co-location of cellular mobile telephone network transmission and reception equipment (including any necessary supporting equipment on or with the following facilities (relevant facilities)): |  |  |
-|  | (a) | any towers, poles, masts, or other similar structures— |  |
-|  |  | (i) | that are used for the transmission or reception of telecommunications via a cellular mobile telephone network; and |
-|  |  | (ii) | that are owned, managed, or leased by the access provider: |
-|  | (b) | all sites, buildings, or utility services that are associated with the kinds of structures referred to in paragraph (a) |  |
-| Conditions: | Nil |  |  |
-| Access provider: | Every person who operates a cellular mobile telephone network |  |  |
-| Access seeker: | Any person who— |  |  |
-|  | (a) | operates, or is likely to operate, a cellular mobile telephone network; and |  |
-|  | (b) | seeks access to the service |  |
-| Access principles: | The standard access principles set out in clause 5 |  |  |
-| Limits on access principles: | The limits set out in clause 6 and additional limits, which must be set by taking the following matters into account: |  |  |
-|  | (a) | the access provider's current and reasonable forecast requirements for capacity on the relevant facilities: |  |
-|  | (b) | the management of existing or potential radio spectrum interference arising from use of the relevant facilities: |  |
-|  | (c) | all relevant requirements under the Resource Management Act 1991: |  |
-|  | (d) | all relevant health and safety requirements under any enactment: |  |
-|  | (e) | all existing contractual obligations to third parties, including lessors of land on which relevant facilities are located: |  |
-|  | (f) | the interests of third parties who use the relevant facilities |  |
-| Additional matters that must be considered regarding application of section 18: | Nil |  |  |
-| Co-location of equipment for fixed telecommunications services at sites used by Broadcast Communications Limited (Expired) |  |  |  |
+| National Roaming |  |
+| --- | --- |
+| Description of service: | A service (and its associated functions) that enables transmission of cellular mobile traffic by means of the access provider's cellular mobile telephone network between (but not including) the cellular mobile device of the access seeker's end-user and the access seeker's handover point (or equivalent facility) and that enables an end-user who subscribes to an access seeker's cellular mobile service to use services (except value-added services) within the area where the access provider has a cellular mobile telephone network, but which is outside the coverage area of the access seeker's cellular mobile telephone network |
+| Conditions: | All of the following:athe access seeker must have rolled out a cellular mobile telephone network that—icomprises at least 100 cellsites (each of which provides wide area coverage and delivers cellular mobile services to both outdoor and indoor areas and where service in areas of coverage of that cellsite will be lost if the cellsite is switched off); oriicovers at least 10% of the New Zealand population:bthe cellular mobile telephone networks of the access seeker and the access provider must be technically compatible and be able to interconnect with each other:cthe Commission must have approved a plan for the access seeker. That plan must include—ithe establishment of roll-out milestones to be met by the access seeker to continue to access the national roaming service; andiiprovision for roll-out of a cellular mobile telephone network that provides cellular mobile services to at least 65% of the New Zealand population:dthe Commission must be satisfied that the access seeker has the capability to comply with the agreed network roll-out plan:ethe services (other than value-added services) for which transmission is sought must each be offered by the access provider to its end-users and be generally available to the access seeker's end-users from the access seeker's own cellular mobile telephone network (that is, the effect of roaming must be to increase the coverage area for the access seeker's end-users) |
+| Access provider: | A cellular mobile telephone network operator who operates a cellular mobile telephone network |
+| Access seeker: | A cellular mobile telephone network operator (except Telecom or Vodafone New Zealand Limited or their successors or subsidiaries) that holds sufficient radio spectrum rights to enable that operator to roll out a cellular mobile telephone network that provides cellular mobile services to at least 65% of the New Zealand population |
+| Access principles: | The standard access principles set out in clause 5 |
+| Limits on access principles: | The limits set out in clause 6 and additional limits, which must be set by taking the following matters into account:awhether the access provider has, for each relevant cellsite within an area, sufficient available capacity to provide the service, taking into account its reasonable anticipated requirements for capacity at that cellsite:ball legal requirements and all existing contractual obligations that the access provider has with third parties:cthe requirement on the access provider to provide the service to the access seeker will cease on the earlier of—iany failure by the access seeker to comply with the agreed network roll-out plan, as determined by the Commission; oriiany other events specified by the Commission in its determination |
+| Additional matters that must be considered regarding application of section 18: | The Commission must establish roll-out milestones and roll-out thresholds that ensure that the access seeker has strong incentives to roll out its cellular mobile telephone network in an efficient and timely manner |
+| Co-location on cellular mobile transmission sites |  |
+| Description of service: | A service that enables co-location of cellular mobile telephone network transmission and reception equipment (including any necessary supporting equipment on or with the following facilities (relevant facilities)):aany towers, poles, masts, or other similar structures—ithat are used for the transmission or reception of telecommunications via a cellular mobile telephone network; andiithat are owned, managed, or leased by the access provider:ball sites, buildings, or utility services that are associated with the kinds of structures referred to in paragraph (a) |
+| Conditions: | Nil |
+| Access provider: | Every person who operates a cellular mobile telephone network |
+| Access seeker: | Any person who—aoperates, or is likely to operate, a cellular mobile telephone network; andbseeks access to the service |
+| Access principles: | The standard access principles set out in clause 5 |
+| Limits on access principles: | The limits set out in clause 6 and additional limits, which must be set by taking the following matters into account:athe access provider's current and reasonable forecast requirements for capacity on the relevant facilities:bthe management of existing or potential radio spectrum interference arising from use of the relevant facilities:call relevant requirements under the Resource Management Act 1991:dall relevant health and safety requirements under any enactment:eall existing contractual obligations to third parties, including lessors of land on which relevant facilities are located:fthe interests of third parties who use the relevant facilities |
+| Additional matters that must be considered regarding application of section 18: | Nil |
+| Co-location of equipment for fixed telecommunications services at sites used by Broadcast Communications Limited |  |
+| Description of service: | A service that enables a telecommunications network operator to co-locate transmission and reception equipment (including any necessary supporting equipment), used to provide fixed telecommunications links directly to several end-users of fixed telecommunications services, on or with the following facilities (relevant facilities):aany towers, poles, masts, or other similar structures—ithat are used for the transmission or reception of radiocommunications (as defined in section 2(1) of the Radiocommunications Act 1989); andiithat are owned, managed, or leased by the access provider:ball sites, buildings, or utility services that are associated with the kinds of structures referred to in paragraph (a) |
+| Conditions: | Nil |
+| Access provider: | Broadcast Communications Limited or any of its subsidiaries |
+| Access seeker: | Any person who—aoperates, or is likely to operate, a radio based fixed telecommunications network that offers data transmission capability in excess of voice band capacity to serval end-users of fixed telecommunications services; andbseeks access to the service |
+| Access principles: | The standard access principles set out in clause 5 |
+| Limits on access principles: | The limits set out in clause 6 and additional limits, which are to be set by taking the following matters into account:athe access provider's current and reasonable forecast requirements for capacity on the relevant facilities:bthe management of existing or potential radio spectrum interference arising from use of the relevant facilities:call relevant requirements under the Resource Management Act 1991:dall relevant health and safety requirements under any enactment:eall existing contractual obligations to third parties, including lessors of land on which relevant facilities are located:fthe interests of third parties who use the relevant facilities |
+| Additional matters that must be considered regarding application of section 18: | Nil |
 
 ## Schedule 2 — Telecommunications access codes
+
+### Part 1 — Telecommunications access codes prepared by Forum
 
 ### 1 Forum may prepare code
 (1) The Forum may, on its own initiative or if invited to do so by the Commission, prepare 1 or more telecommunications access codes for approval by the Commission.
@@ -2721,7 +2549,7 @@ The Commission may approve a draft code if the Commission is satisfied that—
   (c)
 
 ### 10A Commission must refuse to approve draft code in certain cases
-Despite clauses 9 and 10, the Con-mission must refuse to approve a draft code if it is satisfied that the draft code deals with a matter that is more appropriately dealt with in—
+Despite clauses 9 and 10, the Commission must refuse to approve a draft code if it is satisfied that the draft code deals with a matter that is more appropriately dealt with in—
   (a) a determination under section 27; or
   (b) a standard terms determination under section 30M; or
   (c) a designated multinetwork service determination under section 39.
@@ -2767,12 +2595,16 @@ The Commission must give public notice of—
   (a) every approved code; and
   (b) every revocation of an approved code.
 
+### Part 2 — Telecommunications access codes prepared by Commission
+
 ### 17 Commission may prepare code
 (1) The Commission may, on its own initiative, prepare 1 or more telecommunications access codes in relation to any matter that is not already provided for by an approved code.
 (2) This clause does not limit clause 1.
 (3) For the purposes of this clause, the provisions of Part 1 of this schedule, so far as they are applicable and with any necessary modifications, apply to a code prepared by the Commission as if it were a code prepared by the Forum under that Part.
 
 ## Schedule 3 — Procedure for altering regulated services
+
+### Part 1 — Procedure for designated services or specified services (except specified services that are to become designated services)
 
 ### 1 Commission's investigation
 (1) The Commission may, on its own initiative or if requested to do so in writing by the Minister, commence an investigation into whether or not Schedule 1 should be altered in any of the ways set out in section 66 or 67 (the proposed alteration) if the Commission is satisfied that there are reasonable grounds for an investigation into the matter.
@@ -2801,7 +2633,7 @@ The Commission must give public notice of—
 (3) Despite subclause (1), the Commission may dispense with holding conferences or a public hearing if the alteration is of a kind listed in section 66(c) or section 67.
 
 ### 4 Final report of recommendation of Commission
-(1) The Commission must make reasonable efforts to do the following things not later than 120 working days after the date of giving public notice under clause 1(6)
+(1) The Commission must make reasonable efforts to do the following things not later than 120 working days after the date of giving public notice under clause 1(6):
   (a) prepare a final report regarding the proposed alteration:
   (b) deliver the report to the Minister.
 (2) In preparing the final report, the Commission must consider—
@@ -2849,6 +2681,8 @@ If, despite making reasonable efforts, the Commission is unable to do all of the
   (b) include in the public notice the closing date for submissions, which must not be later than 20 working days after the date of giving public notice; and
   (c) prepare, as soon as is reasonably practicable after the closing date for submissions, a final report to the Minister that contains the matters set out in the draft report and summarises, and makes recommendations on, the submissions received on the draft report.
 (3) Clause 6 again applies to the report referred to in subclause (1)(b)(ii) or (2)(c), as the case may be.
+
+### Part 2 — Procedure for specified services to become designated services
 
 ### 8 Commission's investigation
 (1) The Commission may, on its own initiative or if requested to do so in writing by the Minister, commence an investigation into whether or not Schedule 1 should be altered by—
@@ -2928,6 +2762,8 @@ If, despite making reasonable efforts, the Commission is unable to do all of the
 
 ## Schedule 3A — Undertakings
 
+**Preliminary**
+
 ### 1 Interpretation
 In this schedule, unless the context otherwise requires,—
   - **final report** means the report that—
@@ -2945,15 +2781,19 @@ In this schedule, unless the context otherwise requires,—
       (ii) a proposed addition
   - **register** means the register of undertakings established and maintained by the Commission under clause 10(1)
   - **registered undertaking** means an undertaking that is entered in the register
-  - **service** means the telecommunications service to which either or both of the following relate
+  - **service** means the telecommunications service to which either or both of the following relate:
     (a) a proposed regulatory change:
     (b) an undertaking
   - **undertaking** has the meaning set out in clause 3.
+
+**Purpose of clauses 3 to 16**
 
 ### 2 Purpose of clauses 3 to 16
 The purpose of clauses 3 to 16 is to provide, as an alternative to a proposed regulatory change, a mechanism for an access provider to supply a service to all access seekers—
   (a) on a voluntary basis that avoids the need for regulation; and
   (b) on terms and conditions agreed between the access provider and the Commission.
+
+**Acceptance and registration of undertakings**
 
 ### 3 Commission may accept undertaking
 (1) While the Commission is considering a proposed regulatory change, the Commission may accept an offer from an access provider to supply a service to all access seekers on the terms and conditions of a written undertaking (an undertaking).
@@ -3001,6 +2841,8 @@ If the Minister accepts the Commission's recommendation that the Minister should
 (5) Despite anything in this clause, the registration of an undertaking expires on the date that the proposed regulatory change is made.
 (6) This clause does not require the Commission to commence an investigation into a proposed regulatory change on the expiry of the registration of an undertaking.
 
+**Effect of registration of undertaking**
+
 ### 8 Effect of registration of undertaking
 (1) A registered undertaking provides a basis for preparing and approving a telecommunications access code in relation to the supply of the service even though the access provider would not otherwise be subject to that code.
 (2) A registered undertaking—
@@ -3015,6 +2857,8 @@ If the Minister accepts the Commission's recommendation that the Minister should
 Part 2 of the Commerce Act 1986 does not apply in respect of—
   (a) a registered undertaking; and
   (b) any matter necessary for giving effect to a registered undertaking.
+
+**Register**
 
 ### 10 Register of undertakings
 (1) For the purposes of this schedule, the Commission must establish and maintain a register of undertakings.
@@ -3037,6 +2881,8 @@ The register must, in relation to every registered undertaking, contain all of t
   (c) the terms and conditions of the supply of the service:
   (d) particulars of, or a description of the class of, the access seekers to whom the service is to be supplied:
   (e) any other particulars that may be prescribed.
+
+**Process for making undertaking**
 
 ### 13 Process for making undertaking
 (1) An access provider who wishes to make an undertaking must apply to the Commission in accordance with clause 14.
@@ -3063,6 +2909,49 @@ An application under clause 13 must—
   (b) invite persons who have a material interest in the proposed regulatory change to make written submissions on the application by the closing date specified in the public notice; and
   (c) consider those submissions.
 (2) The closing date for submissions must not be earlier than 10 working days after the date on which public notice is given under subclause (1)(a).
-(3) Before determining the application, the commission must give the access provider who made the application a reasonable opportunity to amend it in light of any submissions received by the Commission under this clause.
+(3) Before determining the application, the Commission must give the access provider who made the application a reasonable opportunity to amend it in light of any submissions received by the Commission under this clause.
 
 ## Schedule 4 — Enactments amended
+
+### 1 Title
+This Act is the Telecommunications Amendment Act (No 2) 2006.
+
+### 2 Commencement
+(1) Part 4B of the Telecommunications Act 2001 (as inserted by section 54 of this Act) comes into force as provided in section 156S of that Act.
+(2) The rest of this Act comes into force on 22 December 2006.
+
+## Part 2 — Consequential amendments and transitional provisions
+
+**Transitional provisions**
+
+### 62 Transitional provision for uncompleted determinations under section 27
+(1) This section applies if, before the commencement of this Act, the Commission was—
+  (a) considering an application under section 20 for a determination of all or some of the terms on which a designated access service or specified service must be supplied:
+  (b) otherwise in the process of investigating or preparing a determination under section 27 of all or some of those terms.
+(2) The Commission may continue and complete the matter in accordance with—
+  (a) subpart 2 of Part 2 of the principal Act (as if this Act had not been enacted); or
+  (b) subpart 2A of Part 2 of the principal Act (as inserted by this Act) as if the determination under section 27 were a standard terms determination.
+(3) For the purposes of subsection (2)(b), the provisions of subpart 2A of Part 2 of the principal Act (as inserted by this Act) apply with any necessary modifications.
+
+### 63 Transitional provision for TSO determinations
+Despite the amendments made by this Act to the principal Act, the principal Act continues to apply as if those amendments had not been made in respect of any TSO determinations that were commenced, but not completed, before the commencement of this Act.
+
+### 64 Transitional provision for enforcement of determinations and approved codes made before commencement of this Act
+(1) This section applies to any of the following matters that were made or approved before the commencement of this Act:
+  (a) a determination under section 27:
+  (b) an approved code under Schedule 2.
+(2) A matter to which this section applies may be enforced in accordance with subpart 2 of Part 4A of the principal Act.
+(3) For the purposes of subsection (2),—
+  (a) the definition of enforceable matter in section 156N of the principal Act must be read as if—
+    (i) the reference in paragraph (a) of that definition to a determination made under section 27 were a reference to that determination whether made before or after the commencement of this Act; and
+    (ii) the reference in paragraph (f) of that definition to an approved code under Schedule 2 were a reference to that code whether approved before or after the commencement of this Act; and
+  (b) the other provisions of subpart 2 of Part 4A of the principal Act apply with any necessary modifications.
+
+### 65 Transitional provision for descriptions of services in existing determinations
+Despite the amendments made to the designated access services under Part 2 of Schedule 1 of this Act, any determinations relating to those services that are in force before the commencement of this Act continue to apply according to their terms as if those amendments had not been enacted.
+
+### 66 Transitional provision for uncompleted Schedule 3 investigations
+(1) This section applies to investigations under Schedule 3 of the principal Act that were commenced, but not completed, before the commencement of this Act.
+(2) The Commission may continue and complete an investigation to which this section applies in accordance with—
+  (a) Schedule 3 of the principal Act (as if this Act had not been enacted); or
+  (b) Schedule 3 of the principal Act (as amended by this Act).
