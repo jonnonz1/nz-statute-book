@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-09-17_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -330,6 +330,8 @@ _Consolidation as at 2008-08-01_
 (7C) For the purposes of this Act, a person who makes a contribution to a local authority is treated as supplying goods and services to the local authority to the extent that the contribution consists of land and is—
   (a) a financial contribution that is a condition of a resource consent under the Resource Management Act 1991:
   (b) a development contribution under the Local Government Act 2002.
+(7D) For the purposes of this Act, a territorial authority is treated as supplying goods and services to a person if the territorial authority requires the person to give it land or money under the provisions of its affordable housing policy that reflect section 11 of the Affordable Housing: Enabling Territorial Authorities Act 2008.
+(7E) For the purposes of this Act, a person who gives a territorial authority land under the provisions of the authority's affordable housing policy that reflect section 11 of the Affordable Housing: Enabling Territorial Authorities Act 2008 is treated as supplying goods and services to the territorial authority.
 (8) Despite any other provision of this Act, for the purposes of this Act, if any racing betting or sports betting (within the meaning of section 5 of the Racing Act 2003) is conducted by the Board (as defined in section 5 of the Racing Act 2003), the betting must be regarded as a supply of services by the Board.
 (9)
 (10) Despite anything in this Act, for the purposes of this Act if a person pays an amount in money to participate in gambling (including a New Zealand lottery), the amount of money paid to participate must be treated as payment for the supply of services by the person, society, licensed promoter, or organiser who under the Gambling Act 2003 conducts the gambling.
@@ -698,6 +700,8 @@ A supply of services that is chargeable with tax under section 8 must be charged
 (1) A supply of services that is chargeable with tax under section 8 must be charged at the rate of 0% if the supplier is a territorial authority and the consideration for the supply is proceeds from the local authorities petroleum tax paid to the supplier under section 198 of the Local Government Act 1974.
 (1B) If a supply under section 5(7B) of goods and services by a local authority to a registered person is chargeable with tax under section 8, the supply must be charged at the rate of 0% to the extent that the contribution made by the registered person to the local authority consists of land.
 (1C) If a supply under section 5(7C) of goods and services by a person to a local authority is chargeable with tax under section 8, the supply must be charged at the rate of 0% if the local authority is a registered person.
+(1D) If a supply under section 5(7D) of goods and services by a territorial authority to a registered person is chargeable with tax under section 8, the supply must be charged at the rate of 0% to the extent that the contribution made by the registered person to the territorial authority consists of land.
+(1E) If a supply under section 5(7E) of goods and services by a person to a territorial authority is chargeable with tax under section 8, the supply must be charged at the rate of 0% if the territorial authority is a registered person.
 (2) For the purpose of subsection (1)—
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002
   - **local authorities petroleum tax** is local authorities petroleum tax levied in accordance with Part 11 of the Local Government Act 1974.
