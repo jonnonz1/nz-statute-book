@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2008-06-26_
+_Consolidation as at 2008-09-17_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -793,7 +793,8 @@ If a project information memorandum contains information previously supplied to 
 (1) A building consent authority must grant a building consent if it is satisfied on reasonable grounds that the provisions of the building code would be met if the building work were properly completed in accordance with the plans and specifications that accompanied the application.
 (2) However, a building consent authority is not required to grant a building consent until it receives—
   (a) any charge fixed by it in relation to the consent; and
-  (b) any levy payable under section 53.
+  (b) any levy payable under section 53; and
+  (c) if section 25 of the Affordable Housing: Enabling Territorial Authorities Act 2008 applies, notification under section 25(6) of that Act.
 
 ### 50 Refusal of application for building consent
 If a building consent authority refuses to grant an application for a building consent, the building consent authority must give the applicant written notice of—
@@ -4653,7 +4654,7 @@ A meeting of the Board may be held—
 
 ### 33 Unanimous written resolutions
 (1) A resolution signed or assented to in writing (whether sent by post, delivery, or electronic communication) by all members is as valid and effectual as if it had been passed at a meeting of the Board duly called and constituted.
-(2) Thyoue resolution may consist of several documents containing the same resolution, each signed or assented to in writing by 1 or more members.
+(2) The resolution may consist of several documents containing the same resolution, each signed or assented to in writing by 1 or more members.
 
 ## Schedule 4 — Enactments amended
 
