@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-09-17_
 
 > An Act to reform the law relating to companies, and, in particular,—aTo reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbTo provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcTo define the relationships between companies and their directors, shareholders, and creditors; anddTo encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeTo provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -562,8 +562,8 @@ Subject to the constitution of the company, the board of a company may issue sha
 **Company may acquire its own shares**
 
 ### 58 Company may acquire its own shares
-(1) A company may, in accordance with sections 59 to 66, section 107, and sections 110 to 112 of this Act, but not otherwise, acquire its own shares.
-(2) Shares acquired by a company otherwise than in accordance with sections 59 to 66 and 110 to 112 of this Act are deemed to be cancelled immediately on acquisition.
+(1) A company may, in accordance with sections 59 to 66, section 107, and sections 110 to 112C, but not otherwise, acquire its own shares.
+(2) Shares acquired by a company otherwise than in accordance with sections 59 to 66 and 110 to 112C are deemed to be cancelled immediately on acquisition.
 (3) Within 10 working days of the purchase or acquisition of the shares, the board of the company must ensure that notice in the prescribed form of the purchase or acquisition is delivered to the Registrar for registration.
 (4) If the board of a company fails to comply with subsection (3) of this section, every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(2) of this Act.
 
@@ -684,7 +684,7 @@ For the purposes of section 61 of this Act, a disclosure document is a document 
   (b) Every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(1) of this Act.
 
 ### 66 Cancellation of shares repurchased
-(1) Subject to sections 67A to 67C of this Act, shares that are acquired by a company pursuant to section 59 or section 112 of this Act are deemed to be cancelled immediately on acquisition.
+(1) Subject to sections 67A to 67C of this Act, shares that are acquired by a company pursuant to section 59 or sections 112 to 112C are deemed to be cancelled immediately on acquisition.
 (2) Shares are acquired for the purposes of subsection (1) of this section on the date on which the company would, apart from this section, become entitled to exercise the rights attached to the shares.
 (3) On the cancellation of a share under this section,—
   (a) The rights and privileges attached to that share expire; but
@@ -698,11 +698,11 @@ For the purposes of section 61 of this Act, a disclosure document is a document 
 **Treasury stock**
 
 ### 67A Company may hold its own shares
-(1) Shares acquired by a company pursuant to section 59 or section 112 of this Act shall not be deemed to be cancelled under section 66(1) of this Act if—
+(1) Shares acquired by a company pursuant to section 59 or sections 112 to 112C shall not be deemed to be cancelled under section 66(1) of this Act if—
   (a) The constitution of the company expressly permits the company to hold its own shares; and
   (b) The board of the company resolves that the shares concerned shall not be cancelled on acquisition; and
   (c) The number of shares acquired, when aggregated with shares of the same class held by the company pursuant to this section at the time of the acquisition, does not exceed 5 percent of the shares of that class previously issued by the company, excluding shares previously deemed to be cancelled under section 66(1) of this Act.
-(2) Shares acquired by a company pursuant to section 59 or section 112 of this Act that, pursuant to this section, are not deemed to be cancelled shall be held by the company in itself.
+(2) Shares acquired by a company pursuant to section 59 or sections 112 to 112C that, pursuant to this section, are not deemed to be cancelled shall be held by the company in itself.
 (3) A share that a company holds in itself under subsection (2) of this section may be cancelled by the board of the company resolving that the share is cancelled; and the share shall be deemed to be cancelled on the making of such a resolution.
 
 ### 67B Rights and obligations of shares company holds in itself suspended
@@ -1208,26 +1208,54 @@ Where—that shareholder is entitled to require the company to purchase those sh
   (d) Arrange, before taking the action concerned, for the resolution to be rescinded in accordance with section 106 of this Act or decide in the appropriate manner not to take the action concerned, as the case may be; and
   (e) Give written notice to the shareholder of the board's decision under this subsection.
 
-### 112 Purchase by company
-(1) Where the board agrees under section 111(2)(a) of this Act to the purchase of the shares by the company, it must, on giving notice under that subsection or within 5 working days thereafter,—
-  (a) Nominate a fair and reasonable price for the shares to be acquired; and
-  (b) Give notice of the price to the holder of those shares.
-(2) A shareholder who considers that the price nominated by the board is not fair or reasonable, must forthwith give notice of objection to the company.
-(3) If, within 10 working days of giving notice to a shareholder under subsection (1) of this section, no objection to the price has been received by the company, the company must, on such date as the company and the shareholder agree or, in the absence of agreement, as soon as practicable, purchase all the shares at the nominated price.
-(4) If, within 10 working days of giving notice to a shareholder under subsection (1) of this section, an objection to the price has been received by the company, the company must—
-  (a) Refer the question of what is a fair and reasonable price to arbitration; and
-  (b) Within 5 working days, pay a provisional price in respect of each share equal to the price nominated by the board.
-(5) A reference to arbitration under this section is deemed to be a submission for the purpose of the Arbitration Act 1908.
-(6) The arbitrator must expeditiously determine a fair and reasonable price for the shares to be purchased.
-(7) If the price determined—
-  (a) Exceeds the provisional price, the company must forthwith pay the balance owing to the shareholder:
-  (b) Is less than the provisional price paid, the company may recover the excess paid from the shareholder.
-(8) The arbitrator may—
-  (a) Award interest on any balance payable or excess to be repaid under subsection (7) of this section at such rate as he or she thinks fit having regard to whether the provisional price paid or the reference to arbitration, as the case may be, was reasonable; and
-  (b) Provide for interest to be paid to or by the shareholder whose shares are to be purchased.
+### 112 Price for shares to be purchased by company determined
+(1) Within 5 working days of giving notice under section 111(2)(e) that the board agrees to the purchase of shares by the company, the board must give to the holder of the shares written notice of—
+  (a) the price it offers to pay for those shares; and
+  (b) how—
+    (i) the matters in subsection (2) were calculated; or
+    (ii) the price was calculated under subsection (3) and why calculating the price using the methodology set out in paragraphs (a) to (c) of subsection (2) would be clearly unfair.
+(2) That price must be a fair and reasonable price (as at the close of business on the day before the date on which the resolution was passed) for the shares held by the shareholder, calculated as follows:
+  (a) first, the fair and reasonable value of the total shares in each class to which the shares belong must be calculated (the class value):
+  (b) secondly, each class value must be adjusted to exclude any fluctuation (whether positive or negative) in the class value that has occurred (whether before or after the resolution was passed) that was due to, or in expectation of, the event proposed or authorised by the resolution:
+  (c) thirdly, a portion of each adjusted class value must be allocated to the shareholder in proportion to the number of shares he, she, or it holds in the relevant class.
+(3) However, a different methodology from that set out in paragraphs (a) to (c) of subsection (2) may be used to calculate the fair and reasonable price for the shares if using the methodology set out in those paragraphs would be clearly unfair to the shareholder or the company.
+(4) The shareholder may object to the price offered by the board for the shares by giving written notice to the company no later than 10 working days after the date on which the board gave written notice to the shareholder under subsection (1).
+(5) If the company does not receive an objection to the price in accordance with subsection (4), the company must purchase all the shares at the nominated price no later than 10 working days after—
+  (a) the date on which the board’s offer under subsection (1) is accepted; or
+  (b) if the board has not received an acceptance, the date that is 10 working days after the date on which the board gave written notice to the shareholder under subsection (1).
+(6) The time periods in subsection (5) do not apply if there is a written agreement between the board and the shareholder that specifically sets a different date for purchase of the shares.
+(7) In this section, resolution means the resolution referred to in section 110 or 118 that, due to it having been passed, entitles the shareholder to require the company to purchase the shareholder’s shares in accordance with section 111.
+
+### 112A Price for shares referred to arbitration if shareholder objects to price
+(1) If a company receives an objection to the price offered for shares in accordance with section 112(4),—
+  (a) the following issues must be submitted to arbitration:
+    (i) the fair and reasonable price for the shares, on the basis set out in section 112(2) and (3); and
+    (ii) the remedies available to the holder of the shares or the company in respect of any price for the shares that differs from that determined by the board under section 112; and
+  (b) the company must, within 5 working days of receiving the objection, pay to the shareholder a provisional price in respect of each share equal to the price offered by the board under section 112(1).
+(2) If the price determined for the shares—
+  (a) exceeds the provisional price paid, the arbitral tribunal must order the company to pay the balance owing to the shareholder:
+  (b) is less than the provisional price paid, the arbitral tribunal must order the shareholder to pay the excess to the company.
+(3) Except in exceptional circumstances, an arbitral tribunal must award interest on any balance owing or excess to be paid under subsection (2).
+(4) If a balance is owing to the shareholder, an arbitral tribunal may award to the shareholder, in addition to or instead of an award of interest, damages for loss attributable to the shortfall in the initial payment.
+(5) Any sum that must be paid in accordance with this section must be paid no later than 10 days after the date of the arbitral tribunal’s determination, unless the arbitral tribunal specifically orders otherwise.
+(6) A submission to arbitration under this section is an arbitration agreement for the purposes of the Arbitration Act 1996, and the provisions of that Act apply accordingly.
+(7) Clause 6 of Schedule 2 of the Arbitration Act 1996 may not be excluded from the arbitration agreement, and the term ‘costs and expenses of an arbitration’ in that clause includes, where a balance is owing to the shareholder,—
+  (a) the reasonable legal costs of the shareholder on a solicitor-and-client basis; and
+  (b) the reasonable costs of expert witnesses.
+
+### 112B Interest payable on outstanding payments
+(1) Interest is payable on any sum that must be paid under section 112 or 112A that is outstanding after the date on which it falls due on the basis and at the rate that the arbitral tribunal thinks fit having regard to all of the circumstances.
+(2) The sum on which interest is payable under subsection (1) includes any interest or damages for loss awarded under section 112A.
+
+### 112C Timing of transfer of shares
+(1) On the day on which a board gives notice under section 111(2)(e) that the board agrees to the purchase of shares by the company,—
+  (a) the legal title to those shares passes to the company; and
+  (b) the rights of the shareholder in relation to those shares end.
+(2) However, for the purposes of sections 112 and 112A, shareholder and holder of the shares means the person who held the legal title to the shares immediately before the board gave notice under section 111(2)(e) that the board agrees to the purchase of those shares by the company.
+(3) Subsection (2) applies despite subsection (1).
 
 ### 113 Purchase of shares by third party
-(1) Section 112 of this Act applies to the purchase of shares by a person with whom the company has entered into an arrangement for purchase in accordance with section 111(2)(b) of this Act subject to such modifications as may be necessary, and, in particular, as if references in that section to the board and the company were references to that person.
+(1) Sections 112 to 112C apply to the purchase of shares by a person with whom the company has entered into an arrangement for purchase in accordance with section 111(2)(b) of this Act subject to such modifications as may be necessary, and, in particular, as if references in that section to the board and the company were references to that person.
 (2) Every holder of shares that are to be purchased in accordance with the arrangement is indemnified by the company in respect of loss suffered by reason of the failure by the person who has agreed to purchase the shares to purchase them at the price nominated or fixed by arbitration, as the case may be.
 
 ### 114 Court may grant exemption
@@ -1322,7 +1350,9 @@ A special meeting of shareholders entitled to vote on an issue—
   (b) In any other case, the shareholders referred to in subsection (1) of this section.
 (3A) Any resolution in writing under this section may consist of one or more documents in similar form (including letters, telegrams, cables, facsimiles, telex messages, electronic mail, or other similar means of communication) each signed or assented to by or on behalf of one or more of the shareholders specified in subsection (3).
 (4) It shall not be necessary for a company to hold an annual meeting of shareholders under section 120 of this Act if everything required to be done at that meeting (by resolution or otherwise) is done by resolution in accordance with subsections (2) and (3) of this section.
-(5) Within 5 working days of a resolution being passed under this section, the company must send a copy of the resolution to every shareholder who did not sign the resolution or on whose behalf the resolution was not signed.
+(5) Within 5 working days of a resolution being passed under this section, the company must send to every shareholder who did not sign the resolution or on whose behalf the resolution was not signed,—
+  (a) a copy of the resolution; and
+  (b) if the resolution was a special resolution required by section 106(1)(a) or (b), a statement setting out the rights of shareholders under section 110.
 (6) A resolution may be signed under subsection (1) or subsection (2) of this section without any prior notice being given to shareholders.
 (7) If a company fails to comply with subsection (5) of this section,—
   (a) The company commits an offence and is liable on conviction to the penalty set out in section 373(1) of this Act:
@@ -5839,7 +5869,8 @@ Section 9(5) of the Securities Transfer Act 1991 is hereby amended by inserting,
 (1) Written notice of the time and place of a meeting of shareholders must be sent to every shareholder entitled to receive notice of the meeting and to every director and an auditor of the company not less than 10 working days before the meeting.
 (2) The notice must state—
   (a) The nature of the business to be transacted at the meeting in sufficient detail to enable a shareholder to form a reasoned judgment in relation to it; and
-  (b) The text of any special resolution to be submitted to the meeting.
+  (b) The text of any special resolution to be submitted to the meeting; and
+  (c) in the case of special resolutions required by section 106(1)(a) or (b), the right of a shareholder under section 110.
 (3) An irregularity in a notice of a meeting is waived if all the shareholders entitled to attend and vote at the meeting attend the meeting without protest as to the irregularity, or if all such shareholders agree to the waiver.
 (3A) Subject to the constitution of the company, the accidental omission to give notice of a meeting to, or the failure to receive notice of a meeting by, a shareholder does not invalidate the proceedings at that meeting.
 (4) Subject to the constitution of the company, if a meeting of shareholders is adjourned for less than 30 days, it is not necessary to give notice of the time and place of the adjourned meeting other than by announcement at the meeting which is adjourned.
