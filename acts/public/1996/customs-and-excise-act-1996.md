@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2008-08-08_
+_Consolidation as at 2008-09-17_
 
 > An Act to—aReform the law relating to customs, excise, and other duties; andbProvide for the administration and enforcement of Customs controls at the border; andcRepeal the Customs Act 1966; anddProvide for related matters
 
@@ -2065,7 +2065,7 @@ The officer commanding or in charge of any craft in Her Majesty's service having
   - **further reasonable period** means a period no longer than is necessary in the circumstances for a Customs officer to do what is specified in subsection (1).
 
 ### 148B Detention of persons committing or about to commit certain offences
-(1) A Customs officer and, in the case of paragraph (b), a member of the police may detain a person who, the Customs officer or, if applicable, the member of the police believes on reasonable grounds is committing, or is about to commit, an offence under section 180 by,—
+(1) A Customs officer and, in the case of paragraph (b), a member of the police may detain a person who, the Customs officer or, if applicable, the member of the police believes on reasonable grounds is committing, or is about to commit, an offence under section 180 or 191(1)(e) by,—
   (a) if a craft has arrived at a nominated Customs place or a Customs controlled area within that place under section 24, leaving or boarding the craft without the authority of a Customs officer before an inward report is made under section 26 (in contravention of section 24(2)); or
   (b) if the person has arrived in New Zealand, not reporting forthwith to a Customs officer or a police station (in contravention of section 27(1)); or
   (c) if the person has arrived in New Zealand and reported to a Customs officer or a police station under section 27(1), leaving the Customs officer or police station to which he or she reported, despite a Customs officer or, if applicable, a member of the police requiring the person to remain for a reasonable time in order that the Customs officer or, if applicable, the member of police might exercise a power under this Act in relation to that person (in contravention of section 27(2)); or
@@ -2875,7 +2875,9 @@ For the purposes of this Act,—
   (e) Is knowingly concerned or conspires, in the removal from a Customs controlled area of goods (other than objectionable publications) the importation of which is prohibited by or under section 54; or
   (f) Commits a breach of, or fails to comply with, a term or condition on or subject to which a licence, permit, or consent has been granted, under an Order in Council made under section 54(2) or section 56(2) of this Act; or
   (g) Is knowingly concerned in a breach or failure to comply to which paragraph (f) of this subsection applies.
-(1A) Every person commits an offence who does any act referred to in paragraph (c) or paragraph (e) of subsection (1) in respect of an objectionable publication.
+(1A) Every person commits an offence who—
+  (a) is knowingly concerned in any importation, exportation, transportation, shipment, unshipment, or landing of an objectionable publication; or
+  (b) is knowingly concerned in the removal from a Customs controlled area of an objectionable publication or conspires to remove an objectionable publication from a Customs controlled area.
 (1B) In this section, objectionable publication means, as the case requires, a publication as defined in section 2 of the Films, Videos, and Publications Classification Act 1993—
   (a) the importation of which is prohibited by or under section 54; or
   (b) the exportation of which is prohibited by or under section 56.
