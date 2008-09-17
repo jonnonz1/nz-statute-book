@@ -1,5 +1,5 @@
 # Housing Corporation Act 1974
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-09-17_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Housing Corporation Act 1974.
@@ -60,7 +60,8 @@ The Corporation's objectives are—
     (i) exhibits a sense of social responsibility by having regard to the interests of the community in which it operates; and
     (ii) exhibits a sense of environmental responsibility by having regard to the environmental implications of its operations; and
     (iii) operates with good financial oversight and stewardship, and efficiently and effectively manages its assets and liabilities and the Crown's investment; and
-  (b) to ensure that the Minister of Housing receives appropriate policy advice, other advice, and information, on housing and services related to housing.
+  (b) to ensure that the Minister of Housing receives appropriate policy advice, other advice, and information, on housing and services related to housing; and
+  (c) to arrange for territorial authorities applying the Affordable Housing: Enabling Territorial Authorities Act 2008 to receive appropriate advice and information, of a policy or other nature, about housing and services related to housing.
 
 ### 3C Communication of the Crown's social objectives
 (1) To enable the Corporation to achieve the objective stated in section 3B(a) and to prepare its statements of intent, the Minister must, at least 2 months before the commencement of each financial year of the Corporation, give it written notice of the Crown's social objectives for the provision of housing and services related to housing by the Corporation.
