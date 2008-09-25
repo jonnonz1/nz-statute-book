@@ -1,5 +1,5 @@
 # Protection of Personal and Property Rights Act 1988
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2008-09-25_
 
 > An Act to provide for the protection and promotion of the personal and property rights of persons who are not fully able to manage their own affairs
 
@@ -62,7 +62,7 @@ Any one or more of the following persons may apply to a Court for the exercise o
   (c) A social worker:
   (d) A medical practitioner:
   (e) A representative of any group that is engaged, otherwise than for commercial gain, in the provision of services and facilities for the welfare of persons in relation to whom the Court has jurisdiction in accordance with section 6 of this Act:
-  (f) Where the exercise of the Court's jurisdiction is sought in respect of any person who is a patient or a resident in any hospital, home, or other institution, the superintendent, licensee, supervisor, or other person in charge of the hospital, home, or other institution:
+  (f) where the exercise of the Court's jurisdiction is sought in respect of any person who is a patient or a resident in any place that provides hospital care, rest home care, or residential disability care within the meaning of the Health and Disability Services (Safety) Act 2001, the principal manager of that place:
   (g) Where the exercise of the Court's jurisdiction is sought in respect of any person subject to a property order, the manager of that person's property:
   (h) Any other person, with leave of the Court.
 
@@ -222,7 +222,7 @@ Any one or more of the following persons may apply to a Court for the exercise o
   (d) A medical practitioner:
   (e) A trustee corporation:
   (f) A representative of any group that is engaged, otherwise than for commercial gain, in the provision of services and facilities for the welfare of persons in relation to whom the Court has jurisdiction under this Act in accordance with section 25 of this Act:
-  (g) Where the exercise of the Court's jurisdiction is sought in respect of any person who is a patient or a resident in any hospital, home, or other institution, the superintendent, licensee, supervisor, or other person in charge of the hospital, home, or other institution:
+  (g) where the exercise of the Court's jurisdiction is sought in respect of any person who is a patient or a resident in any place that provides hospital care, rest home care, or residential disability care within the meaning of the Health and Disability Services (Safety) Act 2001, the principal manager of that place:
   (h) Where a welfare guardian has been appointed for the person in respect of whom the application is made, that welfare guardian:
   (i) Any other person, with leave of the Court.
 
@@ -846,20 +846,90 @@ If it appears to the manager of a person subject to a property order in New Zeal
 
 ## Part 9 — Enduring powers of attorney
 
+### 93A Purpose of this Part
+(1) The purpose of this Part is to enable a person (the donor) to—
+  (a) grant to another person an enduring power of attorney to act in relation to the donor's personal care and welfare if the donor becomes mentally incapable:
+  (b) grant to another person or persons enduring powers of attorney to act in relation to the donor's property affairs—
+    (i) if the donor becomes mentally incapable; or
+    (ii) while the donor is mentally capable and if the donor becomes mentally incapable:
+  (c) grant to another person an enduring power of attorney to act in both capacities.
+(2) Accordingly, this Part—
+  (a) states the requirements for creating an enduring power of attorney:
+  (b) defines when a donor is mentally incapable for the purposes of this Part:
+  (c) states the duties of an attorney (in addition to those set out in the enduring power of attorney):
+  (d) sets out the Court's jurisdiction in respect of an enduring power of attorney:
+  (e) provides for the review by the Court of any decision of an attorney:
+  (f) establishes the circumstances in which an enduring power of attorney may be suspended or revoked.
+
+### 93B Presumption of competence
+(1) For the purposes of this Part, every person is presumed, until the contrary is shown,—
+  (a) to be competent to manage his or her own affairs in relation to his or her property:
+  (b) to have the capacity—
+    (i) to understand the nature of decisions about matters relating to his or her personal care and welfare; and
+    (ii) to foresee the consequences of decisions about matters relating to his or her personal care and welfare or of any failure to make such decisions; and
+    (iii) to communicate decisions about those matters.
+(2) A person must not be presumed to lack the competence described in subsection (1)(a) just because the person manages or intends to manage his or her own affairs in relation to his or her property in a manner that a person exercising ordinary prudence would not adopt in the same circumstances.
+(3) A person must not be presumed to lack the capacity described in subsection (1)(b) just because the person makes or intends to make a decision in relation to his or her personal care and welfare that a person exercising ordinary prudence would not make in the same circumstances.
+(4) A person must not be presumed to lack the competence described in subsection (1)(a) or, as the case may be, the capacity described in subsection (1)(b), just because the person is subject to compulsory treatment or has special patient status under the Mental Health (Compulsory Assessment and Treatment) Act 1992.
+
 ### 94 Interpretation
-(1) For the purposes of this Part of this Act, the donor of an enduring power of attorney is mentally incapable,—
-  (a) In relation to property, if the donor is not wholly competent to manage his or her own affairs in relation to his or her property; or
-  (b) In relation to personal care and welfare, if the donor—
-    (i) Lacks, wholly or partly, the capacity to understand the nature, and to foresee the consequences, of decisions in respect of matters relating to his or her personal care and welfare; or
-    (ii) Has the capacity to understand the nature, and to foresee the consequences, of decisions in respect of matters relating to his or her personal care and welfare, but wholly lacks the capacity to communicate decisions in respect of such matters.
-(2) Nothing in subsection (1) of this section shall affect any rule of law relating to capacity to give or to revoke a power of attorney.
+(1) For the purposes of this Part, the donor of an enduring power of attorney is mentally incapable in relation to property if the donor is not wholly competent to manage his or her own affairs in relation to his or her property.
+(2) For the purposes of this Part, the donor of an enduring power of attorney is mentally incapable in relation to personal care and welfare if the donor—
+  (a) lacks the capacity—
+    (i) to make a decision about a matter relating to his or her personal care and welfare; or
+    (ii) to understand the nature of decisions about matters relating to his or her personal care and welfare; or
+    (iii) to foresee the consequences of decisions about matters relating to his or her personal care and welfare or of any failure to make such decisions; or
+  (b) lacks the capacity to communicate decisions about matters relating to his or her personal care and welfare.
+(3) Nothing in subsection (1) or (2) affects any rule of law relating to capacity to give or to revoke a power of attorney.
+(4) In this Part—
+  - **health practitioner** —
+    (a) has the meaning given to it by section 5(1) of the Health Practitioners Competence Assurance Act 2003:
+    (b) in the case of a certificate of mental incapacity issued outside New Zealand, means a person registered as a medical practitioner by the competent authority of the State concerned
+  - **lawyer** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006
+  - **prescribed form** means a form prescribed by regulations under this Act
+  - **relevant health practitioner** means a health practitioner—
+    (a) whose scope of practice includes the assessment of a person's mental capacity; or
+    (b) whose scope of practice—
+      (i) includes the assessment of a person's mental capacity; and
+      (ii) is specified in the enduring power of attorney (for example, a specialist).
+
+### 94A Creation of enduring power of attorney
+(1) This section applies only to a power of attorney executed after the commencement of section 7 of the Protection of Personal and Property Rights Amendment Act 2007.
+(2) The instrument creating an enduring power of attorney—
+  (a) must be in the prescribed form; and
+  (b) must have attached to it the certificate referred to in subsection (7).
+(3) The instrument must be signed—
+  (a) by the donor, or by some other person in the presence of the donor and by the direction of the donor; and
+  (b) by the attorney (or if more than one, by each attorney).
+(4) The signature of the donor must be witnessed by a person who, subject to subsection (8), is independent of the attorney (or of each attorney) and who is—
+  (a) a lawyer; or
+  (b) an officer or employee of a trustee corporation authorised by the corporation for the purposes of this subsection; or
+  (c) a legal executive who meets the requirements of subsection (9).
+(5) The signature of an attorney must be witnessed by a person other than the donor or the donor's witness.
+(6) Before the donor signs the instrument, the witness to the donor's signature must explain the effects and implications of the enduring power of attorney to the donor, and advise the donor of—
+  (a) the matters referred to in the notes to the prescribed form of power of attorney:
+  (b) the donor's right to suspend or revoke the power of attorney:
+  (c) in the case of a power of attorney in relation to property,—
+    (i) the donor's right to appoint more than one attorney, or a trustee corporation, as attorney; and
+    (ii) the donor's right to stipulate whether and, if so, how the attorney's dealings with the donor's property are to be monitored.
+(7) The witness to the donor's signature must certify on the prescribed form that—
+  (a) the requirements of subsection (6) have been met; and
+  (b) the witness has no reason to suspect that the donor was or may have been mentally incapable at the time the donor signed the instrument; and
+  (c) the witness is independent of the attorney (or of each attorney) or that subsection (8)(a) or (b) applies.
+(8) Despite subsection (4),—
+  (a) if the attorney is a trustee corporation, an officer or employee of that corporation authorised by the corporation for the purposes of this subsection may witness the donor's signature:
+  (b) if the attorney is appointed in his or her capacity as a lawyer, another lawyer in the attorney's firm or a legal executive in that firm who meets the requirements of subsection (9) may witness the donor's signature.
+(9) A legal executive who witnesses the donor's signature—
+  (a) must be a member of the body that, immediately before the commencement of section 7 of the Protection of Personal and Property Rights Amendment Act 2007, was known as the New Zealand Institute of Legal Executives Inc; and
+  (b) must hold a current annual registration certificate issued by that body; and
+  (c) must have at least 12 months' experience as a legal executive; and
+  (d) must be employed by, and under the direct supervision of, a lawyer.
 
 ### 95 When power of attorney is an enduring power of attorney
-(1) Subject to the provisions of this section, a power of attorney is an enduring power of attorney if the instrument that creates the power—
-  (a) Is in a form set out in Schedule 3 to this Act; and
-  (b) Is signed by the donor, or by some other person in the presence of the donor and by the direction of the donor, whose signature is attested by a witness to the signing, not being the attorney; and
-  (c) Is signed by the attorney (or, if more than one, each attorney) whose signature is attested by a witness to the signing, not being the donor.
-(2) A power of attorney purporting to be an enduring power of attorney shall have effect notwithstanding that it is in a form different from a form set out in Schedule 3 to this Act, if, but only if, the differences are immaterial.
+(1) Except as otherwise provided in this section, a power of attorney that meets the requirements of section 94A is an enduring power of attorney.
+(2) A power of attorney purporting to be an enduring power of attorney has effect even though it is not in the prescribed form, but only if—
+  (a) no prescribed provision is substantially omitted; and
+  (b) the differences are immaterial.
 (3) A power of attorney shall not have effect as an enduring power of attorney unless the attorney, when signing the instrument creating it, is—
   (a) An individual who is not less than 20 years of age, is not bankrupt, and is not subject to a personal order or a property order; or
   (b) A trustee corporation.
@@ -874,13 +944,41 @@ An enduring power of attorney shall not be revoked by the donor's subsequent men
 (1) A donor of an enduring power of attorney may authorise the attorney to act generally in relation to the whole or a specified part of the donor's affairs in relation to his or her property, or to act in relation to specified things on the donor's behalf, and in either case such authorisation may be given subject to conditions and restrictions.
 (2) Where a donor of an enduring power of attorney authorises the attorney to act generally in relation to the whole or a specified part of the donor's affairs in relation to the donor's property, the attorney shall have authority to do anything on behalf of the donor that the donor can lawfully do by an attorney, but subject to sections 100 and 107 of this Act and to any conditions or restrictions contained in the enduring power of attorney.
 (3) Where a donor of an enduring power of attorney has become mentally incapable, the attorney shall be authorised to make an application under section 122 of the Land Transfer Act 1952 to have a transmission registered where the attorney believes that the donor is entitled to any estate or interest in land by virtue of that transmission, and a District Land Registrar is authorised to accept such an application notwithstanding the fact that the attorney is not the person claiming to be entitled to the estate or interest in land.
+(4) A donor of an enduring power of attorney may—
+  (a) authorise the enduring power of attorney to have effect while the donor is mentally capable and to continue to have effect if the donor becomes mentally incapable; or
+  (b) authorise the enduring power of attorney to have effect only if the donor becomes mentally incapable.
+(5) If subsection (4)(b) applies, the attorney must not act in relation to the donor's property unless a relevant health practitioner has certified, or the Court has determined, that the donor is mentally incapable.
+
+### 97A Exercise of enduring power of attorney in relation to property
+(1) This section applies to an attorney acting under an enduring power of attorney in relation to the donor's property if the donor of the power becomes mentally incapable.
+(2) The paramount consideration of the attorney is to use the donor's property in the promotion and protection of the donor's best interests, while seeking at all times to encourage the donor to develop the donor's competence to manage his or her own affairs in relation to his or her property.
+(3) This section applies regardless of whether the enduring power of attorney is of the type referred to in section 97(4)(a) or (b).
 
 ### 98 Enduring power of attorney in relation to personal care and welfare
 (1) Subject to subsections (3) and (4) of this section, a donor of an enduring power of attorney may authorise the attorney to act in relation to the donor's personal care and welfare, either generally or in relation to specific matters, and in either case such authorisation may be given subject to conditions and restrictions.
 (2) Notwithstanding section 95(3) of this Act, an enduring power of attorney may not appoint a trustee corporation to be an attorney, nor may it appoint more than one individual to be attorneys, to act in relation to the donor's personal care and welfare.
-(3) The attorney shall not act in relation to the donor's personal care and welfare unless the donor is mentally incapable.
+(3) The attorney—
+  (a) must not act in respect of a significant matter relating to the donor's personal care and welfare unless a relevant health practitioner has certified, or the Court has determined, that the donor is mentally incapable; and
+  (b) must not act in respect of any other matter relating to the donor's personal care and welfare unless the attorney believes on reasonable grounds that the donor is mentally incapable.
+(3A) For the purposes of subsection (3), a donor's mental capacity is determined—
+  (a) at the time a decision about the matter relating to the donor's personal care and welfare is being made or is proposed to be made; and
+  (b) in relation to the personal care and welfare matter concerned.
+(3B) Despite subsection (3A),—
+  (a) if the donor is certified as mentally incapable because of a health condition that is likely to continue indefinitely, no further certificates are required under subsection (3)(a) in relation to any further personal care and welfare matters:
+  (b) if the donor is certified as mentally incapable because of a health condition that is likely to continue for a period specified in the certificate, no further certificates are required under subsection (3)(a) in relation to any further personal care and welfare matters that arise during the specified period.
 (4) The attorney shall not act in respect of any matter relating to the donor's personal care and welfare where, if the attorney were the welfare guardian of the donor, the attorney would be denied the power to act by section 18 of this Act.
 (5) Subject to subsections (3) and (4) of this section, any action taken by the attorney in relation to the donor's personal care and welfare shall have the same effect as it would have had if it had been taken by the donor and the donor had had full capacity to take it.
+(6) In subsection (3)(a), a significant matter relating to the donor's personal care and welfare means a matter that has, or is likely to have, a significant effect on the health, wellbeing, or enjoyment of life of the donor (for example, a permanent change in the donor's residence, entering residential care, or undergoing a major medical procedure).
+
+### 98A Exercise of enduring power of attorney in relation to personal care and welfare
+(1) This section applies to an attorney acting under an enduring power of attorney in relation to the donor's personal care and welfare.
+(2) The paramount consideration of the attorney is the promotion and protection of the welfare and best interests of the donor, while seeking at all times to encourage the donor to develop and exercise his or her capacity to—
+  (a) understand the nature and foresee the consequences of decisions relating to his or her personal care and welfare; and
+  (b) communicate such decisions.
+(3) Without limiting the generality of subsection (2), the attorney must—
+  (a) encourage the donor to act on his or her own behalf to the greatest extent possible; and
+  (b) seek to facilitate the integration of the donor into the community to the greatest extent possible.
+(4) When deciding any matter relating to the donor's personal care and welfare, the attorney must give due consideration to the financial implications of that decision in respect of the donor's property.
 
 ### 99 Both kinds of powers may be given
 (1) Nothing in section 95 or section 97(1) or section 98(1) of this Act shall prevent a donor from—
@@ -888,10 +986,46 @@ An enduring power of attorney shall not be revoked by the donor's subsequent men
     (i) In relation to the whole or a specified part of the donor's affairs in relation to his or her property, or to act in relation to specified things on the donor's behalf; and
     (ii) In relation to the donor's personal care and welfare, either generally or in relation to specific matters; or
   (b) Giving an enduring power of attorney to any person or persons for the purposes described in subparagraph (i) of paragraph (a) of this subsection, and, whether in the same or in a separate document, to another person for the purposes described in subparagraph (ii) of that paragraph.
-(2) In any case to which subsection (1)(b) of this section applies, in the event of any conflict arising between the exercise of the powers of the attorney appointed for the purposes described in subparagraph (i) of paragraph (a) of subsection (1) of this section and the exercise of the powers of the attorney appointed for the purposes of subparagraph (ii) of that paragraph, the latter shall prevail unless a Court, on the application of either attorney, otherwise directs in any particular case.
+(2) If subsection (1)(b) applies, the attorney responsible for the donor's property must give the attorney responsible for the donor's personal care and welfare any financial support required by that attorney to carry out his or her duties in relation to the donor's personal care and welfare.
+(3) Subsection (2) is subject to—
+  (a) the enduring power of attorney; and
+  (b) any direction of the Court under section 101 made on the application of either attorney.
+
+### 99A Attorney's duty to consult
+(1) When acting under an enduring power of attorney, the attorney must, as far as is practicable, consult—
+  (a) the donor; and
+  (b) in relation to any particular matter, any person specified in the enduring power of attorney to be consulted, generally, in respect of matters of that kind, or in respect of that matter.
+(2) An attorney acting under an enduring power of attorney in relation to the donor's personal care and welfare may, subject to any consultation under subsection (1), have regard to any advance directive given by the donor except to the extent that the directive would require the attorney to act in a manner contrary to section 98(4).
+(3) The attorney may follow any advice given under subsection (1), or any advance directive given by the donor, and is not liable for anything done or omitted in following that advice or directive, unless done or omitted in bad faith or without reasonable care.
+(4) The attorney may apply to a court for directions under section 101 in respect of any advice given under subsection (1) or any advance directive given by the donor.
+(5) The attorney is not liable in respect of anything done or omitted to be done in accordance with the Court's directions.
+(6) Nothing in subsection (4) obliges the attorney to apply to a court for directions.
+(7) If a donor has, under an enduring power of attorney, appointed one attorney in relation to his or her property and another attorney in relation to his or her personal care and welfare, both attorneys must consult each other regularly to ensure that the donor's interests are not prejudiced through any breakdown in communication between them.
+
+### 99B Attorney must provide information on exercise of powers
+An attorney must promptly comply with any request for information relating to the exercise of the attorney's powers under the enduring power of attorney if—
+  (a) the person requesting the information is specified in the enduring power of attorney as a person to be provided with such information and the information requested is the kind of information specified in the enduring power of attorney to be provided to that person:
+  (b) the person requesting the information is a barrister or solicitor appointed under section 65 and the information requested is records of financial transactions that the attorney must keep under section 99C.
+
+### 99C Attorney as to property must keep records
+(1) An attorney under an enduring power of attorney in relation to a donor's property must keep records of each financial transaction entered into by the attorney under the enduring power of attorney while the donor is mentally incapable.
+(2) An attorney who fails without reasonable excuse to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $1,000.
+
+### 99D Medical certification of incapacity
+(1) A certificate of the donor's mental incapacity under this Part must be—
+  (a) in the prescribed form; or
+  (b) if the certificate is issued outside New Zealand, in a form acceptable to the competent authority of the State concerned.
+(2) The donor may specify in an enduring power of attorney that the assessment of his or her mental capacity for the purposes of this Part be undertaken by a health practitioner with a specified scope of practice, but only if the scope of practice specified includes the assessment of a person's mental capacity.
+(3) The cost of any medical assessment or examination reasonably required for the purpose of certifying whether the donor is mentally incapable under this Part is recoverable as a debt from the donor's property.
 
 ### 100 Enduring powers of attorney subject to personal order and property order
 Where an enduring power of attorney is given by a person who is or who subsequently becomes subject to a personal order or a property order, the order shall be binding on the attorney; and, in the event of any conflict arising between the powers and duties of the attorney and the terms of the order, the order shall prevail.
+
+### 100A Suspension of attorney's power to act
+(1) A donor of an enduring power of attorney who has been, but is no longer, mentally incapable may suspend the attorney's authority to act under the enduring power of attorney by giving written notice to the attorney.
+(2) An attorney whose authority is suspended may not act under the enduring power of attorney unless a relevant health practitioner has certified, or the Court has determined, that the donor is mentally incapable.
+(3) The suspension does not revoke the enduring power of attorney.
+(4) Nothing in this section affects the donor's right to revoke the enduring power of attorney while the donor is mentally capable.
 
 ### 101 Attorney may seek directions from Court
 (1) The attorney under an enduring power of attorney may apply to a Court for directions relating to the exercise of the attorney's powers.
@@ -909,35 +1043,89 @@ Where an enduring power of attorney is given by a person who is or who subsequen
     (ii) The rendering of accounts by the attorney and the production of the records kept by the attorney for the purpose; or
     (iii) The remuneration or expenses of the attorney, whether or not in default of or in accordance with any provision made by the instrument, including directions for the repayment of excessive, or the payment of additional, remuneration; or
     (iv) Any matter relating to the personal care and welfare of the donor:
-    (v) Any other matter on which the directions of the Court are sought under section 99(2) or section 101 of this Act:
+    (v) Any other matter on which the directions of the Court are sought under section 101 of this Act:
   (d) Modify the scope of the enduring power of attorney by including or excluding—
     (i) Part of the donor's affairs in relation to his or her property, or any powers relating to any such affairs; or
     (ii) Any specific matters in relation to the donor's personal care and welfare, or any powers relating to any such matters, not being a matter referred to in section 98(4) of this Act:
   (e) Require the attorney to furnish information or produce documents or things in his or her possession as attorney:
   (f) Give any consent or authorisation to act that the attorney would have to obtain from the donor if the donor were mentally capable:
   (g) Authorise the attorney to act, otherwise than in accordance with section 107 of this Act, to the benefit of the attorney or persons other than the donor, but subject to any conditions or restrictions contained in the instrument:
+  (ga) authorise the attorney to make any loan or advance of the donor's property subject to—
+    (i) any conditions that the Court considers appropriate; and
+    (ii) any conditions or restrictions contained in the instrument:
   (h) Determine whether the donor of the power was induced by undue influence or fraud to create the power:
   (i) Determine whether, having regard to all the circumstances and, in particular, the attorney's relationship with the donor, the attorney is suitable to be the donor's attorney.
+  (j) authorise an attorney acting under an enduring power of attorney in relation to a donor's property to execute a will for and on behalf of the donor if the Court is satisfied that—
+    (i) the donor lacks testamentary capacity; and
+    (ii) there is no express provision to the contrary in the enduring power of attorney.
+(2A) For the purposes of any application for the exercise of the Court's jurisdiction under subsection (2)(j), section 55 applies as if every reference to a manager were a reference to the attorney, and every reference to a person subject to a property order were a reference to the donor.
 (3) Nothing in the foregoing provisions of this section shall limit or affect the jurisdiction of any other court.
 
+### 102A Persons who may apply for exercise of Court's jurisdiction
+An application to a court for the exercise of its jurisdiction under section 102 or 105 may be made by—
+  (a) any person listed in section 103(1); or
+  (b) any other person with the leave of the Court.
+
 ### 103 Review of attorney's decisions
-(1) The donor of an enduring power of attorney, and any other person with leave of the Court, may at any time apply to a Court to review any decision made by the attorney while the donor is or was mentally incapable, and the Court may, if it thinks it reasonable to do so in all the circumstances, review the decision and make such order as it thinks fit.
-(2) An order made under subsection (1) of this section shall have effect according to its tenor.
+(1) Any of the following people may at any time apply to a court to review any decision made by an attorney acting under an enduring power of attorney while the donor is or was mentally incapable:
+  (a) the donor of the enduring power of attorney:
+  (b) a relative or attorney of the donor (not being the attorney whose decision is sought to be reviewed):
+  (c) a social worker:
+  (d) a medical practitioner:
+  (e) a trustee corporation:
+  (f) if the donor is a patient or a resident in any place that provides hospital care, rest home care, or residential disability care within the meaning of the Health and Disability Services (Safety) Act 2001, the principal manager of that place:
+  (g) any welfare guardian who has been appointed for the donor:
+  (h) a person authorised by a body or organisation contracted by the Government to provide elder abuse and neglect prevention services.
+(2) Any other person may apply for a review if the Court gives leave to do so.
+(3) For the avoidance of doubt, an application for review may be made while the enduring power of attorney is in force or after it is revoked by the death of the donor or otherwise.
+(4) The Court may, if it thinks it reasonable to do so in all the circumstances, review the decision and make any order it thinks fit.
+(5) An order under subsection (4) has effect according to its tenor.
+
+### 103A Validity of actions under power of attorney not meeting requirements of section 94A or 95
+The fact that a power of attorney is not an enduring power of attorney because of any failure to meet the requirements of section 94A or 95 does not affect the validity of—
+  (a) any act of the attorney done under the power of attorney in good faith with no knowledge of the failure; or
+  (b) any transaction entered into by the attorney under the power of attorney if the other party to the transaction entered into it in good faith and with no knowledge of the failure.
+
+### 103B Effect of attorney's decision on third parties
+A person dealing with an attorney acting under an enduring power of attorney in respect of any matter within the power of attorney—
+  (a) does not have to inquire about the concurrence or otherwise of the donor or any other person; and
+  (b) is not affected by notice that the donor or any other person has not concurred.
+
+### 103C Effect of attorney's actions, etc, before notice of revocation or suspension received
+(1) This section applies, instead of section 20(1) to (4) of the Property Law Act 2007, to enduring powers of attorney executed before or after the commencement of section 18 of the Protection of Personal and Property Rights Amendment Act 2007, but subject to section 20(5)(b) of the Property Law Act 2007.
+(2) An enduring power of attorney continues in force until notice of an event revoking the power is received by the attorney.
+(3) The authority of an attorney to act under an enduring power of attorney continues in force until notice suspending that authority is received by the attorney.
+(4) Every act or thing within the scope of the enduring power of attorney done by or to the attorney in good faith before he or she receives notice of any event revoking the power of attorney has effect as if the event had not occurred.
+(5) Every act or thing within the scope of an enduring power of attorney done by or to the attorney in good faith before he or she receives notice that his or her authority to act under the power of attorney is suspended has effect as if the authority were not suspended.
+(6) A person dealing with the attorney may rely on a certificate of non-revocation and non-suspension of the enduring power of attorney in the prescribed form as conclusive proof of the non-revocation and non-suspension of the power of attorney as at the date of the certificate if—
+  (a) the person—
+    (i) is dealing with the attorney in good faith; and
+    (ii) does not have actual knowledge that an event revoking the power of attorney has occurred, or that the attorney's authority to act under it has been suspended; and
+  (b) the certificate—
+    (i) is signed by the attorney or, if the attorney is a corporation, an officer or employee of the corporation authorised by the corporation for the purposes of this subsection; and
+    (ii) is given immediately before, or any time after, the doing of a thing by the attorney.
+(7) A person who knowingly gives a false certificate commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(8) An event revoking the power of attorney means any event described in section 106(1) in which the enduring power of attorney ceases to have effect.
 
 ### 104 Disclaimer by attorney
 (1) An attorney under an enduring power of attorney may not disclaim that power otherwise than by notice given as follows:
   (a) Where the donor is not mentally incapable, by written notice to the donor:
   (b) Where the donor is mentally incapable, by filing a notice in a Court.
-(2) If, in any case to which subsection (1)(b) of this section applies, the attorney considers that it may be desirable in the interests of the donor that a welfare guardian be appointed under Part 1 of this Act in respect of the donor's personal care and welfare, or that a manager be appointed under Part 3 of this Act in respect of any property owned by the donor, the attorney may attach a report to that effect to the notice filed in the Court.
-(3) On receiving a report under subsection (2) of this section, the Registrar shall refer the matter to a Judge who may give to the Registrar all such directions as the Judge considers appropriate to have the matter drawn to the attention of such person or persons described in section 7 or section 26 of this Act as the Judge thinks fit.
+(2) If the donor is mentally incapable, the attorney must file with the notice a report stating—
+  (a) that the attorney considers it is in the interests of the donor that a welfare guardian be appointed in relation to the donor's personal care and welfare, or a property manager be appointed in relation to the donor's property; or
+  (b) that the attorney considers it is not necessary that a welfare guardian or property manager be appointed, and why the attorney considers it not necessary.
+(3) On receiving a report under subsection (2) of this section, the Registrar shall refer the matter to a Judge who may give to the Registrar all such directions as the Judge considers appropriate to have the matter drawn to the attention of such person or persons described in section 103 as the Judge thinks fit.
 
 ### 105 Court may revoke appointment of attorney
-(1) Where a Court is satisfied that an attorney appointed under an enduring power of attorney has not acted, is not acting, or proposes not to act in the best interests of the donor of that power, the Court may revoke the appointment of the attorney.
+(1) The Court may, in any proceeding commenced under section 101, 102A, or 103, revoke the appointment of an attorney under an enduring power of attorney if it is satisfied that the attorney—
+  (a) is not acting, or proposes not to act, in the best interests of the donor; or
+  (b) is failing, or has failed, to comply with any of the attorney's obligations under section 99A or 99B, or proposes not to comply with any of those obligations.
+(1A) In any proceedings commenced under section 101 or 102, the Court may revoke the appointment of an attorney under an enduring power of attorney only on the motion of the donor or a party to the proceeding other than the attorney.
 (2) Where a Court under paragraph (h) or paragraph (i) of section 102(2) of this Act determines that the donor of an enduring power of attorney was induced by undue influence or fraud to create the power or that the attorney is not suitable to be the donor's attorney, the Court shall revoke the appointment of the attorney.
 
 ### 106 Circumstances in which enduring power of attorney shall cease to have effect
 (1) An enduring power of attorney shall cease to have effect when—
-  (a) The donor revokes the power while mentally capable of doing so; or
+  (a) The donor, by notice in writing to the attorney, revokes the power while mentally capable of doing so; or
   (b) The donor dies; or
   (c) The attorney gives notice of disclaimer in accordance with section 104 of this Act; or
   (d) The attorney dies, or is adjudged bankrupt, or becomes a special or committed patient under the Mental Health Act 1969, or becomes subject to a personal order or a property order, or otherwise becomes incapable of acting; or
@@ -946,16 +1134,40 @@ Where an enduring power of attorney is given by a person who is or who subsequen
 (2) In any case where the enduring power of attorney provides for successive attorneys, the appointment of one being conditional upon the cessation of the appointment of another, the provisions of paragraphs (c) to (f) of subsection (1) of this section shall apply only in respect of the last such attorney.
 
 ### 107 Attorney's power to benefit self and others
-(1) Subject to the terms of, and any conditions or restrictions in, an enduring power of attorney, at any time while the donor is mentally incapable the attorney may act to the benefit of the attorney or persons other than the donor if, but only if, and only to the extent that, the donor might be expected to provide for the needs of the attorney or those other persons.
-(2) Without limiting the generality of subsection (1) of this section, but subject to the terms of, and any conditions or restrictions in, the enduring power of attorney, the attorney may dispose of the property of the donor by way of gift if, but only if, the gift is—and the value of the gift is not unreasonable having regard to all the circumstances and, in particular, the size of the donor's estate.
-  (a) Of a seasonal nature or at a time or an anniversary of a birth or marriage or civil union to a person (including the attorney) who is a relative of the donor; or
-  (b) To a charity to which the donor made or might be expected to make gifts,—
+(1) An attorney under an enduring power of attorney must not, at any time while the donor is mentally incapable, act to the benefit of the attorney or of a person other than the donor, or recover any expenses from the donor's property, unless and only to the extent that—
+  (a) the donor has specified a power to so act in the enduring power of attorney; or
+  (b) the Court authorises the attorney to so act in an order under section 102(2)(g) or (ga); or
+  (c) the attorney's actions relate to one or more of the following matters and the enduring power of attorney does not expressly provide otherwise:
+    (i) if the attorney and donor are married to, or in a civil union or de facto relationship with, each other, and are living together and sharing their incomes, any action taken by the attorney in respect of real or personal property that the donor and the attorney own jointly and not as tenants in common:
+    (ii) any payments of a kind described in subsection (2):
+    (iii) if acting under an enduring power of attorney in relation to the donor's property, any loan or advance or other investment of the donor's property that a trustee could make of trust funds under section 13A of the Trustee Act 1956.
+(2) The payments referred to in subsection (1)(c)(ii) are payments (being payments for which receipts or other evidence are provided by the attorney) of—
+  (a) out-of-pocket expenses (other than lost wages or remuneration) reasonably incurred by an attorney; or
+  (b) professional fees and expenses reasonably incurred by an attorney who—
+    (i) has accepted appointment in a professional capacity; or
+    (ii) has undertaken work in any professional capacity to give effect to the decisions taken under the enduring power of attorney.
 
 ### 108 Procedure
 For the purpose of proceedings under this Part of this Act, the provisions of Part 6 (except section 64), and sections 83 to 85 of this Act, so far as they are applicable and with any necessary modifications, shall apply as if the donor were a person in respect of whom an application for a personal order or a property order was being sought or in respect of whom such an order had been made, subject to the following provisions:
   (a) Where the application for the exercise of the Court's jurisdiction is made by any person other than the attorney, a copy of the application shall be served on the attorney (as well as the persons listed in section 63(1) of this Act):
   (b) Where a donor has given 2 or more enduring powers of attorney and it is intended to apply to the Court under this Part of this Act in respect of any 2 or more of those powers, the applications may be joined, and, subject to any rules of Court, it shall not be necessary to file separate applications:
   (c) A Court may hear and determine any proceedings before it under this Part of this Act in conjunction with any other proceedings under this or any other Part of this Act in any case where both proceedings are in respect of the same person, whether or not the parties to the proceedings are the same.
+
+### 108AA Enduring powers of attorney created before Protection of Personal and Property Rights Amendment Act 2007
+(1) In this section, commencement date means the commencement date of section 23 of the Protection of Personal and Property Rights Amendment Act 2007.
+(2) If an enduring power of attorney is executed but not effective before the commencement date,—
+  (a) section 94A does not apply to it; and
+  (b) section 95(1) and (2) (as it reads before the commencement date) continue to apply to the enduring power of attorney.
+(3) If an enduring power of attorney is effective before the commencement date,—
+  (a) sections 94A and 107 do not apply to it; and
+  (b) sections 95(1), (2), and 107 (as they read before the commencement date) continue to apply to the enduring power of attorney.
+
+### 108AAB Review of Protection of Personal and Property Rights Amendment Act 2007
+(1) The Minister of State for the time being responsible for senior citizens must, as soon as practicable, 5 years after the commencement of section 23 of the Protection of Personal and Property Rights Amendment Act 2007,—
+  (a) review the effectiveness of the amendments to this Act made by the Protection of Personal and Property Rights Amendment Act 2007; and
+  (b) consider whether any amendments to this Act are necessary or desirable; and
+  (c) prepare a report on the findings.
+(2) The Minister must present a copy of the report to the House of Representatives no later than 6 years after the commencement of section 23 of the Protection of Personal and Property Rights Amendment Act 2007.
 
 ## Part 9A — Payment of money or damages
 
