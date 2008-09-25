@@ -1,5 +1,5 @@
 # Summary Offences Act 1981
-_Consolidation as at 2008-06-26_
+_Consolidation as at 2008-09-25_
 
 > An Act to reform and restate the law relating to summary offences, and to replace the Police Offences Act 1927 and its amendments
 
@@ -23,6 +23,11 @@ _Consolidation as at 2008-06-26_
   - **Prison officer** means an officer within the meaning of section 3(1) of the Corrections Act 2004; and includes a security officer within the meaning of that section
   - **Public place** means a place that, at any material time, is open to or is being used by the public, whether free or on payment of a charge, and whether any owner or occupier of the place is lawfully entitled to exclude or eject any person from that place; and includes any aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle carrying or available to carry passengers for reward
   - **Serious drug offence** means an offence against any of the provisions listed in Schedule 4
+  - **shop** means a building, place, or part of a building or place, where goods are sold by retail, or kept or offered for sale by retail; and—
+    (a) includes—
+      (i) an auction mart; and
+      (ii) a barrow, stall, or other subdivision of a market; but
+    (b) does not include a building, place, or part of a building or place, where the only business carried on is that of selling goods to people who are dealers, and buy the goods to sell them again
   - **spraycan** means a container (made of any material or materials) that—
     (a) contains paint, dye, ink, or some other pigment; and
     (b) is so designed that the pigment it contains can be propelled from it (whether by a compressed or liquefied gas, or by mechanical means)
@@ -187,6 +192,16 @@ Every person is liable to imprisonment for a term not exceeding 3 months or a fi
     (ii) an overseas passport; or
     (iii) a driver licence issued under the Land Transport Act 1998; or
     (iv) a document of the kind described in section 2A(2)(d) of the Sale of Liquor Act 1989.
+
+### 14B Access to spraycans in shops to be restricted
+(1) This subsection applies to a spraycan if—
+  (a) it is kept for sale in a part of a shop to which members of the public have access; and
+  (b) it is not—
+    (i) under the physical control of the occupier of the shop, or an agent or employee of the occupier; or
+    (ii) under the physical control of a potential buyer who is being directly supervised by the occupier of the shop, or an agent or employee of the occupier; and
+  (c) the shop is open to the public.
+(2) The occupier of a shop must ensure that every spraycan in the shop to which subsection (1) applies is stored in such a way that members of the public cannot obtain possession of it without the help of the occupier, or an agent or employee of the occupier.
+(3) The occupier of a shop who fails or refuses to comply with subsection (2) is liable to a fine not exceeding $1,500.
 
 ## Part  — Offences Resembling Forgery or Fraud
 
