@@ -1,5 +1,5 @@
 # Property Law Act 2007
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2008-09-25_
 
 ### 1 Title
 This Act is the Property Law Act 2007.
@@ -328,6 +328,9 @@ A disclaimer of land is not valid unless it is made by deed or by order of a cou
       (B) if the attorney is a body corporate, a director or officer of the body corporate or a person acting on behalf of the body corporate in another capacity; and
     (ii) is given immediately before, or at any time after, the doing of a thing by the attorney.
 (4) A person who knowingly gives a false certificate under subsection (3) commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+(5) If the power of attorney is an enduring power of attorney within the meaning of Part 9 of the Protection of Personal and Property Rights Act 1988,—
+  (a) section 103C of that Act applies to it instead of subsections (1) to (4); but
+  (b) if a certificate of non-revocation of the power of attorney was given in respect of the enduring power of attorney before the commencement of section 18 of the Protection of Personal and Property Rights Amendment Act 2007, subsections (1) to (4) of this section apply to the certificate instead of section 103C of the Protection of Personal and Property Rights Act 1988.
 
 ### 21 Irrevocable powers of attorney
 (1) Subsections (2) and (3) apply in favour of a purchaser.
@@ -1705,11 +1708,11 @@ If a person became a mortgagee in possession of mortgaged property before 1 Janu
 (1) If, under a mortgage and subpart 5, a mortgagee or receiver becomes entitled to exercise a power to sell mortgaged property, the sale—
   (a) may relate to the whole or any part of the property:
   (b) may be subject to, or free of, any mortgage or other encumbrance having priority over the mortgagee’s mortgage:
-  (c) may be in one lot or in separate lots:
+  (c) may be in 1 lot or in separate lots:
   (d) in the case of mortgaged land, may be by way of subdivision or otherwise:
   (e) may, except in the case of a sale of land through the Registrar under section 187, be by public auction or by private contract:
   (f) may, except in the case of a sale of land through the Registrar under section 187, be with or without reserve:
-  (g) may be for a purchase price payable in one sum or by instalments:
+  (g) may be for a purchase price payable in 1 sum or by instalments:
   (h) may be subject to any other conditions that the mortgagee or receiver thinks fit.
 (2) The mortgagee or receiver may cancel a contract for the sale of the mortgaged property and resell the property without being liable for any loss on resale.
 (3) Subsection (2) is subject to section 19 of the Receiverships Act 1993 or section 176(1), as the case requires.
@@ -2635,7 +2638,7 @@ A term has no effect if it—
 
 ## Part 5 — Covenants, easements, profits, and access lots
 
-### Subpart 1 — Covenants: Nature and effect
+### Subpart 1 — Covenants: nature and effect
 
 ### 275 Sections 276 to 278 apply to covenants express or implied
 Sections 276 to 278 apply not only to covenants expressed in an instrument, but also to covenants implied, by this Act or any other enactment, in an instrument or in a short-term lease not made in writing.
@@ -2817,7 +2820,7 @@ In sections 293 to 296, easement includes a profit à prendre or other incorpore
 (2) Unless otherwise provided, the easement continues for the benefit of the person entitled, even though any buildings erected on the benefited land may be altered, or may be destroyed and replaced by other buildings.
 (3) A right conferred by the easement in respect of the defined area is not infringed by the erection on the burdened land of buildings of any height if no part of any building erected on that land encroaches on that area.
 
-### Subpart 4 — Covenants: Operation
+### Subpart 4 — Covenants: operation
 
 ### 301 Construction of covenants relating to land: benefits
 (1) This section applies to a covenant benefiting land of the covenantee, whether expressed in an instrument or implied by this Act or any other enactment in an instrument, and whether a positive covenant or a restrictive covenant.
@@ -2880,7 +2883,7 @@ Section 303 does not limit or affect the following:
 (5) Notification of a covenant under subsection (3) makes the covenant an interest of the kind specified in subsection (4), but does not in any other way give the covenant any greater operation than it would otherwise have.
 (6) Covenant, in subsections (4) and (5), includes an instrument purporting to modify the operation, and a modification or revocation, of a covenant notified under subsection (3)(a).
 
-### Subpart 5 — Easements, covenants, and access lots: Enforcement, modification, and extinguishment
+### Subpart 5 — Easements, covenants, and access lots: enforcement, modification, and extinguishment
 
 **Enforcement of covenants by giving notice of work required**
 
@@ -3325,7 +3328,7 @@ The purpose of this subpart is to enable a court to order that property acquired
 (1) A court may make an order under this section—
   (a) on an application for the purpose (made and served in accordance with section 347); and
   (b) if satisfied that the applicant for the order has been prejudiced by a disposition of property to which this subpart applies.
-(2) The order must do one, but not both, of the following:
+(2) The order must do 1, but not both, of the following:
   (a) vest the property that is the subject of the disposition in the person (for any applicable purpose) specified in section 350:
   (b) require a person who acquired or received property through the disposition to pay, in respect of that property, reasonable compensation to the person (for any applicable purpose) specified in section 350.
 (3) If the order does what is specified in subsection (2)(a), it may also require a person who acquired or received property through the disposition to physically restore some or all of that property that is tangible personal property to 1 or more persons specified in the order.
@@ -3483,7 +3486,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
 
 ### 365 Imperial enactments relating to property no longer part of law of New Zealand
 (1) The enactments to which this section applies cease to have effect as part of the law of New Zealand.
-(2) This section applies to the enactments specified under the heading Enactments Relating to Property in Schedule 1 of the Imperial Laws Application Act 1988, namely—
+(2) This section applies to the enactments specified under the heading Enactments relating to property in Schedule 1 of the Imperial Laws Application Act 1988, namely—
   (a) (1267) 52 Hen 3 (The Statute of Marlborough), c 23:
   (b) (1289–90) 18 Edw 1, St 1—(Quia Emptores), c 1, c 3:
   (c) (1539) 31 Hen 8, c 1—The Partition Act 1539:
@@ -3496,7 +3499,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (j) (1737) 11 Geo 2, c 19—The Distress for Rent Act 1737: sections 1, 2, 7, 8, 11, 14, 16, and 17:
   (k) (1832) 2 and 3 Will 4, c 71—The Prescription Act 1832: sections 1, 2, and 4 to 8:
   (l) (1851) 14 and 15 Vict, c 25—The Landlord and Tenant Act 1851: sections 1 to 4.
-(3) This section also applies to the following enactments specified under the heading Other Enactments in Schedule 1 of the Imperial Laws Application Act 1988:
+(3) This section also applies to the following enactments specified under the heading Other enactments in Schedule 1 of the Imperial Laws Application Act 1988:
   (a) (1774) 14 Geo 3, c 78—The Fires Prevention (Metropolis) Act 1774: section 83, and section 86 [as amended by the Statute Law Revision Act 1861 (24 and 25 Vict c 101)]:
   (b) (1828) 9 Geo 4, c 14—The Statute of Frauds Amendment Act 1828: section 6.
 (4) Schedule 1 of the Imperial Laws Application Act 1988 is consequentially amended by repealing the heading referred to in subsection (2) and so much of that schedule as relates to the enactments to which this section applies, and the following are consequentially repealed:
@@ -3547,7 +3550,7 @@ Until the commencement of section 13 of the Insolvency (Cross-border) Act 2006, 
 
 ## Schedule 1 — Form of certificate of non-revocation of power of attorney
 
-| *Delete if inapplicable**If donor is a body corporate, state place of registered office or principal place of business of donor and, if that is not in New Zealand, state the country in which the principal place of business is situated.***Include if donor is a body corporate. |
+| *Delete if inapplicable.**If donor is a body corporate, state place of registered office or principal place of business of donor and, if that is not in New Zealand, state the country in which the principal place of business is situated.***Include if donor is a body corporate. |
 | --- |
 
 ## Schedule 2 — Covenants implied in mortgages
@@ -4050,7 +4053,7 @@ A conveyance of land without words of limitation passes the fee simple or other 
   - **grantee** includes the grantee’s assigns.
 
 ### 8 Form of mortgage
-(1) Mortgages of land may be made by an ordinary conveyance by way of mortgage or in the following form:Mortgage of Land(a)Mortgagor: [full name, place of residence, and occupation of mortgagor or mortgagors](b)Estate: [freehold in fee simpleor leasehold, as the case may be](c)Land: [full description, with plan, of the land to be mortgaged](d)Mortgagee: [full name, place of residence, and occupation of mortgagee or mortgagees](e)Principal sum: [amount](f)Date of advance: [date](g)Rate of interest: [rate (if any) agreed upon](h)How interest payable: [yearly, half-yearly, quarterly, and date or dates for payment, or otherwise, as the case may be](i)How and when principal sum to be repaid: [date and mode of payment agreed upon].And for the better securing to the mortgagee the payment of the principal sum, interest and other money, I [or we] mortgage to the mortgagee all my [or our] estate and interest in the land.Signed at, thisday of [month], [year][signature or signatures]Mortgagor [or Mortgagors]Signed by [name of mortgagor or mortgagors] as mortgagor[s], in the presence of:[signature of witness][place of residence][occupation]
+(1) Mortgages of land may be made by an ordinary conveyance by way of mortgage or in the following form:Mortgage of Land(a)Mortgagor: [full name, place of residence, and occupation of mortgagor or mortgagors](b)Estate: [“freehold in fee simple” or “leasehold”, as the case may be](c)Land: [full description, with plan, of the land to be mortgaged](d)Mortgagee: [full name, place of residence, and occupation of mortgagee or mortgagees](e)Principal sum: [amount](f)Date of advance: [date](g)Rate of interest: [rate (if any) agreed upon](h)How interest payable: [“yearly”, “half-yearly”, “quarterly”, and date or dates for payment, or otherwise, as the case may be](i)How and when principal sum to be repaid: [date and mode of payment agreed upon].And for the better securing to the mortgagee the payment of the principal sum, interest and other money, I [or we] mortgage to the mortgagee all my [or our] estate and interest in the land.Signed at, thisday of [month], [year][signature or signatures]Mortgagor [or Mortgagors]Signed by [name of mortgagor or mortgagors] as mortgagor[s], in the presence of:[signature of witness][place of residence][occupation]
 (2) A mortgage in the form set out in subclause (1)—
   (a) is to be treated as a charge on the land; and
   (b) may be registered accordingly.
