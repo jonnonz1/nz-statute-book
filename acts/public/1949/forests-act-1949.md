@@ -1,5 +1,5 @@
 # Forests Act 1949
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2008-09-26_
 
 > An Act to consolidate and amend the law relating to forestry
 
@@ -669,14 +669,19 @@ In this Part, unless the context otherwise requires,—
   (h) establish penalties for breaches of a forest sink covenant:
   (i) prescribe any forms required to facilitate the framework specified in paragraph (a):
   (j) prescribe procedures and requirements relating to the selection, appointment, and performance of persons who carry out functions in relation to a forest sink covenant:
+  (ja) prescribe the persons or organisations, or classes of persons or organisations, who have been recognised under section 92 of the Climate Change Response Act 2002 as being able to carry out verification functions under that Act, and who may carry out verification functions in relation to a forest sink or forest sink covenant:
   (k) prescribe records, returns, or information in relation to a forest sink covenant that a person or class of persons must keep or provide to the Minister:
   (l) prescribe requirements, including (but not limited to) ongoing obligations, or criteria for a landowner to provide a guarantor or insurer, or any other risk management arrangement that the Minister considers appropriate, to meet any obligations of the landowner under the Act or the forest sink covenant in the event of the landowner's default.
 (2) Without limiting subsection (1)(a), the framework may permit the Minister, on behalf of the Crown, to negotiate, and enter into, a forest sink covenant.
+(2A) Regulations made under subsection (1)(b) may incorporate by reference any relevant—
+  (a) methodologies prescribed in regulations made under section 163(1)(b) of the Climate Change Response Act 2002; or
+  (b) guidelines or standards issued under regulations made under section 163(1)(d) of the Climate Change Response Act 2002.
 (3) Despite subsection (1)(h), a penalty—
   (a) may only be imposed in respect of the proportion of forest on land subject to a forest sink covenant that is harvested in breach of the covenant; and
   (b) may not exceed the sum of—
     (i) all units received in respect of that proportion of the forest (or their monetary equivalent); and
     (ii) any additional units calculated on the basis of an annual compounding rate of 10% applied to each year's carbon sequestration from that proportion of the forest for the period beginning on the date that the covenant came into force and ending on the date that the breach occurred (or their monetary equivalent).
+(3A) Regulations made under subsection (1)(k) may incorporate by reference any form or format for a record, return, or information prescribed under section 80, or in regulations made under section 168(1)(k) of the Climate Change Response Act 2002 or in any guidelines or standards issued under regulations made under section 163(1)(d) of that Act.
 (4) However, nothing in this Part requires the Minister to negotiate, enter into, or enforce any provisions of, any forest sink covenant.
 
 ### 67Z Content of forest sink covenants
