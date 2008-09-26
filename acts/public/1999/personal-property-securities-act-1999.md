@@ -1,7 +1,7 @@
 # Personal Property Securities Act 1999
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2008-09-26_
 
-> An Act to reform the law relating to security interests in personal property and, in particular,—aTo provide for the creation and enforceability of security interests in personal property; andbTo provide for the determination of priority between security interests in the same personal property; andcTo provide for the determination of priority between security interests and other types of interests in the same personal property; anddTo provide for the enforcement of security interests in personal property other than consumer goods; andeTo provide for the establishment of a register of security interests in personal property
+> An Act to reform the law relating to security interests in personal property and, in particular,—ato provide for the creation and enforceability of security interests in personal property; andbto provide for the determination of priority between security interests in the same personal property; andcto provide for the determination of priority between security interests and other types of interests in the same personal property; anddto provide for the enforcement of security interests in personal property other than consumer goods; andeto provide for the establishment of a register of security interests in personal property
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Personal Property Securities Act 1999.
@@ -12,52 +12,52 @@ _Consolidation as at 2008-01-01_
 
 ### 2 Purpose of this Part
 This Part is intended—
-  (a) To give a general indication of what the Act is about:
-  (b) To indicate how the Act is arranged:
-  (c) To assist readers to identify the provisions that are relevant to them.
+  (a) to give a general indication of what the Act is about:
+  (b) to indicate how the Act is arranged:
+  (c) to assist readers to identify the provisions that are relevant to them.
 
 ### 3 Status of this Part
 This Part is only a guide to the general scheme and effect of the Act.
 
 ### 4 What this Act is about
-This Act mainly relates to—The enforceability of an interest in personal property created or provided for by a transaction that secures payment of money or performance of an obligation; the interest is called a security interest:How to determine the priority between security interests in the same personal property:How to determine the priority between a security interest and another type of interest (for example, the interest of a buyer of goods) in the same personal property.
+This Act mainly relates to—the enforceability of an interest in personal property created or provided for by a transaction that secures payment of money or performance of an obligation; the interest is called a security interest:how to determine the priority between security interests in the same personal property:how to determine the priority between a security interest and another type of interest (for example, the interest of a buyer of goods) in the same personal property.
 
 ### 5 How Act arranged
-(1) The Act is arranged in Parts, as follows:Part 1 — Outline of this Act:Part 2 — Preliminary Provisions:Part 3 — Principles relating to Enforceability of Security Interests:Part 4 — Attachment and Perfection of Security Interests in Particular Kinds of Personal Property:Part 5—When buyers or lessees of goods or other collateral take goods or other collateral free of security interest:Part 6 — Additional Provisions Relating to When Buyers or Lessees of Motor Vehicles Take Motor Vehicles Free of Security Interest:Part 7 —Priority Between Security Interests:Part 8 — Priority of Other Interests in Collateral:Part 9 — Enforcement of Security Interests:Part 10 — Personal Property Securities Register:Part 11 — Miscellaneous:Part 12 — Transitional Provisions
+(1) The Act is arranged in Parts, as follows:Part 1—Outline of this Act:Part 2—Preliminary provisions:Part 3—Principles relating to enforceability of security interests:Part 4—Attachment and perfection of security interests in particular kinds of personal property:Part 5—When buyers or lessees of goods or other collateral take goods or other collateral free of security interest:Part 6—Additional provisions relating to when buyers or lessees of motor vehicles take motor vehicles free of security interest:Part 7—Priority between security interests:Part 8—Priority of other interests in collateral:Part 9—Enforcement of security interests:Part 10—Personal property securities register:Part 11—Miscellaneous:Part 12—Transitional provisions.
 (2) Sections 6 to 15 summarise what Parts 2 to 12 contain.
 
 ### 6 Part 2 (Preliminary provisions)
-Part 2—Describes what various terms used in the Act mean, including some key definitions such as security interest and knowledge:Sets out the status of examples used in the Act:Describes the type of transactions and interests in personal property to which the Act applies:Describes the type of transactions and interests to which the Act does not apply:Provides when New Zealand law applies to personal property that is subject to a security interest.
+Part 2—describes what various terms used in the Act mean, including some key definitions such as security interest and knowledge:sets out the status of examples used in the Act:describes the type of transactions and interests in personal property to which the Act applies:describes the type of transactions and interests to which the Act does not apply:provides when New Zealand law applies to personal property that is subject to a security interest.
 
 ### 7 Part 3 (Principles relating to enforceability of security interests)
-Part 3 sets out the key concepts on which the Act is based. It deals with—The effectiveness of a security agreement between the parties to the agreement:When a security agreement is enforceable against the parties to the security agreement and third parties (persons who are not parties to the security agreement):The concept of attachment of a security interest (when a security interest comes into existence). Attachment occurs when the secured party gives value for the loan, the debtor has rights in the personal property that is used as security for the loan, and, in the case of third parties, the security agreement is enforceable against third parties:The perfection of security interests. Perfection involves the concept of attachment together with 1 of the methods of achieving perfection, such as registration of a financing statement or the secured party taking possession of the collateral (personal property that is subject to a security interest). Perfection is relevant to giving a secured party priority over a third party.
+Part 3 sets out the key concepts on which the Act is based. It deals with—the effectiveness of a security agreement between the parties to the agreement:when a security agreement is enforceable against the parties to the security agreement and third parties (persons who are not parties to the security agreement):the concept of attachment of a security interest (when a security interest comes into existence). Attachment occurs when the secured party gives value for the loan, the debtor has rights in the personal property that is used as security for the loan, and, in the case of third parties, the security agreement is enforceable against third parties:the perfection of security interests. Perfection involves the concept of attachment together with 1 of the methods of achieving perfection, such as registration of a financing statement or the secured party taking possession of the collateral (personal property that is subject to a security interest). Perfection is relevant to giving a secured party priority over a third party.
 
 ### 8 Part 4 (Attachment and perfection of security interests in particular kinds of personal property)
-Part 4 deals with—The attachment of security interests in particular kinds of personal property, such as after-acquired property:The perfection of security interests in particular kinds of personal property, such as proceeds.
+Part 4 deals with—the attachment of security interests in particular kinds of personal property, such as after-acquired property:the perfection of security interests in particular kinds of personal property, such as proceeds.
 
-### 9 Part 5 (when buyers or lessees of goods or other collateral take goods or other collateral free of unperfected security interests)
+### 9 Part 5 (When buyers or lessees of goods or other collateral take goods or other collateral free of unperfected security interests)
 Part 5 sets out when buyers of goods or other collateral or lessees of goods or other collateral get the goods or other collateral without being subject to a prior security interest.
 
-### 9A Part 6 (additional provisions relating to when buyers or lessees of motor vehicles take motor vehicles free of security interest)—
+### 9A Part 6 (Additional provisions relating to when buyers or lessees of motor vehicles take motor vehicles free of security interest)
 Part 6 sets out when buyers or lessees of motor vehicles get the motor vehicles without being subject to a prior security interest.
 
 ### 10 Part 7 (Priority between security interests)
-Part 7—Sets out how the priority between security interests in the same personal property is determined:Deals with the priority of particular kinds of security interests, such as purchase money security interests:Contains provisions dealing with priority between security interests in particular kinds of personal property, such as accessions and processed, manufactured, or commingled goods:Contains provisions dealing with the priority of security interests where the rights of the debtor in the collateral have been transferred.
+Part 7—sets out how the priority between security interests in the same personal property is determined:deals with the priority of particular kinds of security interests, such as purchase money security interests:contains provisions dealing with priority between security interests in particular kinds of personal property, such as accessions and processed, manufactured, or commingled goods:contains provisions dealing with the priority of security interests where the rights of the debtor in the collateral have been transferred.
 
 ### 11 Part 8 (Priority of other interests in collateral)
-Part 8—Contains provisions relating to the priority between security interests and other interests (which may include other security interests) in particular kinds of personal property, such as money, negotiable instruments, investment securities, chattel paper, and crops:Also deals with the priority of liens arising out of materials or services provided in respect of goods, the priority of the rights of an assignee of accounts receivable or chattel paper, and the priority of an execution creditor.
+Part 8—contains provisions relating to the priority between security interests and other interests (which may include other security interests) in particular kinds of personal property, such as money, negotiable instruments, investment securities, chattel paper, and crops:also deals with the priority of liens arising out of materials or services provided in respect of goods, the priority of the rights of an assignee of accounts receivable or chattel paper, and the priority of an execution creditor.
 
 ### 12 Part 9 (Enforcement of security interests)
 Part 9 contains a secured party's remedies when a debtor is in default. It does not, however, apply where the collateral is consumer goods or the security interest is created or provided for by a transfer of an account receivable or chattel paper, a lease for a term of more than 1 year that does not secure payment or performance of an obligation, or a commercial consignment that does not secure payment or performance of an obligation. The parties to a security agreement may agree to vary remedies to the extent that they do not relate to the rights of third parties.
 
-### 13 Part 10 (Personal Property Securities Register)
-Part 10—Establishes a personal property securities register:Provides for the appointment of the Registrar of Personal Property Securities:Contains provisions relating to the registration of financing statements, the amendment of financing statements, and searching the register.
+### 13 Part 10 (Personal property securities register)
+Part 10—establishes a personal property securities register:provides for the appointment of the Registrar of Personal Property Securities:contains provisions relating to the registration of financing statements, the amendment of financing statements, and searching the register.
 
 ### 14 Part 11 (Miscellaneous)
 Part 11 contains provisions relating to a secured party's obligation to provide certain information relating to the security interest held by the secured party, the making of regulations, and consequential repeals, revocations, and amendments to other legislation.
 
 ### 15 Part 12 (Transitional provisions)
-Part 12—Provides for a 6-month transitional period during which time prior security interests (security interests that were in existence before the commencement of the Act) may be perfected:Contains provisions about the continuation, perfection, and priority, of prior security interests during that transitional period:Contains provisions about the priority of third party interests during the transitional period.
+Part 12—provides for a 6-month transitional period during which time prior security interests (security interests that were in existence before the commencement of the Act) may be perfected:contains provisions about the continuation, perfection, and priority, of prior security interests during that transitional period:contains provisions about the priority of third party interests during the transitional period.
 
 ## Part 2 — Preliminary provisions
 
@@ -65,175 +65,175 @@ Part 12—Provides for a 6-month transitional period during which time prior sec
 
 ### 16 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **Accessions** means goods that are installed in, or affixed to, other goodsExampleA replacement motor installed in a car.
-  - **Account receivable** means a monetary obligation that is not evidenced by chattel paper, an investment security, or by a negotiable instrument, whether or not that obligation has been earned by performance
-  - **Advance** —
-    (a) Means the payment of money, the provision of credit, or the giving of value; and
-    (b) Includes any liability of the debtor to pay interest, credit costs, and other charges or costs payable by the debtor in connection with an advance or the enforcement of a security interest securing the advance:
-  - **After-acquired property** means personal property that is acquired by a debtor after the security agreement is made
-  - **Cash proceeds** means proceeds in the form of money, cheques, drafts, or deposit accounts in banks or similar institutions
-  - **Chattel paper** means 1 or more writings that evidence both a monetary obligation and a security interest in, or lease of, specific goods or specific goods and accessionsExampleA hire purchase agreement.
-  - **Collateral** means personal property that is subject to a security interest
-  - **Commercial consignment** —
-    (a) Means a consignment where—
-      (i) A consignor has reserved an interest in the goods that the consignor has delivered to the consignee for the purpose of sale, lease, or other disposition; and
-      (ii) Both the consignor and the consignee deal in the ordinary course of business in goods of that description; but
-    (b) Does not include an agreement under which goods are delivered to an auctioneer for the purpose of sale:
-  - **Consumer** has the meaning set out in section 57
-  - **Consumer goods** means goods that are used or acquired for use primarily for personal, domestic, or household purposesExampleA computer for home use.
-  - **Country** includes any State, territory, province, or other part of a country
-  - **Court** or means the High Court of New Zealand.
-  - **Crops** means crops, whether matured or otherwise, and whether naturally grown or planted, attached to land by roots or forming part of trees or plants attached to land; but does not include trees
-  - **Dealer**
-  - **Debtor** —
-    (a) Means—
-      (i) A person who owes payment or performance of an obligation secured, whether or not that person owns or has other rights in the collateral; or
-      (ii) A person who receives goods from another person under a commercial consignment; or
-      (iii) A lessee under a lease for a term of more than 1 year; or
-      (iv) A transferor of an account receivable or chattel paper; or
-      (v) A transferee of or successor to the interest of a person referred to in subparagraphs (i) to (iv); or
-      (vi) If the person referred to in subparagraph (i) and the person who owns or has other rights in the collateral are not the same person, includes—
-        (A) The person who owns or has other rights in the collateral, where the term debtor is used in a provision of this Act dealing with the collateral; or
-        (B) The obligor, where the term debtor is used in a provision of this Act dealing with the obligation; or
-        (C) Both the person who owns or has other rights in the collateral and the obligor (if the context so requires); and
-    (b) Includes a trustee for any of the persons referred to in paragraph (a):
-  - **Default** means—
-    (a) The failure to pay or otherwise perform the obligation secured when due; or
-    (b) The occurrence of an event that, under the security agreement, gives the secured party the right to enforce the security:
-  - **Document** means a document in any form; and includes—
-    (a) Any writing on any material; and
-    (b) Information recorded or stored on, and capable of transmission to or from, a computer or other device; and material subsequently derived from information so recorded, stored, or transmitted; and
-    (c) A book, graph, or drawing; and
-    (d) A photograph, film, negative, tape, or other device in which 1 or more visual images are embodied so as to be capable of being reproduced by any means:
-  - **Document of title** means a writing issued by or addressed to a bailee—
-    (a) That covers goods in the bailee's possession that are identified or are fungible portions of an identified mass; and
-    (b) In which it is stated that the goods identified in it will be delivered to a named person, or to the transferee of that person, or to bearer, or to the order of a named person:
-  - **Equipment** means goods that are held by a debtor other than as inventory or consumer goodsExampleAn office computer.
-  - **Existing secured party** has the meaning set out in section 193
-  - **Financing change statement** has the meaning set out in section 135
-  - **Financing statement** has the meaning set out in section 135
-  - **Fund** has the meaning set out in section 57
-  - **Future advance** —
-    (a) Means the payment of money, the provision of credit, or the giving of value secured by a security interest, occurring after the security agreement has been signed, or assented to by letter, telegram, cable, telex message, facsimile, electronic mail, or other similar means of communication, whether or not provided or given under an obligation; and
-    (b) Includes advances, reasonable costs incurred, and expenditures made for the protection, maintenance, preservation, or repair of the collateral, or for the enforcement of the security interest:
-  - **Futures contract** has the same meaning as in section 37 of the Securities Markets Act 1988
-  - **Goods** —
-    (a) Means tangible personal property; and
-    (b) Includes crops, the unborn young of animals, trees that have been severed, and petroleum or minerals that have been extracted; but
-    (c) Does not include chattel paper, a document of title, a negotiable instrument, an investment security, or money:
-  - **Intangible** means personal property other than chattel paper, a document of title, goods, an investment security, money, or a negotiable instrumentExampleTrademarks, patents, and copyright.
-  - **Inventory** means goods that are—
-    (a) Held by a person for sale or lease, or that have been leased by that person as lessor; or
-    (b) To be provided or have been provided under a contract for services; or
-    (c) Raw materials or work in progress; or
-    (d) Materials used or consumed in a business:
-  - **Investment security** —ExampleShares in a listed company.
-    (a) Means a writing (whether or not in the form of a security certificate)—
-      (i) That is recognised in the place in which it is issued or dealt with as evidencing a futures contract, or a warrant or option or share, right to participate, or other interest in property or an enterprise, or that evidences an obligation of the issuer; and
-      (ii) That, in the ordinary course of business, is transferred or withdrawn—
-        (A) By delivery with any necessary endorsement, assignment, or registration in the records of the issuer or agent of the issuer, or by compliance with restrictions on transfer or withdrawal; or
-        (B) By an entry in the records of a clearing house or securities depository; or
-        (C) By an entry in the records maintained for that purpose by or on behalf of the issuer; or
-        (D) By an entry in the records maintained for that purpose by or on behalf of the nominee; but
-    (b) Does not include a writing that evidences a monetary obligation that is secured by an interest in land:
-  - **Knowledge** has the meaning set out in section 19
-  - **Land** includes all estates and interests, whether freehold or chattel, in real property
-  - **Lease for a term of more than 1 year** —
-    (a) Means a lease or bailment of goods for a term of more than 1 year; and
-    (b) Includes—
-      (i) A lease for an indefinite term, including a lease for an indefinite term that is determinable by 1 or both of the parties not later than 1 year after the date of its execution; and
-      (ii) A lease for a term of 1 year or less that is automatically renewable or that is renewable at the option of 1 of the parties for 1 or more terms, where the total of the terms, including the original term, may exceed 1 year; and
-      (iii) A lease for a term of 1 year or less where the lessee, with the consent of the lessor, retains uninterrupted or substantially uninterrupted possession of the leased goods for a period of more than 1 year after the day on which the lessee first acquired possession of them, but the lease does not become a lease for a term of more than 1 year until the lessee's possession extends for more than 1 year; but
-    (c) Does not include—
-      (i) A lease by a lessor who is not regularly engaged in the business of leasing goods; or
-      (ii) A lease of household furnishings or appliances as part of a lease of land where the use of the goods is incidental to the use and enjoyment of the land; or
-      (iii) A lease of prescribed goods, regardless of the length of the lease term:
-  - **Money** means currency authorised as a medium of exchange by the law of New Zealand or of any other country
-  - **Motor vehicle** or has the meaning set out in section 57
-  - **Negotiable instrument** —
-    (a) Means—
-      (i) A bill of exchange or promissory note within the meaning of the Bills of Exchange Act 1908; or
-      (ii) Any other writing that evidences a right to payment of money and is of a kind that, in the ordinary course of business, is transferred by delivery with any necessary endorsement or assignment; or
-      (iii) A letter of credit, if the letter of credit states on it that it must be presented on claiming payment; but
-    (b) Does not include chattel paper, a document of title, or an investment security:
-  - **New value** means value other than antecedent debt or liability
-  - **News medium** means any agency whose business, or part of whose business, consists of a news activity
-  - **Non-purchase money security interest** means a security interest that is not a purchase money security interest
-  - **Obligation secured** means, when determining the amount payable under a lease that secures payment or performance of an obligation,—less any amount paid before the determination
-    (a) The amount originally contracted to be paid under the lease; and
-    (b) Any other amount payable under the terms of the lease; and
-    (c) Any other amount required to be paid by the lessee to obtain ownership of the collateral;—
-  - **Organisation** means any body or organisation, whether incorporated or unincorporated
-  - **Other goods** means goods in which an accession is installed or to which the accession is affixedExampleThe car in which a replacement motor is installed.
-  - **Perfected by possession** , in relation to a security interest, means the security interest has attached and the secured party has taken possession of the collateral (except where possession is a result of seizure or repossession)
-  - **Perfected by registration** , in relation to a security interest, means the security interest has attached and a financing statement has been registered in respect of the security interest
-  - **Perfected security interest** , in relation to a security interest, means the security interest is perfected by possession or by registration or is temporarily perfected, as the case may be
-  - **Personal information** has the same meaning as in section 2(1) of the Privacy Act 1993
-  - **Personal property** includes chattel paper, documents of title, goods, intangibles, investment securities, money, and negotiable instruments
-  - **Prescribed** means prescribed by regulations
-  - **Prior law** has the meaning set out in section 193
-  - **Prior registration law** has the meaning set out in section 193
-  - **Prior security interest** has the meaning set out in section 193
-  - **Prior third party interest** has the meaning set out in section 193
-  - **Proceeds** —
-    (a) Means identifiable or traceable personal property—
-      (i) That is derived directly or indirectly from a dealing with collateral or the proceeds of collateral; and
-      (ii) In which the debtor acquires an interest; and
-    (b) Includes—
-      (i) A right to an insurance payment or other payment as indemnity or compensation for loss of or damage to the collateral or proceeds; and
-      (ii) A payment made in total or partial discharge or redemption of chattel paper, an intangible or investment security, or a negotiable instrument; but
-    (c) Does not include animals merely because they are the offspring of the animals that are collateral:
-  - **Purchase** means taking by sale, lease, discount, assignment, negotiation, mortgage, pledge, lien, issue, reissue, gift, or any other consensual transaction that creates an interest in personal property
-  - **Purchase money security interest** —ExamplesA hire purchase agreement relating to the purchase of a television.A loan by a bank for the purchase of a car where the loan is secured over the car, and the proceeds are applied towards the purchase.
-    (a) Means—
-      (i) A security interest taken in collateral by a seller to the extent that it secures the obligation to pay all or part of the collateral's purchase price; or
-      (ii) A security interest taken in collateral by a person who gives value for the purpose of enabling the debtor to acquire rights in the collateral, to the extent that the value is applied to acquire those rights; or
-      (iii) The interest of a lessor of goods under a lease for a term of more than 1 year; or
-      (iv) The interest of a consignor who delivers goods to a consignee under a commercial consignment; but
-    (b) Does not include a transaction of sale and lease back to the seller:
-  - **Purchase price** and , in relation to a purchase money security interest, include credit charges and interest payable for the purchase or loan credit
-  - **Purchaser** means a person who purchases personal property
-  - **Receiver** has the same meaning as in section 2 of the Receiverships Act 1993
-  - **Register** has the meaning set out in section 135
+  - **accessions** means goods that are installed in, or affixed to, other goodsExampleA replacement motor installed in a car.
+  - **account receivable** means a monetary obligation that is not evidenced by chattel paper, an investment security, or by a negotiable instrument, whether or not that obligation has been earned by performance
+  - **advance** —
+    (a) means the payment of money, the provision of credit, or the giving of value; and
+    (b) includes any liability of the debtor to pay interest, credit costs, and other charges or costs payable by the debtor in connection with an advance or the enforcement of a security interest securing the advance
+  - **after-acquired property** means personal property that is acquired by a debtor after the security agreement is made
+  - **cash proceeds** means proceeds in the form of money, cheques, drafts, or deposit accounts in banks or similar institutions
+  - **chattel paper** means 1 or more writings that evidence both a monetary obligation and a security interest in, or lease of, specific goods or specific goods and accessionsExampleA hire purchase agreement.
+  - **collateral** means personal property that is subject to a security interest
+  - **commercial consignment** —
+    (a) means a consignment where—
+      (i) a consignor has reserved an interest in the goods that the consignor has delivered to the consignee for the purpose of sale, lease, or other disposition; and
+      (ii) both the consignor and the consignee deal in the ordinary course of business in goods of that description; but
+    (b) does not include an agreement under which goods are delivered to an auctioneer for the purpose of sale
+  - **consumer** has the meaning set out in section 57
+  - **consumer goods** means goods that are used or acquired for use primarily for personal, domestic, or household purposesExampleA computer for home use.
+  - **country** includes any State, territory, province, or other part of a country
+  - **Court** or means the High Court of New Zealand
+  - **crops** means crops, whether matured or otherwise, and whether naturally grown or planted, attached to land by roots or forming part of trees or plants attached to land; but does not include trees
+  - **debtor** —
+    (a) means—
+      (i) a person who owes payment or performance of an obligation secured, whether or not that person owns or has other rights in the collateral; or
+      (ii) a person who receives goods from another person under a commercial consignment; or
+      (iii) a lessee under a lease for a term of more than 1 year; or
+      (iv) a transferor of an account receivable or chattel paper; or
+      (v) a transferee of or successor to the interest of a person referred to in subparagraphs (i) to (iv); or
+      (vi) if the person referred to in subparagraph (i) and the person who owns or has other rights in the collateral are not the same person, includes—
+        (A) the person who owns or has other rights in the collateral, where the term debtor is used in a provision of this Act dealing with the collateral; or
+        (B) the obligor, where the term debtor is used in a provision of this Act dealing with the obligation; or
+        (C) both the person who owns or has other rights in the collateral and the obligor (if the context so requires); and
+    (b) includes a trustee for any of the persons referred to in paragraph (a)
+  - **default** means—
+    (a) the failure to pay or otherwise perform the obligation secured when due; or
+    (b) the occurrence of an event that, under the security agreement, gives the secured party the right to enforce the security
+  - **document** means a document in any form; and includes—
+    (a) any writing on any material; and
+    (b) information recorded or stored on, and capable of transmission to or from, a computer or other device; and material subsequently derived from information so recorded, stored, or transmitted; and
+    (c) a book, graph, or drawing; and
+    (d) a photograph, film, negative, tape, or other device in which 1 or more visual images are embodied so as to be capable of being reproduced by any means
+  - **document of title** means a writing issued by or addressed to a bailee—
+    (a) that covers goods in the bailee's possession that are identified or are fungible portions of an identified mass; and
+    (b) in which it is stated that the goods identified in it will be delivered to a named person, or to the transferee of that person, or to bearer, or to the order of a named person
+  - **emissions unit** means a unit as defined in section 4(1) of the Climate Change Response Act 2002
+  - **equipment** means goods that are held by a debtor other than as inventory or consumer goodsExampleAn office computer.
+  - **existing secured party** has the meaning set out in section 193
+  - **financing change statement** has the meaning set out in section 135
+  - **financing statement** has the meaning set out in section 135
+  - **fund** has the meaning set out in section 57
+  - **future advance** —
+    (a) means the payment of money, the provision of credit, or the giving of value secured by a security interest, occurring after the security agreement has been signed, or assented to by letter, telegram, cable, telex message, facsimile, electronic mail, or other similar means of communication, whether or not provided or given under an obligation; and
+    (b) includes advances, reasonable costs incurred, and expenditures made for the protection, maintenance, preservation, or repair of the collateral, or for the enforcement of the security interest
+  - **futures contract** has the same meaning as in section 37 of the Securities Markets Act 1988
+  - **goods** —
+    (a) means tangible personal property; and
+    (b) includes crops, the unborn young of animals, trees that have been severed, and petroleum or minerals that have been extracted; but
+    (c) does not include chattel paper, a document of title, a negotiable instrument, an investment security, or money
+  - **intangible** means personal property other than chattel paper, a document of title, goods, an investment security, money, or a negotiable instrumentExampleTrademarks, patents, and copyright.
+  - **inventory** means goods that are—
+    (a) held by a person for sale or lease, or that have been leased by that person as lessor; or
+    (b) to be provided or have been provided under a contract for services; or
+    (c) raw materials or work in progress; or
+    (d) materials used or consumed in a business
+  - **investment security** —ExampleShares in a listed company.
+    (a) means—
+      (i) a writing (whether or not in the form of a security certificate) that is recognised in the place in which it is issued or dealt with as evidencing a futures contract, or a warrant or option or share, right to participate, or other interest in property or an enterprise, or that evidences an obligation of the issuer, and that, in the ordinary course of business, is transferred or withdrawn by—
+        (A) delivery with any necessary endorsement, assignment, or registration in the records of the issuer or agent of the issuer, or by compliance with restrictions on transfer or withdrawal; or
+        (B) an entry in the records of a clearing house or securities depository; or
+        (C) an entry in the records maintained for that purpose by or on behalf of the issuer; or
+        (D) an entry in the records maintained for that purpose by or on behalf of the nominee:
+      (ii) an emissions unit; but
+    (b) does not include a writing that evidences a monetary obligation that is secured by an interest in land
+  - **knowledge** has the meaning set out in section 19
+  - **land** includes all estates and interests, whether freehold or chattel, in real property
+  - **lease for a term of more than 1 year** —
+    (a) means a lease or bailment of goods for a term of more than 1 year; and
+    (b) includes—
+      (i) a lease for an indefinite term, including a lease for an indefinite term that is determinable by 1 or both of the parties not later than 1 year after the date of its execution; and
+      (ii) a lease for a term of 1 year or less that is automatically renewable or that is renewable at the option of 1 of the parties for 1 or more terms, where the total of the terms, including the original term, may exceed 1 year; and
+      (iii) a lease for a term of 1 year or less where the lessee, with the consent of the lessor, retains uninterrupted or substantially uninterrupted possession of the leased goods for a period of more than 1 year after the day on which the lessee first acquired possession of them, but the lease does not become a lease for a term of more than 1 year until the lessee's possession extends for more than 1 year; but
+    (c) does not include—
+      (i) a lease by a lessor who is not regularly engaged in the business of leasing goods; or
+      (ii) a lease of household furnishings or appliances as part of a lease of land where the use of the goods is incidental to the use and enjoyment of the land; or
+      (iii) a lease of prescribed goods, regardless of the length of the lease term
+  - **money** means currency authorised as a medium of exchange by the law of New Zealand or of any other country
+  - **motor vehicle** or has the meaning set out in section 57
+  - **negotiable instrument** —
+    (a) means—
+      (i) a bill of exchange or promissory note within the meaning of the Bills of Exchange Act 1908; or
+      (ii) any other writing that evidences a right to payment of money and is of a kind that, in the ordinary course of business, is transferred by delivery with any necessary endorsement or assignment; or
+      (iii) a letter of credit, if the letter of credit states on it that it must be presented on claiming payment; but
+    (b) does not include chattel paper, a document of title, or an investment security
+  - **new value** means value other than antecedent debt or liability
+  - **news medium** means any agency whose business, or part of whose business, consists of a news activity
+  - **non-purchase money security interest** means a security interest that is not a purchase money security interest
+  - **obligation secured** means, when determining the amount payable under a lease that secures payment or performance of an obligation,—less any amount paid before the determination
+    (a) the amount originally contracted to be paid under the lease; and
+    (b) any other amount payable under the terms of the lease; and
+    (c) any other amount required to be paid by the lessee to obtain ownership of the collateral;—
+  - **organisation** means any body or organisation, whether incorporated or unincorporated
+  - **other goods** means goods in which an accession is installed or to which the accession is affixedExampleThe car in which a replacement motor is installed.
+  - **perfected by possession** , in relation to a security interest, means the security interest has attached and the secured party has taken possession of the collateral (except where possession is a result of seizure or repossession)
+  - **perfected by registration** , in relation to a security interest, means the security interest has attached and a financing statement has been registered in respect of the security interest
+  - **perfected security interest** , in relation to a security interest, means the security interest is perfected by possession or by registration or is temporarily perfected, as the case may be
+  - **personal information** has the same meaning as in section 2(1) of the Privacy Act 1993
+  - **personal property** includes chattel paper, documents of title, goods, intangibles, investment securities, money, and negotiable instruments
+  - **prescribed** means prescribed by regulations
+  - **prior law** has the meaning set out in section 193
+  - **prior registration law** has the meaning set out in section 193
+  - **prior security interest** has the meaning set out in section 193
+  - **prior third party interest** has the meaning set out in section 193
+  - **proceeds** —
+    (a) means identifiable or traceable personal property—
+      (i) that is derived directly or indirectly from a dealing with collateral or the proceeds of collateral; and
+      (ii) in which the debtor acquires an interest; and
+    (b) includes—
+      (i) a right to an insurance payment or other payment as indemnity or compensation for loss of or damage to the collateral or proceeds; and
+      (ii) a payment made in total or partial discharge or redemption of chattel paper, an intangible or investment security, or a negotiable instrument; but
+    (c) does not include animals merely because they are the offspring of the animals that are collateral
+  - **purchase** means taking by sale, lease, discount, assignment, negotiation, mortgage, pledge, lien, issue, reissue, gift, or any other consensual transaction that creates an interest in personal property
+  - **purchase money security interest** —ExamplesA hire purchase agreement relating to the purchase of a television.A loan by a bank for the purchase of a car where the loan is secured over the car, and the proceeds are applied towards the purchase.
+    (a) means—
+      (i) a security interest taken in collateral by a seller to the extent that it secures the obligation to pay all or part of the collateral's purchase price; or
+      (ii) a security interest taken in collateral by a person who gives value for the purpose of enabling the debtor to acquire rights in the collateral, to the extent that the value is applied to acquire those rights; or
+      (iii) the interest of a lessor of goods under a lease for a term of more than 1 year; or
+      (iv) the interest of a consignor who delivers goods to a consignee under a commercial consignment; but
+    (b) does not include a transaction of sale and lease back to the seller
+  - **purchase price** and , in relation to a purchase money security interest, include credit charges and interest payable for the purchase or loan credit
+  - **purchaser** means a person who purchases personal property
+  - **receiver** has the same meaning as in section 2 of the Receiverships Act 1993
+  - **register** has the meaning set out in section 135
   - **registered trader** has the meaning set out in section 57
   - **Registrar** has the meaning set out in section 135
-  - **Regulations** means regulations in force under this Act
+  - **regulations** means regulations in force under this Act
   - **related company** has the same meaning as in section 2(3) of the Companies Act 1993
   - **Secretary** means the chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **Secured party** —
-    (a) Means a person who holds a security interest for the person's own benefit or for the benefit of another person; and
-    (b) Includes a trustee where the holders of the obligations issued, guaranteed, or provided for under a security agreement are represented by a trustee as the holder of the security interest:
-  - **Security agreement** —
-    (a) Means an agreement that creates or provides for a security interest; and
-    (b) Includes a writing that evidences a security agreement (if the context permits):
-  - **Security interest** has the meaning set out in section 17
-  - **Security trust deed** means a deed or other document by the terms of which a person issues or guarantees or provides for the issue or guarantee of debt obligations secured by a security interest, and in which another person is appointed as trustee for the holders of the debt obligations
-  - **Temporarily perfected security interest** means a security interest that is temporarily perfected in accordance with section 28 or Part 4
-  - **Transitional period** has the meaning set out in section 193
-  - **Unperfected security interest** means a security interest that is not a perfected security interest
-  - **Value** —
-    (a) Means consideration that is sufficient to support a simple contract; and
-    (b) Includes an antecedent debt or liability:
-  - **Verification statement** has the meaning set out in section 135
-  - **Whole** means an accession and the goods in which the accession is installed or to which the accession is affixed
-  - **Working day** means a day of the week other than—
+  - **secured party** —
+    (a) means a person who holds a security interest for the person's own benefit or for the benefit of another person; and
+    (b) includes a trustee where the holders of the obligations issued, guaranteed, or provided for under a security agreement are represented by a trustee as the holder of the security interest
+  - **security agreement** —
+    (a) means an agreement that creates or provides for a security interest; and
+    (b) includes a writing that evidences a security agreement (if the context permits)
+  - **security interest** has the meaning set out in section 17
+  - **security trust deed** means a deed or other document by the terms of which a person issues or guarantees or provides for the issue or guarantee of debt obligations secured by a security interest, and in which another person is appointed as trustee for the holders of the debt obligations
+  - **temporarily perfected security interest** means a security interest that is temporarily perfected in accordance with section 28 or Part 4
+  - **transitional period** has the meaning set out in section 193
+  - **unperfected security interest** means a security interest that is not a perfected security interest
+  - **value** —
+    (a) means consideration that is sufficient to support a simple contract; and
+    (b) includes an antecedent debt or liability
+  - **verification statement** has the meaning set out in section 135
+  - **whole** means an accession and the goods in which the accession is installed or to which the accession is affixed
+  - **working day** means a day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, and Waitangi Day; and
-    (b) A day in the period commencing on 25 December in any year and,—
-      (i) Except in sections 165, 168, and 178, ending with 2 January in the following year; and
-      (ii) In sections 165, 168, and 178, ending with 15 January in the following year:
-  - **Writing** includes—
-    (a) The recording of words in a permanent and legible form; and
-    (b) The recording of words by electronic means that can be retrieved and read; and
-    (c) The display of words by any form of electronic or other means of communication that is subsequently recorded by electronic means that can, by any means, be retrieved and read.
+    (b) a day in the period commencing on 25 December in any year and,—
+      (i) except in sections 165, 168, and 178, ending with 2 January in the following year; and
+      (ii) in sections 165, 168, and 178, ending with 15 January in the following year
+  - **writing** includes—
+    (a) the recording of words in a permanent and legible form; and
+    (b) the recording of words by electronic means that can be retrieved and read; and
+    (c) the display of words by any form of electronic or other means of communication that is subsequently recorded by electronic means that can, by any means, be retrieved and read.
 (2) For the purposes of this Act, fungible goods and fungible securities are goods or securities of which any unit is by nature or usage of trade, the equivalent of any other like unit, and includes unlike units to the extent that they are treated as equivalents under a security agreement.
 (3) For the purposes of this Act, the determination of whether goods are consumer goods, equipment, or inventory is to be made at the time when the security interest in the goods attached, unless otherwise provided in this Act.
 
 ### 17 Meaning of security interest
 (1) In this Act, unless the context otherwise requires, the term security interest—
-  (a) Means an interest in personal property created or provided for by a transaction that in substance secures payment or performance of an obligation, without regard to—
-    (i) The form of the transaction; and
-    (ii) The identity of the person who has title to the collateral; and
-  (b) Includes an interest created or provided for by a transfer of an account receivable or chattel paper, a lease for a term of more than 1 year, and a commercial consignment (whether or not the transfer, lease, or consignment secures payment or performance of an obligation).
+  (a) means an interest in personal property created or provided for by a transaction that in substance secures payment or performance of an obligation, without regard to—
+    (i) the form of the transaction; and
+    (ii) the identity of the person who has title to the collateral; and
+  (b) includes an interest created or provided for by a transfer of an account receivable or chattel paper, a lease for a term of more than 1 year, and a commercial consignment (whether or not the transfer, lease, or consignment secures payment or performance of an obligation).
 (2) A person who is obligated under an account receivable may take a security interest in the account receivable under which that person is obligated.
 (3) Without limiting subsection (1), and to avoid doubt, this Act applies to a fixed charge, floating charge, chattel mortgage, conditional sale agreement (including an agreement to sell subject to retention of title), hire purchase agreement, pledge, security trust deed, trust receipt, consignment, lease, an assignment, or a flawed asset arrangement, that secures payment or performance of an obligation.
 
@@ -245,29 +245,33 @@ For the avoidance of doubt, a beneficial interest in personal property held by a
   (d) the purpose of those terms is to postpone or subordinate the right of the subordinated creditor to the performance of all or any part of an obligation of the insolvent debtor to the right of the senior creditor to the performance of all or any part of another obligation of the insolvent debtor.
 
 ### 18 Meaning of possession in certain cases
-(1) For the purposes of this Act, a person takes possession of an investment security if,—
-  (a) In the case of an investment security that is evidenced by a security certificate, the person takes physical possession of that certificate; or
-  (b) In the case of an investment security that is traded or settled through a clearing house or securities depository, the clearing house or securities depository, as the case may be, records the interest of the person in the investment security; or
-  (c) In the case of an investment security that is not evidenced by a security certificate and that is not traded or settled through a clearing house or securities depository, the records maintained by the issuer, or on behalf of the issuer, record the interest of the person in the investment security; or
-  (d) In the case of an investment security that is held by a nominee, the records of the nominee record the interest of the person in the investment security.
+(1) For the purposes of this Act, a person takes possession of an investment security, other than an emissions unit, if,—
+  (a) in the case of an investment security that is evidenced by a security certificate, the person takes physical possession of that certificate; or
+  (b) in the case of an investment security that is traded or settled through a clearing house or securities depository, the clearing house or securities depository, as the case may be, records the interest of the person in the investment security; or
+  (c) in the case of an investment security that is not evidenced by a security certificate and that is not traded or settled through a clearing house or securities depository, the records maintained by the issuer, or on behalf of the issuer, record the interest of the person in the investment security; or
+  (d) in the case of an investment security that is held by a nominee, the records of the nominee record the interest of the person in the investment security.
+(1A) For the purposes of this Act, a person takes possession of an investment security that is an emissions unit if the emissions unit is, in the ordinary course of business,—
+  (a) traded or settled through a clearing house or securities depository, if the clearing house or securities depository, as the case may be, records the interest of the person in the emissions unit:
+  (b) not traded or settled through a clearing house or securities depository, if the unit register established under section 18 of the Climate Change Response Act 2002 records the name of the person as the possessor of the unit:
+  (c) held by a nominee, if the records of the nominee record the interest of the person in the emissions unit.
 (2) For the purposes of this Act, a person takes possession of a negotiable instrument if—
-  (a) The person takes physical possession of the negotiable instrument; or
-  (b) In the case of a negotiable instrument that is traded or settled through a clearing house or securities depository, the clearing house or securities depository, as the case may be, records the interest of the person in the negotiable instrument.
+  (a) the person takes physical possession of the negotiable instrument; or
+  (b) in the case of a negotiable instrument that is traded or settled through a clearing house or securities depository, the clearing house or securities depository, as the case may be, records the interest of the person in the negotiable instrument.
 (3) For the purposes of this Act, a secured party is not in possession of collateral that is in the actual or apparent possession or control of the debtor or the debtor's agent.
 
 ### 19 Meaning of knowledge
 (1) For the purposes of this Act,—
-  (a) An individual knows or has knowledge of a fact in relation to a particular transaction when that person has actual knowledge of the fact or receives a notice stating the fact:
-  (b) An organisation knows or has knowledge of a fact in relation to a particular transaction when—
-    (i) The person within the organisation with responsibility for matters to which the transaction relates has actual knowledge of the fact; or
-    (ii) The organisation receives a notice stating the fact; or
-    (iii) The fact is communicated to the organisation in such a way that it would have been brought to the attention of the person with responsibility for matters to which the transaction relates if the organisation had exercised reasonable care.
+  (a) an individual knows or has knowledge of a fact in relation to a particular transaction when that person has actual knowledge of the fact or receives a notice stating the fact:
+  (b) an organisation knows or has knowledge of a fact in relation to a particular transaction when—
+    (i) the person within the organisation with responsibility for matters to which the transaction relates has actual knowledge of the fact; or
+    (ii) the organisation receives a notice stating the fact; or
+    (iii) the fact is communicated to the organisation in such a way that it would have been brought to the attention of the person with responsibility for matters to which the transaction relates if the organisation had exercised reasonable care:
   (c) a government department knows or has knowledge of a fact in relation to a particular transaction when that fact has been brought to the attention of a senior employee of the government department with responsibility for the matters to which the fact relates, under circumstances in which a reasonable person would take cognisance of it.
 (2) For the purposes of subsection (1),—
-  (a) A person receives a notice when the notice is given to the person in accordance with sections 184 to 189 (service of notices):
-  (b) An organisation exercises reasonable care if—
-    (i) It takes reasonable steps to ensure that significant information is brought to the attention of the person within the organisation with responsibility for matters to which a particular transaction relates; but
-    (ii) Nothing in subparagraph (i) requires a person acting on behalf of the organisation to communicate information unless the communication is part of that person's regular duties or unless the person has reason to know of the transaction and that the transaction would be materially affected by the information.
+  (a) a person receives a notice when the notice is given to the person in accordance with sections 184 to 189 (service of notices):
+  (b) an organisation exercises reasonable care if—
+    (i) it takes reasonable steps to ensure that significant information is brought to the attention of the person within the organisation with responsibility for matters to which a particular transaction relates; but
+    (ii) nothing in subparagraph (i) requires a person acting on behalf of the organisation to communicate information unless the communication is part of that person's regular duties or unless the person has reason to know of the transaction and that the transaction would be materially affected by the information.
 (3) For the purposes of this section,—
   - **government department** means an entity named in Part 1 of Schedule 1 of the Ombudsmen Act 1975
   - **organisation** does not include a government department.
@@ -287,24 +291,24 @@ This Act binds the Crown.
 
 ### 23 When Act does not apply
 This Act does not apply to—
-  (a) The interest of a seller who has shipped goods to a buyer under a negotiable bill of lading or its equivalent to the order of the seller or to the order of an agent of the seller, unless the parties have otherwise evidenced an intention to create or provide for a security interest in the goods:
-  (b) A lien (except as provided in Part 8), charge, or other interest in personal property created by any other Act (other than section 169 of the Tax Administration Act 1994 and sections 169 and 184 of the Child Support Act 1991) or by operation of any rule of law:
-  (c) Any right of set-off (but without limiting the effect of section 102), netting, or combination of accounts:
+  (a) the interest of a seller who has shipped goods to a buyer under a negotiable bill of lading or its equivalent to the order of the seller or to the order of an agent of the seller, unless the parties have otherwise evidenced an intention to create or provide for a security interest in the goods:
+  (b) a lien (except as provided in Part 8), charge, or other interest in personal property created by any other Act (other than section 169 of the Tax Administration Act 1994 and sections 169 and 184 of the Child Support Act 1991) or by operation of any rule of law:
+  (c) any right of set-off (but without limiting the effect of section 102), netting, or combination of accounts:
   (d)
-  (e) An interest created or provided for by any of the following transactions:
-    (i) The creation or transfer of an interest in land:
-    (ii) A transfer of a right to payment that arises in connection with an interest in land, including a transfer of rental payments payable under a lease of or licence to occupy land, unless the right to payment is evidenced by an investment security:
-    (iii) A transfer of an unearned right to payment under a contract to a person who is to perform the transferor's obligations under the contract:
-    (iv) A transfer of present or future wages, salary, pay, commission, or any other compensation for labour or personal services of an employee:
-    (v) An assignment for the general benefit of creditors of the person making the assignment:
-    (vi) A transfer of an interest or claim in or under a contract of annuity or policy of insurance, except as provided by this Act with respect to proceeds and priorities in proceeds:
-    (vii) A transfer of a right to damages in tort:
-    (viii) An assignment of accounts receivable made solely to facilitate the collection of the accounts receivable on behalf of the person making the assignment:
-    (ix) An assignment of a single account receivable or negotiable instrument in whole or in partial satisfaction of a pre-existing indebtedness:
-    (x) A sale of accounts receivable or chattel paper as part of a sale of a business, unless the seller remains in apparent control of the business after the sale:
-    (xi) A transfer, assignment, mortgage, or assignment of a mortgage of a ship (within the meaning of the Ship Registration Act 1992) that exceeds 24 metres register length (within the meaning of that Act), or any share of such a ship:
-    (xii) A transfer, mortgage, or licence of any management rights (within the meaning of the Radiocommunications Act 1989):
-    (xiii) A transfer or other transaction by way of security in respect of individual transferable quota or transferable term quota (within the meaning of the Fisheries Act 1983) or a transaction of quota or annual catch entitlements (within the meaning of the Fisheries Act 1996).
+  (e) an interest created or provided for by any of the following transactions:
+    (i) the creation or transfer of an interest in land:
+    (ii) a transfer of a right to payment that arises in connection with an interest in land, including a transfer of rental payments payable under a lease of or licence to occupy land, unless the right to payment is evidenced by an investment security:
+    (iii) a transfer of an unearned right to payment under a contract to a person who is to perform the transferor's obligations under the contract:
+    (iv) a transfer of present or future wages, salary, pay, commission, or any other compensation for labour or personal services of an employee:
+    (v) an assignment for the general benefit of creditors of the person making the assignment:
+    (vi) a transfer of an interest or claim in or under a contract of annuity or policy of insurance, except as provided by this Act with respect to proceeds and priorities in proceeds:
+    (vii) a transfer of a right to damages in tort:
+    (viii) an assignment of accounts receivable made solely to facilitate the collection of the accounts receivable on behalf of the person making the assignment:
+    (ix) an assignment of a single account receivable or negotiable instrument in whole or in partial satisfaction of a pre-existing indebtedness:
+    (x) a sale of accounts receivable or chattel paper as part of a sale of a business, unless the seller remains in apparent control of the business after the sale:
+    (xi) a transfer, assignment, mortgage, or assignment of a mortgage of a ship (within the meaning of the Ship Registration Act 1992) that exceeds 24 metres register length (within the meaning of that Act), or any share of such a ship:
+    (xii) a transfer, mortgage, or licence of any management rights (within the meaning of the Radiocommunications Act 1989):
+    (xiii) a transfer or other transaction by way of security in respect of individual transferable quota or transferable term quota (within the meaning of the Fisheries Act 1983) or a transaction of quota or annual catch entitlements (within the meaning of the Fisheries Act 1996).
 
 ### 24 Application of Act not affected by secured party having title to collateral
 The fact that title to collateral may be in the secured party rather than the debtor does not affect the application of any provision of this Act relating to rights, obligations, and remedies.
@@ -317,17 +321,17 @@ The fact that title to collateral may be in the secured party rather than the de
 
 ### 26 When New Zealand law applies
 (1) Except as otherwise provided in this Act, the validity, perfection, and the effect of perfection or non-perfection of a security interest in goods or a possessory security interest in chattel paper, an investment security, money, a negotiable document of title, or a negotiable instrument, is governed by the law of New Zealand if,—
-  (a) At the time the security interest attaches to the collateral, the collateral is situated in New Zealand; or
-  (b) At the time the security interest attaches to the collateral, the collateral is situated outside New Zealand but the secured party has knowledge that it is intended to move the collateral to New Zealand; or
-  (c) The security agreement provides that New Zealand law is the law governing the transaction; or
-  (d) In any other case, New Zealand law applies.
+  (a) at the time the security interest attaches to the collateral, the collateral is situated in New Zealand; or
+  (b) at the time the security interest attaches to the collateral, the collateral is situated outside New Zealand but the secured party has knowledge that it is intended to move the collateral to New Zealand; or
+  (c) the security agreement provides that New Zealand law is the law governing the transaction; or
+  (d) in any other case, New Zealand law applies.
 (2) For the purposes of subsection (1), an investment security that is not in the form of a security certificate is situated where the records of the clearing house or securities depository are kept.
 
 ### 27 Continuity of perfection where goods are moved to New Zealand
 (1) A security interest in goods that is perfected under the law of the jurisdiction in which the goods are situated when the security interest attached and before the goods are brought into New Zealand continues to be perfected in New Zealand if it is perfected in New Zealand by the earliest of the following:
-  (a) Not later than 60 days after the day on which the goods are brought into New Zealand; or
-  (b) Not later than 15 days after the day on which the secured party has knowledge that the goods have been brought into New Zealand; or
-  (c) Before perfection ceases under the law of the jurisdiction in which the goods were situated when the security interest attached.
+  (a) not later than 60 days after the day on which the goods are brought into New Zealand; or
+  (b) not later than 15 days after the day on which the secured party has knowledge that the goods have been brought into New Zealand; or
+  (c) before perfection ceases under the law of the jurisdiction in which the goods were situated when the security interest attached.
 (2) A security interest that is not perfected as provided in subsection (1) may be otherwise perfected in New Zealand under this Act.
 
 ### 28 Temporary perfection of security interest in collateral moved to New Zealand in other cases
@@ -336,38 +340,38 @@ The fact that title to collateral may be in the secured party rather than the de
 
 ### 29 Location of debtor for purposes of sections 30 to 33
 For the purposes of sections 30 to 33,—
-  (a) A debtor that is a body corporate is located in the country of incorporation; and
-  (b) A debtor that is not a body corporate is located at—
-    (i) The debtor's place of business; or
-    (ii) The debtor's principal place of business (if the debtor has more than 1 place of business); or
-    (iii) The debtor's principal residence (if the debtor has no place of business).
+  (a) a debtor that is a body corporate is located in the country of incorporation; and
+  (b) a debtor that is not a body corporate is located at—
+    (i) the debtor's place of business; or
+    (ii) the debtor's principal place of business (if the debtor has more than 1 place of business); or
+    (iii) the debtor's principal residence (if the debtor has no place of business).
 
 ### 30 Validity, perfection, etc, of security interests in intangibles, movable equipment, etc
 The validity, perfection, and effect of perfection or non-perfection of a security interest is governed by the law, including the conflict of laws rules, of the jurisdiction where the debtor is located when the security interest attaches, if the security interest is—
-  (a) A security interest in an intangible:
-  (b) A security interest in goods that are of a kind that are normally used in more than 1 jurisdiction, if the goods are equipment or inventory leased or held for lease by a debtor to others:
-  (c) A non-possessory security interest in chattel paper, an investment security, a negotiable document of title, money, or a negotiable instrument.
+  (a) a security interest in an intangible:
+  (b) a security interest in goods that are of a kind that are normally used in more than 1 jurisdiction, if the goods are equipment or inventory leased or held for lease by a debtor to others:
+  (c) a non-possessory security interest in chattel paper, an investment security, a negotiable document of title, money, or a negotiable instrument.
 
 ### 31 Position where debtor relocates to another jurisdiction, etc
 If a debtor relocates to another jurisdiction or transfers an interest in the collateral to a person located in another jurisdiction, a security interest perfected in accordance with the law applicable, as provided in section 30, continues to be perfected in New Zealand if it is perfected in the other jurisdiction by the earliest of the following:
-  (a) Not later than 60 days after the day on which the debtor relocates or transfers an interest in the collateral to a person located in the other jurisdiction; or
-  (b) Not later than 15 days after the day on which the secured party has knowledge that the debtor has relocated or transferred an interest in the collateral to a person located in the other jurisdiction; or
-  (c) Prior to the day on which perfection ceases under the law of the first jurisdiction.
+  (a) not later than 60 days after the day on which the debtor relocates or transfers an interest in the collateral to a person located in the other jurisdiction; or
+  (b) not later than 15 days after the day on which the secured party has knowledge that the debtor has relocated or transferred an interest in the collateral to a person located in the other jurisdiction; or
+  (c) prior to the day on which perfection ceases under the law of the first jurisdiction.
 
 ### 32 Position where no public record, etc, of perfection of security interest
 (1) If the law governing the perfection of a security interest referred to in section 30 or section 31 does not provide for public registration or recording of the security interest or a notice relating to it, and the collateral is not in the possession of the secured party, the security interest is subordinate to—
-  (a) An interest in an account receivable that is payable in New Zealand; or
-  (b) An interest in goods, an investment security, a negotiable instrument, a negotiable document of title, money, or chattel paper, acquired when the collateral was situated in New Zealand.
+  (a) an interest in an account receivable that is payable in New Zealand; or
+  (b) an interest in goods, an investment security, a negotiable instrument, a negotiable document of title, money, or chattel paper, acquired when the collateral was situated in New Zealand.
 (2) Subsection (1) does not apply if the security interest is perfected under this Act before the interest referred to in paragraph (a) of that subsection or paragraph (b) of that subsection arises.
 (3) A security interest to which subsection (1) applies may be perfected under this Act.
 
 ### 33 Validity, perfection, etc, of security interest in minerals
 (1) Despite section 30, the validity, perfection, and the effect of perfection or non-perfection of a security interest in minerals, or in an account receivable resulting from the sale of the minerals at the minehead, is governed by the law of the jurisdiction in which the minehead is located if the security interest—
-  (a) Is provided for in a security agreement signed, or assented to by letter, telegram, cable, telex message, facsimile, electronic mail, or other similar means of communication, before the minerals are extracted; and
-  (b) Attaches to the minerals on extraction or attaches to an account receivable on the sale of the minerals.
+  (a) is provided for in a security agreement signed, or assented to by letter, telegram, cable, telex message, facsimile, electronic mail, or other similar means of communication, before the minerals are extracted; and
+  (b) attaches to the minerals on extraction or attaches to an account receivable on the sale of the minerals.
 (2) For the purposes of subsection (1),—
-  - **Minehead** includes a wellhead
-  - **Minerals** include petroleum and gas.
+  - **minehead** includes a wellhead
+  - **minerals** include petroleum and gas.
 
 ## Part 3 — Principles relating to enforceability of security interests
 
@@ -375,9 +379,9 @@ If a debtor relocates to another jurisdiction or transfers an interest in the co
 
 ### 34 Purpose of this Part
 The purpose of this Part is to outline the main principles that are relevant—
-  (a) To determining the enforceability of a security interest against the debtor and third parties:
-  (b) To determining the priority between security interests in the same personal property:
-  (c) To determining the priority between a security interest in personal property and other interests in the same property (for example, the interest of a buyer of goods).
+  (a) to determining the enforceability of a security interest against the debtor and third parties:
+  (b) to determining the priority between security interests in the same personal property:
+  (c) to determining the priority between a security interest in personal property and other interests in the same property (for example, the interest of a buyer of goods).
 
 **Effectiveness of security agreement**
 
@@ -388,11 +392,11 @@ Except as otherwise provided by this Act or any other Act or rule of law or equi
 
 ### 36 Enforceability of security agreements against third parties
 (1) A security agreement is enforceable against a third party in respect of particular collateral only if—
-  (a) The collateral is in the possession of the secured party; or
-  (b) The debtor has signed, or has assented to by letter, telegram, cable, telex message, facsimile, electronic mail, or other similar means of communication, a security agreement that contains—
-    (i) An adequate description of the collateral by item or kind that enables the collateral to be identified; or
-    (ii) A statement that a security interest is taken in all of the debtor's present and after-acquired property; or
-    (iii) A statement that a security interest is taken in all of the debtor's present and after-acquired property except for specified items or kinds of personal property.
+  (a) the collateral is in the possession of the secured party; or
+  (b) the debtor has signed, or has assented to by letter, telegram, cable, telex message, facsimile, electronic mail, or other similar means of communication, a security agreement that contains—
+    (i) an adequate description of the collateral by item or kind that enables the collateral to be identified; or
+    (ii) a statement that a security interest is taken in all of the debtor's present and after-acquired property; or
+    (iii) a statement that a security interest is taken in all of the debtor's present and after-acquired property except for specified items or kinds of personal property.
 (2) To avoid doubt, a security agreement may be enforceable against a third party in respect of particular collateral even though the security agreement is not enforceable against a third party in respect of other collateral to which the security agreement relates.ExamplePerson A sells a motor to person B.The invoice relating to the sale of the motor contains contractual terms, including a retention of title clause.Person B has not signed the invoice.Person A has a security interest in the motor which is enforceable against person B, but is not enforceable against anyone else.
 
 ### 37 Description of collateral as consumer goods or equipment inadequate
@@ -408,9 +412,9 @@ Except as otherwise provided in this Act, a security interest in proceeds is enf
 
 ### 40 Attachment of security interests generally
 (1) A security interest attaches to collateral when—
-  (a) Value is given by the secured party; and
-  (b) The debtor has rights in the collateral; and
-  (c) Except for the purpose of enforcing rights between the parties to the security agreement, the security agreement is enforceable against third parties within the meaning of section 36.
+  (a) value is given by the secured party; and
+  (b) the debtor has rights in the collateral; and
+  (c) except for the purpose of enforcing rights between the parties to the security agreement, the security agreement is enforceable against third parties within the meaning of section 36.
 (2) Subsection (1) does not apply if the parties to a security agreement have agreed that a security interest attaches at a later time, in which case the security interest attaches at the time specified in the agreement.
 (3) For the purposes of subsection (1)(b), a debtor has rights in goods that are leased to the debtor, consigned to the debtor, or sold to the debtor under a conditional sale agreement (including an agreement to sell subject to retention of title) no later than when the debtor obtains possession of the goods.
 (4) To avoid doubt, a reference in a security agreement to a floating charge is not an agreement that the security interest created by the floating charge attaches at a later time than the time specified in subsection (1).ExamplePerson A advances $5,000 to person B in return for a security interest in person B's car and person B has signed a written security agreement in respect of that car.
@@ -418,18 +422,18 @@ Except as otherwise provided in this Act, a security interest in proceeds is enf
 **Perfection of security interests generally**
 
 ### 41 When security interest perfected
-(1) Except as otherwise provided in this Act, a security interest is perfected when—ExamplePerson A's security interest in person B's hire purchase agreement (chattel paper) has attached.Person A takes possession of the hire purchase agreementPerson A's security interest is perfected.
-  (a) The security interest has attached; and
-  (b) Either—
-    (i) A financing statement has been registered in respect of the security interest; orExamplePerson A registers a financing statement in respect of person B's car.Subsequently, person A's security interest in person B's car attaches.Person A's security interest is perfected.
-    (ii) The secured party, or another person on the secured party's behalf, has possession of the collateral (except where possession is a result of seizure or repossession).
+(1) Except as otherwise provided in this Act, a security interest is perfected when—
+  (a) the security interest has attached; and
+  (b) either—
+    (i) a financing statement has been registered in respect of the security interest; orExamplePerson A registers a financing statement in respect of person B's car.Subsequently, person A's security interest in person B's car attaches.Person A's security interest is perfected.
+    (ii) the secured party, or another person on the secured party's behalf, has possession of the collateral (except where possession is a result of seizure or repossession).ExamplePerson A's security interest in person B's hire purchase agreement (chattel paper) has attached.Person A takes possession of the hire purchase agreement.Person A's security interest is perfected.
 (2) Subsection (1) applies regardless of the order in which attachment and either of the steps referred to in paragraph (b) of that subsection occur.
 
 ### 42 Continuity of perfection where perfected security interest subsequently perfected in another way
 A security interest is continuously perfected for the purposes of this Act, if—
-  (a) The security interest is perfected under this Act; and
-  (b) The security interest is subsequently perfected in another way under this Act; and
-  (c) There is no intervening period during which the security interest is unperfected.
+  (a) the security interest is perfected under this Act; and
+  (b) the security interest is subsequently perfected in another way under this Act; and
+  (c) there is no intervening period during which the security interest is unperfected.
 ExamplePerson A has perfected its security interest in person B's shares by taking possession of person B's share certificates.Person A releases the share certificates to person B so that person B can sell the shares.Person A's security interest in person B's shares, which remains perfected for 10 working days after the share certificates were delivered to person B, is continuously perfected from the time that person A took possession of the share certificates.
 
 ## Part 4 — Attachment and perfection of security interests in particular kinds of personal property
@@ -441,57 +445,57 @@ A security agreement may provide for security interests in after-acquired proper
 
 ### 44 Attachment of security interests in after-acquired property
 A security interest in after-acquired property attaches without specific appropriation by the debtor, unless the after-acquired property is consumer goods where—
-  (a) Those consumer goods are not an accession or do not replace the collateral described in the security agreement; or
-  (b) The security interest in those consumer goods is not a purchase money security interest.
+  (a) those consumer goods are not an accession or do not replace the collateral described in the security agreement; or
+  (b) the security interest in those consumer goods is not a purchase money security interest.
 ExamplePerson A and person B have entered into a security agreement, which provides that person A has a security interest in all of person B's present and after-acquired property.After the security agreement has been entered into, person B purchases a computer for the office.Person A's security interest in person B's computer attaches when person B buys the computer.
 
 **Proceeds**
 
 ### 45 Continuation of security interests in proceeds
 (1) Except as otherwise provided in this Act, a security interest in collateral that is dealt with or otherwise gives rise to proceeds—ExamplePerson A has a security interest in person B's car.Person B sells the car without person A's consent.Person A has a security interest in the car and in the money received by person B from the sale of the car.
-  (a) Continues in the collateral, unless the secured party expressly or impliedly authorised the dealing; and
-  (b) Extends to the proceeds.
+  (a) continues in the collateral, unless the secured party expressly or impliedly authorised the dealing; and
+  (b) extends to the proceeds.
 (2) The amount secured by a security interest in collateral and the proceeds is limited to the value of the collateral at the date of the dealing that gave rise to the proceeds, if the secured party enforces the security interest against both the collateral and the proceeds.ExamplePerson A has a perfected security interest in person B's car.The car had a value of $6,000 at the date that person A advanced $4,000 to person B.Two years later, without person A's consent, person B sells the car for $3,500, which is the value of the car at that time.Person A enforces its security interest in the car and the proceeds.Person A can recover only $3,500 as the amount secured by person A's security interest.
 
 ### 46 When security interest in proceeds is continuously perfected
 A security interest in proceeds is a continuously perfected security interest in proceeds if the security interest in the original collateral is perfected by registration of a financing statement that—
-  (a) Contains a description of the proceeds that would be sufficient to perfect a security interest in original collateral of the same kind; or
-  (b) Contains a description of the original collateral, if—
-    (i) The proceeds are of a kind that are within the description of the original collateral; or
-    (ii) The proceeds are cash proceeds; or
-    (iii) The proceeds consist of a payment made in total or partial discharge or redemption of an intangible, a negotiable instrument, an investment security, or chattel paper; or
-    (iv) The proceeds consist of a right to an insurance payment or any other payment as indemnity or compensation for loss or damage to the collateral or proceeds.
+  (a) contains a description of the proceeds that would be sufficient to perfect a security interest in original collateral of the same kind; or
+  (b) contains a description of the original collateral, if—
+    (i) the proceeds are of a kind that are within the description of the original collateral; or
+    (ii) the proceeds are cash proceeds; or
+    (iii) the proceeds consist of a payment made in total or partial discharge or redemption of an intangible, a negotiable instrument, an investment security, or chattel paper; or
+    (iv) the proceeds consist of a right to an insurance payment or any other payment as indemnity or compensation for loss or damage to the collateral or proceeds.
 ExamplePerson A has registered a financing statement in respect of person B's (a car dealer's) inventory (cars).Person A's security interest in the cash proceeds received from the sale of those cars is continuously perfected.
 
 ### 47 Temporary perfection of security interests in proceeds in other cases
 A security interest in proceeds is temporarily perfected until the expiration of 10 working days after the security interest in the original collateral attached to the proceeds, if—
-  (a) The security interest in the original collateral is perfected; and
-  (b) The security interest in the proceeds is not continuously perfected under section 46.
+  (a) the security interest in the original collateral is perfected; and
+  (b) the security interest in the proceeds is not continuously perfected under section 46.
 ExamplePerson A has registered a financing statement in respect of person B's (a car dealer's) inventory (cars).Person B sells the cars under hire purchase agreements (chattel paper).Person A has a security interest in the hire purchase agreements as proceeds.Person A's security interest in the hire purchase agreements is temporarily perfected for 10 working days after person A's security interest in the inventory attached to each agreement as proceeds.
 
 **Collateral returned to debtor**
 
 ### 48 Temporary perfection of security interest in negotiable instrument or investment security returned to debtor
 A security interest in a negotiable instrument or an investment security is temporarily perfected until the expiration of 10 working days after the secured party made the negotiable instrument or investment security available to the debtor, if—
-  (a) The security interest was perfected by possession; and
-  (b) The secured party gave possession of the negotiable instrument or investment security to the debtor for sale, exchange, presentation, collection, renewal, or registration of a transfer.
+  (a) the security interest was perfected by possession; and
+  (b) the secured party gave possession of the negotiable instrument or investment security to the debtor for sale, exchange, presentation, collection, renewal, or registration of a transfer.
 ExamplePerson A has perfected its security interest in person B's shares by taking possession of person B's share certificates.Person A releases the share certificates so that person B can sell the shares.Person A's security interest in person B's shares is temporarily perfected for 10 working days after the share certificates were made available to person B.
 
 ### 49 Temporary perfection of security interest in negotiable document of title or goods returned to debtor
 A security interest in a negotiable document of title or goods held by a bailee that are not covered by a negotiable document of title is temporarily perfected until the expiration of 10 working days after the secured party made the negotiable document of title or goods available to the debtor, if—
-  (a) The security interest was perfected by possession; and
-  (b) The secured party delivered the negotiable document of title or goods for the purposes of sale, exchange, loading, unloading, storing, shipping, manufacturing, processing, packaging, or otherwise dealing with the goods in preparation for their sale or exchange.
+  (a) the security interest was perfected by possession; and
+  (b) the secured party delivered the negotiable document of title or goods for the purposes of sale, exchange, loading, unloading, storing, shipping, manufacturing, processing, packaging, or otherwise dealing with the goods in preparation for their sale or exchange.
 ExamplePerson A has a security interest in person B's fruit, which is being held in cool storage on behalf of person A.Person A authorises the release of the fruit to person B for the purposes of sale.Person A's security interest in person B's fruit is temporarily perfected for 10 working days after the fruit comes under the control of person B.
 
 **Documents of title and goods held by bailee**
 
 ### 50 Perfection where goods in hands of bailee
 A security interest in goods in the possession of a bailee is perfected when the security interest has attached and—
-  (a) A financing statement relating to the goods is registered; or
-  (b) The security interest in the negotiable document of title to the goods is perfected (where the bailee has issued a document of title); or
-  (c) The bailee (being a person who is not the debtor)—
-    (i) Has issued a document of title in the name of the secured party; or
-    (ii) Holds the goods on behalf of the secured party under section 41.
+  (a) a financing statement relating to the goods is registered; or
+  (b) the security interest in the negotiable document of title to the goods is perfected (where the bailee has issued a document of title); or
+  (c) the bailee (being a person who is not the debtor)—
+    (i) has issued a document of title in the name of the secured party; or
+    (ii) holds the goods on behalf of the secured party under section 41.
 ExamplePerson A's security interest in person B's fruit, which is held in cool storage on behalf of person B, has attached and person A has registered a financing statement in respect of the fruit.
 
 **Crops**
@@ -512,47 +516,45 @@ ExamplePerson A has a security interest in person B's car.Person B sells the car
 
 ### 54 Buyer or lessee of consumer goods of certain value takes goods free of security interest
 (1) A buyer or lessee of goods that are acquired as consumer goods takes the consumer goods free of any security interest, if—
-  (a) The value of the consumer goods did not exceed $2,000 at the time the security interest in the goods attached, or, if there is more than 1 security interest in those goods, at the time the security interest with priority over all other security interests attached; and
-  (b) The buyer or lessee—
-    (i) Gave new value for the interest acquired; and
-    (ii) Bought or leased the goods without knowledge of the security interest.
+  (a) the value of the consumer goods did not exceed $2,000 at the time the security interest in the goods attached, or, if there is more than 1 security interest in those goods, at the time the security interest with priority over all other security interests attached; and
+  (b) the buyer or lessee—
+    (i) gave new value for the interest acquired; and
+    (ii) bought or leased the goods without knowledge of the security interest.
 (2) The Governor-General may, from time to time, by Order in Council, alter the amount specified in subsection (1).ExamplePerson A buys a television for $999 under a hire purchase agreement from person B.Person A sells the television to person C for $500.Person C does not know about person B's security interest in the television.Person C takes the television free of person B's security interest in the television.
 
 ### 55 When buyer or lessee of serial-numbered consumer goods or equipment takes consumer goods or equipment free of security interest perfected by registration
 A buyer or lessee of goods that are acquired as consumer goods or equipment, as the case may be, takes the consumer goods or equipment free of a security interest perfected by registration, if—
-  (a) The buyer bought, or the lessee leased, the consumer goods or the equipment without knowledge of the security interest; and
-  (b) The consumer goods are, or the equipment is, of a kind that is required by the regulations to be described by serial number in a financing statement; and
-  (c) The consumer goods were, or the equipment was, not correctly described by serial number in the financing statement relating to the security interest.
+  (a) the buyer bought, or the lessee leased, the consumer goods or the equipment without knowledge of the security interest; and
+  (b) the consumer goods are, or the equipment is, of a kind that is required by the regulations to be described by serial number in a financing statement; and
+  (c) the consumer goods were, or the equipment was, not correctly described by serial number in the financing statement relating to the security interest.
 ExamplePerson A has a security interest in person B's (a company's) cars, which are used by the company's directors.Person A registers a financing statement in respect of those cars, but the financing statement does not contain the cars' serial numbers.Person B sells 1 of the cars to person C who does not know about person A's security interest in the car.Person C takes the car free of person A's security interest in the car.
 
 ### 56 When buyer or lessee of goods takes goods free of temporarily perfected security interests
 A buyer or lessee of goods takes the goods free of a security interest that is temporarily perfected under section 28 or section 47 or section 49 if—
-  (a) The buyer or lessee gave new value for the interest acquired; and
-  (b) The buyer bought, or the lessee leased, the goods without knowledge of the security interest.
+  (a) the buyer or lessee gave new value for the interest acquired; and
+  (b) the buyer bought, or the lessee leased, the goods without knowledge of the security interest.
 ExamplePerson A has registered a financing statement in respect of person B's black car.Person B sells the black car and with the proceeds from the sale of the black car buys a blue car.Person A's security interest, which extends to person B's blue car as proceeds, is temporarily perfected for 10 working days after the original security interest in person B's black car attached to person B's blue car.During those 10 working days, person B sells the blue car to person C for $3,500.Person C, who does not know about person A's temporarily perfected security interest in the blue car as proceeds, takes the blue car free of person A's security interest.
 
 ## Part 6 — Additional provisions relating to when buyers or lessees of motor vehicles take motor vehicles free of security interest
 
 ### 57 Interpretation
 In this Part, unless the context otherwise requires,—
-  - **Consumer** means any person other than a manufacturer, wholesaler, registered trader, or a finance company
-  - **Dealer**
+  - **consumer** means any person other than a manufacturer, wholesaler, registered trader, or a finance company
   - **finance company** has the same meaning as in section 6(1) of the Motor Vehicle Sales Act 2003
-  - **Fund**
   - **manufacturer** means a person who engages in the business of manufacturing or assembling motor vehicles
-  - **Motor vehicle** or —
-    (a) Means a vehicle, including a trailer, that—
-      (i) Is equipped with wheels, tracks, or revolving runners on which it moves or is moved; and
-      (ii) Is drawn or propelled by mechanical power; and
-      (iii) Has a registration number or a chassis number, or both of those numbers; but
-    (b) Does not include—
-      (i) A vehicle running on rails; or
-      (ii) An aircraft; or
-      (iii) A trailer (not being a trailer designed solely for the carriage of goods) that is designed and used exclusively as part of the armament of any of Her Majesty's forces; or
-      (iv) A trailer running on 1 wheel and designed exclusively as a speed measuring device or for testing the wear of vehicle tyres; or
-      (v) A vehicle designed for amusement purposes and used exclusively within a place of recreation, amusement, or entertainment to which the public does not have access with motor vehicles; or
-      (vi) A pedestrian-controlled machine designed to perform some mechanical operation and not designed for the carriage of persons or goods; or
-      (vii) A pedestrian-controlled forklift.
+  - **motor vehicle** or —
+    (a) means a vehicle, including a trailer, that—
+      (i) is equipped with wheels, tracks, or revolving runners on which it moves or is moved; and
+      (ii) is drawn or propelled by mechanical power; and
+      (iii) has a registration number or a chassis number, or both of those numbers; but
+    (b) does not include—
+      (i) a vehicle running on rails; or
+      (ii) an aircraft; or
+      (iii) a trailer (not being a trailer designed solely for the carriage of goods) that is designed and used exclusively as part of the armament of any of Her Majesty's forces; or
+      (iv) a trailer running on 1 wheel and designed exclusively as a speed measuring device or for testing the wear of vehicle tyres; or
+      (v) a vehicle designed for amusement purposes and used exclusively within a place of recreation, amusement, or entertainment to which the public does not have access with motor vehicles; or
+      (vi) a pedestrian-controlled machine designed to perform some mechanical operation and not designed for the carriage of persons or goods; or
+      (vii) a pedestrian-controlled forklift
   - **registered trader** means a motor vehicle trader registered under the Motor Vehicle Sales Act 2003
   - **used motor vehicle** has the meaning given to it by section 6(1) of the Motor Vehicle Sales Act 2003
   - **wholesaler** means—
@@ -576,7 +578,7 @@ A buyer or lessee of a motor vehicle who acquires the motor vehicle for value ta
   (a) the amount outstanding in respect of the debt or other obligation secured by the secured party's security interest in the motor vehicle:
   (b) the payment received or to be received by the registered trader from the sale or the lease of the motor vehicle.
 
-### 60 Reimbursement of secured party by Fund
+### 60 Reimbursement of secured party by fund
 [Repealed]
 
 ### 61 Procedure for making claims for reimbursement
@@ -590,8 +592,8 @@ Every claim for payment made by a secured party under section 59 must be accompa
 
 ### 62 Subrogation of rights of action against debtor and registered trader
 (1) If a secured party is paid under section 59, the registered trader is subrogated, to the extent of the payment, to all rights and remedies that, but for the subrogation,—
-  (a) The secured party would have had against the debtor, or the debtor's personal representatives (in the event of the death or insolvency of the debtor):
-  (b) The secured party would have had in respect of any act or omission that occurred during the course of the sale or lease of the motor vehicle.
+  (a) the secured party would have had against the debtor, or the debtor's personal representatives (in the event of the death or insolvency of the debtor):
+  (b) the secured party would have had in respect of any act or omission that occurred during the course of the sale or lease of the motor vehicle.
 (2)
 
 ### 63 District Court Judge may declare certain persons responsible for repayment to registered trader
@@ -604,11 +606,11 @@ Despite anything to the contrary in any other Act or rule of law, a District Cou
 
 ### 65 Secured party subrogated to rights of registered trader against buyer or lessee
 (1) A secured party is subrogated, to the extent of the amount outstanding in respect of the debt or other obligation secured by a security interest in a motor vehicle, to all rights and remedies that, but for the subrogation, the registered trader would have had against a buyer or lessee of the motor vehicle for the payment of the balance of the purchase price if—
-  (a) The buyer or lessee takes the motor vehicle free from the security interest under section 58; and
-  (b) The buyer or lessee pays part of the purchase price at the time when the motor vehicle is acquired.
+  (a) the buyer or lessee takes the motor vehicle free from the security interest under section 58; and
+  (b) the buyer or lessee pays part of the purchase price at the time when the motor vehicle is acquired.
 (2) Before exercising the rights conferred by this section, the secured party must give notice in writing to the buyer or lessee and, if practicable, the registered trader—
-  (a) Explaining that the buyer or lessee is obliged to pay to the secured party the balance of the purchase price; and
-  (b) Summarising any other rights that the secured party intends to exercise.
+  (a) explaining that the buyer or lessee is obliged to pay to the secured party the balance of the purchase price; and
+  (b) summarising any other rights that the secured party intends to exercise.
 (3) The buyer or lessee is not liable to the secured party for any money paid in reduction of the purchase price at any time before the buyer or lessee receives the notice.
 (4) The receipt of the secured party is a complete discharge for the buyer or lessee for any money paid to the secured party in reduction of the purchase price.
 
@@ -618,12 +620,12 @@ Despite anything to the contrary in any other Act or rule of law, a District Cou
 
 ### 66 Priority of security interests in same collateral when Act provides no other way of determining priority
 If this Act provides no other way of determining priority between security interests in the same collateral,—
-  (a) A perfected security interest has priority over an unperfected security interest in the same collateral:ExamplePerson A's security interest in person B's car has been perfected by registering a financing statement.Person C's security interest in person B's car has not been perfected.Person A's perfected security interest in person B's car has priority over person C's unperfected security interest in person B's car.
-  (b) Priority between perfected security interests in the same collateral (where perfection has been continuous) is to be determined by the order of whichever of the following first occurs in relation to a particular security interest:
-    (i) The registration of a financing statement:
-    (ii) The secured party, or another person on the secured party's behalf, taking possession of the collateral (except where possession is a result of seizure or repossession):
-    (iii) The temporary perfection of the security interest in accordance with this Act:ExamplePerson A registers a financing statement in respect of person B's present and after-acquired property before person C registers a financing statement in respect of the same collateral.Person A's perfected security interest has priority over person C's perfected security interest in the same collateral.
-  (c) Priority between unperfected security interests in the same collateral is to be determined by the order of attachment of the security interests.ExamplePerson A and person C have not perfected their respective security interests in person B's car.Person A's security interest in person B's car was the first to attach.Person A's security interest has priority over person C's security interest in person B's car.
+  (a) a perfected security interest has priority over an unperfected security interest in the same collateral:ExamplePerson A's security interest in person B's car has been perfected by registering a financing statement.Person C's security interest in person B's car has not been perfected.Person A's perfected security interest in person B's car has priority over person C's unperfected security interest in person B's car.
+  (b) priority between perfected security interests in the same collateral (where perfection has been continuous) is to be determined by the order of whichever of the following first occurs in relation to a particular security interest:ExamplePerson A registers a financing statement in respect of person B's present and after-acquired property before person C registers a financing statement in respect of the same collateral.Person A's perfected security interest has priority over person C's perfected security interest in the same collateral.
+    (i) the registration of a financing statement:
+    (ii) the secured party, or another person on the secured party's behalf, taking possession of the collateral (except where possession is a result of seizure or repossession):
+    (iii) the temporary perfection of the security interest in accordance with this Act:
+  (c) priority between unperfected security interests in the same collateral is to be determined by the order of attachment of the security interests.ExamplePerson A and person C have not perfected their respective security interests in person B's car.Person A's security interest in person B's car was the first to attach.Person A's security interest has priority over person C's security interest in person B's car.
 
 ### 67 Original method of perfection applies to continuously perfected security interest
 For the purposes of section 66, a continuously perfected security interest is to be treated at all times as perfected by the method by which it was originally perfected.
@@ -638,8 +640,8 @@ A security interest that is transferred has the same priority as it had at the t
 (1) A secured party may, in a security agreement or otherwise, subordinate the secured party's security interest to any other interest.
 (2) An agreement to subordinate a security interest is effective according to its terms between the parties and may be enforced by a third party if the third party is the person, or 1 of a class of persons, for whose benefit the agreement is intended.
 (3) A security interest is not created only by an agreement or undertaking to postpone or subordinate the following:
-  (a) The right of a person to performance of all or any part of an obligation to the right of another person to the performance of all or any part of another obligation of the same debtor:
-  (b) All or any part of the rights of a secured party under a security agreement to all or any part of the rights of another secured party under another security agreement with the same debtor.
+  (a) the right of a person to performance of all or any part of an obligation to the right of another person to the performance of all or any part of another obligation of the same debtor:
+  (b) all or any part of the rights of a secured party under a security agreement to all or any part of the rights of another secured party under another security agreement with the same debtor.
 
 **Priority of advances**
 
@@ -670,13 +672,13 @@ ExamplePerson A has a security interest in all of person B's present and after-a
 
 ### 76 Priority between purchase money security interests in goods or their proceeds taken by seller, etc
 A purchase money security interest in goods or their proceeds taken by a seller, lessor, or consignor of the collateral, has priority over any other purchase money security interest in the same collateral given by the same debtor if the first-mentioned purchase money security interest in the goods or their proceeds is perfected,—
-  (a) In the case of inventory, at the time the debtor, or another person at the request of the debtor, obtained possession of the collateral, whichever is earlier; or
-  (b) In the case of collateral, other than inventory, not later than 10 working days after the day on which the debtor, or another person at the request of the debtor, obtained possession of the collateral, whichever is earlier.
+  (a) in the case of inventory, at the time the debtor, or another person at the request of the debtor, obtained possession of the collateral, whichever is earlier; or
+  (b) in the case of collateral, other than inventory, not later than 10 working days after the day on which the debtor, or another person at the request of the debtor, obtained possession of the collateral, whichever is earlier.
 ExamplePerson A (a bank) loans person B the deposit for the purchase of a car.Person B pays the deposit to person C (a car dealer) for the purchase of a new car and the balance of the car's purchase price is payable to person C under a hire purchase agreement.Person C registers a financing statement in respect of person B's new car 5 working days after the debtor takes delivery of the car.Person C's perfected purchase money security interest in person B's new car has priority over person A's purchase money security interest in person B's new car.
 
 ### 77 Priority between purchase money security interests in same goods or their proceeds not taken by seller, etc
 Priority between purchase money security interests in the same goods or their proceeds that have not been taken by a seller, lessor, or consignor, and that have been given by the same debtor are to be determined in accordance with section 66.
-ExamplePerson A (a bank) loans money to person B for the purchase of a new car.Person A registers a financing statement in respect of person B's new car.Person C (another bank) loans money to person B for the purchase of the same car.Person C registers a financing statement in respect of person B's new car after person A has registered its financing statement in respect of the same car.Person A's perfected purchase money security interest in person B s new car has priority over person C's perfected purchase money security interest in person B's new car.
+ExamplePerson A (a bank) loans money to person B for the purchase of a new car.Person A registers a financing statement in respect of person B's new car.Person C (another bank) loans money to person B for the purchase of the same car.Person C registers a financing statement in respect of person B's new car after person A has registered its financing statement in respect of the same car.Person A's perfected purchase money security interest in person B's new car has priority over person C's perfected purchase money security interest in person B's new car.
 
 **Priority of security interests in accessions**
 
@@ -690,20 +692,20 @@ ExamplePerson A has a security interest in person B's car.Person C sells a repla
 
 ### 80 Certain interests in whole have priority over security interests in goods before they become accessions
 The interest of any of the following persons has priority over a security interest in goods that is attached at the time when the goods become an accession:
-  (a) A person who acquires for value an interest in the whole after the goods become an accession, but before the security interest in the accession is perfected:
-  (b) An assignee for value of a person with an interest in the whole at the time when the goods become an accession, but before the security interest in the accession is perfected:
-  (c) A person with a perfected security interest in the whole who makes an advance under the security agreement relating to the security interest after the goods become an accession, but before the security interest in the accession is perfected, and only to the extent of the advance:
-  (d) A person with a perfected security interest in the whole who acquires the right to retain the whole in satisfaction of the obligation secured after the goods become an accession, but before the security interest in the accession is perfected.
+  (a) a person who acquires for value an interest in the whole after the goods become an accession, but before the security interest in the accession is perfected:
+  (b) an assignee for value of a person with an interest in the whole at the time when the goods become an accession, but before the security interest in the accession is perfected:
+  (c) a person with a perfected security interest in the whole who makes an advance under the security agreement relating to the security interest after the goods become an accession, but before the security interest in the accession is perfected, and only to the extent of the advance:
+  (d) a person with a perfected security interest in the whole who acquires the right to retain the whole in satisfaction of the obligation secured after the goods become an accession, but before the security interest in the accession is perfected.
 ExamplePerson A sells a motor to person B under a retention of title agreement.The motor is installed in person B's car.Person C takes a security interest in person B's car (including the motor) and perfects its security interest by registering a financing statement.Person C's perfected security interest in person B's car, including the motor, has priority over person A's security interest in the motor.
 
 ### 81 Certain interests have priority over security interests in goods that are not attached when goods become accession
 A security interest in goods that attaches after the goods become an accession is subordinate to the interest of—
-  (a) A person who has an interest in the other goods at the time when the goods become an accession and who—
-    (i) Has not consented to the security interest in the accession; and
-    (ii) Has not disclaimed an interest in the accession; and
-    (iii) Has not entered into an agreement under which another person is entitled to remove the accession; and
-    (iv) Is otherwise entitled to prevent the debtor from removing the accession; or
-  (b) A person who acquires an interest in the whole after the goods become an accession, but before the security interest in the accession is perfected.
+  (a) a person who has an interest in the other goods at the time when the goods become an accession and who—
+    (i) has not consented to the security interest in the accession; and
+    (ii) has not disclaimed an interest in the accession; and
+    (iii) has not entered into an agreement under which another person is entitled to remove the accession; and
+    (iv) is otherwise entitled to prevent the debtor from removing the accession; or
+  (b) a person who acquires an interest in the whole after the goods become an accession, but before the security interest in the accession is perfected.
 ExamplePerson A sells a motor to person B under a retention of title agreement.The motor is installed in person B's car before the retention of title agreement has been signed.Person C takes a security interest in person B's car (including the motor), before person A registers a financing statement in respect of person B's motor.Subsequently, person C registers a financing statement in respect of person B's car (including the motor).Person C's perfected security interest in person B's car (including the motor) has priority over person A's perfected security interest in the motor.
 
 **Priority of security interests in processed or commingled goods**
@@ -722,13 +724,13 @@ Any priority that a security interest continuing in the product or mass has over
 (1) A perfected security interest continuing in the product or mass has priority over an unperfected security interest continuing in the same product or mass.
 (2) If more than 1 perfected security interest continues in the same product or mass, each perfected security interest is entitled to share in the product or mass according to the ratio that the obligation secured by the perfected security interest bears to the sum of the obligations secured by all perfected security interests in the same product or mass.
 (3) If more than 1 unperfected security interest continues in the same product or mass, each unperfected security interest is entitled to share in the product or mass according to the ratio that the obligation secured by the unperfected security interest bears to the sum of the obligations secured by all unperfected security interests in the same product or mass.
-(4) For the purposes of this section, the obligation secured by a security interest does not exceed the value of the goods on the day on which the goods became part of the product or mass.ExamplePerson A manufactures ice cream from sugar and cream.Person B loans person A the full purchase price of the sugar which is $1,000.Person C loans person A the full purchase price of the cream which is $2,000.Person B and person C have registered financial statements.Person A manufactures a batch of ice cream, which sells for $2,000.Person B and person C divide the proceeds in a proportion of 1-to-2.Person B would get 1/3 of $2,000 and person C would get 2/3 of $2,000.
+(4) For the purposes of this section, the obligation secured by a security interest does not exceed the value of the goods on the day on which the goods became part of the product or mass.ExamplePerson A manufactures ice cream from sugar and cream.Person B loans person A the full purchase price of the sugar, which is $1,000.Person C loans person A the full purchase price of the cream, which is $2,000.Person B and person C have registered financing statements.Person A manufactures a batch of ice cream, which sells for $2,000.Person B and person C divide the proceeds in a proportion of 1-to-2.Person B would get one-third of $2,000 and person C would get two-third of $2,000.
 
 ### 86 Priority of purchase money security interest in goods that continues in processed or commingled goods
 Despite section 85, a perfected purchase money security interest in goods that continues in the product or mass has priority over—
-  (a) A non-purchase money security interest in the goods that continues in the product or mass; and
-  (b) A non-purchase money security interest in the product or mass given by the same debtor.
-ExamplePerson A has a perfected security interest in person B's sugar which is to be manufactured into ice cream by person B.Person C loans person B the purchase price of the sugar that is to be used in the manufacture of person B's ice cream.Person C registers a financing statement in respect of person B's sugar.The sugar is manufactured into ice cream.Person C's perfected purchase money security interest in person B s sugar, which continues in person B's ice cream, has priority over person A's security interest in person B's sugar, which also continues in person B's ice cream.
+  (a) a non-purchase money security interest in the goods that continues in the product or mass; and
+  (b) a non-purchase money security interest in the product or mass given by the same debtor.
+ExamplePerson A has a perfected security interest in person B's sugar, which is to be manufactured into ice cream by person B.Person C loans person B the purchase price of the sugar that is to be used in the manufacture of person B's ice cream.Person C registers a financing statement in respect of person B's sugar.The sugar is manufactured into ice cream.Person C's perfected purchase money security interest in person B's sugar, which continues in person B's ice cream, has priority over person A's security interest in person B's sugar, which also continues in person B's ice cream.
 
 **Priority of security interests in transferred collateral**
 
@@ -739,33 +741,33 @@ ExamplePerson A has a perfected security interest in person B's sugar which is t
 
 ### 88 General priority of security interest in transferred collateral over security interests granted by transferee
 (1) If a debtor transfers an interest in collateral that, at the time of the transfer, is subject to a perfected security interest, that security interest has priority over any other security interest granted by the transferee, except to the extent that the security interest granted by the transferee secures advances made or contracted for—
-  (a) After the expiration of 15 days from the date that the secured party who holds the security interest in the transferred collateral had knowledge of the information required to register a financing change statement disclosing the transferee as the new debtor; and
-  (b) Before the secured party referred to in paragraph (a) took possession of the collateral or registered a financing change statement disclosing the transferee as the new debtor.
+  (a) after the expiration of 15 days from the date that the secured party who holds the security interest in the transferred collateral had knowledge of the information required to register a financing change statement disclosing the transferee as the new debtor; and
+  (b) before the secured party referred to in paragraph (a) took possession of the collateral or registered a financing change statement disclosing the transferee as the new debtor.
 (2) Subsection (1) does not apply if the transferee acquires the debtor's interest free of the security interest granted by the debtor.
 
 ### 89 Transfer of debtor's interest in collateral with prior consent of secured party
 Despite section 88, if a security interest is perfected by registration and the debtor transfers all or part of the debtor's interest in the collateral with the prior consent of the secured party, the security interest in the transferred collateral is subordinate to—
-  (a) An interest, other than a security interest in the transferred collateral, arising during the period commencing on the expiration of the fifteenth day after the transfer to the time the secured party amended the registration to disclose the name of the transferee of the interest in the collateral as the new debtor or took possession of the collateral; and
-  (b) A perfected security interest in the transferred collateral that is registered or perfected during the period referred to in paragraph (a); and
-  (c) A perfected security interest in the transferred collateral that is registered or perfected after the transfer and before the expiration of the fifteenth day after the transfer if, before the expiration of the 15 days,—
-    (i) The registration of the security interest first referred to in this section is not amended to disclose the transferee of the interest in the collateral as the new debtor; or
-    (ii) The secured party does not take possession of the collateral.
+  (a) an interest, other than a security interest in the transferred collateral, arising during the period commencing on the expiration of the 15th day after the transfer to the time the secured party amended the registration to disclose the name of the transferee of the interest in the collateral as the new debtor or took possession of the collateral; and
+  (b) a perfected security interest in the transferred collateral that is registered or perfected during the period referred to in paragraph (a); and
+  (c) a perfected security interest in the transferred collateral that is registered or perfected after the transfer and before the expiration of the 15th day after the transfer if, before the expiration of the 15 days,—
+    (i) the registration of the security interest first referred to in this section is not amended to disclose the transferee of the interest in the collateral as the new debtor; or
+    (ii) the secured party does not take possession of the collateral.
 
 ### 90 Transfer of debtor's interest in collateral where secured party has knowledge of certain information
 (1) Despite section 88, subsection (2) applies where a security interest is perfected by registration and the secured party has knowledge of—
-  (a) Information required to register a financing change statement disclosing the transferee as the new debtor, where all or part of the debtor's interest in the collateral is transferred; or
-  (b) The new name of the debtor, if there has been a change in the debtor's name.
+  (a) information required to register a financing change statement disclosing the transferee as the new debtor, where all or part of the debtor's interest in the collateral is transferred; or
+  (b) the new name of the debtor, if there has been a change in the debtor's name.
 (2) The security interest, in the transferred collateral where subsection (1)(a) applies, and in the collateral where subsection (1)(b) applies, is subordinate to—
-  (a) An interest, other than a security interest, in that collateral, arising during the period commencing on the expiration of the fifteenth day after the secured party has knowledge of the information referred to in subsection (1)(a) or the new name of the debtor to the time the secured party amends the registration to disclose the name of the transferee as the debtor, or to disclose the new name of the debtor, or takes possession of the collateral; and
-  (b) A perfected security interest in the collateral that is registered or perfected in the period referred to in paragraph (a); and
-  (c) A perfected security interest in the collateral that is registered or perfected after the secured party had knowledge of the information referred to in subsection (1)(a) or the new name of the debtor and before the expiration of the fifteenth day referred to in paragraph (a), if, before the expiration of the 15 days,—
-    (i) The registration of the security interest first referred to in this subsection is not amended to disclose the transferee of the collateral as the new debtor or to disclose the new name of the debtor; or
-    (ii) The secured party does not take possession of the collateral.
+  (a) an interest, other than a security interest, in that collateral, arising during the period commencing on the expiration of the 15th day after the secured party has knowledge of the information referred to in subsection (1)(a) or the new name of the debtor to the time the secured party amends the registration to disclose the name of the transferee as the debtor, or to disclose the new name of the debtor, or takes possession of the collateral; and
+  (b) a perfected security interest in the collateral that is registered or perfected in the period referred to in paragraph (a); and
+  (c) a perfected security interest in the collateral that is registered or perfected after the secured party had knowledge of the information referred to in subsection (1)(a) or the new name of the debtor and before the expiration of the 15th day referred to in paragraph (a), if, before the expiration of the 15 days,—
+    (i) the registration of the security interest first referred to in this subsection is not amended to disclose the transferee of the collateral as the new debtor or to disclose the new name of the debtor; or
+    (ii) the secured party does not take possession of the collateral.
 
 ### 91 Transfer of debtor's interest in collateral without secured party's consent
 (1) If the debtor's interest in part or all of the collateral is transferred by the debtor without the consent of the secured party and there are 1 or more subsequent transfers of the collateral without the consent of the secured party before the secured party acquires knowledge of the name of the most recent transferee of the collateral, the secured party is deemed to have complied with section 90 if the secured party registers a financing statement not later than 15 days after acquiring knowledge of—
-  (a) The name of the most recent transferee of the collateral; and
-  (b) The information required to register a financing change statement.
+  (a) the name of the most recent transferee of the collateral; and
+  (b) the information required to register a financing change statement.
 (2) The secured party need not register a financing change statement with respect to any intermediate transferee.
 
 ### 92 Prior security interest not subordinated
@@ -777,62 +779,62 @@ Sections 89 to 91 do not have the effect of subordinating a prior security inter
 
 ### 93 Lien has priority over security interest relating to same goods
 A lien arising out of materials or services provided in respect of goods that are subject to a security interest in the same goods has priority over that security interest if—
-  (a) The materials or services relating to the lien were provided in the ordinary course of business; and
-  (b) The lien has not arisen under an Act that provides that the lien does not have the priority; and
-  (c) The person who provided the materials or services did not, at the time the person provided those materials or services, know that the security agreement relating to the security interest contained a provision prohibiting the creation of a lien by the debtor.
+  (a) the materials or services relating to the lien were provided in the ordinary course of business; and
+  (b) the lien has not arisen under an Act that provides that the lien does not have the priority; and
+  (c) the person who provided the materials or services did not, at the time the person provided those materials or services, know that the security agreement relating to the security interest contained a provision prohibiting the creation of a lien by the debtor.
 ExamplePerson A has a perfected security interest in person B's car.Person B takes the car to a garage for repairs.The garage repairs the car but keeps possession of it until the garage receives payment for those repairs.The garage's lien has priority over person A's security interest.
 
 **Priority of purchasers of money, negotiable instruments, investment securities, and chattel paper**
 
 ### 94 When holder of money takes money free of perfected security interest in money
 A holder of money takes the money free of a perfected security interest if the holder—
-  (a) Acquired the money without knowledge of the security interest; or
-  (b) Is a holder for value, whether or not the holder knew of the security interest at the time the holder acquired the money.
-ExamplePerson A has a perfected security interest in person B's (a car dealer's) inventory (cars).Person B sells some of those cars.Person A has a perfected security interest in the cash proceeds from the sale of those cars.Person B uses some of the cash proceeds from the sale of 1 of those cars to buy an office computer from person C.Person C takes the money free of person A s security interest in the money.
+  (a) acquired the money without knowledge of the security interest; or
+  (b) is a holder for value, whether or not the holder knew of the security interest at the time the holder acquired the money.
+ExamplePerson A has a perfected security interest in person B's (a car dealer's) inventory (cars).Person B sells some of those cars.Person A has a perfected security interest in the cash proceeds from the sale of those cars.Person B uses some of the cash proceeds from the sale of 1 of those cars to buy an office computer from person C.Person C takes the money free of person A's security interest in the money.
 
 ### 95 Priority of creditor who receives payment of debt
 (1) A creditor who receives payment of a debt owing by a debtor through a debtor-initiated payment has priority over a security interest in—
-  (a) The funds paid:
-  (b) The intangible that was the source of the payment:
-  (c) A negotiable instrument used to effect the payment.
+  (a) the funds paid:
+  (b) the intangible that was the source of the payment:
+  (c) a negotiable instrument used to effect the payment.
 (2) Subsection (1) applies whether or not the creditor had knowledge of the security interest at the time of the payment.
 (3) In subsection (1), debtor-initiated payment means a payment made by the debtor through the use of—ExamplePerson A has a perfected security interest in person B's (a car dealer's) inventory (cars).Person B sells some of the cars and deposits the cash proceeds into a cheque account.Person B draws a cheque and pays person C (an unsecured creditor).Person C's interest in the cheque has priority over person A's security interest in the cheque.
-  (a) A negotiable instrument; or
-  (b) An electronic funds transfer; or
-  (c) A debit, a transfer order, an authorisation, or a similar written payment mechanism executed by the debtor when the payment was made.
+  (a) a negotiable instrument; or
+  (b) an electronic funds transfer; or
+  (c) a debit, a transfer order, an authorisation, or a similar written payment mechanism executed by the debtor when the payment was made.
 
 ### 96 Priority of purchaser of negotiable instrument
 (1) The interest of a purchaser of a negotiable instrument has priority over a perfected security interest in the negotiable instrument if the purchaser—
-  (a) Gave value for the negotiable instrument; and
-  (b) Acquired the negotiable instrument without knowledge of the security interest; and
-  (c) Took possession of the negotiable instrument.
-(2) For the purposes of subsection (1), the purchaser of a negotiable instrument who acquired it under a transaction entered into in the ordinary course of the transferor's business has knowledge only if the purchaser acquired the interest with knowledge that the transaction is a breach of the security agreement to which the security interest relates.ExamplePerson A has perfected its security interest in person B's (a car dealer's) inventory (cars) by registering a financing statementPerson B sells some of those cars to several customers and deposits the customers' cheques into an overdrawn account that is held at person C's (a bank)Person C, who does not know about person A's security interest in the cheques, has priority over person A's security interest in the cheques.
+  (a) gave value for the negotiable instrument; and
+  (b) acquired the negotiable instrument without knowledge of the security interest; and
+  (c) took possession of the negotiable instrument.
+(2) For the purposes of subsection (1), the purchaser of a negotiable instrument who acquired it under a transaction entered into in the ordinary course of the transferor's business has knowledge only if the purchaser acquired the interest with knowledge that the transaction is a breach of the security agreement to which the security interest relates.ExamplePerson A has perfected its security interest in person B's (a car dealer's) inventory (cars) by registering a financing statement.Person B sells some of those cars to several customers and deposits the customers' cheques into an overdrawn account that is held at person C's (a bank).Person C, who does not know about person A's security interest in the cheques, has priority over person A's security interest in the cheques.
 
 ### 97 Priority of purchaser of investment security
 (1) The interest of a purchaser of an investment security has priority over a perfected security interest in the investment security if the purchaser—
-  (a) Gave value for the investment security; and
-  (b) Acquired the investment security without knowledge of the security interest; and
-  (c) Took possession of the investment security.
+  (a) gave value for the investment security; and
+  (b) acquired the investment security without knowledge of the security interest; and
+  (c) took possession of the investment security.
 (2) For the purposes of subsection (1), the purchaser of an investment security who acquired it under a transaction entered into in the ordinary course of the transferor's business has knowledge only if the purchaser acquired the interest with knowledge that the transaction is a breach of the security agreement to which the security interest relates.ExamplePerson A has registered a financing statement in respect of all of person B's shares.Person C also takes a security interest in all of person B's shares, but does not know about person A's security interest.Person C perfects its security interest by taking possession of person B's share certificates.Person C's security interest in person B's shares has priority over person A's security interest in the same shares.
 
 ### 98 Priority of purchaser of chattel paper
 The interest of a purchaser of chattel paper who takes possession of the chattel paper in the ordinary course of the purchaser's business and for new value has priority over a security interest in the chattel paper—
-  (a) That was perfected, if the purchaser took possession of the chattel paper without knowledge of the security interest; or
-  (b) That has attached to proceeds of inventory, whether or not the purchaser took possession of the chattel paper without knowledge of the security interest.
+  (a) that was perfected, if the purchaser took possession of the chattel paper without knowledge of the security interest; or
+  (b) that has attached to proceeds of inventory, whether or not the purchaser took possession of the chattel paper without knowledge of the security interest.
 ExamplePerson A has registered a financing statement in respect of person B's (a car dealer's) inventory (cars).Person B sells a car to person C (a customer) under a hire purchase agreement (chattel paper).Person B sells the hire purchase agreement to person D.Person D's security interest in the hire purchase agreement has priority over person A's security interest in the same agreement as proceeds of inventory.
 
 ### 99 Priority of holder of negotiable document of title
 (1) The interest of a holder of a negotiable document of title has priority over a perfected security interest in the document of title if the holder—
-  (a) Gave value for the document of title; and
-  (b) Acquired the document of title without knowledge of the security interest.
+  (a) gave value for the document of title; and
+  (b) acquired the document of title without knowledge of the security interest.
 (2) For the purposes of subsection (1), the holder of a negotiable document of title who acquired it under a transaction entered into in the ordinary course of the transferor's business has knowledge only if the holder acquired the interest with knowledge that the transaction is a breach of the security agreement to which the security interest relates.ExamplePerson A has registered a financing statement in respect of person B's document of title to fruit and fruit.Person B sells the fruit to person C who takes possession of the document of title to the fruit without knowledge of person A's perfected security interest in the document of title.Person C's interest in the document of title has priority over person A's perfected security interest in the same document of title.
 
 **Priority of certain interests in crops**
 
 ### 100 Lessor or mortgagee of land not affected by subsequent security interest in crops
 A security interest in crops does not prejudicially affect the rights of a lessor or mortgagee of land on which the crops are growing if—
-  (a) Those rights existed at the time the security interest was created; and
-  (b) The lessor or mortgagee has not consented in writing to the creation of the security interest.
+  (a) those rights existed at the time the security interest was created; and
+  (b) the lessor or mortgagee has not consented in writing to the creation of the security interest.
 
 ### 101 Perfected security interest in crops not prejudicially affected by subsequent sale, etc, of land
 A perfected security interest in crops is not extinguished or prejudicially affected by a subsequent sale, lease, mortgage, or other encumbrance of or upon the land on which the crops are growing.
@@ -841,12 +843,12 @@ A perfected security interest in crops is not extinguished or prejudicially affe
 
 ### 102 Priority of interests on assignment of account receivable or chattel paper
 (1) The rights of an assignee of an account receivable or chattel paper are subject to—
-  (a) The terms of the contract between the account debtor and the assignor and any defence or claim arising from the contract or a closely connected contract; and
-  (b) Any other defence or claim of the account debtor against the assignor (including a defence by way of a right of set-off) that accrues before the account debtor acquires knowledge of the assignment.
+  (a) the terms of the contract between the account debtor and the assignor and any defence or claim arising from the contract or a closely connected contract; and
+  (b) any other defence or claim of the account debtor against the assignor (including a defence by way of a right of set-off) that accrues before the account debtor acquires knowledge of the assignment.
 (2) Subsection (1) does not apply if the account debtor on an account receivable or chattel paper has made an enforceable agreement not to assert defences to claims arising out of the contract.
 (3) In this section,—ExamplePerson A (a car dealer) assigns its accounts receivables to person B who perfects its security interest in person A's accounts receivables by registering a financing statement.Person A sells a blue car to person C (a customer) on hire purchase.Person C sells its red car to person A under an unrelated transaction.Person C does not know about person B's security interest in person A's accounts receivables (which include person C's debt owing to person A in respect of the purchase of the blue car).Person C's right to set-off the debt owing by person A in respect of the sale of the red car against person C's debt to person A in respect of the purchase of the blue car has priority over person B's security interest in person C's debt to person A.
-  - **Account debtor** means a person who is obligated under an account receivable or chattel paper
-  - **Assignee** includes a secured party and a receiver.
+  - **account debtor** means a person who is obligated under an account receivable or chattel paper
+  - **assignee** includes a secured party and a receiver.
 
 ### 103 Execution creditor has priority over unperfected security interest
 (1) The interest of an execution creditor in any collateral has priority over any security interest in the same collateral, if the security interest is not perfected at the time of execution.
@@ -861,9 +863,9 @@ A perfected security interest in crops is not extinguished or prejudicially affe
 
 ### 104 Meaning of surplus
 (1) For the purposes of this Part, there is a surplus if—
-  (a) A secured party has applied the collateral under section 108, and the value of the money, account receivable, negotiable instrument, or investment security exceeds—
-    (i) The amount of the debt owed to the secured party by the debtor (where the collateral secures payment); or
-    (ii) The monetary value of the obligation owed to the secured party (where the collateral secures performance of an obligation):
+  (a) a secured party has applied the collateral under section 108, and the value of the money, account receivable, negotiable instrument, or investment security exceeds—
+    (i) the amount of the debt owed to the secured party by the debtor (where the collateral secures payment); or
+    (ii) the monetary value of the obligation owed to the secured party (where the collateral secures performance of an obligation):
   (b) a secured party has sold the collateral under section 109, and the net proceeds of the sale exceed the sum of the amounts required to be paid under section 116A (if any) and—
     (i) the amount of the debt owed to the secured party by the debtor (if the collateral secures payment); or
     (ii) the monetary value of the obligation owed to the secured party (if the collateral secures performance of an obligation).
@@ -873,11 +875,11 @@ A perfected security interest in crops is not extinguished or prejudicially affe
 
 ### 105 Application of this Part
 This Part applies only to security interests that—
-  (a) Are not security interests in consumer goods to which the Credit (Repossession) Act 1997 applies; and
-  (b) Are not created or provided for by—
-    (i) A transfer of an account receivable or chattel paper; or
-    (ii) A lease for a term of more than 1 year that does not secure payment or performance of an obligation; or
-    (iii) A commercial consignment that does not secure payment or performance of an obligation.
+  (a) are not security interests in consumer goods to which the Credit (Repossession) Act 1997 applies; and
+  (b) are not created or provided for by—
+    (i) a transfer of an account receivable or chattel paper; or
+    (ii) a lease for a term of more than 1 year that does not secure payment or performance of an obligation; or
+    (iii) a commercial consignment that does not secure payment or performance of an obligation.
 
 ### 106 Part not to apply to receivers
 This Part does not apply to a receiver within the meaning of section 2(1) of the Receiverships Act 1993.
@@ -893,7 +895,7 @@ This Part does not apply to a receiver within the meaning of section 2(1) of the
   (f) not be reimbursed for damage caused when a secured party removes an accession under section 126:
   (g) refuse permission to remove an accession under section 127:
   (h) receive notice of the removal of an accession under section 129:
-  (i) apply to the Court for an order concerning the removal of an accession under section 131:
+  (i) apply to the court for an order concerning the removal of an accession under section 131.
   (j)
 (3) The parties to a security agreement may contract out of the secured party's right to apply to a court for an order in respect of the removal of an accession under section 128.
 (4) The provisions of this section, as in force immediately before the commencement of the Property Law Act 2007, continue to apply to a security agreement that was entered into before that commencement.
@@ -907,15 +909,15 @@ A secured party with priority over all other secured parties may apply an accoun
 
 ### 109 Secured party may take possession of and sell collateral
 (1) A secured party may take possession of and sell collateral when—
-  (a) The debtor is in default under the security agreement; or
-  (b) The collateral is at risk.
+  (a) the debtor is in default under the security agreement; or
+  (b) the collateral is at risk.
 (2) In subsection (1), collateral is at risk if the secured party has reasonable grounds to believe that the collateral has been or will be destroyed, damaged, endangered, disassembled, removed, concealed, sold, or otherwise disposed of contrary to the provisions of the security agreement.
 
 ### 110 Duty of secured party selling collateral to obtain best price reasonably obtainable
 A secured party who exercises a power of sale of collateral under section 109 owes a duty to obtain the best price reasonably obtainable as at the time of sale to the following persons:
-  (a) The debtor:
-  (b) Any person who has registered a financing statement in the collateral that is effective at the time the secured party took possession of the collateral:
-  (c) Any person who has given the secured party notice that that person claims an interest in the collateral.
+  (a) the debtor:
+  (b) any person who has registered a financing statement in the collateral that is effective at the time the secured party took possession of the collateral:
+  (c) any person who has given the secured party notice that that person claims an interest in the collateral.
 
 ### 110A No defence or indemnity
 (1) It is not a defence to a proceeding against a secured party for a breach of the duty imposed by section 110 that the secured party was acting as the agent of, or under a power of attorney from, the debtor or any former debtor.
@@ -934,20 +936,20 @@ A secured party may effect a sale of collateral under section 109 by auction, pu
 
 ### 114 Notice of sale of collateral
 (1) A secured party who intends to sell collateral under section 109 must, not less than 10 working days before selling the collateral, give notice to the following persons:
-  (a) The debtor:
-  (b) Any person who has registered a financing statement in respect of the collateral that is effective at the time the secured party took possession of the collateral:
-  (c) Any other person that has given the secured party notice that that person claims an interest in the collateral.
+  (a) the debtor:
+  (b) any person who has registered a financing statement in respect of the collateral that is effective at the time the secured party took possession of the collateral:
+  (c) any other person that has given the secured party notice that that person claims an interest in the collateral.
 (2) Subsection (1) does not apply if—
-  (a) The collateral may perish within 10 working days of the secured party taking possession, or
-  (b) The secured party believes on reasonable grounds that the collateral will decline substantially in value if it is not disposed of immediately; or
-  (c) The cost of care and storage of the collateral is disproportionately large in relation to its value; or
-  (d) The collateral is foreign currency; or
+  (a) the collateral may perish within 10 working days of the secured party taking possession; or
+  (b) the secured party believes on reasonable grounds that the collateral will decline substantially in value if it is not disposed of immediately; or
+  (c) the cost of care and storage of the collateral is disproportionately large in relation to its value; or
+  (d) the collateral is foreign currency; or
   (e) the collateral consists of inventory; or
   (f) the security interest arises under an instrument creating a charge on the property of a body corporate that comprises all, or substantially all, of the assets of the body corporate (whether or not there is a collateral security interest in the collateral securing the same debt or obligation); or
   (g) after the secured party takes possession of the collateral, every person entitled to receive notice under subsection (1) consents in writing to the immediate sale of the collateral; or
   (h) a court grants leave to the secured party to sell collateral under section 109 without complying with subsection (1).
 (3) If a security interest is over collateral and some, but not all, of the collateral is described in subsection (2), the secured party may sell the collateral described in subsection (2) under section 109 without complying with subsection (1).
-(4) If the security interest is created or provided for by a mortgage over goods,
+(4) If the security interest is created or provided for by a mortgage over goods,—
   (a) sections 128 to 136 of the Property Law Act 2007 apply; and
   (b) the notice that is given under subsection (1) must be—
     (i) in the form prescribed by regulations made under that Act (instead of being in the form prescribed by regulations made under this Act); and
@@ -959,9 +961,9 @@ If collateral has been sold under section 109, all security interests in the col
 
 ### 116 Secured party to give statement of account to debtor, etc
 If collateral is sold by a secured party under section 109, the secured party must, within 15 working days after the sale of the collateral, give the persons referred to in section 114(1) a statement of account in writing, showing—
-  (a) The amount of the gross proceeds of sale:
-  (b) The amount of the costs and expenses of, and incidental to, the sale:
-  (c) The balance owing by the secured party to the debtor, or by the debtor to the secured party, as the case may be.
+  (a) the amount of the gross proceeds of sale:
+  (b) the amount of the costs and expenses of, and incidental to, the sale:
+  (c) the balance owing by the secured party to the debtor, or by the debtor to the secured party, as the case may be.
 
 ### 116A Secured party selling collateral must pay prior ranking secured parties
 (1) A secured party who has sold collateral under section 109 must, before applying the net proceeds of the sale towards the satisfaction of the debt or other obligation secured by the security interest of the secured party, apply the net proceeds of the sale towards satisfying the claims of any person who has registered a financing statement in the name of the debtor over the collateral that is sold if—
@@ -974,11 +976,11 @@ If collateral is sold by a secured party under section 109, the secured party mu
 
 ### 117 Distribution of surplus
 (1) If a secured party has applied collateral under section 108 or sold collateral under section 109, as the case may be, the secured party must pay the following persons the amount of any surplus by satisfying the claims of those persons in the following order:
-  (a) Any person who has registered a financing statement in the name of the debtor over the collateral that is sold where—
-    (i) The registration was effective immediately before the collateral was applied or sold; and
-    (ii) The security interest relating to that registration was subordinate to the security interest of the secured party who applied or sold the collateral:
-  (b) Any other person who has given the secured party notice that that person claims an interest in the collateral that is sold and in respect of which the secured party is satisfied that that person has a legally enforceable interest in the collateral:
-  (c) The debtor.
+  (a) any person who has registered a financing statement in the name of the debtor over the collateral that is sold where—
+    (i) the registration was effective immediately before the collateral was applied or sold; and
+    (ii) the security interest relating to that registration was subordinate to the security interest of the secured party who applied or sold the collateral:
+  (b) any other person who has given the secured party notice that that person claims an interest in the collateral that is sold and in respect of which the secured party is satisfied that that person has a legally enforceable interest in the collateral:
+  (c) the debtor.
 (2) The security interests to which subsection (1)(a) applies must be paid in the order of their priority as determined by Part 7 or by Part 8.
 (3) Subsection (1) applies despite the extinguishment of a security interest under section 115.
 (4) This section is subject to sections 153 and 154 of the Property Law Act 2007.
@@ -1009,12 +1011,12 @@ The secured party must sell the collateral under section 109 if a person who is 
 
 ### 124 Disposal of collateral to purchaser for value and in good faith
 (1) A purchaser for value and in good faith who acquires collateral sold by a secured party takes the collateral free from the following interests:
-  (a) The interest of the debtor:
-  (b) Any interest subordinate to that of the debtor:
-  (c) Any interest subordinate to that of the secured party.
+  (a) the interest of the debtor:
+  (b) any interest subordinate to that of the debtor:
+  (c) any interest subordinate to that of the secured party.
 (2) Subsection (1) applies whether or not—
-  (a) The secured party has complied with sections 120 to 123; and
-  (b) Registrations relating to security interests that are subordinate to the security interest of the secured party selling the collateral have been removed from the register.
+  (a) the secured party has complied with sections 120 to 123; and
+  (b) registrations relating to security interests that are subordinate to the security interest of the secured party selling the collateral have been removed from the register.
 
 **Enforcement of security interests in accessions**
 
@@ -1029,57 +1031,57 @@ A secured party who is entitled to take possession of an accession under section
 A person entitled to reimbursement under section 126 may refuse permission to remove the accession until the secured party has given adequate security for the reimbursement.
 
 ### 128 Secured party may apply to court for order in respect of removal of accession
-The Court may, on an application made by a secured party, make an order—
-  (a) Determining who is entitled to reimbursement under section 126:
-  (b) Determining the amount and kind of security to be provided by the secured party under section 127:
-  (c) Prescribing the depository for the security under section 127:
-  (d) Dispensing with the need for the permission of any or all persons entitled to reimbursement under section 126.
+The court may, on an application made by a secured party, make an order—
+  (a) determining who is entitled to reimbursement under section 126:
+  (b) determining the amount and kind of security to be provided by the secured party under section 127:
+  (c) prescribing the depository for the security under section 127:
+  (d) dispensing with the need for the permission of any or all persons entitled to reimbursement under section 126.
 
 ### 129 Secured party must give notice of removal of accession
 (1) The secured party who is entitled to remove the accession from the whole must give notice of the secured party's intention to remove the accession to each of the following persons:
-  (a) A person who is known by the secured party to have an interest in the other goods or in the whole:
-  (b) A person who has registered a financing statement in the name of the debtor and referring to the other goods:
-  (c) A person who has registered a financing statement containing the serial number of the other goods as required or authorised by regulations.
+  (a) a person who is known by the secured party to have an interest in the other goods or in the whole:
+  (b) a person who has registered a financing statement in the name of the debtor and referring to the other goods:
+  (c) a person who has registered a financing statement containing the serial number of the other goods as required or authorised by regulations.
 (2) The notice referred to in subsection (1) must be given not less than 10 working days before the removal of the accession and must contain—
-  (a) The name and address of the secured party; and
-  (b) A description of the goods to be removed; and
-  (c) A description of the other goods; and
-  (d) The amount due to the secured party and the value of the accession if the accession were removed from the other goods; and
-  (e) A statement of intention to remove the accession, unless the lesser of the amount secured or the value of the accession is paid on or before a specified date that is not less than 10 working days after the notice is given.
+  (a) the name and address of the secured party; and
+  (b) a description of the goods to be removed; and
+  (c) a description of the other goods; and
+  (d) the amount due to the secured party and the value of the accession if the accession were removed from the other goods; and
+  (e) a statement of intention to remove the accession, unless the lesser of the amount secured or the value of the accession is paid on or before a specified date that is not less than 10 working days after the notice is given.
 (3) This section does not apply if—
-  (a) The secured party believes on reasonable grounds that the collateral will decline substantially in value if it is not disposed of immediately after default; or
-  (b) The cost of care and storage of the collateral is disproportionately large in relation to its value; or
-  (c) For any other reason, a court on an ex parte application is satisfied that a notice is not required.
+  (a) the secured party believes on reasonable grounds that the collateral will decline substantially in value if it is not disposed of immediately after default; or
+  (b) the cost of care and storage of the collateral is disproportionately large in relation to its value; or
+  (c) for any other reason, a court on an ex parte application is satisfied that a notice is not required.
 
 ### 130 When person with interest in whole may retain accession
 A person, other than the debtor, who has an interest in the whole that under this Act is subordinate to a security interest in the accession may retain the accession on payment to the secured party with a security interest that has priority over all other security interests in the accession of the lesser of—
-  (a) The amount due to the secured party; or
-  (b) The value of the accession if the accession were removed from the other goods.
+  (a) the amount due to the secured party; or
+  (b) the value of the accession if the accession were removed from the other goods.
 
 ### 131 Court may make order concerning removal of accession
-The Court may, on the application of a person entitled to receive a notice under section 129, make an order—
-  (a) Postponing the removal of the accession:
-  (b) Determining the amount payable to the secured party under section 130 for the retention of the accession.
+The court may, on the application of a person entitled to receive a notice under section 129, make an order—
+  (a) postponing the removal of the accession:
+  (b) determining the amount payable to the secured party under section 130 for the retention of the accession.
 
 **Right to redeem collateral and reinstate security agreement**
 
 ### 132 Entitled persons may redeem collateral
 (1) At any time before the secured party sells the collateral or is deemed to have taken the collateral in satisfaction of the obligation secured by it, a person who is entitled to receive a notice under section 114 may, unless that person otherwise agrees in writing after default, redeem the collateral by—
-  (a) Tendering fulfilment of the obligations secured by the collateral; and
-  (b) Paying a sum equal to the reasonable expenses of seizing, repossessing, holding, repairing, processing, and preparing the collateral for sale, if those expenses have actually been incurred by the secured party, and any other reasonable expenses incurred by the secured party in enforcing the security agreement.
+  (a) tendering fulfilment of the obligations secured by the collateral; and
+  (b) paying a sum equal to the reasonable expenses of seizing, repossessing, holding, repairing, processing, and preparing the collateral for sale, if those expenses have actually been incurred by the secured party, and any other reasonable expenses incurred by the secured party in enforcing the security agreement.
 (2) The debtor's right to redeem the collateral has priority over any other person's right to redeem the collateral.
 
 ### 133 Debtor may reinstate security agreement
 (1) At any time before the secured party sells the collateral or is deemed to have taken the collateral in satisfaction of the obligation secured by it, the debtor may, unless the debtor has otherwise agreed in writing after default, reinstate the security agreement by—
-  (a) Paying the sums actually in arrears, exclusive of the operation of an acceleration clause in the security agreement; and
-  (b) Remedying any other default by reason of which the secured party intends to sell the collateral; and
-  (c) Paying a sum equal to the reasonable expenses of seizing, repossessing, holding, repairing, processing, and preparing the collateral for sale, if those expenses have actually been incurred by the secured party, and any other reasonable expenses incurred by the secured party in enforcing the security agreement.
+  (a) paying the sums actually in arrears, exclusive of the operation of an acceleration clause in the security agreement; and
+  (b) remedying any other default by reason of which the secured party intends to sell the collateral; and
+  (c) paying a sum equal to the reasonable expenses of seizing, repossessing, holding, repairing, processing, and preparing the collateral for sale, if those expenses have actually been incurred by the secured party, and any other reasonable expenses incurred by the secured party in enforcing the security agreement.
 (2) Subsection (1) does not apply to any security agreement made or entered into before the commencement of this Act.
 
 ### 134 Limit on reinstatement of security agreement
 Unless otherwise agreed, the debtor is not entitled to reinstate a security agreement—
-  (a) More than twice, if the security agreement provides for payment in full by the debtor not later than 12 months after the day on which value was given by the secured party; or
-  (b) More than twice in each year, if the security agreement provides for payment by the debtor during a period greater than 1 year after the day on which value was given by the secured party.
+  (a) more than twice, if the security agreement provides for payment in full by the debtor not later than 12 months after the day on which value was given by the secured party; or
+  (b) more than twice in each year, if the security agreement provides for payment by the debtor during a period greater than 1 year after the day on which value was given by the secured party.
 
 ## Part 10 — Personal property securities register
 
@@ -1087,17 +1089,17 @@ Unless otherwise agreed, the debtor is not entitled to reinstate a security agre
 
 ### 135 Interpretation
 In this Part, unless the context otherwise requires,—
-  - **Debtor** includes the person named as the debtor in the financing statement or financing change statement, as the case may be
-  - **Financing change statement** means the data required or authorised by this Act or the regulations to be entered in the register to renew, discharge, or otherwise amend a financing statement
-  - **Financing statement** —
-    (a) Means the data required or authorised by this Act or the regulations to be entered in the register to effect a registration for the purposes of perfecting a security interest in collateral under this Act; and
-    (b) Includes a financing change statement (if the context permits):
-  - **Register** means the register of personal property securities established under section 139
+  - **debtor** includes the person named as the debtor in the financing statement or financing change statement, as the case may be
+  - **financing change statement** means the data required or authorised by this Act or the regulations to be entered in the register to renew, discharge, or otherwise amend a financing statement
+  - **financing statement** —
+    (a) means the data required or authorised by this Act or the regulations to be entered in the register to effect a registration for the purposes of perfecting a security interest in collateral under this Act; and
+    (b) includes a financing change statement (if the context permits)
+  - **register** means the register of personal property securities established under section 139
   - **Registrar** means the Registrar of Personal Property Securities appointed in accordance with section 136
-  - **Secured party** includes the person named as the secured party in the financing statement or financing change statement, as the case may be
-  - **Verification statement** means the data that is required or authorised by this Act or the regulations to confirm the registration of a financing statement or financing change statement.
+  - **secured party** includes the person named as the secured party in the financing statement or financing change statement, as the case may be
+  - **verification statement** means the data that is required or authorised by this Act or the regulations to confirm the registration of a financing statement or financing change statement.
 
-**Registrar of personal property securities**
+**Registrar of Personal Property Securities**
 
 ### 136 Appointment of Registrar
 (1) There must be a Registrar of Personal Property Securities who must be appointed by the Secretary under the State Sector Act 1988.
@@ -1119,24 +1121,24 @@ The Registrar may refuse access to the register or otherwise suspend the operati
 ### 139 Personal property securities register
 (1) The Registrar must ensure that a register of personal property security interests known as the personal property securities register is kept in New Zealand.
 (2) The register is to be—
-  (a) An electronic register; and
-  (b) Maintained for the purposes of registrations under this Act; and
-  (c) Operated at all times, unless—
-    (i) The Registrar suspends the operation of the register, in whole or in part, in accordance with section 138; or
-    (ii) Otherwise provided in the regulations.
+  (a) an electronic register; and
+  (b) maintained for the purposes of registrations under this Act; and
+  (c) operated at all times, unless—
+    (i) the Registrar suspends the operation of the register, in whole or in part, in accordance with section 138; or
+    (ii) otherwise provided in the regulations.
 
 ### 140 Contents of register
 The register contains the following data:
   (a) if the debtor is an individual, the debtor's name, address, and date of birth or, if the debtor is an organisation,—
     (i) the name and address of the organisation; and
     (ii) the name or job title, and contact details, of the person acting on its behalf:
-  (b) If the debtor is an organisation that is incorporated, the unique number assigned to it on its incorporation:
+  (b) if the debtor is an organisation that is incorporated, the unique number assigned to it on its incorporation:
   (c) if the secured party is an individual, the secured party's name and address or, if the secured party is an organisation,—
     (i) the name and address of the organisation; and
     (ii) the name or job title, and contact details, of the person acting on its behalf:
-  (d) A description of the collateral, including its serial number if required by this Act or by the regulations:
-  (e) The date of prior registration, if prior registration law (as defined in section 193) applies in respect of the security interest:
-  (f) Any other data specified in the regulations.
+  (d) a description of the collateral, including its serial number if required by this Act or by the regulations:
+  (e) the date of prior registration, if prior registration law (as defined in section 193) applies in respect of the security interest:
+  (f) any other data specified in the regulations.
 
 **Registration of financing statements**
 
@@ -1149,19 +1151,19 @@ A person may register a financing statement in accordance with this Act and the 
     (i) the name and address of the organisation; and
     (ii) the name or job title, and contact details, of the person acting on its behalf:
   (b)
-  (c) If the debtor is an organisation that is incorporated, the unique number assigned to it on its incorporation:
+  (c) if the debtor is an organisation that is incorporated, the unique number assigned to it on its incorporation:
   (d) if the secured party is an individual, the secured party's name and address or, if the secured party is an organisation,—
     (i) the name and address of the organisation; and
     (ii) the name or job title, and contact details, of the person acting on its behalf:
-  (e) A description of the collateral, including its serial number if required by this Act or by the regulations:
-  (f) The date of prior registration, if prior registration law (as defined in section 193) applies in respect of the security interest:
-  (g) Any other data required by this Act or the regulations to be contained in the financing statement.
+  (e) a description of the collateral, including its serial number if required by this Act or by the regulations:
+  (f) the date of prior registration, if prior registration law (as defined in section 193) applies in respect of the security interest:
+  (g) any other data required by this Act or the regulations to be contained in the financing statement.
 (2) Subsection (1) does not limit section 149.
 
 ### 143 When financing statement or financing change statement not to be registered
 A financing statement or financing change statement must not be registered if—
-  (a) It is not submitted in the prescribed manner or in a form that enables the data to be entered directly by electronic means:
-  (b) The prescribed fee has not been paid to the Registrar, unless arrangements for its payment have been made in accordance with the regulations.
+  (a) it is not submitted in the prescribed manner or in a form that enables the data to be entered directly by electronic means:
+  (b) the prescribed fee has not been paid to the Registrar, unless arrangements for its payment have been made in accordance with the regulations.
 
 ### 144 When financing statement or financing change statement registered
 A financing statement or financing change statement is registered at the time that a registration number, date, and time is assigned to it in the register.
@@ -1171,8 +1173,8 @@ A verification statement must, as soon as reasonably practicable after a financi
 
 ### 146 When financing statement may be registered
 A financing statement may be registered before or after—
-  (a) A security agreement is made; or
-  (b) A security interest has attached.
+  (a) a security agreement is made; or
+  (b) a security interest has attached.
 
 ### 147 Financing statement may relate to 1 or more security agreements
 A financing statement may relate to 1 or more security agreements.
@@ -1187,8 +1189,8 @@ The validity of the registration of a financing statement is not affected by any
 
 ### 150 When financing statement seriously misleading
 Without limiting the circumstances in which a registration is invalid, a registration is invalid if there is a seriously misleading defect, irregularity, omission, or error in—
-  (a) The name of any of the debtors required by section 142 to be included in the financing statement other than a debtor who does not own or have rights in the collateral; or
-  (b) The serial number of the collateral if the collateral is consumer goods, or equipment, of a kind that is required by the regulations to be described by serial number in a financing statement.
+  (a) the name of any of the debtors required by section 142 to be included in the financing statement other than a debtor who does not own or have rights in the collateral; or
+  (b) the serial number of the collateral if the collateral is consumer goods, or equipment, of a kind that is required by the regulations to be described by serial number in a financing statement.
 
 ### 151 Proof that person actually misled not necessary
 In order to establish that a defect, irregularity, omission, or error is seriously misleading, it is not necessary to prove that any person was actually misled by it.
@@ -1200,15 +1202,15 @@ Failure to include a description of any item or kind of collateral in a financin
 
 ### 153 Duration of registration of financing statement
 (1) Except as otherwise provided in this Act or in the regulations, a registration of a financing statement under this Act is effective until whichever is the earlier of—
-  (a) The expiration of the term specified in the financing statement; or
-  (b) The expiration of 5 years commencing on the date on which and at the time at which the financing statement was registered.
+  (a) the expiration of the term specified in the financing statement; or
+  (b) the expiration of 5 years commencing on the date on which and at the time at which the financing statement was registered.
 (2) Subsection (1) does not apply if the registration of the financing statement is discharged or removed before the expiration of the relevant period referred to in that subsection.
 
 ### 154 Renewal of registration
 (1) A registration may be renewed by registering a financing change statement at any time during the period that the registration is effective.
 (2) Except as otherwise provided in this Act or in the regulations, the period of time for which a registration of a financing statement is effective is extended until whichever is the earlier of—
-  (a) The expiration of the new term specified in the financing change statement; or
-  (b) The expiration of 5 years commencing on the date on which and at the time at which the financing change statement was registered.
+  (a) the expiration of the new term specified in the financing change statement; or
+  (b) the expiration of 5 years commencing on the date on which and at the time at which the financing change statement was registered.
 (3) Subsection (2) does not apply if the registration of the financing statement is discharged or removed before the expiration of the relevant period referred to in that subsection.
 
 **Registrations where security interest is transferred**
@@ -1244,25 +1246,25 @@ If a registration relates exclusively to a security interest in consumer goods, 
 
 ### 162 When debtor, etc, may demand registration of financing change statement
 The debtor or any person with an interest in property that falls within the collateral description included in a registered financing statement may give a written demand to the secured party if—
-  (a) All of the obligations under the security agreement to which the financing statement relates have been performed:
-  (b) The secured party has agreed to release part or all of the collateral described in the collateral description included in the financing statement:
-  (c) The collateral described in the collateral description included in the financing statement includes an item or kind of property that is not collateral under a security agreement between the secured party and the debtor:
-  (d) No security agreement exists between the parties:
-  (e) The security interest is extinguished in accordance with this Act.
+  (a) all of the obligations under the security agreement to which the financing statement relates have been performed:
+  (b) the secured party has agreed to release part or all of the collateral described in the collateral description included in the financing statement:
+  (c) the collateral described in the collateral description included in the financing statement includes an item or kind of property that is not collateral under a security agreement between the secured party and the debtor:
+  (d) no security agreement exists between the parties:
+  (e) the security interest is extinguished in accordance with this Act.
 
 ### 163 Matters that may be required by demand
 A demand under section 162 may require the secured party to register, within 15 working days after the demand is given, a financing change statement—
-  (a) Discharging the registration in a case within paragraph (a) or paragraph (d) or paragraph (e) of section 162; or
-  (b) Amending or discharging the registration so as to reflect the terms of the agreement in a case within paragraph (b) of section 162; or
-  (c) Amending the collateral description to exclude items or kinds of property that are not collateral under a security agreement between the secured party and the debtor in a case within paragraph (c) of section 162.
+  (a) discharging the registration in a case within paragraph (a) or paragraph (d) or paragraph (e) of section 162; or
+  (b) amending or discharging the registration so as to reflect the terms of the agreement in a case within paragraph (b) of section 162; or
+  (c) amending the collateral description to exclude items or kinds of property that are not collateral under a security agreement between the secured party and the debtor in a case within paragraph (c) of section 162.
 
 ### 164 Application of sections 165 to 167 in cases not involving security trust deeds
 Sections 165 to 167 do not apply to the registration of a security interest provided for in a security trust deed if the registration discloses that the security agreement providing for the security interest is a security trust deed.
 
 ### 165 Procedure where non-compliance with demand and no court order in cases not involving security trust deed
 (1) The person giving the demand under section 162 may enter in the register the financing change statement referred to in section 163 if the secured party—
-  (a) Fails to comply with the demand within 15 working days after it is given; or
-  (b) Fails, within 15 working days after the demand is given, to give to that person a court order maintaining the registration.
+  (a) fails to comply with the demand within 15 working days after it is given; or
+  (b) fails, within 15 working days after the demand is given, to give to that person a court order maintaining the registration.
 (2) The Registrar must ensure that the secured party is given a notice stating that the financing change statement will be registered unless a court order maintaining the registration is served on the Registrar within 15 working days of the notice being given to the secured party.
 (3) The notice referred to in subsection (2) must be given to the secured party as soon as reasonably practicable after the financing change statement is entered in the register.
 
@@ -1271,17 +1273,17 @@ Sections 165 to 167 do not apply to the registration of a security interest prov
 (2) The financing change statement will be registered in accordance with section 144, if a court order maintaining the registration is not given to the Registrar within 15 working days of the notice referred to in section 165(2) being given to the secured party.
 
 ### 167 Secured party may obtain court order in cases not involving security trust deed
-(1) At any time before the financing change statement referred to in section 163 is registered, the Court may, on application by the secured party, and if the Court is satisfied that none of the grounds for making a demand under section 162 exist, order that the registration—
-  (a) Be maintained on any condition, and subject to sections 153 and 154, for any period of time; or
-  (b) Be discharged or amended.
-(2) The Court may make any other orders it thinks proper for the purpose of giving effect to an order under subsection (1).
+(1) At any time before the financing change statement referred to in section 163 is registered, the court may, on application by the secured party, and if the court is satisfied that none of the grounds for making a demand under section 162 exist, order that the registration—
+  (a) be maintained on any condition, and subject to sections 153 and 154, for any period of time; or
+  (b) be discharged or amended.
+(2) The court may make any other orders it thinks proper for the purpose of giving effect to an order under subsection (1).
 (3) The Registrar must amend or discharge a registration of a financing statement in accordance with a court order made under subsection (1) as soon as reasonably practicable after receiving the order.
 
 ### 168 Procedure where non-compliance with demand and security trust deed involved
-(1) The Court may, on application by the person making the demand under section 162, and if the Court is satisfied that 1 or more of the grounds for making a demand under that section exist, make an order directing that the registration be amended or discharged if—
-  (a) The registration of a security interest discloses that the security agreement providing for the security interest is a security trust deed; and
-  (b) The secured party fails to comply with the demand within 15 working days after it is given.
-(2) The Court may make any other orders it thinks proper for the purpose of giving effect to an order under subsection (1).
+(1) The court may, on application by the person making the demand under section 162, and if the court is satisfied that 1 or more of the grounds for making a demand under that section exist, make an order directing that the registration be amended or discharged if—
+  (a) the registration of a security interest discloses that the security agreement providing for the security interest is a security trust deed; and
+  (b) the secured party fails to comply with the demand within 15 working days after it is given.
+(2) The court may make any other orders it thinks proper for the purpose of giving effect to an order under subsection (1).
 (3) The Registrar must amend or discharge a registration of a financing statement in accordance with a court order made under subsection (1) as soon as reasonably practicable after receiving the order.
 
 ### 169 No fee for compliance with demand
@@ -1300,8 +1302,8 @@ A secured party may not charge any fees for compliance with a demand given under
   (c) if the Registrar is satisfied that the data is frivolous or vexatious.
 (2) The Registrar must, before he or she makes a decision under subsection (1)(c), give the secured party notice to show cause, within 10 working days of the date on which the notice is given, why the data is not frivolous or vexatious.
 (3) If the secured party fails within 10 working days of the date on which the notice is given to show cause to the Registrar's satisfaction why the data is not frivolous or vexatious, the Registrar may, in the Registrar's discretion, remove the data from the register.
-(4) If data is removed from the register under subsection (1)(c), the Court may, on the application of the secured party, make an order directing that the data be restored to the register if it is satisfied that the data is neither frivolous nor vexatious.
-(5) The Court may make any other orders that it thinks proper for the purpose of giving effect to an order under subsection (4).
+(4) If data is removed from the register under subsection (1)(c), the court may, on the application of the secured party, make an order directing that the data be restored to the register if it is satisfied that the data is neither frivolous nor vexatious.
+(5) The court may make any other orders that it thinks proper for the purpose of giving effect to an order under subsection (4).
 (6) The Registrar must restore the data to the register in accordance with a court order made under subsection (4) as soon as reasonably practicable after receiving the order.
 
 ### 170A Correction of errors or omissions
@@ -1314,42 +1316,42 @@ A person may search the register, and obtain a printed search result, in accorda
 
 ### 172 Search criteria
 The register may be searched only by reference to the following criteria:
-  (a) The name of the debtor:
+  (a) the name of the debtor:
   (b) the name and address of the debtor or, if the debtor is an organisation, the name and address of the organisation and the name or job title, and contact details, of the person acting on its behalf:
-  (c) The name and date of birth of the debtor:
-  (d) If the debtor is a company, the unique number assigned to the company by the Registrar of Companies on the registration of the company under the Companies Act 1993:
-  (e) If collateral is required by this Act or by the regulations to be described by serial number in a financing statement, the serial number of the collateral:
-  (f) The registration number assigned to the registration under section 144:
-  (g) Any other criteria specified in the regulations.
+  (c) the name and date of birth of the debtor:
+  (d) if the debtor is a company, the unique number assigned to the company by the Registrar of Companies on the registration of the company under the Companies Act 1993:
+  (e) if collateral is required by this Act or by the regulations to be described by serial number in a financing statement, the serial number of the collateral:
+  (f) the registration number assigned to the registration under section 144:
+  (g) any other criteria specified in the regulations.
 
 ### 173 Search purposes, etc
 A search of the register may be carried out only by the following persons for the following purposes:
-  (a) An individual, or a person with the consent of the individual, for the purpose of searching for information about that individual in accordance with the Privacy Act 1993:
-  (b) A debtor or secured party for a purpose that relates to the debtor's or secured party's security interest in respect of which a financing statement has been registered:
-  (c) A person for the purpose of—
-    (i) Establishing whether or not personal property that is to be purchased or otherwise dealt with by the person is subject to a security interest:
-    (ii) Establishing whether to provide credit to, or to obtain a guarantee or an indemnity from, the person named in the search or the person with an interest in the personal property described in the search:
+  (a) an individual, or a person with the consent of the individual, for the purpose of searching for information about that individual in accordance with the Privacy Act 1993:
+  (b) a debtor or secured party for a purpose that relates to the debtor's or secured party's security interest in respect of which a financing statement has been registered:
+  (c) a person for the purpose of—
+    (i) establishing whether or not personal property that is to be purchased or otherwise dealt with by the person is subject to a security interest:
+    (ii) establishing whether to provide credit to, or to obtain a guarantee or an indemnity from, the person named in the search or the person with an interest in the personal property described in the search:
     (iia) establishing whether to provide credit to, or to obtain a guarantee or an indemnity from, a related company of the company named in the search or of the company with an interest in the personal property described in the search:
-    (iii) Establishing whether to invest in, with, or through, the person named in the search:
+    (iii) establishing whether to invest in, with, or through, the person named in the search:
     (iv) establishing whether to invest in, with, or through, a related company of the company named in the search or of the company with an interest in the personal property described in the search:
-  (d) A liquidator of a company for a purpose that relates to the administration of the liquidation:
-  (e) A receiver for a purpose that relates to the administration of the receivership:
-  (f) The Official Assignee for a purpose that relates to the administration of the bankruptcy of the person named in the search:
-  (g) An executor or administrator of a deceased estate for a purpose that relates to the administration of the deceased estate of the person named in the search:
-  (h) A public sector agency for a purpose that relates to the maintenance of the law (including the prevention, detection, investigation, prosecution, and punishment of offences):
-  (i) The holder of a lien or charge, or a creditor, for a purpose that relates to the enforcement of the lien, charge, or creditor's rights, as the case may be:
-  (j) A bailiff of the High Court of New Zealand or of any other court for a purpose that relates to the enforcement of a court order or warrant:
-  (k) Any news medium for the purpose of verifying or establishing, in relation to a particular record, a fact that relates to its news activities:
+  (d) a liquidator of a company for a purpose that relates to the administration of the liquidation:
+  (e) a receiver for a purpose that relates to the administration of the receivership:
+  (f) the Official Assignee for a purpose that relates to the administration of the bankruptcy of the person named in the search:
+  (g) an executor or administrator of a deceased estate for a purpose that relates to the administration of the deceased estate of the person named in the search:
+  (h) a public sector agency for a purpose that relates to the maintenance of the law (including the prevention, detection, investigation, prosecution, and punishment of offences):
+  (i) the holder of a lien or charge, or a creditor, for a purpose that relates to the enforcement of the lien, charge, or creditor's rights, as the case may be:
+  (j) a bailiff of the High Court of New Zealand or of any other court for a purpose that relates to the enforcement of a court order or warrant:
+  (k) any news medium for the purpose of verifying or establishing, in relation to a particular record, a fact that relates to its news activities:
   (ka) the Registrar for a purpose that relates to any of the functions, duties, and powers exercisable by the Registrar in relation to this Act:
-  (l) A person for the purpose of advising another person in connection with any of the purposes referred to in paragraphs (a) to (ka).
+  (l) a person for the purpose of advising another person in connection with any of the purposes referred to in paragraphs (a) to (ka).
 
 ### 174 When search constitutes interference with privacy of individual
 A search of the register for personal information that has not been carried out in accordance with sections 171 to 173 constitutes an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
 
 ### 175 Printed search result receivable as evidence
 A printed search result that purports to be issued by the register is receivable as evidence and is, in the absence of evidence to the contrary, proof of the registration of any financing statement to which the search relates, including—
-  (a) The date and time of registration of the financing statement; and
-  (b) The order of registration of the financing statement as indicated by the registration number, date, and time set out in the printed search result.
+  (a) the date and time of registration of the financing statement; and
+  (b) the order of registration of the financing statement as indicated by the registration number, date, and time set out in the printed search result.
 
 ## Part 11 — Miscellaneous
 
@@ -1363,31 +1365,31 @@ A printed search result that purports to be issued by the register is receivable
 
 ### 177 Secured party to provide certain information relating to security interest
 (1) The debtor, a judgment creditor, a person with a security interest in personal property of the debtor, or an authorised representative of any of them, may request the secured party to send or make available to any specified person, at an address specified by the person making the request, any of the following:
-  (a) A copy of a security agreement that creates or provides for a security interest held by the secured party in the personal property of the debtor:
-  (b) A statement in writing of the amount of the indebtedness and of the terms of payment of the indebtedness:
-  (c) A written approval or correction of an itemised list of personal property indicating which items are collateral, unless the security interest is over all of the personal property of the debtor:
-  (d) A written approval or correction of the amount of indebtedness and of the terms of payment of the indebtedness.
+  (a) a copy of a security agreement that creates or provides for a security interest held by the secured party in the personal property of the debtor:
+  (b) a statement in writing of the amount of the indebtedness and of the terms of payment of the indebtedness:
+  (c) a written approval or correction of an itemised list of personal property indicating which items are collateral, unless the security interest is over all of the personal property of the debtor:
+  (d) a written approval or correction of the amount of indebtedness and of the terms of payment of the indebtedness.
 (2) Subsection (1) does not apply if the information requested under that subsection must be, or has already been, made available under any other Act or rule of law, to the person who made the request.
 
 ### 178 Time for complying with request
 A secured party who is required to comply with a request made under section 177(1) must comply with the request within 10 working days of the receipt of the request, unless the secured party has been exempted under section 179.
 
 ### 179 Exemption from complying with request
-The Court may, on application by a secured party, make an order exempting the secured party from complying with a request made under section 177 in whole or in part or extending the time for compliance if the Court is satisfied that, in the circumstances, it would be unreasonable for the secured party to comply with the request.
+The court may, on application by a secured party, make an order exempting the secured party from complying with a request made under section 177 in whole or in part or extending the time for compliance if the court is satisfied that, in the circumstances, it would be unreasonable for the secured party to comply with the request.
 
 ### 180 Secured party may recover costs arising from request
 (1) A secured party, who is required under section 177 to provide certain information, may charge the person requesting the information reasonable costs for providing the information, unless the person who has requested the information is the debtor.
 (2) A debtor who has requested information under section 177 is entitled to be supplied free of charge with that information.
 
 ### 181 Application to court for compliance with request
-The Court may, on application by the person who made a request under section 177, make an order requiring the secured party to comply with the request if, without reasonable excuse, the secured party failed to comply with the request.
+The court may, on application by the person who made a request under section 177, make an order requiring the secured party to comply with the request if, without reasonable excuse, the secured party failed to comply with the request.
 
 ### 182 Consequences of not complying with court order
-If a person fails to comply with a court order made under section 181, the Court may, on the application of the person who made the request under section 177,—
-  (a) Make an order—
-    (i) Declaring that the security interest to which the request relates is to be treated as unperfected or extinguished; and
-    (ii) Directing the Registrar to remove the registration of the security interest:
-  (b) Make such other orders as it thinks proper for the purpose of giving effect to an order under this section.
+If a person fails to comply with a court order made under section 181, the court may, on the application of the person who made the request under section 177,—
+  (a) make an order—
+    (i) declaring that the security interest to which the request relates is to be treated as unperfected or extinguished; and
+    (ii) directing the Registrar to remove the registration of the security interest:
+  (b) make such other orders as it thinks proper for the purpose of giving effect to an order under this section.
 
 ### 183 Obligation to disclose successor in security interest when request made
 Where a person makes a request under section 177 and the person to whom the request was made no longer has an interest in the obligation or collateral, that person must send or make available to the person making the request the name and address of the immediate successor in interest and the latest successor in interest, if known.
@@ -1396,15 +1398,15 @@ Where a person makes a request under section 177 and the person to whom the requ
 
 ### 184 Application of sections 185 to 189
 Sections 185 to 189 do not apply to—
-  (a) Notices or other documents served or given in any proceedings in the High Court of New Zealand or in any other court:
-  (b) Notices or other documents served or given in accordance with another procedure specified in the security agreement for serving or giving notices or other documents.
+  (a) notices or other documents served or given in any proceedings in the High Court of New Zealand or in any other court:
+  (b) notices or other documents served or given in accordance with another procedure specified in the security agreement for serving or giving notices or other documents.
 
 ### 185 Method of service of notices, etc
 (1) Any notice or any other document required or authorised by this Act to be served on or given to any person must be in writing and is sufficiently served or given if—
-  (a) It is delivered to that person or that person's agent; or
-  (b) It is left at that person's or that person's agent's usual or last known place of abode or business or at an address specified for that purpose in the security agreement; or
-  (c) It is posted in a letter addressed to that person or that person's agent by name at that place of abode or business or address; or
-  (d) It is given by facsimile, electronic mail, or other similar means of communication.
+  (a) it is delivered to that person or that person's agent; or
+  (b) it is left at that person's or that person's agent's usual or last known place of abode or business or at an address specified for that purpose in the security agreement; or
+  (c) it is posted in a letter addressed to that person or that person's agent by name at that place of abode or business or address; or
+  (d) it is given by facsimile, electronic mail, or other similar means of communication.
 (2) If the person is deceased, it may be served on or given to that person's personal representatives.
 
 ### 186 Court may make order concerning service of notice, etc
@@ -1418,40 +1420,40 @@ A notice or document served or given by facsimile is, in the absence of proof to
 
 ### 189 How to effect service of notice, etc, by electronic mail
 A notice or document served or given by electronic mail or other similar means of communication is, in the absence of proof to the contrary, regarded as having been served or given if—
-  (a) The computer system used to transmit the notice or document—
-    (i) Has received an acknowledgment or receipt to the electronic mail address of the person transmitting the notice or document; or
-    (ii) Has not generated a record that the notice has failed to be transmitted; or
-  (b) The person who served the notice or document proves that the notice or document was transmitted by computer system to the electronic mail address provided by the person on whom the notice is served or given.
+  (a) the computer system used to transmit the notice or document—
+    (i) has received an acknowledgment or receipt to the electronic mail address of the person transmitting the notice or document; or
+    (ii) has not generated a record that the notice has failed to be transmitted; or
+  (b) the person who served the notice or document proves that the notice or document was transmitted by computer system to the electronic mail address provided by the person on whom the notice is served or given.
 
 **Regulations**
 
 ### 190 Regulations
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
-  (a) Prescribing procedures, requirements, and other matters, not inconsistent with this Act, in respect of the register and its operation, including matters relating to—
-    (i) Access to the register:
-    (ii) The location of and hours of access to the register:
-  (b) Prescribing matters in respect of which fees are payable under this Act and the amounts of those fees:
-  (c) Prescribing procedures for the payment of prescribed fees:
-  (d) Prescribing procedures, requirements, and other matters, not inconsistent with this Act, in respect of any registrations under this Act, including prescribing—
-    (i) The description of collateral, including proceeds collateral, that is to be included in financing statements and financing change statements:
-    (ii) The kinds of goods that may or must be described in part by serial number:
-    (iii) The requirement of a description by serial number:
-    (iv) The abbreviations, expansions, or symbols that may be used in financing statements, financing change statements, or other data authorised by this Act or the regulations to be entered in the register to effect a registration:
-    (v) The manner of registering financing statements and financing change statements:
-  (e) Prescribing the data to be entered in the register to effect, renew, discharge, or otherwise amend a registration authorised by this Act and any other matters relating to registrations under this Act:
-  (f) Prescribing procedures, requirements, and other matters, not inconsistent with this Act, in respect of the form, use, and manner of obtaining printed or electronic verification statements to confirm a registration:
-  (g) Prescribing procedures, requirements, and other matters, not inconsistent with this Act, in respect of reregistrations under this Act:
-  (h) Prescribing procedures, requirements, and other matters, not inconsistent with this Act, in respect of searching the register, including prescribing—
-    (i) Criteria on which a search may be conducted:
-    (ii) The method of disclosure:
-    (iii) The form of search results:
-    (iv) The abbreviations, expansions, or symbols that may be used in search results:
-  (i) Prescribing forms for the purposes of this Act:
-  (j) Prescribing procedures, requirements, and other matters, not inconsistent with this Act, in respect of notices under this Act, including prescribing—
-    (i) The matters in respect of which notices are required under this Act:
-    (ii) The form of notices under this Act:
-  (k) Prescribing the kinds of goods the leases of which are not within the scope of this Act:
-  (l) Providing for such other matters as are contemplated by or necessary for giving effect to this Act and for its due administration.
+  (a) prescribing procedures, requirements, and other matters, not inconsistent with this Act, in respect of the register and its operation, including matters relating to—
+    (i) access to the register:
+    (ii) the location of and hours of access to the register:
+  (b) prescribing matters in respect of which fees are payable under this Act and the amounts of those fees:
+  (c) prescribing procedures for the payment of prescribed fees:
+  (d) prescribing procedures, requirements, and other matters, not inconsistent with this Act, in respect of any registrations under this Act, including prescribing—
+    (i) the description of collateral, including proceeds collateral, that is to be included in financing statements and financing change statements:
+    (ii) the kinds of goods that may or must be described in part by serial number:
+    (iii) the requirement of a description by serial number:
+    (iv) the abbreviations, expansions, or symbols that may be used in financing statements, financing change statements, or other data authorised by this Act or the regulations to be entered in the register to effect a registration:
+    (v) the manner of registering financing statements and financing change statements:
+  (e) prescribing the data to be entered in the register to effect, renew, discharge, or otherwise amend a registration authorised by this Act and any other matters relating to registrations under this Act:
+  (f) prescribing procedures, requirements, and other matters, not inconsistent with this Act, in respect of the form, use, and manner of obtaining printed or electronic verification statements to confirm a registration:
+  (g) prescribing procedures, requirements, and other matters, not inconsistent with this Act, in respect of reregistrations under this Act:
+  (h) prescribing procedures, requirements, and other matters, not inconsistent with this Act, in respect of searching the register, including prescribing—
+    (i) criteria on which a search may be conducted:
+    (ii) the method of disclosure:
+    (iii) the form of search results:
+    (iv) the abbreviations, expansions, or symbols that may be used in search results:
+  (i) prescribing forms for the purposes of this Act:
+  (j) prescribing procedures, requirements, and other matters, not inconsistent with this Act, in respect of notices under this Act, including prescribing—
+    (i) the matters in respect of which notices are required under this Act:
+    (ii) the form of notices under this Act:
+  (k) prescribing the kinds of goods the leases of which are not within the scope of this Act:
+  (l) providing for such other matters as are contemplated by or necessary for giving effect to this Act and for its due administration.
 (2) A regulation made under subsection (1) may be made in respect of different persons, transactions, classes of persons, or classes of transactions.
 
 ### 191 Acts and regulations amended
@@ -1466,14 +1468,14 @@ A notice or document served or given by electronic mail or other similar means o
 
 ### 193 Interpretation
 In this Part, unless the context otherwise requires,—
-  - **Existing secured party** means a holder of a prior security interest
-  - **Prior law** means the law that existed immediately before the commencement of this Act
-  - **Prior registration law** means the Chattels Transfer Act 1924, the Industrial and Provident Societies Amendment Act 1952, the Motor Vehicle Securities Act 1989, and the Companies (Registration of Charges) Act 1993, as in force immediately before the commencement of this Act
-  - **Prior security interest** —
-    (a) Means a security interest created or provided for by a security agreement or other transaction that was made or entered into before the commencement of this Act and that had not been terminated before that commencement date; but
-    (b) Does not include a security interest that is renewed or extended by a security agreement or other transaction made or entered into on or after the commencement of this Act:
-  - **Prior third party interest** means a third party interest that arose before the commencement of this Act
-  - **Transitional period** means the period of 6 months commencing on the commencement of this Act.
+  - **existing secured party** means a holder of a prior security interest
+  - **prior law** means the law that existed immediately before the commencement of this Act
+  - **prior registration law** means the Chattels Transfer Act 1924, the Industrial and Provident Societies Amendment Act 1952, the Motor Vehicle Securities Act 1989, and the Companies (Registration of Charges) Act 1993, as in force immediately before the commencement of this Act
+  - **prior security interest** —
+    (a) means a security interest created or provided for by a security agreement or other transaction that was made or entered into before the commencement of this Act and that had not been terminated before that commencement date; but
+    (b) does not include a security interest that is renewed or extended by a security agreement or other transaction made or entered into on or after the commencement of this Act
+  - **prior third party interest** means a third party interest that arose before the commencement of this Act
+  - **transitional period** means the period of 6 months commencing on the commencement of this Act.
 
 **Enforceability of prior security interest against third parties**
 
@@ -1506,85 +1508,21 @@ For the purposes of this Act, the time of registration of a prior security inter
 
 ### 200 Priority of prior security interests during transitional period
 (1) During the transitional period,—
-  (a) Priority between prior security interests will be determined by the prior law:ExampleDuring the transitional period, priority between 2 company charges that were in existence before the commencement of this Act will be determined in accordance with the law that was in force before that commencement.
-  (b) Priority between a prior security interest that is deemed to be perfected by registration under section 195 or section 196 and a security interest perfected in accordance with this Act will be determined by this Act:ExampleDuring the transitional period, priority between a company charge registered in accordance with the Companies (Registration of Charges) Act 1993 and a security interest perfected under this Act will be determined in accordance with this Act.
-  (c) Priority between an unperfected prior security interest and another unperfected security interest will be determined by the order in which attachment occurred.ExampleDuring the transitional period, priority between a company charge that was not registered in accordance with the Companies (Registration of Charges) Act 1993 before the commencement of this Act and a security interest that has not been perfected under this Act is to be determined according to the order in which attachment occurred.
+  (a) priority between prior security interests will be determined by the prior law:ExampleDuring the transitional period, priority between 2 company charges that were in existence before the commencement of this Act will be determined in accordance with the law that was in force before that commencement.
+  (b) priority between a prior security interest that is deemed to be perfected by registration under section 195 or section 196 and a security interest perfected in accordance with this Act will be determined by this Act:ExampleDuring the transitional period, priority between a company charge registered in accordance with the Companies (Registration of Charges) Act 1993 and a security interest perfected under this Act will be determined in accordance with this Act.
+  (c) priority between an unperfected prior security interest and another unperfected security interest will be determined by the order in which attachment occurred.ExampleDuring the transitional period, priority between a company charge that was not registered in accordance with the Companies (Registration of Charges) Act 1993 before the commencement of this Act and a security interest that has not been perfected under this Act is to be determined according to the order in which attachment occurred.
 (2) During the transitional period, prior security interests deemed to be perfected under section 195 or section 196 and security interests perfected in accordance with this Act will have priority over any unperfected security interests.ExampleDuring the transitional period, a floating charge that was registered in accordance with the Companies (Registration of Charges) Act 1993 has priority over a security interest that has not been perfected in accordance with this Act.
 
 ### 201 Priority of third party interests during transitional period
 During the transitional period,—
-  (a) Priority between a prior security interest and a prior third party interest will be determined by the prior law:
-  (b) Priority between a prior security interest and a third party interest that arose on or after the commencement of this Act will be determined by this Act:
-  (c) Priority between a security interest that is not a prior security interest and a prior third party interest will be determined by this Act.
+  (a) priority between a prior security interest and a prior third party interest will be determined by the prior law:
+  (b) priority between a prior security interest and a third party interest that arose on or after the commencement of this Act will be determined by this Act:
+  (c) priority between a security interest that is not a prior security interest and a prior third party interest will be determined by this Act.
 
 ## Schedule 1 — Acts amended
 
-### 9
-The claims listed in each of clauses 2, 3, 4, and 5—For the purposes of this clause, the terms account receivable, inventory, new value, proceeds, purchase money security interest, and security interest have the same meanings as in the Personal Property Securities Act 1999
-  (a) rank equally among themselves and must be paid in full, unless the assets are insufficient to meet them, in which case they abate in equal proportions; and
-  (b) so far as the assets of the company available for payment of general creditors are insufficient to meet them,—
-    (i) have priority over the claims of any person under a security interest to the extent that the security interest—
-      (A) is over all or any part of the company's accounts receivable and inventory or all or any part of either of them; and
-      (B) is not a purchase money security interest; and
-      (C) does not arise from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); and
-    (ii) must be paid accordingly out of any accounts receivable or inventory subject to that security interest (or their proceeds).
-
-### 9A
-Clause 9, as in force immediately before the commencement of the Personal Property Securities Act 1999, continues to apply in respect of a company whose property was subject to a floating charge that, before the commencement of that Act, became a fixed or specific charge.
-
-### 27A Application of Personal Property Securities Act 1999
-Nothing in sections 25 to 27 affects the operation of the Personal Property Securities Act 1999.
-
-### 85A Application of Personal Property Securities Act 1999
-Nothing in sections 83 to 85 affects the operation of the Personal Property Securities Act 1999.
-
-| Personal Property Securities Act 1999 | Sections 139 and 171 to 174. |
-| --- | --- |
-
-### 73 When securities over chattels may take priority over existing securities
-Despite anything to the contrary in the Personal Property Securities Act 1999, any security interest within the meaning of that Act given for the purpose of securing a loan granted by the Corporation, or by any association under this Act, has priority over any security interest that has previously been perfected by registration (as defined in that Act), comprising in whole or in part any of the same chattels, as regards the title to or right to the possession of those chattels, if the secured party under the previously perfected security interest agrees that the security interest given for the purposes of this Act has priority over the previously perfected security interest.
-
-### 94A Personal property securities register to be checked
-(1) If a motor vehicle is seized under a warrant to seize property, the Registrar must, on the day after the vehicle is seized, check whether a financing statement has been registered in respect of the vehicle on the personal property securities register kept under the Personal Property Securities Act 1999.
-(2) If a financing statement has been registered, the Registrar must forthwith notify the person named as the secured party in the financing statement—
-  (a) that the Registrar may, under section 95, sell the vehicle after the expiration of 7 days from the date of seizure, if the fine remains unpaid and no claim has been made by a person other than the defendant in respect of the property:
-  (b) of that person's rights under sections 96 and 97.
-
 ## Schedule 2 — Regulations amended
-
-| Personal Property Securities Act 1999 | Section 139. |
-| --- | --- |
 
 ## Schedule 3 — Enactments repealed
 
-## Schedule 4 — Regulations and Orders revoked
-
-| Title of Regulation or Order | Statutory Regulations Serial Number or Gazette Reference |
-| --- | --- |
-| The Chattels Transfer (Customary Hire Purchase) Order 1925 | Gazette, 1925, Vol II p 1517 |
-| The Chattels Transfer (Customary Hire Purchase) Order 1925 | Gazette, 1925, Vol III p 3055 |
-| The Chattels Transfer (Customary Hire Purchase) Order 1925 | Gazette, 1925, Vol III, p 3353 |
-| The Chattels Transfer (Customary Hire Purchase) Order 1926 | Gazette, 1926, Vol II p 1805 |
-| The Chattels Transfer (Customary Hire Purchase) Order 1928 | Gazette, 1928, Vol II p 2465 |
-| The Chattels Transfer (Customary Hire Purchase) Order 1930 | Gazette, 1930 Vol II p 1509 |
-| The Chattels Transfer (Customary Hire purchase) Order 1933 | Gazette, 1933, Vol III, p 2734 |
-| The Chattels Transfer (Customary Hire Purchase) Order 1935 | Gazette, 1935, Vol II p 2273 |
-| The Chattels Transfer (Customary Hire Purchase) Order 1938 | 1938/49 |
-| The Chattels Transfer (Customary Hire Purchase) Order 1940 | 1940/311 |
-| The Chattels Transfer (Customary Hire Purchase) Order 1950 | 1950/68 |
-| The Chattels Transfer Act Amendment Order 1953 | Gazette, 1953, Vol I, p 126 |
-| The Chattels Transfer (Customary Hire Purchase) Order 1953 | 1953/45 |
-| The Chattels Transfer (Customary Hire Purchase) Order 1954 | 1954/78 |
-| The Chattels Transfer (Customary Hire Purchase) Order 1955 | 1955/148 |
-| The Chattels Transfer (Customary Hire Purchase) Order 1956 | 1956/146 |
-| The Chattels Transfer (Customary Hire Purchase) Order 1957 | 1957/33 |
-| The Chattels Transfer (Customary Hire Purchase) Order 1960 | 1960/85 |
-| The Chattels Transfer (Customary Hire Purchase) Order 1962 | 1962/7 |
-| The Chattels Transfer (Customary Hire Purchase) Order 1962 (No 2) | 1962/47 |
-| The Chattels Transfer (Customary Hire Purchase) Order 1965 | 1965/26 |
-| The Chattels Transfer (Customary Hire Purchase) Order 1968 | 1968/87 |
-| The Chattels Transfer (Customary Hire Purchase) Order 1969 | 1969/110 |
-| The Chattels Transfer (Customary Hire Purchase) Order 1969 (No 2) | 1969/253 |
-| The Chattels Transfer Amendment Act Commencement Order 1970 | 1970/98 |
-| The Chattels Transfer Fees Regulations 1997 | 1997/326 |
-| Motor Vehicle Securities (Fees) Regulations 1999 | 1999/148 |
+## Schedule 4 — Regulations and orders revoked
