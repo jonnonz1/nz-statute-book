@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2008-09-17_
+_Consolidation as at 2008-09-26_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -4749,9 +4749,9 @@ A long-term council community plan must, to the extent determined appropriate by
 ### 3 Summaries of assessments of water and sanitary services and waste management plans
 (1) The long-term council community plan of a territorial authority must contain—
   (a) a summary of the last assessment which was made under section 125 by the local authority and which assessed the provision within its district of water services and sanitary services; and
-  (b) a summary of the waste management plan in force under section 539 of the Local Government Act 1974.
-(2) Subclause (1) does not apply in respect of an assessment of water services and sanitary services or a waste management plan if the assessment or waste management plan is included in the long-term council community plan.
-(3) The long-term council community plan of a territorial authority must identify and explain any significant variation between the content of any assessment or waste management plan referred to in subclause (1), and any relevant information included under clause 2.
+  (b) a summary of the waste management and minimisation plan in force under section 43 of the Waste Minimisation Act 2008.
+(2) Subclause (1) does not apply in respect of an assessment of water services and sanitary services or a waste management and minimisation plan if the assessment or waste management and minimisation plan is included in the long-term council community plan.
+(3) The long-term council community plan of a territorial authority must identify and explain any significant variation between the content of any assessment or waste management and minimisation plan referred to in subclause (1), and any relevant information included under clause 2.
 
 ### 4 Council-controlled organisations
 A long-term council community plan must, in relation to each council-controlled organisation,—
