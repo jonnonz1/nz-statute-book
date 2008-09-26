@@ -1,5 +1,5 @@
 # Local Government Act 1974
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-09-26_
 
 > An Act to consolidate and amend the law relating to the reorganisation of the districts and functions of local authorities, to make better provision for the administration of those functions which can most effectively be carried out on a regional basis, and to make provision for the establishment of united councils, regional councils, district councils, district community councils, and community councils, and to consolidate and amend the Municipal Corporations Act 1954, the Counties Act 1956, the Local Authorities (Petroleum Tax) Act 1970, and provisions of other Acts of the Parliament of New Zealand relating to the powers and functions of regional councils, united councils, and territorial local authorities
 
@@ -5432,91 +5432,31 @@ If a land drainage scheme or water-race scheme is not repaired or maintained in 
 ## Part 31 — Waste management
 
 ### 537 Interpretation
-In this Part of this Act, unless the context otherwise requires,—
-  - **Disposal** means final deposit of waste on land set apart for the purpose
-  - **Recovery** means extraction of materials or energy from waste for further use or processing; and includes, but is not limited to, making materials into compost
-  - **Recycling** means the reprocessing of waste materials to produce new products
-  - **Reduction** means lessening waste generation
-  - **Reuse** means the further using of products in their existing form for their original purpose or a similar purpose
-  - **Treatment** means, in relation to waste, subjecting the waste to any physical, biological, or chemical process to change the volume or character of that waste so that it may be disposed of with no or reduced significant adverse effect on the environment
-  - **Waste management plan** means, in relation to a district, any plan for the management of waste in the district, being a plan developed after consideration, in the following order of priority, of the following methods (which methods are listed in order of their importance)
-    (a) Reduction:
-    (b) Reuse:
-    (c) Recycling:
-    (d) Recovery:
-    (e) Treatment:
-    (f) Disposal.
+[Repealed]
 
 ### 538 Duty of territorial authority to encourage efficient waste management
-Every territorial authority shall promote effective and efficient waste management within its district and, in so doing, shall—
-  (a) Have regard to environmental and economic costs and benefits for the district; and
-  (b) Ensure that the management of waste does not cause a nuisance or be injurious to health.
+[Repealed]
 
 ### 539 Waste management plan
-(1) Every territorial authority—
-  (a) Shall adopt a waste management plan; and
-  (b) May from time to time—
-    (i) Amend its waste management plan; or
-    (ii) Revoke its waste management plan, and substitute a new waste management plan.
-(2) Every waste management plan shall—
-  (a) Make provision for the collection and reduction, reuse, recycling, recovery, treatment, or disposal of waste in the district:
-  (b) Provide for its effective and efficient implementation, or for activities considered appropriate for that purpose to be undertaken by, or under contract to, the territorial authority.
-(3) Every local authority shall, in taking any of the actions specified in subsection (4) of this section,—
-  (a) Have regard to the matters specified in section 538 of this Act; and
-  (b) Follow the special consultative procedure.
-(4) The actions to which subsection (3) of this section applies are as follows:
-  (a) The adoption of a waste management plan:
-  (b) The amendment of a waste management plan:
-  (c) The revocation of a waste management plan, and the substitution of a new waste management plan.
+[Repealed]
 
 ### 540 Powers in respect of waste management
-(1) Subject to subsection (2) of this section, a territorial authority may undertake or contract for any activity it considers appropriate for the efficient and effective management of waste in its district including—
-  (a) The collection and reduction, reuse, recycling, recovery, treatment, or disposal of any waste from any premises (including roads and footpaths):
-  (b) The collection, removal, and disposal of nightsoil:
-  (c) The cleaning of sanitary conveniences:
-  (d) The provision of waste disposal facilities within or beyond the district:
-  (e) The sale or supply by the territorial authority of receptacles for waste containment and collection:
-  (f) The promotion of waste minimisation education programmes in the district.
-(2) Where a waste management plan adopted under section 539 of this Act is in force in respect of a district, the territorial authority for the district—
-  (a) Shall exercise, in accordance with that plan, the powers conferred on that territorial authority by subsection (1) of this section; and
-  (b) Shall allocate, in accordance with section 544 of this Act, the costs incurred in implementing that plan.
-(3) Where any marketable product results from any activity of a territorial authority under this Part of this Act, the territorial authority may sell that product and retain any proceeds of that sale.
+[Repealed]
 
 ### 540A Collection and disposal of waste
-Where waste is collected and disposed of under this Part of this Act, the following provisions shall apply:
-  (a) The collection and disposal of waste shall be executed promptly, efficiently, and at regular and prescribed intervals to the satisfaction of the Medical Officer of Health having jurisdiction in the district:
-  (b) If in respect of any premises the collection and disposal of waste is not executed efficiently or at the prescribed intervals, the occupier or a Health Protection Officer may serve notice thereof on the territorial authority:
-  (c) If a notice is, under paragraph (b) of this section, served on a territorial authority, that territorial authority shall inform the contractor, if any, as soon as practicable:
-  (d) If a notice is served on a territorial authority, and the work is not done within a reasonable time thereafter, the person in default commits an offence against this Act:
-  (e) For the purpose of paragraph (d) of this section, the expression person in default means the contractor if the work is being executed by contract or the territorial authority if the work is being executed by the territorial authority.
+[Repealed]
 
 ### 541 Waste management operations and facilities
-(1) Subject to this Part of this Act and any other Act, a territorial authority may,—
-  (a) Provide, establish, construct, own, maintain, and operate works and facilities for the reduction, reuse, recycling, recovery, treatment, or disposal of waste:
-  (b) Undertake the collection and transportation of waste, activities for the temporary or permanent storage, and reduction, reuse, recycling, recovery, treatment, or disposal of waste (including, but not limited to, hazardous waste).
-(2) For the purposes of carrying out any of the activities authorised by subsection (1) of this section, a territorial authority may enter into an arrangement or contract with any other person, including any regional council exercising the power conferred on it by section 37SB of this Act, for the carrying out either within, or beyond, the district of the territorial authority and either for the benefit of the territorial authority or for the benefit of both the territorial authority and others, of any such activities on such terms and conditions as may be agreed upon between the territorial authority and the other person.
-(3) Where a waste management plan adopted under section 539 of this Act is in force in respect of a district, the territorial authority for the district shall exercise, in accordance with that plan, such of the powers conferred on that territorial authority by subsections (1) and (2) of this section as the territorial authority considers necessary.
+[Repealed]
 
 ### 542 Bylaws
-(1) Without limiting the powers of the council to make bylaws under section 684 of this Act, a territorial authority may from time to time make bylaws for all or any of the following purposes:
-  (a) Prohibiting or regulating the deposit of waste or of waste of any specified kind:
-  (b) Regulating the collection and transportation of waste or waste of any specified kind:
-  (c) Regulating the mode of disposal of dead animals:
-  (d) Prescribing charges to be paid in respect of the public use of waste management facilities provided, owned, or operated by the territorial authority:
-  (e) Prohibiting, restricting, and controlling public access to waste management facilities provided, owned, or operated by the territorial authority:
-  (f) Prohibiting the removal of waste intended for recycling from receptacles provided by the territorial authority by anyone other than the occupier of the property from which the waste in the receptacle has come or a person authorised by the territorial authority to remove such waste.
-(2) Bylaws made under subsection (1)(b) of this section may provide for the licensing of persons who carry out commercially the collection and transportation of waste or waste of any specified kind, and the conditions specified in any such bylaws as conditions of the licences may include conditions requiring each licensee—
-  (a) To provide a suitable works performance bond or security for the performance of the work licensed or both:
-  (b) To provide to the territorial authority, at times or periods specified in the bylaws, reports setting out—
-    (i) In accordance with criteria specified in the bylaws, the quantities and types of waste collected and transported under the licence:
-    (ii) Both the source and the destination of the waste collected and transported under the licence.
+[Repealed]
 
 ### 543 Grants
-Where a waste management plan, adopted under section 539 of this Act and in force in respect of a district, so provides, the territorial authority for that district may make grants of money, or make advances on such terms and conditions as it thinks fit, (including, if the territorial authority thinks fit, a condition that the advance is to be free of interest), to any organisation, group, or body of persons, or to any person, for the purpose of the promotion or assistance of the reduction, reuse, recycling, recovery, treatment, or disposal of waste.
+[Repealed]
 
 ### 544 Allocation of costs
-(1) Subject to subsection (2) of this section, every territorial authority shall allocate the costs incurred in the implementation of a waste management plan in such manner as the territorial authority considers will effectively and appropriately promote the objectives of the plan.
-(2) Where the waste management plan so provides, the costs incurred in the implementation of the plan may be allocated by the territorial authority in a way that establishes economic incentives and disincentives that promote any or all of the objectives of the plan.
+[Repealed]
 
 ### 545 Meaning of council
 [Repealed]
