@@ -1,5 +1,5 @@
 # Income Tax Act 2004
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-09-26_
 
 ### A 1 Title
 This Act is the Income Tax Act 2004.
@@ -634,6 +634,27 @@ Timing of income
 (2) The income is allocated to the income year in which the person obtains possession or control of the property.
 Whether or not constructive trust
 (3) Subsection (1) applies whether or not the person holds the property as a trustee under a constructive trust.
+
+### CB 29 Disposal of ETS units
+When this section applies
+(1) This section applies when a person disposes of an ETS unit.
+Income
+(2) The amount that a person derives on disposal by the person of an ETS unit is income.
+Surrender of unit: generally zero income
+(3) If the person disposes of the unit by surrender under the Climate Change Response Act 2002, the person is treated as deriving no income, unless subsection (4) applies.
+Surrender of unit: pre-1990 forest land deforestation
+(4) Despite subsection (3), subsection (5) applies if—
+  (a) the person surrenders the ETS unit in relation to the deforestation of pre-1990 forest land; and
+  (b) at the time of the surrender, the person would not derive income, other than exempt income or excluded income, from a disposal of the pre-1990 forest land without timber; and
+  (c) the ETS unit is not a post-1989 forest land unit.
+Surrendered unit treated as sold for cost
+(5) If subsection (4) applies, the surrendered unit is treated as having been sold by the person, at the time of its surrender, to an unrelated person for an amount equal to its cost.
+Converted unit treated as sold
+(6) If a person converts a New Zealand unit into a Kyoto unit under the Climate Change Response Act 2002, the person is treated as having sold the converted unit for an amount equal to its cost, if any.
+Exempt income: pre-1990 forest land unit
+(7) Section CW 3B (Pre-1990 forest land units: emissions trading scheme) applies to the disposal to another person of a pre-1990 forest land unit.
+Disposal at below market value
+(8) Section GD 16 (Disposals of ETS units at below market value) may apply to treat a disposal (other than a surrender) as being for market value.
 
 ### Subpart CC — Income from holding property (excluding equity)
 
@@ -2930,6 +2951,16 @@ When this section applies
 Exempt income
 (2) Interest derived from the qualifying debenture is exempt income to the extent to which it is paid by the issue of a further qualifying debenture.
 
+### CW 3B Pre-1990 forest land units: emissions trading scheme
+When this section applies
+(1) This section applies when a person:
+  (a) is issued a pre-1990 forest land unit:
+  (b) disposes of a pre-1990 forest land unit other than by surrender under the Climate Change Response Act 2002.
+Exempt income: issue
+(2) An amount of income derived by the person from the issue is exempt income, if the person is treated as deriving an amount of income from the issue.
+Exempt income: disposal
+(3) An amount of income that the person derives from the disposal is exempt income if, at the time of the disposal, the person would not derive income, other than exempt income or excluded income, from a disposal, without timber, of the pre-1990 forest land to which the ETS unit relates.
+
 ### CW 4 Annuities under life insurance policies
 When this section applies
 (1) This section applies when—
@@ -4248,6 +4279,12 @@ Distribution by portfolio investment entity that is not portfolio tax rate entit
 ### CX 44E Rebates of certain fees by portfolio tax rate entities
 A rebate of fees allocated to an investor as a member of a portfolio investor class by a portfolio tax rate entity is excluded income of the investor if the rebate is included in the calculation of the entity's portfolio entity tax liability under section HL 20 (Portfolio entity tax liability and rebates of portfolio tax rate entity for period) for the investor, the portfolio investor class, and a portfolio calculation period.
 
+### CX 44F Issue of post-1989 forest land units
+When this section applies
+(1) This section applies when a person is issued a post-1989 forest land unit.
+Excluded income
+(2) An amount of income derived by the person from the issue is excluded income, if the person is treated as deriving an amount of income from the issue.
+
 ### CX 45 Exclusion under Parts to be rewritten
 An amount of income is excluded income if it is excluded under a provision in any of Parts F to I.
 
@@ -5285,6 +5322,29 @@ Deduction
 (1) A party to an agreement or arrangement referred to in section CX 6B (Employer or associated person treated as having right to use vehicle under arrangement) is allowed a deduction for expenditure or depreciation loss incurred in operating a motor vehicle during a period for which an employer or associated person is treated under that section as having a right to use the vehicle.
 Link with subpart DA
 (2) This section overrides the private limitation and exempt income limitation. The general permission must still be satisfied and the other general limitations still apply.
+
+### DB 46 Acquisition of ETS units
+When this section applies
+(1) This section applies when a person acquires an ETS unit.
+No expenditure or loss on issue of forest land units
+(2) The person is treated as incurring no expenditure or loss on the acquisition, if the acquisition is on issue of a forest land unit.
+Deduction: acquisition from another person
+(3) The person is allowed a deduction for expenditure or loss incurred on acquiring the ETS unit from another person, if it is not the issue of a forest land unit.
+Deduction: acquisition of Kyoto unit on conversion of New Zealand unit
+(4) Despite subsection (3), if a person converts a New Zealand unit to a Kyoto unit under the Climate Change Response Act 2002, the person is allowed a deduction for an amount of expenditure on the acquisition of the Kyoto unit that is—
+  (a) not more than the cost, if any, to the person of the New Zealand unit; and
+  (b) not less than the cost, if any, to the person of the New Zealand unit.
+Link with subpart DA
+(5) The link between this section and subpart DA (General rules) is as follows:
+  (a) subsections (2) and (4)(a) override the general permission:
+  (b) subsection (3) overrides the capital limitation. The other general limitations still apply:
+  (c) subsection (4)(b) supplements the general permission and overrides the capital limitation. The other general limitations still apply.
+
+### DB 47 Surrender of pre-1990 forest land units for post-1989 forest land deforestation
+When this section applies
+(1) This section applies when a person surrenders a pre-1990 forest land unit under the Climate Change Response Act 2002 to meet a liability to surrender units in relation to post-1989 forest land.
+Treated as disposal and reacquisition
+(2) The person is treated as having disposed of the pre-1990 forest land unit to an unrelated person and as having then reacquired it, in each case, immediately before the surrender and for an amount equal to the unit’s market value at the time.
 
 ### Subpart DC — Employee or contractor expenditure
 
@@ -7658,7 +7718,8 @@ Exclusions
   (db) an excepted financial arrangement held by a person if section CX 44C (Proceeds from disposal of certain shares by portfolio investment entities or New Zealand Superannuation Fund) applies to the income of the person from a disposal of the excepted financial arrangement:
   (e) livestock not used in a dealing business:
   (f) consumable aids to be used in the process of producing trading stock:
-  (g) a spare part not held for sale or exchange.
+  (g) a spare part not held for sale or exchange:
+  (h) an ETS unit.
 
 ### EB 3 Valuation of trading stock
 Valuation method
@@ -8467,6 +8528,8 @@ Other persons
   (c) must keep sufficient details of any such change, and the reasons for it, under section 22 of the Tax Administration Act 1994.
 Worthless arrangements
 (5) If an excepted financial arrangement has no present or likely future market value and has been written off as worthless, its closing value is zero.
+Closing value for replacement ETS unit
+(5B) A replacement ETS unit has a closing value of zero for each income year.
 Use of value
 (6) The value determined under this section is—
   (a) the closing value of the excepted financial arrangement for the purposes of section CH 1 (Adjustment for closing values of trading stock, livestock, and excepted financial arrangements); and
@@ -11395,6 +11458,8 @@ Bet
   (a) a race, as defined in section 5 of the Racing Act 2003:
   (b) a sporting event under a sports betting system administered under Part 6 of the Racing Act 2003:
   (c) gambling, including a New Zealand lottery, as those terms are defined in section 4(1) of the Gambling Act 2003.
+Emissions unit
+(3B) An ETS unit is an excepted financial arrangement.
 Employment contract
 (4) An employment contract is an excepted financial arrangement.
 Farm-out arrangement
@@ -18071,6 +18136,17 @@ If the Commissioner considers that 2 persons have made arrangements so that sect
 (3) The deduction that the associated person is allowed for the cost of acquiring the timber is calculated on the basis that the associated person acquired the timber for the total of—
   (a) the cost to the associated person of acquiring the timber; and
   (b) the amount (if any) that person A is denied a deduction for by subsection (2).
+
+### GD 16 Disposals of ETS units at below market value
+When this section applies
+(1) This section applies when—
+  (a) a person (the transferor) disposes of an ETS unit to another person (the transferee):
+  (b) the disposal is not a surrender or conversion under the Climate Change Response Act 2002:
+  (c) the disposal is for—
+    (i) no consideration; or
+    (ii) an amount of consideration that is less than the market value of the ETS unit at the time of disposal.
+Disposal treated as being for market value
+(2) For the purposes of this Act, the consideration received by the transferor and provided by the transferee is treated as being equal to the market value at the time.
 
 ### Subpart GE — Non-market transactions: specific
 
@@ -27261,6 +27337,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
     (a) 90% or more in value of the trust is owned, directly or indirectly, by or for 5 or fewer persons; and
     (b) the market value of a petroleum permit, including an asset of the kind described in section CT 7(1)(b) or (c) (Meaning of petroleum mining asset) attributable to the permit, held by the trust is at least 75% of the value of its assets minus its liabilities, as shown in the trust's accounts prepared under generally accepted accounting practice
   - **controlling shareholder** is defined in section HK 11(10) (Liability for tax payable by company left with insufficient assets) for the purposes of that section
+  - **convert** , for a New Zealand unit, is defined in section 4(1) of the Climate Change Response Act 2002
   - **convertible credit** means a credit that a person is allowed under Part L (Credits)—
     (a) as an imputation credit; or
     (b) for a dividend withholding payment, if the person is not entitled to a refund of the credit under Part N (Withholding taxes and taxes on income of others)
@@ -27643,6 +27720,10 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
       (ii) an assumption of normal and reasonable maintenance
     (c) for a listed horticultural plant, means the period of time over which the listed horticultural plant might reasonably be expected to be useful to a person in deriving income or in carrying on a business in New Zealand, with the expectation based on an assumption of normal and reasonable maintenance
     (d) for a type of pasture, means the period of time over which the pasture might reasonably be expected to be useful to a person in deriving income or carrying on a farming or agricultural business on land in New Zealand
+  - **ETS unit** means:
+    (a) a New Zealand unit:
+    (b) an approved overseas unit, as defined in section 4(1) of the Climate Change Response Act 2002:
+    (c) a Kyoto unit
   - **excepted financial arrangement** —
     (a) is defined in section EW 5 (What is an excepted financial arrangement?) for the purposes of this Act except the old financial arrangements rules; and
     (b) is defined in section EZ 45 (Definitions) for the purposes of the old financial arrangements rules
@@ -27877,6 +27958,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
     (b) in the RWT rules, means a tax, other than a New Zealand tax, that—
       (i) is deducted from an amount of resident withholding income; and
       (ii) is of substantially the same nature as non-resident withholding tax
+  - **forest land unit** means a pre-1990 forest land unit or a post-1989 forest land unit
   - **forester** is defined in section EH 3(1)(c) (Persons to whom main income equalisation scheme applies)
   - **forestry company** means a company that is incorporated, under an agreement between the Crown, the Maori owners, and a holding company of the company, for the purposes of—
     (a) buying land partly from the Crown, partly from the Maori owners, and partly from a holding company of the company; and
@@ -28209,6 +28291,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
   - **KiwiSaver calculation period** is defined in section NE 3(6) (Specified superannuation contribution withholding tax to be deducted) for the purposes of that section
   - **KiwiSaver contributions** means contributions required to be deducted under Part 3, subpart 1 of the KiwiSaver Act 2006
   - **KiwiSaver scheme** means a KiwiSaver scheme, as defined in section 4 of the KiwiSaver Act 2006
+  - **Kyoto unit** is defined in section 4(1) of the Climate Change Response Act 2002
   - **land** ,—
     (a) in sections CB 5 to CB 21 (Amount from land affected by change and not already in income),—
       (i)
@@ -28646,6 +28729,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
       (i) schedule 1, clause 2 of the New Zealand Superannuation and Retirement Income Act 2001; or
       (ii) schedule 1, clause 2 of the Social Welfare (Transitional Provisions) Act 1990
   - **New Zealand tax** means income tax imposed by this Act or any earlier Act
+  - **New Zealand unit** is defined in section 4(1) of the Climate Change Response Act 2002
   - **nil period** —
     (a) is defined in section MZ 5(4) (Application of excess tax to nil period) for the purposes of that section:
     (b) is defined in section MZ 6(3) (Application of excess tax for 2001-02 tax year) for the purposes of that section
@@ -29008,7 +29092,15 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
     (d) is not a portfolio defined benefit fund; and
     (e) is not a portfolio investment-linked life fund
   - **possession** includes a use that is in fact or effect substantially exclusive, whether by virtue of a right of exclusive occupation or not
+  - **post-1989 forest land** is defined in section 4(1) of the Climate Change Response Act 2002
+  - **post-1989 forest land unit** , for a person, means a unit—
+    (a) issued to the person under section 64 of the Climate Change Response Act 2002 for removals for post-1989 forest land; and
+    (b) held continuously by the person since the issue
   - **pre-1983 mortgage repayment insurance policy** means a single premium non-profit life insurance policy issued on or before 31 March 1983, under which the amount assured is related to the amount outstanding on a mortgage of land
+  - **pre-1990 forest land** is defined in section 4(1) of the Climate Change Response Act 2002
+  - **pre-1990 forest land unit** , for a person, means a unit—
+    (a) issued to the person under an allocation plan under section 73 of the Climate Change Response Act 2002; and
+    (b) held continuously by the person since the issue
   - **pre-1991 budget security** means a fixed rate share, or a debenture to which section FC 1 (Floating rate of interest on debentures) or FC 2 (Interest on debentures issued in substitution for shares) applies, that—
     (a) was itself issued by the company before 8.00 pm New Zealand Standard Time on 30 July 1991 (specified time), or was issued under a binding contract entered into before the specified time no term of which is altered at any time after the specified time; and
     (b) is not a share or debenture any term of which is altered at any time after the specified time (whether under a provision for roll-over or extension or under an option held at the specified time by the shareholder or debenture holder or the company or both or by any other person or otherwise), except when the term is altered under a binding contract entered into before the specified time no term of which is altered at any time after the specified time
@@ -29277,6 +29369,11 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
   - **rent** is defined in section GD 10(4) (Leases for inadequate rent) for the purposes of that section
   - **repairs** , in sections CC 2 (Non-compliance with covenant for repair) and DB 15 (Amounts paid for non-compliance with covenant for repair), includes painting and general maintenance
   - **replaced area fraction** is defined in section DO 4E (Some definitions) for the purposes of sections DO 4B to DO 4E
+  - **replacement ETS unit** means an ETS unit acquired by a person if—
+    (a) the person has previously disposed of an ETS unit; and
+    (b) the ETS unit disposed of was a post-1989 forest land unit; and
+    (c) the person has not, since the disposal, acquired another ETS unit that replaces the unit disposed of; and
+    (d) when paragraph (c) is applied, an acquisition following the disposal is treated as resulting in a replacement for the unit except to the extent treated as resulting in a replacement for another forest land ETS unit disposed of at the same time
   - **replacement payment** means, for a returning share transfer, a payment to a person of an amount that is—
     (a) economically equivalent to a dividend or part of a dividend for an original share:
     (b) increased by an imputation credit attached to the payment
@@ -29375,7 +29472,8 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
     (b) that is not a warrant or instalment receipt
   - **revenue account property** , for a person, means—
     (a) property that is trading stock of the person; or
-    (b) property that would produce income for the person if they disposed of it (not including income under section EE 41 (Effect of disposal or event))
+    (b) property that would produce income for the person if they disposed of it (not including income under section EE 41 (Effect of disposal or event));
+    (c) an ETS unit of the person
   - **right** , in sections EW 32 (Consideration for agreement for sale and purchase of property or services, hire purchase agreement, specified option, or finance lease) and EW 34 (Consideration in foreign currency), and in the definitions of short-term agreement for the sale and purchase of property or services and short-term option,—
     (a) means—
       (i) a right to possess the property; or
@@ -29780,6 +29878,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
     (d) is equal in amount to the tax credit calculated, for the first dividend, under section LE 2(2) (Credits in respect of dividends to non-resident investors)
   - **supply** is defined in section GD 13(13) (Cross-border arrangements between associated persons) for the purposes of that section
   - **surplus refundable credits** , for a person and for a tax year, means any excess credits that are refundable credits and that have not been dealt with otherwise under section BC 10(2) (Surplus credits)
+  - **surrender** , for an ETS unit, is defined in section 4(1) of the Climate Change Response Act 2002
   - **tax** —
     (a) means income tax, except in sections BB 3(2)(b) and (c) (Overriding effect of certain matters) and BH 1(4)(b) and (c) (Double tax agreements):
     (b) is defined in section MZ 5(4) (Application of excess tax to nil period) for the purposes of that section:
