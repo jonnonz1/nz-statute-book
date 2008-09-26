@@ -1,5 +1,5 @@
 # Forestry Rights Registration Act 1983
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-09-26_
 
 > An Act to provide for the creation and registration of forestry rights
 
@@ -9,39 +9,35 @@ _Consolidation as at 2007-09-03_
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **carbon sequestration** means the removal of greenhouse gases from the atmosphere by a forest sink
-  - **Crop** means—
-    (a) A single crop of trees of 1 or more species:
-    (b) Multiple crops of trees of 1 or more species:
-    (c) Any planting of trees of 1 or more species having the same or different expected harvest dates:
-  - **forest sink** means a forest prescribed in regulations made under section 67Y of the Forests Act 1949
+  - **crop** means—
+    (a) a single crop of trees of 1 or more species:
+    (b) multiple crops of trees of 1 or more species:
+    (c) any planting of trees of 1 or more species having the same or different expected harvest dates
+  - **forestry covenant** means any covenant, whether positive or restrictive in effect, contained in a forestry right registered under the Land Transfer Act 1952, or in any variation thereof registered under that Act
+  - **forestry right** means a right created in accordance with this Act
   - **forest sink covenant** means any covenant established under regulations made under section 67Y of the Forests Act 1949, or any variation of that covenant, for the purpose of establishing and maintaining a forest sink; including, but not limited to, controlling the harvesting of timber from the forest sink
-  - **Forestry covenant** means any covenant, whether positive or restrictive in effect, contained in a forestry right registered under the Land Transfer Act 1952, or in any variation thereof registered under that Act
-  - **Forestry right** means a right created in accordance with this Act
-  - **Grantor** and
-  - **greenhouse gas** has the same meaning as in section 4(1) of the Climate Change Response Act 2002
-  - **Holder** means a person who holds a forestry right created in accordance with this Act
-  - **Land** has the same meaning as in the Land Transfer Act 1952
-  - **Proprietor** , in relation to the creation of a forestry right over any land, means the owner or the lessee of the land or the holder of a deferred payment licence for the land under the Land Act 1948.
+  - **holder** means a person who holds a forestry right created in accordance with this Act
+  - **land** has the same meaning as in the Land Transfer Act 1952
+  - **proprietor** , in relation to the creation of a forestry right over any land, means the owner or the lessee of the land or the holder of a deferred payment licence for the land under the Land Act 1948
   - **units** has the same meaning as in section 4(1) of the Climate Change Response Act 2002.
 
 ### 2A Creation of forestry rights
 (1) A forestry right may be created by the proprietor of land—the right to—a crop of trees on that land.
-  (a) By creating in accordance with subsection (3); or
-  (b) By granting to any other person; or
-  (c) By reserving to the proprietor on the sale of the land,—
-  (d) Establish, maintain, and harvest; or
-  (e) Maintain and harvest,—
+  (a) by creating in accordance with subsection (3); or
+  (b) by granting to any other person; or
+  (c) by reserving to the proprietor on the sale of the land,—
+  (d) establish, maintain, and harvest; or
+  (e) maintain and harvest,—
 (2) The forestry right may also—whether or not such rights or provisions are coupled with an obligation.
-  (a) Grant or reserve rights of access and rights of construction and use of tracks, culverts, bridges, buildings, and other works and facilities if those rights are ancillary to and necessary for the purposes of subsection (1):
-  (b) Provide for charges, payments, royalties, or division of the crop or the proceeds of the crop including units based on carbon sequestration that are received in accordance with a forest sink covenant,—
+  (a) grant or reserve rights of access and rights of construction and use of tracks, culverts, bridges, buildings, and other works and facilities if those rights are ancillary to and necessary for the purposes of subsection (1):
+  (b) provide for charges, payments, royalties, or division of the crop or the proceeds of the crop including the right to receive and the obligation to surrender units,—
 (3) Despite any enactment or rule of law, the proprietor may, in accordance with this section, create a forestry right for the proprietor.
 (4) No right created under this section is capable of conferring a right of exclusive possession of the land.
 
-### 3 Forestry rights to be profits a prendre
-(1) Notwithstanding any rule of law or equity to the contrary, every forestry right shall be deemed to be a profit a prendre.
-(2) Every forestry right over any land may be registered under the Land Transfer Act 1952 against the title of the estate of the proprietor of the land in the same manner, but subject to any modifications prescribed by regulations made under section 7 of this Act, as that applicable to a profit a prendre (not being a forestry right).
-(2A) Where a forestry right is created over land in respect of which no certificate of title has been issued under the Land Transfer Act 1952, the forestry right may be registered in accordance with section 5A of this Act.
+### 3 Forestry rights to be profits à prendre
+(1) Notwithstanding any rule of law or equity to the contrary, every forestry right shall be deemed to be a profit à prendre.
+(2) Every forestry right over any land may be registered under the Land Transfer Act 1952 against the title of the estate of the proprietor of the land in the same manner, but subject to any modifications prescribed by regulations made under section 7, as that applicable to a profit à prendre (not being a forestry right).
+(2A) Where a forestry right is created over land in respect of which no certificate of title has been issued under the Land Transfer Act 1952, the forestry right may be registered in accordance with section 5A.
 (3) Every forestry right when executed by the parties signing the same shall have the force and effect of a deed.
 
 ### 4 Forestry covenants
@@ -49,23 +45,23 @@ Notwithstanding any rule of law or equity to the contrary, every forestry covena
 
 ### 5 Plan requirements
 (1) For the purposes of the Land Transfer Act 1952, instead of complying with section 167 of that Act, the applicant for registration of a forestry right may indicate the boundaries of the forestry right by reference to a diagram or an aerial photograph:
-  Provided that no action shall lie against the Crown under Part 11 of the Land Transfer Act 1952 in respect of any such boundary not defined in accordance with the said section 167.
-(2) The proprietor or holder of any forestry right registered pursuant to subsection (1) of this section may at any time deposit a plan in accordance with section 167(5) of the Land Transfer Act 1952 and in accordance with the regulations for the time being in force in that behalf, which plan shall define such area or areas as may be mutually agreed upon by the proprietor and the holder, and shall for all purposes supersede the diagram or aerial photograph or relevant part of the diagram or aerial photograph, and such plan, when deposited, shall be deemed to be incorporated in the grant or reservation.
-(3) On the deposit of such plan as aforesaid the District Land Registrar shall, if necessary, amend the description of the parcels included in the grant or reservation and shall endorse on any relevant certificate of title, lease, or licence a memorial to the effect that the boundaries, or such of the boundaries as are defined, have been surveyed.
+  provided that no action shall lie against the Crown under Part 11 of the Land Transfer Act 1952 in respect of any such boundary not defined in accordance with the said section 167.
+(2) The proprietor or holder of any forestry right registered pursuant to subsection (1) may at any time deposit a plan in accordance with section 167(5) of the Land Transfer Act 1952 and in accordance with the regulations for the time being in force in that behalf, which plan shall define such area or areas as may be mutually agreed upon by the proprietor and the holder, and shall for all purposes supersede the diagram or aerial photograph or relevant part of the diagram or aerial photograph, and such plan, when deposited, shall be deemed to be incorporated in the grant or reservation.
+(3) On the deposit of such plan as aforesaid the Registrar shall, if necessary, amend the description of the parcels included in the grant or reservation and shall endorse on any relevant certificate of title, lease, or licence a memorial to the effect that the boundaries, or such of the boundaries as are defined, have been surveyed.
 
 ### 5A Registration of forestry rights over unregistered land
-(1) Where a forestry right is created over land in respect of which no certificate of title has been issued under the Land Transfer Act 1952, the holder may request the appropriate District Land Registrar to register the forestry right in accordance with this section.
-(2) The District Land Registrar shall, at the request of the holder, constitute a notification of the grant or reservation a separate folium of the register.
-(3) No forestry right shall be received under this section for notification as a separate folium of the register unless there is endorsed thereon a certificate by a licensed cadastral surveyor to the effect that the land to which that forestry right relates is within the boundaries of a parcel of land identified on a plan lodged in the office of the Chief Surveyor or District Land Registrar for the district in which the land is situated.
+(1) Where a forestry right is created over land in respect of which no certificate of title has been issued under the Land Transfer Act 1952, the holder may request the appropriate Registrar to register the forestry right in accordance with this section.
+(2) The Registrar shall, at the request of the holder, constitute a notification of the grant or reservation a separate folium of the register.
+(3) No forestry right shall be received under this section for notification as a separate folium of the register unless there is endorsed thereon a certificate by a licensed cadastral surveyor to the effect that the land to which that forestry right relates is within the boundaries of a parcel of land identified on a plan lodged in the office of the Surveyor-General or Registrar for the district in which the land is situated.
 (4) Notwithstanding any rule of law or equity to the contrary, every forestry right registered under this section shall run with and bind the land to which it relates and shall be deemed to be an interest in land for the purposes of the Land Transfer Act 1952.
-(5) Nothing in this section limits anything in section 5 of this Act.
+(5) Nothing in this section limits anything in section 5.
 
 ### 6 Subdivisions and rights of way
 For the purposes of the Resource Management Act 1991, the creation of a forestry right shall be deemed not to be a subdivision of the land of the proprietor, and any right of access created as ancillary to a forestry right over the land of the proprietor shall be deemed not to be the creation of a right of way under section 348 of the Local Government Act 1974.
 
 ### 7 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make all such regulations as are necessary or expedient for giving effect to the provisions of this Act and the due administration thereof.
-(2) Without limiting the general power to make regulations conferred by subsection (1) of this section, regulations may be made under this section prescribing such matters as are necessary or expedient for regulating the mode of registration and the form of forestry rights under the Land Transfer Act 1952.
+(2) Without limiting the general power to make regulations conferred by subsection (1), regulations may be made under this section prescribing such matters as are necessary or expedient for regulating the mode of registration and the form of forestry rights under the Land Transfer Act 1952.
 
 ### 8 Land Settlement Promotion and Land Acquisition Act 1952 not to apply
 [Repealed]
