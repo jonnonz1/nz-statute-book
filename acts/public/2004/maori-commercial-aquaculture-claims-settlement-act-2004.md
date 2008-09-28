@@ -1,5 +1,5 @@
 # Maori Commercial Aquaculture Claims Settlement Act 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-09-28_
 
 ### 1 Title
 This Act is the Maori Commercial Aquaculture Claims Settlement Act 2004.
@@ -7,7 +7,7 @@ This Act is the Maori Commercial Aquaculture Claims Settlement Act 2004.
 ### 2 Commencement
 Except as provided in section 60(5), this Act comes into force on 1 January 2005.
 
-## Part  — Preliminary provisions
+**Preliminary provisions**
 
 ### 3 Purpose of Act
 The purpose of this Act is to—
@@ -31,19 +31,28 @@ In this Act, unless the context otherwise requires,—
   - **new space** , in relation to an aquaculture management area,—
     (a) means—
       (i) available space as defined in section 165A of the Resource Management Act 1991; and
-      (ii) space in the aquaculture management area that, at the date on which the relevant regional coastal plan becomes operative, is subject to an application to which section 150B(2) of the Resource Management Act 1991 applies; but
-    (b) does not include space referred to in paragraph (a)(ii) if the moratorium under Part 6A of the Resource Management Act 1991 came to an end before 31 December 2004; and
-    (c) does not include space that, at any time since the establishment of the aquaculture management area, has been the subject of—
-      (i) a coastal permit authorising occupation for aquaculture activities; or
-      (ii) a deemed coastal permit under the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; and
-    (d) does not include space that, at any time since the establishment of the aquaculture management area, has been available for applications for coastal permits or allocation of authorisations whether or not a coastal permit was granted or an authorisation was allocated for that space; and
+      (ii) space in the aquaculture management area that, at the date on which the relevant regional council identifies the new space under section 9(1), is subject to—
+        (A) an application for occupation of the coastal marine area for the purpose of an aquaculture activity that was made after 31 December 2004 and before the close of 9 May 2006; or
+        (B) an application to which section 150B(2) of the Resource Management Act 1991 applies; but
+    (b) does not include space that is pre-commencement space as defined in section 20; and
+    (c)
+    (d) does not include space in an aquaculture management area if, before the space is made available for applications for coastal permits or allocations of authorisations, the regional council complied with section 9(1); and
+    (da) does not include space in an aquaculture management area if the space is in a proposed regional coastal plan or in a proposed change to a regional coastal plan, and the space is in an aquaculture management area in the operative regional coastal plan; and
     (e) does not include space in an aquaculture management area if—
       (i) the regional coastal plan provides for the space to be used only in emergencies; and
       (ii) the space may be used only by registered fish farmers who hold coastal permits to undertake aquaculture activities in the coastal marine area; and
-      (iii) the space may be used by the fish farmers referred to in subparagraph (ii) only while the space to which their coastal permits relate cannot be used for aquaculture activities
+      (iii) the space may be used by the fish farmers referred to in subparagraph (ii) only while the space to which their coastal permits relate cannot be used for aquaculture activities; but
+    (f) does include space if—
+      (i) the space was in an aquaculture management area in a regional coastal plan; and
+      (ii) the space was new space for the purposes of section 9(1); and
+      (iii) authorisations and coastal permits have been allocated or granted in respect of the space, including the trustee; and
+      (iv) the space subsequently ceases to be in an aquaculture management area; and
+      (v) all coastal permits granted in respect of the space have expired and no further coastal permits have been granted in respect of the space; and
+      (vi) the space is included in an aquaculture management area in a subsequent regional coastal plan
   - **occupy** has the same meaning as in section 2(1) of the Resource Management Act 1991
   - **public notice** has the same meaning as in section 2(1) of the Resource Management Act 1991
   - **recognised iwi organisation** has the same meaning as in section 5 of the Maori Fisheries Act 2004
+  - **regional council** has the same meaning as in section 2(1) of the Resource Management Act 1991
   - **reservation** has the same meaning as in section 186C of the Fisheries Act 1996
   - **sale** includes—
     (a) every method of disposition for valuable consideration, including barter; and
@@ -87,7 +96,7 @@ In this Act, unless the context otherwise requires,—
   (b) the existence of rights and interests of Maori in commercial aquaculture activities on or after 21 September 1992:
   (c) the quantification or the adequacy of the benefits to Maori provided by or under this Act.
 
-## Part  — Allocation of authorisations to trustee for new space for aquaculture activities
+**Allocation of authorisations to trustee for new space for aquaculture activities**
 
 ### 7 Purpose of sections 9 to 18
 The purpose of sections 9 to 18 is to provide for the allocation of authorisations in respect of 20% of new space in aquaculture management areas.
@@ -101,7 +110,7 @@ Sections 9 to 18 do not apply to an aquaculture management area in a regional co
 (1) Before a regional coastal plan or a change to a regional coastal plan that provides for aquaculture activities in new space becomes operative, the regional council must, by public notice, identify 20% of the new space for allocation to the trustee.
 (2) However, a regional council may, for the purposes of subsection (1), identify new space that comprises or includes new space in the region concerned in an aquaculture management area established under section 165C(1)(b) of the Resource Management Act 1991.
 (3) The new space identified under subsection (1) must be representative of all the new space being established in the region by the regional coastal plan or the change to the regional coastal plan.
-(4) The regional council must allocate to the trustee authorisations for the new space identified under subsection (1) as soon as practicable after the date on which the new space becomes available for applications. for coastal permits or allocation of authorisations.
+(4) The regional council must allocate to the trustee authorisations for the new space identified under subsection (1) as soon as practicable after the date on which the new space becomes available for applications for coastal permits or allocation of authorisations.
 (5) For the purposes of this section, new space that is subject to an application to which section 150B(2) of the Resource Management Act 1991 applies must be treated as available for allocation of authorisations on the operative date of the regional coastal plan concerned.
 (6) If new space in an aquaculture management area includes space that is subject to a reservation relating to commercial fishing, the representative space allocated to the trustee must include 20% of the new space that is subject to the reservation and that is representative of all the new space subject to a reservation.
 (7) In identifying whether space is representative for the purposes of this section, a regional council must have regard to—
@@ -174,7 +183,7 @@ Sections 9 to 18 do not apply to an aquaculture management area in a regional co
   (b) another person in accordance with a direction by an iwi aquaculture organisation entitled to have the settlement assets transferred to it in accordance with sections 48 and 49.
 (2) However, the trustee must not transfer settlement assets to another person unless satisfied that the iwi aquaculture organisation has complied with section 50.
 
-## Part  — Allocation of aquaculture space, or financial equivalent, to trustee equivalent to 20% of pre-commencement space in coastal marine area
+**Allocation of aquaculture space, or financial equivalent, to trustee equivalent to 20% of pre-commencement space in coastal marine area**
 
 ### 19 Purpose of sections 20 to 31
 The purpose of sections 20 to 31 is to provide for the Crown to allocate to the trustee space, or the financial equivalent, that is equivalent to 20% of certain space in the coastal marine area.
@@ -228,10 +237,7 @@ The Minister of Fisheries must, by 31 December 2012, have started a review of th
 (6) This section does not apply to space in an aquaculture management area established in response to a request under section 165Z of the Resource Management Act 1991.
 
 ### 26 Regional Council may retain proportion of tender remuneration
-If new space to be allocated by tender is allocated to the trustee under section 9 or section 25, a regional council may retain a proportion of the tender remuneration calculated in accordance with the following formula:where—
-  (a) is the money that the regional council may retain
-  (b) is the total tender money received in the tender concerned; and
-  (c) is the percentage of space allocated to the trustee.
+If new space to be allocated by tender is allocated to the trustee under section 9 or section 25, a regional council may retain a proportion of the tender remuneration calculated in accordance with the following formula:a =b100% − c × 0.5where—ais the money that the regional council may retainbis the total tender money received in the tender concernedcis the percentage of space allocated to the trustee.
 
 ### 27 Purchase of coastal permits by the Crown
 (1) The Crown may purchase coastal permits for the purpose of complying with section 22.
@@ -274,7 +280,7 @@ Before making a payment under section 22(3)(c), the Minister of Fisheries must h
   (b) bind, compromise, advantage or disadvantage, or operate as a precedent for any other matter; or
   (c) affect any customary rights, aboriginal title rights, or any rights arising under the Treaty of Waitangi in relation to any other matter.
 
-## Part  — Iwi aquaculture organisations
+**Iwi aquaculture organisations**
 
 ### 32 Functions and powers of iwi aquaculture organisations
 (1) Under this Act, an iwi aquaculture organisation must—
@@ -293,7 +299,7 @@ The trustee must recognise an iwi aquaculture organisation and record its recogn
   (b) the trustee is satisfied that the constitution of the organisation authorises the organisation to act on behalf of its iwi in relation to aquaculture claims and settlement assets under this Act; and
   (c) in the case of a joint mandated iwi organisation (as defined in section 5 of the Maori Fisheries Act 2004), the trustee is satisfied that the constitution of the organisation includes a process for determining the division of settlement assets between the organisation and a withdrawing group (as defined in section 19 of that Act).
 
-## Part  — Maori Commercial Aquaculture Settlement Trust
+**Maori Commercial Aquaculture Settlement Trust**
 
 ### 34 Maori Commercial Aquaculture Settlement Trust established
 This section establishes a trust to be called the Maori Commercial Aquaculture Settlement Trust (the trust).
@@ -368,7 +374,7 @@ The iwi aquaculture register must be available for access upon request by—
   (d) the chief executive of the Ministry of Fisheries:
   (e) the chief executive of a regional council.
 
-## Part  — Allocation of settlement assets
+**Allocation of settlement assets**
 
 ### 44 Entitlements to be determined and allocations to be made on regional basis
 The trustee must make its determinations as to settlement assets allocation entitlements and its allocation of settlement assets separately on the basis of the region of each regional council and each harbour listed in Schedule 2.
@@ -405,7 +411,7 @@ In reaching an agreement for the purposes of sections 48 and 49, the iwi aquacul
 (4) However, subsection (3) does not prevent the trustee from transferring a settlement asset in accordance with section 50.
 
 ### 49 Partial allocation of settlement assets
-(1) An iwi aquaculture organisation may request the trustee to make a partial allocation of settlement assets if the iwi' s allocation entitlement for the settlement assets has been determined, but the entitlement of 1 or more other iwi to the settlement assets is yet to be determined.
+(1) An iwi aquaculture organisation may request the trustee to make a partial allocation of settlement assets if the iwi's allocation entitlement for the settlement assets has been determined, but the entitlement of 1 or more other iwi to the settlement assets is yet to be determined.
 (2) The trustee may make a partial allocation of settlement assets only in accordance with—
   (a) an agreement of the iwi aquaculture organisations of all the relevant iwi; or
   (b) failing that agreement, a determination under sections 52 to 55.
@@ -443,7 +449,7 @@ In reaching an agreement for the purposes of sections 48 and 49, the iwi aquacul
 (1) The trustee must enter on the iwi aquaculture register details of every transfer of settlement assets made by the trustee or an iwi aquaculture organisation that is subject to section 50(1).
 (2) For the purpose of subsection (1), an iwi aquaculture organisation must notify the trustee of the details of a transfer of settlement assets that is subject to section 50(1) as soon as practicable after the transfer is made.
 
-## Part  — Dispute resolution
+**Dispute resolution**
 
 ### 52 Application
 Sections 53 to 55 apply to disputes between the following parties over the following matters:
@@ -475,7 +481,7 @@ If a dispute arises in relation to a matter referred to in section 52 and the pa
   (a) apply for review under Part 1 of the Judicature Amendment Act 1972; or
   (b) commence proceedings for a writ of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction in relation to that decision.
 
-## Part  — Miscellaneous provisions
+**Miscellaneous provisions**
 
 ### 56 Further redress if disproportionate reduction in space in relation to settlement assets
 (1) This section applies if—
@@ -507,12 +513,7 @@ If a dispute arises in relation to a matter referred to in section 52 and the pa
 (2) The Minister of Fisheries must make a recommendation under subsection (1) as soon as practicable after the relevant details about Admiralty Bay, Port Gore, and Port Underwood have been determined.
 
 ### 60 Amendments to Foreshore and Seabed Act 2004
-(1) Section 18(1)(b) of the Foreshore and Seabed Act 2004 is amended by adding the words or an estate in fee simple held by a local authority.
-(2) Section 34(4) of the Foreshore and Seabed Act 2004 is amended by adding the words and section 6 of the Maori Commercial Aquaculture Claims Settlement Act 2004.
-(3) Section 49(1) of the Foreshore and Seabed Act 2004 is amended by inserting, after paragraph (a), the following paragraph:.
-  (ab) that involves the exercise of any right or interest of Maori in commercial aquaculture activities on or after 21 September 1992, being a right or interest declared to be settled in section 6 of the Maori Commercial Aquaculture Claims Settlement Act 2004; or
-(4) Section 73(1) of the Foreshore and Seabed Act 2004 is amended by inserting, after paragraph (c), the following paragraph:.
-  (ca) that involves the exercise of any right or interest of Maori in commercial aquaculture activities on or after 21 September 1992, being a right or interest declared to be settled in section 6 of the Maori Commercial Aquaculture Claims Settlement Act 2004; or
+((1)–(4)) Amendment(s) incorporated in the Act(s).
 (5) Subsection (1) is deemed to have come into force on the commencement of section 18 of the Foreshore and Seabed Act 2004.
 
 ## Schedule 1 — Methodology for determination of settlement assets allocation entitlements
@@ -535,10 +536,14 @@ In this schedule,—
     (a) the coastline of the planning area of a regional council; and
     (b) in the case of the Manawatu-Wanganui or Waikato regional councils, the coastlines of the east coast and west coast of the planning area separately.
 
+### Part 1 — Determination of allocation entitlements
+
+**Process for making allocation entitlement claim**
+
 ### 3 Method of making claim for allocation entitlement
 (1) To enable the trustee to make a determination of the settlement assets allocation entitlements of an iwi as required by section 45, the iwi aquaculture organisation of the iwi must submit to the trustee—
   (a) a coastal claim for each regional coastline the rohe of the iwi abuts, that is not within any of the harbours listed in Schedule 2; and
-  (b) a harbour claim for each harbour listed in Schedule 2 within which the rohe of the iwi abuts high water mark.
+  (b) a harbour claim for each harbour listed in Schedule 2 within which the rohe of the iwi abuts high-water mark.
 (2) Each claim must identify—
   (a) the regional coastline or harbour to which the claim pertains; and
   (b) 2 specified points on the coastline, each of which must be—
@@ -546,7 +551,7 @@ In this schedule,—
     (ii) a coastal endpoint; or
     (iii) a harbour entrance point; or
     (iv) a point on the mean high-water mark with co-ordinates certified by a registered cadastral surveyor; and
-  (c) a percentage representing the proportion of the coast-line between the 2 specified points that the iwi aquaculture organisation is claiming for that regional coastline or harbour; and
+  (c) a percentage representing the proportion of the coastline between the 2 specified points that the iwi aquaculture organisation is claiming for that regional coastline or harbour; and
   (d) all affected iwi for that claim.
 (3) In the case of a harbour claim, for the purposes of subclause (2)(b), the points must be the entrance points of the harbour.
 (4) A group of claims submitted by an iwi aquaculture organisation under this clause may cover all, or only some, of the claims that the iwi is entitled to make.
@@ -578,8 +583,10 @@ Before an iwi aquaculture organisation submits a claim under clause 3 to the tru
   (a) the points and percentages settled in that process must be included in any relevant claim submitted under clause 3(1); and
   (b) the signed documentation of the resolution of the dispute must be included with the endorsements of the claim required by clause 4(1).
 
+**Process for verifying claims and determining entitlements**
+
 ### 8 Verification of claim for entitlement
-(1) After receiving a claim under clause 3, the trustee must
+(1) After receiving a claim under clause 3, the trustee must—
   (a) attempt to verify that all the data required by clause 3 has been supplied for each regional coastline or harbour for which a claim is made; and
   (b) attempt to verify that each specified point is—
     (i) a coastal boundary point; or
@@ -604,6 +611,8 @@ Before an iwi aquaculture organisation submits a claim under clause 3 to the tru
 ### 10 Determination of harbour entitlements
 If, in relation to a harbour claim, the trustee has verified the matters set out in clause 8(1)(a) and (b) and is satisfied about the matters set out in clause 8(1)(c), the trustee must determine the harbour settlement assets allocation entitlement of the claimant to be the percentage set out in the claim as required by clause 3(2)(c).
 
+### Part 2 — Computation model
+
 ### 11 Requirement for computation model
 (1) Before making the first calculation of coastline lengths to be used to determine allocation entitlements for the purposes of section 45, the trustee must ensure that an appropriate computation model is created for the purpose of calculating coastline lengths between 2 specified co-ordinates on the mean high-water mark.
 (2) The trustee must ensure that, after the first application under clause 9 of the computation model to produce results to be used to determine a coastline entitlement, there are no alterations to—
@@ -622,7 +631,7 @@ If, in relation to a harbour claim, the trustee has verified the matters set out
 (2) Coastlines must be defined along the line of the mean high-water mark.
 (3) If the regional planning area of a regional council is altered and, as a result, the coastal endpoints referred to in subclause (1)(b) no longer represent the points where the boundary of the regional planning area intersects the coastline, then the trustee must—
   (a) redefine the coastal endpoints accordingly; and
-  (b) notify the new coastal endpoints in the Gazette ; and
+  (b) notify the new coastal endpoints in the Gazette; and
   (c) recalculate the allocation entitlements of the iwi concerned in accordance with subclause (4).
 (4) For the purposes of subclause (3)(c), the trustee must—
   (a) recalculate the allocation entitlements of the iwi concerned by using the data from the original verified claims of each iwi together with the new coastal endpoints; and
@@ -631,8 +640,8 @@ If, in relation to a harbour claim, the trustee has verified the matters set out
   (d) use the new entitlements only for the allocation of settlement assets received after the date on which the alteration to the planning area becomes operative.
 
 ### 13 Decision rules for computation model
-The calculation of coastline lengths must be based on the following decision rules in relation to the specified geographical features:River mouth—BaysOffshore islandsChatham Islands
-  (a) rivers are cut off where the mean high-water mark meets the natural entrance points of the river, and the distance across the river mouth is included in the coast-line length:
+The calculation of coastline lengths must be based on the following decision rules in relation to the specified geographical features:River mouthBaysOffshore islandsChatham Islands
+  (a) rivers are cut off where the mean high-water mark meets the natural entrance points of the river, and the distance across the river mouth is included in the coastline length:
   (b) a bay is an indentation of the coast—
     (i) the area of which is not less than the area of a semicircle with a diameter drawn across the mouth of the indentation; and
     (ii) the length of the diameter referred to in subparagraph (i) is 10 km or less:
@@ -658,62 +667,62 @@ The calculation of coastline lengths must be based on the following decision rul
 | Harbours | Entrance | Longitude | Latitude |
 | --- | --- | --- | --- |
 | North Island |  |  |  |
-| Parengarenga | North | 172°59.355' | 34°31.343' |
-|  | South | 172°59.417' | 34°31.846' |
-| Houhora | North | 173°09.348' | 34°49.544' |
-|  | South | 173°09.264' | 34°49.641' |
-| Rangaunu | North | 173°15.772' | 34°53.061' |
-|  | South | 173°17.153' | 34°51.843' |
-| Mangonui | North | 173°31.480' | 34°58.927' |
-|  | South | 173°31.680' | 34°58.798' |
-| Whangaroa | North | 173°45.418' | 35°0.127' |
-|  | South | 173°46.011' | 35°0.413' |
-| Upper Bay of Islands—Te Puna Inlet | North | 174°04.088' | 35°11.740' |
-|  | South | 174°04.244' | 35°12.779' |
-| Upper Bay of Islands—Waikare Inlet | North | 174°04.665' | 35°14.709' |
-|  | South | 174°06.704' | 35°15.135' |
-| Whangaruru | North | 174°22.531' | 35°22.755' |
-|  | South | 174°22.167' | 35°24.886' |
-| Whangarei | North | 174°31.791' | 35°51.841' |
-|  | South | 174°30.057' | 35°50.585' |
-| Mangawhai | North | 174°27.790' | 35°53.984' |
-|  | South | 174°27.674' | 35°54.479' |
-| Whitianga | North | 175°44.852' | 36°47.563' |
-|  | South | 175°46.086' | 36°49.305' |
-| Tairua | North | 175°52.061' | 37°0.413' |
-|  | South | 175°51.798' | 37°0.527' |
-| Tauranga—Katikati entrance | North | 175°59.492' | 37°28.002' |
-|  | South | 175°59.745' | 37°28.455' |
-| Tauranga—Mt Maunganui entrance | North | 176°09.646' | 37°38.252' |
-|  | South | 176°10.086' | 37°38.246' |
-| Ohiwa | North | 177°08.751' | 37°59.276' |
-|  | South | 177°09.629' | 37°59.377' |
-| Aotea and Kawhia—Kawhia | North | 174°46.862' | 38°05.191' |
-|  | South | 174°46.460' | 38°05.391' |
-| Aotea and Kawhia—Aotea | North | 174°47.829' | 38°01.084' |
-|  | South | 174°47.981' | 38°01.189' |
-| Raglan | North | 174°50.465' | 37°48.089' |
-|  | South | 174°50.497' | 37°48.318' |
-| Port Waikato | North | 174°42.540' | 37°22.049' |
-|  | South | 174°42.312' | 37°22.460' |
-| Manukau | North | 174°31.848' | 37°02.052' |
-|  | South | 174°32.507' | 37°02.950' |
-| Kaipara | North | 174°09.438' | 36°23.270' |
-|  | South | 174°11.705' | 36°25.989' |
-| Hokianga | North | 173°21.416' | 35°31.511' |
-|  | South | 173°21.822' | 36°32.553' |
+| Parengarenga | North | 172°59.355′ | 34°31.343′ |
+|  | South | 172°59.417′ | 34°31.846′ |
+| Houhora | North | 173°09.348′ | 34°49.544′ |
+|  | South | 173°09.264′ | 34°49.641′ |
+| Rangaunu | North | 173°15.772′ | 34°53.061′ |
+|  | South | 173°17.153′ | 34°51.843′ |
+| Mangonui | North | 173°31.480′ | 34°58.927′ |
+|  | South | 173°31.680′ | 34°58.798′ |
+| Whangaroa | North | 173°45.418′ | 35°0.127′ |
+|  | South | 173°46.011′ | 35°0.413′ |
+| Upper Bay of Islands—Te Puna Inlet | North | 174°04.088′ | 35°11.740′ |
+|  | South | 174°04.244′ | 35°12.779′ |
+| Upper Bay of Islands—Waikare Inlet | North | 174°04.665′ | 35°14.709′ |
+|  | South | 174°06.704′ | 35°15.135′ |
+| Whangaruru | North | 174°22.531′ | 35°22.755′ |
+|  | South | 174°22.167′ | 35°24.886′ |
+| Whangarei | North | 174°31.791′ | 35°51.841′ |
+|  | South | 174°30.057′ | 35°50.585′ |
+| Mangawhai | North | 174°27.790′ | 35°53.984′ |
+|  | South | 174°27.674′ | 35°54.479′ |
+| Whitianga | North | 175°44.852′ | 36°47.563′ |
+|  | South | 175°46.086′ | 36°49.305′ |
+| Tairua | North | 175°52.061′ | 37°0.413′ |
+|  | South | 175°51.798′ | 37°0.527′ |
+| Tauranga—Katikati entrance | North | 175°59.492′ | 37°28.002′ |
+|  | South | 175°59.745′ | 37°28.455′ |
+| Tauranga—Mt Maunganui entrance | North | 176°09.646′ | 37°38.252′ |
+|  | South | 176°10.086′ | 37°38.246′ |
+| Ohiwa | North | 177°08.751′ | 37°59.276′ |
+|  | South | 177°09.629′ | 37°59.377′ |
+| Aotea and Kawhia—Kawhia | North | 174°46.862′ | 38°05.191′ |
+|  | South | 174°46.460′ | 38°05.391′ |
+| Aotea and Kawhia—Aotea | North | 174°47.829′ | 38°01.084′ |
+|  | South | 174°47.981′ | 38°01.189′ |
+| Raglan | North | 174°50.465′ | 37°48.089′ |
+|  | South | 174°50.497′ | 37°48.318′ |
+| Port Waikato | North | 174°42.540′ | 37°22.049′ |
+|  | South | 174°42.312′ | 37°22.460′ |
+| Manukau | North | 174°31.848′ | 37°02.052′ |
+|  | South | 174°32.507′ | 37°02.950′ |
+| Kaipara | North | 174°09.438′ | 36°23.270′ |
+|  | South | 174°11.705′ | 36°25.989′ |
+| Hokianga | North | 173°21.416′ | 35°31.511′ |
+|  | South | 173°21.822′ | 36°32.553′ |
 | Marlborough Sounds |  |  |  |
 | Admiralty Bay | North | 173°54.440′ | 40°55.712′ |
 |  | South | 173°51.334′ | 40°55.882′ |
-| Croisilles Harbour | North | 173°40.262' | 41°02.322' |
-|  | South | 173°35.629' | 41°03.211' |
-| Pelorus Sound | North (Day Point) | 174°01.398' | 40°54.737' |
-|  | South (Alligator Head) | 174°09.531' | 40°58.180' |
+| Croisilles Harbour | North | 173°40.262′ | 41°02.322′ |
+|  | South | 173°35.629′ | 41°03.211′ |
+| Pelorus Sound | North (Clay Point) | 174°01.398′ | 40°54.737′ |
+|  | South (Alligator Head) | 174°09.531′ | 40°58.180′ |
 | Port Gore | North | 174°13.927′ | 40°59.255′ |
 |  | South | 174°18.789′ | 40°59.716′ |
 | Port Underwood | North | 174°7.181′ | 41°21.152′ |
 |  | South | 174°5.411′ | 41°21.261′ |
-| Queen Charlotte Sound (northern entrance) | North (Cape Jackson) | 174°18.896' | 40°59.742' |
-|  | South (Cape Koamaru) | 174°22.957' | 41°05.389' |
-| Queen Charlotte South (East and West Head entrance) | North (East Head) | 174°19.358' | 41°12.748' |
-|  | South (West Head) | 174°18.913' | 41°12.918' |
+| Queen Charlotte Sound (northern entrance) | North (Cape Jackson) | 174°18.896′ | 40°59.742′ |
+|  | South (Cape Koamaru) | 174°22.957′ | 41°05.389′ |
+| Queen Charlotte South (East and West Head entrance) | North (East Head) | 174°19.358′ | 41°12.748′ |
+|  | South (West Head) | 174°18.913′ | 41°12.918′ |
