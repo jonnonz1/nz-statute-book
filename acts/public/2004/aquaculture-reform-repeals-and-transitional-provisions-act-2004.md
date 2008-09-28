@@ -1,5 +1,5 @@
 # Aquaculture Reform (Repeals and Transitional Provisions) Act 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-09-28_
 
 ### 1 Title
 This Act is the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.
@@ -22,23 +22,23 @@ The purpose of this Act is—
   (d) sections 55 to 58 deal with some general matters.
 (2) The arrangement of this Act does not necessarily enable certain situations and the relevant provisions to be readily identified.
 (3) The table at the end of this section refers to certain situations and the relevant provisions in a different order based on arranging situations in a sequence in which they are likely, in practice, to occur.
-(4) The purpose of this section is to present alternative arrangements for ease of reference, and nothing in this section limits or affects the other provisions of this Act.SituationSectionPre-moratorium resource consent applications50 (Pre-moratorium and pre-commencement applications for coastal permits not subject to moratorium)51 (Regional council must request aquaculture decision if application for coastal permit declined or withdrawn)20 or 21 (Marine farming permits and certain spat catching permits deemed to be coastal permits)24 (Objections to decisions made under sections 20(3) and 21(3))28 (Lapsing of parts of coastal permit)29 (Holder of deemed coastal permit to be treated as holder of fish farmer registration pending registration by chief executive)53 (Off-site farms)56 (Restriction on erection of structures on coastal marine area)52 (Areas excluded from interim aquaculture management area or aquaculture management area)Pre-commencement early uplift applications46 (Pending applications where moratorium ends before 31 December 2004)Pending applications when moratorium ends on close of 31 December 200447 (Pending applications where moratorium ends on close of 31 December 2004)Holder of a coastal permit issued under Resource Management Act 1991 and a marine farming permit issued under the Fisheries Act 1983, both in force at commencement of this Act20 (Marine farming permits deemed to the be coastal permits)24 (Objections to decisions made under sections 20(3) and 21(3))28 (Lapsing of parts of coastal permit)53 (Off-site farms)56 (Restriction on erection of structures in coastal marine area)29 (Holder of deemed coastal permit to be treated as holder of fish farmer registration pending registration by chief executive)32 (Levies)Holder of a coastal permit issued under the Resource Management Act 1991 and a spat catching permit issued under section 67Q(2) of the Fisheries Act 1983, both in force at commencement of this Act21 (Certain spat catching permits deemed to be coastal permits)24 (Objections to decisions made under sections 20(3) and 21(3))28 (Lapsing of parts of coastal permit)53 (Off-site farms)56 (Restriction on erection of structures in coastal marine area)29 (Holder of deemed coastal permit to be treated as holder of fish farmer registration pending registration by chief executive)32 (Levies)Existing application for new permit under Fisheries Act 1983 or change of conditions of permit under Fisheries Act 198327 (Order of processing applications and request for aquaculture decision in relation to aquaculture management area or interim aquaculture management area)25 (Completion of certain matters pending at commencement of Act)20 or 21 (Marine farming permits and certain spat catching permits deemed to be coastal permits)24 (Objections to decisions made under sections 20(3) and 21(3))28 (Lapsing of parts of coastal permit)53 (Off-site farms)56 (Restriction on erection of structures in coastal marine area)29 (Holder of deemed coastal permit to be treated as holder of fish farmer registration pending registration by chief executive)30 (Application to register fish farmer deferred pending decision on permit)31 (Application to register as fish farmer to be declined if marine farming permit or spat catching permit declined)32 (Levies)52 (Areas excluded from aquaculture management area or aquaculture management area)New applications for new permits under Fisheries Act 198326 (Applications after commencement of Act)27 (Order of processing applications and request for aquaculture decision in relation to aquaculture management area or interim aquaculture management area)20 or 21 (Marine farming permits and certain spat catching permits deemed to be coastal permits)24 (Objections to decisions made under sections 20(3) and 21(3))28 (Lapsing of parts of coastal permit)53 (Off-site farms)56 (Restriction on erection of structures in coastal marine area)29 (Holder of deemed coastal permit to be treated as holder of fish farmer registration pending registration by chief executive)30 (Application to register fish farmer deferred pending decision on permit)31 (Application to register as fish farmer to be declined if marine farming permit or spat catching permit declined)32 (Levies)52 (Areas excluded from interim aquaculture management area or aquaculture management area)Surrender of permits under Fisheries25(4) (Completion of certain matters Act 1983 pending at commencement of Act)Review of permits under Fisheries Act 198325(5) (Completion of certain matters pending at commencement of Act)Holder of a lease or licence issued under the Marine Farming Act 1971 in force at commencement of this Act (including forfeiture)8 (Application)10 (Leases and licences deemed to be coastal permits)12 (Approvals under Harbours Act 1950)16 (Certain matters to be completed under principal Act)13 (Mortgages and charges)14 (Subleases and sublicences)53 (Off-site farms)56 (Restriction on erection of structures in coastal marine area)17 (Holder of deemed coastal permit to be treated as holder of fish farm registration pending registration by chief executive)49 (Preferential right for deemed permit holder to apply for coastal permit for occupation)Existing application to change conditions of lease or licence issued under the Marine Farming Act 197115 (Applications to extend term)16 (Certain matters to be completed under principal Act)
+(4) The purpose of this section is to present alternative arrangements for ease of reference, and nothing in this section limits or affects the other provisions of this Act.SituationSectionPre-moratorium resource consent applications50 (Pre-moratorium and pre-commencement applications for coastal permits not subject to moratorium)51 (Regional council must request aquaculture decision if application for coastal permit declined or withdrawn)20 or 21 (Marine farming permits and certain spat catching permits deemed to be coastal permits)24 (Objections to decisions made under sections 20(3) and 21(3))28 (Lapsing of parts of coastal permit)29 (Holder of deemed coastal permit to be treated as holder of fish farmer registration pending registration by chief executive)53 (Off-site farms)56 (Restriction on erection of structures on coastal marine area)52 (Areas excluded from interim aquaculture management area or aquaculture management area)Pre-commencement early uplift applications46 (Pending applications where moratorium ends before 31 December 2004)Pending applications when moratorium ends on close of 31 December 200447 (Pending applications where moratorium ends on close of 31 December 2004)Holder of a coastal permit issued under the Resource Management Act 1991 and a marine farming permit issued under the Fisheries Act 1983, both in force at commencement of this Act20 (Marine farming permits deemed to be coastal permits)24 (Objections to decisions made under sections 20(3) and 21(3))28 (Lapsing of parts of coastal permit)53 (Off-site farms)56 (Restriction on erection of structures in coastal marine area)29 (Holder of deemed coastal permit to be treated as holder of fish farmer registration pending registration by chief executive)32 (Levies)Holder of a coastal permit issued under the Resource Management Act 1991 and a spat catching permit issued under section 67Q(2) of the Fisheries Act 1983, both in force at commencement of this Act21 (Certain spat catching permits deemed to be coastal permits)24 (Objections to decisions made under sections 20(3) and 21(3))28 (Lapsing of parts of coastal permit)53 (Off-site farms)56 (Restriction on erection of structures in coastal marine area)29 (Holder of deemed coastal permit to be treated as holder of fish farmer registration pending registration by chief executive)32 (Levies)Existing application for new permit under Fisheries Act 1983 or change of conditions of permit under Fisheries Act 198327 (Order of processing applications and request for aquaculture decision in relation to aquaculture management area or interim aquaculture management area)25 (Completion of certain matters pending at commencement of Act)20 or 21 (Marine farming permits and certain spat catching permits deemed to be coastal permits)24 (Objections to decisions made under sections 20(3) and 21(3))28 (Lapsing of parts of coastal permit)53 (Off-site farms)56 (Restriction on erection of structures in coastal marine area)29 (Holder of deemed coastal permit to be treated as holder of fish farmer registration pending registration by chief executive)30 (Application to register fish farmer deferred pending decision on permit)31 (Application to register as fish farmer to be declined if marine farming permit or spat catching permit declined)32 (Levies)52 (Areas excluded from aquaculture management area or aquaculture management area)New applications for new permits under Fisheries Act 198326 (Applications after commencement of Act)27 (Order of processing applications and request for aquaculture decision in relation to aquaculture management area or interim aquaculture management area)20 or 21 (Marine farming permits and certain spat catching permits deemed to be coastal permits)24 (Objections to decisions made under sections 20(3) and 21(3))28 (Lapsing of parts of coastal permit)53 (Off-site farms)56 (Restriction on erection of structures in coastal marine area)29 (Holder of deemed coastal permit to be treated as holder of fish farmer registration pending registration by chief executive)30 (Application to register fish farmer deferred pending decision on permit)31 (Application to register as fish farmer to be declined if marine farming permit or spat catching permit declined)32 (Levies)52 (Areas excluded from interim aquaculture management area or aquaculture management area)Surrender of permits under Fisheries Act 198325(4) (Completion of certain matters pending at commencement of Act)Review of permits under Fisheries Act 198325(5) (Completion of certain matters pending at commencement of Act)Holder of a lease or licence issued under the Marine Farming Act 1971 in force at commencement of this Act (including forfeiture)8 (Application)10 (Leases and licences deemed to be coastal permits)12 (Approvals under Harbours Act 1950)16 (Certain matters to be completed under principal Act)13 (Mortgages and charges)14 (Subleases and sublicences)53 (Off-site farms)56 (Restriction on erection of structures in coastal marine area)17 (Holder of deemed coastal permit to be treated as holder of fish farm registration pending registration by chief executive)49 (Preferential right for deemed permit holder to apply for coastal permit for occupation)Existing application to change conditions of lease or licence issued under the Marine Farming Act 197115 (Applications to extend term)16 (Certain matters to be completed under principal Act)
 
 ### 5 Interpretation
 (1) In this Act unless the context otherwise requires, aquatic life, fish, fishing, and seaweed have the same meaning as in section 2(1) of the Fisheries Act 1996.
 (2) In this Act, the commencement of this Act means 1 January 2005.
 
-## Part  — Repeal of Marine Farming Act 1971 and transitional provisions relating to repeal
+**Repeal of Marine Farming Act 1971 and transitional provisions relating to repeal**
 
 ### 6 Marine Farming Act 1971 called principal Act in sections 7 to 17
 In sections 7 to 17, the Marine Farming Act 1971 is called the principal Act.
 
-## Part  — Repeal
+**Repeal**
 
 ### 7 Repeal
 The principal Act is repealed.
 
-## Part  — Transitional
+**Transitional**
 
 ### 8 Application
 (1) Sections 9 to 17 apply to every lease or licence that—
@@ -64,7 +64,7 @@ In sections 10 to 17, unless the context otherwise requires, deemed coastal perm
 (6) To avoid doubt, a review under subsection (4) is a review of consent conditions for the purposes of section 120 of the Resource Management Act 1991.
 (7) Sections 23 and 24 apply to a decision made by a consent authority under subsection (4), and that provision applies accordingly with all necessary modifications.
 (8) A deemed coastal permit is to be treated as if it had been granted for a term of 20 years beginning on the commencement of this Act.
-(9) A, deemed coastal permit is to be treated as if it—
+(9) A deemed coastal permit is to be treated as if it—
   (a) authorises the holder to undertake aquaculture activities in the area specified in the lease or licence concerned to the extent consistent with the lease or licence as in force immediately before the date specified in subsection (2); and
   (b) includes all the coastal permits that would otherwise have been required under sections 12 and 14 of the Resource Management Act 1991 to undertake those activities; and
   (c) includes all the coastal permits that would otherwise have been required under section 15 of the Resource Management Act 1991 to undertake those activities to the extent that they were being undertaken at the commencement of this Act.
@@ -113,18 +113,17 @@ A sublessee or sublicensee of a lease or licence that is subject to a sublease o
 (1) The holder of a deemed coastal permit must be treated as a registered fish farmer under Part 9A of the Fisheries Act 1996 for the space that the deemed coastal permit relates to.
 (2) Within 12 months after the commencement of this Act, the chief executive must register the holder of the deemed coastal permit as a fish farmer under section 186V of the Fisheries Act 1996 without an application or payment of the prescribed fee.
 
-## Part  — Repeal of certain provisions in Part 4A of Fisheries Act 1983 and transitional provisions relating to repeals
+**Repeal of certain provisions in Part 4A of Fisheries Act 1983 and transitional provisions relating to repeals**
 
 ### 18 Fisheries Act 1983 called principal Act in sections 19 to 33
 In sections 19 to 33, the Fisheries Act 1983 is called the principal Act.
 
-## Part  — Repeals and amendments
+**Repeals and amendments**
 
 ### 19 Repeals
-(1) Sections 67I to 67Q of the principal Act are repealed.
-(2) Section 314(1)(x) of the Fisheries Act 1996 is consequentially repealed.
+Amendment(s) incorporated in the Act(s).
 
-## Part  — Transitional
+**Transitional**
 
 ### 20 Marine farming permits deemed to be coastal permits
 (1) This section applies to every marine farming permit that—
@@ -152,7 +151,7 @@ In sections 19 to 33, the Fisheries Act 1983 is called the principal Act.
   (a) may do so on its own initiative or after a request from the holder of the permit; but
   (b) must not amend the species or area covered by the coastal permit.
 (5) To avoid doubt, a review of conditions under subsection (3) is a review of consent conditions for the purposes of section 120 of the Resource Management Act 1991.
-(6) A coastal penult referred to in subsection (2) expires on the same date as the coastal permit that relates to the spat catching permit that is deemed by subsection (2) to be a coastal permit.
+(6) A coastal permit referred to in subsection (2) expires on the same date as the coastal permit that relates to the spat catching permit that is deemed by subsection (2) to be a coastal permit.
 (7) A coastal permit referred to in subsection (2) does not, of itself, authorise the holder to occupy a coastal marine area.
 
 ### 22 Provision of records to regional councils
@@ -242,7 +241,7 @@ Section 36 of the Resource Management Act 1991 applies in relation to the functi
   (b) a spat catching permit under section 67Q(2) of the Fisheries Act 1983.
 (2) A levy or fee that is, immediately before the commencement of this Act, payable but unpaid remains payable even though the permit is deemed to be a coastal permit under section 20 or section 21.
 
-## Part  — Revocation
+**Revocation**
 
 ### 33 Revocation of Freshwater Fish Farming Regulations 1983
 (1) The Freshwater Fish Farming Regulations 1983 (SR 1983/278) are revoked.
@@ -253,12 +252,12 @@ Section 36 of the Resource Management Act 1991 applies in relation to the functi
 (6) The chief executive must, within 12 months after the commencement of this section, register without an application or payment of the prescribed fee the holder of a fish-farm licence under the Freshwater Fish Farming Regulations 1983 immediately before the commencement of this section as a fish farmer in respect of the space that the licence relates to.
 (7) An application for a fish-farm licence under regulation 6 of the Freshwater Fish Farming Regulations 1983 made but not determined at the commencement of this section must be treated as if it were an application to register as a fish farmer under section 186R of the Fisheries Act 1996.
 
-## Part  — Transitional provisions relating to end of moratorium under Resource Management Act 1991
+**Transitional provisions relating to end of moratorium under Resource Management Act 1991**
 
 ### 34 Resource Management Act 1991 called principal Act in sections 35 to 54
 In sections 35 to 54, the Resource Management Act 1991 is called the principal Act.
 
-## Part  — Interim aquaculture management areas
+**Interim aquaculture management areas**
 
 ### 35 Interpretation
 In sections 36 to 54,—
@@ -300,10 +299,13 @@ In sections 36 to 54,—
   (b) consider any submissions made by those persons and organisations.
 
 ### 39 Aquaculture decisions must not be made in relation to certain areas
-The chief executive must not make an aquaculture decision if the decision would apply to an area for which—
+(1) The chief executive must not make an aquaculture decision if the decision would apply to an area for which—
   (a) a coastal permit under the principal Act authorises occupation for the purposes of an aquaculture activity; or
   (b) a deemed coastal permit under section 10 or section 20 or section 21 is in force; or
-  (c) an application for a coastal permit under the principal Act, other than an application to which section 150B(2) of that Act applies, has been made but not determined.
+  (c) an application for a coastal permit under the principal Act to occupy a coastal marine area for the purpose of an aquaculture activity has been made but not determined.
+(2) However, subsection (1)(c) does not apply to the following applications:
+  (a) applications to which section 150B(2) of the principal Act applies:
+  (b) applications made in the period beginning on 1 January 2005 and ending with the close of 9 May 2006.
 
 ### 40 Matters to be considered by chief executive
 In deciding whether to make a determination or reservation, the chief executive must have regard only to the following matters:
@@ -358,7 +360,7 @@ Any person wishing to seek, under Part 1 of the Judicature Amendment Act 1972, j
 (3) Schedules 1 and 1A of the principal Act do not apply to an amendment made under subsection (1).
 (4) On and from the date on which the regional council complies with subsection (1), the interim aquaculture management area becomes an aquaculture management area.
 
-## Part  — Deemed aquaculture management areas
+**Deemed aquaculture management areas**
 
 ### 45 Existing coastal permits deemed to be aquaculture management areas
 (1) This section applies—
@@ -371,7 +373,7 @@ Any person wishing to seek, under Part 1 of the Judicature Amendment Act 1972, j
 (4) The deemed aquaculture management area is subject to the provisions of the regional coastal plan or proposed regional coastal plan that apply to the area.
 (5) An area that is deemed to be an aquaculture management area by this section ceases to be an aquaculture management area if a plan that applies to the area becomes operative after the commencement of this Act and does not provide for the area to continue to be an aquaculture management area.
 
-## Part  — Existing applications and coastal permits
+**Existing applications and coastal permits**
 
 ### 46 Pending applications where moratorium ends before 31 December 2004
 (1) This section applies to an application—
@@ -428,14 +430,14 @@ Any person wishing to seek, under Part 1 of the Judicature Amendment Act 1972, j
 (3) However, subsection (2) does not apply if—
   (a) the permit holder consents in writing to the application; or
   (b) the coastal permit has expired and—
-  (i) the holder of the permit has not applied for a new coastal permit to occupy the same area to undertake an aquaculture activity; or
-  (ii) the holder of the permit has applied for a new coastal permit for the same area and the application has been refused and all appeals against the refusal have been withdrawn or dismissed; or
+    (i) the holder of the permit has not applied for a new coastal permit to occupy the same area to undertake an aquaculture activity; or
+    (ii) the holder of the permit has applied for a new coastal permit for the same area and the application has been refused and all appeals against the refusal have been withdrawn or dismissed; or
   (c) the coastal permit has lapsed under section 125 of the principal Act; or
   (d) the coastal permit has been cancelled under section 126 of the principal Act; or
   (e) the coastal permit has been surrendered under section 138 of the principal Act.
 (4) This section does not limit or affect section 124 of the principal Act.
 
-## Part  — Pre-moratorium and pre-commencement applications for coastal permits
+**Pre-moratorium and pre-commencement applications for coastal permits**
 
 ### 50 Pre-moratorium and pre-commencement applications for coastal permits not subject to moratorium
 (1) Subsection (2) applies to an application for a coastal permit under the principal Act to occupy a coastal marine area for aquaculture activities if the application—
@@ -456,7 +458,7 @@ Any person wishing to seek, under Part 1 of the Judicature Amendment Act 1972, j
   (a) an application for a coastal permit to occupy a coastal marine area for aquaculture activities if the application—
     (i) is made before the commencement of this Act; and
     (ii) is not subject to section 150B(2) of the principal Act; and
-    (iii) relates to part of an aquaculture management area or interim aquaculture management area; and
+    (iii) relates to part of an interim aquaculture management area; and
     (iv) has been declined or withdrawn:
   (b) a coastal permit if—
     (i) it was granted under an application to which paragraph (a)(i) to (iii) applies; and
@@ -466,17 +468,17 @@ Any person wishing to seek, under Part 1 of the Judicature Amendment Act 1972, j
       (B) expires and the holder of the permit is not entitled under section 124 of the principal Act to continue to operate under the coastal permit; or
       (C) is cancelled under section 126 of the principal Act; or
       (D) is surrendered under section 138 of the principal Act.
-(2) The regional council to which the application was made or which granted the coastal permit must request an aquaculture decision for the part of the aquaculture management area or interim aquaculture management area concerned under section 186D of the Fisheries Act 1996.
-(3) Sections 186C to 186J of the Fisheries Act 1996 apply to the request as if a reference in those sections to an aquaculture management area were a reference to the part of the aquaculture management area or interim aquaculture management area concerned.
+(2) The regional council to which the application was made or which granted the coastal permit must request an aquaculture decision for the part of the interim aquaculture management area concerned.
+(3) Sections 38 to 44 apply to the request.
 
-### 52 Areas excluded from interim aquaculture management area or aquaculture management area
+### 52 Areas excluded from interim aquaculture management area
 (1) This section applies to an application for—
   (a) a marine farming permit under section 67J of the Fisheries Act 1983:
   (b) a spat catching permit under section 67Q(2) of the Fisheries Act 1983.
-(2) If the chief executive of the Ministry of Fisheries has declined an application to which this section applies, whether before or after the commencement of this Act, the regional council must delete from an aquaculture management area or interim aquaculture management area, as the case may be, any area to which the application applies.
-(3) If the chief executive of the Ministry of Fisheries has granted an application to which this section applies, whether before or after the commencement of this Act, the area to which the application relates is to be treated as if the chief executive had made a determination under section 186E of the Fisheries Act 1996, or section 38 of this Act, as the case may be, in relation to it.
+(2) If the chief executive of the Ministry of Fisheries has declined an application to which this section applies, whether before or after the commencement of this Act, the regional council must delete from an interim aquaculture management area any area to which the application applies.
+(3) If the chief executive of the Ministry of Fisheries has granted an application to which this section applies, whether before or after the commencement of this Act, the area to which the application relates is to be treated as if the chief executive had made a determination under section 38 of this Act in relation to it and section 44 applies accordingly.
 
-## Part  — Review of off-site farms
+**Review of off-site farms**
 
 ### 53 Off-site farms
 (1) This section applies to a deemed coastal permit under any of sections 10, 20, or 21 for which the actual space is not the authorised space.
@@ -505,7 +507,7 @@ Any person wishing to seek, under Part 1 of the Judicature Amendment Act 1972, j
 (2) A consent authority may review a deemed coastal permit to the same extent and within the same time as if the holder of the permit had applied under section 53(2).
 (3) For the purposes of subsection (2), section 53(5) to (12) applies with all necessary modifications.
 
-## Part  — General
+**General**
 
 ### 55 Transitional provision relating to requirements to keep records and returns
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Fisheries, make regulations cancelling, on any coastal permit authorising the occupation of the coastal marine area for an aquaculture activity, conditions requiring the holder of the coastal permit to keep or provide accounts, records, returns, and information.
