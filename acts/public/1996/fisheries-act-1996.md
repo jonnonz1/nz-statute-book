@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2008-09-28_
 
 > An Act—aTo reform and restate the law relating to fisheries resources; andbTo recognise New Zealand's international obligations relating to fishing; andcTo provide for related matters
 
@@ -430,11 +430,17 @@ All persons exercising or performing functions, duties, or powers under this Act
     (i) In a way and at a rate that will result in the stock being restored to or above a level that can produce the maximum sustainable yield, having regard to the interdependence of stocks; and
     (ii) Within a period appropriate to the stock, having regard to the biological characteristics of the stock and any environmental conditions affecting the stock; or
   (c) Enables the level of any stock whose current level is above that which can produce the maximum sustainable yield to be altered in a way and at a rate that will result in the stock moving towards or above a level that can produce the maximum sustainable yield, having regard to the interdependence of stocks.
-(3) In considering the way in which and rate at which a stock is moved towards or above a level that can produce maximum sustainable yield under paragraph (b) or paragraph (c) of subsection (2) of this section, the Minister shall have regard to such social, cultural, and economic factors as he or she considers relevant.
-(4) The Minister may from time to time, by notice in the Gazette, vary any total allowable catch set for any quota management stock under this section by increasing or reducing the total allowable catch. When considering any variation, the Minister is to have regard to the matters specified in subsections (2) and (3).
+(2A) For the purposes of setting a total allowable catch under this section, if the Minister considers that the current level of the stock or the level of the stock that can produce the maximum sustainable yield is not able to be estimated reliably using the best available information, the Minister must—
+  (a) not use the absence of, or any uncertainty in, that information as a reason for postponing or failing to set a total allowable catch for the stock; and
+  (b) have regard to the interdependence of stocks, the biological characteristics of the stock, and any environmental conditions affecting the stock; and
+  (c) set a total allowable catch—
+    (i) using the best available information; and
+    (ii) that is not inconsistent with the objective of maintaining the stock at or above, or moving the stock towards or above, a level that can produce the maximum sustainable yield.
+(3) In considering the way in which and rate at which a stock is moved towards or above a level that can produce maximum sustainable yield under subsection (2)(b) or (c), or (2A) (if applicable), the Minister shall have regard to such social, cultural, and economic factors as he or she considers relevant.
+(4) The Minister may from time to time, by notice in the Gazette, vary any total allowable catch set for any quota management stock under this section by increasing or reducing the total allowable catch. When considering any variation, the Minister is to have regard to the matters specified in subsections (2), (2A) (if applicable), and (3).
 (5) Without limiting subsection (1) or subsection (4) of this section, the Minister may set or vary any total allowable catch at, or to, zero.
 (6) Except as provided in subsection (7) of this section, every setting or variation of a total allowable catch shall have effect on and from the first day of the next fishing year for the stock concerned.
-(7) After considering information about the abundance during the current fishing year of any stock listed in Schedule 2 to this Act, and after having regard to the matters specified in subsections (2) and (3), the Minister may, by notice in the Gazette, increase the total allowable catch for the stock with effect from such date in the fishing year in which the notice is published as may be stated in the notice.
+(7) After considering information about the abundance during the current fishing year of any stock listed in Schedule 2 to this Act, and after having regard to the matters specified in subsections (2), (2A) (if applicable), and (3), the Minister may, by notice in the Gazette, increase the total allowable catch for the stock with effect from such date in the fishing year in which the notice is published as may be stated in the notice.
 (8) If a total allowable catch for any stock has been increased during any fishing year under subsection (7) of this section, the total allowable catch for that stock shall, at the close of that fishing year, revert to the total allowable catch that applied to that stock at the beginning of that fishing year; but this subsection does not prevent a variation under subsection (4) of this section of the total allowable catch that applied at the beginning of that fishing year.
 (9) The Governor-General may from time to time, by Order in Council, omit the name of any stock from Schedule 2 to this Act or add to that Schedule the name of any stock whose abundance is highly variable from year to year.
 (10) Subsection (1) does not require the Minister to set an initial total allowable catch for any quota management area and stock unless the Minister also proposes to set or vary a total allowable commercial catch for that area and stock under section 20.
@@ -3259,8 +3265,10 @@ In this Part,—
 ### Subpart 1 — Aquaculture decisions in relation to aquaculture management areas
 
 ### 186D Request for aquaculture decision
-(1) A regional council may request the chief executive to make an aquaculture decision in relation to an aquaculture management area.
-(2) However, the regional council must not make a request in relation to an aquaculture management area that contains an area to which section 186F(1)(a), (b), or (c) applies.
+(1) A regional council may request the chief executive to make—
+  (a) an aquaculture decision in relation to an area to be included as an aquaculture management area in a proposed regional coastal plan:
+  (b) a further aquaculture decision for the purposes of section 186H(1)(d)(ii) of this Act or section 41(1)(d)(ii) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.
+(2) However, the regional council must not make a request under subsection (1)(a) if the area is an area in relation to which section 186F precludes the chief executive from making an aquaculture decision.
 
 ### 186E Chief executive to make aquaculture decision
 (1) Within 6 months after accepting a request for an aquaculture decision, the chief executive must—
@@ -3274,11 +3282,10 @@ In this Part,—
   (b) consider any submissions made by those persons and organisations.
 
 ### 186F Aquaculture decisions must not be made in relation to certain areas
-(1) The chief executive must not make an aquaculture decision if the decision would apply to an area for which—
-  (a) a coastal permit under the Resource Management Act 1991 authorises occupation for the purposes of an aquaculture activity; or
-  (b) a deemed coastal permit under section 10 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 is in force; or
-  (c) an application for a coastal permit under the Resource Management Act 1991, other than an application to which section 150B(2) of that Act applies, has been made but not determined.
-(2) However, subsection (1) does not prevent the chief executive making an aquaculture decision for the purposes of section 186H(1)(d)(ii).
+(1) The chief executive must not make an aquaculture decision if the decision would apply to an area—
+  (a) that is subject to a deemed coastal permit under section 10, 20, or 21 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; or
+  (b) that is an aquaculture management area in relation to which a determination has already been made under section 186E of this Act or section 38 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.
+(2) However, subsection (1) does not prevent the chief executive making a further aquaculture decision for the purposes of section 186H(1)(d)(ii) of this Act or section 41(1)(d)(ii) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.
 
 ### 186G Matters to be considered before aquaculture decision made
 In considering, for the purposes of making an aquaculture decision, whether an aquaculture management area will have an undue adverse effect on fishing, the chief executive must have regard only to the following matters:
@@ -3492,7 +3499,8 @@ In this subpart, unless the context otherwise requires,—
     (ii) to the extent that the consents referred to in subparagraph (i) are given by 90% or more but less than 100% of the persons holding that catch history, the consent of the High Court in relation to the persons who did not consent.
 (3) For the purposes of subsection (2)(b) and (c), permit holders includes any mandated iwi organisations that would be entitled to receive quota shares for the relevant quota management system stock under the Maori Fisheries Act 2004 if the stocks or species were to become subject to the quota management system.
 (4) After an aquaculture agreement is lodged with the chief executive, no person whose consent is contained in the agreement may revoke the consent.
-(5) For the purposes of this section, subsection (2) applies to the persons specified in that subsection as at 5 pm on the date on which notice is given under section 165G(2)(a) of the Resource Management Act 1991.
+(5) Where the regional council proposes to make an offer of authorisations for available space in an aquaculture management area under section 165E of the Resource Management Act 1991, subsection (2) applies to the persons specified in that subsection as at 5 pm on the date on which notice is given under section 165G(2)(a) of the Resource Management Act 1991.
+(6) Where space in the coastal marine area is subject to applications to which section 165BC of the Resource Management Act 1991 applies, subsection (2) applies to the persons specified in that subsection as at 5 pm on the date on which notice is given under section 165G(2)(c) of that Act.
 
 ### 186ZG High Court may consent to aquaculture agreement on behalf of non-consenting persons
 (1) A person wishing to lodge an aquaculture agreement with the chief executive may, for the purposes of section 186ZF(2)(a), (b), or (c), apply to the High Court for its consent to the lodging of the agreement.
@@ -3520,9 +3528,10 @@ In this subpart, unless the context otherwise requires,—
 ### 186ZI Period within which aquaculture agreements must be lodged for registration
 (1) An aquaculture agreement must be lodged with the chief executive for registration—
   (a) on the approved form; and
-  (b) within 6 months after—
-    (i) the date referred to in section 186ZF(5); or
-    (ii) the date on which a notice of receipt is given under section 15(3) of the Maori Commercial Aquaculture Claims Settlement Act 2004.
+  (b) within 6 months after,—
+    (i) where an offer of authorisations is to be made under section 165E of the Resource Management Act 1991, the date referred to in section 186ZF(5); or
+    (ii) where space in the coastal marine area is subject to applications to which section 165BC of the Resource Management Act 1991 applies, the date referred to in section 186ZF(6); or
+    (iii) the date on which a notice of receipt is given under section 15(3) of the Maori Commercial Aquaculture Claims Settlement Act 2004.
 (2) However, the chief executive may give a person a further 3 months to lodge an aquaculture agreement if the chief executive is satisfied that—
   (a) the person has taken reasonable steps to obtain the consent of all the fishers whose consent is required; and
   (b) the person requires further time to obtain all the consents.
@@ -3549,13 +3558,20 @@ In this subpart, unless the context otherwise requires,—
   (f) any application for judicial review of a decision of the chief executive in relation to aquaculture agreements.
 
 ### 186ZL Memorials
-(1) If a regional council notifies its intention under section 165G of the Resource Management Act 1991 to allocate space to undertake aquaculture activities in aquaculture management areas that are subject to a reservation in relation to commercial fishing, the chief executive must ensure that a memorial is recorded in the appropriate register against all quota for the stocks specified in a notice given by the chief executive under section 186H of this Act in relation to the reservation.
-(2) A memorial must be to the effect that—
-  (a) the chief executive has made a reservation under section 186E; and
+(1) Subsection (2) applies if—
+  (a) a regional council gives notice under—
+    (i) section 165G(2)(a) of the Resource Management Act 1991 in relation to available space in an aquaculture management area; or
+    (ii) section 165G(2)(c) of the Resource Management Act 1991 in relation to space in the coastal marine area that is subject to an application to which section 165BC of that Act applies; and
+  (b) the space is subject to a reservation in relation to commercial fishing.
+(2) The chief executive must ensure that a memorial is recorded in the appropriate register against all quota for the stocks specified in a notice given by the chief executive under section 186H of this Act or section 41 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 in relation to the reservation.
+(3) A memorial must be to the effect that—
+  (a) the chief executive has made a reservation under section 186E of this Act or section 38 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; and
   (b) as a result, an aquaculture agreement can be registered under this Part; and
   (c) if an agreement is registered, fishing may be affected by the allocation of space in the area subject to the reservation for aquaculture activities.
-(3) A memorial recorded in a register under subsection (1) must be cancelled on the expiry of the period specified in section 186ZI(1)(b).
-(4) If a memorial recorded in a register under subsection (1) applies to space that is the subject of an authorisation allocated to the trustee under section 9 of the Maori Commercial Aquaculture Claims Settlement Act 2004, the memorial does not expire until the end of the period specified in section 186ZI(1)(b).
+(4) A memorial recorded in a register under subsection (2) that relates to a notice referred to in—
+  (a) subsection (1)(a)(i) must be cancelled on the expiry of the period specified in section 186ZI(1)(b)(i):
+  (b) subsection (1)(a)(ii) must be cancelled on the expiry of the period specified in section 186ZI(1)(b)(ii).
+(5) If a memorial recorded in a register under subsection (2) applies to space that is the subject of an authorisation allocated to the trustee under section 9 of the Maori Commercial Aquaculture Claims Settlement Act 2004, the memorial does not expire until the end of the period specified in section 186ZI(1)(b)(iii).
 
 ## Part 10 — Recordkeeping, reporting, disposal of fish, and provisions relating to taking and possession of fish for purpose of sale
 
