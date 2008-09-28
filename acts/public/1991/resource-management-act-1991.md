@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2008-08-09_
+_Consolidation as at 2008-09-28_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -40,10 +40,8 @@ _Consolidation as at 2008-08-09_
       (i) are not in the exclusive and continuous possession or control of the person undertaking the activity; or
       (ii) cannot be distinguished or kept separate from naturally occurring fish, aquatic life, or seaweed
   - **aquaculture management area** —
-    (a) means a coastal marine area described as an aquaculture management area and included in a regional coastal plan or proposed regional coastal plan in accordance with section 165C; and
-    (b) includes—
-      (i) an interim aquaculture management area that becomes an aquaculture management area under section 44 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; and
-      (ii) part of an aquaculture management area
+    (a) means an area established as an aquaculture management area in accordance with section 165AB; and
+    (b) includes part of an aquaculture management area
   - **aquatic life** has the same meaning as in section 2(1) of the Fisheries Act 1996
   - **Bed** means,—
     (a) In relation to any river—
@@ -518,11 +516,12 @@ In achieving the purpose of this Act, all persons exercising functions and power
 (1) No person may occupy a coastal marine area for the purpose of an aquaculture activity—
   (a) except in an aquaculture management area in a regional coastal plan; and
   (b) if the coastal marine area is vested in the Crown or a regional council, unless expressly authorised by a coastal permit.
+(1A) No person may apply for a coastal permit to occupy a coastal marine area for the purpose of an aquaculture activity except in an aquaculture management area in a regional coastal plan.
 (2) In an aquaculture management area, any other activity requiring occupation may be undertaken only as—
   (a) a restricted discretionary activity; or
   (b) a discretionary activity; or
   (c) a non-complying activity.
-(3) However, an activity that is not an aquaculture activity may not be undertaken in an aquaculture management area, except to the extent that the activity is compatible with aquaculture activities.
+(3)
 
 ### 12B Continuation of coastal permit for aquaculture activities if aquaculture management area ceases to exist
 To avoid doubt, a coastal permit for aquaculture activities does not expire because the area or part of the area that the permit relates to subsequently ceases to be in an aquaculture management area.
@@ -2281,7 +2280,7 @@ A hearing need not be held in accordance with this Act in respect of an applicat
   (a) have regard to trade competition when considering an application:
   (b) when considering an application, have regard to any effect on a person who has given written approval to the application:
   (c) grant a resource consent contrary to—
-    (i) section 107 or section 107A or section 217:
+    (i) section 107, 107A, 107E, or 217:
     (ii) an Order in Council in force under section 152:
     (iii) any regulations:
     (iv) a Gazette notice referred to in section 26(1), (2), and (5) of the Foreshore and Seabed Act 2004:
@@ -2398,6 +2397,12 @@ If a national environmental standard is made to control the effects on climate c
   (a) the holder of the customary rights order must apply to cancel the order, in whole or in part, under section 60 or section 87 of the Foreshore and Seabed Act 2004; and
   (b) a decision by the consent authority to grant a resource consent for the proposed activity is of no effect until the application referred to in paragraph (a) has been determined in accordance with the Foreshore and Seabed Act 2004 and all appeal rights have been pursued.
 (2) However, if an application to cancel a customary rights order is declined, the relevant resource consent must be treated as if it were declined by the consent authority.
+
+**Decisions on applications relating to non-aquaculture activities**
+
+### 107E Decision on application to undertake non-aquaculture activity in aquaculture management area
+(1) This section applies when a person applies for a coastal permit to undertake an activity in an aquaculture management area and the activity is not an aquaculture activity.
+(2) The consent authority may grant the permit only to the extent to which the activity is compatible with the aquaculture activities that may be undertaken in the aquaculture management area.
 
 ### 108 Conditions of resource consents
 (1) Except as expressly provided in this section and subject to any regulations, a resource consent may be granted on any condition that the consent authority considers appropriate, including any condition of a kind referred to in subsection (2).
@@ -3396,15 +3401,38 @@ In this subpart and subpart 2, unless the context otherwise requires,—
       (iii) a deemed coastal permit under the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 that authorises occupation of the space; or
       (iv) an application for a coastal permit to occupy space in a coastal marine area for aquaculture activities; or
       (v) a lease or licence under the Marine Farming Act 1971 until the lease or licence becomes a deemed coastal permit under section 10 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; or
-      (vi) a coastal permit, or an application for a coastal permit, to occupy space in an aquaculture management area for activities that are not aquaculture activities; and
+      (vi) a coastal permit to occupy space in an aquaculture management area for activities that are not aquaculture activities if the activities authorised by the coastal permit are not compatible with aquaculture activities; and
     (b) does not include an actual space (as defined in section 53(12) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004)
   - **chief executive** means the chief executive of the Ministry of Fisheries
   - **Minister** means the Minister of Conservation
   - **public notice** has the same meaning as in section 151
   - **trustee** has the same meaning as in section 4 of the Maori Commercial Aquaculture Claims Settlement Act 2004.
 
+### 165AB Establishment of aquaculture management areas
+An area may be established as an aquaculture management area only in the following ways:
+  (a) by being included in a regional coastal plan or proposed regional coastal plan in accordance with section 165C:
+  (b) by becoming an aquaculture management area under section 44 or 45 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.
+
 ### 165B Power of consent authorities to refuse to receive applications for coastal permits
 For the purposes of this subpart, a consent authority may refuse to receive an application for a coastal permit for activities within 1 year after a consent authority has refused to grant an application for a permit for an activity of the same or a similar type in respect of the same space or in respect of space in close proximity to the space concerned.
+
+### 165BB Some applications for coastal permits must be cancelled
+A consent authority must cancel an application for a coastal permit for the occupation of space in the coastal marine area for the purpose of aquaculture activities if the application—
+  (a) is made after 9 May 2006 but before the commencement of the Resource Management Amendment Act 2008; and
+  (b) does not relate to an aquaculture management area in a regional coastal plan as at the commencement of the Resource Management Amendment Act 2008.
+
+### 165BC Certain applications not to be processed or determined until aquaculture management area established in regional coastal plan
+(1) This section applies to applications for coastal permits for the occupation of space in the coastal marine area for the purpose of aquaculture activities made on or after 1 January 2005 but before 10 May 2006, being applications that (at the time of being made) did not relate to an aquaculture management area in a regional coastal plan.
+(2) A consent authority must not process or determine an application until such time as the area to which the application relates becomes an aquaculture management area in a regional coastal plan.
+(3) An application referred to in subsection (2) must be processed and determined under the rules in the regional coastal plan and any proposed regional coastal plan at the time the consent authority resumes processing the application.
+(4) However, a consent authority must not grant a coastal permit to occupy space for aquaculture activities in an aquaculture management area that is subject to a reservation relating to commercial fishing, except to a person specified in a notice given by the chief executive under section 186ZK of the Fisheries Act 1996 as the holder of an aquaculture agreement under that Act.
+(5) An application is deemed to be cancelled on and from the date on which a proposed regional coastal plan is notified under clause 5 of Schedule 1 after the commencement of the Resource Management Amendment Act 2008 and to the extent that the application relates to an area covered by the plan and the plan provides for an aquaculture management area, but it does not include the area that the application relates to.
+(6) An application is deemed to be cancelled on and from the day that is 10 years after the commencement of the Resource Management Amendment Act 2008 to the extent that, by that date,—
+  (a) no proposed regional coastal plan covering the area that the application relates to has been notified under clause 5 of Schedule 1; or
+  (b) a proposed regional coastal plan covering the area that the application relates to has been notified under clause 5 of Schedule 1, but the plan contains no aquaculture management areas.
+(7) This section—
+  (a) prevails over Part 7A; but
+  (b) applies subject to the Maori Commercial Aquaculture Claims Settlement Act 2004.
 
 **Aquaculture management areas and occupation of coastal marine area**
 
@@ -3426,11 +3454,7 @@ For the purposes of this subpart, a consent authority may refuse to receive an a
 (2) A regional coastal plan or proposed regional coastal plan that provides for an aquaculture management area must include provisions to ensure that an aquaculture management area is principally for aquaculture activities.
 (3) A regional coastal plan or proposed regional coastal plan that provides for an aquaculture management area under subsection (1)(b) must provide that authorisations are to be allocated to the trustee only when and to the extent required by section 9 of the Maori Commercial Aquaculture Claims Settlement Act 2004.
 (4) A regional coastal plan or proposed regional coastal plan that provides for aquaculture management areas must be prepared in the manner set out in Schedule 1A.
-(5) To avoid doubt,—
-  (a) subsections (2) and (4)—
-    (i) do not apply to a proposed regional coastal plan notified under clause 5 of Schedule 1 before the commencement of this Part; but
-    (ii) do apply to a variation to a proposed regional coastal plan referred to in subparagraph (i) if the variation is notified on or after the commencement of this Part:
-  (b) this section applies subject to section 12A.
+(5)
 
 ### 165D Provisions about occupation of coastal marine area
 (1) This section applies only in relation to areas in a coastal marine area that are not aquaculture management areas.
@@ -3492,7 +3516,12 @@ A regional coastal plan or proposed regional coastal plan may provide for a rule
 (9) This section applies subject to section 14 of the Maori Commercial Aquaculture Claims Settlement Act 2004.
 
 ### 165K Applications not to be made or granted unless applicant holds authorisation
-If this Act or a regional coastal plan provides for space in the coastal marine area to be allocated by tender of authorisations or other allocation of authorisations, a person must not apply for, and a consent authority must not grant, a coastal permit authorising occupation of a space in a coastal marine area unless the person is the holder of an authorisation for the space.
+(1) Subsection (2) applies to space in the coastal marine area if—
+  (a) the space is available space and a regional coastal plan does not provide for the allocation of the space by an alternative to an offer of authorisations; or
+  (b) the space has been identified by a regional council as space for allocation to the trustee under section 9(1) of the Maori Commercial Aquaculture Claims Settlement Act 2004.
+(2) A person must not apply for, and a consent authority must not grant, a coastal permit authorising occupation of the space or identified space (as the case may be) for aquaculture activities unless the person is the holder of an authorisation for the space.
+(3) Subsection (4) applies to space in a coastal marine area and the regional coastal plan provides for the allocation of authorisations of space by public tender or another method.
+(4) A person must not apply for, and a regional council must not grant, a coastal permit authorising occupation of the space for activities that are not aquaculture activities unless the person is a holder of an authorisation for the space.
 
 ### 165L Authorisation not to confer right to coastal permit
 (1) The granting of an authorisation does not confer any right to the grant of a coastal permit in respect of the space that the authorisation relates to.
@@ -7526,11 +7555,39 @@ Material incorporated by reference in a plan or proposed plan that expires or th
 ## Schedule 1A — Preparation and change of regional coastal plans providing for aquaculture activities
 
 ### 1 Preparation and change of regional coastal plans providing for aquaculture activities
+(1AA) This Schedule applies to the preparation of, and changes to, a regional coastal plan to the extent that the plan provides for aquaculture activities.
 (1) Schedule 1 applies, subject to this schedule, to the preparation of, and changes to, a regional coastal plan to the extent that the plan provides for aquaculture activities.
 (2) The provisions of this schedule apply, with all necessary modifications, to a variation to a proposed plan or proposed change of a plan as if it were a change.
 
+### 1A Proposed regional coastal plan or proposed change to regional coastal plan must not describe certain areas as aquaculture management areas
+(1) A proposed regional coastal plan or a proposed change to a regional coastal plan must not describe an area as an aquaculture management area if the area comprises or includes space—
+  (a) that is subject to an application—
+    (i) to which section 25(3) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 applies; and
+    (ii) made by a person to whom section 25(2) of that Act applies; and
+    (iii) which has not been determined or withdrawn; or
+  (b) that is, or may be, subject to an application—
+    (i) referred to in section 26(1)(b) of that Act; and
+    (ii) made by a person referred to in section 26(1)(a) of that Act; and
+    (iii) where an application has been made, it has not been determined or withdrawn; or
+  (c) that is subject to an application to which section 50(2) of that Act applies and the application has not been determined or withdrawn; or
+  (d) that was subject to an application to which section 50(2) of that Act applied and—
+    (i) the coastal permit applied for has been granted; and
+    (ii) the coastal permit has not lapsed or been cancelled or surrendered; but
+    (iii) the application for a marine farming permit or spat catching permit referred to in section 50(3) of that Act has not been made or has been made but has not been determined or withdrawn.
+(2) To avoid doubt, subclause (1) does not prevent a proposed regional coastal plan or a proposed change to a regional coastal plan describing as an aquaculture management area an area to which a deemed coastal permit under the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 relates.
+(3) Subclause (1) does not apply to a proposed regional coastal plan or a proposed change to a regional coastal plan if the proposed plan or proposed change has been notified under clause 5 or clause 26 of Schedule 1 before the commencement of the Resource Management Amendment Act 2008.
+(4) If a proposed regional coastal plan or a proposed change to a regional coastal plan describes an area as an aquaculture management area in breach of subclause (1), then (to avoid doubt)—
+  (a) the area is not, and is not to be treated as, an aquaculture management area; and
+  (b) the breach does not invalidate the rest of the plan to the extent that the rest of the plan is not inconsistent with the area not being an aquaculture management area.
+
 ### 2 Assessment of undue adverse effects on fishing
-Before notifying a proposed regional coastal plan under clause 5 or clause 26 of Schedule 1, a regional council must request the chief executive of the Ministry of Fisheries to make an aquaculture decision.
+(1) The regional council must not notify a proposed regional coastal plan or a proposed change to a regional coastal plan under clause 5 or clause 26 of Schedule 1 until—
+  (a) the chief executive of the Ministry of Fisheries has made an aquaculture decision under section 186E of the Fisheries Act 1996 in relation to any area described in the plan as an aquaculture management area; and
+  (b) the regional council has complied with clause 3 of this Schedule.
+(2) However, subclause (1) does not apply in relation to an area that is—
+  (a) subject to a deemed coastal permit under section 10, 20, or 21 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; or
+  (b) an aquaculture management area in relation to which a determination has already been made under section 186E of the Fisheries Act 1996 or section 38 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.
+(3) Subclause (2)(b) does not include a determination to which section 186H(1)(d)(ii) of the Fisheries Act 1996 or section 41(1)(d)(ii) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 applies, if the proposed regional coastal plan or proposed change to a regional coastal plan proposes to revoke or amend the rule on which the determination was based.
 
 ### 3 Effect of assessment
 (1) If the chief executive of the Ministry of Fisheries makes a reservation about customary or recreational fishing in relation to an aquaculture management area, the regional council must—
@@ -7538,7 +7595,7 @@ Before notifying a proposed regional coastal plan under clause 5 or clause 26 of
   (b) delete from the aquaculture management area, any areas that the reservation relates to.
 (2) If the chief executive of the Ministry of Fisheries makes a reservation (about commercial fishing) or a determination in relation to an aquaculture management area, the regional council must note the details of the reservation or determination on the plan.
 (3) If the chief executive of the Ministry of Fisheries makes a reservation about commercial fishing relating to fish, aquatic life, or seaweed that is not subject to the quota management system under the Fisheries Act 1996 and that is not listed in Schedule 4C or Schedule 4D of that Act, the regional council must exclude the area that the reservation relates to from the plan.
-(4) If the chief executive of the Ministry of Fisheries makes a reservation relating to commercial fishing, the regional council must note the details of the reservation on the plan, specifying any stocks subject to the quota management system, any stocks or species specified in Schedules 4C or 4D of the Fisheries Act 1996, and any other stocks or species not subject to the quota management system.
+(4) If the chief executive of the Ministry of Fisheries makes a reservation relating to commercial fishing, the regional council must note the details of the reservation on the plan, specifying any stocks subject to the quota management system, any stocks or species specified in Schedules 4C or 4D of the Fisheries Act 1996.
 (5) A determination or reservation does not form part of the plan.
 
 ### 4 Effect of direction under section 165O
