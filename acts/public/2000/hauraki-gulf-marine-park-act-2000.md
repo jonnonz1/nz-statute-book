@@ -1,14 +1,14 @@
 # Hauraki Gulf Marine Park Act 2000
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-09-30_
 
 ## Preamble
 (1) The Hauraki Gulf has a quality and diversity of biology and landscape that makes it outstanding within New Zealand. The islands of the Gulf are valued as the habitats of plants and animals, once common, now rare, and are often the only places in the world where these species exist naturally:
 (2) On some islands natural ecosystems remain intact while other islands have ecosystems that are evolving rapidly or are islands that provide opportunities for habitat restoration. A diverse marine environment extends from the deep ocean to bays, inlets, and harbours off the coastline and the shallow sea and broad intertidal flats of the Firth of Thames:
 (3) The Gulf has a rich history of human settlement and use. The Gulf is one of the earliest places of human settlement in New Zealand and for generations supported and was home to tangata whenua. While tangata whenua have no single name for the Gulf, the names Tikapa Moana and Te Moananui a Toi are recognised as referring to the Gulf. Auckland, the first seat of government, is also on its shore. Along the shores of the Gulf the changing culture and technologies can be traced through places like the pa, kainga, and garden sites of antiquity on every island, driving dams, copper and gold mines, whaling stations, timber mills, industrial sites, and grand and ordinary homes:
-(4) The Treaty of Waitangi was signed by tangata whenua of the Hauraki Gulf both at Waitangi and on the shores of the Gulf. The Treaty provides guarantees to both the Crown and tangata whenua and forms a basis for the protection, use, and management of the Gulf, its islands, and catchments. The Treaty continues to underpin the relationship between the Crown and tangata whenua. The assembled tribes of the Hauraki Gulf reaffirmed its importance to them in a statement from a hui at Motutapu Island, 14-15 November 1992 (The Motutapu Accord):
-(5) The hinterand of the Gulf is intensively developed and settled. Its shores contain New Zealand's largest metropolitan area and extensive tracts of productive farm land. The coastal waters are of great importance to commerce in New Zealand. The Gulf contains the Port of Auckland, many smaller ports, and marinas. The Gulf is lived in and worked in, and is used for marine commerce, commercial fishing, and harbour and gulf transport. The Gulf is economically important:
+(4) The Treaty of Waitangi was signed by tangata whenua of the Hauraki Gulf both at Waitangi and on the shores of the Gulf. The Treaty provides guarantees to both the Crown and tangata whenua and forms a basis for the protection, use, and management of the Gulf, its islands, and catchments. The Treaty continues to underpin the relationship between the Crown and tangata whenua. The assembled tribes of the Hauraki Gulf reaffirmed its importance to them in a statement from a hui at Motutapu Island, 14–15 November 1992 (The Motutapu Accord):
+(5) The hinterland of the Gulf is intensively developed and settled. Its shores contain New Zealand's largest metropolitan area and extensive tracts of productive farm land. The coastal waters are of great importance to commerce in New Zealand. The Gulf contains the Port of Auckland, many smaller ports, and marinas. The Gulf is lived in and worked in, and is used for marine commerce, commercial fishing, and harbour and gulf transport. The Gulf is economically important:
 (6) People use the Gulf for recreation and for the sustenance of human health, well-being, and spirit. The natural amenity of the Gulf provides a sense of belonging for many New Zealanders and for them it is an essential touchstone with nature, the natural world, and the marine environment of an island nation:
-(7) The Gulf, its islands, and catchments have complex interrelationships that need to be well understood and managed. Many improvements have been made in the administration of statutory jurisdictions in the Gulf, the exercise of individual and collective responsibility, and stewardship of the Gulf. But the need for co-operation, and the need for integrated management, recognised in the establishment by local authorities of the Hauraki Gulf Forum, by Auckland City of Vision Hauraki, by tangata whenua in the Motutapu Accord, and by the Government in establishing in 1967 the Hauraki Gulf Maritime Park, still remains. The Gulf must be managed in a manner that crosses territorial jurisdictions, crosses land and water boundaries, and crosses cultures and that respects both conservation and development needs:
+(7) The Gulf, its islands, and catchments have complex interrelationships that need to be well understood and managed. Many improvements have been made in the administration of statutory jurisdictions in the Gulf, the exercise of individual and collective responsibility, and stewardship of the Gulf. But the need for co-operation, and the need for integrated management, recognised in the establishment by local authorities of the Hauraki Gulf Forum, by Auckland City of Vision Hauraki, by tangata whenua in the Motutapu Accord, and by the Government in establishing in 1967 the Hauraki Gulf Maritime Park, still remains. The Gulf must be managed in a manner that crosses territorial jurisdictions, crosses land and water boundaries, and crosses cultures and that respects both conservation and development needs.
 
 ### 1 Title
 This Act is the Hauraki Gulf Marine Park Act 2000.
@@ -49,15 +49,15 @@ In this Act, unless the context otherwise requires,—
     (a) ecosystems and their constituent parts, including people and communities; and
     (b) all natural and physical resources; and
     (c) amenity values; and
-    (d) the social, economic, aesthetic, and cultural conditions which affect the matters stated in paragraphs (a) to (c) of this definition or which are affected by those matters
+    (d) the social, economic, aesthetic, and cultural conditions which affect the matters stated in paragraphs (a) to (c) or which are affected by those matters
   - **foreshore** means such parts of the bed, shore, or banks of the sea or a river as are covered and uncovered by the flow and ebb of the tide at mean spring tides
-  - **Hauraki Gulf or Gulf** (which is generally referred to by Maori by the names Tikapa Moana and Te Moananui a Toi)—
+  - **Hauraki Gulf** or (which is generally referred to by Maori by the names Tikapa Moana and Te Moananui a Toi)—
     (a) means the coastal marine area on the east coast of—
       (i) the Auckland Region, as constituted by the Local Government (Auckland Region) Reorganisation Order 1989, Gazette 1989, Vol III, p 2247; and
       (ii) the Waikato Region, as constituted by the Local Government (Waikato Region) Reorganisation Order 1989, Gazette 1989, Vol III, p 2460; and
     (b) includes estuaries and the tidal parts of rivers and creeks on the east coast of the Auckland Region and the east coast of the Waikato Region
-  - **Hauraki Gulf Forum or Forum** means the body established under section 16
-  - **Hauraki Gulf Marine Park or Park** means the Park established under section 33
+  - **Hauraki Gulf Forum** or means the body established under section 16
+  - **Hauraki Gulf Marine Park** or means the Park established under section 33
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
   - **Maori land** and have the same meaning as in Te Ture Whenua Maori Act 1993
   - **marine mammal sanctuary** has the same meaning as in the Marine Mammals Protection Act 1978
@@ -76,10 +76,10 @@ In this Act, unless the context otherwise requires,—
 This Act binds the Crown.
 
 ### 6 Treaty of Waitangi (Te Tiriti o Waitangi)
-(1) Subject to subsections (2) and (4), the provisions of Part 3 relating to the Park must be so interpreted and administered as to give effect to the principles of the Te Tiriti o Waitangi (the Treaty of Waitangi).
+(1) Subject to subsections (2) and (4), the provisions of Part 3 relating to the Park must be so interpreted and administered as to give effect to the principles of the Treaty of Waitangi (Te Tiriti o Waitangi).
 (2) Subsection (1) does not apply in respect of any area of the Park that is foreshore, seabed, private land, taiapure-local fishery, or mataitai.
-(3) When carrying out its functions under Part 2, the Forum must have regard to the principles of the Te Tiriti o Waitangi (the Treaty of Waitangi).
-(4) Nothing in Part 1 or Part 3 or Part 4 limits, affects, or extends the obligations any person has in respect of the principles of the Te Tiriti o Waitangi (the Treaty of Waitangi) under any of the Acts listed in Schedule 1, and those obligations must be fulfilled in accordance with those Acts.
+(3) When carrying out its functions under Part 2, the Forum must have regard to the principles of the Treaty of Waitangi (Te Tiriti o Waitangi).
+(4) Nothing in Part 1 or Part 3 or Part 4 limits, affects, or extends the obligations any person has in respect of the principles of the Treaty of Waitangi (Te Tiriti o Waitangi) under any of the Acts listed in Schedule 1, and those obligations must be fulfilled in accordance with those Acts.
 
 ## Part 1 — Management of Hauraki Gulf
 
@@ -103,14 +103,14 @@ To recognise the national significance of the Hauraki Gulf, its islands, and cat
 
 ### 9 Relationship of Act with Resource Management Act 1991
 (1) For the purposes of this section and section 10, the terms district plan, plan, proposed plan, regional plan, regional policy statement, resource consent, and New Zealand coastal policy statement have the same meaning as in the Resource Management Act 1991, and regional council and territorial authority have the same meaning as in the Local Government Act 2002.
-(2) A regional council must ensure that any part of a regional policy statement or a regional plan that applies to the Hauraki Gulf, its islands, and catchments, does not conflict with sections 7 and 8 of this Act.
-(3) A territorial authority must ensure that any part of a district plan that applies to the Hauraki Gulf, its islands, and catchments, does not conflict with sections 7 and 8 of this Act.
-(4) A consent authority must, when considering an application for a resource consent for the Hauraki Gulf, its islands, and catchments, have regard to sections 7 and 8 of this Act in addition to the matters contained in the Resource Management Act 1991.
+(2) A regional council must ensure that any part of a regional policy statement or a regional plan that applies to the Hauraki Gulf, its islands, and catchments, does not conflict with sections 7 and 8.
+(3) A territorial authority must ensure that any part of a district plan that applies to the Hauraki Gulf, its islands, and catchments, does not conflict with sections 7 and 8.
+(4) A consent authority must, when considering an application for a resource consent for the Hauraki Gulf, its islands, and catchments, have regard to sections 7 and 8 in addition to the matters contained in the Resource Management Act 1991.
 (5) The provisions of section 55 of the Resource Management Act 1991 apply as though sections 7 and 8 of this Act were a national policy statement and a regional council or a territorial authority must take action in accordance with that section and notify a change to a regional policy statement, plan, or proposed plan within 5 years of the date of commencement of this Act.
 
 ### 10 Creation of New Zealand coastal policy statement by this Act
-(1) For the coastal environment of the Hauraki Gulf, sections 7 and 8 of this Act must be treated as a New Zealand coastal policy statement issued under the Resource Management Act 1991.
-(2) For the coastal environment of the Hauraki Gulf, if there is a conflict between sections 7 and 8 of this Act and the provisions of any New Zealand coastal policy statement issued under the Resource Management Act 1991, the New Zealand coastal policy statement prevails.
+(1) For the coastal environment of the Hauraki Gulf, sections 7 and 8 must be treated as a New Zealand coastal policy statement issued under the Resource Management Act 1991.
+(2) For the coastal environment of the Hauraki Gulf, if there is a conflict between sections 7 and 8 and the provisions of any New Zealand coastal policy statement issued under the Resource Management Act 1991, the New Zealand coastal policy statement prevails.
 (3) The provisions of section 55 of the Resource Management Act 1991 apply to the New Zealand coastal policy statement created by this section and a regional council or a territorial authority must take action in accordance with that section and notify a change to a regional policy statement, plan, or proposed plan within 5 years of the date of commencement of this Act.
 
 ### 11 Statements of general policy under Conservation Act 1987 and Acts in Schedule 1 of that Act
@@ -121,24 +121,23 @@ To recognise the national significance of the Hauraki Gulf, its islands, and cat
   (d) Wild Animal Control Act 1977, section 5:
   (e) Marine Mammals Protection Act 1978, section 3B:
   (f) National Parks Act 1980, section 44:
-  (g) Conservation Act 1987, section 17B:
-  (h) New Zealand Walkways Act 1990, section 4.
+  (g) Conservation Act 1987, section 17B.
+  (h)
 (2) Where a statement of general policy is created by this section and the Act to which that statement of general policy applies contains a provision stating that the general policy must not derogate from the provisions of that Act, the requirement in subsection (1) may be implemented for the Hauraki Gulf only to the extent that implementation does not derogate from the provisions of that Act.
 (3) Where a conservation management strategy or a conservation management plan made under an Act listed in this section derogates from a statement of general policy created by this section, the requirement that the strategy or plan must not derogate from a statement of general policy does not take effect for any statement of general policy made under this section until the date that the strategy or plan is next amended or reviewed.
 
 ### 12 Amendment to Fisheries Act 1996
-Section 11(2)(b) of the Fisheries Act 1996 is amended by adding the expression ; and, and by adding the following paragraph:
-  (c) sections 7 and 8 of the Hauraki Gulf Marine Park Act 2000 (for the Hauraki Gulf as defined in that Act)—.
+Amendment(s) incorporated in the Act(s).
 
 ### 13 Obligation to have particular regard to sections 7 and 8
-Except as provided in sections 9 to 12, in order to achieve the purpose of this Act, all persons exercising powers or carrying out functions for the Hauraki Gulf under any Act specified in Schedule 1 must, in addition to any other requirement specified in those Acts for the exercise of that power or the carrying out of that function, have particular regard to the provisions of sections 7 and 8 and of this Act.
+Except as provided in sections 9 to 12, in order to achieve the purpose of this Act, all persons exercising powers or carrying out functions for the Hauraki Gulf under any Act specified in Schedule 1 must, in addition to any other requirement specified in those Acts for the exercise of that power or the carrying out of that function, have particular regard to the provisions of sections 7 and 8.
 
 ### 14 Preservation of existing rights
 (1) Nothing in this Act limits or affects any title or right to ownership of the foreshore, seabed, or other land or natural resources of the Hauraki Gulf, its islands, and catchments, whether that title or right to ownership is conferred by Act, common law, or in any other manner.
 (2) Nothing in this Act limits or affects the ability of any person to bring a claim or to continue any existing claim in any court or tribunal relating to the foreshore, seabed, or other land or natural resources of the Hauraki Gulf, its islands, and catchments arising out of the application of the Treaty of Waitangi, or any Act, or at common law, or in any other manner.
 (3) Nothing in this section limits or affects any remedy associated with any claim referred to in subsection (2).
 
-## Part 2 — Hauraki Gulf forum
+## Part 2 — Hauraki Gulf Forum
 
 ### 15 Purposes of Forum
 The Forum has the following purposes:
@@ -206,7 +205,7 @@ The Forum has the following purposes:
 ### 20 Costs of other activities
 (1) The Forum may undertake an activity under section 18(2)(e) if—
   (a) a majority of the representatives agrees to undertake the activity; and
-  (b) one or more of the constituent parties (other than tangata whenua representatives) agree in advance to pay the costs of the activity.
+  (b) 1 or more of the constituent parties (other than tangata whenua representatives) agree in advance to pay the costs of the activity.
 (2) If the costs of an activity are not agreed in advance, the Forum must not proceed with the activity.
 (3) Section 18(3) does not affect the powers of a constituent party to take proceedings and, in particular, does not affect the powers of a constituent party to enforce an agreement made in accordance with subsection (1).
 (4) This section does not apply to the administrative and servicing functions in section 19.
@@ -228,7 +227,7 @@ The Forum must present a copy of each report prepared by it under section 17(1)(
 (2) A tangata whenua representative may serve on the Forum for the period of time determined by the Minister at the time of the appointment.
 
 ### 25 Appointment of chairperson
-The Forum may from time to time appoint 1 of the representatives to act as chairperson and that chairperson holds office for the period agreed by the Forum at the time of that chairperson's appointment.
+The Forum may from time to time appoint one of the representatives to act as chairperson and that chairperson holds office for the period agreed by the Forum at the time of that chairperson's appointment.
 
 ### 26 Powers and obligations of constituent parties
 Each constituent party (other than tangata whenua representatives)—
@@ -245,8 +244,8 @@ The Auckland Regional Council must—
   (b) convene the first meeting of the Forum within 3 months of the commencement of this Act.
 
 ### 28 Appointment and functions of administering authority
-(1) The constituent parties may, from time to time by agreement with the appointee, appoint 1 of their number to be the administering authority for the purposes of this Part for a period of no less than 3 years.
-(2) If, at the first meeting of the Forum or at the first meeting of the Forum after the term of an appointment of an administering authority has expired, the constituent parties fail to make an appointment, the Minister must appoint 1 of the constituent parties to be the administering authority.
+(1) The constituent parties may, from time to time by agreement with the appointee, appoint one of their number to be the administering authority for the purposes of this Part for a period of no less than 3 years.
+(2) If, at the first meeting of the Forum or at the first meeting of the Forum after the term of an appointment of an administering authority has expired, the constituent parties fail to make an appointment, the Minister must appoint one of the constituent parties to be the administering authority.
 (3) A constituent party appointed as the administering authority may be reappointed.
 (4) The administering authority must—
   (a) administer and service the Forum; and
@@ -330,7 +329,7 @@ If, in the opinion of the Minister, the inclusion of a taiapure-local fishery or
   (d) limits the powers and functions of a regional council in the coastal marine area.
 (3) Despite subsection (1), land included in the Park in accordance with section 33(2)(a), (b), (c), or (e) continues to be held, managed, or administered in accordance with the Conservation Act 1987, or any Act in Schedule 1 of that Act, if any of those Acts applies to that land.
 
-**Removal of land, foreshore, seabed, waters, or fisheries from park**
+**Removal of land, foreshore, seabed, waters, or fisheries from Park**
 
 ### 38 Removal of Crown-owned land from Park by Order in Council
 (1) The Governor-General may, by Order in Council, and acting on the recommendation of the Minister, remove any land in section 33(2)(a), (b), (c), and (e) from the Park.
