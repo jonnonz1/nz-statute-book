@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2008-08-08_
+_Consolidation as at 2008-09-30_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—aTo establish certain principles with respect to—iThe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiAccess by each individual to information relating to that individual and held by public and private sector agencies; andbTo provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcTo provide for matters incidental thereto
 
@@ -1449,6 +1449,7 @@ The income of the Commissioner shall be exempt from income tax.
 | Dog Control and Hydatids Act 1982 |  |
 | Electoral Act 1956 |  |
 | Electoral Act 1993 | Sections 100, 101, 103, 104, 105, 106, 107, 108, 109, 211, and 212 |
+| Financial Service Providers (Registration and Dispute Resolution) Act 2008 | Section 24 |
 | Fisheries Act 1996 | Sections 98, 124 |
 | Friendly Societies and Credit Unions Act 1982 | Sections 5, 40, and 130 |
 | Gambling Act 2003 | section 204 |
