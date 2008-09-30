@@ -1,5 +1,5 @@
 # Litter Act 1979
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-09-30_
 
 > An Act to make better provision for the abatement and control of litter
 
@@ -34,7 +34,7 @@ This Act may be cited as the Litter Act 1979.
     (i) Any cemetery within the meaning of section 2 of the Burial and Cremation Act 1964:
     (j) Any land vested in or controlled by any local authority (within the meaning of section 5(1) of the Local Government Act 2002) or the Crown, being land that is not occupied pursuant to any lease, licence, or other authority by any private person:
     (k) Any National Park constituted under the National Parks Act 1980:
-    (l) Any other place whether public or private in the open air, including any walkway within the meaning of section 2 of the New Zealand Walkways Act 1975, to which the public has access, whether with or without payment of any fee,—
+    (l) Any other place whether public or private in the open air, including any walkway within the meaning of section 4 of the Walking Access Act 2008, to which the public has access, whether with or without payment of any fee,—
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002
   - **Traffic officer** means an enforcement officer under the Land Transport Act 1998
 (2) Any appointment made by the Governor-General in Council pursuant to paragraph (c) of the definition of the term public authority in subsection (1) of this section may, in like manner, be varied or revoked at any time.
@@ -62,7 +62,7 @@ Keep New Zealand Beautiful Incorporated shall be the body primarily responsible 
   (c) Every warranted officer within the meaning of the Conservation Act 1987:
   (d) Every officer within the meaning of section 93(5) of the Reserves Act 1977 while he is acting in the exercise of his powers or the discharge of his duties in any public, nature, or scientific reserve (being in each case a reserve to which this Act applies) in respect of which he is for the time being authorised to act:
   (e) Every harbourmaster appointed under section 7 or section 42 of the Harbours Act 1950 or pursuant to the Lake Taupo Regulations 1976 while acting in the exercise of his powers or the discharge of his duties in the harbour in respect of which he was appointed:
-  (f) Every ranger within the meaning of the New Zealand Walkways Act 1975 while he is acting in the exercise of his powers and the discharge of his duties on any walkway:
+  (f) every enforcement officer and honorary enforcement officer within the meaning of the Walking Access Act 2008 while that officer is acting in the exercise of his or her powers and the discharge of his or her duties on any walkway:
   (g) Any officer appointed pursuant to section 76 or section 77 of the Fisheries Act 1983, and any ranger appointed pursuant to section 38 of the Wildlife Act 1953:
   (h) Every ranger appointed under section 40 of the National Parks Act 1980 while he is acting in the exercise of his powers and the discharge of his duties in any National Park in respect of which he is authorised to act:
   (j)
