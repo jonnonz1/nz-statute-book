@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-09-30_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -162,7 +162,6 @@ _Consolidation as at 2007-09-03_
     (b) In relation to any fish, means fishing; and takes and to take have a corresponding meaning:
   - **Taupo Fishery** means the fishery to which section 14 of the Maori Land Amendment and Maori Land Claims Adjustment Act 1926 relates
   - **Vehicle** has the same meaning as in the Land Transport Act 1998; but includes any vehicle from which any wheels have been removed
-  - **Walkway** has the same meaning as in section 2 of the New Zealand Walkways Act 1990.
   - **Warranted officer** means a person—
     (a) Who—
       (i) Is a warranted officer appointed under section 59 of this Act; or
@@ -209,12 +208,12 @@ There is hereby established an authority to be called the New Zealand Conservati
 
 ### 6B Functions of Authority
 (1) The functions of the Authority shall be—
-  (a) To advise the Minister on statements of general policy prepared under the Wildlife Act 1953, the Marine Reserves Act 1971, the Reserves Act 1977, the Wild Animal Control Act 1977, the Marine Mammals Protection Act 1978, the New Zealand Walkways Act 1990, and this Act:
-  (b) To approve conservation management strategies and conservation management plans, and review and amend such strategies and plans, as required under the Wildlife Act 1953, the Marine Reserves Act 1971, the Reserves Act 1977, the Wild Animal Control Act 1977, the Marine Mammals Protection Act 1978, the National Parks Act 1980, the New Zealand Walkways Act 1990, and this Act:
-  (c) To review and report to the Minister or the Director-General on the effectiveness of the Department's administration of general policies prepared under the Wildlife Act 1953, the Marine Reserves Act 1971, the Reserves Act 1977, the Wild Animal Control Act 1977, the Marine Mammals Protection Act 1978, the New Zealand Walkways Act 1990, and this Act:
+  (a) To advise the Minister on statements of general policy prepared under the Wildlife Act 1953, the Marine Reserves Act 1971, the Reserves Act 1977, the Wild Animal Control Act 1977, the Marine Mammals Protection Act 1978, and this Act:
+  (b) To approve conservation management strategies and conservation management plans, and review and amend such strategies and plans, as required under the Wildlife Act 1953, the Marine Reserves Act 1971, the Reserves Act 1977, the Wild Animal Control Act 1977, the Marine Mammals Protection Act 1978, the National Parks Act 1980, and this Act:
+  (c) To review and report to the Minister or the Director-General on the effectiveness of the Department's administration of general policies prepared under the Wildlife Act 1953, the Marine Reserves Act 1971, the Reserves Act 1977, the Wild Animal Control Act 1977, the Marine Mammals Protection Act 1978, and this Act:
   (d) To investigate any nature conservation or other conservation matters the Authority considers are of national importance, and to advise the Minister or the Director-General, as appropriate on such matters:
   (e) To consider and make proposals for the change of status or classification of areas of national and international importance:
-  (f) To advise the Minister or the Director-General, as appropriate, on any matter relating to or affecting walkways:
+  (f)
   (g) To encourage and participate in educational and publicity activities for the purposes of bringing about a better understanding of nature conservation in New Zealand:
   (h) To advise the Minister and the Director-General annually on priorities for the expenditure of money:
   (i) To liaise with the New Zealand Fish and Game Council:
@@ -305,7 +304,7 @@ The Authority shall be serviced by the Department in such manner as the Minister
   (d) To advise the Conservation Authority or the Director-General—
     (i) On any proposed change of status or classification of any area of national or international importance; and
     (ii) On any other conservation matter relating to any area within the jurisdiction of the Board:
-  (e) To advise the Conservation Authority and the Director-General on proposals for new walkways in any area within the jurisdiction of the Board:
+  (e)
   (f) To liaise with any Fish and Game Council on matters within the jurisdiction of the Board:
   (g) To exercise such powers and functions as may be delegated to it by the Minister under this Act or any other Act.
 (2) Every Board shall have such other functions as are conferred on it by or under this Act or any other Act.
@@ -513,11 +512,11 @@ Subject to this Act, the Department shall administer and manage all conservation
 (5) All statements of general policy approved under this Act before the commencement of this section shall be deemed to have been approved under subsection (3)(m) of this section.
 
 ### 17C General policy under more than one Act
-(1) The Director-General may from time to time prepare and recommend for approval by the Minister a general statement of policy for any area or areas of land or water, or for any natural or historic resources, managed by the Department for the purposes of the Wildlife Act 1953, the Marine Reserves Act 1971, the Reserves Act 1977, the Wild Animal Control Act 1977, the Marine Mammals Protection Act 1978, the New Zealand Walkways Act 1990, or this Act, or any of them.
+(1) The Director-General may from time to time prepare and recommend for approval by the Minister a general statement of policy for any area or areas of land or water, or for any natural or historic resources, managed by the Department for the purposes of the Wildlife Act 1953, the Marine Reserves Act 1971, the Reserves Act 1977, the Wild Animal Control Act 1977, the Marine Mammals Protection Act 1978, or this Act, or any of them.
 (2) Where any part of any such statement of policy is subject to any of the Acts referred to in subsection (1) of this section, it may be approved only in accordance with the relevant approval procedures set out in that Act; and the relevant provisions of that Act shall apply accordingly.
 
 ### 17D Conservation management strategies
-(1) The purpose of a conservation management strategy is to implement general policies and establish objectives for the integrated management of natural and historic resources, including any species, managed by the Department under the Wildlife Act 1953, the Marine Reserves Act 1971, the Reserves Act 1977, the Wild Animal Control Act 1977, the Marine Mammals Protection Act 1978, the National Parks Act 1980, the New Zealand Walkways Act 1990, the Hauraki Gulf Marine Park Act 2000 or this Act, or any of them, and for recreation, tourism, and other conservation purposes.
+(1) The purpose of a conservation management strategy is to implement general policies and establish objectives for the integrated management of natural and historic resources, including any species, managed by the Department under the Wildlife Act 1953, the Marine Reserves Act 1971, the Reserves Act 1977, the Wild Animal Control Act 1977, the Marine Mammals Protection Act 1978, the National Parks Act 1980, the Hauraki Gulf Marine Park Act 2000 or this Act, or any of them, and for recreation, tourism, and other conservation purposes.
 (2) Within 5 years after the commencement of this section, such conservation management strategies as may be necessary to establish such objectives for all areas managed by the Department shall be prepared by the Director-General for approval by the Conservation Authority in accordance with section 17F of this Act.
 (3) Subject to this Act, the Director-General shall determine the boundaries of a conservation management strategy.
 (4) Nothing in any conservation management strategy shall—
@@ -1627,7 +1626,7 @@ No competition involving the taking of sports fish shall be held unless it confo
   (b) The Reserves Act 1977:
   (c) The Sugar Loaf Islands Marine Protected Area Act 1991:
   (d) The Waitangi Endowment Act 1932–33:
-  (e) The New Zealand Walkways Act 1990:
+  (e)
   (f) The Wildlife Act 1953:
   (g) This Act,—
 (2) The Minister may from time to time, by notice in the Gazette, amend or revoke any notice under this section or, subject to section 26ZX of this Act, amend or revoke any conditions imposed under section 26ZU(c) of this Act.
