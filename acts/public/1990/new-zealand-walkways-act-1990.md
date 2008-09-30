@@ -1,5 +1,5 @@
 # New Zealand Walkways Act 1990
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-09-30_
 
 > An Act to consolidate and amend the law relating to walkways in New Zealand
 
@@ -256,3 +256,45 @@ The New Zealand Walkway Commission and every District Walkway Committee establis
   (i) The New Zealand Walkways Amendment Act 1988.
 (2) Notwithstanding subsection (1) of this section, the New Zealand Walkway Commission shall, as soon as practicable, prepare and submit to the Minister a report as to its operations for the period commencing on the 1st day of April 1989 and ending with the commencement of this Act.
 (3) All proceedings pending by or against the New Zealand Walkway Commission immediately before the commencement of this Act may be carried on, completed, and enforced by or against the Director-General.
+
+### 1 Title
+This Act is the Walking Access Act 2008.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 4 — Compliance, enforcement, and miscellaneous provisions
+
+### Subpart 3 — Miscellaneous provisions
+
+**Transitional provisions**
+
+### 72 Existing controlling authorities of walkways to continue
+(1) An entity that, immediately before the commencement of this Act, is a controlling authority appointed under section 11 of the New Zealand Walkways Act 1990 is to be treated as a controlling authority appointed under section 35 of this Act.
+(2) If an administering authority or the Minister of Conservation is, immediately before the commencement of this Act, still deemed to be a controlling authority under section 11(3) or (4) of the New Zealand Walkways Act 1990, the administering authority or the Minister is to be treated as having become a controlling authority under section 36 of this Act.
+
+### 73 Easements, leases, and agreements to vest in Commission
+(1) On the commencement of this Act, all easements, leases, and agreements entered into for the purposes of the New Zealand Walkways Act 1990 and in existence immediately before the commencement of this Act vest in the Commission.
+(2) If an enactment provides for an easement to be granted or provided to the Crown under the New Zealand Walkways Act 1990, and the easement has not been granted or provided on the commencement of this Act, it must instead be granted or provided to the Commission as grantee.
+(3) However, the Crown and the Commission are, together and separately, subject to any obligation or liability to which—
+  (a) the Crown was subject, immediately before the commencement of this Act, under an easement, lease, or agreement referred to in subsection (1); and
+  (b) the Commission is subject under an easement referred to in subsection (2) when that easement is granted or provided to the Commission.
+(4) The Crown is not in breach of any obligation referred to in subsection (3) as long as it takes all reasonable steps to satisfy the obligation.
+(5) Subsections (1) and (2) have effect whether or not any enactment, deed, or agreement permits, or requires consent to, those matters.
+(6) This section is subject to section 74.
+
+### 74 Agreements made under New Zealand Walkways Act 1990
+(1) This section applies to all agreements—
+  (a) made under section 16(1)(a) of the New Zealand Walkways Act 1990; and
+  (b) that were in existence immediately before the commencement of this Act.
+(2) The agreements referred to in subsection (1) are administered by the Minister of Conservation.
+
+### 75 Grants and gifts to Commission
+(1) All money received under section 18 of the New Zealand Walkways Act 1990 and held in the Department of Conservation Grants and Gifts Trust Account (a Trust Bank Account established under section 67 of the Public Finance Act 1989) immediately before the commencement of this Act—
+  (a) vests in the Commission; and
+  (b) must be applied for the purposes for which the money was granted or gifted.
+(2) The vesting referred to in subsection (1)(a) occurs on the commencement of this Act.
+
+### 76 Liability of Commission
+(1) The Commission is not liable for acts or omissions of any person under the New Zealand Walkways Act 1990.
+(2) However, a proceeding commenced under the New Zealand Walkways Act 1990 that, immediately before the commencement of this Act, is pending by or against the Director-General of Conservation may be carried on, completed, or enforced by or against the Director-General of Conservation as if that Act had not been repealed.
