@@ -1,5 +1,5 @@
 # New Zealand Walkways Amendment Act 1994
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-09-30_
 
 > An Act to amend the New Zealand Walkways Act 1990
 
