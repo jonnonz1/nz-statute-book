@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2008-08-15_
+_Consolidation as at 2008-09-30_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -34,12 +34,14 @@ The purpose of this Act is to reform the law relating to Crown entities to provi
 (2) Otherwise this Act does not apply to tertiary education institutions and their Crown entity subsidiaries.
 
 ### 7 Meaning of Crown entity and categories of Crown entities
-(1) In this Act, Crown entity means an entity within 1 of the following 5 categories:
-  (a) Statutory entities:What are they?DefinitionDifferent typesThese are bodies corporate that are established by or under an ActAn entity or office named in Schedule 1Crown agents (which must give effect to government policy when directed by the responsible Minister). These are named in Part 1 of Schedule 1Autonomous Crown entities (which must have regard to government policy when directed by the responsible Minister). These are named in Part 2 of Schedule 1Independent Crown entities (which are generally independent of government policy). These are named in Part 3 of Schedule 1
+(1) In this Act, Crown entity means an entity within one of the following 5 categories:
+  (a) statutory entities:What are they?DefinitionDifferent typesThese are bodies corporate that are established by or under an ActAn entity or office named in Schedule 1Crown agents (which must give effect to government policy when directed by the responsible Minister). These are named in Part 1 of Schedule 1Autonomous Crown entities (which must have regard to government policy when directed by the responsible Minister). These are named in Part 2 of Schedule 1Independent Crown entities (which are generally independent of government policy). These are named in Part 3 of Schedule 1
   (b) Crown entity companies:What are they?DefinitionThese are companies incorporated under the Companies Act 1993 that are wholly owned by the CrownA company named in Schedule 2
-  (c) Crown entity subsidiaries:What are they?DefinitionThese are companies incorporated under the Companies Act 1993 that are controlled by Crown entitiesA company that, under sections 5 to 8 (except section 5(3) of the Companies Act 1993),—(a) is a subsidiary of another Crown entity; or(b) would be a subsidiary of other Crown entities if those Crown entities were treated as 1 entity (with their rights, entitlements, and interests in relation to the company taken together) for the purposes of those sections
-  (d) School boards of trustees:What are they?DefinitionThese are boards that are bodies corporate constituted under the Education Act (including correspondence schools)A body that is a board of trustees constituted under Part 9 of the Education Act 1989 and includes a board of a school designated as a correspondence school by the Minister of Education under section 152 of the Education Act 1989
-  (e) Tertiary education institutions:What are they?DefinitionThese are tertiary institutions (for example, colleges of education, polytechnics, specialist colleges, universities, or wananga) that are bodies corporate established under the Education Act 1989An institution established under Part 14 of the Education Act 1989
+  (c) Crown entity subsidiaries:What are they?DefinitionThese are companies incorporated under the Companies Act 1993 that are controlled by Crown entitiesA company that, under sections 5 to 8 (except section 5(3) of the Companies Act 1993),—
+    (a) is a subsidiary of another Crown entity; or
+    (b) would be a subsidiary of other Crown entities if those Crown entities were treated as 1 entity (with their rights, entitlements, and interests in relation to the company taken together) for the purposes of those sections
+  (d) school boards of trustees:What are they?DefinitionThese are boards that are bodies corporate constituted under the Education Act 1989 (including correspondence schools)A body that is a board of trustees constituted under Part 9 of the Education Act 1989 and includes a board of a school designated as a correspondence school by the Minister of Education under section 152 of the Education Act 1989
+  (e) tertiary education institutions:What are they?DefinitionThese are tertiary institutions (for example, colleges of education, polytechnics, specialist colleges, universities, or wananga) that are bodies corporate established under the Education Act 1989An institution established under Part 14 of the Education Act 1989
 (2) The words in brackets in subsection (1) about the effect of the different types of statutory entities are intended only as a guide.
 
 ### 8 Meaning of parent Crown entity and Crown entity subsidiary
@@ -105,7 +107,7 @@ The purpose of this Act is to reform the law relating to Crown entities to provi
       (v) includes any functions that are incidental and related to, or consequential on, its functions in subparagraphs (i) to (iv)
   - **generally accepted accounting practice** has the meaning set out in section 136
   - **independent Crown entity** means a statutory entity named in Part 3 of Schedule 1
-  - **interested or interests** has the meaning set out in section 62
+  - **interested** or has the meaning set out in section 62
   - **member** —
     (a) means, in relation to a statutory entity that has a board or other governing body under the entity's Act, a person who occupies the position of member of the board of the entity (by whatever name called); and
     (b) means, in relation to a statutory entity that does not have a board or other governing body under the entity's Act, a person who is one of the persons who constitute that entity; and
@@ -878,7 +880,7 @@ Every Crown entity within the category or type of Crown entities to which the di
 ### 115 Procedure for all Ministerial directions
 (1) A Minister who proposes to give a direction to a Crown entity under this Act, the entity's Act, or another Act must consult with the Crown entity before giving the direction to the entity.
 (2) As soon as practicable after giving the direction, a Minister must—
-  (a) publish it in the Gazette ; and
+  (a) publish it in the Gazette; and
   (b) present a copy of it to the House of Representatives.
 (3) The direction may be amended, revoked, or replaced in the same way as it may be given.
 (4) This section does not apply to whole of government directions given under section 107.
@@ -913,16 +915,16 @@ Every Crown entity within the category or type of Crown entities to which the di
   (b) an equal employment opportunities programme; and
   (c) the impartial selection of suitably qualified persons for appointment; and
   (d) recognition of—
-    (i) the aims and aspirations of Maori; and
-    (ii) the employment requirements of Maori; and
-    (iii) the need for involvement of Maori as employees of the entity; and
+    (i) the aims and aspirations of Māori; and
+    (ii) the employment requirements of Māori; and
+    (iii) the need for involvement of Māori as employees of the entity; and
   (e) opportunities for the enhancement of the abilities of individual employees; and
   (f) recognition of the aims and aspirations and employment requirements, and the cultural differences, of ethnic or minority groups; and
   (g) recognition of the employment requirements of women; and
   (h) recognition of the employment requirements of persons with disabilities.
 (3) For the purposes of this section, an equal employment opportunities programme means a programme that is aimed at the identification and elimination of all aspects of policies, procedures, and other institutional barriers that cause or perpetuate, or tend to cause or perpetuate, inequality in respect of the employment of any persons or group of persons.
 
-### 119 Application of sections 84 to 84B of State Sector Act 1988
+### 119 Application of sections 84 to 84B of the State Sector Act 1988
 (1) Each Crown entity is an employer in the State services for the purposes of sections 84 to 84B of the State Sector Act 1988.
 (2) Sections 84 to 84B of the State Sector Act 1988 apply to the officers and employees of a Crown entity.
 
@@ -967,7 +969,7 @@ In sections 120 to 125,—
   - **employee** includes a person who was an employee at any time after the commencement of this Act but who is no longer an employee
   - **entity's functions** includes any function that an Act confers separately on a member, office holder, or employee of the entity
   - **excluded act or omission** means an act or omission by the member, office holder, or employee in good faith and in performance or intended performance of the entity's functions
-  - **indemnify** includes relieve or excuse from liability, whether before or after the liability arises, and indemnity has a corresponding meaning
+  - **indemnify** includes relieve or excuse from liability, whether before or after the liability arises, and has a corresponding meaning
   - **member** includes a person who was a member at any time after the commencement of this Act but who is no longer a member
   - **office holder** includes a person who was an office holder at any time after the commencement of this Act but who is no longer an office holder.
 
@@ -998,8 +1000,7 @@ The address for service in respect of a statutory entity is the address of the h
 ### Subpart 3 — Miscellaneous provisions
 
 ### 131 Application of Ombudsmen Act 1975 and Official Information Act 1982
-(1) The Ombudsmen Act 1975 is amended by inserting, in Part 2 of Schedule 1, in their appropriate alphabetical order, the name of every Crown entity that is named in Schedule 1 or Schedule 2 of this Act (other than the Independent Police Conduct Authority).
-(2) The Ombudsmen Act 1975 is further amended by inserting in Part 2 of Schedule 1, in its appropriate alphabetical order, the item Crown entities within the meaning of section 7 of the Crown Entities Act 2004 (other than the Independent Police Conduct Authority).
+Amendment(s) incorporated in the Act(s).
 
 ### 132 Review of Crown entity's operations and performance
 (1) A responsible Minister may review the operations and performance of a Crown entity at any time.
@@ -1031,7 +1032,7 @@ The address for service in respect of a statutory entity is the address of the h
     (iv) a Crown entity subsidiary that is wholly owned by 1 or more Crown entities referred to in subparagraphs (i) to (iii):
   (b) office holders and employees of—
     (i) a tertiary education institution:
-    (ii) a Crown entity subsidiary that is wholly owned by 1 or more tertiary education institutions or by 1 or more tertiary education institutions and 1 or more Crown entities referred to in paragraph (a)(i) to (iii).
+    (ii) a Crown entity subsidiary that is wholly owned by 1 or more tertiary education institutions or by 1 or more tertiary education institutions and 1 or more Crown entities referred to in paragraph (a)(i) to (iii)
 (2) A person to whom this section applies is an official for the purposes of sections 105 and 105A of the Crimes Act 1961.
 (3) This section does not limit the meaning of official in section 99 of the Crimes Act 1961.
 
@@ -1185,7 +1186,7 @@ Ministers may participate in determining the content of statements of intent as 
 (2) A Crown entity must amend its statement of intent if—
   (a) the information contained in the statement of intent is false or misleading in a material particular; or
   (b) the intentions and undertakings in the statement of intent are significantly altered or affected by—
-    (i) a direction given to the Crown entity by a Minister or by a whole of Government direction; or
+    (i) a direction given to the Crown entity by a Minister or by a whole of government direction; or
     (ii) any change in the law; or
     (iii) any other change in the entity's operating environment.
 (3) The Crown entity must make the amendment required under subsection (2) as soon as practicable after the entity becomes aware of the facts that give rise to the obligation to amend under this section.
@@ -1282,8 +1283,8 @@ The statement of responsibility must—
 ### 158 Bank accounts of Crown entities
 (1) A Crown entity must ensure that all money received by the Crown entity is paid, as soon as practicable after it is received, into 1 or more bank accounts that are established, maintained, and operated by the Crown entity at 1 or more of the following:
   (a) a registered bank or registered building society that satisfies a relevant credit-rating test specified in either regulations made under this Part or a notice in the Gazette published by the Minister of Finance; or
-  (b) a registered bank or registered building society that meets the conditions of any relevant approval given by the Minister of Finance by notice in the Gazette ; or
-  (c) a bank outside New Zealand that meets the conditions of any relevant approval given by the Minister of Finance by notice in the Gazette ; or
+  (b) a registered bank or registered building society that meets the conditions of any relevant approval given by the Minister of Finance by notice in the Gazette; or
+  (c) a bank outside New Zealand that meets the conditions of any relevant approval given by the Minister of Finance by notice in the Gazette; or
   (d) a bank outside New Zealand if the conditions specified in subsection (2) are met.
 (2) The conditions referred to in subsection (1)(d) are—
   (a) the Crown entity, or the class of Crown entities to which the Crown entity belongs, must be authorised to establish, maintain, and operate 1 or more bank accounts at 1 or more banks outside New Zealand by—
@@ -1455,7 +1456,7 @@ The following provisions of the Public Finance Act 1989 apply (without limitatio
 For the avoidance of doubt, sections 17A to 17E of the Judicature Act 1908 apply to a statutory entity, unless the statutory entity may be put into liquidation in accordance with the entity's Act.
 
 ### 178 Application of Archives Act 1957
-The Archives Act 1957 applies to a Crown entity that is a Government office for the purpose of that Act.
+The Archives Act 1957 applies to a Crown entity that is a government office for the purpose of that Act.
 
 ### 179 Public Bodies Contracts Act 1959 does not apply to Crown entities
 (1) The Public Bodies Contracts Act 1959 does not apply to a Crown entity.
@@ -1558,70 +1559,70 @@ There is a period of grace of 6 months after section 158 comes into force during
 The enactments specified in Schedule 6 are amended in the manner shown in that schedule.
 
 ### 201 Amendment to Gas Amendment Act 2004
-(1) Section 2(1) of the Gas Amendment Act 2004 is amended by omitting, with effect on and after 18 October 2004, the expression Subpart 2, and substituting the expression Subpart 3
+(1) Amendment(s) incorporated in the Act(s).
 (2) For the avoidance of doubt, the Gas Amendment Act 2004, assented to by Her Excellency the Governor-General on 17 October 2004, is deemed to be, and always to have been, a valid Act of Parliament.
 
 ## Schedule 1 — Statutory entities
 
 | Name | Exemption from acquisition of securities, borrowing, guarantee, and derivative rules |  |  |  | Exemption from section 165 (net surplus payable to Crown) |
 | --- | --- | --- | --- | --- | --- |
-|  | S 161 | S 162 | S 163 | S 164 |  |
-| Accident Compensation Corporation | ✓ | ✓ | ✓ | ✓ | ✓ |
+|  | s 161 | s 162 | s 163 | s 164 |  |
+| Accident Compensation Corporation |  |  |  |  |  |
 | Career Services |  |  |  |  |  |
-| Civil Aviation Authority of New Zealand |  |  |  |  | ✓ |
+| Civil Aviation Authority of New Zealand |  |  |  |  |  |
 | Crown Health Financing Agency |  |  |  |  |  |
 | District Health Boards |  |  |  |  |  |
-| Crown Health Financing Agency |  |  |  |  |  |
-| Earthquake Commission | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Electricity Commission |  |  |  |  | ✓ |
+| Earthquake Commission |  |  |  |  |  |
+| Electricity Commission |  |  |  |  |  |
 | Energy Efficiency and Conservation Authority |  |  |  |  |  |
 | Foundation for Research, Science, and Technology |  |  |  |  |  |
 | Health Research Council of New Zealand |  |  |  |  |  |
 | Health Sponsorship Council |  |  |  |  |  |
 | Housing New Zealand Corporation |  |  |  |  |  |
 | Legal Services Agency |  |  |  |  |  |
-| Maritime Safety Authority of New Zealand |  |  |  |  | ✓ |
+| Maritime Safety Authority of New Zealand |  |  |  |  |  |
 | New Zealand Antarctic Institute |  |  |  |  |  |
 | New Zealand Blood Service |  |  |  |  |  |
-| New Zealand Fire Service Commission |  |  |  |  | ✓ |
-| New Zealand Qualifications Authority |  |  |  |  | ✓ |
+| New Zealand Fire Service Commission |  |  |  |  |  |
+| New Zealand Qualifications Authority |  |  |  |  |  |
 | New Zealand Tourism Board |  |  |  |  |  |
 | New Zealand Trade and Enterprise |  |  |  |  |  |
 | New Zealand Transport Agency |  |  |  |  |  |
+| New Zealand Walking Access Commission |  |  |  |  |  |
 | Pharmaceutical Management Agency |  |  |  |  |  |
 | Social Workers Registration Board |  |  |  |  |  |
-| Sport and Recreation New Zealand |  |  |  |  | ✓ |
+| Sport and Recreation New Zealand |  |  |  |  |  |
 | Tertiary Education Commission |  |  |  |  |  |
 
 | Name | Exemption from acquisition of securities, borrowing, guarantee, and derivative rules |  |  |  | Exemption from section 165 (net surplus payable to Crown) |
 | --- | --- | --- | --- | --- | --- |
-|  | S 161 | S 162 | S 163 | S 164 |  |
-| Alcohol Advisory Council of New Zealand |  |  |  |  | ✓ |
-| Arts Council of New Zealand Toi Aotearoa |  |  |  |  | ✓ |
+|  | s 161 | s 162 | s 163 | s 164 |  |
+| Alcohol Advisory Council of New Zealand |  |  |  |  |  |
+| Arts Council of New Zealand Toi Aotearoa |  |  |  |  |  |
 | Broadcasting Commission |  |  |  |  |  |
-| Charities Commission. |  |  |  |  |  |
+| Charities Commission |  |  |  |  |  |
 | Environmental Risk Management Authority |  |  |  |  |  |
 | Families Commission |  |  |  |  |  |
-| Government Superannuation Fund Authority | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Government Superannuation Fund Authority |  |  |  |  |  |
 | Guardians of New Zealand Superannuation |  |  |  |  |  |
 | Mental Health Commission |  |  |  |  |  |
 | Museum of New Zealand Te Papa Tongarewa Board |  |  |  |  |  |
 | New Zealand Artificial Limb Board |  |  |  |  |  |
-| New Zealand Film Commission |  |  |  |  | ✓ |
-| New Zealand Historic Places Trust (Pouhere Taonga) |  |  |  |  | ✓ |
-| New Zealand Lotteries Commission | ✓ |  |  |  | ✓ |
+| New Zealand Film Commission |  |  |  |  |  |
+| New Zealand Historic Places Trust (Pouhere Taonga) |  |  |  |  |  |
+| New Zealand Lotteries Commission |  |  |  |  |  |
 | New Zealand Symphony Orchestra |  |  |  |  |  |
-| New Zealand Teachers Council |  |  |  |  | ✓ |
-| Public Trust | ✓ | ✓ | ✓ | ✓ |  |
+| New Zealand Teachers Council |  |  |  |  |  |
+| Public Trust |  |  |  |  |  |
 | Retirement Commissioner |  |  |  |  |  |
 | Standards Council |  |  |  |  |  |
-| Te Reo Whakapuaki Irirangi (Maori Broadcasting Funding Agency) |  |  |  |  |  |
-| Te Taura Whiri I Te Reo Maori (Maori Language Commission) |  |  |  |  |  |
+| Te Reo Whakapuaki Irirangi (Māori Broadcasting Funding Agency) |  |  |  |  |  |
+| Te Taura Whiri I Te Reo Māori (Māori Language Commission) |  |  |  |  |  |
 | Testing Laboratory Registration Council |  |  |  |  |  |
 
 | Name | Exemption from acquisition of securities, borrowing, guarantee, and derivative rules |  |  |  | Exemption from section 165 (net surplus payable to Crown) |
 | --- | --- | --- | --- | --- | --- |
-|  | S 161 | S 162 | S 163 | S 164 |  |
+|  | s 161 | s 162 | s 163 | s 164 |  |
 | Accounting Standards Review Board |  |  |  |  |  |
 | Broadcasting Standards Authority |  |  |  |  |  |
 | Children's Commissioner |  |  |  |  |  |
@@ -1642,10 +1643,10 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 
 | Name | Exemption from acquisition of securities, borrowing, guarantee, and derivative rules |  |  |  | Exemption from section 165 (net surplus payable to Crown) |
 | --- | --- | --- | --- | --- | --- |
-|  | S 161 | S 162 | S 163 | S 164 |  |
+|  | s 161 | s 162 | s 163 | s 164 |  |
 | Crown Research Institutes |  |  |  |  |  |
-| New Zealand Venture Investment Fund Limited |  |  |  |  |  |
 | New Zealand Fast Forward Fund Limited |  |  |  |  |  |
+| New Zealand Venture Investment Fund Limited |  |  |  |  |  |
 | Radio New Zealand Limited |  |  |  |  |  |
 | Television New Zealand Limited |  |  |  |  |  |
 
@@ -1661,7 +1662,7 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 | Section 113 | Safeguarding independence of Crown entities |
 | Section 114 | Crown entity must comply with directions given under statutory power of direction |
 | Section 115 | Procedure for all Ministerial directions |
-| Section 119 | Cross reference to State Sector Act 1988, ss 84-84B |
+| Section 119 | Cross reference to State Sector Act 1988, ss 84–84B |
 | Section 131(2) | Application of Ombudsmen Act 1975 and Official Information Act 1982 |
 | Section 133 | Minister's power to request information |
 | Section 134 | Reasons for refusing to supply information |
@@ -1688,15 +1689,16 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 | --- | --- |
 | Section 3 to 8 | Crown entities and categories |
 | Section 10 | Interpretation |
-| Section 119 | Cross reference to State Sector Act 1988, ss 84-84B |
+| Section 119 | Cross reference to State Sector Act 1988, ss 84–84B |
 | Section 131(2) | Application of Official Information Act 1982 and Ombudsmen Act 1975 |
 | Section 135 (but only in respect of office holders and employees of tertiary education institutions and Crown entity subsidiaries) | Officials for the purposes of sections of the Crimes Act 1961 |
 | Section 136 | Interpretation for Part 4 |
 | Section 137 | Application of subpart 2 of Part 4 |
-| Section 154, as amended by the Education Act 1989 s 220(2)-(2B), in Sch 6 | Financial statements |
+| Section 154, as amended by the Education Act 1989 section 220(2)–(2B), in Schedule 6 | Financial statements |
 | Section 155 | Statement of responsibility for financial statements |
 | Section 156 | Audit report |
-| Section 157 | Allows for variation of reporting requirements of multi-parent subsidiaries Section 220 Education Act 1989 |
+| Section 157 | Allows for variation of reporting requirements of multi-parent subsidiaries |
+| Section 220 Education Act 1989 | Inclusion of financial statements in annual report |
 | Section 220 Education Act 1989 | Laying before House of Representatives of financial statements |
 | Section 167 | Gifts |
 | Section 168(1) and (2) | Accounting records |
@@ -1707,28 +1709,30 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 
 ## Schedule 5 — Board procedure for statutory entities (other than corporations sole)
 
-### 1 Appointment
+**Chairperson and deputy chairperson of board**
+
+###  Appointment
 (1) The responsible Minister may appoint 1 of the members as the chairperson, and another member as the deputy chairperson, of the board of a Crown agent or an autonomous Crown entity by written notice to the member (with a copy to the board).
 (2) The Governor-General may, on the recommendation of the responsible Minister, appoint 1 of the members as the chairperson, and another member as the deputy chairperson, of the board of an independent Crown entity by written notice to the member (with a copy to the board).
 (3) The notice of appointment must state the date on which the appointment takes effect.
 
-### 2 Term of appointment
+###  Term of appointment
 The chairperson and the deputy chairperson each hold that office until—
   (a) he or she resigns from that office; or
   (b) he or she is removed from it by the responsible Minister or the Governor-General, as the case may be; or
   (c) he or she ceases to hold office as a member; or
   (d) the term of office that may have been specified on appointment expires, unless the member is reappointed for a further term.
 
-### 3 Resignation
+###  Resignation
 (1) A chairperson or deputy chairperson may, without resigning as a member, resign from that office by written notice to the responsible Minister (with a copy to the board).
 (2) The notice of resignation must state the date on which the resignation takes effect.
 
-### 4 Removal
+###  Removal
 (1) The responsible Minister may, after consultation with the person concerned, remove a chairperson or deputy chairperson of the board of a Crown agent or an autonomous Crown entity from that office by written notice to the person (with a copy to the board).
 (2) The Governor-General may, on the recommendation of the responsible Minister and after consultation with the person concerned, remove a chairperson or deputy chairperson of the board of an independent Crown entity from that office by written notice to the person (with a copy to the board).
 (3) The notice of removal must state the date on which the removal takes effect.
 
-### 5 Exercise of chairperson's functions and powers during vacancy
+###  Exercise of chairperson's functions and powers during vacancy
 (1) The deputy chairperson of a statutory entity has and may exercise all of the functions and powers of the chairperson in relation to a matter if—
   (a) the chairperson is unavailable; or
   (b) the chairperson is interested in the matter.
@@ -1737,10 +1741,12 @@ The chairperson and the deputy chairperson each hold that office until—
   (b) the deputy chairperson is unavailable; or
   (c) the deputy chairperson is interested in the matter.
 
-### 6 Procedure generally
+**Procedure of board**
+
+###  Procedure generally
 Except as otherwise provided under this or another Act, the members may regulate their own procedure.
 
-### 7 Notice of meetings
+###  Notice of meetings
 (1) The board or the chairperson must appoint the times and places of ordinary meetings of the board, and give notice of those meetings to each member not present when the appointment is made.
 (2) The chairperson or any 2 members (or, if the board consists of only 2 members, either member) may call a special meeting of the board by giving at least 5 working days' notice (or any shorter notice period that all the members agree) of the special meeting, and the business to be transacted at the meeting, to each member for the time being in New Zealand.
 (3) Only the business stated in the notice of special meeting may be transacted at the special meeting.
@@ -1752,21 +1758,21 @@ Except as otherwise provided under this or another Act, the members may regulate
   (a) attend the meeting without protesting about the irregularity; or
   (b) do not attend the meeting, but agree before the meeting is held to the waiver of the irregularity.
 
-### 8 Methods of holding meetings
+###  Methods of holding meetings
 A meeting of the board may be held—
   (a) by a quorum of the members, being assembled together at the time and place appointed for the meeting; or
   (b) by means of audio, audio and visual, or electronic communication provided that—
     (i) all of the members who wish to participate in the meeting have access to the technology needed to participate in the meeting; and
     (ii) a quorum of members can simultaneously communicate with each other throughout the meeting.
 
-### 9 Quorum
+###  Quorum
 (1) A quorum for a meeting of the board is the number that is—
   (a) half the number of members (if the board has an even number of members); or
   (b) a majority of the members (if the board has an odd number of members).
 (2) If the board has only 2 members, the quorum for a meeting is both members.
 (3) No business may be transacted at a meeting of the board if a quorum is not present.
 
-### 10 Special provisions for boards with only 1 member available to act
+###  Special provisions for boards with only 1 member available to act
 (1) This section applies while a board has only 1 member who is available (for example, because of a vacancy or because section 66, but not section 68, applies to 1 or more members).
 (2) The quorum for a meeting of the board is 1.
 (3) The available member—
@@ -1775,1031 +1781,31 @@ A meeting of the board may be held—
   (c) need not send a notice of meeting for those meetings; and
   (d) may enter into any obligation that, under section 127(2), may be entered into by 2 or more members.
 
-### 11 Presiding at meetings
+###  Presiding at meetings
 (1) At a meeting of the board, the following person presides:
   (a) if there is a chairperson and he or she is present and is not interested in the matter, the chairperson; or
   (b) if there is no chairperson or he or she is not present or is interested in the matter, the deputy chairperson; or
   (c) in any other case, the temporary deputy chairperson.
 (2) A person referred to in subclause (1)(b) or (c) may exercise all the powers and functions of the chairperson for the purposes of the meeting.
 
-### 12 Voting at meetings
+###  Voting at meetings
 (1) Each member has 1 vote.
 (2) In addition to his or her general vote, the chairperson at a meeting has, in the case of an equality of votes, a casting vote.
 (3) A resolution of the board is passed if it is agreed to by all members present without dissent or if a majority of the votes cast on it are in favour of it.
 (4) A member present at a meeting of the board is presumed to have agreed to, and to have voted in favour of, a resolution of the board unless he or she expressly dissents from or votes against the resolution at the meeting.
 
-### 13 Unanimous written resolutions
+###  Unanimous written resolutions
 (1) A resolution signed or assented to in writing (whether sent by post, delivery, or electronic communication) by all members is as valid and effectual as if it had been passed at a meeting of the board duly called and constituted.
 (2) The resolution may consist of several documents containing the same resolution, each signed or assented to in writing by 1 or more members.
 
-### 14 Board may appoint committees
+###  Board may appoint committees
 (1) The board may, by resolution, appoint committees—
   (a) to advise it on any matters relating to the entity's functions and powers that are referred to the committee by the board; or
   (b) to perform or exercise any of the entity's functions and powers that are delegated to the committee, if the committee includes at least 1 member of the board and any other person or persons that the board thinks fit.
 (2) A person must not be appointed as a member of a committee unless, before appointment, he or she discloses to the board the details of any interest the person may have if he or she were a member of that committee.
 
-### 15 Provisions relating to committee members
+###  Provisions relating to committee members
 (1) Sections 43, 47, 48, 57, 77, 118, 120 to 126, 135, 152(1)(e), (f), and (2), 189, and 190 apply to each member of a committee who is not a member of the board with necessary modifications.
 (2) Sections 62 to 72 apply to each member of a committee who is not a member of the board as if the committee member were a board member and as if the disclosure must be made to both the committee and the board, and with other necessary modifications.
 
 ## Schedule 6 — Amendments to other Acts arising from Crown entity reforms
-
-### 11 Delegation of functions and powers by Council
-(1) Subject to subsections (3) and (4), the Council may delegate any of its functions and powers to an arts board.
-(2) In other respects, section 73 of the Crown Entities Act 2004 applies.
-(3) Sections 74 to 76 of that Act apply to a delegation under subclause (1).
-(4) The Council may not delegate—
-  (a) the power to determine the level of funding that should be available for allocation by each arts board:
-  (b) any power to borrow money that it may have under section 160 or section 162 of the Crown Entities Act 2004.
-
-### 12 Exemption from income tax
-The Council is exempt from the payment of income tax.
-
-### 8 Delegation of functions and powers by boards
-(1) A board may, either generally or specifically, delegate any of its functions and powers to any of its committees or members or to any employee or employees of the Council, whether by name or as the holder or holders for the time being of any specified office or offices.
-(2) Every delegation under this clause must be in writing.
-(3) The board exercising the power of delegation must ensure that a copy of every delegation under this clause is kept at its office and is made available for inspection by any person.
-(4) Any delegation under this clause may be made to—
-  (a) a specified person; or
-  (b) a person belonging to a specified class of persons; or
-  (c) the holder for the time being of a specified office or appointment; or
-  (d) the holder for the time being of an office or appointment of a specified class.
-(5) Subject to any general or special directions given or conditions imposed by the board, the committee or person to whom a delegation is made may exercise or perform the delegated functions or powers in the same manner and with the same effect as if they had been conferred directly by this Act and not by delegation.
-(6) Every committee or person purporting to act under any delegation under this clause must, in the absence of proof to the contrary, be presumed to be acting in accordance with the terms of the delegation.
-(7) If the board, or any delegate of the board, uses a written document to inform any other person of action taken by the delegate, that document must—
-  (a) state that the action was taken by a delegate of the board; and
-  (b) give the delegate's name and office, or the name of the committee that acted pursuant to the delegation, as the case may be; and
-  (c) state that a copy of the instrument of delegation is available for inspection at the board's office.
-(8) Every delegation under this clause is revocable at will, but any such revocation does not take effect until it is communicated to the delegate.
-(9) Until the delegation is revoked, it continues in force according to its tenor, despite any change in the membership of the board or of any committee.
-(10) No delegation under this clause prevents the performance or exercise of any function or power by the board that made the delegation.
-
-### 24 Protection of members of arts boards acting under authority of Act
-(1) Sections 120 to 126 of the Crown Entities Act 2004 apply to a member or employee of an arts board who performs any functions in accordance with this Act, whether or not under a delegation from the Council, as if he or she were a member of a statutory entity.
-(2) However, section 121(1)(a) and (3)(a) do not apply to a member of an arts board.
-
-### 31 Funds of Authority
-The funds of the Authority include all annual levies paid by broadcasters under section 30B.
-
-### 45 Membership of Commission
-The board of the Commission consists of not less than 3, and not more than 6, members.
-
-### 53I Membership of Te Reo Whakapuaki Irirangi
-The board of Te Reo Whakapuaki Irirangi consists of not more than 7 members.
-
-### 72F Extra information to be included in statement of intent
-(1) The Authority must include the following information in its statement of intent prepared under section 139 of the Crown Entities Act 2004:
-  (a) a statement of any new borrowings or financial leases, or similar liabilities the Authority intends to incur during that year; and
-  (b) a statement of the Authority's best estimate of—
-    (i) both the various impacts the outputs described in the statement of intent will have for, and the consequences of those outputs for, a safe civil aviation system in New Zealand during the year to which the statement of intent relates; and
-    (ii) the impacts of those outputs on, and consequences of those outputs for, a safe civil aviation system in New Zealand for later years.
-(2) The Minister may direct the Authority to amend any provision that is included in the statement of intent under this section, and section 147 of the Crown Entities Act 2004 applies accordingly.
-(3) No provision specifying any liabilities the Authority intends to incur may be included in a statement of intent without the concurrence of the Minister of Finance.
-
-### 8A Application of Crown Entities Act 2004
-(1) The Commission is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(2) The Crown Entities Act 2004 applies to the Commission except to the extent that this Act expressly provides otherwise.
-(3) Members of the Commission are the board for the purposes of the Crown Entities Act 2004.
-
-### 9 Membership of Commission
-(1) The Commission must have no less than 4, and no more than 6, members appointed in accordance with this section, and may also have associate members appointed under section 11(1).
-(2) No less than 3, and no more than 5, of the members, of whom at least 1 must be a barrister and solicitor of at least 5 years' standing, must be appointed by the Governor-General in accordance with section 28(1)(b) of the Crown Entities Act 2004.
-(3) One of the members must be appointed by the Governor-General as Telecommunications Commissioner under section 9 of the Telecommunications Act 2001.
-(4) The Minister must not recommend a person for appointment as a member under subsection (2) unless,—
-  (a) in the opinion of the Minister, that person is qualified for appointment, having regard to the functions of the Commission, by virtue of that person's knowledge of or experience in industry, commerce, economics, law, accountancy, public administration, or consumer affairs; and
-  (b) in the case of a member who is a barrister or solicitor, the Minister has first consulted with the Attorney-General.
-(5) Subsections (2) and (4) do not limit section 29 of the Crown Entities Act 2004.
-
-### 12 Chairperson and deputy chairperson
-(1) One member appointed under section 9(2) must be appointed by the Governor-General, on the recommendation of the responsible Minister, as chairperson and another must be appointed as deputy chairperson.
-(2) The chairperson and deputy chairperson may only be removed from office as chairperson or deputy chairperson for just cause.
-(3) In other respects, clauses 1(2) and (3) and 4(2) and (3) of Schedule 5 of the Crown Entities Act 2004 apply to the appointment and removal of the chairperson and deputy chairperson of the Commission.
-
-### 74AA Cease and Desist Commissioners
-(1) The Governor-General, on the recommendation of the Minister (which recommendation may be given only after consultation by the Minister with the Attorney-General), must appoint 2 persons as Commissioners for the sole purpose of hearing cease and desist applications in accordance with sections 74A to 74C.
-(2) The Minister may not recommend a person for appointment as a Commissioner unless that person—
-  (a) is a barrister or solicitor; and
-  (b) would qualify for appointment as a member of the Commission under section 9(4)(a) of this Act and sections 29(2) and 30(2) of the Crown Entities Act 2004.
-(3) The notice of appointment must—
-  (a) state—
-    (i) the date on which the appointment takes effect; and
-    (ii) the term of appointment, which may be 5 years or any shorter period that is stated in the notice; and
-  (b) be published by the Minister in the Gazette as soon as practicable after being given.
-(4) Section 106 of this Act and sections 31, 32(2) to (4), 34, 35, 39 to 45, 47, 48, 62 to 68, 122 to 126 (as applied by section 106(3B) of this Act), and 188 to 190 of the Crown Entities Act 2004 apply to a Commissioner, with any necessary modification, as if he or she were a member of the Commission.
-(5) A Commissioner must act independently of the Commission in carrying out his or her functions under this Act.
-(6) The Commission must include in its annual report under section 150 of the Crown Entities Act 2004 the information in section 152(1)(a) and (d) to (f) of that Act, in respect of each Commissioner.
-
-### 105 Restriction on delegation
-(1) The Commission may not delegate its powers to grant, revoke, or vary an authorisation under this Act, except in accordance with subsection (2).
-(2) The Commission may delegate to the chief executive or any other employee or employees, or office holder or holders, of the Commission, or any class of employee or office holder, any of its powers under sections 70 to 74.
-(3) In other respects, section 73 of the Crown Entities Act 2004 applies.
-
-### 9 Collective agreements
-A Crown Research Institute must comply with any Order in Council made under section 116 of the Crown Entities Act 2004 that relates to that Crown Research Institute before entering into a collective employment agreement or amendment to a collective employment agreement.
-
-### 10A Application of Crown Entities Act 2004 to Crown Research Institutes
-(1) A Crown Research Institute is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(2) The Crown Entities Act 2004 applies to a Crown Research Institute except to the extent that this Act expressly provides otherwise.
-(3) The following sections of the Crown Entities Act 2004 do not apply to Crown Research Institutes, or the boards, board members, or employees of a Crown Research Institute:
-  (a) section 87:
-  (b) sections 92 to 95:
-  (c) section 97:
-  (d) section 100:
-  (e) section 107 (except as applied by section 7(6) of this Act):
-  (f) sections 138 to 157.
-
-### 11 Establishment of Crown Research Institutes
-(1) A Crown entity company may be formed under section 79 of the Crown Entities Act 2004 for the purposes of establishing a Crown Research Institute.
-(2) The constitution of a Crown Research Institute must state that the company is a Crown Research Institute for the purposes of this Act.
-(3) Subsection (2) applies in addition to section 81 of the Crown Entities Act 2004 (which requires the constitution of a Crown entity company to state that the company is a Crown entity).
-(4) The Companies Act 1993 applies to a Crown Research Institute as provided in section 85 of the Crown Entities Act 2004, or as otherwise modified by this Act.
-
-### 12 Provisions relating to Crown entity subsidiaries of Crown Research Institutes
-(1) A Crown Research Institute or a Crown entity subsidiary of a Crown Research Institute may form or acquire shares in a Crown entity subsidiary from time to time in accordance with section 96 of the Crown Entities Act 2004.
-(2) Each Crown entity subsidiary of a Crown Research Institute is a Crown entity for the purposes of the Crown Entities Act 2004.
-(3) The Crown Entities Act 2004 applies to a Crown entity subsidiary of a Crown Research Institute except to the extent that this Act expressly provides otherwise.
-(4) Sections 97, 100, and 138 to 157 of the Crown Entities Act 2004 do not apply to a Crown entity subsidiary of a Crown Research Institute.
-(5) The Companies Act 1993 applies to a Crown entity subsidiary of a Crown Research Institute as provided in section 102 of the Crown Entities Act 2004, or as otherwise modified by this Act.
-
-### 13 Acquisition of shares or interests in companies, trusts, and partnerships
-(1) A Crown Research Institute or a Crown entity subsidiary of a Crown Research Institute must ensure that it does not—
-  (a) acquire shares in a company that gives it substantial influence in or over that company; or
-  (b) acquire an interest in any partnership, joint venture, or other association of persons, or an interest in a company other than in its shares; or
-  (c) settle, or be or appoint a trustee of, a trust,-other than
-  (d) after written notice to its parent Crown Research Institute (in the case of a Crown entity subsidiary of a Crown Research Institute) or to the shareholding Ministers (in the case of a Crown Research Institute); and
-  (e) in accordance with the procedures and conditions contained in its statement of corporate intent or specified by the shareholding Ministers.
-(2) Substantial influence, in relation to a company, means the capacity to affect substantially either or both the financial or operating policies of the company.
-(3) This section does not apply if the Crown Research Institute or Crown entity subsidiary of a Crown Research Institute acquires a Crown entity subsidiary (in which case section 96 of the Crown Entities Act 2004 applies).
-
-### 4A Crown Entities Act 2004 to apply
-(1) The Commission is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(2) The Crown Entities Act 2004 applies to the Commission except to the extent that this Act expressly provides otherwise.
-
-### 4B Membership of Commission's board
-(1) The Commission's board must have no fewer than 5, and no more than 9, members.
-(2) The members of the Commission are the board for the purposes of the Crown Entities Act 2004.
-
-### 65H Application of Crown Entities Act 2004
-(1) Every Board is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(2) However, that Act applies to Boards only to the extent that subsection (3) provides.
-(3) The provisions of that Act set out in Schedule 3 of that Act and Schedule 5A of this Act apply to Boards and their Crown entity subsidiaries (within the meaning of that Act).
-(4) The trustees are the governing board for the purposes of those provisions of the Crown Entities Act 2004.
-
-### 66 Delegations
-(1) The governing board of a Board may delegate any of the functions or powers of the Board or the governing board, either generally or specifically, to any of the following persons by resolution and written notice to the person or persons:
-  (a) a trustee or trustees:
-  (b) the principal or any other employee or employees, or office holder or holders, of the Board:
-  (c) a committee consisting of at least 2 persons, at least one of whom is a trustee:
-  (d) any other person or persons approved by the Board's responsible Minister:
-  (e) any class of persons comprised of any of the persons listed in paragraphs (a) to (d).
-(2) Subsection (1) does not apply to any functions or powers specified in this Act as not being capable of delegation.
-(3) The governing board must not delegate the general power of delegation.
-(4) A delegate to whom any functions or powers of a Board or governing board are delegated may,—
-  (a) unless the delegation provides otherwise, perform the function or exercise the power in the same manner, subject to the same restrictions, and with the same effect as if the delegate were the Board or the governing board; and
-  (b) delegate the function or power only—
-    (i) with the prior written consent of the governing board; and
-    (ii) subject to the same restrictions, and with the same effect, as if the subdelegate were the delegate.
-(5) A delegate who purports to perform a function or exercise a power under a delegation—
-  (a) is, in the absence of proof to the contrary, presumed to do so in accordance with the terms of that delegation; and
-  (b) must produce evidence of his or her authority to do so, if reasonably requested to do so.
-(6) No delegation in accordance with this Act—
-  (a) affects or prevents the performance of any function or the exercise of any power by the Board or the governing board; or
-  (b) affects the responsibility of the governing board for the actions of any delegate acting under the delegation; or
-  (c) is affected by any change in the membership of the governing board or of any committee or class of persons.
-(7) A delegation may be revoked at will by—
-  (a) resolution of the governing board and written notice to the delegate; or
-  (b) any other method provided for in the delegation.
-(8) A delegation under subsection (1)(b) may be revoked at will by written notice of the delegate to the subdelegate.
-(9) The governing board may, by resolution, appoint committees—
-  (a) to advise it on any matters relating to the Board's functions and powers that are referred to the committee by the governing board; or
-  (b) to perform or exercise any of the Board's functions and powers that are delegated to the committee.
-(10) A person must not be appointed as a member of a committee unless, before appointment, he or she discloses to the governing board the details of any financial interest that would disqualify the person from being a member of the committee under section 103A.
-(11) This section applies to each member of a committee who is not a trustee with necessary modifications.
-(12) Until revoked, a delegation to a committee continues in force, even if the membership of the Board or committee changes.
-
-### 66A No delegation of power to borrow
-The governing board of a Board must not delegate any power to borrow money that it may have under section 160 or section 162 of the Crown Entities Act 2004.
-
-### 66B Application of new acquisition of securities, borrowing, guarantees, indemnities, and derivative transactions rules
-(1) The amendments made to sections 67 to 67B and 73 of this Act by Schedule 6 of the Crown Entities Act 2004 (being amendments that correspond with sections 160 to 164 of that Act) apply on and after 1 April 2005.
-(2) Until that date, the existing law applies (see the transitional provisions in sections 196 and 197 of the Crown Entities Act 2004).
-
-### 67 Restrictions on borrowing
-(1) Sections 160 and 162 of the Crown Entities Act 2004 apply.
-(2) Therefore, a Board must not borrow from any person, or amend the terms of any borrowing, other than as provided in—
-  (a) any regulations made under Part 4 of that Act; or
-  (b) any approval given jointly by the Minister of Education and the Minister of Finance; or
-  (c) this Act.
-
-### 67A Restrictions on giving of guarantees and indemnities
-(1) Sections 160 and 163 of the Crown Entities Act 2004 apply.
-(2) Therefore, a Board must not, with or without security, give a guarantee to, or indemnify, another person other than as provided in—
-  (a) any regulations made under Part 4 of that Act; or
-  (b) any approval given jointly by the Minister of Education and the Minister of Finance; or
-  (c) this Act.
-
-### 67B Restrictions on use of derivatives
-(1) Sections 160 and 164 of the Crown Entities Act 2004 apply.
-(2) Therefore, a Board must not enter into a derivative transaction, or amend the terms of that transaction, other than as provided in—
-  (a) any regulations made under Part 4 of that Act; or
-  (b) any approval given jointly by the Minister of Education and the Minister of Finance; or
-  (c) this Act.
-
-### 73 Restrictions on acquisition of securities
-(1) Sections 160 and 161 of the Crown Entities Act 2004 apply.
-(2) Therefore, a Board must not acquire securities other than—
-  (a) a debt security denominated in New Zealand dollars that is issued by a registered bank, or by any other entity, that satisfies a credit-rating test that is specified in either regulations made under Part 4 of that Act or a notice in the Gazette published by the Minister of Finance:
-  (b) a public security:
-  (c) as provided in—
-    (i) any regulations made under Part 4 of that Act; or
-    (ii) any approval given jointly by the Minister of Education and the Minister of Finance: or
-    (iii) this Act.
-
-### 78NA No compensation for loss of office
-(1) A trustee is not entitled to any compensation or other payment or benefit relating to his or her ceasing for any reason to hold office as a trustee.
-(2) A Board must ensure, to the extent of its powers, that each of its Crown entity subsidiaries does not pay directors of the subsidiary any compensation or other payment or benefit, on any basis, for ceasing for any reason to hold office.
-(3) However, subsections (4) and (5) apply to a person who is entitled, at the commencement of this section under any contract or arrangement, to any compensation or other payment or benefit relating to his or her ceasing for any reason to hold office.
-(4) The entitlement is not affected by the enactment of this section.
-(5) The entitlement is cancelled on the date of reappointment of the trustee or director or of the member to the committee (if any).
-
-### 87A Audit
-(1) Each Board must submit its annual financial statements to the Auditor-General within 90 days after the end of each financial year.
-(2) The Auditor-General must audit the financial statements and provide an audit report on them to the Board.
-
-### 87B Report on performance of schools' sector
-(1) The Minister of Education must in each year, not later than 30 September, prepare and present to the House of Representatives a report on the performance of the schools' sector in the immediately preceding financial year ending on 31 December.
-(2) The report must include information on—
-  (a) the performance of the schools' sector in the supply of outputs:
-  (b) the management performance in the schools' sector, including the quality of the management systems and practices in the schools' sector and the management of all the assets used in the schools' sector:
-  (c) the effectiveness of the schools' sector in terms of educational achievement.
-(3) The report—
-  (a) must relate to all of the schools owned by the Crown; and
-  (b) may relate to other schools.
-
-### 87C Annual financial statements of Boards
-(1) A Board must provide its audited annual financial statements to the Secretary no later than 31 May in the year after the previous financial year.
-(2) The Minister must in each year send to each member of Parliament copies of the statements provided to the Secretary under subsection (1) by the Boards in respect of schools situated in the member's electoral district.
-(3) Those copies must be sent no later than 1 month after the date on which the statements were provided to the Secretary.
-
-### 103B Requirements before appointment
-Before a person is elected, co-opted, or appointed as a trustee, the person must confirm to the governing board that he or she is, to the best of his or her knowledge, eligible to be a trustee, having regard to the grounds of ineligibility in section 103 or section 103A.
-
-### 139AC New Zealand Teachers Council established
-(1) The New Zealand Teachers Council (Teachers Council) is established.
-(2) The Teachers Council is owned by the Crown.
-(3) The Teachers Council is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(4) The Crown Entities Act 2004 applies to the Teachers Council except to the extent that this Act expressly provides otherwise.
-(5) The members of the Teachers Council are the board for the purposes of the Crown Entities Act 2004.
-
-### 139AJA Delegations
-(1) The Council may not delegate any of its functions or powers—
-  (a) to make rules:
-  (b) relating to deregistration:
-  (c) to appoint a chief executive.
-(2) This section applies despite section 73 of the Crown Entities Act 2004.
-
-### 139AJB Chief Executive
-The Council must from time to time appoint a chief executive, on terms and conditions agreed between the Council and the person appointed, in accordance with section 117 of the Crown Entities Act 2004.
-
-### 139AJC Superannuation
-(1) Any person who, immediately before becoming an employee of the Council, is a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 is deemed for the purpose of that Act to be employed in the Government service so long as he or she continues to be an employee of the Council.
-(2) The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person's service as an employee of the Council were Government service.
-(3) Nothing in subsection (2) entitles a person to become a contributor to the Government Superannuation Fund if the person has ceased to be a contributor.
-(4) For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of the Council is the controlling authority.
-
-### 159C Establishment of Commission
-(1) A Tertiary Education Commission is established.
-(2) The Commission is owned by the Crown.
-(3) The Commission is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(4) The Crown Entities Act 2004 applies to the Commission except to the extent that this Act expressly provides otherwise.
-(5) The members of the Commission are the board for the purposes of the Crown Entities Act 2004.
-
-### 159E Charging
-The Commission may not charge a commercial rate for any goods and services that it provides unless the Minister has given his or her approval.
-
-### 159KA Chief executive
-(1) The Commission must appoint a chief executive in accordance with section 117 of the Crown Entities Act 2004.
-(2) The chief executive must not be a member of the Commission.
-(3) The Commission must act independently when appointing the chief executive.
-(4) The Commission must monitor and evaluate the performance of the chief executive.
-
-### 159KB Responsibilities of chief executive
-The chief executive must—
-  (a) ensure the efficient and effective administration of the affairs of the Commission; and
-  (b) act in accordance with lawful policies and directions given to him or her by the Commission.
-
-### 159KC Declaration of interests
-(1) A person who is proposed to be appointed as chief executive must declare any interests (within the meaning of that term in section 10 of the Crown Entities Act 2004) to the Commission before accepting appointment to the position of chief executive.
-(2) If the chief executive has any direct or indirect interest in any transaction or other matter listed in section 62 of the Crown Entities Act 2004, he or she must disclose that interest to the Commission.
-
-### 159KD Superannuation
-(1) Any person who, immediately before becoming an employee of the Commission, is a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 is deemed, for the purpose of that Act, to be employed in the Government service so long as he or she continues to be an employee of the Commission.
-(2) The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person's service as an employee of the Commission were Government service.
-(3) Subsection (1) does not entitle a person to become a contributor to the Government Superannuation Fund if the person has ceased to be a contributor.
-(4) For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of the Commission is the controlling authority.
-
-### 159KE Statement of intent
-(1) The Commission must include the following information in its statement of intent:
-  (a) a general description of the things that the Commission proposes to do, achieve, or work towards during the period covered by the statement of intent, which—
-    (i) must be consistent with the statement of tertiary education priorities and the Commission's functions; and
-    (ii) must include a summary of the nature and scope of the Commission's proposed operations; and
-    (iii) may cover both financial and non-financial matters; and
-  (b) a general description of the Commission's proposed strategies and activities for giving effect to, or achieving, the things referred to in paragraph (a), including a list of the intended principal activities of the Commission and how they relate to the things referred to in paragraph (a); and
-  (c) a description of how the statement of forecast service performance in the statement of intent links to the things referred to in paragraph (a); and
-  (d) a general description of the manner in which the Commission proposes to operate and, in particular,—
-    (i) which other persons or bodies engaged in similar or related work it proposes to liaise with, and how it proposes to liaise with those other persons or bodies; and
-    (ii) what capability it needs to do its work, and how it will develop that capability; and
-    (iii) how it proposes to manage its risks; and
-  (e) for each of the financial years to which the statement of intent relates, performance measures and targets by which the Commission's performance, and progress towards delivering the things referred to in paragraph (a) may be judged.
-(2) The Commission need not include in its statement of intent the information required in section 141(1)(b), (e), and (f) of the Crown Entities Act 2004.
-(3) The grouping of outputs in the statement of forecast service performance in the statement of intent must be done so that, in the case of outputs funded by appropriation, a group of outputs does not contain outputs funded from more than 1 appropriation in the Estimates.
-(4) The Minister may, in relation to the Commission, exercise his or her powers under section 147(1) of the Crown Entities Act 2004 as if that section included a reference to subsection (1)(a) and (e); and that section applies accordingly.
-
-### 159KF Annual report
-(1) The Commission must include in its annual report a description of how the Commission is monitoring, and how it will report on, progress in implementing the tertiary education strategy.
-(2) This section does not limit section 151 of the Crown Entities Act 2004.
-
-### 159KG Certain powers must not be delegated
-(1) The Commission must not delegate any of the following powers:
-  (a) the power to appoint a chief executive; or
-  (b) any other power that the Minister specifies by notice in writing to the Commission.
-(2) This section applies despite section 73 of the Crown Entities Act 2004.
-
-### 179 Fees and allowances
-(1) A member of a Council other than the chief executive may be paid fees at such rates (not exceeding maximum rates fixed by the Minister in accordance with the fees framework) as the Council determines.
-(2) A member of a Council of an institution is entitled, in accordance with the fees framework, to be reimbursed, out of the funds of the entity, for actual and reasonable travelling and other expenses incurred in carrying out his or her office as a member.
-(3) For the purposes of this section, fees framework means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest, including statutory entities and their subsidiaries and tertiary education institutions.
-
-### 201 Proper accounts to be kept
-Section 168(1) and (2) of the Crown Entities Act 2004 applies to a Council of an institution.
-
-### 201B Gifts
-(1) Any money or property that is gifted to an institution may be accepted or disclaimed by the Council of the institution in accordance with section 167 of the Crown Entities Act 2004.
-(2) A limitation in this Act or the Crown Entities Act 2004 (such as a limitation on the form in which property may be held) does not apply during a period that is reasonable in the circumstances.
-
-### 203 Institutions are Crown entities
-(1) Every institution is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(2) However, that Act applies to tertiary education institutions only to the extent that subsection (3) provides.
-(3) The provisions of that Act set out in Schedule 4 of that Act and Schedule 13A of this Act apply to tertiary education institutions and their Crown entity subsidiaries (within the meaning of that Act).
-(4) Section 65I(1) and (2) of the Public Finance Act 1989 applies, with all necessary modifications, to tertiary education institutions and, accordingly, every institution must invest in the same manner that Treasury invests money under that section.
-(5) No instruction issued by the Minister of Finance under section 80A of the Public Finance Act 1989 applies to an institution.
-(6) The financial year of an institution is an academic year.
-(7) The members of the Council of an institution are the board for the purposes of the Crown Entities Act 2004.
-
-### 248 Establishment of Authority
-(1) A New Zealand Qualifications Authority is established.
-(2) The Authority is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(3) The Crown Entities Act 2004 applies to the Authority except to the extent that this Act expressly provides otherwise.
-(4) The members of the Authority are the board for the purposes of the Crown Entities Act 2004.
-
-### 254A Child care allowances
-A member may be paid any allowances in respect of child care that the Authority determines.
-
-### 254B Chief executive
-The Authority must from time to time appoint a chief executive of the Authority, on terms and conditions agreed by the Authority and the person appointed in accordance with section 117 of the Crown Entities Act 2004.
-
-### 254C Membership of Government Superannuation Fund
-Employment in the service of the Authority is Government service within the meaning of the Government Superannuation Fund Act 1956.
-
-### 254D Employees transferring from other Government employment
-(1) Every person who,—on that commencement becomes an employee of the Qualifications Authority.
-  (a) before the commencement of Schedule 15 and while employed in the Public Service or the Education Service, or employed by the University Grants Committee, the Trades Certification Board or the Authority for Advanced Vocational Awards, received from the Secretary written notice that the person is designated to become an employee of the Qualifications Authority; and
-  (b) immediately before that commencement was still employed in the Public Service or the Education Service or by the University Grants Committee, the Trades Certification Board or the Authority for Advanced Vocational Awards,—
-
-### 254E Taxation
-(1) The Authority is deemed to be the agent of the Crown in respect of its property and the performance of its functions and is entitled accordingly to all the privileges the Crown enjoys in respect of exemption from taxation and the payment of fees or charges, and from other obligations.
-(2) Subsection (1) does not exempt the Authority from—
-  (a) the payment of goods and services tax under the Goods and Services Tax Act 1985; or
-  (b) any obligation imposed by that Act.
-
-### 286A Child care allowances
-A member may be paid any allowances in respect of child care that the Board determines.
-
-### 286B Chief executive
-(1) The Board must from time to time appoint a chief executive of the Board, on terms and conditions agreed by the Board and the person appointed.
-(2) Section 117 of the Crown Entities Act 2004 also applies.
-
-### 286C Membership of Government Superannuation Fund
-Employment by the Service is Government service within the meaning of the Government Superannuation Fund Act 1956.
-
-### 286D Employees transferring from Ministry and Education Boards
-(1) Every person who,—on that commencement becomes an employee of the Service.
-  (a) before the commencement of this section and while an employee of the Ministry or an Education Board, received from the Secretary written notice that the person is designated to become an employee of the Service; and
-  (b) immediately before that commencement was still an employee of the Ministry or that Education Board,—
-(2) If a person has become an employee of the Service under subsection (1), the person's period of continuous service in the Public Service or, as the case may be, the Education Service so ended must be treated for all purposes other than superannuation as service in the employment of the Service.
-
-### 286E Board may not delegate power to appoint general manager
-(1) The Board may not delegate the power to appoint a general manager.
-(2) This section applies despite the power of delegation in section 73 of the Crown Entities Act 2004.
-
-### 286F Delegations to general manager
-A delegation to the member who is the general manager continues to have effect,—
-  (a) as if made to the general manager for the time being (subject to paragraph (b)), if the general manager to whom it was made ceases to hold office; and
-  (b) as if made to the person for the time being acting in place of the general manager, if there is no general manager for the time being, or if the general manager is absent from duty.
-
-### 286G Taxation
-(1) The Service is deemed to be the agent of the Crown in respect of its property and the performance of its functions and is entitled accordingly to all the privileges the Crown enjoys in respect of exemption from taxation and the payment of fees or charges, and from other obligations.
-(2) Subsection (1) does not exempt the Service from—
-  (a) the payment of goods and services tax under the Goods and Services Tax Act 1985; or
-  (b) any obligation imposed by that Act.
-
-### 1 Status of Board
-(1) A Board (and not the school) is a body corporate.
-(2) A Board—
-  (a) is accordingly a legal entity separate from its members, office holders, employees, and the Crown; and
-  (b) continues in existence until it is dissolved in accordance with this Act.
-
-### 1A Things Board can do
-(1) A Board may do anything authorised by this Act.
-(2) A Board may do anything that a natural person of full age and capacity may do.
-(3) Subclause (2) applies except as provided in this Act or another Act or rule of law.
-(4) A Board may do an act under this clause only for the purpose of performing its functions.
-(5) References in this clause to this Act include the provisions of the Crown Entities Act 2004 that are applied by Schedule 5A of this Act.
-
-### 1B Acts in breach of statute are invalid
-(1) An act of a Board is invalid, unless clause 1C applies, if it is—
-  (a) an act that is contrary to, or outside the authority of, an Act; or
-  (b) an act that is done otherwise than for the purpose of performing its functions.
-(2) Subclause (1) does not limit any discretion of a court to grant relief in respect of a minor or technical breach.
-
-### 1C Some natural person acts protected
-(1) Clause 1B or any rule of law to similar effect does not prevent a person dealing with a Board from enforcing a transaction that is a natural person act unless the person dealing with the Board had, or ought reasonably to have had, knowledge—
-  (a) of an express restriction in an Act that makes the act contrary to, or outside the authority of, the Act; or
-  (b) that the act is done otherwise than for the purpose of performing the Board's functions.
-(2) In this clause, natural person act —
-  (a) means an act that a natural person of full age and capacity can do (whether or not the act is something that is also authorised by an Act); and
-  (b) includes entry into a contract for, or relating to,—
-    (i) acquisition of securities or borrowing of money; or
-    (ii) a derivative transaction; or
-    (iii) the purchase, leasing, or sale of, or other dealings with, property; or
-    (iv) the employment, or engagement of the services, of a person.
-(3) A person who relies on subclause (1) has the onus of proving that that person did not have, and ought not reasonably to have had, the knowledge referred to in that subsection.
-(4) A Board must report, in its annual report, each transaction that the Board has performed in the year to which the report relates that was invalid under clause 1B but enforced in reliance on subclause (1).
-(5) For the avoidance of doubt, this section does not affect any person's remedies (for example, remedies in contract) under the general law.
-
-### 1D Acts that are not in best interests of Board
-It is irrelevant to the validity of an act that the act is not, or would not be, in the best interests of a Board.
-
-### 1E Dealings between Boards and other persons
-(1) A Board may not assert against a person dealing with the Board that—
-  (a) a person held out by the Board to be a member, office holder, chief executive, employee, or agent of the Board (as the case may be)—
-    (i) has not been duly appointed in that capacity or has ceased to be appointed in that capacity; or
-    (ii) does not have the authority to exercise a power that, given the nature of the Board, a person appointed to that capacity customarily has authority to exercise; or
-    (iii) does not have the authority to exercise a power that the Board holds him or her out as having; or
-  (b) a document issued on behalf of the Board by a member, office holder, chief executive, employee, or agent of the Board with actual or usual authority to issue the document is not valid or genuine.
-(2) However, a Board may assert any of those matters if the person dealing with the Board has, or ought reasonably to have had, knowledge of the matter.
-(3) Nothing in this clause affects a person's right to apply, in accordance with the law, for judicial review.
-
-### 1F Interpretation
-In clauses 1B to 1E, unless the context otherwise requires,—
-  - **act** includes a transfer of property, rights, or interests to or by a Board
-  - **do** includes—
-    (a) to do an act; and
-    (b) to have a capacity; and
-    (c) to have or exercise a power, right, or privilege
-  - **person dealing** —
-    (a) means the other party to the transaction, if the act of the Board is a transaction; and
-    (b) includes a person who has acquired property, rights, or interests from a Board.
-
-### 1G Whole of government directions
-(1) A Board must comply with any whole of government direction given under section 107 of the Crown Entities Act 2004.
-(2) The Board may be dissolved under section 78I(1)(e) if it does not.
-
-### 4A Crown Entities Act 2004 to apply
-(1) The Electoral Commission is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(2) The Crown Entities Act 2004 applies to the Electoral Commission except to the extent that this Act expressly provides otherwise.
-
-### 7 Independence
-The Electoral Commission must act independently in performing its statutory functions and duties, and exercising its statutory powers, under—
-  (a) this Act; and
-  (b) any other Act that expressly provides for the functions, duties, or powers of the Electoral Commission (other than the Crown Entities Act 2004).
-
-### 11 Vacation of office of additional members who hold office for purposes of jurisdiction under Part 6 of Broadcasting Act 1989
-(1) A member of the Electoral Commission appointed under section 8(4)(b) may be removed for just cause by the Governor-General acting upon an address from the House of Representatives.
-(2) Just cause—
-  (a) includes misconduct, inability to perform the functions of office, and neglect of duty; but
-  (b) excludes breach of any of the collective duties of the board or the individual duties of members (unless the act or omission that constitutes the breach comes within paragraph (a)).
-(3) Section 39 of the Crown Entities Act 2004 does not apply to that member.
-
-### 1 Conflict of interest disclosure rules do not apply to additional members who hold office for purposes of jurisdiction under Part 6 of Broadcasting Act 1989
-Sections 62 to 72 of the Crown Entities Act 2004 do not apply to a member of the Electoral Commission appointed under section 8(4)(b).
-
-### 3 Staff
-The chief executive of the Electoral Commission may, under delegation from the Board, appoint any officers and employees (including acting or temporary or casual officers and employees) as may be necessary for carrying this Act into effect.
-
-### 172V Notice of special meetings of Commission's board
-Despite clause 7(2) of Schedule 5 of the Crown Entities Act 2004, at least 2 days' notice of a special meeting must be given.
-
-### 172ZJ Interpretation
-In this subpart, unless the context otherwise requires,—
-  - **financial year** has the same meaning as in section 136 of the Crown Entities Act 2004.
-  - **GPS objectives and outcomes** means the objectives and outcomes that apply to the Commission under section 172ZK
-  - **performance standards** means the performance targets and measures referred to in section 172ZL
-
-### 172ZK Setting of GPS objectives and outcomes
-(1) The Minister must set objectives and outcomes that the Government wants the Commission to give effect to in relation to the governance of the electricity industry, and against which the Commission must report and be examined in accordance with this subpart.
-(2) The Minister must set those objectives and outcomes by—
-  (a) giving the Commission a statement of government policy containing those objectives and outcomes; or
-  (b) giving the Commission an amendment to, or replacement of, that statement.
-(3) Each statement (or amendment to, or replacement of, a statement) under subsection (2) must be published in the Gazette and presented to the House of Representatives by the Minister as soon as practicable after it is given to the Commission.
-(4) GPS objectives and outcomes must be consistent with the purpose of this Part and the functions, principal objectives, and specific outcomes of the Commission.
-(5) GPS objectives and outcomes must not require the Commission, in respect of a particular person, to make a particular decision, or to do or refrain from doing a particular act, or to bring about a particular result (other than in relation to Transpower).
-(6) Subsection (5), in so far as it relates to Transpower, applies despite section 113 of the Crown Entities Act 2004.
-(7) The Minister must consult with the Commission before giving a statement under this section.
-
-### 172ZL Annual performance standards
-(1) The Commission must include, in its statement of intent prepared in accordance with section 139 of the Crown Entities Act 2004, performance standards for the first financial year to which the statement of intent relates that have been agreed with the Minister.
-(2) The performance standards—
-  (a) must include the performance targets and other measures by which the performance of the Commission may be judged; and
-  (b) must be matters against which the Commission's actual performance may be reported and audited; and
-  (c) must relate to all of the GPS objectives and outcomes.
-(3) The Minister must consult with the Auditor-General on whether the proposed performance standards meet the requirements in subsection (2)(b) and (c) before agreeing the performance standards.
-(4) The Minister may direct the Commission to amend the draft performance standards, and section 147 of the Crown Entities Act 2004 applies accordingly.
-
-### 172ZM Additional information to be included in annual report
-(1) The Commission must include, in its annual report prepared under section 150 of the Crown Entities Act 2004, the information that is necessary to enable an informed assessment to be made of the performance of the Commission against the GPS objectives and outcomes and against the performance standards in its statement of intent for that year.
-(2) The Commission must, within 90 days after the end of the financial year, submit that information to the Auditor-General, for an assurance audit under section 172ZO.
-
-### 172ZO Assurance audit by Auditor-General
-(1) The Auditor-General must—
-  (a) examine the information included in the annual report, and provided to the Auditor-General, under section 172ZM; and
-  (b) either report on it—
-    (i) in the audit report provided to the Commission under section 156 of the Crown Entities Act 2004; or
-    (ii) despite that section, to the Minister and the House of Representatives as soon as practicable after receiving the information.
-(2) The Auditor-General's report under subsection (1) must provide assurance on—
-  (a) the appropriateness, adequacy, and accuracy of the information contained, or to be contained, in the annual report under section 172ZM; and
-  (b) whether the information included in the annual report under that section enables, or is likely to enable, an informed assessment to be made of the matters stated in that section.
-(3) The Auditor-General may, at any time, examine the information to be contained in the annual report and the systems of the Commission, and report on that examination to the Minister and the House of Representatives.
-(4) This section does not limit section 156 of the Crown Entities Act 2004.
-
-### 172ZP Report by Parliamentary Commissioner for Environment
-(1) The Parliamentary Commissioner for the Environment must examine, in accordance with subsection (2), the extent to which the Commission is meeting the GPS objectives and outcomes concerning the environment.
-(2) The Parliamentary Commissioner for the Environment—
-  (a) must, as soon as practicable after the end of each financial year of the Commission, carry out that examination in respect of that financial year and report to the House of Representatives on the results of the examination; and
-  (b) in addition, may carry out the examination under subsection (1) and report to the House of Representatives on the results of the examination at any other time.
-
-### 172ZQ Functions under this subpart
-(1) The Parliamentary Commissioner for the Environment may exercise all of the Commissioner's powers under the Environment Act 1986 in relation to the functions in this subpart, and that Act applies to those functions as if they were functions conferred under that Act.
-(2) The functions conferred on the Auditor-General and the Parliamentary Commissioner for the Environment by this subpart are additional to, and do not limit, the Auditor-General's or the Commissioner's functions, powers, and duties under the Public Audit Act 2001, the Crown Entities Act 2004, or the Environment Act 1986 (as the case may be).
-
-### 17 Commission is Crown entity
-(1) The Commission is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(2) The Crown Entities Act 2004 applies to the Commission except to the extent that this Act expressly provides otherwise.
-
-### 18 Membership of Commission
-(1) The Commission consists of no more than 7, and no less than 3, members.
-(2) The Minister must appoint one member to be Chief Commissioner.
-(3) The Minister may appoint one member to be Deputy Chief Commissioner.
-(4) The Chief Commissioner is the chairperson of the board of the Commission, and the Deputy Chief Commissioner (if any) is the deputy chairperson of that board, for the purposes of clause 1 of Schedule 5 of the Crown Entities Act 2004.
-(5) In addition to the appointment processes and criteria in sections 28 and 29 of the Crown Entities Act 2004, the Minister must—
-  (a) before appointing a member, notify a vacancy in a manner that enables suitably qualified individuals to apply for appointment; and
-  (b) in appointing a member, take into account the need for Commissioners to have among them a breadth of experience and expertise, and knowledge of, or experience in,—
-    (i) different aspects of matters likely to come before the Commission; and
-    (ii) the needs and aspirations (including life experiences) of different communities of interest and population groups in New Zealand society.
-
-### 79 Membership of Classification Office
-(1) The Classification Office consists of the Chief Censor and the Deputy Chief Censor.
-(2) The Chief Censor and the Deputy Chief Censor are the board for the purposes of the Crown Entities Act 2004.
-(3) The Chief Censor and the Deputy Chief Censor hold office as chairperson and deputy chairperson of the board respectively, for the same term as they hold office as Chief Censor and Deputy Chief Censor, for the purposes of the Crown Entities Act 2004.
-(4) Subsection (3) applies despite anything to the contrary in Schedule 5 of that Act.
-
-### 81 Term of office
-(1) A person appointed under section 80 may be appointed for any period not exceeding 3 years, and may from time to time be reappointed for any period not exceeding 3 years.
-(2) Subsection (1) applies despite section 32(1)(b) of the Crown Entities Act 2004.
-(3) Clause 2 of Schedule 5 of the Crown Entities Act 2004 does not apply.
-
-### 83 Vacation of office as chairperson and deputy chairperson
-Clauses 3 and 4 of Schedule 5 of the Crown Entities Act 2004 do not apply.
-
-### 84 Holding of other offices
-(1) Neither the Chief Censor nor the Deputy Chief Censor may be a member of a local authority.
-(2) This section does not limit section 30 of the Crown Entities Act 2004.
-
-### 85 Administration of Classification Office
-(1) The Chief Censor is responsible for matters of administration in relation to the Classification Office, including—
-  (a) the allocation of spheres of responsibility between the Chief Censor and the Deputy Chief Censor; and
-  (b) the allocation of duties among the classification officers.
-(2) In other respects, section 25 of the Crown Entities Act 2004 applies.
-(3) Subject to subsection (1), the board may delegate the statutory functions and powers of the Classification Office only to the Chief Censor, the Deputy Chief Censor, or a classification officer.
-(4) In other respects, section 73 of the Crown Entities Act 2004 applies.
-
-### 30 Consultation
-(1) The Board may consult any persons or organisations that the Board thinks fit to assist the Board in deciding whether or not to—
-  (a) approve a financial reporting standard; or
-  (b) approve any amendment to an approved financial reporting standard; or
-  (c) revoke the approval of any approved financial reporting standard.
-(2) This section does not limit section 26 of this Act or section 16 or section 17 of the Crown Entities Act 2004.
-
-### 9 Deputies of members
-(1) If the Minister is satisfied that any member of the Commission is incapacitated or prevented by illness, absence, or other sufficient cause from performing his or her duties as a member, the Minister may designate a person qualified for appointment to the office of that member as a deputy member to act for that member while that member is so incapacitated or prevented.
-(2) A deputy member must, while the deputy member acts as a member of the Commission, be taken to be the member in whose place the deputy member acts.
-(3) For the avoidance of doubt, where the Minister designates a deputy member for the chairperson of the Commission, that deputy member is to be taken as the chairperson of the Commission, despite the fact that there may be a deputy chairperson appointed under clause 1 of Schedule 5 of the Crown Entities Act 2004.
-
-### 14 Functions of Commission
-The Commission has the following functions under this Act:
-  (a) the functions and activities expressed in this Act to be functions and activities of the Commission, including in its role as National Rural Fire Authority:
-  (b) general control, within the framework of this Act, of the Fire Service and the functions and activities of the Fire Service:
-  (c) efficient administration of this Act:
-  (d) any other functions conferred on it by the Minister in accordance with section 112 of the Crown Entities Act 2004.
-
-### 17CA Responsibility in regard to conduct
-The Chief Executive is responsible to the Commission for ensuring that all employees maintain proper standards of integrity, conduct, and concern for the public interest.
-
-### 27 Chief Fire Officer and Deputy Chief Fire Officer
-(1) The Chief Executive must appoint a Chief Fire Officer and a Deputy Chief Fire Officer for each Fire District, who must be either—
-  (a) a member of the Fire Service; or
-  (b) a member of a volunteer brigade that has entered into an agreement for service under section 34.
-(2) An appointment as Chief Fire Officer or Deputy Chief Fire Officer may be held separately or in conjunction with any other office in the Fire Service.
-
-### 8C Provision of information
-(1) The Foundation must supply any information that the Minister requests to any person or class or classes of persons that the Minister specifies.
-(2) The Minister may request information to be supplied only if the supply of the information is necessary for the purposes of monitoring a ministerial scheme.
-(3) Subsection (1) does not limit section 133 of the Crown Entities Act 2004.
-(4) No member of the Foundation, and no officer or employee of the Foundation, who acts in accordance with a request or direction under this section is liable to any person under any other enactment or rule of law by reason of acting in accordance with that request or direction.
-
-### 237 Crown entity status
-(1) The Lotteries Commission is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(2) The Crown Entities Act 2004 applies to the Lotteries Commission except to the extent that this Act expressly provides otherwise.
-
-### 240 Board of Lotteries Commission
-(1) The board of the Lotteries Commission consists of 5 members.
-(2) Members of the Lotteries Commission are the board for the purposes of the Crown Entities Act 2004.
-
-### 21 Ability to delegate
-(1) The Lotteries Commission must not delegate—
-  (a) any power to borrow money that it may have under section 160 or section 162 of the Crown Entities Act 2004; or
-  (b) the power to make, alter, or rescind rules conferred by section 243.
-(2) This clause applies despite section 73 of the Crown Entities Act 2004.
-
-### 13A Property of Fund
-The Fund consists of—
-  (a) the property and liabilities vested in the Authority by section 21A of the Government Superannuation Fund Amendment Act 2001; and
-  (b) money payable into the Fund under section 14.
-
-### 19 Obligation to disclose interests
-Section 66 of the Crown Entities Act 2004 does not apply to a person who is interested in a matter only because he or she is a member of a company referred to in section 15B(6).
-
-### 39 Additional persons to whom delegation may be made
-The board may delegate any of the functions or powers of the board or the Authority to all or any of the following, despite section 73(1)(d) of the Crown Entities Act 2004:
-  (a) an administration manager:
-  (b) an investment manager:
-  (c) a custodian:
-  (d) a company established under section 15B(6) and to any employee of that company.
-
-### 15 Membership of Authority
-(1) The Authority must have no fewer than 6, and no more than 8, members.
-(2) Members of the Authority are the board for the purposes of the Crown Entities Act 2004.
-(3) Members of the Authority hold office for 5 years or any shorter period stated in the notice of appointment.
-(4) Subsection (3) applies despite section 32(1)(a) of the Crown Entities Act 2004.
-
-### 17 Restriction on Ministerial direction
-The Minister may not give a direction under section 104 of the Crown Entities Act 2004 that relates to the exercise of any power, duty, or function of the Authority under Part 5 of this Act.
-
-### 50 Meetings of Board
-Clauses 6 to 13 of Schedule 5 of the Crown Entities Act 2004 apply except that, despite clause 13 of that schedule, a resolution signed or assented to in writing, by members who together form a quorum, is as valid and effectual as if it had been passed at a meeting of the Board duly called and constituted.
-
-### 55 General rules as to delegation of functions or powers by Board
-(1) The rules about delegation in the Crown Entities Act 2004 apply to delegations by the Board.
-(2) However, the Board must not delegate the power to—
-  (a) execute a heritage covenant under section 6:
-  (b) declare an archaeological site under section 9(2):
-  (c) consent to an authority under section 14 where the costs of investigation exceed $100,000:
-  (d) confirm registration under section 30:
-  (e) change or remove a registration under section 37:
-  (f) acquire real property:
-  (g) dispose of real property:
-  (h) borrow money:
-  (i) adopt any statement of general policy under section 57:
-  (j) adopt any conservation plan under section 58.
-(3) Also, the Board must not delegate the power to give notice of requirement for a heritage order, or to grant interim registration under section 26, unless the delegation is one that must be jointly exercised by any 2 of the following persons, namely, the Chairperson, 1 of the members appointed by the Minister, or the chief executive officer.
-
-### 55A Additional powers of delegation in respect of Maori Heritage Council and branch committees
-(1) The Board may, by writing, delegate any of its functions or powers (except those referred to in section 55(2) or (3)) to—
-  (a) the Maori Heritage Council; or
-  (b) any branch committee of the Trust.
-(2) Clause 14(1)(b) of Schedule 5 of the Crown Entities Act 2004 does not limit subsection (1).
-(3) Subject to any general or special directions given by the Board, the Council or branch committee may exercise those powers in the same manner and with the same effect as if they had been conferred on the body directly by this Act and not by delegation.
-(4) A body to which a power has been delegated under this section may delegate the power only—
-  (a) with the prior written consent of the Board; and
-  (b) subject to the same restrictions, and with the same effect, as if the subdelegate were the delegate.
-(5) A body purporting to act in accordance with a delegation under this section—
-  (a) is, in the absence of proof to the contrary, presumed to be acting in accordance with the terms of the delegation; and
-  (b) must, if reasonably requested to do so, produce evidence of its authority to act in accordance with the delegation.
-(6) A delegation under this section is revocable at will, and does not prevent the exercise of any power by the Trust or the Board.
-
-### 96A Fees and travelling allowances in respect of Council
-The members of the Council are entitled to be paid, out of money appropriated by Parliament for the purpose, remuneration by way of fees or salary, and allowances and expenses, in accordance with the fees framework for members of statutory and other bodies.
-
-### 3AA Membership of Corporation
-(1) The Corporation must have at least 2, but no more than 8, members appointed under section 28(1)(a) of the Crown Entities Act 2004.
-(2) A person who is employed by a department of State responsible for advising the Minister on the Corporation's performance is disqualified from being a member.
-(3) Subsection (2) does not limit section 30 of the Crown Entities Act 2004.
-(4) Members of the Corporation are the board for the purposes of the Crown Entities Act 2004.
-
-### 19 Duty to act independently
-Except as expressly provided otherwise in this or another Act, the Commission must act independently in performing its statutory functions and duties, and exercising its statutory powers, under—
-  (a) this Act; and
-  (b) any other Act that expressly provides for the functions, powers, or duties of the Commission (other than the Crown Entities Act 2004).
-
-### 119 Fees of members of Tribunal
-(1) A member of the Tribunal is entitled—
-  (a) to receive remuneration not within paragraph (b) for services as a member at a rate and of a kind determined by the Minister in accordance with the fees framework; and
-  (b) in accordance with the fees framework, to be reimbursed for actual and reasonable travelling and other expenses incurred in carrying out his or her office as a member.
-(2) For the purposes of subsection (1), fees framework means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest.
-
-### 137 Advisors to be officials
-(1) Every person engaged by the Commission in connection with its work is an official for the purposes of sections 105 and 105A of the Crimes Act 1961.
-(2) This section does not limit section 135 of the Crown Entities Act 2004.
-
-### 139 Restriction on delegation
-(1) The Commission may not delegate the powers or functions in section 7 or section 76.
-(2) In other respects, section 73 of the Crown Entities Act 2004 applies.
-
-### 5 Application of Crown Entities Act 2004 to Director
-Sections 47 and 48 and 120 to 126 of the Crown Entities Act 2004 apply to the Director, with all necessary modifications, as if he or she were a member of the Commission.
-
-### 278 Annual financial statements
-(1) The Corporation must include in its annual report under section 150 of the Crown Entities Act 2004 annual financial statements for each Account.
-(2) Sections 154(3), 155, and 156 of the Crown Entities Act 2004 apply to the financial statements under subsection (1) with any necessary modifications.
-
-### 25 Additional persons to whom delegations can be made
-Despite section 73(1)(d) of the Crown Entities Act 2004, the Corporation need not obtain the approval of the Minister before delegating services provided under this Act to any person referred to in paragraph (d) of that section.
-
-### 67 Crown entity status
-(1) The Authority is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(2) The Crown Entities Act 2004 applies to the Authority except to the extent that this Act expressly provides otherwise.
-
-### 76 Crown entity status
-(1) Transit is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(2) The Crown Entities Act 2004 applies to Transit except to the extent that this Act expressly provides otherwise.
-
-### 84 Extra information to be included in statement of intent
-(1) Each entity must, if required by the Minister, include the following information in its statement of intent under section 139 of the Crown Entities Act 2004:
-  (a) in the case of the Authority, the matters set out in Part 1 of Schedule 5; and
-  (b) in the case of Transit, the matters set out in Part 2 of Schedule 5.
-(2) The Minister may direct each entity to amend any provision that is included in the statement of intent under this section, and section 147 of the Crown Entities Act 2004 applies accordingly.
-
-### 5 Social and environmental responsibility
-The entity's objectives include the entity's social and environmental responsibility for the purposes of section 49 of the Crown Entities Act 2004 (which relates to the collective board duty to act consistently with the entity's objectives).
-
-### 16 Meaning of interested
-Section 66 of the Crown Entities Act 2004 does not apply to a person who is interested in a matter only because he or she is a member of the board of both the Authority and Transit.
-
-### 3A Interpretation
-In this Act, unless the context otherwise requires,—
-  - **Commissioner** means a member of the Commission
-  - **organisation** means—
-    (a) an organisation named in Part 2 of Schedule 1 of the Ombudsmen Act 1975:
-    (b) an organisation named in Schedule 1 of the Official Information Act 1982:
-    (c) the Auditor-General
-  - **responsible Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act.
-
-### 9 Membership of Commission
-(1) The Law Commission must have no less than 3, and no more than 6, members.
-(2) Members of the Commission are the board for the purposes of the Crown Entities Act 2004.
-(3) The Governor-General must, on the recommendation of the responsible Minister, appoint 1 member of the Commission, who must be a Judge or retired Judge of the Court of Appeal or the High Court, or a barrister or solicitor of the High Court of not less than 7 years' practice, as the president of the Commission.
-(4) The president holds office as chairperson of the board for the purposes of the Crown Entities Act 2004 for the same term as he or she is president.
-(5) Clauses 1 to 4 of Schedule 5 of the Crown Entities Act 2004 do not apply to the Commission.
-
-### 63 Fees of members of Review Panel
-(1) A member of the Review Panel is entitled—
-  (a) to receive remuneration not within paragraph (b) for services as a member at a rate and of a kind determined by the Attorney-General in accordance with the fees framework; and
-  (b) in accordance with the fees framework, to be reimbursed for actual and reasonable travelling and other expenses incurred in carrying out his or her office as a member.
-(2) For the purposes of subsection (1), fees framework means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest.
-
-### 107 Fees of members of Public Advisory Committee
-(1) A member of the Public Advisory Committee or any subcommittee of the Public Advisory Committee is entitled—
-  (a) to receive remuneration not within paragraph (b) for services as a member at a rate and of a kind determined by the Minister in accordance with the fees framework; and
-  (b) in accordance with the fees framework, to be reimbursed for actual and reasonable travelling and other expenses incurred in carrying out his or her office as a member.
-(2) For the purposes of subsection (1), fees framework means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest.
-
-### 429A Membership of Authority
-(1) The Authority must have 5 members appointed under section 28(1)(a) of the Crown Entities Act 2004.
-(2) Members of the Authority are the board for the purposes of the Crown Entities Act 2004.
-(3) The Minister may only appoint as members persons who—
-  (a) are New Zealand citizens or permanent residents of New Zealand; and
-  (b) the Minister considers will represent the public interest in maritime matters.
-(4) Before appointing 2 of the members, the Minister must request, from such organisation or organisations as the Minister considers represent those who have a substantial interest in the maritime industry in New Zealand, the names of persons such organisation considers or organisations consider proper candidates for appointment to the Authority.
-(5) A person may not hold office as a member concurrently with any office or appointment under the Transport Accident Investigation Commission Act 1990.
-(6) Neither the Director nor any other employee of the Authority may be a member of the Authority.
-(7) This section does not limit sections 29 and 30 of the Crown Entities Act 2004.
-
-### 436 Extra information to be included in statement of intent
-(1) The Authority must include the following information in its statement of intent prepared under section 139 of the Crown Entities Act 2004:
-  (a) a statement of any new borrowings or financial leases, or similar liabilities the Authority intends to incur during that year; and
-  (b) a statement of the Authority's best estimate of—
-    (i) both the various impacts the outputs described in the statement of intent will have, and the consequences of those outputs, for a safe maritime system in New Zealand during the year to which the statement of intent relates; and
-    (ii) the impacts of those outputs on, and consequences of those outputs for, a safe maritime system in New Zealand for later years; and
-  (c) a statement of the Authority's assessment of the impact and consequences that the outputs will have for New Zealand's preparedness to respond to marine oil pollution.
-(2) The Minister may direct the Authority to amend any provision that is included in the statement of intent under this section, and section 147 of the Crown Entities Act 2004 applies accordingly.
-(3) No provision specifying any liabilities the Authority intends to incur may be included in a statement of intent without the concurrence of the Minister of Finance.
-
-### 442 Restriction on delegation of functions and powers by Authority
-(1) The Authority must not delegate any powers or functions delegated to the Authority by the Minister without the written consent of the Minister.
-(2) Sections 73 to 76 of the Crown Entities Act 2004 otherwise apply.
-
-### 9 Money
-(1) The Board may receive on behalf of the Museum any money paid to the Museum by the Crown or by any other person, and may allocate the money to the activities of the Museum in any manner that the Board thinks fit.
-(2) This section does not limit sections 16 and 17 of the Crown Entities Act 2004.
-
-### 17 Delegation of functions and powers
-(1) The Board must not delegate any power to borrow money that it may have under section 160 or section 162 of the Crown Entities Act 2004.
-(2) In other respects, section 73 of the Crown Entities Act 2004 applies.
-
-### 1 Meetings
-The Board must meet at least once in each financial year.
-
-### 8 Restriction on power of delegation
-(1) The Board may not delegate any power to borrow money that the Institute may have under sections 160 and 162 of the Crown Entities Act 2004.
-(2) In other respects, section 73 of the Crown Entities Act 2004 applies.
-
-### 21 Application of Crown Entities Act 2004 to DHBs
-(1) Each DHB is a Crown entity owned by the Crown for the purposes of section 7 of the Crown Entities Act 2004.
-(2) The Crown Entities Act 2004 applies to each DHB except to the extent that this Act expressly provides otherwise.
-(3) As provided elsewhere in this Act, the following sections of the Crown Entities Act 2004 do not apply to DHBs, or their boards, board members, committee members or employees:
-  (a) section 38 (removal of elected members):
-  (b) section 60(1) (applications by board members to restrain action):
-  (c) sections 62 to 72 (conflicts of interest):
-  (d) sections 73 to 76 (delegations):
-  (e) section 78 (provisions in Schedule 5):
-  (f) section 96 (acquisition of subsidiaries):
-  (g) section 100 (acquisition of shares or other interests):
-  (h) sections 116 and 117 (employment of employees and chief executives):
-  (i) sections 120 to 126 (immunities, indemnities, and insurance):
-  (j) section 161 (in relation to shares and interests covered by section 28):
-  (k) section 170(1) (in relation to any outputs covered by a Crown funding agreement):
-  (l) Schedule 5 (board procedure for statutory entities).
-
-### 27 Duties of board
-(1) The board of a DHB must ensure that the DHB acts in a manner consistent with the DHB's district strategic plan, annual plan, and any directions under section 33 of this Act or section 103 or section 107 of the Crown Entities Act 2004.
-(2) The duty in subsection (1)—
-  (a) applies in addition to the duties of the board in sections 49 to 52 of the Crown Entities Act 2004; and
-  (b) is a collective duty owed to the Minister for the purposes of section 58 of the Crown Entities Act 2004.
-(3) Despite section 60(1) of the Crown Entities Act 2004, a member of a board of a DHB may not apply for a court order under that section.
-
-### 32 Ministerial directions
-(1) Subpart 1 of Part 3 of the Crown Entities Act 2004 applies to the giving of Ministerial directions.
-(2) Without limiting subsection (1), the Minister may, under that Act, give a DHB any directions—
-  (a) that specify the persons who are eligible to receive services funded under this Act; and
-  (b) that the Minister considers necessary or expedient in relation to any matter relating to the DHB; and
-  (c) that are consistent with the objectives and functions of the DHB.
-(3) No direction may require the supply to any person of any information relating to an individual that would enable the identification of the individual.
-(4) Section 33, and not this section nor Part 3 of the Crown Entities Act 2004, applies to a direction that would more appropriately be given under section 33.
-
-### 61 Role of Board
-The board of an organisation has the role set out in section 25 of the Crown Entities Act 2004.
-
-### 67 Accountability documents under Crown Entities Act 2004
-The statements of intent, annual financial statements, and annual reports of an organisation under the Crown Entities Act 2004 must comply with any regulations made under section 92(1)(d) of this Act.
-
-### 14 Teleconferences
-(1) A meeting of a board may be held—
-  (a) by a quorum of the members, being assembled together at the time and place appointed for the meeting; or
-  (b) by means of audio, audio and visual, or electronic communication, provided that—
-    (i) all of the members who wish to participate in the meeting have access to the technology needed to participate in the meeting; and
-    (ii) a quorum of members can simultaneously communicate with each other throughout the meeting.
-(2) For the avoidance of doubt, all the provisions of this schedule relating to meetings of a board (including, without limitation, the requirement for public admission to meetings) apply to a meeting held in accordance with subclause (1)(b).
-
-### 45A Restrictions on giving of guarantees and indemnities and the use of derivatives
-(1) Sections 160 and 163 of the Crown Entities Act 2004 set out the circumstances in which a DHB may give a guarantee to, or indemnify, another person.
-(2) Sections 160 and 164 of the Crown Entities Act 2004 set out the circumstances in which a DHB may enter into or amend the terms of a derivative transaction.
-
-### 46 Investment
-Sections 160 and 161 of the Crown Entities Act 2004 (which relate to acquisition of securities) apply to a DHB subject to section 28.
-
-### 16 Teleconferences
-(1) A meeting of a committee may be held—
-  (a) by a quorum of the members, being assembled together at the time and place appointed for the meeting; or
-  (b) by means of audio, audio and visual, or electronic communication, provided that—
-    (i) all of the members who wish to participate in the meeting have access to the technology needed to participate in the meeting; and
-    (ii) a quorum of members can simultaneously communicate with each other throughout the meeting.
-(2) For the avoidance of doubt, all the provisions of this schedule relating to meetings of a committee (for example, the requirement for public admission to meetings) apply to a meeting held in accordance with subclause (1)(b).
-
-### 21 Disclosure of interests
-Section 66 of the Crown Entities Act 2004 does not apply to a person who is interested in a matter only because he or she is a member of the board of another organisation or of a DHB.
-
-### 29 Restriction on delegation
-(1) The Board may not delegate—
-  (a) the power of the Board to make determinations under sections 14 and 16B; or
-  (b) the fixing of fees and charges under section 7.
-(2) In other respects, section 73 of the Crown Entities Act 2004 applies.
-
-### 3 Method of appointment
-(1) The Governor-General appoints a member, despite section 28(1)(a) of the Crown Entities Act 2004.
-(2) Section 28(2) and (3) of that Act apply.
-
-### 6 Term of office
-A member holds office for 5 years or any shorter period stated in the notice of appointment, despite section 32(1) of the Crown Entities Act 2004.
-
-### 39 Additional persons to whom delegations can be made
-The board may delegate any of the functions or powers of the board or the entity to all or any of the following, despite section 73(1)(d) of the Crown Entities Act 2004:
-  (a) a person appointed to undertake the investment of any part of the Fund under section 62:
-  (b) a custodian.
-
-### 7 Orchestra is Crown entity
-(1) The Orchestra is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(2) The Crown Entities Act 2004 applies to the Orchestra except to the extent that this Act expressly provides otherwise.
-
-### 16 Independence of Orchestra
-The Minister may not give a direction to the Orchestra in relation to cultural matters.
-
-### 17 Collective duties of board
-(1) The board, acting collectively, must endeavour to ensure that the total operating costs of the Orchestra do not exceed its total operating revenues.
-(2) Subsection (1) does not limit the collective duties in the Crown Entities Act 2004.
-
-### 10 Annual report
-The New Zealand Tourism Board must include in its annual report required under section 150 of the Crown Entities Act 2004 a statement of the extent to which the impacts of the Board's outputs in that year and previous years on, and the consequences of those outputs for, the number of visitors to New Zealand during that year, and the amount of money they spent, matched the estimates contained in past statements (as finally approved by the Minister) under section 8(2).
-
-### 8 Crown entity status
-(1) NZTE is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(2) The Crown Entities Act 2004 applies to NZTE except to the extent that this Act expressly provides otherwise.
-(3) Members of NZTE are the board for the purposes of the Crown Entities Act 2004.
-
-### 4A Crown entity
-(1) The Authority is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(2) The Crown Entities Act 2004 applies to the Authority except to the extent that this Act expressly applies otherwise.
-(3) The person appointed as the Authority is the board for the purpose of section 10 of that Act.
-(4) The Authority is a corporation sole.
-
-### 4AB Independence
-Except as expressly provided in this or any other Act, the Authority must act independently in performing its statutory functions and duties, and exercising its statutory powers, under—
-  (a) this Act; and
-  (b) any other Act that expressly provides for the functions, powers, or duties of the Authority (other than the Crown Entities Act 2004).
-
-### 6 Power to remove or suspend Authority
-(1) Section 42 of the Crown Entities Act 2004 applies if the Authority or the Deputy Authority is a Judge.
-(2) Section 39 of the Crown Entities Act 2004 does not apply to the Authority or Deputy Authority.
-(3) Instead, the Authority or Deputy Authority may be removed for just cause by the Governor-General acting upon an address from the House of Representatives.
-(4) Just cause has the same meaning as in section 40 of the Crown Entities Act 2004.
-
-### 7A Application of Crown Entities Act 2004
-(1) Public Trust is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(2) The Crown Entities Act 2004 applies to Public Trust except to the extent that this Act expressly provides otherwise.
-(3) Sections 28(1), 29, 37, 96, 100, and 104 and Part 4 of the Crown Entities Act 2004 apply as if the reference in each of those provisions or Parts to the responsible Minister were replaced by a reference to the responsible Minister acting with the agreement of the Minister of Finance.
-
-### 14 Board of Public Trust
-The Board of the Public Trust must have no less than 5, and no more than 9, members.
-
-### 18 Delegations generally
-Sections 73(3) and 97(g) of the Crown Entities Act 2004 (which limit a Crown entity's ability to delegate statutorily independent functions to a Crown entity subsidiary) do not apply to Public Trust.
-
-### 46 Refusal of request to supply information
-(1) A request for information must be refused if the information is held by Public Trust in a fiduciary capacity.
-(2) Subsection (1) does not limit section 134 of the Crown Entities Act 2004.
-(3) Subsection (1) applies despite any other enactment or law.
-
-### 141 Limitation of liability
-The immunity in section 121 of the Crown Entities Act 2004 does not extend to any injury or loss occasioned by or arising out of any act or thing done or omitted by a person acting jointly with Public Trust in any of the offices or positions referred to in section 75(1), except to the extent that the Public Trust, or any board member, committee member, office holder, or employee of Public Trust has contributed to the injury or loss, or could by the exercise of reasonable diligence have averted it.
-
-### 16 Crown entity
-(1) The public radio company is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(2) The Crown Entities Act 2004 applies to the public radio company except to the extent that this Act expressly provides otherwise.
-
-### 13 Crown entity
-(1) The Retirement Commissioner is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(2) The Crown Entities Act 2004 applies to the Retirement Commissioner except to the extent that this Act expressly provides otherwise.
-(3) The Retirement Commissioner is the board for the purpose of section 10 of that Act.
-
-### 16 Delegation by Retirement Commissioner
-Despite section 73 of the Crown Entities Act 2004, the Retirement Commissioner must not delegate the power to appoint an attorney under section 129 of the Crown Entities Act 2004 without the prior written consent of the Minister.
-
-### 27 Restrictions on delegation
-(1) The Commission may not delegate the powers in sections 5(5), 44, 44A, 44B(2), 67, and 69.
-(2) In other respects, section 73 of the Crown Entities Act 2004 applies.
-
-### 102 Restriction on Ministerial direction
-The Minister may not give a direction under section 103 of the Crown Entities Act 2004 relating to the registration of social workers.
-
-### 107 Additional information in annual report
-In addition to the information required by section 151 of the Crown Entities Act 2004, the annual report of the Board under section 150 of that Act must include a report on any other matters affecting the social work profession that the Board thinks fit.
-
-### 143 Immunity of members and legal advisers of complaints assessment committees and other from civil liability to third parties
-Section 121(2) of the Crown Entities Act 2004 applies, with any necessary modifications, to a member of a complaints assessment committee and any legal adviser appointed to assist a complaints assessment committee as if he or she were an office holder.
-
-### 43 Restriction on delegation
-(1) The Board may not delegate its functions, duties, and powers relating to registration.
-(2) In other respects, section 73 of the Crown Entities Act 2004 applies.
-
-### 10 Restriction on directions
-The Minister may not give a direction to the Agency under section 103 of the Crown Entities Act 2004 in relation to the allocation of funds to, or for the benefit of, any persons, or in relation to a policy, practice, procedure, or decision, of the Agency regarding the allocation of funds to, or for the benefit of, any person.
-
-### 32 Good employer
-In addition to the matters in section 118(2) of the Crown Entities Act 2004, the personnel policy of the Agency must contain provisions requiring recognition of the aims and aspirations, and the cultural differences, of Pacific Island people and ethnic and minority groups.
-
-### 11 Additional powers of Council
-(1) The Council may make grants or advances of money, on any conditions that it thinks fit, or pay any fee or subscription, to any organisation or person with similar or related functions or carrying out work related to that of the Council.
-(2) This section does not limit sections 16 and 17 of the Crown Entities Act 2004.
-
-### 14 Delegation
-(1) The Panel may not delegate the powers in sections 31X, 32, and 45(1).
-(2) In other respects, section 73 of the Crown Entities Act 2004 applies.
-
-### 20 Application of Crown Entities Act 2004
-(1) TVNZ is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(2) The Crown Entities Act 2004 applies to TVNZ except to the extent that this Act expressly provides otherwise.
-
-### 6A Extra information to be included in statement of intent
-(1) The Commission must include the following information in its statement of intent under section 139 of the Crown Entities Act 2004:
-  (a) any new borrowings or financial leases or similar liabilities the Commission intends to incur during that year; and
-  (b) policies and priorities in exercising its discretion with respect to the investigation of accidents and incidents.
-(2) The Minister may direct the Commission to amend any provision that is included in the statement of intent under subsection (1)(a), and section 147 of the Crown Entities Act 2004 applies accordingly.
