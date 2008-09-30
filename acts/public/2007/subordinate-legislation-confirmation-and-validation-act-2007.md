@@ -1,5 +1,5 @@
 # Subordinate Legislation (Confirmation and Validation) Act 2007
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-09-30_
 
 ### 1 Title
 This Act is the Subordinate Legislation (Confirmation and Validation) Act 2007.
