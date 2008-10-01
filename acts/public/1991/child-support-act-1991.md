@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2008-10-01_
 
 > An Act—aTo assess the minimum level of financial support payable by certain parents in respect of their children; andbTo provide for the collection and payment of child support and spousal maintenance payments; andcTo make transitional arrangements relating to maintenance liabilities under the Social Security Act 1964 and the Family Proceedings Act 1980
 
@@ -3137,7 +3137,7 @@ In any proceeding under this Act the Court may make such order as to costs as it
     (iii)
   (d) The communication, to the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 or any officer of that department authorised in that behalf or the Secretary for War Pensions, of information relating to the amount of financial support paid by the Commissioner pursuant to Part 9 of this Act to any person whose income is required to be determined for the purposes of the Social Security Act 1964 or the Social Welfare (Transitional Provisions) Act 1990 or Part 6 of the War Pensions Act 1954 or the New Zealand Superannuation and Retirement Income Act 2001:
   (db) the communication, to the chief executive of the Ministry of Justice or any officer of the Ministry of Justice authorised in that behalf, of information for the purpose of carrying into effect subpart 4 of Part 5A:
-  (dc) the communication, to the Commissioner of Police or any member of the New Zealand Police authorised in that behalf, of information for the purpose of carrying into effect subpart 4 of Part 5A:
+  (dc) the communication, to the Commissioner of Police or any Police employee authorised in that behalf, of information for the purpose of carrying into effect subpart 4 of Part 5A:
   (e) The communication, to the chief executive of the Department for Courts or any officer of the Department for Courts authorised in that behalf, of information for the purposes of—
     (i) The enforcement outside New Zealand of—that arose under this Act or under the Family Proceedings Act 1980; or
       (A) Child support liabilities; or
