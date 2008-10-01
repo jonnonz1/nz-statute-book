@@ -1,5 +1,5 @@
 # District Courts Act 1947
-_Consolidation as at 2008-07-18_
+_Consolidation as at 2008-10-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to District Courts and the jurisdiction of District Court Judges in civil proceedings, and to make provision for the exercise of criminal jurisdiction under the Summary Proceedings Act 1957 in District Courts
 
@@ -256,12 +256,17 @@ Every Judge, by virtue of his office,—
 
 ### 17 Powers and duties of bailiffs
 (1) Every bailiff shall—
-  (a) Have the powers of a constable, and shall take the oath prescribed by the Summary Proceedings Act 1957 for special constables, or to the like effect, before any Justice:
+  (a) have the powers of a constable and take the oath in either of the forms set out in subsection (3) before any Justice:
   (b) Attend each sitting of the Court to which he is appointed for such time as is required, unless his presence is excused by the Court:
   (c) Serve all summonses and orders and execute all warrants issued out of any Court and coming to his hands for the purpose of service or execution, or may authorise any person to act for him in effecting any such service or execution:
   (d) Conform to all rules and regulations affecting the execution of his office, and in other respects be subject to the directions of the Judge or Registrar:
   (e) Be answerable for all acts and defaults of himself and those acting under him and by his authority, in like manner as any Sheriff in New Zealand is responsible for the acts and defaults of himself and his officers.
 (2) In executing any process of the Court the bailiff shall have such powers and be subject to such liabilities as a Sheriff has or is subject to in like cases in executing the process of the High Court.
+(3) The oath referred to in subsection (1)(a) is as follows:
+  English form
+  I, [name], swear that I will faithfully and diligently serve Her (or His) Majesty [specify the name of the reigning Sovereign, as in: Queen Elizabeth the Second], Queen (or King) of New Zealand, her (or his) heirs and successors, as a bailiff at [place], without favour or affection, malice or ill-will. While I hold this office I will, to the best of my power, keep the peace and prevent offences against the peace and will, to the best of my skill and knowledge, perform all the duties of the office of bailiff according to law. So help me God.
+  Māori form
+  Tēnei au, a [ingoa], e kī taurangi nei, ka rato pirihonga, urupū hoki ahau i Ia Arikinui [tohua te ingoa o te Arikinui kei runga i te torona, pērā ki a Kuini Irahāpeti te Tuarua], Kuini (Kīngi rānei) o Niu Tīreni, me ōna uri whakaheke, hei kaituku hāmene ki [wāhi] i roto i te kore tautoko, kore aroha rānei, kore mahi kino, kore whakaaro kino rānei. I te wā ke tēnei tūranga ahau ka pōkaikaha ahau ki te hohou i te rongo me te kaupare atu i nga mahi kotikoti i te rongo, ā, i roto i ōku tino pūkenga me ōku mōhio, ka whakatutuki i ngā mahi kua whakaritea hei mahi mā te kaituku hāmene, e ai ki te ture. Nō reira, āwhina mai i ahau e te Atua.
 
 ### 17A Sections 314A to 314D of Crimes Act 1961 inapplicable to bailiffs
 Sections 314A to 314D of the Crimes Act 1961 (which relate to a general power to stop vehicles) do not apply to any bailiff.
