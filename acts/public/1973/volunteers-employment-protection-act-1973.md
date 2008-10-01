@@ -1,5 +1,5 @@
 # Volunteers Employment Protection Act 1973
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-10-01_
 
 > An Act to make provision for the protection of the employment of volunteers to Her Majesty's Armed Forces
 
@@ -19,9 +19,9 @@ This Act may be cited as the Volunteers Employment Protection Act 1973.
   - **Employment Court** means the Employment Court constituted under the Employment Relations Act 2000
   - **Employment Relations Authority** means the Employment Relations Authority established under the Employment Relations Act 2000
   - **Labour Inspector** means a Labour Inspector designated under section 223 of the Employment Relations Act 2000
-  - **protected voluntary** service or training—
+  - **protected voluntary service or training** —
     (a) means voluntary service or training in the Armed Forces necessitating an absence from employment (other than during a period of holiday or leave to which the employee is entitled other than by virtue of this Act) for a period or periods of—
-      (i) whole-time service in the form of one or more periods of continuous service or training not exceeding in the aggregate 3 months in any training year with the Armed Forces; and
+      (i) whole-time service in the form of 1 or more periods of continuous service or training not exceeding in the aggregate 3 months in any training year with the Armed Forces; and
       (ii) part-time service in the form of annual, special, weekend, and evening service or training, not exceeding in the aggregate 3 weeks in any training year; and
     (b) includes—
       (i) any period or periods spent in travelling to and from any place of service or training:
@@ -30,7 +30,7 @@ This Act may be cited as the Volunteers Employment Protection Act 1973.
   - **reserve forces** has the meaning given to that term by section 2(1) of the Defence Act 1990
   - **State employee** means—
     (a) every person whose rate of remuneration is determined under the State Sector Act 1988:
-    (b) every person whose rate of remuneration is determined under any of the provisions of sections 67, 67A, 75, and 76 of the Police Act 1958:
+    (b) every person whose rate of remuneration is determined under any of the provisions of Part 4 of the Policing Act 2008:
     (c) every person employed in the State services whose remuneration is determined by the Remuneration Authority
   - **State services** has the meaning given to that term by section 2 of the State Sector Act 1988
   - **territorial forces** has the meaning given to that term by section 2(1) of the Defence Act 1990
@@ -46,7 +46,7 @@ This Act may be cited as the Volunteers Employment Protection Act 1973.
   (a) whether any employee has remained in the employment of the same employer during any period of time; or
   (b) whether any employee has resumed employment with the same employer,—
 
-### 3 Act to bind Crown
+### 3 Act to bind the Crown
 This Act shall bind the Crown.
 
 ### 3A Application of this Act to employees who have non-statutory rights to volunteers leave
@@ -67,13 +67,13 @@ This Act shall bind the Crown.
 
 ### 4 Employee deemed to have leave of absence from employment
 (1) Where any employee who is employed by any employer performs or undergoes any protected voluntary service or training for any period or periods, his employer shall be deemed to have granted him leave of absence for the period or periods:
-  Provided that, in the case of the employee's whole-time service, the leave of absence shall be deemed to extend for such further period from the end of that service, not exceeding 7 days, as the employee may require:
-  Provided also that, where in any case the employee is prevented by his sickness or by any other reasonable cause from resuming his employment at the end of any period or extended period of leave of absence hereinbefore provided for, the leave of absence shall be deemed to have been extended for such further period as may be reasonable.
+  provided that, in the case of the employee's whole-time service, the leave of absence shall be deemed to extend for such further period from the end of that service, not exceeding 7 days, as the employee may require:
+  provided also that, where in any case the employee is prevented by his sickness or by any other reasonable cause from resuming his employment at the end of any period or extended period of leave of absence hereinbefore provided for, the leave of absence shall be deemed to have been extended for such further period as may be reasonable.
 (2) Subject to the provisions of this Act as to holidays, the employer of any such employee shall not be obliged to pay him any remuneration for the period of leave of absence provided for by this section.
 
 ### 5 Resumption of employment after leave of absence
-Where any employee presents himself to his employer at or before the end of any period of leave of absence to which he is entitled under section 4 of this Act, the employer shall forthwith resume the employment of the employee in the occupation in which he was last employed before the leave of absence, and on terms and conditions not less favourable to him than those that would have been applicable to him if he had not performed or undergone the protected voluntary service or training:
-  Provided that, in the case of employment of a temporary, seasonal, or casual nature, this section shall not apply if, having regard to the general conditions applicable to the industry concerned, the employment of the employee would not normally have continued until the end of the period of leave of absence.
+Where any employee presents himself to his employer at or before the end of any period of leave of absence to which he is entitled under section 4, the employer shall forthwith resume the employment of the employee in the occupation in which he was last employed before the leave of absence, and on terms and conditions not less favourable to him than those that would have been applicable to him if he had not performed or undergone the protected voluntary service or training:
+  provided that, in the case of employment of a temporary, seasonal, or casual nature, this section shall not apply if, having regard to the general conditions applicable to the industry concerned, the employment of the employee would not normally have continued until the end of the period of leave of absence.
 
 ### 6 Workers not to be dismissed by reason of protected voluntary service or training
 [Repealed]
@@ -94,7 +94,7 @@ Nothing in section 7A(b)(ii)—
   (b) relieves an employee from any obligation under a superannuation scheme to pay contributions in respect of any period during which the employee is on leave under this Part.
 
 ### 8 Annual holidays
-(1) For the purpose of ascertaining the rights of any employee to annual or periodical holidays or leave with pay, and the obligations of his employer in relation thereto, whether under the Holidays Act 2003 or otherwise, where the time served by the employee in the employment of that employer is interrupted by the employee's protected voluntary service or training, the period of the leave of absence to which he is entitled under section 4 of this Act in respect of that service or training shall be deemed to be time served in that employment.
+(1) For the purpose of ascertaining the rights of any employee to annual or periodical holidays or leave with pay, and the obligations of his employer in relation thereto, whether under the Holidays Act 2003 or otherwise, where the time served by the employee in the employment of that employer is interrupted by the employee's protected voluntary service or training, the period of the leave of absence to which he is entitled under section 4 in respect of that service or training shall be deemed to be time served in that employment.
 (2) Where an employer is required to allow annual or periodical holidays or leave to any employee, the holidays or leave shall not, except at the request of the employee, be allowed at times comprised within any period of protected voluntary service or training.
 
 ### 9 Other holidays
@@ -103,17 +103,17 @@ Where any employee who is employed by any employer performs or undergoes any pro
 ### 10 Apprentices
 [Repealed]
 
-### 11 Workers to notify employers before commencing protected voluntary service or training
+### 11 Employees to notify employers before commencing protected voluntary service or training
 (1) Where any employee volunteers for any protected voluntary service or training which will necessitate his absence from work, he shall notify his employer thereof not less than 14 days before undertaking that service or training.
 (2) Every person who fails to comply in any respect with the foregoing provisions of this section shall not have his then current employment protected under this Act.
 
 ### 12 Applications for postponement of service or training
-(1) Where any employee volunteers for any protected voluntary service or training in the Armed Forces, the employer may apply to a person appointed by the chief executive under subsection (2) of this section for a postponement of that service or training upon the ground that the employee's volunteering for that service or training will cause undue hardship to the employer.
-(2) The chief executive may from time to time appoint such person or persons as he thinks fit, whether or not an officer or officers of the department, for the purpose of determining applications for postponement under this section. Any such person who holds no other appointment as an officer or employee of the State services within the meaning of the State Sector Act 1988 may be paid, out of money appropriated by Parliament for the purpose, remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly as if he were a member of a statutory Board within the meaning of that Act.
-(3) The person to whom any application for postponement is made under subsection (1) of this section may, after considering any statement of fact or any documentary or other evidence supplied to him or obtained by him,—
-  (a) Grant a postponement for such period as he thinks fit; or
-  (b) Dismiss the application.
-(4) Every determination by a person appointed under subsection (1) of this section shall be final.
+(1) Where any employee volunteers for any protected voluntary service or training in the Armed Forces, the employer may apply to a person appointed by the chief executive under subsection (2) for a postponement of that service or training upon the ground that the employee's volunteering for that service or training will cause undue hardship to the employer.
+(2) The chief executive may from time to time appoint such person or persons as he thinks fit, whether or not an officer or officers of the department, for the purpose of determining applications for postponement under this section. Any such person who holds no other appointment as an officer or employee of the State services within the meaning of the State Sector Act 1988 may be paid, out of money appropriated by Parliament for the purpose, remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly as if he were a member of a statutory board within the meaning of that Act.
+(3) The person to whom any application for postponement is made under subsection (1) may, after considering any statement of fact or any documentary or other evidence supplied to him or obtained by him,—
+  (a) grant a postponement for such period as he thinks fit; or
+  (b) dismiss the application.
+(4) Every determination by a person appointed under subsection (1) shall be final.
 
 ### 13 Proceedings may be taken by Labour Inspector
 [Repealed]
@@ -343,7 +343,7 @@ Nothing in this Act affects any redundancy payment payable pursuant to the provi
 (1) For the purposes of section 14Y(1), an employee is discriminated against in that employee's employment if the employee's employer or a representative of that employer, by reason directly or indirectly of any of the prohibited grounds of discrimination specified in section 14Y(1),—
   (a) refuses or omits to offer or afford to that employee the same terms of employment, conditions of work, fringe benefits, or opportunities for training, promotion, and transfer as are made available for other employees of the same or substantially similar qualifications, experience, or skills employed in the same or substantially similar circumstances; or
   (b) subjects that employee to any detriment, in circumstances in which other employees employed by that employer on work of that description are not or would not be subjected to such detriment.
-(2) For the purposes of this section, detriment —
+(2) For the purposes of this section, detriment—
   (a) includes anything that has a detrimental effect on the employee's employment, job performance, or job satisfaction; but
   (b) does not include termination of the employee's employment.
 
@@ -361,9 +361,9 @@ Nothing in this Act affects any redundancy payment payable pursuant to the provi
   (b) has, in contravention of section 14Y(1), terminated the employee's employment or given the employee notice terminating the employee's employment; or
   (c) has taken other action, or has omitted to do something, that affects, to the employee's disadvantage, the employee's rights and benefits in respect of volunteers leave; or
   (d) has, in contravention of section 14Y(1), discriminated against that employee in relation to his or her employment,—
-(2) A volunteers leave complaint to which this section applies may not be made—
+(2) A volunteers leave complaint to which this section applies may not be made—whichever is the later.
   (a) after the expiration of 26 weeks from the date on which the subject matter of the complaint arose; or
-  (b) after the expiration of 8 weeks from the expiry of any period of volunteers leave taken by the employee,—whichever is the later.
+  (b) after the expiration of 8 weeks from the expiry of any period of volunteers leave taken by the employee,—
 (3) The procedures provided in sections 14ZG to 14ZL may be used before or after the making of an interim order under section 14ZE.
 (4) A volunteers leave complaint to which this section applies is not a personal grievance within the meaning of the Employment Relations Act 2000.
 
@@ -392,7 +392,7 @@ It is the duty of every party to a volunteers leave complaint—
   (b) to abstain from any action that might impede the effective functioning of the procedures.
 
 ### 14ZK Remedies
-Where a volunteers leave complaint comes before the Employment Relations Authority, any determination of the Employment Relations Authority on that complaint may, if it includes a finding that any of the provisions of this Act have been breached by the employer, provide for any one or more of the following:
+Where a volunteers leave complaint comes before the Employment Relations Authority, any determination of the Employment Relations Authority on that complaint may, if it includes a finding that any of the provisions of this Act have been breached by the employer, provide for any 1 or more of the following:
   (a) the reinstatement of the employee in the employee's former position or in a position that is not less advantageous to the employee:
   (b) the reimbursement to the employee of a sum equal to the whole or any part of any wages lost by the employee:
   (c) the payment to the employee of compensation by the employer.
@@ -487,7 +487,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
 
 ### 14ZX Compensation for employers
 (1) Regulations made under section 14ZW may provide for payments, by way of compensation, to be made to employers whose employees, being employees to whom Part 3 applies, are granted leave under that Part.
-(2) The amount of the compensation that is payable to an employer, in respect of any one employee, is to be, in respect of the period during which the employee is on leave, an amount equal to the amount of the wages that the employer would be required to pay to that employee if that employee
+(2) The amount of the compensation that is payable to an employer, in respect of any 1 employee, is to be, in respect of the period during which the employee is on leave, an amount equal to the amount of the wages that the employer would be required to pay to that employee if that employee—
   (a) were a member of the class of workers entitled to the highest rates of minimum wages payable under the Minimum Wage Act 1983; and
   (b) were continuing to work for the employer in that period; and
   (c) were paid, for the work that the employee would usually perform in that period for the employer and for the days or hours or both during which that work would usually be performed in that period by the employee for the employer, wages at the rates applicable to the employee's work under the Minimum Wage Act 1983.
@@ -500,48 +500,47 @@ The Governor-General may from time to time, by Order in Council, make regulation
 Upon the commencement of this Act no person shall be under any further liability to perform or undergo compulsory military training or service, or to register, or to submit to medical examination, by reason of any liability that arose under the National Military Service Act 1961.
 
 ### 17 Consequential repeals and amendments
-(1) The enactments specified in the Schedule to this Act are hereby consequentially repealed.
+(1) The enactments specified in the Schedule are hereby consequentially repealed.
 (2)
-(3) Impliedly repealed.
+(3) Amendment(s) incorporated in the Act(s).
 (4) The Defence Act 1971 is hereby amended—
-  (a) By omitting from subsection (1) of section 39 the words the National Military Service Act 1961 and to:
+  (a) Amendment(s) incorporated in the Act(s).
   (b)
-  (c) By omitting from section 43 the words the National Military Service Act 1961 and of:
-  (d) By repealing so much of Schedule 2 as relates to the National Military Service Act 1961.
+  ((c), (d)) Amendment(s) incorporated in the Act(s).
 
 ## Schedule 1 — Enactments repealed
 
 ## Schedule 2 — Change of employer
 
 ### 1
-If a trade or business or an undertaking (whether or not it is an undertaking established by or under an Act) is transferred from one person to another (whether before or after the date of the commencement of the Volunteers Employment Protection Amendment Act 2004),—
-  (a) the period of employment of an employee in the trade or business or undertaking at the time of the transfer counts as a period of employment with the transferee; and
-  (b) the transfer does not break the continuity of the period of employment of any employee in the trade or business or undertaking; and
-  (c) any employer who employed any employee in the trade or business or undertaking at any time before the transfer and the transferee are deemed, in relation to the employee, to be the same employer.
+If a trade or business or an undertaking (whether or not it is an undertaking established by or under an Act) is transferred from 1 person to another (whether before or after the date of the commencement of the Volunteers Employment Protection Amendment Act 2004),—
+(a) the period of employment of an employee in the trade or business or undertaking at the time of the transfer counts as a period of employment with the transferee; and
+(b) the transfer does not break the continuity of the period of employment of any employee in the trade or business or undertaking; and
+(c) any employer who employed any employee in the trade or business or undertaking at any time before the transfer and the transferee are deemed, in relation to the employee, to be the same employer.
 
 ### 2
 If by or under any Act, whether passed before or after the date of the commencement of the Volunteers Employment Protection Amendment Act 2004, an employment agreement between any body corporate and an employee is modified and some other body corporate is substituted as the employer,—
-  (a) the employee's period of employment at the time when the substitution takes effect counts as a period of employment with the second-mentioned body corporate; and
-  (b) the substitution does not break the continuity of the period of employment of the employee; and
-  (c) the first-mentioned body corporate and the second-mentioned body corporate are deemed, in relation to the employee, to be the same employer.
+(a) the employee's period of employment at the time when the substitution takes effect counts as a period of employment with the second-mentioned body corporate; and
+(b) the substitution does not break the continuity of the period of employment of the employee; and
+(c) the first-mentioned body corporate and the second-mentioned body corporate are deemed, in relation to the employee, to be the same employer.
 
 ### 3
 If on the death of an employer an employee is taken into the employment of the personal representatives or trustees of the deceased (whether before or after the commencement of the Volunteers Employment Protection Amendment Act 2004),—
-  (a) the employee's period of employment at the time of the death counts as a period of employment with the employer's personal representatives or trustees; and
-  (b) the death does not break the continuity of the period of employment of the employee; and
-  (c) the employer and the employer's personal representatives or trustees are deemed, in relation to the employee, to be the same employer.
+(a) the employee's period of employment at the time of the death counts as a period of employment with the employer's personal representatives or trustees; and
+(b) the death does not break the continuity of the period of employment of the employee; and
+(c) the employer and the employer's personal representatives or trustees are deemed, in relation to the employee, to be the same employer.
 
 ### 4
 If there is a change (whether before or after the commencement of the Volunteers Employment Protection Amendment Act 2004) in the partners, personal representatives, or trustees who employ any employee,—
-  (a) the employee's period of employment at the time of the change counts as a period of employment with the partners, personal representatives, or trustees after the change; and
-  (b) the change does not break the continuity of the period of employment of the employee; and
-  (c) the partners, personal representatives, or trustees who employed the employee before the change and the partners, personal representatives, or trustees who employ the employee after the change are deemed, in relation to the employee, to be the same employers.
+(a) the employee's period of employment at the time of the change counts as a period of employment with the partners, personal representatives, or trustees after the change; and
+(b) the change does not break the continuity of the period of employment of the employee; and
+(c) the partners, personal representatives, or trustees who employed the employee before the change and the partners, personal representatives, or trustees who employ the employee after the change are deemed, in relation to the employee, to be the same employers.
 
 ### 5
 If (whether before or after the commencement of the Volunteers Employment Protection Amendment Act 2004) an employee of an employer is taken into the employment of another employer who, at the time when the employee enters that other employer's employment is an associated employer of the first-mentioned employer,—
-  (a) the employee's period of employment at that time counts as a period of employment with the associated employer; and
-  (b) the taking of the employee into the employment of the associated employer does not break the continuity of the period of employment; and
-  (c) the first-mentioned employer and the associated employer are deemed, in relation to the employee, to be the same employer.
+(a) the employee's period of employment at that time counts as a period of employment with the associated employer; and
+(b) the taking of the employee into the employment of the associated employer does not break the continuity of the period of employment; and
+(c) the first-mentioned employer and the associated employer are deemed, in relation to the employee, to be the same employer.
 
 ### 6
-For the purposes of clause 5 of this schedule, any 2 employers are to be treated as associated if one is a company of which the other (directly or indirectly) has control, or if both are companies of which a third person (directly or indirectly) has control; and the expression associated employer is to be construed accordingly.
+For the purposes of clause 5, any 2 employers are to be treated as associated if one is a company of which the other (directly or indirectly) has control, or if both are companies of which a third person (directly or indirectly) has control; and the expression associated employer is to be construed accordingly.
