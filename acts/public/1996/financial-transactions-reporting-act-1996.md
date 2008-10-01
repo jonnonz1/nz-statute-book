@@ -1,5 +1,5 @@
 # Financial Transactions Reporting Act 1996
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-10-01_
 
 > An Act to facilitate the prevention, detection, investigation, and prosecution of money laundering, and the enforcement of the Proceeds of Crime Act 1991, by—aImposing certain obligations on financial institutions in relation to the conduct of financial transactions; andbRequiring persons entering or leaving New Zealand to declare cash in excess of a prescribed amount;—and to provide for matters incidental thereto
 
@@ -311,11 +311,11 @@ Nothing in section 8 or section 9 of this Act requires the verification of the i
   (d) Be forwarded, in writing, to the Commissioner at Police National Headquarters at Wellington—
     (i) By way of facsimile transmission; or
     (ii) By such other means (including, without limitation, electronic mail or other similar means of communication) as may be agreed from time to time between the Commissioner and the financial institution concerned.
-(3) Notwithstanding paragraph (a) or paragraph (ca) or paragraph (d) of subsection (2) of this section, where the urgency of the situation requires, a suspicious transaction report may be made orally to any member of the Police authorised for the purpose by the Commissioner, but in any such case the financial institution shall, as soon as practicable, forward to the Commissioner a suspicious transaction report that complies with the requirements of subsection (2) of this section.
-(4) The Commissioner may confer the authority to receive a suspicious transaction report under subsection (3) of this section on any specified member of the Police or on members of the Police of any specified rank or class, or on any member or members of the Police for the time being holding any specified office or specified class of offices.
+(3) Notwithstanding paragraph (a) or paragraph (ca) or paragraph (d) of subsection (2) of this section, where the urgency of the situation requires, a suspicious transaction report may be made orally to any Police employee authorised for the purpose by the Commissioner, but in any such case the financial institution shall, as soon as practicable, forward to the Commissioner a suspicious transaction report that complies with the requirements of subsection (2) of this section.
+(4) The Commissioner may confer the authority to receive a suspicious transaction report under subsection (3) on any specified Police employee or on Police employees of any level of position, or on any Police employees for the time being holding any specified office or specified class of offices.
 
 ### 16 Auditors may report suspicious transactions
-Notwithstanding any other enactment or any rule of law, any person who, in the course of carrying out the duties of that person's occupation as an auditor, has reasonable grounds to suspect, in relation to any transaction,—may report that transaction to any member of the Police.
+Notwithstanding any other enactment or any rule of law, any person who, in the course of carrying out the duties of that person's occupation as an auditor, has reasonable grounds to suspect, in relation to any transaction,—may report that transaction to any Police employee.
   (a) That the transaction is or may be relevant to the investigation or prosecution of any person for a money laundering offence; or
   (b) That the transaction is or may be relevant to the enforcement of the Proceeds of Crime Act 1991,—
 
@@ -352,7 +352,7 @@ Without limiting section 17 of this Act, where,—then, notwithstanding that the
 
 ### 20 Suspicious transaction reports not to be disclosed
 (1) A financial institution that has made, or is contemplating making, a suspicious transaction report shall not disclose the existence of that report or, as the case requires, that the making of such a report is contemplated to any person except—
-  (a) The Commissioner or a member of the Police who is authorised by the Commissioner to receive the information; or
+  (a) The Commissioner or a Police employee who is authorised by the Commissioner to receive the information; or
   (b) An officer or employee or agent of the financial institution, for any purpose connected with the performance of that person's duties; or
   (c) A barrister or solicitor, for the purpose of obtaining legal advice or representation in relation to the matter; or
   (d) The Reserve Bank of New Zealand, for the purpose of assisting the Reserve Bank of New Zealand to carry out its functions under Part 5 of the Reserve Bank of New Zealand Act 1989.
@@ -370,7 +370,7 @@ Without limiting section 17 of this Act, where,—then, notwithstanding that the
     (ii) As a person who has prepared a suspicious transaction report; or
     (iii) As a person who has made a suspicious transaction report.
   (c) Any information that discloses or is reasonably likely to disclose the existence of a suspicious transaction report.
-(2) No member of the Police shall disclose any information to which this section applies except for one or more of the following purposes:
+(2) No Police employee shall disclose any information to which this section applies except for one or more of the following purposes:
   (a) The detection, investigation, and prosecution of—
     (i) Money laundering offences; and
     (ii) Any serious offence (within the meaning of section 243 of the Crimes Act 1961), in any case where any property (being property that is suspected of being connected with any money laundering transaction) is suspected of being the proceeds of that serious offence:
