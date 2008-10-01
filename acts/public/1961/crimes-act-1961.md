@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2008-06-26_
+_Consolidation as at 2008-10-01_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -17,7 +17,7 @@ _Consolidation as at 2008-06-26_
   - **Colour of right**
   - **Commonwealth country** means a country that is a member of the Commonwealth of Nations; and includes every territory for whose international relations the Government of any such country is responsible
   - **Commonwealth ship** means a ship registered or required to be registered in any Commonwealth country, or recognised by the law of any Commonwealth country as a ship belonging to that country; and includes any ship for the time being used as a ship of any of the armed forces of any Commonwealth country
-  - **Constable** includes any member of the Police
+  - **constable** has the meaning given in section 4 of the Policing Act 2008
   - **Crime** means an offence for which the offender may be proceeded against by indictment
   - **crime involving dishonesty** means any crime described in Part 10 except the crimes described in sections 267 to 272.
   - **Criminally responsible** means liable to punishment for an offence
@@ -2980,7 +2980,7 @@ Where evidence obtained by the interception of a private communication would, bu
 (4) On receiving a report under this section, the Judge may require such further information relating to the matter as the Judge thinks fit, and (in addition to any directions the Judge gives for the purposes of section 312J(3) of this Act) the Judge may give such directions as the Judge thinks desirable, whether relating to the retrieval of the interception device, or otherwise.
 
 ### 312Q Commissioner of Police to give information to Parliament
-The Commissioner of Police must include in every annual report prepared by the Commissioner for the purposes of section 65 of the Police Act 1958 the following information in respect of the period under review:
+The Commissioner of Police must include in every annual report prepared by the Commissioner for the purposes of section 101 of the Policing Act 2008 the following information in respect of the period under review:
   (a) The number of applications for warrants made under section 312B; and
   (b) The number of applications for warrants made under section 312CA; and
   (c) The number of applications for renewals of warrants made under section 312F; and
@@ -2991,6 +2991,7 @@ The Commissioner of Police must include in every annual report prepared by the C
     (ii) The number of warrants that authorised the use of an interception device to intercept private communications at specified premises or a specified place:
     (iii) The number of warrants that authorised entry onto private premises; and
   (g) The number of occasions on which telephonic communications were intercepted under an emergency permit granted under section 312G; and
+  (ga) the number of occasions on which the police used an interception device in reliance on section 216B(3)(b):
   (h) The average duration of warrants (including renewals); and
   (i) The number of prosecutions that have been instituted in which evidence obtained directly or indirectly from an interception carried out pursuant to a warrant or permit has been adduced, and the result of those prosecutions; and
   (j) The number of prosecutions that have been instituted against members of the Police (including former members of the Police where the prosecution relates to behaviour occurring while they were members of the Police) for—
@@ -3001,6 +3002,10 @@ The Commissioner of Police must include in every annual report prepared by the C
     (ii) the number of times the powers have been used:
     (iii) the circumstances in which the powers were used:
     (iv) the results of using the powers; and
+  (ka) in relation to road blocks authorised under section 317B,—
+    (i) the number of road blocks authorised; and
+    (ii) the reason for each authorisation; and
+    (iii) the number of persons (if any) arrested as a result of that authorisation; and
   (l) the number of warrants that did not result in any charges being laid within 90 days of the date on which the warrant expired.
 
 ## Part 12 — Procedure
@@ -3126,7 +3131,7 @@ Where any one is charged with any offence in respect of which the leave or conse
 (2) Any member of the Police may arrest without warrant any person whom the member of the Police has good cause to suspect has committed an offence against subsection (1).
 
 ### 317B Road blocks
-(1) Where any senior member of the Police (holding a rank not lower than sergeant) has reasonable grounds to suspect that there is in or on any vehicle any person who—that senior member of the Police may authorise the establishment of a road block for the purpose of arresting that person if he or she—
+(1) Where any senior member of the Police (holding a level of position not lower than sergeant) has reasonable grounds to suspect that there is in or on any vehicle any person who—that senior member of the Police may authorise the establishment of a road block for the purpose of arresting that person if he or she—
   (a) Has committed an offence punishable by a term of imprisonment of 7 years or more; or
   (b) Is unlawfully at large,—
   (c) Has reasonable grounds to suspect that the vehicle may travel past the place where it is proposed that the road block be established; and
