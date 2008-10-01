@@ -1,5 +1,5 @@
 # Tariff Act 1988
-_Consolidation as at 2008-06-06_
+_Consolidation as at 2008-10-01_
 
 > An Act to consolidate and amend the law relating to the imposition of tariff duty
 
@@ -92,6 +92,9 @@ Subject to this Act, the duty (if any) payable under the Normal Tariff shall be 
   (i) in the case of goods—at the rate so specified.
     (i) being the produce or manufacture of a specified TPA party; and
     (ii) being goods included in a Tariff item in respect of which a rate of duty is specified after the abbreviation TPA in the column headed Preferential Tariff,—
+  (j) in the case of goods—at the rate so specified.
+    (i) being the produce or manufacture of China; and
+    (ii) being goods included in a Tariff item in respect of which a rate of duty is specified after the abbreviation CN in the column headed Preferential Tariff,—
 (1A) For the purposes of subsection (1)(e)(i) of this section, any certificate given by the Secretary of Foreign Affairs and Trade to the effect that any country is or is not one in relation to which, at the time of the importation or entry of the goods into New Zealand, the South Pacific Regional Trade and Economic Co-operation Agreement was in force shall be conclusive evidence of that fact.
 (1B) Any Court or any person acting judicially to which or to whom, in any proceeding, any certificate under subsection (1A) of this section is produced shall take judicial notice of the signature on it of the Secretary of Foreign Affairs and Trade.
 (1C) For the purposes of subsection (1B) of this section, the terms Court, person acting judicially, and proceeding have the meanings assigned to them by the Evidence Act 1908.
@@ -168,8 +171,11 @@ For the purposes of this Act—
 
 ### 15A Interpretation
 In this section and sections 15B to 15H, unless the context otherwise requires,—
+  - **China FTA** means the Free Trade Agreement between the Government of New Zealand and the Government of the People's Republic of China done at Beijing on 7 April 2008
   - **directly competitive goods** , in relation to any goods, means goods that, as a matter of fact and commercial common sense, are substitutable for imported goods
-  - **free trade agreement** means the New Zealand-Thailand Closer Economic Partnership Agreement done at Bangkok on 19 April 2005
+  - **free trade agreement** means—
+    (a) the Thai FTA; or
+    (b) the China FTA
   - **industry** , in relation to any goods, means—
     (a) the New Zealand producers, as a whole, of like or directly competitive goods; or
     (b) the New Zealand producers of like or directly competitive goods whose collective output constitutes a major proportion of the total production of those goods
@@ -178,17 +184,18 @@ In this section and sections 15B to 15H, unless the context otherwise requires,�
     (b) in the absence of goods referred to in paragraph (a), goods that have characteristics closely resembling those goods
   - **provisional transitional safeguard measure** means a provisional transitional safeguard measure applied under section 15H
   - **serious injury** means a significant overall impairment in the position of a domestic industry
+  - **Thai FTA** means the New Zealand–Thailand Closer Economic Partnership Agreement done at Bangkok on 19 April 2005
   - **transitional safeguard measure** means a transitional safeguard measure applied under section 15F.
 
 ### 15B Chief executive may undertake transitional safeguard investigation
-(1) The chief executive may undertake a transitional safeguard investigation to ascertain whether goods that have been subject to tariff reduction or removal after the entry into force of the free trade agreement—
+(1) The chief executive may undertake a transitional safeguard investigation to ascertain whether goods that have been subject to tariff reduction or removal after the entry into force of a free trade agreement—
   (a) are being imported in increased quantities (in absolute terms or relative to domestic production); and
   (b) are causing, or threatening to cause, serious injury to an industry producing a like or directly competitive good.
 (2) The chief executive may undertake a transitional safeguard investigation—
   (a) either—
     (i) after receiving a written request by or on behalf of an industry concerned, if the chief executive is satisfied that the request contains evidence to justify the investigation; or
     (ii) on his or her own initiative; and
-  (b) only if the free trade agreement provides for the application of a transitional safeguard measure.
+  (b) only if the relevant free trade agreement provides for the application of a transitional safeguard measure.
 
 ### 15C Investigative procedures
 (1) Before any transitional safeguard investigation, the chief executive must specify administrative procedures for the conduct of transitional safeguard investigations that—
@@ -226,21 +233,25 @@ When the chief executive is investigating, for the purposes of section 15B, whet
   (b) at an earlier date (if any) specified by the Minister by notice in the Gazette.
 (4) The Minister must ensure that—
   (a) any transitional safeguard measure is applied only to the extent necessary to prevent or remedy serious injury and facilitate adjustment; and
-  (b) the nature, rate, extent, and duration of the transitional safeguard measure is consistent with New Zealand's international obligations as a party to the free trade agreement; and
-  (c) any transitional safeguard measure is consistent with the provisions of the free trade agreement; and
+  (b) the nature, rate, extent, and duration of the transitional safeguard measure is consistent with New Zealand's international obligations as a party to the relevant free trade agreement; and
+  (c) any transitional safeguard measure is consistent with the provisions of the relevant free trade agreement; and
   (d) any transitional safeguard measure is not inconsistent with New Zealand's other international obligations.
 (5) The Minister's decision to apply a transitional safeguard measure must be published as soon as practicable in the Gazette.
 (6) A transitional safeguard measure, in the form of a duty, applied under subsection (5) is due and payable on the demand of the Customs on and from the date on which the measure applies under subsection (2).
 
 ### 15G Extension of transitional safeguard measure
-The Minister may extend the transitional safeguard measure applied under section 15F if the extension is consistent with New Zealand's international obligations.
+The Minister may extend a transitional safeguard measure applied under section 15F if the extension is—
+  (a) consistent with the provisions of the relevant free trade agreement; and
+  (b) not inconsistent with New Zealand's other international obligations.
 
 ### 15H Provisional transitional safeguard measure
 (1) Following the initiation of an investigation under section 15B, the Minister may make a determination that there are grounds for applying a provisional transitional safeguard measure if he or she is satisfied that—
-  (a) goods that have been subject to tariff reduction or removal after the entry into force of the free trade agreement—
+  (a) goods that have been subject to tariff reduction or removal after the entry into force of the relevant free trade agreement—
     (i) are being imported in increased quantities (in absolute terms or relative to domestic production); and
     (ii) are causing, or threatening to cause, serious injury to an industry producing a like or directly competitive good; and
-  (b) there exist highly unusual and critical circumstances; and
+  (b) there exist,—
+    (i) in relation to a provisional transitional safeguard measure to be applied under the Thai FTA, highly unusual and critical circumstances; or
+    (ii) in relation to a provisional transitional safeguard measure to be applied under the China FTA, critical circumstances; and
   (c) the delay in applying a transitional safeguard measure under section 15F would cause serious injury to the industry which would be difficult to repair.
 (2) A provisional transitional safeguard measure applies on and from—
   (a) the date specified in the measure (which may be a date before, on, or after the date on which the determination is made); or
@@ -248,8 +259,8 @@ The Minister may extend the transitional safeguard measure applied under section
 (3) After making a determination under subsection (1), the Minister may apply a provisional transitional safeguard measure.
 (4) The Minister must ensure that—
   (a) any provisional transitional safeguard measure is applied only to the extent necessary to prevent or remedy serious injury and facilitate adjustment; and
-  (b) the nature, rate, extent, and duration of the provisional transitional safeguard measure is consistent with New Zealand's international obligations as a party to the free trade agreement; and
-  (c) any provisional transitional safeguard measure is consistent with the provisions of the free trade agreement; and
+  (b) the nature, rate, extent, and duration of the provisional transitional safeguard measure is consistent with New Zealand's international obligations as a party to the relevant free trade agreement; and
+  (c) any provisional transitional safeguard measure is consistent with the provisions of the relevant free trade agreement; and
   (d) any provisional transitional safeguard measure is not inconsistent with New Zealand's other international obligations.
 (5) The Minister's decision to apply a provisional transitional safeguard measure must be published as soon as practicable in the Gazette.
 (6) A provisional transitional safeguard measure, in the form of a duty, applied under subsection (3)—
@@ -288,7 +299,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
 
 ## Schedule 1 — The Tariff
 
-| “The Working Tariff Document of New Zealand” is not available on this website. For the latest version of “The Working Tariff Document of New Zealand” see www.customs.govt.nz. |
+| The Working Tariff Document of New Zealand is not available on this website. For the latest version of The Working Tariff Document of New Zealand see www.customs.govt.nz. |
 | --- |
 
 ## Schedule 2 — Enactments amended
