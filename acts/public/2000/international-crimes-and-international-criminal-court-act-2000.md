@@ -1,5 +1,5 @@
 # International Crimes and International Criminal Court Act 2000
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2008-10-01_
 
 ### 1 Title
 This Act is the International Crimes and International Criminal Court Act 2000.
@@ -295,7 +295,7 @@ Every person is liable on conviction on indictment to imprisonment for a term no
 (3) In this section, the New Zealand authorities are—
   (a) the Attorney-General:
   (b) the Minister:
-  (c) every member of the police:
+  (c) every Police employee:
   (d) every prison officer:
   (e) every employee of or contractor engaged by a New Zealand agency that is authorised to deal with the request.
 (4) Subsection (2) does not limit subsection (1).
@@ -529,9 +529,9 @@ After receiving a request under section 33, the District Court Judge must issue 
 A surrender order made under section 47 or a temporary surrender order made under section 49 must be in the prescribed form, if any, and must—
   (a) specify all the international crimes in relation to which the person is being surrendered; and
   (b) either—
-    (i) require the person in whose custody the person to be surrendered is being held (if the person is being held in custody) to release the person to be surrendered into the custody of a member of the police, or a prison officer; or
-    (ii) if the person to be surrendered is on bail, authorise any member of the police to take the person into custody; and
-  (c) authorise the police officer, or prison officer, as the case may be, to transport the person in custody and, if necessary or convenient, to detain the person in custody, for the purpose of enabling the person to be placed in the custody of a person who is, in the opinion of the Minister, duly authorised to receive the person to be surrendered in the name of and on behalf of the ICC; and
+    (i) require the person in whose custody the person to be surrendered is being held (if the person is being held in custody) to release the person to be surrendered into the custody of a Police employee, or a prison officer; or
+    (ii) if the person to be surrendered is on bail, authorise any Police employee to take the person into custody; and
+  (c) authorise the Police employee, or prison officer, as the case may be, to transport the person in custody and, if necessary or convenient, to detain the person in custody, for the purpose of enabling the person to be placed in the custody of a person who is, in the opinion of the Minister, duly authorised to receive the person to be surrendered in the name of and on behalf of the ICC; and
   (d) authorise the duly authorised person referred to in paragraph (c) to take the person to be surrendered into custody and transport the person out of New Zealand as soon as practicable to the ICC to be dealt with there according to law.
 
 ### 54 Surrender to State of enforcement
@@ -744,7 +744,7 @@ To avoid doubt, the discharge of a person under any provision of this Part does 
 ### 77 Search and seizure on arrest
 (1) If a person is arrested on a warrant issued under this Part, a member of the police may search, without further warrant, the person arrested and may seize any thing, including any sum of money, found on the person or in the person's possession if the member of the police believes on reasonable grounds that the thing on the person or in the person's possession may be evidence as to the commission of any offence in relation to which the warrant to arrest was issued or for which the surrender of the person is sought by the ICC.
 (2) If there is no suitable searcher available at the place where the search is to take place, the person to be searched may be taken to another place to be searched.
-(3) Nothing in this section limits or affects the right at common law of a constable to search a person on that person's arrest or any power under section 57A of the Police Act 1958.
+(3) Nothing in this section limits or affects the right at common law of a constable to search a person on that person's arrest or any power under section 37 of the Policing Act 2008.
 (4) If any thing is seized under subsection (1) from the person arrested,—
   (a) the member of the police must make a report to the Minister specifying the items seized and any other relevant information:
   (b) the Minister must, on receipt of the report referred to in paragraph (a), provide the ICC with a report on the seizure.
@@ -949,7 +949,7 @@ To avoid doubt, the discharge of a person under any provision of this Part does 
 (2) If the Attorney-General authorises the temporary transfer of the prisoner to the ICC, the Attorney-General may—
   (a) direct that the prisoner be released from the prison in which that person is detained, for the purpose of the transfer to the ICC; and
   (b) make arrangements for the prisoner to travel to the ICC in the custody of—
-    (i) a member of the police; or
+    (i) a Police employee; or
     (ii) a prison officer; or
     (iii) a person authorised for the purpose by the ICC.
 (3) A direction given by the Attorney-General under subsection (2) in respect of a prisoner is sufficient authority for the release of the prisoner from the prison in which the prisoner is detained, for the purposes of the direction.
@@ -1417,7 +1417,7 @@ If the High Court registers an order under section 128, the Court may direct the
 
 ### 141 Prisoner to be held in custody
 (1) If the Minister accepts the designation of New Zealand as the State in which a sentence of imprisonment imposed by the ICC is to be served, the ICC prisoner may be transported to New Zealand in the custody of—
-  (a) a member of the police; or
+  (a) a Police employee; or
   (b) a prison officer; or
   (c) a person authorised for the purpose by the ICC.
 (2) On arrival in New Zealand or, if the person is already in New Zealand when the sentence is imposed, on the imposition of the sentence, the ICC prisoner must be detained in accordance with the Corrections Act 2004 as if the prisoner had been sentenced to imprisonment under New Zealand law.
@@ -1450,7 +1450,7 @@ The order for detention issued by the Minister under section 140(2) is sufficien
   (b) the chief executive of the Department of Corrections:
   (c) the chief executive of the Department of Labour.
 (4) On the giving of a direction under subsection (2), the prisoner may be transported to the ICC and, if necessary, from the ICC in the custody of—
-  (a) a member of the police; or
+  (a) a Police employee; or
   (b) a prison officer; or
   (c) a person authorised for the purpose by the ICC.
 
@@ -1466,7 +1466,7 @@ The order for detention issued by the Minister under section 140(2) is sufficien
 
 ### 146 Transfer of prisoner to another State to complete sentence
 If an ICC prisoner of any nationality is to be transferred from New Zealand to another State to complete that sentence, the prisoner may be transported from New Zealand to that State in the custody of—
-  (a) a member of the police; or
+  (a) a Police employee; or
   (b) a prison officer; or
   (c) a person authorised for the purpose by the ICC.
 
@@ -1536,9 +1536,9 @@ The Minister must cancel the certificate issued under section 150 and make a rem
 ### 153 Removal order
 (1) A removal order made by the Minister under this section—
   (a) may either—
-    (i) require the person who is the subject of the order to be released into or taken into the custody of a member of the police; or
-    (ii) if the person is not in custody, authorise any member of the police to take the person into custody; and
-  (b) must specify that the person is to be taken by a member of the police and placed on board any craft for the purpose of effecting the person's removal from New Zealand; and
+    (i) require the person who is the subject of the order to be released into or taken into the custody of a Police employee; or
+    (ii) if the person is not in custody, authorise any Police employee to take the person into custody; and
+  (b) must specify that the person is to be taken by a Police employee and placed on board any craft for the purpose of effecting the person's removal from New Zealand; and
   (c) may authorise the detention in custody of the person while awaiting removal from New Zealand.
 (2) The removal order must be served on the person named in the order by personal service.
 (3) If the removal order authorises the detention of the person in custody, the person may be detained—
