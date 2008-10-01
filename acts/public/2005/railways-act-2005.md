@@ -1,5 +1,5 @@
 # Railways Act 2005
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-10-01_
 
 ### 1 Title
 This Act is the Railways Act 2005.
@@ -34,8 +34,8 @@ The purpose of this Act is to—
     (b) in relation to any other body corporate, means a person occupying a position in, or in relation to, the body corporate that is comparable with that of a person who is a director of a company within the meaning of paragraph (a)
   - **enforcement officer** —
     (a) means any of the following:
-      (i) a sworn member of the police:
-      (ii) a non-sworn member of the police who is authorised by the Commissioner to be an enforcement officer for the purposes of the Land Transport Act 1998:
+      (i) a constable:
+      (ii) a Police employee who is not a constable who is authorised by the Commissioner to be an enforcement officer for the purposes of the Land Transport Act 1998:
       (iii) a person who is appointed as an enforcement officer or a dangerous goods enforcement officer for the purposes of the Land Transport Act 1998 by warrant under section 208 of that Act or who holds that office by virtue of that Act:
       (iv) a person who is appointed as an enforcement officer by warrant under section 102 or who holds that office by virtue of this Act; but
     (b) does not include a safety assessor
@@ -69,7 +69,7 @@ The purpose of this Act is to—
   - **rail activities** has the meaning specified in subsection (2)
   - **rail document** means a document that a rail participant or any rail personnel is required to hold under this Act; and includes a licence
   - **rail operator** means a person who provides or operates a rail vehicle, whether or not that person engages rail personnel to do so or to assist in doing so on its behalf; but does not include those rail personnel
-  - **rail participant** means any of the following
+  - **rail participant** means any of the following:
     (a) an infrastructure owner:
     (b) a rail vehicle owner:
     (c) a railway premises owner:
@@ -173,8 +173,8 @@ This Act binds the Crown.
 
 ### 8 Relationship of Act with Health and Safety in Employment Act 1992
 (1) Nothing in this Act limits the Health and Safety in Employment Act 1992.
-(2) Despite subsection (1), the Agency and the Department must enter into a memorandum of understanding with respect to investigations conducted and prosecutions taken under this Act or the Health and Safety in Employment Act 1992.
-(3) For the purposes of this section, Department has the same meaning as in section 2(1) of the Health and Safety in Employment Act 1992.
+(2) Despite subsection (1), the Agency and the department must enter into a memorandum of understanding with respect to investigations conducted and prosecutions taken under this Act or the Health and Safety in Employment Act 1992.
+(3) For the purposes of this section, department has the same meaning as in section 2(1) of the Health and Safety in Employment Act 1992.
 
 ### 9 General safety duties of other persons
 (1) Every person on or near a rail vehicle, railway infrastructure, or railway premises commits an offence who fails to take all practicable steps to ensure that no individual dies or is seriously injured, and that no property is significantly damaged, as a result of any act or omission of that person.
@@ -450,7 +450,7 @@ A licence may not be transferred or assigned to any person without the prior wri
     (iii) rail personnel carrying out safety-critical tasks and activities have received appropriate training and instruction; and
     (iv) the competence of rail personnel carrying out safety-critical tasks and activities has been appropriately tested; and
     (v) working practices and procedures are fit for their purpose:
-  (h) the arrangements for procuring and maintaining evidence to ensure that the measures and processes necessary for safety are working as intended, including (but not limited to)
+  (h) the arrangements for procuring and maintaining evidence to ensure that the measures and processes necessary for safety are working as intended, including (but not limited to)—
     (i) the identification of the key safety performance factors and measures, including (but not limited to) accidents and incidents; and
     (ii) the monitoring and recording of, and reporting on (both internally and to the Agency), the key safety performance factors and measures, including (but not limited to) accidents and incidents; and
     (iii) the regular supervision, inspection, monitoring, and audit of the rail participant's safety case, safety system, and licence conditions; and
@@ -874,9 +874,9 @@ If a body corporate is convicted of an offence against this Act, every director 
 ### 69 Procedure
 (1) An appeal under section 68 must be brought, by way of an originating application, no later than 28 days after the date on which the appellant was notified under this Act of the decision appealed against, or within any further period that the District Court may allow.
 (2) When considering an appeal under section 68,—
-  (a) a District Court may hear all evidence tendered and representations made by, or on behalf of, any party to the appeal that the Court considers relevant to the appeal, whether or not that evidence would be otherwise admissible in the Court; and
-  (b) the Court may—
-    (i) confirm, reverse, or modify the decision appealed against, make the orders, and give the directions to the Agency that may be necessary to give effect to the Court's decision; or
+  (a) a District Court may hear all evidence tendered and representations made by, or on behalf of, any party to the appeal that the court considers relevant to the appeal, whether or not that evidence would be otherwise admissible in the court; and
+  (b) the court may—
+    (i) confirm, reverse, or modify the decision appealed against, make the orders, and give the directions to the Agency that may be necessary to give effect to the court's decision; or
     (ii) refer the matter back to the Agency with directions to reconsider the whole or any part of the matter; and
   (c) subject to this section, an appeal must be made and determined in accordance with the District Courts Act 1947 and the rules of the District Court made under that Act.
 (3) Subject to sections 71 and 72, the decision of the District Court on an appeal under section 68 is final.
@@ -909,13 +909,13 @@ A decision of the Agency appealed against under section 68 or section 71 or sect
   (e) interfere with or divert a ditch, drain, or watercourse in a manner that damages any railway infrastructure or railway premises; or
   (f) fell or remove a tree, shrub, or timber growing on any railway infrastructure or railway premises; or
   (g) interfere with or damage a rail vehicle or container or other property carried on a railway; or
-  (h) interfere with, change, or move a building, structure, or property in a manner that causes damage to railway infrastructure or railway premises; or—
+  (h) interfere with, change, or move a building, structure, or property in a manner that causes damage to railway infrastructure or railway premises; or
   (i) cause or procure to be done any of the acts specified in paragraphs (a) to (h).
 (2) A person must not enter any railway infrastructure or railway premises,—
   (a) in the case of railway infrastructure, without the express authority of the appropriate licensed access provider; and
   (b) in the case of railway premises, without the express or implied authority of the appropriate railway premises manager.
 (3) The owner of stock, or a person in charge of stock, must prevent the stock from trespassing on a railway or on any part of a railway.
-(4) If stock is found trespassing on a railway.—
+(4) If stock is found trespassing on a railway,—
   (a) rail personnel may impound that stock:
   (b) the relevant rail participant, or its rail personnel, may, in respect of that stock, exercise any of the functions or powers conferred on an occupier of land by the Impounding Act 1955 (and the provisions of that Act, except section 26(1), apply accordingly).
 (5) The provisions of this section are in addition to, and not in substitution for, the provisions of the Trespass Act 1980.
@@ -1022,8 +1022,8 @@ A decision of the Agency appealed against under section 68 or section 71 or sect
     (i) no person may erect gates that enclose the railway line; and
     (ii) that cattle stop may not be between the gate and the railway line if there are gates connected with the fencing that encloses the railway line:
   (d) if a gate is erected in contravention of this Act, the licensed access provider for the railway line, or a person authorised for this purpose by the licensed access provider,—
-  (i) may remove the gate; and
-  (ii) may, by giving notice in accordance with section 78, recover the cost of removing the gate from the person who erected it.
+    (i) may remove the gate; and
+    (ii) may, by giving notice in accordance with section 78, recover the cost of removing the gate from the person who erected it.
 (2) Despite section 4(1), for the purposes of subsection (1)(c), level crossing includes private roads.
 
 ### 83 Maintenance of crossings
@@ -1055,7 +1055,7 @@ Except to the extent that a deed or agreement provides otherwise, no person has 
 (2) A person who exercises, or purports to exercise, the right of entry must carry and be able to produce, if required to do so, evidence of—
   (a) his or her identity; and
   (b) his or her authorisation to act on behalf of the licensed access provider.
-(3) In this section, ordinary hours of business means the hours of 8 am to 6 pm from Monday to Friday.
+(3) In this section, ordinary hours of businessmeans the hours of 8 am to 6 pm from Monday to Friday.
 
 ### 87 Maintenance of railway infrastructure on roads
 (1) A licensed access provider may maintain railway infrastructure in, on, along, over, across, or under a road, and, for this purpose, may—
@@ -1189,7 +1189,7 @@ All fees and other money (not being fines, infringement fees, or other penalties
 
 ### 101 Infringement fees
 (1) The infringement fee payable in respect of an infringement offence is the appropriate infringement fee prescribed in respect of that infringement offence under this Act.
-(2) If an infringement fee is paid to an enforcement authority other than the police, the enforcement authority must give the Commissioner of Police the particulars of the payment and the relevant infringement offence as the Commissioner of Police requires.
+(2) If an infringement fee is paid to an enforcement authority other than the Police, the enforcement authority must give the Commissioner of Police the particulars of the payment and the relevant infringement offence as the Commissioner of Police requires.
 (3) All infringement fees received under this Act by an enforcement authority, or recovered under the Summary Proceedings Act 1957 in respect of an infringement offence under this Act, must be paid into the Crown Bank Account.
 (4) Despite subsection (3), the enforcement authority may retain the portion of the infringement fees so received that the Minister of Finance approves as being the expenses incidental to their collection.
 (5) For the purposes of subsection (4), the Minister of Finance may approve the retention of different portions of different infringement fees.
@@ -1274,7 +1274,7 @@ A safety audit report must be completed as if the relevant provisions of the Tra
 ### 110 Court proceedings under Transport Services Licensing Act 1989
 A proceeding commenced under a provision of the Transport Services Licensing Act 1989 that is pending or in progress immediately before the repeal of that provision by this Act may be continued, completed, or enforced (as the case may require) as if that provision had not been repealed.
 
-### 111 Application of Transport Services Licensing Regulations 1989 to licences issued under this Act
+### 111 Application of Transport Services Licensing Act 1989 to licences issued under this Act
 (1) The Transport Services Licensing Regulations 1989 apply, with all necessary modifications, to licences issued under this Act, except that—
   (a) regulations 4 and 5 must be read as if every reference to a transport service licence issued under the Transport Services Licensing Act 1989 were a reference to a licence to carry out rail activities issued under this Act:
   (b) regulation 7A must be read as if the reference to a rail service licence were a reference to a licence to carry out activities as an access provider or rail operator under this Act:
@@ -1286,22 +1286,5 @@ A proceeding commenced under a provision of the Transport Services Licensing Act
 (3) This section expires on a date specified by Order in Council.
 
 ## Schedule 1 — Acts consequentially amended
-
-### 213A Public right of way at level crossings
-(1) At a level crossing, the public right of way at the crossing—
-  (a) ceases whenever a rail vehicle on the railway line is approaching and is within a distance of 800 m from the crossing; and
-  (b) at all other times, extends only to the right of crossing the railway line with all convenient speed, but not to stopping or remaining on it.
-(2) In this section, level crossing has the same meaning as in section 4(1) of the Railways Act 2005.
-
-### 341A Contribution to cost of railway, subway, or bridge
-(1) A controlling authority or local authority, or any 2 or more of those authorities, may agree with an infrastructure owner to—
-  (a) the construction and maintenance by the infrastructure owner of a subway under, or a bridge over, a railway, or a railway bridge over a road, that is within the district of the controlling authority or local authority; and
-  (b) the payment by the controlling authority or local authority of the whole or part of the cost of that construction and maintenance.
-(2) An agreement may be entered into with respect to any existing or proposed subway or bridge.
-(3) A controlling authority or local authority that is authorised by this section to pay in whole or in part the cost of the construction of a subway, bridge, or railway bridge may agree with an infrastructure owner (and is deemed to always have had the power to agree) that—
-  (a) the payment must be made by instalments extending over a period of not more than 10 years; and
-  (b) interest at a rate agreed on (if any) must be paid on any unpaid balance of that cost.
-(4) Every controlling authority and local authority has all the powers that are reasonably necessary or expedient to enable them to carry out functions or duties conferred or imposed under section 83 of the Railways Act 2005 or this section, including (without limitation) the power to enter into agreements with an infrastructure owner to provide for the maintenance of any footbridge or pedestrian subway.
-(5) In this section, infrastructure owner has the same meaning as in section 4(1) of the Railways Act 2005.
 
 ## Schedule 2 — Regulations consequentially amended
