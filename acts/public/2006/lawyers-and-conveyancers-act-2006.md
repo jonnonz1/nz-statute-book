@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2008-08-04_
+_Consolidation as at 2008-10-01_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -81,10 +81,10 @@ In this Act, unless the context otherwise requires,—
   - **Crown entity** has the meaning given to it by section 7(1) of the Crown Entities Act 2004
   - **Crown organisation** means a Crown entity, department, or government-related organisation
   - **department** has the meaning given to it by section 2(1) of the Public Finance Act 1989
-  - **director** , in relation to an incorporated firm, means a director as defined in section 126 of the Companies Act 1993
   - **direct supervision** has,—
     (a) in relation to a lawyer who provides regulated services, the meaning given to it by the practice rules of the New Zealand Law Society; and
     (b) in relation to a conveyancing practitioner who provides regulated services, the meaning given to it by the practice rules of the New Zealand Society of Conveyancers
+  - **director** , in relation to an incorporated firm, means a director as defined in section 126 of the Companies Act 1993
   - **Disciplinary Tribunal** means the New Zealand Lawyers and Conveyancers Disciplinary Tribunal established by section 226
   - **document** , in relation to a practitioner, includes—
     (a) any paper, deed, security, or instrument (including a negotiable instrument); and
@@ -94,7 +94,7 @@ In this Act, unless the context otherwise requires,—
     (e) any information recorded or stored by means of any tape-recorder, computer, or other device, and any material subsequently derived from information so recorded or stored
   - **employee** includes,—
     (a) in relation to the New Zealand Defence Force, a member of the Armed Forces; and
-    (b) in relation to the Police of New Zealand, a member of the police
+    (b) in relation to the Police of New Zealand, a constable
   - **employer organisation** means an organisation—
     (a) whose members consist of employers; and
     (b) whose purpose is or includes the promotion of the interests of its members as employers
@@ -108,7 +108,7 @@ In this Act, unless the context otherwise requires,—
     (b) whose purpose is or includes the promotion of—
       (i) the professional standards of its members; and
       (ii) the interests of its members in their capacity as health practitioners
-  - **High Court** means the High Court of New Zealand; and includes a Judge of that Court
+  - **High Court** means the High Court of New Zealand; and includes a Judge of that court
   - **incorporated conveyancing firm** means, subject to sections 15 and 16, a company that—
     (a) provides to the public services that are, in relation to a conveyancing practitioner, regulated services; and
     (b) has as its directors no persons other than conveyancing practitioners who are actively involved in the provision by the body corporate of regulated services; and
@@ -211,7 +211,7 @@ In this Act, unless the context otherwise requires,—
     (c) any person who—
       (i) employs the practitioner to provide regulated services to the public; or
       (ii) is a director or shareholder of an incorporated law firm or incorporated conveyancing firm in which the practitioner practices
-  - **relative** , in relation to a conveyancing practitioner or lawyer, means, for the purposes of the definitions in this section of incorporated conveyancing firm and incorporated law firm, any of the following
+  - **relative** , in relation to a conveyancing practitioner or lawyer, means, for the purposes of the definitions in this section of incorporated conveyancing firm and incorporated law firm, any of the following:
     (a) a spouse, civil union partner, or de facto partner of the conveyancing practitioner or lawyer:
     (b) a parent or grandparent of the conveyancing practitioner or lawyer:
     (c) a step-parent of the conveyancing practitioner or lawyer:
@@ -574,7 +574,7 @@ A person who, in contravention of section 21, acts as a barrister or as a solici
 (3) Despite subsection (2), if,—that lawyer is not entitled to practise on his or her own account as a barrister and solicitor or as a barrister until he or she has received adequate instruction to the satisfaction of the Council of the New Zealand Law Society in the duties of a barrister and solicitor or of a barrister, as the case may require.
   (a) in the case of a lawyer to whom subsection (2)(a) applies, more than 10 years have elapsed since that lawyer last practised on his or her own account as a solicitor or as a barrister and solicitor; or
   (b) in the case of a lawyer to whom subsection (2)(b) applies, more than 10 years have elapsed since that lawyer last practised on his or her own account as a barrister,—
-(4) Section 30 does not restrict the right of a lawyer who is not entitled to practise on his or her own account, to act in any community law centre whose employing body comprises one or more lawyers qualified to practise on his or her own account, under the direct supervision of a lawyer qualified to practise on his or her own account and employed by that community law centre, or with the approval of the Legal Services Agency.
+(4) Section 30 does not restrict the right of a lawyer who is not entitled to practise on his or her own account, to act in any community law centre whose employing body comprises 1 or more lawyers qualified to practise on his or her own account, under the direct supervision of a lawyer qualified to practise on his or her own account and employed by that community law centre, or with the approval of the Legal Services Agency.
 
 **Conveyancing services**
 
@@ -778,7 +778,7 @@ A certificate purporting to be signed by the executive director of the New Zeala
 (1) A candidate seeking admission on the ground that he or she is qualified under section 49(2) or (3) must apply to the High Court in accordance with this Act and with any rules made under this Act.
 (2) The High Court must make an order admitting the candidate as a barrister and solicitor of the High Court if—
   (a) the High Court is satisfied that the candidate is qualified for admission under section 49(2) or (3); and
-  (b) the candidate has taken the following oath:I, AB, swear that I will truly and honestly conduct myself in the practice of a barrister and solicitor according to the best of my knowledge and ability.
+  (b) the candidate has taken the following oath:“I, AB, swear that I will truly and honestly conduct myself in the practice of a barrister and solicitor according to the best of my knowledge and ability.”
 (3) A candidate seeking admission on the ground that he or she is qualified under section 49(4) must apply to the High Court.
 (4) The High Court must make an order admitting the candidate as a barrister and solicitor of the High Court if the High Court is satisfied that the candidate is qualified for admission under section 49(4).
 (5) Nothing in subsection (4) or section 49(4) limits the provisions of sections 20 to 28 of the Trans-Tasman Mutual Recognition Act 1997.
@@ -1416,7 +1416,7 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
   (d) exempt, or provide for the exemption of, any lawyer or class of lawyer or any conveyancing practitioner or class of conveyancing practitioner or any other person or class of person from all or any regulations made under section 115(g):
   (e) provide that fees may be charged to any person applying for or undertaking the training required by regulations made under section 115(g).
 (5) Regulations made under section 115 do not limit or derogate from the disciplinary powers of a Standards Committee or the Disciplinary Tribunal under this Act or of the Appeals Council under the Institute of Chartered Accountants of New Zealand Act 1996.
-(6) Without prejudice to subsection (5) of this section, wilful failure to comply with any regulations made under section 115 is, if the High Court thinks fit, ground for the exercise of the High Court's summary jurisdiction under this Act.
+(6) Without prejudice to subsection (5), wilful failure to comply with any regulations made under section 115 is, if the High Court thinks fit, ground for the exercise of the High Court's summary jurisdiction under this Act.
 
 **Barristers, Senior Counsel, and Queen's Counsel**
 
@@ -1436,7 +1436,7 @@ Subject to this Act, barristers of the High Court have all the powers, privilege
     (iii) from being an employee or statutory officer.
 (3) Nothing in this section affects the designation of any person who was appointed as a Queen's Counsel for New Zealand before the commencement of this section.
 (4) Nothing in this section prevents any barrister who held the rank of Queen's Counsel immediately before the commencement of this section from using, in relation to himself or herself, after the commencement of this section,—
-  (a) the words Queen's Counsel or the abbreviation QC ; or
+  (a) the words Queen's Counsel or the abbreviation QC; or
   (b) if the Sovereign for the time being is a King, the words King's Counsel or the abbreviation KC.
 (5) Despite subsections (3) and (4), any barrister who held the rank of Queen's Counsel immediately before the commencement of this section may, after the commencement of this section, use, in relation to himself or herself,—
   (a) instead of the words Queen's Counsel or King's Counsel, the words Senior Counsel; and
@@ -1519,7 +1519,7 @@ The functions of the New Zealand Society of Conveyancers, in administering the c
   (c) to publish information with a view to making it known that complaints about conveyancing practitioners and other persons who belong to the classes of persons described in section 121(2)(a) to (c) must be in writing and be supported by appropriate documentation:
   (d) to enter into contracts, on behalf of the New Zealand Society of Conveyancers, with persons who provide services to, or are employed to assist, Conveyancing Practitioners Standards Committees:
   (e) to ensure throughout New Zealand both the consistency and the quality of the complaints service:
-  (f) to provide assistance to. Conveyancing Practitioners Standards Committees and to the office of each such committee:
+  (f) to provide assistance to Conveyancing Practitioners Standards Committees and to the office of each such committee:
   (g) to provide to the Legal Complaints Review Officer copies of any complaints that the New Zealand Society of Conveyancers receives about the operation of the complaints service:
   (h) to ensure that decisions of Conveyancing Practitioners Standards Committees, the Legal Complaints Review Officer, and the Disciplinary Tribunal are enforced.
 
@@ -1759,7 +1759,7 @@ A Standards Committee that receives a report from an investigator may, in its di
   (d) the auditor of the trust account of the practitioner or former practitioner to whom, or of an incorporated firm or former incorporated firm to which, the report relates:
   (e) the Council of the New Zealand Law Society or the Council of the New Zealand Society of Conveyancers, as the case may require:
   (f) a chartered accountant (within the meaning of section 19 of the Institute of Chartered Accountants of New Zealand Act 1996):
-  (g) any member of the New Zealand Police or the Serious Fraud Office acting in the performance of his or her duty:
+  (g) any Police employee or member of the Serious Fraud Office acting in the performance of his or her duty:
   (h) the Registrar-General of Land for the purpose of enabling the Registrar-General of Land to discharge his or her duties under the Land Transfer Act 1952 or any other enactment:
   (i) any client of the practitioner or former practitioner to whom, or of the incorporated firm or former incorporated firm to which, the report relates.
 
@@ -1860,7 +1860,7 @@ If, under section 154(a), a Standards Committee lays before the Disciplinary Tri
   (d) state the period within which an application for a review of the determination or of any such order or both may be lodged (which period is prescribed by section 198(b)).
 
 ### 159 Power to notify Registrar-General of Land
-(1) If a Standards Committee makes a determination of the kind described in section 152(2)(a) or (b), that Standards Committee may give written notice of the making of the determination to the Registrar-General of Land if the Standards Committee considers that, the giving of notice of the making of that determination to the Registrar-General is or may be relevant to the discharge by the Registrar-General of his or her duties under the Land Transfer Act 1952 or any other enactment.
+(1) If a Standards Committee makes a determination of the kind described in section 152(2)(a) or (b), that Standards Committee may give written notice of the making of the determination to the Registrar-General of Land if the Standards Committee considers that the giving of notice of the making of that determination to the Registrar-General is or may be relevant to the discharge by the Registrar-General of his or her duties under the Land Transfer Act 1952 or any other enactment.
 (2) If the determination is of the kind described in section 152(2)(a), the notice must—
   (a) state the determination; and
   (b) contain a copy of the charge laid before the New Zealand Disciplinary Tribunal in accordance with section 154.
@@ -1914,16 +1914,16 @@ A Standards Committee may exercise any power under section 164 or section 169 if
 (2) If any money which was contained in a regulated trust account and which was paid to a Standards Committee or the New Zealand Law Society or the New Zealand Society of Conveyancers under section 164(2) is money that was held on behalf of any person other than the practitioner or the person or persons in whose name or names the account was held, that money must be held by the Standards Committee or the New Zealand Law Society or the New Zealand Society of Conveyancers in trust for the person on whose behalf the money was held.
 
 ### 166 Claims in respect of money paid to Standards Committee
-(1) Where, under section 164(2), any money is paid to a Standards Committee or the New Zealand Law Society or the New Zealand Society of Conveyancers,—may at any time apply to the Court for an order directing the Standards Committee or the New Zealand Law Society or the New Zealand Society of Conveyancers to repay the money into the bank account from which it was paid or for such order as the Court thinks fit.
+(1) Where, under section 164(2), any money is paid to a Standards Committee or the New Zealand Law Society or the New Zealand Society of Conveyancers,—may at any time apply to the court for an order directing the Standards Committee or the New Zealand Law Society or the New Zealand Society of Conveyancers to repay the money into the bank account from which it was paid or for such order as the court thinks fit.
   (a) any person claiming to be adversely affected by the payment; and
   (b) if the money was paid from the regulated account of a deceased practitioner, the executor or administrator of the deceased practitioner or any person claiming to be entitled to a grant of probate or letters of administration of the estate of the deceased practitioner,—
-(2) The Court, on hearing an application under subsection (1), may make such order as it thinks fit.
+(2) The court, on hearing an application under subsection (1), may make such order as it thinks fit.
 
 ### 167 Power of Standards Committee to repay money
 (1) Where, under section 164(2) any money is paid to a Standards Committee or the New Zealand Law Society or the New Zealand Society of Conveyancers, that Committee or that Society may at any time, in its discretion, repay the money or any part of it into the bank account from which it was paid.
 (2) Subsection (1) is subject to—
   (a) section 168; and
-  (b) any order made by the Court under any provision of this Part.
+  (b) any order made by the court under any provision of this Part.
 
 ### 168 Directions relating to Fidelity Scheme
 (1) Where a Standards Committee or the New Zealand Law Society or the New Zealand Society of Conveyancers has, in relation to a practitioner, served a notice under section 164(1) on the grounds that there is reasonable cause to believe—the money paid to the Standards Committee or the New Zealand Law Society or the New Zealand Society of Conveyancers under section 164(2) must be held by the Standards Committee or the New Zealand Law Society or the New Zealand Society of Conveyancers on behalf of and subject to the general or special directions of the Management Committee.
@@ -1931,7 +1931,7 @@ A Standards Committee may exercise any power under section 164 or section 169 if
   (b) that any person who is an agent (within the meaning of section 305) of the practitioner has been guilty of theft or of any improper conduct in relation to any money or other property entrusted to the practitioner,—
 (2) Subsection (1) is subject to—
   (a) section 165(2); and
-  (b) any order made by the Court under this Part.
+  (b) any order made by the court under this Part.
 
 ### 169 Power to take possession of money, property, records, and documents
 A Standards Committee may take possession of any money or other property entrusted to a practitioner or former practitioner or any related person or entity and of any records or documents belonging to a practitioner or former practitioner or any related person or entity or held in a practitioner's or former practitioner's or related person's or entity's possession or under a practitioner's or former practitioner's or related person's or entity's control in the course of the practitioner's or former practitioner's or related person's or entity's practice—
@@ -1942,7 +1942,7 @@ A Standards Committee may take possession of any money or other property entrust
 (1) For the purposes of section 169, a Standards Committee may serve—
   (a) on the practitioner or former practitioner or any related person or entity a notice requiring the practitioner or former practitioner or related person or entity to deliver to the Standards Committee all postal articles received at the practitioner's or former practitioner's office address by the practitioner or former practitioner or any related person or entity:
   (b) on any postal operator or on any person in charge of a mail distribution centre operated by or on behalf of a postal operator or on both a notice requiring the postal operator or person or both to cause to be delivered to the Standards Committee all postal articles addressed to the practitioner or former practitioner at the practitioner's or former practitioner's office address:
-  (c) on any internet service provider a notice requiring the internet service provider to cause to be delivered to the Standards Committee exact copies of all emails addressed to the practitioner at any email address used at any time by the practitioner or former practitioner for business purposes.
+  (c) on any Internet service provider a notice requiring the Internet service provider to cause to be delivered to the Standards Committee exact copies of all emails addressed to the practitioner at any email address used at any time by the practitioner or former practitioner for business purposes.
 (2) Every person who is served with a notice under subsection (1) must comply with that notice.
 (3) The notice must be signed by 2 of the members of the Standards Committee.
 
@@ -1955,12 +1955,12 @@ A Standards Committee may take possession of any money or other property entrust
 (2) A warrant may be issued under subsection (1) only if the Judge of the High Court or District Court Judge issuing the warrant is satisfied, in relation to a practitioner or former practitioner, that there is reasonable cause to believe—
   (a) that any of the circumstances specified in section 163 exist in respect of the practitioner or former practitioner; and
   (b) that any money or other property entrusted to the practitioner or former practitioner or a related person or entity or any records or documents belonging to the practitioner or former practitioner or a related person or entity or held in the possession of the practitioner or former practitioner or under the control of the practitioner or former practitioner or related person or entity in the course of the practitioner's or former practitioner's practice are or may be held on the premises in respect of which the warrant is issued.
-(3) Where any person is empowered by a warrant issued under subsection (1) to enter upon any premises, that person may be accompanied when so entering by a member of the police and must be so accompanied when so entering a dwellinghouse.
+(3) Where any person is empowered by a warrant issued under subsection (1) to enter upon any premises, that person may be accompanied when so entering by a constable and must be so accompanied when so entering a dwellinghouse.
 
 ### 173 Warrant to inspect bank accounts
 (1) A Standards Committee may apply to a Judge of the High Court or a District Court Judge for a warrant to empower any member of the Standards Committee, or any other person on its behalf,—
   (a) to examine or audit the account of any person in any bank; and
-  (b) for the purpose of the examination or audit—
+  (b) for the purpose of the examination or audit,—
     (i) to require any officer of the bank to produce any document or provide any information that relates to that account and is in the bank's custody, care, or control; and
     (ii) to take copies of any document so produced.
 (2) A warrant may be issued under subsection (1) only if the Judge of the High Court or District Court Judge issuing the warrant is satisfied, in relation to the account in respect of which the warrant is issued, that there is reasonable cause to believe that money entrusted to a practitioner or former practitioner or a related person or entity in connection with legal or conveyancing services has been fraudulently or wrongfully paid into that account.
@@ -2082,7 +2082,7 @@ Every counsel appearing before a Standards Committee has the same privileges and
   (c) any person who holds, or has held, office as an investigator:
   (d) any person, being a person or body that is employed or has been employed under section 147(2)(c):
   (e) any person, being an employee or former employee or officer or former officer of a person or body that is employed or has been employed under section 147(2)(c).
-(2) No person to whom this section applies may Communicate any matter that came to the knowledge of that person or the employer of that person in the course of the exercise by that person, or the employer of that person, of powers conferred by this Act on that person, or the employer of that person, in relation to any complaint made, or inquiry or investigation conducted, under this Act except—
+(2) No person to whom this section applies may communicate any matter that came to the knowledge of that person or the employer of that person in the course of the exercise by that person, or the employer of that person, of powers conferred by this Act on that person, or the employer of that person, in relation to any complaint made, or inquiry or investigation conducted, under this Act except—
   (a) for the purposes of the inquiry or investigation; or
   (b) in the course of any report to a Standards Committee; or
   (c) in accordance with a direction for publication given under section 142(2) by a Standards Committee; or
@@ -2091,7 +2091,7 @@ Every counsel appearing before a Standards Committee has the same privileges and
     (ii) the Legal Complaints Review Officer; or
     (iii) the Disciplinary Tribunal; or
     (iv) the Disciplinary Tribunal of the Institute of Chartered Accountants of New Zealand; or
-  (e) to a member of the New Zealand Police or the Serious Fraud Office acting in the performance of his or her duty; or
+  (e) to a Police employee or member of the Serious Fraud Office acting in the performance of his or her duty; or
   (f) to any person who—
     (i) holds office under section 109 as a person appointed to examine the accounts of lawyers or firms of lawyers or incorporated law firms or as a person appointed to examine the accounts of conveyancing practitioners or firms of conveyancing practitioners or incorporated conveyancing firms; and
     (ii) is acting in the performance of his or her duty under section 109; or
@@ -2130,7 +2130,7 @@ The functions of the Legal Complaints Review Officer are—
 A person who is specified in any provision of sections 194 to 197 as a person who may apply under this section for a review may apply to the Legal Complaints Review Officer for that review.
 
 ### 194 Applicants in relation to complaints
-(1) This section applies to any determination, requirement, or order made, or direction given, by a Standards Committee (or by any person on its behalf or with its authority)
+(1) This section applies to any determination, requirement, or order made, or direction given, by a Standards Committee (or by any person on its behalf or with its authority)—
   (a) in relation to a complaint (including a decision to take no action or no further action on a complaint); or
   (b) on a matter arising from a complaint.
 (2) A person may apply under section 193 for a review of a determination, requirement, order, or direction to which this section applies if that person is—
@@ -2303,7 +2303,7 @@ The Legal Complaints Review Officer may not, in any decision, direction, or orde
 
 ### 215 Enforcement of orders for costs or expenses
 (1) For the purpose of enforcing any order of the Legal Complaints Review Officer for the payment of costs or expenses or both, a duplicate of the order may be filed by the person to whom the costs or expenses or both are payable in the office of the court named in the order and thereupon becomes enforceable in all respects as a final judgment of that court in its civil jurisdiction.
-(2) In every case where an order for costs or expenses or both is made by the Legal Complaints Review Officer, the order must name the court in. which the order may, if necessary, be enforced.
+(2) In every case where an order for costs or expenses or both is made by the Legal Complaints Review Officer, the order must name the court in which the order may, if necessary, be enforced.
 (3) The court so named must,—
   (a) where the amount recoverable under the order does not exceed $12,000, be a District Court; and
   (b) in every other case, be the High Court.
@@ -2399,7 +2399,7 @@ The functions of the Disciplinary Tribunal are—
     (i) is under suspension from practice as a barrister or as a barrister and solicitor or as a conveyancing practitioner; or
     (ii) has had his or her name struck off the roll otherwise than at his or her own request; or
     (iii) has had his or her registration as a conveyancing practitioner cancelled by an order made under this Act; or
-    (iv) is disqualified, by an order made under section 242(1)(h), from employment in connection with a practitioner's or incorporated flutes practice:
+    (iv) is disqualified, by an order made under section 242(1)(h), from employment in connection with a practitioner's or incorporated firm's practice:
   (g) to make rules, not inconsistent with this Act, in respect of the making, hearing, and determination of applications, inquiries, appeals, and other proceedings before the Disciplinary Tribunal:
   (h) to perform such other functions as are conferred on it by this Act or any other enactment.
 
@@ -2499,7 +2499,7 @@ The Disciplinary Tribunal must, in performing and exercising its functions and p
 (1) Subject to section 236, the Disciplinary Tribunal may receive as evidence any statement, document, information, or matter that may, in its opinion, assist it to deal effectively with the matters before it, whether or not that statement, document, information, or matter would be admissible in a court of law.
 (2) The Disciplinary Tribunal may take evidence on oath, and, for that purpose, any member of the Disciplinary Tribunal may administer an oath.
 (3) The Disciplinary Tribunal may permit a person appearing as a witness before it to give evidence by tendering a written statement and verifying that statement by oath.
-(4) Subject to subsections (1) to (3), the Evidence Act 2006 applies to the Disciplinary Tribunal in the same manner as if the Disciplinary Tribunal were a Court within the meaning of that Act.
+(4) Subject to subsections (1) to (3), the Evidence Act 2006 applies to the Disciplinary Tribunal in the same manner as if the Disciplinary Tribunal were a court within the meaning of that Act.
 (5) A hearing before the Disciplinary Tribunal is a judicial proceeding within the meaning of section 108 of the Crimes Act 1961 (which relates to perjury).
 
 ### 240 Restrictions on publication
@@ -2545,7 +2545,7 @@ If the Disciplinary Tribunal, after hearing any charge against a person who is a
 (2) Paragraphs (c) and (d) of subsection (1) are subject to section 244.
 
 ### 243 Power to refer bill of costs to Standards Committee
-(1) This section applies in relation to any case that is before the Disciplinary Tribunal and arises wholly or partly out of a complaint of overcharging by a practitioner or former practitioner or an incorporated form or former incorporated firm.
+(1) This section applies in relation to any case that is before the Disciplinary Tribunal and arises wholly or partly out of a complaint of overcharging by a practitioner or former practitioner or an incorporated firm or former incorporated firm.
 (2) If, in any case to which this section applies, the Disciplinary Tribunal considers that the practitioner's or former practitioner's or incorporated firm's or former incorporated firm's bill of costs in respect of any matter to which the complaint relates is unfair or unreasonable, the Disciplinary Tribunal may, whether or not it makes an order under section 242, order that the bill be referred to a Standards Committee.
 (3) The Standards Committee must, after considering the bill of costs, make such order or orders under section 156 as it would have made under that section if it had determined a complaint in respect of that bill of costs.
 (4) This section does not limit section 242.
@@ -2609,7 +2609,7 @@ If the Disciplinary Tribunal, after hearing any charge against a person who is a
   (b) the seriousness of the proved offending of that person:
   (c) any matter relevant to the honesty of that person:
   (d) the work on which that person will be employed and the extent to which, and the manner in which, the carrying out of that work by that person will be supervised:
-  (e) the previous record, in relation to disciplinary matters; of that person:
+  (e) the previous record, in relation to disciplinary matters, of that person:
   (f) the relevance of the nature of the penalty imposed on that person by way of suspension, striking off, cancellation of registration, or disqualification.
 (5) Despite subsections (3) and (4), the Disciplinary Tribunal may take into account, but to a minor degree, the personal circumstances of the person to whom the application relates.
 (6) Consideration of the personal circumstances of the person to whom the application relates must always be subordinated to the need to protect both the public and the standing of the profession.
@@ -2617,9 +2617,9 @@ If the Disciplinary Tribunal, after hearing any charge against a person who is a
 
 ### 249 Order for payment of costs
 (1) The Disciplinary Tribunal may, after the hearing of any proceedings, make such order as to the payment of costs and expenses as it thinks fit.
-(2) In particular, the Disciplinary Tribunal may order that costs be awarded to any person to whom the proceedings relate, and that those costs be paid—employee or former employee of a conveyancing practitioner or incorporated conveyancing firm).
+(2) In particular, the Disciplinary Tribunal may order that costs be awarded to any person to whom the proceedings relate, and that those costs be paid—
   (a) by the New Zealand Law Society (if that person is a lawyer or a former lawyer or an incorporated law firm or former incorporated law firm or an employee or former employee of a lawyer or incorporated law firm); or
-  (b) by the New Zealand Society of Conveyancers (if that person is a conveyancing practitioner or a former conveyancing practitioner or an incorporated conveyancing firm or former incorporated conveyancing firm or an
+  (b) by the New Zealand Society of Conveyancers (if that person is a conveyancing practitioner or a former conveyancing practitioner or an incorporated conveyancing firm or former incorporated conveyancing firm or an employee or former employee of a conveyancing practitioner or incorporated conveyancing firm).
 (3) In particular, without finding the person charged to be guilty, the Disciplinary Tribunal may, if it considers that the proceedings were justified and that it is just to do so, order that person to pay to the New Zealand Law Society or the New Zealand Society of Conveyancers such sums as the Disciplinary Tribunal thinks fit in respect of the expenses of and incidental to the proceedings and any investigation of that person's conduct or of that person's affairs or trust account carried out by, or on behalf of, a Standards Committee or the Legal Complaints Review Officer.
 (4) In this section, expenses includes not only out-of-pocket expenses but also such amounts in respect of salaries of staff and overhead expenses incurred by either the New Zealand Law Society or the New Zealand Society of Conveyancers as the Disciplinary Tribunal considers properly attributable to an investigation.
 
@@ -2631,7 +2631,7 @@ The Disciplinary Tribunal may, from time to time, make rules, not inconsistent w
   (a) assaults, threatens, intimidates, or wilfully insults any person, being a member of the Disciplinary Tribunal, an officer of the Disciplinary Tribunal, or any witness, during that person's sitting or attendance in the Disciplinary Tribunal, or in going to or returning from the Disciplinary Tribunal; or
   (b) wilfully interrupts or obstructs the proceedings of the Disciplinary Tribunal or otherwise misbehaves in the Disciplinary Tribunal; or
   (c) wilfully and without lawful excuse disobeys any order or direction of the Disciplinary Tribunal in the course of the hearing of any proceedings.
-(2) A member of the Disciplinary Tribunal may order the exclusion from a sitting of the Disciplinary Tribunal of any person whose behaviour, in that member's opinion, constitutes an offence against subsection (1), whether or not that person is charged with the offence; and any member of the police may take such steps as are reasonably necessary to enforce such an exclusion.
+(2) A member of the Disciplinary Tribunal may order the exclusion from a sitting of the Disciplinary Tribunal of any person whose behaviour, in that member's opinion, constitutes an offence against subsection (1), whether or not that person is charged with the offence; and any constable may take such steps as are reasonably necessary to enforce such an exclusion.
 
 ### 252 Power of Disciplinary Tribunal to determine procedure
 Except as provided by this Act or by rules made under this Act, the Disciplinary Tribunal may determine its own procedure.
@@ -2651,12 +2651,12 @@ Except as provided by this Act or by rules made under this Act, the Disciplinary
     (iv) the New Zealand Society of Conveyancers, if the applicant is a conveyancing practitioner or an incorporated conveyancing firm.
 (3) Every appeal under subsection (1)—
   (a) must be by way of rehearing; and
-  (b) must be made within such time and in such form as may be prescribed by rules of Court; and
-  (c) must be heard in such manner as may be prescribed by rules of Court.
+  (b) must be made within such time and in such form as may be prescribed by rules of court; and
+  (c) must be heard in such manner as may be prescribed by rules of court.
 (4) On hearing an appeal under subsection (1), the High Court may confirm, reverse, or modify the order or decision appealed against.
 
 ### 254 Appeal to Court of Appeal on question of law
-(1) Any party to an appeal under section 253(1) who is dissatisfied with any determination of the High Court in the proceedings as being erroneous in point of law may, with the leave of that Court, or, if the High Court refuses leave, with the leave of the Court of Appeal, appeal to the Court of Appeal against the determination; and section 66 of the Judicature Act 1908 applies to any such appeal.
+(1) Any party to an appeal under section 253(1) who is dissatisfied with any determination of the High Court in the proceedings as being erroneous in point of law may, with the leave of that court, or, if the High Court refuses leave, with the leave of the Court of Appeal, appeal to the Court of Appeal against the determination; and section 66 of the Judicature Act 1908 applies to any such appeal.
 (2) In determining whether to grant leave to appeal under this section, the Court of Appeal must have regard to whether the question of law involved in the appeal is one that, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for its decision.
 (3) The Court of Appeal, in granting leave under this section, may, in its discretion, impose such conditions as it thinks fit, whether as to costs or otherwise.
 (4) The decision of the Court of Appeal on any appeal under this section is final.
@@ -2701,8 +2701,8 @@ Except as provided by this Act or by rules made under this Act, the Disciplinary
 
 ### 257 Reimbursement of costs of hearing
 (1) Except where any regulations made under this Act otherwise provide, where the Disciplinary Tribunal hears a charge against any person,—
-  (a) the New Zealand Law Society must, if that person is a lawyer or a former lawyer or an incorporated law firm or former incorporated law firm or an employee or former employee of a lawyer or incorporated law firm, pay into the Crown Bank Account the amount required to reimburse the Crown for the costs of the hearing; and
-  (b) the New Zealand Society of Conveyancers must, if that person is a conveyancing practitioner or a former conveyancing practitioner or an incorporated conveyancing firm or former incorporated conveyancing firm or an employee or former employee of a conveyancing practitioner or incorporated conveyancing firm, pay into the Crown Bank Account the amount required to reimburse the Crown for the costs of the hearing.
+  (a) the New Zealand Law Society must, if that person is a lawyer or a former lawyer or an incorporated law firm or former incorporated law firm or an employee or former employee of a lawyer or incorporated law firm, pay into a Crown Bank Account the amount required to reimburse the Crown for the costs of the hearing; and
+  (b) the New Zealand Society of Conveyancers must, if that person is a conveyancing practitioner or a former conveyancing practitioner or an incorporated conveyancing firm or former incorporated conveyancing firm or an employee or former employee of a conveyancing practitioner or incorporated conveyancing firm, pay into a Crown Bank Account the amount required to reimburse the Crown for the costs of the hearing.
 (2) The costs of the hearing—
   (a) include not only out-of-pocket expenses in relation to the hearing but also a reasonable sum in respect of—
     (i) the remuneration and allowances payable under clause 4 of Schedule 4 to the chairperson, deputy chairperson, and lay members of the Disciplinary Tribunal; and
@@ -2764,7 +2764,7 @@ On application to the High Court in that behalf, the name of a barrister and sol
 (2) The High Court, if it reserves the case under subsection (1)(b),—
   (a) must cause the application and all affidavits made in support of the application, and all other proceedings, to be sent forthwith to the Registrar of the Court of Appeal; and
   (b) may order that the barrister and solicitor be suspended from practice as a barrister or as a solicitor or as both until the decision of the Court of Appeal on the application is given.
-(3) If a case is reserved for the consideration of the Court of Appeal, that Court—
+(3) If a case is reserved for the consideration of the Court of Appeal, that court—
   (a) must, as soon as practicable, consider the application and grant or dismiss it; and
   (b) may make such other order in respect of the application as it thinks fit.
 
@@ -2773,7 +2773,7 @@ On application to the High Court in that behalf, the name of a barrister and sol
 (2) Despite section 245, the High Court has, in the exercise of its summary jurisdiction, full power, on reasonable cause being shown, to suspend any barrister and any barrister and solicitor from practice.
 
 ### 269 Notice of order for striking off or suspension to be published in Gazette
-If the Court of Appeal or the High Court orders that the name of a barrister or solicitor be struck off the roll, or that a barrister or solicitor be suspended from practice, the Registrar of the Court in which the order is made must forthwith cause a notice stating the date and effect of the order to be published in the Gazette.
+If the Court of Appeal or the High Court orders that the name of a barrister or solicitor be struck off the roll, or that a barrister or solicitor be suspended from practice, the Registrar of the court in which the order is made must forthwith cause a notice stating the date and effect of the order to be published in the Gazette.
 
 ### 270 Jurisdiction of High Court not limited
 Except as provided in this Part, nothing in this Part limits the jurisdiction of the High Court.
@@ -2781,7 +2781,7 @@ Except as provided in this Part, nothing in this Part limits the jurisdiction of
 **General provisions**
 
 ### 271 Legal professional privilege
-Nothing in this Part of this Act limits or affects legal professional privilege.
+Nothing in this Part limits or affects legal professional privilege.
 
 ### 272 Protection of New Zealand Law Society and New Zealand Society of Conveyancers and other persons
 Neither the New Zealand Law Society nor the New Zealand Society of Conveyancers, nor any member, officer, or employee of either of those bodies, is to be under any criminal or civil liability in respect of anything done or omitted to be done, or in respect of words spoken or written,—unless it is proved to the satisfaction of the court before which any proceedings are taken that the defendant in those proceedings acted in bad faith.
@@ -2846,7 +2846,7 @@ The Council must consult the Council of the New Zealand Law Society—
 
 ### 278 Power of Council to make regulations
 (1) Subject to this Act, the Council may, from time to time, by resolution, make, alter, or revoke any regulations not inconsistent with this Act that are necessary or expedient in respect of—
-  (a) any course of study and the practical training and experience of candidates for admission as barristers and solicitors of the Court:
+  (a) any course of study and the practical training and experience of candidates for admission as barristers and solicitors of the court:
   (b) any matters that by this Act are required or permitted to be prescribed, or with respect to which regulations are necessary or expedient for giving effect to the provisions of this Act, in relation to legal education.
 (2) Without limiting subsection (1), regulations made under that subsection may—
   (a) provide for the granting of credits or exemptions in special circumstances or in order to avoid hardship to any student:
@@ -2890,7 +2890,7 @@ The Council may, from time to time, by resolution, make, alter, or rescind any r
   (a) proceed to disestablish the Institute of Professional Legal Studies and any branches of that institute if the Council is satisfied that satisfactory arrangements can be made for the provision by other persons of the practical legal training required by candidates for admission as barristers and solicitors of the High Court; or
   (b) proceed—
     (i) to disestablish the Institute of Professional Legal Studies and any branches of that institute; and
-    (ii) to establish or incorporate, or to join in establishing or incorporating, a body, whether corporate or not, that has, among other things, the capacity to carry out functions and activities comparable f to those that, at the commencement of this section, are being discharged and carried out by the Institute of Professional Legal Studies; and
+    (ii) to establish or incorporate, or to join in establishing or incorporating, a body, whether corporate or not, that has, among other things, the capacity to carry out functions and activities comparable to those that, at the commencement of this section, are being discharged and carried out by the Institute of Professional Legal Studies; and
     (iii) to transfer to any body corporate of the kind referred to in subparagraph (ii), on such terms and conditions as the Council thinks fit, such of the funds of the Council and such of the other property of the Council as the Council considers appropriate, having regard to the manner in which the Council may be required to discharge its own functions; or
   (c) proceed—
     (i) to disestablish the Institute of Professional Legal Studies and any branches of that institute; and
@@ -2927,7 +2927,7 @@ The Council may, from time to time, by resolution, make, alter, or rescind any r
 No act or proceeding of the Council, or of any committee of the Council, or of any person acting as a member of the Council or any such committee, is invalidated merely because of a vacancy in the number of the Council or committee at the time of the act or proceeding, or of the subsequent discovery that there was some defect in the appointment of any person so acting, or that he or she was incapable of being or had ceased to be such a member.
 
 ### 286 Chairperson
-(1) Subject to subsection (2), the Council may, from time to time, appoint 1 of its members to be the chairperson of the Council.
+(1) Subject to subsection (2), the Council may, from time to time, appoint one of its members to be the chairperson of the Council.
 (2) If the Chief Justice is a member, the Chief Justice is to be the chairperson unless he or she otherwise determines.
 (3) If the chairperson is an appointed member (other than the Chief Justice), he or she holds the office of chairperson while he or she remains in office as an appointed member, unless he or she sooner resigns the office of chairperson or is removed from that office by resolution of the Council.
 (4) If the Chief Justice is the chairperson, he or she vacates that office if he or she ceases to be a member of the Council or decides to cease being the chairperson of the Council.
@@ -2937,7 +2937,7 @@ No act or proceeding of the Council, or of any committee of the Council, or of a
 The provisions set out in Schedule 5 apply in relation to the Council and its proceedings.
 
 ### 288 Annual report
-(1) The Council must, in each year, give the Minister a report on the operation of this Part of this Act.
+(1) The Council must, in each year, give the Minister a report on the operation of this Part.
 (2) The Council must include in every annual report the financial statements prepared by the Council, in accordance with Part 4 of the Crown Entities Act 2004, in respect of the financial year to which the report relates, together with the audit report and the statement of responsibility relating to those financial statements.
 (3) The Minister must present a copy of the report to the House of Representatives in accordance with section 150(3) of the Crown Entities Act 2004.
 
@@ -3011,7 +3011,7 @@ The accounts of the Special Fund must be audited annually by a chartered account
 (2) The rate of interest payable under subsection (1) by a bank in respect of a nominated trust account of a practitioner or incorporated firm must be—
   (a) the rate of interest paid by that bank, during the month immediately preceding the date on which the interest payable on that nominated trust account is to be calculated, in respect of funds deposited, at call, with that bank, on behalf of that practitioner's or incorporated firm's clients, in an interest-bearing account in that practitioner's or incorporated firm's name; or
   (b) if the bank held no such interest-bearing deposit account in that practitioner's or incorporated firm's name during that month, the rate of interest that would have been paid by that bank, during that month, in respect of the money in that nominated trust account if that money had been deposited, at call, in an interest-bearing deposit account at that bank.
-(3) Interest payable on a nominated trust account is payable on the daily balance of that account (as that account stands at the close of business of each day or, where the bank is not open for business on any day; at the close of that day), and must be calculated monthly.
+(3) Interest payable on a nominated trust account is payable on the daily balance of that account (as that account stands at the close of business of each day or, where the bank is not open for business on any day, at the close of that day), and must be calculated monthly.
 (4) Where the rate of interest required to be applied for the purposes of subsection (1) varies during any month, the rate of interest to be applied is to be the average rate of interest for that month (as determined in accordance with subsection (2)).
 (5) In lieu of all banking charges and fees that would otherwise be payable to it in respect of any nominated trust account, a bank is entitled to retain for its own use 40% of all interest payable by it on a nominated trust account.
 
@@ -3040,11 +3040,12 @@ The purpose of this Part is—
 
 ### 305 Interpretation
 In this Part, unless the context otherwise requires,—
-  - **agent** means any of the following classes of persons: (a) in relation to a lawyer,—
-    (i) any person who is, in relation to the lawyer, a related person or entity:
-    (ii) any agent, employer, or employee of the lawyer (whether or not that agent, employer, or employee is a lawyer):
-    (iii) any agent or employee of a person who is, in relation to the lawyer, a related person or entity (whether or not that agent or employee is a lawyer):
-    (iv) any partner or director or other person who controls or manages a body that is, in relation to the lawyer, a related entity:
+  - **agent** means any of the following classes of persons:
+    (a) in relation to a lawyer,—
+      (i) any person who is, in relation to the lawyer, a related person or entity:
+      (ii) any agent, employer, or employee of the lawyer (whether or not that agent, employer, or employee is a lawyer):
+      (iii) any agent or employee of a person who is, in relation to the lawyer, a related person or entity (whether or not that agent or employee is a lawyer):
+      (iv) any partner or director or other person who controls or manages a body that is, in relation to the lawyer, a related entity:
     (b) in relation to a conveyancing practitioner,—
       (i) any person who is, in relation to the conveyancing practitioner, a related person or entity:
       (ii) any agent, employer, or employee of the conveyancing practitioner (whether or not that agent, employer, or employee is also a conveyancing practitioner):
@@ -3099,7 +3100,7 @@ In this Part, unless the context otherwise requires,—
   (a) every conveyancing practitioner who—
     (i) is in practice on his or her own account; and
     (ii) provides regulated services to the public; and
-    (iii) is a conveyancing practitioner who is obliged by section 112(1) to keep records in respect. of trust accounts and valuable property:
+    (iii) is a conveyancing practitioner who is obliged by section 112(1) to keep records in respect of trust accounts and valuable property:
   (b) every incorporated conveyancing firm that—
     (i) provides regulated services to the public; and
     (ii) is an incorporated conveyancing firm that is obliged by section 112(1) to keep records in respect of trust accounts and valuable property:
@@ -3333,8 +3334,8 @@ In any action brought against the New Zealand Law Society in relation to the Law
   (c) must distribute, in accordance with subsection (2), any amounts recovered.
 (2) Any amount to be distributed under subsection (1) must be distributed as follows:
   (a) first, by paying all liabilities and administrative costs properly payable from the fund at the time of rule off; and
-  (b) second, by distributing any residue that remains (after any amounts payable under paragraph (a) have been deducted) by paying, on a pro-rata basis, all claimants who have, under subsection (3), payable claims.
-(3) Claims that are subject to pro-rata distribution under subsection (2)(b) are claims that, on the date the fund is ruled off,—
+  (b) second, by distributing any residue that remains (after any amounts payable under paragraph (a) have been deducted) by paying, on a pro rata basis, all claimants who have, under subsection (3), payable claims.
+(3) Claims that are subject to pro rata distribution under subsection (2)(b) are claims that, on the date the fund is ruled off,—
   (a) are claims that have been approved for payment by the regulatory society that holds the fund; or
   (b) are claims in respect of which judgment has been entered.
 (4) An Order in Council made under section 329(1) in relation to a fidelity fund does not affect claims made against that fund after the date on which that fund is ruled off by the Order in Council.
@@ -3422,58 +3423,32 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
 **Amendments to Real Estate Agents Act 1976**
 
 ### 340 Meaning of real estate agent
-(1) Section 3 of the Real Estate Agents Act 1976 is amended by repealing paragraph (a) of subsection (2).
-(2) Section 3 of the Real Estate Agents Act 1976 is amended by adding the following subsections:
-  (7) Despite anything to the contrary in this Act, any person who is—may undertake the work of a real estate agent but, in respect of the sale or other disposal of any land or business, is not entitled to be remunerated for that work by commission in addition to, or instead of, the professional charges of that lawyer or conveyancing practitioner.
-    (a) a lawyer within the meaning of the Lawyers and Conveyancers Act 2006 or a person acting under the supervision of such a lawyer; or
-    (b) a conveyancing practitioner within the meaning of the Lawyers and Conveyancers Act 2006 or a person acting under the supervision of such a conveyancing practitioner,—
-  (8) When any person to whom subsection (7) applies is undertaking the work of a real estate agent, that person—
-    (a) is deemed not to be doing so as a real estate agent; and
-    (b) is not subject to any of the provisions of this Act; but
-    (c) is deemed to be acting in his or her capacity—
-      (i) as a lawyer within the meaning of the Lawyers and Conveyancers Act 2006; or
-      (ii) as a person acting under the supervision of a lawyer within the meaning of the Lawyers and Conveyancers Act 2006; or
-      (iii) as a conveyancing practitioner within the meaning of the Lawyers and Conveyancers Act 2006; or
-      (iv) as a person acting under the supervision of a conveyancing practitioner within the meaning of the Lawyer and Conveyancers Act 2006; and
-    (d) is subject accordingly to the provisions of the Lawyers and Conveyancers Act 2006.
+Amendment(s) incorporated in the Act(s).
 
 ### 341 Repeal
-The Real Estate Agents Act 1976 is amended by repealing section 61.
+Amendment(s) incorporated in the Act(s).
 
 **Amendments to Land Transfer Act 1952**
 
 ### 342 Interpretation
-Section 2 of the Land Transfer Act 1952 is amended by inserting, in its appropriate alphabetical order, the following definition:.
-  - **practitioner** means—
-    (a) a practitioner within the meaning of section 6 of the Lawyers and Conveyancers Act 2006; or
-    (b) a landbroker licensed by the Registrar under section 229 of this Act
+Amendment(s) incorporated in the Act(s).
 
 ### 343 Correctness of instrument to be certified
-Section 164(1) of the Land Transfer Act 1952 is amended by omitting licensed landbroker or a solicitor of the High Court, and substituting practitioner.
+Amendment(s) incorporated in the Act(s).
 
 ### 344 Who may give certification
-Section 164B(1) of the Land Transfer Act 1952 is amended by omitting conveyancer, and substituting practitioner.
+Amendment(s) incorporated in the Act(s).
 
 ### 345 Recovery of compensation paid and costs in case of fraud
-(1) Section 175 of the Land Transfer Act 1952 is amended—
-  (a) by omitting from subsections (1A) and (1B) conveyancer wherever it appears, and substituting in each case practitioner ; and
-  (b) by omitting from subsection (1A) conveyancer's, and substituting practitioner's.
-(2) The Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 is consequentially amended by repealing so much of Schedule 1 as relates to section 175 of the Land Transfer Act 1952.
+Amendment(s) incorporated in the Act(s).
 
 **Amendments to Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002**
 
 ### 346 Interpretation
-(1) Section 4 of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 is amended by repealing the definition of conveyancer.
-(2) Section 4 of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 is amended by inserting, in its appropriate alphabetical order, the following definition:.
-  - **practitioner** means—
-    (a) a practitioner within the meaning of section 6 of the Lawyers and Conveyancers Act 2006; or
-    (b) a landbroker licensed by the Registrar under section 229 of the principal Act
+Amendment(s) incorporated in the Act(s).
 
 ### 347 Power to make electronic lodgement compulsory
-(1) The heading to section 24 of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 is amended by omitting conveyancers, and substituting practitioners.
-(2) Section 24 of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 is amended—
-  (a) by omitting from subsections (1) to (3) conveyancers wherever it occurs, and substituting in each case practitioners ; and
-  (b) by omitting from subsection (3)(a) conveyancer, and substituting practitioner.
+Amendment(s) incorporated in the Act(s).
 
 **Amendments to other enactments**
 
@@ -3517,27 +3492,27 @@ After the commencement of this section,—
 (1) This section applies to the following proceedings:
   (a) all proceedings in relation to all investigations, inquiries, applications, appeals, and other proceedings of a disciplinary nature under the Law Practitioners Act 1982 which have been commenced before the commencement of this section and which have not been determined or completed before the commencement of this section:
   (b) all proceedings in relation to applications by practitioners for the restoration of their names to the roll which have been made before the commencement of this section under section 116 of the Law Practitioners Act 1982 and which have not been determined before the commencement of this section:
-  (c) all proceedings which relate to the revision of bills of costs and which have been commenced but not completed. under Part 8 of the Law Practitioners Act 1982 before the commencement of this section.
+  (c) all proceedings which relate to the revision of bills of costs and which have been commenced but not completed under Part 8 of the Law Practitioners Act 1982 before the commencement of this section.
 (2) The proceedings to which this section applies are, subject to sections 354 to 361 of this Act, to be continued and completed as if the Law Practitioners Act 1982 had not been repealed.
 
 ### 354 Continuation of Lay Observers
 (1) Despite the repeals effected by this Act, every person who, immediately before the commencement of this section, holds office under section 96 of the Law Practitioners Act 1982 as a Lay Observer is, unless he or she sooner vacates office under section 120(4) of that Act, to continue to hold office until the close of the period of 6 months beginning with the date of the commencement of this section for the purpose of discharging his or her functions or exercising his or her powers in relation to any complaints made or proceedings commenced before the commencement of this section.
 (2) For the purposes of subsection (1), each Lay Observer to whom that subsection applies has all necessary powers and may exercise, despite the repeals effected by this Act, the powers conferred on a Lay Observer by the repealed enactments, which apply accordingly with all necessary modifications.
-(3) Sections 120 to 122 of the Law Practitioners Act 1982 continue, despite the repeal of that Act, to have effect, until the close of the period of 6 months beginning with the date of the commencement of this section, in relation to any person continued in office by subsection (1) of this section.
+(3) Sections 120 to 122 of the Law Practitioners Act 1982 continue, despite the repeal of that Act, to have effect, until the close of the period of 6 months beginning with the date of the commencement of this section, in relation to any person continued in office by subsection (1).
 
 ### 355 Exercise by Legal Complaints Review Officer of role of Lay Observer
-(1) If any proceedings to which section 353 of this Act applies have not been determined by the close of the period of 6 months beginning with the date of the commencement of this section or cannot be determined before the end of that period because a Lay Observer continued in office by section 354 has, before the end of that period, vacated office, then, from the end of that period or from any earlier date on which the Lay Observer vacates office, the Legal Complaints Review Officer has, despite the repeals effected by this Act, the duties and powers that a Lay Observer would have, under the Law Practitioners Act 1982, in relation to those proceedings if that Act had not been repealed.
+(1) If any proceedings to which section 353 applies have not been determined by the close of the period of 6 months beginning with the date of the commencement of this section or cannot be determined before the end of that period because a Lay Observer continued in office by section 354 has, before the end of that period, vacated office, then, from the end of that period or from any earlier date on which the Lay Observer vacates office, the Legal Complaints Review Officer has, despite the repeals effected by this Act, the duties and powers that a Lay Observer would have, under the Law Practitioners Act 1982, in relation to those proceedings if that Act had not been repealed.
 (2) Despite subsection (1), sections 97(5), 97(6), 97(9), and 97A of the Law Practitioners Act 1982 are to have effect, for the purposes of that subsection, as if, for the words District Law Society wherever they occur, there were substituted in each case the words complaints service established under section 121(1) of the Lawyers and Conveyancers Act 2006 by the New Zealand Law Society.
 
 ### 356 Exercise by Lawyers Standards Committee of role of complaints committee
-If any proceedings to which section 353 of this Act applies have not been determined by the close of the period of 6 months beginning with the date of the commencement of this section, the New Zealand Law Society must, despite the repeals effected by this Act, appoint a Lawyers Standards Committee (not being a Lawyers Standards Committee that has under section 357 of this Act the powers of a District Disciplinary Tribunal in relation to those proceedings) to carry out the duties and exercise the powers that a complaints committee appointed pursuant to section 100 of the Law Practitioners Act 1982 would have had, under that Act, in relation to those proceedings if that Act had not been repealed and the relevant complaint or matter had been referred to it.
+If any proceedings to which section 353 applies have not been determined by the close of the period of 6 months beginning with the date of the commencement of this section, the New Zealand Law Society must, despite the repeals effected by this Act, appoint a Lawyers Standards Committee (not being a Lawyers Standards Committee that has under section 357 the powers of a District Disciplinary Tribunal in relation to those proceedings) to carry out the duties and exercise the powers that a complaints committee appointed pursuant to section 100 of the Law Practitioners Act 1982 would have had, under that Act, in relation to those proceedings if that Act had not been repealed and the relevant complaint or matter had been referred to it.
 
 ### 357 Exercise by Lawyers Standards Committee of role of District Disciplinary Tribunal
-(1) If any proceedings to which section 353 of this Act applies have not been determined by the close of the period of 6 months beginning with the date of the commencement of this section, the New Zealand Law Society must, despite the repeals effected by this Act, appoint a Lawyers Standards Committee (not being a Lawyers Standards Committee that has, under section 356, the powers of a complaints committee in relation to those proceedings) to carry out the duties and exercise the powers that a District Disciplinary Tribunal within the meaning of the Law Practitioners Act 1982 would have had, under that Act, in relation to those proceedings if that Act had not been repealed.
+(1) If any proceedings to which section 353 applies have not been determined by the close of the period of 6 months beginning with the date of the commencement of this section, the New Zealand Law Society must, despite the repeals effected by this Act, appoint a Lawyers Standards Committee (not being a Lawyers Standards Committee that has, under section 356, the powers of a complaints committee in relation to those proceedings) to carry out the duties and exercise the powers that a District Disciplinary Tribunal within the meaning of the Law Practitioners Act 1982 would have had, under that Act, in relation to those proceedings if that Act had not been repealed.
 (2) Section 106(4) of the Law Practitioners Act 1982 has effect, for the purposes of subsection (1) of this section, as if, for the words District Law Society in both places where they appear, there were substituted in each case the words New Zealand Law Society.
 
 ### 358 Exercise by New Zealand Lawyers and Conveyancers Disciplinary Tribunal of role of New Zealand Law Practitioners Disciplinary Tribunal
-(1) If any proceedings to which section 353 of this Act applies have not been determined by the close of the period of 6 months beginning with the date of the commencement of this section, then, from the close of that period, the New Zealand Lawyers and Conveyancers Disciplinary Tribunal has, despite the repeals effected by this Act, the duties and powers that the New Zealand Law Practitioners Disciplinary Tribunal established under the Law Practitioners Act 1982 would have had, under that Act, in relation to those proceedings if that Act had not been repealed.
+(1) If any proceedings to which section 353 applies have not been determined by the close of the period of 6 months beginning with the date of the commencement of this section, then, from the close of that period, the New Zealand Lawyers and Conveyancers Disciplinary Tribunal has, despite the repeals effected by this Act, the duties and powers that the New Zealand Law Practitioners Disciplinary Tribunal established under the Law Practitioners Act 1982 would have had, under that Act, in relation to those proceedings if that Act had not been repealed.
 (2) Despite subsection (1), no conveyancer may sit as a member of the New Zealand Lawyers and Conveyancers Disciplinary Tribunal when it is carrying out the duties or exercising the powers of the New Zealand Law Practitioners Disciplinary Tribunal.
 
 ### 359 Appeal from decision of District Disciplinary Tribunal or Lawyers Standards Committee exercising powers of District Disciplinary Tribunal
@@ -3554,8 +3529,8 @@ If any proceedings to which section 353 of this Act applies have not been determ
   (a) the practitioner or person to whom the order or decision relates:
   (b) the Standards Committee referred to in section 361(2) of this Act, where the proceedings before the New Zealand Law Practitioners Disciplinary Tribunal or the New Zealand Lawyers and Conveyancers Disciplinary Tribunal were—
     (i) brought by a District Council (within the meaning of the Law Practitioners Act 1982) or a committee appointed under section 100 of that Act; or
-    (ii) commenced by the referral of a charge to the New Zealand Law Practitioners Disciplinary Tribunal or the New Zealand Lawyers and Conveyancers Disciplinary Tribunal by a District Disciplinary Tribunal within the meaning of the Law Practitioners Act 1982 or a Lawyers Standards Committee appointed under section 357 of this Act to carry out the duties and exercise the powers of such a District Disciplinary Tribunal;
-    (iii) or by way of appeal against an order or decision of a District Disciplinary Tribunal (within the meaning of the Law Practitioners Act 1982) or a Lawyers Standards Committee appointed under section 357 of this Act to carry out the duties and exercise the powers of such a District Disciplinary Tribunal:
+    (ii) commenced by the referral of a charge to the New Zealand Law Practitioners Disciplinary Tribunal or the New Zealand Lawyers and Conveyancers Disciplinary Tribunal by a District Disciplinary Tribunal within the meaning of the Law Practitioners Act 1982 or a Lawyers Standards Committee appointed under section 357 of this Act to carry out the duties and exercise the powers of such a District Disciplinary Tribunal; or
+    (iii) by way of appeal against an order or decision of a District Disciplinary Tribunal (within the meaning of the Law Practitioners Act 1982) or a Lawyers Standards Committee appointed under section 357 of this Act to carry out the duties and exercise the powers of such a District Disciplinary Tribunal:
   (c) the Standards Committee referred to in section 361(2) of this Act, where the proceedings before the New Zealand Law Practitioners Disciplinary Tribunal or the New Zealand Lawyers and Conveyancers Disciplinary Tribunal were commenced by the referral to the Tribunal of a matter concerning the issue of a practising certificate under section 58 of the Law Practitioners Act 1982.
 (3) The Law Practitioners Act 1982 is (subject to the modifications made to it by this Act) to have effect in relation to any appeal under section 118 of the Law Practitioners Act 1982 as if that Act had not been repealed.
 
@@ -3571,18 +3546,18 @@ If any proceedings to which section 353 of this Act applies have not been determ
 ### 362 Law Society inspectorate
 (1) Despite the repeal of the Law Practitioners Act 1982 by this Act, every person who, by virtue of an appointment under section 88A(2)(a) of that Act as an inspector, is, at the commencement of this section, a member of the Law Society inspectorate both—
   (a) continues to be, subject to his or her terms and conditions of employment and to subsection (6) of this section, a member of that inspectorate; and
-  (b) is deemed to be, subject to his or her terms and conditions of employment and to subsection (6) of this section, a member of the Law Society inspectorate established by the New Zealand Law Society pursuant to regulations made under section 115 of this Act.
-(2) An inspector continued in office by subsection (1)(a) of this section may, in relation to any complaints made or proceedings commenced or reviews or investigations begun before the commencement of this Act, discharge his or her functions and duties under the Law Practitioners Act 1982 and any regulations made under section 91 of that Act.
-(3) For the purposes of subsection (2) of this section, each inspector to whom that subsection applies has all necessary powers and may exercise, despite the repeals effected by this Act, the rights and powers conferred on the Law Society inspectorate by any regulations made, before the commencement of this section, under section 91 of the Law Practitioners Act 1982.
+  (b) is deemed to be, subject to his or her terms and conditions of employment and to subsection (6), a member of the Law Society inspectorate established by the New Zealand Law Society pursuant to regulations made under section 115 of this Act.
+(2) An inspector continued in office by subsection (1)(a) may, in relation to any complaints made or proceedings commenced or reviews or investigations begun before the commencement of this Act, discharge his or her functions and duties under the Law Practitioners Act 1982 and any regulations made under section 91 of that Act.
+(3) For the purposes of subsection (2), each inspector to whom that subsection applies has all necessary powers and may exercise, despite the repeals effected by this Act, the rights and powers conferred on the Law Society inspectorate by any regulations made, before the commencement of this section, under section 91 of the Law Practitioners Act 1982.
 (4) Subsections (4) to (6) of section 88A of the Law Practitioners Act 1982 continue, despite the repeal of that Act, to have effect in relation to any person continued in office by subsection (1) of this section.
-(5) The Law Society inspectorate continued in office by subsection (1) of this section must report on its operations to the Council of the New Zealand Law Society at such times and in such form as may from time to time be required by that Council.
-(6) The New Zealand Law Society may remove from the office to which subsection (1)(a) of this section relates or from the office to which subsection (1)(b) of this section relates or from both any inspector continued in office by subsection (1) of this section.
+(5) The Law Society inspectorate continued in office by subsection (1) must report on its operations to the Council of the New Zealand Law Society at such times and in such form as may from time to time be required by that Council.
+(6) The New Zealand Law Society may remove from the office to which subsection (1)(a) relates or from the office to which subsection (1)(b) relates or from both any inspector continued in office by subsection (1).
 (7) The repeal of the Law Practitioners Act 1982 does not affect the liability of any person to pay any fee that, at the commencement of this section, is payable by that person pursuant to a resolution made under section 88A(7) of that Act.
 
 **Transitional provisions relating to Solicitors' Fidelity Guarantee Fund**
 
 ### 363 Continuation of Part 9 of Law Practitioners Act 1982
-Despite the repeal of the Law Practitioners Act 1982 by section 349, the provisions of Part 9 of the Law Practitioners Act 1982 and of the Solicitors' Guarantee Fund Rules 1936 (SR 1936/60) are, subject to sections 364 to 369, to continue to be in force until section 370 of this Act comes into force.
+Despite the repeal of the Law Practitioners Act 1982 by section 349, the provisions of Part 9 of the Law Practitioners Act 1982 and of the Solicitors' Guarantee Fund Rules 1936 (SR 1936/60) are, subject to sections 364 to 369, to continue to be in force until section 370 comes into force.
 
 ### 364 Money payable into Solicitors' Fidelity Guarantee Fund
 For the purposes of section 363, section 160 of the Law Practitioners Act 1982 must be read as if, for paragraphs (a) and (aa), there were substituted the following paragraphs:.
@@ -3627,7 +3602,7 @@ For the purposes of section 363, section 160 of the Law Practitioners Act 1982 m
   (b) the other two-thirds must be held in trust by the New Zealand Law Society to be applied by that society in carrying out its functions under section 66 (representative functions).
 
 ### 370 Repeal of provisions relating to Solicitors' Fidelity Guarantee Fund
-(1) Sections 363 to 369 of this Act are repealed.
+(1) Sections 363 to 369 are repealed.
 (2) This section comes into force on a date to be appointed by the Governor-General by Order in Council.
 
 **Transitional provisions relating to barristers and solicitors**
@@ -3706,7 +3681,7 @@ Despite the repeal of the Law Practitioners Act 1982, every District Law Society
   (b) any information recorded or stored by means of any tape-recorder, computer, or other device, and any material subsequently derived from information so recorded or stored:
   (c) any label, marking, or other writing that identifies or describes any thing of which it forms part, or to which it is attached by any means:
   (d) any book, map, plan, graph, or drawing:
-  (e) any photograph, film, negative, tape, or other device in which one or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced.
+  (e) any photograph, film, negative, tape, or other device in which 1 or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced.
 
 ### 380 Administration of solicitor's trust account
 (1) If a District Law Society to which section 372 applies holds, on the commencement of that section, any money received by that Society as the result of the exercise of its powers under section 82 of the Law Practitioners Act 1982, or receives, after the commencement of that section, any money paid to it as the result of the service, before or after the commencement of that section, of a notice under section 82(1) of that Act, that District Law Society, before it is dissolved under section 372(b), must, subject to any order of the High Court, pay that money to the New Zealand Law Society.
@@ -3758,11 +3733,11 @@ Every person who, at the commencement of this section, holds office as President
   (b) a fit and proper person to be registered as a conveyancer.
 (3) Every licence as a landbroker that is held under section 229 of the Land Transfer Act 1952 by a person to whom this section applies is, unless sooner revoked under section 232 of that Act, cancelled as from the earlier of—
   (a) the registration of that person as a conveyancer; or
-  (b) the close of the period of 12 months referred to in subsection (2) of this section.
+  (b) the close of the period of 12 months referred to in subsection (2).
 (4) Nothing in this Act prevents a person to whom this section applies from acting as a landbroker in the period beginning with the date on which this Act received the Royal assent and ending with the earlier of—
   (a) the registration of that person as a conveyancer; or
-  (b) the close of the period of 12 months referred to in subsection (2) of this section.
-(5) Nothing in sections 32, 33, and 35 prevents a person to whom this section applies from carrying out, in the period beginning with the date on which this Act received the Royal assent and ending with the close of the period of 12 months referred to in subsection (2) of this section, any of the following actions:
+  (b) the close of the period of 12 months referred to in subsection (2).
+(5) Nothing in sections 32, 33, and 35 prevents a person to whom this section applies from carrying out, in the period beginning with the date on which this Act received the Royal assent and ending with the close of the period of 12 months referred to in subsection (2), any of the following actions:
   (a) providing conveyancing services in New Zealand and describing himself or herself as a conveyancing practitioner, conveyancer, or landbroker:
   (b) using, in connection with his or her business, employment, or profession, any words, initials, abbreviations of words, symbols, or representations intended or likely to cause any other person to believe that the person is qualified to undertake conveyancing:
   (c) providing conveyancing services to any other person for gain or reward.
@@ -3796,8 +3771,8 @@ Every person who, at the commencement of this section, holds office as President
 
 ### 392 Quorum
 (1) In respect of the period specified in subsection (2), this Act is to have effect, in relation to any proceedings before the Disciplinary Tribunal or a division of the Disciplinary Tribunal that relate to a conveyancing practitioner or former conveyancing practitioner or an incorporated conveyancing firm or former conveyancing firm or an employee or former employee of a conveyancing practitioner or an incorporated conveyancing firm, as if—
-  (a) in section 234(2), there were substituted for the words an even number that is not less than 4, the figure 2 ; and
-  (b) in section 235(1), there were substituted for the figure 5, the figure 3 ; and
+  (a) in section 234(2), there were substituted for the words an even number that is not less than 4, the figure 2; and
+  (b) in section 235(1), there were substituted for the figure 5, the figure 3; and
   (c) in section 244(2), there were substituted for the figure 5, the figure 3.
 (2) The period specified for the purposes of subsection (1) is the period—
   (a) beginning with the date appointed for the commencement of sections 234, 235, and 244; and
@@ -4000,7 +3975,7 @@ A person appointed under section 109 must not communicate any matter that may co
   (d) to an investigator appointed under section 144; or
   (e) in evidence in proceedings before a Standards Committee or the Disciplinary Tribunal; or
   (f) to the Legal Complaints Review Officer; or
-  (g) to a member of the New Zealand Police or the Serious Fraud Office acting in the performance of his or her duty; or
+  (g) to a constable or member of the Serious Fraud Office acting in the performance of his or her duty; or
   (h) to the Registrar-General of Land for the purpose of enabling the Registrar-General of Land to discharge his or her duties under the Land Transfer Act 1952 or any other enactment; or
   (i) in evidence in any court.
 
@@ -4014,7 +3989,7 @@ Where the New Zealand Law Society or the New Zealand Society of Conveyancers rec
   (b) to any incorporated law firm or incorporated conveyancing firm to which the report relates, or to any lawyer representing that firm or practice:
   (c) to any auditor of the trust account of the lawyer or conveyancing practitioner or firm or practice:
   (d) to the Council of the Institute of Chartered Accountants of New Zealand:
-  (e) to a member of the New Zealand Police or the Serious Fraud Office acting in the performance of his or her duty:
+  (e) to a constable or member of the Serious Fraud Office acting in the performance of his or her duty:
   (f) to the Registrar-General of Land if the society considers that the communication of the contents of the report, or of part of the contents of the report, to the Registrar-General of Land is relevant to the discharge by the Registrar-General of Land of his or her duties under the Land Transfer Act 1952 or any other enactment.
 
 ### 7 Power to give information to client
@@ -4092,7 +4067,7 @@ Every counsel appearing before the Legal Complaints Review Officer has the same 
     (ii) the Legal Complaints Review Officer; or
     (iii) the Disciplinary Tribunal; or
     (iv) the Disciplinary Tribunal of the Institute of Chartered Accountants of New Zealand; or
-  (c) to a member of the New Zealand Police or the Serious Fraud Office acting in the performance of his or her duty; or
+  (c) to a constable or member of the Serious Fraud Office acting in the performance of his or her duty; or
   (d) to the Registrar-General of Land for the purpose of enabling the Registrar-General of Land to discharge his or her duties under the Land Transfer Act 1952 or any other enactment; or
   (e) in evidence in any court.
 
@@ -4229,9 +4204,9 @@ The members of the Council, and the members of any committee appointed by the Co
   (b) an equal employment opportunities programme; and
   (c) the impartial selection of suitably qualified people for appointment; and
   (d) recognition of—
-    (i) the aims and aspirations of Maori; and
-    (ii) the employment requirements of Maori; and
-    (iii) the need for involvement of Maori as employees of the employer operating the policy; and
+    (i) the aims and aspirations of Māori; and
+    (ii) the employment requirements of Māori; and
+    (iii) the need for involvement of Māori as employees of the employer operating the policy; and
   (e) opportunities for the enhancement of the abilities of individual employees; and
   (f) recognition of the aims and aspirations, and the cultural differences, of ethnic or minority groups; and
   (g) recognition of the employment requirements of women; and
@@ -4276,7 +4251,7 @@ Any money which belongs to the Council and which is not immediately required for
 (3) The execution of any document so sealed must be attested to—
   (a) by the chairperson of the Council or the chief executive of the Council; and
   (b) by 2 members of the Council.
-(4) The common seal of the Council must be judicially noticed in all Courts and for all purposes.
+(4) The common seal of the Council must be judicially noticed in all courts and for all purposes.
 
 ### 16 Exemption from income tax
 The income of the Council is exempt from income tax.
