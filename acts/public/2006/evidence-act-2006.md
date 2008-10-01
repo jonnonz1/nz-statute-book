@@ -1,5 +1,5 @@
 # Evidence Act 2006
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-10-01_
 
 ### 1 Title
 This Act is the Evidence Act 2006.
@@ -18,7 +18,7 @@ This Act binds the Crown.
 (1) In this Act, unless the context otherwise requires,—
   - **admission** , in relation to a civil proceeding, means a statement that is—
     (a) made by a person who is or becomes a party to the proceeding; and
-    (b) adverse to the person's interest in the outcome of the proceeding
+    (b) adverse to the person’s interest in the outcome of the proceeding
   - **child** means a person under the age of 18 years
   - **child complainant** , in relation to any proceeding, means a complainant who is a child when the proceeding commences
   - **common bundle** means a compilation of documents that the parties to a civil proceeding wish to offer in evidence at the hearing of the proceeding, being a compilation that—
@@ -68,7 +68,7 @@ This Act binds the Crown.
   - **international organisation** means an organisation of States or governments of States or an organ or agency of an organisation of that kind, and includes the Commonwealth Secretariat
   - **interpreter** includes a person who provides communication assistance to a defendant or a witness
   - **investigative questioning** means questioning in connection with the investigation of an offence or a possible offence by, or in the presence of,—
-    (a) a member of the police; or
+    (a) a constable; or
     (b) a person whose functions include the investigation of offences
   - **Judge** includes a Justice of the Peace, a community magistrate, and any tribunal
   - **lawyer** means a barrister or solicitor, as those terms are defined in section 2 of the Law Practitioners Act 1982
@@ -104,7 +104,7 @@ This Act binds the Crown.
     (b) an account (whether oral or in writing) of an assertion of the kind described in paragraph (a)
   - **voice identification evidence** means evidence that is an assertion by a person to the effect that a voice, whether heard first-hand or through mechanical or electronic transmission or recording, is the voice of a defendant or any other person who was connected with an act constituting direct or circumstantial evidence of the commission of an offence
   - **witness** means a person who gives evidence and is able to be cross-examined in a proceeding.
-(2) A hearing commences for the purposes of this Act when at the substantive hearing of the issues that are the subject of proceedings the party having the right to begin commences to state that party's case or, having waived the right to make an opening address, calls that party's first witness.
+(2) A hearing commences for the purposes of this Act when at the substantive hearing of the issues that are the subject of proceedings the party having the right to begin commences to state that party’s case or, having waived the right to make an opening address, calls that party’s first witness.
 
 ### 5 Application
 (1) If there is an inconsistency between the provisions of this Act and any other enactment, the provisions of that other enactment prevail, unless this Act provides otherwise.
@@ -166,7 +166,7 @@ If there is no provision in this Act or any other enactment regulating the admis
 ### 12A Rules of common law relating to statements of co-conspirators, persons involved in joint criminal enterprises, and certain co-defendants preserved
 Nothing in this Act affects the rules of the common law relating to—
   (a) the admissibility of statements of co-conspirators or persons involved in joint criminal enterprises; or
-  (b) the admissibility of a defendant's statement against a co-defendant in circumstances where the defendant's statement is accepted by the co-defendant.
+  (b) the admissibility of a defendant’s statement against a co-defendant in circumstances where the defendant’s statement is accepted by the co-defendant.
 
 ### 13 Establishment of relevance of document
 If a question arises concerning the relevance of a document, the Judge may examine it and draw any reasonable inference from it, including an inference as to its authenticity and identity.
@@ -176,7 +176,7 @@ If a question arises concerning the admissibility of any evidence, the Judge may
 
 ### 15 Evidence given to establish admissibility
 Evidence given by a witness to prove the facts necessary for deciding whether some other evidence should be admitted in a proceeding—
-  (a) is admissible in the proceeding if the evidence given by the witness is inconsistent with the witness's subsequent testimony in the proceeding (whether or not the other evidence is admitted):
+  (a) is admissible in the proceeding if the evidence given by the witness is inconsistent with the witness’s subsequent testimony in the proceeding (whether or not the other evidence is admitted):
   (b) is not otherwise admissible in the proceeding.
 
 ## Part 2 — Admissibility rules, privilege, and confidentiality
@@ -244,7 +244,7 @@ A hearsay statement is not admissible except—
   (b) every other party has waived those requirements; or
   (c) the Judge dispenses with those requirements.
 (2) A party who proposes to offer a hearsay statement in a criminal proceeding, must provide every other party with a written notice stating—
-  (a) the party's intention to offer the hearsay statement in evidence; and
+  (a) the party’s intention to offer the hearsay statement in evidence; and
   (b) the name of the maker of the statement, if known (subject to the terms of any witness anonymity order); and
   (c) if the hearsay statement was made orally, the contents of the hearsay statement; and
   (d) if section 18(1)(a) is relied on, the circumstances relating to the statement that provide reasonable assurance that the statement is reliable; and
@@ -272,8 +272,8 @@ A witness may state an opinion in evidence in a proceeding if that opinion is ne
   (a) an ultimate issue to be determined in a proceeding; or
   (b) a matter of common knowledge.
 (3) If an opinion by an expert is based on a fact that is outside the general body of knowledge that makes up the expertise of the expert, the opinion may be relied on by the fact-finder only if that fact is or will be proved or judicially noticed in the proceeding.
-(4) If expert evidence about the sanity of a person is based in whole or in part on a statement that the person made to the expert about the person's state of mind, then—
-  (a) the statement of the person is admissible to establish the facts on which the expert's opinion is based; and
+(4) If expert evidence about the sanity of a person is based in whole or in part on a statement that the person made to the expert about the person’s state of mind, then—
+  (a) the statement of the person is admissible to establish the facts on which the expert’s opinion is based; and
   (b) neither the hearsay rule nor the previous consistent statements rule applies to evidence of the statement made by the person.
 (5) Subsection (3) is subject to subsection (4).
 
@@ -281,9 +281,9 @@ A witness may state an opinion in evidence in a proceeding if that opinion is ne
 (1) In a civil proceeding, experts are to conduct themselves in preparing and giving expert evidence in accordance with the applicable rules of court relating to the conduct of experts.
 (2) The expert evidence of an expert who has not complied with rules of court of the kind specified in subsection (1) may be given only with the permission of the Judge.
 
-### Subpart 3 — Defendants' statements, improperly obtained evidence, silence of parties in proceedings, and admissions in civil proceedings
+### Subpart 3 — Defendants’ statements, improperly obtained evidence, silence of parties in proceedings, and admissions in civil proceedings
 
-### 27 Defendants' statements offered by prosecution
+### 27 Defendants’ statements offered by prosecution
 (1) Evidence offered by the prosecution in a criminal proceeding of a statement made by a defendant is admissible against that defendant, but not against a co-defendant in the proceeding.
 (2) However, evidence offered under subsection (1) is not admissible against that defendant if it is excluded under section 28, 29, or 30.
 (3) Subpart 1 (hearsay evidence), subpart 2 (opinion evidence and expert evidence), and section 35 (previous consistent statements rule) do not apply to evidence offered under subsection (1).
@@ -330,19 +330,19 @@ A witness may state an opinion in evidence in a proceeding if that opinion is ne
   (d) the seriousness of the offence with which the defendant is charged:
   (e) whether there were any other investigatory techniques not involving any breach of the rights that were known to be available but were not used:
   (f) whether there are alternative remedies to exclusion of the evidence which can adequately provide redress to the defendant:
-  (g) whether the impropriety was necessary to avoid apprehended physical danger to the police or others:
+  (g) whether the impropriety was necessary to avoid apprehended physical danger to the Police or others:
   (h) whether there was any urgency in obtaining the improperly obtained evidence.
 (4) The Judge must exclude any improperly obtained evidence if, in accordance with subsection (2), the Judge determines that its exclusion is proportionate to the impropriety.
 (5) For the purposes of this section, evidence is improperly obtained if it is obtained—
   (a) in consequence of a breach of any enactment or rule of law by a person to whom section 3 of the New Zealand Bill of Rights Act 1990 applies; or
   (b) in consequence of a statement made by a defendant that is or would be inadmissible if it were offered in evidence by the prosecution; or
   (c) unfairly.
-(6) Without limiting subsection (5)(c), in deciding whether a statement obtained by a member of the police has been obtained unfairly for the purposes of that provision, the Judge must take into account guidelines set out in practice notes on that subject issued by the Chief Justice.
+(6) Without limiting subsection (5)(c), in deciding whether a statement obtained by a constable has been obtained unfairly for the purposes of that provision, the Judge must take into account guidelines set out in practice notes on that subject issued by the Chief Justice.
 
 ### 31 Prosecution may not rely on certain evidence offered by other parties
 Evidence that is liable to be excluded if offered by the prosecution in a criminal proceeding because of section 28 or 29 or 30 may not be relied on by the prosecution if that evidence is offered by any other party.
 
-### 32 Fact-finder not to be invited to infer guilt from defendant's silence before trial
+### 32 Fact-finder not to be invited to infer guilt from defendant’s silence before trial
 (1) This section applies to a criminal proceeding in which it appears that the defendant failed—
   (a) to answer a question put, or respond to a statement made, to the defendant in the course of investigative questioning before the trial; or
   (b) to disclose a defence before trial.
@@ -351,8 +351,8 @@ Evidence that is liable to be excluded if offered by the prosecution in a crimin
   (b) if the proceeding is with a jury, the Judge must direct the jury that it may not draw that inference from a failure of that kind.
 (3) This section does not apply if the fact that the defendant did not answer a question put, or respond to a statement made, before the trial is a fact required to be proved in the proceeding.
 
-### 33 Restrictions on comment on defendant's right of silence at trial
-In a criminal proceeding, no person other than the defendant or the defendant's counsel or the Judge may comment on the fact that the defendant did not give evidence at his or her trial.
+### 33 Restrictions on comment on defendant’s right of silence at trial
+In a criminal proceeding, no person other than the defendant or the defendant’s counsel or the Judge may comment on the fact that the defendant did not give evidence at his or her trial.
 
 ### 34 Admissions in civil proceedings
 (1) Subpart 1 (hearsay evidence), subpart 2 (opinion evidence and expert evidence), and section 35 (the previous consistent statements rule) do not apply to evidence of an admission offered in a civil proceeding that is—
@@ -368,9 +368,9 @@ In a criminal proceeding, no person other than the defendant or the defendant's 
 ### Subpart 4 — Previous consistent statements made by witness
 
 ### 35 Previous consistent statements rule
-(1) A previous statement of a witness that is consistent with the witness's evidence is not admissible unless subsection (2) or subsection (3) applies to the statement.
-(2) A previous statement of a witness that is consistent with the witness's evidence is admissible to the extent that the statement is necessary to respond to a challenge to the witness's veracity or accuracy, based on a previous inconsistent statement of the witness or on a claim of recent invention on the part of the witness.
-(3) A previous statement of a witness that is consistent with the witness's evidence is admissible if—
+(1) A previous statement of a witness that is consistent with the witness’s evidence is not admissible unless subsection (2) or subsection (3) applies to the statement.
+(2) A previous statement of a witness that is consistent with the witness’s evidence is admissible to the extent that the statement is necessary to respond to a challenge to the witness’s veracity or accuracy, based on a previous inconsistent statement of the witness or on a claim of recent invention on the part of the witness.
+(3) A previous statement of a witness that is consistent with the witness’s evidence is admissible if—
   (a) the circumstances relating to the statement provide reasonable assurance that the statement is reliable; and
   (b) the statement provides the court with information that the witness is unable to recall.
 
@@ -379,15 +379,15 @@ In a criminal proceeding, no person other than the defendant or the defendant's 
 **Application**
 
 ### 36 Application of subpart to evidence of veracity and propensity
-(1) This subpart does not apply to evidence about a person's veracity if that veracity is an ingredient of the claim in a civil proceeding or one of the elements of the offence for which a person is being tried in a criminal proceeding.
+(1) This subpart does not apply to evidence about a person’s veracity if that veracity is an ingredient of the claim in a civil proceeding or one of the elements of the offence for which a person is being tried in a criminal proceeding.
 (2) This subpart does not apply so far as a proceeding relates to bail or sentencing.
 (3) Subsection (2) is subject to section 44.
 
 **Evidence of veracity**
 
 ### 37 Veracity rules
-(1) A party may not offer evidence in a civil or criminal proceeding about a person's veracity unless the evidence is substantially helpful in assessing that person's veracity.
-(2) In a criminal proceeding, evidence about a defendant's veracity must also comply with section 38 or, as the case requires, section 39.
+(1) A party may not offer evidence in a civil or criminal proceeding about a person’s veracity unless the evidence is substantially helpful in assessing that person’s veracity.
+(2) In a criminal proceeding, evidence about a defendant’s veracity must also comply with section 38 or, as the case requires, section 39.
 (3) In deciding, for the purposes of subsection (1), whether or not evidence proposed to be offered about the veracity of a person is substantially helpful, the Judge may consider, among any other matters, whether the proposed evidence tends to show 1 or more of the following matters:
   (a) lack of veracity on the part of the person when under a legal obligation to tell the truth (for example, in an earlier proceeding or in a signed declaration):
   (b) that the person has been convicted of 1 or more offences that indicate a propensity for dishonesty or lack of veracity:
@@ -395,21 +395,21 @@ In a criminal proceeding, no person other than the defendant or the defendant's 
   (d) bias on the part of the person:
   (e) a motive on the part of the person to be untruthful.
 (4) A party who calls a witness—
-  (a) may not offer evidence to challenge that witness's veracity unless the Judge determines the witness to be hostile; but
+  (a) may not offer evidence to challenge that witness’s veracity unless the Judge determines the witness to be hostile; but
   (b) may offer evidence as to the facts in issue contrary to the evidence of that witness.
 (5) For the purposes of this Act, veracity means the disposition of a person to refrain from lying, whether generally or in the proceeding.
 
-### 38 Evidence of defendant's veracity
+### 38 Evidence of defendant’s veracity
 (1) A defendant in a criminal proceeding may offer evidence about his or her veracity.
-(2) The prosecution in a criminal proceeding may offer evidence about a defendant's veracity only if—
+(2) The prosecution in a criminal proceeding may offer evidence about a defendant’s veracity only if—
   (a) the defendant has offered evidence about his or her veracity or has challenged the veracity of a prosecution witness by reference to matters other than the facts in issue; and
   (b) the Judge permits the prosecution to do so.
 (3) In determining whether to give permission under subsection (2)(b), the Judge may take into account any of the following matters:
-  (a) the extent to which the defendant's veracity or the veracity of a prosecution witness has been put in issue in the defendant's evidence:
+  (a) the extent to which the defendant’s veracity or the veracity of a prosecution witness has been put in issue in the defendant’s evidence:
   (b) the time that has elapsed since any conviction about which the prosecution seeks to give evidence:
   (c) whether any evidence given by the defendant about veracity was elicited by the prosecution.
 
-### 39 Evidence of co-defendant's veracity
+### 39 Evidence of co-defendant’s veracity
 (1) A defendant in a criminal proceeding may offer evidence that challenges the veracity of a co-defendant only if—
   (a) the evidence is relevant to a defence raised or proposed to be raised by the defendant; and
   (b) the Judge permits the defendant to do so.
@@ -424,14 +424,14 @@ In a criminal proceeding, no person other than the defendant or the defendant's 
 
 ### 40 Propensity rule
 (1) In this section and sections 41 to 43, propensity evidence—
-  (a) means evidence that tends to show a person's propensity to act in a particular way or to have a particular state of mind, being evidence of acts, omissions, events, or circumstances with which a person is alleged to have been involved; but
+  (a) means evidence that tends to show a person’s propensity to act in a particular way or to have a particular state of mind, being evidence of acts, omissions, events, or circumstances with which a person is alleged to have been involved; but
   (b) does not include evidence of an act or omission that is—
     (i) 1 of the elements of the offence for which the person is being tried; or
     (ii) the cause of action in the proceeding in question.
 (2) A party may offer propensity evidence in a civil or criminal proceeding about any person.
 (3) However, propensity evidence about—
   (a) a defendant in a criminal proceeding may be offered only in accordance with section 41 or 42 or 43, whichever section is applicable; and
-  (b) a complainant in a sexual case in relation to the complainant's sexual experience may be offered only in accordance with section 44.
+  (b) a complainant in a sexual case in relation to the complainant’s sexual experience may be offered only in accordance with section 44.
 (4) Evidence that is solely or mainly relevant to veracity is governed by the veracity rules set out in section 37 and, accordingly, this section does not apply to evidence of that kind.
 
 ### 41 Propensity evidence about defendants
@@ -492,7 +492,7 @@ In a criminal proceeding, no person other than the defendant or the defendant's 
   (b) the singular appearance of the person to be identified (being of a nature that cannot be disguised so that the person is similar in appearance to those with whom the person is to be compared):
   (c) a substantial change in the appearance of the person to be identified after the alleged offence occurred and before it was practical to hold a formal procedure:
   (d) no officer involved in the investigation or the prosecution of the alleged offence could reasonably anticipate that identification would be an issue at the trial of the defendant:
-  (e) if an identification of a person alleged to have committed an offence has been made to an officer of an enforcement agency soon after the offence was reported and in the course of that officer's initial investigation:
+  (e) if an identification of a person alleged to have committed an offence has been made to an officer of an enforcement agency soon after the offence was reported and in the course of that officer’s initial investigation:
   (f) if an identification of a person alleged to have committed an offence has been made to an officer of an enforcement agency after a chance meeting between the person who made the identification and the person alleged to have committed the offence.
 
 ### 46 Admissibility of voice identification evidence
@@ -529,7 +529,7 @@ In a proceeding for defamation that is based on a statement to the effect that a
 (2) This section does not affect the operation of—
   (a) a judgment in rem; or
   (b) the law relating to res judicata or issue estoppel; or
-  (c) the law relating to an action on, or the enforcement of, a judgment
+  (c) the law relating to an action on, or the enforcement of, a judgment.
 
 ### Subpart 8 — Privilege and confidentiality
 
@@ -552,7 +552,7 @@ In a proceeding for defamation that is based on a statement to the effect that a
   (b) in a document that is prepared or created—
     (i) after and in response to a requirement to which any of those sections applies; but
     (ii) not for the principal purpose of avoiding criminal prosecution under New Zealand law.
-(4) A reference in this subpart to a communication made or received by a person or an act carried out by a person includes a reference to a communication made or received or an act carried out by an authorised representative of that person on that person's behalf.
+(4) A reference in this subpart to a communication made or received by a person or an act carried out by a person includes a reference to a communication made or received or an act carried out by an authorised representative of that person on that person’s behalf.
 (5) However, subsection (4) does not apply to any of the following sections:
   (a) section 58 (privilege for communications with ministers of religion):
   (b) section 59 (privilege in criminal proceedings for information obtained by medical practitioners and clinical psychologists):
@@ -561,10 +561,10 @@ In a proceeding for defamation that is based on a statement to the effect that a
 
 ### 52 Orders for protection of privileged or confidential material, or material relating to matters of State
 (1) A Judge may order that evidence must not be given in a proceeding of a communication, information, opinion, or document in respect of which a person has a privilege conferred by this subpart and may make an order under this subsection—
-  (a) on the Judge's own initiative; or
+  (a) on the Judge’s own initiative; or
   (b) on the application of the person who has the privilege; or
   (c) on the application of an interested person other than the person who has the privilege.
-(2) A Judge may give a direction under section 69 (confidential information) or section 70 (matters of State) on the Judge's own initiative or on the application of an interested person.
+(2) A Judge may give a direction under section 69 (confidential information) or section 70 (matters of State) on the Judge’s own initiative or on the application of an interested person.
 (3) An application under subsection (1) or (2) may be made at any time either before or after any relevant proceeding is commenced.
 (4) A Judge may give any directions that are necessary to protect the confidentiality of, or limit the use which may be made of,—
   (a) any privileged communication, information, opinion, or document that is disclosed to a Judge or other body or person in compliance with a judicial or administrative order; or
@@ -581,7 +581,7 @@ In a proceeding for defamation that is based on a statement to the effect that a
 (3) A person who has a privilege conferred by any of sections 54 to 59 and 64 in respect of a communication, information, opinion, or document may require that the communication, information, opinion, or document not be disclosed in a proceeding—
   (a) by the person to whom the communication is made or the information is given, or by whom the opinion is given or the information or document is prepared or compiled; or
   (b) by any other person who has come into possession of it with the authority of the person who has the privilege, in confidence and for purposes related to the circumstances that have given rise to the privilege.
-(4) If a communication, information, opinion, or document, in respect of which a person has a privilege conferred by any of sections 54 to 59 and 64, is in the possession of a person other than a person referred to in subsection (3), a Judge may, on the Judge's own initiative or on the application of the person who has the privilege, order that the communication, information, opinion, or document not be disclosed in a proceeding.
+(4) If a communication, information, opinion, or document, in respect of which a person has a privilege conferred by any of sections 54 to 59 and 64, is in the possession of a person other than a person referred to in subsection (3), a Judge may, on the Judge’s own initiative or on the application of the person who has the privilege, order that the communication, information, opinion, or document not be disclosed in a proceeding.
 (5) This Act does not affect the general law governing legal professional privilege, so far as it applies to the determination of claims to that privilege that are made neither in the course of, nor for the purpose of, a proceeding.
 
 ### 54 Privilege for communications with legal advisers
@@ -603,7 +603,7 @@ In a proceeding for defamation that is based on a statement to the effect that a
   (i) confidential information:
   (j) all other rights resulting from intellectual activity in the industrial, scientific, literary, or artistic fields.
 
-### 55 Privilege and solicitors' trust accounts
+### 55 Privilege and solicitors’ trust accounts
 (1) This section applies to documents that are books of account or accounting records kept—
   (a) by a solicitor in relation to any trust account money that is subject to section 112 of the Lawyers and Conveyancers Act 2006; or
   (b) by a nominee company that—
@@ -618,9 +618,9 @@ In a proceeding for defamation that is based on a statement to the effect that a
 (1) Subsection (2) applies to a communication or information only if the communication or information is made, received, compiled, or prepared for the dominant purpose of preparing for a proceeding or an apprehended proceeding (the proceeding).
 (2) A person (the party) who is, or on reasonable grounds contemplates becoming, a party to the proceeding has a privilege in respect of—
   (a) a communication between the party and any other person:
-  (b) a communication between the party's legal adviser and any other person:
-  (c) information compiled or prepared by the party or the party's legal adviser:
-  (d) information compiled or prepared at the request of the party, or the party's legal adviser, by any other person.
+  (b) a communication between the party’s legal adviser and any other person:
+  (c) information compiled or prepared by the party or the party’s legal adviser:
+  (d) information compiled or prepared at the request of the party, or the party’s legal adviser, by any other person.
 (3) If the proceeding is under, or to be under, Part 2 of the Children, Young Persons, and Their Families Act 1989 or the Care of Children Act 2004 (other than a criminal proceeding under that Part or that Act), a Judge may, if satisfied that it is in the best interests of the child to do so, determine that subsection (2) does not apply in respect of any communication or information that the Judge specifies.
 
 ### 57 Privilege for settlement negotiations or mediation
@@ -637,7 +637,7 @@ In a proceeding for defamation that is based on a statement to the effect that a
 
 ### 58 Privilege for communications with ministers of religion
 (1) A person has a privilege in respect of any communication between that person and a minister of religion if the communication was—
-  (a) made in confidence to or by the minister in the minister's capacity as a minister of religion; and
+  (a) made in confidence to or by the minister in the minister’s capacity as a minister of religion; and
   (b) made for the purpose of the person obtaining or receiving from the minister religious or spiritual advice, benefit, or comfort.
 (2) A person is a minister of religion for the purposes of this section if the person has a status within a church or other religious or spiritual community that requires or calls for that person—
   (a) to receive confidential communications of the kind described in subsection (1); and
@@ -662,14 +662,14 @@ In a proceeding for defamation that is based on a statement to the effect that a
   (a) a person is (apart from this section) required to provide specific information—
     (i) in the course of a proceeding; or
     (ii) by a person exercising a statutory power or duty; or
-    (iii) by a police officer or other person holding a public office in the course of an investigation into a criminal offence or possible criminal offence; and
+    (iii) by a constable or other person holding a public office in the course of an investigation into a criminal offence or possible criminal offence; and
   (b) the information would, if so provided, be likely to incriminate the person under New Zealand law for an offence punishable by a fine or imprisonment.
 (2) The person—
   (a) has a privilege in respect of the information and cannot be required to provide it; and
   (b) cannot be prosecuted or penalised for refusing or failing to provide the information, whether or not the person claimed the privilege when the person refused or failed to provide the information.
 (3) Subsection (2) has effect—
-  (a) unless an enactment removes the privilege against self incrimination either expressly or by necessary implication; and
-  (b) to the extent that an enactment does not expressly or by necessary implication remove the privilege against self incrimination.
+  (a) unless an enactment removes the privilege against self-incrimination either expressly or by necessary implication; and
+  (b) to the extent that an enactment does not expressly or by necessary implication remove the privilege against self-incrimination.
 (4) Subsection (2) does not enable a claim of privilege to be made—
   (a) on behalf of a body corporate; or
   (b) on behalf of any person other than the person required to provide the information (except by a legal adviser on behalf of a client who is so required); or
@@ -681,7 +681,7 @@ In a proceeding for defamation that is based on a statement to the effect that a
   (a) that a person is (apart from this section) required to provide—
     (i) in the course of a proceeding; or
     (ii) by a person exercising a statutory power or duty; or
-    (iii) by a police officer or other person holding a public office in the course of an investigation into a criminal offence or possible criminal offence; and
+    (iii) by a constable or other person holding a public office in the course of an investigation into a criminal offence or possible criminal offence; and
   (b) that would, if so provided, be likely to incriminate the person under foreign law for an offence punishable by—
     (i) capital punishment; or
     (ii) corporal punishment or imprisonment, or both.
@@ -692,7 +692,7 @@ In a proceeding for defamation that is based on a statement to the effect that a
   (c) a defendant in a criminal proceeding when giving evidence about the matter for which the defendant is being tried.
 
 ### 62 Claiming privilege against self-incrimination in court proceedings
-(1) If in a court proceeding it appears to the Judge that a party or witness may have grounds to claim a privilege against self incrimination in respect of specific information required to be provided by that person, the Judge must satisfy himself or herself that the person is aware of the privilege and its effect.
+(1) If in a court proceeding it appears to the Judge that a party or witness may have grounds to claim a privilege against self-incrimination in respect of specific information required to be provided by that person, the Judge must satisfy himself or herself that the person is aware of the privilege and its effect.
 (2) A person who claims a privilege against self-incrimination in a court proceeding must offer sufficient evidence to enable the Judge to assess whether self-incrimination is reasonably likely if the person provides the required information.
 
 ### 63 Replacement of privilege with respect to disclosure requirements in civil proceedings
@@ -702,14 +702,14 @@ In a proceeding for defamation that is based on a statement to the effect that a
   (c) to permit documents or things to be inspected, recorded, copied, or removed; or
   (d) to secure or produce documents or things.
 (2) The person does not have the privilege provided for by section 60 and must comply with the terms of the order.
-(3) No evidence of any information that has directly or indirectly been obtained as a result of the person's compliance with the order may be used against the person in any criminal proceeding, except in a criminal proceeding that concerns the falsity of the information.
+(3) No evidence of any information that has directly or indirectly been obtained as a result of the person’s compliance with the order may be used against the person in any criminal proceeding, except in a criminal proceeding that concerns the falsity of the information.
 
 ### 64 Informers
-(1) An informer has a privilege in respect of information that would disclose, or is likely to disclose, the informer's identity.
+(1) An informer has a privilege in respect of information that would disclose, or is likely to disclose, the informer’s identity.
 (2) A person is an informer for the purposes of this section if the person—
   (a) has supplied, gratuitously or for reward, information to an enforcement agency, or to a representative of an enforcement agency, concerning the possible or actual commission of an offence in circumstances in which the person has a reasonable expectation that his or her identity will not be disclosed; and
   (b) is not called as a witness by the prosecution to give evidence relating to that information.
-(3) An informer may be a member of the police working undercover.
+(3) An informer may be a constable working undercover.
 
 ### 65 Waiver
 (1) A person who has a privilege conferred by any of sections 54 to 60 and 64 may waive that privilege either expressly or impliedly.
@@ -738,18 +738,18 @@ In a proceeding for defamation that is based on a statement to the effect that a
 
 **Confidentiality**
 
-### 68 Protection of journalists' sources
-(1) If a journalist has promised an informant not to disclose the informant's identity, neither the journalist nor his or her employer is compellable in a civil or criminal proceeding to answer any question or produce any document that would disclose the identity of the informant or enable that identity to be discovered.
+### 68 Protection of journalists’ sources
+(1) If a journalist has promised an informant not to disclose the informant’s identity, neither the journalist nor his or her employer is compellable in a civil or criminal proceeding to answer any question or produce any document that would disclose the identity of the informant or enable that identity to be discovered.
 (2) A Judge of the High Court may order that subsection (1) is not to apply if satisfied by a party to a civil or criminal proceeding that, having regard to the issues to be determined in that proceeding, the public interest in the disclosure of evidence of the identity of the informant outweighs—
   (a) any likely adverse effect of the disclosure on the informant or any other person; and
   (b) the public interest in the communication of facts and opinion to the public by the news media and, accordingly also, in the ability of the news media to access sources of facts.
 (3) The Judge may make the order subject to any terms and conditions that the Judge thinks appropriate.
 (4) This section does not affect the power or authority of the House of Representatives.
 (5) In this section,—
-  - **informant** means a person who gives information to a journalist in the normal course of the journalist's work in the expectation that the information may be published in a news medium
-  - **journalist** means a person who in the normal course of that person's work may be given information by an informant in the expectation that the information may be published in a news medium
+  - **informant** means a person who gives information to a journalist in the normal course of the journalist’s work in the expectation that the information may be published in a news medium
+  - **journalist** means a person who in the normal course of that person’s work may be given information by an informant in the expectation that the information may be published in a news medium
   - **news medium** means a medium for the dissemination to the public or a section of the public of news and observations on news
-  - **public interest in the disclosure of evidence** includes, in a criminal proceeding, the defendant's right to present an effective defence.
+  - **public interest in the disclosure of evidence** includes, in a criminal proceeding, the defendant’s right to present an effective defence.
 
 ### 69 Overriding discretion as to confidential information
 (1) A direction under this section is a direction that any 1 or more of the following not be disclosed in a proceeding:
@@ -771,7 +771,7 @@ In a proceeding for defamation that is based on a statement to the effect that a
   (f) the sensitivity of the evidence, having regard to—
     (i) the time that has elapsed since the communication was made or the information was compiled or prepared; and
     (ii) the extent to which the information has already been disclosed to other persons; and
-  (g) society's interest in protecting the privacy of victims of offences and, in particular, victims of sexual offences.
+  (g) society’s interest in protecting the privacy of victims of offences and, in particular, victims of sexual offences.
 (4) The Judge may, in addition to the matters stated in subsection (3), have regard to any other matters that the Judge considers relevant.
 (5) A Judge may give a direction under this section that a communication or information not be disclosed whether or not the communication or information is privileged by another provision of this subpart or would, except for a limitation or restriction imposed by this subpart, be privileged.
 
@@ -815,7 +815,7 @@ None of the following persons is compellable to give evidence:
   (a) the Sovereign:
   (b) the Governor-General:
   (c) a Sovereign or Head of State of a foreign country:
-  (d) a Judge, in respect of the Judge's conduct as a Judge.
+  (d) a Judge, in respect of the Judge’s conduct as a Judge.
 
 ### 75 Bank officer not compellable to produce banking records
 (1) In any proceedings to which a bank is not a party, no officer of the bank is compellable—
@@ -871,7 +871,7 @@ A person must either take an oath or make an affirmation before acting as an int
 (2) Communication assistance may be provided to a defendant in a criminal proceeding on the application of the defendant in the proceeding or on the initiative of the Judge.
 (3) A witness in a civil or criminal proceeding is entitled to communication assistance in accordance with this section and any regulations made under this Act to enable that witness to give evidence.
 (4) Communication assistance may be provided to a witness on the application of the witness or any party to the proceeding or on the initiative of the Judge.
-(5) Any statement made in Court to a Judge or a witness by a person providing communication assistance must, if known by the person making that statement to be false and intended by that person to be misleading, be treated as perjury for the purposes of sections 108 and 109 of the Crimes Act 1961.
+(5) Any statement made in court to a Judge or a witness by a person providing communication assistance must, if known by the person making that statement to be false and intended by that person to be misleading, be treated as perjury for the purposes of sections 108 and 109 of the Crimes Act 1961.
 
 ### 81 Communication assistance need not be provided in certain circumstances
 (1) Communication assistance need not be provided to a defendant in a criminal proceeding if the Judge considers that the defendant—
@@ -884,11 +884,11 @@ A person must either take an oath or make an affirmation before acting as an int
 (1) If, in any proceeding, the Judge considers that a view is in the interests of justice, the Judge may—
   (a) hold a view; or
   (b) if there is a jury, order a view.
-(2) A view may be held or ordered on the application of any party or on the Judge's own initiative.
-(3) If there is a jury, a view may be ordered to be held at any time before the jury retires, and the Judge may order a further view of the same place or thing during the jury's deliberations.
+(2) A view may be held or ordered on the application of any party or on the Judge’s own initiative.
+(3) If there is a jury, a view may be ordered to be held at any time before the jury retires, and the Judge may order a further view of the same place or thing during the jury’s deliberations.
 (4) If there is not a jury, the Judge may hold a view at any time before judgment is delivered.
 (5) Information obtained at a view may be used as though that information had been given in evidence.
-(6) Every party, including the defendant in a criminal proceeding, and lawyers for the parties, is entitled to attend a view, but any party, or that party's lawyer, may waive that entitlement.
+(6) Every party, including the defendant in a criminal proceeding, and lawyers for the parties, is entitled to attend a view, but any party, or that party’s lawyer, may waive that entitlement.
 (7) In this section, view means an inspection by the Judge or, if there is a jury, by the Judge and jury, of a place or thing that is not in the courtroom.
 
 ### Subpart 4 — Questioning of witnesses
@@ -928,18 +928,18 @@ A person commits a contempt of court who prints or publishes,—
   (a) without the express permission of the Judge, any question that is disallowed by the Judge, or any evidence given in response to a question of that kind; or
   (b) any question, or any evidence given in response to a question, that the Judge has informed a witness he or she is not obliged to answer and has ordered must not be published.
 
-### 87 Privacy as to witness's precise address
-(1) In any proceeding, the precise particulars of a witness's address (for example, details of the street and number) may not, without the permission of the Judge, be—
+### 87 Privacy as to witness’s precise address
+(1) In any proceeding, the precise particulars of a witness’s address (for example, details of the street and number) may not, without the permission of the Judge, be—
   (a) the subject of any question to a witness or included in any evidence given; or
   (b) included in any statement or remark made by a witness, lawyer, officer of the court, or any other person.
 (2) The Judge must not grant permission under subsection (1) unless satisfied that the question to be put, the evidence to be given, or the statement or remark to be made, is of sufficient direct relevance to the facts in issue that to exclude it would be contrary to the interests of justice.
 (3) An application for permission under subsection (1) may be made before or after the commencement of any hearing, and is, where practicable, to be made and dealt with in chambers.
 (4) Nothing in subsection (1) applies in a criminal proceeding if it is necessary to disclose the particulars in the charge in order to ensure that the defendant is fully and fairly informed of the charge.
 
-### 88 Restriction on disclosure of complainant's occupation in sexual cases
+### 88 Restriction on disclosure of complainant’s occupation in sexual cases
 (1) In a sexual case, except with the permission of the Judge,—
-  (a) no question may be put to the complainant or any other witness, and no evidence may be given, concerning the complainant's occupation; and
-  (b) no statement or remark may be made in court by a witness, lawyer, officer of the court, or any other person involved in the proceeding concerning the complainant's occupation.
+  (a) no question may be put to the complainant or any other witness, and no evidence may be given, concerning the complainant’s occupation; and
+  (b) no statement or remark may be made in court by a witness, lawyer, officer of the court, or any other person involved in the proceeding concerning the complainant’s occupation.
 (2) The Judge must not grant permission under subsection (1) unless satisfied that the question to be put, the evidence to be given, or the statement or remark to be made, is of sufficient direct relevance to the facts in issue that to exclude it would be contrary to the interests of justice.
 (3) An application for permission under subsection (1) may be made before or after the commencement of any hearing, and is, where practicable, to be made and dealt with in chambers.
 
@@ -947,7 +947,7 @@ A person commits a contempt of court who prints or publishes,—
 (1) In any proceeding, a leading question must not be put to a witness in examination in chief or re-examination unless—
   (a) the question relates to introductory or undisputed matters; or
   (b) the question is put with the consent of all other parties; or
-  (c) the Judge, in exercise of the Judge's discretion, allows the question.
+  (c) the Judge, in exercise of the Judge’s discretion, allows the question.
 (2) Subsection (1) does not prevent a Judge, if permitted by rules of court, from allowing a written statement or report of a witness to be tendered or treated as the evidence in chief of that person.
 
 ### 90 Use of documents in questioning witness or refreshing memory
@@ -984,7 +984,7 @@ In any proceeding, the party who calls a witness may, if the Judge determines th
 (1) A defendant in a criminal proceeding that is a sexual case or a proceeding concerning domestic violence or harassment is not entitled to personally cross-examine—
   (a) a complainant:
   (b) a child (other than a complainant) who is a witness, unless the Judge gives permission.
-(2) In a civil or criminal proceeding, a Judge may, on the application of a witness, or a party calling a witness, or on the Judge's own initiative, order that a party to the proceeding must not personally cross-examine the witness.
+(2) In a civil or criminal proceeding, a Judge may, on the application of a witness, or a party calling a witness, or on the Judge’s own initiative, order that a party to the proceeding must not personally cross-examine the witness.
 (3) An order under subsection (2) may be made on 1 or more of the following grounds:
   (a) the age or maturity of the witness:
   (b) the physical, intellectual, psychological, or psychiatric impairment of the witness:
@@ -1009,10 +1009,10 @@ In any proceeding, the party who calls a witness may, if the Judge determines th
 (1) A party who cross-examines a witness may question the witness about a previous statement made by that witness without showing it or disclosing its contents to the witness if the time, place, and other circumstances concerning the making of the statement are adequately identified to the witness.
 (2) If a witness does not expressly admit making the statement and the party wishes to prove that the witness did make the statement,—
   (a) the party must show the statement to the witness if it is in writing, or disclose its contents to the witness if the statement was not in writing; and
-  (b) the witness must be given an opportunity to deny making the statement or to explain any inconsistency between the statement and the witness's testimony.
+  (b) the witness must be given an opportunity to deny making the statement or to explain any inconsistency between the statement and the witness’s testimony.
 (3) If a document is used by a defendant for the purpose of cross-examining a witness but is not offered as evidence by that defendant, the following rights of the defendant are not affected:
-  (a) the defendant's right to make a no-case application; and
-  (b) the defendant's rights in relation to the order of addressing the court.
+  (a) the defendant’s right to make a no-case application; and
+  (b) the defendant’s rights in relation to the order of addressing the court.
 
 ### 97 Re-examination
 (1) On re-examination, a witness—
@@ -1023,12 +1023,12 @@ In any proceeding, the party who calls a witness may, if the Judge determines th
   (b) may allow further re-examination on matters arising out of that cross-examination.
 
 ### 98 Further evidence after closure of case
-(1) In any proceeding, a party may not offer further evidence after closing that party's case, except with the permission of the Judge.
+(1) In any proceeding, a party may not offer further evidence after closing that party’s case, except with the permission of the Judge.
 (2) In a civil proceeding, the Judge may not grant permission under subsection (1) if any unfairness caused to any other party by the granting of permission cannot be remedied by an adjournment or an award of costs, or both.
 (3) In a criminal proceeding, the Judge may grant permission to the prosecution under subsection (1) if—
   (a) the further evidence relates to a purely formal matter; or
   (b) the further evidence relates to a matter arising out of the conduct of the defence, the relevance of which could not reasonably have been foreseen; or
-  (c) the further evidence was not available or admissible before the prosecution's case was closed; or
+  (c) the further evidence was not available or admissible before the prosecution’s case was closed; or
   (d) for any other reason the interests of justice require the further evidence to be admitted.
 (4) In a criminal proceeding, the Judge may grant permission to a defendant under subsection (1) if the interests of justice require the further evidence to be admitted.
 (5) The Judge may grant permission under subsection (1),—
@@ -1044,7 +1044,7 @@ In any proceeding, the party who calls a witness may, if the Judge determines th
 ### 100 Questioning of witnesses by Judge
 (1) In any proceeding, the Judge may ask a witness any questions that, in the opinion of the Judge, justice requires.
 (2) If the Judge questions a witness,—
-  (a) every party, other than the party who called the witness, may cross-examine the witness on any matter raised by the Judge's questions; and
+  (a) every party, other than the party who called the witness, may cross-examine the witness on any matter raised by the Judge’s questions; and
   (b) the party who called the witness may re-examine the witness.
 
 ### 101 Jury questions
@@ -1054,7 +1054,7 @@ In any proceeding, the party who calls a witness may, if the Judge determines th
     (i) whether and how the question should be put to the witness; and
     (ii) if the question is to be put to the witness, whether the parties may question the witness about matters raised by the question.
 (2) If a question from the jury is put to a witness, then, subject to any determination made by the Judge under subsection (1)(b)(ii),—
-  (a) every party, other than the party who called the witness, may cross-examine the witness on any matter raised by the jury's question; and
+  (a) every party, other than the party who called the witness, may cross-examine the witness on any matter raised by the jury’s question; and
   (b) the party who called the witness may re-examine the witness.
 
 ### Subpart 5 — Alternative ways of giving evidence
@@ -1062,19 +1062,19 @@ In any proceeding, the party who calls a witness may, if the Judge determines th
 ### 102 Application
 Sections 103 to 106 (which provide for alternative ways of giving evidence) are subject to the following provisions (which deal with specific situations):
   (a) section 107 (which relates to child complainants):
-  (b) sections 108 and 109 (which relate to undercover police officers):
+  (b) sections 108 and 109 (which relate to undercover constables):
   (c) sections 110 to 119 (which relate to anonymous witnesses).
 
 **General**
 
 ### 103 Directions about alternative ways of giving evidence
-(1) In any proceeding, the Judge may, either on the application of a party or on the Judge's own initiative, direct that a witness is to give evidence in chief and be cross-examined in the ordinary way or in an alternative way as provided in section 105.
+(1) In any proceeding, the Judge may, either on the application of a party or on the Judge’s own initiative, direct that a witness is to give evidence in chief and be cross-examined in the ordinary way or in an alternative way as provided in section 105.
 (2) An application for directions under subsection (1) must be made to the Judge as early as practicable before the proceeding is to be heard, or at any later time permitted by the court.
 (3) A direction under subsection (1) that a witness is to give evidence in an alternative way, may be made on the grounds of—
   (a) the age or maturity of the witness:
   (b) the physical, intellectual, psychological, or psychiatric impairment of the witness:
   (c) the trauma suffered by the witness:
-  (d) the witness's fear of intimidation:
+  (d) the witness’s fear of intimidation:
   (e) the linguistic or cultural background or religious beliefs of the witness:
   (f) the nature of the proceeding:
   (g) the nature of the evidence that the witness is expected to give:
@@ -1104,12 +1104,12 @@ If an application for directions is made under section 103, before giving any di
   (b) any appropriate practical and technical means may be used to enable the Judge, the jury (if any), and any lawyers to see and hear the witness giving evidence, in accordance with any regulations made under section 201:
   (c) in a criminal proceeding, the defendant is able to see and hear the witness, except where the Judge directs otherwise:
   (d) in a proceeding in which a witness anonymity order has been made, effect is given to the terms of that order.
-(2) If a video record of the witness's evidence is to be shown at the hearing of the proceeding, the Judge must give directions under section 103 as to the manner in which cross-examination and re-examination of the witness is to be conducted.
+(2) If a video record of the witness’s evidence is to be shown at the hearing of the proceeding, the Judge must give directions under section 103 as to the manner in which cross-examination and re-examination of the witness is to be conducted.
 (3) The Judge may admit evidence that is given substantially in accordance with the terms of a direction under section 103, despite a failure to observe strictly all of those terms.
 
 ### 106 Video record evidence
 (1) In a criminal proceeding tried on indictment, the video record evidence of a witness that is to be offered as an alternative way of giving evidence at the trial—
-  (a) must, if a video record of that witness's evidence was offered in evidence at the preliminary hearing, include the same video record; and
+  (a) must, if a video record of that witness’s evidence was offered in evidence at the preliminary hearing, include the same video record; and
   (b) may include a video record made after the preliminary hearing.
 (2) A video record offered as an alternative way of giving evidence must be recorded in compliance with any regulations made under this Act.
 (3) A video record that is to be offered as an alternative way of giving evidence in a proceeding must be offered for viewing by all parties or their lawyers before it is offered in evidence, unless the Judge directs otherwise.
@@ -1121,7 +1121,7 @@ If an application for directions is made under section 103, before giving any di
 (7) The Judge may order to be excised from a video record offered as evidence any material that, if the evidence were given in the ordinary way, would or could be excluded in accordance with this Act.
 (8) The Judge may admit a video record that is recorded and offered as evidence substantially in accordance with the terms of any direction under this subpart and the terms of regulations referred to in subsection (2), despite a failure to observe strictly all of those terms.
 
-**Directions about child complainants' evidence**
+**Directions about child complainants’ evidence**
 
 ### 107 Directions about way child complainants are to give evidence
 (1) In a criminal proceeding in which there is a child complainant, the prosecution must apply to the court in which the case will be tried for directions about the way in which the complainant is to give evidence in chief and be cross-examined.
@@ -1138,26 +1138,26 @@ If an application for directions is made under section 103, before giving any di
     (ii) the need to promote the recovery of the complainant from the alleged offence; and
   (c) any other factor that is relevant to the just determination of the proceeding.
 
-**Giving of evidence by undercover police officers**
+**Giving of evidence by undercover constables**
 
-### 108 Undercover police officers
+### 108 Undercover constables
 (1) This section and section 109 apply in any case where a person is being, or is to be, proceeded against by indictment—
   (a) for any offence that is punishable by imprisonment for life or for a term of at least 7 years; or
   (b) for any other offence against any provisions of the Misuse of Drugs Act 1975, except sections 7 and 13; or
   (c) for an offence against section 98A of the Crimes Act 1961; or
   (d) for conspiracy to commit, or for attempting to commit, an offence described in paragraph (a) or (b).
-(2) If, in any proceeding to which this section applies, it is intended to call an undercover police officer as a witness for the prosecution, the Commissioner of Police may, at any time before an indictment is presented, file in the court in which the proceedings are to be held a certificate signed by the Commissioner stating, in respect of that witness, the following particulars:
-  (a) that during the period specified in the certificate the witness was a member of the police and acted as an undercover police officer:
+(2) If, in any proceeding to which this section applies, it is intended to call an undercover constable as a witness for the prosecution, the Commissioner of Police may, at any time before an indictment is presented, file in the court in which the proceedings are to be held a certificate signed by the Commissioner stating, in respect of that witness, the following particulars:
+  (a) that during the period specified in the certificate the witness was a constable and acted as an undercover constable:
   (b) that the witness has not been convicted of any offence or (as the case may require) that the witness has not been convicted of any offence other than the offence, or offences, described in the certificate:
-  (c) that the witness has not been found guilty of an offence of misconduct or neglect of duty under the Police Act 1958, or (as the case may require) that the witness has not been found guilty of any offence of that kind except the offence or offences described in the certificate.
+  (c) that the witness has not been found guilty of a breach of the code of conduct prescribed under section 20 of the Policing Act 2008, or (as the case may require) that the witness has not been found guilty of any breach of that kind, other than a breach described in the certificate.
 (3) If, to the knowledge of the Commissioner of Police, the credibility of the witness in giving evidence in any other proceeding has been the subject of adverse comment by the Judge, the Commissioner must also include in the certificate a statement of the relevant particulars.
 (4) It is sufficient for the purposes of subsections (2) and (3) if the certificate includes a statement of the nature of any offence or comment referred to in the certificate and the year in which the offence was committed or the comment was made, and it is not necessary to include the venue or precise date of the proceedings or any other particulars that might enable the true name or true address of the witness to be discovered.
-(5) In this section and in section 109, undercover police officer, in relation to any proceeding to which this section applies, means a member of the police whose identity was concealed for the purpose of any investigation relevant to the proceedings.
+(5) In this section and in section 109, undercover constable, in relation to any proceeding to which this section applies, means a constable whose identity was concealed for the purpose of any investigation relevant to the proceedings.
 
 ### 109 Effect of certificate under section 108
 (1) If, in any proceeding to which section 108 applies, the Commissioner of Police files a certificate under section 108 relating to any witness, the following provisions apply:
-  (a) if a witness is subsequently called for the prosecution and states that, during the period specified in the certificate, he or she was a member of the police and acted as an undercover police officer under the name specified in the certificate, it must be presumed, in the absence of proof to the contrary, that the certificate has been given in respect of that witness:
-  (b) it is sufficient if the witness is identified by the name by which the witness was known while acting as an undercover police officer, and, except if leave is given under paragraph (d), the witness must not be required to state his or her true name or address, or to give any particulars likely to lead to the discovery of that name or address:
+  (a) if a witness is subsequently called for the prosecution and states that, during the period specified in the certificate, he or she was a constable and acted as an undercover constable under the name specified in the certificate, it must be presumed, in the absence of proof to the contrary, that the certificate has been given in respect of that witness:
+  (b) it is sufficient if the witness is identified by the name by which the witness was known while acting as an undercover constable, and, except if leave is given under paragraph (d), the witness must not be required to state his or her true name or address, or to give any particulars likely to lead to the discovery of that name or address:
   (c) except if leave is given under paragraph (d), no lawyer, officer of the court, or other person involved in the proceeding may state in court the true name or the address of the witness, or give any particulars likely to lead to the discovery of that name or address:
   (d) no evidence may be given, and no question may be put to the witness, or to any other witness, relating directly or indirectly to the true name or the address of the witness, except by leave of the Judge:
   (e) on an application for leave under paragraph (d), the certificate is, in the absence of evidence to the contrary, sufficient evidence of the particulars stated in it.
@@ -1176,21 +1176,21 @@ If an application for directions is made under section 103, before giving any di
 ### 110 Pre-trial witness anonymity order
 (1) This section and section 111 apply if a person is charged with an offence and is to be proceeded against by indictment.
 (2) At any time after the person is charged, the prosecution or the defendant may apply to a Judge for an order—
-  (a) excusing the applicant from disclosing to the other party prior to the preliminary hearing the name, address, and occupation of any witness, and (except with leave of the Judge) any other particulars likely to lead to the witness's identification; and
-  (b) excusing the witness from stating at the preliminary hearing his or her name, address, and occupation, and (except with leave of the Judge) any other particulars likely to lead to the witness's identification.
+  (a) excusing the applicant from disclosing to the other party prior to the preliminary hearing the name, address, and occupation of any witness, and (except with leave of the Judge) any other particulars likely to lead to the witness’s identification; and
+  (b) excusing the witness from stating at the preliminary hearing his or her name, address, and occupation, and (except with leave of the Judge) any other particulars likely to lead to the witness’s identification.
 (3) The Judge must hear and determine the application in chambers, and—
   (a) the Judge must give each party an opportunity to be heard on the application; and
-  (b) neither the party supporting the application nor the witness need disclose any information that might disclose the witness's identity to any person (other than the Judge) before the application is dealt with.
+  (b) neither the party supporting the application nor the witness need disclose any information that might disclose the witness’s identity to any person (other than the Judge) before the application is dealt with.
 (4) The Judge may make the order if he or she believes on reasonable grounds that—
-  (a) the safety of the witness or of any other person is likely to be endangered, or there is likely to be serious damage to property, if the witness's identity is disclosed before the trial; and
-  (b) withholding the witness's identity until the trial would not be contrary to the interests of justice.
+  (a) the safety of the witness or of any other person is likely to be endangered, or there is likely to be serious damage to property, if the witness’s identity is disclosed before the trial; and
+  (b) withholding the witness’s identity until the trial would not be contrary to the interests of justice.
 (5) Without limiting subsection (4), in considering the application, the Judge must have regard to—
   (a) the general right of a defendant to know the identity of witnesses; and
   (b) the principle that witness anonymity orders are justified only in exceptional circumstances; and
   (c) the gravity of the offence; and
-  (d) the importance of the witness's evidence to the case of the party who wishes to call the witness; and
+  (d) the importance of the witness’s evidence to the case of the party who wishes to call the witness; and
   (e) whether it is practical for the witness to be protected prior to the trial by any other means; and
-  (f) whether there is other evidence that corroborates the witness's evidence.
+  (f) whether there is other evidence that corroborates the witness’s evidence.
 (6) A pre-trial witness anonymity order may be made by—
   (a) a District Court Judge who holds a warrant under the District Courts Act 1947 to conduct trials on indictment:
   (b) if the preliminary hearing is held in a Youth Court, a Judge referred to in section 274(2)(a) of the Children, Young Persons, and Their Families Act 1989:
@@ -1199,11 +1199,11 @@ If an application for directions is made under section 103, before giving any di
 ### 111 Effect of pre-trial witness anonymity order
 If a pre-trial witness anonymity order is made under section 110,—
   (a) the party who applied for the order must give the Judge the name, address, and occupation of the witness; and
-  (b) during the course of the preliminary hearing, no lawyer, officer of the court, or other person involved in the preliminary hearing may disclose the name, address, or occupation of the witness, or any other particulars likely to lead to the witness's identification; and
+  (b) during the course of the preliminary hearing, no lawyer, officer of the court, or other person involved in the preliminary hearing may disclose the name, address, or occupation of the witness, or any other particulars likely to lead to the witness’s identification; and
   (c) during the course of the preliminary hearing,—
     (i) no oral evidence may be given, and no question may be put to any witness, if the evidence or question relates to the name, address, or occupation of the witness who is subject to the order; and
     (ii) except with leave of the Judge, no oral evidence may be given, and no question may be put to any witness, if the evidence or question relates to any other particulars likely to lead to the identification of the witness who is subject to the order; and
-  (d) no person may publish, in any report or account relating to the proceeding, the name, address, or occupation of the witness, or any other particulars likely to lead to the witness's identification.
+  (d) no person may publish, in any report or account relating to the proceeding, the name, address, or occupation of the witness, or any other particulars likely to lead to the witness’s identification.
 
 ### 112 Witness anonymity order for purpose of High Court trial
 (1) This section and section 113 apply if a person is charged with an indictable offence and is committed to—
@@ -1212,20 +1212,20 @@ If a pre-trial witness anonymity order is made under section 110,—
 (2) At any time after the person is committed for trial, the prosecution or the accused may apply to a High Court Judge for a witness anonymity order under this section.
 (3) The Judge must hear and determine the application in chambers, and—
   (a) the Judge must give each party an opportunity to be heard on the application; and
-  (b) neither the party supporting the application nor the witness need disclose any information that might disclose the witness's identity to any person (other than the Judge) before the application is dealt with.
+  (b) neither the party supporting the application nor the witness need disclose any information that might disclose the witness’s identity to any person (other than the Judge) before the application is dealt with.
 (4) The Judge may make a witness anonymity order if satisfied that—
-  (a) the safety of the witness or of any other person is likely to be endangered, or there is likely to be serious damage to property, if the witness's identity is disclosed; and
+  (a) the safety of the witness or of any other person is likely to be endangered, or there is likely to be serious damage to property, if the witness’s identity is disclosed; and
   (b) either—
-    (i) there is no reason to believe that the witness has a motive or tendency to be dishonest, having regard (where applicable) to the witness's previous convictions or the witness's relationship with the accused or any associates of the accused; or
-    (ii) the witness's credibility can be tested properly without disclosure of the witness's identity; and
+    (i) there is no reason to believe that the witness has a motive or tendency to be dishonest, having regard (where applicable) to the witness’s previous convictions or the witness’s relationship with the accused or any associates of the accused; or
+    (ii) the witness’s credibility can be tested properly without disclosure of the witness’s identity; and
   (c) the making of the order would not deprive the accused of a fair trial.
 (5) Without limiting subsection (4), in considering the application, the Judge must have regard to—
   (a) the general right of a defendant to know the identity of witnesses; and
   (b) the principle that witness anonymity orders are justified only in exceptional circumstances; and
   (c) the gravity of the offence; and
-  (d) the importance of the witness's evidence to the case of the party who wishes to call the witness; and
+  (d) the importance of the witness’s evidence to the case of the party who wishes to call the witness; and
   (e) whether it is practical for the witness to be protected by any means other than an anonymity order; and
-  (f) whether there is other evidence that corroborates the witness's evidence.
+  (f) whether there is other evidence that corroborates the witness’s evidence.
 
 ### 113 Effect of witness anonymity under section 112
 If a witness anonymity order is made under section 112,—
@@ -1233,11 +1233,11 @@ If a witness anonymity order is made under section 112,—
   (b) the witness may not be required to state in court his or her name, address, or occupation; and
   (c) during the course of the trial no lawyer, officer of the court, or other person involved in the proceeding may disclose—
     (i) the name, address, or occupation of the witness; or
-    (ii) except with leave of the Judge, any other particulars likely to lead to the witness's identification; and
+    (ii) except with leave of the Judge, any other particulars likely to lead to the witness’s identification; and
   (d) during the course of the trial—
     (i) no oral evidence may be given, and no question may be put to any witness, if the evidence or question relates to the name, address, or occupation of the witness who is subject to the order; and
     (ii) except with leave of the Judge, no oral evidence may be given, and no question may be put to any witness, if the evidence or question relates to any other particulars likely to lead to the identification of the witness who is subject to the order; and
-  (e) no person may publish, in any report or account relating to the proceedings, the name, address, or occupation of the witness, or any other particulars likely to lead to the witness's identification.
+  (e) no person may publish, in any report or account relating to the proceedings, the name, address, or occupation of the witness, or any other particulars likely to lead to the witness’s identification.
 
 ### 114 Trial to be held in High Court if witness anonymity order made
 (1) If an application to transfer a proceeding to the High Court is made under section 28J of the District Courts Act 1947 and a witness anonymity order is made under section 112 in that case before the application is dealt with, the Judge considering the application must transfer the proceeding to the High Court.
@@ -1247,8 +1247,8 @@ If a witness anonymity order is made under section 112,—
 ### 115 Judge may appoint independent counsel to assist
 (1) For the purposes of considering an application for a witness anonymity order under section 112, the Judge may appoint an independent counsel to assist the Judge and, without limiting the directions the Judge may give, the Judge may direct the independent counsel to—
   (a) inquire into the matters referred to in section 112(4)(a) and (b) and any other matters the Judge thinks relevant; and
-  (b) report the counsel's findings to the Judge.
-(2) The party who applied for the witness anonymity order must make available to the independent counsel all information relating to the proceeding that is in the party's possession.
+  (b) report the counsel’s findings to the Judge.
+(2) The party who applied for the witness anonymity order must make available to the independent counsel all information relating to the proceeding that is in the party’s possession.
 (3) Fees for professional services provided by counsel appointed under this section, and reasonable expenses incurred,—
   (a) may be determined in accordance with regulations made under section 201; and
   (b) are payable from money appropriated by Parliament for the purpose.
@@ -1269,13 +1269,13 @@ If a witness anonymity order is made under section 112,—
 ### 117 Variation or discharge of witness anonymity order during trial
 At any time before a witness gives evidence during a trial, a High Court Judge may, on his or her own motion or on the application of either party, vary or discharge a witness anonymity order made for the purposes of the proceeding under section 112.
 
-### 118 Witness in police witness protection programme
-If, at any time after the events that are the subject of a charge, a witness under a police witness protection programme assumes a new identity, the witness may not be required in any proceeding concerning the charge to disclose his or her assumed name or any particulars likely to disclose his or her new identity.
+### 118 Witness in Police witness protection programme
+If, at any time after the events that are the subject of a charge, a witness under a Police witness protection programme assumes a new identity, the witness may not be required in any proceeding concerning the charge to disclose his or her assumed name or any particulars likely to disclose his or her new identity.
 
 ### 119 Offences
 (1) A person commits an offence and is liable on conviction on indictment to a term of imprisonment not exceeding 7 years who, with knowledge of a pre-trial witness anonymity order made under section 110, intentionally contravenes section 111(b) or (d).
 (2) A person commits an offence and is liable on conviction on indictment to a term of imprisonment not exceeding 7 years who, with knowledge of a witness anonymity order made under section 112, intentionally contravenes section 113(c) or (e).
-(3) If a person contravenes section 111(b) or (d) or 113(c) or (e), and that contravention does not constitute an offence against subsection (1) or (2) of this section, the person commits an offence and is liable on summary conviction,—
+(3) If a person contravenes section 111(b) or (d) or 113(c) or (e), and that contravention does not constitute an offence against subsection (1) or (2), the person commits an offence and is liable on summary conviction,—
   (a) in the case of an individual, to a fine not exceeding $2,000:
   (b) in the case of a body corporate, to a fine not exceeding $10,000.
 (4) Nothing in this section limits the power of any court to punish any contempt of court.
@@ -1283,7 +1283,7 @@ If, at any time after the events that are the subject of a charge, a witness und
 **Signature of statements by assumed name**
 
 ### 120 Persons who may sign statements by assumed name
-(1) A deposition or other written statement of evidence given by an undercover police officer may be given and signed in the name by which the officer was known during the relevant investigation.
+(1) A deposition or other written statement of evidence given by an undercover constable may be given and signed in the name by which the officer was known during the relevant investigation.
 (2) A deposition or other written statement given by a witness who is the subject of an application for an anonymity order made under section 112, or who is the subject of an anonymity order made under section 110 or 112, may be given and signed by the witness using the term witness followed by an initial or mark.
 (3) This section overrides any contrary provision in this Act or any other enactment.
 
@@ -1307,7 +1307,7 @@ If, at any time after the events that are the subject of a charge, a witness und
   (a) hearsay evidence:
   (b) evidence of a statement by the defendant, if that evidence is the only evidence implicating the defendant:
   (c) evidence given by a witness who may have a motive to give false evidence that is prejudicial to a defendant:
-  (d) evidence of a statement by the defendant to another person made while both the defendant and the other person were detained in prison, a police station, or another place of detention:
+  (d) evidence of a statement by the defendant to another person made while both the defendant and the other person were detained in prison, a Police station, or another place of detention:
   (e) evidence about the conduct of the defendant if that conduct is alleged to have occurred more than 10 years previously.
 (3) In a criminal proceeding tried with a jury, a party may request the Judge to give a warning under subsection (1) but the Judge need not comply with that request—
   (a) if the Judge is of the opinion that to do so might unnecessarily emphasise evidence; or
@@ -1327,19 +1327,19 @@ If, at any time after the events that are the subject of a charge, a witness und
 
 ### 124 Judicial warnings about lies
 (1) This section applies if evidence offered in a criminal proceeding suggests that a defendant has lied either before or during the proceeding.
-(2) If evidence of a defendant's lie is offered in a criminal proceeding tried with a jury, the Judge is not obliged to give a specific direction as to what inference the jury may draw from that evidence.
-(3) Despite subsection (2), if, in a criminal proceeding tried with a jury, the Judge is of the opinion that the jury may place undue weight on evidence of a defendant's lie, or if the defendant so requests, the Judge must warn the jury that—
+(2) If evidence of a defendant’s lie is offered in a criminal proceeding tried with a jury, the Judge is not obliged to give a specific direction as to what inference the jury may draw from that evidence.
+(3) Despite subsection (2), if, in a criminal proceeding tried with a jury, the Judge is of the opinion that the jury may place undue weight on evidence of a defendant’s lie, or if the defendant so requests, the Judge must warn the jury that—
   (a) the jury must be satisfied before using the evidence that the defendant did lie; and
   (b) people lie for various reasons; and
   (c) the jury should not necessarily conclude that, just because the defendant lied, the defendant is guilty of the offence for which the defendant is being tried.
-(4) In a criminal proceeding tried without a jury, the Judge must have regard to the matters set out in paragraphs (a) to (c) of subsection (3) before placing any weight on evidence of a defendant's lie.
+(4) In a criminal proceeding tried without a jury, the Judge must have regard to the matters set out in paragraphs (a) to (c) of subsection (3) before placing any weight on evidence of a defendant’s lie.
 
-### 125 Judicial directions about children's evidence
+### 125 Judicial directions about children’s evidence
 (1) In a criminal proceeding tried with a jury in which the complainant is a child at the time when the proceeding commences, the Judge must not give any warning to the jury about the absence of corroboration of the evidence of the complainant if the Judge would not have given that kind of a warning had the complainant been an adult.
 (2) In a proceeding tried with a jury in which a witness is a child, the Judge must not, unless expert evidence is given in that proceeding supporting the giving of the following direction or the making of the following comment:
   (a) instruct the jury that there is a need to scrutinise the evidence of children generally with special care; or
   (b) suggest to the jury that children generally have tendencies to invent or distort.
-(3) This section does not affect any other power of the Judge to warn or inform the jury about children's evidence exercised in accordance with the requirements of regulations made under section 201.
+(3) This section does not affect any other power of the Judge to warn or inform the jury about children’s evidence exercised in accordance with the requirements of regulations made under section 201.
 
 ### 126 Judicial warnings about identification evidence
 (1) In a criminal proceeding tried with a jury in which the case against the defendant depends wholly or substantially on the correctness of 1 or more visual or voice identifications of the defendant or any other person, the Judge must warn the jury of the special need for caution before finding the defendant guilty in reliance on the correctness of any such identification.
@@ -1389,7 +1389,7 @@ In a civil proceeding a party may, on any terms that the Judge directs and subje
 ### 132 Documents required to be discovered or included in common bundle
 (1) This section applies only to a civil proceeding.
 (2) A document in a common bundle is received in evidence when the relevant conditions set out in rules of court have been complied with.
-(3) A document required by rules of court to be included in a party's affidavit or list made for the purposes of discovery but which has not been so included, may be produced in evidence at the hearing only with—
+(3) A document required by rules of court to be included in a party’s affidavit or list made for the purposes of discovery but which has not been so included, may be produced in evidence at the hearing only with—
   (a) the consent of the other party; or
   (b) the leave of the Judge.
 (4) Each document contained in the common bundle is subject to presumptions as to nature and origin that—
@@ -1398,7 +1398,7 @@ In a civil proceeding a party may, on any terms that the Judge directs and subje
 
 ### 133 Summary of voluminous documents
 (1) A party may, if notice is given to all other parties in sufficient time before the hearing and with the permission of the Judge, give evidence of the contents of a voluminous document or a voluminous compilation of documents by means of a summary or chart.
-(2) A party offering evidence by means of a summary or chart must, if the Judge so directs on the request of another party or on the Judge's own initiative, either—
+(2) A party offering evidence by means of a summary or chart must, if the Judge so directs on the request of another party or on the Judge’s own initiative, either—
   (a) produce the voluminous document or voluminous compilation of documents for examination in court during the hearing; or
   (b) make it available for examination and copying by other parties at a reasonable time and place.
 
@@ -1409,7 +1409,7 @@ In a civil proceeding, wherever a party is permitted under rules of court to ins
   (c) the production of secondary evidence to prove the authenticity of the document may be permitted in circumstances described in those rules.
 
 ### 135 Translations and transcripts
-(1) A party may offer a document that purports to be a translation into English of a document in a language other than English, or a translation into Maori of a document in a language other than Maori, if—
+(1) A party may offer a document that purports to be a translation into English of a document in a language other than English, or a translation into Māori of a document in a language other than Māori, if—
   (a) notice is given to all other parties in sufficient time before the hearing to provide those other parties with a fair opportunity to scrutinise the translation; and
   (b) all other requirements prescribed in regulations made under section 201 concerning that document are satisfied.
 (2) The translation is presumed to be an accurate translation, in the absence of evidence to the contrary.
@@ -1418,7 +1418,7 @@ In a civil proceeding, wherever a party is permitted under rules of court to ins
   (b) in a way that is capable of being reproduced as sound or script.
 (4) A party who offers a transcript of information or other matter in a sound recording under subsection (3) must play all or part of the sound recording in court during the hearing if—
   (a) the sound recording is available; and
-  (b) the Judge so directs, either on the application of another party or on the Judge's own initiative.
+  (b) the Judge so directs, either on the application of another party or on the Judge’s own initiative.
 
 ### 136 Proof of signatures on attested documents
 (1) The signature, execution, or attestation of a document (including a testamentary document) that is required by law to be attested may be proved by any satisfactory means.
@@ -1453,7 +1453,7 @@ In a civil proceeding, wherever a party is permitted under rules of court to ins
 (1) A certificate is admissible in evidence to prove the identity of a person alleged to have been convicted in a country of an offence if—
   (a) the certificate purports to be signed by a fingerprint examiner; and
   (b) copies of the fingerprints of the person are exhibited or shown on the certificate; and
-  (c) the certificate certifies that those copies are copies of the fingerprints of a person who was convicted in the fingerprint examiner's country of the offence of which particulars are given.
+  (c) the certificate certifies that those copies are copies of the fingerprints of a person who was convicted in the fingerprint examiner’s country of the offence of which particulars are given.
 (2) Subsection (3) applies to a certificate that—
   (a) purports to be signed by a fingerprint examiner; and
   (b) certifies that the copies of the fingerprints that are exhibited or shown on the certificate made under subsection (1) and the fingerprints of the person in respect of whom a conviction is sought to be proved (a copy of which is exhibited or shown on the certificate made under this subsection) are the fingerprints of the same person.
@@ -1461,15 +1461,15 @@ In a civil proceeding, wherever a party is permitted under rules of court to ins
 (4) The manner of proving a conviction authorised by this section is in addition to any other manner of proving the conviction authorised by law.
 (5) The Governor-General may, by Order in Council, declare that certificates purporting to be made by specified persons or classes of persons in any country other than New Zealand, Australia, United Kingdom, or Canada in respect of convictions for offences committed in that country and to the same effect as certificates under subsection (1) are evidence as if they had been made under subsection (1).
 (6) In this section, fingerprint examiner means a fingerprint examiner who is—
-  (a) a member or employee of the police; or
+  (a) a constable or employee of the Police; or
   (b) a member or employee of a police force in the United Kingdom; or
-  (c) a member or employee of a police force of Australia or the police force of a State or territory of Australia; or
-  (d) a member or employee of a police force of Canada or the police force of a Province or territory of Canada.
-(7) Subpart 1 of Part 2 (which relates to hearsay evidence) and Subpart 2 of Part 2 (which relates to opinion and expert evidence) do not apply to evidence offered under this section.
+  (c) a member or employee of a police force of Australia or the Police force of a State or territory of Australia; or
+  (d) a member or employee of a police force of Canada or the Police force of a Province or territory of Canada.
+(7) Subpart 1 of Part 2 (which relates to hearsay evidence) and subpart 2 of Part 2 (which relates to opinion and expert evidence) do not apply to evidence offered under this section.
 
 ### 141 New Zealand and foreign official documents
 (1) Subsection (2) applies to a document that purports—
-  (a) to have been printed in the Gazette ; or
+  (a) to have been printed in the Gazette; or
   (b) to have been printed or published by authority of the New Zealand Government; or
   (c) to have been printed or published by the Government Printer; or
   (d) to have been printed or published by order of or under the authority of the House of Representatives.
@@ -1484,7 +1484,7 @@ In a civil proceeding, wherever a party is permitted under rules of court to ins
 
 ### 142 Notification of acts in official documents
 (1) Subsection (2) applies if the doing of an act by the Governor-General or the House of Representatives, or by a person authorised to do the act by the law of New Zealand, is notified or published in—
-  (a) the Gazette ; or
+  (a) the Gazette; or
   (b) a document that was printed or published by authority of the New Zealand Government; or
   (c) a document that was printed or published by the Government Printer; or
   (d) a document that was printed or published by order of or under the authority of the House of Representatives.
@@ -1524,14 +1524,14 @@ In a civil proceeding, wherever a party is permitted under rules of court to ins
 
 ### 145 Interpretation
 In this section and sections 146 and 147,—
-  - **Convention** means the Hague Convention Abolishing the Requirement of Legalisation for Foreign Public Documents, done at The Hague on 5 October 1961
+  - **Convention** means the Hague Convention Abolishing the Requirement of Legalisation for Foreign Public Documents, done at the Hague on 5 October 1961
   - **Convention certificate** means a certificate issued under the Convention in relation to a foreign public document by the competent authority of the State from which the foreign public document emanates
   - **foreign public document** means a public document that—
     (a) has to be produced in New Zealand; and
     (b) was executed in a foreign country that—
       (i) is a contracting State under the Convention; and
-      (ii) did not raise an objection to New Zealand's accession to the Convention
-  - **legalisation** means the formality by which New Zealand's diplomatic or consular agents certify, in relation to a public document that has to be produced in New Zealand and that was executed in a foreign country,—
+      (ii) did not raise an objection to New Zealand’s accession to the Convention
+  - **legalisation** means the formality by which New Zealand’s diplomatic or consular agents certify, in relation to a public document that has to be produced in New Zealand and that was executed in a foreign country,—
     (a) the authenticity of the signature on the public document; and
     (b) the capacity in which the person signing the public document has acted; and
     (c) where appropriate, the identity of the stamp or seal that the public document bears
@@ -1541,11 +1541,11 @@ In this section and sections 146 and 147,—
       (i) a document emanating from an authority or from an official connected with the courts or tribunals of a State, including a document emanating from a public prosecutor, a clerk of a court, or a process server; and
       (ii) an administrative document (other than an administrative document dealing directly with commercial or customs operations); and
       (iii) a notarial act; and
-      (iv) an official certificate that is placed on a document signed by a person in the person's private capacity (for example, an official certificate recording the registration of a document or the fact that the document was in existence on a certain date, or an official or notarial authentication of a signature); but
+      (iv) an official certificate that is placed on a document signed by a person in the person’s private capacity (for example, an official certificate recording the registration of a document or the fact that the document was in existence on a certain date, or an official or notarial authentication of a signature); but
     (b) does not include a document executed by a diplomatic or consular agent.
 
 ### 146 Foreign public documents: certificates as to contracting States under Convention
-A certificate purporting to be signed by the Secretary of Foreign Affairs and Trade, and stating that a country is a contracting State under the Convention that did not raise an objection to New Zealand's accession to the Convention, is sufficient evidence of those matters, unless the contrary is proved.
+A certificate purporting to be signed by the Secretary of Foreign Affairs and Trade, and stating that a country is a contracting State under the Convention that did not raise an objection to New Zealand’s accession to the Convention, is sufficient evidence of those matters, unless the contrary is proved.
 
 ### 147 Foreign public documents: Convention certificates sufficient authentication of certain matters
 (1) A Convention certificate placed on, or attached to, a foreign public document is the only formality that a New Zealand authority may require, in relation to the document, as evidence or certification of—
@@ -1582,9 +1582,9 @@ In this subpart, unless the context otherwise requires,—
   - **Australian court** includes a tribunal declared by the Minister of Justice under section 152 to be an Australian court
   - **Australian subpoena** means a subpoena issued by an Australian court in a proceeding other than a specified proceeding
   - **document** has the meaning given to it by section 4
-  - **expenses** , in relation to a subpoena, includes the reasonable costs, necessary for the purposes of complying with the subpoena, of—
+  - **expenses** , in relation to a subpoena, includes the reasonable costs, necessary for the purposes of complying with the subpoena, of—necessary for the purposes of complying with the subpoena
     (a) travel to and from, and accommodation at, the place at which compliance with the subpoena is required; and
-    (b) finding, collating, and producing a document or thing necessary for the purposes of complying with the subpoena
+    (b) finding, collating, and producing a document or thing—
   - **Federal Court** means the Federal Court of Australia
   - **High Court** means the High Court of New Zealand
   - **Judge** , in relation to an Australian court, includes a Judicial Registrar, Magistrate, Master, and a member of a tribunal
@@ -1592,7 +1592,7 @@ In this subpart, unless the context otherwise requires,—
   - **New Zealand subpoena** means a subpoena issued by a New Zealand court in a proceeding other than a specified proceeding
   - **prescribed** means prescribed by rules or regulations made under section 199 or 200
   - **subpoena** —
-    (a) means a process that requires a person to do one or both of the following:
+    (a) means a process that requires a person to do 1 or both of the following:
       (i) give evidence; or
       (ii) produce a document or thing; but
     (b) does not include a process that requires a person to produce a document in connection with discovery and inspection of documents
@@ -1640,15 +1640,15 @@ A New Zealand subpoena served on a witness in Australia may require the witness 
 (3) Subsection (1) is subject to any directions as to service imposed under section 154(5).
 
 ### 157 Expenses
-(1) A witness on whom a New Zealand subpoena has been served in Australia is not required to comply with the subpoena unless, at the appropriate time, allowances and travelling expenses or vouchers in substitution for allowances and travelling expenses sufficient to meet the witness's reasonable expenses of complying with the subpoena are paid or given to the witness.
+(1) A witness on whom a New Zealand subpoena has been served in Australia is not required to comply with the subpoena unless, at the appropriate time, allowances and travelling expenses or vouchers in substitution for allowances and travelling expenses sufficient to meet the witness’s reasonable expenses of complying with the subpoena are paid or given to the witness.
 (2) Subsection (3) applies to a witness on whom a New Zealand subpoena has been served in Australia that requires the witness to produce documents or things, but does not require the witness to give oral evidence.
-(3) A witness to whom this subsection applies who elects to comply with the subpoena by producing the documents or things at an Australian court, is not required to comply with the subpoena unless, at the appropriate time, expenses sufficient to meet the witness's reasonable expenses of producing the documents or things to an Australian court and the expenses of transmitting the documents or things to the New Zealand court that issued the subpoena are paid or given to the witness.
+(3) A witness to whom this subsection applies who elects to comply with the subpoena by producing the documents or things at an Australian court, is not required to comply with the subpoena unless, at the appropriate time, expenses sufficient to meet the witness’s reasonable expenses of producing the documents or things to an Australian court and the expenses of transmitting the documents or things to the New Zealand court that issued the subpoena are paid or given to the witness.
 (4) In this section, the appropriate time means the time of service of the subpoena or at some other reasonable time before the witness is required to comply with it.
 
 ### 158 Payment of additional amounts to witness
 (1) A witness who has complied with a New Zealand subpoena that was served on the witness in Australia is entitled to be paid any reasonable expenses incurred by the witness in complying with the subpoena in addition to any expenses paid or given to the witness under section 157.
 (2) The expenses must be paid by the person who obtained the subpoena or, if the subpoena was issued under a direction of a New Zealand court, by the Crown.
-(3) Any money required to be paid by the Crown under subsection (2) must be paid out of the Crown bank account.
+(3) Any money required to be paid by the Crown under subsection (2) must be paid out of the Crown Bank Account.
 (4) The court which issued the subpoena may, on the application of the person by whom the subpoena was obtained or the witness, make an order—
   (a) specifying the amount to which the witness is entitled under this section; and
   (b) requiring the person who obtained the subpoena or the Crown, as the case may be, to pay the amount to the witness.
@@ -1696,12 +1696,12 @@ Nothing in sections 154 to 161 limits or affects any other powers of a New Zeala
 (1) A witness served with an Australian subpoena must comply with the subpoena.
 (2) Despite subsection (1) a witness served with an Australian subpoena is not required to comply with the subpoena if—
   (a) the subpoena is not served on the witness in accordance with section 163 and the law and rules that apply to the issue and service of the subpoena in the Australian court that issued it; or
-  (b) allowances and travelling expenses or vouchers in substitution for allowances and travelling expenses sufficient to meet the witness's reasonable expenses of complying with the subpoena are not given or paid to the witness at the appropriate time; or
+  (b) allowances and travelling expenses or vouchers in substitution for allowances and travelling expenses sufficient to meet the witness’s reasonable expenses of complying with the subpoena are not given or paid to the witness at the appropriate time; or
   (c) the witness is under the age of 18 years.
 (3) In this section the appropriate time means the time of service of the subpoena or at some other reasonable time before the witness is required to comply with it.
 
 ### 165 Failure of witness to comply with Australian subpoena
-(1) The High Court may, on receiving from the Australian court which issued the Australian subpoena a certificate stating that the witness has failed to comply with the subpoena, issue a warrant requiring any member of the police to arrest the witness and to bring him or her before the High Court.
+(1) The High Court may, on receiving from the Australian court which issued the Australian subpoena a certificate stating that the witness has failed to comply with the subpoena, issue a warrant requiring any constable to arrest the witness and to bring him or her before the High Court.
 (2) The High Court may, on the appearance of the witness before the court, impose a fine not exceeding $10,000 unless the court is satisfied that the failure to comply with the subpoena should be excused.
 (3) In determining whether the failure to comply with the subpoena should be excused, the High Court may have regard to—
   (a) any matters that were not brought to the attention of the Australian court which granted leave to serve the subpoena, if the High Court is satisfied that—
@@ -1846,8 +1846,8 @@ The High Court or a Judge may exercise the powers conferred by section 185(1) if
 (3) An order under subsection (1) may not require any particular steps to be taken unless they are steps which can be required to be taken by way of obtaining evidence for the purposes of civil proceedings in the High Court (whether or not proceedings of the same description as those to which the application for the order relates).
 (4) Subsection (3) does not preclude the making of an order requiring a person to give evidence (either orally or in writing) otherwise than on oath if this is asked for by the requesting court.
 (5) An order under subsection (1) may not require a person—
-  (a) to state what documents relevant to the proceedings to which the application for the order relates are or have been in the person's possession, custody, or power:
-  (b) to produce any documents other than particular documents specified in the order as being documents appearing to the court making the order to be, or to be likely to be, in the person's possession, custody, or power and relevant to the proceedings.
+  (a) to state what documents relevant to the proceedings to which the application for the order relates are or have been in the person’s possession, custody, or power:
+  (b) to produce any documents other than particular documents specified in the order as being documents appearing to the court making the order to be, or to be likely to be, in the person’s possession, custody, or power and relevant to the proceedings.
 (6) A person who, pursuant to an order under subsection (1), is required to attend at any place, is entitled to the same conduct money and payment for expenses and loss of time as on attendance as a witness in civil proceedings before the High Court.
 (7) An order made under subsection (1) may be enforced in the same manner as if it were an order made by the High Court or Judge in proceedings pending in the High Court or before the Judge.
 
@@ -1876,11 +1876,11 @@ No order may be made under this subpart that is binding on the Crown or on any p
   (a) any person named in the order be examined on oath, by interrogatories or otherwise, at any place outside New Zealand before any officer of the High Court, any overseas representative, or any other person named in the order by name or designation; and
   (b) any deposition so taken be filed in the High Court; and
   (c) any party to the proceeding be empowered to give that deposition in evidence in the proceeding, on any terms as the High Court or Judge may direct.
-(2) In any civil proceeding in the High Court, if the High Court or a Judge thinks fit, instead of making an order for the examination of a witness or person under subsection (1), the High Court or Judge may order that a Letter of Request be issued directed to any overseas court of competent jurisdiction for the examination of a witness or person named in the order.
-(3) If an order is made under subsection (2), a Letter of Request must be issued accordingly, and signed by a Judge or Registrar, and sealed with the seal of the High Court in a form—
+(2) In any civil proceeding in the High Court, if the High Court or a Judge thinks fit, instead of making an order for the examination of a witness or person under subsection (1), the High Court or Judge may order that a letter of request be issued directed to any overseas court of competent jurisdiction for the examination of a witness or person named in the order.
+(3) If an order is made under subsection (2), a letter of request must be issued accordingly, and signed by a Judge or Registrar, and sealed with the seal of the High Court in a form—
   (a) that the High Court or Judge approves or that is prescribed by rules of court or regulations made under section 200; or
   (b) that is consistent with the requirements of any convention to which the country in which the overseas court is, is a party to (for example, the Hague Convention on Evidence Abroad).
-(4) Letters of Request must be transmitted to and from an overseas court through any channels—
+(4) Letters of request must be transmitted to and from an overseas court through any channels—
   (a) that are prescribed by rules of court or regulations made under section 200; or
   (b) that are consistent with the requirements of any convention to which the country in which the overseas court is, is a party to (for example, the Hague Convention on Evidence Abroad).
 (5) On the application of any opposite party, and on being satisfied that the party for whose benefit an order under subsection (1) or (2) was made is not proceeding with due diligence to implement the order and the delay is not the responsibility of any other person, the Judge may—
@@ -1904,8 +1904,8 @@ In this subpart—
   - **Judge** means a Judge of the High Court
   - **overseas court** means a court or tribunal exercising jurisdiction in any country outside New Zealand
   - **overseas representative** —
-    (a) means any Ambassador, High Commissioner, Commissioner, Minister, Counsellor, Chargé d'Affaires, Head of Mission, Consular Officer, or Pro-consul of any country other than New Zealand exercising jurisdiction in New Zealand; and
-    (b) includes any person lawfully acting for any of those officers and also includes any Diplomatic Secretary on the staff of any such Ambassador, High Commissioner, Commissioner, Minister, Counsellor, Chargé d'Affaires, or Head of Mission.
+    (a) means any Ambassador, High Commissioner, Commissioner, Minister, Counsellor, Chargé d’Affaires, Head of Mission, Consular Officer, or Pro-consul of any country other than New Zealand exercising jurisdiction in New Zealand; and
+    (b) includes any person lawfully acting for any of those officers and also includes any Diplomatic Secretary on the staff of any such Ambassador, High Commissioner, Commissioner, Minister, Counsellor, Chargé d’Affaires, or Head of Mission.
 
 ### 191 Relationship with subpart 1
 This subpart does not affect the application or operation of subpart 1.
@@ -1930,11 +1930,11 @@ This subpart does not affect the application or operation of subpart 1.
 
 ### 194 Evidence in support of application
 (1) Evidence that any criminal proceedings are pending in an overseas court and that the court wishes to obtain the evidence of the witness to whom the application relates for the purposes of those proceedings, may be given by—
-  (a) Letter of Request; or
+  (a) letter of request; or
   (b) another document issued by that court; or
   (c) the certificate of an overseas representative given under subsection (3); or
   (d) any other process that the High Court or a Judge may accept.
-(2) Any Letter of Request or other document purporting to be sealed with the seal of any overseas court or signed by a Judge or other judicial officer or by a Registrar or other officer of the court must for the purpose of this section and section 192 be received in evidence without proof of—
+(2) Any letter of request or other document purporting to be sealed with the seal of any overseas court or signed by a Judge or other judicial officer or by a Registrar or other officer of the court must for the purpose of this section and section 192 be received in evidence without proof of—
   (a) the seal of the court; or
   (b) the signature of the Judge or other person; or
   (c) the judicial or official character of the Judge or other person.
@@ -1950,7 +1950,7 @@ This subpart does not affect the application or operation of subpart 1.
   (a) answering any question:
   (b) producing any document.
 
-### 196 Witnesses' expenses
+### 196 Witnesses’ expenses
 Every witness required to attend for examination by an order made under section 192 is entitled to a sum for his or her allowances and travelling expenses and loss of time in accordance with the scale prescribed for the time being by regulations made under the Summary Proceedings Act 1957.
 
 ### 197 Solicitor may take affidavit or declaration
@@ -1998,7 +1998,7 @@ Every witness required to attend for examination by an order made under section 
 
 ### 201 Regulations
 The Governor-General may, by Order in Council, make regulations—
-  (a) prescribing the procedure to be followed, the type of equipment to be used, and the arrangements to be made where a person's evidence is to be video recorded:
+  (a) prescribing the procedure to be followed, the type of equipment to be used, and the arrangements to be made where a person’s evidence is to be video recorded:
   (b) providing for the approval of interviewers, or classes of interviewers, for child complainants, and providing for such approvals to be proved by production of certificates in the prescribed form:
   (c) regulating the way in which evidence of a witness may be given in an alternative way:
   (d) prescribing the form of certificate by which an interviewer is to formally identify a video record:
@@ -2011,7 +2011,7 @@ The Governor-General may, by Order in Council, make regulations—
   (k) providing for requirements, in addition to those set out in section 45(3), for formal procedures that are held to obtain visual identification evidence:
   (l) providing for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by counsel appointed under section 115:
   (m) regulating the form of warnings or information that can be given by a Judge in relation to evidence given by children under the age of 6 years in a proceeding tried by a jury:
-  (n) regulating the translation of documents into English or Maori:
+  (n) regulating the translation of documents into English or Māori:
   (o) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 
 **Periodic review of operation of Act**
@@ -2031,7 +2031,7 @@ The Governor-General may, by Order in Council, make regulations—
 ### 203 Notice of hearsay before commencement
 The requirements of section 22(2) may be complied with before the commencement of that provision, for the purpose of ensuring that compliance with those requirements occurs in sufficient time before a hearing that may or will take place after the commencement of that provision.
 
-### 204 Notice before commencement relating to co-defendants' veracity
+### 204 Notice before commencement relating to co-defendants’ veracity
 A notice under section 39(2) may be given, before the commencement of that provision, for the purpose of ensuring that it is given in sufficient time before a hearing that may or will take place after the commencement of that provision.
 
 ### 205 Notice before commencement concerning propensity evidence about co-defendants
@@ -2045,7 +2045,7 @@ Subpart 6 of Part 2 (identification evidence) does not apply in relation to an i
   - **lawyer** means a barrister or solicitor, as those terms are defined in section 2 of the Law Practitioners Act 1982
 (2) Until the commencement of section 112 of the Lawyers and Conveyancers Act 2006, section 55(1)(a) must be read as if the reference to section 112 of the Lawyers and Conveyancers Act 2006 were a reference to section 89 of the Law Practitioners Act 1982.
 (3) Until the commencement of section 96 of the Lawyers and Conveyancers Act 2006, section 55(1) must be read as if for paragraph (b) there were substituted the following paragraph:
-  (b) by any solicitors' nominee company operated by a solicitor with the consent of the relevant District Law Society as a nominee in respect of securities and documents of title held for clients.
+  (b) by any solicitors’ nominee company operated by a solicitor with the consent of the relevant District Law Society as a nominee in respect of securities and documents of title held for clients.
 
 ### 208 Transitional provision relating to communication assistance
 (1) A defendant may apply under section 80(2), before the commencement of that provision, for communication assistance after the commencement of that provision in criminal proceedings.
@@ -2082,6 +2082,8 @@ The enactments specified in Schedule 2 are amended in the manner set out in that
 
 ## Schedule 2 — Amendments to other enactments
 
+**Judicial notice and evidence of New Zealand legislation**
+
 ### 16A Judicial notice of Acts of Parliament
 Judicial notice must be taken by all courts and persons acting judicially of all Acts of Parliament.
 
@@ -2095,7 +2097,7 @@ Judicial notice must be taken by all courts and persons acting judicially of all
 (1) Every copy of any Act of Parliament or of any Imperial enactment or any Imperial subordinate legislation (as defined in section 2 of the Imperial Laws Application Act 1988) being a copy purporting to be printed or published (whether before or after the commencement of this section) under the authority of the New Zealand Government is, unless the contrary is shown, deemed—
   (a) to be a correct copy of that Act of Parliament, enactment, or legislation; and
   (b) to have been so printed or published.
-(2) Every copy of any Imperial enactment or Imperial subordinate legislation (as so defined), being a copy purporting to be printed (whether before or after the commencement of this section) by the Queen's or King's Printer or under the superintendence or authority of Her Majesty's Stationery Office in the United Kingdom, is, unless the contrary is shown, deemed—
+(2) Every copy of any Imperial enactment or Imperial subordinate legislation (as so defined), being a copy purporting to be printed (whether before or after the commencement of this section) by the Queen’s or King’s Printer or under the superintendence or authority of Her Majesty’s Stationery Office in the United Kingdom, is, unless the contrary is shown, deemed—
   (a) to be a correct copy of that enactment or legislation; and
   (b) to have been so printed.
 (3) Every copy of any regulations (as defined in section 16B(2)) purporting to be printed, whether before or after the commencement of this section, under the authority of the New Zealand Government is, unless the contrary is shown, deemed—
